@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "id": "existentialism",
+      "title": "الوجودية",
+      "type": "مدرسة",
+      "file": "data/existentialism.json"
+    },
+    {
+      "id": "yalom",
+      "title": "إيرفين يالوم",
+      "type": "مفكر",
+      "file": "data/yalom.json"
+    },
+    {
+      "id": "frankl",
+      "title": "فيكتور فرانكل",
+      "type": "مفكر",
+      "file": "data/frankl.json"
+    },
+    {
+      "id": "meaning-of-life",
+      "title": "معنى الحياة",
+      "type": "مفهوم",
+      "file": "data/meaning-of-life.json"
+    }
+  ]
+}

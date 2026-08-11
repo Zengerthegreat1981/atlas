@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>أطلس</title>
+<style>
+  body { font-family: Tahoma, Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; background: #f7f5f2; color: #222; }
+  .type { display: inline-block; background: #e8e2d8; color: #6b5b3f; font-size: 13px; padding: 3px 10px; border-radius: 12px; margin-bottom: 10px; }
+  h1 { margin-bottom: 4px; }
+  .definition { line-height: 1.9; font-size: 17px; margin: 20px 0; }
+  .relations { margin-top: 30px; }
+  .relations h2 { font-size: 15px; color: #888; font-weight: normal; }
+  .relations a { display: inline-block; margin: 4px 6px 4px 0; padding: 6px 14px; background: #fff; border: 1px solid #ddd; border-radius: 20px; text-decoration: none; color: #333; }
+  .relations a:hover { background: #eee; }
+  #list a { display: block; padding: 10px 0; border-bottom: 1px solid #e5e0d8; text-decoration: none; color: #333; }
+  .error { color: #a33; }
+</style>
+</head>
+<body>
+  <div id="app">جاري التحميل...</div>
+
+<script>
+async function loadIndex() {
+  const res = await fetch('data/index.json');
+  return (await res.json()).entries;
+}
+
+async function loadEntry(path) {
+  const res = await fetch(path);
+  return res.json();
+}
+
+async function render() {
+  const app = document.getElementById('app');
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  const entries = await loadIndex();
+
+  if (!id) {
+    // فهرس عام
+    app.innerHTML = '<h1>الأطلس</h1><div id="list"></div>';
+    const list = document.getElementById('list');
+    entries.forEach(e => {
+      const a = document.createElement('a');
+      a.href = '?id=' + e.id;
+      a.innerHTML = e.title + ' <span style="color:#999;font-size:13px">(' + e.type + ')</span>';
+      list.appendChild(a);
+    });
+    return;
+  }
+
+  const meta = entries.find(e => e.id === id);
+  if (!meta) {
+    app.innerHTML = '<p class="error">المدخل غير موجود.</p><a href="index.html">← رجوع للفهرس</a>';
+    return;
+  }
+
+  const entry = await loadEntry(meta.file);
+
+  let relationsHtml = '';
+  if (entry.relations && entry.relations.length) {
+    relationsHtml = '<div class="relations"><h2>مرتبط بـ:</h2>';
+    entry.relations.forEach(relId => {
+      const relMeta = entries.find(e => e.id === relId);
+      if (relMeta) {
+        relationsHtml += '<a href="?id=' + relMeta.id + '">' + relMeta.title + '</a>';
+      }
+    });
+    relationsHtml += '</div>';
+  }
+
+  app.innerHTML =
+    '<a href="index.html" style="text-decoration:none;color:#888;font-size:14px">← الفهرس</a>' +
+    '<div class="type">' + entry.type + '</div>' +
+    '<h1>' + entry.title + '</h1>' +
+    '<div class="definition">' + entry.definition + '</div>' +
+    relationsHtml;
+}
+
+render();
+</script>
+</body>
+</html>
