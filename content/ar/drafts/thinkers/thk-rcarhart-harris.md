@@ -1,0 +1,45 @@
+---
+slug: "thk-rcarhart-harris"
+id: "[DRAFT-UNKNOWN]"
+type: "مفكر"
+level: "متقدم"
+title: "روبن كارهارت-هاريس"
+en: "Robin L. Carhart-Harris"
+dates: "المملكة المتحدة · وُلد 1979"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 2009
+active_end: "مستمر"
+edges:
+  - rel: "belongs_to", target: "العلاج بمساعدة النفسانية", target_type: "مدرسة"
+related:
+  - id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
+  - id: "thk-cgrob", title: "تشارلز غروب", type: "مفكر"
+gaps:
+  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# روبن كارهارت-هاريس
+
+عالم أعصاب بريطاني، مدير مركز Imperial College's Centre for Psychedelic Research، من أهم الباحثين المعاصرين في الـ psilocybin.
+
+## ما أعطاه
+
+- **"النموذج الانتقائي"** (REBUS Model, Relaxed Beliefs Under Psychedelics): نظرية عصبية حول كيف تعمل النفسانيات على الدماغ.
+- **"دراسات في Imperial College"**: دراسات رائدة على السيلوسيبين في علاج الاكتئاب المقاوم.
+- **"نظرية الدماغ"** (Entropic Brain Theory): نظرية تقول إن النفسانيات تزيد من "إنتروبيا" الدماغ.
+- **"السياحة النفسية"** (Psychedelic Tourism): دراسات حول أنماط الاستعمال السياحي والعلاجي.
+
+## موقعه من التيار
+
+من أهم الباحثين المعاصرين في الحقل. تكامل مع غريفيثز وغروب في إرث ريتشاردز.
+
+## أهم أعماله
+
+- *Mystical Insights & Neurochemistry* (مساهم، 2018).
+- *The Entropic Brain* (2017، مع درابر).
+
+## اقتباسات مختارة
+
+لا يوجد اقتباس مباشر موثوق متاح.

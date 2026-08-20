@@ -1,0 +1,40 @@
+---
+slug: "thk-ctieles"
+id: "[DRAFT-UNKNOWN]"
+type: "مفكر"
+level: "متوسط"
+title: "سيسليو تيليس"
+en: "Cecilio Tieles"
+crumb: "مدرسة التحليل النفسي ← الناس ← سيسليو تيليس"
+dates: "فنزويلا · [غير مؤكد]"
+country: "فنزويلا"
+language: "الإسبانية"
+edges:
+  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+related:
+  - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
+  - id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
+gaps:
+  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "السيرة الكاملة بحاجة لتحديد."
+---
+
+# سيسليو تيليس
+
+محلّل يونغي فنزويلي، تلميذ لوبيز-بيدراثا في كراكاس، من أهمّ أعلام «التحليلية الكراكاسية» في الجيل الثاني.
+
+## ما أعطاه
+
+في «Mitos y Máscaras de la Cultura Venezolana» (1990s) أجرى «تحليلية» لـ«الظِلّ الجماعي» الفنزويلي — مع تركيز على «Las máscaras de María Lionza» (الظاهرة الفولكلورية الفنزويلية) كـ«أركيتيب مركّب» (L. Wolff). كذلك شارك في تحرير «Revista Venezolana de Psicología de los Arquetipos» مع Capriles.
+
+## موقعه من التيار
+
+«الجيل الثاني» لكراكاس، مع A. Capriles (النسوي) وC. Tuzio (الإداري الأرجنتيني).
+
+## قيد
+
+موقعه في الذاكرة الدولية ضعيف.
+
+## أهم أعماله
+
+Mitos y Máscaras de la Cultura Venezolana (1990s).

@@ -1,0 +1,39 @@
+---
+slug: "thk-dmarivoet"
+id: "[DRAFT-UNKNOWN]"
+type: "مفكر"
+level: "متوسط"
+title: "ديرك ماريڤوت"
+en: "Dirk Marivoet"
+crumb: "علم نفس الجسد ← الناس ← Bodymind Integration ← ديرك ماريڤوت"
+dates: "بلجيكا · [غير مؤكد]"
+country: "بلجيكا"
+language: "الهولندية / الإنجليزية"
+edges:
+  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+related:
+  - id: "thk-pierrakos", title: "جون بيراكوس", type: "مفكر"
+gaps:
+  - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# ديرك ماريڤوت
+
+محلّل نفسي بلجيكي، ومدير Institute for Bodymind Integration في Ghent، ومدرّب معتمد في Postural Integration وEnergetic Integration وPelvic-Heart Integration.
+
+## ما أعطاه
+
+يجمع بين Core Energetics (Pierrakos) وPostural Integration (Jack Painter) وEnergetic Integration، في إطار «تكامل الجسم-العقل» (Bodymind Integration). درس أيضاً الشامانية الأصلية في أوروبا وأمريكا الشمالية. كتاب «Pelvic-Heart Integration» (التكامل الحوضي-القلبي) يربط بين Core Energetics وأعمال Painter حول «الحوض» و«القلب» كمحورين للجسد.
+
+## موقعه من التيار
+
+من «مكمّلي» Core Energetics، الذين يدمجونها بمدارس أخرى (Postural Integration، الشامانية). حلقة الوصل بين Core Energetics، جاك باينتر، والتقاليد الشامانية.
+
+## قيد
+
+مُدرج هنا لأهميته في «توسعة» Core Energetics بمدارس أخرى، مع إقرار بأن هذه التوسعة «تضعف» حدود التيار الأصلي.
+
+## أهم أعماله
+
+دورات تدريبية في Bodymind Integration · «Pelvic-Heart Integration» (دورات).

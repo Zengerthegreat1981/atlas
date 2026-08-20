@@ -1,0 +1,18 @@
+# قائمة عناصر: الأدوات العصبية النفسية
+
+**نوع العناصر:** `ins-` (أداة قياس)  
+**عدد العناصر:** 7
+
+| الاسم بالعربي | English Name | الباحث/المؤلف الرئيسي | السنة | ليه مؤثر (جملة واحدة) | مصدر التحقق |
+|---|---|---|---|---|---|
+| اختبار بندر-غشطالت البصري الحركي | Bender Visual-Motor Gestalt Test (Bender-Gestalt II) | لوريتا بندر وغاري برانيجان (Lauretta Bender & Gary Brannigan) | 1938 | الأداة العصبية النفسية الكلاسيكية الرائدة لتقييم التكامل البصري الحركي واكتشاف الآفات العضوية والتلف الدماغي وصعوبات التعلم. | Bender, L. (1938). A Visual Motor Gestalt Test and its Clinical Use. American Orthopsychiatric Association; Brannigan, G. G., & Decker, S. L. (2003). Bender Visual-Motor Gestalt Test, Second Edition (Bender-Gestalt II). |
+| اختبار ربط المسارات | Trail Making Test (TMT Part A & B) | رالف ريتان وبطارية الجيش (Ralph Reitan / Army Individual Test Battery) | 1944 | الأداة العصبية النفسية الأكثر حساسية وشهرة لتقييم سرعة المعالجة البصرية، والمرونة الذهنية، والتحكم التنفيذي للفص الجبهي. | Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271–276. |
+| مقياس وكسلر للذاكرة | Wechsler Memory Scale (WMS-IV) | ديفيد وكسلر (David Wechsler) | 1945 | البطارية العصبية النفسية المعيارية الأكثر شمولاً في العالم لتقييم الذاكرة اللفظية والبصرية والفورية والمؤجلة. | Wechsler, D. (1945). A standardized memory scale for clinical use. The Journal of Psychology, 19(1), 87–95; Wechsler, D. (2009). Wechsler Memory Scale–Fourth Edition (WMS-IV). Pearson. |
+| اختبار ويسكونسن لتصنيف البطاقات | Wisconsin Card Sorting Test (WCST) | ديفيد غرانت وإيستا بيرغ وروبرت هيتون (David A. Grant, Esta A. Berg & Robert Heaton) | 1948 | المعيار العصبي الذهبي لتقييم الوظائف التنفيذية للقشرة الجبهية الظهرية الجانبية (DLPFC)، والاستدلال التجريدي، والمرونة الإدراكية ومقاومة المثابرة. | Grant, D. A., & Berg, E. A. (1948). A behavioral analysis of degree of reinforcement and ease of shifting to new responses in a Weigl-type card-sorting problem. Journal of Experimental Psychology, 38(4), 404–411; Heaton, R. K. (1981). |
+| اختبار ستروب للألوان والكلمات | Stroop Color and Word Test | جيه. ريدلي ستروب وتشارلز غولدن (J. Ridley Stroop & Charles Golden) | 1935 | النموذج التجريبي الأكثر كلاسيكية لقياس التثبيط الإدراكي (Cognitive Inhibition)، والانتباه الانتقائي، ومقاومة التداخل الآلي. | Stroop, J. R. (1935). Studies of interference in serial verbal reactions. Journal of Experimental Psychology, 18(6), 643–662; Golden, C. J. (1978). Stroop Color and Word Test: A Manual for Clinical and Experimental Uses. |
+| تقييم مونتريال الإدراكي | Montreal Cognitive Assessment (MoCA) | زياد نصر الدين وزملاؤه (Ziad Nasreddine et al.) | 2005 | أداة الفرز الإكلينيكية المعيارية الأحدث والأكثر حساسية للكشف المبكر عن الاختلال المعرفي المعتدل (MCI) ومراحل الخرف الأولى. | Nasreddine, Z. S. et al. (2005). The Montreal Cognitive Assessment, MoCA: A brief screening tool for mild cognitive impairment. Journal of the American Geriatrics Society, 53(4), 695–699. |
+| فحص الحالة العقلية المصغر | Mini-Mental State Examination (MMSE / MMSE-2) | مارشال فولستين وسوزان فولستين (Marshal F. Folstein et al.) | 1975 | الأداة السريرية التاريخية الأكثر استخداماً وتوثيقاً في الطب النفسي وطب الأعصاب لتقييم الخرف وتتبع التدهور المعرفي. | Folstein, M. F., Folstein, S. E., & McHugh, P. R. (1975). 'Mini-mental state': A practical method for grading the cognitive state of patients for the clinician. Journal of Psychiatric Research, 12(3), 189–198. |
+
+## مستبعدون (تكرارات أو خارج النطاق)
+
+- لا يوجد عناصر مستبعدة؛ جميع العناصر المختارة تم فحصها والتأكد من مطابقتها لمعايير التوثيق الأكاديمي والجدة في الأطلس.

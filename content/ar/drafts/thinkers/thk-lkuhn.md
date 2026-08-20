@@ -1,0 +1,29 @@
+---
+slug: "thk-lkuhn"
+id: "[DRAFT-UNKNOWN]"
+type: "مفكر"
+level: "متوسط"
+title: "ليندا كون"
+en: "Linda Kuhn"
+crumb: "دائرة الأمان COS ← تطوير أبحاث ← ليندا كون"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "إنجليزية"
+active_start: 1990
+active_end: "مستمر"
+edges:
+  - rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
+gaps:
+  - "سنة الميلاد غير موثّقة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# ليندا كون
+
+محللة نفسية وعالمة نفس أطفال أمريكية، من أهم الباحثين في **إثبات فعالية COS** في دراسات مراقبة معشّاة.
+
+## ما أعطت
+
+- **RCTs على Circle of Security-Parenting (COS-P)** تُظهر فعالية في خفض تعلق القلق.
+- **«Disorganized Attachment in Children»** مع كوبر وسبايكر.
+- **تحليل الميكانيزمات التحويلية** في COS.

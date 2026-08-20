@@ -1,0 +1,16 @@
+# قائمة عناصر: العجز المُتعلَّم والتفاؤل/التشاؤم المُفسَّر
+
+**نوع العناصر:** `stu-` (دراسة وبحث)  
+**عدد العناصر:** 5
+
+| الاسم بالعربي | English Name | الباحث/المؤلف الرئيسي | السنة | ليه مؤثر (جملة واحدة) | مصدر التحقق |
+|---|---|---|---|---|---|
+| تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب | Overmier, Seligman & Maier Original Learned Helplessness Experiments | جيه. بروس أوفيرماير، ستيفن ماير، ومارتن سليجمان (J. Bruce Overmier, Steven Maier & Martin Seligman) | 1967 | النموذج التجريبي التأسيسي لنظرية العجز المُتعلَّم، مفسراً نشوء الاكتئاب السريري وفقدان الدافعية نتيجة التعرض لضغوط لا يمكن الهروب منها. | Overmier, J. B., & Seligman, M. E. (1967). Effects of inescapable shock upon subsequent escape and avoidance responding. Journal of Comparative and Physiological Psychology, 63(1), 28–33; Seligman, M. E., & Maier, S. F. (1967). |
+| دراسة هيروتو وسليجمان حول العجز المُتعلَّم لدى البشر وتأثير غياب التحكم | Hiroto & Seligman Human Learned Helplessness and Instrumental Control Study | دونالد هيروتو ومارتن سليجمان (Donald Hiroto & Martin Seligman) | 1975 | أثبتت انتقال وتعميم ظاهرة العجز المُتعلَّم إلى البشر عبر تعريضهم لضوضاء حادة لا يمكن التحكم فيها وفشلهم في حل مهام إدراكية لاحقة. | Hiroto, D. S., & Seligman, M. E. (1975). Generality of learned helplessness in man. Journal of Personality and Social Psychology, 31(2), 311–327. |
+| دراسات بيترسون وسليجمان حول أسلوب التفسير السببي والاكتئاب | Peterson & Seligman Explanatory Style and Reformulated Helplessness Studies | كريستوفر بيترسون ومارتن سليجمان ولين أبرامسون (Christopher Peterson, Martin Seligman & Lyn Abramson) | 1984 | أعادت صياغة نظرية العجز المتعلم معرفياً بتحديد الأبعاد الثلاثة للإسناد السببي (داخلي/خارجي، مستقر/غير مستقر، عام/محدد) كمتنبئ رئيسي بالاكتئاب. | Abramson, L. Y., Seligman, M. E., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. Journal of Abnormal Psychology; Peterson, C., & Seligman, M. E. (1984). Causal explanations as a risk factor for depression. History and Systems of Psychology. |
+| دراسة لانغر ورودين حول التحكم والمسؤولية الشخصية لدى نزلاء دار المسنين | Langer & Rodin Nursing Home Personal Control and Responsibility Study | إلين لانغر وجوديث رودين (Ellen Langer & Judith Rodin) | 1976 | برهنت تجريبياً على أن منح كبار السن قدراً بسيطاً من التحكم والمسؤولية الذاتية يحسن الصحة النفسية ويخفض معدل الوفيات بمقدار النصف. | Langer, E. J., & Rodin, J. (1976). The effects of choice and enhanced personal responsibility for the aged: A field experiment in an institutional setting. Journal of Personality and Social Psychology, 34(2), 191–198; Rodin, J., & Langer, E. J. (1977). |
+| دراسة دويك حول العجز المُتعلَّم والتوجه نحو الإتقان لدى أطفال المدارس | Dweck's Learned Helplessness and Mastery Orientation in Children Study | كارول دويك (Carol S. Dweck) | 1975 | مهدت لاكتشاف 'عقلية النمو' (Growth Mindset) بإثباتها أن تدريب الأطفال على عزو الفشل لقلة الجهد يكسر العجز المتعلم ويعيد الإصرار. | Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. Journal of Personality and Social Psychology, 31(4), 674–685. |
+
+## مستبعدون (تكرارات أو خارج النطاق)
+
+- لا يوجد عناصر مستبعدة؛ جميع العناصر المختارة تم فحصها والتأكد من مطابقتها لمعايير التوثيق الأكاديمي والجدة في الأطلس.

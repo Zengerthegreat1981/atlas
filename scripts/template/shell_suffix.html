@@ -1,0 +1,2590 @@
+;
+const app=document.getElementById('app');
+const HOME='sch-existential';
+/* جذر الأطلس الحقيقي — أعلى من أي مدرسة بعينها. 'sch-existential' مش عنصر موجود فعلاً في
+   DATA.nodes (هو فقط اسم مستعار كان بيسقط دايماً على renderSchool() كواجهة افتراضية)،
+   فكان معناه العملي إن "الأطلس" و"المدرسة الوجودية" نفس الصفحة بالظبط — من غير أي شاشة
+   دخول محايدة تعرض المدارس المتاحة أولاً. ATLAS_HOME سنتينل منفصل لصفحة الاختيار الحقيقية. */
+const ATLAS_HOME='atlas-root';
+let activeEntry=0;
+const layerOf=k=>DATA.layers.find(l=>l.k===k);
+
+/* اسم مختصر لكل مفكر لمطابقته بصفوف جداول المفاهيم */
+const ALIAS={
+ 'thk-kierkegaard':['كيركيغارد'],'thk-nietzsche':['نيتشه'],'thk-husserl':['هوسرل'],
+ 'thk-heidegger':['هايدجر'],'thk-jaspers':['ياسبرز'],'thk-sartre':['سارتر'],
+ 'thk-beauvoir':['بوفوار'],'thk-camus':['كامو'],'thk-marcel':['مارسِل'],
+ 'thk-unamuno':['أونامونو'],'thk-levinas':['ليفيناس'],
+ 'thk-binswanger':['بينسوانغر'],'thk-boss':['بوس'],'thk-minkowski':['مينكوفسكي'],
+ 'thk-frankl':['فرانكل'],'thk-langle':['لانغله'],'thk-holzhey':['هولتسهي'],
+ 'thk-may':['رولو ماي','ماي'],'thk-bugental':['بوجنتال'],'thk-yalom':['يالوم'],
+ 'thk-becker':['بيكر'],'thk-schneider':['شنايدر'],'thk-wong':['وونغ'],'thk-vankaam':['فان كام'],
+ 'thk-laing':['لاينغ'],'thk-vandeurzen':['فان دورزن'],'thk-spinelli':['سبينيللي'],'thk-cooper':['كوبر']
+};
+/* ============ الربط التلقائي لأسماء الكيانات داخل النص ============ */
+/* سياسة: أطول تطابق أولاً، بلا ربط ذاتي للصفحة الحالية، ومرة واحدة فقط لكل كيان في كل كتلة نص،
+   وحدود كلمة عربية (غير حرف عربي قبل/بعد التطابق)، وتجاهل النص الواقع داخل وسم <a> موجود. */
+const AUTOLINK_BLOCKLIST = new Set(['wrk-existence']); // عنوان عام جداً "الوجود" يتطابق مع لغة يومية شائعة
+let __AUTOLINK_TABLE = null;
+function autoLinkTable(){
+ if(__AUTOLINK_TABLE) return __AUTOLINK_TABLE;
+ const seen=new Map(); const collide=new Set();
+ const push=(surface,id)=>{
+  if(!surface||surface.length<2) return;
+  if(seen.has(surface)&&seen.get(surface)!==id){collide.add(surface);return;}
+  seen.set(surface,id);
+ };
+ Object.entries(DATA.nodes).forEach(([id,n])=>{
+  if(AUTOLINK_BLOCKLIST.has(id)) return;
+  push(n.title,id);
+  (ALIAS[id]||[]).forEach(a=>push(a,id));
+  /* لقب مختصر تلقائي لكل "مفكر": آخر كلمة في اسمه الكامل (نفس المنطق اللي ALIAS اليدوي فوق
+     مطبَّق بيه فعلاً على الـ28 اسم المكتوبين — "مارتن هايدجر"→"هايدجر"، "سيمون دي بوفوار"→"بوفوار").
+     كان الأمر مقصوراً على الـ28 دول بس، فباقي الـ271 مفكر التانيين (لهم صفحات فعلاً) كانوا
+     غير قابلين للربط التلقائي بأسمائهم الشائعة زي "بوبر" أو "تيليش" أو "مرلو-بونتي" رغم وجود
+     صفحاتهم. حماية التصادم (collide) تحت بتستبعد تلقائياً أي لقب مشترك بين أكتر من شخص. */
+  if(n.type==='مفكر' && n.title){
+   const clean=n.title.replace(/\([^)]*\)/g,'').trim();
+   const parts=clean.split(/\s+/);
+   const last=parts[parts.length-1];
+   /* حد أدنى 4 حروف: الألقاب من 2-3 حروف ("كام"، "موس"، "بوش"، "فال"، "هول"...) بيبقى فيها
+      احتمال حقيقي إنها تتصادف مع كلمة عربية عادية شائعة، فيبقى الربط التلقائي غلط في سياقات
+      تانية. الأسماء الأطول (4+ زي "بوبر"/"تيليش") احتمال التصادم فيها ضئيل جداً */
+   if(last && last.length>=4) push(last,id);
+  }
+ });
+ /* أسماء البلاد واللغات كمان بتتحوّل تلقائياً — مفيش صفحة عنصر مستقلة لبلد أو لغة، فبتودّي
+    لصفحة "كل عناصر هذا البلد/اللغة" (نفس الفهرس اللي وراء تصفّح حسب البلد/اللغة) */
+ const countrySet=new Set(), langSet=new Set();
+ Object.values(DATA.nodes).forEach(n=>{
+  if(n.country) facetParts(n.country,'country').forEach(c=>countrySet.add(c));
+  if(n.language) facetParts(n.language,'language').forEach(l=>langSet.add(l));
+ });
+ countrySet.forEach(c=>push(c,'facet:country:'+c));
+ langSet.forEach(l=>push(l,'facet:language:'+l));
+ const table=[...seen.entries()].filter(([s])=>!collide.has(s))
+   .map(([surface,id])=>({surface,id}));
+ table.sort((a,b)=>b.surface.length-a.surface.length);
+ __AUTOLINK_TABLE=table;
+ return table;
+}
+const ARABIC_WORD_CHAR_RE=/[؀-ۿ]/;
+/* localAliases: أزواج {surface,id} خاصة بكتلة النص دي بس (زي روابط links[] يدوية مكتوبة أصلاً
+   لعنصر معيّن في خط تطوّر المدرسة) — بتتفحص قبل الجدول العام، فبتحل تصادم اسم مشترك (زي "كوبر"
+   بين "ميك كوبر" و"ديفيد كوبر") لأن المؤلف نفسه حدّد المقصود هنا صراحة، من غير ما نغيّر الجدول
+   العام ونخاطر بربط "كوبر" غلط في مكان تاني مالوش نفس السياق */
+function autoLink(html,currentNodeId,localAliases){
+ if(!html) return html;
+ const table=localAliases&&localAliases.length?localAliases.concat(autoLinkTable()):autoLinkTable();
+ const tagRe=/<[^>]+>/g;
+ let lastIndex=0,m; const segs=[];
+ while((m=tagRe.exec(html))!==null){
+  segs.push({t:'x',s:html.slice(lastIndex,m.index)});
+  segs.push({t:'g',s:m[0]});
+  lastIndex=tagRe.lastIndex;
+ }
+ segs.push({t:'x',s:html.slice(lastIndex)});
+ let anchorDepth=0; const usedThisBlock=new Set(); let out='';
+ const isWord=ch=>ch!==undefined&&ARABIC_WORD_CHAR_RE.test(ch);
+ const linkify=text=>{
+  let res='',pos=0;
+  while(pos<text.length){
+   let hit=null;
+   for(const term of table){
+    if(term.id===currentNodeId) continue;
+    if(usedThisBlock.has(term.id)) continue;
+    const s=term.surface;
+    if(text.startsWith(s,pos)){
+     const before=pos>0?text[pos-1]:undefined;
+     const after=pos+s.length<text.length?text[pos+s.length]:undefined;
+     if(!isWord(before)&&!isWord(after)){hit=term;break;}
+    }
+   }
+   if(hit){
+    usedThisBlock.add(hit.id);
+    res+='<a class="autolink" data-go="'+hit.id+'">'+text.slice(pos,pos+hit.surface.length)+'</a>';
+    pos+=hit.surface.length;
+   }else{res+=text[pos];pos++;}
+  }
+  return res;
+ };
+ segs.forEach(seg=>{
+  if(seg.t==='g'){
+   if(/^<a[\s>]/i.test(seg.s))anchorDepth++;
+   else if(/^<\/a>/i.test(seg.s))anchorDepth=Math.max(0,anchorDepth-1);
+   out+=seg.s;
+   return;
+  }
+  out+= anchorDepth>0 ? seg.s : linkify(seg.s);
+ });
+ return out;
+}
+
+/* ============ ربط أهداف edges (العناصر المجاورة) ============ */
+/* edges.target نص حر مكتوب في كل ملف يدوياً — مش id. أغلبها بيتطابق حرفياً مع عنوان عنصر
+   حقيقي (يتربط تلقائياً عبر autoLink، اللي بيدوّر داخل النص عن أي عنوان/alias معروف)، لكن
+   "المدرسة الوجودية" حالة خاصة: مفيش لها عنصر حقيقي في DATA.nodes (schools/ لسه فاضي —
+   قرار معماري منفصل)، هي فعلياً نفس صفحة الهوم الحالية (HOME='sch-existential').
+   EDGE_TARGET_ALIASES بيغطي الحالات الخاصة دي بس، من غير ما نضطر نعمل عنصر حقيقي بنفس
+   الـ slug السري ده (ده هيكسر التوجيه، راجع تعريف HOME فوق). */
+const EDGE_TARGET_ALIASES={'المدرسة الوجودية':HOME};
+function edgeTargetHTML(text,currentNodeId){
+ if(!text) return text;
+ const aliasId=EDGE_TARGET_ALIASES[text.trim()];
+ if(aliasId) return '<a class="autolink" data-go="'+aliasId+'">'+text+'</a>';
+ return autoLink(text,currentNodeId);
+}
+
+const CONCEPTS=Object.entries(DATA.nodes).filter(([k,n])=>n.type==='مفهوم');
+function conceptRowsFor(key){
+ const al=ALIAS[key]; if(!al)return [];
+ const out=[];
+ CONCEPTS.forEach(([ck,cn])=>{
+  if(!cn.table||!cn.table.rows)return;
+  cn.table.rows.forEach(r=>{
+   if(al.some(a=>String(r[0]).indexOf(a)>=0)) out.push({ck,ct:cn.title,row:r});
+  });
+ });
+ return out;
+}
+
+function srcHTML(ids){
+ const list=ids&&ids.length?DATA.sources.filter(s=>ids.includes(s.id)):DATA.sources;
+ return list.map(s=>'<div class="srcline"><b>'+s.id+'</b> — '+s.t+
+  '<span class="'+(s.v?'v':'u')+'">'+(s.v?' · بياناته مُتحقَّق منها':' · مرشّح — يحتاج تثبيت الطبعة')+'</span></div>').join('');
+}
+
+/* ============ القائمة المنسدلة ============ */
+function buildNav(){
+ const byType={};
+ Object.entries(DATA.nodes).forEach(([k,n])=>{(byType[n.type]=byType[n.type]||[]).push([k,n.title]);});
+ const order=['تيار','مفهوم','مفكر','عمل / كتاب','جدل','علاقة بين مدرستين'];
+ const groups=order.filter(t=>byType[t]).concat(Object.keys(byType).filter(t=>!order.includes(t)));
+ let h='<option value="">— اذهب إلى… —</option>';
+ h+='<optgroup label="طبقات الوحدة">'+DATA.layers.map(l=>'<option value="L:'+l.k+'">'+l.n+'. '+l.t+'</option>').join('')+'</optgroup>';
+ groups.forEach(t=>{
+  const tc=typeClass(t);
+  h+='<optgroup label="'+t+' ('+byType[t].length+')">'+
+     byType[t].sort((a,b)=>a[1].localeCompare(b[1],'ar')).map(x=>'<option value="'+x[0]+'" style="color:var(--type-'+tc+')">'+x[1]+'</option>').join('')+'</optgroup>';
+ });
+ const sel=document.getElementById('navSel'); if(!sel)return; sel.innerHTML=h;
+ sel.onchange=()=>{const v=sel.value; if(!v)return;
+  if(v.startsWith('L:')){ if(location.hash.slice(1)!==HOME){location.hash='#'+HOME;} setTimeout(()=>openLayer(v.slice(2)),60); }
+  else go(v);
+  sel.value='';};
+}
+function openLayer(k){
+ const l=layerOf(k); if(!l)return;
+ const el=document.getElementById('layer-'+l.n);
+ if(el){el.classList.add('open','flash');el.scrollIntoView({behavior:'smooth',block:'start'});
+  setTimeout(()=>el.classList.remove('flash'),1600);
+  if(k==='graph')drawGraph(); }
+}
+
+/* ============ الصفحة الرئيسية ============ */
+function schoolBranchNodes(){ return Object.entries(DATA.nodes).filter(([,n])=>n.type==='تيار'); }
+function renderSchool(){
+ const isSchoolEntry=(activeEntry==='school');
+ const isConceptEntry=(activeEntry==='concept');
+ const e=(isSchoolEntry||isConceptEntry)?null:DATA.entries[activeEntry];
+ const branches=schoolBranchNodes();
+ let schoolPanel='';
+ if(isSchoolEntry){
+  schoolPanel='<div class="entrypanel"><div class="path">المدرسة الوجودية ← التيارات ← اختر تياراً</div>'+
+   '<div class="why">هذه ليست مدرسة واحدة بل عائلة من '+branches.length+' تيارات. اختر التيار الذي تريد الدخول منه لتبدأ من صفحته مباشرة.</div>'+
+   '<div class="jumps">'+branches.map(([id,n])=>'<span class="jump" data-go="'+id+'">'+n.title+' ↩</span>').join('')+'</div></div>';
+ }
+ let conceptPanel='';
+ if(isConceptEntry){
+  conceptPanel='<div class="entrypanel"><div class="path">المدرسة الوجودية ← المفاهيم الكبرى ← اختر مفهوماً</div>'+
+   '<div class="why">عشرة مفاهيم كبرى يختلف كل مفكر في صياغتها. اختر المفهوم الذي تريد الدخول منه لتبدأ من صفحته مباشرة.</div>'+
+   '<div class="jumps">'+CONCEPTS.map(([id,n])=>'<span class="jump" data-go="'+id+'">'+n.title+' ↩</span>').join('')+'</div></div>';
+ }
+ app.innerHTML=
+ '<div class="entries"><h4>وصلت إلى هذه الوحدة من:</h4>'+
+ '<div class="entrow" id="entrow">'+DATA.entries.map((x,i)=>
+   '<div class="entry '+(i===activeEntry?'active':'')+'" data-i="'+i+'">'+x.label+' <small>· '+x.sub+'</small></div>').join('')+
+   '<div class="entry '+(isSchoolEntry?'active':'')+'" data-i="school">من المدرسة <small>· اختر أحد التيارات الأربعة</small></div>'+
+   '<div class="entry '+(isConceptEntry?'active':'')+'" data-i="concept">من المفهوم <small>· اختر أحد المفاهيم العشرة</small></div>'+
+   '</div>'+
+ (isSchoolEntry?schoolPanel:(isConceptEntry?conceptPanel:('<div class="entrypanel"><div class="path">'+e.path+'</div><div class="why">'+e.why+'</div>'+
+ '<div class="jumps">'+e.jumps.map(j=>'<span class="jump" data-l="'+j[1]+'">'+j[0]+' ↩</span>').join('')+'</div></div>')))+'</div>'+
+
+ '<div class="node"><div class="nodetop"><h1>المدرسة الوجودية في العلاج النفسي</h1>'+
+ '<div class="en">Existential Therapy · لا مدرسة واحدة بل عائلة</div></div>'+
+ '<div class="meta">'+
+ '<span class="tag">النوع: <b>مدرسة / تقليد علاجي</b></span>'+
+ '<span class="tag">المعرّف: <b>SCH-0001</b></span>'+
+ '<span class="tag draft">الحالة: مسودة تحريرية موسّعة</span>'+
+ '<span class="tag">الطبقات: <b>'+DATA.layers.length+'</b></span>'+
+ '<span class="tag">العناصر: <b>'+Object.keys(DATA.nodes).length+'</b></span>'+
+ '<span class="tag">المصادر: <b>'+DATA.sources.length+'</b></span></div>'+
+ '<p class="lede">'+autoLink(DATA.lede,HOME)+'</p>'+
+ '<div class="dash">'+DATA.dash.map(d=>'<div class="dcell"><h5>'+d[0]+'</h5><p>'+autoLink(d[1],HOME)+'</p></div>').join('')+'</div>'+
+ '<div class="cbar"><b>المفاهيم الكبرى — كل مفهوم عند كل واحد منهم في جدول واحد:</b><div class="chips">'+
+  CONCEPTS.map(([k,n])=>'<span class="chip link" data-go="'+k+'">'+n.title+'</span>').join('')+'</div></div></div>'+
+
+ '<div id="layers"></div>'+
+
+ '<div class="unknown"><h3>ما لا نعرفه بعد</h3>'+
+ '<ul>'+DATA.unknowns.map(u=>'<li>'+autoLink(u,HOME)+'</li>').join('')+'</ul></div>'+
+
+ '<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:10px">العناصر المجاورة</div>'+
+ DATA.edges.map(x=>'<div class="edge"><span class="rel">'+x[0]+'</span><span class="to">'+edgeTargetHTML(x[1],HOME)+'</span>'+
+   '<span style="color:var(--muted);font-size:12px">· '+x[2]+'</span></div>').join('')+'</div>'+
+
+ '<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:10px">سجل المصادر</div>'+srcHTML(null)+'</div>'+ footer();
+
+ const L=document.getElementById('layers');
+ DATA.layers.forEach(l=>{
+  const d=document.createElement('div');
+  d.className='layer'; d.id='layer-'+l.n;
+  /* l.html محتوى ثابت قديم (V1) مش مبني من content/ الماركداون، وكان معدّى تماماً على autoLink —
+     ده سبب إن أسماء زي "هايدجر"/"سارتر"/"فرانكل" وأسماء بلاد زي "سويسرا" في طبقات زي "الخصومات
+     الداخلية" و"تيارات فرعية وامتدادات" كانت بتفضل نص عادي من غير أي link */
+  d.innerHTML='<div class="lhead"><div class="lnum">'+l.n+'</div>'+
+   '<div class="ltitle">'+l.t+'<em>'+l.s+'</em></div>'+
+   '<div class="lstate">مسودة موسّعة</div><div class="chev">▼</div></div>'+
+   '<div class="lbody">'+autoLink(l.html,HOME)+'</div>';
+  d.querySelector('.lhead').onclick=ev=>{
+    if(ev.target.closest('.nlink')||ev.target.closest('.chip.link'))return;
+    d.classList.toggle('open');
+    if(d.classList.contains('open')&&l.k==='graph')drawGraph();
+  };
+  L.appendChild(d);
+  if(l.k==='lex') wireGlossaryTableLinks(d);
+ });
+
+ renderBridge(); renderGantt(); renderConcepts(); renderCompare(); renderGraphHost();
+ renderTimeline(L);
+
+ document.getElementById('entrow').onclick=ev=>{
+  const t=ev.target.closest('.entry'); if(!t)return;
+  activeEntry=(t.dataset.i==='school'||t.dataset.i==='concept')?t.dataset.i:+t.dataset.i; renderSchool(); window.scrollTo({top:0,behavior:'smooth'});
+ };
+ app.querySelectorAll('.jump').forEach(j=>j.onclick=()=>{
+  if(j.dataset.go){ go(j.dataset.go); return; }
+  const v=j.dataset.l;
+  if(layerOf(v)){openLayer(v);return;}
+  if(v==='unknown'){document.querySelector('.unknown').scrollIntoView({behavior:'smooth',block:'center'});return;}
+  if(v==='all-thinkers'){goTypeIndex('مفكر');return;}
+  go(v);
+ });
+ if(document.body.classList.contains('showgaps'))
+  app.querySelectorAll('.layer').forEach(l=>l.classList.add('open'));
+}
+
+/* ============ جسر النقل ============ */
+function renderBridge(){
+ const h=document.getElementById('bridge'); if(!h)return;
+ h.innerHTML=DATA.bridge.map((b,i)=>
+  '<div class="bridge"><div class="bnum">'+(i+1)+'</div>'+
+   '<div class="bcols">'+
+    '<div class="bcol bphil"><h6>'+b.p+' — الفلسفة</h6><p>'+autoLink(b.pi,HOME)+'</p></div>'+
+    '<div class="barrow">⟵</div>'+
+    '<div class="bcol bclin"><h6>'+b.c+' — العيادة</h6><p>'+autoLink(b.ci,HOME)+'</p></div>'+
+   '</div>'+
+   '<div class="bdelta"><b>ما تبدّل في النقل:</b> '+autoLink(b.d,HOME)+'</div></div>').join('');
+}
+
+/* ============ المفاهيم ============ */
+function renderConcepts(){
+ const h=document.getElementById('conHost'); if(!h)return;
+ const cons=Object.entries(DATA.nodes).filter(([k,n])=>n.type==='مفهوم');
+ h.innerHTML='<p>هذه هي طبقة العمق. بدل أن تقرأ عن كل مفكر على حدة، تمسك مفهوماً واحداً وترى صياغته عند سبعة أو تسعة منهم في جدول واحد — مع ما يترتب على كل صياغة في الغرفة، وخلافها مع غيرها.</p>'+
+  '<div class="congrid">'+cons.map(([k,n])=>
+   '<div class="concard" data-go="'+k+'"><h5>'+n.title+'</h5><span class="en2">'+n.en+'</span>'+
+   '<p>'+n.lede+'</p><span class="cn">'+(n.table&&n.table.rows?n.table.rows.length+' صياغة مقارنة ←':'مكتوب ←')+'</span></div>').join('')+'</div>'+
+  '<div class="note">القاعدة في كل هذه الجداول: لا يُذكر رأي بلا ما يترتب عليه عملياً، ولا يُذكر اتفاق بلا الخلاف الذي يقابله.</div>';
+}
+
+/* ============ المقارنة الثنائية ============ */
+function pairKey(a,b){return [a,b].sort().join('|');}
+const PMAP={}; DATA.pairs.forEach(p=>PMAP[pairKey(p.a,p.b)]=p);
+function renderCompare(){
+ const h=document.getElementById('cmpHost'); if(!h)return;
+ const opts=DATA.people.map(p=>'<option value="'+p[0]+'">'+p[1]+'</option>').join('');
+ h.innerHTML='<p>اختر اسمين، وسترى: أين يتفقان، وأين يتعاكسان، والجملة التي تلخّص الخلاف. المقارنات المكتوبة حتى الآن '+DATA.pairs.length+
+  ' — وما لم يُكتب يُعلَن بوضوح بدل أن يُولَّد كلام بلا سند.</p>'+
+  '<div class="cmpbar"><select id="cmpA">'+opts+'</select><span class="vs">مقابل</span><select id="cmpB">'+opts+'</select></div>'+
+  '<div id="cmpOut"></div>'+
+  '<div class="sub">المقارنات الجاهزة</div><div class="chips">'+
+   DATA.pairs.map(p=>{const A=DATA.people.find(x=>x[0]===p.a),B=DATA.people.find(x=>x[0]===p.b);
+    return '<span class="chip link cmpq" data-a="'+p.a+'" data-b="'+p.b+'">'+(A?A[1]:p.a)+' ⟷ '+(B?B[1]:p.b)+'</span>';}).join('')+'</div>';
+ const A=document.getElementById('cmpA'),B=document.getElementById('cmpB');
+ A.value='thk-heidegger'; B.value='thk-sartre';
+ const upd=()=>showPair(A.value,B.value);
+ A.onchange=upd; B.onchange=upd; upd();
+ h.querySelectorAll('.cmpq').forEach(c=>c.onclick=ev=>{ev.stopPropagation();
+   A.value=c.dataset.a;B.value=c.dataset.b;upd();
+   document.getElementById('cmpOut').scrollIntoView({behavior:'smooth',block:'center'});});
+}
+function showPair(a,b){
+ const out=document.getElementById('cmpOut'); if(!out)return;
+ const nameOf=id=>{const p=DATA.people.find(x=>x[0]===id);return p?p[1]:id;};
+ if(a===b){out.innerHTML='<div class="ph">اختر اسمين مختلفين.</div>';return;}
+ const p=PMAP[pairKey(a,b)];
+ if(!p){out.innerHTML=derivedPair(a,b,nameOf);return;}
+ const first=p.a===a?a:p.a, second=p.a===a?b:p.b;
+ out.innerHTML='<div class="cmpres">'+
+  '<div class="cmphead"><b>'+nameOf(p.a)+'</b> ⟷ <b>'+nameOf(p.b)+'</b><span class="axis">محور المقارنة: '+autoLink(p.axis,HOME)+'</span></div>'+
+  '<div class="cmpgrid">'+
+   '<div class="cmpbox same"><h6>أين يتفقان</h6><ul>'+p.same.map(x=>'<li>'+autoLink(x,HOME)+'</li>').join('')+'</ul></div>'+
+   '<div class="cmpbox diff"><h6>أين يتعاكسان</h6><ul>'+p.diff.map(x=>'<li>'+autoLink(x,HOME)+'</li>').join('')+'</ul></div>'+
+  '</div>'+
+  '<div class="cmpline"><b>الخلاصة:</b> '+autoLink(p.line,HOME)+'</div>'+
+  '<div class="chips"><span class="chip link" data-go="'+p.a+'">افتح '+nameOf(p.a)+'</span>'+
+   '<span class="chip link" data-go="'+p.b+'">افتح '+nameOf(p.b)+'</span></div></div>';
+}
+
+/* مقارنة مشتقّة: تُبنى من جداول المفاهيم المكتوبة، لا تُولَّد */
+function derivedPair(a,b,nameOf){
+ const ra=conceptRowsFor(a), rb=conceptRowsFor(b);
+ const mapB={}; rb.forEach(r=>mapB[r.ck]=r);
+ const shared=ra.filter(r=>mapB[r.ck]);
+ if(!shared.length){
+  const listA=[...new Set(ra.map(r=>r.ct))], listB=[...new Set(rb.map(r=>r.ct))];
+  return '<div class="ph">لم تُكتب مقارنة مباشرة بين «'+nameOf(a)+'» و«'+nameOf(b)+'»، ولا يشتركان في أي مفهوم مكتوب حتى الآن، '+
+   'فلا توجد مادة مسجّلة تُبنى عليها مقارنة. والقاعدة هنا أن يُعلَن الفراغ ولا يُملأ بكلام مولَّد.</div>'+
+   '<div class="note">المفاهيم المسجّلة لـ<b>'+nameOf(a)+'</b>: '+(listA.length?listA.join(' · '):'لا شيء بعد')+
+   '<br>المفاهيم المسجّلة لـ<b>'+nameOf(b)+'</b>: '+(listB.length?listB.join(' · '):'لا شيء بعد')+'</div>';
+ }
+ return '<div class="cmpres derived">'+
+  '<div class="cmphead"><b>'+nameOf(a)+'</b> ⟷ <b>'+nameOf(b)+'</b>'+
+   '<span class="axis">مقارنة مشتقّة من '+shared.length+' مفهوم مشترك</span></div>'+
+  '<div class="dnote">هذه ليست مقارنة مكتوبة يدوياً، بل <b>مركّبة آلياً</b> من صياغات كلٍّ منهما المسجّلة في جداول المفاهيم. '+
+   'أي أن كل جملة أدناه مكتوبة سلفاً في مكان آخر من الأطلس، ولم يُضَف إليها شيء. والحكم على «أين يتفقان» يبقى لك.</div>'+
+  shared.map(r=>{const o=mapB[r.ck];return '<div class="dblock">'+
+   '<div class="dhead"><span class="chip link" data-go="'+r.ck+'">'+r.ct+' ←</span></div>'+
+   '<div class="dcols">'+
+    '<div class="dcol"><h6>'+nameOf(a)+'</h6><p>'+r.row[1]+'</p><p class="dsm"><b>في الغرفة:</b> '+r.row[2]+'</p></div>'+
+    '<div class="dcol"><h6>'+nameOf(b)+'</h6><p>'+o.row[1]+'</p><p class="dsm"><b>في الغرفة:</b> '+o.row[2]+'</p></div>'+
+   '</div>'+
+   '<div class="ddiff"><b>خلاف '+nameOf(a)+':</b> '+r.row[3]+' &nbsp;·&nbsp; <b>خلاف '+nameOf(b)+':</b> '+o.row[3]+'</div>'+
+   '</div>';}).join('')+
+  '<div class="cmpline"><b>ملاحظة:</b> لو كانت هذه المقارنة مهمة عندك، فهي مرشّحة لأن تُكتب يدوياً وتُضاف إلى المقارنات المحرَّرة.</div>'+
+  '<div class="chips"><span class="chip link" data-go="'+a+'">افتح '+nameOf(a)+'</span>'+
+   '<span class="chip link" data-go="'+b+'">افتح '+nameOf(b)+'</span></div></div>';
+}
+
+/* ============ مخطّط الأعمار ============ */
+function renderGantt(){
+ const h=document.getElementById('ganttHost'); if(!h)return;
+ const Y0=1805,Y1=2030,SPAN=Y1-Y0, NOW=2026;
+ const col=g=>(DATA.groups.find(x=>x.g===g)||{}).c||'#888';
+ const marks=[];for(let y=1825;y<=2025;y+=25)marks.push(y);
+ const rows=DATA.gantt.map(p=>{
+  const b=p.b,d=p.d||NOW;
+  const right=((b-Y0)/SPAN*100), w=((d-b)/SPAN*100);
+  const lab=p.k?('<div class="glab link" data-go="'+p.k+'" title="اضغط لفتح عنصره">'+p.n+'</div>'):('<div class="glab">'+p.n+'</div>');
+  return '<div class="grow">'+lab+'<div class="gtrack">'+
+   '<div class="gbar'+(p.ap?' approx':'')+(p.d?'':' alive')+'" style="right:'+right.toFixed(2)+'%;width:'+w.toFixed(2)+'%;background:'+col(p.g)+'" '+
+   'title="'+p.n+' · '+b+'–'+(p.d||'حيّ')+(p.ap?' (تقريبي)':'')+'"><span>'+b+' – '+(p.d||'')+'</span></div></div></div>';
+ }).join('');
+ h.innerHTML='<p>الخط الزمني يقول من جاء قبل من. هذا المخطّط يقول شيئاً آخر: <b>من عاصر من</b>. وحين ترى التداخل تفهم لماذا كانت بعض الخصومات ممكنة وبعضها مستحيلاً — بينسوانغر وبوس عاشا معاً عقوداً، أما يالوم فلم يلتقِ هايدجر قط.</p>'+
+  '<div class="legend">'+DATA.groups.map(g=>'<span class="lg"><i style="background:'+g.c+'"></i>'+g.t+'</span>').join('')+
+  '<span class="lg"><i class="hatch"></i>تاريخ تقريبي</span></div>'+
+  '<div class="gantt"><div class="gaxis">'+marks.map(y=>
+    '<span style="right:'+((y-Y0)/SPAN*100).toFixed(2)+'%">'+y+'</span>').join('')+'</div>'+
+   '<div class="ggrid">'+marks.map(y=>'<i style="right:'+((y-Y0)/SPAN*100).toFixed(2)+'%"></i>').join('')+'</div>'+
+   rows+'</div>'+
+  '<div class="warnbox">تواريخ الميلاد والوفاة هنا <b>مرشّحة</b>. ما وُسم بالتقريب لم يُتحقق منه؛ وما لم يُوسم مأخوذ من المعرفة العامة ولم تُفتح مصادره الأولية بعد. ولا يُنشر أي منها قبل التحقق.</div>';
+}
+
+/* ============ الشبكة ============ */
+let G=null;
+function renderGraphHost(){
+ const h=document.getElementById('graphHost'); if(!h)return;
+ h.innerHTML='<p>شبكة العلاقات بين أربعة وأربعين اسماً: من أثّر في من، ومن خاصم من، ومن انشقّ عن من. الألوان بحسب التيار. مرّر فوق أي اسم ليضيء هو وجيرانه وينطفئ الباقي، واضغطه لتفتح عنصره إن وُجد.</p>'+
+  '<div class="glegend">'+DATA.groups.map(g=>'<span class="lg gtog" data-g="'+g.g+'"><i style="background:'+g.c+'"></i>'+g.t+'</span>').join('')+'</div>'+
+  '<div class="graphwrap"><canvas id="gcv"></canvas>'+
+   '<div class="gtools"><button class="tbtn" id="gReset">إعادة الترتيب</button>'+
+   '<span class="ghint">اسحب أي اسم · عجلة الفأرة للتكبير</span></div>'+
+   '<div class="gtip" id="gtip"></div></div>';
+ h.querySelectorAll('.gtog').forEach(t=>t.onclick=ev=>{ev.stopPropagation();
+   t.classList.toggle('off'); if(G)G.mutedGroups=[...h.querySelectorAll('.gtog.off')].map(x=>x.dataset.g), G.draw();});
+ document.getElementById('gReset').onclick=ev=>{ev.stopPropagation();G=null;drawGraph();};
+}
+function drawGraph(){
+ const cv=document.getElementById('gcv'); if(!cv)return;
+ if(G&&G.cv===cv){G.draw();return;}
+ const wrap=cv.parentElement;
+ const W=wrap.clientWidth||900, H=560;
+ const dpr=window.devicePixelRatio||1;
+ cv.width=W*dpr; cv.height=H*dpr; cv.style.width=W+'px'; cv.style.height=H+'px';
+ const ctx=cv.getContext('2d'); ctx.scale(dpr,dpr);
+ const col=g=>(DATA.groups.find(x=>x.g===g)||{}).c||'#888';
+ const nodes=DATA.gnodes.map((n,i)=>({...n,
+   x:W/2+Math.cos(i/DATA.gnodes.length*6.283)*(180+Math.random()*90),
+   y:H/2+Math.sin(i/DATA.gnodes.length*6.283)*(150+Math.random()*70),vx:0,vy:0,deg:0}));
+ const idx={}; nodes.forEach((n,i)=>idx[n.id]=i);
+ const links=DATA.glinks.filter(l=>idx[l.s]!=null&&idx[l.t]!=null)
+   .map(l=>({s:idx[l.s],t:idx[l.t],r:l.r}));
+ links.forEach(l=>{nodes[l.s].deg++;nodes[l.t].deg++;});
+ const adj={}; links.forEach(l=>{(adj[l.s]=adj[l.s]||new Set()).add(l.t);(adj[l.t]=adj[l.t]||new Set()).add(l.s);});
+
+ G={cv,nodes,links,adj,hover:-1,drag:-1,scale:1,ox:0,oy:0,mutedGroups:[],draw};
+ for(let i=0;i<420;i++)step();
+ let raf=null, cool=0;
+ function step(){
+  for(let i=0;i<nodes.length;i++){
+   const a=nodes[i];
+   for(let j=i+1;j<nodes.length;j++){
+    const b=nodes[j]; let dx=b.x-a.x,dy=b.y-a.y,d2=dx*dx+dy*dy||1;
+    if(d2>90000)continue;
+    const f=2400/d2, d=Math.sqrt(d2);
+    const fx=f*dx/d, fy=f*dy/d;
+    a.vx-=fx;a.vy-=fy;b.vx+=fx;b.vy+=fy;
+   }
+  }
+  links.forEach(l=>{
+   const a=nodes[l.s],b=nodes[l.t];
+   let dx=b.x-a.x,dy=b.y-a.y,d=Math.sqrt(dx*dx+dy*dy)||1;
+   const f=(d-115)*0.012, fx=f*dx/d, fy=f*dy/d;
+   a.vx+=fx;a.vy+=fy;b.vx-=fx;b.vy-=fy;
+  });
+  nodes.forEach(n=>{
+   n.vx+=(W/2-n.x)*0.0016; n.vy+=(H/2-n.y)*0.0022;
+   n.vx*=0.82; n.vy*=0.82; n.x+=n.vx; n.y+=n.vy;
+   n.x=Math.max(40,Math.min(W-40,n.x)); n.y=Math.max(30,Math.min(H-30,n.y));
+  });
+ }
+ function draw(){
+  const dark=document.documentElement.getAttribute('data-theme')==='dark';
+  ctx.setTransform(dpr,0,0,dpr,0,0);
+  ctx.clearRect(0,0,W,H);
+  ctx.fillStyle=dark?'#0F141A':'#F2F1EC'; ctx.fillRect(0,0,W,H);
+  ctx.save(); ctx.translate(G.ox,G.oy); ctx.scale(G.scale,G.scale);
+  const hov=G.hover, near=hov>=0?(G.adj[hov]||new Set()):null;
+  const dim=n=>G.mutedGroups.includes(n.g);
+  links.forEach(l=>{
+   const on=hov<0||l.s===hov||l.t===hov;
+   const vis=!dim(nodes[l.s])&&!dim(nodes[l.t]);
+   ctx.strokeStyle=!vis?(dark?'#1A2029':'#E8E7E2'):on?(dark?'#5C6B7C':'#B7BEC7'):(dark?'#1E2630':'#E4E3DE');
+   ctx.lineWidth=on&&hov>=0?1.6:0.9;
+   ctx.beginPath(); ctx.moveTo(nodes[l.s].x,nodes[l.s].y); ctx.lineTo(nodes[l.t].x,nodes[l.t].y); ctx.stroke();
+  });
+  nodes.forEach((n,i)=>{
+   const on=hov<0||i===hov||(near&&near.has(i));
+   const vis=!dim(n);
+   const r=5+Math.min(n.deg,10)*0.85;
+   ctx.globalAlpha=!vis?0.12:(on?1:0.22);
+   ctx.beginPath(); ctx.arc(n.x,n.y,r,0,6.2832);
+   ctx.fillStyle=col(n.g); ctx.fill();
+   if(i===hov){ctx.lineWidth=2;ctx.strokeStyle=dark?'#fff':'#1C2733';ctx.stroke();}
+   ctx.font=(i===hov?'700 ':'')+(11+Math.min(n.deg,8)*0.25)+'px Cairo, sans-serif';
+   ctx.textAlign='center'; ctx.fillStyle=dark?'#D6DDE5':'#28323C';
+   ctx.fillText(n.l,n.x,n.y+r+12);
+   ctx.globalAlpha=1;
+  });
+  ctx.restore();
+ }
+ G.draw=draw; draw();
+
+ function pos(ev){const r=cv.getBoundingClientRect();
+  return {x:(ev.clientX-r.left-G.ox)/G.scale,y:(ev.clientY-r.top-G.oy)/G.scale};}
+ function pick(p){let best=-1,bd=1e9;
+  nodes.forEach((n,i)=>{const d=(n.x-p.x)**2+(n.y-p.y)**2; if(d<bd){bd=d;best=i;}});
+  return bd<520?best:-1;}
+ const tip=document.getElementById('gtip');
+ cv.onmousemove=ev=>{
+  const p=pos(ev);
+  if(G.drag>=0){nodes[G.drag].x=p.x;nodes[G.drag].y=p.y;nodes[G.drag].vx=0;nodes[G.drag].vy=0;draw();return;}
+  const h=pick(p);
+  if(h!==G.hover){G.hover=h;draw();
+   if(h>=0){const n=nodes[h];
+    const rels=links.filter(l=>l.s===h||l.t===h).map(l=>{
+     const o=nodes[l.s===h?l.t:l.s]; return o.l+' <i>'+l.r+'</i>';}).slice(0,8);
+    tip.innerHTML='<b>'+n.l+'</b><span class="tg">'+(DATA.groups.find(g=>g.g===n.g)||{}).t+'</span>'+
+     '<div class="trel">'+rels.join(' · ')+'</div>'+(n.k?'<div class="tgo">اضغط لفتح عنصره</div>':'<div class="tgo dim">لا عنصر مستقل بعد</div>');
+    tip.style.display='block';
+   } else tip.style.display='none';
+  }
+  cv.style.cursor=h>=0?'pointer':'default';
+ };
+ cv.onmousedown=ev=>{const p=pos(ev);const h=pick(p); if(h>=0)G.drag=h;};
+ window.addEventListener('mouseup',()=>{G&&(G.drag=-1);});
+ cv.onmouseleave=()=>{G.hover=-1;tip.style.display='none';draw();};
+ cv.onclick=ev=>{const h=pick(pos(ev)); if(h>=0&&nodes[h].k)go(nodes[h].k);};
+ cv.onwheel=ev=>{ev.preventDefault();
+  const f=ev.deltaY<0?1.12:0.89; const r=cv.getBoundingClientRect();
+  const mx=ev.clientX-r.left,my=ev.clientY-r.top;
+  G.ox=mx-(mx-G.ox)*f; G.oy=my-(my-G.oy)*f; G.scale*=f; draw();};
+}
+
+/* ============ خط الزمن مع الخيوط ============ */
+function renderTimeline(L){
+ /* DATA.timeline/DATA.threads بلوب ثابت تاني من نفس صنف l.html (V1)، ومكانش بيعدّي على autoLink
+    خالص — نفس السبب اللي "الأصالة" وأمثالها كانت تفضل نص عادي هنا رغم إن صفحتها موجودة فعلاً */
+ const AFTER={0:0,1:1,5:2};
+ /* عناوين زي "كوبر" (اسم متصادم مع "ديفيد كوبر" فبيتقفل تلقائياً) أو "العلاج المتمركز حول
+    المعنى" (صياغة مختلفة عن عنوان التيار الفعلي) ما بيتلاقاش ليها تطابق نصي حرفي في autoLink
+    خالص. لو العنوان كله طلع من autoLink من غير أي link (يعني مفيش ولا كلمة اتعرفت)، ونفس
+    العنصر عنده هدف أساسي مُقرَّر يدوياً في links[0]، بنستخدمه كمرجع موثوق بدل ما نسيب العنوان
+    كله نص عادي — أما لو جزء منه اتربط فعلاً (زي "لاينغ والتيار المضاد للطب النفسي") فده معناه
+    إن جزء حقيقي مفيش له صفحة أصلاً، فبيفضل نص عادي عن قصد. */
+ const whoHTML=t=>{
+  /* أسماء labels اللي المؤلف كتبها فعلاً في links[] بتتحول لـ aliases محلية موثوقة لنفس العنصر
+     ده بس — بتحل حالة "كوبر" (متصادم عالمياً) لأن هنا معروف بالظبط مين المقصود */
+  const local=(t.links||[]).map(l=>({surface:l[1],id:l[0]}));
+  const linked=autoLink(t.who,HOME,local);
+  if(!/<a /.test(linked) && t.links && t.links[0] && DATA.nodes[t.links[0][0]])
+   return '<a class="autolink" data-go="'+t.links[0][0]+'">'+t.who+'</a>';
+  return linked;
+ };
+ let body='<div class="tl">';
+ DATA.timeline.forEach((t,i)=>{
+  const local=(t.links||[]).map(l=>({surface:l[1],id:l[0]}));
+  body+='<div class="tlitem '+(t.era?'era':'')+'"><div class="yr">'+t.yr+'</div><div class="who">'+whoHTML(t)+'</div>'+
+   '<p class="txt2">'+autoLink(t.txt,HOME,local)+'</p>'+
+   (t.links&&t.links.length?'<div class="lnks">'+t.links.map(l=>
+     '<span class="nlink" data-go="'+l[0]+'">'+l[1]+' <span class="k">· '+l[2]+'</span></span>').join('')+'</div>':'')+
+   '</div>';
+  if(AFTER[i]!=null){const th=DATA.threads[AFTER[i]];
+   body+='<div class="band"><div class="bandhead">'+th.era+'</div>'+
+    '<div class="bandnote">'+autoLink(th.note,HOME)+'</div><div class="bandrows">'+
+    th.items.map(it=>{
+      const nameHtml = (it[3] && DATA.nodes[it[3]])
+        ? '<span class="thrname link" data-go="'+it[3]+'">'+it[0]+'</span>'
+        : '<span class="thrname">'+autoLink(it[0],HOME)+'</span>';
+      return '<div class="thr">'+nameHtml+
+        '<span class="thryr">'+it[1]+'</span><span class="thrtxt">'+autoLink(it[2],HOME)+'</span></div>';
+    }).join('')+
+    '</div></div>';}
+ });
+ body+='</div>';
+ const tl=document.createElement('div');
+ tl.className='layer open'; tl.id='layer-tl';
+ tl.innerHTML='<div class="lhead"><div class="lnum" style="background:var(--warnsoft);color:var(--warn)">↻</div>'+
+  '<div class="ltitle">خط تطوّر المدرسة<em>طبقة عرضية · والخيوط الباهتة هي من كان يشتغل في الخلفية</em></div>'+
+  '<div class="lstate">مسودة موسّعة</div><div class="chev">▼</div></div><div class="lbody">'+body+
+  '<div class="note">الشرائط الرمادية بين المحطات ليست حشواً. هي الفترات التي يقفز عليها كل عرض معتاد للمدرسة، وفيها كان يُحضَّر ما سيظهر لاحقاً. مرّر فوق أي خيط ليظهر.</div></div>';
+ tl.querySelector('.lhead').onclick=ev=>{if(!ev.target.closest('.nlink'))tl.classList.toggle('open')};
+ L.appendChild(tl);
+}
+
+/* ============ صفحة عنصر ============ */
+/* ===== V3: مساعدات الأنواع والتصفح ===== */
+const TYPE_CLASS={'تيار':'br','مفكر':'thk','مفهوم':'con','عمل / كتاب':'wrk','جدل':'dbt','علاقة بين مدرستين':'rel',
+ 'سياق/تقليد':'ctx','أداة قياس':'ins','اضطراب/حالة إكلينيكية':'dis','تقنية/تدخل علاجي':'tec','دراسة وبحث':'stu',
+ 'حدث تاريخي':'evt','مصطلح لغوي متنازع عليه':'trm','نقد خارجي موثَّق':'crt','خبرة معيشة':'exp','استعارة/مجاز مؤسِّس':'met',
+ 'بديهية/مبدأ تأسيسي':'axm','سؤال مولِّد':'que','حوار مع مدرسة مجاورة':'dia','متلازمة':'syn'};
+function typeClass(t){return TYPE_CLASS[t]||'rel';}
+function typeBadge(n,withId){
+ const c=typeClass(n.type);
+ return '<span class="tbadge t-'+c+'">'+n.type+(withId!==false?' <span class="id">· '+n.id+'</span>':'')+'</span>';
+}
+function wordCount(s){return String(s||'').replace(/<[^>]+>/g,' ').trim().split(/\s+/).filter(Boolean).length;}
+/* ---------- محور زمني: كيف تطوّر فهم كل مفهوم عبر مدارس وأفكار مختلفة (يُطبَّق على كل عقد مفهوم) ---------- */
+const CONCEPT_TIMELINES={
+ 'con-anxiety':[
+  {id:'thk-kierkegaard',year:'1844',label:'كيركيغارد',dot:'var(--accent)',
+   text:'دُوار الحرية: القلق ينبثق أمام إمكانات مفتوحة، سابق على أي فعل أو خطأ أخلاقي.'},
+  {id:null,year:'1900',label:'فرويد',dot:'#b3554a',
+   text:'صراع مكبوت: القلق عرض سطحي لمعركة لاواعية أعمق تحتاج تفسيراً لا مواجهة مباشرة.'},
+  {id:'thk-heidegger',year:'1927',label:'هايدجر',dot:'var(--accent)',
+   text:'اللاشيء: القلق (Angst) يكشف الوجود-نحو-الموت، لا خوفاً من موضوع محدد بل انكشافاً لبنية الوجود نفسه.'},
+  {id:'thk-yalom',year:'1980',label:'يالوم',dot:'var(--accent)',
+   text:'وعي الموت: القلق الوجودي المعاصر ناتج عن الوعي بالتناهي والحرية والعزلة معاً، ويُستعمل إكلينيكياً.'},
+  {id:null,year:'1990',label:'CBT',dot:'#3a7a5c',
+   text:'تهويل كارثي: القلق تشويه معرفي، يُعالَج عبر إعادة صياغة الأفكار غير الواقعية.'}
+ ],
+'con-death':[
+  {id:'thk-kierkegaard',year:'1849',label:'كيركيغارد',dot:'var(--accent)',
+   text:'المرض الذي لا يفضي إلى الموت: اليأس نفسه هو الخطر الحقيقي، لا الفناء الجسدي، والموت الفعلي عرضي بالقياس إليه.'},
+  {id:null,year:'1913',label:'فرويد',dot:'#b3554a',
+   text:'اللاوعي لا يعرف موته الخاص: الخوف من الموت غالباً قناع لقلق أعمق (خصاء، انفصال) لأن الموت غير قابل للتمثّل مباشرة في النفس.'},
+  {id:'thk-heidegger',year:'1927',label:'هايدجر',dot:'var(--accent)',
+   text:'الوجود-نحو-الموت: تفرّدي وعدم قابليته للتفويض هو ما يفتح إمكانية الوجود الأصيل، لا حدثاً مستقبلياً بعيداً بل بنية حاضرة الآن في كل لحظة.'},
+  {id:'thk-jaspers',year:'1932',label:'ياسبرز',dot:'var(--accent)',
+   text:'موقف حدّي (Grenzsituation): الموت لا يُفهَم بل يُصطدَم به، وهذا الاصطدام ذاته — لا تفسيره — هو ما يوقظ الوجود الحق.'},
+  {id:'thk-becker',year:'1973',label:'بيكر',dot:'var(--accent)',
+   text:'إنكار الموت: أغلب الحضارة والثقافة والدين مشاريع رمزية للهروب من رعب الفناء، لا زخارف عرضية فوقه.'},
+  {id:'thk-yalom',year:'1980',label:'يالوم',dot:'var(--accent)',
+   text:'وعي الموت كمحفّز إكلينيكي: مواجهة الفناء مباشرة — لا تفلسفاً بشأنه — يمكن أن تُعيد ترتيب أولويات الحياة اليومية للمريض.'}
+ ],
+'con-freedom':[
+  {id:'thk-kierkegaard',year:'1844',label:'كيركيغارد',dot:'var(--accent)',
+   text:'الحرية كدُوار: إمكانية الإمكان ذاتها تُصيب بالدُّوار قبل أي اختيار فعلي — الحرية تجربة مقلقة لا نعمة مطلقة.'},
+  {id:'thk-nietzsche',year:'1883',label:'نيتشه',dot:'var(--accent)',
+   text:'الإرادة الخالقة للقيم: الحر هو من يصنع قيمه بنفسه بعد موت الإله، لا من ينفّذ قانوناً معطى سلفاً.'},
+  {id:'thk-heidegger',year:'1927',label:'هايدجر',dot:'var(--accent)',
+   text:'حرية مقيَّدة بالإلقاء (Geworfenheit): الإنسان يختار مشروعه لكن دوماً من داخل وضع لم يخترْه — لا حرية مطلقة بلا سياق.'},
+  {id:'thk-sartre',year:'1943',label:'سارتر',dot:'var(--accent)',
+   text:'محكوم عليه بالحرية: الوجود سابق على الماهية، فلا عذر ولا طبيعة ثابتة تحدّ الاختيار — الحرية شاملة وكلية إلى حدّ الرعب.'},
+  {id:null,year:'1941',label:'فروم',dot:'#3a7a5c',
+   text:'الهروب من الحرية: الحرية الحديثة تولّد عزلة لا تُطاق، فيهرب كثيرون منها إلى السلطوية أو الامتثال الجمعي.'},
+  {id:'thk-vandeurzen',year:'1997',label:'فان دورزن',dot:'var(--accent)',
+   text:'حرية موضعية داخل أبعاد الوجود الأربعة: لا حرية مجردة بل حرية تتفاوض دوماً مع حدود الجسد والعالم والعلاقات والقيم.'}
+ ],
+'con-responsibility':[
+  {id:'thk-heidegger',year:'1927',label:'هايدجر',dot:'var(--accent)',
+   text:'الضمير كنداء صامت: يدعو الدازاين إلى تحمّل ذنبه الأصلي (Schuldigsein) — كونه أساساً لم يختره ولا يستطيع أن يستوعبه كلياً.'},
+  {id:'thk-sartre',year:'1943',label:'سارتر',dot:'var(--accent)',
+   text:'مسؤولية كلية بلا استثناء: بما أنه لا طبيعة تحدّ الاختيار، فالإنسان مسؤول عن كل فعل بل وعن العالم كله كما يظهر له.'},
+  {id:null,year:'1950',label:'التحليل النفسي الكلاسيكي',dot:'#b3554a',
+   text:'الأنا الأعلى كقاضٍ داخلي: الشعور بالمسؤولية والذنب أثر لصراع طفولي مع سلطة الوالدين، لا موقفاً وجودياً حراً بذاته.'},
+  {id:'thk-frankl',year:'1946',label:'فرانكل',dot:'var(--accent)',
+   text:'مسؤولية أمام المعنى: الإنسان مسؤول عن الإجابة على ما تطلبه الحياة منه في كل لحظة، لا عن حرية مجردة فحسب.'},
+  {id:'thk-yalom',year:'1980',label:'يالوم',dot:'var(--accent)',
+   text:'مسؤولية إكلينيكية: مواجهة المريض بدوره في صناعة معاناته — لا بمعنى اللوم — تفتح مجالاً حقيقياً للتغيير العلاجي.'},
+  {id:'thk-vandeurzen',year:'2010',label:'فان دورزن',dot:'var(--accent)',
+   text:'تحذير من إساءة الاستعمال: الإصرار على «مسؤولية العميل» بلا حساسية للقهر الاجتماعي الفعلي قد يتحول إلى لوم مقنّع.'}
+ ],
+'con-isolation':[
+  {id:'thk-kierkegaard',year:'1849',label:'كيركيغارد',dot:'var(--accent)',
+   text:'الفرد أمام الله وحده: العزلة الروحية شرط لا مفرّ منه لأي علاقة أصيلة بالمطلق، لا عطباً اجتماعياً يُصلَح.'},
+  {id:null,year:'1958',label:'التعلق (بولبي)',dot:'#3a7a5c',
+   text:'العزلة كخلل ارتباط: الانفصال المبكر عن مقدّم الرعاية يترك أثراً نمائياً قابلاً للوصف والعلاج، لا معطى وجودياً ثابتاً.'},
+  {id:'thk-yalom',year:'1980',label:'يالوم',dot:'var(--accent)',
+   text:'ثلاث عزلات متمايزة: بين شخصية (وحدة اجتماعية)، وداخل نفسية (انفصال عن أجزاء الذات)، ووجودية (هوة لا تُسدّ بين الفرد والآخرين مهما قربوا).'},
+  {id:'thk-laing',year:'1960',label:'لاينغ',dot:'var(--accent)',
+   text:'الذات المشطورة: العزلة الحادة قد تكون استراتيجية بقاء نفسي أمام عالم يُهدِّد تماسك الذات، لا مجرد نقص في العلاقة.'},
+  {id:'thk-levinas',year:'1961',label:'ليفيناس',dot:'var(--accent)',
+   text:'وجه الآخر يكسر العزلة الأنطولوجية: اللقاء الأخلاقي بالآخر — لا معرفته أو تحليله — هو ما يخرق انغلاق الذات على نفسها.'}
+ ],
+'con-meaning':[
+  {id:'thk-nietzsche',year:'1887',label:'نيتشه',dot:'var(--accent)',
+   text:'العدمية كأفق: انهيار القيم المطلقة القديمة يفتح فراغ معنى يجب على الإنسان أن يملأه بنفسه، لا أن ينتظر ملأه من خارج.'},
+  {id:'thk-camus',year:'1942',label:'كامو',dot:'var(--accent)',
+   text:'العبث كتصادم: اللامعنى ليس في العالم ولا في الإنسان، بل في التصادم بين طلب الإنسان للمعنى وصمت الكون؛ الحل تمرّد لا انتحار ولا قفزة إيمان.'},
+  {id:'thk-frankl',year:'1946',label:'فرانكل',dot:'var(--accent)',
+   text:'إرادة المعنى: البحث عن المعنى دافع نفسي أولي، ويمكن العثور عليه حتى في أقسى المعاناة (كما في تجربة معسكرات الاعتقال) عبر الموقف الذي يختاره المرء منها.'},
+  {id:null,year:'1950',label:'ماسلو',dot:'#3a7a5c',
+   text:'تحقيق الذات كذروة: المعنى نتاج نمو نفسي إيجابي بعد إشباع الحاجات الأساسية، لا مواجهة لفراغ كوني معلَّق دوماً.'},
+  {id:'thk-yalom',year:'1980',label:'يالوم',dot:'var(--accent)',
+   text:'اللامعنى كمعطى وجودي نهائي: الكون بلا معنى متأصل، والمهمة العلاجية مساعدة المريض على صنع معنى شخصي كافٍ للعيش، لا اكتشاف معنى جاهز.'},
+  {id:'thk-wong',year:'2012',label:'وونغ',dot:'var(--accent)',
+   text:'علم نفس المعنى الإيجابي المزدوج: يدمج مواجهة اللامعنى والمعاناة (الشطر المظلم) مع بناء معنى إيجابي فعّال (الشطر المضيء) في نموذج واحد قابل للقياس.'}
+ ],
+'con-authenticity':[
+  {id:'thk-kierkegaard',year:'1849',label:'كيركيغارد',dot:'var(--accent)',
+   text:'الذات التي تختار نفسها: الأصالة ليست حالة بل علاقة الذات بنفسها وهي ترتضي أن تكون ما هي عليه أمام قوّتها الواضعة لها.'},
+  {id:'thk-heidegger',year:'1927',label:'هايدجر',dot:'var(--accent)',
+   text:'الأصالة (Eigentlichkeit) كاستيلاء على الممكن-لي-وحدي: مقابل الانغماس في ثرثرة «الهُم» (das Man)، حيث يعيش المرء حياة مستعارة من الآخرين.'},
+  {id:'thk-sartre',year:'1943',label:'سارتر',dot:'var(--accent)',
+   text:'سوء النية (mauvaise foi) كنقيض: التظاهر بأن المرء شيء ثابت لا حرية له هو الهروب من الأصالة، لا فضيلة أخلاقية بذاتها.'},
+  {id:null,year:'1973',label:'ترِلينغ',dot:'#3a7a5c',
+   text:'من الإخلاص إلى الأصالة: تحوّل تاريخي-ثقافي في الغرب من قيمة «الصدق مع المجتمع» إلى قيمة «الصدق مع الذات» بوصفها معياراً أخلاقياً حديثاً بذاته.'},
+  {id:'thk-bugental',year:'1965',label:'بوجنتال',dot:'var(--accent)',
+   text:'صياغة إكلينيكية أمريكية: الأصالة تُترجَم إلى هدف علاجي عملي — حضور كامل مع التجربة الآنية بدل الأدوار المكتسبة اجتماعياً.'},
+  {id:null,year:'2000',label:'النقد الشعبي المعاصر',dot:'#b3554a',
+   text:'تحذير من التسطيح: تحوّل «كن أنت نفسك» إلى شعار تسويقي فارغ يُفرغ المفهوم من ثقله الفلسفي الأصلي كمواجهة وجودية شاقة.'}
+ ],
+'con-guilt':[
+  {id:null,year:'1923',label:'فرويد',dot:'#b3554a',
+   text:'الذنب كأثر الأنا الأعلى: توتر داخلي بين الأنا وسلطة أخلاقية متدرّجة من الوالدين، يُعالَج بكشف أصله اللاواعي.'},
+  {id:'thk-heidegger',year:'1927',label:'هايدجر',dot:'var(--accent)',
+   text:'الذنب الأصلي (Schuldigsein): سابق على أي مخالفة فعلية، لأن الدازاين دوماً أساس لا يستطيع أن يمتلكه كلياً ولا يستطيع أن يكون غير مسؤول عن إمكاناته المهملة.'},
+  {id:'thk-jaspers',year:'1932',label:'ياسبرز',dot:'var(--accent)',
+   text:'أربع درجات للذنب: الجنائي والسياسي والأخلاقي والميتافيزيقي، آخرها تضامن إنساني لا يُمحى بمجرد براءة قانونية من الجريمة.'},
+  {id:null,year:'1952',label:'تيليش',dot:'#3a7a5c',
+   text:'القلق الأخلاقي كأحد أشكال قلق الوجود الثلاثة: الذنب طرف من توتر أعمق بين ما نحن عليه وما ينبغي أن نكونه، لا عرضاً عابراً.'},
+  {id:'thk-yalom',year:'1980',label:'يالوم',dot:'var(--accent)',
+   text:'الغياب اللافت: الذنب الوجودي لا يظهر ضمن اهتماماته الأربعة الكبرى (الموت، الحرية، العزلة، اللامعنى) رغم قربه الشديد من الحرية والمسؤولية — إغفال لاحظه نقّاد لاحقون.'}
+ ],
+'con-time':[
+  {id:'thk-husserl',year:'1905',label:'هوسرل',dot:'var(--accent)',
+   text:'وعي الزمن الباطن: كل لحظة حاضرة تحمل معها ذيلاً من الماضي القريب (استبقاء) وأفقاً من المستقبل القريب (تشوّف)، لا نقاطاً منفصلة على خط.'},
+  {id:'thk-heidegger',year:'1927',label:'هايدجر',dot:'var(--accent)',
+   text:'الزمانية كبنية الوجود لا كإطار خارجي: المستقبل (كإمكان-نحو-الموت) هو ما يُنظّم فهم الماضي والحاضر، لا العكس.'},
+  {id:null,year:'1927',label:'الفيزياء الزمنية الخطية',dot:'#3a7a5c',
+   text:'الزمن كقياس موضوعي متجانس: تتابع لحظات قابلة للقياس بالساعة، مستقلة عن أي وعي يعيشها — الخلفية التي يرفضها التحليل الوجودي للزمن صراحةً.'},
+  {id:'thk-minkowski',year:'1933',label:'مينكوفسكي',dot:'var(--accent)',
+   text:'الزمن المعيش في المرض النفسي: الاكتئاب يُوصف بأن «المستقبل يُغلَق» ويتوقف التدفّق الزمني الحي، لا بقائمة أعراض مجردة عن الزمن.'},
+  {id:'thk-frankl',year:'1946',label:'فرانكل',dot:'var(--accent)',
+   text:'ما مضى محفوظ لا فانٍ: كل تجربة عاشها المرء تدخل خزانة الماضي بأمان أبدي، وهذا يمنح حتى الحياة القصيرة أو المؤلمة معنى لا يُنتزَع.'}
+ ],
+'con-relation':[
+  {id:'thk-marcel',year:'1935',label:'مارسِل',dot:'var(--accent)',
+   text:'أنا-أنت مقابل أنا-هو: التمييز بين علاقة حضور متبادل حقيقي وعلاقة استخدام لموضوع، أساس لكل تفكير وجودي لاحق في اللقاء العلاجي.'},
+  {id:'thk-levinas',year:'1961',label:'ليفيناس',dot:'var(--accent)',
+   text:'وجه الآخر كمصدر الأخلاق: اللقاء بالآخر يسبق أي معرفة أو نظرية عنه، ويفرض مسؤولية غير قابلة للتنازل قبل أي عقد اجتماعي.'},
+  {id:null,year:'1902',label:'بوبر',dot:'#3a7a5c',
+   text:'أنا-أنت الحواري: العلاقة الحقيقية لقاء متبادل كامل بين كيانين، لا معاملة بين ذات وموضوع تُدار بتقنية أو غرض.'},
+  {id:null,year:'1957',label:'روجرز',dot:'#3a7a5c',
+   text:'الشروط الميسِّرة الإنسانية: التقبّل غير المشروط والتعاطف الدقيق والتطابق هي جوهر العلاقة العلاجية الفعّالة، صياغة قريبة لكن غير مطابقة للّقاء الوجودي.'},
+  {id:'thk-cooper',year:'2003',label:'كوبر',dot:'var(--accent)',
+   text:'اللقاء بوصفه أداة العلاج ذاتها: ليس تقنية يطبّقها خبير على عميل، بل حضور متبادل بين وجودين — العلاقة نفسها هي ما يشفي، لا الإجراء المطبَّق فيها.'},
+  {id:'thk-vandeurzen',year:'1997',label:'فان دورزن',dot:'var(--accent)',
+   text:'البعد الاجتماعي كأحد أبعاد الوجود الأربعة: العلاقة بالآخرين ساحة تفاوض دائم بين الانتماء والتفرّد، لا حالة مستقرة تُحسم مرة واحدة.'}
+ ]
+};
+function renderConceptTimeline(conceptKey){
+ const stops=CONCEPT_TIMELINES[conceptKey];
+ if(!stops||!stops.length) return '';
+ const stopsHTML=stops.map((s,i)=>{
+  const nameHTML=s.id
+   ? '<div class="atl-name atl-link" data-go="'+s.id+'">'+s.label+'</div>'
+   : '<div class="atl-name">'+s.label+'</div>';
+  return '<div class="atl-stop">'+
+   '<div class="atl-year">'+s.year+'</div>'+
+   '<div class="atl-dot" style="background:'+s.dot+'"></div>'+
+   '<div class="atl-card">'+
+    nameHTML+
+    '<div class="atl-toggle" onclick="this.closest(\'.atl-card\').classList.toggle(\'open\')">'+
+     '<span class="atl-hint">اضغط للتفاصيل</span>'+
+     '<div class="atl-detail">'+s.text+'</div>'+
+    '</div>'+
+   '</div>'+
+  '</div>';
+ }).join('');
+ const title=(DATA.nodes[conceptKey]&&DATA.nodes[conceptKey].title)||'';
+ return '<div class="node" id="concept-timeline"><div style="font-weight:700;font-size:16px;margin-bottom:4px">محور زمني — كيف تطوّر فهم «'+title+'» عبر مدارس مختلفة</div>'+
+  '<div style="font-size:12.5px;color:var(--muted);margin-bottom:16px">اضغط أي محطة لعرض تفصيلها، وإن كان اسم المفكر رابطاً فسيفتح صفحته الكاملة.</div>'+
+  '<div class="atl-wrap"><div class="atl-line"></div><div class="atl-stops">'+stopsHTML+'</div></div></div>';
+}
+/* ---------- بطاقات الاقتباسات (اقتباسات مختارة) ---------- */
+/* ---------- بطاقات الاقتباسات (اقتباسات مختارة) ---------- */
+function quoteAttrEsc(s){
+ return String(s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+const QUOTE_COPY_ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
+const QUOTE_SHARE_ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>';
+function renderQuoteCards(raw,thinkerName){
+ const parts=String(raw||'').split(/<br\s*\/?>/i).map(p=>p.trim()).filter(Boolean);
+ if(!parts.length) return '<p style="font-size:14.5px;margin:4px 0 14px">'+raw+'</p>';
+ const cards=parts.map(p=>{
+  const m=p.match(/^(.*)\s+—\s+([^—]*)$/);
+  let quote=p, attr='';
+  if(m){ quote=m[1].trim(); attr=m[2].trim(); }
+  quote=quote.replace(/^[«"]/,'').replace(/[»"]$/,'');
+  const name=thinkerName||'';
+  const fullText=(name?('«'+quote+'» — '+name+(attr?('، '+attr):'')):('«'+quote+'»'+(attr?(' — '+attr):'')));
+  const dataQuote=quoteAttrEsc(fullText);
+  return '<div class="quotecard">'+
+   '<span class="qverify" title="لم يُفتح المصدر ويُقرأ الموضع بعد — منسوب من معرفة عامة لا من تحقق مضموني">غير متحقَّق</span>'+
+   '<span class="qmark">”</span>'+
+   '<p class="qtext">'+quote+'</p>'+
+   (name||attr?('<div class="qattr">'+
+     (name?'<div class="qname">— '+name+'</div>':'')+
+     (attr?'<div class="qbook">'+attr+'</div>':'')+
+    '</div>'):'')+
+   '<div class="qbtns">'+
+    '<button type="button" class="qbtn" data-quote-copy="'+dataQuote+'">'+QUOTE_COPY_ICON+'<span class="qbtn-label">نسخ النص</span></button>'+
+    '<button type="button" class="qbtn" data-quote-share="'+dataQuote+'">'+QUOTE_SHARE_ICON+'<span class="qbtn-label">مشاركة كصورة</span></button>'+
+   '</div>'+
+   '</div>';
+ }).join('');
+ return '<div class="quotecards">'+cards+'</div>';
+}
+function relCountFor(key){
+ let c=0;
+ Object.entries(DATA.nodes).forEach(([k,v])=>{
+  if(k===key)return;
+  if((v.related||[]).some(r=>r[0]===key))c++;
+ });
+ c+=(DATA.nodes[key].related||[]).length;
+ return c;
+}
+function readNextFor(key){
+ const n=DATA.nodes[key];
+ const rel=(n.related||[]).slice(0,5);
+ return rel.map(r=>{
+  const tgt=DATA.nodes[r[0]];
+  if(!tgt)return null;
+  let reason='';
+  const eMatch=(n.edges||[]).find(e=>e[1]===r[1]);
+  if(eMatch)reason=eMatch[0];
+  return {id:r[0],title:r[1],type:tgt.type,reason,tgtLede:tgt.lede};
+ }).filter(Boolean);
+}
+/* ---------- مستوى الصفحة (شارة) ---------- */
+function levelBadge(n){
+ if(!n.level) return '';
+ const map={'مبتدئ':'beg','متوسط':'mid','متقدم':'adv'};
+ const cls=map[n.level]||'mid';
+ return '<span class="levelbadge '+cls+'">'+n.level+'</span>';
+}
+/* ---------- تمييز النص (تحديد) ---------- */
+function applyHighlights(key){
+ const hl=ST.highlights[key];
+ if(!hl||!hl.length) return;
+ const body=document.getElementById('studyBody');
+ if(!body) return;
+ hl.forEach(txt=>{
+  if(!txt) return;
+  highlightTextInNode(body, txt);
+ });
+}
+function highlightTextInNode(root, txt){
+ const walker=document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null);
+ let node;
+ while((node=walker.nextNode())){
+  const i=node.nodeValue.indexOf(txt);
+  if(i>-1){
+   const range=document.createRange();
+   range.setStart(node,i); range.setEnd(node,i+txt.length);
+   const mark=document.createElement('mark');
+   mark.className='hlmark';
+   try{ range.surroundContents(mark); }catch(e){}
+   return true;
+  }
+ }
+ return false;
+}
+function saveHighlightSelection(key){
+ const sel=window.getSelection();
+ if(!sel||sel.isCollapsed||!sel.rangeCount) return;
+ const txt=sel.toString().trim();
+ if(!txt||txt.length<2) return;
+ const range=sel.getRangeAt(0);
+ const body=document.getElementById('studyBody');
+ if(!body||!body.contains(range.commonAncestorContainer)) return;
+ const mark=document.createElement('mark');
+ mark.className='hlmark';
+ try{ range.surroundContents(mark); }catch(e){ return; }
+ sel.removeAllRanges();
+ if(!ST.highlights[key]) ST.highlights[key]=[];
+ ST.highlights[key].push(txt);
+ stSave();
+}
+function removeHighlight(key,mark){
+ if(!mark||!mark.parentNode) return;
+ const txt=mark.textContent;
+ const list=ST.highlights[key];
+ if(list&&list.length){
+  const idx=list.indexOf(txt);
+  if(idx>-1) list.splice(idx,1);
+  else{
+   const idx2=list.findIndex(t=>txt&&txt.indexOf(t)>-1);
+   if(idx2>-1) list.splice(idx2,1);
+  }
+ }
+ const parent=mark.parentNode;
+ while(mark.firstChild) parent.insertBefore(mark.firstChild,mark);
+ parent.removeChild(mark);
+ parent.normalize();
+ stSave();
+}
+/* ---------- حجم الخط ---------- */
+function applyFontScale(){
+ const body=document.getElementById('studyBody');
+ if(body) body.style.fontSize=(14.5*ST.fontScale)+'px';
+}
+function changeFontScale(delta){
+ ST.fontScale=Math.min(1.4,Math.max(0.75,+(ST.fontScale+delta).toFixed(2)));
+ stSave();
+ applyFontScale();
+}
+/* ---------- وضع الدراسة (طيّ الأقسام) ---------- */
+function studyModeToggle(key){
+ const body=document.getElementById('studyBody');
+ if(!body) return;
+ body.classList.toggle('studymode');
+ wireStudyModeClicks(key);
+}
+function wireStudyModeClicks(key){
+ const body=document.getElementById('studyBody');
+ if(!body) return;
+ body.querySelectorAll('.sub').forEach(sub=>{
+  sub.onclick=function(){
+   if(!body.classList.contains('studymode')) return;
+   const p=sub.nextElementSibling;
+   if(!p||p.tagName!=='P') return;
+   sub.classList.toggle('revealed');
+   p.classList.toggle('revealed');
+  };
+ });
+}
+function studyRevealAll(show){
+ const body=document.getElementById('studyBody');
+ if(!body) return;
+ body.querySelectorAll('.sub').forEach(sub=>{
+  const p=sub.nextElementSibling;
+  if(!p||p.tagName!=='P') return;
+  sub.classList.toggle('revealed',show);
+  p.classList.toggle('revealed',show);
+ });
+}
+/* ---------- نسخة مختصرة / كاملة ---------- */
+function shortModeToggle(key){
+ ST.shortMode[key]=!ST.shortMode[key];
+ stSave();
+ const body=document.getElementById('studyBody');
+ if(body) body.classList.toggle('shortmode', !!ST.shortMode[key]);
+}
+/* ---------- اقترح قراءة ---------- */
+function toReadToggle(key){
+ const i=ST.toRead.indexOf(key);
+ if(i>-1) ST.toRead.splice(i,1); else ST.toRead.push(key);
+ stSave();
+}
+/* ---------- اختبر فهمك (اختبار قصير للمفاهيم) ---------- */
+function renderQuiz(n,key){
+ if(!n.quiz||!n.quiz.length) return '';
+ let h='<div class="node quizbox"><div style="font-weight:700;font-size:16px;margin-bottom:10px">اختبر فهمك</div>';
+ n.quiz.forEach((q,qi)=>{
+  h+='<div class="quizq" data-qi="'+qi+'"><h6>'+(qi+1)+'. '+q.q+'</h6><div class="quizopts">'+
+   q.opts.map((o,oi)=>'<button class="quizopt" data-qi="'+qi+'" data-oi="'+oi+'">'+o+'</button>').join('')+
+   '</div><div class="quizfb" id="qfb-'+key+'-'+qi+'"></div></div>';
+ });
+ h+='</div>';
+ return h;
+}
+function wireQuiz(n,key){
+ const box=document.querySelector('.quizbox');
+ if(!box) return;
+ box.querySelectorAll('.quizopt').forEach(btn=>{
+  btn.onclick=function(){
+   const qi=+btn.dataset.qi, oi=+btn.dataset.oi;
+   const q=n.quiz[qi];
+   const group=box.querySelector('.quizq[data-qi="'+qi+'"]');
+   if(group.classList.contains('answered')) return;
+   group.classList.add('answered');
+   group.querySelectorAll('.quizopt').forEach((b,i)=>{
+    b.disabled=true;
+    if(i===q.correct) b.classList.add('correct');
+    else if(i===oi) b.classList.add('wrong');
+   });
+   const fb=document.getElementById('qfb-'+key+'-'+qi);
+   fb.textContent=(oi===q.correct?'✓ إجابة صحيحة. ':'✗ إجابة غير دقيقة. ')+(q.explain||'');
+   fb.classList.add('show');
+  };
+ });
+}
+
+function renderNode(key){
+ const n=DATA.nodes[key];
+ const tc=typeClass(n.type);
+ /* related[] العنصر ده بيدّينا سياق موثوق لحل تصادم اسم مشترك (زي "كوبر") داخل نص نفس الصفحة —
+    لو الصفحة نفسها ربطت فعلاً بـ"ميك كوبر"، فأي ذكر لـ"كوبر" في نصها المرجَّح إنه هو المقصود */
+ const localAlias=(n.related||[]).map(r=>({surface:r[1],id:r[0]}));
+ const totalWords=n.sections.reduce((a,s)=>a+wordCount(s[1]),0)+wordCount(n.lede);
+ const mins=Math.max(1,Math.round(totalWords/200));
+ const relCount=relCountFor(key);
+ const gapCount=(n.gaps||[]).length;
+ let h='<div class="crumbs2">'+
+  '<a onclick="goAtlasHome()">الأطلس</a> ← '+
+  '<a class="ctype t-'+tc+'" style="background:var(--type-'+tc+'-soft);color:var(--type-'+tc+')" onclick="goTypeIndex(\''+n.type+'\')">'+n.type+'</a> ← '+
+  '<span class="cnow">'+n.title+'</span></div>';
+
+ h+='<div class="node hero"><div class="tbar t-'+tc+'"></div><div class="heromain">'+
+ '<div class="nodetop">'+typeBadge(n)+'</div>'+
+ '<div class="nodetop" style="margin-top:8px"><h1>'+n.title+levelBadge(n)+'</h1><div class="en">'+(n.en||'')+'</div></div>'+
+ '<div class="meta">'+
+   (n.dates?'<span class="tag">'+n.dates+'</span>':'')+
+   (n.country?'<span class="tag link" onclick="goFacetIndex(\'country\',\''+n.country.replace(/'/g,"\\'")+'\')" title="تصفّح كل عناصر هذا البلد">🌍 '+n.country+'</span>':'')+
+   (n.language?'<span class="tag link" onclick="goFacetIndex(\'language\',\''+n.language.replace(/'/g,"\\'")+'\')" title="تصفّح كل عناصر هذه اللغة">🗣 '+n.language+'</span>':'')+
+   '<span class="tag draft">الحالة: مسودة تحريرية</span></div>'+
+ '<p class="lede">'+autoLink(n.lede,key,localAlias)+'</p>'+
+ '<div class="herometa">'+
+  '<span class="hm">⏱ وقت قراءة تقديري: <b>'+mins+'</b> د <span class="est">(تقدير آلي بمعدل ٢٠٠ كلمة/د)</span></span>'+
+  '<span class="hm">⇄ علاقات مسجّلة: <b>'+relCount+'</b></span>'+
+  (gapCount?'<span class="hm">▢ فجوات معرفية: <b>'+gapCount+'</b></span>':'')+
+ '</div></div></div>';
+
+ const secToc=n.sections.map((s,i)=>({id:'sec-'+key+'-'+i,t:s[0]}));
+ const tocItems=[{id:'hero-'+key,t:'مقدّمة'}].concat(secToc)
+   .concat(n.table?[{id:'tbl-'+key,t:'الجدول المقارن'}]:[])
+   .concat((n.edges&&n.edges.length)?[{id:'edg-'+key,t:'العناصر المجاورة'}]:[])
+   .concat(gapCount?[{id:'gap-'+key,t:'ما ينقص'}]:[])
+   .concat(readNextFor(key).length?[{id:'rn-'+key,t:'اقرأ بعد كذلك'}]:[]);
+
+ const isConcept=n.type==='مفهوم';
+ const studybarHTML='<div class="studybar">'+
+  '<div class="sgroup sgroup-write">'+
+  '<button class="sbtn" id="hlBtn" title="حدّد نصاً بالماوس ثم اضغط هذا الزر">✎ تحديد</button>'+
+  '<button class="sbtn" id="hlRemoveBtn" title="فعّل ثم اضغط أي تظليل لحذفه">🗑 مسح</button>'+
+  '<span class="sep"></span>'+
+  '<button class="sbtn small" id="fontMinusBtn" title="تصغير الخط">A-</button>'+
+  '<button class="sbtn small" id="fontPlusBtn" title="تكبير الخط">A+</button>'+
+  '<span class="sep"></span>'+
+  '<button class="sbtn" id="toReadBtn">'+(ST.toRead.indexOf(key)>-1?'✓ في قائمة القراءة':'🔖 اقترح قراءة')+'</button>'+
+  '</div>'+
+  '<span class="gsep"></span>'+
+  '<div class="sgroup sgroup-display">'+
+  '<button class="sbtn" id="studyModeBtn">📖 وضع الدراسة</button>'+
+  '<button class="sbtn small" id="revealAllBtn" style="display:none">إظهار الكل</button>'+
+  '<button class="sbtn small" id="hideAllBtn" style="display:none">إخفاء الكل</button>'+
+  (isConcept?('<span class="sep"></span><button class="sbtn" id="shortModeBtn">'+(ST.shortMode[key]?'نسخة كاملة':'نسخة مختصرة')+'</button>'):'')+
+  '</div>'+
+  '</div>';
+ let main='<div id="hero-'+key+'"></div>'+studybarHTML+'<div id="studyBody">';
+ if(n.table){
+  main+='<div class="node" id="tbl-'+key+'"><div style="font-weight:700;font-size:16px;margin-bottom:8px">المفهوم عند كل واحد منهم</div>'+
+   '<table><tr>'+n.table.head.map(x=>'<th>'+x+'</th>').join('')+'</tr>'+
+   n.table.rows.map(r=>'<tr>'+r.map((c,i)=>'<td'+(i===0?' style="font-weight:700;white-space:nowrap"':'')+'>'+autoLink(String(c),key,localAlias)+'</td>').join('')+'</tr>').join('')+
+   '</table></div>';
+ }
+ main+='<div class="node'+(isConcept?' fullonly':'')+'">'+n.sections.map((s,i)=>
+   (s[0]==='اقتباسات مختارة'
+     ? '<div class="sub" id="sec-'+key+'-'+i+'" style="font-size:14px">'+s[0]+'</div>'+renderQuoteCards(s[1],n.title)
+     : '<div class="sub" id="sec-'+key+'-'+i+'" style="font-size:14px">'+s[0]+'</div><p style="font-size:14.5px;margin:4px 0 14px">'+autoLink(s[1],key,localAlias)+'</p>')
+   ).join('')+'</div>';
+ const rows=conceptRowsFor(key);
+ if(rows.length){
+  main+='<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:4px">مواقفه من المفاهيم الكبرى</div>'+
+   '<div style="font-size:12.5px;color:var(--muted);margin-bottom:10px">'+rows.length+
+   ' صياغة مسجّلة له داخل جداول المفاهيم. اضغط اسم المفهوم لترى صياغته بجانب صياغات الآخرين في نفس الجدول.</div>'+
+   '<table><tr><th>المفهوم</th><th>صياغته</th><th>ما يترتب عليه في الغرفة</th><th>خلافه مع غيره</th></tr>'+
+   rows.map(r=>'<tr><td style="white-space:nowrap"><span class="chip link" data-go="'+r.ck+'">'+r.ct+' ←</span></td>'+
+     '<td>'+r.row[1]+'</td><td>'+r.row[2]+'</td><td>'+r.row[3]+'</td></tr>').join('')+
+   '</table></div>';
+ }
+ if(n.edges&&n.edges.length)
+  main+='<div class="node" id="edg-'+key+'"><div style="font-weight:700;font-size:16px;margin-bottom:10px">العناصر المجاورة</div>'+
+   n.edges.map(x=>'<div class="edge"><span class="rel">'+x[0]+'</span><span class="to">'+edgeTargetHTML(x[1],key)+'</span>'+
+   '<span style="color:var(--muted);font-size:12px">· '+x[2]+'</span></div>').join('')+
+   '<div style="font-weight:700;font-size:14px;margin:16px 0 8px">انتقل إلى</div><div class="chips">'+
+   (n.related||[]).map(r=>'<span class="chip link" data-go="'+r[0]+'">'+r[1]+' <span class="lat">· '+r[2]+'</span></span>').join('')+
+   '</div></div>';
+ if(gapCount)
+  main+='<div class="node" id="gap-'+key+'"><div style="font-weight:700;font-size:16px;margin-bottom:8px">ما ينقص هذا العنصر</div>'+
+   n.gaps.map(g=>'<div class="ph">'+g+'</div>').join('')+'</div>';
+
+ const rn=readNextFor(key);
+ if(rn.length){
+  main+='<div class="node" id="rn-'+key+'"><div style="font-weight:700;font-size:16px;margin-bottom:10px">اقرأ بعد كذلك</div>'+
+   '<div class="rnext">'+rn.map(r=>{
+    const rc=typeClass(r.type);
+    return '<div class="rncard t-'+rc+'" style="border-inline-start-color:var(--type-'+rc+')" data-go="'+r.id+'">'+
+     (r.reason?'<span class="rnrel">'+r.reason+'</span>':'')+
+     '<div style="margin-bottom:6px">'+typeBadge({type:r.type,id:''},false)+'</div>'+
+     '<h6>'+r.title+'</h6>'+
+     (r.tgtLede?'<p>'+r.tgtLede+'</p>':'')+
+     '</div>';
+   }).join('')+'</div></div>';
+ }
+ if(CONCEPT_TIMELINES[key]) main+=renderConceptTimeline(key);
+ if(isConcept) main+=renderQuiz(n,key);
+ main+='</div>';
+
+ const tocHTML='<nav class="toc" id="tocNav"><h6>في هذه الصفحة</h6><ul>'+
+   tocItems.map(t=>'<li><a href="#" data-tocid="'+t.id+'">'+t.t+'</a></li>').join('')+'</ul></nav>';
+
+ h+='<button class="tocToggle" id="tocToggleBtn">☰ محتويات الصفحة</button>'+
+    '<div class="pagegrid"><div>'+tocHTML+'</div><div>'+main+'</div></div>';
+
+ app.innerHTML=h+footer();
+ setupToc(tocItems);
+ applyFontScale();
+ applyHighlights(key);
+ if(isConcept && ST.shortMode[key]) document.getElementById('studyBody').classList.add('shortmode');
+ wireStudyControls(n,key);
+ if(isConcept) wireQuiz(n,key);
+ window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function wireStudyControls(n,key){
+ const hlBtn=document.getElementById('hlBtn');
+ const hlRemoveBtn=document.getElementById('hlRemoveBtn');
+ if(hlBtn) hlBtn.onclick=function(){
+  hlBtn.classList.toggle('on');
+  if(hlBtn.classList.contains('on')){
+   if(hlRemoveBtn) hlRemoveBtn.classList.remove('armed');
+   saveHighlightSelection(key);
+  }
+ };
+ const body=document.getElementById('studyBody');
+ if(body) body.addEventListener('mouseup',function(){
+  if(hlBtn&&hlBtn.classList.contains('on')) saveHighlightSelection(key);
+ });
+ if(hlRemoveBtn) hlRemoveBtn.onclick=function(){
+  const armed=hlRemoveBtn.classList.toggle('armed');
+  if(armed){
+   if(hlBtn) hlBtn.classList.remove('on');
+   const prevTitle=hlRemoveBtn.title;
+   hlRemoveBtn.title='اضغط أي نص مظلَّل لحذف تمييزه فقط — أو اضغط هذا الزر مرة أخرى للإلغاء';
+   const prevText=hlRemoveBtn.textContent;
+   hlRemoveBtn.textContent='🗑 اضغط تظليلاً لحذفه';
+   hlRemoveBtn.dataset.prevText=prevText;
+  } else {
+   hlRemoveBtn.textContent=hlRemoveBtn.dataset.prevText||'🗑 مسح';
+  }
+ };
+ if(body) body.addEventListener('click',function(ev){
+  if(!hlRemoveBtn||!hlRemoveBtn.classList.contains('armed')) return;
+  const mark=ev.target.closest('.hlmark');
+  if(!mark||!body.contains(mark)) return;
+  ev.preventDefault(); ev.stopPropagation();
+  removeHighlight(key,mark);
+  hlRemoveBtn.classList.remove('armed');
+  hlRemoveBtn.textContent=hlRemoveBtn.dataset.prevText||'🗑 مسح';
+ });
+ const fMinus=document.getElementById('fontMinusBtn');
+ if(fMinus) fMinus.onclick=()=>changeFontScale(-0.1);
+ const fPlus=document.getElementById('fontPlusBtn');
+ if(fPlus) fPlus.onclick=()=>changeFontScale(0.1);
+ const trBtn=document.getElementById('toReadBtn');
+ if(trBtn) trBtn.onclick=function(){
+  toReadToggle(key);
+  trBtn.textContent=ST.toRead.indexOf(key)>-1?'✓ في قائمة القراءة':'🔖 اقترح قراءة';
+ };
+ const smBtn=document.getElementById('studyModeBtn');
+ const revBtn=document.getElementById('revealAllBtn');
+ const hidBtn=document.getElementById('hideAllBtn');
+ if(smBtn) smBtn.onclick=function(){
+  studyModeToggle(key);
+  const on=body.classList.contains('studymode');
+  smBtn.classList.toggle('on',on);
+  if(revBtn) revBtn.style.display=on?'inline-flex':'none';
+  if(hidBtn) hidBtn.style.display=on?'inline-flex':'none';
+ };
+ if(revBtn) revBtn.onclick=()=>studyRevealAll(true);
+ if(hidBtn) hidBtn.onclick=()=>studyRevealAll(false);
+ const shBtn=document.getElementById('shortModeBtn');
+ if(shBtn) shBtn.onclick=function(){
+  shortModeToggle(key);
+  shBtn.textContent=ST.shortMode[key]?'نسخة كاملة':'نسخة مختصرة';
+ };
+}
+
+function footer(){return '<footer><b>نقطة البداية:</b> لا يوجد مدخل واحد صحيح لهذه الوحدة. زرّ «نقطة بداية» في الأعلى يعيدك إلى الصفحة الأم، والقائمة المنسدلة تنقلك إلى أي طبقة أو عنصر مباشرةً — من الفلسفة، أو من التيار، أو من المفهوم، أو من الاسم، أو من الكتاب.'+
+ '<div style="margin-top:10px">أطلس النفس البشرية · وحدة المدرسة الوجودية · مسودة تحريرية لم تمرّ بمراجعة مختص · لا تُستخدم للتشخيص ولا للاستشارة.</div></footer>';}
+/* ---------- TOC تفاعلي بالتمرير ---------- */
+let __tocObserver=null;
+function setupToc(items){
+ const nav=document.getElementById('tocNav');
+ const btn=document.getElementById('tocToggleBtn');
+ if(!nav)return;
+ if(btn)btn.onclick=()=>nav.classList.toggle('open');
+ nav.querySelectorAll('a[data-tocid]').forEach(a=>{
+  a.onclick=ev=>{
+   ev.preventDefault();
+   const el=document.getElementById(a.dataset.tocid);
+   if(el)el.scrollIntoView({behavior:'smooth',block:'start'});
+   if(window.innerWidth<=900)nav.classList.remove('open');
+  };
+ });
+ if(__tocObserver){__tocObserver.disconnect();__tocObserver=null;}
+ if(!('IntersectionObserver' in window))return;
+ const links=nav.querySelectorAll('a[data-tocid]');
+ const setActive=id=>{links.forEach(l=>l.classList.toggle('on',l.dataset.tocid===id));};
+ const visible=new Map();
+ __tocObserver=new IntersectionObserver(entries=>{
+  entries.forEach(e=>{visible.set(e.target.id,e.isIntersecting?e.intersectionRatio:0);});
+  let best=null,bestR=0;
+  visible.forEach((r,id)=>{if(r>bestR){bestR=r;best=id;}});
+  if(best)setActive(best);
+ },{root:null,rootMargin:'-90px 0px -60% 0px',threshold:[0,0.1,0.3,0.6,1]});
+ items.forEach(t=>{const el=document.getElementById(t.id); if(el)__tocObserver.observe(el);});
+}
+
+
+
+function go(k){ if(k===ATLAS_HOME){location.hash='#'+k;route();return;}
+ /* الروابط التلقائية لأسماء البلاد/اللغات (autoLink) بتوّلد معرّفات مركّبة زي "facet:country:فرنسا"
+    بدل معرّف عنصر حقيقي — route() أصلاً عارف يفسّرها، فبس بيعدّوا هنا من غير فحص DATA.nodes */
+ if(k.indexOf('facet:')===0){location.hash='#'+k;route();return;}
+ if(!DATA.nodes[k]&&k!==HOME)return; location.hash='#'+k; route(); }
+function goTypeIndex(type){ location.hash='#type:'+encodeURIComponent(type); route(); }
+function goFacetIndex(field,value){ location.hash='#facet:'+field+':'+encodeURIComponent(value); route(); }
+function goAtlasHome(){ location.hash='#'+ATLAS_HOME; route(); }
+window.goAtlasHome=goAtlasHome;
+/* خط الزمن (طبقة عرضية اسمها "خط تطوّر المدرسة") مبني بشكل خاص جوه renderSchool()،
+   مش عنصر في DATA.layers زي باقي الطبقات، فمحتاج مساره الخاص بدل openLayer() العادية. */
+function goTimeline(){
+  go(HOME);
+  setTimeout(()=>{
+    const tl=document.getElementById('layer-tl');
+    if(tl){ tl.classList.add('open','flash'); tl.scrollIntoView({behavior:'smooth',block:'start'});
+      setTimeout(()=>tl.classList.remove('flash'),1600); }
+  },60);
+}
+window.goTimeline=goTimeline;
+
+/* ===== الصفحة الحقيقية لجذر الأطلس — أول ما يفتح، وأول ما ترجع له من "أطلس"/"نقطة بداية" ===== */
+function renderAtlasHome(){
+ const relCount=Object.entries(DATA.nodes).filter(([,n])=>n.type==='علاقة بين مدرستين');
+ const body=
+  '<div class="crumbs2"><span class="cnow">أطلس النفس البشرية</span></div>'+
+  '<div class="node hero"><div class="heromain">'+
+  '<div class="nodetop"><h1>أطلس النفس البشرية</h1></div>'+
+  '<p class="lede">مرجع مفتوح لمدارس العلاج النفسي، مبنيّ ليضمّ عدة مدارس مع الوقت. اختر مدرسة لتبدأ.</p>'+
+  '</div></div>'+
+  '<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:10px">المدارس</div>'+
+  '<div class="schoolgrid">'+SCHOOLS.map(s=>{
+    const ready=s.st==='ready';
+    return '<div class="schoolcard '+s.st+'"'+(ready?' data-go="'+HOME+'" role="button" tabindex="0" style="cursor:pointer"':'')+'>'+
+      '<b>'+escHTML(s.t)+'</b>'+
+      '<span class="st">'+(ready?'جاهزة · ':'لم تُضف بعد · ')+escHTML(s.note)+'</span>'+
+      (ready?'<span class="chip link" data-go="'+HOME+'">ادخل ←</span>':'')+
+      '</div>';
+  }).join('')+'</div>'+
+  (relCount.length?('<h6>ما الذي يربطها الآن</h6><div class="chips">'+
+    relCount.map(([k,n])=>'<span class="chip link" data-go="'+escHTML(k)+'">'+escHTML(n.title)+'</span>').join('')+'</div>'):'')+
+  '</div>'+
+  '<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:10px">تصفّح سريع عبر كل المدارس</div>'+
+  '<div class="chips">'+
+    '<span class="chip link" onclick="typesDrawer()">تصفح حسب النوع</span>'+
+    '<span class="chip link" onclick="goTypeIndex(\'مفهوم\')">تصفح المفاهيم</span>'+
+    '<span class="chip link" onclick="goTypeIndex(\'مفكر\')">تصفح المفكرين</span>'+
+    '<span class="chip link" onclick="countriesDrawer()">تصفح حسب البلد</span>'+
+    '<span class="chip link" onclick="languagesDrawer()">تصفح حسب اللغة</span>'+
+    '<span class="chip link" onclick="goGlobalTimeline()">تصفح حسب الزمن (الخط الزمني الشامل)</span>'+
+  '</div></div>'+
+  footer();
+ app.innerHTML=body;
+ window.scrollTo({top:0,behavior:'smooth'});
+ renderProg();
+}
+window.renderAtlasHome=renderAtlasHome;
+
+function route(){ const k=(location.hash||'#'+ATLAS_HOME).slice(1);
+ if(k===ATLAS_HOME){ renderAtlasHome(); return; }
+ if(k.indexOf('type:')===0){ renderTypeIndex(decodeURIComponent(k.slice(5))); return; }
+ if(k.indexOf('facet:')===0){
+   const rest=k.slice(6); const sep=rest.indexOf(':');
+   renderFacetIndex(rest.slice(0,sep), decodeURIComponent(rest.slice(sep+1))); return;
+ }
+ if(k==='timeline'){ renderGlobalTimeline(); return; }
+ if(DATA.nodes[k])renderNode(k); else renderSchool(); }
+window.addEventListener('hashchange',route);
+window.go=go;
+window.goTypeIndex=goTypeIndex;
+window.goFacetIndex=goFacetIndex;
+
+/* ===== فهرس حسب سمة عامة (بلد أو لغة) — نفس منطق فهرس النوع، لكن مفتوح على أي حقل نصي بسيط ===== */
+const FACET_TITLES={country:'بلد',language:'لغة'};
+function renderFacetIndex(field,value){
+ const items=Object.entries(DATA.nodes).filter(([,n])=>n[field]&&facetParts(n[field],field).includes(value));
+ const label=FACET_TITLES[field]||field;
+ const title='كل عناصر '+label+': '+value;
+ app.innerHTML='<div class="crumbs2">'+
+   '<a onclick="goAtlasHome()">الأطلس</a> ← '+
+   '<span class="cnow">'+escHTML(title)+'</span></div>'+
+  '<div class="node"><div class="nodetop"><h1>'+escHTML(title)+'</h1></div>'+
+  '<div class="meta"><span class="tag">'+escHTML(label)+': <b>'+escHTML(value)+'</b></span><span class="tag">العدد: <b>'+items.length+'</b></span></div>'+
+  '<div class="chips" style="margin-top:14px">'+
+  items.map(([id,n])=>'<span class="chip link" data-go="'+id+'">'+escHTML(n.title)+' <span class="lat">· '+escHTML(n.type)+'</span></span>').join('')+
+  '</div>'+
+  (items.length?'':'<p class="lede">لا عناصر بهذه القيمة بعد.</p>')+
+  '</div>'+footer();
+ window.scrollTo({top:0,behavior:'smooth'});
+}
+window.renderFacetIndex=renderFacetIndex;
+
+/* ===== الخط الزمني الشامل — عبر كل الأنواع وكل المدارس، مبني من active_start/active_end الحقيقية ===== */
+/* مختلف تماماً عن "خط تطوّر المدرسة" (renderTimeline داخل renderSchool): ده نص سردي مكتوب يدوياً
+   خاص بالوجودية بس. ده هنا مبني آلياً من بيانات كل عنصر عنده active_start فعلي، بغض النظر عن نوعه
+   أو مدرسته — أي عنصر جديد من أي مدرسة تانية بعدين هيظهر هنا تلقائياً من غير أي تعديل في الكود. */
+
+/* --- تقسيم الأزمنة: قرن كامل (100 سنة) قبل 1700، نص قرن (50 سنة) من 1700 لحد 1899،
+   ثم من 1900 عقد (10 سنين) لوحده جوه نفس حاوية "القرن العشرون/الحادي والعشرون" ومفصول عنها بخط. --- */
+function centuryBucket(y){ return Math.floor(y/100)*100; }
+function halfCenturyBucket(y){ return Math.floor(y/50)*50; }
+function decadeBucket(y){ return Math.floor(y/10)*10; }
+function centuryLabel(bucket){
+ if(bucket>=0) return bucket+'–'+(bucket+99);
+ const hi=Math.abs(bucket), lo=Math.abs(bucket+99);
+ return hi+'–'+lo+' ق.م';
+}
+function halfLabel(bucket){ return bucket+'–'+(bucket+49); }
+function decadeLabel(bucket){ return bucket+'–'+(bucket+9); }
+
+/* يرجع {topKey, topLabel, isDecadeMode} للسنة المعطاة — الوحدة اللي هيتجمّع عليها العنصر أول مستوى */
+function timeTopBucket(y){
+ if(y<1700){ const b=centuryBucket(y); return {topKey:'c'+b, topLabel:centuryLabel(b), isDecadeMode:false}; }
+ if(y<1900){ const b=halfCenturyBucket(y); return {topKey:'h'+b, topLabel:halfLabel(b), isDecadeMode:false}; }
+ const b=centuryBucket(y); return {topKey:'c'+b, topLabel:centuryLabel(b), isDecadeMode:true};
+}
+
+/* --- خرائط قارة/مدرسة/نوع شخص مُستنتَجة من الحقول الموجودة فعلاً في البيانات، من غير أي حقل قارة جديد --- */
+const COUNTRY_CONTINENT={
+ 'ألمانيا':'أوروبا','أوكرانيا':'أوروبا','إسبانيا':'أوروبا','إيطاليا':'أوروبا','اسكتلندا':'أوروبا',
+ 'التشيك':'أوروبا','الدنمارك':'أوروبا','السويد':'أوروبا','المجر':'أوروبا','النرويج':'أوروبا',
+ 'النمسا':'أوروبا','النمسا-المجر':'أوروبا','اليونان':'أوروبا','بريطانيا':'أوروبا','بلجيكا':'أوروبا',
+ 'بولندا':'أوروبا','بيلاروسيا':'أوروبا','رومانيا':'أوروبا','سويسرا':'أوروبا','فرنسا':'أوروبا',
+ 'فنلندا':'أوروبا','لاتفيا':'أوروبا','ليتوانيا':'أوروبا','هولندا':'أوروبا','روما':'أوروبا',
+ 'روما القديمة':'أوروبا','روسيا':'أوروبا',
+ 'آسيا':'آسيا','إسرائيل':'آسيا','الهند':'آسيا','اليابان':'آسيا','باكستان':'آسيا','سوريا':'آسيا',
+ 'فلسطين':'آسيا','لبنان':'آسيا','العراق':'آسيا',
+ 'أمريكا':'أمريكا الشمالية','الولايات المتحدة':'أمريكا الشمالية','كندا':'أمريكا الشمالية',
+ 'المكسيك':'أمريكا الشمالية','مارتينيك':'أمريكا الشمالية',
+ 'الأرجنتين':'أمريكا الجنوبية','البرازيل':'أمريكا الجنوبية','كولومبيا':'أمريكا الجنوبية',
+ 'جنوب أفريقيا':'أفريقيا','شمال أفريقيا':'أفريقيا','الجزائر':'أفريقيا','مصر':'أفريقيا'
+};
+function splitMulti(s){ return (s||'').split('/').map(x=>x.trim()).filter(Boolean); }
+/* بعض ملفات المحتوى بتكتب نفس البلد بصيغتين مختلفتين (مثلاً "أمريكا" و"الولايات المتحدة") —
+   ده تعدد في طريقة الكتابة مش بلدين حقيقيين، فبيتوحّدوا هنا في الفلترة والعرض لحد ما تتوحّد
+   الصياغة في ملفات المحتوى نفسها. أضِف أي اختلاف مشابه يتلاحظ بعدين هنا. خاص بالبلد فقط
+   (splitMulti العام بيتستخدم كمان للغة، ومفيش داعي يتأثر بالخريطة دي). */
+const COUNTRY_ALIASES={'أمريكا':'الولايات المتحدة'};
+function splitCountries(s){ return splitMulti(s).map(x=>COUNTRY_ALIASES[x]||x); }
+function continentsOf(countryField){ return [...new Set(splitCountries(countryField).map(c=>COUNTRY_CONTINENT[c]).filter(Boolean))]; }
+/* المدرسة مُستنتَجة من أول جزء في crumb ("المدرسة الوجودية ← ...") — بدون أي تعديل بيانات،
+   فأي مدرسة جديدة تتضاف بعدين تظهر هنا تلقائياً */
+function schoolOf(n){ return n.crumb ? n.crumb.split('←')[0].trim() : ''; }
+
+/* العصر الفكري مُستنتَج من active_start فقط (تقسيم تاريخي عام مفيد بالذات في الفلسفة) —
+   ولا يحتاج أي حقل بيانات جديد. الترتيب هنا زمني (مش أبجدي) عشان يظهر في القائمة بترتيب منطقي. */
+const ERAS=[
+ {key:'classical', label:'العصر الكلاسيكي (اليوناني والروماني)', test:y=>y<500},
+ {key:'medieval', label:'العصور الوسطى', test:y=>y>=500&&y<1400},
+ {key:'renaissance', label:'عصر النهضة', test:y=>y>=1400&&y<1600},
+ {key:'enlightenment', label:'عصر التنوير', test:y=>y>=1600&&y<1800},
+ {key:'modern', label:'الحداثة', test:y=>y>=1800&&y<1945},
+ {key:'postmodern', label:'ما بعد الحداثة', test:y=>y>=1945}
+];
+function eraOf(y){ const e=ERAS.find(e=>e.test(y)); return e?e.key:''; }
+function eraLabel(key){ const e=ERAS.find(e=>e.key===key); return e?e.label:key; }
+
+function timelineItems(){
+ return Object.entries(DATA.nodes)
+  .filter(([,n])=>typeof n.active_start==='number')
+  .sort((a,b)=>a[1].active_start-b[1].active_start);
+}
+function nodeEffectiveEnd(n){ return n.active_end==='مستمر' ? Infinity : (typeof n.active_end==='number' ? n.active_end : n.active_start); }
+function timelineFilter(items,f){
+ return items.filter(([,n])=>{
+  if(f.country && !splitCountries(n.country).includes(f.country)) return false;
+  if(f.continent && !continentsOf(n.country).includes(f.continent)) return false;
+  if(f.language && !splitMulti(n.language).includes(f.language)) return false;
+  if(f.school && schoolOf(n)!==f.school) return false;
+  /* person_subtype: حقل اختياري لسه بيتملى تدريجياً على المفكرين (عالم نفس/فيلسوف/كاتب/موسيقي...) —
+     العناصر اللي لسه من غيره بتتصفّى من النتيجة لو المستخدم حدد نوع شخص معيّن */
+  if(f.personType && n.person_subtype!==f.personType) return false;
+  if(f.era && eraOf(n.active_start)!==f.era) return false;
+  /* بحث بمدى سنوات حر (من/لحد) — بالتقاطع مع فترة نشاط العنصر كلها، مش بداية العنصر بس */
+  if(f.yearFrom!=='' && f.yearFrom!=null && nodeEffectiveEnd(n)<f.yearFrom) return false;
+  if(f.yearTo!=='' && f.yearTo!=null && n.active_start>f.yearTo) return false;
+  return true;
+ });
+}
+/* يبني مجموعات العرض: مستوى أول (قرن/نص قرن)، وجوه قرون الـ1900+ مستوى تاني بالعقد مفصول بخط */
+function timelineGroups(items){
+ const groups=[]; let curKey=null,curGroup=null;
+ items.forEach(([k,n])=>{
+  const {topKey,topLabel,isDecadeMode}=timeTopBucket(n.active_start);
+  if(topKey!==curKey){ curKey=topKey; curGroup={topKey,topLabel,isDecadeMode,items:[],subs:[]}; groups.push(curGroup); }
+  if(isDecadeMode){
+   const db=decadeBucket(n.active_start);
+   let sub=curGroup.subs.find(s=>s.bucket===db);
+   if(!sub){ sub={bucket:db,label:decadeLabel(db),items:[]}; curGroup.subs.push(sub); }
+   sub.items.push([k,n]);
+  } else {
+   curGroup.items.push([k,n]);
+  }
+ });
+ return groups;
+}
+
+/* ===== المخطط الشامل (Grand Chart) — رسم Gantt أفقي لكل عنصر معروض حالياً في الخط الزمني،
+   عنصر لكل صف، شريط من active_start لـ active_end (نقطة لو مفيش نهاية)، على نفس محور السنين،
+   ومتفق تماماً مع الفلاتر الحالية لأنه بيتبني من نفس مصفوفة items تلقائياً مع كل إعادة رسم ===== */
+function ganttChartSVG(items,zoom){
+ if(!items.length) return '<p class="lede">لا عناصر بهذا الفلتر بعد.</p>';
+ zoom = zoom||1;
+ const now=new Date().getFullYear();
+ const spans=items.map(([,n])=>{ const e=nodeEffectiveEnd(n); return [n.active_start, e===Infinity?now:e]; });
+ const minY=Math.min(...spans.map(s=>s[0])), maxY=Math.max(...spans.map(s=>s[1]));
+ const span=Math.max(1,maxY-minY);
+ /* التكبير/التصغير بيضرب في كثافة البكسل/سنة الأساسية — ده اللي بيتحكم في المسافات بين تواريخ متباعدة */
+ const pxPerYear = (span>800?3 : span>400?5 : span>150?9 : span>60?16 : span>20?26 : 40) * zoom;
+ const rowH=22, rowGap=5, leftPad=10, topPad=34, labelPad=8, textReserve=260;
+ const chartW=Math.ceil(span*pxPerYear)+leftPad+textReserve;
+ const chartH=topPad+items.length*(rowH+rowGap)+14;
+ const xOf=y=>leftPad+(y-minY)*pxPerYear;
+
+ const tickStep= span>800?100 : span>300?50 : span>100?20 : span>40?10 : 5;
+ const ticks=[]; for(let t=Math.ceil(minY/tickStep)*tickStep;t<=maxY;t+=tickStep) ticks.push(t);
+ const gridSVG=ticks.map(t=>{
+  const xx=xOf(t);
+  return '<line x1="'+xx+'" y1="'+(topPad-8)+'" x2="'+xx+'" y2="'+(chartH-8)+'" stroke="var(--line)" stroke-width="1" stroke-dasharray="2,3"/>'+
+   '<text x="'+xx+'" y="'+(topPad-14)+'" font-size="10" fill="var(--muted)" text-anchor="middle" font-family="inherit">'+(t<0?Math.abs(t)+' ق.م':t)+'</text>';
+ }).join('');
+
+ const rowsSVG=items.map(([k,n],i)=>{
+  const y=topPad+i*(rowH+rowGap);
+  const e=nodeEffectiveEnd(n); const endY=e===Infinity?now:e;
+  const x1=xOf(n.active_start), x2=Math.max(x1+6,xOf(endY));
+  const color='var(--type-'+typeClass(n.type)+')';
+  return '<g data-go="'+k+'" style="cursor:pointer">'+
+   '<title>'+escHTML(n.title)+' — '+escHTML(n.type)+'</title>'+
+   '<rect x="'+x1+'" y="'+y+'" width="'+(x2-x1)+'" height="'+rowH+'" rx="4" fill="'+color+'" opacity="0.88"/>'+
+   '<text x="'+(x2+labelPad)+'" y="'+(y+rowH-6)+'" font-size="11" fill="var(--fg)" font-family="inherit">'+escHTML(n.title)+'</text>'+
+   '</g>';
+ }).join('');
+
+ const legendTypes=[...new Set(items.map(([,n])=>n.type))];
+ const legendHTML='<div style="display:flex;flex-wrap:wrap;gap:8px;margin:0 0 10px;font-size:11px">'+
+  legendTypes.map(t=>'<span style="display:inline-flex;align-items:center;gap:4px"><span style="width:10px;height:10px;border-radius:3px;background:var(--type-'+typeClass(t)+');display:inline-block"></span>'+escHTML(t)+'</span>').join('')+
+  '</div>';
+
+ return legendHTML+
+  /* dir="ltr" ضروري هنا: المخطط بيستخدم إحداثيات زمن قياسية (يسار=الأقدم)، ولو ورث اتجاه الصفحة RTL
+     المتصفح بيحسب scrollLeft=0 كأقصى اليمين مش اليسار فيظهر أول العناصر خارج الشاشة تماماً */
+  '<div dir="ltr" style="overflow:auto;max-height:640px;border:1px solid var(--line);border-radius:10px;padding:6px 0">'+
+   '<svg width="'+chartW+'" height="'+chartH+'" style="display:block;min-width:100%">'+gridSVG+rowsSVG+'</svg>'+
+  '</div>';
+}
+
+function renderGlobalTimeline(filters){
+ const f=Object.assign({country:'',continent:'',language:'',school:'',personType:'',period:'',era:'',yearFrom:'',yearTo:'',zoom:1},filters||{});
+ const all = timelineItems();
+ const totalNodes = Object.keys(DATA.nodes).length;
+
+ /* قوائم الاختيار مبنية من كامل الأرشيف (all) عشان تفضل ثابتة زي ما إنت متعوّد، مش من النتيجة المصفّاة */
+ const countries=[...new Set(all.map(([,n])=>n.country).filter(Boolean).flatMap(splitCountries))].sort((a,b)=>a.localeCompare(b,'ar'));
+ const continents=[...new Set(all.flatMap(([,n])=>continentsOf(n.country)))].sort((a,b)=>a.localeCompare(b,'ar'));
+ const languages=[...new Set(all.map(([,n])=>n.language).filter(Boolean).flatMap(splitMulti))].sort((a,b)=>a.localeCompare(b,'ar'));
+ const schools=[...new Set(all.map(([,n])=>schoolOf(n)).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ar'));
+ const personTypes=[...new Set(all.map(([,n])=>n.person_subtype).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ar'));
+ const erasPresent=new Set(all.map(([,n])=>eraOf(n.active_start)));
+ const eras=ERAS.filter(e=>erasPresent.has(e.key)); /* ترتيب زمني ثابت، مش أبجدي */
+
+ const preItems = timelineFilter(all,Object.assign({},f,{period:''}));
+ const allGroups = timelineGroups(preItems);
+ const items = f.period ? preItems.filter(([,n])=>timeTopBucket(n.active_start).topKey===f.period) : preItems;
+ const groups = f.period ? allGroups.filter(g=>g.topKey===f.period) : allGroups;
+
+ const tc=t=>typeClass(t);
+ const rowHTML=([k,n])=>{
+  const endLabel = n.active_end==='مستمر' ? 'مستمر' : (typeof n.active_end==='number' ? n.active_end : n.active_start);
+  const yearLabel = n.active_start===endLabel ? String(n.active_start) : (n.active_start+'–'+endLabel);
+  return '<div class="edge" style="border-inline-start:3px solid var(--type-'+tc(n.type)+')">'+
+   '<span class="chip link" data-go="'+k+'" style="font-weight:600">'+escHTML(n.title)+'</span>'+
+   '<span class="rel">'+escHTML(n.type)+(n.person_subtype?' · '+escHTML(n.person_subtype):'')+'</span>'+
+   (n.country?'<span style="color:var(--muted);font-size:12px">🌍 '+escHTML(n.country)+'</span>':'')+
+   '<span style="color:var(--muted);font-size:12px;margin-inline-start:auto">'+yearLabel+'</span>'+
+   '</div>';
+ };
+ const groupsHTML=groups.map(g=>
+  '<div class="node" style="margin-bottom:14px"><div style="font-weight:700;font-size:15px;margin-bottom:10px;color:var(--accent)">'+g.topLabel+'</div>'+
+  (g.isDecadeMode
+   ? g.subs.map((s,i)=>
+      (i>0?'<div style="border-top:1px dashed var(--line);margin:10px 0"></div>':'')+
+      '<div style="font-weight:600;font-size:12px;color:var(--muted);margin-bottom:6px">'+s.label+'</div>'+
+      s.items.map(rowHTML).join('')
+     ).join('')
+   : g.items.map(rowHTML).join('')
+  )+'</div>').join('');
+
+ const opt=(v,label,cur)=>'<option value="'+escHTML(v)+'"'+(v===cur?' selected':'')+'>'+escHTML(label)+'</option>';
+ const selectField=(id,label,allLabel,list,cur)=>
+  '<label style="display:inline-flex;align-items:center;gap:6px;font-size:13px">'+label+': '+
+   '<select id="'+id+'" style="padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:inherit">'+
+    opt('',allLabel,cur)+list.map(v=>opt(v,v,cur)).join('')+
+   '</select></label>';
+
+ const periodOptions='<option value="">كل الفترات</option>'+
+   allGroups.map(g=>opt(g.topKey,g.topLabel,f.period)).join('');
+
+ app.innerHTML='<div class="crumbs2"><a onclick="goAtlasHome()">الأطلس</a> ← <span class="cnow">الخط الزمني الشامل</span></div>'+
+  '<div class="node"><div class="nodetop"><h1>الخط الزمني الشامل</h1></div>'+
+  '<p class="lede">كل عناصر الأطلس (من أي نوع ومن أي مدرسة) اللي ليها فترة نشاط موثّقة (active_start/active_end)، مرتبة زمنياً. عناصر لسه محتاجة تحديد فترتها الزمنية ('+(totalNodes-all.length)+' من أصل '+totalNodes+') مش ظاهرة هنا لحد ما تُوثَّق.</p>'+
+  '<div class="meta" style="margin:10px 0;display:flex;flex-wrap:wrap;gap:10px">'+
+   '<span class="tag">العدد المعروض: <b>'+items.length+'</b></span>'+
+   selectField('tlSchoolFilter','المدرسة','كل المدارس',schools,f.school)+
+   selectField('tlPersonTypeFilter','نوع الشخص','كل الأنواع',personTypes,f.personType)+
+   selectField('tlLanguageFilter','اللغة','كل اللغات',languages,f.language)+
+   selectField('tlCountryFilter','البلد','كل البلدان',countries,f.country)+
+   selectField('tlContinentFilter','القارة','كل القارات',continents,f.continent)+
+   '<label style="display:inline-flex;align-items:center;gap:6px;font-size:13px">العصر: '+
+    '<select id="tlEraFilter" style="padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:inherit">'+
+     '<option value="">كل العصور</option>'+eras.map(e=>opt(e.key,e.label,f.era)).join('')+
+    '</select></label>'+
+   '<label style="display:inline-flex;align-items:center;gap:6px;font-size:13px">الفترة الزمنية: '+
+    '<select id="tlPeriodFilter" style="padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:inherit">'+periodOptions+'</select>'+
+   '</label>'+
+   '<label style="display:inline-flex;align-items:center;gap:6px;font-size:13px">بحث بمدى سنوات: '+
+    '<input id="tlYearFrom" type="number" placeholder="من سنة" value="'+(f.yearFrom===''?'':f.yearFrom)+'" style="width:90px;padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:inherit">'+
+    '<span style="color:var(--muted)">–</span>'+
+    '<input id="tlYearTo" type="number" placeholder="لحد سنة" value="'+(f.yearTo===''?'':f.yearTo)+'" style="width:90px;padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:inherit">'+
+    '<button id="tlYearGo" class="chip link" type="button">تطبيق</button>'+
+   '</label>'+
+  '</div></div>'+
+  (groups.length?groupsHTML:'<p class="lede">لا عناصر بهذا الفلتر بعد.</p>')+
+  '<div class="node" style="margin-top:14px"><div class="nodetop" style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px">'+
+   '<h2 style="font-size:17px;margin:0">المخطط الشامل (Grand Chart)</h2>'+
+   '<div style="display:inline-flex;align-items:center;gap:6px">'+
+    '<button id="tlZoomOut" class="chip link" type="button" title="تصغير">－</button>'+
+    '<span style="font-size:12px;color:var(--muted);min-width:42px;text-align:center">'+Math.round(f.zoom*100)+'٪</span>'+
+    '<button id="tlZoomIn" class="chip link" type="button" title="تكبير">＋</button>'+
+    '<button id="tlZoomReset" class="chip link" type="button" title="إعادة الضبط">↺</button>'+
+   '</div></div>'+
+  '<p class="lede" style="margin-bottom:12px">نفس '+items.length+' عنصر أعلاه، مرسومين كأشرطة على محور سنة واحد — بداية كل شريط ونهايته من active_start/active_end الفعلية. يتحدّث تلقائياً مع أي فلتر تغيّره فوق. لو المسافات بين تواريخ متباعدة زادت أوي، استخدم － للتصغير أو ＋ للتكبير.</p>'+
+  ganttChartSVG(items,f.zoom)+
+  '</div>'+
+  footer();
+
+ const bind=(id,key)=>{ document.getElementById(id).onchange=ev=>{ f[key]=ev.target.value; renderGlobalTimeline(f); }; };
+ bind('tlSchoolFilter','school'); bind('tlPersonTypeFilter','personType'); bind('tlLanguageFilter','language');
+ bind('tlCountryFilter','country'); bind('tlContinentFilter','continent'); bind('tlPeriodFilter','period'); bind('tlEraFilter','era');
+ const ZOOM_MIN=0.25, ZOOM_MAX=8, ZOOM_STEP=1.4;
+ /* أزرار الزووم بترجّع نفس مكان المخطط بعد إعادة الرسم بدل ما ترجعك لأول الصفحة — لازم نمنع
+    الـ scrollTo(top) الافتراضي بتاع renderGlobalTimeline (آخر سطر فيها) وإلا animation الصعود
+    للأعلى بيكمّل ويلغي تصحيحنا لأنه بياخد وقت أطول من setTimeout(0) */
+ const rezoom=()=>{ f.__skipScroll=true; renderGlobalTimeline(f);
+  const h=[...document.querySelectorAll('h2')].find(x=>x.textContent.includes('Grand Chart'));
+  /* block:'center' مش 'start' — 'start' كان بيحط العنوان وزراير الزووم تحت الشريط العلوي الثابت
+     تماماً (مستخبيين)، فتضطر تعمل scroll يدوي كل مرة بعد كل ضغطة عشان توصلهم تاني */
+  if(h) h.scrollIntoView({block:'center'});
+ };
+ document.getElementById('tlZoomIn').onclick=()=>{ f.zoom=Math.min(ZOOM_MAX,f.zoom*ZOOM_STEP); rezoom(); };
+ document.getElementById('tlZoomOut').onclick=()=>{ f.zoom=Math.max(ZOOM_MIN,f.zoom/ZOOM_STEP); rezoom(); };
+ document.getElementById('tlZoomReset').onclick=()=>{ f.zoom=1; rezoom(); };
+ const applyYearRange=()=>{
+  const fromV=document.getElementById('tlYearFrom').value, toV=document.getElementById('tlYearTo').value;
+  f.yearFrom = fromV===''?'':parseInt(fromV,10); f.yearTo = toV===''?'':parseInt(toV,10);
+  renderGlobalTimeline(f);
+ };
+ document.getElementById('tlYearGo').onclick=applyYearRange;
+ ['tlYearFrom','tlYearTo'].forEach(id=>{
+  document.getElementById(id).onkeydown=ev=>{ if(ev.key==='Enter'){ ev.preventDefault(); applyYearRange(); } };
+ });
+ if(!f.__skipScroll) window.scrollTo({top:0,behavior:'smooth'});
+ f.__skipScroll=false; /* علامة لمرة واحدة بس — أي إعادة رسم تانية بعدها (مش عن طريق أزرار الزووم) ترجع تعمل scroll لفوق زي العادة */
+}
+window.renderGlobalTimeline=renderGlobalTimeline;
+function goGlobalTimeline(){ location.hash='#timeline'; route(); }
+window.goGlobalTimeline=goGlobalTimeline;
+
+/* ===== فهرس حسب النوع (مثلاً: كل المفكرين) ===== */
+const TYPE_INDEX_TITLE={'مفكر':'كل المفكرين','مفهوم':'كل المفاهيم','جدل':'كل الجدالات','تيار':'كل التيارات','عمل / كتاب':'كل الأعمال','علاقة بين مدرستين':'كل العلاقات بين المدارس',
+ 'سياق/تقليد':'كل السياقات والتقاليد الفكرية','أداة قياس':'كل أدوات القياس','اضطراب/حالة إكلينيكية':'كل الاضطرابات والحالات الإكلينيكية',
+ 'تقنية/تدخل علاجي':'كل التقنيات والتدخلات العلاجية','دراسة وبحث':'كل الدراسات والأبحاث','حدث تاريخي':'كل الأحداث التاريخية',
+ 'مصطلح لغوي متنازع عليه':'كل المصطلحات اللغوية المتنازع عليها','نقد خارجي موثَّق':'كل النقد الخارجي الموثَّق','خبرة معيشة':'كل الخبرات المعيشة',
+ 'استعارة/مجاز مؤسِّس':'كل الاستعارات والمجازات المؤسِّسة','بديهية/مبدأ تأسيسي':'كل البديهيات والمبادئ التأسيسية','سؤال مولِّد':'كل الأسئلة المولِّدة',
+ 'حوار مع مدرسة مجاورة':'كل الحوارات مع مدارس مجاورة','متلازمة':'كل المتلازمات'};
+function renderTypeIndex(type){
+ const items=Object.entries(DATA.nodes).filter(([,n])=>n.type===type);
+ const title=TYPE_INDEX_TITLE[type]||('كل عناصر: '+type);
+ const tc=typeClass(type);
+ app.innerHTML='<div class="crumbs2">'+
+   '<a onclick="goAtlasHome()">الأطلس</a> ← '+
+   '<span class="cnow">'+title+'</span></div>'+
+  '<div class="node"><div class="nodetop"><h1>'+title+'</h1></div>'+
+  '<div class="meta"><span class="tag">النوع: <b>'+type+'</b></span><span class="tag">العدد: <b>'+items.length+'</b></span></div>'+
+  '<div class="chips" style="margin-top:14px">'+
+  items.map(([id,n])=>'<span class="chip link" style="border-inline-start:3px solid var(--type-'+tc+')" data-go="'+id+'">'+n.title+'</span>').join('')+
+  '</div>'+
+  (items.length?'':'<p class="lede">لا عناصر من هذا النوع بعد.</p>')+
+  '</div>'+footer();
+ window.scrollTo({top:0,behavior:'smooth'});
+}
+window.renderTypeIndex=renderTypeIndex;
+
+document.addEventListener('click',ev=>{
+ const g=ev.target.closest('[data-go]'); if(g){ev.stopPropagation();go(g.dataset.go);}
+});
+document.getElementById('homeBtn').onclick=()=>{
+ /* نقطة البداية: إن كان هناك عنصر آخر آخِرَ زيارة، تعيدك إليه فعلياً؛ وإلا تعيدك لصفحة الاختيار من جديد */
+ activeEntry=0;
+ const target=(ST.lastNode&&DATA.nodes[ST.lastNode]&&ST.lastNode!==HOME)?ST.lastNode:ATLAS_HOME;
+ if(location.hash.slice(1)===target){route();}else{location.hash='#'+target;}
+ window.scrollTo({top:0,behavior:'smooth'});
+};
+const gb=document.getElementById('gapsBtn');
+gb.onclick=()=>{document.body.classList.toggle('showgaps');gb.classList.toggle('on');
+ if(document.body.classList.contains('showgaps'))document.querySelectorAll('.layer').forEach(l=>l.classList.add('open'));};
+const tb=document.getElementById('themeBtn');
+tb.onclick=()=>{const h=document.documentElement,d=h.getAttribute('data-theme')==='dark';
+ h.setAttribute('data-theme',d?'light':'dark');tb.textContent=d?'الوضع الليلي':'الوضع النهاري';
+ if(G)G.draw();};
+/* =========================================================================
+   V2 — طبقة مضافة فوق V1. لا تُعدَّل بيانات المتن ولا نصوصه التحريرية.
+   الموجة 1: بحث · ترجمة العلاقات · إتاحة · تقدّم · معجم طائر · شريط مسودة أهدأ
+   الموجة 2: حفظ محلي · معاينة جانبية · الخطوة التالية · أنت هنا / رحلتي
+   الموجة 3: عدسات المفهوم · علاقات المدارس · قالب المدرسة · مُبدّل · ربط الرسوم
+   ========================================================================= */
+
+/* ---------- 0. حالة الجلسة: بلا localStorage وفق القاعدة التقنية ---------- */
+const ST = { pins: [], hist: [], opened: [], mode: 'full', theme: null, seen: 0, visits: {}, lastNode: null,
+  toRead: [], highlights: {}, fontScale: 1, shortMode: {}, quizScores: {} };
+function stLoad() {
+  if (!Array.isArray(ST.pins)) ST.pins = [];
+  if (!Array.isArray(ST.hist)) ST.hist = [];
+  if (!Array.isArray(ST.opened)) ST.opened = [];
+  if (!ST.visits || typeof ST.visits !== 'object') ST.visits = {};
+  if (!Array.isArray(ST.toRead)) ST.toRead = [];
+  if (!ST.highlights || typeof ST.highlights !== 'object') ST.highlights = {};
+  if (typeof ST.fontScale !== 'number' || !ST.fontScale) ST.fontScale = 1;
+  if (!ST.shortMode || typeof ST.shortMode !== 'object') ST.shortMode = {};
+  if (!ST.quizScores || typeof ST.quizScores !== 'object') ST.quizScores = {};
+}
+function stSave() { /* الحالة تُحفظ في الذاكرة فقط؛ المشاركة/الحفظ الخارجي عبر الرابط المولَّد. */ }
+
+/* تاريخ اليوم بصيغة قابلة للمقارنة (محلي، بلا وقت) */
+function todayKey() { const d = new Date(); return d.getFullYear() + '-' + (d.getMonth() + 1) + '-' + d.getDate(); }
+/* سجّل زيارة فعلية لعنصر: يُستدعى فقط من renderNode عند فتح صفحته كاملة */
+function recordVisit(k) {
+  if (!k) return;
+  ST.visits[k] = Date.now();
+  ST.lastNode = k;
+  stSave();
+}
+/* هل تمت قراءة هذا العنصر فعلاً اليوم؟ — فحص حقيقي مقابل طابع زمني مخزَّن لا ادّعاء ثابت */
+function readToday(k) {
+  const t = ST.visits && ST.visits[k];
+  if (!t) return false;
+  const d = new Date(t);
+  return (d.getFullYear() + '-' + (d.getMonth() + 1) + '-' + d.getDate()) === todayKey();
+}
+/* مسح كامل لسجل القراءة والتقدّم */
+function clearReadingHistory() {
+  ST.pins = []; ST.hist = []; ST.opened = []; ST.visits = {}; ST.lastNode = null; ST.seen = 0;
+  stSave();
+  try { renderPinBadge(); renderProg(); } catch (e) { }
+}
+
+/* ---------- 1. تطبيع عربي للبحث ---------- */
+function norm(s) {
+  return String(s == null ? '' : s)
+    .replace(/[ً-ْٰـ]/g, '')
+    .replace(/[أإآٱ]/g, 'ا')
+    .replace(/ى/g, 'ي').replace(/ة/g, 'ه')
+    .replace(/ؤ/g, 'و').replace(/ئ/g, 'ي')
+    .replace(/[«»"'،.,:;()\[\]—–\-]/g, ' ')
+    .replace(/\s+/g, ' ').toLowerCase().trim();
+}
+function esc(s) { return String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+
+/* مرادفات النقل الصوتي — الاسم الأجنبي يُكتب بالعربية بأكثر من صورة */
+const SYN_RAW = {
+  'هايدغر': 'هايدجر', 'هيدغر': 'هايدجر', 'هيدجر': 'هايدجر',
+  'كيركغارد': 'كيركيغارد', 'كيركجارد': 'كيركيغارد', 'كيركيجارد': 'كيركيغارد', 'كيركيكارد': 'كيركيغارد',
+  'ياسبرس': 'ياسبرز', 'ياسبيرز': 'ياسبرز',
+  'بينزفانغر': 'بينسوانغر', 'بنسوانجر': 'بينسوانغر', 'بينسفانغر': 'بينسوانغر',
+  'نيتشة': 'نيتشه', 'نيتشي': 'نيتشه',
+  'لاينج': 'لاينغ', 'رونالد لينغ': 'لاينغ',
+  'فان ديرزن': 'فان دورزن', 'فان دورزين': 'فان دورزن',
+  'لانجله': 'لانغله', 'لانغلي': 'لانغله',
+  'مينكوفسكى': 'مينكوفسكي', 'منكوفسكي': 'مينكوفسكي',
+  'دازين': 'دازاين', 'الدازين': 'دازاين',
+  'لوغوثيرابي': 'المعنى', 'اللوغوثيرابيا': 'المعنى', 'العلاج بالمعنى': 'المعنى',
+  'انجست': 'القلق', 'أنجست': 'القلق',
+  'سارتغ': 'سارتر', 'كامي': 'كامو', 'يالم': 'يالوم', 'رولو ماى': 'رولو ماي'
+};
+const SYN = {}; Object.keys(SYN_RAW).forEach(k => { SYN[norm(k)] = norm(SYN_RAW[k]); });
+function escHTML(s) {
+  return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+function plain(html) { const d = document.createElement('div'); d.innerHTML = html; return (d.textContent || '').replace(/\s+/g, ' ').trim(); }
+
+/* ---------- 2. ترجمة مسمّيات العلاقات (طبقة عرض فقط) ---------- */
+const REL_AR = {
+  belongs_to: 'ينتمي إلى', part_of: 'جزء من', contains: 'يحتوي على', is_a: 'هو',
+  written_by: 'كتبه', developed_by: 'طوّره', revised_by: 'راجعه',
+  influenced_by: 'تأثّر بـ', influenced: 'أثّر في',
+  occurs_within: 'يقع داخل', discussed_in: 'يُناقَش في', explains: 'يفسّر',
+  neighbour_of: 'جار لـ', adjacent_to: 'مجاور لـ',
+  criticized_by: 'يَنتقده', critiques: 'ينتقد',
+  contrasts_with: 'يتعارض مع', diverged_from: 'انشقّ عن', converges_with: 'يلتقي مع',
+  grounded_in: 'مؤسَّس على', applied_in: 'يُطبَّق في',
+  has_cultural_limit_in: 'حدُّه الثقافي في', evidence_for: 'دليل على',
+  evolved_into: 'تحوّل إلى', absorbed_by: 'اندمج في', superseded_by: 'خلفَته', split_into: 'تفرّع منه'
+};
+const relAr = r => REL_AR[r] || r;
+
+/* أنواع روابط الشبكة — تُشتق من حقل r الموجود أصلاً في البيانات */
+const LINKKINDS = [
+  { id: 'infl', t: 'أثّر / علّم', c: '#5B7FA8', dash: [], arrow: true, has: ['أثّر', 'علّم', 'نُقل عنه', 'سبق', 'منهج'] },
+  { id: 'ext', t: 'امتداد', c: '#1D9E75', dash: [], arrow: true, has: ['امتداد', 'امتداد معدَّل'] },
+  { id: 'conf', t: 'خصومة / خلاف', c: '#C0563A', dash: [5, 4], arrow: false, has: ['خصومة', 'خلاف', 'رفض', 'انشقاق'] },
+  { id: 'kin', t: 'قرابة / رفقة', c: '#9A8FCC', dash: [2, 3], arrow: false, has: ['قرابة', 'رفقة', 'توازٍ', 'تقارب', 'صداقة', 'مقارنة', 'عمل معه'] }
+];
+function kindOf(r) {
+  const s = String(r || '');
+  for (const k of LINKKINDS) if (k.has.some(h => s.indexOf(h) >= 0)) return k;
+  return LINKKINDS[0];
+}
+
+/* ---------- 3. المعجم: يُقرأ من الطبقة 11 كما هي ---------- */
+/* بعض مصطلحات جدول المعجم لها عنصر مفهوم مستقل فعلاً في الأطلس (نفس المرجع، مش مجرد
+   تعريف لغوي) — نربطها بالضغط بدل ما تفضل نصاً ميتاً. الباقي (زي «الدازاين» أو «المشروع»)
+   ملوش عنصر con- مستقل بعد، فبيفضل نص تعريفي عادي زي ما هو. */
+const GLOSS_NODE_LINKS = {
+  'الأصالة': 'con-authenticity',
+  'القذف / الإلقاء': 'con-thrownness',
+  'سوء النية': 'con-bad-faith',
+  'القلق الوجودي': 'con-anxiety',
+  'اللقاء': 'con-relation',
+};
+function wireGlossaryTableLinks(layerEl) {
+  layerEl.querySelectorAll('.lbody table tr').forEach(tr => {
+    const td = tr.querySelector('td'); if (!td) return;
+    const label = td.textContent.trim();
+    const slug = GLOSS_NODE_LINKS[label];
+    if (slug && DATA.nodes[slug]) {
+      td.innerHTML = '<span class="chip link" data-go="' + slug + '">' + escHTML(label) + ' ←</span>';
+    }
+  });
+}
+const GLOSS = {};
+(function buildGloss() {
+  const l = layerOf('lex'); if (!l) return;
+  const d = document.createElement('div'); d.innerHTML = l.html;
+  d.querySelectorAll('tr').forEach(tr => {
+    const td = tr.querySelectorAll('td'); if (td.length < 4) return;
+    const label = td[0].textContent.trim();
+    const g = { label: label, en: td[1].textContent.trim(), mean: td[2].textContent.trim(), err: td[3].textContent.trim() };
+    label.split('/').map(x => x.replace(/[«»]/g, '').trim()).filter(x => x.length > 2)
+      .forEach(t => { if (!GLOSS[t]) GLOSS[t] = g; });
+  });
+})();
+
+/* ---------- 4. سجل المدارس + قالب المدرسة (الموجة 3) ---------- */
+const SCHOOLS = [
+  { id: 'existential', t: 'الوجودية', st: 'ready', note: 'هذه الوحدة' },
+  { id: 'psychoanalysis', t: 'التحليل النفسي', st: 'planned', note: 'الجار الأقدم — عنصر العلاقة مكتوب' },
+  { id: 'humanistic', t: 'الإنسانية', st: 'planned', note: 'القرابة الملتبسة — عنصر العلاقة مكتوب' },
+  { id: 'cbt', t: 'المعرفية السلوكية', st: 'planned', note: 'لم يُفتح بعد' },
+  { id: 'act', t: 'القبول والالتزام', st: 'planned', note: 'الجار المحرِج — عنصر العلاقة مكتوب' },
+  { id: 'systemic', t: 'النَّسَقية والأسرية', st: 'planned', note: 'لم يُفتح بعد' }
+];
+/* القالب الموحّد: خانات كل مدرسة. core = لا تُفتح مدرسة بدونها */
+const TEMPLATE = [
+  ['what', 'ما هي أصلاً', 'core'], ['phil', 'الأساس الفلسفي أو النظري', 'core'],
+  ['roots', 'الجذور', 'core'], ['assump', 'الافتراضات الأساسية', 'core'],
+  ['branches', 'التيارات داخلها', 'core'], ['people', 'خريطة الناس', 'core'],
+  ['graph', 'شبكة العلاقات', 'opt'], ['gantt', 'مخطّط الأعمار', 'opt'],
+  ['concepts', 'المفاهيم عبر المفكرين', 'core'], ['compare', 'قارن اثنين', 'opt'],
+  ['lex', 'المعجم', 'core'], ['session', 'كيف تبدو الجلسة', 'core'],
+  ['fights', 'الخصومات الداخلية', 'core'], ['neighbours', 'الجيران', 'core'],
+  ['evidence', 'الأدلة والنقد', 'core']
+];
+
+/* ---------- 5. فهرس البحث ---------- */
+const IDX = [];
+function buildIndex() {
+  IDX.length = 0;
+  DATA.layers.forEach(l => IDX.push({
+    kind: 'layer', k: l.k, t: l.n + '. ' + l.t, sub: l.s, grp: 'طبقات الوحدة',
+    hay: norm(l.t + ' ' + l.s + ' ' + plain(l.html).slice(0, 900))
+  }));
+  Object.entries(DATA.nodes).forEach(([k, n]) => IDX.push({
+    kind: 'node', k: k, t: n.title, sub: n.en || '', grp: n.type,
+    hay: norm(n.title + ' ' + (n.en || '') + ' ' + (n.lede || '') + ' ' + (n.dates || ''))
+  }));
+  Object.keys(GLOSS).forEach(t => {
+    const g = GLOSS[t];
+    IDX.push({ kind: 'gloss', k: t, t: t, sub: g.en, grp: 'مصطلحات المعجم', hay: norm(t + ' ' + g.en + ' ' + g.mean) });
+  });
+}
+function searchIdx(qs) {
+  let q = norm(qs); if (!q) return [];
+  if (SYN[q]) q = SYN[q];
+  const toks = q.split(' ').filter(Boolean).map(t => SYN[t] || t);
+  const out = [];
+  for (const it of IDX) {
+    let sc = 0, ok = true;
+    for (const tk of toks) {
+      const p = it.hay.indexOf(tk);
+      if (p < 0) { ok = false; break; }
+      sc += p === 0 ? 55 : (p < 60 ? 26 : 9);
+    }
+    if (!ok) continue;
+    const nt = norm(it.t);
+    if (nt.indexOf(q) === 0) sc += 140; else if (nt.indexOf(q) >= 0) sc += 70;
+    if (it.kind === 'node') sc += 10; else if (it.kind === 'layer') sc += 6;
+    out.push({ it: it, sc: sc });
+  }
+  out.sort((a, b) => b.sc - a.sc);
+  return out.slice(0, 26).map(x => x.it);
+}
+function hl(text, qs) {
+  const q = norm(qs).split(' ').filter(Boolean);
+  let h = escHTML(text);
+  if (!q.length) return h;
+  try {
+    const rx = new RegExp('(' + q.map(esc).join('|') + ')', 'gi');
+    const nh = escHTML(text).replace(rx, '<mark>$1</mark>');
+    if (nh !== h) return nh;
+  } catch (e) { }
+  return h;
+}
+
+/* ---------- 6. لوحة البحث ---------- */
+let QCUR = -1, QLIST = [];
+function qRender(items, qs) {
+  const box = document.getElementById('qres');
+  if (!items.length) {
+    box.innerHTML = '<div class="qempty">لا نتيجة لـ«' + escHTML(qs) + '». جرّب اسماً، أو مفهوماً، أو مصطلحاً من المعجم.</div>';
+    box.classList.add('on'); QLIST = []; QCUR = -1; return;
+  }
+  let h = '', last = '';
+  items.forEach((it, i) => {
+    if (it.grp !== last) { h += '<div class="qgrouphead">' + escHTML(it.grp) + '</div>'; last = it.grp; }
+    h += '<div class="qitem" role="option" data-i="' + i + '">' +
+      '<span class="qt">' + hl(it.t, qs) + '</span>' +
+      '<span class="qs">' + hl(it.sub || '', qs) + '</span>' +
+      '<span class="qk">' + (it.kind === 'layer' ? 'طبقة' : it.kind === 'gloss' ? 'مصطلح' : 'عنصر') + '</span></div>';
+  });
+  h += '<div class="qhint">↑ ↓ للتنقل · Enter للفتح · Esc للإغلاق</div>';
+  box.innerHTML = h; box.classList.add('on'); QLIST = items; QCUR = -1;
+}
+function qClose() {
+  const box = document.getElementById('qres');
+  box.classList.remove('on'); box.innerHTML = '';
+  document.getElementById('q').setAttribute('aria-expanded', 'false');
+  QLIST = []; QCUR = -1;
+}
+function qMove(d) {
+  if (!QLIST.length) return;
+  QCUR = (QCUR + d + QLIST.length) % QLIST.length;
+  const box = document.getElementById('qres');
+  box.querySelectorAll('.qitem').forEach(e => e.classList.toggle('cur', +e.dataset.i === QCUR));
+  const cur = box.querySelector('.qitem.cur'); if (cur) cur.scrollIntoView({ block: 'nearest' });
+}
+function qOpen(it) {
+  qClose(); const inp = document.getElementById('q'); inp.value = ''; inp.blur();
+  if (it.kind === 'node') { go(it.k); }
+  else if (it.kind === 'layer') {
+    if (location.hash.slice(1) !== HOME) { location.hash = '#' + HOME; setTimeout(() => openLayer(it.k), 80); }
+    else openLayer(it.k);
+  } else { showGlossPop(it.k, null); }
+}
+function initSearch() {
+  const inp = document.getElementById('q');
+  inp.addEventListener('input', () => {
+    const v = inp.value.trim();
+    if (v.length < 1) { qClose(); return; }
+    inp.setAttribute('aria-expanded', 'true');
+    qRender(searchIdx(v), v);
+  });
+  inp.addEventListener('keydown', ev => {
+    if (ev.key === 'ArrowDown') { ev.preventDefault(); qMove(1); }
+    else if (ev.key === 'ArrowUp') { ev.preventDefault(); qMove(-1); }
+    else if (ev.key === 'Enter') { ev.preventDefault(); if (QLIST.length) qOpen(QLIST[QCUR < 0 ? 0 : QCUR]); }
+    else if (ev.key === 'Escape') { qClose(); inp.blur(); }
+  });
+  document.getElementById('qres').addEventListener('mousedown', ev => {
+    const t = ev.target.closest('.qitem'); if (!t) return;
+    ev.preventDefault(); qOpen(QLIST[+t.dataset.i]);
+  });
+  document.addEventListener('click', ev => {
+    if (!ev.target.closest('.searchbox')) qClose();
+  });
+  document.addEventListener('keydown', ev => {
+    if ((ev.ctrlKey || ev.metaKey) && (ev.key === 'k' || ev.key === 'K')) {
+      ev.preventDefault(); inp.focus(); inp.select();
+    }
+  });
+}
+
+/* ---------- 7. المعجم الطائر ---------- */
+function decorateGloss(root) {
+  const terms = Object.keys(GLOSS).filter(t => t.length >= 4).sort((a, b) => b.length - a.length);
+  if (!terms.length) return;
+  let rx; try { rx = new RegExp('(' + terms.map(esc).join('|') + ')', 'g'); } catch (e) { return; }
+  const seen = new Set(); let budget = 45;
+  root.querySelectorAll('p, li, .txt2').forEach(p => {
+    if (budget <= 0) return;
+    if (p.closest('.gloss, .qres, .pv, .glosspop')) return;
+    const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT, null);
+    const jobs = []; let n;
+    while ((n = walker.nextNode())) {
+      if (!n.nodeValue || n.nodeValue.length < 4) continue;
+      if (n.parentElement && n.parentElement.closest('.gloss, .chip, a, h1, h5, h6, th, .lat, .en')) continue;
+      jobs.push(n);
+    }
+    jobs.forEach(t => {
+      if (budget <= 0) return;
+      const s = t.nodeValue; let m, last = 0, hit = false;
+      const frag = document.createDocumentFragment(); rx.lastIndex = 0;
+      while ((m = rx.exec(s))) {
+        if (seen.has(m[1]) || budget <= 0) continue;
+        seen.add(m[1]); budget--; hit = true;
+        frag.appendChild(document.createTextNode(s.slice(last, m.index)));
+        const sp = document.createElement('span');
+        sp.className = 'gloss'; sp.dataset.g = m[1];
+        sp.tabIndex = 0; sp.setAttribute('role', 'button');
+        sp.setAttribute('aria-label', 'تعريف: ' + m[1]);
+        sp.textContent = m[1];
+        frag.appendChild(sp); last = m.index + m[1].length;
+      }
+      if (hit) { frag.appendChild(document.createTextNode(s.slice(last))); t.parentNode.replaceChild(frag, t); }
+    });
+  });
+}
+function showGlossPop(term, el) {
+  const g = GLOSS[term]; if (!g) return;
+  const pop = document.getElementById('glosspop');
+  pop.innerHTML = '<h6>' + escHTML(g.label) + '</h6><div class="gen">' + escHTML(g.en) + '</div>' +
+    '<div>' + escHTML(g.mean) + '</div>' +
+    (g.err ? '<div class="gerr"><b>الخطأ الشائع:</b> ' + escHTML(g.err) + '</div>' : '') +
+    '<div class="gmore"><span class="chip link" data-layer="lex">المعجم كاملاً ←</span></div>';
+  pop.classList.add('on');
+  const r = el ? el.getBoundingClientRect() : { left: window.innerWidth / 2 - 170, bottom: 140, top: 140 };
+  const pw = pop.offsetWidth, ph = pop.offsetHeight;
+  let left = r.left + window.scrollX - 10;
+  left = Math.max(10, Math.min(left, window.innerWidth - pw - 14));
+  let top = r.bottom + window.scrollY + 7;
+  if (r.bottom + ph + 20 > window.innerHeight) top = r.top + window.scrollY - ph - 7;
+  pop.style.left = left + 'px'; pop.style.top = Math.max(8, top) + 'px';
+}
+function hideGlossPop() { const p = document.getElementById('glosspop'); if (p) p.classList.remove('on'); }
+
+/* ---------- 8. اللوح الجانبي ---------- */
+function drawerOpen(html, foot, title, en, openKey) {
+  const titleEl = document.getElementById('pvTitle');
+  titleEl.innerHTML = escHTML(title) + (en ? '<span class="pven">' + escHTML(en) + '</span>' : '');
+  if (openKey) { titleEl.classList.add('pvhtitle'); titleEl.setAttribute('data-open', openKey); titleEl.title = 'افتح الصفحة كاملة'; }
+  else { titleEl.classList.remove('pvhtitle'); titleEl.removeAttribute('data-open'); titleEl.removeAttribute('title'); }
+  document.getElementById('pvBody').innerHTML = html;
+  document.getElementById('pvFoot').innerHTML = foot || '';
+  document.getElementById('pv').classList.add('on');
+  document.getElementById('pvbd').classList.add('on');
+  const c = document.getElementById('pvClose'); if (c) c.focus();
+  a11yPass(document.getElementById('pv'));
+}
+function drawerClose() {
+  document.getElementById('pv').classList.remove('on');
+  document.getElementById('pvbd').classList.remove('on');
+}
+
+/* معاينة عنصر — تحافظ على مكان القارئ بدل استبدال الصفحة */
+function preview(key) {
+  const n = DATA.nodes[key]; if (!n) { go(key); return; }
+  const rels = (n.edges || []).slice(0, 5).map(e =>
+    '<div class="pvr"><b>' + escHTML(relAr(e[0])) + '</b> ' + edgeTargetHTML(e[1], key) +
+    ' <span style="color:var(--muted);font-size:11.5px">· ' + escHTML(e[2]) + '</span></div>').join('');
+  const rel = (n.related || []).slice(0, 6).map(r =>
+    '<span class="chip link" data-go="' + escHTML(r[0]) + '">' + escHTML(r[1]) + '</span>').join('');
+  const pinned = ST.pins.indexOf(key) >= 0;
+  const body =
+    '<div class="meta" style="margin-bottom:10px"><span class="tag">' + escHTML(n.type) + '</span>' +
+    (n.dates ? '<span class="tag">' + escHTML(n.dates) + '</span>' : '') + '</div>' +
+    '<p class="pvlede">' + autoLink(n.lede, key) + '</p>' +
+    (rels ? '<h6>علاقاته</h6><div class="pvrel">' + rels + '</div>' : '') +
+    (rel ? '<h6>انتقل إلى</h6><div class="chips">' + rel + '</div>' : '');
+  const foot =
+    '<button class="tbtn pri" data-open="' + escHTML(key) + '">افتح الصفحة كاملة</button>' +
+    '<button class="pinbtn' + (pinned ? ' on' : '') + '" data-pin="' + escHTML(key) + '">' +
+    (pinned ? '✓ محفوظ' : '☆ احفظ') + '</button>';
+  drawerOpen(body, foot, n.title, n.en, key);
+}
+
+/* رحلتي */
+function mineDrawer() {
+  const row = (k, kind) => {
+    const n = DATA.nodes[k];
+    const t = n ? n.title : (layerOf(k) ? layerOf(k).t : k);
+    const ty = n ? n.type : 'طبقة';
+    return '<div class="minerow"><span class="mt" data-mine="' + escHTML(k) + '">' + escHTML(t) + '</span>' +
+      '<span class="mk">' + escHTML(ty) + '</span>' +
+      (kind === 'pin' ? '<button class="mx" data-unpin="' + escHTML(k) + '" aria-label="احذف">✕</button>' : '') + '</div>';
+  };
+  const pct = Math.round(ST.opened.length / DATA.layers.length * 100);
+  const body =
+    '<div class="mineblock"><h6>تقدّمك في الطبقات</h6>' +
+    '<div class="minebar"><i style="width:' + pct + '%"></i></div>' +
+    '<div style="font-size:12.5px;color:var(--muted)">فتحت ' + ST.opened.length + ' من ' + DATA.layers.length + ' طبقة</div></div>' +
+    '<div class="mineblock"><h6>المحفوظات (' + ST.pins.length + ')</h6>' +
+    (ST.pins.length ? '<div class="minelist">' + ST.pins.map(k => row(k, 'pin')).join('') + '</div>'
+      : '<div class="mineempty">لم تحفظ شيئاً بعد. زرّ «☆ احفظ» موجود أعلى كل عنصر وفي كل معاينة.</div>') + '</div>' +
+    '<div class="mineblock"><h6>آخر ما زرت</h6>' +
+    (ST.hist.length ? '<div class="minelist">' + ST.hist.slice(0, 8).map(k => row(k, 'h')).join('') + '</div>'
+      : '<div class="mineempty">لا تاريخ بعد.</div>') + '</div>';
+  const foot = ST.pins.length || ST.hist.length
+    ? '<button class="tbtn" id="mineClear">امسح رحلتي</button>' : '';
+  drawerOpen(body, foot, 'رحلتي', 'ما حفظته وما زرته — محفوظ على جهازك وحده');
+}
+
+/* المدارس */
+function schoolsDrawer() {
+  const body = '<p class="pvlede">الأطلس مبنيّ ليضمّ عدة مدارس. هذه الوحدة هي الأولى، والخانات الأخرى مفتوحة في البنية ولم يُكتب محتواها بعد.</p>' +
+    '<div class="schoolgrid">' + SCHOOLS.map(s =>
+      '<div class="schoolcard ' + s.st + '"><b>' + escHTML(s.t) + '</b>' +
+      '<span class="st">' + (s.st === 'ready' ? 'جاهزة · ' : 'لم تُضف بعد · ') + escHTML(s.note) + '</span></div>').join('') + '</div>' +
+    '<h6>ما الذي يربطها الآن</h6>' +
+    '<div class="chips">' + Object.entries(DATA.nodes).filter(([k, n]) => n.type === 'علاقة بين مدرستين')
+      .map(([k, n]) => '<span class="chip link" data-go="' + escHTML(k) + '">' + escHTML(n.title) + '</span>').join('') + '</div>';
+  drawerOpen(body, '', 'المدارس', 'حالة الأطلس متعدد المدارس');
+}
+
+/* تصفح حسب النوع */
+function typesDrawer() {
+  const counts = {};
+  Object.values(DATA.nodes).forEach(n => { counts[n.type] = (counts[n.type] || 0) + 1; });
+  const types = Object.keys(TYPE_CLASS);
+  const body = '<p class="pvlede">تصفّح كل أنواع العناصر العشرين في الأطلس، مع عدد العناصر الفعلي لكل نوع.</p>' +
+    '<div class="typesgrid">' + types.map(t => {
+      const cls = typeClass(t);
+      const n = counts[t] || 0;
+      const title = TYPE_INDEX_TITLE[t] || t;
+      return '<div class="typecard t-' + cls + '" data-typego="' + escHTML(t) + '" role="button" tabindex="0">' +
+        '<span class="tbadge t-' + cls + '">' + escHTML(t) + '</span>' +
+        '<span class="typecount">' + n + ' عنصراً</span>' +
+        '<span class="typetitle">' + escHTML(title) + '</span></div>';
+    }).join('') + '</div>';
+  drawerOpen(body, '', 'الأنواع', 'تصفّح كل أنواع العناصر العشرين في الأطلس');
+}
+
+/* بعض القيم مركّبة (مثلاً "ألمانيا / أمريكا" لمفكر انتقل بين بلدين مؤثّرين في مساره)،
+   فبنقسّمها لعناصر مفردة عشان التصفح يجمّع كل من له صلة بهذا البلد، بدل ما يعامل
+   "ألمانيا / أمريكا" كقيمة ثالثة منفصلة تماماً عن "ألمانيا" و"أمريكا". */
+function facetParts(v, field) {
+  const parts = String(v).split('/').map(s => s.trim()).filter(Boolean);
+  /* بلدان بصيغتين مختلفتين لنفس البلد (زي "أمريكا"/"الولايات المتحدة") بتتوحّد هنا كمان،
+     بنفس جدول COUNTRY_ALIASES المستخدم في الخط الزمني الشامل — عشان أي تصفح بالبلد
+     (هنا أو هناك) يعامل الاسمين كبلد واحد */
+  return field === 'country' ? parts.map(p => COUNTRY_ALIASES[p] || p) : parts;
+}
+
+/* ===== فهرس عام حسب سمة (بلد/لغة) — نفس فكرة typesDrawer، معمّم على أي حقل نصي بسيط ===== */
+function facetDrawer(field, drawerTitle, drawerSub) {
+  const counts = {};
+  Object.values(DATA.nodes).forEach(n => {
+    const v = n[field]; if (!v) return;
+    facetParts(v, field).forEach(p => { counts[p] = (counts[p] || 0) + 1; });
+  });
+  const values = Object.keys(counts).sort((a, b) => a.localeCompare(b, 'ar'));
+  const body = '<p class="pvlede">' + escHTML(drawerSub) + '</p>' +
+    '<div class="typesgrid">' + values.map(v => {
+      return '<div class="typecard" data-facet-field="' + escHTML(field) + '" data-facet-value="' + escHTML(v) + '" role="button" tabindex="0">' +
+        '<span class="typecount">' + counts[v] + ' عنصراً</span>' +
+        '<span class="typetitle">' + escHTML(v) + '</span></div>';
+    }).join('') + '</div>' +
+    (values.length ? '' : '<p class="lede">لا توجد عناصر موسومة بهذا الحقل بعد.</p>');
+  drawerOpen(body, '', drawerTitle, drawerSub);
+}
+function countriesDrawer() {
+  facetDrawer('country', 'البلدان', 'تصفّح المفكرين والتيارات حسب البلد المرتبط بهم.');
+}
+function languagesDrawer() {
+  facetDrawer('language', 'اللغات', 'تصفّح المفكرين والأعمال حسب اللغة الأصلية للإنتاج الفكري.');
+}
+
+/* قالب المدرسة */
+function tplDrawer() {
+  const have = {}; DATA.layers.forEach(l => have[l.k] = true);
+  const body = '<p class="pvlede">هذا هو الهيكل الذي ستتبعه كل مدرسة تُضاف. الخانات الأساسية لا تُفتح مدرسة بدونها؛ والاختيارية تُضاف حين تتوفّر مادّتها.</p>' +
+    '<div>' + TEMPLATE.map((t, i) =>
+      '<div class="tplrow"><span class="tn">' + (i + 1) + '</span><span class="tt">' + escHTML(t[1]) + '</span>' +
+      '<span class="ts ' + t[2] + '">' + (t[2] === 'core' ? 'أساسية' : 'اختيارية') + '</span>' +
+      '<span class="tf' + (have[t[0]] ? '' : ' no') + '">' + (have[t[0]] ? '✓ مكتوبة' : '— فارغة') + '</span></div>').join('') + '</div>';
+  drawerOpen(body, '', 'قالب المدرسة', 'الخانات الموحّدة عبر كل مدارس الأطلس');
+}
+
+/* ---------- 9. الإتاحة ---------- */
+function a11yPass(root) {
+  root.querySelectorAll('[data-go], .entry, .jump, .lhead, .cmpq, .concard, .relcard, .gtog, .rl')
+    .forEach(el => {
+      if (!el.hasAttribute('tabindex')) el.tabIndex = 0;
+      if (!el.hasAttribute('role')) el.setAttribute('role', 'button');
+    });
+}
+document.addEventListener('keydown', ev => {
+  if (ev.key !== 'Enter' && ev.key !== ' ') return;
+  const t = ev.target;
+  if (!t || t.tagName === 'INPUT' || t.tagName === 'SELECT' || t.tagName === 'TEXTAREA' || t.tagName === 'BUTTON') return;
+  if (t.matches('[data-go], .entry, .jump, .lhead, .cmpq, .concard, .relcard, .gtog, .rl, .gloss')) {
+    ev.preventDefault(); t.click();
+  }
+  if (ev.key === 'Escape') { drawerClose(); hideGlossPop(); }
+});
+document.addEventListener('keydown', ev => { if (ev.key === 'Escape') { drawerClose(); hideGlossPop(); qClose(); } });
+
+/* ---------- 10. شريط التقدّم ---------- */
+function renderProg() {
+  const s = document.getElementById('progstrip'); if (!s) return;
+  const curKey = (location.hash || '#' + ATLAS_HOME).slice(1);
+  const home = curKey === HOME || (curKey !== ATLAS_HOME && !DATA.nodes[curKey]);
+  s.style.display = home ? '' : 'none';
+  if (!home) return;
+  s.innerHTML = '<div class="wrap"><span class="plabel">قرأت ' + ST.opened.length + ' من ' + DATA.layers.length + ' طبقة</span>' +
+    '<span class="pbar">' + DATA.layers.map(l =>
+      '<button class="pseg' + (ST.opened.indexOf(l.k) >= 0 ? ' done' : '') + '" data-layer="' + l.k +
+      '" title="' + escHTML(l.n + '. ' + l.t) + '" aria-label="' + escHTML(l.n + '. ' + l.t) + '"></button>').join('') + '</span></div>';
+}
+function markOpened(k) {
+  if (!k || ST.opened.indexOf(k) >= 0) return;
+  ST.opened.push(k); stSave(); renderProg();
+}
+
+/* ---------- 11. شريط الرحلة ---------- */
+function pushHist(k) {
+  ST.hist = ST.hist.filter(x => x !== k); ST.hist.unshift(k);
+  if (ST.hist.length > 20) ST.hist.length = 20;
+  stSave(); renderPinBadge();
+}
+function renderPinBadge() {
+  const b = document.getElementById('pinBadge'); if (!b) return;
+  if (ST.pins.length) { b.hidden = false; b.textContent = ST.pins.length; } else b.hidden = true;
+}
+function journeyHTML(key) {
+  const n = DATA.nodes[key];
+  const prev = ST.hist.filter(x => x !== key).slice(0, 3);
+  return '<div class="journey">' +
+    '<button class="jback" id="jback">→ رجوع</button>' +
+    '<span class="jstep" data-go="' + ATLAS_HOME + '">الأطلس</span><span class="jsep">←</span>' +
+    '<span class="jnow">' + (n ? n.crumb : '') + '</span>' +
+    (prev.length ? '<span class="jtrail"><b>قبلها:</b>' + prev.map(k => {
+      const p = DATA.nodes[k]; if (!p) return '';
+      return '<span class="chip link" data-go="' + escHTML(k) + '">' + escHTML(p.title) + '</span>';
+    }).join('') + '</span>' : '') + '</div>';
+}
+
+/* ---------- 12. الخطوة التالية ---------- */
+function nextStep(key) {
+  const n = DATA.nodes[key]; if (!n || !n.related || !n.related.length) return '';
+  const relMap = {};
+  (n.edges || []).forEach(e => { relMap[e[1]] = e[0]; });
+  const unseen = n.related.filter(r => ST.hist.indexOf(r[0]) < 0 && DATA.nodes[r[0]]);
+  const pick = (unseen.length ? unseen : n.related.filter(r => DATA.nodes[r[0]]))[0];
+  if (!pick) return '';
+  const why = relMap[DATA.nodes[pick[0]].title] || relMap[pick[1]];
+  const rest = n.related.filter(r => r[0] !== pick[0] && DATA.nodes[r[0]]).slice(0, 4);
+  return '<div class="nextcard"><h5>الخطوة التالية</h5>' +
+    '<div class="why2">' +
+    (why ? 'لأن هذا العنصر تربطه بـ«' + escHTML(n.title) + '» علاقة <b>' + escHTML(relAr(why)) + '</b>'
+      : 'أقرب عنصر لم تفتحه بعد من العناصر المرتبطة بـ«' + escHTML(n.title) + '»') +
+    (unseen.length ? '، ولم تزره بعد.' : '.') + '</div>' +
+    '<div class="chips"><span class="chip link" data-go="' + escHTML(pick[0]) + '" style="border-color:var(--accent);color:var(--accent);font-weight:600">' +
+    escHTML(pick[1]) + ' ←</span>' +
+    rest.map(r => '<span class="chip link" data-go="' + escHTML(r[0]) + '">' + escHTML(r[1]) + '</span>').join('') +
+    '</div></div>';
+}
+
+/* ---------- 13. عدسات المدارس داخل المفهوم (الموجة 3) ---------- */
+function lensesHTML(key) {
+  const n = DATA.nodes[key]; if (!n || n.type !== 'مفهوم') return '';
+  const rels = Object.entries(DATA.nodes).filter(([k, x]) => x.type === 'علاقة بين مدرستين');
+  return '<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:4px">هذا المفهوم عبر المدارس</div>' +
+    '<div style="font-size:12.5px;color:var(--muted);margin-bottom:6px">' +
+    'المفهوم الواحد ليس ملكاً لمدرسة. هذه هي الخانات المفتوحة له في الأطلس — الممتلئ منها والفارغ.</div>' +
+    '<div class="lenses">' + SCHOOLS.map(s => {
+      if (s.id === 'existential') {
+        return '<div class="lens ready"><h6>' + escHTML(s.t) + '</h6><p>' + plain(n.lede).slice(0, 190) +
+          '…</p><span class="lstate2">' + (n.table ? n.table.rows.length + ' صياغة مسجّلة' : 'مكتوب') + '</span></div>';
+      }
+      return '<div class="lens empty"><h6>' + escHTML(s.t) + '</h6><p>الخانة مفتوحة في البنية ولم يُكتب محتواها بعد. ' +
+        'ولا يُملأ الفراغ هنا بكلام مولَّد.</p><span class="lstate2">لم تُضف بعد</span></div>';
+    }).join('') + '</div>' +
+    (rels.length ? '<div style="font-weight:700;font-size:14px;margin:16px 0 8px">ما كُتب فعلاً عن علاقة الوجودية بجيرانها</div>' +
+      '<div class="chips">' + rels.map(([k, x]) =>
+        '<span class="chip link" data-go="' + escHTML(k) + '">' + escHTML(x.title) + '</span>').join('') + '</div>' : '') +
+    '</div>';
+}
+
+/* ---------- 14. قسم العلاقات بين المدارس على الرئيسية ---------- */
+function crossSchoolHTML() {
+  const rels = Object.entries(DATA.nodes).filter(([k, n]) => n.type === 'علاقة بين مدرستين');
+  if (!rels.length) return '';
+  return '<div class="node" id="v2-cross"><div style="font-weight:700;font-size:16px;margin-bottom:4px">حدود المدرسة — علاقتها بجيرانها</div>' +
+    '<div style="font-size:12.5px;color:var(--muted)">أربعة عناصر مكتوبة تصف أين تلتقي هذه المدرسة بغيرها وأين تفترق. ' +
+    'وهي الخانة التي سيتوسّع منها الأطلس إلى بقية المدارس.</div>' +
+    '<div class="relgrid">' + rels.map(([k, n]) =>
+      '<div class="relcard" data-go="' + escHTML(k) + '"><h5>' + escHTML(n.title) + '</h5><p>' + plain(n.lede) + '</p></div>').join('') +
+    '</div></div>';
+}
+
+/* ---------- 15. الاختيار المشترك بين الرسوم ---------- */
+let SEL = null;
+function setSel(label) {
+  SEL = label || null;
+  document.querySelectorAll('.grow').forEach(r => {
+    const lab = r.querySelector('.glab');
+    r.classList.toggle('selhit', !!SEL && !!lab && lab.textContent.trim() === SEL);
+  });
+  document.querySelectorAll('.tlitem').forEach(t => {
+    const who = t.querySelector('.who');
+    t.classList.toggle('selhit', !!SEL && !!who && who.textContent.indexOf(SEL) >= 0);
+  });
+}
+function wireCharts() {
+  document.querySelectorAll('.grow').forEach(r => {
+    const lab = r.querySelector('.glab'); if (!lab) return;
+    const name = lab.textContent.trim();
+    r.onmouseenter = () => { setSel(name); if (G) { const i = G.nodes.findIndex(n => n.l === name); if (i >= 0) { G.hover = i; G.draw(); } } };
+    r.onmouseleave = () => { setSel(null); if (G) { G.hover = -1; G.draw(); } };
+  });
+}
+
+/* ---------- 16. ما بعد كل رسم ---------- */
+function translateEdges(root) {
+  root.querySelectorAll('.edge .rel').forEach(el => {
+    if (el.dataset.done) return;
+    const raw = el.textContent.trim();
+    el.dataset.done = '1'; el.dataset.raw = raw;
+    el.textContent = relAr(raw);
+    el.title = raw;
+  });
+}
+function tagSources(root) {
+  root.querySelectorAll('.node').forEach(n => {
+    if (n.textContent.indexOf('سجل المصادر') === 0 || (n.firstElementChild && n.firstElementChild.textContent.trim() === 'سجل المصادر'))
+      n.classList.add('v2-src');
+  });
+}
+function v2After(kind, key) {
+  const root = document.getElementById('app');
+  translateEdges(root);
+  tagSources(root);
+  decorateGloss(root);
+  a11yPass(root);
+  renderProg();
+  renderPinBadge();
+  if (kind === 'school') { wireCharts(); }
+}
+
+/* ---------- 17. تغليف دوال V1 بدل إعادة كتابتها ---------- */
+const _renderSchool = renderSchool;
+renderSchool = function () {
+  _renderSchool.apply(this, arguments);
+  const cross = crossSchoolHTML();
+  if (cross) {
+    const un = document.querySelector('.unknown');
+    if (un) un.insertAdjacentHTML('beforebegin', cross);
+  }
+  const app0 = document.getElementById('app');
+  if (app0 && !app0.querySelector('.v2-simplehint'))
+    app0.insertAdjacentHTML('afterbegin',
+      '<div class="v2-simplehint">وضع القراءة <b>مبسّط</b>: أُخفيت سجلات المصادر والتحذيرات التحريرية والفجوات. ' +
+      'بدّله من زرّ ⋯ لترى الوحدة كاملة.</div>');
+  v2After('school');
+};
+
+const _renderNode = renderNode;
+renderNode = function (key) {
+  _renderNode.apply(this, arguments);
+  const root = document.getElementById('app');
+  const cr = root.querySelector('.crumbs');
+  if (cr) cr.outerHTML = journeyHTML(key);
+  const first = root.querySelector('.node');
+  if (first) {
+    const pinned = ST.pins.indexOf(key) >= 0;
+    first.insertAdjacentHTML('beforeend',
+      '<div class="nodeacts"><button class="pinbtn' + (pinned ? ' on' : '') + '" data-pin="' + escHTML(key) + '">' +
+      (pinned ? '✓ محفوظ في رحلتي' : '☆ احفظ في رحلتي') + '</button>' +
+      '<button class="pinbtn" data-share="' + escHTML(key) + '">⧉ انسخ الرابط</button></div>');
+  }
+  const lens = lensesHTML(key);
+  if (lens) {
+    const gapsBox = [...root.querySelectorAll('.node')].find(n => n.textContent.indexOf('ما ينقص هذا العنصر') === 0);
+    if (gapsBox) gapsBox.insertAdjacentHTML('beforebegin', lens);
+    else root.querySelector('footer').insertAdjacentHTML('beforebegin', lens);
+  }
+  const ns = nextStep(key);
+  if (ns) { const f = root.querySelector('footer'); if (f) f.insertAdjacentHTML('beforebegin', ns); }
+  const jb = document.getElementById('jback');
+  if (jb) jb.onclick = () => { if (history.length > 1) history.back(); else go(HOME); };
+  pushHist(key);
+  recordVisit(key); /* تسجيل زيارة فعلية بطابع زمني — أساس شارة "قرأت اليوم" الحقيقية */
+  const heroMeta = root.querySelector('.herometa');
+  if (heroMeta && readToday(key)) {
+    heroMeta.insertAdjacentHTML('beforeend', '<span class="hm" style="color:var(--accent)">✓ قرأت هذا اليوم</span>');
+  }
+  v2After('node', key);
+};
+
+const _openLayer = openLayer;
+openLayer = function (k) { markOpened(k); _openLayer.apply(this, arguments); };
+
+const _drawGraph = drawGraph;
+drawGraph = function () {
+  _drawGraph.apply(this, arguments);
+  if (!G) return;
+  /* إعادة الرسم بأنواع روابط مرئية + رؤوس أسهم */
+  if (G.v2) { G.draw(); return; }
+  G.v2 = true; G.mutedKinds = [];
+  const base = G.draw;
+  G.draw = function () {
+    const cv = G.cv, ctx = cv.getContext('2d');
+    const dpr = window.devicePixelRatio || 1;
+    const W = cv.width / dpr, H = cv.height / dpr;
+    const dark = document.documentElement.getAttribute('data-theme') === 'dark';
+    const col = g => (DATA.groups.find(x => x.g === g) || {}).c || '#888';
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.clearRect(0, 0, W, H);
+    ctx.fillStyle = dark ? '#0F141A' : '#F2F1EC'; ctx.fillRect(0, 0, W, H);
+    ctx.save(); ctx.translate(G.ox, G.oy); ctx.scale(G.scale, G.scale);
+    const hov = G.hover, near = hov >= 0 ? (G.adj[hov] || new Set()) : null;
+    const dim = n => G.mutedGroups.indexOf(n.g) >= 0;
+    G.links.forEach(l => {
+      const kd = kindOf(l.r);
+      if (G.mutedKinds.indexOf(kd.id) >= 0) return;
+      const a = G.nodes[l.s], b = G.nodes[l.t];
+      const on = hov < 0 || l.s === hov || l.t === hov;
+      const vis = !dim(a) && !dim(b);
+      ctx.save();
+      ctx.globalAlpha = !vis ? 0.08 : (on ? (hov >= 0 ? 0.95 : 0.5) : 0.12);
+      ctx.strokeStyle = kd.c; ctx.lineWidth = on && hov >= 0 ? 2 : 1.1;
+      ctx.setLineDash(kd.dash);
+      ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+      ctx.setLineDash([]);
+      if (kd.arrow && (hov >= 0 ? on : true)) {
+        const ang = Math.atan2(b.y - a.y, b.x - a.x);
+        const r = 5 + Math.min(b.deg, 10) * 0.85 + 2;
+        const ex = b.x - Math.cos(ang) * r, ey = b.y - Math.sin(ang) * r;
+        ctx.beginPath(); ctx.moveTo(ex, ey);
+        ctx.lineTo(ex - Math.cos(ang - 0.42) * 7, ey - Math.sin(ang - 0.42) * 7);
+        ctx.lineTo(ex - Math.cos(ang + 0.42) * 7, ey - Math.sin(ang + 0.42) * 7);
+        ctx.closePath(); ctx.fillStyle = kd.c; ctx.fill();
+      }
+      ctx.restore();
+    });
+    G.nodes.forEach((n, i) => {
+      const on = hov < 0 || i === hov || (near && near.has(i));
+      const vis = !dim(n);
+      const r = 5 + Math.min(n.deg, 10) * 0.85;
+      ctx.globalAlpha = !vis ? 0.12 : (on ? 1 : 0.22);
+      ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, 6.2832);
+      ctx.fillStyle = col(n.g); ctx.fill();
+      if (i === hov) { ctx.lineWidth = 2; ctx.strokeStyle = dark ? '#fff' : '#1C2733'; ctx.stroke(); }
+      ctx.font = (i === hov ? '700 ' : '') + (11 + Math.min(n.deg, 8) * 0.25) + 'px Cairo, sans-serif';
+      ctx.textAlign = 'center'; ctx.fillStyle = dark ? '#D6DDE5' : '#28323C';
+      ctx.fillText(n.l, n.x, n.y + r + 12);
+      ctx.globalAlpha = 1;
+    });
+    ctx.restore();
+  };
+  /* ربط تمرير الشبكة بمخطّط الأعمار والخط الزمني */
+  const cv = G.cv;
+  const prevMove = cv.onmousemove;
+  cv.onmousemove = function (ev) {
+    prevMove && prevMove.call(this, ev);
+    setSel(G.hover >= 0 ? G.nodes[G.hover].l : null);
+  };
+  const prevLeave = cv.onmouseleave;
+  cv.onmouseleave = function (ev) { prevLeave && prevLeave.call(this, ev); setSel(null); };
+  G.draw();
+  /* مفتاح أنواع الروابط */
+  const host = document.getElementById('graphHost');
+  if (host && !host.querySelector('.rellegend')) {
+    const gl = host.querySelector('.glegend');
+    const h = '<div class="rellegend">' + LINKKINDS.map(k =>
+      '<span class="rl" data-kind="' + k.id + '"><i style="border-top-style:' +
+      (k.dash.length ? 'dashed' : 'solid') + ';border-top-color:' + k.c + '"></i>' + k.t +
+      (k.arrow ? ' ←' : '') + '</span>').join('') +
+      '<span class="rl" style="cursor:default;border:0;opacity:.75">نوع الرابط · اضغط لإخفائه</span></div>';
+    if (gl) gl.insertAdjacentHTML('afterend', h); else host.insertAdjacentHTML('afterbegin', h);
+    host.querySelectorAll('.rl[data-kind]').forEach(el => el.onclick = ev => {
+      ev.stopPropagation(); el.classList.toggle('off');
+      G.mutedKinds = [...host.querySelectorAll('.rl.off[data-kind]')].map(x => x.dataset.kind);
+      G.draw();
+    });
+    a11yPass(host);
+  }
+};
+
+/* ---------- 18. اعتراض النقر: معاينة بدل استبدال الصفحة ---------- */
+document.addEventListener('click', ev => {
+  const gl = ev.target.closest('.gloss');
+  if (gl) { ev.stopPropagation(); ev.preventDefault(); showGlossPop(gl.dataset.g, gl); return; }
+
+  const lay = ev.target.closest('[data-layer]');
+  if (lay) {
+    ev.stopPropagation(); ev.preventDefault(); drawerClose(); hideGlossPop();
+    const k = lay.dataset.layer;
+    if (location.hash.slice(1) !== HOME) { location.hash = '#' + HOME; setTimeout(() => openLayer(k), 80); }
+    else openLayer(k);
+    return;
+  }
+  const op = ev.target.closest('[data-open]');
+  if (op) { ev.stopPropagation(); ev.preventDefault(); drawerClose(); go(op.dataset.open); return; }
+
+  const pin = ev.target.closest('[data-pin]');
+  if (pin) {
+    ev.stopPropagation(); ev.preventDefault();
+    const k = pin.dataset.pin, i = ST.pins.indexOf(k);
+    if (i >= 0) ST.pins.splice(i, 1); else ST.pins.push(k);
+    stSave(); renderPinBadge();
+    const on = ST.pins.indexOf(k) >= 0;
+    document.querySelectorAll('[data-pin="' + k + '"]').forEach(b => {
+      b.classList.toggle('on', on);
+      b.textContent = on ? (b.closest('.pvfoot') ? '✓ محفوظ' : '✓ محفوظ في رحلتي') : (b.closest('.pvfoot') ? '☆ احفظ' : '☆ احفظ في رحلتي');
+    });
+    return;
+  }
+  const sh = ev.target.closest('[data-share]');
+  if (sh) {
+    ev.stopPropagation(); ev.preventDefault();
+    const url = location.origin + location.pathname + '#' + sh.dataset.share;
+    const done = () => { sh.textContent = '✓ نُسخ'; setTimeout(() => sh.textContent = '⧉ انسخ الرابط', 1600); };
+    if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, done); else done();
+    return;
+  }
+  const qc = ev.target.closest('[data-quote-copy]');
+  if (qc) {
+    ev.stopPropagation(); ev.preventDefault();
+    const btn = qc; const label = btn.querySelector('.qbtn-label');
+    const orig = label ? label.textContent : btn.textContent;
+    const setLabel = t => { if (label) label.textContent = t; else btn.textContent = t; };
+    const restore = () => setTimeout(() => setLabel(orig), 1500);
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(btn.dataset.quoteCopy).then(() => { setLabel('تم النسخ ✓'); restore(); }, () => { setLabel('تعذّر النسخ'); restore(); });
+      } else { setLabel('تعذّر النسخ'); restore(); }
+    } catch (e) { setLabel('تعذّر النسخ'); restore(); }
+    return;
+  }
+  const qs = ev.target.closest('[data-quote-share]');
+  if (qs) {
+    ev.stopPropagation(); ev.preventDefault();
+    const btn = qs; const label = btn.querySelector('.qbtn-label');
+    const orig = label ? label.textContent : btn.textContent;
+    const setLabel = t => { if (label) label.textContent = t; else btn.textContent = t; };
+    const restore = () => setTimeout(() => setLabel(orig), 1800);
+    const text = btn.dataset.quoteShare;
+    (async () => {
+      try {
+        if (navigator.share) {
+          await navigator.share({ text });
+        } else {
+          throw new Error('no-share-api');
+        }
+      } catch (e) {
+        try {
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            await navigator.clipboard.writeText(text);
+            setLabel('نسخ النص للمشاركة'); restore();
+          }
+        } catch (e2) { /* silent */ }
+      }
+    })();
+    return;
+  }
+  const un = ev.target.closest('[data-unpin]');
+  if (un) {
+    ev.stopPropagation(); ev.preventDefault();
+    ST.pins = ST.pins.filter(x => x !== un.dataset.unpin); stSave(); renderPinBadge(); mineDrawer();
+    return;
+  }
+  const mn = ev.target.closest('[data-mine]');
+  if (mn) { ev.stopPropagation(); ev.preventDefault(); drawerClose(); go(mn.dataset.mine); return; }
+
+  /* المعاينة: للرقائق داخل المتن فقط. البطاقات والقفزات تفتح مباشرة. */
+  const g = ev.target.closest('[data-go]');
+  if (g && !ev.metaKey && !ev.ctrlKey) {
+    const inline = g.matches('.chip.link, .nlink') && !g.closest('.pv, .nextcard, .journey, .cbar');
+    if (inline && DATA.nodes[g.dataset.go]) {
+      ev.stopPropagation(); ev.preventDefault(); hideGlossPop(); preview(g.dataset.go); return;
+    }
+    if (g.closest('.pv')) { drawerClose(); }
+  }
+}, true);
+
+document.addEventListener('click', ev => {
+  if (!ev.target.closest('.glosspop') && !ev.target.closest('.gloss')) hideGlossPop();
+  if (!ev.target.closest('.moremenu') && !ev.target.closest('#moreBtn')) {
+    const m = document.getElementById('moreMenu');
+    if (m) { m.classList.remove('on'); document.getElementById('moreBtn').setAttribute('aria-expanded', 'false'); }
+  }
+  const tg = ev.target.closest('[data-typego]');
+  if (tg) { ev.stopPropagation(); ev.preventDefault(); drawerClose(); goTypeIndex(tg.dataset.typego); }
+  const fg = ev.target.closest('[data-facet-field]');
+  if (fg) {
+    ev.stopPropagation(); ev.preventDefault(); drawerClose();
+    goFacetIndex(fg.dataset.facetField, fg.dataset.facetValue);
+  }
+});
+
+/* تسجيل فتح الطبقات من النقر المباشر على رأس الطبقة */
+document.addEventListener('click', ev => {
+  const lh = ev.target.closest('.lhead'); if (!lh) return;
+  setTimeout(() => {
+    const lay = lh.closest('.layer'); if (!lay || !lay.classList.contains('open')) return;
+    const id = (lay.id || '').replace('layer-', '');
+    const L = DATA.layers.find(x => String(x.n) === id);
+    if (L) markOpened(L.k);
+  }, 0);
+});
+
+/* ---------- 19. الإقلاع ---------- */
+function initV2() {
+  stLoad();
+  buildIndex();
+  initSearch();
+
+  document.getElementById('brandBtn').onclick = () => goAtlasHome();
+  document.getElementById('mineBtn').onclick = () => mineDrawer();
+  document.getElementById('pvClose').onclick = drawerClose;
+  document.getElementById('pvbd').onclick = drawerClose;
+  document.getElementById('schoolsBtn').onclick = () => schoolsDrawer();
+  document.getElementById('tplBtn').onclick = () => tplDrawer();
+  document.getElementById('typesBtn').onclick = () => typesDrawer();
+  document.getElementById('countriesBtn').onclick = () => countriesDrawer();
+  document.getElementById('languagesBtn').onclick = () => languagesDrawer();
+  document.getElementById('timelineBtn').onclick = () => goTimeline();
+
+  /* تعبئة القائمة الفرعية للمدارس — تظهر عند مرور الفأرة أو التركيز */
+  const flyout = document.getElementById('schoolsFlyout');
+  if (flyout) {
+    flyout.innerHTML = SCHOOLS.map(s =>
+      '<button type="button" class="flyitem" data-school="' + s.id + '" data-ready="' + (s.st === 'ready' ? '1' : '0') + '">' +
+      '<b>' + escHTML(s.t) + '</b><span>' + (s.st === 'ready' ? 'جاهزة الآن' : 'لم تُضف بعد') + '</span></button>').join('');
+    flyout.querySelectorAll('.flyitem').forEach(b => b.onclick = ev => {
+      ev.stopPropagation();
+      document.getElementById('moreMenu').classList.remove('on');
+      document.getElementById('moreBtn').setAttribute('aria-expanded', 'false');
+      if (b.dataset.school === 'existential') go(HOME); else schoolsDrawer();
+    });
+  }
+
+  const mb = document.getElementById('moreBtn'), mm = document.getElementById('moreMenu');
+  mb.onclick = ev => {
+    ev.stopPropagation(); mm.classList.toggle('on');
+    mb.setAttribute('aria-expanded', mm.classList.contains('on') ? 'true' : 'false');
+  };
+
+  /* وضع القراءة المبسّط — زرّ مستقل بجانب مشغّل القائمة، لا داخلها */
+  const modeBtn = document.getElementById('modeBtn');
+  function applyMode() {
+    const simple = ST.mode === 'simple';
+    document.body.classList.toggle('simple', simple);
+    modeBtn.querySelector('.iconbtn-t').textContent = simple ? 'وضع القراءة: مبسّط' : 'وضع القراءة: بحثي';
+    modeBtn.classList.toggle('on', simple);
+    modeBtn.setAttribute('aria-pressed', simple ? 'true' : 'false');
+  }
+  modeBtn.onclick = () => { ST.mode = ST.mode === 'simple' ? 'full' : 'simple'; stSave(); applyMode(); };
+  applyMode();
+
+  /* طباعة الصفحة الحالية */
+  const printBtn = document.getElementById('printBtn');
+  if (printBtn) printBtn.onclick = () => { mm.classList.remove('on'); mb.setAttribute('aria-expanded', 'false'); window.print(); };
+
+  /* نسخ رابط الصفحة الحالية (وليس عنصراً محدداً من داخل معاينة) */
+  const copyLinkBtn = document.getElementById('copyLinkBtn');
+  if (copyLinkBtn) copyLinkBtn.onclick = () => {
+    mm.classList.remove('on'); mb.setAttribute('aria-expanded', 'false');
+    const url = location.origin + location.pathname + (location.hash || '#' + ATLAS_HOME);
+    const done = () => { copyLinkBtn.textContent = '✓ نُسخ الرابط'; setTimeout(() => copyLinkBtn.textContent = 'انسخ رابط الصفحة الحالية', 1500); };
+    if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, done); else done();
+  };
+
+  /* مسح سجل القراءة — مع تأكيد، ومتاح من القائمة مباشرة */
+  const clearHistBtn = document.getElementById('clearHistBtn');
+  if (clearHistBtn) clearHistBtn.onclick = () => {
+    mm.classList.remove('on'); mb.setAttribute('aria-expanded', 'false');
+    if (!confirm('سيُمسح كل ما حفظته، وسجل الطبقات المفتوحة، وطوابع "قرأت اليوم". لا يمكن التراجع. متابعة؟')) return;
+    clearReadingHistory();
+    if (typeof mineDrawer === 'function') { try { drawerClose(); } catch (e) { } }
+  };
+
+  /* الوضع الليلي محفوظ */
+  const tb = document.getElementById('themeBtn');
+  if (ST.theme === 'dark') { document.documentElement.setAttribute('data-theme', 'dark'); tb.textContent = 'الوضع النهاري'; }
+  const prevTheme = tb.onclick;
+  tb.onclick = () => {
+    prevTheme && prevTheme();
+    ST.theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+    stSave();
+  };
+
+  document.getElementById('pbAbout').onclick = () => {
+    drawerOpen('<p class="pvlede">هذه الوحدة مسودة تحريرية موسّعة، وهي معلَنة كذلك عن قصد.</p>' +
+      '<h6>ما هو مُتحقَّق منه</h6><p>أرقام الأدلة ومصادرها المُعلَّمة بـ«بياناته مُتحقَّق منها» في سجل المصادر.</p>' +
+      '<h6>ما هو مرشّح</h6><p>التواريخ والعناوين وتفاصيل السِّيَر ومخطّط الأعمار. لم تُفتح مصادرها الأولية بعد، ولا يُنشر أيٌّ منها قبل التحقق.</p>' +
+      '<h6>ما ينقص</h6><p>زرّ «أظهر ما ينقص» في قائمة ⋯ يفتح كل الطبقات ويُظهر الفجوات المعلَنة داخل كل عنصر. ' +
+      'إعلان الفراغ هنا قاعدة تحريرية، لا نقصاً يُخفى.</p>' +
+      '<h6>تنبيه</h6><p>هذه الوحدة لم تمرّ بمراجعة مختص، ولا تُستخدم للتشخيص ولا للاستشارة.</p>',
+      '', 'عن هذه الوحدة', 'حالة المسودة والمصادر');
+  };
+
+  document.addEventListener('click', ev => {
+    const seg = ev.target.closest('.pseg'); if (!seg) return;
+    ev.stopPropagation(); openLayer(seg.dataset.layer);
+  });
+  document.addEventListener('click', ev => {
+    if (ev.target.id === 'mineClear') {
+      if (!confirm('سيُمسح كل ما حفظته وسجل زياراتك. متابعة؟')) return;
+      clearReadingHistory(); mineDrawer();
+    }
+  });
+  window.addEventListener('resize', () => hideGlossPop());
+  window.addEventListener('scroll', () => hideGlossPop(), { passive: true });
+}
+
+
+initV2();
+route();
+
+
+</script>
+</body>
+</html>

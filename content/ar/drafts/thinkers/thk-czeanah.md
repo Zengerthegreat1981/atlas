@@ -1,0 +1,45 @@
+---
+slug: "thk-czeanah"
+id: "[DRAFT-UNKNOWN]"
+type: "مفكر"
+level: "متوسط"
+title: "تشارلز زيناه"
+en: "Charles H. Zeanah"
+crumb: "PCIT ← طب نفس الأطفال والرضّع ← تشارلز زيناه"
+dates: "الولايات المتحدة · القرن العشرون"
+country: "الولايات المتحدة"
+language: "إنجليزية"
+active_start: 1980
+active_end: "مستمر"
+edges:
+  - rel: "belongs_to", target: "PCIT", target_type: "مدرسة"
+related:
+  - id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+gaps:
+  - "سنة الميلاد الدقيقة غير موثّقة."
+  - "صلة عمله المباشرة بـPCIT تحتاج توثيقاً إضافياً."
+---
+
+# تشارلز زيناه
+
+طبيب نفسي أطفال، أستاذ في جامعة Tulane، من أهم الشخصيات في طب نفس الرضّع و"العلاقات المعطوبة" (Disturbed Relationships). أسهم في تأطير "Attachment Disorders" وتكييف PCIT في سياقات الإيداع والرعاية البديلة.
+
+## ما أعطاه
+
+- **"Practice Parameters for Assessment and Treatment of Children with Reactive Attachment Disorder"**: من أهم الإرشادات في حقل اضطرابات الارتباط في الطفولة.
+- **محرر *Handbook of Infant Mental Health*** (3rd ed., 2009): مرجع رئيسي في الحقل.
+- **إسهام في DSM-5**: إعادة تعريف Reactive Attachment Disorder ومحددات التشخيص.
+- **بحث حول PCIT في دور الرعاية**: تطبيق العلاج على الأسر في بيئات الإيداع.
+
+## موقعه من التيار
+
+يقف زيناه عند ملتقى طب نفس الأطفال، طب نفس الرضّع، والعلاج الأسري. تأثيره يتجاوز PCIT إلى حقل صحة الرضّع النفسية ككل.
+
+## أهم أعماله
+
+- *Handbook of Infant Mental Health* (2009، 3rd ed.، محرر).
+- مقالات في *Journal of the American Academy of Child and Adolescent Psychiatry* عن RAD وPCIT.
+
+## قيد
+
+- **مفهوم Reactive Attachment Disorder** موضع نقاش مستمر بين من يركّز على الأبعاد الاجتماعية ومن يركّز على الأبعاد العصبية.

@@ -1,0 +1,78 @@
+---
+slug: "classification-dsm-5-tr"
+id: "[DRAFT-UNKNOWN]"
+type: "نظام تصنيف"
+level: "مبتدئ"
+title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)"
+en: "Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)"
+crumb: "الاضطرابات والحالات الإكلينيكية ← أنظمة التصنيف ← DSM-5-TR"
+active_start: 2022
+active_end: "مستمر"
+language: "الإنجليزية"
+edges: []
+related:
+  - id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "نظام تصنيف"
+gaps:
+  - "التفاصيل الدقيقة لإصدارات التصحيح (DSM-5-TR-C وطبعات لاحقة) لم تُراجع."
+  - "لم يُراجع من مصدر أولي مباشر بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# DSM-5-TR — الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة
+
+نظام التصنيف الرسمي للاضطرابات النفسية الصادر عن الجمعية الأمريكية للطب النفسي (American Psychiatric Association, APA) في نسخته الخامسة المنقَّحة (2022). يتبع DSM-5-TR نموذجاً فئوياً categorical للحالات النفسية، ويحدد لكل اضطراب معايير تشخيصية محددة (criteria sets) متطلبة للبحث الإكلينيكي والممارسة السريرية. يُعدّ المرجع التشخيصي الأكثر استخداماً في الولايات المتحدة، ويستخدم أكواد ICD-10-CM لأغراض التأمين والوثائق الرسمية.
+
+## السياق التاريخي
+
+صدرت النسخة الأولى من DSM عام 1952. تتابعت إصداراتها الرئيسية (DSM-II 1968، DSM-III 1980، DSM-IV 1994، DSM-5 2013). النسخة المنقَّحة DSM-5-TR صدرت في 2022 مع تحديثات نصوصية وCodes ICD-10-CM محدثة، دون تغييرات جذرية في البنية الفئوية. يُنتظر صدور DSM-5-TR-C (تصحيح ثانوي) في المستقبل القريب.
+
+## البنية العامة
+
+يتكون DSM-5-TR من ثلاثة أقسام رئيسية:
+
+- **القسم الأول**: أساسيات استخدام الدليل (المفاهيم، المنهج، تاريخ الاستخدام).
+- **القسم الثاني**: معايير تشخيصية مفصلة لـ22 فصلاً من الاضطرابات، مرتبة من Neurodevelopmental Disorders إلى Paraphilic Disorders، ثم Other Mental Disorders.
+- **القسم الثالث**: مقاييس تقييم، ثقافة وتشخيص، نموذج بديل لاضطرابات الشخصية، شروط للدراسة المستقبلية.
+
+## الفصول الـ22 (Section II)
+
+1. Neurodevelopmental Disorders
+2. Schizophrenia Spectrum and Other Psychotic Disorders
+3. Bipolar and Related Disorders
+4. Depressive Disorders
+5. Anxiety Disorders
+6. Obsessive-Compulsive and Related Disorders
+7. Trauma- and Stressor-Related Disorders
+8. Dissociative Disorders
+9. Somatic Symptom and Related Disorders
+10. Feeding and Eating Disorders
+11. Elimination Disorders
+12. Sleep-Wake Disorders
+13. Sexual Dysfunctions
+14. Gender Dysphoria
+15. Disruptive, Impulse-Control, and Conduct Disorders
+16. Substance-Related and Addictive Disorders
+17. Neurocognitive Disorders
+18. Personality Disorders
+19. Paraphilic Disorders
+20. Other Mental Disorders and Additional Codes
+21. Medication-Induced Movement Disorders and Other Adverse Effects of Medication
+22. Other Conditions That May Be a Focus of Clinical Attention
+
+## الأكواد
+
+يستخدم DSM-5-TR أكواد **ICD-10-CM** (وليس ICD-11) لأغراض التوثيق. في كل اضطراب من اضطرابات الأطلس، يُدرج الكود كحقل `dsm5tr_code` في الـfrontmatter.
+
+## التطبيق في الأطلس
+
+كل ملف اضطراب (`dis-`) مرتبط بهذا النظام عبر edge من نوع `classified_in` يشير إلى `classification-dsm-5-tr`. الحقل `dsm5tr_code` في الـfrontmatter يحفظ الكود التشخيصي المحدد لكل اضطراب.
+
+## العلاقة بالـICD-11
+
+- DSM-5-TR يستخدم أكواد ICD-10-CM، بينما ICD-11 يستخدم نظام أكواد مستقل خاص به.
+- في عدة حالات، يختلف DSM-5-TR و ICD-11 في التصنيف (مثل: Complex PTSD كتشخيص منفصل في ICD-11 دون مقابل في DSM-5-TR).
+- كل ملف `dis-` يحوي edge آخر `classified_in` يشير إلى `classification-icd-11`، وحقل `icd11_code` للمقارنة.
+
+## مرجع
+
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. American Psychiatric Association Publishing.
