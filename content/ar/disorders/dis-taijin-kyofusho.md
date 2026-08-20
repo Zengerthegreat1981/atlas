@@ -11,6 +11,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الطب النفسي الثقافي الياباني", target_type: "مدرسة"
 related:
+  - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "الدراسات المقارنة بين TKS واضطراب القلق الاجتماعي الغربي لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

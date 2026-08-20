@@ -20,6 +20,7 @@ related:
   - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "عدم وجود علاج دوائي مُعتمد لـStimUD (مقارنة بـAUD) لم يُراجع نصاً بنص من مصدر أولي مُحدّث."
   - "التفاصيل الدقيقة لمعايير الانسحاب من الكوكايين مقابل المنشطات الأمفيتامينية في DSM-5-TR لم تُقارن نصاً بنص."

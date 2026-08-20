@@ -20,6 +20,7 @@ related:
   - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
   - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "الفئات التفصيلية للمواد المستنشقة (nitrous oxide, hydrocarbons, nitrites) في DSM-5-TR لم تُراجع نصاً بنص."
   - "العلاج النفسي المُخصص للمراهقين المُستنشِقين (school-based, family-based) لم يُراجع من دراسات أولية مباشرة."

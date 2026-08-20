@@ -9,6 +9,8 @@ crumb: "المدرسة الوجودية ← الاضطرابات والحالا�
 edges:[]
 related:
   - id: "con-fear", title: "الخوف", type: "مفهوم"
+  - id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
+  - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 gaps:
   - "لا يوجد بعد ربط موثق بمصادر عربية عن هذا الاضطراب"
   - "التفريق الدقيق بين panic attacks العرضية و panic disorder كاضطراب محدد في DSM-5-TR يحتاج مراجعة المصدر الأولي"

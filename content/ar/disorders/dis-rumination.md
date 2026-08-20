@@ -21,6 +21,7 @@ related:
   - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
   - id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (repeated regurgitation of food for 1+ month) لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6B84) لم تُراجع تفصيلياً."

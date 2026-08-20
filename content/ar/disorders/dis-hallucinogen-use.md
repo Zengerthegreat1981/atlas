@@ -20,6 +20,7 @@ related:
   - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "التقسيمات الفرعية لـPhencyclidine Use Disorder مقابل Other Hallucinogen Use Disorder في DSM-5-TR لم تُراجع نصاً بنص من المصدر الأولي."
   - "مفهوم 'اضطراب الإدراك المستمر بالـHallucinogens (HPPD)' كحالة منفصلة في DSM-5-TR لم يُقارن نصاً بنص مع ICD-11."

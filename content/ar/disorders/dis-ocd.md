@@ -28,6 +28,7 @@ related:
   - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-dt-improve-the-moment", title: "تحسين اللحظة (IMPROVE)", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
+  - id: "syn-obsessive-thoughts", title: "الأفكار الوسواسية", type: "متلازمة"
 gaps:
   - "الفروقات الدقيقة بين DSM-5-TR و ICD-11 في تعريف OCD لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."

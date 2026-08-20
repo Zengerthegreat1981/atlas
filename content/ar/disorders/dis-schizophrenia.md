@@ -21,6 +21,8 @@ related:
   - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-cog-cognitive-reframing", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
   - id: "tec-metacognitive-therapy", title: "العلاج فوق-المعرفي (MCT)", type: "تقنية/تدخل علاجي"
+  - id: "syn-dissociation", title: "الانفصال (dissociation)", type: "متلازمة"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لتمييز 'الشدة' في DSM-5-TR (جزئي، كامل، عابر) لم تُراجع من المصدر الأولي."
   - "الفرق بين 6A20.0 و6A20.1 و6A20.2 في ICD-11 (حسب مدة الأعراض) لم يُراجع بالتفصيل."

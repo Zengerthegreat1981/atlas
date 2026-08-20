@@ -21,6 +21,7 @@ related:
   - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
   - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لمعايشير التشخيص في DSM-5-TR (10 معايير لـGD) لم تُراجع نصاً بنص من المصدر الأولي."
   - "الفرق بين gambling disorder وhazardous gambling في ICD-11 6C50 / QE21 لم يُقارن نصاً بنص."

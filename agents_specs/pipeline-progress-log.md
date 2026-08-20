@@ -992,3 +992,43 @@ The 4 phantoms remaining are the pre-existing bucket (c) ambiguous list. No new 
 ## On the write-failure issue
 Confirmed: Python `with open(path, 'w') + write()` was silently failing on this filesystem for some files. The reliable pattern is `subprocess.run(['sed', '-i.bak', ...])` + `rm -f *.bak` (which uses the system's own write path). For new content creation, atomic `os.open() + write + fsync + replace` also works. The `with open().write()` pattern does NOT work reliably here. Noted for future.
 
+---
+
+- [21 أغسطس 2026] **Phase 1.3 — Git init + baseline commit**
+
+```
+git init
+.gitignore created (excludes build outputs: data.json, index.html, etc.)
+git config user.email "atlas-agent@local"
+git config user.name "Atlas Agent"
+git add content/ agents_specs/ scripts/ .gitignore
+git commit -m "Baseline: 96 disorders + 14 techniques + 2781 slugs (post-promote + phantom cleanup)"
+→ 632d5cb (3,164 files)
+```
+
+This is the clean baseline before further phases. Any future regression can be `git diff`d against this commit.
+
+---
+
+- [21 أغسطس 2026] **Task 2 — syn-/dis- cross-link audit + apply**
+
+Initial state: 55/96 dis- files had syn- links (57%). 41 dis- files had no syn- link.
+
+Heuristic: for each dis- without syn- links, identified 1-3 relevant syn- files based on disorder type (e.g. substance use → syn-craving-urge, anxiety disorders → syn-acute-anxiety, OCD → syn-obsessive-thoughts, etc.). 11 dis- files were left without syn- links because no syn- matches (e.g. dis-autism-spectrum, dis-delusional — the syn- list doesn't have autism or psychosis-specific symptoms yet).
+
+## Result
+
+Added 38 syn- links across 28 dis- files via atomic `os.replace()` pattern. Used heuristics: substance use → craving-urge, anxiety → acute-anxiety, trauma-related → hypervigilance + dissociation + emotional-numbing, etc.
+
+## Post-apply audit — RAW NUMBERS
+
+```
+Valid slugs: 2797
+Phantom slugs: 5 (4 unique) — UNCHANGED from baseline, still the 4 bucket-c ambiguous
+Gap-note corruption: 0
+dis- with syn- links: 83 / 96 (86%, was 55/96 = 57%)
+build_atlas.py: ✅ 694 elements, 1,960,239 chars (grew slightly due to new edges)
+```
+
+The 11 dis- files left without syn- links are: classification-dsm-5-tr, classification-icd-11 (stubs, not real disorders), dis-autism-spectrum, dis-brief-psychotic, dis-delusional, dis-developmental-coordination, dis-encopresis, dis-enuresis, dis-factitious, dis-fetishistic, dis-intellectual-disability, dis-pica, dis-specific-learning-disorder. These lack matching syn- files in the current atlas — would need new syn- (e.g. "syn-psychotic-symptoms", "syn-autism-traits") to populate.
+

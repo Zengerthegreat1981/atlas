@@ -34,6 +34,7 @@ related:
   - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-check-the-facts", title: "التحقق من الحقائق", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "نسب الانتشار بحسب الجنس/العمر/المنطقة الجغرافية لم تُراجع من مسح وبائي أولي مباشر."
   - "الفروقات الدقيقة بين عتبات شدة DSM-5-TR (mild/moderate/severe/extreme) وعلامات ICD-11 السريرية لم تُقارن نصاً بنص."

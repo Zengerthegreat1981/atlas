@@ -11,6 +11,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علاج الهوابيونغ", target_type: "مدرسة"
 related:
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+  - id: "syn-anger", title: "نوبة الغضب", type: "متلازمة"
 gaps:
   - "الدراسات الطولية (Longitudinal) لتطور Hwabyung وعلاجه لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

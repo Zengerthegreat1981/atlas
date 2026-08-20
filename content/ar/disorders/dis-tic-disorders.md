@@ -22,6 +22,7 @@ related:
   - id: "tec-act-pres-mindful-breathing", title: "التنفس اليقظ", type: "تقنية/تدخل علاجي"
   - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة", type: "تقنية/تدخل علاجي"
+  - id: "syn-obsessive-thoughts", title: "الأفكار الوسواسية", type: "متلازمة"
 gaps:
   - "اضطرابات العرات حالة نمائية عصبية؛ العلاج الأول المُعتمد بالأدلة هو تدريب عكس العادة (HRT) وCBIT (Comprehensive Behavioral Intervention for Tics). الأدوية تُستخدم في الحالات الشديدة فقط."
   - "DSM-5-TR يُقسِّم الاضطراب إلى: Tourette's Disorder (307.23)، Persistent (Chronic) Motor or Vocal Tic Disorder (307.22)، Provisional Tic Disorder (307.21). التفاصيل الدقيقة لكل عرض لم تُفصَّل في هذه المسودة."

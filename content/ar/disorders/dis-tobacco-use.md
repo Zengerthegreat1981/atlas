@@ -20,6 +20,7 @@ related:
   - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لبروتوكولات النيكوتين البديلة (NRT) في DSM-5-TR كـ'علاج مُساعد' لم تُراجع نصاً بنص من المصدر الأولي."
   - "الفعالية المقارنة لـvarenicline, bupropion, NRT في DSM-5-TR كخطوط علاجية لم تُقارن نصاً بنص."

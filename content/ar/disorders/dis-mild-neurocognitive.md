@@ -21,6 +21,7 @@ related:
   - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-emo-emotion-focused-coping", title: "التكيف المرتكز على الانفعال", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "استرخاء العضلات التدريجي", type: "تقنية/تدخل علاجي"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لتمييز 'الاضطراب المعرفي العصبي الخفيف' عن الشيخوخة الطبيعية في DSM-5-TR لم تُراجع من المصدر الأولي."
   - "ترميز ICD-11 6D72 حسب السبب (6D72.0 مرض ألزهايمر، 6D72.1 وعائي، إلخ) لم يُراجع بالتفصيل."

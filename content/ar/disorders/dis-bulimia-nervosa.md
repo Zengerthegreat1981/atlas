@@ -35,6 +35,8 @@ related:
   - id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بـ ACCEPTS", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-check-the-facts", title: "التحقق من الحقائق", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لعتبة شدة DSM-5-TR (مقابل تكرار السلوكيات التعويضية) لم تُراجع من نص تشخيصي أولي."
   - "الفروقات بين النهام العصبي واضطراب نهم الطعام (BED) في ICD-11 vs DSM-5-TR لم تُقارن نصاً بنص."

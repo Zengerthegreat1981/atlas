@@ -10,6 +10,9 @@ edges:[]
 related:
   - id: "con-fear", title: "الخوف", type: "مفهوم"
   - id: "con-death", title: "الموت", type: "مفهوم"
+  - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
+  - id: "syn-dissociation", title: "الانفصال (dissociation)", type: "متلازمة"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "الفرق الدقيق بين القراءة الوجودية والقراءة المعرفية-السلوكية للصدمة يحتاج توثيقاً أعمق كجدل (dbt-) مستقل مستقبلاً"
   - "المعايير التشخيصية في DSM-5-TR (20 symptom across 4 clusters) و ICD-11 (6B40) تحتاج مراجعة من المصدر الأولي للتأكيد"

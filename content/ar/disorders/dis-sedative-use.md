@@ -20,6 +20,7 @@ related:
   - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "بروتوكولات تناقص البنزوديازيبينات (ashton manual vs taper protocols) في DSM-5-TR لم تُراجع نصاً بنص."
   - "الفرق بين Z-drugs (zolpidem, zopiclone) والبنزوديازيبينات في ICD-11 لم يُقارن نصاً بنص."

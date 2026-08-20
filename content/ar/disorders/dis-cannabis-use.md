@@ -20,6 +20,7 @@ related:
   - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "تفاصيل معايير الشدة (mild/moderate/severe) في DSM-5-TR لم تُراجع نصاً بنص من المصدر الأولي."
   - "الانتشار العالمي حسب المنطقة الجغرافية والوضع القانوني للحشيش لم يُراجع من مسح وبائي أولي مباشر."

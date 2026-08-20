@@ -10,6 +10,8 @@ edges:[]
 related:
   - id: "con-sadness", title: "الحزن", type: "مفهوم"
   - id: "con-death", title: "الموت", type: "مفهوم"
+  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "هذا التصنيف نفسه موضع جدل علمي حول حدوده الزمنية والثقافية، ويستحق تحويله لاحقاً لعنصر dbt- مستقل يناقش الجدل حول شرعنة هذا التصنيف أصلاً"
   - "المعايير الدقيقة في DSM-5-TR (CR-9 من Bereavement Exclusion) وفي ICD-11 (6B42) تحتاج مراجعة من المصدر الأولي للتأكد"

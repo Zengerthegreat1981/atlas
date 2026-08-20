@@ -23,6 +23,8 @@ related:
   - id: "tec-dbt-mind-one-mindfully", title: "التركيز على شيء واحد", type: "تقنية/تدخل علاجي"
   - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
   - id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
+  - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
+  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "ADHD اضطراب نمائي عصبي؛ العلاج الدوائي المنشط (methylphenidate, lisdexamfetamine) أو غير المنشط (atomoxetine, guanfacine) هو الخط الأول المُعتمد بالأدلة."
   - "التدخلات النفسية (CBT, ACT, DBT) تدخلات مُكمِّلة فعّالة، خاصة للبالغين، لكنها لا تُغني عن الدواء في معظم الحالات."

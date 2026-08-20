@@ -38,6 +38,7 @@ related:
   - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-mind-mindfulness-of-current-emotion", title: "اليقظة تجاه الانفعال الحالي", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-dt-pros-and-cons", title: "الإيجابيات والسلبيات", type: "تقنية/تدخل علاجي"
+  - id: "syn-obsessive-thoughts", title: "الأفكار الوسواسية", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة للنموذج البُعدي لـ ICD-11 في OCPD (وخصوصاً تمييزه عن OCD كاضطراب منفصل) لم تُراجع من المصدر الأولي."
   - "التداخل بين OCPD وOCD وتداعياته العلاجية لم يُوثَّق بدقة."

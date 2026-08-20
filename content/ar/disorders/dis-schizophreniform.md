@@ -19,6 +19,7 @@ related:
   - id: "tec-psychoeducational-family", title: "الإرشاد النفسي للعائلة", type: "تقنية/تدخل علاجي"
   - id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+  - id: "syn-dissociation", title: "الانفصال (dissociation)", type: "متلازمة"
 gaps:
   - "تفاصيل تمييز 'السمات الذهانية' (Good prognostic features) في DSM-5-TR من حيث عدد العوامل (4+ يعني إنذار جيد) لم تُراجع من المصدر الأولي."
   - "ترميز ICD-11 6A24 (أول حلقة من اضطراب طيف الفصام) وموقعه من حيث العلاق بـ 6A20 (الفصام) يحتاج مراجعة تفصيلية."

@@ -36,6 +36,7 @@ related:
   - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-cope-ahead", title: "التخطيط المسبق", type: "تقنية/تدخل علاجي"
   - id: "tec-motivational-interviewing", title: "المقابلة التحفيزية", type: "تقنية/تدخل علاجي"
+  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "تفاصيل شدة DSM-5-TR (mild: 2-3 / moderate: 4-5 / severe: 6+) وأوجه المقارنة مع ICD-11 'hazardous use' vs 'harmful use' vs 'dependence' لم تُراجع نصاً بنص من المصدرين."
   - "الانتشار العالمي والفروقات الجغرافية والثقافية في AUD لم تُراجع من مسح وبائي أولي مباشر."
