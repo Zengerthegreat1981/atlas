@@ -11,7 +11,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
-  - id: "thk-olovaas", title: "أويفار لوفاس", type: "مفكر"
+  - id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
 gaps:
   - "نسبة الإطار إلى Baer, Wolf, Risley (1968) تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

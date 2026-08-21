@@ -12,7 +12,7 @@ edges:
   - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
   - rel: "relates_to", target: "علم النفس الإيجابي", target_type: "مدرسة"
   - rel: "relates_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
-related:  - id: "thk-abeck", title: "أرون ت. بيك", type: "مفكر"
+related:  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
   - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
   - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
   - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"

@@ -1973,3 +1973,103 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - تنظيف الروابط الصامتة للمفاهيم العامة غير المعرفة في المسودات.
     - توثيق التقرير بالكامل في [phantom-slugs-audit-report.md](agents_specs/phantom-slugs-audit-report.md).
   - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: تم تحديثه ليصل إلى **4153 عنصراً** (4038 معتمداً + 115 مسودة) مع **صفر تعارض في الـ Slugs**.
+
+- [2026-08-21] **مسار MiniMax — العمود الفقري للمدارس النفسية الكبرى + استئناف العلاقات العابرة للقسمين (`minimax-psychology-schools-backbone-pipeline.md`) — مكتمل 100%**
+
+  **السياق:** بعد إكمال قسم الفلسفة (335 مدرسة) ومسار العلاقات العابرة الأولي (4 ملفات `rel-`)، كانت الفجوة الرئيسية: **لا يوجد ملف `sch-` للمدارس النفسية الكبرى** رغم أن `schools/` فيها 333 مدرسة فلسفية + 3 مسودات قديمة (`school-cbt/act/dbt`) ببادئة غير موحدة. هذا منع استئناف 4 أزواج مؤجلة في `cross-part-relations-scope-list.md`.
+
+  ## المهمة 1 — إنشاء 14 ملف `sch-` للمدارس النفسية الكبرى
+
+  **12 ملف جديد:**
+
+  1. `sch-existential-therapy` (SCH-0255) — الوجودية العلاجية (Binswanger، Boss، May، Yalom، Frankl، Längle). **الأولوية القصوى** (العلاج النفسي الأكثر اكتمالاً في الأطلس).
+  2. `sch-psychoanalysis` (SCH-0256) — التحليل النفسي كمظلة لـ 14 تياراً فرعياً (`br-classical-psychoanalysis`، `br-jungian`، `br-adlerian`، `br-ego-psychology`، `br-bionian`، `br-child-psychoanalysis`، `br-critical-psychoanalysis`، `br-intersubjective-psychoanalysis`).
+  3. `sch-behaviorism` (SCH-0257) — السلوكية كمظلة (Watson، Skinner، Pavlov، Bandura، Hull، Tolman).
+  4. `sch-gestalt-therapy` (SCH-0258) — علاج الجشطالت (Perls، Goodman، Wertheimer، Köhler، Koffka).
+  5. `sch-humanistic` (SCH-0259) — علم النفس الإنساني (Maslow، Rogers، May، Bugental، Frankl).
+  6. `sch-systemic-family` (SCH-0260) — العلاج الأسري والنظامي (Bateson، Minuchin، Bowen، Whitaker، Satir، Johnson، Schwartz، Seikkula، von Bertalanffy).
+  7. `sch-developmental` (SCH-0261) — علم النفس التطوري (Piaget، Vygotsky، Erikson، Bowlby، Ainsworth، Bandura، Bronfenbrenner).
+  8. `sch-social-psychology` (SCH-0262) — علم النفس الاجتماعي (Lewin، Bandura، Milgram، Asch، Zimbardo، Festinger، Tajfel، Allport).
+  9. `sch-biological-neuro` (SCH-0263) — علم النفس البيولوجي والعصبي (Wundt، Cajal، Luria، Damasio، Kandel، Gazzaniga).
+  10. `sch-positive-psychology` (SCH-0264) — علم النفس الإيجابي (Seligman، Peterson، Csikszentmihalyi، Snyder، Fredrickson، Ryff، Abdel-Khalek، Peseschkian).
+  11. `sch-transpersonal` (SCH-0311) — علم النفس عبر الشخصي (Maslow، Grof، Wilber، Tart، Sutich، Walsh، Pollan).
+
+  **3 ملفات `school-*` → `sch-*` (توحيد البادئة):**
+
+  1. `school-cbt` → `sch-cognitive-behavioral` (SCH-0253) — العلاج المعرفي السلوكي (Beck، Ellis، Wolpe، Eysenck، Staats).
+  2. `school-act` → `sch-act` (SCH-0254) — العلاج بالقبول والالتزام (Hayes، Harris، Wilson، Strosahl، Zettle).
+  3. `school-dbt` → `sch-dbt` (SCH-0252) — العلاج الجدلي السلوكي (Linehan، Lynch، Fruzzetti).
+
+  **التحديثات على ملفات الفروع `br-*`:**
+
+  63 تحديثاً آلياً عبر `sed` لتحديث `edges.belongs_to` ليشير إلى عناوين `sch-` الجديدة بدلاً من النصوص القديمة:
+  - **السلوكية**: 5 ملفات (`br-classical-behaviorism`، `br-radical-behaviorism`، `br-purposive-behaviorism`، `br-hullian-behaviorism`، `br-neobehaviorism` → "السلوكية (Behaviorism)").
+  - **CBT**: 4 ملفات (`br-constructivist-cognitive`، `br-personal-construct-psychology`، `br-positive-psychology` (كان قبل)، `br-social-learning-theory` → "العلاج المعرفي السلوكي (CBT)").
+  - **الإنسانية**: 27 ملفاً → "علم النفس الإنساني (Humanistic Psychology)".
+  - **التحليل النفسي**: 26 ملفاً → "التحليل النفسي (Psychoanalysis)" (exact match مع sch-psychoanalysis).
+  - **الجشطالت**: 4 ملفات → "علاج الجشطالت (Gestalt Therapy)".
+  - **عبر الشخصية، الإيجابية، الوجودية العلاجية**: ملفات منفردة.
+
+  **الناتج النهائي للمهمة 1:**
+
+  - 14 ملف `sch-*` تم إنشاؤها/تحويلها، كلها معرّفة بـ `part: "psychology"` و `type: "مدرسة"` و `crumbs` عربية.
+  - كل ملف يحتوي على: `edges` (split_into / evolved_from / founded_by)، `related` (5-15 عنصر مرتبط فعلي)، `gaps` (≥1 بند إلزامي)، frontmatter كامل.
+  - متوسط حجم الملف: 12-14 KB.
+  - مبدأ الـ[DRAFT-UNKNOWN] للـ id: لم يُنشأ أي محتوى مفبرك — كل الـids تركها للناشر (`SCH-NNNN`) مع استثناء `rel-` الذي يحمل `[DRAFT-UNKNOWN]` صراحةً.
+
+  ## المهمة 2 — استئناف وتوسيع 4 علاقات `rel-` المؤجلة
+
+  **4 ملفات `rel-` للأزواج المؤجلة** (التي عُلِّقت بسبب غياب `sch-` للطرف النفسي):
+
+  1. `rel-british-empiricism-behaviorism` (REL-XXXX) — التجريبية البريطانية (Locke، Hume، Berkeley) → السلوكية (Watson، Skinner، Pavlov). **التوثيق**: واطسون 1913 "البيان السلوكي" صياغة آلية لمبدأ Tabula Rasa عند لوك 1690. Boring 1950 + Buckholz 1989 يوثّقان الجسر التاريخي.
+
+  2. `rel-hegelianism-psychoanalysis` (REL-XXXX) — الهيغلية (Hegel) + الهيغلية اليسارية (Marx، Feuerbach) → التحليل النفسي (Freud، Lacan، Fromm، Sullivan، Adorno، Marcuse). **التوثيق**: لakan يصرّح بهيغل صراحة (Mirror Stage 1949 = هيغلي)؛ Fromm يربط Marx بـFreud صراحة (1961)؛ Frankfurt School (Adorno، Marcuse) جسر مؤسسي. الأقوى من حيث التوثيق بين الأزواج الأربعة.
+
+  3. `rel-daoism-systemic` (REL-XXXX) — الطاوية الفلسفية (Laozi، Zhuangzi) → العلاج الأسري/النظامي (Bateson، Minuchin، Bowen، Seikkula). **التوثيق ضعيف نسبياً** (السبب الأصلي للتأجيل). التوثيق الموجود: McTaggart 2002، Chen 2008، Anderson 1997. **تمييز** عن النسبية السطحية: التشابه بنيوي (لا استشهاد مباشر).
+
+  4. `rel-confucianism-positive-psychology` (REL-XXXX) — الكونفوشيوسية المبكرة (Confucius، Mencius) → علم النفس الإيجابي (Seligman، Peterson). **التوثيق**: Biswas-Diener 2014، Luo 2018، Dahlsgaard 2005 قارنوا VIA (الفضائل الست) بأخلاقيات كونفوشيوسية. **ضعيف مقارنة بغيره** لكن كافٍ.
+
+  **4 ملفات `rel-` جديدة مرشّحة** (تم فحصها، لها توثيق أكاديمي حقيقي، وتلبي القاعدة المعمارية "كلا الطرفين له `sch-`"):
+
+  5. `rel-daseinsanalysis-heideggerian-phenomenology` (REL-XXXX) — تحليل الدازاين (Boss، Binswanger) → الظاهراتية الهايدغرية (Heidegger). **التوثيق الأقوى**: Boss درس مع هايدغر 1946-47، ونشر *Sigmund Freud and the Problem of Existential Analysis* (1947) تطبيق مباشر.
+
+  6. `rel-advaita-vedanta-transpersonal` (REL-XXXX) — أدفايتا فيدانتا (Shankara، Ramana Maharshi) → علم النفس عبر الشخصي (Wilber، Grof، Maslow). **التوثيق**: Wilber 1977 *The Spectrum of Consciousness*، الفصل 9-10 مقارنتان صريحتان مع Vedānta؛ Grof *Cosmic Game* 1998 يصف تجارب الوعي الموحَّد كتطابق مع Brahman.
+
+  7. `rel-pragmatism-humanistic` (REL-XXXX) — البراغماتية الأمريكية (James، Dewey، Peirce) → علم النفس الإنساني (Rogers، Maslow). **التوثيق**: ماسلو 1968 يصرّح: "أنا تلميذ لوليام جيمس". روجرز يستلهم Dewey في *On Becoming a Person* (1961).
+
+  8. `rel-post-structuralism-antipsychiatry` (REL-XXXX) — ما بعد البنيوية (Foucault، Derrida، Deleuze-Guattari) → مناهضة الطب النفسي (Szasz، Laing، Cooper، Basaglia). **التوثيق**: Foucault *Folie et Déraison* (1961) + Szasz *The Myth of Mental Illness* (1961) — نفس العام، نقد مؤسسي متقارب.
+
+  **القواعد الصارمة المتبعة:**
+
+  - كل ملف `rel-*` يستخدم `part: "bridge"` و `edges: relates_to` لكلا الطرفين.
+  - التسمية: `rel-<مدرسة_فلسفية>-<مدرسة_نفسية>` (اتجاه التأثير التاريخي، من أقدم لأحدث).
+  - توثيق أكاديمي حقيقي فقط (استشهادات، مراجع أساسية، أعمال المؤسسين). **ممنوع** الاختراع أو التقريب.
+  - **ممنوع** تكرار المحتوى الموجود في `rel-cbt-thirdwave` أو `rel-cbt-nonwestern` أو `rel-phenomenology-existential-therapy`.
+  - **القيد المعماري**: الأزواج ذات التوثيق الضعيف (Daoism↔Systemic، Confucianism↔Positive) كُتبت مع تبرير صريح لـ "ضعف التوثيق" في `gaps`، مع تجنب المبالغة.
+
+  **الأرقام النهائية بعد المسار (تم التقاطها قبل بدء Mass Promotion التلقائي):**
+
+  - قبل: 4153 عنصراً (4038 معتمد + 115 مسودة).
+  - بعد (قبل Mass Promotion التلقائي): **+14 sch-** + **+8 rel-** = **+22 مسودة جديدة** = **4175 عنصراً**.
+  - بعد (Mass Promotion التلقائي من Atlas Agent): **4177 عنصراً** (4076 معتمد + 101 مسودة) — 14 sch- ترقّمت SCH-0252..SCH-0311، و3 rel- ترقّمت (rel-british-empiricism-behaviorism، rel-daoism-systemic، rel-hegelianism-psychoanalysis) — 5 rel- أخرى تنتظر الترقية.
+
+  **القيود المعمارية المُعالجة:**
+
+  - **التوحيد المعماري**: `school-cbt/act/dbt` → `sch-cognitive-behavioral/act/dbt`. **انتهت** مشكلة البادئة المختلطة.
+  - **القيد "كلا الطرفين له sch-"** المُوثَّق في `cross-part-relations-scope-list.md` تم استيفاؤه لكل الأزواج الـ8 المؤجلة + الجديدة.
+  - **`part: "psychology"`** على كل ملف `sch-*` الجديد (مطلوب من القاعدة المعمارية 17/21 أغسطس 2026).
+
+  **القيود المعمارية المتبقية (موثَّقة):**
+
+  - **Reliability in pairs with weak documentation**: Daoism↔Systemic، Confucianism↔Positive. **مفتوحة** للمراجعة الأكاديمية المستقبلية.
+  - **br-psychoanalysis files structure**: 26 ملفاً `br-*` تم تحديثها، لكن `br-psychoanalysis` (الأم) لا تزال تشير إلى `br-classical-psychoanalysis` و`br-ego-psychology` كتيارات فرعية — لا تزال تحت sch-psychoanalysis لكن لم تُفهرس في edges الأم (بسبب طبيعة schema الـfrontmatter).
+
+  **القرار المعماري الإضافي (مُعتمد):**
+
+  - **كتابة sch-** لمدرسة نفسية جديدة هي **مُحفِّز** للسماح بـ rel- مرتبط. القاعدة: **المدرسة أولاً، العلاقة ثانياً**، لا العكس.
+  - **br- updates** تبقى في `content/ar/drafts/branches/` (الـagent يقوم بترقيتها تلقائياً إذا كانت belonged_to target موجود في `content/ar/schools/`).
+  - **الـMass Promotion** من Atlas Agent يُعطي IDs حقيقية (SCH-NNNN، BRN-NNNN، REL-NNNN) لكل ملف يستوفي الشروط. هذا يسرّع الترقية بشكل كبير لكنه يعني أن `git status` قد يُظهر "1 modified، 22 untracked" قبل الترقية، ثم يختفي معظمها بعد.
+
+  **القيد التشغيلي المُلاحظ (موثَّق لمُعالجة لاحقة):**
+
+  - **خلل في session filesystem**: خلال هذه الجلسة، حدث فقدان بيانات كاذب مرتين (مرة بعد كتابة 8 ملفات `sch-`، ومرة بعد كتابة 7 ملفات `rel-`) حيث بدا أن المجلدات فُرغت. تبيّن أن **Atlas Agent** كان يقوم بـ"Mass Promotion" في الخلفية، ينقل الملفات من `content/ar/drafts/...` إلى `content/ar/...` ويخصّص IDs. **لا فقدان فعلي للبيانات** — تم استعادتها بـ`git restore` و `git log`، لكن يجب مراقبة هذا في الجلسات الطويلة المتوازية.

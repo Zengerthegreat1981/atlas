@@ -11,7 +11,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-aba-advanced", target_type: "تيار"
 related:
-  - id: "thk-olovaas", title: "أويفار لوفاس", type: "مفكر"
+  - id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
 gaps:
   - "نسبة البرنامج إلى Sundberg وPartington تستحق توثيقاً."
   - "العلاقة بين VB وSkinner (1957) تستحق مراجعة."

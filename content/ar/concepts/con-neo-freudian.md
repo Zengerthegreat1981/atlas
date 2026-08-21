@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-karenhorney", title: "كارين هورني", type: "مفكر"
   - id: "thk-irerich", title: "إريك فروم", type: "مفكر"
-  - id: "thk-harrystack-sullivan", title: "هاري سوليفان", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

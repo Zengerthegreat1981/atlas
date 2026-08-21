@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-rowenaansbacher", title: "روينا آنسْباخِر", type: "مفكر"
-  - id: "thk-dreikurs", title: "رودولف درايكرز", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
 gaps:
   - "تفاصيل عمل آنسْباخِر مع Rowena في إصداراته اللاحقة (السنوات 1980–2000) تحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

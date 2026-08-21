@@ -11,7 +11,7 @@ active_end: "مستمر"
 edges:
   - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
 related:
-  - id: "thk-abeck", title: "أرون ت. بيك", type: "مفكر"
+  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
   - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
   - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
   - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"

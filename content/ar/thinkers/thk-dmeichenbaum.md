@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
-  - id: "thk-abeck", title: "أَرون بِك", type: "مفكر"
+  - id: "thk-beck", title: "أَرون بِك", type: "مفكر"
   - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

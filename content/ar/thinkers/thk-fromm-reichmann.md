@@ -12,7 +12,7 @@ country: "ألمانيا / أمريكا"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-harrystack-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
   - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
   - id: "thk-cthompson", title: "كلارا تومسون", type: "مفكر"
 gaps:

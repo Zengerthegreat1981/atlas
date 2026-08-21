@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
-  - id: "thk-phaley", title: "بول واتزلاويك", type: "مفكر"
+  - id: "thk-jhaley", title: "بول واتزلاويك", type: "مفكر"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً."
   - "عمله مع Paul Watzlawick منذ 1987 يستحق توثيقاً."

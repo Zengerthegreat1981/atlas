@@ -11,7 +11,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
-  - id: "thk-phaley", title: "بول واتزلاويك", type: "مفكر"
+  - id: "thk-jhaley", title: "بول واتزلاويك", type: "مفكر"
   - id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
 gaps:
   - "التمييز الدقيق بين 'Strategic' و'Tactical' في النموذج المعاصر يستحق مراجعة."

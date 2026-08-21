@@ -13,9 +13,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "تحليل السلوك التطبيقي للتوحد (br-aba-autism)", target_type: "مدرسة"
-related: []
+related:
+  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+  - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
+  - id: "thk-donbaer", title: "دونالد باير", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "ملاحظة مراجعة: يوجد ملف آخر لنفس الشخص بعنوان مختلف قليلاً (thk-ilovaas، id THK-1196) — تكرار حي يحتاج قرار بشري صريح لدمج/حذف أحد الملفين، لم يُلمس هذا القرار هنا."
   - "تم تصحيح active_start/active_end (كانا 1965/2005) بعد تعارض بين نسختين: بحث خارجي أكّد بدء عمله في UCLA عام 1961 وتأسيسه لعيادة UCLA عام 1962، ووفاته عام 2010 — راجع Autism History Project و Wikipedia."
 ---
 

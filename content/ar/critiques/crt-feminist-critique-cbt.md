@@ -11,7 +11,7 @@ active_end: "مستمر"
 edges:
   - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
 related:
-  - id: "thk-abeck", title: "أرون ت. بيك", type: "مفكر"
+  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
   - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
   - id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
   - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"

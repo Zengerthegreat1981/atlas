@@ -14,7 +14,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-harrystack-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "دليل فاندربيلت للعلاج النفسي والدراسات التجريبية لهانز ستروب (Hans Strupp) وجيفري بيندر (Jeffrey Binder)."

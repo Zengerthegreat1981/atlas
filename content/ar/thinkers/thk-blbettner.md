@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-dreikurs", title: "رودولف درايكرز", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
   - id: "thk-blbettner", title: "بيتي لو بيتنر", type: "مفكر"
   - id: "thk-edferguson", title: "إيفا درايكرز فيرغوسون", type: "مفكر"
 gaps:

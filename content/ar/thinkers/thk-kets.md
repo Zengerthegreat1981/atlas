@@ -12,7 +12,7 @@ language: "الإنجليزية / الهولندية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-dreikurs", title: "رودولف درايكرز", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
   - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

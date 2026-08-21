@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
   - id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
-  - id: "thk-harrystack-sullivan", title: "هاري سوليفان", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

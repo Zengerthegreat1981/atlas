@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
   - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-  - id: "thk-abeck", title: "أَرون بِك", type: "مفكر"
+  - id: "thk-beck", title: "أَرون بِك", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مواقفه من العرق (Eysenck vs. Eysenck) — موضع جدل مستمرّ."
