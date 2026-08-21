@@ -1,5 +1,5 @@
 ---
-slug: "con-past-life-concept-shorter"
+slug: "con-cross-cultural-meditation"
 id: "[DRAFT-UNKNOWN]"
 type: "مفهوم"
 level: "مبتدئ"

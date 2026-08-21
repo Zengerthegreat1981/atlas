@@ -12,7 +12,7 @@ active_end: 100
 edges:
   - rel: "belongs_to", target: "هوانغ-لاو", target_type: "مدرسة"
 related:
-  - id: "sch-huang-lao", title: "هوانغ-لاو", target_type: "مدرسة"
+  - id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
   - id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل", type: "مفهوم"
   - id: "con-fa", title: "الفا (法) — القانون الموضوعي", type: "مفهوم"
 gaps:

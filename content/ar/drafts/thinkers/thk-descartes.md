@@ -17,7 +17,7 @@ edges:
   - rel: "belongs_to", target: "العقلانية القارية", target_type: "مدرسة"
 related:
   - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-  - id: "sch-continental-rationalism", title: "العقلانية القارية", target_type: "مدرسة"
+  - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
   - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
   - id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
 gaps:

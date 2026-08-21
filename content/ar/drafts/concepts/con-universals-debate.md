@@ -16,7 +16,7 @@ related:
   - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
   - id: "sch-realism-medieval", title: "الواقعية (في جدل الكليات الوسيط)", type: "مدرسة"
   - id: "sch-conceptualism", title: "التصورية (Conceptualism)", type: "مدرسة"
-  - id: "sch-ockhamism", title: "الأوكامية / الاسمية", target_type: "مدرسة"
+  - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
 gaps:
   - "المواقف الثلاثة قد تتداخل في كتابات المفكرين، والتصنيف الصارم موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق متاح."

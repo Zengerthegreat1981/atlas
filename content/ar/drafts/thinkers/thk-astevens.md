@@ -1,5 +1,5 @@
 ---
-slug: "thk-anth"
+slug: "thk-astevens"
 id: "[DRAFT-UNKNOWN]"
 type: "مفكر"
 level: "متوسط"

@@ -1,5 +1,5 @@
 ---
-slug: "thk-cmohanty"
+slug: "thk-mohanty"
 id: "[DRAFT-UNKNOWN]"
 type: "مفكر"
 part: "philosophy"

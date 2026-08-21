@@ -23,12 +23,15 @@ OUTPUT = os.path.join(ATLAS_ROOT, "content", "ar", "drafts", "EXISTING_SLUGS.md"
 DRAFTS_ROOT = os.path.join(ATLAS_ROOT, "content", "ar", "drafts")
 
 TYPE_ORDER = [
-    "مفكر", "مفهوم", "عمل / كتاب", "جدل", "تيار", "علاقة بين مدرستين",
+    "مفكر", "مفهوم", "عمل / كتاب", "جدل", "تيار", "مدرسة", "علاقة بين مدرستين",
     "سياق/تقليد", "أداة قياس", "اضطراب/حالة إكلينيكية", "تقنية/تدخل علاجي",
     "دراسة وبحث", "حدث تاريخي", "مصطلح لغوي متنازع عليه", "نقد خارجي موثَّق",
     "خبرة معيشة", "استعارة/مجاز مؤسِّس", "بديهية/مبدأ تأسيسي", "سؤال مولِّد",
-    "حوار مع مدرسة مجاورة", "متلازمة",
+    "حوار مع مدرسة مجاورة", "متلازمة", "نظام تصنيف",
 ]
+# ملاحظة 2026-08-21: "مدرسة" كانت ناقصة من هنا — ده كان بيخفي كل ملفات schools/ (333 ملف وقت
+# الاكتشاف) عن EXISTING_SLUGS.md تمامًا (مش حتى في قسم "أخرى" — التكرار بيتفلتر بصمت في build()،
+# راجع تحت). اتصلح بعد ما MiniMax اكتشف المشكلة أثناء شغل contexts.
 
 
 def build_draft_nodes():
@@ -87,6 +90,19 @@ def build():
         lines.append("")
         for slug, title, status in items:
             lines.append(f"- `{slug}` — {title} — {status}")
+        lines.append("")
+
+    # شبكة أمان: أي نوع مش مذكور في TYPE_ORDER (بادئة جديدة، أو خطأ إملائي في حقل type) يظهر هنا
+    # بدل ما يختفي بصمت زي ما حصل مع "مدرسة" — لو الملف ده فضل فاضي فترة طويلة، ده دليل صحة كويس.
+    unknown_types = sorted(set(by_type) - set(TYPE_ORDER))
+    if unknown_types:
+        lines.append("## ⚠️ أنواع غير مسجَّلة في TYPE_ORDER (يحتاج مراجعة عاجلة)")
+        lines.append("")
+        for t in unknown_types:
+            items = sorted(by_type.get(t, []))
+            lines.append(f"### {t} ({len(items)})")
+            for slug, title, status in items:
+                lines.append(f"- `{slug}` — {title} — {status}")
         lines.append("")
 
     with open(OUTPUT, "w", encoding="utf-8") as f:

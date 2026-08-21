@@ -15,7 +15,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "هوانغ-لاو", target_type: "مدرسة"
 related:
-  - id: "sch-huang-lao", title: "هوانغ-لاو", target_type: "مدرسة"
+  - id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
   - id: "con-wuwei-huanglao", title: "الوو وي السياسي (عدم الفعل الإداري) في هوانغ-لاو", type: "مفهوم"
 gaps:
   - "الفصل بين النصوص 'الأصلية' و'اللاحقة' في مجموعة Mawangdui لم يُحلّ في هذا الملف."

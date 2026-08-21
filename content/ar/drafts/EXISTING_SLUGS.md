@@ -1343,7 +1343,6 @@
 - `thk-nkrumah` — كوامي نكروما — 🕓 مسودة
 - `thk-nlehrman` — ناثانئيل لِرمان — 🕓 مسودة
 - `thk-nmanganyi` — نْيلسون مَغَنْي — 🕓 مسودة
-- `thk-nmiller` — ويليام ميلر (William R. Miller) — 🕓 مسودة
 - `thk-norman-vincent-peale` — نورمان فنسنت بيل — 🕓 مسودة
 - `thk-novaco` — ريموند و. نوفاكو — 🕓 مسودة
 - `thk-nozick` — روبرت نوزيك — 🕓 مسودة
@@ -1888,6 +1887,7 @@
 - `thk-wkroger` — وليام كروغر — 🕓 مسودة
 - `thk-wmasters` — وليام ماسترز — 🕓 مسودة
 - `thk-wmetzger` — فولفغانغ ميتزغر — 🕓 مسودة
+- `thk-wmiller` — ويليام ميلر (William R. Miller) — 🕓 مسودة
 - `thk-wmischel` — والتَر ميشيل — 🕓 مسودة
 - `thk-wmuller` — فِرنَر مولَر — 🕓 مسودة
 - `thk-wolf` — إرنست وولف — 🕓 مسودة
@@ -2020,6 +2020,7 @@
 - `con-cosmopolitanism` — المواطنة الكونية (الكوزموبوليتية) — 🕓 مسودة
 - `con-creative-block` — الانسداد الإبداعي — 🕓 مسودة
 - `con-critical-liberation-therapy` — العلاج النقدي-التحرري — 🕓 مسودة
+- `con-cross-cultural-meditation` — التأمل العلاجي عبر-الثقافي — 🕓 مسودة
 - `con-cross-cultural-psychoanalysis` — التحليل النفسي العابر للثقافات — 🕓 مسودة
 - `con-cultural-complex` — المركّب الثقافي والظلال الجمعية — 🕓 مسودة
 - `con-cultural-psychoanalysis` — التحليل النفسي الثقافي — 🕓 مسودة
@@ -2171,7 +2172,6 @@
 - `con-matching-law` — قانون التطابق — 🕓 مسودة
 - `con-maya-vedanta` — مايا (الوهم الفلسفي / الظهور الكوني) — 🕓 مسودة
 - `con-meaning` — المعنى واللامعنى — ✅ معتمد
-- `con-mediterranean-emotion-regulation` — التأمل العلاجي عبر-الثقافي — 🕓 مسودة
 - `con-melammu` — ميلمو (البهاء الإلهي) — 🕓 مسودة
 - `con-mentalization` — الانعكاس الذهني (Mentalization) — 🕓 مسودة
 - `con-mere-exposure-effect` — تأثير التعرض المحض (الألفة والانجذاب عبر التكرار) — 🕓 مسودة
@@ -2838,6 +2838,342 @@
 - `br-vegetotherapy-orgonomy` — العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية) — 🕓 مسودة
 - `br-vr-therapy` — العلاج بالواقع الافتراضي — 🕓 مسودة
 
+## مدرسة (333)
+
+- `sch-abhidharma` — مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا) — 🕓 مسودة
+- `sch-absurdism` — العبثية (Absurdism / Le Mythe de Sisyphe) — 🕓 مسودة
+- `sch-academic-skepticism` — الشك الأكاديمي (Academic Skepticism) — 🕓 مسودة
+- `sch-academy-platonic` — الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية) — 🕓 مسودة
+- `sch-acintya-bhedabheda` — أتشينتيا بيدا أبيدا (تشايتانية) — 🕓 مسودة
+- `sch-adat` — أدات (العرف الفلسفي في إندونيسيا وماليزيا) — 🕓 مسودة
+- `sch-advaita-vedanta` — أدفايتا فيدانتا (اللاتثنية) — 🕓 مسودة
+- `sch-african-cross-cultural` — الفلسفة الأفريقية بين-الثقافية — 🕓 مسودة
+- `sch-african-decolonial` — الفلسفة الأفريقية الديكولونيالية — 🕓 مسودة
+- `sch-african-hermeneutical` — الفلسفة الأفريقية التأويلية — 🕓 مسودة
+- `sch-african-national-ideology` — الفلسفة الوطنية-الأيديولوجية الأفريقية — 🕓 مسودة
+- `sch-african-professional-philosophy` — الفلسفة الأفريقية المهنية/الأكاديمية — 🕓 مسودة
+- `sch-african-socialism` — الاشتراكية الأفريقية — 🕓 مسودة
+- `sch-afrocentrism` — أفريقية المركز (Afrocentrism) — 🕓 مسودة
+- `sch-afrofeminism` — الفلسفة الأفريقية النسوية — 🕓 مسودة
+- `sch-afropessimism` — الأفروبيسيميزم (Afropessimism) — 🕓 مسودة
+- `sch-ai-ethics` — أخلاقيات الذكاء الاصطناعي — 🕓 مسودة
+- `sch-ajivika` — آجيفيكا (القدرية الهندية) — 🕓 مسودة
+- `sch-ajnanavada` — أجنانا (الشك الشرامني) — 🕓 مسودة
+- `sch-akan` — فلسفة الأكان (غانا) — 🕓 مسودة
+- `sch-akbari` — المدرسة الأكبرية — 🕓 مسودة
+- `sch-ambedkar-philosophy` — الأمبيدكارية (نقد الطبقية والفلسفة الدستورية) — 🕓 مسودة
+- `sch-american-idealism` — المثالية الأمريكية — 🕓 مسودة
+- `sch-analytic-metaphysics` — الميتافيزيقا التحليلية المعاصرة — 🕓 مسودة
+- `sch-anarchism` — الأناركية الكلاسيكية — 🕓 مسودة
+- `sch-anarchism-contemporary` — الفوضوية المعاصرة — 🕓 مسودة
+- `sch-andalusian-philosophy` — الفلسفة الأندلسية (الرشدية الإسلامية) — 🕓 مسودة
+- `sch-andean-philosophy` — الفلسفة الأنديزية (كيتشوا-أيمارا؛ آيني، سومَك كاوساي) — 🕓 مسودة
+- `sch-animal-liberation` — أخلاقيات الحيوان / فلسفة تحرير الحيوان — 🕓 مسودة
+- `sch-apophatic` — اللاهوت السلبي / الأبوفاتي — 🕓 مسودة
+- `sch-arab-renaissance` — النهضة العربية (كتيار فلسفي-إصلاحي) — 🕓 مسودة
+- `sch-arielismo` — فلسفة الهوية اللاتينية الأمريكية (الأرييلية) — 🕓 مسودة
+- `sch-aristotelianism` — المشائية / الأرسطية (Aristotelianism) — 🕓 مسودة
+- `sch-arya-samaj` — آريا ساماج — 🕓 مسودة
+- `sch-ashariyya` — الأشعرية — 🕓 مسودة
+- `sch-athariyya` — الأثرية الكلامية — 🕓 مسودة
+- `sch-atomism-greek` — الذرية اليونانية (Greek Atomism) — 🕓 مسودة
+- `sch-augustinianism` — الأوغسطينية — 🕓 مسودة
+- `sch-aurobindo` — فلسفة أوروبندو (اليوغا التكاملية) — 🕓 مسودة
+- `sch-berkeleianism` — المثالية الذاتية البركلية — 🕓 مسودة
+- `sch-bhakti-movement` — حركة البهاكتي الفلسفية — 🕓 مسودة
+- `sch-bhedabheda` — بيدابيدا (دفايتادفايتا) — 🕓 مسودة
+- `sch-black-existentialism` — الوجودية السوداء — 🕓 مسودة
+- `sch-bon` — البون (التقليد الديني التبت الأصلي) — 🕓 مسودة
+- `sch-bowen-ferrer-vivir` — فلسفة بوين فيفير / سومَك كاوساي (المعاصرة) — 🕓 مسودة
+- `sch-brahmo-samaj` — براهمو ساماج — 🕓 مسودة
+- `sch-british-empiricism` — التجريبية البريطانية (كمظلة) — 🕓 مسودة
+- `sch-british-idealism` — المثالية البريطانية — 🕓 مسودة
+- `sch-buddhism-early` — البوذية المبكرة — 🕓 مسودة
+- `sch-buddhist-modernism` — البوذية الحداثية — 🕓 مسودة
+- `sch-byzantine` — الفلسفة البيزنطية — 🕓 مسودة
+- `sch-care-ethics` — أخلاقيات الرعاية (Care Ethics) — 🕓 مسودة
+- `sch-caribbean-philosophy` — فلسفة الكاريبي (الهوية والكريولية) — 🕓 مسودة
+- `sch-cartesianism` — الديكارتية — 🕓 مسودة
+- `sch-chan` — تشان (الصينية) — 🕓 مسودة
+- `sch-chartres` — مدرسة شارتر — 🕓 مسودة
+- `sch-charvaka` — شارفاكا / لوكاياتا (المادية الهندية) — 🕓 مسودة
+- `sch-chinese-liberalism-modern` — الليبرالية الصينية الحديثة — 🕓 مسودة
+- `sch-chinese-marxism` — الماركسية الصينية / الماوية — 🕓 مسودة
+- `sch-christian-mysticism-medieval` — التصوّف المسيحي الوسيط — 🕓 مسودة
+- `sch-civic-republicanism` — الجمهورية المدنية (Civic Republicanism) — 🕓 مسودة
+- `sch-classical-liberalism-early` — الليبرالية الكلاسيكية المبكرة — 🕓 مسودة
+- `sch-communitarianism` — الجماعاتية — 🕓 مسودة
+- `sch-comparative-philosophy` — الفلسفة المقارنة — 🕓 مسودة
+- `sch-comtian-positivism` — الوضعية / الكومتية — 🕓 مسودة
+- `sch-conceptualism` — التصورية (Conceptualism) — 🕓 مسودة
+- `sch-confucian-early` — الكونفوشية المبكرة — 🕓 مسودة
+- `sch-conservatism-philosophical` — المحافظية الفلسفية — 🕓 مسودة
+- `sch-continental-rationalism` — العقلانية القارية (كمظلة) — 🕓 مسودة
+- `sch-contractualism` — التعاقدية/التعاقدانية الأخلاقية الحديثة — 🕓 مسودة
+- `sch-cosmopolitanism` — الكوزموبوليتية الفلسفية — 🕓 مسودة
+- `sch-critical-realism` — الواقعية النقدية — 🕓 مسودة
+- `sch-cynicism` — الكلبية (Cynicism) — 🕓 مسودة
+- `sch-cyrenaic` — المدرسة القورينائية (Cyrenaic School) — 🕓 مسودة
+- `sch-daoism-philosophical` — الداووية الفلسفية — 🕓 مسودة
+- `sch-daoism-religious` — الداووية الدينية — 🕓 مسودة
+- `sch-decolonial-latin` — الفلسفة الديكولونيالية اللاتينية الأمريكية — 🕓 مسودة
+- `sch-decolonial-philosophy` — الفلسفة الديكولونيالية (كمظلة عالمية) — 🕓 مسودة
+- `sch-deconstruction` — التفكيكية (Déconstruction) — 🕓 مسودة
+- `sch-deep-ecology` — الإيكولوجيا العميقة — 🕓 مسودة
+- `sch-deism` — الربوبية (Deism) — 🕓 مسودة
+- `sch-deliberative-democracy` — الديمقراطية التداولية — 🕓 مسودة
+- `sch-dependency-theory` — نظرية التبعية — 🕓 مسودة
+- `sch-dogon` — فلسفة الدوجون (مالي) — 🕓 مسودة
+- `sch-donghak` — دونغهاك / تشوندوغيو — 🕓 مسودة
+- `sch-dreamtime` — Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين) — 🕓 مسودة
+- `sch-dvaita-vedanta` — دفايتا فيدانتا (التثنية) — 🕓 مسودة
+- `sch-eclecticism` — الانتقائية الهلنستية-الرومانية (Hellenistic-Roman Eclecticism) — 🕓 مسودة
+- `sch-ecofeminism` — النسوية البيئية (Ecofeminism) — 🕓 مسودة
+- `sch-egyptian-maat` — تقليد الحكمة المصرية (ماعت) — 🕓 مسودة
+- `sch-eleatic` — المدرسة الإيلية (Eleatic School) — 🕓 مسودة
+- `sch-engaged-buddhism` — البوذية المنخرطة اجتماعياً — 🕓 مسودة
+- `sch-enlightenment` — فلسفة التنوير (كمظلة عامة) — 🕓 مسودة
+- `sch-environmental-ethics` — فلسفة البيئة / الأخلاق البيئية — 🕓 مسودة
+- `sch-epicureanism` — الأبيقورية (Epicureanism) — 🕓 مسودة
+- `sch-ethiopian-hataata` — الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا) — 🕓 مسودة
+- `sch-ethnophilosophy` — الإثنوفلسفة — 🕓 مسودة
+- `sch-existentialism` — الوجودية (Existentialism) — 🕓 مسودة
+- `sch-existentialism-atheist` — الوجودية الملحدة (Atheist Existentialism) — 🕓 مسودة
+- `sch-existentialism-religious` — الوجودية الدينية/المسيحية (Christian Existentialism) — 🕓 مسودة
+- `sch-experimental-philosophy` — الفلسفة التجريبية (X-Phi) — 🕓 مسودة
+- `sch-faxiang` — فاشيانغ (يوغاكارا الصينية) — 🕓 مسودة
+- `sch-feminism-black` — النسوية السوداء — 🕓 مسودة
+- `sch-feminism-existential` — النسوية الوجودية — 🕓 مسودة
+- `sch-feminism-french-poststructural` — النسوية الفرنسية (ما بعد بنيوية) — 🕓 مسودة
+- `sch-feminism-liberal` — النسوية الليبرالية — 🕓 مسودة
+- `sch-feminism-marxist` — النسوية الماركسية / الاشتراكية — 🕓 مسودة
+- `sch-feminism-phenomenological` — النسوية الظاهراتية — 🕓 مسودة
+- `sch-feminism-postcolonial` — النسوية ما بعد الاستعمار — 🕓 مسودة
+- `sch-feminism-radical` — النسوية الراديكالية — 🕓 مسودة
+- `sch-fichte` — الفيختية — 🕓 مسودة
+- `sch-formal-phil-language` — فلسفة اللغة المثالية/الشكلية المعاصرة — 🕓 مسودة
+- `sch-frankfurt-school` — النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule) — 🕓 مسودة
+- `sch-functionalism` — الوظيفية (فلسفة العقل) — 🕓 مسودة
+- `sch-gandhianism` — الغاندية (كفلسفة سياسية-أخلاقية) — 🕓 مسودة
+- `sch-gelug` — غيلوغ (البوذية التبتية) — 🕓 مسودة
+- `sch-german-idealism` — المثالية الألمانية (كمظلة) — 🕓 مسودة
+- `sch-gnosticism` — الغنوصية القديمة (بفروعها) — 🕓 مسودة
+- `sch-hasidic` — الحسيدية الفلسفية — 🕓 مسودة
+- `sch-haskalah` — هَسْكَلاة (التنوير اليهودي) — 🕓 مسودة
+- `sch-haudenosaunee` — فلسفات الهاودينوسوني/الإيروكوا — 🕓 مسودة
+- `sch-hebrew-wisdom` — تقليد الحكمة العبرية القديمة — 🕓 مسودة
+- `sch-hegel-left` — الهيغلية اليسارية / هيغليو الشباب — 🕓 مسودة
+- `sch-hegel-right` — الهيغلية اليمينية — 🕓 مسودة
+- `sch-hegelianism` — الهيغلية — 🕓 مسودة
+- `sch-heraclitean` — الهيراقليطية (Heraclitean Thought) — 🕓 مسودة
+- `sch-hermeneutics` — الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik) — 🕓 مسودة
+- `sch-hermeneutics-critical` — الهرمنيوطيقا النقدية (Critical Hermeneutics) — 🕓 مسودة
+- `sch-hermeticism` — الهرمسية — 🕓 مسودة
+- `sch-hindutva` — الفلسفة الهندوسية القومية (هندوتفا) — 🕓 مسودة
+- `sch-huang-lao` — هوانغ-لاو (Huang-Lao) — 🕓 مسودة
+- `sch-huayan` — هوايان (الصينية) — 🕓 مسودة
+- `sch-humeanism` — الهيومية (الشكّ التجريبي) — 🕓 مسودة
+- `sch-ibadi-kalam` — الكلام الإباضي — 🕓 مسودة
+- `sch-ifa` — تقاليد اليوروبا الفلسفية (Ifá) — 🕓 مسودة
+- `sch-ikhwan-safa` — إخوان الصفا — 🕓 مسودة
+- `sch-imami-kalam` — الكلام الإمامي الاثنا عشري — 🕓 مسودة
+- `sch-indigenismo` — الإنديجينيزمو — 🕓 مسودة
+- `sch-indigenous-philosophy-contemporary` — فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق) — 🕓 مسودة
+- `sch-intercultural-philosophy` — الفلسفة بين-الثقافية — 🕓 مسودة
+- `sch-interculturalidad` — فلسفة العبور الثقافي (Interculturalidad) — 🕓 مسودة
+- `sch-intersectionality` — النسوية التقاطعية — 🕓 مسودة
+- `sch-isfahan` — مدرسة أصفهان الفلسفية — 🕓 مسودة
+- `sch-ishraqiyya` — الإشراقية — 🕓 مسودة
+- `sch-islamic-critical-thought` — الفكر الإسلامي النقدي المعاصر — 🕓 مسودة
+- `sch-islamic-feminism` — النسوية الإسلامية — 🕓 مسودة
+- `sch-islamic-peripatetic` — الفلسفة المشائية الإسلامية — 🕓 مسودة
+- `sch-islamic-reform` — الإصلاحية الإسلامية (النهضة) — 🕓 مسودة
+- `sch-ismaili` — الفلسفة الإسماعيلية — 🕓 مسودة
+- `sch-jainism` — الجاينية الفلسفية — 🕓 مسودة
+- `sch-jodo-shinshu` — جودو شينشو — 🕓 مسودة
+- `sch-jonang` — جونانغ (شينتونغ) — 🕓 مسودة
+- `sch-judaism-andalusian` — الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية) — 🕓 مسودة
+- `sch-judaism-existential` — الفلسفة اليهودية الوجودية/الحوارية — 🕓 مسودة
+- `sch-judaism-hellenistic` — الفلسفة اليهودية الهلنستية (الإسكندرانية) — 🕓 مسودة
+- `sch-judaism-reform` — اليهودية الإصلاحية (كتيار فكري) — 🕓 مسودة
+- `sch-kabbalah` — القبّالة (كتيار فلسفي-رمزي) — 🕓 مسودة
+- `sch-kabbalah-lurianic` — القبّالة اللوريانية — 🕓 مسودة
+- `sch-kagyu` — كاغيو (البوذية التبتية) — 🕓 مسودة
+- `sch-kant-critical` — الكانطية النقدية — 🕓 مسودة
+- `sch-kantian-ethics-contemporary` — الكانطية الأخلاقية المعاصرة — 🕓 مسودة
+- `sch-kaozheng` — التعلم الإثباتي (Kaozheng / Evidential Learning) — 🕓 مسودة
+- `sch-karaite` — القرائية الفلسفية — 🕓 مسودة
+- `sch-kashmir-shaivism` — الشايفية الكشميرية (ترِكا) — 🕓 مسودة
+- `sch-kaupapa-maori` — Kaupapa Māori (فلسفة الماوري) — 🕓 مسودة
+- `sch-kierkegaardian` — الكيركغاردية (الوجودية المبكرة الدينية) — 🕓 مسودة
+- `sch-kogaku` — كوغاكو (التعلم القديم / الكونفوشية اليابانية) — 🕓 مسودة
+- `sch-kokugaku` — كوكوغاكو (الدراسات الوطنية اليابانية) — 🕓 مسودة
+- `sch-korean-neoconfucian` — النيوكونفوشية الكورية — 🕓 مسودة
+- `sch-kyoto` — مدرسة كيوتو — 🕓 مسودة
+- `sch-latin-averroism` — الرشدية اللاتينية — 🕓 مسودة
+- `sch-lebensphilosophie` — فلسفة الحياة (Lebensphilosophie) — 🕓 مسودة
+- `sch-legalism` — الشرعية / القانونية (Fajia) — 🕓 مسودة
+- `sch-leibnizianism` — اللايبنتزية — 🕓 مسودة
+- `sch-liberation-philosophy` — فلسفة التحرير اللاتينية الأمريكية — 🕓 مسودة
+- `sch-libertarianism` — الليبرتارية — 🕓 مسودة
+- `sch-lixue` — مدرسة المبدأ (Lixue / Cheng-Zhu) — 🕓 مسودة
+- `sch-lockeanism` — اللوكية (اللوكية التجريبية) — 🕓 مسودة
+- `sch-logical-atomism` — الذرية المنطقية — 🕓 مسودة
+- `sch-madhyamaka` — مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا) — 🕓 مسودة
+- `sch-mahasanghika` — الماهاسامغيكا — 🕓 مسودة
+- `sch-manicheism` — المانوية — 🕓 مسودة
+- `sch-marxism` — الماركسية الكلاسيكية — 🕓 مسودة
+- `sch-marxism-humanist` — الماركسية الإنسانية (Humanist Marxism / Marxisme humaniste) — 🕓 مسودة
+- `sch-marxism-structuralist` — الماركسية البنيوية (Structuralist Marxism / Marxisme structuraliste) — 🕓 مسودة
+- `sch-maturidiyya` — الماتريدية — 🕓 مسودة
+- `sch-maya-philosophy` — الفلسفة الماياوية — 🕓 مسودة
+- `sch-mazdakism` — المزدكية — 🕓 مسودة
+- `sch-megarian` — المدرسة الميغارية (Megarian School) — 🕓 مسودة
+- `sch-mesopotamian-wisdom` — تقليد الحكمة الرافدية — 🕓 مسودة
+- `sch-mestizaje` — فلسفة الهجنة / المِستيساخي — 🕓 مسودة
+- `sch-middle-platonism` — الأفلاطونية الوسطى (Middle Platonism) — 🕓 مسودة
+- `sch-milesian` — المدرسة الميليسية (ما قبل سقراط الطبيعية) — 🕓 مسودة
+- `sch-military-chinese` — المدرسة العسكرية الصينية (Bingjia) — 🕓 مسودة
+- `sch-mimamsa` — ميمامسا (بورفا ميمامسا) — 🕓 مسودة
+- `sch-mingjia` — مدرسة الأسماء / المنطقيون (Mingjia) — 🕓 مسودة
+- `sch-mitogaku` — ميتوغاكو (السينولوجيا اليابانية) — 🕓 مسودة
+- `sch-mohism` — الموهية (Mohism / Mojia) — 🕓 مسودة
+- `sch-mutazila` — المعتزلة — 🕓 مسودة
+- `sch-nahua-aztec` — فلسفة الناهوا/الأزتك (مفهوم تيوتل) — 🕓 مسودة
+- `sch-nationalism-philosophical` — القومية الفلسفية — 🕓 مسودة
+- `sch-navayana` — بوذية نافايانا (البوذية الجديدة الهندية) — 🕓 مسودة
+- `sch-navya-nyaya` — نيايا الجديدة (نافيا-نيايا) — 🕓 مسودة
+- `sch-negritude` — الزنوجة (Négritude) — 🕓 مسودة
+- `sch-neo-vedanta` — نيو-فيدانتا (الفيدانتا الحديثة) — 🕓 مسودة
+- `sch-neoconfucianism` — الكونفوشية الجديدة (مظلة) — 🕓 مسودة
+- `sch-neohinduism` — الهندوسية الجديدة (إصلاح القرن 19) — 🕓 مسودة
+- `sch-neokantian` — الكانطية الجديدة (ماربورغ وبادن) — 🕓 مسودة
+- `sch-neoplatonism` — الأفلاطونية المحدثة (Neoplatonism) — 🕓 مسودة
+- `sch-neopragmatism` — البراغماتية الجديدة — 🕓 مسودة
+- `sch-new-materialism` — المادية الجديدة (New Materialism) — 🕓 مسودة
+- `sch-new-realism` — الواقعية الجديدة (البريطانية-الأمريكية المبكرة) — 🕓 مسودة
+- `sch-newconfucianism-modern` — الكونفوشية الجديدة الحديثة (Modern New Confucianism) — 🕓 مسودة
+- `sch-nichiren` — نيتشيرن — 🕓 مسودة
+- `sch-nietzscheanism` — النيتشوية — 🕓 مسودة
+- `sch-nongjia` — المدرسة الزراعية (Nongjia) — 🕓 مسودة
+- `sch-north-american-indigenous` — فلسفات السكان الأصليين بأمريكا الشمالية (لاكوتا، نافاهو، أوجيبوي… كمظلة) — 🕓 مسودة
+- `sch-nyaya` — نيايا (المنطق الكلاسيكي الهندي) — 🕓 مسودة
+- `sch-nyingma` — نينغما (البوذية التبتية القديمة) — 🕓 مسودة
+- `sch-occasionalism` — الأوكازيونيالية (Occasionalism) — 🕓 مسودة
+- `sch-ockhamism` — الأوكامية / الاسمية — 🕓 مسودة
+- `sch-ooo` — الأنطولوجيا الموجهة نحو الشيء (Object-Oriented Ontology) — 🕓 مسودة
+- `sch-ordinary-language` — فلسفة اللغة العادية — 🕓 مسودة
+- `sch-pan-africanism` — عموم أفريقيا (Pan-Africanism) — 🕓 مسودة
+- `sch-pancasila` — بانتشاسيلا (الفلسفة السياسية الإندونيسية) — 🕓 مسودة
+- `sch-patristics` — الآبائية المسيحية (Patristics) — 🕓 مسودة
+- `sch-personalism` — الفلسفة الشخصية (الشخصانية المبكرة) — 🕓 مسودة
+- `sch-personalism-contemporary` — الشخصانية المعاصرة (Contemporary Personalism) — 🕓 مسودة
+- `sch-pessimism` — التشاؤمية الفلسفية — 🕓 مسودة
+- `sch-phenomenology` — الظاهراتية (Phänomenologie) — 🕓 مسودة
+- `sch-phenomenology-existential` — الظاهراتية الوجودية (Existential Phenomenology) — 🕓 مسودة
+- `sch-phenomenology-hermeneutic` — الظاهراتية التأويلية (Hermeneutic Phenomenology) — 🕓 مسودة
+- `sch-phenomenology-somatic` — الظاهراتية الجسدية (Somatic Phenomenology) — 🕓 مسودة
+- `sch-phil-mathematics` — فلسفة الرياضيات التحليلية — 🕓 مسودة
+- `sch-phil-mind-analytic` — فلسفة العقل التحليلية (كمظلة) — 🕓 مسودة
+- `sch-phil-science` — فلسفة العلم (كمظلة) — 🕓 مسودة
+- `sch-philosophy-of-disability` — فلسفة الإعاقة — 🕓 مسودة
+- `sch-philosophy-of-technology` — فلسفة التكنولوجيا — 🕓 مسودة
+- `sch-political-islam` — الإسلام السياسي (كتيار فكري) — 🕓 مسودة
+- `sch-positivism-latin` — الوضعية اللاتينية (في أمريكا اللاتينية) — 🕓 مسودة
+- `sch-post-kyoto` — ما بعد مدرسة كيوتو — 🕓 مسودة
+- `sch-post-structuralism` — ما بعد البنيوية (Post-structuralisme) — 🕓 مسودة
+- `sch-postcolonial-philosophy` — ما بعد الاستعمار الفلسفي — 🕓 مسودة
+- `sch-posthumanism` — ما بعد الإنسانية (Posthumanism) — 🕓 مسودة
+- `sch-postmodernism-philosophical` — ما بعد الحداثة الفلسفية (Philosophical Postmodernism) — 🕓 مسودة
+- `sch-pragmatism-classical` — البراغماتية الكلاسيكية — 🕓 مسودة
+- `sch-process-philosophy` — فلسفة العملية (Process Philosophy) — 🕓 مسودة
+- `sch-pure-land` — الأرض الطاهرة (جينغتو / جودو) — 🕓 مسودة
+- `sch-pyrrhonism` — الشك البيروني (Pyrrhonian Skepticism) — 🕓 مسودة
+- `sch-pythagorean` — الفيثاغورية (Pythagoreanism) — 🕓 مسودة
+- `sch-queer-theory` — النظرية الكويرية — 🕓 مسودة
+- `sch-quinean-naturalism` — الطبيعانية التحليلية (الكواينية) — 🕓 مسودة
+- `sch-radical-democracy` — الديمقراطية الراديكالية — 🕓 مسودة
+- `sch-rangaku` — رانغاكو (التعلم الهولندي) — 🕓 مسودة
+- `sch-rawlsianism` — الليبرالية السياسية المعاصرة (الرولزية وما بعدها) — 🕓 مسودة
+- `sch-realism-medieval` — الواقعية (في جدل الكليات الوسيط) — 🕓 مسودة
+- `sch-renaissance-humanism` — الإنسانية النهضوية — 🕓 مسودة
+- `sch-renaissance-naturalism` — الطبيعانية النهضوية — 🕓 مسودة
+- `sch-renaissance-neoplatonism` — الأفلاطونية المحدثة في عصر النهضة — 🕓 مسودة
+- `sch-romanticism` — الرومانسية الفلسفية — 🕓 مسودة
+- `sch-sage-philosophy` — فلسفة الحكيم (Sage Philosophy) — 🕓 مسودة
+- `sch-sakya` — ساكيا (البوذية التبتية) — 🕓 مسودة
+- `sch-salafism-modern` — السلفية الكلامية الحديثة — 🕓 مسودة
+- `sch-samkhya` — سامخيا — 🕓 مسودة
+- `sch-sanlun` — سانلون (مادهياماكا الصينية) — 🕓 مسودة
+- `sch-schelling` — الشيلنغية — 🕓 مسودة
+- `sch-scholasticism` — المدرسية (السكولاستية) — كمظلة — 🕓 مسودة
+- `sch-scientific-realism` — الواقعية العلمية / اللاواقعية العلمية — 🕓 مسودة
+- `sch-scotism` — السكوتية — 🕓 مسودة
+- `sch-scottish-common-sense` — فلسفة الحس المشترك الاسكتلندية — 🕓 مسودة
+- `sch-second-scholasticism` — السكولاستية الثانية (إسبانيا، عصر النهضة) — 🕓 مسودة
+- `sch-seon` — سيون الكورية — 🕓 مسودة
+- `sch-shaiva-siddhanta` — شايفا سيدهانتا — 🕓 مسودة
+- `sch-shakta-tantra` — الشاكتية والتانترا الفلسفية — 🕓 مسودة
+- `sch-shingaku` — شينغاكو (تعلم القلب الياباني) — 🕓 مسودة
+- `sch-shingon` — شينغون (البوذية التانترية اليابانية) — 🕓 مسودة
+- `sch-shinto-philosophical` — الشنتو الفلسفي — 🕓 مسودة
+- `sch-shiraz` — مدرسة شيراز الفلسفية — 🕓 مسودة
+- `sch-shramana` — المدارس الشرامنية المبكرة — 🕓 مسودة
+- `sch-shuddhadvaita` — شودهادفايتا — 🕓 مسودة
+- `sch-sikh-philosophy` — السيخية الفلسفية — 🕓 مسودة
+- `sch-sikolohiyang-pilipino` — سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية) — 🕓 مسودة
+- `sch-silhak` — سيلهاك (التعلم العملي الكوري) — 🕓 مسودة
+- `sch-social-contract` — العقد الاجتماعي (كتيار فلسفي سياسي) — 🕓 مسودة
+- `sch-social-darwinism` — الداروينية الاجتماعية — 🕓 مسودة
+- `sch-social-ecology` — الإيكولوجيا الاجتماعية — 🕓 مسودة
+- `sch-sophistry` — السفسطائية (Sophistry) — 🕓 مسودة
+- `sch-speculative-realism` — الواقعية المضاربة (Speculative Realism) — 🕓 مسودة
+- `sch-spinozism` — السبينوزية — 🕓 مسودة
+- `sch-stoicism` — الرواقية (Stoicism) — 🕓 مسودة
+- `sch-structuralism` — البنيوية (Structuralisme) — 🕓 مسودة
+- `sch-tagore-philosophy` — الفلسفة الطاغورية — 🕓 مسودة
+- `sch-tathagatagarbha` — تاثاغاتاغاربها (طبيعة البوذا) — 🕓 مسودة
+- `sch-tendai-japan` — تنداي اليابانية — 🕓 مسودة
+- `sch-theravada` — ثيرافادا — 🕓 مسودة
+- `sch-thomism` — التوماوية — 🕓 مسودة
+- `sch-tiantai` — تيانتاي (الصينية) — 🕓 مسودة
+- `sch-transcendent-theosophy` — الحكمة المتعالية (الملا صدرا) — 🕓 مسودة
+- `sch-transcendentalism` — التجاوزية الأمريكية — 🕓 مسودة
+- `sch-transfeminism` — الترانسفيمينية (نسوية العابرين جنسياً) — 🕓 مسودة
+- `sch-transhumanism` — الإنسانية العابرة (Transhumanism) — 🕓 مسودة
+- `sch-truc-lam` — تروك لام (البوذية الفيتنامية) — 🕓 مسودة
+- `sch-ubuntu` — فلسفة أوبونتو المعاصرة — 🕓 مسودة
+- `sch-ubuntu-traditional` — فلسفة أوبونتو التقليدية — 🕓 مسودة
+- `sch-upanishadic` — الفلسفة الأوبانيشادية — 🕓 مسودة
+- `sch-utilitarianism` — النفعية — 🕓 مسودة
+- `sch-utilitarianism-contemporary` — النفعية المعاصرة — 🕓 مسودة
+- `sch-vaisheshika` — فايشيشيكا — 🕓 مسودة
+- `sch-vajrayana` — فاجرايانا / البوذية التانترية — 🕓 مسودة
+- `sch-vedanta` — فيدانتا (كمظلة) — 🕓 مسودة
+- `sch-vedic` — الفكر الفيدي الطقسي — 🕓 مسودة
+- `sch-victorines` — الفيكتورية — 🕓 مسودة
+- `sch-vienna-circle` — الوضعية المنطقية (حلقة فيينا) — 🕓 مسودة
+- `sch-vietnamese-triple` — الترادف الثلاثي الفيتنامي (Tam Giáo Đồng Nguyên) — 🕓 مسودة
+- `sch-virtue-ethics` — أخلاقيات الفضيلة الجديدة (النيوأرسطية) — 🕓 مسودة
+- `sch-vishishtadvaita` — فيشيشتادفايتا — 🕓 مسودة
+- `sch-wahdat-alshuhud` — وحدة الشهود — 🕓 مسودة
+- `sch-wahdat-alwujud` — العرفان النظري (وحدة الوجود) — 🕓 مسودة
+- `sch-western-marxism` — الماركسية الغربية (Western Marxism) — 🕓 مسودة
+- `sch-xinxue` — مدرسة العقل/القلب (Xinxue / Lu-Wang) — 🕓 مسودة
+- `sch-xuanxue` — شوان شيويه (التعلم الغامض) — 🕓 مسودة
+- `sch-yinyang` — مدرسة الين-يانغ (Naturalists / Yin-Yangjia) — 🕓 مسودة
+- `sch-yoga` — يوغا الفلسفية (باتانجالي) — 🕓 مسودة
+- `sch-yogacara` — يوغاكارا / فيجنانافادا — 🕓 مسودة
+- `sch-zaydi-kalam` — الكلام الزيدي — 🕓 مسودة
+- `sch-zen-rinzai` — زن: رينزاي — 🕓 مسودة
+- `sch-zen-soto` — زن: سوتو — 🕓 مسودة
+- `sch-zonghengjia` — مدرسة الدبلوماسيين (Zonghengjia) — 🕓 مسودة
+- `sch-zoroastrian-philosophy` — الزرادشتية الفلسفية — 🕓 مسودة
+- `sch-zurvanism` — الزروانية — 🕓 مسودة
+- `school-act` — العلاج بالقبول والالتزام (ACT) — 🕓 مسودة
+- `school-cbt` — العلاج المعرفي السلوكي — 🕓 مسودة
+- `school-dbt` — العلاج الجدلي السلوكي (DBT) — 🕓 مسودة
+
 ## علاقة بين مدرستين (32)
 
 - `rel-act` — القبول والالتزام — الجار المحرِج — ✅ معتمد
@@ -3101,6 +3437,7 @@
 ## تقنية/تدخل علاجي (340)
 
 - `tec-abm` — تعديل التحيز الانتباهي (ABM) — 🕓 مسودة
+- `tec-accelerated-resolution-therapy` — العلاج بالحل السريع المعجَّل (ART) — 🕓 مسودة
 - `tec-acceptance-based-bt` — العلاج السلوكي القائم على القبول (ABBT) — 🕓 مسودة
 - `tec-act-acc-creative-hopelessness` — اليأس الخلّاق — 🕓 مسودة
 - `tec-act-acc-dropping-the-struggle` — إسقاط الصراع (مفتاح الصراع) — 🕓 مسودة
@@ -3154,7 +3491,6 @@
 - `tec-alexander-technique` — تقنية ألكسندر للوعي الحركي والوضعية — 🕓 مسودة
 - `tec-animal-assisted-therapy` — العلاج بمساعدة الحيوانات (AAT) — 🕓 مسودة
 - `tec-anti-oppressive-practice` — الممارسة المناهضة للاضطهاد (AOP) — 🕓 مسودة
-- `tec-art-therapy` — العلاج بالحل السريع المعجَّل (ART) — 🕓 مسودة
 - `tec-authentic-movement` — الحركة الأصيلة — 🕓 مسودة
 - `tec-beck-cognitive-therapy` — العلاج المعرفي الكلاسيكي لبيك — 🕓 مسودة
 - `tec-bedwetting-alarm` — منبّه التبوّل الليلي (Bedwetting Alarm) — 🕓 مسودة
@@ -3888,3 +4224,8 @@
 - `syn-wind-illness-trung-gio` — متلازمة ترونغ جيو (ضربة الريح والاعتلال الجسدي في فيتنام) — 🕓 مسودة
 - `syn-wind-turbine-infrasound` — متلازمة توربينات الرياح والأصوات دون السمعية — 🕓 مسودة
 - `syn-zar` — متلازمة الزار (طقس التلبس والاضطراب التفارقي في شمال إفريقيا) — 🕓 مسودة
+
+## نظام تصنيف (2)
+
+- `classification-dsm-5-tr` — الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR) — 🕓 مسودة
+- `classification-icd-11` — التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11) — 🕓 مسودة

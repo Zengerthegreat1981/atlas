@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "التعلّم الإثباتي (كاوتشنغ)", target_type: "مدرسة"
 related:
-  - id: "sch-kaozheng", title: "التعلّم الإثباتي (كاوتشنغ)", target_type: "مدرسة"
+  - id: "sch-kaozheng", title: "التعلّم الإثباتي (كاوتشنغ)", type: "مدرسة"
   - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
   - id: "thk-huang-zongxi", title: "هوانغ تسونغ شي", type: "مفكر"
 gaps:

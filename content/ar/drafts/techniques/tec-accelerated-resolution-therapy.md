@@ -1,5 +1,5 @@
 ---
-slug: "tec-art-accelerated"
+slug: "tec-accelerated-resolution-therapy"
 id: "[DRAFT-UNKNOWN]"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"

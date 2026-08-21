@@ -16,7 +16,6 @@ edges:
   - rel: "belongs_to", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
 related:
   - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-  - id: "sch-mutazila", title: "المعتزلة", type_type: "مدرسة"
   - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 gaps:
   - "أعماله الكثيرة ضاع معظمها، خاصة في الموسيقى والعلوم."

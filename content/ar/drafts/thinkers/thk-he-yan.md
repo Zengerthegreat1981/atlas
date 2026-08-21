@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "شوان شيويه (التعلم الغامض)", target_type: "مدرسة"
 related:
-  - id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", target_type: "مدرسة"
+  - id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
   - id: "thk-wang-bi", title: "وانغ بي", type: "مفكر"
   - id: "thk-wang-xiang", title: "وانغ شيانغ", type: "مفكر"
 gaps:

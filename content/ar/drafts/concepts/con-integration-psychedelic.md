@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
 related:
   - id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفكر"
-  - id: "tec-psychedelic-assisted-therapy", type: "تقنية/تدخل علاجي", title: "العلاج النفسي بمساعدة المواد السيكوديلية"
+  - id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية", type: "تقنية/تدخل علاجي"
 gaps:
   - "الممارسة تستند إلى عمل آي إس إس دي (IASO)، ومجموعات تشيفا (Chacruna Institute)، وأدريان ديبيرنو (Adriana de Berrenguer)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

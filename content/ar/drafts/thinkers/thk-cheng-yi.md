@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "مدرسة المبدأ (لي شوي)", target_type: "مدرسة"
 related:
-  - id: "sch-lixue", title: "مدرسة المبدأ (لي شوي)", target_type: "مدرسة"
+  - id: "sch-lixue", title: "مدرسة المبدأ (لي شوي)", type: "مدرسة"
   - id: "thk-cheng-hao", title: "تشنغ هاو", type: "مفكر"
   - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 gaps:

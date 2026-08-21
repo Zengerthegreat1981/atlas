@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "مدرسة العقل/القلب (زين شوي)", target_type: "مدرسة"
 related:
-  - id: "sch-xinxue", title: "مدرسة العقل/القلب (زين شوي)", target_type: "مدرسة"
+  - id: "sch-xinxue", title: "مدرسة العقل/القلب (زين شوي)", type: "مدرسة"
   - id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
   - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 gaps:

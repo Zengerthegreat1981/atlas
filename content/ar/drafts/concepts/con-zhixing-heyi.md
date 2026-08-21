@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة العقل/القلب (زين شوي)", target_type: "مدرسة"
 related:
-  - id: "sch-xinxue", title: "مدرسة العقل/القلب (زين شوي)", target_type: "مدرسة"
+  - id: "sch-xinxue", title: "مدرسة العقل/القلب (زين شوي)", type: "مدرسة"
   - id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
   - id: "con-liangzhi", title: "الحدس الأخلاقي (良知)", type: "مفهوم"
 gaps:
