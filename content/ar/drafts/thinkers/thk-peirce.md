@@ -21,50 +21,27 @@ related:
   - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 gaps:
   - "الأعمال المبكرة (1859-1867) لم تُراجع بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق من 'Pragmatic Maxim' بعد."
+  - "لا يوجد اقتباس مباشر موثوق من القاعدة البراغماتية بعد."
 ---
 
 # تشارلز ساندرز بيرس
 
-فيلسوف وعالم منطق ورياضيات أمريكي، **مؤسس البراغماتية** (Pragmatism) مع ويليام جيمس، صاغ **«القاعدة البراغماتية»** (Pragmatic Maxim) و**نظرية العلامات** (Semiotica) و**الجدلية** (Synechism).
+فيلسوف وعالم منطق ورياضيات أمريكي، مؤسس البراغماتية (Pragmatism) مع وليام جيمس، وصاحب القاعدة البراغماتية (Pragmatic Maxim) ونظرية العلامات (Semiotics) ومذهب الاستمرارية (Synechism).
 
 ## ما أعطاه
 
-### «كيف نجعل أفكارنا واضحة» (How to Make Our Ideas Clear, 1878)
+في مقاله «كيف نجعل أفكارنا واضحة» (How to Make Our Ideas Clear, 1878)، المنشور في مجلة Popular Science Monthly، صاغ بيرس القاعدة البراغماتية: أن نتصور الآثار العملية التي يمكن أن يحملها موضوع تصورنا، فتصورنا لهذه الآثار هو تصورنا الكامل للموضوع.
 
-مقال في مجلة **«الشعب» (Popular Science Monthly)**. صاغ فيه «**القاعدة البراغماتية**» (Pragmatic Maxim): «**اعتبر ما هي الآثار العملية التي نتصوّر أن موضوع تصوّرنا يحملها. ومن ثمّ، فإن تصوّرنا لهذه الآثار هو تصوّرنا للموضوع**. (Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object.)
+وضع بيرس أيضاً أسس نظرية العلامات، معتبراً العلامة بنية ثلاثية: المُمثِّل (Representamen)، وهو الشيء الذي يؤدي وظيفة العلامة؛ والموضوع (Object) الذي تشير إليه؛ والمُفسِّر (Interpretant)، وهو الأثر الذي تنتجه في الذهن. وقسّم العلامات إلى ثلاثة أنواع: الأيقونة (Icon)، والمؤشر (Index)، والرمز (Symbol).
 
-### نظرية العلامات (Semiotica)
+أما في مذهب الاستمرارية (Synechism)، فرأى أن كل انقطاع ظاهري في الوقائع ناتج عن الإهمال، وأن الحقيقة مستمرة لا متقطعة. ورغم انتسابه إلى البراغماتية، ظل متأثراً بمواقف المدرسة الكلاسيكية الجديدة (Neoclassical Scholasticism).
 
-بيرس **أبو** (أو أحد **مؤسسي**) **نظرية العلامات** (Semiotica): العلامة (Sign) هي **ثلاثية** (Triad):
-- **المُمَثِّل** (Representamen): الشيء الذي يَفعل وظيفة العلامة.
-- **الموضوع** (Object): ما تَشير إليه العلامة.
-- **المُفسِّر** (Interpretant): ما تَنتج في الذهن.
-
-صاغ أيضاً **أنواع العلامات** الثلاثة: **الأيقونة** (Icon)، **المؤشر** (Index)، **الرمز** (Symbol).
-
-### الإحيائية (Synechism) والواقعية المطلقة (Objective Idealism)
-
-الإحيائية: **كل الظواهر المتقطعة** (Discontinuity) **نتاج الإهمال**، فالحقيقة **مستمرة** (Synechism). بيرس، رغم **نسبته** البراغماتية، بقي **متعلقاً** بوجهات نظر **الكلاسيكية الجديدة** (Neoclassical Scholasticism).
-
-## المنطق
-
-- **المنطق العلائقي** (Logic of Relations): في «وصف لمنطق العلاقات» (Description of a Notation for the Logic of Relatives, 1870)، تَأسيس **المنطق العلائقي** الذي **أَثّر** في **فريجه** (Frege).
-- **القياس المنطقي** (Existential Graphs): نظام **ترميز** للقياس المنطقي.
+في المنطق، أسّس بيرس ما يُعرف بمنطق العلاقات (Logic of Relations) في مقاله «وصف لرموز منطق العلاقات» (Description of a Notation for the Logic of Relatives, 1870)، وهو عمل أثّر لاحقاً في فريجه. كما طوّر نظام الرسوم الوجودية (Existential Graphs) لترميز القياس المنطقي.
 
 ## الأثر
 
-- **وليام جيمس** و**جون ديوي**: أعادا قراءة براغماتية بيرس وجَعلاها **فلسفة** (وليس «منهج» فقط).
-- **المنطق المعاصر**: **فريجه** و**راسل** استلهما منطق العلاقات.
-- **ما بعد الحداثة**: **رورتي** و**إمبرسون** أعادا قراءة بيرس.
-- **العلامات**: **أمبرتو إيكو** و**يوليا كريستيفا** و**رولان بارت** استلهموا نظريته.
+أعاد وليام جيمس وجون ديوي قراءة براغماتية بيرس وحوّلاها إلى فلسفة متكاملة لا مجرد منهج. واستلهم فريجه وراسل من منطق العلاقات عنده. وفي القرن العشرين أعاد رورتي قراءته من منظور ما بعد الحداثة، بينما استلهم أمبرتو إيكو ويوليا كريستيفا ورولان بارت نظريته في العلامات.
 
 ## أهم أعماله
 
-- **On a New List of Categories** (1868): فئات جديدة.
-- **Description of a Notation for the Logic of Relatives** (1870): منطق العلاقات.
-- **The Fixation of Belief** (1877): تثبيت المعتقد.
-- **How to Make Our Ideas Clear** (1878): كيف نجعل أفكارنا واضحة.
-- **The Logic of Mathematics in Relation to Education** (1898).
-- **The Harvard Lectures on Pragmatism** (1903): محاضرات هارفارد في البراغماتية.
-- **Collected Papers of Charles Sanders Peirce** (1931-1958، 8 مجلدات، هايتورث ووايز): الأوراق المجمعة.
+On a New List of Categories (1868) · Description of a Notation for the Logic of Relatives (1870) · The Fixation of Belief (1877) · How to Make Our Ideas Clear (1878) · The Logic of Mathematics in Relation to Education (1898) · The Harvard Lectures on Pragmatism (1903) · Collected Papers of Charles Sanders Peirce (1931-1958، ثمانية مجلدات، تحرير هارتسهورن وفايس).
