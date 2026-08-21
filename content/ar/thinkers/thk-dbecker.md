@@ -13,6 +13,8 @@ active_start: 1995
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
+related:
+  - id: "thk-rdrake", title: "روبرت دريك", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,6 +14,9 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الفيدي (المستند إلى الفيد)", target_type: "مدرسة"
 related:
+  - id: "wrk-bhagavad-gita", title: "البهاغافاد غيتا", type: "عمل / كتاب"
+  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "تاريخ الميلاد والوفاة الدقيق غير موثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,8 @@ active_start: 2000
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+related:
+  - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

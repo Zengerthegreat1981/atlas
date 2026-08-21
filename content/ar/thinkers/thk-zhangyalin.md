@@ -14,6 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
 related:
+  - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
+  - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي (Hunan Normal University) لم يُوثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

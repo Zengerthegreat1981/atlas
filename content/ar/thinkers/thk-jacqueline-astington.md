@@ -13,6 +13,10 @@ active_start: 2010
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+related:
+  - id: "wrk-emotional-intelligence-1995", title: "الذكاء العاطفي", type: "عمل / كتاب"
+  - id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"
+  - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

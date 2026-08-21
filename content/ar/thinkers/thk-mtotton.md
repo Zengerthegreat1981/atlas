@@ -13,6 +13,8 @@ active_start: 1995
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
+related:
+  - id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

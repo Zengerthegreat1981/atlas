@@ -13,6 +13,8 @@ active_start: 1950
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "علاج نايكان", target_type: "مدرسة"
+related:
+  - id: "thk-yishin", title: "يوشيموتو إيشين", type: "مفكر"
 gaps:
   - "سنة الميلاد وسنة التوقف عن العمل غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

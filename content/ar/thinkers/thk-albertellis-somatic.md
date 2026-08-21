@@ -13,6 +13,9 @@ active_start: 2000
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الخبرة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+related:
+  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
+  - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

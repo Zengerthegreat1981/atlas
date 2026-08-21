@@ -13,6 +13,8 @@ active_start: 2005
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الأنساق الأسرية الداخلية (IFS)", target_type: "مدرسة"
+related:
+  - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

@@ -13,6 +13,8 @@ active_start: 1913
 active_end: 1967
 edges:
   - rel: "belongs_to", target: "علم النفس الجشطالتي (برلين)", target_type: "مدرسة"
+related:
+  - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
 gaps:
   - "تفاصيل الفترة في محطة Anthropoid (تينيريفي) لم تُراجع بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

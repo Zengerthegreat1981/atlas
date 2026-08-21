@@ -13,6 +13,8 @@ active_start: 2010
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-recovery-oriented", target_type: "مدرسة"
+related:
+  - id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

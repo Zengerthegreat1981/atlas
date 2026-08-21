@@ -10,7 +10,10 @@ active_start: 1947
 active_end: "مستمر"
 country: "المملكة المتحدة"
 edges: []
-related: []
+related:
+  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تطبيق نظرية النظم الاجتماعية التقنية (Socio-Technical Systems) في مناجم الفحم البريطانية يحتاج توثيقاً"
   - "أبحاث ويلفريد بيون حول ديناميات المجموعات الصغيرة والافتراضات الأساسية تتطلب تفصيلاً"

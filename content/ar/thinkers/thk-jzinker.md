@@ -13,6 +13,8 @@ active_start: 1970
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+related:
+  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:
   - "التفاصيل الكاملة عن حياته المبكرة لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,8 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الفنون التعبيرية التعددية", target_type: "مدرسة"
+related:
+  - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

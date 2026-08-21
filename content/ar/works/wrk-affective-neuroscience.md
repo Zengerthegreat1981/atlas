@@ -14,6 +14,9 @@ edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
   - rel: "authored_by", target: "جاك بانكسيب", target_type: "مفكر"
 related:
+  - id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
+  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Oxford University Press) والطبعات اللاحقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

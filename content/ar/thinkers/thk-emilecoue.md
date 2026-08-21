@@ -13,6 +13,10 @@ active_start: 1910
 active_end: 1926
 edges:
   - rel: "belongs_to", target: "التنويم الذاتي", target_type: "مدرسة"
+related:
+  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+  - id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

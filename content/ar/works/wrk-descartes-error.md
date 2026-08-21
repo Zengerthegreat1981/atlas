@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
   - rel: "authored_by", target: "أنطونيو داماسيو", target_type: "مفكر"
 related:
+  - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Putnam / Penguin) لم تُراجع من مصدر أولي."
   - "تفاصيل تجارب Iowa Gambling Task (Bechara et al., 1994) لم تُراجع من مصدر أولي."

@@ -13,6 +13,8 @@ active_start: 2000
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التنويم الذاتي", target_type: "مدرسة"
+related:
+  - id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

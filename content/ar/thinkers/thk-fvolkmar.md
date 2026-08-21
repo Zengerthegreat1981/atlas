@@ -13,6 +13,8 @@ active_start: 1985
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+related:
+  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "موقعه من جدل اللقاحات والتوحد لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

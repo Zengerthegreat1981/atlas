@@ -13,6 +13,9 @@ active_start: 2010
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Discernment Counseling (الاستشارة التمييزية)", target_type: "مدرسة"
+related:
+  - id: "thk-wdoherty", title: "بيل دوهرتي", type: "مفكر"
+  - id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

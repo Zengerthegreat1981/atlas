@@ -13,6 +13,10 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
+related:
+  - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
+  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "ليس متخصصاً أكاديمياً في علم النفس بمعاييره الأكاديمية — يُدرج كناشط إسلامي."

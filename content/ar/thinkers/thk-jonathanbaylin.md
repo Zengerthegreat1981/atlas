@@ -13,6 +13,8 @@ active_start: 2005
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج التفاعلي النمائي الثنائي (DDP)", target_type: "مدرسة"
+related:
+  - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

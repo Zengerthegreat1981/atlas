@@ -11,6 +11,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
+  - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 gaps:
   - "نسبة الإطار إلى Howard Zehr تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

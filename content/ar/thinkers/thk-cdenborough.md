@@ -13,6 +13,9 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+related:
+  - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
+  - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

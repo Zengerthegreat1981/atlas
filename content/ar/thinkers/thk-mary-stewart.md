@@ -13,6 +13,8 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+related:
+  - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

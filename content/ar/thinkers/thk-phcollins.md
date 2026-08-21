@@ -13,6 +13,9 @@ active_start: 1986
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
+related:
+  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
+  - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

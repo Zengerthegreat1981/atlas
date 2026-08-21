@@ -13,6 +13,8 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
+related:
+  - id: "thk-mselpalaz", title: "مارا سيلفيني بالاتزولي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

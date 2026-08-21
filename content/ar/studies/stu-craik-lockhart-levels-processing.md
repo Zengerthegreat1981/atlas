@@ -9,7 +9,8 @@ crumb: "المدرسة الوجودية ← الدراسات والأبحاث �
 active_start: 1972
 active_end: 1975
 edges: []
-related: []
+related:
+  - id: "wrk-uber-das-gedachtnis", title: "في الذاكرة", type: "عمل / كتاب"
 gaps:
   - "الانتقاد الدائري (Circularity) لتعريف العمق المعرفي الذي وجهه بادلي (Baddeley) يحتاج استعراضاً نقدياً"
   - "تأثير التشفير المناسب للنقل (Transfer-Appropriate Processing) لموريس يضيف بعداً تصحيحياً مهماً"

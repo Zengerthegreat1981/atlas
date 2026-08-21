@@ -13,7 +13,8 @@ country: "ألمانيا"
 language: "الألمانية"
 edges:
   - rel: "belongs_to", target: "تشكيلات الأسرة (Family Constellations)", target_type: "مدرسة"
-related: []
+related:
+  - id: "thk-gweber", title: "غونتهارد فيبر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير متوفرة."
 ---

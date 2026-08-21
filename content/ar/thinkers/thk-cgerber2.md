@@ -13,6 +13,8 @@ active_start: 1990
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
+related:
+  - id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

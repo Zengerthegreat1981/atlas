@@ -10,7 +10,10 @@ active_start: 1911
 active_end: 1911
 country: "النمسا"
 edges: []
-related: []
+related:
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الجلسات العاصفة لجمعية فيينا في فبراير 1911 ومناقشة ورقة أدلر حول 'الاحتجاج الذكوري' تتطلب توثيقاً"
   - "استقالة تسعة أعضاء من الجمعية وتأسيس 'جمعية التحليل النفسي الحر' يحتاج تفصيلاً"

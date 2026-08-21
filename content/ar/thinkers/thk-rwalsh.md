@@ -14,6 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس عبر الشخصي", target_type: "مدرسة"
 related:
+  - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
+  - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

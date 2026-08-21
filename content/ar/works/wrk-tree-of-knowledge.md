@@ -15,6 +15,8 @@ edges:
   - rel: "authored_by", target: "هومبرتو ماتورانا", target_type: "مفكر"
   - rel: "authored_by", target: "فرانسيسكو فاريلا", target_type: "مفكر"
 related:
+  - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
+  - id: "wrk-goldstein-organism", title: "الكائن الحي (The Organism)", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Shambhala) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

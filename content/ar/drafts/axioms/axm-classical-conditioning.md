@@ -11,7 +11,7 @@ edges:
   - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
   - rel: "formulated_by", target: "إيفان بافلوف", target_type: "مفكر"
 related:
-  - id: "thk-pavlov", title: "إيفان بافلوف", type: "مفكر"
+  - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
   - id: "stu-pavlov-classical-conditioning", title: "تجارب بافلوف للتكييف الكلاسيكي", type: "دراسة وبحث"
 gaps:
   - "الفرق بين 'التعلم الإشراطي' و'التعلم المعرفي' في علم النفس المعرفي اللاحق يحتاج تحليلاً."

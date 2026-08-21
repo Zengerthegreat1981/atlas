@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
   - rel: "authored_by", target: "دونالد نورمان", target_type: "مفكر"
 related:
+  - id: "wrk-principles-psychology", title: "مبادئ علم النفس", type: "عمل / كتاب"
 gaps:
   - "الكتاب صدر أوّلاً بعنوان The Psychology of Everyday Things (1988)، ثم أعيد بعنوان The Design of Everyday Things (1990). الفارق بين الإصدارين لم يُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

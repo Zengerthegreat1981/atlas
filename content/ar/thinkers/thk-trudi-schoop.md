@@ -13,6 +13,9 @@ active_start: 1930
 active_end: 1990
 edges:
   - rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
+related:
+  - id: "thk-mchace", title: "ماريان تشيس", type: "مفكر"
+  - id: "tec-dance-movement-therapy", title: "العلاج بالرقص والحركة (DMT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

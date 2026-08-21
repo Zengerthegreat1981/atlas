@@ -13,6 +13,7 @@ active_start: 1976
 active_end: 1992
 edges:
   - rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
+related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

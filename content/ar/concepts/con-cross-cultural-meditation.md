@@ -10,6 +10,8 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج التأملي (Contemplative Psychotherapy)", target_type: "مدرسة"
+related:
+  - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

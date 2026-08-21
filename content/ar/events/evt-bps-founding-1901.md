@@ -10,7 +10,9 @@ active_start: 1901
 active_end: "مستمر"
 country: "المملكة المتحدة"
 edges: []
-related: []
+related:
+  - id: "wrk-uber-das-gedachtnis", title: "في الذاكرة", type: "عمل / كتاب"
+  - id: "sch-experimental-philosophy", title: "الفلسفة التجريبية (X-Phi)", type: "مدرسة"
 gaps:
   - "منح الميثاق الملكي (Royal Charter) لجمعية BPS عام 1965 وأثره القانوني يحتاج توثيقاً"
   - "الدور المبكر للجمعية في تقييم صدمات الحرب العالمية الأولى ومشفى كريغلوكهارت يتطلب تفصيلاً"

@@ -13,6 +13,8 @@ active_start: 1962
 active_end: 1985
 edges:
   - rel: "belongs_to", target: "العلاج بالتحويل (Conversion Therapy)", target_type: "مدرسة"
+related:
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تفاصيل تأثيره على السياسات العامة في الستينيات لم تُوثّق بشكل مستقل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

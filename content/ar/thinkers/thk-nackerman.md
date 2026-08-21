@@ -14,6 +14,8 @@ active_end: 1971
 edges:
   - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+  - id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد والوفاة تقريبية، تستحق توثيقاً."
   - "عمله في Family Mental Health Clinic بمستشفى Mount Sinai يستحق توثيقاً."

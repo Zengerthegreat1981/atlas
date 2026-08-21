@@ -13,6 +13,8 @@ active_start: 1973
 active_end: 2009
 edges:
   - rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+related:
+  - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

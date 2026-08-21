@@ -14,6 +14,7 @@ active_end: 1987
 edges:
   - rel: "belongs_to", target: "العلاج النفسي التأملي", target_type: "مدرسة"
 related:
+  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

@@ -13,6 +13,8 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "السيكودراما والسوسيومتري (Moreno)", target_type: "مدرسة"
+related:
+  - id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

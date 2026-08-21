@@ -13,6 +13,9 @@ active_start: 1970
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
+related:
+  - id: "con-sensory-integration", title: "التكامل الحسي (نظرية عيرز)", type: "مفهوم"
+  - id: "br-sensory-integration", title: "التكامل الحسي", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,9 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الفيدي (المستند إلى الفيد)", target_type: "مدرسة"
+related:
+  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

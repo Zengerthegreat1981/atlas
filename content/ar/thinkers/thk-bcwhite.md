@@ -13,6 +13,8 @@ active_start: 1980
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
+related:
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,8 @@ active_start: 1973
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم نفس الأوبونتو (Ubuntu)", target_type: "مدرسة"
+related:
+  - id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,10 @@ active_start: 1985
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
+related:
+  - id: "thk-hgoolishian", title: "هاري غوليشيان", type: "مفكر"
+  - id: "thk-handerson", title: "هارلين أندرسون", type: "مفكر"
+  - id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

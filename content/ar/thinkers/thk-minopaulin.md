@@ -13,6 +13,8 @@ active_start: 2000
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
+related:
+  - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

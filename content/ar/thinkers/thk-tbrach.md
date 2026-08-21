@@ -13,6 +13,8 @@ active_start: 1998
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج النفسي التأملي", target_type: "مدرسة"
+related:
+  - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

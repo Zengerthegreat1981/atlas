@@ -13,6 +13,10 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-restorative-justice", target_type: "مدرسة"
+related:
+  - id: "thk-zehr", title: "هوارد زير", type: "مفكر"
+  - id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
+  - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

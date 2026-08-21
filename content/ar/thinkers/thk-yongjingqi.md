@@ -13,6 +13,9 @@ active_start: 2010
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
+related:
+  - id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
+  - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

@@ -13,6 +13,9 @@ active_start: 1965
 active_end: 2019
 edges:
   - rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
+related:
+  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+  - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

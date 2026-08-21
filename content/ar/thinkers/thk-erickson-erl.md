@@ -13,6 +13,8 @@ active_start: 1970
 active_end: 2009
 edges:
   - rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+related:
+  - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 gaps:
   - "سنة الميلاد وسنة التوقف عن العمل غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

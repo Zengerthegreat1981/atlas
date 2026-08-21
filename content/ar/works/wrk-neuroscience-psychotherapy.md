@@ -14,6 +14,9 @@ edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
   - rel: "authored_by", target: "لويس كوزولينو", target_type: "مفكر"
 related:
+  - id: "con-neuropsychoanalysis", title: "التحليل النفسي العصبي (Neuropsychoanalysis)", type: "مفهوم"
+  - id: "br-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "تيار"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (W. W. Norton) والطبعات اللاحقة (2010, 2017) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

@@ -14,6 +14,7 @@ active_end: 2021
 edges:
   - rel: "belongs_to", target: "إعادة الولادة", target_type: "مدرسة"
 related:
+  - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 gaps:
   - "التفاصيل الكاملة لمأساة Candace Newmaker (2000) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

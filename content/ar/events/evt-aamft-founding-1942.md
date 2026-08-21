@@ -10,7 +10,10 @@ active_start: 1942
 active_end: "مستمر"
 country: "الولايات المتحدة"
 edges: []
-related: []
+related:
+  - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
+  - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تطور الاسم من 'الجمعية الأمريكية للمرشدين الزواجيين AAMC' إلى AAMFT عام 1978 يتطلب توثيقاً إدارياً"
   - "الاعتراف الفيدرالي بهيئة COAMFTE لاعتماد برامج الماجستير والدكتوراه يحتاج مراجعة قانونية"

@@ -13,6 +13,9 @@ active_start: 1972
 active_end: 1995
 edges:
   - rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+related:
+  - id: "thk-iparker", title: "إيان باركر", type: "مفكر"
+  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "بعض تفاصيل ممارسته المبكرة مع أوستروجا لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

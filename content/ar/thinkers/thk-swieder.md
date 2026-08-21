@@ -13,6 +13,9 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+related:
+  - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
+  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

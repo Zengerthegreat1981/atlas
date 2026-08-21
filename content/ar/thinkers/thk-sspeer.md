@@ -13,6 +13,8 @@ active_start: 2002
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الخطابي (Discursive Psychology)", target_type: "مدرسة"
+related:
+  - id: "br-discursive-psychology", title: "علم النفس الخطابي (بوتر وويذرل)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,6 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
+  - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
+  - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "السيرة الذاتية الكاملة في University of London لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

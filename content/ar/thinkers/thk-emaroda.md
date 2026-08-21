@@ -13,6 +13,9 @@ active_start: 1998
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
+related:
+  - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تفاصيل الفترة المبكرة في شيكاغو لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

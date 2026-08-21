@@ -16,6 +16,8 @@ edges:
   - rel: "authored_by", target: "إيفان طومسون", target_type: "مفكر"
   - rel: "authored_by", target: "إيلينور روش", target_type: "مفكر"
 related:
+  - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
+  - id: "thk-erosch", title: "إيلينور روش", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (MIT Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

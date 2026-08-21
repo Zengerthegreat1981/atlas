@@ -13,6 +13,8 @@ active_start: 1975
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
+related:
+  - id: "thk-maxwell-maltz", title: "ماكسويل مالتز", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
   - rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
 related:
+  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (HarperCollins) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

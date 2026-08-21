@@ -13,6 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
+related:
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

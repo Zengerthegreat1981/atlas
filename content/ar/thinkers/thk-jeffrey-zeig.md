@@ -13,6 +13,8 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+related:
+  - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

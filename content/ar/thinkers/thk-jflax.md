@@ -13,6 +13,10 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
+related:
+  - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
+  - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

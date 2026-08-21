@@ -13,6 +13,8 @@ active_start: 1985
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التغذية الراجعة العصبية", target_type: "مدرسة"
+related:
+  - id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,7 +13,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
-related: []
+related:
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "لا تتوفر تفاصيل دقيقة عن تكوينه الأكاديمي المبكر أو مسيرته التدريبية الكاملة."
 ---

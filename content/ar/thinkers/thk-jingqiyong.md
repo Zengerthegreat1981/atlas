@@ -13,7 +13,9 @@ country: "الصين"
 language: "الصينية"
 edges:
   - rel: "belongs_to", target: "الطاوية المعرفية (Chinese Taoist Cognitive Therapy)", target_type: "مدرسة"
-related: []
+related:
+  - id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
+  - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
 gaps:
   - "الاسم الوارد أصلاً في التصنيف ('يونغ جينغ تشي' / Yong Jingqi) لا يطابق اسماً موثقاً؛ المؤسس الموثق لهذه المدرسة هو الطبيب النفسي الصيني يانغ ديشن (Yang Desen) بالاشتراك مع تشانغ يالين (Zhang Yalin)."
   - "سنة الميلاد الدقيقة غير متوفرة."

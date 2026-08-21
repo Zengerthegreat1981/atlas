@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
   - rel: "authored_by", target: "كريستين نيف", target_type: "مفكر"
 related:
+  - id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (William Morrow) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

@@ -14,6 +14,7 @@ active_end: 1994
 edges:
   - rel: "belongs_to", target: "Sikolohiyang Pilipino (Filipino Psychology)", target_type: "مدرسة"
 related:
+  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الكاملة لمسيرته في جامعة الفلبين لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,8 @@ active_start: 1976
 active_end: 2006
 edges:
   - rel: "belongs_to", target: "العلاج النفسي النسوي", target_type: "مدرسة"
+related:
+  - id: "thk-cgilligan", title: "كارول جيليجان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

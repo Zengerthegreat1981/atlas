@@ -11,7 +11,7 @@ edges:
   - rel: "relates_to", target: "علم النفس الاجتماعي المعرفي", target_type: "مدرسة"
   - rel: "formulated_by", target: "ألبرت باندورا", target_type: "مفكر"
 related:
-  - id: "thk-bandura", title: "ألبرت باندورا", type: "مفكر"
+  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
   - id: "axm-observational-learning", title: "التعلم بالملاحظة", type: "بديهية/مبدأ تأسيسي"
   - id: "con-self-efficacy", title: "الفعالية الذاتية", type: "مفهوم"
 gaps:

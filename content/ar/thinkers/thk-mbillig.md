@@ -13,6 +13,8 @@ active_start: 1988
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الخطابي (Discursive Psychology)", target_type: "مدرسة"
+related:
+  - id: "br-discursive-psychology", title: "علم النفس الخطابي (بوتر وويذرل)", type: "تيار"
 gaps:
   - "تفاصيل الفترة المبكرة في جامعة برمنغهام لم تُوثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

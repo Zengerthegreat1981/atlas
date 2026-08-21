@@ -13,6 +13,9 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+related:
+  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+  - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

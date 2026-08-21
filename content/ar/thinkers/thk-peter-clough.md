@@ -13,6 +13,8 @@ active_start: 2000
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-performance-psychology", target_type: "مدرسة"
+related:
+  - id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

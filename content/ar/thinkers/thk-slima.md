@@ -13,6 +13,9 @@ active_start: 1980
 active_end: 1996
 edges:
   - rel: "belongs_to", target: "علم نفس التحرير (Liberation Psychology)", target_type: "مدرسة"
+related:
+  - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
+  - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

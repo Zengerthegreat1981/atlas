@@ -13,6 +13,9 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
+related:
+  - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
+  - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

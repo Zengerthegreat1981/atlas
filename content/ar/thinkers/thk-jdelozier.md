@@ -13,6 +13,8 @@ active_start: 1975
 active_end: 2015
 edges:
   - rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "مدرسة"
+related:
+  - id: "thk-jgrind", title: "جون غريندر", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

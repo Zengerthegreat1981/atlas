@@ -15,6 +15,9 @@ edges:
   - rel: "relates_to", target: "ctx-arabic-self", target_type: "سياق/تقليد"
   - rel: "relates_to", target: "ctx-ghazali", target_type: "سياق/تقليد"
 related:
+  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+  - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "الربط مع علم النفس الإيجابي (Seligman) يستحق مقارنة منهجية، لكنها خارج نطاق هذا الملف التمهيدي."
   - "التمييز بين التصوف النظري (ابن عربي) والتصوف السلوكي (ابن عطاء الله، الغزالي) يحتاج ملفاً مستقلاً."

@@ -9,7 +9,8 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← مقاب
 active_start: 1985
 active_end: "مستمر"
 edges: []
-related: []
+related:
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "قواعد غرايس للتخاطب (Grice's Conversational Maxims) وتطبيقاتها في تحليل نصوص AAI تحتاج توثيقاً لغوياً"
   - "التدريب المكثف والاعتماد الإلزامي لترميز المقابلة (AAI Reliability Coding) يتطلب تفصيلاً"

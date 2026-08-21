@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
   - rel: "authored_by", target: "ستيفن بورجيز", target_type: "مفكر"
 related:
+  - id: "tec-music-therapy", title: "العلاج بالموسيقى", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (W. W. Norton) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

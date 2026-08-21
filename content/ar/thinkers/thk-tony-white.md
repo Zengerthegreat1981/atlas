@@ -13,6 +13,8 @@ active_start: 1968
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+related:
+  - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

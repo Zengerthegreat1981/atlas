@@ -14,6 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
   - rel: "belongs_to", target: "Te Whare Tapa Whā (نموذج)", target_type: "مدرسة"
+related:
+  - id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

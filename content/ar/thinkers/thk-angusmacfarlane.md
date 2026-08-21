@@ -13,6 +13,9 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
+related:
+  - id: "thk-masondurie", title: "ماسون دوري", type: "مفكر"
+  - id: "con-kaupapa-maori", title: "كاوبابا ماوري (Kaupapa Māori)", type: "مفهوم"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

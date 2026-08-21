@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
 related:
+  - id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

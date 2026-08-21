@@ -13,6 +13,9 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Body-Mind Centering", target_type: "مدرسة"
+related:
+  - id: "con-sensory-integration", title: "التكامل الحسي (نظرية عيرز)", type: "مفهوم"
+  - id: "br-sensory-integration", title: "التكامل الحسي", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

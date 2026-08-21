@@ -9,7 +9,9 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← قائم
 active_start: 1989
 active_end: "مستمر"
 edges: []
-related: []
+related:
+  - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
+  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "مقارنة استبيان أكسفورد للاستبيان الأحادي (OHQ) بالقائمة الأصلية (OHI) المكونة من 29 مجموعة رباعية"
   - "التقنين العربي للنسخة المعربة لـ أحمد عبد الخالق ومحمد الدسوقي يحتاج توثيقاً سيكومترياً"

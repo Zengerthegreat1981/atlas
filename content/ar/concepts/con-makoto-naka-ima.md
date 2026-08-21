@@ -10,6 +10,8 @@ active_start: 1972
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Constructive Living (اليابان/كندا)", target_type: "مدرسة"
+related:
+  - id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
 gaps:
   - "مؤسس الحركة الرئيسي (David K Reynolds) لم يُكتب له ملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

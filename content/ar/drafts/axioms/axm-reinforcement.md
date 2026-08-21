@@ -11,8 +11,8 @@ edges:
   - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
   - rel: "formulated_by", target: "بوريس فريدريك سكينر", target_type: "مفكر"
 related:
-  - id: "thk-skinner", title: "بوريس فريدريك سكينر", type: "مفكر"
-  - id: "thk-pavlov", title: "إيفان بافلوف", type: "مفكر"
+  - id: "thk-fskinner", title: "بوريس فريدريك سكينر", type: "مفكر"
+  - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
   - id: "thk-thorndike", title: "إدوارد ثورندايك", type: "مفكر"
   - id: "axm-operant-conditioning", title: "الإشراط الفعال", type: "بديهية/مبدأ تأسيسي"
 gaps:

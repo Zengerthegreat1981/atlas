@@ -13,6 +13,8 @@ active_start: 2005
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
+related:
+  - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

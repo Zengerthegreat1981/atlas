@@ -15,6 +15,8 @@ edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
   - rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
 related:
+  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Free Press) لم تُراجع من مصدر أولي."
   - "نظرية PERMA اللاحقة (Seligman 2011) لم تُراجع من مصدر أولي."

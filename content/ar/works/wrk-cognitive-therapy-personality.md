@@ -15,6 +15,9 @@ edges:
   - rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
   - rel: "authored_by", target: "أرثر فريمان", target_type: "مفكر"
 related:
+  - id: "dis-dependent-personality", title: "اضطراب الشخصية الاعتمادية", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Guilford Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

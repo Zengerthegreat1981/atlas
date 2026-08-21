@@ -13,6 +13,8 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+related:
+  - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

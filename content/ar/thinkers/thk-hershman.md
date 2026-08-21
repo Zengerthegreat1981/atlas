@@ -13,6 +13,8 @@ active_start: 1985
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج الديناميكي البيني القصير (DIT)", target_type: "مدرسة"
+related:
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

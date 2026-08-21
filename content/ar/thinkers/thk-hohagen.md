@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
 related:
+  - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "موقع مفهوم 'العلاج البرنامجاتي' (Programmatic Therapy) في التقاليد الألمانية المتعاقبة غير موثَّق بدقة."

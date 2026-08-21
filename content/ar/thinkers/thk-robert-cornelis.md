@@ -13,6 +13,8 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التركيز (Focusing)", target_type: "مدرسة"
+related:
+  - id: "thk-egendlin", title: "يوجين جيندلين", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

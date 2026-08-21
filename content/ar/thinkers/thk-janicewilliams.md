@@ -13,6 +13,8 @@ active_start: 2005
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Te Whare Tapa Whā (نموذج)", target_type: "مدرسة"
+related:
+  - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

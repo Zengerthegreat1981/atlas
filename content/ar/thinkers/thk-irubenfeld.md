@@ -13,6 +13,10 @@ active_start: 1975
 active_end: 2019
 edges:
   - rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+related:
+  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+  - id: "thk-egendlin", title: "يوجين جيندلين", type: "مفكر"
+  - id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"
 gaps:
   - "الفترة المبكرة مع كلاوديو نارانخو في إسكويبو لم تُوثّق تفصيلياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

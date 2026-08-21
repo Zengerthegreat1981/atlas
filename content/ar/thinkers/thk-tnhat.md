@@ -14,6 +14,7 @@ active_end: 2022
 edges:
   - rel: "belongs_to", target: "العلاج النفسي التأملي", target_type: "مدرسة"
 related:
+  - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

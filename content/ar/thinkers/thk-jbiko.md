@@ -13,6 +13,9 @@ active_start: 1970
 active_end: 1977
 edges:
   - rel: "belongs_to", target: "علم نفس الأوبونتو (Ubuntu)", target_type: "مدرسة"
+related:
+  - id: "con-black-consciousness", title: "الوعي الأسود", type: "مفهوم"
+  - id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"
 gaps:
   - "لا توجد كتابات نفسية مباشرة موثّقة لبيكو."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,8 @@ active_start: 1995
 active_end: 2015
 edges:
   - rel: "belongs_to", target: "العلاج الاجتماعي (Social Therapy)", target_type: "مدرسة"
+related:
+  - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

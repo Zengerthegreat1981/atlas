@@ -13,6 +13,8 @@ active_start: 1953
 active_end: 2009
 edges:
   - rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
+related:
+  - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "تفاصيل الفترة المبكرة في RAND Corporation لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

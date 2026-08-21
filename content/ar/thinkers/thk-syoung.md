@@ -13,6 +13,8 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج النفسي التأملي", target_type: "مدرسة"
+related:
+  - id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

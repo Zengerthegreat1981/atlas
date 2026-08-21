@@ -12,7 +12,8 @@ active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
 edges:
   - rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
-related: []
+related:
+  - id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"
 gaps:
   - "أول استخدام مؤسسي موثَّق في المعهد النفسي للأطفال عام 1961 (بوريس لوبينوف)."
   - "تأسست 'رابطة العلاج بمساعدة الحيوانات' الدولية (AAI) في 1977."

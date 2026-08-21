@@ -13,6 +13,9 @@ active_start: 2010
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-restorative-justice", target_type: "مدرسة"
+related:
+  - id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
+  - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

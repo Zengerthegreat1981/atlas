@@ -13,6 +13,9 @@ active_start: 2000
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التركيز (Focusing)", target_type: "مدرسة"
+related:
+  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+  - id: "sch-process-philosophy", title: "فلسفة العملية (Process Philosophy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

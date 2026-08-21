@@ -13,6 +13,7 @@ active_start: 1980
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+related:
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

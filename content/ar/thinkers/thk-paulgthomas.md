@@ -13,7 +13,8 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "السيبرنتيكا النفسية", target_type: "مدرسة"
-related: []
+related:
+  - id: "thk-maxwell-maltz", title: "ماكسويل مالتز", type: "مفكر"
 gaps:
   - "تفاصيل سيرته الشخصية (تواريخ الميلاد والوفاة، الخلفية الأكاديمية) غير متوفرة في المصادر المتاحة."
 ---

@@ -13,6 +13,9 @@ active_start: 1950
 active_end: 1979
 edges:
   - rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
+related:
+  - id: "thk-mchace", title: "ماريان تشيس", type: "مفكر"
+  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

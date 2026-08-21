@@ -10,7 +10,14 @@ active_start: 1961
 active_end: "مستمر"
 country: "الولايات المتحدة"
 edges: []
-related: []
+related:
+  - id: "thk-buhler", title: "شارلوت بوهلر", type: "مفكر"
+  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+  - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
+  - id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
+  - id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "تفاصيل المؤتمر التأسيسي الأول لـ AHP في فيلادلفيا 1963 وأوراق روجرز وماسلو تتطلب توثيقاً أرشيفياً"
   - "تأسيس الشعبة 32 في APA (Society for Humanistic Psychology) عام 1971 يحتاج استعراضاً"

@@ -13,6 +13,8 @@ active_start: 1975
 active_end: 2020
 edges:
   - rel: "belongs_to", target: "علم نفس التحرير (Liberation Psychology)", target_type: "مدرسة"
+related:
+  - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 gaps:
   - "سنة الميلاد والوفاة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,7 +11,7 @@ edges:
   - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
   - rel: "formulated_by", target: "بوريس فريدريك سكينر", target_type: "مفكر"
 related:
-  - id: "thk-skinner", title: "بوريس فريدريك سكينر", type: "مفكر"
+  - id: "thk-fskinner", title: "بوريس فريدريك سكينر", type: "مفكر"
   - id: "stu-skinner-operant-conditioning", title: "تجارب سكينر للإشراط الفعال", type: "دراسة وبحث"
   - id: "axm-reinforcement", title: "مبدأ التعزيز", type: "بديهية/مبدأ تأسيسي"
 gaps:

@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
+  - id: "thk-stevenharris-dc", title: "ستيفن هاريس", type: "مفكر"
 gaps:
   - "تاريخ Doherty في University of Minnesota يستحق توثيقاً."
   - "العلاقة بين Discernment و'Mediation' تستحق توثيقاً."
