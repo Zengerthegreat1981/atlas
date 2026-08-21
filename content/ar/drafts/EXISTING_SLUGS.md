@@ -7,8 +7,6 @@
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
-⚠️ **9 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-schopenhauer, thk-emerson, thk-schelling, thk-kierkegaard, thk-hegel, thk-solomon, thk-rousseau, thk-nishida, thk-nietzsche
-
 ## مفكر (1929)
 
 - `con-complex-ptsd` — اضطراب الكرب التالي للصدمة المعقد (C-PTSD) — ✅ معتمد
