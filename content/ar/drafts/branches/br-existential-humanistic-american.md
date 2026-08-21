@@ -12,7 +12,7 @@ active_start: 1985
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
   - rel: "developed_by", target: "كيرك شنايدر", target_type: "مفكر"
   - rel: "developed_by", target: "إريك كريك", target_type: "مفكر"
 related:
