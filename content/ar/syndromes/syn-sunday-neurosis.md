@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
 related:
   - id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
-  - id: "dis-depressive-disorder", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
   - id: "wrk-mans-search", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
 gaps:
   - "ورقة ساندور فيرينتزي الكلاسيكية (1919) 'عصاب يوم الأحد' ومفهوم الخواء الوجودي لفيكتور فرانكل."

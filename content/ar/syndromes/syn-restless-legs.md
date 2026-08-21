@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges:
   - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
 related:
-  - id: "dis-insomnia", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
   - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث كارل أكسل إيكبوم (Karl-Axel Ekbom 1945) ودور مسارات الدوبامين ونقص الحديد في الدماغ."

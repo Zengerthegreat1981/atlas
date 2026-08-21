@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges:
   - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
 related:
-  - id: "dis-depressive-disorder", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
   - id: "syn-locked-in", title: "متلازمة الانغلاق العصبي", type: "متلازمة"
 gaps:
   - "أبحاث كيرنز (Cairns 1941) وتلف التلفيف الحزامي الأمامي (Anterior Cingulate Cortex)."

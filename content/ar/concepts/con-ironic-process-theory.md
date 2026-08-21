@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس المعرفي والإكلينيكي", target_type: "مدرسة"
 related:
   - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-insomnia", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
   - id: "wrk-happiness-trap", title: "فخ السعادة", type: "عمل / كتاب"
 gaps:
   - "تجارب دانيال ويغنر (Daniel Wegner 1987) في جامعة هارفارد المستوحاة من مقولة تولستوي."

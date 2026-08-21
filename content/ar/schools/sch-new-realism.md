@@ -17,7 +17,7 @@ edges:
   - rel: "superseded_by", target: "الذرية المنطقية", target_type: "مدرسة"
 related:
   - id: "thk-moore", title: "جورج إدوارد مور", type: "مفكر"
-  - id: "thk-russell", title: "برتراند راسل", type: "مفكر"
+  - id: "thk-brussell", title: "برتراند راسل", type: "مفكر"
   - id: "thk-santayana", title: "جورج سانتيانا", type: "مفكر"
   - id: "thk-perry", title: "رالف بارتون بيرّي", type: "مفكر"
   - id: "thk-holt", title: "إدوين هولت", type: "مفكر"

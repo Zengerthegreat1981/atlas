@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges:
   - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
 related:
-  - id: "dis-insomnia", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
   - id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث ألبرت ستونكارد (Albert Stunkard 1955) واضطرابات النظم اليوماوي لإفراز الميلاتونين واللبتين."

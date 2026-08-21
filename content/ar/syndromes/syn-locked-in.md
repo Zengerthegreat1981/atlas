@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
 related:
   - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-depressive-disorder", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+  - id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث فريد بلام وجيروم بوزنر (Plum & Posner 1966) واحتشاء جسر الدماغ البطني."
   - "لا يوجد اقتباس مباشر موثوق متاح."
