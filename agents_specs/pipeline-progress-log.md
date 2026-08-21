@@ -1032,3 +1032,32 @@ build_atlas.py: ✅ 694 elements, 1,960,239 chars (grew slightly due to new edge
 
 The 11 dis- files left without syn- links are: classification-dsm-5-tr, classification-icd-11 (stubs, not real disorders), dis-autism-spectrum, dis-brief-psychotic, dis-delusional, dis-developmental-coordination, dis-encopresis, dis-enuresis, dis-factitious, dis-fetishistic, dis-intellectual-disability, dis-pica, dis-specific-learning-disorder. These lack matching syn- files in the current atlas — would need new syn- (e.g. "syn-psychotic-symptoms", "syn-autism-traits") to populate.
 
+---
+
+- [21 أغسطس 2026] **Task 3 — Historical DSM scope list (stop-for-review, no content written)**
+
+Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files were created, no edits to existing content.
+
+**Output**: `agents_specs/historical-dsm-scope-list.md` (146 lines)
+
+**Total candidates**: 31 historical DSM-III/IV diagnoses, categorized:
+
+| Category | Count | Notes |
+|----------|------:|-------|
+| Paraphilias (removed as discrete) | 7 | Voyeurism, exhibitionism, fetishism, etc. — only diagnosed if distress |
+| Pervasive Developmental Disorders (merged into ASD) | 5 | Asperger's, Rett's, Childhood Disintegrative, PDD-NOS |
+| Other (specific removals/replacements) | 6 | Bereavement exclusion, Mixed Anxiety-Depressive, Factitious by Proxy, Stuttering, etc. |
+| Sleep disorders (restructured) | 3 | Dyssomnia NOS, Parasomnia NOS |
+| Sexual/Gender | 2 | Sexual Aversion Disorder, Gender Identity Disorder |
+| Dissociative | 2 | Dissociative Trance, Depersonalization (renamed) |
+| Personality (appendix-only) | 2 | Passive-Aggressive, Depressive |
+| Substance-related | 2 | Poly-substance Dependence, Cannabis Abuse/Dependence |
+| Other (1-item: Pedophilia renamed) | 1 | Same criteria, different name |
+| Framework (neurosis removed) | 1 | Conceptual change |
+
+**Recommendation (in scope-list file)**: 
+- Default: do NOT add these unless user explicitly expands scope.
+- If expanded, priority: Gender Identity Disorder → Gender Dysphoria (~3-4 files), Asperger's Disorder (~2 files). Paraphilias mentions in existing files suffice.
+
+**STOPPED for user review.** No content created. The scope list file is the deliverable.
+
