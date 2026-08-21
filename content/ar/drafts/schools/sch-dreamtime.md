@@ -14,7 +14,7 @@ active_start: -50000
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", type: "مظلة"
+  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
   - id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
   - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"

@@ -13,14 +13,14 @@ language: "متعددة"
 active_start: 1962
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
   - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
   - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
   - id: "sch-ecofeminism", title: "النسوية البيئية", type: "مدرسة"
 gaps:
   - "نصوص Aldo Leopold, Rachel Carson, Arne Næss, Holmes Rolston III, Bryan Norton need review."
-```
+---
 
 # فلسفة البيئة / الأخلاق البيئية (Environmental Philosophy / Ethics)
 

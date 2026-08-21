@@ -13,14 +13,14 @@ language: "الصينية"
 active_start: 1921
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الماركسية الكلاسيكية", type: "مدرسة"
+  - rel: "evolved_from", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
 related:
   - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
   - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
   - id: "sch-chinese-traditionalism", title: "حركة المعارضة الكونفوشية في القرن 20", type: "مدرسة"
 gaps:
   - "نصوص Mao Zedong (On Practice, On Contradiction, Little Red Book) need review."
-```
+---
 
 # الماركسية الصينية / الماوية (Chinese Marxism / Maoism)
 

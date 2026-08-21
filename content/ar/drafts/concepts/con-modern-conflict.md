@@ -10,7 +10,7 @@ dates: "1966-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "إيرفينغ برينر", type: "مفكر"
+  - rel: "developed_by", target: "إيرفينغ برينر", target_type: "مفكر"
 related:
   - id: "thk-ibrenner", title: "إيرفينغ برينر", type: "مفكر"
 gaps:

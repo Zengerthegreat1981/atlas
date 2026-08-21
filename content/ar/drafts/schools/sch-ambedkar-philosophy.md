@@ -13,14 +13,14 @@ language: "الهندية، المراثية، الإنجليزية"
 active_start: 1916
 active_end: 1956
 edges:
-  - rel: "evolved_from", target: "البوذية", type: "مدرسة"
+  - rel: "evolved_from", target: "البوذية", target_type: "مدرسة"
 related:
   - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
   - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
   - id: "sch-caste-india", title: "نقد الطبقة في الهند", type: "مدرسة"
 gaps:
   - "نصوص Ambedkar (Annihilation of Caste, Buddha and His Dhamma, Constitution of India) need review."
-```
+---
 
 # الأمبيدكارية (Ambedkarite Philosophy)
 

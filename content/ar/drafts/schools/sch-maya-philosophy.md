@@ -14,7 +14,7 @@ active_start: 200
 active_end: 1697
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", type: "مظلة"
+  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
   - id: "sch-nahua-aztec", title: "فلسفة الناهوا/الأزتك", type: "مدرسة"
   - id: "sch-andean", title: "الفلسفة الأنديزية", type: "مدرسة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gbateson"
-id: "THK-GBATESON"
+id: "THK-0628"
 type: "مفكر"
 level: "متوسط"
 title: "غريغوري باتسون"

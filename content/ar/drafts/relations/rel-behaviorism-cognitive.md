@@ -20,8 +20,8 @@ related:
   - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
   - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "thk-abeck", title: "أرون ت. بيك", type: "مفكر"
-  - id: "thk-aellis", title: "ألبرت إيليس", type: "مفكر"
+  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
+  - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
 gaps:
   - "تاريخ 'الثورة المعرفية' (Miller, Galanter, Pribram 1960 — Plans and the Structure of Behavior) ككتاب مفصلي في إقرار العمليات الذهنية في علم النفس التجريبي يحتاج مراجعة نصية."
   - "نقطة التحوّل الرسمية داخل الـ APA من 'السلوكية' إلى 'المعرفية' لم تُحدّد بيقين تاريخي (تعود عادةً إلى أواخر الستينيات)."

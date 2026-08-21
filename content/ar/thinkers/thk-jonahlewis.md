@@ -1,6 +1,6 @@
 ---
 slug: "thk-jonahlewis"
-id: "THK-JONAHLEWIS"
+id: "THK-0616"
 type: "مفكر"
 level: "متوسط"
 title: "جونا ليرر"

@@ -10,9 +10,9 @@ dates: "1992"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "روبرت ستولورو", type: "مفكر"
-  - rel: "authored_by", target: "جورج أتوود", type: "مفكر"
-  - rel: "authored_by", target: "برنارد برندشافت", type: "مفكر"
+  - rel: "authored_by", target: "روبرت ستولورو", target_type: "مفكر"
+  - rel: "authored_by", target: "جورج أتوود", target_type: "مفكر"
+  - rel: "authored_by", target: "برنارد برندشافت", target_type: "مفكر"
 related:
   - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
   - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"

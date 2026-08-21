@@ -12,9 +12,9 @@ active_start: 1991
 active_end: 1991
 edges:
   - rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
-  - rel: "authored_by", target: "فرانسيسكو فاريلا", type: "مفكر"
-  - rel: "authored_by", target: "إيفان طومسون", type: "مفكر"
-  - rel: "authored_by", target: "إيلينور روش", type: "مفكر"
+  - rel: "authored_by", target: "فرانسيسكو فاريلا", target_type: "مفكر"
+  - rel: "authored_by", target: "إيفان طومسون", target_type: "مفكر"
+  - rel: "authored_by", target: "إيلينور روش", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (MIT Press) لم تُراجع من مصدر أولي."

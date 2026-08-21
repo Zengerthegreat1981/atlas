@@ -13,7 +13,7 @@ language: "الإنجليزية، البالي، السنسكريتية"
 active_start: 1860
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", type: "مظلة"
+  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مظلة"
 related:
   - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
   - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"

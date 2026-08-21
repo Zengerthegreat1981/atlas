@@ -8,7 +8,7 @@ en: "Quality World (Glasser)"
 crumb: "الإنسانية ← المفاهيم ← العالم النوعي"
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "ويليام غلاسر", type: "مفكر"
+  - rel: "formulated_by", target: "ويليام غلاسر", target_type: "مفكر"
 related:
   - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
   - id: "con-choice-theory", title: "نظرية الاختيار", type: "مفهوم"

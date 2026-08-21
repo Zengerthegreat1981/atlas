@@ -10,7 +10,7 @@ dates: "1960s-اليوم"
 language: "الفرنسية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "جاك لوكان", type: "مفكر"
+  - rel: "developed_by", target: "جاك لوكان", target_type: "مفكر"
 related:
   - id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
   - id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"

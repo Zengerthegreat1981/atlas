@@ -13,7 +13,7 @@ language: "متعددة"
 active_start: 1968
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الأناركية الكلاسيكية", type: "مدرسة"
+  - rel: "evolved_from", target: "الأناركية الكلاسيكية", target_type: "مدرسة"
 related:
   - id: "sch-anarchism-classical", title: "الأناركية الكلاسيكية", type: "مدرسة"
   - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"

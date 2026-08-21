@@ -13,8 +13,8 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية الفرنسية", type: "مدرسة"
-  - rel: "evolved_from", target: "ما بعد البنيوية", type: "مدرسة"
+  - rel: "evolved_from", target: "النسوية الفرنسية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "ما بعد البنيوية", target_type: "مدرسة"
 related:
   - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية", type: "مدرسة"
   - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"

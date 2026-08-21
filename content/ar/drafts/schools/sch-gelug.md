@@ -13,9 +13,9 @@ language: "التبتية"
 active_start: 1357
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-  - rel: "evolved_from", target: "ساكيا", type: "مدرسة"
-  - rel: "evolved_from", target: "كاغيو", type: "مدرسة"
+  - rel: "belongs_to", target: "فاجرايانا / البوذية التانترية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "ساكيا", target_type: "مدرسة"
+  - rel: "evolved_from", target: "كاغيو", target_type: "مدرسة"
 related:
   - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
   - id: "sch-sakya", title: "ساكيا", type: "مدرسة"

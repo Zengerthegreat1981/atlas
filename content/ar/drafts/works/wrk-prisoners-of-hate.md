@@ -12,7 +12,7 @@ active_start: 1999
 active_end: 1999
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "آرون بيك", type: "مفكر"
+  - rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (HarperCollins) لم تُراجع من مصدر أولي."

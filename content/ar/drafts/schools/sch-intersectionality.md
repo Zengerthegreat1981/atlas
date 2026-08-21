@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية السوداء", type: "مدرسة"
+  - rel: "evolved_from", target: "النسوية السوداء", target_type: "مدرسة"
 related:
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
   - id: "sch-critical-race-theory", title: "النظرية العرقية النقدية", type: "مدرسة"

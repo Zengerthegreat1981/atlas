@@ -12,7 +12,7 @@ active_start: 2019
 active_end: 2019
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "ستيفن هايز", type: "مفكر"
+  - rel: "authored_by", target: "ستيفن هايز", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Avery) لم تُراجع من مصدر أولي."

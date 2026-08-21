@@ -13,7 +13,7 @@ language: "السنسكريتية، التبتية"
 active_start: 150
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الماهاسامغيكا", type: "مدرسة"
+  - rel: "evolved_from", target: "الماهاسامغيكا", target_type: "مدرسة"
 related:
   - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
   - id: "sch-sarvastivada", title: "سارفاستيفادا", type: "مدرسة"

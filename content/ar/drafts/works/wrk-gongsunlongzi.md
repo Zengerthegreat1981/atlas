@@ -14,7 +14,7 @@ active_end: -259
 active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "مدرسة الأسماء (المنطقيون)", target_type: "مدرسة"
-  - rel: "authored_by", target: "غونغسون لونغ", type: "مفكر"
+  - rel: "authored_by", target: "غونغسون لونغ", target_type: "مفكر"
 related:
   - id: "sch-mingjia", title: "مدرسة الأسماء (المنطقيون)", type: "مدرسة"
   - id: "thk-gongsun-long", title: "غونغسون لونغ", type: "مفكر"

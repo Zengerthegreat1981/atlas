@@ -1,6 +1,6 @@
 ---
 slug: "thk-jshotter"
-id: "THK-JSHOTTER"
+id: "THK-0618"
 type: "مفكر"
 level: "متوسط"
 title: "جون شوتر"

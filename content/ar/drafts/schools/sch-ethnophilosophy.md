@@ -13,7 +13,7 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1945
 active_end: 1990
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
   - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"

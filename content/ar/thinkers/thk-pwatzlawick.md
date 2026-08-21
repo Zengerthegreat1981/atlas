@@ -1,6 +1,6 @@
 ---
 slug: "thk-pwatzlawick"
-id: "THK-PWATZLAWICK"
+id: "THK-0627"
 type: "مفكر"
 level: "متوسط"
 title: "بول واتزلاويك"

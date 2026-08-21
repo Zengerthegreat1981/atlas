@@ -14,7 +14,7 @@ active_start: 1971
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
-  - rel: "evolved_from", target: "العقد الاجتماعي (Social Contract)", type: "مدرسة"
+  - rel: "evolved_from", target: "العقد الاجتماعي (Social Contract)", target_type: "مدرسة"
 related:
   - id: "sch-liberalism-classical", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
   - id: "sch-kantian-ethics", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"

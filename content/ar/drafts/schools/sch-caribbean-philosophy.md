@@ -13,7 +13,7 @@ language: "الفرنسية، الكريولية، الإنجليزية"
 active_start: 1969
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات اللاتينية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
   - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
   - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"

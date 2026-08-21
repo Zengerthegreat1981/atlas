@@ -13,7 +13,7 @@ language: "الكورية"
 active_start: 660
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تشان (الصينية)", type: "مدرسة"
+  - rel: "evolved_from", target: "تشان (الصينية)", target_type: "مدرسة"
 related:
   - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
   - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"

@@ -10,7 +10,7 @@ active_start: 1775
 active_end: 1850
 edges:
   - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
-  - rel: "developed_by", target: "فرانتس أنطون ميسمر", type: "مفكر"
+  - rel: "developed_by", target: "فرانتس أنطون ميسمر", target_type: "مفكر"
 related:
   - id: "thk-fmesmer", title: "فرانتس ميسمر", type: "مفكر"
   - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"

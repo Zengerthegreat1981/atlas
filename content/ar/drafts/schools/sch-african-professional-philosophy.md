@@ -13,8 +13,8 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الإثنوفلسفة", type: "مدرسة"
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "evolved_from", target: "الإثنوفلسفة", target_type: "مدرسة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
   - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"

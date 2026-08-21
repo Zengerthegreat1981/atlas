@@ -14,7 +14,7 @@ active_start: -1000
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", type: "مظلة"
+  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
   - id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني", type: "مدرسة"
   - id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"

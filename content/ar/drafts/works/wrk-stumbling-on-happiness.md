@@ -13,7 +13,7 @@ active_start: 2006
 active_end: 2006
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "دانيال جيلبرت", type: "مفكر"
+  - rel: "authored_by", target: "دانيال جيلبرت", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Knopf) لم تُراجع من مصدر أولي."

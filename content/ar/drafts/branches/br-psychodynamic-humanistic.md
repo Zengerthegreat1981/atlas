@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "رولو ماي", type: "مفكر"
+  - rel: "developed_by", target: "رولو ماي", target_type: "مفكر"
 related:
   - id: "thk-may", title: "رولو ماي", type: "مفكر"
   - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"

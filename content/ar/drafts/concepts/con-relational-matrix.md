@@ -10,7 +10,7 @@ dates: "1988-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "ستيفن ميتشل", type: "مفكر"
+  - rel: "developed_by", target: "ستيفن ميتشل", target_type: "مفكر"
 related:
   - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
   - id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"

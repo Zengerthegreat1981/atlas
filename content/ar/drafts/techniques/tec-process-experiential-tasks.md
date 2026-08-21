@@ -8,7 +8,7 @@ en: "Emotion-Focused Therapeutic Tasks (Greenberg, Rice)"
 crumb: "الإنسانية ← التقنيات ← المهام العلاجية بالانفعال"
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "ليزا فيرلي غرينبرغ", type: "مفكر"
+  - rel: "formulated_by", target: "ليزا فيرلي غرينبرغ", target_type: "مفكر"
 related:
   - id: "thk-greenberg-lisa", title: "ليزا فيرلي غرينبرغ", type: "مفكر"
   - id: "thk-rice", title: "روبرت رايس", type: "مفكر"

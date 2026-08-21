@@ -10,8 +10,8 @@ dates: "1967"
 language: "الفرنسية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جان لابلانش", type: "مفكر"
-  - rel: "authored_by", target: "جان-بيرتران بونتالي", type: "مفكر"
+  - rel: "authored_by", target: "جان لابلانش", target_type: "مفكر"
+  - rel: "authored_by", target: "جان-بيرتران بونتالي", target_type: "مفكر"
 related:
   - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
   - id: "thk-pontalis", title: "جان-بيرتران بونتالي", type: "مفكر"

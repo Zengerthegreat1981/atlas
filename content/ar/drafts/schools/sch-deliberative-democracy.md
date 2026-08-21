@@ -13,7 +13,7 @@ language: "الإنجليزية، الألمانية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
   - id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
   - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"

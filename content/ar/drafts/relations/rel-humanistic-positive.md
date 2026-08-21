@@ -15,7 +15,7 @@ related:
   - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
   - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
   - id: "br-positive-psychology", title: "علم النفس الإيجابي (سليجمان)", type: "تيار"
-  - id: "thk-amaslow", title: "أبراهام ماسلو", type: "مفكر"
+  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
   - id: "thk-crsnyder", title: "تشارلز سنايدر", type: "مفكر"
   - id: "thk-dsaleeby", title: "دينس ساليبي", type: "مفكر"

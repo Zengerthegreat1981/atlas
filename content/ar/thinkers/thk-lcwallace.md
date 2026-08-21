@@ -1,6 +1,6 @@
 ---
 slug: "thk-lcwallace"
-id: "THK-LCWALLACE"
+id: "THK-0622"
 type: "مفكر"
 level: "متوسط"
 title: "ب. ألن والاس"

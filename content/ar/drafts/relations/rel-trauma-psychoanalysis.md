@@ -16,7 +16,7 @@ related:
   - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-jbreuer", title: "يوزف بروير", type: "مفكر"
+  - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
   - id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"
   - id: "thk-resick", title: "باتريشيا أ. ريسك", type: "مفكر"
   - id: "thk-shapiro", title: "فرانسين شابيرو", type: "مفكر"

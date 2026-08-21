@@ -13,7 +13,7 @@ language: "الإسبانية، الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الديكولونيالية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفة الديكولونيالية", target_type: "مظلة"
 related:
   - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
   - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"

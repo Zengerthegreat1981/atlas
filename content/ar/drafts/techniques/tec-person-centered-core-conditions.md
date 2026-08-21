@@ -8,7 +8,7 @@ en: "Person-Centered Core Conditions"
 crumb: "الإنسانية ← التقنيات ← الشروط اللازمة والكافية"
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل روجرز", type: "مفكر"
+  - rel: "formulated_by", target: "كارل روجرز", target_type: "مفكر"
 related:
   - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
   - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"

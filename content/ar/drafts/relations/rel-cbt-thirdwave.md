@@ -12,8 +12,8 @@ edges:
   - rel: "belongs_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
   - rel: "relates_to", target: "الموجة الثالثة", target_type: "مدرسة"
 related:
-  - id: "thk-abeck", title: "أرون ت. بيك", type: "مفكر"
-  - id: "thk-aellis", title: "ألبرت إيليس", type: "مفكر"
+  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
+  - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
   - id: "thk-hayes-steven", title: "ستيفن سي. هايز", type: "مفكر"
   - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
   - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"

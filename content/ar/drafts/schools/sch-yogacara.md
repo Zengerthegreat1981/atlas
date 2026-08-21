@@ -13,7 +13,7 @@ language: "السنسكريتية، الصينية، التبتية"
 active_start: 350
 active_end: 900
 edges:
-  - rel: "evolved_from", target: "مادهياماكا", type: "مدرسة"
+  - rel: "evolved_from", target: "مادهياماكا", target_type: "مدرسة"
 related:
   - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
   - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"

@@ -13,7 +13,7 @@ active_start: 2012
 active_end: 2012
 edges:
   - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
-  - rel: "authored_by", target: "سوزان كين", type: "مفكر"
+  - rel: "authored_by", target: "سوزان كين", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Crown) لم تُراجع من مصدر أولي."

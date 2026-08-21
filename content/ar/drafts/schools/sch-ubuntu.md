@@ -13,8 +13,8 @@ language: "الإنجليزية، الزولوية، الزولو"
 active_start: 1995
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فلسفة أوبونتو التقليدية", type: "مدرسة"
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "evolved_from", target: "فلسفة أوبونتو التقليدية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
   - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"

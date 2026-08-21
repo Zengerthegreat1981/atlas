@@ -13,7 +13,7 @@ language: "متعددة"
 active_start: 1998
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
   - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
   - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
@@ -21,7 +21,7 @@ related:
   - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
 gaps:
   - "نصوص Mignolo, Quijano, Maldonado-Torres, Sylvia Wynter need review."
-```
+---
 
 # الفلسفة الديكولونيالية (كمظلة عالمية) (Decolonial Philosophy)
 

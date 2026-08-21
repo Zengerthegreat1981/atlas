@@ -13,7 +13,7 @@ language: "متعددة"
 active_start: 2014
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
   - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
   - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
@@ -21,7 +21,7 @@ related:
   - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
 gaps:
   - "نصوص Luciano Floridi, Nick Bostrom, Kate Crawford, Timnit Gebru need review."
-```
+---
 
 # أخلاقيات الذكاء الاصطناعي (AI Ethics)
 

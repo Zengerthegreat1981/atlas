@@ -12,7 +12,7 @@ active_start: 1971
 active_end: 1971
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "دونالد وينيكوت", type: "مفكر"
+  - rel: "authored_by", target: "دونالد وينيكوت", target_type: "مفكر"
 related:
   - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:

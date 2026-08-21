@@ -10,7 +10,7 @@ dates: "1995"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "دومينيك أَورَنج", type: "مفكر"
+  - rel: "authored_by", target: "دومينيك أَورَنج", target_type: "مفكر"
 related:
   - id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
   - id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"

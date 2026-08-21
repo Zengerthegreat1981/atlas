@@ -13,7 +13,7 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الإثنوفلسفة", type: "مدرسة"
+  - rel: "evolved_from", target: "الإثنوفلسفة", target_type: "مدرسة"
 related:
   - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
   - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"

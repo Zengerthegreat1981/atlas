@@ -13,14 +13,14 @@ language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
   - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
   - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
   - id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
 gaps:
   - "نصوص Donna Haraway, Cary Wolfe, Rosi Braidotti need review."
-```
+---
 
 # ما بعد الإنسانية (Posthumanism)
 

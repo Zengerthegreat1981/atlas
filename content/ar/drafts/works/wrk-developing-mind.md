@@ -12,7 +12,7 @@ active_start: 1999
 active_end: 1999
 edges:
   - rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
-  - rel: "authored_by", target: "دانيال سيغل", type: "مفكر"
+  - rel: "authored_by", target: "دانيال سيغل", target_type: "مفكر"
 related:
   - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:

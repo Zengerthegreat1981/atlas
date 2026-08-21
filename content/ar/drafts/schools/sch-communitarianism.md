@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1981
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "Aristotelianism (Western)", type: "مدرسة"
+  - rel: "evolved_from", target: "Aristotelianism (Western)", target_type: "مدرسة"
 related:
   - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
   - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"

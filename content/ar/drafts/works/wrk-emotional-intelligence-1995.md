@@ -12,7 +12,7 @@ active_start: 1995
 active_end: 1995
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "دانيال غولمان", type: "مفكر"
+  - rel: "authored_by", target: "دانيال غولمان", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Bantam Books) وأرقام المبيعات لم تُراجع من مصدر أولي."

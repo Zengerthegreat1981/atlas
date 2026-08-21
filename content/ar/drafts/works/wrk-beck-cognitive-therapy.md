@@ -12,7 +12,7 @@ active_start: 1976
 active_end: 1976
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "آرون بيك", type: "مفكر"
+  - rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
 related:
   - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:

@@ -10,7 +10,7 @@ dates: "2000s-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "ديانا فوشا", type: "مفكر"
+  - rel: "developed_by", target: "ديانا فوشا", target_type: "مفكر"
 related:
   - id: "thk-dfosha", title: "ديانا فوشا", type: "مفكر"
 gaps:

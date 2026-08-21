@@ -10,7 +10,7 @@ dates: "1997-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "دونَل سترن", type: "مفكر"
+  - rel: "developed_by", target: "دونَل سترن", target_type: "مفكر"
 related:
   - id: "thk-dstern", title: "دونَل سترن", type: "مفكر"
   - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"

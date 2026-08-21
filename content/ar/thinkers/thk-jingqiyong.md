@@ -1,6 +1,6 @@
 ---
 slug: "thk-jingqiyong"
-id: "THK-JINGQIYONG"
+id: "THK-0619"
 type: "مفكر"
 level: "متوسط"
 title: "يانغ ديشن"

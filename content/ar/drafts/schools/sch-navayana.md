@@ -13,8 +13,8 @@ language: "الماراثية، الهندية، الإنجليزية"
 active_start: 1956
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", type: "مظلة"
-  - rel: "evolved_from", target: "البوذية الحداثية", type: "مدرسة"
+  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مظلة"
+  - rel: "evolved_from", target: "البوذية الحداثية", target_type: "مدرسة"
 related:
   - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
   - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"

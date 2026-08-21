@@ -10,7 +10,7 @@ dates: "1966"
 language: "الفرنسية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جاك لوكان", type: "مفكر"
+  - rel: "authored_by", target: "جاك لوكان", target_type: "مفكر"
 related:
   - id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

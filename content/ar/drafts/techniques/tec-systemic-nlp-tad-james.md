@@ -10,7 +10,7 @@ active_start: 1989
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "NLP النظامي", target_type: "مدرسة"
-  - rel: "developed_by", target: "تاد جيمس", type: "مفكر"
+  - rel: "developed_by", target: "تاد جيمس", target_type: "مفكر"
 related:
   - id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
   - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-josephtrimble"
-id: "THK-JOSEPHTRIMBLE"
+id: "THK-0617"
 type: "مفكر"
 level: "متوسط"
 title: "جوزيف ترايمبل"

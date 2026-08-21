@@ -13,7 +13,7 @@ active_start: 2012
 active_end: 2012
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "تشارلز دويغ", type: "مفكر"
+  - rel: "authored_by", target: "تشارلز دويغ", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Random House) لم تُراجع من مصدر أولي."

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 2013
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-black-existentialism", title: "الوجودية السوداء", type: "مدرسة"
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"

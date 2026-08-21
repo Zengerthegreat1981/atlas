@@ -12,7 +12,7 @@ active_start: 2018
 active_end: 2018
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "يوهان هاري", type: "مفكر"
+  - rel: "authored_by", target: "يوهان هاري", target_type: "مفكر"
 related:
   - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:

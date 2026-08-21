@@ -2,6 +2,8 @@
 slug: "wrk-janov-primal-scream"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
+part: "psychology"
 level: "مبتدئ"
 title: "الصرخة البدائية (The Primal Scream)"
 en: "The Primal Scream (Janov, 1970)"

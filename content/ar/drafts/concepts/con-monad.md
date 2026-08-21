@@ -11,7 +11,7 @@ active_start: 1714
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "اللايبنتزية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "غوتفريد لايبنتز", type: "مفكر"
+  - rel: "formulated_by", target: "غوتفريد لايبنتز", target_type: "مفكر"
 related:
   - id: "thk-leibniz", title: "غوتفريد لايبنتز", type: "مفكر"
   - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"

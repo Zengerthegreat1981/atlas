@@ -10,7 +10,7 @@ active_start: 1995
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
-  - rel: "developed_by", target: "تشانغ يا-لين", type: "مفكر"
+  - rel: "developed_by", target: "تشانغ يا-لين", target_type: "مفكر"
 related:
   - id: "thk-wzhang", title: "تشانغ يا-لين", type: "مفكر"
 gaps:

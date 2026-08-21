@@ -13,7 +13,7 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1957
 active_end: 1990
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
   - id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"

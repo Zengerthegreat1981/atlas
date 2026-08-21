@@ -14,7 +14,7 @@ active_start: 1700
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
   - id: "sch-ifa", title: "تقاليد اليوروبا الفلسفية (Ifá)", type: "مدرسة"

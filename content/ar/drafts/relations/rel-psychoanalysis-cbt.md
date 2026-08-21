@@ -14,8 +14,8 @@ edges:
 related:
   - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-abeck", title: "أَرون ت. بِك", type: "مفكر"
-  - id: "thk-aellis", title: "ألبرت إيليس", type: "مفكر"
+  - id: "thk-beck", title: "أَرون ت. بِك", type: "مفكر"
+  - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
   - id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل"
   - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
 gaps:

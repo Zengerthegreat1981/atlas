@@ -13,7 +13,7 @@ language: "البالي"
 active_start: -300
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", type: "مدرسة"
+  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مدرسة"
 related:
   - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
   - id: "sch-sarvastivada", title: "سارفاستيفادا", type: "مدرسة"

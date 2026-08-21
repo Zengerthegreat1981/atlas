@@ -1,6 +1,6 @@
 ---
 slug: "thk-jschneider"
-id: "THK-JSCHNEIDER"
+id: "THK-0624"
 type: "مفكر"
 level: "متوسط"
 title: "ياكوب شنايدر"

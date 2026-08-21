@@ -10,7 +10,7 @@ dates: "1990s-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "أوتو كيرنبرغ", type: "مفكر"
+  - rel: "developed_by", target: "أوتو كيرنبرغ", target_type: "مفكر"
 related:
   - id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
   - id: "thk-fyeomans", title: "فرانك يَرمسون", type: "مفكر"

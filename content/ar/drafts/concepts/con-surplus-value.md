@@ -11,7 +11,7 @@ active_start: 1867
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل ماركس", type: "مفكر"
+  - rel: "formulated_by", target: "كارل ماركس", target_type: "مفكر"
 related:
   - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
   - id: "thk-ricardo", title: "ديفيد ريكاردو", type: "مفكر"

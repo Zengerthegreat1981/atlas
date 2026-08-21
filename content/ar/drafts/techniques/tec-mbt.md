@@ -10,7 +10,7 @@ dates: "2000s-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "بيتر فوناغي وأنطوني باتمن", type: "مفكر"
+  - rel: "developed_by", target: "بيتر فوناغي وأنطوني باتمن", target_type: "مفكر"
 related:
   - id: "thk-pfonel", title: "بيتر فوناغي", type: "مفكر"
   - id: "thk-bateman", title: "أنطوني باتمن", type: "مفكر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-johnmcintosh"
-id: "THK-JOHNMCINTOSH"
+id: "THK-0623"
 type: "مفكر"
 level: "متوسط"
 title: "جون ماكنتوش"

@@ -13,8 +13,8 @@ language: "متعددة"
 active_start: 1884
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الماركسية الكلاسيكية", type: "مدرسة"
-  - rel: "evolved_from", target: "النسوية الراديكالية", type: "مدرسة"
+  - rel: "evolved_from", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "النسوية الراديكالية", target_type: "مدرسة"
 related:
   - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
   - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"

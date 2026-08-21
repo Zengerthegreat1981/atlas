@@ -13,7 +13,7 @@ language: "الإنجليزية، الهندية، الغوجاراتية"
 active_start: 1915
 active_end: 1948
 edges:
-  - rel: "evolved_from", target: "Bhakti", type: "تيار"
+  - rel: "evolved_from", target: "Bhakti", target_type: "تيار"
 related:
   - id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
   - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"

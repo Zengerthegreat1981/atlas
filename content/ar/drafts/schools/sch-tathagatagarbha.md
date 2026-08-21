@@ -13,8 +13,8 @@ language: "السنسكريتية، الصينية، التبتية"
 active_start: 250
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "مادهياماكا", type: "مدرسة"
-  - rel: "evolved_from", target: "يوغاكارا", type: "مدرسة"
+  - rel: "evolved_from", target: "مادهياماكا", target_type: "مدرسة"
+  - rel: "evolved_from", target: "يوغاكارا", target_type: "مدرسة"
 related:
   - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
   - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "السنسكريتية، البالي"
 active_start: -500
 active_end: 400
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", type: "مظلة"
+  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
 related:
   - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
   - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"

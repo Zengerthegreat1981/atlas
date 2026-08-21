@@ -10,7 +10,7 @@ dates: "1930s-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "هورني، فروم، سوليفان", type: "مفكر"
+  - rel: "developed_by", target: "هورني، فروم، سوليفان", target_type: "مفكر"
 related:
   - id: "thk-karenhorney", title: "كارين هورني", type: "مفكر"
   - id: "thk-irerich", title: "إريك فروم", type: "مفكر"

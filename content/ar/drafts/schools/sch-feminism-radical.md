@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", type: "مظلة"
+  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
   - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
   - id: "sch-feminism-marxist", title: "النسوية الماركسية", type: "مدرسة"

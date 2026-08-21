@@ -14,7 +14,7 @@ active_start: 1000
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", type: "مظلة"
+  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
   - id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
   - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"

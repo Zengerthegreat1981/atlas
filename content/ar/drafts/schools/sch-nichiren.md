@@ -13,7 +13,7 @@ language: "اليابانية"
 active_start: 1253
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تنداي اليابانية", type: "مدرسة"
+  - rel: "evolved_from", target: "تنداي اليابانية", target_type: "مدرسة"
 related:
   - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
   - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"

@@ -12,7 +12,7 @@ active_start: 1973
 active_end: 1973
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جون باولبي", type: "مفكر"
+  - rel: "authored_by", target: "جون باولبي", target_type: "مفكر"
 related:
   - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 gaps:

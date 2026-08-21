@@ -49,14 +49,12 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 1. **[cross-school-relations-backlog.md](cross-school-relations-backlog.md)** ✅ خلصان بالكامل (`rel-`).
 2. **[minimax-full-completion-pipeline.md](minimax-full-completion-pipeline.md)** ✅ خلصان بالكامل
    (3 مراحل، 2026-08-21).
-3. **[philosophy-full-pipeline.md](philosophy-full-pipeline.md)** — المهمة الحالية (بتاريخ
-   2026-08-21). بموافقة صريحة من صاحب المشروع: بدء **قسم الفلسفة** (335 مدرسة/تيار في
-   `philosophy-schools-backlog.md`) ثم **قسم الجسر**. ابدأ من هنا مباشرة — لاحظ التغيير المعماري
-   الجديد (`part`, `schools/`) في `draft-writer-brief.md` §2ج قبل أول مسودة.
-4. **[minimax-cross-part-relations-pipeline.md](minimax-cross-part-relations-pipeline.md)** —
-   **التالية في القائمة، لا تبدأها إلا بعد ما رقم 3 يبقى `[x]` بالكامل (المرحلتين).** علاقات `rel-`
-   موثّقة أكاديميًا بين مدارس فلسفية ومدارس نفسية (رواقية↔CBT، بوذية↔الموجة الثالثة، وجودية فلسفية↔
-   وجودية علاجية...).
+3. **[philosophy-full-pipeline.md](philosophy-full-pipeline.md)** ✅ خلصان بالكامل
+   (3 مراحل، 2026-08-21).
+4. **[minimax-cross-part-relations-pipeline.md](minimax-cross-part-relations-pipeline.md)** ✅ خلصان
+   بالكامل (4 ملفات `rel-`، 4 مؤجَّلة، 2026-08-21). 4 علاقات بين القسمين: رواقية↔CBT، ظاهراتية↔
+   علاج وجودي، بوذية↔موجة ثالثة، كيركغاردية+نيتشوية↔علاج وجودي. قائمة النطاق:
+   [cross-part-relations-scope-list.md](cross-part-relations-scope-list.md).
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/

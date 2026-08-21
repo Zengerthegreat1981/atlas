@@ -12,7 +12,7 @@ active_start: 1974
 active_end: 1974
 edges:
   - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ستانلي ميلغرام", type: "مفكر"
+  - rel: "authored_by", target: "ستانلي ميلغرام", target_type: "مفكر"
 related:
   - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:

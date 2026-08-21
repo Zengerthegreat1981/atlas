@@ -12,7 +12,7 @@ active_start: 1975
 active_end: 1975
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "مارتن سليغمان", type: "مفكر"
+  - rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
 related:
   - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:

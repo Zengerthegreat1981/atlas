@@ -8,7 +8,7 @@ en: "Dereflection (Logotherapy)"
 crumb: "الإنسانية ← التقنيات ← تقنية المنعطف الوجودي"
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "فيكتور فرانكل", type: "مفكر"
+  - rel: "formulated_by", target: "فيكتور فرانكل", target_type: "مفكر"
 related:
   - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
   - id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"

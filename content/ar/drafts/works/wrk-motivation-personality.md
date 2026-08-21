@@ -12,7 +12,7 @@ active_start: 1954
 active_end: 1954
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "أبراهام ماسلو", type: "مفكر"
+  - rel: "authored_by", target: "أبراهام ماسلو", target_type: "مفكر"
 related:
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"

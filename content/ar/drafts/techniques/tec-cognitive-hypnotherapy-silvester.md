@@ -10,7 +10,7 @@ active_start: 2000
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التنويم المعرفي", target_type: "مدرسة"
-  - rel: "developed_by", target: "تريفور سيلفستر", type: "مفكر"
+  - rel: "developed_by", target: "تريفور سيلفستر", target_type: "مفكر"
 related:
   - id: "thk-tsilvester", title: "تريفور سيلفستر", type: "مفكر"
 gaps:

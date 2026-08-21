@@ -13,7 +13,7 @@ language: "الإنجليزية، الفرنسية، العربية"
 active_start: 1986
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+  - rel: "evolved_from", target: "ما بعد الاستعمار الفلسفي", target_type: "مدرسة"
 related:
   - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"

@@ -16,9 +16,9 @@ edges:
   - rel: "developed_by", target: "ساندور فيرينتزي", target_type: "مفكر"
   - rel: "developed_by", target: "كارل أبراهام", target_type: "مفكر"
 related:
-  - id: "thk-ferenczi", title: "ساندور فيرينتزي", type: "مفكر"
+  - id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
   - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
-  - id: "thk-eitingon", title: "ماكس إيتينغون", type: "مفكر"
+  - id: "thk-meitingon", title: "ماكس إيتينغون", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "تأسيس معهد برلين للتحليل النفسي (1920) ونموذج التدريب التحليلي الثلاثي المعتمد عالمياً (التحليل الشخصي، الإشراف، المحاضرات النظرية)."

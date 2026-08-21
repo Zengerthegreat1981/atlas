@@ -13,7 +13,7 @@ language: "متعددة"
 active_start: 1982
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
   - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
   - id: "sch-laclau-mouffe", title: "لاكلو-موف", type: "مفكر"

@@ -11,7 +11,7 @@ dates: "524 م · بافيا (السجن)"
 country: "المملكة الأودو-قوطية (إيطاليا)"
 language: "اللاتينية"
 edges:
-  - rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", type: "مدرسة"
+  - rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
 related:
   - id: "thk-boethius", title: "بوئيثيوس (أنيسيوس مانليوس سيفيرينوس)", type: "مفكر"
   - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"

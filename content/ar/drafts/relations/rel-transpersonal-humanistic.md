@@ -15,10 +15,10 @@ related:
   - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
   - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
   - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات (ماسلو)", type: "تيار"
-  - id: "thk-amaslow", title: "أبراهام ماسلو", type: "مفكر"
+  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
   - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
-  - id: "thk-asutich", title: "أنتوني سوتيتش", type: "مفكر"
+  - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
 gaps:
   - "ترتيب 'الموجات' الأربع (تحليل نفسي = 1، سلوكية = 2، إنسانية = 3، عبر شخصية = 4) ليس موحداً في الأدبيات — ماسلو نفسه اقترح 'الموجة الرابعة' (1968)، لكن ويلبر أعاد تفسير النظام بأكمله لاحقاً."
   - "علاقة ويلبر بـ 'AQAL' (All Quadrants, All Levels) كنموذج تكاملي — التفاصيل لم تُراجع بعد."

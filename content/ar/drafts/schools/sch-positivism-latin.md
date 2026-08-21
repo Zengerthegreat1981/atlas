@@ -13,13 +13,14 @@ language: "الإسبانية، البرتغالية"
 active_start: 1850
 active_end: 1930
 edges:
-  - rel: "evolved_from", target: "الوضعية (الكومتية)", type: "مدرسة"
+  - rel: "evolved_from", target: "الوضعية (الكومتية)", target_type: "مدرسة"
 related:
   - id: "sch-comtian-positivism", title: "الوضعية (الكومتية)", type: "مدرسة"
   - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية", type: "مدرسة"
   - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 gaps:
   - "نصوص أباديا (Orden y Progreso) وJosé Ingenieros وAntonio Gramsci (تحليلها) need review."
+---
 
 # الوضعية اللاتينية (Latin American Positivism)
 

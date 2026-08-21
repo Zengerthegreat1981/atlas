@@ -10,7 +10,7 @@ dates: "1985-اليوم"
 language: "الفرنسية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "ديدييه أنزيو", type: "مفكر"
+  - rel: "developed_by", target: "ديدييه أنزيو", target_type: "مفكر"
 related:
   - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
   - id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"

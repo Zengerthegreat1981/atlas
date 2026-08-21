@@ -13,7 +13,7 @@ language: "الإسبانية، الكيتشوا، الأيمارا"
 active_start: 1984
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات اللاتينية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
   - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
   - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"

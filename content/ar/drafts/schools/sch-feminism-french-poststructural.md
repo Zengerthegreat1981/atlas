@@ -13,7 +13,7 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1969
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "ما بعد البنيوية", type: "مدرسة"
+  - rel: "evolved_from", target: "ما بعد البنيوية", target_type: "مدرسة"
 related:
   - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
   - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"

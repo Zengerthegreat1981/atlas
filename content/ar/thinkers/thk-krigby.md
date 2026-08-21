@@ -1,6 +1,6 @@
 ---
 slug: "thk-krigby"
-id: "THK-KRIGBY"
+id: "THK-0620"
 type: "مفكر"
 level: "متوسط"
 title: "كن رِجباي"

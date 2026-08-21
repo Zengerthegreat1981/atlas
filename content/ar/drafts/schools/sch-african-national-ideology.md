@@ -13,7 +13,7 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1948
 active_end: 1980
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
   - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"

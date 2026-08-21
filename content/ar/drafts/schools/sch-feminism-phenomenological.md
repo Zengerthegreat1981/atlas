@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الظاهراتية", type: "مدرسة"
+  - rel: "evolved_from", target: "الظاهراتية", target_type: "مدرسة"
 related:
   - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
   - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"

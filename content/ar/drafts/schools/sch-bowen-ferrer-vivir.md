@@ -13,7 +13,7 @@ language: "الكيتشوا، الأيمارا، الإسبانية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفات السكان الأصليين المعاصرة", type: "مظلة"
+  - rel: "belongs_to", target: "فلسفات السكان الأصليين المعاصرة", target_type: "مظلة"
 related:
   - id: "sch-interculturalidad", title: "فلسفة العبور الثقافي", type: "مدرسة"
   - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"

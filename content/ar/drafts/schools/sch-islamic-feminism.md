@@ -13,7 +13,7 @@ language: "العربية، الفارسية، التركية، الإنجليز
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", type: "مظلة"
+  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
   - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
   - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"

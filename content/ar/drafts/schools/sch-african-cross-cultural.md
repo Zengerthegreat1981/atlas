@@ -13,7 +13,7 @@ language: "متعددة"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
   - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"

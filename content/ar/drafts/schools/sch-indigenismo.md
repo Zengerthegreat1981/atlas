@@ -13,7 +13,7 @@ language: "الإسبانية"
 active_start: 1920
 active_end: 1970
 edges:
-  - rel: "belongs_to", target: "الفلسفات اللاتينية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
   - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
   - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"

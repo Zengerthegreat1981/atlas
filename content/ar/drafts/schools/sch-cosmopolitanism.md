@@ -13,7 +13,7 @@ language: "متعددة"
 active_start: -400
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
   - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
   - id: "sch-cynicism", title: "الكلبية", type: "مدرسة"

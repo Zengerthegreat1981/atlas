@@ -20,7 +20,7 @@ related:
   - id: "thk-jbenjamin", title: "جيسيكا بنجامين", type: "مفكر"
   - id: "thk-bromberg", title: "فيليب برومبرغ", type: "مفكر"
   - id: "thk-chodorow", title: "نانسي شودورو", type: "مفكر"
-  - id: "thk-harrystack-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 gaps:
   - "التمييز بين التحليل العلائقي كحركة واسعة ونظرية البين-ذاتية وسيكولوجيا الذات يحتاج تدقيقاً."
   - "مفهوم 'التمثيل المشترك' (Enactment) ودوره الإكلينيكي في المدرسة العلائقية المعاصرة."

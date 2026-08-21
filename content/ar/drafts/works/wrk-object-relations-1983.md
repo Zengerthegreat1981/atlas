@@ -10,8 +10,8 @@ dates: "1983"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جاي غرينبرغ", type: "مفكر"
-  - rel: "authored_by", target: "ستيفن ميتشل", type: "مفكر"
+  - rel: "authored_by", target: "جاي غرينبرغ", target_type: "مفكر"
+  - rel: "authored_by", target: "ستيفن ميتشل", target_type: "مفكر"
 related:
   - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
   - id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"

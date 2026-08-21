@@ -13,7 +13,7 @@ active_end: 524
 country: "إيطاليا (المملكة الأودو-قوطية، ثم البيزنطية)"
 language: "اللاتينية"
 edges:
-  - rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", type: "مدرسة"
+  - rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
 related:
   - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
   - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"

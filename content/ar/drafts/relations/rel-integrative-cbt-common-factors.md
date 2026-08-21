@@ -15,7 +15,7 @@ related:
   - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
   - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
   - id: "thk-diclemente", title: "كارل دي كليمنتي", type: "مفكر"
-  - id: "thk-abeck", title: "أرون ت. بيك", type: "مفكر"
+  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
   - id: "thk-hayes-steven", title: "ستيفن سي. هايز", type: "مفكر"
   - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
 gaps:

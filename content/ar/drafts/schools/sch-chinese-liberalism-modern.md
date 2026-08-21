@@ -13,14 +13,14 @@ language: "الصينية"
 active_start: 1915
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الكونفوشية الجديدة", type: "مدرسة"
+  - rel: "evolved_from", target: "الكونفوشية الجديدة", target_type: "مدرسة"
 related:
   - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة", type: "مدرسة"
   - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
   - id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
 gaps:
   - "نصوص Hu Shih, Liang Qichao, Hu Shi, Liang Shuming need review."
-```
+---
 
 # الليبرالية الصينية الحديثة (Modern Chinese Liberalism)
 

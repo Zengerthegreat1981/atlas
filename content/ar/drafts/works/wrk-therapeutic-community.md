@@ -12,7 +12,7 @@ active_start: 1953
 active_end: 1953
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "ماكسويل جونز", type: "مفكر"
+  - rel: "authored_by", target: "ماكسويل جونز", target_type: "مفكر"
 related:
   - id: "thk-mjones", title: "ماكسويل جونز", type: "مفكر"
   - id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"

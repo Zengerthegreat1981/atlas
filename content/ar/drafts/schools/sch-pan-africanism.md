@@ -13,7 +13,7 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1900
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
   - id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"

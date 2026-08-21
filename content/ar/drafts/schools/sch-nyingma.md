@@ -13,8 +13,8 @@ language: "التبتية"
 active_start: 750
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", type: "مدرسة"
+  - rel: "belongs_to", target: "فاجرايانا / البوذية التانترية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
 related:
   - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
   - id: "sch-kagyu", title: "كاغيو", type: "مدرسة"

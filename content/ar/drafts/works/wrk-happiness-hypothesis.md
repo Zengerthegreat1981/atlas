@@ -13,7 +13,7 @@ active_start: 2006
 active_end: 2006
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "جوناثان هايدت", type: "مفكر"
+  - rel: "authored_by", target: "جوناثان هايدت", target_type: "مفكر"
 related:
   - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jweakland"
-id: "THK-JWEAKLAND"
+id: "THK-0629"
 type: "مفكر"
 level: "متوسط"
 title: "جون وِكلاند"

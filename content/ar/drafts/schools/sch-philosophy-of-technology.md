@@ -13,14 +13,14 @@ language: "الألمانية، الإنجليزية"
 active_start: 1877
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
   - id: "sch-heidegger", title: "مارتن هايدجر", type: "مفكر"
   - id: "sch-borgmann", title: "ألبرت بورغمان", type: "مفكر"
   - id: "sch-foucault", title: "ميشيل فوكو", type: "مفكر"
 gaps:
   - "نصوص Ernst Kapp, Lewis Mumford, Jacques Ellul, Martin Heidegger, Gilbert Simondon, Bernard Stiegler, Gilbert Hottois, Don Ihde, Peter-Paul Verbeek need review."
-```
+---
 
 # فلسفة التكنولوجيا (Philosophy of Technology)
 

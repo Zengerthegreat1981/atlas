@@ -12,7 +12,7 @@ active_start: 1978
 active_end: 1978
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "يوجين جندلين", type: "مفكر"
+  - rel: "authored_by", target: "يوجين جندلين", target_type: "مفكر"
 related:
   - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
   - id: "con-felt-sense", title: "الإحساس الجسدي المحسَّس", type: "مفهوم"

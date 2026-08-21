@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1962
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فلسفة البيئة", type: "مدرسة"
+  - rel: "evolved_from", target: "فلسفة البيئة", target_type: "مدرسة"
 related:
   - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
   - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
@@ -21,7 +21,7 @@ related:
   - id: "sch-bookchin", title: "Murray Bookchin", type: "مفكر"
 gaps:
   - "نصوص Murray Bookchin (The Ecology of Freedom, 1982) need review."
-```
+---
 
 # الإيكولوجيا الاجتماعية (Social Ecology)
 

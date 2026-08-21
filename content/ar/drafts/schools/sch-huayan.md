@@ -13,8 +13,8 @@ language: "الصينية الكلاسيكية"
 active_start: 660
 active_end: 1900
 edges:
-  - rel: "evolved_from", target: "تيانتاي (الصينية)", type: "مدرسة"
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", type: "مدرسة"
+  - rel: "evolved_from", target: "تيانتاي (الصينية)", target_type: "مدرسة"
+  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
 related:
   - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
   - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"

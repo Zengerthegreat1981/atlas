@@ -13,7 +13,7 @@ language: "العربية، التركية، الفارسية، الأوردو،
 active_start: 1928
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "العالم الإسلامي: الإصلاح والحداثة", type: "مظلة"
+  - rel: "belongs_to", target: "العالم الإسلامي: الإصلاح والحداثة", target_type: "مظلة"
 related:
   - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
   - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"

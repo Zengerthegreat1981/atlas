@@ -12,10 +12,10 @@ active_start: 2002
 active_end: 2002
 edges:
   - rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
-  - rel: "authored_by", target: "بيتر فوناغي", type: "مفكر"
-  - rel: "authored_by", target: "غيورغي غيرغيلي", type: "مفكر"
-  - rel: "authored_by", target: "إليوت جوريست", type: "مفكر"
-  - rel: "authored_by", target: "ماري تارغت", type: "مفكر"
+  - rel: "authored_by", target: "بيتر فوناغي", target_type: "مفكر"
+  - rel: "authored_by", target: "غيورغي غيرغيلي", target_type: "مفكر"
+  - rel: "authored_by", target: "إليوت جوريست", target_type: "مفكر"
+  - rel: "authored_by", target: "ماري تارغت", target_type: "مفكر"
 related:
   - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:

@@ -13,8 +13,8 @@ language: "الفيتنامية، الصينية الكلاسيكية"
 active_start: 1069
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تشان (الصينية)", type: "مدرسة"
-  - rel: "evolved_from", target: "تيانتاي (الصينية)", type: "مدرسة"
+  - rel: "evolved_from", target: "تشان (الصينية)", target_type: "مدرسة"
+  - rel: "evolved_from", target: "تيانتاي (الصينية)", target_type: "مدرسة"
 related:
   - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
   - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"

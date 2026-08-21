@@ -13,7 +13,7 @@ language: "الإسبانية، البرتغالية"
 active_start: 1965
 active_end: 1980
 edges:
-  - rel: "evolved_from", target: "الماركسية الكلاسيكية", type: "مدرسة"
+  - rel: "evolved_from", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
 related:
   - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
   - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"

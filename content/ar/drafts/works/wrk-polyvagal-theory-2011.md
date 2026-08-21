@@ -12,7 +12,7 @@ active_start: 2011
 active_end: 2011
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ستيفن بورجيز", type: "مفكر"
+  - rel: "authored_by", target: "ستيفن بورجيز", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (W. W. Norton) لم تُراجع من مصدر أولي."

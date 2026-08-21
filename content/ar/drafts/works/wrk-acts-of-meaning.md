@@ -12,7 +12,7 @@ active_start: 1995
 active_end: 1995
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "دانيال ستيرن", type: "مفكر"
+  - rel: "authored_by", target: "دانيال ستيرن", target_type: "مفكر"
 related:
   - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:

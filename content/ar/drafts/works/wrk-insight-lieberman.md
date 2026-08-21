@@ -12,7 +12,7 @@ active_start: 2013
 active_end: 2013
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ماثيو ليبرمان", type: "مفكر"
+  - rel: "authored_by", target: "ماثيو ليبرمان", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Crown Business) لم تُراجع من مصدر أولي."

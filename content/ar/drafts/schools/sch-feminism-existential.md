@@ -13,8 +13,8 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1949
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الوجودية", type: "مدرسة"
-  - rel: "evolved_from", target: "النسوية الراديكالية", type: "مدرسة"
+  - rel: "evolved_from", target: "الوجودية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "النسوية الراديكالية", target_type: "مدرسة"
 related:
   - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
   - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"

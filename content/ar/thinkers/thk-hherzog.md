@@ -1,6 +1,6 @@
 ---
 slug: "thk-hherzog"
-id: "THK-0584"
+id: "THK-0625"
 type: "مفكر"
 level: "متوسط"
 title: "ماكس هرتسوغ"

@@ -13,8 +13,8 @@ active_end: "مستمر"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "كيرك شنايدر", type: "مفكر"
-  - rel: "developed_by", target: "إريك كريك", type: "مفكر"
+  - rel: "developed_by", target: "كيرك شنايدر", target_type: "مفكر"
+  - rel: "developed_by", target: "إريك كريك", target_type: "مفكر"
 related:
   - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
   - id: "thk-ecraig", title: "إريك كريك", type: "مفكر"

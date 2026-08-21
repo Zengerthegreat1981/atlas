@@ -10,7 +10,7 @@ dates: "1980s-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "حبيب دَفانلو", type: "مفكر"
+  - rel: "developed_by", target: "حبيب دَفانلو", target_type: "مفكر"
 related:
   - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
 gaps:

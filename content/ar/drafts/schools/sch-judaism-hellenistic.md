@@ -13,8 +13,8 @@ language: "اليونانية"
 active_start: -50
 active_end: 50
 edges:
-  - rel: "evolved_from", target: "تقليد الحكمة العبرية", type: "مدرسة"
-  - rel: "evolved_from", target: "الأفلاطونية الوسطى", type: "مدرسة"
+  - rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
 related:
   - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية", type: "مدرسة"
   - id: "sch-plotinus", title: "الأفلاطونية المحدثة", type: "مدرسة"

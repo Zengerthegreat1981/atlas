@@ -8,7 +8,7 @@ en: "Fully Functioning Person"
 crumb: "الإنسانية ← المفاهيم ← الشخصية العاملة بكامل طاقتها"
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل روجرز", type: "مفكر"
+  - rel: "formulated_by", target: "كارل روجرز", target_type: "مفكر"
 related:
   - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
   - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"

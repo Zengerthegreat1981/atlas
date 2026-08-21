@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1792
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", type: "مظلة"
+  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
   - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
   - id: "sch-wollstonecraft", title: "ماري ولستونكرافت", type: "مفكرة"

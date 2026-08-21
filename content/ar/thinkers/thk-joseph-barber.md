@@ -1,6 +1,6 @@
 ---
 slug: "thk-joseph-barber"
-id: "THK-JOSEPH-BARBER"
+id: "THK-0615"
 type: "مفكر"
 level: "متوسط"
 title: "جوزيف باربر"

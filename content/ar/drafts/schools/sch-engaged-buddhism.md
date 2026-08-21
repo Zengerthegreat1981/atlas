@@ -13,8 +13,8 @@ language: "الإنجليزية، الفيتنامية، الفرنسية"
 active_start: 1963
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية الحداثية", type: "مدرسة"
-  - rel: "evolved_from", target: "تروك لام (البوذية الفيتنامية)", type: "مدرسة"
+  - rel: "evolved_from", target: "البوذية الحداثية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "تروك لام (البوذية الفيتنامية)", target_type: "مدرسة"
 related:
   - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
   - id: "sch-truc-lam", title: "تروك لام (البوذية الفيتنامية)", type: "مدرسة"

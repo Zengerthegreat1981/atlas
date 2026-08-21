@@ -14,7 +14,7 @@ active_start: 1100
 active_end: 1521
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", type: "مظلة"
+  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
   - id: "sch-maya", title: "الفلسفة الماياوية", type: "مدرسة"
   - id: "sch-andean", title: "الفلسفة الأنديزية", type: "مدرسة"

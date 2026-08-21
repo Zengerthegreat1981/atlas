@@ -13,14 +13,14 @@ language: "الهندية، الإنجليزية، السنسكريتية"
 active_start: 1923
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الآسيوية الحديثة", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الآسيوية الحديثة", target_type: "مظلة"
 related:
   - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
   - id: "sch-nationalism-philosophical", title: "القومية الفلسفية", type: "مدرسة"
   - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
 gaps:
   - "نصوص V.D. Savarkar (Hindutva, 1923) وM.S. Golwalkar need review."
-```
+---
 
 # الفلسفة الهندوسية القومية (هندوتفا / Hindutva)
 

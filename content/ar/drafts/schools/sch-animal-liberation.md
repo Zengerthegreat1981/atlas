@@ -13,14 +13,14 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
   - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
   - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
   - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 gaps:
   - "نصوص Peter Singer, Tom Regan, Martha Nussbaum, Carol Adams, Jacques Derrida need review."
-```
+---
 
 # أخلاقيات الحيوان / فلسفة تحرير الحيوان (Animal Ethics / Liberation)
 

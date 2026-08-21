@@ -13,7 +13,7 @@ language: "السنسكريتية"
 active_start: -200
 active_end: 400
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", type: "مدرسة"
+  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مدرسة"
 related:
   - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
   - id: "sch-sarvastivada", title: "سارفاستيفادا", type: "مدرسة"

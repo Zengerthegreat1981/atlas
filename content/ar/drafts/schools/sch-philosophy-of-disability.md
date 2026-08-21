@@ -13,14 +13,14 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
   - id: "sch-feminism", title: "النسوية", type: "مدرسة"
   - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
   - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
 gaps:
   - "نصوص Eva Kittay, Lennard Davis, Tom Shakespeare, Michael Bérubé, Sunaura Taylor, Rosemarie Garland-Thomson need review."
-```
+---
 
 # فلسفة الإعاقة (Philosophy of Disability)
 

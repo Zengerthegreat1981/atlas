@@ -13,7 +13,7 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
   - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"

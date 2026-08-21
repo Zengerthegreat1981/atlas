@@ -12,7 +12,7 @@ active_start: 1965
 active_end: 1965
 edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "جيمس بوجنتال", type: "مفكر"
+  - rel: "authored_by", target: "جيمس بوجنتال", target_type: "مفكر"
 related:
   - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
   - id: "thk-may", title: "رولو ماي", type: "مفكر"

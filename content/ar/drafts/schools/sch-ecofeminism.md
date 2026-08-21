@@ -13,8 +13,8 @@ language: "متعددة"
 active_start: 1974
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية الراديكالية", type: "مدرسة"
-  - rel: "evolved_from", target: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+  - rel: "evolved_from", target: "النسوية الراديكالية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "فلسفة البيئة / الأخلاق البيئية", target_type: "مدرسة"
 related:
   - id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
   - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"

@@ -10,7 +10,7 @@ dates: "التسعينيات-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "توماس أوغدن", type: "مفكر"
+  - rel: "developed_by", target: "توماس أوغدن", target_type: "مفكر"
 related:
   - id: "thk-togden", title: "توماس أوغدن", type: "مفكر"
   - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mariellekruger"
-id: "THK-0582"
+id: "THK-0626"
 type: "مفكر"
 level: "متوسط"
 title: "ماري كروغر"

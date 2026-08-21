@@ -13,8 +13,8 @@ language: "الإسبانية، البرتغالية"
 active_start: 1968
 active_end: 2000
 edges:
-  - rel: "evolved_from", target: "الظاهراتية", type: "مدرسة"
-  - rel: "evolved_from", target: "الماركسية الإنسانية", type: "مدرسة"
+  - rel: "evolved_from", target: "الظاهراتية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "الماركسية الإنسانية", target_type: "مدرسة"
 related:
   - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
   - id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"

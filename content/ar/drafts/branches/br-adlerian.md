@@ -16,7 +16,7 @@ edges:
   - rel: "developed_by", target: "ألفريد أدلر", target_type: "مفكر"
 related:
   - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
-  - id: "thk-dreikurs", title: "رودولف درايكرز", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
   - id: "thk-adler", title: "ألكسندرا أدلر", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:

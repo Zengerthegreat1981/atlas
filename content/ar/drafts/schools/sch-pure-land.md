@@ -13,8 +13,8 @@ language: "السنسسكريتية، الصينية الكلاسيكية، ال
 active_start: 150
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "مادهيامaka", type: "مدرسة"
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", type: "مدرسة"
+  - rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
 related:
   - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
   - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"

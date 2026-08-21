@@ -12,7 +12,7 @@ active_start: 2012
 active_end: 2012
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ريتشارد ديفيدسون", type: "مفكر"
+  - rel: "authored_by", target: "ريتشارد ديفيدسون", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Hudson Street Press) لم تُراجع من مصدر أولي."

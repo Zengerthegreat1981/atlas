@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmunderross"
-id: "THK-JMUNDERROSS"
+id: "THK-0621"
 type: "مفكر"
 level: "متوسط"
 title: "جون ماندر روس"

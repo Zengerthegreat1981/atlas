@@ -13,7 +13,7 @@ language: "التبتية"
 active_start: -1000
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", type: "مظلة"
+  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
 related:
   - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مظلة"
   - id: "sch-nyingma", title: "نينغما", type: "مدرسة"

@@ -27,7 +27,7 @@ related:
   - id: "thk-stoics", title: "الرواقيون (سينيكا وإبيكتيتوس)", type: "مفكر"
   - id: "thk-hoffman", title: "لويس هوفمان", type: "مفكر"
   - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
-  - id: "thk-harrystack-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
   - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 gaps:
   - "بيانات أعماله وتواريخها — تحتاج تثبيتاً"

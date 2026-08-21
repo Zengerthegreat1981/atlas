@@ -12,7 +12,7 @@ active_start: 1998
 active_end: 1998
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جاك بانكسيب", type: "مفكر"
+  - rel: "authored_by", target: "جاك بانكسيب", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Oxford University Press) والطبعات اللاحقة لم تُراجع من مصدر أولي."

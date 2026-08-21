@@ -13,14 +13,14 @@ language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فلسفة البيئة", type: "مدرسة"
+  - rel: "evolved_from", target: "فلسفة البيئة", target_type: "مدرسة"
 related:
   - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
   - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
   - id: "sch-ecofeminism", title: "النسوية البيئية", type: "مدرسة"
 gaps:
   - "نصوص Arne Næss (The Shallow and the Deep, 1973) وNaess and Sessions (Deep Ecology, 1984) need review."
-```
+---
 
 # الإيكولوجيا العميقة (Deep Ecology)
 

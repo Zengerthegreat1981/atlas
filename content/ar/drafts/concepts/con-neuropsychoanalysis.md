@@ -10,7 +10,7 @@ dates: "1999-اليوم"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "مارك سولمز", type: "مفكر"
+  - rel: "developed_by", target: "مارك سولمز", target_type: "مفكر"
 related:
   - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

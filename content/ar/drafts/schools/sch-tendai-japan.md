@@ -13,7 +13,7 @@ language: "اليابانية، الصينية الكلاسيكية"
 active_start: 805
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تيانتاي (الصينية)", type: "مدرسة"
+  - rel: "evolved_from", target: "تيانتاي (الصينية)", target_type: "مدرسة"
 related:
   - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
   - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"

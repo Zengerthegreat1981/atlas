@@ -13,7 +13,7 @@ language: "البنغالية، الإنجليزية"
 active_start: 1890
 active_end: 1941
 edges:
-  - rel: "evolved_from", target: "نيو-فيدانتا", type: "مظلة"
+  - rel: "evolved_from", target: "نيو-فيدانتا", target_type: "مظلة"
 related:
   - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
   - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"

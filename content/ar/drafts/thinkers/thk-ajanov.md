@@ -2,6 +2,8 @@
 slug: "thk-ajanov"
 id: "[DRAFT-UNKNOWN]"
 type: "مفكر"
+register: "popular"
+part: "psychology"
 level: "متوسط"
 title: "آرثر يانوف"
 en: "Arthur Janov"

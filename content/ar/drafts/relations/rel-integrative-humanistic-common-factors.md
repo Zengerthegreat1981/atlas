@@ -13,8 +13,8 @@ edges:
   - rel: "relates_to", target: "الإنسانية", target_type: "مدرسة"
 related:
   - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
-  - id: "thk-crogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-amaslow", title: "أبراهام ماسلو", type: "مفكر"
+  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 gaps:
   - "ما إذا كان روجرز قد قرأ Wampold — لا (توفي 1987 قبل Wampold 2001)."

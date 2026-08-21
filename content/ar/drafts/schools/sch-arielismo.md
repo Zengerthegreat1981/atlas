@@ -13,7 +13,7 @@ language: "الإسبانية"
 active_start: 1900
 active_end: 1960
 edges:
-  - rel: "evolved_from", target: "الرومانسية الفلسفية", type: "مدرسة"
+  - rel: "evolved_from", target: "الرومانسية الفلسفية", target_type: "مدرسة"
 related:
   - id: "sch-romanticism", title: "الرومانسية الفلسفية", type: "مدرسة"
   - id: "sch-positivism-latin", title: "الوضعية اللاتينية", type: "مدرسة"

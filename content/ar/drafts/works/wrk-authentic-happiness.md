@@ -13,7 +13,7 @@ active_start: 2002
 active_end: 2002
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "مارتن سليغمان", type: "مفكر"
+  - rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Free Press) لم تُراجع من مصدر أولي."

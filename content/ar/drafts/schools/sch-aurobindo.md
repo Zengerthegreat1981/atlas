@@ -13,7 +13,7 @@ language: "الإنجليزية، السنسكريتية، الفرنسية"
 active_start: 1910
 active_end: 1950
 edges:
-  - rel: "evolved_from", target: "نيو-فيدانتا", type: "مظلة"
+  - rel: "evolved_from", target: "نيو-فيدانتا", target_type: "مظلة"
 related:
   - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
   - id: "sch-vivekananda", title: "فيفيكاناندا", type: "مفكر"

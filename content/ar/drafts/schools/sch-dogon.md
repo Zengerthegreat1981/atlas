@@ -14,7 +14,7 @@ active_start: 900
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
   - id: "sch-akaan", title: "فلسفة الأكان", type: "مدرسة"

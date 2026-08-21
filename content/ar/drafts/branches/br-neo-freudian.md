@@ -17,9 +17,9 @@ edges:
   - rel: "developed_by", target: "إريك فروم", target_type: "مفكر"
   - rel: "developed_by", target: "هاري ستاك سوليفان", target_type: "مفكر"
 related:
-  - id: "thk-karenhorney", title: "كارين هورني", type: "مفكر"
+  - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
   - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-  - id: "thk-harrystack-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
   - id: "thk-cthompson", title: "كلارا طومسون", type: "مفكر"
   - id: "thk-fromm-reichmann", title: "فريدا فروم-رايخمان", type: "مفكر"
 gaps:

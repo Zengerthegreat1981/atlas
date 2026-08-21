@@ -13,7 +13,7 @@ language: "السنسكريتية"
 active_start: -150
 active_end: 700
 edges:
-  - rel: "evolved_from", target: "ثيرافادا", type: "مدرسة"
+  - rel: "evolved_from", target: "ثيرافادا", target_type: "مدرسة"
 related:
   - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
   - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"

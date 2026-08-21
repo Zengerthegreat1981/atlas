@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1952
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
 related:
   - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
   - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"

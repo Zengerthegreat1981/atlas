@@ -13,7 +13,7 @@ active_start: 2014
 active_end: 2014
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "بيسيل فان دير كولك", type: "مفكر"
+  - rel: "authored_by", target: "بيسيل فان دير كولك", target_type: "مفكر"
 related:
   - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:

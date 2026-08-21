@@ -13,7 +13,7 @@ language: "الإسبانية، الفرنسية، الإنجليزية"
 active_start: 1940
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات اللاتينية", type: "مظلة"
+  - rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
   - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
   - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
@@ -21,6 +21,7 @@ related:
   - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
 gaps:
   - "نصوص Fernando Ortiz (Cuban Counterpoint), Nestor García Canclini, Serge Gruzinski, Édouard Glissant need review."
+---
 
 # فلسفة الهجنة / المِستيساخي (Mestizaje)
 

@@ -12,7 +12,7 @@ active_start: 2002
 active_end: 2002
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "لويس كوزولينو", type: "مفكر"
+  - rel: "authored_by", target: "لويس كوزولينو", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (W. W. Norton) والطبعات اللاحقة (2010, 2017) لم تُراجع من مصدر أولي."

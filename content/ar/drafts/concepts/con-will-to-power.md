@@ -11,7 +11,7 @@ active_start: 1885
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "النيتشوية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "فريدريش نيتشه", type: "مفكر"
+  - rel: "formulated_by", target: "فريدريش نيتشه", target_type: "مفكر"
 related:
   - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
   - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"

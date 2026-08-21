@@ -13,7 +13,7 @@ language: "الصينية الكلاسيكية"
 active_start: 659
 active_end: 1400
 edges:
-  - rel: "evolved_from", target: "يوغاكارا", type: "مدرسة"
+  - rel: "evolved_from", target: "يوغاكارا", target_type: "مدرسة"
 related:
   - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
   - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"

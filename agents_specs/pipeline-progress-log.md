@@ -1890,3 +1890,71 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   - **طبقة الكتب البِست سيلر العالمية (`wrk-` مع `register: "popular"`)**: ارتفعت إلى **117 كتاباً**، مع إضافة: *فكر مرة أخرى*، *الأخذ والعطاء*، *السر*، *فكر كراهب*، *ثلاثاءات مع موري*، *قلق السعي إلى المكانة*، *الإسعافات الأولية العاطفية*، *قوة الإرادة*، *انحياز التفاؤل*، *لا تفكر في فيل*، *الوحدة*، *فن الاختيار*، *المناعة ضد التغيير*، *طريق المحارب السلمي*، *الخيميائي*، *العادات الصغيرة*، *الندرة*، و*أربعة آلاف أسبوع*.
   - **طبقة المفاهيم والقوانين والانحيازات السلوكية (`con-`)**: ارتفعت إلى **67 مفهوماً وقانوناً**، مع إضافة: قانون الجذب (`con-law-of-attraction-popular`)، استنزاف الأنا (`con-ego-depletion`)، انحياز التفاؤل (`con-optimism-bias-concept`)، تأثير التأطير (`con-framing-effect`)، الألم الاجتماعي (`con-social-pain`)، شلل التحليل (`con-analysis-paralysis`)، نموذج فوغ السلوكي B=MAP (`con-fogg-behavior-model`)، عقلية الندرة (`con-scarcity-mindset`)، جهاز المشي اللذائذي (`con-hedonic-treadmill`)، خطأ العزو الأساسي (`con-fundamental-attribution-error`)، انحياز خدمة الذات (`con-self-serving-bias`)، كراهية الخسارة (`con-loss-aversion`)، قلق المكانة الاجتماعية (`con-status-anxiety-concept`)، وتأثير الليدي ماكبث (`con-lady-macbeth-effect`).
   - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: وصل إلى **4069 عنصراً** (418 معتمداً + 3651 مسودة).
+
+- [2026-08-21] **مسار Spark — التغطية الكاملة الشاملة للدراسات التاريخية وأدوات القياس السيكومتري والإكلينيكي (`spark-studies-instruments-full-coverage-backlog.md`) — مكتمل 100%**
+  - **طبقة الدراسات والأبحاث التجريبية (`stu-`)**: تم رفع الإجمالي إلى **115 دراسة وبحثاً**، مع إضافة 28 دراسة كلاسيكية كبرى شملت:
+    - دراسات التعلم والنمو والدافعية: تجربة المارشميلو وتأجيل الإشباع لميشيل (`stu-mischel-marshmallow-test`)، دراسة باومريند لأنماط الوالدية (`stu-baumrind-parenting-styles`)، دراسة كولبرغ للنمو الأخلاقي ومعضلة هاينز (`stu-kohlberg-moral-development`)، الخرائط المعرفية والتعلم الكامن لتولمان (`stu-tolman-cognitive-maps`)، وتجارب كوهلر للاستبصار لدى الشمبانزي (`stu-kohler-insight-chimpanzees`).
+    - دراسات الإدراك والذاكرة واتخاذ القرار: نموذج باديلي وهيتش للذاكرة العاملة (`stu-baddeley-hitch-working-memory`)، نظرية الآفاق لكانمان وتفيرسكي (`stu-kahneman-tversky-prospect-theory`)، دراسة الحدس والانحيازات لكانمان وتفيرسكي (`stu-kahneman-tversky-heuristics-biases`)، مشكلة ليندا ومغالطة الاقتران (`stu-tversky-kahneman-conjunction-fallacy-linda`)، تجربة مربى الاختيار وشلل القرار لإينغار وليبر (`stu-iyengar-lepper-jam-study`)، دراسة برانسفورد وجونسون لأثر السياق على الفهم (`stu-bransford-johnson-context-memory`)، مشكلة الشمعة والجمود الوظيفي لدونكر (`stu-duncker-candle-problem`)، أوعية الماء والتثبيت الذهني للوشينز (`stu-luchins-water-jar-mental-set`)، مهمة بوسنر لتوجيه الانتباه الفضائي (`stu-posner-cueing-attention`)، تجربة الغوريلا غير المرئية وعمى عدم الانتباه لسيمونز وشابريس (`stu-chabris-simons-invisible-gorilla`)، وتجربة هايدر وسيمل للإدراك السببي للأشكال (`stu-heider-simmel-apparent-behavior`).
+    - دراسات علم النفس الاجتماعي والانفعال: تجربة غرفة الألغاز والتعلم التعاوني لأرونسون (`stu-aronson-jigsaw-classroom`)، دراسة كيرت ليفين للمناخات والأنماط القيادية الثلاثة (`stu-lewin-leadership-climates`)، تجربة مظفر شريف للحركة الذاتية وتكوين المعايير (`stu-sherif-autokinetic-effect`)، تقنية القدم في الباب لفريدمان وفريزر (`stu-freedman-fraser-foot-in-the-door`)، تقنية الباب في الوجه لتشالديني (`stu-cialdini-door-in-the-face`)، دراسة آلة النسخ والتبرير الشكلي للانغر (`stu-langer-mindlessness-copy-machine`)، نظرية العاملين للانفعال والأدرينالين لشاختر وسينغر (`stu-schachter-singer-two-factor-emotion`)، تجربة الجسر المعلق وإساءة عزو الجاذبية لداتون وآرون (`stu-dutton-aron-suspension-bridge`)، تجربة ستراك للتغذية الراجعة الوجهية بالقلم وأزمة تكرارها (`stu-strack-facial-feedback-pen`)، وتجربة بارغ للتهيئة بكلمات الشيخوخة وأزمة تكرارها (`stu-bargh-automaticity-elderly-priming`).
+    - دراسات الرضع والإدراك البصري الفطري: تجربة الجرف البصري وإدراك العمق لجيبسون وووك (`stu-gibson-walk-visual-cliff`)، وتجارب فانتز للتفضيل البصري وإدراك الوجوه عند حديثي الولادة (`stu-fantz-visual-preference`).
+  - **طبقة أدوات القياس السيكومتري والإكلينيكي (`ins-`)**: تم رفع الإجمالي إلى **96 أداة قياس**، مع إضافة 28 أداة ومقياساً معيارياً شملت:
+    - أدوات التحيزات، الذهان، والتشخيص: اختبار الارتباط الضمني للتحيزات اللاواعية IAT (`ins-iat-implicit-association`)، مقياس المتلازمة الإيجابية والسلبية للفصام PANSS (`ins-panss`)، مقياس التقييم النفسي السريري الموجز BPRS (`ins-bprs`)، المقابلة الإكلينيكية المقننة لاضطرابات الدليل الخامس SCID-5 (`ins-scid-5`)، ومقياس الحركات اللاإرادية غير الطبيعية AIMS (`ins-aims-involuntary-movement`).
+    - أدوات التوحد والنمو وسلوك الأطفال: جدول الملاحظة التشخيصية للتوحد ADOS-2 (`ins-ados-2`)، المقابلة التشخيصية للتوحد المنقحة ADI-R (`ins-adi-r`)، قائمة الفرز المبكر للتوحد M-CHAT-R/F (`ins-m-chat-r-autism`)، مقياس حاصل طيف التوحد للبالغين AQ (`ins-aq-autism-spectrum`)، ومقياس سبنس لقلق الأطفال SCAS (`ins-scas-spence-children`).
+    - أدوات الذكاء، القدرات، والوظائف التنفيذية: مقياس وكسلر المختصر للذكاء WASI-II (`ins-wasi-ii`)، نظام دليس-كابلان لتقييم الوظائف التنفيذية D-KEFS (`ins-dkefs-executive`)، واختبار كورسي للنقر على المكعبات والذاكرة الفضائية (`ins-corsi-block-tapping`).
+    - أدوات المزاج، الاكتئاب، والانتحار: مقياس الاكتئاب والقلق والتوتر DASS-21 (`ins-dass-21`)، مقياس مونتغمري-آسبرغ للاكتئاب MADRS (`ins-madrs`)، مقياس إدنبرة لاكتئاب ما بعد الولادة EPDS (`ins-epds-edinburgh-postnatal`)، مقياس قلق واكتئاب المستشفيات HADS (`ins-hads`)، مقياس كولومبيا لتقييم خطورة الانتحار C-SSRS (`ins-c-ssrs-suicide`)، ومقياس يونغ لتقييم الهوس السريري YMRS (`ins-ymrs-young-mania`).
+    - أدوات الشخصية، التعاطف، واليقظة الذهنية: حاصل التعاطف EQ (`ins-eq-empathy-quotient`)، حاصل التنظيم SQ-R (`ins-sq-systemizing-quotient`)، مؤشر التفاعل البين-شخصي لأبعاد التعاطف IRI (`ins-iri-interpersonal-reactivity`)، استبيان المزاج والطباع البيولوجي لكلونينغر TCI (`ins-tci-cloninger`)، مقياس سمات الشخصية لـ DSM-5 البديل PID-5 (`ins-pid-5`)، مقياس سبيلبرغر لحالة وسمة الغضب STAXI-2 (`ins-staxi-2`)، مقياس صعوبات التنظيم الانفعالي DERS (`ins-ders-emotion-regulation`)، واستبيان أبعاد اليقظة الذهنية الخمسة FFMQ (`ins-ffmq-five-facet-mindfulness`).
+  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: وصل إلى **4125 عنصراً** (418 معتمداً + 3707 مسودات).
+  - **قائمة النطاق الرسمية**: تم إنشاء وتحديث [studies-instruments-scope-list.md](agents_specs/studies-instruments-scope-list.md) بالكامل وتغطية كافة بنودها بنسبة 100%.
+
+- [2026-08-21] **مسار MiniMax — العلاقات العابرة للقسمين (فلسفة ↔ علم نفس، `rel-`) — مكتمل 100%**
+
+  **السياق:** بعد إكمال المرحلة الأولى (335 مدرسة فلسفية في `philosophy-schools-backlog.md`) والمرحلة الثانية (قسم الجسر في `bridge-backlog.md`)، تم تنفيذ المرحلة الثالثة والأخيرة: **علاقات `rel-` موثّقة أكاديمياً بين مدارس فلسفية ومدارس نفسية**.
+
+  **قائمة النطاق:** أُنشئ [cross-part-relations-scope-list.md](agents_specs/cross-part-relations-scope-list.md) بـ 8 أزواج مرشحة، 4 منها تم تنفيذها، 4 مؤجّلة.
+
+  **الأزواج المنفّذة (4 ملفات `rel-` جديدة):**
+
+  1. **الرواقية ↔ CBT** (`rel-stoicism-cbt`):
+     - المدرسة الفلسفية: `sch-stoicism` (إبكتيتوس، ماركوس أوريليوس).
+     - المدرسة النفسية: `school-cbt` (بيك، إليس).
+     - التوثيق الأكاديمي: بيك وإليس استشهدا بإبكتيتوس صراحةً (ثنائية التحكم = Enchiridion §1). Robertson 2018 (*The Stoicism Workbook*) تطبيق مباشر.
+     - `part: "bridge"` على ملف `rel-`.
+
+  2. **الظاهراتية الفلسفية (هوسرل/هايدغر) ↔ العلاج النفسي الوجودي** (`rel-phenomenology-existential-therapy`):
+     - المدارس الفلسفية: `sch-phenomenology`، `sch-phenomenology-existential`، `sch-phenomenology-hermeneutic`، `sch-phenomenology-somatic`.
+     - المدرسة النفسية: العلاج الوجودي عبر `br-daseins`، `br-existential-humanistic-american`، `br-humanistic` (بوس، بينسوانغر، ماي، فرانكل، يالوم).
+     - التوثيق: بينسفانغر (1921) وبوس (1942) ومي (1950) ويالوم (1980) استوردوا هايدغر وهوسرل صراحة.
+
+  3. **البوذية المبكرة ↔ الموجة الثالثة من العلاجات** (`rel-buddhism-thirdwave`):
+     - المدرسة الفلسفية: `sch-buddhism-early` (Vipassana، رباعي الساتي).
+     - المدرسة النفسية: الموجة الثالثة (MBSR/ACT/DBT/MBCT) عبر `school-act` و`school-dbt`.
+     - التوثيق: كابات-زين (MBSR 1979)، هايز (ACT 1987)، لينهان (DBT 1993)، سيغال (MBCT 1995) — كلهم صرحوا بالاستلهام من اليقظة البوذية.
+
+  4. **الكيركغاردية والنيتشوية ↔ العلاج النفسي الوجودي** (`rel-kierkegaardianism-nietzscheanism-existential-therapy`):
+     - المدارس الفلسفية: `sch-kierkegaardian`، `sch-nietzscheanism`.
+     - المدرسة النفسية: العلاج الوجودي (فرانكل، ماي، يالوم، أدلر).
+     - التوثيق: ماي *قلق المعنى* (1950) يحلّل كيركيغارد ونيتشه صراحة. فرانكل (تلميذ ياسبرز) يستعمل "إرادة المعنى" كبديل عن "إرادة القوة" النيتشوية. يالوم *العلاج النفسي الوجودي* (1980) يحاور الفلاسفة الأربعة فصولاً كاملة.
+
+  **الأزواج المؤجّلة (4) مع التبرير:**
+
+  1. **التجريبية البريطانية (لوك/هيوم) ↔ السلوكية**: مؤجَّل، لا يوجد ملف `school-behaviorism` بعد (السلوكية ممثلة بـ`br-classical-behaviorism`/`br-radical-behaviorism`/`br-hullian-behaviorism`/`br-neobehaviorism`/`br-purposive-behaviorism` فقط).
+  2. **الهيغلية ↔ التحليل النفسي**: مؤجَّل، لا يوجد ملف `school-psychoanalysis` بعد (ممثلة بـ`br-classical-psychoanalysis` فقط). صلة لاكان بالهيجل معروفة لكن تحتاج ملفاً تمثيلياً.
+  3. **الطاوية/الكونفوشيوسية ↔ العلاج الأسري/النظامي**: مؤجَّل مزدوج (لا `school-systemic` + التوثيق الأكاديمي ضعيف جداً).
+  4. **الكونفوشيوسية ↔ علم النفس الإيجابي**: مؤجَّل مزدوج (لا `school-positive-psychology` + التوثيق الأكاديمي لـSeligman ضعيف).
+
+  **القواعد الصارمة المتبعة:**
+
+  - كل ملف `rel-*` يستخدم `part: "bridge"` (العلاقة نفسها جسر، حتى لو طرفاها مصنَّفان فلسفي/نفسي).
+  - التسمية: `rel-<مدرسة_فلسفية>-<مدرسة_نفسية>` (اتجاه التأثير التاريخي، من أقدم لأحدث).
+  - تحديث الفهرس (`python3 scripts/build_slug_index.py`) بعد كل ملف (4 مرات إجمالاً).
+  - قاعدة "**كل المدارس النفسية المكتملة لازم ملف `sch-` لها**" سجّلت كقيد معماري يحتاج معالجة في مسار لاحق.
+  - ممنوع تكرار المحتوى الموجود: `rel-cbt-thirdwave` و`rel-cbt-nonwestern` مغطّيتان لعلاقات CBT-الداخلية، فلم تتكررا في `rel-stoicism-cbt` و`rel-buddhism-thirdwave`.
+
+  **الأرقام النهائية بعد المسار:**
+  - قبل: 4125 عنصراً (418 معتمد + 3707 مسودة).
+  - بعد: **4129 عنصراً** (418 معتمد + 3711 مسودة) = **+4 مسودات `rel-` جديدة**.
+  - لا تغيير في المعتمد (كل الملفات الجديدة في `content/ar/drafts/relations/`، في انتظار مراجعة `agent-4-draft-review`).
+
+  **القيد المعماري الذي لم يُحل (موثَّق):** `scripts/build_slug_index.py` لا يتضمن `"مدرسة"` في `TYPE_ORDER`، فملفات `sch-*` الـ 333 لا تظهر في قسم مرئي في `EXISTING_SLUGS.md` رغم أنها تُعدّ في الإجمالي. **ممنوع** الاعتماد على الفهرس وحده للتحقق من وجود `sch-*` — التحقق من القرص مباشرة (`ls content/ar/drafts/schools/`) هو القاعدة.
+
+  **القرار المعماري الإضافي:** لا تكتب `rel-*` لزوج بدون ملف `sch-` (أو `school-`) للطرفين، حتى لو التوثيق الأكاديمي موجود بقوة. **القاعدة:** مدرسة بلا ملف تمثيلي = علاقة مؤجَّلة، لا علاقة مُختلَقة.

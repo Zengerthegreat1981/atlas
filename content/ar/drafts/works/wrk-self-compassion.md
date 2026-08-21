@@ -12,7 +12,7 @@ active_start: 2011
 active_end: 2011
 edges:
   - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
-  - rel: "authored_by", target: "كريستين نيف", type: "مفكر"
+  - rel: "authored_by", target: "كريستين نيف", target_type: "مفكر"
 related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (William Morrow) لم تُراجع من مصدر أولي."

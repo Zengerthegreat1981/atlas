@@ -13,14 +13,14 @@ language: "متعددة"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفات السكان الأصليين", type: "مظلة"
+  - rel: "belongs_to", target: "فلسفات السكان الأصليين", target_type: "مظلة"
 related:
   - id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
   - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
   - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
 gaps:
   - "نصوص Vine Deloria Jr., Linda Tuhiwai Smith, Rauna Kuokkanen, Max Charlesworth, Aileen Moreton-Robinson need review."
-```
+---
 
 # فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)
 

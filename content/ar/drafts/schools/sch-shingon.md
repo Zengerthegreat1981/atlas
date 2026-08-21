@@ -13,8 +13,8 @@ language: "اليابانية، الصينية الكلاسيكية، السنس
 active_start: 816
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-  - rel: "evolved_from", target: "تنداي اليابانية", type: "مدرسة"
+  - rel: "evolved_from", target: "فاجرايانا / البوذية التانترية", target_type: "مدرسة"
+  - rel: "evolved_from", target: "تنداي اليابانية", target_type: "مدرسة"
 related:
   - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
   - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"

@@ -18,7 +18,7 @@ related:
   - id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
   - id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
   - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
-  - id: "thk-asutich", title: "أنتوني سوتيتش", type: "مفكر"
+  - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
   - id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفهوم"
   - id: "con-integration-psychedelic", title: "التكامل النفساني (Integration)", type: "مفهوم"
 gaps:

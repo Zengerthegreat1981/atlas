@@ -1,6 +1,6 @@
 ---
 slug: "thk-kristin-buss"
-id: "THK-KRISTIN-BUSS"
+id: "THK-0614"
 type: "مفكر"
 level: "متوسط"
 title: "كريستين بَس"

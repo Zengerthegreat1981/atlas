@@ -11,7 +11,7 @@ active_start: -0380
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الهيغلية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+  - rel: "formulated_by", target: "جورج فيلهلم فريدريش هيغل", target_type: "مفكر"
 related:
   - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
   - id: "thk-marx", title: "كارل ماركس", type: "مفكر"

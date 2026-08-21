@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1944
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+  - rel: "evolved_from", target: "الليبرالية الكلاسيكية المبكرة", target_type: "مدرسة"
 related:
   - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
   - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
