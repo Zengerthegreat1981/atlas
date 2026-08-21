@@ -17,7 +17,7 @@ edges:
   - rel: "evolved_into", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
   - rel: "superseded_by", target: "فلسفة اللغة العادية", target_type: "مدرسة"
 related:
-  - id: "thk-carnap", title: "رودولف كارناب", type: "مفكر"
+  - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
   - id: "thk-schlick", title: "مورتيس شليك", type: "مفكر"
   - id: "thk-neurath", title: "أوتو نورات", type: "مفكر"
   - id: "thk-waismann", title: "فريدريش فايسمان", type: "مفكر"

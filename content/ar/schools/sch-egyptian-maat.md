@@ -17,9 +17,9 @@ edges:
   - rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
   - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
-  - id: "sch-presocratic-philosophy", title: "ما قبل سقراط", type: "مدرسة"
   - id: "con-cosmological-order", title: "النظام الكوني", type: "مفهوم"
 gaps:
+  - "رابط مقترح لـ«ما قبل سقراط» (sch-presocratic-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "مفهوم 'ماعت' (Ma'at) يحتاج مراجعة من المصدر الأولي (نصوص الأهرام، كتاب الموتى)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

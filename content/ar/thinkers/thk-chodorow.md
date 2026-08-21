@@ -12,7 +12,7 @@ country: "أمريكا"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-karenhorney", title: "كارين هورني", type: "مفكر"
+  - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
   - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "نقد مدرسة «العلاقات بالموضوع» لتشودورو وخصوصاً رده على سوزان إيدلستون في «إعادة إنتاج الأمومة» — تحتاج مراجعة من نص تأسيسي."

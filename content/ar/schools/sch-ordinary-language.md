@@ -17,7 +17,7 @@ edges:
   - rel: "evolved_from", target: "الذرية المنطقية", target_type: "مدرسة"
   - rel: "superseded_by", target: "فلسفة اللغة المثالية/الشكلية المعاصرة", target_type: "مدرسة"
 related:
-  - id: "thk-wittgenstein-ludwig", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+  - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
   - id: "thk-austin", title: "جون لانغشو أوستن", type: "مفكر"
   - id: "thk-ryle", title: "جيلبرت رايل", type: "مفكر"
   - id: "thk-strawson", title: "بيتر فريدريك ستراوسن", type: "مفكر"

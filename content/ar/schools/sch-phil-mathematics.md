@@ -19,7 +19,7 @@ edges:
   - rel: "split_into", target: "الحدسية", target_type: "تيار"
   - rel: "split_into", target: "البنائية", target_type: "تيار"
 related:
-  - id: "thk-frege", title: "غوتلوب فريغه", type: "مفكر"
+  - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
   - id: "thk-brussell", title: "برتراند راسل", type: "مفكر"
   - id: "thk-hilbert", title: "ديفيد هيلبرت", type: "مفكر"
   - id: "thk-brouwer", title: "لويزن براور", type: "مفكر"

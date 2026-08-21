@@ -17,7 +17,7 @@ edges:
   - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
   - id: "sch-maya", title: "الفلسفة الماياوية", type: "مدرسة"
-  - id: "sch-andean", title: "الفلسفة الأنديزية", type: "مدرسة"
+  - id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
   - id: "sch-spanish-conquest", title: "الغزو الإسباني", type: "حدث"
 gaps:
   - "النصوص الأصلية Nahua (Codices، خاصة Codex Borgia وFlorentine Codex) تحتاج مراجعة من المصدر الأولي."

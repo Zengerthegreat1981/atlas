@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
-  - id: "thk-irerich", title: "إريك فروم", type: "مفكر"
+  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

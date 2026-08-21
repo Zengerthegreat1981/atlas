@@ -11,7 +11,7 @@ active_end: "مستمر"
 edges:
   - rel: "relates_to", target: "الإنسانية", target_type: "مدرسة"
 related:
-  - id: "thk-crogers", title: "كارل روجرز", type: "مفكر"
+  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
   - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"

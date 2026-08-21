@@ -27,7 +27,7 @@ related:
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "thk-may", title: "رولو ماي", type: "مفكر"
   - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "thk-perls", title: "فريتز بيرلز", type: "مفكر"
+  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
   - id: "br-existential-humanistic-american", title: "الإنسانية-الوجودية الأمريكية", type: "تيار"
   - id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
   - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"

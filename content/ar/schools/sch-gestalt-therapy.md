@@ -22,11 +22,11 @@ related:
   - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
   - id: "br-gestalt-therapy", title: "علاج الجشطالت (بيرلز وغودمان)", type: "تيار"
   - id: "br-relational-gestalt", title: "الجشطالت العلائقي المعاصر", type: "تيار"
-  - id: "thk-perls", title: "فريدريك (فريتز) بيرلز", type: "مفكر"
+  - id: "thk-fperls", title: "فريدريك (فريتز) بيرلز", type: "مفكر"
   - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
   - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
   - id: "thk-kohler", title: "فولفغانغ كوهلر", type: "مفكر"
-  - id: "thk-koffka", title: "كارل كوفكا", type: "مفكر"
+  - id: "thk-kkoffka", title: "كارل كوفكا", type: "مفكر"
   - id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
   - id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 gaps:

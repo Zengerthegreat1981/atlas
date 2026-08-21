@@ -23,8 +23,8 @@ edges:
   - rel: "evolved_into", target: "تحليل السلوك التطبيقي (ABA)", target_type: "تيار"
 related:
   - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-  - id: "thk-watson", title: "جون برودس واطسون", type: "مفكر"
-  - id: "thk-skinner", title: "ب. ف. سكينر", type: "مفكر"
+  - id: "thk-jwatson", title: "جون برودس واطسون", type: "مفكر"
+  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
   - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
   - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
   - id: "br-radical-behaviorism", title: "السلوكية الراديكالية", type: "تيار"

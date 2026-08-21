@@ -17,10 +17,10 @@ edges:
   - rel: "evolved_from", target: "الذرية المنطقية", target_type: "مدرسة"
   - rel: "evolved_from", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
 related:
-  - id: "thk-frege", title: "غوتلوب فريغه", type: "مفكر"
+  - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
   - id: "thk-tarski", title: "ألفرد تارسكي", type: "مفكر"
-  - id: "thk-carnap", title: "رودولف كارناب", type: "مفكر"
-  - id: "thk-kripke", title: "سول كريبكه", type: "مفكر"
+  - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
+  - id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
   - id: "thk-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«دونالد ديفيدسون» (thk-davidson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
   - rel: "superseded_by", target: "الواقعية العلمية / اللاواقعية العلمية", target_type: "مدرسة"
 related:
-  - id: "thk-kripke", title: "سول كريبكه", type: "مفكر"
+  - id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
   - id: "thk-lewis", title: "ديفيد لويس", type: "مفكر"
   - id: "thk-van-inwagen", title: "بيتر فان إنواجن", type: "مفكر"
   - id: "thk-merricks", title: "ترين ميريكس", type: "مفكر"

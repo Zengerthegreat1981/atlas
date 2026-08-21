@@ -12,7 +12,7 @@ related:
   - id: "thk-obecker", title: "أوسكار بيكر", type: "مفكر"
   - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
   - id: "con-aesthetics", title: "الجماليات", type: "مفهوم"
-  - id: "con-existence", title: "الوجود", type: "مفهوم"
+  - id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
 gaps:
   - "النص الأصلي لأوسكار بيكر يستحق مراجعة من المصدر الأولي للتوثيق الدقيق للمصطلح الألماني."
 ---

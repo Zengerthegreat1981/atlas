@@ -13,7 +13,7 @@ related:
   - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
   - id: "thk-barth", title: "كارل بارث", type: "مفكر"
   - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
-  - id: "con-existence", title: "الوجود", type: "مفهوم"
+  - id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
   - id: "con-myth", title: "الأسطورة", type: "مفهوم"
 gaps:
   - "النص الأصلي 'Neues Testament und Mythologie' (1941) لبولتمان يحتاج مراجعة من المصدر الأولي للخطوات المنهجية."

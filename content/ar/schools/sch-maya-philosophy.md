@@ -17,7 +17,7 @@ edges:
   - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
   - id: "sch-nahua-aztec", title: "فلسفة الناهوا/الأزتك", type: "مدرسة"
-  - id: "sch-andean", title: "الفلسفة الأنديزية", type: "مدرسة"
+  - id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
 gaps:
   - "نصوص Popol Vuh وChilam Balam وDresden Codex تحتاج مراجعة من المصدر الأولي."
 ---
