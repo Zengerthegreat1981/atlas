@@ -33,16 +33,18 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 ### مسار Spark
 
 1. **[historical-events-backlog.md](historical-events-backlog.md)** ✅ خلصان بالكامل (`evt-`).
-2. **[disorders-full-coverage-backlog.md](disorders-full-coverage-backlog.md)** — المهمة الحالية.
-   تغطية كاملة للاضطرابات الإكلينيكية (`dis-`) حسب DSM-5-TR/ICD-11، بالـschema المتفق عليه في
-   `dis-scope-list.md`. ابدأ من هنا مباشرة.
+2. **[disorders-full-coverage-backlog.md](disorders-full-coverage-backlog.md)** ✅ خلصان بالكامل (`dis-`).
+3. **[spark-full-completion-pipeline.md](spark-full-completion-pipeline.md)** — المهمة الحالية
+   (بتاريخ 2026-08-21). خطة من 3 مراحل لإغلاق قسم علم النفس بالكامل قبل أي انتقال للفلسفة — ابدأ
+   من هنا مباشرة، ولا تنتقل لأي محتوى فلسفة حتى لو ظهر ملف عنها.
 
 ### مسار MiniMax
 
 1. **[cross-school-relations-backlog.md](cross-school-relations-backlog.md)** ✅ خلصان بالكامل (`rel-`).
-2. **[external-critiques-backlog.md](external-critiques-backlog.md)** — المهمة الحالية. النقد
-   الخارجي الموثَّق (`crt-`) لمدارس علم النفس عبر زوايا نقدية كبرى (نسوي، ما بعد استعماري، عصبي-علمي...).
-   ابدأ من هنا مباشرة.
+2. **[minimax-full-completion-pipeline.md](minimax-full-completion-pipeline.md)** — المهمة الحالية
+   (بتاريخ 2026-08-21). خطة من 3 مراحل لإغلاق قسم علم النفس بالكامل قبل أي انتقال للفلسفة (تبدأ
+   باستكمال `external-critiques-backlog.md`) — ابدأ من هنا مباشرة، ولا تنتقل لأي محتوى فلسفة حتى
+   لو ظهر ملف عنها.
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/

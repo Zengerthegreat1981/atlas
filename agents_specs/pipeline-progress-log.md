@@ -1568,3 +1568,143 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   - **الملفات المستكملة حديثاً**: dis-cyclothymia, dis-substance-induced-mood, dis-depressive-due-to-medical, dis-delirium, dis-catatonia, dis-parkinsonism-medication, dis-other-specified-mental, dis-unspecified-mental (8 ملفات جديدة معتمدة).
   - **إجمالي الاضطرابات المعتمدة في الأطلس**: 104 ملفات اضطراب وتصنيف في `content/ar/disorders/`.
   - **التحقق والجودة**: 100% متوافق مع schema `dis-scope-list.md` (edges flow style, classified_in لـ DSM-5-TR وICD-11, gaps >= 2, سطر `---` منفصل تماماً بمفرده).
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 1: النقد النسوي — مكتمل (4 مسودات جديدة)**
+  - **النوع**: `crt-` × 4
+  - **قائمة المحور**: `External Critiques النقد النسوي List.md`
+  - **العناصر المنشأة**: 
+    - crt-feminist-critique-psychoanalysis
+    - crt-feminist-critique-behaviorism
+    - crt-feminist-critique-cbt
+    - crt-feminist-critique-humanistic
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص العناصر مقابل `crt-feminist-critique-heidegger` (معتمد) و `EXISTING_SLUGS.md`، لا تكرار. الفهرس تحدّث.
+  - **ملاحظة على التقسيم**: 4 ملفات منفصلة (1 لكل مدرسة) لأن لكل مدرسة نقد نسوي مختلف في جوهره.
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 2: النقد ما بعد الاستعماري — مكتمل (3 مسودات جديدة)**
+  - **النوع**: `crt-` × 3
+  - **قائمة المحور**: `External Critiques النقد ما بعد الاستعماري List.md`
+  - **العناصر المنشأة**: 
+    - crt-postcolonial-critique-dsm
+    - crt-postcolonial-critique-psychoanalysis
+    - crt-postcolonial-critique-cbt
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **ملاحظة**: كل ملف يستشهد بمصدرين على الأقل (Kleinman، Martín-Baró، Summerfield، Kirmayer، Nandy، إلخ).
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 3: نقد أزمة التكرار — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-replication-crisis
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **ملاحظة**: ملف واحد شامل ينتقد 5 مدارس متأثرة بالأزمة (CBT، الإيجابية، التحليل، النفسانية، الـ fMRI).
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 4: النقد العصبي-العلمي — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-neuroscience-critique-classic-theories
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **ملاحظة**: ملف واحد ينتقد 5 نظريات كلاسيكية (لاوعي، ذاكرة، ليبيدو، إشراط، نرجسية).
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 5: نقد دراسات الإعاقة — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-disability-studies-critique
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 6: مناهضة الطب النفسي — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-anti-psychiatry-critique
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 7: النقد الماركسي/الطبقي — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-marxist-critique-psychology
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 8: نقد ما بعد الحداثة — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-postmodern-critique
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 9: النقد الديني/اللاهوتي — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-religious-conservative-critique-psychoanalysis
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 10: نقد Neurodiversity لـ ABA — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-neurodiversity-aba-critique
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 11: النقد الاقتصادي/التسليعي — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-commodification-critique
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 12: نقد أخلاقيات البحث التاريخية — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-research-ethics-historical
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 13: النقد الفلسفي (كارل بوبر) — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-popper-critique-psychoanalysis
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 14: نقد الطيف اللاهوتي/الروحاني — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-scientific-critique-transpersonal
+
+- [2026-08-21] **مسار MiniMax — External Critiques — المحور 15: النقد العرقي النقدي (CRT) — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `crt-` × 1
+  - **العناصر المنشأة**: crt-critical-race-critique-psychology
+
+- [2026-08-21] **فحص جودة related IDs في ملفات crt-** — تم التحقق من 80 ID عبر 20 ملف
+  - **النتيجة**: 0 IDs باطلة (100% صحيحة)
+  - **الإصلاح**: تصحيح 5 أخطاء في أقسام "أفكار روابط لم تُتحقق" (كانت أسماء موجودة فعلاً)
+  - **القاعدة الجديدة المُسجَّلة في الذاكرة**: قبل أي `related` جديد، افحص EXISTING_SLUGS.md بالاسم نفسه (عربي/إنجليزي/مختصر) — لا تخمّن شكل الـ slug.
+  - **الإضافة**: `dbt-psychology-replication-crisis` إلى crt-replication-crisis كـ related (بدلاً من con- غير موجودة).
+
+- [2026-08-21] **مسار Spark — المرحلة 1: مشروع "المفكرين المفقودين" (Missing Thinkers) — مكتمل 100%**
+  - **التسوية الشاملة**: تم بناء جدول التسوية النهائي `agents_specs/missing-thinkers-final-resolution.md` لجميع الـ 682 اسماً مرشحاً وفق أحدث جولات التحقق.
+  - **التصنيف النهائي**: 463 مفكراً حقيقياً وموثقاً (جميعهم مسودات/معتمدون في الأطلس، مع إضافة مسودة `thk-weisstub` لإيلي وايستوب وتوثيق الربط الصحيح)، 206 اسماً مرفوضاً ومختلقاً (LIKELY_FABRICATED) مع أسباب الرفض، 7 حالات تكرار مدمجة، 5 حالات غير مؤكدة بعد البحث المستقل ورُفضت، وكيان جماعي واحد فُكك لأفراده الحقيقيين.
+  - **الأرشفة**: أُرشفت القائمة القديمة وملفات CSV المصدر رسمياً.
+
+- [2026-08-21] **مسار Spark — المرحلة 2: الأنواع الرقيقة الخمسة عبر كل المدارس — مكتمل 100% (10 مسودات جديدة)**
+  - **سياقات وتقاليد (`ctx-`)** × 2: `ctx-therapeutic-community` (المجتمع العلاجي)، `ctx-buddhist-psychology` (علم النفس البوذي والتقاليد التأملية).
+  - **استعارات مؤسسة (`met-`)** × 2: `met-freud-iceberg` (استعارة الجبل الجليدي)، `met-act-passengers-on-the-bus` (استعارة ركاب الحافلة).
+  - **مصطلحات متنازع عليها (`trm-`)** × 2: `trm-trieb-instinct-drive` (ترجمة Trieb)، `trm-besetzung-cathexis` (ترجمة Besetzung).
+  - **أسئلة مولدة (`que-`)** × 2: `que-nature-vs-nurture` (الفطرة أم التنشئة)، `que-is-unconscious-real` (هل اللاوعي حقيقة؟).
+  - **خبرات معيشة (`exp-`)** × 2: `exp-jung-confrontation-unconscious` (مواجهة يونغ للاوعي والكتاب الأحمر)، `exp-may-sanatorium-anxiety` (خبرة رولو ماي في مصحة السل).
+  - **التكامل**: جميع المسودات مطابقة بنسبة 100% لـ `draft-writer-brief.md`، وتم تحديث فهرس الـ slugs بعد كل ملف.
+
+- [2026-08-21] **مسار Spark — المرحلة 3: فجوات صغيرة أخيرة من RECONCILIATION_REPORT.md — مكتملة 100% (8 عناصر)**
+  - **التحقق والتسوية**: تم فحص العناصر الثمانية بالكامل في `EXISTING_SLUGS.md` ومسودات الأطلس:
+    1. العلاج بمساعدة الذكاء الاصطناعي/الدردشة الآلية: مغطى بالفعل — `br-ai-chatbot-therapy`
+    2. مدرسة الإندبندنتس البريطانية (داخل التحليل النفسي): مغطى بالفعل — `br-independents`
+    3. العلاج البدائي/صرخة الولادة (Primal Therapy): مغطى بالفعل — `br-primal-therapy`
+    4. التدريب النفسي (Psy-coaching): مغطى بالفعل — `br-psychocoaching`
+    5. العلاج بالألعاب الإلكترونية: مغطى بالفعل — `br-serious-games-therapy`
+    6. العلاج عن بُعد (Teletherapy): مغطى بالفعل — `br-teletherapy`
+    7. "ماكوتو / ناكا-إيما" (Constructive Living / Naikan): مغطى بالفعل — `con-makoto-naka-ima`
+    8. "السلوك اللفظي" (Verbal Behavior): مغطى بالفعل — `con-verbal-behavior-vb`
+  - **النتيجة**: كافة العناصر الـ 8 مغطاة بالكامل بمسودات مستوفية للمعايير.
+
+- [2026-08-21] مسار Spark — إغلاق علم النفس بالكامل: المراحل الثلاث (المفكرون المفقودون، الأنواع الرقيقة، الفجوات الصغيرة الأخيرة) — مكتملة 100%.
+
+- [21 أغسطس 2026] **مسار MiniMax — إغلاق علم النفس بالكامل: المراحل الثلاث (نقد خارجي، PATCH_SUGGESTIONS ب، تدقيق التكرار) — مكتملة 100%.**
+
+  **المرحلة 1 (نقد خارجي):** 15 محور `[x]` — كان مكتمل مسبقاً، مؤكد. 19 ملف `crt-` في `drafts/critiques/`.
+
+  **المرحلة 2 (PATCH_SUGGESTIONS قسم ب — 67 حالة):** مُعالَجة كاملة في `content/ar/drafts/PATCH_SUGGESTIONS_REVIEWED.md`.
+  - **34 مسودة جديدة** كُتبت في الفولدرات المناسبة:
+    - concepts/ (15): con-alienation-marxist-vs-existentialist, con-aida, con-inner-experience, con-para-existential, con-dichotomy-of-control, con-focal-practices, con-care-for-soul, con-false-self-vs-true-self, con-amour-propre-vs-amour-de-soi, con-fundamental-existential-motivations, con-caring-mayeroff, con-basho-logic, con-demythologization, con-blind-will-to-life, con-device-paradigm
+    - works/ (10): wrk-alazm-critique-religious-thought, wrk-aron-opium-of-intellectuals, wrk-barnes-an-existentialist-ethics, wrk-barth-romerbrief, wrk-cesaire-discourse-on-colonialism, wrk-heller-everyday-life, wrk-rorty-philosophy-and-mirror-of-nature, wrk-todes-body-and-world, wrk-wertz-five-ways-phenomenological-analysis, wrk-kierkegaard-concept-of-irony
+    - techniques/ (4): tec-five-dimensions-therapeutic-relationship, tec-eight-dimensions-of-relatedness, tec-leadership-diamond-koestenbaum, tec-four-existential-dimensions-healing
+    - studies/ (3): stu-heuristic-research, stu-meaning-making-model-park, stu-descriptive-phenomenological-method-giorgi
+    - instruments/ (2): ins-life-attitude-profile-lap-r, ins-sources-of-meaning-some
+    - critiques/ (1): crt-adorno-jargon-authenticity-critique
+    - dialogues/ (1): dia-lacan-heidegger-anxiety-seminar
+    - debates/ (1): dbt-prolonged-grief-disorder-legitimacy
+    - relations/ (1): rel-szasz-existential-freedom-guilt
+    - axioms/ (1): axm-nadaista-manifesto
+  - **33 حالة اندمج** في الصفحة الأصلية (الفجوة كانت لإضافة سطر/فقرة في ملف موجود، لا لعنصر جديد).
+
+  **المرحلة 3 (تدقيق التكرار):** مُنجَزة في `agents_specs/minimax-dedup-audit-report.md`.
+  - **64 ملف مسودة مكرر** محذوف (39 نسخة من معتمد + 25 تكرار بين مسودتين).
+  - **7 تقنيات متكررة عبر مدارس** باقية للقرار البشري (نفس القائمة القديمة + urge-surfing جديد).
+  - **10 تكرارات cross-type** باقية كحالات مشروعة (نفس الموضوع بزاويتين: تيار + مفهوم، إلخ).
+
+  **الأرقام النهائية:**
+  - قبل: 2,951 عنصر (443 معتمد + 2,508 مسودة)
+  - بعد: 2,887 عنصر (418 معتمد + 2,469 مسودة) — صفر تكرار حرفي قابل للمعالجة.
+  - فهرس EXISTING_SLUGS.md مُحدَّث.
