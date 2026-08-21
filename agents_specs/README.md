@@ -34,17 +34,18 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 
 1. **[historical-events-backlog.md](historical-events-backlog.md)** ✅ خلصان بالكامل (`evt-`).
 2. **[disorders-full-coverage-backlog.md](disorders-full-coverage-backlog.md)** ✅ خلصان بالكامل (`dis-`).
-3. **[spark-full-completion-pipeline.md](spark-full-completion-pipeline.md)** — المهمة الحالية
-   (بتاريخ 2026-08-21). خطة من 3 مراحل لإغلاق قسم علم النفس بالكامل قبل أي انتقال للفلسفة — ابدأ
-   من هنا مباشرة، ولا تنتقل لأي محتوى فلسفة حتى لو ظهر ملف عنها.
+3. **[spark-full-completion-pipeline.md](spark-full-completion-pipeline.md)** ✅ خلصان بالكامل
+   (3 مراحل، 2026-08-21).
+4. **[historical-dsm-backlog.md](historical-dsm-backlog.md)** — المهمة الحالية (بتاريخ 2026-08-21).
+   نطاق مُوسَّع بموافقة صريحة من صاحب المشروع: تشخيصات DSM-III/IV التاريخية (31 بند). ابدأ من هنا
+   مباشرة، ولا تنتقل لأي محتوى فلسفة حتى لو ظهر ملف عنها — قف واستنى تعليمات لما تخلص.
 
 ### مسار MiniMax
 
 1. **[cross-school-relations-backlog.md](cross-school-relations-backlog.md)** ✅ خلصان بالكامل (`rel-`).
-2. **[minimax-full-completion-pipeline.md](minimax-full-completion-pipeline.md)** — المهمة الحالية
-   (بتاريخ 2026-08-21). خطة من 3 مراحل لإغلاق قسم علم النفس بالكامل قبل أي انتقال للفلسفة (تبدأ
-   باستكمال `external-critiques-backlog.md`) — ابدأ من هنا مباشرة، ولا تنتقل لأي محتوى فلسفة حتى
-   لو ظهر ملف عنها.
+2. **[minimax-full-completion-pipeline.md](minimax-full-completion-pipeline.md)** ✅ خلصان بالكامل
+   (3 مراحل، 2026-08-21). **مفيش مهمة تالية معيَّنة لسه** — استنى تعليمات صريحة من صاحب المشروع قبل
+   أي حاجة جديدة (لا تبدأ فلسفة، ولا تاخد مهمة Spark الحالية).
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/
