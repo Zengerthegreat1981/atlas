@@ -36,9 +36,9 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 2. **[disorders-full-coverage-backlog.md](disorders-full-coverage-backlog.md)** ✅ خلصان بالكامل (`dis-`).
 3. **[spark-full-completion-pipeline.md](spark-full-completion-pipeline.md)** ✅ خلصان بالكامل
    (3 مراحل، 2026-08-21).
-4. **[historical-dsm-backlog.md](historical-dsm-backlog.md)** — المهمة الحالية (بتاريخ 2026-08-21).
-   نطاق مُوسَّع بموافقة صريحة من صاحب المشروع: تشخيصات DSM-III/IV التاريخية (31 بند). ابدأ من هنا
-   مباشرة، ولا تنتقل لأي محتوى فلسفة حتى لو ظهر ملف عنها — قف واستنى تعليمات لما تخلص.
+4. **[historical-dsm-backlog.md](historical-dsm-backlog.md)** ✅ خلصان بالكامل (31 بند، 2026-08-21).
+   **مفيش مهمة تالية معيَّنة لسه** — استنى تعليمات صريحة من صاحب المشروع قبل أي حاجة جديدة (لا تبدأ
+   فلسفة بمفردك، ولا تلمس مهمة MiniMax الحالية).
 
 ### مسار MiniMax
 
