@@ -44,8 +44,11 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 
 1. **[cross-school-relations-backlog.md](cross-school-relations-backlog.md)** ✅ خلصان بالكامل (`rel-`).
 2. **[minimax-full-completion-pipeline.md](minimax-full-completion-pipeline.md)** ✅ خلصان بالكامل
-   (3 مراحل، 2026-08-21). **مفيش مهمة تالية معيَّنة لسه** — استنى تعليمات صريحة من صاحب المشروع قبل
-   أي حاجة جديدة (لا تبدأ فلسفة، ولا تاخد مهمة Spark الحالية).
+   (3 مراحل، 2026-08-21).
+3. **[philosophy-full-pipeline.md](philosophy-full-pipeline.md)** — المهمة الحالية (بتاريخ
+   2026-08-21). بموافقة صريحة من صاحب المشروع: بدء **قسم الفلسفة** (335 مدرسة/تيار في
+   `philosophy-schools-backlog.md`) ثم **قسم الجسر**. ابدأ من هنا مباشرة — لاحظ التغيير المعماري
+   الجديد (`part`, `schools/`) في `draft-writer-brief.md` §2ج قبل أول مسودة.
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/

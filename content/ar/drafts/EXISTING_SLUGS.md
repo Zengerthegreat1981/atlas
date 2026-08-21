@@ -2,7 +2,7 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **2887** عنصراً (**418** معتمد + **2469** مسودة).
+الإجمالي: **2893** عنصراً (**418** معتمد + **2475** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
@@ -1628,7 +1628,7 @@
 - `thk-zsegal` — زيندل سيغال — 🕓 مسودة
 - `thk-zubiri` — خافيير ثوبيري — ✅ معتمد
 
-## مفهوم (221)
+## مفهوم (222)
 
 - `con-aba-autism` — ABA للتوحد — 🕓 مسودة
 - `con-abstinence-vs-harm-reduction` — الامتناع الكامل مقابل الحد من الضرر — 🕓 مسودة
@@ -1768,6 +1768,7 @@
 - `con-neo-freudian` — الفرويدية الجديدة (Neo-Freudian) — 🕓 مسودة
 - `con-neurodiversity-affirming` — الإرشاد المؤيد للتنوع العصبي — 🕓 مسودة
 - `con-neuropsychoanalysis` — التحليل النفسي العصبي (Neuropsychoanalysis) — 🕓 مسودة
+- `con-neurosis-historical-framework` — العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية — 🕓 مسودة
 - `con-objet-petit-a` — موضوع الرغبة الصغير a (objet petit a) — 🕓 مسودة
 - `con-observing-ego` — الأنا المراقِبة في التحليلية — 🕓 مسودة
 - `con-operant-conditioning` — الإشتراط الإجرائي (الإشراط السكينري) — 🕓 مسودة
@@ -2260,7 +2261,7 @@
 - `ins-y-bocs` — مقياس ييل-براون للوسواس القهري — 🕓 مسودة
 - `ins-young-iat` — مقياس يونغ لإدمان الإنترنت — 🕓 مسودة
 
-## اضطراب/حالة إكلينيكية (102)
+## اضطراب/حالة إكلينيكية (107)
 
 - `dis-acute-stress-disorder` — اضطراب الكرب الحاد — 🕓 مسودة
 - `dis-adhd` — اضطراب نقص الانتباه وفرط الحركة — 🕓 مسودة
@@ -2271,6 +2272,7 @@
 - `dis-antisocial-personality` — اضطراب الشخصية المعادية للمجتمع — 🕓 مسودة
 - `dis-anxiety-due-to-medical` — اضطراب القلق بسبب حالة طبية أخرى — 🕓 مسودة
 - `dis-arfid` — اضطراب تجنّب/تقييد الطعام (ARFID) — 🕓 مسودة
+- `dis-aspergers-disorder-historical` — اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome) — 🕓 مسودة
 - `dis-autism-spectrum` — اضطراب طيف التوحد — 🕓 مسودة
 - `dis-avoidant-personality` — اضطراب الشخصية التجنبية — 🕓 مسودة
 - `dis-binge-eating-disorder` — اضطراب نهم الطعام — 🕓 مسودة
@@ -2291,6 +2293,7 @@
 - `dis-dependent-personality` — اضطراب الشخصية الاعتمادية — 🕓 مسودة
 - `dis-depersonalization-derealization` — اضطراب تبدّد الشخصية/الواقع — 🕓 مسودة
 - `dis-depressive-due-to-medical` — اضطراب الاكتئاب الناجم عن حالة طبية أخرى — 🕓 مسودة
+- `dis-depressive-personality-historical` — اضطراب الشخصية الاكتئابية التاريخي (Depressive Personality Disorder) — 🕓 مسودة
 - `dis-developmental-coordination` — اضطراب التنسيق التنموي — 🕓 مسودة
 - `dis-disruptive-mood-dysregulation` — اضطراب عدم التنظيم الانفعالي — 🕓 مسودة
 - `dis-dissociative-amnesia` — فقدان الذاكرة التفارقي — 🕓 مسودة
@@ -2308,6 +2311,7 @@
 - `dis-gad` — اضطراب القلق العام — ✅ معتمد
 - `dis-gambling-disorder` — اضطراب القمار — 🕓 مسودة
 - `dis-gender-dysphoria` — اضطراب الهوية الجنسية (Gender Dysphoria) — 🕓 مسودة
+- `dis-gender-identity-disorder-historical` — اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder) — 🕓 مسودة
 - `dis-genito-pelvic-pain` — اضطراب الألم التناسلي الحوضي / الاختراق — 🕓 مسودة
 - `dis-hallucinogen-use` — اضطراب استخدام المُهلوسات — 🕓 مسودة
 - `dis-hoarding-disorder` — اضطراب الاكتناز — 🕓 مسودة
@@ -2333,6 +2337,7 @@
 - `dis-other-specified-mental` — اضطراب نفسي آخر محدد — 🕓 مسودة
 - `dis-panic-disorder` — اضطراب الهلع — ✅ معتمد
 - `dis-parkinsonism-medication` — الباركنسونية المحدثة بمضادات الذهان والأدوية — 🕓 مسودة
+- `dis-passive-aggressive-personality-historical` — اضطراب الشخصية العدوانية السلبية التاريخي (Passive-Aggressive Personality) — 🕓 مسودة
 - `dis-persistent-depressive-disorder` — اضطراب الاكتئاب المستمر (عسر المزاج) — 🕓 مسودة
 - `dis-pica` — اضطراب أكل المواد غير الغذائية (Pica) — 🕓 مسودة
 - `dis-premature-ejaculation` — سرعة القذف (القذف المبكر) — 🕓 مسودة
@@ -2342,6 +2347,7 @@
 - `dis-ptsd` — اضطراب الكرب التالي للصدمة (PTSD) — ✅ معتمد
 - `dis-pyromania` — هوس إشعال الحرائق — 🕓 مسودة
 - `dis-reactive-attachment` — اضطراب التعلق التفاعلي — 🕓 مسودة
+- `dis-retts-disorder-historical` — اضطراب ريت التاريخي (Rett's Disorder) — 🕓 مسودة
 - `dis-rumination` — اضطراب الاجترار (Rumination Disorder) — 🕓 مسودة
 - `dis-schizoaffective` — الفصام العاطفي — 🕓 مسودة
 - `dis-schizoid-personality` — اضطراب الشخصية الفصامية — 🕓 مسودة
