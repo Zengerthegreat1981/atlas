@@ -12,9 +12,9 @@ active_end: "1945"
 edges:
   - rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
 related:
-  - id: "sch-japanese-liberalism-modern", title: "الليبرالية اليابانية الحديثة", type: "مدرسة"
   - id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«الليبرالية اليابانية الحديثة» (sch-japanese-liberalism-modern) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ مقالة Fukuzawa الأصلية في *Jiji Shinpō* (27 مارس 1885)، ولا ردود Asianists."
 
 ---

@@ -12,10 +12,10 @@ active_end: 1945
 edges:
   - rel: "belongs_to", target: "القومية اليابانية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-japanese-philosophical-nationalism", title: "القومية اليابانية الفلسفية", type: "مدرسة"
   - id: "thk-nishida", title: "نيشيدا كيتارو", type: "مفكر"
   - id: "thk-tanabe", title: "تانابه هاچيمي", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«القومية اليابانية الفلسفية» (sch-japanese-philosophical-nationalism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ مراسلات Nishida-Tanabe الكاملة، ولا Tanabe's *Logic of Species* الأصلية (1937)."
   - "لا اقتباس مباشر موثّق في هذا الملف."
 

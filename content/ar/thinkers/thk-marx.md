@@ -20,8 +20,8 @@ related:
   - id: "sch-hegel-left", title: "الهيغلية اليسارية", type: "مدرسة"
   - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
   - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
-  - id: "thk-feuerbach", title: "لودفيغ فيورباخ", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نقد 'Critique of the Gotha Programme' ومراسلات ماركس-بارت لم تُراجع في الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'Die einzige Philosophie' بعد."
 ---

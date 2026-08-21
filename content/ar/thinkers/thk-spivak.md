@@ -16,9 +16,9 @@ edges:
   - rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
 related:
   - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
-  - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
-  - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
+  - "رابط مقترح لـ«ميشيل فوكو» (thk-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Spivak (Of Grammatology intro, "Can the Subaltern Speak?", A Critique of Postcolonial Reason) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

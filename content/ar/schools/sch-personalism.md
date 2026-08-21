@@ -17,12 +17,12 @@ edges:
   - rel: "belongs_to", target: "المثالية الأمريكية", target_type: "مظلة"
 related:
   - id: "thk-renouvier", title: "شارل رينوفييه", type: "مفكر"
-  - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
   - id: "thk-bowne", title: "بوردن باركه بوين", type: "مفكر"
   - id: "thk-hocking", title: "وليام إرنست هوكنغ", type: "مفكر"
   - id: "thk-mounier", title: "إيمانويل مونييه", type: "مفكر"
   - id: "thk-blondel", title: "موريس بلونديل", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "دور ماكس شيلر (Max Scheler) في 'الشخصية' (Die Persönlichkeit, 1911) لم يُغطَ في الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

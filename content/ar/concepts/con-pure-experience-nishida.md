@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "القومية اليابانية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-japanese-philosophical-nationalism", title: "القومية اليابانية الفلسفية", type: "مدرسة"
   - id: "thk-nishida", title: "نيشيدا كيتارو", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«القومية اليابانية الفلسفية» (sch-japanese-philosophical-nationalism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ طبعة 1911 الأصلية لـ *Zen no Kenkyū* (An Inquiry into the Good)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
 

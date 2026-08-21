@@ -13,8 +13,8 @@ related:
   - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
   - id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
   - id: "stu-heuristic-research", title: "البحث الكشفي / الاستكشافي (Heuristic Research)", type: "دراسة وبحث"
-  - id: "con-phenomenology", title: "الظواهرية", type: "مفهوم"
 gaps:
+  - "رابط مقترح لـ«الظواهرية» (con-phenomenology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتاب جيورجي 'The Descriptive Phenomenological Method in Psychology' (2009) يستحق مراجعة من المصدر الأولي للخطوات الخمس."
 ---
 
