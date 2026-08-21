@@ -12,7 +12,7 @@ active_start: 1969
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس عبر الشخصي (Transpersonal Psychology)", target_type: "مدرسة"
 related:
   - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"

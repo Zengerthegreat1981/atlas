@@ -10,7 +10,7 @@ active_start: 1980
 active_end: "مستمر"
 edges:
   - rel: "relates_to", target: "عبر الشخصية", target_type: "مدرسة"
-related:  - id: "thk-amaslow", title: "أبراهام ماسلو", type: "مفكر"
+related:  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
   - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
   - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:

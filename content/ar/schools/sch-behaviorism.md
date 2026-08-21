@@ -22,10 +22,10 @@ edges:
   - rel: "evolved_into", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
   - rel: "evolved_into", target: "تحليل السلوك التطبيقي (ABA)", target_type: "تيار"
 related:
-  - id: "thk-pavlov", title: "إيفان بافلوف", type: "مفكر"
+  - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
   - id: "thk-watson", title: "جون برودس واطسون", type: "مفكر"
   - id: "thk-skinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-bandura", title: "ألبرت باندورا", type: "مفكر"
+  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
   - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
   - id: "br-radical-behaviorism", title: "السلوكية الراديكالية", type: "تيار"
   - id: "br-purposive-behaviorism", title: "السلوكية الغائية (تولمان)", type: "تيار"

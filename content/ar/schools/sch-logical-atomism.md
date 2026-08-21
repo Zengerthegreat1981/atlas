@@ -18,7 +18,7 @@ edges:
   - rel: "superseded_by", target: "فلسفة اللغة العادية", target_type: "مدرسة"
 related:
   - id: "thk-russell", title: "برتراند راسل", type: "مفكر"
-  - id: "thk-wittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+  - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
   - id: "thk-moore", title: "جورج إدوارد مور", type: "مفكر"
   - id: "thk-wittgenstein-ludwig", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 gaps:

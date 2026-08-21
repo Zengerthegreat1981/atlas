@@ -24,7 +24,7 @@ related:
   - id: "br-relational-gestalt", title: "الجشطالت العلائقي المعاصر", type: "تيار"
   - id: "thk-perls", title: "فريدريك (فريتز) بيرلز", type: "مفكر"
   - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
-  - id: "thk-werthheimer", title: "ماكس فيرتهايمر", type: "مفكر"
+  - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
   - id: "thk-kohler", title: "فولفغانغ كوهلر", type: "مفكر"
   - id: "thk-koffka", title: "كارل كوفكا", type: "مفكر"
   - id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"

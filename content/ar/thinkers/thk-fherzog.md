@@ -14,7 +14,7 @@ active_end: "[DRAFT-UNKNOWN]"
 edges:
   - rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
 related:
-  - id: "thk-rmoustakas", title: "كلارك موستاكاس", type: "مفكر"
+  - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 gaps:
   - "بطاقة السيرة والإنتاج المعرفي لم تُراجع من مصدر أولي."
 ---

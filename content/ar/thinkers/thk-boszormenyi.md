@@ -14,7 +14,7 @@ active_end: 2000
 edges:
   - rel: "belongs_to", target: "العلاج الأسري السياقي متعدد الأجيال", target_type: "مدرسة"
 related:
-  - id: "thk-ferenczi", title: "ساندور فيرينتسي", type: "مفكر"
+  - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
   - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لسنوات الميلاد والوفاة لم تُراجع من مصدر أولي مباشر بعد."

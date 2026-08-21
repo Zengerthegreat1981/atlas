@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
   - rel: "superseded_by", target: "النفعية المعاصرة", target_type: "مدرسة"
 related:
-  - id: "thk-anscombe", title: "جيرترود إليزابيث مارجريت أنسكومبي", type: "مفكر"
+  - id: "thk-ganscombe", title: "جيرترود إليزابيث مارجريت أنسكومبي", type: "مفكر"
   - id: "thk-foot", title: "فيليبا فوت", type: "مفكر"
   - id: "thk-macintyre", title: "آلاسدير ماكنتاير", type: "مفكر"
   - id: "thk-hursthouse", title: "روزاليند هورسثوس", type: "مفكر"

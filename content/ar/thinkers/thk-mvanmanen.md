@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
 related:
-  - id: "thk-rmoustakas", title: "كلارك موستاكاس", type: "مفكر"
+  - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

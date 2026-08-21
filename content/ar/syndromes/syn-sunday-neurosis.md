@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges:
   - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
 related:
-  - id: "thk-ferenczi", title: "ساندور فيرينتزي", type: "مفكر"
+  - id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
   - id: "dis-depressive-disorder", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
   - id: "wrk-mans-search", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
 gaps:

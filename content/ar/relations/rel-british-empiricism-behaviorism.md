@@ -18,7 +18,7 @@ related:
   - id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
   - id: "thk-watson", title: "جون برودس واطسون", type: "مفكر"
   - id: "thk-skinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-pavlov", title: "إيفان بافلوف", type: "مفكر"
+  - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
   - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
   - id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
   - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"

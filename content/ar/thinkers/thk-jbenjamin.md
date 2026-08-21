@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-smitchell", title: "سْتِيفن مِتْشِل", type: "مفكر"
-  - id: "thk-hkohut", title: "هَينز كُوهوت", type: "مفكر"
+  - id: "thk-kohut", title: "هَينز كُوهوت", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
 ---

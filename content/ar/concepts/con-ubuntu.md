@@ -15,7 +15,7 @@ edges:
 related:
   - id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
   - id: "thk-mandela", title: "نيلسون مانديلا", type: "مفكر"
-  - id: "thk-tutu", title: "ديسموند توتو", type: "مفكر"
+  - id: "thk-dtutu", title: "ديسموند توتو", type: "مفكر"
 gaps:
   - "المصادر التاريخية المبكرة لمفهوم 'أوبونتو' قبل الحقبة الكولونيالية موضع خلاف."
   - "لا يوجد اقتباس مباشر موثوق من 'Umuntu ngumuntu ngabantu' (المقولة الزولوية) بعد."

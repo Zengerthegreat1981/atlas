@@ -12,7 +12,7 @@ active_start: 1978
 active_end: "مستمر"
 language: "الألمانية"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
 related:
   - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
   - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"

@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-aellis", title: "ألبرت إيليس", type: "مفكر"
+  - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
   - id: "thk-abeck", title: "أَرون بِك", type: "مفكر"
   - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
 gaps:

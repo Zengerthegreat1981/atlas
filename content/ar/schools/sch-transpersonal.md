@@ -27,7 +27,7 @@ related:
   - id: "thk-kgrof", title: "ستانislav غروف", type: "مفكر"
   - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "thk-asutich", title: "أندرو سوتيتش", type: "مفكر"
+  - id: "thk-sutich", title: "أندرو سوتيتش", type: "مفكر"
   - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (تيار)", type: "تيار"
   - id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
   - id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"

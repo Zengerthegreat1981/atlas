@@ -20,7 +20,7 @@ related:
   - id: "thk-singer", title: "بيتر سينغر", type: "مفكر"
   - id: "thk-smart", title: "ج. ج. س. سمارت", type: "مفكر"
   - id: "thk-mill", title: "جون ستيوارت مل", type: "مفكر"
-  - id: "thk-parfit", title: "ديريك بارفيت", type: "مفكر"
+  - id: "thk-dparfit", title: "ديريك بارفيت", type: "مفكر"
   - id: "thk-sidgwick", title: "هنري سيدجويك", type: "مفكر"
 gaps:
   - "الفارق بين «النفعية المؤهَّلة» (Qualified Utilitarianism) عند سمارت (1956) و«النفعية المباشرة» لم يُحلّل بدقة في المصادر الأولية."

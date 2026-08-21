@@ -17,7 +17,7 @@ edges:
   - rel: "evolved_from", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
   - rel: "superseded_by", target: "البراغماتية الجديدة", target_type: "مدرسة"
 related:
-  - id: "thk-quine", title: "ويلارد فان أورمان كواين", type: "مفكر"
+  - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
   - id: "thk-goodman", title: "نيلسون غودمان", type: "مفكر"
   - id: "thk-whitehead", title: "ألفريد نورث وايتهيد", type: "مفكر"
   - id: "thk-davidson", title: "دونالد ديفيدسون", type: "مفكر"

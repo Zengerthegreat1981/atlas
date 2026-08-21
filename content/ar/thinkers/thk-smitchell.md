@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
-  - id: "thk-hkohut", title: "هَينز كُوهوت", type: "مفكر"
+  - id: "thk-kohut", title: "هَينز كُوهوت", type: "مفكر"
   - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

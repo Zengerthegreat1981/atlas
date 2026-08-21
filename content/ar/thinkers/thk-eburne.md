@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
 related:
   - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
-  - id: "thk-ferenczi", title: "ساندور فيرينتسي", type: "مفكر"
+  - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

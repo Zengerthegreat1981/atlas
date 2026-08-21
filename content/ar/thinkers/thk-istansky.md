@@ -14,7 +14,7 @@ active_end: "[DRAFT-UNKNOWN]"
 edges:
   - rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
 related:
-  - id: "thk-ferenczi", title: "ساندور فيرينتسي", type: "مفكر"
+  - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

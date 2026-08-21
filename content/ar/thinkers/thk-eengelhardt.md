@@ -14,7 +14,7 @@ active_end: 2018
 edges:
   - rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
 related:
-  - id: "thk-rmoustakas", title: "كلارك موستاكاس", type: "مفكر"
+  - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Rice وBaylor لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
