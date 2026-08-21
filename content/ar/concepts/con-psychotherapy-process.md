@@ -14,7 +14,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-rubin-jeffrey", title: "جيفري روبين", type: "مفكر"
+  - id: "thk-jrubin", title: "جيفري روبين", type: "مفكر"
   - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 gaps:
   - "التأثير المتبادل والتماثل الوجودي بين المحلِّل والمُحلَّل في لحظات التغيير."

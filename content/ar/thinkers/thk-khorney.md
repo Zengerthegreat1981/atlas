@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-sullivan", title: "هاري سَالِفان", type: "مفكر"
-  - id: "thk-efromm", title: "إِريك فْروم", type: "مفكر"
+  - id: "thk-fromm", title: "إِريك فْروم", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
 ---

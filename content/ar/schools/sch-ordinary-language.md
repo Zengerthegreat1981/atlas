@@ -18,7 +18,7 @@ edges:
   - rel: "superseded_by", target: "فلسفة اللغة المثالية/الشكلية المعاصرة", target_type: "مدرسة"
 related:
   - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
-  - id: "thk-austin", title: "جون لانغشو أوستن", type: "مفكر"
+  - id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
   - id: "thk-ryle", title: "جيلبرت رايل", type: "مفكر"
   - id: "thk-strawson", title: "بيتر فريدريك ستراوسن", type: "مفكر"
   - id: "thk-grice", title: "هربرت بول غرايس", type: "مفكر"

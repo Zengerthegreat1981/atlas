@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
-  - id: "sch-maya", title: "الفلسفة الماياوية", type: "مدرسة"
+  - id: "sch-maya-philosophy", title: "الفلسفة الماياوية", type: "مدرسة"
   - id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
   - id: "sch-spanish-conquest", title: "الغزو الإسباني", type: "حدث"
 gaps:

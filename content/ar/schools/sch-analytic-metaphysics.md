@@ -17,7 +17,7 @@ edges:
   - rel: "superseded_by", target: "الواقعية العلمية / اللاواقعية العلمية", target_type: "مدرسة"
 related:
   - id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
-  - id: "thk-lewis", title: "ديفيد لويس", type: "مفكر"
+  - id: "thk-dlewis", title: "ديفيد لويس", type: "مفكر"
   - id: "thk-van-inwagen", title: "بيتر فان إنواجن", type: "مفكر"
   - id: "thk-merricks", title: "ترين ميريكس", type: "مفكر"
   - id: "thk-crimmins", title: "مايكل كريمنز", type: "مفكر"

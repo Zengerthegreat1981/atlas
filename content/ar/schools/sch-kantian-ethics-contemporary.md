@@ -18,7 +18,7 @@ edges:
   - rel: "superseded_by", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
 related:
   - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-  - id: "thk-korsgaard", title: "كريستين كورسغارد", type: "مفكر"
+  - id: "thk-ckorsgaard", title: "كريستين كورسغارد", type: "مفكر"
   - id: "thk-onora-oneill", title: "أونورا أونيل", type: "مفكر"
   - id: "thk-sullivan", title: "روجر سوليفان", type: "مفكر"
 gaps:

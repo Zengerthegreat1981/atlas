@@ -18,7 +18,7 @@ edges:
 related:
   - id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
   - id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-  - id: "sch-oregon-british-canada", title: "فلسفات السكان الأصليين بأمريكا الشمالية", type: "مدرسة"
+  - id: "sch-north-american-indigenous", title: "فلسفات السكان الأصليين بأمريكا الشمالية", type: "مدرسة"
 gaps:
   - "نصوص الإنشاء الكبير (The Great Law) وJeff Lehman need review."
 ---

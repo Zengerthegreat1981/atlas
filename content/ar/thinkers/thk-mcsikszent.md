@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
 related:
   - id: "thk-mseligman", title: "مَارْتِن سِيلِجْمَان", type: "مفكر"
-  - id: "thk-amaslow", title: "أَبْرَاهَام مَاسْلُو", type: "مفكر"
+  - id: "thk-maslow", title: "أَبْرَاهَام مَاسْلُو", type: "مفكر"
 gaps:
   - "تفاصيل مفهوم التدفق (Flow) في الأعمال المتأخرة (2010s) لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -16,10 +16,10 @@ edges:
   - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
   - rel: "evolved_from", target: "العقد الاجتماعي (Social Contract)", target_type: "مدرسة"
 related:
-  - id: "sch-liberalism-classical", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-  - id: "sch-kantian-ethics", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
+  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+  - id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
   - id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
-  - id: "sch-liberalism-political", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
 gaps:
   - "نصوص Rawls (A Theory of Justice, Political Liberalism, Justice as Fairness) تحتاج مراجعة من المصدر الأولي."
 ---

@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "العلاج المعرفي القائم على اليقظة الذهنية", target_type: "مدرسة"
   - rel: "written_by", target: "مارك ويليامز", target_type: "مفكر"
 related:
-  - id: "thk-williams-mark", title: "مارك ويليامز", type: "مفكر"
+  - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

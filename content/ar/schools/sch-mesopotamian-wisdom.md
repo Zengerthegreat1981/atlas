@@ -17,7 +17,7 @@ edges:
   - rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
   - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
-  - id: "sch-zoroastrian", title: "الزرادشتية الفلسفية", type: "مدرسة"
+  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«ما قبل سقراط» (sch-presocratic-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص 'ملحمة جلجامش' الأصلية تحتاج مراجعة من المصدر الأولي."

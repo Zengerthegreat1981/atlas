@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "ما بعد الإنسانية (Posthumanism)", target_type: "مدرسة"
 related:
   - id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
-  - id: "sch-feminism-poststructuralist", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
+  - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ طبعة Routledge لـ *Simians, Cyborgs, and Women* (1991) ولا *The Companion Species Manifesto* (2003)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

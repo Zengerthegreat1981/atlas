@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-orank", title: "أوتّو رانك", type: "مفكر"
+  - id: "thk-rank", title: "أوتّو رانك", type: "مفكر"
   - id: "thk-mbalint", title: "مايكل بالِنت", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

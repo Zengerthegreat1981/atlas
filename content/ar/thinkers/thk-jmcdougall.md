@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
-  - id: "thk-jlacanian", title: "جاك لاكان", type: "مفكر"
+  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "العلاقة بمفهوم الأنا الجسدي في مسارح الجسد (1989) لم تُراجع بعد."

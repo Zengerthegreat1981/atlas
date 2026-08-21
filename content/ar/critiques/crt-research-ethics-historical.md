@@ -13,7 +13,7 @@ edges:
   - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
 related:  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-  - id: "thk-jbreuer", title: "يوزف بروير", type: "مفكر"
+  - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
   - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
   - "تفاصيل *APA Ethics Code 8.07* (Deception in Research) — لا اقتباس."
   - "موقف السلوكيين المعاصرين من تجارب واتسون وميلغرام — لا اقتباس."

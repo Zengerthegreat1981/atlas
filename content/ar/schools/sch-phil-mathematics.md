@@ -23,7 +23,7 @@ related:
   - id: "thk-brussell", title: "برتراند راسل", type: "مفكر"
   - id: "thk-hilbert", title: "ديفيد هيلبرت", type: "مفكر"
   - id: "thk-brouwer", title: "لويزن براور", type: "مفكر"
-  - id: "thk-godel", title: "كورت غودل", type: "مفكر"
+  - id: "thk-kgodel", title: "كورت غودل", type: "مفكر"
   - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
 gaps:
   - "الفارق بين 'الشكلية' و'الحدسية' في تفسير 'الوجود الرياضي' لم يُحلّل بدقة في المصادر الأولية."

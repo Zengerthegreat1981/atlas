@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي والشخصية", target_type: "مدرسة"
 related:
-  - id: "thk-jones-ernest", title: "إرنست جونز", type: "مفكر"
+  - id: "thk-jones", title: "إرنست جونز", type: "مفكر"
   - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "ورقة إرنست جونز الأصلية (1913) 'مقالات في التحليل النفسي التطبيقي'."

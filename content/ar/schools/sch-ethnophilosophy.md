@@ -17,7 +17,7 @@ edges:
 related:
   - id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
   - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
-  - id: "sch-african-professional", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
+  - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:
   - "نصوص Placide Tempels (Bantu Philosophy, 1945) وMbiti وp'Bitek تحتاج مراجعة من المصدر الأولي."
 ---

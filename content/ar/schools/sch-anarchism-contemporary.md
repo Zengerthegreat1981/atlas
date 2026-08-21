@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
   - rel: "evolved_from", target: "الأناركية الكلاسيكية", target_type: "مدرسة"
 related:
-  - id: "sch-anarchism-classical", title: "الأناركية الكلاسيكية", type: "مدرسة"
+  - id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
   - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
   - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
 gaps:

@@ -19,7 +19,7 @@ edges:
 related:
   - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
   - id: "thk-schlick", title: "مورتيس شليك", type: "مفكر"
-  - id: "thk-neurath", title: "أوتو نورات", type: "مفكر"
+  - id: "thk-mneurath", title: "أوتو نورات", type: "مفكر"
   - id: "thk-waismann", title: "فريدريش فايسمان", type: "مفكر"
   - id: "thk-hahn", title: "هانز هان", type: "مفكر"
 gaps:

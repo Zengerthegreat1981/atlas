@@ -18,7 +18,7 @@ edges:
   - rel: "evolved_from", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
 related:
   - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
-  - id: "thk-tarski", title: "ألفرد تارسكي", type: "مفكر"
+  - id: "thk-ttarski", title: "ألفرد تارسكي", type: "مفكر"
   - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
   - id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
   - id: "thk-montague", title: "ريتشارد مونتاغيو", type: "مفكر"

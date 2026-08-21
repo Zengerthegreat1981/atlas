@@ -17,7 +17,7 @@ edges:
   - rel: "founded", target: "النهضة العربية (كتيار فلسفي-إصلاحي)", target_type: "مدرسة"
 related:
   - id: "sch-arab-renaissance", title: "النهضة العربية", type: "مدرسة"
-  - id: "thk-abduh", title: "محمد عبده", type: "مفكر"
+  - id: "thk-muhammad-abduh", title: "محمد عبده", type: "مفكر"
   - id: "thk-kawakibi", title: "عبد الرحمن الكواكبي", type: "مفكر"
 gaps:
   - "مسألة أصل الأفغاني (فارسي أم أفغاني) موضع جدل تاريخي."

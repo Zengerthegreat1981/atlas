@@ -15,7 +15,7 @@ active_end: 2024
 edges:
   - rel: "belongs_to", target: "الفلسفة الأفريقية النسوية", target_type: "مدرسة"
 related:
-  - id: "sch-african-feminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"
+  - id: "sch-afrofeminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"
   - id: "thk-nnaemeka", title: "أوغو نانميكا", type: "مفكر"
 gaps:
   - "نصوص Amadiume (Male Daughters, Female Husbands) تحتاج مراجعة من المصدر الأولي."

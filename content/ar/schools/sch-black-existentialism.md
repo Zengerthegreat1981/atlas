@@ -18,7 +18,7 @@ related:
   - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
   - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "sch-cesaire", title: "إيمي سيزير", type: "مفكر"
+  - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 gaps:
   - "نصوص Frantz Fanon, Lewis Gordon, Lewis R. Gordon, William Cross، Jimmy Baldwin need review."
 ---

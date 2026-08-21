@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
 related:
   - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
-  - id: "thk-more", title: "توماس مور", type: "مفكر"
+  - id: "thk-tmoore", title: "توماس مور", type: "مفكر"
   - id: "thk-luther", title: "مارتن لوثر", type: "مفكر"
 gaps:
   - "النسخ اليونانية الثلاث لـ'Novum Instrumentum' تحتاج مراجعة من المصدر الأولي."

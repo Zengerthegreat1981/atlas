@@ -16,8 +16,8 @@ edges:
   - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
   - rel: "superseded_by", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
 related:
-  - id: "thk-knobe", title: "جوشوا نوب", type: "مفكر"
-  - id: "thk-nichols", title: "شون نيكولز", type: "مفكر"
+  - id: "thk-eknobe", title: "جوشوا نوب", type: "مفكر"
+  - id: "thk-snichols", title: "شون نيكولز", type: "مفكر"
   - id: "thk-machery", title: "إدوارد ماشيري", type: "مفكر"
   - id: "thk-weinberg", title: "جوناثان واينبرغ", type: "مفكر"
 gaps:

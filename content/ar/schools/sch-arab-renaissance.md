@@ -19,7 +19,7 @@ related:
   - id: "thk-alam", title: "محمود أمين العالم", type: "مفكر"
   - id: "thk-badawi", title: "عبد الرحمن بدوي", type: "مفكر"
   - id: "thk-tarabishi", title: "جورج طرابيشي", type: "مفكر"
-  - id: "thk-zaki-naguib", title: "زكي نجيب محمود", type: "مفكر"
+  - id: "thk-zmahmoud", title: "زكي نجيب محمود", type: "مفكر"
 gaps:
   - "كتب خليل ساعيني وجبرا إبراهيم جبرا لم تُراجع في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

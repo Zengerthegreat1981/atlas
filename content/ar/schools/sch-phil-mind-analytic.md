@@ -20,7 +20,7 @@ edges:
   - rel: "split_into", target: "المادية الإقصائية", target_type: "مدرسة"
 related:
   - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
-  - id: "thk-sellars", title: "ويلفريد سيلارز", type: "مفكر"
+  - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
   - id: "thk-nagel", title: "توماس ناغل", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«دانيال دينيت» (thk-dennett) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

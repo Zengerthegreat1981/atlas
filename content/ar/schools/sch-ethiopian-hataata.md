@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
-  - id: "sch-akat", title: "فلسفة الأكان", type: "مدرسة"
+  - id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
   - id: "sch-afa", title: "تقاليد اليوروبا (Ifá)", type: "مدرسة"
   - id: "sch-ethiopian-orthodoxy", title: "الأرثوذكسية الإثيوبية", type: "مدرسة"
 gaps:

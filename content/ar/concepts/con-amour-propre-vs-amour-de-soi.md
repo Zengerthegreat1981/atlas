@@ -13,7 +13,7 @@ related:
   - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
   - id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
   - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "thk-taylor", title: "تشارلز تايلور", type: "مفكر"
+  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
 gaps:
   - "النص الأصلي 'إميل' (Émile, 1762) لروسو يستحق مراجعة من المصدر الأولي للدلالة الدقيقة."
   - "الامتداد المعاصر لثنائية روسو في فلسفة تشارلز تايلور يستحق توثيقاً مستقلاً."
