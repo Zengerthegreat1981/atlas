@@ -34,6 +34,7 @@ related:
   - id: "thk-klima", title: "لاديسلاف كليما", type: "مفكر"
   - id: "thk-strindberg", title: "أوغست ستريندبرغ", type: "مفكر"
   - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+  - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
 gaps:
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
 ---

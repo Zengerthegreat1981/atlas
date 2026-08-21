@@ -36,6 +36,7 @@ related:
   - id: "thk-barrett", title: "ويليام باريت", type: "مفكر"
   - id: "thk-bespaloff", title: "راشيل بيسبالوف", type: "مفكر"
   - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+  - id: "sch-kierkegaardian", title: "الكيركغاردية", type: "مدرسة"
 gaps:
   - "قائمة الأعمال والتواريخ — لم تُثبَّت"
 ---

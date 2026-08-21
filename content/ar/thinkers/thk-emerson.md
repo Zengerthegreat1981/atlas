@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
+  - id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق بعد بالصياغة العربية الدقيقة."
 ---

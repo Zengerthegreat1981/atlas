@@ -19,6 +19,7 @@ related:
   - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
   - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
   - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+  - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نظريته في 'العواطف كأحكام وجودية واختيارات مسؤولة' (The Passions, 1976) تستحق إدراجاً مفاهيمياً."

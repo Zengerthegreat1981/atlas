@@ -17,6 +17,8 @@ related:
   - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
   - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
   - id: "con-freedom", title: "الحرية", type: "مفهوم"
+  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+  - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تحليله لأصالة المشاعر الباطنية ونقد النفاق الاجتماعي (Amour-propre) يستحق إدراجاً في تاريخ الأصالة."
