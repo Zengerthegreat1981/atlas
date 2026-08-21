@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
-  - id: "thk-hhartmann", title: "هاينز هارتمان", type: "مفكر"
+  - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
   - id: "thk-mmahler", title: "مارغريت ماهلر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

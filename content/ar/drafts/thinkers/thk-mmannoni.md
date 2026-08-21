@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
   - id: "thk-jlacanian", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-fdolto", title: "فرانسواز دُولتو", type: "مفكر"
 gaps:
   - "دَورها في نَقد العَقلانيَّة المُؤَسَّسيَّة في فَرَنْسا 1960s–70s مُلَخَّص، لم تُراجَع مَصادر أَوَّليَّة."

@@ -17,7 +17,7 @@ edges:
   - rel: "developed_by", target: "كارل أبراهام", target_type: "مفكر"
 related:
   - id: "thk-ferenczi", title: "ساندور فيرينتزي", type: "مفكر"
-  - id: "thk-abraham", title: "كارل أبراهام", type: "مفكر"
+  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
   - id: "thk-eitingon", title: "ماكس إيتينغون", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:

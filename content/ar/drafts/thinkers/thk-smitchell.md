@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
   - id: "thk-hkohut", title: "هَينز كُوهوت", type: "مفكر"
-  - id: "thk-mklein", title: "ميلاني كلاين", type: "مفكر"
+  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

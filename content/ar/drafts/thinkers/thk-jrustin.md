@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jbowlby", title: "جون بَوْلبي", type: "مفكر"
+  - id: "thk-bowlby", title: "جون بَوْلبي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "سيرة شخصية محدودة في المصادر المتاحة."

@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-lebovici", title: "سيرج لوبوفيتشي", type: "مفكر"
-  - id: "thk-dolto", title: "فرانسواز دولتو", type: "مفكر"
+  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
 gaps:
   - "مفهوم «الشاشة السائدة» (l'écran de l'idéologie) وعلاقته بقراءة فرويد لـ«اللاوعي كساحة قتال» (Kampfplatz) — تحتاج مراجعة من نص تأسيسي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

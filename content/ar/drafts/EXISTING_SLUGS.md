@@ -2,14 +2,12 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **2877** عنصراً (**695** معتمد + **2182** مسودة).
+الإجمالي: **2881** عنصراً (**418** معتمد + **2463** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
-⚠️ **12 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-lschultz, thk-yalom, thk-joseph-barber, thk-paulgthomas, thk-jingqiyong, thk-david-krauss, thk-mworden, thk-mariellekruger, thk-bugental, thk-jmunderross, thk-hherzog, thk-jschneider
-
-## مفكر (1699)
+## مفكر (1681)
 
 - `con-complex-ptsd` — اضطراب الكرب التالي للصدمة المعقد (C-PTSD) — 🕓 مسودة
 - `con-dissociation` — الانفصال (Dissociation) — 🕓 مسودة
@@ -23,7 +21,6 @@
 - `con-twelve-steps` — برنامج الاثنتي عشرة خطوة (12-Step) — 🕓 مسودة
 - `thk-aabdelkhalek` — أمجد عبد الخالق — 🕓 مسودة
 - `thk-aabrer` — كارل أبراهام — 🕓 مسودة
-- `thk-aadler` — ألفرد أدلر — 🕓 مسودة
 - `thk-aaichhorn` — أوغست أيخْهَرن — 🕓 مسودة
 - `thk-aalladin` — آسين علادين — 🕓 مسودة
 - `thk-aalvarez` — آن ألفاريز — 🕓 مسودة
@@ -35,7 +32,6 @@
 - `thk-abeck` — أَرون ت. بِك — 🕓 مسودة
 - `thk-aboal` — أوغوستو بوال — 🕓 مسودة
 - `thk-aboller` — أرماند فولكاس — 🕓 مسودة
-- `thk-abraham` — كارل أبراهام — 🕓 مسودة
 - `thk-abramovitch` — هنري أبراموفيتش — 🕓 مسودة
 - `thk-acatania` — أ. تشارلز كاتانيا — 🕓 مسودة
 - `thk-achristensen` — أندرو كريستينسن — 🕓 مسودة
@@ -110,7 +106,6 @@
 - `thk-asutich` — أنتوني سوتيتش — 🕓 مسودة
 - `thk-atobart` — أنا تيريزا دي توبار — 🕓 مسودة
 - `thk-attig` — توماس آتيغ — ✅ معتمد
-- `thk-atwood` — جورج أتوود — 🕓 مسودة
 - `thk-augustine` — أوغسطينوس — ✅ معتمد
 - `thk-aulagnier` — بيارا أولانييه — 🕓 مسودة
 - `thk-aulanc` — [مؤسِّسو ISAP / IIJP / NIJA / Israel Society of Analytical Psychology] — 🕓 مسودة
@@ -358,7 +353,6 @@
 - `thk-dmercieca` — إيفا ميرسيكا — 🕓 مسودة
 - `thk-dmiller` — ديفيد ل. ميلر — 🕓 مسودة
 - `thk-dmueser` — كيم ميوزر — 🕓 مسودة
-- `thk-dolto` — فرانسواز دولتو — 🕓 مسودة
 - `thk-dolweus` — دان أولِس — 🕓 مسودة
 - `thk-donaldatkinson` — دونالد أتكينسون — 🕓 مسودة
 - `thk-donbaer` — دونالد م. باير — 🕓 مسودة
@@ -388,7 +382,6 @@
 - `thk-dwile` — دانيال وايل — 🕓 مسودة
 - `thk-dwinnicott` — دونالد وِنّيكت — 🕓 مسودة
 - `thk-dzurilla` — توماس ج. دزوريلا — 🕓 مسودة
-- `thk-eaba` — دونالد م. باير — 🕓 مسودة
 - `thk-eallen` — إليزابيث ألين — 🕓 مسودة
 - `thk-earle` — ويليام إيرل — ✅ معتمد
 - `thk-ebick` — إستر بيك — 🕓 مسودة
@@ -415,8 +408,6 @@
 - `thk-ehutchins` — إيميت هاتشنز — 🕓 مسودة
 - `thk-eimber` — إيفان إمبير-بلاك — 🕓 مسودة
 - `thk-eitingon` — ماكس آيتينغون — 🕓 مسودة
-- `thk-ejacobson` — إِديث جاكوبسون — 🕓 مسودة
-- `thk-ejones` — إرنست جونز — 🕓 مسودة
 - `thk-ejung` — إيما يونغ — 🕓 مسودة
 - `thk-ekandel` — إريك كاندِل — 🕓 مسودة
 - `thk-ekeleman` — ستانلي كِلمان — 🕓 مسودة
@@ -476,6 +467,7 @@
 - `thk-ffrommreich` — فريدا فْروم-رَايخْمَن — 🕓 مسودة
 - `thk-fgutier` — فرانسيسكو غوتيريس — 🕓 مسودة
 - `thk-fhaug` — فريغا هاوُغ — 🕓 مسودة
+- `thk-fherzog` — ف. هرتسوغ — 🕓 مسودة
 - `thk-fink` — أويغن فينك — ✅ معتمد
 - `thk-fizzotti` — أوجينيو فيزوتي — ✅ معتمد
 - `thk-fkeller` — فريد س. كيلّر — 🕓 مسودة
@@ -535,7 +527,7 @@
 - `thk-ggurdjieff` — غي. آي. غورجييف — 🕓 مسودة
 - `thk-ghoffman` — غلين هوفمان — 🕓 مسودة
 - `thk-giegerich` — وولفغانغ غيغيريش — 🕓 مسودة
-- `thk-gillian-abbott` — جيليان أبوت — ✅ معتمد
+- `thk-gillian-abbott` — جيليان أبوت — 🕓 مسودة
 - `thk-giorgi` — أميديو جيورجي — ✅ معتمد
 - `thk-gjohanson` — غريغوري جوهانسون — 🕓 مسودة
 - `thk-gklerman` — جيرالد كَلِرمان — 🕓 مسودة
@@ -555,7 +547,6 @@
 - `thk-gordon` — لويس غوردون — ✅ معتمد
 - `thk-govinda` — لاما أناغاريكا غوفيندا — 🕓 مسودة
 - `thk-gparis` — جانيت باريس — 🕓 مسودة
-- `thk-green-a` — أندريه غرين — 🕓 مسودة
 - `thk-greenberg` — جيف غرينبرغ — ✅ معتمد
 - `thk-greenberg-lisa` — ليزا فيرلي غرينبرغ — 🕓 مسودة
 - `thk-greenwald` — راي غرينوالد — 🕓 مسودة
@@ -602,7 +593,6 @@
 - `thk-hgoolishian` — هاري غوليشيان — 🕓 مسودة
 - `thk-hguntrip` — هاري غَنْتْرِب — 🕓 مسودة
 - `thk-hhart` — هنري هارت — 🕓 مسودة
-- `thk-hhartmann` — هاينز هارتمان — 🕓 مسودة
 - `thk-hhendrix` — هارفي هندرِكس — 🕓 مسودة
 - `thk-hherzog` — ماكس هرتسوغ — ✅ معتمد
 - `thk-hhuber` — هيلموت هوبر — 🕓 مسودة
@@ -642,7 +632,7 @@
 - `thk-hussein` — طه حسين — ✅ معتمد
 - `thk-husserl` — إدموند هوسرل — ✅ معتمد
 - `thk-hweiner` — هربرت فاينر — 🕓 مسودة
-- `thk-hweiss` — هارييت وايس — ✅ معتمد
+- `thk-hweiss` — هارييت وايس — 🕓 مسودة
 - `thk-hwiyoro` — هيكتور ويورو — 🕓 مسودة
 - `thk-iberg` — إنسو كيم بيرغ — 🕓 مسودة
 - `thk-ibieber` — إرفنغ بيبر — 🕓 مسودة
@@ -706,7 +696,6 @@
 - `thk-jbissel` — ج. غاري بيسّل — 🕓 مسودة
 - `thk-jbmiller` — جين بيكر ميلر — 🕓 مسودة
 - `thk-jboss` — ديفيد بيرسيلي — 🕓 مسودة
-- `thk-jbowlby` — جون بَوْلبي — 🕓 مسودة
 - `thk-jbreuer` — جوزيف بروير — 🕓 مسودة
 - `thk-jbrowne` — كاثلين براون — 🕓 مسودة
 - `thk-jburns` — ديفيد بيرنز — 🕓 مسودة
@@ -803,8 +792,8 @@
 - `thk-josephtrimble` — جوزيف ترايمبل — ✅ معتمد
 - `thk-josselson` — روثلين جوسلسون — ✅ معتمد
 - `thk-jpanksepp` — جَاك بَانْكِسِب — 🕓 مسودة
-- `thk-jparrh` — جون بار — ✅ معتمد
-- `thk-jpatterson` — جيرالد باترسون — ✅ معتمد
+- `thk-jparrh` — جون بار — 🕓 مسودة
+- `thk-jpatterson` — جيرالد باترسون — 🕓 مسودة
 - `thk-jpennebaker` — جيمس و. بينيبيكر — 🕓 مسودة
 - `thk-jpotter` — جوناثان بوتر — 🕓 مسودة
 - `thk-jramiro` — جي رامييرو — 🕓 مسودة
@@ -831,12 +820,12 @@
 - `thk-jweakland` — جون وِكلاند — ✅ معتمد
 - `thk-jweir` — جون ج. وير — 🕓 مسودة
 - `thk-jweiss` — جوزيف وايس — 🕓 مسودة
-- `thk-jweizenbaum` — جوزيف فايزنباوم — ✅ معتمد
+- `thk-jweizenbaum` — جوزيف فايزنباوم — 🕓 مسودة
 - `thk-jwheelwright` — جوزيف ب. ويلرايت — 🕓 مسودة
 - `thk-jwiener` — جان وينر — 🕓 مسودة
 - `thk-jwolpe` — جوزف وُلبّي — 🕓 مسودة
 - `thk-jwpark` — جي-وو بارك — 🕓 مسودة
-- `thk-jzinker` — جوزيف زِنكِر — ✅ معتمد
+- `thk-jzinker` — جوزيف زِنكِر — 🕓 مسودة
 - `thk-kaarlokeranen` — كارلو كيرانن — 🕓 مسودة
 - `thk-kaes` — رينيه كايه — 🕓 مسودة
 - `thk-kafka` — فرانز كافكا — ✅ معتمد
@@ -899,12 +888,12 @@
 - `thk-kraus` — ألفريد كراوس — ✅ معتمد
 - `thk-krigby` — كن رِجباي — ✅ معتمد
 - `thk-krippner` — ستانلي كريبنر — ✅ معتمد
-- `thk-kris` — إرنست كريس — 🕓 مسودة
 - `thk-krischer` — باري كريشر — 🕓 مسودة
 - `thk-krishnamurti` — جيدو كريشنامورتي — 🕓 مسودة
 - `thk-kristeva` — جوليا كريستيفا — 🕓 مسودة
 - `thk-kristin-buss` — كريستين بَس — ✅ معتمد
 - `thk-krug` — أورا كروغ — ✅ معتمد
+- `thk-kruger-marielle` — مارييل كروغر — 🕓 مسودة
 - `thk-kspence` — ك. و. سبنس — 🕓 مسودة
 - `thk-kstinshoff` — كلاوس شتينشوف — 🕓 مسودة
 - `thk-kuhn` — رولاند كون — ✅ معتمد
@@ -938,8 +927,8 @@
 - `thk-lchodorow` — نانسي تشودوروف — 🕓 مسودة
 - `thk-lcozolino` — لويس كوتزولينو — 🕓 مسودة
 - `thk-lcwallace` — ب. ألن والاس — ✅ معتمد
-- `thk-ldavidson` — لاري ديفيدسون — ✅ معتمد
-- `thk-ldesalvo` — لويز دي سالفو — ✅ معتمد
+- `thk-ldavidson` — لاري ديفيدسون — 🕓 مسودة
+- `thk-ldesalvo` — لويز دي سالفو — 🕓 مسودة
 - `thk-lebovici` — سيرج لوبوفيتشي — 🕓 مسودة
 - `thk-leehyungjun` — لي هيونغ-جون — 🕓 مسودة
 - `thk-leifer` — رونالد لايفر — ✅ معتمد
@@ -957,18 +946,18 @@
 - `thk-lhubbard` — ل. رون هوبارد — 🕓 مسودة
 - `thk-lieberman` — ألسي ليبرمان (باتريسيا) — 🕓 مسودة
 - `thk-lifton` — روبرت جاي ليفتون — ✅ معتمد
-- `thk-lindatuhiwai` — ليندا توهيواي سميث — ✅ معتمد
+- `thk-lindatuhiwai` — ليندا توهيواي سميث — 🕓 مسودة
 - `thk-linton` — رالف لينتون — 🕓 مسودة
 - `thk-lirigaray` — لوسي إِرِيغَارَي — 🕓 مسودة
-- `thk-lkohlberg` — لورنس كولبرغ — ✅ معتمد
+- `thk-lkohlberg` — لورنس كولبرغ — 🕓 مسودة
 - `thk-lkuhn` — ليندا كون — 🕓 مسودة
 - `thk-llosi` — لوكا لوزي — 🕓 مسودة
-- `thk-lluborsky` — ليستر لوبورسكي — ✅ معتمد
+- `thk-lluborsky` — ليستر لوبورسكي — 🕓 مسودة
 - `thk-lmazza` — نيكولاس مازا — 🕓 مسودة
-- `thk-lmiller` — لوسي جين ميلر — ✅ معتمد
+- `thk-lmiller` — لوسي جين ميلر — 🕓 مسودة
 - `thk-lmorrnah` — إبراهام كاوانيوآ — 🕓 مسودة
 - `thk-lmunro` — لويز مونرو — 🕓 مسودة
-- `thk-lmyers` — ليندا جيمس مايرز — ✅ معتمد
+- `thk-lmyers` — ليندا جيمس مايرز — 🕓 مسودة
 - `thk-loewald` — هانز لوفالد — 🕓 مسودة
 - `thk-loewenstein` — رودولف لوفينشتاين — 🕓 مسودة
 - `thk-lonan` — لورينا أونان — 🕓 مسودة
@@ -985,7 +974,7 @@
 - `thk-lroszak` — ثيرون روزاك — 🕓 مسودة
 - `thk-lschultz` — لويس شولتز — ✅ معتمد
 - `thk-lstaples` — لورنس ستاپلز — 🕓 مسودة
-- `thk-ludwigbinswanger` — لودفيغ بينسوانغر — ✅ معتمد
+- `thk-ludwigbinswanger` — لودفيغ بينسوانغر — 🕓 مسودة
 - `thk-luijpen` — فيلهلموس لايتبن — ✅ معتمد
 - `thk-lukacs` — جورج لوكاش — ✅ معتمد
 - `thk-lukas` — إليزابيث لوكاس — ✅ معتمد
@@ -1015,7 +1004,7 @@
 - `thk-marcuse` — هربرت ماركوزه — ✅ معتمد
 - `thk-margaret-bluestein` — مارغريت بلوستين — 🕓 مسودة
 - `thk-margaretbodkin` — مارغريت بودكن — 🕓 مسودة
-- `thk-marian-krcmar` — ماريان كركمار — ✅ معتمد
+- `thk-marian-krcmar` — ماريان كركمار — 🕓 مسودة
 - `thk-marianne-strom` — ماريان ستروم — 🕓 مسودة
 - `thk-mariannekline` — ماريان كلاين — 🕓 مسودة
 - `thk-mariellekruger` — ماري كروغر — ✅ معتمد
@@ -1089,7 +1078,6 @@
 - `thk-michael-yarp` — مايكل يارب — 🕓 مسودة
 - `thk-michaelsweeting` — مايكل سويتنغ — 🕓 مسودة
 - `thk-michio-mizuno` — ميتشيو ميزونو — 🕓 مسودة
-- `thk-miller` — جاك-ألان ميلر — 🕓 مسودة
 - `thk-mimordino-yang` — ماري هيلين إيموردينو-يانغ — 🕓 مسودة
 - `thk-mingshengli` — لي مينغ شنغ — 🕓 مسودة
 - `thk-minkowski` — أوجين مينكوفسكي — ✅ معتمد
@@ -1101,9 +1089,8 @@
 - `thk-mjones` — ماكسويل جونز — 🕓 مسودة
 - `thk-mkern` — مارك كيرن — 🕓 مسودة
 - `thk-mkerr` — مايكل كير — 🕓 مسودة
-- `thk-mkhalifa` — محمد خليفة — ✅ معتمد
+- `thk-mkhalifa` — محمد خليفة — 🕓 مسودة
 - `thk-mking` — ميليسا كينغ — 🕓 مسودة
-- `thk-mklein` — ميلاني كلاين — 🕓 مسودة
 - `thk-mkoemeda` — ماريت كويمِدا-لوتز — 🕓 مسودة
 - `thk-mlanger` — ماري لانغر — 🕓 مسودة
 - `thk-mlemlij` — مويسيس لِمْلِخ — 🕓 مسودة
@@ -1128,7 +1115,6 @@
 - `thk-moreno` — يعقوب ليفي مورينو — 🕓 مسودة
 - `thk-morin` — تشارلز م. مورين — 🕓 مسودة
 - `thk-morne` — مارتن أورن — 🕓 مسودة
-- `thk-mosak` — هارولد موساك — 🕓 مسودة
 - `thk-moss` — دونالد موس — ✅ معتمد
 - `thk-mounier` — إيمانويل مونييه — ✅ معتمد
 - `thk-moustakas` — كلارك موستاكاس — ✅ معتمد
@@ -1197,19 +1183,18 @@
 - `thk-nishitani` — كيجي نيشيتاني — ✅ معتمد
 - `thk-njacobson` — نيل س. جاكوبسون — 🕓 مسودة
 - `thk-nkhanna` — نيخيل خانا — 🕓 مسودة
-- `thk-nlehrman` — ناثانئيل لِرمان — ✅ معتمد
-- `thk-nmanganyi` — نْيلسون مَغَنْي — ✅ معتمد
+- `thk-nlehrman` — ناثانئيل لِرمان — 🕓 مسودة
+- `thk-nmanganyi` — نْيلسون مَغَنْي — 🕓 مسودة
 - `thk-nmiller` — ويليام ميلر (William R. Miller) — 🕓 مسودة
 - `thk-novaco` — ريموند و. نوفاكو — 🕓 مسودة
 - `thk-npeseschkian` — نصرت بيسشكيان — 🕓 مسودة
 - `thk-npetry` — نانسي م. بيتري — 🕓 مسودة
-- `thk-nrogers` — ناتالي روجرز — ✅ معتمد
+- `thk-nrogers` — ناتالي روجرز — 🕓 مسودة
 - `thk-nsugiyama` — نَأوكو سُوگييامَا — 🕓 مسودة
 - `thk-nwatanabe` — نوبو واتانابي — 🕓 مسودة
 - `thk-oaverderese` — أولغا فِرْدِرِيس — 🕓 مسودة
 - `thk-obecker` — أوسكار بيكر — ✅ معتمد
 - `thk-ogilvie` — بروس أوكيف — 🕓 مسودة
-- `thk-okernberg` — أوتو كيرنبرغ — 🕓 مسودة
 - `thk-olovaas` — أويفار لوفاس — 🕓 مسودة
 - `thk-opfister` — أوسكار بفِسْتَر — 🕓 مسودة
 - `thk-orank` — أوتّو رانك — 🕓 مسودة
@@ -1218,17 +1203,17 @@
 - `thk-ormijares` — أوسكار رودريغيث ميجاريس — 🕓 مسودة
 - `thk-ornstein` — بول ه. أورنشتاين — 🕓 مسودة
 - `thk-ortega` — خوسيه أورتيجا إي جاسيت — ✅ معتمد
-- `thk-osilver` — أولغا سيلفرشتاين — ✅ معتمد
+- `thk-osilver` — أولغا سيلفرشتاين — 🕓 مسودة
 - `thk-ottofenichel` — أوتو فينيشل — 🕓 مسودة
 - `thk-ovogt` — أوسكار فوغت — 🕓 مسودة
 - `thk-paci` — إنزو باتشي — ✅ معتمد
 - `thk-pakman` — مارسيلو باكمان — ✅ معتمد
 - `thk-panksepp` — جاك بانكسيب — 🕓 مسودة
-- `thk-papaarangireid` — بابارانغي ريد — ✅ معتمد
-- `thk-pappelbaum` — بول أبلباوم — ✅ معتمد
+- `thk-papaarangireid` — بابارانغي ريد — 🕓 مسودة
+- `thk-pappelbaum` — بول أبلباوم — 🕓 مسودة
 - `thk-pareyson` — لويجي باريزون — ✅ معتمد
 - `thk-park` — كريستال بارك — ✅ معتمد
-- `thk-parkjongik` — بارك جونغ-إيك — ✅ معتمد
+- `thk-parkjongik` — بارك جونغ-إيك — 🕓 مسودة
 - `thk-pascal` — بليز باسكال — ✅ معتمد
 - `thk-patdeegan` — بات ديغان — 🕓 مسودة
 - `thk-patocka` — يان باتوتشكا — ✅ معتمد
@@ -1236,13 +1221,13 @@
 - `thk-paul-thorne` — بول ثورن — 🕓 مسودة
 - `thk-paulagnier` — بياتريس أولانيي — 🕓 مسودة
 - `thk-paulgthomas` — بول جي. توماس — ✅ معتمد
-- `thk-paulholmes` — بول هولمز — ✅ معتمد
+- `thk-paulholmes` — بول هولمز — 🕓 مسودة
 - `thk-paz` — أوكتافيو باث — ✅ معتمد
 - `thk-pberry` — باتريشيا بيري — 🕓 مسودة
-- `thk-pbooth` — فيلس بوث — ✅ معتمد
+- `thk-pbooth` — فيلس بوث — 🕓 مسودة
 - `thk-pcaplan` — بولا كابلان — ✅ معتمد
 - `thk-pcarducci` — باولا كاردوتشي — 🕓 مسودة
-- `thk-pchodron` — بيما تشُدرُن — ✅ معتمد
+- `thk-pchodron` — بيما تشُدرُن — 🕓 مسودة
 - `thk-pdeegan` — باتريشا ديجان — 🕓 مسودة
 - `thk-peg-pender` — بيغ پيندر — 🕓 مسودة
 - `thk-pekkajokinen` — بيكا يوكينن — 🕓 مسودة
@@ -1289,6 +1274,7 @@
 - `thk-pteilhard` — بيار تيار دي شاردان — 🕓 مسودة
 - `thk-puysgur` — ماركيز دي بويزيغور — 🕓 مسودة
 - `thk-pwatzl` — غريغوري بِيسون — 🕓 مسودة
+- `thk-pwatzlawick` — بول واتزلاويك — ✅ معتمد
 - `thk-pwehman` — بول ويهَمان — 🕓 مسودة
 - `thk-pyszczynski` — توم بيسزينسكي — ✅ معتمد
 - `thk-qualls-corbett` — نانسي كوالز-كوربت — 🕓 مسودة
@@ -1300,7 +1286,6 @@
 - `thk-ramsden` — رينيه رامسدن — 🕓 مسودة
 - `thk-randystabler` — راندي ستابلر — 🕓 مسودة
 - `thk-rank` — أوتو رانك — ✅ معتمد
-- `thk-rapaport` — ديفيد رابابورت — 🕓 مسودة
 - `thk-raphael` — د. د. رافائيل — ✅ معتمد
 - `thk-rbandler` — ريتشارد بَندلر — 🕓 مسودة
 - `thk-rbarkley` — راسِل باركلي — 🕓 مسودة
@@ -1328,7 +1313,6 @@
 - `thk-retchegoyen` — رُودُولْفُو إِتْشِغُويِن — 🕓 مسودة
 - `thk-rfisch` — ريتشارد فيش — 🕓 مسودة
 - `thk-rfoxx` — ريتشارد فُكْس — 🕓 مسودة
-- `thk-rfoxx-r` — إدنا ب. فوا — 🕓 مسودة
 - `thk-rfrank` — رويلا فرانك — 🕓 مسودة
 - `thk-rgreening` — ريتشارد إ. غرينينغ — ✅ معتمد
 - `thk-rhanson` — ر. كارل هانسون — 🕓 مسودة
@@ -1372,12 +1356,11 @@
 - `thk-robert-rotella` — روبرت روتيلا — 🕓 مسودة
 - `thk-robertduvall` — روبرت دوفال — 🕓 مسودة
 - `thk-robertelliott` — روبرت إليوت — 🕓 مسودة
-- `thk-robertfritz` — روبرت فريتز — ✅ معتمد
+- `thk-robertfritz` — روبرت فريتز — 🕓 مسودة
 - `thk-rogers` — كارل روجرز — ✅ معتمد
 - `thk-rohan-gullich` — روهان غوليتش — 🕓 مسودة
 - `thk-roland-tolentino` — رولاند تولنتينو — 🕓 مسودة
 - `thk-rollnick` — ستيفن رولنيك — 🕓 مسودة
-- `thk-rollomay` — رولو ماي — 🕓 مسودة
 - `thk-rorty` — ريتشارد رورتي — ✅ معتمد
 - `thk-rosemaryalara` — روزماري أَلارا — 🕓 مسودة
 - `thk-rosenfeld` — هربرت روزنفيلد — 🕓 مسودة
@@ -1445,7 +1428,6 @@
 - `thk-sbooth` — ساندرا لينداما — ✅ معتمد
 - `thk-sbouchard` — ستيفان بوشار — 🕓 مسودة
 - `thk-schauer` — ماغي شاور — 🕓 مسودة
-- `thk-schayes` — ستيفن سي. هايز — 🕓 مسودة
 - `thk-scheler` — ماكس شيلر — ✅ معتمد
 - `thk-schelling` — فريدريش شيلينغ — ✅ معتمد
 - `thk-schneider` — كيرك شنايدر — ✅ معتمد
@@ -1463,7 +1445,6 @@
 - `thk-seyberg` — ستيفن إيبِرغ — 🕓 مسودة
 - `thk-sferenczi` — ساندور فيرينتسي — 🕓 مسودة
 - `thk-sfinlay` — ستيفن فينلاي — ✅ معتمد
-- `thk-sfreud` — سيغموند فرويد — 🕓 مسودة
 - `thk-sgallagher` — شون غالاغر — 🕓 مسودة
 - `thk-sgilligan` — ستيف جِليغَن — 🕓 مسودة
 - `thk-sgrand` — سو غراند — 🕓 مسودة
@@ -1500,7 +1481,6 @@
 - `thk-smorita` — شوما موريتا — 🕓 مسودة
 - `thk-snygg` — دونالد سنيغ — ✅ معتمد
 - `thk-socrates` — سقراط — ✅ معتمد
-- `thk-solms` — مارك سولمز — 🕓 مسودة
 - `thk-solomon` — روبرت سولومون — ✅ معتمد
 - `thk-soloveitchik` — جوزيف سولوفيتشيك — ✅ معتمد
 - `thk-soltz` — فيكي سولْتز — 🕓 مسودة
@@ -1643,7 +1623,6 @@
 - `thk-wanthony` — ويليام أنتوني — 🕓 مسودة
 - `thk-wass` — هانيلوره فاس — ✅ معتمد
 - `thk-wbennett` — وين بينيت — 🕓 مسودة
-- `thk-wbion` — ويلفريد بيون — 🕓 مسودة
 - `thk-wboechat` — فالتَر بُويْتشات — 🕓 مسودة
 - `thk-wdoherty` — بيل دوهرتي — 🕓 مسودة
 - `thk-wdowling` — ناعيم أكبر — 🕓 مسودة
@@ -1693,6 +1672,7 @@
 - `thk-ymohamed` — ياسين محمد — 🕓 مسودة
 - `thk-ynakagami` — ياسوشي ناكاغامي — 🕓 مسودة
 - `thk-yogananda` — باراماهانزا يوغاناندا — 🕓 مسودة
+- `thk-yongjingqi` — يونغ جينغ تشي — 🕓 مسودة
 - `thk-yotsuka` — ياسوهيرو يوتسوكا — ✅ معتمد
 - `thk-young` — سارة يونغ — ✅ معتمد
 - `thk-young-jeffrey` — جيفري يونغ — 🕓 مسودة
@@ -2044,15 +2024,15 @@
 
 ## جدل (27)
 
-- `dbt-adhd-overdiagnosis-overmedication` — جدل الإفراط في تشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه دوائياً — ✅ معتمد
+- `dbt-adhd-overdiagnosis-overmedication` — جدل الإفراط في تشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه دوائياً — 🕓 مسودة
 - `dbt-boss-binswanger` — بينسوانغر أم بوس؟ — ✅ معتمد
 - `dbt-british-yalom` — البريطانيون ضد التيار الأمريكي — ✅ معتمد
-- `dbt-categorical-vs-dimensional-diagnosis` — التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية — ✅ معتمد
+- `dbt-categorical-vs-dimensional-diagnosis` — التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية — 🕓 مسودة
 - `dbt-conversion-therapy-harm` — جدل العلاج بالتحويل: مفيد أم ضار؟ — 🕓 مسودة
 - `dbt-creativity-vs-pathology` — الإبداع مقابل المرض النفسي: قرابة حقيقية أم خرافة؟ — 🕓 مسودة
-- `dbt-cultural-bias-iq-testing` — جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة — ✅ معتمد
-- `dbt-diagnostic-concept-creep` — جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي في الطب النفسي — ✅ معتمد
-- `dbt-ect-efficacy-and-ethics` — جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية — ✅ معتمد
+- `dbt-cultural-bias-iq-testing` — جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة — 🕓 مسودة
+- `dbt-diagnostic-concept-creep` — جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي في الطب النفسي — 🕓 مسودة
+- `dbt-ect-efficacy-and-ethics` — جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية — 🕓 مسودة
 - `dbt-evidence` — هل نطلب أدلة تجريبية؟ — ✅ معتمد
 - `dbt-humanistic-vs-existential` — الإنسانية في مقابل الوجودية: تكامل أم تعارض؟ — 🕓 مسودة
 - `dbt-individualism` — الفردانية والعمى عن السلطة — ✅ معتمد
@@ -2060,17 +2040,17 @@
 - `dbt-langle-frankl` — لانغله ضد فرانكل — ✅ معتمد
 - `dbt-langle-frankl-meaning` — لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟ — 🕓 مسودة
 - `dbt-meaning-found` — هل المعنى يُكتشَف أم يُصنَع؟ — ✅ معتمد
-- `dbt-nature-vs-nurture-intelligence-personality` — جدل الطبيعة والتنشئة في الذكاء والشخصية — ✅ معتمد
-- `dbt-projective-tests-validity` — جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني — ✅ معتمد
-- `dbt-psychology-replication-crisis` — أزمة تكرار النتائج في علم النفس التجريبي — ✅ معتمد
-- `dbt-psychotherapy-vs-pharmacotherapy-depression` — جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم — ✅ معتمد
+- `dbt-nature-vs-nurture-intelligence-personality` — جدل الطبيعة والتنشئة في الذكاء والشخصية — 🕓 مسودة
+- `dbt-projective-tests-validity` — جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني — 🕓 مسودة
+- `dbt-psychology-replication-crisis` — أزمة تكرار النتائج في علم النفس التجريبي — 🕓 مسودة
+- `dbt-psychotherapy-vs-pharmacotherapy-depression` — جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم — 🕓 مسودة
 - `dbt-recovered-memory-validity` — جدل الذاكرة المُستعادة: حقيقية أم زائفة؟ — 🕓 مسودة
 - `dbt-rogers-vs-may-authenticity` — أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة — 🕓 مسودة
 - `dbt-school-or-attitude` — مدرسة أم موقف؟ — ✅ معتمد
 - `dbt-spiritual` — الروحاني والعلماني — ✅ معتمد
 - `dbt-structures` — هل توجد بنى وجودية ثابتة؟ — ✅ معتمد
 - `dbt-unconscious` — هل يوجد لاوعي؟ — ✅ معتمد
-- `dbt-violent-media-child-aggression` — جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال — ✅ معتمد
+- `dbt-violent-media-child-aggression` — جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال — 🕓 مسودة
 
 ## تيار (129)
 
@@ -2204,21 +2184,35 @@
 - `br-vegetotherapy-orgonomy` — العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية) — 🕓 مسودة
 - `br-vr-therapy` — العلاج بالواقع الافتراضي — 🕓 مسودة
 
-## علاقة بين مدرستين (13)
+## علاقة بين مدرستين (27)
 
 - `rel-act` — القبول والالتزام — الجار المحرِج — ✅ معتمد
+- `rel-addiction-cbt` — الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي: المقابلة التحفيزية ومنع الانتكاس — 🕓 مسودة
 - `rel-behaviorism-cognitive` — السلوكية والمعرفية: الثورة المعرفية داخل السلوكية — 🕓 مسودة
+- `rel-cbt-nonwestern` — المعرفية-السلوكية والأطر غير الغربية: استيراد اليقظة البوذية — 🕓 مسودة
 - `rel-cbt-thirdwave` — CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ — 🕓 مسودة
 - `rel-humanistic` — الإنساني — القرابة الملتبسة — ✅ معتمد
 - `rel-humanistic-existential-gestalt` — الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة — 🕓 مسودة
 - `rel-humanistic-positive` — الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه — 🕓 مسودة
 - `rel-hypnosis-psychoanalysis` — التنويم والتحليل النفسي: انفصال وتباعد تاريخي — 🕓 مسودة
+- `rel-integrative-cbt-common-factors` — التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة — 🕓 مسودة
+- `rel-integrative-humanistic-common-factors` — التكاملية (العامل المشترك) والإنسانية: الأم الأصلية — 🕓 مسودة
+- `rel-integrative-psychoanalysis-common-factors` — التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم — 🕓 مسودة
 - `rel-phenopath` — الظاهراتية النفسية المرضية — الحليف — ✅ معتمد
+- `rel-postmodern-systemic` — ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة — 🕓 مسودة
+- `rel-psychedelic-transpersonal` — العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي — 🕓 مسودة
 - `rel-psychoanalysis` — التحليل النفسي — الانفصال والاحتفاظ — ✅ معتمد
 - `rel-psychoanalysis-behaviorism` — التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى — 🕓 مسودة
 - `rel-psychoanalysis-cbt` — التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين — 🕓 مسودة
 - `rel-psychoanalysis-humanistic` — التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي — 🕓 مسودة
 - `rel-psychoanalysis-jungian` — التحليل النفسي والتحليلية اليونغية: انشقاق الأبناء المؤسِّس — 🕓 مسودة
+- `rel-psychoanalysis-somatic` — التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر — 🕓 مسودة
+- `rel-somatic-existential` — الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي — 🕓 مسودة
+- `rel-systemic-behavioral` — النظامية الأسرية والسلوكية: تكامل صامت — 🕓 مسودة
+- `rel-systemic-psychoanalysis` — النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة — 🕓 مسودة
+- `rel-transpersonal-humanistic` — عبر الشخصية والإنسانية: ولادة الموجة الرابعة — 🕓 مسودة
+- `rel-trauma-psychoanalysis` — العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم — 🕓 مسودة
+- `rel-trauma-somatic` — العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر — 🕓 مسودة
 
 ## سياق/تقليد (6)
 
@@ -2231,169 +2225,177 @@
 
 ## أداة قياس (66)
 
-- `ins-aai` — مقابلة التعلّق للبالغين — ✅ معتمد
-- `ins-audit` — اختبار تحديد اضطرابات تعاطي الكحول لمنظمة الصحة العالمية — ✅ معتمد
-- `ins-bai` — مقياس بيك للقلق — ✅ معتمد
-- `ins-bdi-ii` — مقياس بيك للاكتئاب - الإصدار الثاني — ✅ معتمد
-- `ins-bender-gestalt` — اختبار بندر-غشطالت البصري الحركي — ✅ معتمد
-- `ins-bfne` — مقياس الخوف الموجز من التقييم السلبي — ✅ معتمد
-- `ins-caps-5` — المقياس الإكلينيكي المدار لتشخيص ما بعد الصدمة — ✅ معتمد
-- `ins-cattell-16pf` — استبيان الستة عشر عاملاً للشخصية لكاتل — ✅ معتمد
-- `ins-cbcl` — قائمة سلوك الطفل لنظام أشنباخ للتقييم المبني تجريبياً — ✅ معتمد
-- `ins-ces-d` — مقياس مركز الدراسات الوبائية للاكتئاب — ✅ معتمد
-- `ins-conners-rating-scales` — مقاييس كونرز لتقييم اضطراب فرط الحركة وتشتت الانتباه — ✅ معتمد
-- `ins-dast` — اختبار فرز تعاطي المخدرات — ✅ معتمد
+- `ins-aai` — مقابلة التعلّق للبالغين — 🕓 مسودة
+- `ins-audit` — اختبار تحديد اضطرابات تعاطي الكحول لمنظمة الصحة العالمية — 🕓 مسودة
+- `ins-bai` — مقياس بيك للقلق — 🕓 مسودة
+- `ins-bdi-ii` — مقياس بيك للاكتئاب - الإصدار الثاني — 🕓 مسودة
+- `ins-bender-gestalt` — اختبار بندر-غشطالت البصري الحركي — 🕓 مسودة
+- `ins-bfne` — مقياس الخوف الموجز من التقييم السلبي — 🕓 مسودة
+- `ins-caps-5` — المقياس الإكلينيكي المدار لتشخيص ما بعد الصدمة — 🕓 مسودة
+- `ins-cattell-16pf` — استبيان الستة عشر عاملاً للشخصية لكاتل — 🕓 مسودة
+- `ins-cbcl` — قائمة سلوك الطفل لنظام أشنباخ للتقييم المبني تجريبياً — 🕓 مسودة
+- `ins-ces-d` — مقياس مركز الدراسات الوبائية للاكتئاب — 🕓 مسودة
+- `ins-conners-rating-scales` — مقاييس كونرز لتقييم اضطراب فرط الحركة وتشتت الانتباه — 🕓 مسودة
+- `ins-dast` — اختبار فرز تعاطي المخدرات — 🕓 مسودة
 - `ins-death-attitude-profile` — بروفيل موقف الموت المُنقَّح (DAP-R) — ✅ معتمد
-- `ins-denver-developmental` — فحص دنفر للفرز التطوري للأطفال — ✅ معتمد
-- `ins-draw-a-person` — اختبار رسم الشخص لماكوفر — ✅ معتمد
-- `ins-dyadic-adjustment-scale` — مقياس التوافق الثنائي في العلاقات الزوجية لسبانير — ✅ معتمد
-- `ins-ecr` — مقياس الخبرات في العلاقات الحميمة — ✅ معتمد
-- `ins-eysenck-epq` — استبيان آيزنك للشخصية — ✅ معتمد
-- `ins-fagerstrom-nicotine` — مقياس فاجرستروم للاعتماد على النيكوتين — ✅ معتمد
+- `ins-denver-developmental` — فحص دنفر للفرز التطوري للأطفال — 🕓 مسودة
+- `ins-draw-a-person` — اختبار رسم الشخص لماكوفر — 🕓 مسودة
+- `ins-dyadic-adjustment-scale` — مقياس التوافق الثنائي في العلاقات الزوجية لسبانير — 🕓 مسودة
+- `ins-ecr` — مقياس الخبرات في العلاقات الحميمة — 🕓 مسودة
+- `ins-eysenck-epq` — استبيان آيزنك للشخصية — 🕓 مسودة
+- `ins-fagerstrom-nicotine` — مقياس فاجرستروم للاعتماد على النيكوتين — 🕓 مسودة
 - `ins-gad7` — مقياس اضطراب القلق العام (GAD-7) — ✅ معتمد
-- `ins-ham-a` — مقياس هاملتون لتقييم القلق — ✅ معتمد
-- `ins-ham-d` — مقياس هاملتون لتقييم الاكتئاب — ✅ معتمد
-- `ins-hcr-20` — مقياس تقييم مخاطر العنف الهيكل السريري HCR-20 — ✅ معتمد
-- `ins-hexaco` — قائمة هيكساكو لسمات الشخصية الست — ✅ معتمد
-- `ins-house-tree-person` — اختبار رسم المنزل والشجرة والشخص — ✅ معتمد
-- `ins-ies-r` — مقياس أثر الحدث المنقح — ✅ معتمد
-- `ins-inventory-parent-peer-attachment` — قائمة التعلّق بالوالدين والأقران — ✅ معتمد
-- `ins-lsas` — مقياس ليبوفيتز للقلق الاجتماعي — ✅ معتمد
-- `ins-mbti` — مؤشر مايرز-بريجز للأنماط — ✅ معتمد
+- `ins-ham-a` — مقياس هاملتون لتقييم القلق — 🕓 مسودة
+- `ins-ham-d` — مقياس هاملتون لتقييم الاكتئاب — 🕓 مسودة
+- `ins-hcr-20` — مقياس تقييم مخاطر العنف الهيكل السريري HCR-20 — 🕓 مسودة
+- `ins-hexaco` — قائمة هيكساكو لسمات الشخصية الست — 🕓 مسودة
+- `ins-house-tree-person` — اختبار رسم المنزل والشجرة والشخص — 🕓 مسودة
+- `ins-ies-r` — مقياس أثر الحدث المنقح — 🕓 مسودة
+- `ins-inventory-parent-peer-attachment` — قائمة التعلّق بالوالدين والأقران — 🕓 مسودة
+- `ins-lsas` — مقياس ليبوفيتز للقلق الاجتماعي — 🕓 مسودة
+- `ins-mbti` — مؤشر مايرز-بريجز للأنماط — 🕓 مسودة
 - `ins-mlq` — استبيان المعنى في الحياة (MLQ) — ✅ معتمد
-- `ins-mmpi` — اختبار الشخصية متعدد الأوجه لمينيسوتا — ✅ معتمد
-- `ins-mmse` — فحص الحالة العقلية المصغر — ✅ معتمد
-- `ins-moca` — تقييم مونتريال الإدراكي — ✅ معتمد
-- `ins-neo-pi-r` — قائمة الشخصية المنقحة للخمسة الكبار — ✅ معتمد
-- `ins-oci-r` — قائمة الوسواس القهري المنقحة للتقرير الذاتي — ✅ معتمد
-- `ins-oxford-happiness-inventory` — قائمة أكسفورد للسعادة — ✅ معتمد
-- `ins-panas` — جدول الانفعال الإيجابي والسلبي لـ واتسون وكلارك وتيليغن — ✅ معتمد
-- `ins-pcl-5` — قائمة التحقق من اضطراب ما بعد الصدمة للـ DSM-5 — ✅ معتمد
-- `ins-phq-9` — استبيان صحة المريض للاكتئاب - 9 بنود — ✅ معتمد
-- `ins-raven-progressive-matrices` — مصفوفات رافن التتابعية المعيارية والمتقدمة — ✅ معتمد
-- `ins-relationship-questionnaire-bartholomew` — استبيان العلاقات لبارثولوميو وهوروفيتز لأنماط التعلّق الأربعة — ✅ معتمد
-- `ins-rorschach` — اختبار بقع الحبر لرورشاخ — ✅ معتمد
-- `ins-rotter-sentence-completion` — اختبار روتر لتكميل الجمل الناقصة — ✅ معتمد
-- `ins-ryff-psychological-wellbeing` — مقاييس ريف للرفاه النفسي سداسية الأبعاد — ✅ معتمد
-- `ins-sdq` — استبيان نقاط القوة والصعوبات للأطفال والمراهقين — ✅ معتمد
-- `ins-sias` — مقياس قلق التفاعل الاجتماعي ومقياس الرهاب الاجتماعي — ✅ معتمد
-- `ins-sogs` — مقياس فرز إدمان القمار في ساوث أوكس — ✅ معتمد
-- `ins-spin` — مقياس الرهاب الاجتماعي — ✅ معتمد
+- `ins-mmpi` — اختبار الشخصية متعدد الأوجه لمينيسوتا — 🕓 مسودة
+- `ins-mmse` — فحص الحالة العقلية المصغر — 🕓 مسودة
+- `ins-moca` — تقييم مونتريال الإدراكي — 🕓 مسودة
+- `ins-neo-pi-r` — قائمة الشخصية المنقحة للخمسة الكبار — 🕓 مسودة
+- `ins-oci-r` — قائمة الوسواس القهري المنقحة للتقرير الذاتي — 🕓 مسودة
+- `ins-oxford-happiness-inventory` — قائمة أكسفورد للسعادة — 🕓 مسودة
+- `ins-panas` — جدول الانفعال الإيجابي والسلبي لـ واتسون وكلارك وتيليغن — 🕓 مسودة
+- `ins-pcl-5` — قائمة التحقق من اضطراب ما بعد الصدمة للـ DSM-5 — 🕓 مسودة
+- `ins-phq-9` — استبيان صحة المريض للاكتئاب - 9 بنود — 🕓 مسودة
+- `ins-raven-progressive-matrices` — مصفوفات رافن التتابعية المعيارية والمتقدمة — 🕓 مسودة
+- `ins-relationship-questionnaire-bartholomew` — استبيان العلاقات لبارثولوميو وهوروفيتز لأنماط التعلّق الأربعة — 🕓 مسودة
+- `ins-rorschach` — اختبار بقع الحبر لرورشاخ — 🕓 مسودة
+- `ins-rotter-sentence-completion` — اختبار روتر لتكميل الجمل الناقصة — 🕓 مسودة
+- `ins-ryff-psychological-wellbeing` — مقاييس ريف للرفاه النفسي سداسية الأبعاد — 🕓 مسودة
+- `ins-sdq` — استبيان نقاط القوة والصعوبات للأطفال والمراهقين — 🕓 مسودة
+- `ins-sias` — مقياس قلق التفاعل الاجتماعي ومقياس الرهاب الاجتماعي — 🕓 مسودة
+- `ins-sogs` — مقياس فرز إدمان القمار في ساوث أوكس — 🕓 مسودة
+- `ins-spin` — مقياس الرهاب الاجتماعي — 🕓 مسودة
 - `ins-stai` — مقياس القلق كحالة وسمة — ✅ معتمد
-- `ins-stanford-binet` — مقياس ستانفورد-بينيه للذكاء — ✅ معتمد
-- `ins-static-99` — مقياس Static-99 للمخاطرة الجنسية — ✅ معتمد
-- `ins-stroop-color-word` — اختبار ستروب للألوان والكلمات — ✅ معتمد
-- `ins-swls` — مقياس الرضا عن الحياة لدينر — ✅ معتمد
+- `ins-stanford-binet` — مقياس ستانفورد-بينيه للذكاء — 🕓 مسودة
+- `ins-static-99` — مقياس Static-99 للمخاطرة الجنسية — 🕓 مسودة
+- `ins-stroop-color-word` — اختبار ستروب للألوان والكلمات — 🕓 مسودة
+- `ins-swls` — مقياس الرضا عن الحياة لدينر — 🕓 مسودة
 - `ins-tas20` — مقياس تورنتو للألكسيثيميا (TAS-20) — ✅ معتمد
-- `ins-tat` — اختبار تفهم الموضوع لـ موراي — ✅ معتمد
-- `ins-trail-making-test` — اختبار ربط المسارات — ✅ معتمد
-- `ins-vineland-adaptive-behavior` — مقاييس فاينلاند للسلوك التكيفي — ✅ معتمد
-- `ins-wais` — مقياس وكسلر لذكاء البالغين — ✅ معتمد
-- `ins-warwick-edinburgh-wellbeing` — مقياس وارويك-إدنبرة للرفاه النفسي الإيجابي — ✅ معتمد
-- `ins-whoqol-bref` — مقياس منظمة الصحة العالمية لجودة الحياة - النسخة المختصرة — ✅ معتمد
-- `ins-wisc` — مقياس وكسلر لذكاء الأطفال — ✅ معتمد
-- `ins-wisconsin-card-sorting` — اختبار ويسكونسن لتصنيف البطاقات — ✅ معتمد
-- `ins-wms` — مقياس وكسلر للذاكرة — ✅ معتمد
-- `ins-woodcock-johnson` — بطارية وودكوك-جونسون للاختبارات الإدراكية والمعرفية — ✅ معتمد
-- `ins-y-bocs` — مقياس ييل-براون للوسواس القهري — ✅ معتمد
-- `ins-young-iat` — مقياس يونغ لإدمان الإنترنت — ✅ معتمد
+- `ins-tat` — اختبار تفهم الموضوع لـ موراي — 🕓 مسودة
+- `ins-trail-making-test` — اختبار ربط المسارات — 🕓 مسودة
+- `ins-vineland-adaptive-behavior` — مقاييس فاينلاند للسلوك التكيفي — 🕓 مسودة
+- `ins-wais` — مقياس وكسلر لذكاء البالغين — 🕓 مسودة
+- `ins-warwick-edinburgh-wellbeing` — مقياس وارويك-إدنبرة للرفاه النفسي الإيجابي — 🕓 مسودة
+- `ins-whoqol-bref` — مقياس منظمة الصحة العالمية لجودة الحياة - النسخة المختصرة — 🕓 مسودة
+- `ins-wisc` — مقياس وكسلر لذكاء الأطفال — 🕓 مسودة
+- `ins-wisconsin-card-sorting` — اختبار ويسكونسن لتصنيف البطاقات — 🕓 مسودة
+- `ins-wms` — مقياس وكسلر للذاكرة — 🕓 مسودة
+- `ins-woodcock-johnson` — بطارية وودكوك-جونسون للاختبارات الإدراكية والمعرفية — 🕓 مسودة
+- `ins-y-bocs` — مقياس ييل-براون للوسواس القهري — 🕓 مسودة
+- `ins-young-iat` — مقياس يونغ لإدمان الإنترنت — 🕓 مسودة
 
-## اضطراب/حالة إكلينيكية (94)
+## اضطراب/حالة إكلينيكية (102)
 
-- `dis-acute-stress-disorder` — اضطراب الكرب الحاد — ✅ معتمد
-- `dis-adhd` — اضطراب نقص الانتباه وفرط الحركة — ✅ معتمد
-- `dis-adjustment-disorders` — اضطرابات التكيّف — ✅ معتمد
-- `dis-agoraphobia` — الرهاب من الأماكن المكشوفة — ✅ معتمد
-- `dis-alcohol-use-disorder` — اضطراب استخدام الكحول — ✅ معتمد
-- `dis-anorexia-nervosa` — القهم العصبي (أنوريكسيا) — ✅ معتمد
-- `dis-antisocial-personality` — اضطراب الشخصية المعادية للمجتمع — ✅ معتمد
-- `dis-anxiety-due-to-medical` — اضطراب القلق بسبب حالة طبية أخرى — ✅ معتمد
-- `dis-arfid` — اضطراب تجنّب/تقييد الطعام (ARFID) — ✅ معتمد
-- `dis-autism-spectrum` — اضطراب طيف التوحد — ✅ معتمد
-- `dis-avoidant-personality` — اضطراب الشخصية التجنبية — ✅ معتمد
-- `dis-binge-eating-disorder` — اضطراب نهم الطعام — ✅ معتمد
-- `dis-bipolar-i` — اضطراب ثنائي القطب من النوع الأول — ✅ معتمد
-- `dis-bipolar-ii` — اضطراب ثنائي القطب من النوع الثاني — ✅ معتمد
-- `dis-body-dysmorphic-disorder` — اضطراب خلل التشكّل الجسدي — ✅ معتمد
-- `dis-bpd` — اضطراب الشخصية الحدّية (BPD) — ✅ معتمد
-- `dis-breathing-related-sleep` — اضطرابات النوم المرتبطة بالتنفس — ✅ معتمد
-- `dis-brief-psychotic` — الذهان القصير — ✅ معتمد
-- `dis-bulimia-nervosa` — النهام العصبي (بوليميا) — ✅ معتمد
-- `dis-cannabis-use` — اضطراب استخدام الحشيش — ✅ معتمد
-- `dis-conduct-disorder` — اضطراب السلوك (Conduct Disorder) — ✅ معتمد
-- `dis-delayed-ejaculation` — تأخر القذف — ✅ معتمد
-- `dis-delusional` — اضطراب الوهام — ✅ معتمد
-- `dis-dependent-personality` — اضطراب الشخصية الاعتمادية — ✅ معتمد
-- `dis-depersonalization-derealization` — اضطراب تبدّد الشخصية/الواقع — ✅ معتمد
-- `dis-developmental-coordination` — اضطراب التنسيق التنموي — ✅ معتمد
-- `dis-disruptive-mood-dysregulation` — اضطراب عدم التنظيم الانفعالي — ✅ معتمد
-- `dis-dissociative-amnesia` — فقدان الذاكرة التفارقي — ✅ معتمد
-- `dis-dissociative-identity` — اضطراب الهوية التفارقي — ✅ معتمد
-- `dis-encopresis` — التبرّز اللاإرادي (Encopresis) — ✅ معتمد
-- `dis-enuresis` — التبوّل اللاإرادي (Enuresis) — ✅ معتمد
-- `dis-erectile-disorder` — اضطراب الانتصاب — ✅ معتمد
-- `dis-excoriation-disorder` — اضطراب نتف الجلد (Skin-Picking Disorder) — ✅ معتمد
-- `dis-exhibitionistic` — اضطراب الاستعراء (Exhibitionistic Disorder) — ✅ معتمد
-- `dis-factitious` — اضطراب مفتعل (Factitious Disorder) — ✅ معتمد
-- `dis-female-orgasmic` — اضطراب النشوة الأنثوية — ✅ معتمد
-- `dis-female-sexual-interest-arousal` — اضطراب الاهتمام/الإثارة الجنسية الأنثوية — ✅ معتمد
-- `dis-fetishistic` — اضطراب الفيتشية (Fetishistic Disorder) — ✅ معتمد
-- `dis-functional-neurological-symptom` — اضطراب الأعراض العصبية الوظيفية (التحويل) — ✅ معتمد
+- `dis-acute-stress-disorder` — اضطراب الكرب الحاد — 🕓 مسودة
+- `dis-adhd` — اضطراب نقص الانتباه وفرط الحركة — 🕓 مسودة
+- `dis-adjustment-disorders` — اضطرابات التكيّف — 🕓 مسودة
+- `dis-agoraphobia` — الرهاب من الأماكن المكشوفة — 🕓 مسودة
+- `dis-alcohol-use-disorder` — اضطراب استخدام الكحول — 🕓 مسودة
+- `dis-anorexia-nervosa` — القهم العصبي (أنوريكسيا) — 🕓 مسودة
+- `dis-antisocial-personality` — اضطراب الشخصية المعادية للمجتمع — 🕓 مسودة
+- `dis-anxiety-due-to-medical` — اضطراب القلق بسبب حالة طبية أخرى — 🕓 مسودة
+- `dis-arfid` — اضطراب تجنّب/تقييد الطعام (ARFID) — 🕓 مسودة
+- `dis-autism-spectrum` — اضطراب طيف التوحد — 🕓 مسودة
+- `dis-avoidant-personality` — اضطراب الشخصية التجنبية — 🕓 مسودة
+- `dis-binge-eating-disorder` — اضطراب نهم الطعام — 🕓 مسودة
+- `dis-bipolar-i` — اضطراب ثنائي القطب من النوع الأول — 🕓 مسودة
+- `dis-bipolar-ii` — اضطراب ثنائي القطب من النوع الثاني — 🕓 مسودة
+- `dis-body-dysmorphic-disorder` — اضطراب خلل التشكّل الجسدي — 🕓 مسودة
+- `dis-bpd` — اضطراب الشخصية الحدّية (BPD) — 🕓 مسودة
+- `dis-breathing-related-sleep` — اضطرابات النوم المرتبطة بالتنفس — 🕓 مسودة
+- `dis-brief-psychotic` — الذهان القصير — 🕓 مسودة
+- `dis-bulimia-nervosa` — النهام العصبي (بوليميا) — 🕓 مسودة
+- `dis-cannabis-use` — اضطراب استخدام الحشيش — 🕓 مسودة
+- `dis-catatonia` — الكاتاتونيا أو متلازمة الجمود الحركي — 🕓 مسودة
+- `dis-conduct-disorder` — اضطراب السلوك (Conduct Disorder) — 🕓 مسودة
+- `dis-cyclothymia` — اضطراب دوروية المزاج — 🕓 مسودة
+- `dis-delayed-ejaculation` — تأخر القذف — 🕓 مسودة
+- `dis-delirium` — الهذيان والتشوش الحاد — 🕓 مسودة
+- `dis-delusional` — اضطراب الوهام — 🕓 مسودة
+- `dis-dependent-personality` — اضطراب الشخصية الاعتمادية — 🕓 مسودة
+- `dis-depersonalization-derealization` — اضطراب تبدّد الشخصية/الواقع — 🕓 مسودة
+- `dis-depressive-due-to-medical` — اضطراب الاكتئاب الناجم عن حالة طبية أخرى — 🕓 مسودة
+- `dis-developmental-coordination` — اضطراب التنسيق التنموي — 🕓 مسودة
+- `dis-disruptive-mood-dysregulation` — اضطراب عدم التنظيم الانفعالي — 🕓 مسودة
+- `dis-dissociative-amnesia` — فقدان الذاكرة التفارقي — 🕓 مسودة
+- `dis-dissociative-identity` — اضطراب الهوية التفارقي — 🕓 مسودة
+- `dis-encopresis` — التبرّز اللاإرادي (Encopresis) — 🕓 مسودة
+- `dis-enuresis` — التبوّل اللاإرادي (Enuresis) — 🕓 مسودة
+- `dis-erectile-disorder` — اضطراب الانتصاب — 🕓 مسودة
+- `dis-excoriation-disorder` — اضطراب نتف الجلد (Skin-Picking Disorder) — 🕓 مسودة
+- `dis-exhibitionistic` — اضطراب الاستعراء (Exhibitionistic Disorder) — 🕓 مسودة
+- `dis-factitious` — اضطراب مفتعل (Factitious Disorder) — 🕓 مسودة
+- `dis-female-orgasmic` — اضطراب النشوة الأنثوية — 🕓 مسودة
+- `dis-female-sexual-interest-arousal` — اضطراب الاهتمام/الإثارة الجنسية الأنثوية — 🕓 مسودة
+- `dis-fetishistic` — اضطراب الفيتشية (Fetishistic Disorder) — 🕓 مسودة
+- `dis-functional-neurological-symptom` — اضطراب الأعراض العصبية الوظيفية (التحويل) — 🕓 مسودة
 - `dis-gad` — اضطراب القلق العام — ✅ معتمد
-- `dis-gambling-disorder` — اضطراب القمار — ✅ معتمد
-- `dis-gender-dysphoria` — اضطراب الهوية الجنسية (Gender Dysphoria) — ✅ معتمد
-- `dis-genito-pelvic-pain` — اضطراب الألم التناسلي الحوضي / الاختراق — ✅ معتمد
-- `dis-hallucinogen-use` — اضطراب استخدام المُهلوسات — ✅ معتمد
-- `dis-hoarding-disorder` — اضطراب الاكتناز — ✅ معتمد
-- `dis-hwabyung` — الهوابيونغ (Hwabyung) — ✅ معتمد
-- `dis-hypersomnolence` — اضطراب فرط النوم — ✅ معتمد
-- `dis-illness-anxiety` — قلق المرض — ✅ معتمد
-- `dis-inhalant-use` — اضطراب استخدام المواد المستنشقة — ✅ معتمد
-- `dis-insomnia-disorder` — اضطراب الأرق — ✅ معتمد
-- `dis-intellectual-disability` — الإعاقة الذهنية — ✅ معتمد
-- `dis-intermittent-explosive` — اضطراب الانفجار المتقطع — ✅ معتمد
-- `dis-kleptomania` — هوس السرقة — ✅ معتمد
-- `dis-major-neurocognitive` — اضطراب معرفي عصبي رئيسي (الخرف) — ✅ معتمد
-- `dis-male-hypoactive-sexual-desire` — اضطراب الرغبة الجنسية المنخفضة عند الذكور — ✅ معتمد
+- `dis-gambling-disorder` — اضطراب القمار — 🕓 مسودة
+- `dis-gender-dysphoria` — اضطراب الهوية الجنسية (Gender Dysphoria) — 🕓 مسودة
+- `dis-genito-pelvic-pain` — اضطراب الألم التناسلي الحوضي / الاختراق — 🕓 مسودة
+- `dis-hallucinogen-use` — اضطراب استخدام المُهلوسات — 🕓 مسودة
+- `dis-hoarding-disorder` — اضطراب الاكتناز — 🕓 مسودة
+- `dis-hwabyung` — الهوابيونغ (Hwabyung) — 🕓 مسودة
+- `dis-hypersomnolence` — اضطراب فرط النوم — 🕓 مسودة
+- `dis-illness-anxiety` — قلق المرض — 🕓 مسودة
+- `dis-inhalant-use` — اضطراب استخدام المواد المستنشقة — 🕓 مسودة
+- `dis-insomnia-disorder` — اضطراب الأرق — 🕓 مسودة
+- `dis-intellectual-disability` — الإعاقة الذهنية — 🕓 مسودة
+- `dis-intermittent-explosive` — اضطراب الانفجار المتقطع — 🕓 مسودة
+- `dis-kleptomania` — هوس السرقة — 🕓 مسودة
+- `dis-major-neurocognitive` — اضطراب معرفي عصبي رئيسي (الخرف) — 🕓 مسودة
+- `dis-male-hypoactive-sexual-desire` — اضطراب الرغبة الجنسية المنخفضة عند الذكور — 🕓 مسودة
 - `dis-mdd` — اضطراب الاكتئاب الجسيم (MDD) — ✅ معتمد
-- `dis-mild-neurocognitive` — اضطراب معرفي عصبي خفيف — ✅ معتمد
-- `dis-narcissistic-personality` — اضطراب الشخصية النرجسية — ✅ معتمد
-- `dis-narcolepsy` — النوم القهري — ✅ معتمد
-- `dis-nightmare-disorder` — اضطراب الكوابيس — ✅ معتمد
-- `dis-obsessive-compulsive-personality` — اضطراب الشخصية الوسواسية — ✅ معتمد
-- `dis-ocd` — اضطراب الوسواس القهري — ✅ معتمد
-- `dis-odd` — اضطراب العناد المعارض (ODD) — ✅ معتمد
-- `dis-opioid-use` — اضطراب استخدام الأفيونات — ✅ معتمد
+- `dis-mild-neurocognitive` — اضطراب معرفي عصبي خفيف — 🕓 مسودة
+- `dis-narcissistic-personality` — اضطراب الشخصية النرجسية — 🕓 مسودة
+- `dis-narcolepsy` — النوم القهري — 🕓 مسودة
+- `dis-nightmare-disorder` — اضطراب الكوابيس — 🕓 مسودة
+- `dis-obsessive-compulsive-personality` — اضطراب الشخصية الوسواسية — 🕓 مسودة
+- `dis-ocd` — اضطراب الوسواس القهري — 🕓 مسودة
+- `dis-odd` — اضطراب العناد المعارض (ODD) — 🕓 مسودة
+- `dis-opioid-use` — اضطراب استخدام الأفيونات — 🕓 مسودة
+- `dis-other-specified-mental` — اضطراب نفسي آخر محدد — 🕓 مسودة
 - `dis-panic-disorder` — اضطراب الهلع — ✅ معتمد
-- `dis-persistent-depressive-disorder` — اضطراب الاكتئاب المستمر (عسر المزاج) — ✅ معتمد
-- `dis-pica` — اضطراب أكل المواد غير الغذائية (Pica) — ✅ معتمد
-- `dis-premature-ejaculation` — سرعة القذف (القذف المبكر) — ✅ معتمد
-- `dis-premenstrual-dysphoric-disorder` — اضطراب ما قبل الطمث الاكتئابي — ✅ معتمد
+- `dis-parkinsonism-medication` — الباركنسونية المحدثة بمضادات الذهان والأدوية — 🕓 مسودة
+- `dis-persistent-depressive-disorder` — اضطراب الاكتئاب المستمر (عسر المزاج) — 🕓 مسودة
+- `dis-pica` — اضطراب أكل المواد غير الغذائية (Pica) — 🕓 مسودة
+- `dis-premature-ejaculation` — سرعة القذف (القذف المبكر) — 🕓 مسودة
+- `dis-premenstrual-dysphoric-disorder` — اضطراب ما قبل الطمث الاكتئابي — 🕓 مسودة
 - `dis-prolonged-grief` — اضطراب الحزن المطوّل — ✅ معتمد
-- `dis-psychological-factors-medical` — العوامل النفسية المؤثرة في حالات طبية أخرى — ✅ معتمد
+- `dis-psychological-factors-medical` — العوامل النفسية المؤثرة في حالات طبية أخرى — 🕓 مسودة
 - `dis-ptsd` — اضطراب الكرب التالي للصدمة (PTSD) — ✅ معتمد
-- `dis-pyromania` — هوس إشعال الحرائق — ✅ معتمد
-- `dis-reactive-attachment` — اضطراب التعلق التفاعلي — ✅ معتمد
-- `dis-rumination` — اضطراب الاجترار (Rumination Disorder) — ✅ معتمد
-- `dis-schizoaffective` — الفصام العاطفي — ✅ معتمد
-- `dis-schizoid-personality` — اضطراب الشخصية الفصامية — ✅ معتمد
-- `dis-schizophrenia` — الفصام — ✅ معتمد
-- `dis-schizophreniform` — الفصاماني — ✅ معتمد
-- `dis-schizotypal-personality` — اضطراب الشخصية شبه الفصامية — ✅ معتمد
-- `dis-sedative-use` — اضطراب استخدام المهدئات / المنومات — ✅ معتمد
-- `dis-selective-mutism` — ال صمت الانتقائي — ✅ معتمد
-- `dis-separation-anxiety` — اضطراب قلق الانفصال — ✅ معتمد
-- `dis-social-anxiety-disorder` — اضطراب القلق الاجتماعي — ✅ معتمد
-- `dis-somatic-symptom-disorder` — اضطراب الأعراض الجسدية — ✅ معتمد
-- `dis-specific-learning-disorder` — اضطراب التعلُّم المحدد — ✅ معتمد
-- `dis-specific-phobia` — الرهاب المحدد — ✅ معتمد
-- `dis-stimulant-use` — اضطراب استخدام المنشطات — ✅ معتمد
-- `dis-substance-induced-anxiety` — اضطراب القلق المُحفَّز بالمواد/الأدوية — ✅ معتمد
-- `dis-taijin-kyofusho` — تاي جين كيو فوشو (Taijin Kyofusho) — ✅ معتمد
-- `dis-tic-disorders` — اضطرابات العرات (Tics) — ✅ معتمد
-- `dis-tobacco-use` — اضطراب استخدام التبغ — ✅ معتمد
-- `dis-trichotillomania` — هوس نتف الشعر (Trichotillomania) — ✅ معتمد
-- `dis-voyeuristic` — اضطراب الاستطلاع (Voyeuristic Disorder) — ✅ معتمد
+- `dis-pyromania` — هوس إشعال الحرائق — 🕓 مسودة
+- `dis-reactive-attachment` — اضطراب التعلق التفاعلي — 🕓 مسودة
+- `dis-rumination` — اضطراب الاجترار (Rumination Disorder) — 🕓 مسودة
+- `dis-schizoaffective` — الفصام العاطفي — 🕓 مسودة
+- `dis-schizoid-personality` — اضطراب الشخصية الفصامية — 🕓 مسودة
+- `dis-schizophrenia` — الفصام — 🕓 مسودة
+- `dis-schizophreniform` — الفصاماني — 🕓 مسودة
+- `dis-schizotypal-personality` — اضطراب الشخصية شبه الفصامية — 🕓 مسودة
+- `dis-sedative-use` — اضطراب استخدام المهدئات / المنومات — 🕓 مسودة
+- `dis-selective-mutism` — ال صمت الانتقائي — 🕓 مسودة
+- `dis-separation-anxiety` — اضطراب قلق الانفصال — 🕓 مسودة
+- `dis-social-anxiety-disorder` — اضطراب القلق الاجتماعي — 🕓 مسودة
+- `dis-somatic-symptom-disorder` — اضطراب الأعراض الجسدية — 🕓 مسودة
+- `dis-specific-learning-disorder` — اضطراب التعلُّم المحدد — 🕓 مسودة
+- `dis-specific-phobia` — الرهاب المحدد — 🕓 مسودة
+- `dis-stimulant-use` — اضطراب استخدام المنشطات — 🕓 مسودة
+- `dis-substance-induced-anxiety` — اضطراب القلق المُحفَّز بالمواد/الأدوية — 🕓 مسودة
+- `dis-substance-induced-mood` — اضطراب المزاج المحدث بالمواد أو الأدوية — 🕓 مسودة
+- `dis-taijin-kyofusho` — تاي جين كيو فوشو (Taijin Kyofusho) — 🕓 مسودة
+- `dis-tic-disorders` — اضطرابات العرات (Tics) — 🕓 مسودة
+- `dis-tobacco-use` — اضطراب استخدام التبغ — 🕓 مسودة
+- `dis-trichotillomania` — هوس نتف الشعر (Trichotillomania) — 🕓 مسودة
+- `dis-unspecified-mental` — اضطراب نفسي غير محدد — 🕓 مسودة
+- `dis-voyeuristic` — اضطراب الاستطلاع (Voyeuristic Disorder) — 🕓 مسودة
 
 ## تقنية/تدخل علاجي (336)
 
@@ -2454,7 +2456,7 @@
 - `tec-art-therapy` — العلاج بالحل السريع المعجَّل (ART) — 🕓 مسودة
 - `tec-authentic-movement` — الحركة الأصيلة — 🕓 مسودة
 - `tec-beck-cognitive-therapy` — العلاج المعرفي الكلاسيكي لبيك — 🕓 مسودة
-- `tec-bedwetting-alarm` — منبّه التبوّل الليلي (Bedwetting Alarm) — ✅ معتمد
+- `tec-bedwetting-alarm` — منبّه التبوّل الليلي (Bedwetting Alarm) — 🕓 مسودة
 - `tec-behavioral-activation` — التنشيط السلوكي (BA) — 🕓 مسودة
 - `tec-behavioral-medicine` — الطب السلوكي/الصحة السلوكية (تدخل) — 🕓 مسودة
 - `tec-bibliotherapy` — العلاج بالقراءة والبيبليوثيرابيا — 🕓 مسودة
@@ -2602,7 +2604,7 @@
 - `tec-dbt-specialized` — بروتوكولات DBT التخصصية (المراهقين والإدمان واضطرابات الأكل) — 🕓 مسودة
 - `tec-ddp` — العلاج النفسي النمائي الثنائي للارتباط والصدمة (DDP) — 🕓 مسودة
 - `tec-dir-floortime` — نموذج DIR ووقت اللعب الأرضي للتطور والتواصل (DIR/Floortime) — 🕓 مسودة
-- `tec-directed-masturbation` — التدريب الموجّه على الاستمناء (Directed Masturbation) — ✅ معتمد
+- `tec-directed-masturbation` — التدريب الموجّه على الاستمناء (Directed Masturbation) — 🕓 مسودة
 - `tec-discernment-counseling` — إرشاد التمييز والبت الزوجي — 🕓 مسودة
 - `tec-dit` — العلاج الديناميكي البيني-الشخصي (DIT) — 🕓 مسودة
 - `tec-drama-therapy` — العلاج بالدراما والمسرح — 🕓 مسودة
@@ -2617,7 +2619,7 @@
 - `tec-experiential-symbolic-family` — العلاج الأسري الرمزي التجريبي (ويتاكر) — 🕓 مسودة
 - `tec-facilitated-communication` — التواصل المُسهَّل — 🕓 مسودة
 - `tec-fap` — العلاج النفسي التحليلي الوظيفي (FAP) — 🕓 مسودة
-- `tec-fbt-arfid` — العلاج الأسري القائم على الأسرة لـ ARFID (FBT-ARFID) — ✅ معتمد
+- `tec-fbt-arfid` — العلاج الأسري القائم على الأسرة لـ ARFID (FBT-ARFID) — 🕓 مسودة
 - `tec-feldenkrais-method` — طريقة فيلدنكرايس في الوعي بالحركة — 🕓 مسودة
 - `tec-filial-therapy` — العلاج البنوي والعائلي باللعب — 🕓 مسودة
 - `tec-flash-technique` — تقنية الوميض (Flash Technique) — 🕓 مسودة
@@ -2661,12 +2663,12 @@
 - `tec-net` — العلاج بالتعرض السردي (NET) — 🕓 مسودة
 - `tec-open-dialogue` — الحوار المفتوح في الرعاية النفسية والذهان — 🕓 مسودة
 - `tec-paradoxical-intention` — النية المتناقضة — ✅ معتمد
-- `tec-parent-management-training` — تدريب إدارة السلوك للوالدين (PMT) — ✅ معتمد
+- `tec-parent-management-training` — تدريب إدارة السلوك للوالدين (PMT) — 🕓 مسودة
 - `tec-past-life-regression` — العلاج باسترجاع ذكريات الحياة السابقة — 🕓 مسودة
 - `tec-pastoral-counseling` — الإرشاد الرعوي والروحي — 🕓 مسودة
 - `tec-pbsp` — نظام بيسو بويدين النفسي الحركي (PBSP) — 🕓 مسودة
 - `tec-pcit` — العلاج التفاعلي بين الوالدين والطفل (PCIT) — 🕓 مسودة
-- `tec-penile-vibration-stimulator` — جهاز الاهتزاز للقضيب (Penile Vibratory Stimulation) — ✅ معتمد
+- `tec-penile-vibration-stimulator` — جهاز الاهتزاز للقضيب (Penile Vibratory Stimulation) — 🕓 مسودة
 - `tec-person-centered-core-conditions` — الشروط اللازمة والكافية للعلاج المتمركز حول العميل — 🕓 مسودة
 - `tec-phenomenological-exploration` — الاستكشاف الفينومينولوجي — ✅ معتمد
 - `tec-phototherapy` — العلاج بالصور الفوتوغرافية (Phototherapy) — 🕓 مسودة
@@ -2702,16 +2704,16 @@
 - `tec-self-talk-modification` — تعديل الكلام الذاتي — 🕓 مسودة
 - `tec-sensate-focus` — التركيز الحسي — 🕓 مسودة
 - `tec-sensorimotor-psychotherapy` — العلاج النفسي الحركي الحسي — 🕓 مسودة
-- `tec-sex-therapy-overview` — العلاج الجنسي (Sex Therapy) — ✅ معتمد
+- `tec-sex-therapy-overview` — العلاج الجنسي (Sex Therapy) — 🕓 مسودة
 - `tec-sfbt` — العلاج الموجز المرتكز على الحل (SFBT) — 🕓 مسودة
 - `tec-social-skills-training` — تدريب المهارات الاجتماعية (SST) — 🕓 مسودة
 - `tec-socratic-existential-dialogue` — الحوار السقراطي الوجودي — ✅ معتمد
 - `tec-somatic-experiencing` — التجربة الجسدية للصدمة (SE) — 🕓 مسودة
 - `tec-somatic-trauma` — العلاج الجسدي للصدمة (Somatic Trauma Therapy) — 🕓 مسودة
-- `tec-squeeze-technique` — تقنية الضغط (Squeeze Technique) — ✅ معتمد
+- `tec-squeeze-technique` — تقنية الضغط (Squeeze Technique) — 🕓 مسودة
 - `tec-stair-nt` — بروتوكول تدريب تنظيم الانفعالات والعلاقات للصدمة (STAIR-NT) — 🕓 مسودة
 - `tec-stimulus-control` — العلاج بالتحكم بالمنبّهات — 🕓 مسودة
-- `tec-stop-start-technique` — تقنية التوقف والبدء (Stop-Start) — ✅ معتمد
+- `tec-stop-start-technique` — تقنية التوقف والبدء (Stop-Start) — 🕓 مسودة
 - `tec-stpp` — التحليل النفسي الديناميكي قصير المدى (STPP) — 🕓 مسودة
 - `tec-strategic-family-therapy` — العلاج الأسري الاستراتيجي — 🕓 مسودة
 - `tec-strengths-based-therapy` — العلاج المرتكز على مواطن القوة — 🕓 مسودة
@@ -2728,7 +2730,7 @@
 - `tec-transdiagnostic-cbt` — العلاج المعرفي السلوكي العابر للتشخيص — 🕓 مسودة
 - `tec-tre` — تمارين تحرير الصدمات والضغوط (TRE) — 🕓 مسودة
 - `tec-unified-protocol` — البروتوكول الموحّد للاضطرابات الانفعالية (UP) — 🕓 مسودة
-- `tec-vaginal-dilator-therapy` — علاج موسّعات المهبل (Vaginal Dilator Therapy) — ✅ معتمد
+- `tec-vaginal-dilator-therapy` — علاج موسّعات المهبل (Vaginal Dilator Therapy) — 🕓 مسودة
 - `tec-vr-exposure` — التعرض بالواقع الافتراضي (VRET) — 🕓 مسودة
 - `tec-vr-exposure-ptsd` — التعرض بالواقع الافتراضي لـPTSD — 🕓 مسودة
 - `tec-wet` — علاج التعرض الكتابي للصدمة (WET) — 🕓 مسودة
@@ -2736,90 +2738,90 @@
 
 ## دراسة وبحث (84)
 
-- `stu-ainsworth-strange-situation` — دراسة أينسورث حول الموقف الغريب وأنماط التعلّق عند الرضع — ✅ معتمد
-- `stu-asch-conformity` — تجربة آش للامتثال والضغط الجماعي — ✅ معتمد
-- `stu-baillargeon-object-permanence` — دراسات بايارغيون حول ديمومة الشيء عند الرضع ونموذج انتهاك التوقع — ✅ معتمد
-- `stu-bandura-bobo-doll` — تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ — ✅ معتمد
-- `stu-bandura-vicarious-reinforcement` — دراسات باندورا حول التعزيز غير المباشر وتثبيط السلوك بالملاحظة — ✅ معتمد
-- `stu-bartlett-war-of-ghosts` — تجارب بارتليت حول تذكر قصة 'حرب الأشباح' والذاكرة التخطيطية — ✅ معتمد
-- `stu-berenda-children-conformity` — دراسة بيريندا الكلاسيكية حول تأثير الضغط الجماعي وتوافق الأطفال في سن المدرسة — ✅ معتمد
-- `stu-bexton-heron-sensory-deprivation` — تجارب بيكستون وهيرون وسكوت في جامعة ماكغيل حول الحرمان الحسي الحاد — ✅ معتمد
-- `stu-bowlby-forty-four-thieves` — دراسة بولبي لـ 44 لصاً حدثاً والحرمان الأمومي المبكر — ✅ معتمد
+- `stu-ainsworth-strange-situation` — دراسة أينسورث حول الموقف الغريب وأنماط التعلّق عند الرضع — 🕓 مسودة
+- `stu-asch-conformity` — تجربة آش للامتثال والضغط الجماعي — 🕓 مسودة
+- `stu-baillargeon-object-permanence` — دراسات بايارغيون حول ديمومة الشيء عند الرضع ونموذج انتهاك التوقع — 🕓 مسودة
+- `stu-bandura-bobo-doll` — تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ — 🕓 مسودة
+- `stu-bandura-vicarious-reinforcement` — دراسات باندورا حول التعزيز غير المباشر وتثبيط السلوك بالملاحظة — 🕓 مسودة
+- `stu-bartlett-war-of-ghosts` — تجارب بارتليت حول تذكر قصة 'حرب الأشباح' والذاكرة التخطيطية — 🕓 مسودة
+- `stu-berenda-children-conformity` — دراسة بيريندا الكلاسيكية حول تأثير الضغط الجماعي وتوافق الأطفال في سن المدرسة — 🕓 مسودة
+- `stu-bexton-heron-sensory-deprivation` — تجارب بيكستون وهيرون وسكوت في جامعة ماكغيل حول الحرمان الحسي الحاد — 🕓 مسودة
+- `stu-bowlby-forty-four-thieves` — دراسة بولبي لـ 44 لصاً حدثاً والحرمان الأمومي المبكر — 🕓 مسودة
 - `stu-breitbart-mcp-rct` — تجربة معشاة لفعالية العلاج المرتكز على المعنى — ✅ معتمد
-- `stu-broca-tan-localization` — دراسة بروكا التاريخية للمريض 'تان' وتوطين وظيفة إنتاج الكلام — ✅ معتمد
-- `stu-bucharest-early-intervention-project` — مشروع بوخارست للتدخل المبكر ودراسة أيتام المؤسسات الرومانية — ✅ معتمد
-- `stu-clark-doll-test` — دراسة كينيث ومامي كلارك الشهيرة لاختبار الدمى وتكوين الهوية العنصرية لدى الأطفال — ✅ معتمد
-- `stu-coleman-adolescent-society` — دراسة جيمس كولمان حول المجتمع المراهق وضغوط ثقافة الأقران — ✅ معتمد
-- `stu-costanzo-shaw-conformity-age` — دراسة كوستانزو وشو حول مسار التوافق والامتثال عبر المراحل العمرية — ✅ معتمد
-- `stu-craik-lockhart-levels-processing` — تجارب كريك وتولفينغ لمستويات معالجة المعلومات في الذاكرة — ✅ معتمد
-- `stu-curtiss-genie-isolation-case` — دراسة كيرتس للحالة 'جيني' والحرمان اللغوي والاجتماعي الشديد — ✅ معتمد
-- `stu-darley-latane-bystander` — دراسات دارلي ولاتانيه حول تأثير المتفرج وتوزيع المسؤولية — ✅ معتمد
-- `stu-deci-intrinsic-motivation` — دراسات ديسي وراين للتحفيز الداخلي ونظرية التحديد الذاتي — ✅ معتمد
-- `stu-dunedin-longitudinal-study` — دراسة دونيدين الطولية للنمو والصحة والسلوك وضبط النفس — ✅ معتمد
-- `stu-dweck-growth-mindset-praise` — دراسة مولر ودويك حول أثر الثناء على الذكاء مقابل الجهد وعقلية النمو — ✅ معتمد
-- `stu-dweck-learned-helplessness-children` — دراسة دويك حول العجز المُتعلَّم والتوجه نحو الإتقان لدى أطفال المدارس — ✅ معتمد
-- `stu-ebbinghaus-forgetting-curve` — تجارب إبنغهاوس في الحفظ والنسيان ومنحنى الاستبقاء — ✅ معتمد
+- `stu-broca-tan-localization` — دراسة بروكا التاريخية للمريض 'تان' وتوطين وظيفة إنتاج الكلام — 🕓 مسودة
+- `stu-bucharest-early-intervention-project` — مشروع بوخارست للتدخل المبكر ودراسة أيتام المؤسسات الرومانية — 🕓 مسودة
+- `stu-clark-doll-test` — دراسة كينيث ومامي كلارك الشهيرة لاختبار الدمى وتكوين الهوية العنصرية لدى الأطفال — 🕓 مسودة
+- `stu-coleman-adolescent-society` — دراسة جيمس كولمان حول المجتمع المراهق وضغوط ثقافة الأقران — 🕓 مسودة
+- `stu-costanzo-shaw-conformity-age` — دراسة كوستانزو وشو حول مسار التوافق والامتثال عبر المراحل العمرية — 🕓 مسودة
+- `stu-craik-lockhart-levels-processing` — تجارب كريك وتولفينغ لمستويات معالجة المعلومات في الذاكرة — 🕓 مسودة
+- `stu-curtiss-genie-isolation-case` — دراسة كيرتس للحالة 'جيني' والحرمان اللغوي والاجتماعي الشديد — 🕓 مسودة
+- `stu-darley-latane-bystander` — دراسات دارلي ولاتانيه حول تأثير المتفرج وتوزيع المسؤولية — 🕓 مسودة
+- `stu-deci-intrinsic-motivation` — دراسات ديسي وراين للتحفيز الداخلي ونظرية التحديد الذاتي — 🕓 مسودة
+- `stu-dunedin-longitudinal-study` — دراسة دونيدين الطولية للنمو والصحة والسلوك وضبط النفس — 🕓 مسودة
+- `stu-dweck-growth-mindset-praise` — دراسة مولر ودويك حول أثر الثناء على الذكاء مقابل الجهد وعقلية النمو — 🕓 مسودة
+- `stu-dweck-learned-helplessness-children` — دراسة دويك حول العجز المُتعلَّم والتوجه نحو الإتقان لدى أطفال المدارس — 🕓 مسودة
+- `stu-ebbinghaus-forgetting-curve` — تجارب إبنغهاوس في الحفظ والنسيان ومنحنى الاستبقاء — 🕓 مسودة
 - `stu-ekman-original-facial` — دراسات إكمان الأصلية عن عالمية تعبيرات الوجه — ✅ معتمد
-- `stu-farina-mental-illness-stigma` — دراسات فارينا التجريبية حول وصمة المرض النفسي والأثر التفاعلي للتسمية — ✅ معتمد
-- `stu-festinger-cognitive-dissonance` — تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي — ✅ معتمد
-- `stu-garcia-taste-aversion` — تجارب جارسيا وكويلينغ في النفور من الطعم والجاهزية البيولوجية — ✅ معتمد
-- `stu-good-samaritan-darley-batson` — دراسة السامري الصالح لدارلي وباتسون حول ضغط الوقت والمساعدة — ✅ معتمد
-- `stu-harlow-rhesus-monkeys` — دراسات هارلو حول التعلّق والراحة التلامسية في قردة الريسوس — ✅ معتمد
-- `stu-harvard-adult-development` — دراسة هارفارد للنمو البالغ وتطور السعادة والعلاقات عبر العمر — ✅ معتمد
-- `stu-hawthorne-effect` — دراسات مصانع هوثورن وتأثير هوثورن في الإنتاجية والملاحظة — ✅ معتمد
+- `stu-farina-mental-illness-stigma` — دراسات فارينا التجريبية حول وصمة المرض النفسي والأثر التفاعلي للتسمية — 🕓 مسودة
+- `stu-festinger-cognitive-dissonance` — تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي — 🕓 مسودة
+- `stu-garcia-taste-aversion` — تجارب جارسيا وكويلينغ في النفور من الطعم والجاهزية البيولوجية — 🕓 مسودة
+- `stu-good-samaritan-darley-batson` — دراسة السامري الصالح لدارلي وباتسون حول ضغط الوقت والمساعدة — 🕓 مسودة
+- `stu-harlow-rhesus-monkeys` — دراسات هارلو حول التعلّق والراحة التلامسية في قردة الريسوس — 🕓 مسودة
+- `stu-harvard-adult-development` — دراسة هارفارد للنمو البالغ وتطور السعادة والعلاقات عبر العمر — 🕓 مسودة
+- `stu-hawthorne-effect` — دراسات مصانع هوثورن وتأثير هوثورن في الإنتاجية والملاحظة — 🕓 مسودة
 - `stu-himba-facial` — دراسة الهيمبا حول تصنيف تعبيرات الوجه — ✅ معتمد
-- `stu-hirotto-seligman-human-helplessness` — دراسة هيروتو وسليجمان حول العجز المُتعلَّم لدى البشر وتأثير غياب التحكم — ✅ معتمد
-- `stu-hofling-hospital` — تجربة هوفلينغ في المستشفى حول طاعة الممرضات — ✅ معتمد
-- `stu-hubel-wiesel-visual-cortex` — تجارب هوبل وفيزل في المعالجة البصرية وأعمدة القشرة المخية — ✅ معتمد
-- `stu-hyman-false-childhood-memories` — دراسات هايمان وبيلتون حول زرع ذكريات الطفولة الزائفة — ✅ معتمد
-- `stu-jones-harris-castro` — دراسة جونز وهاريس حول إسناد المواقف ومقالات كاسترو — ✅ معتمد
-- `stu-klaus-kennell-maternal-bonding` — دراسات كلاوس وكينيل حول الترابط الأمومي المبكر وفترة الحساسية — ✅ معتمد
-- `stu-langer-rodin-nursing-home-control` — دراسة لانغر ورودين حول التحكم والمسؤولية الشخصية لدى نزلاء دار المسنين — ✅ معتمد
-- `stu-latane-darley-smoke` — تجربة الغرفة المليئة بالدخان والجهل التعددي — ✅ معتمد
-- `stu-lepper-overjustification` — دراسة ليبر ونيسبيت لفرط التبرير وتآكل الدافع الداخلي لدى الأطفال — ✅ معتمد
-- `stu-libet-voluntary-action-readiness` — تجارب ليبيت حول جهد الاستعداد والوعي بالقرار الإرادي — ✅ معتمد
-- `stu-lilly-sensory-deprivation-tank` — دراسات جون ليلي الأولى في الحرمان الحسي وخزانات الطفو — ✅ معتمد
-- `stu-link-modified-labeling-theory` — دراسات بروس لينك حول نظرية الوصمة المعدلة وأثر التسمية النفسية على تقدير الذات — ✅ معتمد
-- `stu-loftus-lost-in-mall` — دراسة لوفتوس وبيكريل حول زرع الذكريات الزائفة لـ 'الضياع في المركز التجاري' — ✅ معتمد
-- `stu-loftus-misinformation-effect` — دراسات لوفتوس الأصلية حول تأثير المعلومات المضللة وتعديل الذاكرة — ✅ معتمد
-- `stu-loftus-palmer-car-crash` — تجربة لوفتوس وبالمر حول تأثير صياغة الأسئلة على تذكر حوادث السيارات — ✅ معتمد
-- `stu-lord-ross-polarization` — دراسة لورد وروس وليبر حول استقطاب المواقف والتحيز التأكيدي — ✅ معتمد
-- `stu-lorenz-imprinting` — تجارب لورنز في الطبع الحيوي والارتباط المبكر والفترة الحرجة — ✅ معتمد
-- `stu-main-disorganized-attachment` — دراسات ماري مين وسولومون حول التعلّق غير المنظم — ✅ معتمد
-- `stu-meltzoff-moore-neonatal-imitation` — دراسات ميلتزوف ومور حول التقليد المبكر لتعبيرات الوجه لدى حديثي الولادة — ✅ معتمد
-- `stu-milgram-obedience` — تجربة ميلغرام للطاعة والسلطة — ✅ معتمد
-- `stu-miller-magical-number-seven` — دراسة ميلر عن الرقم السحري سبعة وسعة معالجة المعلومات — ✅ معتمد
-- `stu-minnesota-twins-reared-apart` — دراسة مينيسوتا للتوائم المتماثلة المتبناة منفصلة والوراثة السلوكية — ✅ معتمد
-- `stu-pavlov-classical-conditioning` — تجارب بافلوف الأصلية في الإشراط الكلاسيكي والمنعكس الشرطي — ✅ معتمد
-- `stu-peterson-peterson-short-term-memory` — تجربة بيترسون وبيترسون حول تلاشي الذاكرة قصيرة المدى ومنع التسميع — ✅ معتمد
-- `stu-peterson-seligman-explanatory-style` — دراسات بيترسون وسليجمان حول أسلوب التفسير السببي والاكتئاب — ✅ معتمد
-- `stu-piaget-conservation` — تجارب بياجيه على حفظ الكمية والكتلة والحجم — ✅ معتمد
-- `stu-piaget-object-permanence-a-not-b` — تجارب بياجيه لخطأ A-not-B وديمومة الشيء — ✅ معتمد
-- `stu-piaget-three-mountains` — تجربة الجبال الثلاثة والتمركز حول الذات عند الأطفال — ✅ معتمد
-- `stu-rescorla-wagner-blocking` — تجارب ريسكورلا وكامين حول ظاهرة الحجب والاقتران الإشراطي — ✅ معتمد
-- `stu-ringelmann-social-loafing` — دراسة رينغلمان عن التراخي الاجتماعي وشد الحبل — ✅ معتمد
-- `stu-robbers-cave` — تجربة كهف اللصوص والصراع بين الجماعات — ✅ معتمد
-- `stu-roediger-mcdermott-drm` — تجارب روديغر وماكديرموت لنموذج DRM للذاكرة الزائفة بالقوائم اللفظية — ✅ معتمد
-- `stu-rosenhan-on-being-sane` — دراسة روزنهان الشهيرة 'عن كونك سليماً في أماكن غير سليمة' والتشخيص النفسي — ✅ معتمد
-- `stu-rosenthal-pygmalion` — دراسة روزنتال وجاكوبسون عن أثر بجماليون والتوقعات في الفصل المدرسي — ✅ معتمد
-- `stu-rosenzweig-enriched-environment` — تجارب روزنزفايج وبينيت ودياموند حول البيئة الغنية ولدونة الدماغ — ✅ معتمد
-- `stu-ross-fundamental-attribution-error` — دراسة روس عن خطأ الإسناد الأساسي في لعبة المسابقات — ✅ معتمد
-- `stu-scoville-milner-patient-hm` — دراسة سكوفيل وميلنر الكلاسيكية للحالة H.M. ودور الحصين في الذاكرة — ✅ معتمد
-- `stu-seligman-maier-learned-helplessness` — تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب — ✅ معتمد
-- `stu-skinner-operant-conditioning` — تجارب سكينر في الإشراط الإجرائي وجداول التعزيز — ✅ معتمد
-- `stu-sperling-iconic-memory` — تجارب سبيرلينج للتقرير الجزئي والذاكرة الأيقونية الحسية — ✅ معتمد
-- `stu-sperry-gazzaniga-split-brain` — دراسات سبيري وغازانيغا على مرضى الدماغ المشقوق والتخصص الوظيفي لنصفي المخ — ✅ معتمد
-- `stu-stanford-prison` — تجربة سجن ستانفورد — ✅ معتمد
-- `stu-tajfel-minimal-group` — دراسات تاجفيل لنموذج الجماعة الصغرى والهوية الاجتماعية — ✅ معتمد
-- `stu-temerlin-diagnostic-bias-suggestion` — دراسة تيميرلين حول أثر الإيحاء ومكانة الخبير على التشخيص الإكلينيكي — ✅ معتمد
-- `stu-terman-gifted-longitudinal` — دراسة تيرمان الطولية للعبقرية والموهبة عبر دورة الحياة — ✅ معتمد
+- `stu-hirotto-seligman-human-helplessness` — دراسة هيروتو وسليجمان حول العجز المُتعلَّم لدى البشر وتأثير غياب التحكم — 🕓 مسودة
+- `stu-hofling-hospital` — تجربة هوفلينغ في المستشفى حول طاعة الممرضات — 🕓 مسودة
+- `stu-hubel-wiesel-visual-cortex` — تجارب هوبل وفيزل في المعالجة البصرية وأعمدة القشرة المخية — 🕓 مسودة
+- `stu-hyman-false-childhood-memories` — دراسات هايمان وبيلتون حول زرع ذكريات الطفولة الزائفة — 🕓 مسودة
+- `stu-jones-harris-castro` — دراسة جونز وهاريس حول إسناد المواقف ومقالات كاسترو — 🕓 مسودة
+- `stu-klaus-kennell-maternal-bonding` — دراسات كلاوس وكينيل حول الترابط الأمومي المبكر وفترة الحساسية — 🕓 مسودة
+- `stu-langer-rodin-nursing-home-control` — دراسة لانغر ورودين حول التحكم والمسؤولية الشخصية لدى نزلاء دار المسنين — 🕓 مسودة
+- `stu-latane-darley-smoke` — تجربة الغرفة المليئة بالدخان والجهل التعددي — 🕓 مسودة
+- `stu-lepper-overjustification` — دراسة ليبر ونيسبيت لفرط التبرير وتآكل الدافع الداخلي لدى الأطفال — 🕓 مسودة
+- `stu-libet-voluntary-action-readiness` — تجارب ليبيت حول جهد الاستعداد والوعي بالقرار الإرادي — 🕓 مسودة
+- `stu-lilly-sensory-deprivation-tank` — دراسات جون ليلي الأولى في الحرمان الحسي وخزانات الطفو — 🕓 مسودة
+- `stu-link-modified-labeling-theory` — دراسات بروس لينك حول نظرية الوصمة المعدلة وأثر التسمية النفسية على تقدير الذات — 🕓 مسودة
+- `stu-loftus-lost-in-mall` — دراسة لوفتوس وبيكريل حول زرع الذكريات الزائفة لـ 'الضياع في المركز التجاري' — 🕓 مسودة
+- `stu-loftus-misinformation-effect` — دراسات لوفتوس الأصلية حول تأثير المعلومات المضللة وتعديل الذاكرة — 🕓 مسودة
+- `stu-loftus-palmer-car-crash` — تجربة لوفتوس وبالمر حول تأثير صياغة الأسئلة على تذكر حوادث السيارات — 🕓 مسودة
+- `stu-lord-ross-polarization` — دراسة لورد وروس وليبر حول استقطاب المواقف والتحيز التأكيدي — 🕓 مسودة
+- `stu-lorenz-imprinting` — تجارب لورنز في الطبع الحيوي والارتباط المبكر والفترة الحرجة — 🕓 مسودة
+- `stu-main-disorganized-attachment` — دراسات ماري مين وسولومون حول التعلّق غير المنظم — 🕓 مسودة
+- `stu-meltzoff-moore-neonatal-imitation` — دراسات ميلتزوف ومور حول التقليد المبكر لتعبيرات الوجه لدى حديثي الولادة — 🕓 مسودة
+- `stu-milgram-obedience` — تجربة ميلغرام للطاعة والسلطة — 🕓 مسودة
+- `stu-miller-magical-number-seven` — دراسة ميلر عن الرقم السحري سبعة وسعة معالجة المعلومات — 🕓 مسودة
+- `stu-minnesota-twins-reared-apart` — دراسة مينيسوتا للتوائم المتماثلة المتبناة منفصلة والوراثة السلوكية — 🕓 مسودة
+- `stu-pavlov-classical-conditioning` — تجارب بافلوف الأصلية في الإشراط الكلاسيكي والمنعكس الشرطي — 🕓 مسودة
+- `stu-peterson-peterson-short-term-memory` — تجربة بيترسون وبيترسون حول تلاشي الذاكرة قصيرة المدى ومنع التسميع — 🕓 مسودة
+- `stu-peterson-seligman-explanatory-style` — دراسات بيترسون وسليجمان حول أسلوب التفسير السببي والاكتئاب — 🕓 مسودة
+- `stu-piaget-conservation` — تجارب بياجيه على حفظ الكمية والكتلة والحجم — 🕓 مسودة
+- `stu-piaget-object-permanence-a-not-b` — تجارب بياجيه لخطأ A-not-B وديمومة الشيء — 🕓 مسودة
+- `stu-piaget-three-mountains` — تجربة الجبال الثلاثة والتمركز حول الذات عند الأطفال — 🕓 مسودة
+- `stu-rescorla-wagner-blocking` — تجارب ريسكورلا وكامين حول ظاهرة الحجب والاقتران الإشراطي — 🕓 مسودة
+- `stu-ringelmann-social-loafing` — دراسة رينغلمان عن التراخي الاجتماعي وشد الحبل — 🕓 مسودة
+- `stu-robbers-cave` — تجربة كهف اللصوص والصراع بين الجماعات — 🕓 مسودة
+- `stu-roediger-mcdermott-drm` — تجارب روديغر وماكديرموت لنموذج DRM للذاكرة الزائفة بالقوائم اللفظية — 🕓 مسودة
+- `stu-rosenhan-on-being-sane` — دراسة روزنهان الشهيرة 'عن كونك سليماً في أماكن غير سليمة' والتشخيص النفسي — 🕓 مسودة
+- `stu-rosenthal-pygmalion` — دراسة روزنتال وجاكوبسون عن أثر بجماليون والتوقعات في الفصل المدرسي — 🕓 مسودة
+- `stu-rosenzweig-enriched-environment` — تجارب روزنزفايج وبينيت ودياموند حول البيئة الغنية ولدونة الدماغ — 🕓 مسودة
+- `stu-ross-fundamental-attribution-error` — دراسة روس عن خطأ الإسناد الأساسي في لعبة المسابقات — 🕓 مسودة
+- `stu-scoville-milner-patient-hm` — دراسة سكوفيل وميلنر الكلاسيكية للحالة H.M. ودور الحصين في الذاكرة — 🕓 مسودة
+- `stu-seligman-maier-learned-helplessness` — تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب — 🕓 مسودة
+- `stu-skinner-operant-conditioning` — تجارب سكينر في الإشراط الإجرائي وجداول التعزيز — 🕓 مسودة
+- `stu-sperling-iconic-memory` — تجارب سبيرلينج للتقرير الجزئي والذاكرة الأيقونية الحسية — 🕓 مسودة
+- `stu-sperry-gazzaniga-split-brain` — دراسات سبيري وغازانيغا على مرضى الدماغ المشقوق والتخصص الوظيفي لنصفي المخ — 🕓 مسودة
+- `stu-stanford-prison` — تجربة سجن ستانفورد — 🕓 مسودة
+- `stu-tajfel-minimal-group` — دراسات تاجفيل لنموذج الجماعة الصغرى والهوية الاجتماعية — 🕓 مسودة
+- `stu-temerlin-diagnostic-bias-suggestion` — دراسة تيميرلين حول أثر الإيحاء ومكانة الخبير على التشخيص الإكلينيكي — 🕓 مسودة
+- `stu-terman-gifted-longitudinal` — دراسة تيرمان الطولية للعبقرية والموهبة عبر دورة الحياة — 🕓 مسودة
 - `stu-terror-management-theory` — دراسات نظرية إدارة الرعب — ✅ معتمد
-- `stu-thorndike-puzzle-box` — تجارب ثورندايك لصناديق الألغاز وقانون الأثر — ✅ معتمد
-- `stu-triplett-social-facilitation` — دراسة تريبليت للتيسير الاجتماعي والتنافس — ✅ معتمد
-- `stu-walters-social-modeling-inhibition` — دراسات والترز وباركي حول النمذجة الاجتماعية وتأثيرها على مقاومة الإغراء — ✅ معتمد
-- `stu-watson-little-albert` — تجربة واطسون وراينر على ألبرت الصغير والإشراط الانفعالي — ✅ معتمد
-- `stu-werner-kauai-resilience` — دراسة كاواي الطولية لإيمي فيرنر حول المرونة والصلابة النفسية — ✅ معتمد
-- `stu-wimmer-perner-false-belief` — تجربة فيمر وبيرنر للمهمة الكلاسيكية للاعتقاد الخاطئ ونظرية العقل — ✅ معتمد
+- `stu-thorndike-puzzle-box` — تجارب ثورندايك لصناديق الألغاز وقانون الأثر — 🕓 مسودة
+- `stu-triplett-social-facilitation` — دراسة تريبليت للتيسير الاجتماعي والتنافس — 🕓 مسودة
+- `stu-walters-social-modeling-inhibition` — دراسات والترز وباركي حول النمذجة الاجتماعية وتأثيرها على مقاومة الإغراء — 🕓 مسودة
+- `stu-watson-little-albert` — تجربة واطسون وراينر على ألبرت الصغير والإشراط الانفعالي — 🕓 مسودة
+- `stu-werner-kauai-resilience` — دراسة كاواي الطولية لإيمي فيرنر حول المرونة والصلابة النفسية — 🕓 مسودة
+- `stu-wimmer-perner-false-belief` — تجربة فيمر وبيرنر للمهمة الكلاسيكية للاعتقاد الخاطئ ونظرية العقل — 🕓 مسودة
 
 ## حدث تاريخي (72)
 

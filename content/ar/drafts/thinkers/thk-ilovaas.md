@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
   - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
-  - id: "thk-eaba", title: "دونالد باير", type: "مفكر"
+  - id: "thk-donbaer", title: "دونالد باير", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أخلاقيات استخدام الكفّ والصعق (1960s) — موضع نقد مستدامّ."

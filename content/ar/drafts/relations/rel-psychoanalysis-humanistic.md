@@ -14,7 +14,7 @@ edges:
 related:
   - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
   - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-crogers", title: "كارل روجرز", type: "مفكر"
   - id: "thk-amaslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "dbt-humanistic-vs-existential", title: "الإنسانية في مقابل الوجودية", type: "جدل"

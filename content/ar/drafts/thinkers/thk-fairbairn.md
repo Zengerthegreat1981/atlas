@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-mklein", title: "ميلاني كلاين", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
   - id: "thk-dwinnicott", title: "دونالد وِنّيكت", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

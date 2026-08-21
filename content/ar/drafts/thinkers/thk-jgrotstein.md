@@ -15,8 +15,8 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "مدرسة Bion", target_type: "تيار"
 related:
-  - id: "thk-wbion", title: "وِلْفريد بْيُون", type: "مفكر"
-  - id: "thk-mklein", title: "مِلاني كلاين", type: "مفكر"
+  - id: "thk-bion", title: "وِلْفريد بْيُون", type: "مفكر"
+  - id: "thk-klein", title: "مِلاني كلاين", type: "مفكر"
 gaps:
   - "مُفَهوم «الـ «بُعْد» (The dimensionality) لَم يُراجَع بَعْد مَصادر أَوّليَّة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

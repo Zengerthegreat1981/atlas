@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
   - id: "thk-dwinnicott", title: "دونالد وِنّيكت", type: "مفكر"
-  - id: "thk-wbion", title: "ويلفريد بيون", type: "مفكر"
+  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

@@ -19,7 +19,7 @@ related:
   - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
   - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
   - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-  - id: "thk-dolto", title: "فرانسواز دولتو", type: "مفكر"
+  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
   - id: "thk-spitz", title: "رينيه سبيتز", type: "مفكر"
   - id: "thk-mahler", title: "مارغريت ماهلر", type: "مفكر"
 gaps:

@@ -15,7 +15,7 @@ edges:
   - rel: "authored_by", target: "برنارد برندشافت", type: "مفكر"
 related:
   - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
-  - id: "thk-atwood", title: "جورج أتوود", type: "مفكر"
+  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
   - id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

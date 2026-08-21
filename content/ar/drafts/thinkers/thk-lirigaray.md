@@ -17,7 +17,7 @@ edges:
   - rel: "belongs_to", target: "الفلسفة النسوية", target_type: "تيار"
 related:
   - id: "thk-jlacanian", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "نَشَأتها اللاحقة في اللُّغة والتَّواصل بين النِّساء (2010s) لم تُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -17,7 +17,7 @@ edges:
 related:
   - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-dreikurs", title: "رودولف درايكرز", type: "مفكر"
-  - id: "thk-aadler", title: "ألكسندرا أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألكسندرا أدلر", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "الترجمة الدقيقة لمفهوم Gemeinschaftsgefühl (الاهتمام الاجتماعي / الشعور الجمعي) وأثرها في الإرشاد الأسري والتربوي تحتاج توثيقاً."

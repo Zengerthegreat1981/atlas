@@ -12,7 +12,7 @@ language: "الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
   - id: "thk-crogers", title: "كارل روجرز", type: "مفكر"
 gaps:

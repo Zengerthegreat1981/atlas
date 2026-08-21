@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
-  - id: "thk-abraham", title: "كارل أبراهام", type: "مفكر"
+  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
   - id: "thk-ferenczi", title: "ساندور فيرينتزي", type: "مفكر"
   - id: "thk-jones", title: "إرنست جونز", type: "مفكر"
   - id: "thk-rank", title: "أوتو رانك", type: "مفكر"

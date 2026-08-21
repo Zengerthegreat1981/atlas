@@ -13,7 +13,7 @@ edges:
   - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
 related:
   - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-abeck", title: "أَرون ت. بِك", type: "مفكر"
   - id: "thk-aellis", title: "ألبرت إيليس", type: "مفكر"
   - id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل"

@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس العصبي التحليلي", target_type: "تيار"
 related:
   - id: "thk-msolms", title: "مارك سُولْمز", type: "مفكر"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-adamasio", title: "أَنْطُونيو داماسيو", type: "مفكر"
 gaps:
   - "تَصْنِيف «النِّظَام 7 عَوَاطِف» (SEEKING, RAGE, FEAR, LUST, CARE, PANIC, PLAY) مُلَخَّص، لَم أَتحَقَّق مِن أَصله العَصَبيّ في كُلّ نِظَام."

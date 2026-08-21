@@ -13,7 +13,7 @@ edges:
   - rel: "developed_by", target: "ستولورو، أتوود، أورانج", target_type: "مفكر"
 related:
   - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
-  - id: "thk-atwood", title: "جورج أتوود", type: "مفكر"
+  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
   - id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
 gaps:
   - "تأثير الفلسفة الظاهراتية (Husserl, Heidegger) على Stolorow و Atwood يحتاج عرضاً أكاديمياً دقيقاً."

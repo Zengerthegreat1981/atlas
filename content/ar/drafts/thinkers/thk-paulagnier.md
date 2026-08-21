@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
   - id: "thk-jlacanian", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "مفهوم «الترجمة/التناغم بين الأم والطفل» يحتاج مراجعة أكاديمية مفصّلة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

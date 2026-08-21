@@ -12,7 +12,7 @@ language: "الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-hhartmann", title: "هاينز هارتمان", type: "مفكر"
+  - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
   - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
   - id: "thk-drapaport", title: "ديفيد رابابورت", type: "مفكر"
 gaps:

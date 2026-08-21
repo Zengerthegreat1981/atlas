@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-aellis", title: "ألبرت إيليس", type: "مفكر"
   - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
-  - id: "thk-aadler", title: "ألفرد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "سيرة شخصية في Philadelphia — موضع بحث."

@@ -14,7 +14,7 @@ edges:
 related:
   - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
   - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-bleuler-jung-assoc", title: "فرانتس ريكـلين", type: "مفكر"
 gaps:

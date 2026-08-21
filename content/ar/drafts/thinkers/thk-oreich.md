@@ -12,8 +12,8 @@ language: "الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-aadler", title: "ألفرد أدلر", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تفاصيل وفاته في سجن Lewisburg (1957) — موضع بحث."

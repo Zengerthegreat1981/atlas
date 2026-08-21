@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-aadler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-hmosak", title: "هَارْوَلْد مُوسَاك", type: "مفكر"
 gaps:
   - "تَفْصِيل «الـ «تَّوْضيعة Adlerian لِـ DSM-5» مُلَخَّص، لَم أَتحَقَّق مِن تَواريخ الـ «إِصْدَارَات» الـ «فَرْدِيَّة»."

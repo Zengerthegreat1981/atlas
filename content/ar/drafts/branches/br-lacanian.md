@@ -16,7 +16,7 @@ edges:
   - rel: "developed_by", target: "جاك لاكان", target_type: "مفكر"
 related:
   - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-dolto", title: "فرانسواز دولتو", type: "مفكر"
+  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
   - id: "thk-irigaray", title: "لوس إيريغاراي", type: "مفكر"
   - id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
   - id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"

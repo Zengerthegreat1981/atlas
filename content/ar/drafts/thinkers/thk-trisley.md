@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-eaba", title: "دونالد باير", type: "مفكر"
+  - id: "thk-donbaer", title: "دونالد باير", type: "مفكر"
   - id: "thk-mwolf", title: "مونتروز وولف", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

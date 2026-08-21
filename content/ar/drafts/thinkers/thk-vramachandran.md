@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم النفس", target_type: "مدرسة"
 related:
-  - id: "thk-solms", title: "مارك سولمز", type: "مفكر"
+  - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."

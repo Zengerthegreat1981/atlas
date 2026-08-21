@@ -17,7 +17,7 @@ edges:
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
-  - id: "thk-abraham", title: "كارل أبراهام", type: "مفكر"
+  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
   - id: "thk-ferenczi", title: "ساندور فيرينتزي", type: "مفكر"
   - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:

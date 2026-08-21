@@ -14,7 +14,7 @@ active_end: 1953
 edges:
   - rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
 related:
-  - id: "thk-abraham", title: "كارل أبراهام", type: "مفكر"
+  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 gaps:
   - "السيرة الكاملة وتفاصيل الفترة النازية لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

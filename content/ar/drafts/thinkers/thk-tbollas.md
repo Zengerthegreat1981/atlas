@@ -14,9 +14,9 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-dwinnicott", title: "دونالد وِنّيكت", type: "مفكر"
-  - id: "thk-mklein", title: "مِلاني كلاين", type: "مفكر"
+  - id: "thk-klein", title: "مِلاني كلاين", type: "مفكر"
 gaps:
   - "مُفَهوم «الـ «مَفْقود» (The unthought known) لَم يُراجَع بَعْد مَصادر أَوّليَّة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

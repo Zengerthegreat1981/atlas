@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
   - rel: "developed_by", target: "مارك سولمز", target_type: "مفكر"
 related:
-  - id: "thk-solms", title: "مارك سولمز", type: "مفكر"
+  - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
   - id: "thk-panksepp", title: "ياب بانكسيب", type: "مفكر"
   - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
   - id: "thk-aschore", title: "ألان شور", type: "مفكر"

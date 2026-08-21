@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-mklein", title: "ميلاني كلاين", type: "مفكر"
+  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
   - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
   - id: "thk-mbalint", title: "مايكل بالِنت", type: "مفكر"
 gaps:

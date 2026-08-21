@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "علم النفس التحليلي اللاتيني", target_type: "تيار"
 related:
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-mlanger", title: "ماري لانغر", type: "مفكر"
   - id: "thk-hssullivan", title: "هَاري سَاكْس سَاليفَان", type: "مفكر"
 gaps:

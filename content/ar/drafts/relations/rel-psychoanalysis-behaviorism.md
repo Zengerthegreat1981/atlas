@@ -14,7 +14,7 @@ edges:
 related:
   - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
   - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
   - id: "dbt-unconscious", title: "هل يوجد لاوعي؟", type: "جدل"

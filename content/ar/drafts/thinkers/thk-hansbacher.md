@@ -14,7 +14,7 @@ active_end: 2010
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-aadler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-rdreikurs", title: "رُودُولْف دْرَايكُورْس", type: "مفكر"
 gaps:
   - "تَرْجَمَة «كُتُب Adler الـ 12 مَجَلَّد» (1956–80) مُلَخَّصَة، لَم أَتحَقَّق مِن تَواريخ الـ «مَجَلَّدَات» الـ «فَرْدِيَّة»."

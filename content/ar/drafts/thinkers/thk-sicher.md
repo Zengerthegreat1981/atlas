@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-amuller", title: "ألكسندر مولر", type: "مفكر"
-  - id: "thk-aadler", title: "ألكسندرا أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألكسندرا أدلر", type: "مفكر"
 gaps:
   - "الترجمة الإنجليزية الكاملة لأعمالها لم تكتمل بعد (Paul Brodsky وBernard Shulman من إكمال بعض المقالات)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

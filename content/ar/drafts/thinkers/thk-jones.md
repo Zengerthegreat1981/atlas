@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-abraham", title: "كارل أبراهام", type: "مفكر"
+  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
   - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:
   - "الموقع الفكري الدقيق لجونز من نظريات فرويد المتأخرة (الموت، الأنا) لم يُحدّد بوضوح في هذه المسودة."

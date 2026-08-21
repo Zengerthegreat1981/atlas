@@ -17,9 +17,9 @@ edges:
 related:
   - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
   - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
-  - id: "thk-kris", title: "إرنست كريس", type: "مفكر"
+  - id: "thk-ekris", title: "إرنست كريس", type: "مفكر"
   - id: "thk-loewenstein", title: "رودولف لوفنشتاين", type: "مفكر"
-  - id: "thk-rapaport", title: "ديفيد رابابورت", type: "مفكر"
+  - id: "thk-drapaport", title: "ديفيد رابابورت", type: "مفكر"
   - id: "thk-jacobson", title: "إيديث جاكوبسون", type: "مفكر"
 gaps:
   - "التحول الأكاديمي لعلم نفس الأنا إلى النموذج المهيمن في الطب النفسي والتحليل النفسي الأمريكي في منتصف القرن العشرين."

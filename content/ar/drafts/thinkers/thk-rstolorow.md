@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "البين-ذاتية", target_type: "تيار"
 related:
   - id: "thk-hkohut", title: "هَينز كُوهوت", type: "مفكر"
-  - id: "thk-okernberg", title: "أوتو كيرنبرغ", type: "مفكر"
+  - id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
   - id: "thk-smitchell", title: "سْتِفَن مِتْشِل", type: "مفكر"
 gaps:
   - "نَشَأته الفلسفيَّة (Heidegger، Husserl) مَوْضوع مُلَخَّص، لَم أَتحَقَّق مِن أَصالتها الأَوّليَّة."

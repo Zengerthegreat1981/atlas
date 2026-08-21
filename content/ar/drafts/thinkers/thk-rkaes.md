@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
   - id: "thk-jlacanian", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-agreen", title: "أَنْدِرِيه غرين", type: "مفكر"
 gaps:
   - "مُفَهوم «الرَّوابط» (Les liens) يحتاج مَراجعة مُفَصَّلة لِـ تَطبيقاته في 2000s."

@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-sicher", title: "ليديا سيشر", type: "مفكر"
-  - id: "thk-mosak", title: "هارولد موساك", type: "مفكر"
+  - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
 gaps:
   - "سنة الميلاد التقريبية 1932 وفق ويكيبيديا، تحتاج تأكيداً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

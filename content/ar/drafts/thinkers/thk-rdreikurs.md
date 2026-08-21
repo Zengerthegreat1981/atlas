@@ -14,7 +14,7 @@ active_end: 1972
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-aadler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-hansbacher", title: "هَينز أَنْسْبَاخِر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "علم النفس العصبي التحليلي", target_type: "تيار"
 related:
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-jpanksepp", title: "جَاك بَانْكِسِب", type: "مفكر"
   - id: "thk-adamasio", title: "أَنْطُونيو داماسيو", type: "مفكر"
 gaps:

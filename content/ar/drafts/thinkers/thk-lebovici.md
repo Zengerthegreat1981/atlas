@@ -12,7 +12,7 @@ country: "فرنسا"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-dolto", title: "فرانسواز دولتو", type: "مفكر"
+  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
   - id: "thk-fain", title: "ميشيل فان", type: "مفكر"
 gaps:
   - "مفهوم «التفاعل المبكر بين الأم والرضيع» (les interactions précoces) وعلاقتها بأعمال كلاين وبوفيه — تحتاج مراجعة من نص تأسيسي."

@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس", target_type: "مدرسة"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-solms", title: "مارك سولمز", type: "مفكر"
+  - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

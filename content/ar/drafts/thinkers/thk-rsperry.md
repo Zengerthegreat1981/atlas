@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-aadler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
   - id: "thk-hmosak", title: "هَارْوَلْد مُوسَاك", type: "مفكر"
 gaps:
   - "الـ «إِسْهَامَات الـ «مُعَاصِرَة» (2010s–2020s) لَم تُراجَع بَعْد."

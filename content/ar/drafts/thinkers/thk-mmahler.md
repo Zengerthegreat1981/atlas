@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-hhartmann", title: "هاينز هارتمان", type: "مفكر"
-  - id: "thk-mklein", title: "ميلاني كلاين", type: "مفكر"
+  - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
+  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
   - id: "thk-erikson", title: "إريك إريكسون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."

@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-mfonagy", title: "بِيتَر فُوناغي", type: "مفكر"
-  - id: "thk-okernberg", title: "أوتو كيرنبرغ", type: "مفكر"
+  - id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
 gaps:
   - "تَطْوير «MBT» لِـ «الـ «اضْطِراب الـ «شَخْصِيّ» الـ «حَدّيّ» (BPD) لَم يُراجَع بَعْد تَفْصيلاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

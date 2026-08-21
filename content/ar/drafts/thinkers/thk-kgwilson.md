@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-schayes", title: "ستيفن هايز", type: "مفكر"
+  - id: "thk-hayes-steven", title: "ستيفن هايز", type: "مفكر"
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

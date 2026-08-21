@@ -12,9 +12,9 @@ language: "الألمانية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
-  - id: "thk-ejones", title: "إرنست جونز", type: "مفكر"
+  - id: "thk-jones", title: "إرنست جونز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تفاصيل حياته في القدس (1933–43) — موضع بحث."

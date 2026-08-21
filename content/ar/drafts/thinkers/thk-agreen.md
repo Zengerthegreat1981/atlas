@@ -16,8 +16,8 @@ edges:
   - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
   - id: "thk-jlacanian", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-wbion", title: "وِلْفريد بْيُون", type: "مفكر"
-  - id: "thk-sfreud", title: "سيغموند فرويد", type: "مفكر"
+  - id: "thk-bion", title: "وِلْفريد بْيُون", type: "مفكر"
+  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "المفاهيم اللاحقة (2000s) — «الفُصَام الأُمّ»، «العمل السَّلبيّ» — لم تُراجَع مَصادرها الأَوّليّة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

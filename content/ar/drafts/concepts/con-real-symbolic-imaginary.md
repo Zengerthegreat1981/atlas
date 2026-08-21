@@ -13,7 +13,7 @@ edges:
   - rel: "developed_by", target: "جاك لوكان", type: "مفكر"
 related:
   - id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
-  - id: "thk-miller", title: "جاك-ألان ميلر", type: "مفكر"
+  - id: "thk-jamiller", title: "جاك-ألان ميلر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

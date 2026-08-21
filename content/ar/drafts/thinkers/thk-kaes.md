@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-green-a", title: "أندريه غرين", type: "مفكر"
+  - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
 gaps:
   - "مفهوم «الرابطة النفسية الجماعية» (l'appareil psychique groupal) وعلاقتها بمقاربات أنييه لابروف (psychologie sociale) — تحتاج مراجعة من نص تأسيسي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

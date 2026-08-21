@@ -17,7 +17,7 @@ edges:
   - rel: "developed_by", target: "جورج أتوود", target_type: "مفكر"
 related:
   - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
-  - id: "thk-atwood", title: "جورج أتوود", type: "مفكر"
+  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
   - id: "thk-brandchaft", title: "برنارد براندشافت", type: "مفكر"
   - id: "thk-lachmann", title: "فرانك لاخمان", type: "مفكر"
   - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"

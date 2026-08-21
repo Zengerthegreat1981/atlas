@@ -12,7 +12,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
   - rel: "developed_by", target: "مارك سولمز", type: "مفكر"
 related:
-  - id: "thk-solms", title: "مارك سولمز", type: "مفكر"
+  - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
