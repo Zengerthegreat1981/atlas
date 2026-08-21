@@ -37,12 +37,10 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 3. **[spark-full-completion-pipeline.md](spark-full-completion-pipeline.md)** ✅ خلصان بالكامل
    (3 مراحل، 2026-08-21).
 4. **[historical-dsm-backlog.md](historical-dsm-backlog.md)** ✅ خلصان بالكامل (31 بند، 2026-08-21).
-5. **[spark-syndromes-pop-psychology-pipeline.md](spark-syndromes-pop-psychology-pipeline.md)** —
-   المهمة الحالية (بتاريخ 2026-08-21): تغطية شاملة للمتلازمات (`syn-`) ثم علم النفس الشعبي (Pop
-   Psychology، حقل `register` الجديد). ابدأ من هنا مباشرة — راجع `draft-writer-brief.md` §2د أولاً.
+5. **[spark-syndromes-pop-psychology-pipeline.md](spark-syndromes-pop-psychology-pipeline.md)** ✅
+   خلصان بالكامل (2026-08-21).
 6. **[spark-studies-instruments-full-coverage-backlog.md](spark-studies-instruments-full-coverage-backlog.md)**
-   — **التالية في القائمة، لا تبدأها إلا بعد ما رقم 5 يبقى `[x]`.** مسح شامل مستقل للدراسات
-   التاريخية الكلاسيكية وأدوات القياس النفسي، بمعزل عن أي مدرسة بعينها.
+   ✅ خلصان بالكامل (212 بند، 2026-08-21). **مفيش مهمة تالية معيَّنة لسه** — استنى تعليمات صريحة.
 
 ### مسار MiniMax
 
@@ -55,6 +53,8 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
    بالكامل (4 ملفات `rel-`، 4 مؤجَّلة، 2026-08-21). 4 علاقات بين القسمين: رواقية↔CBT، ظاهراتية↔
    علاج وجودي، بوذية↔موجة ثالثة، كيركغاردية+نيتشوية↔علاج وجودي. قائمة النطاق:
    [cross-part-relations-scope-list.md](cross-part-relations-scope-list.md).
+
+**مفيش مهمة تالية معيَّنة لسه — استنى تعليمات صريحة.**
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/
