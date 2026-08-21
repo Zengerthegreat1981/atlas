@@ -2073,3 +2073,25 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   **القيد التشغيلي المُلاحظ (موثَّق لمُعالجة لاحقة):**
 
   - **خلل في session filesystem**: خلال هذه الجلسة، حدث فقدان بيانات كاذب مرتين (مرة بعد كتابة 8 ملفات `sch-`، ومرة بعد كتابة 7 ملفات `rel-`) حيث بدا أن المجلدات فُرغت. تبيّن أن **Atlas Agent** كان يقوم بـ"Mass Promotion" في الخلفية، ينقل الملفات من `content/ar/drafts/...` إلى `content/ar/...` ويخصّص IDs. **لا فقدان فعلي للبيانات** — تم استعادتها بـ`git restore` و `git log`، لكن يجب مراقبة هذا في الجلسات الطويلة المتوازية.
+
+- [2026-08-22] **مسار Spark — تنفيذ المسارات الاستراتيجية الأربعة لتوسيع وتطوير الأطلس (السياقات، الأصول التأسيسية، الجسور المعرفية، والتنقيح الشامل)**
+  - **المسار الأول (طبقة السياقات الكبرى `ctx-`)**: تم إنشاء 10 سياقات تاريخية وفلسفية حاكمة للشبكة تشمل:
+    - السياق الهيلينستي والروماني (`ctx-hellenistic-tradition`).
+    - سياق عصر التنوير الأوروبي (`ctx-european-enlightenment`).
+    - سياق الفينومينولوجيا والوجودية الألمانية (`ctx-german-phenomenology-existentialism`).
+    - سياق عصر النهضة الفكرية العربية (`ctx-arabic-nahda`).
+    - سياق الثورة المعرفية والعلوم العصبية (`ctx-cognitive-revolution-neuroscience`).
+    - سياق الكونفوشيوسية وفلسفات شرق آسيا (`ctx-east-asian-neo-confucianism`).
+    - سياق الفلسفة والطب النفسي في العصر الذهبي الإسلامي (`ctx-classical-islamic-golden-age`).
+    - سياق البراغماتية الأمريكية والوظيفية (`ctx-american-pragmatism-tradition`).
+    - سياق الرومانسية وسيكولوجيا الأعماق (`ctx-romanticism-counter-enlightenment`).
+    - سياق ما بعد الحداثة والنقد التفكيكي والتحرري (`ctx-postmodern-critical-tradition`).
+  - **المسار الثاني (الأصول والمفاهيم التأسيسية الكبرى `thk-` و `con-`)**:
+    - مفكرون كبار: أفلاطون (`thk-plato`)، أرسطو (`thk-aristotle`)، أبو بكر الرازي (`thk-al-razi-abu-bakr`).
+    - مفاهيم التحليل النفسي والوجودية والفلسفة الكلاسيكية: اللاشعور (`con-unconscious`)، الكبت (`con-repression`)، التحويل (`con-transference`)، النماذج البدائية اليونغية (`con-archetypes`)، النفس الكلاسيكية (`con-soul-psyche-classical`)، أخلاق الفضيلة (`con-virtue-ethics`)، حب القدر (`con-amor-fati`)، الأتمان والبراهمان (`con-atman-brahman-vedanta`)، التوكل السلوكي (`con-tawakkul-psychology`)، والزهد النفسي (`con-zuhd-detachment`).
+  - **المسار الرابع (الجسور المعرفية والجدليات الكبرى `rel-` و `dbt-`)**:
+    - علاقات وجسور بين المدارس: البوذية والموجة الثالثة CBT (`rel-buddhism-third-wave-cbt`)، الماركسية وعلم النفس النقدي والتحرري (`rel-marxism-critical-psychology`)، البراغماتية وعلم النفس الوظيفي (`rel-pragmatism-functional-psychology`).
+    - جدليات إكلينيكية وعلمية: التشخيص الفئوي DSM مقابل الأبعادي HiTOP (`dbt-categorical-vs-dimensional`)، جدل فاعلية مضادات الاكتئاب السيروتونينية (`dbt-antidepressants-efficacy-debate`)، وجدل التمييع والتضخم التشخيصي (`dbt-concept-creep-psychiatry`).
+  - **المسار الثالث (تدقيق وتنظيف المسودات وفهرس الـ Slugs الشامل)**:
+    - فحص وتدقيق كافة المسودات، وإزالة النسخ المكررة لمدارس ومفكري المعتمد، وتصويب مدرسة العلاج المعرفي السلوكي `sch-cbt`.
+    - تحديث [EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md) ليصل إجمالي عناصر الأطلس إلى **4,199 عنصراً** (4,150 معتمداً + 49 مسودة نقية) مع **صفر تعارض في الـ Slugs**.

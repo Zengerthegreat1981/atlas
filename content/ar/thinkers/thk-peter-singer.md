@@ -18,6 +18,7 @@ related:
   - id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
   - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
 gaps:
+  - "ملاحظة مراجعة: يوجد ملف آخر لنفس الشخص (thk-psinger) — تكرار حي يحتاج قرار بشري صريح لدمج/حذف أحد الملفين."
   - "لم تُراجع بعدُ طبعة New York Review of Books الأصلية لـ *Animal Liberation* (1975، إعادة 1990)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
 
