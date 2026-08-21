@@ -2,6 +2,7 @@
 slug: "wrk-power-of-habit"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل"
 en: "The Power of Habit: Why We Do What We Do in Life and Business"

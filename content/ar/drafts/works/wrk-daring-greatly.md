@@ -2,6 +2,7 @@
 slug: "wrk-daring-greatly"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "الجرأة على الإقدام: كيف تحول الضعف والشجاعة والعراء طريقة عيشنا وحبنا وأبوتنا وقيادتنا"
 en: "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"

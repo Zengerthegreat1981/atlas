@@ -1,0 +1,44 @@
+---
+slug: "thk-butler"
+id: "[DRAFT-UNKNOWN]"
+type: "مفكر"
+part: "philosophy"
+level: "متقدم"
+title: "جوديث بتلر"
+en: "Judith Butler"
+crumb: "النسوية الفلسفية ← النسوية الفرنسية (ما بعد بنيوية) ← جوديث بتلر"
+dates: "الولايات المتحدة · مولودة 1956"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1987
+active_end: "مستمر"
+edges:
+  - rel: "belongs_to", target: "النسوية الفرنسية (ما بعد البنيوية)", target_type: "مدرسة"
+related:
+  - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
+  - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+  - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
+gaps:
+  - "نصوص Butler (Gender Trouble, Bodies That Matter, Antigone's Claim) تحتاج مراجعة من المصدر الأولي."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# جوديث بتلر
+
+فيلسوفة أمريكية في جامعة بيركلي، من أبرز منظّري «النظرية الكويرية» و«النسوية ما بعد البنيوية»، أعادت تعريف «الجنس» (Sex) و«النوع» (Gender) في الفلسفة المعاصرة.
+
+## ما أعطاه
+
+في «إشكالية النوع» (Gender Trouble: Feminism and the Subversion of Identity, 1990) نسفت بتلر التمييز الكلاسيكي بين «الجنس» (Sex) كحقيقة بيولوجية و«النوع» (Gender) كبناء اجتماعي: كلاهما «أداء» (Performance) متكرر ومتغير، لا حقيقة ثابتة. «الأداء» هنا ليس «اختياراً واعياً» بل «ممارسة متكررة» تتشكل عبر الخطاب والمؤسسات. لاحقاً في «أجسام لها وزن» (Bodies That Matter, 1993) وسّعت أطروحتها لتشمل «مادّية» الجسد.
+
+## موقعه من التيار
+
+مؤسِّسة «النظرية الكويرية» (Queer Theory) ومركز «النسوية الفرنسية ما بعد البنيوية» المعاصرة. تأثرت بـ Foucault وDerrida وWittig. حواراتها مع النسوية الليبرالية (Martha Nussbaum) شكّلت العقدين الأخيرين في الفلسفة النسوية.
+
+## قيد
+
+نقدها لـ«الجنس البيولوجي» كُثِّف بوصفه «إنكاراً» لواقعة بيولوجية، وهو ما ردّت عليه بتلر مراراً (Excitable Speech: A Politics of the Performative, 1997) مؤكدة أن «الأداء» يشمل «المادة» (Matter) لا يقتصر على «الخطاب».
+
+## أهم أعمالها
+
+موضوعات للرغبة: قراءات فلسفية في نيتشه (Subjects of Desire: Hegelian Reflections in Twentieth-Century France, 1987) · إشكالية النوع (Gender Trouble, 1990) · أجسام لها وزن (Bodies That Matter, 1993) · النفسيات القوية: محادثات عن الفلسفة والنسوية (The Psychic Life of Power, 1997) · تأملات للحرب (Frames of War, 2009).

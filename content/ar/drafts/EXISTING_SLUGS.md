@@ -2,12 +2,14 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **2903** عنصراً (**418** معتمد + **2485** مسودة).
+الإجمالي: **4069** عنصراً (**418** معتمد + **3651** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
-## مفكر (1618)
+⚠️ **9 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-schopenhauer, thk-emerson, thk-schelling, thk-kierkegaard, thk-hegel, thk-solomon, thk-rousseau, thk-nishida, thk-nietzsche
+
+## مفكر (1928)
 
 - `con-complex-ptsd` — اضطراب الكرب التالي للصدمة المعقد (C-PTSD) — 🕓 مسودة
 - `con-dissociation` — الانفصال (Dissociation) — 🕓 مسودة
@@ -28,9 +30,11 @@
 - `thk-abbagnano` — نيكولا أبانانو — ✅ معتمد
 - `thk-aboal` — أوغوستو بوال — 🕓 مسودة
 - `thk-aboller` — أرماند فولكاس — 🕓 مسودة
+- `thk-abraham-geiger` — أبراهام جيغر — 🕓 مسودة
 - `thk-abramovitch` — هنري أبراموفيتش — 🕓 مسودة
 - `thk-acatania` — أ. تشارلز كاتانيا — 🕓 مسودة
 - `thk-achristensen` — أندرو كريستينسن — 🕓 مسودة
+- `thk-adam-grant` — آدم غرانت — 🕓 مسودة
 - `thk-adamasio` — أَنْطُونيو داماسيو — 🕓 مسودة
 - `thk-adamblatner` — آدم بلاتنر — 🕓 مسودة
 - `thk-adams` — مارتن آدامز — ✅ معتمد
@@ -39,6 +43,7 @@
 - `thk-adorno` — ثيودور أدورنو — ✅ معتمد
 - `thk-afaria` — أبِي فاريا — 🕓 مسودة
 - `thk-aferro` — أنطونيو فيرو — 🕓 مسودة
+- `thk-afghani` — جمال الدين الأفغاني — 🕓 مسودة
 - `thk-afreud` — أنا فرويد — 🕓 مسودة
 - `thk-agarciag` — أليسيا غارسيا غونثاليث — 🕓 مسودة
 - `thk-agoldstein` — أرنولد غولدشتاين — 🕓 مسودة
@@ -46,6 +51,8 @@
 - `thk-ahalford` — أليكس هالفرد — 🕓 مسودة
 - `thk-ahepburn` — ألكسا هِبِرن — 🕓 مسودة
 - `thk-ahill` — أدريان هيل — 🕓 مسودة
+- `thk-ahiqar` — أخيقار (الحكيم الآرامي) — 🕓 مسودة
+- `thk-ahmad-sirhindi` — الشيخ أحمد السرهندي (المجدد الثاني) — 🕓 مسودة
 - `thk-ahofmann` — ألبرت هوفمان — 🕓 مسودة
 - `thk-aichhorn` — أوغست أيشهورن — 🕓 مسودة
 - `thk-aizenstat` — ستيفن أيزنستات — 🕓 مسودة
@@ -53,6 +60,10 @@
 - `thk-ajernberg` — آن جِرنبرغ — 🕓 مسودة
 - `thk-akelman` — أَميت ميمن (أَميت كلمان) — 🕓 مسودة
 - `thk-aklinger` — أتسيلا كلاينغر — 🕓 مسودة
+- `thk-al-farabi` — أبو نصر محمد بن محمد الفارابي — 🕓 مسودة
+- `thk-al-ghazali` — أبو حامد محمد بن محمد الغزالي (حجة الإسلام) — 🕓 مسودة
+- `thk-al-kindi` — أبو يوسف يعقوب بن إسحاق الكندي — 🕓 مسودة
+- `thk-alain-de-botton` — آلان دو بوتون — 🕓 مسودة
 - `thk-alam` — محمود أمين العالم — ✅ معتمد
 - `thk-alazm` — صادق جلال العظم — ✅ معتمد
 - `thk-albertellis-somatic` — إيمي فونتانا — 🕓 مسودة
@@ -62,12 +73,21 @@
 - `thk-alicorazon` — ألي كورازون — 🕓 مسودة
 - `thk-aliebeault` — أمبرواز ليبو — 🕓 مسودة
 - `thk-alinley` — أليكس لينلي — 🕓 مسودة
+- `thk-allen-carr` — ألين كار — 🕓 مسودة
 - `thk-alvinmahrer` — ألفين مارر — 🕓 مسودة
+- `thk-amacintyre` — ألسدير ماكنتاير — 🕓 مسودة
+- `thk-amadiume` — إيف أمداديوم — 🕓 مسودة
 - `thk-amarlatt` — ألان مارلات — 🕓 مسودة
+- `thk-ambedkar` — بيماراو رامجي أمبيدكار — 🕓 مسودة
+- `thk-amenemope` — أمِنْمُوپ (آمنمحات) — 🕓 مسودة
 - `thk-amiller` — أليس ميلر — 🕓 مسودة
+- `thk-amir-levine` — أمير ليفين — 🕓 مسودة
+- `thk-amishi-jha` — أميشي جها — 🕓 مسودة
 - `thk-amithoefer` — آن ميستوفر — 🕓 مسودة
 - `thk-amncube` — ألبرت مْنكوبِي — 🕓 مسودة
+- `thk-amo` — أنطون فلهيلم أمو — 🕓 مسودة
 - `thk-amuller` — ألكسندر مولر — 🕓 مسودة
+- `thk-amy-cuddy` — إيمي كادي — 🕓 مسودة
 - `thk-amy-morgan` — إيمي مورغان — 🕓 مسودة
 - `thk-anaess` — أرنه نيس — 🕓 مسودة
 - `thk-anajam` — عادل نجّام — 🕓 مسودة
@@ -79,33 +99,44 @@
 - `thk-angusmacfarlane` — أنغوس ماكفارلن — 🕓 مسودة
 - `thk-angyal` — أندراس أنجيال — ✅ معتمد
 - `thk-ansbacher` — هاينز ل. آنسْباخِر — 🕓 مسودة
+- `thk-anselm-canterbury` — أنسيلم من كانتربري — 🕓 مسودة
 - `thk-anthony` — ماغي أنتوني — 🕓 مسودة
 - `thk-anzieu` — ديدييه أنزيو — ✅ معتمد
 - `thk-aoliveira` — أنا ماريا دي أوليفيرا — 🕓 مسودة
 - `thk-apert` — أنا أريتي — 🕓 مسودة
 - `thk-apesso` — ألبرت بيسّو — 🕓 مسودة
+- `thk-aquinas` — توما الأكويني — 🕓 مسودة
 - `thk-araine` — أدريان راين — 🕓 مسودة
 - `thk-arango` — غونزالو أرانغو — ✅ معتمد
 - `thk-arascovsky` — أَرْمَانْدُو رَاسكوفْسكي — 🕓 مسودة
 - `thk-arendt` — حنة آرندت — ✅ معتمد
+- `thk-arne-naess` — أرنه نايس — 🕓 مسودة
 - `thk-aron` — ريمون آرون — ✅ معتمد
 - `thk-arthurbeckerweidman` — آرثر بيكر-ويدمان — 🕓 مسودة
+- `thk-aryle` — جيلبرت ريل — 🕓 مسودة
+- `thk-asante` — موليفي أسانتي — 🕓 مسودة
 - `thk-aschore` — ألان شور — 🕓 مسودة
 - `thk-aschultz` — ألان شولتز — 🕓 مسودة
+- `thk-aschutz` — ألفرد شوتز — 🕓 مسودة
+- `thk-ashari` — أبو الحسن علي بن إسماعيل الأشعري — 🕓 مسودة
 - `thk-ashoham` — آرثر شوهام — 🕓 مسودة
 - `thk-assagioli` — روبرتو أساجيولي — 🕓 مسودة
 - `thk-astevens` — أَنتوني ستيفنز (Anthony Stevens) — 🕓 مسودة
+- `thk-athanasius` — أثناسيوس الإسكندري — 🕓 مسودة
 - `thk-atobart` — أنا تيريزا دي توبار — 🕓 مسودة
 - `thk-attig` — توماس آتيغ — ✅ معتمد
 - `thk-augustine` — أوغسطينوس — ✅ معتمد
 - `thk-aulagnier` — بيارا أولانييه — 🕓 مسودة
 - `thk-aulanc` — [مؤسِّسو ISAP / IIJP / NIJA / Israel Society of Analytical Psychology] — 🕓 مسودة
 - `thk-aurobindo` — سري أوروبندو — 🕓 مسودة
+- `thk-azriel-of-gerona` — عزريئيل بن مناحيم من جيرونا — 🕓 مسودة
+- `thk-baal-shem-tov` — إسرائيل بن إليعزر (بعل شيم طوف) — 🕓 مسودة
 - `thk-bacal` — هوارد باكال — 🕓 مسودة
 - `thk-badawi` — عبد الرحمن بدوي — ✅ معتمد
 - `thk-badiou` — ألان باديو — 🕓 مسودة
 - `thk-baker` — إلسوورث ف. بيكر — 🕓 مسودة
 - `thk-bakewell` — سارة بيكويل — ✅ معتمد
+- `thk-bakunin` — ميخائيل باكونين — 🕓 مسودة
 - `thk-bala-jaison` — بالا جايسون — 🕓 مسودة
 - `thk-balakare` — بيرجيتّا ألاكارِ — 🕓 مسودة
 - `thk-bally` — غوستاف بالي — ✅ معتمد
@@ -114,8 +145,10 @@
 - `thk-barnes` — هازل بارنز — ✅ معتمد
 - `thk-barrett` — ويليام باريت — ✅ معتمد
 - `thk-barry-kramer` — باري كريمر — 🕓 مسودة
+- `thk-barry-schwartz` — باري شوارتز — 🕓 مسودة
 - `thk-barth` — كارل بارث — ✅ معتمد
 - `thk-basaglia` — فرانكو بازاليا — ✅ معتمد
+- `thk-basil-caesarea` — باسيليوس الكبير (باسيليوس القيساري) — 🕓 مسودة
 - `thk-bataille` — جورج باتاي — ✅ معتمد
 - `thk-bateman` — أنتوني بيتمان — 🕓 مسودة
 - `thk-batkinson` — برنت أتكينسون — 🕓 مسودة
@@ -132,12 +165,17 @@
 - `thk-beck` — آرون تيموثي بيك — 🕓 مسودة
 - `thk-becker` — إرنست بيكر — ✅ معتمد
 - `thk-beebe` — بياتريس بيبي — 🕓 مسودة
+- `thk-ben-sira` — يشوع بن سيراخ (ابن سيرا) — 🕓 مسودة
 - `thk-benedetti` — غايتانو بينيديتي — ✅ معتمد
+- `thk-benedict-carey` — بينيديكت كاري — 🕓 مسودة
 - `thk-benso` — سيلفيو بينسو — ✅ معتمد
 - `thk-benthall` — مايكل بينثال — 🕓 مسودة
+- `thk-bentham` — جيريمي بنثام — 🕓 مسودة
 - `thk-berdyaev` — نيكولاي بيردييف — ✅ معتمد
 - `thk-bergson` — هنري برغسون — ✅ معتمد
+- `thk-berkeley` — جورج باركلي — 🕓 مسودة
 - `thk-berman` — إيمانويل بيرمان — 🕓 مسودة
+- `thk-bernardo-chartres` — برنارد من شارتر — 🕓 مسودة
 - `thk-bernfeld` — سيغفريد بيرنفيلد — 🕓 مسودة
 - `thk-bespaloff` — راشيل بيسبالوف — ✅ معتمد
 - `thk-besselvanderkolk` — بِسِل فَن دِر كولك — 🕓 مسودة
@@ -152,6 +190,7 @@
 - `thk-binswanger` — لودفيغ بينسوانغر — ✅ معتمد
 - `thk-bion` — ويلفريد بيون — 🕓 مسودة
 - `thk-bischler` — فيرنر بيشلر — ✅ معتمد
+- `thk-bj-fogg` — بي جيه فوغ — 🕓 مسودة
 - `thk-bjhopkins` — بيل ل. هوپكنز — 🕓 مسودة
 - `thk-bjoseph` — بيتي جوزف — 🕓 مسودة
 - `thk-bkaufman` — بِنْيامين كوفمان — 🕓 مسودة
@@ -167,12 +206,16 @@
 - `thk-bmoore` — بوب مور — 🕓 مسودة
 - `thk-boadella` — ديفيد بوعِلّا — 🕓 مسودة
 - `thk-bobbeck` — بوب بيك — 🕓 مسودة
+- `thk-boethius` — بوئيثيوس (أنيسيوس مانليوس سيفيرينوس) — 🕓 مسودة
 - `thk-bohanlon` — بيل أوهَنلون — 🕓 مسودة
 - `thk-bolen` — جين شينودا بولن — 🕓 مسودة
 - `thk-bonaparte` — ماري بونابرت — 🕓 مسودة
+- `thk-bonaventure` — بونافنتورا (جيوفاني دي فيدانزا) — 🕓 مسودة
+- `thk-bookchin` — موراي بووكين — 🕓 مسودة
 - `thk-borgmann` — ألبرت بورغمان — ✅ معتمد
 - `thk-boscolo` — لويجي بوسكولو — 🕓 مسودة
 - `thk-boss` — ميدارد بوس — ✅ معتمد
+- `thk-bostrom` — نيك بوستروم — 🕓 مسودة
 - `thk-boszormenyi` — إيفان بوسورميني-ناجي — 🕓 مسودة
 - `thk-bowlby` — جون بولبي — 🕓 مسودة
 - `thk-boyesen` — غيردا بويزن — 🕓 مسودة
@@ -180,6 +223,7 @@
 - `thk-bpowell` — برت باول — 🕓 مسودة
 - `thk-brandchaft` — برنارد براندشافت — 🕓 مسودة
 - `thk-brapp` — تشارلز راب — 🕓 مسودة
+- `thk-brene-brown` — برينيه براون — 🕓 مسودة
 - `thk-brentano` — فرانتس برنتانو — ✅ معتمد
 - `thk-breuer` — يوزف بروير — 🕓 مسودة
 - `thk-brian-aleman` — براين ألمان — 🕓 مسودة
@@ -189,17 +233,23 @@
 - `thk-brosen` — برنارد روزن — 🕓 مسودة
 - `thk-bruceperkins` — بروس بيركنز — 🕓 مسودة
 - `thk-brueger` — بيرند رويغر — 🕓 مسودة
+- `thk-brussell` — برتراند راسل — 🕓 مسودة
 - `thk-buber` — مارتن بوبر — ✅ معتمد
+- `thk-buddha` — بوذا (سيدهارتا غوتاما) — 🕓 مسودة
 - `thk-bugental` — جيمس بوجنتال — ✅ معتمد
 - `thk-buhler` — شارلوت بوهلر — ✅ معتمد
 - `thk-bultmann` — رودولف بولتمان — ✅ معتمد
 - `thk-burlingham` — دوروثي بيرلينغهام — 🕓 مسودة
 - `thk-burton` — آرثر بورتون — ✅ معتمد
 - `thk-busch` — توماس بوش — ✅ معتمد
+- `thk-butler` — جوديث بتلر — 🕓 مسودة
 - `thk-buytendijk` — فريدريك بايتنديك — ✅ معتمد
+- `thk-bvanfraassen` — باس فان فراسن — 🕓 مسودة
 - `thk-bvdkolk` — بِسِل فان دير كولك — 🕓 مسودة
 - `thk-bwiederhold` — بريندا فيدرهولد — 🕓 مسودة
 - `thk-bwilson` — بيل ويلسون (مؤسس AA) — 🕓 مسودة
+- `thk-cabral` — أميليكار كابرال — 🕓 مسودة
+- `thk-cal-newport` — كال نيوبورت — 🕓 مسودة
 - `thk-calbright` — كارين ألبريت — 🕓 مسودة
 - `thk-caldwell` — كريستين كالدويل — ✅ معتمد
 - `thk-cambray` — جوزيف كامبري — 🕓 مسودة
@@ -210,6 +260,7 @@
 - `thk-cannon` — بيتي كانون — ✅ معتمد
 - `thk-cantaki` — تشارلز أنطاكي — 🕓 مسودة
 - `thk-capriles` — أكسيل كابريليس — 🕓 مسودة
+- `thk-carnegie` — ديل كارنيجي — 🕓 مسودة
 - `thk-carolyn-dalglish` — كارولين دالجليش — 🕓 مسودة
 - `thk-carta` — ستيفانو كارطا — 🕓 مسودة
 - `thk-caruso` — إيغور كاروسو — ✅ معتمد
@@ -237,13 +288,19 @@
 - `thk-cgrob` — تشارلز غروب — 🕓 مسودة
 - `thk-cgrof` — كريستينا غروف — 🕓 مسودة
 - `thk-charcot` — جان مارتان شاركو — ✅ معتمد
+- `thk-charles-duhigg` — تشارلز دوهيغ — 🕓 مسودة
 - `thk-charles-glisson` — تشارلز غليسون — 🕓 مسودة
 - `thk-charlesfaulkner` — تشارلز فولكنر — 🕓 مسودة
 - `thk-charlestaylor` — تشارلز تايلور — ✅ معتمد
+- `thk-charvaka` — تشارڤاكا (مؤسس لوكاياتا / المادية الهندية) — 🕓 مسودة
 - `thk-chatel` — ماري-مادلين شاتيل — ✅ معتمد
+- `thk-cheng-yi` — تشنغ يي — 🕓 مسودة
 - `thk-cherylfairbairn` — شيريل فيربيرن — 🕓 مسودة
 - `thk-chodorow` — نانسي تشودورو — 🕓 مسودة
+- `thk-chomsky` — نعوم تشومسكي — 🕓 مسودة
+- `thk-cialdini` — روبرت تشالديني — 🕓 مسودة
 - `thk-cioran` — إميل سيوران — ✅ معتمد
+- `thk-ckorsgaard` — كريستين كورسغارد — 🕓 مسودة
 - `thk-clarissa` — كلاريسا بينكولا إِسْتِس — 🕓 مسودة
 - `thk-clarkson` — بيتروسكا كلاركسون — ✅ معتمد
 - `thk-clhull` — كلارك هـال — 🕓 مسودة
@@ -254,17 +311,22 @@
 - `thk-cmohanty` — تشاندرا موهانتاي — 🕓 مسودة
 - `thk-cmouffe` — شانتال موف — 🕓 مسودة
 - `thk-cohn` — هانز كون — ✅ معتمد
+- `thk-colette-dowling` — كوليت داولينغ — 🕓 مسودة
 - `thk-combs` — آرثر كومبس — ✅ معتمد
+- `thk-comte` — أوغست كونت — 🕓 مسودة
 - `thk-condrau` — غيون كوندراو — ✅ معتمد
+- `thk-confucius` — كونفوشيوس (كونغ زي) — 🕓 مسودة
 - `thk-connie-rae-anderson` — كوني ري أندرسون — 🕓 مسودة
 - `thk-cooper` — ميك كوبر — ✅ معتمد
 - `thk-copleston` — فريدريك كوبلستون — ✅ معتمد
 - `thk-corbett` — ليونيل كوربت — 🕓 مسودة
 - `thk-cpeterson` — كريستوفر بيترسون — 🕓 مسودة
 - `thk-cprata` — كارلو براتا — 🕓 مسودة
+- `thk-crenshaw` — كيمبرلي كرنشو — 🕓 مسودة
 - `thk-crobbins` — كلايف روبنز — 🕓 مسودة
 - `thk-crsnyder` — تشارلز ريتشارد سنايدر — 🕓 مسودة
 - `thk-cschaefer` — تشارلز شيفر — 🕓 مسودة
+- `thk-csikszentmihalyi` — ميهالي تشيكسينتميهالي — 🕓 مسودة
 - `thk-csluzki` — كارلوس سلوزكي — 🕓 مسودة
 - `thk-csocarides` — تشارلز سوكرايدِس — 🕓 مسودة
 - `thk-csoler` — كوليت سولر — 🕓 مسودة
@@ -282,17 +344,26 @@
 - `thk-czeanah` — تشارلز زيناه — 🕓 مسودة
 - `thk-dabram` — ديفيد أبرام — 🕓 مسودة
 - `thk-dabrowski` — كازيمير دابروفسكي — 🕓 مسودة
+- `thk-dai-zhen` — دان تشن — 🕓 مسودة
+- `thk-dan-ariely` — دان آرييلي — 🕓 مسودة
 - `thk-dan-fisher` — دان فيشر — 🕓 مسودة
+- `thk-dan-kiley` — دان كايلي — 🕓 مسودة
+- `thk-dan-millman` — دان ميلمان — 🕓 مسودة
 - `thk-dana` — ديب دانا — 🕓 مسودة
 - `thk-danbrown-ddp` — دانيال ب. براون — ✅ معتمد
+- `thk-daniel-gilbert` — دانيال جيلبرت — 🕓 مسودة
+- `thk-daniel-siegel` — دانيال ج. سيغل — 🕓 مسودة
 - `thk-daniellevision` — دانييل ليڤيسون — 🕓 مسودة
 - `thk-darcy-woebot` — أليسون دارسي — 🕓 مسودة
 - `thk-dasilva` — غي دا سيلفا — ✅ معتمد
+- `thk-david-allen` — ديفيد ألين — 🕓 مسودة
 - `thk-david-erceg` — ديفيد إرسغ — 🕓 مسودة
 - `thk-david-feldman` — ديفيد فيلدمان — 🕓 مسودة
 - `thk-david-krauss` — ديفيد أ. كراوس — ✅ معتمد
 - `thk-david-reeve` — ديفيد ريڤ — 🕓 مسودة
+- `thk-david-schwartz` — ديفيد ج. شوارتز — 🕓 مسودة
 - `thk-davoine` — فرانسوا دافين — 🕓 مسودة
+- `thk-dayananda` — سوامي دياناندا ساراسواتي — 🕓 مسودة
 - `thk-dbaucom` — دونالد بِيكوم — 🕓 مسودة
 - `thk-dbaumrind` — ديانا باومرند — 🕓 مسودة
 - `thk-dbecker` — ديبورا بيكر — 🕓 مسودة
@@ -307,6 +378,7 @@
 - `thk-dcooper` — ديفيد كوبر — ✅ معتمد
 - `thk-ddiamond` — دانيال دايموند — 🕓 مسودة
 - `thk-ddinste` — دوروثي دينرشتاين — 🕓 مسودة
+- `thk-deb-dana` — ديب دانا — 🕓 مسودة
 - `thk-deborah-kremer` — دبرا كريمر — 🕓 مسودة
 - `thk-dedwards` — ديرِك إدواردز — 🕓 مسودة
 - `thk-deepak-ramsubeik` — ديپاك رامسوبك — 🕓 مسودة
@@ -315,8 +387,10 @@
 - `thk-deniswaitley` — دينيس ويتلي — 🕓 مسودة
 - `thk-depston` — ديفيد إبستون — 🕓 مسودة
 - `thk-deraldwing-sue` — ديرالد وينغ سو — 🕓 مسودة
+- `thk-descartes` — رينيه ديكارت — 🕓 مسودة
 - `thk-deutsch` — هيلين دويتش — 🕓 مسودة
 - `thk-dewaelhens` — ألفونس دي فالهنز — ✅ معتمد
+- `thk-dewey` — جون ديوي — 🕓 مسودة
 - `thk-dfeinstein` — ديفيد فاينشتاين — 🕓 مسودة
 - `thk-dfisher` — دانيال فيشر — 🕓 مسودة
 - `thk-dfosha` — ديانا فوشا — 🕓 مسودة
@@ -334,6 +408,7 @@
 - `thk-dkalsched` — دونالد كَلشد — 🕓 مسودة
 - `thk-dkirkland` — دانيال كيركلاند — 🕓 مسودة
 - `thk-dknab` — دوغلاس كناب — 🕓 مسودة
+- `thk-dlewis` — ديفيد لويس — 🕓 مسودة
 - `thk-dluo` — دونغ ليو — 🕓 مسودة
 - `thk-dmarivoet` — ديرك ماريڤوت — 🕓 مسودة
 - `thk-dmeichenbaum` — د. هـ. مايكنباوم — 🕓 مسودة
@@ -346,6 +421,7 @@
 - `thk-dorange` — دومينيك م. أَورَنج — 🕓 مسودة
 - `thk-dostoevsky` — فيودور دوستويفسكي — ✅ معتمد
 - `thk-downing` — كريستين داونينغ — 🕓 مسودة
+- `thk-dparfit` — ديريك بارفيت — 🕓 مسودة
 - `thk-dparker` — ديفيد باركر — 🕓 مسودة
 - `thk-dpierrakos` — دورا غوميز بيراكوس — 🕓 مسودة
 - `thk-dpooleheller` — ديان بويل هيلر — 🕓 مسودة
@@ -362,9 +438,12 @@
 - `thk-dtacey` — ديفيد تاسّي — 🕓 مسودة
 - `thk-dtutu` — ديزموند توتو — 🕓 مسودة
 - `thk-dubose` — تود دوبوز — ✅ معتمد
+- `thk-duckworth` — أنجيلا دَكوورث — 🕓 مسودة
+- `thk-duns-scotus` — يوحنا دونز سكوتوس (الدكتور سوتيل) — 🕓 مسودة
 - `thk-duplock` — سايمون دو بلوك — ✅ معتمد
 - `thk-dwallis` — ديفيد واليس — 🕓 مسودة
 - `thk-dwchen` — دونغ-وي تشن — 🕓 مسودة
+- `thk-dweck` — كارول دويك — 🕓 مسودة
 - `thk-dwile` — دانيال وايل — 🕓 مسودة
 - `thk-dwinnicott` — دونالد وِنّيكت — 🕓 مسودة
 - `thk-dzurilla` — توماس ج. دزوريلا — 🕓 مسودة
@@ -377,6 +456,7 @@
 - `thk-eburne` — إريك بيرن — 🕓 مسودة
 - `thk-eckartsberg` — رولف فون إكارتسبيرغ — ✅ معتمد
 - `thk-ecker` — بروس إيكر — 🕓 مسودة
+- `thk-eckhart-tolle` — إيكهارت تول — 🕓 مسودة
 - `thk-ecolle` — إيما كول — 🕓 مسودة
 - `thk-econrad` — إيميلي كونراد — 🕓 مسودة
 - `thk-ecraig` — إريك كريك — ✅ معتمد
@@ -386,21 +466,26 @@
 - `thk-edie` — جيمس إيدي — ✅ معتمد
 - `thk-edinger` — إدوارد إف. إيدينغر — 🕓 مسودة
 - `thk-edsch` — [مؤسِّسو AAPA / مُنظِّمو SCAP / SVAJ / SOMEJ / SCAJ] — 🕓 مسودة
+- `thk-edward-de-bono` — إدوارد دي بونو — 🕓 مسودة
 - `thk-eengelhardt` — هيوغز إنغلهارت — 🕓 مسودة
 - `thk-efriedman` — إدوارد فريدمان — 🕓 مسودة
 - `thk-egaston` — إ. ثوريت غاستون — 🕓 مسودة
 - `thk-egendlin` — يوجين جِينْدِلِين — 🕓 مسودة
+- `thk-eholt` — إدوين هولت — 🕓 مسودة
 - `thk-ehutchins` — إيميت هاتشنز — 🕓 مسودة
 - `thk-eimber` — إيفان إمبير-بلاك — 🕓 مسودة
 - `thk-ejung` — إيما يونغ — 🕓 مسودة
 - `thk-ekandel` — إريك كاندِل — 🕓 مسودة
 - `thk-ekeleman` — ستانلي كِلمان — 🕓 مسودة
+- `thk-eknobe` — جوشوا نوب — 🕓 مسودة
 - `thk-ekramer` — إديث كرامر — 🕓 مسودة
 - `thk-ekris` — إرنست كريس — 🕓 مسودة
+- `thk-elaine-aron` — إيلين آرون — 🕓 مسودة
 - `thk-elaszlo` — إرڤين لازلو — 🕓 مسودة
 - `thk-eleanor-crisostomo` — إيلينور كريزوستومو — 🕓 مسودة
 - `thk-elevine` — إيلين ليفين — 🕓 مسودة
 - `thk-elin-rbaek` — إلين ربيك — 🕓 مسودة
+- `thk-elizabeth-loftus` — إليزابيث لوفتوس — 🕓 مسودة
 - `thk-ellenberger` — هنري إلينبرجر — ✅ معتمد
 - `thk-ellis` — ألبرت إليس — 🕓 مسودة
 - `thk-ellison` — رالف إليسون — ✅ معتمد
@@ -409,11 +494,13 @@
 - `thk-emilecoue` — إميل كوي — 🕓 مسودة
 - `thk-emmons` — روبرت إيمونز — 🕓 مسودة
 - `thk-engelhardt` — ديتريش فون إنغلهاردت — ✅ معتمد
+- `thk-engels` — فريدريش إنغلز — 🕓 مسودة
 - `thk-enidbalint` — إنيذ بالينت — 🕓 مسودة
 - `thk-epaz` — إيلسا باث كاستيّو — 🕓 مسودة
 - `thk-epichon` — إِرْنِسْتَو بِتْشُون-رِيفِيِيِر — 🕓 مسودة
 - `thk-epierrakos` — إيڤا بيراكوس (بروش) — 🕓 مسودة
 - `thk-epolster` — إرفينغ بولستر — 🕓 مسودة
+- `thk-erasmus` — دسيديريوس إراسموس — 🕓 مسودة
 - `thk-ereich` — إيڤا رايخ — 🕓 مسودة
 - `thk-ereichelt` — إريك رايشيلت — 🕓 مسودة
 - `thk-erickson-erl` — إيرل إريكسون — 🕓 مسودة
@@ -423,6 +510,7 @@
 - `thk-esaebel` — إليزابيث سايبل — 🕓 مسودة
 - `thk-eschein` — إدغار شين — 🕓 مسودة
 - `thk-eschopler` — إريك شوبلر — 🕓 مسودة
+- `thk-esther-perel` — إستر بيريل — 🕓 مسودة
 - `thk-ethompson` — إيفان تومسون — 🕓 مسودة
 - `thk-eugenetaylor` — يوجين تيلور — 🕓 مسودة
 - `thk-everettshostrom` — إيفريت شوستروم — 🕓 مسودة
@@ -434,6 +522,7 @@
 - `thk-fain` — ميشيل فان — 🕓 مسودة
 - `thk-fairbairn` — رونالد فَيرْبيرن — 🕓 مسودة
 - `thk-fakhoury` — حنا الفاخوري — ✅ معتمد
+- `thk-fakhr-razi` — فخر الدين محمد بن عمر الرازي — 🕓 مسودة
 - `thk-falexander` — فريدريك ماتياس ألكسندر — 🕓 مسودة
 - `thk-fanon` — فرانتز فانون — ✅ معتمد
 - `thk-farber` — ليزلي فاربر — ✅ معتمد
@@ -447,12 +536,15 @@
 - `thk-fgutier` — فرانسيسكو غوتيريس — 🕓 مسودة
 - `thk-fhaug` — فريغا هاوُغ — 🕓 مسودة
 - `thk-fherzog` — ف. هرتسوغ — 🕓 مسودة
+- `thk-fichte` — يوهان غوتليب فيشته — 🕓 مسودة
 - `thk-fink` — أويغن فينك — ✅ معتمد
+- `thk-firestone` — شولاميث فيرستون — 🕓 مسودة
 - `thk-fizzotti` — أوجينيو فيزوتي — ✅ معتمد
 - `thk-fkeller` — فريد س. كيلّر — 🕓 مسودة
 - `thk-fkfu` — ف. كي. فو — 🕓 مسودة
 - `thk-fkurtz` — رُونَالِد كُورْتْز — 🕓 مسودة
 - `thk-flake` — فرانك ليك — 🕓 مسودة
+- `thk-floridi` — لوشيانو فلوريدي — 🕓 مسودة
 - `thk-flusser` — فيليم فلوسر — ✅ معتمد
 - `thk-flynn` — توماس فلين — ✅ معتمد
 - `thk-fmesmer` — فرانتس أنطون ميسمر — 🕓 مسودة
@@ -475,17 +567,22 @@
 - `thk-fskinner` — بوريس فريدريك سكينر — 🕓 مسودة
 - `thk-ftustin` — فرانسي تَستن — 🕓 مسودة
 - `thk-fuchs` — توماس فوكس — ✅ معتمد
+- `thk-fukuzawa` — فوكوزاوا يوكيتشي — 🕓 مسودة
 - `thk-furtmuller` — كارل فورتمولر — 🕓 مسودة
 - `thk-fvanderzee` — فرانك فان دير زي — 🕓 مسودة
 - `thk-fvaughan` — فرانسيس فوغان — 🕓 مسودة
 - `thk-fvolkmar` — فريد فولكمار — 🕓 مسودة
 - `thk-fyeomans` — فرانك يَرمسون — 🕓 مسودة
 - `thk-gabel` — جين أبيل — 🕓 مسودة
+- `thk-gabor-mate` — غابور ماتيه — 🕓 مسودة
 - `thk-gadamer` — هانز-غيورغ غادامير — ✅ معتمد
 - `thk-gadamoli` — غلاديس آدامولي — 🕓 مسودة
 - `thk-gadler` — غيرهارد أدلر — 🕓 مسودة
 - `thk-gallport` — جُوردُون أَلْبُورْت — 🕓 مسودة
+- `thk-gandhi` — موهانداس كرمشاند غاندي — 🕓 مسودة
+- `thk-ganscombe` — جيرترود إليونور ماري أنسكومب — 🕓 مسودة
 - `thk-gaos` — خوسيه غاوس — ✅ معتمد
+- `thk-gary-chapman` — غاري تشابمان — 🕓 مسودة
 - `thk-gbach` — جورج بَخ — 🕓 مسودة
 - `thk-gbateson` — غريغوري باتسون — ✅ معتمد
 - `thk-gbond` — غاري بوند — 🕓 مسودة
@@ -496,20 +593,26 @@
 - `thk-gcraparo` — جوزيبي كرابّارو — 🕓 مسودة
 - `thk-gdiamond` — غي دايموند — 🕓 مسودة
 - `thk-gdiaz` — خينا دياث — 🕓 مسودة
+- `thk-ge-hong` — غي هونغ (تساو باوبو) — 🕓 مسودة
 - `thk-gebsattel` — فيكتور فون غيبساتل — ✅ معتمد
 - `thk-gendlin` — يوجين جندلين — ✅ معتمد
 - `thk-gene-ennis` — جين إينيس — 🕓 مسودة
 - `thk-gengel` — جورج إنغل — 🕓 مسودة
+- `thk-george-lakoff` — جورج لاكوف — 🕓 مسودة
 - `thk-george-thompson` — جورج تومبسون — 🕓 مسودة
 - `thk-georgeatwood` — جُورج أتوود — 🕓 مسودة
 - `thk-gferri` — جينوفينو فيري — 🕓 مسودة
+- `thk-gfrege` — غوتلوب فريغه — 🕓 مسودة
 - `thk-ggurdjieff` — غي. آي. غورجييف — 🕓 مسودة
 - `thk-ghoffman` — غلين هوفمان — 🕓 مسودة
 - `thk-giegerich` — وولفغانغ غيغيريش — 🕓 مسودة
+- `thk-gilgamesh` — جلجامش (شخصية ملحمة) — 🕓 مسودة
 - `thk-gillian-abbott` — جيليان أبوت — 🕓 مسودة
+- `thk-gilligan` — كارول غيليغان — 🕓 مسودة
 - `thk-giorgi` — أميديو جيورجي — ✅ معتمد
 - `thk-gjohanson` — غريغوري جوهانسون — 🕓 مسودة
 - `thk-gklerman` — جيرالد كَلِرمان — 🕓 مسودة
+- `thk-gladwell` — مالكولم غلادويل — 🕓 مسودة
 - `thk-glandreth` — غاري لاندريث — 🕓 مسودة
 - `thk-glasser` — ويليام غلاسر — 🕓 مسودة
 - `thk-gleonard` — جورج ليونارد — 🕓 مسودة
@@ -522,14 +625,18 @@
 - `thk-goldfried` — مارفين غولدفريد — 🕓 مسودة
 - `thk-goldmann` — لوسيان غولدمان — ✅ معتمد
 - `thk-goldstein` — كورت غولدشتاين — ✅ معتمد
+- `thk-goleman` — دانيال غولمان — 🕓 مسودة
 - `thk-goodman` — بول غودمان — ✅ معتمد
 - `thk-gordon` — لويس غوردون — ✅ معتمد
+- `thk-gotama-kanad` — أكساپادا غوتاما (مؤسس نيايا) — 🕓 مسودة
 - `thk-govinda` — لاما أناغاريكا غوفيندا — 🕓 مسودة
 - `thk-gparis` — جانيت باريس — 🕓 مسودة
+- `thk-graeber` — ديفيد غريبر — 🕓 مسودة
 - `thk-greenberg` — جيف غرينبرغ — ✅ معتمد
 - `thk-greenberg-lisa` — ليزا فيرلي غرينبرغ — 🕓 مسودة
 - `thk-greenwald` — راي غرينوالد — 🕓 مسودة
 - `thk-grenier` — جان غرينييه — ✅ معتمد
+- `thk-gretchen-rubin` — غريتشين روبين — 🕓 مسودة
 - `thk-griffiths` — رولاند غريفيثز — 🕓 مسودة
 - `thk-grose` — غيليس روز — 🕓 مسودة
 - `thk-groselli` — غيلي روزيليني — 🕓 مسودة
@@ -541,27 +648,35 @@
 - `thk-gunnel-cederblad` — جونيل سيدِربلاد — 🕓 مسودة
 - `thk-guntrip` — هاري غانترب — 🕓 مسودة
 - `thk-gurwitsch` — آرون غورفيتش — ✅ معتمد
+- `thk-guy-winch` — غاي وينش — 🕓 مسودة
 - `thk-gweber` — غونتهارد فيبر — 🕓 مسودة
 - `thk-gweishaar` — إِيرِك وِيشَار — 🕓 مسودة
+- `thk-habermas` — يورغن هابرماس — 🕓 مسودة
 - `thk-halling` — ستين هالينغ — ✅ معتمد
 - `thk-hammarskjold` — داغ همرشولد — ✅ معتمد
 - `thk-handerson` — هارلين أندرسون — 🕓 مسودة
+- `thk-hanfeizi` — هان في تزو — 🕓 مسودة
 - `thk-hannah` — بربارة حنّة — 🕓 مسودة
 - `thk-haponte` — هاري أبونت — 🕓 مسودة
+- `thk-haraway` — دونا هاراواي — 🕓 مسودة
 - `thk-harris` — أدريان هاريس — 🕓 مسودة
 - `thk-hartmann` — نيكولاي هارتمان — ✅ معتمد
 - `thk-hartmannheinz` — هاينز هارتمان — 🕓 مسودة
 - `thk-hayes-steven` — ستيفن سي. هايز — 🕓 مسودة
+- `thk-hayyim-vital` — الحاخام حاييم فيتال — 🕓 مسودة
 - `thk-hbarbaree` — هوارد بارباري — 🕓 مسودة
 - `thk-hbeaumont` — هانتر بومون — 🕓 مسودة
 - `thk-hbernheim` — هيبوليت برنهايم — 🕓 مسودة
 - `thk-hcrsilneck` — هارولد كراسيلنيك — 🕓 مسودة
 - `thk-hdavanloo` — حبيب دَفانلو — 🕓 مسودة
+- `thk-he-yan` — هي يان — 🕓 مسودة
 - `thk-hegel` — جورج فيلهلم فريدريش هيغل — ✅ معتمد
 - `thk-heidegger` — مارتن هايدجر — ✅ معتمد
+- `thk-heidegger-technology` — مارتن هايدجر (كفيلسوف للتكنولوجيا) — 🕓 مسودة
 - `thk-heimann` — بولا هايمان — 🕓 مسودة
 - `thk-heller` — أغنيس هيلر — ✅ معتمد
 - `thk-hellmuth` — هيرمين هوغ-هيلموث — 🕓 مسودة
+- `thk-hermes-trismegistus` — هرمس ثلاثي العظمة (شخصية تقليدية) — 🕓 مسودة
 - `thk-hershman` — دينا هيرشمان — 🕓 مسودة
 - `thk-herskovitz` — مورتن هيرسكوفيتز — 🕓 مسودة
 - `thk-heydt` — فيرا فون دير هايدت — 🕓 مسودة
@@ -591,8 +706,11 @@
 - `thk-hohagen` — فريدريش هوهاغن — 🕓 مسودة
 - `thk-holderlin` — فريدريش هولدرلين — ✅ معتمد
 - `thk-holzhey` — أليس هولتسهي-كونتس — ✅ معتمد
+- `thk-hooks` — بيل هوكس — 🕓 مسودة
 - `thk-houle` — سيريل هول — ✅ معتمد
+- `thk-hountondji` — بولين هينتونجي — 🕓 مسودة
 - `thk-hpalmer` — هاري بالمر — 🕓 مسودة
+- `thk-hputnam` — هيلاري putnam — 🕓 مسودة
 - `thk-hresneck` — هيلين رِسنِك-سانّيس — 🕓 مسودة
 - `thk-hschlesinger` — هربرت شليسنغر — 🕓 مسودة
 - `thk-hsolomon` — هيستر م. سولومون — 🕓 مسودة
@@ -600,6 +718,10 @@
 - `thk-hsteadman` — هنري ستيدمان — 🕓 مسودة
 - `thk-hstein` — هنري ت. ستاين — 🕓 مسودة
 - `thk-hstrupp` — هانس ستروب — 🕓 مسودة
+- `thk-hu-shi` — هو شي (Hu Shih) — 🕓 مسودة
+- `thk-hugo-saint-victor` — هوغو من سانت فيكتور — 🕓 مسودة
+- `thk-huishi` — هوي شي (هوي تشي) — 🕓 مسودة
+- `thk-hume` — ديفيد هيوم — 🕓 مسودة
 - `thk-huppertz` — غيرنوت هوبرتز — ✅ معتمد
 - `thk-hussein` — طه حسين — ✅ معتمد
 - `thk-husserl` — إدموند هوسرل — ✅ معتمد
@@ -608,6 +730,11 @@
 - `thk-hwiyoro` — هيكتور ويورو — 🕓 مسودة
 - `thk-iberg` — إنسو كيم بيرغ — 🕓 مسودة
 - `thk-ibieber` — إرفنغ بيبر — 🕓 مسودة
+- `thk-ibn-arabi` — محيي الدين بن عربي (الشيخ الأكبر) — 🕓 مسودة
+- `thk-ibn-gabirol` — سليمان بن يحيى ابن جابيرول (أفيسبريم) — 🕓 مسودة
+- `thk-ibn-rushd` — أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر) — 🕓 مسودة
+- `thk-ibn-sina` — أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس) — 🕓 مسودة
+- `thk-ibn-taymiyya` — تقي الدين أبو العباس أحمد ابن تيمية — 🕓 مسودة
 - `thk-ibrenner` — إيرفينغ برينر — 🕓 مسودة
 - `thk-icheolhong` — تشو هي-سو — 🕓 مسودة
 - `thk-idmarshall` — توماس هانا — 🕓 مسودة
@@ -623,9 +750,11 @@
 - `thk-iplayer` — إيان بلاير — 🕓 مسودة
 - `thk-iprogoff` — إيرا بروغوف — 🕓 مسودة
 - `thk-iqbal` — محمد إقبال — ✅ معتمد
-- `thk-irigaray` — لوس إيريغاراي — 🕓 مسودة
+- `thk-irigaray` — لوس إريغاري — 🕓 مسودة
 - `thk-irolf` — إيدا رولف — 🕓 مسودة
 - `thk-irubenfeld` — إيلانا روبنفِلد — 🕓 مسودة
+- `thk-isaac-blind` — إسحاق العميان (إسحاق بن سليمان الإسرائيلي) — 🕓 مسودة
+- `thk-isaac-luria` — إسحاق لوريا (الأري) — 🕓 مسودة
 - `thk-isaacs` — سوزان إسكس — 🕓 مسودة
 - `thk-isap` — [جمعية ISAP / إيلينا/آنا فاي-قاردنر] — 🕓 مسودة
 - `thk-isebastiani` — إيفان سيباستياني — 🕓 مسودة
@@ -643,16 +772,21 @@
 - `thk-jaffe` — أنييلا يافّه — 🕓 مسودة
 - `thk-jahoda` — ماري جاهودا — ✅ معتمد
 - `thk-jakhan` — نوربلز إيفانز-هيل — 🕓 مسودة
+- `thk-jalal-al-din-rumi` — جلال الدين الرومي (مولانا) — 🕓 مسودة
 - `thk-jaliaga` — خوان أنطونيو ألياغا — 🕓 مسودة
 - `thk-james` — وليم جيمس — ✅ معتمد
 - `thk-james-berman` — جيمس بيرمان — 🕓 مسودة
+- `thk-james-clear` — جيمس كلير — 🕓 مسودة
 - `thk-james-gumpert` — جيمس غومپرت — 🕓 مسودة
+- `thk-james-william` — وليام جيمس — 🕓 مسودة
 - `thk-jamiller` — جاك-أَلان ميلِّر — 🕓 مسودة
 - `thk-janet` — بيير جانيه — 🕓 مسودة
 - `thk-janethelms` — جانيت هيلمز — 🕓 مسودة
 - `thk-janicewilliams` — جانيس ويليامز — 🕓 مسودة
 - `thk-jarlena-white` — جارلينا وايت — 🕓 مسودة
 - `thk-jaspers` — كارل ياسبرز — ✅ معتمد
+- `thk-jaustin` — جون لانغشو أوستن — 🕓 مسودة
+- `thk-jay-shetty` — جاي شيتي — 🕓 مسودة
 - `thk-jayearly` — جاي إيرلي — 🕓 مسودة
 - `thk-jayres` — جين أَيرس — 🕓 مسودة
 - `thk-jbanmen` — جون بانمن — 🕓 مسودة
@@ -698,6 +832,7 @@
 - `thk-jgantt` — جوزيف غانت — 🕓 مسودة
 - `thk-jgebser` — جين غيبسر — 🕓 مسودة
 - `thk-jgedo` — جون جيدو — 🕓 مسودة
+- `thk-jgoodman` — نلسون غودمان — 🕓 مسودة
 - `thk-jgottman` — جون غوتمان — 🕓 مسودة
 - `thk-jgottman-sr` — جوليا غوتمان — 🕓 مسودة
 - `thk-jgould` — جيمس ليبشيتز — 🕓 مسودة
@@ -733,6 +868,7 @@
 - `thk-jmacy` — جوانا مايسي — 🕓 مسودة
 - `thk-jmarkowitz` — جيمس ماركويتز — 🕓 مسودة
 - `thk-jmcdougall` — جُويس مَك دُوغال — 🕓 مسودة
+- `thk-jmcdowell` — جون ماكدوويل — 🕓 مسودة
 - `thk-jmertz` — [مؤسِّسو أعمدة Rivista di Psicologia Analitica] — 🕓 مسودة
 - `thk-jmitchell` — جوليا ميتشِل — 🕓 مسودة
 - `thk-jmonahan` — جون موناهان — 🕓 مسودة
@@ -741,19 +877,26 @@
 - `thk-jnakamura` — [مؤسِّسو Sandplay Therapy Japan / JST] - Japanese Sandplay second generation — 🕓 مسودة
 - `thk-jnicolosi` — جوزيف نيكولوسي — 🕓 مسودة
 - `thk-jnorcross` — جون نوركروس — 🕓 مسودة
+- `thk-john-bradshaw` — جون برادشو — 🕓 مسودة
 - `thk-john-braithwaite` — جون برايثوايت — 🕓 مسودة
+- `thk-john-cacioppo` — جون كاسيوبو — 🕓 مسودة
+- `thk-john-damascene` — يوحنا الدمشقي — 🕓 مسودة
 - `thk-john-friedman` — جون فريدمان — 🕓 مسودة
+- `thk-john-gray` — جون غراي — 🕓 مسودة
 - `thk-john-lippmann` — جون ليبمان — 🕓 مسودة
 - `thk-johnmcintosh` — جون ماكنتوش — ✅ معتمد
 - `thk-johnshlien` — جون شلين — 🕓 مسودة
 - `thk-jonahlewis` — جونا ليرر — ✅ معتمد
 - `thk-jonas` — هانز يوناس — ✅ معتمد
+- `thk-jonathan-haidt` — جوناثان هايدت — 🕓 مسودة
 - `thk-jonathanbaylin` — جوناثان بايلن — 🕓 مسودة
 - `thk-jones` — إرنست جونز — 🕓 مسودة
 - `thk-jordan` — جوديث جوردان — 🕓 مسودة
+- `thk-jordan-peterson` — جوردان بيترسون — 🕓 مسودة
 - `thk-jose-arsenio` — خوسيه أرسينيو — 🕓 مسودة
 - `thk-jose-salgado` — خوسيه سالغادو — 🕓 مسودة
 - `thk-joseph-barber` — جوزيف باربر — ✅ معتمد
+- `thk-joseph-murphy` — جوزيف ميرفي — 🕓 مسودة
 - `thk-josephtrimble` — جوزيف ترايمبل — ✅ معتمد
 - `thk-josselson` — روثلين جوسلسون — ✅ معتمد
 - `thk-jparrh` — جون بار — 🕓 مسودة
@@ -778,6 +921,8 @@
 - `thk-jsteiner` — جون شتاينر — 🕓 مسودة
 - `thk-jteasdale` — جون تيزديل — 🕓 مسودة
 - `thk-jtolman` — جينيفر تولمان — 🕓 مسودة
+- `thk-judah-halevi` — يهوذا اللاوي (أبو الحسن) — 🕓 مسودة
+- `thk-judson-brewer` — جودسون بروير — 🕓 مسودة
 - `thk-julierawlins` — جولي رولينز — 🕓 مسودة
 - `thk-jung` — كارل غوستاف يونغ — 🕓 مسودة
 - `thk-jwatson` — جون ب. واتسون — 🕓 مسودة
@@ -792,7 +937,10 @@
 - `thk-jzinker` — جوزيف زِنكِر — 🕓 مسودة
 - `thk-kaarlokeranen` — كارلو كيرانن — 🕓 مسودة
 - `thk-kafka` — فرانز كافكا — ✅ معتمد
+- `thk-kahneman` — دانيال كانمان — 🕓 مسودة
 - `thk-kalff` — دورا كالف — ✅ معتمد
+- `thk-kant` — إيمانويل كانط — 🕓 مسودة
+- `thk-kapila` — كابيلا (مؤسس سامخيا) — 🕓 مسودة
 - `thk-kardiner` — أبرام كاردينر — 🕓 مسودة
 - `thk-karsavin` — ليف كارسافين — ✅ معتمد
 - `thk-kashan` — كيران عاشان — 🕓 مسودة
@@ -812,12 +960,14 @@
 - `thk-kelley` — تشارلز كيلي — 🕓 مسودة
 - `thk-kelleycolleen` — كولين كيلي — 🕓 مسودة
 - `thk-kelly-george` — جورج ألكسندر كيلي — 🕓 مسودة
+- `thk-ken-blanchard` — كين بلانشارد — 🕓 مسودة
 - `thk-kernberg` — أوتو كيرنبرغ — 🕓 مسودة
 - `thk-kets` — مَنفرِد كِتس دي فريس — 🕓 مسودة
 - `thk-kevin-sparger` — كيفن سپارجر — 🕓 مسودة
 - `thk-kfeeney` — كيم فيني — 🕓 مسودة
 - `thk-kfrank` — كينيث فرانك — 🕓 مسودة
 - `thk-kgergen` — كينيث جيرغن — 🕓 مسودة
+- `thk-kgodel` — كورت غودل — 🕓 مسودة
 - `thk-kgolding` — كيم غولدنغ — 🕓 مسودة
 - `thk-kgwilson` — كِلّي غ. ويلسون — 🕓 مسودة
 - `thk-khan` — مسعود خان — 🕓 مسودة
@@ -825,6 +975,7 @@
 - `thk-khorney` — كارين هُورْني — 🕓 مسودة
 - `thk-kierkegaard` — سورين كيركيغارد — ✅ معتمد
 - `thk-kimkwansung` — كيم كوان-سونغ — 🕓 مسودة
+- `thk-kimmerer` — روبن وال كيميرير — 🕓 مسودة
 - `thk-kimura` — بين كيمورا — ✅ معتمد
 - `thk-king` — بيرل كينغ — 🕓 مسودة
 - `thk-kkambon` — كوبِي كامبون — 🕓 مسودة
@@ -854,10 +1005,12 @@
 - `thk-krishnamurti` — جيدو كريشنامورتي — 🕓 مسودة
 - `thk-kristeva` — جوليا كريستيفا — 🕓 مسودة
 - `thk-kristin-buss` — كريستين بَس — ✅ معتمد
+- `thk-kristin-neff` — كريستين نيف — 🕓 مسودة
 - `thk-krug` — أورا كروغ — ✅ معتمد
 - `thk-kruger-marielle` — مارييل كروغر — 🕓 مسودة
 - `thk-kspence` — ك. و. سبنس — 🕓 مسودة
 - `thk-kstinshoff` — كلاوس شتينشوف — 🕓 مسودة
+- `thk-kubler-ross` — إليزابيث كوبلر-روس — 🕓 مسودة
 - `thk-kuhn` — رولاند كون — ✅ معتمد
 - `thk-kunkel` — فريتز كونكل — 🕓 مسودة
 - `thk-kunzli` — فريتز كونزلي — 🕓 مسودة
@@ -874,6 +1027,7 @@
 - `thk-langdridge` — دارين لانغريدج — ✅ معتمد
 - `thk-langer` — سوزان لانغر — ✅ معتمد
 - `thk-langle` — ألفريد لانغله — ✅ معتمد
+- `thk-laozi` — لاو تزو (لاو دان) — 🕓 مسودة
 - `thk-laplanche` — جان لابلانش — 🕓 مسودة
 - `thk-laron` — لويس أَرون — 🕓 مسودة
 - `thk-larrynims` — لاري نيمز — 🕓 مسودة
@@ -892,8 +1046,10 @@
 - `thk-ldesalvo` — لويز دي سالفو — 🕓 مسودة
 - `thk-lebovici` — سيرج لوبوفيتشي — 🕓 مسودة
 - `thk-leehyungjun` — لي هيونغ-جون — 🕓 مسودة
+- `thk-leibniz` — غوتفريد فيلهلم لايبنتز — 🕓 مسودة
 - `thk-leifer` — رونالد لايفر — ✅ معتمد
 - `thk-leijssen` — ميا لايسن — ✅ معتمد
+- `thk-leopold` — ألدو ليوبولد — 🕓 مسودة
 - `thk-lequier` — جول لوكييه — ✅ معتمد
 - `thk-levenson` — إدغار ليفنسون — ✅ معتمد
 - `thk-levinas` — إيمانويل ليفيناس — ✅ معتمد
@@ -905,9 +1061,11 @@
 - `thk-lhoffman` — لين هوفمان — ✅ معتمد
 - `thk-lholzman` — لويز هولزمان — 🕓 مسودة
 - `thk-lhubbard` — ل. رون هوبارد — 🕓 مسودة
+- `thk-liang-shuming` — ليانغ شو مينغ — 🕓 مسودة
 - `thk-lieberman` — ألسي ليبرمان (باتريسيا) — 🕓 مسودة
 - `thk-lifton` — روبرت جاي ليفتون — ✅ معتمد
 - `thk-lindatuhiwai` — ليندا توهيواي سميث — 🕓 مسودة
+- `thk-lindsay-gibson` — ليندسي جيبسون — 🕓 مسودة
 - `thk-linton` — رالف لينتون — 🕓 مسودة
 - `thk-lkohlberg` — لورنس كولبرغ — 🕓 مسودة
 - `thk-lkuhn` — ليندا كون — 🕓 مسودة
@@ -918,13 +1076,16 @@
 - `thk-lmorrnah` — إبراهام كاوانيوآ — 🕓 مسودة
 - `thk-lmunro` — لويز مونرو — 🕓 مسودة
 - `thk-lmyers` — ليندا جيمس مايرز — 🕓 مسودة
+- `thk-locke` — جون لوك — 🕓 مسودة
 - `thk-loewald` — هانز لوفالد — 🕓 مسودة
 - `thk-loewenstein` — رودولف لوفينشتاين — 🕓 مسودة
 - `thk-lonan` — لورينا أونان — 🕓 مسودة
 - `thk-lopezpedraza` — رافائيل لوبيز-بيدراثا — 🕓 مسودة
 - `thk-lorange` — دونا أَورَنْج — 🕓 مسودة
+- `thk-lorde` — أودري لورد — 🕓 مسودة
 - `thk-lorr` — ليونارد أور — 🕓 مسودة
 - `thk-louise-guerney` — لويس غيرني — ✅ معتمد
+- `thk-louise-hay` — لويز هاي — 🕓 مسودة
 - `thk-lovaas` — إيفار لوفاس — ✅ معتمد
 - `thk-lowen` — ألكسندر لوين — 🕓 مسودة
 - `thk-lowinsky` — ناعومي روث لوينسكي — 🕓 مسودة
@@ -934,28 +1095,37 @@
 - `thk-lroszak` — ثيرون روزاك — 🕓 مسودة
 - `thk-lschultz` — لويس شولتز — ✅ معتمد
 - `thk-lstaples` — لورنس ستاپلز — 🕓 مسودة
+- `thk-lu-jiuyuan` — لو جيو يوان — 🕓 مسودة
 - `thk-luijpen` — فيلهلموس لايتبن — ✅ معتمد
 - `thk-lukacs` — جورج لوكاش — ✅ معتمد
 - `thk-lukas` — إليزابيث لوكاس — ✅ معتمد
 - `thk-lvdpost` — لورنز فان دير بوست — 🕓 مسودة
 - `thk-lwalker` — لورا ووكر — 🕓 مسودة
+- `thk-lwittgenstein` — لودفيغ فيتغنشتاين — 🕓 مسودة
 - `thk-lwynne` — ليمن وين — ✅ معتمد
 - `thk-m-amatos` — ماريّا أميليا ماتوس — 🕓 مسودة
 - `thk-ma-rosario-alfelor` — ماريا روساريو ألفيلور — 🕓 مسودة
 - `thk-machado` — أنطونيو ماتشادو — ✅ معتمد
+- `thk-macintyre` — ألاسدير ماكنتاير — 🕓 مسودة
+- `thk-mackinnon` — كاثرين ماك كينون — 🕓 مسودة
 - `thk-macquarrie` — جون ماكواري — ✅ معتمد
 - `thk-maddis` — مايكل إي. آديس — 🕓 مسودة
 - `thk-madeleine-sandberg` — مادلين ساندبرغ — 🕓 مسودة
 - `thk-madelung` — إيفا مادلينغ — ✅ معتمد
+- `thk-madhva` — مادهافا (دفايتا فيدانتا) — 🕓 مسودة
 - `thk-madinier` — غابرييل مادينييه — ✅ معتمد
 - `thk-maeder` — ألفونس مايدر — 🕓 مسودة
 - `thk-maharishi` — مهارشي ماهيش يوغي — 🕓 مسودة
+- `thk-mahavira` — ماهاڤيرا (مؤسس الجاينية) — 🕓 مسودة
 - `thk-mahfouz` — نجيب محفوظ — ✅ معتمد
 - `thk-mahoney` — ماريان ماهونِي — 🕓 مسودة
+- `thk-maimonides` — موسى بن ميمون (رمبام) — 🕓 مسودة
 - `thk-mainieri` — لينا ماينييري — ✅ معتمد
 - `thk-mandolfi` — ماورو أندولفي — 🕓 مسودة
+- `thk-mani` — ماني (مؤسس المانوية) — 🕓 مسودة
 - `thk-mann` — كريستين مان — 🕓 مسودة
 - `thk-mannoni` — أوكتاف مانوني — ✅ معتمد
+- `thk-mao-zedong` — ماو تسي تونغ — 🕓 مسودة
 - `thk-marcel` — غابرييل مارسِل — ✅ معتمد
 - `thk-marciamarx` — مارسيا ماركس — 🕓 مسودة
 - `thk-marcuse` — هربرت ماركوزه — ✅ معتمد
@@ -966,12 +1136,15 @@
 - `thk-mariannekline` — ماريان كلاين — 🕓 مسودة
 - `thk-mariellekruger` — ماري كروغر — ✅ معتمد
 - `thk-marisaberkouwer` — ماريسا بيركوور — 🕓 مسودة
+- `thk-mark-manson` — مارك مانسون — 🕓 مسودة
 - `thk-mark-santross` — مارك سانتروس — 🕓 مسودة
 - `thk-markrees` — مارك ريس — 🕓 مسودة
 - `thk-markwelch` — مارك ويلش — 🕓 مسودة
 - `thk-marlan` — ستانتون مارلان — 🕓 مسودة
 - `thk-marodriguez` — ميغيل أنخيل رودريغيث — 🕓 مسودة
 - `thk-marshall` — ويليام مارشال — 🕓 مسودة
+- `thk-marshall-rosenberg` — مارشال روزنبرغ — 🕓 مسودة
+- `thk-marx` — كارل ماركس — 🕓 مسودة
 - `thk-mary-elmquist` — ماري إلمكويست — 🕓 مسودة
 - `thk-mary-guthrie` — ماري غوثري — 🕓 مسودة
 - `thk-mary-stewart` — ماري ستيوارت — 🕓 مسودة
@@ -980,15 +1153,23 @@
 - `thk-masaaki-takahashi` — ماساكي تاكاهاشي — 🕓 مسودة
 - `thk-maslow` — أبراهام ماسلو — ✅ معتمد
 - `thk-masondurie` — ماسون دوري — 🕓 مسودة
+- `thk-masson-oursel` — بول-لويس ماسون-أورسيل — 🕓 مسودة
 - `thk-mathew` — مايكل ماثيوز — 🕓 مسودة
+- `thk-matthew-walker` — ماثيو ووكر — 🕓 مسودة
+- `thk-maturidi` — أبو منصور محمد بن محمد الماتريدي — 🕓 مسودة
+- `thk-maximus-confessor` — مكسيموس المعترف — 🕓 مسودة
+- `thk-maxwell-maltz` — ماكسويل مالتز — 🕓 مسودة
 - `thk-may` — رولو ماي — ✅ معتمد
 - `thk-mayeroff` — ميلتون مايروف — ✅ معتمد
+- `thk-mazdak` — مزدك — 🕓 مسودة
 - `thk-mbadri` — مالك البدري — 🕓 مسودة
 - `thk-mbalint` — مايكل بالِنت — 🕓 مسودة
 - `thk-mbauman` — مارغريت باومان — 🕓 مسودة
+- `thk-mbembe` — أشيل مبيمبي — 🕓 مسودة
 - `thk-mbillig` — مايكل بيليغ — 🕓 مسودة
 - `thk-mbogenschutz` — مايكل بوغِنشوتس — 🕓 مسودة
 - `thk-mbowen` — موراي بوين — 🕓 مسودة
+- `thk-mbuber` — مارتن بُبَر — 🕓 مسودة
 - `thk-mc-jones` — ماري كوفر جونز — 🕓 مسودة
 - `thk-mccullough` — جيمس ب. ماكولوغ الابن — 🕓 مسودة
 - `thk-mchace` — ماريان تشيس — 🕓 مسودة
@@ -1001,11 +1182,15 @@
 - `thk-meckberg` — ماريانا إيكبيرغ — 🕓 مسودة
 - `thk-meharding` — ماري إستر هاردينغ — 🕓 مسودة
 - `thk-meichenbaum` — دونالد ميشينباوم — 🕓 مسودة
+- `thk-meister-eckhart` — مايستر إيكهارت — 🕓 مسودة
 - `thk-meitingon` — ماكس إيتِنغون — 🕓 مسودة
+- `thk-mel-robbins` — ميل روبنز — 🕓 مسودة
 - `thk-melanie-segall` — ميلاني سيغال — 🕓 مسودة
 - `thk-melissaschaefer` — ميليسا شيفر — 🕓 مسودة
 - `thk-meltzer` — دونالد ميلتزر — 🕓 مسودة
+- `thk-mencius` — منسيوس (منغ زي) — 🕓 مسودة
 - `thk-mendelowitz` — روبرت مينديلويتز — ✅ معتمد
+- `thk-mendelssohn` — موسى مندلسون — 🕓 مسودة
 - `thk-merickson` — ميلتون إريكسون — 🕓 مسودة
 - `thk-merleau-ponty` — موريس مرلو-بونتي — ✅ معتمد
 - `thk-merton` — توماس ميرتون — ✅ معتمد
@@ -1019,6 +1204,7 @@
 - `thk-mgriffiths` — مارك غريفيثز — 🕓 مسودة
 - `thk-mharris` — ماكسين هاريس — 🕓 مسودة
 - `thk-mhbrousse` — ماري-هيلين بروس — 🕓 مسودة
+- `thk-mhenry` — ميشيل هنري — 🕓 مسودة
 - `thk-mhickey` — مارغريت هيكي — 🕓 مسودة
 - `thk-mhorwitz` — ماريانو هورفيتس — 🕓 مسودة
 - `thk-mhosokawa` — ميتشيو هوسوكاوا — 🕓 مسودة
@@ -1030,11 +1216,16 @@
 - `thk-michael-yarp` — مايكل يارب — 🕓 مسودة
 - `thk-michaelsweeting` — مايكل سويتنغ — 🕓 مسودة
 - `thk-michio-mizuno` — ميتشيو ميزونو — 🕓 مسودة
+- `thk-mignolo` — والتر مينيولو — 🕓 مسودة
+- `thk-miguel-ruiz` — دون ميغيل رويز — 🕓 مسودة
+- `thk-mill` — جون ستيوارت ميل — 🕓 مسودة
 - `thk-mimordino-yang` — ماري هيلين إيموردينو-يانغ — 🕓 مسودة
 - `thk-mingshengli` — لي مينغ شنغ — 🕓 مسودة
 - `thk-minkowski` — أوجين مينكوفسكي — ✅ معتمد
 - `thk-minopaulin` — مينو بولين — 🕓 مسودة
 - `thk-minsungkil` — مين سونغ-كيل — 🕓 مسودة
+- `thk-mir-damad` — ميرداماد (محمد باقر الأسترآبادي) — 🕓 مسودة
+- `thk-mitch-albom` — ميتش ألبوم — 🕓 مسودة
 - `thk-mitchell` — ستيفن ميتشل — 🕓 مسودة
 - `thk-mithoefer` — مايكل ميثوفر — 🕓 مسودة
 - `thk-mjohnson` — ماثيو جونسون — 🕓 مسودة
@@ -1060,16 +1251,21 @@
 - `thk-mmithoefer` — مايكل ميثوفير — 🕓 مسودة
 - `thk-mnascimento` — ماي ناسيمينتو — 🕓 مسودة
 - `thk-mnaumburg` — مارغريت نومبورغ — 🕓 مسودة
+- `thk-mneurath` — أوتو نورات — 🕓 مسودة
 - `thk-mnichols` — مايكل نيكولز — 🕓 مسودة
 - `thk-mnitsun` — موريس نيتسون — 🕓 مسودة
 - `thk-moacanin` — سلافيكا موكانين — 🕓 مسودة
+- `thk-mohanty` — شاندرا موهانتي — 🕓 مسودة
 - `thk-mojastrasser` — لوتشيا مويا-شتراسر — ✅ معتمد
+- `thk-montesquieu` — مونتسكيو — 🕓 مسودة
 - `thk-moreno` — يعقوب ليفي مورينو — 🕓 مسودة
 - `thk-morin` — تشارلز م. مورين — 🕓 مسودة
 - `thk-morne` — مارتن أورن — 🕓 مسودة
 - `thk-moss` — دونالد موس — ✅ معتمد
+- `thk-mou-zongsan` — مو تسونغ سان — 🕓 مسودة
 - `thk-mounier` — إيمانويل مونييه — ✅ معتمد
 - `thk-moustakas` — كلارك موستاكاس — ✅ معتمد
+- `thk-mozi` — مو زي (مو دي) — 🕓 مسودة
 - `thk-mparlett` — مالكولم بارلِت — 🕓 مسودة
 - `thk-mpbargreen` — ماري بيندر غرين — 🕓 مسودة
 - `thk-mperelman` — مارشال بِرِلمان — 🕓 مسودة
@@ -1094,6 +1290,8 @@
 - `thk-mtsai` — مافيس تساي — 🕓 مسودة
 - `thk-mtselvini` — ماتيو سيلفيني — 🕓 مسودة
 - `thk-mtutufurth` — مافو توتو فان فورث — 🕓 مسودة
+- `thk-muhammad-abduh` — محمد عبده (الإمام) — 🕓 مسودة
+- `thk-mulla-sadra` — ملا صدرا الشيرازي (صدر الدين الشيرازي) — 🕓 مسودة
 - `thk-murphy` — غاردنر ميرفي — ✅ معتمد
 - `thk-muruwwa` — حسين مروة — ✅ معتمد
 - `thk-mvanmanen` — ماكس فان مانن — 🕓 مسودة
@@ -1113,8 +1311,14 @@
 - `thk-myuen` — مون يوِن — 🕓 مسودة
 - `thk-nackerman` — ناثان أكرمان — 🕓 مسودة
 - `thk-nadin` — ميهاي نادين — ✅ معتمد
+- `thk-nagarjuna` — ناغارجونا (مؤسس مادهياماكا) — 🕓 مسودة
 - `thk-nagel` — توماس ناغل — ✅ معتمد
+- `thk-nanak` — غورو ناناك (مؤسس السيخية) — 🕓 مسودة
 - `thk-nancy-harness` — نانسي هارنِس — 🕓 مسودة
+- `thk-napoleon-hill` — نابليون هيل — 🕓 مسودة
+- `thk-nasir-khusraw` — ناصر خسرو قباديانى — 🕓 مسودة
+- `thk-nasir-tusi` — نصير الدين الطوسي (الخواجة نصير) — 🕓 مسودة
+- `thk-nassim-taleb` — نسيم نيقولا طالب — 🕓 مسودة
 - `thk-natanson` — موريس ناتانسون — ✅ معتمد
 - `thk-navarro` — فيديريكو نافارو — 🕓 مسودة
 - `thk-nazrin` — نَثَان هـ. أزّرين — 🕓 مسودة
@@ -1122,6 +1326,7 @@
 - `thk-nbustos` — نوربيرتو بوستوس — 🕓 مسودة
 - `thk-nchomsky` — نعوم تشومسكي — ✅ معتمد
 - `thk-nealmiller` — نيل ميلّر — 🕓 مسودة
+- `thk-nedra-tawwab` — نيدرا غلوفر تواب — 🕓 مسودة
 - `thk-neimeyer` — روبرت نيماير — ✅ معتمد
 - `thk-nepstein` — نِكولاس إبستين — 🕓 مسودة
 - `thk-neumann` — إريك نيومان — 🕓 مسودة
@@ -1135,21 +1340,29 @@
 - `thk-nishitani` — كيجي نيشيتاني — ✅ معتمد
 - `thk-njacobson` — نيل س. جاكوبسون — 🕓 مسودة
 - `thk-nkhanna` — نيخيل خانا — 🕓 مسودة
+- `thk-nkrumah` — كوامي نكروما — 🕓 مسودة
 - `thk-nlehrman` — ناثانئيل لِرمان — 🕓 مسودة
 - `thk-nmanganyi` — نْيلسون مَغَنْي — 🕓 مسودة
 - `thk-nmiller` — ويليام ميلر (William R. Miller) — 🕓 مسودة
+- `thk-norman-vincent-peale` — نورمان فنسنت بيل — 🕓 مسودة
 - `thk-novaco` — ريموند و. نوفاكو — 🕓 مسودة
+- `thk-nozick` — روبرت نوزيك — 🕓 مسودة
 - `thk-npeseschkian` — نصرت بيسشكيان — 🕓 مسودة
 - `thk-npetry` — نانسي م. بيتري — 🕓 مسودة
 - `thk-nrogers` — ناتالي روجرز — 🕓 مسودة
 - `thk-nsugiyama` — نَأوكو سُوگييامَا — 🕓 مسودة
+- `thk-nussbaum` — مارثا نوسباوم — 🕓 مسودة
 - `thk-nwatanabe` — نوبو واتانابي — 🕓 مسودة
+- `thk-oapel` — كارل-أوتو آبل — 🕓 مسودة
 - `thk-oaverderese` — أولغا فِرْدِرِيس — 🕓 مسودة
 - `thk-obecker` — أوسكار بيكر — ✅ معتمد
 - `thk-ogilvie` — بروس أوكيف — 🕓 مسودة
+- `thk-oliver-burkeman` — أوليفر بوركمان — 🕓 مسودة
+- `thk-oliver-sacks` — أوليفر ساكس — 🕓 مسودة
 - `thk-opfister` — أوسكار بفِسْتَر — 🕓 مسودة
 - `thk-ormijares` — أوسكار رودريغيث ميجاريس — 🕓 مسودة
 - `thk-ornstein` — بول ه. أورنشتاين — 🕓 مسودة
+- `thk-orsigen` — أوريجانوس — 🕓 مسودة
 - `thk-ortega` — خوسيه أورتيجا إي جاسيت — ✅ معتمد
 - `thk-osilver` — أولغا سيلفرشتاين — 🕓 مسودة
 - `thk-ottofenichel` — أوتو فينيشل — 🕓 مسودة
@@ -1163,13 +1376,17 @@
 - `thk-park` — كريستال بارك — ✅ معتمد
 - `thk-parkjongik` — بارك جونغ-إيك — 🕓 مسودة
 - `thk-pascal` — بليز باسكال — ✅ معتمد
+- `thk-patanjali` — باتانجالي (مؤسس اليوغا الكلاسيكية) — 🕓 مسودة
 - `thk-patdeegan` — بات ديغان — 🕓 مسودة
+- `thk-pateman` — كارول بيتمان — 🕓 مسودة
 - `thk-patocka` — يان باتوتشكا — ✅ معتمد
 - `thk-patrice-de-marco` — باتريس دي ماركو — 🕓 مسودة
+- `thk-paul-ekman` — بول إيكمان — 🕓 مسودة
 - `thk-paul-thorne` — بول ثورن — 🕓 مسودة
 - `thk-paulgthomas` — بول جي. توماس — ✅ معتمد
 - `thk-paulholmes` — بول هولمز — 🕓 مسودة
 - `thk-paz` — أوكتافيو باث — ✅ معتمد
+- `thk-pbenacerraf` — بول بناسراف — 🕓 مسودة
 - `thk-pberry` — باتريشيا بيري — 🕓 مسودة
 - `thk-pbooth` — فيلس بوث — 🕓 مسودة
 - `thk-pcaplan` — بولا كابلان — ✅ معتمد
@@ -1177,14 +1394,19 @@
 - `thk-pchodron` — بيما تشُدرُن — 🕓 مسودة
 - `thk-pdeegan` — باتريشا ديجان — 🕓 مسودة
 - `thk-peg-pender` — بيغ پيندر — 🕓 مسودة
+- `thk-peirce` — تشارلز ساندرز بيرس — 🕓 مسودة
 - `thk-pekkajokinen` — بيكا يوكينن — 🕓 مسودة
 - `thk-penelopeeast` — بينيلوبي إيست — 🕓 مسودة
 - `thk-penny-lewis` — بيني لويس — ✅ معتمد
 - `thk-peperzak` — أدريان بيبرزاك — ✅ معتمد
 - `thk-peta-stapleton` — بيتا ستاپلتون — 🕓 مسودة
 - `thk-peter-clough` — بيتر كلاف — 🕓 مسودة
+- `thk-peter-levine` — بيتر ليفين — 🕓 مسودة
+- `thk-peter-singer` — بيتر سينغر — 🕓 مسودة
 - `thk-peterkellermann` — بيتر كيلرمان — 🕓 مسودة
 - `thk-petersmith` — بيتر سميث — 🕓 مسودة
+- `thk-petrarca` — فرانشيسكو بترارك — 🕓 مسودة
+- `thk-pfeyerabend` — بول فايرابند — 🕓 مسودة
 - `thk-pfisher` — بيتر فيشر — 🕓 مسودة
 - `thk-pfonel` — بيتر فونيغي — 🕓 مسودة
 - `thk-pfreire` — بَاولُو فْرِير — 🕓 مسودة
@@ -1192,13 +1414,19 @@
 - `thk-pgasser` — بيتر غَسَر — 🕓 مسودة
 - `thk-pgilbert` — بول جيلبرت — 🕓 مسودة
 - `thk-pgodfrey` — بيتر غودفري — 🕓 مسودة
+- `thk-pgrice` — هربرت باول غرايس — 🕓 مسودة
 - `thk-pguerin` — فيليب غيرين — 🕓 مسودة
 - `thk-phackney` — بي. كيت هَكْني — 🕓 مسودة
 - `thk-phcollins` — باتريشا هيل كولينز — 🕓 مسودة
+- `thk-philip-zimbardo` — فيليب زيمباردو — 🕓 مسودة
 - `thk-philippe-cunningham` — فيليب كَننغهام — 🕓 مسودة
+- `thk-philo` — فيلو الإسكندري (فيلون) — 🕓 مسودة
+- `thk-philo-alexandria` — فيلون الإسكندري — 🕓 مسودة
+- `thk-pico` — جيوفاني بيكو della ميراندولا — 🕓 مسودة
 - `thk-pierrakos` — جون س. بيراكوس — 🕓 مسودة
 - `thk-pipitea` — مايكل بيبيتي — 🕓 مسودة
 - `thk-pknill` — باولو نيل — 🕓 مسودة
+- `thk-pkuhn` — توماس كون — 🕓 مسودة
 - `thk-plangevin` — روني لانجفان — 🕓 مسودة
 - `thk-plevine` — بيتر ليفين — 🕓 مسودة
 - `thk-plotinus` — أفلوطين — ✅ معتمد
@@ -1214,7 +1442,11 @@
 - `thk-pridgway` — باتريسيا رِدجوِي — 🕓 مسودة
 - `thk-pritz` — ألويس بريتز — ✅ معتمد
 - `thk-prochaska` — جيمس بروتشاسكا — 🕓 مسودة
+- `thk-proudhon` — بيير جوزيف برودون — 🕓 مسودة
+- `thk-pseudo-dionysius` — ديونيسيوس المجهول (المُنتحل / الإله الزائف) — 🕓 مسودة
+- `thk-psinger` — بيتر سنغر — 🕓 مسودة
 - `thk-pslade` — بيتر سليد — 🕓 مسودة
+- `thk-ptahhotep` — بتاح حتب — 🕓 مسودة
 - `thk-ptedeschi` — رافائيل تيدِسكي — 🕓 مسودة
 - `thk-pteilhard` — بيار تيار دي شاردان — 🕓 مسودة
 - `thk-puysgur` — ماركيز دي بويزيغور — 🕓 مسودة
@@ -1222,23 +1454,29 @@
 - `thk-pwehman` — بول ويهَمان — 🕓 مسودة
 - `thk-pyszczynski` — توم بيسزينسكي — ✅ معتمد
 - `thk-qualls-corbett` — نانسي كوالز-كوربت — 🕓 مسودة
+- `thk-rachel-heller` — راشيل هيلر — 🕓 مسودة
 - `thk-rackoff` — راسل أكوف — 🕓 مسودة
+- `thk-radhakrishnan` — سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي) — 🕓 مسودة
 - `thk-rado` — ثيودور رادو — 🕓 مسودة
 - `thk-rafaeli-eyth` — رافائيل إيدث — 🕓 مسودة
 - `thk-raknes` — أولا راكنيس — 🕓 مسودة
 - `thk-raltezor` — روبرتو آلتِزور — 🕓 مسودة
+- `thk-ramanuja` — رامانوجا (فيشيشتادفايتا) — 🕓 مسودة
 - `thk-ramsden` — رينيه رامسدن — 🕓 مسودة
 - `thk-randystabler` — راندي ستابلر — 🕓 مسودة
 - `thk-rank` — أوتو رانك — ✅ معتمد
 - `thk-raphael` — د. د. رافائيل — ✅ معتمد
+- `thk-rawls` — جون رولز — 🕓 مسودة
 - `thk-rbandler` — ريتشارد بَندلر — 🕓 مسودة
 - `thk-rbarkley` — راسِل باركلي — 🕓 مسودة
 - `thk-rbauer` — روبرت باور — 🕓 مسودة
 - `thk-rbenenzon` — رولاندو بنِنسون — 🕓 مسودة
 - `thk-rborum` — راندي بوروم — 🕓 مسودة
+- `thk-rbrandom` — روبرت براندوم — 🕓 مسودة
 - `thk-rbritton` — رونالد بِرِتن — 🕓 مسودة
 - `thk-rcallahan` — روجر كالاهان — 🕓 مسودة
 - `thk-rcarhart-harris` — روبن كارهارت-هاريس — 🕓 مسودة
+- `thk-rcarnap` — رودولف كارناب — 🕓 مسودة
 - `thk-rcarson` — راشيل كارسون — 🕓 مسودة
 - `thk-rcasals` — راميرو كاسالس — 🕓 مسودة
 - `thk-rcermak` — شارون سيرماك — 🕓 مسودة
@@ -1262,8 +1500,11 @@
 - `thk-rhanson` — ر. كارل هانسون — 🕓 مسودة
 - `thk-rhassan` — رفة حسن — 🕓 مسودة
 - `thk-rherrnstein` — ريتشارد سيرنشتاين — 🕓 مسودة
+- `thk-rhonda-byrne` — روندا بايرن — 🕓 مسودة
 - `thk-rhooton` — راندي هوتون — 🕓 مسودة
 - `thk-rice` — روبرت رايس — 🕓 مسودة
+- `thk-richard-schwartz` — ريتشارد شوارتز — 🕓 مسودة
+- `thk-rick-hanson` — ريك هانسون — 🕓 مسودة
 - `thk-rick-levy` — ريك ليفي — 🕓 مسودة
 - `thk-ricoeur` — بول ريكور — ✅ معتمد
 - `thk-rizzo` — ألبرت «سكيب» ريزو — 🕓 مسودة
@@ -1293,17 +1534,23 @@
 - `thk-rmosak` — روبرت موشارك — 🕓 مسودة
 - `thk-rmritchie` — رالف ميتزner — 🕓 مسودة
 - `thk-rmwashburn` — مايكل واشبورن — 🕓 مسودة
+- `thk-robert-bolton` — روبرت بولتون — 🕓 مسودة
 - `thk-robert-burgess` — روبرت بَرجِس — 🕓 مسودة
 - `thk-robert-cornelis` — روبرت كورنليس — 🕓 مسودة
 - `thk-robert-emery` — روبرت إيميري — 🕓 مسودة
+- `thk-robert-greene` — روبرت غرين — 🕓 مسودة
+- `thk-robert-kegan` — روبرت كيغان — 🕓 مسودة
 - `thk-robert-rotella` — روبرت روتيلا — 🕓 مسودة
+- `thk-robert-sapolsky` — روبرت سابولسكي — 🕓 مسودة
 - `thk-robertduvall` — روبرت دوفال — 🕓 مسودة
 - `thk-robertelliott` — روبرت إليوت — 🕓 مسودة
 - `thk-robertfritz` — روبرت فريتز — 🕓 مسودة
+- `thk-robin-sharma` — روبين شارما — 🕓 مسودة
 - `thk-rogers` — كارل روجرز — ✅ معتمد
 - `thk-rohan-gullich` — روهان غوليتش — 🕓 مسودة
 - `thk-roland-tolentino` — رولاند تولنتينو — 🕓 مسودة
 - `thk-rollnick` — ستيفن رولنيك — 🕓 مسودة
+- `thk-ronald-siegel` — رونالد د. سيغل — 🕓 مسودة
 - `thk-rorty` — ريتشارد رورتي — ✅ معتمد
 - `thk-rosemaryalara` — روزماري أَلارا — 🕓 مسودة
 - `thk-rosenfeld` — هربرت روزنفيلد — 🕓 مسودة
@@ -1313,6 +1560,9 @@
 - `thk-rousseau` — جان جاك روسو — ✅ معتمد
 - `thk-roustang` — فرانسوا روستانغ — 🕓 مسودة
 - `thk-rowenaansbacher` — روينا ريبين آنسْباخِر — 🕓 مسودة
+- `thk-roy` — رام موهان روي — 🕓 مسودة
+- `thk-roy-baumeister` — روي باوميستر — 🕓 مسودة
+- `thk-rperry` — رالف بارتون بيرّي — 🕓 مسودة
 - `thk-rpicard` — روزاليند بيكار — 🕓 مسودة
 - `thk-rpimenta` — ريكاردو بيمينتا — 🕓 مسودة
 - `thk-rpla` — روبرتو خ. بلاث — 🕓 مسودة
@@ -1337,6 +1587,7 @@
 - `thk-rubin` — شون روبين — ✅ معتمد
 - `thk-ruilinzhou` — تشو روي-لين — 🕓 مسودة
 - `thk-rupertpriest` — روبرت بريست — 🕓 مسودة
+- `thk-russ-harris` — روس هاريس — 🕓 مسودة
 - `thk-russellrazzaque` — راسل رزّاق — 🕓 مسودة
 - `thk-rvendramini` — رِيناتا فِندْراميني — 🕓 مسودة
 - `thk-rviaro` — روبرتو فيارو — 🕓 مسودة
@@ -1347,18 +1598,24 @@
 - `thk-rwooffitt` — روبن ووفيت — 🕓 مسودة
 - `thk-rycroft` — تشارلز ريكروفت — 🕓 مسودة
 - `thk-ryle` — أنتوني رايل — 🕓 مسودة
+- `thk-saadia-gaon` — سعديا بن يوسف الفيومي (رأس جاؤون) — 🕓 مسودة
 - `thk-saathar` — شاهيد أثير — 🕓 مسودة
 - `thk-saberg-abramovitz` — أَسْترِيد بِرغ وكارول أبراموفيتش — 🕓 مسودة
 - `thk-sachs` — هانس زاكس — 🕓 مسودة
+- `thk-sadreddin-konevi` — صدر الدين القونوي — 🕓 مسودة
 - `thk-sahmed` — سارة أحمد — 🕓 مسودة
+- `thk-said` — إدوارد سعيد — 🕓 مسودة
 - `thk-salmareading` — سالما ريدنغ — 🕓 مسودة
 - `thk-salome` — لو أندرياس-سالومي — 🕓 مسودة
 - `thk-samuels` — أندرو صاموئلز — 🕓 مسودة
 - `thk-sanchez` — كارلوس ألبيرتو سانشيز — ✅ معتمد
+- `thk-sandel` — مايكل ساندل — 🕓 مسودة
+- `thk-sankara` — توماس سانكارا — 🕓 مسودة
 - `thk-sartre` — جان بول سارتر — ✅ معتمد
 - `thk-sasch` — سولومون آش — 🕓 مسودة
 - `thk-sass` — لويس ساس — ✅ معتمد
 - `thk-sathyanarayana-doreswamy` — ساتيانارايانا دورِسوامي — 🕓 مسودة
+- `thk-savarkar` — فيناياك دامودار سافاركار — 🕓 مسودة
 - `thk-savodnik` — ليونارد سافودنيك — ✅ معتمد
 - `thk-sbaum` — سكوت بوم — 🕓 مسودة
 - `thk-sbeer` — ستافورد بير — 🕓 مسودة
@@ -1378,9 +1635,12 @@
 - `thk-schutz` — ألفريد شوتز — ✅ معتمد
 - `thk-schwartzsalant` — ناثان شوارتز-سالانت — 🕓 مسودة
 - `thk-scirillo` — ستيفانو تشيريلو — 🕓 مسودة
+- `thk-scott-peck` — م. سكوت بيك — 🕓 مسودة
 - `thk-sdeshazer` — ستيف دي شيزَر — 🕓 مسودة
 - `thk-sdouglas` — سو دوغلاس — 🕓 مسودة
 - `thk-segal` — حنا سيغال — 🕓 مسودة
+- `thk-sen` — أمارتيا سين — 🕓 مسودة
+- `thk-senghor` — ليوبولد سيدار سنغور — 🕓 مسودة
 - `thk-serlin` — إيلين سيرلين — ✅ معتمد
 - `thk-seyberg` — ستيفن إيبِرغ — 🕓 مسودة
 - `thk-sferenczi` — ساندور فيرينتسي — 🕓 مسودة
@@ -1391,11 +1651,17 @@
 - `thk-sgreenspan` — ستانلي غرينسبان — 🕓 مسودة
 - `thk-sgreys` — دانيال هيوز — 🕓 مسودة
 - `thk-sgrof` — ستانيسلاف غروف — 🕓 مسودة
+- `thk-shah-waliullah` — شاه ولي الله الدهلوي — 🕓 مسودة
+- `thk-shakespeare` — توم شكسبير — 🕓 مسودة
 - `thk-shalit` — إيريل شاليت — 🕓 مسودة
 - `thk-shamdasani` — سوني شمداساني — 🕓 مسودة
+- `thk-shang-yang` — شانغ يانغ (غي وي شيانغ) — 🕓 مسودة
+- `thk-shankara` — شانكارا (أدفايتا فيدانتا) — 🕓 مسودة
 - `thk-shapiro` — فرانسين شابيرو — 🕓 مسودة
 - `thk-sharper` — سوزان هاربر — 🕓 مسودة
 - `thk-sharron-hapai` — شارون هاپاي — 🕓 مسودة
+- `thk-sheena-iyengar` — شينا إينغار — 🕓 مسودة
+- `thk-shen-buhai` — شين بو هاي — 🕓 مسودة
 - `thk-shenggeler` — سكوت هِنغلَر — 🕓 مسودة
 - `thk-shestov` — ليف شيستوف — ✅ معتمد
 - `thk-shiggins` — ستيفن تي. هيغينز — 🕓 مسودة
@@ -1403,9 +1669,11 @@
 - `thk-shneidman` — إدوين شنايدمان — ✅ معتمد
 - `thk-sicher` — ليديا سيشر — 🕓 مسودة
 - `thk-sidneyjourdan` — سيدني جورارد — 🕓 مسودة
+- `thk-siger-brabant` — سيجير دي برابانت — 🕓 مسودة
 - `thk-singer` — توماس سينغر — 🕓 مسودة
 - `thk-sjohnson` — سو جونسون — 🕓 مسودة
 - `thk-skalama` — سام كالاما — 🕓 مسودة
+- `thk-skripke` — سول كريبكي — 🕓 مسودة
 - `thk-sleclaire` — سيرج لوكليير — 🕓 مسودة
 - `thk-slevine` — ستيفن ك. ليفين — 🕓 مسودة
 - `thk-slima` — سيلفيا ليما — 🕓 مسودة
@@ -1419,21 +1687,28 @@
 - `thk-sminuchin` — سلفادور مينوشين — 🕓 مسودة
 - `thk-smitchell` — سْتِيفن مِتْشِل — 🕓 مسودة
 - `thk-smorita` — شوما موريتا — 🕓 مسودة
+- `thk-snichols` — شون نيكولز — 🕓 مسودة
 - `thk-snygg` — دونالد سنيغ — ✅ معتمد
 - `thk-socrates` — سقراط — ✅ معتمد
+- `thk-sohrevardi` — شهاب الدين يحيى السهروردي (شيخ الإشراق) — 🕓 مسودة
 - `thk-solomon` — روبرت سولومون — ✅ معتمد
 - `thk-soloveitchik` — جوزيف سولوفيتشيك — ✅ معتمد
 - `thk-soltz` — فيكي سولْتز — 🕓 مسودة
 - `thk-sothmer` — سيغفريد أوتمر — 🕓 مسودة
+- `thk-spencer` — هربرت سبنسر — 🕓 مسودة
+- `thk-spencer-johnson` — سبنسر جونسون — 🕓 مسودة
 - `thk-sperber` — مَنِس سپِربر — 🕓 مسودة
 - `thk-spiegelberg` — هربرت شبيغلبرغ — ✅ معتمد
 - `thk-spielrein` — سابينا شبيلراين — 🕓 مسودة
 - `thk-spillius` — إلِزابت بوت سپِليوس — 🕓 مسودة
 - `thk-spinelli` — إرنستو سبينيللي — ✅ معتمد
+- `thk-spinoza` — باروخ سبينوزا — 🕓 مسودة
 - `thk-spiper` — ستيفان بايبِر — 🕓 مسودة
 - `thk-spitz` — رينيه شبيتز — 🕓 مسودة
+- `thk-spivak` — غاياتري سبيفاك — 🕓 مسودة
 - `thk-sporges` — ستيفن بورجِس — 🕓 مسودة
 - `thk-srhoades` — غايلينا رودس — 🕓 مسودة
+- `thk-sri-aurobindo` — شري أوروبندو غوش — 🕓 مسودة
 - `thk-srosenberg` — ستانلي روزنبرغ — 🕓 مسودة
 - `thk-sross` — ستيفن روس — 🕓 مسودة
 - `thk-ssafran` — ستيفن م. سَافِران — 🕓 مسودة
@@ -1445,10 +1720,14 @@
 - `thk-sstanley` — سكوت ستانلي — 🕓 مسودة
 - `thk-ssterman` — ماريو ستيرمان — 🕓 مسودة
 - `thk-stanghellini` — جوفاني ستانغليني — ✅ معتمد
+- `thk-stanley-milgram` — ستانلي ميلغرام — 🕓 مسودة
 - `thk-stein` — إديث شتاين — ✅ معتمد
+- `thk-stephen-covey` — ستيفن كوفي — 🕓 مسودة
 - `thk-stephen-lankton` — ستيفن لانكتون — 🕓 مسودة
+- `thk-stephen-porges` — ستيفن بورغيس — 🕓 مسودة
 - `thk-stephen-talley` — ستيفن تالي — 🕓 مسودة
 - `thk-stephenburgess` — ستيفن بورغس — 🕓 مسودة
+- `thk-steven-pinker` — ستيفن بينكر — 🕓 مسودة
 - `thk-stevenharris-dc` — ستيفن هاريس — 🕓 مسودة
 - `thk-stig-rasmussen` — ستيغ راسموسن — 🕓 مسودة
 - `thk-stirner` — ماكس شتيرنر — ✅ معتمد
@@ -1459,8 +1738,13 @@
 - `thk-stricker` — جورج ستريكر — 🕓 مسودة
 - `thk-strindberg` — أوغست ستريندبرغ — ✅ معتمد
 - `thk-struchhold` — هوبيرتوس شتروخهولد — ✅ معتمد
+- `thk-su-qin` — سو تشين — 🕓 مسودة
+- `thk-suarez` — فرانسيسكو سواريز — 🕓 مسودة
 - `thk-sudhir-kakar` — سودير كاكار — 🕓 مسودة
 - `thk-sullivan` — هاري ستاك سوليفان — ✅ معتمد
+- `thk-sunzi` — سون تزو (سون وو) — 🕓 مسودة
+- `thk-susan-cain` — سوزان كين — 🕓 مسودة
+- `thk-susan-forward` — سوزان فوروارد — 🕓 مسودة
 - `thk-susan-koch` — سوزان كوخ — 🕓 مسودة
 - `thk-susan-tynes` — سوزان تاينز — 🕓 مسودة
 - `thk-sutich` — أنتوني سوتيتش — ✅ معتمد
@@ -1471,8 +1755,10 @@
 - `thk-syoung` — شِنزِن يانغ — 🕓 مسودة
 - `thk-szasz` — توماس ساس — ✅ معتمد
 - `thk-tachenbach` — توماس أشنباخ — 🕓 مسودة
+- `thk-tagore` — رابندراناث طاغور — 🕓 مسودة
 - `thk-takanen` — كيمو تاكانن — ✅ معتمد
 - `thk-takeshiyasumaru` — تاكيشي ياسومارو — 🕓 مسودة
+- `thk-tali-sharot` — تالي شاروت — 🕓 مسودة
 - `thk-tandersen` — توم أندرسن — 🕓 مسودة
 - `thk-tandreas` — تيريزا أندرِآس — 🕓 مسودة
 - `thk-tantam` — ديغبي تانتام — ✅ معتمد
@@ -1480,6 +1766,7 @@
 - `thk-tarnas` — ريتشارد تارناس — 🕓 مسودة
 - `thk-tatossian` — أرتور تاتوسيان — ✅ معتمد
 - `thk-tausk` — فيكتور توسك — 🕓 مسودة
+- `thk-taylor-charles` — تشارلز تايلور — 🕓 مسودة
 - `thk-tbarber` — ثيودور باربر — 🕓 مسودة
 - `thk-tbickmore` — تيموثي بيكمور — 🕓 مسودة
 - `thk-tbollas` — تِيري بُولَاس — 🕓 مسودة
@@ -1495,12 +1782,14 @@
 - `thk-tgrisso` — توماس غريسو — 🕓 مسودة
 - `thk-theinrich` — توماس هاينريش — 🕓 مسودة
 - `thk-theresaglasser` — تيريزا غلاسر — 🕓 مسودة
+- `thk-thomas-harris` — توماس أ. هاريس — 🕓 مسودة
 - `thk-thomas-sells` — توماس سيلز — 🕓 مسودة
 - `thk-thomashora` — توماس هورا — 🕓 مسودة
 - `thk-thompson` — مايكل غي طومسون — ✅ معتمد
 - `thk-thoreau` — هنري ديفيد ثورو — ✅ معتمد
 - `thk-thorndike` — إدوارد ثورنديك — 🕓 مسودة
 - `thk-tillich` — بول تيليش — ✅ معتمد
+- `thk-tim-ferriss` — تيم فيريس — 🕓 مسودة
 - `thk-timothyclanton` — تيموثي كلانتون — 🕓 مسودة
 - `thk-tisoma` — تاكيشي إيسومه — 🕓 مسودة
 - `thk-tjames` — تاد جيمس — 🕓 مسودة
@@ -1525,18 +1814,22 @@
 - `thk-trub` — هانس تروب — ✅ معتمد
 - `thk-trudakova` — تاتيانا روداكوفا — 🕓 مسودة
 - `thk-trudi-schoop` — ترودي شوپ — 🕓 مسودة
+- `thk-tscanlon` — تِم سَكَنلون — 🕓 مسودة
 - `thk-tsexton` — توني سيكستون — 🕓 مسودة
 - `thk-tshibuya` — تاكيشي شيبويا — 🕓 مسودة
 - `thk-tsilvester` — تريفور سيلفستر — 🕓 مسودة
 - `thk-tstone` — مَارْك سْتُون — 🕓 مسودة
 - `thk-tstromsted` — تينا سترومستد — 🕓 مسودة
+- `thk-ttarski` — ألفرد تارسكي — 🕓 مسودة
 - `thk-tteo` — توماس تِئو — 🕓 مسودة
 - `thk-ttolksdorf` — تيودور تولكسدورف — 🕓 مسودة
 - `thk-ttshishiku` — تِمُوتي تشيشيكو — 🕓 مسودة
 - `thk-twolff` — توني فولف — 🕓 مسودة
 - `thk-ulanov` — أَنيت وَلانوف — 🕓 مسودة
 - `thk-unamuno` — ميغيل دي أونامونو — ✅ معتمد
+- `thk-uri-gneezy` — أوري غنيزي — 🕓 مسودة
 - `thk-utelfener` — أومبيرتا تِلفِنِر — 🕓 مسودة
+- `thk-valentinus` — فالنتينوس (مؤسس الفالنتينية) — 🕓 مسودة
 - `thk-vandenberg` — يان هندريك فان دن بيرغ — ✅ معتمد
 - `thk-vandeurzen` — إيمي فان دورزن — ✅ معتمد
 - `thk-vankaam` — أدريان فان كام — ✅ معتمد
@@ -1547,7 +1840,7 @@
 - `thk-vcarrera` — فابريتسيو كَريرا — 🕓 مسودة
 - `thk-venriquez` — فيرجوليو إنريكيز — 🕓 مسودة
 - `thk-viderman` — سيرج فيدرمان — ✅ معتمد
-- `thk-vivekananda` — سوامي فيفيكاناندا — 🕓 مسودة
+- `thk-vivekananda` — سوامي فيفيكاناندا (نيو-فيدانتا) — 🕓 مسودة
 - `thk-vjohnson` — فرجينيا جونسون — 🕓 مسودة
 - `thk-vonfranz` — ماري-لويز فون فرانز — 🕓 مسودة
 - `thk-vramachandran` — فينسنت س. راماشاندران — 🕓 مسودة
@@ -1555,11 +1848,16 @@
 - `thk-vschroeter` — فينسينتيا شرودر — 🕓 مسودة
 - `thk-vtausk` — فيكتور تاوسك — 🕓 مسودة
 - `thk-wahl` — جان فال — ✅ معتمد
+- `thk-walzer` — مايكل والزر — 🕓 مسودة
 - `thk-wampold` — بروس وامبولد — ✅ معتمد
+- `thk-wang-bi` — وانغ بي — 🕓 مسودة
+- `thk-wang-yangming` — وانغ يانغ مينغ (وانغ شو رن) — 🕓 مسودة
 - `thk-wanthony` — ويليام أنتوني — 🕓 مسودة
 - `thk-wass` — هانيلوره فاس — ✅ معتمد
+- `thk-wayne-dyer` — واين داير — 🕓 مسودة
 - `thk-wbennett` — وين بينيت — 🕓 مسودة
 - `thk-wboechat` — فالتَر بُويْتشات — 🕓 مسودة
+- `thk-wdilthey` — فيلهلم دلتاي — 🕓 مسودة
 - `thk-wdoherty` — بيل دوهرتي — 🕓 مسودة
 - `thk-wdowling` — ناعيم أكبر — 🕓 مسودة
 - `thk-wdryden` — ويندي دريدن — 🕓 مسودة
@@ -1576,10 +1874,14 @@
 - `thk-widlocher` — دانييل فيدلوشِر — 🕓 مسودة
 - `thk-wikman` — مونيكا ويكمان — 🕓 مسودة
 - `thk-wild` — جون دانييل وايلد — ✅ معتمد
+- `thk-wilderson` — فرانك وايلدرسون — 🕓 مسودة
 - `thk-wilhelm` — رافائيل ويلهيلم — 🕓 مسودة
 - `thk-william-hudson` — وليام هدسون — 🕓 مسودة
+- `thk-william-ockham` — وليم الأوكامي — 🕓 مسودة
 - `thk-wilson` — كولن ويلسون — ✅ معتمد
+- `thk-wimmer` — فرانتس مارتن فيمر — 🕓 مسودة
 - `thk-winnicott` — دونالد وينيكوت — 🕓 مسودة
+- `thk-wiredu` — كواي وايردو — 🕓 مسودة
 - `thk-wiseman` — هداس وايزمان — ✅ معتمد
 - `thk-wjanzarik` — فيرنر يانتساريك — 🕓 مسودة
 - `thk-wkohler` — فولفغانغ كولَر — 🕓 مسودة
@@ -1592,14 +1894,19 @@
 - `thk-wolfe` — ثيودور ب. وولف — 🕓 مسودة
 - `thk-wong` — بول وونغ — ✅ معتمد
 - `thk-wood` — جون-ماينارد وود — ✅ معتمد
+- `thk-wquine` — ويلارد فان أورمان كواين — 🕓 مسودة
 - `thk-wrichards` — وليام ريتشاردز — 🕓 مسودة
 - `thk-wright` — ريتشارد رايت — ✅ معتمد
 - `thk-wschutz` — ويليام شوتز — 🕓 مسودة
+- `thk-wsellars` — ويلفريد سيلارز — 🕓 مسودة
 - `thk-wspaulding` — ويلِم سَبُولدِنغ — 🕓 مسودة
 - `thk-wstekel` — فيلهلم سْتِكِل — 🕓 مسودة
 - `thk-wwhite` — وليام وايت — 🕓 مسودة
 - `thk-wwood` — وايات وودسمول — 🕓 مسودة
 - `thk-wzhang` — وي تشانغ — 🕓 مسودة
+- `thk-xu-xing` — شو شينغ — 🕓 مسودة
+- `thk-xunzi` — شون تزو (شون كوانغ) — 🕓 مسودة
+- `thk-yacob` — زارا يعقوب — 🕓 مسودة
 - `thk-yalom` — إيرفين يالوم — ✅ معتمد
 - `thk-yang` — مارك يانغ — ✅ معتمد
 - `thk-ydolan` — يفون دولان — 🕓 مسودة
@@ -1617,18 +1924,23 @@
 - `thk-yvaniedmon` — إيڤاني إدمون — 🕓 مسودة
 - `thk-zambrano` — ماريا ثامبرانو — ✅ معتمد
 - `thk-zapffe` — بيتر فيسيل زابفه — ✅ معتمد
+- `thk-zarathushtra` — زرادشت (زَرَتُشْتْرَة) — 🕓 مسودة
 - `thk-zehr` — هوارد زير — 🕓 مسودة
 - `thk-zhangyalin` — تشانغ يالين — 🕓 مسودة
 - `thk-zhangyongqiang` — تشانغ يونغ تشيانغ — 🕓 مسودة
+- `thk-zhu-xi` — تشو هسي — 🕓 مسودة
+- `thk-zhuangzi` — تشوانغ تزو — 🕓 مسودة
 - `thk-zlipowski` — زبينيو ليبوفسكي — 🕓 مسودة
 - `thk-zmahmoud` — زكي نجيب محمود — ✅ معتمد
 - `thk-zmailloux` — زوي مايو — 🕓 مسودة
 - `thk-zmoreno` — زيركا مورينو — 🕓 مسودة
 - `thk-zoja` — لويجي تسويا — 🕓 مسودة
+- `thk-zou-yan` — زو يان — 🕓 مسودة
 - `thk-zsegal` — زيندل سيغال — 🕓 مسودة
 - `thk-zubiri` — خافيير ثوبيري — ✅ معتمد
+- `thk-zygmunt-bauman` — زيجمونت باومان — 🕓 مسودة
 
-## مفهوم (222)
+## مفهوم (407)
 
 - `con-aba-autism` — ABA للتوحد — 🕓 مسودة
 - `con-abstinence-vs-harm-reduction` — الامتناع الكامل مقابل الحد من الضرر — 🕓 مسودة
@@ -1637,98 +1949,179 @@
 - `con-addiction` — الإدمان والبحث الروحي المشوه — 🕓 مسودة
 - `con-addiction-model-debate` — النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن — 🕓 مسودة
 - `con-affirmative-therapy` — العلاج التأكيدي (Affirmative Therapy) — 🕓 مسودة
+- `con-agentic-state-milgram` — الحالة الوكالية والانصياع للسلطة (The Agentic State) — 🕓 مسودة
+- `con-agonism` — العداوة الديمقراطية (الأغونية) — 🕓 مسودة
+- `con-ahimsa` — أحيمسا (مبدأ اللاإيذاء) — 🕓 مسودة
 - `con-aida` — آيدا (البين-إنساني) — 🕓 مسودة
+- `con-algorithmic-bias` — التحيز الخوارزمي (Algorithmic Bias) — 🕓 مسودة
 - `con-alienation` — الاغتراب — ✅ معتمد
+- `con-alienation-marx` — الاغتراب الماركسي (Entfremdung) — 🕓 مسودة
 - `con-alienation-marxist-vs-existentialist` — الاغتراب — الماركسي مقابل الوجودي — 🕓 مسودة
 - `con-amae` — أماي (الاعتمادية الحميمية والتكامل النفسي) — 🕓 مسودة
 - `con-amour-propre-vs-amour-de-soi` — حب الذات الزائف مقابل حب الذات الطبيعي — 🕓 مسودة
+- `con-analysis-paralysis` — شلل التحليل والتردد المفرط (Analysis Paralysis) — 🕓 مسودة
 - `con-anima-animus` — الأنيما والأنيموس — 🕓 مسودة
+- `con-annihilation-of-caste` — إبادة الطبقية (Annihilation of Caste) — 🕓 مسودة
 - `con-anti-oppressive-practice` — الممارسة المناهضة للقمع — 🕓 مسودة
+- `con-antifragility` — ضد الهشاشة (النمو والازدهار عبر الصدمات والاضطراب) — 🕓 مسودة
 - `con-anxiety` — القلق — ✅ معتمد
 - `con-anxiety-existential` — القلق (المعرفي والعصبي) — ✅ معتمد
 - `con-applied-behavior-analysis` — تحليل السلوك التطبيقي (ABA) — 🕓 مسودة
 - `con-archetype` — الأركيتيب (النموذج الأصلي) — 🕓 مسودة
+- `con-as-above-so-below` — كما في الأعلى كذلك في الأسفل — 🕓 مسودة
+- `con-asha` — أشا (الحقيقة-النظام) — 🕓 مسودة
+- `con-atman` — آتْمان (النفس الفردية / الذات الحقيقية) — 🕓 مسودة
+- `con-attachment-styles-popular` — أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي) — 🕓 مسودة
 - `con-authenticity` — الأصالة — ✅ معتمد
 - `con-automatic-thought` — الأفكار التلقائية — 🕓 مسودة
 - `con-autonomy-homonomy` — الاستقلالية والهومونومي — 🕓 مسودة
+- `con-autonomy-kantian` — الاستقلالية (Autonomy) في الكانطية الأخلاقية — 🕓 مسودة
 - `con-aversion-therapy` — علاج النفور (تاريخي) — 🕓 مسودة
 - `con-ayurveda-psychology` — علم النفس الأيورفيدي — 🕓 مسودة
 - `con-bad-faith` — سوء الإيمان — ✅ معتمد
+- `con-barnum-forer-effect` — تأثير بارنوم / فورير (سيكولوجيا تصديق التوصيفات الفضفاضة والأبراج) — 🕓 مسودة
 - `con-basho-logic` — منطق المكان (Basho) — 🕓 مسودة
 - `con-behavioral-activation` — التنشيط السلوكي (مفهوم علاجي) — 🕓 مسودة
 - `con-behavioral-epilepsy` — العلاج السلوكي للصرع — 🕓 مسودة
 - `con-behavioral-medicine` — الطب السلوكي والصحة السلوكية — 🕓 مسودة
 - `con-being-toward-death` — الكينونة-نحو-الموت — ✅ معتمد
+- `con-bian` — بيان (辯) — الجدل والتمييز — 🕓 مسودة
 - `con-biosocial-dbt` — النظرية البيولوجية-الاجتماعية في DBT — 🕓 مسودة
 - `con-black-consciousness` — الوعي الأسود — 🕓 مسودة
 - `con-blind-will-to-life` — إرادة الحياة العمياء — 🕓 مسودة
+- `con-boundaries-psychological` — الحدود النفسية والعاطفية في العلاقات — 🕓 مسودة
+- `con-brahman` — براهمان (المطلق / الحقيقة الكونية) — 🕓 مسودة
+- `con-bystander-effect` — تأثير المتفرج وتشتت المسؤولية (Bystander Effect) — 🕓 مسودة
+- `con-capabilities-approach` — نهج القدرات — 🕓 مسودة
+- `con-care-ethics` — أخلاقيات الرعاية — 🕓 مسودة
 - `con-care-for-soul` — رعاية النفس — 🕓 مسودة
 - `con-caring-mayeroff` — الرعاية (Caring) عند مايروف — 🕓 مسودة
+- `con-categorical-imperative` — الأمر المطلق (Categorical Imperative) — 🕓 مسودة
 - `con-catharsis-integration` — التطهير الاندماجي (كاتارسيس مورينو) — 🕓 مسودة
 - `con-chatbot-therapeutic-alliance` — التحالف العلاجي مع chatbot — 🕓 مسودة
+- `con-chinese-verification-ism` — الشك المنهجي (Doubting-ism / 怀疑主义) — 🕓 مسودة
 - `con-choice-theory` — نظرية الاختيار (Choice Theory) — 🕓 مسودة
+- `con-chokmah-hebrew` — حُخْمَة (الحكمة العبرية) — 🕓 مسودة
+- `con-cinderella-complex` — عقدة سندريلا (الخوف الخفي من الاستقلال والاعتمادية) — 🕓 مسودة
 - `con-classical-conditioning` — الإشتراط الكلاسيكي (الإشراط البافلوفي) — 🕓 مسودة
+- `con-cogito` — الكوجيتو: أنا أفكر إذن أنا موجود — 🕓 مسودة
 - `con-cognitive-decentering` — اللامركزية المعرفية — 🕓 مسودة
 - `con-cognitive-distortion` — التشوهات المعرفية — 🕓 مسودة
 - `con-cognitive-map` — الخريطة المعرفية — 🕓 مسودة
+- `con-coloniality` — الكولونيالية (Coloniality) — 🕓 مسودة
+- `con-communitarian-self` — الذات المتجذرة — 🕓 مسودة
 - `con-community-psychology` — علم النفس المجتمعي التحرري — 🕓 مسودة
 - `con-complex` — العقدة النفسية المركبة (Complex) — 🕓 مسودة
 - `con-conditions-of-worth` — شروط القبول والقيمة — 🕓 مسودة
+- `con-confirmation-bias` — انحياز التأكيد (البحث الانتقائي عما يثبت المعتقد المسبق) — 🕓 مسودة
 - `con-confucian-self` — الذات الكونفوشيوسية — 🕓 مسودة
 - `con-conscientization-paulo-freire` — الوعي النقدي (Conscientização) — 🕓 مسودة
 - `con-conversion-therapy-harm` — ضرر العلاج بالتحويل — 🕓 مسودة
+- `con-cosmopolitanism` — المواطنة الكونية (الكوزموبوليتية) — 🕓 مسودة
 - `con-creative-block` — الانسداد الإبداعي — 🕓 مسودة
 - `con-critical-liberation-therapy` — العلاج النقدي-التحرري — 🕓 مسودة
 - `con-cross-cultural-psychoanalysis` — التحليل النفسي العابر للثقافات — 🕓 مسودة
 - `con-cultural-complex` — المركّب الثقافي والظلال الجمعية — 🕓 مسودة
 - `con-cultural-psychoanalysis` — التحليل النفسي الثقافي — 🕓 مسودة
 - `con-cultural-unconscious` — اللاوعي الثقافي — 🕓 مسودة
+- `con-cyborg` — الكائن الهجين (Cyborg) — 🕓 مسودة
+- `con-dao` — الداو (道) — المبدأ الكوني — 🕓 مسودة
 - `con-dasein-analysis` — تحليل الدازاين (Daseinsanalysis) — 🕓 مسودة
+- `con-datsuzoku` — الانفصال عن السلطة (Datsuzoku 脱俗) — 🕓 مسودة
 - `con-dbt-validation` — استراتيجيات الصلاحية (Validation) في DBT — 🕓 مسودة
 - `con-death` — الموت — ✅ معتمد
 - `con-death-instinct` — غريزة الموت والدافع التدميري للتحول — 🕓 مسودة
+- `con-deep-vs-shallow` — الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep) — 🕓 مسودة
+- `con-deep-work` — العمل العميق (التركيز المعرفي المكثف في العصر الرقمي) — 🕓 مسودة
+- `con-deliberative-democracy` — الديمقراطية التداولية — 🕓 مسودة
+- `con-demirge` — الديميرجوس (صانع العالم المادي) — 🕓 مسودة
 - `con-demythologization` — نزع الأسطورة — 🕓 مسودة
 - `con-derived-relational-responding` — الاستجابة العلائقية المشتقة — 🕓 مسودة
+- `con-devekut` — الديفيقوت (الالتصاق الإلهي) — 🕓 مسودة
 - `con-device-paradigm` — نموذج الجهاز — 🕓 مسودة
 - `con-dgap` — الجمعية الألمانية لعلم النفس التحليلي (DGAP) — 🕓 مسودة
 - `con-dialectical-abstinence` — الامتناع الجدلي — 🕓 مسودة
+- `con-dialectics` — الجدلية (Dialektik) — 🕓 مسودة
 - `con-dichotomy-of-control` — ثنائية التحكم — 🕓 مسودة
+- `con-different-voice` — الصوت المختلف (In a Different Voice) — 🕓 مسودة
 - `con-discernment-counseling` — الاستشارة التمييزية (Discernment Counseling) — 🕓 مسودة
+- `con-divine-illumination` — الإشراق الإلهي (نظرية المعرفة الأوغسطينية) — 🕓 مسودة
 - `con-dream-interpretation` — تفسير الأحلام والتضخيم الأركيتيبي — 🕓 مسودة
+- `con-dreamtime` — الزمن الأحلام (Dreamtime / Tjukurrpa) — 🕓 مسودة
 - `con-drive-reduction` — نظرية خفض الدافع — 🕓 مسودة
+- `con-dunbars-number` — رقم دانبار (الحد البيولوجي والمعرفي للشبكة الاجتماعية 150) — 🕓 مسودة
+- `con-dunning-kruger-effect` — تأثير دانينغ–كروغر (وهم المعرفة وثقة غير الأكفاء) — 🕓 مسودة
 - `con-dynamic-couple-family` — العلاج الديناميكي للأزواج والأسرة — 🕓 مسودة
+- `con-ecology-of-freedom` — إيكولوجيا الحرية (Ecology of Freedom) — 🕓 مسودة
 - `con-ecopsychoanalysis` — التحليل النفسي البيئي — 🕓 مسودة
 - `con-ecstatic-moment` — اللحظة النشواتية وجماليات الأركيتيب — 🕓 مسودة
+- `con-ego-depletion` — استنزاف الأنا ونفاذ طاقة قوة الإرادة (Ego Depletion) — 🕓 مسودة
 - `con-ego-self` — محور الأنا–الذات — 🕓 مسودة
+- `con-electra-complex` — عقدة إلكترا (النظير الأنثوي لعقدة أوديب في علم النفس التحليلي) — 🕓 مسودة
+- `con-emanation-islamic` — الفيض الإلهي (المشائية الإسلامية) — 🕓 مسودة
+- `con-emerald-tablet` — لوح الزمرد (Tabula Smaragdina) — 🕓 مسودة
+- `con-emotional-blackmail` — الابتزاز العاطفي وثالوث الضباب (FOG: الخوف والالتزام والذنب) — 🕓 مسودة
+- `con-emotional-immaturity-parents` — اللاتنضج العاطفي الوالدي والإهمال غير المرئي — 🕓 مسودة
+- `con-emunah` — الإيمان (إيمونا) كحالة وجودية — 🕓 مسودة
+- `con-eternal-return` — العودة الأبدية (Ewige Wiederkehr) — 🕓 مسودة
 - `con-ethics` — الأخلاق في التحليلية والممارسة السريرية — 🕓 مسودة
 - `con-evolutionary-psychoanalysis` — التحليل النفسي التطوري/النمائي — 🕓 مسودة
+- `con-existence-existentialism` — الوجودية (Existence) في الفلسفة الوجودية — 🕓 مسودة
 - `con-existential-guilt-ontological` — الذنب الأنطولوجي — ✅ معتمد
+- `con-existential-risk` — الخطر الوجودي (Existential Risk) — 🕓 مسودة
 - `con-existential-vacuum` — الفراغ الوجودي — ✅ معتمد
 - `con-experiential-avoidance` — التجنب التجريبي — 🕓 مسودة
 - `con-experiential-focusing` — التركيز التجريبي (Experiential Focusing) — 🕓 مسودة
 - `con-exposure-habituation` — التعود بالتعرض — 🕓 مسودة
+- `con-fa` — الفا (法) — القانون الموضوعي — 🕓 مسودة
 - `con-facilitated-communication-failure` — فشل التواصل المُسهَّل — 🕓 مسودة
 - `con-false-self-vs-true-self` — الذات المزيفة مقابل الذات الحقيقية — 🕓 مسودة
 - `con-family-sandplay` — علاج الأسر الرملية — 🕓 مسودة
+- `con-fate-mohist` — نفي القدر في الموهية — 🕓 مسودة
 - `con-fear` — الخوف — ✅ معتمد
 - `con-felt-sense` — الإحساس الجسدي المُحسَّس (Felt Sense) — 🕓 مسودة
 - `con-feminine-principle` — المبدأ الأنثوي وتجسيد الجسد — 🕓 مسودة
 - `con-feminist-psychoanalysis` — التحليل النفسي النسوي — 🕓 مسودة
+- `con-five-love-languages` — لغات الحب الخمس (الأطر التعبيرية في العلاقات) — 🕓 مسودة
+- `con-five-second-rule` — قاعدة الخمس ثوانٍ (كسر التسويف والتردد السلوكي) — 🕓 مسودة
+- `con-five-stages-of-grief` — مراحل الحزن الخمس (نموذج كوبلر–روس DABDA) — 🕓 مسودة
 - `con-flow-csikszentmihalyi` — التدفق (Flow) — 🕓 مسودة
+- `con-flow-state-popular` — حالة التدفق الذهني والاستغراق (Flow State) — 🕓 مسودة
 - `con-focal-practices` — الممارسات المحورية — 🕓 مسودة
+- `con-fogg-behavior-model` — نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP) — 🕓 مسودة
+- `con-four-agreements` — الاتفاقيات الأربع (مصفوفة التحرر النفسي والسلام الداخلي) — 🕓 مسودة
 - `con-four-fundamentals-langle` — الشروط الأربعة الأساسية للتحليل الوجودي (لانغله) — 🕓 مسودة
 - `con-four-principles-ogden` — المبادئ الأربعة للوظيفة الذهنية (أوغدن) — 🕓 مسودة
+- `con-framing-effect` — تأثير التأطير المعرفي واللغوي (Framing Effect) — 🕓 مسودة
 - `con-freedom` — الحرية — ✅ معتمد
 - `con-fully-functioning-person` — الشخصية العاملة بكامل طاقتها (Fully Functioning Person) — 🕓 مسودة
 - `con-functional-contextualism` — السياقية الوظيفية — 🕓 مسودة
+- `con-functionalism-mind` — الوظيفية في فلسفة العقل — 🕓 مسودة
+- `con-fundamental-attribution-error` — خطأ العزو الأساسي (عزو تصرفات الآخرين لطباعهم وتصرفاتنا للظروف) — 🕓 مسودة
 - `con-fundamental-existential-motivations` — الدوافع الوجودية الأربعة الأساسية — 🕓 مسودة
+- `con-gaslighting-popular` — التلاعب بالعقول والتضليل النفسي في الثقافة الشعبية (Gaslighting) — 🕓 مسودة
+- `con-gelassenheit` — التسليم (Gelassenheit) — التخلي عن الإرادة — 🕓 مسودة
+- `con-gender-performativity` — أداء النوع (الجنوسة الأدائية) — 🕓 مسودة
+- `con-gestell` — الإطار (Gestell) — 🕓 مسودة
+- `con-getting-things-done-gtd` — منهجية إنجاز المهام وتفريغ العقل (GTD Methodology) — 🕓 مسودة
+- `con-gnosis` — الغنوصية (المعرفة الخلاصية) — 🕓 مسودة
+- `con-god-complex` — عقدة الإله (وهم العصمة والقدرة المطلقة) — 🕓 مسودة
 - `con-goddess` — أركيتيبات الإلهات والصور الداخلية — 🕓 مسودة
 - `con-grail` — أسطورة الكأس المقدسة (الغرال) — 🕓 مسودة
 - `con-great-mother` — أركيتيب الأم الكبرى — 🕓 مسودة
 - `con-grief` — الحزن كمسار للتفريد — 🕓 مسودة
 - `con-guilt` — الذنب — ✅ معتمد
 - `con-habit-strength` — قوة العادة (sHr) — 🕓 مسودة
+- `con-halo-horns-effect` — تأثير الهالة وتأثير القرن (انحياز التعميم الانطباعي) — 🕓 مسودة
 - `con-han-korean` — هان (Han، 한) — 🕓 مسودة
+- `con-hawthorne-effect` — تأثير هوثورن (تعديل السلوك الإنساني تحت وطأة الملاحظة) — 🕓 مسودة
+- `con-hedonic-treadmill` — جهاز المشي اللذائذي والتكيف مع السعادة (Hedonic Treadmill) — 🕓 مسودة
+- `con-hermeneutic-circle` — الدائرة الهرمنيوطيقية (Hermeneutic Circle) — 🕓 مسودة
+- `con-hezong` — الاستراتيجيات الدبلوماسية (合纵-连横) — 🕓 مسودة
+- `con-highly-sensitive-person` — الشخص عالي الحساسية (حساسية المعالجة الحسية HSP) — 🕓 مسودة
+- `con-hindsight-bias` — انحياز الإدراك المتأخر (وهم 'كنت أعلم ذلك طوال الوقت') — 🕓 مسودة
+- `con-hindutva` — هندوتفا (الهندوسية كقومية) — 🕓 مسودة
+- `con-historical-materialism` — المادية التاريخية (Historischer Materialismus) — 🕓 مسودة
 - `con-ho-oponopono` — هو-أوبونوبونو (Ho'oponopono) — 🕓 مسودة
 - `con-hwabyung-concept` — الهوابيونغ (مفهوم ثقافي) — 🕓 مسودة
 - `con-hypnotic-suggestibility` — القابلية للإيحاء التنويمي — 🕓 مسودة
@@ -1736,69 +2129,122 @@
 - `con-iaap-history` — تاريخ وتطور الجمعية الدولية لعلم النفس التحليلي (IAAP) — 🕓 مسودة
 - `con-iching` — كتاب التحوّلات (I Ching) والتزامن — 🕓 مسودة
 - `con-id-psychotherapy` — العلاج النفسي للإعاقات الذهنية — 🕓 مسودة
+- `con-inferiority-superiority-complex` — عقدة النقص وعقدة التفوق (دينامية التعويض في علم النفس الفردي) — 🕓 مسودة
+- `con-inner-child-popular` — الطفل الداخلي في علم النفس الشعبي والعلاجي — 🕓 مسودة
 - `con-inner-experience` — الخبرة الباطنية القصوى — 🕓 مسودة
+- `con-intentionality` — القصدية (Intentionalität) — 🕓 مسودة
+- `con-interculturality` — البين-ثقافية (Interkulturalität) — 🕓 مسودة
+- `con-internal-family-systems-popular` — أنظمة الأسرة الداخلية (تعددية النفس والذات الشافية IFS) — 🕓 مسودة
 - `con-international-jungian` — عولمة التحليلية والمؤسسات الدولية — 🕓 مسودة
 - `con-interpersonal-unconscious` — اللاوعي بين الأشخاص — 🕓 مسودة
 - `con-intersectional-feminism` — علم النفس النسوي التقاطعي — 🕓 مسودة
-- `con-intersectionality` — التقاطعية (Intersectionality) — 🕓 مسودة
+- `con-intersectionality` — التقاطعية — 🕓 مسودة
 - `con-intersubjectivity` — البين-ذاتية (Intersubjectivity) — 🕓 مسودة
+- `con-ironic-process-theory` — نظرية المعالجة الارتدادية (تأثير الدب الأبيض وقمع الأفكار) — 🕓 مسودة
+- `con-isfet` — إسفت (الفوضى / اللا-تناغم) — 🕓 مسودة
 - `con-isolation` — العزلة — ✅ معتمد
 - `con-jealousy-envy` — الغيرة والحسد — ✅ معتمد
 - `con-jeong-korean` — جونغ (Jeong، 정) — 🕓 مسودة
+- `con-jianai` — جيان آي (兼愛) — الإحسان الشامل — 🕓 مسودة
+- `con-jonah-complex` — عقدة يونان (الخوف من العظمة والهروب من أقصى الإمكانات) — 🕓 مسودة
 - `con-jouissance` — اللذّة (Jouissance) — 🕓 مسودة
 - `con-journal-method` — منهج اليوميات المكثف — 🕓 مسودة
+- `con-karma-philosophy` — كارما (الفعل وعواقبه) — 🕓 مسودة
 - `con-kaupapa-maori` — كاوبابا ماوري (Kaupapa Māori) — 🕓 مسودة
+- `con-lady-macbeth-effect` — تأثير الليدي ماكبث والتطهر الجسدي من الذنب الأخلاقي — 🕓 مسودة
+- `con-land-ethic` — أخلاق الأرض (Land Ethic) — 🕓 مسودة
 - `con-latent-learning` — التعلم الكامن — 🕓 مسودة
+- `con-law-of-attraction-popular` — قانون الجذب (الشبيه يجذب شبيهه في علم النفس الشعبي) — 🕓 مسودة
 - `con-law-of-effect` — قانون الأثر — 🕓 مسودة
+- `con-li` — اللي (禮) — الطقس والأدب — 🕓 مسودة
+- `con-liangzhi` — الحدس الأخلاقي (良知 liángzhī) — 🕓 مسودة
+- `con-lived-body` — الجسد المعيش (Leib vs. Körper) — 🕓 مسودة
+- `con-logos-philo` — اللوغوس (الكلمة الإلهية) عند فيلو — 🕓 مسودة
+- `con-loss-aversion` — كراهية الخسارة وتفضيل تجنب الألم على كسب المكاسب — 🕓 مسودة
 - `con-loss-natural-evidence` — فقدان البداهة الطبيعية — 🕓 مسودة
+- `con-lucifer-effect` — تأثير لوسيفر وسيكولوجيا الشر المؤسسي (The Lucifer Effect) — 🕓 مسودة
+- `con-maat` — ماعت (التناغم الكوني) — 🕓 مسودة
+- `con-madonna-whore-complex` — عقدة مادونا–العاهرة (انشطار الرغبة والاحترام في العلاقات) — 🕓 مسودة
 - `con-makoto-naka-ima` — ماكوتو / ناكا-إيما — 🕓 مسودة
 - `con-marsha-acceptance-change` — جدلية القبول والتغيير في العلاج الزوجي — 🕓 مسودة
+- `con-martyr-complex` — عقدة الشهيد والضحية المزمنة (استثمار المعاناة لفرض السيطرة) — 🕓 مسودة
 - `con-matching-law` — قانون التطابق — 🕓 مسودة
+- `con-maya-vedanta` — مايا (الوهم الفلسفي / الظهور الكوني) — 🕓 مسودة
 - `con-meaning` — المعنى واللامعنى — ✅ معتمد
 - `con-mediterranean-emotion-regulation` — التأمل العلاجي عبر-الثقافي — 🕓 مسودة
+- `con-melammu` — ميلمو (البهاء الإلهي) — 🕓 مسودة
 - `con-mentalization` — الانعكاس الذهني (Mentalization) — 🕓 مسودة
+- `con-mere-exposure-effect` — تأثير التعرض المحض (الألفة والانجذاب عبر التكرار) — 🕓 مسودة
 - `con-midlife` — أزمة منتصف العمر والمرور الأوسط — 🕓 مسودة
 - `con-mindfulness` — اليقظة الذهنية (Mindfulness) — 🕓 مسودة
+- `con-misinformation-effect-loftus` — تأثير التضليل وقابلية الذاكرة للتعديل (Misinformation Effect) — 🕓 مسودة
 - `con-modeling` — النمذجة (التعلم بالملاحظة) — 🕓 مسودة
 - `con-modern-conflict` — نظرية الصراع الحديث (Modern Conflict Theory) — 🕓 مسودة
 - `con-moi-peau` — الأنا-جلد (Moi-Peau) — 🕓 مسودة
+- `con-monad` — المونادات (Monades) — 🕓 مسودة
 - `con-motivational-spirit` — روح المقابلة التحفيزية (MI Spirit) — 🕓 مسودة
 - `con-mutual-empathy` — التمكين والتعاطف المتبادل (Mutual Empathy) — 🕓 مسودة
+- `con-myth-of-given` — خرافة المعطيات (Myth of the Given) — 🕓 مسودة
 - `con-name-of-father` — اسم الأب (Nom-du-Père) — 🕓 مسودة
+- `con-natural-law` — القانون الطبيعي — 🕓 مسودة
+- `con-negative-attributes` — الصفات السلبية (Via Negativa) — 🕓 مسودة
+- `con-neidan` — التاوية الداخلية (内丹 nèidān) — 🕓 مسودة
 - `con-neo-freudian` — الفرويدية الجديدة (Neo-Freudian) — 🕓 مسودة
 - `con-neurodiversity-affirming` — الإرشاد المؤيد للتنوع العصبي — 🕓 مسودة
 - `con-neuropsychoanalysis` — التحليل النفسي العصبي (Neuropsychoanalysis) — 🕓 مسودة
 - `con-neurosis-historical-framework` — العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية — 🕓 مسودة
+- `con-new-democracy` — الديمقراطية الجديدة (New Democracy) — 🕓 مسودة
+- `con-no-miracle-argument` — حجة المعجزة (No-Miracle Argument) — 🕓 مسودة
+- `con-nonviolent-communication` — التواصل غير العنيف (لغة التعاطف وفض النزاعات NVC) — 🕓 مسودة
 - `con-objet-petit-a` — موضوع الرغبة الصغير a (objet petit a) — 🕓 مسودة
 - `con-observing-ego` — الأنا المراقِبة في التحليلية — 🕓 مسودة
+- `con-occasionalism-ashari` — العناية الإلهية (العرضية عند الأشعري) — 🕓 مسودة
+- `con-oedipus-complex` — عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي) — 🕓 مسودة
 - `con-operant-conditioning` — الإشتراط الإجرائي (الإشراط السكينري) — 🕓 مسودة
+- `con-optimism-bias-concept` — انحياز التفاؤل الفطري للدماغ (The Optimism Bias) — 🕓 مسودة
+- `con-orientalism` — الاستشراق (Orientalism) — 🕓 مسودة
 - `con-overcontrol` — الضبط المفرط (Overcontrol) — 🕓 مسودة
 - `con-para-existential` — الوجود البارونيكي / الجمالي — 🕓 مسودة
+- `con-paradox-of-choice` — مفارقة الاختيار وشلل القرار (Paradox of Choice) — 🕓 مسودة
+- `con-parallelism-philosophy` — التّوازيات الفلسفية (Philosophical Parallelism) — 🕓 مسودة
 - `con-parapsychology` — ما وراء علم النفس والظواهر الخارقة — 🕓 مسودة
+- `con-parkinsons-law` — قانون باركنسون (تمدد العمل ليملأ كامل الوقت المتاح) — 🕓 مسودة
 - `con-past-life-regression` — استرجاع ذكريات الحياة السابقة — 🕓 مسودة
+- `con-patriarchy` — النظام الأبوي (البطريركية) — 🕓 مسودة
 - `con-peak-experience` — خبرة الذروة (Peak Experience) — 🕓 مسودة
+- `con-peter-pan-complex` — عقدة / متلازمة بيتر بان (عدم النضج والهروب من المسؤولية) — 🕓 مسودة
+- `con-political-liberalism` — الإجماع المتداخل — 🕓 مسودة
 - `con-political-psyche` — النفس السياسية والنفس التعددية — 🕓 مسودة
 - `con-political-psychoanalysis` — التحليل النفسي السياسي — 🕓 مسودة
+- `con-polyvagal-theory-popular` — السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder) — 🕓 مسودة
 - `con-positive-existentialism` — الوجودية الإيجابية — 🕓 مسودة
 - `con-post-christian` — اللاوعي ما بعد المسيحي — 🕓 مسودة
 - `con-postcolonial-psychoanalysis` — التحليل النفسي بعد الكولونيالي — 🕓 مسودة
+- `con-prakriti` — پرَكْرِتِي (الطبيعة / الجوهر المادي الأول) — 🕓 مسودة
+- `con-pratfall-effect` — تأثير الهفوة / السقوط الرشيق (الجاذبية الإنسانية لارتكاب الأخطاء) — 🕓 مسودة
 - `con-pre-performance-routine` — الطقوس السابقة للأداء — 🕓 مسودة
 - `con-primal-pain` — الألم البدائي — 🕓 مسودة
 - `con-primary-self` — الذات الأولية والتفكك التكاملي — 🕓 مسودة
 - `con-process-constructivism` — النظرية البنائية للعملية (Process Constructivism) — 🕓 مسودة
+- `con-prophetic-philosophy` — الفلسفة النبوية (نقد العقل الفلسفي لصالح الوحي) — 🕓 مسودة
 - `con-prt-pivotal-response` — علاج المحاور (PRT) — 🕓 مسودة
 - `con-psychache` — الألم النفسي الوجودي غير المحتمل — 🕓 مسودة
 - `con-psychiatric-reform` — الإصلاح النفسي الإنساني — 🕓 مسودة
 - `con-psychoeducation` — التثقيف النفسي (Psychoeducation) — 🕓 مسودة
 - `con-psychological-type` — الأنماط النفسية والوظائف المعرفية — 🕓 مسودة
 - `con-psychotherapy-process` — العملية العلاجية والتعاون الوجودي — 🕓 مسودة
+- `con-pure-experience-nishida` — التجربة الخالصة (Pure Experience) — 🕓 مسودة
+- `con-purusha` — پورُشَا (الوعي / الروح المفارقة) — 🕓 مسودة
+- `con-pygmalion-golem-effect` — تأثير بيغماليون وتأثير غوليم (النبوءة المحققة لذاتها للتوقعات) — 🕓 مسودة
 - `con-quality-world` — العالم النوعي (Quality World) — 🕓 مسودة
 - `con-queer-psychoanalysis` — التحليل النفسي الكويري — 🕓 مسودة
+- `con-queer-theory` — النظرية الكويرية — 🕓 مسودة
 - `con-race-culturally-aware-therapy` — العلاج المراعي للعرق والثقافة — 🕓 مسودة
 - `con-radical-healing` — الشفاء الجذري — 🕓 مسودة
 - `con-rat-park` — تجربة Rat Park — 🕓 مسودة
 - `con-real-symbolic-imaginary` — الثلاثي الحقيقي-الرمزي-المتخيل (RSI) — 🕓 مسودة
 - `con-reciprocal-inhibition` — التثبيط المتبادل — 🕓 مسودة
+- `con-recognition-struggle` — الاعتراف (النضال من أجله) — 🕓 مسودة
 - `con-recovered-memory-controversy` — الجدل حول الذاكرة المُستعادة — 🕓 مسودة
 - `con-recovery-model` — نموذج التعافي (Recovery) — 🕓 مسودة
 - `con-reinforcement-schedule` — جداول التعزيز — 🕓 مسودة
@@ -1806,31 +2252,63 @@
 - `con-relation` — العلاقة واللقاء — ✅ معتمد
 - `con-relational-frame-theory` — نظرية إطار العلاقات (RFT) — 🕓 مسودة
 - `con-relational-matrix` — المصفوفة العلائقية (Relational Matrix) — 🕓 مسودة
+- `con-relationality-indigenous` — العلاقية (Relationality) — 🕓 مسودة
 - `con-relearning-the-world` — إعادة تعلم العالم بعد الفقد — 🕓 مسودة
+- `con-ren` — الرن (仁) — الإنسانية الرحيمة — 🕓 مسودة
+- `con-republican-freedom` — الحرية الجمهورية (الحرية كعدم تبع) — 🕓 مسودة
 - `con-responsibility` — المسؤولية — ✅ معتمد
 - `con-restorative-justice` — العدالة التصالحية — 🕓 مسودة
 - `con-risk-need-responsivity` — مبدأ المخاطرة والحاجة والاستجابة — 🕓 مسودة
 - `con-sacred-prostitute` — أركيتيب البغي المقدسة (الهيتيرا) — 🕓 مسودة
 - `con-sadness` — الحزن — ✅ معتمد
+- `con-samsara` — سامسارا (دورة الوجود / التَناسُخ) — 🕓 مسودة
 - `con-sangoma-zulu` — السانغوما (Sangoma) — العلاج الزولوي التقليدي — 🕓 مسودة
+- `con-sankofa` — سانكوفا (Sankofa) — العودة إلى الجذور — 🕓 مسودة
+- `con-satyagraha` — ساتياغراها (قوة الحقيقة) — 🕓 مسودة
+- `con-savior-complex` — عقدة المخلّص ومتلازمة الفارس الأبيض (الإنقاذ القهري للآخرين) — 🕓 مسودة
+- `con-scarcity-mindset` — عقلية الندرة وعبء النطاق الترددي المعرفي — 🕓 مسودة
 - `con-schizophrenia` — الفصام وانشقاق الشخصية (بلويلر) — 🕓 مسودة
+- `con-sefirot` — السفيرة (الصفات الإلهية العشر) — 🕓 مسودة
 - `con-self-actualization` — تحقيق الذات (Self-Actualization) — 🕓 مسودة
 - `con-self-efficacy` — الكفاءة الذاتية (الذاتية المدركة) — 🕓 مسودة
+- `con-self-ownership` — الحق الذاتي (ملكية الذات) — 🕓 مسودة
+- `con-self-serving-bias` — انحياز خدمة الذات وتبرير الفشل (Self-Serving Bias) — 🕓 مسودة
+- `con-sense-datum` — البيانات الحسية (Sense-Datum) — 🕓 مسودة
+- `con-sense-vs-reference` — المعنى مقابل المحمول (Sinn vs. Bedeutung) — 🕓 مسودة
 - `con-sensory-integration` — التكامل الحسي (نظرية عيرز) — 🕓 مسودة
+- `con-seven-habits` — العادات السبع للفاعلية والنمو الشخصي — 🕓 مسودة
+- `con-sexual-difference` — الاختلاف الجنسي — 🕓 مسودة
 - `con-sexual-response-cycle` — دورة الاستجابة الجنسية — 🕓 مسودة
 - `con-shame-asian` — الخزي/الخجل في الثقافات الآسيوية — 🕓 مسودة
 - `con-shame-guilt` — الخزي والذنب — ✅ معتمد
 - `con-shame-self-criticism` — الخزي ونقد الذات — 🕓 مسودة
+- `con-shu` — الشو (術) — التكنيك الإداري — 🕓 مسودة
+- `con-shunyata` — شُونْياتا (الفراغ / العدمية الجوهرية) — 🕓 مسودة
 - `con-single-session-mindset` — عقلية الجلسة الواحدة — 🕓 مسودة
+- `con-six-thinking-hats` — قبعات التفكير الست (التفكير المتوازي وإدارة الاجتماعات) — 🕓 مسودة
 - `con-social-learning` — نظرية التعلم الاجتماعي — 🕓 مسودة
+- `con-social-model-disability` — النموذج الاجتماعي للإعاقة (Social Model) — 🕓 مسودة
+- `con-social-pain` — الألم الاجتماعي وتطابق دوائر الألم الجسدي في الدماغ — 🕓 مسودة
 - `con-social-skills` — المهارات الاجتماعية (تدريب) — 🕓 مسودة
+- `con-somatic-experiencing-popular` — التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing) — 🕓 مسودة
 - `con-somnambulism-hypnosis` — الغشية العميقة (سومنامبوليزم تنويمي) — 🕓 مسودة
 - `con-soul` — النفس وصنع النفس — 🕓 مسودة
+- `con-speciesism` — تخصيص النوع (Speciesism) — 🕓 مسودة
+- `con-spotlight-effect` — تأثير بقعة الضوء (المبالغة في تقدير انتباه الآخرين لأخطائنا) — 🕓 مسودة
+- `con-standpoint-epistemology` — إبستمولوجيا الموقع (الموقف) — 🕓 مسودة
+- `con-status-anxiety-concept` — قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety) — 🕓 مسودة
 - `con-stimulus-control` — التحكم بالمنبّهات (علاج) — 🕓 مسودة
 - `con-strategic-intervention` — التدخل الاستراتيجي (Strategic Intervention) — 🕓 مسودة
 - `con-structured-teaching-teacch` — التدريس المنظم (Structured Teaching) — 🕓 مسودة
+- `con-subaltern` — التابع (Subaltern) — 🕓 مسودة
+- `con-substance-accident` — الجوهر والعرض (Substance / Accident) — 🕓 مسودة
+- `con-sunk-cost-fallacy` — مغالطة التكلفة الغارقة (التمسك بالخسائر والخيارات الفاشلة) — 🕓 مسودة
 - `con-supported-employment` — التوظيف المدعوم (Supported Employment) — 🕓 مسودة
+- `con-supramental` — ما فوق الذهن (Supramental) — 🕓 مسودة
+- `con-surplus-in-man` — الزيادة في الإنسان (Surplus in Man) — 🕓 مسودة
+- `con-surplus-value` — فائض القيمة (Mehrwert) — 🕓 مسودة
 - `con-systematic-desensitization` — إزالة التحسس المنهجي — 🕓 مسودة
+- `con-tabula-rasa` — اللوح الفارغ (Tabula Rasa) — 🕓 مسودة
 - `con-taijin-kyofusho-concept` — تاي جين كيو فوشو (مفهوم ثقافي) — 🕓 مسودة
 - `con-taoist-cognitive-therapy-concept` — العلاج المعرفي الطاوي (Taoist Cognitive Therapy) — 🕓 مسودة
 - `con-te-whare-tapa-wha` — تي-فاري-تابا-فا (Te Whare Tapa Whā) — 🕓 مسودة
@@ -1840,31 +2318,70 @@
 - `con-tibetan-buddhism` — البوذية التبتية والتحليل النفسي — 🕓 مسودة
 - `con-tibetan-tantra` — التنترا التبتية والرمزية الأركيتيبية — 🕓 مسودة
 - `con-time` — الزمن — ✅ معتمد
+- `con-toxic-positivity` — الإيجابية السامة (إنكار المشاعر الصعبة والإلزام بالتفاؤل) — 🕓 مسودة
 - `con-trauma` — الصدمة النفسية في التحليلية — 🕓 مسودة
 - `con-triadic-reciprocal-determinism` — الحتمية التبادلية الثلاثية — 🕓 مسودة
+- `con-trinity-doctrine` — عقيدة الثالوث (الآب والابن والروح القدس) — 🕓 مسودة
+- `con-tzimtzum` — القبض الإلهي (تيمتسوم) — 🕓 مسودة
 - `con-ubuntu` — أوبونتو (Ubuntu) — 🕓 مسودة
 - `con-unconditional-positive-regard` — التقبل الإيجابي غير المشروط (Unconditional Positive Regard) — 🕓 مسودة
+- `con-universals-debate` — جدل الكليات (مشكلة الكُنْه) — 🕓 مسودة
 - `con-unrepresented-experience` — الخبرة غير المُمثّلة (Unrepresented Experience) — 🕓 مسودة
 - `con-utilization-principle` — مبدأ الاستفادة — 🕓 مسودة
 - `con-valkyrie` — أركيتيب الفالكيري والمحاربة الأنثوية — 🕓 مسودة
+- `con-veil-ignorance` — حجاب الجهل — 🕓 مسودة
 - `con-verbal-behavior-vb` — السلوك اللفظي (Verbal Behavior / VB) — 🕓 مسودة
+- `con-verification-principle` — مبدأ التحقق — 🕓 مسودة
 - `con-voucher-based-reinforcement` — التعزيز المعتمد على القسائم — 🕓 مسودة
+- `con-wahdat-al-wujud` — وحدة الوجود — 🕓 مسودة
 - `con-will-to-meaning` — الإرادة في المعنى (Will to Meaning) — 🕓 مسودة
+- `con-will-to-power` — إرادة القوة (Wille zur Macht) — 🕓 مسودة
 - `con-word-association` — تجربة تداعي الكلمات (الارتباط اللفظي) — 🕓 مسودة
+- `con-wuwei` — الوو وي (無為) — عدم الفعل الإجباري — 🕓 مسودة
+- `con-wuwei-huanglao` — الوو وي السياسي (عدم الفعل الإداري) في هوانغ-لاو — 🕓 مسودة
+- `con-wuxing` — الدورات الخمس (五行 wǔxíng) — 🕓 مسودة
+- `con-yerkes-dodson-law` — قانون يركيز–دودسون (العلاقة المنحنية بين التوتر والأداء) — 🕓 مسودة
+- `con-yin-yang` — الين-يانغ (陰陽) — التقابل الكوني — 🕓 مسودة
 - `con-yoga-therapy-concept` — علاج اليوغا (Yoga Therapy) — 🕓 مسودة
+- `con-zeigarnik-effect` — تأثير زيغارنيك (قوة تذكر المهام المفتوحة وغير المنجزة) — 🕓 مسودة
+- `con-zheng-ming` — تشنغ مينغ (正名) — تصحيح الأسماء — 🕓 مسودة
+- `con-zhenren` — الرجل الحقيقي (真人 zhēnrén) — 🕓 مسودة
+- `con-zhixing-heyi` — الوحدة بين المعرفة والفعل (知行合一) — 🕓 مسودة
+- `con-ziran` — الزُو ران (自然) — ما يكون من ذاته — 🕓 مسودة
+- `con-zurvan` — زروان (الزمن المطلق / القدر) — 🕓 مسودة
 
-## عمل / كتاب (129)
+## عمل / كتاب (298)
 
+- `wrk-12-rules-for-life` — 12 قاعدة للحياة: ترياق للفوضى — 🕓 مسودة
+- `wrk-48-laws-of-power` — 48 قانوناً للقوة — 🕓 مسودة
+- `wrk-5-am-club` — نادي الخامسة صباحاً: امتلك صباحك وارتقِ بحياتك — 🕓 مسودة
+- `wrk-5-love-languages` — لغات الحب الخمس: سر الحب الذي يدوم — 🕓 مسودة
+- `wrk-5-second-rule` — قاعدة الـ 5 ثوانٍ: غير حياتك وعملك وثقتك بالبصيرة اليومية — 🕓 مسودة
+- `wrk-7-habits` — العادات السبع للناس الأكثر فاعلية — 🕓 مسودة
 - `wrk-acts-of-meaning` — أفعال المعنى: علم النفس السردي للتجربة الإنسانية — 🕓 مسودة
 - `wrk-affect-regulation-mentalization` — تنظيم الوجدان والذهنية وتطور الذات — 🕓 مسودة
 - `wrk-affective-neuroscience` — علم الأعصاب الوجداني: الأسس العصبية للعواطف الإنسانية والحيوانية — 🕓 مسودة
+- `wrk-after-virtue` — بعد الفضيلة (After Virtue) — 🕓 مسودة
 - `wrk-alazm-critique-religious-thought` — نقد الفكر الديني — 🕓 مسودة
+- `wrk-alchemist` — الخيميائي: رحلة البحث عن الأسطورة الشخصية — 🕓 مسودة
 - `wrk-allport-personality-1937` — الشخصية: تفسير نفسي (Personality: A Psychological Interpretation) — 🕓 مسودة
 - `wrk-ame-enfant` — صورة عن وعي الطفل — 🕓 مسودة
+- `wrk-anarchy-state-utopia` — اللاإكراه، الدولة، واليوتوبيا (Anarchy, State, and Utopia, 1974) — 🕓 مسودة
 - `wrk-animal-intelligence` — ذكاء الحيوان — 🕓 مسودة
+- `wrk-animal-liberation-singer` — تحرير الحيوان (Animal Liberation) — 🕓 مسودة
+- `wrk-annihilation-of-caste` — إبادة الطبقية (Annihilation of Caste) — 🕓 مسودة
+- `wrk-antifragile` — ضد الهشاشة: الأشياء التي تستفيد من الفوضى والاضطراب — 🕓 مسودة
+- `wrk-anxious-generation` — الجيل القلق: كيف تؤدي إعادة برمجة الطفولة العظيمة إلى وباء المرض النفسي — 🕓 مسودة
 - `wrk-aron-opium-of-intellectuals` — أفيون المثقفين — 🕓 مسودة
+- `wrk-art-of-choosing` — فن الاختيار: سيكولوجيا القرارات اليومية والمصيرية — 🕓 مسودة
+- `wrk-artofwar` — فن الحرب (سون تزو) — 🕓 مسودة
+- `wrk-atlas-of-ai-crawford` — أطلس الذكاء الاصطناعي (Atlas of AI) — 🕓 مسودة
+- `wrk-atomic-habits` — العادات الذرية: طريقة سهلة ومثبتة لبناء عادات جيدة والتخلص من السيئة — 🕓 مسودة
+- `wrk-attached` — المتعلقون: العلم الجديد للتعلق بالبالغين وكيف يساعدك في العثور على الحب والحفاظ عليه — 🕓 مسودة
 - `wrk-authentic-happiness` — السعادة الحقيقية: استخدام علم النفس الإيجابي الجديد — 🕓 مسودة
+- `wrk-awaken-giant-within` — أيقظ العملاق الذي بداخلك — 🕓 مسودة
 - `wrk-bandura-principles-modification` — مبادئ تعديل السلوك (Principles of Behavior Modification) — 🕓 مسودة
+- `wrk-baopuzi` — كتاب باو بو تزو (الأب البسيط) — 🕓 مسودة
 - `wrk-barnes-an-existentialist-ethics` — أخلاق وجودية (هازل بارنز) — 🕓 مسودة
 - `wrk-barth-romerbrief` — الرسالة إلى أهل رومية (اللاهوت الجدلي) — 🕓 مسودة
 - `wrk-beck-cognitive-therapy` — العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders) — 🕓 مسودة
@@ -1876,27 +2393,60 @@
 - `wrk-being-time` — الوجود والزمان — ✅ معتمد
 - `wrk-beitrage-sinneswahrnehmung` — أبحاث في نظرية الإدراك الحسي — 🕓 مسودة
 - `wrk-berne-games-people-play` — ألعاب الناس (Games People Play) — 🕓 مسودة
+- `wrk-bhagavad-gita` — البهاغافاد غيتا — 🕓 مسودة
+- `wrk-black-swan` — البجعة السوداء: تداعيات الأحداث غير المحتملة — 🕓 مسودة
+- `wrk-blank-slate` — الصفحة البيضاء: الإنكار الحديث للطبيعة البشرية — 🕓 مسودة
+- `wrk-blink` — التفكير اللماح: قوة التفكير بدون تفكير — 🕓 مسودة
 - `wrk-body-keeps-score` — الجسم يحتفظ بالندم: الدماغ والعقل والجسد في شفاء الصدمة — 🕓 مسودة
+- `wrk-book-of-proverbs` — سفر الأمثال (مِشْلاي) — 🕓 مسودة
 - `wrk-bowlby-maternal-care` — الرعاية الأمومية والصحة النفسية (Maternal Care and Mental Health) — 🕓 مسودة
 - `wrk-bowlby-separation` — الانفصال: القلق والغضب (Separation: Anxiety and Anger) — 🕓 مسودة
+- `wrk-braiding-sweetgrass` — ضفائر العشب الحلو (Braiding Sweetgrass) — 🕓 مسودة
+- `wrk-buddhas-brain` — مخ بوذا: علم الأعصاب العملي للسعادة والحكمة وراحة البال — 🕓 مسودة
+- `wrk-can-the-subaltern-speak` — هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988) — 🕓 مسودة
 - `wrk-cesaire-discourse-on-colonialism` — خطاب في الاستعمار — 🕓 مسودة
+- `wrk-chinese-mirror-rosemont` — المرآة الصينية (A Chinese Mirror) — 🕓 مسودة
+- `wrk-cinderella-complex` — عقدة سندريلا: خوف النساء الخفي من الاستقلال — 🕓 مسودة
+- `wrk-city-of-god` — مدينة الله (De Civitate Dei) — 🕓 مسودة
 - `wrk-cognitive-therapy-personality` — العلاج المعرفي لاضطرابات الشخصية — 🕓 مسودة
+- `wrk-coloniality-power-quijano` — كولونيالية السلطة (Coloniality of Power) — 🕓 مسودة
 - `wrk-concept-anxiety` — مفهوم القلق — ✅ معتمد
+- `wrk-consolation-philosophy` — عزاء الفلسفة (De Consolatione Philosophiae) — 🕓 مسودة
 - `wrk-contexts-of-being` — سياقات الوجود: المعنى البين-ذاتي للتجربة — 🕓 مسودة
+- `wrk-corpus-hermeticum` — الكوربوس الهرمسية — 🕓 مسودة
 - `wrk-courage-to-be` — الشجاعة في الوجود — ✅ معتمد
+- `wrk-cyborg-manifesto` — بيان الكائن الهجين (A Cyborg Manifesto) — 🕓 مسودة
+- `wrk-daodejing` — كتاب الطريق والفضيلة (داو ده جينغ) — 🕓 مسودة
 - `wrk-daring-greatly` — الجرأة على الإقدام: كيف تحول الضعف والشجاعة والعراء طريقة عيشنا وحبنا وأبوتنا وقيادتنا — 🕓 مسودة
+- `wrk-deep-work` — العمل العميق: قواعد للنجاح المركز في عالم مشتت — 🕓 مسودة
 - `wrk-descartes-error` — خطأ ديكارت: العاطفة والعقل والدماغ البشري — 🕓 مسودة
 - `wrk-design-everyday-things` — تصميم الأشياء اليومية — 🕓 مسودة
 - `wrk-developing-mind` — العقل النامي: نحو علم نفس عصبي للعلاقات الشخصية — 🕓 مسودة
+- `wrk-dialectic-sex` — جدلية الجنس (The Dialectic of Sex, 1970) — 🕓 مسودة
 - `wrk-die-traumdeutung` — تفسير الأحلام — 🕓 مسودة
+- `wrk-different-voice` — صوت مختلف (In a Different Voice) — 🕓 مسودة
+- `wrk-digital-minimalism` — البساطة الرقمية: اختيار حياة مركزة في عالم صاخب — 🕓 مسودة
+- `wrk-disability-rights-wrongs` — حقوق وأخطاء الإعاقة (Disability Rights and Wrongs) — 🕓 مسودة
 - `wrk-divided-self` — الذات المنقسمة — ✅ معتمد
+- `wrk-dont-think-of-an-elephant` — لا تفكر في فيل: الأطر اللغوية والمعرفية في السياسة والفكر — 🕓 مسودة
+- `wrk-easy-way-stop-smoking` — الطريقة السهلة للإقلاع عن التدخين: إعادة البرمجة المعرفية للإدمان — 🕓 مسودة
+- `wrk-ecology-community-lifestyle` — الإيكولوجيا والمجتمع ونمط الحياة (Ecology, Community and Lifestyle) — 🕓 مسودة
+- `wrk-ecology-freedom-bookchin` — إيكولوجيا الحرية (The Ecology of Freedom) — 🕓 مسودة
 - `wrk-ecrits` — الكتابات (Écrits) — جاك لوكان — 🕓 مسودة
 - `wrk-elemente-psychophysik` — عناصر السيكوفيزياء — 🕓 مسودة
 - `wrk-embodied-mind` — العقل المتجسد: العلوم المعرفية للإنسان والذات والذاتية — 🕓 مسودة
+- `wrk-emotional-blackmail` — الابتزاز العاطفي: عندما يستغل المحبون الخوف والالتزام والشعور بالذنب للسيطرة عليك — 🕓 مسودة
+- `wrk-emotional-first-aid` — الإسعافات الأولية العاطفية: علاج الفشل والرفض والشعور بالذنب وجروح الحياة اليومية — 🕓 مسودة
+- `wrk-emotional-intelligence` — الذكاء العاطفي — 🕓 مسودة
 - `wrk-emotional-intelligence-1995` — الذكاء العاطفي — 🕓 مسودة
 - `wrk-emotional-life-brain` — الحياة العاطفية لدماغك: كيف تشكّل أنماطه الفريدة طريقة تفكيرك وشعورك وحياتك — 🕓 مسودة
 - `wrk-emotional-understanding` — الفهم العاطفي: الأخلاقيات البين-ذاتية للعلاج النفسي — 🕓 مسودة
+- `wrk-emotionally-immature-parents` — أبناء الآباء غير الناضجين عاطفياً: كيف تشفي جروح طفولتك وتستعيد استقلالك — 🕓 مسودة
+- `wrk-emotions-revealed` — المشاعر المكشوفة: إدراك الوجوه والمشاعر لتحسين التواصل — 🕓 مسودة
+- `wrk-epic-of-gilgamesh` — ملحمة جلجامش — 🕓 مسودة
 - `wrk-erikson-childhood-society` — طفولة وجماعة (Childhood and Society) — 🕓 مسودة
+- `wrk-erroneous-zones` — مناطق أخطائك: تحرر من السلوكيات الهدامة وعش بسعادة — 🕓 مسودة
+- `wrk-essentials-hindutva` — أصول الهندوتفا (Essentials of Hindutva) — 🕓 مسودة
 - `wrk-ethics-ambiguity` — أخلاق الغموض — ✅ معتمد
 - `wrk-etude-experimentale-intelligence` — دراسة تجريبية للذكاء — 🕓 مسودة
 - `wrk-evolving-self` — الذات المتطورة: جدلية بين النظام والفوضى — 🕓 مسودة
@@ -1904,116 +2454,256 @@
 - `wrk-existential-psychotherapy` — العلاج النفسي الوجودي — ✅ معتمد
 - `wrk-existential-therapies` — العلاجات الوجودية — ✅ معتمد
 - `wrk-experimental-psychology-titchener` — علم النفس التجريبي: دليل للممارسة المخبرية — 🕓 مسودة
+- `wrk-eyewitness-testimony` — شهادة شهود العيان وسيكولوجيا الذاكرة الزائفة — 🕓 مسودة
+- `wrk-factizitaet-geltung` — الواقعية والحقيقة (Faktizität und Geltung, 1992) — 🕓 مسودة
+- `wrk-feeling-good` — الشعور بالرضا: العلاج الجديد للمزاج — 🕓 مسودة
 - `wrk-festinger-cognitive-dissonance` — نظرية التنافر المعرفي (A Theory of Cognitive Dissonance) — 🕓 مسودة
+- `wrk-flow-csikszentmihalyi` — التدفق: سيكولوجيا التجربة المثلى — 🕓 مسودة
 - `wrk-focusing` — التركيز (Focusing) — 🕓 مسودة
+- `wrk-fons-vitae` — ينبوع الحياة (Fons Vitae) — 🕓 مسودة
 - `wrk-foucault-madness-civilization` — الجنون والحضارة (Madness and Civilization) — 🕓 مسودة
+- `wrk-four-agreements` — الاتفاقيات الأربع: دليل عملي للحرية الشخصية — 🕓 مسودة
+- `wrk-four-hour-workweek` — أسبوع عمل من 4 ساعات: اهرب من الروتين وعش في أي مكان وانضم إلى الأثرياء الجدد — 🕓 مسودة
+- `wrk-four-thousand-weeks` — أربعة آلاف أسبوع: إدارة الوقت للفانين — 🕓 مسودة
 - `wrk-frames-of-mind` — عقول متعددة: نظرية الذكاءات المتعددة — 🕓 مسودة
 - `wrk-freire-pedagogy-oppressed` — تعليم المضطهدين (Pedagogy of the Oppressed) — 🕓 مسودة
 - `wrk-fromm-escape-freedom` — الهروب من الحرية (Escape from Freedom) — 🕓 مسودة
+- `wrk-fukuzawa-civilization` — مخطط نظرية الحضارة (An Outline of a Theory of Civilization) — 🕓 مسودة
+- `wrk-gathas` — الأناشيد الغاثية (Gathas) — 🕓 مسودة
+- `wrk-gender-trouble` — إشكالية النوع (Gender Trouble, 1990) — 🕓 مسودة
 - `wrk-general-psychopathology` — علم النفس المرضي العام — ✅ معتمد
 - `wrk-gestalt-psychology-kohler` — علم نفس الـ Gestalt — 🕓 مسودة
+- `wrk-getting-love-you-want` — الحصول على الحب الذي تريده: دليل الأزواج — 🕓 مسودة
+- `wrk-getting-things-done` — إنجاز المهام: فن الإنتاجية الخالية من التوتر (GTD) — 🕓 مسودة
+- `wrk-gifts-of-imperfection` — هبات النقص: دعك مما تظن أنك عليه وكن ما أنت عليه — 🕓 مسودة
+- `wrk-give-and-take` — الأخذ والعطاء: نهج ثوري للنجاح — 🕓 مسودة
 - `wrk-goffman-presentation-self` — تقديم الذات في الحياة اليومية (The Presentation of Self in Everyday Life) — 🕓 مسودة
 - `wrk-goldstein-organism` — الكائن الحي (The Organism) — 🕓 مسودة
+- `wrk-gongsunlongzi` — كتاب غونغسون لونغ (غونغسون لونغ تزو) — 🕓 مسودة
 - `wrk-grit-2016` — عقل السعي: عقلية العزيمة والشغف والإصرار — 🕓 مسودة
 - `wrk-grundlagen-psychischen-entwicklung` — أساسيات النمو الذهني — 🕓 مسودة
 - `wrk-grundzuge-physiologische-psychologie` — خطوط علم النفس الفسيولوجي — 🕓 مسودة
+- `wrk-guide-for-perplexed` — دلالة الحائرين (Moreh Nevukhim) — 🕓 مسودة
 - `wrk-handbuch-physiologische-optik` — كتاب الفسيولوجيا البصرية — 🕓 مسودة
+- `wrk-hanfeizi` — كتاب هان في تزو — 🕓 مسودة
 - `wrk-happiness-hypothesis` — فرضية السعادة: كشف الحقيقة الحديثة في الحكمة القديمة — 🕓 مسودة
+- `wrk-happiness-project` — مشروع السعادة — 🕓 مسودة
+- `wrk-happiness-trap` — فخ السعادة: كيف تتوقف عن الصراع وتبدأ في العيش — 🕓 مسودة
+- `wrk-hegemony-socialist-strategy` — الهيمنة والاستراتيجية الاشتراكية (Hegemony and Socialist Strategy, 1985) — 🕓 مسودة
 - `wrk-heller-everyday-life` — سوسيولوجيا الحياة اليومية (هيلر) — 🕓 مسودة
+- `wrk-highly-sensitive-person` — الشخص عالي الحساسية: كيف تزدهر عندما يغمرك العالم — 🕓 مسودة
+- `wrk-hind-swaraj` — هند سواراج (الحكم الذاتي الهندي) — 🕓 مسودة
+- `wrk-homecoming-inner-child` — العودة إلى الوطن: استعادة طفلك الداخلي وحمايته — 🕓 مسودة
 - `wrk-horney-inner-conflicts` — صراعاتنا الداخلية (Our Inner Conflicts) — 🕓 مسودة
 - `wrk-horney-neurotic-personality` — الشخصية العصابية في عصرنا (The Neurotic Personality of Our Time) — 🕓 مسودة
 - `wrk-how-does-analysis-cure` — كيف يشفي التحليل؟ — 🕓 مسودة
+- `wrk-how-to-win-friends` — كيف تكسب الأصدقاء وتؤثر في الناس — 🕓 مسودة
+- `wrk-how-we-learn` — كيف نتعلم: الحقيقة المدهشة عن وقت ومكان وكيفية حدوث التعلم — 🕓 مسودة
+- `wrk-huanglao-texts` — نصوص هوانغ-لاو (مجموعة) — 🕓 مسودة
 - `wrk-ich-und-es` — الأنا والهو — 🕓 مسودة
+- `wrk-ideen-i` — أفكار نحو ظاهراتية وصفية (Ideen I) — 🕓 مسودة
+- `wrk-im-ok-youre-ok` — أنا بخير، أنت بخير — 🕓 مسودة
+- `wrk-immunity-to-change` — المناعة ضد التغيير: كيف نتغلب على الحواجز اللاواعية لتحقيق أهدافنا — 🕓 مسودة
+- `wrk-influence-persuasion` — التأثير: علم نفس الإقناع — 🕓 مسودة
 - `wrk-inquiries-human-faculty` — تحقيقات في القدرات الإنسانية — 🕓 مسودة
+- `wrk-inquiry-into-good` — بحث في الخير (An Inquiry into the Good) — 🕓 مسودة
 - `wrk-insight-lieberman` — البصيرة: الحقيقة المفاجئة عن كيف يرانا الآخرون، وكيف نرى أنفسنا، ولماذا الإجابات تهم أكثر مما نعتقد — 🕓 مسودة
+- `wrk-instructions-ptahhotep` — تعاليم بتاح حتب — 🕓 مسودة
 - `wrk-intelligenzprufungen-menschenaffen` — اختبارات ذكاء القردة العليا — 🕓 مسودة
+- `wrk-intercultural-philosophy-wimmer` — الفلسفة البين-ثقافية (Interkulturelle Philosophie) — 🕓 مسودة
 - `wrk-interpersonal-world-infant` — العالم بين-شخصي للرضيع — 🕓 مسودة
 - `wrk-janov-primal-scream` — الصرخة البدائية (The Primal Scream) — 🕓 مسودة
 - `wrk-kelly-personal-constructs` — سيكولوجية البنى الشخصية (The Psychology of Personal Constructs) — 🕓 مسودة
+- `wrk-kephalaia` — الرؤوس (كِفَالا - Kephalaia) — 🕓 مسودة
 - `wrk-kierkegaard-concept-of-irony` — مفهوم التهكم (مع إشارة خاصة لسقراط) — 🕓 مسودة
 - `wrk-kuhn-structure-revolutions` — بنية الثورات العلمية (The Structure of Scientific Revolutions) — 🕓 مسودة
+- `wrk-kuzari` — الكتاب الحجازي (Kuzari) — 🕓 مسودة
 - `wrk-langage-pensee-enfant` — اللغة والفكر عند الطفل — 🕓 مسودة
+- `wrk-laws-of-human-nature` — قوانين الطبيعة البشرية — 🕓 مسودة
+- `wrk-learned-optimism` — التفاؤل المكتسب: كيف تغير عقلك وحياتك — 🕓 مسودة
 - `wrk-les-nevroses` — الأعصاب والقلق — 🕓 مسودة
 - `wrk-lewin-resolving-social-conflicts` — حلّ الصراعات الاجتماعية (Resolving Social Conflicts) — 🕓 مسودة
 - `wrk-liberated-mind` — العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك — 🕓 مسودة
+- `wrk-life-divine` — الحياة الإلهية (The Life Divine) — 🕓 مسودة
+- `wrk-liquid-love` — الحب السائل: عن هشاشة الروابط الإنسانية — 🕓 مسودة
 - `wrk-lived-time` — الزمن المُعاش — ✅ معتمد
+- `wrk-loneliness-cacioppo` — الوحدة: الطبيعة البشرية والحاجة للترابط الاجتماعي — 🕓 مسودة
 - `wrk-loss-sadness-depression` — الفقدان: الحزن والاكتئاب (المجلد الثالث من التعلق والفقدان) — 🕓 مسودة
 - `wrk-lost-connections` — الروابط المفقودة: كشف الأسباب الحقيقية غير المُخبَّرة للاكتئاب - وما الذي يساعد حقاً — 🕓 مسودة
+- `wrk-loves-executioner` — جلاد الحب وقصص أخرى في العلاج النفسي — 🕓 مسودة
+- `wrk-lucifer-effect` — تأثير لوسيفر: كيف يتحول الأخيار إلى أشرار — 🕓 مسودة
+- `wrk-lunyu` — المحاورات (لون يو) — 🕓 مسودة
+- `wrk-magic-of-thinking-big` — سحر التفكير بصورة أكبر — 🕓 مسودة
+- `wrk-man-mistook-wife-hat` — الرجل الذي حسب زوجته قبعة وقصص سريرية أخرى — 🕓 مسودة
 - `wrk-mans-search` — الإنسان يبحث عن المعنى — ✅ معتمد
 - `wrk-martinbaro-psychology-liberation` — علم النفس للتحرير (Psicología de la liberación) — 🕓 مسودة
+- `wrk-mating-in-captivity` — التزاوج في الأسر: سيكولوجيا الرغبة في العلاقات الطويلة — 🕓 مسودة
 - `wrk-measurement-intelligence` — قياس الذكاء — 🕓 مسودة
 - `wrk-medicinische-psychologie` — علم النفس الطبي — 🕓 مسودة
+- `wrk-men-are-from-mars` — الرجال من المريخ والنساء من الزهرة — 🕓 مسودة
 - `wrk-metaphors-we-live-by` — الاستعارات التي نحيا بها — 🕓 مسودة
 - `wrk-milgram-obedience-authority` — الطاعة للسلطة (Obedience to Authority) — 🕓 مسودة
 - `wrk-mind-and-brain` — العقل والدماغ: المرونة العصبية وقوة الإرادة الذهنية — 🕓 مسودة
 - `wrk-minderwertigkeit-organen` — دراسة في قصور الأعضاء — 🕓 مسودة
+- `wrk-mindful-way-through-depression` — طريقة اليقظة الذهنية للتغلب على الاكتئاب: تحرير نفسك من التعاسة المزمنة — 🕓 مسودة
 - `wrk-mindset` — العقلية: علم النفس الجديد للنجاح — 🕓 مسودة
+- `wrk-monk-sold-ferrari` — الراهب الذي باع سيارته الفيراري: حكاية خيالية عن تحقيق الرغبات — 🕓 مسودة
 - `wrk-morena-who-shall-survive` — من سيبقى على قيد الحياة؟ (Who Shall Survive?) — 🕓 مسودة
 - `wrk-motivation-personality` — الدافعية والشخصية (Motivation and Personality) — 🕓 مسودة
+- `wrk-mozi-text` — كتاب مو زي (مو تزو) — 🕓 مسودة
+- `wrk-myth-of-normal` — أسطورة الطبيعي: الصدمة والمرض والشفاء في ثقافة مسمومة — 🕓 مسودة
+- `wrk-myth-sisyphus` — أسطورة سيزيف (Le Mythe de Sisyphe) — 🕓 مسودة
+- `wrk-naming-necessity` — التسمية والضرورة (Naming and Necessity) — 🕓 مسودة
 - `wrk-nature-intelligence` — طبيعة الذكاء ومبادئ الإدراك — 🕓 مسودة
 - `wrk-nervosen-charakter` — في الشخصية العصابية — 🕓 مسودة
 - `wrk-neuroscience-psychotherapy` — علم أعصاب العلاج النفسي: بناء وإعادة بناء الدماغ البشري — 🕓 مسودة
+- `wrk-no-bad-parts` — لا توجد أجزاء سيئة: شفاء الصدمات واستعادة التكامل عبر أنظمة الأسرة الداخلية — 🕓 مسودة
+- `wrk-nonviolent-communication` — التواصل غير العنيف: لغة الحياة — 🕓 مسودة
+- `wrk-nudge` — سقزة: تحسين القرارات المتعلقة بالصحة والثروة والسعادة — 🕓 مسودة
+- `wrk-obedience-to-authority` — الانصياع للسلطة: نظرة تجريبية — 🕓 مسودة
 - `wrk-object-relations-1983` — العلاقات بالموضوع في النظرية التحليلية — 🕓 مسودة
+- `wrk-on-contradiction` — حول التناقض (On Contradiction) — 🕓 مسودة
+- `wrk-on-death-and-dying` — عن الموت والاحتضار: ما يجب أن يتعلمه الأطباء والممرضات ورجال الدين والأسر من المحتضرين — 🕓 مسودة
+- `wrk-one-minute-manager` — مدير الدقيقة الواحدة — 🕓 مسودة
+- `wrk-optimism-bias` — انحياز التفاؤل: جولة في الدماغ المبرمج إيجابياً — 🕓 مسودة
+- `wrk-orientalism-said` — الاستشراق (Orientalism) — 🕓 مسودة
+- `wrk-outliers` — المتميزون: قصة النجاح — 🕓 مسودة
+- `wrk-outline-chinese-philosophy` — مخطط تاريخ الفلسفة الصينية (Outline of the History of Chinese Philosophy) — 🕓 مسودة
 - `wrk-outline-psychology-titchener` — مخطّط في علم النفس — 🕓 مسودة
+- `wrk-paradox-of-choice` — مفارقة الاختيار: لماذا يعني المزيد القليل — 🕓 مسودة
+- `wrk-people-skills` — مهارات التعامل مع الناس: كيف تؤكد ذاتك وتستمع للآخرين وتحل النزاعات — 🕓 مسودة
+- `wrk-peter-pan-syndrome` — متلازمة بيتر بان: الرجال الذين لم يكبروا قط — 🕓 مسودة
+- `wrk-philosophy-mirror-nature` — الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature) — 🕓 مسودة
 - `wrk-polyvagal-theory-2011` — نظرية بولي فاغال: الأسس العصبية للسلوك الاجتماعي — 🕓 مسودة
+- `wrk-polyvagal-theory-therapy` — النظرية العصبية المبهمة في العلاج: إشراك إيقاع التنظيم الذاتي — 🕓 مسودة
 - `wrk-power-of-habit` — قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل — 🕓 مسودة
+- `wrk-power-of-now` — قوة الآن: دليل إلى التنوير الروحي — 🕓 مسودة
+- `wrk-power-of-positive-thinking` — قوة التفكير الإيجابي — 🕓 مسودة
+- `wrk-power-of-subconscious-mind` — قوة عقلك الباطن — 🕓 مسودة
 - `wrk-praxis-theorie-individualpsychologie` — الممارسة والنظرية في علم النفس الفردي — 🕓 مسودة
+- `wrk-predictably-irrational` — اللامنطقية المتوقعة: القوى الخفية التي تشكل قراراتنا — 🕓 مسودة
+- `wrk-presence-cuddy` — الحضور: كيف تبرز أفضل ما لديك في أصعب التحديات — 🕓 مسودة
 - `wrk-principles-psychology` — مبادئ علم النفس — 🕓 مسودة
 - `wrk-prisoners-of-hate` — أسرى الكراهية: الأساس المعرفي للغضب والعدوانية والعنف — 🕓 مسودة
+- `wrk-psycho-cybernetics` — السايكوسبرنتيكس: التحكم النفسي الآلي والصورة الذاتية — 🕓 مسودة
 - `wrk-psychologie-empirischen-standpunkt` — علم النفس من المنظور التجريبي — 🕓 مسودة
 - `wrk-psychopathologie-alltagslebens` — سيكوباتولوجيا الحياة اليومية — 🕓 مسودة
+- `wrk-question-concerning-technology` — السؤال حول التقنية (Die Frage nach der Technik) — 🕓 مسودة
 - `wrk-quiet-2012` — هادئ: قوة الانطوائيين في عالم لا يتوقف عن الكلام — 🕓 مسودة
+- `wrk-realm-hungry-ghosts` — في عالم الأشباح الجائعة: مواجهات قريبة مع الإدمان — 🕓 مسودة
+- `wrk-righteous-mind` — العقل الصالح: لماذا ينقسم الأخيار حول السياسة والدين — 🕓 مسودة
+- `wrk-road-less-traveled` — الطريق الأقل ارتياداً — 🕓 مسودة
 - `wrk-rogers-client-centered-1951` — العلاج المتمركز حول العميل (Client-Centered Therapy) — 🕓 مسودة
 - `wrk-rogers-counseling-psychotherapy` — الإرشاد والعلاج النفسي (Counseling and Psychotherapy) — 🕓 مسودة
 - `wrk-rorty-philosophy-and-mirror-of-nature` — الفلسفة ومرآة الطبيعة — 🕓 مسودة
+- `wrk-sadhana-tagore` — سادانا: تحقيق الحياة — 🕓 مسودة
+- `wrk-sand-county-almanac` — تقويم مقاطعة الرمال (A Sand County Almanac) — 🕓 مسودة
+- `wrk-scarcity-mullainathan` — الندرة: لماذا يعني القليل جداً الكثير جداً — 🕓 مسودة
 - `wrk-search-authenticity` — البحث عن الأصالة (The Search for Authenticity) — 🕓 مسودة
+- `wrk-second-sex` — الجنس الثاني (Le Deuxième Sexe, 1949) — 🕓 مسودة
 - `wrk-self-compassion` — الذات المتعاطفة: القوة المثبتة للطف مع نفسك — 🕓 مسودة
+- `wrk-self-compassion-neff` — التعاطف مع الذات: القوة المثبتة لمعاملة نفسك بلطف — 🕓 مسودة
 - `wrk-seligman-helplessness` — العجز المكتسب (Helplessness) — 🕓 مسودة
+- `wrk-sense-and-sensibilia` — الإحساس والبيانات الحسية (Sense and Sensibilia) — 🕓 مسودة
+- `wrk-set-boundaries-find-peace` — ضع حدوداً، تجد سلاماً: دليل لاستعادة ذاتك — 🕓 مسودة
+- `wrk-seven-principles-marriage` — المبادئ السبعة لنجاح الزواج — 🕓 مسودة
 - `wrk-sickness-death` — المرض حتى الموت — ✅ معتمد
+- `wrk-six-thinking-hats` — قبعات التفكير الست — 🕓 مسودة
 - `wrk-skinner-behavior-organisms` — سلوك الكائن الحي (The Behavior of Organisms) — 🕓 مسودة
+- `wrk-status-anxiety` — قلق السعي إلى المكانة: الشعور بالدونية والبحث عن التقدير — 🕓 مسودة
+- `wrk-structure-scientific-revolutions` — بنية الثورات العلمية (The Structure of Scientific Revolutions) — 🕓 مسودة
 - `wrk-studien-hysterie` — دراسات في الهستيريا — 🕓 مسودة
 - `wrk-stumbling-on-happiness` — العثار في طريق السعادة — 🕓 مسودة
+- `wrk-subtle-art` — فن اللامبالاة: لعيش حياة تخالف المألوف — 🕓 مسودة
+- `wrk-summa-theologiae` — الخلاصة اللاهوتية (Summa Theologiae) — 🕓 مسودة
+- `wrk-superintelligence-bostrom` — الذكاء الخارق (Superintelligence) — 🕓 مسودة
+- `wrk-the-secret` — السر: قانون الجذب — 🕓 مسودة
+- `wrk-theory-of-justice` — نظرية العدالة (A Theory of Justice, 1971) — 🕓 مسودة
 - `wrk-therapeutic-community` — المجتمع العلاجي (The Therapeutic Community) — 🕓 مسودة
+- `wrk-think-again` — فكر مرة أخرى: قوة معرفة ما لا تعرفه — 🕓 مسودة
+- `wrk-think-and-grow-rich` — فكر وازدد ثراءً: فلسفة الإنجاز الكلاسيكية — 🕓 مسودة
+- `wrk-think-like-a-monk` — فكر كراهب: درب عقلك على السلام والهدف كل يوم — 🕓 مسودة
 - `wrk-thinking-fast-slow` — التفكير، السريع والبطيء — 🕓 مسودة
+- `wrk-tiny-habits` — العادات الصغيرة: التغييرات الصغيرة التي تغير كل شيء — 🕓 مسودة
+- `wrk-tipping-point` — نقطة التحول: كيف يمكن للأشياء الصغيرة أن تحدث فرقاً كبيراً — 🕓 مسودة
 - `wrk-todes-body-and-world` — الجسد والعالم — 🕓 مسودة
+- `wrk-toxic-parents` — الآباء السامون: التغلب على إرثهم المؤلم واستعادة حياتك — 🕓 مسودة
+- `wrk-tractatus` — رسالة منطقية-فلسفية (Tractatus Logico-Philosophicus) — 🕓 مسودة
 - `wrk-tree-of-knowledge` — شجرة المعرفة: الجذور البيولوجية للفهم البشري — 🕓 مسودة
+- `wrk-tuesdays-with-morrie` — ثلاثاءات مع موري: رجل عجوز وشاب ودرس الحياة الأعظم — 🕓 مسودة
+- `wrk-two-dogmas` — نقدان من الوضعية المنطقية (Two Dogmas of Empiricism) — 🕓 مسودة
 - `wrk-uber-das-gedachtnis` — في الذاكرة — 🕓 مسودة
+- `wrk-unwinding-anxiety` — تفكيك القلق: تدريب الدماغ لكسر دوائر الخوف والوسواس والشهوة — 🕓 مسودة
+- `wrk-upanishads` — الأوبانيشاد الرئيسية — 🕓 مسودة
 - `wrk-vocabulaire-psychanalyse` — معجم التحليل النفسي (Vocabulaire de la Psychanalyse) — 🕓 مسودة
 - `wrk-vorlesungen-einfuhrung-psychoanalyse` — محاضرات تمهيدية في التحليل النفسي — 🕓 مسودة
+- `wrk-waking-the-tiger` — إيقاظ النمر: شفاء الصدمة — 🕓 مسودة
 - `wrk-wandlungen-symbole-libido` — تحوّلات ورموز الليبيدو — 🕓 مسودة
+- `wrk-way-of-the-peaceful-warrior` — طريق المحارب السلمي: كتاب يغير الحياة — 🕓 مسودة
 - `wrk-wertz-five-ways-phenomenological-analysis` — خمس طرق للتحليل الفينومينولوجي — 🕓 مسودة
+- `wrk-what-we-owe` — ماذا ندين لبعضنا البعض (What We Owe to Each Other) — 🕓 مسودة
+- `wrk-who-moved-my-cheese` — من حرك قطعة الجبن الخاصة بي؟ طريقة مذهلة للتعامل مع التغيير — 🕓 مسودة
+- `wrk-whole-brain-child` — طفل المخ الكامل: 12 استراتيجية ثورية لرعاية عقل طفلك النامي — 🕓 مسودة
+- `wrk-why-we-sleep` — لماذا ننام: اكتشف طاقة النوم والأحلام — 🕓 مسودة
+- `wrk-why-zebras-dont-get-ulcers` — لماذا لا تصاب الحمر الوحشية بالقرحة: سيكولوجيا وبيولوجيا التوتر — 🕓 مسودة
+- `wrk-willpower-baumeister` — قوة الإرادة: إعادة اكتشاف أعظم طاقة بشرية — 🕓 مسودة
 - `wrk-winnicott-playing-reality` — اللعب والواقع (Playing and Reality) — 🕓 مسودة
+- `wrk-you-can-heal-your-life` — يمكنك شفاء حياتك — 🕓 مسودة
 - `wrk-zollikon` — ندوات تسوليكون — ✅ معتمد
 
-## جدل (28)
+## جدل (52)
 
 - `dbt-adhd-overdiagnosis-overmedication` — جدل الإفراط في تشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه دوائياً — 🕓 مسودة
+- `dbt-advaita-vs-dvaita` — أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟ — 🕓 مسودة
+- `dbt-ambedkar-vs-gandhi-caste` — أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟ — 🕓 مسودة
+- `dbt-anarchism-vs-state` — جدل الفوضوية مع الدولة: هل يمكن الاستغناء عن الدولة؟ — 🕓 مسودة
+- `dbt-aurobindo-vs-vivekananda` — أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟ — 🕓 مسودة
 - `dbt-boss-binswanger` — بينسوانغر أم بوس؟ — ✅ معتمد
 - `dbt-british-yalom` — البريطانيون ضد التيار الأمريكي — ✅ معتمد
 - `dbt-categorical-vs-dimensional-diagnosis` — التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية — 🕓 مسودة
 - `dbt-conversion-therapy-harm` — جدل العلاج بالتحويل: مفيد أم ضار؟ — 🕓 مسودة
+- `dbt-cosmopolitanism-vs-nationalism` — جدل الكوزموبوليتية مقابل القومية — 🕓 مسودة
 - `dbt-creativity-vs-pathology` — الإبداع مقابل المرض النفسي: قرابة حقيقية أم خرافة؟ — 🕓 مسودة
 - `dbt-cultural-bias-iq-testing` — جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة — 🕓 مسودة
+- `dbt-deliberative-vs-radical-democracy` — جدل التداولية مقابل الراديكالية في الديمقراطية — 🕓 مسودة
 - `dbt-diagnostic-concept-creep` — جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي في الطب النفسي — 🕓 مسودة
 - `dbt-ect-efficacy-and-ethics` — جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية — 🕓 مسودة
 - `dbt-evidence` — هل نطلب أدلة تجريبية؟ — ✅ معتمد
+- `dbt-feminist-essentialism-vs-constructionism` — جدل الجوهرية مقابل البنائية في النسوية — 🕓 مسودة
+- `dbt-feminist-universalism-vs-particularism` — جدل الكونية مقابل الخصوصية في النسوية — 🕓 مسودة
+- `dbt-gandhi-vs-machiavelli` — غاندي ضد المكيافيلية: هل السياسة الممكنة تقتضي العنف؟ — 🕓 مسودة
+- `dbt-hindutva-vs-secularism-india` — هندوتفا ضد العلمانية الهندية: هل العلمانية حياد أم تَغريب ثقافي؟ — 🕓 مسودة
+- `dbt-hu-shi-vs-liang-shuming` — هو شي ضد ليانغ شومنغ: عولمة أم هوية كونفوشية؟ — 🕓 مسودة
+- `dbt-human-nature-debate` — جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو — 🕓 مسودة
 - `dbt-humanistic-vs-existential` — الإنسانية في مقابل الوجودية: تكامل أم تعارض؟ — 🕓 مسودة
+- `dbt-ibn-maymun-vs-halevi` — ابن ميمون ضد يهوذا اللاوي: العقل الفلسفي أم الوحي التاريخي؟ — 🕓 مسودة
 - `dbt-individualism` — الفردانية والعمى عن السلطة — ✅ معتمد
+- `dbt-japan-civilize-vs-asia` — جدل الانضمام إلى الحضارة الغربية (Datsu-A) ضد مساندة آسيا — 🕓 مسودة
 - `dbt-laing` — هل الذهان رحلة ذات معنى؟ — ✅ معتمد
 - `dbt-langle-frankl` — لانغله ضد فرانكل — ✅ معتمد
 - `dbt-langle-frankl-meaning` — لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟ — 🕓 مسودة
+- `dbt-liberalism-vs-communitarianism` — جدل الليبرالية مقابل الجماعاتية — 🕓 مسودة
+- `dbt-mao-maoism-vs-deng-ism` — ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟ — 🕓 مسودة
 - `dbt-meaning-found` — هل المعنى يُكتشَف أم يُصنَع؟ — ✅ معتمد
 - `dbt-nature-vs-nurture-intelligence-personality` — جدل الطبيعة والتنشئة في الذكاء والشخصية — 🕓 مسودة
+- `dbt-nishida-vs-tanabe` — نيشيدا ضد تانابه: الذات المطلقة أم المنطق التَفارقى؟ — 🕓 مسودة
 - `dbt-projective-tests-validity` — جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني — 🕓 مسودة
 - `dbt-prolonged-grief-disorder-legitimacy` — جدل شرعنة اضطراب الحزن المطوّل — 🕓 مسودة
 - `dbt-psychology-replication-crisis` — أزمة تكرار النتائج في علم النفس التجريبي — 🕓 مسودة
 - `dbt-psychotherapy-vs-pharmacotherapy-depression` — جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم — 🕓 مسودة
+- `dbt-rawls-nozick-justice` — جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق — 🕓 مسودة
+- `dbt-realism-vs-nominalism` — الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟ — 🕓 مسودة
 - `dbt-recovered-memory-validity` — جدل الذاكرة المُستعادة: حقيقية أم زائفة؟ — 🕓 مسودة
 - `dbt-rogers-vs-may-authenticity` — أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة — 🕓 مسودة
 - `dbt-school-or-attitude` — مدرسة أم موقف؟ — ✅ معتمد
+- `dbt-shunyata-vs-brahman` — شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر — 🕓 مسودة
 - `dbt-spiritual` — الروحاني والعلماني — ✅ معتمد
 - `dbt-structures` — هل توجد بنى وجودية ثابتة؟ — ✅ معتمد
+- `dbt-tagore-vs-gandhi` — طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟ — 🕓 مسودة
+- `dbt-thomism-vs-scotism` — التوماوية في مقابل السكوتية: العقل أم الإرادة؟ — 🕓 مسودة
+- `dbt-trans-exclusionary-radical-feminism` — جدل النسوية الراديكالية واستبعاد الترانس — 🕓 مسودة
 - `dbt-unconscious` — هل يوجد لاوعي؟ — ✅ معتمد
+- `dbt-verification-vs-falsification` — التحقق أم التفنيد: أيهما معيار العلمية؟ — 🕓 مسودة
 - `dbt-violent-media-child-aggression` — جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال — 🕓 مسودة
 
 ## تيار (129)
@@ -2940,17 +3630,196 @@
 - `dia-lacan-heidegger-anxiety-seminar` — سيمينار لاكان العاشر حول القلق: حوار خفي مع هايدجر — 🕓 مسودة
 - `dia-morita-cbt-engagement` — علاج موريتا والعلاج المعرفي السلوكي: تقاطع حيّ — 🕓 مسودة
 
-## متلازمة (12)
+## متلازمة (191)
 
 - `syn-acute-anxiety` — القلق الحاد — 🕓 مسودة
+- `syn-ahab-syndrome` — متلازمة الكابتن أهاب والهوس الانتقامي التدميري — 🕓 مسودة
+- `syn-ahfa-arabian` — متلازمة الأحفاء والصرع الروحي في البادية العربية — 🕓 مسودة
+- `syn-akathisia` — متلازمة التململ الحركي الحاد والأكاثيسيا الدوائية — 🕓 مسودة
+- `syn-alice-in-wonderland` — متلازمة أليس في بلاد العجائب (تشوه إدراك حجم الجسد والمكان) — 🕓 مسودة
+- `syn-alien-hand` — متلازمة اليد الغريبة / اليد الفضائية — 🕓 مسودة
+- `syn-amok` — متلازمة أموك (نوبة الهياج الانفجاري والعدوان المفاجئ) — 🕓 مسودة
+- `syn-angelman-happy-puppet` — متلازمة أنجلمان السلوكية (الضحك القهري وفرط النشاط الحركي) — 🕓 مسودة
 - `syn-anger` — نوبة الغضب — 🕓 مسودة
+- `syn-anomic-aphasia` — متلازمة الحبسة التسموية (فقدان تسمية الأشياء على طرف اللسان) — 🕓 مسودة
+- `syn-anticholinergic-toxicity` — المتلازمة الكولينية المضادة الحادة والسمية السيكياترية — 🕓 مسودة
+- `syn-anton-babinski` — متلازمة أنطون-بابينسكي لإنكار العمى (عمه العمه البصري) — 🕓 مسودة
+- `syn-apathetic-frontal` — متلازمة الفص الجبهي اللامبالية والخرس الحركي (Akinetic Mutism) — 🕓 مسودة
+- `syn-apraxia-ideomotor` — متلازمة تعذر الأداء الحركي الفكري (Ideomotor Apraxia) — 🕓 مسودة
+- `syn-asomatognosia` — متلازمة فقد حس الجسد (عمه إدراك أجزاء الجسد) — 🕓 مسودة
+- `syn-ataque-de-nervios` — نوبة الأعصاب (Ataque de Nervios في الثقافة الإسبانية واللاتينية) — 🕓 مسودة
+- `syn-autotopagnosia` — متلازمة عمه تموضع أجزاء الجسم — 🕓 مسودة
+- `syn-balint` — متلازمة بالينت (العمه البصري الحركي وتعذر رؤية المتزامن) — 🕓 مسودة
+- `syn-battered-woman` — متلازمة المرأة المعنفة (العجز المتعلم والصدمة الزوجية المزمنة) — 🕓 مسودة
+- `syn-bebes-enchilados` — متلازمة الأطفال الملسوعين في الطب الشعبي المكسيكي — 🕓 مسودة
+- `syn-biid` — متلازمة اضطراب سلامة الهوية الجسدية (Xenomelia / BIID) — 🕓 مسودة
+- `syn-boreout` — متلازمة الملل الوظيفي والإنهاك بالرتابة (Boreout) — 🕓 مسودة
+- `syn-bouffee-delirante` — متلازمة النفحة الذهانية العابرة (Bouffée Délirante) — 🕓 مسودة
+- `syn-brain-fag` — متلازمة الإنهاك الدماغي لدى الطلاب (Brain Fag Syndrome) — 🕓 مسودة
+- `syn-briquet` — متلازمة بريكيه (السلف التاريخي للاضطراب الجسدي متعدد الأعراض) — 🕓 مسودة
+- `syn-broca-aphasia` — متلازمة حبسة بروكا التعبيرية (تعذر الطلاقة الكلامية النطقية) — 🕓 مسودة
+- `syn-broken-heart-takotsubo` — متلازمة تاكوتسوبو (متلازمة القلب المنكسر النفسية الجسدية) — 🕓 مسودة
+- `syn-burnout` — متلازمة الاحتراق الوظيفي والمهني — 🕓 مسودة
+- `syn-capgras` — متلازمة كابغرا (وهم استبدال المقربين ببدلاء) — 🕓 مسودة
+- `syn-caregiver-burnout` — متلازمة إجهاد مقدّم الرعاية المزمن — 🕓 مسودة
+- `syn-cassandra` — متلازمة كاساندرا (تجاهل التحذيرات الصادقة والتكذيب) — 🕓 مسودة
+- `syn-charles-bonnet` — متلازمة تشارلز بونيه (الهلاوس البصرية المعقدة لدى فاقدي البصر) — 🕓 مسودة
+- `syn-chinese-restaurant` — متلازمة المطعم الصيني وغلوتامات الصوديوم (MSG Complex) — 🕓 مسودة
+- `syn-chronic-fatigue` — متلازمة التعب المزمن (التهاب الدماغ والنخاع العضلي) — 🕓 مسودة
+- `syn-cluttering` — متلازمة الفوضى الكلامية والسرعة المفرطة (Cluttering) — 🕓 مسودة
+- `syn-compassion-fatigue` — متلازمة التعب من التعاطف (إجهاد الشفقة لدى مقدمي الرعاية) — 🕓 مسودة
+- `syn-conduction-aphasia` — متلازمة حبسة التوصيل (عجز التكرار اللفظي المباشر) — 🕓 مسودة
+- `syn-cotard` — متلازمة كوتار (هذاء العدم / متلازمة الجثة السائرة) — 🕓 مسودة
+- `syn-couvade` — متلازمة كوفاد (حمل التعاطف النفسي الجسدي لدى الآباء) — 🕓 مسودة
 - `syn-craving-urge` — الرغبة الملحّة (craving) — 🕓 مسودة
+- `syn-cushings-psychosis` — متلازمة كوشينغ النفسية والذهان الستيرويدي — 🕓 مسودة
+- `syn-da-costa` — متلازمة دا كوستا (قلب الجندي / الوهن الدوري العصبي التاريخي) — 🕓 مسودة
+- `syn-de-clerambault` — متلازمة دي كليرامبو (العشق الوهمي الهذائي / الإيروتومانيا) — 🕓 مسودة
+- `syn-dejerine-roussy` — متلازمة ديجرين–روسي للألم المهادي المركزي — 🕓 مسودة
+- `syn-dementia-pugilistica` — متلازمة خرف الملاكمين (اعتلال الدماغ الرضحي المزمن التاريخي) — 🕓 مسودة
 - `syn-depressive-symptoms` — الأعراض الاكتئابية — 🕓 مسودة
+- `syn-dhat` — متلازمة ذات (قلق فقدان السائل المنوي في جنوب آسيا) — 🕓 مسودة
+- `syn-diogenes` — متلازمة ديوجين (الإهمال الذاتي الشديد والاكتناز القهري لدى المسنين) — 🕓 مسودة
+- `syn-disinhibition-frontal` — متلازمة إزالة التثبيط الجبهية والتصرفات الاندفاعية (Phineas Gage) — 🕓 مسودة
 - `syn-dissociation` — الانفصال (dissociation) — 🕓 مسودة
+- `syn-dorian-gray` — متلازمة دوريان غراي (الرعب من الشيخوخة والتشبث بالشباب) — 🕓 مسودة
+- `syn-duck-syndrome` — متلازمة البطة في البيئات التنافسية (Stanford Duck Syndrome) — 🕓 مسودة
+- `syn-dysexecutive` — متلازمة القصور التنفيذي الجبهي (Dysexecutive Syndrome) — 🕓 مسودة
+- `syn-effort-syndrome` — متلازمة الجهد الحربي والقلب العصبي الحاد (Lewis 1917) — 🕓 مسودة
+- `syn-ekbom` — متلازمة إيكبوم (توهم التطفل الجلدي / الطفيليات الوهمية) — 🕓 مسودة
+- `syn-electromagnetic-hypersensitivity` — متلازمة الحساسية الكهرومغناطيسية الوهمية (EHS) — 🕓 مسودة
+- `syn-electronic-screen-syndrome` — متلازمة الشاشات الإلكترونية وفرط الاستثارة لدى الأطفال (ESS) — 🕓 مسودة
 - `syn-emotional-numbing` — الخمول الانفعالي / التخدير — 🕓 مسودة
+- `syn-empty-nest` — متلازمة العش الفارغ (حزن استقلال الأبناء) — 🕓 مسودة
+- `syn-environmental-dependency` — متلازمة التبعية للبيئة وسلوك الاستخدام القهري (Lhermitte) — 🕓 مسودة
+- `syn-executive-stress` — متلازمة ضغط المديرين التنفيذيين وقرحة التوتر — 🕓 مسودة
+- `syn-exploding-head` — متلازمة الرأس المنفجر (الضوضاء السمعية الحسية أثناء النوم) — 🕓 مسودة
+- `syn-faustian-bargain` — متلازمة فاوست ومقايضة القيم بالنجاح السريع — 🕓 مسودة
+- `syn-fibromyalgia` — متلازمة الألم العضلي الليفي النفسية الجسدية (الفيبروميالغيا) — 🕓 مسودة
+- `syn-folie-a-deux` — متلازمة الجنون المشترك (الذهان المشاطر / الذهان المزدوج) — 🕓 مسودة
+- `syn-fomo` — متلازمة الخوف من فوات الشيء (FOMO) — 🕓 مسودة
+- `syn-foreign-accent` — متلازمة اللهجة الأجنبية (تغير النطق النمطي بعد أذية دماغية) — 🕓 مسودة
+- `syn-fragile-x-behavioral` — متلازمة الصبغي X الهش السلوكية المعرفية — 🕓 مسودة
+- `syn-fregoli` — متلازمة فريغولي (وهم تشابه الوجوه والتنكر) — 🕓 مسودة
+- `syn-frigophobia` — فوبيا البرد وفقدان طاقة اليانغ (Pa-leng / Frigophobia) — 🕓 مسودة
+- `syn-ganser` — متلازمة غانسر (متلازمة الإجابات التقريبية وعته السجون) — 🕓 مسودة
+- `syn-gerstmann` — متلازمة غيرستمان (العمه الإصبعي وتعذر الحساب والكتابة) — 🕓 مسودة
+- `syn-geschwind` — متلازمة غيرشفيند (متلازمة صرع الفص الصدغي السلوكية) — 🕓 مسودة
+- `syn-ghost-sickness` — مرض الأشباح لدى الشعوب الأصلية (Ghost Sickness) — 🕓 مسودة
+- `syn-global-aphasia` — متلازمة الحبسة الشاملة (فقدان التعبير والفهم اللغوي) — 🕓 مسودة
+- `syn-grisi-siknis` — متلازمة غريسي سيكنيس (الهستيريا الجماعية لشعب الميسكيتو) — 🕓 مسودة
+- `syn-gulf-war` — متلازمة حرب الخليج (الاعتلال المناعي العصبي متعدد الأعراض) — 🕓 مسودة
+- `syn-gururumba` — متلازمة الرجل البري في غينيا الجديدة (Gururumba Syndrome) — 🕓 مسودة
+- `syn-hamlet-syndrome` — متلازمة هاملت وشلل التحليل والتردد القاتل — 🕓 مسودة
+- `syn-havana` — متلازمة هافانا والحوادث الصحية الشاذة (Havana Syndrome) — 🕓 مسودة
+- `syn-hikikomori` — متلازمة هيكيكوموري (الانسحاب الاجتماعي الحاد والاعتزال المطول) — 🕓 مسودة
+- `syn-historical-neurasthenia` — متلازمة الوهن العصبي التاريخية (الإنهاك العصبي الأمريكي) — 🕓 مسودة
+- `syn-holiday-heart` — متلازمة قلب العطلات الحادة (اضطراب النظم النفسي الكحولي) — 🕓 مسودة
+- `syn-horner` — متلازمة هورنر العصبية الودية — 🕓 مسودة
+- `syn-hwa-byung` — متلازمة هوا-بيونغ (مرض الغضب المكبوت في الثقافة الكورية) — 🕓 مسودة
+- `syn-hyperthymesia` — متلازمة فرط الاسترجاع والتذكر السيري المطلق (HSAM) — 🕓 مسودة
+- `syn-hyperventilation` — متلازمة فرط التهوية والقلق التنفسي الحاد — 🕓 مسودة
 - `syn-hypervigilance` — فرط اليقظة — 🕓 مسودة
+- `syn-hypoactive-sexual-desire` — متلازمة نقص الرغبة الجنسية التثبيطية (HSDD) — 🕓 مسودة
+- `syn-impostor` — ظاهرة / متلازمة المحتال (الشعور بالزيف وعدم الكفاءة) — 🕓 مسودة
+- `syn-india-delhi` — متلازمة الهند ودلهي (الذهان والصدمة الروحية الموقفية) — 🕓 مسودة
 - `syn-insomnia` — الأرق — 🕓 مسودة
+- `syn-intermetamorphosis` — متلازمة التحول البيني (وهم تبادل الهويات الجسدية والنفسية) — 🕓 مسودة
+- `syn-jerusalem` — متلازمة القدس (الذهان الموقفي الديني العابر لزوار الأماكن المقدسة) — 🕓 مسودة
+- `syn-jumping-frenchmen` — متلازمة قفز رجال ولاية مين (فرط الإجفال والمحاكاة القهرية) — 🕓 مسودة
+- `syn-kandinsky-clerambault` — متلازمة كاندينسكي-كليرامبو للآلية العقلية والتحكم الخارجي — 🕓 مسودة
+- `syn-karoshi-overwork` — متلازمة كاروشي (الموت المفاجئ من فرط العمل في اليابان) — 🕓 مسودة
+- `syn-kaspar-hauser` — متلازمة كاسبار هاوزر والتقزم النفسي الاجتماعي (Psychosocial Dwarfism) — 🕓 مسودة
+- `syn-khyal-cap` — هجمات الرياح والذعر الفينومينولوجي (Khyal Cap في كمبوديا) — 🕓 مسودة
+- `syn-kleine-levin` — متلازمة كلاين-ليفين (متلازمة الجميلة النائمة وفرط النوم الدوري) — 🕓 مسودة
+- `syn-kluver-bucy` — متلازمة كلوفر-بوسي (العمه البصري وفرط الفموية والسلوك القهري) — 🕓 مسودة
+- `syn-koro` — متلازمة كورو (هذاء انكماش الأعضاء التناسلية) — 🕓 مسودة
+- `syn-korsakoff` — متلازمة كورساكوف للذاكرة والتلفيق — 🕓 مسودة
+- `syn-kufungisisa` — كوفونجيسيسا (متلازمة التفكير المفرط في ثقافة الشونا بزيمبابوي) — 🕓 مسودة
+- `syn-kz-syndrome` — متلازمة معسكرات الاعتقال والناجين المزمنة (KZ-Syndrom) — 🕓 مسودة
+- `syn-lady-macbeth` — متلازمة الليدي ماكبث والتطهر القهري من الذنب — 🕓 مسودة
+- `syn-landau-kleffner` — متلازمة لانداو–كليفنر (الحبسة الصرعية المكتسبة) — 🕓 مسودة
+- `syn-latah` — متلازمة لاتها (المحاكاة القهرية والاستجابة المفرطة للإجفال) — 🕓 مسودة
+- `syn-lima` — متلازمة ليما (تعاطف الخاطفين النفسي مع الرهائن) — 🕓 مسودة
+- `syn-locked-in` — متلازمة الانغلاق العصبي (الحبس الداخلي مع سلامة الوعي) — 🕓 مسودة
+- `syn-locura` — متلازمة لوكورا (الذهان الانفجاري الحاد في أمريكا اللاتينية) — 🕓 مسودة
 - `syn-loneliness-isolation` — العزلة والوحدة — 🕓 مسودة
+- `syn-lycanthropy-clinical` — متلازمة المستذئب الإكلينيكية (توهم التحول إلى حيوان) — 🕓 مسودة
+- `syn-mal-de-ojo` — متلازمة العين الشريرة والحسد الجسدي (Mal de Ojo) — 🕓 مسودة
+- `syn-middle-child` — متلازمة الطفل الأوسط والبحث عن الهوية (Middle Child Syndrome) — 🕓 مسودة
+- `syn-midlife-crisis` — متلازمة أزمة منتصف العمر (مواجهة الفناء والتقييم الوجودي) — 🕓 مسودة
+- `syn-mowgli` — متلازمة ماوكلي والحرمان الاجتماعي المبكر (الأطفال المتوحشون) — 🕓 مسودة
+- `syn-munchausen` — متلازمة مونخهاوزن (الاضطراب المفتعل المزمن الجسيم) — 🕓 مسودة
+- `syn-munchausen-by-internet` — متلازمة مونخهاوزن عبر الإنترنت (افتعال الأمراض الرقمي) — 🕓 مسودة
+- `syn-munchausen-by-proxy` — متلازمة مونخهاوزن بالوكالة (الاضطراب المفتعل المفروض على الآخرين) — 🕓 مسودة
+- `syn-neuroleptic-malignant` — المتلازمة الخبيثة لمضادات الذهان (حالة الطوارئ الدوائية الحادة) — 🕓 مسودة
+- `syn-nice-guy` — متلازمة الرجل اللطيف (التودد القهري والعدوانية السلبية) — 🕓 مسودة
+- `syn-night-eating` — متلازمة الأكل الليلي (Night Eating Syndrome) — 🕓 مسودة
+- `syn-nomophobia` — متلازمة نوموفوبيا (الذعر من فقدان الهاتف المحمول والانفصال الرقمي) — 🕓 مسودة
 - `syn-obsessive-thoughts` — الأفكار الوسواسية — 🕓 مسودة
+- `syn-only-child` — متلازمة الطفل الوحيد وسيكولوجيا فرط الحماية — 🕓 مسودة
+- `syn-othello` — متلازمة عطيل (الغيرة الهذائية الوهمية) — 🕓 مسودة
 - `syn-panic` — نوبة الهلع — 🕓 مسودة
+- `syn-parasite-single` — متلازمة العزاب الطفيليين (التبعية الأسرية والهروب من الزواج) — 🕓 مسودة
+- `syn-parental-alienation` — متلازمة التنفير الوالدي (الاستلاب الأبوي في النزاعات الأسرية) — 🕓 مسودة
+- `syn-paris` — متلازمة باريس (الصدمة الثقافية الحادة والانهيار الموقفي) — 🕓 مسودة
+- `syn-pasmo` — متلازمة باسمو (الشلل التشنجي بالحرارة والبرد) — 🕓 مسودة
+- `syn-phantom-limb` — متلازمة الطرف الشبحي (ألم وإحساس الطرف المبتور) — 🕓 مسودة
+- `syn-pibloktoq` — متلازمة بيبلوكتوك (الهستيريا القطبية لدى شعب الإنويت) — 🕓 مسودة
+- `syn-pollyanna` — متلازمة بوليانا (الإيجابية القهرية وإنكار الواقع) — 🕓 مسودة
+- `syn-post-concussion` — متلازمة ما بعد الارتجاج الدماغي — 🕓 مسودة
+- `syn-post-intensive-care` — متلازمة ما بعد العناية المركزة (PICS) — 🕓 مسودة
+- `syn-prader-willi-hyperphagia` — متلازمة برادر–فيلي السلوكية الغذائية (النهام القهري الوراثي) — 🕓 مسودة
+- `syn-presenteeism-syndrome` — متلازمة الحضور الشكلي والإنهاك في بيئة العمل (Presenteeism) — 🕓 مسودة
+- `syn-prosopagnosia` — متلازمة عمه تعرف الوجوه (عمى الوجوه) — 🕓 مسودة
+- `syn-psychogenic-death-cannon` — متلازمة الموت النفسي بالاستسلام واليأس الصدمي (Voodoo Death) — 🕓 مسودة
+- `syn-quarter-life-crisis` — متلازمة أزمة ربع العمر (قلق العشرينيات والتحول إلى الرشد) — 🕓 مسودة
+- `syn-quasimodo` — متلازمة كواسيمودو التاريخية لتشوه الجسد — 🕓 مسودة
+- `syn-rabbit-syndrome` — متلازمة الأرنب (الرعاش الفموي الحركي الدوائي) — 🕓 مسودة
+- `syn-railway-spine` — متلازمة عمود السكك الحديدية وصدمة القطارات التاريخية — 🕓 مسودة
+- `syn-raphael-syndrome` — متلازمة رافائيل وعبء الشهرة والتفوق المبكر — 🕓 مسودة
+- `syn-reduplicative-paramnesia` — متلازمة ازدواجية الذاكرة المكانية — 🕓 مسودة
+- `syn-restless-legs` — متلازمة تململ الساقين ويليس-إيكبوم — 🕓 مسودة
+- `syn-sad-clown` — متلازمة ومفارقة المهرج الحزين (Sad Clown Paradox) — 🕓 مسودة
+- `syn-savant` — متلازمة العبقري / سافانت (القدرات الاستثنائية الفائقة) — 🕓 مسودة
+- `syn-schumann-syndrome` — متلازمة شومان وتقلبات العبقرية الإبداعية الثنائية القطب — 🕓 مسودة
+- `syn-serotonin` — متلازمة السيروتونين (فرط التسمم السيروتونيني) — 🕓 مسودة
+- `syn-shaken-baby` — متلازمة الصدمة الاهتزازية للرضيع والاعتلال العصبي الرضحي — 🕓 مسودة
+- `syn-shell-shock` — متلازمة صدمة القذائف (صدمة الحرب العالمية الأولى) — 🕓 مسودة
+- `syn-shenjing-shuairuo` — الوهن العصبي الصيني (Shenjing Shuairuo) — 🕓 مسودة
+- `syn-shinkeishitsu` — متلازمة شينكيشيتسو (العصابية الوسواسية الحساسة باليابان) — 🕓 مسودة
+- `syn-sick-building` — متلازمة المباني المريضة (Sick Building Syndrome) — 🕓 مسودة
+- `syn-sinking-heart` — متلازمة القلب الغارق (الضيق الوجداني والجسدي في ثقافة البنجاب) — 🕓 مسودة
+- `syn-sleep-paralysis` — متلازمة شلل النوم المعزول (الجاثوم التفارقي) — 🕓 مسودة
+- `syn-somatoparaphrenia` — متلازمة السوماتوبارافرينيا (إنكار ملكية الأطراف المشلولة) — 🕓 مسودة
+- `syn-spiritual-possession-al-mass` — متلازمة المَسّ والاضطراب التلبسي في الإثنوسيكياتري العربي — 🕓 مسودة
+- `syn-ssri-discontinuation` — متلازمة الانقطاع عن مضادات الاكتئاب السيروتونينية — 🕓 مسودة
+- `syn-st-vitus-dance` — متلازمة رقصة القديس فيتوس (طاعون الرقص والهستيريا الجماعية) — 🕓 مسودة
+- `syn-stendhal` — متلازمة ستندال (متلازمة فلورنسا / الانهيار النفسي الجسدي أمام الفن) — 🕓 مسودة
+- `syn-stockholm` — متلازمة ستوكهولم (الارتباط والتعاطف النفسي مع المعتدي/الخاطف) — 🕓 مسودة
+- `syn-subjective-doubles` — متلازمة الأشباه الذاتية (وهم وجود نسخة مزدوجة من الذات) — 🕓 مسودة
+- `syn-sunday-neurosis` — متلازمة عصاب يوم الأحد وكآبة الفراغ (Sunday Neurosis) — 🕓 مسودة
+- `syn-superwoman` — متلازمة المرأة الخارقة (إنهاك السعي للكمال التعددي) — 🕓 مسودة
 - `syn-survivor-guilt-syndrome` — متلازمة ذنب الناجي — ✅ معتمد
+- `syn-susto` — متلازمة سوستو (مرض الفقدان الروحي الناجم عن الفزع في أمريكا اللاتينية) — 🕓 مسودة
+- `syn-synesthesia-ideasthesia` — متلازمة الحس المرافق وتداخل الحواس والأفكار (Synesthesia) — 🕓 مسودة
+- `syn-taijin-kyofusho` — متلازمة تايجين كيوفوشو (رهاب إحراج الآخرين وإزعاجهم في الثقافة اليابانية) — 🕓 مسودة
+- `syn-tall-poppy` — متلازمة الخشخاش الطويل (استهداف المتفوقين وقص الرؤوس) — 🕓 مسودة
+- `syn-tarantism` — متلازمة التارانتيسم (هستيريا رقصة العنكبوت الإيطالية) — 🕓 مسودة
+- `syn-tardive-dyskinesia` — متلازمة خلل الحركة المتأخر الدوائية (Tardive Dyskinesia) — 🕓 مسودة
+- `syn-tourette` — متلازمة جيل دو لا توريت (العرات الحركية والصوتية المزمنة) — 🕓 مسودة
+- `syn-transient-global-amnesia` — متلازمة فقدان الذاكرة الشامل العابر (TGA) — 🕓 مسودة
+- `syn-truman-show` — متلازمة عرض ترومان التوهمية (وهم تلفزيون الواقع) — 🕓 مسودة
+- `syn-tsunami-ghosts` — متلازمة أشباح تسونامي والصدمة التفارقية الجمعية — 🕓 مسودة
+- `syn-utilization-behavior` — متلازمة سلوك الاستخدام والتقليد الجبهي — 🕓 مسودة
+- `syn-van-gogh-syndrome` — متلازمة فان غوخ وتشويه الذات في الذهان المزمن — 🕓 مسودة
+- `syn-visual-snow` — متلازمة الثلج البصري النفسية العصبية — 🕓 مسودة
+- `syn-wallenberg` — متلازمة فالنبرغ (المتلازمة البصلية الجانبية) — 🕓 مسودة
+- `syn-wendigo` — ذهان الوينديغو (وهم التحول لآكل لحوم البشر في الثقافة الأصلية) — 🕓 مسودة
+- `syn-wernicke-aphasia` — متلازمة حبسة فيرنيكه الاستقبالية (عمه فهم الكلام والتلفيق اللفظي) — 🕓 مسودة
+- `syn-whistleblower` — متلازمة المبلّغين وصدمة الانتقام المؤسسي — 🕓 مسودة
+- `syn-whitehall` — متلازمة وايتهول وتدرج الإجهاد المهني والصحي — 🕓 مسودة
+- `syn-williams-behavioral` — متلازمة ويليامز السلوكية المعرفية (فرط الاجتماعية والطلاقة اللفظية) — 🕓 مسودة
+- `syn-wind-illness-trung-gio` — متلازمة ترونغ جيو (ضربة الريح والاعتلال الجسدي في فيتنام) — 🕓 مسودة
+- `syn-wind-turbine-infrasound` — متلازمة توربينات الرياح والأصوات دون السمعية — 🕓 مسودة
+- `syn-zar` — متلازمة الزار (طقس التلبس والاضطراب التفارقي في شمال إفريقيا) — 🕓 مسودة

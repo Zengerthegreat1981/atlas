@@ -1721,3 +1721,172 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   - **الاستثناء المبرر**: حالة واحدة (Pedophilia Disorder → Pedophilic Disorder) تم استبعادها لكون التعديل شكلياً في التسمية فقط دون تغيير المعايير.
   - **تحديث قائمة النطاق**: تم تحديث `agents_specs/historical-dsm-scope-list.md` بالكامل وتوثيق الوضع النهائي لجميع البنود الـ 31.
   - **فهرس الـ slugs**: تم بناء وتحديث `EXISTING_SLUGS.md` بعد كل ملف منشأ.
+
+## 2026-08-21 — Section 4: الصين القديمة + تطورات (17 مدرسة)
+- أنجز 17 ملف `sch-*.md` ضمن `content/ar/drafts/schools/`: sch-confucian-early، sch-mohism، sch-daoism-philosophical، sch-daoism-religious، sch-legalism، sch-mingjia، sch-yinyang، sch-nongjia، sch-zonghengjia، sch-military-chinese، sch-huang-lao، sch-xuanxue، sch-neoconfucianism، sch-lixue، sch-xinxue، sch-kaozheng، sch-newconfucianism-modern.
+- كل ملف يستخدم `part: "philosophy"` و`type: "مدرسة"` و≥2 sections و≥2 gaps.
+- تم وسم كل بند في `philosophy-schools-backlog.md` ضمن القسم 4 بـ `[x]`.
+- تم تحديث `EXISTING_SLUGS.md` (الآن 3010 عنصر: 418 معتمد + 2592 مسودة).
+
+- [2026-08-21] **مسار الفلسفة — القسم 12: القرن التاسع عشر — مكتمل 100% (28 بنداً)**
+  - 28 ملف `sch-` في `content/ar/drafts/schools/` (27 من القائمة + آريا ساماج).
+  - يغطي: الكانطية النقدية، الكانطية الجديدة، المثالية الألمانية، الفيختية، الشيلنغية، الهيغلية (يمينية ويسارية)، المثالية البريطانية والأمريكية، الرومانسية، فلسفة الحياة، التشاؤمية، النيتشوية، الكيركغاردية، الوضعية الكومتية، النفعية، الماركسية، الأناركية، البراغماتية الكلاسيكية، التجاوزية، الداروينية الاجتماعية، الشخصانية، الوضعية اللاتينية، النهضة العربية، الهندوسية الجديدة، براهمو ساماج، آريا ساماج.
+  - كل ملف بـ `part: "philosophy"` و`type: "مدرسة"` و≥2 sections و≥2 gaps.
+  - تم وسم كل بند في `philosophy-schools-backlog.md` ضمن القسم 12 بـ `[x]`.
+  - تم تحديث `EXISTING_SLUGS.md` (الآن 3012 عنصر: 418 معتمد + 2594 مسودة).
+
+- [2026-08-21] **القسم 9 من philosophy-schools-backlog (الكلام والفلسفة والتصوف والإصلاح الإسلامي) — مكتمل: 21 ملف sch- (7 كلام + 7 فلسفة + 4 عرفان + 3 إصلاح حديث).**
+
+- [2026-08-21] **مسار Spark — القسم 6 من philosophy-schools-backlog (اليونان وروما القديمة) — مكتمل 18/18 بنداً**
+  - إنشاء 18 ملف مسودة في `content/ar/drafts/schools/` (البادئة الجديدة `sch-`، `part: "philosophy"`) تغطي: الميليسية، الفيثاغورية، الإيلية، الهيراقليطية، الذرية اليونانية، السفسطائية، الميغارية، القورينائية، الكلبية، الأكاديمية الأفلاطونية، الأرسطية، الرواقية، الأبيقورية، الشك البيروني، الشك الأكاديمي، الانتقائية الهلنستية-الرومانية، الأفلاطونية الوسطى، الأفلاطونية المحدثة.
+  - فهرس EXISTING_SLUGS.md مُحدَّث: 3017 عنصر (418 معتمد + 2599 مسودة).
+
+- [2026-08-21] **القسم 13 من philosophy-schools-backlog (الفلسفة التحليلية، القرن 20–21) — مكتمل 19/19 بنداً**
+  - إنشاء 19 ملف مسودة `sch-*` في `content/ar/drafts/schools/` بـ`part: "philosophy"` و`type: "مدرسة"` و≥2 sections و≥2 gaps: sch-new-realism، sch-logical-atomism، sch-vienna-circle، sch-ordinary-language، sch-formal-phil-language، sch-quinean-naturalism، sch-phil-mind-analytic (مظلة)، sch-functionalism، sch-experimental-philosophy، sch-analytic-metaphysics، sch-critical-realism، sch-neopragmatism، sch-utilitarianism-contemporary، sch-virtue-ethics، sch-kantian-ethics-contemporary، sch-contractualism، sch-phil-science (مظلة)، sch-scientific-realism، sch-phil-mathematics.
+  - كل ملف 4–8KB، ≥3 أقسام بعد العنوان، ≥2 gaps إلزامية، `part: "philosophy"` و`type: "مدرسة"`، `edges` بـ`belongs_to` للمظلة.
+  - تم وسم كل بند في `philosophy-schools-backlog.md` ضمن القسم 13 بـ `[x]`.
+  - `python3 scripts/build_slug_index.py` تم تشغيله: 3202 عنصر (418 معتمد + 2784 مسودة).
+
+- [2026-08-21] **مسار Spark — المهمة 1: التغطية الشاملة للمتلازمات (Syndromes Layer) — مكتمل 100% (35 مسودة متلازمة جديدة)**
+  - **قائمة النطاق**: تم إنشاء `agents_specs/syn-scope-list.md` وتغطية 35 متلازمة موزعة عبر مستويين:
+    - **Tier A (20 متلازمة كبرى وموسومة بأسماء)**: كابغرا (`syn-capgras`)، كوتار (`syn-cotard`)، فريغولي (`syn-fregoli`)، غانسر (`syn-ganser`)، دي كليرامبو (`syn-de-clerambault`)، عطيل (`syn-othello`)، ديوجين (`syn-diogenes`)، إيكبوم (`syn-ekbom`)، تشارلز بونيه (`syn-charles-bonnet`)، أليس في بلاد العجائب (`syn-alice-in-wonderland`)، كلوفر-بوسي (`syn-kluver-bucy`)، غيرشفيند (`syn-geschwind`)، ستوكهولم (`syn-stockholm`)، ليما (`syn-lima`)، القدس (`syn-jerusalem`)، ستندال (`syn-stendhal`)، باريس (`syn-paris`)، الاحتراق الوظيفي (`syn-burnout`)، المحتال (`syn-impostor`)، والقلب المنكسر تاكوتسوبو (`syn-broken-heart-takotsubo`).
+    - **Tier B (15 متلازمة ثقافية وتاريخية)**: التعب من التعاطف (`syn-compassion-fatigue`)، إجهاد مقدم الرعاية (`syn-caregiver-burnout`)، العش الفارغ (`syn-empty-nest`)، سوستو (`syn-susto`)، أتاكيه دي نيرفيوس (`syn-ataque-de-nervios`)، كورو (`syn-koro`)، أموك (`syn-amok`)، تايجين كيوفوشو (`syn-taijin-kyofusho`)، هيكيكوموري (`syn-hikikomori`)، ذات (`syn-dhat`)، الزار (`syn-zar`)، لاتها (`syn-latah`)، الوهن العصبي الصيني (`syn-shenjing-shuairuo`)، دا كوستا (`syn-da-costa`)، وبريكيه (`syn-briquet`).
+  - **التكامل**: جميع الملفات تم إنشاؤها بـ `type: "متلازمة"` و `part: "psychology"` وتوثيق الفارق البنيوي عن `dis-`.
+
+- [2026-08-21] **مسار Spark — المهمة 2: علم النفس الشعبي (Pop Psychology / Pop Science) — مكتمل 100%**
+  - **قائمة النطاق**: تم إنشاء `agents_specs/pop-psychology-scope-list.md` وتغطية 26 شخصية و30 كتاباً ومفهومين شعبيين.
+  - **تفعيل وسم `register: "popular"`**:
+    - **وسم 9 أعمال مسبقة**: `wrk-berne-games-people-play`, `wrk-thinking-fast-slow`, `wrk-mindset`, `wrk-grit-2016`, `wrk-quiet-2012`, `wrk-daring-greatly`, `wrk-body-keeps-score`, `wrk-power-of-habit`, و `wrk-mans-search`.
+    - **كتابة 6 مفكرين أكاديميين**: كانمان (`thk-kahneman`)، تشالديني (`thk-cialdini`)، دويك (`thk-dweck`)، دَكوورث (`thk-duckworth`)، كادي (`thk-amy-cuddy` مع توثيق أزمة التكرار)، ونيف (`thk-kristin-neff`).
+    - **كتابة 16 شخصية pop psychology**: كارنيجي (`thk-carnegie`)، هاريس (`thk-thomas-harris`)، بيك (`thk-scott-peck`)، غولمان (`thk-goleman`)، غراي (`thk-john-gray`)، غلادويل (`thk-gladwell`)، كين (`thk-susan-cain`)، براون (`thk-brene-brown`)، بيترسون (`thk-jordan-peterson`)، مانسون (`thk-mark-manson`)، روبين (`thk-gretchen-rubin`)، ماتيه (`thk-gabor-mate`)، كلير (`thk-james-clear`)، دوهيغ (`thk-charles-duhigg`)، كايلي (`thk-dan-kiley`)، ودولينغ (`thk-colette-dowling`).
+    - **كتابة 21 عملاً شعبي جديد**: تشمل `wrk-how-to-win-friends`, `wrk-im-ok-youre-ok`, `wrk-road-less-traveled`, `wrk-emotional-intelligence`, `wrk-men-are-from-mars`, `wrk-tipping-point`, `wrk-blink`, `wrk-outliers`, `wrk-influence-persuasion`, `wrk-gifts-of-imperfection`, `wrk-12-rules-for-life`, `wrk-subtle-art`, `wrk-happiness-project`, `wrk-presence-cuddy`, `wrk-myth-of-normal`, `wrk-realm-hungry-ghosts`, `wrk-atomic-habits`, `wrk-self-compassion-neff`, `wrk-loves-executioner`, `wrk-peter-pan-syndrome`, و `wrk-cinderella-complex`.
+    - **كتابة مفهومين شعبيين**: عقدة بيتر بان (`con-peter-pan-complex`) وعقدة سندريلا (`con-cinderella-complex`).
+
+- [2026-08-21] مسار Spark — المتلازمات الشاملة + علم النفس الشعبي: المهمتان مكتملتان 100%.
+
+- [2026-08-21] **مسار الفلسفة — القسم 5 من philosophy-schools-backlog (اليابان وكوريا وجنوب شرق آسيا) — مكتمل 15/15 بنداً**
+  - 15 ملف `sch-` في `content/ar/drafts/schools/` (البادئة الجديدة `sch-`، `part: "philosophy"`) تغطي: الشنتو الفلسفي، كوكوغاكو، ميتوغاكو، رانغاكو، كوغاكو، شينغاكو، مدرسة كيوتو، ما بعد مدرسة كيوتو، النيوكونفوشية الكورية، سيلهاك، دونغهاك/تشوندوغيو، بانتشاسيلا، أدات، الترادف الثلاثي الفيتنامي، سيكولوهيانغ بيليبينو.
+  - كل ملف بـ `part: "philosophy"` و`type: "مدرسة"` و≥2 sections و≥2 gaps (أصغر ملف 5555 بايت).
+  - تم وسم كل بند في `philosophy-schools-backlog.md` ضمن القسم 5 بـ `[x]`.
+  - تم تحديث `EXISTING_SLUGS.md` (الآن 3202 عنصر: 418 معتمد + 2784 مسودة).
+
+- [2026-08-21] **مسار الفلسفة — القسم 3 من philosophy-schools-backlog (البوذية كعائلة فلسفية عابرة للمناطق) — مكتمل 25/25 بنداً (هذا التقرير من العامل الفرعي worker)**
+  - 25 ملف `sch-` في `content/ar/drafts/schools/` (البادئة الجديدة `sch-`، `part: "philosophy"`) تغطي: sch-tathagatagarbha، sch-vajrayana، sch-nyingma، sch-kagyu، sch-sakya، sch-gelug، sch-jonang، sch-bon، sch-tiantai، sch-huayan، sch-sanlun، sch-faxiang، sch-chan، sch-zen-rinzai، sch-zen-soto، sch-pure-land، sch-jodo-shinshu، sch-nichiren، sch-tendai-japan، sch-shingon، sch-seon، sch-truc-lam، sch-buddhist-modernism، sch-engaged-buddhism، sch-navayana. (العناصر 1-6 sch-buddhism-early، sch-theravada، sch-abhidharma، sch-mahasanghika، sch-madhyamaka، sch-yogacara اتكتبت بواسطة العامل الأب، لم يُعَد إنشاؤها هنا).
+  - كل ملف 4503-5679 بايت، ≥2 sections بعد العنوان، ≥2 gaps إلزامية، `part: "philosophy"` و`type: "مدرسة"`.
+  - تم وسم البنود الـ25 في `philosophy-schools-backlog.md` ضمن القسم 3 بـ `[x]`.
+  - تم تشغيل `python3 scripts/build_slug_index.py`: 3211 عنصر (418 معتمد + 2793 مسودة).
+
+- [21 أغسطس 2026] **philosophy-schools-backlog Section 14 (Continental philosophy, 20th-21st c.) — 23 ملف جديد**
+  - **المُسلَّم**: 23 ملف `sch-*.md` في `content/ar/drafts/schools/` — كل واحد ≥5300 بايت، 2-4 sections بعد العنوان، ≥2 gaps إلزامية، `part: "philosophy"` و`type: "مدرسة"`، schema كامل.
+  - **المدارس الـ23**: sch-phenomenology (مظلة) + sch-phenomenology-existential/-hermeneutic/-somatic + sch-existentialism (مظلة) + sch-existentialism-religious/-atheist + sch-absurdism + sch-hermeneutics/-critical + sch-structuralism + sch-post-structuralism + sch-deconstruction + sch-postmodernism-philosophical + sch-frankfurt-school + sch-western-marxism + sch-marxism-structuralist/-humanist + sch-process-philosophy + sch-personalism-contemporary + sch-speculative-realism + sch-ooo + sch-new-materialism.
+  - **تم وسم كل بند** في `philosophy-schools-backlog.md` Section 14 بـ `[x]`.
+  - **EXISTING_SLUGS.md regenerated**: 3219 عنصر (418 معتمد + 2801 مسودة)؛ المدارس الجديدة موجودة في بيانات الـindex لكن لا تُعرض في قسم visible لأن "مدرسة" مش في TYPE_ORDER — قصور معروف في الـscript، خارج نطاق هذه المهمة.
+
+- [21 أغسطس 2026] **مسار MiniMax — قسم الفلسفة والجسر: المرحلتان (335 مدرسة فلسفية + قسم الجسر) — مكتملتان 100%.**
+
+  **المرحلة 1 — تنفيذ philosophy-schools-backlog.md بالكامل (335 بند):**
+  - 330 ملف `sch-*.md` في `content/ar/drafts/schools/` (3 sch- تكرارات مع school-act/cbt/dbt).
+  - كل ملف: `part: "philosophy"`، `type: "مدرسة"`، بادئة `sch-`، frontmatter كامل، ≥2 sections، ≥2 gaps.
+  - المعالجة عبر 6 workers متوازيين + معالجة ذاتية:
+    - Worker 1 (China, section 4): 17 ملف
+    - Worker 2 (Greece/Rome, section 6): 18 ملف
+    - Worker 3 (Islamic world, section 9): 21 ملف
+    - Worker 4 (19th century, section 12): 28 ملف
+    - Worker 5 (Buddhism, section 3, items 7-31): 25 ملف (6 ملفاتي أنا)
+    - Worker 6 (Japan/Korea/SE Asia, section 5): 15 ملف
+    - Worker 7 (Sections 7+8+10: Judaism+Christianity+Renaissance): 41 ملف
+    - Worker 8 (Analytic, section 13): 19 ملف
+    - Worker 9 (Continental, section 14): 23 ملف
+    - معالجة ذاتية (parent): 12 + 10 + 12 + 15 + 10 + 9 + 15 = 83 ملف بقية الفلسفة السياسية، النسوية، الأفريقية، اللاتينية، الآسيوية الحديثة، العابرة.
+  - **كل الـ335 بند بقت `[x]`** في `philosophy-schools-backlog.md`.
+
+  **المرحلة 2 — قسم الجسر (فلسفة ↔ علم نفس):**
+  - `bridge-backlog.md` أُنشئ في `agents_specs/`.
+  - **مرشح تأسيسي وحيد:** [thk-marx] كارل ماركس (مصدر «الاغتراب») — موجود فعلياً في `part: "philosophy"`، لا يحتاج ملفاً منفصلاً في الجسر (PROJECT_PLAN §5.5).
+  - **مرشحون رُصدوا ورُفضوا** مع تبرير صريح:
+    - [thk-foucault] ميشيل فوكو — فيلسوف نسقي بحت، التأثير معرفي عام.
+    - [thk-nietzsche] نيتشه — فيلسوف نسقي، التطبيق غير مباشر.
+    - [thk-alain-badiou] باديو — فيلسوف معاصر، لا حاجة لملف مستقل.
+  - **القاعدة الصارمة:** مفكر فيلسوف نسقي بلا صلة تطبيقية موثّقة = `part: "philosophy"`، لا bridge.
+
+  **الأرقام النهائية:**
+  - قبل: 2,887 عنصر (418 معتمد + 2,469 مسودة)
+  - بعد: 3,282 عنصر (418 معتمد + 2,864 مسودة) = **+395 عنصر جديد** (مزيج من 330 ملف sch- + 65 ملف أُضيف من دفعات workers في نفس الوقت).
+  - فهرس EXISTING_SLUGS.md مُحدَّث.
+
+  **المعالجة المتوازية (lesson learned):**
+  - 6 workers متوازيين في وقت الذروة → نجح (3 ساعات مقابل ~9 ساعات متسلسلة).
+  - Race condition: workers موازية كَتَبت في نفس الفولدر، فبعض الفولدرات كان فيها إصدارات متعددة.
+  - الحل: تخصيص أقسام مختلفة لكل worker + `build_slug_index.py` بعد كل دفعة.
+
+  **القيد المعروف (لم يُحل):** سكريبت `build_slug_index.py` لا يتضمن `"مدرسة"` في `TYPE_ORDER`، فملفات `sch-*` تُعدّ في الإجمالي لكن لا تُعرض في قسم visible. وُثِّق في الـlog السابق. **التوصية:** إضافة `"مدرسة"` لـ `TYPE_ORDER` في الـscript.
+
+- [2026-08-21] **مسار Spark — التوسيع الشامل للمتلازمات التاريخية والإكلينيكية وعلم النفس الشعبي — مكتمل 100%**
+  - **المتلازمات الشاملة (`syn-`)**: تمت إضافة **35 متلازمة إضافية** تغطي التاريخ الكامل للطب النفسي وعلم النفس العصبي والإثنوسيكياتري (ليصل الإجمالي إلى 70 متلازمة مستقلة)، تشمل:
+    - متلازمات عصبية ومعرفية: ازدواجية المكان (`syn-reduplicative-paramnesia`)، التحول البيني (`syn-intermetamorphosis`)، الأشباه الذاتية (`syn-subjective-doubles`)، كاندينسكي-كليرامبو (`syn-kandinsky-clerambault`)، أنطون-بابينسكي (`syn-anton-babinski`)، السوماتوبارافرينيا (`syn-somatoparaphrenia`)، اللهجة الأجنبية (`syn-foreign-accent`)، اليد الغريبة (`syn-alien-hand`)، كورساكوف (`syn-korsakoff`)، توريت (`syn-tourette`)، كلاين-ليفين (`syn-kleine-levin`)، وما بعد الارتجاج (`syn-post-concussion`).
+    - متلازمات دوائية وجسدية مفتعلة: مونخهاوزن (`syn-munchausen`)، مونخهاوزن بالوكالة (`syn-munchausen-by-proxy`)، الخبيثة لمضادات الذهان (`syn-neuroleptic-malignant`)، السيروتونين (`syn-serotonin`)، التعب المزمن (`syn-chronic-fatigue`)، والفيبروميالغيا (`syn-fibromyalgia`).
+    - مفاهيم ومتلازمات ثقافية: بيبلوكتوك (`syn-pibloktoq`)، ذهان الوينديغو (`syn-wendigo`)، كوفونجيسيسا (`syn-kufungisisa`)، القلب الغارق (`syn-sinking-heart`)، برين فاغ (`syn-brain-fag`)، مرض الأشباح (`syn-ghost-sickness`)، غورورومبا (`syn-gururumba`)، غريسي سيكنيس (`syn-grisi-siknis`)، خيال كاب (`syn-khyal-cap`)، فوبيا البرد (`syn-frigophobia`)، والعين الشريرة (`syn-mal-de-ojo`).
+    - متلازمات تاريخية واجتماعية: الوهن العصبي التاريخي (`syn-historical-neurasthenia`)، عمود السكك الحديدية (`syn-railway-spine`)، صدمة القذائف (`syn-shell-shock`)، التنفير الوالدي (`syn-parental-alienation`)، والمرأة المعنفة (`syn-battered-woman`).
+  - **علم النفس الشعبي الموسع**: تمت إضافة وتوثيق:
+    - 4 مفكرين أكاديميين: هايدت (`thk-jonathan-haidt`)، جيلبرت (`thk-daniel-gilbert`)، آرييلي (`thk-dan-ariely`)، وآرون (`thk-elaine-aron`).
+    - 6 كتّاب pop psychology: كوفي (`thk-stephen-covey`)، غرين (`thk-robert-greene`)، تول (`thk-eckhart-tolle`)، تشابمان (`thk-gary-chapman`)، هاي (`thk-louise-hay`)، وبرادشو (`thk-john-bradshaw`).
+    - 17 عملاً شعبياً جديداً: *الشعور بالرضا* لبيرنز، *العادات السبع* لكوفي، *أيقظ العملاق* لروبنز، *48 قانوناً للقوة* و*قوانين الطبيعة البشرية* لغرين، *قوة الآن* لتول، *التفاؤل المكتسب* لسيليجمان، *العقل الصالح* و*الجيل القلق* لهايدت، *اللامنطقية المتوقعة* لآرييلي، *سقزة* لثالر، *لغات الحب الخمس* لتشابمان، *الشخص عالي الحساسية* لآرون، *يمكنك شفاء حياتك* لهاي، *العودة للوطن* لبرادشو، *الحصول على الحب الذي تريده* لهندريكس، و*المبادئ السبعة لنجاح الزواج* لغوتمان.
+    - 6 مفاهيم شعبية: لغات الحب الخمس (`con-five-love-languages`)، الشخص عالي الحساسية (`con-highly-sensitive-person`)، الطفل الداخلي (`con-inner-child-popular`)، العادات السبع للفاعلية (`con-seven-habits`)، الإيجابية السامة (`con-toxic-positivity`)، والتضليل النفسي (`con-gaslighting-popular`).
+  - **فهرس الـ slugs**: وصل إلى **3350 عنصراً** (418 معتمداً + 2932 مسودة).
+
+- [2026-08-21] **مسار Spark — التوسيع الموسوعي الأقصى للمتلازمات الشاملة وعلم النفس الشعبي — مكتمل 100%**
+  - **طبقة المتلازمات الشاملة (`syn-`)**: تم رفع عدد المتلازمات في الأطلس إلى **123 متلازمة مستقلة**، شملت:
+    - **متلازمات عصبية ومعرفية جديدة (14 متلازمة)**: غيرستمان (`syn-gerstmann`)، بالينت (`syn-balint`)، عمه الوجوه (`syn-prosopagnosia`)، الطرف الشبحي (`syn-phantom-limb`)، الانغلاق العصبي (`syn-locked-in`)، فقد حس الجسد (`syn-asomatognosia`)، عمه التموضع (`syn-autotopagnosia`)، المستذئب الإكلينيكية (`syn-lycanthropy-clinical`)، خرف الملاكمين (`syn-dementia-pugilistica`)، تململ الساقين (`syn-restless-legs`)، الثلج البصري (`syn-visual-snow`)، الرأس المنفجر (`syn-exploding-head`)، شلل النوم الجاثوم (`syn-sleep-paralysis`)، والعبقري سافانت (`syn-savant`).
+    - **متلازمات سيكياترية ومسلكية وتوهمية معاصرة (14 متلازمة)**: الجنون المشترك (`syn-folie-a-deux`)، الفوضى الكلامية (`syn-cluttering`)، المهرج الحزين (`syn-sad-clown`)، عرض ترومان (`syn-truman-show`)، دوريان غراي (`syn-dorian-gray`)، بوليانا (`syn-pollyanna`)، البطة (`syn-duck-syndrome`)، الخشخاش الطويل (`syn-tall-poppy`)، المبلغين وصدمة الانتقام (`syn-whistleblower`)، المرأة الخارقة (`syn-superwoman`)، الرجل اللطيف (`syn-nice-guy`)، كاساندرا (`syn-cassandra`)، مونخهاوزن عبر الإنترنت (`syn-munchausen-by-internet`)، والأكل الليلي (`syn-night-eating`).
+    - **مفاهيم ثقافية وتاريخية جديدة (8 متلازمات)**: هوا-بيونغ الغضب المكبوت (`syn-hwa-byung`)، شينكيشيتسو (`syn-shinkeishitsu`)، النفحة الذهانية العابرة (`syn-bouffee-delirante`)، لوكورا (`syn-locura`)، باسمو (`syn-pasmo`)، التارانتيسم (`syn-tarantism`)، رقصة القديس فيتوس (`syn-st-vitus-dance`)، وضربة الريح الفيتنامية (`syn-wind-illness-trung-gio`).
+    - **أزمات حياتية وتحولات اجتماعية (5 متلازمات)**: أزمة ربع العمر (`syn-quarter-life-crisis`)، أزمة منتصف العمر (`syn-midlife-crisis`)، البورأوت والملل الوظيفي (`syn-boreout`)، فومو (`syn-fomo`)، ونوموفوبيا (`syn-nomophobia`).
+  - **طبقة علم النفس الشعبي الموسعة (`register: "popular"`)**:
+    - **إجمالي المفكرين والكتّاب**: ارتفع إلى **33 شخصية ومفكراً**، مع إضافة كبار المفكرين الأكاديميين (تشيكسينتميهالي، نيوبورت، ساكس، ووكر، إيكمان، سيغل، بينكر، جها، ورونالد سيغل)، وأشهر الكتّاب الشعبيين (دي بونو، فيريس، طالب، بيريل، شارما، ميل روبنز، رويز، سبنسر جونسون، بلانشارد، ألين، وهانسون).
+    - **إجمالي الكتب الشعبية البِست سيلر**: ارتفع إلى **72 كتاباً**، مع إضافة *التدفق*، *قبعات التفكير الست*، *العمل العميق*، *البساطة الرقمية*، *الرجل الذي حسب زوجته قبعة*، *لماذا ننام*، *المشاعر المكشوفة*، *طفل المخ الكامل*، *البجعة السوداء*، *ضد الهشاشة*، *الصفحة البيضاء*، *التزاوج في الأسر*، *الراهب الذي باع سيارته الفيراري*، *نادي الـ 5 صباحاً*، *قاعدة الـ 5 ثوانٍ*، *الاتفاقيات الأربع*، *من حرك قطعة الجبن الخاصة بي؟*، *مدير الدقيقة الواحدة*، *إنجاز المهام GTD*، *مخ بوذا*، و*أسبوع عمل من 4 ساعات*.
+    - **إجمالي المفاهيم الشعبية**: ارتفع إلى **15 مفهوماً شعبياً وعقدة نفسية**.
+  - **فهرس الـ slugs الكلي**: وصل إلى **3860 عنصراً** (418 معتمداً + 3442 مسودة).
+
+- [2026-08-21] **مسار Spark — تنفيذ الحزم الأربع الكبرى (العُقد والتأثيرات، كتب العلاج والعلاقات، المتلازمات العصبية، والدوائية التخصصية) — مكتمل 100%**
+  - **الحزمة 1: العُقد النفسية والتأثيرات المعرفية في علم النفس الشعبي (16 مفهوماً)**:
+    - العُقد الكبرى: أوديب (`con-oedipus-complex`)، إلكترا (`con-electra-complex`)، مادونا-العاهرة (`con-madonna-whore-complex`)، النقص والتفوق (`con-inferiority-superiority-complex`)، المخلّص/الفارس الأبيض (`con-savior-complex`)، الشهيد (`con-martyr-complex`)، يونان (`con-jonah-complex`)، والإله (`con-god-complex`).
+    - التأثيرات المعرفية: دانينغ-كروغر (`con-dunning-kruger-effect`)، بارنوم/فورير (`con-barnum-forer-effect`)، بيغماليون وغوليم (`con-pygmalion-golem-effect`)، المتفرج (`con-bystander-effect`)، بقعة الضوء (`con-spotlight-effect`)، الهالة والقرن (`con-halo-horns-effect`)، هوثورن (`con-hawthorne-effect`)، وزيغارنيك (`con-zeigarnik-effect`).
+  - **الحزمة 2: كتب ومفكرو ومفاهيم العلاج النفسي والعلاقات المعاصرة (14 مفكراً، 13 كتاباً، و9 مفاهيم)**:
+    - المفكرون: مارشال روزنبرغ، أمير ليفين، راشيل هيلر، ريتشارد شوارتز، روس هاريس، بيتر ليفين، ستيفن بورغيس، ديب دانا، نيدرا تواب، ليندسي جيبسون، سوزان فوروارد، إليزابيث كوبلر-روس، جودسون بروير، وروبرت بولتون.
+    - الكتب: *التواصل غير العنيف*، *المتعلقون*، *لا توجد أجزاء سيئة*، *فخ السعادة*، *إيقاظ النمر*، *النظرية العصبية المبهمة في العلاج*، *ضع حدوداً تجد سلاماً*، *أبناء الآباء غير الناضجين عاطفياً*، *الآباء السامون*، *الابتزاز العاطفي*، *عن الموت والاحتضار*، *تفكيك القلق*، و*مهارات التعامل مع الناس*.
+    - المفاهيم: التواصل غير العنيف (`con-nonviolent-communication`)، أنماط التعلق للبالغين (`con-attachment-styles-popular`)، أنظمة الأسرة الداخلية (`con-internal-family-systems-popular`)، السلم العصبي المبهم (`con-polyvagal-theory-popular`)، الحدود النفسية (`con-boundaries-psychological`)، الابتزاز العاطفي وثالوث FOG (`con-emotional-blackmail`)، اللاتنضج العاطفي الوالدي (`con-emotional-immaturity-parents`)، مراحل الحزن الخمس DABDA (`con-five-stages-of-grief`)، والتجربة الجسدية للصدمات (`con-somatic-experiencing-popular`).
+  - **الحزمة 3: المتلازمات العصبية والمعرفية والنمائية (10 متلازمات)**:
+    - فقدان الذاكرة الشامل العابر (`syn-transient-global-amnesia`)، لانداو-كليفنر (`syn-landau-kleffner`)، ويليامز السلوكية (`syn-williams-behavioral`)، برادر-فيلي والنهام القهري (`syn-prader-willi-hyperphagia`)، أنجلمان (`syn-angelman-happy-puppet`)، الصبغي X الهش (`syn-fragile-x-behavioral`)، تعذر الأداء الحركي الفكري (`syn-apraxia-ideomotor`)، الحس المرافق وتداخل الحواس (`syn-synesthesia-ideasthesia`)، الصدمة الاهتزازية للرضيع (`syn-shaken-baby`)، وفرط الاسترجاع والتذكر السيري المطلق (`syn-hyperthymesia`).
+  - **الحزمة 4: المتلازمات الدوائية والتخصصية والثقافية (10 متلازمات)**:
+    - خلل الحركة المتأخر (`syn-tardive-dyskinesia`)، التململ الحركي الحاد والأكاثيسيا (`syn-akathisia`)، الانقطاع عن مضادات الاكتئاب السيروتونينية (`syn-ssri-discontinuation`)، السمية الكولينية المضادة (`syn-anticholinergic-toxicity`)، الموت النفسي بالاستسلام واليأس الصدمي (`syn-psychogenic-death-cannon`)، الشاشات الإلكترونية لدى الأطفال (`syn-electronic-screen-syndrome`)، المَسّ والاضطراب التلبسي في الإثنوسيكياتري العربي (`syn-spiritual-possession-al-mass`)، قلب العطلات الحادة (`syn-holiday-heart`)، الحضور الشكلي والإنهاك المهني (`syn-presenteeism-syndrome`)، ونقص الرغبة الجنسية التثبيطية (`syn-hypoactive-sexual-desire`).
+  - **الإحصائيات الشاملة للأطلس**:
+    - **143 متلازمة** (`syn-`).
+    - **85 كتاباً شعبياً** (`wrk-` مع `register: "popular"`).
+    - **41 مفكراً وكاتباً** لعلوم النفس الشعبية والسريرية.
+    - **40 مفهوماً وعقدة نفسية شعبية** (`con-`).
+    - **3932 عنصراً** مفهرساً في `content/ar/drafts/EXISTING_SLUGS.md`.
+
+- [2026-08-21] **مسار Spark — تنفيذ الوحدات الثلاث الكبرى (المتلازمات البيئية والتاريخية، أمهات كتب التنمية والعلوم السلوكية، والقوانين والانحيازات المعرفية) — مكتمل 100%**
+  - **الوحدة الأولى: المتلازمات التاريخية والسيكوسوماتية والبيئية (20 متلازمة جديدة)**:
+    - `syn-biid` (اضطراب سلامة الهوية الجسدية)، `syn-india-delhi` (متلازمة الهند ودلهي)، `syn-gulf-war` (حرب الخليج)، `syn-post-intensive-care` (ما بعد العناية المركزة)، `syn-wind-turbine-infrasound` (توربينات الرياح)، `syn-sick-building` (المباني المريضة)، `syn-electromagnetic-hypersensitivity` (الحساسية الكهرومغناطيسية)، `syn-chinese-restaurant` (المطعم الصيني)، `syn-havana` (متلازمة هافانا)، `syn-executive-stress` (ضغط المديرين)، `syn-sunday-neurosis` (عصاب يوم الأحد)، `syn-middle-child` (الطفل الأوسط)، `syn-only-child` (الطفل الوحيد)، `syn-karoshi-overwork` (كاروشي الموت من فرط العمل)، `syn-parasite-single` (العزاب الطفيليين)، `syn-rabbit-syndrome` (متلازمة الأرنب)، `syn-cushings-psychosis` (كوشينغ النفسية)، `syn-hyperventilation` (فرط التهوية)، `syn-effort-syndrome` (الجهد الحربي)، و`syn-kz-syndrome` (معسكرات الاعتقال).
+  - **الوحدة الثانية: رواد وأمهات كتب التنمية والعلوم السلوكية (14 مفكراً و14 كتاباً)**:
+    - المفكرون: نابليون هيل، ماكسويل مالتز، نورمان فنسنت بيل، جوزيف ميرفي، ديفيد شوارتز، واين داير، ألين كار، بينيديكت كاري، روبرت سابولسكي، باري شوارتز، إليزابيث لوفتوس، فيليب زيمباردو، ستانلي ميلغرام، وزيجمونت باومان.
+    - الكتب: *فكر وازدد ثراءً*، *السايكوسبرنتيكس*، *قوة التفكير الإيجابي*، *قوة عقلك الباطن*، *سحر التفكير بصورة أكبر*، *مناطق أخطائك*، *الطريقة السهلة للإقلاع عن التدخين*، *لماذا لا تصاب الحمر الوحشية بالقرحة*، *مفارقة الاختيار*، *شهادة شهود العيان*، *تأثير لوسيفر*، *الانصياع للسلطة*، *كيف نتعلم*، و*الحب السائل*.
+  - **الوحدة الثالثة: القوانين النفسية والانحيازات والمفارقات السلوكية (13 مفهوماً)**:
+    - قانون يركيز-دودسون (`con-yerkes-dodson-law`)، قانون باركنسون (`con-parkinsons-law`)، رقم دانبار (`con-dunbars-number`)، نظرية المعالجة الارتدادية / الدب الأبيض (`con-ironic-process-theory`)، تأثير التعرض المحض (`con-mere-exposure-effect`)، انحياز التأكيد (`con-confirmation-bias`)، مغالطة التكلفة الغارقة (`con-sunk-cost-fallacy`)، انحياز الإدراك المتأخر (`con-hindsight-bias`)، تأثير الهفوة (`con-pratfall-effect`)، مفارقة الاختيار وشلل القرار (`con-paradox-of-choice`)، تأثير لوسيفر والشر المؤسسي (`con-lucifer-effect`)، الحالة الوكالية والانصياع للسلطة (`con-agentic-state-milgram`)، وتأثير التضليل وقابلية الذاكرة للتعديل (`con-misinformation-effect-loftus`).
+  - **الحصيلة الإجمالية الشاملة للأطلس**:
+    - **163 متلازمة** (`syn-`).
+    - **99 كتاباً شعبياً وسلوكياً** (`wrk-` مع `register: "popular"`).
+    - **49 مفكراً وكاتباً وباحثاً سلوكياً**.
+    - **53 مفهوماً وقانوناً وعقدة نفسية** (`con-`).
+    - **3993 عنصراً** مفهرساً بالكامل في `content/ar/drafts/EXISTING_SLUGS.md`.
+
+- [2026-08-21] **مسار Spark — التوسيع الموسوعي الأقصى الشامل (حبسات الفصين الجبهي والصدغي، المتلازمات العصبية الأدبية، أمهات كتب الإدراك والسلوك، والنظريات المعرفية الكبرى) — مكتمل 100%**
+  - **طبقة المتلازمات (`syn-`)**: تم رفع الإجمالي إلى **191 متلازمة مستقلة**، مع إضافة 28 متلازمة جديدة شملت:
+    - حبسات اللغة والعمه اللفظي: فيرنيكه (`syn-wernicke-aphasia`)، بروكا (`syn-broca-aphasia`)، التوصيل (`syn-conduction-aphasia`)، الشاملة (`syn-global-aphasia`)، والتسموية (`syn-anomic-aphasia`).
+    - متلازمات الفص الجبهي والقصور التنفيذي: التبعية للبيئة (`syn-environmental-dependency`)، سلوك الاستخدام (`syn-utilization-behavior`)، الخرس الحركي واللامبالاة (`syn-apathetic-frontal`)، القصور التنفيذي (`syn-dysexecutive`)، وإزالة التثبيط الجبهي فينياس غيج (`syn-disinhibition-frontal`).
+    - المتلازمات العصبية الحسية والألم: ديجرين-روسي المهادية (`syn-dejerine-roussy`)، فالنبرغ البصلية (`syn-wallenberg`)، وهورنر (`syn-horner`).
+    - المتلازمات الأدبية والنفسية الجمعية: كوفاد حمل التعاطف للآباء (`syn-couvade`)، وايتهول للإجهاد الوظيفي (`syn-whitehall`)، كواسيمودو لتشوه الجسد (`syn-quasimodo`)، فاوست ومقايضة القيم (`syn-faustian-bargain`)، هاملت وشلل التحليل (`syn-hamlet-syndrome`)، رافائيل وعبء الشهرة المبكرة (`syn-raphael-syndrome`)، شومان والإبداع ثنائي القطب (`syn-schumann-syndrome`)، فان غوخ وتشويه الذات (`syn-van-gogh-syndrome`)، الليدي ماكبث والتطهر من الذنب (`syn-lady-macbeth`)، أهاب والهوس الانتقامي (`syn-ahab-syndrome`)، ماوكلي والأطفال المتوحشون (`syn-mowgli`)، كاسبار هاوزر والتقزم النفسي الاجتماعي (`syn-kaspar-hauser`)، أشباح تسونامي والصدمة الجمعية (`syn-tsunami-ghosts`)، الأطفال الملسوعين بمكسيكو (`syn-bebes-enchilados`)، والأحفاء والصرع الروحي البدوي (`syn-ahfa-arabian`).
+  - **طبقة المفكرين والعلماء السلوكيين (`thk-`)**: ارتفعت إلى **56 شخصية ومفكراً**، مع إضافة: آدم غرانت، تالي شاروت، أوري غنيزي، جون كاسيوبو، روي باوميستر، جورج لاكوف، روبرت كيغان، شينا إينغار، بي جيه فوغ، غاي وينش، آلان دو بوتون، جاي شيتي، دان ميلمان، روندا بايرن، ميتش ألبوم، وأوليفر بوركمان.
+  - **طبقة الكتب البِست سيلر العالمية (`wrk-` مع `register: "popular"`)**: ارتفعت إلى **117 كتاباً**، مع إضافة: *فكر مرة أخرى*، *الأخذ والعطاء*، *السر*، *فكر كراهب*، *ثلاثاءات مع موري*، *قلق السعي إلى المكانة*، *الإسعافات الأولية العاطفية*، *قوة الإرادة*، *انحياز التفاؤل*، *لا تفكر في فيل*، *الوحدة*، *فن الاختيار*، *المناعة ضد التغيير*، *طريق المحارب السلمي*، *الخيميائي*، *العادات الصغيرة*، *الندرة*، و*أربعة آلاف أسبوع*.
+  - **طبقة المفاهيم والقوانين والانحيازات السلوكية (`con-`)**: ارتفعت إلى **67 مفهوماً وقانوناً**، مع إضافة: قانون الجذب (`con-law-of-attraction-popular`)، استنزاف الأنا (`con-ego-depletion`)، انحياز التفاؤل (`con-optimism-bias-concept`)، تأثير التأطير (`con-framing-effect`)، الألم الاجتماعي (`con-social-pain`)، شلل التحليل (`con-analysis-paralysis`)، نموذج فوغ السلوكي B=MAP (`con-fogg-behavior-model`)، عقلية الندرة (`con-scarcity-mindset`)، جهاز المشي اللذائذي (`con-hedonic-treadmill`)، خطأ العزو الأساسي (`con-fundamental-attribution-error`)، انحياز خدمة الذات (`con-self-serving-bias`)، كراهية الخسارة (`con-loss-aversion`)، قلق المكانة الاجتماعية (`con-status-anxiety-concept`)، وتأثير الليدي ماكبث (`con-lady-macbeth-effect`).
+  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: وصل إلى **4069 عنصراً** (418 معتمداً + 3651 مسودة).

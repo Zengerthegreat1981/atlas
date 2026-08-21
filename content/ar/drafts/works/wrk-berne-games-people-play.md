@@ -2,6 +2,7 @@
 slug: "wrk-berne-games-people-play"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "ألعاب الناس (Games People Play)"
 en: "Games People Play: The Psychology of Human Relationships"

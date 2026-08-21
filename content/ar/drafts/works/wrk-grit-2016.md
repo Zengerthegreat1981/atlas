@@ -2,6 +2,7 @@
 slug: "wrk-grit-2016"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "عقل السعي: عقلية العزيمة والشغف والإصرار"
 en: "Grit: The Power of Passion and Perseverance"

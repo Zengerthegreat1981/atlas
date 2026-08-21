@@ -2,6 +2,7 @@
 slug: "wrk-authentic-happiness"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "السعادة الحقيقية: استخدام علم النفس الإيجابي الجديد"
 en: "Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment"

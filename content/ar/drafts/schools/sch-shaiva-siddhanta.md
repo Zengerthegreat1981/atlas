@@ -1,0 +1,60 @@
+---
+slug: "sch-shaiva-siddhanta"
+id: "[DRAFT-UNKNOWN]"
+type: "مدرسة"
+part: "philosophy"
+level: "متوسط"
+title: "شايفا سيدهانتا"
+en: "Shaiva Siddhānta (South Indian Shaivism)"
+crumb: "الفلسفة ← الهند ← المدارس غير الأرثوذكسية ← شايفا سيدهانتا"
+dates: "الهند (تاميل نادو) · من القرن 6 م إلى القرن 14 م"
+country: "الهند (تاميل نادو)"
+language: "التاميلية، السنسكريتية"
+active_start: 500
+active_end: 1400
+edges:
+  - rel: "belongs_to", target: "التقاليد الشايفية", target_type: "مظلة"
+related:
+  - id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية", type: "مدرسة"
+  - id: "sch-tantra", title: "التانترا الفلسفية", type: "مدرسة"
+  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+gaps:
+  - "نصوص Tirumular's Tirumantiram وMeykandar's Sivajñāna-bhōsham تحتاج مراجعة من المصدر الأولي."
+---
+
+# شايفا سيدهانتا (Shaiva Siddhānta)
+
+تقليد شايفا فلسفي ومنهجي من جنوب الهند، من أقدم التقاليد المذهبية في الهندوسية. أسسه المفسرون التاميليون الـNayanar.
+
+## المراحل
+
+- **المرحلة الأولى (الهندوسية التاميلية المبكرة)**: من القرن 6 م.
+- **المرحلة المنهجية (Meykandar)**: القرن 13.
+- **المرحلة اللاحقة**: من القرن 14-17.
+
+## الأفكار المركزية
+
+- **ثلاثة جواهر**: Pati (الإله Shiva، السيد)، Pāśu (الروح المقيدة)، Pāśa (الرباط).
+- **27 tattvas (مبادئ وجودية)**: منظومة تفصيلية من Shiva إلى المادي.
+- **Mala-Anava-Karma**: ثلاثة قيود للروح.
+- **Meykandar (القرن 13)**: صاحب Sivajñāna-bhōsham، أعظم المؤلفين.
+- **Arunandi (القرن 13)**: صاحب Sivajñāna-siddhiyar.
+
+## الفلاسفة
+
+- **Thirunavukkarasar (Appar)**: شاعر قديس (القرن 6 م).
+- **Tirugnana Sambandar**: شاعر قديس (القرن 7 م).
+- **Sundarar (Sundaramurti)**: شاعر (القرن 8 م).
+- **Meykandar (القرن 13)**: أوائل المنهجية.
+- **Arunandi Sivacharya (القرن 13)**: المعلق الكبير.
+- **Sivāgrayogin (القرن 16)**: معلق حديث.
+
+## الأثر
+
+- أصبح المذهب الفلسفي الأكثر رسمية في جنوب الهند.
+- أثّر في الأدب التاميلي والفن.
+- مقارنة مع Vedanta في الشمال: أكثر مادية وقرباً من العالم.
+
+## القيد
+
+- تخصصه في Shiva قد يحدّ من اتساعه للمقارنة مع الأدفانا اللاهوتية.

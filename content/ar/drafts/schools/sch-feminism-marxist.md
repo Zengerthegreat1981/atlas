@@ -1,0 +1,57 @@
+---
+slug: "sch-feminism-marxist"
+id: "[DRAFT-UNKNOWN]"
+type: "مدرسة"
+part: "philosophy"
+level: "متوسط"
+title: "النسوية الماركسية / الاشتراكية"
+en: "Marxist / Socialist Feminism"
+crumb: "الفلسفة ← النسوية ← الماركسية/الاشتراكية"
+dates: "أوروبا، أمريكا · من 1880s إلى اليوم"
+country: "متعددة"
+language: "متعددة"
+active_start: 1884
+active_end: "مستمر"
+edges:
+  - rel: "evolved_from", target: "الماركسية الكلاسيكية", type: "مدرسة"
+  - rel: "evolved_from", target: "النسوية الراديكالية", type: "مدرسة"
+related:
+  - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+  - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+  - id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
+gaps:
+  - "نصوص Zetkin, Kollontai, Dalla Costa, Vogel, Ferguson, Federici تحتاج مراجعة من المصدر الأولي."
+---
+
+# النسوية الماركسية / الاشتراكية (Marxist / Socialist Feminism)
+
+تيار يجمع بين الماركسية والنسوية، يرى أن قمع المرأة لا يُفهم فقط عبر النظام الأبوي بل أيضاً عبر الرأسمالية وأشكال الاستغلال.
+
+## الأفكار المركزية
+
+- **العمل المنزلي غير مأجور (Domestic Labor)**: إنجاب وتربية ورعاية الأطفال عمل لا يُكافأ رأسمالياً.
+- **الإرث المزدوج**: المرأة مُستغلة بسبب الجنس والطبقة.
+- **الوحدة بين النضالات**: تحرير المرأة جزء من تحرير العمال.
+- **النقد اللاحق (Federici)**: تراكم الرأسمالية أصله في «التراكم البدائي» عبر اضطهاد النساء (السحر، الحروب).
+- **النسوية المادية (Materialist Feminism)**: تجاوز المثالي في التحليل.
+
+## الفلاسفة
+
+- **أوغست بيبل (August Bebel، 1840-1913)**: «Woman and Socialism» (1879).
+- **كلارا تسيتكين (Clara Zetkin، 1857-1933)**: مؤسس اليوم العالمي للمرأة.
+- **ألكسندرا كولونتاي (Alexandra Kollontai، 1872-1952)**: «The Social Basis of the Woman Question» (1909).
+- **Selma James (سلمى جيمس) & Mariarosa Dalla Costa**: «The Power of Women and the Subversion of the Community» (1972).
+- **Lise Vogel (ليز فوغل)**: «Marxism and the Oppression of Women» (1983).
+- **Silvia Federici (سيلفيا فيديريشي)**: «Caliban and the Witch» (2004).
+- **Nancy Fraser (نانسي فريزر)**: «Unruly Practices» (1989).
+- **Annette Kuhn (أنيت كوهن)**: منظِّرة المنظور المادي.
+
+## الأثر
+
+- أثّرت في حركات نسوية الطبقة العاملة (Wages for Housework).
+- أثّرت في الحركات الما بعد الاستعمارية.
+- أثّرت في تحليل «الجندر والتنمية» في البنك الدولي ومنظمات أخرى.
+
+## القيد
+
+- واجهت صعوبة في التوفيق بين الماركسية (طبقية) والنسوية (نوع).

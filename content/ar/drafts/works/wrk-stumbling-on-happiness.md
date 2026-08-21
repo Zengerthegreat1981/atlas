@@ -2,6 +2,7 @@
 slug: "wrk-stumbling-on-happiness"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "العثار في طريق السعادة"
 en: "Stumbling on Happiness"

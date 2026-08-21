@@ -2,6 +2,7 @@
 slug: "wrk-body-keeps-score"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "متوسط"
 title: "الجسم يحتفظ بالندم: الدماغ والعقل والجسد في شفاء الصدمة"
 en: "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"

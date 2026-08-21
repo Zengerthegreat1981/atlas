@@ -2,6 +2,7 @@
 slug: "wrk-happiness-hypothesis"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "فرضية السعادة: كشف الحقيقة الحديثة في الحكمة القديمة"
 en: "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom"

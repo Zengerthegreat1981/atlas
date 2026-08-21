@@ -1,0 +1,58 @@
+---
+slug: "sch-queer-theory"
+id: "[DRAFT-UNKNOWN]"
+type: "مدرسة"
+part: "philosophy"
+level: "متوسط"
+title: "النظرية الكويرية"
+en: "Queer Theory"
+crumb: "الفلسفة ← النسوية ← النظرية الكويرية"
+dates: "أمريكا، أوروبا · من 1990s إلى اليوم"
+country: "الولايات المتحدة، المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+edges:
+  - rel: "evolved_from", target: "النسوية الفرنسية", type: "مدرسة"
+  - rel: "evolved_from", target: "ما بعد البنيوية", type: "مدرسة"
+related:
+  - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية", type: "مدرسة"
+  - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+  - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
+gaps:
+  - "نصوص Sedgwick, Butler, Halperin, Warner, Foucault (History of Sexuality) تحتاج مراجعة من المصدر الأولي."
+---
+
+# النظرية الكويرية (Queer Theory)
+
+تيار ينتقد تصنيفات الميول الجنسي والجندر الثنائية، مُؤكّداً على السيولة والاختلاف في التجربة الجنسية.
+
+## الأفكار المركزية
+
+- **Performativity of Gender (Butler)**: الجندر أداء (ليس هوية ثابتة)، يُعاد إنتاجه عبر الأفعال.
+- **الهوموسوتيفي (Homosocial / Homosexual)**: عند Sedgwick، طيف معقد.
+- **الجندر والمُلَكية (Gender Trouble)**: تفكيك ثنائية الذكر/الأنثى.
+- **الجسد كفضاء سياسي**: الجسد موقع للمقاومة.
+- **Antisocial Thesis (Edelman)**: «No Future» — رفض السياسة الإنجابية.
+- **Affirmative Queer (Muñoz)**: «Cruising Utopia» — المثلي كمنفى إيجابي.
+
+## الفلاسفة
+
+- **جوديث بتلر (Judith Butler)**: «Gender Trouble» (1990).
+- **إيف كوزوفسكي سِدغويك (Eve Kosofsky Sedgwick)**: «Epistemology of the Closet» (1990).
+- **ديفيد هالبرين (David Halperin)**: «One Hundred Years of Homosexuality» (1990).
+- **Michael Warner (مايكل وارنر)**: «The Trouble with Normal» (1999).
+- **Lee Edelman (لي إيدلمان)**: «No Future» (2004).
+- **José Esteban Muñoz (خوسيه موينيوز)**: «Cruising Utopia» (2009).
+- **Foucault (فوكو)**: «The History of Sexuality» (1976) — سلف.
+
+## الأثر
+
+- أثّرت في دراسات LGBTQ+.
+- أثّرت في علم النفس المثلي (gay affirmative therapy).
+- أثّرت في الحركات الاجتماعية.
+
+## القيد
+
+- تواجه انتقادات من النسويات لتخفيف التركيز على النوع الاجتماعي.
+- تواجه انتقادات من السياسات اليسارية لـ«Antisocial Thesis».

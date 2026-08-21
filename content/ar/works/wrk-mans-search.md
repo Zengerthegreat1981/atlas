@@ -2,6 +2,7 @@
 slug: "wrk-mans-search"
 id: "WRK-0208"
 type: "عمل / كتاب"
+register: "popular"
 level: ""
 title: "الإنسان يبحث عن المعنى"
 en: "…trotzdem Ja zum Leben sagen · Man's Search for Meaning"

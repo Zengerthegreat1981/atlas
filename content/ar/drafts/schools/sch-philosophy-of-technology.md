@@ -1,0 +1,60 @@
+---
+slug: "sch-philosophy-of-technology"
+id: "[DRAFT-UNKNOWN]"
+type: "مدرسة"
+part: "philosophy"
+level: "متوسط"
+title: "فلسفة التكنولوجيا"
+en: "Philosophy of Technology"
+crumb: "الفلسفة ← المقارنة والعابرة ← فلسفة التكنولوجيا"
+dates: "أوروبا، أمريكا · من 1877 إلى اليوم"
+country: "ألمانيا، هولندا، أمريكا"
+language: "الألمانية، الإنجليزية"
+active_start: 1877
+active_end: "مستمر"
+edges:
+  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", type: "مظلة"
+related:
+  - id: "sch-heidegger", title: "مارتن هايدجر", type: "مفكر"
+  - id: "sch-borgmann", title: "ألبرت بورغمان", type: "مفكر"
+  - id: "sch-foucault", title: "ميشيل فوكو", type: "مفكر"
+gaps:
+  - "نصوص Ernst Kapp, Lewis Mumford, Jacques Ellul, Martin Heidegger, Gilbert Simondon, Bernard Stiegler, Gilbert Hottois, Don Ihde, Peter-Paul Verbeek need review."
+```
+
+# فلسفة التكنولوجيا (Philosophy of Technology)
+
+تيار فلسفي يَدرس تأثير التكنولوجيا على الإنسان والمجتمع والمعرفة.
+
+## الأفكار المركزية
+
+- **Technik (التقنية)**: عند هايدجر، كشف الوجود.
+- **The Technological Society (المجتمع التقني)**: عند Ellul، التكنولوجيا نظام.
+- **The Medium is the Message (الوسيط هو الرسالة)**: عند McLuhan.
+- **Cyborg (الكائن الهجين)**: عند Donna Haraway.
+- **Phénoménotechnique**: عند Bachelard، التقنية كظاهرة علمية.
+- **Homo Sapiens Sapiens Sapiens (الإنسان الصانع)**: عند Stiegler، الإنسان ككائن تقني.
+
+## الفلاسفة
+
+- **إرنست كاب (Ernst Kapp، 1808-1896)**: «Grundlinien einer Philosophie der Technik» (1877).
+- **Lewis Mumford (لويس مومفورد، 1895-1990)**: «Technics and Civilization» (1934).
+- **Jacques Ellul (جاك إيلول، 1912-1994)**: «The Technological Society» (1954).
+- **Martin Heidegger (مارتن هايدجر)**: «The Question Concerning Technology» (1953).
+- **Gilbert Simondon (جيلبير سيموندون، 1924-1989)**: «Du mode d'existence des objets techniques» (1958).
+- **Bernard Stiegler (برنار شتيغلر، 1952-2020)**: «La Technique et le Temps» (1994).
+- **Don Ihde (دون إيد)**: «Philosophy of Technology» (1993).
+- **Peter-Paul Verbeek (بيتر-بول فيربيك)**: «What Things Do» (2005).
+- **Lucien Sfez (لوسيان سفيز)**: «Critique de la communication» (1990).
+- **Paul Virilio (بول فيريليو)**: «Speed and Politics» (1977).
+
+## الأثر
+
+- أثّرت في الفلسفة المعمارية.
+- أثّرت في نظريات الذكاء الاصطناعي.
+- أثّرت في فلسفة البيئة.
+
+## القيد
+
+- تواجه انتقادات بسبب «التشاؤمية».
+- تواجه انتقادات بسبب إهمال الفاعل البشري.

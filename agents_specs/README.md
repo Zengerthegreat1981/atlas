@@ -40,6 +40,9 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 5. **[spark-syndromes-pop-psychology-pipeline.md](spark-syndromes-pop-psychology-pipeline.md)** —
    المهمة الحالية (بتاريخ 2026-08-21): تغطية شاملة للمتلازمات (`syn-`) ثم علم النفس الشعبي (Pop
    Psychology، حقل `register` الجديد). ابدأ من هنا مباشرة — راجع `draft-writer-brief.md` §2د أولاً.
+6. **[spark-studies-instruments-full-coverage-backlog.md](spark-studies-instruments-full-coverage-backlog.md)**
+   — **التالية في القائمة، لا تبدأها إلا بعد ما رقم 5 يبقى `[x]`.** مسح شامل مستقل للدراسات
+   التاريخية الكلاسيكية وأدوات القياس النفسي، بمعزل عن أي مدرسة بعينها.
 
 ### مسار MiniMax
 
@@ -50,6 +53,10 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
    2026-08-21). بموافقة صريحة من صاحب المشروع: بدء **قسم الفلسفة** (335 مدرسة/تيار في
    `philosophy-schools-backlog.md`) ثم **قسم الجسر**. ابدأ من هنا مباشرة — لاحظ التغيير المعماري
    الجديد (`part`, `schools/`) في `draft-writer-brief.md` §2ج قبل أول مسودة.
+4. **[minimax-cross-part-relations-pipeline.md](minimax-cross-part-relations-pipeline.md)** —
+   **التالية في القائمة، لا تبدأها إلا بعد ما رقم 3 يبقى `[x]` بالكامل (المرحلتين).** علاقات `rel-`
+   موثّقة أكاديميًا بين مدارس فلسفية ومدارس نفسية (رواقية↔CBT، بوذية↔الموجة الثالثة، وجودية فلسفية↔
+   وجودية علاجية...).
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/

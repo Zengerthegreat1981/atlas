@@ -1,0 +1,36 @@
+---
+slug: "con-parallelism-philosophy"
+id: "[DRAFT-UNKNOWN]"
+type: "مفهوم"
+part: "philosophy"
+level: "متقدم"
+title: "التّوازيات الفلسفية (Philosophical Parallelism)"
+en: "Philosophical Parallelism (Comparative)"
+crumb: "الفلسفة ← العابرة ← المقارنة ← التوازيات"
+active_start: 1924
+active_end: "مستمر"
+edges:
+  - rel: "belongs_to", target: "الفلسفة المقارنة", target_type: "مدرسة"
+related:
+  - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
+  - id: "thk-masson-oursel", title: "بول-لويس ماسون-أورسيل", type: "مفكر"
+gaps:
+  - "لم تُراجع بعدُ دراسات Deutsch (Studies in Comparative Aesthetics) ولا Rosemont (A Chinese Mirror)."
+
+---
+
+# التوازيات الفلسفية (Philosophical Parallelism)
+
+منهجٌ في الفلسفة المقارنة يَقارن بين مفاهيم أو مَسارات فكرية في تقاليد فلسفية مختلفة، دون أن يَدّعي وجود تطابق أو تأثير متبادل.
+
+## التمييز النظري
+
+- **التوازي** (Parallelism) ≠ **التطابق** (Identity): يمكن أن يكون عند أفلاطون مفهوم *Anamnesis* وفي الفيدانتا مفهوم *Smarana* دون أن يَكون أحدهما أصل الآخر.
+- التوازي يَسعى إلى **الكشف عن البنى المشتركة** في التجربة الإنسانية (الموت، الفناء، السعادة، العدالة)، لا إلى نَسخ تقليد من آخر.
+- **منهج ماسون أورسيل**: في كل تَقليد يَجب فَهم المَنطق الداخلي قبل المقارنة.
+
+## الفرق عن مفاهيم مشابهة
+
+- **يَختلف عن الـInfluences** (التأثيرات): التوازي لا يَفترض انتقالاً تاريخياً.
+- **يَختلف عن الـUniversals** (الكونيات الفلسفية): الكونية تَدّعي وَحدة جوهرية، التوازي يَكتشف بنياً متشابهة دون تَوحيد.
+- **يَتقاطع مع Structuralism** (Levi-Strauss): كلاهما يَبحث عن بنى عميقة، لكن ماسون أورسيل أقل مَادية.

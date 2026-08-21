@@ -2,6 +2,7 @@
 slug: "wrk-thinking-fast-slow"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "التفكير، السريع والبطيء"
 en: "Thinking, Fast and Slow"

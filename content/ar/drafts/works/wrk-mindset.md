@@ -2,6 +2,7 @@
 slug: "wrk-mindset"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "العقلية: علم النفس الجديد للنجاح"
 en: "Mindset: The New Psychology of Success"

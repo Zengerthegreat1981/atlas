@@ -2,6 +2,7 @@
 slug: "wrk-quiet-2012"
 id: "[DRAFT-UNKNOWN]"
 type: "عمل / كتاب"
+register: "popular"
 level: "مبتدئ"
 title: "هادئ: قوة الانطوائيين في عالم لا يتوقف عن الكلام"
 en: "Quiet: The Power of Introverts in a World That Can't Stop Talking"
