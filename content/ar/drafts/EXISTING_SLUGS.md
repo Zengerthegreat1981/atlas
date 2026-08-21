@@ -2,7 +2,7 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **4218** عنصراً (**4150** معتمد + **68** مسودة).
+الإجمالي: **4241** عنصراً (**4150** معتمد + **91** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
@@ -4071,11 +4071,34 @@
 - `met-freud-iceberg` — الجبل الجليدي: استعارة الوعي واللاوعي التحليلي — ✅ معتمد
 - `met-sisyphus-camus` — سيزيف: استعارة العبث والتمرد المستمر — ✅ معتمد
 
-## بديهية/مبدأ تأسيسي (3)
+## بديهية/مبدأ تأسيسي (26)
 
 - `axm-actualizing-tendency` — مبدأ نزعة التحقق الذاتي — ✅ معتمد
+- `axm-adaptation` — بديهية التكيُّف — 🕓 مسودة
+- `axm-classical-conditioning` — الإشراط الكلاسيكي (بافلوف) — 🕓 مسودة
+- `axm-cognitive-consistency` — بديهية الاستواء المعرفي — 🕓 مسودة
+- `axm-cognitive-schema` — بديهية المخططات المعرفية — 🕓 مسودة
+- `axm-cognitive-unconscious` — بديهية اللاوعي المعرفي — 🕓 مسودة
+- `axm-delayed-gratification` — بديهية تأجيل الإشباع — 🕓 مسودة
 - `axm-existence-precedes-essence` — الوجود يسبق الماهية — ✅ معتمد
+- `axm-hedonic-principle` — المبدأ الهيدوني (مبدأ اللذة-الألم) — 🕓 مسودة
+- `axm-holism-gestalt` — مبدأ الكلية (Gestalt) — 🕓 مسودة
+- `axm-homeostasis` — مبدأ الاستتباب (Homeostasis) — 🕓 مسودة
+- `axm-insight-learning` — التعلم بالاستبصار — 🕓 مسودة
+- `axm-intentionality` — بديهية القصديةّة (Intentionality) — 🕓 مسودة
+- `axm-mind-body-problem` — إشكالية العقل والجسم — 🕓 مسودة
 - `axm-nadaista-manifesto` — بيان النادائية (Nadaísmo) — العدمية الكولومبية — ✅ معتمد
+- `axm-nature-vs-nurture` — ثنائية الطبيعة والتنشئة — 🕓 مسودة
+- `axm-observational-learning` — التعلم بالملاحظة (التعلم الاجتماعي) — 🕓 مسودة
+- `axm-operant-conditioning` — الإشراط الفعال (سكينر) — 🕓 مسودة
+- `axm-psychic-determinism` — الحتمية النفسية — 🕓 مسودة
+- `axm-reciprocal-determinism` — الحتمية المتبادلة — 🕓 مسودة
+- `axm-reductionism` — بديهية الاختزالية — 🕓 مسودة
+- `axm-reinforcement` — مبدأ التعزيز (Reinforcement) — 🕓 مسودة
+- `axm-scientific-objectivity` — بديهية الموضوعية العلمية — 🕓 مسودة
+- `axm-self-regulation` — بديهية التنظيم الذاتي — 🕓 مسودة
+- `axm-tabula-rasa` — مبدأ اللوح الفارغ (Tabula Rasa) — 🕓 مسودة
+- `axm-the-unconscious` — بديهية اللاوعي — 🕓 مسودة
 
 ## سؤال مولِّد (3)
 
