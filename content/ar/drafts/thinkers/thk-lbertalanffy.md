@@ -14,7 +14,7 @@ active_end: 1972
 edges:
   - rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
 related:
-  - id: "thk-bateson", title: "غريغوري بيتسون", type: "مفكر"
+  - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

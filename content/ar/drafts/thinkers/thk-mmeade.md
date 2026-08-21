@@ -13,10 +13,10 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-campbell", title: "جوزيف كامبل", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الـphantom slug thk-campbell (جوزيف كامبل) أُزيل من related — لا يوجد ملف مطابق في الأطلس؛ الملف الوحيد القريب هو thk-campbell-purton، وهو شخص مختلف (كامبل پيرتون، ليس جوزيف كامبل)."
 ---
 
 # مايكل ميد

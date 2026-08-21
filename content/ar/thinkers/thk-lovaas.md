@@ -7,8 +7,8 @@ title: "إيفار لوفاس"
 en: "Ole Ivar Lovaas"
 crumb: "تحليل السلوك التطبيقي للتوحد (ABA) ← الناس ← إيفار لوفاس"
 dates: "النرويج/الولايات المتحدة · 1927–2010"
-active_start: 1965
-active_end: 2005
+active_start: 1961
+active_end: 2010
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
@@ -16,6 +16,7 @@ edges:
 related: []
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "تم تصحيح active_start/active_end (كانا 1965/2005) بعد تعارض بين نسختين: بحث خارجي أكّد بدء عمله في UCLA عام 1961 وتأسيسه لعيادة UCLA عام 1962، ووفاته عام 2010 — راجع Autism History Project و Wikipedia."
 ---
 
 # إيفار لوفاس

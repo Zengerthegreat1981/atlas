@@ -1061,3 +1061,361 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
 
 **STOPPED for user review.** No content created. The scope list file is the deliverable.
 
+
+- [2026-08-21] **تأسيس الجمعيات الأمريكية الكبرى (APA 1892 وانقساماتها لاحقاً، AAMFT، إلخ) — مكتمل (3 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس الجمعيات الأمريكية الكبرى List.md`
+  - **العناصر المنشأة**: evt-apa-founding-1892, evt-aps-split-1988, evt-aamft-founding-1942
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس الجمعيات الأوروبية الكبرى (BPS، الجمعيات الألمانية/الفرنسية المبكرة) — مكتمل (3 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس الجمعيات الأوروبية الكبرى List.md`
+  - **العناصر المنشأة**: evt-bps-founding-1901, evt-dgps-founding-1904, evt-sfp-founding-1901
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس مؤسسات التحليل النفسي الدولية (IPA 1910 ومؤتمراتها التأسيسية الأولى) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس مؤسسات التحليل النفسي الدولية List.md`
+  - **العناصر المنشأة**: evt-nuremberg-congress-ipa-1910, evt-wednesday-psychological-society-1902
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس مؤسسات المدارس السلوكية/المعرفية (تأسيس ABCT وما شابه) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس مؤسسات المدارس السلوكية والمعرفية List.md`
+  - **العناصر المنشأة**: evt-aabt-abct-founding-1966, evt-eabct-founding-1971
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس مؤسسات المدارس الإنسانية/الوجودية (AHP 1961 وما يتصل بها) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس مؤسسات المدارس الإنسانية والوجودية List.md`
+  - **العناصر المنشأة**: evt-ahp-founding-1961, evt-esalen-institute-founding-1962
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس هيئات التقنين والترخيص المهني (Board licensing الأمريكية والأوروبية المبكرة) — مكتمل (3 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس هيئات التقنين والترخيص المهني List.md`
+  - **العناصر المنشأة**: evt-connecticut-licensing-law-1945, evt-abpp-founding-1947, evt-europsy-standard-2001
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس مجلات علمية مؤسِّسة كبرى (أول دورية علم نفس تجريبي، أول دورية تحليل نفسي) — مكتمل (3 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس مجلات علمية مؤسسة كبرى List.md`
+  - **العناصر المنشأة**: evt-philosophische-studien-1881, evt-american-journal-psychology-1887, evt-jahrbuch-psychoanalyse-1909
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس مراكز/معاهد تدريب كبرى (معهد C.G. Jung زيورخ، معهد فرويد فيينا) — مكتمل (3 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس مراكز ومعاهد تدريب كبرى List.md`
+  - **العناصر المنشأة**: evt-jung-institute-zurich-1948, evt-vienna-psychoanalytic-institute-1925, evt-tavistock-institute-1947
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **نشر DSM-I وDSM-II (السياق والدوافع، لا محتوى التصنيفات نفسها) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events نشر DSM-I وDSM-II List.md`
+  - **العناصر المنشأة**: evt-dsm-1-publication-1952, evt-dsm-2-publication-1968
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **نشر DSM-III 1980 (الثورة المنهجية — معايير تشخيصية صريحة، إزالة التحليل النفسي كإطار رسمي) — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events نشر DSM-III 1980 List.md`
+  - **العناصر المنشأة**: evt-dsm-3-publication-1980
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **نشر DSM-IV وDSM-5 (السياق والجدل حولهما) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events نشر DSM-IV وDSM-5 List.md`
+  - **العناصر المنشأة**: evt-dsm-4-publication-1994, evt-dsm-5-publication-2013
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تطور ICD النفسي عبر إصداراته — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تطور ICD النفسي عبر إصداراته List.md`
+  - **العناصر المنشأة**: evt-icd-6-mental-disorders-1948, evt-icd-11-cddi-2018
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **إزالة المثلية الجنسية من DSM (1973 — الحدث السياسي/العلمي) — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events إزالة المثلية الجنسية من DSM 1973 List.md`
+  - **العناصر المنشأة**: evt-dsm-homosexuality-removal-1973
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تجربة روزنهان (On Being Sane in Insane Places) وتبعاتها المؤسسية — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تجربة روزنهان وتبعاتها المؤسسية List.md`
+  - **العناصر المنشأة**: evt-rosenhan-study-publication-1973
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **أزمة التكرار العلمي (Replication Crisis) في علم النفس الاجتماعي/التجريبي — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events أزمة التكرار العلمي في علم النفس List.md`
+  - **العناصر المنشأة**: evt-open-science-collaboration-2015
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **حروب الذاكرة المُستعادة (Memory Wars) — القضايا القانونية والانقسام المهني — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events حروب الذاكرة المستعادة List.md`
+  - **العناصر المنشأة**: evt-false-memory-syndrome-foundation-1992
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **فضيحة تجربة ليتل ألبرت الأخلاقية ومراجعاتها اللاحقة — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events فضيحة تجربة ليتل ألبرت ومراجعاتها List.md`
+  - **العناصر المنشأة**: evt-little-albert-ethical-controversy-1970
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **فضائح التلاعب بالبيانات الكبرى (زي قضية ستيبل/دايدريك ستابل بالتحديد لو موثّقة) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events فضائح التلاعب بالبيانات الكبرى List.md`
+  - **العناصر المنشأة**: evt-stapel-fraud-scandal-2011, evt-cyril-burt-twin-data-controversy-1976
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **الجدل حول تورط علماء نفس أمريكيين في الاستجواب/التعذيب (تقرير هوفمان APA) — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تقرير هوفمان وتورط علماء النفس في الاستجواب List.md`
+  - **العناصر المنشأة**: evt-hoffman-report-apa-torture-2015
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **عصر اللوبوتومي وجائزة نوبل موانيز 1949 ونهايته المؤسسية — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events عصر اللوبوتومي وجائزة نوبل لمونيز List.md`
+  - **العناصر المنشأة**: evt-egaz-moniz-nobel-lobotomy-1949
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **العلاج بالصدمة الكهربائية (ECT) — تاريخ الاستخدام والجدل والتنظيم اللاحق — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events العلاج بالصدمة الكهربائية وتاريخه List.md`
+  - **العناصر المنشأة**: evt-cerletti-bini-first-ect-1938
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **العلاج بصدمة الأنسولين وتاريخ التخلي عنه — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events العلاج بصدمة الأنسولين وتاريخه List.md`
+  - **العناصر المنشأة**: evt-sakel-insulin-shock-therapy-1933
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **بدايات الأدوية النفسية الحديثة (كلوربرومازين 1950s) وأثرها المؤسسي — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events بدايات الأدوية النفسية الحديثة List.md`
+  - **العناصر المنشأة**: evt-chlorpromazine-discovery-1952, evt-fluoxetine-prozac-launch-1987
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **حركة إلغاء المأسسة (Deinstitutionalization) في أمريكا وأوروبا — القوانين والدوافع — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events حركة إلغاء المأسسة في أمريكا وأوروبا List.md`
+  - **العناصر المنشأة**: evt-deinstitutionalization-movement-1960, evt-basaglia-law-italy-1978
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **قانون Community Mental Health Act الأمريكي 1963 وتبعاته — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events قانون مراكز الصحة النفسية المجتمعية 1963 List.md`
+  - **العناصر المنشأة**: evt-community-mental-health-act-1963
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **حركة مناهضة الطب النفسي كحدث مؤسسي (مش كمدرسة فكرية — دي مكتوبة بالفعل في السلوكيات) — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events حركة مناهضة الطب النفسي كمؤتمر وحدث مؤسسي List.md`
+  - **العناصر المنشأة**: evt-anti-psychiatry-network-london-1967
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **قضية Tarasoff (واجب التحذير) وأثرها على السرية المهنية — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events قضية تاراسوف وواجب التحذير List.md`
+  - **العناصر المنشأة**: evt-tarasoff-case-ruling-1976
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **قضايا الأهلية العقلية والمسؤولية الجنائية الفارقة (M'Naghten Rule وتطوراتها) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events قضايا الأهلية والمسؤولية الجنائية List.md`
+  - **العناصر المنشأة**: evt-mnaghten-rule-1843, evt-hinckley-verdict-insanity-reform-1984
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **قوانين تكافؤ الصحة النفسية (Mental Health Parity) الأمريكية والأوروبية — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events قوانين تكافؤ الصحة النفسية List.md`
+  - **العناصر المنشأة**: evt-mental-health-parity-act-2008
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **قضايا حقوق المرضى النفسيين الفارقة (الحق في العلاج / الحق في الرفض) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events قضايا حقوق المرضى النفسيين List.md`
+  - **العناصر المنشأة**: evt-wyatt-v-stickney-1971, evt-rogers-v-o-kin-1979
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **الحرب العالمية الأولى وصدمة القذائف (Shell Shock) كحدث مؤسِّس لعلم نفس الصدمة — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events صدمة القذائف في الحرب العالمية الأولى List.md`
+  - **العناصر المنشأة**: evt-shell-shock-ww1-craiglockhart-1917
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **الحرب العالمية الثانية وأثرها المؤسسي (اختبارات الفرز النفسي الجماعية، تأسيس تخصصات جديدة) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events الحرب العالمية الثانية وأثرها المؤسسي List.md`
+  - **العناصر المنشأة**: evt-army-alpha-beta-ww1-ww2-selection, evt-va-clinical-psychology-expansion-1946
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **حرب فيتنام وتأسيس تصنيف PTSD الرسمي كحدث مؤسسي (1980 DSM-III) — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events حرب فيتنام وتأسيس تصنيف PTSD List.md`
+  - **العناصر المنشأة**: evt-vietnam-veterans-ptsd-advocacy-1980
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **الكوارث الكبرى وتأسيس تدخل الأزمات النفسي كحقل (11 سبتمبر كحدث مؤسسي لهذا الحقل تحديداً) — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events أحداث 11 سبتمبر وتأسيس تدخل الأزمات النفسي List.md`
+  - **العناصر المنشأة**: evt-september-11-crisis-intervention-2001
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **مؤتمر كلارك 1909 (زيارة فرويد الوحيدة لأمريكا) وأثره المباشر — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events مؤتمر جامعة كلارك 1909 List.md`
+  - **العناصر المنشأة**: evt-clark-university-lectures-1909
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **مؤتمرات الانشقاق الكبرى (مؤتمرات انفصال يونغ عن فرويد، أدلر عن فرويد) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events مؤتمرات الانشقاق في التحليل النفسي List.md`
+  - **العناصر المنشأة**: evt-weimar-congress-split-1911, evt-munich-congress-jung-freud-split-1913
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **مؤتمرات تأسيس الموجة الثالثة (المؤتمرات المبكرة لـACT/DBT كحركة مؤسسية) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events مؤتمرات تأسيس الموجة الثالثة ونماذج التدريب List.md`
+  - **العناصر المنشأة**: evt-boulder-conference-scientist-practitioner-1949, evt-third-wave-cbt-symposium-2004
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **استخدام اختبارات الذكاء في سياسات الهجرة الأمريكية المبكرة (Army Alpha/Beta) وتبعاتها — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events اختبارات الذكاء وقانون الهجرة الأمريكي 1924 List.md`
+  - **العناصر المنشأة**: evt-immigration-act-iq-testing-1924
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **إساءة استخدام علم النفس في تبرير العنصرية المؤسسية (توثيق تاريخي للحدث، لا للنظرية) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events إساءة استخدام علم النفس في تبرير العنصرية List.md`
+  - **العناصر المنشأة**: evt-drapetomania-cartwright-1851, evt-apa-apology-racism-2021
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **حل الجمعيات النفسية في ألمانيا النازية وإعادة تأسيسها بعد الحرب (تاريخ Göring Institute) — مكتمل (1 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events معهد غورينغ وعلم النفس في ألمانيا النازية List.md`
+  - **العناصر المنشأة**: evt-goering-institute-nazi-psychology-1936
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس أول أقسام/جمعيات علم نفس في العالم العربي (مصر، لبنان تحديداً) — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس علم النفس في العالم العربي List.md`
+  - **العناصر المنشأة**: evt-egyptian-psychological-association-1948, evt-aub-psychology-department-1950
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس أول أقسام/جمعيات علم نفس في الهند وشرق آسيا — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس علم النفس في الهند وشرق آسيا List.md`
+  - **العناصر المنشأة**: evt-calcutta-psychology-department-1916, evt-tokyo-psychological-laboratory-1903
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **تأسيس أول أقسام/جمعيات علم نفس في أمريكا اللاتينية وأفريقيا — مكتمل (2 مسودات جديدة)**
+  - **النوع**: `evt-` (حدث تاريخي)
+  - **قائمة الفئة**: `Historical Events تأسيس علم النفس في أمريكا اللاتينية وأفريقيا List.md`
+  - **العناصر المنشأة**: evt-buenos-aires-psychology-institute-1908, evt-south-african-psychological-association-1948
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص جميع العناصر مقابل EXISTING_SLUGS.md واستبعاد أي تكرار، وحفظها في `content/ar/drafts/events/`.
+
+- [2026-08-21] **مسار MiniMax — المحور 1: التحليل النفسي ↔ السلوكية — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-` (علاقة بين مدرستين)
+  - **قائمة المحور**: `Cross-School Relations التحليل النفسي والسلوكية List.md` (سيُنشأ في الخطوة 2)
+  - **العناصر المنشأة**: rel-psychoanalysis-behaviorism
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md` (edges flow style, gaps إلزامي >=2, related links أحادية السطر, --- منفصل في سطر بمفرده).
+  - **فحص التكرار**: تم فحص العناصر مقابل EXISTING_SLUGS.md و `content/ar/relations/` (4 معتمد: rel-act, rel-humanistic, rel-phenopath, rel-psychoanalysis)، لا تكرار. الفهرس تحدّث (`build_slug_index.py`) قبل وبعد.
+  - **قاعدة التسمية**: slug `rel-psychoanalysis-behaviorism` يحدد الطرفين بوضوح (مش اسم عام لطرف واحد).
+
+- [2026-08-21] **مسار MiniMax — المحور 2: التحليل النفسي ↔ المعرفية/CBT — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-`
+  - **قائمة المحور**: `Cross-School Relations التحليل النفسي والمعرفية CBT List.md`
+  - **العناصر المنشأة**: rel-psychoanalysis-cbt
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **فحص التكرار**: تم فحص العناصر مقابل EXISTING_SLUGS.md و `content/ar/relations/`، لا تكرار. الفهرس تحدّث.
+
+- [2026-08-21] **مسار MiniMax — المحور 3: التحليل النفسي ↔ الإنسانية/الوجودية — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-`
+  - **قائمة المحور**: `Cross-School Relations التحليل النفسي والإنسانية الوجودية List.md`
+  - **العناصر المنشأة**: rel-psychoanalysis-humanistic
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **ملاحظة على عدم التكرار**: العنصر يكمّل `rel-psychoanalysis.md` (معتمد) و `rel-humanistic.md` (معتمد) من منظور معاكس ويضيف بُعد "الفرويدية الجديدة" و "تقاطع الدافعية" — لا تكرار.
+
+- [2026-08-21] **مسار MiniMax — المحور 4: السلوكية ↔ المعرفية — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-`
+  - **قائمة المحور**: `Cross-School Relations السلوكية والمعرفية List.md`
+  - **العناصر المنشأة**: rel-behaviorism-cognitive
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **نقطة مميزة**: العلاقة "داخلية" (الثورة المعرفية من داخل السلوكية، تولمان 1932) — مختلفة عن الخصومات السابقة.
+
+- [2026-08-21] **مسار MiniMax — المحور 5: CBT ↔ الموجة الثالثة — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-`
+  - **قائمة المحور**: `Cross-School Relations المعرفية السلوكية والموجة الثالثة List.md`
+  - **العناصر المنشأة**: rel-cbt-thirdwave
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **ملاحظة على التكامل**: يكمل `rel-act.md` (معتمد) من منظور CBT، لا تكرار.
+
+- [2026-08-21] **مسار MiniMax — المحور 6: الإنسانية-الوجودية ↔ الجشطالتية — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-`
+  - **قائمة المحور**: `Cross-School Relations الإنسانية الوجودية والجشطالتية List.md`
+  - **العناصر المنشأة**: rel-humanistic-existential-gestalt
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **ملاحظة**: العلاقة "قرابة فلسفية" لا خصومة.
+
+- [2026-08-21] **مسار MiniMax — المحور 7: الإنسانية ↔ الإيجابية — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-`
+  - **قائمة المحور**: `Cross-School Relations الإنسانية والإيجابية List.md`
+  - **العناصر المنشأة**: rel-humanistic-positive
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **نقطة مميزة**: "ابن ينسى أباه" — سليجمان (1998) استنسخ ماسلو (1943) مع تقليل الإشارات.
+
+- [2026-08-21] **مسار MiniMax — المحور 8: التحليل النفسي ↔ التحليلية اليونغية — مكتمل (1 مسودة جديدة)**
+  - **النوع**: `rel-`
+  - **قائمة المحور**: `Cross-School Relations التحليل النفسي والتحليلية اليونغية List.md`
+  - **العناصر المنشأة**: rel-psychoanalysis-jungian
+  - **التكامل والتحقق**: 100% متوافق مع `draft-writer-brief.md`.
+  - **ملاحظة**: لا تكرار مع dbt أو rel موجود — الانشقاق فريد تاريخياً (1909-1913).

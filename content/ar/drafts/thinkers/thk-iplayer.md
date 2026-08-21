@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
-  - id: "thk-van-der-post", title: "لورنز فان دير بوست", type: "مفكر"
+  - id: "thk-lvdpost", title: "لورنز فان دير بوست", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

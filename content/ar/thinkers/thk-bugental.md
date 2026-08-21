@@ -7,8 +7,8 @@ title: "جيمس بوجنتال"
 en: "James Bugental"
 crumb: "المدرسة الوجودية ← الناس ← جيمس بوجنتال"
 dates: "الولايات المتحدة"
-active_start: 1965
-active_end: 1990
+active_start: 1961
+active_end: 2008
 language: "الإنجليزية"
 country: "أمريكا"
 edges:
@@ -20,6 +20,7 @@ related:
   - id: "thk-tgreening", title: "توماس غرينينغ", type: "مفكر"
 gaps:
   - "بيانات أعماله — تحتاج تثبيتاً"
+  - "active_start/active_end صُحّحا من 1965/1990 إلى 1961/2008 بعد تعارض مع نسخة مسودة: بحث خارجي أكّد وفاته 2008 وتأسيسه المشارك لجمعية علم النفس الإنساني عام 1961 (Wikipedia)."
 ---
 
 # جيمس بوجنتال

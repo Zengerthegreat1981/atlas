@@ -14,7 +14,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "العلاج الأسري الاستراتيجي (Palo Alto/MRI)", target_type: "مدرسة"
 related:
-  - id: "thk-bateson", title: "غريغوري باتسون", type: "مفكر"
+  - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
   - id: "thk-jhaley", title: "جاي هالي", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لتكوينه الأكاديمي الأول (قبل انضمامه لمشروع باتسون) غير متوفرة بشكل كامل."
