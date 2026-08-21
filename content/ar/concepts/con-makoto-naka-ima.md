@@ -1,6 +1,6 @@
 ---
 slug: "con-makoto-naka-ima"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0630"
 type: "مفهوم"
 level: "مبتدئ"
 title: "ماكوتو / ناكا-إيما"

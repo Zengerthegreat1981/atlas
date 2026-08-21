@@ -1,6 +1,6 @@
 ---
 slug: "thk-agoldstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0651"
 type: "مفكر"
 level: "متوسط"
 title: "أرنولد غولدشتاين"

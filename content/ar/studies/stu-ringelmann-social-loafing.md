@@ -1,6 +1,6 @@
 ---
 slug: "stu-ringelmann-social-loafing"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0089"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة رينغلمان عن التراخي الاجتماعي وشد الحبل"

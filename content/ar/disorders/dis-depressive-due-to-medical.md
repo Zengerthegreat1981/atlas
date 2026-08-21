@@ -1,6 +1,6 @@
 ---
 slug: "dis-depressive-due-to-medical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0035"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الاكتئاب الناجم عن حالة طبية أخرى"

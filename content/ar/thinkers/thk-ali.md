@@ -1,6 +1,6 @@
 ---
 slug: "thk-ali"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0671"
 type: "مفكر"
 level: "متوسط"
 title: "آن لي (Ann Li)"

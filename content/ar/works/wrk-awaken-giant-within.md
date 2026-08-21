@@ -1,6 +1,6 @@
 ---
 slug: "wrk-awaken-giant-within"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0242"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

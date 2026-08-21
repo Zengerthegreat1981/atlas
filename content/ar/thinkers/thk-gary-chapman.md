@@ -1,6 +1,6 @@
 ---
 slug: "thk-gary-chapman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1070"
 type: "مفكر"
 part: "psychology"
 register: "popular"

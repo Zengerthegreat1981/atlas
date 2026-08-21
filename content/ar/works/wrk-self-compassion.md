@@ -1,6 +1,6 @@
 ---
 slug: "wrk-self-compassion"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0449"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الذات المتعاطفة: القوة المثبتة للطف مع نفسك"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-sankara"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1904"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

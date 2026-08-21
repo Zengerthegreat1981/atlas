@@ -1,6 +1,6 @@
 ---
 slug: "sch-gestalt-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0123"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"

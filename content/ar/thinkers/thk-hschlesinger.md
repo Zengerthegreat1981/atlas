@@ -1,6 +1,6 @@
 ---
 slug: "thk-hschlesinger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1170"
 type: "مفكر"
 level: "متوسط"
 title: "هربرت شليسنغر"

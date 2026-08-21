@@ -1,6 +1,6 @@
 ---
 slug: "br-curanderismo"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0134"
 type: "تيار"
 level: "مبتدئ"
 title: "الشفاء الشعبي (Curanderismo)"

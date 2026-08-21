@@ -1,6 +1,6 @@
 ---
 slug: "sch-upanishadic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0315"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

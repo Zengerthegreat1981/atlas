@@ -1,6 +1,6 @@
 ---
 slug: "tec-relapse-prevention"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0291"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "منع الانتكاس (RP)"

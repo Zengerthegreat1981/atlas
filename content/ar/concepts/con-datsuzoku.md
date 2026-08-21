@@ -1,6 +1,6 @@
 ---
 slug: "con-datsuzoku"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0502"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

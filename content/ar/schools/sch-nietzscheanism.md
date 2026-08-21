@@ -1,6 +1,6 @@
 ---
 slug: "sch-nietzscheanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0222"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

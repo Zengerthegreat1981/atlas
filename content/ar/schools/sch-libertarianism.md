@@ -1,6 +1,6 @@
 ---
 slug: "sch-libertarianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0183"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-instructions-ptahhotep"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0359"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

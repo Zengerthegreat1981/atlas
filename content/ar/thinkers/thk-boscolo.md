@@ -1,6 +1,6 @@
 ---
 slug: "thk-boscolo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0778"
 type: "مفكر"
 level: "متقدم"
 title: "لويجي بوسكولو"

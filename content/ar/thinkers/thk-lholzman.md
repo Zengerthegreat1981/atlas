@@ -1,6 +1,6 @@
 ---
 slug: "thk-lholzman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1453"
 type: "مفكر"
 level: "متوسط"
 title: "لويز هولزمان"

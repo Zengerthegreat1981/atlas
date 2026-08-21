@@ -1,6 +1,6 @@
 ---
 slug: "con-maya-vedanta"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0634"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mccullough"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1540"
 type: "مفكر"
 level: "متقدم"
 title: "جيمس ب. ماكولوغ الابن"

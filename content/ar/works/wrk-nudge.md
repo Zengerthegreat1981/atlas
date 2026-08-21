@@ -1,6 +1,6 @@
 ---
 slug: "wrk-nudge"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0407"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "br-psychoanalytic-couple-family"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0190"
 type: "تيار"
 level: "متوسط"
 title: "العلاج التحليلي للأزواج والأسرة"

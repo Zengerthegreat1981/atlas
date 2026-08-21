@@ -1,6 +1,6 @@
 ---
 slug: "thk-mtalmon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1636"
 type: "مفكر"
 level: "متوسط"
 title: "موشيه تالمون"

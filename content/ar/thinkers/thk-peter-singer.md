@@ -1,6 +1,6 @@
 ---
 slug: "thk-peter-singer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1727"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

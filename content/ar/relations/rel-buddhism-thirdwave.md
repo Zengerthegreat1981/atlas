@@ -1,6 +1,6 @@
 ---
 slug: "rel-buddhism-thirdwave"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0126"
 type: "علاقة بين مدرستين"
 part: "bridge"
 level: "متوسط"

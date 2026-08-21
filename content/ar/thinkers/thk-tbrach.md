@@ -1,6 +1,6 @@
 ---
 slug: "thk-tbrach"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2023"
 type: "مفكر"
 level: "متوسط"
 title: "تارا براتش"

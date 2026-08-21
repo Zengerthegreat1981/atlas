@@ -1,6 +1,6 @@
 ---
 slug: "sch-imami-kalam"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0144"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

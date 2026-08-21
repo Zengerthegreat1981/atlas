@@ -1,6 +1,6 @@
 ---
 slug: "sch-akan"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0021"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

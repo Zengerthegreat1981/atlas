@@ -1,6 +1,6 @@
 ---
 slug: "thk-jseikkula"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1348"
 type: "مفكر"
 level: "متقدم"
 title: "ياكو سيكولا"

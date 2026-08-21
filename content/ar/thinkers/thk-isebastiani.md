@@ -1,6 +1,6 @@
 ---
 slug: "thk-isebastiani"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1209"
 type: "مفكر"
 level: "متوسط"
 title: "إيفان سيباستياني"

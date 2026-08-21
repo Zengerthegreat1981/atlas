@@ -1,6 +1,6 @@
 ---
 slug: "tec-behavioral-activation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0063"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التنشيط السلوكي (BA)"

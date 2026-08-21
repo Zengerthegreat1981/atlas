@@ -1,6 +1,6 @@
 ---
 slug: "con-five-stages-of-grief"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0553"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

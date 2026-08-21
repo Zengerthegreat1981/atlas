@@ -1,6 +1,6 @@
 ---
 slug: "wrk-medicinische-psychologie"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0387"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "علم النفس الطبي"

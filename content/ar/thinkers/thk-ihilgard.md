@@ -1,6 +1,6 @@
 ---
 slug: "thk-ihilgard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1195"
 type: "مفكر"
 level: "متقدم"
 title: "إرنست ر. هيلغارد"

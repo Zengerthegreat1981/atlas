@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-opposite-action"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0167"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الفعل المعاكس"

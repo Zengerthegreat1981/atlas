@@ -1,6 +1,6 @@
 ---
 slug: "wrk-bhagavad-gita"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0254"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

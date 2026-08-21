@@ -1,6 +1,6 @@
 ---
 slug: "syn-kandinsky-clerambault"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0097"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

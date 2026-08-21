@@ -1,6 +1,6 @@
 ---
 slug: "thk-judah-halevi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1354"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

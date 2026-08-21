@@ -1,6 +1,6 @@
 ---
 slug: "syn-railway-spine"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0146"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

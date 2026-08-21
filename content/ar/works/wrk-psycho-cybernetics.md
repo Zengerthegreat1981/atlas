@@ -1,6 +1,6 @@
 ---
 slug: "wrk-psycho-cybernetics"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0433"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

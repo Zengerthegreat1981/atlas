@@ -1,6 +1,6 @@
 ---
 slug: "thk-rbarkley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1782"
 type: "مفكر"
 level: "متقدم"
 title: "راسِل باركلي"

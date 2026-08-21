@@ -1,6 +1,6 @@
 ---
 slug: "con-attachment-styles-popular"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0448"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

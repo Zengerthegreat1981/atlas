@@ -1,6 +1,6 @@
 ---
 slug: "thk-meharding"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1548"
 type: "مفكر"
 level: "متقدم"
 title: "ماري إستر هاردينغ"

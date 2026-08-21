@@ -1,6 +1,6 @@
 ---
 slug: "thk-novaco"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1684"
 type: "مفكر"
 level: "متقدم"
 title: "ريموند و. نوفاكو"

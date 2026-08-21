@@ -1,6 +1,6 @@
 ---
 slug: "sch-fichte"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0116"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

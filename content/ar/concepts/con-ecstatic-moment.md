@@ -1,6 +1,6 @@
 ---
 slug: "con-ecstatic-moment"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0527"
 type: "مفهوم"
 level: "متقدم"
 title: "اللحظة النشواتية وجماليات الأركيتيب"

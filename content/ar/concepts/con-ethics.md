@@ -1,6 +1,6 @@
 ---
 slug: "con-ethics"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0536"
 type: "مفهوم"
 level: "متوسط"
 title: "الأخلاق في التحليلية والممارسة السريرية"

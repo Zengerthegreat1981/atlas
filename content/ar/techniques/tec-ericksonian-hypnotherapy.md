@@ -1,6 +1,6 @@
 ---
 slug: "tec-ericksonian-hypnotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0212"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التنويم الإيحائي الإريكسوني"

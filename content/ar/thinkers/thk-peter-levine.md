@@ -1,6 +1,6 @@
 ---
 slug: "thk-peter-levine"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1726"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

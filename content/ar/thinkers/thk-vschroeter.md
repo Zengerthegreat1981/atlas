@@ -1,6 +1,6 @@
 ---
 slug: "thk-vschroeter"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2086"
 type: "مفكر"
 level: "متوسط"
 title: "فينسينتيا شرودر"

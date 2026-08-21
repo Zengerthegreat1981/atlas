@@ -1,6 +1,6 @@
 ---
 slug: "thk-eckhart-tolle"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0975"
 type: "مفكر"
 part: "psychology"
 register: "popular"

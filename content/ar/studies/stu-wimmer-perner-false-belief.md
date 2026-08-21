@@ -1,6 +1,6 @@
 ---
 slug: "stu-wimmer-perner-false-belief"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0115"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجربة فيمر وبيرنر للمهمة الكلاسيكية للاعتقاد الخاطئ ونظرية العقل"

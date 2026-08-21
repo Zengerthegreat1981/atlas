@@ -1,6 +1,6 @@
 ---
 slug: "syn-global-aphasia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0076"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

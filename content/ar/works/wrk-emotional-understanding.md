@@ -1,6 +1,6 @@
 ---
 slug: "wrk-emotional-understanding"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0296"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الفهم العاطفي: الأخلاقيات البين-ذاتية للعلاج النفسي"

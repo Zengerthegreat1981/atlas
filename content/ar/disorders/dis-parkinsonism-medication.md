@@ -1,6 +1,6 @@
 ---
 slug: "dis-parkinsonism-medication"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0076"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "الباركنسونية المحدثة بمضادات الذهان والأدوية"

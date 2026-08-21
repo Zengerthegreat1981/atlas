@@ -1,6 +1,6 @@
 ---
 slug: "thk-tsilvester"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2064"
 type: "مفكر"
 level: "متوسط"
 title: "تريفور سيلفستر"

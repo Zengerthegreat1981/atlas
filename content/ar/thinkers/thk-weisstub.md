@@ -1,6 +1,6 @@
 ---
 slug: "thk-weisstub"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2099"
 type: "مفكر"
 level: "متوسط"
 title: "إيلي وايستوب"

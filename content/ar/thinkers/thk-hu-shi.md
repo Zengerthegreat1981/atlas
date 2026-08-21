@@ -1,6 +1,6 @@
 ---
 slug: "thk-hu-shi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1176"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-becoming-person"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0248"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "أن نصير أشخاصاً (On Becoming a Person)"

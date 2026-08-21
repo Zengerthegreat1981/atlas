@@ -1,6 +1,6 @@
 ---
 slug: "thk-mary-guthrie"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1518"
 type: "مفكر"
 level: "متوسط"
 title: "ماري غوثري"

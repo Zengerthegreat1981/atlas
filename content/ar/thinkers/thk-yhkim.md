@@ -1,6 +1,6 @@
 ---
 slug: "thk-yhkim"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2134"
 type: "مفكر"
 level: "متوسط"
 title: "يونغ-هي كيم"

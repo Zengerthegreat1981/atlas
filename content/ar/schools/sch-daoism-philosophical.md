@@ -1,6 +1,6 @@
 ---
 slug: "sch-daoism-philosophical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0079"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

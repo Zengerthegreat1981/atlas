@@ -1,6 +1,6 @@
 ---
 slug: "thk-ekeleman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0990"
 type: "مفكر"
 level: "متوسط"
 title: "ستانلي كِلمان"

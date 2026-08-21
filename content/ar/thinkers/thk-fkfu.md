@@ -1,6 +1,6 @@
 ---
 slug: "thk-fkfu"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1040"
 type: "مفكر"
 level: "متوسط"
 title: "ف. كي. فو"

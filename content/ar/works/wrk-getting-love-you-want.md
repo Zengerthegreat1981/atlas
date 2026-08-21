@@ -1,6 +1,6 @@
 ---
 slug: "wrk-getting-love-you-want"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0324"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

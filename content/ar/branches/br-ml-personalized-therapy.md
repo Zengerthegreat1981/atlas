@@ -1,6 +1,6 @@
 ---
 slug: "br-ml-personalized-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0171"
 type: "تيار"
 level: "متقدم"
 title: "العلاج المخصّص بالتعلّم الآلي"

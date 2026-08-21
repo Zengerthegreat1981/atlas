@@ -1,6 +1,6 @@
 ---
 slug: "br-gestalt-theoretical-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0153"
 type: "تيار"
 level: "متقدم"
 title: "العلاج النفسي الجشطالتي النظري (GTP)"

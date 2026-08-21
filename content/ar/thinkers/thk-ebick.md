@@ -1,6 +1,6 @@
 ---
 slug: "thk-ebick"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0969"
 type: "مفكر"
 level: "متقدم"
 title: "إستر بيك"

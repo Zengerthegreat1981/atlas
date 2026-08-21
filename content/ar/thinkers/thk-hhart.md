@@ -1,6 +1,6 @@
 ---
 slug: "thk-hhart"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1150"
 type: "مفكر"
 level: "متوسط"
 title: "هنري هارت"

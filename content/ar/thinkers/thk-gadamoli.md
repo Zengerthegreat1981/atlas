@@ -1,6 +1,6 @@
 ---
 slug: "thk-gadamoli"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1066"
 type: "مفكر"
 level: "متوسط"
 title: "غلاديس آدامولي"

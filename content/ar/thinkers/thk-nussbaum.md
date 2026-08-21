@@ -1,6 +1,6 @@
 ---
 slug: "thk-nussbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1690"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

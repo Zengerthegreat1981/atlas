@@ -1,6 +1,6 @@
 ---
 slug: "thk-epierrakos"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1007"
 type: "مفكر"
 level: "متقدم"
 title: "إيڤا بيراكوس (بروش)"

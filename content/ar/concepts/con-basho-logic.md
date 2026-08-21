@@ -1,6 +1,6 @@
 ---
 slug: "con-basho-logic"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0455"
 type: "مفهوم"
 level: "متقدم"
 title: "منطق المكان (Basho)"

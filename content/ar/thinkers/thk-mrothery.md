@@ -1,6 +1,6 @@
 ---
 slug: "thk-mrothery"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1629"
 type: "مفكر"
 level: "متوسط"
 title: "مارك روتشرِي"

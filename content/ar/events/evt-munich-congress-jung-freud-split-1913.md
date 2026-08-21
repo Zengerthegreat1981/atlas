@@ -1,6 +1,6 @@
 ---
 slug: "evt-munich-congress-jung-freud-split-1913"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0051"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "مؤتمر ميونخ الرابع للتحليل النفسي والانفصال النهائي بين كارل يونغ وسيغموند فرويد"

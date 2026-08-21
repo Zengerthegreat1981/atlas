@@ -1,6 +1,6 @@
 ---
 slug: "thk-michael-derm"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1573"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل ديرمر"

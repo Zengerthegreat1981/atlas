@@ -1,6 +1,6 @@
 ---
 slug: "wrk-rogers-counseling-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0442"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الإرشاد والعلاج النفسي (Counseling and Psychotherapy)"

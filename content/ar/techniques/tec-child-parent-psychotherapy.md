@@ -1,6 +1,6 @@
 ---
 slug: "tec-child-parent-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0126"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج النفسي المشترك بين الطفل والوالد (CPP)"

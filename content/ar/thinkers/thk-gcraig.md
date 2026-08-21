@@ -1,6 +1,6 @@
 ---
 slug: "thk-gcraig"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1076"
 type: "مفكر"
 level: "متوسط"
 title: "غاري كريغ"

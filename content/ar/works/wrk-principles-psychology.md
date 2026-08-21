@@ -1,6 +1,6 @@
 ---
 slug: "wrk-principles-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0431"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "مبادئ علم النفس"

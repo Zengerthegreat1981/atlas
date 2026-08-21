@@ -1,6 +1,6 @@
 ---
 slug: "con-social-model-disability"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0742"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

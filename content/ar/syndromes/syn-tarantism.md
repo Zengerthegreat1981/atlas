@@ -1,6 +1,6 @@
 ---
 slug: "syn-tarantism"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0174"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

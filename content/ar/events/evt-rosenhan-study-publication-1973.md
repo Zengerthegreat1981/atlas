@@ -1,6 +1,6 @@
 ---
 slug: "evt-rosenhan-study-publication-1973"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0056"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "نشر دراسة روزنهان حول صلاحية التشخيص وزلزال مصحات الطب النفسي"

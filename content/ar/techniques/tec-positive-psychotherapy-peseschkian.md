@@ -1,6 +1,6 @@
 ---
 slug: "tec-positive-psychotherapy-peseschkian"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0272"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج النفسي الإيجابي لبيسشكيان"

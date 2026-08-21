@@ -1,6 +1,6 @@
 ---
 slug: "sch-environmental-ethics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0098"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-suarez"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2003"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

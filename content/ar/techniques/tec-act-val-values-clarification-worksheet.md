@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-val-values-clarification-worksheet"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0052"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "ورقة عمل توضيح القيم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gklerman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1094"
 type: "مفكر"
 level: "متقدم"
 title: "جيرالد كَلِرمان"

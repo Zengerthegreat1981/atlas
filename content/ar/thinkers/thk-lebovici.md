@@ -1,6 +1,6 @@
 ---
 slug: "thk-lebovici"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1446"
 type: "مفكر"
 level: "متوسط"
 title: "سيرج لوبوفيتشي"

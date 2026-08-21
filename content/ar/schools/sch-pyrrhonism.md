@@ -1,6 +1,6 @@
 ---
 slug: "sch-pyrrhonism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0258"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

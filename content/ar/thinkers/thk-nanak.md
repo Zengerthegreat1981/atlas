@@ -1,6 +1,6 @@
 ---
 slug: "thk-nanak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1660"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

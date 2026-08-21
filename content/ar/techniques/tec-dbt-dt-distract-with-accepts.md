@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-distract-with-accepts"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0148"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التشتيت بمهارة ACCEPTS"

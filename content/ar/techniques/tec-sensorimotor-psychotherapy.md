@@ -1,6 +1,6 @@
 ---
 slug: "tec-sensorimotor-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0301"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج النفسي الحركي الحسي"

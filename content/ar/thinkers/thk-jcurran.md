@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcurran"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1258"
 type: "مفكر"
 level: "متوسط"
 title: "جوزيف ب. كورّان"

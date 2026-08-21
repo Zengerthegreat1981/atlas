@@ -1,6 +1,6 @@
 ---
 slug: "ctx-stoicism"
-id: "[DRAFT-UNKNOWN]"
+id: "CTX-0012"
 type: "سياق/تقليد"
 part: "philosophy"
 level: "متوسط"

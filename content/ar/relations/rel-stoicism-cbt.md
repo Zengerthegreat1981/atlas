@@ -1,6 +1,6 @@
 ---
 slug: "rel-stoicism-cbt"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0147"
 type: "علاقة بين مدرستين"
 part: "bridge"
 level: "متوسط"

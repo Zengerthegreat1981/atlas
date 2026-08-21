@@ -1,6 +1,6 @@
 ---
 slug: "con-brahman"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0464"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

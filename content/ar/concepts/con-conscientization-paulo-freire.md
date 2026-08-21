@@ -1,6 +1,6 @@
 ---
 slug: "con-conscientization-paulo-freire"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0489"
 type: "مفهوم"
 level: "متوسط"
 title: "الوعي النقدي (Conscientização)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-nkrumah"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1680"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

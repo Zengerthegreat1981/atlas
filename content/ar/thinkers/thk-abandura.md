@@ -1,6 +1,6 @@
 ---
 slug: "thk-abandura"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0635"
 type: "مفكر"
 level: "متقدم"
 title: "ألبرت باندورا"

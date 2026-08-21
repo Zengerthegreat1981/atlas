@@ -1,6 +1,6 @@
 ---
 slug: "br-purposive-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0197"
 type: "تيار"
 level: "متقدم"
 title: "السلوكية الغائية والمعرفية المبكرة (تولمان)"

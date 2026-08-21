@@ -1,6 +1,6 @@
 ---
 slug: "tec-psychoeducational-family"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0286"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج الأسري التثقيفي النفسي"

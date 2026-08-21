@@ -1,6 +1,6 @@
 ---
 slug: "thk-gnardone"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1102"
 type: "مفكر"
 level: "متقدم"
 title: "جورجيو ناردوني"

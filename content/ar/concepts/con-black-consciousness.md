@@ -1,6 +1,6 @@
 ---
 slug: "con-black-consciousness"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0461"
 type: "مفهوم"
 level: "متقدم"
 title: "الوعي الأسود"

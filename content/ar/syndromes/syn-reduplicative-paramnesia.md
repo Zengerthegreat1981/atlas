@@ -1,6 +1,6 @@
 ---
 slug: "syn-reduplicative-paramnesia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0148"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

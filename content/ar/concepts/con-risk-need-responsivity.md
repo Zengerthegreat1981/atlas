@@ -1,6 +1,6 @@
 ---
 slug: "con-risk-need-responsivity"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0717"
 type: "مفهوم"
 level: "متقدم"
 title: "مبدأ المخاطرة والحاجة والاستجابة"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-people-skills"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0419"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "con-complex-ptsd"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2157"
 type: "مفكر"
 level: "متوسط"
 title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)"

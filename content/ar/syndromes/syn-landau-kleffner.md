@@ -1,6 +1,6 @@
 ---
 slug: "syn-landau-kleffner"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0108"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

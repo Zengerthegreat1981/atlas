@@ -1,6 +1,6 @@
 ---
 slug: "thk-nagarjuna"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1659"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

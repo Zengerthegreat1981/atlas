@@ -1,6 +1,6 @@
 ---
 slug: "thk-cgrob"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0834"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز غروب"

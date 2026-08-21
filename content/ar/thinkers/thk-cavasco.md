@@ -1,6 +1,6 @@
 ---
 slug: "thk-cavasco"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0818"
 type: "مفكر"
 level: "متوسط"
 title: "كارلوس ألبيرتو فاسكو"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-creative-hopelessness"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0009"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "اليأس الخلّاق"

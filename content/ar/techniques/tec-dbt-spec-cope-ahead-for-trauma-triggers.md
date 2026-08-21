@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-spec-cope-ahead-for-trauma-triggers"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0194"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الاستعداد المسبق لمحفزات الصدمة"

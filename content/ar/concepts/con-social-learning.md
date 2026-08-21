@@ -1,6 +1,6 @@
 ---
 slug: "con-social-learning"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0741"
 type: "مفهوم"
 level: "متوسط"
 title: "نظرية التعلم الاجتماعي"

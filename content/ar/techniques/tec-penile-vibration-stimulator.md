@@ -1,6 +1,6 @@
 ---
 slug: "tec-penile-vibration-stimulator"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0267"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "جهاز الاهتزاز للقضيب (Penile Vibratory Stimulation)"

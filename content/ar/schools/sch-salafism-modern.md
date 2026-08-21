@@ -1,6 +1,6 @@
 ---
 slug: "sch-salafism-modern"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0272"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

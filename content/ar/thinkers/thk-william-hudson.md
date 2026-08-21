@@ -1,6 +1,6 @@
 ---
 slug: "thk-william-hudson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2107"
 type: "مفكر"
 level: "متوسط"
 title: "وليام هدسون"

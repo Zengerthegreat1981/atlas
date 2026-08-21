@@ -1,6 +1,6 @@
 ---
 slug: "tec-authentic-movement"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0060"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الحركة الأصيلة"

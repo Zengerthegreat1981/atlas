@@ -1,6 +1,6 @@
 ---
 slug: "stu-schachter-singer-two-factor-emotion"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0096"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

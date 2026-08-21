@@ -1,6 +1,6 @@
 ---
 slug: "wrk-how-we-learn"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0349"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

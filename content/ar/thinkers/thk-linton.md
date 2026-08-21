@@ -1,6 +1,6 @@
 ---
 slug: "thk-linton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1459"
 type: "مفكر"
 level: "متوسط"
 title: "رالف لينتون"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-ies-r"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0045"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس أثر الحدث المنقح"

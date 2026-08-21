@@ -1,6 +1,6 @@
 ---
 slug: "syn-stendhal"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0165"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

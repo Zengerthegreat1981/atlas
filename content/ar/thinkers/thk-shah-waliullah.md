@@ -1,6 +1,6 @@
 ---
 slug: "thk-shah-waliullah"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1932"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

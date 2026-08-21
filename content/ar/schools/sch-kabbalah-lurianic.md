@@ -1,6 +1,6 @@
 ---
 slug: "sch-kabbalah-lurianic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0164"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

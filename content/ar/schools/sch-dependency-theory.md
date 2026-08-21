@@ -1,6 +1,6 @@
 ---
 slug: "sch-dependency-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0087"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

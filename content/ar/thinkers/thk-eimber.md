@@ -1,6 +1,6 @@
 ---
 slug: "thk-eimber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0987"
 type: "مفكر"
 level: "متوسط"
 title: "إيفان إمبير-بلاك"

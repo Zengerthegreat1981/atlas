@@ -1,6 +1,6 @@
 ---
 slug: "con-chatbot-therapeutic-alliance"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0472"
 type: "مفهوم"
 level: "متوسط"
 title: "التحالف العلاجي مع chatbot"

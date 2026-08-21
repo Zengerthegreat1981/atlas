@@ -1,6 +1,6 @@
 ---
 slug: "thk-nasir-tusi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1664"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

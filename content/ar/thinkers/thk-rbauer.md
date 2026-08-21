@@ -1,6 +1,6 @@
 ---
 slug: "thk-rbauer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1783"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت باور"

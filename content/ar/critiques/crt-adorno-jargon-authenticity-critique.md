@@ -1,6 +1,6 @@
 ---
 slug: "crt-adorno-jargon-authenticity-critique"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0002"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية"

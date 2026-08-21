@@ -1,6 +1,6 @@
 ---
 slug: "thk-ctieles"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0869"
 type: "مفكر"
 level: "متوسط"
 title: "سيسليو تيليس"

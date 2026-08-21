@@ -1,6 +1,6 @@
 ---
 slug: "thk-jkagan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1297"
 type: "مفكر"
 level: "متقدم"
 title: "جيروم كاغان"

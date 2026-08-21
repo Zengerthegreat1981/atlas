@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-silent-validation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0180"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التصديق الصامت"

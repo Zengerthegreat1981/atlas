@@ -1,6 +1,6 @@
 ---
 slug: "wrk-hind-swaraj"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0343"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

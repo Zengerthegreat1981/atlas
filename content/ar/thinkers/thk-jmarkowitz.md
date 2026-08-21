@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmarkowitz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1310"
 type: "مفكر"
 level: "متقدم"
 title: "جيمس ماركويتز"

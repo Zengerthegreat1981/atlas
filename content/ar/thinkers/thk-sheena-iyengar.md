@@ -1,6 +1,6 @@
 ---
 slug: "thk-sheena-iyengar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1941"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-batkinson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0734"
 type: "مفكر"
 level: "متوسط"
 title: "برنت أتكينسون"

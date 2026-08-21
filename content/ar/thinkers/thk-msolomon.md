@@ -1,6 +1,6 @@
 ---
 slug: "thk-msolomon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1634"
 type: "مفكر"
 level: "متوسط"
 title: "ماريون سولومون"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-saadia-gaon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1893"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-suttie"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2010"
 type: "مفكر"
 level: "متقدم"
 title: "إيان سوتي"

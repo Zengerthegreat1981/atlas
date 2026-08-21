@@ -1,6 +1,6 @@
 ---
 slug: "thk-king"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1400"
 type: "مفكر"
 level: "متقدم"
 title: "بيرل كينغ"

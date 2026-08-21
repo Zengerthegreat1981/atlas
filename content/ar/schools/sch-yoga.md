@@ -1,6 +1,6 @@
 ---
 slug: "sch-yoga"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0332"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

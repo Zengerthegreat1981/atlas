@@ -1,6 +1,6 @@
 ---
 slug: "thk-mramose"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1625"
 type: "مفكر"
 level: "متقدم"
 title: "مويبِنغ ديزموند ماغوناو رَموسي"

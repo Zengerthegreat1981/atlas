@@ -1,6 +1,6 @@
 ---
 slug: "wrk-fromm-escape-freedom"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0319"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الهروب من الحرية (Escape from Freedom)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-pgodfrey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1737"
 type: "مفكر"
 level: "متوسط"
 title: "بيتر غودفري"

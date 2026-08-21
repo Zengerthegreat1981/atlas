@@ -1,6 +1,6 @@
 ---
 slug: "thk-ptedeschi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1765"
 type: "مفكر"
 level: "متوسط"
 title: "رافائيل تيدِسكي"

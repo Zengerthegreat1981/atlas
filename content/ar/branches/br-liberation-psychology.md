@@ -1,6 +1,6 @@
 ---
 slug: "br-liberation-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0169"
 type: "تيار"
 level: "متقدم"
 title: "علم نفس التحرير (مارتين-بارو)"

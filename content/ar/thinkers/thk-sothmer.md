@@ -1,6 +1,6 @@
 ---
 slug: "thk-sothmer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1968"
 type: "مفكر"
 level: "مبتدئ"
 title: "سيغفريد أوتمر"

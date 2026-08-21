@@ -1,6 +1,6 @@
 ---
 slug: "sch-ubuntu-traditional"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0313"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

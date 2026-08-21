@@ -1,6 +1,6 @@
 ---
 slug: "thk-paulholmes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1714"
 type: "مفكر"
 level: "متقدم"
 title: "بول هولمز"

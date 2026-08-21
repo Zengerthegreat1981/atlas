@@ -1,6 +1,6 @@
 ---
 slug: "thk-rdrake"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1796"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت دريك"

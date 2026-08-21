@@ -1,6 +1,6 @@
 ---
 slug: "con-psychedelic-experience"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2164"
 type: "مفكر"
 level: "متوسط"
 title: "التجربة السيكوديلية"

@@ -1,6 +1,6 @@
 ---
 slug: "con-matching-law"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0633"
 type: "مفهوم"
 level: "متقدم"
 title: "قانون التطابق"

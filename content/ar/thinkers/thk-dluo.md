@@ -1,6 +1,6 @@
 ---
 slug: "thk-dluo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0935"
 type: "مفكر"
 level: "متوسط"
 title: "دونغ ليو"

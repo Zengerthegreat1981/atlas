@@ -1,6 +1,6 @@
 ---
 slug: "thk-bkaufman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0763"
 type: "مفكر"
 level: "متوسط"
 title: "بِنْيامين كوفمان"

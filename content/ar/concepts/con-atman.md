@@ -1,6 +1,6 @@
 ---
 slug: "con-atman"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0447"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

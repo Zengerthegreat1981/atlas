@@ -1,6 +1,6 @@
 ---
 slug: "sch-manicheism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0189"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

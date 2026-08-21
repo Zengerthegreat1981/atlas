@@ -1,6 +1,6 @@
 ---
 slug: "br-therapeutic-risk-assessment"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0221"
 type: "تيار"
 level: "متقدم"
 title: "تقييم المخاطر العلاجي"

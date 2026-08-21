@@ -1,6 +1,6 @@
 ---
 slug: "thk-colette-dowling"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0852"
 type: "مفكر"
 part: "psychology"
 register: "popular"

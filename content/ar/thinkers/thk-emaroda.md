@@ -1,6 +1,6 @@
 ---
 slug: "thk-emaroda"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1001"
 type: "مفكر"
 level: "متوسط"
 title: "إيف مارودا"

@@ -1,6 +1,6 @@
 ---
 slug: "con-gaslighting-popular"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0567"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

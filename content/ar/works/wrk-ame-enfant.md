@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ame-enfant"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0228"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "صورة عن وعي الطفل"

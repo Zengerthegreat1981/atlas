@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgottman-sr"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1279"
 type: "مفكر"
 level: "متوسط"
 title: "جوليا غوتمان"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-stair-nt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0308"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات للصدمة (STAIR-NT)"

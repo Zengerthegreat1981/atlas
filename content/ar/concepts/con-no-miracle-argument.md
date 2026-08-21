@@ -1,6 +1,6 @@
 ---
 slug: "con-no-miracle-argument"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0656"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

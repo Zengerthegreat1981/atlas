@@ -1,6 +1,6 @@
 ---
 slug: "thk-sgreenspan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1929"
 type: "مفكر"
 level: "متقدم"
 title: "ستانلي غرينسبان"

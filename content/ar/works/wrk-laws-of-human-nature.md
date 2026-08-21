@@ -1,6 +1,6 @@
 ---
 slug: "wrk-laws-of-human-nature"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0369"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

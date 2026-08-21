@@ -1,6 +1,6 @@
 ---
 slug: "con-schizophrenia"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0724"
 type: "مفهوم"
 level: "متقدم"
 title: "الفصام وانشقاق الشخصية (بلويلر)"

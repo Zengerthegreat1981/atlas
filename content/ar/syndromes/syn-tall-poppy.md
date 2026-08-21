@@ -1,6 +1,6 @@
 ---
 slug: "syn-tall-poppy"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0173"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

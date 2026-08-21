@@ -1,6 +1,6 @@
 ---
 slug: "syn-dementia-pugilistica"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0046"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

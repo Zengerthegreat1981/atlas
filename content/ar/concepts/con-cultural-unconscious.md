@@ -1,6 +1,6 @@
 ---
 slug: "con-cultural-unconscious"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0498"
 type: "مفهوم"
 level: "متقدم"
 title: "اللاوعي الثقافي"

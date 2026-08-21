@@ -1,6 +1,6 @@
 ---
 slug: "sch-phil-mathematics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0241"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-satir-transformational-systemic"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0295"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "نموذج ساتير الأسري التحويلي"

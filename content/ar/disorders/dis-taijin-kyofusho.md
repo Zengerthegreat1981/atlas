@@ -1,6 +1,6 @@
 ---
 slug: "dis-taijin-kyofusho"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0102"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "تاي جين كيو فوشو (Taijin Kyofusho)"

@@ -1,6 +1,6 @@
 ---
 slug: "con-sacred-prostitute"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0718"
 type: "مفهوم"
 level: "متوسط"
 title: "أركيتيب البغي المقدسة (الهيتيرا)"

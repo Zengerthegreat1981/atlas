@@ -1,6 +1,6 @@
 ---
 slug: "tec-istdp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0238"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج الديناميكي المكثف قصير المدى (ISTDP)"

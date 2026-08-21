@@ -1,6 +1,6 @@
 ---
 slug: "con-prt-pivotal-response"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0688"
 type: "مفهوم"
 level: "متوسط"
 title: "علاج المحاور (PRT)"

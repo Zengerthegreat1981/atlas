@@ -1,6 +1,6 @@
 ---
 slug: "sch-mingjia"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0203"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

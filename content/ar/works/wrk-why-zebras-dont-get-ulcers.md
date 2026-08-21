@@ -1,6 +1,6 @@
 ---
 slug: "wrk-why-zebras-dont-get-ulcers"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0490"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

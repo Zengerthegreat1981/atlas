@@ -1,6 +1,6 @@
 ---
 slug: "thk-duckworth"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0960"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

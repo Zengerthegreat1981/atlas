@@ -1,6 +1,6 @@
 ---
 slug: "syn-anticholinergic-toxicity"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0012"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-strengths-based-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0313"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج المرتكز على مواطن القوة"

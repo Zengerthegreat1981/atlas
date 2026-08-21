@@ -1,6 +1,6 @@
 ---
 slug: "tec-flash-technique"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0221"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تقنية الوميض (Flash Technique)"

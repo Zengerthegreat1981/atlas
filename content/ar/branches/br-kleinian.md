@@ -1,6 +1,6 @@
 ---
 slug: "br-kleinian"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0166"
 type: "تيار"
 level: "متقدم"
 title: "المدرسة الكلاينية"

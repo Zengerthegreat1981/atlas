@@ -1,6 +1,6 @@
 ---
 slug: "wrk-unwinding-anxiety"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0478"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-vienna-psychoanalytic-institute-1925"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0068"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس معهد فيينا للتحليل النفسي والعيادة الإسعافية المجانية"

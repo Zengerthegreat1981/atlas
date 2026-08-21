@@ -1,6 +1,6 @@
 ---
 slug: "sch-mazdakism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0195"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

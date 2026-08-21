@@ -1,6 +1,6 @@
 ---
 slug: "ins-m-chat-r-autism"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0050"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

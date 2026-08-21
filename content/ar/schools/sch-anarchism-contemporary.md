@@ -1,6 +1,6 @@
 ---
 slug: "sch-anarchism-contemporary"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0026"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

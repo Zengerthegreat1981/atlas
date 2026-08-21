@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-physicalizing-the-thought"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0028"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تجسيد الفكرة"

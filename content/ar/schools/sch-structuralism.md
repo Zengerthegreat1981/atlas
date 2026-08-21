@@ -1,6 +1,6 @@
 ---
 slug: "sch-structuralism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0299"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

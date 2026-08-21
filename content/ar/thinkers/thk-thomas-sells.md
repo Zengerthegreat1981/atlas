@@ -1,6 +1,6 @@
 ---
 slug: "thk-thomas-sells"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2035"
 type: "مفكر"
 level: "متقدم"
 title: "توماس سيلز"

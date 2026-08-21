@@ -1,6 +1,6 @@
 ---
 slug: "thk-tjames"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2041"
 type: "مفكر"
 level: "مبتدئ"
 title: "تاد جيمس"

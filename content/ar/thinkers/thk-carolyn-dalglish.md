@@ -1,6 +1,6 @@
 ---
 slug: "thk-carolyn-dalglish"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0814"
 type: "مفكر"
 level: "متوسط"
 title: "كارولين دالجليش"

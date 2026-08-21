@@ -1,6 +1,6 @@
 ---
 slug: "thk-dgreenberger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0924"
 type: "مفكر"
 level: "متوسط"
 title: "دِنيز د. ديفيد"

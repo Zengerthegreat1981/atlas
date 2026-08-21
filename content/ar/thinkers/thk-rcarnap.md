@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcarnap"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1790"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

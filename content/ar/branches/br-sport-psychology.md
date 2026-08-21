@@ -1,6 +1,6 @@
 ---
 slug: "br-sport-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0218"
 type: "تيار"
 level: "متوسط"
 title: "علم نفس الرياضة"

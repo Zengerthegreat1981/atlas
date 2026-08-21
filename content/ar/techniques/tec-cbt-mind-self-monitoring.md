@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-mind-self-monitoring"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0116"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "المراقبة الذاتية"

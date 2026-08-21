@@ -1,6 +1,6 @@
 ---
 slug: "con-relational-frame-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0710"
 type: "مفهوم"
 level: "متقدم"
 title: "نظرية إطار العلاقات (RFT)"

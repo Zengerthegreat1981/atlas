@@ -1,6 +1,6 @@
 ---
 slug: "tec-morita-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0253"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "علاج موريتا"

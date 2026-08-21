@@ -1,6 +1,6 @@
 ---
 slug: "tec-social-skills-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0304"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تدريب المهارات الاجتماعية (SST)"

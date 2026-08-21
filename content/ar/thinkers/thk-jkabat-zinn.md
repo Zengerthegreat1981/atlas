@@ -1,6 +1,6 @@
 ---
 slug: "thk-jkabat-zinn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1295"
 type: "مفكر"
 level: "متقدم"
 title: "جون كابات-زين"

@@ -1,6 +1,6 @@
 ---
 slug: "con-confirmation-bias"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0487"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

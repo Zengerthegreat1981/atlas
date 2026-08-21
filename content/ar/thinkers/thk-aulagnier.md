@@ -1,6 +1,6 @@
 ---
 slug: "thk-aulagnier"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0719"
 type: "مفكر"
 level: "متقدم"
 title: "بيارا أولانييه"

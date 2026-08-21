@@ -1,6 +1,6 @@
 ---
 slug: "thk-delman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0912"
 type: "مفكر"
 level: "متوسط"
 title: "ديف إلمان"

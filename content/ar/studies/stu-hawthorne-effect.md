@@ -1,6 +1,6 @@
 ---
 slug: "stu-hawthorne-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0046"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات مصانع هوثورن وتأثير هوثورن في الإنتاجية والملاحظة"

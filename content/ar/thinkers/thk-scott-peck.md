@@ -1,6 +1,6 @@
 ---
 slug: "thk-scott-peck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1918"
 type: "مفكر"
 part: "psychology"
 register: "popular"

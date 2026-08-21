@@ -1,6 +1,6 @@
 ---
 slug: "stu-dweck-learned-helplessness-children"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0035"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة دويك حول العجز المُتعلَّم والتوجه نحو الإتقان لدى أطفال المدارس"

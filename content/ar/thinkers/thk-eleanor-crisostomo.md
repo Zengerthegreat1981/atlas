@@ -1,6 +1,6 @@
 ---
 slug: "thk-eleanor-crisostomo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0996"
 type: "مفكر"
 level: "متوسط"
 title: "إيلينور كريزوستومو"

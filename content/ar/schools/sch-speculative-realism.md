@@ -1,6 +1,6 @@
 ---
 slug: "sch-speculative-realism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0296"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

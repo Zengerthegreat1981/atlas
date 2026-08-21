@@ -1,6 +1,6 @@
 ---
 slug: "dis-male-hypoactive-sexual-desire"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0066"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الرغبة الجنسية المنخفضة عند الذكور"

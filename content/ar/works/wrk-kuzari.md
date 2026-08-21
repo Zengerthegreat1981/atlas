@@ -1,6 +1,6 @@
 ---
 slug: "wrk-kuzari"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0367"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-susan-forward"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2007"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-serotonin"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0153"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

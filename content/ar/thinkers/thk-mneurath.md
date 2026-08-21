@@ -1,6 +1,6 @@
 ---
 slug: "thk-mneurath"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1611"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

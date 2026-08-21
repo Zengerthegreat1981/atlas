@@ -1,6 +1,6 @@
 ---
 slug: "thk-james-clear"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1224"
 type: "مفكر"
 part: "psychology"
 register: "popular"

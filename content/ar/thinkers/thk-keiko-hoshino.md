@@ -1,6 +1,6 @@
 ---
 slug: "thk-keiko-hoshino"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1381"
 type: "مفكر"
 level: "متوسط"
 title: "كيكو هوشينو"

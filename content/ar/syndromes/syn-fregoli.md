@@ -1,6 +1,6 @@
 ---
 slug: "syn-fregoli"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0070"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

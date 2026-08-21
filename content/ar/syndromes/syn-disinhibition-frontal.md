@@ -1,6 +1,6 @@
 ---
 slug: "syn-disinhibition-frontal"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0050"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

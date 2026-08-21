@@ -1,6 +1,6 @@
 ---
 slug: "tec-dance-movement-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0140"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالرقص والحركة (DMT)"

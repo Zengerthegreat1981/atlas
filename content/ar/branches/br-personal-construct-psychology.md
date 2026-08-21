@@ -1,6 +1,6 @@
 ---
 slug: "br-personal-construct-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0183"
 type: "تيار"
 level: "متقدم"
 title: "سيكولوجيا الأطر الشخصية (جورج كيلي)"

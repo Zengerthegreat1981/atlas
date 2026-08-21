@@ -1,6 +1,6 @@
 ---
 slug: "stu-main-disorganized-attachment"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0074"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات ماري مين وسولومون حول التعلّق غير المنظم"

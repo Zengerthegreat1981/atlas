@@ -1,6 +1,6 @@
 ---
 slug: "con-misinformation-effect-loftus"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0640"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

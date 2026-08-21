@@ -1,6 +1,6 @@
 ---
 slug: "dis-hoarding-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0056"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الاكتناز"

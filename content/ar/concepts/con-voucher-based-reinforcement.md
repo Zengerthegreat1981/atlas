@@ -1,6 +1,6 @@
 ---
 slug: "con-voucher-based-reinforcement"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0785"
 type: "مفهوم"
 level: "متوسط"
 title: "التعزيز المعتمد على القسائم"

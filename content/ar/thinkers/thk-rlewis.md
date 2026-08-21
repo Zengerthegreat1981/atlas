@@ -1,6 +1,6 @@
 ---
 slug: "thk-rlewis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1826"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت أ. لويس"

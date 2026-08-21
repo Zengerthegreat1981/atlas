@@ -1,6 +1,6 @@
 ---
 slug: "thk-cbrenner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0820"
 type: "مفكر"
 level: "متقدم"
 title: "تشارلز برينر"

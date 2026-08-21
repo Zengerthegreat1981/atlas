@@ -1,6 +1,6 @@
 ---
 slug: "thk-khan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1395"
 type: "مفكر"
 level: "متقدم"
 title: "مسعود خان"

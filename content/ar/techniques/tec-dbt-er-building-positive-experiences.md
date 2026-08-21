@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-building-positive-experiences"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0161"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "بناء تجارب إيجابية قصيرة المدى (A)"

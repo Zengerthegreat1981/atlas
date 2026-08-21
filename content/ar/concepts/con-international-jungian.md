@@ -1,6 +1,6 @@
 ---
 slug: "con-international-jungian"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0602"
 type: "مفهوم"
 level: "متوسط"
 title: "عولمة التحليلية والمؤسسات الدولية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-bobbeck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0771"
 type: "مفكر"
 level: "متوسط"
 title: "بوب بيك"

@@ -1,6 +1,6 @@
 ---
 slug: "con-relearning-the-world"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0713"
 type: "مفهوم"
 level: "متقدم"
 title: "إعادة تعلم العالم بعد الفقد"

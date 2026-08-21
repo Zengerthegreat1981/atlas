@@ -1,6 +1,6 @@
 ---
 slug: "wrk-barnes-an-existentialist-ethics"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0245"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "أخلاق وجودية (هازل بارنز)"

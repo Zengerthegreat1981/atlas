@@ -1,6 +1,6 @@
 ---
 slug: "thk-katka-rubin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1376"
 type: "مفكر"
 level: "متوسط"
 title: "كاتكا روبين"

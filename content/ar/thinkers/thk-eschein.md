@@ -1,6 +1,6 @@
 ---
 slug: "thk-eschein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1017"
 type: "مفكر"
 level: "متوسط"
 title: "إدغار شين"

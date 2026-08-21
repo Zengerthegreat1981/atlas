@@ -1,6 +1,6 @@
 ---
 slug: "thk-locke"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1469"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

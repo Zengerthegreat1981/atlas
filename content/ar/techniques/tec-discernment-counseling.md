@@ -1,6 +1,6 @@
 ---
 slug: "tec-discernment-counseling"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0202"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "إرشاد التمييز والبت الزوجي"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-quinean-naturalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0261"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-meaning-making-model-park"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0075"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "نموذج صنع المعنى (Meaning Making Model)"

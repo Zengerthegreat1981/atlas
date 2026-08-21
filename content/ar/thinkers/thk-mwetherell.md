@@ -1,6 +1,6 @@
 ---
 slug: "thk-mwetherell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1651"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريت ويذَرِيل"

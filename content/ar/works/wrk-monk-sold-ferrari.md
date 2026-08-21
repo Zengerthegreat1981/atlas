@@ -1,6 +1,6 @@
 ---
 slug: "wrk-monk-sold-ferrari"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0395"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

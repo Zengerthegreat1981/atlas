@@ -1,6 +1,6 @@
 ---
 slug: "sch-jainism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0157"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

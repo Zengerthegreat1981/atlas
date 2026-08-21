@@ -1,6 +1,6 @@
 ---
 slug: "thk-rado"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1773"
 type: "مفكر"
 level: "متقدم"
 title: "ثيودور رادو"

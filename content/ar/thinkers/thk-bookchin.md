@@ -1,6 +1,6 @@
 ---
 slug: "thk-bookchin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0777"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-wbennett"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2093"
 type: "مفكر"
 level: "مبتدئ"
 title: "وين بينيت"

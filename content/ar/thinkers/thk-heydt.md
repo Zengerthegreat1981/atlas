@@ -1,6 +1,6 @@
 ---
 slug: "thk-heydt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1146"
 type: "مفكر"
 level: "متوسط"
 title: "فيرا فون دير هايدت"

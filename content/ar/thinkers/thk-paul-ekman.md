@@ -1,6 +1,6 @@
 ---
 slug: "thk-paul-ekman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1712"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

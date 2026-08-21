@@ -1,6 +1,6 @@
 ---
 slug: "con-lived-body"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0623"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

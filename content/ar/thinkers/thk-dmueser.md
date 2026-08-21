@@ -1,6 +1,6 @@
 ---
 slug: "thk-dmueser"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0940"
 type: "مفكر"
 level: "متوسط"
 title: "كيم ميوزر"

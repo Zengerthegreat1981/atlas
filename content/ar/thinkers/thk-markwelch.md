@@ -1,6 +1,6 @@
 ---
 slug: "thk-markwelch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1511"
 type: "مفكر"
 level: "متوسط"
 title: "مارك ويلش"

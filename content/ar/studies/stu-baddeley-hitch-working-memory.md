@@ -1,6 +1,6 @@
 ---
 slug: "stu-baddeley-hitch-working-memory"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0008"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متقدم"

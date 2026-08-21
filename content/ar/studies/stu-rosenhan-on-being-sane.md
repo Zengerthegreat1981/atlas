@@ -1,6 +1,6 @@
 ---
 slug: "stu-rosenhan-on-being-sane"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0092"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة روزنهان الشهيرة 'عن كونك سليماً في أماكن غير سليمة' والتشخيص النفسي"

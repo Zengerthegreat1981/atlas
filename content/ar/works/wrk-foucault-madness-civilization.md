@@ -1,6 +1,6 @@
 ---
 slug: "wrk-foucault-madness-civilization"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0313"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الجنون والحضارة (Madness and Civilization)"

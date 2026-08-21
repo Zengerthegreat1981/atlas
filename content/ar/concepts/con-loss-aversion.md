@@ -1,6 +1,6 @@
 ---
 slug: "con-loss-aversion"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0625"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

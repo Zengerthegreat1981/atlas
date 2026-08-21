@@ -1,6 +1,6 @@
 ---
 slug: "syn-gerstmann"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0073"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

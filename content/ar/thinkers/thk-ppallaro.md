@@ -1,6 +1,6 @@
 ---
 slug: "thk-ppallaro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1755"
 type: "مفكر"
 level: "متوسط"
 title: "باتريتسيا بالارو"

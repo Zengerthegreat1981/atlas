@@ -1,6 +1,6 @@
 ---
 slug: "thk-marian-krcmar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1504"
 type: "مفكر"
 level: "متوسط"
 title: "ماريان كركمار"

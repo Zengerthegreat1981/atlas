@@ -1,6 +1,6 @@
 ---
 slug: "syn-post-concussion"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0137"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

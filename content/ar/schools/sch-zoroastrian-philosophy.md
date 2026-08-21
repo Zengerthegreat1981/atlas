@@ -1,6 +1,6 @@
 ---
 slug: "sch-zoroastrian-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0338"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

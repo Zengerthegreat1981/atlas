@@ -1,6 +1,6 @@
 ---
 slug: "sch-transhumanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0310"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

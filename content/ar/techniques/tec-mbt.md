@@ -1,6 +1,6 @@
 ---
 slug: "tec-mbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0244"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج بالانعكاس الذهني (MBT)"

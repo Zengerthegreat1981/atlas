@@ -1,6 +1,6 @@
 ---
 slug: "sch-cognitive-behavioral"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0066"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"

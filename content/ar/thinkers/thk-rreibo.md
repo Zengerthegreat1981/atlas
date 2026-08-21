@@ -1,6 +1,6 @@
 ---
 slug: "thk-rreibo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1867"
 type: "مفكر"
 level: "مبتدئ"
 title: "ريتشارد ريبو"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ajanov"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0660"
 type: "مفكر"
 register: "popular"
 part: "psychology"

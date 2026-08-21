@@ -1,6 +1,6 @@
 ---
 slug: "wrk-erroneous-zones"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0301"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

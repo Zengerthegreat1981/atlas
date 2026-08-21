@@ -1,6 +1,6 @@
 ---
 slug: "con-capabilities-approach"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0466"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

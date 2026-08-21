@@ -1,6 +1,6 @@
 ---
 slug: "thk-fyeomans"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1063"
 type: "مفكر"
 level: "متقدم"
 title: "فرانك يَرمسون"

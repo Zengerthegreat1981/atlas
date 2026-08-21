@@ -1,6 +1,6 @@
 ---
 slug: "thk-venriquez"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2080"
 type: "مفكر"
 level: "متوسط"
 title: "فيرجوليو إنريكيز"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-gururumba"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0079"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

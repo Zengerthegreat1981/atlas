@@ -1,6 +1,6 @@
 ---
 slug: "sch-existentialism-atheist"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0103"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

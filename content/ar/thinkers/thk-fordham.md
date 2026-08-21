@@ -1,6 +1,6 @@
 ---
 slug: "thk-fordham"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1047"
 type: "مفكر"
 level: "متقدم"
 title: "مايكل فوردام"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-maharishi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1493"
 type: "مفكر"
 level: "متوسط"
 title: "مهارشي ماهيش يوغي"

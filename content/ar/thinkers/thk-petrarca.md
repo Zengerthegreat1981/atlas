@@ -1,6 +1,6 @@
 ---
 slug: "thk-petrarca"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1730"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

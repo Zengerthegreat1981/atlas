@@ -1,6 +1,6 @@
 ---
 slug: "thk-nealmiller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1670"
 type: "مفكر"
 level: "متقدم"
 title: "نيل ميلّر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-frederickleong"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1051"
 type: "مفكر"
 level: "متقدم"
 title: "فريديريك ليونغ"

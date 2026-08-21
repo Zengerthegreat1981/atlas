@@ -1,6 +1,6 @@
 ---
 slug: "thk-wolfe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2121"
 type: "مفكر"
 level: "متوسط"
 title: "ثيودور ب. وولف"

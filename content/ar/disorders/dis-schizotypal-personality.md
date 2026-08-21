@@ -1,6 +1,6 @@
 ---
 slug: "dis-schizotypal-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0091"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الشخصية شبه الفصامية"

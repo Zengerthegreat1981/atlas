@@ -1,6 +1,6 @@
 ---
 slug: "wrk-influence-persuasion"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0355"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

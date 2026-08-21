@@ -1,6 +1,6 @@
 ---
 slug: "tec-alexander-technique"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0057"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تقنية ألكسندر للوعي الحركي والوضعية"

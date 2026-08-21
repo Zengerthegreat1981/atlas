@@ -1,6 +1,6 @@
 ---
 slug: "con-jeong-korean"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0609"
 type: "مفهوم"
 level: "مبتدئ"
 title: "جونغ (Jeong، 정)"

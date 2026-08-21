@@ -1,6 +1,6 @@
 ---
 slug: "thk-mwhite"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1652"
 type: "مفكر"
 level: "متقدم"
 title: "مايكل وايت"

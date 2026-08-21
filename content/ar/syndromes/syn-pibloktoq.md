@@ -1,6 +1,6 @@
 ---
 slug: "syn-pibloktoq"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0135"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

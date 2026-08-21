@@ -1,6 +1,6 @@
 ---
 slug: "con-anti-oppressive-practice"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0441"
 type: "مفهوم"
 level: "متوسط"
 title: "الممارسة المناهضة للقمع"

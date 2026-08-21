@@ -1,6 +1,6 @@
 ---
 slug: "tec-process-based-cbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0278"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج المعرفي السلوكي القائم على العمليات والبروتوكول الموحد"

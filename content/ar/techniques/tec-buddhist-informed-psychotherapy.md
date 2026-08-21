@@ -1,6 +1,6 @@
 ---
 slug: "tec-buddhist-informed-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0069"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج النفسي المستنير بالبوذية"

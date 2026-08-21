@@ -1,6 +1,6 @@
 ---
 slug: "thk-stephen-talley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1994"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن تالي"

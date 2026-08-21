@@ -1,6 +1,6 @@
 ---
 slug: "thk-rafaeli-eyth"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1774"
 type: "مفكر"
 level: "متقدم"
 title: "رافائيل إيدث"

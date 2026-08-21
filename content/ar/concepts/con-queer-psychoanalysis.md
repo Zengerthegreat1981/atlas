@@ -1,6 +1,6 @@
 ---
 slug: "con-queer-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0698"
 type: "مفهوم"
 level: "متوسط"
 title: "التحليل النفسي الكويري"

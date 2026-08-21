@@ -1,6 +1,6 @@
 ---
 slug: "br-neuropsychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0177"
 type: "تيار"
 level: "متقدم"
 title: "التحليل النفسي العصبي"

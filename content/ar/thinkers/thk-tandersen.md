@@ -1,6 +1,6 @@
 ---
 slug: "thk-tandersen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2018"
 type: "مفكر"
 level: "متوسط"
 title: "توم أندرسن"

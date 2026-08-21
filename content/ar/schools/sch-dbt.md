@@ -1,6 +1,6 @@
 ---
 slug: "sch-dbt"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0081"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"

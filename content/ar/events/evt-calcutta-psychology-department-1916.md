@@ -1,6 +1,6 @@
 ---
 slug: "evt-calcutta-psychology-department-1916"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0017"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس أول قسم لعلم النفس التجريبي في جامعة كلكتا بالهند بواسطة سينغوبتا"

@@ -1,6 +1,6 @@
 ---
 slug: "rel-psychoanalysis-jungian"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0144"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التحليل النفسي والتحليلية اليونغية: انشقاق الأبناء المؤسِّس"

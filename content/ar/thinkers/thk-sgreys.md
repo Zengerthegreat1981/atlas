@@ -1,6 +1,6 @@
 ---
 slug: "thk-sgreys"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1930"
 type: "مفكر"
 level: "متوسط"
 title: "دانيال هيوز"

@@ -1,6 +1,6 @@
 ---
 slug: "con-addiction-model-debate"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0426"
 type: "مفهوم"
 level: "متوسط"
 title: "النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-madhva"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1491"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

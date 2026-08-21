@@ -1,6 +1,6 @@
 ---
 slug: "thk-wdowling"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2096"
 type: "مفكر"
 level: "مبتدئ"
 title: "ناعيم أكبر"

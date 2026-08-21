@@ -1,6 +1,6 @@
 ---
 slug: "thk-rlandy-md"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1824"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت لاندي"

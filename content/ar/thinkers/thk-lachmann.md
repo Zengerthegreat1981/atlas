@@ -1,6 +1,6 @@
 ---
 slug: "thk-lachmann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1429"
 type: "مفكر"
 level: "متقدم"
 title: "فرانك لاشمان"

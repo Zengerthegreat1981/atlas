@@ -1,6 +1,6 @@
 ---
 slug: "sch-theravada"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0304"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

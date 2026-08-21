@@ -1,6 +1,6 @@
 ---
 slug: "thk-lkohlberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1460"
 type: "مفكر"
 level: "متقدم"
 title: "لورنس كولبرغ"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-beitrage-sinneswahrnehmung"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0252"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "أبحاث في نظرية الإدراك الحسي"

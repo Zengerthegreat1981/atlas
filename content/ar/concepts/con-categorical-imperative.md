@@ -1,6 +1,6 @@
 ---
 slug: "con-categorical-imperative"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0470"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

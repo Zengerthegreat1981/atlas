@@ -1,6 +1,6 @@
 ---
 slug: "thk-dolweus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0941"
 type: "مفكر"
 level: "متوسط"
 title: "دان أولِس"

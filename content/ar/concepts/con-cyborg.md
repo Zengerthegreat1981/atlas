@@ -1,6 +1,6 @@
 ---
 slug: "con-cyborg"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0499"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

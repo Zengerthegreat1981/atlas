@@ -1,6 +1,6 @@
 ---
 slug: "sch-deconstruction"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0084"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

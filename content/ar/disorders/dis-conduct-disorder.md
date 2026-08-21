@@ -1,6 +1,6 @@
 ---
 slug: "dis-conduct-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0028"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب السلوك (Conduct Disorder)"

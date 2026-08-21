@@ -1,6 +1,6 @@
 ---
 slug: "rel-kierkegaardianism-nietzscheanism-existential-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0137"
 type: "علاقة بين مدرستين"
 part: "bridge"
 level: "متقدم"

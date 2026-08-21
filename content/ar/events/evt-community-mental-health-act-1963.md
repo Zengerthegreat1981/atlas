@@ -1,6 +1,6 @@
 ---
 slug: "evt-community-mental-health-act-1963"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0021"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "توقيع الرئيس كينيدي لقانون مراكز الصحة النفسية المجتمعية CMHA"

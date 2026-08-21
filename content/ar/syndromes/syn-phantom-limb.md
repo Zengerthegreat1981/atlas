@@ -1,6 +1,6 @@
 ---
 slug: "syn-phantom-limb"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0134"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

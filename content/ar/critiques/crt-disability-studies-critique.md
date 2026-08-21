@@ -1,6 +1,6 @@
 ---
 slug: "crt-disability-studies-critique"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0006"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز"

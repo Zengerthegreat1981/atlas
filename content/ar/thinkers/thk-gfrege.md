@@ -1,6 +1,6 @@
 ---
 slug: "thk-gfrege"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1086"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

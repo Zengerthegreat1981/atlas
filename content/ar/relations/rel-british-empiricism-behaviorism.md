@@ -1,6 +1,6 @@
 ---
 slug: "rel-british-empiricism-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0125"
 type: "علاقة بين مدرستين"
 part: "bridge"
 level: "متوسط"

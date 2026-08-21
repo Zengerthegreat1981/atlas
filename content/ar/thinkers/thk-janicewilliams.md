@@ -1,6 +1,6 @@
 ---
 slug: "thk-janicewilliams"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1230"
 type: "مفكر"
 level: "متوسط"
 title: "جانيس ويليامز"

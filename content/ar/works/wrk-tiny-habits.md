@@ -1,6 +1,6 @@
 ---
 slug: "wrk-tiny-habits"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0469"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

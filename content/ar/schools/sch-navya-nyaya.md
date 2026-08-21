@@ -1,6 +1,6 @@
 ---
 slug: "sch-navya-nyaya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0210"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-greenberg-lisa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1111"
 type: "مفكر"
 level: "متوسط"
 title: "ليزا فيرلي غرينبرغ"

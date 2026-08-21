@@ -1,6 +1,6 @@
 ---
 slug: "syn-dissociation"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0051"
 type: "متلازمة"
 level: "مبتدئ"
 title: "الانفصال (dissociation)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgebser"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1276"
 type: "مفكر"
 level: "متوسط"
 title: "جين غيبسر"

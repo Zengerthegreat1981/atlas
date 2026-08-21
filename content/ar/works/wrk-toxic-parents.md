@@ -1,6 +1,6 @@
 ---
 slug: "wrk-toxic-parents"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0472"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

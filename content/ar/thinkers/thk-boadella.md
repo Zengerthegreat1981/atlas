@@ -1,6 +1,6 @@
 ---
 slug: "thk-boadella"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0770"
 type: "مفكر"
 level: "متقدم"
 title: "ديفيد بوعِلّا"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dwallis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0962"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد واليس"

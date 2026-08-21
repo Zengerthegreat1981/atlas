@@ -1,6 +1,6 @@
 ---
 slug: "con-toxic-positivity"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0771"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

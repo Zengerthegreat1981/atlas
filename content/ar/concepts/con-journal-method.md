@@ -1,6 +1,6 @@
 ---
 slug: "con-journal-method"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0613"
 type: "مفهوم"
 level: "مبتدئ"
 title: "منهج اليوميات المكثف"

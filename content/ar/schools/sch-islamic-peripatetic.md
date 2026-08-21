@@ -1,6 +1,6 @@
 ---
 slug: "sch-islamic-peripatetic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0154"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rlevenson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1825"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت ليفنسون"

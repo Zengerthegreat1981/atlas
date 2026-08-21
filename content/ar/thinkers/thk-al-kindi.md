@@ -1,6 +1,6 @@
 ---
 slug: "thk-al-kindi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0666"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cognitive-hypnotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0131"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التنويم الإيحائي المعرفي"

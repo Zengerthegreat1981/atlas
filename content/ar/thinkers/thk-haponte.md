@@ -1,6 +1,6 @@
 ---
 slug: "thk-haponte"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1130"
 type: "مفكر"
 level: "متوسط"
 title: "هاري أبونت"

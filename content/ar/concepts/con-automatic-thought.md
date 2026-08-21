@@ -1,6 +1,6 @@
 ---
 slug: "con-automatic-thought"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0449"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الأفكار التلقائية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-lchodorow"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1442"
 type: "مفكر"
 level: "متقدم"
 title: "نانسي تشودوروف"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-quarter-life-crisis"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0143"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

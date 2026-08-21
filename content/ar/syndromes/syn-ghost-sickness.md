@@ -1,6 +1,6 @@
 ---
 slug: "syn-ghost-sickness"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0075"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

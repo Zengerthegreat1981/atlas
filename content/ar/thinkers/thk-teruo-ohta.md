@@ -1,6 +1,6 @@
 ---
 slug: "thk-teruo-ohta"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2028"
 type: "مفكر"
 level: "متوسط"
 title: "تيرو أوتا"

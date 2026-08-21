@@ -1,6 +1,6 @@
 ---
 slug: "stu-thorndike-puzzle-box"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0108"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجارب ثورندايك لصناديق الألغاز وقانون الأثر"

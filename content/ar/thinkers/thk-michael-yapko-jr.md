@@ -1,6 +1,6 @@
 ---
 slug: "thk-michael-yapko-jr"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1576"
 type: "مفكر"
 level: "متوسط"
 title: "دانيال بيت"

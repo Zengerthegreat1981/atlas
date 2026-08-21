@@ -1,6 +1,6 @@
 ---
 slug: "thk-bostrom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0779"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

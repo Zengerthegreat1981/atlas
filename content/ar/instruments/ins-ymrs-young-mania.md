@@ -1,6 +1,6 @@
 ---
 slug: "ins-ymrs-young-mania"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0095"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

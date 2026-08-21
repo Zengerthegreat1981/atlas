@@ -1,6 +1,6 @@
 ---
 slug: "wrk-fukuzawa-civilization"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0320"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

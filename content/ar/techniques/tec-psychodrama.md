@@ -1,6 +1,6 @@
 ---
 slug: "tec-psychodrama"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0285"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "السيكودراما (مورينو)"

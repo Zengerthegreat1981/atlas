@@ -1,6 +1,6 @@
 ---
 slug: "stu-hofling-hospital"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0050"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة هوفلينغ في المستشفى حول طاعة الممرضات"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-watson-little-albert"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0113"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة واطسون وراينر على ألبرت الصغير والإشراط الانفعالي"

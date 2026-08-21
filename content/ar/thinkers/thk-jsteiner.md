@@ -1,6 +1,6 @@
 ---
 slug: "thk-jsteiner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1351"
 type: "مفكر"
 level: "متقدم"
 title: "جون شتاينر"

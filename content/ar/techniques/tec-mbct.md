@@ -1,6 +1,6 @@
 ---
 slug: "tec-mbct"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0241"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)"

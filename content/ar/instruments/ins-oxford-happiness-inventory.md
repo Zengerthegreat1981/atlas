@@ -1,6 +1,6 @@
 ---
 slug: "ins-oxford-happiness-inventory"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0058"
 type: "أداة قياس"
 level: "متوسط"
 title: "قائمة أكسفورد للسعادة"

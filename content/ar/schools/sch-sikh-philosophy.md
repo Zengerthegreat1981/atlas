@@ -1,6 +1,6 @@
 ---
 slug: "sch-sikh-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0288"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

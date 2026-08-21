@@ -1,6 +1,6 @@
 ---
 slug: "dis-tic-disorders"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0103"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطرابات العرات (Tics)"

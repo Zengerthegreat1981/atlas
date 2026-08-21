@@ -1,6 +1,6 @@
 ---
 slug: "wrk-power-of-subconscious-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0427"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

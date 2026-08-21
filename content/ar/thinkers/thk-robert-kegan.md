@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-kegan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1842"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

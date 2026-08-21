@@ -1,6 +1,6 @@
 ---
 slug: "thk-gshepherd"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1118"
 type: "مفكر"
 level: "متوسط"
 title: "جيفري شيبرد"

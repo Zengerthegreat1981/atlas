@@ -1,6 +1,6 @@
 ---
 slug: "br-affective-neuroscience-informed"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0110"
 type: "تيار"
 level: "متقدم"
 title: "العلاج المستنير بعلم الأعصاب الوجداني"

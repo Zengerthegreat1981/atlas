@@ -1,6 +1,6 @@
 ---
 slug: "thk-dparker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0946"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد باركر"

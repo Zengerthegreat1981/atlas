@@ -1,6 +1,6 @@
 ---
 slug: "thk-eugenetaylor"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1021"
 type: "مفكر"
 level: "متقدم"
 title: "يوجين تيلور"

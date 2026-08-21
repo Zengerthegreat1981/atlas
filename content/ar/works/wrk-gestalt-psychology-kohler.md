@@ -1,6 +1,6 @@
 ---
 slug: "wrk-gestalt-psychology-kohler"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0323"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "علم نفس الـ Gestalt"

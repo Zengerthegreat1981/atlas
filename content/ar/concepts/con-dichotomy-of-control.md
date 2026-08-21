@@ -1,6 +1,6 @@
 ---
 slug: "con-dichotomy-of-control"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0516"
 type: "مفهوم"
 level: "متوسط"
 title: "ثنائية التحكم"

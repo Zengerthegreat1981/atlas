@@ -1,6 +1,6 @@
 ---
 slug: "thk-jpatterson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1336"
 type: "مفكر"
 level: "متقدم"
 title: "جيرالد باترسون"

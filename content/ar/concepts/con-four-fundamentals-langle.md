@@ -1,6 +1,6 @@
 ---
 slug: "con-four-fundamentals-langle"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0559"
 type: "مفهوم"
 level: "متقدم"
 title: "الشروط الأربعة الأساسية للتحليل الوجودي (لانغله)"

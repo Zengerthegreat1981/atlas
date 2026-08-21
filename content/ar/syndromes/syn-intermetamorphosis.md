@@ -1,6 +1,6 @@
 ---
 slug: "syn-intermetamorphosis"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0094"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

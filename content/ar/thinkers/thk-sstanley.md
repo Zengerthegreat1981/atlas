@@ -1,6 +1,6 @@
 ---
 slug: "thk-sstanley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1988"
 type: "مفكر"
 level: "متوسط"
 title: "سكوت ستانلي"

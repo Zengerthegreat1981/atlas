@@ -1,6 +1,6 @@
 ---
 slug: "thk-frankanderson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1050"
 type: "مفكر"
 level: "متقدم"
 title: "فرانك أندرسون"

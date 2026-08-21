@@ -1,6 +1,6 @@
 ---
 slug: "stu-freedman-fraser-foot-in-the-door"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0040"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

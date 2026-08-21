@@ -1,6 +1,6 @@
 ---
 slug: "sch-transpersonal"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0311"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"

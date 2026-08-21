@@ -1,6 +1,6 @@
 ---
 slug: "stu-miller-magical-number-seven"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0078"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة ميلر عن الرقم السحري سبعة وسعة معالجة المعلومات"

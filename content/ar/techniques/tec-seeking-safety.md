@@ -1,6 +1,6 @@
 ---
 slug: "tec-seeking-safety"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0297"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "بروتوكول طلب الأمان للصدمة والإدمان (Seeking Safety)"

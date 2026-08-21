@@ -1,6 +1,6 @@
 ---
 slug: "thk-jrivett"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1341"
 type: "مفكر"
 level: "مبتدئ"
 title: "جوردان ريد"

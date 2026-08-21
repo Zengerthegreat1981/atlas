@@ -1,6 +1,6 @@
 ---
 slug: "thk-kardiner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1371"
 type: "مفكر"
 level: "متوسط"
 title: "أبرام كاردينر"

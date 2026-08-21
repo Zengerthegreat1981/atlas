@@ -1,6 +1,6 @@
 ---
 slug: "tec-somatic-trauma"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0306"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الجسدي للصدمة (Somatic Trauma Therapy)"

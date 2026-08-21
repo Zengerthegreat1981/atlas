@@ -1,6 +1,6 @@
 ---
 slug: "thk-sandel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1903"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

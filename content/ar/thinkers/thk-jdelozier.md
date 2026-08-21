@@ -1,6 +1,6 @@
 ---
 slug: "thk-jdelozier"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1260"
 type: "مفكر"
 level: "متوسط"
 title: "جوديث دِلوزييه"

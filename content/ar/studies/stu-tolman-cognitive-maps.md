@@ -1,6 +1,6 @@
 ---
 slug: "stu-tolman-cognitive-maps"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0109"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "crt-neurodiversity-aba-critique"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0012"
 type: "نقد خارجي موثَّق"
 level: "متوسط"
 title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج"

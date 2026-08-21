@@ -1,6 +1,6 @@
 ---
 slug: "wrk-rogers-client-centered-1951"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0441"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "العلاج المتمركز حول العميل (Client-Centered Therapy)"

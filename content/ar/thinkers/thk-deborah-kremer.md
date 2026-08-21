@@ -1,6 +1,6 @@
 ---
 slug: "thk-deborah-kremer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0909"
 type: "مفكر"
 level: "متوسط"
 title: "دبرا كريمر"

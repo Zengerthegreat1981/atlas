@@ -1,6 +1,6 @@
 ---
 slug: "dis-avoidant-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0017"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الشخصية التجنبية"

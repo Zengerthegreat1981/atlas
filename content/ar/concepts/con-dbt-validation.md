@@ -1,6 +1,6 @@
 ---
 slug: "con-dbt-validation"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0503"
 type: "مفهوم"
 level: "متوسط"
 title: "استراتيجيات الصلاحية (Validation) في DBT"

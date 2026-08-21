@@ -1,6 +1,6 @@
 ---
 slug: "thk-leopold"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1449"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

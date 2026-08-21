@@ -1,6 +1,6 @@
 ---
 slug: "stu-cialdini-door-in-the-face"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0022"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

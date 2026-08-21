@@ -1,6 +1,6 @@
 ---
 slug: "thk-rfoxx"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1802"
 type: "مفكر"
 level: "متوسط"
 title: "ريتشارد فُكْس"

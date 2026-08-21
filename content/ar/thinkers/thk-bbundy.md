@@ -1,6 +1,6 @@
 ---
 slug: "thk-bbundy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0740"
 type: "مفكر"
 level: "مبتدئ"
 title: "كارين بَد"

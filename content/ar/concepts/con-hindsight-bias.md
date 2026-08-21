@@ -1,6 +1,6 @@
 ---
 slug: "con-hindsight-bias"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0586"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

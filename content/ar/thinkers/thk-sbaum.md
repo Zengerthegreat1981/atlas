@@ -1,6 +1,6 @@
 ---
 slug: "thk-sbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1908"
 type: "مفكر"
 level: "متوسط"
 title: "سكوت بوم"

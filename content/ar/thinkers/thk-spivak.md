@@ -1,6 +1,6 @@
 ---
 slug: "thk-spivak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1977"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

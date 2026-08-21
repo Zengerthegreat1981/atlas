@@ -1,6 +1,6 @@
 ---
 slug: "br-discursive-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0140"
 type: "تيار"
 level: "متقدم"
 title: "علم النفس الخطابي (بوتر وويذرل)"

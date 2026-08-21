@@ -1,6 +1,6 @@
 ---
 slug: "sch-personalism-contemporary"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0234"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

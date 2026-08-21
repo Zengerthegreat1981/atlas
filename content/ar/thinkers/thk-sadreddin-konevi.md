@@ -1,6 +1,6 @@
 ---
 slug: "thk-sadreddin-konevi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1897"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

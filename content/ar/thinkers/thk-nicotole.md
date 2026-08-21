@@ -1,6 +1,6 @@
 ---
 slug: "thk-nicotole"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1675"
 type: "مفكر"
 level: "متوسط"
 title: "نيكول تول"

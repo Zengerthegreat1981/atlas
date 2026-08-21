@@ -1,6 +1,6 @@
 ---
 slug: "thk-aoliveira"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0701"
 type: "مفكر"
 level: "متوسط"
 title: "أنا ماريا دي أوليفيرا"

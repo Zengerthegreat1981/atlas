@@ -1,6 +1,6 @@
 ---
 slug: "con-tabula-rasa"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0763"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

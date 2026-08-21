@@ -1,6 +1,6 @@
 ---
 slug: "thk-dhook"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0926"
 type: "مفكر"
 level: "متوسط"
 title: "دِنيس هوك"

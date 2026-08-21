@@ -1,6 +1,6 @@
 ---
 slug: "thk-arne-naess"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0706"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

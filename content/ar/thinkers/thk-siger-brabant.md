@@ -1,6 +1,6 @@
 ---
 slug: "thk-siger-brabant"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1947"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

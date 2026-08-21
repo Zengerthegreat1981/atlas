@@ -1,6 +1,6 @@
 ---
 slug: "thk-hghoffman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1148"
 type: "مفكر"
 level: "متوسط"
 title: "هنتر هوفمان"

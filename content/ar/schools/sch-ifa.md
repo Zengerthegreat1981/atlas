@@ -1,6 +1,6 @@
 ---
 slug: "sch-ifa"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0142"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

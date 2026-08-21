@@ -1,6 +1,6 @@
 ---
 slug: "tec-mesmerism-historical"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0248"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الماسمرية (Mesmerism)"

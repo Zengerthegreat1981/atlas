@@ -1,6 +1,6 @@
 ---
 slug: "br-adlerian"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0108"
 type: "تيار"
 level: "مبتدئ"
 title: "علم النفس الفردي الأدلري"

@@ -1,6 +1,6 @@
 ---
 slug: "con-ego-self"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0529"
 type: "مفهوم"
 level: "متقدم"
 title: "محور الأنا–الذات"

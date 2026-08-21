@@ -1,6 +1,6 @@
 ---
 slug: "dis-specific-learning-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0097"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "اضطراب التعلُّم المحدد"

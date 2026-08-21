@@ -1,6 +1,6 @@
 ---
 slug: "thk-pslade"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1763"
 type: "مفكر"
 level: "مبتدئ"
 title: "بيتر سليد"

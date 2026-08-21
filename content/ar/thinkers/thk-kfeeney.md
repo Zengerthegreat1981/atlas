@@ -1,6 +1,6 @@
 ---
 slug: "thk-kfeeney"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1389"
 type: "مفكر"
 level: "متوسط"
 title: "كيم فيني"

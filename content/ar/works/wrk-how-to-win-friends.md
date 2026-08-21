@@ -1,6 +1,6 @@
 ---
 slug: "wrk-how-to-win-friends"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0348"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

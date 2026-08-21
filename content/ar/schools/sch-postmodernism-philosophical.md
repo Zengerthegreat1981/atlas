@@ -1,6 +1,6 @@
 ---
 slug: "sch-postmodernism-philosophical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0253"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

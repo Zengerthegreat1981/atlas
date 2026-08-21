@@ -1,6 +1,6 @@
 ---
 slug: "sch-sanlun"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0274"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

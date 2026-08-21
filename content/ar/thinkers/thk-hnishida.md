@@ -1,6 +1,6 @@
 ---
 slug: "thk-hnishida"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1164"
 type: "مفكر"
 level: "متوسط"
 title: "هيرويوكي نيشيدا"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-academic-skepticism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0003"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

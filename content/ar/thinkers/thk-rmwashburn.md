@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmwashburn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1836"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل واشبورن"

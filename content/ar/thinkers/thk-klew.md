@@ -1,6 +1,6 @@
 ---
 slug: "thk-klew"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1406"
 type: "مفكر"
 level: "متقدم"
 title: "كورت لوين"

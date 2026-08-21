@@ -1,6 +1,6 @@
 ---
 slug: "dis-female-orgasmic"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0047"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب النشوة الأنثوية"

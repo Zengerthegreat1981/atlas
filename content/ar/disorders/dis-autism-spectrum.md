@@ -1,6 +1,6 @@
 ---
 slug: "dis-autism-spectrum"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0016"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب طيف التوحد"

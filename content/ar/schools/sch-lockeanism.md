@@ -1,6 +1,6 @@
 ---
 slug: "sch-lockeanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0185"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

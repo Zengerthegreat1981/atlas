@@ -1,6 +1,6 @@
 ---
 slug: "thk-ddinste"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0908"
 type: "مفكر"
 level: "متوسط"
 title: "دوروثي دينرشتاين"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-guide-for-perplexed"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0334"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

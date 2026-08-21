@@ -1,6 +1,6 @@
 ---
 slug: "thk-elevine"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0997"
 type: "مفكر"
 level: "متوسط"
 title: "إيلين ليفين"

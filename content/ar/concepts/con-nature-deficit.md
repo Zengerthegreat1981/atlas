@@ -1,6 +1,6 @@
 ---
 slug: "con-nature-deficit"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2161"
 type: "مفكر"
 level: "مبتدئ"
 title: "متلازمة عجز الطبيعة"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-anti-psychiatry-network-london-1967"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0007"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "مؤتمر جدليات التحرير في لندن وتأسيس شبكة فيلادلفيا في كينغسلي هول"

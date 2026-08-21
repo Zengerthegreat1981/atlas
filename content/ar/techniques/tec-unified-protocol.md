@@ -1,6 +1,6 @@
 ---
 slug: "tec-unified-protocol"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0326"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "البروتوكول الموحّد للاضطرابات الانفعالية (UP)"

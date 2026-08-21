@@ -1,6 +1,6 @@
 ---
 slug: "con-tibetan-tantra"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0770"
 type: "مفهوم"
 level: "متوسط"
 title: "التنترا التبتية والرمزية الأركيتيبية"

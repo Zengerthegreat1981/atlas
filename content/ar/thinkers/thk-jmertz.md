@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmertz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1312"
 type: "مفكر"
 level: "متقدم"
 title: "[مؤسِّسو أعمدة Rivista di Psicologia Analitica]"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-functionalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0119"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

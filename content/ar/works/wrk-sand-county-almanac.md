@@ -1,6 +1,6 @@
 ---
 slug: "wrk-sand-county-almanac"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0444"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

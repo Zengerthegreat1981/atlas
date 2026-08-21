@@ -1,6 +1,6 @@
 ---
 slug: "syn-hyperthymesia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0087"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

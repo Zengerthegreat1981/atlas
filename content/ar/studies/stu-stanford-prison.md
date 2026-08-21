@@ -1,6 +1,6 @@
 ---
 slug: "stu-stanford-prison"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0103"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجربة سجن ستانفورد"

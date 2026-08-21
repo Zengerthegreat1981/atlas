@@ -1,6 +1,6 @@
 ---
 slug: "con-three-circles-emotion"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0768"
 type: "مفهوم"
 level: "متوسط"
 title: "أنظمة تنظيم الانفعال الثلاثة"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-othello"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0128"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "rel-trauma-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0152"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم"

@@ -1,6 +1,6 @@
 ---
 slug: "dbt-verification-vs-falsification"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0349"
 type: "جدل"
 part: "philosophy"
 level: "متوسط"

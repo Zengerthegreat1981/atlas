@@ -1,6 +1,6 @@
 ---
 slug: "thk-ftustin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1057"
 type: "مفكر"
 level: "متقدم"
 title: "فرانسي تَستن"

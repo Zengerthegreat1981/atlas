@@ -1,6 +1,6 @@
 ---
 slug: "thk-oliver-sacks"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1696"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

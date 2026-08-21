@@ -1,6 +1,6 @@
 ---
 slug: "wrk-12-rules-for-life"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0215"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

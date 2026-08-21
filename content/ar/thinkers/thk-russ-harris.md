@@ -1,6 +1,6 @@
 ---
 slug: "thk-russ-harris"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1883"
 type: "مفكر"
 part: "psychology"
 register: "popular"

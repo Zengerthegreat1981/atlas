@@ -1,6 +1,6 @@
 ---
 slug: "thk-amacintyre"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0677"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

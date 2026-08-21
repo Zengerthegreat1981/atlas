@@ -1,6 +1,6 @@
 ---
 slug: "syn-cassandra"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0032"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

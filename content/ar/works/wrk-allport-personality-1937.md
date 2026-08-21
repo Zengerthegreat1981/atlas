@@ -1,6 +1,6 @@
 ---
 slug: "wrk-allport-personality-1937"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0227"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الشخصية: تفسير نفسي (Personality: A Psychological Interpretation)"

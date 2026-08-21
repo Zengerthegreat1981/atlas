@@ -1,6 +1,6 @@
 ---
 slug: "thk-qualls-corbett"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1769"
 type: "مفكر"
 level: "متوسط"
 title: "نانسي كوالز-كوربت"

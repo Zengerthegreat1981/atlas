@@ -1,6 +1,6 @@
 ---
 slug: "con-operant-conditioning"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0661"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الإشتراط الإجرائي (الإشراط السكينري)"

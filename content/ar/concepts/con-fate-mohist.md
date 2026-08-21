@@ -1,6 +1,6 @@
 ---
 slug: "con-fate-mohist"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0547"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "con-intersectionality"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0605"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

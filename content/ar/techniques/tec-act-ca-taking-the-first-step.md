@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-taking-the-first-step"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0022"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "أخذ الخطوة الأولى"

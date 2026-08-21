@@ -1,6 +1,6 @@
 ---
 slug: "ins-rorschach"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0066"
 type: "أداة قياس"
 level: "متقدم"
 title: "اختبار بقع الحبر لرورشاخ"

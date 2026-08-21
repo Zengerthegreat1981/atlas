@@ -1,6 +1,6 @@
 ---
 slug: "thk-gilligan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1092"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

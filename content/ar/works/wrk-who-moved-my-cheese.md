@@ -1,6 +1,6 @@
 ---
 slug: "wrk-who-moved-my-cheese"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0487"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

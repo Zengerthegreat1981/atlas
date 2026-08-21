@@ -1,6 +1,6 @@
 ---
 slug: "thk-jhouston"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1290"
 type: "مفكر"
 level: "متوسط"
 title: "جين هيوستن"

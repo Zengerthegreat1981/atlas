@@ -1,6 +1,6 @@
 ---
 slug: "wrk-baopuzi"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0244"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

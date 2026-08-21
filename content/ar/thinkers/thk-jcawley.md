@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcawley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1250"
 type: "مفكر"
 level: "مبتدئ"
 title: "جوليا كاولي"

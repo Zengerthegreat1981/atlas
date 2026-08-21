@@ -1,6 +1,6 @@
 ---
 slug: "wrk-emotions-revealed"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0298"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "crt-marxist-critique-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0011"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "النقد الماركسي/الطبقي لعلم النفس: علم نفس السيطرة الاجتماعية"

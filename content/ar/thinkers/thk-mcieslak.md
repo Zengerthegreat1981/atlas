@@ -1,6 +1,6 @@
 ---
 slug: "thk-mcieslak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1544"
 type: "مفكر"
 level: "مبتدئ"
 title: "ماريك تشيسلاك"

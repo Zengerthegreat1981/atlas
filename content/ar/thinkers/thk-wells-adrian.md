@@ -1,6 +1,6 @@
 ---
 slug: "thk-wells-adrian"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2100"
 type: "مفكر"
 level: "متقدم"
 title: "أدريان ويلز"

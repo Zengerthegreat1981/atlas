@@ -1,6 +1,6 @@
 ---
 slug: "syn-cluttering"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0036"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

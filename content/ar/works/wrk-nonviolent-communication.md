@@ -1,6 +1,6 @@
 ---
 slug: "wrk-nonviolent-communication"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0406"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

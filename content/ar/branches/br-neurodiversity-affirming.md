@@ -1,6 +1,6 @@
 ---
 slug: "br-neurodiversity-affirming"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0176"
 type: "تيار"
 level: "متوسط"
 title: "الإرشاد التأكيدي للتنوّع العصبي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ellis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1000"
 type: "مفكر"
 level: "متوسط"
 title: "ألبرت إليس"

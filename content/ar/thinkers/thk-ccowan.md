@@ -1,6 +1,6 @@
 ---
 slug: "thk-ccowan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0824"
 type: "مفكر"
 level: "متوسط"
 title: "كارولين بيبي كوان"

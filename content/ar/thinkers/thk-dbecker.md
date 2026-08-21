@@ -1,6 +1,6 @@
 ---
 slug: "thk-dbecker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0898"
 type: "مفكر"
 level: "متوسط"
 title: "ديبورا بيكر"

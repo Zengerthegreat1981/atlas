@@ -1,6 +1,6 @@
 ---
 slug: "con-karma-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0614"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

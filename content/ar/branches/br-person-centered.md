@@ -1,6 +1,6 @@
 ---
 slug: "br-person-centered"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0182"
 type: "تيار"
 level: "مبتدئ"
 title: "العلاج المتمركز حول العميل (روجرز)"

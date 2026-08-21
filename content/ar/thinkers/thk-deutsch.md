@@ -1,6 +1,6 @@
 ---
 slug: "thk-deutsch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0917"
 type: "مفكر"
 level: "متوسط"
 title: "هيلين دويتش"

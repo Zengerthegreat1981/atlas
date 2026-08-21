@@ -1,6 +1,6 @@
 ---
 slug: "thk-rschafer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1873"
 type: "مفكر"
 level: "متقدم"
 title: "روي شَيفِر"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-bowlby-separation"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0261"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الانفصال: القلق والغضب (Separation: Anxiety and Anger)"

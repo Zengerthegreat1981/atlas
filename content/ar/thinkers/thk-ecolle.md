@@ -1,6 +1,6 @@
 ---
 slug: "thk-ecolle"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0976"
 type: "مفكر"
 level: "مبتدئ"
 title: "إيما كول"

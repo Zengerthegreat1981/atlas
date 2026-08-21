@@ -1,6 +1,6 @@
 ---
 slug: "wrk-how-does-analysis-cure"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0347"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "كيف يشفي التحليل؟"

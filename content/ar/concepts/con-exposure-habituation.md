@@ -1,6 +1,6 @@
 ---
 slug: "con-exposure-habituation"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0542"
 type: "مفهوم"
 level: "متوسط"
 title: "التعود بالتعرض"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-depston"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0914"
 type: "مفكر"
 level: "متقدم"
 title: "ديفيد إبستون"

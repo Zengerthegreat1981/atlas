@@ -1,6 +1,6 @@
 ---
 slug: "thk-sdouglas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1920"
 type: "مفكر"
 level: "مبتدئ"
 title: "سو دوغلاس"

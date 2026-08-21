@@ -1,6 +1,6 @@
 ---
 slug: "thk-zhangyongqiang"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2147"
 type: "مفكر"
 level: "متقدم"
 title: "تشانغ يونغ تشيانغ"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-lewin-leadership-climates"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0064"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

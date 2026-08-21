@@ -1,6 +1,6 @@
 ---
 slug: "thk-cchan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0822"
 type: "مفكر"
 level: "متوسط"
 title: "كاثرين تشان"

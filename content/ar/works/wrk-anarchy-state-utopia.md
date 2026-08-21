@@ -1,6 +1,6 @@
 ---
 slug: "wrk-anarchy-state-utopia"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0229"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

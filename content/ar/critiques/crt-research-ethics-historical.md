@@ -1,6 +1,6 @@
 ---
 slug: "crt-research-ethics-historical"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0021"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس"

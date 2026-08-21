@@ -1,6 +1,6 @@
 ---
 slug: "thk-aschultz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0711"
 type: "مفكر"
 level: "متوسط"
 title: "ألان شولتز"

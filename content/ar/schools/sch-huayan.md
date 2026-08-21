@@ -1,6 +1,6 @@
 ---
 slug: "sch-huayan"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0138"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

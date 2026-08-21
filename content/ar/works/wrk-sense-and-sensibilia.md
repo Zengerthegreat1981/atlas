@@ -1,6 +1,6 @@
 ---
 slug: "wrk-sense-and-sensibilia"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0451"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

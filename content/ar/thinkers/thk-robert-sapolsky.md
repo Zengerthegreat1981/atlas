@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-sapolsky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1844"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

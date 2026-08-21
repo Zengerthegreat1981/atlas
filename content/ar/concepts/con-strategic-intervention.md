@@ -1,6 +1,6 @@
 ---
 slug: "con-strategic-intervention"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0753"
 type: "مفهوم"
 level: "متوسط"
 title: "التدخل الاستراتيجي (Strategic Intervention)"

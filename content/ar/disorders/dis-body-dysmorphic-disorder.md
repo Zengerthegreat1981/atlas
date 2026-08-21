@@ -1,6 +1,6 @@
 ---
 slug: "dis-body-dysmorphic-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0021"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب خلل التشكّل الجسدي"

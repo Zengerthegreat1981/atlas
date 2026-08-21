@@ -1,6 +1,6 @@
 ---
 slug: "thk-balakare"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0728"
 type: "مفكر"
 level: "متوسط"
 title: "بيرجيتّا ألاكارِ"

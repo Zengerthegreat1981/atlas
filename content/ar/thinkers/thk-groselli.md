@@ -1,6 +1,6 @@
 ---
 slug: "thk-groselli"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1116"
 type: "مفكر"
 level: "متوسط"
 title: "غيلي روزيليني"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jlchner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1303"
 type: "مفكر"
 level: "مبتدئ"
 title: "جاك ليتشنر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-varela"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2075"
 type: "مفكر"
 level: "متقدم"
 title: "فرانسيسكو فاريلا"

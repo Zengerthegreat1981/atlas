@@ -1,6 +1,6 @@
 ---
 slug: "thk-george-thompson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1084"
 type: "مفكر"
 level: "متوسط"
 title: "جورج تومبسون"

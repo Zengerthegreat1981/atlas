@@ -1,6 +1,6 @@
 ---
 slug: "thk-jramiro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1339"
 type: "مفكر"
 level: "مبتدئ"
 title: "جي رامييرو"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kashan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1372"
 type: "مفكر"
 level: "متوسط"
 title: "كيران عاشان"

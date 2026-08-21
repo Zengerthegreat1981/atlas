@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-leaves-on-a-stream"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0026"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "أوراق على النهر"

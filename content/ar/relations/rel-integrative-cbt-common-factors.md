@@ -1,6 +1,6 @@
 ---
 slug: "rel-integrative-cbt-common-factors"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0134"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة"

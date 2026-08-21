@@ -1,6 +1,6 @@
 ---
 slug: "sch-kantian-ethics-contemporary"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0168"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

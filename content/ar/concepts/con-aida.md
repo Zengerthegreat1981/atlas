@@ -1,6 +1,6 @@
 ---
 slug: "con-aida"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0432"
 type: "مفهوم"
 level: "متقدم"
 title: "آيدا (البين-إنساني)"

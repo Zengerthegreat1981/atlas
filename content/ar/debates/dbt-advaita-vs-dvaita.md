@@ -1,6 +1,6 @@
 ---
 slug: "dbt-advaita-vs-dvaita"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0313"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-everettshostrom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1022"
 type: "مفكر"
 level: "متقدم"
 title: "إيفريت شوستروم"

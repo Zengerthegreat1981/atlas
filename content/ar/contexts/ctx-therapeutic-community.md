@@ -1,6 +1,6 @@
 ---
 slug: "ctx-therapeutic-community"
-id: "[DRAFT-UNKNOWN]"
+id: "CTX-0013"
 type: "سياق/تقليد"
 level: "متوسط"
 title: "تقليد المجتمع العلاجي والديمقراطية المؤسسية"

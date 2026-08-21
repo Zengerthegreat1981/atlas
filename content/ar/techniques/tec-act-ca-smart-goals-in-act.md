@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-smart-goals-in-act"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0021"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الأهداف الذكية (SMART) في ACT"

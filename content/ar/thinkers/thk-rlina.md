@@ -1,6 +1,6 @@
 ---
 slug: "thk-rlina"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1827"
 type: "مفكر"
 level: "متوسط"
 title: "ريك لينا"

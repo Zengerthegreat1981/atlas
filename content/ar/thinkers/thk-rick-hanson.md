@@ -1,6 +1,6 @@
 ---
 slug: "thk-rick-hanson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1811"
 type: "مفكر"
 part: "psychology"
 register: "popular"

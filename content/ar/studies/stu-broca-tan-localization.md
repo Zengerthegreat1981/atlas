@@ -1,6 +1,6 @@
 ---
 slug: "stu-broca-tan-localization"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0019"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة بروكا التاريخية للمريض 'تان' وتوطين وظيفة إنتاج الكلام"

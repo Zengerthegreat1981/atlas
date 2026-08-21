@@ -1,6 +1,6 @@
 ---
 slug: "thk-wspaulding"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2126"
 type: "مفكر"
 level: "متوسط"
 title: "ويلِم سَبُولدِنغ"

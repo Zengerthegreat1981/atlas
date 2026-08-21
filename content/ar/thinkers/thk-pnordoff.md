@@ -1,6 +1,6 @@
 ---
 slug: "thk-pnordoff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1752"
 type: "مفكر"
 level: "متوسط"
 title: "بول نوردوف"

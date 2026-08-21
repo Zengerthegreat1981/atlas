@@ -1,6 +1,6 @@
 ---
 slug: "con-archetype"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0444"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الأركيتيب (النموذج الأصلي)"

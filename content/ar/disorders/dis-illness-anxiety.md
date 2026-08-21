@@ -1,6 +1,6 @@
 ---
 slug: "dis-illness-anxiety"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0059"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "قلق المرض"

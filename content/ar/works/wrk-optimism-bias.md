@@ -1,6 +1,6 @@
 ---
 slug: "wrk-optimism-bias"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0413"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

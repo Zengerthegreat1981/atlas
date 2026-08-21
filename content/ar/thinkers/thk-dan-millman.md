@@ -1,6 +1,6 @@
 ---
 slug: "thk-dan-millman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0883"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "con-surplus-value"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0761"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

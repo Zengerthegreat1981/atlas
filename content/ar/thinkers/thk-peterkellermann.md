@@ -1,6 +1,6 @@
 ---
 slug: "thk-peterkellermann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1728"
 type: "مفكر"
 level: "متقدم"
 title: "بيتر كيلرمان"

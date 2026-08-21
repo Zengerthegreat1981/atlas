@@ -1,6 +1,6 @@
 ---
 slug: "thk-kgwilson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1394"
 type: "مفكر"
 level: "متوسط"
 title: "كِلّي غ. ويلسون"

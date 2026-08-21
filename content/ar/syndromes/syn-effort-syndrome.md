@@ -1,6 +1,6 @@
 ---
 slug: "syn-effort-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0055"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

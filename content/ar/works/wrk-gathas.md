@@ -1,6 +1,6 @@
 ---
 slug: "wrk-gathas"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0321"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

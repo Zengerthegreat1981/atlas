@@ -1,6 +1,6 @@
 ---
 slug: "sch-arab-renaissance"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0032"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

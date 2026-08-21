@@ -1,6 +1,6 @@
 ---
 slug: "thk-goldberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1104"
 type: "مفكر"
 level: "متقدم"
 title: "أرنولد غولدبرغ"

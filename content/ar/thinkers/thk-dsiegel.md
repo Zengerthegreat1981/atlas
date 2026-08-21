@@ -1,6 +1,6 @@
 ---
 slug: "thk-dsiegel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0955"
 type: "مفكر"
 level: "متقدم"
 title: "دان سيغل"

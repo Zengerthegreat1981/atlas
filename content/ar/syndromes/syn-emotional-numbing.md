@@ -1,6 +1,6 @@
 ---
 slug: "syn-emotional-numbing"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0059"
 type: "متلازمة"
 level: "مبتدئ"
 title: "الخمول الانفعالي / التخدير"

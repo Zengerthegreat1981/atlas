@@ -1,6 +1,6 @@
 ---
 slug: "wrk-liberated-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0373"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك"

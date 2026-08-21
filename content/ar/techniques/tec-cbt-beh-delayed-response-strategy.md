@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-beh-delayed-response-strategy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0075"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "استراتيجية تأخير الاستجابة"

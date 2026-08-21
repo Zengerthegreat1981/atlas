@@ -1,6 +1,6 @@
 ---
 slug: "con-mere-exposure-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0637"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

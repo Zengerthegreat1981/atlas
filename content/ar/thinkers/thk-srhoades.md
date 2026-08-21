@@ -1,6 +1,6 @@
 ---
 slug: "thk-srhoades"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1979"
 type: "مفكر"
 level: "متوسط"
 title: "غايلينا رودس"

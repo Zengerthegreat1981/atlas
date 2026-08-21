@@ -1,6 +1,6 @@
 ---
 slug: "thk-ahepburn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0653"
 type: "مفكر"
 level: "متوسط"
 title: "ألكسا هِبِرن"

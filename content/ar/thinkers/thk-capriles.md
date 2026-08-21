@@ -1,6 +1,6 @@
 ---
 slug: "thk-capriles"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0812"
 type: "مفكر"
 level: "متوسط"
 title: "أكسيل كابريليس"

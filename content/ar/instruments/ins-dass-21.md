@@ -1,6 +1,6 @@
 ---
 slug: "ins-dass-21"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0025"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

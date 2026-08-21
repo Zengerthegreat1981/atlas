@@ -1,6 +1,6 @@
 ---
 slug: "thk-jpennebaker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1337"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس و. بينيبيكر"

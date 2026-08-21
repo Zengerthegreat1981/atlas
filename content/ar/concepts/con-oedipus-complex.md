@@ -1,6 +1,6 @@
 ---
 slug: "con-oedipus-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0660"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

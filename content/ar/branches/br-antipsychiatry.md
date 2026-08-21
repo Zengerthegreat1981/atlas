@@ -1,6 +1,6 @@
 ---
 slug: "br-antipsychiatry"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0115"
 type: "تيار"
 level: "متوسط"
 title: "التيار المضاد للطب النفسي"

@@ -1,6 +1,6 @@
 ---
 slug: "con-valkyrie"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0781"
 type: "مفهوم"
 level: "متوسط"
 title: "أركيتيب الفالكيري والمحاربة الأنثوية"

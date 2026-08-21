@@ -1,6 +1,6 @@
 ---
 slug: "thk-davoine"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0894"
 type: "مفكر"
 level: "متوسط"
 title: "فرانسوا دافين"

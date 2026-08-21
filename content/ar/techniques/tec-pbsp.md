@@ -1,6 +1,6 @@
 ---
 slug: "tec-pbsp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0265"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "نظام بيسو بويدين النفسي الحركي (PBSP)"

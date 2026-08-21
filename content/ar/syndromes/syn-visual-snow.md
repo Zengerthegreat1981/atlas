@@ -1,6 +1,6 @@
 ---
 slug: "syn-visual-snow"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0182"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

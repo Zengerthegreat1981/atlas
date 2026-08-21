@@ -1,6 +1,6 @@
 ---
 slug: "evt-mental-health-parity-act-2008"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0049"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "إقرار قانون تكافؤ الصحة النفسية والعدالة في الإدمان MHPAEA الأمريكي"

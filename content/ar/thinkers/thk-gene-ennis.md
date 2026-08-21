@@ -1,6 +1,6 @@
 ---
 slug: "thk-gene-ennis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1081"
 type: "مفكر"
 level: "متوسط"
 title: "جين إينيس"

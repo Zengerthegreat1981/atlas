@@ -1,6 +1,6 @@
 ---
 slug: "tec-theraplay"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0321"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "علاج ثيرابلاي للتفاعل الأسري والارتباط"

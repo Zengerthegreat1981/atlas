@@ -1,6 +1,6 @@
 ---
 slug: "dis-excoriation-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0044"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب نتف الجلد (Skin-Picking Disorder)"

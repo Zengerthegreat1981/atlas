@@ -1,6 +1,6 @@
 ---
 slug: "syn-lycanthropy-clinical"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0114"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

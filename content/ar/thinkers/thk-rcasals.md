@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcasals"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1792"
 type: "مفكر"
 level: "متوسط"
 title: "راميرو كاسالس"

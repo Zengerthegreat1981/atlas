@@ -1,6 +1,6 @@
 ---
 slug: "thk-irubenfeld"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1204"
 type: "مفكر"
 level: "متوسط"
 title: "إيلانا روبنفِلد"

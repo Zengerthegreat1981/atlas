@@ -1,6 +1,6 @@
 ---
 slug: "sch-ethnophilosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0101"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

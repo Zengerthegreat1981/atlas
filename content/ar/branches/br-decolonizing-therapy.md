@@ -1,6 +1,6 @@
 ---
 slug: "br-decolonizing-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0137"
 type: "تيار"
 level: "متقدم"
 title: "نزع استعمار العلاج النفسي (دوران ويلو بيرد)"

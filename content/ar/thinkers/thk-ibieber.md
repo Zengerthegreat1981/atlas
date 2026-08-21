@@ -1,6 +1,6 @@
 ---
 slug: "thk-ibieber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1183"
 type: "مفكر"
 level: "متوسط"
 title: "إرفنغ بيبر"

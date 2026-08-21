@@ -1,6 +1,6 @@
 ---
 slug: "ins-bai"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0012"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "مقياس بيك للقلق"

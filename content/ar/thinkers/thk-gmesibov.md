@@ -1,6 +1,6 @@
 ---
 slug: "thk-gmesibov"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1100"
 type: "مفكر"
 level: "متوسط"
 title: "غاري ميسيبوف"

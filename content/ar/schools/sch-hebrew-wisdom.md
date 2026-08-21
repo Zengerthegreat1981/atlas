@@ -1,6 +1,6 @@
 ---
 slug: "sch-hebrew-wisdom"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0128"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

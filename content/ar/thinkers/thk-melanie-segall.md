@@ -1,6 +1,6 @@
 ---
 slug: "thk-melanie-segall"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1553"
 type: "مفكر"
 level: "متوسط"
 title: "ميلاني سيغال"

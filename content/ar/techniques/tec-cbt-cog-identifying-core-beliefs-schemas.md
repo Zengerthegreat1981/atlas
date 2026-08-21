@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-identifying-core-beliefs-schemas"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0086"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "تحديد المعتقدات الجوهرية والمخططات المعرفية"

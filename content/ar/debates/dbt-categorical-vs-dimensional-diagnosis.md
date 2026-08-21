@@ -1,6 +1,6 @@
 ---
 slug: "dbt-categorical-vs-dimensional-diagnosis"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0317"
 type: "جدل"
 level: "متقدم"
 title: "التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية"

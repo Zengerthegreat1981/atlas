@@ -1,6 +1,6 @@
 ---
 slug: "syn-lima"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0110"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

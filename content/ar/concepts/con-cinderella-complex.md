@@ -1,6 +1,6 @@
 ---
 slug: "con-cinderella-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0476"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

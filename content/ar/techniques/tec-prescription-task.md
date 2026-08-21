@@ -1,6 +1,6 @@
 ---
 slug: "tec-prescription-task"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0275"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الوصفة العلاجية (Task Prescription)"

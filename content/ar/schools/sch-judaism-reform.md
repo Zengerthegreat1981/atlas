@@ -1,6 +1,6 @@
 ---
 slug: "sch-judaism-reform"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0163"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

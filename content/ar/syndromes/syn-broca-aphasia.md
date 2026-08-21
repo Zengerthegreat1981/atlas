@@ -1,6 +1,6 @@
 ---
 slug: "syn-broca-aphasia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0027"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

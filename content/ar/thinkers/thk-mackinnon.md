@@ -1,6 +1,6 @@
 ---
 slug: "thk-mackinnon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1488"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

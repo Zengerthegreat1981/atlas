@@ -1,6 +1,6 @@
 ---
 slug: "thk-hountondji"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1166"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

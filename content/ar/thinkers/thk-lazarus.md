@@ -1,6 +1,6 @@
 ---
 slug: "thk-lazarus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1437"
 type: "مفكر"
 level: "متوسط"
 title: "أرنولد لازاروس"

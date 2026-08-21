@@ -1,6 +1,6 @@
 ---
 slug: "thk-bhellinger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0756"
 type: "مفكر"
 level: "متوسط"
 title: "بيرت هلنغر"

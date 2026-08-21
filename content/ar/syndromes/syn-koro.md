@@ -1,6 +1,6 @@
 ---
 slug: "syn-koro"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0103"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

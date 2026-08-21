@@ -1,6 +1,6 @@
 ---
 slug: "thk-al-ghazali"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0665"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

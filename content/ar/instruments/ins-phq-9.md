@@ -1,6 +1,6 @@
 ---
 slug: "ins-phq-9"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0062"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "استبيان صحة المريض للاكتئاب - 9 بنود"

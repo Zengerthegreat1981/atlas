@@ -1,6 +1,6 @@
 ---
 slug: "tec-anti-oppressive-practice"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0059"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الممارسة المناهضة للاضطهاد (AOP)"

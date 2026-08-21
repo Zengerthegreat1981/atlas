@@ -1,6 +1,6 @@
 ---
 slug: "thk-isquella"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1210"
 type: "مفكر"
 level: "متوسط"
 title: "إيزابيل سكيلّا"

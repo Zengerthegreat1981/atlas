@@ -1,6 +1,6 @@
 ---
 slug: "stu-roediger-mcdermott-drm"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0091"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجارب روديغر وماكديرموت لنموذج DRM للذاكرة الزائفة بالقوائم اللفظية"

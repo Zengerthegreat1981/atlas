@@ -1,6 +1,6 @@
 ---
 slug: "wrk-myth-of-normal"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0399"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

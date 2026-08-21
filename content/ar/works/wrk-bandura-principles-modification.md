@@ -1,6 +1,6 @@
 ---
 slug: "wrk-bandura-principles-modification"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0243"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "مبادئ تعديل السلوك (Principles of Behavior Modification)"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-annihilation-of-caste"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0232"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

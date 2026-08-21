@@ -1,6 +1,6 @@
 ---
 slug: "thk-floridi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1042"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

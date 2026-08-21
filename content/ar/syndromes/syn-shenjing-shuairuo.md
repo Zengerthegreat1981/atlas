@@ -1,6 +1,6 @@
 ---
 slug: "syn-shenjing-shuairuo"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0156"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

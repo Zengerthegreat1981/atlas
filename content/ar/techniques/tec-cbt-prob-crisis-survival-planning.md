@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-prob-crisis-survival-planning"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0119"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "خطة النجاة من الأزمات"

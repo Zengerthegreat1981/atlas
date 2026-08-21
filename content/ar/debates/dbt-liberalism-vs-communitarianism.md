@@ -1,6 +1,6 @@
 ---
 slug: "dbt-liberalism-vs-communitarianism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0335"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

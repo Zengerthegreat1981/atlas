@@ -1,6 +1,6 @@
 ---
 slug: "thk-john-lippmann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1325"
 type: "مفكر"
 level: "متقدم"
 title: "جون ليبمان"

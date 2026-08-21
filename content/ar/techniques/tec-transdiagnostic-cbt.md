@@ -1,6 +1,6 @@
 ---
 slug: "tec-transdiagnostic-cbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0324"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج المعرفي السلوكي العابر للتشخيص"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-postcolonial-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0251"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tagore"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2015"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

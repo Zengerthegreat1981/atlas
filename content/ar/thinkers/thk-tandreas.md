@@ -1,6 +1,6 @@
 ---
 slug: "thk-tandreas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2019"
 type: "مفكر"
 level: "متوسط"
 title: "تيريزا أندرِآس"

@@ -1,6 +1,6 @@
 ---
 slug: "br-ibp"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0158"
 type: "تيار"
 level: "متوسط"
 title: "العلاج النفسي التكاملي للجسد (IBP)"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-latane-darley-smoke"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0062"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة الغرفة المليئة بالدخان والجهل التعددي"

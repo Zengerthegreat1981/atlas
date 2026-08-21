@@ -1,6 +1,6 @@
 ---
 slug: "sch-ajnanavada"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0020"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

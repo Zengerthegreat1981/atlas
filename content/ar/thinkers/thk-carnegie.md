@@ -1,6 +1,6 @@
 ---
 slug: "thk-carnegie"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0813"
 type: "مفكر"
 part: "psychology"
 register: "popular"

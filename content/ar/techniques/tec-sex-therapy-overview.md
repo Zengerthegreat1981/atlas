@@ -1,6 +1,6 @@
 ---
 slug: "tec-sex-therapy-overview"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0302"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الجنسي (Sex Therapy)"

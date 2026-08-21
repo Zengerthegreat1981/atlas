@@ -1,6 +1,6 @@
 ---
 slug: "syn-anger"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0010"
 type: "متلازمة"
 level: "مبتدئ"
 title: "نوبة الغضب"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kathylaurenceau"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1374"
 type: "مفكر"
 level: "متوسط"
 title: "كاثي لورنسو"

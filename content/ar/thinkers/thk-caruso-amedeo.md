@@ -1,6 +1,6 @@
 ---
 slug: "thk-caruso-amedeo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0816"
 type: "مفكر"
 level: "متوسط"
 title: "أَمدِيو كاروزو"

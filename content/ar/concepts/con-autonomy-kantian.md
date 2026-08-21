@@ -1,6 +1,6 @@
 ---
 slug: "con-autonomy-kantian"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0451"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

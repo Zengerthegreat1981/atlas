@@ -1,6 +1,6 @@
 ---
 slug: "thk-kspence"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1421"
 type: "مفكر"
 level: "متقدم"
 title: "ك. و. سبنس"

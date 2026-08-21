@@ -1,6 +1,6 @@
 ---
 slug: "br-jungian"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0165"
 type: "تيار"
 level: "متوسط"
 title: "التحليلية اليونغية"

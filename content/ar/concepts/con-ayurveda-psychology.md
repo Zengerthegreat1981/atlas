@@ -1,6 +1,6 @@
 ---
 slug: "con-ayurveda-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0453"
 type: "مفهوم"
 level: "مبتدئ"
 title: "علم النفس الأيورفيدي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jose-salgado"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1333"
 type: "مفكر"
 level: "متوسط"
 title: "خوسيه سالغادو"

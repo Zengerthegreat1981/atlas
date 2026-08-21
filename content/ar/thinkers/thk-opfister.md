@@ -1,6 +1,6 @@
 ---
 slug: "thk-opfister"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1697"
 type: "مفكر"
 level: "متوسط"
 title: "أوسكار بفِسْتَر"

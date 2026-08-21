@@ -1,6 +1,6 @@
 ---
 slug: "thk-lroszak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1480"
 type: "مفكر"
 level: "متوسط"
 title: "ثيرون روزاك"

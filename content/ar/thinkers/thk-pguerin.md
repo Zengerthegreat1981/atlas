@@ -1,6 +1,6 @@
 ---
 slug: "thk-pguerin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1739"
 type: "مفكر"
 level: "متوسط"
 title: "فيليب غيرين"

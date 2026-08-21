@@ -1,6 +1,6 @@
 ---
 slug: "thk-flake"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1041"
 type: "مفكر"
 level: "متوسط"
 title: "فرانك ليك"

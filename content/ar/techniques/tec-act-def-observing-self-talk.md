@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-observing-self-talk"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0027"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "ملاحظة الحديث الذاتي"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-tractatus"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0473"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

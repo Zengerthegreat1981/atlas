@@ -1,6 +1,6 @@
 ---
 slug: "con-parapsychology"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0668"
 type: "مفهوم"
 level: "متوسط"
 title: "ما وراء علم النفس والظواهر الخارقة"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-turning-the-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0157"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "توجيه العقل"

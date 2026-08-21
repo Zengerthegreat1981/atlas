@@ -1,6 +1,6 @@
 ---
 slug: "thk-amadiume"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0678"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

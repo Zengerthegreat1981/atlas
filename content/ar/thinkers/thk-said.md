@@ -1,6 +1,6 @@
 ---
 slug: "thk-said"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1899"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

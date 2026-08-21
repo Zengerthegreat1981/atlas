@@ -1,6 +1,6 @@
 ---
 slug: "stu-klaus-kennell-maternal-bonding"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0057"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسات كلاوس وكينيل حول الترابط الأمومي المبكر وفترة الحساسية"

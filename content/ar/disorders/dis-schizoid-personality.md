@@ -1,6 +1,6 @@
 ---
 slug: "dis-schizoid-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0088"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الشخصية الفصامية"

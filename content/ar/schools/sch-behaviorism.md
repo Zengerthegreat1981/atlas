@@ -1,6 +1,6 @@
 ---
 slug: "sch-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0041"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"

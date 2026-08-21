@@ -1,6 +1,6 @@
 ---
 slug: "sch-afrofeminism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0016"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

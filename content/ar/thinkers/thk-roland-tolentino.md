@@ -1,6 +1,6 @@
 ---
 slug: "thk-roland-tolentino"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1850"
 type: "مفكر"
 level: "متقدم"
 title: "رولاند تولنتينو"

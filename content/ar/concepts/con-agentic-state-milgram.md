@@ -1,6 +1,6 @@
 ---
 slug: "con-agentic-state-milgram"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0429"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

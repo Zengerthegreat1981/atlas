@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-psychosis"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0122"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج المعرفي السلوكي للذهان (CBTp)"

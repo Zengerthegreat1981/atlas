@@ -1,6 +1,6 @@
 ---
 slug: "thk-erasmus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1009"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

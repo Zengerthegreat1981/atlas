@@ -1,6 +1,6 @@
 ---
 slug: "thk-ejung"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0988"
 type: "مفكر"
 level: "متقدم"
 title: "إيما يونغ"

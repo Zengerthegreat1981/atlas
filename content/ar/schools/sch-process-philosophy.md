@@ -1,6 +1,6 @@
 ---
 slug: "sch-process-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0255"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

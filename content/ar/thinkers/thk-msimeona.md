@@ -1,6 +1,6 @@
 ---
 slug: "thk-msimeona"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1633"
 type: "مفكر"
 level: "مبتدئ"
 title: "مورّنا سيميونّا"

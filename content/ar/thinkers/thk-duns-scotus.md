@@ -1,6 +1,6 @@
 ---
 slug: "thk-duns-scotus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0961"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

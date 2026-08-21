@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-challenging-cognitive-distortions"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0081"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تحدّي التشوهات المعرفية"

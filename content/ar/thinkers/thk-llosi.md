@@ -1,6 +1,6 @@
 ---
 slug: "thk-llosi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1462"
 type: "مفكر"
 level: "متوسط"
 title: "لوكا لوزي"

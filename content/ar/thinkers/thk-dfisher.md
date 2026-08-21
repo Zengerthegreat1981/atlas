@@ -1,6 +1,6 @@
 ---
 slug: "thk-dfisher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0920"
 type: "مفكر"
 level: "متوسط"
 title: "دانيال فيشر"

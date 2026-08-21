@@ -1,6 +1,6 @@
 ---
 slug: "thk-mary-elmquist"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1517"
 type: "مفكر"
 level: "متوسط"
 title: "ماري إلمكويست"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-donbaer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0943"
 type: "مفكر"
 level: "متقدم"
 title: "دونالد م. باير"

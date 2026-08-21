@@ -1,6 +1,6 @@
 ---
 slug: "evt-dgps-founding-1904"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0025"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس الجمعية الألمانية لعلم النفس التجريبي في غيسن"

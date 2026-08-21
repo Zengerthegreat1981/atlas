@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-therapist-s-acceptance-skills"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0190"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "مهارات التقبل الخاصة بالمعالج"

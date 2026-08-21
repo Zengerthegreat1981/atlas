@@ -1,6 +1,6 @@
 ---
 slug: "syn-boreout"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0023"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

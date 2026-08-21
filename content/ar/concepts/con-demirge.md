@@ -1,6 +1,6 @@
 ---
 slug: "con-demirge"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0508"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

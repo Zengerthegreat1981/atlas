@@ -1,6 +1,6 @@
 ---
 slug: "thk-judson-brewer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1355"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

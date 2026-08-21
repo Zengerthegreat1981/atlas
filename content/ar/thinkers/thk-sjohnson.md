@@ -1,6 +1,6 @@
 ---
 slug: "thk-sjohnson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1949"
 type: "مفكر"
 level: "متقدم"
 title: "سو جونسون"

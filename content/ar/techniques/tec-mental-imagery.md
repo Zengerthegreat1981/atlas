@@ -1,6 +1,6 @@
 ---
 slug: "tec-mental-imagery"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0247"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التدريب بالتصوير الذهني"

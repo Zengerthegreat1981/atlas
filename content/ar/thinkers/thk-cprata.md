@@ -1,6 +1,6 @@
 ---
 slug: "thk-cprata"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0858"
 type: "مفكر"
 level: "متوسط"
 title: "كارلو براتا"

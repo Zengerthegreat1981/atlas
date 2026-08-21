@@ -1,6 +1,6 @@
 ---
 slug: "thk-mwhitehouse"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1653"
 type: "مفكر"
 level: "متوسط"
 title: "ماري ستاركس وايتهاوس"

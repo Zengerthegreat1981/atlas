@@ -1,6 +1,6 @@
 ---
 slug: "br-bioenergetic-analysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0118"
 type: "تيار"
 level: "متوسط"
 title: "التحليل الطاقي الحيوي (لوين)"

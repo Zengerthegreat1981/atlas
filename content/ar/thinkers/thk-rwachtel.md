@@ -1,6 +1,6 @@
 ---
 slug: "thk-rwachtel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1887"
 type: "مفكر"
 level: "متقدم"
 title: "بول ل. واتشتِل"

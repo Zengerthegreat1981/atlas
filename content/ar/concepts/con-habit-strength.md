@@ -1,6 +1,6 @@
 ---
 slug: "con-habit-strength"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0578"
 type: "مفهوم"
 level: "متوسط"
 title: "قوة العادة (sHr)"

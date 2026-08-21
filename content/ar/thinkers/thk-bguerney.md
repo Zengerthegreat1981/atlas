@@ -1,6 +1,6 @@
 ---
 slug: "thk-bguerney"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0755"
 type: "مفكر"
 level: "متوسط"
 title: "برنارد غيرني"

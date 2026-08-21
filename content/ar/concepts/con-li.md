@@ -1,6 +1,6 @@
 ---
 slug: "con-li"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0621"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

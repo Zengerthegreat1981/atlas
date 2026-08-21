@@ -1,6 +1,6 @@
 ---
 slug: "wrk-daring-greatly"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0275"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

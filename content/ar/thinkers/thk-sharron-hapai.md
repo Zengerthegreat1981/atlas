@@ -1,6 +1,6 @@
 ---
 slug: "thk-sharron-hapai"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1940"
 type: "مفكر"
 level: "متوسط"
 title: "شارون هاپاي"

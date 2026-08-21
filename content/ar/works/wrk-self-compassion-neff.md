@@ -1,6 +1,6 @@
 ---
 slug: "wrk-self-compassion-neff"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0448"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-bboyesen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0739"
 type: "مفكر"
 level: "متوسط"
 title: "غاستون بوييسن"

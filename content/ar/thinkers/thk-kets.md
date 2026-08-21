@@ -1,6 +1,6 @@
 ---
 slug: "thk-kets"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1387"
 type: "مفكر"
 level: "متقدم"
 title: "مَنفرِد كِتس دي فريس"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-zen-rinzai"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0335"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

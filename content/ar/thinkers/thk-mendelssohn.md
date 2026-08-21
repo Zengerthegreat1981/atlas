@@ -1,6 +1,6 @@
 ---
 slug: "thk-mendelssohn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1557"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

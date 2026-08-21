@@ -1,6 +1,6 @@
 ---
 slug: "thk-tlynch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2047"
 type: "مفكر"
 level: "متوسط"
 title: "توماس لينش"

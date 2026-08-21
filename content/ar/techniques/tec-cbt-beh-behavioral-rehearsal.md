@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-beh-behavioral-rehearsal"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0074"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التدريب السلوكي المتكرر"

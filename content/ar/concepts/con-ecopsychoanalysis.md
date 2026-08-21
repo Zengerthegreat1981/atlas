@@ -1,6 +1,6 @@
 ---
 slug: "con-ecopsychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0526"
 type: "مفهوم"
 level: "متوسط"
 title: "التحليل النفسي البيئي"

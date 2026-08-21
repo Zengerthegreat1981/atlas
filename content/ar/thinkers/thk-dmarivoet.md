@@ -1,6 +1,6 @@
 ---
 slug: "thk-dmarivoet"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0936"
 type: "مفكر"
 level: "متوسط"
 title: "ديرك ماريڤوت"

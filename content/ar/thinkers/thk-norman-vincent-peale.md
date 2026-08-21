@@ -1,6 +1,6 @@
 ---
 slug: "thk-norman-vincent-peale"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1683"
 type: "مفكر"
 part: "psychology"
 register: "popular"

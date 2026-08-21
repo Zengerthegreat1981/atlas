@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-half-smiling"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0183"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الابتسامة النصفية"

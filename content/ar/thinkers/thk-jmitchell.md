@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmitchell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1313"
 type: "مفكر"
 level: "متقدم"
 title: "جوليا ميتشِل"

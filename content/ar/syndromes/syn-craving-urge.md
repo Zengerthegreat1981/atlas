@@ -1,6 +1,6 @@
 ---
 slug: "syn-craving-urge"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0041"
 type: "متلازمة"
 level: "مبتدئ"
 title: "الرغبة الملحّة (craving)"

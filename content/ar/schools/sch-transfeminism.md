@@ -1,6 +1,6 @@
 ---
 slug: "sch-transfeminism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0309"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

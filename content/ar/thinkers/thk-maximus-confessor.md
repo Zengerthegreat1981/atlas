@@ -1,6 +1,6 @@
 ---
 slug: "thk-maximus-confessor"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1528"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

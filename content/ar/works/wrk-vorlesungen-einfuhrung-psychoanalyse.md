@@ -1,6 +1,6 @@
 ---
 slug: "wrk-vorlesungen-einfuhrung-psychoanalyse"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0481"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "محاضرات تمهيدية في التحليل النفسي"

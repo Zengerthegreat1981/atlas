@@ -1,6 +1,6 @@
 ---
 slug: "thk-wrichards"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2123"
 type: "مفكر"
 level: "متوسط"
 title: "وليام ريتشاردز"

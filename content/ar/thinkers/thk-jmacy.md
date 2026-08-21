@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmacy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1309"
 type: "مفكر"
 level: "متوسط"
 title: "جوانا مايسي"

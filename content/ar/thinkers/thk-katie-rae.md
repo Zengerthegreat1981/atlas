@@ -1,6 +1,6 @@
 ---
 slug: "thk-katie-rae"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1375"
 type: "مفكر"
 level: "متوسط"
 title: "كايتي ري"

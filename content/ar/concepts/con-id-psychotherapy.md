@@ -1,6 +1,6 @@
 ---
 slug: "con-id-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0595"
 type: "مفهوم"
 level: "متوسط"
 title: "العلاج النفسي للإعاقات الذهنية"

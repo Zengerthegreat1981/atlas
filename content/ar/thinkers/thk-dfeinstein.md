@@ -1,6 +1,6 @@
 ---
 slug: "thk-dfeinstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0919"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد فاينشتاين"

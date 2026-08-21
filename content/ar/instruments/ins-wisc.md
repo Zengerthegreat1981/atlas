@@ -1,6 +1,6 @@
 ---
 slug: "ins-wisc"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0090"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس وكسلر لذكاء الأطفال"

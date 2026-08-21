@@ -1,6 +1,6 @@
 ---
 slug: "wrk-les-nevroses"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0371"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الأعصاب والقلق"

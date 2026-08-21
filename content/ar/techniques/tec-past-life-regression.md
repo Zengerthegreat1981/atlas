@@ -1,6 +1,6 @@
 ---
 slug: "tec-past-life-regression"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0263"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج باسترجاع ذكريات الحياة السابقة"

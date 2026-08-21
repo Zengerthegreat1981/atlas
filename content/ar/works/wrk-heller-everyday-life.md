@@ -1,6 +1,6 @@
 ---
 slug: "wrk-heller-everyday-life"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0341"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "سوسيولوجيا الحياة اليومية (هيلر)"

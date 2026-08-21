@@ -1,6 +1,6 @@
 ---
 slug: "thk-jakhan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1220"
 type: "مفكر"
 level: "متوسط"
 title: "نوربلز إيفانز-هيل"

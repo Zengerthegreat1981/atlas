@@ -1,6 +1,6 @@
 ---
 slug: "thk-rhonda-byrne"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1807"
 type: "مفكر"
 part: "psychology"
 register: "popular"

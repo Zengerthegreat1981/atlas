@@ -1,6 +1,6 @@
 ---
 slug: "crt-scientific-critique-transpersonal"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0022"
 type: "نقد خارجي موثَّق"
 level: "متوسط"
 title: "نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات: علم زائف؟"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-braiding-sweetgrass"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0262"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

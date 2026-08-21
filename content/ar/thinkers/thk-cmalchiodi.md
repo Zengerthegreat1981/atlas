@@ -1,6 +1,6 @@
 ---
 slug: "thk-cmalchiodi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0848"
 type: "مفكر"
 level: "متوسط"
 title: "كاثي مالكيودي"

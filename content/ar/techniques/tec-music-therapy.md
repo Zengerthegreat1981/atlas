@@ -1,6 +1,6 @@
 ---
 slug: "tec-music-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0257"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالموسيقى"

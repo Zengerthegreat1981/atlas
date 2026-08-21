@@ -1,6 +1,6 @@
 ---
 slug: "wrk-nervosen-charakter"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0403"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "في الشخصية العصابية"

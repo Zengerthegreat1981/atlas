@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-exp-in-vivo-exposure-with-response-prevention"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0100"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "التعرض الحي مع منع الاستجابة"

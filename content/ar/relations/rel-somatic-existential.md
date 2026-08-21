@@ -1,6 +1,6 @@
 ---
 slug: "rel-somatic-existential"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0146"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي"

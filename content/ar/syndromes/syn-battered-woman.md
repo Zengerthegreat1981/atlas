@@ -1,6 +1,6 @@
 ---
 slug: "syn-battered-woman"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0020"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

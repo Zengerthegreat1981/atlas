@@ -1,6 +1,6 @@
 ---
 slug: "evt-tarasoff-case-ruling-1976"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0063"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "حكم المحكمة العليا في قضية تاراسوف وفرض واجب حماية وتحذير الضحايا"

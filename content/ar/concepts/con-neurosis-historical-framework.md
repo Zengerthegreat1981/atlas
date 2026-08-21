@@ -1,6 +1,6 @@
 ---
 slug: "con-neurosis-historical-framework"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0654"
 type: "مفهوم"
 level: "متقدم"
 title: "العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية"

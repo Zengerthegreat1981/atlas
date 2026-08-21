@@ -1,6 +1,6 @@
 ---
 slug: "stu-costanzo-shaw-conformity-age"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0025"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة كوستانزو وشو حول مسار التوافق والامتثال عبر المراحل العمرية"

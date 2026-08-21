@@ -1,6 +1,6 @@
 ---
 slug: "thk-ahmad-sirhindi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0656"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

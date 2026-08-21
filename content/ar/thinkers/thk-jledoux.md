@@ -1,6 +1,6 @@
 ---
 slug: "thk-jledoux"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1304"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف لودوكس"

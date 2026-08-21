@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-emotion-focused-coping"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0094"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التأقلم المرتكز على الانفعال"

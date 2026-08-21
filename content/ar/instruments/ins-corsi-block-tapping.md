@@ -1,6 +1,6 @@
 ---
 slug: "ins-corsi-block-tapping"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0023"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

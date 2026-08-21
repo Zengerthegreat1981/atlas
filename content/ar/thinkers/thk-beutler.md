@@ -1,6 +1,6 @@
 ---
 slug: "thk-beutler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0753"
 type: "مفكر"
 level: "متقدم"
 title: "لاري بويتلر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mariannekline"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1506"
 type: "مفكر"
 level: "متوسط"
 title: "ماريان كلاين"

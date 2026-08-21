@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-mind-journaling-for-self-reflection"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0114"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "كتابة اليوميات للتأمل الذاتي"

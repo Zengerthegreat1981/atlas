@@ -1,6 +1,6 @@
 ---
 slug: "thk-shiggins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1943"
 type: "مفكر"
 level: "متقدم"
 title: "ستيفن تي. هيغينز"

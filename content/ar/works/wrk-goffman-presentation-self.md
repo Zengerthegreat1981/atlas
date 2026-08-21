@@ -1,6 +1,6 @@
 ---
 slug: "wrk-goffman-presentation-self"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0328"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "تقديم الذات في الحياة اليومية (The Presentation of Self in Everyday Life)"

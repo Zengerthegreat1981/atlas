@@ -1,6 +1,6 @@
 ---
 slug: "thk-lorde"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1474"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

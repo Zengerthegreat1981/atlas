@@ -1,6 +1,6 @@
 ---
 slug: "thk-epaz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1006"
 type: "مفكر"
 level: "متوسط"
 title: "إيلسا باث كاستيّو"

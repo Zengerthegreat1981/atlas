@@ -1,6 +1,6 @@
 ---
 slug: "con-psychache"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0689"
 type: "مفهوم"
 level: "متقدم"
 title: "الألم النفسي الوجودي غير المحتمل"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-im-ok-youre-ok"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0353"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-crobbins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0860"
 type: "مفكر"
 level: "متوسط"
 title: "كلايف روبنز"

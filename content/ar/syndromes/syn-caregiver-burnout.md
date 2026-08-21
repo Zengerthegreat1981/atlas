@@ -1,6 +1,6 @@
 ---
 slug: "syn-caregiver-burnout"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0031"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

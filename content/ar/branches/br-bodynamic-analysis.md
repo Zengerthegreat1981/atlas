@@ -1,6 +1,6 @@
 ---
 slug: "br-bodynamic-analysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0120"
 type: "تيار"
 level: "متقدم"
 title: "التحليل البودينامي وتطور العضلات"

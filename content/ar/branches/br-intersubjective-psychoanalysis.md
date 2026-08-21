@@ -1,6 +1,6 @@
 ---
 slug: "br-intersubjective-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0163"
 type: "تيار"
 level: "متقدم"
 title: "النظرية البين-ذاتية في التحليل النفسي"

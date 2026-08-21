@@ -1,6 +1,6 @@
 ---
 slug: "wrk-inquiries-human-faculty"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0356"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "تحقيقات في القدرات الإنسانية"

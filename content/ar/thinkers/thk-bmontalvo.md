@@ -1,6 +1,6 @@
 ---
 slug: "thk-bmontalvo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0768"
 type: "مفكر"
 level: "متوسط"
 title: "براوليو مونتالفو"

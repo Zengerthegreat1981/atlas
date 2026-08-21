@@ -1,6 +1,6 @@
 ---
 slug: "thk-phackney"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1740"
 type: "مفكر"
 level: "متوسط"
 title: "بي. كيت هَكْني"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-charvaka"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0060"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

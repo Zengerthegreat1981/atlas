@@ -1,6 +1,6 @@
 ---
 slug: "trm-trieb-instinct-drive"
-id: "[DRAFT-UNKNOWN]"
+id: "TRM-0003"
 type: "مصطلح لغوي متنازع عليه"
 level: "متقدم"
 title: "ترجمة Trieb عند فرويد: غريزة أم دافع؟"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-brahmo-samaj"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0049"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

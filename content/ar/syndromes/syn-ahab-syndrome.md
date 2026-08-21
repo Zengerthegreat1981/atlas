@@ -1,6 +1,6 @@
 ---
 slug: "syn-ahab-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0003"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

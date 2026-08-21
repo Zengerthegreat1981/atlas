@@ -1,6 +1,6 @@
 ---
 slug: "br-cyclical-psychodynamics"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0135"
 type: "تيار"
 level: "متقدم"
 title: "الديناميات النفسية الدائرية"

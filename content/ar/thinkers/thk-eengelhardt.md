@@ -1,6 +1,6 @@
 ---
 slug: "thk-eengelhardt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0982"
 type: "مفكر"
 level: "مبتدئ"
 title: "هيوغز إنغلهارت"

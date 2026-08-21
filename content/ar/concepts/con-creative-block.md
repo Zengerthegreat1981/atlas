@@ -1,6 +1,6 @@
 ---
 slug: "con-creative-block"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0492"
 type: "مفهوم"
 level: "متوسط"
 title: "الانسداد الإبداعي"

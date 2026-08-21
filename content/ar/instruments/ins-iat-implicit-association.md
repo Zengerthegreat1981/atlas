@@ -1,6 +1,6 @@
 ---
 slug: "ins-iat-implicit-association"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0044"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-german-idealism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0122"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

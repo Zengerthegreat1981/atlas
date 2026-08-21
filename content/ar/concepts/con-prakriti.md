@@ -1,6 +1,6 @@
 ---
 slug: "con-prakriti"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0681"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

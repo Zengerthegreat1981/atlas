@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-beh-pleasant-activity-scheduling"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0078"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "جدولة الأنشطة الممتعة"

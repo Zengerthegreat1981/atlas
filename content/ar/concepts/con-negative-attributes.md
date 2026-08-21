@@ -1,6 +1,6 @@
 ---
 slug: "con-negative-attributes"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0649"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

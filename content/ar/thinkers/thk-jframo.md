@@ -1,6 +1,6 @@
 ---
 slug: "thk-jframo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1273"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس فرامو"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-hikikomori"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0082"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

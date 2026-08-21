@@ -1,6 +1,6 @@
 ---
 slug: "thk-pkuhn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1750"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

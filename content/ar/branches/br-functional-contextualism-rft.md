@@ -1,6 +1,6 @@
 ---
 slug: "br-functional-contextualism-rft"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0150"
 type: "تيار"
 level: "متقدم"
 title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)"

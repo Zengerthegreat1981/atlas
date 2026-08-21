@@ -1,6 +1,6 @@
 ---
 slug: "con-antifragility"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0442"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

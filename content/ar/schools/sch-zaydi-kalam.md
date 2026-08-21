@@ -1,6 +1,6 @@
 ---
 slug: "sch-zaydi-kalam"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0334"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-african-socialism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0014"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

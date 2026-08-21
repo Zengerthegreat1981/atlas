@@ -1,6 +1,6 @@
 ---
 slug: "thk-rperry"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1862"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

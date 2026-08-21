@@ -1,6 +1,6 @@
 ---
 slug: "ins-trail-making-test"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0084"
 type: "أداة قياس"
 level: "متوسط"
 title: "اختبار ربط المسارات"

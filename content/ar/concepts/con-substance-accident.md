@@ -1,6 +1,6 @@
 ---
 slug: "con-substance-accident"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0756"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

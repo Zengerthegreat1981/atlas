@@ -1,6 +1,6 @@
 ---
 slug: "thk-wolf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2120"
 type: "مفكر"
 level: "متقدم"
 title: "إرنست وولف"

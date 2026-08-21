@@ -1,6 +1,6 @@
 ---
 slug: "thk-jayres"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1235"
 type: "مفكر"
 level: "متوسط"
 title: "جين أَيرس"

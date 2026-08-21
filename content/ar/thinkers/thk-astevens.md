@@ -1,6 +1,6 @@
 ---
 slug: "thk-astevens"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0716"
 type: "مفكر"
 level: "متوسط"
 title: "أَنتوني ستيفنز (Anthony Stevens)"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-vietnam-veterans-ptsd-advocacy-1980"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0069"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "حركة قدامى محاربي فيتنام وإقرار اضطراب كرب ما بعد الصدمة رسمياً في DSM-III"

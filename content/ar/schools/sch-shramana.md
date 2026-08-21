@@ -1,6 +1,6 @@
 ---
 slug: "sch-shramana"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0286"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

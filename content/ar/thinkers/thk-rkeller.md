@@ -1,6 +1,6 @@
 ---
 slug: "thk-rkeller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1817"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت كلارك"

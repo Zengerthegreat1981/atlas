@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbuber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1538"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

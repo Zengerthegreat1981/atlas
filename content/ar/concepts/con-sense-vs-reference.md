@@ -1,6 +1,6 @@
 ---
 slug: "con-sense-vs-reference"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0731"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

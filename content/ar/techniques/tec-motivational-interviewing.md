@@ -1,6 +1,6 @@
 ---
 slug: "tec-motivational-interviewing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0254"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "المقابلات الدافعية (MI)"

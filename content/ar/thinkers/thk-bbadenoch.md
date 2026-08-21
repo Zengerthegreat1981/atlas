@@ -1,6 +1,6 @@
 ---
 slug: "thk-bbadenoch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0736"
 type: "مفكر"
 level: "متوسط"
 title: "بوني بادنوك"

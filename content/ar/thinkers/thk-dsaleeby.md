@@ -1,6 +1,6 @@
 ---
 slug: "thk-dsaleeby"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0952"
 type: "مفكر"
 level: "متوسط"
 title: "دينس ساليبي"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-insomnia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0093"
 type: "متلازمة"
 level: "مبتدئ"
 title: "الأرق"

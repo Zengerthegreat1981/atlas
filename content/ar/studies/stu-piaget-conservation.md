@@ -1,6 +1,6 @@
 ---
 slug: "stu-piaget-conservation"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0084"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجارب بياجيه على حفظ الكمية والكتلة والحجم"

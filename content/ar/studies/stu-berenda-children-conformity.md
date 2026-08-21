@@ -1,6 +1,6 @@
 ---
 slug: "stu-berenda-children-conformity"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0015"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة بيريندا الكلاسيكية حول تأثير الضغط الجماعي وتوافق الأطفال في سن المدرسة"

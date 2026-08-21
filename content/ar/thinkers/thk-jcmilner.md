@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcmilner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1255"
 type: "مفكر"
 level: "متقدم"
 title: "جان-كلود ميلنر"

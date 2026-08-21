@@ -1,6 +1,6 @@
 ---
 slug: "wrk-fons-vitae"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0312"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

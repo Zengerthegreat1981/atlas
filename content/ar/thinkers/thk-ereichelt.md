@@ -1,6 +1,6 @@
 ---
 slug: "thk-ereichelt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1011"
 type: "مفكر"
 level: "متوسط"
 title: "إريك رايشيلت"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-schema-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0296"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "علاج المخطط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-guggenbuhl"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1121"
 type: "مفكر"
 level: "متقدم"
 title: "أدولف غوغنبوهل-كرايغ"

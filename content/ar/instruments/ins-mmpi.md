@@ -1,6 +1,6 @@
 ---
 slug: "ins-mmpi"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0053"
 type: "أداة قياس"
 level: "متقدم"
 title: "اختبار الشخصية متعدد الأوجه لمينيسوتا"

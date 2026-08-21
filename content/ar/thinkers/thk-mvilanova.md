@@ -1,6 +1,6 @@
 ---
 slug: "thk-mvilanova"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1647"
 type: "مفكر"
 level: "متوسط"
 title: "مِرْسيدس فيلانوفا"

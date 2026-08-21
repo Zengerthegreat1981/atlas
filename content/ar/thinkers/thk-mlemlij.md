@@ -1,6 +1,6 @@
 ---
 slug: "thk-mlemlij"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1598"
 type: "مفكر"
 level: "متقدم"
 title: "مويسيس لِمْلِخ"

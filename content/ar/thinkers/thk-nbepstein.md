@@ -1,6 +1,6 @@
 ---
 slug: "thk-nbepstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1668"
 type: "مفكر"
 level: "متوسط"
 title: "نورمان إبستين"

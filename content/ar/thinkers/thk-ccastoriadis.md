@@ -1,6 +1,6 @@
 ---
 slug: "thk-ccastoriadis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0821"
 type: "مفكر"
 level: "متقدم"
 title: "كورنليوس كاستوريادس"

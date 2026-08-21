@@ -1,6 +1,6 @@
 ---
 slug: "thk-cchurchman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0823"
 type: "مفكر"
 level: "متوسط"
 title: "سي. ويست تشرتشمان"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-maddis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1489"
 type: "مفكر"
 level: "متقدم"
 title: "مايكل إي. آديس"

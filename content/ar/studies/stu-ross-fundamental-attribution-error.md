@@ -1,6 +1,6 @@
 ---
 slug: "stu-ross-fundamental-attribution-error"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0095"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة روس عن خطأ الإسناد الأساسي في لعبة المسابقات"

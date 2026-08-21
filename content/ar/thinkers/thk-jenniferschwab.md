@@ -1,6 +1,6 @@
 ---
 slug: "thk-jenniferschwab"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1268"
 type: "مفكر"
 level: "متوسط"
 title: "جينيفر شواب"

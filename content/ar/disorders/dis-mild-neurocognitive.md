@@ -1,6 +1,6 @@
 ---
 slug: "dis-mild-neurocognitive"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0067"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب معرفي عصبي خفيف"

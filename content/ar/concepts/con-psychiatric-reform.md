@@ -1,6 +1,6 @@
 ---
 slug: "con-psychiatric-reform"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0690"
 type: "مفهوم"
 level: "متوسط"
 title: "الإصلاح النفسي الإنساني"

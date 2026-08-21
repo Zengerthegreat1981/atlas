@@ -1,6 +1,6 @@
 ---
 slug: "con-harm-reduction"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2159"
 type: "مفكر"
 level: "متوسط"
 title: "الحد من الضرر (Harm Reduction)"

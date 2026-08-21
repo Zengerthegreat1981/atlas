@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-beh-habit-reversal-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0077"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تدريب عكس العادة"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-milieu-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0252"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج بالبيئة والمجتمع العلاجي"

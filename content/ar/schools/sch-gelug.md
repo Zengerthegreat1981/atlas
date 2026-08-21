@@ -1,6 +1,6 @@
 ---
 slug: "sch-gelug"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0121"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "dbt-anarchism-vs-state"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0315"
 type: "جدل"
 part: "philosophy"
 level: "متوسط"

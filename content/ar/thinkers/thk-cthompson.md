@@ -1,6 +1,6 @@
 ---
 slug: "thk-cthompson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0868"
 type: "مفكر"
 level: "متوسط"
 title: "كلارا تومسون"

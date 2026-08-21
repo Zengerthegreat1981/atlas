@@ -1,6 +1,6 @@
 ---
 slug: "br-recovery-oriented"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0200"
 type: "تيار"
 level: "متوسط"
 title: "الممارسة الموجَّهة نحو التعافي"

@@ -1,6 +1,6 @@
 ---
 slug: "con-paradox-of-choice"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0666"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

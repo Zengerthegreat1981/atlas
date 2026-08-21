@@ -1,6 +1,6 @@
 ---
 slug: "thk-shenggeler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1942"
 type: "مفكر"
 level: "متقدم"
 title: "سكوت هِنغلَر"

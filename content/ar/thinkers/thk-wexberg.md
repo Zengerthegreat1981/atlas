@@ -1,6 +1,6 @@
 ---
 slug: "thk-wexberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2102"
 type: "مفكر"
 level: "متوسط"
 title: "إيروين ويكسبرغ"

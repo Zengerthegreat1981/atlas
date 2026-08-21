@@ -1,6 +1,6 @@
 ---
 slug: "thk-iparker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1198"
 type: "مفكر"
 level: "متوسط"
 title: "إيان باركر"

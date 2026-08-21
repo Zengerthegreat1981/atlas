@@ -1,6 +1,6 @@
 ---
 slug: "wrk-emotionally-immature-parents"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0297"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

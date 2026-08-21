@@ -1,6 +1,6 @@
 ---
 slug: "br-archetypal"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0116"
 type: "تيار"
 level: "متقدم"
 title: "علم النفس الأركيتايبي"

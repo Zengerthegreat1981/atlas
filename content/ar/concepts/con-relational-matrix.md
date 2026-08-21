@@ -1,6 +1,6 @@
 ---
 slug: "con-relational-matrix"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0711"
 type: "مفهوم"
 level: "متقدم"
 title: "المصفوفة العلائقية (Relational Matrix)"

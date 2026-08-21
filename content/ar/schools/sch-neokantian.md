@@ -1,6 +1,6 @@
 ---
 slug: "sch-neokantian"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0215"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

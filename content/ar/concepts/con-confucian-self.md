@@ -1,6 +1,6 @@
 ---
 slug: "con-confucian-self"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0488"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الذات الكونفوشيوسية"

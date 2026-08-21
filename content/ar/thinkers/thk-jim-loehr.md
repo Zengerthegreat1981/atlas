@@ -1,6 +1,6 @@
 ---
 slug: "thk-jim-loehr"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1292"
 type: "مفكر"
 level: "متقدم"
 title: "جيم لور"

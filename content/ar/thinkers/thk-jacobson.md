@@ -1,6 +1,6 @@
 ---
 slug: "thk-jacobson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1213"
 type: "مفكر"
 level: "متقدم"
 title: "إديث جاكوبسون"

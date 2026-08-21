@@ -1,6 +1,6 @@
 ---
 slug: "evt-weimar-congress-split-1911"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0071"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي"

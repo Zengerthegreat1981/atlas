@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-greene"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1841"
 type: "مفكر"
 part: "psychology"
 register: "popular"

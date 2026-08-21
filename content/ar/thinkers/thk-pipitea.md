@@ -1,6 +1,6 @@
 ---
 slug: "thk-pipitea"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1748"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل بيبيتي"

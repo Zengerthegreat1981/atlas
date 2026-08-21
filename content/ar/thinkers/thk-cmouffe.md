@@ -1,6 +1,6 @@
 ---
 slug: "thk-cmouffe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0851"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dbaumrind"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0897"
 type: "مفكر"
 level: "متقدم"
 title: "ديانا باومرند"

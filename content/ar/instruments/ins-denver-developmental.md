@@ -1,6 +1,6 @@
 ---
 slug: "ins-denver-developmental"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0027"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "فحص دنفر للفرز التطوري للأطفال"

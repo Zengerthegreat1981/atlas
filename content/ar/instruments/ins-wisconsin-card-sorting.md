@@ -1,6 +1,6 @@
 ---
 slug: "ins-wisconsin-card-sorting"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0091"
 type: "أداة قياس"
 level: "متقدم"
 title: "اختبار ويسكونسن لتصنيف البطاقات"

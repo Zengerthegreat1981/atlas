@@ -1,6 +1,6 @@
 ---
 slug: "thk-jnicolosi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1317"
 type: "مفكر"
 level: "مبتدئ"
 title: "جوزيف نيكولوسي"

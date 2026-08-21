@@ -1,6 +1,6 @@
 ---
 slug: "tec-forest-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0223"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالغابات (Forest Therapy)"

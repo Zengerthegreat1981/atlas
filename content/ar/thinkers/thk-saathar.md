@@ -1,6 +1,6 @@
 ---
 slug: "thk-saathar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1894"
 type: "مفكر"
 level: "متوسط"
 title: "شاهيد أثير"

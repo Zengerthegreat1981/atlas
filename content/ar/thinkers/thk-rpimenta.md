@@ -1,6 +1,6 @@
 ---
 slug: "thk-rpimenta"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1864"
 type: "مفكر"
 level: "متوسط"
 title: "ريكاردو بيمينتا"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rsharma"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1875"
 type: "مفكر"
 level: "متوسط"
 title: "رامشاران شارما"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-brief-psychotic"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0024"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "الذهان القصير"

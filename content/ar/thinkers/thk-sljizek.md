@@ -1,6 +1,6 @@
 ---
 slug: "thk-sljizek"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1955"
 type: "مفكر"
 level: "متقدم"
 title: "سلافوي جيجك"

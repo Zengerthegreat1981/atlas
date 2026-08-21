@@ -1,6 +1,6 @@
 ---
 slug: "sch-shinto-philosophical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0284"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

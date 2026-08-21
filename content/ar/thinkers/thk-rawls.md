@@ -1,6 +1,6 @@
 ---
 slug: "thk-rawls"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1780"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

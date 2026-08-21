@@ -1,6 +1,6 @@
 ---
 slug: "thk-mwagreich"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1648"
 type: "مفكر"
 level: "متوسط"
 title: "موريس هـ. فيغوتش"

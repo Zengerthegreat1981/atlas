@@ -1,6 +1,6 @@
 ---
 slug: "con-device-paradigm"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0512"
 type: "مفهوم"
 level: "متقدم"
 title: "نموذج الجهاز"

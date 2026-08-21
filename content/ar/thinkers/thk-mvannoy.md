@@ -1,6 +1,6 @@
 ---
 slug: "thk-mvannoy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1645"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل فونوي آدامز"

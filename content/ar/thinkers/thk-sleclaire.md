@@ -1,6 +1,6 @@
 ---
 slug: "thk-sleclaire"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1952"
 type: "مفكر"
 level: "متوسط"
 title: "سيرج لوكليير"

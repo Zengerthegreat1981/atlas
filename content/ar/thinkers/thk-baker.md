@@ -1,6 +1,6 @@
 ---
 slug: "thk-baker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0726"
 type: "مفكر"
 level: "متوسط"
 title: "إلسوورث ف. بيكر"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-epic-of-gilgamesh"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0299"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

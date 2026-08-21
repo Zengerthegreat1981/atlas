@@ -1,6 +1,6 @@
 ---
 slug: "stu-kahneman-tversky-heuristics-biases"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0055"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متقدم"

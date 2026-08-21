@@ -1,6 +1,6 @@
 ---
 slug: "thk-dabrowski"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0879"
 type: "مفكر"
 level: "متقدم"
 title: "كازيمير دابروفسكي"

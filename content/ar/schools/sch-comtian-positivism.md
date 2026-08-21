@@ -1,6 +1,6 @@
 ---
 slug: "sch-comtian-positivism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0069"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

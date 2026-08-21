@@ -1,6 +1,6 @@
 ---
 slug: "sch-pragmatism-classical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0254"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

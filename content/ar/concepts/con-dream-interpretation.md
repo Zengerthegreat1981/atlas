@@ -1,6 +1,6 @@
 ---
 slug: "con-dream-interpretation"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0520"
 type: "مفهوم"
 level: "متوسط"
 title: "تفسير الأحلام والتضخيم الأركيتيبي"

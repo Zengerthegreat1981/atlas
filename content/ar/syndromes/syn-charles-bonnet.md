@@ -1,6 +1,6 @@
 ---
 slug: "syn-charles-bonnet"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0033"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

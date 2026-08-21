@@ -1,6 +1,6 @@
 ---
 slug: "thk-jspence"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1350"
 type: "مفكر"
 level: "مبتدئ"
 title: "جو سبنس"

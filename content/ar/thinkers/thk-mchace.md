@@ -1,6 +1,6 @@
 ---
 slug: "thk-mchace"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1541"
 type: "مفكر"
 level: "متوسط"
 title: "ماريان تشيس"

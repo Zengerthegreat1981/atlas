@@ -1,6 +1,6 @@
 ---
 slug: "con-tibetan-buddhism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0769"
 type: "مفهوم"
 level: "متوسط"
 title: "البوذية التبتية والتحليل النفسي"

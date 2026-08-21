@@ -1,6 +1,6 @@
 ---
 slug: "evt-ahp-founding-1961"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0005"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس جمعية علم النفس الإنساني وإطلاق القوة الثالثة"

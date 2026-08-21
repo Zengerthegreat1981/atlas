@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-beh-behavioral-experiments"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0073"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التجارب السلوكية"

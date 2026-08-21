@@ -1,6 +1,6 @@
 ---
 slug: "thk-ahalford"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0652"
 type: "مفكر"
 level: "متوسط"
 title: "أليكس هالفرد"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-sdeshazer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1919"
 type: "مفكر"
 level: "متوسط"
 title: "ستيف دي شيزَر"

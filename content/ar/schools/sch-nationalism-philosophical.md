@@ -1,6 +1,6 @@
 ---
 slug: "sch-nationalism-philosophical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0208"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

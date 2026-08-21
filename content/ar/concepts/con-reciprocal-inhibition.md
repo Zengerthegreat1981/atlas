@@ -1,6 +1,6 @@
 ---
 slug: "con-reciprocal-inhibition"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0704"
 type: "مفهوم"
 level: "مبتدئ"
 title: "التثبيط المتبادل"

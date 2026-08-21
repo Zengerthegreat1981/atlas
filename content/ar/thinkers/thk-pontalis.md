@@ -1,6 +1,6 @@
 ---
 slug: "thk-pontalis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1754"
 type: "مفكر"
 level: "متقدم"
 title: "جان-بيرتران بونتالي"

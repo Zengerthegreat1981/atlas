@@ -1,6 +1,6 @@
 ---
 slug: "wrk-elemente-psychophysik"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0290"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "عناصر السيكوفيزياء"

@@ -1,6 +1,6 @@
 ---
 slug: "con-hermeneutic-circle"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0583"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

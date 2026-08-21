@@ -1,6 +1,6 @@
 ---
 slug: "thk-erikpearson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1013"
 type: "مفكر"
 level: "متوسط"
 title: "إريك پيرسون"

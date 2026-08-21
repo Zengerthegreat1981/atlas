@@ -1,6 +1,6 @@
 ---
 slug: "thk-bruceperkins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0794"
 type: "مفكر"
 level: "متوسط"
 title: "بروس بيركنز"

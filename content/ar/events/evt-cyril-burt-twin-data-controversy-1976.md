@@ -1,6 +1,6 @@
 ---
 slug: "evt-cyril-burt-twin-data-controversy-1976"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0023"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "جدل وتدقيق بيانات توائم سيريل بيرت حول وراثة الذكاء"

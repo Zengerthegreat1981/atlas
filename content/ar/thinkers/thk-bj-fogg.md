@@ -1,6 +1,6 @@
 ---
 slug: "thk-bj-fogg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0760"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-lepper-overjustification"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0063"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة ليبر ونيسبيت لفرط التبرير وتآكل الدافع الداخلي لدى الأطفال"

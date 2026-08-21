@@ -1,6 +1,6 @@
 ---
 slug: "evt-tokyo-psychological-laboratory-1903"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0066"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس أول معمل تجريبي لعلم النفس في جامعة طوكيو باليابان بواسطة موتورا"

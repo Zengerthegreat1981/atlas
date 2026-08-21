@@ -1,6 +1,6 @@
 ---
 slug: "con-community-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0484"
 type: "مفهوم"
 level: "متوسط"
 title: "علم النفس المجتمعي التحرري"

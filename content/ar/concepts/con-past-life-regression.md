@@ -1,6 +1,6 @@
 ---
 slug: "con-past-life-regression"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0670"
 type: "مفهوم"
 level: "مبتدئ"
 title: "استرجاع ذكريات الحياة السابقة"

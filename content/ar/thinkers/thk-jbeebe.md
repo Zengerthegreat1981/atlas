@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbeebe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1239"
 type: "مفكر"
 level: "متقدم"
 title: "جون بيب"

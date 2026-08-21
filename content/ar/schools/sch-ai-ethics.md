@@ -1,6 +1,6 @@
 ---
 slug: "sch-ai-ethics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0018"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

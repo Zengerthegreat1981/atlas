@@ -1,6 +1,6 @@
 ---
 slug: "thk-wquine"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2122"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

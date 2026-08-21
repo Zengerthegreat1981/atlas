@@ -1,6 +1,6 @@
 ---
 slug: "sch-wahdat-alwujud"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0328"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

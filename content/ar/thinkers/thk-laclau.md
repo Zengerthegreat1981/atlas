@@ -1,6 +1,6 @@
 ---
 slug: "thk-laclau"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1430"
 type: "مفكر"
 level: "متقدم"
 title: "إرنستو لاكلاو"

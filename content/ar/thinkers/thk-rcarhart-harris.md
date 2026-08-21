@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcarhart-harris"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1789"
 type: "مفكر"
 level: "متقدم"
 title: "روبن كارهارت-هاريس"

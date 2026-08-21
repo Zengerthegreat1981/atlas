@@ -1,6 +1,6 @@
 ---
 slug: "thk-hweiner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1179"
 type: "مفكر"
 level: "متوسط"
 title: "هربرت فاينر"

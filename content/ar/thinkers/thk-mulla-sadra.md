@@ -1,6 +1,6 @@
 ---
 slug: "thk-mulla-sadra"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1643"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

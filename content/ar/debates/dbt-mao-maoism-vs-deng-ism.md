@@ -1,6 +1,6 @@
 ---
 slug: "dbt-mao-maoism-vs-deng-ism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0336"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

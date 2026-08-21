@@ -1,6 +1,6 @@
 ---
 slug: "sch-marxism-structuralist"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0191"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

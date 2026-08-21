@@ -1,6 +1,6 @@
 ---
 slug: "thk-brian-aleman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0789"
 type: "مفكر"
 level: "متقدم"
 title: "براين ألمان"

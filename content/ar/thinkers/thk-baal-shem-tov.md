@@ -1,6 +1,6 @@
 ---
 slug: "thk-baal-shem-tov"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0723"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rbritton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1787"
 type: "مفكر"
 level: "متوسط"
 title: "رونالد بِرِتن"

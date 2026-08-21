@@ -1,6 +1,6 @@
 ---
 slug: "stu-bexton-heron-sensory-deprivation"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0016"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب بيكستون وهيرون وسكوت في جامعة ماكغيل حول الحرمان الحسي الحاد"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-john-damascene"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1322"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

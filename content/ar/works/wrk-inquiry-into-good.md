@@ -1,6 +1,6 @@
 ---
 slug: "wrk-inquiry-into-good"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0357"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-marlan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1512"
 type: "مفكر"
 level: "متوسط"
 title: "ستانتون مارلان"

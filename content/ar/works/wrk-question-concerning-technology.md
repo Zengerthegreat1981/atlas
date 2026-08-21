@@ -1,6 +1,6 @@
 ---
 slug: "wrk-question-concerning-technology"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0436"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

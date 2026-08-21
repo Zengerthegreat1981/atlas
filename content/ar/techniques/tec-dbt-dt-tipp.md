@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-tipp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0156"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تيب (TIPP)"

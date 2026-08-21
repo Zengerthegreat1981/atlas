@@ -1,6 +1,6 @@
 ---
 slug: "thk-sblumberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1912"
 type: "مفكر"
 level: "متوسط"
 title: "سوزان بلومبرغ"

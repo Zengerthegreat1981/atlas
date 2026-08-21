@@ -1,6 +1,6 @@
 ---
 slug: "thk-radhakrishnan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1772"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

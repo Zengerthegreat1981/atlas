@@ -1,6 +1,6 @@
 ---
 slug: "thk-mandolfi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1497"
 type: "مفكر"
 level: "متوسط"
 title: "ماورو أندولفي"

@@ -1,6 +1,6 @@
 ---
 slug: "con-functional-contextualism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0563"
 type: "مفهوم"
 level: "متقدم"
 title: "السياقية الوظيفية"

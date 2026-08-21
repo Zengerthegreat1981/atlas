@@ -1,6 +1,6 @@
 ---
 slug: "sch-indigenous-philosophy-contemporary"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0146"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

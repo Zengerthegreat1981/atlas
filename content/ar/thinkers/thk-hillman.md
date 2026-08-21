@@ -1,6 +1,6 @@
 ---
 slug: "thk-hillman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1153"
 type: "مفكر"
 level: "متقدم"
 title: "جيمس هيلمان"

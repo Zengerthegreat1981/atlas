@@ -1,6 +1,6 @@
 ---
 slug: "thk-barlow"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0729"
 type: "مفكر"
 level: "متقدم"
 title: "ديفيد هـ. بارلو"

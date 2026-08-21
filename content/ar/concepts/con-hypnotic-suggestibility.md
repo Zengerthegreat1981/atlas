@@ -1,6 +1,6 @@
 ---
 slug: "con-hypnotic-suggestibility"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0591"
 type: "مفهوم"
 level: "متوسط"
 title: "القابلية للإيحاء التنويمي"

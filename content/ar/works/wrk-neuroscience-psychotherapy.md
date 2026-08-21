@@ -1,6 +1,6 @@
 ---
 slug: "wrk-neuroscience-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0404"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "علم أعصاب العلاج النفسي: بناء وإعادة بناء الدماغ البشري"

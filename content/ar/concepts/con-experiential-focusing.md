@@ -1,6 +1,6 @@
 ---
 slug: "con-experiential-focusing"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0541"
 type: "مفهوم"
 level: "متوسط"
 title: "التركيز التجريبي (Experiential Focusing)"

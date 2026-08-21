@@ -1,6 +1,6 @@
 ---
 slug: "sch-renaissance-neoplatonism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0268"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

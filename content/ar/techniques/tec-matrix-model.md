@@ -1,6 +1,6 @@
 ---
 slug: "tec-matrix-model"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0240"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "نموذج المصفوفة (Matrix Model)"

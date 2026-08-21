@@ -1,6 +1,6 @@
 ---
 slug: "thk-su-qin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2002"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

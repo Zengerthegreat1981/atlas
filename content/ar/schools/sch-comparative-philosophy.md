@@ -1,6 +1,6 @@
 ---
 slug: "sch-comparative-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0068"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

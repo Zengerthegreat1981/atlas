@@ -1,6 +1,6 @@
 ---
 slug: "thk-fberlin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1030"
 type: "مفكر"
 level: "متوسط"
 title: "فريد برلين"

@@ -1,6 +1,6 @@
 ---
 slug: "br-social-learning-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0215"
 type: "تيار"
 level: "متوسط"
 title: "نظرية التعلم الاجتماعي والمعرفي"

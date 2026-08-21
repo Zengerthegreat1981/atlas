@@ -1,6 +1,6 @@
 ---
 slug: "thk-abraham-geiger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0638"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

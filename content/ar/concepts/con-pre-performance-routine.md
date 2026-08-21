@@ -1,6 +1,6 @@
 ---
 slug: "con-pre-performance-routine"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0683"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الطقوس السابقة للأداء"

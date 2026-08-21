@@ -1,6 +1,6 @@
 ---
 slug: "thk-david-allen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0889"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-zurvanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0339"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

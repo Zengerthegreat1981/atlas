@@ -1,6 +1,6 @@
 ---
 slug: "ins-adi-r"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0007"
 type: "أداة قياس"
 part: "psychology"
 level: "متقدم"

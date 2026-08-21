@@ -1,6 +1,6 @@
 ---
 slug: "thk-jrustin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1345"
 type: "مفكر"
 level: "متوسط"
 title: "إِريك رُستِن"

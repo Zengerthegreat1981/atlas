@@ -1,6 +1,6 @@
 ---
 slug: "sch-bhedabheda"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0044"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

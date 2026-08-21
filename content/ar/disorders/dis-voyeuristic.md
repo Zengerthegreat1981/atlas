@@ -1,6 +1,6 @@
 ---
 slug: "dis-voyeuristic"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0107"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الاستطلاع (Voyeuristic Disorder)"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-buenos-aires-psychology-institute-1908"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0016"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس معهد علم النفس بجامعة بوينس آيرس ورسوخ علم النفس في أمريكا اللاتينية"

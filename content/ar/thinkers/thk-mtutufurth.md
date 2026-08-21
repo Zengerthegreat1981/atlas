@@ -1,6 +1,6 @@
 ---
 slug: "thk-mtutufurth"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1641"
 type: "مفكر"
 level: "مبتدئ"
 title: "مافو توتو فان فورث"

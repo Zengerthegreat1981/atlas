@@ -1,6 +1,6 @@
 ---
 slug: "dbt-projective-tests-validity"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0339"
 type: "جدل"
 level: "متقدم"
 title: "جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني"

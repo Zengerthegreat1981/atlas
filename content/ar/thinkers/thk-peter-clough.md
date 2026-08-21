@@ -1,6 +1,6 @@
 ---
 slug: "thk-peter-clough"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1725"
 type: "مفكر"
 level: "متقدم"
 title: "بيتر كلاف"

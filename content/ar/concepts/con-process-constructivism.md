@@ -1,6 +1,6 @@
 ---
 slug: "con-process-constructivism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0686"
 type: "مفهوم"
 level: "متوسط"
 title: "النظرية البنائية للعملية (Process Constructivism)"

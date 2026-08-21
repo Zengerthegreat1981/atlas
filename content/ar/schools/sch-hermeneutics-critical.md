@@ -1,6 +1,6 @@
 ---
 slug: "sch-hermeneutics-critical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0133"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

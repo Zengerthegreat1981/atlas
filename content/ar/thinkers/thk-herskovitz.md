@@ -1,6 +1,6 @@
 ---
 slug: "thk-herskovitz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1145"
 type: "مفكر"
 level: "متقدم"
 title: "مورتن هيرسكوفيتز"

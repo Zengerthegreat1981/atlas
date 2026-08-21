@@ -1,6 +1,6 @@
 ---
 slug: "thk-gandhi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1068"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dieckmann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0928"
 type: "مفكر"
 level: "متقدم"
 title: "هانس ديكمان"

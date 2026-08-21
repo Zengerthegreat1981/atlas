@@ -1,6 +1,6 @@
 ---
 slug: "thk-napoleon-hill"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1662"
 type: "مفكر"
 part: "psychology"
 register: "popular"

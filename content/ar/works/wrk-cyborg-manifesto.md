@@ -1,6 +1,6 @@
 ---
 slug: "wrk-cyborg-manifesto"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0274"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

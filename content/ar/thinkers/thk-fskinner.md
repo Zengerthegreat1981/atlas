@@ -1,6 +1,6 @@
 ---
 slug: "thk-fskinner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1056"
 type: "مفكر"
 level: "متقدم"
 title: "بوريس فريدريك سكينر"

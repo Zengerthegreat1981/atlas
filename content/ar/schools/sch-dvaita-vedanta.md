@@ -1,6 +1,6 @@
 ---
 slug: "sch-dvaita-vedanta"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0091"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

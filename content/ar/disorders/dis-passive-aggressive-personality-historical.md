@@ -1,6 +1,6 @@
 ---
 slug: "dis-passive-aggressive-personality-historical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0077"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الشخصية العدوانية السلبية التاريخي (Passive-Aggressive Personality)"

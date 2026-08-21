@@ -1,6 +1,6 @@
 ---
 slug: "thk-kevin-sparger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1388"
 type: "مفكر"
 level: "متوسط"
 title: "كيفن سپارجر"

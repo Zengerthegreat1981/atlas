@@ -1,6 +1,6 @@
 ---
 slug: "con-liangzhi"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0622"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

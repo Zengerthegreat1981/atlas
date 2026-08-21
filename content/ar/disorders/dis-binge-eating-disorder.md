@@ -1,6 +1,6 @@
 ---
 slug: "dis-binge-eating-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0018"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "اضطراب نهم الطعام"

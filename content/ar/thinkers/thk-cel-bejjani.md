@@ -1,6 +1,6 @@
 ---
 slug: "thk-cel-bejjani"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0830"
 type: "مفكر"
 level: "متوسط"
 title: "كولين البيجاني"

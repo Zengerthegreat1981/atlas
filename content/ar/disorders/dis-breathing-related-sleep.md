@@ -1,6 +1,6 @@
 ---
 slug: "dis-breathing-related-sleep"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0023"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطرابات النوم المرتبطة بالتنفس"

@@ -1,6 +1,6 @@
 ---
 slug: "br-embodied-cognition-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0143"
 type: "تيار"
 level: "متقدم"
 title: "مقاربات الإدراك المتجسد"

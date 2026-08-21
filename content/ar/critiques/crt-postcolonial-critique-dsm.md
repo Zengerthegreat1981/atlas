@@ -1,6 +1,6 @@
 ---
 slug: "crt-postcolonial-critique-dsm"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0016"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'"

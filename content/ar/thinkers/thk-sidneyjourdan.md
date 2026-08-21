@@ -1,6 +1,6 @@
 ---
 slug: "thk-sidneyjourdan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1946"
 type: "مفكر"
 level: "متقدم"
 title: "سيدني جورارد"

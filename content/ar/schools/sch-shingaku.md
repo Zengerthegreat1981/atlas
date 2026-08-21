@@ -1,6 +1,6 @@
 ---
 slug: "sch-shingaku"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0282"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

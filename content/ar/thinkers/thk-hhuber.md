@@ -1,6 +1,6 @@
 ---
 slug: "thk-hhuber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1152"
 type: "مفكر"
 level: "متقدم"
 title: "هيلموت هوبر"

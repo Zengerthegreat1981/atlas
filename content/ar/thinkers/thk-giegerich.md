@@ -1,6 +1,6 @@
 ---
 slug: "thk-giegerich"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1089"
 type: "مفكر"
 level: "متقدم"
 title: "وولفغانغ غيغيريش"

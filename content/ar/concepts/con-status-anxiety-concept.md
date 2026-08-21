@@ -1,6 +1,6 @@
 ---
 slug: "con-status-anxiety-concept"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0751"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-philip-zimbardo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1742"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

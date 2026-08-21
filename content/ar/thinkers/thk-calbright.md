@@ -1,6 +1,6 @@
 ---
 slug: "thk-calbright"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0806"
 type: "مفكر"
 level: "مبتدئ"
 title: "كارين ألبريت"

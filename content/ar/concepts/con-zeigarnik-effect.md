@@ -1,6 +1,6 @@
 ---
 slug: "con-zeigarnik-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0794"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

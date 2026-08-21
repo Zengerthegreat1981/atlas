@@ -1,6 +1,6 @@
 ---
 slug: "tec-mbsr"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0243"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)"

@@ -1,6 +1,6 @@
 ---
 slug: "con-behavioral-epilepsy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0457"
 type: "مفهوم"
 level: "متوسط"
 title: "العلاج السلوكي للصرع"

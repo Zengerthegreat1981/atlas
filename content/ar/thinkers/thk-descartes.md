@@ -1,6 +1,6 @@
 ---
 slug: "thk-descartes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0916"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

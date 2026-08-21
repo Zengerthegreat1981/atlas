@@ -1,6 +1,6 @@
 ---
 slug: "wrk-myth-sisyphus"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0400"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

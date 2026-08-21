@@ -1,6 +1,6 @@
 ---
 slug: "con-different-voice"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0517"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

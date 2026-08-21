@@ -1,6 +1,6 @@
 ---
 slug: "thk-ldavidson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1444"
 type: "مفكر"
 level: "متوسط"
 title: "لاري ديفيدسون"

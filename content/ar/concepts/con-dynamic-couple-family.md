@@ -1,6 +1,6 @@
 ---
 slug: "con-dynamic-couple-family"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0524"
 type: "مفهوم"
 level: "متوسط"
 title: "العلاج الديناميكي للأزواج والأسرة"

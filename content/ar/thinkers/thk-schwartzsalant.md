@@ -1,6 +1,6 @@
 ---
 slug: "thk-schwartzsalant"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1916"
 type: "مفكر"
 level: "متقدم"
 title: "ناثان شوارتز-سالانت"

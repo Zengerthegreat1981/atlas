@@ -1,6 +1,6 @@
 ---
 slug: "thk-walzer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2088"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

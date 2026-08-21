@@ -1,6 +1,6 @@
 ---
 slug: "stu-fantz-visual-preference"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0037"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

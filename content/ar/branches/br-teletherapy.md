@@ -1,6 +1,6 @@
 ---
 slug: "br-teletherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0220"
 type: "تيار"
 level: "مبتدئ"
 title: "العلاج عن بُعد / العلاج عبر الإنترنت"

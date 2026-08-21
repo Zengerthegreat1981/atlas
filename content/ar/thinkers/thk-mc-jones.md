@@ -1,6 +1,6 @@
 ---
 slug: "thk-mc-jones"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1539"
 type: "مفكر"
 level: "متوسط"
 title: "ماري كوفر جونز"

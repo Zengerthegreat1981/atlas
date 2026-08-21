@@ -1,6 +1,6 @@
 ---
 slug: "thk-macintyre"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1487"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

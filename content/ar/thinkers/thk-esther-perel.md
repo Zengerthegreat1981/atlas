@@ -1,6 +1,6 @@
 ---
 slug: "thk-esther-perel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1019"
 type: "مفكر"
 part: "psychology"
 register: "popular"

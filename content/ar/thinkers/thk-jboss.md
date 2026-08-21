@@ -1,6 +1,6 @@
 ---
 slug: "thk-jboss"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1246"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد بيرسيلي"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-exp-exposure-hierarchy-building"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0098"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "بناء سلّم التعرض التدريجي"

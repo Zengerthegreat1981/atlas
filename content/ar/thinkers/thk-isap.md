@@ -1,6 +1,6 @@
 ---
 slug: "thk-isap"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1208"
 type: "مفكر"
 level: "متوسط"
 title: "[جمعية ISAP / إيلينا/آنا فاي-قاردنر]"

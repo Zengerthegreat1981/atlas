@@ -1,6 +1,6 @@
 ---
 slug: "con-affirmative-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0428"
 type: "مفهوم"
 level: "متوسط"
 title: "العلاج التأكيدي (Affirmative Therapy)"

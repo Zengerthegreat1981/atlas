@@ -1,6 +1,6 @@
 ---
 slug: "sch-utilitarianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0317"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-descartes-error"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0277"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "خطأ ديكارت: العاطفة والعقل والدماغ البشري"

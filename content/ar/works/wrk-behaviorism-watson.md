@@ -1,6 +1,6 @@
 ---
 slug: "wrk-behaviorism-watson"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0251"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "السلوكية"

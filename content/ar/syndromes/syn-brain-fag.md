@@ -1,6 +1,6 @@
 ---
 slug: "syn-brain-fag"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0025"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-erosch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1015"
 type: "مفكر"
 level: "متوسط"
 title: "إيلينور روش"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-eq-empathy-quotient"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0034"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

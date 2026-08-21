@@ -1,6 +1,6 @@
 ---
 slug: "syn-rabbit-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0145"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

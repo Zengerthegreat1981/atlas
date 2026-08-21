@@ -1,6 +1,6 @@
 ---
 slug: "thk-cabral"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0804"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

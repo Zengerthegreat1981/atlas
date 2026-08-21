@@ -1,6 +1,6 @@
 ---
 slug: "stu-lilly-sensory-deprivation-tank"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0066"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسات جون ليلي الأولى في الحرمان الحسي وخزانات الطفو"

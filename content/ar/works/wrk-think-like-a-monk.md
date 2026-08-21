@@ -1,6 +1,6 @@
 ---
 slug: "wrk-think-like-a-monk"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0467"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

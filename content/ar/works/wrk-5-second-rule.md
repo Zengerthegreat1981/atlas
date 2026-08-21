@@ -1,6 +1,6 @@
 ---
 slug: "wrk-5-second-rule"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0219"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

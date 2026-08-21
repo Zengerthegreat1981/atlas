@@ -1,6 +1,6 @@
 ---
 slug: "tec-beck-cognitive-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0061"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج المعرفي الكلاسيكي لبيك"

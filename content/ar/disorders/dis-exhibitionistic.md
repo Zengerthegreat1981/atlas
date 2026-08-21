@@ -1,6 +1,6 @@
 ---
 slug: "dis-exhibitionistic"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0045"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الاستعراء (Exhibitionistic Disorder)"

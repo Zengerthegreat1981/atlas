@@ -1,6 +1,6 @@
 ---
 slug: "wrk-atlas-of-ai-crawford"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0238"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

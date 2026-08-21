@@ -1,6 +1,6 @@
 ---
 slug: "sch-enlightenment"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0097"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-squeeze-technique"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0307"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية الضغط (Squeeze Technique)"

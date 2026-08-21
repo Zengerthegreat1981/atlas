@@ -1,6 +1,6 @@
 ---
 slug: "con-cross-cultural-meditation"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0494"
 type: "مفهوم"
 level: "مبتدئ"
 title: "التأمل العلاجي عبر-الثقافي"

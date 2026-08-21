@@ -1,6 +1,6 @@
 ---
 slug: "crt-postmodern-critique"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0018"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي"

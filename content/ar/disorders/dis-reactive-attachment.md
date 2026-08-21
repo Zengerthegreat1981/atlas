@@ -1,6 +1,6 @@
 ---
 slug: "dis-reactive-attachment"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0084"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب التعلق التفاعلي"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-eyewitness-testimony"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0306"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

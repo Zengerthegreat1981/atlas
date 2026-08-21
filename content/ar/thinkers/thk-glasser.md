@@ -1,6 +1,6 @@
 ---
 slug: "thk-glasser"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1097"
 type: "مفكر"
 level: "متوسط"
 title: "ويليام غلاسر"

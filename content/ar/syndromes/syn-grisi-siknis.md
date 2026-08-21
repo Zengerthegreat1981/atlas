@@ -1,6 +1,6 @@
 ---
 slug: "syn-grisi-siknis"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0077"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

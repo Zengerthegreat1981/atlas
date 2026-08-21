@@ -1,6 +1,6 @@
 ---
 slug: "ctx-hindu-philosophical-traditions"
-id: "[DRAFT-UNKNOWN]"
+id: "CTX-0009"
 type: "سياق/تقليد"
 part: "philosophy"
 level: "متوسط"

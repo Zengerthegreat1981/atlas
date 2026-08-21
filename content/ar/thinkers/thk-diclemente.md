@@ -1,6 +1,6 @@
 ---
 slug: "thk-diclemente"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0927"
 type: "مفكر"
 level: "مبتدئ"
 title: "كارل دي كليمنتي"

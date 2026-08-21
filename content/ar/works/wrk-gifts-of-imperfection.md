@@ -1,6 +1,6 @@
 ---
 slug: "wrk-gifts-of-imperfection"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0326"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

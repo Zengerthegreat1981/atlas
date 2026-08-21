@@ -1,6 +1,6 @@
 ---
 slug: "evt-esalen-institute-founding-1962"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0036"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "تأسيس معهد إيسالن وانطلاق حركة الإمكانات البشرية في بيغ سور"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-autotopagnosia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0018"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

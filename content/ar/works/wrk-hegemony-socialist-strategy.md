@@ -1,6 +1,6 @@
 ---
 slug: "wrk-hegemony-socialist-strategy"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0340"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

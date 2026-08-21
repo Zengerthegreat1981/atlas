@@ -1,6 +1,6 @@
 ---
 slug: "thk-james-gumpert"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1225"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس غومپرت"

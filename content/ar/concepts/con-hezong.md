@@ -1,6 +1,6 @@
 ---
 slug: "con-hezong"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0584"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

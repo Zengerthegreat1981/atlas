@@ -1,6 +1,6 @@
 ---
 slug: "tec-gestalt-bodywork"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0227"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "عمل الجسد الجشطالتي"

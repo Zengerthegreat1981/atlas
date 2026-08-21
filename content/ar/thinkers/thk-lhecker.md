@@ -1,6 +1,6 @@
 ---
 slug: "thk-lhecker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1452"
 type: "مفكر"
 level: "متوسط"
 title: "لويس هِكَر"

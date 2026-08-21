@@ -1,6 +1,6 @@
 ---
 slug: "thk-mhoyt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1572"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل ف. هويت"

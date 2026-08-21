@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbmiller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1245"
 type: "مفكر"
 level: "متوسط"
 title: "جين بيكر ميلر"

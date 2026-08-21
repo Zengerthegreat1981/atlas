@@ -1,6 +1,6 @@
 ---
 slug: "wrk-antifragile"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0233"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jnakamura"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1316"
 type: "مفكر"
 level: "متوسط"
 title: "[مؤسِّسو Sandplay Therapy Japan / JST] - Japanese Sandplay second generation"

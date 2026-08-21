@@ -1,6 +1,6 @@
 ---
 slug: "con-soul"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0747"
 type: "مفهوم"
 level: "متقدم"
 title: "النفس وصنع النفس"

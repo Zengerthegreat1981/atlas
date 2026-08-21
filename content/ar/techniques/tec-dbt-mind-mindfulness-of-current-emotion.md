@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-mindfulness-of-current-emotion"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0184"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "اليقظة تجاه الانفعال الحالي"

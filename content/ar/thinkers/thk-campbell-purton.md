@@ -1,6 +1,6 @@
 ---
 slug: "thk-campbell-purton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0809"
 type: "مفكر"
 level: "متقدم"
 title: "كامبيل پيرتون"

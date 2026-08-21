@@ -1,6 +1,6 @@
 ---
 slug: "thk-dpierrakos"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0947"
 type: "مفكر"
 level: "متوسط"
 title: "دورا غوميز بيراكوس"

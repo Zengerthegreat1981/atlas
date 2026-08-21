@@ -1,6 +1,6 @@
 ---
 slug: "sch-phil-science"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0243"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

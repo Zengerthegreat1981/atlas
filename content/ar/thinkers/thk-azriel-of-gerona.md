@@ -1,6 +1,6 @@
 ---
 slug: "thk-azriel-of-gerona"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0722"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

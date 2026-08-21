@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-anger-management-techniques"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0089"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تقنيات إدارة الغضب"

@@ -1,6 +1,6 @@
 ---
 slug: "con-great-mother"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0576"
 type: "مفهوم"
 level: "متقدم"
 title: "أركيتيب الأم الكبرى"

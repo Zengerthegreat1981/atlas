@@ -1,6 +1,6 @@
 ---
 slug: "thk-pekkajokinen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1722"
 type: "مفكر"
 level: "متقدم"
 title: "بيكا يوكينن"

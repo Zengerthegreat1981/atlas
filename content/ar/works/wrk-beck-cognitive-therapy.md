@@ -1,6 +1,6 @@
 ---
 slug: "wrk-beck-cognitive-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0247"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders)"

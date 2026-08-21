@@ -1,6 +1,6 @@
 ---
 slug: "wrk-metaphors-we-live-by"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0389"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الاستعارات التي نحيا بها"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-janov-primal-scream"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0363"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

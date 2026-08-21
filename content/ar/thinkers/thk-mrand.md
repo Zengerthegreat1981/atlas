@@ -1,6 +1,6 @@
 ---
 slug: "thk-mrand"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1626"
 type: "مفكر"
 level: "متوسط"
 title: "مارجوري راند"

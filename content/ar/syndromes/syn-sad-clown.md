@@ -1,6 +1,6 @@
 ---
 slug: "syn-sad-clown"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0150"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

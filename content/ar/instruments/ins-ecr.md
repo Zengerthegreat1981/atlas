@@ -1,6 +1,6 @@
 ---
 slug: "ins-ecr"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0032"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس الخبرات في العلاقات الحميمة"

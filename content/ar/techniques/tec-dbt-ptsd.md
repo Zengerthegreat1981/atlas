@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ptsd"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0193"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الجدلي السلوكي للصدمة (DBT-PTSD)"

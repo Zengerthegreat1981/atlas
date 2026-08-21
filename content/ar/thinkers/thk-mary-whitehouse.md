@@ -1,6 +1,6 @@
 ---
 slug: "thk-mary-whitehouse"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1520"
 type: "مفكر"
 level: "متقدم"
 title: "ماري وايتهاوس"

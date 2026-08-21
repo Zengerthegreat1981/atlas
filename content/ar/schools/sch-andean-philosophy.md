@@ -1,6 +1,6 @@
 ---
 slug: "sch-andean-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0029"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

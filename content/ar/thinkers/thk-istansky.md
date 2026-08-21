@@ -1,6 +1,6 @@
 ---
 slug: "thk-istansky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1211"
 type: "مفكر"
 level: "متوسط"
 title: "إيروين سترانسكي"

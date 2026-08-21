@@ -1,6 +1,6 @@
 ---
 slug: "thk-albertellis-somatic"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0668"
 type: "مفكر"
 level: "متقدم"
 title: "إيمي فونتانا"

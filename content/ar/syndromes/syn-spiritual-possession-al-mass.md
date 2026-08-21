@@ -1,6 +1,6 @@
 ---
 slug: "syn-spiritual-possession-al-mass"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0162"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

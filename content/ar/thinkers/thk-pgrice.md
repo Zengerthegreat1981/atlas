@@ -1,6 +1,6 @@
 ---
 slug: "thk-pgrice"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1738"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-tsunami-ghosts"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0179"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

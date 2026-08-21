@@ -1,6 +1,6 @@
 ---
 slug: "con-iching"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0594"
 type: "مفهوم"
 level: "متوسط"
 title: "كتاب التحوّلات (I Ching) والتزامن"

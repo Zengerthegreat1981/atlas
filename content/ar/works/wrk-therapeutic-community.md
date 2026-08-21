@@ -1,6 +1,6 @@
 ---
 slug: "wrk-therapeutic-community"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0464"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "المجتمع العلاجي (The Therapeutic Community)"

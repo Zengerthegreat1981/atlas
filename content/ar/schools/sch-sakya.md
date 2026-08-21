@@ -1,6 +1,6 @@
 ---
 slug: "sch-sakya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0271"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

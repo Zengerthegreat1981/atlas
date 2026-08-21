@@ -1,6 +1,6 @@
 ---
 slug: "wrk-affective-neuroscience"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0223"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "علم الأعصاب الوجداني: الأسس العصبية للعواطف الإنسانية والحيوانية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dclifton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0906"
 type: "مفكر"
 level: "متوسط"
 title: "دونالد أو. كليفتون"

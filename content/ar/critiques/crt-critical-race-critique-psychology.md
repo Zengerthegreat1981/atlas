@@ -1,6 +1,6 @@
 ---
 slug: "crt-critical-race-critique-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0005"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-soltz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1967"
 type: "مفكر"
 level: "متوسط"
 title: "فيكي سولْتز"

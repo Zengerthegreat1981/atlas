@@ -1,6 +1,6 @@
 ---
 slug: "sch-british-empiricism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0050"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

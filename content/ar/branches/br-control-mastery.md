@@ -1,6 +1,6 @@
 ---
 slug: "br-control-mastery"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0130"
 type: "تيار"
 level: "متقدم"
 title: "نظرية السيطرة والإتقان"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ttolksdorf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2068"
 type: "مفكر"
 level: "متوسط"
 title: "تيودور تولكسدورف"

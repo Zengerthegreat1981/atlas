@@ -1,6 +1,6 @@
 ---
 slug: "thk-jkirsch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1300"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس كيرش"

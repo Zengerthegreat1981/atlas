@@ -1,6 +1,6 @@
 ---
 slug: "thk-penelopeeast"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1723"
 type: "مفكر"
 level: "متقدم"
 title: "بينيلوبي إيست"

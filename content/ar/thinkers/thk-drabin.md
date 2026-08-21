@@ -1,6 +1,6 @@
 ---
 slug: "thk-drabin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0949"
 type: "مفكر"
 level: "متوسط"
 title: "ديان رابين"

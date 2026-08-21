@@ -1,6 +1,6 @@
 ---
 slug: "thk-hugo-saint-victor"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1177"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

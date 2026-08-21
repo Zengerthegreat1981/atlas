@@ -1,6 +1,6 @@
 ---
 slug: "tec-vaginal-dilator-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0327"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "علاج موسّعات المهبل (Vaginal Dilator Therapy)"

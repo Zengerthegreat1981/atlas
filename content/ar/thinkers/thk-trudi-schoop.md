@@ -1,6 +1,6 @@
 ---
 slug: "thk-trudi-schoop"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2060"
 type: "مفكر"
 level: "متقدم"
 title: "ترودي شوپ"

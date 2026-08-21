@@ -1,6 +1,6 @@
 ---
 slug: "thk-ottofenichel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1702"
 type: "مفكر"
 level: "متقدم"
 title: "أوتو فينيشل"

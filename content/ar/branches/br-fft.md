@@ -1,6 +1,6 @@
 ---
 slug: "br-fft"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0148"
 type: "تيار"
 level: "متوسط"
 title: "العلاج الأسري الوظيفي (FFT)"

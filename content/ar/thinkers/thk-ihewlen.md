@@ -1,6 +1,6 @@
 ---
 slug: "thk-ihewlen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1194"
 type: "مفكر"
 level: "مبتدئ"
 title: "إِهالِيكالا هيو لين"

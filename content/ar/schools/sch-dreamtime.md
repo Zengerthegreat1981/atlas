@@ -1,6 +1,6 @@
 ---
 slug: "sch-dreamtime"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0090"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

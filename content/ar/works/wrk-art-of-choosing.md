@@ -1,6 +1,6 @@
 ---
 slug: "wrk-art-of-choosing"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0236"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

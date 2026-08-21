@@ -1,6 +1,6 @@
 ---
 slug: "thk-hayes-steven"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1134"
 type: "مفكر"
 level: "متقدم"
 title: "ستيفن سي. هايز"

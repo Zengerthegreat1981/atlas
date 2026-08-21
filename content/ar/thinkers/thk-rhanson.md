@@ -1,6 +1,6 @@
 ---
 slug: "thk-rhanson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1804"
 type: "مفكر"
 level: "متوسط"
 title: "ر. كارل هانسون"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-charlesfaulkner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0838"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز فولكنر"

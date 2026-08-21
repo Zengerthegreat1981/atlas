@@ -1,6 +1,6 @@
 ---
 slug: "br-vr-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0228"
 type: "تيار"
 level: "متوسط"
 title: "العلاج بالواقع الافتراضي"

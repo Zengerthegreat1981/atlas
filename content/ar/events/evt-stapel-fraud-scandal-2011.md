@@ -1,6 +1,6 @@
 ---
 slug: "evt-stapel-fraud-scandal-2011"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0062"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "فضيحة تزوير البيانات الأكاديمية لدايدريك ستابل وتقرير لجنة ليفيلت"

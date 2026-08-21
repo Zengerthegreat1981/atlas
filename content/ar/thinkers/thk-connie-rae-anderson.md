@@ -1,6 +1,6 @@
 ---
 slug: "thk-connie-rae-anderson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0855"
 type: "مفكر"
 level: "متوسط"
 title: "كوني ري أندرسون"

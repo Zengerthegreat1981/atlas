@@ -1,6 +1,6 @@
 ---
 slug: "thk-hliddle-clin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1160"
 type: "مفكر"
 level: "متوسط"
 title: "كريغ هندرسون"

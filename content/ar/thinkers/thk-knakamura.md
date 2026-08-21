@@ -1,6 +1,6 @@
 ---
 slug: "thk-knakamura"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1411"
 type: "مفكر"
 level: "مبتدئ"
 title: "كويتشي ناكامورا"

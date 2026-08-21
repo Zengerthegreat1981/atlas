@@ -1,6 +1,6 @@
 ---
 slug: "thk-mencius"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1556"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

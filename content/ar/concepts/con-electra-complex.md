@@ -1,6 +1,6 @@
 ---
 slug: "con-electra-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0530"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

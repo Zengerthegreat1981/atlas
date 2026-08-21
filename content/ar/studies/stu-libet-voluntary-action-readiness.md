@@ -1,6 +1,6 @@
 ---
 slug: "stu-libet-voluntary-action-readiness"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0065"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب ليبيت حول جهد الاستعداد والوعي بالقرار الإرادي"

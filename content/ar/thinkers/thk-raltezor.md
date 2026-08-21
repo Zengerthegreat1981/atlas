@@ -1,6 +1,6 @@
 ---
 slug: "thk-raltezor"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1776"
 type: "مفكر"
 level: "متوسط"
 title: "روبرتو آلتِزور"

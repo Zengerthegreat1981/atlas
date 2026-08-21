@@ -1,6 +1,6 @@
 ---
 slug: "stu-tversky-kahneman-conjunction-fallacy-linda"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0111"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-different-voice"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0282"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

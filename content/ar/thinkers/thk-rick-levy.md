@@ -1,6 +1,6 @@
 ---
 slug: "thk-rick-levy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1812"
 type: "مفكر"
 level: "متوسط"
 title: "ريك ليفي"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-hypoactive-sexual-desire"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0090"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

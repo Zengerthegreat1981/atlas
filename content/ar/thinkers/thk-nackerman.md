@@ -1,6 +1,6 @@
 ---
 slug: "thk-nackerman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1658"
 type: "مفكر"
 level: "متقدم"
 title: "ناثان أكرمان"

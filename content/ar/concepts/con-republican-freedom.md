@@ -1,6 +1,6 @@
 ---
 slug: "con-republican-freedom"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0715"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-hbernheim"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1138"
 type: "مفكر"
 level: "متقدم"
 title: "هيبوليت برنهايم"

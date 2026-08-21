@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-beh-graded-task-assignment"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0076"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تدريج المهام"

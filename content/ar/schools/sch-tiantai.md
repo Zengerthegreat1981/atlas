@@ -1,6 +1,6 @@
 ---
 slug: "sch-tiantai"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0306"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

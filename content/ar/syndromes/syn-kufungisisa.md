@@ -1,6 +1,6 @@
 ---
 slug: "syn-kufungisisa"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0105"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

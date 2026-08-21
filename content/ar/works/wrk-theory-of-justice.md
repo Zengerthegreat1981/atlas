@@ -1,6 +1,6 @@
 ---
 slug: "wrk-theory-of-justice"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0463"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

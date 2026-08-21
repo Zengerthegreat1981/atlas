@@ -1,6 +1,6 @@
 ---
 slug: "br-aggression-treatment"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0112"
 type: "تيار"
 level: "متوسط"
 title: "علاج العدوان"

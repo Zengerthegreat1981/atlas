@@ -1,6 +1,6 @@
 ---
 slug: "syn-synesthesia-ideasthesia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0171"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

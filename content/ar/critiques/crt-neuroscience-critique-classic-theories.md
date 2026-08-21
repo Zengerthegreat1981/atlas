@@ -1,6 +1,6 @@
 ---
 slug: "crt-neuroscience-critique-classic-theories"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0013"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tekanikingi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2027"
 type: "مفكر"
 level: "متقدم"
 title: "تيكاني كينغي"

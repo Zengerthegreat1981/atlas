@@ -1,6 +1,6 @@
 ---
 slug: "evt-dsm-2-publication-1968"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0028"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "نشر الدليل التشخيصي الثاني والتنسيق مع التصنيف الدولي للأمراض"

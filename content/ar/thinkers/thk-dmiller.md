@@ -1,6 +1,6 @@
 ---
 slug: "thk-dmiller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0939"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد ل. ميلر"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-care-ethics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0055"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

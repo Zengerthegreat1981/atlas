@@ -1,6 +1,6 @@
 ---
 slug: "wrk-summa-theologiae"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0460"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

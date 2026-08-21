@@ -1,6 +1,6 @@
 ---
 slug: "thk-rprice"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1866"
 type: "مفكر"
 level: "متوسط"
 title: "راشِل بَرايس"

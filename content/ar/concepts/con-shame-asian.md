@@ -1,6 +1,6 @@
 ---
 slug: "con-shame-asian"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0736"
 type: "مفهوم"
 level: "متوسط"
 title: "الخزي/الخجل في الثقافات الآسيوية"

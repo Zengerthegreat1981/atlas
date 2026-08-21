@@ -1,6 +1,6 @@
 ---
 slug: "dis-adhd"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0007"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب نقص الانتباه وفرط الحركة"

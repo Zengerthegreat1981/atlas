@@ -1,6 +1,6 @@
 ---
 slug: "thk-aboller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0637"
 type: "مفكر"
 level: "متوسط"
 title: "أرماند فولكاس"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-south-african-psychological-association-1948"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0061"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس الجمعية النفسية لجنوب أفريقيا وانقسام ومسار مواجهة الفصل العنصري"

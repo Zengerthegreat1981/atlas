@@ -1,6 +1,6 @@
 ---
 slug: "con-verification-principle"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0784"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbasp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0071"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "نظام التحليل المعرفي السلوكي للعلاج النفسي (CBASP)"

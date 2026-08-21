@@ -1,6 +1,6 @@
 ---
 slug: "thk-mparlett"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1621"
 type: "مفكر"
 level: "متوسط"
 title: "مالكولم بارلِت"

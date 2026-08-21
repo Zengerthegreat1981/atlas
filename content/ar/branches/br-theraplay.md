@@ -1,6 +1,6 @@
 ---
 slug: "br-theraplay"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0222"
 type: "تيار"
 level: "متوسط"
 title: "Theraplay (العلاج بالألعاب العلائقي)"

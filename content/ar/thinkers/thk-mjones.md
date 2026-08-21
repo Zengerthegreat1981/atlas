@@ -1,6 +1,6 @@
 ---
 slug: "thk-mjones"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1592"
 type: "مفكر"
 level: "متوسط"
 title: "ماكسويل جونز"

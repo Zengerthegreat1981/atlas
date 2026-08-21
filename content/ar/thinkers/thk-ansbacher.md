@@ -1,6 +1,6 @@
 ---
 slug: "thk-ansbacher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0698"
 type: "مفكر"
 level: "متقدم"
 title: "هاينز ل. آنسْباخِر"

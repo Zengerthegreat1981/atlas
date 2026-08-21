@@ -1,6 +1,6 @@
 ---
 slug: "wrk-intercultural-philosophy-wimmer"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0361"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

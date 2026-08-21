@@ -1,6 +1,6 @@
 ---
 slug: "ins-neo-pi-r"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0056"
 type: "أداة قياس"
 level: "متقدم"
 title: "قائمة الشخصية المنقحة للخمسة الكبار"

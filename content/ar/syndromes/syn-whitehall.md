@@ -1,6 +1,6 @@
 ---
 slug: "syn-whitehall"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0187"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

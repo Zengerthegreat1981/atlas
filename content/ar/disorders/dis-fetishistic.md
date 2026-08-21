@@ -1,6 +1,6 @@
 ---
 slug: "dis-fetishistic"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0049"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الفيتشية (Fetishistic Disorder)"

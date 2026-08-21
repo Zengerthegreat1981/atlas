@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-socratic-questioning"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0087"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التساؤل السقراطي"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-dysexecutive"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0054"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-titchener-s-repetition"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0032"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تكرار تيتشنر"

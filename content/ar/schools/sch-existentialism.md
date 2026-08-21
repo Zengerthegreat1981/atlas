@@ -1,6 +1,6 @@
 ---
 slug: "sch-existentialism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0105"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

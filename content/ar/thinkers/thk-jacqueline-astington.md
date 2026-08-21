@@ -1,6 +1,6 @@
 ---
 slug: "thk-jacqueline-astington"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1214"
 type: "مفكر"
 level: "متوسط"
 title: "جاكلين أستنغتون"

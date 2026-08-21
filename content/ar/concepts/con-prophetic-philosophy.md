@@ -1,6 +1,6 @@
 ---
 slug: "con-prophetic-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0687"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

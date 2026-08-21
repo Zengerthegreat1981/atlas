@@ -1,6 +1,6 @@
 ---
 slug: "thk-sunzi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2005"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

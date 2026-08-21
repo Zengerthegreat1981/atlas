@@ -1,6 +1,6 @@
 ---
 slug: "br-biodynamic-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0117"
 type: "تيار"
 level: "متوسط"
 title: "علم النفس البيودينامي والتدليك الحركي (بويسن)"

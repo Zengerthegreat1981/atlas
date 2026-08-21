@@ -1,6 +1,6 @@
 ---
 slug: "tec-stop-start-technique"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0310"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية التوقف والبدء (Stop-Start)"

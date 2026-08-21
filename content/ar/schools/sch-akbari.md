@@ -1,6 +1,6 @@
 ---
 slug: "sch-akbari"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0022"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

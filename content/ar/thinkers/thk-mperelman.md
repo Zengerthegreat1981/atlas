@@ -1,6 +1,6 @@
 ---
 slug: "thk-mperelman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1623"
 type: "مفكر"
 level: "متقدم"
 title: "مارشال بِرِلمان"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-crenshaw"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0859"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

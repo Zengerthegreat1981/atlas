@@ -1,6 +1,6 @@
 ---
 slug: "con-supramental"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0759"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

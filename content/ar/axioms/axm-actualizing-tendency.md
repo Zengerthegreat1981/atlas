@@ -1,6 +1,6 @@
 ---
 slug: "axm-actualizing-tendency"
-id: "[DRAFT-UNKNOWN]"
+id: "AXM-0002"
 type: "بديهية/مبدأ تأسيسي"
 level: "مبتدئ"
 title: "مبدأ نزعة التحقق الذاتي"

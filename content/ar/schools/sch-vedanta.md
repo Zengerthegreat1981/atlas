@@ -1,6 +1,6 @@
 ---
 slug: "sch-vedanta"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0320"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

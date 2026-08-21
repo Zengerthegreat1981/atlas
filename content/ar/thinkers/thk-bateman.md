@@ -1,6 +1,6 @@
 ---
 slug: "thk-bateman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0733"
 type: "مفكر"
 level: "متقدم"
 title: "أنتوني بيتمان"

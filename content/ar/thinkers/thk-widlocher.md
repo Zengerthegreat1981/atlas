@@ -1,6 +1,6 @@
 ---
 slug: "thk-widlocher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2103"
 type: "مفكر"
 level: "متوسط"
 title: "دانييل فيدلوشِر"

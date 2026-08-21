@@ -1,6 +1,6 @@
 ---
 slug: "thk-hsolomon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1171"
 type: "مفكر"
 level: "متقدم"
 title: "هيستر م. سولومون"

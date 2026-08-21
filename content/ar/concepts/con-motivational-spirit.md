@@ -1,6 +1,6 @@
 ---
 slug: "con-motivational-spirit"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0644"
 type: "مفهوم"
 level: "مبتدئ"
 title: "روح المقابلة التحفيزية (MI Spirit)"

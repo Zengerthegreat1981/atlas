@@ -1,6 +1,6 @@
 ---
 slug: "stu-terman-gifted-longitudinal"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0107"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة تيرمان الطولية للعبقرية والموهبة عبر دورة الحياة"

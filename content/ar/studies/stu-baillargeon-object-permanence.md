@@ -1,6 +1,6 @@
 ---
 slug: "stu-baillargeon-object-permanence"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0009"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات بايارغيون حول ديمومة الشيء عند الرضع ونموذج انتهاك التوقع"

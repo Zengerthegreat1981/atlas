@@ -1,6 +1,6 @@
 ---
 slug: "wrk-whole-brain-child"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0488"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

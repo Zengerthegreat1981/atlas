@@ -1,6 +1,6 @@
 ---
 slug: "wrk-behavior-comparative-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0250"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "السلوك: مقدمة في علم النفس المقارن"

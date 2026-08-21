@@ -1,6 +1,6 @@
 ---
 slug: "thk-mazdak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1530"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

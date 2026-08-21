@@ -1,6 +1,6 @@
 ---
 slug: "br-predictive-processing-informed"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0186"
 type: "تيار"
 level: "متقدم"
 title: "العلاج المستنير بالمعالجة التوقعية"

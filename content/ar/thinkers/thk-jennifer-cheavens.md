@@ -1,6 +1,6 @@
 ---
 slug: "thk-jennifer-cheavens"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1266"
 type: "مفكر"
 level: "متقدم"
 title: "جينيفر تشيڤنز"

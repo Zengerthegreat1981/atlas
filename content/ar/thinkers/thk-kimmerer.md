@@ -1,6 +1,6 @@
 ---
 slug: "thk-kimmerer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1399"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

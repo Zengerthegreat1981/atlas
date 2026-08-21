@@ -1,6 +1,6 @@
 ---
 slug: "wrk-mind-and-brain"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0391"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "العقل والدماغ: المرونة العصبية وقوة الإرادة الذهنية"

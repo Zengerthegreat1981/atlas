@@ -1,6 +1,6 @@
 ---
 slug: "thk-heysenck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1147"
 type: "مفكر"
 level: "متقدم"
 title: "هَانز آيسنك"

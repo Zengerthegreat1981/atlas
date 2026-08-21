@@ -1,6 +1,6 @@
 ---
 slug: "ins-life-attitude-profile-lap-r"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0048"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)"

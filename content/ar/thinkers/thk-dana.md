@@ -1,6 +1,6 @@
 ---
 slug: "thk-dana"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0884"
 type: "مفكر"
 level: "متوسط"
 title: "ديب دانا"

@@ -1,6 +1,6 @@
 ---
 slug: "con-political-psyche"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0675"
 type: "مفهوم"
 level: "متقدم"
 title: "النفس السياسية والنفس التعددية"

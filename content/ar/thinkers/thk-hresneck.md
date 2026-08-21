@@ -1,6 +1,6 @@
 ---
 slug: "thk-hresneck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1169"
 type: "مفكر"
 level: "متوسط"
 title: "هيلين رِسنِك-سانّيس"

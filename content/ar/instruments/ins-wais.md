@@ -1,6 +1,6 @@
 ---
 slug: "ins-wais"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0086"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس وكسلر لذكاء البالغين"

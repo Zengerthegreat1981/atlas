@@ -1,6 +1,6 @@
 ---
 slug: "con-political-liberalism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0674"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

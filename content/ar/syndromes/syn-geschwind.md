@@ -1,6 +1,6 @@
 ---
 slug: "syn-geschwind"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0074"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

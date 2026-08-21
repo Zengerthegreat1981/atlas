@@ -1,6 +1,6 @@
 ---
 slug: "con-fa"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0543"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

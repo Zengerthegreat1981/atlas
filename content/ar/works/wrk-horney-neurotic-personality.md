@@ -1,6 +1,6 @@
 ---
 slug: "wrk-horney-neurotic-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0346"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الشخصية العصابية في عصرنا (The Neurotic Personality of Our Time)"

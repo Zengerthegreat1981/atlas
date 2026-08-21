@@ -1,6 +1,6 @@
 ---
 slug: "con-gestell"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0570"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

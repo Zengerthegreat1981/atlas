@@ -1,6 +1,6 @@
 ---
 slug: "con-cultural-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0496"
 type: "مفهوم"
 level: "متقدم"
 title: "المركّب الثقافي والظلال الجمعية"

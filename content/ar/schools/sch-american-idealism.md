@@ -1,6 +1,6 @@
 ---
 slug: "sch-american-idealism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0024"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

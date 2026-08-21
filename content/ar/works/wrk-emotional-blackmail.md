@@ -1,6 +1,6 @@
 ---
 slug: "wrk-emotional-blackmail"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0292"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

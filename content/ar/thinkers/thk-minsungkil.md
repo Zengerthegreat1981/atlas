@@ -1,6 +1,6 @@
 ---
 slug: "thk-minsungkil"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1586"
 type: "مفكر"
 level: "متقدم"
 title: "مين سونغ-كيل"

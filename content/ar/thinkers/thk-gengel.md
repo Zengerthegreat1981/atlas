@@ -1,6 +1,6 @@
 ---
 slug: "thk-gengel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1082"
 type: "مفكر"
 level: "متقدم"
 title: "جورج إنغل"

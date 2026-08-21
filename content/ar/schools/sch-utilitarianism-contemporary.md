@@ -1,6 +1,6 @@
 ---
 slug: "sch-utilitarianism-contemporary"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0316"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

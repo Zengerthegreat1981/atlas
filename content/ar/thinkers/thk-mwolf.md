@@ -1,6 +1,6 @@
 ---
 slug: "thk-mwolf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1655"
 type: "مفكر"
 level: "متقدم"
 title: "مونتروز م. وولف"

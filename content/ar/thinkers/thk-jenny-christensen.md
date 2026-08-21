@@ -1,6 +1,6 @@
 ---
 slug: "thk-jenny-christensen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1269"
 type: "مفكر"
 level: "متقدم"
 title: "جيني كريستنسن"

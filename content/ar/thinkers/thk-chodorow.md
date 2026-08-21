@@ -1,6 +1,6 @@
 ---
 slug: "thk-chodorow"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0841"
 type: "مفكر"
 level: "متوسط"
 title: "نانسي تشودورو"

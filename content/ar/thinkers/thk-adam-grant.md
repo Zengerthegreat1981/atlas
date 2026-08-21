@@ -1,6 +1,6 @@
 ---
 slug: "thk-adam-grant"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0642"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "con-somatic-experiencing-popular"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0745"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

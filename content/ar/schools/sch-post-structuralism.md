@@ -1,6 +1,6 @@
 ---
 slug: "sch-post-structuralism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0250"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

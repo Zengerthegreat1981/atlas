@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-giving-and-receiving-feedback"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0109"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "إعطاء وتلقّي الملاحظات"

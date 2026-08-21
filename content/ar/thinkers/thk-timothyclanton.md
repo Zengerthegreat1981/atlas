@@ -1,6 +1,6 @@
 ---
 slug: "thk-timothyclanton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2039"
 type: "مفكر"
 level: "متوسط"
 title: "تيموثي كلانتون"

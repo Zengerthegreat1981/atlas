@@ -1,6 +1,6 @@
 ---
 slug: "sch-engaged-buddhism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0096"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

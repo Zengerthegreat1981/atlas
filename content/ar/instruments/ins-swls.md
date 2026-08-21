@@ -1,6 +1,6 @@
 ---
 slug: "ins-swls"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0081"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "مقياس الرضا عن الحياة لدينر"

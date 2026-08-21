@@ -1,6 +1,6 @@
 ---
 slug: "thk-ge-hong"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1080"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

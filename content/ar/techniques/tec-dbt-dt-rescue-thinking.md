@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-rescue-thinking"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0153"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التفكير الإنقاذي"

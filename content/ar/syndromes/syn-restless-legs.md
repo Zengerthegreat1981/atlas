@@ -1,6 +1,6 @@
 ---
 slug: "syn-restless-legs"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0149"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

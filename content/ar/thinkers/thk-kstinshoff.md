@@ -1,6 +1,6 @@
 ---
 slug: "thk-kstinshoff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1422"
 type: "مفكر"
 level: "متوسط"
 title: "كلاوس شتينشوف"

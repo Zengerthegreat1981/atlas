@@ -1,6 +1,6 @@
 ---
 slug: "tec-person-centered-core-conditions"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0268"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الشروط اللازمة والكافية للعلاج المتمركز حول العميل"

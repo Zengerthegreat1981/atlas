@@ -1,6 +1,6 @@
 ---
 slug: "thk-kogan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1413"
 type: "مفكر"
 level: "متقدم"
 title: "ريتشارد كوغان"

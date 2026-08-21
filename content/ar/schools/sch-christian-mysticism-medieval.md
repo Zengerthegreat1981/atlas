@@ -1,6 +1,6 @@
 ---
 slug: "sch-christian-mysticism-medieval"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0063"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

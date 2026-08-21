@@ -1,6 +1,6 @@
 ---
 slug: "sch-abhidharma"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0001"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

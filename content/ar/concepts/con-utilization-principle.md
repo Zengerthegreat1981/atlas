@@ -1,6 +1,6 @@
 ---
 slug: "con-utilization-principle"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0780"
 type: "مفهوم"
 level: "متقدم"
 title: "مبدأ الاستفادة"

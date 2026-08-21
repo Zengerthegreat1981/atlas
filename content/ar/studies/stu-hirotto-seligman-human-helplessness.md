@@ -1,6 +1,6 @@
 ---
 slug: "stu-hirotto-seligman-human-helplessness"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0049"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة هيروتو وسليجمان حول العجز المُتعلَّم لدى البشر وتأثير غياب التحكم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-beh-role-playing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0079"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تمثيل الأدوار"

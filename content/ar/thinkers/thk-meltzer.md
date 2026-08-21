@@ -1,6 +1,6 @@
 ---
 slug: "thk-meltzer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1555"
 type: "مفكر"
 level: "متقدم"
 title: "دونالد ميلتزر"

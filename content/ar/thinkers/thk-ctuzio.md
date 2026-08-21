@@ -1,6 +1,6 @@
 ---
 slug: "thk-ctuzio"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0871"
 type: "مفكر"
 level: "متوسط"
 title: "كارلوس توزيو"

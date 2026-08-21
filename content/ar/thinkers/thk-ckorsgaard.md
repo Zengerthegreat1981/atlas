@@ -1,6 +1,6 @@
 ---
 slug: "thk-ckorsgaard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0843"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

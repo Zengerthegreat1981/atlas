@@ -1,6 +1,6 @@
 ---
 slug: "thk-dorange"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0944"
 type: "مفكر"
 level: "متقدم"
 title: "دومينيك م. أَورَنج"

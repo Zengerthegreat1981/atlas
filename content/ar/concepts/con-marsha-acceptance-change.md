@@ -1,6 +1,6 @@
 ---
 slug: "con-marsha-acceptance-change"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0631"
 type: "مفهوم"
 level: "متوسط"
 title: "جدلية القبول والتغيير في العلاج الزوجي"

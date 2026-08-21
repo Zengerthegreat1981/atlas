@@ -1,6 +1,6 @@
 ---
 slug: "wrk-road-less-traveled"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0440"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

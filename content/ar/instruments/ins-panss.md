@@ -1,6 +1,6 @@
 ---
 slug: "ins-panss"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0060"
 type: "أداة قياس"
 part: "psychology"
 level: "متقدم"

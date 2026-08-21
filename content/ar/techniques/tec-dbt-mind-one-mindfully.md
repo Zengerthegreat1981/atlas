@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-one-mindfully"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0188"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التركيز على شيء واحد"

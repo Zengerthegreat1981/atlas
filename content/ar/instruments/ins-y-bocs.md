@@ -1,6 +1,6 @@
 ---
 slug: "ins-y-bocs"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0094"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس ييل-براون للوسواس القهري"

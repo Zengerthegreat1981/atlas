@@ -1,6 +1,6 @@
 ---
 slug: "thk-gweber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1125"
 type: "مفكر"
 level: "متوسط"
 title: "غونتهارد فيبر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jose-arsenio"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1332"
 type: "مفكر"
 level: "متوسط"
 title: "خوسيه أرسينيو"

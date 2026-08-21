@@ -1,6 +1,6 @@
 ---
 slug: "tec-poetry-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0271"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالشعر والتعبير الأدبي"

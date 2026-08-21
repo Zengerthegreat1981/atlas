@@ -1,6 +1,6 @@
 ---
 slug: "wrk-todes-body-and-world"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0471"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الجسد والعالم"

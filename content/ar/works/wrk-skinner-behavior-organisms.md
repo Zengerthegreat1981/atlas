@@ -1,6 +1,6 @@
 ---
 slug: "wrk-skinner-behavior-organisms"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0455"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "سلوك الكائن الحي (The Behavior of Organisms)"

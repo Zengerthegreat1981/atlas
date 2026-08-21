@@ -1,6 +1,6 @@
 ---
 slug: "evt-egyptian-psychological-association-1948"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0035"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "تأسيس الجمعية المصرية للدراسات النفسية وأول قسم أكاديمي لعلم النفس بمصر"

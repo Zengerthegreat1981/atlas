@@ -1,6 +1,6 @@
 ---
 slug: "sch-neopragmatism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0217"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

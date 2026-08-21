@@ -1,6 +1,6 @@
 ---
 slug: "thk-wboechat"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2094"
 type: "مفكر"
 level: "متوسط"
 title: "فالتَر بُويْتشات"

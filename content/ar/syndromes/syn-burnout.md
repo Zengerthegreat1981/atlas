@@ -1,6 +1,6 @@
 ---
 slug: "syn-burnout"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0029"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

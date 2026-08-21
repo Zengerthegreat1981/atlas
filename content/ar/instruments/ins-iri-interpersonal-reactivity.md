@@ -1,6 +1,6 @@
 ---
 slug: "ins-iri-interpersonal-reactivity"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0047"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

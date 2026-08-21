@@ -1,6 +1,6 @@
 ---
 slug: "br-discernment-counseling"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0139"
 type: "تيار"
 level: "متوسط"
 title: "الإرشاد التمييزي (Discernment Counseling)"

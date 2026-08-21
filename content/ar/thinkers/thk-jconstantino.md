@@ -1,6 +1,6 @@
 ---
 slug: "thk-jconstantino"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1257"
 type: "مفكر"
 level: "متوسط"
 title: "جون كونستانتينو"

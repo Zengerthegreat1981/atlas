@@ -1,6 +1,6 @@
 ---
 slug: "thk-ldesalvo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1445"
 type: "مفكر"
 level: "متوسط"
 title: "لويز دي سالفو"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-bdi-ii"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0013"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "مقياس بيك للاكتئاب - الإصدار الثاني"

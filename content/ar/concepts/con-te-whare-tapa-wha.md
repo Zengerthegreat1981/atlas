@@ -1,6 +1,6 @@
 ---
 slug: "con-te-whare-tapa-wha"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0766"
 type: "مفهوم"
 level: "مبتدئ"
 title: "تي-فاري-تابا-فا (Te Whare Tapa Whā)"

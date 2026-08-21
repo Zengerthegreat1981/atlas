@@ -1,6 +1,6 @@
 ---
 slug: "thk-gdiaz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1079"
 type: "مفكر"
 level: "متوسط"
 title: "خينا دياث"

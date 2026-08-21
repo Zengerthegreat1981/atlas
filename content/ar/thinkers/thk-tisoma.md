@@ -1,6 +1,6 @@
 ---
 slug: "thk-tisoma"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2040"
 type: "مفكر"
 level: "مبتدئ"
 title: "تاكيشي إيسومه"

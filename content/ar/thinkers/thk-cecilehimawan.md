@@ -1,6 +1,6 @@
 ---
 slug: "thk-cecilehimawan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0829"
 type: "مفكر"
 level: "متوسط"
 title: "سيسيل هيموان"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rice"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1809"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت رايس"

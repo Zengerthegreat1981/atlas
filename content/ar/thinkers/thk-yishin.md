@@ -1,6 +1,6 @@
 ---
 slug: "thk-yishin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2136"
 type: "مفكر"
 level: "متوسط"
 title: "يوشيموتو إيشين"

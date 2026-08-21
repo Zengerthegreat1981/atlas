@@ -1,6 +1,6 @@
 ---
 slug: "con-grief"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0577"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الحزن كمسار للتفريد"

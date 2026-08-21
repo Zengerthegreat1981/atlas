@@ -1,6 +1,6 @@
 ---
 slug: "thk-matthew-walker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1526"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

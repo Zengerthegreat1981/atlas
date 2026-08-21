@@ -1,6 +1,6 @@
 ---
 slug: "thk-andrew-barnes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0694"
 type: "مفكر"
 level: "متوسط"
 title: "إيميلي بلاك"

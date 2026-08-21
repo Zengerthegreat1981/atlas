@@ -1,6 +1,6 @@
 ---
 slug: "dbt-feminist-universalism-vs-particularism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0326"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

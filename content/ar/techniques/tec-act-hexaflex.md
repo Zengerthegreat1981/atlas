@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-hexaflex"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0033"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)"

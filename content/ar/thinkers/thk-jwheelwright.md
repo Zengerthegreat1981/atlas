@@ -1,6 +1,6 @@
 ---
 slug: "thk-jwheelwright"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1362"
 type: "مفكر"
 level: "متوسط"
 title: "جوزيف ب. ويلرايت"

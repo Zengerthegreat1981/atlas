@@ -1,6 +1,6 @@
 ---
 slug: "con-trinity-doctrine"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0774"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

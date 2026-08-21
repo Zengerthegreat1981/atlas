@@ -1,6 +1,6 @@
 ---
 slug: "thk-tgrisso"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2031"
 type: "مفكر"
 level: "متوسط"
 title: "توماس غريسو"

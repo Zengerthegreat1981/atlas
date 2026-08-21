@@ -1,6 +1,6 @@
 ---
 slug: "thk-stanley-milgram"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1990"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

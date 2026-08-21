@@ -1,6 +1,6 @@
 ---
 slug: "thk-handerson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1127"
 type: "مفكر"
 level: "متوسط"
 title: "هارلين أندرسون"

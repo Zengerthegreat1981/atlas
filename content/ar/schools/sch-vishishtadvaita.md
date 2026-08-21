@@ -1,6 +1,6 @@
 ---
 slug: "sch-vishishtadvaita"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0326"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

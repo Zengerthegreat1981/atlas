@@ -1,6 +1,6 @@
 ---
 slug: "syn-ganser"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0072"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

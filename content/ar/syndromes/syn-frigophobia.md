@@ -1,6 +1,6 @@
 ---
 slug: "syn-frigophobia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0071"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

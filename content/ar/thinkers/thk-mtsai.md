@@ -1,6 +1,6 @@
 ---
 slug: "thk-mtsai"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1639"
 type: "مفكر"
 level: "متقدم"
 title: "مافيس تساي"

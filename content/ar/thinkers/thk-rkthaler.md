@@ -1,6 +1,6 @@
 ---
 slug: "thk-rkthaler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1822"
 type: "مفكر"
 level: "متقدم"
 title: "ريتشارد هـ. ثالر"

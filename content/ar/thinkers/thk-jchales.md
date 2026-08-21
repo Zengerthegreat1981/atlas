@@ -1,6 +1,6 @@
 ---
 slug: "thk-jchales"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1252"
 type: "مفكر"
 level: "متوسط"
 title: "جون تشارلز"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-pasmo"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0133"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

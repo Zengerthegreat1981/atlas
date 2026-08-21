@@ -1,6 +1,6 @@
 ---
 slug: "wrk-loss-sadness-depression"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0377"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الفقدان: الحزن والاكتئاب (المجلد الثالث من التعلق والفقدان)"

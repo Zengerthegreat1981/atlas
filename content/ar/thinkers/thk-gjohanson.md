@@ -1,6 +1,6 @@
 ---
 slug: "thk-gjohanson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1093"
 type: "مفكر"
 level: "متوسط"
 title: "غريغوري جوهانسون"

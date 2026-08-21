@@ -1,6 +1,6 @@
 ---
 slug: "thk-edferguson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0978"
 type: "مفكر"
 level: "متوسط"
 title: "إيفا درايكرز فيرغوسون"

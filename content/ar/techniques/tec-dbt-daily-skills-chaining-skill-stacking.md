@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-daily-skills-chaining-skill-stacking"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0145"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تسلسل المهارات (Skill Stacking)"

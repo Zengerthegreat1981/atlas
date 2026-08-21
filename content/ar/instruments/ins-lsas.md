@@ -1,6 +1,6 @@
 ---
 slug: "ins-lsas"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0049"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس ليبوفيتز للقلق الاجتماعي"

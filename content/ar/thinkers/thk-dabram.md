@@ -1,6 +1,6 @@
 ---
 slug: "thk-dabram"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0878"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد أبرام"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-factitious"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0046"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب مفتعل (Factitious Disorder)"

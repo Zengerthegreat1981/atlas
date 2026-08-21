@@ -1,6 +1,6 @@
 ---
 slug: "thk-petersmith"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1729"
 type: "مفكر"
 level: "متوسط"
 title: "بيتر سميث"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-afropessimism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0017"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-julierawlins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1356"
 type: "مفكر"
 level: "متوسط"
 title: "جولي رولينز"

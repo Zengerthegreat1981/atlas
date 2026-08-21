@@ -1,6 +1,6 @@
 ---
 slug: "evt-icd-6-mental-disorders-1948"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0044"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "إدراج قسم الاضطرابات النفسية لأول مرة في التصنيف الدولي للأمراض ICD-6"

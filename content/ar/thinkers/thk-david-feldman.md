@@ -1,6 +1,6 @@
 ---
 slug: "thk-david-feldman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0891"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد فيلدمان"

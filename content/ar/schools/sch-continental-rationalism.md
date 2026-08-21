@@ -1,6 +1,6 @@
 ---
 slug: "sch-continental-rationalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0073"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

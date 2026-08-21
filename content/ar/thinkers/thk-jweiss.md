@@ -1,6 +1,6 @@
 ---
 slug: "thk-jweiss"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1360"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف وايس"

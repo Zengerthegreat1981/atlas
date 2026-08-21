@@ -1,6 +1,6 @@
 ---
 slug: "thk-fain"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1025"
 type: "مفكر"
 level: "متوسط"
 title: "ميشيل فان"

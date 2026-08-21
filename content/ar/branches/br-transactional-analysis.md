@@ -1,6 +1,6 @@
 ---
 slug: "br-transactional-analysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0223"
 type: "تيار"
 level: "مبتدئ"
 title: "تحليل المعاملات (TA)"

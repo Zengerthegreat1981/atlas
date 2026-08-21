@@ -1,6 +1,6 @@
 ---
 slug: "con-pure-experience-nishida"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0694"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kholzkamp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1396"
 type: "مفكر"
 level: "متقدم"
 title: "كلاوس هولتسكامب"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-hypno-analysis"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0232"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التنويم التحليلي (Hypno-analysis)"

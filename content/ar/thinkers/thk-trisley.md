@@ -1,6 +1,6 @@
 ---
 slug: "thk-trisley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2056"
 type: "مفكر"
 level: "متقدم"
 title: "تود ر. ريسلي"

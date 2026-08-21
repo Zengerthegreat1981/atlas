@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-behavioral-commitment-exercises"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0018"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تمارين الالتزام السلوكي"

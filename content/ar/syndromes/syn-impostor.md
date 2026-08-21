@@ -1,6 +1,6 @@
 ---
 slug: "syn-impostor"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0091"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

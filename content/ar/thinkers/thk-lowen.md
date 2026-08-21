@@ -1,6 +1,6 @@
 ---
 slug: "thk-lowen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1477"
 type: "مفكر"
 level: "متوسط"
 title: "ألكسندر لوين"

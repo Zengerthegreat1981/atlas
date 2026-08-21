@@ -1,6 +1,6 @@
 ---
 slug: "wrk-minderwertigkeit-organen"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0392"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "دراسة في قصور الأعضاء"

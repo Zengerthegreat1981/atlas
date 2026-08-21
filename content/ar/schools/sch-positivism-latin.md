@@ -1,6 +1,6 @@
 ---
 slug: "sch-positivism-latin"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0248"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

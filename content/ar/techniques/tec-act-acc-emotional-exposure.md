@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-emotional-exposure"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0011"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التعرض الانفعالي"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-walters-social-modeling-inhibition"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0112"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسات والترز وباركي حول النمذجة الاجتماعية وتأثيرها على مقاومة الإغراء"

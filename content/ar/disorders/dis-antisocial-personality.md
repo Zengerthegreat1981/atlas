@@ -1,6 +1,6 @@
 ---
 slug: "dis-antisocial-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0012"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الشخصية المعادية للمجتمع"

@@ -1,6 +1,6 @@
 ---
 slug: "br-psychosynthesis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0195"
 type: "تيار"
 level: "متوسط"
 title: "التركيب النفسي (أساجيولي)"

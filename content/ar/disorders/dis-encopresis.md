@@ -1,6 +1,6 @@
 ---
 slug: "dis-encopresis"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0041"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "التبرّز اللاإرادي (Encopresis)"

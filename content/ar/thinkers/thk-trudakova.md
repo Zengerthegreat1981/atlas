@@ -1,6 +1,6 @@
 ---
 slug: "thk-trudakova"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2059"
 type: "مفكر"
 level: "متوسط"
 title: "تاتيانا روداكوفا"

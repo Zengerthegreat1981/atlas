@@ -1,6 +1,6 @@
 ---
 slug: "sch-sophistry"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0295"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "con-standpoint-epistemology"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0750"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

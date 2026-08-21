@@ -1,6 +1,6 @@
 ---
 slug: "rel-transpersonal-humanistic"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0151"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-hwiyoro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1181"
 type: "مفكر"
 level: "متوسط"
 title: "هيكتور ويورو"

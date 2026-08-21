@@ -1,6 +1,6 @@
 ---
 slug: "wrk-aron-opium-of-intellectuals"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0235"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "أفيون المثقفين"

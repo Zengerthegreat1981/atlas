@@ -1,6 +1,6 @@
 ---
 slug: "sch-conceptualism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0070"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

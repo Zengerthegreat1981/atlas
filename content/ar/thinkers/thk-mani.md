@@ -1,6 +1,6 @@
 ---
 slug: "thk-mani"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1498"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

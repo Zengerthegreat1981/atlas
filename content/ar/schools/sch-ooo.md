@@ -1,6 +1,6 @@
 ---
 slug: "sch-ooo"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0229"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

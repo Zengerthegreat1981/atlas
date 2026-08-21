@@ -1,6 +1,6 @@
 ---
 slug: "ins-mbti"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0052"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "مؤشر مايرز-بريجز للأنماط"

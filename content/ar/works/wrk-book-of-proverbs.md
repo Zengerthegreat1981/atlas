@@ -1,6 +1,6 @@
 ---
 slug: "wrk-book-of-proverbs"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0259"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

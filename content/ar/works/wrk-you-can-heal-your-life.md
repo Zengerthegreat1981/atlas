@@ -1,6 +1,6 @@
 ---
 slug: "wrk-you-can-heal-your-life"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0493"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

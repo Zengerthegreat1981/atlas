@@ -1,6 +1,6 @@
 ---
 slug: "thk-fvolkmar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1062"
 type: "مفكر"
 level: "متوسط"
 title: "فريد فولكمار"

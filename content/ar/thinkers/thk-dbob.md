@@ -1,6 +1,6 @@
 ---
 slug: "thk-dbob"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0899"
 type: "مفكر"
 level: "مبتدئ"
 title: "د. بوب (روبرت هولبروك سميث)"

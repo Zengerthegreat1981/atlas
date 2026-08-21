@@ -1,6 +1,6 @@
 ---
 slug: "syn-nomophobia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0125"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

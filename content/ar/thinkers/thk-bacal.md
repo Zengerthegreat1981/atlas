@@ -1,6 +1,6 @@
 ---
 slug: "thk-bacal"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0724"
 type: "مفكر"
 level: "متقدم"
 title: "هوارد باكال"

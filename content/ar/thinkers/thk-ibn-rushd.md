@@ -1,6 +1,6 @@
 ---
 slug: "thk-ibn-rushd"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1186"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

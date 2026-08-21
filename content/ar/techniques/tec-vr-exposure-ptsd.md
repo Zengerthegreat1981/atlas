@@ -1,6 +1,6 @@
 ---
 slug: "tec-vr-exposure-ptsd"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0328"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التعرض بالواقع الافتراضي لـPTSD"

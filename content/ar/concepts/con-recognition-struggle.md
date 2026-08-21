@@ -1,6 +1,6 @@
 ---
 slug: "con-recognition-struggle"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0705"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

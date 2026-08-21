@@ -1,6 +1,6 @@
 ---
 slug: "thk-hgoolishian"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1149"
 type: "مفكر"
 level: "متوسط"
 title: "هاري غوليشيان"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-good-samaritan-darley-batson"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0043"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة السامري الصالح لدارلي وباتسون حول ضغط الوقت والمساعدة"

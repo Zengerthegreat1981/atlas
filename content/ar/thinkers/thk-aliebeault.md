@@ -1,6 +1,6 @@
 ---
 slug: "thk-aliebeault"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0673"
 type: "مفكر"
 level: "مبتدئ"
 title: "أمبرواز ليبو"

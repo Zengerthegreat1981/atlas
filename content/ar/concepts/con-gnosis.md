@@ -1,6 +1,6 @@
 ---
 slug: "con-gnosis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0572"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

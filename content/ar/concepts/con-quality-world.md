@@ -1,6 +1,6 @@
 ---
 slug: "con-quality-world"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0697"
 type: "مفهوم"
 level: "متوسط"
 title: "العالم النوعي (Quality World)"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-dialectical-thinking"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0164"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "التفكير الجدلي (الديالكتيكي)"

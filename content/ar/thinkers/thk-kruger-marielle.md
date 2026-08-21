@@ -1,6 +1,6 @@
 ---
 slug: "thk-kruger-marielle"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1420"
 type: "مفكر"
 level: "متوسط"
 title: "مارييل كروغر"

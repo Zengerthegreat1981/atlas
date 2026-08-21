@@ -1,6 +1,6 @@
 ---
 slug: "thk-ystavrakakis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2142"
 type: "مفكر"
 level: "متوسط"
 title: "يانيس ستافراكاكيس"

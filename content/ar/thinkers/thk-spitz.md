@@ -1,6 +1,6 @@
 ---
 slug: "thk-spitz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1976"
 type: "مفكر"
 level: "متقدم"
 title: "رينيه شبيتز"

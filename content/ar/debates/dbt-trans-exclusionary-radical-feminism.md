@@ -1,6 +1,6 @@
 ---
 slug: "dbt-trans-exclusionary-radical-feminism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0348"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

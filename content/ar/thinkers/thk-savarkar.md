@@ -1,6 +1,6 @@
 ---
 slug: "thk-savarkar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1907"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

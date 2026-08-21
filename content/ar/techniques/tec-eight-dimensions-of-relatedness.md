@@ -1,6 +1,6 @@
 ---
 slug: "tec-eight-dimensions-of-relatedness"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0208"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الأبعاد الثمانية للارتباط والصلة الإنسانية"

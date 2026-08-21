@@ -1,6 +1,6 @@
 ---
 slug: "con-dissociation"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2158"
 type: "مفكر"
 level: "متوسط"
 title: "الانفصال (Dissociation)"

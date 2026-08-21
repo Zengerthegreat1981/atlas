@@ -1,6 +1,6 @@
 ---
 slug: "wrk-intelligenzprufungen-menschenaffen"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0360"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "اختبارات ذكاء القردة العليا"

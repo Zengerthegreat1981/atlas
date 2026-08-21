@@ -1,6 +1,6 @@
 ---
 slug: "sch-nyingma"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0226"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

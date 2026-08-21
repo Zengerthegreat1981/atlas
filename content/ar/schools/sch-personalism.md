@@ -1,6 +1,6 @@
 ---
 slug: "sch-personalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0235"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

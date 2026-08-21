@@ -1,6 +1,6 @@
 ---
 slug: "con-addiction"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0427"
 type: "مفهوم"
 level: "متوسط"
 title: "الإدمان والبحث الروحي المشوه"

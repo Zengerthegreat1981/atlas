@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-pres-noticing-without-judgment"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0038"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الملاحظة دون حكم"

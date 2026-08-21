@@ -1,6 +1,6 @@
 ---
 slug: "thk-reik"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1798"
 type: "مفكر"
 level: "متوسط"
 title: "تيودور رايك"

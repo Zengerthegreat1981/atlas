@@ -1,6 +1,6 @@
 ---
 slug: "thk-wstekel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2127"
 type: "مفكر"
 level: "متوسط"
 title: "فيلهلم سْتِكِل"

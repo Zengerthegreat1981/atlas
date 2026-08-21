@@ -1,6 +1,6 @@
 ---
 slug: "stu-garcia-taste-aversion"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0041"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب جارسيا وكويلينغ في النفور من الطعم والجاهزية البيولوجية"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-ryff-psychological-wellbeing"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0068"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقاييس ريف للرفاه النفسي سداسية الأبعاد"

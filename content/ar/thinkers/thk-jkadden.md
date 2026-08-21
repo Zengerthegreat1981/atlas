@@ -1,6 +1,6 @@
 ---
 slug: "thk-jkadden"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1296"
 type: "مفكر"
 level: "متوسط"
 title: "كاثلين كاري"

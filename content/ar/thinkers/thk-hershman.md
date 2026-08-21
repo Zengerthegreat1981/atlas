@@ -1,6 +1,6 @@
 ---
 slug: "thk-hershman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1144"
 type: "مفكر"
 level: "متقدم"
 title: "دينا هيرشمان"

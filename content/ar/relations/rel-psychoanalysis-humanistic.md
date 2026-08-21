@@ -1,6 +1,6 @@
 ---
 slug: "rel-psychoanalysis-humanistic"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0143"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي"

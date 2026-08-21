@@ -1,6 +1,6 @@
 ---
 slug: "thk-hstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1174"
 type: "مفكر"
 level: "متقدم"
 title: "هنري ت. ستاين"

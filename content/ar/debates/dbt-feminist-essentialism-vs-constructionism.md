@@ -1,6 +1,6 @@
 ---
 slug: "dbt-feminist-essentialism-vs-constructionism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0325"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

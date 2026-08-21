@@ -1,6 +1,6 @@
 ---
 slug: "thk-eallen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0968"
 type: "مفكر"
 level: "متوسط"
 title: "إليزابيث ألين"

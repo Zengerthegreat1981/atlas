@@ -1,6 +1,6 @@
 ---
 slug: "evt-false-memory-syndrome-foundation-1992"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0038"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس مؤسسة متلازمة الذاكرة الزائفة واندلاع حروب الذاكرة في التسعينيات"

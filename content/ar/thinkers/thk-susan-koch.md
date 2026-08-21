@@ -1,6 +1,6 @@
 ---
 slug: "thk-susan-koch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2008"
 type: "مفكر"
 level: "متوسط"
 title: "سوزان كوخ"

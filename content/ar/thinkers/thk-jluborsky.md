@@ -1,6 +1,6 @@
 ---
 slug: "thk-jluborsky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1307"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف لوبورسكي"

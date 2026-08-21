@@ -1,6 +1,6 @@
 ---
 slug: "thk-anselm-canterbury"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0699"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

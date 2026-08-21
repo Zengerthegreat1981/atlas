@@ -1,6 +1,6 @@
 ---
 slug: "thk-mking"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1596"
 type: "مفكر"
 level: "متوسط"
 title: "ميليسا كينغ"

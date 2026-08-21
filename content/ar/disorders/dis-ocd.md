@@ -1,6 +1,6 @@
 ---
 slug: "dis-ocd"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0072"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الوسواس القهري"

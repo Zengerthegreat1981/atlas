@@ -1,6 +1,6 @@
 ---
 slug: "thk-akelman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0662"
 type: "مفكر"
 level: "متوسط"
 title: "أَميت ميمن (أَميت كلمان)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-twolff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2070"
 type: "مفكر"
 level: "متقدم"
 title: "توني فولف"

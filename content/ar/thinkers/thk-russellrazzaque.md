@@ -1,6 +1,6 @@
 ---
 slug: "thk-russellrazzaque"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1884"
 type: "مفكر"
 level: "متقدم"
 title: "راسل رزّاق"

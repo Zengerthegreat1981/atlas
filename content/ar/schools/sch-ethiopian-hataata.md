@@ -1,6 +1,6 @@
 ---
 slug: "sch-ethiopian-hataata"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0100"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

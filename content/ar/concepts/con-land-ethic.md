@@ -1,6 +1,6 @@
 ---
 slug: "con-land-ethic"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0617"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

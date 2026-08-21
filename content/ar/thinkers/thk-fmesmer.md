@@ -1,6 +1,6 @@
 ---
 slug: "thk-fmesmer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1043"
 type: "مفكر"
 level: "متوسط"
 title: "فرانتس أنطون ميسمر"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-van-gogh-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0181"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

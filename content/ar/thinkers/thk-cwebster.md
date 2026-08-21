@@ -1,6 +1,6 @@
 ---
 slug: "thk-cwebster"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0873"
 type: "مفكر"
 level: "متقدم"
 title: "كريستوفر ويبستر"

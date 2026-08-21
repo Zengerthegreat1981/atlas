@@ -1,6 +1,6 @@
 ---
 slug: "con-experiential-avoidance"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0540"
 type: "مفهوم"
 level: "متوسط"
 title: "التجنب التجريبي"

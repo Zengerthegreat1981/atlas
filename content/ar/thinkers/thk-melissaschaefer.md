@@ -1,6 +1,6 @@
 ---
 slug: "thk-melissaschaefer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1554"
 type: "مفكر"
 level: "متوسط"
 title: "ميليسا شيفر"

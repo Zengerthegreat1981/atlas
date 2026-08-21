@@ -1,6 +1,6 @@
 ---
 slug: "sch-phil-mind-analytic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0242"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

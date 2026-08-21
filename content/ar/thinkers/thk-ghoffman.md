@@ -1,6 +1,6 @@
 ---
 slug: "thk-ghoffman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1088"
 type: "مفكر"
 level: "متوسط"
 title: "غلين هوفمان"

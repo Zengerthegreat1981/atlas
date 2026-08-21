@@ -1,6 +1,6 @@
 ---
 slug: "thk-rresnick"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1868"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت رِسنيك"

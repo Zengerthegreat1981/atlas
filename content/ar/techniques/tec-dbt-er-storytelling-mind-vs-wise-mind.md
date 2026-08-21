@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-storytelling-mind-vs-wise-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0169"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "عقل القصص مقابل العقل الحكيم"

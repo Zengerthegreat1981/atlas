@@ -1,6 +1,6 @@
 ---
 slug: "ins-woodcock-johnson"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0093"
 type: "أداة قياس"
 level: "متقدم"
 title: "بطارية وودكوك-جونسون للاختبارات الإدراكية والمعرفية"

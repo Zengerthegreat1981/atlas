@@ -1,6 +1,6 @@
 ---
 slug: "thk-mchen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1542"
 type: "مفكر"
 level: "متوسط"
 title: "مارفن تشِن"

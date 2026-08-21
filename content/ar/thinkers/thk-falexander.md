@@ -1,6 +1,6 @@
 ---
 slug: "thk-falexander"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1028"
 type: "مفكر"
 level: "متوسط"
 title: "فريدريك ماتياس ألكسندر"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-drapetomania-cartwright-1851"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0026"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "صياغة صموئيل كارترايت لتشخيص درابتومانيا ومرضنة هروب العبيد في الجنوب الأمريكي"

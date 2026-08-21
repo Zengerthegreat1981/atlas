@@ -1,6 +1,6 @@
 ---
 slug: "br-cb-sex-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0124"
 type: "تيار"
 level: "متوسط"
 title: "العلاج الجنسي المعرفي السلوكي"

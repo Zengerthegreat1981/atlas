@@ -1,6 +1,6 @@
 ---
 slug: "syn-hypervigilance"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0089"
 type: "متلازمة"
 level: "مبتدئ"
 title: "فرط اليقظة"

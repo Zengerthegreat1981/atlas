@@ -1,6 +1,6 @@
 ---
 slug: "thk-jlchirinos"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1302"
 type: "مفكر"
 level: "متوسط"
 title: "خوسيه لويس تشيرينوس"

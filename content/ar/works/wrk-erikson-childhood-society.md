@@ -1,6 +1,6 @@
 ---
 slug: "wrk-erikson-childhood-society"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0300"
 type: "عمل / كتاب"
 level: "مبتدئ"
 title: "طفولة وجماعة (Childhood and Society)"

@@ -1,6 +1,6 @@
 ---
 slug: "con-parkinsons-law"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0669"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

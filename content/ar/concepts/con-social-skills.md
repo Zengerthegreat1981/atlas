@@ -1,6 +1,6 @@
 ---
 slug: "con-social-skills"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0744"
 type: "مفهوم"
 level: "متوسط"
 title: "المهارات الاجتماعية (تدريب)"

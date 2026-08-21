@@ -1,6 +1,6 @@
 ---
 slug: "con-blind-will-to-life"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0462"
 type: "مفهوم"
 level: "متقدم"
 title: "إرادة الحياة العمياء"

@@ -1,6 +1,6 @@
 ---
 slug: "br-expressive-arts-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0145"
 type: "تيار"
 level: "مبتدئ"
 title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)"

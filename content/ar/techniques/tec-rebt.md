@@ -1,6 +1,6 @@
 ---
 slug: "tec-rebt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0288"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج العقلاني الانفعالي السلوكي (REBT)"

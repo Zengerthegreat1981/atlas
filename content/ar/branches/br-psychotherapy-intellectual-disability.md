@@ -1,6 +1,6 @@
 ---
 slug: "br-psychotherapy-intellectual-disability"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0196"
 type: "تيار"
 level: "متوسط"
 title: "العلاج النفسي للإعاقة الذهنية"

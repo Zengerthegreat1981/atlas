@@ -1,6 +1,6 @@
 ---
 slug: "thk-tfogarty"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2029"
 type: "مفكر"
 level: "متوسط"
 title: "توماس فوغارتي"

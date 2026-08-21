@@ -1,6 +1,6 @@
 ---
 slug: "evt-hinckley-verdict-insanity-reform-1984"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0041"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تبرئة جون هينكلي بمانع الجنون وإصلاح قانون الدفاع بالجنون الأمريكي"

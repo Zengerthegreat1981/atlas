@@ -1,6 +1,6 @@
 ---
 slug: "thk-bolen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0774"
 type: "مفكر"
 level: "متوسط"
 title: "جين شينودا بولن"

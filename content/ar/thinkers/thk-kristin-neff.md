@@ -1,6 +1,6 @@
 ---
 slug: "thk-kristin-neff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1419"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

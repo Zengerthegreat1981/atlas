@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-observe"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0187"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الملاحظة"

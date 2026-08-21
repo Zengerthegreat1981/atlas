@@ -1,6 +1,6 @@
 ---
 slug: "thk-wilderson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2105"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

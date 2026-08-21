@@ -1,6 +1,6 @@
 ---
 slug: "thk-rosenfeld"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1854"
 type: "مفكر"
 level: "متقدم"
 title: "هربرت روزنفيلد"

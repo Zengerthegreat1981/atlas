@@ -1,6 +1,6 @@
 ---
 slug: "thk-zlipowski"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2150"
 type: "مفكر"
 level: "متوسط"
 title: "زبينيو ليبوفسكي"

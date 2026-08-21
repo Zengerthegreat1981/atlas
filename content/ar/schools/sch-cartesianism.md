@@ -1,6 +1,6 @@
 ---
 slug: "sch-cartesianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0057"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

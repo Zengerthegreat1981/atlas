@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmdoblin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1831"
 type: "مفكر"
 level: "متوسط"
 title: "ريك دابلن"

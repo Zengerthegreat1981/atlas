@@ -1,6 +1,6 @@
 ---
 slug: "thk-zou-yan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2154"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

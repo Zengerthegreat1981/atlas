@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbeker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1240"
 type: "مفكر"
 level: "متوسط"
 title: "جوناثان بِكر"

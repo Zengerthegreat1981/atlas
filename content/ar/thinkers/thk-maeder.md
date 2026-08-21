@@ -1,6 +1,6 @@
 ---
 slug: "thk-maeder"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1492"
 type: "مفكر"
 level: "متوسط"
 title: "ألفونس مايدر"

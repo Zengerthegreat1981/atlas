@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-opposite-action-in-relationships"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0179"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الفعل المعاكس في العلاقات"

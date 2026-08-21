@@ -1,6 +1,6 @@
 ---
 slug: "dis-depersonalization-derealization"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0034"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب تبدّد الشخصية/الواقع"

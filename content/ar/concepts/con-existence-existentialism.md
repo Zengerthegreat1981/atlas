@@ -1,6 +1,6 @@
 ---
 slug: "con-existence-existentialism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0538"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

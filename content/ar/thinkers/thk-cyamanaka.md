@@ -1,6 +1,6 @@
 ---
 slug: "thk-cyamanaka"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0876"
 type: "مفكر"
 level: "متوسط"
 title: "تشيي ياماناكا"

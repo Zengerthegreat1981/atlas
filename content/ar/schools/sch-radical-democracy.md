@@ -1,6 +1,6 @@
 ---
 slug: "sch-radical-democracy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0262"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

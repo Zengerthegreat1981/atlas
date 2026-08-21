@@ -1,6 +1,6 @@
 ---
 slug: "dbt-ambedkar-vs-gandhi-caste"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0314"
 type: "جدل"
 part: "philosophy"
 level: "متوسط"

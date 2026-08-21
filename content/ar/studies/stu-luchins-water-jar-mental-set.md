@@ -1,6 +1,6 @@
 ---
 slug: "stu-luchins-water-jar-mental-set"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0073"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

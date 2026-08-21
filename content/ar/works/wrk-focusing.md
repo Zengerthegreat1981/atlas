@@ -1,6 +1,6 @@
 ---
 slug: "wrk-focusing"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0311"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "التركيز (Focusing)"

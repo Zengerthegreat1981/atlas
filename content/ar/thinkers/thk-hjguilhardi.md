@@ -1,6 +1,6 @@
 ---
 slug: "thk-hjguilhardi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1154"
 type: "مفكر"
 level: "متوسط"
 title: "هيليو جوزيه غيلاردي"

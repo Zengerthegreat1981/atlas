@@ -1,6 +1,6 @@
 ---
 slug: "ins-hads"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0038"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

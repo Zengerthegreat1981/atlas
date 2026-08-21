@@ -1,6 +1,6 @@
 ---
 slug: "thk-mmejia"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1606"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريتا ميخيا"

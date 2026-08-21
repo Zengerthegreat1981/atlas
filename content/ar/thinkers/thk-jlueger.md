@@ -1,6 +1,6 @@
 ---
 slug: "thk-jlueger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1308"
 type: "مفكر"
 level: "متوسط"
 title: "جون لوغر"

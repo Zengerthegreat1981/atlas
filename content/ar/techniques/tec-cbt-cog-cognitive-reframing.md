@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-cognitive-reframing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0082"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "إعادة الصياغة/التأطير المعرفي"

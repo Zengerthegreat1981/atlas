@@ -1,6 +1,6 @@
 ---
 slug: "br-critical-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0133"
 type: "تيار"
 level: "متقدم"
 title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)"

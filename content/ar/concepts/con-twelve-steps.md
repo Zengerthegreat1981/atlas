@@ -1,6 +1,6 @@
 ---
 slug: "con-twelve-steps"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2166"
 type: "مفكر"
 level: "مبتدئ"
 title: "برنامج الاثنتي عشرة خطوة (12-Step)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-besetzung-cathexis"
-id: "[DRAFT-UNKNOWN]"
+id: "TRM-0002"
 type: "مصطلح لغوي متنازع عليه"
 level: "متقدم"
 title: "ترجمة Besetzung: شحن أم استثمار نفسي أم تعيين؟"

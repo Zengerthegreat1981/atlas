@@ -1,6 +1,6 @@
 ---
 slug: "thk-renik"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1799"
 type: "مفكر"
 level: "متقدم"
 title: "أوين رينيك"

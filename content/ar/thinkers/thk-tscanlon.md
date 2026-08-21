@@ -1,6 +1,6 @@
 ---
 slug: "thk-tscanlon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2061"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "br-brief-strategic-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0121"
 type: "تيار"
 level: "متوسط"
 title: "العلاج القصير الاستراتيجي"

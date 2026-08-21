@@ -1,6 +1,6 @@
 ---
 slug: "br-glasser-reality-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0155"
 type: "تيار"
 level: "متوسط"
 title: "علاج الواقع ونظرية الاختيار (غلاسر)"

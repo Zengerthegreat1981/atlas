@@ -1,6 +1,6 @@
 ---
 slug: "tec-cft"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0125"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المرتكز على الشفقة (CFT)"

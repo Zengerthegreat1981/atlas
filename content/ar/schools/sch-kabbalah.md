@@ -1,6 +1,6 @@
 ---
 slug: "sch-kabbalah"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0165"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-conduction-aphasia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0038"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

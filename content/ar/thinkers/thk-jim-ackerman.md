@@ -1,6 +1,6 @@
 ---
 slug: "thk-jim-ackerman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1291"
 type: "مفكر"
 level: "متوسط"
 title: "جيم أكرمان"

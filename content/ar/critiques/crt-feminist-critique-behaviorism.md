@@ -1,6 +1,6 @@
 ---
 slug: "crt-feminist-critique-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0007"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي"

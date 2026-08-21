@@ -1,6 +1,6 @@
 ---
 slug: "wrk-chinese-mirror-rosemont"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0266"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

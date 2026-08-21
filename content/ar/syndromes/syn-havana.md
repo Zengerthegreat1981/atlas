@@ -1,6 +1,6 @@
 ---
 slug: "syn-havana"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0081"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

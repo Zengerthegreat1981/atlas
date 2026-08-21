@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-bolton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1837"
 type: "مفكر"
 part: "psychology"
 register: "popular"

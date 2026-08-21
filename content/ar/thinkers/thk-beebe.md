@@ -1,6 +1,6 @@
 ---
 slug: "thk-beebe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0744"
 type: "مفكر"
 level: "متقدم"
 title: "بياتريس بيبي"

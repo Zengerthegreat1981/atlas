@@ -1,6 +1,6 @@
 ---
 slug: "tec-provocative-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0283"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الاستفزازي"

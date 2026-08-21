@@ -1,6 +1,6 @@
 ---
 slug: "wrk-philosophy-mirror-nature"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0421"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

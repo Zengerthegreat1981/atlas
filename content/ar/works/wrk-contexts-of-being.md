@@ -1,6 +1,6 @@
 ---
 slug: "wrk-contexts-of-being"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0272"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "سياقات الوجود: المعنى البين-ذاتي للتجربة"

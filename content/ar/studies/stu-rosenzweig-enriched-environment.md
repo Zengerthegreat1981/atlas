@@ -1,6 +1,6 @@
 ---
 slug: "stu-rosenzweig-enriched-environment"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0094"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب روزنزفايج وبينيت ودياموند حول البيئة الغنية ولدونة الدماغ"

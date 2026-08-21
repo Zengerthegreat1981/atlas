@@ -1,6 +1,6 @@
 ---
 slug: "thk-sachs"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1896"
 type: "مفكر"
 level: "متوسط"
 title: "هانس زاكس"

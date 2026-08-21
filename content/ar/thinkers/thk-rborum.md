@@ -1,6 +1,6 @@
 ---
 slug: "thk-rborum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1785"
 type: "مفكر"
 level: "متوسط"
 title: "راندي بوروم"

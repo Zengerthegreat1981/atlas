@@ -1,6 +1,6 @@
 ---
 slug: "br-embodied-relational-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0144"
 type: "تيار"
 level: "متقدم"
 title: "العلاج العلائقي المجسد (ERT)"

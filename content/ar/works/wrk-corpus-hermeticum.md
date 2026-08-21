@@ -1,6 +1,6 @@
 ---
 slug: "wrk-corpus-hermeticum"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0273"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

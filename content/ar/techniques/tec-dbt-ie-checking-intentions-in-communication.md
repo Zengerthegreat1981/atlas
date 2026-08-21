@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-checking-intentions-in-communication"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0173"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التحقق من الهدف قبل التواصل"

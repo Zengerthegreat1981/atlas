@@ -1,6 +1,6 @@
 ---
 slug: "thk-jzinker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1366"
 type: "مفكر"
 level: "متوسط"
 title: "جوزيف زِنكِر"

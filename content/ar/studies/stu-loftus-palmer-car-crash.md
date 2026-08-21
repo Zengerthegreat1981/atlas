@@ -1,6 +1,6 @@
 ---
 slug: "stu-loftus-palmer-car-crash"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0070"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة لوفتوس وبالمر حول تأثير صياغة الأسئلة على تذكر حوادث السيارات"

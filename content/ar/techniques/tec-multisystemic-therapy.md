@@ -1,6 +1,6 @@
 ---
 slug: "tec-multisystemic-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0256"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج متعدد الأنظمة (MST)"

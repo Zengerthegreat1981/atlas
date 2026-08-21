@@ -1,6 +1,6 @@
 ---
 slug: "thk-rkovarsky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1821"
 type: "مفكر"
 level: "متقدم"
 title: "رِكُورْدو كوفارسكي"

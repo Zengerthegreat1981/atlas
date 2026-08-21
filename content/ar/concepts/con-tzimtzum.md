@@ -1,6 +1,6 @@
 ---
 slug: "con-tzimtzum"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0775"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

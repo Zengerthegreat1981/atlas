@@ -1,6 +1,6 @@
 ---
 slug: "thk-alain-de-botton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0667"
 type: "مفكر"
 part: "psychology"
 register: "popular"

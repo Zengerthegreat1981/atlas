@@ -1,6 +1,6 @@
 ---
 slug: "thk-bwiederhold"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0802"
 type: "مفكر"
 level: "متوسط"
 title: "بريندا فيدرهولد"

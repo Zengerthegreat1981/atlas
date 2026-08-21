@@ -1,6 +1,6 @@
 ---
 slug: "con-veil-ignorance"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0782"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

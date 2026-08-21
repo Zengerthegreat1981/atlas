@@ -1,6 +1,6 @@
 ---
 slug: "ins-eysenck-epq"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0035"
 type: "أداة قياس"
 level: "متوسط"
 title: "استبيان آيزنك للشخصية"

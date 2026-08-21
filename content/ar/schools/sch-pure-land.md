@@ -1,6 +1,6 @@
 ---
 slug: "sch-pure-land"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0257"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

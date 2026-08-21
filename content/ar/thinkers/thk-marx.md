@@ -1,6 +1,6 @@
 ---
 slug: "thk-marx"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1516"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

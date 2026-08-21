@@ -1,6 +1,6 @@
 ---
 slug: "thk-sasch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1905"
 type: "مفكر"
 level: "متوسط"
 title: "سولومون آش"

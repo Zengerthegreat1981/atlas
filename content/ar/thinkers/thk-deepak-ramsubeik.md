@@ -1,6 +1,6 @@
 ---
 slug: "thk-deepak-ramsubeik"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0911"
 type: "مفكر"
 level: "متقدم"
 title: "ديپاك رامسوبك"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gbond"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1072"
 type: "مفكر"
 level: "متوسط"
 title: "غاري بوند"

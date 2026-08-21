@@ -1,6 +1,6 @@
 ---
 slug: "dis-tobacco-use"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0104"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب استخدام التبغ"

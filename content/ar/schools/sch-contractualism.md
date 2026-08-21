@@ -1,6 +1,6 @@
 ---
 slug: "sch-contractualism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0074"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

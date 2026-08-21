@@ -1,6 +1,6 @@
 ---
 slug: "thk-erikson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1014"
 type: "مفكر"
 level: "متقدم"
 title: "إريك إريكسون"

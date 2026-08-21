@@ -1,6 +1,6 @@
 ---
 slug: "thk-lmyers"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1468"
 type: "مفكر"
 level: "متوسط"
 title: "ليندا جيمس مايرز"

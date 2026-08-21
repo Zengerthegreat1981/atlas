@@ -1,6 +1,6 @@
 ---
 slug: "sch-feminism-radical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0115"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-truman-show"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0178"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

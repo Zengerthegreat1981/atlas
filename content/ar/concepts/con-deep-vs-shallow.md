@@ -1,6 +1,6 @@
 ---
 slug: "con-deep-vs-shallow"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0505"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

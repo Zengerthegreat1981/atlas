@@ -1,6 +1,6 @@
 ---
 slug: "sch-occasionalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0227"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

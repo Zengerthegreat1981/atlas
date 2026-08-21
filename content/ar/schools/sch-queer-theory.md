@@ -1,6 +1,6 @@
 ---
 slug: "sch-queer-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0260"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

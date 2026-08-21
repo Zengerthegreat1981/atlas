@@ -1,6 +1,6 @@
 ---
 slug: "tec-cognitive-hypnotherapy-silvester"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0130"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التنويم المعرفي (Cognitive Hypnotherapy — سيلفستر)"

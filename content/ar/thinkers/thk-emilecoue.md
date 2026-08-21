@@ -1,6 +1,6 @@
 ---
 slug: "thk-emilecoue"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1002"
 type: "مفكر"
 level: "متقدم"
 title: "إميل كوي"

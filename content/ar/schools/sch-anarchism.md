@@ -1,6 +1,6 @@
 ---
 slug: "sch-anarchism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0027"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

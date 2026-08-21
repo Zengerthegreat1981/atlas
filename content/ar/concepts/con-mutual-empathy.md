@@ -1,6 +1,6 @@
 ---
 slug: "con-mutual-empathy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0645"
 type: "مفهوم"
 level: "متوسط"
 title: "التمكين والتعاطف المتبادل (Mutual Empathy)"

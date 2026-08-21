@@ -1,6 +1,6 @@
 ---
 slug: "thk-jchamberlin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1253"
 type: "مفكر"
 level: "متوسط"
 title: "جودي تشامبرلين"

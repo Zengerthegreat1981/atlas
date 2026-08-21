@@ -1,6 +1,6 @@
 ---
 slug: "syn-india-delhi"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0092"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

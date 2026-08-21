@@ -1,6 +1,6 @@
 ---
 slug: "br-positive-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0185"
 type: "تيار"
 level: "مبتدئ"
 title: "علم النفس الإيجابي"

@@ -1,6 +1,6 @@
 ---
 slug: "con-universals-debate"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0778"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

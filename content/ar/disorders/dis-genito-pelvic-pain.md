@@ -1,6 +1,6 @@
 ---
 slug: "dis-genito-pelvic-pain"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0054"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الألم التناسلي الحوضي / الاختراق"

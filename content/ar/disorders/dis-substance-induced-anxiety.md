@@ -1,6 +1,6 @@
 ---
 slug: "dis-substance-induced-anxiety"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0100"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب القلق المُحفَّز بالمواد/الأدوية"

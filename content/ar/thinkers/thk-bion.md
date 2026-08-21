@@ -1,6 +1,6 @@
 ---
 slug: "thk-bion"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0759"
 type: "مفكر"
 level: "متقدم"
 title: "ويلفريد بيون"

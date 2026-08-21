@@ -1,6 +1,6 @@
 ---
 slug: "thk-gbach"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1071"
 type: "مفكر"
 level: "متوسط"
 title: "جورج بَخ"

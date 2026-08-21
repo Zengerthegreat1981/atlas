@@ -1,6 +1,6 @@
 ---
 slug: "stu-langer-mindlessness-copy-machine"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0060"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

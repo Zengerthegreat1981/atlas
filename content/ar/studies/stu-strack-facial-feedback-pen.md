@@ -1,6 +1,6 @@
 ---
 slug: "stu-strack-facial-feedback-pen"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0104"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

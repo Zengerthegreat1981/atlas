@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-box-breathing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0090"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التنفس المربّع"

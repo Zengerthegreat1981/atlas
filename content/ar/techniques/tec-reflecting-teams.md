@@ -1,6 +1,6 @@
 ---
 slug: "tec-reflecting-teams"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0290"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "فرق التفكير والتأمل العاكسة"

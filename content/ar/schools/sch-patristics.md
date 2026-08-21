@@ -1,6 +1,6 @@
 ---
 slug: "sch-patristics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0233"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jteasdale"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1352"
 type: "مفكر"
 level: "متقدم"
 title: "جون تيزديل"

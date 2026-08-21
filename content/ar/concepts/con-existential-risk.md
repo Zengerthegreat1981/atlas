@@ -1,6 +1,6 @@
 ---
 slug: "con-existential-risk"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0539"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

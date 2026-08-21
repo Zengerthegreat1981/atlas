@@ -1,6 +1,6 @@
 ---
 slug: "ins-tci-cloninger"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0083"
 type: "أداة قياس"
 part: "psychology"
 level: "متقدم"

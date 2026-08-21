@@ -1,6 +1,6 @@
 ---
 slug: "exp-may-sanatorium-anxiety"
-id: "[DRAFT-UNKNOWN]"
+id: "EXP-0003"
 type: "خبرة معيشة"
 level: "متوسط"
 title: "سرد رولو ماي الذاتي لخبرة العزلة والقلق الوجودي في مصحة السل"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-metacognitive-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0249"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج ما وراء المعرفي (MCT)"

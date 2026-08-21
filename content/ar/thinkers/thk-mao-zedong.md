@@ -1,6 +1,6 @@
 ---
 slug: "thk-mao-zedong"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1500"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

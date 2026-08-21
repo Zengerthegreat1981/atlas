@@ -1,6 +1,6 @@
 ---
 slug: "thk-dmercieca"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0938"
 type: "مفكر"
 level: "مبتدئ"
 title: "إيفا ميرسيكا"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-latin-averroism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0178"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kernberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1386"
 type: "مفكر"
 level: "متقدم"
 title: "أوتو كيرنبرغ"

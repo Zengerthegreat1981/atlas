@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-the-hands-as-thoughts-metaphor"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0031"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "استعارة اليدين كأفكار"

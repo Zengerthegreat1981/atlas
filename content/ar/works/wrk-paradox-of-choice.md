@@ -1,6 +1,6 @@
 ---
 slug: "wrk-paradox-of-choice"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0418"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-arfid"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0014"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب تجنّب/تقييد الطعام (ARFID)"

@@ -1,6 +1,6 @@
 ---
 slug: "br-neobehaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0175"
 type: "تيار"
 level: "متوسط"
 title: "السلوكية الجديدة (النيوسلوكية)"

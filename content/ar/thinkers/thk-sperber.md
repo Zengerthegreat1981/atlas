@@ -1,6 +1,6 @@
 ---
 slug: "thk-sperber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1971"
 type: "مفكر"
 level: "متوسط"
 title: "مَنِس سپِربر"

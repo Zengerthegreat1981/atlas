@@ -1,6 +1,6 @@
 ---
 slug: "thk-mmeade"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1605"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل ميد"

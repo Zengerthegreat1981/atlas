@@ -1,6 +1,6 @@
 ---
 slug: "con-mindfulness"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0639"
 type: "مفهوم"
 level: "متوسط"
 title: "اليقظة الذهنية (Mindfulness)"

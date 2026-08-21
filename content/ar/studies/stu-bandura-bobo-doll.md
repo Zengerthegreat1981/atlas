@@ -1,6 +1,6 @@
 ---
 slug: "stu-bandura-bobo-doll"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0010"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ"

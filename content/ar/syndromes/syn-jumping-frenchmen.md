@@ -1,6 +1,6 @@
 ---
 slug: "syn-jumping-frenchmen"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0096"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

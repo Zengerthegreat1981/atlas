@@ -1,6 +1,6 @@
 ---
 slug: "thk-spencer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1970"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

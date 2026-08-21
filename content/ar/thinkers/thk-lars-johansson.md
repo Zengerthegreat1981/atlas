@@ -1,6 +1,6 @@
 ---
 slug: "thk-lars-johansson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1434"
 type: "مفكر"
 level: "متوسط"
 title: "لارس يوهانسون"

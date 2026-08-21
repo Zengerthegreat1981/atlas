@@ -1,6 +1,6 @@
 ---
 slug: "thk-comte"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0853"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

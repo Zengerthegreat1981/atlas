@@ -1,6 +1,6 @@
 ---
 slug: "thk-cferster"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0831"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز فيرستر"

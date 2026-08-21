@@ -1,6 +1,6 @@
 ---
 slug: "thk-imartinbaro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1197"
 type: "مفكر"
 level: "متقدم"
 title: "إغناثيو مارتن-بارو"

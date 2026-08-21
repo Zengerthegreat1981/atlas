@@ -1,6 +1,6 @@
 ---
 slug: "evt-icd-11-cddi-2018"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0043"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "إطلاق ICD-11 واعتماد التوصيفات الإكلينيكية ومتطلبات التشخيص CDDI"

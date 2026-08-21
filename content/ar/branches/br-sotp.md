@@ -1,6 +1,6 @@
 ---
 slug: "br-sotp"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0216"
 type: "تيار"
 level: "متقدم"
 title: "علاج مرتكبي العنف الجنسي (SOTP)"

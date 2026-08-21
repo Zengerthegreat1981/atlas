@@ -1,6 +1,6 @@
 ---
 slug: "thk-ynakagami"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2138"
 type: "مفكر"
 level: "متقدم"
 title: "ياسوشي ناكاغامي"

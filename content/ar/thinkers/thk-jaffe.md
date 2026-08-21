@@ -1,6 +1,6 @@
 ---
 slug: "thk-jaffe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1219"
 type: "مفكر"
 level: "متقدم"
 title: "أنييلا يافّه"

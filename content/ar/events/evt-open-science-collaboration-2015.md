@@ -1,6 +1,6 @@
 ---
 slug: "evt-open-science-collaboration-2015"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0053"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "نشر تقرير مشروع إعادة الإنتاج في علم النفس وتأسيس حركة العلوم المفتوحة"

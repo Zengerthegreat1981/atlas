@@ -1,6 +1,6 @@
 ---
 slug: "dbt-hu-shi-vs-liang-shuming"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0329"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-levels-of-validation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0177"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "مستويات التصديق الستة"

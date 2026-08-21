@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-daily-dbt-coping-toolbox"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0142"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "صندوق أدوات التأقلم الشخصي"

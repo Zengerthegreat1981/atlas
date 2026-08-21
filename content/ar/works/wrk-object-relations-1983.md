@@ -1,6 +1,6 @@
 ---
 slug: "wrk-object-relations-1983"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0409"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "العلاقات بالموضوع في النظرية التحليلية"

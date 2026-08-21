@@ -1,6 +1,6 @@
 ---
 slug: "ins-aims-involuntary-movement"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0009"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

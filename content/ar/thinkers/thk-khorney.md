@@ -1,6 +1,6 @@
 ---
 slug: "thk-khorney"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1397"
 type: "مفكر"
 level: "متقدم"
 title: "كارين هُورْني"

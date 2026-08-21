@@ -1,6 +1,6 @@
 ---
 slug: "thk-wilhelm"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2106"
 type: "مفكر"
 level: "متوسط"
 title: "رافائيل ويلهيلم"

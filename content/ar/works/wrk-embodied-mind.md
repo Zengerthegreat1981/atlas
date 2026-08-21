@@ -1,6 +1,6 @@
 ---
 slug: "wrk-embodied-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0291"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "العقل المتجسد: العلوم المعرفية للإنسان والذات والذاتية"

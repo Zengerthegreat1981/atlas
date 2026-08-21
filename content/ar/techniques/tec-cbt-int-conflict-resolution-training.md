@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-conflict-resolution-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0108"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تدريب حل النزاعات"

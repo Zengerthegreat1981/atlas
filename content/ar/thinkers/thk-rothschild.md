@@ -1,6 +1,6 @@
 ---
 slug: "thk-rothschild"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1857"
 type: "مفكر"
 level: "متوسط"
 title: "بابي روتشيلد"

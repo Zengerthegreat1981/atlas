@@ -1,6 +1,6 @@
 ---
 slug: "dia-lacan-heidegger-anxiety-seminar"
-id: "[DRAFT-UNKNOWN]"
+id: "DIA-0002"
 type: "حوار مع مدرسة مجاورة"
 level: "متقدم"
 title: "سيمينار لاكان العاشر حول القلق: حوار خفي مع هايدجر"

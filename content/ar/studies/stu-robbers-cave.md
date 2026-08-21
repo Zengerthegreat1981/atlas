@@ -1,6 +1,6 @@
 ---
 slug: "stu-robbers-cave"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0090"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة كهف اللصوص والصراع بين الجماعات"

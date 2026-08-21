@@ -1,6 +1,6 @@
 ---
 slug: "thk-rsuinn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1880"
 type: "مفكر"
 level: "متوسط"
 title: "ريتشارد سوين"

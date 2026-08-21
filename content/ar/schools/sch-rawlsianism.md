@@ -1,6 +1,6 @@
 ---
 slug: "sch-rawlsianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0264"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

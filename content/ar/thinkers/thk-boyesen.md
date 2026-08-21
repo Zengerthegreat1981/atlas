@@ -1,6 +1,6 @@
 ---
 slug: "thk-boyesen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0782"
 type: "مفكر"
 level: "متقدم"
 title: "غيردا بويزن"

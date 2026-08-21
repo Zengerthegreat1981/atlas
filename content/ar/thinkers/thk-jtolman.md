@@ -1,6 +1,6 @@
 ---
 slug: "thk-jtolman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1353"
 type: "مفكر"
 level: "متوسط"
 title: "جينيفر تولمان"

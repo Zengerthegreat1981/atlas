@@ -1,6 +1,6 @@
 ---
 slug: "con-pygmalion-golem-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0696"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

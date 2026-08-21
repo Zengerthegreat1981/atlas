@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-labeling-thoughts"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0025"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تسمية الأفكار"

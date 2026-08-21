@@ -1,6 +1,6 @@
 ---
 slug: "tec-filial-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0219"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج البنوي والعائلي باللعب"

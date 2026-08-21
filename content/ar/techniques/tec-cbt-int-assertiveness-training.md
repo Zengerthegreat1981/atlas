@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-assertiveness-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0105"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تدريب التوكيدية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-bohanlon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0773"
 type: "مفكر"
 level: "متوسط"
 title: "بيل أوهَنلون"

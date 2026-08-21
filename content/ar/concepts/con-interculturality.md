@@ -1,6 +1,6 @@
 ---
 slug: "con-interculturality"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0600"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

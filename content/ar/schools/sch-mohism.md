@@ -1,6 +1,6 @@
 ---
 slug: "sch-mohism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0205"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

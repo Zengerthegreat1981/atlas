@@ -1,6 +1,6 @@
 ---
 slug: "syn-paris"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0132"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

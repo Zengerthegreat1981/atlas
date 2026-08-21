@@ -1,6 +1,6 @@
 ---
 slug: "crt-religious-conservative-critique-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0019"
 type: "نقد خارجي موثَّق"
 level: "متوسط"
 title: "النقد الديني/اللاهوتي المحافظ للتحليل النفسي: تهديد للأخلاق"

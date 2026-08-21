@@ -1,6 +1,6 @@
 ---
 slug: "thk-brene-brown"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0787"
 type: "مفكر"
 part: "psychology"
 register: "popular"

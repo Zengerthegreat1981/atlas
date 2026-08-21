@@ -1,6 +1,6 @@
 ---
 slug: "thk-ggurdjieff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1087"
 type: "مفكر"
 level: "متوسط"
 title: "غي. آي. غورجييف"

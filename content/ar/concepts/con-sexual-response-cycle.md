@@ -1,6 +1,6 @@
 ---
 slug: "con-sexual-response-cycle"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0735"
 type: "مفهوم"
 level: "مبتدئ"
 title: "دورة الاستجابة الجنسية"

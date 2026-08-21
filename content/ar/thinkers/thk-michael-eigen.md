@@ -1,6 +1,6 @@
 ---
 slug: "thk-michael-eigen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1574"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل إيغن"

@@ -1,6 +1,6 @@
 ---
 slug: "con-lady-macbeth-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0616"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

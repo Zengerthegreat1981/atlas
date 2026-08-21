@@ -1,6 +1,6 @@
 ---
 slug: "syn-executive-stress"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0062"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

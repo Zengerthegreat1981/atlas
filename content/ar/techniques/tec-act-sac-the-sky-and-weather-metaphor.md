@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-sac-the-sky-and-weather-metaphor"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0047"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "استعارة السماء والطقس"

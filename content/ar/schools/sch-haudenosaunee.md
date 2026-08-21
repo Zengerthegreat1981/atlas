@@ -1,6 +1,6 @@
 ---
 slug: "sch-haudenosaunee"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0127"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

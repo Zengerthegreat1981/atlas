@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-insomnia"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0103"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج المعرفي السلوكي للأرق (CBT-I)"

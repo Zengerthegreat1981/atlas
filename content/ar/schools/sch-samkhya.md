@@ -1,6 +1,6 @@
 ---
 slug: "sch-samkhya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0273"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-czeanah"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0877"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز زيناه"

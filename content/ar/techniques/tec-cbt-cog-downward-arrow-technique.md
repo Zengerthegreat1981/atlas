@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-downward-arrow-technique"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0085"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية السهم الهابط"

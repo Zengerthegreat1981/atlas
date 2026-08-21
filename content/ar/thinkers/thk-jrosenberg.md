@@ -1,6 +1,6 @@
 ---
 slug: "thk-jrosenberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1343"
 type: "مفكر"
 level: "متوسط"
 title: "جاك لي روزنبرغ"

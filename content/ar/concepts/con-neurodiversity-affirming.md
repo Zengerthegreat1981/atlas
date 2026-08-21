@@ -1,6 +1,6 @@
 ---
 slug: "con-neurodiversity-affirming"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0652"
 type: "مفهوم"
 level: "متوسط"
 title: "الإرشاد المؤيد للتنوع العصبي"

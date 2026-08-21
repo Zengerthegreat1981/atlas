@@ -1,6 +1,6 @@
 ---
 slug: "sch-silhak"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0290"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

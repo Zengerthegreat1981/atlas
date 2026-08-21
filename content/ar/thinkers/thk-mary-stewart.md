@@ -1,6 +1,6 @@
 ---
 slug: "thk-mary-stewart"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1519"
 type: "مفكر"
 level: "متوسط"
 title: "ماري ستيوارت"

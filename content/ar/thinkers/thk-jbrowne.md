@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbrowne"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1247"
 type: "مفكر"
 level: "متوسط"
 title: "كاثلين براون"

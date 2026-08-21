@@ -1,6 +1,6 @@
 ---
 slug: "ctx-buddhist-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "CTX-0007"
 type: "سياق/تقليد"
 level: "متوسط"
 title: "علم النفس البوذي والتقاليد التأملية الشرقية"

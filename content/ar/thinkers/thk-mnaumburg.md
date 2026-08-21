@@ -1,6 +1,6 @@
 ---
 slug: "thk-mnaumburg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1610"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريت نومبورغ"

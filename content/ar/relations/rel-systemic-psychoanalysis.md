@@ -1,6 +1,6 @@
 ---
 slug: "rel-systemic-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0149"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة"

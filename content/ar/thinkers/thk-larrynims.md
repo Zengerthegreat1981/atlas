@@ -1,6 +1,6 @@
 ---
 slug: "thk-larrynims"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1433"
 type: "مفكر"
 level: "متوسط"
 title: "لاري نيمز"

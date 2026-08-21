@@ -1,6 +1,6 @@
 ---
 slug: "wrk-handbuch-physiologische-optik"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0335"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "كتاب الفسيولوجيا البصرية"

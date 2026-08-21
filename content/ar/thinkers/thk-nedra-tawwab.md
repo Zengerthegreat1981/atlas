@@ -1,6 +1,6 @@
 ---
 slug: "thk-nedra-tawwab"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1671"
 type: "مفكر"
 part: "psychology"
 register: "popular"

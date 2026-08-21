@@ -1,6 +1,6 @@
 ---
 slug: "con-catharsis-integration"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0471"
 type: "مفهوم"
 level: "متوسط"
 title: "التطهير الاندماجي (كاتارسيس مورينو)"

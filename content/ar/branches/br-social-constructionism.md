@@ -1,6 +1,6 @@
 ---
 slug: "br-social-constructionism"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0214"
 type: "تيار"
 level: "متقدم"
 title: "العلاج النفسي والبنائية الاجتماعية"

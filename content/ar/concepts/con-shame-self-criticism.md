@@ -1,6 +1,6 @@
 ---
 slug: "con-shame-self-criticism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0737"
 type: "مفهوم"
 level: "متوسط"
 title: "الخزي ونقد الذات"

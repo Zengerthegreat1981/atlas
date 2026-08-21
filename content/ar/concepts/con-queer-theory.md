@@ -1,6 +1,6 @@
 ---
 slug: "con-queer-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0699"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-young-jeffrey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2141"
 type: "مفكر"
 level: "متوسط"
 title: "جيفري يونغ"

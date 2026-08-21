@@ -1,6 +1,6 @@
 ---
 slug: "thk-takeshiyasumaru"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2016"
 type: "مفكر"
 level: "متقدم"
 title: "تاكيشي ياسومارو"

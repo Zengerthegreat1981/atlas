@@ -1,6 +1,6 @@
 ---
 slug: "thk-robin-sharma"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1848"
 type: "مفكر"
 part: "psychology"
 register: "popular"

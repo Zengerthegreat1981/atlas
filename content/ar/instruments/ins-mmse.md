@@ -1,6 +1,6 @@
 ---
 slug: "ins-mmse"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0054"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "فحص الحالة العقلية المصغر"

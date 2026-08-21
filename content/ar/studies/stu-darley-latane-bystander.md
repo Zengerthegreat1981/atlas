@@ -1,6 +1,6 @@
 ---
 slug: "stu-darley-latane-bystander"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0028"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات دارلي ولاتانيه حول تأثير المتفرج وتوزيع المسؤولية"

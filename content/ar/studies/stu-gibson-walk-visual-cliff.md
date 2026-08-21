@@ -1,6 +1,6 @@
 ---
 slug: "stu-gibson-walk-visual-cliff"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0042"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

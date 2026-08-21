@@ -1,6 +1,6 @@
 ---
 slug: "thk-kgergen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1391"
 type: "مفكر"
 level: "متقدم"
 title: "كينيث جيرغن"

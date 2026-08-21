@@ -1,6 +1,6 @@
 ---
 slug: "thk-bleuler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0766"
 type: "مفكر"
 level: "متوسط"
 title: "أوجين بلويلَر"

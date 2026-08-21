@@ -1,6 +1,6 @@
 ---
 slug: "thk-kcolby"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1378"
 type: "مفكر"
 level: "متوسط"
 title: "كينيث كولبي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-irolf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1203"
 type: "مفكر"
 level: "متوسط"
 title: "إيدا رولف"

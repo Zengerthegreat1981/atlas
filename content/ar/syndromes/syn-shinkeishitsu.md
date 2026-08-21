@@ -1,6 +1,6 @@
 ---
 slug: "syn-shinkeishitsu"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0157"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

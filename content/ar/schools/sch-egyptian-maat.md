@@ -1,6 +1,6 @@
 ---
 slug: "sch-egyptian-maat"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0094"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

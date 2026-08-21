@@ -1,6 +1,6 @@
 ---
 slug: "wrk-factizitaet-geltung"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0307"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

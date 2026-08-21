@@ -1,6 +1,6 @@
 ---
 slug: "thk-mfarkas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1559"
 type: "مفكر"
 level: "متوسط"
 title: "مارلي فاركاش"

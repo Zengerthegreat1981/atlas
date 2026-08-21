@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbadri"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1531"
 type: "مفكر"
 level: "متوسط"
 title: "مالك البدري"

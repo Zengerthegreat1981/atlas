@@ -1,6 +1,6 @@
 ---
 slug: "thk-hpalmer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1167"
 type: "مفكر"
 level: "متوسط"
 title: "هاري بالمر"

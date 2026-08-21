@@ -1,6 +1,6 @@
 ---
 slug: "dis-cyclothymia"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0029"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب دوروية المزاج"

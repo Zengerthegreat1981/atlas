@@ -1,6 +1,6 @@
 ---
 slug: "sch-pancasila"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0232"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

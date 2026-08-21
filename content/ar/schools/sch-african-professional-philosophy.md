@@ -1,6 +1,6 @@
 ---
 slug: "sch-african-professional-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0013"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

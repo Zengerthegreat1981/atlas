@@ -1,6 +1,6 @@
 ---
 slug: "sch-posthumanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0252"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

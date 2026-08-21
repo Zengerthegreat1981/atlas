@@ -1,6 +1,6 @@
 ---
 slug: "thk-jkamiya"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1298"
 type: "مفكر"
 level: "متوسط"
 title: "جو كاميا"

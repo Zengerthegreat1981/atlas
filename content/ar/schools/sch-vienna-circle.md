@@ -1,6 +1,6 @@
 ---
 slug: "sch-vienna-circle"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0323"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-spinozism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0297"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

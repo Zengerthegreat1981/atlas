@@ -1,6 +1,6 @@
 ---
 slug: "ins-staxi-2"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0079"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-john-gray"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1324"
 type: "مفكر"
 part: "psychology"
 register: "popular"

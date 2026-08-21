@@ -1,6 +1,6 @@
 ---
 slug: "dbt-violent-media-child-aggression"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0350"
 type: "جدل"
 level: "متوسط"
 title: "جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال"

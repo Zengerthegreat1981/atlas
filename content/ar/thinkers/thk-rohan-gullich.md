@@ -1,6 +1,6 @@
 ---
 slug: "thk-rohan-gullich"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1849"
 type: "مفكر"
 level: "متقدم"
 title: "روهان غوليتش"

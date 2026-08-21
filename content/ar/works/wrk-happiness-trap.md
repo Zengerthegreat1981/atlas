@@ -1,6 +1,6 @@
 ---
 slug: "wrk-happiness-trap"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0339"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

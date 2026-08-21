@@ -1,6 +1,6 @@
 ---
 slug: "thk-moreno"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1617"
 type: "مفكر"
 level: "متقدم"
 title: "يعقوب ليفي مورينو"

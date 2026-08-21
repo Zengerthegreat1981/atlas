@@ -1,6 +1,6 @@
 ---
 slug: "con-sunk-cost-fallacy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0757"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

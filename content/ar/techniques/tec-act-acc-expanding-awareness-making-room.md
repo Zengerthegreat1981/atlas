@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-expanding-awareness-making-room"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0012"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "توسيع الوعي وإفساح المساحة"

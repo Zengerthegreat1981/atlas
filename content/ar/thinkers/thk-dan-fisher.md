@@ -1,6 +1,6 @@
 ---
 slug: "thk-dan-fisher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0881"
 type: "مفكر"
 level: "متقدم"
 title: "دان فيشر"

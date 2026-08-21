@@ -1,6 +1,6 @@
 ---
 slug: "thk-hmarkman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1163"
 type: "مفكر"
 level: "متوسط"
 title: "هوارد ماركمن"

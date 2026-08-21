@@ -1,6 +1,6 @@
 ---
 slug: "tec-strategic-family-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0312"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الأسري الاستراتيجي"

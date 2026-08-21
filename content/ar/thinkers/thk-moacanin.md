@@ -1,6 +1,6 @@
 ---
 slug: "thk-moacanin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1614"
 type: "مفكر"
 level: "متوسط"
 title: "سلافيكا موكانين"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ilovaas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1196"
 type: "مفكر"
 level: "متقدم"
 title: "أو. إيفار لوفاس"

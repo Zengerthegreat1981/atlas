@@ -1,6 +1,6 @@
 ---
 slug: "wrk-predictably-irrational"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0429"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

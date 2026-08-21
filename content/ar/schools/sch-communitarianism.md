@@ -1,6 +1,6 @@
 ---
 slug: "sch-communitarianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0067"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

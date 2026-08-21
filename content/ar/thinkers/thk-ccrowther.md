@@ -1,6 +1,6 @@
 ---
 slug: "thk-ccrowther"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0825"
 type: "مفكر"
 level: "متقدم"
 title: "كاثرين كروثر"

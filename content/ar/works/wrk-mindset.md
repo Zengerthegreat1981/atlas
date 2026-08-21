@@ -1,6 +1,6 @@
 ---
 slug: "wrk-mindset"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0394"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

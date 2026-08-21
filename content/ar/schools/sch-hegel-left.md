@@ -1,6 +1,6 @@
 ---
 slug: "sch-hegel-left"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0129"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

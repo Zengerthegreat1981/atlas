@@ -1,6 +1,6 @@
 ---
 slug: "thk-smcnamee"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1958"
 type: "مفكر"
 level: "متوسط"
 title: "شيلا ماكنامي"

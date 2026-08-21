@@ -1,6 +1,6 @@
 ---
 slug: "sch-chan"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0058"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mohanty"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1615"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

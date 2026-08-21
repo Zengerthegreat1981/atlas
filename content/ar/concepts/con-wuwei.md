@@ -1,6 +1,6 @@
 ---
 slug: "con-wuwei"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0790"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

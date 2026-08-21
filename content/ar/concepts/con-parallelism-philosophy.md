@@ -1,6 +1,6 @@
 ---
 slug: "con-parallelism-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0667"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

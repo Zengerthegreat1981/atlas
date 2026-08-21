@@ -1,6 +1,6 @@
 ---
 slug: "thk-berman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0749"
 type: "مفكر"
 level: "متقدم"
 title: "إيمانويل بيرمان"

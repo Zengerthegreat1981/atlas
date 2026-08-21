@@ -1,6 +1,6 @@
 ---
 slug: "tec-comprehensive-resource-model"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0134"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "نموذج الموارد الشامل للصدمة (CRM)"

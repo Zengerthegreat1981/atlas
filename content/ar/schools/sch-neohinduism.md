@@ -1,6 +1,6 @@
 ---
 slug: "sch-neohinduism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0214"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

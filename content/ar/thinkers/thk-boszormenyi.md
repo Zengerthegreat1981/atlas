@@ -1,6 +1,6 @@
 ---
 slug: "thk-boszormenyi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0780"
 type: "مفكر"
 level: "متقدم"
 title: "إيفان بوسورميني-ناجي"

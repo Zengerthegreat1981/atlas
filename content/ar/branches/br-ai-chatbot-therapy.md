@@ -1,6 +1,6 @@
 ---
 slug: "br-ai-chatbot-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0113"
 type: "تيار"
 level: "متوسط"
 title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية"

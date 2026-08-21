@@ -1,6 +1,6 @@
 ---
 slug: "con-ironic-process-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0607"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

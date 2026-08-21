@@ -1,6 +1,6 @@
 ---
 slug: "dis-delusional"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0032"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الوهام"

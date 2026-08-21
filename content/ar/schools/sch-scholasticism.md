@@ -1,6 +1,6 @@
 ---
 slug: "sch-scholasticism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0276"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

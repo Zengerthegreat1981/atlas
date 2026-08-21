@@ -1,6 +1,6 @@
 ---
 slug: "syn-akathisia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0005"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

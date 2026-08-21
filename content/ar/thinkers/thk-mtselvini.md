@@ -1,6 +1,6 @@
 ---
 slug: "thk-mtselvini"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1640"
 type: "مفكر"
 level: "متوسط"
 title: "ماتيو سيلفيني"

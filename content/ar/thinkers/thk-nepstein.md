@@ -1,6 +1,6 @@
 ---
 slug: "thk-nepstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1672"
 type: "مفكر"
 level: "متوسط"
 title: "نِكولاس إبستين"

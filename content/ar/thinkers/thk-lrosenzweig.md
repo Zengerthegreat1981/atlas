@@ -1,6 +1,6 @@
 ---
 slug: "thk-lrosenzweig"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1479"
 type: "مفكر"
 level: "مبتدئ"
 title: "لانا روزنغر"

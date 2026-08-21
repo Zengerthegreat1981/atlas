@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-prob-prioritization-time-management"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0120"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الأولويات وإدارة الوقت"

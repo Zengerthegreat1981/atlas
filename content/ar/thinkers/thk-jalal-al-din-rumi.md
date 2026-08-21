@@ -1,6 +1,6 @@
 ---
 slug: "thk-jalal-al-din-rumi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1221"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

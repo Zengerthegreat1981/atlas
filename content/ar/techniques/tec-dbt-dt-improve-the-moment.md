@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-improve-the-moment"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0149"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تحسين اللحظة (IMPROVE)"

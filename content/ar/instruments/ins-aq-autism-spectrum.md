@@ -1,6 +1,6 @@
 ---
 slug: "ins-aq-autism-spectrum"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0010"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

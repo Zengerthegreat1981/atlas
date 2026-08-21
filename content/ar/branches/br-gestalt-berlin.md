@@ -1,6 +1,6 @@
 ---
 slug: "br-gestalt-berlin"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0152"
 type: "تيار"
 level: "متوسط"
 title: "علم النفس الجشطالتي (مدرسة برلين)"

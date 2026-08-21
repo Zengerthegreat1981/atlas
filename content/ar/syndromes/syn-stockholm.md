@@ -1,6 +1,6 @@
 ---
 slug: "syn-stockholm"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0166"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

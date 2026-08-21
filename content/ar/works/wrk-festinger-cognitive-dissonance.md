@@ -1,6 +1,6 @@
 ---
 slug: "wrk-festinger-cognitive-dissonance"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0309"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "نظرية التنافر المعرفي (A Theory of Cognitive Dissonance)"

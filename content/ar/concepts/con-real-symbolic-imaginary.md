@@ -1,6 +1,6 @@
 ---
 slug: "con-real-symbolic-imaginary"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0703"
 type: "مفهوم"
 level: "متقدم"
 title: "الثلاثي الحقيقي-الرمزي-المتخيل (RSI)"

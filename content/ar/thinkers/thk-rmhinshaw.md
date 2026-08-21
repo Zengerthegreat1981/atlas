@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmhinshaw"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1833"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت هينشو"

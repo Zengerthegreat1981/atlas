@@ -1,6 +1,6 @@
 ---
 slug: "thk-cdenborough"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0827"
 type: "مفكر"
 level: "متوسط"
 title: "كريس دِنْبَره"

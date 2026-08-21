@@ -1,6 +1,6 @@
 ---
 slug: "con-structured-teaching-teacch"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0754"
 type: "مفهوم"
 level: "متوسط"
 title: "التدريس المنظم (Structured Teaching)"

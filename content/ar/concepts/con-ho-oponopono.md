@@ -1,6 +1,6 @@
 ---
 slug: "con-ho-oponopono"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0589"
 type: "مفهوم"
 level: "مبتدئ"
 title: "هو-أوبونوبونو (Ho'oponopono)"

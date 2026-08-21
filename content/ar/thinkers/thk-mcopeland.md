@@ -1,6 +1,6 @@
 ---
 slug: "thk-mcopeland"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1546"
 type: "مفكر"
 level: "متوسط"
 title: "ماري إيلين كوبلاند"

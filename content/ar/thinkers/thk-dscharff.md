@@ -1,6 +1,6 @@
 ---
 slug: "thk-dscharff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0953"
 type: "مفكر"
 level: "مبتدئ"
 title: "ديفيد شارف"

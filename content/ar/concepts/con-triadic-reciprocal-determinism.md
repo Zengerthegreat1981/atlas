@@ -1,6 +1,6 @@
 ---
 slug: "con-triadic-reciprocal-determinism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0773"
 type: "مفهوم"
 level: "متوسط"
 title: "الحتمية التبادلية الثلاثية"

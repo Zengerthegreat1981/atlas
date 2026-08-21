@@ -1,6 +1,6 @@
 ---
 slug: "thk-tmoore"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2048"
 type: "مفكر"
 level: "متوسط"
 title: "توماس مور"

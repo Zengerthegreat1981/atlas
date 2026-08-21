@@ -1,6 +1,6 @@
 ---
 slug: "thk-smadigan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1957"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن مادِغان"

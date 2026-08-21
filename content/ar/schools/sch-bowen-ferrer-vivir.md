@@ -1,6 +1,6 @@
 ---
 slug: "sch-bowen-ferrer-vivir"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0048"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

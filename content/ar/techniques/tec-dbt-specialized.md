@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-specialized"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0197"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "بروتوكولات DBT التخصصية (المراهقين والإدمان واضطرابات الأكل)"

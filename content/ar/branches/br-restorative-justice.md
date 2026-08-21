@@ -1,6 +1,6 @@
 ---
 slug: "br-restorative-justice"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0205"
 type: "تيار"
 level: "متوسط"
 title: "العدالة التصالحية"

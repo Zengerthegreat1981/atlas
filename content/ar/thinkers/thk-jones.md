@@ -1,6 +1,6 @@
 ---
 slug: "thk-jones"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1329"
 type: "مفكر"
 level: "متوسط"
 title: "إرنست جونز"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-shaken-baby"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0154"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

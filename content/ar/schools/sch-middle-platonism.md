@@ -1,6 +1,6 @@
 ---
 slug: "sch-middle-platonism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0199"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

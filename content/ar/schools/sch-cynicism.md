@@ -1,6 +1,6 @@
 ---
 slug: "sch-cynicism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0077"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

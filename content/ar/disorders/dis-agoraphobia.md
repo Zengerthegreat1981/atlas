@@ -1,6 +1,6 @@
 ---
 slug: "dis-agoraphobia"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0009"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "الرهاب من الأماكن المكشوفة"

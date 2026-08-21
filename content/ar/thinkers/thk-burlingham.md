@@ -1,6 +1,6 @@
 ---
 slug: "thk-burlingham"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0798"
 type: "مفكر"
 level: "متوسط"
 title: "دوروثي بيرلينغهام"

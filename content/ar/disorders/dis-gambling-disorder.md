@@ -1,6 +1,6 @@
 ---
 slug: "dis-gambling-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0051"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب القمار"

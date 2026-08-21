@@ -1,6 +1,6 @@
 ---
 slug: "rel-psychoanalysis-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0141"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى"

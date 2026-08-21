@@ -1,6 +1,6 @@
 ---
 slug: "dis-narcolepsy"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0069"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "النوم القهري"

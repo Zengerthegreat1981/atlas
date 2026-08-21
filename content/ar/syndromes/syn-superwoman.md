@@ -1,6 +1,6 @@
 ---
 slug: "syn-superwoman"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0169"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

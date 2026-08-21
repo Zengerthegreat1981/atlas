@@ -1,6 +1,6 @@
 ---
 slug: "tec-functional-family-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0226"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الأسري الوظيفي (FFT)"

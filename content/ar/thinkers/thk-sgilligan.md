@@ -1,6 +1,6 @@
 ---
 slug: "thk-sgilligan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1927"
 type: "مفكر"
 level: "متوسط"
 title: "ستيف جِليغَن"

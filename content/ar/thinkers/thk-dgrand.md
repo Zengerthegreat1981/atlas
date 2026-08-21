@@ -1,6 +1,6 @@
 ---
 slug: "thk-dgrand"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0923"
 type: "مفكر"
 level: "مبتدئ"
 title: "ديفيد غراند"

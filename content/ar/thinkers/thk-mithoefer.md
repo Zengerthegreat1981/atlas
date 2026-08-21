@@ -1,6 +1,6 @@
 ---
 slug: "thk-mithoefer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1590"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل ميثوفر"

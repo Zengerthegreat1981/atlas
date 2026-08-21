@@ -1,6 +1,6 @@
 ---
 slug: "tec-vr-exposure"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0329"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التعرض بالواقع الافتراضي (VRET)"

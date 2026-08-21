@@ -1,6 +1,6 @@
 ---
 slug: "con-purusha"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0695"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcermak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1793"
 type: "مفكر"
 level: "متوسط"
 title: "شارون سيرماك"

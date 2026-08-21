@@ -1,6 +1,6 @@
 ---
 slug: "thk-tkora"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2044"
 type: "مفكر"
 level: "متوسط"
 title: "تاكيهيسا كورّا"

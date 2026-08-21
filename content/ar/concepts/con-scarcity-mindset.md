@@ -1,6 +1,6 @@
 ---
 slug: "con-scarcity-mindset"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0723"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

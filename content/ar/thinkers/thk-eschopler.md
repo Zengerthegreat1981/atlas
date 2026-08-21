@@ -1,6 +1,6 @@
 ---
 slug: "thk-eschopler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1018"
 type: "مفكر"
 level: "متقدم"
 title: "إريك شوبلر"

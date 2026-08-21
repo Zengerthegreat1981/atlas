@@ -1,6 +1,6 @@
 ---
 slug: "thk-mhbrousse"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1567"
 type: "مفكر"
 level: "متوسط"
 title: "ماري-هيلين بروس"

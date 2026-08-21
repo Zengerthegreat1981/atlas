@@ -1,6 +1,6 @@
 ---
 slug: "stu-chabris-simons-invisible-gorilla"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0021"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-spec-radical-openness"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0196"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الانفتاح الجذري"

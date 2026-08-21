@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-daily-weekly-skills-review"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0146"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "المراجعة الأسبوعية للمهارات"

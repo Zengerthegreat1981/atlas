@@ -1,6 +1,6 @@
 ---
 slug: "stu-farina-mental-illness-stigma"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0038"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسات فارينا التجريبية حول وصمة المرض النفسي والأثر التفاعلي للتسمية"

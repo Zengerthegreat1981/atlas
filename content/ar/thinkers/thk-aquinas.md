@@ -1,6 +1,6 @@
 ---
 slug: "thk-aquinas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0704"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

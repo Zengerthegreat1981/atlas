@@ -1,6 +1,6 @@
 ---
 slug: "syn-acute-anxiety"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0002"
 type: "متلازمة"
 level: "مبتدئ"
 title: "القلق الحاد"

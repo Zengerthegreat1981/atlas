@@ -1,6 +1,6 @@
 ---
 slug: "ins-inventory-parent-peer-attachment"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0046"
 type: "أداة قياس"
 level: "متوسط"
 title: "قائمة التعلّق بالوالدين والأقران"

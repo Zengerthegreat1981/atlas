@@ -1,6 +1,6 @@
 ---
 slug: "wrk-vocabulaire-psychanalyse"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0480"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "معجم التحليل النفسي (Vocabulaire de la Psychanalyse)"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-depressive-personality-historical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0036"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الشخصية الاكتئابية التاريخي (Depressive Personality Disorder)"

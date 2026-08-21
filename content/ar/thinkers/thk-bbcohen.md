@@ -1,6 +1,6 @@
 ---
 slug: "thk-bbcohen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0737"
 type: "مفكر"
 level: "متوسط"
 title: "بوني بينبريدج كوهن"

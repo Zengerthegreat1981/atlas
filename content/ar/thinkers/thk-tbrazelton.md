@@ -1,6 +1,6 @@
 ---
 slug: "thk-tbrazelton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2024"
 type: "مفكر"
 level: "متوسط"
 title: "تي. بيري برازيلتون"

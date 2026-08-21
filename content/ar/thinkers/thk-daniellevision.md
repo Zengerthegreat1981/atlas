@@ -1,6 +1,6 @@
 ---
 slug: "thk-daniellevision"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0887"
 type: "مفكر"
 level: "متقدم"
 title: "دانييل ليڤيسون"

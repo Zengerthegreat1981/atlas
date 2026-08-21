@@ -1,6 +1,6 @@
 ---
 slug: "thk-mimordino-yang"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1583"
 type: "مفكر"
 level: "متوسط"
 title: "ماري هيلين إيموردينو-يانغ"

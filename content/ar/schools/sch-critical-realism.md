@@ -1,6 +1,6 @@
 ---
 slug: "sch-critical-realism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0076"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

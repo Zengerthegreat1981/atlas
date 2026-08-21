@@ -1,6 +1,6 @@
 ---
 slug: "thk-adelaserna"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0644"
 type: "مفكر"
 level: "متوسط"
 title: "أغوستين دي لا سيرنا"

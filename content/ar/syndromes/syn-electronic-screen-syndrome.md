@@ -1,6 +1,6 @@
 ---
 slug: "syn-electronic-screen-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0058"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

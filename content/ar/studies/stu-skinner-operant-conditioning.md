@@ -1,6 +1,6 @@
 ---
 slug: "stu-skinner-operant-conditioning"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0100"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب سكينر في الإشراط الإجرائي وجداول التعزيز"

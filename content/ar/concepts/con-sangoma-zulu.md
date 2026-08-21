@@ -1,6 +1,6 @@
 ---
 slug: "con-sangoma-zulu"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0720"
 type: "مفهوم"
 level: "مبتدئ"
 title: "السانغوما (Sangoma) — العلاج الزولوي التقليدي"

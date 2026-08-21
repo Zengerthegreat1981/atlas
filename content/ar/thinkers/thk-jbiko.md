@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbiko"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1242"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن بيكو النفسي"

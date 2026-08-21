@@ -1,6 +1,6 @@
 ---
 slug: "thk-marodriguez"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1513"
 type: "مفكر"
 level: "متوسط"
 title: "ميغيل أنخيل رودريغيث"

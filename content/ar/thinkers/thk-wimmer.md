@@ -1,6 +1,6 @@
 ---
 slug: "thk-wimmer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2109"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

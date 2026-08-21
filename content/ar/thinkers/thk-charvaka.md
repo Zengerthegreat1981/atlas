@@ -1,6 +1,6 @@
 ---
 slug: "thk-charvaka"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0839"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

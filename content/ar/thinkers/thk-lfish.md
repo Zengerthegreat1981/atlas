@@ -1,6 +1,6 @@
 ---
 slug: "thk-lfish"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1450"
 type: "مفكر"
 level: "متوسط"
 title: "لورانس فيشباين"

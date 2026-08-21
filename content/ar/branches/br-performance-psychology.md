@@ -1,6 +1,6 @@
 ---
 slug: "br-performance-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0181"
 type: "تيار"
 level: "متوسط"
 title: "علم نفس الأداء"

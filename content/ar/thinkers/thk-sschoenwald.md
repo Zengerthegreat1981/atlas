@@ -1,6 +1,6 @@
 ---
 slug: "thk-sschoenwald"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1985"
 type: "مفكر"
 level: "متوسط"
 title: "سونيا شونوالد"

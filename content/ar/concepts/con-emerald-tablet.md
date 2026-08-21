@@ -1,6 +1,6 @@
 ---
 slug: "con-emerald-tablet"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0532"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

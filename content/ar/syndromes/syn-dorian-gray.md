@@ -1,6 +1,6 @@
 ---
 slug: "syn-dorian-gray"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0052"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

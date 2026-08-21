@@ -1,6 +1,6 @@
 ---
 slug: "stu-werner-kauai-resilience"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0114"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة كاواي الطولية لإيمي فيرنر حول المرونة والصلابة النفسية"

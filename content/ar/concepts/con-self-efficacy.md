@@ -1,6 +1,6 @@
 ---
 slug: "con-self-efficacy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0727"
 type: "مفهوم"
 level: "متوسط"
 title: "الكفاءة الذاتية (الذاتية المدركة)"

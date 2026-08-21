@@ -1,6 +1,6 @@
 ---
 slug: "thk-rstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1878"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت شتاين"

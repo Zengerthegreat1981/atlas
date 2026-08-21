@@ -1,6 +1,6 @@
 ---
 slug: "ins-conners-rating-scales"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0022"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقاييس كونرز لتقييم اضطراب فرط الحركة وتشتت الانتباه"

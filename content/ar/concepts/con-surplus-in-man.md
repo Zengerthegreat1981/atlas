@@ -1,6 +1,6 @@
 ---
 slug: "con-surplus-in-man"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0760"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

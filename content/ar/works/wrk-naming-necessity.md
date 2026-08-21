@@ -1,6 +1,6 @@
 ---
 slug: "wrk-naming-necessity"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0401"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

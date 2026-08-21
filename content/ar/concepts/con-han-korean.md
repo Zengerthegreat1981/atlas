@@ -1,6 +1,6 @@
 ---
 slug: "con-han-korean"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0580"
 type: "مفهوم"
 level: "متوسط"
 title: "هان (Han، 한)"

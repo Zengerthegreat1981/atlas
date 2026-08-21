@@ -1,6 +1,6 @@
 ---
 slug: "thk-pchodron"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1719"
 type: "مفكر"
 level: "متوسط"
 title: "بيما تشُدرُن"

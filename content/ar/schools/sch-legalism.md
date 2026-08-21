@@ -1,6 +1,6 @@
 ---
 slug: "sch-legalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0180"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

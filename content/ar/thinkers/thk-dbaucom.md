@@ -1,6 +1,6 @@
 ---
 slug: "thk-dbaucom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0896"
 type: "مفكر"
 level: "متوسط"
 title: "دونالد بِيكوم"

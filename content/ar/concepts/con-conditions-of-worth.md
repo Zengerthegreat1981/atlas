@@ -1,6 +1,6 @@
 ---
 slug: "con-conditions-of-worth"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0486"
 type: "مفهوم"
 level: "مبتدئ"
 title: "شروط القبول والقيمة"

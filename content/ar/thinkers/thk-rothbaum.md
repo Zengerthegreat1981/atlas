@@ -1,6 +1,6 @@
 ---
 slug: "thk-rothbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1856"
 type: "مفكر"
 level: "متوسط"
 title: "باربارا أولسبي روثباوم"

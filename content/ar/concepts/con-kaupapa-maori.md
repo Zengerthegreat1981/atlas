@@ -1,6 +1,6 @@
 ---
 slug: "con-kaupapa-maori"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0615"
 type: "مفهوم"
 level: "متوسط"
 title: "كاوبابا ماوري (Kaupapa Māori)"

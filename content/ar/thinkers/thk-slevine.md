@@ -1,6 +1,6 @@
 ---
 slug: "thk-slevine"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1953"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن ك. ليفين"

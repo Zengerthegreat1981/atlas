@@ -1,6 +1,6 @@
 ---
 slug: "dbt-nature-vs-nurture-intelligence-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0337"
 type: "جدل"
 level: "متقدم"
 title: "جدل الطبيعة والتنشئة في الذكاء والشخصية"

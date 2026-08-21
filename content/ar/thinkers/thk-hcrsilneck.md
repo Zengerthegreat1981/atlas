@@ -1,6 +1,6 @@
 ---
 slug: "thk-hcrsilneck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1139"
 type: "مفكر"
 level: "متوسط"
 title: "هارولد كراسيلنيك"

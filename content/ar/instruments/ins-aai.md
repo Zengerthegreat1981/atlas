@@ -1,6 +1,6 @@
 ---
 slug: "ins-aai"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0006"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقابلة التعلّق للبالغين"

@@ -1,6 +1,6 @@
 ---
 slug: "con-loss-natural-evidence"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0626"
 type: "مفهوم"
 level: "متقدم"
 title: "فقدان البداهة الطبيعية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-hkoprulu"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1157"
 type: "مفكر"
 level: "مبتدئ"
 title: "حازم قبرلو (حازم كوبرولو)"

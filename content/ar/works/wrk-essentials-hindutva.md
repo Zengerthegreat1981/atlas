@@ -1,6 +1,6 @@
 ---
 slug: "wrk-essentials-hindutva"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0302"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kgodel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1392"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

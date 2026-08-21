@@ -1,6 +1,6 @@
 ---
 slug: "sch-stoicism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0298"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

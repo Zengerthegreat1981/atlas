@@ -1,6 +1,6 @@
 ---
 slug: "con-deliberative-democracy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0507"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

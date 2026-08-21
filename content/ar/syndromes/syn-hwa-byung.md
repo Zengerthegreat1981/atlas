@@ -1,6 +1,6 @@
 ---
 slug: "syn-hwa-byung"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0086"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

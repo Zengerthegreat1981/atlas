@@ -1,6 +1,6 @@
 ---
 slug: "thk-philo-alexandria"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1744"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-humeanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0140"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

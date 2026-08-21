@@ -1,6 +1,6 @@
 ---
 slug: "sch-maya-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0194"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-on-contradiction"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0410"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-no-bad-parts"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0405"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

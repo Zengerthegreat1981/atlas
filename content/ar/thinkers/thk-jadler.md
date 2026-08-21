@@ -1,6 +1,6 @@
 ---
 slug: "thk-jadler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1218"
 type: "مفكر"
 level: "متوسط"
 title: "جانيت أدلر"

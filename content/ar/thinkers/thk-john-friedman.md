@@ -1,6 +1,6 @@
 ---
 slug: "thk-john-friedman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1323"
 type: "مفكر"
 level: "متوسط"
 title: "جون فريدمان"

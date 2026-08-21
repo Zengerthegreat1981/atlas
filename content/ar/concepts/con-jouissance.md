@@ -1,6 +1,6 @@
 ---
 slug: "con-jouissance"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0612"
 type: "مفهوم"
 level: "متقدم"
 title: "اللذّة (Jouissance)"

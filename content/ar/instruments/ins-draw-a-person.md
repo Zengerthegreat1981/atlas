@@ -1,6 +1,6 @@
 ---
 slug: "ins-draw-a-person"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0030"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "اختبار رسم الشخص لماكوفر"

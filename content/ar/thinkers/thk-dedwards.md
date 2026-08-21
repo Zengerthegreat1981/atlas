@@ -1,6 +1,6 @@
 ---
 slug: "thk-dedwards"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0910"
 type: "مفكر"
 level: "متوسط"
 title: "ديرِك إدواردز"

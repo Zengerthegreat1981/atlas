@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-understanding-the-function-of-emotions"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0170"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "وظائف المشاعر والانفعالات"

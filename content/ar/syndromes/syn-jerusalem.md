@@ -1,6 +1,6 @@
 ---
 slug: "syn-jerusalem"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0095"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

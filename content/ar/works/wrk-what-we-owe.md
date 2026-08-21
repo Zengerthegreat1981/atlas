@@ -1,6 +1,6 @@
 ---
 slug: "wrk-what-we-owe"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0486"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

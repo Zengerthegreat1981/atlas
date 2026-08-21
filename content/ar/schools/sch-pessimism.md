@@ -1,6 +1,6 @@
 ---
 slug: "sch-pessimism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0236"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

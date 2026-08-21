@@ -1,6 +1,6 @@
 ---
 slug: "thk-castillejo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0817"
 type: "مفكر"
 level: "متوسط"
 title: "إيرين كلارمونت دي كاستييخو"

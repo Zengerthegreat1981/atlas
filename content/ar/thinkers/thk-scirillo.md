@@ -1,6 +1,6 @@
 ---
 slug: "thk-scirillo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1917"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفانو تشيريلو"

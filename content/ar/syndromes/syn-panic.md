@@ -1,6 +1,6 @@
 ---
 slug: "syn-panic"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0129"
 type: "متلازمة"
 level: "مبتدئ"
 title: "نوبة الهلع"

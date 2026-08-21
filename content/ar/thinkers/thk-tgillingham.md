@@ -1,6 +1,6 @@
 ---
 slug: "thk-tgillingham"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2030"
 type: "مفكر"
 level: "متوسط"
 title: "تيري غيلنغهام"

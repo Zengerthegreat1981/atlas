@@ -1,6 +1,6 @@
 ---
 slug: "stu-tajfel-minimal-group"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0105"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات تاجفيل لنموذج الجماعة الصغرى والهوية الاجتماعية"

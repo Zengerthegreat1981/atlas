@@ -1,6 +1,6 @@
 ---
 slug: "rel-postmodern-systemic"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0139"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة"

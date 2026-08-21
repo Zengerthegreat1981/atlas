@@ -1,6 +1,6 @@
 ---
 slug: "ins-dast"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0026"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "اختبار فرز تعاطي المخدرات"

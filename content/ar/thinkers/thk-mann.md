@@ -1,6 +1,6 @@
 ---
 slug: "thk-mann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1499"
 type: "مفكر"
 level: "متوسط"
 title: "كريستين مان"

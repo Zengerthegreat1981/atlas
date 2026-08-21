@@ -1,6 +1,6 @@
 ---
 slug: "syn-quasimodo"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0144"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

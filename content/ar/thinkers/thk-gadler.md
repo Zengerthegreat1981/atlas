@@ -1,6 +1,6 @@
 ---
 slug: "thk-gadler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1067"
 type: "مفكر"
 level: "متقدم"
 title: "غيرهارد أدلر"

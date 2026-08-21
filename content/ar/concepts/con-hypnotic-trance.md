@@ -1,6 +1,6 @@
 ---
 slug: "con-hypnotic-trance"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0592"
 type: "مفهوم"
 level: "متوسط"
 title: "الغشية التنويمية"

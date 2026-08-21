@@ -1,6 +1,6 @@
 ---
 slug: "wrk-anxious-generation"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0234"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

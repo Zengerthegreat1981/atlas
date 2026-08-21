@@ -1,6 +1,6 @@
 ---
 slug: "thk-mgomori"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1564"
 type: "مفكر"
 level: "متوسط"
 title: "ماريا غوموري"

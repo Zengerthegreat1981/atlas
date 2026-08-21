@@ -1,6 +1,6 @@
 ---
 slug: "thk-tnhat"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2051"
 type: "مفكر"
 level: "متوسط"
 title: "تِك نات هان"

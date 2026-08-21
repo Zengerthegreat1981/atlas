@@ -1,6 +1,6 @@
 ---
 slug: "con-yoga-therapy-concept"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0793"
 type: "مفهوم"
 level: "متوسط"
 title: "علاج اليوغا (Yoga Therapy)"

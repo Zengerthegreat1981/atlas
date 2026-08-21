@@ -1,6 +1,6 @@
 ---
 slug: "con-will-to-meaning"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0787"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الإرادة في المعنى (Will to Meaning)"

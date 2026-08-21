@@ -1,6 +1,6 @@
 ---
 slug: "thk-dreynolds"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0951"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد ك. رينولدز"

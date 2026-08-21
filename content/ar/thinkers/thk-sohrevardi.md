@@ -1,6 +1,6 @@
 ---
 slug: "thk-sohrevardi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1965"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

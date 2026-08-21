@@ -1,6 +1,6 @@
 ---
 slug: "tec-experiential-symbolic-family"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0214"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الأسري الرمزي التجريبي (ويتاكر)"

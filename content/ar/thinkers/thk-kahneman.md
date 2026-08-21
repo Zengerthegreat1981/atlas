@@ -1,6 +1,6 @@
 ---
 slug: "thk-kahneman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1368"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

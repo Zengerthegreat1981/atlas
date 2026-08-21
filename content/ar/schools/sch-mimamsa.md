@@ -1,6 +1,6 @@
 ---
 slug: "sch-mimamsa"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0202"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tachenbach"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2014"
 type: "مفكر"
 level: "متوسط"
 title: "توماس أشنباخ"

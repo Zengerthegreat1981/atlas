@@ -1,6 +1,6 @@
 ---
 slug: "thk-mahoney"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1495"
 type: "مفكر"
 level: "متوسط"
 title: "ماريان ماهونِي"

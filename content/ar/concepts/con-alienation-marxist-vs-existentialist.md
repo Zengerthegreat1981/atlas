@@ -1,6 +1,6 @@
 ---
 slug: "con-alienation-marxist-vs-existentialist"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0435"
 type: "مفهوم"
 level: "متقدم"
 title: "الاغتراب — الماركسي مقابل الوجودي"

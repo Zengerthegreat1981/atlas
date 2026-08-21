@@ -1,6 +1,6 @@
 ---
 slug: "thk-aizenstat"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0659"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن أيزنستات"

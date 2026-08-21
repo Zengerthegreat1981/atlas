@@ -1,6 +1,6 @@
 ---
 slug: "thk-apert"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0702"
 type: "مفكر"
 level: "متوسط"
 title: "أنا أريتي"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ich-und-es"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0351"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الأنا والهو"

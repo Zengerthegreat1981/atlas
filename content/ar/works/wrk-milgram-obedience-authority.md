@@ -1,6 +1,6 @@
 ---
 slug: "wrk-milgram-obedience-authority"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0390"
 type: "عمل / كتاب"
 level: "مبتدئ"
 title: "الطاعة للسلطة (Obedience to Authority)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gabor-mate"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1065"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dweck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0964"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

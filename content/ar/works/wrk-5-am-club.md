@@ -1,6 +1,6 @@
 ---
 slug: "wrk-5-am-club"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0217"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kelley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1382"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز كيلي"

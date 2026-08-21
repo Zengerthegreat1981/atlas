@@ -1,6 +1,6 @@
 ---
 slug: "con-seven-habits"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0733"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

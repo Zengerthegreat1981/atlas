@@ -1,6 +1,6 @@
 ---
 slug: "thk-nassim-taleb"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1665"
 type: "مفكر"
 part: "psychology"
 register: "popular"

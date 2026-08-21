@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-exp-interoceptive-exposure"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0101"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التعرض للإحساس الداخلي"

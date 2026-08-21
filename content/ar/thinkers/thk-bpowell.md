@@ -1,6 +1,6 @@
 ---
 slug: "thk-bpowell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0784"
 type: "مفكر"
 level: "متوسط"
 title: "برت باول"

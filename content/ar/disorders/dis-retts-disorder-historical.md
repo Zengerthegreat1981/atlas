@@ -1,6 +1,6 @@
 ---
 slug: "dis-retts-disorder-historical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0085"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب ريت التاريخي (Rett's Disorder)"

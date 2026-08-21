@@ -1,6 +1,6 @@
 ---
 slug: "thk-jweir"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1359"
 type: "مفكر"
 level: "متوسط"
 title: "جون ج. وير"

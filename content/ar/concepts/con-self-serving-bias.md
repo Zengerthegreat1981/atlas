@@ -1,6 +1,6 @@
 ---
 slug: "con-self-serving-bias"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0729"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

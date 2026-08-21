@@ -1,6 +1,6 @@
 ---
 slug: "thk-smorita"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1963"
 type: "مفكر"
 level: "متوسط"
 title: "شوما موريتا"

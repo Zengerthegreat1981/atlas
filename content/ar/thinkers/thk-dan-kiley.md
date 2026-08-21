@@ -1,6 +1,6 @@
 ---
 slug: "thk-dan-kiley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0882"
 type: "مفكر"
 part: "psychology"
 register: "popular"

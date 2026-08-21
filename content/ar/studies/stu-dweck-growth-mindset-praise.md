@@ -1,6 +1,6 @@
 ---
 slug: "stu-dweck-growth-mindset-praise"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0034"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة مولر ودويك حول أثر الثناء على الذكاء مقابل الجهد وعقلية النمو"

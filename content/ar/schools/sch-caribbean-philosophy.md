@@ -1,6 +1,6 @@
 ---
 slug: "sch-caribbean-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0056"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

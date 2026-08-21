@@ -1,6 +1,6 @@
 ---
 slug: "crt-feminist-critique-humanistic"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0009"
 type: "نقد خارجي موثَّق"
 level: "متوسط"
 title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-lluborsky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1463"
 type: "مفكر"
 level: "متوسط"
 title: "ليستر لوبورسكي"

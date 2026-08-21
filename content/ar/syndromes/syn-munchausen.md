@@ -1,6 +1,6 @@
 ---
 slug: "syn-munchausen"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0121"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

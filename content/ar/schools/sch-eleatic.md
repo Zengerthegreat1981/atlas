@@ -1,6 +1,6 @@
 ---
 slug: "sch-eleatic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0095"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

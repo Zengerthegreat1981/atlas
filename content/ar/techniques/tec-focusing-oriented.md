@@ -1,6 +1,6 @@
 ---
 slug: "tec-focusing-oriented"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0222"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الموجه بالتركيز والإحساس المعيش"

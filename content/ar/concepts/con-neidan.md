@@ -1,6 +1,6 @@
 ---
 slug: "con-neidan"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0650"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

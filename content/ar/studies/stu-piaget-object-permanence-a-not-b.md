@@ -1,6 +1,6 @@
 ---
 slug: "stu-piaget-object-permanence-a-not-b"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0085"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجارب بياجيه لخطأ A-not-B وديمومة الشيء"

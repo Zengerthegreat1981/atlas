@@ -1,6 +1,6 @@
 ---
 slug: "thk-lmorrnah"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1466"
 type: "مفكر"
 level: "متوسط"
 title: "إبراهام كاوانيوآ"

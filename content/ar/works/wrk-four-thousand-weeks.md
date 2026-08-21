@@ -1,6 +1,6 @@
 ---
 slug: "wrk-four-thousand-weeks"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0316"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

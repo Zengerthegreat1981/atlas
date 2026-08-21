@@ -1,6 +1,6 @@
 ---
 slug: "wrk-dont-think-of-an-elephant"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0285"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

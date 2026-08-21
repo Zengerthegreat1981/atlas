@@ -1,6 +1,6 @@
 ---
 slug: "thk-pfrick"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1734"
 type: "مفكر"
 level: "متوسط"
 title: "بول فريك"

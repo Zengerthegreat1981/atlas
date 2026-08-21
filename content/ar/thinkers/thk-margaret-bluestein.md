@@ -1,6 +1,6 @@
 ---
 slug: "thk-margaret-bluestein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1502"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريت بلوستين"

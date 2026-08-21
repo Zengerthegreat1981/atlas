@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbillig"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1535"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل بيليغ"

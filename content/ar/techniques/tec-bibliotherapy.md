@@ -1,6 +1,6 @@
 ---
 slug: "tec-bibliotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0065"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالقراءة والبيبليوثيرابيا"

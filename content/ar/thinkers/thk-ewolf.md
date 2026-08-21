@@ -1,6 +1,6 @@
 ---
 slug: "thk-ewolf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1024"
 type: "مفكر"
 level: "متوسط"
 title: "إرنست س. وولف"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-williams-behavioral"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0188"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

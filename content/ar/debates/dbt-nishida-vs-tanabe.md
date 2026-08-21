@@ -1,6 +1,6 @@
 ---
 slug: "dbt-nishida-vs-tanabe"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0338"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

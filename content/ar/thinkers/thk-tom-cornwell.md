@@ -1,6 +1,6 @@
 ---
 slug: "thk-tom-cornwell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2053"
 type: "مفكر"
 level: "متوسط"
 title: "توم كورنول"

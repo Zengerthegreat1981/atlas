@@ -1,6 +1,6 @@
 ---
 slug: "sch-new-materialism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0218"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

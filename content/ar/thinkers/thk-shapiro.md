@@ -1,6 +1,6 @@
 ---
 slug: "thk-shapiro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1938"
 type: "مفكر"
 level: "متوسط"
 title: "فرانسين شابيرو"

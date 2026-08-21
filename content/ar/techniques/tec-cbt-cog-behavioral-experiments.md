@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-behavioral-experiments"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0080"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "التجارب السلوكية لاختبار الأفكار"

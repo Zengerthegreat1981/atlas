@@ -1,6 +1,6 @@
 ---
 slug: "sch-adat"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0007"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

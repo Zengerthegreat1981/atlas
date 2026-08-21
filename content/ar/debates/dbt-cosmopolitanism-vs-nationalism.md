@@ -1,6 +1,6 @@
 ---
 slug: "dbt-cosmopolitanism-vs-nationalism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0319"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

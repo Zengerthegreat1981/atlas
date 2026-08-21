@@ -1,6 +1,6 @@
 ---
 slug: "thk-kapila"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1370"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

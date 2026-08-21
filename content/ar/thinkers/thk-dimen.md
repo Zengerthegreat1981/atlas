@@ -1,6 +1,6 @@
 ---
 slug: "thk-dimen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0929"
 type: "مفكر"
 level: "متقدم"
 title: "موريل ديمن"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-morin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1618"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز م. مورين"

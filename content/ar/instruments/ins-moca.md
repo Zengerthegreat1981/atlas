@@ -1,6 +1,6 @@
 ---
 slug: "ins-moca"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0055"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "تقييم مونتريال الإدراكي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-fgutier"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1034"
 type: "مفكر"
 level: "متوسط"
 title: "فرانسيسكو غوتيريس"

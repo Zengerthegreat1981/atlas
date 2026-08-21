@@ -1,6 +1,6 @@
 ---
 slug: "sch-deliberative-democracy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0086"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

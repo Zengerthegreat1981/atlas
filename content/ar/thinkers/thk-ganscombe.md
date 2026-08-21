@@ -1,6 +1,6 @@
 ---
 slug: "thk-ganscombe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1069"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

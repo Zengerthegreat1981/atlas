@@ -1,6 +1,6 @@
 ---
 slug: "sch-andalusian-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0028"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

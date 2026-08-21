@@ -1,6 +1,6 @@
 ---
 slug: "thk-schultz-hencke"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1915"
 type: "مفكر"
 level: "متقدم"
 title: "هارالد شولتز-هِنكه"

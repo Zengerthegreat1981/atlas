@@ -1,6 +1,6 @@
 ---
 slug: "thk-beck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0743"
 type: "مفكر"
 level: "متوسط"
 title: "آرون تيموثي بيك"

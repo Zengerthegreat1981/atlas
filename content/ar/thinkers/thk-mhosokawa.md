@@ -1,6 +1,6 @@
 ---
 slug: "thk-mhosokawa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1571"
 type: "مفكر"
 level: "متوسط"
 title: "ميتشيو هوسوكاوا"

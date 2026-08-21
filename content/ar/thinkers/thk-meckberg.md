@@ -1,6 +1,6 @@
 ---
 slug: "thk-meckberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1547"
 type: "مفكر"
 level: "متوسط"
 title: "ماريانا إيكبيرغ"

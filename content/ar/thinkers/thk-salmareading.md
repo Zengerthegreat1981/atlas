@@ -1,6 +1,6 @@
 ---
 slug: "thk-salmareading"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1900"
 type: "مفكر"
 level: "متقدم"
 title: "سالما ريدنغ"

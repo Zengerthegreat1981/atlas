@@ -1,6 +1,6 @@
 ---
 slug: "syn-presenteeism-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0140"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

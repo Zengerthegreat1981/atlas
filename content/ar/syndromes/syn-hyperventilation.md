@@ -1,6 +1,6 @@
 ---
 slug: "syn-hyperventilation"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0088"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "con-hindutva"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0587"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

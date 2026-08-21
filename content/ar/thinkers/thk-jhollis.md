@@ -1,6 +1,6 @@
 ---
 slug: "thk-jhollis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1289"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس هولّيس"

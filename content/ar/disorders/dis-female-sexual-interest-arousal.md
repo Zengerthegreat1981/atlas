@@ -1,6 +1,6 @@
 ---
 slug: "dis-female-sexual-interest-arousal"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0048"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الاهتمام/الإثارة الجنسية الأنثوية"

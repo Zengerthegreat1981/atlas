@@ -1,6 +1,6 @@
 ---
 slug: "br-psychiatric-vocational-rehab"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0189"
 type: "تيار"
 level: "متوسط"
 title: "التأهيل المهني النفسي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-fherzog"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1036"
 type: "مفكر"
 level: "مبتدئ"
 title: "ف. هرتسوغ"

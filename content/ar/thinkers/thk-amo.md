@@ -1,6 +1,6 @@
 ---
 slug: "thk-amo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0687"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

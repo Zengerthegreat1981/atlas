@@ -1,6 +1,6 @@
 ---
 slug: "dis-gender-identity-disorder-historical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0053"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder)"

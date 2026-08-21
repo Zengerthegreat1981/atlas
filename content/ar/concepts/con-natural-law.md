@@ -1,6 +1,6 @@
 ---
 slug: "con-natural-law"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0648"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

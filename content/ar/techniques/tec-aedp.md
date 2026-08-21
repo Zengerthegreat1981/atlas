@@ -1,6 +1,6 @@
 ---
 slug: "tec-aedp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0055"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج الديناميكي التجريبي المتسارع (AEDP)"

@@ -1,6 +1,6 @@
 ---
 slug: "con-restorative-justice"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0716"
 type: "مفهوم"
 level: "متوسط"
 title: "العدالة التصالحية"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-vedic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0321"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

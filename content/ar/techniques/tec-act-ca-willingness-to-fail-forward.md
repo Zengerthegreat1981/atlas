@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-willingness-to-fail-forward"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0023"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الاستعداد للفشل والتقدم رغمه"

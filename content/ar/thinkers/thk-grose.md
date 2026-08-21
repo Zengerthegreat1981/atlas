@@ -1,6 +1,6 @@
 ---
 slug: "thk-grose"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1115"
 type: "مفكر"
 level: "متوسط"
 title: "غيليس روز"

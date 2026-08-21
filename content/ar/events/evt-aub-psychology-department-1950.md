@@ -1,6 +1,6 @@
 ---
 slug: "evt-aub-psychology-department-1950"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0012"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "تأسيس قسم علم النفس والعيادات الإرشادية في الجامعة الأمريكية ببيروت"

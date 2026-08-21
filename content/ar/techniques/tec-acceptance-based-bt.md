@@ -1,6 +1,6 @@
 ---
 slug: "tec-acceptance-based-bt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0008"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج السلوكي القائم على القبول (ABBT)"

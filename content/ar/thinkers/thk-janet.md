@@ -1,6 +1,6 @@
 ---
 slug: "thk-janet"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1228"
 type: "مفكر"
 level: "متقدم"
 title: "بيير جانيه"

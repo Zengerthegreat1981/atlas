@@ -1,6 +1,6 @@
 ---
 slug: "con-martyr-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0632"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

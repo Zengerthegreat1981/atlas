@@ -1,6 +1,6 @@
 ---
 slug: "thk-rosemaryalara"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1853"
 type: "مفكر"
 level: "متوسط"
 title: "روزماري أَلارا"

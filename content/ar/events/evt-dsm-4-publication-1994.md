@@ -1,6 +1,6 @@
 ---
 slug: "evt-dsm-4-publication-1994"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0030"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "نشر الدليل التشخيصي الرابع والالتزام بالمراجعات المنهجية للأدلة"

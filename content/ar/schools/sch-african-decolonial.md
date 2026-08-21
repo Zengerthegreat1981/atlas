@@ -1,6 +1,6 @@
 ---
 slug: "sch-african-decolonial"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0010"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

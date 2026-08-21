@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgreenspan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1283"
 type: "مفكر"
 level: "متوسط"
 title: "جايك غرينسبان"

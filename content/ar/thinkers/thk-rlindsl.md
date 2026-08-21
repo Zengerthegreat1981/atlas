@@ -1,6 +1,6 @@
 ---
 slug: "thk-rlindsl"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1828"
 type: "مفكر"
 level: "متقدم"
 title: "أورغن ر. ليندزلي"

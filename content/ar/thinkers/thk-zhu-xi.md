@@ -1,6 +1,6 @@
 ---
 slug: "thk-zhu-xi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2148"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

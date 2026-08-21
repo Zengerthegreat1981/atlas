@@ -1,6 +1,6 @@
 ---
 slug: "thk-spencer-johnson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1969"
 type: "مفكر"
 part: "psychology"
 register: "popular"

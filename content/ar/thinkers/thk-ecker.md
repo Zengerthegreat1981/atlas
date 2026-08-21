@@ -1,6 +1,6 @@
 ---
 slug: "thk-ecker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0974"
 type: "مفكر"
 level: "متقدم"
 title: "بروس إيكر"

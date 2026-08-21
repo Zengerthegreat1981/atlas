@@ -1,6 +1,6 @@
 ---
 slug: "dis-schizophrenia"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0089"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "الفصام"

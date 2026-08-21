@@ -1,6 +1,6 @@
 ---
 slug: "evt-jung-institute-zurich-1948"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0047"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس معهد سي. جي. يونغ في زيورخ للتدريب والبحث التحليلي"

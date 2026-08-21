@@ -1,6 +1,6 @@
 ---
 slug: "con-emunah"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0535"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

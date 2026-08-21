@@ -1,6 +1,6 @@
 ---
 slug: "sch-zen-soto"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0336"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

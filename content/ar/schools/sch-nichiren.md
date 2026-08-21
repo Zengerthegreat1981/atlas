@@ -1,6 +1,6 @@
 ---
 slug: "sch-nichiren"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0221"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

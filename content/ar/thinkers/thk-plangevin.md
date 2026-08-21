@@ -1,6 +1,6 @@
 ---
 slug: "thk-plangevin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1751"
 type: "مفكر"
 level: "متوسط"
 title: "روني لانجفان"

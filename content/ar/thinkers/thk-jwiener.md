@@ -1,6 +1,6 @@
 ---
 slug: "thk-jwiener"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1363"
 type: "مفكر"
 level: "متقدم"
 title: "جان وينر"

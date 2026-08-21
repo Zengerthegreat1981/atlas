@@ -1,6 +1,6 @@
 ---
 slug: "sch-leibnizianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0181"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

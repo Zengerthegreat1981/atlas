@@ -1,6 +1,6 @@
 ---
 slug: "dis-trichotillomania"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0105"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "هوس نتف الشعر (Trichotillomania)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-thomas-harris"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2034"
 type: "مفكر"
 part: "psychology"
 register: "popular"

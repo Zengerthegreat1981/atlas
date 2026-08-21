@@ -1,6 +1,6 @@
 ---
 slug: "thk-eblanche"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0970"
 type: "مفكر"
 level: "متوسط"
 title: "إرنا بلانش"

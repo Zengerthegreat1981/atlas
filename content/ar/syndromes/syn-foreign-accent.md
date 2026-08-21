@@ -1,6 +1,6 @@
 ---
 slug: "syn-foreign-accent"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0068"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

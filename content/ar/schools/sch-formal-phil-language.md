@@ -1,6 +1,6 @@
 ---
 slug: "sch-formal-phil-language"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0117"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

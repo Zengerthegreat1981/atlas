@@ -1,6 +1,6 @@
 ---
 slug: "thk-mlittle"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1600"
 type: "مفكر"
 level: "متوسط"
 title: "مارجريت ليتل"

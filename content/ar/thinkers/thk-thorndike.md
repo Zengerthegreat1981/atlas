@@ -1,6 +1,6 @@
 ---
 slug: "thk-thorndike"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2037"
 type: "مفكر"
 level: "متقدم"
 title: "إدوارد ثورنديك"

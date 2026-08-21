@@ -1,6 +1,6 @@
 ---
 slug: "dbt-adhd-overdiagnosis-overmedication"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0312"
 type: "جدل"
 level: "متقدم"
 title: "جدل الإفراط في تشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه دوائياً"

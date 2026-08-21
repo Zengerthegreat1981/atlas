@@ -1,6 +1,6 @@
 ---
 slug: "con-radical-healing"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0701"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الشفاء الجذري"

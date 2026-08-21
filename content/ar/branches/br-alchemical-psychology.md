@@ -1,6 +1,6 @@
 ---
 slug: "br-alchemical-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0114"
 type: "تيار"
 level: "متقدم"
 title: "علم النفس الألكيميائي (هيلمان)"

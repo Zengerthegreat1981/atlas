@@ -1,6 +1,6 @@
 ---
 slug: "con-dialectics"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0515"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

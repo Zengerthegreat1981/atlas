@@ -1,6 +1,6 @@
 ---
 slug: "thk-emmons"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1003"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت إيمونز"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-baynes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0735"
 type: "مفكر"
 level: "متوسط"
 title: "هيلتون غودوين «بيتر» باينز"

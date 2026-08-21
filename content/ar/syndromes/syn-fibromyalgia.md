@@ -1,6 +1,6 @@
 ---
 slug: "syn-fibromyalgia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0065"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

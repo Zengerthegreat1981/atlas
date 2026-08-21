@@ -1,6 +1,6 @@
 ---
 slug: "wrk-grundlagen-psychischen-entwicklung"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0332"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "أساسيات النمو الذهني"

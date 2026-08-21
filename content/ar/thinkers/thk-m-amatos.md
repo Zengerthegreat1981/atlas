@@ -1,6 +1,6 @@
 ---
 slug: "thk-m-amatos"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1485"
 type: "مفكر"
 level: "متوسط"
 title: "ماريّا أميليا ماتوس"

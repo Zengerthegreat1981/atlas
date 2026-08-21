@@ -1,6 +1,6 @@
 ---
 slug: "sch-frankfurt-school"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0118"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

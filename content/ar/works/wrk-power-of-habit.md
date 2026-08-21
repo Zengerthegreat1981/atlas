@@ -1,6 +1,6 @@
 ---
 slug: "wrk-power-of-habit"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0424"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

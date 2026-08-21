@@ -1,6 +1,6 @@
 ---
 slug: "thk-bernfeld"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0751"
 type: "مفكر"
 level: "متقدم"
 title: "سيغفريد بيرنفيلد"

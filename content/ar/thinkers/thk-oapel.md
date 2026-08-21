@@ -1,6 +1,6 @@
 ---
 slug: "thk-oapel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1692"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-cgarrett"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0832"
 type: "مفكر"
 level: "متوسط"
 title: "كولين غاريت"

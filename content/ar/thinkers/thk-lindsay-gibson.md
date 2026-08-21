@@ -1,6 +1,6 @@
 ---
 slug: "thk-lindsay-gibson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1458"
 type: "مفكر"
 part: "psychology"
 register: "popular"

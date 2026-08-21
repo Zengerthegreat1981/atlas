@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-accumulating-positives-build-mastery"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0159"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تجميع الإيجابيات طويلة المدى وبناء الإتقان (B)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmritchie"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1835"
 type: "مفكر"
 level: "مبتدئ"
 title: "رالف ميتزner"

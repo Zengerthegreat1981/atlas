@@ -1,6 +1,6 @@
 ---
 slug: "thk-jamiller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1227"
 type: "مفكر"
 level: "متقدم"
 title: "جاك-أَلان ميلِّر"

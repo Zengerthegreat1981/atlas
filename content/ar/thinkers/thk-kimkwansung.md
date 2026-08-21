@@ -1,6 +1,6 @@
 ---
 slug: "thk-kimkwansung"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1398"
 type: "مفكر"
 level: "مبتدئ"
 title: "كيم كوان-سونغ"

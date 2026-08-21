@@ -1,6 +1,6 @@
 ---
 slug: "sch-vajrayana"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0319"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

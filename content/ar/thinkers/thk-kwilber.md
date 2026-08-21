@@ -1,6 +1,6 @@
 ---
 slug: "thk-kwilber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1427"
 type: "مفكر"
 level: "متقدم"
 title: "كين ويلبر"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-wernicke-aphasia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0185"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

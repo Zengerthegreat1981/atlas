@@ -1,6 +1,6 @@
 ---
 slug: "dbt-rogers-vs-may-authenticity"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0346"
 type: "جدل"
 level: "متقدم"
 title: "أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة"

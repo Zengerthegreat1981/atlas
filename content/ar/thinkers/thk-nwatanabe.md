@@ -1,6 +1,6 @@
 ---
 slug: "thk-nwatanabe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1691"
 type: "مفكر"
 level: "متوسط"
 title: "نوبو واتانابي"

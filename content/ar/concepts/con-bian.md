@@ -1,6 +1,6 @@
 ---
 slug: "con-bian"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0459"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

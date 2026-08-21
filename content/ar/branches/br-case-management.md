@@ -1,6 +1,6 @@
 ---
 slug: "br-case-management"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0123"
 type: "تيار"
 level: "مبتدئ"
 title: "إدارة الحالات"

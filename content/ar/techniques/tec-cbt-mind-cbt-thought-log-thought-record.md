@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-mind-cbt-thought-log-thought-record"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0112"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "سجل الأفكار المعرفي"

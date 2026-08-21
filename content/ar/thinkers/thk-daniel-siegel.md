@@ -1,6 +1,6 @@
 ---
 slug: "thk-daniel-siegel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0886"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

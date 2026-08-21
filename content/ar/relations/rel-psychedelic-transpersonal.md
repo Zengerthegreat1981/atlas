@@ -1,6 +1,6 @@
 ---
 slug: "rel-psychedelic-transpersonal"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0140"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي"

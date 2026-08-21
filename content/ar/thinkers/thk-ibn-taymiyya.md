@@ -1,6 +1,6 @@
 ---
 slug: "thk-ibn-taymiyya"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1188"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

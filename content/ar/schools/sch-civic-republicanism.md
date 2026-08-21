@@ -1,6 +1,6 @@
 ---
 slug: "sch-civic-republicanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0064"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

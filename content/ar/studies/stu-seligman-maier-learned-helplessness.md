@@ -1,6 +1,6 @@
 ---
 slug: "stu-seligman-maier-learned-helplessness"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0098"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب"

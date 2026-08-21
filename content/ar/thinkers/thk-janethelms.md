@@ -1,6 +1,6 @@
 ---
 slug: "thk-janethelms"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1229"
 type: "مفكر"
 level: "متقدم"
 title: "جانيت هيلمز"

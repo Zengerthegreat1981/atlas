@@ -1,6 +1,6 @@
 ---
 slug: "wrk-kierkegaard-concept-of-irony"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0365"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "مفهوم التهكم (مع إشارة خاصة لسقراط)"

@@ -1,6 +1,6 @@
 ---
 slug: "br-self-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0208"
 type: "تيار"
 level: "متوسط"
 title: "علم نفس الذات"

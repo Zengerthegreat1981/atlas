@@ -1,6 +1,6 @@
 ---
 slug: "br-group-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0156"
 type: "تيار"
 level: "متوسط"
 title: "التحليل النفسي الجماعي وتحليل المجموعات"

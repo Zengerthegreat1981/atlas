@@ -1,6 +1,6 @@
 ---
 slug: "syn-alien-hand"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0007"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

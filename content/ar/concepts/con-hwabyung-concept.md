@@ -1,6 +1,6 @@
 ---
 slug: "con-hwabyung-concept"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0590"
 type: "مفهوم"
 level: "متوسط"
 title: "الهوابيونغ (مفهوم ثقافي)"

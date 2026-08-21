@@ -1,6 +1,6 @@
 ---
 slug: "thk-dboyden"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0900"
 type: "مفكر"
 level: "متوسط"
 title: "ديان بوييدن"

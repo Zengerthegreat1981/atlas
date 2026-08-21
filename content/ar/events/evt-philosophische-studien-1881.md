@@ -1,6 +1,6 @@
 ---
 slug: "evt-philosophische-studien-1881"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0054"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس أول دورية لعلم النفس التجريبي Philosophische Studien لفونت"

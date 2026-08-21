@@ -1,6 +1,6 @@
 ---
 slug: "con-critical-liberation-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0493"
 type: "مفهوم"
 level: "متوسط"
 title: "العلاج النقدي-التحرري"

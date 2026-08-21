@@ -1,6 +1,6 @@
 ---
 slug: "wrk-cesaire-discourse-on-colonialism"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0265"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "خطاب في الاستعمار"

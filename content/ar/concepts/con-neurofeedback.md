@@ -1,6 +1,6 @@
 ---
 slug: "con-neurofeedback"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2162"
 type: "مفكر"
 level: "مبتدئ"
 title: "التغذية الراجعة العصبية (Neurofeedback)"

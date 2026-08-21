@@ -1,6 +1,6 @@
 ---
 slug: "stu-bandura-vicarious-reinforcement"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0011"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسات باندورا حول التعزيز غير المباشر وتثبيط السلوك بالملاحظة"

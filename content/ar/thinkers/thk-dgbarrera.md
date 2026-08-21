@@ -1,6 +1,6 @@
 ---
 slug: "thk-dgbarrera"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0922"
 type: "مفكر"
 level: "متقدم"
 title: "دييغو غارسيا بارّيرا"

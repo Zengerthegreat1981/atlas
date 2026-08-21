@@ -1,6 +1,6 @@
 ---
 slug: "thk-rbrandom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1786"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

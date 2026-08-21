@@ -1,6 +1,6 @@
 ---
 slug: "br-relational-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0203"
 type: "تيار"
 level: "متوسط"
 title: "التحليل النفسي العلائقي الأمريكي"

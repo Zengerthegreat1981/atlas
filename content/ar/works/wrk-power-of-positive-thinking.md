@@ -1,6 +1,6 @@
 ---
 slug: "wrk-power-of-positive-thinking"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0426"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

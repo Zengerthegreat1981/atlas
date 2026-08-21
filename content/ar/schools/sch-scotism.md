@@ -1,6 +1,6 @@
 ---
 slug: "sch-scotism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0277"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

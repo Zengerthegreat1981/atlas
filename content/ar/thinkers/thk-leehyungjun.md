@@ -1,6 +1,6 @@
 ---
 slug: "thk-leehyungjun"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1447"
 type: "مفكر"
 level: "متوسط"
 title: "لي هيونغ-جون"

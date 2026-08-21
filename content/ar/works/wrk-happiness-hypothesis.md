@@ -1,6 +1,6 @@
 ---
 slug: "wrk-happiness-hypothesis"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0337"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

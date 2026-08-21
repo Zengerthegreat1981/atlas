@@ -1,6 +1,6 @@
 ---
 slug: "stu-hyman-false-childhood-memories"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0052"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسات هايمان وبيلتون حول زرع ذكريات الطفولة الزائفة"

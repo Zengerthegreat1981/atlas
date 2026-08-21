@@ -1,6 +1,6 @@
 ---
 slug: "thk-dwile"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0965"
 type: "مفكر"
 level: "متوسط"
 title: "دانيال وايل"

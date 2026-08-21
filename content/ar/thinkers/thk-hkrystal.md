@@ -1,6 +1,6 @@
 ---
 slug: "thk-hkrystal"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1158"
 type: "مفكر"
 level: "متوسط"
 title: "هيروشي كاواشيما"

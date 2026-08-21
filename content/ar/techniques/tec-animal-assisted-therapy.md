@@ -1,6 +1,6 @@
 ---
 slug: "tec-animal-assisted-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0058"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بمساعدة الحيوانات (AAT)"

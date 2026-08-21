@@ -1,6 +1,6 @@
 ---
 slug: "tec-contextual-family-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0136"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج الأسري السياقي متعدد الأجيال"

@@ -1,6 +1,6 @@
 ---
 slug: "con-intentionality"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0599"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

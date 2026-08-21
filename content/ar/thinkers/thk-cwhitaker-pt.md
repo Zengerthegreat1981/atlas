@@ -1,6 +1,6 @@
 ---
 slug: "thk-cwhitaker-pt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0874"
 type: "مفكر"
 level: "متوسط"
 title: "جون مارش"

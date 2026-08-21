@@ -1,6 +1,6 @@
 ---
 slug: "sch-tendai-japan"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0303"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-spillius"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1973"
 type: "مفكر"
 level: "متقدم"
 title: "إلِزابت بوت سپِليوس"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-prosopagnosia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0141"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

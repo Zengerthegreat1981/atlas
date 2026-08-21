@@ -1,6 +1,6 @@
 ---
 slug: "thk-slima"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1954"
 type: "مفكر"
 level: "متوسط"
 title: "سيلفيا ليما"

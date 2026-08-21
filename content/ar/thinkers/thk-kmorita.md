@@ -1,6 +1,6 @@
 ---
 slug: "thk-kmorita"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1409"
 type: "مفكر"
 level: "متوسط"
 title: "ماساتاكي موريتا"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-crsnyder"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0861"
 type: "مفكر"
 level: "متقدم"
 title: "تشارلز ريتشارد سنايدر"

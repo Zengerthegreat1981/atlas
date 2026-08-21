@@ -1,6 +1,6 @@
 ---
 slug: "evt-eabct-founding-1971"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0033"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "تأسيس الجمعية الأوروبية للعلاجات السلوكية والمعرفية في ميونخ"

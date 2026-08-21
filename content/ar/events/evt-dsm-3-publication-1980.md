@@ -1,6 +1,6 @@
 ---
 slug: "evt-dsm-3-publication-1980"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0029"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "ثورة DSM-III ونقل الطب النفسي للنموذج التجريبي الوصفي بمعايير سبيتزر"

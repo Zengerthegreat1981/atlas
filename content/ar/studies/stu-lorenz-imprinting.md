@@ -1,6 +1,6 @@
 ---
 slug: "stu-lorenz-imprinting"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0072"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب لورنز في الطبع الحيوي والارتباط المبكر والفترة الحرجة"

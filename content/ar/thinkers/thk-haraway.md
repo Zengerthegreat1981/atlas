@@ -1,6 +1,6 @@
 ---
 slug: "thk-haraway"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1131"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

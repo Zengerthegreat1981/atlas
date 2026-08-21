@@ -1,6 +1,6 @@
 ---
 slug: "wrk-martinbaro-psychology-liberation"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0384"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "علم النفس للتحرير (Psicología de la liberación)"

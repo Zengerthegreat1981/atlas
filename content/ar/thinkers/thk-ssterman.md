@@ -1,6 +1,6 @@
 ---
 slug: "thk-ssterman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1989"
 type: "مفكر"
 level: "متقدم"
 title: "ماريو ستيرمان"

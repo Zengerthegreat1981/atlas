@@ -1,6 +1,6 @@
 ---
 slug: "thk-george-lakoff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1083"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

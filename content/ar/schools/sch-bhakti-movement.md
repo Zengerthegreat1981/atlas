@@ -1,6 +1,6 @@
 ---
 slug: "sch-bhakti-movement"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0043"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

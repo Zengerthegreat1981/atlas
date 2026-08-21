@@ -1,6 +1,6 @@
 ---
 slug: "con-speciesism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0748"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

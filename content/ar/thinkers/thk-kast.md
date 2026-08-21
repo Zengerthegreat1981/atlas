@@ -1,6 +1,6 @@
 ---
 slug: "thk-kast"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1373"
 type: "مفكر"
 level: "متقدم"
 title: "فيرينا كاست"

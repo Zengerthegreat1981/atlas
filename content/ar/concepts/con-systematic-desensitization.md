@@ -1,6 +1,6 @@
 ---
 slug: "con-systematic-desensitization"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0762"
 type: "مفهوم"
 level: "مبتدئ"
 title: "إزالة التحسس المنهجي"

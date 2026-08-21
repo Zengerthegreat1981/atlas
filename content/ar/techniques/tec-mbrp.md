@@ -1,6 +1,6 @@
 ---
 slug: "tec-mbrp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0242"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-ham-d"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0040"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس هاملتون لتقييم الاكتئاب"

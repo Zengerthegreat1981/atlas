@@ -1,6 +1,6 @@
 ---
 slug: "wrk-psychopathologie-alltagslebens"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0435"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "سيكوباتولوجيا الحياة اليومية"

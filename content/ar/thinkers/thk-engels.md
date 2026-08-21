@@ -1,6 +1,6 @@
 ---
 slug: "thk-engels"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1004"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

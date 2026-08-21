@@ -1,6 +1,6 @@
 ---
 slug: "tec-ro-dbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0292"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)"

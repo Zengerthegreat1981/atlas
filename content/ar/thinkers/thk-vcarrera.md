@@ -1,6 +1,6 @@
 ---
 slug: "thk-vcarrera"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2079"
 type: "مفكر"
 level: "متوسط"
 title: "فابريتسيو كَريرا"

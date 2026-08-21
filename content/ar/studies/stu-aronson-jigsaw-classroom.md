@@ -1,6 +1,6 @@
 ---
 slug: "stu-aronson-jigsaw-classroom"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0006"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

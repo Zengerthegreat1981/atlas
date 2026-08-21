@@ -1,6 +1,6 @@
 ---
 slug: "thk-zmoreno"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2152"
 type: "مفكر"
 level: "متوسط"
 title: "زيركا مورينو"

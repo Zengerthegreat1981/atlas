@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-willing-hands"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0191"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "اليدين المتقبّلتين"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-tat"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0082"
 type: "أداة قياس"
 level: "متوسط"
 title: "اختبار تفهم الموضوع لـ موراي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tarnas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2020"
 type: "مفكر"
 level: "متوسط"
 title: "ريتشارد تارناس"

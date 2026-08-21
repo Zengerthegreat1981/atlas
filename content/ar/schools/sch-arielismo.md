@@ -1,6 +1,6 @@
 ---
 slug: "sch-arielismo"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0033"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

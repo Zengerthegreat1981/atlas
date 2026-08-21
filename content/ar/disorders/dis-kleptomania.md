@@ -1,6 +1,6 @@
 ---
 slug: "dis-kleptomania"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0064"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "هوس السرقة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mlowenfeld"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1602"
 type: "مفكر"
 level: "متقدم"
 title: "مارغريت لِونفلد"

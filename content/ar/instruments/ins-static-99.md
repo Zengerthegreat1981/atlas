@@ -1,6 +1,6 @@
 ---
 slug: "ins-static-99"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0078"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس Static-99 للمخاطرة الجنسية"

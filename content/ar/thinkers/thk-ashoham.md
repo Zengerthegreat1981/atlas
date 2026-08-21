@@ -1,6 +1,6 @@
 ---
 slug: "thk-ashoham"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0714"
 type: "مفكر"
 level: "مبتدئ"
 title: "آرثر شوهام"

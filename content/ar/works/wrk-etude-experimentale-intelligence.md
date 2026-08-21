@@ -1,6 +1,6 @@
 ---
 slug: "wrk-etude-experimentale-intelligence"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0303"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "دراسة تجريبية للذكاء"

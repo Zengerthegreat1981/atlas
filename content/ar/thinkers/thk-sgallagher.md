@@ -1,6 +1,6 @@
 ---
 slug: "thk-sgallagher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1926"
 type: "مفكر"
 level: "متوسط"
 title: "شون غالاغر"

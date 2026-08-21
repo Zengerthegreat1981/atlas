@@ -1,6 +1,6 @@
 ---
 slug: "wrk-kuhn-structure-revolutions"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0366"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "بنية الثورات العلمية (The Structure of Scientific Revolutions)"

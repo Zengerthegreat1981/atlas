@@ -1,6 +1,6 @@
 ---
 slug: "sch-ockhamism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0228"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

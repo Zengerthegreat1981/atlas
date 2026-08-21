@@ -1,6 +1,6 @@
 ---
 slug: "wrk-goldstein-organism"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0329"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الكائن الحي (The Organism)"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-ahfa-arabian"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0004"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

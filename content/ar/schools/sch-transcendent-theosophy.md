@@ -1,6 +1,6 @@
 ---
 slug: "sch-transcendent-theosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0307"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

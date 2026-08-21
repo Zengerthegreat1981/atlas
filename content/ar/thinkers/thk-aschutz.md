@@ -1,6 +1,6 @@
 ---
 slug: "thk-aschutz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0712"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

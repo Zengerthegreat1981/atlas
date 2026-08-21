@@ -1,6 +1,6 @@
 ---
 slug: "thk-efriedman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0983"
 type: "مفكر"
 level: "متوسط"
 title: "إدوارد فريدمان"

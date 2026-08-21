@@ -1,6 +1,6 @@
 ---
 slug: "sch-black-existentialism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0046"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

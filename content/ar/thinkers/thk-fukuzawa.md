@@ -1,6 +1,6 @@
 ---
 slug: "thk-fukuzawa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1058"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

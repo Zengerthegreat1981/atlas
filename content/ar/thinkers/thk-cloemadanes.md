@@ -1,6 +1,6 @@
 ---
 slug: "thk-cloemadanes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0846"
 type: "مفكر"
 level: "متقدم"
 title: "كلوي مادانيس"

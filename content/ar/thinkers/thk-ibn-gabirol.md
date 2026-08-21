@@ -1,6 +1,6 @@
 ---
 slug: "thk-ibn-gabirol"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1185"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

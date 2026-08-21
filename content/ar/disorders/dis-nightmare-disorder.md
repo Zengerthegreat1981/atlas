@@ -1,6 +1,6 @@
 ---
 slug: "dis-nightmare-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0070"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الكوابيس"

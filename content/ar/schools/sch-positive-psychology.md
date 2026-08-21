@@ -1,6 +1,6 @@
 ---
 slug: "sch-positive-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0247"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"

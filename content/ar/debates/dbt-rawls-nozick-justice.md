@@ -1,6 +1,6 @@
 ---
 slug: "dbt-rawls-nozick-justice"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0343"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-mal-de-ojo"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0115"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

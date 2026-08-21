@@ -1,6 +1,6 @@
 ---
 slug: "wrk-morena-who-shall-survive"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0396"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "من سيبقى على قيد الحياة؟ (Who Shall Survive?)"

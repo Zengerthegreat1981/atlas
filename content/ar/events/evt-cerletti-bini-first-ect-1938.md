@@ -1,6 +1,6 @@
 ---
 slug: "evt-cerletti-bini-first-ect-1938"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0018"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "أول تطبيق سريري للعلاج بالصدمة الكهربائية بواسطة سيرليتي وبيني في روما"

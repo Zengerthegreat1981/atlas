@@ -1,6 +1,6 @@
 ---
 slug: "thk-npeseschkian"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1686"
 type: "مفكر"
 level: "متقدم"
 title: "نصرت بيسشكيان"

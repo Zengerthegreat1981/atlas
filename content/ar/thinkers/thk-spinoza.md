@@ -1,6 +1,6 @@
 ---
 slug: "thk-spinoza"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1974"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

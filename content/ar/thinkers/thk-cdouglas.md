@@ -1,6 +1,6 @@
 ---
 slug: "thk-cdouglas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0828"
 type: "مفكر"
 level: "متوسط"
 title: "كلير دوغلاس"

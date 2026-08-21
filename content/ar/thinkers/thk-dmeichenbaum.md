@@ -1,6 +1,6 @@
 ---
 slug: "thk-dmeichenbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0937"
 type: "مفكر"
 level: "متقدم"
 title: "د. هـ. مايكنباوم"

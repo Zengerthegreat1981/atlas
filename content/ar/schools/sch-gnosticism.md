@@ -1,6 +1,6 @@
 ---
 slug: "sch-gnosticism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0124"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

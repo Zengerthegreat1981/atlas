@@ -1,6 +1,6 @@
 ---
 slug: "thk-dkalsched"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0931"
 type: "مفكر"
 level: "متقدم"
 title: "دونالد كَلشد"

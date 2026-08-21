@@ -1,6 +1,6 @@
 ---
 slug: "thk-mnascimento"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1609"
 type: "مفكر"
 level: "متوسط"
 title: "ماي ناسيمينتو"

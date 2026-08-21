@@ -1,6 +1,6 @@
 ---
 slug: "br-relational-cultural"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0201"
 type: "تيار"
 level: "متوسط"
 title: "النظرية العلائقية الثقافية النسوية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-anaess"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0691"
 type: "مفكر"
 level: "متوسط"
 title: "أرنه نيس"

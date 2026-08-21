@@ -1,6 +1,6 @@
 ---
 slug: "con-will-to-power"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0788"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

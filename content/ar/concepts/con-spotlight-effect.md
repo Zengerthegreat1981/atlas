@@ -1,6 +1,6 @@
 ---
 slug: "con-spotlight-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0749"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

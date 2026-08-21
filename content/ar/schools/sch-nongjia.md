@@ -1,6 +1,6 @@
 ---
 slug: "sch-nongjia"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0223"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-pres-anchoring-in-the-five-senses"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0034"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الرسو في الحواس الخمس"

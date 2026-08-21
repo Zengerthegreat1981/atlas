@@ -1,6 +1,6 @@
 ---
 slug: "thk-mrolls"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1628"
 type: "مفكر"
 level: "متوسط"
 title: "إدموند رولز"

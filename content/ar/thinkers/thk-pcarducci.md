@@ -1,6 +1,6 @@
 ---
 slug: "thk-pcarducci"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1718"
 type: "مفكر"
 level: "متوسط"
 title: "باولا كاردوتشي"

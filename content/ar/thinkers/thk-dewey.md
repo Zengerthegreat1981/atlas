@@ -1,6 +1,6 @@
 ---
 slug: "thk-dewey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0918"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

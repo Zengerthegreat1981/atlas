@@ -1,6 +1,6 @@
 ---
 slug: "stu-bowlby-forty-four-thieves"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0017"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة بولبي لـ 44 لصاً حدثاً والحرمان الأمومي المبكر"

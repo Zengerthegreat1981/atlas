@@ -1,6 +1,6 @@
 ---
 slug: "thk-zarathushtra"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2144"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

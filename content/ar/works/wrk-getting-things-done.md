@@ -1,6 +1,6 @@
 ---
 slug: "wrk-getting-things-done"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0325"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

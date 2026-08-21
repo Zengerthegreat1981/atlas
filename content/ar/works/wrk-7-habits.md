@@ -1,6 +1,6 @@
 ---
 slug: "wrk-7-habits"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0220"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-lord-ross-polarization"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0071"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة لورد وروس وليبر حول استقطاب المواقف والتحيز التأكيدي"

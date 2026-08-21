@@ -1,6 +1,6 @@
 ---
 slug: "thk-rfisch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1801"
 type: "مفكر"
 level: "متوسط"
 title: "ريتشارد فيش"

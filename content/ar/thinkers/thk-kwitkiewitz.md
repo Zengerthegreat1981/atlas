@@ -1,6 +1,6 @@
 ---
 slug: "thk-kwitkiewitz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1428"
 type: "مفكر"
 level: "متوسط"
 title: "كايتي ويتكيفيتش"

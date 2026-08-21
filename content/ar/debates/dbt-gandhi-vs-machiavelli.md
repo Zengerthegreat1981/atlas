@@ -1,6 +1,6 @@
 ---
 slug: "dbt-gandhi-vs-machiavelli"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0327"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-alice-in-wonderland"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0006"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-sperling-iconic-memory"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0101"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب سبيرلينج للتقرير الجزئي والذاكرة الأيقونية الحسية"

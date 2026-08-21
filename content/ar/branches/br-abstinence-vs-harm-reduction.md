@@ -1,6 +1,6 @@
 ---
 slug: "br-abstinence-vs-harm-reduction"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0107"
 type: "تيار"
 level: "مبتدئ"
 title: "الامتناع الكامل مقابل الحد من الضرر"

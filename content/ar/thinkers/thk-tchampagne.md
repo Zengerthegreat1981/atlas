@@ -1,6 +1,6 @@
 ---
 slug: "thk-tchampagne"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2025"
 type: "مفكر"
 level: "متوسط"
 title: "تينا شامبانيا"

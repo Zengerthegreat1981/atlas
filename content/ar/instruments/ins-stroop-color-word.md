@@ -1,6 +1,6 @@
 ---
 slug: "ins-stroop-color-word"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0080"
 type: "أداة قياس"
 level: "متوسط"
 title: "اختبار ستروب للألوان والكلمات"

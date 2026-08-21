@@ -1,6 +1,6 @@
 ---
 slug: "thk-joseph-murphy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1334"
 type: "مفكر"
 part: "psychology"
 register: "popular"

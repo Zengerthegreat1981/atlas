@@ -1,6 +1,6 @@
 ---
 slug: "thk-farrelly"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1029"
 type: "مفكر"
 level: "مبتدئ"
 title: "فرانك فاريلي"

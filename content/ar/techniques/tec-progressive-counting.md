@@ -1,6 +1,6 @@
 ---
 slug: "tec-progressive-counting"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0281"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية العد التصاعدي (Progressive Counting)"

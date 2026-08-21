@@ -1,6 +1,6 @@
 ---
 slug: "thk-jordan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1331"
 type: "مفكر"
 level: "متوسط"
 title: "جوديث جوردان"

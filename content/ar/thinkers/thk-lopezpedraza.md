@@ -1,6 +1,6 @@
 ---
 slug: "thk-lopezpedraza"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1473"
 type: "مفكر"
 level: "متقدم"
 title: "رافائيل لوبيز-بيدراثا"

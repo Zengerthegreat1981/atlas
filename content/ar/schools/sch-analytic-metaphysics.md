@@ -1,6 +1,6 @@
 ---
 slug: "sch-analytic-metaphysics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0025"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

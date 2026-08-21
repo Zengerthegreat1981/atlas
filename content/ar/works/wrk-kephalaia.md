@@ -1,6 +1,6 @@
 ---
 slug: "wrk-kephalaia"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0364"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

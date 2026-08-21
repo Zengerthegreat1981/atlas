@@ -1,6 +1,6 @@
 ---
 slug: "syn-chronic-fatigue"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0035"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-blink"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0257"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

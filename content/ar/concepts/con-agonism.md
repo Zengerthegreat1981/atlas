@@ -1,6 +1,6 @@
 ---
 slug: "con-agonism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0430"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

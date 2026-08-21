@@ -1,6 +1,6 @@
 ---
 slug: "dis-functional-neurological-symptom"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0050"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الأعراض العصبية الوظيفية (التحويل)"

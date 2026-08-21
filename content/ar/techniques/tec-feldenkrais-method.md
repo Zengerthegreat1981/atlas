@@ -1,6 +1,6 @@
 ---
 slug: "tec-feldenkrais-method"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0218"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "طريقة فيلدنكرايس في الوعي بالحركة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mahavira"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1494"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

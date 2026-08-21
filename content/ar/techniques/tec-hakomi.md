@@ -1,6 +1,6 @@
 ---
 slug: "tec-hakomi"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0229"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "طريقة هاكومي التجريبية المرتكزة على الجسد"

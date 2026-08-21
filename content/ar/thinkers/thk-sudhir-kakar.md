@@ -1,6 +1,6 @@
 ---
 slug: "thk-sudhir-kakar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2004"
 type: "مفكر"
 level: "متقدم"
 title: "سودير كاكار"

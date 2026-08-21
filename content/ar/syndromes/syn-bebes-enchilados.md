@@ -1,6 +1,6 @@
 ---
 slug: "syn-bebes-enchilados"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0021"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

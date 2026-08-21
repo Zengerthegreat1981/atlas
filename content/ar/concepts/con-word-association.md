@@ -1,6 +1,6 @@
 ---
 slug: "con-word-association"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0789"
 type: "مفهوم"
 level: "متوسط"
 title: "تجربة تداعي الكلمات (الارتباط اللفظي)"

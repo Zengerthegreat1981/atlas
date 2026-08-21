@@ -1,6 +1,6 @@
 ---
 slug: "stu-heider-simmel-apparent-behavior"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0047"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

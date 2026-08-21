@@ -1,6 +1,6 @@
 ---
 slug: "tec-abm"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0006"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "تعديل التحيز الانتباهي (ABM)"

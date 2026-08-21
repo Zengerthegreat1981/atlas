@@ -1,6 +1,6 @@
 ---
 slug: "thk-michio-mizuno"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1579"
 type: "مفكر"
 level: "متقدم"
 title: "ميتشيو ميزونو"

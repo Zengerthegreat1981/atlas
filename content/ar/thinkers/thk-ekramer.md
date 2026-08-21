@@ -1,6 +1,6 @@
 ---
 slug: "thk-ekramer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0992"
 type: "مفكر"
 level: "متوسط"
 title: "إديث كرامر"

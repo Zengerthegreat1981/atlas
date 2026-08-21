@@ -1,6 +1,6 @@
 ---
 slug: "thk-kkoch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1402"
 type: "مفكر"
 level: "متوسط"
 title: "كينيث كوخ"

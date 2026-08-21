@@ -1,6 +1,6 @@
 ---
 slug: "wrk-peter-pan-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0420"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

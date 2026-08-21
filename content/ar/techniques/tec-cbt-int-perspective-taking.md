@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-perspective-taking"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0110"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تبنّي منظور الآخر"

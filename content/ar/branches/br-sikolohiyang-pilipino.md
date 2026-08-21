@@ -1,6 +1,6 @@
 ---
 slug: "br-sikolohiyang-pilipino"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0212"
 type: "تيار"
 level: "متقدم"
 title: "علم النفس الفلبيني الأصيل (إنريكيز)"

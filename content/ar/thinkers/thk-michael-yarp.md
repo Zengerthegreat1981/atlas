@@ -1,6 +1,6 @@
 ---
 slug: "thk-michael-yarp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1577"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل يارب"

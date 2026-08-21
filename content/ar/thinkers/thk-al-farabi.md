@@ -1,6 +1,6 @@
 ---
 slug: "thk-al-farabi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0664"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

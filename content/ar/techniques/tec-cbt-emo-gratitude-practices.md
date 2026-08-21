@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-gratitude-practices"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0095"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "ممارسات الامتنان"

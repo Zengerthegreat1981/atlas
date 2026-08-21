@@ -1,6 +1,6 @@
 ---
 slug: "evt-boulder-conference-scientist-practitioner-1949"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0014"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "مؤتمر بولدر وإقرار نموذج العالم-الممارس لعلم النفس الإكلينيكي"

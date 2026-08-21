@@ -1,6 +1,6 @@
 ---
 slug: "thk-slyubomirsky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1956"
 type: "مفكر"
 level: "متوسط"
 title: "سونيا ليوبوميرسكي"

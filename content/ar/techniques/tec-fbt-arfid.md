@@ -1,6 +1,6 @@
 ---
 slug: "tec-fbt-arfid"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0217"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج الأسري القائم على الأسرة لـ ARFID (FBT-ARFID)"

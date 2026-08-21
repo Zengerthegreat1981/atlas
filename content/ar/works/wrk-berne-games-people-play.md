@@ -1,6 +1,6 @@
 ---
 slug: "wrk-berne-games-people-play"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0253"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-pridgway"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1759"
 type: "مفكر"
 level: "متوسط"
 title: "باتريسيا رِدجوِي"

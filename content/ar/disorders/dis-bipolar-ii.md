@@ -1,6 +1,6 @@
 ---
 slug: "dis-bipolar-ii"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0020"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب ثنائي القطب من النوع الثاني"

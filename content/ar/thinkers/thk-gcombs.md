@@ -1,6 +1,6 @@
 ---
 slug: "thk-gcombs"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1075"
 type: "مفكر"
 level: "متوسط"
 title: "جين كومبز"

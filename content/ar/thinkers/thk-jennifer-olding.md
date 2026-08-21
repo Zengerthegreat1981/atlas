@@ -1,6 +1,6 @@
 ---
 slug: "thk-jennifer-olding"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1267"
 type: "مفكر"
 level: "متوسط"
 title: "جينيفر أولدنغ"

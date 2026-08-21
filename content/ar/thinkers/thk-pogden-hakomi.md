@@ -1,6 +1,6 @@
 ---
 slug: "thk-pogden-hakomi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1753"
 type: "مفكر"
 level: "متوسط"
 title: "بات أوغدن"

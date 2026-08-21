@@ -1,6 +1,6 @@
 ---
 slug: "con-relationality-indigenous"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0712"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-uber-das-gedachtnis"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0477"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "في الذاكرة"

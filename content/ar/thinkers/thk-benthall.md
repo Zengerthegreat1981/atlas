@@ -1,6 +1,6 @@
 ---
 slug: "thk-benthall"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0746"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل بينثال"

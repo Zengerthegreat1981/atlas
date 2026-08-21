@@ -1,6 +1,6 @@
 ---
 slug: "sch-act"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0006"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"

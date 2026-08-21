@@ -1,6 +1,6 @@
 ---
 slug: "wrk-praxis-theorie-individualpsychologie"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0428"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الممارسة والنظرية في علم النفس الفردي"

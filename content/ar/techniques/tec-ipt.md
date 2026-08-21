@@ -1,6 +1,6 @@
 ---
 slug: "tec-ipt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0237"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج النفسي البيني-الشخصي (IPT)"

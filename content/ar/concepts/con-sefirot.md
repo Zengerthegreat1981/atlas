@@ -1,6 +1,6 @@
 ---
 slug: "con-sefirot"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0725"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

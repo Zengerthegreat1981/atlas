@@ -1,6 +1,6 @@
 ---
 slug: "syn-susto"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0170"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

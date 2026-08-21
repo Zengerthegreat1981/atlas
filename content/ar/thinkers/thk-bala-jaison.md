@@ -1,6 +1,6 @@
 ---
 slug: "thk-bala-jaison"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0727"
 type: "مفكر"
 level: "متوسط"
 title: "بالا جايسون"

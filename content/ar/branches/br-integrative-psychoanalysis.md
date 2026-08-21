@@ -1,6 +1,6 @@
 ---
 slug: "br-integrative-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0160"
 type: "تيار"
 level: "متوسط"
 title: "التحليل النفسي التكاملي"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-sfbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0303"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج الموجز المرتكز على الحل (SFBT)"

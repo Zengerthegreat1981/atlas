@@ -1,6 +1,6 @@
 ---
 slug: "wrk-48-laws-of-power"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0216"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

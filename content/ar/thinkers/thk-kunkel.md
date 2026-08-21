@@ -1,6 +1,6 @@
 ---
 slug: "thk-kunkel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1424"
 type: "مفكر"
 level: "متوسط"
 title: "فريتز كونكل"

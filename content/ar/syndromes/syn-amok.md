@@ -1,6 +1,6 @@
 ---
 slug: "syn-amok"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0008"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

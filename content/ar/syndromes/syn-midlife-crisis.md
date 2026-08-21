@@ -1,6 +1,6 @@
 ---
 slug: "syn-midlife-crisis"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0117"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

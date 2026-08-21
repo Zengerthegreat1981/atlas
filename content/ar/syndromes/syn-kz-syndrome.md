@@ -1,6 +1,6 @@
 ---
 slug: "syn-kz-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0106"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

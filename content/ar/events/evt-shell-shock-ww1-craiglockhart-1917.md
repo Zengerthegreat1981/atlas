@@ -1,6 +1,6 @@
 ---
 slug: "evt-shell-shock-ww1-craiglockhart-1917"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0060"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "صدمة القذائف في الحرب العالمية الأولى وتأسيس مشفى كريغلوكهارت العسكري"

@@ -1,6 +1,6 @@
 ---
 slug: "con-ecology-of-freedom"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0525"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

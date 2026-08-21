@@ -1,6 +1,6 @@
 ---
 slug: "thk-kcrenshaw"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1380"
 type: "مفكر"
 level: "متقدم"
 title: "كيمبرلي كرينشو"

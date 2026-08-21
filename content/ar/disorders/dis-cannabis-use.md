@@ -1,6 +1,6 @@
 ---
 slug: "dis-cannabis-use"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0026"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب استخدام الحشيش"

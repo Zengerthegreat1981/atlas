@@ -1,6 +1,6 @@
 ---
 slug: "thk-saberg-abramovitz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1895"
 type: "مفكر"
 level: "متوسط"
 title: "أَسْترِيد بِرغ وكارول أبراموفيتش"

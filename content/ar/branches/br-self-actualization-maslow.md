@@ -1,6 +1,6 @@
 ---
 slug: "br-self-actualization-maslow"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0207"
 type: "تيار"
 level: "مبتدئ"
 title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)"

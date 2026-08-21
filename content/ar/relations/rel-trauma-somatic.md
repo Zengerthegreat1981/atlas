@@ -1,6 +1,6 @@
 ---
 slug: "rel-trauma-somatic"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0153"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rvendramini"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1885"
 type: "مفكر"
 level: "متوسط"
 title: "رِيناتا فِندْراميني"

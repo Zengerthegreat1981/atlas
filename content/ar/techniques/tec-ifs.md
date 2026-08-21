@@ -1,6 +1,6 @@
 ---
 slug: "tec-ifs"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0234"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "علاج منظومة الأسرة الداخلية (IFS)"

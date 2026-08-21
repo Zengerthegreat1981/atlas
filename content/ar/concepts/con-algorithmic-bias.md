@@ -1,6 +1,6 @@
 ---
 slug: "con-algorithmic-bias"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0433"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

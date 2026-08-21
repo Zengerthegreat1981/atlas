@@ -1,6 +1,6 @@
 ---
 slug: "thk-roustang"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1858"
 type: "مفكر"
 level: "متقدم"
 title: "فرانسوا روستانغ"

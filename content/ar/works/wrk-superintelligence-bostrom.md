@@ -1,6 +1,6 @@
 ---
 slug: "wrk-superintelligence-bostrom"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0461"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

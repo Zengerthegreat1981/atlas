@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-reality-acceptance"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0152"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقبل الواقع الكامل"

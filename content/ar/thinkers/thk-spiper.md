@@ -1,6 +1,6 @@
 ---
 slug: "thk-spiper"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1975"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفان بايبِر"

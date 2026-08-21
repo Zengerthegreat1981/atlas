@@ -1,6 +1,6 @@
 ---
 slug: "thk-lvdpost"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1482"
 type: "مفكر"
 level: "متقدم"
 title: "لورنز فان دير بوست"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-nancy-harness"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1661"
 type: "مفكر"
 level: "متقدم"
 title: "نانسي هارنِس"

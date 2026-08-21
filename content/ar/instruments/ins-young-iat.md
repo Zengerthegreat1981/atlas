@@ -1,6 +1,6 @@
 ---
 slug: "ins-young-iat"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0096"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس يونغ لإدمان الإنترنت"

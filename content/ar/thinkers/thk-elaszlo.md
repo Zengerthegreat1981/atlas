@@ -1,6 +1,6 @@
 ---
 slug: "thk-elaszlo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0995"
 type: "مفكر"
 level: "متوسط"
 title: "إرڤين لازلو"

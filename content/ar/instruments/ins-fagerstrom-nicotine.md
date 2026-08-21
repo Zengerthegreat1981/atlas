@@ -1,6 +1,6 @@
 ---
 slug: "ins-fagerstrom-nicotine"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0036"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "مقياس فاجرستروم للاعتماد على النيكوتين"

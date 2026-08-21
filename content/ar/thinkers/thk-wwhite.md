@@ -1,6 +1,6 @@
 ---
 slug: "thk-wwhite"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2128"
 type: "مفكر"
 level: "متوسط"
 title: "وليام وايت"

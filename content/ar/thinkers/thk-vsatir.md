@@ -1,6 +1,6 @@
 ---
 slug: "thk-vsatir"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2085"
 type: "مفكر"
 level: "متقدم"
 title: "فيرجينيا ساتير"

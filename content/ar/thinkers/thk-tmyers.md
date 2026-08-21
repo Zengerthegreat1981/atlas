@@ -1,6 +1,6 @@
 ---
 slug: "thk-tmyers"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2050"
 type: "مفكر"
 level: "متوسط"
 title: "توماس مايرز"

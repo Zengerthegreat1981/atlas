@@ -1,6 +1,6 @@
 ---
 slug: "thk-freeman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1052"
 type: "مفكر"
 level: "متقدم"
 title: "دانيال فريمان"

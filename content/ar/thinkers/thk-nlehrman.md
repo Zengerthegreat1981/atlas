@@ -1,6 +1,6 @@
 ---
 slug: "thk-nlehrman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1681"
 type: "مفكر"
 level: "متوسط"
 title: "ناثانئيل لِرمان"

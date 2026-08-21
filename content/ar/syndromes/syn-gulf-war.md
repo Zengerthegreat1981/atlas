@@ -1,6 +1,6 @@
 ---
 slug: "syn-gulf-war"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0078"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

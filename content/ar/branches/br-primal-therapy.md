@@ -1,6 +1,6 @@
 ---
 slug: "br-primal-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0187"
 type: "تيار"
 level: "مبتدئ"
 title: "العلاج البدائي / صرخة الولادة"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-somatic-experiencing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0305"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التجربة الجسدية للصدمة (SE)"

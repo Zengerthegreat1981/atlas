@@ -1,6 +1,6 @@
 ---
 slug: "con-emanation-islamic"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0531"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

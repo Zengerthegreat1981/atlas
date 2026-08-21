@@ -1,6 +1,6 @@
 ---
 slug: "thk-lkuhn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1461"
 type: "مفكر"
 level: "متوسط"
 title: "ليندا كون"

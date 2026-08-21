@@ -1,6 +1,6 @@
 ---
 slug: "thk-jarlena-white"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1231"
 type: "مفكر"
 level: "متوسط"
 title: "جارلينا وايت"

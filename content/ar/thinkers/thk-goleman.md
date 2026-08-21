@@ -1,6 +1,6 @@
 ---
 slug: "thk-goleman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1106"
 type: "مفكر"
 part: "psychology"
 register: "popular"

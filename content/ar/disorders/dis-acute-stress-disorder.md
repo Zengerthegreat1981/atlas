@@ -1,6 +1,6 @@
 ---
 slug: "dis-acute-stress-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0006"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الكرب الحاد"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ruilinzhou"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1881"
 type: "مفكر"
 level: "متوسط"
 title: "تشو روي-لين"

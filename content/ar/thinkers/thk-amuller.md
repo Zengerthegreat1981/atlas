@@ -1,6 +1,6 @@
 ---
 slug: "thk-amuller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0688"
 type: "مفكر"
 level: "متوسط"
 title: "ألكسندر مولر"

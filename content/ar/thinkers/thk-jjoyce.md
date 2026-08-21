@@ -1,6 +1,6 @@
 ---
 slug: "thk-jjoyce"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1294"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريت بِي"

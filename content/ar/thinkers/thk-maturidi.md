@@ -1,6 +1,6 @@
 ---
 slug: "thk-maturidi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1527"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

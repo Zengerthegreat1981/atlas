@@ -1,6 +1,6 @@
 ---
 slug: "stu-ainsworth-strange-situation"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0005"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة أينسورث حول الموقف الغريب وأنماط التعلّق عند الرضع"

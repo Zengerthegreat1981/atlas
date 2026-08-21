@@ -1,6 +1,6 @@
 ---
 slug: "sch-ikhwan-safa"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0143"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

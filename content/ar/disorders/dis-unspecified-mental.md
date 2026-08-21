@@ -1,6 +1,6 @@
 ---
 slug: "dis-unspecified-mental"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0106"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "اضطراب نفسي غير محدد"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-opioid-use"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0074"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب استخدام الأفيونات"

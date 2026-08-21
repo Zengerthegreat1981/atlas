@@ -1,6 +1,6 @@
 ---
 slug: "syn-apathetic-frontal"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0014"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

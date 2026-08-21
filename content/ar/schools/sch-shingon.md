@@ -1,6 +1,6 @@
 ---
 slug: "sch-shingon"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0283"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

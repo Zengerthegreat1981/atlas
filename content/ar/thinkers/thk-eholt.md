@@ -1,6 +1,6 @@
 ---
 slug: "thk-eholt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0985"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

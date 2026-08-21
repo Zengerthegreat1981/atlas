@@ -1,6 +1,6 @@
 ---
 slug: "thk-edsch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0980"
 type: "مفكر"
 level: "متوسط"
 title: "[مؤسِّسو AAPA / مُنظِّمو SCAP / SVAJ / SOMEJ / SCAJ]"

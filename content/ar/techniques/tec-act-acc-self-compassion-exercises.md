@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-self-compassion-exercises"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0015"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تمارين الرأفة بالذات"

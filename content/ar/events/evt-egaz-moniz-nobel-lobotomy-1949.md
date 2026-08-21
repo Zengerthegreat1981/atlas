@@ -1,6 +1,6 @@
 ---
 slug: "evt-egaz-moniz-nobel-lobotomy-1949"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0034"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي"

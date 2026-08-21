@@ -1,6 +1,6 @@
 ---
 slug: "con-amour-propre-vs-amour-de-soi"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0437"
 type: "مفهوم"
 level: "متوسط"
 title: "حب الذات الزائف مقابل حب الذات الطبيعي"

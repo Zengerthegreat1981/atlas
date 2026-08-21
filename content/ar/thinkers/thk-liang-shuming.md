@@ -1,6 +1,6 @@
 ---
 slug: "thk-liang-shuming"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1455"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "br-interpersonal-neurobiology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0161"
 type: "تيار"
 level: "متقدم"
 title: "علم الأحياء العصبي البيني-الشخصي (IPNB)"

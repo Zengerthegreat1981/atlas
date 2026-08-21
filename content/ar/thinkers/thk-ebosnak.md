@@ -1,6 +1,6 @@
 ---
 slug: "thk-ebosnak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0972"
 type: "مفكر"
 level: "متقدم"
 title: "[مؤسِّسو رابطة ساندبلاي في أمريكا]"

@@ -1,6 +1,6 @@
 ---
 slug: "con-amae"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0436"
 type: "مفهوم"
 level: "متقدم"
 title: "أماي (الاعتمادية الحميمية والتكامل النفسي)"

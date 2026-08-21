@@ -1,6 +1,6 @@
 ---
 slug: "dis-intellectual-disability"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0062"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "الإعاقة الذهنية"

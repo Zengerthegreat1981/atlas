@@ -1,6 +1,6 @@
 ---
 slug: "thk-alvinmahrer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0676"
 type: "مفكر"
 level: "متقدم"
 title: "ألفين مارر"

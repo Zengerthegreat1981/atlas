@@ -1,6 +1,6 @@
 ---
 slug: "syn-zar"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0191"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

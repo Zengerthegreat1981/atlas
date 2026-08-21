@@ -1,6 +1,6 @@
 ---
 slug: "stu-link-modified-labeling-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0067"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات بروس لينك حول نظرية الوصمة المعدلة وأثر التسمية النفسية على تقدير الذات"

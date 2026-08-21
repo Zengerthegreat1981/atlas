@@ -1,6 +1,6 @@
 ---
 slug: "thk-charles-glisson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0837"
 type: "مفكر"
 level: "متقدم"
 title: "تشارلز غليسون"

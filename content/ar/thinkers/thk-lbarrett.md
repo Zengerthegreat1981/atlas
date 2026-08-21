@@ -1,6 +1,6 @@
 ---
 slug: "thk-lbarrett"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1438"
 type: "مفكر"
 level: "متوسط"
 title: "لورا بارِت"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gretchen-rubin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1113"
 type: "مفكر"
 part: "psychology"
 register: "popular"

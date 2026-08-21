@@ -1,6 +1,6 @@
 ---
 slug: "sch-ishraqiyya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0151"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

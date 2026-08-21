@@ -1,6 +1,6 @@
 ---
 slug: "tec-brainspotting"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0068"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية برينزسبوتينغ (Brainspotting)"

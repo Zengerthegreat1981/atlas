@@ -1,6 +1,6 @@
 ---
 slug: "sch-pan-africanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0231"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

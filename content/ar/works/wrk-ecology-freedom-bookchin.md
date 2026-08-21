@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ecology-freedom-bookchin"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0288"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

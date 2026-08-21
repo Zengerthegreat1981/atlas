@@ -1,6 +1,6 @@
 ---
 slug: "stu-mischel-marshmallow-test"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0080"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rschleip"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1874"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت شليب"

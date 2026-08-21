@@ -1,6 +1,6 @@
 ---
 slug: "thk-tim-ferriss"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2038"
 type: "مفكر"
 part: "psychology"
 register: "popular"

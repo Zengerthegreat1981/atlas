@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-participate"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0189"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "المشاركة"

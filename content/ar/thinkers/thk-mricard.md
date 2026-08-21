@@ -1,6 +1,6 @@
 ---
 slug: "thk-mricard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1627"
 type: "مفكر"
 level: "متوسط"
 title: "ماتيو ريكار"

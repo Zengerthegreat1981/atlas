@@ -1,6 +1,6 @@
 ---
 slug: "thk-zygmunt-bauman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2156"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

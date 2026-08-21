@@ -1,6 +1,6 @@
 ---
 slug: "stu-meltzoff-moore-neonatal-imitation"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0076"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات ميلتزوف ومور حول التقليد المبكر لتعبيرات الوجه لدى حديثي الولادة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-hermes-trismegistus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1143"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

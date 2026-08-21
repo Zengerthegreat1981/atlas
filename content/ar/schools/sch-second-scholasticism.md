@@ -1,6 +1,6 @@
 ---
 slug: "sch-second-scholasticism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0278"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

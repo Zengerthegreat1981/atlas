@@ -1,6 +1,6 @@
 ---
 slug: "syn-munchausen-by-proxy"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0120"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-val-personal-mission-statement"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0050"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "بيان الرسالة الشخصية"

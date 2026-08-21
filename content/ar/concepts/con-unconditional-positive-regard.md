@@ -1,6 +1,6 @@
 ---
 slug: "con-unconditional-positive-regard"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0777"
 type: "مفهوم"
 level: "مبتدئ"
 title: "التقبل الإيجابي غير المشروط (Unconditional Positive Regard)"

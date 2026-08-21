@@ -1,6 +1,6 @@
 ---
 slug: "thk-paul-thorne"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1713"
 type: "مفكر"
 level: "متوسط"
 title: "بول ثورن"

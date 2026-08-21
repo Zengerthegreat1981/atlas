@@ -1,6 +1,6 @@
 ---
 slug: "wrk-loneliness-cacioppo"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0376"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

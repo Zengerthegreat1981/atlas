@@ -1,6 +1,6 @@
 ---
 slug: "con-isfet"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0608"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

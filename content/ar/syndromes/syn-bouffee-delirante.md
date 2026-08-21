@@ -1,6 +1,6 @@
 ---
 slug: "syn-bouffee-delirante"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0024"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

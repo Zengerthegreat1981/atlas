@@ -1,6 +1,6 @@
 ---
 slug: "dis-insomnia-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0061"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الأرق"

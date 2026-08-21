@@ -1,6 +1,6 @@
 ---
 slug: "sch-hermeneutics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0134"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

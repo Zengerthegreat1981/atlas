@@ -1,6 +1,6 @@
 ---
 slug: "thk-apesso"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0703"
 type: "مفكر"
 level: "متوسط"
 title: "ألبرت بيسّو"

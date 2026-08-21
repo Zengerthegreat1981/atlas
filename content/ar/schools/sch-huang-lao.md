@@ -1,6 +1,6 @@
 ---
 slug: "sch-huang-lao"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0137"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

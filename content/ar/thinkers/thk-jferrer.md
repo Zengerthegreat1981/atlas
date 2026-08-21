@@ -1,6 +1,6 @@
 ---
 slug: "thk-jferrer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1270"
 type: "مفكر"
 level: "متوسط"
 title: "خورخي فيرير"

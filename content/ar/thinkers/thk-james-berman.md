@@ -1,6 +1,6 @@
 ---
 slug: "thk-james-berman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1223"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس بيرمان"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mark-manson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1508"
 type: "مفكر"
 part: "psychology"
 register: "popular"

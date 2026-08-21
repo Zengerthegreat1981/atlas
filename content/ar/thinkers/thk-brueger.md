@@ -1,6 +1,6 @@
 ---
 slug: "thk-brueger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0795"
 type: "مفكر"
 level: "متوسط"
 title: "بيرند رويغر"

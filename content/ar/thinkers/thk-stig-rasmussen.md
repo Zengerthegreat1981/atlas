@@ -1,6 +1,6 @@
 ---
 slug: "thk-stig-rasmussen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1998"
 type: "مفكر"
 level: "متوسط"
 title: "ستيغ راسموسن"

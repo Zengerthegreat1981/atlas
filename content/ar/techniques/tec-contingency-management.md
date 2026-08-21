@@ -1,6 +1,6 @@
 ---
 slug: "tec-contingency-management"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0137"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "إدارة الطوارئ والتعزيز السلوكي"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-tavistock-institute-1947"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0064"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس معهد تافستوك للعلاقات الإنسانية في لندن"

@@ -1,6 +1,6 @@
 ---
 slug: "con-logos-philo"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0624"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

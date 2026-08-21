@@ -1,6 +1,6 @@
 ---
 slug: "thk-vivekananda"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2081"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

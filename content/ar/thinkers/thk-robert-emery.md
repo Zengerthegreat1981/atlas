@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-emery"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1840"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت إيميري"

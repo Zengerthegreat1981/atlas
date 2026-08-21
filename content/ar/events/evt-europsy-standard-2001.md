@@ -1,6 +1,6 @@
 ---
 slug: "evt-europsy-standard-2001"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0037"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس"

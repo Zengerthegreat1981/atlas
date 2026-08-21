@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-mind-grounding-techniques"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0113"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تقنيات التأريض (الرسو)"

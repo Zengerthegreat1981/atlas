@@ -1,6 +1,6 @@
 ---
 slug: "thk-dstern"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0957"
 type: "مفكر"
 level: "متقدم"
 title: "دونَل ب. سترن"

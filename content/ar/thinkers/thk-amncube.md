@@ -1,6 +1,6 @@
 ---
 slug: "thk-amncube"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0686"
 type: "مفكر"
 level: "متوسط"
 title: "ألبرت مْنكوبِي"

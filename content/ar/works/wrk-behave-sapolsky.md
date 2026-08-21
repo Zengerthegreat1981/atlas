@@ -1,6 +1,6 @@
 ---
 slug: "wrk-behave-sapolsky"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0249"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "تصرّف: بيولوجيا الإنسان في أفضل حالاته وأسوأها"

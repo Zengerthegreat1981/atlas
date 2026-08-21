@@ -1,6 +1,6 @@
 ---
 slug: "br-pcit"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0179"
 type: "تيار"
 level: "متوسط"
 title: "العلاج بتفاعل الوالد-الطفل (PCIT)"

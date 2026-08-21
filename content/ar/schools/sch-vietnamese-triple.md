@@ -1,6 +1,6 @@
 ---
 slug: "sch-vietnamese-triple"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0324"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

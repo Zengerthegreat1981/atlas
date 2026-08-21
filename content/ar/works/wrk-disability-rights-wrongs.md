@@ -1,6 +1,6 @@
 ---
 slug: "wrk-disability-rights-wrongs"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0284"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

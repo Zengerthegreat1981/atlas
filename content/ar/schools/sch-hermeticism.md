@@ -1,6 +1,6 @@
 ---
 slug: "sch-hermeticism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0135"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

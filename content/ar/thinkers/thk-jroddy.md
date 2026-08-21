@@ -1,6 +1,6 @@
 ---
 slug: "thk-jroddy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1342"
 type: "مفكر"
 level: "متوسط"
 title: "ج. لوك ويلز"

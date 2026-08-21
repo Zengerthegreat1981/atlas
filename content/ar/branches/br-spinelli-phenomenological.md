@@ -1,6 +1,6 @@
 ---
 slug: "br-spinelli-phenomenological"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0217"
 type: "تيار"
 level: "متقدم"
 title: "العلاج الظاهراتي (سبينيلّي)"

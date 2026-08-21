@@ -1,6 +1,6 @@
 ---
 slug: "thk-lonan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1472"
 type: "مفكر"
 level: "متوسط"
 title: "لورينا أونان"

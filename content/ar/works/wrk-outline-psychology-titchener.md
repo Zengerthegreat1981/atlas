@@ -1,6 +1,6 @@
 ---
 slug: "wrk-outline-psychology-titchener"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0417"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "مخطّط في علم النفس"

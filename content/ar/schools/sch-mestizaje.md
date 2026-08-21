@@ -1,6 +1,6 @@
 ---
 slug: "sch-mestizaje"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0198"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

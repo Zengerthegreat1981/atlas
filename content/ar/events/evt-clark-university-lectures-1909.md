@@ -1,6 +1,6 @@
 ---
 slug: "evt-clark-university-lectures-1909"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0020"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "مؤتمر جامعة كلارك وإلقاء فرويد لمحاضراته التأسيسية للتحليل النفسي في أمريكا"

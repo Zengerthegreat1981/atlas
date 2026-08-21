@@ -1,6 +1,6 @@
 ---
 slug: "con-autonomy-homonomy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0450"
 type: "مفهوم"
 level: "متقدم"
 title: "الاستقلالية والهومونومي"

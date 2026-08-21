@@ -1,6 +1,6 @@
 ---
 slug: "wrk-body-keeps-score"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0258"
 type: "عمل / كتاب"
 register: "popular"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-krischer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1416"
 type: "مفكر"
 level: "متوسط"
 title: "باري كريشر"

@@ -1,6 +1,6 @@
 ---
 slug: "dbt-deliberative-vs-radical-democracy"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0322"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jfox"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1272"
 type: "مفكر"
 level: "مبتدئ"
 title: "جون فوكس"

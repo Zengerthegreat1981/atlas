@@ -1,6 +1,6 @@
 ---
 slug: "thk-berkeley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0748"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ssalzberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1984"
 type: "مفكر"
 level: "متوسط"
 title: "شارون سالزبرغ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-montesquieu"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1616"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

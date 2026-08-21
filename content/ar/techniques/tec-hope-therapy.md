@@ -1,6 +1,6 @@
 ---
 slug: "tec-hope-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0231"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "علاج الأمل"

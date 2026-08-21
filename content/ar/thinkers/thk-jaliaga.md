@@ -1,6 +1,6 @@
 ---
 slug: "thk-jaliaga"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1222"
 type: "مفكر"
 level: "متوسط"
 title: "خوان أنطونيو ألياغا"

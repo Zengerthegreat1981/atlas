@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgottman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1280"
 type: "مفكر"
 level: "متقدم"
 title: "جون غوتمان"

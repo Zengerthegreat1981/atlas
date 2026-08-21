@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-pres-body-scan"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0035"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "مسح الجسد"

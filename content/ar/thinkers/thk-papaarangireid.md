@@ -1,6 +1,6 @@
 ---
 slug: "thk-papaarangireid"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1705"
 type: "مفكر"
 level: "متقدم"
 title: "بابارانغي ريد"

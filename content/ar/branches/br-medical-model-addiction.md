@@ -1,6 +1,6 @@
 ---
 slug: "br-medical-model-addiction"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0170"
 type: "تيار"
 level: "متوسط"
 title: "النموذج الطبي للإدمان مقابل نموذج المرض المزمن"

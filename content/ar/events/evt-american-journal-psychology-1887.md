@@ -1,6 +1,6 @@
 ---
 slug: "evt-american-journal-psychology-1887"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0006"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "تأسيس المجلة الأمريكية لعلم النفس بواسطة ستانلي هول"

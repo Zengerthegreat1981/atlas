@@ -1,6 +1,6 @@
 ---
 slug: "thk-jenna-brown"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1265"
 type: "مفكر"
 level: "متوسط"
 title: "جينا براون"

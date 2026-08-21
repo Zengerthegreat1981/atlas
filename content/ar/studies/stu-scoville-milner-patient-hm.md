@@ -1,6 +1,6 @@
 ---
 slug: "stu-scoville-milner-patient-hm"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0097"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة سكوفيل وميلنر الكلاسيكية للحالة H.M. ودور الحصين في الذاكرة"

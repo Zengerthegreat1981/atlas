@@ -1,6 +1,6 @@
 ---
 slug: "sch-ordinary-language"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0230"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

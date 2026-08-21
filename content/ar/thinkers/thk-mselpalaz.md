@@ -1,6 +1,6 @@
 ---
 slug: "thk-mselpalaz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1632"
 type: "مفكر"
 level: "متقدم"
 title: "مارا سيلفيني بالاتزولي"

@@ -1,6 +1,6 @@
 ---
 slug: "con-caring-mayeroff"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0469"
 type: "مفهوم"
 level: "متوسط"
 title: "الرعاية (Caring) عند مايروف"

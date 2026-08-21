@@ -1,6 +1,6 @@
 ---
 slug: "thk-gunnel-cederblad"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1122"
 type: "مفكر"
 level: "متوسط"
 title: "جونيل سيدِربلاد"

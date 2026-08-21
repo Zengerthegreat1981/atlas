@@ -1,6 +1,6 @@
 ---
 slug: "syn-khyal-cap"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0100"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

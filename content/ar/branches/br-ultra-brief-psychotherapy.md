@@ -1,6 +1,6 @@
 ---
 slug: "br-ultra-brief-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0226"
 type: "تيار"
 level: "متوسط"
 title: "العلاج فائق القصر"

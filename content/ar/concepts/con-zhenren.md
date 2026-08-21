@@ -1,6 +1,6 @@
 ---
 slug: "con-zhenren"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0796"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

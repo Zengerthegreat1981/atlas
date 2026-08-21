@@ -1,6 +1,6 @@
 ---
 slug: "thk-mel-robbins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1552"
 type: "مفكر"
 part: "psychology"
 register: "popular"

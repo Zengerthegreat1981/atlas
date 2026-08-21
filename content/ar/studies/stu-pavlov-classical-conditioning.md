@@ -1,6 +1,6 @@
 ---
 slug: "stu-pavlov-classical-conditioning"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0081"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب بافلوف الأصلية في الإشراط الكلاسيكي والمنعكس الشرطي"

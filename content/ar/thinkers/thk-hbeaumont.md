@@ -1,6 +1,6 @@
 ---
 slug: "thk-hbeaumont"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1137"
 type: "مفكر"
 level: "متوسط"
 title: "هانتر بومون"

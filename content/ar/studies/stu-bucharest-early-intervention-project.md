@@ -1,6 +1,6 @@
 ---
 slug: "stu-bucharest-early-intervention-project"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0020"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "مشروع بوخارست للتدخل المبكر ودراسة أيتام المؤسسات الرومانية"

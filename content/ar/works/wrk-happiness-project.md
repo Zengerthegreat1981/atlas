@@ -1,6 +1,6 @@
 ---
 slug: "wrk-happiness-project"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0338"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

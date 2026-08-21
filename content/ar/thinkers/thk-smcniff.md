@@ -1,6 +1,6 @@
 ---
 slug: "thk-smcniff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1959"
 type: "مفكر"
 level: "متوسط"
 title: "شون ماكنيف"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-egaston"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0984"
 type: "مفكر"
 level: "متوسط"
 title: "إ. ثوريت غاستون"

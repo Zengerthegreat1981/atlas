@@ -1,6 +1,6 @@
 ---
 slug: "thk-rkohlen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1820"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت ج. كولنبرغ"

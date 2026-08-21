@@ -1,6 +1,6 @@
 ---
 slug: "con-fully-functioning-person"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0562"
 type: "مفهوم"
 level: "متوسط"
 title: "الشخصية العاملة بكامل طاقتها (Fully Functioning Person)"

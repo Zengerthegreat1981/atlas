@@ -1,6 +1,6 @@
 ---
 slug: "thk-mark-santross"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1509"
 type: "مفكر"
 level: "متقدم"
 title: "مارك سانتروس"

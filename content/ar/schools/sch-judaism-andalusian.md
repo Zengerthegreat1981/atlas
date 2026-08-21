@@ -1,6 +1,6 @@
 ---
 slug: "sch-judaism-andalusian"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0160"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

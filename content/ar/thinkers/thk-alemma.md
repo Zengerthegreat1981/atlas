@@ -1,6 +1,6 @@
 ---
 slug: "thk-alemma"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0669"
 type: "مفكر"
 level: "متقدم"
 title: "أنتوني لِمّا"

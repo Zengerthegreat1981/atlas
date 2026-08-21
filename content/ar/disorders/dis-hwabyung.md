@@ -1,6 +1,6 @@
 ---
 slug: "dis-hwabyung"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0057"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "الهوابيونغ (Hwabyung)"

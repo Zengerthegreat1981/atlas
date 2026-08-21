@@ -1,6 +1,6 @@
 ---
 slug: "evt-dsm-homosexuality-removal-1973"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0032"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تصويت الجمعية الأمريكية للطب النفسي على إزالة المثلية الجنسية من تصنيف الأمراض"

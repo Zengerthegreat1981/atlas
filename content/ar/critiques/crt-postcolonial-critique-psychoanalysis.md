@@ -1,6 +1,6 @@
 ---
 slug: "crt-postcolonial-critique-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0017"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب"

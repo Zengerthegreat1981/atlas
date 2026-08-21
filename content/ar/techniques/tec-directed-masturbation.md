@@ -1,6 +1,6 @@
 ---
 slug: "tec-directed-masturbation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0201"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التدريب الموجّه على الاستمناء (Directed Masturbation)"

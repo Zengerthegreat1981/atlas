@@ -1,6 +1,6 @@
 ---
 slug: "con-false-self-vs-true-self"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0545"
 type: "مفهوم"
 level: "متوسط"
 title: "الذات المزيفة مقابل الذات الحقيقية"

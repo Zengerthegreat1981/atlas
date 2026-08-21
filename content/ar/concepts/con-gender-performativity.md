@@ -1,6 +1,6 @@
 ---
 slug: "con-gender-performativity"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0569"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

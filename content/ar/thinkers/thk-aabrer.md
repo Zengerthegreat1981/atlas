@@ -1,6 +1,6 @@
 ---
 slug: "thk-aabrer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0631"
 type: "مفكر"
 level: "متقدم"
 title: "كارل أبراهام"

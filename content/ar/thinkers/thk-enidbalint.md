@@ -1,6 +1,6 @@
 ---
 slug: "thk-enidbalint"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1005"
 type: "مفكر"
 level: "متوسط"
 title: "إنيذ بالينت"

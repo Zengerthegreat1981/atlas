@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-exp-flooding"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0099"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الإغراق"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-prep-program"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0274"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "برنامج تعزيز العلاقات والوقاية من التفكك (PREP)"

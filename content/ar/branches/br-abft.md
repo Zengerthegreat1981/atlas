@@ -1,6 +1,6 @@
 ---
 slug: "br-abft"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0106"
 type: "تيار"
 level: "متوسط"
 title: "العلاج الأسري المرتكز على التعلق (ABFT)"

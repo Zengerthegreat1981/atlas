@@ -1,6 +1,6 @@
 ---
 slug: "thk-ctart"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0867"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز تارت"

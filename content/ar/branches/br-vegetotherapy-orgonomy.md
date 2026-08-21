@@ -1,6 +1,6 @@
 ---
 slug: "br-vegetotherapy-orgonomy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0227"
 type: "تيار"
 level: "متقدم"
 title: "العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية)"

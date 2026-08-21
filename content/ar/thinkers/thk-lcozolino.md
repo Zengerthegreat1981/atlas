@@ -1,6 +1,6 @@
 ---
 slug: "thk-lcozolino"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1443"
 type: "مفكر"
 level: "متوسط"
 title: "لويس كوتزولينو"

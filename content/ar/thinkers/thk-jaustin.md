@@ -1,6 +1,6 @@
 ---
 slug: "thk-jaustin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1232"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

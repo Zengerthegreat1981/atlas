@@ -1,6 +1,6 @@
 ---
 slug: "thk-tpichot"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2055"
 type: "مفكر"
 level: "متوسط"
 title: "تيري بيشو"

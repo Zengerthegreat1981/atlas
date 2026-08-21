@@ -1,6 +1,6 @@
 ---
 slug: "tec-open-dialogue"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0261"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الحوار المفتوح في الرعاية النفسية والذهان"

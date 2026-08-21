@@ -1,6 +1,6 @@
 ---
 slug: "thk-wjanzarik"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2112"
 type: "مفكر"
 level: "متقدم"
 title: "فيرنر يانتساريك"

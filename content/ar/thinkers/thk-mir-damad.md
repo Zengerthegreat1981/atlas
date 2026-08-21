@@ -1,6 +1,6 @@
 ---
 slug: "thk-mir-damad"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1587"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

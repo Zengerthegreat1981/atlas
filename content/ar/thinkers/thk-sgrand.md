@@ -1,6 +1,6 @@
 ---
 slug: "thk-sgrand"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1928"
 type: "مفكر"
 level: "متوسط"
 title: "سو غراند"

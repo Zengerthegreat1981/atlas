@@ -1,6 +1,6 @@
 ---
 slug: "dbt-cultural-bias-iq-testing"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0321"
 type: "جدل"
 level: "متقدم"
 title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة"

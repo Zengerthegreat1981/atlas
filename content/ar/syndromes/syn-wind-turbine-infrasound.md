@@ -1,6 +1,6 @@
 ---
 slug: "syn-wind-turbine-infrasound"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0190"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-reich"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1797"
 type: "مفكر"
 level: "متقدم"
 title: "فيلهلم رايخ"

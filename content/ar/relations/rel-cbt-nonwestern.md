@@ -1,6 +1,6 @@
 ---
 slug: "rel-cbt-nonwestern"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0127"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "المعرفية-السلوكية والأطر غير الغربية: استيراد اليقظة البوذية"

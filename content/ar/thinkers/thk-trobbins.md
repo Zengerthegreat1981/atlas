@@ -1,6 +1,6 @@
 ---
 slug: "thk-trobbins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2057"
 type: "مفكر"
 level: "مبتدئ"
 title: "توني روبنز"

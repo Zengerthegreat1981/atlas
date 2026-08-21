@@ -1,6 +1,6 @@
 ---
 slug: "sch-pythagorean"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0259"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

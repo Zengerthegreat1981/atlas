@@ -1,6 +1,6 @@
 ---
 slug: "thk-ebordin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0971"
 type: "مفكر"
 level: "مبتدئ"
 title: "إدوارد بوردين"

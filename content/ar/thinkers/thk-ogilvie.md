@@ -1,6 +1,6 @@
 ---
 slug: "thk-ogilvie"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1694"
 type: "مفكر"
 level: "متوسط"
 title: "بروس أوكيف"

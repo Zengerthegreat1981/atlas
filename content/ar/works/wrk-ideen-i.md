@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ideen-i"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0352"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

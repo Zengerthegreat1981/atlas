@@ -1,6 +1,6 @@
 ---
 slug: "thk-kunzli"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1425"
 type: "مفكر"
 level: "متقدم"
 title: "فريتز كونزلي"

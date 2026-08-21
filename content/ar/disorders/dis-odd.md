@@ -1,6 +1,6 @@
 ---
 slug: "dis-odd"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0073"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب العناد المعارض (ODD)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kplaut"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1415"
 type: "مفكر"
 level: "متقدم"
 title: "فريدريك ك. بْلوت"

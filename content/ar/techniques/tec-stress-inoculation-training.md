@@ -1,6 +1,6 @@
 ---
 slug: "tec-stress-inoculation-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0314"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التدريب على تحصين الضغوط (SIT)"

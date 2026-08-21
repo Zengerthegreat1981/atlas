@@ -1,6 +1,6 @@
 ---
 slug: "sch-yogacara"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0333"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-dear-man"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0174"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "دير مان (DEAR MAN) — مهارة شدة الطلب والرفض"

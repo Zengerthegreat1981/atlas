@@ -1,6 +1,6 @@
 ---
 slug: "thk-david-erceg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0890"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد إرسغ"

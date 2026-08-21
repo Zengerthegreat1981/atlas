@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-thanking-your-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0030"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "شكر العقل"

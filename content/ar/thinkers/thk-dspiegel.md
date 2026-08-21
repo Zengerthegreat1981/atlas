@@ -1,6 +1,6 @@
 ---
 slug: "thk-dspiegel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0956"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد سبيجل"

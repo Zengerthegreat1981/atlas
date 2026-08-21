@@ -1,6 +1,6 @@
 ---
 slug: "sch-liberation-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0182"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

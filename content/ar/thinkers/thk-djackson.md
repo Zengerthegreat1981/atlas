@@ -1,6 +1,6 @@
 ---
 slug: "thk-djackson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0930"
 type: "مفكر"
 level: "متوسط"
 title: "دون جاكسون"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-bowlby-maternal-care"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0260"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الرعاية الأمومية والصحة النفسية (Maternal Care and Mental Health)"

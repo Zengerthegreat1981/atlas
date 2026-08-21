@@ -1,6 +1,6 @@
 ---
 slug: "con-bystander-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0465"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

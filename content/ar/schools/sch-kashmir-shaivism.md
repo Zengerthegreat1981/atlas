@@ -1,6 +1,6 @@
 ---
 slug: "sch-kashmir-shaivism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0171"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

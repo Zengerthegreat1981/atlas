@@ -1,6 +1,6 @@
 ---
 slug: "que-nature-vs-nurture"
-id: "[DRAFT-UNKNOWN]"
+id: "QUE-0003"
 type: "سؤال مولِّد"
 level: "مبتدئ"
 title: "ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟"

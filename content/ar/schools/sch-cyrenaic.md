@@ -1,6 +1,6 @@
 ---
 slug: "sch-cyrenaic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0078"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-measurement-intelligence"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0386"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "قياس الذكاء"

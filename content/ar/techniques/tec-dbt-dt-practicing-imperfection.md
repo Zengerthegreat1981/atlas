@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-practicing-imperfection"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0150"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "ممارسة عدم الكمال"

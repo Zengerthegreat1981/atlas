@@ -1,6 +1,6 @@
 ---
 slug: "dis-delirium"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0031"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "الهذيان والتشوش الحاد"

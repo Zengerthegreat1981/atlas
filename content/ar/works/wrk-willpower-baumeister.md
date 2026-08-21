@@ -1,6 +1,6 @@
 ---
 slug: "wrk-willpower-baumeister"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0491"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

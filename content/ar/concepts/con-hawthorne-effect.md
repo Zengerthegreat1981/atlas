@@ -1,6 +1,6 @@
 ---
 slug: "con-hawthorne-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0581"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

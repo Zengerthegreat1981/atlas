@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgreenberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1282"
 type: "مفكر"
 level: "متقدم"
 title: "جاي ر. غرينبرغ"

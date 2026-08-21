@@ -1,6 +1,6 @@
 ---
 slug: "thk-brussell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0796"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

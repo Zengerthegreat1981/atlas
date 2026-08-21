@@ -1,6 +1,6 @@
 ---
 slug: "dis-erectile-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0043"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الانتصاب"

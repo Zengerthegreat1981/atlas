@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcameron"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1249"
 type: "مفكر"
 level: "متوسط"
 title: "جوليا كاميرون"

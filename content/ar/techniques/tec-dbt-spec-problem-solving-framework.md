@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-spec-problem-solving-framework"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0195"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "إطار حل المشكلات"

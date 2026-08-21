@@ -1,6 +1,6 @@
 ---
 slug: "stu-asch-conformity"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0007"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة آش للامتثال والضغط الجماعي"

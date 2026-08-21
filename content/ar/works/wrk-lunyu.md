@@ -1,6 +1,6 @@
 ---
 slug: "wrk-lunyu"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0381"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

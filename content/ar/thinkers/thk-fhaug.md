@@ -1,6 +1,6 @@
 ---
 slug: "thk-fhaug"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1035"
 type: "مفكر"
 level: "متوسط"
 title: "فريغا هاوُغ"

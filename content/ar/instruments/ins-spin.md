@@ -1,6 +1,6 @@
 ---
 slug: "ins-spin"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0075"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس الرهاب الاجتماعي"

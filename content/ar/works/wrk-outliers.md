@@ -1,6 +1,6 @@
 ---
 slug: "wrk-outliers"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0415"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

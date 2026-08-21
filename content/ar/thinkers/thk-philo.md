@@ -1,6 +1,6 @@
 ---
 slug: "thk-philo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1745"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

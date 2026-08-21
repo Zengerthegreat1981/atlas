@@ -1,6 +1,6 @@
 ---
 slug: "thk-rviaro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1886"
 type: "مفكر"
 level: "متوسط"
 title: "روبرتو فيارو"

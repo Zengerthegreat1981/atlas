@@ -1,6 +1,6 @@
 ---
 slug: "sch-zonghengjia"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0337"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

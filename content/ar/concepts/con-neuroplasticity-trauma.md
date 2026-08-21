@@ -1,6 +1,6 @@
 ---
 slug: "con-neuroplasticity-trauma"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2163"
 type: "مفكر"
 level: "متوسط"
 title: "المرونة العصبية في سياق الصدمة"

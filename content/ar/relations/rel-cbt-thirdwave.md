@@ -1,6 +1,6 @@
 ---
 slug: "rel-cbt-thirdwave"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0128"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ekris"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0993"
 type: "مفكر"
 level: "متوسط"
 title: "إرنست كريس"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-social-anxiety-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0095"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب القلق الاجتماعي"

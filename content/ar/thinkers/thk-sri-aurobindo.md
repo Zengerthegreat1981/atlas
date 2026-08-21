@@ -1,6 +1,6 @@
 ---
 slug: "thk-sri-aurobindo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1980"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

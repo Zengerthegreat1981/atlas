@@ -1,6 +1,6 @@
 ---
 slug: "thk-ajernberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0661"
 type: "مفكر"
 level: "متوسط"
 title: "آن جِرنبرغ"

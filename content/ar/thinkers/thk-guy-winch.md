@@ -1,6 +1,6 @@
 ---
 slug: "thk-guy-winch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1124"
 type: "مفكر"
 part: "psychology"
 register: "popular"

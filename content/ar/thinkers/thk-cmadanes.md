@@ -1,6 +1,6 @@
 ---
 slug: "thk-cmadanes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0847"
 type: "مفكر"
 level: "متوسط"
 title: "كلوي مادانس"

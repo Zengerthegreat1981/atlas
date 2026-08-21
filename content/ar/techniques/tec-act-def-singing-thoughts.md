@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-singing-thoughts"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0029"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "غناء الأفكار"

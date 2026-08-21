@@ -1,6 +1,6 @@
 ---
 slug: "dbt-realism-vs-nominalism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0344"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

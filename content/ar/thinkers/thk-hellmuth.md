@@ -1,6 +1,6 @@
 ---
 slug: "thk-hellmuth"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1142"
 type: "مفكر"
 level: "متقدم"
 title: "هيرمين هوغ-هيلموث"

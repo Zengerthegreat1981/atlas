@@ -1,6 +1,6 @@
 ---
 slug: "thk-hhendrix"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1151"
 type: "مفكر"
 level: "متقدم"
 title: "هارفي هندرِكس"

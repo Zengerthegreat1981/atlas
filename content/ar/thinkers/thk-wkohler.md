@@ -1,6 +1,6 @@
 ---
 slug: "thk-wkohler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2113"
 type: "مفكر"
 level: "متقدم"
 title: "فولفغانغ كولَر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-svami-akhilananda"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2011"
 type: "مفكر"
 level: "متقدم"
 title: "سوامي أخيلاناندا"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-maturidiyya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0193"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

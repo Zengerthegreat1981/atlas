@@ -1,6 +1,6 @@
 ---
 slug: "thk-ifrom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1193"
 type: "مفكر"
 level: "متوسط"
 title: "إيزادور فروم"

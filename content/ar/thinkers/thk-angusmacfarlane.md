@@ -1,6 +1,6 @@
 ---
 slug: "thk-angusmacfarlane"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0697"
 type: "مفكر"
 level: "متقدم"
 title: "أنغوس ماكفارلن"

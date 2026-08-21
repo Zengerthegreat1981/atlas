@@ -1,6 +1,6 @@
 ---
 slug: "stu-harvard-adult-development"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0045"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة هارفارد للنمو البالغ وتطور السعادة والعلاقات عبر العمر"

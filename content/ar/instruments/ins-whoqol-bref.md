@@ -1,6 +1,6 @@
 ---
 slug: "ins-whoqol-bref"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0089"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس منظمة الصحة العالمية لجودة الحياة - النسخة المختصرة"

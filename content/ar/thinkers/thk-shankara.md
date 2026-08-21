@@ -1,6 +1,6 @@
 ---
 slug: "thk-shankara"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1937"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

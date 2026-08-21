@@ -1,6 +1,6 @@
 ---
 slug: "wrk-one-minute-manager"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0412"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

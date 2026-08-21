@@ -1,6 +1,6 @@
 ---
 slug: "tec-ego-state"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0207"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "علاج حالات الأنا (Ego State Therapy)"

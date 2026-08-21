@@ -1,6 +1,6 @@
 ---
 slug: "thk-dknab"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0933"
 type: "مفكر"
 level: "مبتدئ"
 title: "دوغلاس كناب"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-guntrip"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1123"
 type: "مفكر"
 level: "متقدم"
 title: "هاري غانترب"

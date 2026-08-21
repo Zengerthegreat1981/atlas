@@ -1,6 +1,6 @@
 ---
 slug: "sch-shakta-tantra"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0281"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

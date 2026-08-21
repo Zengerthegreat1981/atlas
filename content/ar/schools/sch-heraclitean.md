@@ -1,6 +1,6 @@
 ---
 slug: "sch-heraclitean"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0132"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

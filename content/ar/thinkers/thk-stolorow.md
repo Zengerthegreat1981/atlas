@@ -1,6 +1,6 @@
 ---
 slug: "thk-stolorow"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1999"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت ستولورو"

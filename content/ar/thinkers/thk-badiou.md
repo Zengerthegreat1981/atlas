@@ -1,6 +1,6 @@
 ---
 slug: "thk-badiou"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0725"
 type: "مفكر"
 level: "متقدم"
 title: "ألان باديو"

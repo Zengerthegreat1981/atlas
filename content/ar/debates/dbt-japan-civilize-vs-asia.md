@@ -1,6 +1,6 @@
 ---
 slug: "dbt-japan-civilize-vs-asia"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0333"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

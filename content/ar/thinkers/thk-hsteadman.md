@@ -1,6 +1,6 @@
 ---
 slug: "thk-hsteadman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1173"
 type: "مفكر"
 level: "متوسط"
 title: "هنري ستيدمان"

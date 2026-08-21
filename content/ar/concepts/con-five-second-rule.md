@@ -1,6 +1,6 @@
 ---
 slug: "con-five-second-rule"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0552"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

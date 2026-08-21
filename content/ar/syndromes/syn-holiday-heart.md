@@ -1,6 +1,6 @@
 ---
 slug: "syn-holiday-heart"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0084"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-bjhopkins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0761"
 type: "مفكر"
 level: "متوسط"
 title: "بيل ل. هوپكنز"

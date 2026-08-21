@@ -1,6 +1,6 @@
 ---
 slug: "tec-dit"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0203"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الديناميكي البيني-الشخصي (DIT)"

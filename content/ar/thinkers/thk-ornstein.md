@@ -1,6 +1,6 @@
 ---
 slug: "thk-ornstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1699"
 type: "مفكر"
 level: "متوسط"
 title: "بول ه. أورنشتاين"

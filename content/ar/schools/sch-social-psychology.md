@@ -1,6 +1,6 @@
 ---
 slug: "sch-social-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0294"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"

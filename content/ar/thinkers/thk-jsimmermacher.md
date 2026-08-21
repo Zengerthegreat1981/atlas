@@ -1,6 +1,6 @@
 ---
 slug: "thk-jsimmermacher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1349"
 type: "مفكر"
 level: "مبتدئ"
 title: "جيم سيميرماتشر"

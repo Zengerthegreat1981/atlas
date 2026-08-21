@@ -1,6 +1,6 @@
 ---
 slug: "syn-karoshi-overwork"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0098"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

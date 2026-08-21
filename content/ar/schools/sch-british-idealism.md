@@ -1,6 +1,6 @@
 ---
 slug: "sch-british-idealism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0051"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

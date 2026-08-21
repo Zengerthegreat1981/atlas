@@ -1,6 +1,6 @@
 ---
 slug: "thk-agarciag"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0650"
 type: "مفكر"
 level: "متوسط"
 title: "أليسيا غارسيا غونثاليث"

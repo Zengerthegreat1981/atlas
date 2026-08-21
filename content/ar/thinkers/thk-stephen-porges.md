@@ -1,6 +1,6 @@
 ---
 slug: "thk-stephen-porges"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1993"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

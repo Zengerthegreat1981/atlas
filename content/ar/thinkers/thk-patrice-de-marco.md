@@ -1,6 +1,6 @@
 ---
 slug: "thk-patrice-de-marco"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1711"
 type: "مفكر"
 level: "متوسط"
 title: "باتريس دي ماركو"

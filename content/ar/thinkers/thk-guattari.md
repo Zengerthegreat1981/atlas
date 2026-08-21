@@ -1,6 +1,6 @@
 ---
 slug: "thk-guattari"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1120"
 type: "مفكر"
 level: "متقدم"
 title: "فيليكس غواتاري"

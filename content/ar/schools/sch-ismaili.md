@@ -1,6 +1,6 @@
 ---
 slug: "sch-ismaili"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0156"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

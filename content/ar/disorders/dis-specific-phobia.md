@@ -1,6 +1,6 @@
 ---
 slug: "dis-specific-phobia"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0098"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "الرهاب المحدد"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-markrees"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1510"
 type: "مفكر"
 level: "متقدم"
 title: "مارك ريس"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-isaac-luria"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1206"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

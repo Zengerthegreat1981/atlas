@@ -1,6 +1,6 @@
 ---
 slug: "thk-mtrevi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1638"
 type: "مفكر"
 level: "متقدم"
 title: "ماريو تريفي"

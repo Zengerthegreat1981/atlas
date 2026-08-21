@@ -1,6 +1,6 @@
 ---
 slug: "sch-decolonial-latin"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0082"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jfreedman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1274"
 type: "مفكر"
 level: "متوسط"
 title: "جيل فريدمان"

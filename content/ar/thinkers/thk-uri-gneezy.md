@@ -1,6 +1,6 @@
 ---
 slug: "thk-uri-gneezy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2072"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

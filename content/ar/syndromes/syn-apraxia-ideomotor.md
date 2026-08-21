@@ -1,6 +1,6 @@
 ---
 slug: "syn-apraxia-ideomotor"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0015"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tkellermann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2042"
 type: "مفكر"
 level: "متوسط"
 title: "توماس كِلِرمان"

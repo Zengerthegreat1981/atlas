@@ -1,6 +1,6 @@
 ---
 slug: "thk-theinrich"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2032"
 type: "مفكر"
 level: "متوسط"
 title: "توماس هاينريش"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-problem-solving-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0277"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بحل المشكلات"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-marxism-humanist"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0190"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

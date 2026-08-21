@@ -1,6 +1,6 @@
 ---
 slug: "br-serious-games-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0210"
 type: "تيار"
 level: "متوسط"
 title: "العلاج بالألعاب الإلكترونية / الألعاب الجادة"

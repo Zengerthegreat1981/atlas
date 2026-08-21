@@ -1,6 +1,6 @@
 ---
 slug: "dia-morita-cbt-engagement"
-id: "[DRAFT-UNKNOWN]"
+id: "DIA-0003"
 type: "حوار مع مدرسة مجاورة"
 level: "متوسط"
 title: "علاج موريتا والعلاج المعرفي السلوكي: تقاطع حيّ"

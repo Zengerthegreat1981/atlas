@@ -1,6 +1,6 @@
 ---
 slug: "br-neo-freudian"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0174"
 type: "تيار"
 level: "متوسط"
 title: "الفرويدية الجديدة والتحليل البيني-الشخصي"

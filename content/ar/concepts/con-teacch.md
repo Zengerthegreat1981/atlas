@@ -1,6 +1,6 @@
 ---
 slug: "con-teacch"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0767"
 type: "مفهوم"
 level: "متوسط"
 title: "TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)"

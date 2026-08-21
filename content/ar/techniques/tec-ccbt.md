@@ -1,6 +1,6 @@
 ---
 slug: "tec-ccbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0124"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المعرفي السلوكي المحوسب (cCBT)"

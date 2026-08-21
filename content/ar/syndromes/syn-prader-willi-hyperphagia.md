@@ -1,6 +1,6 @@
 ---
 slug: "syn-prader-willi-hyperphagia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0139"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

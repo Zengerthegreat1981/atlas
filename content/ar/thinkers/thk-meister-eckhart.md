@@ -1,6 +1,6 @@
 ---
 slug: "thk-meister-eckhart"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1550"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

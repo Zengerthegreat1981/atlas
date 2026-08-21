@@ -1,6 +1,6 @@
 ---
 slug: "evt-wednesday-psychological-society-1902"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0070"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "تأسيس جمعية الأربعاء النفسية في فيينا"

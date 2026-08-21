@@ -1,6 +1,6 @@
 ---
 slug: "thk-mignolo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1580"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

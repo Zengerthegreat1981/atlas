@@ -1,6 +1,6 @@
 ---
 slug: "ins-sdq"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0071"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "استبيان نقاط القوة والصعوبات للأطفال والمراهقين"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-john-braithwaite"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1320"
 type: "مفكر"
 level: "متقدم"
 title: "جون برايثوايت"

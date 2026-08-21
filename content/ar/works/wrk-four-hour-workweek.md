@@ -1,6 +1,6 @@
 ---
 slug: "wrk-four-hour-workweek"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0315"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

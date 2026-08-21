@@ -1,6 +1,6 @@
 ---
 slug: "thk-fmodestin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1044"
 type: "مفكر"
 level: "متوسط"
 title: "ماري كورنين"

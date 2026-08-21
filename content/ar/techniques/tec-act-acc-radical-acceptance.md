@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-radical-acceptance"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0014"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التقبل الجذري"

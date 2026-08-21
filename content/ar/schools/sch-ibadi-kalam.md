@@ -1,6 +1,6 @@
 ---
 slug: "sch-ibadi-kalam"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0141"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

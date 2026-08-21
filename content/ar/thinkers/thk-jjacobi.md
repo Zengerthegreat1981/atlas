@@ -1,6 +1,6 @@
 ---
 slug: "thk-jjacobi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1293"
 type: "مفكر"
 level: "متقدم"
 title: "يولاندا ياكوبي"

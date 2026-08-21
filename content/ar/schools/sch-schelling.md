@@ -1,6 +1,6 @@
 ---
 slug: "sch-schelling"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0275"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

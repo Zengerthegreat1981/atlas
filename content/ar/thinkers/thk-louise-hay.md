@@ -1,6 +1,6 @@
 ---
 slug: "thk-louise-hay"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1476"
 type: "مفكر"
 part: "psychology"
 register: "popular"

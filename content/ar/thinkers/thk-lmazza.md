@@ -1,6 +1,6 @@
 ---
 slug: "thk-lmazza"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1464"
 type: "مفكر"
 level: "مبتدئ"
 title: "نيكولاس مازا"

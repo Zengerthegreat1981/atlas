@@ -1,6 +1,6 @@
 ---
 slug: "thk-wmasters"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2115"
 type: "مفكر"
 level: "متوسط"
 title: "وليام ماسترز"

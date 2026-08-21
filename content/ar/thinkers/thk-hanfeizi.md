@@ -1,6 +1,6 @@
 ---
 slug: "thk-hanfeizi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1128"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

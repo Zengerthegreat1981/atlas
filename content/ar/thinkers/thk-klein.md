@@ -1,6 +1,6 @@
 ---
 slug: "thk-klein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1404"
 type: "مفكر"
 level: "متقدم"
 title: "ميلاني كلاين"

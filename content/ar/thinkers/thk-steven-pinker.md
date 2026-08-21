@@ -1,6 +1,6 @@
 ---
 slug: "thk-steven-pinker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1996"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

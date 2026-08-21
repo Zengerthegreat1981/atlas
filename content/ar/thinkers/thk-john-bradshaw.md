@@ -1,6 +1,6 @@
 ---
 slug: "thk-john-bradshaw"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1319"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-scarcity-mullainathan"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0445"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

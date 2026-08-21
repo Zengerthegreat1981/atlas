@@ -1,6 +1,6 @@
 ---
 slug: "thk-pbooth"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1717"
 type: "مفكر"
 level: "متوسط"
 title: "فيلس بوث"

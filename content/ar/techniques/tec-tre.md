@@ -1,6 +1,6 @@
 ---
 slug: "tec-tre"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0325"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تمارين تحرير الصدمات والضغوط (TRE)"

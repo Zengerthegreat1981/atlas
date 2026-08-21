@@ -1,6 +1,6 @@
 ---
 slug: "tec-gottman-method"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0228"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "طريقة غوتمان في العلاج الزوجي"

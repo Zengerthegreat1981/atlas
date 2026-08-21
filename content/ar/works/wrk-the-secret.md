@@ -1,6 +1,6 @@
 ---
 slug: "wrk-the-secret"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0462"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

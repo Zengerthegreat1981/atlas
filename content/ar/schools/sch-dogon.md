@@ -1,6 +1,6 @@
 ---
 slug: "sch-dogon"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0089"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

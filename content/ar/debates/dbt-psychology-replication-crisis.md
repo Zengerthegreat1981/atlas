@@ -1,6 +1,6 @@
 ---
 slug: "dbt-psychology-replication-crisis"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0341"
 type: "جدل"
 level: "متقدم"
 title: "أزمة تكرار النتائج في علم النفس التجريبي"

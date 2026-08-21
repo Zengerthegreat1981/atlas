@@ -1,6 +1,6 @@
 ---
 slug: "thk-masson-oursel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1524"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

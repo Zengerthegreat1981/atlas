@@ -1,6 +1,6 @@
 ---
 slug: "thk-wmischel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2118"
 type: "مفكر"
 level: "متقدم"
 title: "والتَر ميشيل"

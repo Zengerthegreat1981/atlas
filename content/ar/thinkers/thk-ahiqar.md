@@ -1,6 +1,6 @@
 ---
 slug: "thk-ahiqar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0655"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

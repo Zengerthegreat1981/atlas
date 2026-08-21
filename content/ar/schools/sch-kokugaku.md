@@ -1,6 +1,6 @@
 ---
 slug: "sch-kokugaku"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0175"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

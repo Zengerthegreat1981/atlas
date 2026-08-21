@@ -1,6 +1,6 @@
 ---
 slug: "thk-rlmoore"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1829"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت ل. مور"

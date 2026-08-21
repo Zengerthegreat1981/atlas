@@ -1,6 +1,6 @@
 ---
 slug: "tec-sandplay-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0294"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج باللعب في الرمل (يونغي)"

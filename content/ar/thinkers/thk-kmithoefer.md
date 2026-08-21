@@ -1,6 +1,6 @@
 ---
 slug: "thk-kmithoefer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1408"
 type: "مفكر"
 level: "متوسط"
 title: "آن ميثوفر"

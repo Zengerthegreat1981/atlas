@@ -1,6 +1,6 @@
 ---
 slug: "thk-mpolster"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1624"
 type: "مفكر"
 level: "متوسط"
 title: "مرييام بولستر"

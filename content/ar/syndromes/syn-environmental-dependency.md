@@ -1,6 +1,6 @@
 ---
 slug: "syn-environmental-dependency"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0061"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

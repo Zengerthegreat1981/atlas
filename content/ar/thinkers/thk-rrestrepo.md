@@ -1,6 +1,6 @@
 ---
 slug: "thk-rrestrepo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1869"
 type: "مفكر"
 level: "متوسط"
 title: "رودريغو ريستريبو"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-primal-therapy-technique"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0276"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تقنية الصرخة البدائية"

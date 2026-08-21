@@ -1,6 +1,6 @@
 ---
 slug: "br-mst"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0173"
 type: "تيار"
 level: "متقدم"
 title: "العلاج متعدد الأنظمة (MST)"

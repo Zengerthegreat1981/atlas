@@ -1,6 +1,6 @@
 ---
 slug: "dis-schizophreniform"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0090"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "الفصاماني"

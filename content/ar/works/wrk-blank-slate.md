@@ -1,6 +1,6 @@
 ---
 slug: "wrk-blank-slate"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0256"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "ctx-ibn-ata-allah"
-id: "[DRAFT-UNKNOWN]"
+id: "CTX-0010"
 type: "سياق/تقليد"
 part: "philosophy"
 level: "متوسط"

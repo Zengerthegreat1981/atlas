@@ -1,6 +1,6 @@
 ---
 slug: "con-latent-learning"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0618"
 type: "مفهوم"
 level: "متوسط"
 title: "التعلم الكامن"

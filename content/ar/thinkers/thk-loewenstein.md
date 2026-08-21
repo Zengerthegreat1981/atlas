@@ -1,6 +1,6 @@
 ---
 slug: "thk-loewenstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1471"
 type: "مفكر"
 level: "متقدم"
 title: "رودولف لوفينشتاين"

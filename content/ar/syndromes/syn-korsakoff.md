@@ -1,6 +1,6 @@
 ---
 slug: "syn-korsakoff"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0104"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

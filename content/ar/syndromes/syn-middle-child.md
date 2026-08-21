@@ -1,6 +1,6 @@
 ---
 slug: "syn-middle-child"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0116"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-dunedin-longitudinal-study"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0032"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة دونيدين الطولية للنمو والصحة والسلوك وضبط النفس"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-status-anxiety"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0456"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

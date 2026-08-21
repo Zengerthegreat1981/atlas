@@ -1,6 +1,6 @@
 ---
 slug: "ins-caps-5"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0018"
 type: "أداة قياس"
 level: "متقدم"
 title: "المقياس الإكلينيكي المدار لتشخيص ما بعد الصدمة"

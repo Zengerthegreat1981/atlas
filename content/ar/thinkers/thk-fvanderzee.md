@@ -1,6 +1,6 @@
 ---
 slug: "thk-fvanderzee"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1060"
 type: "مفكر"
 level: "متوسط"
 title: "فرانك فان دير زي"

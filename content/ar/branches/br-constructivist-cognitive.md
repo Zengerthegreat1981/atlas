@@ -1,6 +1,6 @@
 ---
 slug: "br-constructivist-cognitive"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0129"
 type: "تيار"
 level: "متقدم"
 title: "العلاج المعرفي البنائي"

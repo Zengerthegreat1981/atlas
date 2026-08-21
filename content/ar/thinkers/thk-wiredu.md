@@ -1,6 +1,6 @@
 ---
 slug: "thk-wiredu"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2111"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

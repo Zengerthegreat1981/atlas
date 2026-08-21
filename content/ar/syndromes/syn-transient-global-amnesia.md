@@ -1,6 +1,6 @@
 ---
 slug: "syn-transient-global-amnesia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0177"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

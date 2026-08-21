@@ -1,6 +1,6 @@
 ---
 slug: "sch-humanistic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0139"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"

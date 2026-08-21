@@ -1,6 +1,6 @@
 ---
 slug: "crt-replication-crisis"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0020"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق"

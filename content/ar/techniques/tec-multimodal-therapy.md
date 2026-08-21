@@ -1,6 +1,6 @@
 ---
 slug: "tec-multimodal-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0255"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج متعدد الأنماط"

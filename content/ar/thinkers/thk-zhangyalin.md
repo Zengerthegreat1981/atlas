@@ -1,6 +1,6 @@
 ---
 slug: "thk-zhangyalin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2146"
 type: "مفكر"
 level: "مبتدئ"
 title: "تشانغ يالين"

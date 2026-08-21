@@ -1,6 +1,6 @@
 ---
 slug: "sch-intersectionality"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0149"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

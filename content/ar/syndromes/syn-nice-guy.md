@@ -1,6 +1,6 @@
 ---
 slug: "syn-nice-guy"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0123"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-wendigo"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0184"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

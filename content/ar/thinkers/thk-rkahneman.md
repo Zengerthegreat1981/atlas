@@ -1,6 +1,6 @@
 ---
 slug: "thk-rkahneman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1816"
 type: "مفكر"
 level: "متقدم"
 title: "دانيال كانمن"

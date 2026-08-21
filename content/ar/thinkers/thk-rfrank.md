@@ -1,6 +1,6 @@
 ---
 slug: "thk-rfrank"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1803"
 type: "مفكر"
 level: "متوسط"
 title: "رويلا فرانك"

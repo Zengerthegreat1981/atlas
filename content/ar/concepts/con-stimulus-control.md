@@ -1,6 +1,6 @@
 ---
 slug: "con-stimulus-control"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0752"
 type: "مفهوم"
 level: "متوسط"
 title: "التحكم بالمنبّهات (علاج)"

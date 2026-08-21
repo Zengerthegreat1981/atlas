@@ -1,6 +1,6 @@
 ---
 slug: "thk-rwalsh"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1888"
 type: "مفكر"
 level: "متوسط"
 title: "روجر والش"

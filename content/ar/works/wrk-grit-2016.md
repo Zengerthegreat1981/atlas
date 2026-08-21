@@ -1,6 +1,6 @@
 ---
 slug: "wrk-grit-2016"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0331"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

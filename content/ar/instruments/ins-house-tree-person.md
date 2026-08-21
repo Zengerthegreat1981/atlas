@@ -1,6 +1,6 @@
 ---
 slug: "ins-house-tree-person"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0043"
 type: "أداة قياس"
 level: "متوسط"
 title: "اختبار رسم المنزل والشجرة والشخص"

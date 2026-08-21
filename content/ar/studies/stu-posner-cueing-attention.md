@@ -1,6 +1,6 @@
 ---
 slug: "stu-posner-cueing-attention"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0087"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متقدم"

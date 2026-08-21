@@ -1,6 +1,6 @@
 ---
 slug: "thk-hkwiatkowska"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1159"
 type: "مفكر"
 level: "متوسط"
 title: "هانا كفياتكوفسكا"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-anxiety-due-to-medical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0013"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب القلق بسبب حالة طبية أخرى"

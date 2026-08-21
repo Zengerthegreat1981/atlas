@@ -1,6 +1,6 @@
 ---
 slug: "thk-rjohnson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1814"
 type: "مفكر"
 level: "مبتدئ"
 title: "روبرت أ. جونسون"

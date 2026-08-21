@@ -1,6 +1,6 @@
 ---
 slug: "thk-rollnick"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1851"
 type: "مفكر"
 level: "مبتدئ"
 title: "ستيفن رولنيك"

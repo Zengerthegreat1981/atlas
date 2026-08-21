@@ -1,6 +1,6 @@
 ---
 slug: "thk-navarro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1666"
 type: "مفكر"
 level: "متقدم"
 title: "فيديريكو نافارو"

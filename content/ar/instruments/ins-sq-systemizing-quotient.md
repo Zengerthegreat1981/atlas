@@ -1,6 +1,6 @@
 ---
 slug: "ins-sq-systemizing-quotient"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0076"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

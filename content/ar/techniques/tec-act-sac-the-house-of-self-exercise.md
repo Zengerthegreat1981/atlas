@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-sac-the-house-of-self-exercise"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0045"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تمرين بيت الذات"

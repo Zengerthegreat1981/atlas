@@ -1,6 +1,6 @@
 ---
 slug: "con-optimism-bias-concept"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0662"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

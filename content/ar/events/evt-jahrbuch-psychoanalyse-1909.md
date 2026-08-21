@@ -1,6 +1,6 @@
 ---
 slug: "evt-jahrbuch-psychoanalyse-1909"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0046"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس الكتاب السنوي للتحليل النفسي ومجلة Imago"

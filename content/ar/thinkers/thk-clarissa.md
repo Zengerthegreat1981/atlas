@@ -1,6 +1,6 @@
 ---
 slug: "thk-clarissa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0844"
 type: "مفكر"
 level: "متوسط"
 title: "كلاريسا بينكولا إِسْتِس"

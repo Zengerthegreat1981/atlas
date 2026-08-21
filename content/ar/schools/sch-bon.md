@@ -1,6 +1,6 @@
 ---
 slug: "sch-bon"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0047"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

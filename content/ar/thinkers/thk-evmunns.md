@@ -1,6 +1,6 @@
 ---
 slug: "thk-evmunns"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1023"
 type: "مفكر"
 level: "متوسط"
 title: "إيفانجلين مانس"

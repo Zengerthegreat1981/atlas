@@ -1,6 +1,6 @@
 ---
 slug: "thk-jeberenz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1263"
 type: "مفكر"
 level: "متوسط"
 title: "وولتر جِيمس أَولِس"

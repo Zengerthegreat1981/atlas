@@ -1,6 +1,6 @@
 ---
 slug: "thk-jeffrey-zeig"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1264"
 type: "مفكر"
 level: "متقدم"
 title: "جيفري زايغ"

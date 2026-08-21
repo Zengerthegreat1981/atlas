@@ -1,6 +1,6 @@
 ---
 slug: "thk-aryle"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0708"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

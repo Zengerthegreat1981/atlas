@@ -1,6 +1,6 @@
 ---
 slug: "thk-lorr"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1475"
 type: "مفكر"
 level: "مبتدئ"
 title: "ليونارد أور"

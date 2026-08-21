@@ -1,6 +1,6 @@
 ---
 slug: "thk-csikszentmihalyi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0863"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

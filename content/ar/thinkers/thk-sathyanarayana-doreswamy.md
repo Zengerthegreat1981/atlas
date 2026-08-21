@@ -1,6 +1,6 @@
 ---
 slug: "thk-sathyanarayana-doreswamy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1906"
 type: "مفكر"
 level: "متوسط"
 title: "ساتيانارايانا دورِسوامي"

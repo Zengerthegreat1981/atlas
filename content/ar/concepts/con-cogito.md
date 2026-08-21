@@ -1,6 +1,6 @@
 ---
 slug: "con-cogito"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0478"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

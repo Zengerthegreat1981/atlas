@@ -1,6 +1,6 @@
 ---
 slug: "tec-systemic-nlp-tad-james"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0318"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "NLP النظامي (Systemic NLP — تاد جيمس)"

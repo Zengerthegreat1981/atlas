@@ -1,6 +1,6 @@
 ---
 slug: "sch-chartres"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0059"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

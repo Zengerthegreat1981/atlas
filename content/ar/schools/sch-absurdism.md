@@ -1,6 +1,6 @@
 ---
 slug: "sch-absurdism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0002"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

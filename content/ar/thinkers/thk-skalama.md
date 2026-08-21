@@ -1,6 +1,6 @@
 ---
 slug: "thk-skalama"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1950"
 type: "مفكر"
 level: "مبتدئ"
 title: "سام كالاما"

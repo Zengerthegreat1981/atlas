@@ -1,6 +1,6 @@
 ---
 slug: "thk-jhaley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1286"
 type: "مفكر"
 level: "متوسط"
 title: "جاي هالي"

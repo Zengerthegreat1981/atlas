@@ -1,6 +1,6 @@
 ---
 slug: "thk-wdoherty"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2095"
 type: "مفكر"
 level: "متوسط"
 title: "بيل دوهرتي"

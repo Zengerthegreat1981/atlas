@@ -1,6 +1,6 @@
 ---
 slug: "wrk-upanishads"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0479"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

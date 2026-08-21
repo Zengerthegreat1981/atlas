@@ -1,6 +1,6 @@
 ---
 slug: "sch-western-marxism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0329"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

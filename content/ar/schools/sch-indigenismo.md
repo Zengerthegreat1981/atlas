@@ -1,6 +1,6 @@
 ---
 slug: "sch-indigenismo"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0145"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

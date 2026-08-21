@@ -1,6 +1,6 @@
 ---
 slug: "syn-subjective-doubles"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0167"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

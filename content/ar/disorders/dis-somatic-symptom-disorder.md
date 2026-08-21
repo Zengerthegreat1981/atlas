@@ -1,6 +1,6 @@
 ---
 slug: "dis-somatic-symptom-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0096"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الأعراض الجسدية"

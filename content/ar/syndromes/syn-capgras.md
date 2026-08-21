@@ -1,6 +1,6 @@
 ---
 slug: "syn-capgras"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0030"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmcdowell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1311"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

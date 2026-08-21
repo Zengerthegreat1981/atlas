@@ -1,6 +1,6 @@
 ---
 slug: "thk-leibniz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1448"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

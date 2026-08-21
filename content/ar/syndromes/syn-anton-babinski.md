@@ -1,6 +1,6 @@
 ---
 slug: "syn-anton-babinski"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0013"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

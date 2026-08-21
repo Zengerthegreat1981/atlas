@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbowen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1537"
 type: "مفكر"
 level: "متقدم"
 title: "موراي بوين"

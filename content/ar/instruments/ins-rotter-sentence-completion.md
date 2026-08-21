@@ -1,6 +1,6 @@
 ---
 slug: "ins-rotter-sentence-completion"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0067"
 type: "أداة قياس"
 level: "متوسط"
 title: "اختبار روتر لتكميل الجمل الناقصة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-bill-matthews"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0758"
 type: "مفكر"
 level: "متوسط"
 title: "بيل ماثيوز"

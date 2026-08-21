@@ -1,6 +1,6 @@
 ---
 slug: "thk-greenwald"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1112"
 type: "مفكر"
 level: "متقدم"
 title: "راي غرينوالد"

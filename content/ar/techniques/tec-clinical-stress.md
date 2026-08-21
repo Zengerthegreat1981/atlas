@@ -1,6 +1,6 @@
 ---
 slug: "tec-clinical-stress"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0129"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "علاج الضغط السريري (CST)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-amithoefer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0685"
 type: "مفكر"
 level: "متوسط"
 title: "آن ميستوفر"

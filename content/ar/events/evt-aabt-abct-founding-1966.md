@@ -1,6 +1,6 @@
 ---
 slug: "evt-aabt-abct-founding-1966"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0002"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس جمعية النهوض بالعلاج السلوكي وتدشين عصر العلاج المعرفي السلوكي"

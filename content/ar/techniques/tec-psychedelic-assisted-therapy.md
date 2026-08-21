@@ -1,6 +1,6 @@
 ---
 slug: "tec-psychedelic-assisted-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0284"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج النفسي بمساعدة المواد السيكوديلية (PAP)"

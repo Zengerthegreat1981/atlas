@@ -1,6 +1,6 @@
 ---
 slug: "thk-mcierpka"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1543"
 type: "مفكر"
 level: "متوسط"
 title: "مانفريد شيربكا"

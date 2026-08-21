@@ -1,6 +1,6 @@
 ---
 slug: "dis-dissociative-amnesia"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0039"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "فقدان الذاكرة التفارقي"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-sources-of-meaning-some"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0074"
 type: "أداة قياس"
 level: "متقدم"
 title: "استبيان مصادر المعنى (SoMe)"

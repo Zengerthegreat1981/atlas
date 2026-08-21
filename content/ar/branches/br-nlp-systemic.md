@@ -1,6 +1,6 @@
 ---
 slug: "br-nlp-systemic"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0178"
 type: "تيار"
 level: "مبتدئ"
 title: "البرمجة اللغوية العصبية (NLP)"

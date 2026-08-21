@@ -1,6 +1,6 @@
 ---
 slug: "thk-dchopra"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0904"
 type: "مفكر"
 level: "مبتدئ"
 title: "ديباك شوبرا"

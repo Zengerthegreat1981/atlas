@@ -1,6 +1,6 @@
 ---
 slug: "br-sensory-integration"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0209"
 type: "تيار"
 level: "متوسط"
 title: "التكامل الحسي"

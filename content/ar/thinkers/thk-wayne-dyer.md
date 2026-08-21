@@ -1,6 +1,6 @@
 ---
 slug: "thk-wayne-dyer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2092"
 type: "مفكر"
 part: "psychology"
 register: "popular"

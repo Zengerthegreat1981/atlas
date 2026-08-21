@@ -1,6 +1,6 @@
 ---
 slug: "thk-fakhr-razi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1027"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

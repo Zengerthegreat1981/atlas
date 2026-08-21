@@ -1,6 +1,6 @@
 ---
 slug: "dbt-human-nature-debate"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0330"
 type: "جدل"
 part: "philosophy"
 level: "متوسط"

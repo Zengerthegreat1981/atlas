@@ -1,6 +1,6 @@
 ---
 slug: "sch-sage-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0270"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

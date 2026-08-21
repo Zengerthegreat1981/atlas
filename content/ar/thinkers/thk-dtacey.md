@@ -1,6 +1,6 @@
 ---
 slug: "thk-dtacey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0958"
 type: "مفكر"
 level: "متقدم"
 title: "ديفيد تاسّي"

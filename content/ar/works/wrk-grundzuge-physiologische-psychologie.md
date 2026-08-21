@@ -1,6 +1,6 @@
 ---
 slug: "wrk-grundzuge-physiologische-psychologie"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0333"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "خطوط علم النفس الفسيولوجي"

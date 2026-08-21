@@ -1,6 +1,6 @@
 ---
 slug: "rel-psychoanalysis-cbt"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0142"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-pseudo-dionysius"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1762"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

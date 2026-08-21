@@ -1,6 +1,6 @@
 ---
 slug: "syn-depressive-symptoms"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0047"
 type: "متلازمة"
 level: "مبتدئ"
 title: "الأعراض الاكتئابية"

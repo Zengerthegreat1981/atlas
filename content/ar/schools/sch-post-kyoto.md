@@ -1,6 +1,6 @@
 ---
 slug: "sch-post-kyoto"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0249"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

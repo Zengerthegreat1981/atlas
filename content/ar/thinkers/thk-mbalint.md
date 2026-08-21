@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbalint"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1532"
 type: "مفكر"
 level: "متقدم"
 title: "مايكل بالِنت"

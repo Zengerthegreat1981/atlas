@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-daily-dbt-diary-card"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0143"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "بطاقة اليوميات (Diary Card)"

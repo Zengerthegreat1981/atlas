@@ -1,6 +1,6 @@
 ---
 slug: "br-classical-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0127"
 type: "تيار"
 level: "مبتدئ"
 title: "التحليل النفسي الفرويدي الكلاسيكي"

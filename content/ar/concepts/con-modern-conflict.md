@@ -1,6 +1,6 @@
 ---
 slug: "con-modern-conflict"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0642"
 type: "مفهوم"
 level: "متقدم"
 title: "نظرية الصراع الحديث (Modern Conflict Theory)"

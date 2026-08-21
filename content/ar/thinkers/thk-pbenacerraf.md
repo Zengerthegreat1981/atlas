@@ -1,6 +1,6 @@
 ---
 slug: "thk-pbenacerraf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1715"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

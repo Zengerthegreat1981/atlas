@@ -1,6 +1,6 @@
 ---
 slug: "thk-pgilbert"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1736"
 type: "مفكر"
 level: "متقدم"
 title: "بول جيلبرت"

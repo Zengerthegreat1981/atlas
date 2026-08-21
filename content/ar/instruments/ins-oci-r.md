@@ -1,6 +1,6 @@
 ---
 slug: "ins-oci-r"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0057"
 type: "أداة قياس"
 level: "متوسط"
 title: "قائمة الوسواس القهري المنقحة للتقرير الذاتي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-elaine-aron"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0994"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

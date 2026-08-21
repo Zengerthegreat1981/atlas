@@ -1,6 +1,6 @@
 ---
 slug: "thk-shirley-murray"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1944"
 type: "مفكر"
 level: "متوسط"
 title: "شيرلي موراي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-firestone"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1038"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

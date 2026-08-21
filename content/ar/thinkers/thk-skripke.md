@@ -1,6 +1,6 @@
 ---
 slug: "thk-skripke"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1951"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

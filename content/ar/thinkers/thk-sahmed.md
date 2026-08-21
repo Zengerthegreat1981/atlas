@@ -1,6 +1,6 @@
 ---
 slug: "thk-sahmed"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1898"
 type: "مفكر"
 level: "متوسط"
 title: "سارة أحمد"

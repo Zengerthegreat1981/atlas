@@ -1,6 +1,6 @@
 ---
 slug: "syn-biid"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0022"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-deep-work"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0276"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

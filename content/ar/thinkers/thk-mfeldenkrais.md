@@ -1,6 +1,6 @@
 ---
 slug: "thk-mfeldenkrais"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1560"
 type: "مفكر"
 level: "متوسط"
 title: "موشيه فيلدنكرايس"

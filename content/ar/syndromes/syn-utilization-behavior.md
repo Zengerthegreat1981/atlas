@@ -1,6 +1,6 @@
 ---
 slug: "syn-utilization-behavior"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0180"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

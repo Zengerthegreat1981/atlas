@@ -1,6 +1,6 @@
 ---
 slug: "thk-pfisher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1732"
 type: "مفكر"
 level: "متوسط"
 title: "بيتر فيشر"

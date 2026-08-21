@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-stop"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0155"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "توقف (STOP)"

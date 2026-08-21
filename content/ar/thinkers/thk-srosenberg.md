@@ -1,6 +1,6 @@
 ---
 slug: "thk-srosenberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1981"
 type: "مفكر"
 level: "مبتدئ"
 title: "ستانلي روزنبرغ"

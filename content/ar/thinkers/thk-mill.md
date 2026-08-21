@@ -1,6 +1,6 @@
 ---
 slug: "thk-mill"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1582"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

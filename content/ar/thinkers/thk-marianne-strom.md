@@ -1,6 +1,6 @@
 ---
 slug: "thk-marianne-strom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1505"
 type: "مفكر"
 level: "متوسط"
 title: "ماريان ستروم"

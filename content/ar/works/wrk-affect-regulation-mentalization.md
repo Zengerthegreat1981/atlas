@@ -1,6 +1,6 @@
 ---
 slug: "wrk-affect-regulation-mentalization"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0222"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "تنظيم الوجدان والذهنية وتطور الذات"

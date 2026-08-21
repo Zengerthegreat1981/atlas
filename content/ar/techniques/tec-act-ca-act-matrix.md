@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-act-matrix"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0017"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "مصفوفة ACT"

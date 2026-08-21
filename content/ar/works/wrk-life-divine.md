@@ -1,6 +1,6 @@
 ---
 slug: "wrk-life-divine"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0374"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

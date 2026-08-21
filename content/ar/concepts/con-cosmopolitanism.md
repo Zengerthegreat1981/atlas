@@ -1,6 +1,6 @@
 ---
 slug: "con-cosmopolitanism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0491"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

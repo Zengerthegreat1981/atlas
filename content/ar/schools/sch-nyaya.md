@@ -1,6 +1,6 @@
 ---
 slug: "sch-nyaya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0225"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

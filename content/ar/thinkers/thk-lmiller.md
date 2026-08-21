@@ -1,6 +1,6 @@
 ---
 slug: "thk-lmiller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1465"
 type: "مفكر"
 level: "متوسط"
 title: "لوسي جين ميلر"

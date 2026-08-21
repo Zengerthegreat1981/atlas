@@ -1,6 +1,6 @@
 ---
 slug: "sch-social-ecology"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0293"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-isaac-blind"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1205"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

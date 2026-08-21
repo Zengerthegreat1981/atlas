@@ -1,6 +1,6 @@
 ---
 slug: "sch-aurobindo"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0040"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

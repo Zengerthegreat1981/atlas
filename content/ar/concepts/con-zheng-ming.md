@@ -1,6 +1,6 @@
 ---
 slug: "con-zheng-ming"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0795"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

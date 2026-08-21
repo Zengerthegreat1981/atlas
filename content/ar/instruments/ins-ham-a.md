@@ -1,6 +1,6 @@
 ---
 slug: "ins-ham-a"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0039"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس هاملتون لتقييم القلق"

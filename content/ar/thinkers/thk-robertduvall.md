@@ -1,6 +1,6 @@
 ---
 slug: "thk-robertduvall"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1845"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت دوفال"

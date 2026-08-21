@@ -1,6 +1,6 @@
 ---
 slug: "thk-mstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1635"
 type: "مفكر"
 level: "متوسط"
 title: "موراي شتاين"

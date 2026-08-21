@@ -1,6 +1,6 @@
 ---
 slug: "thk-ngoldberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1674"
 type: "مفكر"
 level: "متوسط"
 title: "ناتالي غولدبرغ"

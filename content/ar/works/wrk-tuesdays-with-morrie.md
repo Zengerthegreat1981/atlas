@@ -1,6 +1,6 @@
 ---
 slug: "wrk-tuesdays-with-morrie"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0475"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

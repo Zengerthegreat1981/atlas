@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-pres-urge-surfing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0040"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "ركوب موجة الرغبة الملحّة"

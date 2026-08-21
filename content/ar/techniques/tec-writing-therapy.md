@@ -1,6 +1,6 @@
 ---
 slug: "tec-writing-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0331"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج بالكتابة التعبيرية"

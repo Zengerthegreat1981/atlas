@@ -1,6 +1,6 @@
 ---
 slug: "wrk-dialectic-sex"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0280"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

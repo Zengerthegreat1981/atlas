@@ -1,6 +1,6 @@
 ---
 slug: "thk-amarlatt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0679"
 type: "مفكر"
 level: "متقدم"
 title: "ألان مارلات"

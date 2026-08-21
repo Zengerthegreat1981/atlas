@@ -1,6 +1,6 @@
 ---
 slug: "con-focal-practices"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0556"
 type: "مفهوم"
 level: "متقدم"
 title: "الممارسات المحورية"

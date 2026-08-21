@@ -1,6 +1,6 @@
 ---
 slug: "wrk-polyvagal-theory-2011"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0422"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "نظرية بولي فاغال: الأسس العصبية للسلوك الاجتماعي"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-raphael-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0147"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

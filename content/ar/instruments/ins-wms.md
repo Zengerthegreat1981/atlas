@@ -1,6 +1,6 @@
 ---
 slug: "ins-wms"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0092"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس وكسلر للذاكرة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-lavinia-shaw"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1435"
 type: "مفكر"
 level: "متوسط"
 title: "لاڤينيا شو"

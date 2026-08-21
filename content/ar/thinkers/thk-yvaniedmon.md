@@ -1,6 +1,6 @@
 ---
 slug: "thk-yvaniedmon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2143"
 type: "مفكر"
 level: "متقدم"
 title: "إيڤاني إدمون"

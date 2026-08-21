@@ -1,6 +1,6 @@
 ---
 slug: "sch-apophatic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0031"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcarson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1791"
 type: "مفكر"
 level: "متوسط"
 title: "راشيل كارسون"

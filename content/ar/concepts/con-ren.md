@@ -1,6 +1,6 @@
 ---
 slug: "con-ren"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0714"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

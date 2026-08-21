@@ -1,6 +1,6 @@
 ---
 slug: "syn-sunday-neurosis"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0168"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgrind"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1284"
 type: "مفكر"
 level: "متوسط"
 title: "جون غريندر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rwooffitt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1890"
 type: "مفكر"
 level: "متوسط"
 title: "روبن ووفيت"

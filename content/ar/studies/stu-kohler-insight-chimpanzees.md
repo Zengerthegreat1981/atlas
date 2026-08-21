@@ -1,6 +1,6 @@
 ---
 slug: "stu-kohler-insight-chimpanzees"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0059"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-wind-illness-trung-gio"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0189"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

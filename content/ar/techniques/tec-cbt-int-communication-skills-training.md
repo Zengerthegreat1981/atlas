@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-communication-skills-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0107"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تدريب مهارات التواصل"

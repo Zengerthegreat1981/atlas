@@ -1,6 +1,6 @@
 ---
 slug: "sch-berkeleianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0042"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

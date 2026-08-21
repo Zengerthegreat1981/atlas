@@ -1,6 +1,6 @@
 ---
 slug: "sch-neoconfucianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0213"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

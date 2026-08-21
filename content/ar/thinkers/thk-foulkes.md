@@ -1,6 +1,6 @@
 ---
 slug: "thk-foulkes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1048"
 type: "مفكر"
 level: "متقدم"
 title: "إس. إتش. فولكس"

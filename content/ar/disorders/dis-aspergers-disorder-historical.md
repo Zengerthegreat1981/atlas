@@ -1,6 +1,6 @@
 ---
 slug: "dis-aspergers-disorder-historical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0015"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)"

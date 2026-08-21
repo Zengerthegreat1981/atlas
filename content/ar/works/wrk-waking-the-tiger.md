@@ -1,6 +1,6 @@
 ---
 slug: "wrk-waking-the-tiger"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0482"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-wet"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0330"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "علاج التعرض الكتابي للصدمة (WET)"

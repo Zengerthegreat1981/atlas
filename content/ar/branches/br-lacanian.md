@@ -1,6 +1,6 @@
 ---
 slug: "br-lacanian"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0167"
 type: "تيار"
 level: "متقدم"
 title: "التحليل النفسي اللاكاني وما بعد لاكان"

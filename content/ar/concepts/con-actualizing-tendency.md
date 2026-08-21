@@ -1,6 +1,6 @@
 ---
 slug: "con-actualizing-tendency"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0425"
 type: "مفهوم"
 level: "مبتدئ"
 title: "نزعة التحقق الذاتي (Actualizing Tendency)"

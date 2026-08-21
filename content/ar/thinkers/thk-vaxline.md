@@ -1,6 +1,6 @@
 ---
 slug: "thk-vaxline"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2076"
 type: "مفكر"
 level: "متوسط"
 title: "فيرجينيا أَكسلاين"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-val-write-your-own-eulogy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0054"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "كتابة كلمة تأبين لنفسك"

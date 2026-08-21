@@ -1,6 +1,6 @@
 ---
 slug: "thk-griffiths"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1114"
 type: "مفكر"
 level: "متقدم"
 title: "رولاند غريفيثز"

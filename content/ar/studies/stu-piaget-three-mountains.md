@@ -1,6 +1,6 @@
 ---
 slug: "stu-piaget-three-mountains"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0086"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة الجبال الثلاثة والتمركز حول الذات عند الأطفال"

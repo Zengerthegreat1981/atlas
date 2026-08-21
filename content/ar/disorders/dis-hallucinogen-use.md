@@ -1,6 +1,6 @@
 ---
 slug: "dis-hallucinogen-use"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0055"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب استخدام المُهلوسات"

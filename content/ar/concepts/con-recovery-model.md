@@ -1,6 +1,6 @@
 ---
 slug: "con-recovery-model"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0707"
 type: "مفهوم"
 level: "متوسط"
 title: "نموذج التعافي (Recovery)"

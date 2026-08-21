@@ -1,6 +1,6 @@
 ---
 slug: "sch-victorines"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0322"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

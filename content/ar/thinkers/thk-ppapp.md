@@ -1,6 +1,6 @@
 ---
 slug: "thk-ppapp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1756"
 type: "مفكر"
 level: "متوسط"
 title: "بيغي باب"

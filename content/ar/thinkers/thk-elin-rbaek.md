@@ -1,6 +1,6 @@
 ---
 slug: "thk-elin-rbaek"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0998"
 type: "مفكر"
 level: "متوسط"
 title: "إلين ربيك"

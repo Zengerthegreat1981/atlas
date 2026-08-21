@@ -1,6 +1,6 @@
 ---
 slug: "wrk-atomic-habits"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0239"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

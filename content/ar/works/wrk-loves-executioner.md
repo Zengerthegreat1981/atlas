@@ -1,6 +1,6 @@
 ---
 slug: "wrk-loves-executioner"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0379"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-heuristic-research"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0048"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "البحث الكشفي / الاستكشافي (Heuristic Research)"

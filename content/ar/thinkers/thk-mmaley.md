@@ -1,6 +1,6 @@
 ---
 slug: "thk-mmaley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1604"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل مالِه"

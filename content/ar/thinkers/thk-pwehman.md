@@ -1,6 +1,6 @@
 ---
 slug: "thk-pwehman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1768"
 type: "مفكر"
 level: "متوسط"
 title: "بول ويهَمان"

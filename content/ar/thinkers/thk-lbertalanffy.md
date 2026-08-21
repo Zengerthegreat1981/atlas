@@ -1,6 +1,6 @@
 ---
 slug: "thk-lbertalanffy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1439"
 type: "مفكر"
 level: "متوسط"
 title: "لودفيغ فون برتالانفي"

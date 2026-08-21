@@ -1,6 +1,6 @@
 ---
 slug: "syn-wallenberg"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0183"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

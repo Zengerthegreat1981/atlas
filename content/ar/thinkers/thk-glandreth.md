@@ -1,6 +1,6 @@
 ---
 slug: "thk-glandreth"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1096"
 type: "مفكر"
 level: "متوسط"
 title: "غاري لاندريث"

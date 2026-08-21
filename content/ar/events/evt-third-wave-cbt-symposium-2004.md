@@ -1,6 +1,6 @@
 ---
 slug: "evt-third-wave-cbt-symposium-2004"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0065"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي وتكامل القبول واليقظة الذهنية"

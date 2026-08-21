@@ -1,6 +1,6 @@
 ---
 slug: "thk-muhammad-abduh"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1642"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

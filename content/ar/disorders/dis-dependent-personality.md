@@ -1,6 +1,6 @@
 ---
 slug: "dis-dependent-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0033"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الشخصية الاعتمادية"

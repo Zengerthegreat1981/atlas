@@ -1,6 +1,6 @@
 ---
 slug: "thk-jflax"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1271"
 type: "مفكر"
 level: "متوسط"
 title: "جين فلاكس"

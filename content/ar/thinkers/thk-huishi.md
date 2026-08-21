@@ -1,6 +1,6 @@
 ---
 slug: "thk-huishi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1178"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

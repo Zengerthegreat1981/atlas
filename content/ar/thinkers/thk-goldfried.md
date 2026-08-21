@@ -1,6 +1,6 @@
 ---
 slug: "thk-goldfried"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1105"
 type: "مفكر"
 level: "متوسط"
 title: "مارفين غولدفريد"

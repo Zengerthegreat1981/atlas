@@ -1,6 +1,6 @@
 ---
 slug: "tec-stimulus-control"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0309"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالتحكم بالمنبّهات"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-glover"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1099"
 type: "مفكر"
 level: "متقدم"
 title: "إدوارد غلوفر"

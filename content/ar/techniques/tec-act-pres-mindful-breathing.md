@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-pres-mindful-breathing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0036"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التنفس بيقظة"

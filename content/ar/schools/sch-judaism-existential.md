@@ -1,6 +1,6 @@
 ---
 slug: "sch-judaism-existential"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0161"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-active-listening-skills"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0104"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "مهارات الإصغاء الفعّال"

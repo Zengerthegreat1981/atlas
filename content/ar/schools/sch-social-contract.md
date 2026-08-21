@@ -1,6 +1,6 @@
 ---
 slug: "sch-social-contract"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0291"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

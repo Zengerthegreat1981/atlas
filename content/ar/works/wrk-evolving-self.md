@@ -1,6 +1,6 @@
 ---
 slug: "wrk-evolving-self"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0304"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الذات المتطورة: جدلية بين النظام والفوضى"

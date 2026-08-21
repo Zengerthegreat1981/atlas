@@ -1,6 +1,6 @@
 ---
 slug: "thk-yihuazhu"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2135"
 type: "مفكر"
 level: "متوسط"
 title: "تشو يي-هوا"

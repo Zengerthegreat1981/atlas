@@ -1,6 +1,6 @@
 ---
 slug: "dbt-langle-frankl-meaning"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0334"
 type: "جدل"
 level: "متقدم"
 title: "لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟"

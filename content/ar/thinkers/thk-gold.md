@@ -1,6 +1,6 @@
 ---
 slug: "thk-gold"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1103"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف غولد"

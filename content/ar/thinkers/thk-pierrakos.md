@@ -1,6 +1,6 @@
 ---
 slug: "thk-pierrakos"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1747"
 type: "مفكر"
 level: "متقدم"
 title: "جون س. بيراكوس"

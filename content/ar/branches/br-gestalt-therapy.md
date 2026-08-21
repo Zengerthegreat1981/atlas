@@ -1,6 +1,6 @@
 ---
 slug: "br-gestalt-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0154"
 type: "تيار"
 level: "مبتدئ"
 title: "علاج الجشطالت"

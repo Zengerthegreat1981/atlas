@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-prob-smart-goal-setting"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0121"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تحديد الأهداف بطريقة SMART"

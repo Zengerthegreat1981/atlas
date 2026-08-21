@@ -1,6 +1,6 @@
 ---
 slug: "tec-self-talk-modification"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0299"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تعديل الكلام الذاتي"

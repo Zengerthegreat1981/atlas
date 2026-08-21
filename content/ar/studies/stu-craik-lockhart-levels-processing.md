@@ -1,6 +1,6 @@
 ---
 slug: "stu-craik-lockhart-levels-processing"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0026"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب كريك وتولفينغ لمستويات معالجة المعلومات في الذاكرة"

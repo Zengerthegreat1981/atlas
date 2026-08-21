@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-self-soothe-with-the-five-senses"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0154"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التهدئة الذاتية بالحواس الخمس"

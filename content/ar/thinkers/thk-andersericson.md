@@ -1,6 +1,6 @@
 ---
 slug: "thk-andersericson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0693"
 type: "مفكر"
 level: "متقدم"
 title: "أندرس إريكسون"

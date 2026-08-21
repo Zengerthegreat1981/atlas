@@ -1,6 +1,6 @@
 ---
 slug: "thk-tali-sharot"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2017"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

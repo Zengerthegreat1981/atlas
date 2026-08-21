@@ -1,6 +1,6 @@
 ---
 slug: "thk-laozi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1431"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

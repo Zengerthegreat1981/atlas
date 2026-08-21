@@ -1,6 +1,6 @@
 ---
 slug: "ins-relationship-questionnaire-bartholomew"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0065"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "استبيان العلاقات لبارثولوميو وهوروفيتز لأنماط التعلّق الأربعة"

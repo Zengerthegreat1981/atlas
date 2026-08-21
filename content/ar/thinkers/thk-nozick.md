@@ -1,6 +1,6 @@
 ---
 slug: "thk-nozick"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1685"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-alinley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0674"
 type: "مفكر"
 level: "متوسط"
 title: "أليكس لينلي"

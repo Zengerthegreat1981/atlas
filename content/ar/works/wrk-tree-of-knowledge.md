@@ -1,6 +1,6 @@
 ---
 slug: "wrk-tree-of-knowledge"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0474"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "شجرة المعرفة: الجذور البيولوجية للفهم البشري"

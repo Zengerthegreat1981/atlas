@@ -1,6 +1,6 @@
 ---
 slug: "tec-play-therapy-branches"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0270"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج باللعب ومداخله المتعددة"

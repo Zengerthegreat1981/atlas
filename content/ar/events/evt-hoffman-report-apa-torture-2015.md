@@ -1,6 +1,6 @@
 ---
 slug: "evt-hoffman-report-apa-torture-2015"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0042"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "صدور تقرير هوفمان وإدانة تواطؤ قيادات جمعية علم النفس الأمريكية في التعذيب"

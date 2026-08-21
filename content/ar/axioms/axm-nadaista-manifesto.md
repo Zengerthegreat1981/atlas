@@ -1,6 +1,6 @@
 ---
 slug: "axm-nadaista-manifesto"
-id: "[DRAFT-UNKNOWN]"
+id: "AXM-0003"
 type: "بديهية/مبدأ تأسيسي"
 level: "متقدم"
 title: "بيان النادائية (Nadaísmo) — العدمية الكولومبية"

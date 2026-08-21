@@ -1,6 +1,6 @@
 ---
 slug: "syn-balint"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0019"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

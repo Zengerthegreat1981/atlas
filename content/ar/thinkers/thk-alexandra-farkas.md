@@ -1,6 +1,6 @@
 ---
 slug: "thk-alexandra-farkas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0670"
 type: "مفكر"
 level: "متوسط"
 title: "ألكسندرا فاركاش"

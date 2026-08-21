@@ -1,6 +1,6 @@
 ---
 slug: "thk-aferro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0647"
 type: "مفكر"
 level: "متقدم"
 title: "أنطونيو فيرو"

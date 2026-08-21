@@ -1,6 +1,6 @@
 ---
 slug: "dis-adjustment-disorders"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0008"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "اضطرابات التكيّف"

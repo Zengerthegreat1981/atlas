@@ -1,6 +1,6 @@
 ---
 slug: "thk-gschwartz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1117"
 type: "مفكر"
 level: "متوسط"
 title: "غاري شوارتز"

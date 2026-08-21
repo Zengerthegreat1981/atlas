@@ -1,6 +1,6 @@
 ---
 slug: "br-psychoeducation"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0194"
 type: "تيار"
 level: "مبتدئ"
 title: "التثقيف النفسي"

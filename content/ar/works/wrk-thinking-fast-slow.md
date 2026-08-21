@@ -1,6 +1,6 @@
 ---
 slug: "wrk-thinking-fast-slow"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0468"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

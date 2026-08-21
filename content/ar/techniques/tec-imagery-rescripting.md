@@ -1,6 +1,6 @@
 ---
 slug: "tec-imagery-rescripting"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0235"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "إعادة كتابة سردية التخيل (Imagery Rescripting)"

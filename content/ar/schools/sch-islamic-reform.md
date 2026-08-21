@@ -1,6 +1,6 @@
 ---
 slug: "sch-islamic-reform"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0155"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

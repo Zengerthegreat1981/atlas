@@ -1,6 +1,6 @@
 ---
 slug: "tec-sensate-focus"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0300"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التركيز الحسي"

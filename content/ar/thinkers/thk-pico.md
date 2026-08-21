@@ -1,6 +1,6 @@
 ---
 slug: "thk-pico"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1746"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-idmarshall"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1191"
 type: "مفكر"
 level: "متقدم"
 title: "توماس هانا"

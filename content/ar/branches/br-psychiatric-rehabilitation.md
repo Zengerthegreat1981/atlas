@@ -1,6 +1,6 @@
 ---
 slug: "br-psychiatric-rehabilitation"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0188"
 type: "تيار"
 level: "متوسط"
 title: "التأهيل النفسي-الاجتماعي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-sgrof"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1931"
 type: "مفكر"
 level: "متقدم"
 title: "ستانيسلاف غروف"

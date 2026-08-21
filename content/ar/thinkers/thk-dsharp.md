@@ -1,6 +1,6 @@
 ---
 slug: "thk-dsharp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0954"
 type: "مفكر"
 level: "متوسط"
 title: "دَريل شارب"

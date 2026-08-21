@@ -1,6 +1,6 @@
 ---
 slug: "tec-pastoral-counseling"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0264"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الإرشاد الرعوي والروحي"

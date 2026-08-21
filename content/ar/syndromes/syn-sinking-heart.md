@@ -1,6 +1,6 @@
 ---
 slug: "syn-sinking-heart"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0159"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

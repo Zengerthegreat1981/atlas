@@ -1,6 +1,6 @@
 ---
 slug: "con-care-for-soul"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0468"
 type: "مفهوم"
 level: "متقدم"
 title: "رعاية النفس"

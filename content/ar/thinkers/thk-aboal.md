@@ -1,6 +1,6 @@
 ---
 slug: "thk-aboal"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0636"
 type: "مفكر"
 level: "متوسط"
 title: "أوغوستو بوال"

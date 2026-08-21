@@ -1,6 +1,6 @@
 ---
 slug: "thk-mnichols"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1612"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل نيكولز"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-laplanche"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1432"
 type: "مفكر"
 level: "متقدم"
 title: "جان لابلانش"

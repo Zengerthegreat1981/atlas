@@ -1,6 +1,6 @@
 ---
 slug: "thk-wmiller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2117"
 type: "مفكر"
 level: "متوسط"
 title: "ويليام ميلر (William R. Miller)"

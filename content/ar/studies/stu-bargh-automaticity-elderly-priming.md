@@ -1,6 +1,6 @@
 ---
 slug: "stu-bargh-automaticity-elderly-priming"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0012"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

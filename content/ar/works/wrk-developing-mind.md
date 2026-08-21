@@ -1,6 +1,6 @@
 ---
 slug: "wrk-developing-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0279"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "العقل النامي: نحو علم نفس عصبي للعلاقات الشخصية"

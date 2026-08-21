@@ -1,6 +1,6 @@
 ---
 slug: "br-radical-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0198"
 type: "تيار"
 level: "متوسط"
 title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)"

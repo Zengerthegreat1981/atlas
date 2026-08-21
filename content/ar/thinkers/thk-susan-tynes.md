@@ -1,6 +1,6 @@
 ---
 slug: "thk-susan-tynes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2009"
 type: "مفكر"
 level: "متوسط"
 title: "سوزان تاينز"

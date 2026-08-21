@@ -1,6 +1,6 @@
 ---
 slug: "thk-iyengar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1212"
 type: "مفكر"
 level: "متوسط"
 title: "بي. كيه. إس. آيَنغَر"

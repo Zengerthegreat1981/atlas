@@ -1,6 +1,6 @@
 ---
 slug: "con-halo-horns-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0579"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

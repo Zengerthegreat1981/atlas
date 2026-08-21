@@ -1,6 +1,6 @@
 ---
 slug: "con-dunning-kruger-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0523"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

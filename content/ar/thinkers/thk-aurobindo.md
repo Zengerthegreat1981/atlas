@@ -1,6 +1,6 @@
 ---
 slug: "thk-aurobindo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0721"
 type: "مفكر"
 level: "متوسط"
 title: "سري أوروبندو"

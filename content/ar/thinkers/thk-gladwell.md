@@ -1,6 +1,6 @@
 ---
 slug: "thk-gladwell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1095"
 type: "مفكر"
 part: "psychology"
 register: "popular"

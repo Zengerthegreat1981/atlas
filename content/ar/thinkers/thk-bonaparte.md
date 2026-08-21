@@ -1,6 +1,6 @@
 ---
 slug: "thk-bonaparte"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0775"
 type: "مفكر"
 level: "متوسط"
 title: "ماري بونابرت"

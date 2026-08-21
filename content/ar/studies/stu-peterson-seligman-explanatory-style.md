@@ -1,6 +1,6 @@
 ---
 slug: "stu-peterson-seligman-explanatory-style"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0083"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات بيترسون وسليجمان حول أسلوب التفسير السببي والاكتئاب"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-niosepa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1676"
 type: "مفكر"
 level: "متوسط"
 title: "نانا إيوسيبا"

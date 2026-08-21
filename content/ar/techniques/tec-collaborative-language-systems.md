@@ -1,6 +1,6 @@
 ---
 slug: "tec-collaborative-language-systems"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0133"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الأنظمة اللغوية التعاونية"

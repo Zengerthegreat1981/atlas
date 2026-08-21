@@ -1,6 +1,6 @@
 ---
 slug: "con-taoist-cognitive-therapy-concept"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0765"
 type: "مفهوم"
 level: "متوسط"
 title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)"

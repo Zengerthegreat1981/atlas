@@ -1,6 +1,6 @@
 ---
 slug: "thk-ken-blanchard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1385"
 type: "مفكر"
 part: "psychology"
 register: "popular"

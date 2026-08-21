@@ -1,6 +1,6 @@
 ---
 slug: "thk-kcooper"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1379"
 type: "مفكر"
 level: "متوسط"
 title: "كينيث كوبر"

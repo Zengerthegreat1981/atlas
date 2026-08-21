@@ -1,6 +1,6 @@
 ---
 slug: "thk-kkambon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1401"
 type: "مفكر"
 level: "متوسط"
 title: "كوبِي كامبون"

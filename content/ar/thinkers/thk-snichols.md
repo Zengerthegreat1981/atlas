@@ -1,6 +1,6 @@
 ---
 slug: "thk-snichols"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1964"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

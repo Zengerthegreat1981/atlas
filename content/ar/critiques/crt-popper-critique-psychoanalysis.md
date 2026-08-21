@@ -1,6 +1,6 @@
 ---
 slug: "crt-popper-critique-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0014"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "نقد بوبر للتحليل النفسي: قابلية التفنيد كشرط للعلمية"

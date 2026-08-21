@@ -1,6 +1,6 @@
 ---
 slug: "sch-ubuntu"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0314"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

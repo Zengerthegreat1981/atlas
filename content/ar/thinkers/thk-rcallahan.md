@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcallahan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1788"
 type: "مفكر"
 level: "مبتدئ"
 title: "روجر كالاهان"

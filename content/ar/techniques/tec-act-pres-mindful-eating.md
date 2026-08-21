@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-pres-mindful-eating"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0037"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الأكل بيقظة"

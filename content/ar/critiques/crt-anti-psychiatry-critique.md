@@ -1,6 +1,6 @@
 ---
 slug: "crt-anti-psychiatry-critique"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0003"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة"

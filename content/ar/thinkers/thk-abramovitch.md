@@ -1,6 +1,6 @@
 ---
 slug: "thk-abramovitch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0639"
 type: "مفكر"
 level: "متوسط"
 title: "هنري أبراموفيتش"

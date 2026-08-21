@@ -1,6 +1,6 @@
 ---
 slug: "stu-kohlberg-moral-development"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0058"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

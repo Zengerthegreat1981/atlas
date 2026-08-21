@@ -1,6 +1,6 @@
 ---
 slug: "thk-peg-pender"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1721"
 type: "مفكر"
 level: "متوسط"
 title: "بيغ پيندر"

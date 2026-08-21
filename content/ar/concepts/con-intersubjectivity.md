@@ -1,6 +1,6 @@
 ---
 slug: "con-intersubjectivity"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0606"
 type: "مفهوم"
 level: "متقدم"
 title: "البين-ذاتية (Intersubjectivity)"

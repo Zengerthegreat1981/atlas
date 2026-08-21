@@ -1,6 +1,6 @@
 ---
 slug: "syn-ekbom"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0056"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jkornfield"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1301"
 type: "مفكر"
 level: "متوسط"
 title: "جاك كورنفيلد"

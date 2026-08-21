@@ -1,6 +1,6 @@
 ---
 slug: "con-satyagraha"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0721"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

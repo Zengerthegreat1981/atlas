@@ -1,6 +1,6 @@
 ---
 slug: "tec-classical-behavior-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0128"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج السلوكي الكلاسيكي وإزالة التحسس المنهجي"

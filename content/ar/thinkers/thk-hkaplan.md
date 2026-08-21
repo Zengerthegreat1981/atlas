@@ -1,6 +1,6 @@
 ---
 slug: "thk-hkaplan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1155"
 type: "مفكر"
 level: "متقدم"
 title: "هيلين سنغر كابلان"

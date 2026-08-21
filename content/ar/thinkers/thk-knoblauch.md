@@ -1,6 +1,6 @@
 ---
 slug: "thk-knoblauch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1412"
 type: "مفكر"
 level: "متوسط"
 title: "[مؤسِّسو DGAP] DGAP founders (ألمانيا)"

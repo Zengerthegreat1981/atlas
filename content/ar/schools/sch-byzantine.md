@@ -1,6 +1,6 @@
 ---
 slug: "sch-byzantine"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0054"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

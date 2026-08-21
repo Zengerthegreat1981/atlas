@@ -1,6 +1,6 @@
 ---
 slug: "wrk-wandlungen-symbole-libido"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0483"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "تحوّلات ورموز الليبيدو"

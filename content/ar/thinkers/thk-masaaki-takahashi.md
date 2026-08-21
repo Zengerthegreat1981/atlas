@@ -1,6 +1,6 @@
 ---
 slug: "thk-masaaki-takahashi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1522"
 type: "مفكر"
 level: "متوسط"
 title: "ماساكي تاكاهاشي"

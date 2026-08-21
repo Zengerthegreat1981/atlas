@@ -1,6 +1,6 @@
 ---
 slug: "stu-bransford-johnson-context-memory"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0018"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

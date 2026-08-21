@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-mind-values-clarification"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0117"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "توضيح القيم"

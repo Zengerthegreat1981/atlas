@@ -1,6 +1,6 @@
 ---
 slug: "sch-renaissance-naturalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0267"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

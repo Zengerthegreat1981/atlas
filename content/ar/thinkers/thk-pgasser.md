@@ -1,6 +1,6 @@
 ---
 slug: "thk-pgasser"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1735"
 type: "مفكر"
 level: "متوسط"
 title: "بيتر غَسَر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gnaranjo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1101"
 type: "مفكر"
 level: "متقدم"
 title: "كلاوديو نارانخو"

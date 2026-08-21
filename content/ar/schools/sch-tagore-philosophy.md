@@ -1,6 +1,6 @@
 ---
 slug: "sch-tagore-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0301"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

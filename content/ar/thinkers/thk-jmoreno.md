@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmoreno"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1315"
 type: "مفكر"
 level: "متقدم"
 title: "جاكوب مورينو"

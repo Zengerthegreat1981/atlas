@@ -1,6 +1,6 @@
 ---
 slug: "tec-self-hypnosis-progressive"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0298"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التنويم الذاتي (كإطار علاجي)"

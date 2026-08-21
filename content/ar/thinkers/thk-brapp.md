@@ -1,6 +1,6 @@
 ---
 slug: "thk-brapp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0786"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز راب"

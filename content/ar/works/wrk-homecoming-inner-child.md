@@ -1,6 +1,6 @@
 ---
 slug: "wrk-homecoming-inner-child"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0344"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

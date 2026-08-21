@@ -1,6 +1,6 @@
 ---
 slug: "thk-swieder"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2012"
 type: "مفكر"
 level: "متوسط"
 title: "سيرينا ويـدِر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-vjohnson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2082"
 type: "مفكر"
 level: "متوسط"
 title: "فرجينيا جونسون"

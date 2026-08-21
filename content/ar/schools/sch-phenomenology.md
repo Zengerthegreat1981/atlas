@@ -1,6 +1,6 @@
 ---
 slug: "sch-phenomenology"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0240"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

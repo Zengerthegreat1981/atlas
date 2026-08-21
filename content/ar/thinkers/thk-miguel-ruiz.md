@@ -1,6 +1,6 @@
 ---
 slug: "thk-miguel-ruiz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1581"
 type: "مفكر"
 part: "psychology"
 register: "popular"

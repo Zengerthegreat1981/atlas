@@ -1,6 +1,6 @@
 ---
 slug: "syn-savant"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0151"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

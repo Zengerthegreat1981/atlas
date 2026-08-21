@@ -1,6 +1,6 @@
 ---
 slug: "thk-lcarter"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1441"
 type: "مفكر"
 level: "متوسط"
 title: "ليندا كارتر"

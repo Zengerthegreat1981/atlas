@@ -1,6 +1,6 @@
 ---
 slug: "con-samsara"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0719"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

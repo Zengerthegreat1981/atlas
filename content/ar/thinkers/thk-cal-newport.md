@@ -1,6 +1,6 @@
 ---
 slug: "thk-cal-newport"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0805"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

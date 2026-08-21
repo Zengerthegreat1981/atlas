@@ -1,6 +1,6 @@
 ---
 slug: "sch-atomism-greek"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0038"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

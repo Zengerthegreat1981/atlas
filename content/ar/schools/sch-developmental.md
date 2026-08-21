@@ -1,6 +1,6 @@
 ---
 slug: "sch-developmental"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0088"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-minopaulin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1585"
 type: "مفكر"
 level: "متوسط"
 title: "مينو بولين"

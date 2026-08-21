@@ -1,6 +1,6 @@
 ---
 slug: "thk-nsugiyama"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1689"
 type: "مفكر"
 level: "متوسط"
 title: "نَأوكو سُوگييامَا"

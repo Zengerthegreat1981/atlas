@@ -1,6 +1,6 @@
 ---
 slug: "sch-seon"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0279"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

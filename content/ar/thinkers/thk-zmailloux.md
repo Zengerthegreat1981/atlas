@@ -1,6 +1,6 @@
 ---
 slug: "thk-zmailloux"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2151"
 type: "مفكر"
 level: "متوسط"
 title: "زوي مايو"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-c-ssrs-suicide"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0017"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

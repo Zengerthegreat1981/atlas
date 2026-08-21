@@ -1,6 +1,6 @@
 ---
 slug: "thk-rsterba"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1879"
 type: "مفكر"
 level: "متوسط"
 title: "ريتشارد سْتيربا"

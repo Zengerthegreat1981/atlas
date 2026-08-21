@@ -1,6 +1,6 @@
 ---
 slug: "dis-gender-dysphoria"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0052"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الهوية الجنسية (Gender Dysphoria)"

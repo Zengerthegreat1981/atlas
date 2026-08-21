@@ -1,6 +1,6 @@
 ---
 slug: "con-fundamental-attribution-error"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0565"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

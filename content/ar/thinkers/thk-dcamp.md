@@ -1,6 +1,6 @@
 ---
 slug: "thk-dcamp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0901"
 type: "مفكر"
 level: "متوسط"
 title: "دِنيس كامبل"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-latah"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0109"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

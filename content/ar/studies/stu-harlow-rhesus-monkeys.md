@@ -1,6 +1,6 @@
 ---
 slug: "stu-harlow-rhesus-monkeys"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0044"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات هارلو حول التعلّق والراحة التلامسية في قردة الريسوس"

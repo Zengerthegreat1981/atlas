@@ -1,6 +1,6 @@
 ---
 slug: "thk-cpeterson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0857"
 type: "مفكر"
 level: "متوسط"
 title: "كريستوفر بيترسون"

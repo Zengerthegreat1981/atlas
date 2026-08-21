@@ -1,6 +1,6 @@
 ---
 slug: "wrk-men-are-from-mars"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0388"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

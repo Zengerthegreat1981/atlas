@@ -1,6 +1,6 @@
 ---
 slug: "thk-proudhon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1761"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

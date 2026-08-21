@@ -1,6 +1,6 @@
 ---
 slug: "thk-rrudolf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1870"
 type: "مفكر"
 level: "متقدم"
 title: "غرد رودولف"

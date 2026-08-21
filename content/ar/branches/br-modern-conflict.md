@@ -1,6 +1,6 @@
 ---
 slug: "br-modern-conflict"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0172"
 type: "تيار"
 level: "متقدم"
 title: "نظرية الصراع الحديثة — التحليل النفسي"

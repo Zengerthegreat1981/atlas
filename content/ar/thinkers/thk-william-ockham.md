@@ -1,6 +1,6 @@
 ---
 slug: "thk-william-ockham"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2108"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

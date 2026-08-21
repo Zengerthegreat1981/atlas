@@ -1,6 +1,6 @@
 ---
 slug: "wrk-animal-liberation-singer"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0231"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

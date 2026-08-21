@@ -1,6 +1,6 @@
 ---
 slug: "thk-strachey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2000"
 type: "مفكر"
 level: "متقدم"
 title: "جيمس ستراشي"

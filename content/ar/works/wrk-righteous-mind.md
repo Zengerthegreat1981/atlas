@@ -1,6 +1,6 @@
 ---
 slug: "wrk-righteous-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0439"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

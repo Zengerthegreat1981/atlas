@@ -1,6 +1,6 @@
 ---
 slug: "thk-rowenaansbacher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1859"
 type: "مفكر"
 level: "متقدم"
 title: "روينا ريبين آنسْباخِر"

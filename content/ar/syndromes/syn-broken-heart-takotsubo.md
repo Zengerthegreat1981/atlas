@@ -1,6 +1,6 @@
 ---
 slug: "syn-broken-heart-takotsubo"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0028"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

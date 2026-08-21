@@ -1,6 +1,6 @@
 ---
 slug: "wrk-orientalism-said"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0414"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

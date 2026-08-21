@@ -1,6 +1,6 @@
 ---
 slug: "thk-breuer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0788"
 type: "مفكر"
 level: "متوسط"
 title: "يوزف بروير"

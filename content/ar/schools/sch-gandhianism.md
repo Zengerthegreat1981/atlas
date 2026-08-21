@@ -1,6 +1,6 @@
 ---
 slug: "sch-gandhianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0120"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

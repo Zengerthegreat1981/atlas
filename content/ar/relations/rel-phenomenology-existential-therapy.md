@@ -1,6 +1,6 @@
 ---
 slug: "rel-phenomenology-existential-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0138"
 type: "علاقة بين مدرستين"
 part: "bridge"
 level: "متقدم"

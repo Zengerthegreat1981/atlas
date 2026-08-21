@@ -1,6 +1,6 @@
 ---
 slug: "thk-margaretbodkin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1503"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريت بودكن"

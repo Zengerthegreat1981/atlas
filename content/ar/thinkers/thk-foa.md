@@ -1,6 +1,6 @@
 ---
 slug: "thk-foa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1046"
 type: "مفكر"
 level: "متوسط"
 title: "إدنا ب. فوا"

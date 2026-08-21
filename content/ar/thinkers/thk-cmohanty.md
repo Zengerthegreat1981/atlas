@@ -1,6 +1,6 @@
 ---
 slug: "thk-cmohanty"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0850"
 type: "مفكر"
 level: "متوسط"
 title: "تشاندرا موهانتاي"

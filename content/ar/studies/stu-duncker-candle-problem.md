@@ -1,6 +1,6 @@
 ---
 slug: "stu-duncker-candle-problem"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0031"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

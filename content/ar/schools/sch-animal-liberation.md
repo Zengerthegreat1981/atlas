@@ -1,6 +1,6 @@
 ---
 slug: "sch-animal-liberation"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0030"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

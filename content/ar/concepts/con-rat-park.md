@@ -1,6 +1,6 @@
 ---
 slug: "con-rat-park"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0702"
 type: "مفهوم"
 level: "متوسط"
 title: "تجربة Rat Park"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ryle"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1892"
 type: "مفكر"
 level: "متقدم"
 title: "أنتوني رايل"

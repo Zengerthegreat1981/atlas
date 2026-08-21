@@ -1,6 +1,6 @@
 ---
 slug: "syn-whistleblower"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0186"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

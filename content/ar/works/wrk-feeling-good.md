@@ -1,6 +1,6 @@
 ---
 slug: "wrk-feeling-good"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0308"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "br-hullian-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0157"
 type: "تيار"
 level: "متقدم"
 title: "السلوكية الهالية ونظرية خفض الدافع"

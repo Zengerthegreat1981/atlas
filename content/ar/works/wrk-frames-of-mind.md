@@ -1,6 +1,6 @@
 ---
 slug: "wrk-frames-of-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0317"
 type: "عمل / كتاب"
 level: "مبتدئ"
 title: "عقول متعددة: نظرية الذكاءات المتعددة"

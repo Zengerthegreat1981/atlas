@@ -1,6 +1,6 @@
 ---
 slug: "con-inner-experience"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0598"
 type: "مفهوم"
 level: "متقدم"
 title: "الخبرة الباطنية القصوى"

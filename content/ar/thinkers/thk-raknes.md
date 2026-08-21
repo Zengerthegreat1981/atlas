@@ -1,6 +1,6 @@
 ---
 slug: "thk-raknes"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1775"
 type: "مفكر"
 level: "متقدم"
 title: "أولا راكنيس"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-kagyu"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0166"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

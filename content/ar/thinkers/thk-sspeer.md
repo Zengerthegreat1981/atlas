@@ -1,6 +1,6 @@
 ---
 slug: "thk-sspeer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1987"
 type: "مفكر"
 level: "متوسط"
 title: "سوزان سبيير"

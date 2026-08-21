@@ -1,6 +1,6 @@
 ---
 slug: "sch-conservatism-philosophical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0072"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

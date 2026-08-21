@@ -1,6 +1,6 @@
 ---
 slug: "dbt-conversion-therapy-harm"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0318"
 type: "جدل"
 level: "متوسط"
 title: "جدل العلاج بالتحويل: مفيد أم ضار؟"

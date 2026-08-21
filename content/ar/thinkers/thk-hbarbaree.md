@@ -1,6 +1,6 @@
 ---
 slug: "thk-hbarbaree"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1136"
 type: "مفكر"
 level: "متوسط"
 title: "هوارد بارباري"

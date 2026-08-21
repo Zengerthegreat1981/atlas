@@ -1,6 +1,6 @@
 ---
 slug: "sch-afrocentrism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0015"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

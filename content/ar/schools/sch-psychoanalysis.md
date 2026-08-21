@@ -1,6 +1,6 @@
 ---
 slug: "sch-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0256"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"

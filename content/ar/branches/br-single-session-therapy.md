@@ -1,6 +1,6 @@
 ---
 slug: "br-single-session-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0213"
 type: "تيار"
 level: "متوسط"
 title: "العلاج بجلسة واحدة"

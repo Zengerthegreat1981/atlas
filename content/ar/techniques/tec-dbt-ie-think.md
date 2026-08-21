@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-think"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0181"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "ثينك (THINK) — بناء التعاطف"

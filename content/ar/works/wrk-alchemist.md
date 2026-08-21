@@ -1,6 +1,6 @@
 ---
 slug: "wrk-alchemist"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0226"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

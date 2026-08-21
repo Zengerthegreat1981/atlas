@@ -1,6 +1,6 @@
 ---
 slug: "sch-eclecticism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0092"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

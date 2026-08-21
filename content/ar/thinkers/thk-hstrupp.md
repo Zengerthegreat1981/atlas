@@ -1,6 +1,6 @@
 ---
 slug: "thk-hstrupp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1175"
 type: "مفكر"
 level: "متوسط"
 title: "هانس ستروب"

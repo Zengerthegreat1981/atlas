@@ -1,6 +1,6 @@
 ---
 slug: "sch-mutazila"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0206"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

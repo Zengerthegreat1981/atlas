@@ -1,6 +1,6 @@
 ---
 slug: "sch-systemic-family"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0300"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"

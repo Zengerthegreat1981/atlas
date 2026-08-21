@@ -1,6 +1,6 @@
 ---
 slug: "sch-neo-vedanta"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0212"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

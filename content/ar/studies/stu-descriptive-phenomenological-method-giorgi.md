@@ -1,6 +1,6 @@
 ---
 slug: "stu-descriptive-phenomenological-method-giorgi"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0030"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "المنهج الفينومينولوجي الوصفي (جيورجي)"

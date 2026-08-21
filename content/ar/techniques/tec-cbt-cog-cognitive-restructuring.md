@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-cognitive-restructuring"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0083"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "إعادة الصياغة المعرفية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-togden"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2052"
 type: "مفكر"
 level: "متقدم"
 title: "توماس أوغدن"

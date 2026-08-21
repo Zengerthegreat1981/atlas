@@ -1,6 +1,6 @@
 ---
 slug: "thk-jwpark"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1365"
 type: "مفكر"
 level: "متوسط"
 title: "جي-وو بارك"

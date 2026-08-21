@@ -1,6 +1,6 @@
 ---
 slug: "sch-phenomenology-existential"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0237"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

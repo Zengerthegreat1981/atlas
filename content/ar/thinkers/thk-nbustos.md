@@ -1,6 +1,6 @@
 ---
 slug: "thk-nbustos"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1669"
 type: "مفكر"
 level: "متوسط"
 title: "نوربيرتو بوستوس"

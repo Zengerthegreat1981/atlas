@@ -1,6 +1,6 @@
 ---
 slug: "sch-ashariyya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0036"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

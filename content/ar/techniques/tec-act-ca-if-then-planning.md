@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-if-then-planning"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0019"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التخطيط الشرطي (إذا-فعندئذ)"

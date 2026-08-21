@@ -1,6 +1,6 @@
 ---
 slug: "thk-ormijares"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1698"
 type: "مفكر"
 level: "متوسط"
 title: "أوسكار رودريغيث ميجاريس"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-csocarides"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0865"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز سوكرايدِس"

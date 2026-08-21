@@ -1,6 +1,6 @@
 ---
 slug: "stu-triplett-social-facilitation"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0110"
 type: "دراسة وبحث"
 level: "مبتدئ"
 title: "دراسة تريبليت للتيسير الاجتماعي والتنافس"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ethompson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1020"
 type: "مفكر"
 level: "متوسط"
 title: "إيفان تومسون"

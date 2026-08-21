@@ -1,6 +1,6 @@
 ---
 slug: "thk-pberry"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1716"
 type: "مفكر"
 level: "متوسط"
 title: "باتريشيا بيري"

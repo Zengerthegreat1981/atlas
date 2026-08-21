@@ -1,6 +1,6 @@
 ---
 slug: "thk-susan-cain"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2006"
 type: "مفكر"
 part: "psychology"
 register: "popular"

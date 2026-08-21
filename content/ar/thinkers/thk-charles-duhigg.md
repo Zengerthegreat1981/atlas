@@ -1,6 +1,6 @@
 ---
 slug: "thk-charles-duhigg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0836"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "con-cognitive-distortion"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0480"
 type: "مفهوم"
 level: "مبتدئ"
 title: "التشوهات المعرفية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-schauer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1914"
 type: "مفكر"
 level: "متوسط"
 title: "ماغي شاور"

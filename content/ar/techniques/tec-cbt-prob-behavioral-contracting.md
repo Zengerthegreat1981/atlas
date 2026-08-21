@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-prob-behavioral-contracting"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0118"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العقد السلوكي"

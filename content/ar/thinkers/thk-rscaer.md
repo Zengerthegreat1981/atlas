@@ -1,6 +1,6 @@
 ---
 slug: "thk-rscaer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1871"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت سكاير"

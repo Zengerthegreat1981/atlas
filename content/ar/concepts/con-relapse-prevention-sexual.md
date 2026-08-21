@@ -1,6 +1,6 @@
 ---
 slug: "con-relapse-prevention-sexual"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0709"
 type: "مفهوم"
 level: "متقدم"
 title: "منع الانتكاسة الجنسية"

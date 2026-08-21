@@ -1,6 +1,6 @@
 ---
 slug: "thk-aulanc"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0720"
 type: "مفكر"
 level: "متوسط"
 title: "[مؤسِّسو ISAP / IIJP / NIJA / Israel Society of Analytical Psychology]"

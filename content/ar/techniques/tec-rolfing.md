@@ -1,6 +1,6 @@
 ---
 slug: "tec-rolfing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0293"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الرولفينغ والتكامل الهيكلي الجسدي"

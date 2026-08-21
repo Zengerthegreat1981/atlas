@@ -1,6 +1,6 @@
 ---
 slug: "br-ubuntu-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0225"
 type: "تيار"
 level: "متوسط"
 title: "علم نفس الأوبونتو"

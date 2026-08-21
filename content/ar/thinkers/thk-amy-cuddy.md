@@ -1,6 +1,6 @@
 ---
 slug: "thk-amy-cuddy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0689"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

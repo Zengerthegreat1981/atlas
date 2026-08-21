@@ -1,6 +1,6 @@
 ---
 slug: "con-reinforcement-schedule"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0708"
 type: "مفهوم"
 level: "متوسط"
 title: "جداول التعزيز"

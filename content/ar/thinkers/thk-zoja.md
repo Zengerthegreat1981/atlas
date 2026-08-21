@@ -1,6 +1,6 @@
 ---
 slug: "thk-zoja"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2153"
 type: "مفكر"
 level: "متقدم"
 title: "لويجي تسويا"

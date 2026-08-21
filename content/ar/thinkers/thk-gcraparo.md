@@ -1,6 +1,6 @@
 ---
 slug: "thk-gcraparo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1077"
 type: "مفكر"
 level: "متوسط"
 title: "جوزيبي كرابّارو"

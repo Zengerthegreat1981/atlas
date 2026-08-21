@@ -1,6 +1,6 @@
 ---
 slug: "sch-madhyamaka"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0187"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

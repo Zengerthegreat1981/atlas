@@ -1,6 +1,6 @@
 ---
 slug: "thk-rackoff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1771"
 type: "مفكر"
 level: "متقدم"
 title: "راسل أكوف"

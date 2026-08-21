@@ -1,6 +1,6 @@
 ---
 slug: "thk-govinda"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1108"
 type: "مفكر"
 level: "متوسط"
 title: "لاما أناغاريكا غوفيندا"

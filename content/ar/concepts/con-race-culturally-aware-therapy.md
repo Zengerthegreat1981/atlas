@@ -1,6 +1,6 @@
 ---
 slug: "con-race-culturally-aware-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0700"
 type: "مفهوم"
 level: "متوسط"
 title: "العلاج المراعي للعرق والثقافة"

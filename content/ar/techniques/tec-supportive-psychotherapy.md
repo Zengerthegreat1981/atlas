@@ -1,6 +1,6 @@
 ---
 slug: "tec-supportive-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0317"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج النفسي الديناميكي الداعم"

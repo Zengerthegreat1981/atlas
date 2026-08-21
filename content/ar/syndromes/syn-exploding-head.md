@@ -1,6 +1,6 @@
 ---
 slug: "syn-exploding-head"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0063"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

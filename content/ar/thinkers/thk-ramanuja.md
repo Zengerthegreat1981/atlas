@@ -1,6 +1,6 @@
 ---
 slug: "thk-ramanuja"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1777"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

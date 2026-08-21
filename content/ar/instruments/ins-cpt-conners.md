@@ -1,6 +1,6 @@
 ---
 slug: "ins-cpt-conners"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0024"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

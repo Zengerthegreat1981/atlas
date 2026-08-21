@@ -1,6 +1,6 @@
 ---
 slug: "stu-iyengar-lepper-jam-study"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0053"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

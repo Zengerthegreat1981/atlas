@@ -1,6 +1,6 @@
 ---
 slug: "tec-emdr"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0210"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)"

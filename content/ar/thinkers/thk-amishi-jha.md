@@ -1,6 +1,6 @@
 ---
 slug: "thk-amishi-jha"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0684"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

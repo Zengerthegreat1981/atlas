@@ -1,6 +1,6 @@
 ---
 slug: "tec-process-experiential-tasks"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0279"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)"

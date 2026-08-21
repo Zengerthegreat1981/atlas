@@ -1,6 +1,6 @@
 ---
 slug: "thk-ydolan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2133"
 type: "مفكر"
 level: "متوسط"
 title: "يفون دولان"

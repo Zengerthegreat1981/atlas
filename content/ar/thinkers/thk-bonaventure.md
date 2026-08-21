@@ -1,6 +1,6 @@
 ---
 slug: "thk-bonaventure"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0776"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

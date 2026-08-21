@@ -1,6 +1,6 @@
 ---
 slug: "thk-jweizenbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1361"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف فايزنباوم"

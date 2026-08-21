@@ -1,6 +1,6 @@
 ---
 slug: "stu-sperry-gazzaniga-split-brain"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0102"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات سبيري وغازانيغا على مرضى الدماغ المشقوق والتخصص الوظيفي لنصفي المخ"

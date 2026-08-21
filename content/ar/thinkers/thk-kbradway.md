@@ -1,6 +1,6 @@
 ---
 slug: "thk-kbradway"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1377"
 type: "مفكر"
 level: "متقدم"
 title: "كاي برادواي"

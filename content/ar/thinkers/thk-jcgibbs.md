@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcgibbs"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1251"
 type: "مفكر"
 level: "متوسط"
 title: "جون سي. غيبز"

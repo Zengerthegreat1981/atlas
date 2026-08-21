@@ -1,6 +1,6 @@
 ---
 slug: "thk-meitingon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1551"
 type: "مفكر"
 level: "متقدم"
 title: "ماكس إيتِنغون"

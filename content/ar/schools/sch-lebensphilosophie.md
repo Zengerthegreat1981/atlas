@@ -1,6 +1,6 @@
 ---
 slug: "sch-lebensphilosophie"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0179"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

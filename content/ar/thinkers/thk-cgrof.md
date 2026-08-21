@@ -1,6 +1,6 @@
 ---
 slug: "thk-cgrof"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0835"
 type: "مفكر"
 level: "متوسط"
 title: "كريستينا غروف"

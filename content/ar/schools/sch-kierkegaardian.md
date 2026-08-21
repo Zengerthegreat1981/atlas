@@ -1,6 +1,6 @@
 ---
 slug: "sch-kierkegaardian"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0173"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

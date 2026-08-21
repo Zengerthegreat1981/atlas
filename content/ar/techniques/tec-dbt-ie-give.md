@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-give"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0176"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية"

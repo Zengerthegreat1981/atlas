@@ -1,6 +1,6 @@
 ---
 slug: "thk-andrew-schnack"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0696"
 type: "مفكر"
 level: "متوسط"
 title: "أندرو شنك"

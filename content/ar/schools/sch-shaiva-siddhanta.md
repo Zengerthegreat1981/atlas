@@ -1,6 +1,6 @@
 ---
 slug: "sch-shaiva-siddhanta"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0280"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

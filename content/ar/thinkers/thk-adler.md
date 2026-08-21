@@ -1,6 +1,6 @@
 ---
 slug: "thk-adler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0645"
 type: "مفكر"
 level: "متقدم"
 title: "ألفرد أدلر"

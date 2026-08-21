@@ -1,6 +1,6 @@
 ---
 slug: "sch-lixue"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0184"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

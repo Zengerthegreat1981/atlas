@@ -1,6 +1,6 @@
 ---
 slug: "thk-federn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1032"
 type: "مفكر"
 level: "متقدم"
 title: "بول فيديرن"

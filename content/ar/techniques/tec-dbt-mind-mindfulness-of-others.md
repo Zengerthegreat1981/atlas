@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-mindfulness-of-others"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0185"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "اليقظة تجاه الآخرين"

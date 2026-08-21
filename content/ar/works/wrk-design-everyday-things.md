@@ -1,6 +1,6 @@
 ---
 slug: "wrk-design-everyday-things"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0278"
 type: "عمل / كتاب"
 level: "مبتدئ"
 title: "تصميم الأشياء اليومية"

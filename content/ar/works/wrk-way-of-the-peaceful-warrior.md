@@ -1,6 +1,6 @@
 ---
 slug: "wrk-way-of-the-peaceful-warrior"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0484"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

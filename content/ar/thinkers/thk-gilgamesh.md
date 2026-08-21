@@ -1,6 +1,6 @@
 ---
 slug: "thk-gilgamesh"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1090"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

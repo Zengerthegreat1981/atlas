@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-willingness-vs-willfulness"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0016"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الاستعداد مقابل العناد"

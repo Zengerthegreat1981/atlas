@@ -1,6 +1,6 @@
 ---
 slug: "thk-rklenck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1819"
 type: "مفكر"
 level: "متوسط"
 title: "[مؤسِّسو AJA / BJAA / SAP / IGAP / GAP]"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-african-national-ideology"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0012"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-metaphor-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0250"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج بالاستعارة العلاجية"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-feminism-liberal"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0111"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

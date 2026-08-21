@@ -1,6 +1,6 @@
 ---
 slug: "br-african-centered-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0111"
 type: "تيار"
 level: "متقدم"
 title: "علم النفس الإفريقي المتمركز (نوبلز وأكبر)"

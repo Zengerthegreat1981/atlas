@@ -1,6 +1,6 @@
 ---
 slug: "dis-stimulant-use"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0099"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب استخدام المنشطات"

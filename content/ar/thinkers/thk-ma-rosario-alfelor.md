@@ -1,6 +1,6 @@
 ---
 slug: "thk-ma-rosario-alfelor"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1486"
 type: "مفكر"
 level: "متوسط"
 title: "ماريا روساريو ألفيلور"

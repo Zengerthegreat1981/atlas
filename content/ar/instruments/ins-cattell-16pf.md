@@ -1,6 +1,6 @@
 ---
 slug: "ins-cattell-16pf"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0019"
 type: "أداة قياس"
 level: "متوسط"
 title: "استبيان الستة عشر عاملاً للشخصية لكاتل"

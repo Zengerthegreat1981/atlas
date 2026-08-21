@@ -1,6 +1,6 @@
 ---
 slug: "thk-aabdelkhalek"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0630"
 type: "مفكر"
 level: "متوسط"
 title: "أمجد عبد الخالق"

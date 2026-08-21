@@ -1,6 +1,6 @@
 ---
 slug: "con-modeling"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0641"
 type: "مفهوم"
 level: "متوسط"
 title: "النمذجة (التعلم بالملاحظة)"

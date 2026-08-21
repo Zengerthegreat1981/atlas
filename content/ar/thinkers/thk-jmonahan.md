@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmonahan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1314"
 type: "مفكر"
 level: "متوسط"
 title: "جون موناهان"

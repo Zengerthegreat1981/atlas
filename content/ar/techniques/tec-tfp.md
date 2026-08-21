@@ -1,6 +1,6 @@
 ---
 slug: "tec-tfp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0320"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج المرتكز على النقل (TFP)"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-boundary-setting-techniques"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0106"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنيات وضع الحدود"

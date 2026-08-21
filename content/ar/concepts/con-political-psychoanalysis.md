@@ -1,6 +1,6 @@
 ---
 slug: "con-political-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0676"
 type: "مفهوم"
 level: "متوسط"
 title: "التحليل النفسي السياسي"

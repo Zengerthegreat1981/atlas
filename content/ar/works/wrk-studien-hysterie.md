@@ -1,6 +1,6 @@
 ---
 slug: "wrk-studien-hysterie"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0457"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "دراسات في الهستيريا"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gcivitarese"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1074"
 type: "مفكر"
 level: "متوسط"
 title: "جوزيبي سيفيتارِس"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-truc-lam"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0312"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

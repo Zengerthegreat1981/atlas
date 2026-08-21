@@ -1,6 +1,6 @@
 ---
 slug: "thk-mingshengli"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1584"
 type: "مفكر"
 level: "متوسط"
 title: "لي مينغ شنغ"

@@ -1,6 +1,6 @@
 ---
 slug: "br-transpersonal-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0224"
 type: "تيار"
 level: "مبتدئ"
 title: "علم النفس عبر الشخصي (القوة الرابعة)"

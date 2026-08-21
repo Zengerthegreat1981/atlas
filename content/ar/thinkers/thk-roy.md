@@ -1,6 +1,6 @@
 ---
 slug: "thk-roy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1861"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

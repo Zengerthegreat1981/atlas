@@ -1,6 +1,6 @@
 ---
 slug: "thk-mgold"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1563"
 type: "مفكر"
 level: "متوسط"
 title: "مارك غولد"

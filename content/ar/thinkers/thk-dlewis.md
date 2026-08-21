@@ -1,6 +1,6 @@
 ---
 slug: "thk-dlewis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0934"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

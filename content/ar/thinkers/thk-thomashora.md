@@ -1,6 +1,6 @@
 ---
 slug: "thk-thomashora"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2036"
 type: "مفكر"
 level: "متوسط"
 title: "توماس هورا"

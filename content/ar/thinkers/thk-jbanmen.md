@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbanmen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1236"
 type: "مفكر"
 level: "متوسط"
 title: "جون بانمن"

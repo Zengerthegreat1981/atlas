@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbeck"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1238"
 type: "مفكر"
 level: "متوسط"
 title: "جوديث بِك"

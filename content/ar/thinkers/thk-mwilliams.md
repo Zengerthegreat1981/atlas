@@ -1,6 +1,6 @@
 ---
 slug: "thk-mwilliams"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1654"
 type: "مفكر"
 level: "متقدم"
 title: "مارك ويليامز"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-prisoners-of-hate"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0432"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "أسرى الكراهية: الأساس المعرفي للغضب والعدوانية والعنف"

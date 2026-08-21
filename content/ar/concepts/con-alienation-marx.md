@@ -1,6 +1,6 @@
 ---
 slug: "con-alienation-marx"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0434"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

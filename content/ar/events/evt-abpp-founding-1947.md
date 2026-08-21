@@ -1,6 +1,6 @@
 ---
 slug: "evt-abpp-founding-1947"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0004"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس المجلس الأمريكي لعلم النفس المهني لمنح البورد التخصصي"

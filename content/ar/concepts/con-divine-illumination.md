@@ -1,6 +1,6 @@
 ---
 slug: "con-divine-illumination"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0519"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

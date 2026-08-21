@@ -1,6 +1,6 @@
 ---
 slug: "syn-loneliness-isolation"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0113"
 type: "متلازمة"
 level: "مبتدئ"
 title: "العزلة والوحدة"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-duck-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0053"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ibn-sina"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1187"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

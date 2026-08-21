@@ -1,6 +1,6 @@
 ---
 slug: "thk-elizabeth-loftus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0999"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

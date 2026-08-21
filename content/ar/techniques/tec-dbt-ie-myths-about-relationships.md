@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-myths-about-relationships"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0178"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "خرافات العلاقات وكيفية التعامل معها"

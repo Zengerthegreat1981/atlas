@@ -1,6 +1,6 @@
 ---
 slug: "thk-araine"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0705"
 type: "مفكر"
 level: "متوسط"
 title: "أدريان راين"

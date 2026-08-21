@@ -1,6 +1,6 @@
 ---
 slug: "evt-basaglia-law-italy-1978"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0013"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "صدور قانون بازاليا في إيطاليا والإغلاق الإلزامي الكامل للمصحات النفسية"

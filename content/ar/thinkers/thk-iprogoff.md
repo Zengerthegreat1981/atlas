@@ -1,6 +1,6 @@
 ---
 slug: "thk-iprogoff"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1201"
 type: "مفكر"
 level: "متوسط"
 title: "إيرا بروغوف"

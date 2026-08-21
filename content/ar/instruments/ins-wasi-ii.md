@@ -1,6 +1,6 @@
 ---
 slug: "ins-wasi-ii"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0088"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

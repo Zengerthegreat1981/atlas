@@ -1,6 +1,6 @@
 ---
 slug: "thk-utelfener"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2073"
 type: "مفكر"
 level: "متوسط"
 title: "أومبيرتا تِلفِنِر"

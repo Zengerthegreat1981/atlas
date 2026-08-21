@@ -1,6 +1,6 @@
 ---
 slug: "con-classical-conditioning"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0477"
 type: "مفهوم"
 level: "مبتدئ"
 title: "الإشتراط الكلاسيكي (الإشراط البافلوفي)"

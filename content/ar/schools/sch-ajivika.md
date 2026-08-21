@@ -1,6 +1,6 @@
 ---
 slug: "sch-ajivika"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0019"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

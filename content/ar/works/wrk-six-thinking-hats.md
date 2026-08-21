@@ -1,6 +1,6 @@
 ---
 slug: "wrk-six-thinking-hats"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0454"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

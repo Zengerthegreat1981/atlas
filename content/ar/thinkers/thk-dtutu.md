@@ -1,6 +1,6 @@
 ---
 slug: "thk-dtutu"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0959"
 type: "مفكر"
 level: "متوسط"
 title: "ديزموند توتو"

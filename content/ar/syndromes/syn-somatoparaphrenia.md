@@ -1,6 +1,6 @@
 ---
 slug: "syn-somatoparaphrenia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0161"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

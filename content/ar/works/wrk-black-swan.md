@@ -1,6 +1,6 @@
 ---
 slug: "wrk-black-swan"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0255"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

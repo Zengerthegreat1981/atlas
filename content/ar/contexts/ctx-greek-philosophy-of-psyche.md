@@ -1,6 +1,6 @@
 ---
 slug: "ctx-greek-philosophy-of-psyche"
-id: "[DRAFT-UNKNOWN]"
+id: "CTX-0008"
 type: "سياق/تقليد"
 part: "philosophy"
 level: "متوسط"

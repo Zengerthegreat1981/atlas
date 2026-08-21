@@ -1,6 +1,6 @@
 ---
 slug: "dbt-prolonged-grief-disorder-legitimacy"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0340"
 type: "جدل"
 level: "متقدم"
 title: "جدل شرعنة اضطراب الحزن المطوّل"

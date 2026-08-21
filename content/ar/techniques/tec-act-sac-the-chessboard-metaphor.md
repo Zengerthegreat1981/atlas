@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-sac-the-chessboard-metaphor"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0044"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "استعارة رقعة الشطرنج"

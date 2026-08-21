@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-fast"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0175"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "فاست (FAST) — توكيد واحترام الذات"

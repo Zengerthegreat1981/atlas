@@ -1,6 +1,6 @@
 ---
 slug: "sch-romanticism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0269"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

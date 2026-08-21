@@ -1,6 +1,6 @@
 ---
 slug: "syn-pollyanna"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0136"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

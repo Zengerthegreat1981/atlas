@@ -1,6 +1,6 @@
 ---
 slug: "thk-ymohamed"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2137"
 type: "مفكر"
 level: "متوسط"
 title: "ياسين محمد"

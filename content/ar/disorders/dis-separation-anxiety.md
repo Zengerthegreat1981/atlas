@@ -1,6 +1,6 @@
 ---
 slug: "dis-separation-anxiety"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0094"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "اضطراب قلق الانفصال"

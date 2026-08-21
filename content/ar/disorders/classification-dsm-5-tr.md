@@ -1,6 +1,6 @@
 ---
 slug: "classification-dsm-5-tr"
-id: "[DRAFT-UNKNOWN]"
+id: "CLS-0001"
 type: "نظام تصنيف"
 level: "مبتدئ"
 title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)"

@@ -1,6 +1,6 @@
 ---
 slug: "crt-postcolonial-critique-cbt"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0015"
 type: "نقد خارجي موثَّق"
 level: "متوسط"
 title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية"

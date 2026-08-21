@@ -1,6 +1,6 @@
 ---
 slug: "thk-barry-kramer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0730"
 type: "مفكر"
 level: "متوسط"
 title: "باري كريمر"

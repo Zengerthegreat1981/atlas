@@ -1,6 +1,6 @@
 ---
 slug: "thk-krishnamurti"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1417"
 type: "مفكر"
 level: "متوسط"
 title: "جيدو كريشنامورتي"

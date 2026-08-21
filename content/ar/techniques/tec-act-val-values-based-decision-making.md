@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-val-values-based-decision-making"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0051"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "اتخاذ القرار المبني على القيم"

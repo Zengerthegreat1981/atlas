@@ -1,6 +1,6 @@
 ---
 slug: "thk-nmanganyi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1682"
 type: "مفكر"
 level: "متوسط"
 title: "نْيلسون مَغَنْي"

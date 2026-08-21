@@ -1,6 +1,6 @@
 ---
 slug: "thk-hlkelly"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1162"
 type: "مفكر"
 level: "متوسط"
 title: "هيلين لاكيلي هانت"

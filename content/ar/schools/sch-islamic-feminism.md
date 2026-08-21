@@ -1,6 +1,6 @@
 ---
 slug: "sch-islamic-feminism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0153"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

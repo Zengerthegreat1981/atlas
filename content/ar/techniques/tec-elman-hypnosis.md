@@ -1,6 +1,6 @@
 ---
 slug: "tec-elman-hypnosis"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0209"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية إلمان في التنويم الإيحائي السريع"

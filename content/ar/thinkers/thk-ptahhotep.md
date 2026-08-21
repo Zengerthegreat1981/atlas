@@ -1,6 +1,6 @@
 ---
 slug: "thk-ptahhotep"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1764"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

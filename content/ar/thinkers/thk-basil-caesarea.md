@@ -1,6 +1,6 @@
 ---
 slug: "thk-basil-caesarea"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0732"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

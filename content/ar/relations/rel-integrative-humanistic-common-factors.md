@@ -1,6 +1,6 @@
 ---
 slug: "rel-integrative-humanistic-common-factors"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0135"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية"

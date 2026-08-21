@@ -1,6 +1,6 @@
 ---
 slug: "thk-afghani"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0648"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

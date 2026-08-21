@@ -1,6 +1,6 @@
 ---
 slug: "sch-cosmopolitanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0075"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

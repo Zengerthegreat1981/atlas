@@ -1,6 +1,6 @@
 ---
 slug: "thk-fvaughan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1061"
 type: "مفكر"
 level: "متوسط"
 title: "فرانسيس فوغان"

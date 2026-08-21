@@ -1,6 +1,6 @@
 ---
 slug: "thk-merickson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1558"
 type: "مفكر"
 level: "متقدم"
 title: "ميلتون إريكسون"

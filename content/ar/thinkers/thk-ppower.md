@@ -1,6 +1,6 @@
 ---
 slug: "thk-ppower"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1758"
 type: "مفكر"
 level: "متوسط"
 title: "باميلا باور"

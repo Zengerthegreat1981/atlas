@@ -1,6 +1,6 @@
 ---
 slug: "thk-tlidz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2046"
 type: "مفكر"
 level: "متوسط"
 title: "ثيودور ليدز"

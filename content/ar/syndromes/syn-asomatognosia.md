@@ -1,6 +1,6 @@
 ---
 slug: "syn-asomatognosia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0016"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

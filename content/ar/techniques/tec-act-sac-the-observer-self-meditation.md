@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-sac-the-observer-self-meditation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0046"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "تأمل الذات المُلاحِظة"

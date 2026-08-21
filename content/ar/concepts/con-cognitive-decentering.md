@@ -1,6 +1,6 @@
 ---
 slug: "con-cognitive-decentering"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0479"
 type: "مفهوم"
 level: "متوسط"
 title: "اللامركزية المعرفية"

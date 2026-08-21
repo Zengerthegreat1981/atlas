@@ -1,6 +1,6 @@
 ---
 slug: "thk-theresaglasser"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2033"
 type: "مفكر"
 level: "متوسط"
 title: "تيريزا غلاسر"

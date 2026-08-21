@@ -1,6 +1,6 @@
 ---
 slug: "stu-temerlin-diagnostic-bias-suggestion"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0106"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة تيميرلين حول أثر الإيحاء ومكانة الخبير على التشخيص الإكلينيكي"

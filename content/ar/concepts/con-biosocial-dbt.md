@@ -1,6 +1,6 @@
 ---
 slug: "con-biosocial-dbt"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0460"
 type: "مفهوم"
 level: "متوسط"
 title: "النظرية البيولوجية-الاجتماعية في DBT"

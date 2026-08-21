@@ -1,6 +1,6 @@
 ---
 slug: "ctx-psychoanalytic-tradition"
-id: "[DRAFT-UNKNOWN]"
+id: "CTX-0011"
 type: "سياق/تقليد"
 part: "philosophy"
 level: "متقدم"

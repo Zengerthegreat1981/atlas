@@ -1,6 +1,6 @@
 ---
 slug: "thk-randystabler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1779"
 type: "مفكر"
 level: "متوسط"
 title: "راندي ستابلر"

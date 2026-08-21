@@ -1,6 +1,6 @@
 ---
 slug: "tec-tf-cbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0319"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المعرفي السلوكي المرتكز على الصدمة للأطفال (TF-CBT)"

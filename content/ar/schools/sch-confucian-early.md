@@ -1,6 +1,6 @@
 ---
 slug: "sch-confucian-early"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0071"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

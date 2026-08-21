@@ -1,6 +1,6 @@
 ---
 slug: "thk-rizzo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1813"
 type: "مفكر"
 level: "متوسط"
 title: "ألبرت «سكيب» ريزو"

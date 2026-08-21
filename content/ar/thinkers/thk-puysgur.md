@@ -1,6 +1,6 @@
 ---
 slug: "thk-puysgur"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1767"
 type: "مفكر"
 level: "متوسط"
 title: "ماركيز دي بويزيغور"

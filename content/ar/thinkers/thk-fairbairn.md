@@ -1,6 +1,6 @@
 ---
 slug: "thk-fairbairn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1026"
 type: "مفكر"
 level: "متقدم"
 title: "رونالد فَيرْبيرن"

@@ -1,6 +1,6 @@
 ---
 slug: "con-neo-freudian"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0651"
 type: "مفهوم"
 level: "متقدم"
 title: "الفرويدية الجديدة (Neo-Freudian)"

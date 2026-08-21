@@ -1,6 +1,6 @@
 ---
 slug: "wrk-wertz-five-ways-phenomenological-analysis"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0485"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "خمس طرق للتحليل الفينومينولوجي"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-jonang"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0159"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

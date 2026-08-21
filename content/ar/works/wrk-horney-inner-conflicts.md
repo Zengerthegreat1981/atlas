@@ -1,6 +1,6 @@
 ---
 slug: "wrk-horney-inner-conflicts"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0345"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "صراعاتنا الداخلية (Our Inner Conflicts)"

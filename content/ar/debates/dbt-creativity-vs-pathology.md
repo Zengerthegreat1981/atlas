@@ -1,6 +1,6 @@
 ---
 slug: "dbt-creativity-vs-pathology"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0320"
 type: "جدل"
 level: "متوسط"
 title: "الإبداع مقابل المرض النفسي: قرابة حقيقية أم خرافة؟"

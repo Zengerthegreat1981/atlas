@@ -1,6 +1,6 @@
 ---
 slug: "thk-james-william"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1226"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

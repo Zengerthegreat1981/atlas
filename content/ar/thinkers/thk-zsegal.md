@@ -1,6 +1,6 @@
 ---
 slug: "thk-zsegal"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2155"
 type: "مفكر"
 level: "متقدم"
 title: "زيندل سيغال"

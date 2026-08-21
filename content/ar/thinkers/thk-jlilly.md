@@ -1,6 +1,6 @@
 ---
 slug: "thk-jlilly"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1305"
 type: "مفكر"
 level: "متوسط"
 title: "جون لِلي"

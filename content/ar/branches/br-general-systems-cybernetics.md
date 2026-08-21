@@ -1,6 +1,6 @@
 ---
 slug: "br-general-systems-cybernetics"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0151"
 type: "تيار"
 level: "مبتدئ"
 title: "نظرية الأنساق العامة والسيبرنطيقا"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-interculturalidad"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0148"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

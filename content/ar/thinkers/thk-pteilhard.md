@@ -1,6 +1,6 @@
 ---
 slug: "thk-pteilhard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1766"
 type: "مفكر"
 level: "متوسط"
 title: "بيار تيار دي شاردان"

@@ -1,6 +1,6 @@
 ---
 slug: "con-behavioral-medicine"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0458"
 type: "مفهوم"
 level: "متوسط"
 title: "الطب السلوكي والصحة السلوكية"

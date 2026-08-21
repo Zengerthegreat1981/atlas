@@ -1,6 +1,6 @@
 ---
 slug: "thk-bwilson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0803"
 type: "مفكر"
 level: "متوسط"
 title: "بيل ويلسون (مؤسس AA)"

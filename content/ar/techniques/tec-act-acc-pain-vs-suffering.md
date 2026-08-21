@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-pain-vs-suffering"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0013"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الألم مقابل المعاناة"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-sadhana-tagore"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0443"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

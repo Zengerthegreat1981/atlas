@@ -1,6 +1,6 @@
 ---
 slug: "thk-mwertheimer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1650"
 type: "مفكر"
 level: "متقدم"
 title: "ماكس فيرتهايمر"

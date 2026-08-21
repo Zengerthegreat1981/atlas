@@ -1,6 +1,6 @@
 ---
 slug: "thk-edinger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0979"
 type: "مفكر"
 level: "متقدم"
 title: "إدوارد إف. إيدينغر"

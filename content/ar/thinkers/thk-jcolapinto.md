@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcolapinto"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1256"
 type: "مفكر"
 level: "متوسط"
 title: "خورخي كولابينتو"

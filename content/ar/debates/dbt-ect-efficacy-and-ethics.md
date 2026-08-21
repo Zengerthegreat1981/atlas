@@ -1,6 +1,6 @@
 ---
 slug: "dbt-ect-efficacy-and-ethics"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0324"
 type: "جدل"
 level: "متقدم"
 title: "جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية"

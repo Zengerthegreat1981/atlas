@@ -1,6 +1,6 @@
 ---
 slug: "thk-mviederman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1646"
 type: "مفكر"
 level: "مبتدئ"
 title: "ميلتون فيدرمان"

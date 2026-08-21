@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-interoceptive-awareness-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0096"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تدريب الوعي بالإحساس الداخلي"

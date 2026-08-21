@@ -1,6 +1,6 @@
 ---
 slug: "thk-ppenn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1757"
 type: "مفكر"
 level: "متوسط"
 title: "بيغي بِن"

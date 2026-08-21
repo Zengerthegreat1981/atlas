@@ -1,6 +1,6 @@
 ---
 slug: "syn-locked-in"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0111"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

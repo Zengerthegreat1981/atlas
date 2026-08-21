@@ -1,6 +1,6 @@
 ---
 slug: "sch-phenomenology-somatic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0239"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

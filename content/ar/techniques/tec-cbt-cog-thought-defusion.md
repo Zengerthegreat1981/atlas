@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-thought-defusion"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0088"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الانفصال عن الأفكار (Defusion)"

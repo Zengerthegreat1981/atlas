@@ -1,6 +1,6 @@
 ---
 slug: "thk-syoung"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2013"
 type: "مفكر"
 level: "متوسط"
 title: "شِنزِن يانغ"

@@ -1,6 +1,6 @@
 ---
 slug: "con-intersectional-feminism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0604"
 type: "مفهوم"
 level: "متوسط"
 title: "علم النفس النسوي التقاطعي"

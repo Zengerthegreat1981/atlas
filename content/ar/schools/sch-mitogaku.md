@@ -1,6 +1,6 @@
 ---
 slug: "sch-mitogaku"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0204"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-think-again"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0465"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

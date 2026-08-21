@@ -1,6 +1,6 @@
 ---
 slug: "thk-kleonhard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1405"
 type: "مفكر"
 level: "متقدم"
 title: "كارل ليونهارد"

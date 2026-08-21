@@ -1,6 +1,6 @@
 ---
 slug: "thk-lhatch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1451"
 type: "مفكر"
 level: "متوسط"
 title: "ليندا هاتش"

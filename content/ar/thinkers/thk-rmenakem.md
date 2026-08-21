@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmenakem"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1832"
 type: "مفكر"
 level: "متوسط"
 title: "ريزما ميناكم"

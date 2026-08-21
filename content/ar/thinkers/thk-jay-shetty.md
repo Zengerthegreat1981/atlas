@@ -1,6 +1,6 @@
 ---
 slug: "thk-jay-shetty"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1233"
 type: "مفكر"
 part: "psychology"
 register: "popular"

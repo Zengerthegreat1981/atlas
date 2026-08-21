@@ -1,6 +1,6 @@
 ---
 slug: "syn-shell-shock"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0155"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

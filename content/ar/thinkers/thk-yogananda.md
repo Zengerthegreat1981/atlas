@@ -1,6 +1,6 @@
 ---
 slug: "thk-yogananda"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2139"
 type: "مفكر"
 level: "متوسط"
 title: "باراماهانزا يوغاناندا"

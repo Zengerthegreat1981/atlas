@@ -1,6 +1,6 @@
 ---
 slug: "con-drive-reduction"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0521"
 type: "مفهوم"
 level: "متوسط"
 title: "نظرية خفض الدافع"

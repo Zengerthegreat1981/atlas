@@ -1,6 +1,6 @@
 ---
 slug: "sch-wahdat-alshuhud"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0327"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

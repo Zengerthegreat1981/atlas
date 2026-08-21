@@ -1,6 +1,6 @@
 ---
 slug: "syn-mowgli"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0118"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-pres-observing-the-present"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0039"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "ملاحظة الحاضر"

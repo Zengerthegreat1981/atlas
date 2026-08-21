@@ -1,6 +1,6 @@
 ---
 slug: "sch-african-cross-cultural"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0009"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

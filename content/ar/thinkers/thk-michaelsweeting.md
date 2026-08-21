@@ -1,6 +1,6 @@
 ---
 slug: "thk-michaelsweeting"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1578"
 type: "مفكر"
 level: "متقدم"
 title: "مايكل سويتنغ"

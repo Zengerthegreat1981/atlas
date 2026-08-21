@@ -1,6 +1,6 @@
 ---
 slug: "wrk-artofwar"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0237"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

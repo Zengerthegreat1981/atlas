@@ -1,6 +1,6 @@
 ---
 slug: "thk-werhard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2101"
 type: "مفكر"
 level: "متوسط"
 title: "ويرنر إيرهارد"

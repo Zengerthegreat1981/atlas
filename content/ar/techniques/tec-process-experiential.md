@@ -1,6 +1,6 @@
 ---
 slug: "tec-process-experiential"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0280"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج التجريبي-العملياتي"

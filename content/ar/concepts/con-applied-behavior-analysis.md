@@ -1,6 +1,6 @@
 ---
 slug: "con-applied-behavior-analysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0443"
 type: "مفهوم"
 level: "متوسط"
 title: "تحليل السلوك التطبيقي (ABA)"

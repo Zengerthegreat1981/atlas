@@ -1,6 +1,6 @@
 ---
 slug: "con-chinese-verification-ism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0473"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

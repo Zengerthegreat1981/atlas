@@ -1,6 +1,6 @@
 ---
 slug: "thk-ssafran"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1983"
 type: "مفكر"
 level: "متقدم"
 title: "ستيفن م. سَافِران"

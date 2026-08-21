@@ -1,6 +1,6 @@
 ---
 slug: "thk-gleonard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1098"
 type: "مفكر"
 level: "متوسط"
 title: "جورج ليونارد"

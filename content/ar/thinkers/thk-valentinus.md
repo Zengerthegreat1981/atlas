@@ -1,6 +1,6 @@
 ---
 slug: "thk-valentinus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2074"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

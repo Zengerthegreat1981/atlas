@@ -1,6 +1,6 @@
 ---
 slug: "thk-xunzi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2131"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

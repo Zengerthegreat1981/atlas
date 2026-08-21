@@ -1,6 +1,6 @@
 ---
 slug: "thk-mweissman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1649"
 type: "مفكر"
 level: "متقدم"
 title: "ميري وايسمان"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-substance-induced-mood"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0101"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب المزاج المحدث بالمواد أو الأدوية"

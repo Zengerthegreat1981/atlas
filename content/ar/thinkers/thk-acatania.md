@@ -1,6 +1,6 @@
 ---
 slug: "thk-acatania"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0640"
 type: "مفكر"
 level: "متوسط"
 title: "أ. تشارلز كاتانيا"

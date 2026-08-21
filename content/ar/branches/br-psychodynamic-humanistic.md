@@ -1,6 +1,6 @@
 ---
 slug: "br-psychodynamic-humanistic"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0193"
 type: "تيار"
 level: "متوسط"
 title: "علم النفس الإنساني العميق (رولو ماي)"

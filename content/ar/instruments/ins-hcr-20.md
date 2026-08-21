@@ -1,6 +1,6 @@
 ---
 slug: "ins-hcr-20"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0041"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس تقييم مخاطر العنف الهيكل السريري HCR-20"

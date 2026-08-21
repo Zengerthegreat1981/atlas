@@ -1,6 +1,6 @@
 ---
 slug: "met-act-passengers-on-the-bus"
-id: "[DRAFT-UNKNOWN]"
+id: "MET-0002"
 type: "استعارة/مجاز مؤسِّس"
 level: "مبتدئ"
 title: "ركاب الحافلة: استعارة الذات والأفكار في علاج القبول والالتزام"

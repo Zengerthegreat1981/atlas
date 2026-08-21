@@ -1,6 +1,6 @@
 ---
 slug: "thk-ereich"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1010"
 type: "مفكر"
 level: "متوسط"
 title: "إيڤا رايخ"

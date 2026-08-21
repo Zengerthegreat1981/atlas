@@ -1,6 +1,6 @@
 ---
 slug: "thk-frey-rohn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1054"
 type: "مفكر"
 level: "متقدم"
 title: "ليليان فري-رون"

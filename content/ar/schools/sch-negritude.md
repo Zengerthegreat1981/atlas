@@ -1,6 +1,6 @@
 ---
 slug: "sch-negritude"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0211"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

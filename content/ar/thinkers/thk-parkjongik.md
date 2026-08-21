@@ -1,6 +1,6 @@
 ---
 slug: "thk-parkjongik"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1707"
 type: "مفكر"
 level: "متوسط"
 title: "بارك جونغ-إيك"

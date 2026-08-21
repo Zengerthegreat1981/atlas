@@ -1,6 +1,6 @@
 ---
 slug: "thk-sicher"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1945"
 type: "مفكر"
 level: "متقدم"
 title: "ليديا سيشر"

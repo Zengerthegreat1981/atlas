@@ -1,6 +1,6 @@
 ---
 slug: "dis-premenstrual-dysphoric-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0081"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب ما قبل الطمث الاكتئابي"

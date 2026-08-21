@@ -1,6 +1,6 @@
 ---
 slug: "syn-schumann-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0152"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

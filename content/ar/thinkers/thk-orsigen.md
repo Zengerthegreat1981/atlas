@@ -1,6 +1,6 @@
 ---
 slug: "thk-orsigen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1700"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

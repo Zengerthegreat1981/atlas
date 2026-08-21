@@ -1,6 +1,6 @@
 ---
 slug: "sch-korean-neoconfucian"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0176"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

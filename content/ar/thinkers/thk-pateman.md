@@ -1,6 +1,6 @@
 ---
 slug: "thk-pateman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1710"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

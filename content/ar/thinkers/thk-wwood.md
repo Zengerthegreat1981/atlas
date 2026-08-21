@@ -1,6 +1,6 @@
 ---
 slug: "thk-wwood"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2129"
 type: "مفكر"
 level: "متوسط"
 title: "وايات وودسمول"

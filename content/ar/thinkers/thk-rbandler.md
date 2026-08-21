@@ -1,6 +1,6 @@
 ---
 slug: "thk-rbandler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1781"
 type: "مفكر"
 level: "متوسط"
 title: "ريتشارد بَندلر"

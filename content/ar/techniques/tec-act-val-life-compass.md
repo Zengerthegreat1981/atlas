@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-val-life-compass"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0049"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "بوصلة الحياة"

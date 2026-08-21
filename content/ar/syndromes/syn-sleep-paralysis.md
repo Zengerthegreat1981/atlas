@@ -1,6 +1,6 @@
 ---
 slug: "syn-sleep-paralysis"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0160"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kurtz-sherman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1426"
 type: "مفكر"
 level: "متوسط"
 title: "شيرمان كيرتز"

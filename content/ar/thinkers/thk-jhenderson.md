@@ -1,6 +1,6 @@
 ---
 slug: "thk-jhenderson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1287"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف لويس هندرسون"

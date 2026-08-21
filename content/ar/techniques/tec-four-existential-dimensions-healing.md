@@ -1,6 +1,6 @@
 ---
 slug: "tec-four-existential-dimensions-healing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0225"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الأبعاد الأربعة للشفاء: الجسدي، النفسي، الاجتماعي، الروحي"

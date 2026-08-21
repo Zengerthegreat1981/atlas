@@ -1,6 +1,6 @@
 ---
 slug: "sch-north-american-indigenous"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0224"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

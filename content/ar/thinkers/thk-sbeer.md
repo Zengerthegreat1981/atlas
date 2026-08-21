@@ -1,6 +1,6 @@
 ---
 slug: "thk-sbeer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1909"
 type: "مفكر"
 level: "متوسط"
 title: "ستافورد بير"

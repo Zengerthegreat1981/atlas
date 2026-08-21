@@ -1,6 +1,6 @@
 ---
 slug: "thk-adamblatner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0643"
 type: "مفكر"
 level: "متقدم"
 title: "آدم بلاتنر"

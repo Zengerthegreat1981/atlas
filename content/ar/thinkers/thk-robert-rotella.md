@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-rotella"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1843"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت روتيلا"

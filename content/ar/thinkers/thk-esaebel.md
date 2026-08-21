@@ -1,6 +1,6 @@
 ---
 slug: "thk-esaebel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1016"
 type: "مفكر"
 level: "مبتدئ"
 title: "إليزابيث سايبل"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-fromm-reichmann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1055"
 type: "مفكر"
 level: "متقدم"
 title: "فريدا فروم-رايخمان"

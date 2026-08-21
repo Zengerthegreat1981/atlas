@@ -1,6 +1,6 @@
 ---
 slug: "br-critical-liberation-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0132"
 type: "تيار"
 level: "متقدم"
 title: "العلاج النقدي-التحرري"

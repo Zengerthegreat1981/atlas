@@ -1,6 +1,6 @@
 ---
 slug: "thk-assagioli"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0715"
 type: "مفكر"
 level: "متوسط"
 title: "روبرتو أساجيولي"

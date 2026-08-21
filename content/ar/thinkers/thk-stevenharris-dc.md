@@ -1,6 +1,6 @@
 ---
 slug: "thk-stevenharris-dc"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1997"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن هاريس"

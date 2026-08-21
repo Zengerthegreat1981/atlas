@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbissel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1244"
 type: "مفكر"
 level: "متوسط"
 title: "ج. غاري بيسّل"

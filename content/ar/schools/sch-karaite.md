@@ -1,6 +1,6 @@
 ---
 slug: "sch-karaite"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0170"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

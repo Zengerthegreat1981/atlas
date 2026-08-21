@@ -1,6 +1,6 @@
 ---
 slug: "thk-mhorwitz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1570"
 type: "مفكر"
 level: "متوسط"
 title: "ماريانو هورفيتس"

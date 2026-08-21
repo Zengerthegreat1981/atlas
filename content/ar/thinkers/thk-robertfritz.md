@@ -1,6 +1,6 @@
 ---
 slug: "thk-robertfritz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1847"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت فريتز"

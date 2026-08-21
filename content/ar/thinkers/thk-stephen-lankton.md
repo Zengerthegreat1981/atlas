@@ -1,6 +1,6 @@
 ---
 slug: "thk-stephen-lankton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1992"
 type: "مفكر"
 level: "متقدم"
 title: "ستيفن لانكتون"

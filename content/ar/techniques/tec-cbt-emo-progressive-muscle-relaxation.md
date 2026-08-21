@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-progressive-muscle-relaxation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0097"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الإرخاء العضلي التدريجي"

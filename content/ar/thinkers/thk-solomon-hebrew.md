@@ -1,6 +1,6 @@
 ---
 slug: "thk-solomon-hebrew"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1966"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

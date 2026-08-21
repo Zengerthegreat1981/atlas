@@ -1,6 +1,6 @@
 ---
 slug: "sch-rangaku"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0263"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

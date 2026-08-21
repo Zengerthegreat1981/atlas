@@ -1,6 +1,6 @@
 ---
 slug: "thk-patanjali"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1708"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

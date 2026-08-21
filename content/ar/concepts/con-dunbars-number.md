@@ -1,6 +1,6 @@
 ---
 slug: "con-dunbars-number"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0522"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

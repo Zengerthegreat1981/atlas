@@ -1,6 +1,6 @@
 ---
 slug: "wrk-interpersonal-world-infant"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0362"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "العالم بين-شخصي للرضيع"

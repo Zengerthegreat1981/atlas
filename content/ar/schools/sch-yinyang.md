@@ -1,6 +1,6 @@
 ---
 slug: "sch-yinyang"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0331"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

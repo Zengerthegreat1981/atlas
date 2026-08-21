@@ -1,6 +1,6 @@
 ---
 slug: "tec-naikan-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0258"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "علاج نايكان والتأمل الاستبطاني"

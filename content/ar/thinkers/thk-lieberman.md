@@ -1,6 +1,6 @@
 ---
 slug: "thk-lieberman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1456"
 type: "مفكر"
 level: "متوسط"
 title: "ألسي ليبرمان (باتريسيا)"

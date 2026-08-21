@@ -1,6 +1,6 @@
 ---
 slug: "thk-mharris"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1566"
 type: "مفكر"
 level: "متوسط"
 title: "ماكسين هاريس"

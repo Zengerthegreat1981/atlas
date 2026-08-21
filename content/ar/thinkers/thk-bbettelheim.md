@@ -1,6 +1,6 @@
 ---
 slug: "thk-bbettelheim"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0738"
 type: "مفكر"
 level: "متوسط"
 title: "برونو بِتِّلهايم"

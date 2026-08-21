@@ -1,6 +1,6 @@
 ---
 slug: "sch-kyoto"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0177"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

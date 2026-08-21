@@ -1,6 +1,6 @@
 ---
 slug: "sch-feminism-postcolonial"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0114"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-other-specified-mental"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0075"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "اضطراب نفسي آخر محدد"

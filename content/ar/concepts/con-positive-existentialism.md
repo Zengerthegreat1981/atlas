@@ -1,6 +1,6 @@
 ---
 slug: "con-positive-existentialism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0678"
 type: "مفهوم"
 level: "متقدم"
 title: "الوجودية الإيجابية"

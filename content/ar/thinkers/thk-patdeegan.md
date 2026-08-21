@@ -1,6 +1,6 @@
 ---
 slug: "thk-patdeegan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1709"
 type: "مفكر"
 level: "متقدم"
 title: "بات ديغان"

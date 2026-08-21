@@ -1,6 +1,6 @@
 ---
 slug: "thk-nazrin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1667"
 type: "مفكر"
 level: "متقدم"
 title: "نَثَان هـ. أزّرين"

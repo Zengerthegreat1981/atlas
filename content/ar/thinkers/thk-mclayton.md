@@ -1,6 +1,6 @@
 ---
 slug: "thk-mclayton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1545"
 type: "مفكر"
 level: "متوسط"
 title: "ماكس كلايتون"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-cdello"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0826"
 type: "مفكر"
 level: "متوسط"
 title: "كارمن دِل أورو"

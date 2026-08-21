@@ -1,6 +1,6 @@
 ---
 slug: "ins-scid-5"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0070"
 type: "أداة قياس"
 part: "psychology"
 level: "متقدم"

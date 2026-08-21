@@ -1,6 +1,6 @@
 ---
 slug: "con-emotional-immaturity-parents"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0534"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-corbett"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0856"
 type: "مفكر"
 level: "متوسط"
 title: "ليونيل كوربت"

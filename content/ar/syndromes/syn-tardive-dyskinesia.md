@@ -1,6 +1,6 @@
 ---
 slug: "syn-tardive-dyskinesia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0175"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

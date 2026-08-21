@@ -1,6 +1,6 @@
 ---
 slug: "evt-connecticut-licensing-law-1945"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0022"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "إقرار أول قانون لترخيص ممارسة علم النفس في ولاية كونيتيكت"

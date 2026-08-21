@@ -1,6 +1,6 @@
 ---
 slug: "con-conversion-therapy-harm"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0490"
 type: "مفهوم"
 level: "متوسط"
 title: "ضرر العلاج بالتحويل"

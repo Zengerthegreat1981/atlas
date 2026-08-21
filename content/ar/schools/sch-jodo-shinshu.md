@@ -1,6 +1,6 @@
 ---
 slug: "sch-jodo-shinshu"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0158"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

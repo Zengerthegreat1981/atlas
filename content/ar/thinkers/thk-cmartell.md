@@ -1,6 +1,6 @@
 ---
 slug: "thk-cmartell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0849"
 type: "مفكر"
 level: "متقدم"
 title: "كريستوفر ر. مارتل"

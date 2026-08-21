@@ -1,6 +1,6 @@
 ---
 slug: "thk-ronald-siegel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1852"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

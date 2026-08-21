@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcmcgrew"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1254"
 type: "مفكر"
 level: "متوسط"
 title: "جون هـ. مَكغْرِي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rshort"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1876"
 type: "مفكر"
 level: "مبتدئ"
 title: "روبرت شورت"

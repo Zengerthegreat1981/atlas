@@ -1,6 +1,6 @@
 ---
 slug: "thk-gparis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1109"
 type: "مفكر"
 level: "متقدم"
 title: "جانيت باريس"

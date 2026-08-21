@@ -1,6 +1,6 @@
 ---
 slug: "syn-faustian-bargain"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0064"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

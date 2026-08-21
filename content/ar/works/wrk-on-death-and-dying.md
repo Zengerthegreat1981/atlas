@@ -1,6 +1,6 @@
 ---
 slug: "wrk-on-death-and-dying"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0411"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

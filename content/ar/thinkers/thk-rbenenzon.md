@@ -1,6 +1,6 @@
 ---
 slug: "thk-rbenenzon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1784"
 type: "مفكر"
 level: "متوسط"
 title: "رولاندو بنِنسون"

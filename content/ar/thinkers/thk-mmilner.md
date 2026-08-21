@@ -1,6 +1,6 @@
 ---
 slug: "thk-mmilner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1607"
 type: "مفكر"
 level: "متقدم"
 title: "ماريون مِلنر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dan-ariely"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0880"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

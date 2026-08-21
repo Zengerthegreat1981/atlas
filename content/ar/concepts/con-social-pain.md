@@ -1,6 +1,6 @@
 ---
 slug: "con-social-pain"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0743"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

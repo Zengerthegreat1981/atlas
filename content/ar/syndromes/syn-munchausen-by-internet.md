@@ -1,6 +1,6 @@
 ---
 slug: "syn-munchausen-by-internet"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0119"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

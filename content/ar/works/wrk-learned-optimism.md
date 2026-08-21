@@ -1,6 +1,6 @@
 ---
 slug: "wrk-learned-optimism"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0370"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

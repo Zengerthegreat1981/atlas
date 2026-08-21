@@ -1,6 +1,6 @@
 ---
 slug: "thk-tkirsch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2043"
 type: "مفكر"
 level: "متقدم"
 title: "توماس ب. كيرش"

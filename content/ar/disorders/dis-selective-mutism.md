@@ -1,6 +1,6 @@
 ---
 slug: "dis-selective-mutism"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0093"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "ال صمت الانتقائي"

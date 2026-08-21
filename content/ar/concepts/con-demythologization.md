@@ -1,6 +1,6 @@
 ---
 slug: "con-demythologization"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0509"
 type: "مفهوم"
 level: "متقدم"
 title: "نزع الأسطورة"

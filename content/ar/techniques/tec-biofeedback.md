@@ -1,6 +1,6 @@
 ---
 slug: "tec-biofeedback"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0066"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "البيوفيتباك (Biofeedback)"

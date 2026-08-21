@@ -1,6 +1,6 @@
 ---
 slug: "thk-pfeyerabend"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1731"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

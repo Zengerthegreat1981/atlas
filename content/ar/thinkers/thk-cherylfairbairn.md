@@ -1,6 +1,6 @@
 ---
 slug: "thk-cherylfairbairn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0840"
 type: "مفكر"
 level: "متقدم"
 title: "شيريل فيربيرن"

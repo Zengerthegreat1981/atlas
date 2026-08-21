@@ -1,6 +1,6 @@
 ---
 slug: "syn-sick-building"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0158"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

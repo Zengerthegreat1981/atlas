@@ -1,6 +1,6 @@
 ---
 slug: "thk-michael-guthrie"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1575"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل غوثري"

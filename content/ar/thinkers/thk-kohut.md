@@ -1,6 +1,6 @@
 ---
 slug: "thk-kohut"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1414"
 type: "مفكر"
 level: "متقدم"
 title: "هاينز كوهوت"

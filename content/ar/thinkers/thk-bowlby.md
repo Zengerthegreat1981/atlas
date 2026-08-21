@@ -1,6 +1,6 @@
 ---
 slug: "thk-bowlby"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0781"
 type: "مفكر"
 level: "متقدم"
 title: "جون بولبي"

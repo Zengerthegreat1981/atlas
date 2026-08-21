@@ -1,6 +1,6 @@
 ---
 slug: "rel-systemic-behavioral"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0148"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "النظامية الأسرية والسلوكية: تكامل صامت"

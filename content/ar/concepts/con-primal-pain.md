@@ -1,6 +1,6 @@
 ---
 slug: "con-primal-pain"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0684"
 type: "مفهوم"
 level: "متوسط"
 title: "الألم البدائي"

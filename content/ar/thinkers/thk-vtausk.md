@@ -1,6 +1,6 @@
 ---
 slug: "thk-vtausk"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2087"
 type: "مفكر"
 level: "متوسط"
 title: "فيكتور تاوسك"

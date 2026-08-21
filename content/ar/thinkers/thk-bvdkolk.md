@@ -1,6 +1,6 @@
 ---
 slug: "thk-bvdkolk"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0801"
 type: "مفكر"
 level: "متقدم"
 title: "بِسِل فان دير كولك"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-trore"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2058"
 type: "مفكر"
 level: "مبتدئ"
 title: "تيموثي روري"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mvanmanen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1644"
 type: "مفكر"
 level: "متوسط"
 title: "ماكس فان مانن"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-hamlet-syndrome"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0080"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

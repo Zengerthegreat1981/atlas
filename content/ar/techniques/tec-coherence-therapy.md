@@ -1,6 +1,6 @@
 ---
 slug: "tec-coherence-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0132"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "علاج التماسك وإعادة توحيد الذاكرة"

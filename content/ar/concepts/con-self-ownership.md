@@ -1,6 +1,6 @@
 ---
 slug: "con-self-ownership"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0728"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

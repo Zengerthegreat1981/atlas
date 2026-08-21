@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbenjamin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1241"
 type: "مفكر"
 level: "متقدم"
 title: "جيسيكا بِنْجامِين"

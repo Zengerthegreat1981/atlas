@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbaylin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1237"
 type: "مفكر"
 level: "متوسط"
 title: "جون بايلين"

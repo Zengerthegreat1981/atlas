@@ -1,6 +1,6 @@
 ---
 slug: "thk-tdoi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2026"
 type: "مفكر"
 level: "متوسط"
 title: "تاكيو دوي"

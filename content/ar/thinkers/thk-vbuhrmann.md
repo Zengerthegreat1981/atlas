@@ -1,6 +1,6 @@
 ---
 slug: "thk-vbuhrmann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2077"
 type: "مفكر"
 level: "متقدم"
 title: "فيرا بوهرمان"

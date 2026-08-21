@@ -1,6 +1,6 @@
 ---
 slug: "thk-fpeseschkian"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1049"
 type: "مفكر"
 level: "متوسط"
 title: "فريد بيسشكيان"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-daniel-gilbert"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0885"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

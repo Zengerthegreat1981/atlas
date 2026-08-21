@@ -1,6 +1,6 @@
 ---
 slug: "thk-yacob"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2132"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

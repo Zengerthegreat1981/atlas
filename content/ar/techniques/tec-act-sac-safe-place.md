@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-sac-safe-place"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0043"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "المكان الآمن (تأمل)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-prochaska"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1760"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس بروتشاسكا"

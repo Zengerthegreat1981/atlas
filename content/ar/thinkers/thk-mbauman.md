@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbauman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1533"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريت باومان"

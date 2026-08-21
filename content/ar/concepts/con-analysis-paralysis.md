@@ -1,6 +1,6 @@
 ---
 slug: "con-analysis-paralysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0438"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

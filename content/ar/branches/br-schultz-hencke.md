@@ -1,6 +1,6 @@
 ---
 slug: "br-schultz-hencke"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0206"
 type: "تيار"
 level: "متقدم"
 title: "التحليل النفسي الجديد (شولتز-هينكه)"

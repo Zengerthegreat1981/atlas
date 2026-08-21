@@ -1,6 +1,6 @@
 ---
 slug: "thk-rk-narayan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1815"
 type: "مفكر"
 level: "متوسط"
 title: "راماكريشنا نارايان"

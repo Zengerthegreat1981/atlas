@@ -1,6 +1,6 @@
 ---
 slug: "thk-eburne"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0973"
 type: "مفكر"
 level: "متقدم"
 title: "إريك بيرن"

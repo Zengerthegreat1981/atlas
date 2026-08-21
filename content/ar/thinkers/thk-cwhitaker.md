@@ -1,6 +1,6 @@
 ---
 slug: "thk-cwhitaker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0875"
 type: "مفكر"
 level: "متوسط"
 title: "كارل وايتيكر"

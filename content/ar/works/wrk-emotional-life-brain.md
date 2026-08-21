@@ -1,6 +1,6 @@
 ---
 slug: "wrk-emotional-life-brain"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0295"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "الحياة العاطفية لدماغك: كيف تشكّل أنماطه الفريدة طريقة تفكيرك وشعورك وحياتك"

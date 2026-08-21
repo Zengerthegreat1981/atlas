@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-acc-dropping-the-struggle"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0010"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "إسقاط الصراع (مفتاح الصراع)"

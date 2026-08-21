@@ -1,6 +1,6 @@
 ---
 slug: "dis-anorexia-nervosa"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0011"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "القهم العصبي (أنوريكسيا)"

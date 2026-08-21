@@ -1,6 +1,6 @@
 ---
 slug: "sch-biological-neuro"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0045"
 type: "مدرسة"
 part: "psychology"
 level: "مبتدئ"

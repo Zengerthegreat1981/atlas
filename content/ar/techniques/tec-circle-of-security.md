@@ -1,6 +1,6 @@
 ---
 slug: "tec-circle-of-security"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0127"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "برنامج دائرة الأمان في الارتباط الوالدي (COS)"

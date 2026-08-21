@@ -1,6 +1,6 @@
 ---
 slug: "sch-existentialism-religious"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0104"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

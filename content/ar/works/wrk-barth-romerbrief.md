@@ -1,6 +1,6 @@
 ---
 slug: "wrk-barth-romerbrief"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0246"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الرسالة إلى أهل رومية (اللاهوت الجدلي)"

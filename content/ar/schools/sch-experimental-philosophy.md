@@ -1,6 +1,6 @@
 ---
 slug: "sch-experimental-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0106"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

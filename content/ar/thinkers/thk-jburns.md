@@ -1,6 +1,6 @@
 ---
 slug: "thk-jburns"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1248"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد بيرنز"

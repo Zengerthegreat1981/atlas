@@ -1,6 +1,6 @@
 ---
 slug: "evt-chlorpromazine-discovery-1952"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0019"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "اكتشاف عقار الكلوربرومازين وثورة الأدوية المضادة للذهان وإفراغ المصحات"

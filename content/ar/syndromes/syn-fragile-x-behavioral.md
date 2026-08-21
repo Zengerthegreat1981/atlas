@@ -1,6 +1,6 @@
 ---
 slug: "syn-fragile-x-behavioral"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0069"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

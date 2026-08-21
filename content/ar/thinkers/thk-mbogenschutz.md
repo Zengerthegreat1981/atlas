@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbogenschutz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1536"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل بوغِنشوتس"

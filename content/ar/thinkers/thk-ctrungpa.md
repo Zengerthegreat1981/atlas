@@ -1,6 +1,6 @@
 ---
 slug: "thk-ctrungpa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0870"
 type: "مفكر"
 level: "متوسط"
 title: "تشوغيام ترونغبا"

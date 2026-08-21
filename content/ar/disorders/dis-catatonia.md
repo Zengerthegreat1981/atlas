@@ -1,6 +1,6 @@
 ---
 slug: "dis-catatonia"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0027"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "الكاتاتونيا أو متلازمة الجمود الحركي"

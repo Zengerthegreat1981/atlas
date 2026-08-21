@@ -1,6 +1,6 @@
 ---
 slug: "thk-mkerr"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1594"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل كير"

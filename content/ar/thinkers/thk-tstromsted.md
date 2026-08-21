@@ -1,6 +1,6 @@
 ---
 slug: "thk-tstromsted"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2065"
 type: "مفكر"
 level: "متوسط"
 title: "تينا سترومستد"

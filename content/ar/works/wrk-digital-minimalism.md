@@ -1,6 +1,6 @@
 ---
 slug: "wrk-digital-minimalism"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0283"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-sac-noticing-who-is-noticing"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0041"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "ملاحظة 'مين اللي بيلاحظ'"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jsandler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1346"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف ساندلر"

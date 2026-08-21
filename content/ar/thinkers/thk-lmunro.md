@@ -1,6 +1,6 @@
 ---
 slug: "thk-lmunro"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1467"
 type: "مفكر"
 level: "متوسط"
 title: "لويز مونرو"

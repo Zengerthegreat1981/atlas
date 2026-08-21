@@ -1,6 +1,6 @@
 ---
 slug: "thk-ttarski"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2066"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

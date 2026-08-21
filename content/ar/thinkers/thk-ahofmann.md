@@ -1,6 +1,6 @@
 ---
 slug: "thk-ahofmann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0657"
 type: "مفكر"
 level: "متوسط"
 title: "ألبرت هوفمان"

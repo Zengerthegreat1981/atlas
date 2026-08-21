@@ -1,6 +1,6 @@
 ---
 slug: "rel-integrative-psychoanalysis-common-factors"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0136"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-afaria"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0646"
 type: "مفكر"
 level: "متوسط"
 title: "أبِي فاريا"

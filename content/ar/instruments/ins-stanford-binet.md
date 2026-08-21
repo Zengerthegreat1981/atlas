@@ -1,6 +1,6 @@
 ---
 slug: "ins-stanford-binet"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0077"
 type: "أداة قياس"
 level: "متقدم"
 title: "مقياس ستانفورد-بينيه للذكاء"

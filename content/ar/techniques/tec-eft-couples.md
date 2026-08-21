@@ -1,6 +1,6 @@
 ---
 slug: "tec-eft-couples"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0205"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المرتكز على العاطفة للأزواج (EFT)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jonathanbaylin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1328"
 type: "مفكر"
 level: "متقدم"
 title: "جوناثان بايلن"

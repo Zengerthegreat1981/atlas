@@ -1,6 +1,6 @@
 ---
 slug: "thk-iplayer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1200"
 type: "مفكر"
 level: "متوسط"
 title: "إيان بلاير"

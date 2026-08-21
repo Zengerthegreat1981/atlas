@@ -1,6 +1,6 @@
 ---
 slug: "thk-salome"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1901"
 type: "مفكر"
 level: "متقدم"
 title: "لو أندرياس-سالومي"

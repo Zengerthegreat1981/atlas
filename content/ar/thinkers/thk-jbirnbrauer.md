@@ -1,6 +1,6 @@
 ---
 slug: "thk-jbirnbrauer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1243"
 type: "مفكر"
 level: "متوسط"
 title: "جاي بيرنبراونر"

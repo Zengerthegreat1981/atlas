@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-wise-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0192"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العقل الحكيم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-motivation-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0397"
 type: "عمل / كتاب"
 level: "مبتدئ"
 title: "الدافعية والشخصية (Motivation and Personality)"

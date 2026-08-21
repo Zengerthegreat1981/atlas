@@ -1,6 +1,6 @@
 ---
 slug: "thk-cschaefer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0862"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز شيفر"

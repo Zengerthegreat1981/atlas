@@ -1,6 +1,6 @@
 ---
 slug: "thk-pappelbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1706"
 type: "مفكر"
 level: "متوسط"
 title: "بول أبلباوم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-fkeller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1039"
 type: "مفكر"
 level: "متقدم"
 title: "فريد س. كيلّر"

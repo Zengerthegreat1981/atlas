@@ -1,6 +1,6 @@
 ---
 slug: "stu-jones-harris-castro"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0054"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة جونز وهاريس حول إسناد المواقف ومقالات كاسترو"

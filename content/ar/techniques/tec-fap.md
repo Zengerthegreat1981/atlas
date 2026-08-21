@@ -1,6 +1,6 @@
 ---
 slug: "tec-fap"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0216"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج النفسي التحليلي الوظيفي (FAP)"

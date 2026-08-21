@@ -1,6 +1,6 @@
 ---
 slug: "thk-mbembe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1534"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-nkhanna"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1679"
 type: "مفكر"
 level: "متوسط"
 title: "نيخيل خانا"

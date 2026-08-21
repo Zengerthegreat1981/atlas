@@ -1,6 +1,6 @@
 ---
 slug: "ins-dyadic-adjustment-scale"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0031"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس التوافق الثنائي في العلاقات الزوجية لسبانير"

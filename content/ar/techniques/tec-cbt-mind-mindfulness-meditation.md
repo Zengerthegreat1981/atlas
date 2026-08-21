@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-mind-mindfulness-meditation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0115"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تأمل اليقظة الذهنية"

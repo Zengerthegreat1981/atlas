@@ -1,6 +1,6 @@
 ---
 slug: "sch-buddhist-modernism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0053"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

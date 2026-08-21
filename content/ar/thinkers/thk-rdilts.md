@@ -1,6 +1,6 @@
 ---
 slug: "thk-rdilts"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1795"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت ديلتس"

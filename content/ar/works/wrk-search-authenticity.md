@@ -1,6 +1,6 @@
 ---
 slug: "wrk-search-authenticity"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0446"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "البحث عن الأصالة (The Search for Authenticity)"

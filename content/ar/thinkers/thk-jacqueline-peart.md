@@ -1,6 +1,6 @@
 ---
 slug: "thk-jacqueline-peart"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1215"
 type: "مفكر"
 level: "متوسط"
 title: "جاكلين پيرت"

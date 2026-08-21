@@ -1,6 +1,6 @@
 ---
 slug: "syn-locura"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0112"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

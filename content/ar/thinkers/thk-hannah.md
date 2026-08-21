@@ -1,6 +1,6 @@
 ---
 slug: "thk-hannah"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1129"
 type: "مفكر"
 level: "متقدم"
 title: "بربارة حنّة"

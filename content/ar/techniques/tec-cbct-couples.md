@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbct-couples"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0072"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المعرفي السلوكي للأزواج (CBCT)"

@@ -1,6 +1,6 @@
 ---
 slug: "dbt-recovered-memory-validity"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0345"
 type: "جدل"
 level: "متوسط"
 title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟"

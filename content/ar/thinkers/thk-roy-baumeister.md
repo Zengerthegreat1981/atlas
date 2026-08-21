@@ -1,6 +1,6 @@
 ---
 slug: "thk-roy-baumeister"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1860"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

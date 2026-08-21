@@ -1,6 +1,6 @@
 ---
 slug: "thk-habermas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1126"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

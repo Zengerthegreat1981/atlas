@@ -1,6 +1,6 @@
 ---
 slug: "con-verbal-behavior-vb"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0783"
 type: "مفهوم"
 level: "متوسط"
 title: "السلوك اللفظي (Verbal Behavior / VB)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-alicorazon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0672"
 type: "مفكر"
 level: "متقدم"
 title: "ألي كورازون"

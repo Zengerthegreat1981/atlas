@@ -1,6 +1,6 @@
 ---
 slug: "con-deep-work"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0506"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

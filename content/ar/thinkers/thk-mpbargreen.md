@@ -1,6 +1,6 @@
 ---
 slug: "thk-mpbargreen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1622"
 type: "مفكر"
 level: "متوسط"
 title: "ماري بيندر غرين"

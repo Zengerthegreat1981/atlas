@@ -1,6 +1,6 @@
 ---
 slug: "met-freud-iceberg"
-id: "[DRAFT-UNKNOWN]"
+id: "MET-0003"
 type: "استعارة/مجاز مؤسِّس"
 level: "مبتدئ"
 title: "الجبل الجليدي: استعارة الوعي واللاوعي التحليلي"

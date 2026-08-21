@@ -1,6 +1,6 @@
 ---
 slug: "wrk-obedience-to-authority"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0408"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-bedwetting-alarm"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0062"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "منبّه التبوّل الليلي (Bedwetting Alarm)"

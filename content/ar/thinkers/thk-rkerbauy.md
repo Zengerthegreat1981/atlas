@@ -1,6 +1,6 @@
 ---
 slug: "thk-rkerbauy"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1818"
 type: "مفكر"
 level: "متوسط"
 title: "راثيل كربّوي"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-loftus-misinformation-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0069"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسات لوفتوس الأصلية حول تأثير المعلومات المضللة وتعديل الذاكرة"

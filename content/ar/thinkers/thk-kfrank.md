@@ -1,6 +1,6 @@
 ---
 slug: "thk-kfrank"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1390"
 type: "مفكر"
 level: "متقدم"
 title: "كينيث فرانك"

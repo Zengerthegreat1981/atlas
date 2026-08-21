@@ -1,6 +1,6 @@
 ---
 slug: "wrk-magic-of-thinking-big"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0382"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-deep-ecology"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0085"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-hliddle"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1161"
 type: "مفكر"
 level: "متوسط"
 title: "هوارد ليدل"

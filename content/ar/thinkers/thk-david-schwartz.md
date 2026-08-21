@@ -1,6 +1,6 @@
 ---
 slug: "thk-david-schwartz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0893"
 type: "مفكر"
 part: "psychology"
 register: "popular"

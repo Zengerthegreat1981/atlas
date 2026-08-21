@@ -1,6 +1,6 @@
 ---
 slug: "tec-cpt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0138"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "علاج المعالجة المعرفية (CPT)"

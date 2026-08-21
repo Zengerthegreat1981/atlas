@@ -1,6 +1,6 @@
 ---
 slug: "wrk-can-the-subaltern-speak"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0264"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

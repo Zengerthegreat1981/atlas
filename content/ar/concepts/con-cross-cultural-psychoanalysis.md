@@ -1,6 +1,6 @@
 ---
 slug: "con-cross-cultural-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0495"
 type: "مفهوم"
 level: "متوسط"
 title: "التحليل النفسي العابر للثقافات"

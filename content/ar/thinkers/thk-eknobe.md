@@ -1,6 +1,6 @@
 ---
 slug: "thk-eknobe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0991"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-madeleine-sandberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1490"
 type: "مفكر"
 level: "متوسط"
 title: "مادلين ساندبرغ"

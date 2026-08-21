@@ -1,6 +1,6 @@
 ---
 slug: "syn-de-clerambault"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0044"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

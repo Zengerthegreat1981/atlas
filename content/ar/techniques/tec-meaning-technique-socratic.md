@@ -1,6 +1,6 @@
 ---
 slug: "tec-meaning-technique-socratic"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0245"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)"

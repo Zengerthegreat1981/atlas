@@ -1,6 +1,6 @@
 ---
 slug: "con-overcontrol"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0664"
 type: "مفهوم"
 level: "متوسط"
 title: "الضبط المفرط (Overcontrol)"

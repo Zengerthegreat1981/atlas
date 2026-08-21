@@ -1,6 +1,6 @@
 ---
 slug: "wrk-power-of-now"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0425"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

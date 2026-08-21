@@ -1,6 +1,6 @@
 ---
 slug: "wrk-immunity-to-change"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0354"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

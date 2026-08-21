@@ -1,6 +1,6 @@
 ---
 slug: "wrk-tipping-point"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0470"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

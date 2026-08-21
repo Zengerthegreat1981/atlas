@@ -1,6 +1,6 @@
 ---
 slug: "wrk-emotional-intelligence-1995"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0294"
 type: "عمل / كتاب"
 level: "مبتدئ"
 title: "الذكاء العاطفي"

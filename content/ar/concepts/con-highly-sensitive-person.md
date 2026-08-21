@@ -1,6 +1,6 @@
 ---
 slug: "con-highly-sensitive-person"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0585"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

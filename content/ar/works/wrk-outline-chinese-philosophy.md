@@ -1,6 +1,6 @@
 ---
 slug: "wrk-outline-chinese-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0416"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

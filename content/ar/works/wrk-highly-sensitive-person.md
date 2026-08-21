@@ -1,6 +1,6 @@
 ---
 slug: "wrk-highly-sensitive-person"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0342"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-sshaikh"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1986"
 type: "مفكر"
 level: "متوسط"
 title: "سعدية شيخ"

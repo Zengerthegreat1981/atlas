@@ -1,6 +1,6 @@
 ---
 slug: "thk-gotama-kanad"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1107"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

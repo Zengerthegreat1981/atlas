@@ -1,6 +1,6 @@
 ---
 slug: "sch-aristotelianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0034"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

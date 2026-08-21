@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-model-for-describing-emotions"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0166"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "نموذج وصف المشاعر"

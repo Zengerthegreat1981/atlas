@@ -1,6 +1,6 @@
 ---
 slug: "rel-humanistic-positive"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0132"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه"

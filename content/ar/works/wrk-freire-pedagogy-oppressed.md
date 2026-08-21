@@ -1,6 +1,6 @@
 ---
 slug: "wrk-freire-pedagogy-oppressed"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0318"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "تعليم المضطهدين (Pedagogy of the Oppressed)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-freud"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1053"
 type: "مفكر"
 level: "متقدم"
 title: "سيغموند فرويد"

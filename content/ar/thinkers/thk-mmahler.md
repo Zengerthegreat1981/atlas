@@ -1,6 +1,6 @@
 ---
 slug: "thk-mmahler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1603"
 type: "مفكر"
 level: "متقدم"
 title: "مارغريت ماهلر"

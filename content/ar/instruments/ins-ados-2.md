@@ -1,6 +1,6 @@
 ---
 slug: "ins-ados-2"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0008"
 type: "أداة قياس"
 part: "psychology"
 level: "متقدم"

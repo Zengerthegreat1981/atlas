@@ -1,6 +1,6 @@
 ---
 slug: "con-somnambulism-hypnosis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0746"
 type: "مفهوم"
 level: "متوسط"
 title: "الغشية العميقة (سومنامبوليزم تنويمي)"

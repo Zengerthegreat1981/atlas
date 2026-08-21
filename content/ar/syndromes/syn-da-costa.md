@@ -1,6 +1,6 @@
 ---
 slug: "syn-da-costa"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0043"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

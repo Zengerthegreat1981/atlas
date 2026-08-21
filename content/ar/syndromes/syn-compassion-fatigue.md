@@ -1,6 +1,6 @@
 ---
 slug: "syn-compassion-fatigue"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0037"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

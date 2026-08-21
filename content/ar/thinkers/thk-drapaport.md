@@ -1,6 +1,6 @@
 ---
 slug: "thk-drapaport"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0950"
 type: "مفكر"
 level: "متقدم"
 title: "ديفيد رابابورت"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-rschaaf"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1872"
 type: "مفكر"
 level: "متوسط"
 title: "روزان شاف"

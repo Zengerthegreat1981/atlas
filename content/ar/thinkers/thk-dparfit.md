@@ -1,6 +1,6 @@
 ---
 slug: "thk-dparfit"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0945"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

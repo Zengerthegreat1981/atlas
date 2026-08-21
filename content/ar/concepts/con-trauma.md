@@ -1,6 +1,6 @@
 ---
 slug: "con-trauma"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0772"
 type: "مفهوم"
 level: "متوسط"
 title: "الصدمة النفسية في التحليلية"

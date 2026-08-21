@@ -1,6 +1,6 @@
 ---
 slug: "con-ubuntu"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0776"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

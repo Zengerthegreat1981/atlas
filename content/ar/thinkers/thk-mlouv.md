@@ -1,6 +1,6 @@
 ---
 slug: "thk-mlouv"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1601"
 type: "مفكر"
 level: "مبتدئ"
 title: "ريتشارد لوف"

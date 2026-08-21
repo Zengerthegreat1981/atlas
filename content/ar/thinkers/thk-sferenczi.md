@@ -1,6 +1,6 @@
 ---
 slug: "thk-sferenczi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1925"
 type: "مفكر"
 level: "متقدم"
 title: "ساندور فيرينتسي"

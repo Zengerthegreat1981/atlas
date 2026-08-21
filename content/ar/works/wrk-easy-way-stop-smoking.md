@@ -1,6 +1,6 @@
 ---
 slug: "wrk-easy-way-stop-smoking"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0286"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-sedative-use"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0092"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب استخدام المهدئات / المنومات"

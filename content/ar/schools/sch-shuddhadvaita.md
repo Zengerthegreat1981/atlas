@@ -1,6 +1,6 @@
 ---
 slug: "sch-shuddhadvaita"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0287"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

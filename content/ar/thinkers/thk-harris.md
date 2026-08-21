@@ -1,6 +1,6 @@
 ---
 slug: "thk-harris"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1132"
 type: "مفكر"
 level: "متقدم"
 title: "أدريان هاريس"

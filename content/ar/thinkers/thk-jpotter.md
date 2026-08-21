@@ -1,6 +1,6 @@
 ---
 slug: "thk-jpotter"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1338"
 type: "مفكر"
 level: "متوسط"
 title: "جوناثان بوتر"

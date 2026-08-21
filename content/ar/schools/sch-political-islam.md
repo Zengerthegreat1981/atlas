@@ -1,6 +1,6 @@
 ---
 slug: "sch-political-islam"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0246"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

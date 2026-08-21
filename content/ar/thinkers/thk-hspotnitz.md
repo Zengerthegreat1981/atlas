@@ -1,6 +1,6 @@
 ---
 slug: "thk-hspotnitz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1172"
 type: "مفكر"
 level: "متوسط"
 title: "هايمان سبوتنيتس"

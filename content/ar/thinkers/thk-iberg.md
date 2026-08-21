@@ -1,6 +1,6 @@
 ---
 slug: "thk-iberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1182"
 type: "مفكر"
 level: "متوسط"
 title: "إنسو كيم بيرغ"

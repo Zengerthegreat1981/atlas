@@ -1,6 +1,6 @@
 ---
 slug: "thk-ibn-arabi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1184"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

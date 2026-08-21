@@ -1,6 +1,6 @@
 ---
 slug: "thk-canderson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0810"
 type: "مفكر"
 level: "متوسط"
 title: "كارول أندرسون"

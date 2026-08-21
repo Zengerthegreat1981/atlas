@@ -1,6 +1,6 @@
 ---
 slug: "thk-ieyberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1192"
 type: "مفكر"
 level: "متقدم"
 title: "شيرلي إِيبِرغ"

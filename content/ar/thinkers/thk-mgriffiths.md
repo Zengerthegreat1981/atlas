@@ -1,6 +1,6 @@
 ---
 slug: "thk-mgriffiths"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1565"
 type: "مفكر"
 level: "متوسط"
 title: "مارك غريفيثز"

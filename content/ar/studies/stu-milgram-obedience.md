@@ -1,6 +1,6 @@
 ---
 slug: "stu-milgram-obedience"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0077"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجربة ميلغرام للطاعة والسلطة"

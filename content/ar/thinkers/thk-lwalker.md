@@ -1,6 +1,6 @@
 ---
 slug: "thk-lwalker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1483"
 type: "مفكر"
 level: "متوسط"
 title: "لورا ووكر"

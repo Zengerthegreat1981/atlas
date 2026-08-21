@@ -1,6 +1,6 @@
 ---
 slug: "thk-confucius"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0854"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

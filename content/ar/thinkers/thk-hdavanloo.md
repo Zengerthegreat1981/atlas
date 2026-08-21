@@ -1,6 +1,6 @@
 ---
 slug: "thk-hdavanloo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1140"
 type: "مفكر"
 level: "متقدم"
 title: "حبيب دَفانلو"

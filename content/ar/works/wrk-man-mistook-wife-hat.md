@@ -1,6 +1,6 @@
 ---
 slug: "wrk-man-mistook-wife-hat"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0383"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

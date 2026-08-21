@@ -1,6 +1,6 @@
 ---
 slug: "sch-philosophy-of-technology"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0245"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

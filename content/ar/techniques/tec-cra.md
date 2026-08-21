@@ -1,6 +1,6 @@
 ---
 slug: "tec-cra"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0139"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "نهج التعزيز المجتمعي (CRA)"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-leadership-diamond-koestenbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0239"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "الألماسة القيادية الوجودية (The Leadership Diamond)"

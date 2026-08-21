@@ -1,6 +1,6 @@
 ---
 slug: "thk-wmuller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2119"
 type: "مفكر"
 level: "متقدم"
 title: "فِرنَر مولَر"

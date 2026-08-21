@@ -1,6 +1,6 @@
 ---
 slug: "thk-mlinehan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1599"
 type: "مفكر"
 level: "متقدم"
 title: "مارشا لينهان"

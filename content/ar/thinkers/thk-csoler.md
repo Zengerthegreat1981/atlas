@@ -1,6 +1,6 @@
 ---
 slug: "thk-csoler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0866"
 type: "مفكر"
 level: "متوسط"
 title: "كوليت سولر"

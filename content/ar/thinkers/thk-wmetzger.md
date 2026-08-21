@@ -1,6 +1,6 @@
 ---
 slug: "thk-wmetzger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2116"
 type: "مفكر"
 level: "متوسط"
 title: "فولفغانغ ميتزغر"

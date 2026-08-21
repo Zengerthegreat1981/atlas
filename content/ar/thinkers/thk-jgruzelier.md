@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgruzelier"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1285"
 type: "مفكر"
 level: "متوسط"
 title: "جون غروزولير"

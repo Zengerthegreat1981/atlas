@@ -1,6 +1,6 @@
 ---
 slug: "thk-gferri"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1085"
 type: "مفكر"
 level: "متوسط"
 title: "جينوفينو فيري"

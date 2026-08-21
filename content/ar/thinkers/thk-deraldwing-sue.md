@@ -1,6 +1,6 @@
 ---
 slug: "thk-deraldwing-sue"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0915"
 type: "مفكر"
 level: "متقدم"
 title: "ديرالد وينغ سو"

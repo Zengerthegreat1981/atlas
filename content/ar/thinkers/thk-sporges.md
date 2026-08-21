@@ -1,6 +1,6 @@
 ---
 slug: "thk-sporges"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1978"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن بورجِس"

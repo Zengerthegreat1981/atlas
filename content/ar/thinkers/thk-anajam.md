@@ -1,6 +1,6 @@
 ---
 slug: "thk-anajam"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0692"
 type: "مفكر"
 level: "متوسط"
 title: "عادل نجّام"

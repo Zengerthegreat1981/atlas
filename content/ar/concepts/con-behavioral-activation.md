@@ -1,6 +1,6 @@
 ---
 slug: "con-behavioral-activation"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0456"
 type: "مفهوم"
 level: "مبتدئ"
 title: "التنشيط السلوكي (مفهوم علاجي)"

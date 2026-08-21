@@ -1,6 +1,6 @@
 ---
 slug: "thk-rpicard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1863"
 type: "مفكر"
 level: "متقدم"
 title: "روزاليند بيكار"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-kant-critical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0167"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

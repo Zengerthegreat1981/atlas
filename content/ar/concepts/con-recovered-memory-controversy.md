@@ -1,6 +1,6 @@
 ---
 slug: "con-recovered-memory-controversy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0706"
 type: "مفهوم"
 level: "متقدم"
 title: "الجدل حول الذاكرة المُستعادة"

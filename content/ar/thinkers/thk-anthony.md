@@ -1,6 +1,6 @@
 ---
 slug: "thk-anthony"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0700"
 type: "مفكر"
 level: "متوسط"
 title: "ماغي أنتوني"

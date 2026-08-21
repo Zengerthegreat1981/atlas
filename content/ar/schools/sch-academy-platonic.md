@@ -1,6 +1,6 @@
 ---
 slug: "sch-academy-platonic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0004"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

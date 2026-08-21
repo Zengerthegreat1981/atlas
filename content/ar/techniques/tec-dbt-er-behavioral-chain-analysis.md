@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-behavioral-chain-analysis"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0160"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "تحليل السلسلة السلوكية"

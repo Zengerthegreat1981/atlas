@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgedo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1277"
 type: "مفكر"
 level: "متوسط"
 title: "جون جيدو"

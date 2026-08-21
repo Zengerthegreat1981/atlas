@@ -1,6 +1,6 @@
 ---
 slug: "con-historical-materialism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0588"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-cantaki"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0811"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز أنطاكي"

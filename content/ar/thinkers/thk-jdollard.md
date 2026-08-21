@@ -1,6 +1,6 @@
 ---
 slug: "thk-jdollard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1262"
 type: "مفكر"
 level: "متوسط"
 title: "جون دولارد"

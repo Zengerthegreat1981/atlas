@@ -1,6 +1,6 @@
 ---
 slug: "sch-hindutva"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0136"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

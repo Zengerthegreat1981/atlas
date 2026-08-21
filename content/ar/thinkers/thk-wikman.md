@@ -1,6 +1,6 @@
 ---
 slug: "thk-wikman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2104"
 type: "مفكر"
 level: "متوسط"
 title: "مونيكا ويكمان"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-hkawai"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1156"
 type: "مفكر"
 level: "متقدم"
 title: "هياو كاواي"

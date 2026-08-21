@@ -1,6 +1,6 @@
 ---
 slug: "thk-tmoriyama"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2049"
 type: "مفكر"
 level: "متوسط"
 title: "تِتسومي موريياما"

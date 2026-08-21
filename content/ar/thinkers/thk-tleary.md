@@ -1,6 +1,6 @@
 ---
 slug: "thk-tleary"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2045"
 type: "مفكر"
 level: "متوسط"
 title: "تيموثي ليري"

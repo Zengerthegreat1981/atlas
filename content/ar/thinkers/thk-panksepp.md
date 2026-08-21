@@ -1,6 +1,6 @@
 ---
 slug: "thk-panksepp"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1704"
 type: "مفكر"
 level: "متقدم"
 title: "جاك بانكسيب"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-sharper"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1939"
 type: "مفكر"
 level: "متوسط"
 title: "سوزان هاربر"

@@ -1,6 +1,6 @@
 ---
 slug: "con-ziran"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0797"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jrotter"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1344"
 type: "مفكر"
 level: "متقدم"
 title: "جوليان ب. روتّر"

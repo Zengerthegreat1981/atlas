@@ -1,6 +1,6 @@
 ---
 slug: "dbt-psychotherapy-vs-pharmacotherapy-depression"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0342"
 type: "جدل"
 level: "متقدم"
 title: "جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم"

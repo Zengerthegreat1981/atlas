@@ -1,6 +1,6 @@
 ---
 slug: "ins-madrs"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0051"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

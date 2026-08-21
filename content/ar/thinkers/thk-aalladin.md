@@ -1,6 +1,6 @@
 ---
 slug: "thk-aalladin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0632"
 type: "مفكر"
 level: "متقدم"
 title: "آسين علادين"

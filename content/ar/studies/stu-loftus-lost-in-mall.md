@@ -1,6 +1,6 @@
 ---
 slug: "stu-loftus-lost-in-mall"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0068"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة لوفتوس وبيكريل حول زرع الذكريات الزائفة لـ 'الضياع في المركز التجاري'"

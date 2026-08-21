@@ -1,6 +1,6 @@
 ---
 slug: "sch-feminism-marxist"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0112"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

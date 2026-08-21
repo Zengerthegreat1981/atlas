@@ -1,6 +1,6 @@
 ---
 slug: "br-advanced-aba-prt-vb"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0109"
 type: "تيار"
 level: "متقدم"
 title: "ABA المتقدم (PRT و Verbal Behavior)"

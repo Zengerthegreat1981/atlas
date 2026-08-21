@@ -1,6 +1,6 @@
 ---
 slug: "sch-kaupapa-maori"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0172"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-kgolding"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1393"
 type: "مفكر"
 level: "متوسط"
 title: "كيم غولدنغ"

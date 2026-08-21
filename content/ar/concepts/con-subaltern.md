@@ -1,6 +1,6 @@
 ---
 slug: "con-subaltern"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0755"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

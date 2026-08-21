@@ -1,6 +1,6 @@
 ---
 slug: "syn-anomic-aphasia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0011"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

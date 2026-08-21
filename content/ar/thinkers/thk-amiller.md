@@ -1,6 +1,6 @@
 ---
 slug: "thk-amiller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0682"
 type: "مفكر"
 level: "متوسط"
 title: "أليس ميلر"

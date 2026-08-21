@@ -1,6 +1,6 @@
 ---
 slug: "con-shu"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0738"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

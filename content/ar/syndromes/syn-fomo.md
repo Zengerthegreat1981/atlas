@@ -1,6 +1,6 @@
 ---
 slug: "syn-fomo"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0067"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

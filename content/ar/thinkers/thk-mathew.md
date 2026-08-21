@@ -1,6 +1,6 @@
 ---
 slug: "thk-mathew"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1525"
 type: "مفكر"
 level: "متوسط"
 title: "مايكل ماثيوز"

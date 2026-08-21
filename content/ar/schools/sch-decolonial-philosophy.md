@@ -1,6 +1,6 @@
 ---
 slug: "sch-decolonial-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0083"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

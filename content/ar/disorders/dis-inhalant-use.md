@@ -1,6 +1,6 @@
 ---
 slug: "dis-inhalant-use"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0060"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب استخدام المواد المستنشقة"

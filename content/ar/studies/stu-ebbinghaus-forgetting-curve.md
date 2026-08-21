@@ -1,6 +1,6 @@
 ---
 slug: "stu-ebbinghaus-forgetting-curve"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0036"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب إبنغهاوس في الحفظ والنسيان ومنحنى الاستبقاء"

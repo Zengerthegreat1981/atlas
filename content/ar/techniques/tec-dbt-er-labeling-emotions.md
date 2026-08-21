@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-labeling-emotions"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0165"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تسمية المشاعر"

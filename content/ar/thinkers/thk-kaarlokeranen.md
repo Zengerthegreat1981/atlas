@@ -1,6 +1,6 @@
 ---
 slug: "thk-kaarlokeranen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1367"
 type: "مفكر"
 level: "متقدم"
 title: "كارلو كيرانن"

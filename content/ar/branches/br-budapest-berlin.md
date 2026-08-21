@@ -1,6 +1,6 @@
 ---
 slug: "br-budapest-berlin"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0122"
 type: "تيار"
 level: "متوسط"
 title: "مدرسة بودابست وبرلين التحليلية التاريخية"

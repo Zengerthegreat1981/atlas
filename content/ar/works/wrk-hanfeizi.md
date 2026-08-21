@@ -1,6 +1,6 @@
 ---
 slug: "wrk-hanfeizi"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0336"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-bps-founding-1901"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0015"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "تأسيس جمعية علم النفس البريطانية في كلية لندن الجامعية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgoodman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1278"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

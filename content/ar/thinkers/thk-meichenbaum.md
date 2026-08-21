@@ -1,6 +1,6 @@
 ---
 slug: "thk-meichenbaum"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1549"
 type: "مفكر"
 level: "متوسط"
 title: "دونالد ميشينباوم"

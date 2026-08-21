@@ -1,6 +1,6 @@
 ---
 slug: "thk-edward-de-bono"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0981"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-rescorla-wagner-blocking"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0088"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب ريسكورلا وكامين حول ظاهرة الحجب والاقتران الإشراطي"

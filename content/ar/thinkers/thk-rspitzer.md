@@ -1,6 +1,6 @@
 ---
 slug: "thk-rspitzer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1877"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت سبيتزر"

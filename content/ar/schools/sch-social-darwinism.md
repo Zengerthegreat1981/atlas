@@ -1,6 +1,6 @@
 ---
 slug: "sch-social-darwinism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0292"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

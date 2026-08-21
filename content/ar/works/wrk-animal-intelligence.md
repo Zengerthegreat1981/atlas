@@ -1,6 +1,6 @@
 ---
 slug: "wrk-animal-intelligence"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0230"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "ذكاء الحيوان"

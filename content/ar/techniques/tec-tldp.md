@@ -1,6 +1,6 @@
 ---
 slug: "tec-tldp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0323"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الديناميكي المحدد زمنياً (TLDP)"

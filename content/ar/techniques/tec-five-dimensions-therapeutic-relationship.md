@@ -1,6 +1,6 @@
 ---
 slug: "tec-five-dimensions-therapeutic-relationship"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0220"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "نموذج الأبعاد الخمسة للعلاقة العلاجية"

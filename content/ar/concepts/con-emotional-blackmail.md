@@ -1,6 +1,6 @@
 ---
 slug: "con-emotional-blackmail"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0533"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

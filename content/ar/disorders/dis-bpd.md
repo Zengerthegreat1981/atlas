@@ -1,6 +1,6 @@
 ---
 slug: "dis-bpd"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0022"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الشخصية الحدّية (BPD)"

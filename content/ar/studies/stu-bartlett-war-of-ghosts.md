@@ -1,6 +1,6 @@
 ---
 slug: "stu-bartlett-war-of-ghosts"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0013"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب بارتليت حول تذكر قصة 'حرب الأشباح' والذاكرة التخطيطية"

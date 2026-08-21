@@ -1,6 +1,6 @@
 ---
 slug: "thk-wkroger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2114"
 type: "مفكر"
 level: "متوسط"
 title: "وليام كروغر"

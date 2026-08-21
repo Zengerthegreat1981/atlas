@@ -1,6 +1,6 @@
 ---
 slug: "syn-tourette"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0176"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

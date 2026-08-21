@@ -1,6 +1,6 @@
 ---
 slug: "thk-dwchen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0963"
 type: "مفكر"
 level: "مبتدئ"
 title: "دونغ-وي تشن"

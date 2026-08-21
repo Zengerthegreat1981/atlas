@@ -1,6 +1,6 @@
 ---
 slug: "con-madonna-whore-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0629"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

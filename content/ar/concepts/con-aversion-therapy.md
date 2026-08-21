@@ -1,6 +1,6 @@
 ---
 slug: "con-aversion-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0452"
 type: "مفهوم"
 level: "متوسط"
 title: "علاج النفور (تاريخي)"

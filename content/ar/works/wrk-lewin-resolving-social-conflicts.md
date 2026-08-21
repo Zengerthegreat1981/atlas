@@ -1,6 +1,6 @@
 ---
 slug: "wrk-lewin-resolving-social-conflicts"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0372"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "حلّ الصراعات الاجتماعية (Resolving Social Conflicts)"

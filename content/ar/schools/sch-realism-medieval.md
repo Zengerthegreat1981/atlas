@@ -1,6 +1,6 @@
 ---
 slug: "sch-realism-medieval"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0265"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gsmith"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1119"
 type: "مفكر"
 level: "مبتدئ"
 title: "غراهام سميث"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-morne"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1619"
 type: "مفكر"
 level: "متوسط"
 title: "مارتن أورن"

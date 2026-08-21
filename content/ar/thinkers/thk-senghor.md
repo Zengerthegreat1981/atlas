@@ -1,6 +1,6 @@
 ---
 slug: "thk-senghor"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1923"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

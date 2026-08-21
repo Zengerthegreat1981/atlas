@@ -1,6 +1,6 @@
 ---
 slug: "wrk-consolation-philosophy"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0271"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

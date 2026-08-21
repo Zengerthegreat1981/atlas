@@ -1,6 +1,6 @@
 ---
 slug: "evt-apa-founding-1892"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0009"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس جمعية علم النفس الأمريكية في جامعة بنسلفانيا"

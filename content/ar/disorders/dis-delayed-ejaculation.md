@@ -1,6 +1,6 @@
 ---
 slug: "dis-delayed-ejaculation"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0030"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "تأخر القذف"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-scas-spence-children"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0069"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

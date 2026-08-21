@@ -1,6 +1,6 @@
 ---
 slug: "wrk-mating-in-captivity"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0385"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

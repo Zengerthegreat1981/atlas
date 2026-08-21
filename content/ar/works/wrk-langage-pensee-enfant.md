@@ -1,6 +1,6 @@
 ---
 slug: "wrk-langage-pensee-enfant"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0368"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "اللغة والفكر عند الطفل"

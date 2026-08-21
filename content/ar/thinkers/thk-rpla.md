@@ -1,6 +1,6 @@
 ---
 slug: "thk-rpla"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1865"
 type: "مفكر"
 level: "متوسط"
 title: "روبرتو خ. بلاث"

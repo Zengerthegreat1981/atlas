@@ -1,6 +1,6 @@
 ---
 slug: "ins-bender-gestalt"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0014"
 type: "أداة قياس"
 level: "متوسط"
 title: "اختبار بندر-غشطالت البصري الحركي"

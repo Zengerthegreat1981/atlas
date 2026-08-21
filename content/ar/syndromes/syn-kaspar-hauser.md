@@ -1,6 +1,6 @@
 ---
 slug: "syn-kaspar-hauser"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0099"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

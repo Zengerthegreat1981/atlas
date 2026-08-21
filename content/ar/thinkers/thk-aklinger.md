@@ -1,6 +1,6 @@
 ---
 slug: "thk-aklinger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0663"
 type: "مفكر"
 level: "متوسط"
 title: "أتسيلا كلاينغر"

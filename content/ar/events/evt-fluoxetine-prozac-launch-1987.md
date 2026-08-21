@@ -1,6 +1,6 @@
 ---
 slug: "evt-fluoxetine-prozac-launch-1987"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0039"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "طرح عقار الفلوكسيتين وثورة مضادات الاكتئاب الحديثة وتغيير الثقافة الشعبية"

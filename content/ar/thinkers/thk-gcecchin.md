@@ -1,6 +1,6 @@
 ---
 slug: "thk-gcecchin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1073"
 type: "مفكر"
 level: "متقدم"
 title: "جيانفرانكو تشيكين"

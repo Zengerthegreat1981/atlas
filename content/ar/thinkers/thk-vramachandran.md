@@ -1,6 +1,6 @@
 ---
 slug: "thk-vramachandran"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2084"
 type: "مفكر"
 level: "متقدم"
 title: "فينسنت س. راماشاندران"

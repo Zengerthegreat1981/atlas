@@ -1,6 +1,6 @@
 ---
 slug: "thk-kmurah"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1410"
 type: "مفكر"
 level: "متوسط"
 title: "[مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA]"

@@ -1,6 +1,6 @@
 ---
 slug: "dis-psychological-factors-medical"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0082"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "العوامل النفسية المؤثرة في حالات طبية أخرى"

@@ -1,6 +1,6 @@
 ---
 slug: "con-four-principles-ogden"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0560"
 type: "مفهوم"
 level: "متقدم"
 title: "المبادئ الأربعة للوظيفة الذهنية (أوغدن)"

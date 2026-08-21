@@ -1,6 +1,6 @@
 ---
 slug: "thk-oliver-burkeman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1695"
 type: "مفكر"
 part: "psychology"
 register: "popular"

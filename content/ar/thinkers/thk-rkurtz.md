@@ -1,6 +1,6 @@
 ---
 slug: "thk-rkurtz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1823"
 type: "مفكر"
 level: "متقدم"
 title: "رون كورتز"

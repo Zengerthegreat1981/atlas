@@ -1,6 +1,6 @@
 ---
 slug: "con-psychotherapy-process"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0693"
 type: "مفهوم"
 level: "متوسط"
 title: "العملية العلاجية والتعاون الوجودي"

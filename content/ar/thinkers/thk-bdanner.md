@@ -1,6 +1,6 @@
 ---
 slug: "thk-bdanner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0742"
 type: "مفكر"
 level: "متوسط"
 title: "بيرنارد دانِفَر"

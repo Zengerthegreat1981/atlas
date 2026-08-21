@@ -1,6 +1,6 @@
 ---
 slug: "tec-contemplative-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0135"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج النفسي التأملي (جامعة ناروبا)"

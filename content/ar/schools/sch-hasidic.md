@@ -1,6 +1,6 @@
 ---
 slug: "sch-hasidic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0125"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

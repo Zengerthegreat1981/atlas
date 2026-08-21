@@ -1,6 +1,6 @@
 ---
 slug: "evt-goering-institute-nazi-psychology-1936"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0040"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس معهد غورينغ وتطهير وحظر التحليل النفسي الفرويدي في ألمانيا النازية"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-cotard"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0039"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

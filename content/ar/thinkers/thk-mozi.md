@@ -1,6 +1,6 @@
 ---
 slug: "thk-mozi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1620"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-icheolhong"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1190"
 type: "مفكر"
 level: "مبتدئ"
 title: "تشو هي-سو"

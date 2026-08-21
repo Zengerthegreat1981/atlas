@@ -1,6 +1,6 @@
 ---
 slug: "thk-rhassan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1805"
 type: "مفكر"
 level: "متوسط"
 title: "رفة حسن"

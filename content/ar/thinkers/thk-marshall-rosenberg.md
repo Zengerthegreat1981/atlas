@@ -1,6 +1,6 @@
 ---
 slug: "thk-marshall-rosenberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1514"
 type: "مفكر"
 part: "psychology"
 register: "popular"

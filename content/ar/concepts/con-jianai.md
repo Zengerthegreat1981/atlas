@@ -1,6 +1,6 @@
 ---
 slug: "con-jianai"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0610"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

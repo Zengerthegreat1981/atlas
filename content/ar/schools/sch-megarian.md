@@ -1,6 +1,6 @@
 ---
 slug: "sch-megarian"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0196"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-irigaray"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1202"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

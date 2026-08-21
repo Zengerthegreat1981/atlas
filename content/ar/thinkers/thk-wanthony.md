@@ -1,6 +1,6 @@
 ---
 slug: "thk-wanthony"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2091"
 type: "مفكر"
 level: "متوسط"
 title: "ويليام أنتوني"

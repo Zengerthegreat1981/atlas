@@ -1,6 +1,6 @@
 ---
 slug: "sch-chinese-liberalism-modern"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0061"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

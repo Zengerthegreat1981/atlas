@@ -1,6 +1,6 @@
 ---
 slug: "tec-eft-individual"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0206"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المرتكز على العاطفة للأفراد (EFT)"

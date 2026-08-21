@@ -1,6 +1,6 @@
 ---
 slug: "br-lgbtq-counseling"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0168"
 type: "تيار"
 level: "متوسط"
 title: "الإرشاد الخاص بالأقليات الجنسية والجندرية (LGBTQ+ Counseling)"

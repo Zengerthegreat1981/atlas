@@ -1,6 +1,6 @@
 ---
 slug: "syn-angelman-happy-puppet"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0009"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

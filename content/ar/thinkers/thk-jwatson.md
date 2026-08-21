@@ -1,6 +1,6 @@
 ---
 slug: "thk-jwatson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1358"
 type: "مفكر"
 level: "متقدم"
 title: "جون ب. واتسون"

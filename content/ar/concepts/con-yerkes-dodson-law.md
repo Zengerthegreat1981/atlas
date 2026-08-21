@@ -1,6 +1,6 @@
 ---
 slug: "con-yerkes-dodson-law"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0791"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

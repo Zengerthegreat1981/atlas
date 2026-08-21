@@ -1,6 +1,6 @@
 ---
 slug: "thk-aschore"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0710"
 type: "مفكر"
 level: "متقدم"
 title: "ألان شور"

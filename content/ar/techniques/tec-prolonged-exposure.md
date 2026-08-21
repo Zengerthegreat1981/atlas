@@ -1,6 +1,6 @@
 ---
 slug: "tec-prolonged-exposure"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0282"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التعرض المطوّل (PE)"

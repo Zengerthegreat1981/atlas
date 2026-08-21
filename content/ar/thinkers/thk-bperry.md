@@ -1,6 +1,6 @@
 ---
 slug: "thk-bperry"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0783"
 type: "مفكر"
 level: "متقدم"
 title: "بروس د. بيري"

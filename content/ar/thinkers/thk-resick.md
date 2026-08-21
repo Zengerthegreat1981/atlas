@@ -1,6 +1,6 @@
 ---
 slug: "thk-resick"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1800"
 type: "مفكر"
 level: "متوسط"
 title: "باتريشيا أ. ريسك"

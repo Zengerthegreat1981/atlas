@@ -1,6 +1,6 @@
 ---
 slug: "syn-st-vitus-dance"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0164"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

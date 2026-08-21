@@ -1,6 +1,6 @@
 ---
 slug: "sch-neoplatonism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0216"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

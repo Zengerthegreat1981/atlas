@@ -1,6 +1,6 @@
 ---
 slug: "syn-night-eating"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0124"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

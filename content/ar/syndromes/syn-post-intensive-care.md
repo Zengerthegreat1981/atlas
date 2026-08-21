@@ -1,6 +1,6 @@
 ---
 slug: "syn-post-intensive-care"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0138"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

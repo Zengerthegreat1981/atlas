@@ -1,6 +1,6 @@
 ---
 slug: "thk-wang-yangming"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2090"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

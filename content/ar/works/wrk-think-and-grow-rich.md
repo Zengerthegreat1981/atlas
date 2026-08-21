@@ -1,6 +1,6 @@
 ---
 slug: "wrk-think-and-grow-rich"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0466"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

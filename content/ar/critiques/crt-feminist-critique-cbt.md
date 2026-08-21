@@ -1,6 +1,6 @@
 ---
 slug: "crt-feminist-critique-cbt"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0008"
 type: "نقد خارجي موثَّق"
 level: "متوسط"
 title: "النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة"

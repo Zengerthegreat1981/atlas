@@ -1,6 +1,6 @@
 ---
 slug: "thk-jonathan-haidt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1327"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ambedkar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0680"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

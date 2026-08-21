@@ -1,6 +1,6 @@
 ---
 slug: "sch-logical-atomism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0186"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-structural-family-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0315"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج الأسري البنيوي"

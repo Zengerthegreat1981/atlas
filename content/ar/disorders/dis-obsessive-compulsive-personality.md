@@ -1,6 +1,6 @@
 ---
 slug: "dis-obsessive-compulsive-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0071"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الشخصية الوسواسية"

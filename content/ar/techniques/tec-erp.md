@@ -1,6 +1,6 @@
 ---
 slug: "tec-erp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0213"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التعرض ومنع الاستجابة (ERP)"

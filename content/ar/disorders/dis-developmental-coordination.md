@@ -1,6 +1,6 @@
 ---
 slug: "dis-developmental-coordination"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0037"
 type: "اضطراب/حالة إكلينيكية"
 level: "مبتدئ"
 title: "اضطراب التنسيق التنموي"

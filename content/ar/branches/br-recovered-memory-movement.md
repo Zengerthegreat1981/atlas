@@ -1,6 +1,6 @@
 ---
 slug: "br-recovered-memory-movement"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0199"
 type: "تيار"
 level: "مبتدئ"
 title: "حركة الذاكرة المُستعادة العلاجية"

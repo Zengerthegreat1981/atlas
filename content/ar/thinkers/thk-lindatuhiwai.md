@@ -1,6 +1,6 @@
 ---
 slug: "thk-lindatuhiwai"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1457"
 type: "مفكر"
 level: "متقدم"
 title: "ليندا توهيواي سميث"

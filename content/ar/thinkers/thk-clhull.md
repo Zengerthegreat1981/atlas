@@ -1,6 +1,6 @@
 ---
 slug: "thk-clhull"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0845"
 type: "مفكر"
 level: "متقدم"
 title: "كلارك هـال"

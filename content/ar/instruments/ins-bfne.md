@@ -1,6 +1,6 @@
 ---
 slug: "ins-bfne"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0015"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس الخوف الموجز من التقييم السلبي"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-tathagatagarbha"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0302"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

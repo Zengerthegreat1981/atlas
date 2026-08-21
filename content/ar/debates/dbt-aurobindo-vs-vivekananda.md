@@ -1,6 +1,6 @@
 ---
 slug: "dbt-aurobindo-vs-vivekananda"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0316"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

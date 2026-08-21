@@ -1,6 +1,6 @@
 ---
 slug: "stu-rosenthal-pygmalion"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0093"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة روزنتال وجاكوبسون عن أثر بجماليون والتوقعات في الفصل المدرسي"

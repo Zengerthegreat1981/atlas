@@ -1,6 +1,6 @@
 ---
 slug: "thk-tshibuya"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2063"
 type: "مفكر"
 level: "متوسط"
 title: "تاكيشي شيبويا"

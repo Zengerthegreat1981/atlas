@@ -1,6 +1,6 @@
 ---
 slug: "thk-bentham"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0747"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

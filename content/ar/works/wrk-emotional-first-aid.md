@@ -1,6 +1,6 @@
 ---
 slug: "wrk-emotional-first-aid"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0293"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

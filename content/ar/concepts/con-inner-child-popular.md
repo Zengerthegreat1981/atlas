@@ -1,6 +1,6 @@
 ---
 slug: "con-inner-child-popular"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0597"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

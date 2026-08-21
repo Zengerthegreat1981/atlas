@@ -1,6 +1,6 @@
 ---
 slug: "br-bionian"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0119"
 type: "تيار"
 level: "متقدم"
 title: "مدرسة بيون في التحليل النفسي"

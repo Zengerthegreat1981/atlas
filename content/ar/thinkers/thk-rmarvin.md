@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmarvin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1830"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت مارفن"

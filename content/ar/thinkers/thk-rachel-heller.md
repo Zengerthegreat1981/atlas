@@ -1,6 +1,6 @@
 ---
 slug: "thk-rachel-heller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1770"
 type: "مفكر"
 part: "psychology"
 register: "popular"

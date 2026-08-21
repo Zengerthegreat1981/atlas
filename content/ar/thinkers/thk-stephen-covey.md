@@ -1,6 +1,6 @@
 ---
 slug: "thk-stephen-covey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1991"
 type: "مفكر"
 part: "psychology"
 register: "popular"

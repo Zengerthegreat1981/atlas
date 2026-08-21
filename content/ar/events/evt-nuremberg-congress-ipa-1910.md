@@ -1,6 +1,6 @@
 ---
 slug: "evt-nuremberg-congress-ipa-1910"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0052"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "مؤتمر نورمبرغ وتأسيس الجمعية الدولية للتحليل النفسي"

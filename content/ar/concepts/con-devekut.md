@@ -1,6 +1,6 @@
 ---
 slug: "con-devekut"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0511"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

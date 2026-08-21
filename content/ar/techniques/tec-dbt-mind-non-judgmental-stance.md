@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-non-judgmental-stance"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0186"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الموقف غير الحكمي"

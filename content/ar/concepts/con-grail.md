@@ -1,6 +1,6 @@
 ---
 slug: "con-grail"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0575"
 type: "مفهوم"
 level: "متقدم"
 title: "أسطورة الكأس المقدسة (الغرال)"

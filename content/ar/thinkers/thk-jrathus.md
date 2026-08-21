@@ -1,6 +1,6 @@
 ---
 slug: "thk-jrathus"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1340"
 type: "مفكر"
 level: "متوسط"
 title: "جيل راثوس"

@@ -1,6 +1,6 @@
 ---
 slug: "con-gelassenheit"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0568"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-drama-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0204"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج بالدراما والمسرح"

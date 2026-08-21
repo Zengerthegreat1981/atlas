@@ -1,6 +1,6 @@
 ---
 slug: "wrk-experimental-psychology-titchener"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0305"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "علم النفس التجريبي: دليل للممارسة المخبرية"

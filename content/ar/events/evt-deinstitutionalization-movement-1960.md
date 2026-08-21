@@ -1,6 +1,6 @@
 ---
 slug: "evt-deinstitutionalization-movement-1960"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0024"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "حركة إلغاء المأسسة وتفريغ المصحات النفسية الكبرى في أمريكا وأوروبا"

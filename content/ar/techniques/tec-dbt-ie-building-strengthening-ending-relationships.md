@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-building-strengthening-ending-relationships"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0172"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "مهارات بناء وتقوية وإنهاء العلاقات"

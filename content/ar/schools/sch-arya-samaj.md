@@ -1,6 +1,6 @@
 ---
 slug: "sch-arya-samaj"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0035"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

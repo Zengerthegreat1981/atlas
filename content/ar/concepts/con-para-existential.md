@@ -1,6 +1,6 @@
 ---
 slug: "con-para-existential"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0665"
 type: "مفهوم"
 level: "متقدم"
 title: "الوجود البارونيكي / الجمالي"

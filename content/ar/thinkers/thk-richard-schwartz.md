@@ -1,6 +1,6 @@
 ---
 slug: "thk-richard-schwartz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1810"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

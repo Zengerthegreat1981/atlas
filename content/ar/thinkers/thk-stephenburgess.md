@@ -1,6 +1,6 @@
 ---
 slug: "thk-stephenburgess"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1995"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن بورغس"

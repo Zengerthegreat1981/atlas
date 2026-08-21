@@ -1,6 +1,6 @@
 ---
 slug: "thk-ahill"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0654"
 type: "مفكر"
 level: "متوسط"
 title: "أدريان هيل"

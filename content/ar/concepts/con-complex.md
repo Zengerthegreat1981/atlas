@@ -1,6 +1,6 @@
 ---
 slug: "con-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0485"
 type: "مفهوم"
 level: "مبتدئ"
 title: "العقدة النفسية المركبة (Complex)"

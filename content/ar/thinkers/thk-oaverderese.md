@@ -1,6 +1,6 @@
 ---
 slug: "thk-oaverderese"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1693"
 type: "مفكر"
 level: "متوسط"
 title: "أولغا فِرْدِرِيس"

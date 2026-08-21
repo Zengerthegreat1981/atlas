@@ -1,6 +1,6 @@
 ---
 slug: "thk-econrad"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0977"
 type: "مفكر"
 level: "متوسط"
 title: "إيميلي كونراد"

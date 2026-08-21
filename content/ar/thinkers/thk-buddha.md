@@ -1,6 +1,6 @@
 ---
 slug: "thk-buddha"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0797"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

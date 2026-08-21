@@ -1,6 +1,6 @@
 ---
 slug: "syn-briquet"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0026"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

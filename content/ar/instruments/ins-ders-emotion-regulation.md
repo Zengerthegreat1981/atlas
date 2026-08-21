@@ -1,6 +1,6 @@
 ---
 slug: "ins-ders-emotion-regulation"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0028"
 type: "أداة قياس"
 part: "psychology"
 level: "متوسط"

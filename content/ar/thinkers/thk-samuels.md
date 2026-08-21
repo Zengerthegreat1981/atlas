@@ -1,6 +1,6 @@
 ---
 slug: "thk-samuels"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1902"
 type: "مفكر"
 level: "متقدم"
 title: "أندرو صاموئلز"

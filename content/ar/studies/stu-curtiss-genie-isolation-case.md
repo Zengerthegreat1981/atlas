@@ -1,6 +1,6 @@
 ---
 slug: "stu-curtiss-genie-isolation-case"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0027"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة كيرتس للحالة 'جيني' والحرمان اللغوي والاجتماعي الشديد"

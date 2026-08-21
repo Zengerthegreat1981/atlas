@@ -1,6 +1,6 @@
 ---
 slug: "wrk-lucifer-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0380"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

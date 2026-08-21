@@ -1,6 +1,6 @@
 ---
 slug: "thk-ulanov"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2071"
 type: "مفكر"
 level: "متقدم"
 title: "أَنيت وَلانوف"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-dhat"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0048"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

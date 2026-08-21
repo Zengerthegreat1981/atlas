@@ -1,6 +1,6 @@
 ---
 slug: "thk-yongjingqi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2140"
 type: "مفكر"
 level: "متوسط"
 title: "يونغ جينغ تشي"

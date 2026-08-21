@@ -1,6 +1,6 @@
 ---
 slug: "thk-kkoffka"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1403"
 type: "مفكر"
 level: "متقدم"
 title: "كورت كوفكا"

@@ -1,6 +1,6 @@
 ---
 slug: "br-intersectional-feminist"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0162"
 type: "تيار"
 level: "متقدم"
 title: "علم النفس النسوي التقاطعي"

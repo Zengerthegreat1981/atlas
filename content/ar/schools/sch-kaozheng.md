@@ -1,6 +1,6 @@
 ---
 slug: "sch-kaozheng"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0169"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-hexaco"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0042"
 type: "أداة قياس"
 level: "متقدم"
 title: "قائمة هيكساكو لسمات الشخصية الست"

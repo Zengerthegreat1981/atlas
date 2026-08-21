@@ -1,6 +1,6 @@
 ---
 slug: "thk-johnshlien"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1326"
 type: "مفكر"
 level: "متوسط"
 title: "جون شلين"

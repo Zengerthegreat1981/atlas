@@ -1,6 +1,6 @@
 ---
 slug: "thk-isaacs"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1207"
 type: "مفكر"
 level: "متقدم"
 title: "سوزان إسكس"

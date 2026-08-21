@@ -1,6 +1,6 @@
 ---
 slug: "tec-holotropic-breathwork"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0230"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التنفس الهولوتروبي"

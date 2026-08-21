@@ -1,6 +1,6 @@
 ---
 slug: "con-goddess"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0574"
 type: "مفهوم"
 level: "متوسط"
 title: "أركيتيبات الإلهات والصور الداخلية"

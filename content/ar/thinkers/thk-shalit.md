@@ -1,6 +1,6 @@
 ---
 slug: "thk-shalit"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1934"
 type: "مفكر"
 level: "متقدم"
 title: "إيريل شاليت"

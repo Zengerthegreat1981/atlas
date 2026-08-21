@@ -1,6 +1,6 @@
 ---
 slug: "sch-virtue-ethics"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0325"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

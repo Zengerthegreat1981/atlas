@@ -1,6 +1,6 @@
 ---
 slug: "thk-amy-morgan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0690"
 type: "مفكر"
 level: "متوسط"
 title: "إيمي مورغان"

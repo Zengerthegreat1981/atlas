@@ -1,6 +1,6 @@
 ---
 slug: "evt-sakel-insulin-shock-therapy-1933"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0057"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "ابتكار مانفريد ساكل للعلاج بغيبوبة الأنسولين وانتشاره ثم التخلي عنه"

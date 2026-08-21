@@ -1,6 +1,6 @@
 ---
 slug: "thk-lwittgenstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1484"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

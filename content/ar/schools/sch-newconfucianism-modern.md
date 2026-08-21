@@ -1,6 +1,6 @@
 ---
 slug: "sch-newconfucianism-modern"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0220"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

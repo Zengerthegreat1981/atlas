@@ -1,6 +1,6 @@
 ---
 slug: "con-taijin-kyofusho-concept"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0764"
 type: "مفهوم"
 level: "متوسط"
 title: "تاي جين كيو فوشو (مفهوم ثقافي)"

@@ -1,6 +1,6 @@
 ---
 slug: "con-dialectical-abstinence"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0514"
 type: "مفهوم"
 level: "متوسط"
 title: "الامتناع الجدلي"

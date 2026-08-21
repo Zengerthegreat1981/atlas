@@ -1,6 +1,6 @@
 ---
 slug: "tec-forgiveness-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0224"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "علاج التسامح والغفران"

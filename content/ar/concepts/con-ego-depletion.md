@@ -1,6 +1,6 @@
 ---
 slug: "con-ego-depletion"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0528"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

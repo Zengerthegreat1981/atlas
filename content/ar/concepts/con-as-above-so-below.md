@@ -1,6 +1,6 @@
 ---
 slug: "con-as-above-so-below"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0445"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

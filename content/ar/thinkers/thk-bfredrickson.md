@@ -1,6 +1,6 @@
 ---
 slug: "thk-bfredrickson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0754"
 type: "مفكر"
 level: "متوسط"
 title: "باربرا فريدريكسون"

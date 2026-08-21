@@ -1,6 +1,6 @@
 ---
 slug: "thk-wzhang"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2130"
 type: "مفكر"
 level: "متوسط"
 title: "وي تشانغ"

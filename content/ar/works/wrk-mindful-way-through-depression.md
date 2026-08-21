@@ -1,6 +1,6 @@
 ---
 slug: "wrk-mindful-way-through-depression"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0393"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

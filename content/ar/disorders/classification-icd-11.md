@@ -1,6 +1,6 @@
 ---
 slug: "classification-icd-11"
-id: "[DRAFT-UNKNOWN]"
+id: "CLS-0002"
 type: "نظام تصنيف"
 level: "مبتدئ"
 title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)"

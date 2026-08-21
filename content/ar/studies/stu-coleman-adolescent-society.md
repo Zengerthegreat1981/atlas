@@ -1,6 +1,6 @@
 ---
 slug: "stu-coleman-adolescent-society"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0024"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة جيمس كولمان حول المجتمع المراهق وضغوط ثقافة الأقران"

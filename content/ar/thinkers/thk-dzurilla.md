@@ -1,6 +1,6 @@
 ---
 slug: "thk-dzurilla"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0967"
 type: "مفكر"
 level: "متوسط"
 title: "توماس ج. دزوريلا"

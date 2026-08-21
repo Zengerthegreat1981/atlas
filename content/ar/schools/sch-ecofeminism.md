@@ -1,6 +1,6 @@
 ---
 slug: "sch-ecofeminism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0093"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

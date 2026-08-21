@@ -1,6 +1,6 @@
 ---
 slug: "con-psychological-type"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0692"
 type: "مفهوم"
 level: "متوسط"
 title: "الأنماط النفسية والوظائف المعرفية"

@@ -1,6 +1,6 @@
 ---
 slug: "con-communitarian-self"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0483"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

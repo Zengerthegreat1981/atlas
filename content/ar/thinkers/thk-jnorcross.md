@@ -1,6 +1,6 @@
 ---
 slug: "thk-jnorcross"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1318"
 type: "مفكر"
 level: "متوسط"
 title: "جون نوركروس"

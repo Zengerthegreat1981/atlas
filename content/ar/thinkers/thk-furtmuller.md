@@ -1,6 +1,6 @@
 ---
 slug: "thk-furtmuller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1059"
 type: "مفكر"
 level: "متوسط"
 title: "كارل فورتمولر"

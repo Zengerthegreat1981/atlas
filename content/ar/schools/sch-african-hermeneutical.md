@@ -1,6 +1,6 @@
 ---
 slug: "sch-african-hermeneutical"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0011"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

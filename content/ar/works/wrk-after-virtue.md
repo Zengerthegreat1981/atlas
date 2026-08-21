@@ -1,6 +1,6 @@
 ---
 slug: "wrk-after-virtue"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0224"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

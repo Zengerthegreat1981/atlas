@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-exp-worry-exposure"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0102"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التعرض للقلق"

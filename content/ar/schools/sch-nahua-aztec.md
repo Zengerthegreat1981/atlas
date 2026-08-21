@@ -1,6 +1,6 @@
 ---
 slug: "sch-nahua-aztec"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0207"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

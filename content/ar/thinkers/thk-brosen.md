@@ -1,6 +1,6 @@
 ---
 slug: "thk-brosen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0793"
 type: "مفكر"
 level: "متوسط"
 title: "برنارد روزن"

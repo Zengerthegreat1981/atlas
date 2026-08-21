@@ -1,6 +1,6 @@
 ---
 slug: "thk-smead"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1960"
 type: "مفكر"
 level: "متوسط"
 title: "شيري ميد"

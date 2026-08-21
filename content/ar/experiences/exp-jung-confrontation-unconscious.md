@@ -1,6 +1,6 @@
 ---
 slug: "exp-jung-confrontation-unconscious"
-id: "[DRAFT-UNKNOWN]"
+id: "EXP-0002"
 type: "خبرة معيشة"
 level: "متوسط"
 title: "سرد يونغ الذاتي لخبرة المواجهة مع اللاوعي والكتاب الأحمر"

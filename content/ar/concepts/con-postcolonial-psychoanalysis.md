@@ -1,6 +1,6 @@
 ---
 slug: "con-postcolonial-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0680"
 type: "مفهوم"
 level: "متوسط"
 title: "التحليل النفسي بعد الكولونيالي"

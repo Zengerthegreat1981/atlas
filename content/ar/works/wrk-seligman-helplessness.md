@@ -1,6 +1,6 @@
 ---
 slug: "wrk-seligman-helplessness"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0450"
 type: "عمل / كتاب"
 level: "متوسط"
 title: "العجز المكتسب (Helplessness)"

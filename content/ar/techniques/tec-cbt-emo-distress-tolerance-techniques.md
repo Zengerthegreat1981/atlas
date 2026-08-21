@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-distress-tolerance-techniques"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0093"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنيات تحمل الضغط"

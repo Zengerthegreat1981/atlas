@@ -1,6 +1,6 @@
 ---
 slug: "syn-horner"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0085"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

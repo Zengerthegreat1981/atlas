@@ -1,6 +1,6 @@
 ---
 slug: "syn-cushings-psychosis"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0042"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

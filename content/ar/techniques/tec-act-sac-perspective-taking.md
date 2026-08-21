@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-sac-perspective-taking"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0042"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تبنّي منظور مختلف"

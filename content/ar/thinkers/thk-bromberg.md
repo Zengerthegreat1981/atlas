@@ -1,6 +1,6 @@
 ---
 slug: "thk-bromberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0792"
 type: "مفكر"
 level: "متقدم"
 title: "فيليب برومبرغ"

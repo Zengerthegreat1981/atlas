@@ -1,6 +1,6 @@
 ---
 slug: "wrk-city-of-god"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0268"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

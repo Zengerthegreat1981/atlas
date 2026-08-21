@@ -1,6 +1,6 @@
 ---
 slug: "thk-marisaberkouwer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1507"
 type: "مفكر"
 level: "متوسط"
 title: "ماريسا بيركوور"

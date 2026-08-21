@@ -1,6 +1,6 @@
 ---
 slug: "con-barnum-forer-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0454"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

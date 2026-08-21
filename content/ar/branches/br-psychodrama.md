@@ -1,6 +1,6 @@
 ---
 slug: "br-psychodrama"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0192"
 type: "تيار"
 level: "متوسط"
 title: "السيكودراما والسوسيومتري"

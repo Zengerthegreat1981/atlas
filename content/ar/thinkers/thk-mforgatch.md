@@ -1,6 +1,6 @@
 ---
 slug: "thk-mforgatch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1561"
 type: "مفكر"
 level: "متوسط"
 title: "ماريون فورغاتش"

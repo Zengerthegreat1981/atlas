@@ -1,6 +1,6 @@
 ---
 slug: "thk-ekandel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0989"
 type: "مفكر"
 level: "متقدم"
 title: "إريك كاندِل"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-osilver"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1701"
 type: "مفكر"
 level: "متوسط"
 title: "أولغا سيلفرشتاين"

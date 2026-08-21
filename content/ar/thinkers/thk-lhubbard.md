@@ -1,6 +1,6 @@
 ---
 slug: "thk-lhubbard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1454"
 type: "مفكر"
 level: "مبتدئ"
 title: "ل. رون هوبارد"

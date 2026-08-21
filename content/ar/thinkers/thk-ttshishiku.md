@@ -1,6 +1,6 @@
 ---
 slug: "thk-ttshishiku"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2069"
 type: "مفكر"
 level: "متوسط"
 title: "تِمُوتي تشيشيكو"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-renaissance-humanism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0266"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-gender-trouble"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0322"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

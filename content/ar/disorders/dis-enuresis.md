@@ -1,6 +1,6 @@
 ---
 slug: "dis-enuresis"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0042"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "التبوّل اللاإرادي (Enuresis)"

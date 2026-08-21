@@ -1,6 +1,6 @@
 ---
 slug: "thk-bmoore"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0769"
 type: "مفكر"
 level: "متوسط"
 title: "بوب مور"

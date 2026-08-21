@@ -1,6 +1,6 @@
 ---
 slug: "thk-ipavlov"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1199"
 type: "مفكر"
 level: "متقدم"
 title: "إيفان بافلوف"

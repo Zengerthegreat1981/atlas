@@ -1,6 +1,6 @@
 ---
 slug: "thk-dfosha"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0921"
 type: "مفكر"
 level: "متقدم"
 title: "ديانا فوشا"

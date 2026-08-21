@@ -1,6 +1,6 @@
 ---
 slug: "thk-aalvarez"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0633"
 type: "مفكر"
 level: "متوسط"
 title: "آن ألفاريز"

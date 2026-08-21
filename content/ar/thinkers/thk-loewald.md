@@ -1,6 +1,6 @@
 ---
 slug: "thk-loewald"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1470"
 type: "مفكر"
 level: "متقدم"
 title: "هانز لوفالد"

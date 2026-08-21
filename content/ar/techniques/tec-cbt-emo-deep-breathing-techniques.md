@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-deep-breathing-techniques"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0092"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تقنيات التنفس العميق"

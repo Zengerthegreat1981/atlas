@@ -1,6 +1,6 @@
 ---
 slug: "con-new-democracy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0655"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-blbettner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0764"
 type: "مفكر"
 level: "متوسط"
 title: "بيتي لو بيتنر"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-little-albert-ethical-controversy-1970"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0048"
 type: "حدث تاريخي"
 level: "متوسط"
 title: "المراجعة الأخلاقية لتجربة ليتل ألبرت وصياغة ميثاق حماية المشاركين في الأبحاث"

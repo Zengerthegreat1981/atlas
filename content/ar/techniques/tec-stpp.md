@@ -1,6 +1,6 @@
 ---
 slug: "tec-stpp"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0311"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التحليل النفسي الديناميكي قصير المدى (STPP)"

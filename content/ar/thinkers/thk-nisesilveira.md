@@ -1,6 +1,6 @@
 ---
 slug: "thk-nisesilveira"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1677"
 type: "مفكر"
 level: "متقدم"
 title: "نيسي دا سيلفيرا"

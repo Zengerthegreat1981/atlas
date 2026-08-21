@@ -1,6 +1,6 @@
 ---
 slug: "con-internal-family-systems-popular"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0601"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

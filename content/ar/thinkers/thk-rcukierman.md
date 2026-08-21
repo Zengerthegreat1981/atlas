@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcukierman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1794"
 type: "مفكر"
 level: "متوسط"
 title: "روخِريو كوكيَرمان"

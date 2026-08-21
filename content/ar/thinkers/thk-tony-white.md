@@ -1,6 +1,6 @@
 ---
 slug: "thk-tony-white"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2054"
 type: "مفكر"
 level: "متقدم"
 title: "توني وايت"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-four-agreements"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0314"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

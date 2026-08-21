@@ -1,6 +1,6 @@
 ---
 slug: "sch-philosophy-of-disability"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0244"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "ins-bprs"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0016"
 type: "أداة قياس"
 part: "psychology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mhickey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1569"
 type: "مفكر"
 level: "متوسط"
 title: "مارغريت هيكي"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-cog-decisional-balance-sheet"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0084"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "ميزان القرار (الإيجابيات والسلبيات)"

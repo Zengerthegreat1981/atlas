@@ -1,6 +1,6 @@
 ---
 slug: "thk-cwebster-stratton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0872"
 type: "مفكر"
 level: "متوسط"
 title: "كارولين ويبستر-ستراتون"

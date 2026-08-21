@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-burgess"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1838"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت بَرجِس"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jdavid"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1259"
 type: "مفكر"
 level: "متوسط"
 title: "جوردان ديفيد"

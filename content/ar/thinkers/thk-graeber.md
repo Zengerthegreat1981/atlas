@@ -1,6 +1,6 @@
 ---
 slug: "thk-graeber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1110"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

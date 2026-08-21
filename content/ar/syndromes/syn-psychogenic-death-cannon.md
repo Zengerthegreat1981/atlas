@@ -1,6 +1,6 @@
 ---
 slug: "syn-psychogenic-death-cannon"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0142"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

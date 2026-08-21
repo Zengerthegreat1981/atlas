@@ -1,6 +1,6 @@
 ---
 slug: "thk-wschutz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2124"
 type: "مفكر"
 level: "متوسط"
 title: "ويليام شوتز"

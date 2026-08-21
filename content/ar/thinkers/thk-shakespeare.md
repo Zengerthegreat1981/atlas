@@ -1,6 +1,6 @@
 ---
 slug: "thk-shakespeare"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1933"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

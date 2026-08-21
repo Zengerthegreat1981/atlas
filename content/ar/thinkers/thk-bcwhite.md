@@ -1,6 +1,6 @@
 ---
 slug: "thk-bcwhite"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0741"
 type: "مفكر"
 level: "متوسط"
 title: "برنارد وايت"

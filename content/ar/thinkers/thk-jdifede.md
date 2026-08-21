@@ -1,6 +1,6 @@
 ---
 slug: "thk-jdifede"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1261"
 type: "مفكر"
 level: "متوسط"
 title: "جوان ديفيد"

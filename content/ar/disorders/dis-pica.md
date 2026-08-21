@@ -1,6 +1,6 @@
 ---
 slug: "dis-pica"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0079"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب أكل المواد غير الغذائية (Pica)"

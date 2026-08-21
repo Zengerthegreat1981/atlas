@@ -1,6 +1,6 @@
 ---
 slug: "thk-deniswaitley"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0913"
 type: "مفكر"
 level: "متوسط"
 title: "دينيس ويتلي"

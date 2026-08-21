@@ -1,6 +1,6 @@
 ---
 slug: "thk-ovogt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1703"
 type: "مفكر"
 level: "مبتدئ"
 title: "أوسكار فوغت"

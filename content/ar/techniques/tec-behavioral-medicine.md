@@ -1,6 +1,6 @@
 ---
 slug: "tec-behavioral-medicine"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0064"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الطب السلوكي/الصحة السلوكية (تدخل)"

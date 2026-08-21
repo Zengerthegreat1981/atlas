@@ -1,6 +1,6 @@
 ---
 slug: "thk-lowinsky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1478"
 type: "مفكر"
 level: "متوسط"
 title: "ناعومي روث لوينسكي"

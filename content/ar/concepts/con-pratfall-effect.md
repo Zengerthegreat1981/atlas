@@ -1,6 +1,6 @@
 ---
 slug: "con-pratfall-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0682"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

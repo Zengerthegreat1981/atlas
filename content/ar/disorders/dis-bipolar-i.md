@@ -1,6 +1,6 @@
 ---
 slug: "dis-bipolar-i"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0019"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب ثنائي القطب من النوع الأول"

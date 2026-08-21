@@ -1,6 +1,6 @@
 ---
 slug: "wrk-authentic-happiness"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0241"
 type: "عمل / كتاب"
 register: "popular"
 level: "مبتدئ"

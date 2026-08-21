@@ -1,6 +1,6 @@
 ---
 slug: "con-dao"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0500"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

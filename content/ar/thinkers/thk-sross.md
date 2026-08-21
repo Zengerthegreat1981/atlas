@@ -1,6 +1,6 @@
 ---
 slug: "thk-sross"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1982"
 type: "مفكر"
 level: "متقدم"
 title: "ستيفن روس"

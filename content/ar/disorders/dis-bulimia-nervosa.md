@@ -1,6 +1,6 @@
 ---
 slug: "dis-bulimia-nervosa"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0025"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "النهام العصبي (بوليميا)"

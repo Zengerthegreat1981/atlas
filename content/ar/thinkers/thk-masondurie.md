@@ -1,6 +1,6 @@
 ---
 slug: "thk-masondurie"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1523"
 type: "مفكر"
 level: "متقدم"
 title: "ماسون دوري"

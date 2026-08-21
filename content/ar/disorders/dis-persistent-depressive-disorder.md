@@ -1,6 +1,6 @@
 ---
 slug: "dis-persistent-depressive-disorder"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0078"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الاكتئاب المستمر (عسر المزاج)"

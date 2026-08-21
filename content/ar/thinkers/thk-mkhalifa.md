@@ -1,6 +1,6 @@
 ---
 slug: "thk-mkhalifa"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1595"
 type: "مفكر"
 level: "متوسط"
 title: "محمد خليفة"

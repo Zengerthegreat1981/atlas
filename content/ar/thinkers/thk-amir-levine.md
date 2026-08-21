@@ -1,6 +1,6 @@
 ---
 slug: "thk-amir-levine"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0683"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

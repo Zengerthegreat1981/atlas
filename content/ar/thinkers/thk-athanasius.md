@@ -1,6 +1,6 @@
 ---
 slug: "thk-athanasius"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0717"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

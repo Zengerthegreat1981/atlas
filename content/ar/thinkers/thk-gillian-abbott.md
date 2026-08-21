@@ -1,6 +1,6 @@
 ---
 slug: "thk-gillian-abbott"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1091"
 type: "مفكر"
 level: "متوسط"
 title: "جيليان أبوت"

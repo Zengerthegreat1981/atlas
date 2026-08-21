@@ -1,6 +1,6 @@
 ---
 slug: "thk-spielrein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1972"
 type: "مفكر"
 level: "متقدم"
 title: "سابينا شبيلراين"

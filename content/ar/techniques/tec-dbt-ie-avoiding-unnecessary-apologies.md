@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-ie-avoiding-unnecessary-apologies"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0171"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تجنب الاعتذار غير الضروري"

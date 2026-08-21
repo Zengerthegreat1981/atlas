@@ -1,6 +1,6 @@
 ---
 slug: "syn-neuroleptic-malignant"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0122"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

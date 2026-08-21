@@ -1,6 +1,6 @@
 ---
 slug: "thk-dkirkland"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0932"
 type: "مفكر"
 level: "متوسط"
 title: "دانيال كيركلاند"

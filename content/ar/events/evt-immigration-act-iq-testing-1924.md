@@ -1,6 +1,6 @@
 ---
 slug: "evt-immigration-act-iq-testing-1924"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0045"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "استخدام اختبارات الذكاء في إقرار قانون الهجرة الأمريكي لعام 1924"

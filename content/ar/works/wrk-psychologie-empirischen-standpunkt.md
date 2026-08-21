@@ -1,6 +1,6 @@
 ---
 slug: "wrk-psychologie-empirischen-standpunkt"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0434"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "علم النفس من المنظور التجريبي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-cambray"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0807"
 type: "مفكر"
 level: "متقدم"
 title: "جوزيف كامبري"

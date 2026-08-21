@@ -1,6 +1,6 @@
 ---
 slug: "br-sex-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0211"
 type: "تيار"
 level: "متوسط"
 title: "العلاج الجنسي"

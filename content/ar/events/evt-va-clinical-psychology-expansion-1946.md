@@ -1,6 +1,6 @@
 ---
 slug: "evt-va-clinical-psychology-expansion-1946"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0067"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "التوسع الضخم لإدارة المحاربين القدامى وتأسيس برامج تدريب علم النفس الإكلينيكي"

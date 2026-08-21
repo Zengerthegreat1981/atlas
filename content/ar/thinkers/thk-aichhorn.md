@@ -1,6 +1,6 @@
 ---
 slug: "thk-aichhorn"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0658"
 type: "مفكر"
 level: "متقدم"
 title: "أوغست أيشهورن"

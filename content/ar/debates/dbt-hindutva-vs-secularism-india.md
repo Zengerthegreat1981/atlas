@@ -1,6 +1,6 @@
 ---
 slug: "dbt-hindutva-vs-secularism-india"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0328"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

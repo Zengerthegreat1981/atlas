@@ -1,6 +1,6 @@
 ---
 slug: "thk-bleuler-jung-assoc"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0765"
 type: "مفكر"
 level: "متوسط"
 title: "فرانتس ريكـلين"

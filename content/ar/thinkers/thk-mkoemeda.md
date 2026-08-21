@@ -1,6 +1,6 @@
 ---
 slug: "thk-mkoemeda"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1597"
 type: "مفكر"
 level: "متوسط"
 title: "ماريت كويمِدا-لوتز"

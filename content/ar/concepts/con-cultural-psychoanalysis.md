@@ -1,6 +1,6 @@
 ---
 slug: "con-cultural-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0497"
 type: "مفهوم"
 level: "متوسط"
 title: "التحليل النفسي الثقافي"

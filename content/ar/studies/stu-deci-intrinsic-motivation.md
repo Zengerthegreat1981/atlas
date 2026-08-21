@@ -1,6 +1,6 @@
 ---
 slug: "stu-deci-intrinsic-motivation"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0029"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسات ديسي وراين للتحفيز الداخلي ونظرية التحديد الذاتي"

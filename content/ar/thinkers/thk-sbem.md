@@ -1,6 +1,6 @@
 ---
 slug: "thk-sbem"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1910"
 type: "مفكر"
 level: "متوسط"
 title: "ساندرا بيم"

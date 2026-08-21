@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-abc-please"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0158"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "ايه بي سي بليز (ABC PLEASE) — خفض الهشاشة الانفعالية"

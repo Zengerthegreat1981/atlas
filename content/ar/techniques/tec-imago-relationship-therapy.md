@@ -1,6 +1,6 @@
 ---
 slug: "tec-imago-relationship-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0236"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "علاج العلاقات إيماغو"

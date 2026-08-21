@@ -1,6 +1,6 @@
 ---
 slug: "tec-encounter-groups"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0211"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "مجموعات التلاقي الإنسانية (Encounter Groups)"

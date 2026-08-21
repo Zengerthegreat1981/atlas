@@ -1,6 +1,6 @@
 ---
 slug: "evt-dsm-5-publication-2013"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0031"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "نشر الدليل التشخيصي الخامس والجدل حول التضخم وإلغاء المحاور"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-second-sex"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0447"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

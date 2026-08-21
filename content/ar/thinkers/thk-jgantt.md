@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgantt"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1275"
 type: "مفكر"
 level: "مبتدئ"
 title: "جوزيف غانت"

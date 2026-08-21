@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-val-bullseye-exercise"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0048"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تمرين لوحة الهدف (Bullseye)"

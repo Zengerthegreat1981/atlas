@@ -1,6 +1,6 @@
 ---
 slug: "tec-affirmative-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0056"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج النفسي التوكيدي"

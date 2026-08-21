@@ -1,6 +1,6 @@
 ---
 slug: "dis-schizoaffective"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0087"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "الفصام العاطفي"

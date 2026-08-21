@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-self-rewarding"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0020"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "مكافأة الذات"

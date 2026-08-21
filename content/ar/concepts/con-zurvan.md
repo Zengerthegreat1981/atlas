@@ -1,6 +1,6 @@
 ---
 slug: "con-zurvan"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0798"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tteo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2067"
 type: "مفكر"
 level: "متوسط"
 title: "توماس تِئو"

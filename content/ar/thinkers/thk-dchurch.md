@@ -1,6 +1,6 @@
 ---
 slug: "thk-dchurch"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0905"
 type: "مفكر"
 level: "متوسط"
 title: "داوسون تشيرش"

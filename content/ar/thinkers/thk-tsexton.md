@@ -1,6 +1,6 @@
 ---
 slug: "thk-tsexton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2062"
 type: "مفكر"
 level: "متوسط"
 title: "توني سيكستون"

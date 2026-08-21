@@ -1,6 +1,6 @@
 ---
 slug: "tec-parent-management-training"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0262"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تدريب إدارة السلوك للوالدين (PMT)"

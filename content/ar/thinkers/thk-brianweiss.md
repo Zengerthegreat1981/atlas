@@ -1,6 +1,6 @@
 ---
 slug: "thk-brianweiss"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0791"
 type: "مفكر"
 level: "متوسط"
 title: "برايان وايس"

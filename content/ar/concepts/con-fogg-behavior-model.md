@@ -1,6 +1,6 @@
 ---
 slug: "con-fogg-behavior-model"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0557"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

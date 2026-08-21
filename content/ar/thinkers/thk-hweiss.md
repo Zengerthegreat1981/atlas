@@ -1,6 +1,6 @@
 ---
 slug: "thk-hweiss"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1180"
 type: "مفكر"
 level: "متوسط"
 title: "هارييت وايس"

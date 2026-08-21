@@ -1,6 +1,6 @@
 ---
 slug: "con-orientalism"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0663"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

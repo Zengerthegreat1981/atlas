@@ -1,6 +1,6 @@
 ---
 slug: "evt-army-alpha-beta-ww1-ww2-selection"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0011"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "برامج الاختبارات النفسية الجماعية لفرز وتصنيف المجندين في الجيش الأمريكي"

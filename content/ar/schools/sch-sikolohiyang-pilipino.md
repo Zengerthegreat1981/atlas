@@ -1,6 +1,6 @@
 ---
 slug: "sch-sikolohiyang-pilipino"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0289"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

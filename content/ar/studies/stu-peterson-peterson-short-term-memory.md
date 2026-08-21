@@ -1,6 +1,6 @@
 ---
 slug: "stu-peterson-peterson-short-term-memory"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0082"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "تجربة بيترسون وبيترسون حول تلاشي الذاكرة قصيرة المدى ومنع التسميع"

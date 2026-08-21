@@ -1,6 +1,6 @@
 ---
 slug: "wrk-cinderella-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0267"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

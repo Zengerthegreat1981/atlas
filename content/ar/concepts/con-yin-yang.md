@@ -1,6 +1,6 @@
 ---
 slug: "con-yin-yang"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0792"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ramsden"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1778"
 type: "مفكر"
 level: "متوسط"
 title: "رينيه رامسدن"

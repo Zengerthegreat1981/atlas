@@ -1,6 +1,6 @@
 ---
 slug: "con-law-of-attraction-popular"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0619"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

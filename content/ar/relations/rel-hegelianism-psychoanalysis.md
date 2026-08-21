@@ -1,6 +1,6 @@
 ---
 slug: "rel-hegelianism-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0130"
 type: "علاقة بين مدرستين"
 part: "bridge"
 level: "متقدم"

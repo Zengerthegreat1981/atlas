@@ -1,6 +1,6 @@
 ---
 slug: "stu-dutton-aron-suspension-bridge"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0033"
 type: "دراسة وبحث"
 part: "psychology"
 level: "مبتدئ"

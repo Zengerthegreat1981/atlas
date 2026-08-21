@@ -1,6 +1,6 @@
 ---
 slug: "wrk-huanglao-texts"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0350"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

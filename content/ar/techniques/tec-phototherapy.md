@@ -1,6 +1,6 @@
 ---
 slug: "tec-phototherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0269"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالصور الفوتوغرافية (Phototherapy)"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-recovered-memory-technique"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0289"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تقنية الذاكرة المُستعادة"

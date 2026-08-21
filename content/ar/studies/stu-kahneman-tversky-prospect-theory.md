@@ -1,6 +1,6 @@
 ---
 slug: "stu-kahneman-tversky-prospect-theory"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0056"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متقدم"

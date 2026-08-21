@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-daily-environmental-cues-for-skill-use"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0144"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "محفزات بيئية لتذكّر استخدام المهارة"

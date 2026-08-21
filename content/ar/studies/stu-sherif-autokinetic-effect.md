@@ -1,6 +1,6 @@
 ---
 slug: "stu-sherif-autokinetic-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0099"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

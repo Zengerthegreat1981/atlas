@@ -1,6 +1,6 @@
 ---
 slug: "con-derived-relational-responding"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0510"
 type: "مفهوم"
 level: "متقدم"
 title: "الاستجابة العلائقية المشتقة"

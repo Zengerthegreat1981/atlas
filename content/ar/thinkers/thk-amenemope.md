@@ -1,6 +1,6 @@
 ---
 slug: "thk-amenemope"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0681"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

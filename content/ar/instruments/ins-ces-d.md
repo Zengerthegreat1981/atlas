@@ -1,6 +1,6 @@
 ---
 slug: "ins-ces-d"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0021"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "مقياس مركز الدراسات الوبائية للاكتئاب"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ddiamond"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0907"
 type: "مفكر"
 level: "متوسط"
 title: "دانيال دايموند"

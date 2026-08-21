@@ -1,6 +1,6 @@
 ---
 slug: "sch-mesopotamian-wisdom"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0197"
 type: "مدرسة"
 part: "philosophy"
 level: "مبتدئ"

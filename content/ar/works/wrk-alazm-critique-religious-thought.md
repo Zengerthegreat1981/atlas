@@ -1,6 +1,6 @@
 ---
 slug: "wrk-alazm-critique-religious-thought"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0225"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "نقد الفكر الديني"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-augustinianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0039"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

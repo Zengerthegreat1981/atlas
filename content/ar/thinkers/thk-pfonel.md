@@ -1,6 +1,6 @@
 ---
 slug: "thk-pfonel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1733"
 type: "مفكر"
 level: "متوسط"
 title: "بيتر فونيغي"

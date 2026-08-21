@@ -1,6 +1,6 @@
 ---
 slug: "thk-robertelliott"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1846"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت إليوت"

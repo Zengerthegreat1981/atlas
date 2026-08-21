@@ -1,6 +1,6 @@
 ---
 slug: "thk-mgergen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1562"
 type: "مفكر"
 level: "متوسط"
 title: "ماري جيرغِن"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-coloniality-power-quijano"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0270"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

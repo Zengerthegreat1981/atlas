@@ -1,6 +1,6 @@
 ---
 slug: "thk-ibrenner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1189"
 type: "مفكر"
 level: "متوسط"
 title: "إيرفينغ برينر"

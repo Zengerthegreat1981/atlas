@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmosak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1834"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت موشارك"

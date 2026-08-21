@@ -1,6 +1,6 @@
 ---
 slug: "con-primary-self"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0685"
 type: "مفهوم"
 level: "متقدم"
 title: "الذات الأولية والتفكك التكاملي"

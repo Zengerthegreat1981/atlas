@@ -1,6 +1,6 @@
 ---
 slug: "thk-dhanna"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0925"
 type: "مفكر"
 level: "متوسط"
 title: "فرانك غولدشتاين"

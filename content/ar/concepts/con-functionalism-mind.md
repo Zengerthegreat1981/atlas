@@ -1,6 +1,6 @@
 ---
 slug: "con-functionalism-mind"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0564"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "br-clinical-hypnotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0128"
 type: "تيار"
 level: "متوسط"
 title: "التنويم العلاجي السريري"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-emo-coping-statements"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0091"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "عبارات التأقلم"

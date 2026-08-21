@@ -1,6 +1,6 @@
 ---
 slug: "thk-hartmannheinz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1133"
 type: "مفكر"
 level: "متقدم"
 title: "هاينز هارتمان"

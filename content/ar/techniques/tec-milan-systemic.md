@@ -1,6 +1,6 @@
 ---
 slug: "tec-milan-systemic"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0251"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "مدرسة ميلان النظامية"

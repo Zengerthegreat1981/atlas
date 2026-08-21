@@ -1,6 +1,6 @@
 ---
 slug: "rel-humanistic-existential-gestalt"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0131"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة"

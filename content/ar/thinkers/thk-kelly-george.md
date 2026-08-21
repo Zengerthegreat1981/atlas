@@ -1,6 +1,6 @@
 ---
 slug: "thk-kelly-george"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1384"
 type: "مفكر"
 level: "متوسط"
 title: "جورج ألكسندر كيلي"

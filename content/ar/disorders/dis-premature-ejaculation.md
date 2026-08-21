@@ -1,6 +1,6 @@
 ---
 slug: "dis-premature-ejaculation"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0080"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "سرعة القذف (القذف المبكر)"

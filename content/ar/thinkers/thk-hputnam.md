@@ -1,6 +1,6 @@
 ---
 slug: "thk-hputnam"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1168"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

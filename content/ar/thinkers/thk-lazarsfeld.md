@@ -1,6 +1,6 @@
 ---
 slug: "thk-lazarsfeld"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1436"
 type: "مفكر"
 level: "متوسط"
 title: "صوفي لازارسفيلد"

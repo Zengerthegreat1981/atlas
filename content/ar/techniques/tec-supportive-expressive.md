@@ -1,6 +1,6 @@
 ---
 slug: "tec-supportive-expressive"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0316"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الداعم-التعبيري"

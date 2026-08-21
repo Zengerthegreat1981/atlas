@@ -1,6 +1,6 @@
 ---
 slug: "dis-dissociative-identity"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0040"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الهوية التفارقي"

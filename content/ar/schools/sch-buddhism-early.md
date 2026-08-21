@@ -1,6 +1,6 @@
 ---
 slug: "sch-buddhism-early"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0052"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

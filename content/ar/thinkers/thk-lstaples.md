@@ -1,6 +1,6 @@
 ---
 slug: "thk-lstaples"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1481"
 type: "مفكر"
 level: "متوسط"
 title: "لورنس ستاپلز"

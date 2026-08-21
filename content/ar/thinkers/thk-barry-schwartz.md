@@ -1,6 +1,6 @@
 ---
 slug: "thk-barry-schwartz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0731"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

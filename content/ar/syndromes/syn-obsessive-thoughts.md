@@ -1,6 +1,6 @@
 ---
 slug: "syn-obsessive-thoughts"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0126"
 type: "متلازمة"
 level: "مبتدئ"
 title: "الأفكار الوسواسية"

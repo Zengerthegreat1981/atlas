@@ -1,6 +1,6 @@
 ---
 slug: "evt-sfp-founding-1901"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0059"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس الجمعية الفرنسية لعلم النفس بقيادة ريبو وجانيه"

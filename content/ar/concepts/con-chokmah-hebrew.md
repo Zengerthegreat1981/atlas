@@ -1,6 +1,6 @@
 ---
 slug: "con-chokmah-hebrew"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0475"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

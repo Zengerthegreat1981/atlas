@@ -1,6 +1,6 @@
 ---
 slug: "br-child-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0125"
 type: "تيار"
 level: "متوسط"
 title: "التحليل النفسي للأطفال"

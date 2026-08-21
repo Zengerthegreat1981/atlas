@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-pros-and-cons"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0151"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الإيجابيات والسلبيات"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ecology-community-lifestyle"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0287"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

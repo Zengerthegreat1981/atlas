@@ -1,6 +1,6 @@
 ---
 slug: "sch-isfahan"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0150"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tbickmore"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2022"
 type: "مفكر"
 level: "متوسط"
 title: "تيموثي بيكمور"

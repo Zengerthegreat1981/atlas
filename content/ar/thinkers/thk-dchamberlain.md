@@ -1,6 +1,6 @@
 ---
 slug: "thk-dchamberlain"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0903"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد تشامبرلين"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-besselvanderkolk"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0752"
 type: "مفكر"
 level: "متقدم"
 title: "بِسِل فَن دِر كولك"

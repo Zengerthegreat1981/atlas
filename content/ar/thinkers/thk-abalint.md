@@ -1,6 +1,6 @@
 ---
 slug: "thk-abalint"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0634"
 type: "مفكر"
 level: "متوسط"
 title: "أليس بالينت"

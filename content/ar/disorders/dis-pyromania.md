@@ -1,6 +1,6 @@
 ---
 slug: "dis-pyromania"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0083"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "هوس إشعال الحرائق"

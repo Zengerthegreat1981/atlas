@@ -1,6 +1,6 @@
 ---
 slug: "thk-rosolato"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1855"
 type: "مفكر"
 level: "متوسط"
 title: "غي روزولاتو"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-zehr"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2145"
 type: "مفكر"
 level: "متوسط"
 title: "هوارد زير"

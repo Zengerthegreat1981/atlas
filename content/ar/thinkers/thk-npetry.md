@@ -1,6 +1,6 @@
 ---
 slug: "thk-npetry"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1687"
 type: "مفكر"
 level: "متقدم"
 title: "نانسي م. بيتري"

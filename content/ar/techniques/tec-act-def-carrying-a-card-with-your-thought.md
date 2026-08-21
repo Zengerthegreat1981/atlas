@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-def-carrying-a-card-with-your-thought"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0024"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "حمل بطاقة بالفكرة"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jayearly"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1234"
 type: "مفكر"
 level: "متقدم"
 title: "جاي إيرلي"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-feminism-french-poststructural"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0110"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

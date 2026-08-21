@@ -1,6 +1,6 @@
 ---
 slug: "thk-gabel"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1064"
 type: "مفكر"
 level: "متوسط"
 title: "جين أبيل"

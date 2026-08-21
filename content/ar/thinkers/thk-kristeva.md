@@ -1,6 +1,6 @@
 ---
 slug: "thk-kristeva"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1418"
 type: "مفكر"
 level: "متقدم"
 title: "جوليا كريستيفا"

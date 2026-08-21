@@ -1,6 +1,6 @@
 ---
 slug: "thk-gdiamond"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1078"
 type: "مفكر"
 level: "متوسط"
 title: "غي دايموند"

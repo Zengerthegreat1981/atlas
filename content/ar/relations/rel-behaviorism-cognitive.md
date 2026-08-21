@@ -1,6 +1,6 @@
 ---
 slug: "rel-behaviorism-cognitive"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0124"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية"

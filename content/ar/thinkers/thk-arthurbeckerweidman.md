@@ -1,6 +1,6 @@
 ---
 slug: "thk-arthurbeckerweidman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0707"
 type: "مفكر"
 level: "متقدم"
 title: "آرثر بيكر-ويدمان"

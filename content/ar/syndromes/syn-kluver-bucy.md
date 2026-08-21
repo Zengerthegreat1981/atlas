@@ -1,6 +1,6 @@
 ---
 slug: "syn-kluver-bucy"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0102"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

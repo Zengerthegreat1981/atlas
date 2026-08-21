@@ -1,6 +1,6 @@
 ---
 slug: "syn-kleine-levin"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0101"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

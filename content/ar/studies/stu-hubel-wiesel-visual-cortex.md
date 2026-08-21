@@ -1,6 +1,6 @@
 ---
 slug: "stu-hubel-wiesel-visual-cortex"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0051"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب هوبل وفيزل في المعالجة البصرية وأعمدة القشرة المخية"

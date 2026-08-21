@@ -1,6 +1,6 @@
 ---
 slug: "con-single-session-mindset"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0739"
 type: "مفهوم"
 level: "متوسط"
 title: "عقلية الجلسة الواحدة"

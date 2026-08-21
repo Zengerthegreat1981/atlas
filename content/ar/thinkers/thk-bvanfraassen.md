@@ -1,6 +1,6 @@
 ---
 slug: "thk-bvanfraassen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0800"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

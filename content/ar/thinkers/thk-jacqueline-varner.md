@@ -1,6 +1,6 @@
 ---
 slug: "thk-jacqueline-varner"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1217"
 type: "مفكر"
 level: "متوسط"
 title: "جاكلين فارنر"

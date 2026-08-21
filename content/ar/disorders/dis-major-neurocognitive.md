@@ -1,6 +1,6 @@
 ---
 slug: "dis-major-neurocognitive"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0065"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب معرفي عصبي رئيسي (الخرف)"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-empty-nest"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0060"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

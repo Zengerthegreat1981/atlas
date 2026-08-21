@@ -1,6 +1,6 @@
 ---
 slug: "syn-electromagnetic-hypersensitivity"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0057"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

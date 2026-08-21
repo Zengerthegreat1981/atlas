@@ -1,6 +1,6 @@
 ---
 slug: "thk-philippe-cunningham"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1743"
 type: "مفكر"
 level: "متقدم"
 title: "فيليب كَننغهام"

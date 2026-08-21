@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-sud"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0123"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج المعرفي السلوكي لاضطرابات تعاطي المواد (CBT-SUD)"

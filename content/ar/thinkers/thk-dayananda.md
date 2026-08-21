@@ -1,6 +1,6 @@
 ---
 slug: "thk-dayananda"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0895"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

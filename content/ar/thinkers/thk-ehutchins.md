@@ -1,6 +1,6 @@
 ---
 slug: "thk-ehutchins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0986"
 type: "مفكر"
 level: "مبتدئ"
 title: "إيميت هاتشنز"

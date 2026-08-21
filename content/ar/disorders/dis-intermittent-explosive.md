@@ -1,6 +1,6 @@
 ---
 slug: "dis-intermittent-explosive"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0063"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الانفجار المتقطع"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jparrh"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1335"
 type: "مفكر"
 level: "متوسط"
 title: "جون بار"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-nrogers"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1688"
 type: "مفكر"
 level: "متوسط"
 title: "ناتالي روجرز"

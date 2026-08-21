@@ -1,6 +1,6 @@
 ---
 slug: "thk-mnitsun"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1613"
 type: "مفكر"
 level: "متوسط"
 title: "موريس نيتسون"

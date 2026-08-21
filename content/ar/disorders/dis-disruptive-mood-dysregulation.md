@@ -1,6 +1,6 @@
 ---
 slug: "dis-disruptive-mood-dysregulation"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0038"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب عدم التنظيم الانفعالي"

@@ -1,6 +1,6 @@
 ---
 slug: "br-french-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0149"
 type: "تيار"
 level: "متقدم"
 title: "مدرسة التحليل النفسي الفرنسية"

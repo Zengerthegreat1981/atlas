@@ -1,6 +1,6 @@
 ---
 slug: "br-islamic-positive-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0164"
 type: "تيار"
 level: "متوسط"
 title: "علم النفس الإيجابي الإسلامي"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jwolpe"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1364"
 type: "مفكر"
 level: "متقدم"
 title: "جوزف وُلبّي"

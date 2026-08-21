@@ -1,6 +1,6 @@
 ---
 slug: "sch-hegelianism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0131"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

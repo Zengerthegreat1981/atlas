@@ -1,6 +1,6 @@
 ---
 slug: "thk-mitch-albom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1588"
 type: "مفكر"
 part: "psychology"
 register: "popular"

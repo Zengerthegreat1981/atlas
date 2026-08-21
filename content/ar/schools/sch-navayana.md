@@ -1,6 +1,6 @@
 ---
 slug: "sch-navayana"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0209"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "evt-september-11-crisis-intervention-2001"
-id: "[DRAFT-UNKNOWN]"
+id: "EVT-0058"
 type: "حدث تاريخي"
 level: "متقدم"
 title: "هجمات 11 سبتمبر وتدشين عصر تدخلات الأزمات والإسعاف النفسي الأولي PFA"

@@ -1,6 +1,6 @@
 ---
 slug: "br-ego-psychology"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0142"
 type: "تيار"
 level: "متوسط"
 title: "علم نفس الأنا"

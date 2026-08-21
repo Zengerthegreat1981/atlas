@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-mind-effectiveness"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0182"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "الفعالية"

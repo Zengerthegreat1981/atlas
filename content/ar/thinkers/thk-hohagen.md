@@ -1,6 +1,6 @@
 ---
 slug: "thk-hohagen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1165"
 type: "مفكر"
 level: "متقدم"
 title: "فريدريش هوهاغن"

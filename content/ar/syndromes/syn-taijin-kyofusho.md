@@ -1,6 +1,6 @@
 ---
 slug: "syn-taijin-kyofusho"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0172"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

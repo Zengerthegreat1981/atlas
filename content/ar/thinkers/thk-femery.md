@@ -1,6 +1,6 @@
 ---
 slug: "thk-femery"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1033"
 type: "مفكر"
 level: "متقدم"
 title: "فريد إيمري"

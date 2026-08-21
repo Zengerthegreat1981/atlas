@@ -1,6 +1,6 @@
 ---
 slug: "thk-jkihnstrom"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1299"
 type: "مفكر"
 level: "متوسط"
 title: "جون كينستروم"

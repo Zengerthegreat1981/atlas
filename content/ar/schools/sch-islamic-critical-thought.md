@@ -1,6 +1,6 @@
 ---
 slug: "sch-islamic-critical-thought"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0152"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-achristensen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0641"
 type: "مفكر"
 level: "متوسط"
 title: "أندرو كريستينسن"

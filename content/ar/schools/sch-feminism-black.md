@@ -1,6 +1,6 @@
 ---
 slug: "sch-feminism-black"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0108"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

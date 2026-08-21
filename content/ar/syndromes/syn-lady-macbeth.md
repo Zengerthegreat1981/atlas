@@ -1,6 +1,6 @@
 ---
 slug: "syn-lady-macbeth"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0107"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

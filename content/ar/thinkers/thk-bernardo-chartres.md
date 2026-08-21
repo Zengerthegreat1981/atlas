@@ -1,6 +1,6 @@
 ---
 slug: "thk-bernardo-chartres"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0750"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

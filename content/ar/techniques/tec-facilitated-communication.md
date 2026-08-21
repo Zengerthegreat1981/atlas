@@ -1,6 +1,6 @@
 ---
 slug: "tec-facilitated-communication"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0215"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التواصل المُسهَّل"

@@ -1,6 +1,6 @@
 ---
 slug: "br-dynamic-couples-family-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0141"
 type: "تيار"
 level: "متقدم"
 title: "العلاج الديناميكي للأزواج والأسرة"

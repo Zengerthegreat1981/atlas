@@ -1,6 +1,6 @@
 ---
 slug: "dbt-ibn-maymun-vs-halevi"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0332"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

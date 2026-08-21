@@ -1,6 +1,6 @@
 ---
 slug: "thk-heimann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1141"
 type: "مفكر"
 level: "متقدم"
 title: "بولا هايمان"

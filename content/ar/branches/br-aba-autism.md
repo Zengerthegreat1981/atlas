@@ -1,6 +1,6 @@
 ---
 slug: "br-aba-autism"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0105"
 type: "تيار"
 level: "متوسط"
 title: "تحليل السلوك التطبيقي للتوحد (ABA)"

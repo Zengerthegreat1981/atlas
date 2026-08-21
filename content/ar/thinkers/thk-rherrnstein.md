@@ -1,6 +1,6 @@
 ---
 slug: "thk-rherrnstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1806"
 type: "مفكر"
 level: "متقدم"
 title: "ريتشارد سيرنشتاين"

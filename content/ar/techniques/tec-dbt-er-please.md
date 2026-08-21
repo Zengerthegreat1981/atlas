@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-please"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0168"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "بليز (PLEASE) — خفض الحساسية للمشاعر السلبية"

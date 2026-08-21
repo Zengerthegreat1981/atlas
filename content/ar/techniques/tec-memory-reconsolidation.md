@@ -1,6 +1,6 @@
 ---
 slug: "tec-memory-reconsolidation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0246"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "العلاج بإعادة توحيد الذاكرة (Memory Reconsolidation Therapy)"

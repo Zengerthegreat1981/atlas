@@ -1,6 +1,6 @@
 ---
 slug: "wrk-nature-intelligence"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0402"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "طبيعة الذكاء ومبادئ الإدراك"

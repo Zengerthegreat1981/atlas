@@ -1,6 +1,6 @@
 ---
 slug: "thk-tbarber"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2021"
 type: "مفكر"
 level: "متوسط"
 title: "ثيودور باربر"

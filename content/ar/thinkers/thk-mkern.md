@@ -1,6 +1,6 @@
 ---
 slug: "thk-mkern"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1593"
 type: "مفكر"
 level: "مبتدئ"
 title: "مارك كيرن"

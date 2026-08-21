@@ -1,6 +1,6 @@
 ---
 slug: "thk-ashari"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0713"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

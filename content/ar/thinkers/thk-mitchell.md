@@ -1,6 +1,6 @@
 ---
 slug: "thk-mitchell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1589"
 type: "مفكر"
 level: "متقدم"
 title: "ستيفن ميتشل"

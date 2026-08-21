@@ -1,6 +1,6 @@
 ---
 slug: "thk-phcollins"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1741"
 type: "مفكر"
 level: "متوسط"
 title: "باتريشا هيل كولينز"

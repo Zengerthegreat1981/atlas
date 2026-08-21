@@ -1,6 +1,6 @@
 ---
 slug: "thk-bhooks"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0757"
 type: "مفكر"
 level: "متقدم"
 title: "بيل هوكس"

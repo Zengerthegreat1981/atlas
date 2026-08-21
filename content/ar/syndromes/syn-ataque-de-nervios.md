@@ -1,6 +1,6 @@
 ---
 slug: "syn-ataque-de-nervios"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0017"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

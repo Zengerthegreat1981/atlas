@@ -1,6 +1,6 @@
 ---
 slug: "br-positive-disintegration"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0184"
 type: "تيار"
 level: "متقدم"
 title: "نظرية التفكك الإيجابي (دابروفسكي)"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dpooleheller"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0948"
 type: "مفكر"
 level: "متوسط"
 title: "ديان بويل هيلر"

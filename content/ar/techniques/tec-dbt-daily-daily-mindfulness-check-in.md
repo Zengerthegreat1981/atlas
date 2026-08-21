@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-daily-daily-mindfulness-check-in"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0141"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "تسجيل يقظة يومي"

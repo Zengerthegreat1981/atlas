@@ -1,6 +1,6 @@
 ---
 slug: "wrk-give-and-take"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0327"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

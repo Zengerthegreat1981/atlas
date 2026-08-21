@@ -1,6 +1,6 @@
 ---
 slug: "tec-time-line-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0322"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "علاج خط الزمن (Time Line Therapy™)"

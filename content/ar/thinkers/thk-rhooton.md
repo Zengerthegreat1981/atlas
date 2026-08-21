@@ -1,6 +1,6 @@
 ---
 slug: "thk-rhooton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1808"
 type: "مفكر"
 level: "متوسط"
 title: "راندي هوتون"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0198"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج الجدلي السلوكي (DBT)"

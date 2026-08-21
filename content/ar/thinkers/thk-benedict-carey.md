@@ -1,6 +1,6 @@
 ---
 slug: "thk-benedict-carey"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0745"
 type: "مفكر"
 part: "psychology"
 register: "popular"

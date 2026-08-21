@@ -1,6 +1,6 @@
 ---
 slug: "wrk-two-dogmas"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0476"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"

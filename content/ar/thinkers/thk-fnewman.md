@@ -1,6 +1,6 @@
 ---
 slug: "thk-fnewman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1045"
 type: "مفكر"
 level: "متوسط"
 title: "فريد نيومان"

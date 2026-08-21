@@ -1,6 +1,6 @@
 ---
 slug: "thk-john-cacioppo"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1321"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

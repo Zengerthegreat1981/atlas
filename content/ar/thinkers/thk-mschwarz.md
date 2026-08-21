@@ -1,6 +1,6 @@
 ---
 slug: "thk-mschwarz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1631"
 type: "مفكر"
 level: "مبتدئ"
 title: "مارغريت شوارز"

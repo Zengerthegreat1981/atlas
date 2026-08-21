@@ -1,6 +1,6 @@
 ---
 slug: "thk-jsandoval"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1347"
 type: "مفكر"
 level: "متقدم"
 title: "جنيفر ساندوفال"

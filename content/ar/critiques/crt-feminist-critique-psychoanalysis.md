@@ -1,6 +1,6 @@
 ---
 slug: "crt-feminist-critique-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0010"
 type: "نقد خارجي موثَّق"
 level: "متقدم"
 title: "النقد النسوي للتحليل النفسي: الذكورية البنيوية والازدواجية المعيارية"

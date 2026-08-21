@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-val-values-vs-goals-distinction"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0053"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "التمييز بين القيم والأهداف"

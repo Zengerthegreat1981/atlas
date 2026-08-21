@@ -1,6 +1,6 @@
 ---
 slug: "con-midlife"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0638"
 type: "مفهوم"
 level: "مبتدئ"
 title: "أزمة منتصف العمر والمرور الأوسط"

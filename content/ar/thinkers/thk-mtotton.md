@@ -1,6 +1,6 @@
 ---
 slug: "thk-mtotton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1637"
 type: "مفكر"
 level: "مبتدئ"
 title: "مارك توتون"

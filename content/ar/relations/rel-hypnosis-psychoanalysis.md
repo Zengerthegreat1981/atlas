@@ -1,6 +1,6 @@
 ---
 slug: "rel-hypnosis-psychoanalysis"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0133"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التنويم والتحليل النفسي: انفصال وتباعد تاريخي"

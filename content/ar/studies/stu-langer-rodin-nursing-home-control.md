@@ -1,6 +1,6 @@
 ---
 slug: "stu-langer-rodin-nursing-home-control"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0061"
 type: "دراسة وبحث"
 level: "متوسط"
 title: "دراسة لانغر ورودين حول التحكم والمسؤولية الشخصية لدى نزلاء دار المسنين"

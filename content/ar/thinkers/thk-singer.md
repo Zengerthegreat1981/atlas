@@ -1,6 +1,6 @@
 ---
 slug: "thk-singer"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1948"
 type: "مفكر"
 level: "متقدم"
 title: "توماس سينغر"

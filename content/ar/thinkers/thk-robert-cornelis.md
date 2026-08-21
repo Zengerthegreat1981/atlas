@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-cornelis"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1839"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت كورنليس"

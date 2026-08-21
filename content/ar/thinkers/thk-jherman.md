@@ -1,6 +1,6 @@
 ---
 slug: "thk-jherman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1288"
 type: "مفكر"
 level: "متقدم"
 title: "جوديث هِرمان"

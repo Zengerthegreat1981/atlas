@@ -1,6 +1,6 @@
 ---
 slug: "thk-csluzki"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0864"
 type: "مفكر"
 level: "متوسط"
 title: "كارلوس سلوزكي"

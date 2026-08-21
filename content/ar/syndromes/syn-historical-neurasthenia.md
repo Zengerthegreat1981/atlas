@@ -1,6 +1,6 @@
 ---
 slug: "syn-historical-neurasthenia"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0083"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

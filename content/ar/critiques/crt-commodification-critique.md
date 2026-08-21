@@ -1,6 +1,6 @@
 ---
 slug: "crt-commodification-critique"
-id: "[DRAFT-UNKNOWN]"
+id: "CRT-0004"
 type: "نقد خارجي موثَّق"
 level: "متوسط"
 title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'"

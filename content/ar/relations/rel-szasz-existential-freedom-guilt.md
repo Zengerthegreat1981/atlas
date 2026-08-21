@@ -1,6 +1,6 @@
 ---
 slug: "rel-szasz-existential-freedom-guilt"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0150"
 type: "علاقة بين مدرستين"
 level: "متقدم"
 title: "سازس والوجودية: الحرية والمسؤولية الأخلاقية"

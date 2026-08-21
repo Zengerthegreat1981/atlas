@@ -1,6 +1,6 @@
 ---
 slug: "syn-chinese-restaurant"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0034"
 type: "متلازمة"
 part: "psychology"
 level: "مبتدئ"

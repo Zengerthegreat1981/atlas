@@ -1,6 +1,6 @@
 ---
 slug: "thk-seyberg"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1924"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفن إيبِرغ"

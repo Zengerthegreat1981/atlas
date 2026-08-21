@@ -1,6 +1,6 @@
 ---
 slug: "sch-haskalah"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0126"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-realm-hungry-ghosts"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0438"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

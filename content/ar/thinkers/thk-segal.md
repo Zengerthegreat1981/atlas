@@ -1,6 +1,6 @@
 ---
 slug: "thk-segal"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1921"
 type: "مفكر"
 level: "متقدم"
 title: "حنا سيغال"

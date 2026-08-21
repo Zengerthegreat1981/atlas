@@ -1,6 +1,6 @@
 ---
 slug: "thk-peta-stapleton"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1724"
 type: "مفكر"
 level: "متقدم"
 title: "بيتا ستاپلتون"

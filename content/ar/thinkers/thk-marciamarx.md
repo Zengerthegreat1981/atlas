@@ -1,6 +1,6 @@
 ---
 slug: "thk-marciamarx"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1501"
 type: "مفكر"
 level: "متوسط"
 title: "مارسيا ماركس"

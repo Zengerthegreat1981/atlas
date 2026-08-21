@@ -1,6 +1,6 @@
 ---
 slug: "thk-jlubar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1306"
 type: "مفكر"
 level: "متقدم"
 title: "جويل لوبار"

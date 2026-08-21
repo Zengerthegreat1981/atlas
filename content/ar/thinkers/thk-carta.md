@@ -1,6 +1,6 @@
 ---
 slug: "thk-carta"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0815"
 type: "مفكر"
 level: "متقدم"
 title: "ستيفانو كارطا"

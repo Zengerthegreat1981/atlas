@@ -1,6 +1,6 @@
 ---
 slug: "thk-smitchell"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1962"
 type: "مفكر"
 level: "متقدم"
 title: "سْتِيفن مِتْشِل"

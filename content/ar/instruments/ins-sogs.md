@@ -1,6 +1,6 @@
 ---
 slug: "ins-sogs"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0073"
 type: "أداة قياس"
 level: "متوسط"
 title: "مقياس فرز إدمان القمار في ساوث أوكس"

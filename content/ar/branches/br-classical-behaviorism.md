@@ -1,6 +1,6 @@
 ---
 slug: "br-classical-behaviorism"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0126"
 type: "تيار"
 level: "مبتدئ"
 title: "السلوكية الكلاسيكية"

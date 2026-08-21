@@ -1,6 +1,6 @@
 ---
 slug: "thk-nasir-khusraw"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1663"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

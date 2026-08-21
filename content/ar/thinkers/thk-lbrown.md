@@ -1,6 +1,6 @@
 ---
 slug: "thk-lbrown"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1440"
 type: "مفكر"
 level: "متوسط"
 title: "لورا س. براون"

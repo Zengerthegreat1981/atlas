@@ -1,6 +1,6 @@
 ---
 slug: "thk-donaldatkinson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0942"
 type: "مفكر"
 level: "متقدم"
 title: "دونالد أتكينسون"

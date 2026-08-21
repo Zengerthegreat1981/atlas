@@ -1,6 +1,6 @@
 ---
 slug: "tec-dir-floortime"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0200"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "نموذج DIR ووقت اللعب الأرضي للتطور والتواصل (DIR/Floortime)"

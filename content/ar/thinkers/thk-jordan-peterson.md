@@ -1,6 +1,6 @@
 ---
 slug: "thk-jordan-peterson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1330"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "con-supported-employment"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0758"
 type: "مفهوم"
 level: "متوسط"
 title: "التوظيف المدعوم (Supported Employment)"

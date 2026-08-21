@@ -1,6 +1,6 @@
 ---
 slug: "thk-maxwell-maltz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1529"
 type: "مفكر"
 part: "psychology"
 register: "popular"

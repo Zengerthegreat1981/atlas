@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-cope-ahead"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0163"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "الاستعداد المسبق للتأقلم (C)"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-mozi-text"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0398"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متوسط"

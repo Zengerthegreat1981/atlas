@@ -1,6 +1,6 @@
 ---
 slug: "thk-rupertpriest"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1882"
 type: "مفكر"
 level: "متوسط"
 title: "روبرت بريست"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-allen-carr"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0675"
 type: "مفكر"
 part: "psychology"
 register: "popular"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-military-chinese"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0201"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

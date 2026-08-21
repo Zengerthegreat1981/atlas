@@ -1,6 +1,6 @@
 ---
 slug: "stu-festinger-cognitive-dissonance"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0039"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي"

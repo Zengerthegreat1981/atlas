@@ -1,6 +1,6 @@
 ---
 slug: "thk-maryolson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1521"
 type: "مفكر"
 level: "متقدم"
 title: "ماري أولسون"

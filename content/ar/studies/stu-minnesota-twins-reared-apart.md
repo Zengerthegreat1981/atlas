@@ -1,6 +1,6 @@
 ---
 slug: "stu-minnesota-twins-reared-apart"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0079"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "دراسة مينيسوتا للتوائم المتماثلة المتبناة منفصلة والوراثة السلوكية"

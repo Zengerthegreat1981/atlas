@@ -1,6 +1,6 @@
 ---
 slug: "con-coloniality"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0482"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-dejerine-roussy"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0045"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

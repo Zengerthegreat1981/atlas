@@ -1,6 +1,6 @@
 ---
 slug: "sch-classical-liberalism-early"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0065"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

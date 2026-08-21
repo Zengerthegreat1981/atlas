@@ -1,6 +1,6 @@
 ---
 slug: "con-death-instinct"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0504"
 type: "مفهوم"
 level: "متقدم"
 title: "غريزة الموت والدافع التدميري للتحول"

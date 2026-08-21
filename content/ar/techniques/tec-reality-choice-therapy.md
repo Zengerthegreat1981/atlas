@@ -1,6 +1,6 @@
 ---
 slug: "tec-reality-choice-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0287"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "علاج الواقع ونظرية الاختيار"

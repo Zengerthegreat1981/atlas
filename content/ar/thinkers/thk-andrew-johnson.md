@@ -1,6 +1,6 @@
 ---
 slug: "thk-andrew-johnson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0695"
 type: "مفكر"
 level: "متوسط"
 title: "أندرو جونسون"

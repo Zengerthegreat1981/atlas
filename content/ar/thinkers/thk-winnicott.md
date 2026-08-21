@@ -1,6 +1,6 @@
 ---
 slug: "thk-winnicott"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2110"
 type: "مفكر"
 level: "متقدم"
 title: "دونالد وينيكوت"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-advaita-vedanta"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0008"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

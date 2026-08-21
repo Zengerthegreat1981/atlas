@@ -1,6 +1,6 @@
 ---
 slug: "thk-pknill"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1749"
 type: "مفكر"
 level: "متوسط"
 title: "باولو نيل"

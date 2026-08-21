@@ -1,6 +1,6 @@
 ---
 slug: "tec-positive-psychotherapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0273"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج النفسي الإيجابي"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-check-the-facts"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0162"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "مراجعة الحقائق"

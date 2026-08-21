@@ -1,6 +1,6 @@
 ---
 slug: "thk-cgerber2"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0833"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز جيربر"

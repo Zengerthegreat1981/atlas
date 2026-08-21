@@ -1,6 +1,6 @@
 ---
 slug: "wrk-buddhas-brain"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0263"
 type: "عمل / كتاب"
 register: "popular"
 part: "psychology"

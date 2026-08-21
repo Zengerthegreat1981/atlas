@@ -1,6 +1,6 @@
 ---
 slug: "thk-wdryden"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2097"
 type: "مفكر"
 level: "متوسط"
 title: "ويندي دريدن"

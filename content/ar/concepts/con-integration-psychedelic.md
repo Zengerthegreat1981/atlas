@@ -1,6 +1,6 @@
 ---
 slug: "con-integration-psychedelic"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2160"
 type: "مفكر"
 level: "مبتدئ"
 title: "التكامل النفسياني (Integration)"

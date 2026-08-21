@@ -1,6 +1,6 @@
 ---
 slug: "tec-ibct"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0233"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "العلاج السلوكي التكاملي للأزواج (IBCT)"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-accelerated-resolution-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0007"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالحل السريع المعجَّل (ART)"

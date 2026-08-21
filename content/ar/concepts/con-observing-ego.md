@@ -1,6 +1,6 @@
 ---
 slug: "con-observing-ego"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0659"
 type: "مفهوم"
 level: "متوسط"
 title: "الأنا المراقِبة في التحليلية"

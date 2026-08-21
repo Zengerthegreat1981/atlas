@@ -1,6 +1,6 @@
 ---
 slug: "thk-rycroft"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1891"
 type: "مفكر"
 level: "متوسط"
 title: "تشارلز ريكروفت"

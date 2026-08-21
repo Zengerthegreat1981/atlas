@@ -1,6 +1,6 @@
 ---
 slug: "sch-chinese-marxism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0062"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

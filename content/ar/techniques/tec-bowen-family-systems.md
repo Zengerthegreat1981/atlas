@@ -1,6 +1,6 @@
 ---
 slug: "tec-bowen-family-systems"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0067"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "علاج الأنساق الأسرية لبوين والتمايز الذاتي"

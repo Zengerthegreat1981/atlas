@@ -1,6 +1,6 @@
 ---
 slug: "thk-darcy-woebot"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0888"
 type: "مفكر"
 level: "متوسط"
 title: "أليسون دارسي"

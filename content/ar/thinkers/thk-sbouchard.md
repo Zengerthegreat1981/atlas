@@ -1,6 +1,6 @@
 ---
 slug: "thk-sbouchard"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1913"
 type: "مفكر"
 level: "متوسط"
 title: "ستيفان بوشار"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ecrits"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0289"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "الكتابات (Écrits) — جاك لوكان"

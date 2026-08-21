@@ -1,6 +1,6 @@
 ---
 slug: "thk-kant"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1369"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

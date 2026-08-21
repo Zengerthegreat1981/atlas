@@ -1,6 +1,6 @@
 ---
 slug: "sch-athariyya"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0037"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

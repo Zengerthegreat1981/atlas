@@ -1,6 +1,6 @@
 ---
 slug: "syn-diogenes"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0049"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

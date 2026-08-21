@@ -1,6 +1,6 @@
 ---
 slug: "stu-baumrind-parenting-styles"
-id: "[DRAFT-UNKNOWN]"
+id: "STU-0014"
 type: "دراسة وبحث"
 part: "psychology"
 level: "متوسط"

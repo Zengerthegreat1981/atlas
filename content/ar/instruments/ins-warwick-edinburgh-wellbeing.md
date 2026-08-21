@@ -1,6 +1,6 @@
 ---
 slug: "ins-warwick-edinburgh-wellbeing"
-id: "[DRAFT-UNKNOWN]"
+id: "INS-0087"
 type: "أداة قياس"
 level: "مبتدئ"
 title: "مقياس وارويك-إدنبرة للرفاه النفسي الإيجابي"

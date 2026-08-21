@@ -1,6 +1,6 @@
 ---
 slug: "sch-mahasanghika"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0188"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

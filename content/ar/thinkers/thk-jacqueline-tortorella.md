@@ -1,6 +1,6 @@
 ---
 slug: "thk-jacqueline-tortorella"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1216"
 type: "مفكر"
 level: "متوسط"
 title: "جاكلين تورتوريلا"

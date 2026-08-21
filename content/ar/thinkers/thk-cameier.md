@@ -1,6 +1,6 @@
 ---
 slug: "thk-cameier"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0808"
 type: "مفكر"
 level: "متقدم"
 title: "كارل ألفريد ماير"

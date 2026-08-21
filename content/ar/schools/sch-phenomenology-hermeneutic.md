@@ -1,6 +1,6 @@
 ---
 slug: "sch-phenomenology-hermeneutic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0238"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

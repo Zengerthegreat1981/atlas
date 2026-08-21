@@ -1,6 +1,6 @@
 ---
 slug: "dbt-tagore-vs-gandhi"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0347"
 type: "جدل"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-cognitive-therapy-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0269"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "العلاج المعرفي لاضطرابات الشخصية"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-brianhug"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0790"
 type: "مفكر"
 level: "متوسط"
 title: "بريان هيوز"

@@ -1,6 +1,6 @@
 ---
 slug: "con-lucifer-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0627"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

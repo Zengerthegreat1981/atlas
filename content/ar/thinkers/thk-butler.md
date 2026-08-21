@@ -1,6 +1,6 @@
 ---
 slug: "thk-butler"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0799"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

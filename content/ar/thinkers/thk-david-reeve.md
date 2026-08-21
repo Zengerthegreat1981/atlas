@@ -1,6 +1,6 @@
 ---
 slug: "thk-david-reeve"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0892"
 type: "مفكر"
 level: "متوسط"
 title: "ديفيد ريڤ"

@@ -1,6 +1,6 @@
 ---
 slug: "tec-cbt-int-self-validation"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0111"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "التصديق الذاتي"

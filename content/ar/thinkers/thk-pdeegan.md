@@ -1,6 +1,6 @@
 ---
 slug: "thk-pdeegan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1720"
 type: "مفكر"
 level: "متوسط"
 title: "باتريشا ديجان"

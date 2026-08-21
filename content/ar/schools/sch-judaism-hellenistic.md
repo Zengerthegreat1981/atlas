@@ -1,6 +1,6 @@
 ---
 slug: "sch-judaism-hellenistic"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0162"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

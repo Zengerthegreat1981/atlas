@@ -1,6 +1,6 @@
 ---
 slug: "dis-narcissistic-personality"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0068"
 type: "اضطراب/حالة إكلينيكية"
 level: "متقدم"
 title: "اضطراب الشخصية النرجسية"

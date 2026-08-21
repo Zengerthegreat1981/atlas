@@ -1,6 +1,6 @@
 ---
 slug: "thk-dcartwright"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0902"
 type: "مفكر"
 level: "متوسط"
 title: "دوروين كارت‌رَيت"

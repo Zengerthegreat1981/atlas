@@ -1,6 +1,6 @@
 ---
 slug: "syn-parasite-single"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0130"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

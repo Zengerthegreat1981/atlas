@@ -1,6 +1,6 @@
 ---
 slug: "con-shinrin-yoku"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2165"
 type: "مفكر"
 level: "مبتدئ"
 title: "شينرين-يوكو (الاستحمام بالغابة)"

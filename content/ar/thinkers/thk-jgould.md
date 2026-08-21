@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgould"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1281"
 type: "مفكر"
 level: "متوسط"
 title: "جيمس ليبشيتز"

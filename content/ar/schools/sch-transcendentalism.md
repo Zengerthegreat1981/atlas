@@ -1,6 +1,6 @@
 ---
 slug: "sch-transcendentalism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0308"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

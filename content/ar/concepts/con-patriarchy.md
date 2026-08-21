@@ -1,6 +1,6 @@
 ---
 slug: "con-patriarchy"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0671"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

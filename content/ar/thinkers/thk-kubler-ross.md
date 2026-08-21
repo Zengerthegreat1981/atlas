@@ -1,6 +1,6 @@
 ---
 slug: "thk-kubler-ross"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1423"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"

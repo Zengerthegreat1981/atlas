@@ -1,6 +1,6 @@
 ---
 slug: "con-law-of-effect"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0620"
 type: "مفهوم"
 level: "متوسط"
 title: "قانون الأثر"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-acts-of-meaning"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0221"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "أفعال المعنى: علم النفس السردي للتجربة الإنسانية"

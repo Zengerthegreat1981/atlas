@@ -1,6 +1,6 @@
 ---
 slug: "thk-sminuchin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1961"
 type: "مفكر"
 level: "متقدم"
 title: "سلفادور مينوشين"

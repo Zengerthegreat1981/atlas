@@ -1,6 +1,6 @@
 ---
 slug: "thk-njacobson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1678"
 type: "مفكر"
 level: "متقدم"
 title: "نيل س. جاكوبسون"

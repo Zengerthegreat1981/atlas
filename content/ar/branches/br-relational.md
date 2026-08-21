@@ -1,6 +1,6 @@
 ---
 slug: "br-relational"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0204"
 type: "تيار"
 level: "متوسط"
 title: "الصيغة العلائقية — الموجودي-الظاهراتي البريطاني (سبينيللي)"

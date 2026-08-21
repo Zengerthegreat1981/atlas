@@ -1,6 +1,6 @@
 ---
 slug: "syn-couvade"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0040"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

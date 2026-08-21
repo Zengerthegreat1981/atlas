@@ -1,6 +1,6 @@
 ---
 slug: "thk-neumann"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1673"
 type: "مفكر"
 level: "متقدم"
 title: "إريك نيومان"

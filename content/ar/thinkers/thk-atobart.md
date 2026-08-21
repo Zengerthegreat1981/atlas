@@ -1,6 +1,6 @@
 ---
 slug: "thk-atobart"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0718"
 type: "مفكر"
 level: "متوسط"
 title: "أنا تيريزا دي توبار"

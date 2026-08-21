@@ -1,6 +1,6 @@
 ---
 slug: "thk-bmaletzky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-0767"
 type: "مفكر"
 level: "متوسط"
 title: "باري مالتزكي"

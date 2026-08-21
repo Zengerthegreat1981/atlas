@@ -1,6 +1,6 @@
 ---
 slug: "thk-fichte"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1037"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

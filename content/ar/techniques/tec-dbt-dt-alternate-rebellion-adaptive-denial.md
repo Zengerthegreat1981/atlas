@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-dt-alternate-rebellion-adaptive-denial"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0147"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
 title: "التمرد البديل والإنكار التكيّفي"

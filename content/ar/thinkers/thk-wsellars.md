@@ -1,6 +1,6 @@
 ---
 slug: "thk-wsellars"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2125"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

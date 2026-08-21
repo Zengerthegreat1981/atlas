@@ -1,6 +1,6 @@
 ---
 slug: "thk-erickson-erl"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1012"
 type: "مفكر"
 level: "متقدم"
 title: "إيرل إريكسون"

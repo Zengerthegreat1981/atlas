@@ -1,6 +1,6 @@
 ---
 slug: "con-savior-complex"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0722"
 type: "مفهوم"
 register: "popular"
 part: "psychology"

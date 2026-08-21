@@ -1,6 +1,6 @@
 ---
 slug: "thk-stricker"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2001"
 type: "مفكر"
 level: "متقدم"
 title: "جورج ستريكر"

@@ -1,6 +1,6 @@
 ---
 slug: "syn-ssri-discontinuation"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0163"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-epolster"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1008"
 type: "مفكر"
 level: "متوسط"
 title: "إرفينغ بولستر"

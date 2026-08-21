@@ -1,6 +1,6 @@
 ---
 slug: "dis-rumination"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0086"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الاجترار (Rumination Disorder)"

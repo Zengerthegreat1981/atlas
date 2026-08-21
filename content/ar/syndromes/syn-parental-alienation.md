@@ -1,6 +1,6 @@
 ---
 slug: "syn-parental-alienation"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0131"
 type: "متلازمة"
 part: "psychology"
 level: "متوسط"

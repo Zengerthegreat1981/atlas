@@ -1,6 +1,6 @@
 ---
 slug: "dis-hypersomnolence"
-id: "[DRAFT-UNKNOWN]"
+id: "DIS-0058"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب فرط النوم"

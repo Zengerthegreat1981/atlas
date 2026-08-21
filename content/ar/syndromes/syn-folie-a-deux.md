@@ -1,6 +1,6 @@
 ---
 slug: "syn-folie-a-deux"
-id: "[DRAFT-UNKNOWN]"
+id: "SYN-0066"
 type: "متلازمة"
 part: "psychology"
 level: "متقدم"

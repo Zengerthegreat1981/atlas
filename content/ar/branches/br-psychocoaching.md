@@ -1,6 +1,6 @@
 ---
 slug: "br-psychocoaching"
-id: "[DRAFT-UNKNOWN]"
+id: "BRN-0191"
 type: "تيار"
 level: "مبتدئ"
 title: "التدريب النفسي / Psy-coaching"

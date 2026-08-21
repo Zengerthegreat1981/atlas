@@ -1,6 +1,6 @@
 ---
 slug: "dbt-humanistic-vs-existential"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0331"
 type: "جدل"
 level: "متوسط"
 title: "الإنسانية في مقابل الوجودية: تكامل أم تعارض؟"

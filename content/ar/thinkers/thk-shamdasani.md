@@ -1,6 +1,6 @@
 ---
 slug: "thk-shamdasani"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-1935"
 type: "مفكر"
 level: "متقدم"
 title: "سوني شمداساني"

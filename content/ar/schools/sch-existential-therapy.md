@@ -1,6 +1,6 @@
 ---
 slug: "sch-existential-therapy"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0102"
 type: "مدرسة"
 part: "psychology"
 level: "متوسط"

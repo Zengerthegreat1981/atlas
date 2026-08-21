@@ -1,6 +1,6 @@
 ---
 slug: "thk-wang-bi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2089"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "con-sense-datum"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0730"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

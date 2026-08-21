@@ -1,6 +1,6 @@
 ---
 slug: "rel-psychoanalysis-somatic"
-id: "[DRAFT-UNKNOWN]"
+id: "REL-0145"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر"
