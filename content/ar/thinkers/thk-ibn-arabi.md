@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "العرفان النظري (وحدة الوجود)", target_type: "مدرسة"
 related:
   - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
-  - id: "sch-illumination", title: "الإشراقية", type: "مدرسة"
+  - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 gaps:
   - "تأثيره على المتصوفة اللاحقين (ابن الفارض، ابن سبعين، عبد الكريم الجيلي) معقد."
   - "لا يوجد اقتباس مباشر موثوق من 'الفتوحات'."

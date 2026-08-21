@@ -20,7 +20,7 @@ related:
   - id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
   - id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
   - id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
-  - id: "sch-christianity-patristic", title: "الآبائية المسيحية", type: "مدرسة"
+  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
 gaps:
   - "نصوص مانوي الأصلية فقدت (باستثناء 'كفالايا' القبطية و'هوارسفيدان' الفارسية) — تحتاج مراجعة من المصدر الأولي."
 ---

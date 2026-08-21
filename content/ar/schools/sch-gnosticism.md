@@ -17,9 +17,9 @@ edges:
 related:
   - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
   - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
-  - id: "sch-christianity-patristic", title: "الآبائية المسيحية", type: "مدرسة"
+  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
   - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-  - id: "sch-plotinus", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
+  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
 gaps:
   - "النصوص الغنوصية مكتشفة في نجع حمادي (1945) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين 'الغنوصية' كحركة و'الغنوصية' كظاهرة أوسع لا يزال محل نقاش."

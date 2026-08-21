@@ -17,7 +17,7 @@ edges:
 related:
   - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
   - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-  - id: "sch-sarvastivada", title: "سارفاستيفادا", type: "مدرسة"
+  - id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
   - id: "sch-mahasanghika", title: "الماهاسامغيكا", type: "مدرسة"
   - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
 gaps:

@@ -16,7 +16,7 @@ edges:
   - rel: "evolved_from", target: "الماهاسامغيكا", target_type: "مدرسة"
 related:
   - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-  - id: "sch-sarvastivada", title: "سارفاستيفادا", type: "مدرسة"
+  - id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
   - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
   - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 gaps:

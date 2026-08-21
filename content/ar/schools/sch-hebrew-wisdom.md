@@ -18,7 +18,7 @@ related:
   - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
   - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
   - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "sch-christianity-patristic", title: "الآبائية المسيحية", type: "مدرسة"
+  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
 gaps:
   - "نصوص 'سفر الأمثال' و'الجامعة' (Ecclesiastes) و'أيوب' تحتاج مراجعة من المصدر الأولي."
 ---

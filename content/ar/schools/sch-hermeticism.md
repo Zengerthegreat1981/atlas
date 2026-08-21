@@ -17,7 +17,7 @@ edges:
   - rel: "evolved_from", target: "مصر القديمة", target_type: "مدرسة"
 related:
   - id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
-  - id: "sch-plotinus", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
+  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
   - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
   - id: "sch-rosicrucianism", title: "الروزيكروشيان", type: "مدرسة"
 gaps:

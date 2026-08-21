@@ -17,8 +17,8 @@ edges:
   - rel: "evolved_from", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
 related:
   - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية", type: "مدرسة"
-  - id: "sch-plotinus", title: "الأفلاطونية المحدثة", type: "مدرسة"
-  - id: "sch-christianity-patristic", title: "الآبائية المسيحية", type: "مدرسة"
+  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
+  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
   - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 gaps:
   - "نصوص فيلو الأصلية (يونانية) تحتاج مراجعة من المصدر الأولي."

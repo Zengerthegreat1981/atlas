@@ -16,7 +16,7 @@ edges:
   - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مدرسة"
 related:
   - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-sarvastivada", title: "سارفاستيفادا", type: "مدرسة"
+  - id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
   - id: "sch-mahasanghika", title: "الماهاسامغيكا", type: "مدرسة"
 gaps:
   - "نصوص بالي (Tipiṭaka) تحتاج مراجعة من المصدر الأولي."

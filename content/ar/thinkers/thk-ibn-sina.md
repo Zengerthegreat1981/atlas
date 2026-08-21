@@ -17,7 +17,7 @@ edges:
 related:
   - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
   - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-  - id: "sch-illumination", title: "الإشراقية", type: "مدرسة"
+  - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 gaps:
   - "ترتيب زمني لبعض أعماله (الشفاء، النجاة، الإلهيات) موضع نقاش."
   - "الترجمات العربية المعاصرة تحتاج توثيقاً."

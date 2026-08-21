@@ -19,7 +19,7 @@ related:
   - id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
   - id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
   - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-  - id: "sch-christianity-patristic", title: "الآبائية المسيحية", type: "مدرسة"
+  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
 gaps:
   - "نصوص الأفستا الأصلية تحتاج مراجعة من المصدر الأولي."
 ---
