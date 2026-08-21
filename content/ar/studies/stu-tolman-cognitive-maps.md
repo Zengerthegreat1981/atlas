@@ -12,7 +12,7 @@ active_end: 1948
 edges: []
 related:
   - id: "stu-skinner-operant-conditioning", title: "تجارب سكينر للإشراط الإجرائي", type: "دراسة وبحث"
-  - id: "thk-tolman", title: "إدوارد تولمان", type: "مفكر"
+  - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
 gaps:
   - "اكتشاف 'خلايا المكان' (Place Cells) لجون أوكيف وتأكيد صحة فرضية تولمان عصبياً عام 1971."
   - "لا يوجد اقتباس مباشر موثوق متاح."

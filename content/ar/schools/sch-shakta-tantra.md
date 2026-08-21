@@ -17,8 +17,8 @@ edges:
 related:
   - id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية", type: "مدرسة"
   - id: "sch-shaiva-siddhanta", title: "شايفا سيدهانتا", type: "مدرسة"
-  - id: "sch-buddhism-vajrayana", title: "فاجرايانا", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«فاجرايانا» (sch-buddhism-vajrayana) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Vāmakeśvara Tantra وKālikā Purāṇa تحتاج مراجعة من المصدر الأولي."
 ---
 

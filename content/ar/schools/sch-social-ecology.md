@@ -18,8 +18,8 @@ related:
   - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
   - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
   - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
-  - id: "sch-bookchin", title: "Murray Bookchin", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«Murray Bookchin» (sch-bookchin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Murray Bookchin (The Ecology of Freedom, 1982) need review."
 ---
 

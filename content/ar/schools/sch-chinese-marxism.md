@@ -17,8 +17,8 @@ edges:
 related:
   - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
   - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
-  - id: "sch-chinese-traditionalism", title: "حركة المعارضة الكونفوشية في القرن 20", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«حركة المعارضة الكونفوشية في القرن 20» (sch-chinese-traditionalism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Mao Zedong (On Practice, On Contradiction, Little Red Book) need review."
 ---
 

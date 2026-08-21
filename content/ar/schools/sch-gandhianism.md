@@ -17,8 +17,8 @@ edges:
 related:
   - id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
   - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-  - id: "sch-ahimsa-jainism", title: "الجاينية", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«الجاينية» (sch-ahimsa-jainism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Gandhi (Hind Swaraj, Young India, Satyagraha) تحتاج مراجعة من المصدر الأولي."
 ---
 

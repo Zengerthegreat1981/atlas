@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
-  - id: "thk-chomsky", title: "نعوم تشومسكي", type: "مفكر"
+  - id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
   - id: "thk-graeber", title: "ديفيد غريبير", type: "مفكر"
   - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 gaps:

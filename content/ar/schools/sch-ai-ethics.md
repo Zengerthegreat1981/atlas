@@ -17,9 +17,9 @@ edges:
 related:
   - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
   - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
-  - id: "sch-deontology", title: "أخلاق الواجب", type: "مدرسة"
   - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«أخلاق الواجب» (sch-deontology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Luciano Floridi, Nick Bostrom, Kate Crawford, Timnit Gebru need review."
 ---
 

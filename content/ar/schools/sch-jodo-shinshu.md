@@ -17,9 +17,9 @@ edges:
 related:
   - id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
   - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-  - id: "sch-shinran", title: "شينران (سياسياً)", type: "مدرسة"
   - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«شينران (سياسياً)» (sch-shinran) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Shinran (Kyōgyōshinshō، Tannishō) وRennyo (Ofumi) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين الفروع الفرعية لـ Jōdo Shinshū (Nishi، Higashi، Ōtani) يستحق بحثاً مستقلاً."
 ---

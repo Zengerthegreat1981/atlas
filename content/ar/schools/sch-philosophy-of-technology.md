@@ -17,8 +17,8 @@ edges:
 related:
   - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
   - id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
-  - id: "sch-foucault", title: "ميشيل فوكو", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«ميشيل فوكو» (sch-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Ernst Kapp, Lewis Mumford, Jacques Ellul, Martin Heidegger, Gilbert Simondon, Bernard Stiegler, Gilbert Hottois, Don Ihde, Peter-Paul Verbeek need review."
 ---
 

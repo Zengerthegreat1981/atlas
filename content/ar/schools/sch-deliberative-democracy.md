@@ -18,8 +18,8 @@ related:
   - id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
   - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
   - id: "sch-frankfurt-school", title: "نظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
-  - id: "sch-habermas", title: "هابرماس", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«هابرماس» (sch-habermas) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Habermas, Benhabib, Bohman, Gutmann & Thompson تحتاج مراجعة من المصدر الأولي."
 ---
 

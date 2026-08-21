@@ -17,8 +17,8 @@ edges:
 related:
   - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
   - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
-  - id: "sch-caste-india", title: "نقد الطبقة في الهند", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«نقد الطبقة في الهند» (sch-caste-india) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Ambedkar (Annihilation of Caste, Buddha and His Dhamma, Constitution of India) need review."
 ---
 

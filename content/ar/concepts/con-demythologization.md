@@ -14,8 +14,8 @@ related:
   - id: "thk-barth", title: "كارل بارث", type: "مفكر"
   - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
   - id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
-  - id: "con-myth", title: "الأسطورة", type: "مفهوم"
 gaps:
+  - "رابط مقترح لـ«الأسطورة» (con-myth) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النص الأصلي 'Neues Testament und Mythologie' (1941) لبولتمان يحتاج مراجعة من المصدر الأولي للخطوات المنهجية."
 ---
 

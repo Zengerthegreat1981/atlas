@@ -12,9 +12,9 @@ related:
   - id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
   - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
   - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-spirituality", title: "الروحانية", type: "مفهوم"
   - id: "con-felt-sense", title: "الحس الجسدي (Felt Sense)", type: "مفهوم"
 gaps:
+  - "رابط مقترح لـ«الروحانية» (con-spirituality) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النصوص الأصلية للايسن تستحق مراجعة من المصدر الأولي."
 ---
 

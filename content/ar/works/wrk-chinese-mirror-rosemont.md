@@ -15,8 +15,8 @@ edges:
   - rel: "belongs_to", target: "الفلسفة المقارنة", target_type: "مدرسة"
 related:
   - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
-  - id: "thk-rosemont", title: "هنري روزمونت", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«هنري روزمونت» (thk-rosemont) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ طبعة University of Hawaii Press الأصلية (1991)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
 

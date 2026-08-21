@@ -18,8 +18,8 @@ edges:
 related:
   - id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
   - id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
-  - id: "sch-gramel", title: "Marcel Griaule", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«Marcel Griaule» (sch-gramel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Dogon الأصلية (Griaule وDieterlen) تحتاج مراجعة من المصدر الأولي."
 ---
 

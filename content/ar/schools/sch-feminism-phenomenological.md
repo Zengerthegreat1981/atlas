@@ -17,8 +17,8 @@ edges:
 related:
   - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
   - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
-  - id: "sch-feminist-philosophy", title: "النسوية الفلسفية", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«النسوية الفلسفية» (sch-feminist-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص de Beauvoir, Young, Bartky, Ahmed, Alcoff تحتاج مراجعة من المصدر الأولي."
 ---
 

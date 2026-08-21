@@ -16,10 +16,10 @@ edges:
   - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
   - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-  - id: "sch-laclau-mouffe", title: "لاكلو-موف", type: "مفكر"
   - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
   - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«لاكلو-موف» (sch-laclau-mouffe) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Laclau & Mouffe, Rancière, Žižek, Negri & Hardt تحتاج مراجعة من المصدر الأولي."
 ---
 

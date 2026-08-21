@@ -19,8 +19,8 @@ related:
   - id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
   - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
   - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
-  - id: "sch-rosicrucianism", title: "الروزيكروشيان", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«الروزيكروشيان» (sch-rosicrucianism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص 'Corpus Hermeticum' (كوربس هرميتيكام) و'Asclepius' تحتاج مراجعة من المصدر الأولي."
 ---
 

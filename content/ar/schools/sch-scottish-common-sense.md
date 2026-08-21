@@ -18,8 +18,8 @@ edges:
 related:
   - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
   - id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
-  - id: "sch-scottish-enlightenment", title: "التنوير الاسكتلندي", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«التنوير الاسكتلندي» (sch-scottish-enlightenment) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص ريد وستيوارت وكامبل بالإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'An Inquiry into the Human Mind'."
   - "التمييز بين 'مدرسة غلاسكو' (Reid, Smith) و'مدرسة إدنبرة' (Stewart, Hamilton) معقّد."

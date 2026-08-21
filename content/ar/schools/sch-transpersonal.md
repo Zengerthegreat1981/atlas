@@ -24,7 +24,6 @@ edges:
   - rel: "split_into", target: "علم النفس الشاماني", type: "تيار"
   - rel: "split_into", target: "العلاج النفساني بمساعدة (Psychedelic-Assisted)", type: "تيار"
 related:
-  - id: "thk-kgrof", title: "ستانislav غروف", type: "مفكر"
   - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "thk-sutich", title: "أندرو سوتيتش", type: "مفكر"
@@ -33,6 +32,7 @@ related:
   - id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
   - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«ستانislav غروف» (thk-kgrof) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "العلاقة بين علم النفس عبر الشخصي وعلم النفس البوذي و'الموجة الثالثة' (ACT، DBT) ليست موحّدة في المراجع."
   - "نقد Wilber للنظريات النفسية الأخرى (Wilber-Combs lattice) موثّق جزئياً في كتبه لكن لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

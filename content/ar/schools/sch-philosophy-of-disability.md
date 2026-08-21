@@ -15,10 +15,10 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
 related:
-  - id: "sch-feminism", title: "النسوية", type: "مدرسة"
   - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
   - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«النسوية» (sch-feminism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Eva Kittay, Lennard Davis, Tom Shakespeare, Michael Bérubé, Sunaura Taylor, Rosemarie Garland-Thomson need review."
 ---
 

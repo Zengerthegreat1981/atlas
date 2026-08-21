@@ -16,9 +16,9 @@ edges:
   - rel: "evolved_from", target: "نيو-فيدانتا", target_type: "مظلة"
 related:
   - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-  - id: "sch-vivekananda", title: "فيفيكاناندا", type: "مفكر"
   - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«فيفيكاناندا» (sch-vivekananda) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Sri Aurobindo (The Life Divine, Synthesis of Yoga, Savitri) تحتاج مراجعة من المصدر الأولي."
 ---
 

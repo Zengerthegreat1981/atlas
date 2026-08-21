@@ -18,8 +18,8 @@ edges:
 related:
   - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
   - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
-  - id: "sch-feminist-ethics", title: "الأخلاق النسوية", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«الأخلاق النسوية» (sch-feminist-ethics) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Carol Gilligan, Nel Noddings, Virginia Held, Eva Feder Kittay, Michael Slote, Emmanuel Levinas need review."
 ---
 

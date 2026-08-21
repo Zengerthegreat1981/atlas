@@ -16,8 +16,8 @@ edges:
   - rel: "belongs_to", target: "أفريقية المركز (Afrocentrism)", target_type: "مدرسة"
 related:
   - id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
-  - id: "thk-obenga", title: "ثيوفيل أوبينغا", type: "مفكر"
 gaps:
+  - "رابط مقترح لـ«ثيوفيل أوبينغا» (thk-obenga) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Asante (The Afrocentric Idea, Afrocentricity) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

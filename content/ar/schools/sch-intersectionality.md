@@ -16,9 +16,9 @@ edges:
   - rel: "evolved_from", target: "النسوية السوداء", target_type: "مدرسة"
 related:
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "sch-critical-race-theory", title: "النظرية العرقية النقدية", type: "مدرسة"
   - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 gaps:
+  - "رابط مقترح لـ«النظرية العرقية النقدية» (sch-critical-race-theory) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Crenshaw, Hill Collins, hooks, Brah, Phoenix تحتاج مراجعة من المصدر الأولي."
 ---
 
