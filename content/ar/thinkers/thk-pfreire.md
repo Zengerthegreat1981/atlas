@@ -1,6 +1,6 @@
 ---
 slug: "thk-pfreire"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2204"
 type: "مفكر"
 level: "متقدم"
 title: "باولو فريري"

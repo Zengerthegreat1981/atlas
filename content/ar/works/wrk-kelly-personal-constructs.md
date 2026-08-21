@@ -1,6 +1,6 @@
 ---
 slug: "wrk-kelly-personal-constructs"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0495"
 type: "عمل / كتاب"
 level: "متقدم"
 title: "سيكولوجية البنى الشخصية (The Psychology of Personal Constructs)"

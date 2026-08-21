@@ -1,6 +1,6 @@
 ---
 slug: "sch-deism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0340"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

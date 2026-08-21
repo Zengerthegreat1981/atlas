@@ -1,6 +1,6 @@
 ---
 slug: "thk-xu-xing"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2220"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

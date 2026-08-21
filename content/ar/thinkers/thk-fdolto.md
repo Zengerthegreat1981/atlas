@@ -1,6 +1,6 @@
 ---
 slug: "thk-fdolto"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2181"
 type: "مفكر"
 level: "متقدم"
 title: "فرانسواز دولتو"

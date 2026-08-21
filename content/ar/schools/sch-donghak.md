@@ -1,6 +1,6 @@
 ---
 slug: "sch-donghak"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0341"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

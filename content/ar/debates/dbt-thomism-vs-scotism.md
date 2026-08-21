@@ -1,6 +1,6 @@
 ---
 slug: "dbt-thomism-vs-scotism"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0352"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tausk"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2217"
 type: "مفكر"
 level: "متقدم"
 title: "فيكتور توسك"

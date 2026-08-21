@@ -1,6 +1,6 @@
 ---
 slug: "thk-rdreikurs"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2207"
 type: "مفكر"
 level: "متقدم"
 title: "رودولف درايكورس"

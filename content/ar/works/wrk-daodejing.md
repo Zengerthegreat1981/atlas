@@ -1,6 +1,6 @@
 ---
 slug: "wrk-daodejing"
-id: "[DRAFT-UNKNOWN]"
+id: "WRK-0494"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "مبتدئ"

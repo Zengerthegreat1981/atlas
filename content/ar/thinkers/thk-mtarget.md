@@ -1,6 +1,6 @@
 ---
 slug: "thk-mtarget"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2202"
 type: "مفكر"
 level: "متوسط"
 title: "ماري تارجت"

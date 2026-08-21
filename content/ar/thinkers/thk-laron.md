@@ -1,6 +1,6 @@
 ---
 slug: "thk-laron"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2193"
 type: "مفكر"
 level: "متقدم"
 title: "لويس آرون"

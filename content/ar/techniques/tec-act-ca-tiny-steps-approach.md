@@ -1,6 +1,6 @@
 ---
 slug: "tec-act-ca-tiny-steps-approach"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0332"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "أسلوب الخطوات الصغيرة"

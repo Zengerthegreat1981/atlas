@@ -1,6 +1,6 @@
 ---
 slug: "con-shunyata"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0804"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

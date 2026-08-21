@@ -1,6 +1,6 @@
 ---
 slug: "thk-psinger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2205"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-tstone"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2219"
 type: "مفكر"
 level: "متوسط"
 title: "مارك ستون"

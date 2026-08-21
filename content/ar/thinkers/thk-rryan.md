@@ -1,6 +1,6 @@
 ---
 slug: "thk-rryan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2213"
 type: "مفكر"
 level: "متقدم"
 title: "ريتشارد راين"

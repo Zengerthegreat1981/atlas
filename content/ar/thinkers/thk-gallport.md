@@ -1,6 +1,6 @@
 ---
 slug: "thk-gallport"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2183"
 type: "مفكر"
 level: "متقدم"
 title: "جوردون ألبورت"

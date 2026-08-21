@@ -1,6 +1,6 @@
 ---
 slug: "thk-hume"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2189"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

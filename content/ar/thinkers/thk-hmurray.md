@@ -1,6 +1,6 @@
 ---
 slug: "thk-hmurray"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2188"
 type: "مفكر"
 level: "متقدم"
 title: "هنري موراي"

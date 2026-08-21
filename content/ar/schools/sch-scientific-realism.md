@@ -1,6 +1,6 @@
 ---
 slug: "sch-scientific-realism"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0342"
 type: "مدرسة"
 part: "philosophy"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-ben-sira"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2171"
 type: "مفكر"
 part: "philosophy"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-mlanger"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2197"
 type: "مفكر"
 level: "متقدم"
 title: "ماري لانغر"

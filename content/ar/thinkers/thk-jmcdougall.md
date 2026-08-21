@@ -1,6 +1,6 @@
 ---
 slug: "thk-jmcdougall"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2192"
 type: "مفكر"
 level: "متقدم"
 title: "جويس ماك دوغال"

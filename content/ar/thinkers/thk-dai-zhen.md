@@ -1,6 +1,6 @@
 ---
 slug: "thk-dai-zhen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2174"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

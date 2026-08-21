@@ -1,6 +1,6 @@
 ---
 slug: "con-occasionalism-ashari"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0802"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

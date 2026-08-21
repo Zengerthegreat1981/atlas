@@ -1,6 +1,6 @@
 ---
 slug: "tec-dbt-er-myths-about-emotions"
-id: "[DRAFT-UNKNOWN]"
+id: "TEC-0333"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "خرافات المشاعر والتعامل معها"

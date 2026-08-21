@@ -1,6 +1,6 @@
 ---
 slug: "con-wuxing"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0806"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

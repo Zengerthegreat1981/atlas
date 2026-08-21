@@ -1,6 +1,6 @@
 ---
 slug: "con-zhixing-heyi"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0807"
 type: "مفهوم"
 part: "philosophy"
 level: "متوسط"

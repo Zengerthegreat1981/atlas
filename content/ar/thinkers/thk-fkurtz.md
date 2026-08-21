@@ -1,6 +1,6 @@
 ---
 slug: "thk-fkurtz"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2182"
 type: "مفكر"
 level: "متوسط"
 title: "رونالد كورتز"

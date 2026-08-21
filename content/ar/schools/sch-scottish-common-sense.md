@@ -1,6 +1,6 @@
 ---
 slug: "sch-scottish-common-sense"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0343"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

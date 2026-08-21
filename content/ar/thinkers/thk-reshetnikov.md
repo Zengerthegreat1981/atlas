@@ -1,6 +1,6 @@
 ---
 slug: "thk-reshetnikov"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2208"
 type: "مفكر"
 level: "متوسط"
 title: "ميخائيل ريشيتنيكوف"

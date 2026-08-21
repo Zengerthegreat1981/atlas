@@ -1,6 +1,6 @@
 ---
 slug: "thk-peirce"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2203"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

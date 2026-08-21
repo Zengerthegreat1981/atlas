@@ -1,6 +1,6 @@
 ---
 slug: "thk-bakunin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2170"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

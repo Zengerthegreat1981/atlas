@@ -1,6 +1,6 @@
 ---
 slug: "thk-hmosak"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2187"
 type: "مفكر"
 level: "متقدم"
 title: "هارولد موساك"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-lu-jiuyuan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2195"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

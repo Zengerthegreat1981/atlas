@@ -1,6 +1,6 @@
 ---
 slug: "thk-rsperry"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2214"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت سبيري"

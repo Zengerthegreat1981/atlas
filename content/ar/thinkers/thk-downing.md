@@ -1,6 +1,6 @@
 ---
 slug: "thk-downing"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2176"
 type: "مفكر"
 level: "متوسط"
 title: "كريستين داونينغ"

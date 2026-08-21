@@ -1,6 +1,6 @@
 ---
 slug: "thk-rmanaster"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2212"
 type: "مفكر"
 level: "متوسط"
 title: "رايتشل ماناستر"

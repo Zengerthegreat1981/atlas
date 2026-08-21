@@ -1,6 +1,6 @@
 ---
 slug: "thk-ectolman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2177"
 type: "مفكر"
 level: "متقدم"
 title: "إدوارد تولمان"

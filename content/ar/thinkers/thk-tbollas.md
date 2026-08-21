@@ -1,6 +1,6 @@
 ---
 slug: "thk-tbollas"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2218"
 type: "مفكر"
 level: "متقدم"
 title: "كريستوفر بولاس"

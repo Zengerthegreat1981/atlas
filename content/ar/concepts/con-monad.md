@@ -1,6 +1,6 @@
 ---
 slug: "con-monad"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0801"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

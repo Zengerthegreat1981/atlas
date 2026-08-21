@@ -1,6 +1,6 @@
 ---
 slug: "thk-mseligman"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2200"
 type: "مفكر"
 level: "متقدم"
 title: "مارتن سيليجمان"

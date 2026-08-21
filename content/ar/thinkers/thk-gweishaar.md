@@ -1,6 +1,6 @@
 ---
 slug: "thk-gweishaar"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2185"
 type: "مفكر"
 level: "متوسط"
 title: "إريك وايشار"

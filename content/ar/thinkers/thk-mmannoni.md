@@ -1,6 +1,6 @@
 ---
 slug: "thk-mmannoni"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2198"
 type: "مفكر"
 level: "متقدم"
 title: "مود مانوني"

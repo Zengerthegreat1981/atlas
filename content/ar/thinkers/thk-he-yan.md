@@ -1,6 +1,6 @@
 ---
 slug: "thk-he-yan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2186"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

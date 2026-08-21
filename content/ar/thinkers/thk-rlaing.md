@@ -1,6 +1,6 @@
 ---
 slug: "thk-rlaing"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2211"
 type: "مفكر"
 level: "متقدم"
 title: "رونالد لانغ"

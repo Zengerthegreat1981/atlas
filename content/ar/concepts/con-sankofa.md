@@ -1,6 +1,6 @@
 ---
 slug: "con-sankofa"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0803"
 type: "مفهوم"
 part: "philosophy"
 level: "مبتدئ"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-egendlin"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2179"
 type: "مفكر"
 level: "متقدم"
 title: "يوجين جيندلين"

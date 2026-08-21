@@ -1,6 +1,6 @@
 ---
 slug: "dbt-shunyata-vs-brahman"
-id: "[DRAFT-UNKNOWN]"
+id: "DBT-0351"
 type: "جدل"
 part: "philosophy"
 level: "متقدم"

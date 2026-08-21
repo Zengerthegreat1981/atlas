@@ -1,6 +1,6 @@
 ---
 slug: "thk-rcorsini"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2206"
 type: "مفكر"
 level: "متوسط"
 title: "راي كورسيني"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-jcarlson"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2190"
 type: "مفكر"
 level: "متوسط"
 title: "جون كارلسون"

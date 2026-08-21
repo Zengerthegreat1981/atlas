@@ -1,6 +1,6 @@
 ---
 slug: "thk-cheng-yi"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2173"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

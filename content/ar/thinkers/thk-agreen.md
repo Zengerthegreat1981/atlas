@@ -1,6 +1,6 @@
 ---
 slug: "thk-agreen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2168"
 type: "مفكر"
 level: "متقدم"
 title: "أندريه غرين"

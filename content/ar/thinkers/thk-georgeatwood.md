@@ -1,6 +1,6 @@
 ---
 slug: "thk-georgeatwood"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2184"
 type: "مفكر"
 level: "متقدم"
 title: "جورج أتوود"

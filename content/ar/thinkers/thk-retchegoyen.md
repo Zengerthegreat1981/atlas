@@ -1,6 +1,6 @@
 ---
 slug: "thk-retchegoyen"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2209"
 type: "مفكر"
 level: "متقدم"
 title: "رودولفو إتشغوين"

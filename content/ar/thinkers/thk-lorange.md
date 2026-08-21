@@ -1,6 +1,6 @@
 ---
 slug: "thk-lorange"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2194"
 type: "مفكر"
 level: "متقدم"
 title: "دونا أورانج"

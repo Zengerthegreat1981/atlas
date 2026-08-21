@@ -1,6 +1,6 @@
 ---
 slug: "sch-xuanxue"
-id: "[DRAFT-UNKNOWN]"
+id: "SCH-0344"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"

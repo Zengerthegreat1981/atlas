@@ -1,6 +1,6 @@
 ---
 slug: "thk-jgrotstein"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2191"
 type: "مفكر"
 level: "متقدم"
 title: "جيمس جروتشتاين"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-cgilligan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2172"
 type: "مفكر"
 level: "متقدم"
 title: "كارول جيليجان"

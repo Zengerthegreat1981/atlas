@@ -1,6 +1,6 @@
 ---
 slug: "thk-edeci"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2178"
 type: "مفكر"
 level: "متقدم"
 title: "إدوارد ديسي"

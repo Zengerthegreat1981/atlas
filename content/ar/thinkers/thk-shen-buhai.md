@@ -1,6 +1,6 @@
 ---
 slug: "thk-shen-buhai"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2216"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"

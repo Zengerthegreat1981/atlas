@@ -1,6 +1,6 @@
 ---
 slug: "thk-rwatts"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2215"
 type: "مفكر"
 level: "متوسط"
 title: "ريتشارد واتس"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-epichon"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2180"
 type: "مفكر"
 level: "متقدم"
 title: "إنريكيه بيتشون-ريفيير"

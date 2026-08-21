@@ -1,6 +1,6 @@
 ---
 slug: "con-eternal-return"
-id: "[DRAFT-UNKNOWN]"
+id: "CON-0800"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

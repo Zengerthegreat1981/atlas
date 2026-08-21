@@ -1,6 +1,6 @@
 ---
 slug: "thk-msolms"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2201"
 type: "مفكر"
 level: "متقدم"
 title: "مارك سولمز"

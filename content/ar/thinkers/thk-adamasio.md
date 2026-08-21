@@ -1,6 +1,6 @@
 ---
 slug: "thk-adamasio"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2167"
 type: "مفكر"
 level: "متقدم"
 title: "أنطونيو داماسيو"

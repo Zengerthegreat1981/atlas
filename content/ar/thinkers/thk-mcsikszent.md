@@ -1,6 +1,6 @@
 ---
 slug: "thk-mcsikszent"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2196"
 type: "مفكر"
 level: "متقدم"
 title: "ميهاي سيكسنتميهالي"

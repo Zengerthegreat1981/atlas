@@ -1,6 +1,6 @@
 ---
 slug: "thk-mou-zongsan"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2199"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

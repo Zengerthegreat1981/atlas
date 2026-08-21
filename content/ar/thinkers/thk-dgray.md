@@ -1,6 +1,6 @@
 ---
 slug: "thk-dgray"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2175"
 type: "مفكر"
 level: "متوسط"
 title: "مارتن ديك"

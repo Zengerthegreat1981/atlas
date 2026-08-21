@@ -1,6 +1,6 @@
 ---
 slug: "thk-arascovsky"
-id: "[DRAFT-UNKNOWN]"
+id: "THK-2169"
 type: "مفكر"
 level: "متقدم"
 title: "أرماندو راسكوفسكي"
