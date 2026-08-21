@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-act-pres-anchoring-in-the-five-senses", title: "الرسو في الحواس الخمس", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-  - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-mind-participate", title: "المشاركة", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-mind-effectiveness", title: "الفعالية", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

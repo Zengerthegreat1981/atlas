@@ -35,7 +35,7 @@ related:
   - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
   - id: "syn-craving-urge", title: "متلازمة الرغبة الشديدة والاندفاع", type: "متلازمة"
   - id: "syn-obsessive-thoughts", title: "متلازمة الأفكار الوسواسية", type: "متلازمة"
-  - id: "school-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+  - id: "sch-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "البيانات الوبائية لانتشار Excoriation Disorder في المنطقة العربية غير متاحة في المصادر الأولية المراجعة."
   - "التمييز الدقيق بين 'نتف الجلد' المُحرَّض ميكانيكياً (MDPsychodermatology) و Excoriation Disorder يحتاج مراجعة طبية متخصصة."

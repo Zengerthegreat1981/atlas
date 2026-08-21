@@ -16,7 +16,7 @@ related:
   - id: "tec-dbt-er-accumulating-positives-build-mastery", title: "تجميع الإيجابيات طويلة المدى وبناء الإتقان (B)", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-please", title: "بليز (PLEASE) — خفض الحساسية للمشاعر السلبية", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

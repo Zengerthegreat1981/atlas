@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-act-def-the-hands-as-thoughts-metaphor", title: "استعارة اليدين كأفكار", type: "تقنية/تدخل علاجي"
   - id: "tec-act-def-carrying-a-card-with-your-thought", title: "حمل بطاقة بالفكرة", type: "تقنية/تدخل علاجي"
-  - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

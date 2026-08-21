@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-ie-give", title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "مصدر الإضافة: Linehan، M. M. (2015). DBT Skills Training Handouts and Worksheets, Second Edition."
   - "لا يوجد اقتباس مباشر موثوق متاح."

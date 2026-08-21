@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-daily-dbt-coping-toolbox", title: "صندوق أدوات التأقلم الشخصي", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-daily-skills-chaining-skill-stacking", title: "تسلسل المهارات (Skill Stacking)", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "مصدر الإضافة: Linehan، M. M. (2015). DBT Skills Training Handouts and Worksheets, Second Edition."
   - "لا يوجد اقتباس مباشر موثوق متاح."

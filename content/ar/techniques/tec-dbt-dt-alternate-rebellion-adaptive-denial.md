@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-dt-improve-the-moment", title: "تحسين اللحظة (IMPROVE)", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "مصدر الإضافة: Linehan، M. M. (2015). DBT Skills Training Handouts and Worksheets, Second Edition. قد يكون المصدر الأولي غير محدد بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

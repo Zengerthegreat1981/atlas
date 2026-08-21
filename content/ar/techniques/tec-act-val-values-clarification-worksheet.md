@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
   - id: "tec-act-val-values-vs-goals-distinction", title: "التمييز بين القيم والأهداف", type: "تقنية/تدخل علاجي"
-  - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

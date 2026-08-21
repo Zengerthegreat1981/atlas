@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-anchoring-in-the-five-senses", title: "الرسو في الحواس الخمس", type: "تقنية/تدخل علاجي"
-  - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
   - id: "tec-dbt-er-please", title: "بليز (PLEASE) — خفض الحساسية للمشاعر السلبية", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-mind-participate", title: "المشاركة", type: "تقنية/تدخل علاجي"
 gaps:

@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-myths-about-emotions", title: "خرافات المشاعر والتعامل معها", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

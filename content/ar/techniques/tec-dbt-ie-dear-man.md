@@ -15,7 +15,7 @@ related:
   - id: "tec-dbt-ie-give", title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-ie-fast", title: "فاست (FAST) — توكيد واحترام الذات", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-ie-checking-intentions-in-communication", title: "التحقق من الهدف قبل التواصل", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

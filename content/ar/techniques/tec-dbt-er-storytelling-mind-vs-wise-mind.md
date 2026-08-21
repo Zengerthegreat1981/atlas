@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-dialectical-thinking", title: "التفكير الجدلي (الديالكتيكي)", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "مصدر الإضافة: Linehan، M. M. (2015). DBT Skills Training Handouts and Worksheets, Second Edition. قد يحتاج تحققاً إضافياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

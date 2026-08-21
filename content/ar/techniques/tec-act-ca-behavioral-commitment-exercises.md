@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-act-ca-taking-the-first-step", title: "أخذ الخطوة الأولى", type: "تقنية/تدخل علاجي"
   - id: "tec-act-ca-self-rewarding", title: "مكافأة الذات", type: "تقنية/تدخل علاجي"
-  - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

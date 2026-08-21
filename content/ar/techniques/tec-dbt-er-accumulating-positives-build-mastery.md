@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-er-abc-please", title: "ايه بي سي بليز (ABC PLEASE) — خفض الهشاشة الانفعالية", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-building-positive-experiences", title: "بناء تجارب إيجابية قصيرة المدى (A)", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

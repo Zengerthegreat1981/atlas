@@ -17,7 +17,7 @@ related:
   - id: "tec-cbt-mind-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
   - id: "tec-mbsr", title: "الحد من الضغط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
-  - id: "school-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+  - id: "sch-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

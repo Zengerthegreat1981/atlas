@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-act-sac-the-sky-and-weather-metaphor", title: "استعارة السماء والطقس", type: "تقنية/تدخل علاجي"
   - id: "tec-act-sac-the-house-of-self-exercise", title: "تمرين بيت الذات", type: "تقنية/تدخل علاجي"
-  - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

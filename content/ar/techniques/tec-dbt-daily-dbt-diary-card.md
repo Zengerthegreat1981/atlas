@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-daily-weekly-skills-review", title: "المراجعة الأسبوعية للمهارات", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-daily-dbt-coping-toolbox", title: "صندوق أدوات التأقلم الشخصي", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

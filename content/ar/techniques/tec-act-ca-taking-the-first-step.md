@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-act-ca-tiny-steps-approach", title: "أسلوب الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
   - id: "tec-act-ca-willingness-to-fail-forward", title: "الاستعداد للفشل والتقدم رغمه", type: "تقنية/تدخل علاجي"
-  - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
