@@ -37,8 +37,9 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 3. **[spark-full-completion-pipeline.md](spark-full-completion-pipeline.md)** ✅ خلصان بالكامل
    (3 مراحل، 2026-08-21).
 4. **[historical-dsm-backlog.md](historical-dsm-backlog.md)** ✅ خلصان بالكامل (31 بند، 2026-08-21).
-   **مفيش مهمة تالية معيَّنة لسه** — استنى تعليمات صريحة من صاحب المشروع قبل أي حاجة جديدة (لا تبدأ
-   فلسفة بمفردك، ولا تلمس مهمة MiniMax الحالية).
+5. **[spark-syndromes-pop-psychology-pipeline.md](spark-syndromes-pop-psychology-pipeline.md)** —
+   المهمة الحالية (بتاريخ 2026-08-21): تغطية شاملة للمتلازمات (`syn-`) ثم علم النفس الشعبي (Pop
+   Psychology، حقل `register` الجديد). ابدأ من هنا مباشرة — راجع `draft-writer-brief.md` §2د أولاً.
 
 ### مسار MiniMax
 
