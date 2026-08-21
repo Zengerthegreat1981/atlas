@@ -12,7 +12,7 @@ active_start: 1895
 active_end: "مستمر"
 language: "الألمانية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "سيغموند فرويد", target_type: "مفكر"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

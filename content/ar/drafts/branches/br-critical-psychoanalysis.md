@@ -12,7 +12,7 @@ active_start: 1974
 active_end: "مستمر"
 language: "الفرنسية / الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
   - id: "thk-jbenjamin", title: "جيسيكا بنجامين", type: "مفكر"
   - id: "thk-irigaray", title: "لوس إيريغاراي", type: "مفكر"

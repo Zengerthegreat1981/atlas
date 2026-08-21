@@ -12,7 +12,7 @@ active_start: 1955
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
   - rel: "developed_by", target: "جورج كيلي", target_type: "مفكر"
 related:
   - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"

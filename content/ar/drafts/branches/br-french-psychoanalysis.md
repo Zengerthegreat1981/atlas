@@ -12,7 +12,7 @@ active_start: 1950
 active_end: "مستمر"
 language: "الفرنسية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
   - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
   - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"

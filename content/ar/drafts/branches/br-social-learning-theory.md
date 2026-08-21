@@ -12,7 +12,7 @@ active_start: 1963
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
   - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
   - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"

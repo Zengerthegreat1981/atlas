@@ -12,7 +12,7 @@ active_start: 1932
 active_end: 1959
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
   - id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"

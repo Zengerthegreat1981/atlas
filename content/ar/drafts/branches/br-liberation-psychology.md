@@ -12,7 +12,7 @@ active_start: 1986
 active_end: "مستمر"
 language: "الإسبانية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
   - rel: "developed_by", target: "إغناسيو مارتين-بارو", target_type: "مفكر"
 related:
   - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"

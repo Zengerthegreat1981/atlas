@@ -12,7 +12,7 @@ active_start: 1950
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
   - rel: "developed_by", target: "رولو ماي", target_type: "مفكر"
 related:
   - id: "thk-may", title: "رولو ماي", type: "مفكر"

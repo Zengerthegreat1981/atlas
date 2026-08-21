@@ -12,7 +12,7 @@ active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
   - id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
   - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"

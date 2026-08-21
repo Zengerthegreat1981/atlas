@@ -12,7 +12,7 @@ active_start: 1999
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "مارك سولمز", target_type: "مفكر"
 related:
   - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"

@@ -12,7 +12,7 @@ active_start: 1978
 active_end: "مستمر"
 language: "الدنماركية / الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
 gaps:

@@ -12,7 +12,7 @@ active_start: 1945
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "دونالد وينيكوت", target_type: "مفكر"
   - rel: "developed_by", target: "رونالد فيربيرن", target_type: "مفكر"
 related:

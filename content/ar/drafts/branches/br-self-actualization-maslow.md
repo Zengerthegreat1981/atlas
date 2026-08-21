@@ -12,7 +12,7 @@ active_start: 1943
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
   - rel: "developed_by", target: "أبراهام ماسلو", target_type: "مفكر"
 related:
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"

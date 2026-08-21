@@ -12,7 +12,7 @@ active_start: 1975
 active_end: "مستمر"
 language: "الفلبينية / الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي", type: "تيار"
 gaps:

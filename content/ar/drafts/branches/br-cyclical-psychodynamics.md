@@ -12,7 +12,7 @@ active_start: 1977
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "بول واختل", target_type: "مفكر"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

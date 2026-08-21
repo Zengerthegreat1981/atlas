@@ -12,7 +12,7 @@ active_start: 1976
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
 gaps:

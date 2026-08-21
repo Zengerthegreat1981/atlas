@@ -12,7 +12,7 @@ active_start: 1937
 active_end: "مستمر"
 language: "الألمانية / الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "هاينز هارتمان", target_type: "مفكر"
 related:
   - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"

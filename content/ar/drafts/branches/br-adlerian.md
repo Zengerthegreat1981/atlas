@@ -12,7 +12,7 @@ active_start: 1912
 active_end: "مستمر"
 language: "الألمانية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "ألفريد أدلر", target_type: "مفكر"
 related:
   - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"

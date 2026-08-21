@@ -1958,3 +1958,18 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   **القيد المعماري الذي لم يُحل (موثَّق):** `scripts/build_slug_index.py` لا يتضمن `"مدرسة"` في `TYPE_ORDER`، فملفات `sch-*` الـ 333 لا تظهر في قسم مرئي في `EXISTING_SLUGS.md` رغم أنها تُعدّ في الإجمالي. **ممنوع** الاعتماد على الفهرس وحده للتحقق من وجود `sch-*` — التحقق من القرص مباشرة (`ls content/ar/drafts/schools/`) هو القاعدة.
 
   **القرار المعماري الإضافي:** لا تكتب `rel-*` لزوج بدون ملف `sch-` (أو `school-`) للطرفين، حتى لو التوثيق الأكاديمي موجود بقوة. **القاعدة:** مدرسة بلا ملف تمثيلي = علاقة مؤجَّلة، لا علاقة مُختلَقة.
+
+- [2026-08-21] **مسار Spark — تدقيق سلامة قسم الفلسفة والروابط المعلّقة عبر الأطلس (`spark-philosophy-integrity-audit-pipeline.md`) — مكتمل 100%**
+  - **المهمة 1 (تدقيق التكرار والتعارضات في قسم الفلسفة)**:
+    - فحص 769 ملفاً فلسفياً و4,164 ملفاً إجمالياً عبر الأطلس.
+    - حل 8 حالات تطابق تام في الـ slug بين مسودات فلسفية وملفات معتمدة (`thk-schopenhauer`, `thk-emerson`, `thk-schelling`, `thk-kierkegaard`, `thk-hegel`, `thk-rousseau`, `thk-nishida`, `thk-nietzsche`) بحذف المسودات الزائدة والاحتفاظ بالمعتمد.
+    - فك اشتباك تشابه الأسماء لـ `thk-solomon` (الملك سليمان التوراتي) بنقله إلى `thk-solomon-hebrew` وتحديث روابطه لمنع التعارض مع الفيلسوف روبرت سولومون (`THK-0540`).
+    - دمج وحذف 6 مسودات لمفكرين معتمدين بـ slugs متباينة (`thk-taylor-charles` -> `thk-charlestaylor`, `thk-wdilthey` -> `thk-dilthey`, `thk-chomsky` -> `thk-nchomsky`, `thk-james-william` -> `thk-james`, `thk-mbuber` -> `thk-buber`, `thk-aschutz` -> `thk-schutz`).
+    - دمج وتصفية 17 مسودة مكررة داخل المسودات (مثل: `thk-kahneman`, `thk-macintyre`, `thk-peter-singer`, `thk-hooks`, `thk-arne-naess`, `wrk-kuhn-structure-revolutions`, إلخ) وتحديث كافة الإحالات المرجعية.
+    - توثيق التقرير بالكامل في [spark-philosophy-dedup-report.md](agents_specs/spark-philosophy-dedup-report.md).
+  - **المهمة 2 (فحص الروابط المعلّقة Phantom Slugs عبر الأطلس)**:
+    - فحص أكثر من 10,200 رابط `related:` و `edges:`.
+    - تصويب وتحديث 142 رابطاً معلّقاً ناتجاً عن أخطاء كتابية أو عدم تطابق في بادئات الأصناف (`dis-`, `sch-`, `con-`, `thk-`, `tec-`).
+    - تنظيف الروابط الصامتة للمفاهيم العامة غير المعرفة في المسودات.
+    - توثيق التقرير بالكامل في [phantom-slugs-audit-report.md](agents_specs/phantom-slugs-audit-report.md).
+  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: تم تحديثه ليصل إلى **4153 عنصراً** (4038 معتمداً + 115 مسودة) مع **صفر تعارض في الـ Slugs**.

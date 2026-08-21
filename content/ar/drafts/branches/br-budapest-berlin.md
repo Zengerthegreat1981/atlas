@@ -12,7 +12,7 @@ active_start: 1913
 active_end: 1933
 language: "الألمانية / المجرية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "ساندور فيرينتزي", target_type: "مفكر"
   - rel: "developed_by", target: "كارل أبراهام", target_type: "مفكر"
 related:

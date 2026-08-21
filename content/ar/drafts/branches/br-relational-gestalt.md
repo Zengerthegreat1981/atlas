@@ -12,7 +12,7 @@ active_start: 1990
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
   - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"

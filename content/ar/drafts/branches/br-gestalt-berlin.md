@@ -12,7 +12,7 @@ active_start: 1912
 active_end: 1935
 language: "الألمانية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
   - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"

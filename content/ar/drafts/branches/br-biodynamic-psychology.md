@@ -12,7 +12,7 @@ active_start: 1969
 active_end: "مستمر"
 language: "النرويجية / الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
   - id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"

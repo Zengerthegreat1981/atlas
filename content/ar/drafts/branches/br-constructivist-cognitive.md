@@ -12,7 +12,7 @@ active_start: 1980
 active_end: "مستمر"
 language: "الإنجليزية / الإيطالية"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
   - id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية", type: "تيار"
   - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"

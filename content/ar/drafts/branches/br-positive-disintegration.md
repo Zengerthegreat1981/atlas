@@ -12,7 +12,7 @@ active_start: 1964
 active_end: "مستمر"
 language: "البولندية / الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
   - id: "con-anxiety", title: "القلق", type: "مفهوم"

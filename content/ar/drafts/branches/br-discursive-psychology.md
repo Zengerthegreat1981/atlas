@@ -12,7 +12,7 @@ active_start: 1987
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
 gaps:

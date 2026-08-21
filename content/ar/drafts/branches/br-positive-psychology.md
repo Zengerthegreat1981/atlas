@@ -12,7 +12,7 @@ active_start: 1998
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
   - rel: "developed_by", target: "مارتن سليغمان", target_type: "مفكر"
 related:
   - id: "thk-wong", title: "بول وونغ", type: "مفكر"

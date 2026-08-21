@@ -12,7 +12,7 @@ active_start: 1971
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "هاينز كوهوت", target_type: "مفكر"
 related:
   - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"

@@ -12,7 +12,7 @@ active_start: 1935
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
   - rel: "developed_by", target: "كارين هورني", target_type: "مفكر"
   - rel: "developed_by", target: "إريك فروم", target_type: "مفكر"
   - rel: "developed_by", target: "هاري ستاك سوليفان", target_type: "مفكر"

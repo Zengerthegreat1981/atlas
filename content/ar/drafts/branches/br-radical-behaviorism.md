@@ -12,7 +12,7 @@ active_start: 1938
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
   - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"

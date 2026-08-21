@@ -12,7 +12,7 @@ active_start: 1980
 active_end: "مستمر"
 language: "الإنجليزية / الألمانية"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-fromm", title: "إريك فروم", type: "مفكر"

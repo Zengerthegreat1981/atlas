@@ -2,14 +2,14 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **4155** عنصراً (**418** معتمد + **3737** مسودة).
+الإجمالي: **4170** عنصراً (**418** معتمد + **3752** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
 ⚠️ **9 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-schopenhauer, thk-emerson, thk-schelling, thk-kierkegaard, thk-hegel, thk-solomon, thk-rousseau, thk-nishida, thk-nietzsche
 
-## مفكر (1928)
+## مفكر (1929)
 
 - `con-complex-ptsd` — اضطراب الكرب التالي للصدمة المعقد (C-PTSD) — 🕓 مسودة
 - `con-dissociation` — الانفصال (Dissociation) — 🕓 مسودة
@@ -1691,6 +1691,7 @@
 - `thk-socrates` — سقراط — ✅ معتمد
 - `thk-sohrevardi` — شهاب الدين يحيى السهروردي (شيخ الإشراق) — 🕓 مسودة
 - `thk-solomon` — روبرت سولومون — ✅ معتمد
+- `thk-solomon-hebrew` — سليمان (في التقليد التوراتي) — 🕓 مسودة
 - `thk-soloveitchik` — جوزيف سولوفيتشيك — ✅ معتمد
 - `thk-soltz` — فيكي سولْتز — 🕓 مسودة
 - `thk-sothmer` — سيغفريد أوتمر — 🕓 مسودة
@@ -2838,13 +2839,14 @@
 - `br-vegetotherapy-orgonomy` — العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية) — 🕓 مسودة
 - `br-vr-therapy` — العلاج بالواقع الافتراضي — 🕓 مسودة
 
-## مدرسة (333)
+## مدرسة (347)
 
 - `sch-abhidharma` — مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا) — 🕓 مسودة
 - `sch-absurdism` — العبثية (Absurdism / Le Mythe de Sisyphe) — 🕓 مسودة
 - `sch-academic-skepticism` — الشك الأكاديمي (Academic Skepticism) — 🕓 مسودة
 - `sch-academy-platonic` — الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية) — 🕓 مسودة
 - `sch-acintya-bhedabheda` — أتشينتيا بيدا أبيدا (تشايتانية) — 🕓 مسودة
+- `sch-act` — العلاج بالقبول والالتزام (ACT) — 🕓 مسودة
 - `sch-adat` — أدات (العرف الفلسفي في إندونيسيا وماليزيا) — 🕓 مسودة
 - `sch-advaita-vedanta` — أدفايتا فيدانتا (اللاتثنية) — 🕓 مسودة
 - `sch-african-cross-cultural` — الفلسفة الأفريقية بين-الثقافية — 🕓 مسودة
@@ -2879,9 +2881,11 @@
 - `sch-atomism-greek` — الذرية اليونانية (Greek Atomism) — 🕓 مسودة
 - `sch-augustinianism` — الأوغسطينية — 🕓 مسودة
 - `sch-aurobindo` — فلسفة أوروبندو (اليوغا التكاملية) — 🕓 مسودة
+- `sch-behaviorism` — السلوكية (Behaviorism) — 🕓 مسودة
 - `sch-berkeleianism` — المثالية الذاتية البركلية — 🕓 مسودة
 - `sch-bhakti-movement` — حركة البهاكتي الفلسفية — 🕓 مسودة
 - `sch-bhedabheda` — بيدابيدا (دفايتادفايتا) — 🕓 مسودة
+- `sch-biological-neuro` — علم النفس البيولوجي والعصبي (Biological & Neuropsychology) — 🕓 مسودة
 - `sch-black-existentialism` — الوجودية السوداء — 🕓 مسودة
 - `sch-bon` — البون (التقليد الديني التبت الأصلي) — 🕓 مسودة
 - `sch-bowen-ferrer-vivir` — فلسفة بوين فيفير / سومَك كاوساي (المعاصرة) — 🕓 مسودة
@@ -2902,6 +2906,7 @@
 - `sch-christian-mysticism-medieval` — التصوّف المسيحي الوسيط — 🕓 مسودة
 - `sch-civic-republicanism` — الجمهورية المدنية (Civic Republicanism) — 🕓 مسودة
 - `sch-classical-liberalism-early` — الليبرالية الكلاسيكية المبكرة — 🕓 مسودة
+- `sch-cognitive-behavioral` — العلاج المعرفي السلوكي (CBT) — 🕓 مسودة
 - `sch-communitarianism` — الجماعاتية — 🕓 مسودة
 - `sch-comparative-philosophy` — الفلسفة المقارنة — 🕓 مسودة
 - `sch-comtian-positivism` — الوضعية / الكومتية — 🕓 مسودة
@@ -2916,6 +2921,7 @@
 - `sch-cyrenaic` — المدرسة القورينائية (Cyrenaic School) — 🕓 مسودة
 - `sch-daoism-philosophical` — الداووية الفلسفية — 🕓 مسودة
 - `sch-daoism-religious` — الداووية الدينية — 🕓 مسودة
+- `sch-dbt` — العلاج الجدلي السلوكي (DBT) — 🕓 مسودة
 - `sch-decolonial-latin` — الفلسفة الديكولونيالية اللاتينية الأمريكية — 🕓 مسودة
 - `sch-decolonial-philosophy` — الفلسفة الديكولونيالية (كمظلة عالمية) — 🕓 مسودة
 - `sch-deconstruction` — التفكيكية (Déconstruction) — 🕓 مسودة
@@ -2923,6 +2929,7 @@
 - `sch-deism` — الربوبية (Deism) — 🕓 مسودة
 - `sch-deliberative-democracy` — الديمقراطية التداولية — 🕓 مسودة
 - `sch-dependency-theory` — نظرية التبعية — 🕓 مسودة
+- `sch-developmental` — علم النفس التطوري (Developmental Psychology) — 🕓 مسودة
 - `sch-dogon` — فلسفة الدوجون (مالي) — 🕓 مسودة
 - `sch-donghak` — دونغهاك / تشوندوغيو — 🕓 مسودة
 - `sch-dreamtime` — Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين) — 🕓 مسودة
@@ -2937,6 +2944,7 @@
 - `sch-epicureanism` — الأبيقورية (Epicureanism) — 🕓 مسودة
 - `sch-ethiopian-hataata` — الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا) — 🕓 مسودة
 - `sch-ethnophilosophy` — الإثنوفلسفة — 🕓 مسودة
+- `sch-existential-therapy` — الوجودية العلاجية (Existential Therapy) — 🕓 مسودة
 - `sch-existentialism` — الوجودية (Existentialism) — 🕓 مسودة
 - `sch-existentialism-atheist` — الوجودية الملحدة (Atheist Existentialism) — 🕓 مسودة
 - `sch-existentialism-religious` — الوجودية الدينية/المسيحية (Christian Existentialism) — 🕓 مسودة
@@ -2957,6 +2965,7 @@
 - `sch-gandhianism` — الغاندية (كفلسفة سياسية-أخلاقية) — 🕓 مسودة
 - `sch-gelug` — غيلوغ (البوذية التبتية) — 🕓 مسودة
 - `sch-german-idealism` — المثالية الألمانية (كمظلة) — 🕓 مسودة
+- `sch-gestalt-therapy` — علاج الجشطالت (Gestalt Therapy) — 🕓 مسودة
 - `sch-gnosticism` — الغنوصية القديمة (بفروعها) — 🕓 مسودة
 - `sch-hasidic` — الحسيدية الفلسفية — 🕓 مسودة
 - `sch-haskalah` — هَسْكَلاة (التنوير اليهودي) — 🕓 مسودة
@@ -2972,6 +2981,7 @@
 - `sch-hindutva` — الفلسفة الهندوسية القومية (هندوتفا) — 🕓 مسودة
 - `sch-huang-lao` — هوانغ-لاو (Huang-Lao) — 🕓 مسودة
 - `sch-huayan` — هوايان (الصينية) — 🕓 مسودة
+- `sch-humanistic` — علم النفس الإنساني (Humanistic Psychology) — 🕓 مسودة
 - `sch-humeanism` — الهيومية (الشكّ التجريبي) — 🕓 مسودة
 - `sch-ibadi-kalam` — الكلام الإباضي — 🕓 مسودة
 - `sch-ifa` — تقاليد اليوروبا الفلسفية (Ifá) — 🕓 مسودة
@@ -3079,6 +3089,7 @@
 - `sch-philosophy-of-disability` — فلسفة الإعاقة — 🕓 مسودة
 - `sch-philosophy-of-technology` — فلسفة التكنولوجيا — 🕓 مسودة
 - `sch-political-islam` — الإسلام السياسي (كتيار فكري) — 🕓 مسودة
+- `sch-positive-psychology` — علم النفس الإيجابي (Positive Psychology) — 🕓 مسودة
 - `sch-positivism-latin` — الوضعية اللاتينية (في أمريكا اللاتينية) — 🕓 مسودة
 - `sch-post-kyoto` — ما بعد مدرسة كيوتو — 🕓 مسودة
 - `sch-post-structuralism` — ما بعد البنيوية (Post-structuralisme) — 🕓 مسودة
@@ -3087,6 +3098,7 @@
 - `sch-postmodernism-philosophical` — ما بعد الحداثة الفلسفية (Philosophical Postmodernism) — 🕓 مسودة
 - `sch-pragmatism-classical` — البراغماتية الكلاسيكية — 🕓 مسودة
 - `sch-process-philosophy` — فلسفة العملية (Process Philosophy) — 🕓 مسودة
+- `sch-psychoanalysis` — التحليل النفسي (Psychoanalysis) — 🕓 مسودة
 - `sch-pure-land` — الأرض الطاهرة (جينغتو / جودو) — 🕓 مسودة
 - `sch-pyrrhonism` — الشك البيروني (Pyrrhonian Skepticism) — 🕓 مسودة
 - `sch-pythagorean` — الفيثاغورية (Pythagoreanism) — 🕓 مسودة
@@ -3126,11 +3138,13 @@
 - `sch-social-contract` — العقد الاجتماعي (كتيار فلسفي سياسي) — 🕓 مسودة
 - `sch-social-darwinism` — الداروينية الاجتماعية — 🕓 مسودة
 - `sch-social-ecology` — الإيكولوجيا الاجتماعية — 🕓 مسودة
+- `sch-social-psychology` — علم النفس الاجتماعي (Social Psychology) — 🕓 مسودة
 - `sch-sophistry` — السفسطائية (Sophistry) — 🕓 مسودة
 - `sch-speculative-realism` — الواقعية المضاربة (Speculative Realism) — 🕓 مسودة
 - `sch-spinozism` — السبينوزية — 🕓 مسودة
 - `sch-stoicism` — الرواقية (Stoicism) — 🕓 مسودة
 - `sch-structuralism` — البنيوية (Structuralisme) — 🕓 مسودة
+- `sch-systemic-family` — العلاج الأسري والنظامي (Systemic/Family Therapy) — 🕓 مسودة
 - `sch-tagore-philosophy` — الفلسفة الطاغورية — 🕓 مسودة
 - `sch-tathagatagarbha` — تاثاغاتاغاربها (طبيعة البوذا) — 🕓 مسودة
 - `sch-tendai-japan` — تنداي اليابانية — 🕓 مسودة
@@ -3141,6 +3155,7 @@
 - `sch-transcendentalism` — التجاوزية الأمريكية — 🕓 مسودة
 - `sch-transfeminism` — الترانسفيمينية (نسوية العابرين جنسياً) — 🕓 مسودة
 - `sch-transhumanism` — الإنسانية العابرة (Transhumanism) — 🕓 مسودة
+- `sch-transpersonal` — علم النفس عبر الشخصي (Transpersonal Psychology) — 🕓 مسودة
 - `sch-truc-lam` — تروك لام (البوذية الفيتنامية) — 🕓 مسودة
 - `sch-ubuntu` — فلسفة أوبونتو المعاصرة — 🕓 مسودة
 - `sch-ubuntu-traditional` — فلسفة أوبونتو التقليدية — 🕓 مسودة

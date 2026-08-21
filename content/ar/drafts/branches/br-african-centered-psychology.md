@@ -12,7 +12,7 @@ active_start: 1976
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
   - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
   - id: "br-liberation-psychology", title: "علم نفس التحرير", type: "تيار"

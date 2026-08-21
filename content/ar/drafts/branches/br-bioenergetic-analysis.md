@@ -12,7 +12,7 @@ active_start: 1956
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
   - rel: "developed_by", target: "ألكسندر لوين", target_type: "مفكر"
 related:
   - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"

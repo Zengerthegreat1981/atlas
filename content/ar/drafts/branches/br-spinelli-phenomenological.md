@@ -12,7 +12,7 @@ active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
   - rel: "developed_by", target: "إرنستو سبينيلّي", target_type: "مفكر"
 related:
   - id: "thk-spinelli", title: "إرنستو سبينيلّي", type: "مفكر"

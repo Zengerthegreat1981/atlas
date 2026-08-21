@@ -12,7 +12,7 @@ active_start: 1913
 active_end: "مستمر"
 language: "الإنجليزية / الروسية"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "thk-james", title: "وليم جيمس", type: "مفكر"
   - id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس", type: "تقنية/تدخل علاجي"
