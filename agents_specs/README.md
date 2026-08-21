@@ -42,8 +42,7 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 6. **[spark-studies-instruments-full-coverage-backlog.md](spark-studies-instruments-full-coverage-backlog.md)**
    ✅ خلصان بالكامل (212 بند، 2026-08-21).
 7. **[spark-philosophy-integrity-audit-pipeline.md](spark-philosophy-integrity-audit-pipeline.md)**
-   — المهمة الحالية (بتاريخ 2026-08-21): تدقيق تكرار قسم الفلسفة + فحص الروابط المعلَّقة (Phantom
-   Slugs) عبر الأطلس كله. ابدأ من هنا مباشرة.
+   ✅ خلصان بالكامل (31 تكرار + 142 رابط مصحَّح، 2026-08-21). **مفيش مهمة تالية معيَّنة لسه.**
 
 ### مسار MiniMax
 
@@ -58,8 +57,7 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
    [cross-part-relations-scope-list.md](cross-part-relations-scope-list.md).
 
 5. **[minimax-psychology-schools-backbone-pipeline.md](minimax-psychology-schools-backbone-pipeline.md)**
-   — المهمة الحالية (بتاريخ 2026-08-21): بناء ملفات `sch-` للمدارس النفسية الكبرى (~12-15) اللي
-   لسه ناقصة، ثم استئناف وتوسيع علاقات القسمين. ابدأ من هنا مباشرة.
+   ✅ خلصان بالكامل (14 ملف `sch-` + 8 ملفات `rel-`، 2026-08-21). **مفيش مهمة تالية معيَّنة لسه.**
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/
