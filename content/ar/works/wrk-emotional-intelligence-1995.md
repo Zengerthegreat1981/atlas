@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
   - rel: "authored_by", target: "دانيال غولمان", target_type: "مفكر"
 related:
+  - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Bantam Books) وأرقام المبيعات لم تُراجع من مصدر أولي."
   - "نقد الكتاب (Locke، 2005) لم يُراجع من مصدر أولي."

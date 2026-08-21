@@ -18,6 +18,8 @@ related:
   - id: "tec-cbt-emo-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
   - id: "school-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+  - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
+  - id: "tec-dbt-er-understanding-the-function-of-emotions", title: "وظائف المشاعر والانفعالات", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

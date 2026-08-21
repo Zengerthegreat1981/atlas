@@ -15,6 +15,8 @@ related:
   - id: "tec-act-pres-observing-the-present", title: "ملاحظة الحاضر", type: "تقنية/تدخل علاجي"
   - id: "tec-act-pres-noticing-without-judgment", title: "الملاحظة دون حكم", type: "تقنية/تدخل علاجي"
   - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
+  - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

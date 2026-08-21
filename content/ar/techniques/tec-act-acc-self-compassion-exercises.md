@@ -14,6 +14,8 @@ edges:
 related:
   - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
   - id: "school-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+  - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
+  - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

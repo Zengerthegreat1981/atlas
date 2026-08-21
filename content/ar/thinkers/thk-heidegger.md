@@ -68,6 +68,7 @@ related:
   - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
   - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
   - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+  - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 gaps:
   - "التواريخ والطبعات والترجمات العربية — لم تُدخل"
 ---

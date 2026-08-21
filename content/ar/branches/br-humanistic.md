@@ -22,6 +22,8 @@ related:
   - id: "thk-bugental", title: "بوجنتال", type: "مفكر"
   - id: "dbt-british-yalom", title: "خصومة البريطانيين", type: "جدل"
   - id: "rel-humanistic", title: "القرابة الملتبسة", type: "علاقة"
+  - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
+  - id: "thk-ecraig", title: "إريك كريك", type: "مفكر"
 gaps:
   - "بيانات الأعمال المرجعية وتواريخها — تحتاج تثبيتاً"
 ---

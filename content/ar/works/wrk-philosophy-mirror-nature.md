@@ -17,6 +17,10 @@ edges:
 related:
   - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
   - id: "sch-neopragmatism", title: "البراغماتية الجديدة (Neopragmatism)", type: "مدرسة"
+  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+  - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
+  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "النص الأول (1979) لم يُقارن بالمراجعات اللاحقة لرورتي في 'البراغماتية' (1982)."
   - "لا يوجد اقتباس مباشر موثوق من الفصل 3."
