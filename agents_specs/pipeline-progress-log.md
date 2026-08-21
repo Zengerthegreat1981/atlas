@@ -1708,3 +1708,16 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   - قبل: 2,951 عنصر (443 معتمد + 2,508 مسودة)
   - بعد: 2,887 عنصر (418 معتمد + 2,469 مسودة) — صفر تكرار حرفي قابل للمعالجة.
   - فهرس EXISTING_SLUGS.md مُحدَّث.
+
+- [2026-08-21] **مسار Spark — خطة تشخيصات DSM-III/IV التاريخية (historical-dsm-backlog.md) — مكتمل 100% (31 بنداً)**
+  - **المستوى 1: صفحات تاريخية مستقلة** × 6 صفحات في `content/ar/drafts/`:
+    1. `dis-gender-identity-disorder-historical` — اضطراب الهوية الجنسية التاريخي (GID).
+    2. `dis-aspergers-disorder-historical` — اضطراب أسبيرجر التاريخي (دمج Asperger Disorder و Asperger Syndrome).
+    3. `con-neurosis-historical-framework` — العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية.
+    4. `dis-passive-aggressive-personality-historical` — اضطراب الشخصية العدوانية السلبية التاريخي.
+    5. `dis-retts-disorder-historical` — اضطراب ريت التاريخي (المستبعد كاضطراب وراثي عصبي جيني MECP2).
+    6. `dis-depressive-personality-historical` — اضطراب الشخصية الاكتئابية التاريخي (ملحق DSM-IV).
+  - **المستوى 2: ملاحظات تاريخية مقترحة (Historical Notes)**: تم إنشاء `content/ar/drafts/HISTORICAL_DSM_NOTES.md` موثقاً 24 حالة مع تحديد الصفحات المعتمدة المقابلة وصياغة جمل الملاحظات التاريخية التفصيلية.
+  - **الاستثناء المبرر**: حالة واحدة (Pedophilia Disorder → Pedophilic Disorder) تم استبعادها لكون التعديل شكلياً في التسمية فقط دون تغيير المعايير.
+  - **تحديث قائمة النطاق**: تم تحديث `agents_specs/historical-dsm-scope-list.md` بالكامل وتوثيق الوضع النهائي لجميع البنود الـ 31.
+  - **فهرس الـ slugs**: تم بناء وتحديث `EXISTING_SLUGS.md` بعد كل ملف منشأ.
