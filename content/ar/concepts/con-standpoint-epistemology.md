@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "النسوية السوداء", target_type: "مدرسة"
 related:
-  - id: "thk-hooks", title: "بيل هوكس", type: "مفكر"
+  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
   - id: "thk-cmohanty", title: "شاندرا موهانتي", type: "مفكر"
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
 gaps:

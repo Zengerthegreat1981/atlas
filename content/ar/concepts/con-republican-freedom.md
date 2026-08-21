@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الجمهورية المدنية الجديدة", target_type: "مدرسة"
 related:
-  - id: "thk-taylor-charles", title: "تشارلز تايلور", type: "مفكر"
+  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
   - id: "thk-walzer", title: "مايكل والزر", type: "مفكر"
 gaps:
   - "النصوص التأسيسية (Pettit 1997, Skinner 1998, 2008) تحتاج مراجعة من المصدر الأولي."

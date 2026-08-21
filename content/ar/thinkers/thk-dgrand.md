@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
 related:
   - id: "thk-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-  - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

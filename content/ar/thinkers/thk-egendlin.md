@@ -14,7 +14,7 @@ active_end: 2017
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-crogers", title: "كَارْل رُوجِرز", type: "مفكر"
+  - id: "thk-rogers", title: "كَارْل رُوجِرز", type: "مفكر"
   - id: "thk-mboss", title: "مِدَارْد بُوس", type: "مفكر"
 gaps:
   - "تفصيل التعاون مع كارل روجرز لم يُراجَع بعد."

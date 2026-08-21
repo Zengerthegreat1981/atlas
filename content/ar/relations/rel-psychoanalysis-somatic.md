@@ -16,7 +16,7 @@ related:
   - id: "br-vegetotherapy-orgonomy", title: "العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية)", type: "تيار"
   - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
   - id: "thk-reich", title: "فيلهلم رايش", type: "مفكر"
-  - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
   - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
   - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

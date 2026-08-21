@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الجماعاتية", target_type: "مدرسة"
 related:
-  - id: "thk-taylor-charles", title: "تشارلز تايلور", type: "مفكر"
+  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
   - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
   - id: "thk-honneth", title: "أكسل هونيث", type: "مفكر"
 gaps:

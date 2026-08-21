@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "النسوية السوداء", target_type: "مدرسة"
 related:
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "thk-hooks", title: "بيل هوكس", type: "مفكر"
+  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 gaps:
   - "نصوص Lorde (Sister Outsider, Zami, A Burst of Light) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
   - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
-  - id: "thk-taylor-charles", title: "تشارلز تايلور", type: "مفكر"
+  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
 gaps:
   - "النصوص التأسيسية (Sandel 1982, MacIntyre 1981, Taylor 1989) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس العصبي التحليلي", target_type: "تيار"
 related:
   - id: "thk-msolms", title: "مارك سُولْمز", type: "مفكر"
-  - id: "thk-jpanksepp", title: "جَاك بَانْكِسِب", type: "مفكر"
+  - id: "thk-panksepp", title: "جَاك بَانْكِسِب", type: "مفكر"
 gaps:
   - "مفهوم البصمة الجسدية (Somatic marker) لم يُراجع بعد في مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

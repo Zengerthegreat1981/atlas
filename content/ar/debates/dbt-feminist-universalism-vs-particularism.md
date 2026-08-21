@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
-  - id: "thk-hooks", title: "بيل هوكس", type: "مفكر"
+  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
   - id: "thk-cmohanty", title: "شاندرا موهانتي", type: "مفكر"
   - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
 gaps:

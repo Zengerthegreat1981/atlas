@@ -12,7 +12,7 @@ edges:
   - rel: "belongs_to", target: "العلاج بالصدمة", target_type: "مدرسة"
   - rel: "relates_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
 related:
-  - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
   - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
   - id: "thk-rothschild", title: "بابي روتشيلد", type: "مفكر"
   - id: "thk-shapiro", title: "فرانسين شابيرو", type: "مفكر"

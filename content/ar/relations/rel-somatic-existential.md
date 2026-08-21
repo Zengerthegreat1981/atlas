@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
   - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
   - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
   - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"

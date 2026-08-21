@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "النسوية التقاطعية", target_type: "مدرسة"
 related:
   - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
-  - id: "thk-hooks", title: "بيل هوكس", type: "مفكر"
+  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
   - id: "thk-lorde", title: "أودري لورد", type: "مفكر"
 gaps:
   - "نصوص Crenshaw (Demarginalizing the Intersection, Mapping the Margins) تحتاج مراجعة من المصدر الأولي."

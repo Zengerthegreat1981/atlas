@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علاج الصدمة العصبي", target_type: "مدرسة"
 related:
-  - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
   - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
 related:
-  - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
   - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."

@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "النسوية التقاطعية", target_type: "مدرسة"
 related:
   - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
-  - id: "thk-hooks", title: "بيل هوكس", type: "مفكر"
+  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
   - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
 gaps:
   - "النص التأسيسي Crenshaw 1989 يحتاج مراجعة من المصدر الأولي."
