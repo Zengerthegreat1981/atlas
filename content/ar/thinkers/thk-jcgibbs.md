@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جون سي. غيبز"
 en: "John C. Gibbs"
 crumb: "br-aggression-treatment ← البعد الأخلاقي ← جون سي. غيبز"
-dates: "الولايات المتحدة · القرن العشرون"
+dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1979

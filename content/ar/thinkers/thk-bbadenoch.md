@@ -23,6 +23,6 @@ gaps:
 
 معالجة نفسية أمريكية، أحد أبرز ممارسي IPNB ومؤسِّسة «Nurturing the Heart» لتنمية وعي المعالجين بعلم الأعصاب.
 
-## ما أعطاه
+## ما أعطته
 
 ألفت بادنوك *The Brain-Savvy Therapist* (2010) و*Nurturing the Heart with Your Brain* (2012)، كأدلة عملية لتطبيق IPNB في الجلسة. أشرفت على تطوير «Garrison Institute's Initiative on Contemplative Practices». ركّزت على تعاطف المعالج كأداة لإصلاح التنظيم الانفعالي عند العميل.

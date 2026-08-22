@@ -7,8 +7,9 @@ title: "داغ همرشولد"
 en: "Dag Hammarskjöld"
 crumb: "المدرسة الوجودية ← الناس ← داغ همرشولد"
 dates: "السويد · 1905–1961"
-active_start: 1963
-active_end: 1963
+active_start: 1905
+active_end: 1961
+active_source: "lifespan"
 country: "السويد"
 language: "السويدية / الإنجليزية"
 edges:

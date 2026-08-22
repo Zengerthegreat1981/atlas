@@ -7,8 +7,9 @@ title: "جول لوكييه"
 en: "Jules Lequier"
 crumb: "المدرسة الوجودية ← الناس ← جول لوكييه"
 dates: "فرنسا · 1814–1862"
-active_start: 1865
-active_end: 1865
+active_start: 1814
+active_end: 1862
+active_source: "lifespan"
 country: "فرنسا"
 language: "الفرنسية"
 edges:

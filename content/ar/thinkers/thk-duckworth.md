@@ -25,11 +25,11 @@ gaps:
 
 أستاذة علم النفس بجامعة بنسلفانيا، ومؤسسة مختبر الشخصية (Character Lab)؛ ركزت أبحاثها على دور الشغف والمثابرة طويلة الأمد (Grit) وضبط الذات في التنبؤ بالنجاح.
 
-## ما أعطاه
+## ما أعطته
 
 إسهامات رئيسية في مجال علم النفس الإيجابي والشخصية، وصياغة وتعميم مفاهيم إنسانية وعلاجية وتطبيقية.
 
-## أهم أعماله
+## أهم أعمالها
 
 - *Grit: The Power of Passion and Perseverance (2016)*
 - *Grit: Perseverance and passion for long-term goals (Journal of Personality and Social Psychology, 2007)*

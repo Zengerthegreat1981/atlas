@@ -6,9 +6,9 @@ level: "متوسط"
 title: "ماكس هرتسوغ"
 en: "Max Herzog"
 crumb: "علم النفس الظاهراتي ← الناس ← ماكس هرتسوغ"
-dates: "ألمانيا · القرن العشرون–present"
+dates: "ألمانيا · القرن العشرين–"
 active_start: 1991
-active_end: null
+active_end: "مستمر"
 country: "ألمانيا"
 language: "الألمانية"
 edges:

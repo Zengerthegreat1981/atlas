@@ -8,7 +8,7 @@ en: "Fritz Perls"
 crumb: "المدرسة الوجودية ← الناس ← فريتز بيرلز"
 dates: "ألمانيا / أمريكا · 1893–1970"
 active_start: 1951
-active_end: 1973
+active_end: 1970
 country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
 edges:

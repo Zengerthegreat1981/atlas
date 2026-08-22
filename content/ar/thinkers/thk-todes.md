@@ -7,8 +7,9 @@ title: "صموئيل توديس"
 en: "Samuel Todes"
 crumb: "المدرسة الوجودية ← الناس ← صموئيل توديس"
 dates: "أمريكا · 1924–1994"
-active_start: 2001
-active_end: 2001
+active_start: 1924
+active_end: 1994
+active_source: "lifespan"
 country: "أمريكا"
 language: "الإنجليزية"
 edges:

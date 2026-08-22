@@ -6,7 +6,7 @@ level: "متوسط"
 title: "أدريان راين"
 en: "Adrian Raine"
 crumb: "br-aggression-treatment ← البعد العصبي ← أدريان راين"
-dates: "بريطانيا/الولايات المتحدة · القرن العشرون"
+dates: "بريطانيا/الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1982

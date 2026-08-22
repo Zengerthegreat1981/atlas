@@ -6,7 +6,7 @@ level: "متوسط"
 title: "بول فريك"
 en: "Paul J. Frick"
 crumb: "br-aggression-treatment ← التقييم والقياس ← بول فريك"
-dates: "الولايات المتحدة · القرن العشرون"
+dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990

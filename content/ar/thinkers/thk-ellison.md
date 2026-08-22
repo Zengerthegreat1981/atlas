@@ -8,7 +8,7 @@ en: "Ralph Ellison"
 crumb: "المدرسة الوجودية ← الناس ← رالف إليسون"
 dates: "أمريكا · 1913–1994"
 active_start: 1952
-active_end: 1999
+active_end: 1994
 country: "أمريكا"
 language: "الإنجليزية"
 edges:

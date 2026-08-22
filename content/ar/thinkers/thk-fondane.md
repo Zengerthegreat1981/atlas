@@ -8,7 +8,7 @@ en: "Benjamin Fondane"
 crumb: "المدرسة الوجودية ← الناس ← بنجامين فوندان"
 dates: "رومانيا / فرنسا · 1898–1944"
 active_start: 1936
-active_end: 1947
+active_end: 1944
 country: "رومانيا / فرنسا"
 language: "الفرنسية / الرومانية"
 edges:

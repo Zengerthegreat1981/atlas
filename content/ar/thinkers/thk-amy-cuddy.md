@@ -26,11 +26,11 @@ gaps:
 
 عالمة نفس اجتماعي ومحاضرة سابقة في كلية هارفارد للأعمال، اشتهرت بأبحاث لغة الجسد ووضعيات القوة (Power Posing) وحضور الذات، واحتلت دراساتها موقعاً مركزياً في نقاشات أزمة التكرار في علم النفس.
 
-## ما أعطاه
+## ما أعطته
 
 إسهامات رئيسية في مجال علم النفس الاجتماعي التجريبي، وصياغة وتعميم مفاهيم إنسانية وعلاجية وتطبيقية.
 
-## أهم أعماله
+## أهم أعمالها
 
 - *Presence: Bringing Your Boldest Self to Your Biggest Challenges (2015)*
 - *Power Posing: Brief Nonverbal Displays Affect Neuroendocrine Levels and Risk Tolerance (Psychological Science, 2010)*

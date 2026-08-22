@@ -6,7 +6,7 @@ level: "متقدم"
 title: "أوجين دي لا هورب"
 en: "Eugene de la Horbe"
 crumb: "المدرسة الوجودية ← الناس ← أوجين دي لا هورب"
-dates: "فرنسا · القرن العشرون"
+dates: "فرنسا · القرن العشرين"
 country: "فرنسا"
 language: "الفرنسية"
 edges:

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جون موناهان"
 en: "John Monahan"
 crumb: "br-therapeutic-risk-assessment ← البحث التأسيسي ← جون موناهان"
-dates: "الولايات المتحدة · القرن العشرون"
+dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1973

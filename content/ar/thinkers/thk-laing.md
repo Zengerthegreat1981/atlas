@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "dbt-laing", title: "خصومة الذهان", type: "جدل"
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة"
+  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
   - id: "thk-wood", title: "جون-ماينارد وود", type: "مفكر"
   - id: "thk-thompson", title: "مايكل غي طومسون", type: "مفكر"
   - id: "thk-smail", title: "ديفيد سمايل", type: "مفكر"

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "بريندا فيدرهولد"
 en: "Brenda K. Wiederhold"
 crumb: "br-vr-therapy ← النشر الأكاديمي ← بريندا فيدرهولد"
-dates: "الولايات المتحدة · القرن العشرون"
+dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1998
@@ -24,18 +24,18 @@ gaps:
 
 طبيبة نفسية، مؤسسة "Interactive Media Institute" و"CyberPsychology, Behavior & Social Networking" (المجلة الرئيسية في الحقل). اشتُهرت بدورها في تأسيس VR العلاجية كحقل بحثي وأكاديمي مستقل.
 
-## ما أعطاه
+## ما أعطته
 
 - **"CyberPsychology, Behavior & Social Networking"**: مجلة محورية نشرت مئات الأبحاث في VR العلاجي.
 - **كتب مرجعية**: *Virtual Reality Therapy for Anxiety Disorders* (2005)، *3DV: 3D Virtual Healing* (مع Wiederhold).
 - **"Annual CyberPsychology Conference"** وفعاليات أخرى ضخمة لتأسيس شبكة الباحثين.
 - **بحوث في VR لـcybertherapy, gaming disorder, وpain**.
 
-## موقعه من التيار
+## موقعها من التيار
 
 تقف فيدرهولد عند ملتقى الطب النفسي، التكنولوجيا، والنشر الأكاديمي. تأثيرها مؤسسي أكثر منه سريري: هيمنت على إنشاء البنية التحتية للنشر والمؤتمرات في الحقل.
 
-## أهم أعماله
+## أهم أعمالها
 
 - *Virtual Reality Therapy for Anxiety Disorders* (2005).
 - *3DV: 3D Virtual Healing* (مع Wiederhold).

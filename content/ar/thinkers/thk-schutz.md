@@ -8,7 +8,7 @@ en: "Alfred Schutz"
 crumb: "المدرسة الوجودية ← الناس ← ألفريد شوتز"
 dates: "النمسا / أمريكا · 1899–1959"
 active_start: 1932
-active_end: 1966
+active_end: 1959
 country: "النمسا / أمريكا"
 language: "الألمانية / الإنجليزية"
 edges:

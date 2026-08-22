@@ -13,7 +13,7 @@ active_end: 2011
 edges:
   - rel: "belongs_to", target: "العلاج الأسري الاستراتيجي (MRI/Palo Alto)", target_type: "مدرسة"
 related:
-  - id: "thk-jhaley", title: "بول فاتسلاويك", type: "مفكر"
+  - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
   - id: "thk-jweakland", title: "جون ويكلاند", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

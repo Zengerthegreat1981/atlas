@@ -8,7 +8,7 @@ en: "Eugen Fink"
 crumb: "المدرسة الوجودية ← الناس ← أويغن فينك"
 dates: "ألمانيا · 1905–1975"
 active_start: 1960
-active_end: 1979
+active_end: 1975
 country: "ألمانيا"
 language: "الألمانية"
 edges:

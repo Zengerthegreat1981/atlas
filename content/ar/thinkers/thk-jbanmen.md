@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جون بانمن"
 en: "John Banmen"
 crumb: "نموذج ساتير للنمو ← الجيل الثاني ← جون بانمن"
-dates: "كندا · القرن العشرون"
+dates: "كندا · القرن العشرين"
 country: "كندا"
 language: "إنجليزية"
 active_start: 1975

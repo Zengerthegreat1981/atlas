@@ -8,7 +8,7 @@ en: "Arthur Tatossian"
 crumb: "المدرسة الوجودية ← الناس ← أرتور تاتوسيان"
 dates: "فرنسا · 1929–1995"
 active_start: 1979
-active_end: 1997
+active_end: 1995
 country: "فرنسا"
 language: "الفرنسية"
 edges:

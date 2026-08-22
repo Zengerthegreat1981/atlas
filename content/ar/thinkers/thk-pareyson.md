@@ -8,7 +8,7 @@ en: "Luigi Pareyson"
 crumb: "المدرسة الوجودية ← الناس ← لويجي باريزون"
 dates: "إيطاليا · 1918–1991"
 active_start: 1943
-active_end: 1995
+active_end: 1991
 country: "إيطاليا"
 language: "الإيطالية"
 edges:

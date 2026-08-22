@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "العلاج الأسري والزوجي الدينامي (br-dynamic-couples-family-therapy)", target_type: "مدرسة"
-related: []
+related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

@@ -7,8 +7,9 @@ title: "هاري ستاك سوليفان"
 en: "Harry Stack Sullivan"
 crumb: "المدرسة الوجودية ← الناس ← هاري ستاك سوليفان"
 dates: "أمريكا · 1892–1949"
-active_start: 1953
-active_end: 1954
+active_start: 1892
+active_end: 1949
+active_source: "lifespan"
 country: "أمريكا"
 language: "الإنجليزية"
 edges:

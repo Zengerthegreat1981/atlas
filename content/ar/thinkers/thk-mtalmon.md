@@ -6,7 +6,7 @@ level: "متوسط"
 title: "موشيه تالمون"
 en: "Moshe Talmon"
 crumb: "br-single-session-therapy ← البحث التجريبي ← موشيه تالمون"
-dates: "إسرائيل/الولايات المتحدة · القرن العشرون"
+dates: "إسرائيل/الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1985

@@ -8,7 +8,7 @@ en: "Maurice Merleau-Ponty"
 crumb: "المدرسة الوجودية ← الناس ← موريس مرلو-بونتي"
 dates: "فرنسا · 1908–1961"
 active_start: 1942
-active_end: 1964
+active_end: 1961
 country: "فرنسا"
 language: "الفرنسية"
 edges:

@@ -24,11 +24,11 @@ gaps:
 
 عالمة نفس برازيلية، أستاذة في USP (São Paulo)، من جيل المؤسِّسين لـ Análise do Comportamento.
 
-## ما أعطاه
+## ما أعطته
 
 من جيل Keller (1961)، أَلَّفت أَطلس تاريخي (1998) عن Análise do Comportamento في البرازيل — «Análise do Comportamento: História e Perspectivas» (1998). كذلك أَشرفت على أطروحات عدَّة في تحليل السلوك في USP، وأنتجت «أنساق البحث» في الكلام اللفظي (verbal behavior) في Skinnerian EAB.
 
-## موقعه من التيار
+## موقعها من التيار
 
 «مُؤرِّخة Skinnerian EAB في البرازيل»، من أهمّ كُتّاب التَاريخ الإقليمي.
 
@@ -36,6 +36,6 @@ gaps:
 
 سيرة شخصية محدودة في المصادر الإنجليزية.
 
-## أهم أعماله
+## أهم أعمالها
 
 Análise do Comportamento: História e Perspectivas (1998).

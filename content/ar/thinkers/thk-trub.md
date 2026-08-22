@@ -7,8 +7,9 @@ title: "هانس تروب"
 en: "Hans Trüb"
 crumb: "المدرسة الوجودية ← الناس ← هانس تروب"
 dates: "سويسرا · 1889–1949"
-active_start: 1951
-active_end: 1951
+active_start: 1889
+active_end: 1949
+active_source: "lifespan"
 country: "سويسرا"
 language: "الألمانية"
 edges:

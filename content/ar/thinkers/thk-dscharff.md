@@ -8,8 +8,8 @@ en: "David Scharff"
 crumb: "النظرية النفسية ← مفكر ← ديفيد شارف"
 active_start: 1980
 active_end: "مستمر"
-edges: []
-related: []
+edges:
+related:
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً."
   - "دوره في تأسيس Institute for Object Relations يستحق توثيقاً."

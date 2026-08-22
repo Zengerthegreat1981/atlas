@@ -8,7 +8,7 @@ en: "Jean-Jacques Rousseau"
 crumb: "المدرسة الوجودية ← الناس ← جان جاك روسو"
 dates: "سويسرا / فرنسا · 1712–1778"
 active_start: 1762
-active_end: 1782
+active_end: 1778
 country: "سويسرا / فرنسا"
 language: "الفرنسية"
 edges:

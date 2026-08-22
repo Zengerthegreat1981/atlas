@@ -8,7 +8,7 @@ en: "Franco Basaglia"
 crumb: "المدرسة الوجودية ← الناس ← فرانكو بازاليا"
 dates: "إيطاليا · 1924–1980"
 active_start: 1968
-active_end: 1982
+active_end: 1980
 country: "إيطاليا"
 language: "الإيطالية"
 edges:

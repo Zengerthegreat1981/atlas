@@ -8,7 +8,7 @@ en: "Lucien Goldmann"
 crumb: "المدرسة الوجودية ← الناس ← لوسيان غولدمان"
 dates: "فرنسا / رومانيا · 1913–1970"
 active_start: 1952
-active_end: 1973
+active_end: 1970
 country: "فرنسا / رومانيا"
 language: "الفرنسية"
 edges:

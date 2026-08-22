@@ -8,7 +8,7 @@ en: "Husayn Muruwwa"
 crumb: "المدرسة الوجودية ← الناس ← حسين مروة"
 dates: "لبنان · 1910–1987"
 active_start: 1965
-active_end: 1990
+active_end: 1987
 country: "لبنان"
 language: "العربية"
 edges:

@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "نظرية التنافر المعرفي (Cognitive Dissonance)", target_type: "مدرسة"
-related: []
+related:
 gaps:
   - "التفاصيل الدقيقة لمسيرته البحثية بعد انتقاله لدراسة علم النفس البصري وتاريخ العلم في الستينيات غير مفصّلة هنا."
 ---

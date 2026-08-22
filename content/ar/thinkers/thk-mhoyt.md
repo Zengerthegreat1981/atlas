@@ -6,7 +6,7 @@ level: "متوسط"
 title: "مايكل ف. هويت"
 en: "Michael F. Hoyt"
 crumb: "br-single-session-therapy ← الإطار العلاجي ← مايكل ف. هويت"
-dates: "الولايات المتحدة · القرن العشرون"
+dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1995

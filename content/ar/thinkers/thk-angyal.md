@@ -8,7 +8,7 @@ en: "Andras Angyal"
 crumb: "المدرسة الوجودية ← الناس ← أندراس أنجيال"
 dates: "المجر / أمريكا · 1902–1960"
 active_start: 1941
-active_end: 1965
+active_end: 1960
 country: "المجر / أمريكا"
 language: "الإنجليزية"
 edges:

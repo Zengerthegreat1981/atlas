@@ -8,7 +8,7 @@ en: "Richard Wright"
 crumb: "المدرسة الوجودية ← الناس ← ريتشارد رايت"
 dates: "أمريكا / فرنسا · 1908–1960"
 active_start: 1940
-active_end: 2021
+active_end: 1960
 country: "أمريكا / فرنسا"
 language: "الإنجليزية / الفرنسية"
 edges:

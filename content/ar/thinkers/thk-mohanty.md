@@ -26,11 +26,11 @@ gaps:
 
 منظّرة نسوية هندية-أمريكية في جامعة كورنيل، من أهم منظّرات «النسوية ما بعد الاستعمارية» و«النسوية الكونية» (Transnational Feminism) في الفلسفة المعاصرة.
 
-## ما أعطاه
+## ما أعطته
 
 في «تحت العيون الغربية» (Under Western Eyes: Feminist Scholarship and Colonial Discourses, 1984) — المقال المرجعي في الحقل — نقدت موهانتي «تعميم النساء في العالم الثالث» (Third World Women as Monolith) في الكتابات النسوية الغربية اللاتينية. النسوية الغربية (Mohanty cites 1984 Western texts) «أنتجت» صورة «المرأة في العالم الثالث» كضحية دائمة تنتظر إنقاذ أختها الغربية. «تحليلها» كان يقوم على «تجهيل» (Hegemonic Representation) لا على «فهم» (Understanding).
 
-## موقعه من التيار
+## موقعها من التيار
 
 مؤسِّسة «النسوية الكونية» (Transnational Feminism) مع Inderpal Grewal وCaren Kaplan وElla Shohat. كتابها «نسوية بلا حدود» (Feminism Without Borders, 2003) أعاد تعريف «التحالف» و«النضال المشترك» بين النساء عبر الحدود القومية والعرقية.
 

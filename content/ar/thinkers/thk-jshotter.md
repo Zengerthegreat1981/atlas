@@ -13,7 +13,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "البنائية الاجتماعية (Social Constructionism)", target_type: "مدرسة"
-related: []
+related:
 gaps:
   - "لا تتوفر تفاصيل دقيقة عن مسيرته الأكاديمية المبكرة أو مؤسساته الأولى."
 ---

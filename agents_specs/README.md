@@ -62,7 +62,12 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
    [cross-part-relations-scope-list.md](cross-part-relations-scope-list.md).
 
 5. **[minimax-psychology-schools-backbone-pipeline.md](minimax-psychology-schools-backbone-pipeline.md)**
-   ✅ خلصان بالكامل (14 ملف `sch-` + 8 ملفات `rel-`، 2026-08-21). **مفيش مهمة تالية معيَّنة لسه.**
+   ✅ خلصان بالكامل (14 ملف `sch-` + 8 ملفات `rel-`، 2026-08-21).
+6. **(مهمة ذاتية)** axioms (23) + كتب 2020s (10) + دراسات/أدوات إضافية (9) + تدقيق روابط —
+   ✅ خلصان (2026-08-22).
+7. **[minimax-bridge-and-orphans-pipeline.md](minimax-bridge-and-orphans-pipeline.md)** — المهمة
+   الحالية (بتاريخ 2026-08-22): تعميق قسم الجسر (مرشحين زي وليام جيمس، ميرلوبونتي، بيتسون) + ربط
+   العناصر المعزولة بمعرفة معرفية حقيقية (لا استخراج نصي). ابدأ من هنا مباشرة.
 
 **تنبيه لكل من Spark وMiniMax:** إنتوا هتشتغلوا بالتوازي مع بعض ومع أي جلسة تانية، وكلكوا بتكتبوا
 جوه نفس `content/ar/drafts/` ونفس `EXISTING_SLUGS.md`. **حدّث الفهرس (`python3 scripts/

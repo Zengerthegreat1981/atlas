@@ -6,7 +6,7 @@ level: "متوسط"
 title: "هنتر هوفمان"
 en: "Hunter G. Hoffman"
 crumb: "br-vr-therapy ← الواقع الافتراضي لتخفيف الألم ← هنتر هوفمان"
-dates: "الولايات المتحدة · القرن العشرون"
+dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 2000

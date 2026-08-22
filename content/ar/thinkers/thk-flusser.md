@@ -8,7 +8,7 @@ en: "Vilém Flusser"
 crumb: "المدرسة الوجودية ← الناس ← فيليم فلوسر"
 dates: "التشيك / البرازيل / فرنسا · 1920–1991"
 active_start: 1983
-active_end: 1993
+active_end: 1991
 country: "التشيك / البرازيل"
 language: "التشيكية / البرتغالية / الألمانية / الفرنسية"
 edges:

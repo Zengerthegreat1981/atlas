@@ -6,7 +6,7 @@ level: "متوسط"
 title: "هنري ستيدمان"
 en: "Henry J. Steadman"
 crumb: "br-therapeutic-risk-assessment ← الأبحاث التجريبية ← هنري ستيدمان"
-dates: "الولايات المتحدة · القرن العشرون"
+dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1973

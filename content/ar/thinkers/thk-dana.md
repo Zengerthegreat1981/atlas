@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ديب دانا"
 en: "Deb Dana"
 crumb: "العلاج المستنير عصبيًا/بولفاغال ← التطوير العلاجي ← ديب دانا"
-dates: "الولايات المتحدة · القرن العشرين–الواحد والعشرون"
+dates: "الولايات المتحدة · القرن العشرين–الواحد والعشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 2014
@@ -33,11 +33,11 @@ gaps:
 - **كتب تأسيسية**: *The Polyvagal Theory in Therapy* (2018)، *The Polyvagal Flip Chart* (2020)، *Polyvagal Exercises for Safety and Connection* (2020).
 - **تدريب "الـ Polyvagal Institute"** الذي أسسته لتدريب معالجين على الإطار.
 
-## موقعه من التيار
+## موقعها من التيار
 
 تقف دانا عند ملتقى علم الأعصاب اللاإرادي (بورجز)، وعلم النفس العلائقي (Attachment)، والعلاج بالتركيز على الجسد (Somatic). خلافاً لكثير من مطبّقي نظرية بولفاغال، تصرّ على البقاء في إطار علاجي غير اختزالي للظواهر النفسية إلى مجرد عصبيولوجيا.
 
-## أهم أعماله
+## أهم أعمالها
 
 - *The Polyvagal Theory in Therapy: Engaging the Rhythm of Regulation* (2018).
 - *The Polyvagal Flip Chart* (2020).

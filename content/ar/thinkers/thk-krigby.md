@@ -13,7 +13,7 @@ country: "أستراليا"
 language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علاج التنمر والعدوان", target_type: "مدرسة"
-related: []
+related:
 gaps:
   - "لا تتوفر سنة ميلاد دقيقة موثقة."
 ---

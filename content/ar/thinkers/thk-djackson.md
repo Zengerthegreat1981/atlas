@@ -14,7 +14,7 @@ active_end: 1968
 edges:
   - rel: "belongs_to", target: "العلاج الأسري الاستراتيجي (Palo Alto/MRI)", target_type: "مدرسة"
 related:
-  - id: "thk-jhaley", title: "بول فاتزلافيك", type: "مفكر"
+  - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في MRI لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

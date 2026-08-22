@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
 related:
-  - id: "thk-trore", title: "ماسون دوري (Te Whare Tapa Whā)", type: "مفكر"
+  - id: "thk-trore", title: "ماسون دوري", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي (University of Auckland) لم يُوثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

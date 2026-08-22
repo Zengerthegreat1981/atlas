@@ -8,7 +8,7 @@ en: "Blaise Pascal"
 crumb: "المدرسة الوجودية ← الناس ← بليز باسكال"
 dates: "فرنسا · 1623–1662"
 active_start: 1656
-active_end: 1670
+active_end: 1662
 country: "فرنسا"
 language: "الفرنسية"
 edges:

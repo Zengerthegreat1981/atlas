@@ -8,7 +8,7 @@ en: "Xavier Zubiri"
 crumb: "المدرسة الوجودية ← الناس ← خافيير ثوبيري"
 dates: "إسبانيا · 1898–1983"
 active_start: 1962
-active_end: 1989
+active_end: 1983
 country: "إسبانيا"
 language: "الإسبانية"
 edges:

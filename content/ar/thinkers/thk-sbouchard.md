@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ستيفان بوشار"
 en: "Stéphane Bouchard"
 crumb: "br-vr-therapy ← العلاج بالواقع الافتراضي في كندا ← ستيفان بوشار"
-dates: "كندا · القرن العشرون"
+dates: "كندا · القرن العشرين"
 country: "كندا"
 language: "إنجليزية وفرنسية"
 active_start: 2003

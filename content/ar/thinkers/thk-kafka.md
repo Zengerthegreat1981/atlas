@@ -8,7 +8,7 @@ en: "Franz Kafka"
 crumb: "المدرسة الوجودية ← الناس ← فرانز كافكا"
 dates: "النمسا-المجر (براغ) · 1883–1924"
 active_start: 1915
-active_end: 1926
+active_end: 1924
 language: "الألمانية"
 country: "النمسا-المجر"
 edges:

@@ -16,7 +16,6 @@ edges:
   - rel: "belongs_to", target: "الإشراقية", target_type: "مدرسة"
 related:
   - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
-  - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 gaps:
   - "تحديد 'العالم الملَكي' كعالم مستقل عن 'عالم المثال' الأفلاطوني موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'حكمة الإشراق'."

@@ -23,11 +23,11 @@ gaps:
 
 محلّلة يونغية أمريكية، أستاذة علم النفس السريري في Florida Gulf Coast University، من أهمّ من يدافع عن «علم نفس كعلم للبواطن» (Giegerich) في أمريكا.
 
-## ما أعطاه
+## ما أعطته
 
 في «Psychology as the Discipline of Interiority: The Psychological Difference in the Work of Wolfgang Giegerich» (2013، تحرير) — أوّل كتاب عن غيغيريش بالإنجليزية، مع مقدمة «للنفس كشيء منطقي» (Psychology as a Discipline of Interiority). كذلك أشرفت على «سلسلة دراسات غيغيريش» في أطلس Routledge (2023). كذلك شاركت في مؤتمرات IAAP (2017–2022).
 
-## موقعه من التيار
+## موقعها من التيار
 
 «المنظِّرة الإنجليزية» لتيار غيغيريش، مع P. Power وC. El-Bejjani.
 
@@ -35,6 +35,6 @@ gaps:
 
 موقعها في الذاكرة الرسمية ضعيف.
 
-## أهم أعماله
+## أهم أعمالها
 
 Psychology as the Discipline of Interiority (2013، تحرير).

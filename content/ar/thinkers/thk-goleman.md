@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الشعبي والصحافة العلمية", target_type: "مدرسة"
 related:
-  - id: "wrk-emotional-intelligence", title: "الذكاء العاطفي", type: "عمل / كتاب"
+  - id: "wrk-emotional-intelligence-1995", title: "الذكاء العاطفي", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

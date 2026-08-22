@@ -14,7 +14,7 @@ country: "فرنسا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-beauvoir", title: "بوفوار", type: "مفكرة"
+  - id: "thk-beauvoir", title: "بوفوار", type: "مفكر"
   - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
   - id: "con-freedom", title: "الحرية", type: "مفهوم"
   - id: "thk-camus", title: "ألبير كامو", type: "مفكر"

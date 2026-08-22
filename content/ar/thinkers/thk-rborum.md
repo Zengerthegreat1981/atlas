@@ -6,7 +6,7 @@ level: "متوسط"
 title: "راندي بوروم"
 en: "Randy Borum"
 crumb: "br-therapeutic-risk-assessment ← تطوير الأدوات ← راندي بوروم"
-dates: "الولايات المتحدة · القرن العشرون–الواحد والعشرون"
+dates: "الولايات المتحدة · القرن العشرين–الواحد والعشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1996

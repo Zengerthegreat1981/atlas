@@ -21,11 +21,11 @@ gaps:
 
 محلّلة نفسية أمريكية، ومؤسِّسة مشارك لـ Hampstead Clinic مع Anna Freud، ومحاضرة في تربية الأطفال.
 
-## ما أعطاه
+## ما أعطته
 
 شاركت Anna Freud في تأسيس «Hampstead Child Therapy Course and Clinic» (1951)، وهو المعهد الذي صار مركزاً عالمياً لتحليل الأطفال Anna Freudian. أشرفت على «مدرسة Walden» (War Nursery) للأطفال اللاجئين في Hampstead خلال الحرب العالمية الثانية، وهي تجربة أساسية في تطبيق «التربية التحليلية» (Psychoanalytic Education) في سياق جماعي. كتبت مع Anna Freud «التوائم: من الرضاعة إلى المراهقة» (Twins: From Infancy to Adolescence, 1952)، وهو دراسة رائدة عن التوائم في مؤسسات الرعاية.
 
-## موقعه من التيار
+## موقعها من التيار
 
 من «المؤسِّسات Anna Freudian»، حلقة وصل بين Anna Freud (الأم الروحية)، Hildemar Stith (الراعية)، والتطبيق التربوي للتحليل النفسي.
 
@@ -33,6 +33,6 @@ gaps:
 
 مُدرجة هنا كـ«مؤسِّسة مؤسسية» أكثر من «نظرية مستقلة». تأثيرها «عبر» Anna Freud.
 
-## أهم أعماله
+## أهم أعمالها
 
 «التوائم: من الرضاعة إلى المراهقة» (Twins: From Infancy to Adolescence, 1952، مع Anna Freud) · «حياة ربيعية في وادي» (A Spring Life in the Valley, مذكرات) · مساهمات في Hampstead Clinic.

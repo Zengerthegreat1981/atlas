@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس الإنمائي والمعرفي", target_type: "مدرسة"
 related:
   - id: "wrk-self-compassion-neff", title: "التعاطف مع الذات", type: "عمل / كتاب"
-  - id: "tec-cbt-emo-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+  - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -26,11 +26,11 @@ gaps:
 
 أستاذة مشاركة في علم النفس بجامعة تكساس في أوستن، رائدة الأبحاث الأكاديمية في الشفقة بالذات (Self-Compassion) ومطورة مقياس الشفقة بالذات المعياري وبرنامج Mindful Self-Compassion مع كريس غيرمر.
 
-## ما أعطاه
+## ما أعطته
 
 إسهامات رئيسية في مجال علم النفس الإنمائي والمعرفي، وصياغة وتعميم مفاهيم إنسانية وعلاجية وتطبيقية.
 
-## أهم أعماله
+## أهم أعمالها
 
 - *Self-Compassion: The Proven Power of Being Kind to Yourself (2011)*
 - *The Mindful Self-Compassion Workbook (2018)*
