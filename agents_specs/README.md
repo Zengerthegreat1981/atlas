@@ -42,7 +42,12 @@ techniques/thinkers) كانوا اتكتبوا مباشرة في المجلد ا
 6. **[spark-studies-instruments-full-coverage-backlog.md](spark-studies-instruments-full-coverage-backlog.md)**
    ✅ خلصان بالكامل (212 بند، 2026-08-21).
 7. **[spark-philosophy-integrity-audit-pipeline.md](spark-philosophy-integrity-audit-pipeline.md)**
-   ✅ خلصان بالكامل (31 تكرار + 142 رابط مصحَّح، 2026-08-21). **مفيش مهمة تالية معيَّنة لسه.**
+   ✅ خلصان بالكامل (31 تكرار + 142 رابط مصحَّح، 2026-08-21).
+8. **(مهمة ذاتية)** سياقات كبرى + مفكرين تأسيسيين (أفلاطون/أرسطو) + جسور/جدالات — ✅ خلصان
+   (2026-08-22)، مع تصحيح تكرار واحد (`rel-buddhism-third-wave-cbt` كان مكرر مع `rel-buddhism-thirdwave`).
+9. **[spark-broken-refs-closure-pipeline.md](spark-broken-refs-closure-pipeline.md)** — المهمة
+   الحالية (بتاريخ 2026-08-22): قفل الـ81 رابط معلَّق المتبقي من تدقيق MiniMax (فحص بالاسم أولاً،
+   تصحيح الروابط الخاطئة، كتابة الفجوات الحقيقية فقط). ابدأ من هنا مباشرة.
 
 ### مسار MiniMax
 
