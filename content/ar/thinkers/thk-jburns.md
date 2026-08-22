@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج المعرفي الكلاسيكي", target_type: "مدرسة"
 related:
-  - id: "thk-beck", title: "آرون بِك", type: "مفكر"
+  - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

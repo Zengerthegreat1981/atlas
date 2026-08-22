@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "علاج الدراما", target_type: "مدرسة"
 related:
   - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
-  - id: "thk-rlandy-md", title: "روني لاندي", type: "مفكر"
+  - id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

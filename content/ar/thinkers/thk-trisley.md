@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متقدم"
 title: "تود ر. ريسلي"
 en: "Todd R. Risley"
-crumb: "مدرسة التحليل النفسي ← الناس ← تود ر. ريسلي"
+crumb: "السلوكية (Behaviorism) ← الناس ← تود ر. ريسلي"
 dates: "أمريكا · 1938–2007"
 country: "أمريكا"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-donbaer", title: "دونالد باير", type: "مفكر"
-  - id: "thk-mwolf", title: "مونتروز وولف", type: "مفكر"
+  - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
+  - id: "thk-mwolf", title: "مونتروز م. وولف", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

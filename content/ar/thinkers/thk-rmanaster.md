@@ -14,8 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-hmosak", title: "هَارْوَلْد مُوسَاك", type: "مفكر"
-  - id: "thk-jcarlson", title: "جُون كَارْلْسون", type: "مفكر"
+  - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
+  - id: "thk-jcarlson", title: "جون كارلسون", type: "مفكر"
 gaps:
   - "تفاصيل توظيفها الأدلري لتصنيف DSM ملخّصة، ولم يُتحقق من تواريخ الإصدارات الفردية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

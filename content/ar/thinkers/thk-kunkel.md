@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-rjohnson", title: "روبرت أ. جونسون", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "علم النفس الديني ونظرية نزع التمركز (We-Psychology) عند فريتز كونكل."
 ---

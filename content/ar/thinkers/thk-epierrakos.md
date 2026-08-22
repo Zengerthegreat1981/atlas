@@ -12,7 +12,7 @@ language: "الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
 related:
-  - id: "thk-pierrakos", title: "جون بيراكوس", type: "مفكر"
+  - id: "thk-pierrakos", title: "جون س. بيراكوس", type: "مفكر"
   - id: "thk-dpierrakos", title: "دورا غوميز بيراكوس", type: "مفكر"
 gaps:
   - "تفاصيل النشأة الأوروبية لإيڤا قبل وصولها لأمريكا (ألمانيا أم النمسا؟) شحيحة في المصادر."

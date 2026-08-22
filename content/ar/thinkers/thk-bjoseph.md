@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-segal", title: "هانا سيغال", type: "مفكر"
+  - id: "thk-segal", title: "حنا سيغال", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

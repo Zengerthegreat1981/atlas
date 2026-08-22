@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
   - rel: "co-developed", target: "العلاج الانفعالي-التجريبي", target_type: "تيار"
 related:
-  - id: "thk-greenberg-lisa", title: "ليزا فيرلي غرينبرغ", type: "مفكر"
+  - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
   - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
   - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
   - id: "tec-process-experiential", title: "العلاج الانفعالي-التجريبي (جرينبرغ، رايس)", type: "تقنية/تدخل علاجي"

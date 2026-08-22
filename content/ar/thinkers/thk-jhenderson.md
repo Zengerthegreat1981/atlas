@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-jwheelwright", title: "جوزيف ويلرايت", type: "مفكر"
+  - id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
   - id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

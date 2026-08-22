@@ -14,7 +14,7 @@ country: "أمريكا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
   - id: "thk-yalom", title: "يالوم", type: "مفكر"
   - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
   - id: "thk-rank", title: "أوتو رانك", type: "مفكر"

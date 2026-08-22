@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-shiggins", title: "ستيفن هيغينز", type: "مفكر"
+  - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
   - id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
 gaps:

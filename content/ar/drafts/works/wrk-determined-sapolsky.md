@@ -17,7 +17,7 @@ edges:
   - rel: "written_by", target: "روبرت سابولسكي", type: "مفكر"
 related:
   - id: "thk-robert-sapolsky", title: "روبرت سابولسكي", type: "مفكر"
-  - id: "con-free-will", title: "الإرادة الحرة", type: "مفهوم"
+  - id: "con-freedom", title: "الحرية", type: "مفهوم"
   - id: "wrk-behave-sapolsky", title: "تصرّف (Behave)", type: "عمل / كتاب"
 gaps:
   - "النقاش الفلسفي المُعاصر (دانيال دينيت 2003) لم يُمثَّل بالعمق الكافي."

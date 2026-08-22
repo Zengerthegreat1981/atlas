@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "مدرسة"
 related:
-  - id: "thk-ajernberg", title: "آن جيرنبرغ", type: "مفكر"
+  - id: "thk-ajernberg", title: "آن جِرنبرغ", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

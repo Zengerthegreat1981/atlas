@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متوسط"
 title: "نَأوكو سُوگييامَا"
 en: "Naoko Sugiyama"
-crumb: "مدرسة التحليل النفسي ← الناس ← نَأوكو سُوگييامَا"
+crumb: "السلوكية (Behaviorism) ← الناس ← نَأوكو سُوگييامَا"
 dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية / الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-fkeller", title: "فريد كيلّر", type: "مفكر"
+  - id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
   - id: "thk-tmoriyama", title: "تِتسومي موريياما", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."

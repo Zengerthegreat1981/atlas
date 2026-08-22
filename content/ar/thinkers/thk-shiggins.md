@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-npetry", title: "نانسي بيتري", type: "مفكر"
+  - id: "thk-npetry", title: "نانسي م. بيتري", type: "مفكر"
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
   - id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
   - id: "con-voucher-based-reinforcement", title: "التعزيز المعتمد على القسائم", type: "مفهوم"

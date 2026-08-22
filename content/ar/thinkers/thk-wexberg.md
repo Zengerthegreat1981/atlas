@@ -12,7 +12,7 @@ language: "الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
   - id: "thk-furtmuller", title: "كارل فورتمولر", type: "مفكر"
 gaps:
   - "تفاصيل حياته في أمريكا (نيو أورليانز) شحيحة في المصادر الإنجليزية."

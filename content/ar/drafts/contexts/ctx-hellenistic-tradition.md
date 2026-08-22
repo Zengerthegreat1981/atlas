@@ -13,7 +13,7 @@ edges: []
 related:
   - id: "sch-stoicism", title: "المدرسة الرواقية", type: "مدرسة"
   - id: "sch-epicureanism", title: "المدرسة الأبيقورية", type: "مدرسة"
-  - id: "sch-skepticism-pyrrhonian", title: "الشكية البيرونية", type: "مدرسة"
+  - id: "sch-pyrrhonism", title: "الشك البيروني (Pyrrhonian Skepticism)", type: "مدرسة"
   - id: "con-ataraxia", title: "الأتركسيا والسكينة النفسية", type: "مفهوم"
 gaps:
   - "انتقال المفاهيم العلاجية من العصر الإغريقي إلى الإمبراطورية الرومانية مع سينيكا وماركوس أوريليوس."

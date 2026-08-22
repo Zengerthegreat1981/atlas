@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
   - id: "thk-edferguson", title: "إيفا درايكرز فيرغوسون", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."

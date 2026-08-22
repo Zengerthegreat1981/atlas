@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
 related:
-  - id: "wrk-stumbling-on-happiness", title: "العثرات في طريق السعادة", type: "عمل / كتاب"
+  - id: "wrk-stumbling-on-happiness", title: "العثار في طريق السعادة", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

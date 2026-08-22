@@ -12,9 +12,9 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-lcarter", title: "ليندا كارتر", type: "مفكر"
-  - id: "thk-shamdasani", title: "سونو شمداساني", type: "مفكر"
+  - id: "thk-shamdasani", title: "سوني شمداساني", type: "مفكر"
 gaps:
   - "لا تتوفر سنة ميلاد مؤكدة بشكل ثابت في المصادر المتاحة (1955 تقدير تقريبي)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

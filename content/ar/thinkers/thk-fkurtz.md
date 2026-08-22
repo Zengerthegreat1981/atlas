@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 gaps:
   - "تفصيل فكرة الجسد بوصفه معالجاً (Body as Healer) لم يُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

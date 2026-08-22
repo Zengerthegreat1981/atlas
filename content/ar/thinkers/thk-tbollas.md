@@ -16,7 +16,7 @@ edges:
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-dwinnicott", title: "دونالد وِنّيكت", type: "مفكر"
-  - id: "thk-klein", title: "مِلاني كلاين", type: "مفكر"
+  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "مفهوم المعلوم غير المُفكَّر فيه (The Unthought Known) لم يُراجَع بعد بالرجوع إلى مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

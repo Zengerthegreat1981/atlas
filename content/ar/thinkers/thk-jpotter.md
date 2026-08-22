@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الخطابي (Discursive Psychology)", target_type: "مدرسة"
 related:
-  - id: "thk-dedwards", title: "ديريك إدواردز", type: "مفكر"
+  - id: "thk-dedwards", title: "ديرِك إدواردز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

@@ -12,8 +12,8 @@ language: "العبرية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-neumann", title: "إريك نويمان", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+  - id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
   - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة تحتاج تأكيداً من ملفه على ISAP."

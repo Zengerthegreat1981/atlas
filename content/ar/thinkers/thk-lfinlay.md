@@ -14,7 +14,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
   - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:

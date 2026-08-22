@@ -14,7 +14,7 @@ country: "الدنمارك"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
+  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
   - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
   - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
   - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"

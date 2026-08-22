@@ -16,7 +16,7 @@ related:
   - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
   - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
   - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
-  - id: "thk-llaing", title: "رونالد لينغ", type: "مفكر"
+  - id: "thk-rlaing", title: "رونالد لانغ", type: "مفكر"
   - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
   - id: "thk-cooper", title: "ديفيد كوبر", type: "مفكر"
   - id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي", type: "نقد خارجي موثَّق"

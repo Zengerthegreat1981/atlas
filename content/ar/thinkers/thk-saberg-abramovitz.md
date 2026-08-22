@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
-  - id: "thk-jdavid", title: "جوليان ديفيد", type: "مفكر"
+  - id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."

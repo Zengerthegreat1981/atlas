@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
 related:
-  - id: "thk-ihilgard", title: "إرنست هيلغارد", type: "مفكر"
+  - id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
   - id: "thk-morne", title: "مارتن أورن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."

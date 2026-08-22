@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-pberry", title: "باتريسيا بيري", type: "مفكر"
+  - id: "thk-pberry", title: "باتريشيا بيري", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

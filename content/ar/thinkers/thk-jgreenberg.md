@@ -13,8 +13,8 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-  - id: "thk-laron", title: "لويس أرون", type: "مفكر"
-  - id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
+  - id: "thk-laron", title: "لويس آرون", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة 1942 وفق ويكيبيديا، تحتاج تأكيداً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

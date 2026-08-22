@@ -11,10 +11,10 @@ edges:
   - rel: "relates_to", target: "الجشطلتية", target_type: "مدرسة"
   - rel: "formulated_by", target: "ماكس فيرتهايمر", target_type: "مفكر"
 related:
-  - id: "thk-wertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
-  - id: "thk-kohler", title: "فولفجانج كولر", type: "مفكر"
-  - id: "thk-koffka", title: "كيرت كوفكا", type: "مفكر"
-  - id: "con-gestalt", title: "الشكل/الجشطلت", type: "مفهوم"
+  - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
+  - id: "thk-wkohler", title: "فولفجانج كولر", type: "مفكر"
+  - id: "thk-kkoffka", title: "كيرت كوفكا", type: "مفكر"
+  - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
 gaps:
   - "الفرق بين 'الكلية' عند الجشطلتيين و'النظرية الأنظمة' (Bertalanffy) اللاحقة يحتاج تمييزاً."
   - "قوانين الإدراك الجشطلتية (النقش/الخلفية، الإغلاق، الاستمرارية، التشابه) تحتاج توثيقاً في ملف منفصل."

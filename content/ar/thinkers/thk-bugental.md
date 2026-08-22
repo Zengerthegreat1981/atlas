@@ -14,7 +14,7 @@ country: "أمريكا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
   - id: "thk-rgreening", title: "ريتشارد إ. غرينينغ", type: "مفكر"
   - id: "thk-krug", title: "أورا كروغ", type: "مفكر"
   - id: "thk-tgreening", title: "توماس غرينينغ", type: "مفكر"

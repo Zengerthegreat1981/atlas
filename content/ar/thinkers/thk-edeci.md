@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
 related:
-  - id: "thk-rryan", title: "رِكَارْد رَايَان", type: "مفكر"
+  - id: "thk-rryan", title: "ريتشارد راين", type: "مفكر"
 gaps:
   - "تفصيل نظرية تقرير الذات (SDT) في مجال التعليم لم يُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

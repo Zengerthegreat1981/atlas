@@ -15,9 +15,9 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "البين-ذاتية", target_type: "تيار"
 related:
-  - id: "thk-stolorow", title: "ر. سْتولورُو", type: "مفكر"
-  - id: "thk-georgeatwood", title: "جُورج أتوود", type: "مفكر"
-  - id: "thk-kohut", title: "هَينز كُوهوت", type: "مفكر"
+  - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
+  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
+  - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 gaps:
   - "مفهوم التماسك (Coherence) في علم نفس الذات لم يُراجع بعد من مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

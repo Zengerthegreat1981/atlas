@@ -14,8 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
 related:
-  - id: "thk-maslow", title: "أَبْرَاهَام مَاسْلُو", type: "مفكر"
-  - id: "thk-rogers", title: "كَارْل رُوجِرز", type: "مفكر"
+  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:
   - "تفصيل المقاومة (Resistance) في مواجهة النظرية لم يُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

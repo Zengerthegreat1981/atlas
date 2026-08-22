@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متقدم"
 title: "والتَر ميشيل"
 en: "Walter Mischel"
-crumb: "مدرسة التحليل النفسي ← الناس ← والتَر ميشيل"
+crumb: "السلوكية (Behaviorism) ← الناس ← والتَر ميشيل"
 dates: "أمريكا (أصل نمساوي) · 1930–2018"
 country: "أمريكا"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "thk-jrotter", title: "جوليان روتّر", type: "مفكر"
+  - id: "thk-jrotter", title: "جوليان ب. روتّر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

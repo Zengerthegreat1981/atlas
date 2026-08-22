@@ -12,9 +12,9 @@ language: "الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
-  - id: "thk-rowenaansbacher", title: "روينا آنسْباخِر", type: "مفكر"
-  - id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+  - id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
 gaps:
   - "تفاصيل عمل آنسْباخِر مع Rowena في إصداراته اللاحقة (السنوات 1980–2000) تحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

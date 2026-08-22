@@ -15,8 +15,8 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "العلائقية", target_type: "تيار"
 related:
-  - id: "thk-smitchell", title: "سْتِفَن مِتْشِل", type: "مفكر"
-  - id: "thk-jbenjamin", title: "جِسِيكا بِنْجَامِين", type: "مفكر"
+  - id: "thk-smitchell", title: "سْتِيفن مِتْشِل", type: "مفكر"
+  - id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
 gaps:
   - "تأسيس مركز PRS (Postgraduate Psychoanalytic Society) لم يُراجع بعد تفصيلاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

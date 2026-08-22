@@ -14,8 +14,8 @@ active_end: 2018
 edges:
   - rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
 related:
-  - id: "thk-sporges", title: "ستيفن و. بورجز", type: "مفكر"
-  - id: "thk-besselvanderkolk", title: "فان دير كولك", type: "مفكر"
+  - id: "thk-sporges", title: "ستيفن بورجِس", type: "مفكر"
+  - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 gaps:
   - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

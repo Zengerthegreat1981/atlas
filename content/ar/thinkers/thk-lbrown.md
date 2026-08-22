@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج النفسي النسوي", target_type: "مدرسة"
 related:
-  - id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
+  - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

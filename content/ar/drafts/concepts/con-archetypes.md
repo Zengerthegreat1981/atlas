@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges: []
 related:
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "sch-analytical-psychology", title: "علم النفس التحليلي اليونغي", type: "مدرسة"
+  - id: "br-jungian", title: "التحليلية اليونغية", type: "مدرسة"
 gaps:
   - "النماذج الكبرى: الظل (Shadow)، القناع (Persona)، الأنيما والأنيموس (Anima/Animus)، والذات الكلية (Self)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

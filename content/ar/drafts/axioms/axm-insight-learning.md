@@ -11,9 +11,9 @@ edges:
   - rel: "relates_to", target: "الجشطلتية", target_type: "مدرسة"
   - rel: "formulated_by", target: "فولفجانج كولر", target_type: "مفكر"
 related:
-  - id: "thk-kohler", title: "فولفجانج كولر", type: "مفكر"
+  - id: "thk-wkohler", title: "فولفجانج كولر", type: "مفكر"
   - id: "axm-holism-gestalt", title: "مبدأ الكلية (Gestalt)", type: "بديهية/مبدأ تأسيسي"
-  - id: "con-problem-solving", title: "حل المشكلات", type: "مفهوم"
+  - id: "tec-problem-solving-therapy", title: "العلاج بحل المشكلات", type: "تقنية/تدخل علاجي"
 gaps:
   - "نقد 'التعلم بالاستبصار' كظاهرة خاصة بالكلام (Premack) في علم النفس المقارن لم يُمثَّل بعمق."
   - "التمييز بين 'الاستبصار' و'التفكير المنطقي' في علم النفس المعرفي الحديث يحتاج ربطاً."

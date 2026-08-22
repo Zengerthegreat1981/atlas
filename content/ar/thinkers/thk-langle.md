@@ -16,7 +16,7 @@ edges:
 related:
   - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
   - id: "dbt-langle-frankl", title: "الانشقاق", type: "جدل"
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
+  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
   - id: "thk-lukas", title: "إليزابيث لوكاس", type: "مفكر"
   - id: "thk-schulz", title: "بيتر شولتز", type: "مفكر"
 gaps:

@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
   - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
   - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"

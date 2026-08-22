@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
 related:
-  - id: "thk-sporges", title: "ستيفن بورجز", type: "مفكر"
+  - id: "thk-sporges", title: "ستيفن بورجِس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

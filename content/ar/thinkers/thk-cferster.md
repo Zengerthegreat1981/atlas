@@ -5,12 +5,12 @@ type: "مفكر"
 level: "متوسط"
 title: "تشارلز فيرستر"
 en: "Charles Ferster"
-crumb: "مدرسة التحليل النفسي ← الناس ← تشارلز فيرستر"
+crumb: "السلوكية (Behaviorism) ← الناس ← تشارلز فيرستر"
 dates: "أمريكا · 1922–2007"
 country: "أمريكا"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:

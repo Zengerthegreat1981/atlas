@@ -12,7 +12,7 @@ language: "الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
   - id: "thk-jaffe", title: "أنييلا يافّه", type: "مفكر"
 gaps:

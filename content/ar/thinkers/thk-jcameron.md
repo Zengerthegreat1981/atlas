@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
 related:
-  - id: "thk-jpennebaker", title: "جيمس بينيبيكر", type: "مفكر"
+  - id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

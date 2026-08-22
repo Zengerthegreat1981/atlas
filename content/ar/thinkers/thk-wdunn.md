@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
-  - id: "thk-jayres", title: "جان أيرز", type: "مفكر"
+  - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

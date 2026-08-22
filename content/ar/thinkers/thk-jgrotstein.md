@@ -15,8 +15,8 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "مدرسة Bion", target_type: "تيار"
 related:
-  - id: "thk-bion", title: "وِلْفريد بْيُون", type: "مفكر"
-  - id: "thk-klein", title: "مِلاني كلاين", type: "مفكر"
+  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "مفهوم البُعدية (Dimensionality) لم يُراجع بعد من مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

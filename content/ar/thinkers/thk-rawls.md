@@ -15,7 +15,7 @@ active_end: 2001
 edges:
   - rel: "belongs_to", target: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", target_type: "مدرسة"
 related:
-  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية)", type: "مدرسة"
+  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
   - id: "thk-nagel", title: "توماس ناغل", type: "مفكر"
 gaps:
   - "نص A Theory of Justice (1971) وPolitical Liberalism (1993) يحتاج مراجعة من المصدر الأولي."

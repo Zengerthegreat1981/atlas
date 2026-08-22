@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
-  - id: "thk-tkirsch", title: "توماس كيرش", type: "مفكر"
+  - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
 gaps:
   - "عنصر placeholder — كلّ جمعية إسرائيلية تستحق ملفاً مستقلاً."
   - "هوية المؤسِّسين الفعليين لـ ISAP، IIJP، NIJA غير موثّقة بشكل مركزي."

@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-rkohlen", title: "روبرت كولنبرغ", type: "مفكر"
+  - id: "thk-rkohlen", title: "روبرت ج. كولنبرغ", type: "مفكر"
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
   - id: "tec-fap", title: "العلاج النفسي التحليلي الوظيفي (FAP)", type: "تقنية/تدخل علاجي"
 gaps:

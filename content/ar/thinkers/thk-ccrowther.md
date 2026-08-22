@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-jwiener", title: "جان وينر", type: "مفكر"
-  - id: "thk-tkirsch", title: "توماس كيرش", type: "مفكر"
+  - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
 ---

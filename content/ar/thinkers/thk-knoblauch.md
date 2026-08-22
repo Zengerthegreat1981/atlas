@@ -12,9 +12,9 @@ language: "الألمانية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
+  - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "con-dgap", title: "الجمعية الألمانية للتحليلية", type: "مفهوم"
+  - id: "con-dgap", title: "الجمعية الألمانية لعلم النفس التحليلي (DGAP)", type: "مفهوم"
 gaps:
   - "هذا العنصر placeholder — يحتاج تقسيم فعلي بين برلين/ميونيخ/شتوتغارت."
   - "الأسماء الدقيقة لمؤسِّسي C.G. Jung Institut Berlin/München/Stuttgart غير موثّقة بشكل مركزي."

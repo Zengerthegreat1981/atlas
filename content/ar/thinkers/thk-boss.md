@@ -14,8 +14,8 @@ country: "سويسرا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "بينسوانغر", type: "مفكر"
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
+  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
   - id: "br-daseins", title: "التيار", type: "تيار"
   - id: "thk-condrau", title: "غيون كوندراو", type: "مفكر"
   - id: "thk-benedetti", title: "غايتانو بينيديتي", type: "مفكر"

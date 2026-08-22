@@ -14,7 +14,7 @@ country: "أمريكا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
   - id: "dbt-british-yalom", title: "الخصومة البريطانية", type: "جدل"
   - id: "thk-mendelowitz", title: "روبرت مينديلويتز", type: "مفكر"
   - id: "thk-may", title: "رولو ماي", type: "مفكر"

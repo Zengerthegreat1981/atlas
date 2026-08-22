@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-mmilner", title: "ماريون ميلنر", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
+  - id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
+  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

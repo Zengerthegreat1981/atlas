@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
 related:
   - id: "wrk-lucifer-effect", title: "تأثير لوسيفر", type: "عمل / كتاب"
-  - id: "con-lucifer-effect", title: "تأثير لوسيفر والشر المؤسسي", type: "مفهوم"
+  - id: "con-lucifer-effect", title: "تأثير لوسيفر وسيكولوجيا الشر المؤسسي (The Lucifer Effect)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس الإكلينيكي وحساسية المعالجة الحسية", target_type: "مدرسة"
 related:
   - id: "wrk-highly-sensitive-person", title: "الشخص عالي الحساسية", type: "عمل / كتاب"
-  - id: "con-highly-sensitive-person", title: "الشخص عالي الحساسية HSP", type: "مفهوم"
+  - id: "con-highly-sensitive-person", title: "الشخص عالي الحساسية (حساسية المعالجة الحسية HSP)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

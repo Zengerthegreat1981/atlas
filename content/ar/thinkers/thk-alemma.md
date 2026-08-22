@@ -14,9 +14,9 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج الديناميكي البيني القصير (DIT)", target_type: "مدرسة"
 related:
-  - id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
+  - id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
   - id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
-  - id: "thk-pfonel", title: "بيتر فوناغي", type: "مفكر"
+  - id: "thk-pfonel", title: "بيتر فونيغي", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

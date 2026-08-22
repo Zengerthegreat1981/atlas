@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "DDP (العلاج التفاعلي النمائي الثنائي)", target_type: "مدرسة"
 related:
-  - id: "thk-sgreys", title: "دان هيوز", type: "مفكر"
+  - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "con-post-christian", title: "ما بعد المسيحية", type: "مفهوم"
+  - id: "con-post-christian", title: "اللاوعي ما بعد المسيحي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "موقعه الدقيق من التراث الكنسي الأسترالي (Anglican) — موضع تساؤل في المراجعات النقدية."

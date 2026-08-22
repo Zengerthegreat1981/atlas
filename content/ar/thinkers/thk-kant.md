@@ -17,7 +17,7 @@ edges:
 related:
   - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
   - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
-  - id: "thk-leibniz", title: "غوتفريد لايبنتز", type: "مفكر"
+  - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
   - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 gaps:
   - "علاقة كانط بالثورة الفرنسية لم تُوثّق مباشرة."

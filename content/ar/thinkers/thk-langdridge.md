@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
   - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 gaps:

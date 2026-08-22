@@ -15,8 +15,8 @@ edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
   - rel: "co-developed", target: "المقابلة التحفيزية", target_type: "تيار"
 related:
-  - id: "tec-motivational-interviewing", title: "المقابلة التحفيزية (MI)", type: "تقنية/تدخل علاجي"
-  - id: "br-psychodynamic-humanistic", title: "التيار الإنساني-الوجودي (رولو ماي)", type: "تيار"
+  - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+  - id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ الميلاد الدقيق (1950) تقريبي ولم يُراجع من مصدر أولي."

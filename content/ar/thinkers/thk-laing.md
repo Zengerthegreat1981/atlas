@@ -15,14 +15,14 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "dbt-laing", title: "خصومة الذهان", type: "جدل"
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
   - id: "thk-wood", title: "جون-ماينارد وود", type: "مفكر"
   - id: "thk-thompson", title: "مايكل غي طومسون", type: "مفكر"
   - id: "thk-smail", title: "ديفيد سمايل", type: "مفكر"
   - id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
   - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
   - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-yalom", title: "إروين يالوم", type: "مفكر"
+  - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:
   - "ملاحظة مراجعة: يوجد ملف آخر لنفس الشخص (thk-rlaing) من دفعة مختلفة — تكرار حي يحتاج قرار بشري صريح لدمج/حذف أحد الملفين."
   - "بيانات أعماله ومراجعاتها النقدية — لم تُدخل"

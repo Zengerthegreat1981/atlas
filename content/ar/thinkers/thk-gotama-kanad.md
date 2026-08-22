@@ -15,7 +15,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "نيايا (منطقياً كلاسيكياً)", target_type: "مدرسة"
 related:
-  - id: "sch-nyaya", title: "نيايا (منطقياً كلاسيكياً)", type: "مدرسة"
+  - id: "sch-nyaya", title: "نيايا (المنطق الكلاسيكي الهندي)", type: "مدرسة"
   - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
 gaps:
   - "تأريخ حياة غوتاما غير محسوم."

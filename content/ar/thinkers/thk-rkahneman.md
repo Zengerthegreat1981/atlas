@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم النفس المعرفي والاقتصاد السلوكي", target_type: "مدرسة"
 related:
-  - id: "thk-rkthaler", title: "ريتشارد ثالر", type: "مفكر"
+  - id: "thk-rkthaler", title: "ريتشارد هـ. ثالر", type: "مفكر"
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

@@ -14,8 +14,8 @@ country: "ألمانيا / بريطانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-vandeurzen", title: "إيمي فان ديورزن", type: "مفكر"
-  - id: "thk-spinelli", title: "إرنستو سبينيلي", type: "مفكر"
+  - id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+  - id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "لم تُراجع بعد نصوصه الأصلية (Existential Thought and Therapeutic Practice) من نسخة محققة."

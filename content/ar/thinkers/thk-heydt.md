@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-jhenderson", title: "جوزيف هندرسون", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+  - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
 gaps:
   - "تاريخ الميلاد والوفاة الدقيقان يحتاجان تأكيداً من أرشيف SF Jung Institute."
   - "تفاصيل مساهمتها في إنشاء المعهد تحتاج توثيقاً."

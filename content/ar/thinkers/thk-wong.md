@@ -14,7 +14,7 @@ country: "كندا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
+  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
   - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
   - id: "thk-reker", title: "غاري ريكر", type: "مفكر"
 gaps:

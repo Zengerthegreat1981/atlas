@@ -14,7 +14,7 @@ active_end: 2010
 edges:
   - rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
 related:
-  - id: "thk-novaco", title: "ريموند نوفاكو", type: "مفكر"
+  - id: "thk-novaco", title: "ريموند و. نوفاكو", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة لم تُراجع من مصدر أولي بعد."
   - "تفاصيل مسيرته في جامعة فلوريدا تستحق توثيقاً."

@@ -14,8 +14,8 @@ country: "ألمانيا / أمريكا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيج بينسفانجر", type: "مفكر"
-  - id: "thk-minkowski", title: "يوجين مينكوفسكي", type: "مفكر"
+  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+  - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
   - id: "thk-plugge", title: "هربرت بلوغه", type: "مفكر"
   - id: "thk-buytendijk", title: "فريدريك بايتنديك", type: "مفكر"
   - id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"

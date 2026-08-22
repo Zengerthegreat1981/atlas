@@ -12,8 +12,8 @@ language: "الألمانية / الفرنسية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-bleuler", title: "أوجين بلويلر", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+  - id: "thk-bleuler", title: "أوجين بلويلَر", type: "مفكر"
   - id: "thk-bleuler-jung-assoc", title: "فرانتس ريكـلين", type: "مفكر"
 gaps:
   - "معلومات السيرة الذاتية (سوى الفترة المبكرة) قليلة في المصادر الإنجليزية."

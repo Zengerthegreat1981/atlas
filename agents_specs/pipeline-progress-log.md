@@ -2095,3 +2095,48 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   - **المسار الثالث (تدقيق وتنظيف المسودات وفهرس الـ Slugs الشامل)**:
     - فحص وتدقيق كافة المسودات، وإزالة النسخ المكررة لمدارس ومفكري المعتمد، وتصويب مدرسة العلاج المعرفي السلوكي `sch-cbt`.
     - تحديث [EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md) ليصل إجمالي عناصر الأطلس إلى **4,199 عنصراً** (4,150 معتمداً + 49 مسودة نقية) مع **صفر تعارض في الـ Slugs**.
+
+- [2026-08-22] **مسار Spark — إغلاق الـ81 رابطاً معلقاً المتبقية من تدقيق MiniMax بالكامل (Broken References Closure Pipeline)**
+  - **الهدف والمنهجية**: فحص واستقصاء كافة الروابط المعلقة (81 رابطاً) وفق القاعدة الحاكمة: التحقق من وجود الكيان أولاً تحت صياغة/slug مختلف قبل أي قرار، وكتابة مسودات كاملة للفجوات الحقيقية فقط وفق `draft-writer-brief.md`، وتصحيح روابط المسودات في `content/ar/drafts/`، وتوثيق الفجوات الصغرى في `gaps:`.
+  - **الملفات الجديدة المكتوبة (27 مسودة كاملة وموثقة في `content/ar/drafts/`)**:
+    - **فلاسفة ومفكرون كلاسيكيون ومعاصرون (15 ملفاً)**:
+      - `thk-foucault.md` (ميشيل فوكو — `part: "philosophy"`، مع توثيق تقاطعه مع مناهضة الطب النفسي).
+      - `thk-derrida.md` (جاك دريدا — `part: "philosophy"`، التفكيكية ونقد اللوغوس).
+      - `thk-deleuze.md` (جيل دولوز — `part: "philosophy"`، الصيرورة والنقد الفصامي مع غاتاري).
+      - `thk-vygotsky.md` (ليف فيغوتسكي — `part: "psychology"`، النظرية الاجتماعية الثقافية ومنطقة النمو التقريبي).
+      - `thk-voltaire.md` (فولتير — `part: "philosophy"`، عصر التنوير والتسامح ونقد التفاؤل الميتافيزيقي).
+      - `thk-tahtawi.md` (رفاعة الطهطاوي — `part: "philosophy"`، رائد التنوير والنهضة الفكرية العربية).
+      - `thk-piaget.md` (جان بياجيه — `part: "psychology"`، البنائية النمائية ومراحل النمو المعرفي الأربع).
+      - `thk-bartlett.md` (فريدريك بارتليت — `part: "psychology"`، الذاكرة البنائية ونظرية المخطط المعرفي).
+      - `thk-johann-hari.md` (يوهان هاري — `register: "popular"`، أزمة الانتباه والروابط الاجتماعية للاكتئاب).
+      - `thk-anna-lembke.md` (آنا ليمبكي — `part: "psychology"`، ميزان اللذة والألم وطب الإدمان).
+      - `thk-matt-haig.md` (مات هيغ — `register: "popular"`، أدب التعافي والصمود النفسي وكتاب العزاء).
+      - `thk-arthur-brooks.md` (آرثر بروكس — `register: "popular"`، علم السعادة والذكاء المتبلور والقيادة).
+      - `thk-jeffrey-rediger.md` (جيفري ريديجر — `part: "psychology"`، الشفاء التلقائي وعلم النفس المناعي بهارفارد).
+      - `thk-julie-smith.md` (جولي سميث — `register: "popular"`، التثقيف النفسي الإكلينيكي).
+      - `thk-oprah-winfrey.md` (أوبرا وينفري — `register: "popular"`، الإعلام الثقافي ونشر أدبيات الصدمات والتعافي).
+    - **مفاهيم تأسيسية كبرى (12 ملفاً)**:
+      - `con-attention.md` (الانتباه — آليات التركيز والانتقاء والشبكات العصبية).
+      - `con-mind-body.md` (مشكلة العقل والجسد — الثنائية الديكارتية، الأحادية الفيزيائية، والتجسيد).
+      - `con-adaptation.md` (التكيف — التكيف النمائي البياجيتي، اللذائذي، والبيولوجي).
+      - `con-homeostasis.md` (الاستتباب — الاتزان الداخلي، نظرية خفض الدافع، والتحميل التبايني).
+      - `con-schema.md` (المخطط المعرفي — البنى المعرفية من بارتليت وبياجيه إلى بيك ويونغ).
+      - `con-cognitive-dissonance.md` (التنافر المعرفي — نظرية فستنجر وآليات استعادة الاتساق).
+      - `con-pleasure.md` (اللذة — المذهب اللذائذي، مبدأ اللذة الفرويدي، ونقاط المكافأة العصبية).
+      - `con-reductionism.md` (الاختزالية — المستويات الأنطولوجية والإبستمولوجية ونقد الاختزالية البيولوجية).
+      - `con-memory.md` (الذاكرة — أنظمة التشفير والتخزين، الذاكرة العاملة، والذاكرة العرضية والدلالية).
+      - `con-optimism.md` (التفاؤل — التفاؤل الاستعدادي لكارفر والتفاؤل المكتسب لسليجمان).
+      - `con-emotional-intelligence.md` (الذكاء العاطفي — نموذج القدرة لماير وسالوفي والنموذج المختلط لغولمان).
+      - `con-ataraxia.md` (الأتاراكسيا والسكينة النفسية — تعليق الحكم والسكينة في الفلسفة الهيلينستية).
+  - **تصحيح روابط المسودات (34 ملف مسودة تم تحديثها بدقة)**:
+    - تصحيح أسماء المفكرين للمطابقة القياسية (`thk-festinger` → `thk-lfestinger`، `thk-mischel` → `thk-wmischel`، `thk-kihlstrom` → `thk-jkihnstrom`، `thk-kohler` → `thk-wkohler`، `thk-koffka` → `thk-kkoffka`، `thk-wertheimer` → `thk-mwertheimer`، `thk-abduh` → `thk-muhammad-abduh`، `thk-daniel-kahneman` → `thk-kahneman`، `thk-martin-baro` → `thk-imartinbaro`، `thk-peseschkian` → `thk-npeseschkian`، `thk-kgrof` → `thk-sgrof`، `thk-llaing` → `thk-rlaing`، `thk-beck-aaron` → `thk-beck`، `thk-seligman` → `thk-mseligman`).
+    - تصحيح أسماء المدارس للمطابقة القياسية (`sch-confucianism` → `sch-confucian-early`، `sch-daoism` → `sch-daoism-philosophical`، `sch-neo-confucianism-song-ming` → `sch-neoconfucianism`، `sch-pragmatism` → `sch-pragmatism-classical`، `sch-empiricism-british` → `sch-british-empiricism`، `sch-skepticism-pyrrhonian` → `sch-pyrrhonism`، `sch-postmodernism` → `sch-postmodernism-philosophical`، `sch-islamic-modernism` → `sch-islamic-reform`، `sch-islamic-sufism` → `sch-wahdat-alwujud`، `sch-analytical-psychology` → `br-jungian`، `sch-positivism-logical` → `sch-vienna-circle`).
+    - ضبط الروابط الدقيقة للمفاهيم والاضطرابات (`dis-major-depressive` → `dis-mdd`، `tec-cbt-mindfulness` → `tec-cbt-mind-mindfulness-meditation`).
+    - تسجيل المفاهيم الفرعية غير المكتملة في حقول `gaps:` بالملفات المصدر بدلاً من تركها معلقة.
+  - **حالة الروابط المعلقة في الأطلس**: **0 روابط معلقة في عموم مسودات الأطلس (Zero Broken References)**.
+  - **تحديث فهرس الـ Slugs**: تم تشغيل `build_slug_index.py` وتحديث `EXISTING_SLUGS.md` بنجاح، ليصل إجمالي عناصر الأطلس إلى **4,267 عنصراً** (4,150 معتمداً + 117 مسودة).
+  - **تقرير المراجعة البشرية للملفات المعتمدة (للقراءة فقط دون تعديل)**:
+    - `content/ar/schools/sch-transpersonal.md`: يحتوي على إحالة قديمة لـ `thk-kgrof` (المعتمد الصحيح: `thk-sgrof`).
+    - `content/ar/schools/sch-positive-psychology.md`: يحتوي على إحالة لـ `thk-peseschkian` (المعتمد الصحيح: `thk-npeseschkian`).
+    - `content/ar/schools/sch-gestalt-therapy.md`: يحتوي على إحالة لـ `thk-kohler` (المعتمد الصحيح: `thk-wkohler`).
+

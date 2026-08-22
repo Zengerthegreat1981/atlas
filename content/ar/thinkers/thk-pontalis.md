@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
-  - id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
+  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

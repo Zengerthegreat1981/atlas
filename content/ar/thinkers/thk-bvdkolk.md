@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علاج الصدمة العصبي", target_type: "مدرسة"
 related:
-  - id: "thk-bperry", title: "بروس بيري", type: "مفكر"
+  - id: "thk-bperry", title: "بروس د. بيري", type: "مفكر"
   - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."

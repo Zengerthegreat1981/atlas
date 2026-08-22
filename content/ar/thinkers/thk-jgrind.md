@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:
-  - id: "thk-rbandler", title: "ريتشارد باندلر", type: "مفكر"
+  - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

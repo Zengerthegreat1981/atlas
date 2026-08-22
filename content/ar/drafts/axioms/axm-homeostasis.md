@@ -13,7 +13,7 @@ edges:
 related:
   - id: "thk-cannon", title: "والتر كانون", type: "مفكر"
   - id: "con-homeostasis", title: "الاستتباب", type: "مفهوم"
-  - id: "con-drive", title: "الدافع", type: "مفهوم"
+  - id: "con-drive-reduction", title: "نظرية خفض الدافع", type: "مفهوم"
 gaps:
   - "الفرق بين الاستتباب (الثبات) والاستتباب المُوسَّع (Allostasis، Sterling 2011) يحتاج تحليلاً."
   - "تطبيقات المبدأ على الإدمان (الانحراف المُعَلَّم allostatic load) في علم النفس الإكلينيكي لم تُمثَّل بعمق."

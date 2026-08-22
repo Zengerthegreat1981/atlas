@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-tkirsch", title: "توماس كيرش", type: "مفكر"
+  - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
   - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
   - id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
 gaps:

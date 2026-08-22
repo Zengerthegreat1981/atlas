@@ -12,7 +12,7 @@ language: "الألمانية / الفرنسية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
   - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 gaps:
   - "التفاصيل المتعلقة بتأثير أدلر على «ثلاثية الإطفائيين» (Die Wasseträger Gottes) تحتاج فحصاً نصياً."

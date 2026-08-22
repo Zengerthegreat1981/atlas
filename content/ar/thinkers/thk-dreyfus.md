@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
   - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
   - id: "thk-todes", title: "صموئيل توديس", type: "مفكر"

@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
+  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "con-dream-interpretation", title: "تفسير الأحلام", type: "مفهوم"
 gaps:

@@ -12,7 +12,7 @@ language: "الألمانية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
+  - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
   - id: "thk-dieckmann", title: "هانس ديكمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

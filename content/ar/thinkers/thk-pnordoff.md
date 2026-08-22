@@ -13,7 +13,7 @@ active_end: 1977
 edges:
   - rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
 related:
-  - id: "thk-egaston", title: "إي. ثوريت غاستون", type: "مفكر"
+  - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

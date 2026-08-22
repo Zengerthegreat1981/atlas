@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج بمساعدة MDMA (MAPS)", target_type: "مدرسة"
 related:
-  - id: "thk-mithoefer", title: "مايكل ميستوفر", type: "مفكر"
+  - id: "thk-mithoefer", title: "مايكل ميثوفر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

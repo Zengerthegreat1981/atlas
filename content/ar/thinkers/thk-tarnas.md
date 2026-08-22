@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

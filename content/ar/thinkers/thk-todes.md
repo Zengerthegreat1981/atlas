@@ -15,7 +15,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
   - id: "con-time", title: "الزمن", type: "مفهوم"
 gaps:

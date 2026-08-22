@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
   - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-bion", title: "وِلْفريد بْيُون", type: "مفكر"
+  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "المفاهيم اللاحقة (أوائل الألفية) — فصام الأم، العمل السلبي — لم تُراجَع مصادرها الأولية."

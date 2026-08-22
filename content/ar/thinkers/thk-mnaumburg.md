@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "العلاج بالفن", target_type: "مدرسة"
 related:
   - id: "thk-ekramer", title: "إديث كرامر", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

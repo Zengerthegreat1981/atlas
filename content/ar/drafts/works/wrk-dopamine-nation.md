@@ -17,8 +17,8 @@ edges:
   - rel: "written_by", target: "آنا ليمبكي", type: "مفكر"
 related:
   - id: "thk-anna-lembke", title: "آنا ليمبكي", type: "مفكر"
-  - id: "con-dopamine", title: "الدوبامين", type: "مفهوم"
-  - id: "con-addiction", title: "الإدمان", type: "مفهوم"
+  - id: "con-pleasure", title: "اللذة", type: "مفهوم"
+  - id: "syn-craving-urge", title: "الرغبة الشديدة والإلحاح الإدماني", type: "متلازمة"
 gaps:
   - "التفريق العلمي بين 'الإدمان السلوكي' و'الإدمان الكيميائي' في الفهم المُعاصر لا يزال موضع نقاش DSM-5-TR."
   - "توثيق 'توازن الدوبامين' كنظرية عصبية-كيميائية يحتاج تفصيلاً إضافياً."

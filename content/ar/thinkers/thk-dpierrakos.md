@@ -12,7 +12,7 @@ language: "الإنجليزية / الإسبانية"
 edges:
   - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
 related:
-  - id: "thk-pierrakos", title: "جون بيراكوس", type: "مفكر"
+  - id: "thk-pierrakos", title: "جون س. بيراكوس", type: "مفكر"
   - id: "thk-epierrakos", title: "إيڤا بيراكوس", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."

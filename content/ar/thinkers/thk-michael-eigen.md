@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
+  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة 1942 وفق ويكيبيديا، تحتاج تأكيداً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

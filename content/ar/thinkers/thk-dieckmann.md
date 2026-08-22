@@ -12,7 +12,7 @@ language: "الألمانية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
+  - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
   - id: "thk-jkirsch", title: "جيمس كيرش", type: "مفكر"
   - id: "con-addiction", title: "الإدمان", type: "مفهوم"
 gaps:

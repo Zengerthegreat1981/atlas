@@ -11,9 +11,9 @@ active_start: -500
 active_end: "مستمر"
 edges: []
 related:
-  - id: "sch-confucianism", title: "المدرسة الكونفوشيوسية", type: "مدرسة"
-  - id: "sch-daoism", title: "المدرسة الداوية", type: "مدرسة"
-  - id: "sch-neo-confucianism-song-ming", title: "الكونفوشيوسية الجديدة", type: "مدرسة"
+  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+  - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
 gaps:
   - "تطوير تشو شي (Zhu Xi) ومفهوم 'مبدأ ونظام الأشياء' (Li) والطاقة الحيوية (Qi)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

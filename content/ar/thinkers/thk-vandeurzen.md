@@ -14,7 +14,7 @@ country: "هولندا / بريطانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
+  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
   - id: "dbt-british-yalom", title: "الخصومة", type: "جدل"
   - id: "dbt-structures", title: "خصومة البنى", type: "جدل"
   - id: "thk-cohn", title: "هانز كون", type: "مفكر"

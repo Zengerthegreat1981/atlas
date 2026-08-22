@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-  - id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
+  - id: "thk-jgreenberg", title: "جاي ر. غرينبرغ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

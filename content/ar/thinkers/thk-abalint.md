@@ -12,7 +12,7 @@ language: "المجرية / الألمانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-mbalint", title: "مايكل بالينت", type: "مفكر"
+  - id: "thk-mbalint", title: "مايكل بالِنت", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."

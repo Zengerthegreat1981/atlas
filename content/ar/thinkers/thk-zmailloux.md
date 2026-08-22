@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "التكامل الحسي (Sensory Integration)", target_type: "مدرسة"
 related:
   - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
-  - id: "thk-lmiller", title: "لوسي ميلر", type: "مفكر"
+  - id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

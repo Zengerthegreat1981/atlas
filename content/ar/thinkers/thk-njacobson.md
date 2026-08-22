@@ -14,8 +14,8 @@ active_end: 2006
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-cmartell", title: "كريستوفر مارتل", type: "مفكر"
-  - id: "thk-maddis", title: "مايكل آديس", type: "مفكر"
+  - id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
+  - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
   - id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
   - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
 gaps:

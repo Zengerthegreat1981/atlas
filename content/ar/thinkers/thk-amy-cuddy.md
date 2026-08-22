@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
 related:
   - id: "wrk-presence-cuddy", title: "الحضور", type: "عمل / كتاب"
-  - id: "dbt-psychology-replication-crisis", title: "أزمة التكرار في علم النفس", type: "جدل"
+  - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

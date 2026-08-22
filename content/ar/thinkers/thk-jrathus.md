@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
 related:
   - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-  - id: "thk-amiller", title: "أليك ميلر", type: "مفكر"
+  - id: "thk-amiller", title: "أليس ميلر", type: "مفكر"
   - id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد الدقيقة وانتماء راثوس لجامعة هوفسترا لم يُراجعا من مصدر أولي بعد."

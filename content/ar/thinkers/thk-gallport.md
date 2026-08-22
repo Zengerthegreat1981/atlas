@@ -14,8 +14,8 @@ active_end: 1967
 edges:
   - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
 related:
-  - id: "thk-hmurray", title: "هَانْز مَايْر", type: "مفكر"
-  - id: "thk-maslow", title: "أَبْرَاهَام مَاسْلُو", type: "مفكر"
+  - id: "thk-hmurray", title: "هنري موراي", type: "مفكر"
+  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 gaps:
   - "تفصيل نظرية السمات (Traits) لم يُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

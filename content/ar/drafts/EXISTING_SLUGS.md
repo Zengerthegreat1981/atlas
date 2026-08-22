@@ -2,12 +2,12 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **4240** عنصراً (**4150** معتمد + **90** مسودة).
+الإجمالي: **4267** عنصراً (**3912** معتمد + **355** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
-## مفكر (1925)
+## مفكر (1940)
 
 - `con-complex-ptsd` — اضطراب الكرب التالي للصدمة المعقد (C-PTSD) — ✅ معتمد
 - `con-dissociation` — الانفصال (Dissociation) — ✅ معتمد
@@ -21,7 +21,7 @@
 - `con-twelve-steps` — برنامج الاثنتي عشرة خطوة (12-Step) — ✅ معتمد
 - `thk-aabdelkhalek` — أمجد عبد الخالق — ✅ معتمد
 - `thk-aabrer` — كارل أبراهام — ✅ معتمد
-- `thk-aalladin` — آسين علادين — ✅ معتمد
+- `thk-aalladin` — آسين علادين — 🕓 مسودة
 - `thk-aalvarez` — آن ألفاريز — ✅ معتمد
 - `thk-abalint` — أليس بالينت — ✅ معتمد
 - `thk-abandura` — ألبرت باندورا — ✅ معتمد
@@ -65,11 +65,11 @@
 - `thk-alain-de-botton` — آلان دو بوتون — ✅ معتمد
 - `thk-alam` — محمود أمين العالم — ✅ معتمد
 - `thk-alazm` — صادق جلال العظم — ✅ معتمد
-- `thk-albertellis-somatic` — إيمي فونتانا — ✅ معتمد
+- `thk-albertellis-somatic` — إيمي فونتانا — 🕓 مسودة
 - `thk-alemma` — أنتوني لِمّا — ✅ معتمد
-- `thk-alexandra-farkas` — ألكسندرا فاركاش — ✅ معتمد
+- `thk-alexandra-farkas` — ألكسندرا فاركاش — 🕓 مسودة
 - `thk-ali` — آن لي (Ann Li) — ✅ معتمد
-- `thk-alicorazon` — ألي كورازون — ✅ معتمد
+- `thk-alicorazon` — ألي كورازون — 🕓 مسودة
 - `thk-aliebeault` — أمبرواز ليبو — ✅ معتمد
 - `thk-alinley` — أليكس لينلي — ✅ معتمد
 - `thk-allen-carr` — ألين كار — ✅ معتمد
@@ -87,22 +87,23 @@
 - `thk-amo` — أنطون فلهيلم أمو — ✅ معتمد
 - `thk-amuller` — ألكسندر مولر — ✅ معتمد
 - `thk-amy-cuddy` — إيمي كادي — ✅ معتمد
-- `thk-amy-morgan` — إيمي مورغان — ✅ معتمد
+- `thk-amy-morgan` — إيمي مورغان — 🕓 مسودة
 - `thk-anaess` — أرنه نيس — ✅ معتمد
-- `thk-anajam` — عادل نجّام — ✅ معتمد
+- `thk-anajam` — عادل نجّام — 🕓 مسودة
 - `thk-andersericson` — أندرس إريكسون — ✅ معتمد
-- `thk-andrew-barnes` — إيميلي بلاك — ✅ معتمد
-- `thk-andrew-johnson` — أندرو جونسون — ✅ معتمد
-- `thk-andrew-schnack` — أندرو شنك — ✅ معتمد
+- `thk-andrew-barnes` — إيميلي بلاك — 🕓 مسودة
+- `thk-andrew-johnson` — أندرو جونسون — 🕓 مسودة
+- `thk-andrew-schnack` — أندرو شنك — 🕓 مسودة
 - `thk-angel` — إرنست أنجل — ✅ معتمد
 - `thk-angusmacfarlane` — أنغوس ماكفارلن — ✅ معتمد
 - `thk-angyal` — أندراس أنجيال — ✅ معتمد
+- `thk-anna-lembke` — آنا ليمبكي — 🕓 مسودة
 - `thk-ansbacher` — هاينز ل. آنسْباخِر — ✅ معتمد
 - `thk-anselm-canterbury` — أنسيلم من كانتربري — ✅ معتمد
 - `thk-anthony` — ماغي أنتوني — ✅ معتمد
 - `thk-anzieu` — ديدييه أنزيو — ✅ معتمد
 - `thk-aoliveira` — أنا ماريا دي أوليفيرا — ✅ معتمد
-- `thk-apert` — أنا أريتي — ✅ معتمد
+- `thk-apert` — أنا أريتي — 🕓 مسودة
 - `thk-apesso` — ألبرت بيسّو — ✅ معتمد
 - `thk-aquinas` — توما الأكويني — ✅ معتمد
 - `thk-araine` — أدريان راين — ✅ معتمد
@@ -112,7 +113,8 @@
 - `thk-aristotle` — أرسطو — 🕓 مسودة
 - `thk-arne-naess` — أرنه نايس — ✅ معتمد
 - `thk-aron` — ريمون آرون — ✅ معتمد
-- `thk-arthurbeckerweidman` — آرثر بيكر-ويدمان — ✅ معتمد
+- `thk-arthur-brooks` — آرثر بروكس — 🕓 مسودة
+- `thk-arthurbeckerweidman` — آرثر بيكر-ويدمان — 🕓 مسودة
 - `thk-aryle` — جيلبرت ريل — ✅ معتمد
 - `thk-asante` — موليفي أسانتي — ✅ معتمد
 - `thk-aschore` — ألان شور — ✅ معتمد
@@ -137,16 +139,17 @@
 - `thk-baker` — إلسوورث ف. بيكر — ✅ معتمد
 - `thk-bakewell` — سارة بيكويل — ✅ معتمد
 - `thk-bakunin` — ميخائيل باكونين — ✅ معتمد
-- `thk-bala-jaison` — بالا جايسون — ✅ معتمد
+- `thk-bala-jaison` — بالا جايسون — 🕓 مسودة
 - `thk-balakare` — بيرجيتّا ألاكارِ — ✅ معتمد
 - `thk-bally` — غوستاف بالي — ✅ معتمد
 - `thk-bargdill` — ريتشارد بارغديل — ✅ معتمد
-- `thk-barlow` — ديفيد هـ. بارلو — ✅ معتمد
+- `thk-barlow` — ديفيد هـ. بارلو — 🕓 مسودة
 - `thk-barnes` — هازل بارنز — ✅ معتمد
 - `thk-barrett` — ويليام باريت — ✅ معتمد
-- `thk-barry-kramer` — باري كريمر — ✅ معتمد
+- `thk-barry-kramer` — باري كريمر — 🕓 مسودة
 - `thk-barry-schwartz` — باري شوارتز — ✅ معتمد
 - `thk-barth` — كارل بارث — ✅ معتمد
+- `thk-bartlett` — فريدريك بارتليت — 🕓 مسودة
 - `thk-basaglia` — فرانكو بازاليا — ✅ معتمد
 - `thk-basil-caesarea` — باسيليوس الكبير (باسيليوس القيساري) — ✅ معتمد
 - `thk-bataille` — جورج باتاي — ✅ معتمد
@@ -169,7 +172,7 @@
 - `thk-benedetti` — غايتانو بينيديتي — ✅ معتمد
 - `thk-benedict-carey` — بينيديكت كاري — ✅ معتمد
 - `thk-benso` — سيلفيو بينسو — ✅ معتمد
-- `thk-benthall` — مايكل بينثال — ✅ معتمد
+- `thk-benthall` — مايكل بينثال — 🕓 مسودة
 - `thk-bentham` — جيريمي بنثام — ✅ معتمد
 - `thk-berdyaev` — نيكولاي بيردييف — ✅ معتمد
 - `thk-bergson` — هنري برغسون — ✅ معتمد
@@ -179,14 +182,14 @@
 - `thk-bernfeld` — سيغفريد بيرنفيلد — ✅ معتمد
 - `thk-bespaloff` — راشيل بيسبالوف — ✅ معتمد
 - `thk-besselvanderkolk` — بِسِل فَن دِر كولك — ✅ معتمد
-- `thk-beutler` — لاري بويتلر — ✅ معتمد
+- `thk-beutler` — لاري بويتلر — 🕓 مسودة
 - `thk-bfredrickson` — باربرا فريدريكسون — ✅ معتمد
 - `thk-bguerney` — برنارد غيرني — ✅ معتمد
 - `thk-bhellinger` — بيرت هلنغر — ✅ معتمد
 - `thk-bhooks` — بيل هوكس — ✅ معتمد
 - `thk-bidwell` — دوان بيدويل — ✅ معتمد
 - `thk-biko` — ستيف بيكو — ✅ معتمد
-- `thk-bill-matthews` — بيل ماثيوز — ✅ معتمد
+- `thk-bill-matthews` — بيل ماثيوز — 🕓 مسودة
 - `thk-binswanger` — لودفيغ بينسوانغر — ✅ معتمد
 - `thk-bion` — ويلفريد بيون — ✅ معتمد
 - `thk-bischler` — فيرنر بيشلر — ✅ معتمد
@@ -205,7 +208,7 @@
 - `thk-bmontalvo` — براوليو مونتالفو — ✅ معتمد
 - `thk-bmoore` — بوب مور — ✅ معتمد
 - `thk-boadella` — ديفيد بوعِلّا — ✅ معتمد
-- `thk-bobbeck` — بوب بيك — ✅ معتمد
+- `thk-bobbeck` — بوب بيك — 🕓 مسودة
 - `thk-boethius` — بوئيثيوس (أنيسيوس مانليوس سيفيرينوس) — ✅ معتمد
 - `thk-bohanlon` — بيل أوهَنلون — ✅ معتمد
 - `thk-bolen` — جين شينودا بولن — ✅ معتمد
@@ -213,7 +216,7 @@
 - `thk-bonaventure` — بونافنتورا (جيوفاني دي فيدانزا) — ✅ معتمد
 - `thk-bookchin` — موراي بووكين — ✅ معتمد
 - `thk-borgmann` — ألبرت بورغمان — ✅ معتمد
-- `thk-boscolo` — لويجي بوسكولو — ✅ معتمد
+- `thk-boscolo` — لويجي بوسكولو — 🕓 مسودة
 - `thk-boss` — ميدارد بوس — ✅ معتمد
 - `thk-bostrom` — نيك بوستروم — ✅ معتمد
 - `thk-boszormenyi` — إيفان بوسورميني-ناجي — ✅ معتمد
@@ -222,16 +225,16 @@
 - `thk-bperry` — بروس د. بيري — ✅ معتمد
 - `thk-bpowell` — برت باول — ✅ معتمد
 - `thk-brandchaft` — برنارد براندشافت — ✅ معتمد
-- `thk-brapp` — تشارلز راب — ✅ معتمد
+- `thk-brapp` — تشارلز راب — 🕓 مسودة
 - `thk-brene-brown` — برينيه براون — ✅ معتمد
 - `thk-brentano` — فرانتس برنتانو — ✅ معتمد
 - `thk-breuer` — يوزف بروير — ✅ معتمد
-- `thk-brian-aleman` — براين ألمان — ✅ معتمد
-- `thk-brianhug` — بريان هيوز — ✅ معتمد
+- `thk-brian-aleman` — براين ألمان — 🕓 مسودة
+- `thk-brianhug` — بريان هيوز — 🕓 مسودة
 - `thk-brianweiss` — برايان وايس — ✅ معتمد
 - `thk-bromberg` — فيليب برومبرغ — ✅ معتمد
-- `thk-brosen` — برنارد روزن — ✅ معتمد
-- `thk-bruceperkins` — بروس بيركنز — ✅ معتمد
+- `thk-brosen` — برنارد روزن — 🕓 مسودة
+- `thk-bruceperkins` — بروس بيركنز — 🕓 مسودة
 - `thk-brueger` — بيرند رويغر — ✅ معتمد
 - `thk-brussell` — برتراند راسل — ✅ معتمد
 - `thk-buber` — مارتن بوبر — ✅ معتمد
@@ -254,14 +257,14 @@
 - `thk-caldwell` — كريستين كالدويل — ✅ معتمد
 - `thk-cambray` — جوزيف كامبري — ✅ معتمد
 - `thk-cameier` — كارل ألفريد ماير — ✅ معتمد
-- `thk-campbell-purton` — كامبيل پيرتون — ✅ معتمد
+- `thk-campbell-purton` — كامبيل پيرتون — 🕓 مسودة
 - `thk-camus` — ألبير كامو — ✅ معتمد
 - `thk-canderson` — كارول أندرسون — ✅ معتمد
 - `thk-cannon` — بيتي كانون — ✅ معتمد
 - `thk-cantaki` — تشارلز أنطاكي — ✅ معتمد
 - `thk-capriles` — أكسيل كابريليس — ✅ معتمد
 - `thk-carnegie` — ديل كارنيجي — ✅ معتمد
-- `thk-carolyn-dalglish` — كارولين دالجليش — ✅ معتمد
+- `thk-carolyn-dalglish` — كارولين دالجليش — 🕓 مسودة
 - `thk-carta` — ستيفانو كارطا — ✅ معتمد
 - `thk-caruso` — إيغور كاروسو — ✅ معتمد
 - `thk-caruso-amedeo` — أَمدِيو كاروزو — ✅ معتمد
@@ -277,12 +280,12 @@
 - `thk-cdello` — كارمن دِل أورو — ✅ معتمد
 - `thk-cdenborough` — كريس دِنْبَره — ✅ معتمد
 - `thk-cdouglas` — كلير دوغلاس — ✅ معتمد
-- `thk-cecilehimawan` — سيسيل هيموان — ✅ معتمد
+- `thk-cecilehimawan` — سيسيل هيموان — 🕓 مسودة
 - `thk-cel-bejjani` — كولين البيجاني — ✅ معتمد
 - `thk-cesaire` — إيمي سيزير — ✅ معتمد
 - `thk-cferster` — تشارلز فيرستر — ✅ معتمد
 - `thk-cfischer` — كونستانس فيشر — ✅ معتمد
-- `thk-cgarrett` — كولين غاريت — ✅ معتمد
+- `thk-cgarrett` — كولين غاريت — 🕓 مسودة
 - `thk-cgerber2` — تشارلز جيربر — ✅ معتمد
 - `thk-cgilligan` — كارول جيليجان — ✅ معتمد
 - `thk-cgrob` — تشارلز غروب — ✅ معتمد
@@ -290,12 +293,12 @@
 - `thk-charcot` — جان مارتان شاركو — ✅ معتمد
 - `thk-charles-duhigg` — تشارلز دوهيغ — ✅ معتمد
 - `thk-charles-glisson` — تشارلز غليسون — ✅ معتمد
-- `thk-charlesfaulkner` — تشارلز فولكنر — ✅ معتمد
+- `thk-charlesfaulkner` — تشارلز فولكنر — 🕓 مسودة
 - `thk-charlestaylor` — تشارلز تايلور — ✅ معتمد
 - `thk-charvaka` — تشارڤاكا (مؤسس لوكاياتا / المادية الهندية) — ✅ معتمد
 - `thk-chatel` — ماري-مادلين شاتيل — ✅ معتمد
 - `thk-cheng-yi` — تشنغ يي — ✅ معتمد
-- `thk-cherylfairbairn` — شيريل فيربيرن — ✅ معتمد
+- `thk-cherylfairbairn` — شيريل فيربيرن — 🕓 مسودة
 - `thk-chodorow` — نانسي تشودورو — ✅ معتمد
 - `thk-cialdini` — روبرت تشالديني — ✅ معتمد
 - `thk-cioran` — إميل سيوران — ✅ معتمد
@@ -315,7 +318,7 @@
 - `thk-comte` — أوغست كونت — ✅ معتمد
 - `thk-condrau` — غيون كوندراو — ✅ معتمد
 - `thk-confucius` — كونفوشيوس (كونغ زي) — ✅ معتمد
-- `thk-connie-rae-anderson` — كوني ري أندرسون — ✅ معتمد
+- `thk-connie-rae-anderson` — كوني ري أندرسون — 🕓 مسودة
 - `thk-cooper` — ميك كوبر — ✅ معتمد
 - `thk-copleston` — فريدريك كوبلستون — ✅ معتمد
 - `thk-corbett` — ليونيل كوربت — ✅ معتمد
@@ -335,10 +338,10 @@
 - `thk-ctieles` — سيسليو تيليس — ✅ معتمد
 - `thk-ctrungpa` — تشوغيام ترونغبا — ✅ معتمد
 - `thk-ctuzio` — كارلوس توزيو — ✅ معتمد
-- `thk-cwebster` — كريستوفر ويبستر — ✅ معتمد
+- `thk-cwebster` — كريستوفر ويبستر — 🕓 مسودة
 - `thk-cwebster-stratton` — كارولين ويبستر-ستراتون — ✅ معتمد
 - `thk-cwhitaker` — كارل وايتيكر — ✅ معتمد
-- `thk-cwhitaker-pt` — جون مارش — ✅ معتمد
+- `thk-cwhitaker-pt` — جون مارش — 🕓 مسودة
 - `thk-cyamanaka` — تشيي ياماناكا — ✅ معتمد
 - `thk-czeanah` — تشارلز زيناه — ✅ معتمد
 - `thk-dabram` — ديفيد أبرام — ✅ معتمد
@@ -352,14 +355,14 @@
 - `thk-danbrown-ddp` — دانيال ب. براون — ✅ معتمد
 - `thk-daniel-gilbert` — دانيال جيلبرت — ✅ معتمد
 - `thk-daniel-siegel` — دانيال ج. سيغل — ✅ معتمد
-- `thk-daniellevision` — دانييل ليڤيسون — ✅ معتمد
+- `thk-daniellevision` — دانييل ليڤيسون — 🕓 مسودة
 - `thk-darcy-woebot` — أليسون دارسي — ✅ معتمد
 - `thk-dasilva` — غي دا سيلفا — ✅ معتمد
 - `thk-david-allen` — ديفيد ألين — ✅ معتمد
-- `thk-david-erceg` — ديفيد إرسغ — ✅ معتمد
-- `thk-david-feldman` — ديفيد فيلدمان — ✅ معتمد
+- `thk-david-erceg` — ديفيد إرسغ — 🕓 مسودة
+- `thk-david-feldman` — ديفيد فيلدمان — 🕓 مسودة
 - `thk-david-krauss` — ديفيد أ. كراوس — ✅ معتمد
-- `thk-david-reeve` — ديفيد ريڤ — ✅ معتمد
+- `thk-david-reeve` — ديفيد ريڤ — 🕓 مسودة
 - `thk-david-schwartz` — ديفيد ج. شوارتز — ✅ معتمد
 - `thk-davoine` — فرانسوا دافين — ✅ معتمد
 - `thk-dayananda` — سوامي دياناندا ساراسواتي — ✅ معتمد
@@ -378,28 +381,30 @@
 - `thk-ddiamond` — دانيال دايموند — ✅ معتمد
 - `thk-ddinste` — دوروثي دينرشتاين — ✅ معتمد
 - `thk-deb-dana` — ديب دانا — 🕓 مسودة
-- `thk-deborah-kremer` — دبرا كريمر — ✅ معتمد
+- `thk-deborah-kremer` — دبرا كريمر — 🕓 مسودة
 - `thk-dedwards` — ديرِك إدواردز — ✅ معتمد
-- `thk-deepak-ramsubeik` — ديپاك رامسوبك — ✅ معتمد
+- `thk-deepak-ramsubeik` — ديپاك رامسوبك — 🕓 مسودة
 - `thk-delahorbe` — أوجين دي لا هورب — ✅ معتمد
+- `thk-deleuze` — جيل دولوز — 🕓 مسودة
 - `thk-delman` — ديف إلمان — ✅ معتمد
 - `thk-deniswaitley` — دينيس ويتلي — ✅ معتمد
 - `thk-depston` — ديفيد إبستون — ✅ معتمد
 - `thk-deraldwing-sue` — ديرالد وينغ سو — ✅ معتمد
+- `thk-derrida` — جاك دريدا — 🕓 مسودة
 - `thk-descartes` — رينيه ديكارت — ✅ معتمد
 - `thk-deutsch` — هيلين دويتش — ✅ معتمد
 - `thk-dewaelhens` — ألفونس دي فالهنز — ✅ معتمد
 - `thk-dewey` — جون ديوي — ✅ معتمد
 - `thk-dfeinstein` — ديفيد فاينشتاين — ✅ معتمد
-- `thk-dfisher` — دانيال فيشر — ✅ معتمد
+- `thk-dfisher` — دانيال فيشر — 🕓 مسودة
 - `thk-dfosha` — ديانا فوشا — ✅ معتمد
 - `thk-dgbarrera` — دييغو غارسيا بارّيرا — ✅ معتمد
-- `thk-dgrand` — ديفيد غراند — ✅ معتمد
-- `thk-dgray` — مارتن ديك — ✅ معتمد
-- `thk-dgreenberger` — دِنيز د. ديفيد — ✅ معتمد
+- `thk-dgrand` — ديفيد غراند — 🕓 مسودة
+- `thk-dgray` — مارتن ديك — 🕓 مسودة
+- `thk-dgreenberger` — دِنيز د. ديفيد — 🕓 مسودة
 - `thk-dhanna` — فرانك غولدشتاين — ✅ معتمد
 - `thk-dhook` — دِنيس هوك — ✅ معتمد
-- `thk-diclemente` — كارل دي كليمنتي — ✅ معتمد
+- `thk-diclemente` — كارل دي كليمنتي — 🕓 مسودة
 - `thk-dieckmann` — هانس ديكمان — ✅ معتمد
 - `thk-dilthey` — فيلهلم دلتاي — ✅ معتمد
 - `thk-dimen` — موريل ديمن — ✅ معتمد
@@ -411,11 +416,11 @@
 - `thk-dluo` — دونغ ليو — ✅ معتمد
 - `thk-dmarivoet` — ديرك ماريڤوت — ✅ معتمد
 - `thk-dmeichenbaum` — د. هـ. مايكنباوم — ✅ معتمد
-- `thk-dmercieca` — إيفا ميرسيكا — ✅ معتمد
+- `thk-dmercieca` — إيفا ميرسيكا — 🕓 مسودة
 - `thk-dmiller` — ديفيد ل. ميلر — ✅ معتمد
 - `thk-dmueser` — كيم ميوزر — ✅ معتمد
 - `thk-dolweus` — دان أولِس — ✅ معتمد
-- `thk-donaldatkinson` — دونالد أتكينسون — ✅ معتمد
+- `thk-donaldatkinson` — دونالد أتكينسون — 🕓 مسودة
 - `thk-donbaer` — دونالد م. باير — ✅ معتمد
 - `thk-dorange` — دومينيك م. أَورَنج — ✅ معتمد
 - `thk-dostoevsky` — فيودور دوستويفسكي — ✅ معتمد
@@ -441,11 +446,11 @@
 - `thk-duns-scotus` — يوحنا دونز سكوتوس (الدكتور سوتيل) — ✅ معتمد
 - `thk-duplock` — سايمون دو بلوك — ✅ معتمد
 - `thk-dwallis` — ديفيد واليس — ✅ معتمد
-- `thk-dwchen` — دونغ-وي تشن — ✅ معتمد
+- `thk-dwchen` — دونغ-وي تشن — 🕓 مسودة
 - `thk-dweck` — كارول دويك — ✅ معتمد
 - `thk-dwile` — دانيال وايل — ✅ معتمد
 - `thk-dwinnicott` — دونالد وِنّيكت — ✅ معتمد
-- `thk-dzurilla` — توماس ج. دزوريلا — ✅ معتمد
+- `thk-dzurilla` — توماس ج. دزوريلا — 🕓 مسودة
 - `thk-eallen` — إليزابيث ألين — ✅ معتمد
 - `thk-earle` — ويليام إيرل — ✅ معتمد
 - `thk-ebick` — إستر بيك — ✅ معتمد
@@ -454,9 +459,9 @@
 - `thk-ebosnak` — [مؤسِّسو رابطة ساندبلاي في أمريكا] — ✅ معتمد
 - `thk-eburne` — إريك بيرن — ✅ معتمد
 - `thk-eckartsberg` — رولف فون إكارتسبيرغ — ✅ معتمد
-- `thk-ecker` — بروس إيكر — ✅ معتمد
+- `thk-ecker` — بروس إيكر — 🕓 مسودة
 - `thk-eckhart-tolle` — إيكهارت تول — ✅ معتمد
-- `thk-ecolle` — إيما كول — ✅ معتمد
+- `thk-ecolle` — إيما كول — 🕓 مسودة
 - `thk-econrad` — إيميلي كونراد — ✅ معتمد
 - `thk-ecraig` — إريك كريك — ✅ معتمد
 - `thk-ectolman` — إدوارد تولمان — ✅ معتمد
@@ -481,9 +486,9 @@
 - `thk-ekris` — إرنست كريس — ✅ معتمد
 - `thk-elaine-aron` — إيلين آرون — ✅ معتمد
 - `thk-elaszlo` — إرڤين لازلو — ✅ معتمد
-- `thk-eleanor-crisostomo` — إيلينور كريزوستومو — ✅ معتمد
+- `thk-eleanor-crisostomo` — إيلينور كريزوستومو — 🕓 مسودة
 - `thk-elevine` — إيلين ليفين — ✅ معتمد
-- `thk-elin-rbaek` — إلين ربيك — ✅ معتمد
+- `thk-elin-rbaek` — إلين ربيك — 🕓 مسودة
 - `thk-elizabeth-loftus` — إليزابيث لوفتوس — ✅ معتمد
 - `thk-ellenberger` — هنري إلينبرجر — ✅ معتمد
 - `thk-ellis` — ألبرت إليس — ✅ معتمد
@@ -502,8 +507,8 @@
 - `thk-erasmus` — دسيديريوس إراسموس — ✅ معتمد
 - `thk-ereich` — إيڤا رايخ — ✅ معتمد
 - `thk-ereichelt` — إريك رايشيلت — ✅ معتمد
-- `thk-erickson-erl` — إيرل إريكسون — ✅ معتمد
-- `thk-erikpearson` — إريك پيرسون — ✅ معتمد
+- `thk-erickson-erl` — إيرل إريكسون — 🕓 مسودة
+- `thk-erikpearson` — إريك پيرسون — 🕓 مسودة
 - `thk-erikson` — إريك إريكسون — ✅ معتمد
 - `thk-erosch` — إيلينور روش — ✅ معتمد
 - `thk-esaebel` — إليزابيث سايبل — ✅ معتمد
@@ -534,13 +539,13 @@
 - `thk-femery` — فريد إيمري — ✅ معتمد
 - `thk-fgutier` — فرانسيسكو غوتيريس — ✅ معتمد
 - `thk-fhaug` — فريغا هاوُغ — ✅ معتمد
-- `thk-fherzog` — ف. هرتسوغ — ✅ معتمد
+- `thk-fherzog` — ف. هرتسوغ — 🕓 مسودة
 - `thk-fichte` — يوهان غوتليب فيشته — ✅ معتمد
 - `thk-fink` — أويغن فينك — ✅ معتمد
 - `thk-firestone` — شولاميث فيرستون — ✅ معتمد
 - `thk-fizzotti` — أوجينيو فيزوتي — ✅ معتمد
 - `thk-fkeller` — فريد س. كيلّر — ✅ معتمد
-- `thk-fkfu` — ف. كي. فو — ✅ معتمد
+- `thk-fkfu` — ف. كي. فو — 🕓 مسودة
 - `thk-fkurtz` — رونالد كورتز — ✅ معتمد
 - `thk-flake` — فرانك ليك — ✅ معتمد
 - `thk-floridi` — لوشيانو فلوريدي — ✅ معتمد
@@ -549,21 +554,22 @@
 - `thk-fmesmer` — فرانتس أنطون ميسمر — ✅ معتمد
 - `thk-fmodestin` — ماري كورنين — ✅ معتمد
 - `thk-fnewman` — فريد نيومان — ✅ معتمد
-- `thk-foa` — إدنا ب. فوا — ✅ معتمد
+- `thk-foa` — إدنا ب. فوا — 🕓 مسودة
 - `thk-fondane` — بنجامين فوندان — ✅ معتمد
 - `thk-fordham` — مايكل فوردام — ✅ معتمد
+- `thk-foucault` — ميشيل فوكو — 🕓 مسودة
 - `thk-foulkes` — إس. إتش. فولكس — ✅ معتمد
 - `thk-fperls` — فريتز بيرلز — ✅ معتمد
-- `thk-fpeseschkian` — فريد بيسشكيان — ✅ معتمد
-- `thk-frankanderson` — فرانك أندرسون — ✅ معتمد
+- `thk-fpeseschkian` — فريد بيسشكيان — 🕓 مسودة
+- `thk-frankanderson` — فرانك أندرسون — 🕓 مسودة
 - `thk-frankl` — فيكتور فرانكل — ✅ معتمد
-- `thk-frederickleong` — فريديريك ليونغ — ✅ معتمد
-- `thk-freeman` — دانيال فريمان — ✅ معتمد
+- `thk-frederickleong` — فريديريك ليونغ — 🕓 مسودة
+- `thk-freeman` — دانيال فريمان — 🕓 مسودة
 - `thk-freud` — سيغموند فرويد — ✅ معتمد
 - `thk-frey-rohn` — ليليان فري-رون — ✅ معتمد
 - `thk-fromm` — إريك فروم — ✅ معتمد
 - `thk-fromm-reichmann` — فريدا فروم-رايخمان — ✅ معتمد
-- `thk-fskinner` — بوريس فريدريك سكينر — ✅ معتمد
+- `thk-fskinner` — بورهوس فريدريك سكينر — ✅ معتمد
 - `thk-ftustin` — فرانسي تَستن — ✅ معتمد
 - `thk-fuchs` — توماس فوكس — ✅ معتمد
 - `thk-fukuzawa` — فوكوزاوا يوكيتشي — ✅ معتمد
@@ -595,10 +601,10 @@
 - `thk-ge-hong` — غي هونغ (تساو باوبو) — ✅ معتمد
 - `thk-gebsattel` — فيكتور فون غيبساتل — ✅ معتمد
 - `thk-gendlin` — يوجين جندلين — ✅ معتمد
-- `thk-gene-ennis` — جين إينيس — ✅ معتمد
+- `thk-gene-ennis` — جين إينيس — 🕓 مسودة
 - `thk-gengel` — جورج إنغل — ✅ معتمد
 - `thk-george-lakoff` — جورج لاكوف — ✅ معتمد
-- `thk-george-thompson` — جورج تومبسون — ✅ معتمد
+- `thk-george-thompson` — جورج تومبسون — 🕓 مسودة
 - `thk-georgeatwood` — جورج أتوود — ✅ معتمد
 - `thk-gferri` — جينوفينو فيري — ✅ معتمد
 - `thk-gfrege` — غوتلوب فريغه — ✅ معتمد
@@ -606,7 +612,7 @@
 - `thk-ghoffman` — غلين هوفمان — ✅ معتمد
 - `thk-giegerich` — وولفغانغ غيغيريش — ✅ معتمد
 - `thk-gilgamesh` — جلجامش (شخصية ملحمة) — ✅ معتمد
-- `thk-gillian-abbott` — جيليان أبوت — ✅ معتمد
+- `thk-gillian-abbott` — جيليان أبوت — 🕓 مسودة
 - `thk-gilligan` — كارول غيليغان — ✅ معتمد
 - `thk-giorgi` — أميديو جيورجي — ✅ معتمد
 - `thk-gjohanson` — غريغوري جوهانسون — ✅ معتمد
@@ -618,10 +624,10 @@
 - `thk-glover` — إدوارد غلوفر — ✅ معتمد
 - `thk-gmesibov` — غاري ميسيبوف — ✅ معتمد
 - `thk-gnaranjo` — كلاوديو نارانخو — ✅ معتمد
-- `thk-gnardone` — جورجيو ناردوني — ✅ معتمد
-- `thk-gold` — جوزيف غولد — ✅ معتمد
+- `thk-gnardone` — جورجيو ناردوني — 🕓 مسودة
+- `thk-gold` — جوزيف غولد — 🕓 مسودة
 - `thk-goldberg` — أرنولد غولدبرغ — ✅ معتمد
-- `thk-goldfried` — مارفين غولدفريد — ✅ معتمد
+- `thk-goldfried` — مارفين غولدفريد — 🕓 مسودة
 - `thk-goldmann` — لوسيان غولدمان — ✅ معتمد
 - `thk-goldstein` — كورت غولدشتاين — ✅ معتمد
 - `thk-goleman` — دانيال غولمان — ✅ معتمد
@@ -632,19 +638,19 @@
 - `thk-gparis` — جانيت باريس — ✅ معتمد
 - `thk-graeber` — ديفيد غريبر — ✅ معتمد
 - `thk-greenberg` — جيف غرينبرغ — ✅ معتمد
-- `thk-greenberg-lisa` — ليزا فيرلي غرينبرغ — ✅ معتمد
-- `thk-greenwald` — راي غرينوالد — ✅ معتمد
+- `thk-greenberg-lisa` — ليزلي س. غرينبرغ — ✅ معتمد
+- `thk-greenwald` — راي غرينوالد — 🕓 مسودة
 - `thk-grenier` — جان غرينييه — ✅ معتمد
 - `thk-gretchen-rubin` — غريتشين روبين — ✅ معتمد
-- `thk-griffiths` — رولاند غريفيثز — ✅ معتمد
+- `thk-griffiths` — رولاند غريفيثز — 🕓 مسودة
 - `thk-grose` — غيليس روز — ✅ معتمد
 - `thk-groselli` — غيلي روزيليني — ✅ معتمد
 - `thk-gschwartz` — غاري شوارتز — ✅ معتمد
 - `thk-gshepherd` — جيفري شيبرد — ✅ معتمد
-- `thk-gsmith` — غراهام سميث — ✅ معتمد
+- `thk-gsmith` — غراهام سميث — 🕓 مسودة
 - `thk-guattari` — فيليكس غواتاري — ✅ معتمد
 - `thk-guggenbuhl` — أدولف غوغنبوهل-كرايغ — ✅ معتمد
-- `thk-gunnel-cederblad` — جونيل سيدِربلاد — ✅ معتمد
+- `thk-gunnel-cederblad` — جونيل سيدِربلاد — 🕓 مسودة
 - `thk-guntrip` — هاري غانترب — ✅ معتمد
 - `thk-gurwitsch` — آرون غورفيتش — ✅ معتمد
 - `thk-guy-winch` — غاي وينش — ✅ معتمد
@@ -676,7 +682,7 @@
 - `thk-heller` — أغنيس هيلر — ✅ معتمد
 - `thk-hellmuth` — هيرمين هوغ-هيلموث — ✅ معتمد
 - `thk-hermes-trismegistus` — هرمس ثلاثي العظمة (شخصية تقليدية) — ✅ معتمد
-- `thk-hershman` — دينا هيرشمان — ✅ معتمد
+- `thk-hershman` — دينا هيرشمان — 🕓 مسودة
 - `thk-herskovitz` — مورتن هيرسكوفيتز — ✅ معتمد
 - `thk-heydt` — فيرا فون دير هايدت — ✅ معتمد
 - `thk-heysenck` — هَانز آيسنك — ✅ معتمد
@@ -690,7 +696,7 @@
 - `thk-hjguilhardi` — هيليو جوزيه غيلاردي — ✅ معتمد
 - `thk-hkaplan` — هيلين سنغر كابلان — ✅ معتمد
 - `thk-hkawai` — هياو كاواي — ✅ معتمد
-- `thk-hkoprulu` — حازم قبرلو (حازم كوبرولو) — ✅ معتمد
+- `thk-hkoprulu` — حازم قبرلو (حازم كوبرولو) — 🕓 مسودة
 - `thk-hkrystal` — هيروشي كاواشيما — ✅ معتمد
 - `thk-hkwiatkowska` — هانا كفياتكوفسكا — ✅ معتمد
 - `thk-hliddle` — هوارد ليدل — ✅ معتمد
@@ -702,7 +708,7 @@
 - `thk-hnishida` — هيرويوكي نيشيدا — ✅ معتمد
 - `thk-hoeller` — كيث هولر — ✅ معتمد
 - `thk-hoffman` — لويس هوفمان — ✅ معتمد
-- `thk-hohagen` — فريدريش هوهاغن — ✅ معتمد
+- `thk-hohagen` — فريدريش هوهاغن — 🕓 مسودة
 - `thk-holderlin` — فريدريش هولدرلين — ✅ معتمد
 - `thk-holzhey` — أليس هولتسهي-كونتس — ✅ معتمد
 - `thk-houle` — سيريل هول — ✅ معتمد
@@ -734,12 +740,12 @@
 - `thk-ibn-sina` — أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس) — ✅ معتمد
 - `thk-ibn-taymiyya` — تقي الدين أبو العباس أحمد ابن تيمية — ✅ معتمد
 - `thk-ibrenner` — إيرفينغ برينر — ✅ معتمد
-- `thk-icheolhong` — تشو هي-سو — ✅ معتمد
+- `thk-icheolhong` — تشو هي-سو — 🕓 مسودة
 - `thk-idmarshall` — توماس هانا — ✅ معتمد
-- `thk-ieyberg` — شيرلي إِيبِرغ — ✅ معتمد
+- `thk-ieyberg` — شيرلي إِيبِرغ — 🕓 مسودة
 - `thk-ifrom` — إيزادور فروم — ✅ معتمد
-- `thk-ihewlen` — إِهالِيكالا هيو لين — ✅ معتمد
-- `thk-ihilgard` — إرنست ر. هيلغارد — ✅ معتمد
+- `thk-ihewlen` — إِهالِيكالا هيو لين — 🕓 مسودة
+- `thk-ihilgard` — إرنست ر. هيلغارد — 🕓 مسودة
 - `thk-ilovaas` — أو. إيفار لوفاس — ✅ معتمد
 - `thk-imartinbaro` — إغناثيو مارتن-بارو — ✅ معتمد
 - `thk-ionesco` — أوجين يونسكو — ✅ معتمد
@@ -757,15 +763,15 @@
 - `thk-isap` — [جمعية ISAP / إيلينا/آنا فاي-قاردنر] — ✅ معتمد
 - `thk-isebastiani` — إيفان سيباستياني — ✅ معتمد
 - `thk-isquella` — إيزابيل سكيلّا — ✅ معتمد
-- `thk-istansky` — إيروين سترانسكي — ✅ معتمد
+- `thk-istansky` — إيروين سترانسكي — 🕓 مسودة
 - `thk-iyengar` — بي. كيه. إس. آيَنغَر — ✅ معتمد
 - `thk-jabra` — جبرا إبراهيم جبرا — ✅ معتمد
 - `thk-jacobsen` — بو ياكوبسن — ✅ معتمد
 - `thk-jacobson` — إديث جاكوبسون — ✅ معتمد
-- `thk-jacqueline-astington` — جاكلين أستنغتون — ✅ معتمد
-- `thk-jacqueline-peart` — جاكلين پيرت — ✅ معتمد
-- `thk-jacqueline-tortorella` — جاكلين تورتوريلا — ✅ معتمد
-- `thk-jacqueline-varner` — جاكلين فارنر — ✅ معتمد
+- `thk-jacqueline-astington` — جاكلين أستنغتون — 🕓 مسودة
+- `thk-jacqueline-peart` — جاكلين پيرت — 🕓 مسودة
+- `thk-jacqueline-tortorella` — جاكلين تورتوريلا — 🕓 مسودة
+- `thk-jacqueline-varner` — جاكلين فارنر — 🕓 مسودة
 - `thk-jadler` — جانيت أدلر — ✅ معتمد
 - `thk-jaffe` — أنييلا يافّه — ✅ معتمد
 - `thk-jahoda` — ماري جاهودا — ✅ معتمد
@@ -773,19 +779,19 @@
 - `thk-jalal-al-din-rumi` — جلال الدين الرومي (مولانا) — ✅ معتمد
 - `thk-jaliaga` — خوان أنطونيو ألياغا — ✅ معتمد
 - `thk-james` — وليم جيمس — ✅ معتمد
-- `thk-james-berman` — جيمس بيرمان — ✅ معتمد
+- `thk-james-berman` — جيمس بيرمان — 🕓 مسودة
 - `thk-james-clear` — جيمس كلير — ✅ معتمد
-- `thk-james-gumpert` — جيمس غومپرت — ✅ معتمد
+- `thk-james-gumpert` — جيمس غومپرت — 🕓 مسودة
 - `thk-james-william` — وليام جيمس — ✅ معتمد
 - `thk-jamiller` — جاك-أَلان ميلِّر — ✅ معتمد
 - `thk-janet` — بيير جانيه — ✅ معتمد
-- `thk-janethelms` — جانيت هيلمز — ✅ معتمد
-- `thk-janicewilliams` — جانيس ويليامز — ✅ معتمد
-- `thk-jarlena-white` — جارلينا وايت — ✅ معتمد
+- `thk-janethelms` — جانيت هيلمز — 🕓 مسودة
+- `thk-janicewilliams` — جانيس ويليامز — 🕓 مسودة
+- `thk-jarlena-white` — جارلينا وايت — 🕓 مسودة
 - `thk-jaspers` — كارل ياسبرز — ✅ معتمد
 - `thk-jaustin` — جون لانغشو أوستن — ✅ معتمد
 - `thk-jay-shetty` — جاي شيتي — ✅ معتمد
-- `thk-jayearly` — جاي إيرلي — ✅ معتمد
+- `thk-jayearly` — جاي إيرلي — 🕓 مسودة
 - `thk-jayres` — جين أَيرس — ✅ معتمد
 - `thk-jbanmen` — جون بانمن — ✅ معتمد
 - `thk-jbaylin` — جون بايلين — ✅ معتمد
@@ -797,12 +803,12 @@
 - `thk-jbirnbrauer` — جاي بيرنبراونر — ✅ معتمد
 - `thk-jbissel` — ج. غاري بيسّل — ✅ معتمد
 - `thk-jbmiller` — جين بيكر ميلر — ✅ معتمد
-- `thk-jboss` — ديفيد بيرسيلي — ✅ معتمد
-- `thk-jbrowne` — كاثلين براون — ✅ معتمد
+- `thk-jboss` — ديفيد بيرسيلي — 🕓 مسودة
+- `thk-jbrowne` — كاثلين براون — 🕓 مسودة
 - `thk-jburns` — ديفيد بيرنز — ✅ معتمد
 - `thk-jcameron` — جوليا كاميرون — ✅ معتمد
 - `thk-jcarlson` — جون كارلسون — ✅ معتمد
-- `thk-jcawley` — جوليا كاولي — ✅ معتمد
+- `thk-jcawley` — جوليا كاولي — 🕓 مسودة
 - `thk-jcgibbs` — جون سي. غيبز — ✅ معتمد
 - `thk-jchales` — جون تشارلز — ✅ معتمد
 - `thk-jchamberlin` — جودي تشامبرلين — ✅ معتمد
@@ -816,12 +822,13 @@
 - `thk-jdifede` — جوان ديفيد — ✅ معتمد
 - `thk-jdollard` — جون دولارد — ✅ معتمد
 - `thk-jeberenz` — وولتر جِيمس أَولِس — ✅ معتمد
+- `thk-jeffrey-rediger` — جيفري ريديجر — 🕓 مسودة
 - `thk-jeffrey-zeig` — جيفري زايغ — ✅ معتمد
-- `thk-jenna-brown` — جينا براون — ✅ معتمد
-- `thk-jennifer-cheavens` — جينيفر تشيڤنز — ✅ معتمد
-- `thk-jennifer-olding` — جينيفر أولدنغ — ✅ معتمد
-- `thk-jenniferschwab` — جينيفر شواب — ✅ معتمد
-- `thk-jenny-christensen` — جيني كريستنسن — ✅ معتمد
+- `thk-jenna-brown` — جينا براون — 🕓 مسودة
+- `thk-jennifer-cheavens` — جينيفر تشيڤنز — 🕓 مسودة
+- `thk-jennifer-olding` — جينيفر أولدنغ — 🕓 مسودة
+- `thk-jenniferschwab` — جينيفر شواب — 🕓 مسودة
+- `thk-jenny-christensen` — جيني كريستنسن — 🕓 مسودة
 - `thk-jferrer` — خورخي فيرير — ✅ معتمد
 - `thk-jflax` — جين فلاكس — ✅ معتمد
 - `thk-jfox` — جون فوكس — ✅ معتمد
@@ -833,7 +840,7 @@
 - `thk-jgoodman` — نلسون غودمان — ✅ معتمد
 - `thk-jgottman` — جون غوتمان — ✅ معتمد
 - `thk-jgottman-sr` — جوليا غوتمان — ✅ معتمد
-- `thk-jgould` — جيمس ليبشيتز — ✅ معتمد
+- `thk-jgould` — جيمس ليبشيتز — 🕓 مسودة
 - `thk-jgreenberg` — جاي ر. غرينبرغ — ✅ معتمد
 - `thk-jgreenspan` — جايك غرينسبان — ✅ معتمد
 - `thk-jgrind` — جون غريندر — ✅ معتمد
@@ -844,13 +851,13 @@
 - `thk-jherman` — جوديث هِرمان — ✅ معتمد
 - `thk-jhollis` — جيمس هولّيس — ✅ معتمد
 - `thk-jhouston` — جين هيوستن — ✅ معتمد
-- `thk-jim-ackerman` — جيم أكرمان — ✅ معتمد
-- `thk-jim-loehr` — جيم لور — ✅ معتمد
+- `thk-jim-ackerman` — جيم أكرمان — 🕓 مسودة
+- `thk-jim-loehr` — جيم لور — 🕓 مسودة
 - `thk-jingqiyong` — يانغ ديشن — ✅ معتمد
 - `thk-jjacobi` — يولاندا ياكوبي — ✅ معتمد
-- `thk-jjoyce` — مارغريت بِي — ✅ معتمد
+- `thk-jjoyce` — مارغريت بِي — 🕓 مسودة
 - `thk-jkabat-zinn` — جون كابات-زين — ✅ معتمد
-- `thk-jkadden` — كاثلين كاري — ✅ معتمد
+- `thk-jkadden` — كاثلين كاري — 🕓 مسودة
 - `thk-jkagan` — جيروم كاغان — ✅ معتمد
 - `thk-jkamiya` — جو كاميا — ✅ معتمد
 - `thk-jkihnstrom` — جون كينستروم — ✅ معتمد
@@ -860,39 +867,40 @@
 - `thk-jlchner` — جاك ليتشنر — ✅ معتمد
 - `thk-jledoux` — جوزيف لودوكس — ✅ معتمد
 - `thk-jlilly` — جون لِلي — ✅ معتمد
-- `thk-jlubar` — جويل لوبار — ✅ معتمد
+- `thk-jlubar` — جويل لوبار — 🕓 مسودة
 - `thk-jluborsky` — جوزيف لوبورسكي — ✅ معتمد
-- `thk-jlueger` — جون لوغر — ✅ معتمد
+- `thk-jlueger` — جون لوغر — 🕓 مسودة
 - `thk-jmacy` — جوانا مايسي — ✅ معتمد
 - `thk-jmarkowitz` — جيمس ماركويتز — ✅ معتمد
 - `thk-jmcdougall` — جويس ماك دوغال — ✅ معتمد
 - `thk-jmcdowell` — جون ماكدوويل — ✅ معتمد
 - `thk-jmertz` — [مؤسِّسو أعمدة Rivista di Psicologia Analitica] — ✅ معتمد
-- `thk-jmitchell` — جوليا ميتشِل — ✅ معتمد
+- `thk-jmitchell` — جوليا ميتشِل — 🕓 مسودة
 - `thk-jmonahan` — جون موناهان — ✅ معتمد
 - `thk-jmoreno` — جاكوب مورينو — ✅ معتمد
 - `thk-jmunderross` — جون ماندر روس — ✅ معتمد
 - `thk-jnakamura` — [مؤسِّسو Sandplay Therapy Japan / JST] - Japanese Sandplay second generation — ✅ معتمد
 - `thk-jnicolosi` — جوزيف نيكولوسي — ✅ معتمد
 - `thk-jnorcross` — جون نوركروس — ✅ معتمد
+- `thk-johann-hari` — يوهان هاري — 🕓 مسودة
 - `thk-john-bradshaw` — جون برادشو — ✅ معتمد
 - `thk-john-braithwaite` — جون برايثوايت — ✅ معتمد
 - `thk-john-cacioppo` — جون كاسيوبو — ✅ معتمد
 - `thk-john-damascene` — يوحنا الدمشقي — ✅ معتمد
-- `thk-john-friedman` — جون فريدمان — ✅ معتمد
+- `thk-john-friedman` — جون فريدمان — 🕓 مسودة
 - `thk-john-gray` — جون غراي — ✅ معتمد
-- `thk-john-lippmann` — جون ليبمان — ✅ معتمد
+- `thk-john-lippmann` — جون ليبمان — 🕓 مسودة
 - `thk-johnmcintosh` — جون ماكنتوش — ✅ معتمد
 - `thk-johnshlien` — جون شلين — ✅ معتمد
 - `thk-jonahlewis` — جونا ليرر — ✅ معتمد
 - `thk-jonas` — هانز يوناس — ✅ معتمد
 - `thk-jonathan-haidt` — جوناثان هايدت — ✅ معتمد
-- `thk-jonathanbaylin` — جوناثان بايلن — ✅ معتمد
+- `thk-jonathanbaylin` — جوناثان بايلن — 🕓 مسودة
 - `thk-jones` — إرنست جونز — ✅ معتمد
 - `thk-jordan` — جوديث جوردان — ✅ معتمد
 - `thk-jordan-peterson` — جوردان بيترسون — ✅ معتمد
-- `thk-jose-arsenio` — خوسيه أرسينيو — ✅ معتمد
-- `thk-jose-salgado` — خوسيه سالغادو — ✅ معتمد
+- `thk-jose-arsenio` — خوسيه أرسينيو — 🕓 مسودة
+- `thk-jose-salgado` — خوسيه سالغادو — 🕓 مسودة
 - `thk-joseph-barber` — جوزيف باربر — ✅ معتمد
 - `thk-joseph-murphy` — جوزيف ميرفي — ✅ معتمد
 - `thk-josephtrimble` — جوزيف ترايمبل — ✅ معتمد
@@ -903,8 +911,8 @@
 - `thk-jpotter` — جوناثان بوتر — ✅ معتمد
 - `thk-jramiro` — جي رامييرو — ✅ معتمد
 - `thk-jrathus` — جيل راثوس — ✅ معتمد
-- `thk-jrivett` — جوردان ريد — ✅ معتمد
-- `thk-jroddy` — ج. لوك ويلز — ✅ معتمد
+- `thk-jrivett` — جوردان ريد — 🕓 مسودة
+- `thk-jroddy` — ج. لوك ويلز — 🕓 مسودة
 - `thk-jrosenberg` — جاك لي روزنبرغ — ✅ معتمد
 - `thk-jrotter` — جوليان ب. روتّر — ✅ معتمد
 - `thk-jrubin` — جيفري روبين — ✅ معتمد
@@ -915,13 +923,14 @@
 - `thk-jseikkula` — ياكو سيكولا — ✅ معتمد
 - `thk-jshotter` — جون شوتر — ✅ معتمد
 - `thk-jsimmermacher` — جيم سيميرماتشر — ✅ معتمد
-- `thk-jspence` — جو سبنس — ✅ معتمد
+- `thk-jspence` — جو سبنس — 🕓 مسودة
 - `thk-jsteiner` — جون شتاينر — ✅ معتمد
 - `thk-jteasdale` — جون تيزديل — ✅ معتمد
 - `thk-jtolman` — جينيفر تولمان — ✅ معتمد
 - `thk-judah-halevi` — يهوذا اللاوي (أبو الحسن) — ✅ معتمد
 - `thk-judson-brewer` — جودسون بروير — ✅ معتمد
-- `thk-julierawlins` — جولي رولينز — ✅ معتمد
+- `thk-julie-smith` — جولي سميث — 🕓 مسودة
+- `thk-julierawlins` — جولي رولينز — 🕓 مسودة
 - `thk-jung` — كارل غوستاف يونغ — ✅ معتمد
 - `thk-jwatson` — جون ب. واتسون — ✅ معتمد
 - `thk-jweakland` — جون وِكلاند — ✅ معتمد
@@ -933,7 +942,7 @@
 - `thk-jwolpe` — جوزف وُلبّي — ✅ معتمد
 - `thk-jwpark` — جي-وو بارك — ✅ معتمد
 - `thk-jzinker` — جوزيف زِنكِر — ✅ معتمد
-- `thk-kaarlokeranen` — كارلو كيرانن — ✅ معتمد
+- `thk-kaarlokeranen` — كارلو كيرانن — 🕓 مسودة
 - `thk-kafka` — فرانز كافكا — ✅ معتمد
 - `thk-kahneman` — دانيال كانمان — ✅ معتمد
 - `thk-kalff` — دورا كالف — ✅ معتمد
@@ -945,23 +954,23 @@
 - `thk-kast` — فيرينا كاست — ✅ معتمد
 - `thk-kastenbaum` — روبرت كاستنباوم — ✅ معتمد
 - `thk-kastrinidis` — بيريكليس كاسترينيديس — ✅ معتمد
-- `thk-kathylaurenceau` — كاثي لورنسو — ✅ معتمد
-- `thk-katie-rae` — كايتي ري — ✅ معتمد
-- `thk-katka-rubin` — كاتكا روبين — ✅ معتمد
+- `thk-kathylaurenceau` — كاثي لورنسو — 🕓 مسودة
+- `thk-katie-rae` — كايتي ري — 🕓 مسودة
+- `thk-katka-rubin` — كاتكا روبين — 🕓 مسودة
 - `thk-kaufmann` — والتر كوفمان — ✅ معتمد
 - `thk-kbradway` — كاي برادواي — ✅ معتمد
 - `thk-kcolby` — كينيث كولبي — ✅ معتمد
 - `thk-kcooper` — كينيث كوبر — ✅ معتمد
 - `thk-kcrenshaw` — كيمبرلي كرينشو — ✅ معتمد
 - `thk-keen` — إرنست كين — ✅ معتمد
-- `thk-keiko-hoshino` — كيكو هوشينو — ✅ معتمد
+- `thk-keiko-hoshino` — كيكو هوشينو — 🕓 مسودة
 - `thk-kelley` — تشارلز كيلي — ✅ معتمد
-- `thk-kelleycolleen` — كولين كيلي — ✅ معتمد
+- `thk-kelleycolleen` — كولين كيلي — 🕓 مسودة
 - `thk-kelly-george` — جورج ألكسندر كيلي — ✅ معتمد
 - `thk-ken-blanchard` — كين بلانشارد — ✅ معتمد
 - `thk-kernberg` — أوتو كيرنبرغ — ✅ معتمد
 - `thk-kets` — مَنفرِد كِتس دي فريس — ✅ معتمد
-- `thk-kevin-sparger` — كيفن سپارجر — ✅ معتمد
+- `thk-kevin-sparger` — كيفن سپارجر — 🕓 مسودة
 - `thk-kfeeney` — كيم فيني — ✅ معتمد
 - `thk-kfrank` — كينيث فرانك — ✅ معتمد
 - `thk-kgergen` — كينيث جيرغن — ✅ معتمد
@@ -972,7 +981,7 @@
 - `thk-kholzkamp` — كلاوس هولتسكامب — ✅ معتمد
 - `thk-khorney` — كارين هُورْني — ✅ معتمد
 - `thk-kierkegaard` — سورين كيركيغارد — ✅ معتمد
-- `thk-kimkwansung` — كيم كوان-سونغ — ✅ معتمد
+- `thk-kimkwansung` — كيم كوان-سونغ — 🕓 مسودة
 - `thk-kimmerer` — روبن وال كيميرير — ✅ معتمد
 - `thk-kimura` — بين كيمورا — ✅ معتمد
 - `thk-king` — بيرل كينغ — ✅ معتمد
@@ -985,7 +994,7 @@
 - `thk-klew` — كورت لوين — ✅ معتمد
 - `thk-klima` — لاديسلاف كليما — ✅ معتمد
 - `thk-kmaclean` — كاثرين ماكْلِين — ✅ معتمد
-- `thk-kmithoefer` — آن ميثوفر — ✅ معتمد
+- `thk-kmithoefer` — آن ميثوفر — 🕓 مسودة
 - `thk-kmorita` — ماساتاكي موريتا — ✅ معتمد
 - `thk-kmurah` — [مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA] — ✅ معتمد
 - `thk-knakamura` — كويتشي ناكامورا — ✅ معتمد
@@ -999,13 +1008,13 @@
 - `thk-kraus` — ألفريد كراوس — ✅ معتمد
 - `thk-krigby` — كن رِجباي — ✅ معتمد
 - `thk-krippner` — ستانلي كريبنر — ✅ معتمد
-- `thk-krischer` — باري كريشر — ✅ معتمد
+- `thk-krischer` — باري كريشر — 🕓 مسودة
 - `thk-krishnamurti` — جيدو كريشنامورتي — ✅ معتمد
 - `thk-kristeva` — جوليا كريستيفا — ✅ معتمد
 - `thk-kristin-buss` — كريستين بَس — ✅ معتمد
 - `thk-kristin-neff` — كريستين نيف — ✅ معتمد
 - `thk-krug` — أورا كروغ — ✅ معتمد
-- `thk-kruger-marielle` — مارييل كروغر — ✅ معتمد
+- `thk-kruger-marielle` — مارييل كروغر — 🕓 مسودة
 - `thk-kspence` — ك. و. سبنس — ✅ معتمد
 - `thk-kstinshoff` — كلاوس شتينشوف — ✅ معتمد
 - `thk-kubler-ross` — إليزابيث كوبلر-روس — ✅ معتمد
@@ -1013,7 +1022,7 @@
 - `thk-kunkel` — فريتز كونكل — ✅ معتمد
 - `thk-kunzli` — فريتز كونزلي — ✅ معتمد
 - `thk-kurbatov` — فالنتين كورباتوف — ✅ معتمد
-- `thk-kurtz-sherman` — شيرمان كيرتز — ✅ معتمد
+- `thk-kurtz-sherman` — شيرمان كيرتز — 🕓 مسودة
 - `thk-kwilber` — كين ويلبر — ✅ معتمد
 - `thk-kwitkiewitz` — كايتي ويتكيفيتش — ✅ معتمد
 - `thk-lacan` — جاك لاكان — ✅ معتمد
@@ -1028,9 +1037,9 @@
 - `thk-laozi` — لاو تزو (لاو دان) — ✅ معتمد
 - `thk-laplanche` — جان لابلانش — ✅ معتمد
 - `thk-laron` — لويس آرون — ✅ معتمد
-- `thk-larrynims` — لاري نيمز — ✅ معتمد
-- `thk-lars-johansson` — لارس يوهانسون — ✅ معتمد
-- `thk-lavinia-shaw` — لاڤينيا شو — ✅ معتمد
+- `thk-larrynims` — لاري نيمز — 🕓 مسودة
+- `thk-lars-johansson` — لارس يوهانسون — 🕓 مسودة
+- `thk-lavinia-shaw` — لاڤينيا شو — 🕓 مسودة
 - `thk-lazarsfeld` — صوفي لازارسفيلد — ✅ معتمد
 - `thk-lazarus` — أرنولد لازاروس — ✅ معتمد
 - `thk-lbarrett` — لورا بارِت — ✅ معتمد
@@ -1053,9 +1062,9 @@
 - `thk-levinas` — إيمانويل ليفيناس — ✅ معتمد
 - `thk-lfestinger` — ليون فِستِنغر — ✅ معتمد
 - `thk-lfinlay` — ليندا فينلاي — ✅ معتمد
-- `thk-lfish` — لورانس فيشباين — ✅ معتمد
+- `thk-lfish` — لورانس فيشباين — 🕓 مسودة
 - `thk-lhatch` — ليندا هاتش — ✅ معتمد
-- `thk-lhecker` — لويس هِكَر — ✅ معتمد
+- `thk-lhecker` — لويس هِكَر — 🕓 مسودة
 - `thk-lhoffman` — لين هوفمان — ✅ معتمد
 - `thk-lholzman` — لويز هولزمان — ✅ معتمد
 - `thk-lhubbard` — ل. رون هوبارد — ✅ معتمد
@@ -1069,7 +1078,7 @@
 - `thk-lkuhn` — ليندا كون — ✅ معتمد
 - `thk-llosi` — لوكا لوزي — ✅ معتمد
 - `thk-lluborsky` — ليستر لوبورسكي — ✅ معتمد
-- `thk-lmazza` — نيكولاس مازا — ✅ معتمد
+- `thk-lmazza` — نيكولاس مازا — 🕓 مسودة
 - `thk-lmiller` — لوسي جين ميلر — ✅ معتمد
 - `thk-lmorrnah` — إبراهام كاوانيوآ — ✅ معتمد
 - `thk-lmunro` — لويز مونرو — ✅ معتمد
@@ -1089,8 +1098,8 @@
 - `thk-lowinsky` — ناعومي روث لوينسكي — ✅ معتمد
 - `thk-lowith` — كارل لوفيت — ✅ معتمد
 - `thk-lperls` — لورا بيرلز — ✅ معتمد
-- `thk-lrosenzweig` — لانا روزنغر — ✅ معتمد
-- `thk-lroszak` — ثيرون روزاك — ✅ معتمد
+- `thk-lrosenzweig` — لانا روزنغر — 🕓 مسودة
+- `thk-lroszak` — ثيرون روزاك — 🕓 مسودة
 - `thk-lschultz` — لويس شولتز — ✅ معتمد
 - `thk-lstaples` — لورنس ستاپلز — ✅ معتمد
 - `thk-lu-jiuyuan` — لو جيو يوان — ✅ معتمد
@@ -1102,13 +1111,13 @@
 - `thk-lwittgenstein` — لودفيغ فيتغنشتاين — ✅ معتمد
 - `thk-lwynne` — ليمن وين — ✅ معتمد
 - `thk-m-amatos` — ماريّا أميليا ماتوس — ✅ معتمد
-- `thk-ma-rosario-alfelor` — ماريا روساريو ألفيلور — ✅ معتمد
+- `thk-ma-rosario-alfelor` — ماريا روساريو ألفيلور — 🕓 مسودة
 - `thk-machado` — أنطونيو ماتشادو — ✅ معتمد
 - `thk-macintyre` — ألاسدير ماكنتاير — ✅ معتمد
 - `thk-mackinnon` — كاثرين ماك كينون — ✅ معتمد
 - `thk-macquarrie` — جون ماكواري — ✅ معتمد
 - `thk-maddis` — مايكل إي. آديس — ✅ معتمد
-- `thk-madeleine-sandberg` — مادلين ساندبرغ — ✅ معتمد
+- `thk-madeleine-sandberg` — مادلين ساندبرغ — 🕓 مسودة
 - `thk-madelung` — إيفا مادلينغ — ✅ معتمد
 - `thk-madhva` — مادهافا (دفايتا فيدانتا) — ✅ معتمد
 - `thk-madinier` — غابرييل مادينييه — ✅ معتمد
@@ -1125,34 +1134,35 @@
 - `thk-mannoni` — أوكتاف مانوني — ✅ معتمد
 - `thk-mao-zedong` — ماو تسي تونغ — ✅ معتمد
 - `thk-marcel` — غابرييل مارسِل — ✅ معتمد
-- `thk-marciamarx` — مارسيا ماركس — ✅ معتمد
+- `thk-marciamarx` — مارسيا ماركس — 🕓 مسودة
 - `thk-marcuse` — هربرت ماركوزه — ✅ معتمد
-- `thk-margaret-bluestein` — مارغريت بلوستين — ✅ معتمد
-- `thk-margaretbodkin` — مارغريت بودكن — ✅ معتمد
-- `thk-marian-krcmar` — ماريان كركمار — ✅ معتمد
-- `thk-marianne-strom` — ماريان ستروم — ✅ معتمد
-- `thk-mariannekline` — ماريان كلاين — ✅ معتمد
+- `thk-margaret-bluestein` — مارغريت بلوستين — 🕓 مسودة
+- `thk-margaretbodkin` — مارغريت بودكن — 🕓 مسودة
+- `thk-marian-krcmar` — ماريان كركمار — 🕓 مسودة
+- `thk-marianne-strom` — ماريان ستروم — 🕓 مسودة
+- `thk-mariannekline` — ماريان كلاين — 🕓 مسودة
 - `thk-mariellekruger` — ماري كروغر — ✅ معتمد
-- `thk-marisaberkouwer` — ماريسا بيركوور — ✅ معتمد
+- `thk-marisaberkouwer` — ماريسا بيركوور — 🕓 مسودة
 - `thk-mark-manson` — مارك مانسون — ✅ معتمد
-- `thk-mark-santross` — مارك سانتروس — ✅ معتمد
-- `thk-markrees` — مارك ريس — ✅ معتمد
-- `thk-markwelch` — مارك ويلش — ✅ معتمد
+- `thk-mark-santross` — مارك سانتروس — 🕓 مسودة
+- `thk-markrees` — مارك ريس — 🕓 مسودة
+- `thk-markwelch` — مارك ويلش — 🕓 مسودة
 - `thk-marlan` — ستانتون مارلان — ✅ معتمد
 - `thk-marodriguez` — ميغيل أنخيل رودريغيث — ✅ معتمد
-- `thk-marshall` — ويليام مارشال — ✅ معتمد
+- `thk-marshall` — ويليام مارشال — 🕓 مسودة
 - `thk-marshall-rosenberg` — مارشال روزنبرغ — ✅ معتمد
 - `thk-marx` — كارل ماركس — ✅ معتمد
-- `thk-mary-elmquist` — ماري إلمكويست — ✅ معتمد
-- `thk-mary-guthrie` — ماري غوثري — ✅ معتمد
-- `thk-mary-stewart` — ماري ستيوارت — ✅ معتمد
+- `thk-mary-elmquist` — ماري إلمكويست — 🕓 مسودة
+- `thk-mary-guthrie` — ماري غوثري — 🕓 مسودة
+- `thk-mary-stewart` — ماري ستيوارت — 🕓 مسودة
 - `thk-mary-whitehouse` — ماري وايتهاوس — ✅ معتمد
-- `thk-maryolson` — ماري أولسون — ✅ معتمد
-- `thk-masaaki-takahashi` — ماساكي تاكاهاشي — ✅ معتمد
+- `thk-maryolson` — ماري أولسون — 🕓 مسودة
+- `thk-masaaki-takahashi` — ماساكي تاكاهاشي — 🕓 مسودة
 - `thk-maslow` — أبراهام ماسلو — ✅ معتمد
 - `thk-masondurie` — ماسون دوري — ✅ معتمد
 - `thk-masson-oursel` — بول-لويس ماسون-أورسيل — ✅ معتمد
 - `thk-mathew` — مايكل ماثيوز — ✅ معتمد
+- `thk-matt-haig` — مات هيغ — 🕓 مسودة
 - `thk-matthew-walker` — ماثيو ووكر — ✅ معتمد
 - `thk-maturidi` — أبو منصور محمد بن محمد الماتريدي — ✅ معتمد
 - `thk-maximus-confessor` — مكسيموس المعترف — ✅ معتمد
@@ -1169,22 +1179,22 @@
 - `thk-mbowen` — موراي بوين — ✅ معتمد
 - `thk-mbuber` — مارتن بُبَر — ✅ معتمد
 - `thk-mc-jones` — ماري كوفر جونز — ✅ معتمد
-- `thk-mccullough` — جيمس ب. ماكولوغ الابن — ✅ معتمد
-- `thk-mchace` — ماريان تشيس — ✅ معتمد
+- `thk-mccullough` — جيمس ب. ماكولوغ الابن — 🕓 مسودة
+- `thk-mchace` — ماريان تشيس — 🕓 مسودة
 - `thk-mchen` — مارفن تشِن — ✅ معتمد
 - `thk-mcierpka` — مانفريد شيربكا — ✅ معتمد
-- `thk-mcieslak` — ماريك تشيسلاك — ✅ معتمد
+- `thk-mcieslak` — ماريك تشيسلاك — 🕓 مسودة
 - `thk-mclayton` — ماكس كلايتون — ✅ معتمد
 - `thk-mcopeland` — ماري إيلين كوبلاند — ✅ معتمد
 - `thk-mcsikszent` — ميهاي سيكسنتميهالي — ✅ معتمد
 - `thk-meckberg` — ماريانا إيكبيرغ — ✅ معتمد
 - `thk-meharding` — ماري إستر هاردينغ — ✅ معتمد
-- `thk-meichenbaum` — دونالد ميشينباوم — ✅ معتمد
+- `thk-meichenbaum` — دونالد ميشينباوم — 🕓 مسودة
 - `thk-meister-eckhart` — مايستر إيكهارت — ✅ معتمد
 - `thk-meitingon` — ماكس إيتِنغون — ✅ معتمد
 - `thk-mel-robbins` — ميل روبنز — ✅ معتمد
-- `thk-melanie-segall` — ميلاني سيغال — ✅ معتمد
-- `thk-melissaschaefer` — ميليسا شيفر — ✅ معتمد
+- `thk-melanie-segall` — ميلاني سيغال — 🕓 مسودة
+- `thk-melissaschaefer` — ميليسا شيفر — 🕓 مسودة
 - `thk-meltzer` — دونالد ميلتزر — ✅ معتمد
 - `thk-mencius` — منسيوس (منغ زي) — ✅ معتمد
 - `thk-mendelowitz` — روبرت مينديلويتز — ✅ معتمد
@@ -1207,25 +1217,25 @@
 - `thk-mhorwitz` — ماريانو هورفيتس — ✅ معتمد
 - `thk-mhosokawa` — ميتشيو هوسوكاوا — ✅ معتمد
 - `thk-mhoyt` — مايكل ف. هويت — ✅ معتمد
-- `thk-michael-derm` — مايكل ديرمر — ✅ معتمد
+- `thk-michael-derm` — مايكل ديرمر — 🕓 مسودة
 - `thk-michael-eigen` — مايكل إيغن — ✅ معتمد
-- `thk-michael-guthrie` — مايكل غوثري — ✅ معتمد
-- `thk-michael-yapko-jr` — دانيال بيت — ✅ معتمد
-- `thk-michael-yarp` — مايكل يارب — ✅ معتمد
-- `thk-michaelsweeting` — مايكل سويتنغ — ✅ معتمد
-- `thk-michio-mizuno` — ميتشيو ميزونو — ✅ معتمد
+- `thk-michael-guthrie` — مايكل غوثري — 🕓 مسودة
+- `thk-michael-yapko-jr` — دانيال بيت — 🕓 مسودة
+- `thk-michael-yarp` — مايكل يارب — 🕓 مسودة
+- `thk-michaelsweeting` — مايكل سويتنغ — 🕓 مسودة
+- `thk-michio-mizuno` — ميتشيو ميزونو — 🕓 مسودة
 - `thk-mignolo` — والتر مينيولو — ✅ معتمد
 - `thk-miguel-ruiz` — دون ميغيل رويز — ✅ معتمد
 - `thk-mill` — جون ستيوارت ميل — ✅ معتمد
 - `thk-mimordino-yang` — ماري هيلين إيموردينو-يانغ — ✅ معتمد
-- `thk-mingshengli` — لي مينغ شنغ — ✅ معتمد
+- `thk-mingshengli` — لي مينغ شنغ — 🕓 مسودة
 - `thk-minkowski` — أوجين مينكوفسكي — ✅ معتمد
-- `thk-minopaulin` — مينو بولين — ✅ معتمد
+- `thk-minopaulin` — مينو بولين — 🕓 مسودة
 - `thk-minsungkil` — مين سونغ-كيل — ✅ معتمد
 - `thk-mir-damad` — ميرداماد (محمد باقر الأسترآبادي) — ✅ معتمد
 - `thk-mitch-albom` — ميتش ألبوم — ✅ معتمد
 - `thk-mitchell` — ستيفن ميتشل — ✅ معتمد
-- `thk-mithoefer` — مايكل ميثوفر — ✅ معتمد
+- `thk-mithoefer` — مايكل ميثوفر — 🕓 مسودة
 - `thk-mjohnson` — ماثيو جونسون — ✅ معتمد
 - `thk-mjones` — ماكسويل جونز — ✅ معتمد
 - `thk-mkern` — مارك كيرن — ✅ معتمد
@@ -1256,7 +1266,7 @@
 - `thk-mojastrasser` — لوتشيا مويا-شتراسر — ✅ معتمد
 - `thk-montesquieu` — مونتسكيو — ✅ معتمد
 - `thk-moreno` — يعقوب ليفي مورينو — ✅ معتمد
-- `thk-morin` — تشارلز م. مورين — ✅ معتمد
+- `thk-morin` — تشارلز م. مورين — 🕓 مسودة
 - `thk-morne` — مارتن أورن — ✅ معتمد
 - `thk-moss` — دونالد موس — ✅ معتمد
 - `thk-mou-zongsan` — مو تسونغ سان — ✅ معتمد
@@ -1265,7 +1275,7 @@
 - `thk-mozi` — مو زي (مو دي) — ✅ معتمد
 - `thk-mparlett` — مالكولم بارلِت — ✅ معتمد
 - `thk-mpbargreen` — ماري بيندر غرين — ✅ معتمد
-- `thk-mperelman` — مارشال بِرِلمان — ✅ معتمد
+- `thk-mperelman` — مارشال بِرِلمان — 🕓 مسودة
 - `thk-mpolster` — مرييام بولستر — ✅ معتمد
 - `thk-mramose` — مويبِنغ ديزموند ماغوناو رَموسي — ✅ معتمد
 - `thk-mrand` — مارجوري راند — ✅ معتمد
@@ -1286,7 +1296,7 @@
 - `thk-mtrevi` — ماريو تريفي — ✅ معتمد
 - `thk-mtsai` — مافيس تساي — ✅ معتمد
 - `thk-mtselvini` — ماتيو سيلفيني — ✅ معتمد
-- `thk-mtutufurth` — مافو توتو فان فورث — ✅ معتمد
+- `thk-mtutufurth` — مافو توتو فان فورث — 🕓 مسودة
 - `thk-muhammad-abduh` — محمد عبده (الإمام) — ✅ معتمد
 - `thk-mulla-sadra` — ملا صدرا الشيرازي (صدر الدين الشيرازي) — ✅ معتمد
 - `thk-murphy` — غاردنر ميرفي — ✅ معتمد
@@ -1295,7 +1305,7 @@
 - `thk-mvannoy` — مايكل فونوي آدامز — ✅ معتمد
 - `thk-mviederman` — ميلتون فيدرمان — ✅ معتمد
 - `thk-mvilanova` — مِرْسيدس فيلانوفا — ✅ معتمد
-- `thk-mwagreich` — موريس هـ. فيغوتش — ✅ معتمد
+- `thk-mwagreich` — موريس هـ. فيغوتش — 🕓 مسودة
 - `thk-mweissman` — ميري وايسمان — ✅ معتمد
 - `thk-mwertheimer` — ماكس فيرتهايمر — ✅ معتمد
 - `thk-mwetherell` — مارغريت ويذَرِيل — ✅ معتمد
@@ -1311,7 +1321,7 @@
 - `thk-nagarjuna` — ناغارجونا (مؤسس مادهياماكا) — ✅ معتمد
 - `thk-nagel` — توماس ناغل — ✅ معتمد
 - `thk-nanak` — غورو ناناك (مؤسس السيخية) — ✅ معتمد
-- `thk-nancy-harness` — نانسي هارنِس — ✅ معتمد
+- `thk-nancy-harness` — نانسي هارنِس — 🕓 مسودة
 - `thk-napoleon-hill` — نابليون هيل — ✅ معتمد
 - `thk-nasir-khusraw` — ناصر خسرو قباديانى — ✅ معتمد
 - `thk-nasir-tusi` — نصير الدين الطوسي (الخواجة نصير) — ✅ معتمد
@@ -1328,7 +1338,7 @@
 - `thk-nepstein` — نِكولاس إبستين — ✅ معتمد
 - `thk-neumann` — إريك نيومان — ✅ معتمد
 - `thk-ngoldberg` — ناتالي غولدبرغ — ✅ معتمد
-- `thk-nicotole` — نيكول تول — ✅ معتمد
+- `thk-nicotole` — نيكول تول — 🕓 مسودة
 - `thk-nietzsche` — فريدريش نيتشه — ✅ معتمد
 - `thk-nionescu` — ناي يونسكو — ✅ معتمد
 - `thk-niosepa` — نانا إيوسيبا — ✅ معتمد
@@ -1341,7 +1351,7 @@
 - `thk-nlehrman` — ناثانئيل لِرمان — ✅ معتمد
 - `thk-nmanganyi` — نْيلسون مَغَنْي — ✅ معتمد
 - `thk-norman-vincent-peale` — نورمان فنسنت بيل — ✅ معتمد
-- `thk-novaco` — ريموند و. نوفاكو — ✅ معتمد
+- `thk-novaco` — ريموند و. نوفاكو — 🕓 مسودة
 - `thk-nozick` — روبرت نوزيك — ✅ معتمد
 - `thk-npeseschkian` — نصرت بيسشكيان — ✅ معتمد
 - `thk-npetry` — نانسي م. بيتري — ✅ معتمد
@@ -1356,6 +1366,7 @@
 - `thk-oliver-burkeman` — أوليفر بوركمان — ✅ معتمد
 - `thk-oliver-sacks` — أوليفر ساكس — ✅ معتمد
 - `thk-opfister` — أوسكار بفِسْتَر — ✅ معتمد
+- `thk-oprah-winfrey` — أوبرا وينفري — 🕓 مسودة
 - `thk-ormijares` — أوسكار رودريغيث ميجاريس — ✅ معتمد
 - `thk-ornstein` — بول ه. أورنشتاين — ✅ معتمد
 - `thk-orsigen` — أوريجانوس — ✅ معتمد
@@ -1366,7 +1377,7 @@
 - `thk-paci` — إنزو باتشي — ✅ معتمد
 - `thk-pakman` — مارسيلو باكمان — ✅ معتمد
 - `thk-panksepp` — جاك بانكسيب — ✅ معتمد
-- `thk-papaarangireid` — بابارانغي ريد — ✅ معتمد
+- `thk-papaarangireid` — بابارانغي ريد — 🕓 مسودة
 - `thk-pappelbaum` — بول أبلباوم — ✅ معتمد
 - `thk-pareyson` — لويجي باريزون — ✅ معتمد
 - `thk-park` — كريستال بارك — ✅ معتمد
@@ -1376,11 +1387,11 @@
 - `thk-patdeegan` — بات ديغان — ✅ معتمد
 - `thk-pateman` — كارول بيتمان — ✅ معتمد
 - `thk-patocka` — يان باتوتشكا — ✅ معتمد
-- `thk-patrice-de-marco` — باتريس دي ماركو — ✅ معتمد
+- `thk-patrice-de-marco` — باتريس دي ماركو — 🕓 مسودة
 - `thk-paul-ekman` — بول إيكمان — ✅ معتمد
-- `thk-paul-thorne` — بول ثورن — ✅ معتمد
+- `thk-paul-thorne` — بول ثورن — 🕓 مسودة
 - `thk-paulgthomas` — بول جي. توماس — ✅ معتمد
-- `thk-paulholmes` — بول هولمز — ✅ معتمد
+- `thk-paulholmes` — بول هولمز — 🕓 مسودة
 - `thk-paz` — أوكتافيو باث — ✅ معتمد
 - `thk-pbenacerraf` — بول بناسراف — ✅ معتمد
 - `thk-pberry` — باتريشيا بيري — ✅ معتمد
@@ -1389,14 +1400,14 @@
 - `thk-pcarducci` — باولا كاردوتشي — ✅ معتمد
 - `thk-pchodron` — بيما تشُدرُن — ✅ معتمد
 - `thk-pdeegan` — باتريشا ديجان — ✅ معتمد
-- `thk-peg-pender` — بيغ پيندر — ✅ معتمد
+- `thk-peg-pender` — بيغ پيندر — 🕓 مسودة
 - `thk-peirce` — تشارلز ساندرز بيرس — ✅ معتمد
-- `thk-pekkajokinen` — بيكا يوكينن — ✅ معتمد
-- `thk-penelopeeast` — بينيلوبي إيست — ✅ معتمد
+- `thk-pekkajokinen` — بيكا يوكينن — 🕓 مسودة
+- `thk-penelopeeast` — بينيلوبي إيست — 🕓 مسودة
 - `thk-penny-lewis` — بيني لويس — ✅ معتمد
 - `thk-peperzak` — أدريان بيبرزاك — ✅ معتمد
-- `thk-peta-stapleton` — بيتا ستاپلتون — ✅ معتمد
-- `thk-peter-clough` — بيتر كلاف — ✅ معتمد
+- `thk-peta-stapleton` — بيتا ستاپلتون — 🕓 مسودة
+- `thk-peter-clough` — بيتر كلاف — 🕓 مسودة
 - `thk-peter-levine` — بيتر ليفين — ✅ معتمد
 - `thk-peter-singer` — بيتر سينغر — ✅ معتمد
 - `thk-peterkellermann` — بيتر كيلرمان — ✅ معتمد
@@ -1415,12 +1426,13 @@
 - `thk-phackney` — بي. كيت هَكْني — ✅ معتمد
 - `thk-phcollins` — باتريشا هيل كولينز — ✅ معتمد
 - `thk-philip-zimbardo` — فيليب زيمباردو — ✅ معتمد
-- `thk-philippe-cunningham` — فيليب كَننغهام — ✅ معتمد
+- `thk-philippe-cunningham` — فيليب كَننغهام — 🕓 مسودة
 - `thk-philo` — فيلو الإسكندري (فيلون) — ✅ معتمد
 - `thk-philo-alexandria` — فيلون الإسكندري — ✅ معتمد
+- `thk-piaget` — جان بياجيه — 🕓 مسودة
 - `thk-pico` — جيوفاني بيكو della ميراندولا — ✅ معتمد
 - `thk-pierrakos` — جون س. بيراكوس — ✅ معتمد
-- `thk-pipitea` — مايكل بيبيتي — ✅ معتمد
+- `thk-pipitea` — مايكل بيبيتي — 🕓 مسودة
 - `thk-pknill` — باولو نيل — ✅ معتمد
 - `thk-pkuhn` — توماس كون — ✅ معتمد
 - `thk-plangevin` — روني لانجفان — ✅ معتمد
@@ -1447,19 +1459,19 @@
 - `thk-pteilhard` — بيار تيار دي شاردان — ✅ معتمد
 - `thk-puysgur` — ماركيز دي بويزيغور — ✅ معتمد
 - `thk-pwatzlawick` — بول واتزلاويك — ✅ معتمد
-- `thk-pwehman` — بول ويهَمان — ✅ معتمد
+- `thk-pwehman` — بول ويهَمان — 🕓 مسودة
 - `thk-pyszczynski` — توم بيسزينسكي — ✅ معتمد
 - `thk-qualls-corbett` — نانسي كوالز-كوربت — ✅ معتمد
 - `thk-rachel-heller` — راشيل هيلر — ✅ معتمد
 - `thk-rackoff` — راسل أكوف — ✅ معتمد
 - `thk-radhakrishnan` — سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي) — ✅ معتمد
 - `thk-rado` — ثيودور رادو — ✅ معتمد
-- `thk-rafaeli-eyth` — رافائيل إيدث — ✅ معتمد
+- `thk-rafaeli-eyth` — رافائيل إيدث — 🕓 مسودة
 - `thk-raknes` — أولا راكنيس — ✅ معتمد
 - `thk-raltezor` — روبرتو آلتِزور — ✅ معتمد
 - `thk-ramanuja` — رامانوجا (فيشيشتادفايتا) — ✅ معتمد
 - `thk-ramsden` — رينيه رامسدن — ✅ معتمد
-- `thk-randystabler` — راندي ستابلر — ✅ معتمد
+- `thk-randystabler` — راندي ستابلر — 🕓 مسودة
 - `thk-rank` — أوتو رانك — ✅ معتمد
 - `thk-raphael` — د. د. رافائيل — ✅ معتمد
 - `thk-rawls` — جون رولز — ✅ معتمد
@@ -1487,7 +1499,7 @@
 - `thk-renik` — أوين رينيك — ✅ معتمد
 - `thk-rennie` — ديفيد ريني — ✅ معتمد
 - `thk-reshetnikov` — ميخائيل ريشيتنيكوف — ✅ معتمد
-- `thk-resick` — باتريشيا أ. ريسك — ✅ معتمد
+- `thk-resick` — باتريشيا أ. ريسك — 🕓 مسودة
 - `thk-retchegoyen` — رودولفو إتشغوين — ✅ معتمد
 - `thk-rfisch` — ريتشارد فيش — ✅ معتمد
 - `thk-rfoxx` — ريتشارد فُكْس — ✅ معتمد
@@ -1501,14 +1513,14 @@
 - `thk-rice` — روبرت رايس — ✅ معتمد
 - `thk-richard-schwartz` — ريتشارد شوارتز — ✅ معتمد
 - `thk-rick-hanson` — ريك هانسون — ✅ معتمد
-- `thk-rick-levy` — ريك ليفي — ✅ معتمد
+- `thk-rick-levy` — ريك ليفي — 🕓 مسودة
 - `thk-ricoeur` — بول ريكور — ✅ معتمد
 - `thk-rizzo` — ألبرت «سكيب» ريزو — ✅ معتمد
 - `thk-rjohnson` — روبرت أ. جونسون — ✅ معتمد
-- `thk-rk-narayan` — راماكريشنا نارايان — ✅ معتمد
+- `thk-rk-narayan` — راماكريشنا نارايان — 🕓 مسودة
 - `thk-rkaes` — رينيه كايه — ✅ معتمد
 - `thk-rkahneman` — دانيال كانمن — ✅ معتمد
-- `thk-rkeller` — روبرت كلارك — ✅ معتمد
+- `thk-rkeller` — روبرت كلارك — 🕓 مسودة
 - `thk-rkerbauy` — راثيل كربّوي — ✅ معتمد
 - `thk-rklenck` — [مؤسِّسو AJA / BJAA / SAP / IGAP / GAP] — ✅ معتمد
 - `thk-rkohlen` — روبرت ج. كولنبرغ — ✅ معتمد
@@ -1531,28 +1543,28 @@
 - `thk-rmritchie` — رالف ميتزner — ✅ معتمد
 - `thk-rmwashburn` — مايكل واشبورن — ✅ معتمد
 - `thk-robert-bolton` — روبرت بولتون — ✅ معتمد
-- `thk-robert-burgess` — روبرت بَرجِس — ✅ معتمد
-- `thk-robert-cornelis` — روبرت كورنليس — ✅ معتمد
+- `thk-robert-burgess` — روبرت بَرجِس — 🕓 مسودة
+- `thk-robert-cornelis` — روبرت كورنليس — 🕓 مسودة
 - `thk-robert-emery` — روبرت إيميري — ✅ معتمد
 - `thk-robert-greene` — روبرت غرين — ✅ معتمد
 - `thk-robert-kegan` — روبرت كيغان — ✅ معتمد
-- `thk-robert-rotella` — روبرت روتيلا — ✅ معتمد
+- `thk-robert-rotella` — روبرت روتيلا — 🕓 مسودة
 - `thk-robert-sapolsky` — روبرت سابولسكي — ✅ معتمد
-- `thk-robertduvall` — روبرت دوفال — ✅ معتمد
+- `thk-robertduvall` — روبرت دوفال — 🕓 مسودة
 - `thk-robertelliott` — روبرت إليوت — ✅ معتمد
 - `thk-robertfritz` — روبرت فريتز — ✅ معتمد
 - `thk-robin-sharma` — روبين شارما — ✅ معتمد
 - `thk-rogers` — كارل روجرز — ✅ معتمد
-- `thk-rohan-gullich` — روهان غوليتش — ✅ معتمد
-- `thk-roland-tolentino` — رولاند تولنتينو — ✅ معتمد
+- `thk-rohan-gullich` — روهان غوليتش — 🕓 مسودة
+- `thk-roland-tolentino` — رولاند تولنتينو — 🕓 مسودة
 - `thk-rollnick` — ستيفن رولنيك — ✅ معتمد
 - `thk-ronald-siegel` — رونالد د. سيغل — ✅ معتمد
 - `thk-rorty` — ريتشارد رورتي — ✅ معتمد
-- `thk-rosemaryalara` — روزماري أَلارا — ✅ معتمد
+- `thk-rosemaryalara` — روزماري أَلارا — 🕓 مسودة
 - `thk-rosenfeld` — هربرت روزنفيلد — ✅ معتمد
 - `thk-rosolato` — غي روزولاتو — ✅ معتمد
-- `thk-rothbaum` — باربارا أولسبي روثباوم — ✅ معتمد
-- `thk-rothschild` — بابي روتشيلد — ✅ معتمد
+- `thk-rothbaum` — باربارا أولسبي روثباوم — 🕓 مسودة
+- `thk-rothschild` — بابي روتشيلد — 🕓 مسودة
 - `thk-rousseau` — جان جاك روسو — ✅ معتمد
 - `thk-roustang` — فرانسوا روستانغ — ✅ معتمد
 - `thk-rowenaansbacher` — روينا ريبين آنسْباخِر — ✅ معتمد
@@ -1563,7 +1575,7 @@
 - `thk-rpimenta` — ريكاردو بيمينتا — ✅ معتمد
 - `thk-rpla` — روبرتو خ. بلاث — ✅ معتمد
 - `thk-rprice` — راشِل بَرايس — ✅ معتمد
-- `thk-rreibo` — ريتشارد ريبو — ✅ معتمد
+- `thk-rreibo` — ريتشارد ريبو — 🕓 مسودة
 - `thk-rresnick` — روبرت رِسنيك — ✅ معتمد
 - `thk-rrestrepo` — رودريغو ريستريبو — ✅ معتمد
 - `thk-rrudolf` — غرد رودولف — ✅ معتمد
@@ -1580,10 +1592,10 @@
 - `thk-rsterba` — ريتشارد سْتيربا — ✅ معتمد
 - `thk-rsuinn` — ريتشارد سوين — ✅ معتمد
 - `thk-rubin` — شون روبين — ✅ معتمد
-- `thk-ruilinzhou` — تشو روي-لين — ✅ معتمد
-- `thk-rupertpriest` — روبرت بريست — ✅ معتمد
+- `thk-ruilinzhou` — تشو روي-لين — 🕓 مسودة
+- `thk-rupertpriest` — روبرت بريست — 🕓 مسودة
 - `thk-russ-harris` — روس هاريس — ✅ معتمد
-- `thk-russellrazzaque` — راسل رزّاق — ✅ معتمد
+- `thk-russellrazzaque` — راسل رزّاق — 🕓 مسودة
 - `thk-rvendramini` — رِيناتا فِندْراميني — ✅ معتمد
 - `thk-rviaro` — روبرتو فيارو — ✅ معتمد
 - `thk-rwachtel` — بول ل. واتشتِل — ✅ معتمد
@@ -1592,7 +1604,7 @@
 - `thk-rwilliams` — روبرت ويليامز — ✅ معتمد
 - `thk-rwooffitt` — روبن ووفيت — ✅ معتمد
 - `thk-rycroft` — تشارلز ريكروفت — ✅ معتمد
-- `thk-ryle` — أنتوني رايل — ✅ معتمد
+- `thk-ryle` — أنتوني رايل — 🕓 مسودة
 - `thk-saadia-gaon` — سعديا بن يوسف الفيومي (رأس جاؤون) — ✅ معتمد
 - `thk-saathar` — شاهيد أثير — ✅ معتمد
 - `thk-saberg-abramovitz` — أَسْترِيد بِرغ وكارول أبراموفيتش — ✅ معتمد
@@ -1600,7 +1612,7 @@
 - `thk-sadreddin-konevi` — صدر الدين القونوي — ✅ معتمد
 - `thk-sahmed` — سارة أحمد — ✅ معتمد
 - `thk-said` — إدوارد سعيد — ✅ معتمد
-- `thk-salmareading` — سالما ريدنغ — ✅ معتمد
+- `thk-salmareading` — سالما ريدنغ — 🕓 مسودة
 - `thk-salome` — لو أندرياس-سالومي — ✅ معتمد
 - `thk-samuels` — أندرو صاموئلز — ✅ معتمد
 - `thk-sanchez` — كارلوس ألبيرتو سانشيز — ✅ معتمد
@@ -1609,7 +1621,7 @@
 - `thk-sartre` — جان بول سارتر — ✅ معتمد
 - `thk-sasch` — سولومون آش — ✅ معتمد
 - `thk-sass` — لويس ساس — ✅ معتمد
-- `thk-sathyanarayana-doreswamy` — ساتيانارايانا دورِسوامي — ✅ معتمد
+- `thk-sathyanarayana-doreswamy` — ساتيانارايانا دورِسوامي — 🕓 مسودة
 - `thk-savarkar` — فيناياك دامودار سافاركار — ✅ معتمد
 - `thk-savodnik` — ليونارد سافودنيك — ✅ معتمد
 - `thk-sbaum` — سكوت بوم — ✅ معتمد
@@ -1619,7 +1631,7 @@
 - `thk-sblumberg` — سوزان بلومبرغ — ✅ معتمد
 - `thk-sbooth` — ساندرا لينداما — ✅ معتمد
 - `thk-sbouchard` — ستيفان بوشار — ✅ معتمد
-- `thk-schauer` — ماغي شاور — ✅ معتمد
+- `thk-schauer` — ماغي شاور — 🕓 مسودة
 - `thk-scheler` — ماكس شيلر — ✅ معتمد
 - `thk-schelling` — فريدريش شيلينغ — ✅ معتمد
 - `thk-schneider` — كيرك شنايدر — ✅ معتمد
@@ -1652,15 +1664,15 @@
 - `thk-shamdasani` — سوني شمداساني — ✅ معتمد
 - `thk-shang-yang` — شانغ يانغ (غي وي شيانغ) — ✅ معتمد
 - `thk-shankara` — شانكارا (أدفايتا فيدانتا) — ✅ معتمد
-- `thk-shapiro` — فرانسين شابيرو — ✅ معتمد
+- `thk-shapiro` — فرانسين شابيرو — 🕓 مسودة
 - `thk-sharper` — سوزان هاربر — ✅ معتمد
-- `thk-sharron-hapai` — شارون هاپاي — ✅ معتمد
+- `thk-sharron-hapai` — شارون هاپاي — 🕓 مسودة
 - `thk-sheena-iyengar` — شينا إينغار — ✅ معتمد
 - `thk-shen-buhai` — شين بو هاي — ✅ معتمد
 - `thk-shenggeler` — سكوت هِنغلَر — ✅ معتمد
 - `thk-shestov` — ليف شيستوف — ✅ معتمد
 - `thk-shiggins` — ستيفن تي. هيغينز — ✅ معتمد
-- `thk-shirley-murray` — شيرلي موراي — ✅ معتمد
+- `thk-shirley-murray` — شيرلي موراي — 🕓 مسودة
 - `thk-shneidman` — إدوين شنايدمان — ✅ معتمد
 - `thk-sicher` — ليديا سيشر — ✅ معتمد
 - `thk-sidneyjourdan` — سيدني جورارد — ✅ معتمد
@@ -1690,7 +1702,7 @@
 - `thk-solomon-hebrew` — سليمان (في التقليد التوراتي) — ✅ معتمد
 - `thk-soloveitchik` — جوزيف سولوفيتشيك — ✅ معتمد
 - `thk-soltz` — فيكي سولْتز — ✅ معتمد
-- `thk-sothmer` — سيغفريد أوتمر — ✅ معتمد
+- `thk-sothmer` — سيغفريد أوتمر — 🕓 مسودة
 - `thk-spencer` — هربرت سبنسر — ✅ معتمد
 - `thk-spencer-johnson` — سبنسر جونسون — ✅ معتمد
 - `thk-sperber` — مَنِس سپِربر — ✅ معتمد
@@ -1714,24 +1726,24 @@
 - `thk-ssolomon` — شيلدون سولومون — ✅ معتمد
 - `thk-sspeer` — سوزان سبيير — ✅ معتمد
 - `thk-sstanley` — سكوت ستانلي — ✅ معتمد
-- `thk-ssterman` — ماريو ستيرمان — ✅ معتمد
+- `thk-ssterman` — ماريو ستيرمان — 🕓 مسودة
 - `thk-stanghellini` — جوفاني ستانغليني — ✅ معتمد
 - `thk-stanley-milgram` — ستانلي ميلغرام — ✅ معتمد
 - `thk-stein` — إديث شتاين — ✅ معتمد
 - `thk-stephen-covey` — ستيفن كوفي — ✅ معتمد
-- `thk-stephen-lankton` — ستيفن لانكتون — ✅ معتمد
+- `thk-stephen-lankton` — ستيفن لانكتون — 🕓 مسودة
 - `thk-stephen-porges` — ستيفن بورغيس — ✅ معتمد
-- `thk-stephen-talley` — ستيفن تالي — ✅ معتمد
-- `thk-stephenburgess` — ستيفن بورغس — ✅ معتمد
+- `thk-stephen-talley` — ستيفن تالي — 🕓 مسودة
+- `thk-stephenburgess` — ستيفن بورغس — 🕓 مسودة
 - `thk-steven-pinker` — ستيفن بينكر — ✅ معتمد
-- `thk-stevenharris-dc` — ستيفن هاريس — ✅ معتمد
-- `thk-stig-rasmussen` — ستيغ راسموسن — ✅ معتمد
+- `thk-stevenharris-dc` — ستيفن هاريس — 🕓 مسودة
+- `thk-stig-rasmussen` — ستيغ راسموسن — 🕓 مسودة
 - `thk-stirner` — ماكس شتيرنر — ✅ معتمد
 - `thk-stoics` — الرواقيون (سينيكا وإبيكتيتوس) — ✅ معتمد
 - `thk-stolorow` — روبرت ستولورو — ✅ معتمد
 - `thk-strachey` — جيمس ستراشي — ✅ معتمد
 - `thk-straus` — إروين شتراوس — ✅ معتمد
-- `thk-stricker` — جورج ستريكر — ✅ معتمد
+- `thk-stricker` — جورج ستريكر — 🕓 مسودة
 - `thk-strindberg` — أوغست ستريندبرغ — ✅ معتمد
 - `thk-struchhold` — هوبيرتوس شتروخهولد — ✅ معتمد
 - `thk-su-qin` — سو تشين — ✅ معتمد
@@ -1741,8 +1753,8 @@
 - `thk-sunzi` — سون تزو (سون وو) — ✅ معتمد
 - `thk-susan-cain` — سوزان كين — ✅ معتمد
 - `thk-susan-forward` — سوزان فوروارد — ✅ معتمد
-- `thk-susan-koch` — سوزان كوخ — ✅ معتمد
-- `thk-susan-tynes` — سوزان تاينز — ✅ معتمد
+- `thk-susan-koch` — سوزان كوخ — 🕓 مسودة
+- `thk-susan-tynes` — سوزان تاينز — 🕓 مسودة
 - `thk-sutich` — أنتوني سوتيتش — ✅ معتمد
 - `thk-suttie` — إيان سوتي — ✅ معتمد
 - `thk-suzuki` — د. ت. سوزوكي — ✅ معتمد
@@ -1752,8 +1764,9 @@
 - `thk-szasz` — توماس ساس — ✅ معتمد
 - `thk-tachenbach` — توماس أشنباخ — ✅ معتمد
 - `thk-tagore` — رابندراناث طاغور — ✅ معتمد
+- `thk-tahtawi` — رفاعة الطهطاوي — 🕓 مسودة
 - `thk-takanen` — كيمو تاكانن — ✅ معتمد
-- `thk-takeshiyasumaru` — تاكيشي ياسومارو — ✅ معتمد
+- `thk-takeshiyasumaru` — تاكيشي ياسومارو — 🕓 مسودة
 - `thk-tali-sharot` — تالي شاروت — ✅ معتمد
 - `thk-tandersen` — توم أندرسن — ✅ معتمد
 - `thk-tandreas` — تيريزا أندرِآس — ✅ معتمد
@@ -1769,23 +1782,23 @@
 - `thk-tbrazelton` — تي. بيري برازيلتون — ✅ معتمد
 - `thk-tchampagne` — تينا شامبانيا — ✅ معتمد
 - `thk-tdoi` — تاكيو دوي — ✅ معتمد
-- `thk-tekanikingi` — تيكاني كينغي — ✅ معتمد
-- `thk-teruo-ohta` — تيرو أوتا — ✅ معتمد
+- `thk-tekanikingi` — تيكاني كينغي — 🕓 مسودة
+- `thk-teruo-ohta` — تيرو أوتا — 🕓 مسودة
 - `thk-tfogarty` — توماس فوغارتي — ✅ معتمد
 - `thk-tgillingham` — تيري غيلنغهام — ✅ معتمد
 - `thk-tgreening` — توماس غرينينغ — ✅ معتمد
 - `thk-tgrisso` — توماس غريسو — ✅ معتمد
 - `thk-theinrich` — توماس هاينريش — ✅ معتمد
-- `thk-theresaglasser` — تيريزا غلاسر — ✅ معتمد
+- `thk-theresaglasser` — تيريزا غلاسر — 🕓 مسودة
 - `thk-thomas-harris` — توماس أ. هاريس — ✅ معتمد
-- `thk-thomas-sells` — توماس سيلز — ✅ معتمد
+- `thk-thomas-sells` — توماس سيلز — 🕓 مسودة
 - `thk-thomashora` — توماس هورا — ✅ معتمد
 - `thk-thompson` — مايكل غي طومسون — ✅ معتمد
 - `thk-thoreau` — هنري ديفيد ثورو — ✅ معتمد
 - `thk-thorndike` — إدوارد ثورنديك — ✅ معتمد
 - `thk-tillich` — بول تيليش — ✅ معتمد
 - `thk-tim-ferriss` — تيم فيريس — ✅ معتمد
-- `thk-timothyclanton` — تيموثي كلانتون — ✅ معتمد
+- `thk-timothyclanton` — تيموثي كلانتون — 🕓 مسودة
 - `thk-tisoma` — تاكيشي إيسومه — ✅ معتمد
 - `thk-tjames` — تاد جيمس — ✅ معتمد
 - `thk-tkellermann` — توماس كِلِرمان — ✅ معتمد
@@ -1800,12 +1813,12 @@
 - `thk-tnhat` — تِك نات هان — ✅ معتمد
 - `thk-todes` — صموئيل توديس — ✅ معتمد
 - `thk-togden` — توماس أوغدن — ✅ معتمد
-- `thk-tom-cornwell` — توم كورنول — ✅ معتمد
+- `thk-tom-cornwell` — توم كورنول — 🕓 مسودة
 - `thk-tony-white` — توني وايت — ✅ معتمد
 - `thk-tpichot` — تيري بيشو — ✅ معتمد
 - `thk-trisley` — تود ر. ريسلي — ✅ معتمد
 - `thk-trobbins` — توني روبنز — ✅ معتمد
-- `thk-trore` — تيموثي روري — ✅ معتمد
+- `thk-trore` — ماسون دوري — ✅ معتمد
 - `thk-trub` — هانس تروب — ✅ معتمد
 - `thk-trudakova` — تاتيانا روداكوفا — ✅ معتمد
 - `thk-trudi-schoop` — ترودي شوپ — ✅ معتمد
@@ -1837,11 +1850,13 @@
 - `thk-viderman` — سيرج فيدرمان — ✅ معتمد
 - `thk-vivekananda` — سوامي فيفيكاناندا (نيو-فيدانتا) — ✅ معتمد
 - `thk-vjohnson` — فرجينيا جونسون — ✅ معتمد
+- `thk-voltaire` — فولتير — 🕓 مسودة
 - `thk-vonfranz` — ماري-لويز فون فرانز — ✅ معتمد
 - `thk-vramachandran` — فينسنت س. راماشاندران — ✅ معتمد
 - `thk-vsatir` — فيرجينيا ساتير — ✅ معتمد
 - `thk-vschroeter` — فينسينتيا شرودر — ✅ معتمد
 - `thk-vtausk` — فيكتور تاوسك — ✅ معتمد
+- `thk-vygotsky` — ليف فيغوتسكي — 🕓 مسودة
 - `thk-wahl` — جان فال — ✅ معتمد
 - `thk-walzer` — مايكل والزر — ✅ معتمد
 - `thk-wampold` — بروس وامبولد — ✅ معتمد
@@ -1850,7 +1865,7 @@
 - `thk-wanthony` — ويليام أنتوني — ✅ معتمد
 - `thk-wass` — هانيلوره فاس — ✅ معتمد
 - `thk-wayne-dyer` — واين داير — ✅ معتمد
-- `thk-wbennett` — وين بينيت — ✅ معتمد
+- `thk-wbennett` — وين بينيت — 🕓 مسودة
 - `thk-wboechat` — فالتَر بُويْتشات — ✅ معتمد
 - `thk-wdoherty` — بيل دوهرتي — ✅ معتمد
 - `thk-wdowling` — ناعيم أكبر — ✅ معتمد
@@ -1859,7 +1874,7 @@
 - `thk-weil` — سيمون فايل — ✅ معتمد
 - `thk-weisstub` — إيلي وايستوب — ✅ معتمد
 - `thk-weizsacker` — فيكتور فون فايتسزيكر — ✅ معتمد
-- `thk-wells-adrian` — أدريان ويلز — ✅ معتمد
+- `thk-wells-adrian` — أدريان ويلز — 🕓 مسودة
 - `thk-werhard` — ويرنر إيرهارد — ✅ معتمد
 - `thk-werner` — هيلموت فيرنر — ✅ معتمد
 - `thk-wertz` — فريدريك فيرتز — ✅ معتمد
@@ -1870,7 +1885,7 @@
 - `thk-wild` — جون دانييل وايلد — ✅ معتمد
 - `thk-wilderson` — فرانك وايلدرسون — ✅ معتمد
 - `thk-wilhelm` — رافائيل ويلهيلم — ✅ معتمد
-- `thk-william-hudson` — وليام هدسون — ✅ معتمد
+- `thk-william-hudson` — وليام هدسون — 🕓 مسودة
 - `thk-william-ockham` — وليم الأوكامي — ✅ معتمد
 - `thk-wilson` — كولن ويلسون — ✅ معتمد
 - `thk-wimmer` — فرانتس مارتن فيمر — ✅ معتمد
@@ -1896,7 +1911,7 @@
 - `thk-wsellars` — ويلفريد سيلارز — ✅ معتمد
 - `thk-wspaulding` — ويلِم سَبُولدِنغ — ✅ معتمد
 - `thk-wstekel` — فيلهلم سْتِكِل — ✅ معتمد
-- `thk-wwhite` — وليام وايت — ✅ معتمد
+- `thk-wwhite` — وليام وايت — 🕓 مسودة
 - `thk-wwood` — وايات وودسمول — ✅ معتمد
 - `thk-wzhang` — وي تشانغ — ✅ معتمد
 - `thk-xu-xing` — شو شينغ — ✅ معتمد
@@ -1906,23 +1921,23 @@
 - `thk-yang` — مارك يانغ — ✅ معتمد
 - `thk-ydolan` — يفون دولان — ✅ معتمد
 - `thk-yhkim` — يونغ-هي كيم — ✅ معتمد
-- `thk-yihuazhu` — تشو يي-هوا — ✅ معتمد
+- `thk-yihuazhu` — تشو يي-هوا — 🕓 مسودة
 - `thk-yishin` — يوشيموتو إيشين — ✅ معتمد
 - `thk-ymohamed` — ياسين محمد — ✅ معتمد
 - `thk-ynakagami` — ياسوشي ناكاغامي — ✅ معتمد
 - `thk-yogananda` — باراماهانزا يوغاناندا — ✅ معتمد
-- `thk-yongjingqi` — يونغ جينغ تشي — ✅ معتمد
+- `thk-yongjingqi` — يونغ جينغ تشي — 🕓 مسودة
 - `thk-yotsuka` — ياسوهيرو يوتسوكا — ✅ معتمد
 - `thk-young` — سارة يونغ — ✅ معتمد
 - `thk-young-jeffrey` — جيفري يونغ — ✅ معتمد
 - `thk-ystavrakakis` — يانيس ستافراكاكيس — ✅ معتمد
-- `thk-yvaniedmon` — إيڤاني إدمون — ✅ معتمد
+- `thk-yvaniedmon` — إيڤاني إدمون — 🕓 مسودة
 - `thk-zambrano` — ماريا ثامبرانو — ✅ معتمد
 - `thk-zapffe` — بيتر فيسيل زابفه — ✅ معتمد
 - `thk-zarathushtra` — زرادشت (زَرَتُشْتْرَة) — ✅ معتمد
 - `thk-zehr` — هوارد زير — ✅ معتمد
-- `thk-zhangyalin` — تشانغ يالين — ✅ معتمد
-- `thk-zhangyongqiang` — تشانغ يونغ تشيانغ — ✅ معتمد
+- `thk-zhangyalin` — تشانغ يالين — 🕓 مسودة
+- `thk-zhangyongqiang` — تشانغ يونغ تشيانغ — 🕓 مسودة
 - `thk-zhu-xi` — تشو هسي — ✅ معتمد
 - `thk-zhuangzi` — تشوانغ تزو — ✅ معتمد
 - `thk-zlipowski` — زبينيو ليبوفسكي — ✅ معتمد
@@ -1935,12 +1950,13 @@
 - `thk-zubiri` — خافيير ثوبيري — ✅ معتمد
 - `thk-zygmunt-bauman` — زيجمونت باومان — ✅ معتمد
 
-## مفهوم (419)
+## مفهوم (431)
 
 - `con-aba-autism` — ABA للتوحد — ✅ معتمد
 - `con-abstinence-vs-harm-reduction` — الامتناع الكامل مقابل الحد من الضرر — ✅ معتمد
 - `con-absurd` — العبث — ✅ معتمد
 - `con-actualizing-tendency` — نزعة التحقق الذاتي (Actualizing Tendency) — ✅ معتمد
+- `con-adaptation` — التكيُّف — 🕓 مسودة
 - `con-addiction` — الإدمان والبحث الروحي المشوه — ✅ معتمد
 - `con-addiction-model-debate` — النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن — ✅ معتمد
 - `con-affirmative-therapy` — العلاج التأكيدي (Affirmative Therapy) — ✅ معتمد
@@ -1967,9 +1983,11 @@
 - `con-archetypes` — النماذج البدائية والأنماط الأولية للاشعور الجمعي (Archetypes) — 🕓 مسودة
 - `con-as-above-so-below` — كما في الأعلى كذلك في الأسفل — ✅ معتمد
 - `con-asha` — أشا (الحقيقة-النظام) — ✅ معتمد
+- `con-ataraxia` — الأتاراكسيا والسكينة النفسية — 🕓 مسودة
 - `con-atman` — آتْمان (النفس الفردية / الذات الحقيقية) — ✅ معتمد
 - `con-atman-brahman-vedanta` — الأتمان والبراهمان ووحدة الوعي الكوني (Atman-Brahman) — 🕓 مسودة
 - `con-attachment-styles-popular` — أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي) — ✅ معتمد
+- `con-attention` — الانتباه — 🕓 مسودة
 - `con-authenticity` — الأصالة — ✅ معتمد
 - `con-automatic-thought` — الأفكار التلقائية — ✅ معتمد
 - `con-autonomy-homonomy` — الاستقلالية والهومونومي — ✅ معتمد
@@ -2005,6 +2023,7 @@
 - `con-classical-conditioning` — الإشتراط الكلاسيكي (الإشراط البافلوفي) — ✅ معتمد
 - `con-cogito` — الكوجيتو: أنا أفكر إذن أنا موجود — ✅ معتمد
 - `con-cognitive-decentering` — اللامركزية المعرفية — ✅ معتمد
+- `con-cognitive-dissonance` — التنافر المعرفي — 🕓 مسودة
 - `con-cognitive-distortion` — التشوهات المعرفية — ✅ معتمد
 - `con-cognitive-map` — الخريطة المعرفية — ✅ معتمد
 - `con-coloniality` — الكولونيالية (Coloniality) — ✅ معتمد
@@ -2062,6 +2081,7 @@
 - `con-emerald-tablet` — لوح الزمرد (Tabula Smaragdina) — ✅ معتمد
 - `con-emotional-blackmail` — الابتزاز العاطفي وثالوث الضباب (FOG: الخوف والالتزام والذنب) — ✅ معتمد
 - `con-emotional-immaturity-parents` — اللاتنضج العاطفي الوالدي والإهمال غير المرئي — ✅ معتمد
+- `con-emotional-intelligence` — الذكاء العاطفي — 🕓 مسودة
 - `con-emunah` — الإيمان (إيمونا) كحالة وجودية — ✅ معتمد
 - `con-eternal-return` — العودة الأبدية (Ewige Wiederkehr) — ✅ معتمد
 - `con-ethics` — الأخلاق في التحليلية والممارسة السريرية — ✅ معتمد
@@ -2123,6 +2143,7 @@
 - `con-hindutva` — هندوتفا (الهندوسية كقومية) — ✅ معتمد
 - `con-historical-materialism` — المادية التاريخية (Historischer Materialismus) — ✅ معتمد
 - `con-ho-oponopono` — هو-أوبونوبونو (Ho'oponopono) — ✅ معتمد
+- `con-homeostasis` — الاستتباب — 🕓 مسودة
 - `con-hwabyung-concept` — الهوابيونغ (مفهوم ثقافي) — ✅ معتمد
 - `con-hypnotic-suggestibility` — القابلية للإيحاء التنويمي — ✅ معتمد
 - `con-hypnotic-trance` — الغشية التنويمية — ✅ معتمد
@@ -2173,9 +2194,11 @@
 - `con-maya-vedanta` — مايا (الوهم الفلسفي / الظهور الكوني) — ✅ معتمد
 - `con-meaning` — المعنى واللامعنى — ✅ معتمد
 - `con-melammu` — ميلمو (البهاء الإلهي) — ✅ معتمد
+- `con-memory` — الذاكرة — 🕓 مسودة
 - `con-mentalization` — الانعكاس الذهني (Mentalization) — ✅ معتمد
 - `con-mere-exposure-effect` — تأثير التعرض المحض (الألفة والانجذاب عبر التكرار) — ✅ معتمد
 - `con-midlife` — أزمة منتصف العمر والمرور الأوسط — ✅ معتمد
+- `con-mind-body` — مشكلة العقل والجسد — 🕓 مسودة
 - `con-mindfulness` — اليقظة الذهنية (Mindfulness) — ✅ معتمد
 - `con-misinformation-effect-loftus` — تأثير التضليل وقابلية الذاكرة للتعديل (Misinformation Effect) — ✅ معتمد
 - `con-modeling` — النمذجة (التعلم بالملاحظة) — ✅ معتمد
@@ -2201,6 +2224,7 @@
 - `con-occasionalism-ashari` — العناية الإلهية (العرضية عند الأشعري) — ✅ معتمد
 - `con-oedipus-complex` — عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي) — ✅ معتمد
 - `con-operant-conditioning` — الإشتراط الإجرائي (الإشراط السكينري) — ✅ معتمد
+- `con-optimism` — التفاؤل — 🕓 مسودة
 - `con-optimism-bias-concept` — انحياز التفاؤل الفطري للدماغ (The Optimism Bias) — ✅ معتمد
 - `con-orientalism` — الاستشراق (Orientalism) — ✅ معتمد
 - `con-overcontrol` — الضبط المفرط (Overcontrol) — ✅ معتمد
@@ -2213,6 +2237,7 @@
 - `con-patriarchy` — النظام الأبوي (البطريركية) — ✅ معتمد
 - `con-peak-experience` — خبرة الذروة (Peak Experience) — ✅ معتمد
 - `con-peter-pan-complex` — عقدة / متلازمة بيتر بان (عدم النضج والهروب من المسؤولية) — ✅ معتمد
+- `con-pleasure` — اللذة — 🕓 مسودة
 - `con-political-liberalism` — الإجماع المتداخل — ✅ معتمد
 - `con-political-psyche` — النفس السياسية والنفس التعددية — ✅ معتمد
 - `con-political-psychoanalysis` — التحليل النفسي السياسي — ✅ معتمد
@@ -2247,6 +2272,7 @@
 - `con-recognition-struggle` — الاعتراف (النضال من أجله) — ✅ معتمد
 - `con-recovered-memory-controversy` — الجدل حول الذاكرة المُستعادة — ✅ معتمد
 - `con-recovery-model` — نموذج التعافي (Recovery) — ✅ معتمد
+- `con-reductionism` — الاختزالية — 🕓 مسودة
 - `con-reinforcement-schedule` — جداول التعزيز — ✅ معتمد
 - `con-relapse-prevention-sexual` — منع الانتكاسة الجنسية — ✅ معتمد
 - `con-relation` — العلاقة واللقاء — ✅ معتمد
@@ -2268,6 +2294,7 @@
 - `con-satyagraha` — ساتياغراها (قوة الحقيقة) — ✅ معتمد
 - `con-savior-complex` — عقدة المخلّص ومتلازمة الفارس الأبيض (الإنقاذ القهري للآخرين) — ✅ معتمد
 - `con-scarcity-mindset` — عقلية الندرة وعبء النطاق الترددي المعرفي — ✅ معتمد
+- `con-schema` — المخطط المعرفي — 🕓 مسودة
 - `con-schizophrenia` — الفصام وانشقاق الشخصية (بلويلر) — ✅ معتمد
 - `con-sefirot` — السفيرة (الصفات الإلهية العشر) — ✅ معتمد
 - `con-self-actualization` — تحقيق الذات (Self-Actualization) — ✅ معتمد

@@ -1,0 +1,448 @@
+{
+ "moved": [
+  "thk-aalladin",
+  "thk-albertellis-somatic",
+  "thk-alexandra-farkas",
+  "thk-alicorazon",
+  "thk-amy-morgan",
+  "thk-anajam",
+  "thk-andrew-barnes",
+  "thk-andrew-johnson",
+  "thk-andrew-schnack",
+  "thk-apert",
+  "thk-arthurbeckerweidman",
+  "thk-bala-jaison",
+  "thk-barlow",
+  "thk-barry-kramer",
+  "thk-benthall",
+  "thk-beutler",
+  "thk-bill-matthews",
+  "thk-bobbeck",
+  "thk-boscolo",
+  "thk-brapp",
+  "thk-brian-aleman",
+  "thk-brianhug",
+  "thk-brosen",
+  "thk-bruceperkins",
+  "thk-campbell-purton",
+  "thk-carolyn-dalglish",
+  "thk-cecilehimawan",
+  "thk-cgarrett",
+  "thk-charlesfaulkner",
+  "thk-cherylfairbairn",
+  "thk-connie-rae-anderson",
+  "thk-cwebster",
+  "thk-cwhitaker-pt",
+  "thk-daniellevision",
+  "thk-david-erceg",
+  "thk-david-feldman",
+  "thk-david-reeve",
+  "thk-deborah-kremer",
+  "thk-deepak-ramsubeik",
+  "thk-dfisher",
+  "thk-dgrand",
+  "thk-dgray",
+  "thk-dgreenberger",
+  "thk-diclemente",
+  "thk-dmercieca",
+  "thk-donaldatkinson",
+  "thk-dwchen",
+  "thk-dzurilla",
+  "thk-ecker",
+  "thk-ecolle",
+  "thk-eleanor-crisostomo",
+  "thk-elin-rbaek",
+  "thk-erickson-erl",
+  "thk-erikpearson",
+  "thk-fherzog",
+  "thk-fkfu",
+  "thk-foa",
+  "thk-fpeseschkian",
+  "thk-frankanderson",
+  "thk-frederickleong",
+  "thk-freeman",
+  "thk-gene-ennis",
+  "thk-george-thompson",
+  "thk-gillian-abbott",
+  "thk-gnardone",
+  "thk-gold",
+  "thk-goldfried",
+  "thk-greenwald",
+  "thk-griffiths",
+  "thk-gsmith",
+  "thk-gunnel-cederblad",
+  "thk-hershman",
+  "thk-hkoprulu",
+  "thk-hohagen",
+  "thk-icheolhong",
+  "thk-ieyberg",
+  "thk-ihewlen",
+  "thk-ihilgard",
+  "thk-istansky",
+  "thk-jacqueline-astington",
+  "thk-jacqueline-peart",
+  "thk-jacqueline-tortorella",
+  "thk-jacqueline-varner",
+  "thk-james-berman",
+  "thk-james-gumpert",
+  "thk-janethelms",
+  "thk-janicewilliams",
+  "thk-jarlena-white",
+  "thk-jayearly",
+  "thk-jboss",
+  "thk-jbrowne",
+  "thk-jcawley",
+  "thk-jenna-brown",
+  "thk-jennifer-cheavens",
+  "thk-jennifer-olding",
+  "thk-jenniferschwab",
+  "thk-jenny-christensen",
+  "thk-jgould",
+  "thk-jim-ackerman",
+  "thk-jim-loehr",
+  "thk-jjoyce",
+  "thk-jkadden",
+  "thk-jlubar",
+  "thk-jlueger",
+  "thk-jmitchell",
+  "thk-john-friedman",
+  "thk-john-lippmann",
+  "thk-jonathanbaylin",
+  "thk-jose-arsenio",
+  "thk-jose-salgado",
+  "thk-jrivett",
+  "thk-jroddy",
+  "thk-jspence",
+  "thk-julierawlins",
+  "thk-kaarlokeranen",
+  "thk-kathylaurenceau",
+  "thk-katie-rae",
+  "thk-katka-rubin",
+  "thk-keiko-hoshino",
+  "thk-kelleycolleen",
+  "thk-kevin-sparger",
+  "thk-kimkwansung",
+  "thk-kmithoefer",
+  "thk-krischer",
+  "thk-kruger-marielle",
+  "thk-kurtz-sherman",
+  "thk-larrynims",
+  "thk-lars-johansson",
+  "thk-lavinia-shaw",
+  "thk-lfish",
+  "thk-lhecker",
+  "thk-lmazza",
+  "thk-lrosenzweig",
+  "thk-lroszak",
+  "thk-ma-rosario-alfelor",
+  "thk-madeleine-sandberg",
+  "thk-marciamarx",
+  "thk-margaret-bluestein",
+  "thk-margaretbodkin",
+  "thk-marian-krcmar",
+  "thk-marianne-strom",
+  "thk-mariannekline",
+  "thk-marisaberkouwer",
+  "thk-mark-santross",
+  "thk-markrees",
+  "thk-markwelch",
+  "thk-marshall",
+  "thk-mary-elmquist",
+  "thk-mary-guthrie",
+  "thk-mary-stewart",
+  "thk-maryolson",
+  "thk-masaaki-takahashi",
+  "thk-mccullough",
+  "thk-mchace",
+  "thk-mcieslak",
+  "thk-meichenbaum",
+  "thk-melanie-segall",
+  "thk-melissaschaefer",
+  "thk-michael-derm",
+  "thk-michael-guthrie",
+  "thk-michael-yapko-jr",
+  "thk-michael-yarp",
+  "thk-michaelsweeting",
+  "thk-michio-mizuno",
+  "thk-mingshengli",
+  "thk-minopaulin",
+  "thk-mithoefer",
+  "thk-morin",
+  "thk-mperelman",
+  "thk-mtutufurth",
+  "thk-mwagreich",
+  "thk-nancy-harness",
+  "thk-nicotole",
+  "thk-novaco",
+  "thk-papaarangireid",
+  "thk-patrice-de-marco",
+  "thk-paul-thorne",
+  "thk-paulholmes",
+  "thk-peg-pender",
+  "thk-pekkajokinen",
+  "thk-penelopeeast",
+  "thk-peta-stapleton",
+  "thk-peter-clough",
+  "thk-philippe-cunningham",
+  "thk-pipitea",
+  "thk-pwehman",
+  "thk-rafaeli-eyth",
+  "thk-randystabler",
+  "thk-resick",
+  "thk-rick-levy",
+  "thk-rk-narayan",
+  "thk-rkeller",
+  "thk-robert-burgess",
+  "thk-robert-cornelis",
+  "thk-robert-rotella",
+  "thk-robertduvall",
+  "thk-rohan-gullich",
+  "thk-roland-tolentino",
+  "thk-rosemaryalara",
+  "thk-rothbaum",
+  "thk-rothschild",
+  "thk-rreibo",
+  "thk-ruilinzhou",
+  "thk-rupertpriest",
+  "thk-russellrazzaque",
+  "thk-ryle",
+  "thk-salmareading",
+  "thk-sathyanarayana-doreswamy",
+  "thk-schauer",
+  "thk-shapiro",
+  "thk-sharron-hapai",
+  "thk-shirley-murray",
+  "thk-sothmer",
+  "thk-ssterman",
+  "thk-stephen-lankton",
+  "thk-stephen-talley",
+  "thk-stephenburgess",
+  "thk-stevenharris-dc",
+  "thk-stig-rasmussen",
+  "thk-stricker",
+  "thk-susan-koch",
+  "thk-susan-tynes",
+  "thk-takeshiyasumaru",
+  "thk-tekanikingi",
+  "thk-teruo-ohta",
+  "thk-theresaglasser",
+  "thk-thomas-sells",
+  "thk-timothyclanton",
+  "thk-tom-cornwell",
+  "thk-wbennett",
+  "thk-wells-adrian",
+  "thk-william-hudson",
+  "thk-wwhite",
+  "thk-yihuazhu",
+  "thk-yongjingqi",
+  "thk-yvaniedmon",
+  "thk-zhangyalin",
+  "thk-zhangyongqiang"
+ ],
+ "dangling_inbound": {
+  "thk-ihilgard": [
+   "branches/br-clinical-hypnotherapy",
+   "concepts/con-hypnotic-suggestibility",
+   "concepts/con-hypnotic-trance",
+   "thinkers/thk-jkihnstrom",
+   "thinkers/thk-merickson",
+   "thinkers/thk-morne",
+   "thinkers/thk-tbarber"
+  ],
+  "thk-stevenharris-dc": [
+   "branches/br-discernment-counseling"
+  ],
+  "thk-mtutufurth": [
+   "branches/br-ubuntu-psychology",
+   "thinkers/thk-dtutu"
+  ],
+  "thk-mperelman": [
+   "concepts/con-affirmative-therapy"
+  ],
+  "thk-gillian-abbott": [
+   "concepts/con-care-ethics"
+  ],
+  "thk-kimkwansung": [
+   "concepts/con-han-korean",
+   "thinkers/thk-leehyungjun",
+   "thinkers/thk-minsungkil",
+   "thinkers/thk-parkjongik"
+  ],
+  "thk-gsmith": [
+   "concepts/con-kaupapa-maori"
+  ],
+  "thk-ssterman": [
+   "concepts/con-neurofeedback"
+  ],
+  "thk-jlubar": [
+   "concepts/con-neurofeedback"
+  ],
+  "thk-sothmer": [
+   "concepts/con-neurofeedback"
+  ],
+  "thk-jcawley": [
+   "concepts/con-psychoeducation",
+   "thinkers/thk-canderson",
+   "thinkers/thk-dhanna",
+   "thinkers/thk-dknab",
+   "thinkers/thk-dmueser"
+  ],
+  "thk-wwhite": [
+   "concepts/con-recovery-model"
+  ],
+  "thk-dfisher": [
+   "concepts/con-recovery-model",
+   "thinkers/thk-jchamberlin",
+   "thinkers/thk-ldavidson",
+   "thinkers/thk-mcopeland",
+   "thinkers/thk-pdeegan",
+   "thinkers/thk-smead"
+  ],
+  "thk-marshall": [
+   "concepts/con-relapse-prevention-sexual",
+   "instruments/ins-static-99"
+  ],
+  "thk-wbennett": [
+   "concepts/con-single-session-mindset"
+  ],
+  "thk-gnardone": [
+   "concepts/con-strategic-intervention",
+   "thinkers/thk-rviaro"
+  ],
+  "thk-pwehman": [
+   "concepts/con-supported-employment",
+   "thinkers/thk-fmodestin",
+   "thinkers/thk-mgold",
+   "thinkers/thk-wanthony"
+  ],
+  "thk-cwebster": [
+   "instruments/ins-hcr-20",
+   "thinkers/thk-hsteadman",
+   "thinkers/thk-jmonahan",
+   "thinkers/thk-pappelbaum",
+   "thinkers/thk-rborum",
+   "thinkers/thk-tgrisso"
+  ],
+  "thk-foa": [
+   "instruments/ins-oci-r",
+   "relations/rel-trauma-psychoanalysis",
+   "relations/rel-trauma-somatic",
+   "techniques/tec-imagery-rescripting",
+   "techniques/tec-progressive-counting"
+  ],
+  "thk-diclemente": [
+   "relations/rel-addiction-cbt",
+   "relations/rel-integrative-cbt-common-factors",
+   "thinkers/thk-prochaska"
+  ],
+  "thk-mithoefer": [
+   "relations/rel-psychedelic-transpersonal",
+   "thinkers/thk-amithoefer",
+   "thinkers/thk-pgasser",
+   "thinkers/thk-rmdoblin"
+  ],
+  "thk-griffiths": [
+   "relations/rel-psychedelic-transpersonal",
+   "thinkers/thk-cgrob",
+   "thinkers/thk-mmithoefer",
+   "thinkers/thk-rcarhart-harris"
+  ],
+  "thk-resick": [
+   "relations/rel-trauma-psychoanalysis",
+   "relations/rel-trauma-somatic"
+  ],
+  "thk-shapiro": [
+   "relations/rel-trauma-psychoanalysis",
+   "relations/rel-trauma-somatic",
+   "techniques/tec-accelerated-resolution-therapy"
+  ],
+  "thk-rothschild": [
+   "relations/rel-trauma-psychoanalysis",
+   "relations/rel-trauma-somatic",
+   "techniques/tec-somatic-trauma"
+  ],
+  "thk-ryle": [
+   "schools/sch-ordinary-language"
+  ],
+  "thk-dgrand": [
+   "techniques/tec-brainspotting"
+  ],
+  "thk-novaco": [
+   "techniques/tec-clinical-stress"
+  ],
+  "thk-mwagreich": [
+   "techniques/tec-hypno-analysis",
+   "thinkers/thk-hschlesinger",
+   "thinkers/thk-jgedo",
+   "thinkers/thk-mviederman"
+  ],
+  "thk-jkadden": [
+   "techniques/tec-matrix-model"
+  ],
+  "thk-ecker": [
+   "techniques/tec-memory-reconsolidation"
+  ],
+  "thk-lhecker": [
+   "techniques/tec-memory-reconsolidation"
+  ],
+  "thk-greenwald": [
+   "techniques/tec-progressive-counting"
+  ],
+  "thk-barlow": [
+   "techniques/tec-unified-protocol"
+  ],
+  "thk-rothbaum": [
+   "techniques/tec-vr-exposure"
+  ],
+  "thk-lmazza": [
+   "thinkers/thk-aboller",
+   "thinkers/thk-jfox",
+   "thinkers/thk-jlchner",
+   "thinkers/thk-jsimmermacher",
+   "thinkers/thk-kkoch"
+  ],
+  "thk-krischer": [
+   "thinkers/thk-agoldstein",
+   "thinkers/thk-araine",
+   "thinkers/thk-jcgibbs",
+   "thinkers/thk-pfrick"
+  ],
+  "thk-ieyberg": [
+   "thinkers/thk-bbundy",
+   "thinkers/thk-cwebster-stratton",
+   "thinkers/thk-czeanah",
+   "thinkers/thk-rbarkley",
+   "thinkers/thk-seyberg",
+   "thinkers/thk-tachenbach",
+   "thinkers/thk-tsexton"
+  ],
+  "thk-brapp": [
+   "thinkers/thk-canderson",
+   "thinkers/thk-gbond",
+   "thinkers/thk-gshepherd",
+   "thinkers/thk-mharris",
+   "thinkers/thk-rdrake"
+  ],
+  "thk-boscolo": [
+   "thinkers/thk-gcecchin",
+   "thinkers/thk-scirillo"
+  ],
+  "thk-zhangyalin": [
+   "thinkers/thk-jingqiyong"
+  ],
+  "thk-lroszak": [
+   "thinkers/thk-jmacy",
+   "thinkers/thk-mlouv"
+  ],
+  "thk-jmitchell": [
+   "thinkers/thk-lchodorow"
+  ],
+  "thk-mchace": [
+   "thinkers/thk-mary-whitehouse",
+   "thinkers/thk-trudi-schoop"
+  ],
+  "thk-jboss": [
+   "thinkers/thk-sporges"
+  ]
+ }
+}

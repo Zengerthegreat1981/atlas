@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
+  - id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً."
   - "عمله في NY-Presbyterian Hospital وWeill Cornell Medical College يستحق توثيقاً."

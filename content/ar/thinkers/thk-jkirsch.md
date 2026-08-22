@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-  - id: "thk-tkirsch", title: "توماس كيرش", type: "مفكر"
+  - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "قائمة أعماله الكاملة — موضع تحقيق."

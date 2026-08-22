@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متوسط"
 title: "تِتسومي موريياما"
 en: "Tetsumi Moriyama"
-crumb: "مدرسة التحليل النفسي ← الناس ← تِتسومي موريياما"
+crumb: "السلوكية (Behaviorism) ← الناس ← تِتسومي موريياما"
 dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-nsugiyama", title: "نَأوكو سُوگيياما", type: "مفكر"
+  - id: "thk-nsugiyama", title: "نَأوكو سُوگييامَا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."

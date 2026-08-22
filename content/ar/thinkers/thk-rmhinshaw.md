@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
   - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
+  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

@@ -12,7 +12,7 @@ language: "الألمانية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
   - id: "thk-sicher", title: "ليديا سيشر", type: "مفكر"
 gaps:
   - "تفاصيل سنواته المبكرة في برن (1920s) قبل انتقاله إلى زيورخ شحيحة."

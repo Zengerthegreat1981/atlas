@@ -11,9 +11,9 @@ active_start: 1850
 active_end: 1950
 edges: []
 related:
-  - id: "sch-islamic-modernism", title: "التجديد والإصلاح الإسلامي الحديث", type: "مدرسة"
+  - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
   - id: "thk-tahtawi", title: "رفاعة الطهطاوي", type: "مفكر"
-  - id: "thk-abduh", title: "محمد عبده", type: "مفكر"
+  - id: "thk-muhammad-abduh", title: "محمد عبده", type: "مفكر"
 gaps:
   - "جدليات الأصالة والمعاصرة وتأسيس أولى أقسام علم النفس والترجمة في الجامعات العربية الحديثة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

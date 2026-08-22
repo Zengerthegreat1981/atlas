@@ -14,7 +14,7 @@ country: "بولندا / فرنسا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
   - id: "br-daseins", title: "التيار", type: "تيار"
   - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
   - id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"

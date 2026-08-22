@@ -12,7 +12,7 @@ language: "الإنجليزية / السلوفينية / الفرنسية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
+  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
   - id: "thk-hegel", title: "هيغل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

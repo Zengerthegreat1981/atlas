@@ -14,7 +14,7 @@ active_end: 1970
 edges:
   - rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
 related:
-  - id: "tec-dance-movement-therapy", title: "العلاج بالحركة والرقص", type: "تقنية/تدخل علاجي"
+  - id: "tec-dance-movement-therapy", title: "العلاج بالرقص والحركة (DMT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التدريب الأولي مع Mary Wigman في Dresden لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

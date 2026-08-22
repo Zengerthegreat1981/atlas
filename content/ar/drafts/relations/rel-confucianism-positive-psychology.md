@@ -16,7 +16,7 @@ related:
   - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
   - id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
   - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
-  - id: "thk-peseschkian", title: "نصو بيسشيكيان", type: "مفكر"
+  - id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
   - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
 gaps:
   - "Seligman 1998 لم يستشهد بالكونفوشيوسية صراحةً كمصدر رئيسي (الاستشهاد بالبوذية أوضح). العلاقة مقترحة أكاديمياً من باحثين (Biswas-Diener 2014، Luo 2018) لكن التوثيق المباشر ضعيف."

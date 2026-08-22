@@ -14,7 +14,7 @@ active_end: 2006
 edges:
   - rel: "belongs_to", target: "العلاج القائم على الأمل (Snyder)", target_type: "مدرسة"
 related:
-  - id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
+  - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

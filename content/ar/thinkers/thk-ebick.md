@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
   - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-mharris", title: "مارتا هاريس", type: "مفكر"
+  - id: "thk-mharris", title: "ماكسين هاريس", type: "مفكر"
   - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

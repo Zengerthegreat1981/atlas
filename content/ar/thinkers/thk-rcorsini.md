@@ -14,8 +14,8 @@ active_end: 2010
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
-  - id: "thk-rdreikurs", title: "رُودُولْف دْرَايكُورْس", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
 gaps:
   - "إسهامات كورسيني في موسوعة علم النفس ملخّصة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

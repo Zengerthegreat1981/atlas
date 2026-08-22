@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متوسط"
 title: "ريتشارد فُكْس"
 en: "Richard Foxx"
-crumb: "مدرسة التحليل النفسي ← الناس ← ريتشارد فُكْس"
+crumb: "السلوكية (Behaviorism) ← الناس ← ريتشارد فُكْس"
 dates: "أمريكا · 1938–"
 country: "أمريكا"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-nazrin", title: "نَثَان أزّرين", type: "مفكر"
-  - id: "thk-ilovaas", title: "إيفار لوفاس", type: "مفكر"
+  - id: "thk-nazrin", title: "نَثَان هـ. أزّرين", type: "مفكر"
+  - id: "thk-ilovaas", title: "أو. إيفار لوفاس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---

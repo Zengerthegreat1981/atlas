@@ -11,12 +11,12 @@ edges:
   - rel: "relates_to", target: "علم النفس التنموي", target_type: "مدرسة"
   - rel: "formulated_by", target: "والتر ميشيل", target_type: "مفكر"
 related:
-  - id: "thk-mischel", title: "والتر ميشيل", type: "مفكر"
+  - id: "thk-wmischel", title: "والتَر ميشيل", type: "مفكر"
   - id: "stu-mischel-marshmallow-test", title: "تجربة الخطمي لميشيل", type: "دراسة وبحث"
-  - id: "con-self-control", title: "ضبط النفس", type: "مفهوم"
 gaps:
   - "نتائج المتابعة الطولية (Mischel et al. 2011) ربطت تأجيل الإشباع بالنجاح في الحياة، لكن دراسات تكرارية أحدثة (Watts, Duncan & Quan 2018) قللت من قوة التنبؤ."
   - "الفرق بين 'ضبط النفس' و'الإرادة' كبنائين نفسيين يحتاج تفصيلاً."
+  - "ضبط النفس والتحكم بالذات كبناء سيكولوجي مستقل مسجل كفجوة في هذا الملف."
 ---
 
 # بديهية تأجيل الإشباع

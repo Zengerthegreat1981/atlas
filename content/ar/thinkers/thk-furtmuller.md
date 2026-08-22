@@ -12,7 +12,7 @@ language: "الألمانية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
   - id: "thk-wexberg", title: "إيروين ويكسبرغ", type: "مفكر"
 gaps:
   - "التفاصيل المتعلقة بهجرته (1934 إلى بريطانيا) وحياته اللاحقة شحيحة."

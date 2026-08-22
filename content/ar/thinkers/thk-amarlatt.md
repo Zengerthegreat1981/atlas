@@ -14,7 +14,7 @@ active_end: 2011
 edges:
   - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
 related:
-  - id: "tec-mbrp", title: "منع الانتكاس القائم على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
+  - id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
   - id: "thk-kwitkiewitz", title: "كايتي ويتكيفيتش", type: "مفكر"
   - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:

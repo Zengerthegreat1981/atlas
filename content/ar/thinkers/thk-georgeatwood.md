@@ -15,8 +15,8 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
   - rel: "belongs_to", target: "البين-ذاتية", target_type: "تيار"
 related:
-  - id: "thk-stolorow", title: "ر. سْتولورُو", type: "مفكر"
-  - id: "thk-kohut", title: "هَينز كُوهوت", type: "مفكر"
+  - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
+  - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 gaps:
   - "تلخيص فكرة الأنا بوصفها منظومة وهمية (Illusory system) لم يُراجَع بعد في مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

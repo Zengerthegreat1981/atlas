@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
 related:
-  - id: "thk-sporges", title: "ستيفن و. بورجز", type: "مفكر"
+  - id: "thk-sporges", title: "ستيفن بورجِس", type: "مفكر"
   - id: "wrk-polyvagal-theory-therapy", title: "النظرية العصبية المبهمة في العلاج", type: "عمل / كتاب"
   - id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم", type: "مفهوم"
 gaps:

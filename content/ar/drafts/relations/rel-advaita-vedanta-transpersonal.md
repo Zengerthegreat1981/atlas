@@ -14,7 +14,7 @@ edges:
   - rel: "relates_to", target: "علم النفس عبر الشخصي (Transpersonal Psychology)", target_type: "مدرسة"
 related:
   - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
-  - id: "thk-kgrof", title: "ستانislav غروف", type: "مفكر"
+  - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
   - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
   - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (تيار)", type: "تيار"
 gaps:

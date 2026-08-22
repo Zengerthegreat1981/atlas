@@ -13,8 +13,8 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-sullivan", title: "هاري سَالِفان", type: "مفكر"
-  - id: "thk-fromm", title: "إِريك فْروم", type: "مفكر"
+  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
 ---

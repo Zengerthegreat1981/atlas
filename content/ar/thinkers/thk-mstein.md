@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-edinger", title: "إدوارد إيدينغر", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+  - id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"
 gaps:
   - "كتاب 'خريطة النفس' لموراي شتاين (Jung's Map of the Soul, 1998) والتحول في منتصف العمر."
 ---

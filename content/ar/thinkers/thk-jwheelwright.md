@@ -13,8 +13,8 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-jhenderson", title: "جوزيف هندرسون", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
+  - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
+  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره الدقيق في «انشقاق SF» 1982 (لجنة Stein–Edinger) يحتاج تحقيقاً معمارياً إضافياً."

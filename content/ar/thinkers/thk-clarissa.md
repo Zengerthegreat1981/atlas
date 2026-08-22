@@ -12,7 +12,7 @@ language: "الإسبانية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
   - id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
 gaps:

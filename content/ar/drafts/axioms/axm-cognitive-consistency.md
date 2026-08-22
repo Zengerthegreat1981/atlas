@@ -11,7 +11,7 @@ edges:
   - rel: "relates_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
   - rel: "formulated_by", target: "ليون فستنجر", target_type: "مفكر"
 related:
-  - id: "thk-festinger", title: "ليون فستنجر", type: "مفكر"
+  - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
   - id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر للتنافر المعرفي", type: "دراسة وبحث"
   - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
 gaps:

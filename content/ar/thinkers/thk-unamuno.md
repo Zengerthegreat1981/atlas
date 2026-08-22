@@ -14,7 +14,7 @@ country: "إسبانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "كيركيغارد", type: "مفكر"
+  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
   - id: "con-meaning", title: "المعنى", type: "مفهوم"
   - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
   - id: "thk-zambrano", title: "ماريا ثامبرانو", type: "مفكر"

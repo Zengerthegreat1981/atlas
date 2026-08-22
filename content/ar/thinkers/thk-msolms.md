@@ -16,8 +16,8 @@ edges:
   - rel: "belongs_to", target: "علم النفس العصبي التحليلي", target_type: "تيار"
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-panksepp", title: "جَاك بَانْكِسِب", type: "مفكر"
-  - id: "thk-adamasio", title: "أَنْطُونيو داماسيو", type: "مفكر"
+  - id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
+  - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
 gaps:
   - "ترجمة علم النفس العصبي للأحلام (1997) لم تُراجع بعد تفصيلاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

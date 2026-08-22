@@ -18,7 +18,7 @@ edges:
 related:
   - id: "thk-arthur-brooks", title: "آرثر بروكس", type: "مفكر"
   - id: "thk-oprah-winfrey", title: "أوپرا وينفري", type: "مفكر"
-  - id: "con-happiness", title: "السعادة", type: "مفهوم"
+  - id: "wrk-authentic-happiness", title: "السعادة الحقيقية (سيليجمان)", type: "عمل / كتاب"
 gaps:
   - "الجذور العلمية (الأبحاث الأصلية لبروكس عن السعادة في Harvard) لم تُوثَّق بدقة في هذا الملف."
   - "الفرق بين 'السعادة المُدركة' و'الرضا الوجودي' كبناءين نفسيين متميزين لم يُحلَّل."

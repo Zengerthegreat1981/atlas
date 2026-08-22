@@ -18,7 +18,7 @@ edges:
 related:
   - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
   - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "thk-rousseau", title: "جان جاك روسّو", type: "مفكر"
+  - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
   - id: "thk-locke", title: "جون لوك", type: "مفكر"
 gaps:
   - "الجلسات البرلمانية في بوردو (1714-1726) لم تُوثّق بدقة كافية."

@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
-  - id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
+  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+  - id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

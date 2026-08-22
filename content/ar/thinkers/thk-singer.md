@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jhenderson", title: "جوزيف هندرسون", type: "مفكر"
+  - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
   - id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
   - id: "con-cultural-complex", title: "المركّب الثقافي", type: "مفهوم"
 gaps:

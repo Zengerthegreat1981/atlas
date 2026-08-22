@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
   - id: "thk-schutz", title: "ألفريد شوتز", type: "مفكر"
 gaps:

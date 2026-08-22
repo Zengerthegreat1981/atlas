@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
   - rel: "belongs_to", target: "العلاج التكاملي", target_type: "مدرسة"
 related:
-  - id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
+  - id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
   - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة والإسهامات اللاحقة بعد 2010 لم تُراجع من مصدر أولي مباشر."

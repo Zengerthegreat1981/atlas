@@ -13,7 +13,7 @@ edges:
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "con-pleasure", title: "اللذة", type: "مفهوم"
-  - id: "con-pain", title: "الألم", type: "مفهوم"
+  - id: "con-social-pain", title: "الألم الاجتماعي", type: "مفهوم"
 gaps:
   - "الفرق بين المبدأ الهيدوني الفرويدي والمذهب النفعي (Bentham) يحتاج تحليلاً فلسفياً معمارياً."
   - "نظرية 'دائرة المكافأة' (Reward Circuitry) المُعاصرة توسّع المبدأ بأساس عصبي."

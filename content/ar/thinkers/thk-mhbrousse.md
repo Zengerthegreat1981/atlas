@@ -12,8 +12,8 @@ language: "الفرنسية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
-  - id: "thk-jamiller", title: "جاك-ألان ميلر", type: "مفكر"
+  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+  - id: "thk-jamiller", title: "جاك-أَلان ميلِّر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

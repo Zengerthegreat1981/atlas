@@ -17,7 +17,7 @@ edges:
   - rel: "founded", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
 related:
   - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
-  - id: "thk-james", title: "وليام جيمس", type: "مفكر"
+  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
   - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 gaps:
   - "الأعمال المبكرة (1859-1867) لم تُراجع بدقة كافية."

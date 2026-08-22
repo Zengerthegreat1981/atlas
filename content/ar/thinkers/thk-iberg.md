@@ -14,7 +14,7 @@ active_end: 2007
 edges:
   - rel: "belongs_to", target: "العلاج القصير المرتكز على الحل (SFBT)", target_type: "مدرسة"
 related:
-  - id: "thk-sdeshazer", title: "ستيف دي شيزر", type: "مفكر"
+  - id: "thk-sdeshazer", title: "ستيف دي شيزَر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

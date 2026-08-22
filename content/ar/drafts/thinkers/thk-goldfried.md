@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
 related:
   - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
-  - id: "thk-beck", title: "آرون بيك", type: "مفكر"
+  - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان لم تُراجعا من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

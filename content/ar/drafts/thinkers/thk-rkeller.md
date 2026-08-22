@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:
   - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
-  - id: "thk-lcozolino", title: "لويس كوزولينو", type: "مفكر"
+  - id: "thk-lcozolino", title: "لويس كوتزولينو", type: "مفكر"
 gaps:
   - "هذا الاسم مُتَرجَم — الهوية الدقيقة لم تُتأكد."
   - "سنوات الميلاد لم تُراجع من مصدر أولي."

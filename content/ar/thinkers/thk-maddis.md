@@ -14,8 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-cmartell", title: "كريستوفر مارتل", type: "مفكر"
-  - id: "thk-njacobson", title: "نيل جاكوبسون", type: "مفكر"
+  - id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
+  - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
   - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."

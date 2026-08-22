@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-donbaer", title: "دونالد باير", type: "مفكر"
+  - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
   - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
 gaps:
   - "تاريخ الميلاد والوفاة الدقيقان غير متاحين في المصادر المتاحة."

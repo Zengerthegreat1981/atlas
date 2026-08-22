@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الفلسفة التجريبية (Experimental Philosophy / X-Phi)", target_type: "مدرسة"
 related:
-  - id: "sch-experimental-philosophy", title: "الفلسفة التجريبية (Experimental Philosophy / X-Phi)", type: "مدرسة"
+  - id: "sch-experimental-philosophy", title: "الفلسفة التجريبية (X-Phi)", type: "مدرسة"
 gaps:
   - "تفاصيل 'تأثير نوب' (Knobe effect) في دراسات متعدّدة اللغات لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'الفلسفة التجريبية' (2008)."

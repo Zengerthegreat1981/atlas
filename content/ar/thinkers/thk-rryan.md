@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
 related:
-  - id: "thk-edeci", title: "إِدوارد دِيكُونِي", type: "مفكر"
+  - id: "thk-edeci", title: "إدوارد ديسي", type: "مفكر"
 gaps:
   - "تفاصيل تطبيق النظرية (SDT) في مجال الصحة لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

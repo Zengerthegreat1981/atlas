@@ -14,7 +14,7 @@ country: "ألمانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
+  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
   - id: "con-meaning", title: "المعنى", type: "مفهوم"
   - id: "thk-dostoevsky", title: "فيودور دوستويفسكي", type: "مفكر"
   - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"

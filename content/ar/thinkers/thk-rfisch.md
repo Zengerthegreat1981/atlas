@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "العلاج الأسري الاستراتيجي (MRI/Palo Alto)", target_type: "مدرسة"
 related:
   - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
-  - id: "thk-jweakland", title: "جون ويكلاند", type: "مفكر"
+  - id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

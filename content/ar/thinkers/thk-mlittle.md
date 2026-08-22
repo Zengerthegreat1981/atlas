@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
+  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
   - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."

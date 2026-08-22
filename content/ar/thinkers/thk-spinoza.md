@@ -18,7 +18,7 @@ edges:
 related:
   - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
   - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
-  - id: "thk-leibniz", title: "غوتفريد لايبنتز", type: "مفكر"
+  - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
 gaps:
   - "العلاقة بين 'Ethics' و'Tractatus Theologico-Politicus' تحتاج مراجعة منهجية."
   - "لا يوجد اقتباس مباشر موثوق من 'Deus sive Natura' بعد."

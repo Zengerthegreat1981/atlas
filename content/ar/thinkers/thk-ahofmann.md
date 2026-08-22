@@ -14,7 +14,7 @@ active_end: 2008
 edges:
   - rel: "belongs_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
 related:
-  - id: "thk-rmdoblin", title: "ريك دبلن", type: "مفكر"
+  - id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Sandoz لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

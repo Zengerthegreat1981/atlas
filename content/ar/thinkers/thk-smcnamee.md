@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "البنائية الاجتماعية (Social Constructionism)", target_type: "مدرسة"
 related:
-  - id: "thk-kgergen", title: "كينيث غيرغن", type: "مفكر"
+  - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

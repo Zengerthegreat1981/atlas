@@ -15,7 +15,7 @@ edges:
   - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
 related:
   - id: "thk-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-  - id: "thk-foa", title: "إدنا فوا", type: "مفكر"
+  - id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

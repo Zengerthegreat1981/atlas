@@ -12,7 +12,7 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-bleuler-jung-assoc", title: "فرانتس ريكـلين", type: "مفكر"
 gaps:
   - "الدور المحدد لـ Baynes خلال الحرب العالمية الثانية (توفي 1943) وتأثيرها على بقاء المجتمع اليونغي في لندن غير موثّق بعمق."

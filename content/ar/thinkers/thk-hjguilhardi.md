@@ -5,14 +5,14 @@ type: "مفكر"
 level: "متوسط"
 title: "هيليو جوزيه غيلاردي"
 en: "Hélio José Guilhardi"
-crumb: "مدرسة التحليل النفسي ← الناس ← هيليو جوزيه غيلاردي"
+crumb: "السلوكية (Behaviorism) ← الناس ← هيليو جوزيه غيلاردي"
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-fkeller", title: "فريد كيلّر", type: "مفكر"
+  - id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
   - id: "thk-m-amatos", title: "ماريّا أميليا ماتوس", type: "مفكر"
   - id: "thk-rkerbauy", title: "راثيل كربّوي", type: "مفكر"
 gaps:

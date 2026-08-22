@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
   - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تفاصيل انفصاله 1912 (مع Adler ضد فرويد) — موضع بحث."

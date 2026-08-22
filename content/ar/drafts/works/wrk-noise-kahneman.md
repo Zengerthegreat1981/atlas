@@ -16,9 +16,9 @@ edges:
   - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
   - rel: "written_by", target: "دانيال كانيمان", type: "مفكر"
 related:
-  - id: "thk-daniel-kahneman", title: "دانيال كانيمان", type: "مفكر"
+  - id: "thk-kahneman", title: "دانيال كانيمان", type: "مفكر"
   - id: "wrk-thinking-fast-slow", title: "التفكير، السريع والبطيء", type: "عمل / كتاب"
-  - id: "con-judgment", title: "الحكم واتخاذ القرار", type: "مفهوم"
+  - id: "stu-kahneman-tversky-heuristics-biases", title: "دراسة كانمان وتفيرسكي للحدس والانحيازات المعرفية واستدلال التوافر والتثبيت", type: "دراسة وبحث"
 gaps:
   - "التفريق المنهجي بين 'الضوضاء' و'التحيز' في نموذج كانيمان يحتاج توضيحاً أكثر دقة."
   - "البروتوكولات المؤسسية 'لقمع الضوضاء' (Decision-Making Hygiene) تحتاج توثيقاً لدراسات الحالة."

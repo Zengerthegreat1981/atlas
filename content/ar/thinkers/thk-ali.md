@@ -12,7 +12,7 @@ language: "الصينية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-tkirsch", title: "توماس كيرش", type: "مفكر"
+  - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."

@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
-  - id: "thk-edinger", title: "إدوارد إيدينغر", type: "مفكر"
+  - id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"
   - id: "con-trauma", title: "الصدمة النفسية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متقدم"
 title: "فريد س. كيلّر"
 en: "Fred S. Keller"
-crumb: "مدرسة التحليل النفسي ← الناس ← فريد س. كيلّر"
+crumb: "السلوكية (Behaviorism) ← الناس ← فريد س. كيلّر"
 dates: "أمريكا · 1899–1996"
 country: "أمريكا"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
   - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-donbaer", title: "دونالد باير", type: "مفكر"
+  - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
   - id: "thk-m-amatos", title: "ماريّا أميليا ماتوس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

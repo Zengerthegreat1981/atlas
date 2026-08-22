@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
 related:
-  - id: "thk-kmorita", title: "موراتاكي موريتا", type: "مفكر"
+  - id: "thk-kmorita", title: "ماساتاكي موريتا", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

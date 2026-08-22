@@ -16,8 +16,8 @@ edges:
   - rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
 related:
   - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
-  - id: "thk-james", title: "وليام جيمس", type: "مفكر"
-  - id: "thk-peirce", title: "تشارلز بيرس", type: "مفكر"
+  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+  - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 gaps:
   - "العلاقة مع 'Institute for Social Research' (فرانكفورت) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Learning by Doing' بعد."

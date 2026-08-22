@@ -14,7 +14,7 @@ active_end: 1990
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
+  - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
   - id: "con-social-skills", title: "المهارات الاجتماعية", type: "مفهوم"
 gaps:
   - "تاريخ الميلاد والوفاة الدقيقان غير متاحين في المصادر المتاحة."

@@ -14,8 +14,8 @@ country: "ألمانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
+  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
   - id: "thk-aron", title: "ريمون آرون", type: "مفكر"
   - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
   - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"

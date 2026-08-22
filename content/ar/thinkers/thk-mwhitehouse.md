@@ -14,7 +14,7 @@ active_end: 1980
 edges:
   - rel: "belongs_to", target: "الحركة الأصيلة", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

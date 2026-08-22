@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "الفلسفة التجريبية (Experimental Philosophy / X-Phi)", target_type: "مدرسة"
 related:
-  - id: "sch-experimental-philosophy", title: "الفلسفة التجريبية (Experimental Philosophy / X-Phi)", type: "مدرسة"
+  - id: "sch-experimental-philosophy", title: "الفلسفة التجريبية (X-Phi)", type: "مدرسة"
 gaps:
   - "الفرق بين X-Phi التطوري (Nichols) وX-Phi المعياري (Knobe) لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'حدوس' (2008)."

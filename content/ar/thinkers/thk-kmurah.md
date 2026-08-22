@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-jhenderson", title: "جوزيف هندرسون", type: "مفكر"
-  - id: "thk-jwheelwright", title: "جوزيف ويلرايت", type: "مفكر"
+  - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
+  - id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
   - id: "thk-jkirsch", title: "جيمس كيرش", type: "مفكر"
 gaps:
   - "عنصر placeholder — كلّ جمعية أمريكية تستحق ملفاً مستقلاً."

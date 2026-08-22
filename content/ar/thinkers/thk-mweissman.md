@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج البيني-الشخصي (IPT)", target_type: "مدرسة"
 related:
-  - id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
+  - id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
 gaps:
   - "المساهمات اللاحقة بعد 2015 لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

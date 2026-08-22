@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
-  - id: "thk-ornstein", title: "بول أورنشتاين", type: "مفكر"
+  - id: "thk-ornstein", title: "بول ه. أورنشتاين", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

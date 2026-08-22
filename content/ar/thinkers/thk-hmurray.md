@@ -14,8 +14,8 @@ active_end: 1988
 edges:
   - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
 related:
-  - id: "thk-gallport", title: "جُوردُون أَلْبُورْت", type: "مفكر"
-  - id: "thk-maslow", title: "أَبْرَاهَام مَاسْلُو", type: "مفكر"
+  - id: "thk-gallport", title: "جوردون ألبورت", type: "مفكر"
+  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 gaps:
   - "تفاصيل اختبار التصوّر الموضوعي (TAT) لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

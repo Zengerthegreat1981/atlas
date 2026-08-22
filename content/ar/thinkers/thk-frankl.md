@@ -15,8 +15,8 @@ edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "dbt-meaning-found", title: "هل المعنى يُكتشَف؟", type: "جدل"
-  - id: "thk-langle", title: "لانغله", type: "مفكر"
+  - id: "dbt-meaning-found", title: "هل المعنى يُكتشَف أم يُصنَع؟", type: "جدل"
+  - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
   - id: "thk-lukas", title: "إليزابيث لوكاس", type: "مفكر"
   - id: "thk-batthyany", title: "ألكسندر باتياني", type: "مفكر"
   - id: "thk-pritz", title: "ألويس بريتز", type: "مفكر"

@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
+  - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
   - id: "thk-tmoore", title: "توماس مور", type: "مفكر"
   - id: "con-soul", title: "النفس", type: "مفهوم"
 gaps:

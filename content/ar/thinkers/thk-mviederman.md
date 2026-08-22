@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "التنويم التحليلي", target_type: "مدرسة"
 related:
-  - id: "thk-mwagreich", title: "موريس فيغوتش", type: "مفكر"
+  - id: "thk-mwagreich", title: "موريس هـ. فيغوتش", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

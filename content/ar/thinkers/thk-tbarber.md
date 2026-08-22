@@ -13,7 +13,7 @@ active_end: 2005
 edges:
   - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
 related:
-  - id: "thk-ihilgard", title: "إرنست هيلغارد", type: "مفكر"
+  - id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

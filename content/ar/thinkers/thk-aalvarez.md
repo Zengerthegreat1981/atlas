@@ -14,7 +14,7 @@ edges:
 related:
   - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
   - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-ftustin", title: "فرانسي تستن", type: "مفكر"
+  - id: "thk-ftustin", title: "فرانسي تَستن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

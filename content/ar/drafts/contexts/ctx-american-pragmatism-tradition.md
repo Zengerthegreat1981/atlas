@@ -14,7 +14,7 @@ related:
   - id: "thk-james", title: "وليام جيمس", type: "مفكر"
   - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
   - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
-  - id: "sch-pragmatism", title: "المدرسة البراغماتية", type: "مدرسة"
+  - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 gaps:
   - "تأسيس 'نادي الميتافيزيقا' في كامبريدج ماساتشوستس عام 1872 كحاضنة لانطلاق البراغماتية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
+  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
   - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."

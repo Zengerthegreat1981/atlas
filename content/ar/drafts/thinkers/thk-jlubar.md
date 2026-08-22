@@ -14,7 +14,7 @@ active_end: 2010
 edges:
   - rel: "belongs_to", target: "التغذية الراجعة العصبية", target_type: "مدرسة"
 related:
-  - id: "thk-ssterman", title: "ستيرمان ستيرمان", type: "مفكر"
+  - id: "thk-ssterman", title: "ماريو ستيرمان", type: "مفكر"
   - id: "thk-sothmer", title: "سيغفريد أوتمر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."

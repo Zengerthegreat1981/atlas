@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس الإيجابي (Seligman)", target_type: "مدرسة"
 related:
-  - id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
+  - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

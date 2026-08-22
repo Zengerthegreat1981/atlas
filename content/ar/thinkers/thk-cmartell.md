@@ -14,10 +14,10 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-njacobson", title: "نيل جاكوبسون", type: "مفكر"
-  - id: "thk-maddis", title: "مايكل آديس", type: "مفكر"
+  - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
+  - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
   - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
-  - id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم)", type: "مفهوم"
+  - id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

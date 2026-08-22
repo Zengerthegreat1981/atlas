@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
-  - id: "thk-rkovarsky", title: "ريكوردو كوفارسكي", type: "مفكر"
+  - id: "thk-rkovarsky", title: "رِكُورْدو كوفارسكي", type: "مفكر"
 gaps:
   - "عنصر placeholder — أسماء المحرِّرين الفعليين لـ Rivista di Psicologia Analitica بحاجة لتحديد."
 ---

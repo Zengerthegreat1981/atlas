@@ -14,7 +14,7 @@ edges:
   - rel: "belongs_to", target: "علاج الصدمة العصبي", target_type: "مدرسة"
 related:
   - id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
-  - id: "thk-bperry", title: "بروس بيري", type: "مفكر"
+  - id: "thk-bperry", title: "بروس د. بيري", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

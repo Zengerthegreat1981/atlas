@@ -14,8 +14,8 @@ country: "النمسا / ألمانيا / إسرائيل"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة العلاجية", type: "مفهوم"
-  - id: "thk-marcel", title: "غابرييل مارسيل", type: "مفكر"
+  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+  - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
   - id: "thk-madinier", title: "غابرييل مادينييه", type: "مفكر"
   - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
   - id: "thk-lainentralgo", title: "بيدرو لاين إنترالغو", type: "مفكر"

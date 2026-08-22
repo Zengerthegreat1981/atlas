@@ -14,7 +14,7 @@ active_end: 2015
 edges:
   - rel: "belongs_to", target: "علم النفس التحليلي اليونغي", target_type: "مدرسة"
 related:
-  - id: "thk-shalit", title: "إرل شاليت", type: "مفكر"
+  - id: "thk-shalit", title: "إيريل شاليت", type: "مفكر"
   - id: "thk-abramovitch", title: "هنري أبراموفيتش", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق لم يُراجع من مصدر أولي."

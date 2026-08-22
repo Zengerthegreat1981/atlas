@@ -12,8 +12,8 @@ language: "الإنجليزية"
 edges:
   - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+  - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
+  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
   - id: "thk-blbettner", title: "بيتي لو بيتنر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة 1925 وفق مصادر متفرقة، تحتاج تأكيداً."

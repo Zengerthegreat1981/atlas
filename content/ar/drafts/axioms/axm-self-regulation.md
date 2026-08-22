@@ -14,11 +14,11 @@ edges:
 related:
   - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
   - id: "thk-roy-baumeister", title: "روي بوميستر", type: "مفكر"
-  - id: "con-self-regulation", title: "التنظيم الذاتي", type: "مفهوم"
-  - id: "con-willpower", title: "قوة الإرادة", type: "مفهوم"
+  - id: "wrk-willpower-baumeister", title: "قوة الإرادة: إعادة اكتشاف أعظم قوة بشرية", type: "عمل / كتاب"
 gaps:
   - "الفرق بين نظرية بوميستر 'العضل الإرادي' (1998) ونظرية 'الاستنزاف' (Ego Depletion) اللاحقة المنقوصة يحتاج تحليلاً."
   - "النماذج المُعاصرة (Tempest in a Teapot, Inzlicht 2015) التي تنقض 'الاستنزاف' لم تُمثَّل."
+  - "التنظيم الذاتي كبناء إجرائي مستقل يعالج من خلال أبحاث باندورا وبوميستر."
 ---
 
 # بديهية التنظيم الذاتي

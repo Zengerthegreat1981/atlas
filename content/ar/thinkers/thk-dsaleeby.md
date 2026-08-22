@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "العلاج القائم على القوة (Strengths-Based)", target_type: "مدرسة"
 related:
-  - id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
+  - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق غير موثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

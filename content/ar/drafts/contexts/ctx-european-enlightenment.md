@@ -14,7 +14,7 @@ related:
   - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
   - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
   - id: "thk-voltaire", title: "فولتير", type: "مفكر"
-  - id: "sch-empiricism-british", title: "التجريبية البريطانية", type: "مدرسة"
+  - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
 gaps:
   - "الجدل بين التنوير الراديكالي (سبينوزا) والتنوير المعتدل (لوك وفولتير)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

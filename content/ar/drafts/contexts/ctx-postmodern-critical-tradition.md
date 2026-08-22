@@ -14,7 +14,7 @@ related:
   - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
   - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
   - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
-  - id: "sch-postmodernism", title: "ما بعد الحداثة", type: "مدرسة"
+  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
 gaps:
   - "تأثير كتاب 'تاريخ الجنون في العصر الكلاسيكي' لفوكو في إطلاق حركة ضد الطب النفسي (Anti-Psychiatry)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

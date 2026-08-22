@@ -17,7 +17,7 @@ edges:
 related:
   - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-agreen", title: "أَنْدِرِيه غرين", type: "مفكر"
+  - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
 gaps:
   - "مفهوم الروابط (Les liens) يحتاج مراجعة مفصّلة لتطبيقاته في العقد الأول من الألفية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

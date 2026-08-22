@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
 related:
-  - id: "thk-hmosak", title: "هَارْوَلْد مُوسَاك", type: "مفكر"
+  - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
 gaps:
   - "تفاصيل مقالاته في مجلة علم النفس الفردي لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

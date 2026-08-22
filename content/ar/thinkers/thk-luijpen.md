@@ -14,7 +14,7 @@ language: "الهولندية / الإنجليزية"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
   - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
   - id: "con-freedom", title: "الحرية", type: "مفهوم"
   - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"

@@ -12,7 +12,7 @@ country: "فرنسا"
 edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-pontalis", title: "جان-برتران بونتاليس", type: "مفكر"
+  - id: "thk-pontalis", title: "جان-بيرتران بونتالي", type: "مفكر"
   - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
   - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:

@@ -16,7 +16,7 @@ edges:
   - rel: "belongs_to", target: "علم النفس التحليلي اللاتيني", target_type: "تيار"
 related:
   - id: "thk-mlanger", title: "ماري لانغر", type: "مفكر"
-  - id: "thk-epichon", title: "إِرْنِسْتَو بِتْشُون-رِيفِيِيِر", type: "مفكر"
+  - id: "thk-epichon", title: "إنريكيه بيتشون-ريفيير", type: "مفكر"
 gaps:
   - "تأسيس مؤسسة الكلمة (Institución Palabra) لم يُراجَع بعد تفصيلاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

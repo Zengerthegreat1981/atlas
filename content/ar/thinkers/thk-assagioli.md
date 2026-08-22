@@ -15,9 +15,9 @@ edges:
   - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
   - rel: "developed", target: "التركيبية النفسية", target_type: "تيار"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
   - id: "thk-angyal", title: "أندراس أنجيال", type: "مفكر"
-  - id: "br-psychosynthesis", title: "التركيبية النفسية (أساجيولي)", type: "تيار"
+  - id: "br-psychosynthesis", title: "التركيب النفسي (أساجيولي)", type: "تيار"
 gaps:
   - "السيرة الذاتية التفصيلية قبل وصوله إلى روما وتأسيس المعهد الإيطالي للتركيبية النفسية لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

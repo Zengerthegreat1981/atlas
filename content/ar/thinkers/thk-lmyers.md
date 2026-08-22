@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
 related:
-  - id: "thk-jakhan", title: "نوبلز إيفانز هيل", type: "مفكر"
+  - id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
   - rel: "belongs_to", target: "مدرسة الأسماء (المنطقيون)", target_type: "مدرسة"
 related:
-  - id: "sch-mingjia", title: "مدرسة الأسماء (المنطقيون)", type: "مدرسة"
+  - id: "sch-mingjia", title: "مدرسة الأسماء / المنطقيون (Mingjia)", type: "مدرسة"
   - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«غونغسون لونغ» (thk-gongsun-long) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

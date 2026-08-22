@@ -13,7 +13,7 @@ edges:
   - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
 related:
   - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
-  - id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
+  - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
 gaps:
   - "عنصر placeholder — أسماء الرؤساء التاريخيين لـ ISAP-Zurich (2008–2012 Murray Stein) بحاجة لتحديد كاملة."
 ---

@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Body-Mind Centering", target_type: "مدرسة"
 related:
-  - id: "thk-jayres", title: "جين أيرس", type: "مفكر"
+  - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
