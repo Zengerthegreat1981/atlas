@@ -14,7 +14,7 @@ edges:
 related:
   - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
   - id: "tec-dbt-er-understanding-the-function-of-emotions", title: "وظائف المشاعر والانفعالات", type: "تقنية/تدخل علاجي"
-  - id: "school-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
