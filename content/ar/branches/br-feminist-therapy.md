@@ -16,6 +16,8 @@ edges:
 related:
   - id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
   - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+  - id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"
+  - id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
 gaps:
   - "المبدأ الجوهري: 'الشخصي هو سياسي' (The Personal is Political) وتحليل ديناميات القوة والنوع الاجتماعي."
   - "تفكيك التشخيصات النفسية الموجهة ضد النساء (كالهستيريا والمازوخية واضطراب الشخصية الحدية)."

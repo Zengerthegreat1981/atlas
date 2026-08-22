@@ -15,6 +15,7 @@ edges:
 related:
   - id: "thk-pwehman", title: "بول ويهَمان", type: "مفكر"
   - id: "thk-wanthony", title: "ويليام أنتوني", type: "مفكر"
+  - id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

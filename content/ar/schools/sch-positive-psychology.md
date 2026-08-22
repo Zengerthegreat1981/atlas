@@ -28,6 +28,7 @@ related:
   - id: "br-positive-psychology", title: "علم النفس الإيجابي (تيار)", type: "تيار"
   - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
   - id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
+  - id: "thk-bfredrickson", title: "باربرا فريدريكسون", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«نصو بيسشيكيان» (thk-peseschkian) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الجذور التاريخية لعلم النفس الإيجابي قبل Seligman (Maslow، Erikson، Rogers، Jahoda 1958) موثّقة لكن لم تُحلّل في هذا الملف."

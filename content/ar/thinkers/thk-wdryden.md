@@ -16,6 +16,7 @@ edges:
 related:
   - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
   - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+  - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في University of London لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,6 +13,8 @@ active_start: 1970
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
+related:
+  - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

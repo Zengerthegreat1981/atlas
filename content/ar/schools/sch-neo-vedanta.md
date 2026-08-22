@@ -19,6 +19,7 @@ related:
   - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
   - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
   - id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"
+  - id: "sch-neohinduism", title: "الهندوسية الجديدة (إصلاح القرن 19)", type: "مدرسة"
 gaps:
   - "نصوص Vivekānanda (Rāja Yoga) وS. Radhakrishnan تحتاج مراجعة من المصدر الأولي."
 ---

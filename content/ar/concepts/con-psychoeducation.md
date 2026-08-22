@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
   - id: "thk-jcawley", title: "جوليا كاولي", type: "مفكر"
+  - id: "br-psychoeducation", title: "التثقيف النفسي", type: "مفهوم"
 gaps:
   - "أول استخدام منهجي في سياق الطب النفسي (Anderson, Reiber, في السبعينيات) يستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

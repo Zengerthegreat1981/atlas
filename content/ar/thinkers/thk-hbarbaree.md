@@ -13,6 +13,8 @@ active_start: 1980
 active_end: 2015
 edges:
   - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+related:
+  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

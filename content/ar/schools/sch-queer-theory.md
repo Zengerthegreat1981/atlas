@@ -19,6 +19,7 @@ related:
   - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية", type: "مدرسة"
   - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
   - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
+  - id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
 gaps:
   - "نصوص Sedgwick, Butler, Halperin, Warner, Foucault (History of Sexuality) تحتاج مراجعة من المصدر الأولي."
 ---

@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
   - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+  - id: "thk-ldavidson", title: "لاري ديفيدسون", type: "مفكر"
 gaps:
   - "تاريخ 'Consumer/Survivor Movement' لم يُراجع من مصدر أولي."
   - "الفرق بين Peer Support وMutual Aid يستحق توثيقاً."

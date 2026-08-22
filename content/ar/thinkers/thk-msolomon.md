@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:
   - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+  - id: "br-interpersonal-neurobiology", title: "علم الأحياء العصبي البيني-الشخصي (IPNB)", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

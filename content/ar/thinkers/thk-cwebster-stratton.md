@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
   - id: "thk-ieyberg", title: "شيلا إيبيرغ", type: "مفكر"
+  - id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

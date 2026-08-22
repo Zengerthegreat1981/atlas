@@ -15,6 +15,7 @@ edges:
 related:
   - id: "thk-jcawley", title: "جوليا كاولي", type: "مفكر"
   - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
+  - id: "br-psychoeducation", title: "التثقيف النفسي", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

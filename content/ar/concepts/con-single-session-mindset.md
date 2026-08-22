@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
   - id: "thk-wbennett", title: "وين بينيت", type: "مفكر"
+  - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "مفهوم"
 gaps:
   - "نسبة الفكرة الرئيسية إلى Talmon (1990) أو تطورات حديثة تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

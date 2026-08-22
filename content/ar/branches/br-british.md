@@ -21,6 +21,7 @@ related:
   - id: "thk-spinelli", title: "سبينيللي", type: "مفكر"
   - id: "dbt-british-yalom", title: "خصومتها مع يالوم", type: "جدل"
   - id: "dbt-structures", title: "خصومة البنى", type: "جدل"
+  - id: "thk-ctaylor", title: "كريغ تايلور", type: "مفكر"
 gaps:
   - "تواريخ التأسيس والمجلات والبرامج بمصادرها — تحتاج تثبيتاً"
 ---

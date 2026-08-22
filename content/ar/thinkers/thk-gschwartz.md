@@ -15,6 +15,7 @@ edges:
 related:
   - id: "thk-darcy-woebot", title: "أليسون دارسي", type: "مفكر"
   - id: "thk-rpicard", title: "روزاليند بيكار", type: "مفكر"
+  - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

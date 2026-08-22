@@ -20,6 +20,7 @@ related:
   - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
   - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
   - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+  - id: "sch-eclecticism", title: "الانتقائية الهلنستية-الرومانية (Hellenistic-Roman Eclecticism)", type: "مدرسة"
 gaps:
   - "مصطلح 'الأفلاطونية الوسطى' وضعه الفيلسوف الفرنسي Paul Shorey (1903)، ولم يُستخدم في المصادر القديمة."
   - "أعمال الأفلاطونيين المتوسطين (خاصة Anticous، Alcimus، Severus) فُقدت بالكامل."

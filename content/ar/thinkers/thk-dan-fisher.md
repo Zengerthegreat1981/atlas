@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-recovery-oriented", target_type: "مدرسة"
 related:
   - id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
+  - id: "br-recovery-oriented", title: "الممارسة الموجَّهة نحو التعافي", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

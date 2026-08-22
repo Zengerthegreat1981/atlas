@@ -15,6 +15,7 @@ edges:
 related:
   - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
   - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
+  - id: "br-teacch", title: "TEACCH", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

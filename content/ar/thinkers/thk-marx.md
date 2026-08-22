@@ -2,7 +2,7 @@
 slug: "thk-marx"
 id: "THK-1516"
 type: "مفكر"
-part: "philosophy"
+part: "bridge"
 level: "متوسط"
 title: "كارل ماركس"
 en: "Karl Marx"
@@ -20,6 +20,8 @@ related:
   - id: "sch-hegel-left", title: "الهيغلية اليسارية", type: "مدرسة"
   - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
   - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+  - id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
+  - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نقد 'Critique of the Gotha Programme' ومراسلات ماركس-بارت لم تُراجع في الملف."

@@ -22,6 +22,8 @@ related:
   - id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
   - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
   - id: "sch-absurdism", title: "العبثية", type: "مدرسة"
+  - id: "sch-judaism-existential", title: "الفلسفة اليهودية الوجودية/الحوارية", type: "مدرسة"
+  - id: "con-being-toward-death", title: "الكينونة-نحو-الموت", type: "مفهوم"
 gaps:
   - "الحدود بين 'الوجودية' و'العبثية' و'الظاهراتية الوجودية' غير موحّدة في المراجع الفلسفية المختلفة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

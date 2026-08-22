@@ -17,6 +17,7 @@ edges:
 related:
   - id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
   - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
+  - id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
 gaps:
   - "نص Frontiers of Justice (2006) وCreating Capabilities (2011) يحتاجان مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

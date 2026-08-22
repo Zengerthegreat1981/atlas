@@ -11,6 +11,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
+related:
+  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "مفهوم"
 gaps:
   - "نسبة الإطار الرئيسي إلى Andrews وBonta تستحق توثيقاً (كندي، 1990s)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

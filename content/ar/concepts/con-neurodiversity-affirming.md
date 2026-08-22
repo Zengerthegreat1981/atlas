@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-neurodiversity-affirming", target_type: "تيار"
 related:
   - id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
+  - id: "br-neurodiversity-affirming", title: "الإرشاد التأكيدي للتنوّع العصبي", type: "مفهوم"
 gaps:
   - "نسبة الفكرة إلى Judy Singer (1998) أو Harvey Blume تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

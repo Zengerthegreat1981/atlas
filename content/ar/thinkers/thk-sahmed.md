@@ -13,6 +13,8 @@ active_start: 1998
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
+related:
+  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

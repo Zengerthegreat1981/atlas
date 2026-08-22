@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
   - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+  - id: "br-teacch", title: "TEACCH", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

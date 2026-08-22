@@ -18,6 +18,7 @@ related:
   - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
   - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
   - id: "sch-cosmopolitanism", title: "الكوزموبوليتية", type: "مدرسة"
+  - id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"
 gaps:
   - "نصوص Edward Said, Homi Bhabha, Gayatri Spivak, Dipesh Chakrabarty need review."
 ---

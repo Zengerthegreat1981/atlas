@@ -18,6 +18,7 @@ related:
   - id: "sch-mohism", title: "الموهية", type: "مدرسة"
   - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
   - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+  - id: "con-bian", title: "بيان (辯) — الجدل والتمييز", type: "مفهوم"
 gaps:
   - "نصوص Hui Shi وGongsun Long بُحثت هنا بالترجمة الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين 'المذهب المُسمّي' (Mingjia) و'المناطقة اللاحقون' (Later Mohists) ليس حاسماً في هذا الملف."

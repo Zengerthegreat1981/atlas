@@ -13,6 +13,7 @@ edges:
   - rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
 related:
   - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+  - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة وتاريخها المهني الكامل لم يُراجعان من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

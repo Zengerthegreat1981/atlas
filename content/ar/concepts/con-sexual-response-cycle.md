@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
   - id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
+  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين نموذج Masters-Johnson الأصلي (1966) ونموذج Kaplan المعدل (1979) يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

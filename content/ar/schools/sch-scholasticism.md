@@ -21,6 +21,8 @@ related:
   - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
   - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
   - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+  - id: "thk-anselm-canterbury", title: "أنسيلم من كانتربري", type: "مفكر"
+  - id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
 gaps:
   - "نصوص أنسيلم وأكوييناس باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Summa Theologica' أو 'Proslogion'."

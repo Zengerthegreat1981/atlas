@@ -17,6 +17,7 @@ related:
   - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
   - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء هرم التعرّض", type: "تقنية/تدخل علاجي"
   - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
 gaps:
   - "المقارنة بين الموسّعات البلاستيكية والسيليكون والـ Vibrator-assisted dilation في الفعالية لم تُراجَع في دراسات حديثة كبيرة."
   - "البروتوكولات المكيّفة للناجيات من الاعتداء الجنسي (PTSD-associated dyspareunia) مع العلاج بالصدمة (EMDR أو Somatic Experiencing) لم تُفصَّل."

@@ -14,6 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
+related:
+  - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

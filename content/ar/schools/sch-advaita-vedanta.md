@@ -20,6 +20,7 @@ related:
   - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
   - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
   - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+  - id: "con-atman", title: "آتْمان (النفس الفردية / الذات الحقيقية)", type: "مفهوم"
 gaps:
   - "نصوص شانكارا الأصلية (Upadeśa Sāhasrī, Brahmasūtra Bhāṣya, Bhagavad Gītā Bhāṣya) تحتاج مراجعة من المصدر الأولي."
 ---

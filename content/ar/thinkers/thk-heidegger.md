@@ -69,6 +69,8 @@ related:
   - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
   - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
   - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
+  - id: "con-being-toward-death", title: "الكينونة-نحو-الموت", type: "مفهوم"
+  - id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
 gaps:
   - "التواريخ والطبعات والترجمات العربية — لم تُدخل"
 ---

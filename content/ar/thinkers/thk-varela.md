@@ -13,6 +13,7 @@ edges:
   - rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
 related:
   - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+  - id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "مفكر"
 gaps:
   - "المسار الفكري من autopoiesis إلى neurophenomenology مُعقّد، يستحق مصدراً أوسع."
   - "تأثيره على Therapy الفعلي أقل مباشرة من تأثيره على الفلسفة."

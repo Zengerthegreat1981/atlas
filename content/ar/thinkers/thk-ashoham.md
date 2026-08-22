@@ -13,6 +13,8 @@ active_start: 1980
 active_end: 2010
 edges:
   - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
+related:
+  - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

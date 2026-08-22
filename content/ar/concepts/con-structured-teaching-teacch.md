@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
   - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+  - id: "br-teacch", title: "TEACCH", type: "مفهوم"
 gaps:
   - "التمييز الدقيق بين TEACCH كنظام خدمات وStructured Teaching كأسلوب يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

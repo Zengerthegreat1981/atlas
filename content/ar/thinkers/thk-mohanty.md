@@ -17,6 +17,7 @@ edges:
 related:
   - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
   - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
+  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
 gaps:
   - "نصوص Mohanty (Under Western Eyes, Feminism Without Borders) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

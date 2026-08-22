@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
   - id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
+  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "مفهوم"
 gaps:
   - "الفصل الدقيق بين نموذج Marlatt الأصلي (1985) وتطبيقاته على الجريمة الجنسية يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

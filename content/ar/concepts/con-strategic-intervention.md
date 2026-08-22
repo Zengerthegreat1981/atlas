@@ -13,6 +13,7 @@ edges:
 related:
   - id: "thk-jhaley", title: "بول واتزلاويك", type: "مفكر"
   - id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
+  - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "مفهوم"
 gaps:
   - "التمييز الدقيق بين 'Strategic' و'Tactical' في النموذج المعاصر يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

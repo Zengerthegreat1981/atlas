@@ -23,6 +23,11 @@ related:
   - id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
   - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
   - id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+  - id: "sch-fichte", title: "الفيختية", type: "مدرسة"
+  - id: "sch-schelling", title: "الشيلنغية", type: "مدرسة"
+  - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
+  - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
+  - id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
 gaps:
   - "المظلة الإجرائية لمذهب واسع ومتنازع عليه؛ الفترة النهائية (1815–1831) أقل توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

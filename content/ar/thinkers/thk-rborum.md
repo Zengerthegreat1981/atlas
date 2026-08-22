@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
   - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
+  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

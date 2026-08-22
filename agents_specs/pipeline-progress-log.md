@@ -2140,3 +2140,22 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - `content/ar/schools/sch-positive-psychology.md`: يحتوي على إحالة لـ `thk-peseschkian` (المعتمد الصحيح: `thk-npeseschkian`).
     - `content/ar/schools/sch-gestalt-therapy.md`: يحتوي على إحالة لـ `thk-kohler` (المعتمد الصحيح: `thk-wkohler`).
 
+
+- [2026-08-22] **مسار MiniMax — المهمة 1 + المهمة 2 + الإصلاح الجانبي (`minimax-bridge-and-orphans-pipeline.md`)**
+  - **المهمة 1 — تعميق قسم الجسر (Bridge):**
+    - فحص 4 مرشحين: `thk-james-william`، `thk-merleau-ponty`، `thk-gbateson`، `thk-fromm`.
+    - **القرار:** `thk-james-william` → `part: "bridge"` (مؤسِّس مزدوج للوظيفية النفسية + البراغماتية، ليس معالجاً إكلينيكياً). `thk-merleau-ponty` يبقى philosophy (مؤثر لكن ليس حالة وسطى). `thk-gbateson` يبقى psychology (باحث في مؤسسة علاجية). `thk-fromm` يبقى psychology (محلل نفسي ممارس).
+    - **التطبيق:** `content/ar/thinkers/thk-james-william.md` — تعديل `part` (philosophy → bridge) و `crumb` فقط.
+    - **ملاحظات موثَّقة في `bridge-backlog.md`:** تناقض `thk-marx` (part: philosophy في الملف vs. bridge في backlog)، ملف مكرَّر `thk-james` (THK-0379) مع `thk-james-william`، توصية بإضافة `part: philosophy` صراحةً لـ`thk-merleau-ponty`.
+  - **المهمة 2 — ربط العناصر المعزولة (Orphans):**
+    - **القاعدة:** تعريف "معزول" = عنصر معتمد بلا أي `related` بيشاور عليه من ملف آخر. فُحص 1,745 معزول في 3,885 ملف.
+    - **الذرّيّة الهيكلية الآلية (123 اتصال):** مسح ضوئي لـ`edges` (belongs_to/split_into/evolved_from/into) ومطابقة الأهداف بالـslugs الفعلية. 104 على مستوى الفروع (members → branches)، 19 على مستوى المدارس (4 مُصفَّاة كمطابقات عربية خاطئة).
+    - **الذرّيّة التحريرية عالية الثقة (80 اتصال):** قراءة 80 ملفاً يدوياً، إضافة المعزول إلى `related` المُحيلين (مدرسة، مفكِّر آخر، تيار). بدون تعديل جسم الملف.
+    - **الأرقام النهائية:** 1,745 → 1,669 معزول (-4.4%). -23 فرع، -10 مدارس، -27 مفهوم، -16 مفكِّر. 163 عمل و126 متلازمة و75 تقنية و70 أداة و64 حدث و49 اضطراب و35 جدل و16 نقد و25 علاقة و8 سياقات و3 بديهيات ظلّوا بدون معالجة (طبيعة إجرائية/سريرية لا تربطها علاقات بديهية).
+  - **الإصلاح الجانبي — `sch-psychoanalysis.md`:**
+    - المشكلة: `edges.split_into` كانت تستخدم أسماء عربية بدل الـslugs (`"التحليل النفسي الكلاسيكي"` بدل `br-classical-psychoanalysis`).
+    - التطبيق: تصحيح 8 split_into بـslugs الفعلية، إضافة `br-lacanian` و`br-relational-psychoanalysis` لـ`related` (كانا مفقودين رغم وجودهما في `split_into`)، توحيد عنوان `br-classical-psychoanalysis` مع عنوانه الفعلي في الملف.
+  - **محاولة worker ملغاة:** تفويض مهمّة ربط المعزولين إلى worker في الخلفية. الـworker أنتج 599 تغييرا خارج النطاق (كتابة محتوى، إعادة تسمية slugs من عمل Spark السابق) — أُلغيت كلها بـ`git checkout HEAD -- .` وأُعيد تطبيق الذرّيّتين الهيكلية والتحريرية يدوياً.
+  - **العمل المؤجَّل (~1,500 عنصر):** مفكرون ومفاهيم وأعمال متخصصة بدون روابط بديهية واضحة في الفهرس الحالي. التوصية: تمريرة لاحقة بقراءة كل ملف.
+  - **التقرير الكامل:** `agents_specs/minimax-orphans-connection-report.md` (21 KB، 7 أقسام: ملخّص، منهجية، تفصيل الاتصالات، أرقام، ما لم يُعالَج، قواعد مُستخلَصة، ملاحظات للناشرين).
+  - **السكريبتات الجديدة (5):** `scripts/minimax_orphan_audit.py` (فحص المعزولين)، `minimax_orphan_connect.py` (بحث هيكلي)، `minimax_school_connect.py` (مدارس مع تطابق عربي)، `minimax_apply_actions.py` + `minimax_apply_school.py` (تطبيق).

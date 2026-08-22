@@ -13,6 +13,8 @@ active_start: 1957
 active_end: 2001
 edges:
   - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+related:
+  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

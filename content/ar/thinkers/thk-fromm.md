@@ -19,6 +19,7 @@ related:
   - id: "con-freedom", title: "الحرية", type: "مفهوم"
   - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
   - id: "con-isolation", title: "العزلة", type: "مفهوم"
+  - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تحليله لآليات الهروب من الحرية (النزعة الامتثالية والسلطوية) يستحق توثيقاً موسعاً في المفاهيم."

@@ -16,6 +16,7 @@ edges:
 related:
   - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
   - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
+  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

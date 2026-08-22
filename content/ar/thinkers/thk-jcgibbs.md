@@ -16,6 +16,7 @@ edges:
 related:
   - id: "thk-krischer", title: "باري كريشر", type: "مفكر"
   - id: "thk-agoldstein", title: "أرنولد غولدشتاين", type: "مفكر"
+  - id: "br-aggression-treatment", title: "علاج العدوان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

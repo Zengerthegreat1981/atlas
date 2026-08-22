@@ -19,6 +19,7 @@ related:
   - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
   - id: "sch-victorines", title: "الفيكتورية", type: "مدرسة"
   - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+  - id: "thk-bernardo-chartres", title: "برنارد من شارتر", type: "مفكر"
 gaps:
   - "نصوص تييري من شارتر وبرنارد من شارتر باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Heptateuchon' أو 'De Mundi Universitate'."

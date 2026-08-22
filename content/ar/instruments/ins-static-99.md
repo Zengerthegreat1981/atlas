@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
   - id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
+  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "أداة قياس"
 gaps:
   - "الخصائص السيكومترية تستحق مراجعة من مصدر أولي (Phenix et al., 2016 مراجعة كبرى)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

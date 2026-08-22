@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "br-psychiatric-vocational-rehab", target_type: "تيار"
 related:
   - id: "thk-pwehman", title: "بول ويهَمان", type: "مفكر"
+  - id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

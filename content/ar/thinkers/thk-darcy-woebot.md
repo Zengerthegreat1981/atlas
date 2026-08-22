@@ -13,6 +13,7 @@ edges:
   - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:
   - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+  - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "تفاصيل مسيرتها بين أيرلندا وUCSF لم تُوثّق بالكامل."

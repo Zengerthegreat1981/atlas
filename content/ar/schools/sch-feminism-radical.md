@@ -18,6 +18,7 @@ related:
   - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
   - id: "sch-feminism-marxist", title: "النسوية الماركسية", type: "مدرسة"
   - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
+  - id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
 gaps:
   - "نصوص Firestone, Dworkin, MacKinnon, de Beauvoir (المرحلة اللاحقة) تحتاج مراجعة من المصدر الأولي."
 ---

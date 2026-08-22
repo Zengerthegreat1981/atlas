@@ -21,6 +21,7 @@ related:
   - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
   - id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
   - id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+  - id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 gaps:
   - "من 535 عملاً كتبها الرواقيون (حسب ديوغانس لايرتي 7.39) فُقد 99% منها — وصلتنا شذرات فقط."
   - "الرواقيون 'الجدد' (مثل Posidonius، Seneca، Marcus Aurelius) لم يكونوا جميعاً متّسقين مع المؤسّسين (Zenon, Cleanthes, Chrysippus)."

@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
 related:
   - id: "thk-krischer", title: "باري كريشر", type: "مفكر"
+  - id: "br-aggression-treatment", title: "علاج العدوان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

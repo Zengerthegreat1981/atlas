@@ -14,6 +14,8 @@ active_end: 2006
 edges:
   - rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
+related:
+  - id: "br-teacch", title: "TEACCH", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة تقريبية، تستحق توثيقاً."
   - "تفاصيل عمله مع Gary Mesibov في جامعة نورث كارولينا تستحق توثيقاً."

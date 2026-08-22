@@ -18,6 +18,7 @@ edges:
 related:
   - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
   - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
+  - id: "sch-judaism-existential", title: "الفلسفة اليهودية الوجودية/الحوارية", type: "مدرسة"
 gaps:
   - "نصوص يعقوب يوسف من بُلنويه وبرزالاف بالعبرية واليديشية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Tanya' أو 'Toldos Yaakov Yosef' في صياغة أصلية."

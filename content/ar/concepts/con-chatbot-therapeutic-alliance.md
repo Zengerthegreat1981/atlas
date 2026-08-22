@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:
   - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+  - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "مفهوم"
 gaps:
   - "مفهوم 'Working Alliance Inventory' المعدّل لـchatbot لم يُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

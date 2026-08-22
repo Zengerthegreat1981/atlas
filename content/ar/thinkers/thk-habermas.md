@@ -18,6 +18,7 @@ related:
   - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
   - id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
   - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
+  - id: "con-deliberative-democracy", title: "الديمقراطية التداولية", type: "مفهوم"
 gaps:
   - "نصوص Habermas (Theorie des kommunikativen Handelns, Faktizität und Geltung) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

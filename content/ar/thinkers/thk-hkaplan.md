@@ -16,6 +16,7 @@ edges:
 related:
   - id: "thk-wmasters", title: "وليام ماسترز", type: "مفكر"
   - id: "thk-vjohnson", title: "فرجينيا جونسون", type: "مفكر"
+  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "مفكر"
 gaps:
   - "سيرة حياتها (هولندا، النشأة في بيرويتش، عملها في مركز Payne Whitney) تستحق مراجعة من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

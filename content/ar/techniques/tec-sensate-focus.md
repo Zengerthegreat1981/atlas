@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
   - id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
+  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
 gaps:
   - "نسبة الفكرة إلى Masters-Johnson مباشرة تستحق توثيقاً (1970، في Human Sexual Inadequacy)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

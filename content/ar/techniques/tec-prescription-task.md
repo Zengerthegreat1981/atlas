@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
   - id: "con-strategic-intervention", title: "التدخل الاستراتيجي", type: "مفهوم"
+  - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "نسبة الاستخدام المنهجي الأول إلى MRI تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

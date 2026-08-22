@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
   - id: "thk-rdrake", title: "روبرت دريك", type: "مفكر"
+  - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

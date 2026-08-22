@@ -16,6 +16,7 @@ edges:
 related:
   - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
   - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+  - id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
 gaps:
   - "فلسفة ب. ف. سكينر في كتاب 'سلوك الكائنات' (1938) و'ما وراء الحرية والكرامة' (1971)."
   - "التحليل الوظيفي للسلوك الثلاثي (السوابق ABC: Antecedent, Behavior, Consequence) في التدخلات العلاجية."

@@ -16,6 +16,7 @@ edges:
 related:
   - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
   - id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
+  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "مفكر"
 gaps:
   - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

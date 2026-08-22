@@ -18,6 +18,7 @@ edges:
 related:
   - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
   - id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
+  - id: "thk-mhenry", title: "ميشيل هنري", type: "مفكر"
 gaps:
   - "لا يوجد تعريف 'رسمي' واحد للظاهراتية الجسدية كمدرسة مستقلة؛ المؤلفون يتداخلون مع ظاهراتية الجسد عند مِرلو-پونتي."
   - "العلاقة مع الجسدانية الأنثروبولوجية (Marcel Mauss، Mary Douglas) لم تُراجع من مصدر أولي."

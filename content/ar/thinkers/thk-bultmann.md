@@ -21,6 +21,7 @@ related:
   - id: "thk-macquarrie", title: "جون ماكواري", type: "مفكر"
   - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
   - id: "thk-barth", title: "كارل بارث", type: "مفكر"
+  - id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مشروعه في 'نزع الأسطورة' (Demythologization) وقراءة النصوص بأنطولوجيا هايدجر يستحق توثيقاً."

@@ -14,6 +14,8 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
 related:
+related:
+  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
 gaps:
   - "سنة الميلاد 1959 تقريبية، تستحق توثيقاً."
   - "دورها في تأطير «Critical Race Theory» يستحق توثيقاً."

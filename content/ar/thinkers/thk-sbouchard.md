@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
 related:
   - id: "thk-rizzo", title: "ألبرت «سكيب» ريزو", type: "مفكر"
+  - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

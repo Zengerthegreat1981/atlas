@@ -13,6 +13,8 @@ active_start: 1990
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "br-mst", target_type: "مدرسة"
+related:
+  - id: "br-mst", title: "العلاج متعدد الأنظمة (MST)", type: "مفكر"
 gaps:
   - "سنة الميلاد تم تقديرها تقريبياً من سياقات السيرة، يرجى التحقق من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

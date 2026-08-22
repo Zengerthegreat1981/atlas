@@ -23,6 +23,7 @@ related:
   - id: "sch-huayan", title: "هوايان (الصينية)", type: "مدرسة"
   - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
   - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+  - id: "sch-seon", title: "سيون الكورية", type: "مدرسة"
 gaps:
   - "نصوص Bodhidharma، Huineng (Platform Sutra)، Zhaozhou Congshen (Blue Cliff Record) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين الأسطورة والتاريخ في تأريخ Chan يستحق بحثاً نقدياً."

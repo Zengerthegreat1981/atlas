@@ -21,6 +21,7 @@ related:
   - id: "sch-bhedabheda", title: "بيدابيدا", type: "مدرسة"
   - id: "sch-shuddhadvaita", title: "شودهادفايتا", type: "مدرسة"
   - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+  - id: "con-atman", title: "آتْمان (النفس الفردية / الذات الحقيقية)", type: "مفهوم"
 gaps:
   - "نصوص Brahma Sūtra (لاباراسارا) وBrahma Sūtra Bhāṣya تحتاج مراجعة من المصدر الأولي."
 ---

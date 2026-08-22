@@ -13,6 +13,7 @@ edges:
 related:
   - id: "thk-wwhite", title: "وليام وايت", type: "مفكر"
   - id: "thk-dfisher", title: "دانيال فيشر", type: "مفكر"
+  - id: "br-recovery-oriented", title: "الممارسة الموجَّهة نحو التعافي", type: "مفهوم"
 gaps:
   - "نسبة النموذج إلى SAMHSA تستحق مراجعة (10 مبادئ نُشرت 2012)."
   - "التمييز بين «التعافي من المرض» (Clinical Recovery) و«التعافي الشخصي» (Personal Recovery) يستحق تفصيلاً."

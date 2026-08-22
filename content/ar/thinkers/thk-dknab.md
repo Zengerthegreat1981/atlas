@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
   - id: "thk-jcawley", title: "جوليا كاولي", type: "مفكر"
+  - id: "br-psychoeducation", title: "التثقيف النفسي", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

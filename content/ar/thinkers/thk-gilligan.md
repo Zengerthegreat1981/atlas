@@ -17,6 +17,8 @@ edges:
 related:
   - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
   - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
+  - id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
+  - id: "con-different-voice", title: "الصوت المختلف (In a Different Voice)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Harvard University Press الأصلية لـ *In a Different Voice* (1982)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

@@ -15,6 +15,7 @@ edges:
 related:
   - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
   - id: "thk-rdrake", title: "روبرت دريك", type: "مفكر"
+  - id: "br-case-management", title: "إدارة الحالات", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

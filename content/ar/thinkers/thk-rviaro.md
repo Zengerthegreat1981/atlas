@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
   - id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
+  - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

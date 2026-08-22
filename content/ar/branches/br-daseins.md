@@ -21,6 +21,7 @@ related:
   - id: "thk-boss", title: "بوس", type: "مفكر"
   - id: "dbt-boss-binswanger", title: "خصومتهما", type: "جدل"
   - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة"
+  - id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
 gaps:
   - "المصادر الأولية بالألمانية والفرنسية وترجماتها — لم تُدخل"
 ---

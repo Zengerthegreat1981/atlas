@@ -19,6 +19,8 @@ related:
   - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
   - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
   - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+  - id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
+  - id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 gaps:
   - "علاقة كانط بالثورة الفرنسية لم تُوثّق مباشرة."
   - "لا يوجد اقتباس مباشر موثوق من 'Kategorischer Imperativ' بعد."

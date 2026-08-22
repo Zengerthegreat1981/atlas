@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
 related:
   - id: "thk-kcrenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
+  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
 gaps:
   - "تفاصيل مسيرتها في Yale وOberlin تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

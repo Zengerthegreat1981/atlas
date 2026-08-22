@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+  - id: "con-affirmative-therapy", title: "العلاج التأكيدي (Affirmative Therapy)", type: "مفهوم"
 gaps:
   - "حذف APA من الـhomosexuality كـdisorder (1973) يستحق توثيقاً."
   - "العلاقة بين 'Gay-Affirmative' و'LGBTQ+ Affirmative' يستحق توضيحاً."

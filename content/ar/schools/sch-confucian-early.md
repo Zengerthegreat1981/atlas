@@ -19,6 +19,7 @@ related:
   - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
   - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
   - id: "sch-mohism", title: "الموهية", type: "مدرسة"
+  - id: "con-confucian-self", title: "الذات الكونفوشيوسية", type: "مفهوم"
 gaps:
   - "لم يُراجع من نص صيني كلاسيكي أصلي (المتون الأربعة، تشونغ تشيو) بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

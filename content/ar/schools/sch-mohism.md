@@ -19,6 +19,7 @@ related:
   - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
   - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
   - id: "sch-utilitarianism", title: "النفعية", type: "مدرسة"
+  - id: "con-bian", title: "بيان (辯) — الجدل والتمييز", type: "مفهوم"
 gaps:
   - "النصوص الأصلية لمو زي (Mozi) بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الصيني."
   - "تفاصيل التحوّل اللاحق إلى الفرع «المنطقي» (Later Mohists / Canoneers) لم تُحلّل من المصدر الأولي."

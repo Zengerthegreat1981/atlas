@@ -12,6 +12,7 @@ edges:
   - rel: "belongs_to", target: "br-psychiatric-vocational-rehab", target_type: "تيار"
 related:
   - id: "thk-pwehman", title: "بول ويهَمان", type: "مفكر"
+  - id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "مفهوم"
 gaps:
   - "نسبة النموذج إلى Drake وBond تستحق توثيقاً."
   - "التمييز الدقيق بين SE العام وIPS يستحق مراجعة."

@@ -14,6 +14,7 @@ edges:
   - rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
 related:
   - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+  - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "تقنية/تدخل علاجي"
 gaps:
   - "بروتوكول Bravemind الفعلي ومراحله الكاملة لم يُراجع من دليل رسمي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

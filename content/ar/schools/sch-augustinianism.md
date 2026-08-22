@@ -20,6 +20,7 @@ related:
   - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
   - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
   - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+  - id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
 gaps:
   - "نصوص أوغسطينوس اللاتينية الـ 100+ تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'De Trinitate' أو 'De Civitate Dei'."

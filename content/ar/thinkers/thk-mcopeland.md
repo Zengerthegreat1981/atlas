@@ -15,6 +15,7 @@ edges:
   - rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
   - id: "thk-dfisher", title: "دانيال فيشر", type: "مفكر"
+  - id: "br-peer-support", title: "الدعم النظير", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
