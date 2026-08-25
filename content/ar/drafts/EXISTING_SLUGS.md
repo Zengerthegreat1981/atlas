@@ -2,12 +2,12 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **6700** عنصراً (**6615** معتمد + **85** مسودة).
+الإجمالي: **6736** عنصراً (**6618** معتمد + **118** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
-## مفكر (2377)
+## مفكر (2413)
 
 - `thk-aabdelkhalek` — أمجد عبد الخالق — ✅ معتمد
 - `thk-aabrer` — كارل أبراهام — ✅ معتمد
@@ -59,6 +59,7 @@
 - `thk-akaptchuk` — تيد ج. كابتْشُك — ✅ معتمد
 - `thk-akelman` — أَميت ميمن (أَميت كلمان) — ✅ معتمد
 - `thk-aklinger` — أتسيلا كلاينغر — ✅ معتمد
+- `thk-al-attas` — سيد نقيب العطاس — 🕓 مسودة
 - `thk-al-biruni` — أبو الريحان البيروني — ✅ معتمد
 - `thk-al-farabi` — أبو نصر محمد بن محمد الفارابي — ✅ معتمد
 - `thk-al-ghazali` — أبو حامد محمد بن محمد الغزالي (حجة الإسلام) — ✅ معتمد
@@ -78,6 +79,7 @@
 - `thk-albert-einstein` — ألبرت أينشتاين — ✅ معتمد
 - `thk-albertellis-somatic` — إيمي فونتانا — ✅ معتمد
 - `thk-albertus-magnus` — القديس ألبيرتوس ماغنوس (ألبير الكبير) — ✅ معتمد
+- `thk-alecmiller` — أليك ميلر — ✅ معتمد
 - `thk-alemma` — أليساندرا لِمّا — ✅ معتمد
 - `thk-alexander-aphrodisias` — الإسكندر الأفروديسي — ✅ معتمد
 - `thk-alexandra-farkas` — ألكسندرا فاركاش — ✅ معتمد
@@ -93,6 +95,7 @@
 - `thk-amadiume` — إيفي أماديومي — ✅ معتمد
 - `thk-amarlatt` — ألان مارلات — ✅ معتمد
 - `thk-ambedkar` — بيماراو رامجي أمبيدكار — ✅ معتمد
+- `thk-amber-haque` — عمبر حق — 🕓 مسودة
 - `thk-amenemope` — أمِنْمُوپ — ✅ معتمد
 - `thk-amiller` — أليس ميلر — ✅ معتمد
 - `thk-amir-levine` — أمير ليفين — ✅ معتمد
@@ -272,6 +275,7 @@
 - `thk-boss` — ميدارد بوس — ✅ معتمد
 - `thk-bostrom` — نيك بوستروم — ✅ معتمد
 - `thk-boszormenyi` — إيفان بوسورميني-ناجي — ✅ معتمد
+- `thk-bourdieu` — بيير بورديو — 🕓 مسودة
 - `thk-bowlby` — جون بولبي — ✅ معتمد
 - `thk-boyesen` — غيردا بويزن — ✅ معتمد
 - `thk-bperry` — بروس د. بيري — ✅ معتمد
@@ -325,6 +329,7 @@
 - `thk-carta` — ستيفانو كارطا — ✅ معتمد
 - `thk-caruso` — إيغور كاروسو — ✅ معتمد
 - `thk-caruso-amedeo` — أَمدِيو كاروزو — ✅ معتمد
+- `thk-caspi` — أفشالوم كاسبي — 🕓 مسودة
 - `thk-cassirer` — إرنست كاسيرر — ✅ معتمد
 - `thk-castillejo` — إيرين كلارمونت دي كاستييخو — ✅ معتمد
 - `thk-cavasco` — كارلوس ألبيرتو فاسكو — ✅ معتمد
@@ -378,6 +383,7 @@
 - `thk-cleanthes` — كليانثس الأسوسي — ✅ معتمد
 - `thk-clhull` — كلارك هال — ✅ معتمد
 - `thk-cloemadanes` — كلوي مادانيس — ✅ معتمد
+- `thk-cloitre` — ماريلين كلواتر — 🕓 مسودة
 - `thk-cmadanes` — كلوي مادانس — ✅ معتمد
 - `thk-cmalchiodi` — كاثي مالكيودي — ✅ معتمد
 - `thk-cmartell` — كريستوفر ر. مارتل — ✅ معتمد
@@ -395,6 +401,7 @@
 - `thk-copleston` — فريدريك كوبلستون — ✅ معتمد
 - `thk-cora-zanuso` — كورا زانوسو (Cora Zanuso) — ✅ معتمد
 - `thk-corbett` — ليونيل كوربت — ✅ معتمد
+- `thk-corbin` — هنري كوربان — 🕓 مسودة
 - `thk-costa` — بول كوستا — 🕓 مسودة
 - `thk-cpeterson` — كريستوفر بيترسون — ✅ معتمد
 - `thk-cprata` — كارلو براتا — ✅ معتمد
@@ -443,6 +450,7 @@
 - `thk-david-berceli` — ديفيد بيرسيلي — ✅ معتمد
 - `thk-david-buss` — ديفيد باس — ✅ معتمد
 - `thk-david-chalmers` — ديفيد تشالمرز — ✅ معتمد
+- `thk-david-clark` — ديفيد إم. كلارك — 🕓 مسودة
 - `thk-david-erceg` — ديفيد إرسغ — ✅ معتمد
 - `thk-david-feldman` — ديفيد فيلدمان — ✅ معتمد
 - `thk-david-krauss` — ديفيد أ. كراوس — ✅ معتمد
@@ -540,6 +548,8 @@
 - `thk-duckworth` — أنجيلا دَكوورث — ✅ معتمد
 - `thk-duns-scotus` — يوحنا دونز سكوتوس (الدكتور سوتيل) — ✅ معتمد
 - `thk-duplock` — سايمون دو بلوك — ✅ معتمد
+- `thk-durkheim` — إميل دوركهايم — 🕓 مسودة
+- `thk-dwairy` — مروان دويري — 🕓 مسودة
 - `thk-dwallis` — ديفيد واليس — ✅ معتمد
 - `thk-dwchen` — دونغ-وي تشن — ✅ معتمد
 - `thk-dweck` — كارول دويك — ✅ معتمد
@@ -638,6 +648,7 @@
 - `thk-farber` — ليزلي فاربر — ✅ معتمد
 - `thk-farley` — إدوارد فارلي — ✅ معتمد
 - `thk-farrelly` — فرانك فاريلي — ✅ معتمد
+- `thk-fazlur-rahman` — فضل الرحمن — 🕓 مسودة
 - `thk-fberlin` — فريد برلين — ✅ معتمد
 - `thk-fc-schiller` — ف. س. س. شيلر — ✅ معتمد
 - `thk-fcaine` — فلورنس كاني — ✅ معتمد
@@ -790,6 +801,8 @@
 - `thk-gsmith` — غراهام سميث — ✅ معتمد
 - `thk-guattari` — فيليكس غواتاري — ✅ معتمد
 - `thk-guggenbuhl` — أدولف غوغنبوهل-كرايغ — ✅ معتمد
+- `thk-guidano` — فيتوريو غويدانو — 🕓 مسودة
+- `thk-gunderson` — جون غندرسون — 🕓 مسودة
 - `thk-gunnel-cederblad` — جونيل سيدِربلاد — ✅ معتمد
 - `thk-guntrip` — هاري غانترب — ✅ معتمد
 - `thk-guo-xiang` — قوه شيانغ — ✅ معتمد
@@ -798,6 +811,7 @@
 - `thk-gweber` — غونتهارد فيبر — ✅ معتمد
 - `thk-gweishaar` — إريك وايشار — ✅ معتمد
 - `thk-habermas` — يورغن هابرماس — ✅ معتمد
+- `thk-hacking` — إيان هاكينغ — 🕓 مسودة
 - `thk-hadi-sabzawari` — ملا هادي بن مهدي السبزواري — ✅ معتمد
 - `thk-hajime-tanabe` — هاجيمي تانيبي — ✅ معتمد
 - `thk-hakuin` — هاكوين إيكاكو — ✅ معتمد
@@ -875,6 +889,7 @@
 - `thk-hpalmer` — هاري بالمر — ✅ معتمد
 - `thk-hputnam` — هيلاري بوتنام — ✅ معتمد
 - `thk-hresneck` — هيلين رِسنِك-سانّيس — ✅ معتمد
+- `thk-hsampson` — هارولد سامبسون — ✅ معتمد
 - `thk-hschlesinger` — هربرت شليسنغر — ✅ معتمد
 - `thk-hsolomon` — هيستر م. سولومون — ✅ معتمد
 - `thk-hspotnitz` — هايمان سبوتنيتس — ✅ معتمد
@@ -938,6 +953,7 @@
 - `thk-isquella` — إيزابيل سكيلّا — ✅ معتمد
 - `thk-istansky` — إيروين سترانسكي — ✅ معتمد
 - `thk-iyengar` — بي. كيه. إس. آيَنغَر — ✅ معتمد
+- `thk-izetbegovic` — علي عزت بيغوفيتش — 🕓 مسودة
 - `thk-jabra` — جبرا إبراهيم جبرا — ✅ معتمد
 - `thk-jacobsen` — بو ياكوبسن — ✅ معتمد
 - `thk-jacobson` — إديث جاكوبسون — ✅ معتمد
@@ -1040,6 +1056,7 @@
 - `thk-jingqiyong` — يانغ ديشن — ✅ معتمد
 - `thk-jiva-goswami` — جيفا غوسوامي — ✅ معتمد
 - `thk-jjacobi` — يولاندا ياكوبي — ✅ معتمد
+- `thk-jjordan-suicide` — جون آر. جوردان — ✅ معتمد
 - `thk-jjoyce` — مارغريت بِي — ✅ معتمد
 - `thk-jkabat` — جون كابات-زين — ✅ معتمد
 - `thk-jkabat-zinn` — جون كابات-زين — ✅ معتمد
@@ -1102,7 +1119,7 @@
 - `thk-jpatterson` — جيرالد باترسون — ✅ معتمد
 - `thk-jpennebaker` — جيمس و. بينيبيكر — ✅ معتمد
 - `thk-jpotter` — جوناثان بوتر — ✅ معتمد
-- `thk-jramiro` — جي رامييرو — ✅ معتمد
+- `thk-jramiro` — جان-لوك رامارو — ✅ معتمد
 - `thk-jrathus` — جيل راثوس — ✅ معتمد
 - `thk-jrivett` — جوردان ريد — ✅ معتمد
 - `thk-jroddy` — ج. لوك ويلز — ✅ معتمد
@@ -1154,6 +1171,7 @@
 - `thk-kast` — فيرينا كاست — ✅ معتمد
 - `thk-kastenbaum` — روبرت كاستنباوم — ✅ معتمد
 - `thk-kastrinidis` — بيريكليس كاسترينيديس — ✅ معتمد
+- `thk-kathy-steele` — كاثي ستيل — 🕓 مسودة
 - `thk-kathylaurenceau` — كاثي لورنسو — ✅ معتمد
 - `thk-katie-laperriere` — كايتي لابيريير (Katie LaPerriere) — ✅ معتمد
 - `thk-katie-rae` — كايتي ري — ✅ معتمد
@@ -1170,7 +1188,9 @@
 - `thk-kelleycolleen` — كولين كيلي — ✅ معتمد
 - `thk-kelly-george` — جورج ألكسندر كيلي — ✅ معتمد
 - `thk-ken-blanchard` — كين بلانشارد — ✅ معتمد
+- `thk-kendler` — كينيث كندلر — 🕓 مسودة
 - `thk-kernberg` — أوتو كيرنبرغ — ✅ معتمد
+- `thk-keshavarzi` — هومان كشافرزي — 🕓 مسودة
 - `thk-kets` — مَنفرِد كِتس دي فريس — ✅ معتمد
 - `thk-kevin-sparger` — كيفن سپارجر — ✅ معتمد
 - `thk-kfeeney` — كيم فيني — ✅ معتمد
@@ -1204,6 +1224,7 @@
 - `thk-kmurah` — [مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA] — ✅ معتمد
 - `thk-knakamura` — كويتشي ناكامورا — ✅ معتمد
 - `thk-knoblauch` — [مؤسِّسو DGAP] DGAP founders (ألمانيا) — ✅ معتمد
+- `thk-koenig` — هارولد كونيغ — 🕓 مسودة
 - `thk-koestenbaum` — بيتر كوستنباوم — ✅ معتمد
 - `thk-kogan` — ريتشارد كوغان — ✅ معتمد
 - `thk-kohut` — هاينز كوهوت — ✅ معتمد
@@ -1243,6 +1264,7 @@
 - `thk-lahbabi` — محمد عزيز الحبابي — 🕓 مسودة
 - `thk-lainentralgo` — بيدرو لاين إنترالغو — ✅ معتمد
 - `thk-laing` — ر. د. لاينغ — ✅ معتمد
+- `thk-lambert` — مايكل لامبرت — 🕓 مسودة
 - `thk-langdridge` — دارين لانغريدج — ✅ معتمد
 - `thk-langer` — سوزان لانغر — ✅ معتمد
 - `thk-langle` — ألفريد لانغله — ✅ معتمد
@@ -1295,6 +1317,7 @@
 - `thk-lindatuhiwai` — ليندا توهيواي سميث — ✅ معتمد
 - `thk-lindsay-gibson` — ليندسي جيبسون — ✅ معتمد
 - `thk-linton` — رالف لينتون — ✅ معتمد
+- `thk-liotti` — جيوفاني ليوتي — 🕓 مسودة
 - `thk-lkohlberg` — لورنس كولبرغ — ✅ معتمد
 - `thk-lkuhn` — ليندا كون — ✅ معتمد
 - `thk-llosi` — لوكا لوزي — ✅ معتمد
@@ -1359,6 +1382,7 @@
 - `thk-mahoney` — ماريان ماهونِي — ✅ معتمد
 - `thk-maimonides` — موسى بن ميمون (رمبام) — ✅ معتمد
 - `thk-mainieri` — لينا ماينييري — ✅ معتمد
+- `thk-malan` — ديفيد مالان — 🕓 مسودة
 - `thk-malcolm-x` — مالكوم إكس (الحاج مالك الشباز) — ✅ معتمد
 - `thk-malebranche` — نيكولا مالبرانش — ✅ معتمد
 - `thk-mandana-misra` — ماندانا ميشرا (جسر الميمنسا وأدفايتا) — ✅ معتمد
@@ -1443,6 +1467,7 @@
 - `thk-mel-robbins` — ميل روبنز — ✅ معتمد
 - `thk-melanie-harned` — ميلاني هارنِد — ✅ معتمد
 - `thk-melanie-segall` — ميلاني سيغال — ✅ معتمد
+- `thk-melika` — لويس كامل مليكة — 🕓 مسودة
 - `thk-melissaschaefer` — ميليسا شيفر — ✅ معتمد
 - `thk-melissus` — ميليسوس الساموسي — ✅ معتمد
 - `thk-meltzer` — دونالد ميلتزر — ✅ معتمد
@@ -1521,6 +1546,7 @@
 - `thk-mnichols` — مايكل نيكولز — ✅ معتمد
 - `thk-mnitsun` — موريس نيتسون — ✅ معتمد
 - `thk-moacanin` — رادميلا موكانين — ✅ معتمد
+- `thk-moffitt` — تيري موفيت — 🕓 مسودة
 - `thk-mohammed-abed-al-jabri` — محمد عابد الجابري — ✅ معتمد
 - `thk-mohammed-arkoun` — محمد أركون — ✅ معتمد
 - `thk-mohanty` — شاندرا موهانتي — ✅ معتمد
@@ -1615,6 +1641,7 @@
 - `thk-nicholas-of-cusa` — نيكولاس الكوزاني — ✅ معتمد
 - `thk-nicotole` — نيكول تول — ✅ معتمد
 - `thk-nietzsche` — فريدريش نيتشه — ✅ معتمد
+- `thk-nijenhuis` — إيليرت نينهاوس — 🕓 مسودة
 - `thk-nimbarka` — نيمباركاشاريا — ✅ معتمد
 - `thk-nionescu` — ناي يونسكو — ✅ معتمد
 - `thk-niosepa` — نانا إيوسيبا — ✅ معتمد
@@ -1666,6 +1693,7 @@
 - `thk-papert` — سيمور بابِرت — ✅ معتمد
 - `thk-pappelbaum` — بول أبلباوم — ✅ معتمد
 - `thk-pareyson` — لويجي باريزون — ✅ معتمد
+- `thk-pargament` — كينيث بارغامنت — 🕓 مسودة
 - `thk-park` — كريستال بارك — ✅ معتمد
 - `thk-park-jiwon` — باك جيو-ون (تشو بيغنيو) — ✅ معتمد
 - `thk-parkjongik` — بارك جونغ-إيك — ✅ معتمد
@@ -1777,6 +1805,7 @@
 - `thk-quentin-meillassoux` — كونتين ميياسو — ✅ معتمد
 - `thk-qutb-al-din-al-shirazi` — قطب الدين محمود بن مسعود الشيرازي — ✅ معتمد
 - `thk-rachel-heller` — راشيل هيلر — ✅ معتمد
+- `thk-rachman` — ستانلي راكمان — 🕓 مسودة
 - `thk-rackoff` — راسل أكوف — ✅ معتمد
 - `thk-radhakrishnan` — سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي) — ✅ معتمد
 - `thk-rado` — ثيودور رادو — ✅ معتمد
@@ -1789,6 +1818,7 @@
 - `thk-randystabler` — راندي ستابلر — ✅ معتمد
 - `thk-rank` — أوتو رانك — ✅ معتمد
 - `thk-raphael` — د. د. رافائيل — ✅ معتمد
+- `thk-rassool` — حسين رسول — 🕓 مسودة
 - `thk-raul-fornet-betancourt` — راؤول فورنيت-بيتانكور (Raúl Fornet-Betancourt) — ✅ معتمد
 - `thk-rawls` — جون رولز — ✅ معتمد
 - `thk-raymond-cattell` — ريموند كاتل — 🕓 مسودة
@@ -1897,6 +1927,7 @@
 - `thk-rosenfeld` — هربرت روزنفيلد — ✅ معتمد
 - `thk-rosolato` — غي روزولاتو — ✅ معتمد
 - `thk-rothbaum` — باربارا أولسبي روثباوم — ✅ معتمد
+- `thk-rothman` — عبد الله روثمان — 🕓 مسودة
 - `thk-rothschild` — بابي روتشيلد — ✅ معتمد
 - `thk-rousseau` — جان جاك روسو — ✅ معتمد
 - `thk-roustang` — فرانسوا روستانغ — ✅ معتمد
@@ -1949,6 +1980,7 @@
 - `thk-sadreddin-konevi` — صدر الدين القونوي — ✅ معتمد
 - `thk-sahmed` — سارة أحمد — ✅ معتمد
 - `thk-said` — إدوارد سعيد — ✅ معتمد
+- `thk-salkovskis` — بول سالكوفسكيس — 🕓 مسودة
 - `thk-salmareading` — سالما ريدنغ — ✅ معتمد
 - `thk-salome` — لو أندرياس-سالومي — ✅ معتمد
 - `thk-samuels` — أندرو صاموئلز — ✅ معتمد
@@ -1995,6 +2027,7 @@
 - `thk-serlin` — إيلين سيرلين — ✅ معتمد
 - `thk-sextus-empiricus` — سكستوس إمبيريكوس — ✅ معتمد
 - `thk-seyberg` — ستيفن إيبِرغ — ✅ معتمد
+- `thk-seyyed-hossein-nasr` — سيد حسين نصر — 🕓 مسودة
 - `thk-sferenczi` — ساندور فيرينتسي — ✅ معتمد
 - `thk-sfinlay` — ستيفن فينلاي — ✅ معتمد
 - `thk-sgallagher` — شون غالاغر — ✅ معتمد
@@ -2018,6 +2051,7 @@
 - `thk-sharper` — سوزان هاربر — ✅ معتمد
 - `thk-sharron-hapai` — شارون هاپاي — ✅ معتمد
 - `thk-shaver` — فيليب شيفر — 🕓 مسودة
+- `thk-shedler` — جوناثان شيدلر — 🕓 مسودة
 - `thk-sheena-iyengar` — شينا إينغار — ✅ معتمد
 - `thk-shen-buhai` — شين بو هاي — ✅ معتمد
 - `thk-shenggeler` — سكوت هِنغلَر — ✅ معتمد
@@ -2029,6 +2063,7 @@
 - `thk-shneidman` — إدوين شنايدمان — ✅ معتمد
 - `thk-sicher` — ليديا سيشر — ✅ معتمد
 - `thk-sidneyjourdan` — سيدني جورارد — ✅ معتمد
+- `thk-sifneos` — بيتر سيفنيوس — 🕓 مسودة
 - `thk-siger-brabant` — سيجير دي برابانت — ✅ معتمد
 - `thk-simplicius` — سمبليكيوس القيليقي — ✅ معتمد
 - `thk-singer` — توماس سينغر — ✅ معتمد
@@ -2241,6 +2276,7 @@
 - `thk-vaihinger` — هانز فايغر — ✅ معتمد
 - `thk-valentinus` — فالنتينوس (مؤسس الفالنتينية) — ✅ معتمد
 - `thk-vallabha` — فالابهاشاريا — ✅ معتمد
+- `thk-van-der-hart` — أونو فان دير هارت — 🕓 مسودة
 - `thk-vandenberg` — يان هندريك فان دن بيرغ — ✅ معتمد
 - `thk-vandeurzen` — إيمي فان دورزن — ✅ معتمد
 - `thk-vankaam` — أدريان فان كام — ✅ معتمد

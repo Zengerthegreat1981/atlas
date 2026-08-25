@@ -217,6 +217,27 @@ def check(path, slugs):
     elif all(any(g_ in g for g_ in GENERIC_GAPS) for g in gaps):
         errs.append("كل مداخل gaps عامة — يجب تسمية الناقص بالضبط")
 
+    # --- 6-ب. كثافة المعلومة ---
+    # ملف قد يكون طويلاً ومنظَّماً وخالياً من أي واقعة قابلة للتحقق.
+    years   = len(re.findall(r'(?<!\d)\d{3,4}(?!\d)', body))       # سنوات
+    bolds   = len(re.findall(r'\*\*[^*\n]{2,60}\*\*', body))        # أعلام/مفاهيم مبرَّزة
+    italics = len(re.findall(r'\*[^*\n]{3,80}\*', body))            # عناوين أعمال
+    # عناوين الأعمال واقعة قابلة للتحقق تماماً كالسنة — وكثير من أعلام التراث العربي
+    # لا تُعرف سنو ميلادهم، فلا يجوز معاقبة الملف على أمانته في ذلك.
+    facts = years + bolds + italics
+    per1k = facts / max(len(body) / 1000, 1)
+    hedges = len(re.findall(
+        r'لا أملك|لا أستطيع|معرفتي به محدودة|غير مؤكَّد|احتمالي|إن صحّ|لم أتحقق|لا يوجد مصدر',
+        body))
+    if facts < 6:
+        errs.append(f"كثافة المعلومة منخفضة: {years} سنة و{bolds} علماً و{italics} عنواناً "
+                    f"في {len(body)} حرف — الملف منظَّم لكنه شبه خالٍ من وقائع قابلة للتحقق")
+    elif per1k < 3:
+        warns.append(f"كثافة المعلومة ضعيفة: {facts} واقعة لكل {len(body)} حرف")
+    if hedges >= 4:
+        errs.append(f"الملف يعترف بجهله {hedges} مرات في المتن — "
+                    f"مكانه طلب بحث لا مدخل موسوعي")
+
     # --- 7. السقّالات ---
     for s in SCAFFOLD:
         if s in t:

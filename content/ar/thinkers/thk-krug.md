@@ -7,11 +7,11 @@ title: "أورا كروغ"
 en: "Orah Krug"
 crumb: "المدرسة الوجودية ← الناس ← أورا كروغ"
 dates: "أمريكا · معاصرة"
-active_start: 2010
-active_end: 2010
+active_start: 2000
+active_end: "مستمر"
 country: "أمريكا"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
