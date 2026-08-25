@@ -13,14 +13,13 @@ part: "psychology"
 active_start: 1919
 active_end: 1960
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 - id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
 - id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "الموقع الفصامي-البارانويدي والموقع الاكتئابي والإسقاط التعارفي تستحق إدراجاً كمفاهيم مستقلة."

@@ -14,7 +14,7 @@ active_end: 1058
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← الماوردي (أبو الحسن علي بن محمد / فقيه السياسة)"
 edges:
-- rel: "belongs_to", target: "الأشعرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"

@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "clinical"
 evidence_level: "probably-efficacious"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري والنظامي (Systemic/Family Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "developed", target: "br-experiential-family", target_type: "تيار"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"

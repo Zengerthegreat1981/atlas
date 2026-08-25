@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 1490
 active_end: 1539
 edges:
-- rel: "belongs_to", target: "دفايتا فيدانتا (التثنية)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-dvaita-vedanta", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

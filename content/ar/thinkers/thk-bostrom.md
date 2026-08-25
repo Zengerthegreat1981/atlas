@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1997
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الإنسانية العابرة (Transhumanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transhumanism", target_type: "مدرسة"
 related:
 - id: "wrk-superintelligence-bostrom", title: "الذكاء الخارق (Superintelligence)", type: "عمل / كتاب"
 - id: "con-existential-risk", title: "الخطر الوجودي (Existential Risk)", type: "مفهوم"

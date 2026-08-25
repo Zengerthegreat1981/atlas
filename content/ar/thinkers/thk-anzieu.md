@@ -13,7 +13,7 @@ country: "فرنسا"
 language: "الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
@@ -21,7 +21,6 @@ related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "br-french-psychoanalysis", title: "مدرسة التحليل النفسي الفرنسية", type: "تيار"
 - id: "br-group-psychoanalysis", title: "التحليل النفسي الجماعي وتحليل المجموعات", type: "تيار"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوم 'أنا-الجلد' وعلاقته بالحدود الوجودية والجسدية للذات يحتاج مقاربة فينومينولوجية مفصلة."

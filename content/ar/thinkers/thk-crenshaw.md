@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية التقاطعية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-intersectionality", target_type: "مدرسة"
 related:
 - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"

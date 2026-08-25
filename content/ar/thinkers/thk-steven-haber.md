@@ -13,15 +13,15 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
 - id: "con-metatherapeutic-processing-aedp", title: "المعالجة الفوقية في AEDP", type: "مفهوم"
 - id: "con-aedp-transformance", title: "التحوُّل في AEDP", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "مساهماته في تطبيق AEDP في علاج الإدمان والصدمات تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "مساهماته في تطبيق AEDP في علاج الإدمان والصدمات تحتاج فصلاً."
   - "هوية الملف: الـslug `thk-steven-haber` يشير إلى Steven Haber: AEDP Practitioner and Theorist. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 

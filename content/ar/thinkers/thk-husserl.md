@@ -13,7 +13,7 @@ language: "الألمانية"
 country: "ألمانيا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "rel-phenomenology-existential-therapy", title: "الفينومينولوجيا والعلاج الوجودي", type: "علاقة بين مدرستين"
 - id: "thk-heidegger", title: "هايدغر", type: "مفكر"

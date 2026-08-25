@@ -13,7 +13,7 @@ active_end: 942
 country: "الخلافة العباسية (بغداد)"
 language: "العربية والعبرية"
 edges:
-- rel: "belongs_to", target: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"

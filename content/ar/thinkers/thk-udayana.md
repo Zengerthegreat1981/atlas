@@ -14,7 +14,7 @@ active_end: 1050
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← أوديانا (مؤسس الجدل الإلهي في النيايا)"
 edges:
-- rel: "belongs_to", target: "نيايا (المنطق الكلاسيكي الهندي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nyaya", target_type: "مدرسة"
 related:
 - id: "sch-nyaya", title: "نيايا (المنطق الكلاسيكي الهندي)", type: "مدرسة"
 - id: "sch-navya-nyaya", title: "نيايا الجديدة (نافيا-نيايا)", type: "مدرسة"

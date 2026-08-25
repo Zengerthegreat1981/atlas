@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1940
 active_end: 1973
 edges:
-- rel: "belongs_to", target: "الفلسفة الهندوسية القومية (هندوتفا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hindutva", target_type: "مدرسة"
 related:
 - id: "thk-savarkar", title: "فينايك دامودار سَوَركار", type: "مفكر"
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -155
 active_end: -110
 edges:
-- rel: "belongs_to", target: "الرواقية (Stoicism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 gaps:

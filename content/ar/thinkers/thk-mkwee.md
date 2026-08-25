@@ -16,7 +16,7 @@ evidence_level: "theoretical"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس البوذي (Buddhist Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"

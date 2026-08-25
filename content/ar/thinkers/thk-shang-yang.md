@@ -14,7 +14,7 @@ active_start: -361
 active_end: -338
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الشرعية / القانونية (Fajia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-legalism", target_type: "مدرسة"
 related:
 - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"

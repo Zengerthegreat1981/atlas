@@ -13,7 +13,7 @@ active_start: 2004
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"

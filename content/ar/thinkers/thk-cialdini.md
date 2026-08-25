@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي (Social Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
 - id: "con-mere-exposure-effect", title: "تأثير التعرض المحض (الألفة والانجذاب عبر التكرار)", type: "مفهوم"

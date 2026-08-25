@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1930
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "فلسفة العقل التحليلية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "wrk-sense-and-sensibilia", title: "الإحساس والبيانات الحسية (Sense and Sensibilia)", type: "عمل / كتاب"
 - id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية", type: "مدرسة"

@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -440
 active_end: -420
 edges:
-- rel: "belongs_to", target: "المدرسة الإيلية (Eleatic School)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-eleatic", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

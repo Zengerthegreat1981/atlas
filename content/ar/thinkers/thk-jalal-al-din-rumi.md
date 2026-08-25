@@ -13,7 +13,7 @@ active_end: 1273
 country: "سلاجقة الروم (قونية)"
 language: "الفارسية (مع العربية والتركية)"
 edges:
-- rel: "belongs_to", target: "العرفان النظري (وحدة الوجود)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
 - id: "trm-fana-baqa-sufism", title: "الفناء والبقاء (Fana and Baqa): ذوبان الأنا وثبات الوجود الإلهي", type: "مصطلح لغوي متنازع عليه"
 - id: "met-sufi-reed-flute-masnavi", title: "ناي الرومي في المثنوي: استعارة حنين الروح الإنسانية لوطنها الأصلي", type: "استعارة/مجاز مؤسِّس"

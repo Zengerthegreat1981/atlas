@@ -13,7 +13,7 @@ country: "أوكرانيا / فرنسا"
 language: "الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
@@ -21,7 +21,6 @@ related:
 - id: "con-death", title: "الموت", type: "مفهوم"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 - id: "thk-weil", title: "سيمون فايل", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "المقارنة بين قراءتها للإلياذة وقراءة سيمون فايل لها تستحق عنصراً مستقلاً."

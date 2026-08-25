@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "academic"
 evidence_level: "مستندي"
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي (Social Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "stu-stanford-prison", title: "تجربة سجن ستانفورد", type: "دراسة وبحث"
 - id: "wrk-lucifer-effect", title: "تأثير لوسيفر", type: "عمل / كتاب"

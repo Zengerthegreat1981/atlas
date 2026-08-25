@@ -14,7 +14,7 @@ language: "الكورية (هانغل)، الصينية الكلاسيكية (ه
 active_start: 1764
 active_end: 1805
 edges:
-- rel: "belongs_to", target: "سيلهاك (التعلم العملي الكوري)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-silhak", target_type: "مدرسة"
 - rel: "developed", target: "سيلهاك (التعلم العملي الكوري)", target_type: "مدرسة"
 related:
 - id: "thk-jeong-yak-yong-dasan", title: "جونغ ياك-يونغ (داسان)", type: "مفكر"

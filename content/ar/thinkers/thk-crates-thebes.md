@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -335
 active_end: -285
 edges:
-- rel: "belongs_to", target: "الكلبية (Cynicism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-cynicism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

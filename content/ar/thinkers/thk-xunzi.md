@@ -14,7 +14,7 @@ active_start: -300
 active_end: -238
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"

@@ -12,7 +12,7 @@ crumb: "فلسفة الصدمة والوجودية النقدية ← مفكرو
 active_start: null
 active_end: 1978
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "exp-jean-amery-torture-gestapo", title: "جان أميري وتعذيب الجستابو", type: "خبرة معيشة"
 gaps:

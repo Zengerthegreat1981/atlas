@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 2006
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي (Social Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-presence-cuddy", title: "الحضور", type: "عمل / كتاب"
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"

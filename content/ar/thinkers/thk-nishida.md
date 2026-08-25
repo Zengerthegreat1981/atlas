@@ -13,7 +13,7 @@ country: "اليابان"
 language: "اليابانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-nishitani", title: "كيجي نيشيتاني", type: "مفكر"
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"

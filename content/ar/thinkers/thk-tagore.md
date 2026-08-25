@@ -13,7 +13,7 @@ language: "البنغالية، الإنجليزية"
 active_start: 1890
 active_end: 1941
 edges:
-- rel: "belongs_to", target: "الفلسفة الطاغورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-tagore-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"

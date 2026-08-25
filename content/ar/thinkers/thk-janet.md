@@ -13,7 +13,7 @@ language: "الفرنسية"
 part: "psychology"
 active_end: 1947
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 - rel: "student_of", target: "جان مارتان شاركو", target_type: "مفكر"
 related:
 - id: "thk-charcot", title: "جان مارتان شاركو", type: "مفكر"

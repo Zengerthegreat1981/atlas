@@ -13,7 +13,7 @@ active_end: 379
 country: "الأناضول (الإمبراطورية الرومانية)"
 language: "اليونانية"
 edges:
-- rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:
 - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 gaps:

@@ -13,7 +13,7 @@ language: "الألمانية والإنجليزية"
 active_start: 1934
 active_end: 1994
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
 - id: "thk-thomas-kuhn", title: "توماس كوهن", type: "مفكر"

@@ -13,7 +13,7 @@ active_start: 2014
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المستنير بنظرية البوليفاجال", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "wrk-polyvagal-theory-therapy", title: "النظرية العصبية المبهمة في العلاج", type: "عمل / كتاب"
 - id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم", type: "مفهوم"

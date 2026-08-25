@@ -13,7 +13,7 @@ language: "الإنجليزية، العربية"
 active_start: 1978
 active_end: 2003
 edges:
-- rel: "belongs_to", target: "ما بعد الاستعمار الفلسفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:
 - id: "wrk-orientalism-said", title: "الاستشراق (Orientalism)", type: "عمل / كتاب"
 - id: "con-orientalism", title: "الاستشراق (Orientalism)", type: "مفهوم"

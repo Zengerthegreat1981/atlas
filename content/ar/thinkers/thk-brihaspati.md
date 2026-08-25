@@ -14,7 +14,7 @@ language: "السنسكريتية (الفترات الكلاسيكية)"
 active_start: -700
 active_end: -600
 edges:
-- rel: "belongs_to", target: "شارفاكا / لوكاياتا (المادية الهندية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-charvaka", target_type: "مدرسة"
 - rel: "founded", target: "شارفاكا / لوكاياتا (المادية الهندية)", target_type: "مدرسة"
 related:
 - id: "thk-charvaka", title: "شارفاكا (مؤسّس لوكاياتا)", type: "مفكر"

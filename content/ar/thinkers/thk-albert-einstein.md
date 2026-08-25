@@ -12,7 +12,7 @@ country: "ألمانيا / الولايات المتحدة"
 active_start: 1905
 active_end: 1955
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "dia-einstein-tagore-1930", title: "حوار أينشتاين وطاغور 1930: حقيقة الكون المستقلة والوعي الإنساني", type: "حوار مع مدرسة مجاورة"
 - id: "que-is-space-discrete-or-continuous", title: "هل نسيج الفضاء والزمان متصل أملس أم يتألف من حبيبات كمومية منتهية؟", type: "سؤال توليدي"

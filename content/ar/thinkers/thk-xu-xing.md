@@ -14,7 +14,7 @@ active_start: -350
 active_end: -319
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "المدرسة الزراعية (Nongjia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nongjia", target_type: "مدرسة"
 related:
 - id: "sch-nongjia", title: "المدرسة الزراعية", type: "مدرسة"
 - id: "thk-mencius", title: "منسيوس", type: "مفكر"

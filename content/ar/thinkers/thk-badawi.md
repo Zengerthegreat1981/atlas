@@ -13,7 +13,7 @@ country: "مصر"
 language: "العربية / الفرنسية / الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
@@ -23,7 +23,6 @@ related:
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
 - id: "thk-hussein", title: "طه حسين", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "علاقة 'الزمان الوجودي' (1943) بقراءته لهايدجر وابن عربي تستحق عنصراً مفاهيمياً مستقلاً."

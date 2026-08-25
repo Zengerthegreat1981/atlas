@@ -13,7 +13,7 @@ language: "اللاتينية"
 active_start: 1500
 active_end: 1536
 edges:
-- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "thk-thomas-more", title: "سير توماس مور", type: "مفكر"
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"

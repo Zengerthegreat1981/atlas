@@ -13,7 +13,7 @@ country: "رومانيا / فرنسا"
 language: "الفرنسية / الرومانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
@@ -24,7 +24,6 @@ related:
 - id: "thk-nionescu", title: "ناي يونسكو", type: "مفكر"
 - id: "thk-zapffe", title: "بيتر فيسيل زابفه", type: "مفكر"
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "الترجمات العربية لشذراته وتواريخ صدورها لم تُوثَّق بعد."

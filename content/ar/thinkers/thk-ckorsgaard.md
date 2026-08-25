@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الكانطية الأخلاقية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kantian-ethics-contemporary", target_type: "مدرسة"
 related:
 - id: "con-autonomy-kantian", title: "الاستقلالية (Autonomy) في الكانطية الأخلاقية", type: "مفهوم"
 - id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"

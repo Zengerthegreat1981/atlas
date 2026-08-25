@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1987
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية الفرنسية (ما بعد بنيوية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"

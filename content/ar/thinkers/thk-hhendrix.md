@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج بالـ Imago", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 - rel: "belongs_to", target: "النسقية والأسرية", target_type: "تيار"
 - rel: "co_founded_by", target: "هيلين لاكيلي هانت", target_type: "مفكر"
 - rel: "influenced_by", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"

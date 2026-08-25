@@ -13,8 +13,7 @@ language: "العربية"
 active_start: 1395
 active_end: 1424
 edges:
-- rel: "belongs_to", target: "المدرسة الأكبرية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-akbari", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

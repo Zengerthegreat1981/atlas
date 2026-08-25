@@ -13,7 +13,7 @@ active_end: 1624
 country: "إمبراطورية مغول الهند"
 language: "الفارسية (مع العربية)"
 edges:
-- rel: "belongs_to", target: "وحدة الشهود", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-wahdat-alshuhud", target_type: "مدرسة"
 related:
 - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
 - id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"

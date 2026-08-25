@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1922
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "فلسفة التكنولوجيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-technology", target_type: "مدرسة"
 related:
 - id: "thk-heidegger-technology", title: "مارتن هايدجر (كفيلسوف للتكنولوجيا)", type: "مفكر"
 - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"

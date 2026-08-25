@@ -12,7 +12,7 @@ crumb: "علم النفس التطوري ← مؤسسون ← ديفيد باس"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس النمائي (Developmental Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "que-panadaptationism-vs-drift", title: "هل كل سلوك وعاطفة بشرية تكيف وراثي نفعي أم نتاج طفرات عشوائية؟", type: "سؤال توليدي"
 - id: "que-is-jealousy-evolutionary-or-insecurity", title: "هل الغيرة العاطفية استجابة تطورية لحماية الاستثمار الأسري أم هشاشة تعلقية؟", type: "سؤال توليدي"

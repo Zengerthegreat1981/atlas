@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1960
 active_end: 2015
 edges:
-- rel: "belongs_to", target: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics-critical", target_type: "مدرسة"
 related:
 - id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"

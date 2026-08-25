@@ -13,7 +13,7 @@ active_start: 1965
 active_end: 2019
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"

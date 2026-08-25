@@ -14,7 +14,7 @@ active_end: 510
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← بهارتريهاري (فيلسوف اللغة السنسكريتية)"
 edges:
-- rel: "belongs_to", target: "فيدانتا (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "con-sphota-linguistic-burst-bhartrihari", title: "السفوتا والانفجار الدلالي للمعنى (Sphota)", type: "مفهوم"

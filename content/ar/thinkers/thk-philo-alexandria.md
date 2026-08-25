@@ -14,7 +14,7 @@ active_source: "lifespan"
 country: "الإسكندرية (مصر البطلمية/الرومانية)"
 language: "اليونانية"
 edges:
-- rel: "belongs_to", target: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-hellenistic", target_type: "مدرسة"
 related:
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 gaps:

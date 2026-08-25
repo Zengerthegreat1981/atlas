@@ -12,7 +12,7 @@ crumb: "حركات الحقوق المدنية والتحرر الإنساني �
 active_start: null
 active_end: 1965
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي (Social Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "exp-malcolm-x-mecca-pilgrimage", title: "حج مالكوم إكس لمكة", type: "خبرة معيشة"
 gaps:

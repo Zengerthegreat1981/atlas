@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 - id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
@@ -23,7 +23,6 @@ related:
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-neuroplasticity-trauma", title: "المرونة العصبية في سياق الصدمة", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "قائمة المنشورات الأكاديمية الأصلية الكاملة تحتاج مراجعة بيبلوغرافية دقيقة."
   - "التفاصيل الببليوغرافية للطبعات اللاحقة من «لماذا لا تصاب الحمر الوحشية بالقرحة» تحتاج تحققاً."

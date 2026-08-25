@@ -13,8 +13,8 @@ part: "philosophy"
 active_start: 1746
 active_end: 1780
 edges:
-- rel: "belongs_to", target: "اللوكية (اللوكية التجريبية)", target_type: "مدرسة"
-- rel: "belongs_to", target: "التجريبية البريطانية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-lockeanism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"

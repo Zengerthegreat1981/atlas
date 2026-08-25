@@ -14,8 +14,8 @@ active_start: 1970
 active_end: "مستمر"
 evidence_level: "theoretical"
 edges:
-- rel: "belongs_to", target: "علم النفس الكونفوشي", target_type: "مدرسة"
-- rel: "belongs_to", target: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-confucian-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-newconfucianism-modern", target_type: "مدرسة"
 related:
 - id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
 - id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة", type: "مدرسة"

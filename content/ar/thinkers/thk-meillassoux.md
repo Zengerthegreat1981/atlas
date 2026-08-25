@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1996
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الواقعية المضاربة (Speculative Realism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-speculative-realism", target_type: "مدرسة"
 related:
 - id: "thk-graham-harman", title: "غراهام هارمان", type: "مفكر"
 - id: "thk-kant", title: "إمانويل كانط", type: "مفكر"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الجماعاتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-communitarianism", target_type: "مدرسة"
 related:
 - id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"

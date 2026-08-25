@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1932
 active_end: 1958
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "stu-bartlett-war-of-ghosts", title: "تجارب بارتليت على تذكر قصة 'حرب الأشباح' والذاكرة البنائية", type: "دراسة وبحث"
 - id: "con-schema", title: "المخطط المعرفي", type: "مفهوم"

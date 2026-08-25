@@ -13,7 +13,7 @@ active_end: 1111
 country: "السلاجقة (بغداد، نيسابور)"
 language: "العربية (مع الفارسية)"
 edges:
-- rel: "belongs_to", target: "الأشعرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"

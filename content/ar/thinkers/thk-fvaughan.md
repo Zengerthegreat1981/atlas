@@ -13,7 +13,7 @@ active_start: 1979
 active_end: 2017
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس عبر الشخصي (Transpersonal Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"

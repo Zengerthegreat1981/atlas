@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "علم النفس الإيجابي ← بحوث الامتنان ← روبرت إيمونز"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "ins-swls", title: "مقياس الرضا عن الحياة لدينر", type: "أداة قياس"
 - id: "que-what-is-gratitude", title: "ما الْاِمْتِنَان؟", type: "سؤال توليدي"

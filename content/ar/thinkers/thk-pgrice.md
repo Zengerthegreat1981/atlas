@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1940
 active_end: 1988
 edges:
-- rel: "belongs_to", target: "فلسفة اللغة العادية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 gaps:

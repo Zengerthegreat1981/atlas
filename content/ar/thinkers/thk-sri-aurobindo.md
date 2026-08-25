@@ -13,7 +13,7 @@ language: "الإنجليزية، السنسكريتية، الفرنسية"
 active_start: 1910
 active_end: 1950
 edges:
-- rel: "belongs_to", target: "فلسفة أوروبندو (اليوغا التكاملية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:
 - id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
 - id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"

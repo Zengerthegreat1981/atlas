@@ -13,8 +13,7 @@ language: "اللاتينية"
 active_start: 1109
 active_end: 1142
 edges:
-- rel: "belongs_to", target: "المدرسية (السكولاستية) — كمظلة", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

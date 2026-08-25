@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 2011
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
 - id: "thk-jkirsch", title: "جيمس كيرش", type: "مفكر"

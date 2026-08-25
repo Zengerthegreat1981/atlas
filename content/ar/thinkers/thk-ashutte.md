@@ -14,8 +14,8 @@ active_start: 1978
 active_end: 2016
 evidence_level: "theoretical"
 edges:
-- rel: "belongs_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
-- rel: "belongs_to", target: "فلسفة أوبونتو التقليدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ubuntu-traditional", target_type: "مدرسة"
 related:
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 - id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"

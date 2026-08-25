@@ -12,7 +12,7 @@ crumb: "علم النفس العصبي والعلوم المعرفية ← مف�
 active_start: null
 active_end: 1977
 edges:
-- rel: "belongs_to", target: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "ctx-bolshevik-revolution-soviet-state", title: "الثورة البلشفية", type: "سياق/تقليد"
 gaps:

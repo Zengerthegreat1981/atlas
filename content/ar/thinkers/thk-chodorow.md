@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "br-relational-psychoanalysis", title: "التحليل النفسي العلائقي الأمريكي", type: "تيار"

@@ -16,7 +16,7 @@ evidence_level: "theoretical"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم نفس الشعوب الأصلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-mbraveheart", title: "ماريا يلوهورس بريف هارت", type: "مفكر"

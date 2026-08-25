@@ -13,7 +13,7 @@ active_end: 1328
 country: "المماليك (مصر والشام)"
 language: "العربية"
 edges:
-- rel: "belongs_to", target: "الأثرية الكلامية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-athariyya", target_type: "مدرسة"
 related:
 - id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"
 - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"

@@ -13,7 +13,7 @@ active_start: 1951
 active_end: 1994
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 gaps:

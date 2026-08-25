@@ -14,8 +14,8 @@ active_end: 1990
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← ميكائيل دوفرين (ظاهراتي الخبرة الجمالية)"
 edges:
-- rel: "belongs_to", target: "الظاهراتية (Phänomenologie)", target_type: "مدرسة"
-- rel: "belongs_to", target: "الظاهراتية الجسدية (Somatic Phenomenology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"

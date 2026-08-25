@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1970
 active_end: 2004
 edges:
-- rel: "belongs_to", target: "الفلسفة الأفريقية المهنية/الأكاديمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-professional-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-hountondji", title: "بولين جنتيل هونتوندي", type: "مفكر"
 - id: "thk-wiredu", title: "كوسي واويردو", type: "مفكر"

@@ -13,7 +13,7 @@ active_end: 2023
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-mgriffiths", title: "مارك غريفيثز", type: "مفكر"

@@ -13,8 +13,7 @@ language: "الصينية الكلاسيكية"
 active_start: 1050
 active_end: 1077
 edges:
-- rel: "belongs_to", target: "مدرسة المبدأ (Lixue / Cheng-Zhu)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,7 +13,7 @@ country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الظاهراتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"

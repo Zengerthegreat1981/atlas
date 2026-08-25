@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1910
 active_end: 1945
 edges:
-- rel: "belongs_to", target: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-new-realism", target_type: "مدرسة"
 related:
 - id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
 - id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
 - id: "rel-trauma-somatic", title: "العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"

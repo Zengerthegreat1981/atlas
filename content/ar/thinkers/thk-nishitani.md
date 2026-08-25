@@ -13,7 +13,7 @@ country: "اليابان"
 language: "اليابانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
 - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
@@ -23,7 +23,6 @@ related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "ctx-kyoto-school-zen-modernity", title: "مدرسة كيوتو وتلاقي الزن البوذي مع الفلسفة القارية", type: "سياق/تقليد"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه العمدة 'الدين والعدم' (Religion and Nothingness, 1961/1982) وتحليله للعدمية الغربية وتجاوزها بالفراغ (Sunyata) يستحق إدراجاً في الأعمال."

@@ -14,7 +14,7 @@ active_start: -350
 active_end: -310
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "مدرسة الأسماء / المنطقيون (Mingjia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mingjia", target_type: "مدرسة"
 related:
 - id: "sch-mingjia", title: "مدرسة الأسماء / المنطقيون (Mingjia)", type: "مدرسة"
 - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"

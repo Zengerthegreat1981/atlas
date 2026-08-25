@@ -13,7 +13,7 @@ active_start: 1984
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "tec-cat", title: "العلاج المعرفي التحليلي (CAT)", type: "تقنية/تدخل علاجي"
 - id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"

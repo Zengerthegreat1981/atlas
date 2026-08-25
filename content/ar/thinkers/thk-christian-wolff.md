@@ -13,7 +13,7 @@ language: "اللاتينية / الألمانية"
 active_start: 1707
 active_end: 1754
 edges:
-- rel: "belongs_to", target: "اللايبنتزية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
 related:
 - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"

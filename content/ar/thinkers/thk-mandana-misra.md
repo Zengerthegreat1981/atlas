@@ -14,8 +14,8 @@ active_end: 820
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← ماندانا ميشرا (جسر الميمنسا وأدفايتا)"
 edges:
-- rel: "belongs_to", target: "ميمامسا (بورفا ميمامسا)", target_type: "مدرسة"
-- rel: "belongs_to", target: "أدفايتا فيدانتا (اللاتثنية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mimamsa", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-mimamsa", title: "ميمامسا (بورفا ميمامسا)", type: "مدرسة"
 - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"

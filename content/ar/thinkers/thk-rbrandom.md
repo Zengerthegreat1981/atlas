@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1976
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "البراغماتية الجديدة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neopragmatism", target_type: "مدرسة"
 related:
 - id: "sch-neopragmatism", title: "البراغماتية الجديدة (Neopragmatism)", type: "مدرسة"
 - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"

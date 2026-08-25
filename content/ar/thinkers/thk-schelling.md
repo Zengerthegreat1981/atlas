@@ -13,7 +13,7 @@ country: "ألمانيا"
 language: "الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -24,7 +24,6 @@ related:
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 - id: "ctx-german-romanticism-jena-circle", title: "حلقة يينا والرومانسية الألمانية وتأليه الخيال والفن", type: "سياق/تقليد"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "محاضرات برلين الفلسفية (1841) التي حضرها كيركيغارد وإنجلز وباكونين تمثل حدثاً تاريخياً مفصلياً."

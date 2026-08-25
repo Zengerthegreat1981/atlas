@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -435
 active_end: -395
 edges:
-- rel: "belongs_to", target: "السفسطائية (Sophistry)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-sophistry", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,13 +13,12 @@ country: "أمريكا"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تمييزه الجوهري بين 'الإرادة في العالم الأول' و'الإرادة في العالم الثاني' يستحق التوسع في مفهوم الإرادة والقلق."

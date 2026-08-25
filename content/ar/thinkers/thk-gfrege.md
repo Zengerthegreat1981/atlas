@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1879
 active_end: 1923
 edges:
-- rel: "belongs_to", target: "فلسفة اللغة المثالية/الشكلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-formal-phil-language", target_type: "مدرسة"
 related:
 - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
 - id: "sch-phil-mathematics", title: "فلسفة الرياضيات التحليلية", type: "مدرسة"

@@ -14,7 +14,7 @@ language: "الفرنسية، الألمانية"
 active_start: 1958
 active_end: 2007
 edges:
-- rel: "belongs_to", target: "الإيكولوجيا الاجتماعية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-ecology", target_type: "مدرسة"
 - rel: "developed", target: "الإيكولوجيا الاجتماعية", target_type: "مدرسة"
 related:
 - id: "thk-bookchin", title: "موراي بووكين", type: "مفكر"

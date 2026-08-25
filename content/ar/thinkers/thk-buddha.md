@@ -14,7 +14,7 @@ active_end: -450
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← بوذا (سيدهارتا غوتاما)"
 edges:
-- rel: "belongs_to", target: "البوذية المبكرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
 - id: "dia-buddha-kassapa-asceticism", title: "حوار بوذا وكاسابا: نبذ التقشف الشديد وتأسيس المسار الأوسط", type: "حوار مع مدرسة مجاورة"
 - id: "trm-dukkha-buddhism", title: "الدوكا (Dukkha): المعاناة وانعدام الرضا الجوهري في الوجود", type: "مصطلح لغوي متنازع عليه"

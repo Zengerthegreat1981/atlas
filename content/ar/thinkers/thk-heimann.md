@@ -13,12 +13,11 @@ part: "philosophy"
 active_start: null
 active_end: 1982
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "المصطلح العربي لـCounter-Transference غير موحَّد في الأطلس: «التحويل المقابل» في ١٤ موضعاً و«التحويل المضاد» في ١٠ — يحتاج توحيداً تحريرياً."

@@ -13,8 +13,7 @@ language: "الصينية الكلاسيكية"
 active_start: 282
 active_end: 312
 edges:
-- rel: "belongs_to", target: "شوان شيويه (التعلم الغامض)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-xuanxue", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,7 +13,7 @@ active_start: 130
 active_end: 160
 crumb: "الأطلس ← thinkers ← فالنتينوس (مؤسس الفالنتينية)"
 edges:
-- rel: "belongs_to", target: "الغنوصية القديمة (بفروعها)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gnosticism", target_type: "مدرسة"
 related:
 - id: "con-demirge", title: "الديميرجوس (صانع العالم المادي)", type: "مفهوم"
 - id: "con-gnosis", title: "الغنوصية (المعرفة الخلاصية)", type: "مفهوم"

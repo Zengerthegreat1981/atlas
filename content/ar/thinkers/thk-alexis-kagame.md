@@ -14,8 +14,8 @@ active_end: 1981
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي)"
 edges:
-- rel: "belongs_to", target: "فلسفة الحكيم (Sage Philosophy)", target_type: "مدرسة"
-- rel: "belongs_to", target: "الفلسفة الأفريقية المهنية/الأكاديمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sage-philosophy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-professional-philosophy", target_type: "مدرسة"
 - rel: "founded", target: "فلسفة الحكيم (Sage Philosophy)", target_type: "مدرسة"
 related:
 - id: "sch-sage-philosophy", title: "فلسفة الحكيم (Sage Philosophy)", type: "مدرسة"

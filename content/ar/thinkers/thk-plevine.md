@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "rel-trauma-somatic", title: "العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"

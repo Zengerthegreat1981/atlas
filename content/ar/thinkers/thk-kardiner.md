@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1922
 active_end: 1981
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-linton", title: "رالف لينتون", type: "مفكر"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"

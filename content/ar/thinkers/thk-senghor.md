@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1934
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "الزنوجة (Négritude)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-negritude", target_type: "مدرسة"
 related:
 - id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"

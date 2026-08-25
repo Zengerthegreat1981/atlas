@@ -14,7 +14,7 @@ active_start: 1949
 active_end: 1995
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-newconfucianism-modern", target_type: "مدرسة"
 related:
 - id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
 - id: "thk-liang-shuming", title: "ليانغ شو مينغ", type: "مفكر"

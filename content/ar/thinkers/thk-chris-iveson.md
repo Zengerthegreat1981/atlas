@@ -13,7 +13,7 @@ active_end: "مستمر"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج المختصر القائم على الحل (SFBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
 - id: "thk-alasdair-macleod", title: "ألاسدير ماكليود (Alasdair MacLeod)", type: "مفكر"
 - id: "con-solution-talk", title: "حَدِيث الْحَلّ (Solution Talk) في SFT", type: "مفهوم"
@@ -22,10 +22,10 @@ related:
 - id: "con-solution-focused-miracle-q", title: "السؤال المعجزة", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جورج إيفسون (thk-george-eveson)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بينه و بين Sde Shazer و Eve يحتاج فصلاً."
-- "الفرق بين SFT و NLP يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بينه و بين Sde Shazer و Eve يحتاج فصلاً."
+  - "الفرق بين SFT و NLP يحتاج فصلاً."
 ---
 
 # كريس إيفسون

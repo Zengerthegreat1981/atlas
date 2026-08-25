@@ -13,7 +13,7 @@ active_end: 1308
 country: "اسكتلندا، إنجلترا، فرنسا"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "السكوتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scotism", target_type: "مدرسة"
 related:
 - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الإنجليزية، اللاتينية"
 active_start: 1707
 active_end: 1753
 edges:
-- rel: "belongs_to", target: "المثالية الذاتية البركلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-berkeleianism", target_type: "مدرسة"
 related:
 - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"

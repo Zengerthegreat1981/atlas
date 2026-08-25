@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-rice", title: "روبرت رايس", type: "مفكر"

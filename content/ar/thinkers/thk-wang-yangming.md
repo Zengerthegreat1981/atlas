@@ -14,7 +14,7 @@ active_start: 1500
 active_end: 1529
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 related:
 - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"

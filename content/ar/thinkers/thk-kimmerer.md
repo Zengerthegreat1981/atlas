@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 2013
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 - rel: "related_to", target: "علم نفس الشعوب الأصلية", target_type: "مدرسة"
 related:
 - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"

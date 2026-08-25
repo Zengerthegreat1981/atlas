@@ -13,7 +13,7 @@ active_end: 1141
 country: "مملكة فرنسا"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "الفيكتورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-victorines", target_type: "مدرسة"
 related:
 - id: "sch-victorines", title: "الفيكتورية", type: "مدرسة"
 gaps:

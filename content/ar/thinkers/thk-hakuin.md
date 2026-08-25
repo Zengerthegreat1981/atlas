@@ -13,8 +13,7 @@ language: "اليابانية"
 active_start: 1716
 active_end: 1769
 edges:
-- rel: "belongs_to", target: "زن: رينزاي", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-zen-rinzai", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

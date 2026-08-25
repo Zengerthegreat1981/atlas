@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1952
 active_end: 2004
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-hsampson", title: "هارولد سامبسون", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1871
 active_end: 1914
 edges:
-- rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 - rel: "founded", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
 related:
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"

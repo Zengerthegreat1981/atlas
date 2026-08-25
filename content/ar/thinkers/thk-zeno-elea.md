@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -460
 active_end: -430
 edges:
-- rel: "belongs_to", target: "المدرسة الإيلية (Eleatic School)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eleatic", target_type: "مدرسة"
 related:
 - id: "met-zeno-achilles-tortoise", title: "أخيل والسلحفاة لزينون: مفارقة الحركة وتجزئة اللانهاية", type: "استعارة/مجاز مؤسِّس"
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"

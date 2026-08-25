@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الظاهراتية الجسدية (Somatic Phenomenology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 - rel: "developed", target: "الظاهراتية الجسدية (Somatic Phenomenology)", target_type: "مدرسة"
 related:
 - id: "thk-mhenry", title: "مايكل هنري (مؤسّس علم النفس الجسدي)", type: "مفكر"

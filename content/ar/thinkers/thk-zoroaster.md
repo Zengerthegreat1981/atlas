@@ -13,7 +13,7 @@ language: "الأفستية"
 active_start: -1000
 active_end: -950
 edges:
-- rel: "belongs_to", target: "الزرادشتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 related:
 - id: "con-asha-druj", title: "آشا ودروج — ثنائية الحق والخداع الزرادشتية", type: "مفهوم"
 - id: "con-zurvan-infinite-time", title: "زُروان والزمان اللانهائي (Zurvan / Infinite Time)", type: "مفهوم"

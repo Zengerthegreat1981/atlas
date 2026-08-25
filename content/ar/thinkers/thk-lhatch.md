@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "con-sensory-integration", title: "التكامل الحسي (نظرية عيرز)", type: "مفهوم"
 - id: "br-sensory-integration", title: "التكامل الحسي", type: "تيار"

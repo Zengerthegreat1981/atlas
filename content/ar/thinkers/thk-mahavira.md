@@ -14,7 +14,7 @@ active_end: -527
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← ماهاڤيرا (مؤسس الجاينية)"
 edges:
-- rel: "belongs_to", target: "الجاينية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-jainism", target_type: "مدرسة"
 related:
 - id: "con-ahimsa", title: "أحيمسا (مبدأ اللاإيذاء)", type: "مفهوم"
 - id: "sch-jainism", title: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", type: "مدرسة"

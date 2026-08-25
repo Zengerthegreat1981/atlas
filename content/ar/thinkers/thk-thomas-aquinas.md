@@ -13,7 +13,7 @@ language: "اللاتينية"
 active_start: 1252
 active_end: 1274
 edges:
-- rel: "belongs_to", target: "التوماوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related:
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"

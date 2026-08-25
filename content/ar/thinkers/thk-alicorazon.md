@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sikolohiyang-pilipino", target_type: "مدرسة"
 related:
 - id: "thk-venriquez", title: "فيرجوليو إنريكيز", type: "مفكر"
 gaps:

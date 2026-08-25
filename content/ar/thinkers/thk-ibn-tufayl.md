@@ -13,7 +13,7 @@ language: "العربية"
 active_start: 1150
 active_end: 1185
 edges:
-- rel: "belongs_to", target: "الفلسفة الأندلسية (الرشدية الإسلامية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
 related:
 - id: "met-ibn-tufayl-hayy-ibn-yaqzan", title: "حي بن يقظان لابن طفيل: استعارة العقل الفطري والارتقاء الطبيعي", type: "استعارة/مجاز مؤسِّس"
 - id: "br-falsafa-mashshaiyya-western-andalusian", title: "المشائية الأندلسية والمغربية — الفلسفة المشائية الإسلامية", type: "تيار"

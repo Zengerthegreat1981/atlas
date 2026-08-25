@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1960
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
 - id: "thk-ekris", title: "إرنست كريس", type: "مفكر"

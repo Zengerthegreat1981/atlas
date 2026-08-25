@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1959
 active_end: 2020
 edges:
-- rel: "belongs_to", target: "الميتافيزيقا التحليلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
 - id: "wrk-naming-necessity", title: "التسمية والضرورة (Naming and Necessity)", type: "عمل / كتاب"
 - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"

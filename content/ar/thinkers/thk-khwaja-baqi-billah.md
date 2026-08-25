@@ -13,7 +13,7 @@ language: "الفارسية (مع العربية)"
 active_start: 1580
 active_end: 1603
 edges:
-- rel: "belongs_to", target: "وحدة الشهود", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-wahdat-alshuhud", target_type: "مدرسة"
 related:
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1962
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الديمقراطية التداولية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deliberative-democracy", target_type: "مدرسة"
 related:
 - id: "thk-theodor-adorno", title: "تيودور أدورنو", type: "مفكر"
 - id: "sch-frankfurt-school", title: "مدرسة فرانكفورت", type: "مدرسة"

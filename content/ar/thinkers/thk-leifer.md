@@ -13,12 +13,11 @@ country: "أمريكا"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دمجه بين نقد توماس ساس للطب النفسي والتحليل النفسي البوذي للقلق يستحق إفراد عنصر مقارن."

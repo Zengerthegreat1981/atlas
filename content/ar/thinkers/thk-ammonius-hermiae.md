@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: 470
 active_end: 520
 edges:
-- rel: "belongs_to", target: "الأفلاطونية المحدثة (Neoplatonism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

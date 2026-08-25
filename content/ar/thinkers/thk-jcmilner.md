@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1978
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "con-name-of-father", title: "اسم الأب (Nom-du-Père)", type: "مفهوم"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"

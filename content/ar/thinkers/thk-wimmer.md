@@ -13,7 +13,7 @@ language: "الألمانية، الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة بين-الثقافية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-intercultural-philosophy", target_type: "مدرسة"
 related:
 - id: "con-interculturality", title: "البين-ثقافية (Interkulturalität)", type: "مفهوم"
 - id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"

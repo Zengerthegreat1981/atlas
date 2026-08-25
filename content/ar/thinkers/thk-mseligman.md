@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 - rel: "developed", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "تيار"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"

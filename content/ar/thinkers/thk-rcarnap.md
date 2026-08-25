@@ -13,7 +13,7 @@ language: "الألمانية ثم الإنجليزية"
 active_start: 1926
 active_end: 1961
 edges:
-- rel: "belongs_to", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 related:
 - id: "met-neurath-boat", title: "سفينة نويرات: استعارة إصلاح المعرفة في عرض البحر", type: "استعارة/مجاز مؤسِّس"
 - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"

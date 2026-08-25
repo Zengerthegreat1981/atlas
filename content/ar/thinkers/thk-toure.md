@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1945
 active_end: 1984
 edges:
-- rel: "belongs_to", target: "الاشتراكية الأفريقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-socialism", target_type: "مدرسة"
 related:
 - id: "thk-nkrumah", title: "كوامي نكروما", type: "مفكر"
 - id: "thk-sankara", title: "توماس سانكارا", type: "مفكر"

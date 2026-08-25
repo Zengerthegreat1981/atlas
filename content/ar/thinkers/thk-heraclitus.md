@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -500
 active_end: -475
 edges:
-- rel: "belongs_to", target: "الهيراقليطية (Heraclitean Thought)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-heraclitean", target_type: "مدرسة"
 related:
 - id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح لغوي متنازع عليه"
 - id: "met-heraclitus-river", title: "نهر هرقليطس: استعارة الصيرورة وتدفق الوجود الدائم", type: "استعارة/مجاز مؤسِّس"

@@ -13,7 +13,7 @@ language: "الإنجليزية / الفارسية"
 active_start: 1978
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-istdp", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-bateman", title: "أنتوني بيتمان", type: "مفكر"

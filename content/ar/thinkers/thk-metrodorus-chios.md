@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: -440
 active_end: -370
 edges:
-- rel: "belongs_to", target: "الذرية اليونانية (Greek Atomism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
 - id: "thk-democritus", title: "ديموقريطس", type: "مفكر"
 - id: "thk-leucippus", title: "ليوقيبس", type: "مفكر"

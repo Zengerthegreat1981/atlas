@@ -13,7 +13,7 @@ country: "شمال أفريقيا / روما"
 language: "اللاتينية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -21,7 +21,6 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دراسة هايدجر المبكرة لفينومينولوجيا أوغسطينوس الدينية (1921) تستحق إدراجاً في الأعمال."

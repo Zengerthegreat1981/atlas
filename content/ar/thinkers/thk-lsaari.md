@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1910
 active_end: 1935
 edges:
-- rel: "belongs_to", target: "علم نفس الشعوب الأصلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 - rel: "related_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"

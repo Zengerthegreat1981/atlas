@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1940
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-quinean-naturalism", target_type: "مدرسة"
 related:
 - id: "sch-quinean-naturalism", title: "الطبيعانية التحليلية (الكواينية)", type: "مدرسة"
 gaps:

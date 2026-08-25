@@ -13,8 +13,8 @@ language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1843
 active_end: 1883
 edges:
-- rel: "belongs_to", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
-- rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegel-left", target_type: "مدرسة"
 related:
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "sch-hegel-left", title: "الهيغلية اليسارية", type: "مدرسة"

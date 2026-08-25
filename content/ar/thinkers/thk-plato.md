@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -399
 active_end: -347
 edges:
-- rel: "belongs_to", target: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"

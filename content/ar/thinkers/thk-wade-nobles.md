@@ -12,7 +12,7 @@ crumb: "علم النفس الأفريقي وثقافة الأوبونتو ← �
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
 - id: "que-are-human-rights-universal", title: "هل حقوق الإنسان كونية ومطلقة أم اختراع إمبريالي غربي مفروض؟", type: "سؤال توليدي"
 - id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية", type: "مفهوم"

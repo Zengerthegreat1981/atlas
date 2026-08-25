@@ -13,7 +13,7 @@ country: "إسبانيا"
 language: "الإسبانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
 - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"

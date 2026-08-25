@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1770
 active_end: 1812
 edges:
-- rel: "belongs_to", target: "الحسيدية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hasidic", target_type: "مدرسة"
 related:
 - id: "thk-baal-shem-tov", title: "بَعَل شِم طوف", type: "مفكر"
 - id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"

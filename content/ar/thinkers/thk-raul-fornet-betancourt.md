@@ -13,7 +13,7 @@ language: "الإسبانية / الألمانية / الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة بين-الثقافية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-intercultural-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-wimmer", title: "فرانتس مارتن فيمر", type: "مفكر"
 - id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"

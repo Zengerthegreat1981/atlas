@@ -13,7 +13,7 @@ country: "أمريكا"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس عبر الشخصي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"

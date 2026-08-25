@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1960
 active_end: 2000
 edges:
-- rel: "belongs_to", target: "الظاهراتية الجسدية (Somatic Phenomenology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"

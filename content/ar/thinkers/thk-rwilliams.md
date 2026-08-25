@@ -15,7 +15,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 register: "academic"
 edges:
-- rel: "belongs_to", target: "علم النفس الكونفوشي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-confucian-psychology", target_type: "مدرسة"
 related:
 - id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
@@ -26,7 +26,6 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ديفيد هول (thk-hall)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الصداقة الكونفوشية (con-friendship-confucian)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: أخلاقيات الأدوار (con-role-ethics)"
-  - "تعاونه مع ديفيد هول (Hall) في ترجمة الكونفشيوسية و"التركيز على العمليات" (Focusing the Familiar) موثّق جزئياً."
   - "تطبيقاته لعلم النفس الأخلاقي المعاصر موثّقة جزئياً."
 ---
 

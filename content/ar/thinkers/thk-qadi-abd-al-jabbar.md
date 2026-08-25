@@ -13,7 +13,7 @@ language: "العربية"
 active_start: 970
 active_end: 1025
 edges:
-- rel: "belongs_to", target: "المعتزلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
 related:
 - id: "con-five-principles-mutazila", title: "الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism)", type: "مفهوم"
 - id: "br-mutazila-basra", title: "مدرسة البصرة الكلامية — المعتزلة", type: "تيار"

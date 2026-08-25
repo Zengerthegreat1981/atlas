@@ -14,7 +14,7 @@ language: "اليونانية، ربما القبطية"
 active_start: 115
 active_end: 165
 edges:
-- rel: "belongs_to", target: "الغنوصية القديمة (بفروعها)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gnosticism", target_type: "مدرسة"
 - rel: "developed", target: "الغنوصية القديمة (بفروعها)", target_type: "مدرسة"
 related:
 - id: "thk-valentinus", title: "فالتينوس", type: "مفكر"

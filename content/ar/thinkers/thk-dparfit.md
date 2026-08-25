@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: 2017
 edges:
-- rel: "belongs_to", target: "النفعية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-utilitarianism-contemporary", target_type: "مدرسة"
 related:
 - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
 gaps:

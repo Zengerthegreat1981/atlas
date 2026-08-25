@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1922
 active_end: 1962
 edges:
-- rel: "belongs_to", target: "مدرسة كيوتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
 related:
 - id: "thk-nishida", title: "كيتيكارو نيشيدا", type: "مفكر"
 - id: "thk-nishitani", title: "كيتسوجي نيشيتاني", type: "مفكر"

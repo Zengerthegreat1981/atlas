@@ -14,7 +14,7 @@ active_end: 1192
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← لو شيانغ شان (مؤسس مدرسة العقل / القلب)"
 edges:
-- rel: "belongs_to", target: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 - rel: "founded", target: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", target_type: "مدرسة"
 related:
 - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"

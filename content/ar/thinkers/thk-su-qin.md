@@ -14,7 +14,7 @@ active_start: -330
 active_end: -285
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "مدرسة الدبلوماسيين (Zonghengjia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-zonghengjia", target_type: "مدرسة"
 related:
 - id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (Zonghengjia)", type: "مدرسة"
 - id: "con-hezong", title: "الاستراتيجيات الدبلوماسية (合纵-连横)", type: "مفهوم"

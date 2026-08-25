@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "العلاج بين الأشخاص (IPT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
 - id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
 - id: "thk-mweissman", title: "ميرنا فايسمان", type: "مفكر"

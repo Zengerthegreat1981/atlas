@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1987
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الفلسفة الأفريقية النسوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-afrofeminism", target_type: "مدرسة"
 related:
 - id: "thk-lsaari", title: "لوسيان ليفي-برول", type: "مفكر"
 - id: "sch-afrofeminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"

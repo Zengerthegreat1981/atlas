@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 2016
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 - id: "thk-ornstein", title: "بول ه. أورنشتاين", type: "مفكر"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1965
 active_end: 2017
 edges:
-- rel: "belongs_to", target: "فلسفة العقل التحليلية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

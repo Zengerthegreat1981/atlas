@@ -13,7 +13,7 @@ language: "الإنجليزية/الفرنسية"
 active_start: 1977
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الديمقراطية الراديكالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-radical-democracy", target_type: "مدرسة"
 related:
 - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
 - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"

@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "academic"
 evidence_level: "مستندي"
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي (Social Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
 - id: "wrk-festinger-cognitive-dissonance", title: "نظرية التنافر المعرفي", type: "عمل / كتاب"

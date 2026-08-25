@@ -15,7 +15,7 @@ active_end: 2010
 register: "clinical"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري والنظامي (Systemic/Family Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "developed", target: "العلاج الأسري البنيوي (Structural Family Therapy)", target_type: "تيار"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"

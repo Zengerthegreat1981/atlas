@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1959
 active_end: 1981
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
@@ -21,7 +21,6 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "dbt-psychodynamic-vs-cbt-effectiveness", title: "العلاج النفسي الديناميكي مقابل العلاج المعرفي السلوكي: مقارنة الفعالية", type: "جدل"
 - id: "br-self-psychology", title: "علم نفس الذات", type: "تيار"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفاهيم 'موضوع-الذات' (Selfobject) والترائي والتماهي المثالي والغضب النرجسي تستحق إدراجاً مفاهيمياً."

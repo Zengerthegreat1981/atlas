@@ -13,7 +13,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-npetry", title: "نانسي م. بيتري", type: "مفكر"
 - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"

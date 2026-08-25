@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -455
 active_end: -434
 edges:
-- rel: "belongs_to", target: "المدرسة الإيلية (Eleatic School)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eleatic", target_type: "مدرسة"
 related:
 - id: "thk-parmenides", title: "بارمنيدس", type: "مفكر"
 gaps:

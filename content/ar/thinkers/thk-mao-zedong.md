@@ -13,7 +13,7 @@ language: "الصينية (المندرين)"
 active_start: 1927
 active_end: 1976
 edges:
-- rel: "belongs_to", target: "الماركسية الصينية / الماوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-chinese-marxism", target_type: "مدرسة"
 related:
 - id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"

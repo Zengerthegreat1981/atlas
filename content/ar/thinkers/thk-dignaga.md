@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 510
 active_end: 540
 edges:
-- rel: "belongs_to", target: "يوغاكارا / فيجنانافادا", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-yogacara", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

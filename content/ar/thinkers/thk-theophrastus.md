@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -341
 active_end: -287
 edges:
-- rel: "belongs_to", target: "المشائية / الأرسطية (Aristotelianism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

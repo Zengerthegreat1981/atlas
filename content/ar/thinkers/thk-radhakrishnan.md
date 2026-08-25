@@ -14,7 +14,7 @@ active_end: 1961
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)"
 edges:
-- rel: "belongs_to", target: "نيو-فيدانتا (الفيدانتا الحديثة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
 - id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"

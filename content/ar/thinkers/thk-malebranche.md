@@ -13,8 +13,7 @@ language: "الفرنسية"
 active_start: 1668
 active_end: 1715
 edges:
-- rel: "belongs_to", target: "الأوكازيونيالية (Occasionalism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-occasionalism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

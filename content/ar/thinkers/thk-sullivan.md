@@ -14,7 +14,7 @@ country: "أمريكا"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
@@ -27,7 +27,6 @@ related:
 - id: "br-neo-freudian", title: "الفرويدية الجديدة والتحليل البيني-الشخصي", type: "تيار"
 - id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "ctx-chestnut-lodge-inpatient-psychoanalysis", title: "مصحة تشستنت لودج والتحليل النفسي الإكلينيكي للحالات الذهانية", type: "سياق/تقليد"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نظريته في القلق كعدوى بين-شخصية وتأثيرها على رولو ماي تستحق التوثيق في المفاهيم."

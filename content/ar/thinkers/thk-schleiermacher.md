@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1798
 active_end: 1834
 edges:
-- rel: "belongs_to", target: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
 - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
 - id: "con-hermeneutics", title: "الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم", type: "مفهوم"

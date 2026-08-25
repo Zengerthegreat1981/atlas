@@ -13,7 +13,7 @@ language: "الإنجليزية/الأكانية (Twi)"
 active_start: 1977
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الفلسفة الأفريقية التأويلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-hermeneutical", target_type: "مدرسة"
 related:
 - id: "thk-ashutte", title: "أوغسطين شَتّ", type: "مفكر"
 - id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"

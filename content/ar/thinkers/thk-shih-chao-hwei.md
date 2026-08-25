@@ -13,16 +13,16 @@ active_end: "مستمر"
 country: "تايوان"
 language: "الصينية، الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس البوذي (Buddhist Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "thk-mkwee", title: "ميشيل كوي", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: البوذية النسوية (con-buddhist-feminism)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "تأثيرها على علم النفس في تايوان والصين يحتاج توثيقاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تأثيرها على علم النفس في تايوان والصين يحتاج توثيقاً."
 ---
 
 # شيه تشاو-هوي

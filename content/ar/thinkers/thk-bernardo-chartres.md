@@ -13,7 +13,7 @@ active_end: 1130
 country: "فرنسا (مملكة فرنسا)"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "مدرسة شارتر", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-chartres", target_type: "مدرسة"
 related:
 - id: "sch-chartres", title: "مدرسة شارتر", type: "مدرسة"
 gaps:

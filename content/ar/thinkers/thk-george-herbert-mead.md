@@ -14,7 +14,7 @@ active_end: 1931
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← جورج هربرت ميد (مؤسِّس السُلوكية الاجتماعية)"
 edges:
-- rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 - id: "con-pragmatic-encroachment", title: "التداخل البراغماتي في المعرفة (Pragmatic Encroachment)", type: "مفهوم"

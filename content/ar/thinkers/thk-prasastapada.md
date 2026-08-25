@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 550
 active_end: 650
 edges:
-- rel: "belongs_to", target: "فايشيشيكا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vaisheshika", target_type: "مدرسة"
 related:
 - id: "thk-kanada", title: "كَنَادا (Kanada)", type: "مفكر"
 - id: "thk-gotama-kanad", title: "غوتاما كَنَاد", type: "مفكر"

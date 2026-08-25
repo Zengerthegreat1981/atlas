@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: 1998
 edges:
-- rel: "belongs_to", target: "النسوية الراديكالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-radical", target_type: "مدرسة"
 related:
 - id: "wrk-dialectic-sex", title: "جدلية الجنس (The Dialectic of Sex, 1970)", type: "عمل / كتاب"
 - id: "con-patriarchy", title: "النظام الأبوي (البطريركية)", type: "مفهوم"

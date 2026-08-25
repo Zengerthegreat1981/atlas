@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية الليبرالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-liberal", target_type: "مدرسة"
 related:
 - id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
 - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"

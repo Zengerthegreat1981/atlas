@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1957
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "dia-kuhn-popper-scientific-paradigms", title: "مناظرة كون وبوبر 1965: البارادايم وثورات العلم مقابل التكذيب", type: "حوار مع مدرسة مجاورة"
 - id: "met-kuhn-gestalt-switch-science", title: "انقلاب الجشطالت في العلم لتوماس كون: استعارة التحول الثوري في البارادايم", type: "استعارة/مجاز مؤسِّس"

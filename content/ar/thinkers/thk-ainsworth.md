@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "علم النفس النمائي (Developmental Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 - rel: "developed", target: "نظرية التعلق (Attachment Theory)", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
@@ -25,7 +25,6 @@ related:
 - id: "stu-ainsworth-strange-situation", title: "دراسة أينسورث حول الموقف الغريب وأنماط التعلّق عند الرضع", type: "دراسة وبحث"
 - id: "con-secure-attachment", title: "التعلق الآمن (Secure Attachment)", type: "مفهوم"
 - id: "dbt-attachment-stability", title: "هل أنماط التعلق ثابتة حقاً؟", type: "جدل"
-
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ماري مين (thk-main)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: سيندي هازان (thk-hazan)"

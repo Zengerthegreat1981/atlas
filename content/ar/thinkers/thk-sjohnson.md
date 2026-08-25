@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 related:
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-amir-levine", title: "أمير ليفين", type: "مفكر"

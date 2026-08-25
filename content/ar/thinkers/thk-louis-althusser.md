@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1948
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "الماركسية البنيوية (Structuralist Marxism / Marxisme structuraliste)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marxism-structuralist", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

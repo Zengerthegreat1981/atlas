@@ -13,7 +13,7 @@ active_end: 1198
 country: "المرابطون، الموحدون (الأندلس والمغرب)"
 language: "العربية"
 edges:
-- rel: "belongs_to", target: "الفلسفة الأندلسية (الرشدية الإسلامية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
 - id: "sch-latin-averroism", title: "الرشدية اللاتينية", type: "مدرسة"

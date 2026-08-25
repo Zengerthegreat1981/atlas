@@ -13,14 +13,13 @@ country: "رومانيا / فرنسا"
 language: "الفرنسية / الرومانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-absurd", title: "العبث", type: "مفهوم"
 - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مقالاته الفلسفية المتفرّقة، وخاصة «الاثنين الوجودي» (Le Lundi existentiel, 1945) الذي نُشر بعد موته، تستحق إدراجاً مستقلاً."

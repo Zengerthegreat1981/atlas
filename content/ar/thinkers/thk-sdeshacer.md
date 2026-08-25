@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "clinical"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "العلاج المختصر القائم على الحل (SFBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
 - id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل", type: "مدرسة"
 - id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"

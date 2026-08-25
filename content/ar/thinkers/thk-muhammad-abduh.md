@@ -13,7 +13,7 @@ active_end: 1905
 country: "مصر الخديوية، المهجر"
 language: "العربية والفرنسية"
 edges:
-- rel: "belongs_to", target: "الإصلاحية الإسلامية (النهضة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-reform", target_type: "مدرسة"
 related:
 - id: "ctx-arabic-nahda", title: "سياق عصر النهضة الفكرية والنفسية العربية وتحديث الفكر", type: "سياق/تقليد"
 - id: "thk-afghani", title: "جمال الدين الأفغاني", type: "مفكر"

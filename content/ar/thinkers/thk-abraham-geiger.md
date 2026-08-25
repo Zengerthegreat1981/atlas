@@ -13,7 +13,7 @@ active_end: 1874
 country: "بروسيا"
 language: "الألمانية والعبرية"
 edges:
-- rel: "belongs_to", target: "اليهودية الإصلاحية (كتيار فكري)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-reform", target_type: "مدرسة"
 related:
 - id: "sch-judaism-reform", title: "اليهودية الإصلاحية (كتيار فكري)", type: "مدرسة"
 - id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"

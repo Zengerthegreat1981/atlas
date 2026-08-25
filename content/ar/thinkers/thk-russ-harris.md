@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
 - id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
 - id: "wrk-happiness-trap", title: "فخ السعادة", type: "عمل / كتاب"

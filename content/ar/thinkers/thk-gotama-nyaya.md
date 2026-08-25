@@ -13,7 +13,7 @@ language: "السنسكريتية"
 active_start: -150
 active_end: -100
 edges:
-- rel: "belongs_to", target: "نيايا (المنطق الكلاسيكي الهندي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nyaya", target_type: "مدرسة"
 related:
 - id: "sch-nyaya", title: "مدرسة النيايا", type: "مدرسة"
 gaps:

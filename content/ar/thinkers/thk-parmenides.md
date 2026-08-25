@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -480
 active_end: -450
 edges:
-- rel: "belongs_to", target: "المدرسة الإيلية (Eleatic School)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eleatic", target_type: "مدرسة"
 related:
 - id: "axi-principle-of-non-contradiction", title: "مبدأ عدم التناقض (Principle of Non-Contradiction)", type: "بديهية/مبدأ تأسيسي"
 - id: "thk-zeno-elea", title: "زينون الإيلي", type: "مفكر"

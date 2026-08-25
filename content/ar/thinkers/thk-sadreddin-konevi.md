@@ -13,7 +13,7 @@ active_end: 1274
 country: "سلاجقة الروم (قونية)"
 language: "العربية (مع الفارسية والتركية)"
 edges:
-- rel: "belongs_to", target: "العرفان النظري (وحدة الوجود)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"

@@ -13,7 +13,7 @@ active_end: 1786
 country: "بروسيا (مملكة فريدريش)"
 language: "الألمانية (والعببرية)"
 edges:
-- rel: "belongs_to", target: "هَسْكَلاة (التنوير اليهودي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-haskalah", target_type: "مدرسة"
 related:
 - id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
 - id: "sch-judaism-reform", title: "اليهودية الإصلاحية (كتيار فكري)", type: "مدرسة"

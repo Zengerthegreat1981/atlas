@@ -13,7 +13,7 @@ country: "ألمانيا"
 language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
@@ -23,7 +23,6 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
 - id: "thk-scheler", title: "ماكس شيلر", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر من مصدر أولي محقق."
   - "تفاصيل ترجمات أعماله الطبية والنفسية إلى العربية غير متوفرة وتحتاج بحثاً في المراجع الأولية."

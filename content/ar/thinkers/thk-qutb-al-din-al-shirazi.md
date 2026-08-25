@@ -13,8 +13,7 @@ language: "العربية والفارسية"
 active_start: 1266
 active_end: 1311
 edges:
-- rel: "belongs_to", target: "الإشراقية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

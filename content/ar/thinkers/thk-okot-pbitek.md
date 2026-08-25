@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1963
 active_end: 1982
 edges:
-- rel: "belongs_to", target: "الفلسفة الأفريقية التأويلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-hermeneutical", target_type: "مدرسة"
 related:
 - id: "thk-wiredu", title: "كوسي واويردو", type: "مفكر"
 - id: "thk-hountondji", title: "بولين جنتيل هونتوندي", type: "مفكر"

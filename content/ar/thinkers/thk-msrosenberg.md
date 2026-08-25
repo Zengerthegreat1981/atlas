@@ -14,7 +14,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 register: "popular"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "con-nonviolent-communication", title: "التواصل اللاعنفي", type: "مفهوم"
 - id: "con-mutual-empathy", title: "التعاطف", type: "مفهوم"

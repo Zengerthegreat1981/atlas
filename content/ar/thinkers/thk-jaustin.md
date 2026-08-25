@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1939
 active_end: 1960
 edges:
-- rel: "belongs_to", target: "فلسفة اللغة العادية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "wrk-sense-and-sensibilia", title: "الإحساس والبيانات الحسية (Sense and Sensibilia)", type: "عمل / كتاب"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"

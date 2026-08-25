@@ -13,7 +13,7 @@ language: "الإسبانية"
 active_start: 1960
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "الفلسفة الديكولونيالية اللاتينية الأمريكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-decolonial-latin", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

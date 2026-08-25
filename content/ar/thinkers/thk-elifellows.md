@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 - rel: "related_to", target: "علم نفس الشعوب الأصلية", target_type: "مدرسة"
 related:
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"

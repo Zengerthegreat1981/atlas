@@ -13,8 +13,8 @@ language: "الفرنسية، اللاتينية"
 active_start: 1637
 active_end: 1650
 edges:
-- rel: "belongs_to", target: "الديكارتية", target_type: "مدرسة"
-- rel: "belongs_to", target: "العقلانية القارية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
 - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"

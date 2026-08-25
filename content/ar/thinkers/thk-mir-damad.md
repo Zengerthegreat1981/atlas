@@ -13,7 +13,7 @@ active_end: 1631
 country: "إيران الصفوية"
 language: "العربية (مع الفارسية)"
 edges:
-- rel: "belongs_to", target: "مدرسة أصفهان الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-isfahan", target_type: "مدرسة"
 related:
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"

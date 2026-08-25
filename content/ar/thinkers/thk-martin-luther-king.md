@@ -12,7 +12,7 @@ crumb: "الفلسفة السياسية وحركات الحقوق المدنية
 active_start: null
 active_end: 1968
 edges:
-- rel: "belongs_to", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-contractualism", target_type: "مدرسة"
 related:
 - id: "exp-rosa-parks-montgomery-bus-refusal", title: "رفض روزا باركس التنازل عن مقعدها في حافلة مونتغمري (1955)", type: "خبرة معيشة"
 - id: "exp-martin-luther-king-birmingham-jail", title: "رسالة سجن برمنغهام", type: "خبرة معيشة"

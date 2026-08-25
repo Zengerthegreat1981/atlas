@@ -12,7 +12,7 @@ crumb: "علم الأحياء التطوري وفلسفة العلم ← مؤس�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس النمائي (Developmental Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "met-paley-watchmaker", title: "الساعاتي لويليام بالي: استعارة التصميم الذكي وغائية الكون", type: "استعارة/مجاز مؤسِّس"
 - id: "que-is-the-universe-teleological", title: "هل للكون غاية وقصد كلي أم صيرورة عمياء محكومة بقوانين المادة؟", type: "سؤال توليدي"

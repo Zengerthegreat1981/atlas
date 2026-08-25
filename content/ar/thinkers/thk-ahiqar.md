@@ -14,7 +14,7 @@ active_end: -500
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← أخيقار (الحكيم الآرامي)"
 edges:
-- rel: "belongs_to", target: "تقليد الحكمة الرافدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mesopotamian-wisdom", target_type: "مدرسة"
 related:
 - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
 gaps:

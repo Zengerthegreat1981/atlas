@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -530
 active_end: -495
 edges:
-- rel: "belongs_to", target: "الفيثاغورية (Pythagoreanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pythagorean", target_type: "مدرسة"
 related:
 - id: "sch-pythagorean", title: "المدرسة الفيثاغورية", type: "مدرسة"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"

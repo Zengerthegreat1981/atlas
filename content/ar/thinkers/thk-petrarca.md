@@ -13,7 +13,7 @@ language: "اللاتينية، الإيطالية (الفولغاري)"
 active_start: 1330
 active_end: 1374
 edges:
-- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
 - rel: "founded", target: "الإنسانية النهضوية", target_type: "مدرسة"
 related:
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"

@@ -13,16 +13,16 @@ active_end: "مستمر"
 country: "الفلبين، الولايات المتحدة"
 language: "الإنجليزية، اليابانية، الفلبينية"
 edges:
-- rel: "belongs_to", target: "علم النفس البوذي (Buddhist Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "thk-mkwee", title: "ميشيل كوي", type: "مفكر"
 - id: "thk-suzuki", title: "د. ت. سوزوكي", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الزن (Zen) (con-zen)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "تأثيره على علم النفس الأكاديمي (Southern Methodist University) يحتاج توثيقاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تأثيره على علم النفس الأكاديمي (Southern Methodist University) يحتاج توثيقاً."
 ---
 
 # روبن هابيتو

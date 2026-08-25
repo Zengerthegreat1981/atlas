@@ -13,7 +13,7 @@ active_start: 240
 active_end: 274
 crumb: "الأطلس ← thinkers ← ماني (مؤسس المانوية)"
 edges:
-- rel: "belongs_to", target: "المانوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-manicheism", target_type: "مدرسة"
 related:
 - id: "wrk-kephalaia", title: "الرؤوس (كِفَالا - Kephalaia)", type: "عمل / كتاب"
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"

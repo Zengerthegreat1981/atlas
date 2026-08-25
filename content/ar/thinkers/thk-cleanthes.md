@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -301
 active_end: -232
 edges:
-- rel: "belongs_to", target: "الرواقية (Stoicism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

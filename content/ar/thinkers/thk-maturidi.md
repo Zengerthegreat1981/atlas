@@ -13,7 +13,7 @@ active_end: 944
 country: "السامانيون (ما وراء النهر)"
 language: "العربية"
 edges:
-- rel: "belongs_to", target: "الماتريدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-maturidiyya", target_type: "مدرسة"
 related:
 - id: "thk-ashari", title: "أبو الحسن الأشعري", type: "مفكر"
 - id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"

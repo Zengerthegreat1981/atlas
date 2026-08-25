@@ -13,8 +13,7 @@ language: "العربية"
 active_start: 1352
 active_end: 1390
 edges:
-- rel: "belongs_to", target: "الماتريدية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-maturidiyya", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

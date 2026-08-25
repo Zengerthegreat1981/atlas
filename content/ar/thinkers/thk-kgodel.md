@@ -13,7 +13,7 @@ language: "الألمانية ثم الإنجليزية"
 active_start: 1929
 active_end: 1978
 edges:
-- rel: "belongs_to", target: "فلسفة الرياضيات التحليلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mathematics", target_type: "مدرسة"
 related:
 - id: "sch-phil-mathematics", title: "فلسفة الرياضيات التحليلية", type: "مدرسة"
 - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"

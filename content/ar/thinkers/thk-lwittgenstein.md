@@ -13,7 +13,7 @@ language: "الألمانية ثم الإنجليزية"
 active_start: 1911
 active_end: 1951
 edges:
-- rel: "belongs_to", target: "الذرية المنطقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
 related:
 - id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
 - id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"

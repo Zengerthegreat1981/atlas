@@ -12,7 +12,7 @@ crumb: "الفلسفة الأخلاقية والموسيقية الفرنسية 
 active_start: 1933
 active_end: 1985
 edges:
-- rel: "belongs_to", target: "الظاهراتية (Phänomenologie)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "que-can-we-forgive-the-unforgivable", title: "الغفران المستحيل", type: "سؤال توليدي"
 gaps:

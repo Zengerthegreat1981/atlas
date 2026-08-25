@@ -13,7 +13,7 @@ active_end: 1907
 country: "أمريكا"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "con-time", title: "الزمن", type: "مفهوم"

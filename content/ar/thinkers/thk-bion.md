@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1979
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
@@ -23,7 +23,6 @@ related:
 - id: "tec-five-dimensions-therapeutic-relationship", title: "نموذج الأبعاد الخمسة للعلاقة العلاجية", type: "تقنية/تدخل علاجي"
 - id: "br-group-psychoanalysis", title: "التحليل النفسي الجماعي وتحليل المجموعات", type: "تيار"
 - id: "ctx-tavistock-institute-group-dynamics", title: "معهد تافستوك في لندن وأبحاث ديناميكيات الجماعة والتحليل المؤسسي", type: "سياق/تقليد"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نظرية التفكير وعناصر ألفا وبيتا والاحتواء الوالدي (Containment) تستحق إدراجاً مفاهيمياً."

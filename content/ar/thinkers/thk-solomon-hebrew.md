@@ -14,7 +14,7 @@ active_end: -931
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← سليمان (في التقليد التوراتي)"
 edges:
-- rel: "belongs_to", target: "تقليد الحكمة العبرية القديمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 related:
 - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
 gaps:

@@ -13,7 +13,7 @@ country: "أمريكا"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"

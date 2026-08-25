@@ -13,8 +13,7 @@ language: "اللاتينية"
 active_start: 1431
 active_end: 1464
 edges:
-- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

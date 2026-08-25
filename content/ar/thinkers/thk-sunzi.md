@@ -14,7 +14,7 @@ active_start: -512
 active_end: -470
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "المدرسة العسكرية الصينية (Bingjia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-military-chinese", target_type: "مدرسة"
 related:
 - id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
 - id: "wrk-artofwar", title: "فن الحرب (سون تزو)", type: "عمل / كتاب"

@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 2008
 edges:
-- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-baker", title: "إلسوورث ف. بيكر", type: "مفكر"

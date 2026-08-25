@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
 - id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"

@@ -13,7 +13,7 @@ language: "الهندية، المراثية، الإنجليزية"
 active_start: 1916
 active_end: 1956
 edges:
-- rel: "belongs_to", target: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"

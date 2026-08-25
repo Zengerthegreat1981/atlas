@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-meckberg", title: "ماريانا إيكبيرغ", type: "مفكر"
 - id: "thk-hresneck", title: "هيلين رِسنِك-سانّيس", type: "مفكر"

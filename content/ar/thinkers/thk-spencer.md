@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1851
 active_end: 1903
 edges:
-- rel: "belongs_to", target: "الداروينية الاجتماعية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-darwinism", target_type: "مدرسة"
 - rel: "founded", target: "الداروينية الاجتماعية", target_type: "مدرسة"
 related:
 - id: "met-society-as-organism", title: "المُجْتَمَع كَكَائن: استعارة التَّنَاظُر البيولوجي", type: "استعارة/مجاز مؤسِّس"

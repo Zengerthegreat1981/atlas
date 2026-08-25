@@ -14,7 +14,7 @@ language: "البنجابية، الفارسية، السنسكريتية"
 active_start: 1675
 active_end: 1708
 edges:
-- rel: "belongs_to", target: "السيخية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sikh-philosophy", target_type: "مدرسة"
 - rel: "developed", target: "السيخية الفلسفية", target_type: "مدرسة"
 related:
 - id: "thk-nanak", title: "غورو ناناك", type: "مفكر"

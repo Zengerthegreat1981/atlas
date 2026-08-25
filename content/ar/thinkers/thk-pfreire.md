@@ -13,7 +13,7 @@ active_start: 1958
 active_end: 1997
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علم نفس التحرر", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
 - id: "thk-marisol-montoya", title: "ماريسول مونتويا (Marisol Montoya)", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"

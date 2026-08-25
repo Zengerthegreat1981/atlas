@@ -13,7 +13,7 @@ country: "سويسرا"
 language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"

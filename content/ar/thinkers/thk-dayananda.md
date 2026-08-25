@@ -13,7 +13,7 @@ language: "الهندية، السنسكريتية"
 active_start: 1863
 active_end: 1883
 edges:
-- rel: "belongs_to", target: "آريا ساماج", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arya-samaj", target_type: "مدرسة"
 - rel: "founded", target: "آريا ساماج", target_type: "مدرسة"
 related:
 - id: "sch-neohinduism", title: "الهندوسية الجديدة (إصلاح القرن 19)", type: "مدرسة"

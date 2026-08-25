@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1896
 active_end: 1963
 edges:
-- rel: "belongs_to", target: "عموم أفريقيا (Pan-Africanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pan-africanism", target_type: "مدرسة"
 related:
 - id: "thk-nkrumah", title: "كوامي نكروما", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"

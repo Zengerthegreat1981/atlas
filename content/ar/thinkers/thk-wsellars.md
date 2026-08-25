@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1947
 active_end: 1989
 edges:
-- rel: "belongs_to", target: "الواقعية النقدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-critical-realism", target_type: "مدرسة"
 related:
 - id: "sch-critical-realism", title: "الواقعية النقدية (Critical Realism)", type: "مدرسة"
 - id: "thk-jmcdowell", title: "جون ماكدوويل", type: "مفكر"

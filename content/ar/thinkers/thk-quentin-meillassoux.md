@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1997
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الواقعية المضاربة (Speculative Realism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-speculative-realism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

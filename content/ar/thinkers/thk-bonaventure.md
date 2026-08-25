@@ -13,7 +13,7 @@ active_end: 1274
 country: "الدولة البابوية، فرنسا"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "المدرسية (السكولاستية) — كمظلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"

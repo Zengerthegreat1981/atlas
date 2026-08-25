@@ -13,16 +13,16 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج بالـ Imago", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
 - id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الهجر (con-abandonment)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "إسهاماتها في 'Abandonment Recovery' تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "إسهاماتها في 'Abandonment Recovery' تحتاج فصلاً."
 ---
 
 # سوزان أندرسون

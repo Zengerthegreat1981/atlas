@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "thk-mwolf", title: "مونتروز م. وولف", type: "مفكر"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية الراديكالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-radical", target_type: "مدرسة"
 related:
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
 - id: "thk-pateman", title: "كارول بيتمان", type: "مفكر"

@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -450
 active_end: -420
 edges:
-- rel: "belongs_to", target: "السفسطائية (Sophistry)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sophistry", target_type: "مدرسة"
 related:
 - id: "thk-gorgias", title: "جورجياس الليونتيني", type: "مفكر"
 - id: "thk-socrates", title: "سقراط", type: "مفكر"

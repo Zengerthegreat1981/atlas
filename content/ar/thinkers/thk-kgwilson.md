@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1991
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"

@@ -12,7 +12,7 @@ crumb: "فلسفة الفيزياء وعلم الكونيات ← مفكرون �
 active_start: null
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "exp-stephen-hawking-als-diagnosis", title: "صمود ستيفن هوكينغ", type: "خبرة معيشة"
 gaps:

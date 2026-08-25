@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1945
 active_end: 1972
 edges:
-- rel: "belongs_to", target: "عموم أفريقيا (Pan-Africanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pan-africanism", target_type: "مدرسة"
 related:
 - id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
 - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"

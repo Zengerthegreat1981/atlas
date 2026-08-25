@@ -13,7 +13,7 @@ language: "العربية والفارسية"
 active_start: 1175
 active_end: 1191
 edges:
-- rel: "belongs_to", target: "الإشراقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
 - id: "thk-al-shahrazuri", title: "شمس الدين محمد بن محمود الشهرزوري", type: "مفكر"
 - id: "trm-hikmah-falsafa-islamic", title: "الحكمة (Hikmah): الجمع بين البرهان العقلي والذوق الإشراقي", type: "مصطلح لغوي متنازع عليه"

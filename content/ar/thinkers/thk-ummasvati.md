@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 230
 active_end: 300
 edges:
-- rel: "belongs_to", target: "الجاينية الفلسفية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-jainism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

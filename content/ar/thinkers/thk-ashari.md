@@ -13,7 +13,7 @@ active_end: 936
 country: "العباسيون (بغداد)"
 language: "العربية"
 edges:
-- rel: "belongs_to", target: "الأشعرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"

@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1997
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"

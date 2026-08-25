@@ -13,8 +13,8 @@ language: "الألمانية"
 active_start: 1792
 active_end: 1814
 edges:
-- rel: "belongs_to", target: "الفيختية", target_type: "مدرسة"
-- rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-fichte", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 related:
 - id: "sch-fichte", title: "الفيختية", type: "مدرسة"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"

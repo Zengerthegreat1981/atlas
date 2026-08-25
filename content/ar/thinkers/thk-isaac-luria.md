@@ -13,7 +13,7 @@ active_end: 1572
 country: "فلسطين العثمانية (صفد)"
 language: "العبرية (مع الآرامية)"
 edges:
-- rel: "belongs_to", target: "القبّالة اللوريانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kabbalah-lurianic", target_type: "مدرسة"
 related:
 - id: "thk-hayyim-vital", title: "الحاخام حاييم فيتال", type: "مفكر"
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"

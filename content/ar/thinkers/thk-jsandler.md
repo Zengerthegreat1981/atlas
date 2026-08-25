@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1960
 active_end: 1998
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"

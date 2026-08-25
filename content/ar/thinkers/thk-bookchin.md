@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1962
 active_end: 2006
 edges:
-- rel: "belongs_to", target: "الإيكولوجيا الاجتماعية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-ecology", target_type: "مدرسة"
 related:
 - id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية (The Ecology of Freedom)", type: "عمل / كتاب"
 - id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"

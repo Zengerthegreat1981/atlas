@@ -13,14 +13,13 @@ country: "سويسرا"
 language: "الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أثر كيركيغارد في «اللاهوت الجدلي» عند بارث يستحق عنصراً مفاهيمياً مستقلاً."

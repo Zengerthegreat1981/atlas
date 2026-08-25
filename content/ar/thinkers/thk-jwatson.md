@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1913
 active_end: 1958
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
 - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"

@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "developed", target: "العلاج الاستفزازي", target_type: "تيار"
 related:
 - id: "tec-provocative-therapy", title: "العلاج الاستفزازي", type: "تقنية/تدخل علاجي"

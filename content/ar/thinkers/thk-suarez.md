@@ -13,7 +13,7 @@ active_end: 1617
 country: "إسبانيا الفيليبية، روما"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "السكولاستية الثانية (إسبانيا، عصر النهضة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-second-scholasticism", target_type: "مدرسة"
 related:
 - id: "sch-second-scholasticism", title: "السكولاستية الثانية (إسبانيا، عصر النهضة)", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"

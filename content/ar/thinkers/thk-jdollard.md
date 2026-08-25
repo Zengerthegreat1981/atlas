@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1937
 active_end: 1980
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

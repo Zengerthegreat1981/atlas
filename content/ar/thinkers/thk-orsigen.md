@@ -13,7 +13,7 @@ active_end: 253
 country: "الإسكندرية، فلسطين الرومانية"
 language: "اليونانية (مع اللاتينية للترجمات)"
 edges:
-- rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:
 - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"

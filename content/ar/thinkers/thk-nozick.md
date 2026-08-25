@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1974
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "الليبرتارية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-libertarianism", target_type: "مدرسة"
 related:
 - id: "sch-libertarianism", title: "الليبرتارية", type: "مدرسة"
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"

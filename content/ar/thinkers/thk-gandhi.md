@@ -13,7 +13,7 @@ language: "الإنجليزية، الهندية، الغوجاراتية"
 active_start: 1906
 active_end: 1948
 edges:
-- rel: "belongs_to", target: "الغاندية (كفلسفة سياسية-أخلاقية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
 related:
 - id: "exp-gandhi-pietermaritzburg-train-ejection", title: "طرد غاندي من قطار جنوب أفريقيا وميلاد فلسفة الساتياغراها", type: "خبرة معيشة"
 - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"

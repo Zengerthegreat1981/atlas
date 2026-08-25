@@ -14,8 +14,8 @@ active_end: 1962
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← كلارنس إيرفينغ لويس (مؤسِّس البراغماتية التصوّرية)"
 edges:
-- rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
-- rel: "belongs_to", target: "البراغماتية الجديدة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neopragmatism", target_type: "مدرسة"
 related:
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 - id: "sch-neopragmatism", title: "البراغماتية الجديدة", type: "مدرسة"

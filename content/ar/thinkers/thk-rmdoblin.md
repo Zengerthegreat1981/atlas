@@ -13,7 +13,7 @@ active_start: 1986
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
 - id: "thk-rick-doblin", title: "ريك دابلن", type: "مفكر"

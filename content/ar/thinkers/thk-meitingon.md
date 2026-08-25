@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 1943
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"

@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1933
 active_end: 1967
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "con-drive-reduction", title: "نظرية خفض الدافع", type: "مفهوم"
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"

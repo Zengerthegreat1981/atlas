@@ -13,7 +13,7 @@ language: "اللاتينية والإنجليزية"
 active_start: 1510
 active_end: 1535
 edges:
-- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "thk-erasmus", title: "إيراسموس", type: "مفكر"
 gaps:

@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1843
 active_end: 1883
 edges:
-- rel: "belongs_to", target: "النسوية السوداء", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-black", target_type: "مدرسة"
 - rel: "developed", target: "النسوية السوداء", target_type: "مدرسة"
 related:
 - id: "thk-lorde", title: "أودري لورد", type: "مفكر"

@@ -12,7 +12,7 @@ crumb: "علم الاجتماع والفلسفة السياسية ← مفكرو
 active_start: null
 active_end: 1920
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي (Social Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "ctx-reformation-printing-press-europe", title: "الإصلاح البروتستانتي ومطبعة غوتنبرغ", type: "سياق/تقليد"
 gaps:

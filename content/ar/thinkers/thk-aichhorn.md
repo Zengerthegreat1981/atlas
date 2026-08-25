@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 1949
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-bernfeld", title: "سيغفريد بيرنفيلد", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

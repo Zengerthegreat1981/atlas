@@ -13,7 +13,7 @@ language: "العربية"
 active_start: 1885
 active_end: 1902
 edges:
-- rel: "belongs_to", target: "الإصلاحية الإسلامية (النهضة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-reform", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

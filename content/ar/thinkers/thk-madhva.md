@@ -14,7 +14,7 @@ active_end: 1278
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← مادهافا (دفايتا فيدانتا)"
 edges:
-- rel: "belongs_to", target: "دفايتا فيدانتا (التثنية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dvaita-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
 - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"

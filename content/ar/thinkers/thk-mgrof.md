@@ -14,7 +14,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية، الألمانية، التشيكية"
 register: "clinical"
 edges:
-- rel: "belongs_to", target: "علم النفس عبر الشخصي (Transpersonal Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
 - id: "sch-psychedelic-assisted-therapy", title: "العلاج بمساعدة السايكديلية", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الإنجليزية/البنغالية"
 active_start: 1970
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الكوزموبوليتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cosmopolitanism", target_type: "مدرسة"
 related:
 - id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
 - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"

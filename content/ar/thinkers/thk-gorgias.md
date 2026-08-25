@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -430
 active_end: -380
 edges:
-- rel: "belongs_to", target: "السفسطائية (Sophistry)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sophistry", target_type: "مدرسة"
 related:
 - id: "thk-protagoras", title: "برروتاغوراس", type: "مفكر"
 gaps:

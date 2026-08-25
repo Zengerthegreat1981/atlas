@@ -12,7 +12,7 @@ crumb: "فلسفة العلم والثورة العلمية ← مؤسسون ←
 active_start: 1589
 active_end: 1642
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "evt-trial-of-galileo-1633", title: "محاكمة غاليليو 1633", type: "حدث تاريخي"
 - id: "ctx-scientific-revolution-17th", title: "الثورة العلمية في القرن السابع عشر والميكانيكية الجديدة", type: "سياق/تقليد"

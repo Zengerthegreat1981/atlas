@@ -13,7 +13,7 @@ active_end: 1210
 country: "الغزنويون، الخوارزميون (ما وراء النهر)"
 language: "العربية (مع الفارسية)"
 edges:
-- rel: "belongs_to", target: "الكلام الإمامي الاثنا عشري", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-imami-kalam", target_type: "مدرسة"
 related:
 - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"

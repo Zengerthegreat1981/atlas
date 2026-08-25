@@ -13,7 +13,7 @@ country: "النرويج"
 language: "النرويجية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 - id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
@@ -21,7 +21,6 @@ related:
 - id: "con-absurd", title: "العبث", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مقاله الفلسفي التأسيسي 'المسيح الأخير' (Den sidste Messias, 1933) والآليات الأربع للدفاع الوجودي تستحق إدراجاً في الأعمال."

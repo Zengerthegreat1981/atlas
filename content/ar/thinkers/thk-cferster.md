@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1981
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-rlindsl", title: "أورغن ر. ليندزلي", type: "مفكر"
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"

@@ -13,7 +13,7 @@ active_end: 1191
 country: "أتابكة زنكي، الأيوبيون (حلب)"
 language: "الفارسية (مع العربية)"
 edges:
-- rel: "belongs_to", target: "الإشراقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 gaps:

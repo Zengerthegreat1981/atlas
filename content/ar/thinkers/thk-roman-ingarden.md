@@ -14,7 +14,7 @@ active_end: 1968
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← رومان إنغاردن (ظاهراتي الأدب والجمال)"
 edges:
-- rel: "belongs_to", target: "الظاهراتية (Phänomenologie)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية (Hermeneutic Phenomenology)", type: "مدرسة"

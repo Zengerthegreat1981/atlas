@@ -13,7 +13,7 @@ country: "المملكة المتحدة (اسكتلندا)"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "developed", target: "العلاج البيئي المؤسسي", target_type: "تيار"
 related:
 - id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"

@@ -13,7 +13,7 @@ language: "الإيطالية، الإنجليزية"
 active_start: 1999
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "أخلاقيات الذكاء الاصطناعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ai-ethics", target_type: "مدرسة"
 related:
 - id: "wrk-atlas-of-ai-crawford", title: "أطلس الذكاء الاصطناعي (Atlas of AI)", type: "عمل / كتاب"
 - id: "con-algorithmic-bias", title: "التحيز الخوارزمي (Algorithmic Bias)", type: "مفهوم"

@@ -14,7 +14,7 @@ active_end: -2100
 active_source: "lifespan"
 crumb: "تقليد الحكمة الرافدية ← الملاحم المؤسِّسة ← جلجامش"
 edges:
-- rel: "belongs_to", target: "تقليد الحكمة الرافدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mesopotamian-wisdom", target_type: "مدرسة"
 related:
 - id: "wrk-epic-of-gilgamesh", title: "ملحمة جلجامش", type: "عمل / كتاب"
 - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"

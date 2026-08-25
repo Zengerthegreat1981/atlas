@@ -12,7 +12,7 @@ crumb: "حركات التحرر والعدالة الانتقالية ← مفك
 active_start: null
 active_end: 2013
 edges:
-- rel: "belongs_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
 - id: "exp-nelson-mandela-inauguration-forgiveness", title: "لحظة تنصيب مانديلا رئيساً ودعوة سجانه لحضور الحفل", type: "خبرة معيشة"
 - id: "exp-mandela-robben-island-quarry", title: "مانديلا في سجن جزيرة روبن", type: "خبرة معيشة"

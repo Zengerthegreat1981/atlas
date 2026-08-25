@@ -13,7 +13,7 @@ language: "اللاتينية، الألمانية"
 active_start: 1727
 active_end: 1756
 edges:
-- rel: "belongs_to", target: "فلسفة الأكان (غانا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-akan", target_type: "مدرسة"
 related:
 - id: "con-sankofa", title: "سانكوفا (Sankofa) — العودة إلى الجذور", type: "مفهوم"
 - id: "sch-akan", title: "فلسفة الأكان (غانا)", type: "مدرسة"

@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 2010
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-cel-bejjani", title: "كولين البيجاني", type: "مفكر"
 - id: "thk-ppower", title: "باميلا باور", type: "مفكر"

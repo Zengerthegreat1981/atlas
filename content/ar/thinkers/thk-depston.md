@@ -13,7 +13,7 @@ active_start: 1988
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-narrative-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
 - id: "thk-gcombs", title: "جين كومبز", type: "مفكر"

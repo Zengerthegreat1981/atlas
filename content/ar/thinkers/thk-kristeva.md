@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1966
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-csoler", title: "كوليت سولر", type: "مفكر"
 - id: "con-objet-petit-a", title: "موضوع الرغبة الصغير a (objet petit a)", type: "مفهوم"

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← بِسِل فان دير كولك"
 edges:
-- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-bperry", title: "بروس د. بيري", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"

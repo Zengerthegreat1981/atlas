@@ -14,7 +14,7 @@ active_end: -1100
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← زرادشت (زَرَتُشْتْرَة)"
 edges:
-- rel: "belongs_to", target: "الزرادشتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 related:
 - id: "wrk-gathas", title: "الأناشيد الغاثية (Gathas)", type: "عمل / كتاب"
 - id: "con-asha", title: "أشا (الحقيقة-النظام)", type: "مفهوم"

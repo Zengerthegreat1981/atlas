@@ -13,7 +13,7 @@ active_end: 1238
 country: "مقاطعة جيرونا (تاج أراغون)"
 language: "العبرية"
 edges:
-- rel: "belongs_to", target: "القبّالة (كتيار فلسفي-رمزي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kabbalah", target_type: "مدرسة"
 related:
 - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"

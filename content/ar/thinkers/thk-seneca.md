@@ -13,7 +13,7 @@ language: "اللاتينية"
 active_start: "غير مؤكد"
 active_end: 65
 edges:
-- rel: "belongs_to", target: "الرواقية (Stoicism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "thk-epictetus", title: "إبكتيتوس", type: "مفكر"
 - id: "sch-stoicism", title: "المدرسة الرواقية", type: "مدرسة"

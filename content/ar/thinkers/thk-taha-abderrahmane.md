@@ -13,7 +13,7 @@ language: "العربية"
 active_start: 1985
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الفكر الإسلامي النقدي المعاصر", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 related:
 - id: "thk-mohammed-abed-al-jabri", title: "الجابري", type: "مفكر"
 gaps:

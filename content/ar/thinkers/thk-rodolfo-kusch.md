@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1949
 active_end: 1979
 edges:
-- rel: "belongs_to", target: "الفلسفة الديكولونيالية اللاتينية الأمريكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-decolonial-latin", target_type: "مدرسة"
 related:
 - id: "thk-anibal-quijano", title: "أنيبال كويخانو", type: "مفكر"
 - id: "thk-enrique-dussel", title: "إنريكي دوسيل", type: "مفكر"

@@ -13,8 +13,8 @@ language: "الإنجليزية"
 active_start: 1955
 active_end: 2006
 edges:
-- rel: "belongs_to", target: "العلاج العقلاني الانفعالي السلوكي (REBT)", target_type: "مدرسة"
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "تيار"
+- rel: "belongs_to", target: "sch-rebt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 - rel: "influenced_by", target: "الرواقية (Stoicism)", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"

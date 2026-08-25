@@ -13,7 +13,7 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-rmdoblin", title: "ريكاردو دوبلين", type: "مفكر"
 - id: "thk-peter-bloom", title: "بيتر بلوم", type: "مفكر"

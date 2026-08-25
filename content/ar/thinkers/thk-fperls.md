@@ -13,7 +13,7 @@ language: "الألمانية ثم الإنجليزية"
 active_start: 1942
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "thk-lperls", title: "لورنس بيرلز (لوريتا بيدرمان لاحقاً)", type: "مفكر"
 - id: "thk-goodman", title: "بول غودمان", type: "مفكر"

@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1925
 active_end: 1973
 edges:
-- rel: "belongs_to", target: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-frankfurt-school", target_type: "مدرسة"
 related:
 - id: "thk-theodor-adorno", title: "تيودور أدورنو", type: "مفكر"
 gaps:

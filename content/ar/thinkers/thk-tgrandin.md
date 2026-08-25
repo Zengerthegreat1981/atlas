@@ -12,7 +12,7 @@ crumb: "علم نفس التوحد والتنوع العصبي ← مفكرون 
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "exp-temple-grandin-autism-squeeze-machine", title: "ابتكار تيمبل غراندين لآلة الضغط", type: "خبرة معيشة"
 gaps:

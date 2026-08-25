@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -460
 active_end: -428
 edges:
-- rel: "belongs_to", target: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-milesian", target_type: "مدرسة"
 related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 gaps:

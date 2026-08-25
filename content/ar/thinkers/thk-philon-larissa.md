@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -129
 active_end: -84
 edges:
-- rel: "belongs_to", target: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-academy-platonic", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

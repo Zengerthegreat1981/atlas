@@ -13,7 +13,7 @@ country: "فلسطين / العراق"
 language: "العربية / الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"

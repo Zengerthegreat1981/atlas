@@ -13,7 +13,7 @@ language: "الصينية (المندرين)"
 active_start: 1917
 active_end: 1962
 edges:
-- rel: "belongs_to", target: "الليبرالية الصينية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:
 - id: "wrk-outline-chinese-philosophy", title: "مخطط تاريخ الفلسفة الصينية (Outline of the History of Chinese Philosophy)", type: "عمل / كتاب"
 - id: "con-chinese-verification-ism", title: "الشك المنهجي (Doubting-ism / 怀疑主义)", type: "مفهوم"

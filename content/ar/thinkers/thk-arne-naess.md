@@ -13,7 +13,7 @@ language: "النرويجية، الإنجليزية"
 active_start: 1973
 active_end: 2009
 edges:
-- rel: "belongs_to", target: "الإيكولوجيا العميقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"
 related:
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"

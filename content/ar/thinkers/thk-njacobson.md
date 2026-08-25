@@ -13,7 +13,7 @@ active_start: 1982
 active_end: 2006
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
 - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"

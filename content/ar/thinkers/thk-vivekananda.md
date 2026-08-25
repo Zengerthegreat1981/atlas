@@ -14,7 +14,7 @@ active_end: 1902
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← سوامي فيفيكاناندا (نيو-فيدانتا)"
 edges:
-- rel: "belongs_to", target: "نيو-فيدانتا (الفيدانتا الحديثة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"

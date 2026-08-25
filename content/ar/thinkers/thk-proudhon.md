@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1840
 active_end: 1865
 edges:
-- rel: "belongs_to", target: "الأناركية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anarchism", target_type: "مدرسة"
 related:
 - id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
 - id: "thk-bakunin", title: "ميخائيل باكونين", type: "مفكر"

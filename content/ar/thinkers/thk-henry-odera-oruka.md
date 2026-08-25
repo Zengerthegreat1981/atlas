@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1974
 active_end: 1995
 edges:
-- rel: "belongs_to", target: "فلسفة الحكيم (Sage Philosophy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sage-philosophy", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,7 +13,7 @@ language: "الإسبانية"
 active_start: 1970
 active_end: 2023
 edges:
-- rel: "belongs_to", target: "فلسفة التحرير اللاتينية الأمريكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-liberation-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-liberation-philosophy", title: "فلسفة التحرير", type: "مدرسة"
 - id: "thk-fanon", title: "فرانز فانون", type: "مفكر"

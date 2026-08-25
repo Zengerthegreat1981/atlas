@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1957
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"

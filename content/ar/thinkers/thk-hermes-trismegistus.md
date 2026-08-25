@@ -14,7 +14,7 @@ active_end: 300
 active_source: "lifespan"
 crumb: "الهرمسية ← الشخصية المؤسِّسة ← هرمس ثلاثي العظمة"
 edges:
-- rel: "belongs_to", target: "الهرمسية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeticism", target_type: "مدرسة"
 related:
 - id: "wrk-corpus-hermeticum", title: "الكوربوس الهرمسية", type: "عمل / كتاب"
 - id: "con-emerald-tablet", title: "لوح الزمرد (Tabula Smaragdina)", type: "مفهوم"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج المتمحور حول التعاطف (CFT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cft", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينيهان", type: "مفكر"

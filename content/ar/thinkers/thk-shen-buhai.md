@@ -14,7 +14,7 @@ active_start: -360
 active_end: -337
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الشرعية / القانونية (Fajia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-legalism", target_type: "مدرسة"
 related:
 - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
 - id: "thk-shang-yang", title: "شانغ يانغ", type: "مفكر"

@@ -13,7 +13,7 @@ country: "فرنسا"
 language: "الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
@@ -26,7 +26,6 @@ related:
 - id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
 - id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "ctx-psychoanalytic-tradition", title: "التقليد التحليلي النفسي", type: "سياق/تقليد"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "ترجمته ونقاشه مع مارتن هايدجر (سيمينار القلق وندوات تسوليكون) يستحق توثيقاً مقارناً مستقلاً."

@@ -13,7 +13,7 @@ active_start: -20
 active_end: 50
 crumb: "الأطلس ← thinkers ← فيلو الإسكندري (فيلون)"
 edges:
-- rel: "belongs_to", target: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-hellenistic", target_type: "مدرسة"
 related:
 - id: "con-logos-philo", title: "اللوغوس (الكلمة الإلهية) عند فيلو", type: "مفهوم"
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"

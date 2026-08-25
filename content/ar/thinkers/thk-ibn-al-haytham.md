@@ -14,8 +14,8 @@ active_end: 1039
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← ابن الهيثم (الحسن بن الحسن / Alhazen)"
 edges:
-- rel: "belongs_to", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
-- rel: "belongs_to", target: "المعتزلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"

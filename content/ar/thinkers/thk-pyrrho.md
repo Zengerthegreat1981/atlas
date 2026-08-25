@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -330
 active_end: -270
 edges:
-- rel: "belongs_to", target: "الشك البيروني (Pyrrhonian Skepticism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pyrrhonism", target_type: "مدرسة"
 related:
 - id: "con-epoche-suspension", title: "الإيبوخيه وتعليق الحكم (Epoché)", type: "مفهوم"
 - id: "con-ataraxia-epicurean", title: "الأتاراكسيا والسكينة النفسية (Ataraxia)", type: "مفهوم"

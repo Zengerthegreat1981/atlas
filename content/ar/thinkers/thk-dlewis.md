@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1966
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "الميتافيزيقا التحليلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
 - id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
 gaps:

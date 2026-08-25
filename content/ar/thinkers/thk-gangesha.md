@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 1355
 active_end: 1375
 edges:
-- rel: "belongs_to", target: "نيايا الجديدة (نافيا-نيايا)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-navya-nyaya", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

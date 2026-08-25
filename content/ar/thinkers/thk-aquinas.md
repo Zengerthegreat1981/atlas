@@ -13,7 +13,7 @@ active_end: 1274
 country: "الدولة البابوية، مملكة صقلية، فرنسا الكابيتيانية"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "التوماوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related:
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"

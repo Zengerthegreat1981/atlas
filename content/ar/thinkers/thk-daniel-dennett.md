@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1972
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "فلسفة العقل التحليلية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "dia-dennett-chalmers-zombies", title: "سجال دينيت وتشالمرز: الزومبي الفلسفي والمشكلة الصعبة للوعي", type: "حوار مع مدرسة مجاورة"
 - id: "dia-nagel-dennett-bat", title: "سجال ناغل ودينيت: تجربة الخفاش وسؤال الخبرة الذاتية للوعي", type: "حوار مع مدرسة مجاورة"

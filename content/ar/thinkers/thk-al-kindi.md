@@ -13,7 +13,7 @@ active_end: 870
 country: "العباسيون (بغداد)"
 language: "العربية"
 edges:
-- rel: "belongs_to", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"

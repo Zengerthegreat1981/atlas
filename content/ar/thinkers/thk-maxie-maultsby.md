@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1968
 active_end: 2016
 edges:
-- rel: "belongs_to", target: "العلاج العقلاني الانفعالي السلوكي (REBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-rebt", target_type: "مدرسة"
 related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "sch-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "مدرسة"

@@ -13,14 +13,13 @@ country: "أمريكا / بيلاروسيا"
 language: "الإنجليزية / العبرية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'رجل الإيمان الوحيد' وثنائية آدم الأول (التكنولوجي) وآدم الثاني (الوجودي) يمثل نصاً أساسياً يستحق إدراجه في الأعمال."

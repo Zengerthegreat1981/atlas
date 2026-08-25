@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: 2008
 edges:
-- rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-narrative-therapy", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-goldmann", title: "لوسيان غولدمان", type: "مفكر"

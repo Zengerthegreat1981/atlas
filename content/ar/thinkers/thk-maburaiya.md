@@ -15,7 +15,7 @@ country: "الولايات المتحدة"
 language: "العربية، الإنجليزية"
 register: "academic"
 edges:
-- rel: "belongs_to", target: "علم النفس الإسلامي (Islamic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-psychology", target_type: "مدرسة"
 related:
 - id: "sch-islamic-psychology", title: "علم النفس الإسلامي", type: "مدرسة"
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"

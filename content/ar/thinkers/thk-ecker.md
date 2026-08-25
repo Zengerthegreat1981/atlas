@@ -13,7 +13,7 @@ active_start: 1996
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "tec-coherence-therapy", title: "علاج التماسك وإعادة توحيد الذاكرة", type: "تقنية/تدخل علاجي"
 - id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"

@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 630
 active_end: 650
 edges:
-- rel: "belongs_to", target: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

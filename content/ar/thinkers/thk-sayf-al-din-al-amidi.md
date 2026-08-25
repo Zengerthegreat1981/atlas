@@ -13,8 +13,7 @@ language: "العربية"
 active_start: 1186
 active_end: 1233
 edges:
-- rel: "belongs_to", target: "الأشعرية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

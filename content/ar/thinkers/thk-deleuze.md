@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1968
 active_end: 1995
 edges:
-- rel: "belongs_to", target: "ما بعد البنيوية (Post-structuralisme)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "ctx-postmodern-critical-tradition", title: "سياق ما بعد الحداثة والنقد التفكيكي والتحرري", type: "سياق/تقليد"

@@ -13,7 +13,7 @@ language: "اللاتينية"
 active_start: -70
 active_end: -55
 edges:
-- rel: "belongs_to", target: "الأبيقورية (Epicureanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epicureanism", target_type: "مدرسة"
 related:
 - id: "thk-epicur", title: "أبيقور", type: "مفكر"
 gaps:

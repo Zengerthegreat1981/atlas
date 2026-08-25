@@ -14,7 +14,7 @@ active_start: 240
 active_end: 249
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "شوان شيويه (التعلم الغامض)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-xuanxue", target_type: "مدرسة"
 related:
 - id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
 - id: "thk-he-yan", title: "هي يان", type: "مفكر"

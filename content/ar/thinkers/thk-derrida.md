@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1967
 active_end: 2004
 edges:
-- rel: "belongs_to", target: "التفكيكية (Déconstruction)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deconstruction", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "ctx-postmodern-critical-tradition", title: "سياق ما بعد الحداثة والنقد التفكيكي والتحرري", type: "سياق/تقليد"

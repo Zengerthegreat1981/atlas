@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 2013
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "thk-zsegal", title: "حنا سيغال", type: "مفكر"

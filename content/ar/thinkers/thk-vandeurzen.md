@@ -13,7 +13,7 @@ language: "الإنجليزية"
 country: "هولندا / بريطانيا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 - id: "dbt-british-yalom", title: "الخصومة", type: "جدل"

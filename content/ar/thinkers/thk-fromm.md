@@ -13,7 +13,7 @@ country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "rel-humanistic", title: "الإنساني — القرابة الملتبسة", type: "علاقة بين مدرستين"

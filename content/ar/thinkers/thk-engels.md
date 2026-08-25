@@ -13,7 +13,7 @@ language: "الألمانية، الإنجليزية"
 active_start: 1844
 active_end: 1895
 edges:
-- rel: "belongs_to", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
 related:
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"

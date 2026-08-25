@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1955
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفوضوية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anarchism-contemporary", target_type: "مدرسة"
 related:
 - id: "thk-graeber", title: "ديفيد غريبر", type: "مفكر"
 - id: "thk-bakunin", title: "ميخائيل باكونين", type: "مفكر"

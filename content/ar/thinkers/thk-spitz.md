@@ -13,12 +13,11 @@ part: "philosophy"
 active_start: null
 active_end: 1974
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفاهيم 'قلق الشهر الثامن' و'الاكتئاب الانفعالي' (Anaclitic Depression) وداء المؤسسات (Hospitalism) تستحق إدراجاً."

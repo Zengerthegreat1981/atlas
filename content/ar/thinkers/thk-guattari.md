@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 1992
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "met-deleuze-rhizome", title: "الجذمور (Rhizome) لجيل دولوز: استعارة التفكير الشبكي والتعددية", type: "استعارة/مجاز مؤسِّس"
 - id: "br-lacanian", title: "التحليل النفسي اللاكاني وما بعد لاكان", type: "تيار"

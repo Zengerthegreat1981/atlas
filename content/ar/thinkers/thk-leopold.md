@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1933
 active_end: 1948
 edges:
-- rel: "belongs_to", target: "فلسفة البيئة / الأخلاق البيئية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"

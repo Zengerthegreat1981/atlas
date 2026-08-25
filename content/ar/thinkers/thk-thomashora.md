@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 1995
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 gaps:

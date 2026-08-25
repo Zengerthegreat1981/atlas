@@ -14,7 +14,7 @@ active_end: 1137
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← رامانوجا (فيشيشتادفايتا)"
 edges:
-- rel: "belongs_to", target: "فيشيشتادفايتا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vishishtadvaita", target_type: "مدرسة"
 related:
 - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
 - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"

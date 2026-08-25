@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "axm-delayed-gratification", title: "بديهية تأجيل الإشباع", type: "بديهية/مبدأ تأسيسي"
 - id: "stu-mischel-marshmallow-test", title: "تجربة المارشميلو وتأجيل الإشباع لوالتر ميشيل", type: "دراسة وبحث"

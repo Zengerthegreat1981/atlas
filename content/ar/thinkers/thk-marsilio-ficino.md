@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1462
 active_end: 1499
 edges:
-- rel: "belongs_to", target: "الهرمسية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeticism", target_type: "مدرسة"
 related:
 - id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة (شخصية تقليدية)", type: "مفكر"
 - id: "thk-pico", title: "جيوفاني بيكو della ميراندولا", type: "مفكر"

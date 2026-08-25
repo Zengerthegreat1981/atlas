@@ -13,8 +13,7 @@ language: "العربية والفارسية"
 active_start: 1456
 active_end: 1502
 edges:
-- rel: "belongs_to", target: "الإشراقية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

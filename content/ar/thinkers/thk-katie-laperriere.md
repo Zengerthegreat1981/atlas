@@ -13,15 +13,15 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-timothy-verduin", title: "تيموثي فيردوين", type: "مفكر"
 - id: "con-eft-couples-emotion-focused", title: "النهج المتمحور حول المشاعر", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "إسهاماتها في EFT في الإرشاد قبل الزواج تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "إسهاماتها في EFT في الإرشاد قبل الزواج تحتاج فصلاً."
 ---
 
 # كايتي لابيريير

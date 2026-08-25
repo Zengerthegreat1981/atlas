@@ -13,7 +13,7 @@ language: "الإغريقية القديمة (لغة التأملات)"
 active_start: 161
 active_end: 180
 edges:
-- rel: "belongs_to", target: "الرواقية (Stoicism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "thk-epictetus", title: "إبكتيتوس", type: "مفكر"
 - id: "sch-stoicism", title: "المدرسة الرواقية", type: "مدرسة"

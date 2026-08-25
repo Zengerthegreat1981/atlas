@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "أخلاقيات الحيوان / فلسفة تحرير الحيوان", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-animal-liberation", target_type: "مدرسة"
 related:
 - id: "wrk-animal-liberation-singer", title: "تحرير الحيوان (Animal Liberation)", type: "عمل / كتاب"
 - id: "con-speciesism", title: "تخصيص النوع (Speciesism)", type: "مفهوم"

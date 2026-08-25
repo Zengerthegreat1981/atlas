@@ -13,16 +13,16 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج بالـ Imago", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
 - id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
 - id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: تحطيم الطلاق (con-divorce-busting)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "إسهاماتها في Imago و Solution-Focused Combination تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "إسهاماتها في Imago و Solution-Focused Combination تحتاج فصلاً."
 ---
 
 # ميشيل وينر-ديفيس

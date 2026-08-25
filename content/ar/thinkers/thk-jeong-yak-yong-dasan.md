@@ -13,8 +13,7 @@ language: "الصينية الكلاسيكية والكورية"
 active_start: 1792
 active_end: 1836
 edges:
-- rel: "belongs_to", target: "سيلهاك (التعلم العملي الكوري)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-silhak", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

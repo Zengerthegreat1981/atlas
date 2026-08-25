@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: 130
 active_end: 165
 edges:
-- rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

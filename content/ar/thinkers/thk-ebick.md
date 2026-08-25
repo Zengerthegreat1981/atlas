@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 1982
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"

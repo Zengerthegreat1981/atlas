@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 380
 active_end: 450
 edges:
-- rel: "belongs_to", target: "نيايا (المنطق الكلاسيكي الهندي)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-nyaya", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

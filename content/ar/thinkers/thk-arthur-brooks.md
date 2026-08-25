@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 2019
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-build-life-you-want", title: "ابنِ الحياة التي تريدها: فن العلم للسعادة", type: "عمل / كتاب"
 - id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"

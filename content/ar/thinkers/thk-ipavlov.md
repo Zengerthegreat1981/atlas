@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1936
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
 - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"

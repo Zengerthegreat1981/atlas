@@ -14,7 +14,7 @@ active_end: 1921
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← يان فو (مُحدِّث الصين ومُترجم الفلسفة الغربية)"
 edges:
-- rel: "belongs_to", target: "الليبرالية الصينية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:
 - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
 - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"

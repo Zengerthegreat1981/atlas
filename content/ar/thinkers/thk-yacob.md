@@ -13,7 +13,7 @@ language: "الجعزية (ግዕዝ)"
 active_start: 1632
 active_end: 1692
 edges:
-- rel: "belongs_to", target: "الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethiopian-hataata", target_type: "مدرسة"
 - rel: "founded", target: "الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا)", target_type: "مدرسة"
 related:
 - id: "sch-ethiopian-hataata", title: "الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا)", type: "مدرسة"

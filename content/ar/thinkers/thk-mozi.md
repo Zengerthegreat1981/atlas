@@ -14,7 +14,7 @@ active_start: -450
 active_end: -391
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الموهية (Mohism / Mojia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mohism", target_type: "مدرسة"
 related:
 - id: "sch-mohism", title: "الموهية", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"

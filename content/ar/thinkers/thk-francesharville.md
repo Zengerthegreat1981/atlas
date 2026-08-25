@@ -14,7 +14,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 register: "clinical"
 edges:
-- rel: "belongs_to", target: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-emdr", target_type: "مدرسة"
 related:
 - id: "sch-emdr", title: "EMDR", type: "مدرسة"
 - id: "thk-besselvanderkolk", title: "بسل فان دير كولك", type: "مفكر"

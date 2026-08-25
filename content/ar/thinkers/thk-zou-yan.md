@@ -14,7 +14,7 @@ active_start: -280
 active_end: -240
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-yinyang", target_type: "مدرسة"
 related:
 - id: "con-wuxing", title: "الدورات الخمس (五行 wǔxíng)", type: "مفهوم"
 - id: "con-yin-yang", title: "الين-يانغ (陰陽) — التقابل الكوني", type: "مفهوم"

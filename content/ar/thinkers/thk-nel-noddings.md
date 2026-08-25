@@ -12,7 +12,7 @@ crumb: "الأخلاق النسوية وفلسفة التربية ← رواد �
 active_start: 1984
 active_end: 2022
 edges:
-- rel: "belongs_to", target: "أخلاقيات الرعاية (Care Ethics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:
 - id: "que-care-ethics-vs-justice-ethics", title: "أخلاق الرعاية وأخلاق العدالة", type: "سؤال توليدي"
 gaps:

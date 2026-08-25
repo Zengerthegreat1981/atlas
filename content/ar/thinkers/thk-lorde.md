@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1968
 active_end: 1992
 edges:
-- rel: "belongs_to", target: "النسوية السوداء", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-black", target_type: "مدرسة"
 related:
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"

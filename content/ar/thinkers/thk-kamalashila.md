@@ -13,8 +13,7 @@ language: "السنسكريتية والتبتية"
 active_start: 770
 active_end: 795
 edges:
-- rel: "belongs_to", target: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

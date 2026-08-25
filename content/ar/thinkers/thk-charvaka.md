@@ -14,7 +14,7 @@ active_end: -100
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← تشارڤاكا (مؤسس لوكاياتا / المادية الهندية)"
 edges:
-- rel: "belongs_to", target: "شارفاكا / لوكاياتا (المادية الهندية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-charvaka", target_type: "مدرسة"
 related:
 - id: "sch-charvaka", title: "شارفاكا / لوكاياتا (المادية الهندية)", type: "مدرسة"
 gaps:

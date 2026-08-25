@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "tec-aedp", title: "العلاج الديناميكي التجريبي المتسارع (AEDP)", type: "تقنية/تدخل علاجي"
 - id: "thk-greenberg-lisa", title: "ليسا غرينبرغ", type: "مفكر"

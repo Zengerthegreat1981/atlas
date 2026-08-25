@@ -13,7 +13,7 @@ language: "البرتغالية"
 active_start: 1950
 active_end: 1973
 edges:
-- rel: "belongs_to", target: "الفلسفة الأفريقية الديكولونيالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-decolonial", target_type: "مدرسة"
 related:
 - id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
 - id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"

@@ -14,7 +14,7 @@ language: "اليابانية الكلاسيكية، الصينية الكلاس
 active_start: 1281
 active_end: 1325
 edges:
-- rel: "belongs_to", target: "زن: سوتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-zen-soto", target_type: "مدرسة"
 - rel: "developed", target: "زن: سوتو", target_type: "مدرسة"
 related:
 - id: "thk-dogen", title: "دوگِن (مؤسّس سوتو)", type: "مفكر"

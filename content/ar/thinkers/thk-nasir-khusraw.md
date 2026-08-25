@@ -13,7 +13,7 @@ active_end: 1077
 country: "السلاجقة، الفاطميون (مصر)"
 language: "الفارسية (مع العربية)"
 edges:
-- rel: "belongs_to", target: "الفلسفة الإسماعيلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ismaili", target_type: "مدرسة"
 related:
 - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
 gaps:

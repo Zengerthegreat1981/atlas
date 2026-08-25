@@ -13,7 +13,7 @@ active_start: 1955
 active_end: 2004
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"

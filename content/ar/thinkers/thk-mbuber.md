@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1902
 active_end: 1965
 edges:
-- rel: "belongs_to", target: "الوجودية الدينية/المسيحية (Christian Existentialism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
 related:
 - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"

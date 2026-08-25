@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1953
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-aichhorn", title: "أوغست أيشهورن", type: "مفكر"

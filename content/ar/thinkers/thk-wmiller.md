@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1972
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "المقابلة التحفيزية (Motivational Interviewing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-motivational-interviewing", target_type: "مدرسة"
 related:
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
@@ -21,7 +21,6 @@ related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-lazarus", title: "أرنولد لازاروس", type: "مفكر"
 - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
-
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: تقنية OARS (المقابلة التحفيزية) (con-oars)"
   - "سنة الميلاد (1947) تقريبية."

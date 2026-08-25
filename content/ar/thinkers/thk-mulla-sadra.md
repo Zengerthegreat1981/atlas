@@ -13,7 +13,7 @@ active_end: 1635
 country: "إيران الصفوية"
 language: "العربية (مع الفارسية)"
 edges:
-- rel: "belongs_to", target: "الحكمة المتعالية (الملا صدرا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transcendent-theosophy", target_type: "مدرسة"
 related:
 - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"

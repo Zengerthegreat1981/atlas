@@ -13,7 +13,7 @@ country: "مصر"
 language: "العربية / الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-badawi", title: "عبد الرحمن بدوي", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"

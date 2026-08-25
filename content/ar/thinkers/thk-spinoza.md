@@ -13,8 +13,8 @@ language: "اللاتينية"
 active_start: 1660
 active_end: 1677
 edges:
-- rel: "belongs_to", target: "السبينوزية", target_type: "مدرسة"
-- rel: "belongs_to", target: "العقلانية القارية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 related:
 - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"

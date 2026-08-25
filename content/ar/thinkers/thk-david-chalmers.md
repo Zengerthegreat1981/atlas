@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1996
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "فلسفة العقل التحليلية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "dia-dennett-chalmers-zombies", title: "سجال دينيت وتشالمرز: الزومبي الفلسفي والمشكلة الصعبة للوعي", type: "حوار مع مدرسة مجاورة"
 - id: "trm-qualia-analytic-mind", title: "الكواليا (Qualia): الطابع الباطني النوعي للخبرة الذاتية المعاشة", type: "مصطلح لغوي متنازع عليه"

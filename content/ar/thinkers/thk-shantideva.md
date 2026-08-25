@@ -13,7 +13,7 @@ language: "السنسكريتية"
 active_start: 715
 active_end: 763
 edges:
-- rel: "belongs_to", target: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
 - id: "con-bodhicitta", title: "البُوذِيتَسَّا (Bodhicitta): ذِهْن الْيَقَظَة", type: "مفهوم"
 gaps:

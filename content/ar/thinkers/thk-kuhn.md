@@ -13,12 +13,11 @@ country: "سويسرا"
 language: "الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "wrk-existence", title: "الوجود", type: "عمل / كتاب"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "إسهاماته الفينومينولوجية كُسفت تاريخياً بشهرته السريرية كاكتشاف أول مضاد للاكتئاب ثلاثي الحلقات (الإيميبرامين 1957)، ويحتاج أبحاثاً تبرز نصوصه في التحليل الوجودي والأحلام."

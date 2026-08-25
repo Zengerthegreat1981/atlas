@@ -13,7 +13,7 @@ country: "بولندا / كندا"
 language: "البولندية، الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "developed", target: "نظرية التفكك الإيجابي (دابروفسكي)", target_type: "تيار"
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"

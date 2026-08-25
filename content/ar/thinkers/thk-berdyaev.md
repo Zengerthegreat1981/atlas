@@ -13,7 +13,7 @@ language: "الروسية"
 country: "روسيا / فرنسا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
 - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"

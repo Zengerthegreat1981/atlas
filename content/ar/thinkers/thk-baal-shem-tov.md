@@ -13,7 +13,7 @@ active_end: 1760
 country: "الكومنولث البولندي-الليتواني"
 language: "اليديشية والعبرية"
 edges:
-- rel: "belongs_to", target: "الحسيدية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hasidic", target_type: "مدرسة"
 related:
 - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"

@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -398
 active_end: -347
 edges:
-- rel: "belongs_to", target: "الفيثاغورية (Pythagoreanism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-pythagorean", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "التواريخ المسجَّلة (428–347 ق.م) مطابقة حرفياً لتواريخ أفلاطون؛ التقدير المعتمد لأرخيتاس نحو 435–360 ق.م. تحتاج تحققاً من مصدر."

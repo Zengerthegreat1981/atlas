@@ -13,12 +13,11 @@ part: "psychology"
 active_start: null
 active_end: 1978
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "سنوات سجنها في ألمانيا النازية (1935–1938) وأثرها في تفكيرها اللاحق عن الاكتئاب والهوية تستحق عرضاً مستقلاً، وهي من أوضح الوقائع في تاريخ أخلاقيات السرّية المهنية."

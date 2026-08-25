@@ -13,7 +13,7 @@ active_end: 749
 country: "الدولة الأموية، ثم القدس"
 language: "اليونانية (مع العربية المتأخرة)"
 edges:
-- rel: "belongs_to", target: "الفلسفة البيزنطية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-byzantine", target_type: "مدرسة"
 related:
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"

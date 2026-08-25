@@ -13,7 +13,7 @@ country: "أمريكا"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
 - id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
@@ -21,7 +21,6 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-lgreenberg", title: "ليزلي غرينبرغ", type: "مفكر"
 - id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تجارب بروز الموت (Mortality Salience) المعملية وتطبيقاتها على الدفاع الثقافي تحتاج ربطاً بالدراسات."

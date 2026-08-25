@@ -12,7 +12,7 @@ crumb: "فلسفة العقل والعلوم المعرفية ← رواد ← �
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "فلسفة العقل التحليلية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "que-extended-mind-boundary", title: "أين ينتهي عقل الإنسان وأين يبدأ العالم الخارجي؟", type: "سؤال توليدي"
 - id: "dbt-extended-mind-clark-chalmers", title: "جدل العقل الممتد", type: "جدل"

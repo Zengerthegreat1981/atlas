@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-atobart", title: "آنا تيريزا دي توبار", type: "مفكر"
 - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"

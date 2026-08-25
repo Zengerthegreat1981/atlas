@@ -15,7 +15,7 @@ language: "الإنجليزية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
 - id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"

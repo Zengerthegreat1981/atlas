@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: 2017
 edges:
-- rel: "belongs_to", target: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 - id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
@@ -25,7 +25,6 @@ related:
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
 - id: "thk-mrolls", title: "إدموند رولز", type: "مفكر"
-
 gaps:
   - "سنة الميلاد الفعلية تتفاوت بين 1942 و1943 و1944 في المصادر — يحتاج تحققاً من سجل رسمي."
   - "تسمية النظام السادس تتفاوت بين PANIC و PANIC/GRIEF عبر المراجعات — يحتاج توثيقاً."

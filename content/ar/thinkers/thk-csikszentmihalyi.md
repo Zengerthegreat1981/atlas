@@ -15,7 +15,7 @@ language: "الإنجليزية، المجرية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "syn-synesthesia-ideasthesia", title: "متلازمة الحس المرافق وتداخل الحواس والأفكار (Synesthesia)", type: "متلازمة"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"

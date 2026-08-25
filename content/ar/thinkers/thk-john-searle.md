@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1969
 active_end: 2019
 edges:
-- rel: "belongs_to", target: "فلسفة العقل التحليلية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "dia-derrida-searle-1977", title: "سجال دريدا وسيرل 1977: أفعال الكلام والتفكيك والقصدية", type: "حوار مع مدرسة مجاورة"
 - id: "met-turing-test-imitation-game", title: "لعبة المحاكاة وتفكير الآلة: استعارة تورينغ للذكاء", type: "استعارة/مجاز مؤسِّس"

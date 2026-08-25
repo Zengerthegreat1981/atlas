@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1924
 active_end: 1956
 edges:
-- rel: "belongs_to", target: "الفلسفة المقارنة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مدرسة"
 related:
 - id: "con-parallelism-philosophy", title: "التّوازيات الفلسفية (Philosophical Parallelism)", type: "مفهوم"
 - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"

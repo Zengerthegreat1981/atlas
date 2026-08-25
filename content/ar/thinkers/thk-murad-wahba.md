@@ -13,7 +13,7 @@ language: "العربية"
 active_start: 1956
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الفكر الإسلامي النقدي المعاصر", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

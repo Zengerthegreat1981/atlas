@@ -13,7 +13,7 @@ active_end: 1762
 country: "إمبراطورية مغول الهند (دلهي)"
 language: "الفارسية والعربية والأوردو"
 edges:
-- rel: "belongs_to", target: "الإصلاحية الإسلامية (النهضة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-reform", target_type: "مدرسة"
 related:
 - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
 - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"

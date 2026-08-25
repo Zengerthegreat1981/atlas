@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1988
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"

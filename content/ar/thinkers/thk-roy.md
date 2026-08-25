@@ -13,7 +13,7 @@ language: "البنغالية، الإنجليزية، السنسكريتية، 
 active_start: 1815
 active_end: 1833
 edges:
-- rel: "belongs_to", target: "براهمو ساماج", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-brahmo-samaj", target_type: "مدرسة"
 - rel: "founded", target: "براهمو ساماج", target_type: "مدرسة"
 related:
 - id: "sch-brahmo-samaj", title: "براهمو ساماج", type: "مدرسة"

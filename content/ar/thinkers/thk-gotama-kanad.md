@@ -14,7 +14,7 @@ active_end: 100
 active_source: "lifespan"
 crumb: "الفلسفة الهندية ← نيايا ← أكساپادا غوتاما"
 edges:
-- rel: "belongs_to", target: "نيايا (المنطق الكلاسيكي الهندي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nyaya", target_type: "مدرسة"
 related:
 - id: "sch-nyaya", title: "نيايا (المنطق الكلاسيكي الهندي)", type: "مدرسة"
 - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"

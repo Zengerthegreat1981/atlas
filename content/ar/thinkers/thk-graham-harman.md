@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1998
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الأنطولوجيا الموجهة نحو الشيء (Object-Oriented Ontology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ooo", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

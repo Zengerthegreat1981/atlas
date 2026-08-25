@@ -13,7 +13,7 @@ active_end: 1620
 country: "فلسطين العثمانية"
 language: "العبرية"
 edges:
-- rel: "belongs_to", target: "القبّالة اللوريانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kabbalah-lurianic", target_type: "مدرسة"
 related:
 - id: "thk-isaac-luria", title: "إسحاق لوريا (الأري)", type: "مفكر"
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"

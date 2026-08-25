@@ -13,7 +13,7 @@ active_end: 1328
 country: "الإمبراطورية الرومانية المقدسة"
 language: "اللاتينية والألمانية الوسطى"
 edges:
-- rel: "belongs_to", target: "التصوّف المسيحي الوسيط", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-christian-mysticism-medieval", target_type: "مدرسة"
 related:
 - id: "sch-christian-mysticism-medieval", title: "التصوّف المسيحي الوسيط", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"

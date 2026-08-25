@@ -13,8 +13,8 @@ language: "الفرنسية، اللاتينية"
 active_start: 1721
 active_end: 1755
 edges:
-- rel: "belongs_to", target: "الجمهورية المدنية (Civic Republicanism)", target_type: "مدرسة"
-- rel: "belongs_to", target: "فلسفة التنوير (كمظلة عامة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-civic-republicanism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
 related:
 - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
 - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1936
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-quinean-naturalism", target_type: "مدرسة"
 related:
 - id: "met-goodman-grue-paradox", title: "لغز الزمرد الأزرق-الأخضر (Grue) لنيلسون غودمان: استعارة لغز الاستقراء الجديد", type: "استعارة/مجاز مؤسِّس"
 - id: "met-neurath-boat", title: "سفينة نويرات: استعارة إصلاح المعرفة في عرض البحر", type: "استعارة/مجاز مؤسِّس"

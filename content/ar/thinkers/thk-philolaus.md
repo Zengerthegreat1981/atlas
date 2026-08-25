@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -440
 active_end: -385
 edges:
-- rel: "belongs_to", target: "الفيثاغورية (Pythagoreanism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-pythagorean", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

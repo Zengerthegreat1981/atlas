@@ -14,7 +14,7 @@ active_end: -1200
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← أمِنْمُوپ"
 edges:
-- rel: "belongs_to", target: "تقليد الحكمة المصرية (ماعت)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
 - id: "con-sebayt-wisdom", title: "أدب السبايت والتعليم الحِكمي (Sebayt)", type: "مفهوم"
 - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"

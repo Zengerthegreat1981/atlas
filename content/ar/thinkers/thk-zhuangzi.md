@@ -14,7 +14,7 @@ active_start: -330
 active_end: -286
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الداووية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "thk-laozi", title: "لاو تزو", type: "مفكر"

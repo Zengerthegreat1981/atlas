@@ -13,7 +13,7 @@ language: "العربية، الفارسية، التركية، الفرنسية
 active_start: 1866
 active_end: 1897
 edges:
-- rel: "belongs_to", target: "النهضة العربية (كتيار فلسفي-إصلاحي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-arab-renaissance", target_type: "مدرسة"
 - rel: "founded", target: "النهضة العربية (كتيار فلسفي-إصلاحي)", target_type: "مدرسة"
 related:
 - id: "sch-arab-renaissance", title: "النهضة العربية", type: "مدرسة"

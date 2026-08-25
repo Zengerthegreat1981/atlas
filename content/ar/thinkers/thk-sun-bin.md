@@ -13,7 +13,7 @@ language: "الصينية الكلاسيكية"
 active_start: -350
 active_end: -320
 edges:
-- rel: "belongs_to", target: "المدرسة العسكرية الصينية (Bingjia)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-military-chinese", target_type: "مدرسة"
 related:
 - id: "thk-sunzi", title: "سون تزو (سون وو)", type: "مفكر"
 - id: "sch-military-chinese", title: "المدرسة العسكرية الصينية (Bingjia)", type: "مدرسة"

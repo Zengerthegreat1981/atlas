@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mbct", target_type: "مدرسة"
 related:
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
@@ -25,7 +25,6 @@ related:
 - id: "con-cognitive-decentering", title: "اللامركزية المعرفية", type: "مفهوم"
 - id: "con-cbt-mbt-mindfulness-3min-breathing-space", title: "مساحة التنفس الثلاث دقائق (MBCT)", type: "مفهوم"
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
-
 gaps:
   - "سنة الميلاد الدقيقة (1950) وارد في بعض المراجع الثانوية وتحتاج تحققاً من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

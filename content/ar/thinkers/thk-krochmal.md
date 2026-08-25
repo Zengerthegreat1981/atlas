@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1813
 active_end: 1840
 edges:
-- rel: "belongs_to", target: "هَسْكَلاة (التنوير اليهودي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-haskalah", target_type: "مدرسة"
 related:
 - id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"
 - id: "thk-abraham-geiger", title: "أبراهام غايغر", type: "مفكر"

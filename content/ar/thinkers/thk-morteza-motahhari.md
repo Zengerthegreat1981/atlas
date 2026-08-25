@@ -13,7 +13,7 @@ language: "العربية والفارسية"
 active_start: 1949
 active_end: 1979
 edges:
-- rel: "belongs_to", target: "الحكمة المتعالية (الملا صدرا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transcendent-theosophy", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

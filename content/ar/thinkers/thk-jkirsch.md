@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1935
 active_end: 1989
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"

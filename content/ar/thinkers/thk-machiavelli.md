@@ -13,7 +13,7 @@ language: "الإيطالية واللاتينية"
 active_start: 1498
 active_end: 1527
 edges:
-- rel: "belongs_to", target: "الجمهورية المدنية (Civic Republicanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-civic-republicanism", target_type: "مدرسة"
 related:
 - id: "wrk-the-prince-machiavelli", title: "الأمير لنيكولو مكيافيلي", type: "عمل / كتاب"
 - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1987
 active_end: 2019
 edges:
-- rel: "belongs_to", target: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-emdr", target_type: "مدرسة"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"

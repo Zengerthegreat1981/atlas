@@ -13,7 +13,7 @@ language: "الفرنسية/الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة الأفريقية الديكولونيالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-decolonial", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"

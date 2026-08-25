@@ -13,7 +13,7 @@ language: "السنسكريتية"
 active_start: -300
 active_end: -250
 edges:
-- rel: "belongs_to", target: "فايشيشيكا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vaisheshika", target_type: "مدرسة"
 related:
 - id: "sch-vaisheshika", title: "الفايشيشيكا", type: "مدرسة"
 - id: "thk-democritus", title: "ديموقريطس", type: "مفكر"

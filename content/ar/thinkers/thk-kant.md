@@ -13,7 +13,7 @@ language: "الألمانية، اللاتينية"
 active_start: 1764
 active_end: 1804
 edges:
-- rel: "belongs_to", target: "الكانطية النقدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"

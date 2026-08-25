@@ -13,7 +13,7 @@ active_start: 1977
 active_end: 2015
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "مدرسة Bion", target_type: "تيار"
 related:
 - id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "تيار"

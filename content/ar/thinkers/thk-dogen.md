@@ -13,7 +13,7 @@ language: "اليابانية الكلاسيكية والصينية"
 active_start: 1227
 active_end: 1253
 edges:
-- rel: "belongs_to", target: "زن: سوتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-zen-soto", target_type: "مدرسة"
 related:
 - id: "thk-brian-victoria", title: "براين فيكتوريا (Brian Victoria)", type: "مفكر"
 - id: "br-zen-soto-classical", title: "زن سوتو الكلاسيكي — البوذية اليابانية", type: "تيار"

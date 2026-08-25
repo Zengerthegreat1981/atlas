@@ -13,7 +13,7 @@ language: "السنسكريتية"
 active_start: 360
 active_end: 420
 edges:
-- rel: "belongs_to", target: "يوغاكارا / فيجنانافادا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-yogacara", target_type: "مدرسة"
 related:
 - id: "sch-yogacara", title: "مدرسة يوغاكارا", type: "مدرسة"
 - id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"

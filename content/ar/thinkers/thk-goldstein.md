@@ -13,7 +13,7 @@ language: "الألمانية"
 country: "ألمانيا"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "wrk-goldstein-organism", title: "الكائن الحي (The Organism)", type: "عمل / كتاب"
 - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"

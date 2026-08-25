@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1968
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "فلسفة البيئة / الأخلاق البيئية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
 - id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"

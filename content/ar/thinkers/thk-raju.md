@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1931
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "الفلسفة المقارنة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-masson-oursel", title: "ماسون أورسيل", type: "مفكر"
 - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"

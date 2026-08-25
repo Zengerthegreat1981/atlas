@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1787
 active_end: 1797
 edges:
-- rel: "belongs_to", target: "النسوية الليبرالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-liberal", target_type: "مدرسة"
 - rel: "founded", target: "النسوية الليبرالية", target_type: "مدرسة"
 related:
 - id: "thk-pateman", title: "كاثرين بيتمان", type: "مفكر"

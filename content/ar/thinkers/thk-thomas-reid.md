@@ -13,8 +13,7 @@ language: "الإنجليزية"
 active_start: 1740
 active_end: 1796
 edges:
-- rel: "belongs_to", target: "فلسفة الحس المشترك الاسكتلندية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-scottish-common-sense", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

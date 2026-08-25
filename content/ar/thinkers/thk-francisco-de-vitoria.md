@@ -13,8 +13,7 @@ language: "اللاتينية"
 active_start: 1513
 active_end: 1546
 edges:
-- rel: "belongs_to", target: "السكولاستية الثانية (إسبانيا، عصر النهضة)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-second-scholasticism", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

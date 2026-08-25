@@ -13,7 +13,7 @@ language: "الروسية"
 country: "روسيا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "exp-dostoevsky-mock-execution-siberia", title: "وقوف دوستويفسكي أمام فرقة الإعدام (1849) وتجربة اللحظة الأخيرة", type: "خبرة معيشة"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"

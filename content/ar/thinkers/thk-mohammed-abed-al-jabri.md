@@ -13,7 +13,7 @@ language: "العربية"
 active_start: 1980
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "الفكر الإسلامي النقدي المعاصر", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 related:
 - id: "wrk-formation-of-arab-reason-jabri", title: "تكوين العقل العربي لمحمد عابد الجابري", type: "عمل / كتاب"
 - id: "thk-mohammed-arkoun", title: "محمد أركون", type: "مفكر"

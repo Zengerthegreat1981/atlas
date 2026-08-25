@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1961
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics-critical", target_type: "مدرسة"
 related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 - id: "thk-gadamer", title: "هانس-غورغ غادامير", type: "مفكر"

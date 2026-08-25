@@ -13,7 +13,7 @@ language: "الهندية، المراثية، الإنجليزية"
 active_start: 1923
 active_end: 1966
 edges:
-- rel: "belongs_to", target: "الفلسفة الهندوسية القومية (هندوتفا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hindutva", target_type: "مدرسة"
 related:
 - id: "wrk-essentials-hindutva", title: "أصول الهندوتفا (Essentials of Hindutva)", type: "عمل / كتاب"
 - id: "con-hindutva", title: "هندوتفا (الهندوسية كقومية)", type: "مفهوم"

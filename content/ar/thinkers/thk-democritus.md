@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -420
 active_end: -370
 edges:
-- rel: "belongs_to", target: "الذرية اليونانية (Greek Atomism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
 - id: "thk-kanada", title: "كاشيابا كانادا", type: "مفكر"
 - id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"

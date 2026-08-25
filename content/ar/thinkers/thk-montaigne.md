@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1563
 active_end: 1592
 edges:
-- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "exp-montaigne-tower-retirement", title: "اعتزال مونتين في برج قصرته بعد سقوط الحصان واكتشاف فن المقالة", type: "خبرة معيشة"
 gaps:

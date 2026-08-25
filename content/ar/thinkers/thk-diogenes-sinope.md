@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -380
 active_end: -323
 edges:
-- rel: "belongs_to", target: "الكلبية (Cynicism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cynicism", target_type: "مدرسة"
 related:
 - id: "sch-cynicism", title: "المدرسة الكلبية", type: "مدرسة"
 - id: "thk-socrates", title: "سقراط", type: "مفكر"

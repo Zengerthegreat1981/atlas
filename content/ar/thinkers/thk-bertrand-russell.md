@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1900
 active_end: 1959
 edges:
-- rel: "belongs_to", target: "الذرية المنطقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
 related:
 - id: "thk-lwittgenstein", title: "فيتغنشتاين", type: "مفكر"
 - id: "thk-gfrege", title: "فريجه", type: "مفكر"

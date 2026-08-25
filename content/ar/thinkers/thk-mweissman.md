@@ -13,7 +13,7 @@ active_start: 1978
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بين الأشخاص (IPT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
 - id: "thk-jmarkowitz", title: "جيمس ماركويتز", type: "مفكر"
 - id: "con-ipt-problem-areas", title: "المشاكل الأربعة في العلاج بين الأشخاص (IPT): الفجيعة، الخلافات الأدائية، التحولات الأدائية، والعجز الأدائي", type: "مفهوم"

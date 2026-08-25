@@ -13,7 +13,7 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-martin-bohus", title: "مارتن بوهوس", type: "مفكر"

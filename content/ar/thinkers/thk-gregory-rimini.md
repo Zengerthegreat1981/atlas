@@ -14,7 +14,7 @@ language: "اللاتينية"
 active_start: 1323
 active_end: 1358
 edges:
-- rel: "belongs_to", target: "الأوكامية / الاسمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ockhamism", target_type: "مدرسة"
 - rel: "developed", target: "الأوكامية / الاسمية", target_type: "مدرسة"
 related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"

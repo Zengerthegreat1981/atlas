@@ -14,7 +14,7 @@ language: "الماراثية، الهندية، السنسكريتية، الإ
 active_start: 1916
 active_end: 1982
 edges:
-- rel: "belongs_to", target: "الغاندية (كفلسفة سياسية-أخلاقية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
 - rel: "developed", target: "الغاندية (كفلسفة سياسية-أخلاقية)", target_type: "مدرسة"
 related:
 - id: "thk-gandhi", title: "غاندي", type: "مفكر"

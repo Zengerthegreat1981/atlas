@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1912
 active_end: 1936
 edges:
-- rel: "belongs_to", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

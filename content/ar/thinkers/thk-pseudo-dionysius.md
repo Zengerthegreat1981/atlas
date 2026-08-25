@@ -13,7 +13,7 @@ active_end: 530
 country: "الإمبراطورية البيزنطية (الأناضول/سوريا)"
 language: "اليونانية"
 edges:
-- rel: "belongs_to", target: "اللاهوت السلبي / الأبوفاتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-apophatic", target_type: "مدرسة"
 related:
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"

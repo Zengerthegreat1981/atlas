@@ -13,7 +13,7 @@ active_start: 1999
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-alecmiller", title: "أليك ميلر", type: "مفكر"

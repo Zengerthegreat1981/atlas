@@ -14,7 +14,7 @@ active_end: 1962
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← بلاسيد تيمبلس (مُكتشف الفلسفة البانتو)"
 edges:
-- rel: "belongs_to", target: "الإثنوفلسفة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ethnophilosophy", target_type: "مدرسة"
 - rel: "founded", target: "الإثنوفلسفة", target_type: "مدرسة"
 related:
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"

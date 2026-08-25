@@ -14,7 +14,7 @@ active_end: -2400
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← بتاح حتب"
 edges:
-- rel: "belongs_to", target: "تقليد الحكمة المصرية (ماعت)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
 - id: "wrk-instructions-ptahhotep", title: "تعاليم بتاح حتب", type: "عمل / كتاب"
 - id: "wrk-maxims-ptahhotep", title: "حكم وتعاليم بتاح حتب", type: "عمل / كتاب"

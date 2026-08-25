@@ -14,7 +14,7 @@ language: "العربية، الفارسية، السنسكريتية"
 active_start: 995
 active_end: 1048
 edges:
-- rel: "belongs_to", target: "المانوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-manicheism", target_type: "مدرسة"
 - rel: "criticized", target: "الغنوصية القديمة (بفروعها)", target_type: "مدرسة"
 related:
 - id: "thk-mani", title: "ماني", type: "مفكر"

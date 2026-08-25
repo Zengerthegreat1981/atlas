@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -310
 active_end: -270
 edges:
-- rel: "belongs_to", target: "الأبيقورية (Epicureanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epicureanism", target_type: "مدرسة"
 related:
 - id: "thk-lucretius", title: "لوكريتيوس كاروس", type: "مفكر"
 - id: "trm-ataraxia-epicurean-pyrrhonic", title: "الأتاراكسيا (Ataraxia): طمأنينة البال وخلو النفس من الاضطراب", type: "مصطلح لغوي متنازع عليه"

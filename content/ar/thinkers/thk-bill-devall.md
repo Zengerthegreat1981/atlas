@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1970
 active_end: 2002
 edges:
-- rel: "belongs_to", target: "الإيكولوجيا العميقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"
 related:
 - id: "thk-arne-naess", title: "آرنه نايس", type: "مفكر"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"

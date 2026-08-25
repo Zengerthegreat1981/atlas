@@ -13,7 +13,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-narrative-therapy", target_type: "مدرسة"
 related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "thk-gcombs", title: "جين كومبز", type: "مفكر"

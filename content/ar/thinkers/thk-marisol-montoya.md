@@ -13,15 +13,15 @@ active_end: "مستمر"
 country: "كولومبيا"
 language: "الإسبانية"
 edges:
-- rel: "belongs_to", target: "علم نفس التحرر", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتين-بارو", type: "مفكر"
 - id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "إسهاماتها في 'علم نفس الشعوب الأصلية' تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "إسهاماتها في 'علم نفس الشعوب الأصلية' تحتاج فصلاً."
 ---
 
 # ماريسول مونتويا

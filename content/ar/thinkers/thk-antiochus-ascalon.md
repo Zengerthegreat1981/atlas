@@ -13,8 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -95
 active_end: -68
 edges:
-- rel: "belongs_to", target: "الأفلاطونية الوسطى (Middle Platonism)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-middle-platonism", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

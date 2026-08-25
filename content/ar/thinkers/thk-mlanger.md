@@ -13,7 +13,7 @@ active_start: 1938
 active_end: 1987
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "علم النفس التحليلي اللاتيني", target_type: "تيار"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

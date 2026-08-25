@@ -13,7 +13,7 @@ active_end: 1058
 country: "الأندلس (الطوائف)"
 language: "العربية (أعماله الفلسفية) والعبرية (شعره)"
 edges:
-- rel: "belongs_to", target: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
 - id: "wrk-fons-vitae", title: "ينبوع الحياة (Fons Vitae)", type: "عمل / كتاب"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"

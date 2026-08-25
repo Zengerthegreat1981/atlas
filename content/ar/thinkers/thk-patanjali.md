@@ -14,7 +14,7 @@ active_end: 400
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← باتانجالي (مؤسس اليوغا الكلاسيكية)"
 edges:
-- rel: "belongs_to", target: "يوغا الفلسفية (باتانجالي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-yoga", target_type: "مدرسة"
 related:
 - id: "sch-yoga", title: "يوغا الفلسفية (باتانجالي)", type: "مدرسة"
 - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"

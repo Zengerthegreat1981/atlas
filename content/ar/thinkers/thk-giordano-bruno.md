@@ -13,7 +13,7 @@ language: "الإيطالية واللاتينية"
 active_start: 1580
 active_end: 1600
 edges:
-- rel: "belongs_to", target: "الطبيعانية النهضوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-renaissance-naturalism", target_type: "مدرسة"
 related:
 - id: "sch-renaissance-naturalism", title: "الطبيعانية النهضوية", type: "مدرسة"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"

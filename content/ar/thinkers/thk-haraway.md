@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "ما بعد الإنسانية (Posthumanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-posthumanism", target_type: "مدرسة"
 related:
 - id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"

@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1953
 active_end: 1976
 edges:
-- rel: "belongs_to", target: "فلسفة التكنولوجيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-technology", target_type: "مدرسة"
 related:
 - id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (Die Frage nach der Technik)", type: "عمل / كتاب"
 - id: "con-gestell", title: "الإطار (Gestell)", type: "مفهوم"

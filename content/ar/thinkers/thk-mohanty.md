@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-postcolonial", target_type: "مدرسة"
 related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"

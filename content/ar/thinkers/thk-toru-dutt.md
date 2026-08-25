@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1873
 active_end: 1877
 edges:
-- rel: "belongs_to", target: "الفلسفة الطاغورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-tagore-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
 - id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان", type: "مفكر"

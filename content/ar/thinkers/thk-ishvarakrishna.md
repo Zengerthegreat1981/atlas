@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 380
 active_end: 420
 edges:
-- rel: "belongs_to", target: "سامخيا", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-samkhya", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

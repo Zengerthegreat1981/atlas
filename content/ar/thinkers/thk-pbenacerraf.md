@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1965
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "فلسفة الرياضيات التحليلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mathematics", target_type: "مدرسة"
 related:
 - id: "sch-phil-mathematics", title: "فلسفة الرياضيات التحليلية", type: "مدرسة"
 gaps:

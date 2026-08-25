@@ -14,8 +14,8 @@ active_start: 1964
 active_end: 1989
 evidence_level: "theoretical"
 edges:
-- rel: "belongs_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
-- rel: "belongs_to", target: "الفلسفة الأفريقية المهنية/الأكاديمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-professional-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"

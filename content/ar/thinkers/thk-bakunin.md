@@ -13,7 +13,7 @@ language: "الروسية، الألمانية، الفرنسية"
 active_start: 1842
 active_end: 1876
 edges:
-- rel: "belongs_to", target: "الأناركية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anarchism", target_type: "مدرسة"
 related:
 - id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
 - id: "thk-proudhon", title: "بيير جوزيف برودون", type: "مفكر"

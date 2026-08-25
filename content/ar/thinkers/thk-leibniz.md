@@ -13,8 +13,8 @@ language: "اللاتينية، الفرنسية، الألمانية"
 active_start: 1666
 active_end: 1716
 edges:
-- rel: "belongs_to", target: "اللايبنتزية", target_type: "مدرسة"
-- rel: "belongs_to", target: "العقلانية القارية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 related:
 - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"

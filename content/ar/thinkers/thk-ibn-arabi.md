@@ -13,7 +13,7 @@ active_end: 1240
 country: "الموحدون (الأندلس)، الأيوبيون (الشام)، سلاجقة الروم (قونية)"
 language: "العربية"
 edges:
-- rel: "belongs_to", target: "العرفان النظري (وحدة الوجود)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
 - id: "exp-ibn-arabi-damascus-visions", title: "رؤى ابن عربي في مكة ودمشق وتدوين الفتوحات المكية", type: "خبرة معيشة"
 - id: "con-wahdat-al-wujud-oneness-of-being", title: "وحدة الوجود العرفانية (Wahdat al-Wujud)", type: "مفهوم"

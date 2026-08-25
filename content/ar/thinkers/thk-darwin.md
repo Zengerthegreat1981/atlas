@@ -12,7 +12,7 @@ crumb: "العلوم التطورية وفلسفة البيولوجيا ← مف
 active_start: null
 active_end: 1882
 edges:
-- rel: "belongs_to", target: "التجريبية البريطانية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "wrk-origin-of-species-darwin", title: "أصل الأنواع", type: "عمل / كتاب"
 - id: "ctx-victorian-britain-morality-crisis", title: "العصر الفيكتوري وأزمة الإيمان", type: "سياق/تقليد"

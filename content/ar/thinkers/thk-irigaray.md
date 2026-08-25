@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1974
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية الفرنسية (ما بعد بنيوية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"

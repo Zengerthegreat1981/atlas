@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "con-unrepresented-experience", title: "الخبرة غير المُمثّلة (Unrepresented Experience)", type: "مفهوم"
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"

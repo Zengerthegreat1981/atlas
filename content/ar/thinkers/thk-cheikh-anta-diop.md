@@ -14,8 +14,8 @@ active_end: 1986
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم)"
 edges:
-- rel: "belongs_to", target: "أفريقية المركز (Afrocentrism)", target_type: "مدرسة"
-- rel: "belongs_to", target: "عموم أفريقيا (Pan-Africanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-afrocentrism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pan-africanism", target_type: "مدرسة"
 related:
 - id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
 - id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"

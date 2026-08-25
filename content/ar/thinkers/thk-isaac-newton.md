@@ -12,7 +12,7 @@ crumb: "فلسفة العلم والفيزياء الكلاسيكية ← مؤس
 active_start: 1665
 active_end: 1727
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "dia-leibniz-clarke-correspondence", title: "مراسلات لايبنتز وكلارك", type: "حوار مع مدرسة مجاورة"
 - id: "ctx-scientific-revolution-17th", title: "الثورة العلمية في القرن السابع عشر والميكانيكية الجديدة", type: "سياق/تقليد"

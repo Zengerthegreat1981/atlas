@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1970
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "الفلسفة الأفريقية المهنية/الأكاديمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-professional-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-twolofor", title: "تويين فالولا", type: "مفكر"
 - id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"

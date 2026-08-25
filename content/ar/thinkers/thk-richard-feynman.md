@@ -12,7 +12,7 @@ crumb: "فلسفة الفيزياء وميكانيكا الكم ← رواد ←
 active_start: 1942
 active_end: 1988
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "met-feynman-chess-gods", title: "شطرنج الآلهة", type: "استعارة/مجاز مؤسِّس"
 gaps:

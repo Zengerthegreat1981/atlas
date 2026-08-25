@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1839
 active_end: 1872
 edges:
-- rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegel-left", target_type: "مدرسة"
 related:
 - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
 - id: "thk-hegel", title: "هيغل", type: "مفكر"

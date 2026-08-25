@@ -12,7 +12,7 @@ crumb: "علم النفس التحرري والشعوب الأصلية ← رو�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم نفس الشعوب الأصلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
 - id: "exp-david-duran-indigenous-soul-wound", title: "تجارب إدواردو دوران مع المحاربين القدامى وعلاج جرح الروح", type: "خبرة معيشة"
 - id: "con-two-eyed-seeing-indigenous", title: "الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة", type: "مفهوم"

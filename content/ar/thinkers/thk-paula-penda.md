@@ -13,15 +13,15 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج بالـ Imago", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
 - id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "إسهاماتها في Imago Education و Imago للعلاقات خارج الزواج تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "إسهاماتها في Imago Education و Imago للعلاقات خارج الزواج تحتاج فصلاً."
 ---
 
 # بولا بيندا

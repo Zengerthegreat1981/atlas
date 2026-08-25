@@ -13,7 +13,7 @@ active_start: 1979
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "البين-ذاتية (Intersubjectivity)", target_type: "تيار"
 related:
 - id: "thk-dorange", title: "دونا م. أورانج", type: "مفكر"

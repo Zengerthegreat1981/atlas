@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-narrative-therapy", target_type: "مدرسة"
 related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"

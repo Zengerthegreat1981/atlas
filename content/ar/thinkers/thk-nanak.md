@@ -14,7 +14,7 @@ active_end: 1539
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← غورو ناناك (مؤسس السيخية)"
 edges:
-- rel: "belongs_to", target: "السيخية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sikh-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-sikh-philosophy", title: "السيخية الفلسفية", type: "مدرسة"
 gaps:

@@ -12,7 +12,7 @@ crumb: "أخلاقيات الشهادة والفلسفة الوجودية ← م
 active_start: null
 active_end: 1987
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "exp-primo-levi-auschwitz-survival", title: "بريمو ليفي في أوشفيتز", type: "خبرة معيشة"
 gaps:

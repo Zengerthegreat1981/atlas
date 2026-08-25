@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1310
 active_end: 1342
 edges:
-- rel: "belongs_to", target: "الرشدية اللاتينية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-latin-averroism", target_type: "مدرسة"
 related:
 - id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
 - id: "thk-siger-brabant", title: "سيجَر دي برابان", type: "مفكر"

@@ -13,7 +13,7 @@ language: "اليابانية"
 active_start: 1915
 active_end: 1962
 edges:
-- rel: "belongs_to", target: "مدرسة كيوتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

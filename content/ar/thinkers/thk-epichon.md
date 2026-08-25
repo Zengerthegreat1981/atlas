@@ -13,7 +13,7 @@ active_start: 1940
 active_end: 1977
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "علم النفس التحليلي اللاتيني", target_type: "تيار"
 related:
 - id: "thk-arascovsky", title: "أرماندو راسكوفسكي", type: "مفكر"

@@ -14,7 +14,7 @@ active_end: 1138
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← ابن باجة (أبو بكر بن الصائغ / Avempace)"
 edges:
-- rel: "belongs_to", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"

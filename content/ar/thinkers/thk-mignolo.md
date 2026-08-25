@@ -13,7 +13,7 @@ language: "الإسبانية، الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة الديكولونيالية (كمظلة عالمية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مدرسة"
 related:
 - id: "wrk-coloniality-power-quijano", title: "كولونيالية السلطة (Coloniality of Power)", type: "عمل / كتاب"
 - id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"

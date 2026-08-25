@@ -15,7 +15,7 @@ language: "الإنجليزية، البرتغالية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
 - id: "thk-jledoux", title: "جوزيف ليدو", type: "مفكر"

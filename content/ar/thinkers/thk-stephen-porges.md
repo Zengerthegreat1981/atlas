@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1994
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج المستنير بنظرية البوليفاجال", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"

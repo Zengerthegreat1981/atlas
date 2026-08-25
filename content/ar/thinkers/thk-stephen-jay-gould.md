@@ -12,7 +12,7 @@ crumb: "علم الأحياء التطوري وفلسفة العلوم ← رو�
 active_start: 1965
 active_end: 2002
 edges:
-- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "met-spandrels-of-san-marco", title: "ركائز كنيسة سان ماركو لستيفن جاي غولد: استعارة النواتج التطورية العرضية", type: "استعارة/مجاز مؤسِّس"
 - id: "que-panadaptationism-vs-drift", title: "هل كل سلوك وعاطفة بشرية تكيف وراثي نفعي أم نتاج طفرات عشوائية؟", type: "سؤال توليدي"

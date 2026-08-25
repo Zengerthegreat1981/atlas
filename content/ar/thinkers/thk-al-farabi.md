@@ -13,7 +13,7 @@ active_end: 950
 country: "العباسيون (بغداد)، السامانيون، الحمدانيون (حلب)"
 language: "العربية (مع بعض التركية/الفارسية)"
 edges:
-- rel: "belongs_to", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"

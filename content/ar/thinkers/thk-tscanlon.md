@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1972
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-contractualism", target_type: "مدرسة"
 related:
 - id: "wrk-what-we-owe", title: "ماذا ندين لبعضنا البعض (What We Owe to Each Other)", type: "عمل / كتاب"
 - id: "sch-contractualism", title: "التعاقدية/التعاقدانية الأخلاقية الحديثة", type: "مدرسة"

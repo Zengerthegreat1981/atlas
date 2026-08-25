@@ -13,7 +13,7 @@ language: "الإنجليزية واللاتينية"
 active_start: 1605
 active_end: 1626
 edges:
-- rel: "belongs_to", target: "التجريبية البريطانية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "thk-descartes", title: "ديكارت", type: "مفكر"

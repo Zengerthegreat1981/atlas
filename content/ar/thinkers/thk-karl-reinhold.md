@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1786
 active_end: 1823
 edges:
-- rel: "belongs_to", target: "الكانطية النقدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:
 - id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"

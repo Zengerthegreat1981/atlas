@@ -13,7 +13,7 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1738
 active_end: 1776
 edges:
-- rel: "belongs_to", target: "الهيومية (الشكّ التجريبي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humeanism", target_type: "مدرسة"
 related:
 - id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"

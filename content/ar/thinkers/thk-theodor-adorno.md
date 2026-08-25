@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1931
 active_end: 1969
 edges:
-- rel: "belongs_to", target: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-frankfurt-school", target_type: "مدرسة"
 related:
 - id: "sch-frankfurt-school", title: "مدرسة فرانكفورت", type: "مدرسة"
 - id: "thk-max-horkheimer", title: "ماكس هوركهايمر", type: "مفكر"

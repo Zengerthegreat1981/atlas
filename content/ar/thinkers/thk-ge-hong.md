@@ -14,7 +14,7 @@ active_start: 300
 active_end: 343
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الداووية الدينية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-daoism-religious", target_type: "مدرسة"
 related:
 - id: "wrk-baopuzi", title: "كتاب باو بو تزو (الأب البسيط)", type: "عمل / كتاب"
 - id: "con-zhenren", title: "الرجل الحقيقي (真人 zhēnrén)", type: "مفهوم"

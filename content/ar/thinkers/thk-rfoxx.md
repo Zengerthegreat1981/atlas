@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-nazrin", title: "نَثَان هـ. أزّرين", type: "مفكر"
 - id: "thk-lovaas", title: "أو. إيفار لوفاس", type: "مفكر"

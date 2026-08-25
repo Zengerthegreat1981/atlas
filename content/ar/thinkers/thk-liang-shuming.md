@@ -14,7 +14,7 @@ active_start: 1917
 active_end: 1988
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-newconfucianism-modern", target_type: "مدرسة"
 related:
 - id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
 - id: "thk-mou-zongsan", title: "مو تسونغ سان", type: "مفكر"

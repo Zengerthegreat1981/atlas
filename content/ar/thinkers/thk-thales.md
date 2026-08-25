@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -585
 active_end: -546
 edges:
-- rel: "belongs_to", target: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-milesian", target_type: "مدرسة"
 related:
 - id: "con-arche-principle", title: "الأرخيه — المبدأ والأصل الأول (Archē)", type: "مفهوم"
 - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"

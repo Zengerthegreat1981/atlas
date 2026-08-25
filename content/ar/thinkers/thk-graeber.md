@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 2001
 active_end: 2020
 edges:
-- rel: "belongs_to", target: "الفوضوية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-anarchism-contemporary", target_type: "مدرسة"
 related:
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"

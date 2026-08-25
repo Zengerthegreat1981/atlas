@@ -13,8 +13,7 @@ language: "السنسكريتية"
 active_start: 630
 active_end: 680
 edges:
-- rel: "belongs_to", target: "أدفايتا فيدانتا (اللاتثنية)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

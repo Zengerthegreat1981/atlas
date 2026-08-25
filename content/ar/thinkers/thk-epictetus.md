@@ -13,7 +13,7 @@ language: "الإغريقية"
 active_start: 90
 active_end: 135
 edges:
-- rel: "belongs_to", target: "الرواقية (Stoicism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "sch-stoicism", title: "المدرسة الرواقية", type: "مدرسة"
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"

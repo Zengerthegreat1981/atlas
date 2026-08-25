@@ -14,7 +14,7 @@ active_end: 820
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← شانكارا (أدفايتا فيدانتا)"
 edges:
-- rel: "belongs_to", target: "أدفايتا فيدانتا (اللاتثنية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"

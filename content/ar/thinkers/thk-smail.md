@@ -13,7 +13,7 @@ country: "بريطانيا"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"

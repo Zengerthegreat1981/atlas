@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "أفريقية المركز (Afrocentrism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-afrocentrism", target_type: "مدرسة"
 related:
 - id: "thk-twolofor", title: "تويين فالولا", type: "مفكر"
 - id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"

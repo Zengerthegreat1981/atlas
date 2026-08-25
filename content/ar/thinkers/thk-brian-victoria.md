@@ -13,7 +13,7 @@ active_end: "مستمر"
 country: "الولايات المتحدة، اليابان، أستراليا"
 language: "الإنجليزية، اليابانية"
 edges:
-- rel: "belongs_to", target: "علم النفس البوذي (Buddhist Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "thk-mkwee", title: "ميشيل كوي", type: "مفكر"
@@ -21,9 +21,9 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الزن (Zen) (con-zen)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأخلاق البوذية (con-ethics-buddhist)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفصل في 'Zen at War' (1997، 2006) يحتاج مراجعة."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفصل في 'Zen at War' (1997، 2006) يحتاج مراجعة."
 ---
 
 # براين فيكتوريا

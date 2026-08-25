@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1743
 active_end: 1784
 edges:
-- rel: "belongs_to", target: "فلسفة التنوير (كمظلة عامة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
 related:
 - id: "ctx-french-salons-encyclopedie", title: "الصالونات الباريسية ومشروع الموسوعة لديدرو ودالمبير", type: "سياق/تقليد"
 gaps:

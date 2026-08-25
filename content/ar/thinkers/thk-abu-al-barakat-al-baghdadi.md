@@ -13,8 +13,7 @@ language: "العربية"
 active_start: 1110
 active_end: 1165
 edges:
-- rel: "belongs_to", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

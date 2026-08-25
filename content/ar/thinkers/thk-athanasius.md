@@ -13,7 +13,7 @@ active_end: 373
 country: "الإسكندرية (مصر الرومانية)"
 language: "اليونانية (مع اللاتينية المتأخرة)"
 edges:
-- rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:
 - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 gaps:

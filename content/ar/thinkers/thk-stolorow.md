@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
@@ -21,7 +21,6 @@ related:
 - id: "con-death", title: "الموت", type: "مفهوم"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "br-self-psychology", title: "علم نفس الذات", type: "تيار"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "المنظومة البين-ذاتية (Intersubjective Systems Theory) وكتاب 'الصدمة والوجود الإنساني' يستحقان توثيقاً."

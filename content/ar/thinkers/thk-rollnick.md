@@ -13,7 +13,7 @@ country: "المملكة المتحدة (ويلز)"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "co-developed", target: "المقابلة التحفيزية (Motivational Interviewing)", target_type: "تيار"
 related:
 - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"

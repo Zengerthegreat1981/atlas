@@ -15,7 +15,7 @@ evidence_level: "emerging"
 active_start: 1980
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "sch-aedp", title: "AEDP — العلاج الديناميكي التجريبي المتسارع", type: "مدرسة"
 - id: "thk-fosha", title: "دينا فوشا", type: "مفكر"

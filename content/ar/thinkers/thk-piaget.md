@@ -15,7 +15,7 @@ language: "الفرنسية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "علم النفس النمائي (Developmental Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 - rel: "developed", target: "العلاج المعرفي البنائي", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"

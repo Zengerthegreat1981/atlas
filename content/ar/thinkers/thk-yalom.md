@@ -13,7 +13,7 @@ language: "الإنجليزية"
 country: "أمريكا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "dbt-british-yalom", title: "الخصومة البريطانية", type: "جدل"

@@ -13,7 +13,7 @@ language: "العربية"
 active_start: 1280
 active_end: 1290
 edges:
-- rel: "belongs_to", target: "الإشراقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
 - id: "thk-suhrawardi", title: "السهروردي", type: "مفكر"
 gaps:

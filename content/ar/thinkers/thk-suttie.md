@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 1935
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"

@@ -12,7 +12,7 @@ crumb: "الكلاسيكية الفيمارية والفلسفة الجمالي�
 active_start: null
 active_end: 1832
 edges:
-- rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 related:
 - id: "ctx-weimar-classicism-goethe-schiller", title: "الكلاسيكية الفيمارية", type: "سياق/تقليد"
 gaps:

@@ -13,7 +13,7 @@ country: "أمريكا / فرنسا"
 language: "الإنجليزية / الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
@@ -22,7 +22,6 @@ related:
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "رواية 'اللامنتمي/الغريب' (The Outsider, 1953) وتأثره المباشر بسارتر وبوفوار في باريس تستحق توثيقاً."

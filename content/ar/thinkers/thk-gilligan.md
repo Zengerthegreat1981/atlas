@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "أخلاقيات الرعاية (Care Ethics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:
 - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"

@@ -13,7 +13,7 @@ active_start: 1962
 active_end: 2017
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-irubenfeld", title: "إيلانا روبنفِلد", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"

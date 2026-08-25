@@ -14,7 +14,7 @@ active_end: 1946
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← فنغ يو-لان (الفلسوف المؤسِّس للنيوكونفوشية الحديثة)"
 edges:
-- rel: "belongs_to", target: "الكونفوشية الجديدة (مظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
 - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
 - id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"

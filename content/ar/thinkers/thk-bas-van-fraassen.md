@@ -13,7 +13,7 @@ language: "الإنجليزية / الهولندية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الواقعية العلمية / اللاواقعية العلمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scientific-realism", target_type: "مدرسة"
 related:
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 - id: "thk-kuhn", title: "رولاند كون", type: "مفكر"

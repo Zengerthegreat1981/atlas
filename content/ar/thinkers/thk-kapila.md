@@ -14,7 +14,7 @@ active_end: -500
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← كابيلا (مؤسس سامخيا)"
 edges:
-- rel: "belongs_to", target: "سامخيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-samkhya", target_type: "مدرسة"
 related:
 - id: "con-prakriti", title: "پرَكْرِتِي (الطبيعة / الجوهر المادي الأول)", type: "مفهوم"
 - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"

@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1946
 active_end: 2014
 edges:
-- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
 - id: "thk-wmischel", title: "والتَر ميشيل", type: "مفكر"

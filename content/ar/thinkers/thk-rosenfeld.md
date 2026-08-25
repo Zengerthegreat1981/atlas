@@ -13,12 +13,11 @@ part: "philosophy"
 active_start: null
 active_end: 1986
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "التمييز بين 'النرجسية الليبيدية' و'النرجسية التدميرية' (Destructive Narcissism) يستحق إدراجاً مفاهيمياً."

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1958
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-rawlsianism", target_type: "مدرسة"
 related:
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"

@@ -13,7 +13,7 @@ active_start: 1935
 active_end: 2002
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jdollard", title: "جون دولارد", type: "مفكر"
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"

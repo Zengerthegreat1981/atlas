@@ -13,7 +13,7 @@ active_end: 1109
 country: "إيطاليا، نورماندي (فرنسا)، إنجلترا"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "المدرسية (السكولاستية) — كمظلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 related:
 - id: "con-ontological-argument-anselm", title: "البرهان الأنطولوجي لوجود الله (Ontological Argument)", type: "مفهوم"
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"

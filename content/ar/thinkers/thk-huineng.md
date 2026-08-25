@@ -13,8 +13,7 @@ language: "الصينية الكلاسيكية"
 active_start: 668
 active_end: 713
 edges:
-- rel: "belongs_to", target: "تشان (الصينية)", target_type: "مدرسة"
-related:
+- rel: "belongs_to", target: "sch-chan", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "البين-ذاتية (Intersubjectivity)", target_type: "تيار"
 related:
 - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"

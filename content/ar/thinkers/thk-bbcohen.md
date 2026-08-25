@@ -13,7 +13,7 @@ active_start: 1973
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 - id: "thk-calbright", title: "كارين ألبريت", type: "مفكر"

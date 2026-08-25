@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1938
 active_end: 2009
 edges:
-- rel: "belongs_to", target: "البنيوية (Structuralisme)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-structuralism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

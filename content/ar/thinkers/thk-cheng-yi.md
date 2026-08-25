@@ -14,7 +14,7 @@ active_start: 1060
 active_end: 1107
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "مدرسة المبدأ (Lixue / Cheng-Zhu)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 related:
 - id: "sch-lixue", title: "مدرسة المبدأ (لي شوي)", type: "مدرسة"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"

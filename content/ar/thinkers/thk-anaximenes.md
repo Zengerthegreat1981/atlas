@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -550
 active_end: -526
 edges:
-- rel: "belongs_to", target: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-milesian", target_type: "مدرسة"
 related:
 - id: "thk-anaximander", title: "أنكسمندر", type: "مفكر"
 gaps:

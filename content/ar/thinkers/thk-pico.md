@@ -13,8 +13,8 @@ language: "اللاتينية"
 active_start: 1486
 active_end: 1494
 edges:
-- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
-- rel: "belongs_to", target: "الأفلاطونية المحدثة في عصر النهضة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-renaissance-neoplatonism", target_type: "مدرسة"
 related:
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
 - id: "sch-renaissance-neoplatonism", title: "الأفلاطونية المحدثة في عصر النهضة", type: "مدرسة"

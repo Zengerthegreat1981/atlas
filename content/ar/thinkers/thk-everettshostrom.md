@@ -13,7 +13,7 @@ active_start: 1963
 active_end: 1992
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
 gaps:

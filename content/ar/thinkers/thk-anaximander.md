@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -560
 active_end: -546
 edges:
-- rel: "belongs_to", target: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-milesian", target_type: "مدرسة"
 related:
 - id: "thk-thales", title: "طاليس", type: "مفكر"
 - id: "con-apeiron-boundless", title: "الأبيرون", type: "مفهوم"

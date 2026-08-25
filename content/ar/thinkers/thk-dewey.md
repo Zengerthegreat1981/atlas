@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1886
 active_end: 1952
 edges:
-- rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "وليام جيمس", type: "مفكر"
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"

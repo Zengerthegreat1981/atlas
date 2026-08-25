@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: 185
 active_end: 210
 edges:
-- rel: "belongs_to", target: "الشك البيروني (Pyrrhonian Skepticism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pyrrhonism", target_type: "مدرسة"
 related:
 - id: "thk-pyrrho", title: "بيرون", type: "مفكر"
 gaps:

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1948
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-virtue-ethics", target_type: "مدرسة"
 related:
 - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
 gaps:

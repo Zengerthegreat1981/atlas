@@ -13,12 +13,11 @@ part: "psychology"
 active_start: null
 active_end: 1948
 edges:
-- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تجربة «مدرسة مالتينغ هاوس» (كامبريدج، 1924–1927) — وهي من أجرأ التجارب التربوية في القرن العشرين، إذ تُركت فيها للأطفال حرية شبه تامة وسُجّلت ملاحظاتهم يومياً — تستحق ملفّ سياق مستقلاً."

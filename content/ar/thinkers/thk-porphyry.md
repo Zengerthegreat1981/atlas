@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: 268
 active_end: 305
 edges:
-- rel: "belongs_to", target: "الأفلاطونية المحدثة (Neoplatonism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
 - id: "br-neoplatonism-roman", title: "الأفلاطونية المحدثة الرومانية — الأفلاطونية المحدثة", type: "تيار"
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"

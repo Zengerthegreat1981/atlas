@@ -13,7 +13,7 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية، التبتية، السنسكريتية"
 edges:
-- rel: "belongs_to", target: "علم النفس البوذي (Buddhist Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "thk-mkwee", title: "ميشيل كوي", type: "مفكر"
@@ -22,9 +22,9 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: تارتنغ تولكو (thk-tartang-tulku)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الدالاي لاما (thk-dalai-lama)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعاطف البوذي (con-buddhist-empathy)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "علاقته بعلم الأعصاب (شارك مع Richard Davidson في تجارب) تحتاج توثيقاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "علاقته بعلم الأعصاب (شارك مع Richard Davidson في تجارب) تحتاج توثيقاً."
   - "هوية الملف: الـslug `thk-robert-thurman` يشير إلى Robert Thurman: Buddhist Psychology in the West. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 

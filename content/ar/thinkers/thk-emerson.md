@@ -13,7 +13,7 @@ language: "الإنجليزية"
 country: "الولايات المتحدة"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
 - id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"

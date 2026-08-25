@@ -13,7 +13,7 @@ active_end: 524
 country: "إيطاليا (المملكة الأودو-قوطية، ثم البيزنطية)"
 language: "اللاتينية"
 edges:
-- rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:
 - id: "exp-boethius-prison-consolation", title: "عزاء بوثيوس في السجن قبل إعدامه وكتابة عزاء الفلسفة", type: "خبرة معيشة"
 - id: "wrk-consolation-philosophy", title: "عزاء الفلسفة (De Consolatione Philosophiae)", type: "عمل / كتاب"

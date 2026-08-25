@@ -15,7 +15,7 @@ evidence_level: "well-established"
 active_start: 1975
 active_end: 2000
 edges:
-- rel: "belongs_to", target: "العلاج المتمحور حول المشاعر (EFT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eft", target_type: "مدرسة"
 related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"

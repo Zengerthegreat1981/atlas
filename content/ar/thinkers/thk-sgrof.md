@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس عبر الشخصي (Transpersonal Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-ctart", title: "تشارلز تارت", type: "مفكر"

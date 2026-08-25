@@ -13,7 +13,7 @@ language: "الإنجليزية/البنغالية"
 active_start: 1976
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-postcolonial", target_type: "مدرسة"
 related:
 - id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
 - id: "wrk-can-the-subaltern-speak", title: "هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988)", type: "عمل / كتاب"
@@ -23,7 +23,6 @@ related:
 gaps:
   - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ميشيل فوكو» (thk-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "نصوص Spivak (Of Grammatology intro, "Can the Subaltern Speak?", A Critique of Postcolonial Reason) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 

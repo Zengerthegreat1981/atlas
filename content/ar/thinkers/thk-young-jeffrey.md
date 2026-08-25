@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "met-schema-modes-theatre", title: "مسرح أنماط المخططات لجيفري يونغ: استعارة الحوار بين أجزاء الذات المتصارعة", type: "استعارة/مجاز مؤسِّس"

@@ -13,7 +13,7 @@ language: "السريانية والعربية والإغريقية"
 active_start: 830
 active_end: 873
 edges:
-- rel: "belongs_to", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "thk-al-kindi", title: "الكندي", type: "مفكر"
 gaps:

@@ -15,7 +15,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 register: "academic"
 edges:
-- rel: "belongs_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 gaps:

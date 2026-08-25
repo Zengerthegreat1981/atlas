@@ -14,7 +14,7 @@ active_end: 250
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← ناغارجونا (مؤسس مادهياماكا)"
 edges:
-- rel: "belongs_to", target: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
 - id: "thk-vasubandhu", title: "فاسوباندو", type: "مفكر"
 - id: "trm-anatta-shunyata-buddhist", title: "الأناتا والشونياتا: اللا-ذات والفراغ الجوهري في البوذية", type: "مصطلح لغوي متنازع عليه"

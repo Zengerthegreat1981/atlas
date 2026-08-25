@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: 390
 active_end: 415
 edges:
-- rel: "belongs_to", target: "الأفلاطونية المحدثة (Neoplatonism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 - id: "ctx-alexandria-library-hellenism", title: "مدرسة الإسكندرية ومكتبتها الكبرى وتلاقي الثقافات الهيلينستية", type: "سياق/تقليد"

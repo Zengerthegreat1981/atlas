@@ -15,7 +15,7 @@ language: "الروسية"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "belongs_to", target: "علم النفس النمائي (Developmental Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 - rel: "developed", target: "العلاج المعرفي البنائي", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
@@ -27,7 +27,6 @@ related:
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "con-zpd", title: "منطقة النمو القريب (Zone of Proximal Development)", type: "مفهوم"
 - id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي الأربع (Piaget)", type: "مفهوم"
-
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: السقالة (Scaffolding) (con-scaffolding)"
   - "تفاصيل أبحاثه في معهد علم النفس التجريبي في موسكو (1924-1934) وعلاقته بتيارات السوفيتية (لوريا، ليونتيف) موثّقة جزئياً."

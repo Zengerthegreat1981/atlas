@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 - id: "thk-kstinshoff", title: "كلاوس شتينشوف", type: "مفكر"

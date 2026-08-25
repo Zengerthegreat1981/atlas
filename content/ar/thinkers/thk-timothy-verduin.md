@@ -13,15 +13,15 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 related:
 - id: "thk-katie-laperriere", title: "كايتي لابيريير (Katie LaPerriere)", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "con-eft-couples-bond-cycle", title: "دورة الترابط", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "إسهاماته في تطبيق EFT مع الأزواج المثليين تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "إسهاماته في تطبيق EFT مع الأزواج المثليين تحتاج فصلاً."
   - "هوية الملف: الـslug `thk-timothy-verduin` يشير إلى Timothy Verduin: Emotionally Focused Couple Therapy. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 

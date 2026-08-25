@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 related:
 - id: "wrk-no-bad-parts", title: "لا توجد أجزاء سيئة", type: "عمل / كتاب"
 - id: "con-internal-family-systems-popular", title: "أنظمة الأسرة الداخلية", type: "مفهوم"

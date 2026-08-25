@@ -14,7 +14,7 @@ active_end: 524
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← مزدك"
 edges:
-- rel: "belongs_to", target: "المزدكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mazdakism", target_type: "مدرسة"
 related:
 - id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
 gaps:

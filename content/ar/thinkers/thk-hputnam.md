@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1953
 active_end: 2016
 edges:
-- rel: "belongs_to", target: "الوظيفية (فلسفة العقل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-functionalism", target_type: "مدرسة"
 related:
 - id: "met-putnam-brain-in-a-vat", title: "العقل في الوعاء لبوتنام: استعارة التشكيك في الواقع والمحاكاة العصبية", type: "استعارة/مجاز مؤسِّس"
 - id: "met-putnam-twin-earth", title: "الأرض التوأم لهيلاري بوتنام: استعارة الدلالة الخارجية والمعنى البيئي", type: "استعارة/مجاز مؤسِّس"

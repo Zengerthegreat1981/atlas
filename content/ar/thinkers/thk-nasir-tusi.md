@@ -13,7 +13,7 @@ active_end: 1274
 country: "الإسماعيلية، المغول (الإيلخانية)"
 language: "العربية والفارسية"
 edges:
-- rel: "belongs_to", target: "مدرسة أصفهان الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-isfahan", target_type: "مدرسة"
 related:
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
