@@ -44,6 +44,5 @@ gaps:
 - "The Single-Session Solution" (مساهمات في كتب هويت).
 - "Sequential Analysis of Brief Therapy" (مقالات).
 
-## قيد
-
+## القيد
 - **أبحاث SST** في جزء منها قائمة على "العيادات المُتاحة" (Walk-in)، وقد لا تعكس مرضى العلاج المنتظم.

@@ -7,7 +7,7 @@ title: "جون غروزولير"
 en: "John Gruzelier"
 crumb: "التغذية الراجعة العصبية ← أبحاث الأداء ← جون غروزولير"
 dates: "بريطانيا"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"

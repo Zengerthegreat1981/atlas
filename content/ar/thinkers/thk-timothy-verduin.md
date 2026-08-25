@@ -25,7 +25,7 @@ gaps:
   - "هوية الملف: الـslug `thk-timothy-verduin` يشير إلى Timothy Verduin: Emotionally Focused Couple Therapy. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
-# تيموثي فيردوين
+# تيموثي فيردوين (Timothy Verduin)
 
 من المؤسسين المبكرين ل**العلاج بالمشاعر للأزواج** (Emotionally Focused Couple Therapy, EFT) مع سو جونسون (Sue Johnson)، ولديه إسهامات رئيسية في تطوير ال EFT ل**الأزواج المثليين** (Same-Sex Couples).
 

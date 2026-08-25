@@ -6,7 +6,7 @@ level: "متوسط"
 title: "مدرسة الإندبندنتس / الوسط البريطانية"
 en: "British Independent / Middle Group"
 crumb: "التحليل النفسي ← التيارات ← مدرسة الإندبندنتس / الوسط البريطانية"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "لندن · أربعينيات القرن العشرين"
 active_start: 1945
 active_end: "مستمر"

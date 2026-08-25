@@ -7,7 +7,7 @@ title: "مايكل مالِه"
 en: "Michael Maley"
 crumb: "علم نفس الجسد ← الناس ← Bioenergetics وعلاج الصدمة ← مايكل مالِه"
 dates: "أمريكا · [غير مؤكد]"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: null
@@ -38,8 +38,7 @@ gaps:
 
 من «Bioenergetics الأخلاقي المعاصر» الذي يدمج Reich-Lowen معايير «الموافقة المستنيرة» و«الحدود» (Trauma-Informed Care) المعاصرة. حلقة الوصل بين Bioenergetics وعلم أخلاقيات العلاج النفسي المعاصر.
 
-## قيد
-
+## القيد
 مُدرج هنا لتركيزه على الأخلاقيات في Bioenergetics. إدراجه كـ«ضامن أخلاقي» ضروري في سياق الانتقادات التاريخية لـ Reich.
 
 ## أهم أعماله

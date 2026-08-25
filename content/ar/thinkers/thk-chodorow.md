@@ -8,7 +8,7 @@ en: "Nancy Chodorow"
 crumb: "مدرسة التحليل النفسي ← الناس ← فرويديون جدد ← نانسي تشودورو"
 dates: "أمريكا · 1944–"
 language: "الإنجليزية"
-country: "أمريكا"
+country: "الولايات المتحدة"
 part: "psychology"
 active_start: null
 active_end: "مستمر"

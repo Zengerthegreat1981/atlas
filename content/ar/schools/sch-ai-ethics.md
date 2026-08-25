@@ -25,7 +25,7 @@ gaps:
   - "نصوص Luciano Floridi, Nick Bostrom, Kate Crawford, Timnit Gebru need review."
 ---
 
-# أخلاقيات الذكاء الاصطناعي (AI Ethics)
+# أخلاقيات الذكاء الاصطناعي
 
 حقل فلسفي معاصر يَدرس الأسئلة الأخلاقية التي يطرحها الذكاء الاصطناعي على المجتمع.
 

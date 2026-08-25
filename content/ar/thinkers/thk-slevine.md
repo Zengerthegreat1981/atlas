@@ -42,6 +42,5 @@ gaps:
 - *Principles and Practice of Expressive Arts Therapy* (2005، مع Knill وLevine).
 - *Trauma, Tragedy, Therapy: The Arts and Human Suffering* (2009).
 
-## قيد
-
+## القيد
 - **مفهوم "Poiesis"** يبقى فلسفياً أكثر منه علاجياً، ويحتاج ترجمة إلى بروتوكولات سريرية.

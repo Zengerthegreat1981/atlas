@@ -7,7 +7,7 @@ title: "مالكولم بارلِت"
 en: "Malcolm Parlett"
 crumb: "الجشطالت الجسدي ← الجشطالت البيئي ← مالكولم بارلت"
 dates: "بريطانيا · 1941–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"

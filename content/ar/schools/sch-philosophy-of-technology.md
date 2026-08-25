@@ -24,7 +24,7 @@ gaps:
   - "نصوص Ernst Kapp, Lewis Mumford, Jacques Ellul, Martin Heidegger, Gilbert Simondon, Bernard Stiegler, Gilbert Hottois, Don Ihde, Peter-Paul Verbeek need review."
 ---
 
-# فلسفة التكنولوجيا (Philosophy of Technology)
+# فلسفة التكنولوجيا
 
 تيار فلسفي يَدرس تأثير التكنولوجيا على الإنسان والمجتمع والمعرفة.
 

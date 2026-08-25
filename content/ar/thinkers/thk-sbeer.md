@@ -7,7 +7,7 @@ title: "ستافورد بير"
 en: "Stafford Beer"
 crumb: "النظرية العامة للأنظمة ← النظم القابلة للحياة ← ستافورد بير"
 dates: "بريطانيا/تشيلي · 1926–2002"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1959
 active_end: 2002

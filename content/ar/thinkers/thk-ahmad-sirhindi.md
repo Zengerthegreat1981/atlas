@@ -24,7 +24,7 @@ gaps:
   - "هوية الملف: الـslug `thk-ahmad-sirhindi` يشير إلى Imam Rabbani Ahmad Sirhindi (Mujaddid Alf-i Thani). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
-# الشيخ أحمد السرهندي (Imam Rabbani)
+# الشيخ أحمد السرهندي (المجدد الثاني)
 
 «المجدد الثاني» (Mujaddid Alf-i Thani)، أكبر منظّر صوفي في الهند المغولية، ومؤسس «وحدة الشهود» (Wahdat al-Shuhud) كنقد لـ«وحدة الوجود» (Wahdat al-Wujud) عند ابن عربي. وُلد في سرهند (البنجاب)، وتتلمذ على يد شيخ النقشبندية في دلهي خواجه باقي بالله.
 

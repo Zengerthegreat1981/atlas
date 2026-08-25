@@ -10,7 +10,7 @@ dates: "بريطانيا"
 active_start: 1989
 active_end: 2007
 language: "الإنجليزية"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"

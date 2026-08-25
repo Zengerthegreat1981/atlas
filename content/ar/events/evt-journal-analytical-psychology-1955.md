@@ -8,7 +8,7 @@ en: "Launch of the Journal of Analytical Psychology, 1955"
 crumb: "علم النفس التحليلي ← تاريخ المنشورات ← مجلة علم النفس التحليلي"
 active_start: "1955-10-01"
 active_end: "مستمر"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 part: "psychology"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"

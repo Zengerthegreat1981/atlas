@@ -48,6 +48,5 @@ gaps:
 - *The Anatomy of Violence: The Biological Roots of Crime* (2013).
 - مقالات محورية في *Archives of General Psychiatry* و*Biological Psychiatry*.
 
-## قيد
-
+## القيد
 - **النموذج العصبي للعدوانية** تعرض لانتقادات ممن يخشون من تحويل المعالجة نحو "التصحيح البيولوجي" بدل العدالة الاجتماعية.

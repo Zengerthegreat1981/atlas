@@ -7,7 +7,7 @@ title: "دانيال فريمان"
 en: "Daniel Freeman"
 crumb: "المعرفية السلوكية ← الناس ← دانيال فريمان"
 dates: "بريطانيا · [DRAFT-UNKNOWN]"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"

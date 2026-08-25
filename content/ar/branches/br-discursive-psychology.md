@@ -6,7 +6,7 @@ level: "متقدم"
 title: "علم النفس الخطابي (بوتر وويذرل)"
 en: "Discursive Psychology"
 crumb: "الإنسانية ← التيارات ← علم النفس الخطابي"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "جامعة لوبورو · 1987"
 active_start: 1987
 active_end: "مستمر"

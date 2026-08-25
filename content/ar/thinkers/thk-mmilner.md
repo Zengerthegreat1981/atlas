@@ -7,7 +7,7 @@ title: "ماريون مِلنر"
 en: "Marion Milner"
 crumb: "العلاج بالخبرة ← مؤسسون ← ماريون ميلنر"
 dates: "بريطانيا · 1900–1998"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1957
 active_end: 1990

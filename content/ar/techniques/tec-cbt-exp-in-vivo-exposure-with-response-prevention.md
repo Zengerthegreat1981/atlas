@@ -6,7 +6,7 @@ level: "متقدم"
 title: "التعرض الحي مع منع الاستجابة"
 en: "In-Vivo Exposure with Response Prevention (ERP)"
 crumb: "العلاج المعرفي السلوكي (CBT) ← التدخلات القائمة على التعرض (Exposure-Based Interventions) ← التعرض الحي مع منع الاستجابة"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "من الستينيات"
 active_start: 1966
 active_end: "مستمر"

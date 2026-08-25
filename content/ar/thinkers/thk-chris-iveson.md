@@ -28,7 +28,7 @@ gaps:
   - "الفرق بين SFT و NLP يحتاج فصلاً."
 ---
 
-# كريس إيفسون
+# كريس إيفسون (Chris Iveson)
 
 معالج نفسي بريطاني، مع ستيف دي شازر (Steve de Shazer) و إيف (Eve)، أحد «مؤسسي» العلاج المركز على الحل (Solution-Focused Brief Therapy، SFBT). من أهم أصوات SFT في بريطانيا.
 

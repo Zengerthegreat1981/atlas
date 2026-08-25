@@ -42,6 +42,5 @@ gaps:
 - "Fascial Fitness" (مع R. Schleip).
 - أبحاث في *Journal of Bodywork and Movement Therapies*.
 
-## قيد
-
+## القيد
 - **"Anatomy Trains"** خضع لاختبار تجريبي محدود، وكثير من خطوطه تبقى في مقام "فرضيات" منهجية.

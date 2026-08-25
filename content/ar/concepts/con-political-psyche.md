@@ -6,7 +6,7 @@ level: "متقدم"
 title: "النفس السياسية والنفس التعددية"
 en: "The Political Psyche and The Plural Psyche"
 crumb: "التحليل النفسي ← المفاهيم ← النفس السياسية"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "من 1989"
 active_start: 1989
 active_end: "مستمر"

@@ -42,6 +42,5 @@ gaps:
 - *Why Do Some Marriages Succeed?* (1983، مع Markman).
 - مقالات محورية في *Journal of Consulting and Clinical Psychology*.
 
-## قيد
-
+## القيد
 - **فعالية PREP على المدى الطويل** ظلت موضع نقاش، خاصة في حالات الإجهاد الشديد.

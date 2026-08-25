@@ -6,7 +6,7 @@ level: "متقدم"
 title: "العلاج العلائقي المجسد (ERT)"
 en: "Embodied-Relational Therapy (ERT)"
 crumb: "الإنسانية ← التيارات ← العلاج العلائقي المجسد"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "أواخر القرن العشرين"
 active_start: 1990
 active_end: "مستمر"

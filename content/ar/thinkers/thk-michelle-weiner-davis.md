@@ -25,7 +25,7 @@ gaps:
   - "إسهاماتها في Imago و Solution-Focused Combination تحتاج فصلاً."
 ---
 
-# ميشيل وينر-ديفيس
+# ميشيل وينر-ديفيس (Michele Weiner-Davis)
 
 معالجة أسرية متخصصة في Imago Therapy و Solution-Focused Therapy، من أهم أصوات «الانفصال المنظم» و «العلاج المركز على الحل» مع Imago.
 

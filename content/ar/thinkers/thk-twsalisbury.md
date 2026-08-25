@@ -29,7 +29,7 @@ gaps:
   - "هوية الملف: الـslug `thk-twsalisbury` يشير إلى Toyin Falola (or another key figure in African psychology). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
-# مؤسس لعلم النفس الأفريقي
+# توبيوس كاسيتو (فيليبس سالزبوري أو تايو سالزبوري)
 
 طبيب نفسي أو عالم نفس أفريقي، من أهم المؤسسين لحقل علم النفس الأفريقي في النصف الثاني من القرن العشرين.
 

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "العلاج المرتكز على الشفقة (CFT)"
 en: "Compassion-Focused Therapy (CFT)"
 crumb: "المعرفية السلوكية ← التقنيات والتدخلات ← العلاج المرتكز على الشفقة (CFT)"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "جامعة ديربي · من أواخر التسعينيات"
 active_start: 2000
 active_end: "مستمر"

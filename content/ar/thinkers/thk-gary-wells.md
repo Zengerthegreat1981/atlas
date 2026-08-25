@@ -28,7 +28,7 @@ gaps:
   - "نقد «John Wixted» و«Ed Vul» لـ«Estimator Variables» مقابل «System Variables» في دراساته المتأخرة موثّق جزئياً."
 ---
 
-# غاري ويلز (Gary L. Wells)
+# غاري ويلز
 
 عالم نفس أمريكي (1951–)، أستاذ علم النفس في **جامعة أيوا** (Iowa State University). يُعدّ من أهمّ الباحثين في **سيكولوجيا شهادة شهود العيَان (Eyewitness Identification)**. تأثيره على النظام القانوني الأمريكي والكندي عميق.
 

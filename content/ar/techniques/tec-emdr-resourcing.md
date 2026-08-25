@@ -19,7 +19,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نموذج المعالجة التأكملية للمعلومات (AIP) لـ EMDR (con-emdr-aip-model)"
   - "الفرق بين Resourcing وResource Development في EMDR 2.0 غير مفصّل."
 ---
-# بناء الموارد (Resourcing & Installation) في EMDR
+# بناء الموارد (Resourcing) في EMDR
 
 ## التعريف
 

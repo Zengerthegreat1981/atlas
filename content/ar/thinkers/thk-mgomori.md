@@ -42,6 +42,5 @@ gaps:
 - "Love and Survival in Times of War" (2003، مع Banmen).
 - "A Human Approach to Culturally Diverse Therapy" (مقالات).
 
-## قيد
-
+## القيد
 - **عمل غوموري على الصدمة الجماعية** يبقى مرجعاً، لكنه لم يُوسَّع أكاديمياً بنفس درجة إصدارات ساتير المباشرة.

@@ -7,7 +7,7 @@ title: "مارغريت ويذَرِيل"
 en: "Margaret Wetherell"
 crumb: "علم النفس الخطابي ← التحليل الخطابي النفسي ← مارغريت ويذرايل"
 dates: "بريطانيا/نيوزيلندا · 1951–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1987
 active_end: "مستمر"

@@ -42,6 +42,5 @@ gaps:
 - "The Family, the Hospital, and the Community" (مقالات).
 - أبحاث في *Psychiatry* و*Family Process*.
 
-## قيد
-
+## القيد
 - **مفهوم Schism/Skew** أُعيد تقييمه في الأدبيات اللاحقة، وأصبح يُقرأ كوصف لا كسبب.

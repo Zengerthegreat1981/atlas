@@ -7,7 +7,7 @@ title: "مارك توتون"
 en: "Mark Totton"
 crumb: "العلاج العلائقي المجسد ← الجسد والصورة ← مارك توتون"
 dates: "بريطانيا · القرن العشرين–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"

@@ -6,7 +6,7 @@ level: "متقدم"
 title: "المدرسة الكلاينية"
 en: "Kleinian Psychoanalysis"
 crumb: "التحليل النفسي ← التيارات ← المدرسة الكلاينية"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "لندن · ثلاثينيات وأربعينيات القرن العشرين"
 active_start: 1926
 active_end: "مستمر"

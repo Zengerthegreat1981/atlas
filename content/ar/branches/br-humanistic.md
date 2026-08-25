@@ -5,7 +5,7 @@ type: "تيار"
 level: ""
 title: "الإنساني-الوجودي الأمريكي"
 en: "Existential-Humanistic"
-country: "أمريكا"
+country: "الولايات المتحدة"
 crumb: "المدرسة الوجودية ← التيارات ← التيار الأمريكي"
 dates: "الولايات المتحدة · من الخمسينيات"
 active_start: 1950

@@ -44,6 +44,5 @@ gaps:
 - "Virtual Reality and Pain Management" (2019, مع Hoffman).
 - مساهمات في أبحاث CTSA.
 
-## قيد
-
+## القيد
 - **"WTC VR"** واجه تساؤلات حول أخلاقيات التعرض المُتعمَّد لمادة صادمة.

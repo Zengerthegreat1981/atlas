@@ -7,7 +7,7 @@ title: "مونتروز م. وولف"
 en: "Montrose M. Wolf"
 crumb: "السلوكية (Behaviorism) ← الناس ← مونتروز م. وولف"
 dates: "أمريكا · 1935–2004"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
@@ -35,8 +35,7 @@ gaps:
 
 «المُتَرِّجم العظيم» لِـ Skinner EAB إلى ABA — أنشأ أدوات علاجية.
 
-## قيد
-
+## القيد
 تُوفِّي 2004 من «مرض هنتنغتون».
 
 ## أهم أعماله

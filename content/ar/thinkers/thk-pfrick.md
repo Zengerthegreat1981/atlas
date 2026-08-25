@@ -44,6 +44,5 @@ gaps:
 - *Antisocial Behavior in Children and Adolescents: A Developmental Perspective* (2003).
 - مقالات محورية في *Journal of Child Psychology and Psychiatry* و*Journal of Abnormal Child Psychology*.
 
-## قيد
-
+## القيد
 - **محدد "Limited Prosocial Emotions"** في DSM-5 موضع نقاش بين من يراه تنميطاً مبكراً ومن يراه فائدة سريرية.

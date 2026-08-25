@@ -7,7 +7,7 @@ title: "ستيفن م. سَافِران"
 en: "Stephen M. Safran"
 crumb: "التحليل النفسي ← الناس ← العلاج العلائقي الموجز (BRT) ← ستيفن م. سَافِران"
 dates: "أمريكا · [غير مؤكد]"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
@@ -36,8 +36,7 @@ gaps:
 
 من «التوليف بين CBT وTFP»، حلقة وصل بين Mitchell (العلائقي)، وHayes (ACT).
 
-## قيد
-
+## القيد
 مُدرج هنا كأبرز ممثّل لـ BRT.
 
 ## أهم أعماله

@@ -25,7 +25,7 @@ gaps:
   - "نصوص Ambedkar (Annihilation of Caste, Buddha and His Dhamma, Constitution of India) need review."
 ---
 
-# الأمبيدكارية (Ambedkarite Philosophy)
+# الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)
 
 فلسفة سياسية ودستورية هندية أسسها **بي. ر. أمبيدكار (B.R. Ambedkar)**، نقد لنظام الطبقية (Caste) وللغاندية على حد سواء.
 

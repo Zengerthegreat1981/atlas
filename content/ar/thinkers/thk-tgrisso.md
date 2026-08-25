@@ -43,6 +43,5 @@ gaps:
 - *A Developing Field: Empirical Research on the Assessment of Competence* (محرر، مع A. M. Wells).
 - *Evaluating Competencies: Forensic Assessments and Instruments* (2003).
 
-## قيد
-
+## القيد
 - **بعض أدواته** (مثل MacCAT-T) تتطلب إجادة اللغة والثقافة، واستخدامها في سياقات غير غربية يحتاج تكييفاً.

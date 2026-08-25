@@ -7,7 +7,7 @@ title: "تشارلز أنطاكي"
 en: "Charles Antaki"
 crumb: "علم النفس الخطابي ← تحليل المحادثة ← تشارلز أنطاكي"
 dates: "بريطانيا · القرن العشرين–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1994
 active_end: "مستمر"

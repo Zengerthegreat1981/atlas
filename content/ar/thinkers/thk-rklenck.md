@@ -7,7 +7,7 @@ title: "[مؤسِّسو AJA / BJAA / SAP / IGAP / GAP]"
 en: "Founders of UK Jungian associations"
 crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو الجمعيات التحليلية في المملكة المتحدة"
 dates: "بريطانيا · [غير مؤكد]"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: null
@@ -22,7 +22,7 @@ gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
-# مؤسِّسو الجمعيات التحليلية في المملكة المتحدة (placeholder)
+# [مؤسِّسو AJA / BJAA / SAP / IGAP / GAP]
 
 ## SAP (Society of Analytical Psychology) — لندن
 تأسّست 1946، أقدم جمعية يونغية في بريطانيا. مؤسِّسوها: Michael Fordham, Frieda Fordham, M. Brierley, M. Philipp-Sattler.

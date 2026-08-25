@@ -6,7 +6,7 @@ level: "متقدم"
 title: "الذات الأولية والتفكك التكاملي"
 en: "Primary Self and Deintegration"
 crumb: "التحليل النفسي ← المفاهيم ← الذات الأولية"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "من الخمسينيات"
 active_start: 1955
 active_end: "مستمر"

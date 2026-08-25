@@ -7,7 +7,7 @@ title: "إيان باركر"
 en: "Ian Parker"
 crumb: "علم النفس النقدي ← مؤسسة ← إيان باركر"
 dates: "بريطانيا/أستراليا · وُلد 1956"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"

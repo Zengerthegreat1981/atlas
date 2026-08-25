@@ -23,7 +23,7 @@ gaps:
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
 ---
 
-# توم شكسبير (Tom Shakespeare, 1966–)
+# توم شكسبير
 
 عالم اجتماع بريطاني، من أهم منظّري **النموذج الاجتماعي للإعاقة** (Social Model of Disability) في العالم. أستاذ في London School of Hygiene and Tropical Medicine.
 

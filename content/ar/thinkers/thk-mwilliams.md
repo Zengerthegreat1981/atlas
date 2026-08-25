@@ -7,7 +7,7 @@ title: "مارك ويليامز"
 en: "J. Mark G. Williams"
 crumb: "الموجة الثالثة ← الناس ← مارك ويليامز"
 dates: "بريطانيا · 1952–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"

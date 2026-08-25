@@ -24,7 +24,7 @@ gaps:
   - "نصوص Mao Zedong (On Practice, On Contradiction, Little Red Book) need review."
 ---
 
-# الماركسية الصينية / الماوية (Chinese Marxism / Maoism)
+# الماركسية الصينية / الماوية
 
 تطبيق وتجديد للماركسية في السياق الصيني، مع مساهمات ماو Zedong الفلسفية (النظرية والممارسة، التناقض).
 

@@ -47,8 +47,7 @@ gaps:
 
 مفهوم مؤسِّس للتحليل العلائقي، حلقة وصل بين Sullivan (Interpersonal)، Klein-Fairbairn (Object Relations)، وKohut (Self Psychology).
 
-## قيد
-
+## القيد
 المفهوم «نظري-هيكلي» أكثر من «سريري»، يحتاج تفصيلاً في تطبيقه على حالات إكلينيكية.
 
 ## أهم المراجع

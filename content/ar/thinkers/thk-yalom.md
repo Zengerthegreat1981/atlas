@@ -10,7 +10,7 @@ dates: "الولايات المتحدة · 1931–"
 active_start: 1970
 active_end: "مستمر"
 language: "الإنجليزية"
-country: "أمريكا"
+country: "الولايات المتحدة"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"

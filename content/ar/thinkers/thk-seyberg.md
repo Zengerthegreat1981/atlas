@@ -44,6 +44,5 @@ gaps:
 - ECBI (1978، أداة)، تحديثات لاحقة.
 - *Eyberg Child Behavior Inventory and Sutter-Eyberg Student Behavior Inventory: Professional Manual* (مع S. W. Eyberg).
 
-## قيد
-
+## القيد
 - **تعريف PCIT** يتفاوت في تطبيقاته المعاصرة، وبعض "التطبيقات المحلية" تبعد عن الإجراء الأصلي.

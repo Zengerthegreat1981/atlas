@@ -10,7 +10,7 @@ dates: "بريطانيا · 1966–"
 active_start: 2003
 active_end: 2015
 language: "الإنجليزية"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"

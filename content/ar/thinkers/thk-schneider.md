@@ -10,7 +10,7 @@ dates: "الولايات المتحدة"
 active_start: 1990
 active_end: 2013
 language: "الإنجليزية"
-country: "أمريكا"
+country: "الولايات المتحدة"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"

@@ -8,7 +8,7 @@ title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)"
 en: "Sensorimotor Psychotherapy (SP)"
 crumb: "علم النفس ← المدارس العلاجية المعاصرة ← علاجات الصدمة الجسدية ← العلاج حسي-حركي"
 dates: "الولايات المتحدة · من 1990s إلى اليوم"
-country: "الولايات المتحدة الأمريكية"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"

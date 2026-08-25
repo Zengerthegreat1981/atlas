@@ -6,7 +6,7 @@ level: "متقدم"
 title: "العلاج المعرفي السلوكي للذهان (CBTp)"
 en: "Cognitive Behavior Therapy for Psychosis (CBTp)"
 crumb: "المعرفية السلوكية ← التقنيات والتدخلات ← العلاج المعرفي السلوكي للذهان (CBTp)"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "مانشستر وأكسفورد · التسعينيات"
 active_start: 1990
 active_end: "مستمر"

@@ -7,7 +7,7 @@ title: "أدريان ويلز"
 en: "Adrian Wells"
 crumb: "المعرفية السلوكية ← الناس ← أدريان ويلز"
 dates: "بريطانيا · [DRAFT-UNKNOWN]"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"

@@ -22,7 +22,7 @@ gaps:
   - "الفرق بين Solution Talk و Positive Reframing يحتاج فصلاً."
 ---
 
-# حَدِيث الْحَلّ (Solution Talk) فِي SFT
+# حَدِيث الْحَلّ (Solution Talk) في SFT
 
 فِي الْعِلَاج الْمُرْكَز عَلَى الْحَلّ (Solution-Focused Therapy)، «**حَدِيث الْحَلّ**» (Solution Talk) هُوَ «**لُغَة**» (Language) الَّتِي تَتَحَدَّث عَن «**الْحُلول**» (Solutions) و«**الْاِسْتِثْنَاءَات**» (Exceptions) و«**الْمُسْتَقْبَل**» (Future) — بَدَل «**حَدِيث الْمَشْكِلَة**» (Problem Talk) الَّتِي تَتَحَدَّث عَن «**الْمَشَاكِل**» (Problems) وَ«**الْمَاضِي**» (Past). SFT يَقُول: «**مَا تَتَحَدَّث عَنْه يَكْبُر**» (What You Talk About Grows) — تَكْلِيم الْحُلول يُنَمِّي الْحُلول.
 

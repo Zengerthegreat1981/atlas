@@ -43,6 +43,5 @@ gaps:
 - *Treating Parent-Infant Relationship Problems: Strategies for Intervention* (2008، مع A. J. Sameroff).
 - مقالات في *Journal of Clinical Child and Adolescent Psychology* عن فعالية PCIT في سياقات متنوعة.
 
-## قيد
-
+## القيد
 - **تكييفات PCIT للسكان المختلفين** (PCIT-ASD، PCIT-HV، etc.) تحتاج توثيقاً دقيقاً لاختلافات البروتوكول.

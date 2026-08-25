@@ -46,6 +46,5 @@ gaps:
 - *Almost a Revolution: Mental Health Law and the Limits of Change* (1994).
 - *Treatment of the Mentally Disordered Offender* (محرر).
 
-## قيد
-
+## القيد
 - **Tarasoff Warning** يثير توتراً مستمراً بين واجب السرية العلاجية وواجب التحذير من الخطر.

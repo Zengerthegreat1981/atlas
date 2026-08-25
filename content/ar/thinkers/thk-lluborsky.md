@@ -42,6 +42,5 @@ gaps:
 - "Dodo Bird Verdict" (1975).
 - "Countertransference" (مقالات).
 
-## قيد
-
+## القيد
 - **Dodo Bird Verdict** موضع جدل مستمر، ولا سيما في ضوء الفروقات الفعلية بين العلاجات في فئات بعينها.

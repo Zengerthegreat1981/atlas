@@ -7,7 +7,7 @@ title: "ديرِك إدواردز"
 en: "Derek Edwards"
 crumb: "علم النفس الخطابي ← مؤسس مشارك ← ديرِك إدواردز"
 dates: "بريطانيا · وُلد 1957"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"

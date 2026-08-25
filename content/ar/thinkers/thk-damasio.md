@@ -10,7 +10,7 @@ crumb: "علم النفس البيولوجي والعصبي ← الناس ← �
 dates: "البرتغال / أمريكا · 1944–"
 active_start: 1985
 active_end: "مستمر"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية، البرتغالية"
 register: "academic"
 evidence_level: "well-established"

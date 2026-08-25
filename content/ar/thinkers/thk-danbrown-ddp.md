@@ -9,7 +9,7 @@ crumb: "العلاج المرتكز على التعلق والصدمة النم�
 dates: "الولايات المتحدة الأمريكية · معاصر"
 active_start: 1990
 active_end: "مستمر"
-country: "الولايات المتحدة الأمريكية"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:

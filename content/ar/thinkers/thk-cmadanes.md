@@ -45,7 +45,6 @@ gaps:
 - *Therapy with Couples* (2007).
 - *Tales of Therapy: A Memoir* (سيرة ذاتية).
 
-## قيد
-
+## القيد
 - **بعض ممارساتها العلاجية** تتسم بطابع توجيهي (directive) لاقى انتقادات لكونه يتجاوز حدود الإرادة الحرة للمريض.
 - **فكرة "Love and Authority"** في كتابها The Secret Life of Families تستحق بحثاً أكاديمياً أعمق.

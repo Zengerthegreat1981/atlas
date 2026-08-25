@@ -19,7 +19,7 @@ gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
-# TEACCH
+# TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)
 
 برنامج **TEACCH** (Treatment and Education of Autistic and related Communication-handicapped Children) هو نموذج علاجي وتعليمي متكامل للأطفال والبالغين من ذوي طيف التوحد. طوّره إيريك شوبلر (Eric Schopler) وغاري مِسيبوف (Gary Mesibov) في جامعة نورث كارولينا.
 

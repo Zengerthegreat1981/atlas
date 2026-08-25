@@ -6,7 +6,7 @@ level: "متوسط"
 title: "العلاج الديناميكي البيني-الشخصي (DIT)"
 en: "Dynamic Interpersonal Therapy (DIT)"
 crumb: "التحليل النفسي ← التقنيات والتدخلات ← العلاج الديناميكي البيني-الشخصي (DIT)"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "لندن · 2011"
 active_start: 2011
 active_end: "مستمر"

@@ -23,7 +23,7 @@ gaps:
   - "الفرق بين MAPS و CIIS في تدريب المعالجين يحتاج فصلاً."
 ---
 
-# رولنز
+# رولنز (Stephen Rollins)
 
 مدرب وممارس في العلاج بالمساعدة النفسية، من المساهمين في تطوير برامج تدريب المعالجين ل**MAPS** (Multidisciplinary Association for Psychedelic Studies) و**CIIS** (California Institute of Integral Studies).
 

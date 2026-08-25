@@ -39,6 +39,5 @@ gaps:
 - *The Rise and Fall of the Modern Self* (2001).
 - *Scripture and the Self* (2002).
 
-## قيد
-
+## القيد
 - **لا يُعدّ شورت من المعالجين،** وتأثيره في Imago غير مباشر.

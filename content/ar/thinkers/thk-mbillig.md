@@ -7,7 +7,7 @@ title: "مايكل بيليغ"
 en: "Michael Billig"
 crumb: "علم النفس الخطابي ← التحليل البلاغي والأيديولوجيا ← مايكل بيليغ"
 dates: "بريطانيا · 1946–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1988
 active_end: "مستمر"

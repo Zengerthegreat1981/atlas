@@ -44,6 +44,5 @@ gaps:
 - *The Quaking of America: An Embodied Guide to Navigating Our Nation's Upheaval* (2022).
 - *Cultural Somatics* (دورات تدريبية).
 
-## قيد
-
+## القيد
 - **مفهوم "Somatic Abolitionism"** موضع نقاش في الأدبيات الأكاديمية — بين من يراه إسهاماً نظرياً ضرورياً، ومن يراه مثالاً على الخلط بين الخطاب العلاجي والنشاط السياسي.

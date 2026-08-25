@@ -7,7 +7,7 @@ title: "مارك روتشرِي"
 en: "Mark Rothery"
 crumb: "العلاج الاجتماعي ← الإصدارات في بريطانيا ← مارك روتشري"
 dates: "بريطانيا · القرن العشرين–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1992
 active_end: 2010

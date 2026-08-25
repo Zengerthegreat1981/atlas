@@ -47,6 +47,5 @@ gaps:
 - *The Roots of the Recovery Movement in Psychiatry* (محرر، مع P. Rudof).
 - مقالات في *American Journal of Orthopsychiatry* و*Psychiatric Services*.
 
-## قيد
-
+## القيد
 - **موقع الأقران داخل النظم الأكاديمية** تظل محل نقاش — إذ يبقى ثمن التبنّي الرسمي خطر تحييد البعد التحرّكي.

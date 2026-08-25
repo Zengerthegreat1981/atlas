@@ -7,7 +7,7 @@ title: "دورا غوميز بيراكوس"
 en: "Dora Gomez Pierrakos"
 crumb: "علم نفس الجسد ← الناس ← Core Energetics المؤسِّسة ← دورا غوميز بيراكوس"
 dates: "أمريكا · [غير مؤكد]"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية / الإسبانية"
 part: "philosophy"
 active_start: null
@@ -37,8 +37,7 @@ gaps:
 
 من «الوريثات الإداريات» لـ Core Energetics، حلقة الوصل بين John Pierrakos وما بعد John.
 
-## قيد
-
+## القيد
 مُدرجة هنا كحارسة مؤسسية، مع إقرار بأن إسهامها في «النظرية» أقلّ من إسهام John و Eva.
 
 ## أهم أعمالها

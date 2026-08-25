@@ -7,7 +7,7 @@ title: "ويندي دريدن"
 en: "Windy Dryden"
 crumb: "العلاج بجلسة واحدة ← المنظور المعرفي ← ويندي دريدن"
 dates: "بريطانيا · 1950–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
@@ -48,6 +48,5 @@ gaps:
 - *Key Themes in Counselling and Psychotherapy* (سلسلة).
 - *The Distinctive Features of REBT* (مع M. Bernard).
 
-## قيد
-
+## القيد
 - **"Single-Session Therapy"** مع Dowden يختلف في الروح عن هويت، ويركّز على CBT أكثر.

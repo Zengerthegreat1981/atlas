@@ -42,6 +42,5 @@ gaps:
 - *Accessing the Healing Power of the Vagus Nerve: Self-Help Exercises for Anxiety, Depression, Trauma, and Autism* (2017).
 - دروس تدريبية عبر معهده.
 
-## قيد
-
+## القيد
 - **بعض ادعاءاته** بشأن فعالية تمارينه في علاج التوحد (Autism) أثارت جدلاً واسعاً في الحقل، ولم تُدعم بأبحاث مضبوطة كافية.

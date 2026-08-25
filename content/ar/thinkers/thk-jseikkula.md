@@ -50,8 +50,7 @@ gaps:
 - *Open Dialogues and Anticipations: Respecting Otherness in the Present Moment* (2014، مع أرنكيل).
 - "Five-year experience of first-episode nonaffective psychosis in open-dialogue approach" (2006)، *Psychotherapy Research* — الدراسة التي بُنيت عليها شهرة النموذج.
 
-## قيد
-
+## القيد
 نتائج كيروبوداس المنشورة لافتة: نسبة كبيرة من مرضى الذهان الأوّل عادوا إلى العمل أو الدراسة خلال خمس سنوات، وأقلّية منهم فقط استعملت مضادّات الذهان. غير أن الاحتجاج بها يقتضي ثلاثة تحفّظات:
 
 **الأول** أنها **دراسات رصدية غير مضبوطة** على عيّنات صغيرة (عشرات لا مئات)، بلا مجموعة مقارنة معشّاة — فلا سبيل إلى فصل أثر النموذج عن أثر السياق.

@@ -43,6 +43,5 @@ gaps:
 - *Handbook of Infant Mental Health* (2009، 3rd ed.، محرر).
 - مقالات في *Journal of the American Academy of Child and Adolescent Psychiatry* عن RAD وPCIT.
 
-## قيد
-
+## القيد
 - **مفهوم Reactive Attachment Disorder** موضع نقاش مستمر بين من يركّز على الأبعاد الاجتماعية ومن يركّز على الأبعاد العصبية.

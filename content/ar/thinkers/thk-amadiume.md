@@ -8,7 +8,7 @@ title: "إيفي أماديومي"
 en: "Ifi Amadiume"
 crumb: "الفلسفات الأفريقية ← الفلسفة الأفريقية النسوية ← إيفي أماديومي"
 dates: "نيجيريا/بريطانيا · 1954–2024"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1987
 active_end: 2024
@@ -38,8 +38,7 @@ gaps:
 
 مؤسِّسة «النسوية الأفريقية» (African Feminism) مع Obioma Nnaemeka وMolara Ogundipe وBibi Bakare-Yusuf. حواراتها مع Maryse Condé وTsitsi Dangarembga شكّلت جيلاً في «النسوية السوداء» الأفريقية.
 
-## قيد
-
+## القيد
 وُجِّه إلى تركيزها على «الجندر» الأفريقي نقدٌ بأنه يُمثِّل الماضي الأفريقي تمثيلاً مثالياً (Idealized)، وهو ما ردّت عليه (Our Own Way, 1997).
 
 ## أهم أعمالها

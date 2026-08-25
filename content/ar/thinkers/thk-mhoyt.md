@@ -48,6 +48,5 @@ gaps:
 - *Therapist as Consulting Detective: Essential Tools for Brief Therapy* (2010).
 - *The First Session and Beyond: Time-Limited Dynamic Psychotherapy* (2014).
 
-## قيد
-
+## القيد
 - **نموذج SST** يحتاج تكيفاً دقيقاً مع الحالات الأكثر تعقيداً، ولا يصلح كنموذج موحّد للجميع.

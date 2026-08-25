@@ -8,7 +8,7 @@ title: "العلاج بالـ Imago"
 en: "Imago Relationship Therapy"
 crumb: "علم النفس ← المدارس النسقية والأسرية ← العلاج بالـ Imago"
 dates: "الولايات المتحدة · من 1980 إلى اليوم"
-country: "الولايات المتحدة الأمريكية"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"

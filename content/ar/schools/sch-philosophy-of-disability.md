@@ -25,7 +25,7 @@ gaps:
   - "نصوص Eva Kittay, Lennard Davis, Tom Shakespeare, Michael Bérubé, Sunaura Taylor, Rosemarie Garland-Thomson need review."
 ---
 
-# فلسفة الإعاقة (Philosophy of Disability)
+# فلسفة الإعاقة
 
 حقل فلسفي يَدرس الإعاقة من منظور فلسفي-أخلاقي، مُنكراً النماذج الطبية التقليدية.
 

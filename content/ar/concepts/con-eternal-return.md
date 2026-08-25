@@ -20,7 +20,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من 'Also sprach Zarathustra' بعد."
 ---
 
-# العودة الأبدية
+# العودة الأبدية (Ewige Wiederkehr)
 
 مفهوم في فلسفة فريدريش نيتشه (Friedrich Nietzsche)، بالألمانية Ewige Wiederkehr des Gleichen، يعني أن كل ما يحدث سيعود إلى الأبد، في تسلسل دائري (Kreislauf) لا نهائي.
 

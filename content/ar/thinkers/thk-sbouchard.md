@@ -43,6 +43,5 @@ gaps:
 - "Innovations in CBT for Anxiety" (مساهمات).
 - أبحاث في *Frontiers in Psychology* و*Behaviour Research and Therapy*.
 
-## قيد
-
+## القيد
 - **Cybersickness** يبقى عائقاً عملياً في تطبيق VR السريري، خاصة في كبار السن.

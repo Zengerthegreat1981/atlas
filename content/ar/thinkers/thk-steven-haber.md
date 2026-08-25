@@ -25,7 +25,7 @@ gaps:
   - "هوية الملف: الـslug `thk-steven-haber` يشير إلى Steven Haber: AEDP Practitioner and Theorist. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
-# ستيفن هابر
+# ستيفن هابر (Steven Haber)
 
 ممارس ومنظر في ال AEDP، ممارس معتمد من AEDP Institute، أستاذ في عدة برامج تدريبية. يساهم في تطوير نماذج تطبيقية ل AEDP في سياقات متنوعة (الإدمان، الصدمة المعقدة، الشريكات).
 

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "الصدمة النفسية في التحليلية"
 en: "Psychological Trauma in Analytical Psychology"
 crumb: "التحليل النفسي ← المفاهيم ← الصدمة النفسية في التحليلية"
-country: "أمريكا"
+country: "الولايات المتحدة"
 dates: "من التسعينيات"
 active_start: 1996
 active_end: "مستمر"

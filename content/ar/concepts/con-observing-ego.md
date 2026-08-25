@@ -6,7 +6,7 @@ level: "متوسط"
 title: "الأنا المراقِبة في التحليلية"
 en: "The Observing Ego"
 crumb: "التحليل النفسي ← المفاهيم ← الأنا المراقبة"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "الستينيات والسبعينيات"
 active_start: 1965
 active_end: "مستمر"

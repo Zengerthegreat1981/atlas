@@ -42,6 +42,5 @@ gaps:
 - *The Family Context of Parenting in Adoptive Families* (مع P. Cowan).
 - مقالات محورية في *Family Process* و*Development and Psychopathology*.
 
-## قيد
-
+## القيد
 - **برنامج "Bringing Baby Home"** انتشر تجارياً بشكل واسع، ما أثار تساؤلات حول دقة تطبيقه في بعض السياقات.

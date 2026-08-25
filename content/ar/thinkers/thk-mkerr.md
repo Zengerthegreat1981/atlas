@@ -44,6 +44,5 @@ gaps:
 - "Chronic Anxiety and the Process of Differentiation" (مع Bowen).
 - مقالات في *Family Process*.
 
-## قيد
-
+## القيد
 - **صلة بتيار بوسورميني-ناجي** هنا مفترضة وليست مباشرة، وينبغي التمييز.

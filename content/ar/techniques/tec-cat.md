@@ -6,7 +6,7 @@ level: "متوسط"
 title: "العلاج المعرفي التحليلي (CAT)"
 en: "Cognitive Analytic Therapy (CAT)"
 crumb: "المعرفية السلوكية ← التقنيات والتدخلات ← العلاج المعرفي التحليلي (CAT)"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "لندن · الثمانينيات"
 active_start: 1984
 active_end: "مستمر"

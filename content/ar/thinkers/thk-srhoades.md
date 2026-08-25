@@ -42,6 +42,5 @@ gaps:
 - *Sliding vs. Deciding: Indefinite Commitment or Deliberate Choice* (مع S. Stanley, 2009, *Journal of Family Theory & Review*).
 - مقالات محورية في *Journal of Marriage and Family*.
 
-## قيد
-
+## القيد
 - **"Cohabitation Effect"** تعرض لانتقادات منهجية في الأدبيات الحديثة، مع تعقيد الصورة الأولية.

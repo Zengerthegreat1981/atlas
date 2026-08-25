@@ -7,7 +7,7 @@ title: "تريفور سيلفستر"
 en: "Trevor Silvester"
 crumb: "التنويم والهيبنوثيرابي ← المفكرون ← تريفور سيلفستر"
 dates: "بريطانيا · 1950–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"

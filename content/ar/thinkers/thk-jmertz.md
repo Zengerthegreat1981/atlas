@@ -22,7 +22,7 @@ gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
-# رؤساء تحرير Rivista di Psicologia Analitica (placeholder)
+# [مؤسِّسو أعمدة Rivista di Psicologia Analitica]
 
 Rivista di Psicologia Analitica (المجلة الرسمية لـ AIPA)، بدأت عام 1970، تأسّست بأمر من Mario Trevi. من أهمّ رؤساء تحريرها:
 

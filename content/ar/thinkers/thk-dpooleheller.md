@@ -43,6 +43,5 @@ gaps:
 - *Healing Your Attachment Wounds* (دورات تدريبية).
 - *Crash Course on Adult Attachment Styles* (محتوى تدريبي).
 
-## قيد
-
+## القيد
 - **الفرق بين DARe ونماذج أخرى** (مثل NARM، Somatic Experiencing) غير محسوم تماماً، وتتداخل تقنياتها في عدة نقاط.

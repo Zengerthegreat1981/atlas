@@ -28,7 +28,7 @@ gaps:
   - "هوية الملف: الـslug `thk-robert-thurman` يشير إلى Robert Thurman: Buddhist Psychology in the West. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
-# روبرت ثورمان
+# روبرت ثورمان (Robert Thurman)
 
 أول أمريكي يحصل على درجة «تشورنغ تانترا» (Tsrong yang tandra، أعلى شهادة بوذية) من الدير التبتي، أستاذ سابق في جامعة كولومبيا، مؤسس «House of Tibetan Buddhist Studies» ومنصة «MyOcean»، من أهم الأصوات التي جلبت البوذية للأوساط الأكاديمية الغربية.
 

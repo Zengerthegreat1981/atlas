@@ -23,7 +23,7 @@ gaps:
   - "هوية الملف: الـslug `thk-aulanc` يشير إلى Founders of Israel Jungian associations. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
-# مؤسِّسو الجمعيات التحليلية في إسرائيل (placeholder)
+# [مؤسِّسو ISAP / IIJP / NIJA / Israel Society of Analytical Psychology]
 
 ## IIJP (Israel Institute of Jungian Psychology) — تل أبيب
 تأسّست في العقد الأول من القرن الحادي والعشرين، مقرّها تل أبيب.

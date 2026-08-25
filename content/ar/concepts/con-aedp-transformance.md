@@ -18,12 +18,12 @@ related:
 - id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية/تدخل علاجي"
 - id: "tec-aedp-relational-reflectiveness", title: "الانعكاسية العلائقية (Relational Reflectiveness) في AEDP", type: "تقنية/تدخل علاجي"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Fosha, 2002, 2008)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين transformance وtransformation في التحليل النفسي الكلاسيكي يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Fosha, 2002, 2008)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين transformance وtransformation في التحليل النفسي الكلاسيكي يحتاج فصلاً."
 ---
 
-# التَّحَوُّلية (Transformance) في AEDP
+# الْتَحَوُّلية في AEDP: التَّحَوُّل مِن عَاطِفَة تَكَيُّفِيَّة
 
 مَفْهُوم مُرْكَزِيّ في AEDP: «**التَّحَوُّل**» (Transformation) الَّذِي يَحْدُث عِنْد «**تَجْرِيب**» (Experiencing) «**عَوَاطِف تَكَيُّفِيَّة**» (Adaptive Emotions) لَدَى الْمَرِيض. «**التَّحَوُّلية**» (Transformance) «**لَا**» (Not) مَجَرَّد «**تَفْكِير**» (Thinking) أَو «**فَهْم**» (Understanding) — بَل «**عَاطِفَة**» (Emotion) «**جَدِيدَة**» (New) «**تَفْتَح**» (Opens) «**طَرِيقًا**» (Path) لِـ**«**شِفَاء**» (Healing).
 

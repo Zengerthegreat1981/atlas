@@ -7,7 +7,7 @@ title: "ريتشارد سيرنشتاين"
 en: "Richard J. Herrnstein"
 crumb: "السلوكية (Behaviorism) ← الناس ← ريتشارد سيرنشتاين"
 dates: "أمريكا · 1930–1994"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
@@ -35,8 +35,7 @@ gaps:
 
 «الجدّ المُؤسِّس» للاقتصاد السلوكي (Behavioural Economics)، الذي يربط Skinner بـ Kahneman / Thaler.
 
-## قيد
-
+## القيد
 مواقفه من العرق (الـ Bell Curve) حَوَّلته من «أعظم الاقتصاديين السلوكيّين» إلى «شخصيّة جدلية».
 
 ## أهم أعماله

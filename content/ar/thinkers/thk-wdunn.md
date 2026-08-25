@@ -43,6 +43,5 @@ gaps:
 - *Living Sensationally: Understanding Your Senses* (2008).
 - *The Sensory Lifestyle Handbook* (2012).
 
-## قيد
-
+## القيد
 - **استخدام "Sensory Profile"** كأداة بحثية أثار تساؤلات سيكومترية في العقدين الأخيرين، خاصة في تفسيره بين الثقافات.

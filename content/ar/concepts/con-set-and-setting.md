@@ -28,13 +28,13 @@ related:
 - id: "con-neuroception-safety-detection", title: "الإدراك العصبي اللاواعي للأمان (Neuroception of Safety)", type: "مفهوم"
 - id: "con-therapeutic-alliance-bordin", title: "التحالف العلاجي عند بورديـن (Bordin's Therapeutic Alliance)", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Hartogsohn, 2017)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين Set و Setting وMindfulness-Based Stress Reduction يحتاج فصلاً."
-- "الفرق بين 'inner set' و 'outer set' يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Hartogsohn, 2017)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين Set و Setting وMindfulness-Based Stress Reduction يحتاج فصلاً."
+  - "الفرق بين 'inner set' و 'outer set' يحتاج فصلاً."
 ---
 
-# الْإِطَار وَالْمَحِيط (Set and Setting)
+# الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة
 
 «**Set and Setting**» مَفْهُوم أَسَاسِيّ فِي الْعِلَاج بِالْمُسَاعَدَة النَّفْسِيَّة: «**Set**» = «**الْحَالَة الذِّهْنِيَّة لِلْمَرِيض**» (Mindset of the Patient) — «**تَوَقُّع**» (Expectation)، «**دَافِع**» (Motivation)، «**خَوْف**» (Fear)، «**رَجَاء**» (Hope). «**Setting**» = «**الْبِيئَة**» (Environment) — «**غُرْفَة**» (Room)، «**مُعَالِج**» (Therapist)، «**مُسْتَوَى الرَّاحَة**» (Comfort)، «**الضَّوْء**» (Light)، «**الصَّوْت**» (Sound). «**Set and Setting**» «**يُحَدِّدَان**» (Determine) «**نَوْعِيَّة**» (Quality) «**التَّجْرِبَة**» (Experience) «**مُغَيِّرَة الْوَعْي**» (Altered State) وَ**«**نَتَائِج**» (Outcomes) الْعِلَاج.
 

@@ -7,7 +7,7 @@ title: "مارك غريفيثز"
 en: "Mark Griffiths"
 crumb: "الإدمان ← الناس ← علاج الإدمان السلوكي ← مارك غريفيثز"
 dates: "بريطانيا · 1962–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"

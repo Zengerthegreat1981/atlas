@@ -44,6 +44,5 @@ gaps:
 - *The Science of Terrorism: How Real is the Threat?* (مع J. Sidner، 2011).
 - مقالات متعددة في *Journal of Threat Assessment and Management*.
 
-## قيد
-
+## القيد
 - **تقييم خطر التطرف** حقل حديث، وكثير من أدواته ما زالت قيد التحقق.

@@ -8,7 +8,7 @@ en: "UK Mental Health Act of 1959 and the End of Legal Distinction Between Menta
 crumb: "الصحة النفسية ← السياسات ← قانون الصحة النفسية البريطاني 1959"
 active_start: "1959-07-29"
 active_end: "مستمر (مع تعديلات لاحقة)"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 part: "psychology"
 related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"

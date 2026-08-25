@@ -7,7 +7,7 @@ title: "هنري هارت"
 en: "Henry Hart"
 crumb: "التحليل النفسي ← الناس ← العلاج الداعم (Supportive Psychotherapy) ← هنري هارت"
 dates: "أمريكا · [غير مؤكد]"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: null
@@ -35,8 +35,7 @@ gaps:
 
 من «المنظرين» للعلاج الداعم، حلقة وصل بين Freud (الديناميات)، Kernberg (TFP)، وWinnicott (Holding).
 
-## قيد
-
+## القيد
 **تحذير تحقّق**: لم يُعثر على منظّر للعلاج الداعم بهذا الاسم، ولا على كتاب بعنوان *Supportive Psychotherapy* صادر عام 1990 بمشاركة لوبورسكي و«McCallum». والأرجح أن الاسم تحريفٌ لـ**هنري بينسكِر** (Henry Pinsker) صاحب *A Primer of Supportive Psychotherapy* (1997). الملف مرشّح للنقل إلى المسودات إلى أن تُحسَم الهوية.
 
 ## أهم أعماله

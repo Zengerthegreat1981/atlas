@@ -7,7 +7,7 @@ title: "تشارلز ريكروفت"
 en: "Charles Rycroft"
 crumb: "التحليل النفسي ← الناس ← Independent Group ← تشارلز ريكروفت"
 dates: "بريطانيا · 1914–1998"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: null
@@ -34,8 +34,7 @@ gaps:
 
 من «المحلّلين-الكتّاب» في Independent Group، حلقة وصل بين Winnicott، Milner، والقارئ العام. يوصف بأنه «المعلّم الصامت» للجيل الثاني من محلّلي Independent Group.
 
-## قيد
-
+## القيد
 مُدرج هنا لأهميته في «الكتابة التحليلية العامة» (Popularization)، مع إقرار بأن عمله كان أكثر في «الشرح» من «الابتكار».
 
 ## أهم أعماله

@@ -7,7 +7,7 @@ title: "هارييت ليرنر"
 en: "Harriet Lerner"
 crumb: "علم النفس الشعبي ← العلاج الأسري ← هارييت ليرنر"
 dates: "الولايات المتحدة (كولورادو) · 1944–"
-country: "الولايات المتحدة الأمريكية"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: 1985

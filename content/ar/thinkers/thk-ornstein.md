@@ -7,7 +7,7 @@ title: "بول ه. أورنشتاين"
 en: "Paul H. Ornstein"
 crumb: "التحليل النفسي ← الناس ← Self Psychology ← بول أورنشتاين"
 dates: "النمسا / أمريكا · [غير مؤكد]"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
@@ -34,8 +34,7 @@ gaps:
 
 من «الجيل الثاني» لـ Self Psychology، حلقة وصل بين Kohut (المؤسس) والتطبيق الإكلينيكي المعاصر. أشر على تدريب عدة جيل من محللي Self Psychology.
 
-## قيد
-
+## القيد
 مُدرج هنا لدوره «التوسيعي» في Self Psychology، مع إقرار بأن معظم إسهامه كان في التدريب والمقالات.
 
 ## أهم أعماله

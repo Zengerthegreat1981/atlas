@@ -8,7 +8,7 @@ en: "Ralph Linton"
 crumb: "مدرسة التحليل النفسي ← الناس ← فرويديون جدد ← رالف لينتون"
 dates: "أمريكا · 1893–1953"
 language: "الإنجليزية"
-country: "أمريكا"
+country: "الولايات المتحدة"
 part: "psychology"
 active_start: null
 active_end: 1953

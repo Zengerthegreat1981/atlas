@@ -46,7 +46,6 @@ gaps:
 - *Polyvagal Exercises for Safety and Connection* (2020).
 - *Anchored: How to Befriend Your Nervous System Using Polyvagal Theory* (2021).
 
-## قيد
-
+## القيد
 - **مفهوم Neuroception عند بورغيس** استُخدم أصلاً للإشارة إلى استجابة لاإرادية خارج الوعي، فيما تميل دانا إلى استخدامه عملياً كأداة مراقبة واعية. الفرق دقيق لكنه جوهري.
 - **بعض الممارسين** يدمجون النموذج مع مناهج أخرى (EMDR، Somatic Experiencing) مما يُضعف نقاء تعريفه.

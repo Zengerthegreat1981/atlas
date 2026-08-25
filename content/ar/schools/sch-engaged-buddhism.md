@@ -26,7 +26,7 @@ gaps:
   - "التمييز بين Engaged Buddhism و Buddhist Modernism و Buddhist Socialism يستحق بحثاً نقدياً."
 ---
 
-# البوذية المنخرطة اجتماعياً (Engaged Buddhism)
+# البوذية المنخرطة اجتماعياً
 
 تيار بوذي معاصر يؤكد أن «التأمل» و«العمل الاجتماعي» لا ينفصلان. اشتُهر العالم به من خلال Thích Nhất Hạnh (1926-2022)، Dalai Lama، وSulak Sivaraksa.
 

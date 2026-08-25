@@ -35,8 +35,7 @@ gaps:
 
 مؤسّس «الزنوجة» مع إيمي سيزير (Aimé Césaire) وآيمي سيساي (Aimé Césaire)، «بيان الزنوجة» (Négritude Manifesto) صدر في مجلة «طالب أفريقي» (L'Étudiant noir, 1935). تأثر بـ Bergson وTeilhard de Chardin. حواراته مع Sartre حول «أفريقية الزنوجة» شكّلت نقطة محورية في الفلسفة الأفريقية.
 
-## قيد
-
+## القيد
 نموذجه «الرومانسي» عن «الأفريقي» انتقده مورالوغي (Marcien Towa) في «الزنوجة أو التنازل» (Léopold Sédar Senghor: La Négritude ou le Renoncement, 1973) وWalter Rodney (How Europe Underdeveloped Africa, 1972) لأنه يتجاهل البنية المادية للاستعمار.
 
 ## أهم أعماله

@@ -11,7 +11,7 @@ dates: "1969 · جون باولبي"
 language: "الإنجليزية"
 active_start: 1969
 active_end: 1969
-country: "بريطانيا"
+country: "المملكة المتحدة"
 edges:
 - rel: "belongs_to", target: "br-attachment-theory", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-bowlby", target_type: "مفكر"

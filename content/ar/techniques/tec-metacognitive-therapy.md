@@ -6,7 +6,7 @@ level: "متوسط"
 title: "العلاج ما وراء المعرفي (MCT)"
 en: "Metacognitive Therapy (MCT)"
 crumb: "المعرفية السلوكية ← التقنيات والتدخلات ← العلاج ما وراء المعرفي (MCT)"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 dates: "مانشستر · أواخر التسعينيات والألفية"
 active_start: 1995
 active_end: "مستمر"

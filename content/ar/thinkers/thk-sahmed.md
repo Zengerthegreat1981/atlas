@@ -7,7 +7,7 @@ title: "سارة أحمد"
 en: "Sara Ahmed"
 crumb: "النسوية التقاطعية ← فلسفة نسوية ← سارة أحمد"
 dates: "بريطانيا/أستراليا · وُلدت 1969"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "إنجليزية"
 active_start: 1998
 active_end: "مستمر"

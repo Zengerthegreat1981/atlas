@@ -22,7 +22,7 @@ gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
-# مؤسسو ورؤساء ISAP Zurich (placeholder)
+# [جمعية ISAP / إيلينا/آنا فاي-قاردنر]
 
 ISAP-Zurich (International School of Analytical Psychology) تأسست في 1999، كهيئة مستقلة عن C.G. Jung Institute Zurich. من رؤسائها:
 

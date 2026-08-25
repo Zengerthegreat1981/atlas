@@ -23,7 +23,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
-# وليم الأوكامي (Venerabilis Inceptor)
+# وليم الأوكامي
 
 من أهم فلاسفة القرن 14 م، وراهب فرنسيسكاني. اشتُهر بـ«شفرة أوكام» (Occam's Razor): «لا تُضاعِف الكيانات (Entia) بلا ضرورة» (Entia non sunt multiplicanda praeter necessitatem).
 

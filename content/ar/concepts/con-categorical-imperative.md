@@ -20,7 +20,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من Grundlegung بعد."
 ---
 
-# الأمر المطلق
+# الأمر المطلق (Categorical Imperative)
 
 **«Categorical Imperative»** (الألمانية: **Kategorischer Imperativ**)، المبدأ الأخلاقي الأساسي في فلسفة **إيمانويل كانط** (Immanuel Kant)، صاغه في «**أسس ميتافيزيقا الأخلاق**» (Grundlegung zur Metaphysik der Sitten, 1785).
 

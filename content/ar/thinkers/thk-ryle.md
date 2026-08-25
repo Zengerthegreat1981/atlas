@@ -7,7 +7,7 @@ title: "أنتوني رايل"
 en: "Anthony Ryle"
 crumb: "المعرفية السلوكية ← الناس ← أنتوني رايل"
 dates: "بريطانيا · [DRAFT-UNKNOWN]"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1984
 active_end: 2010

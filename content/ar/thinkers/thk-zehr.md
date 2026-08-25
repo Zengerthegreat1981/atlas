@@ -58,7 +58,6 @@ gaps:
 - «Doing Life: Reflections of Men and Women Serving Life Sentences» (1996).
 - «The Little Book of Restorative Justice in the Workplace» (2019، معSacheen).
 
-## قيد
-
+## القيد
 - زير ليس عالماً نفسياً، إسهامه في **إطار العدالة** أكثر منه في علم النفس السريري.
 - تطبيق RJ على بعض الجرائم الشديدة يبقى موضع نقاش.

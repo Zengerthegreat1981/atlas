@@ -7,7 +7,7 @@ title: "روبن ووفيت"
 en: "Robin Wooffitt"
 crumb: "علم النفس الخطابي ← علم النفس الباراسيكولوجي ← روبن ووفيت"
 dates: "بريطانيا · القرن العشرين–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"

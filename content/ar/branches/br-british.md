@@ -5,7 +5,7 @@ type: "تيار"
 level: ""
 title: "الوجودي-الظاهراتي البريطاني"
 en: "British existential-phenomenological"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 crumb: "المدرسة الوجودية ← التيارات ← التيار البريطاني"
 dates: "بريطانيا · من الثمانينيات"
 active_start: 1980

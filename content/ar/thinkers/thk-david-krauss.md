@@ -9,7 +9,7 @@ crumb: "العلاج بالتصوير الضوئي ← الناس ← ديفيد
 dates: "الولايات المتحدة الأمريكية · القرن العشرين–"
 active_start: 1979
 active_end: 2010
-country: "الولايات المتحدة الأمريكية"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 edges:

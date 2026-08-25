@@ -7,7 +7,7 @@ title: "سوزان سبيير"
 en: "Susan A. Speer"
 crumb: "علم النفس الخطابي ← الهوية والجندر ← سوزان سبيير"
 dates: "بريطانيا · القرن العشرين–"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2002
 active_end: "مستمر"

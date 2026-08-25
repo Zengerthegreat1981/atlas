@@ -10,7 +10,7 @@ dates: "الولايات المتحدة · 1909–1994"
 active_start: 1950
 active_end: 1975
 language: "الإنجليزية"
-country: "أمريكا"
+country: "الولايات المتحدة"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"

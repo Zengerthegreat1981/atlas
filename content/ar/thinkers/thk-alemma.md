@@ -7,7 +7,7 @@ title: "أليساندرا لِمّا"
 en: "Alessandra Lemma"
 crumb: "العلاج الديناميكي البيني القصير (DIT) ← أليساندرا لِمّا"
 dates: "[غير مؤكد]"
-country: "بريطانيا"
+country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2008
 active_end: "مستمر"

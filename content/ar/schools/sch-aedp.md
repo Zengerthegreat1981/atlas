@@ -8,7 +8,7 @@ title: "العلاج النفسي الديناميكي التعزيزي المت
 en: "Accelerated Experiential Dynamic Psychotherapy (AEDP)"
 crumb: "علم النفس ← المدارس الديناميكية-التجريبية ← العلاج النفساني التعزيزي المتسارع (AEDP)"
 dates: "الولايات المتحدة · من أواخر التسعينيات إلى اليوم"
-country: "الولايات المتحدة الأمريكية"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1997
 active_end: "مستمر"

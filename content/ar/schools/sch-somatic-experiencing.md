@@ -8,7 +8,7 @@ title: "التجربة الجسدية (Somatic Experiencing)"
 en: "Somatic Experiencing (SE)"
 crumb: "علم النفس ← المدارس العلاجية المعاصرة ← علاجات الصدمة الجسدية ← التجربة الجسدية"
 dates: "الولايات المتحدة · من 1990s إلى اليوم"
-country: "الولايات المتحدة الأمريكية"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"

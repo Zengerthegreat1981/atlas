@@ -7,7 +7,7 @@ title: "[مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA 
 en: "Founders of US Jungian associations and institutes"
 crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو الجمعيات والمعاهد التحليلية في الولايات المتحدة"
 dates: "أمريكا · [غير مؤكد]"
-country: "أمريكا"
+country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: null
@@ -23,7 +23,7 @@ gaps:
   - "هوية المؤسِّسين الفعليين لـ 19 معهداً/جمعية أمريكية موثّقة في IAAP — غير موثّقة مركزياً في هذا البحث."
 ---
 
-# مؤسسو الجمعيات والمعاهد التحليلية في الولايات المتحدة (placeholder)
+# [مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA]
 
 ## CGJIZ (CG Jung Institute Zurich) — سويسرا (الجذر)
 ## CGJIC (CG Jung Institute of Colorado) — Boulder

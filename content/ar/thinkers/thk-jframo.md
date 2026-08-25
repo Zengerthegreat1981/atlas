@@ -43,6 +43,5 @@ gaps:
 - *Explorations in Marital and Family Therapy* (1982) — أوراقه المجموعة.
 - *Family-of-Origin Therapy: An Intergenerational Approach* (1992) — عرضه المنهجي الكامل للتقنية.
 
-## قيد
-
+## القيد
 - **جلسات "Family of Origin"** تتطلب استعداداً عاطفياً عالياً من المشاركين، وتثير تساؤلات أخلاقية حول الحدود.
