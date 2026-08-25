@@ -17,7 +17,7 @@ related:
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
-- id: "wrk-acts-of-meaning", title: "أفعال المعنى", type: "عمل / كتاب"related:
+- id: "wrk-acts-of-meaning", title: "أفعال المعنى", type: "عمل / كتاب"
 - id: "crt-adhd-overdiagnosis", title: "ADHD: تشخيص مُفرط", type: "نقد خارجي موثَّق"
 - id: "stu-bargh-automaticity-elderly-priming", title: "تجربة جون بارغ للتهيئة التلقائية بكلمات الشيخوخة وأزمة تكرارها (1996)", type: "دراسة وبحث"
 - id: "stu-mischel-marshmallow-test", title: "تجربة المارشميلو وتأجيل الإشباع لوالتر ميشيل", type: "دراسة وبحث"

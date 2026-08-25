@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-mdd", title: "الاضطراب الاكتئابي الجسيم", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-major-depressive", type: "مفهوم"
+- id: "dis-major-depressive", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
 - id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب", type: "أداة قياس"
 - id: "ins-phq-9", title: "استبيان صحة المريض-9", type: "أداة قياس"
 - id: "ins-hamilton-hama", title: "مقياس هاملتون للقلق (HAM-A / HARS)", type: "أداة قياس"

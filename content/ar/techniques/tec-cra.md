@@ -4,7 +4,7 @@ id: "TEC-0139"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "نهج التعزيز المجتمعي (CRA)"
-en: "Community Reinforcement Approach (CRA)
+en: "Community Reinforcement Approach (CRA)"
 crumb: "الإدمان ← التقنيات والتدخلات ← نهج التعزيز المجتمعي"
 country: "الولايات المتحدة"
 dates: "1973"

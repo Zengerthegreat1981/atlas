@@ -4,7 +4,7 @@ id: "TEC-0223"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بالغابات (Forest Therapy)"
-en: "Forest Therapy / Shinrin-yoku
+en: "Forest Therapy / Shinrin-yoku"
 crumb: "العلاج البيئي/الطبيعي ← التقنيات والتدخلات ← العلاج بالغابات"
 country: "اليابان"
 dates: "1982"

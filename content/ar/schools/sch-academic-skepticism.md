@@ -15,7 +15,7 @@ active_end: -80
 edges:
 - rel: "belongs_to", target: "sch-academy-platonic", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-academy-platonic", target_type: "مدرسة"
-- rel: "evolved_into", target: "الانتقائية الهلنستية-الرومانية", target: "مدرسة"
+- rel: "evolved_into", target: "الانتقائية الهلنستية-الرومانية", target_type: "مدرسة"
 related:
 - id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"

@@ -16,7 +16,8 @@ edges:
 related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
-- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+gaps:
 - id: "crt-critique-of-narrative-therapy", title: "نقد الْعِلَاج بِالْحِكَايَة: مَا بَيْن الْمَيْتَافِيزِيقَا وَ الْإِدِّعَاء الْعِلْمِيّ", type: "نقد خارجي موثَّق"
 - "تفاصيل Gergen (1985) في *The Social Constructionist Movement in Modern Psychology* — لا اقتباس."
 - "موقف Foucault (1975) في *Discipline and Punish* من CBT — لا اقتباس."

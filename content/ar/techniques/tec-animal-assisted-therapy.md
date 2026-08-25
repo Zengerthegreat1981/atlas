@@ -4,7 +4,7 @@ id: "TEC-0367"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بمساعدة الحيوانات (AAT)"
-en: "Animal-Assisted Therapy (AAT)
+en: "Animal-Assisted Therapy (AAT)"
 crumb: "العلاج البيئي/الطبيعي ← التقنيات والتدخلات ← العلاج بمساعدة الحيوانات"
 country: "[DRAFT-UNKNOWN]"
 active_start: 1961

@@ -14,7 +14,8 @@ edges:
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
-- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+gaps:
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - "تفاصيل Raimo (1997) في *Pseudoscience and Idolatry* — لا اقتباس."

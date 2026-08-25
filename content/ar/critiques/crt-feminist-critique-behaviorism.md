@@ -16,7 +16,7 @@ related:
 - id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
-- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"related:
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
 - id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-family-systems", title: "نقد الْعِلَاج الْأُسَريّ النِّظَامِيّ: مَنْ يَحْدِّد مَا هُوَ «صِحِّيّ»؟", type: "نقد خارجي موثَّق"
 gaps:

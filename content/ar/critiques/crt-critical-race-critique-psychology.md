@@ -15,7 +15,7 @@ edges:
 - rel: "relates_to", target: "علم النفس", target_type: "مدرسة"
 related:
 - id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
-- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"related:
+- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"
 - id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"

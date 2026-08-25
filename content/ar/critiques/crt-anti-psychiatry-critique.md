@@ -16,7 +16,7 @@ edges:
 related:
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي", type: "جدل"
-- id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"related:
+- id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
 - id: "crt-adhd-overdiagnosis", title: "ADHD: تشخيص مُفرط", type: "نقد خارجي موثَّق"
 - id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
 - id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"

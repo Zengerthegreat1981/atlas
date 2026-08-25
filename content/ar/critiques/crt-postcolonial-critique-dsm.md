@@ -16,7 +16,7 @@ related:
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "br-decolonizing-therapy", title: "Decolonizing Therapy (دوران، يلو بيرد)", type: "تيار"
 - id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير (Psicología de la liberación)", type: "عمل / كتاب"
-- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي", type: "جدل"related:
+- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي", type: "جدل"
 - id: "syn-amok", title: "متلازمة أموك (نوبة الهياج الانفجاري والعدوان المفاجئ)", type: "متلازمة"
 - id: "syn-brain-fag", title: "متلازمة الإنهاك الدماغي لدى الطلاب (Brain Fag Syndrome)", type: "متلازمة"
 - id: "syn-dhat", title: "متلازمة ذات (قلق فقدان السائل المنوي في جنوب آسيا)", type: "متلازمة"

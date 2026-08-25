@@ -50,3 +50,21 @@
 - /Users/minamoheb/Desktop/Atlas/content/ar/thinkers/thk-rwilliams.md: ['  - "تعاونه مع ديفيد هول (Hall) في ترجمة الكونفشيوسية و"التركيز على العمليات" (Focusing the Familiar) موثّق جزئياً."']
 - /Users/minamoheb/Desktop/Atlas/content/ar/thinkers/thk-spivak.md: ['  - "نصوص Spivak (Of Grammatology intro, "Can the Subaltern Speak?", A Critique of Postcolonial Reason) تحتاج مراجعة من المصدر الأولي."']
 - /Users/minamoheb/Desktop/Atlas/content/ar/thinkers/thk-trore.md: ['  - "يجب التحقق من تسمية Mason Durie مقابل "Timothy Rore" في بعض المصادر. الأرجح هو Mason Durie."']
+
+
+---
+
+## ملحق — تلوّث أعمق ظهر بعد إصلاح 0.5 (2026-08-25)
+
+7 من ملفات `critiques/` فيها مفتاح `gaps:` مكرر داخل نفس الملف. المفتاح الأول يحتوي عناصر بصيغة `- id: "...", title: "...", type: "..."` (شكل `related` لا `gaps`) بالإضافة لعناصر نصية حقيقية، والمفتاح التاني (المكرر) يحتوي جملاً قالبية جاهزة («المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً»، «توسيع شبكة العلاقات... قيد المتابعة»).
+
+**قرار مطلوب من صاحب Task 11 (critiques/):** هل العناصر الشبيهة بـ`related` دي روابط حقيقية ينبغي نقلها لقسم `related`، أم فجوات مكتوبة غلط؟ لا تُحذف ولا تُنقل آلياً — قرار تحريري.
+
+الملفات:
+- critiques/crt-disability-studies-critique.md
+- critiques/crt-feminist-critique-psychoanalysis.md
+- critiques/crt-popper-critique-psychoanalysis.md
+- critiques/crt-postmodern-critique.md
+- critiques/crt-religious-conservative-critique-psychoanalysis.md
+- critiques/crt-research-ethics-historical.md
+- critiques/crt-scientific-critique-transpersonal.md

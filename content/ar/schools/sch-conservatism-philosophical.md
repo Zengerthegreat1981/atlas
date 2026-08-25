@@ -13,7 +13,7 @@ language: "الإنجليزية، الألمانية، الفرنسية"
 active_start: 1790
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", type_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
 - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
 gaps:

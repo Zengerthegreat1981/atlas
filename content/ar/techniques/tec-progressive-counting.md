@@ -4,7 +4,7 @@ id: "TEC-0281"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "تقنية العد التصاعدي (Progressive Counting)"
-en: "Progressive Counting (PC)
+en: "Progressive Counting (PC)"
 crumb: "العلاج المتمركز حول الصدمة ← التقنيات والتدخلات ← تقنية العد التصاعدي"
 country: "الولايات المتحدة"
 dates: "2005"

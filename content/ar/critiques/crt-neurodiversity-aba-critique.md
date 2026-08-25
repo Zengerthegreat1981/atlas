@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "br-aba-autism", title: "تحليل السلوك التطبيقي للتوحد (ABA)", type: "تيار"
-- id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل", type: "جدل"related:
+- id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل", type: "جدل"
 - id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-medication-children", title: "جِدَل دَوَاء الاضْطِرَابات النَّفْسِيّة لِلْأَطْفَال", type: "جدل"
 gaps:

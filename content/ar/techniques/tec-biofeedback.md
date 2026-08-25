@@ -4,7 +4,7 @@ id: "TEC-0368"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "البيوفيتباك (Biofeedback)"
-en: "Biofeedback / Psychophysiological Feedback
+en: "Biofeedback / Psychophysiological Feedback"
 crumb: "التغذية الراجعة العصبية/الحيوية ← التقنيات والتدخلات ← البيوفيتباك"
 country: "[DRAFT-UNKNOWN]"
 active_start: 1960

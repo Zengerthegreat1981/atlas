@@ -15,7 +15,8 @@ related:
 - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "con-postcolonial-psychoanalysis", title: "التحليل النفسي بعد الكولونيالي", type: "مفهوم"
-- id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"gaps:
+- id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"
+gaps:
 - "موقف Gokulsing (1997) من 'التحليل النفسي البريطاني-الهندي' — لا مراجعة نصية."
 - "تفاصيل 'Bion in Latin America' (خاصة في الأرجنتين) — لا مراجعة."
 - "لا اقتباس مباشر موثوق متاح من فرويد (توفي 1939، قبل موجة ما بعد الكولونيالية)."

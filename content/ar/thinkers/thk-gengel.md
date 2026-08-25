@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1953
 active_end: 1999
 part: "psychology"
-crumb: "الطب النفسي-الجسدي ← النموذج البيولوجي-النفسي-الاجتماعي ← جورج إنغل
+crumb: "الطب النفسي-الجسدي ← النموذج البيولوجي-النفسي-الاجتماعي ← جورج إنغل"
 edges:
 - rel: "belongs_to", target: "علم النفس الطبي النفسي", target_type: "مدرسة"
 related:

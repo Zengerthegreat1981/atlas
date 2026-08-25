@@ -16,7 +16,8 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
-- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+gaps:
 - id: "crt-critique-of-psychodynamic-therapy", title: "نقد الْعِلَاج النَّفْسَحَرَكِيّ: لِمَاذَا الْاِسْتِبْصَار لَيْسَ كَافِيًا؟", type: "نقد خارجي موثَّق"
 - "تفاصيل Popper (1963) *Conjectures and Refutations* — لا اقتباس."
 - "موقف Grunbaum (1984) *The Foundations of Psychoanalysis* — لا اقتباس."

@@ -4,7 +4,7 @@ id: "CON-1258"
 type: "مفهوم"
 level: "متوسط"
 title: "الحد من الضرر (Harm Reduction)"
-en: "Harm Reduction
+en: "Harm Reduction"
 crumb: "الإدمان ← المفاهيم ← الحد من الضرر"
 country: "[DRAFT-UNKNOWN]"
 active_start: 1926

@@ -16,7 +16,7 @@ evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "developed_by", target: "william-miller", target_type: "مفكر"
-- rel: "developed_by", target: "stephen-rollnick", target_type: "مفكر", target: "stephen-rollnick"
+- rel: "developed_by", target: "stephen-rollnick", target_type: "مفكر"
 related:
 - id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"

@@ -15,7 +15,7 @@ edges:
 related:
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
 - id: "dbt-individualism", title: "الفردانية والعمى عن السلطة", type: "جدل"
-- id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير", type: "عمل / كتاب"related:
+- id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير", type: "عمل / كتاب"
 - id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
 gaps:
   - "تفاصيل 'Community Psychology' كنموذج ماركسي-أمريكي — لا مراجعة."

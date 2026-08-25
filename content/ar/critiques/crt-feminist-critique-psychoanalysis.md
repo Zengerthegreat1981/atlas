@@ -17,7 +17,8 @@ related:
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "thk-khorney", title: "كارن هورني", type: "مفكر"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
-- id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"gaps:
+- id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
+gaps:
 - id: "crt-critique-of-emotionally-focused", title: "نقد الْعِلَاج بِالْمَشَاعِر (EFT) لِلْأَزْوَاج: «اِرْتِبَاط» أَمْ «اِعْتِمَادِيَّة»؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-evolutionary-psychology", title: "نقد عِلْم النَّفْس التَّطَوُّرِيّ: «قِصَص فَوْق تَطَوُّرِيَّة» غَيْر قَابِلَة لِلتَّفْنِيد", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-self-help-genre", title: "نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْوِيل التِّجَارِيّ لِـ**عِلْم النَّفْس**", type: "نقد خارجي موثَّق"

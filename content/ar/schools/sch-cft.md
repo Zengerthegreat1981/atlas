@@ -16,7 +16,7 @@ evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-modernism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-psychodynamic-humanistic", target_type: "مدرسة"
-- rel: "developed_by", target: "paul-gilbert", target_type: "مفكر", target: "paul-gilbert"
+- rel: "developed_by", target: "paul-gilbert", target_type: "مفكر"
 related:
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "con-three-circles-emotion", title: "أنظمة تنظيم الانفعال الثلاثة", type: "مفهوم"

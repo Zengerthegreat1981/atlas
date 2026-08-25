@@ -14,7 +14,8 @@ edges:
 related:
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
-- id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل: مفيد أم ضار؟", type: "جدل"gaps:
+- id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل: مفيد أم ضار؟", type: "جدل"
+gaps:
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - "تفاصيل كتاب Sinclair (1993) 'Don't Mourn for Us' — لا اقتباس مباشر."

@@ -4,7 +4,7 @@ id: "CON-1262"
 type: "مفهوم"
 level: "متوسط"
 title: "المرونة العصبية في سياق الصدمة"
-en: "Neuroplasticity in Trauma Context
+en: "Neuroplasticity in Trauma Context"
 crumb: "العلاج المتمركز حول الصدمة ← المفاهيم ← المرونة العصبية"
 country: "[DRAFT-UNKNOWN]"
 active_start: 2000

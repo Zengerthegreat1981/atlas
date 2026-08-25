@@ -1,0 +1,376 @@
+{
+  "generated": "2026-08-25 22:54",
+  "git": "896a6e09 2026-08-25 22:44:40 +0300",
+  "dirty": 35,
+  "total_files": 6618,
+  "parse_fail": 0,
+  "u600": 1554,
+  "u1200": 3970,
+  "stamped": 1268,
+  "filler": 1615,
+  "scaffold": 531,
+  "noquote": 4197,
+  "sources": 1,
+  "blacklist": 4197,
+  "bt_slug": 2720,
+  "bt_name": 2818,
+  "low_links": 1265,
+  "missing_schools_count": 310,
+  "top_missing_schools": [
+    [
+      308,
+      "التحليل النفسي (Psychoanalysis)"
+    ],
+    [
+      285,
+      "الوجودية العلاجية (Existential Therapy)"
+    ],
+    [
+      41,
+      "العلاج المعرفي السلوكي (CBT)"
+    ],
+    [
+      31,
+      "التجربة الجسدية (Somatic Experiencing)"
+    ],
+    [
+      29,
+      "السلوكية (Behaviorism)"
+    ],
+    [
+      24,
+      "علم النفس الفردي الأدلري"
+    ],
+    [
+      16,
+      "علم النفس الإنساني (Humanistic Psychology)"
+    ],
+    [
+      13,
+      "التأهيل النفسي-الاجتماعي"
+    ],
+    [
+      12,
+      "فلسفة العلم (كمظلة)"
+    ],
+    [
+      11,
+      "الفلسفة السياسية المعاصرة"
+    ],
+    [
+      11,
+      "العلاج متعدد الأنظمة (MST)"
+    ],
+    [
+      11,
+      "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس"
+    ],
+    [
+      11,
+      "السيكودراما والسوسيومتري"
+    ],
+    [
+      11,
+      "التكاملية/الانتقائية"
+    ],
+    [
+      10,
+      "الفلسفة المشائية الإسلامية"
+    ]
+  ],
+  "top_inbound": [
+    [
+      "sch-psychoanalysis",
+      1465
+    ],
+    [
+      "sch-cognitive-behavioral",
+      1380
+    ],
+    [
+      "sch-existential-therapy",
+      1321
+    ],
+    [
+      "con-res-cogitans-res-extensa",
+      687
+    ],
+    [
+      "con-set-and-setting",
+      679
+    ],
+    [
+      "wrk-men-are-from-mars",
+      534
+    ],
+    [
+      "wrk-12-rules-for-life",
+      534
+    ],
+    [
+      "wrk-design-everyday-things",
+      251
+    ],
+    [
+      "con-voluntarism-divine-will",
+      213
+    ],
+    [
+      "thk-jung",
+      182
+    ],
+    [
+      "thk-freud",
+      163
+    ],
+    [
+      "con-authenticity",
+      159
+    ],
+    [
+      "br-relational-cultural",
+      152
+    ],
+    [
+      "br-recovered-memory-movement",
+      148
+    ],
+    [
+      "thk-heidegger",
+      132
+    ]
+  ],
+  "per_folder": {
+    "axioms": {
+      "n": 50,
+      "median": 1493,
+      "u1200": 24,
+      "stamped": 20,
+      "filler": 0,
+      "scaffold": 23,
+      "blacklist": 21,
+      "low_links": 0,
+      "bt_name": 1
+    },
+    "branches": {
+      "n": 234,
+      "median": 560,
+      "u1200": 163,
+      "stamped": 95,
+      "filler": 149,
+      "scaffold": 47,
+      "blacklist": 99,
+      "low_links": 0,
+      "bt_name": 64
+    },
+    "concepts": {
+      "n": 908,
+      "median": 693,
+      "u1200": 619,
+      "stamped": 325,
+      "filler": 677,
+      "scaffold": 11,
+      "blacklist": 618,
+      "low_links": 0,
+      "bt_name": 127
+    },
+    "contexts": {
+      "n": 118,
+      "median": 793,
+      "u1200": 111,
+      "stamped": 1,
+      "filler": 0,
+      "scaffold": 0,
+      "blacklist": 13,
+      "low_links": 86,
+      "bt_name": 2
+    },
+    "critiques": {
+      "n": 100,
+      "median": 1610,
+      "u1200": 46,
+      "stamped": 44,
+      "filler": 1,
+      "scaffold": 22,
+      "blacklist": 71,
+      "low_links": 1,
+      "bt_name": 3
+    },
+    "debates": {
+      "n": 176,
+      "median": 1112,
+      "u1200": 94,
+      "stamped": 64,
+      "filler": 129,
+      "scaffold": 30,
+      "blacklist": 106,
+      "low_links": 0,
+      "bt_name": 24
+    },
+    "dialogues": {
+      "n": 49,
+      "median": 684,
+      "u1200": 46,
+      "stamped": 33,
+      "filler": 0,
+      "scaffold": 0,
+      "blacklist": 25,
+      "low_links": 0,
+      "bt_name": 0
+    },
+    "disorders": {
+      "n": 113,
+      "median": 3869,
+      "u1200": 8,
+      "stamped": 0,
+      "filler": 0,
+      "scaffold": 4,
+      "blacklist": 104,
+      "low_links": 5,
+      "bt_name": 2
+    },
+    "events": {
+      "n": 149,
+      "median": 1227,
+      "u1200": 68,
+      "stamped": 80,
+      "filler": 100,
+      "scaffold": 85,
+      "blacklist": 60,
+      "low_links": 0,
+      "bt_name": 1
+    },
+    "experiences": {
+      "n": 124,
+      "median": 817,
+      "u1200": 99,
+      "stamped": 48,
+      "filler": 0,
+      "scaffold": 0,
+      "blacklist": 27,
+      "low_links": 26,
+      "bt_name": 1
+    },
+    "instruments": {
+      "n": 103,
+      "median": 1144,
+      "u1200": 72,
+      "stamped": 7,
+      "filler": 0,
+      "scaffold": 63,
+      "blacklist": 32,
+      "low_links": 72,
+      "bt_name": 0
+    },
+    "metaphors": {
+      "n": 144,
+      "median": 749,
+      "u1200": 113,
+      "stamped": 47,
+      "filler": 0,
+      "scaffold": 0,
+      "blacklist": 27,
+      "low_links": 33,
+      "bt_name": 1
+    },
+    "questions": {
+      "n": 129,
+      "median": 781,
+      "u1200": 106,
+      "stamped": 44,
+      "filler": 0,
+      "scaffold": 0,
+      "blacklist": 22,
+      "low_links": 25,
+      "bt_name": 1
+    },
+    "relations": {
+      "n": 126,
+      "median": 528,
+      "u1200": 92,
+      "stamped": 56,
+      "filler": 0,
+      "scaffold": 4,
+      "blacklist": 91,
+      "low_links": 0,
+      "bt_name": 12
+    },
+    "schools": {
+      "n": 369,
+      "median": 2341,
+      "u1200": 61,
+      "stamped": 2,
+      "filler": 17,
+      "scaffold": 0,
+      "blacklist": 169,
+      "low_links": 23,
+      "bt_name": 103
+    },
+    "studies": {
+      "n": 121,
+      "median": 1371,
+      "u1200": 33,
+      "stamped": 11,
+      "filler": 0,
+      "scaffold": 84,
+      "blacklist": 30,
+      "low_links": 79,
+      "bt_name": 0
+    },
+    "syndromes": {
+      "n": 195,
+      "median": 611,
+      "u1200": 177,
+      "stamped": 0,
+      "filler": 0,
+      "scaffold": 0,
+      "blacklist": 189,
+      "low_links": 114,
+      "bt_name": 0
+    },
+    "techniques": {
+      "n": 380,
+      "median": 1309,
+      "u1200": 176,
+      "stamped": 5,
+      "filler": 0,
+      "scaffold": 1,
+      "blacklist": 189,
+      "low_links": 104,
+      "bt_name": 9
+    },
+    "terms": {
+      "n": 126,
+      "median": 816,
+      "u1200": 100,
+      "stamped": 47,
+      "filler": 0,
+      "scaffold": 0,
+      "blacklist": 22,
+      "low_links": 12,
+      "bt_name": 0
+    },
+    "thinkers": {
+      "n": 2295,
+      "median": 1089,
+      "u1200": 1299,
+      "stamped": 89,
+      "filler": 8,
+      "scaffold": 48,
+      "blacklist": 1869,
+      "low_links": 685,
+      "bt_name": 2324
+    },
+    "works": {
+      "n": 609,
+      "median": 575,
+      "u1200": 463,
+      "stamped": 250,
+      "filler": 534,
+      "scaffold": 109,
+      "blacklist": 413,
+      "low_links": 0,
+      "bt_name": 143
+    }
+  }
+}

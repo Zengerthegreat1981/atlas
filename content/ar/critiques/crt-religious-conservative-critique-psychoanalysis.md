@@ -13,7 +13,8 @@ edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "wrk-vorlesungen-einfuhrung-psychoanalyse", title: "محاضرات تمهيدية في التحليل النفسي", type: "عمل / كتاب"gaps:
+- id: "wrk-vorlesungen-einfuhrung-psychoanalyse", title: "محاضرات تمهيدية في التحليل النفسي", type: "عمل / كتاب"
+gaps:
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"

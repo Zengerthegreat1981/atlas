@@ -4,7 +4,7 @@ id: "CON-1234"
 type: "مفهوم"
 level: "مبتدئ"
 title: "شينرين-يوكو (الاستحمام بالغابة)"
-en: "Shinrin-yoku (Forest Bathing)
+en: "Shinrin-yoku (Forest Bathing)"
 crumb: "العلاج البيئي/الطبيعي ← المفاهيم ← شينرين-يوكو"
 country: "اليابان"
 active_start: 1982

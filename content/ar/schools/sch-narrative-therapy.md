@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
 - rel: "developed_by", target: "michael-white", target_type: "مفكر"
-- rel: "developed_by", target: "david-epston", target_type: "مفكر", target: "david-epston"
+- rel: "developed_by", target: "david-epston", target_type: "مفكر"
 related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "thk-depston", title: "ديفيد إبستون", type: "مفكر"

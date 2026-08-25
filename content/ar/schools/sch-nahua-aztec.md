@@ -9,7 +9,7 @@ en: "Nahua/Aztec Philosophy (Teotl Concept)"
 crumb: "الفلسفة ← أفريقيا وأمريكا الأصلية ← فلسفة الناهوا/الأزتك"
 dates: "الوسط المكسيكي · من القرن 12 إلى القرن 16"
 country: "المكسيك (حضارة الأزتك)"
-language: "النَاهَوالية (نَوايَه)"، "الإسبانية"
+language: "النَاهَوالية (نَوايَه) / الإسبانية"
 active_start: 1100
 active_end: 1521
 active_source: "lifespan"
