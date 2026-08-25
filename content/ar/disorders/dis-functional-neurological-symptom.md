@@ -200,8 +200,3 @@ ICD-11 يصنّف اضطراب الأعراض العصبية الوظيفية ت
 - Stone, J., Carson, A., & Sharpe, M. (2009). *Functional Symptoms in Neurology: Management*. Practical Neurology.
 - Edwards, M. J., Bhatia, K. P. (2012). *Functional (Psychogenic) Movement Disorders*. Current Opinion in Neurology.
 - Perez, D. L., et al. (2021). *Neuroimaging in Functional Neurological Disorder*. Nature Reviews Neurology.
-
-## أفكار روابط لم تُتحقق
-
-- "متلازمة الألم المزمن" (متوقع: syn-chronic-pain) — تتداخل مع FND في كثير من الحالات.
-- "الهيستيريا كمفهوم تاريخي" (متوقع: con-hysteria-historical) — مفهوم جدلي حول تاريخ FND.

@@ -19,7 +19,6 @@ related:
 - id: "thk-jim-loehr", title: "جيم لور", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-deniswaitley", title: "دينيس ويتلي", type: "مفكر"
-
 gaps:
   - "تاريخ التأسيس في San Fernando Valley State College (Bruce Ogilvie, Thomas Tutko) يستحق مصدراً."
   - "التمييز بين Certified Consultant (CC-AASP) وlicensure النفسي يستحق تفصيلاً."
@@ -59,8 +58,3 @@ gaps:
 - **ممارسة غير مرخّصة**: كثير من «علماء نفس الرياضة» يعملون بدون رخصة إكلينيكية، ما يثير مخاوف أخلاقية.
 - **تطبيقات مُكرّرة**: كثير من «التدخلات النفسية الرياضية» مشتقات مباشرة من CBT بدون تكييف حقيقي.
 - **اقتصاد الضغط الرياضي**: ضغوط المدربين والاتحادات قد تتعارض مع استقلالية الممارس.
-
-## أفكار روابط لم تُتحقق
-
-- "Ogilvie-Tutko Athletic Motivation Inventory" (أداة قياس) — يستحق عنصراً مستقلاً.
-- "Sport Psychiatry" (حقل جديد) — لم يُتحقق.

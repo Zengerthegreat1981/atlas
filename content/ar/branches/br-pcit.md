@@ -19,7 +19,6 @@ related:
 - id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
 - id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "تاريخ التطوير (بدأ كمشروع أطروحة Eyberg 1981) يستحق مصدراً."
   - "النسخة العالمية (PCIT International) حركات التدريس تستحق تحققاً."
@@ -55,8 +54,3 @@ PCIT في أعلى مستوى دعم بحثي (Well-Established) وفقاً لـ
 - **PCIT-TC** (Trauma-informed): للأطفال في دور الرعاية.
 - **PCIT-CSES** (Children with Sensory & Emotional Regulation): للتوحد.
 - **PCIT-PR** (Pyramid Resources): للتطبيق في المدارس.
-
-## أفكار روابط لم تُتحقق
-
-- "PRIDE Skills" (تقنية) — يستحق عنصراً مستقلاً.
-- "Bug-in-the-Ear Coaching" (تقنية) — لم يُتحقق.

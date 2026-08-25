@@ -53,8 +53,3 @@ gaps:
 - على قائمة Blueprints for Healthy Youth Development (مستوى "Model Program").
 - أكثر من 25 RCT، تشمل عيّنات في أمريكا وأوروبا ونيوزيلندا.
 - فعّال لمجموعة واسعة من الحالات: الجنوح، تعاطي المخدرات، الانتحار.
-
-## أفكار روابط لم تُتحقق
-
-- "Engagement Phase" (مفهوم) — لم يُتحقق.
-- "Alexander's Functional Model" (نظرية) — لم يُتحقق.

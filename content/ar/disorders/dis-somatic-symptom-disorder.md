@@ -206,11 +206,6 @@ ICD-11 يصنّف اضطراب الأعراض الجسدية تحت 6C20، مع 
 - Kirmayer, L. J., & Sartorius, N. (2007). *Cultural Somatization*. Psychopathology.
 - Rief, W., & Martin, A. (2014). *How to Use the New DSM-5 Somatic Symptom Disorder Diagnosis in Research and Practice*. Psychotherapy and Psychosomatics.
 
-## أفكار روابط لم تُتحقق
-
-- "متلازمة الألم المزمن" (متوقع: syn-chronic-pain) — ارتباط مفاهيمي واضح مع اضطراب الأعراض الجسدية المصحوب بألم مزمن.
-- "الظواهر النفسية-الجسدية في الثقافة العربية" (متوقع: con-arab-cultural-somatization) — مفهوم ثقافي مهم لتفسير الأعراض الجسدية.
-
 ## التطور التاريخي في DSM
 
 دُمجت فئات اضطراب الجسدنة والألم النفسي والجسدنة غير المتمايزة في DSM-5 ضمن تشخيص موحد هو «اضطراب العَرَض الجسدي» (Somatic Symptom Disorder)، مع تحويل التركيز التشخيصي من «غياب التفسير الطبي للعرض» إلى «وجود أفكار ومشاعر وسلوكيات غير متناسبة ومفرطة تجاه العرض».

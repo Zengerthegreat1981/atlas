@@ -195,9 +195,3 @@ ICD-11 يصنّف هذا تحت 6E40 مع التركيز على العوامل �
 - Fava, G. A., & Sonino, N. (2010). *Psychological Factors Affecting Medical Conditions*. Psychotherapy and Psychosomatics.
 - Sotu, J. M., & Sobel, D. S. (2011). *Psychological Factors in Medical Conditions*. In: F. J. Keefe (Ed.), *Behavioral Medicine*.
 - Engel, G. L. (1977). *The Need for a New Medical Model: A Challenge for Biomedicine*. Science.
-
-## أفكار روابط لم تُتحقق
-
-- "متلازمة الألم المزمن" (متوقع: syn-chronic-pain) — مفهوم متداخل مع PFAOMC.
-- "النموذج البيولوجي-النفسي-الاجتماعي" (متوقع: con-biopsychosocial-model) — نموذج نظري مهم يربط PFAOMC.
-- "الطب التكاملي" (متوقع: con-integrative-medicine) — مجال مرتبط بتعزيز PFAOMC في الرعاية.

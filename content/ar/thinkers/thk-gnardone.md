@@ -46,8 +46,3 @@ gaps:
 - *The Art of Problem Solving* (1999).
 - *Brief Strategic Therapy: Philosophy, Techniques, and Research* (2005).
 - *Psychopathology of the Everyday* (2016).
-
-## أفكار روابط لم تُتحقق
-
-- «Emanuela Muriana» (زميلة في المركز) — تستحق عنصراً مستقلاً.
-- «Tommaso Trombetta» (زميل آخر) — يستحق عنصراً مستقلاً.

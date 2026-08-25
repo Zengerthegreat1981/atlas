@@ -51,8 +51,3 @@ gaps:
 - **المتطلبات اللوجستية الضخمة** تحد من الانتشار.
 - **التدريب المعقد** (6 أشهر للـtherapists).
 - **فعالية في بيئات البحث vs الواقع** (effectiveness gap).
-
-## أفكار روابط لم تُتحقق
-
-- "MST in Juvenile Justice" (تقنية) — لم يُتحقق.
-- "Henggeler's Family Preservation Model" (مفهوم) — لم يُتحقق.

@@ -66,8 +66,3 @@ gaps:
 - **Sabyasachi Bhaumik** (UK): رائد في Leicester.
 - **Donna Gates**: أبحاث في Tizard Centre.
 - **Peter Sturmey** (USA): تحليل سلوكي مع ID.
-
-## أفكار روابط لم تُتحقق
-
-- "Tizard Centre" (مؤسسة) — لم يُتحقق.
-- "Gates' Approach" (تقنية) — لم يُتحقق.

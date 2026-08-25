@@ -46,8 +46,3 @@ gaps:
 - *Slaying the Dragon: The History of Addiction Treatment and Recovery in America* (1998، 2014).
 - *Recovery Management / Recovery-Oriented Systems of Care* (2008، مع Kelly).
 - *Peer-Based Addiction Recovery Support: History, Theory, Practice, and Scientific Evaluation* (2010).
-
-## أفكار روابط لم تُتحقق
-
-- «Pat Deegan» (دفاع عن حقوق المريض النفسي) — تستحق عنصراً مستقلاً.
-- «Ernest Kurtz» (مؤرخ آخر للحركة) — يستحق عنصراً مستقلاً.

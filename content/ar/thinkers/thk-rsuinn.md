@@ -22,7 +22,6 @@ related:
 - id: "thk-marian-krcmar", title: "ماريان كركمار", type: "مفكر"
 - id: "thk-peter-clough", title: "بيتر كلاف", type: "مفكر"
 - id: "thk-rafaeli-eyth", title: "رافائيل إيدث", type: "مفكر"
-
 gaps:
   - "سنة الميلاد 1933 تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل مسيرته في Colorado State University تستحق توثيقاً."
@@ -53,7 +52,3 @@ gaps:
 - «Behavior Modification in Coaching» (1980).
 - «Psyching Up for Performance: Mental Preparations» (1991).
 - أكثر من 100 مقال وبحث في علم نفس الرياضة بين 1960 و2000.
-
-## أفكار روابط لم تُتحقق
-
-- «Suinn Anxiety Scale» (أداة قياس) — لم يُتحقق من وجود أداة مسماة باسمه.

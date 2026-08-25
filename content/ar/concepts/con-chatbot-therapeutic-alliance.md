@@ -35,8 +35,3 @@ gaps:
 ## الجدل البحثي
 
 دراسة في 2023 (PLOS Digital Health) وجدت أن المستخدمين يُبلغون عن درجة alliance مع Woebot مماثلة للتحالف مع معالج بشري في مقياس WAI-SR، لكن مع تحفّظات منهجية (self-report، غياب مُعمّى).
-
-## أفكار روابط لم تُتحقق
-
-- "Working Alliance" (مفهوم) — يستحق عنصراً مستقلاً.
-- "Anthropomorphism in AI Therapy" (نقد) — لم يُتحقق.

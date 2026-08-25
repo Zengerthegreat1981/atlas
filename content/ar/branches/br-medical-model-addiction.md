@@ -85,8 +85,3 @@ gaps:
 - **ASAM Definition (2011)**: «Addiction is a treatable, chronic medical disease...».
 - **NIDA Brain Disease Model**: مستند إلى دراسات التصوير العصبي (Volkow).
 - **نقد**: Lancet Psychiatry 2016، Heyman: «ليس كل ادعاء مرض» يثبت تجريبياً.
-
-## أفكار روابط لم تُتحقق
-
-- "Jellinek's Species of Alcoholism" (نظرية) — لم يُتحقق.
-- "Volkow's Brain Imaging" (دراسة) — لم يُتحقق.
