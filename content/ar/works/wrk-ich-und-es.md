@@ -15,11 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-freud", target_type: "مفكر"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الترجمة الإنجليزية المعتمدة (1961) أجراها James Strachey ضمن Standard Edition — التحقق من دقّتها للنصّ الأصلي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Freud في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

@@ -15,10 +15,8 @@ active_end: 1967
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "ورقته التاريخية 'طبيعة الفعل العلاجي في التحليل النفسي' (1934) ومفهوم 'التأويل الطافر' تستحق إدراجاً."

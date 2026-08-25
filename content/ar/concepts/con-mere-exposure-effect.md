@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
 - id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "ورقة روبرت زايونس (Robert Zajonc 1968) الكلاسيكية 'Attitudinal Effects of Mere Exposure'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

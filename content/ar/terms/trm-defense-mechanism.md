@@ -12,20 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: آنا فرويد (thk-anna-freud)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: جورج فايّان (thk-vaillant)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأَنا (con-ego)"
-- "التصنيفات المتنافسة (Freud الأصلية، Anna Freud، Vaillant) تحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين آليات الدفاع (ناضجة) و(غير ناضجة) عند Vaillant يحتاج فصلاً."
-- "العلاقة بـ'الاستراتيجيات التأقلم' (Coping Strategies) في علم النفس الإيجابي تحتاج توثيقاً."
+  - "التصنيفات المتنافسة (Freud الأصلية، Anna Freud، Vaillant) تحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين آليات الدفاع (ناضجة) و(غير ناضجة) عند Vaillant يحتاج فصلاً."
+  - "العلاقة بـ'الاستراتيجيات التأقلم' (Coping Strategies) في علم النفس الإيجابي تحتاج توثيقاً."
 ---
 # آليَّة الدِّفاع (Defense Mechanism)
 

@@ -17,9 +17,6 @@ related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: السقالة (Scaffolding) (con-scaffolding)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الآخر الأكثر معرفة (MKO) (con-more-knowledgeable-other)"

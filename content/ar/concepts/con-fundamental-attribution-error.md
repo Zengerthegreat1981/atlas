@@ -16,8 +16,6 @@ related:
 - id: "con-self-serving-bias", title: "انحياز خدمة الذات", type: "مفهوم"
 - id: "stu-ross-fundamental-attribution-error", title: "دراسة روس عن خطأ الإسناد الأساسي", type: "دراسة وبحث"
 - id: "stu-heider-simmel-apparent-behavior", title: "تجربة فريتز هايدر وماريان سيمل للإدراك السببي والاجتماعي (1944)", type: "دراسة وبحث"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "صياغة لي روس (Lee Ross 1977) للمصطلح وتجارب إدوارد جونز وفيكتور هاريس (1967)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

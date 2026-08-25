@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-behavioral-contracting", title: "العقد السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-reframing", title: "إعادة الصياغة/التأطير المعرفي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-cannabis-use", title: "اضطراب استخدام الحشيش", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-inhalant-use", title: "اضطراب استخدام المواد المستنشقة", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-premenstrual-dysphoric-disorder", title: "اضطراب ما قبل الطمث الاكتئابي", type: "اضطراب/حالة إكلينيكية"

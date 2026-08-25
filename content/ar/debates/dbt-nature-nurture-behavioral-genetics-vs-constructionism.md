@@ -9,8 +9,6 @@ en: "Behavioral Genetics vs. Social Constructionism in Explaining Personality an
 crumb: "علم النفس ← الجدالات الأساسية ← جدل الطبيعة والتنشئة ← علم الوراثة السلوكية مقابل الاتجاه الاجتماعي"
 active_start: 1970
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-erikson", title: "إريك إريكسون", type: "مفكر"
@@ -19,7 +17,6 @@ related:
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة", type: "جدل"
 gaps:
   - "نقد ستيفن جاي غولد (Stephen Jay Gould) لدراسات الوراثة السلوكية في كتابه *The Mismeasure of Man* يحتاج توسعاً"

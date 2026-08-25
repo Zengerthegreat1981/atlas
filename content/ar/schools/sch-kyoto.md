@@ -20,9 +20,6 @@ related:
 - id: "con-basho-logic", title: "منطق المكان (Basho)", type: "مفهوم"
 - id: "sch-post-kyoto", title: "ما بعد مدرسة كيوتو", type: "مدرسة"
 - id: "thk-hajime-tanabe", title: "هاجيمي تانيبي", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«البوذية اليابانية» (sch-buddhism-japanese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«البوذية الصينية» (sch-buddhism-chinese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

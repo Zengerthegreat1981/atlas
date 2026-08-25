@@ -15,8 +15,6 @@ related:
 - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
 - id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "تطبيقات جداول التعزيز في إدارة الطوارئ (VBR) وعلاج الإدمان — موضع تفصيل سريري."

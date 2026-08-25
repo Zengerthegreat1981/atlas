@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "thk-wundt", target_type: "مفكر"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "بعض نتائج الكتاب أُعيد اختبارها في القرن العشرين بأدوات إحصائية أحدث — التحقق التفصيلي من نتائج إعادة الاختبار لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Wundt في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

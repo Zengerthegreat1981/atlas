@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-anorexia-nervosa", title: "القهم العصبي (أنوريكسيا)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-bulimia-nervosa", title: "النهام العصبي (بوليميا)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-developmental-coordination", title: "اضطراب التنسيق التنموي", type: "اضطراب/حالة إكلينيكية"

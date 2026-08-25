@@ -14,15 +14,13 @@ edges:
 related:
 - id: "thk-szasz", title: "توماس سازس", type: "مفكر"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: دانيال إنجفار (thk-ingvar)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد التطبيب (crt-medicalization)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Insel, 2010; Szasz, 1961)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "العلاقة بين 'brain disease' و'chemical imbalance' و'neural circuit dysfunction' تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Insel, 2010; Szasz, 1961)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "العلاقة بين 'brain disease' و'chemical imbalance' و'neural circuit dysfunction' تحتاج فصلاً."
 ---
 # جِدَل الْمَرَض النَّفْسِيّ كَمَرَض دِمَاغ
 

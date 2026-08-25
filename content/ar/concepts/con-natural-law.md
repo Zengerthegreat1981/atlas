@@ -17,8 +17,6 @@ related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "sch-second-scholasticism", title: "السكولاستية الثانية (إسبانيا، عصر النهضة)", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين توما الأكويني (القانون الطبيعي قابل للمعرفة بالعقل) وليم الأوكامي (يحتاج الوحي) موضع نقاش معاصر."
   - "لا يوجد اقتباس مباشر موثوق من 'Summa Theologiae' I-II, qq. 90-95."

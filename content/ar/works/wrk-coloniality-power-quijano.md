@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
 - id: "thk-mignolo", title: "والتر مينيولو", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ النص الإسباني الأصلي 'Colonialidad del poder, eurocentrismo y América Latina' (2000)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

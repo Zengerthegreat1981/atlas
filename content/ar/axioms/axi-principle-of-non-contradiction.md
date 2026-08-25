@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-parmenides", title: "بارمنيدس", type: "مفكر"
 - id: "axm-unconscious-determination", title: "مبدأ الحتمية النفسية واللاشعور الفاعل", type: "مبدأ/بديهية"

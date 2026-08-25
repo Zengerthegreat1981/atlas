@@ -18,8 +18,6 @@ related:
 - id: "thk-kast", title: "فيرينا كاست", type: "مفكر"
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "مراحل الحزن الأربع لفيرينا كاست والفرص التنموية لإعادة بناء العلاقة مع الذات بعد الفقد."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

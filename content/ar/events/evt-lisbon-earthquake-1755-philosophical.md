@@ -9,14 +9,6 @@ en: "Lisbon Earthquake 1755 Philosophical"
 crumb: "تاريخ الفلسفة والفكر ← الأحداث والمحطات الفارقة ← زلزال لشبونة 1755 وتفجير النقاش الفلسفي حول الشر والتفاؤل"
 active_start: 1755
 active_end: 1755
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 gaps:
   - "المصادر التاريخية الأولية وتأثير الحدث في تحول البارادايم الفلسفي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

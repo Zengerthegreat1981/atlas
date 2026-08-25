@@ -16,9 +16,6 @@ edges:
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "con-conscientization-paulo-freire", title: "الوعي النقدي", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "ترجمات الكتاب (إنجليزية، إسبانية، عربية) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

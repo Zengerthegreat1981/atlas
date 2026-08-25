@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: كارل أبراهام (thk-abraham)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: أَثَرِيَّة المَعْرفة (con-archaeology-of-knowledge)"
-- "الفرق بين 'الحَفر' (Excavation) و'الاسْتِكشاف' (Exploration) في الاسْتِعارة يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "النقد ما بعد البنيوي (Foucault) للحفر يحتاج فصلاً."
-- "العلاقة بعلم النفس المعرفي (Cognitive Uncovery) تحتاج توثيقاً."
+  - "الفرق بين 'الحَفر' (Excavation) و'الاسْتِكشاف' (Exploration) في الاسْتِعارة يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "النقد ما بعد البنيوي (Foucault) للحفر يحتاج فصلاً."
+  - "العلاقة بعلم النفس المعرفي (Cognitive Uncovery) تحتاج توثيقاً."
 ---
 
 # العِلاج كَحَفْر أثري: استعارة الاكتشاف المُدفون

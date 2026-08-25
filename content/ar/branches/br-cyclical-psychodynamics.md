@@ -18,8 +18,6 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "كتاب بول واختل التأسيسي 'التحليل النفسي والعلاج السلوكي: نحو التكامل' (1977)."

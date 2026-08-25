@@ -15,8 +15,6 @@ related:
 - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
 - id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"
 - id: "con-fa", title: "الفا (法) — القانون الموضوعي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتقنيات شين بو هاي (بقيت في شذرات) لم تُحلّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

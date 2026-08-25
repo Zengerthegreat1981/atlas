@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-stephen-jay-gould", title: "ستيفن جاي غولد", type: "مفكر"
 - id: "dbt-evolutionary-psychology-adaptation-vs-spandrel", title: "جدل التكيف في علم النفس التطوري", type: "جدل"
 gaps:

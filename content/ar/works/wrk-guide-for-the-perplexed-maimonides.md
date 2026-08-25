@@ -14,9 +14,6 @@ active_end: 1190
 edges:
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-maimonides", title: "ابن ميمون", type: "مفكر"
 gaps:
   - "ترجمات صموئيل بن تيبون العبرية المعاصرة للمؤلف وتأثيرها على فلاسفة عصر النهضة."

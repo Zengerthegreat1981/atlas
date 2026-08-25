@@ -10,13 +10,9 @@ active_start: 1970
 active_end: 1980
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 gaps:
   - "مجموعات الحوار والتفريغ غير الرسمية (Rap Groups) التي قادها روبرت جاي ليفتون وتشارلز فيغلي تتطلب توثيقاً"

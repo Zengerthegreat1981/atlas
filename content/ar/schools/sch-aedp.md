@@ -22,10 +22,7 @@ edges:
 - rel: "founded_by", target: "لي ماكولوغ (Leigh McCullough)", target_type: "مفكر"
 - rel: "developed_by", target: "thk-fosha", target_type: "مفكر"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"

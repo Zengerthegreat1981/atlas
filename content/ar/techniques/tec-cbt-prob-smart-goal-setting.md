@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-prioritization-time-management", title: "الأولويات وإدارة الوقت", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
 - id: "br-psychoeducation", title: "التثقيف النفسي", type: "تيار"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "أول استخدام منهجي في سياق الطب النفسي (Anderson, Reiber, في السبعينيات) يستحق توثيقاً."

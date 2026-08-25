@@ -26,8 +26,6 @@ related:
 - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
 - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
 - id: "thk-kkoffka", title: "كارل كوفكا", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 - id: "con-two-chair-dialogue", title: "تقنية الكرسيين", type: "مفهوم"
 - id: "con-empty-chair", title: "تقنية الكرسي الفارغ", type: "مفهوم"
 - id: "thk-ifrom", title: "إيزادور فروم", type: "مفكر"

@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "met-cbt-colored-glasses", title: "نظارات CBT الملونة", type: "استعارة/مجاز مؤسِّس"
 gaps:

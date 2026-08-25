@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لا مراجعة بعدُ للطبعة الهندية الأصلية (1910، دار نشر IJ Joshi، بومباي) ولا للترجمة الغوجاراتية الأصلية (Navajivan)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

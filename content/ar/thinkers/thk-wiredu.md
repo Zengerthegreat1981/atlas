@@ -17,7 +17,6 @@ edges:
 related:
 - id: "thk-ashutte", title: "أوغسطين شَتّ", type: "مفكر"
 - id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:

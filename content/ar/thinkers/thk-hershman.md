@@ -15,7 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "العلاج الديناميكي البيني القصير (DIT)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-alemma", title: "أليساندرا لِمّا", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."

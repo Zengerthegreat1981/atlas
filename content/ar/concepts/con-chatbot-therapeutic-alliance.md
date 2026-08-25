@@ -14,9 +14,6 @@ edges:
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "مفهوم 'Working Alliance Inventory' المعدّل لـchatbot لم يُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

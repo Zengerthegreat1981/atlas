@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "thk-klew", target_type: "مفكر"
 related:
 - id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "تجارب لوين في تغيير السلوك الغذائي (رفع استهلاك الحليب والكبد في الأحياء الأمريكية) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

@@ -8,13 +8,9 @@ title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصا
 en: "Lived Experience of Depersonalization and Derealization: The Alienation of Self and World"
 crumb: "علم النفس ← الخبرات المعيشة ← تبدد الواقع والشخصية"
 active_start: 1898
-active_end: مستمر
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

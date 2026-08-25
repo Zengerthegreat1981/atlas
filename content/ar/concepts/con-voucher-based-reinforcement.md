@@ -15,8 +15,6 @@ related:
 - id: "thk-shiggins", title: "ستيفن هيغينز", type: "مفكر"
 - id: "thk-npetry", title: "نانسي بيتري", type: "مفكر"
 - id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الجدل الأخلاقي حول «دفع المرضى» مقابل السلوك الصحي — موضع فلسفي."

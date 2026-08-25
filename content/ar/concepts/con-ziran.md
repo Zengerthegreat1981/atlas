@@ -15,8 +15,6 @@ related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "con-dao", title: "الداو (道) — المبدأ الكوني", type: "مفهوم"
 - id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين 'الزُو ران' في 'Dao De Jing' و'Zhuangzi' وفي 'النيوكونفوشية' لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق بين homoousios وhomoiousios (حرف واحد) فتح جدلاً استمر 50 سنة."
   - "لا يوجد اقتباس مباشر موثوق من 'Athanasian Creed'."

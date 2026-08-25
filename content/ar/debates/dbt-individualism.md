@@ -15,8 +15,6 @@ related:
 - id: "thk-beauvoir", title: "بوفوار", type: "مفكر"
 - id: "br-british", title: "التيار البريطاني", type: "تيار"
 - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."

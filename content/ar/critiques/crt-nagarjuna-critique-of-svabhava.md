@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:

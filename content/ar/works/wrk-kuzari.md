@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-judah-halevi", title: "يهوذا اللاوي (أبو الحسن)", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الترجمة العبرية ليهودا بن يوسف ابن تيبون (الفاسي) قد تكون غير مكتملة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

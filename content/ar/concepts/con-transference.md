@@ -9,14 +9,11 @@ en: "Transference and Countertransference"
 crumb: "التحليل النفسي ← العملية العلاجية ← التحويل"
 active_start: 1905
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
 - id: "con-istdp-unlocking", title: "فتح اللاوعي (Unlocking the Unconscious, ISTDP)", type: "مفهوم"
 - id: "con-istdp-key-techniques", title: "التقنيات الأساسية في ISTDP: تحدّي الدفاع، تحمّل القلق، تحليل الأنا الأعلى، والتخلّل العلاجي", type: "مفهوم"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 gaps:
   - "دراسة حالة 'دورا' لفرويد (1905) واكتشاف التحويل كعقبة ثم كأداة علاجية كبرى."
   - "لا يوجد اقتباس مباشر موثوق متاح."

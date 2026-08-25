@@ -17,8 +17,6 @@ related:
 - id: "sch-jainism", title: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", type: "مدرسة"
 - id: "thk-mahavira", title: "ماهاڤيرا", type: "مفكر"
 - id: "thk-buddha", title: "بوذا", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين أحيمسا الجاينية الصارمة وأحيمسا البوذية/أحيمسا الهندوسية يحتاج مراجعة."
   - "لا يوجد تعريف فلسفي حديث موحد لأحيمسا في الفلسفة العربية."

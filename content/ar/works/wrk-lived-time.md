@@ -18,8 +18,6 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
 - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

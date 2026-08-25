@@ -13,7 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-contractualism", target_type: "مدرسة"
 related:
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "thk-martin-luther-king", title: "مارتن لوثر كينغ", type: "مفكر"
 - id: "que-civil-disobedience-duty", title: "العصيان المدني", type: "سؤال توليدي"
 gaps:

@@ -33,7 +33,6 @@ related:
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "متلازمة الرغبة الشديدة والاندفاع", type: "متلازمة"
 - id: "syn-obsessive-thoughts", title: "متلازمة الأفكار الوسواسية", type: "متلازمة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "البيانات الوبائية الدقيقة لانتشار Trichotillomania في المنطقة العربية غير متاحة في المصادر الأولية المراجعة."
   - "التمييز بين DSM-5-TR و ICD-11 في معايير 'BFRB' (Body-Focused Repetitive Behavior) لم يُراجع تفصيلياً."

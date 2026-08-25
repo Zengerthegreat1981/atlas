@@ -15,8 +15,6 @@ related:
 - id: "thk-obecker", title: "أوسكار بيكر", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الجماليات» (con-aesthetics) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النص الأصلي لأوسكار بيكر يستحق مراجعة من المصدر الأولي للتوثيق الدقيق للمصطلح الألماني."

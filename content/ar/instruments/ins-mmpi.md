@@ -9,10 +9,7 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← اختب
 active_start: 1943
 active_end: "مستمر"
 part: "psychology"
-edges:
-  []
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "dbt-projective-tests-validity", title: "جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني", type: "جدل"
 gaps:

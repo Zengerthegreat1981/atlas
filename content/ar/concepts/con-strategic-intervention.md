@@ -15,8 +15,6 @@ related:
 - id: "thk-jhaley", title: "بول واتزلاويك", type: "مفكر"
 - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "تيار"
 - id: "tec-prescription-task", title: "الوصفة العلاجية (Task Prescription)", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز الدقيق بين 'Strategic' و'Tactical' في النموذج المعاصر يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

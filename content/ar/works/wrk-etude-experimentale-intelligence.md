@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "ألفريد بينيه", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب يُعدّ ثمرة مجلدين سابقين (*La Psychologie du Raisonnement*, 1906 و*L'Année Psychologique*) — حدود الترابط بينها لم تُراجع بدقة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Binet في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

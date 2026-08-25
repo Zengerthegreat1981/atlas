@@ -18,8 +18,6 @@ related:
 - id: "thk-zarathushtra", title: "زرادشت", type: "مفكر"
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
 - id: "con-asha", title: "أشا", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق بالغاثية بنصها الأصلي مع ترجمة عربية معتمدة."
   - "تأريخ كتابتها بالضبط لا يزال موضع خلاف."

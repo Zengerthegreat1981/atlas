@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "علم الأعصاب الإدراكي وتدريب الانتباه", target_type: "مدرسة"
 related:
 - id: "exp-antonin-artaud-rodez-asylum", title: "أنطونيو داماسيو", type: "خبرة معيشة"
-- id: "sch-cognitive-behavioral", title: "علم النفس المعرفي", type: "مدرسة"
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والأعصاب", type: "مدرسة"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 gaps:

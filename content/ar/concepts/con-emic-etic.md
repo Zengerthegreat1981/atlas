@@ -21,8 +21,6 @@ related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"
 - id: "con-two-eyed-seeing", title: "الرؤية بعينين", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس العابر-الثقافي (sch-cross-cultural-psychology)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: جون دبليو. بيري (thk-jwberry)"

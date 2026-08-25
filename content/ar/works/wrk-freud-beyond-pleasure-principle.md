@@ -14,9 +14,6 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "trm-todestrieb-death-drive", title: "غريزة الموت", type: "مصطلح لغوي متنازع عليه"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

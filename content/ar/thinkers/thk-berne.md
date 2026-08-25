@@ -19,9 +19,7 @@ related:
 - id: "thk-erikson", title: "إريك إريكسون", type: "مفكر"
 - id: "thk-fromm", title: "إيريك فروم", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-ipt", title: "العلاج النفسي بين الأشخاص (IPT)", type: "مدرسة"
 gaps:
   - "مفهوم 'الألعاب النفسية' (Games People Play) يحتاج مراجعة منهجية في ضوء علم النفس المعاصر."

@@ -9,15 +9,11 @@ en: "RDoC vs. DSM-5: Brain-Based Dimensions vs. Clinical Categories"
 crumb: "علم النفس الإكلينيكي ← جدل التشخيص ← RDoC مقابل DSM-5"
 active_start: 2009
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"

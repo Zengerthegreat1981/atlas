@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الترجمات العربية 'القرن 20' تحتاج توثيقاً دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

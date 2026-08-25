@@ -9,10 +9,7 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← اختب
 active_start: 1921
 active_end: "مستمر"
 part: "psychology"
-edges:
-  []
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "dbt-projective-tests-validity", title: "جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني", type: "جدل"
 gaps:

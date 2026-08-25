@@ -11,17 +11,11 @@ active_start: 2000
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: أندرو إليس (thk-andrew-ellis)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: EVT ضد EBP (dbt-evidence-based-vs-empirically-validated)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Sackett et al., 1996; APA, 2006)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Sackett et al., 1996; APA, 2006)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ

@@ -26,7 +26,6 @@ related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية (Somatic Phenomenology)", type: "مدرسة"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"

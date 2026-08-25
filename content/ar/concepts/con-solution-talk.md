@@ -15,13 +15,11 @@ related:
 - id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
 - id: "thk-chris-iveson", title: "كريس إيفسون", type: "مفكر"
 - id: "con-solution-focused-miracle-q", title: "السؤال المعجزة", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: إيجاد الاستثناء (con-exception-finding)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (de Shazer et al., 1986, 2007)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين Solution Talk و Positive Reframing يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (de Shazer et al., 1986, 2007)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين Solution Talk و Positive Reframing يحتاج فصلاً."
 ---
 
 # حَدِيث الْحَلّ (Solution Talk) فِي SFT

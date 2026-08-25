@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-german-idealism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:

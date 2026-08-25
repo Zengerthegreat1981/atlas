@@ -17,7 +17,6 @@ edges:
 related:
 - id: "wrk-bhagavad-gita", title: "البهاغافاد غيتا", type: "عمل / كتاب"
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-svami-akhilananda", title: "سوامي أخيلاناندا", type: "مفكر"
 gaps:
   - "تاريخ الميلاد والوفاة الدقيق غير موثّق."

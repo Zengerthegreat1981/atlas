@@ -15,7 +15,6 @@ crumb: "الأطلس ← thinkers ← باربرا فريدريكسون"
 edges:
 - rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
 related:
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."

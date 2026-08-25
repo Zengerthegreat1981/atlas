@@ -9,14 +9,10 @@ en: "The Concept of Soul (Psyche) in Classical Philosophy"
 crumb: "الفلسفة القديمة ← فلسفة العقل والنفس ← مفهوم النفس"
 active_start: -400
 active_end: 500
-edges:
-  []
 related:
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "sch-aristotelianism", title: "المشائية الأرسطية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التحول من النفس كجوهر مفارق (أفلاطون) إلى النفس كصورة وكمال أول للجسد الطبيعي الآلي (أرسطو)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

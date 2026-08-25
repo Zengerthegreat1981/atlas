@@ -9,12 +9,7 @@ en: "Founding Of Kyoto School 1911"
 crumb: "تاريخ الفلسفة والفكر ← الأحداث والمحطات الفارقة ← صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م)"
 active_start: 1911
 active_end: 1911
-edges:
-  []
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 - id: "evt-wyatt-v-stickney-1971", title: "حكم قضية وايت ضد ستيكني وإقرار الحق الدستوري في المعاملة الإنسانية والعلاج", type: "حدث تاريخي"
 gaps:

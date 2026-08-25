@@ -15,8 +15,6 @@ related:
 - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
 - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مقالات Kuokkanen الأصلية ولا Deloria Jr. *God Is Red* (1972)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

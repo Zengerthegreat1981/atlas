@@ -16,8 +16,6 @@ related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'القصدية' عند برنتانو وعند هوسرل لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'الأفكار' (Ideen I, 1913)."

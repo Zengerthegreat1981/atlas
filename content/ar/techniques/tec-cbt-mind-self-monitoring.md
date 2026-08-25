@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-delayed-ejaculation", title: "تأخر القذف", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-encopresis", title: "التبرّز اللاإرادي (Encopresis)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-enuresis", title: "التبوّل اللاإرادي (Enuresis)", type: "اضطراب/حالة إكلينيكية"

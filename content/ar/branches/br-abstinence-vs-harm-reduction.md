@@ -16,8 +16,6 @@ edges:
 related:
 - id: "con-addiction", title: "الإدمان", type: "مفهوم"
 - id: "con-rat-park", title: "تجربة Rat Park", type: "مفهوم"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ صدام 12-Step مع النموذج الأوروبي يستحق توثيقاً."

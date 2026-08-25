@@ -15,8 +15,6 @@ related:
 - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
 - id: "con-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "مفهوم"
 - id: "con-intersectional-feminism", title: "علم النفس النسوي التقاطعي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "نسبة الإطار إلى Dalrymple وBurke الكنديين تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

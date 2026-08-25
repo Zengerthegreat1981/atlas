@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
 - id: "exp-plato-syracuse-tyrant", title: "تجربة أفلاطون في سيراكيوز وفشل تطبيق الجمهورية مع الطاغية", type: "خبرة معيشة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "المخطوطات والترجمات النقدية المعاصرة وتاريخ تلقي العمل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -6,12 +6,10 @@ level: "متوسط"
 title: "تأسيس جمعية فيينا للتحليل النفسي رسمياً 1908"
 en: "Founding of the Vienna Psychoanalytic Society (1908)"
 crumb: "التحليل النفسي ← تاريخ الحركة ← جمعية فيينا للتحليل النفسي"
-active_start: 1908-01-11
+active_start: "1908-01-11"
 active_end: 1938
 country: "النمسا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
@@ -21,7 +19,6 @@ related:
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "توثيق دقيق للخلافات الداخلية حول انضمام أدلر رسمياً (رغم أنه ترك الجمعية في ربيع 1911) يحتاج مصادر أرشيفية نمساوية"
   - "العلاقة بين اجتماعات الأربعاء 1902-1908 والجمعية الرسمية 1908-1938 مازالت تتطلب سرداً موثَّقاً منفصلاً"

@@ -9,14 +9,10 @@ en: "Virtue Ethics and Eudaimonia"
 crumb: "الفلسفة الأخلاقية ← النظريات الأخلاقية الكبرى ← أخلاق الفضيلة"
 active_start: -350
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
 - id: "sch-aristotelianism", title: "المشائية الأرسطية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "مفهوم 'الوسط الذهبي' (Golden Mean) والنهضة المعاصرة لأخلاق الفضيلة مع إليزابيث أنسكوم وماكنتاير (1958/1981)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

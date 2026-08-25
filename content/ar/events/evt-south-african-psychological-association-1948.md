@@ -10,14 +10,6 @@ active_start: 1948
 active_end: 1994
 country: "جنوب أفريقيا"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "انشقاق جمعية النفسيين البيض (PIRSA) عام 1962 احتجاجاً على قبول عضوية سابثا مانغاني (أول أخصائي نفسي أسود) يتطلب تفصيلاً"
   - "المؤتمر التوحيدي عام 1994 وتأسيس جمعية علم النفس لجنوب أفريقيا (PsySSA) بحضور نيلسون مانديلا يحتاج توثيقاً"

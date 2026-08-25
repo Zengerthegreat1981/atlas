@@ -8,15 +8,14 @@ title: "نقد كارل بوبر لمعيار القابلية للتكذيب ف
 en: "Karl Popper's Critique of Psychoanalysis: The Demarcation Criterion of Falsifiability"
 crumb: "الجسر المعرفي ← النقد المعرفي ← نقد بوبر للتحليل النفسي"
 active_start: 1934
-active_end: مستمر
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "sch-philosophy-of-science", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-philosophy-of-science", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "sch-sikh-philosophy", title: "فلسفة العلم", type: "مدرسة"
-  - id: "sch-psychoanalysis", title: "مدرسة التحليل النفسي", type: "مدرسة"
-  - id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "sch-sikh-philosophy", title: "فلسفة العلم", type: "مدرسة"
+- id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

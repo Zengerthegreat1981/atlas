@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "إدوارد تيتشنر", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب صدر في 4 مجلّدات (1901، 1901، 1905، 1905) — التحقق من الاستشهادات لكل مجلد على حدة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Titchener في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

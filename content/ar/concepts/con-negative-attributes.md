@@ -18,8 +18,6 @@ related:
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 - id: "con-anxiety", title: "القلق", type: "مفهوم"
 gaps:
   - "النسب الفكري المباشر بين ابن ميمون وPseudo-Dionysius موضع جدل (طريق عبر السكولاستية أم مباشر؟)."

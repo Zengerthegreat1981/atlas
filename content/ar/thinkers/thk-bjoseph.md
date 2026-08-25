@@ -15,7 +15,6 @@ active_end: 2013
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "thk-zsegal", title: "حنا سيغال", type: "مفكر"
 gaps:

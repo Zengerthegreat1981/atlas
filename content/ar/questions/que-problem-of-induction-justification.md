@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
 - id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
 gaps:

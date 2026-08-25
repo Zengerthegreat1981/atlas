@@ -15,7 +15,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:

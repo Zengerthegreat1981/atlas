@@ -23,8 +23,6 @@ edges:
 - rel: "revived_by", target: "ريك دوبان (MAPS) / رولاند غريفز / روبرت كارثيرز (الجيل المعاصر)", target_type: "مفكر"
 related:
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال", type: "مفهوم"

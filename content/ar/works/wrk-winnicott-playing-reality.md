@@ -15,11 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-winnicott", target_type: "مفكر"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "العلاقة بين تجارب وينيكوت الإذاعية (1940s) وأسلوبه الكتابي اللاحق لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

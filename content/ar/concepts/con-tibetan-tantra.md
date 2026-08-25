@@ -18,8 +18,6 @@ related:
 - id: "thk-moacanin", title: "سلافيكا موكانين", type: "مفكر"
 - id: "thk-govinda", title: "لاما أناغاريكا غوفيندا", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "المقارنة بين آلهة التأمل التبتية (Yidam) والأركيتيبات وديناميات تحويل الطاقة النفسية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

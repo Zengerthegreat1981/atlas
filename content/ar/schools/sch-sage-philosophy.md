@@ -20,8 +20,6 @@ related:
 - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
 - id: "thk-henry-odera-oruka", title: "هنري أوديرا أوروكا", type: "مفكر"
 - id: "thk-alexis-kagame", title: "ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي)", type: "مفكر"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "نصوص Peter Bodunrin وKwasi Wiredu وHountondji تحتاج مراجعة من المصدر الأولي."

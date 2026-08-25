@@ -18,7 +18,6 @@ related:
 - id: "con-experiential-avoidance", title: "التجنب التجريبي", type: "مفهوم"
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Avery) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-leibniz", title: "غوتفريد لايبنتز", type: "مفكر"
 - id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps:

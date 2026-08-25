@@ -15,8 +15,6 @@ related:
 - id: "wrk-fear-of-freedom-1941", title: "الخوف من الحرية (1941)", type: "عمل / كتاب"
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 - id: "sch-libertarianism", title: "الليبرتارية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النص التأسيسي Anarchy, State, and Utopia (1974) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

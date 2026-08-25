@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
 - id: "tec-motivational-interviewing", title: "المقابلة التحفيزية (MI)", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "ويليام ميلر (المؤسس المشارك لـ MI) لا يزال بدون عنصر thk-wmiller في الفهرس."
   - "لا يوجد اقتباس مباشر موثوق من ميلر/رولنيك بعد."

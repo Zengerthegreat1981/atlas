@@ -19,7 +19,6 @@ related:
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 - id: "thk-csikszentmihalyi", title: "ميهالي تشيكسنتميهالي", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "con-creative-block", title: "الانسداد الإبداعي", type: "مفهوم"
 gaps:
   - "كتبه 'The Mechanism of Mind' (1969) لم تُترجم كاملة إلى العربية."

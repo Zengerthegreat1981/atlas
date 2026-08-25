@@ -15,7 +15,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 - id: "thk-samuels", title: "أندرو صاموئلز", type: "مفكر"
 gaps:

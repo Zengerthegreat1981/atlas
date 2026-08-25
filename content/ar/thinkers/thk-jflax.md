@@ -17,7 +17,6 @@ edges:
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-jmitchell", title: "جولييت ميتشل", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."

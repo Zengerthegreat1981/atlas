@@ -15,12 +15,10 @@ related:
 - id: "thk-szasz", title: "توماس سازس", type: "مفكر"
 - id: "crt-foucault-critique-of-asylum", title: "نقد فوكو", type: "نقد خارجي موثَّق"
 - id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي", type: "نقد خارجي موثَّق"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: توماس شيف (thk-scheff)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Scheff, 1966; Hacking, 1995)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Scheff, 1966; Hacking, 1995)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ
 

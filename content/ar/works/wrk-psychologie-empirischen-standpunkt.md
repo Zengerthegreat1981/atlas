@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "thk-brentano", target_type: "مفكر"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب صدر في مجلّد واحد عام 1874؛ مخطوطة الجزء الثاني لم تكتمل — تحقق من أي ملاحق أو إصدارات لاحقة لم يُنجز بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

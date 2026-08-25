@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "تقنية TIPP (DBT)", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

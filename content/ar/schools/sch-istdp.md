@@ -19,7 +19,6 @@ edges:
 - rel: "split_into", target: "التحليل النفسي للدفاع (MAP)", target_type: "تيار"
 related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 - id: "con-repression", title: "الكبت والآليات الدفاعية الأولية", type: "مفهوم"
 - id: "con-transference", title: "التحويل في العلاقة العلاجية", type: "مفهوم"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"

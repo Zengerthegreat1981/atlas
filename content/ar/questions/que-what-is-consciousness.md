@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-philosophy-of-mind", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-qualia", title: "الكواليا", type: "مفهوم"
 - id: "thk-nagel", title: "توماس ناغل", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الوعي (con-consciousness)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: المشكلة الصعبة (con-hard-problem)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ديفيد تشالمرز (thk-chalmers)"
-- "المصادر الأولية (Descartes، Nagel 1974، Chalmers 1995) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين السؤال الفلسفي (ما الوعي) والسؤال العلمي (كيف يعمل الدماغ) يحتاج فصلاً."
-- "العلاقة بـ'إشكالية الآخرين' (Problem of Other Minds) تحتاج توثيقاً."
+  - "المصادر الأولية (Descartes، Nagel 1974، Chalmers 1995) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين السؤال الفلسفي (ما الوعي) والسؤال العلمي (كيف يعمل الدماغ) يحتاج فصلاً."
+  - "العلاقة بـ'إشكالية الآخرين' (Problem of Other Minds) تحتاج توثيقاً."
 ---
 # ما الوَعْي؟
 

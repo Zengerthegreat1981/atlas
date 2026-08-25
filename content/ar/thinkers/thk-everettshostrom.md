@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
 - id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

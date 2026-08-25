@@ -15,7 +15,6 @@ active_end: 2022
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
 - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
 gaps:

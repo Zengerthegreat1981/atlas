@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "العلاج القائم على الأمل (Snyder)", target_type: "مدرسة"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-crsnyder", title: "تشارلز ريتشارد سنايدر", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."

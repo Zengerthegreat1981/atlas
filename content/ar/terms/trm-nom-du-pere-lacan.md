@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "met-lacan-mirror-stage", title: "مرحلة المرآة للاكان", type: "استعارة/مجاز مؤسِّس"
 gaps:

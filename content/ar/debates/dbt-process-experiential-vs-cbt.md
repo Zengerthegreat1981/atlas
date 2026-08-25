@@ -14,13 +14,11 @@ edges:
 related:
 - id: "thk-lgreenberg", title: "ليسلي غرينبرغ", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: العلاج بالمشاعر (غرينبرغ) (con-emotion-focused-therapy-greenberg)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Greenberg et al., 1993; Elliott, 2012)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Greenberg et al., 1993; Elliott, 2012)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل عِلَاج الْعَمَلِيَّة التَّجْرِيبِيّة ضِد CBT

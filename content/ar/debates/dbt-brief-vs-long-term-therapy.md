@@ -13,16 +13,14 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 - id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: سيغموند فرويد (thk-sigmund-freud)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العلاج قصير المدى (con-short-term-therapy)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العلاج طويل المدى (con-long-term-therapy)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (de Shazer, 1985; Howard et al., 1986)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (de Shazer, 1985; Howard et al., 1986)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل الْعِلَاج الْقَصِير ضِد الطَّوِيل: أَيُّهُمَا أَفْضَل؟

@@ -15,9 +15,6 @@ edges:
 related:
 - id: "sch-functionalism", title: "الوظيفية (فلسفة العقل)", type: "مدرسة"
 - id: "thk-hputnam", title: "هيلاري putnam", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'الوظيفية النفسية' (Fodor) و'الوظيفية السلوكية' (Dennett) لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'العقل وآلة تورنغ' (1960)."

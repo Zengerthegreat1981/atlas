@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-macintyre", title: "ألسدير ماكنتاير", type: "مفكر"
 - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الطبعة الثالثة 2007 مع 'استجابة لاندرر وكرانينغتون' لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من المقدمة."

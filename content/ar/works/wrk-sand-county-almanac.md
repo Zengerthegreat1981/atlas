@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press الأصلية (1949)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

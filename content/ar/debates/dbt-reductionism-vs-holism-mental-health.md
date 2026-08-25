@@ -9,8 +9,6 @@ en: "Reductionism vs. Holism in Mental Health"
 crumb: "علم النفس ← فلسفة علم النفس ← جدل الاختزالية والكلانية في الصحة النفسية"
 active_start: 1950
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
@@ -19,7 +17,6 @@ related:
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"
 - id: "dbt-reductionism-vs-emergentism", title: "جدل الاختزالية الفيزيائية مقابل النشوئية والكلانية", type: "جدل"

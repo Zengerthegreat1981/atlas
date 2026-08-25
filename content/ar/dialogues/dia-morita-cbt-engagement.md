@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "tec-morita-therapy", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
 - id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
 - id: "dia-freud-jung-libido-split", title: "حوار فرويد ويونج: طبيعة الليبيدو وتأسيس علم النفس التحليلي", type: "حوار"

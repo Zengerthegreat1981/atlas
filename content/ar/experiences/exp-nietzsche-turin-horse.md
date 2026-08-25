@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -15,13 +15,11 @@ related:
 - id: "thk-shantideva", title: "شانْتِيدِيفَا", type: "مفكر"
 - id: "con-buddhist-compassion-karuna", title: "الكرونا (الرحمة)", type: "مفهوم"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Śāntideva's Bodhicaryāvatāra، 700 CE)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين Bodhicitta المُؤَسَّس (Conventional) وBodhicitta الأَصْلِي (Ultimate) يحتاج فصلاً."
-- "التطبيق في علاج الاكتئاب والقلق (Krageloh، 2019) يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Śāntideva's Bodhicaryāvatāra، 700 CE)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين Bodhicitta المُؤَسَّس (Conventional) وBodhicitta الأَصْلِي (Ultimate) يحتاج فصلاً."
+  - "التطبيق في علاج الاكتئاب والقلق (Krageloh، 2019) يحتاج فصلاً."
 ---
 
 # البُوذِيتَسَّا (Bodhicitta): ذِهْن الْيَقَظَة

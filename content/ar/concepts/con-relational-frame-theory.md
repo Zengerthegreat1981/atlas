@@ -15,8 +15,6 @@ related:
 - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
 - id: "con-functional-contextualism", title: "السياقية الوظيفية", type: "مفهوم"
 - id: "con-derived-relational-responding", title: "الاستجابة العلائقية المشتقة", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الجدل الفلسفي مع Skinner حول «السلوك اللفظي» (Verbal Behavior) — موضع فلسفي."

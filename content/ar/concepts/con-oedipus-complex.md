@@ -16,8 +16,6 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "con-electra-complex", title: "عقدة إلكترا", type: "مفهوم"
 - id: "trm-trieb-instinct-drive", title: "مفهوم الغريزة والدافع", type: "مصطلح لغوي متنازع عليه"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أول صياغة للمفهوم في كتاب 'تفسير الأحلام' (1899) وتطوره في 'ثلاث مقالات في النظرية الجنسية' (1905)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -12,11 +12,9 @@ edges:
 - rel: "connects", target: "", target_type: "مدرسة"
 - rel: "connects", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "rel-mbt-mentalization", title: "العلاج القائم على التنميط العقلي (MBT) وBateman & Fonagy", type: "علاقة بين مدرستين"
 - id: "rel-spinoza-affect-neurobiology", title: "فلسفة سبينوزا وعلم الأعصاب الوجداني", type: "علاقة بين مدرستين"
-
 gaps:
   - "الوصف أعلاه هو نقطة بداية — يحتاج توسعاً تفصيلياً بالمصادر الأولية."
 ---

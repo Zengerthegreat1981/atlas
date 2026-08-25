@@ -17,8 +17,6 @@ related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "con-differentiation-self", title: "التمايز عن الذات", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: مونيكا ماكغولدريك (thk-mmcgoldrick)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: راندي غيرسون (thk-rgerson)"

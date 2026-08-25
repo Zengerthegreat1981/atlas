@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-psychotherapy-integrative", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
 - id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: مَراحل التَّغيير (con-stages-of-change)"
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كارلو دِكْلِمِنتِه (thk-diclemente)."
-- "الفرق بين 'الرحلة الداخلية' (Inner Journey، Jung) و'الرحلة الخطية' (Linear Journey، CBT) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "النماذج الإجرائية (Stages of Change، Prochaska) والمرحلية (Erikson) في وصف 'رحلة العلاج' تحتاج فصلاً."
-- "الفرق بين 'الرحلة' و'العملية' (Process) كاسْتِعارتَين مُكَمِّلَتَين يحتاج توثيقاً."
+  - "الفرق بين 'الرحلة الداخلية' (Inner Journey، Jung) و'الرحلة الخطية' (Linear Journey، CBT) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "النماذج الإجرائية (Stages of Change، Prochaska) والمرحلية (Erikson) في وصف 'رحلة العلاج' تحتاج فصلاً."
+  - "الفرق بين 'الرحلة' و'العملية' (Process) كاسْتِعارتَين مُكَمِّلَتَين يحتاج توثيقاً."
 ---
 
 # العِلاج كَرحلة: استعارة السَّفَر إلى الدَّاخل

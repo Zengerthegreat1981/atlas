@@ -18,8 +18,6 @@ related:
 - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطبيق مفهوم الذات الأولية في علاج التوحد واضطرابات الطفولة المبكرة في مدرسة لندن التحليلية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

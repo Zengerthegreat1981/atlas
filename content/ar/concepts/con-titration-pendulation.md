@@ -15,8 +15,6 @@ related:
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "tec-somatic-pendulation-vortex", title: "تقنية البندلة في العلاج الجسدي", type: "تقنية/تدخل علاجي"
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

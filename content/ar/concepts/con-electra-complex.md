@@ -16,8 +16,6 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "con-oedipus-complex", title: "عقدة أوديب", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "صياغة كارل يونغ للمصطلح عام 1913 واعتراض فرويد على التسمية وتفضيله مصطلح 'أوديب الأنثوي'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

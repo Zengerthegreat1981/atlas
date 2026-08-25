@@ -12,8 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "que-limits-of-language-thought", title: "حدود اللغة والفكر", type: "سؤال توليدي"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

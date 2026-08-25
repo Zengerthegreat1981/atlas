@@ -15,12 +15,6 @@ active_end: 1988
 edges:
 - rel: "belongs_to", target: "السرديات النفسية والرمزية الوجودية", target_type: "مدرسة"
 - rel: "written_by", target: "باولو كويلو", target_type: "مفكر"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«باولو كويلو» (thk-coelho-paulo) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."

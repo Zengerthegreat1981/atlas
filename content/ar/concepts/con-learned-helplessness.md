@@ -14,7 +14,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "dis-mdd", title: "الاكتئاب", type: "اضطراب/حالة إكلينيكية"
 - id: "stu-peterson-seligman-explanatory-style", title: "أسلوب التفسير (Explanatory Style)", type: "دراسة وبحث"

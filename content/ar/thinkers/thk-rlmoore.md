@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "التفاصيل المتأخرة لحياته (العنف الأسري، 2016) تحتاج عرضاً حساساً ومؤرشفاً."

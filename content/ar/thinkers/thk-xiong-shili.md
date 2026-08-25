@@ -14,10 +14,6 @@ active_start: 1915
 active_end: 1968
 edges:
 - rel: "belongs_to", target: "الكونفوشية الجديدة المعاصرة (القرن 20)", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

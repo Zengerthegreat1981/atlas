@@ -15,12 +15,10 @@ related:
 - id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Hendrix, 2001, 2008)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين Fractured Self في Imago و'Inner Child' في التحليل النفسي يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Hendrix, 2001, 2008)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين Fractured Self في Imago و'Inner Child' في التحليل النفسي يحتاج فصلاً."
 ---
 
 # الذَّات الْمُتَشَظِّيَة فِي Imago

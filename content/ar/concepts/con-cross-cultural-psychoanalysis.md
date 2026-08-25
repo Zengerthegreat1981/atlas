@@ -13,10 +13,7 @@ edges:
 - rel: "belongs_to", target: "con-cross-cultural-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-cultural-psychoanalysis", title: "التحليل النفسي الثقافي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تفاصيل أعمال راؤول نيرغيو في 'لعبة الأمم' لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

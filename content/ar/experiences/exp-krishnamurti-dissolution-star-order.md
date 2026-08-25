@@ -11,10 +11,6 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-buddhism-early", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ديفيد بوم (thk-david-bohm)"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

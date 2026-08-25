@@ -10,14 +10,6 @@ active_start: 2015
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "دور الطبيبين النفسيين المتعاقدين مع CIA (جيمس ميتشل وجون بروس جيسين) في تطويع نموذج العجز المتعلم كأساس للإيهام بالغرق يتطلب توثيقاً"
   - "قرارات مجلس مندوبي APA في أغسطس 2015 بحظر تواجد الأخصائيين النفسيين في غوانتانامو والمواقع السرية تحتاج تفصيلاً"

@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "trm-falsifiability-popper", title: "القابلية للتكذيب والخطأ (Falsifiability): معيار العلم التجريبي الصارم", type: "مصطلح لغوي متنازع عليه"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "المخطوطات والترجمات النقدية المعاصرة وتاريخ تلقي العمل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

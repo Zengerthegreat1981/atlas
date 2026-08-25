@@ -13,7 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-mandela", title: "نيلسون مانديلا", type: "مفكر"
 - id: "ctx-post-apartheid-south-africa-trc", title: "جنوب أفريقيا بعد الأبارتهايد ولجان الحقيقة والمصالحة الوطنية", type: "سياق/تقليد"
 gaps:

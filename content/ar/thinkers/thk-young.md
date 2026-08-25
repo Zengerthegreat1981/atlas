@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
 - id: "trm-schemata", title: "الْمَخْطَطَات (Schemata): أُطُر مَعْرِفِيَّة لِـتَنْظِيم الْمَعْلُومَات", type: "مصطلح لغوي متنازع عليه"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "sch-feminism-phenomenological", title: "النسوية الظاهراتية", type: "مدرسة"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"

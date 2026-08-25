@@ -15,8 +15,6 @@ related:
 - id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "النصوص التأسيسية (Raymond 1979, Butler 1990, Stryker 2008) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -15,8 +15,6 @@ related:
 - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لم يُراجَع نص هايدجر الألماني الأصلي مباشرة — الاعتماد على ترجمات وشروح ثانوية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

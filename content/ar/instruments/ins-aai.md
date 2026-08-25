@@ -9,10 +9,7 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← مقاب
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-edges:
-  []
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dbt-attachment-stability", title: "هل أنماط التعلق ثابتة حقاً؟", type: "جدل"
 gaps:
   - "قواعد غرايس للتخاطب (Grice's Conversational Maxims) وتطبيقاتها في تحليل نصوص AAI تحتاج توثيقاً لغوياً"

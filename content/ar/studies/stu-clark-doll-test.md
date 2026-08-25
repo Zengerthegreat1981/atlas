@@ -9,14 +9,6 @@ crumb: "المدرسة الوجودية ← الدراسات والأبحاث �
 active_start: 1939
 active_end: 1950
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التحليلات التاريخية لاستخدام الدراسة في الحكم التاريخي Brown v. Board of Education تحتاج توثيقاً قانونياً ونفسياً"
   - "التكرارات الحديثة لاختبار الدمى في مجتمعات متعددة الأعراق تتطلب مراجعة مقارنة"

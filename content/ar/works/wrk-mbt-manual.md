@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "tec-mbct", target_type: "مدرسة"
 related:
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-zsegal", title: "زين سيغال", type: "مفكر"
 - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيسديل", type: "مفكر"

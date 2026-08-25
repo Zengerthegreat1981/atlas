@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "علم النفس العام", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dbt-nature-vs-nurture-intelligence-personality", title: "جدل الطبيعة والتنشئة في الذكاء والشخصية", type: "جدل"
 gaps:
   - "نسب المئوية للوراثة (Heritability) مقابل نسبة البيئة في سمات معينة (ذكاء، انبساط) تحتاج ربطاً بالدراسات التوأمية الحديثة."

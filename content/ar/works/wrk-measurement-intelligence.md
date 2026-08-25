@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "لويس تيرمان", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الطبعات اللاحقة (1937 و1960) أعادت تنقيح المقياس — التحقق من الفروقات الجوهرية بينها لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Terman في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

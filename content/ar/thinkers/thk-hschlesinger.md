@@ -15,7 +15,6 @@ crumb: "التحليل النفسي ← التقنية والعملية العل
 edges:
 - rel: "belongs_to", target: "التنويم التحليلي (Hypno-analysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-mwagreich", title: "موريس هـ. فيغوتش", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."

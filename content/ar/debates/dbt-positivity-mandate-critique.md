@@ -15,12 +15,10 @@ related:
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "crt-critique-of-positive-psychology", title: "نقد علم النفس الإيجابي", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-grit-research", title: "نقد Grit", type: "نقد خارجي موثَّق"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: باربرا إهرنريتش (thk-ehrenreich)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Ehrenreich, 2009; Cederström & Spicer, 2015)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Ehrenreich, 2009; Cederström & Spicer, 2015)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # جِدَل الْإِيجَابِيّة كَوَاجِب: عِلْم النَّفْس الْإِيجَابِيّ ضِد نَقْد الْوَاجِب
 

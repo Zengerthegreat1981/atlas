@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 gaps:
   - "استعارة نموذج بنثام المعماري وتحليله كتقنية سلطوية معممة في السجون والمدارس والمستشفيات والفضاء الرقمي."

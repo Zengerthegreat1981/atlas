@@ -16,8 +16,6 @@ related:
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "wrk-black-swan", title: "البجعة السوداء", type: "عمل / كتاب"
 - id: "thk-nassim-taleb", title: "نسيم نيقولا طالب", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أبحاث باروخ فيشهوف (Baruch Fischhoff 1975) الرائدة في جامعة هيبرو."
   - "لا يوجد اقتباس مباشر موثوق متاح."

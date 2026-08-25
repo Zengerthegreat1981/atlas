@@ -15,7 +15,6 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "العلاج الديناميكي للأزواج والأسرة", target_type: "تيار"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."

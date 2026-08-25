@@ -17,8 +17,6 @@ related:
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "thk-shankara", title: "شانكارا", type: "مفكر"
 - id: "con-maya-vedanta", title: "مايا", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين براهمان الإلهي وبراهمان المطلق غير محسوم في كل المدارس."
   - "لا يوجد تعريف فلسفي حديث موحد لبراهمان في الأدب العربي."

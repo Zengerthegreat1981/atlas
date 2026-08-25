@@ -15,8 +15,6 @@ related:
 - id: "thk-descartes", title: "ديكارت", type: "مفكر"
 - id: "thk-john-searle", title: "جون سيرل", type: "مفكر"
 - id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي", type: "مفهوم"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "المقارنة بين الثنائية الجوهرية الديكارتية وثنائية الخصائص المعاصرة والمادية الإقصائية للـ Churchlands."
   - "لا يوجد اقتباس مباشر موثوق متاح."

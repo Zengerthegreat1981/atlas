@@ -17,9 +17,6 @@ edges:
 - rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
 related:
 - id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "wrk-happiness-trap", title: "فخ السعادة", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."

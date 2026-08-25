@@ -16,8 +16,6 @@ related:
 - id: "wrk-attached", title: "المتعلقون", type: "عمل / كتاب"
 - id: "thk-amir-levine", title: "أمير ليفين", type: "مفكر"
 - id: "wrk-attachment-loss-volume1", title: "التعلق (المجلد الأول، 1969)", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطور النظرية من بولبي وإينسورث إلى أبحاث هازان وشيفر وليفين على البالغين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,14 +10,6 @@ active_start: 2021
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تقرير لجنة التاريخ الأكاديمي الشامل المكون من 70 صفحة المرفق بالاعتذار يتطلب توثيقاً"
   - "خطة العمل المؤسسية لإلغاء المظاهر الاستعمارية (Decolonization) في تعليم علم النفس تحتاج استعراضاً"

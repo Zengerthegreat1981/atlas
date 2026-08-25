@@ -15,8 +15,6 @@ related:
 - id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", type: "مدرسة"
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 - id: "tec-ifs-unblending-protectors", title: "تقنية فك الاندماج في IFS", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

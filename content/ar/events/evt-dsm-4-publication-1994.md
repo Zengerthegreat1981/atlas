@@ -10,14 +10,10 @@ active_start: 1994
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "dis-depressive-personality-historical", title: "اضطراب الشخصية الاكتئابية التاريخي (Depressive Personality Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-passive-aggressive-personality-historical", title: "اضطراب الشخصية العدوانية السلبية التاريخي (Passive-Aggressive Personality)", type: "اضطراب/حالة إكلينيكية"
 - id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 gaps:
   - "إدخال معيار 'الضيق أو العجز الإكلينيكي ذو الدلالة' كشرط إلزامي لكافة الاضطرابات يتطلب تفصيلاً"
   - "نتائج التجارب الميدانية الـ 12 المنسقة مع معاهد الصحة الوطنية NIH تحتاج توثيقاً"

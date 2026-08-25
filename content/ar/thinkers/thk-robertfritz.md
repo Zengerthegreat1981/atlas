@@ -15,9 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-bobbeck", title: "بوب بيك", type: "مفكر"
 - id: "thk-charlesfaulkner", title: "تشارلز فولكنر", type: "مفكر"
 gaps:

@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الصياغات المختلفة للكوجيتو (Cogito, ergo sum / Sum, ergo cogito / Ego sum, ego existo) تحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثوق من النص الأصلي بعد."

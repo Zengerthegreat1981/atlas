@@ -19,8 +19,6 @@ related:
 - id: "thk-eknobe", title: "جوشوا نوب", type: "مفكر"
 - id: "thk-snichols", title: "شون نيكولز", type: "مفكر"
 - id: "evt-bps-founding-1901", title: "تأسيس جمعية علم النفس البريطانية في كلية لندن الجامعية", type: "حدث تاريخي"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«إدوارد ماشيري» (thk-machery) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -15,9 +15,6 @@ edges:
 related:
 - id: "con-martyr-complex", title: "عقدة الشهيد والضحية المزمنة", type: "مفهوم"
 - id: "syn-nice-guy", title: "متلازمة الرجل اللطيف", type: "متلازمة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "أبحاث ماري لاميا ومارلين كريغر (Mary Lamia & Marilyn Krieger 2009) حول متلازمة الفارس الأبيض."
   - "لا يوجد اقتباس مباشر موثوق متاح."

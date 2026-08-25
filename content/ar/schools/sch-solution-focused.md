@@ -22,11 +22,8 @@ edges:
 - rel: "founded_by", target: "thk-iberg", target_type: "مفكر"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "sch-dbt", title: "علاج الجدلي السلوكي (DBT)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-beck", title: "آرون بيك", type: "مفكر"
 - id: "thk-sdeshacer", title: "ستيف دي شايزر (Solution-Focused)", type: "مفكر"

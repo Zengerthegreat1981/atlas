@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-female-sexual-interest-arousal", title: "اضطراب الاهتمام/الإثارة الجنسية الأنثوية", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-male-hypoactive-sexual-desire", title: "اضطراب الرغبة الجنسية المنخفضة عند الذكور", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-mild-neurocognitive", title: "اضطراب معرفي عصبي خفيف", type: "اضطراب/حالة إكلينيكية"

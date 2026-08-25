@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "أبحاث إدوارد ثورندايك (Edward Thorndike 1920) الأصلية على تقييمات الضباط للجنود."
   - "لا يوجد اقتباس مباشر موثوق متاح."

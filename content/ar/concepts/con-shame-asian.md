@@ -15,8 +15,6 @@ related:
 - id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
 - id: "thk-yhkim", title: "يونغ-هوا كيم", type: "مفكر"
 - id: "con-han-korean", title: "هان", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "نظرية (Benedict 1946) Chrysanthemum and Sword) لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

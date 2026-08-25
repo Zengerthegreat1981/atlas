@@ -11,18 +11,12 @@ active_start: 1980
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن حسن (thk-steven-hassan)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: مارغريت سينغر (thk-margaret-singer)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: استيعاب الفكرية (con-cult-icf)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Hassan, 1988; Singer, 1995)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Hassan, 1988; Singer, 1995)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل طُرُق التَّعَافِي مِنَ «**الثَّقَافَات**» (Cults)

@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

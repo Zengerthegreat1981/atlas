@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "con-facticity", title: "الفعلانية", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: سيمون دي بوفوار (thk-de-beauvoir)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الوُجود يَسْبِق الماهية (con-existence-precedes-essence)"
-- "الفرق بين 'المشروع' (Project) في سارتر و'المشروع' في علم النفس الإيجابي (Seligman) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'مشروع الوجود' (Existential Project) و'مشروع الحياة' (Life Project) يحتاج توثيقاً."
-- "النقد الفَينُومينولوجي (Merleau-Ponty) لـ'المشروع' كـ'سُلطة' على الجَسد يحتاج فصلاً."
+  - "الفرق بين 'المشروع' (Project) في سارتر و'المشروع' في علم النفس الإيجابي (Seligman) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'مشروع الوجود' (Existential Project) و'مشروع الحياة' (Life Project) يحتاج توثيقاً."
+  - "النقد الفَينُومينولوجي (Merleau-Ponty) لـ'المشروع' كـ'سُلطة' على الجَسد يحتاج فصلاً."
 ---
 
 # الذَّات كَمَشْروع: استعارة سارتري للتَّشَكُّل الذَّاتي

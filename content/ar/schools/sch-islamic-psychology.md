@@ -20,7 +20,6 @@ edges:
 related:
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"
 - id: "thk-maburaiya", title: "محمد محمود أبو ريا", type: "مفكر"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
 - id: "con-tawakkul", title: "التوكل", type: "مفهوم"
 - id: "con-taqwa", title: "التقوى", type: "مفهوم"

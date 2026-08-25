@@ -15,8 +15,6 @@ related:
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
 - id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
 - id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "قائمة المستبعدين الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

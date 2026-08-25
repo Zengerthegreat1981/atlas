@@ -15,7 +15,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:

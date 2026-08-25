@@ -13,7 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "thk-gandhi", title: "المهاتما غاندي", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

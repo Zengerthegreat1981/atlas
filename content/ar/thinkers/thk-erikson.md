@@ -19,10 +19,8 @@ edges:
 - rel: "developed", target: "br-psychosocial-development", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
-
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التطور النفسي-الاجتماعي (br-psychosocial-development)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: أنا فرويد (thk-anna-freud)"

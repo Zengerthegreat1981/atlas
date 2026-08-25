@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-psychology-of-love", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "qst-mind-body-interaction-problem", title: "كيف يؤثر غير المادي في المادي؟ معضلة التفاعل بين النفس والجسد", type: "سؤال"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحب (con-love)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق (con-attachment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: آرثر شوپنهاور (thk-arthur)"
-- "المصادر الأولية (Plato، Augustine، Fromm، Sternberg) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الحب' (Love) و'التعلق' (Attachment) و'الإعجاب' (Admiration) يحتاج فصلاً."
-- "العلاقة بين 'الحب الرومانسي' و'الحب الأفلاطوني' و'الحب الأخوي' (Philia) و'حب الذات' (Philautia) تحتاج توثيقاً."
+  - "المصادر الأولية (Plato، Augustine، Fromm، Sternberg) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الحب' (Love) و'التعلق' (Attachment) و'الإعجاب' (Admiration) يحتاج فصلاً."
+  - "العلاقة بين 'الحب الرومانسي' و'الحب الأفلاطوني' و'الحب الأخوي' (Philia) و'حب الذات' (Philautia) تحتاج توثيقاً."
 ---
 # ما الْحُبّ؟
 

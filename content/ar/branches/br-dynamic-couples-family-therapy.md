@@ -16,8 +16,6 @@ edges:
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ ISTDP للأزواج (Davanloo) يستحق توثيقاً."

@@ -18,7 +18,6 @@ edges:
 - rel: "influenced", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
 related:
 - id: "thk-tim-ferriss", title: "تيم فيريس", type: "مفكر"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "wrk-think-and-grow-rich", title: "فكر وازدد ثراءً: فلسفة الإنجاز الكلاسيكية", type: "عمل / كتاب"
 - id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
 gaps:

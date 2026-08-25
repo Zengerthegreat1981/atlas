@@ -15,8 +15,6 @@ related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
 - id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النص التأسيسي Gramsci (Quaderni del Carcere) وSpivak (1988) يحتاجان مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

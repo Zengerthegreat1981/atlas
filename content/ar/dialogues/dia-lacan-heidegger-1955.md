@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "dia-buber-rogers-dialogue-1957", title: "حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة", type: "حوار مع مدرسة مجاورة"

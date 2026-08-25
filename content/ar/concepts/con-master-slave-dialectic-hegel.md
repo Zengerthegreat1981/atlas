@@ -15,8 +15,6 @@ related:
 - id: "thk-hegel", title: "هيغل", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تأثير الجدلية على نظرية صراع الطبقات لماركس، ونظرية الرغبة عند ألكسندر كوجيف وجاك لاكان وفرانز فانون."
   - "لا يوجد اقتباس مباشر موثوق متاح."

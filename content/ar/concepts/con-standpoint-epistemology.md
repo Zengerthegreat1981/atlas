@@ -15,8 +15,6 @@ related:
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Harding 1986, Collins 1990, Smith 1974) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

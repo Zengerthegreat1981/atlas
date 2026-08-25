@@ -15,8 +15,6 @@ related:
 - id: "sch-philosophy-of-disability", title: "فلسفة الإعاقة", type: "مدرسة"
 - id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
 - id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ كتابات Mike Oliver (1976-1990) ولا UPIAS (Union of Physically Impaired Against Segregation, 1976)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

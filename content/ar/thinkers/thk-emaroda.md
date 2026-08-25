@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "سنة الميلاد وتفاصيل التدريب المبكر لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

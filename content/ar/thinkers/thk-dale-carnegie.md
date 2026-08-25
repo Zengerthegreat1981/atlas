@@ -19,8 +19,6 @@ related:
 - id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
 - id: "thk-louise-hay", title: "لويز هاي", type: "مفكر"
 - id: "thk-shakti-gawain", title: "شَكتي غَوَين", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "con-emotional-intelligence", title: "الذكاء الانفعالي", type: "مفهوم"
 gaps:
   - "لا توجد دراسات سريرية محكّمة على منهجه في إدارة العلاقات في مجلة محكّمة."

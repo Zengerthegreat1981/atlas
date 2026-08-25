@@ -16,9 +16,6 @@ edges:
 - rel: "belongs_to", target: "الوضعية / الكومتية", target_type: "مدرسة"
 - rel: "founded", target: "الوضعية / الكومتية", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-comtian-positivism", title: "الوضعية / الكومتية", type: "مدرسة"
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 gaps:

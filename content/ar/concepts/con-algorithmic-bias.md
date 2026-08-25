@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
 - id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ دراسات Buolamwini & Gebru (Gender Shades, 2018) ولا Noble (Algorithms of Oppression, 2018)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

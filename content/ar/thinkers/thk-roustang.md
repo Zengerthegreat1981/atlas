@@ -15,7 +15,6 @@ active_end: 2016
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
   - "مفهوم «المصير الكارثي» (un destin si funeste) وعلاقته بقراءة لاكان في كتاب «مصير بهذا الشؤم» — تحتاج مراجعة من نص تأسيسي."

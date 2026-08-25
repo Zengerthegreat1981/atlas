@@ -15,8 +15,6 @@ related:
 - id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
 - id: "wrk-lived-time", title: "الزمن المُعاش", type: "عمل / كتاب"
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -9,12 +9,6 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← اختب
 active_start: 1948
 active_end: "مستمر"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الدراسات السيكومترية النقدية لـ Lilienfeld et al. (2000) حول ضعف الصدق التجريبي للعلامات الرسومية المنفردة تحتاج مراجعة"
   - "التطبيقات في التقييم النفسي لضحايا الصدمات والإساءات الأسرية للأطفال تتطلب توثيقاً متوازناً"

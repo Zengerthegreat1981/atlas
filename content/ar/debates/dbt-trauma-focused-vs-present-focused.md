@@ -11,18 +11,12 @@ active_start: 2010
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جوديث هرمن (thk-judith-herman)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الموجة الثالثة (cbt-third-wave)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: CBT مركَّز عَلَى صَدْمَة (con-trauma-focused-cbt)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل التَّركِيز عَلَى الصَّدْمَة ضِد التَّركِيز عَلَى الْحَاضِر

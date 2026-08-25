@@ -15,8 +15,6 @@ edges:
 - rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
 - id: "con-addiction", title: "الإدمان", type: "مفهوم"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:

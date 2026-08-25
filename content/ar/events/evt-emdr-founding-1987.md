@@ -13,8 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-emdr", target_type: "مدرسة"
 related:
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 - id: "evt-founding-of-kyoto-school-1911", title: "صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م)", type: "حدث تاريخي"
 gaps:

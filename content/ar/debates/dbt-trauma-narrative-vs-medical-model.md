@@ -13,15 +13,13 @@ edges:
 - rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 related:
 - id: "crt-critique-of-trauma-therapy", title: "نقد صناعة الصدمة", type: "نقد خارجي موثَّق"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 - id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جوديث هرمن (thk-judith-herman)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: بسل فان دير كولك (thk-bessel-van-der-kolk)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # جِدَل نَمُوذَج السَّرْد ضِد النَّمُوذَج الطِّبِّيّ فِي عِلَاج الصَّدْمَة
 

@@ -24,7 +24,6 @@ related:
 - id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
 - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
 - id: "sch-act", title: "العلاج بالقبول والالتزام", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
 - id: "con-relational-frame-theory", title: "نظرية الإطار العلائقي", type: "مفهوم"
 - id: "tec-cbt-cog-thought-defusion", title: "الفصل المعرفي", type: "تقنية/تدخل علاجي"

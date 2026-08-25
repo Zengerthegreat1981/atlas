@@ -16,9 +16,6 @@ edges:
 related:
 - id: "thk-philo", title: "فيلو الإسكندري", type: "مفكر"
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النسب بين لاهوت اللوغوس الفيلوني و«الكلمة» في إنجيل يوحنا موضع خلاف."
   - "لا يوجد تعريف فلسفي حديث موحد للوغوس في الفلسفة العربية."

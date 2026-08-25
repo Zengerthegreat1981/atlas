@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-jbeebe", title: "جون بيب", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "نموذج جون بيب الثماني لربط الوظائف الإدراكية بالأركيتيبات الباطنية (البطل، الوالد، الطفل الأبدي، والظل)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

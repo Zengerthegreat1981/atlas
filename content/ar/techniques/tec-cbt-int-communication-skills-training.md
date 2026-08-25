@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-giving-and-receiving-feedback", title: "إعطاء وتلقّي الملاحظات", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-delayed-ejaculation", title: "تأخر القذف", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-erectile-disorder", title: "اضطراب الانتصاب", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-female-orgasmic", title: "اضطراب النشوة الأنثوية", type: "اضطراب/حالة إكلينيكية"

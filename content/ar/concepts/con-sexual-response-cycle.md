@@ -14,9 +14,6 @@ edges:
 related:
 - id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين نموذج Masters-Johnson الأصلي (1966) ونموذج Kaplan المعدل (1979) يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

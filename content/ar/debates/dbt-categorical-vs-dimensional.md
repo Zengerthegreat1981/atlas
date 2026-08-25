@@ -9,14 +9,10 @@ en: "Categorical vs. Dimensional Classification Debate in Psychiatry"
 crumb: "الطب النفسي الإكلينيكي ← الجدليات الكبرى ← الفئوي مقابل الأبعادي"
 active_start: 1980
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "ins-pid-5", title: "مقياس سمات الشخصية لـ DSM-5", type: "أداة قياس"
 - id: "ins-scid-5", title: "المقابلة الإكلينيكية المقننة SCID-5", type: "أداة قياس"
 - id: "dbt-concept-creep-psychiatry", title: "جدل التمييع التشخيصي", type: "جدل"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "تطوير تحالف HiTOP وتكامل معايير معهد NIMH لمعايير نطاق البحث (RDoC)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,12 +9,7 @@ en: "Copleston Russell 1948"
 crumb: "الفلسفة والمناظرات الكبرى ← الحوارات واللقاءات التاريخية ← مناظرة برتراند راسل والأب كوبلستون 1948 حول وجود الله"
 active_start: 1948
 active_end: 1948
-edges:
-  []
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dia-buber-rogers-dialogue-1957", title: "حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة", type: "حوار مع مدرسة مجاورة"
 - id: "dia-rawls-habermas-debate-1995", title: "مناظرة جون رولز ويورغن هابرماس 1995 حول العدالة", type: "حوار مع مدرسة مجاورة"
 - id: "dia-rogers-skinner-human-freedom", title: "مناظرة روجرز وسكينر: التحكم السلوكي وحرية الإنسان", type: "حوار"

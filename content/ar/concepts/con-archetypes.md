@@ -9,12 +9,7 @@ en: "Jungian Archetypes"
 crumb: "علم النفس التحليلي ← المفاهيم اليونغية ← النماذج البدائية"
 active_start: 1919
 active_end: "مستمر"
-edges:
-  []
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 gaps:

@@ -16,8 +16,6 @@ related:
 - id: "thk-epictetus", title: "إبكتيتوس", type: "مفكر"
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"
 - id: "thk-seneca", title: "سينيكا", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "التحول الكامل نحو الأخلاق التطبيقية والتدريبات النفسية والروحية اليومية في مواجهة تقلبات الإمبراطورية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

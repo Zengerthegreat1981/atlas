@@ -13,8 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "crt-critique-of-couples-therapy", title: "نقد الْعِلَاج الزَّوْجِيّ: «الزَّوَاج كَـعِلَاج» كَـ«سُلْطَة طَبِّيَّة»", type: "نقد خارجي موثَّق"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dbt-mental-illness-social-construction", title: "جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ", type: "جدل"
 - id: "crt-critique-of-family-systems", title: "نقد الْعِلَاج الْأُسَريّ النِّظَامِيّ: مَنْ يَحْدِّد مَا هُوَ «صِحِّيّ»؟", type: "نقد خارجي موثَّق"
 gaps:

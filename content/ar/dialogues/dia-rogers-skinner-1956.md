@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-fskinner", title: "بوريس فريدريك سكينر", type: "مفكر"
 - id: "dia-buber-rogers-dialogue-1957", title: "حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة", type: "حوار مع مدرسة مجاورة"

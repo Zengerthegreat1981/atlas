@@ -10,13 +10,12 @@ crumb: "علم النفس ← حوارات وتمايزات ← مناظرة ر�
 active_start: 1956
 active_end: 1962
 edges:
-  - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
-  - id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

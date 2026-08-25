@@ -15,8 +15,6 @@ related:
 - id: "dis-hwabyung", title: "الهوابيونغ", type: "اضطراب/حالة إكلينيكية"
 - id: "con-hwabyung-concept", title: "الهوابيونغ (مفهوم ثقافي)", type: "مفهوم"
 - id: "con-jeong-korean", title: "جونغ (Jeong، 정)", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النظريات الأدبية لـHan في الأدب الكوري (Park Hwa-seong) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

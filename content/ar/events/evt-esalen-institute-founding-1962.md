@@ -10,13 +10,10 @@ active_start: 1962
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "إقامة فريتز بيرلز الطويلة في إيسالن وتطويره للعلاج الجشطالتي الاستعراضي تتطلب تفصيلاً"
   - "التأثير المتبادل بين فلسفات الشرق (الزن واليوغا) والعلاج النفسي الغربي في ورش إيسالن يحتاج توثيقاً"

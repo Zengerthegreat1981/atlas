@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "met-turing-test-imitation-game", title: "اختبار تورينغ", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: آلان تورينغ (thk-turing)"
@@ -22,10 +19,10 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: مارفن مينسكي (thk-minsky)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: جيرولد فودور (thk-fodor)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الإدراك (con-cognition)"
-- "التمييز بين 'الوظيفية' (Functionalism) و'الذكاء الاصطناعي الكلاسيكي' (GOFAI) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "النقد الفلسفي للوظيفية (Searle، Nagel، Dreyfus) يحتاج فصلاً مستقلاً."
-- "الفرق بين 'الدماغ كمحاكاة للدماغ' (Neuromorphic Computing) و'الدماغ كحاسوب' (Brain as Computer) يحتاج فصلاً."
+  - "التمييز بين 'الوظيفية' (Functionalism) و'الذكاء الاصطناعي الكلاسيكي' (GOFAI) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "النقد الفلسفي للوظيفية (Searle، Nagel، Dreyfus) يحتاج فصلاً مستقلاً."
+  - "الفرق بين 'الدماغ كمحاكاة للدماغ' (Neuromorphic Computing) و'الدماغ كحاسوب' (Brain as Computer) يحتاج فصلاً."
 ---
 # العقل كحاسوب: استعارة المَعالجة المعلوماتية
 

@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
 related:
 - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."

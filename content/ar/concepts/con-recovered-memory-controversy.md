@@ -16,7 +16,6 @@ related:
 - id: "con-past-life-regression", title: "استرجاع ذكريات الحياة السابقة", type: "مفهوم"
 - id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "الحجم الحقيقي لقضايا الذاكرة المستعادة في المحاكم لم يُوثّق بدقة."
   - "التمييز بين الذاكرة الحقيقية والمُنشأة عبر الإيحاء لم يُحسم علمياً."

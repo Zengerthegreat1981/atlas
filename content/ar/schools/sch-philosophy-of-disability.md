@@ -19,8 +19,6 @@ related:
 - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
 - id: "wrk-disability-rights-wrongs", title: "حقوق وأخطاء الإعاقة (Disability Rights and Wrongs)", type: "عمل / كتاب"
 - id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«النسوية» (sch-feminism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

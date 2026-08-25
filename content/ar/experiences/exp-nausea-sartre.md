@@ -12,17 +12,14 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "con-facticity", title: "الفعلانية", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الوجود (con-being)"
-- "الفرق بين الغثيان السارتري والغثيان الجسدي (Motion Sickness) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين الغثيان في رواية سارتر 1938 وفي عرضه الفلسفي 1943 يحتاج توثيقاً."
-- "الاستخدامات السَريرية (Hussell، Ratcliffe) في تَشخيص الاكتئاب الوجودي تحتاج فصلاً."
+  - "الفرق بين الغثيان السارتري والغثيان الجسدي (Motion Sickness) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين الغثيان في رواية سارتر 1938 وفي عرضه الفلسفي 1943 يحتاج توثيقاً."
+  - "الاستخدامات السَريرية (Hussell، Ratcliffe) في تَشخيص الاكتئاب الوجودي تحتاج فصلاً."
 ---
 
 # الغثيان السارتري: تجربة الاكتشاف الفجائي لوجود العالم

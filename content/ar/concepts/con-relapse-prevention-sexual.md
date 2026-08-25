@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
 - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الفصل الدقيق بين نموذج Marlatt الأصلي (1985) وتطبيقاته على الجريمة الجنسية يستحق مراجعة."

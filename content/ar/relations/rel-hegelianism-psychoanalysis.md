@@ -8,16 +8,15 @@ title: "الهيغلية والتحليل النفسي"
 en: "Hegelianism and Psychoanalysis: Dialectics of Desire and the Unconscious"
 crumb: "الجسر المعرفي ← الفلسفة وعلم النفس ← الهيغلية والتحليل النفسي"
 active_start: 1930
-active_end: مستمر
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "sch-german-idealism", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-german-idealism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "sch-german-idealism", title: "المثالية الألمانية", type: "مدرسة"
-  - id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "sch-german-idealism", title: "المثالية الألمانية", type: "مدرسة"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

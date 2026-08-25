@@ -9,8 +9,6 @@ crumb: "المدرسة الوجودية ← الاضطرابات والحالا�
 part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
@@ -36,8 +34,6 @@ related:
 - id: "ins-ham-a", title: "مقياس هاملتون لتقييم القلق", type: "أداة قياس"
 - id: "ins-scas-spence-children", title: "مقياس سبنس لقلق الأطفال والمراهقين (SCAS)", type: "أداة قياس"
 - id: "ins-hamilton-hama", title: "مقياس هاملتون للقلق (HAM-A / HARS)", type: "أداة قياس"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-
 gaps:
   - "لم تُحدَّد بعد المعايير التشخيصية الدقيقة من مصدر أولي محقق (كتيبات التشخيص الرسمية) — هذا المدخل وصفي عام فقط حتى الآن"
   - "لا يوجد بعد ربط موثق بمصادر عربية عن انتشار أو تجليات هذا الاضطراب في السياق العربي"

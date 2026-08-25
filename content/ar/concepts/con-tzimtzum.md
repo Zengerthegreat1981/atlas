@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
 - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التأويلات المتأخرة (Vital, Shabbetai Sheftel Horovitz) أضافت مفهوم 'القبض في القبض' (Tsimtsum be-Tsimtsum) الذي قد يكون لاحقاً على لوريا نفسه."
   - "لا يوجد اقتباس مباشر موثوق من «إي تسيريم»."

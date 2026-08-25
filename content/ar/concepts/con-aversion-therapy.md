@@ -15,8 +15,6 @@ related:
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
 - id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
 - id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التطبيقات المعاصرة المحدودة (التوقف عن قضم الأظافر، علاج التوحد، علاج البارافيليا) — موضع بحث."

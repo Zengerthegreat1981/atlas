@@ -9,17 +9,12 @@ en: "Evidence-Based Practice vs. Practice-Based Evidence: Which Assumes Which?"
 crumb: "علم النفس الإكلينيكي ← جدل العلاج النفسي ← الأدلة مقابل الممارسة"
 active_start: 2001
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "thk-goldfried", title: "مارفين غولدفريد", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dbt-evidence-based-practice-clinical-decision-making", title: "جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ", type: "جدل"
 - id: "dbt-specific-ingredients-wampold-vs-chambless-dodo-bird", title: "جدل المواد الخاصة مقابل العوامل المشتركة", type: "جدل"
 gaps:

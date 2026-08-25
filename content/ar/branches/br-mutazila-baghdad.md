@@ -12,12 +12,6 @@ active_start: 800
 active_end: 950
 edges:
 - rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المعتزلة (sch-mutazilism)"
   - "تأثير بشر بن المعتمر ونظرية التوليد وميل مدرسة بغداد إلى تفضيل الإمام علي في الإمامة."

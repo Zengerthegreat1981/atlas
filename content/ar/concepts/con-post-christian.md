@@ -18,8 +18,6 @@ related:
 - id: "thk-dtacey", title: "ديفيد تاسّي", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "قراءة ديفيد تاسي لعلم نفس الأركيتيب في المجتمعات العلمانية الحديثة."
   - "البحث عن المعنى والروحانية الوجودية خارج المؤسسات الكنسية التقليدية."

@@ -19,8 +19,6 @@ related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 - id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
 - id: "con-relational-matrix", title: "المصفوفة العلائقية", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -18,8 +18,6 @@ related:
 - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
 - id: "wrk-zollikon", title: "ندوات تسوليكون", type: "عمل / كتاب"
 - id: "dbt-boss-binswanger", title: "خصومة قراءته", type: "جدل"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

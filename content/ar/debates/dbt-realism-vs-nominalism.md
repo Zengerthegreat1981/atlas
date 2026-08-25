@@ -17,8 +17,6 @@ related:
 - id: "sch-realism-medieval", title: "الواقعية (في جدل الكليات الوسيط)", type: "مدرسة"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
 - id: "sch-conceptualism", title: "التصورية (Conceptualism)", type: "مدرسة"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "المواقف قد تختلف في تفاصيلها (الواقعية المتطرفة، المعتدلة، التصورية، الاسمية، الاسمية المفاهيمية)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

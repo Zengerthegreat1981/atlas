@@ -16,9 +16,6 @@ edges:
 related:
 - id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
 - id: "tec-forest-therapy", title: "العلاج بالغابات (Forest Therapy)", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "المصطلح صاغته وكالة الغابات اليابانية عام 1982."
   - "الأبحاث العلمية بدأها الدكتور مياياكازوي (Yoshifumi Miyazaki) في جامعة تشيبا."

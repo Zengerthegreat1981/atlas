@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-internal-family-systems", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "br-ifs-clinical-applications", title: "IFS في التطبيقات السريرية: علاج اضطرابات الشخصية", type: "تيار"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ريتشارد شوارتز (thk-rschwartz)"

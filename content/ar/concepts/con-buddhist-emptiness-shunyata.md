@@ -14,17 +14,14 @@ edges:
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق (con-attachment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: أنا-lessness (con-anatta)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: المعاناة (con-suffering)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Nāgārjuna's Mūlamadhyamakakārikā، 200 CE)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين الشنياتي في البراجنافادا (Yogācāra) والمادياماكا (Madhyamaka) يحتاج فصلاً."
-- "تطبيقاتها في العلاج المعرفي (Beck's Empty Self) تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Nāgārjuna's Mūlamadhyamakakārikā، 200 CE)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين الشنياتي في البراجنافادا (Yogācāra) والمادياماكا (Madhyamaka) يحتاج فصلاً."
+  - "تطبيقاتها في العلاج المعرفي (Beck's Empty Self) تحتاج فصلاً."
 ---
 
 # الشُّنْيَاتَى (Śūnyatā) / الفَرَاغ

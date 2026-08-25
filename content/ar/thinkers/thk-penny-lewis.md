@@ -18,8 +18,6 @@ related:
 - id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 - id: "thk-daniellevision", title: "دانييل ليڤيسون", type: "مفكر"
 - id: "thk-susan-koch", title: "سوزان كوخ", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

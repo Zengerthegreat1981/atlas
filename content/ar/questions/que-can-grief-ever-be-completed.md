@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:

@@ -17,8 +17,6 @@ related:
 - id: "sch-psychedelic-assisted-therapy", title: "العلاج بمساعدة السايكديلية", type: "مدرسة"
 - id: "dis-ptsd", title: "اضطراب ما بعد الصدمة", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-amithoefer", title: "مايكل وأنا ميتزوفر", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ريك دابلين (MAPS) (thk-mdoblin)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الإطار الذهني والمحيط (con-set-and-setting)"

@@ -15,8 +15,6 @@ related:
 - id: "sch-cft", title: "العلاج المتمحور حول التعاطف (CFT)", type: "مدرسة"
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "tec-cft", title: "العلاج المرتكز على الشفقة (CFT)", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفريق بين جيلبرت وباحثي علم النفس التطوري الآخرين (مثل جيفري غري John Bowlby، بول إيكمان) في تفسير دوائر الانفعال يستحق توسعاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -16,8 +16,6 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "wrk-mating-in-captivity", title: "التزاوج في الأسر", type: "عمل / كتاب"
 - id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "ورقة فرويد الأصلية (1912) 'حول أعم التدهورات في الحياة الجنسية' (Über die allgemeinste Erniedrigung des Liebeslebens)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

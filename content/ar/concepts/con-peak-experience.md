@@ -16,8 +16,6 @@ related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين 'خبرة الذروة' و'الخبرة الصوفية' (Plateau Experience) في كتابات ماسلو المتأخرة يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من ماسلو بعد."

@@ -12,10 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

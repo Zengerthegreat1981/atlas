@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
 related:
 - id: "thk-mchace", title: "ماريان تشيس", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-trudi-schoop", title: "ترودي شوپ", type: "مفكر"
 - id: "thk-penny-lewis", title: "بيني لويس", type: "مفكر"
 gaps:

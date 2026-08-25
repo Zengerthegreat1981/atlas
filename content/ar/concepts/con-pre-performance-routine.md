@@ -15,9 +15,6 @@ related:
 - id: "tec-self-talk-modification", title: "تعديل الكلام الذاتي", type: "تقنية/تدخل علاجي"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "tec-mental-imagery", title: "التدريب بالتصوير الذهني", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-
 gaps:
   - "تاريخ الاستخدام المنهجي الأول موثّق جزئياً (Moran، 1996، في الرياضة؛ توسع في الأداء الموسيقي بعد 2000)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

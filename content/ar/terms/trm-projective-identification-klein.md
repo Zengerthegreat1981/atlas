@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:

@@ -16,7 +16,6 @@ related:
 - id: "met-act-passengers-on-the-bus", title: "ركاب الحافلة: استعارة الذات والأفكار في علاج القبول والالتزام", type: "استعارة/مجاز مؤسِّس"
 - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
 - id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "rel-family-systems-bowen", title: "العلاج الأسري ونظرية Bowen: منظوماتية الأجيال", type: "علاقة بين مدرستين"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."

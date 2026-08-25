@@ -6,19 +6,16 @@ level: "متوسط"
 title: "صدور قانون الصحة النفسية البريطاني 1959 وإلغاء التمييز القانوني بين المرضى"
 en: "UK Mental Health Act of 1959 and the End of Legal Distinction Between Mental Patients"
 crumb: "الصحة النفسية ← السياسات ← قانون الصحة النفسية البريطاني 1959"
-active_start: 1959-07-29
+active_start: "1959-07-29"
 active_end: "مستمر (مع تعديلات لاحقة)"
 country: "بريطانيا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "thk-cooper", title: "ميك كوبر", type: "مفكر"
 - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
   - "النصوص الكاملة للجلسات البرلمانية في وستمنستر (نوفمبر 1958 - يوليو 1959) تحتاج مراجعة رسمية"
   - "تأثير لجنة تويت (Tooth Committee 1960) على تنفيذ القانون فعلياً غير موثَّق بشكل منفصل"

@@ -18,8 +18,6 @@ related:
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
 - id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تجارب إدوارد تولمان حول الخرائط المعرفية والتعلم الكامن (Latent Learning) في المتاهات."
   - "الأثر التأسيسي لمفهوم المتغيرات المتداخلة (Intervening Variables) في نشأة علم النفس المعرفي."

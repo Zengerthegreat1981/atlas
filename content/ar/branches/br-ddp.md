@@ -17,8 +17,6 @@ related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "thk-jbaylin", title: "جون بايلين", type: "مفكر"
 - id: "thk-sdouglas", title: "سو دوغلاس", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ التطوير في Rhoads Clinic (PA) يستحق مصدراً."
   - "نقد Joe & Graziano لـDDP يستحق توثيقاً."

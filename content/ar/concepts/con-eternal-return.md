@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز بين 'العودة الأبدية' و'الدورة الأبدية' (Ewiger Kreislauf) عند الرواقيين وعند نيتشه لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Also sprach Zarathustra' بعد."

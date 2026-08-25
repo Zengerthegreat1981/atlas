@@ -15,9 +15,6 @@ edges:
 related:
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 - id: "con-dunning-kruger-effect", title: "تأثير دانينغ–كروغر", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تجربة بيرترام فورير الأصلية (1948) واقتباس اسم بي تي بارنوم الشهير."
   - "لا يوجد اقتباس مباشر موثوق متاح."

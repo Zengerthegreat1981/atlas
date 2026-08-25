@@ -20,7 +20,6 @@ related:
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 - id: "con-gender-performativity", title: "أداء النوع (الجنوسة الأدائية)", type: "مفهوم"
 - id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
 gaps:
   - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -19,7 +19,6 @@ related:
 - id: "dia-nagel-dennett-bat", title: "سجال ناغل ودينيت: تجربة الخفاش وسؤال الخبرة الذاتية للوعي", type: "حوار مع مدرسة مجاورة"
 - id: "trm-epiphenomenalism-mind", title: "الظاهراتية المصاحبة (Epiphenomenalism): الوعي كظل للنشاط العصبي", type: "مصطلح لغوي متنازع عليه"
 - id: "dbt-freewill-neuroscience-libet", title: "هل حسمت العلوم العصبية مسألة نفي الإرادة الحرة؟", type: "جدل"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

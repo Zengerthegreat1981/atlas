@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-aesthetics", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحكم الجمالي (con-aesthetic-judgment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الجمال (con-beauty)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ليو تولستوي (thk-tolstoy)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: آرثر دانتو (thk-danto)"
-- "المصادر الأولية (Plato، Tolstoy، Danto، Sontag) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الفن' (Art) و'الحرفة' (Craft) في النظرية الجمالية يحتاج فصلاً."
-- "العلاقة بـ'الفن الرقمي' (Digital Art) و'الذكاء الاصطناعي الإبداعي' (Creative AI) في الفن الحديث تحتاج توثيقاً."
+  - "المصادر الأولية (Plato، Tolstoy، Danto، Sontag) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الفن' (Art) و'الحرفة' (Craft) في النظرية الجمالية يحتاج فصلاً."
+  - "العلاقة بـ'الفن الرقمي' (Digital Art) و'الذكاء الاصطناعي الإبداعي' (Creative AI) في الفن الحديث تحتاج توثيقاً."
 ---
 # ما الْفَنّ؟
 

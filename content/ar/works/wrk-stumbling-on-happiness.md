@@ -18,9 +18,6 @@ edges:
 related:
 - id: "thk-daniel-gilbert", title: "دانيال جيلبرت", type: "مفكر"
 - id: "con-hedonic-treadmill", title: "جهاز المشي اللذائذي والتكيف مع السعادة (Hedonic Treadmill)", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Knopf) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

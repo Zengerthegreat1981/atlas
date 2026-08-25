@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."

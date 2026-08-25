@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
 - id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Yale University Press الأصلية (2021)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

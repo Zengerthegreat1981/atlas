@@ -9,12 +9,7 @@ en: "Antidepressant Efficacy and Serotonin Hypothesis Debate"
 crumb: "علم الأدوية النفسية ← الجدليات الكبرى ← جدل فاعلية مضادات الاكتئاب"
 active_start: 1998
 active_end: "مستمر"
-edges:
-  []
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-ssri-discontinuation", title: "متلازمة الانقطاع عن مضادات الاكتئاب", type: "متلازمة"
 gaps:

@@ -15,9 +15,6 @@ edges:
 - rel: "belongs_to", target: "sch-christian-mysticism-medieval", target_type: "مدرسة"
 related:
 - id: "sch-christian-mysticism-medieval", title: "التصوّف المسيحي الوسيط", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين Gelassenheit عند إيكهارت وعند تاولر موضع نقاش."

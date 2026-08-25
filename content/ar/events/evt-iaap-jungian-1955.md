@@ -6,12 +6,10 @@ level: "متوسط"
 title: "تأسيس الرابطة الدولية لعلم النفس التحليلي (IAAP) 1955"
 en: "Founding of the International Association for Analytical Psychology (IAAP), 1955"
 crumb: "علم النفس التحليلي ← تاريخ الحركة ← تأسيس الرابطة الدولية IAAP"
-active_start: 1955-08-28
+active_start: "1955-08-28"
 active_end: "مستمر"
 country: "سويسرا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
@@ -19,7 +17,6 @@ related:
 - id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
 - id: "thk-jadler", title: "جانيت أدلر", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-complex", title: "العقدة النفسية المركبة (Complex)", type: "مفهوم"
 gaps:
   - "تفاصيل الجلسة الإجرائية الأولى لوضع دستور IAAP في 28 أغسطس 1955 تتطلب أرشيف مكتبة الكانتون في زيورخ"

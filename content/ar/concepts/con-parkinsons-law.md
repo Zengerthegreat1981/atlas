@@ -15,9 +15,6 @@ edges:
 related:
 - id: "wrk-getting-things-done", title: "إنجاز المهام", type: "عمل / كتاب"
 - id: "wrk-deep-work", title: "العمل العميق", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "مقال سيريل نورثكوت باركنسون في مجلة The Economist (1955)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

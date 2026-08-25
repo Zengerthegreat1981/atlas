@@ -13,19 +13,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-developmental-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "con-memory", title: "الذَّاكرة", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: كاثرين نيلسون (thk-nelson)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: اللغة (con-language)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الذات (con-self)"
-- "الفرق بين فُقدان الذاكرة الطُّفولي (Infantile Amnesia) و'الذَّكريات الزائفة' (False Memories) المُستعادة في العِلاج يحتاج توثيقاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "التَّفسير النَّمائي (Language-based) لِـNelson في *Memory Development* يحتاج فصلاً مستقلاً."
-- "الفرق بين الخَبرات المُسْتَرجعة في التحليل النفسي والخَبرات الحقيقية المُسَجَّلة في الـ Baby Videos يحتاج فصلاً."
+  - "الفرق بين فُقدان الذاكرة الطُّفولي (Infantile Amnesia) و'الذَّكريات الزائفة' (False Memories) المُستعادة في العِلاج يحتاج توثيقاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التَّفسير النَّمائي (Language-based) لِـNelson في *Memory Development* يحتاج فصلاً مستقلاً."
+  - "الفرق بين الخَبرات المُسْتَرجعة في التحليل النفسي والخَبرات الحقيقية المُسَجَّلة في الـ Baby Videos يحتاج فصلاً."
 ---
 
 # فُقدان ذاكرة الطُّفولة (Childhood Amnesia): لماذا لا أتذكر سنواتي الأولى؟

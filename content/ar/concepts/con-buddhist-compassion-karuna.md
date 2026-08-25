@@ -15,14 +15,12 @@ related:
 - id: "con-cft-self-compassion", title: "الشفقة", type: "مفهوم"
 - id: "con-mutual-empathy", title: "التعاطف", type: "مفهوم"
 - id: "con-bodhicitta", title: "بوذَيتَّا", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الدالاي لاما (thk-bstan-dzin)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Śāntideva's Bodhicaryāvatāra، 700 CE)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين Karuna (الرحمة) وMaitri (الحب اللطيف) يحتاج فصلاً."
-- "التطبيق العلاجي (CFT, Paul Gilbert) يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Śāntideva's Bodhicaryāvatāra، 700 CE)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين Karuna (الرحمة) وMaitri (الحب اللطيف) يحتاج فصلاً."
+  - "التطبيق العلاجي (CFT, Paul Gilbert) يحتاج فصلاً."
 ---
 
 # الكَرُونَا (Karunā) / الرَّحْمَة البُوذِيَّة

@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
 related:
 - id: "thk-trore", title: "تيموثي روري", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الاستقبال الرسمي (وزارة الصحة النيوزيلندية 1984) لم يُوثّق بدقة كافية."

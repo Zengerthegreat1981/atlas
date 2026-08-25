@@ -9,14 +9,9 @@ en: "The Unconscious (Psychoanalysis)"
 crumb: "التحليل النفسي ← المفاهيم الأساسية ← اللاشعور"
 active_start: 1895
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "con-repression", title: "الكبت النفسي", type: "مفهوم"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النموذج الطبوغرافي (الشعور، ما قبل الشعور، اللاشعور) والنموذج البنيوي (الهو، الأنا، الأنا الأعلى)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

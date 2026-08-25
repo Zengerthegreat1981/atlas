@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-dream-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن لابيرج (thk-stephen-laberge)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الوعي (con-consciousness)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحلم (con-dream)"
-- "التمييز بين الحلم الواضح العَرَضي (Spontaneous) والمُستحَثّ (Induced) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "التطبيقات العلاجية في علاج الكوابيس (噩梦 Rehearsal Therapy) وفي علاج اضطرابات ما بعد الصدمة تحتاج فصلاً."
-- "الفرق بين الحلم الواضح وتجربة الخروج من الجسد (OBE) يحتاج توثيقاً."
+  - "التمييز بين الحلم الواضح العَرَضي (Spontaneous) والمُستحَثّ (Induced) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التطبيقات العلاجية في علاج الكوابيس (噩梦 Rehearsal Therapy) وفي علاج اضطرابات ما بعد الصدمة تحتاج فصلاً."
+  - "الفرق بين الحلم الواضح وتجربة الخروج من الجسد (OBE) يحتاج توثيقاً."
 ---
 
 # الحلم الواضح (Lucid Dreaming): أن أَعرف أنني أُحلم وأنا أُحلم

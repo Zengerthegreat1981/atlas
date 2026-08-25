@@ -15,7 +15,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:

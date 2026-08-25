@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفصول الأصلية باللاتينية والعبرية تختلف في ترتيبها وأبوابها."
   - "الترجمات العربية الحديثة تحتاج تحققاً."

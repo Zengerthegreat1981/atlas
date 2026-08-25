@@ -16,9 +16,6 @@ edges:
 related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "النص الأصلي Faktizität und Geltung (1992) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

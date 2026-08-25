@@ -8,13 +8,12 @@ title: "مبدأ الحتمية النفسية واللاشعور الفاعل"
 en: "Principle of Psychic Determinism and the Active Unconscious"
 crumb: "علم النفس ← المبادئ التأسيسية ← الحتمية النفسية واللاشعور"
 active_start: 1895
-active_end: مستمر
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "sch-psychoanalysis", title: "مدرسة التحليل النفسي", type: "مدرسة"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
 - id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
 - id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:

@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "met-winnicott-mirror-mother-face", title: "وجه الأم كالمرآة", type: "استعارة/مجاز مؤسِّس"
 gaps:

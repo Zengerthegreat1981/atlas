@@ -17,8 +17,6 @@ related:
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 - id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: مايكل ميرزينيش (thk-merzenich)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: فيجاي بارهار (thk-parihar)"

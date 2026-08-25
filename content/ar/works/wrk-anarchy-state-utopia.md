@@ -17,8 +17,6 @@ related:
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 - id: "sch-libertarianism", title: "الليبرتارية", type: "مدرسة"
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "النص الأصلي Anarchy, State, and Utopia (1974) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

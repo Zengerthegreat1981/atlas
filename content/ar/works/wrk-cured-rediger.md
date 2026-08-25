@@ -18,9 +18,6 @@ edges:
 related:
 - id: "thk-jeffrey-rediger", title: "جيفري ريديجر", type: "مفكر"
 - id: "con-mind-body", title: "عقل-جسم", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الجذور اللاهوتية-المسيحية للكاتبة (راعي كنيسة معمدانية) لم تُربط بمواقفه العلمية."
   - "النقد المعرفي لدراسات 'الشفاء التلقائي' (Spontaneous Remission) لم يُمثَّل بعمق."

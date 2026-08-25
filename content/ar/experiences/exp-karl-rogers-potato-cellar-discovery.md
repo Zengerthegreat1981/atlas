@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "met-rogers-growing-plant", title: "نبتة روجرز", type: "استعارة/مجاز مؤسِّس"
 gaps:

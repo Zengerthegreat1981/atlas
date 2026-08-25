@@ -10,12 +10,8 @@ active_start: 1955
 active_end: 1980
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 - id: "evt-founding-of-kyoto-school-1911", title: "صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م)", type: "حدث تاريخي"
 gaps:

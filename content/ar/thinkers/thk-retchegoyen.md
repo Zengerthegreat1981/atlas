@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 - rel: "belongs_to", target: "علم النفس التحليلي اللاتيني", target_type: "تيار"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-mlanger", title: "ماري لانغر", type: "مفكر"
 - id: "thk-epichon", title: "إنريكيه بيتشون-ريفيير", type: "مفكر"
 gaps:

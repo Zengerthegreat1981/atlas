@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "العلاج بجلسة واحدة", target_type: "تيار"
 related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
 - id: "thk-mhoyt", title: "مايكل ف. هويت", type: "مفكر"
 - id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"

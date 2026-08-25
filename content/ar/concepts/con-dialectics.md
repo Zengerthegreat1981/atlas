@@ -7,7 +7,7 @@ level: "متوسط"
 title: "الجدلية (Dialektik)"
 en: "Dialectic"
 crumb: "الهيغلية ← المفاهيم ← الجدلية"
-active_start: -0380
+active_start: "-0380"
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
@@ -16,8 +16,6 @@ related:
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "مراحل الجدلية من أفلاطون إلى هيغل إلى ماركس لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق من 'Phänomenologie' بعد."

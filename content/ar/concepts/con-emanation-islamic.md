@@ -17,8 +17,6 @@ related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'الصدور' (Sudur) عند الفارابي و'الفيض' (Fayd) عند ابن سينا موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'الشفاء'."

@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-gilgamesh", title: "جلجامش", type: "مفكر"
 - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لا يوجد مؤلف بعينه للنص، فالمعزّاة (نسخة سين-ليقي-أوننوي حوالي 1200 ق.م) مجهولة الهوية."
   - "لا اقتباس مباشر موثوق متاح بالنص الأكادي في طبعة عربية معتمدة."

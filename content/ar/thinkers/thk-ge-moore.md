@@ -17,7 +17,6 @@ edges:
 related:
 - id: "trm-is-ought-problem-hume", title: "مغالطة الكائن والواجب (Is-Ought Problem / Hume's Guillotine)", type: "مصطلح لغوي متنازع عليه"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
 - id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 gaps:

@@ -19,8 +19,6 @@ related:
 - id: "thk-csocarides", title: "تشارلز سوكرايدِس", type: "مفكر"
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 - id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "السياق التاريخي الكامل (NARTH 1992، Exodus International) لم يُوثّق بدقة كافية."
   - "التشريعات المناهضة (عدد الدول، السنوات) لم تُحصر بدقة."

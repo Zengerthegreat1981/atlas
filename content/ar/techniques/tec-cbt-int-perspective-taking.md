@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-reframing", title: "إعادة الصياغة/التأطير المعرفي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,15 +8,14 @@ title: "الأخلاق الأرسطية وعلم النفس الإيجابي"
 en: "Aristotelian Ethics and Positive Psychology: Eudaimonia and Human Virtues"
 crumb: "الجسر المعرفي ← الفلسفة وعلم النفس ← الأخلاق الأرسطية وعلم النفس الإيجابي"
 active_start: 2000
-active_end: مستمر
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-  - id: "sch-aristotelianism", title: "المشائية الأرسطية", type: "مدرسة"
-  - id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
-  - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-  - id: "thk-mseligman", title: "مارتن سيليغمان", type: "مفكر"
+- id: "sch-aristotelianism", title: "المشائية الأرسطية", type: "مدرسة"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سيليغمان", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

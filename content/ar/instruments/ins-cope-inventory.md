@@ -12,9 +12,6 @@ part: "psychology"
 edges:
 - rel: "relates_to", target: "علم النفس الصحي", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-adaptation", title: "التكيُّف", type: "مفهوم"
 gaps:
   - "التمييز بين استراتيجيات التعامل المعرفية والسلوكية في النسخ اللاحقة (Brief-COPE) يحتاج تفصيلاً أكاديمياً."

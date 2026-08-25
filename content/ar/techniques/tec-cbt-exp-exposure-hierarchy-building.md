@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-exp-flooding", title: "الإغراق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-worry-exposure", title: "التعرض للقلق", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-arfid", title: "اضطراب تجنّب/تقييد الطعام (ARFID)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-selective-mutism", title: "ال صمت الانتقائي", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-tic-disorders", title: "اضطرابات العرات (Tics)", type: "اضطراب/حالة إكلينيكية"

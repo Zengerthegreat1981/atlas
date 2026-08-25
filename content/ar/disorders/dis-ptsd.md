@@ -9,8 +9,6 @@ crumb: "المدرسة الوجودية ← الاضطرابات والحالا�
 part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "con-fear", title: "الخوف", type: "مفهوم"
 - id: "con-death", title: "الموت", type: "مفهوم"
@@ -47,7 +45,6 @@ related:
 - id: "ins-tas20", title: "مقياس تورنتو للألكسيثيميا (TAS-20)", type: "أداة قياس"
 - id: "br-predictive-processing-informed", title: "العلاج المستنير بالمعالجة التوقعية", type: "تيار"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "الفرق الدقيق بين القراءة الوجودية والقراءة المعرفية-السلوكية للصدمة يحتاج توثيقاً أعمق كجدل (dbt-) مستقل مستقبلاً"
   - "المعايير التشخيصية في DSM-5-TR (20 symptom across 4 clusters) و ICD-11 (6B40) تحتاج مراجعة من المصدر الأولي للتأكيد"

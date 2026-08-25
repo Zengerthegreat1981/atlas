@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-jones", title: "إرنست جونز", type: "مفكر"
 - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "ورقة إرنست جونز الأصلية (1913) 'مقالات في التحليل النفسي التطبيقي'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

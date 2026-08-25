@@ -15,8 +15,6 @@ related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
 - id: "exp-marsha-linehan-institute-living-seclusion", title: "حبس مارشا لينهان في معهد ليفينغ للشباب وميلاد علاج DBT", type: "خبرة معيشة"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: العلاج الجدلي السلوكي (DBT) لمارشا لينهان (con-dbt-marsha-linehan)"
   - "القصة الكاملة لإقامة Linehan في المعهد وعلاقتها بتطوير DBT موثّقة."

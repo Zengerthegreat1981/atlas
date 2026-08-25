@@ -15,13 +15,11 @@ related:
 - id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "dbt-couples-therapy-vs-individual-depression", title: "جِدَل عِلَاج اِكْتِئَاب زَوْج ضِد فَرْدِيّ", type: "جدل"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: العوامل العلاجية في الجماعة (con-group-therapeutic-factors)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الضيق الكوني (con-universal-distress)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Yalom, 1995; McDermut et al., 2001)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Yalom, 1995; McDermut et al., 2001)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل الْعِلَاج الْجَمَاعِيّ ضِد الْفَرْدِيّ: أَيُّهُمَا أَفْضَل؟

@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
 - id: "sch-critical-realism", title: "الواقعية النقدية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق بين 'المعطى' عند سيلارز و'الإحساس الخام' عند كواين لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من المقال الأصلي (1956)."

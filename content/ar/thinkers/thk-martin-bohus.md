@@ -18,7 +18,6 @@ related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: العلاج الجدلي السلوكي (DBT) لمارشا لينهان (con-dbt-marsha-linehan)"
   - "تفاصيل تطوره المبكر في مختبر Linehan غير موثقة بشكل كامل."

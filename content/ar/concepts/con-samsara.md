@@ -17,8 +17,6 @@ related:
 - id: "con-karma-philosophy", title: "كارما (الفعل وعواقبه)", type: "مفهوم"
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة (تعاليم ما قبل الانقسام المدرسي)", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين سامسارا في الفيدانتا، سامسارا في الجاينية، وسامسارا في البوذية يحتاج مراجعة."
   - "لا يوجد تعريف فلسفي حديث موحد لـسامسارا في الفلسفة العربية."

@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-attachment-theory", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-bowlby", title: "جون بُولْبِي", type: "مفكر"
 - id: "thk-ainsworth", title: "ماري أينزوَرْث", type: "مفكر"
 gaps:
@@ -22,10 +19,10 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: فيبي شَايَر (thk-hazan)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّعَلُّق (con-attachment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: النَّمُوذَج العَمَلِيّ الدَّاخِلِيّ (con-internal-working-model)"
-- "الفرق بين 'نمط التعلق' في مرحلة الطفولة وفي مرحلة البلوغ (Hazan & Shaver) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "العلاقة بـ'اضطرابات التعلق' (Attachment Disorders) في DSM-5 تحتاج فصلاً."
-- "النقد النسوي (Chodorow، 1978) لأنماط التعلق كـ'فئة ذكورية' يحتاج توثيقاً."
+  - "الفرق بين 'نمط التعلق' في مرحلة الطفولة وفي مرحلة البلوغ (Hazan & Shaver) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "العلاقة بـ'اضطرابات التعلق' (Attachment Disorders) في DSM-5 تحتاج فصلاً."
+  - "النقد النسوي (Chodorow، 1978) لأنماط التعلق كـ'فئة ذكورية' يحتاج توثيقاً."
 ---
 # أَنْمَاط التَّعَلُّق (Attachment Styles)
 

@@ -15,8 +15,6 @@ related:
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 - id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
 - id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "قائمة المستبعدين الكاملة (NARTH، Exodus) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

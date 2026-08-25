@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-flooding", title: "الإغراق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

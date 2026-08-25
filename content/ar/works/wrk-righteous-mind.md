@@ -18,9 +18,6 @@ edges:
 related:
 - id: "thk-jonathan-haidt", title: "جوناثان هايدت", type: "مفكر"
 - id: "stu-kohlberg-moral-development", title: "دراسة لورنس كولبرغ لمراحل النمو الأخلاقي ومعضلة هاينز", type: "دراسة وبحث"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

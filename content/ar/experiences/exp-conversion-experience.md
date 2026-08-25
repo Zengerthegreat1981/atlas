@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-psychology-of-religion", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "exp-mystical-experience-james", title: "التجربة الصوفية", type: "خبرة معيشة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: بولس الطَرسوسي (thk-paul)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التجربة الدينية (con-religious-experience)"
-- "الفرق بين التَحَوُّل التدريجي (Gradual Conversion) والتَحَوُّل المُفاجئ (Sudden Conversion) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين التَحَوُّل الديني (Religious Conversion) وتَحَوُّل الهَوية (Identity Transformation) يحتاج توثيقاً."
-- "الفرق بين التَحَوُّل السَّلفي (Salvation Conversion) وتَحَوُّل الإشراق الصوفي يحتاج فصلاً."
+  - "الفرق بين التَحَوُّل التدريجي (Gradual Conversion) والتَحَوُّل المُفاجئ (Sudden Conversion) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين التَحَوُّل الديني (Religious Conversion) وتَحَوُّل الهَوية (Identity Transformation) يحتاج توثيقاً."
+  - "الفرق بين التَحَوُّل السَّلفي (Salvation Conversion) وتَحَوُّل الإشراق الصوفي يحتاج فصلاً."
 ---
 # التَجربة التَّحَوُّلية (Conversion Experience): تَحوُّل داخلي مُفاجئ
 

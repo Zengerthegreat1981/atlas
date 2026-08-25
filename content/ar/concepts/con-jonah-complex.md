@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "محاضرات ماسلو عام 1967 في سان فرانسيسكو وكتابه 'الحدود القصوى للطبيعة البشرية' (1971)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

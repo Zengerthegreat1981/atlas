@@ -13,8 +13,6 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 - id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
@@ -22,9 +20,9 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: سول روزنزويغ (thk-rosenzweig)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العوامل المشتركة (con-common-factors)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العوامل النوعية (con-specific-factors)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Wampold, 2001; Luborsky et al., 1999)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'dodo bird verdict' و'common factors theory' يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Wampold, 2001; Luborsky et al., 1999)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'dodo bird verdict' و'common factors theory' يحتاج فصلاً."
 ---
 
 # جِدَل تَأْثِيرَات الْمُعَالِج ضِد تَأْثِيرَات الْعِلَاج

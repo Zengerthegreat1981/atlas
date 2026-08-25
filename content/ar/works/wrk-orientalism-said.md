@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Pantheon Books الأصلية (1978) ولا ردود فعل Bernard Lewis (1982)، David (1985)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

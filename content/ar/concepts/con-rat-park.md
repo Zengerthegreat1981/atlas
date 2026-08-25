@@ -14,9 +14,6 @@ edges:
 related:
 - id: "thk-falexander", title: "بروس ألكسندر", type: "مفكر"
 - id: "br-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "تيار"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تفاصيل تجربة Rat Park (1977-1981) تستحق توثيقاً منهجياً (مُنشورة في Pharmacology Biochemistry and Behavior 1978، ثم أعيد تفسيرها في 2010)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

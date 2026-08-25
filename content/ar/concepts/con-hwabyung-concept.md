@@ -14,9 +14,6 @@ edges:
 related:
 - id: "dis-hwabyung", title: "الهوابيونغ (اضطراب)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-han-korean", title: "هان", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الجذور التاريخية (حقبة الكوريون في ظل الاستعمار) لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

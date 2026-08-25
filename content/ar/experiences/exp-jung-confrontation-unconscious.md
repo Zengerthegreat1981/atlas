@@ -13,8 +13,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس التحليلي اليونغي", target_type: "مدرسة"
 related:
 - id: "exp-jung-break-with-freud-solitude", title: "قطيعة يونغ المؤلمة مع فرويد وعزلته في بولينغن لبناء البرج", type: "خبرة معيشة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "evt-munich-congress-jung-freud-split-1913", title: "مؤتمر ميونخ الرابع للتحليل النفسي والانفصال النهائي بين كارل يونغ وسيغموند فرويد", type: "حدث تاريخي"
 gaps:

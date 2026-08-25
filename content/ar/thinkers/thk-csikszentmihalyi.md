@@ -18,7 +18,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
 related:
 - id: "syn-synesthesia-ideasthesia", title: "متلازمة الحس المرافق وتداخل الحواس والأفكار (Synesthesia)", type: "متلازمة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"

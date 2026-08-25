@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
 - id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ تعريفات أوروبندو المتعددة في *The Life Divine* (الطبعة الكاملة، Pondicherry: Sri Aurobindo Ashram, 1972)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

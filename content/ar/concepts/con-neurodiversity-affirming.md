@@ -14,9 +14,6 @@ edges:
 related:
 - id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
 - id: "br-neurodiversity-affirming", title: "الإرشاد التأكيدي للتنوّع العصبي", type: "تيار"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "نسبة الفكرة إلى Judy Singer (1998) أو Harvey Blume تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

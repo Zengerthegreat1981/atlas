@@ -18,9 +18,6 @@ edges:
 related:
 - id: "thk-james-clear", title: "جيمس كلير", type: "مفكر"
 - id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -18,7 +18,6 @@ related:
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-exhibitionistic", title: "اضطراب الاستعراء (Exhibitionistic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-fetishistic", title: "اضطراب الفيتشية (Fetishistic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-voyeuristic", title: "اضطراب الاستطلاع (Voyeuristic Disorder)", type: "اضطراب/حالة إكلينيكية"

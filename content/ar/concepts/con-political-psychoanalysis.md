@@ -15,8 +15,6 @@ related:
 - id: "con-postcolonial-psychoanalysis", title: "التحليل النفسي بعد الكولونيالي", type: "مفهوم"
 - id: "con-cultural-psychoanalysis", title: "التحليل النفسي الثقافي", type: "مفهوم"
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أعمال سلافوي جيجك لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -25,7 +25,6 @@ related:
 - id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
 - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "thk-akaptchuk", title: "تيد ج. كابتْشُك", type: "مفكر"

@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-dissociation", title: "الانْفِصال", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: اضطراب تبدد الشخصية وتبدد الواقع (dis-depersonalization-derealization-disorder)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الذات (con-self)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ماريو سِيِّرا (thk-sierra)"
-- "الفرق بين تبدد الشخصية العَرَضي (Transient) واضطراب تبدد الشخصية (DPDR) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين تبدد الشخصية و'التجرد الروحي' (Spiritual Detachment) في تَقاليد اليوغا يحتاج توثيقاً."
-- "الفرق بين تبدد الشخصية و'اللاَّمبالاة' (Apathy) في الاكتئاب يحتاج فصلاً."
+  - "الفرق بين تبدد الشخصية العَرَضي (Transient) واضطراب تبدد الشخصية (DPDR) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين تبدد الشخصية و'التجرد الروحي' (Spiritual Detachment) في تَقاليد اليوغا يحتاج توثيقاً."
+  - "الفرق بين تبدد الشخصية و'اللاَّمبالاة' (Apathy) في الاكتئاب يحتاج فصلاً."
 ---
 
 # تَبَدُّد الشَّخصية (Depersonalization): أنا غَريب عن نَفسي

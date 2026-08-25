@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-mechanistic-philosophy", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "thk-hobbes", title: "توماس هوبز", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جوليان لامِتْرِي (thk-la-mettrie)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الآليَّة (con-mechanism)"
-- "الفرق بين 'الآلة' (Machine) في ديكارت و'الآلة' في لامِتْرِي يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الآلة' (Machine) و'الحاسوب' (Computer) كاسْتِعارتَين مُتَميِّزتَين يحتاج فصلاً."
-- "العلاقة بـ'الحَتمية' (Determinism) في علم النفس (Skinner) تحتاج توثيقاً."
+  - "الفرق بين 'الآلة' (Machine) في ديكارت و'الآلة' في لامِتْرِي يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الآلة' (Machine) و'الحاسوب' (Computer) كاسْتِعارتَين مُتَميِّزتَين يحتاج فصلاً."
+  - "العلاقة بـ'الحَتمية' (Determinism) في علم النفس (Skinner) تحتاج توثيقاً."
 ---
 
 # العقل كَآلَة: استعارة الفَلْسَفة المَيكانيكيَّة

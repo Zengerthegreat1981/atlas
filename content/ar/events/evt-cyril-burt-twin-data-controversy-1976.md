@@ -10,14 +10,6 @@ active_start: 1976
 active_end: 1979
 country: "المملكة المتحدة"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التحقيق الاستقصائي لأوليفر غيلي في صحيفة الصنداي تايمز 1976 حول المساعدات الوهميات (كونواي وهوارد) يتطلب تفصيلاً"
   - "الدفاع المضاد لـ روبرت جوينسون ورونالد فليتشر عن بيرت يحتاج مراجعة تاريخية متوازنة"

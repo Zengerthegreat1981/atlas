@@ -19,8 +19,6 @@ related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
 - id: "con-somnambulism-hypnosis", title: "الغشية المنومة (Somnambulism)", type: "مفهوم"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ التأسيس المؤسسي (الجمعية الأمريكية للتنويم السريري 1949، والجمعية الدولية 1958) لم يُوثّق بدقة كافية."
   - "العلاقة بين المدرسة السريرية الكلاسيكية ومدرسة إريكسون لم تُحسم توثيقياً."

@@ -15,9 +15,6 @@ active_end: 420
 edges:
 - rel: "belongs_to", target: "يوغاكارا / فيجنانافادا", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-yogacara", title: "مدرسة يوغاكارا", type: "مدرسة"
 - id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
 gaps:

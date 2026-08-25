@@ -15,8 +15,6 @@ related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 - id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
 - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "النصوص الأساسية (Habermas 1992, Mouffe 1993, 2005) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

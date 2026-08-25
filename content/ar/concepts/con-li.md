@@ -15,8 +15,6 @@ related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
 - id: "con-zheng-ming", title: "تشنغ مينغ (正名) — تصحيح الأسماء", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'اللي' بمعنى كونفوشي وبدلالاته في 'اللي جي' (كتاب الطقوس) لم يُحلّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

@@ -8,13 +8,12 @@ title: "الجبل الجليدي للشخصية: تدرج مستويات الو
 en: "The Freudian Iceberg: Topographical Structure of the Mind"
 crumb: "علم النفس ← الاستعارات المؤسسة ← الجبل الجليدي للشخصية"
 active_start: 1900
-active_end: مستمر
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "sch-psychoanalysis", title: "مدرسة التحليل النفسي", type: "مدرسة"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

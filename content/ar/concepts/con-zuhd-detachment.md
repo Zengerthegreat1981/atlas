@@ -9,12 +9,7 @@ en: "Zuhd (Psychological and Spiritual Detachment)"
 crumb: "علم النفس الإسلامي والفلسفي ← المقامات النفسية ← الزهد"
 active_start: 750
 active_end: "مستمر"
-edges:
-  []
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "con-tawakkul-psychology", title: "التوكل واليقين", type: "مفهوم"
 gaps:

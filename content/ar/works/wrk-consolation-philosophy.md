@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-boethius", title: "بوئيثيوس (أنيسيوس مانليوس سيفيرينوس)", type: "مفكر"
 - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الترجمات العربية والإنجليزية لها تباينات في الفهم (Alfred the Great, Chaucer, King Alfred)."
   - "لا يوجد اقتباس مباشر موثوق."

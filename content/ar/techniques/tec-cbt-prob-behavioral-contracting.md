@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

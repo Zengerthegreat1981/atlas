@@ -10,14 +10,6 @@ active_start: 1946
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "المنشور الإداري رقم 10 لـ VA الصادر عام 1946 وتحديده لاشتراط درجة الدكتوراه لممارسة علم النفس يتطلب توثيقاً"
   - "التحالف التمويلي بين إدارة المحاربين القدامى والمعهد الوطني للصحة العقلية NIMH يحتاج استعراضاً"

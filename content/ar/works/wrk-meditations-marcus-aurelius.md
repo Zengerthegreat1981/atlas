@@ -15,9 +15,6 @@ edges:
 - rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "exp-marcus-aurelius-danube-campaigns", title: "ماركوس أوريليوس على جبهة نهر الدانوب وتدوين التأملات", type: "خبرة معيشة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"
 gaps:
   - "تاريخ اكتشاف المخطوطة ونشرها لأول مرة في عصر النهضة عام 1558."

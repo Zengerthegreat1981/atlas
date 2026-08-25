@@ -12,9 +12,6 @@ active_end: 1929
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الكانطية النقدية (sch-kantianism)"

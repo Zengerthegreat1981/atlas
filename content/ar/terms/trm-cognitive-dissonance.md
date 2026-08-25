@@ -12,17 +12,14 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lfestinger", title: "ليون فستنغر", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الْمَوْقِف (con-attitude)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّنَاقُض (con-dissonance)"
-- "المصادر الأولية (Festinger 1957) تحتاج مراجعة وتوثيقاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "العلاقة بالاستقطاب السياسي (Political Polarization) المعاصر تحتاج فصلاً."
-- "الفرق بين التناقض المعرفي والازدواجية المعرفية (Cognitive Duality) يحتاج توثيقاً."
+  - "المصادر الأولية (Festinger 1957) تحتاج مراجعة وتوثيقاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "العلاقة بالاستقطاب السياسي (Political Polarization) المعاصر تحتاج فصلاً."
+  - "الفرق بين التناقض المعرفي والازدواجية المعرفية (Cognitive Duality) يحتاج توثيقاً."
 ---
 # التَّنَاقُض المعرفي (Cognitive Dissonance)
 

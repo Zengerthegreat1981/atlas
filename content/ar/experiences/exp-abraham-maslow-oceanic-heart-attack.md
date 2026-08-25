@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "wrk-maslow-motivation-and-personality", title: "الدافعية والشخصية", type: "عمل / كتاب"
 gaps:

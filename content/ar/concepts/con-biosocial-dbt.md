@@ -14,9 +14,6 @@ edges:
 related:
 - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تطبيق النظرية البيولوجية-الاجتماعية في سياقات ثقافية غير غربية يحتاج توسعاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

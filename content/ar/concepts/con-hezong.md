@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (زونغ هنغ جيا)", type: "مدرسة"
 - id: "thk-su-qin", title: "سو تشين", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتطبيق 'الاستراتيجيات' في القرن 21 لم تُغطّ هنا."
   - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."

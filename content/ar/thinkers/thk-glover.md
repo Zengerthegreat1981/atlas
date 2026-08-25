@@ -15,7 +15,6 @@ active_end: 1972
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 gaps:

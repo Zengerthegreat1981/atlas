@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-mindfulness-based-therapy", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-buddha", title: "بوذا", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جون كابات-زين (thk-kabat-zinn)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ثِيش نات هانْه (thk-hanh)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحُضور (con-presence)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّأمُّل (con-meditation)"
-- "الفرق بين 'اليقظة' في البوذية الأصلية و'Mindfulness' في كابات-زين (Secularized) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'اليقظة' و'التأمل' (Meditation) و'التركيز' (Concentration) في البوذية يحتاج فصلاً."
-- "الفرق بين 'اليقظة' و'التأمل الذاتي' (Reflection) في علم النفس المعرفي يحتاج توثيقاً."
+  - "الفرق بين 'اليقظة' في البوذية الأصلية و'Mindfulness' في كابات-زين (Secularized) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'اليقظة' و'التأمل' (Meditation) و'التركيز' (Concentration) في البوذية يحتاج فصلاً."
+  - "الفرق بين 'اليقظة' و'التأمل الذاتي' (Reflection) في علم النفس المعرفي يحتاج توثيقاً."
 ---
 # اليَقَظَة الذِّهْنِيَّة (Mindfulness)
 

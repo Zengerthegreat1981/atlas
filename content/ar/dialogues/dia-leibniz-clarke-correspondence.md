@@ -9,13 +9,8 @@ en: "Leibniz Clarke Correspondence"
 crumb: "الفلسفة والمناظرات الكبرى ← الحوارات واللقاءات التاريخية ← مراسلات لايبنتز وكلارك 1715 حول الزمان والمكان والعناية"
 active_start: 1715
 active_end: 1715
-edges:
-  []
 related:
 - id: "thk-isaac-newton", title: "إسحاق نيوتن", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "نصوص الحوار المباشرة والتبعات الفكرية لنشر المناظرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

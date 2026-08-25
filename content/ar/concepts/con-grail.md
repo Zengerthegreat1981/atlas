@@ -18,8 +18,6 @@ related:
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التحليل الرمزي للأرض اليباب وجرح الملك الصياد والتفريد الروحي في دراسة إيما يونغ وفون فرانتس."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

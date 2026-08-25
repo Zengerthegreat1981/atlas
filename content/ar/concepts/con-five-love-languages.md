@@ -15,9 +15,6 @@ edges:
 related:
 - id: "wrk-5-love-languages", title: "لغات الحب الخمس", type: "عمل / كتاب"
 - id: "thk-gary-chapman", title: "غاري تشابمان", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الأبحاث السيكومترية الحديثة في تقييم موثوقية استبيان لغات الحب الخمس."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "الفرويدية الجديدة/التحليل البيني الثقافي", target_type: "مدرسة"
 related:
 - id: "br-ego-psychology", title: "علم نفس الأنا", type: "تيار"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."

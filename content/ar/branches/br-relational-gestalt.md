@@ -18,8 +18,6 @@ related:
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
 - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "أعمال غاري يونتيف وريتشارد هايكنر ولين جاكوبس (Yontef, Hycner, Jacobs) وتأصيل فلسفة الحوار (أنا-أنت) لمارتن بوبر."
   - "الانتقال من المواجهة الصادمة الفردية لبيرلز إلى الحوار البين-ذاتي الدافئ والاعتراف المتبادل والتأطير الميداني."

@@ -19,8 +19,6 @@ related:
 - id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "مخطط البيضة النفسية (The Egg Diagram) لروبرتو أساجيولي والمستويات الروحية واللاشعور الأعلى (Superconscious)."
   - "تقنيات نزع التماهي (Disidentification) وتدريب الإرادة الواعية (The Act of Will)."

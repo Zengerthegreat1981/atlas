@@ -18,7 +18,6 @@ edges:
 - rel: "developed", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-gladwell", title: "مالكوم غلادويل", type: "مفكر"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "con-psychological-type", title: "النمط النفسي", type: "مفهوم"
 - id: "con-boundaries-psychological", title: "الحدود النفسية", type: "مفهوم"
 gaps:

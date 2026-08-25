@@ -18,7 +18,6 @@ related:
 - id: "thk-louise-hay", title: "لويز هاي", type: "مفكر"
 - id: "thk-napoleon-hill", title: "نابليون هيل", type: "مفكر"
 - id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 gaps:
   - "لا توجد دراسات سريرية محكّمة على فعالية منهج التأكيدات الإبداعية في مجلة طب نفسية محكّمة."
   - "كتاب Creative Visualization (1978) لم يُراجَع أكاديمياً."

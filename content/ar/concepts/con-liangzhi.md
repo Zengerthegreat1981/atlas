@@ -15,8 +15,6 @@ related:
 - id: "sch-xinxue", title: "مدرسة العقل/القلب (زين شوي)", type: "مدرسة"
 - id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
 - id: "con-zhixing-heyi", title: "الوحدة بين المعرفة والفعل (知行合一)", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لـ'الحدس الأخلاقي' (الـ«ليانغ تشي») في 'Chuan Xi Lu' لم تُراجع من طبعة محقّقة هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

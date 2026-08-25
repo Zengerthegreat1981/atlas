@@ -15,7 +15,6 @@ edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 gaps:

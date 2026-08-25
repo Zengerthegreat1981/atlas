@@ -9,12 +9,7 @@ en: "Amor Fati (Love of Fate)"
 crumb: "الفلسفة الوجودية ← المفاهيم الكبرى ← حب القدر"
 active_start: 1882
 active_end: "مستمر"
-edges:
-  []
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "sch-stoicism", title: "المدرسة الرواقية", type: "مدرسة"
 gaps:

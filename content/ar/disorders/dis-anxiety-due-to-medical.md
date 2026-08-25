@@ -34,7 +34,6 @@ related:
 - id: "syn-panic", title: "متلازمة الهلع", type: "متلازمة"
 - id: "syn-hypervigilance", title: "متلازمة اليقظة المفرطة", type: "متلازمة"
 - id: "syn-insomnia", title: "متلازمة الأرق", type: "متلازمة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "القائمة الكاملة للحالات الطبية المُسبّبة للقلق في ICD-11 (الفئة 6B08 والمراجع) لم تُراجع تفصيلياً."

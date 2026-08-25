@@ -16,7 +16,6 @@ register: "popular"
 edges:
 - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "con-nonviolent-communication", title: "التواصل اللاعنفي", type: "مفهوم"
 - id: "con-mutual-empathy", title: "التعاطف", type: "مفهوم"
 gaps:

@@ -20,8 +20,6 @@ related:
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
 - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
 - id: "thk-hountondji", title: "بولين هينتونجي", type: "مفكر"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "نصوص Bodunrin, Wiredu, Hountondji, Serequeberhan, Hallen تحتاج مراجعة من المصدر الأولي."

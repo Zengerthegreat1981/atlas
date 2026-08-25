@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز بين الصياغات الأربع للأمر المطلق (Groundwork, 1785) يحتاج مراجعة بيبلوغرافية."
   - "لا يوجد اقتباس مباشر موثوق من Grundlegung بعد."

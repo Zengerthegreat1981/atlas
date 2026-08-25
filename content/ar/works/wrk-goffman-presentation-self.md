@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "إرفينغ غوفمان", target_type: "مفكر"
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الفرق بين الطبعة الأولى الاسكتلندية (Edinburgh, 1956) والنسخة الأمريكية المنقّحة (Anchor/Doubleday, 1959) لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

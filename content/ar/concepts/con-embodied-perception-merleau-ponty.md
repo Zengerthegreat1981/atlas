@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-unconscious-inference", title: "الاستدلال اللاواعي (Unconscious Inference) عند هلمهولتز", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

@@ -18,8 +18,6 @@ related:
 - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

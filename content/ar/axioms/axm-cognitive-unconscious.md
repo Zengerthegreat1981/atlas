@@ -13,9 +13,6 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "formulated_by", target: "جون كيلستروم", target_type: "مفكر"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-jkihnstrom", title: "جون كينستروم", type: "مفكر"
 - id: "axm-the-unconscious", title: "بديهية اللاوعي", type: "بديهية/مبدأ تأسيسي"
 gaps:

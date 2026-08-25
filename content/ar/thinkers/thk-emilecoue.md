@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "التنويم الذاتي (كإطار علاجي)", target_type: "مدرسة"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
 - id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
 - id: "thk-jose-salgado", title: "خوسيه سالغادو", type: "مفكر"

@@ -13,9 +13,6 @@ edges:
 - rel: "relates_to", target: "sch-spinozism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-spinoza", title: "سبينوزا", type: "مفكر"
 - id: "thk-descartes", title: "ديكارت", type: "مفكر"
 gaps:

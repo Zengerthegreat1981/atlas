@@ -18,8 +18,6 @@ related:
 - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "wrk-neuroscience-psychotherapy", title: "علم أعصاب العلاج النفسي: بناء وإعادة بناء الدماغ البشري", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

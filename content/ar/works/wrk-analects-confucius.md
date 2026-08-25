@@ -14,9 +14,6 @@ active_end: -475
 edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
 gaps:
   - "تجميع الكتب العشرين للحوارات والوصايا عبر أجيال من التلاميذ."

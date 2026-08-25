@@ -12,9 +12,6 @@ part: "psychology"
 edges:
 - rel: "relates_to", target: "علم النفس العصبي", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "stu-sperry-gazzaniga-split-brain", title: "تجارب الدماغ المشقوق لسپيري وغازانيغا", type: "دراسة وبحث"
 gaps:
   - "النقاش المُعاصر حول ما إذا كان 'المُفسِّر' خاصاً بالبشر أو يظهر في الرئيسات الأخرى غير مُحسوم."

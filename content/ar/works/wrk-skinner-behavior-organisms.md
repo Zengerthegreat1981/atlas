@@ -17,9 +17,6 @@ edges:
 related:
 - id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "تفاصيل المنهجية التجريبية لقفص سكينر (Skinner box) لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

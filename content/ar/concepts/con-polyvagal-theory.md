@@ -14,9 +14,6 @@ edges:
 related:
 - id: "wrk-porges-polyvagal-theory", title: "كتاب النظرية العصبية المبهمية لستيفن بورغس (2011)", type: "عمل / كتاب"
 - id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورغس (thk-sporges)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العصب المُبهَم (Vagus Nerve) (con-vagus-nerve)"

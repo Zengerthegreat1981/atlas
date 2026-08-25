@@ -12,9 +12,6 @@ part: "psychology"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 gaps:
   - "الفرق بين نظرية تكامل السمات (FIT) ونظرية الانتباه المُوجَّه بالأهداف (guided search) اللاحقة لولشتريكر 1984 لم يُوثَّق بدقة في هذا الملف."

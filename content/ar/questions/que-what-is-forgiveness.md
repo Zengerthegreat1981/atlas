@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-augustine", title: "أوغسطين", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المغفرة (con-forgiveness)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الضغينة (con-grudge)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: بول ريكور (thk-ricœur)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: روبرت إنرايت (thk-enright)"
-- "المصادر الأولية (Augustine، Konstan، Enright) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'المغفرة' (Forgiveness) و'المصالحة' (Reconciliation) و'العفو' (Pardon) يحتاج فصلاً."
-- "العلاقة بـ'العدالة الانتقالية' (Transitional Justice) و'لجان الحقيقة والمصالحة' (Truth and Reconciliation Commissions) تحتاج توثيقاً."
+  - "المصادر الأولية (Augustine، Konstan، Enright) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'المغفرة' (Forgiveness) و'المصالحة' (Reconciliation) و'العفو' (Pardon) يحتاج فصلاً."
+  - "العلاقة بـ'العدالة الانتقالية' (Transitional Justice) و'لجان الحقيقة والمصالحة' (Truth and Reconciliation Commissions) تحتاج توثيقاً."
 ---
 # ما الْمَغْفِرَة؟
 

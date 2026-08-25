@@ -18,9 +18,6 @@ edges:
 related:
 - id: "thk-brene-brown", title: "برينيه براون", type: "مفكر"
 - id: "con-pratfall-effect", title: "تأثير الهفوة / السقوط الرشيق (الجاذبية الإنسانية لارتكاب الأخطاء)", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Gotham Books) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

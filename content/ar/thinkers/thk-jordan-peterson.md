@@ -16,7 +16,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "علم النفس الإكلينيكي وعلم النفس الشعبي", target_type: "مدرسة"
 related:
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة", type: "عمل / كتاب"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."

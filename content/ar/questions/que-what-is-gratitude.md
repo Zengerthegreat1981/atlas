@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-emmons", title: "روبرت إيمونز", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الامتنان (con-gratitude)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الانفعال الإيجابي (con-positive-emotion)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: باربرا فريدريكسون (thk-fredrickson)"
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل مكولو (thk-mccullough)."
-- "المصادر الأولية (Emmons 2003، McCullough 2002، Fredrickson 2004) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الامتنان' (Gratitude) و'التقدير' (Appreciation) و'الاعتراف بالجميل' (Acknowledgment) يحتاج فصلاً."
-- "العلاقة بالدين (Religion) و'الحمد' في الإسلام والمسيحية تحتاج توثيقاً."
+  - "المصادر الأولية (Emmons 2003، McCullough 2002، Fredrickson 2004) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الامتنان' (Gratitude) و'التقدير' (Appreciation) و'الاعتراف بالجميل' (Acknowledgment) يحتاج فصلاً."
+  - "العلاقة بالدين (Religion) و'الحمد' في الإسلام والمسيحية تحتاج توثيقاً."
 ---
 # ما الْاِمْتِنَان؟
 

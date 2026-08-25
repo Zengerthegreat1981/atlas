@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 - id: "thk-edinger", title: "إدوارد إيدينغر", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّفَرُّد (con-individuation)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العَمل (Opus) (con-opus)"
-- "العلاقة بين الخيمياء اليونغية (Jung) والخيمياء العملية (Practical Alchemy) تحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الذهب الروحي' (Spiritual Gold) و'الذهب المادي' (Material Gold) في الخيمياء يحتاج توثيقاً."
-- "النقد المادي (Materialist) للخيمياء كـ'علم زائف' يحتاج فصلاً."
+  - "العلاقة بين الخيمياء اليونغية (Jung) والخيمياء العملية (Practical Alchemy) تحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الذهب الروحي' (Spiritual Gold) و'الذهب المادي' (Material Gold) في الخيمياء يحتاج توثيقاً."
+  - "النقد المادي (Materialist) للخيمياء كـ'علم زائف' يحتاج فصلاً."
 ---
 
 # العِلاج كَخيمياء: استعارة التَّحَوُّل

@@ -16,7 +16,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "العلاقة بين «اللاشعور بالمشاعر» (disaffectation) عندها ومفهوم الألكسيثيميا عند سيفنيوس ونيميا لم تُحلَّل بعد."

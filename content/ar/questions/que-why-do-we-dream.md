@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-dream-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحلم (con-dream)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نوم حركة العين السريعة (con-rem-sleep)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ج. ألين هوبسن (thk-hobson)"
-- "المصادر الأولية (Freud 1900، Hobson & McCarley 1977، Revonsuo 2000) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الحلم' و'الكوابيس' (Nightmares) و'الأحلام الواضحة' (Lucid Dreams) يحتاج فصلاً."
-- "العلاقة بـ'وظائف الدماغ' (Brain Functions) في نوم الـ REM و'الذاكرة' (Memory) تحتاج توثيقاً."
+  - "المصادر الأولية (Freud 1900، Hobson & McCarley 1977، Revonsuo 2000) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الحلم' و'الكوابيس' (Nightmares) و'الأحلام الواضحة' (Lucid Dreams) يحتاج فصلاً."
+  - "العلاقة بـ'وظائف الدماغ' (Brain Functions) في نوم الـ REM و'الذاكرة' (Memory) تحتاج توثيقاً."
 ---
 # لِمَاذَا نَحْلُم؟
 

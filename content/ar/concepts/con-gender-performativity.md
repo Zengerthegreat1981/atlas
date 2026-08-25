@@ -14,9 +14,6 @@ edges:
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النص التأسيسي Gender Trouble (Butler 1990) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

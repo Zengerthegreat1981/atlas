@@ -15,7 +15,6 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-time", title: "الزمن", type: "مفهوم"
 gaps:

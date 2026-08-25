@@ -14,10 +14,6 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "البروتوكول يجمع بين عناصر من EMDR والتعرض المطوّل في إجراء واحد مختصر."
   - "مدة العد: 15 ثانية في المحاولة الأولى، ثم 20، 25، 30، 40، 50، 60 ثانية (تصاعدياً)."

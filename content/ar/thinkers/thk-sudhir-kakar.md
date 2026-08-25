@@ -15,7 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "علم النفس الفيدي (المستند إلى الفيد)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-svami-akhilananda", title: "سوامي أخيلاناندا", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."

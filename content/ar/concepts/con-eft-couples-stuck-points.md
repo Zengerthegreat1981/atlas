@@ -15,12 +15,10 @@ related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "con-eft-couples-bond-cycle", title: "دورة الترابط", type: "مفهوم"
 - id: "con-eft-couples-emotion-focused", title: "النهج المتمحور حول المشاعر", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Johnson, 2004)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين Stuck Points في EFT و'حالات الانتهاء' (Deadlock) في Imago Therapy يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Johnson, 2004)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين Stuck Points في EFT و'حالات الانتهاء' (Deadlock) في Imago Therapy يحتاج فصلاً."
 ---
 
 # نِقَاط الِانْحِراف (Stuck Points) فِي EFT

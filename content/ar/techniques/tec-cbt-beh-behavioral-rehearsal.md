@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-beh-role-playing", title: "تمثيل الأدوار", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-developmental-coordination", title: "اضطراب التنسيق التنموي", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-nightmare-disorder", title: "اضطراب الكوابيس", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-premature-ejaculation", title: "سرعة القذف (القذف المبكر)", type: "اضطراب/حالة إكلينيكية"

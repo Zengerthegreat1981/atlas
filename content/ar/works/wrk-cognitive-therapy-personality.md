@@ -19,8 +19,6 @@ related:
 - id: "dis-dependent-personality", title: "اضطراب الشخصية الاعتمادية", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Guilford Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

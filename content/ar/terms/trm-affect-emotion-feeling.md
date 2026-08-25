@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: كارل لانغ (thk-lange)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: سيلفان تومكنز (thk-tomkins)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العاطفة (con-emotion)"
-- "التمييز بين 'الانفعال' (Affect) في علم النفس التحليلي و'Affect' في علم النفس العام يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الشعور' (Feeling) في داماسيو و'الشعور' (Gefühl) في هوسرل يحتاج فصلاً."
-- "العلاقة بالـ 'Affect' في أنظمة DSM-5 (Flat Affect, Labile Affect) تحتاج توثيقاً."
+  - "التمييز بين 'الانفعال' (Affect) في علم النفس التحليلي و'Affect' في علم النفس العام يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الشعور' (Feeling) في داماسيو و'الشعور' (Gefühl) في هوسرل يحتاج فصلاً."
+  - "العلاقة بالـ 'Affect' في أنظمة DSM-5 (Flat Affect, Labile Affect) تحتاج توثيقاً."
 ---
 # الانْفِعال، العاطفة، الشُّعور (Affect, Emotion, Feeling): فُروق دَقِيقَة
 

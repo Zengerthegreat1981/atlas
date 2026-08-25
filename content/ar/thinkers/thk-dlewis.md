@@ -15,9 +15,6 @@ active_end: 2001
 edges:
 - rel: "belongs_to", target: "الميتافيزيقا التحليلية المعاصرة", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
 gaps:
   - "الفرق بين «الواقعية الموجهية» عند لويس و«الواقعية الاشتقاقية» عند خصومه (Stalnaker، Plantinga) لم يُحلّل هنا."

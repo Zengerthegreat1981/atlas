@@ -13,7 +13,6 @@ edges:
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
 - id: "con-neuroplasticity", title: "", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "", type: "مدرسة"
 - id: "rel-cultural-feminist", title: "علم النفس النسوي والثقافي: من Gilligan إلى hooks", type: "علاقة بين مدرستين"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"

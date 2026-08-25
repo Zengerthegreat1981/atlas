@@ -15,8 +15,6 @@ related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
 - id: "con-self-efficacy", title: "الكفاءة الذاتية", type: "مفهوم"
 - id: "con-modeling", title: "النمذجة", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "نقد «الحتمية» في النموذج — هل هي حتمية فعلاً أم احتمالية؟ — موضع فلسفي."

@@ -14,10 +14,6 @@ active_start: 1974
 active_end: 1995
 edges:
 - rel: "belongs_to", target: "فلسفة الحكيم (Sage Philosophy)", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

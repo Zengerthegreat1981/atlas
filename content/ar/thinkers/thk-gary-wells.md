@@ -18,7 +18,6 @@ edges:
 - rel: "developed", target: "sch-eyewitness-science", target_type: "مدرسة"
 related:
 - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي", type: "مدرسة"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
 - id: "con-cognitive-map", title: "الخريطة المعرفية", type: "مفهوم"
 gaps:

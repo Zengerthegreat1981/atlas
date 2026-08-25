@@ -15,9 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "علم النفس الإسلامي/العلاج النفسي الصوفي", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-anajam", title: "عادل نجّام", type: "مفكر"
 - id: "thk-hkoprulu", title: "حازم قبرلو (حازم كوبرولو)", type: "مفكر"
 gaps:

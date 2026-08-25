@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المرتكز على الانفعال", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

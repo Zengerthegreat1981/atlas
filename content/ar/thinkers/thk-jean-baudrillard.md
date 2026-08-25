@@ -17,9 +17,6 @@ edges:
 related:
 - id: "trm-simulacra-baudrillard", title: "الأيقونة الشبيهة والمحاكاة الفائقة (Simulacra & Simulation)", type: "مصطلح لغوي متنازع عليه"
 - id: "met-baudrillard-desert-of-the-real", title: "صحراء الواقع لجان بودريار: استعارة المحاكاة الفائقة واختفاء الأصل", type: "استعارة/مجاز مؤسِّس"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

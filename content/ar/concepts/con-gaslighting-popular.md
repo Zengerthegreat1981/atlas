@@ -15,9 +15,6 @@ edges:
 related:
 - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-stockholm", title: "متلازمة ستوكهولم", type: "متلازمة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تطور المفهوم من مسرحية Gaslight (1938) إلى أدبيات العنف النفسي المعاصرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

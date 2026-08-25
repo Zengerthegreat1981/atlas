@@ -17,8 +17,6 @@ related:
 - id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل", type: "مدرسة"
 - id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 - id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: أسئلة التدرج (Scaling Questions) (con-scaling-questions)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: البحث عن الاستثناءات (con-exception-seeking)"

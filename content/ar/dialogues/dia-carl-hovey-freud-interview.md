@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "dia-buber-rogers-dialogue-1957", title: "حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة", type: "حوار مع مدرسة مجاورة"
 - id: "dia-rawls-habermas-debate-1995", title: "مناظرة جون رولز ويورغن هابرماس 1995 حول العدالة", type: "حوار مع مدرسة مجاورة"

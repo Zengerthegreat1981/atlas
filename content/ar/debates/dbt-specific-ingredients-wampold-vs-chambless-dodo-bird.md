@@ -9,8 +9,6 @@ en: "Specific Ingredients vs. Common Factors: What Actually Heals in Psychothera
 crumb: "علم النفس الإكلينيكي ← جدل العلاج النفسي ← المواد الخاصة مقابل العوامل المشتركة (قضية طائر الدودو)"
 active_start: 1995
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "thk-goldfried", title: "مارفين غولدفريد", type: "مفكر"
@@ -20,9 +18,6 @@ related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dbt-common-factors-vs-specific-ingredients", title: "عوامل العلاج المشتركة (طائر الدودو) مقابل التقنيات المحددة للمدارس", type: "جدل"
 gaps:
   - "مفهوم العلائقية العلاجية (Therapeutic Alliance) لدى إدوارد بوردن (Edward Bordin) غير مفهرس بعمق"

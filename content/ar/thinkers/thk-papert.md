@@ -19,7 +19,6 @@ related:
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "علم النفس المعرفي", type: "مدرسة"
 gaps:
   - "مفهوم 'Logo' ورحلته من Piaget إلى MIT غير مفهرس في مرجع واحد."
   - "مقارنة منهج Papert ببرنامج 'One Laptop Per Child' (OLPC) لم تُحلَّل أكاديمياً."

@@ -31,7 +31,6 @@ related:
 - id: "br-purposive-behaviorism", title: "السلوكية الغائية (تولمان)", type: "تيار"
 - id: "br-hullian-behaviorism", title: "Hullian Behaviorism", type: "تيار"
 - id: "br-neobehaviorism", title: "السلوكية الجديدة (Neobehaviorism)", type: "تيار"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-bjhopkins", title: "بيل ل. هوپكنز", type: "مفكر"

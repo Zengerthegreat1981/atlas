@@ -9,8 +9,6 @@ crumb: "المدرسة الوجودية ← الاضطرابات والحالا�
 part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
@@ -43,7 +41,6 @@ related:
 - id: "dbt-couples-therapy-vs-individual-depression", title: "جِدَل عِلَاج اِكْتِئَاب زَوْج ضِد فَرْدِيّ", type: "جدل"
 - id: "dbt-medication-discontinuation-depression", title: "جِدَل إيقاف مُضادّات الِاِكْتِئَاب: هَل «**تَسْتَوْفِر**» (Cure) أَم «**تُسْقِط**» (Relapse)؟", type: "جدل"
 - id: "dbt-psychotherapy-vs-medication", title: "جِدَل الْعِلَاج النَّفْسِيّ ضِد الدَّوَاء: أَيُّهُمَا أَفْضَل لِـ**الِاِكْتِئَاب**؟", type: "جدل"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم تُحدد بعد المعايير التشخيصية الدقيقة من مصدر تشخيصي أولي محقق"
   - "لم تُراجع الـDSM-5-TR و ICD-11 من المصدر الأولي بعد لتأكيد معايير الـ9 أعراض والـ5+ أيام"

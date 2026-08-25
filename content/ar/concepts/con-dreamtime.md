@@ -14,9 +14,6 @@ edges:
 - rel: "formulated_by", target: "كبار السن وقصّاصو أساطير السكان الأصليين (تقليد شفهي)", target_type: "مفكر"
 related:
 - id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الأسماء الأصلية لمفهوم 'Tjukurrpa' قبل التبسيط الإنجليزي موضع جدل."

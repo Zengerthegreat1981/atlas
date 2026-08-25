@@ -12,7 +12,6 @@ edges:
 - rel: "connects", target: "العلاج المعرفي السلوكي", target_type: "مدرسة"
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "con-mindfulness", title: "", type: "مدرسة"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"

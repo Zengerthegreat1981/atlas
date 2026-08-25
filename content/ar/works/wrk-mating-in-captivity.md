@@ -19,8 +19,6 @@ related:
 - id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
 - id: "con-madonna-whore-complex", title: "عقدة مادونا–العاهرة (انشطار الرغبة والاحترام في العلاقات)", type: "مفهوم"
 - id: "syn-hypoactive-sexual-desire", title: "متلازمة نقص الرغبة الجنسية التثبيطية (HSDD)", type: "متلازمة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

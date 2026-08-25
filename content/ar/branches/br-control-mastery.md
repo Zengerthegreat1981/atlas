@@ -17,8 +17,6 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "مناهج البحث التجريبي لمجموعة سان فرانسيسكو للعلاج النفسي (SFPRG) واختبار خطة المريض (Plan Compatibility)."

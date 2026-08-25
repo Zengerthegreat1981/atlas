@@ -16,9 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 - rel: "written_by", target: "thk-adam-grant", target_type: "مفكر"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-adam-grant", title: "آدم غرانت", type: "مفكر"
 - id: "stu-dweck-growth-mindset-praise", title: "دراسة مولر ودويك حول أثر الثناء على الذكاء مقابل الجهد وعقلية النمو", type: "دراسة وبحث"
 gaps:

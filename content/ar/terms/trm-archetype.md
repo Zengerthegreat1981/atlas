@@ -12,18 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ماري-لويزه فون فرانتس (thk-von-franz)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: اللاوعي الجمعي (con-collective-unconscious)"
-- "التمييز بين النموذج الأولى (Archetype) في يونغ والصورة البدئية في البنيوية (Lévi-Strauss) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين النموذج الأولى (Archetype) والمخطط (Schema) في علم النفس المعرفي يحتاج توثيقاً."
-- "العلاقة بالأخلاق التطورية (Evolutionary Ethics) في نظرية Axelrod تحتاج فصلاً."
+  - "التمييز بين النموذج الأولى (Archetype) في يونغ والصورة البدئية في البنيوية (Lévi-Strauss) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين النموذج الأولى (Archetype) والمخطط (Schema) في علم النفس المعرفي يحتاج توثيقاً."
+  - "العلاقة بالأخلاق التطورية (Evolutionary Ethics) في نظرية Axelrod تحتاج فصلاً."
 ---
 # النَّموذج الأَوَّلي (Archetype): الصُّورَة المَورُوثة
 

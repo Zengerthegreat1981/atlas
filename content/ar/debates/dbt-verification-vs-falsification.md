@@ -14,8 +14,6 @@ edges:
 related:
 - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
 - id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "المواقف التفصيلية لأعضاء حلقة فيينا من كتاب بوبر 1934 لم تُراجع من رسائلهم."

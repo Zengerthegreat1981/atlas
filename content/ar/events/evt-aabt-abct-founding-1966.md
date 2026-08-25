@@ -10,13 +10,9 @@ active_start: 1966
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-fskinner", title: "بوريس فريدريك سكينر", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 gaps:
   - "تغيير اسم الجمعية عام 2005 إلى ABCT لإدماج المكون المعرفي رسمياً يحتاج توثيقاً تاريخياً"

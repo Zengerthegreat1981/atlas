@@ -20,8 +20,6 @@ related:
 - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
 - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
 - id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

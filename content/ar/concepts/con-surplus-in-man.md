@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
 - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "المفهوم مُستقرأ من *The Religion of Man* (1931) لكن لم تُراجع بعدُ طبعة Oxford University Press الأصلية."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

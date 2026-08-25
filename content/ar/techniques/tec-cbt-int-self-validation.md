@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-understanding-the-function-of-emotions", title: "وظائف المشاعر والانفعالات", type: "تقنية/تدخل علاجي"
 gaps:

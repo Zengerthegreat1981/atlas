@@ -13,16 +13,14 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-mdd", title: "الاضطراب الاكتئابي الجسيم", type: "اضطراب/حالة إكلينيكية"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 - id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: إل يالي (thk-eli-lliy)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: جوانا مونكريف (thk-moncrieff)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد التوازن الكيميائي (crt-chemical-imbalance)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Hollon, 2016; El-Mallakh, 2012)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Hollon, 2016; El-Mallakh, 2012)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # جِدَل إيقاف مُضادّات الِاِكْتِئَاب: هَل «**تَسْتَوْفِر**» (Cure) أَم «**تُسْقِط**» (Relapse)؟
 

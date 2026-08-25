@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-mani", title: "ماني", type: "مفكر"
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "ترجمة عربية معتمدة لـ«الكيفالا» غير متاحة."
   - "نسبتها الكاملة لماني نفسه أو لمجلسه موضع خلاف بين المتخصصين."

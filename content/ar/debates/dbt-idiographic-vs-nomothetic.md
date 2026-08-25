@@ -9,8 +9,6 @@ en: "Idiographic vs. Nomothetic Approach in Psychology"
 crumb: "علم النفس ← المنهج والفلسفة ← جدل المنهج الآحادي مقابل القانوني"
 active_start: 1895
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
@@ -20,9 +18,6 @@ related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-spiegelberg", title: "هربرت شبيغلبرغ", type: "مفكر"
 - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "مقارنة معمقة بين Windelband (الأخلاق) وAllport (علم النفس) حول المنهج الآحادي تحتاج تطويراً"
   - "مقاربة Ganzheitspsychologie (علم النفس الكلاني) وGestalt مفقودتان من الفهرس"

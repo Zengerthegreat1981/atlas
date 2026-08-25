@@ -14,9 +14,6 @@ edges:
 related:
 - id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
 - id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب", type: "نقد خارجي موثَّق"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-dream-interpretation-technique", title: "تقنية تفسير الأحلام", type: "مفهوم"
 gaps:
   - "أعمال هشام شرابي في 'الجسد الناقص' (1985) لم تُراجع بشكل منفصل."

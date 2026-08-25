@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-anorexia-nervosa", title: "القهم العصبي (أنوريكسيا)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-bulimia-nervosa", title: "النهام العصبي (بوليميا)", type: "اضطراب/حالة إكلينيكية"

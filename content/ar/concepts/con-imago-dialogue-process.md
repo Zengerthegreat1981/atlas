@@ -15,12 +15,10 @@ related:
 - id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
 - id: "tec-imago-dialogue-protocol", title: "بروتوكول الحوار Imago", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Hendrix, 1988, 2001)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين الحوار في Imago و الحوار في Gindler/Gestalt يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Hendrix, 1988, 2001)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين الحوار في Imago و الحوار في Gindler/Gestalt يحتاج فصلاً."
 ---
 # عَمَلِيَّة الْحِوَار Imago
 

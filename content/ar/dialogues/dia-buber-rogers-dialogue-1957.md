@@ -9,12 +9,7 @@ en: "Buber Rogers Dialogue 1957"
 crumb: "الفلسفة والمناظرات الكبرى ← الحوارات واللقاءات التاريخية ← حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة"
 active_start: 1957
 active_end: 1957
-edges:
-  []
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dia-rawls-habermas-debate-1995", title: "مناظرة جون رولز ويورغن هابرماس 1995 حول العدالة", type: "حوار مع مدرسة مجاورة"
 - id: "dia-lacan-heidegger-anxiety-seminar", title: "سيمينار لاكان العاشر حول القلق: حوار خفي مع هايدجر", type: "حوار مع مدرسة مجاورة"
 gaps:

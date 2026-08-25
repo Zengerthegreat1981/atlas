@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-linguistics", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-meaning", title: "المعنى", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: اللغة (con-language)"
@@ -22,10 +19,10 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: لودفيغ فيتغنشتاين (thk-wittgenstein)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: فرديناند دي سوسور (thk-saussure)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: فيلهلم فون همبولدت (thk-humboldt)"
-- "المصادر الأولية (Saussure، Chomsky، Wittgenstein، Humboldt) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'اللغة' (Language) و'الكلام' (Speech) و'اللغة الطبيعية' (Natural Language) يحتاج فصلاً."
-- "العلاقة بـ'الأفكار' (Thought) — فرضية سابير-وورف (Sapir-Whorf) — تحتاج فصلاً."
+  - "المصادر الأولية (Saussure، Chomsky، Wittgenstein، Humboldt) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'اللغة' (Language) و'الكلام' (Speech) و'اللغة الطبيعية' (Natural Language) يحتاج فصلاً."
+  - "العلاقة بـ'الأفكار' (Thought) — فرضية سابير-وورف (Sapir-Whorf) — تحتاج فصلاً."
 ---
 # ما اللُّغَة؟
 

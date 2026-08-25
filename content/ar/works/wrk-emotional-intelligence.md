@@ -18,8 +18,6 @@ related:
 - id: "thk-jacqueline-astington", title: "جاكلين أستنغتون", type: "مفكر"
 - id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Bantam Books) وأرقام المبيعات لم تُراجع من مصدر أولي."
   - "نقد الكتاب (Locke، 2005) لم يُراجع من مصدر أولي."

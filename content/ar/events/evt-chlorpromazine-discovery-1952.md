@@ -10,14 +10,6 @@ active_start: 1952
 active_end: "مستمر"
 country: "فرنسا"
 part: "philosophy"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "دور الجراح العسكري هنري لابوري في ملاحظة 'الهدوء الانفعالي دون نوم' أثناء تجارب الصدمة الجراحية يتطلب توثيقاً"
   - "تسويق الدواء في أمريكا تحت اسم ثورازين (Thorazine) عام 1954 وثورة التغطية التأمينية يحتاج مراجعة"

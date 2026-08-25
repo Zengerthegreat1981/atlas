@@ -9,12 +9,6 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← مقيا
 active_start: 2007
 active_end: "مستمر"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تطبيقات نموذج راش السيكومتري (Rasch Analysis) في النسخة المختصرة (SWEMWBS ذات الـ 7 بنود) تحتاج توثيقاً"
   - "الاستخدام في قياس العائد الاجتماعي على الاستثمار (SROI) للمشاريع التنموية يتطلب استعراضاً تطبيقياً"

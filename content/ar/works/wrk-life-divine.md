@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
 - id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Arya الكاملة (1919–1921) حيث نُشرت الفصول الأولى، ولا الطبعة الكاملة (Pondicherry: Ashram, 1972)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

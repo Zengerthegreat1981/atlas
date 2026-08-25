@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-aesthetics", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الجمال (con-beauty)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحكم الجمالي (con-aesthetic-judgment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: إدموند بِرك (thk-burke)"
-- "المصادر الأولية (Plato، Burke، Kant، Danto) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الجمال' (Beauty) و'الجلال' (Sublime) و'الأناقة' (Elegance) يحتاج فصلاً."
-- "العلاقة بـ'ثقافة الجمال' (Beauty Culture) في الإعلام المعاصر تحتاج توثيقاً."
+  - "المصادر الأولية (Plato، Burke، Kant، Danto) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الجمال' (Beauty) و'الجلال' (Sublime) و'الأناقة' (Elegance) يحتاج فصلاً."
+  - "العلاقة بـ'ثقافة الجمال' (Beauty Culture) في الإعلام المعاصر تحتاج توثيقاً."
 ---
 # ما الْجَمَال؟
 

@@ -17,8 +17,6 @@ related:
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "con-risk-need-responsivity", title: "مبدأ المخاطرة والحاجة والاستجابة", type: "مفهوم"
 - id: "ins-hcr-20", title: "مقياس تقييم مخاطر العنف الهيكل السريري HCR-20", type: "أداة قياس"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ HCR-20 (1995) يستحق مصدراً."
   - "المعركة بين 'actuarial' و'clinical judgment' في تقييم المخاطر تستحق توثيقاً."

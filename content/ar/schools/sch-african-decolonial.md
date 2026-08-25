@@ -21,8 +21,6 @@ related:
 - id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
 - id: "thk-cabral", title: "أميليكار كابرال", type: "مفكر"
 - id: "thk-mbembe", title: "أشيل مبيمبي", type: "مفكر"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "نصوص Sabelo J. Ndlovu-Gatsheni, Lewis Gordon, Maldonado-Torres need review."

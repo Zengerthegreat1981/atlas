@@ -15,12 +15,10 @@ related:
 - id: "thk-imartinbaro", title: "إغناثيو مارتين-بارو", type: "مفكر"
 - id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
 - id: "con-decolonizing-pedagogy", title: "البيداغوجيا اللااستعمارية", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Martín-Baró, 1986)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "التطبيق في سياقات ما بعد الاستعمار يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Martín-Baró, 1986)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التطبيق في سياقات ما بعد الاستعمار يحتاج فصلاً."
 ---
 
 # الْمِحْوَر الْعَرَضِيّ (Eje Transversal)

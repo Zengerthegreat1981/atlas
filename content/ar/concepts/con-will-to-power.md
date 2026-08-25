@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النص 'Der Wille zur Macht' نُشر من مخطوطات بعد وفاة نيتشه بأمر من شوستر وبفنر، أصالته موضع جدل."
   - "لا يوجد اقتباس مباشر موثوق من 'Jenseits' بعد."

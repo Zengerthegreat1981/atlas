@@ -18,7 +18,6 @@ related:
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "thk-richard-bernstein", title: "ريتشارد برنشتاين", type: "مفكر"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة", type: "مدرسة"
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والأعصاب", type: "مدرسة"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"

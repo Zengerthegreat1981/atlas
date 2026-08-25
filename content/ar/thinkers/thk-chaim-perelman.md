@@ -14,10 +14,6 @@ active_start: 1942
 active_end: 1984
 edges:
 - rel: "belongs_to", target: "الوضعية المنطقية وحلقة فيينا — الفلسفة التحليلية", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

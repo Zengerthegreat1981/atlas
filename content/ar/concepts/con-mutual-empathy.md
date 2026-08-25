@@ -16,7 +16,6 @@ related:
 - id: "thk-msrosenberg", title: "مارشال روزنبرغ (التواصل اللاعنفي)", type: "مفكر"
 - id: "con-buddhist-compassion-karuna", title: "الكَرُونَا / الرَّحْمَة البُوذِيَّة (Karunā)", type: "مفهوم"
 - id: "thk-jordan", title: "جوديث جوردان", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
 gaps:
   - "جين بيكر ميلر (المؤسسة الأولى، 1927-2006) لا تزال بدون عنصر thk-jbmiller في الفهرس."
   - "لا يوجد اقتباس مباشر موثوق من بيكر ميلر أو جوردان بعد."

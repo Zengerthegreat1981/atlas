@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-thanatology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-dissociation", title: "الانفصال", type: "مفهوم"
 - id: "exp-out-of-body-experience", title: "الخروج من الجسد", type: "خبرة معيشة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ريموند مودي (thk-raymond-moody)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: بيم فان لومل (thk-pim-van-lommel)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الوعي (con-consciousness)"
-- "التمييز بين NDE العَرَضية وNDE المُسْتَحَثّة بمواد كيميائية يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين NDE وOBE من حيث الآلية العصبية لا يزال محل نقاش."
-- "الفرق بين NDE في الأطفال والبالغين (Morse، Perry) يحتاج توثيقاً."
+  - "التمييز بين NDE العَرَضية وNDE المُسْتَحَثّة بمواد كيميائية يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين NDE وOBE من حيث الآلية العصبية لا يزال محل نقاش."
+  - "الفرق بين NDE في الأطفال والبالغين (Morse، Perry) يحتاج توثيقاً."
 ---
 # تجربة الاقتراب من الموت (NDE): بين العَالَم والمَوت
 

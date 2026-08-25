@@ -19,8 +19,6 @@ related:
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
 - id: "thk-msolomon", title: "ماريون سولومون", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "كتاب دان سيغل (Dan Siegel) التأسيسي 'العقل النامي' (The Developing Mind, 1999) ومفهوم التكامل العصبي (Neural Integration)."
   - "تعريف العقل كـ'عملية مجسدة وبينية تنظم تدفق الطاقة والمعلومات' (Embodied and Relational Process)."

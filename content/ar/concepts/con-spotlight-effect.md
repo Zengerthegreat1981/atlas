@@ -16,8 +16,6 @@ related:
 - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-daniel-gilbert", title: "دانيال جيلبرت", type: "مفكر"
 - id: "stu-chabris-simons-invisible-gorilla", title: "تجربة دانيال سيمونز وكريستوفر شابريس للغوريلا غير المرئية (1999)", type: "دراسة وبحث"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تجارب توماس غيلوفيتش وكينيث سافيتسكي (Gilovich et al. 2000) الشهيرة في جامعة كورنيل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

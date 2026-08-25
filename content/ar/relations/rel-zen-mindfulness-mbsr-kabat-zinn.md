@@ -13,9 +13,6 @@ edges:
 - rel: "relates_to", target: "sch-zen-soto", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-act", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
 - id: "rel-behavioral-activation-depression", title: "التنشيط السلوكي والاكتئاب: من Lewinsohn إلى Jacobson", type: "علاقة بين مدرستين"

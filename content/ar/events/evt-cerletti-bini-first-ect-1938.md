@@ -10,13 +10,9 @@ active_start: 1938
 active_end: "مستمر"
 country: "إيطاليا"
 part: "philosophy"
-edges:
-  []
 related:
 - id: "dbt-ect-efficacy-and-ethics", title: "جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية", type: "جدل"
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 gaps:
   - "تطوير الصدمة المعدلة (Modified ECT) بالتخدير ومرخيات العضلات في الخمسينيات يتطلب توثيقاً"

@@ -15,9 +15,6 @@ edges:
 - rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
 related:
 - id: "exp-spinoza-excommunication-amsterdam", title: "حرمان سبينوزا الكنسي في أمستردام (1656) وعزلته التنويرية", type: "خبرة معيشة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-spinoza", title: "سبينوزا", type: "مفكر"
 gaps:
   - "بنية الأجزاء الخمسة: الله، طبيعة النفس، أصل الانفعالات، عبودية الإنسان، وحرية الإنسان."

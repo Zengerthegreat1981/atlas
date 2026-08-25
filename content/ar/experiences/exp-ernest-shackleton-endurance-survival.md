@@ -12,8 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "que-why-is-there-suffering-existential", title: "المعاناة والنمو الإنساني", type: "سؤال توليدي"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

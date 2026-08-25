@@ -15,7 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:

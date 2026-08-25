@@ -15,7 +15,6 @@ active_end: 1924
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "تأثيرها على Anna Freud و Klein غير معترف به رسمياً، يحتاج عرضاً دقيقاً."

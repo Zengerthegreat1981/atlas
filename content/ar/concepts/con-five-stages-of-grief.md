@@ -16,8 +16,6 @@ related:
 - id: "wrk-on-death-and-dying", title: "عن الموت والاحتضار", type: "عمل / كتاب"
 - id: "thk-kubler-ross", title: "إليزابيث كوبلر-روس", type: "مفكر"
 - id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التأكيد المعاصر على أن المراحل ليست خطية متسلسلة بل أمواجاً وجدانية متداخلة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

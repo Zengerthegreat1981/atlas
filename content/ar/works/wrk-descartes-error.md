@@ -17,9 +17,6 @@ edges:
 related:
 - id: "con-somatic-marker", title: "العلامة الجسدية (Somatic Marker)", type: "مفهوم"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Putnam / Penguin) لم تُراجع من مصدر أولي."
   - "تفاصيل تجارب Iowa Gambling Task (Bechara et al., 1994) لم تُراجع من مصدر أولي."

@@ -6,12 +6,10 @@ level: "متوسط"
 title: "انعقاد المؤتمر الدولي الأول للعلاج النفسي في باد هومبورغ 1924"
 en: "First International Conference on Psychotherapy, Bad Homburg 1924"
 crumb: "العلاج النفسي ← تاريخ الحقل ← مؤتمر باد هومبورغ للعلاج النفسي"
-active_start: 1924-04-22
-active_end: 1924-04-23
+active_start: "1924-04-22"
+active_end: "1924-04-23"
 country: "ألمانيا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
@@ -20,7 +18,6 @@ related:
 - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "السجلات الكاملة للمحاضرات الإحدى عشرة الرسمية في المؤتمر (بنصها الأصلي) تتطلب الوصول إلى أرشيف مكتبة الكانتون في زيورخ"
   - "الأسماء الكاملة للمشاركين الإحدى والخمسين (المعروفين من سجلات يونغ) تحتاج استكمالاً"

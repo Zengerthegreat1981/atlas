@@ -18,8 +18,6 @@ related:
 - id: "sch-quinean-naturalism", title: "الطبيعانية التحليلية (الكواينية)", type: "مدرسة"
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
 - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "ردود الفعل المباشرة لوجنراخ وغرام على المقال لم تُراجع من رسائلهم."
   - "لا يوجد اقتباس مباشر موثوق من النص الأصلي المنشور في 'Philosophical Review'."

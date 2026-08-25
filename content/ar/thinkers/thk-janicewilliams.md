@@ -15,7 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-trore", title: "ماسون دوري", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."

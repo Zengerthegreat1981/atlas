@@ -15,9 +15,6 @@ edges:
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
 - id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تجارب روبرت يركيز وجون دودسون الأصلية (1908) ونموذج القوس المقلوب (Inverted-U Model)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

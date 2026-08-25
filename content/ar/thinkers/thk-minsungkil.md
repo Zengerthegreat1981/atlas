@@ -15,10 +15,6 @@ crumb: "الأطلس ← thinkers ← مين سونغ-كيل"
 edges:
 - rel: "belongs_to", target: "علاج الهوابيونغ (Hwabyung)", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."

@@ -23,7 +23,6 @@ related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
 - id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر", type: "مدرسة"
 - id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"

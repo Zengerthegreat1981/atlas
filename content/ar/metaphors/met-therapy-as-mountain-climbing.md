@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 gaps:

@@ -16,8 +16,6 @@ related:
 - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
 - id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
 - id: "con-quality-world", title: "العالم النوعي (Quality World)", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة لافتراضات نظرية الاختيار (الأفعال، الأفكار، المشاعر، الفسيولوجيا) تحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من غلاسر بعد."

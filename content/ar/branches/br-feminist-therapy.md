@@ -15,7 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
 - id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"
 - id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"

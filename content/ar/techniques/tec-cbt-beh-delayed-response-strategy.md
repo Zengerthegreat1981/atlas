@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "تقنية STOP (DBT)", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-bulimia-nervosa", title: "النهام العصبي (بوليميا)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-exhibitionistic", title: "اضطراب الاستعراء (Exhibitionistic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-fetishistic", title: "اضطراب الفيتشية (Fetishistic Disorder)", type: "اضطراب/حالة إكلينيكية"

@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-buddha", title: "بوذا", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المعاناة (con-suffering)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: مشكلة الشر (con-evil)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: أيوب (thk-job)"
-- "المصادر الأولية (Buddha، Job، Frankl، Camus) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الألم الجسدي' و'الألم النفسي' و'الألم الوجودي' يحتاج فصلاً."
-- "العلاقة بـ'الصدمة' (Trauma) في DSM-5 و'المعاناة' (Suffering) في الفلسفة تحتاج توثيقاً."
+  - "المصادر الأولية (Buddha، Job، Frankl، Camus) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الألم الجسدي' و'الألم النفسي' و'الألم الوجودي' يحتاج فصلاً."
+  - "العلاقة بـ'الصدمة' (Trauma) في DSM-5 و'المعاناة' (Suffering) في الفلسفة تحتاج توثيقاً."
 ---
 # لِمَاذَا نَتَأَلَّم؟
 

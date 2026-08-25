@@ -13,9 +13,6 @@ edges:
 - rel: "relates_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "exp-helen-keller-water-pump-breakthrough", title: "لحظة هيلين كيلر عند مضخة الماء مع آن سوليفان وميلاد الوعي باللغة", type: "خبرة معيشة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

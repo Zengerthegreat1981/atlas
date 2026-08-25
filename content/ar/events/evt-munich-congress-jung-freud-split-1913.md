@@ -10,13 +10,9 @@ active_start: 1913
 active_end: 1914
 country: "ألمانيا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "exp-jung-confrontation-unconscious", title: "سرد يونغ الذاتي لخبرة المواجهة مع اللاوعي والكتاب الأحمر", type: "خبرة معيشة"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 gaps:
   - "حادثة إغماء فرويد الشهيرة في فندق بارك رويال بميونخ بحضور يونغ عام 1912 تتطلب توثيقاً سيكودينامياً"

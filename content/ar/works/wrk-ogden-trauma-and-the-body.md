@@ -13,10 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
 - id: "met-sensorimotor-somatic-container", title: "الإناء الجسدي الحاوي في السنسوريموتور: استعارة نافذة التحمل الحركي", type: "استعارة/مجاز مؤسِّس"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

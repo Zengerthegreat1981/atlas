@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-writing-therapy", title: "العلاج بالكتابة", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

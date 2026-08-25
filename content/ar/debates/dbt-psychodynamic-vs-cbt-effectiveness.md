@@ -21,7 +21,6 @@ related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

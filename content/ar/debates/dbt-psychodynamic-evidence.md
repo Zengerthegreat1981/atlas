@@ -13,15 +13,13 @@ edges:
 - rel: "relates_to", target: "sch-psychodynamic-therapy", target_type: "مدرسة"
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 - id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جيفن شيدلر (thk-shedler)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: EVT ضد EBP (dbt-evidence-based-vs-empirically-validated)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Shedler, 2010)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Shedler, 2010)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل فَعَّالِيَّة الْعِلَاج النَّفْسَحَرَكِيّ: هَل يَعْمَل؟

@@ -13,10 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-absurdism", target_type: "مدرسة"
 related:
 - id: "sch-absurdism", title: "العبثية (Absurdism / Le Mythe de Sisyphe)", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "المخطوطات والترجمات النقدية المعاصرة وتاريخ تلقي العمل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

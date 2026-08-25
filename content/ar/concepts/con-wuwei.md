@@ -15,8 +15,6 @@ related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "con-dao", title: "الداو (道) — المبدأ الكوني", type: "مفهوم"
 - id: "thk-laozi", title: "لاو تزو", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين 'وو وي' في 'Dao De Jing' و'وو وي' في 'Zhuangzi' (النسبية) لم يُحلّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

@@ -16,8 +16,6 @@ edges:
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ Ignacio Martín-Baró في UCA (El Salvador) يستحق توثيقاً."

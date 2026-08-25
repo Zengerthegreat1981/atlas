@@ -15,7 +15,6 @@ active_end: 1979
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

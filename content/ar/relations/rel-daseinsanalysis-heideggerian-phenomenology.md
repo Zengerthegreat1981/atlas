@@ -16,7 +16,6 @@ related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
 gaps:
   - "Binswanger و Boss لم يكونا طلابا مباشرَين لـ Heidegger (Boss حضر محاضراته 1946-47، لكن لم يكمل أطروحة تحت إشرافه). التوثيق الأكاديمي لطبيعة العلاقة بين Boss و Heidegger يحتاج دقة."
   - "الفرق بين \"تحليل الدازاين\" (Boss) و\"التحليل الوجودي\" (Längle) موثّق جزئياً لكن لا يزال موضع خلاف أكاديمي."

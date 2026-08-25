@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
 - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Milkweed Editions الأصلية (2013)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

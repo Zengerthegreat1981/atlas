@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
 - id: "thk-hu-shi", title: "هو شي", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ كتابات هو شي في *New Youth* (新青年)، المجلدات 4–7."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

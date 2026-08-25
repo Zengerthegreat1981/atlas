@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
 - id: "thk-ge-hong", title: "غي هونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتقنيات التأمّل الداخلي في لو بينغ وسو شي لم تُقارن بالنص الأصلي."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

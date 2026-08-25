@@ -18,8 +18,6 @@ related:
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تجارب ألبرت باندورا على دمية بوبو (Bobo Doll Experiment) ونمذجة العدوان."
   - "مفهوم 'الكفاءة الذاتية المدركة' (Self-Efficacy) وعلاقتها بالدافعية والتغيير الإكلينيكي."

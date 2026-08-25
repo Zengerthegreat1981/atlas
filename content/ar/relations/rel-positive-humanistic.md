@@ -12,8 +12,6 @@ edges:
 - rel: "connects", target: "", target_type: "مدرسة"
 - rel: "connects", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
-- id: "sch-positive-psychology", title: "", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "rel-empiricism-behaviorism", title: "التجريبية البريطانية والمدرسة السلوكية", type: "علاقة بين مدرستين"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"

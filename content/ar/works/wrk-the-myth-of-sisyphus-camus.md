@@ -14,9 +14,6 @@ active_end: 1942
 edges:
 - rel: "belongs_to", target: "sch-absurdism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 gaps:
   - "العبارة الافتتاحية: 'هناك مشكلة فلسفية واحدة حقيقية وجادة حقاً: إنها الانتحار'."

@@ -16,8 +16,6 @@ related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
 - id: "syn-middle-child", title: "متلازمة الطفل الأوسط والبحث عن الهوية (Middle Child Syndrome)", type: "متلازمة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أبحاث ألفرد أدلر في 'دراسة حول القصور العضوي وتعويضه النفسي' (1907) وكتاب 'طبيعة الإنسان' (1927)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

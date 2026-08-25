@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
 - id: "thk-bookchin", title: "موراي بووكين", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Institute for Social Ecology الأصلية (1982) ولا طبعة AK Press (2005)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

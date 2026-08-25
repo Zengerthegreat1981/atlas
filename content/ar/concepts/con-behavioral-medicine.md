@@ -14,9 +14,6 @@ edges:
 related:
 - id: "tec-behavioral-medicine", title: "الطب السلوكي/الصحة السلوكية (تدخل)", type: "تقنية/تدخل علاجي"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التمييز بين «Behavioral Medicine» و «Health Psychology» و «Psychosomatic Medicine» — موضع بحث."

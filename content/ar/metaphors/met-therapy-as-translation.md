@@ -11,10 +11,6 @@ active_start: 1980
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-constructivist", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جورج كيلي (thk-george-kelly)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: كينيث جيرغن (thk-gergen)"

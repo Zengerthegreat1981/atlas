@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "wrk-attachment-loss-volume1", title: "التعلق (المجلد الأول، 1969)", type: "عمل / كتاب"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "تقارير منظمة الصحة العالمية التي سبقته (Spitz, 1945) وتأثيرها على قرار إسناد التقرير لباولبي لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

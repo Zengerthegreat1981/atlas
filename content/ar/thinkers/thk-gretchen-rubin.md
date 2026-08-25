@@ -17,9 +17,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس الشعبي وعلم نفس السعادة", target_type: "مدرسة"
 related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "wrk-happiness-project", title: "مشروع السعادة", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."

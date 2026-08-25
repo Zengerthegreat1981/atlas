@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
 - id: "thk-bookchin", title: "موراي بووكين", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Institute for Social Ecology الأصلية (1982)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

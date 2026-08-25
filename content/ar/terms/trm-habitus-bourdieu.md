@@ -11,20 +11,16 @@ active_start: 1972
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-sociology", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: بيير بورديو (thk-bourdieu)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: مارسيل موس (thk-mauss)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: إميل دوركهايم (thk-durkheim)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الْبِنْيَة الاجْتِمَاعِيَّة (con-social-structure)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: رَأْس المَال (con-capital)"
-- "الفرق بين Habitus عند بورديو وHabitus عند أرسطو (Aisthesis) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "العلاقة بـ'البرامج المعرفية الضمنية' (Implicit Cognitive Programs) في علم النفس الاجتماعي تحتاج فصلاً."
-- "النقد النسوي (McCall، 1992) لـ'Habitus' كـ'فئة ذكورية' يحتاج توثيقاً."
+  - "الفرق بين Habitus عند بورديو وHabitus عند أرسطو (Aisthesis) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "العلاقة بـ'البرامج المعرفية الضمنية' (Implicit Cognitive Programs) في علم النفس الاجتماعي تحتاج فصلاً."
+  - "النقد النسوي (McCall، 1992) لـ'Habitus' كـ'فئة ذكورية' يحتاج توثيقاً."
 ---
 # الهَابِيتُوس (Habitus) عند بورديو: البِنْيَة المُنْتَجَة للعادات
 

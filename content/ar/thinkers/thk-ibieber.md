@@ -15,7 +15,6 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:

@@ -15,7 +15,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:

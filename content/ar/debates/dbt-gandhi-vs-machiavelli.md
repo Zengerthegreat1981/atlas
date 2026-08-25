@@ -15,8 +15,6 @@ related:
 - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 - id: "con-satyagraha", title: "ساتياغراها", type: "مفهوم"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ كتابات المنظّرين السياسيين المعاصرين (Hind Swaraj لا يصلح وحده)."
   - "لا اقتباس مباشر موثّق في هذا الملف."

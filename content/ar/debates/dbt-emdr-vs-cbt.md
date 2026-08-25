@@ -15,12 +15,10 @@ related:
 - id: "thk-resick", title: "باتريشيا أ. ريسك", type: "مفكر"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "crt-critique-of-emdr", title: "نقد EMDR", type: "نقد خارجي موثَّق"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باميلا ريسيك (thk-resick)."
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Resick et al., 2002; Power et al., 2002)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Resick et al., 2002; Power et al., 2002)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # جِدَل EMDR ضِد CBT لِـ**PTSD**
 

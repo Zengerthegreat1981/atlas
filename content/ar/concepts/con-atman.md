@@ -17,8 +17,6 @@ related:
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "thk-shankara", title: "شانكارا", type: "مفكر"
 - id: "con-brahman", title: "براهمان", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين «آتمان» الجاين، «آتمان» الأدفايتا، و«آتمان» في Sāṃkhya يحتاج مراجعة."
   - "لا يوجد تعريف فلسفي حديث موحد لآتْمان في الأدب العربي."

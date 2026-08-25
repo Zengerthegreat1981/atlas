@@ -17,8 +17,6 @@ related:
 - id: "wrk-book-of-proverbs", title: "سفر الأمثال (مِشْلاي)", type: "عمل / كتاب"
 - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
 - id: "thk-solomon", title: "سليمان", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين الحكمة في الأدب التوراتي والحكمة في الفلسفة اللاحقة محل بحث."
   - "لا يوجد تعريف فلسفي حديث موحد للحكمة العبرية في الأدب العربي."

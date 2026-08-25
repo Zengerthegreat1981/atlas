@@ -10,14 +10,6 @@ active_start: 1988
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التغير المؤسسي في موازين القوى المالية بين الممارسين والباحثين داخل APA في الثمانينيات يحتاج توثيقاً إحصائياً"
   - "أثر مجلة Psychological Science (الصادرة عن APS) في نشر حركة العلوم المفتوحة يتطلب استعراضاً"

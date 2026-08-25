@@ -16,9 +16,6 @@ edges:
 related:
 - id: "crt-kant-critique-of-metaphysics", title: "نقد كانط للميتافيزيقا الدوغمائية الكلاسيكية", type: "نقد خارجي موثَّق"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "المتناقضات العقلية الأربع (Antinomies of Pure Reason) واستحالة البرهان العقلي الخالص على مسائل الميتافيزيقا التقليدية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

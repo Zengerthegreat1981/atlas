@@ -18,7 +18,6 @@ edges:
 - rel: "developed", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-david-schwartz", title: "ديفيد شوارتز", type: "مفكر"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
 - id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية", type: "مفهوم"
 gaps:

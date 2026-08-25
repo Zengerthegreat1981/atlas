@@ -19,8 +19,6 @@ related:
 - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
 - id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
 - id: "thk-thomas-reid", title: "توماس ريد", type: "مفكر"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«التنوير الاسكتلندي» (sch-scottish-enlightenment) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

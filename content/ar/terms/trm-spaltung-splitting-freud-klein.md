@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "met-klein-good-bad-breast", title: "الثدي الجيد والسيئ", type: "استعارة/مجاز مؤسِّس"
 gaps:

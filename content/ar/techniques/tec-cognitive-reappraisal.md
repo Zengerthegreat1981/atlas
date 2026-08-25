@@ -9,14 +9,11 @@ crumb: "المدرسة الوجودية ← التقنيات والتدخلات 
 part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "ctx-phenomenology-husserl", title: "الفينومينولوجيا الهوسرلية", type: "سياق/تقليد"
 - id: "syn-dissociation", title: "الانفصال (dissociation)", type: "متلازمة"
 - id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "هذا مدخل أول تأسيسي لنوع 'التقنية/التدخل العلاجي' — لم تُضَف بعد تقنيات أخرى موثقة (كالتعرض التدريجي أو اليقظة الذهنية) رغم أهميتها الواضحة"
   - "لا توجد بعد دراسات فعالية محددة موثقة (يمكن ربطها لاحقاً بنوع 'دراسة وبحث' الجديد أيضاً) لدعم هذا الادعاء تجريبياً في هذا المدخل تحديداً"

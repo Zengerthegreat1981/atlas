@@ -15,8 +15,6 @@ related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
 - id: "con-aedp-emotion", title: "العاطفة في AEDP", type: "مفهوم"
 - id: "tec-aedp-emotion-to-emotion-processing", title: "المعالجة من عاطفة إلى عاطفة", type: "تقنية/تدخل علاجي"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تفاصيل تكييف AEDP للسجون والمؤسسات محدودة في المصادر العربية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

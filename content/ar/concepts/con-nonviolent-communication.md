@@ -16,8 +16,6 @@ related:
 - id: "thk-msrosenberg", title: "مارشال روزنبرغ (التواصل اللاعنفي)", type: "مفكر"
 - id: "wrk-nonviolent-communication", title: "التواصل غير العنيف", type: "عمل / كتاب"
 - id: "thk-marshall-rosenberg", title: "مارشال روزنبرغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطبيقات NVC في مناطق النزاعات الدولية والسجون والمدارس."
   - "لا يوجد اقتباس مباشر موثوق متاح."

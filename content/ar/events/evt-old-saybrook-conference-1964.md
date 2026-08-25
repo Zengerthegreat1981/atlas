@@ -6,12 +6,10 @@ level: "متوسط"
 title: "مؤتمر أولد سايبروك وميلاد بيان علم النفس الإنساني 1964"
 en: "Old Saybrook Conference and the Founding Manifesto of Humanistic Psychology, 1964"
 crumb: "علم النفس الإنساني ← تاريخ الحركة ← مؤتمر أولد سايبروك 1964"
-active_start: 1964-05-18
-active_end: 1964-05-23
+active_start: "1964-05-18"
+active_end: "1964-05-23"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
@@ -20,8 +18,6 @@ related:
 - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
 gaps:

@@ -11,19 +11,15 @@ active_start: 2000
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: داشا كِلتنر (thk-keltner)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: بول بيف (thk-piff)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الانفعال (con-emotion)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: حالة الفيض (con-flow-state)"
-- "الفرق بين الروعة (Awe) والانفعال الديني (Religious Emotion) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الدراسات المَعْملية (Piff، Keltner) حديثة ومحدودة."
-- "التمييز بين الروعة الإيجابية (Positive Awe) والروعة السلبية (Threat Awe) يحتاج توثيقاً."
+  - "الفرق بين الروعة (Awe) والانفعال الديني (Religious Emotion) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الدراسات المَعْملية (Piff، Keltner) حديثة ومحدودة."
+  - "التمييز بين الروعة الإيجابية (Positive Awe) والروعة السلبية (Threat Awe) يحتاج توثيقاً."
 ---
 
 # تجربة الروعة والذهول (Awe): مواجهة ما يتجاوز الفهم

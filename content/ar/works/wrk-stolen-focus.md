@@ -19,8 +19,6 @@ related:
 - id: "thk-johann-hari", title: "جوهان هاري", type: "مفكر"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 - id: "wrk-anxious-generation", title: "الجيل القلق", type: "عمل / كتاب"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "أرقام المبيعات الدقيقة وقوائم NYT لا تحتاج توثيقاً إضافياً."
   - "التفريق بين 'ضعف الانتباه' كعرض و'تشتت الانتباه' كبناء إكلينيكي يحتاج تحليلاً معمارياً."

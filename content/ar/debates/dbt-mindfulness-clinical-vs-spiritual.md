@@ -14,14 +14,12 @@ edges:
 related:
 - id: "crt-critique-of-mindfulness", title: "نقد McMindfulness", type: "نقد خارجي موثَّق"
 - id: "con-mindfulness", title: "اليقظة", type: "مفهوم"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جون كابات-زين (thk-kabat-zinn)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "العلاقة بين MBSR و MBCT و Buddhism الأصلي تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "العلاقة بين MBSR و MBCT و Buddhism الأصلي تحتاج فصلاً."
 ---
 # جِدَل الْيَقَظَة كَأَدَاة عِلَاجِيّة ضِد كَمَارَسَة رُوحِيّة
 

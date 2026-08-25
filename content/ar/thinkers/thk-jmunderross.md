@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "لا تتوفر تفاصيل دقيقة عن تكوينه الأكاديمي المبكر أو مسيرته التدريبية الكاملة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

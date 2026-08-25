@@ -25,7 +25,6 @@ related:
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 - id: "con-cognitive-decentering", title: "اللامركزية المعرفية", type: "مفهوم"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "con-cbt-mbt-mindfulness-3min-breathing-space", title: "مساحة التنفس الثلاث دقائق (MBCT)", type: "مفهوم"
@@ -33,7 +32,6 @@ related:
 - id: "br-mbct-program-structure", title: "بنية برنامج MBCT", type: "تيار"
 - id: "con-doing-mode-vs-being-mode", title: "نمط الفعل مقابل نمط الكينونة في العلاج المعرفي القائم على اليقظة (MBCT)", type: "مفهوم"
 - id: "tec-mbct-3min-breathing-space", title: "تقنية مساحة التنفس الثلاث دقائق في MBCT", type: "تقنية/تدخل علاجي"
-
 gaps:
   - "النموذج الآلي (كيف تقلل MBCT خطر الانتكاسة) ما يزال مُتنازَعاً عليه تجريبياً."
   - "العلاقة بين MBCT وبحوث MBSR الأصلية (Kabat-Zinn 1990) موثّقة جزئياً."

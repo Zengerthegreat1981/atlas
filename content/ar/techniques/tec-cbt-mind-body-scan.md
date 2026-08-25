@@ -18,8 +18,6 @@ related:
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"

@@ -18,8 +18,6 @@ related:
 - id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
 - id: "thk-jamiller", title: "جاك-ألان ميلر", type: "مفكر"
 - id: "con-queer-psychoanalysis", title: "التحليل النفسي الكويري", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

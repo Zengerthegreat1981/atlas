@@ -15,10 +15,8 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "الطب النفسي والصحة النفسية العامة", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كان حقل `en` يقرأ **«Sadi-Lazaro Krapf»** ولم يُعثر لهذا الاسم على أثر؛ والعَلَم الموثَّق هو **إدواردو كرابف**."

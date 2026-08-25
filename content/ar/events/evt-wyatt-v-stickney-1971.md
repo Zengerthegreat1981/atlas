@@ -10,14 +10,6 @@ active_start: 1971
 active_end: "مستمر"
 country: "الولايات المتحدة"
 part: "philosophy"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "معايير جونسون الـ 35 لجودة المشافي النفسية (Wyatt Standards) ونسب الأطباء للمرضى تتطلب تفصيلاً"
   - "أثر الحكم في إجبار الولايات الأمريكية على تخصيص ميزانيات ضخمة لتحسين ظروف المستشفيات يحتاج توثيقاً"

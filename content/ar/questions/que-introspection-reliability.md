@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-kahneman", title: "دانيال كانيمان", type: "مفكر"
 - id: "thk-amos-tversky", title: "عاموس تفيرسكي", type: "مفكر"
 gaps:

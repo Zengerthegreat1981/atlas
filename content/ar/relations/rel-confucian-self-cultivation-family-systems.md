@@ -13,9 +13,6 @@ edges:
 - rel: "relates_to", target: "sch-confucian-early", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
 - id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
 - id: "rel-aristotle-positive-psychology", title: "الأخلاق الأرسطية وعلم النفس الإيجابي", type: "علاقة بين مدرستين"

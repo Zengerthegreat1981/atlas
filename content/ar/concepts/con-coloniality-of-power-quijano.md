@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-decolonial-latin", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-enrique-dussel", title: "إنريكي دوسيل", type: "مفكر"
 gaps:
   - "التمييز بين 'الاستعمار' كإدارة عسكرية سياسية انتهت، و'الاستعمارية' كبنية تصنيف عرقي واقتصادي ومعرفي مستمرة حتى اليوم."

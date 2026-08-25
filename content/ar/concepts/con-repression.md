@@ -9,14 +9,10 @@ en: "Repression (Psychological Defense)"
 crumb: "التحليل النفسي ← آليات الدفاع ← الكبت"
 active_start: 1895
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-afreud", title: "آنا فرويد", type: "مفكر"
 - id: "con-unconscious", title: "اللاشعور النفسي", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين الكبت الأولي (Urverdrängung) والكبت الثانوي اللاحق في كتابات فرويد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

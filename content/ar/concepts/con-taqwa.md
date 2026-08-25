@@ -18,8 +18,6 @@ related:
 - id: "sch-islamic-psychology", title: "علم النفس الإسلامي", type: "مدرسة"
 - id: "con-tawakkul", title: "التوكل", type: "مفهوم"
 - id: "que-nature-vs-nurture", title: "الفطرة", type: "سؤال توليدي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التزكية (con-tazkiyah)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الصبر (con-sabr)"

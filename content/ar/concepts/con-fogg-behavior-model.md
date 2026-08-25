@@ -16,8 +16,6 @@ related:
 - id: "wrk-tiny-habits", title: "العادات الصغيرة", type: "عمل / كتاب"
 - id: "thk-bj-fogg", title: "بي جيه فوغ", type: "مفكر"
 - id: "wrk-atomic-habits", title: "العادات الذرية", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطبيقات نموذج ستانفورد في تصميم تطبيقات الهواتف وتغيير العادات اليومية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

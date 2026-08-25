@@ -15,11 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-kohut", target_type: "مفكر"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (University of Chicago Press) لم تُراجع من مصدر أولي."
   - "الكتاب صدر بعد وفاة Kohut (1981)؛ تفاصيل إعداده للنشر من قِبَل Arnold Goldberg غير موثّقة هنا."

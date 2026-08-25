@@ -9,12 +9,7 @@ en: "Ayer Copleston 1949"
 crumb: "الفلسفة والمناظرات الكبرى ← الحوارات واللقاءات التاريخية ← مناظرة آير وكوبلستون 1949 حول الوضعية المنطقية"
 active_start: 1949
 active_end: 1949
-edges:
-  []
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dia-buber-rogers-dialogue-1957", title: "حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة", type: "حوار مع مدرسة مجاورة"
 - id: "dia-rawls-habermas-debate-1995", title: "مناظرة جون رولز ويورغن هابرماس 1995 حول العدالة", type: "حوار مع مدرسة مجاورة"
 gaps:

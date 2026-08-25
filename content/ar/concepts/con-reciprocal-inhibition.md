@@ -15,8 +15,6 @@ related:
 - id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
 - id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
 - id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "النقد الحديث (Bouton 2002) الذي أظهر أن آلية التثبيط المتبادل ليست التفسير الوحيد — موضع تفصيل."

@@ -18,8 +18,6 @@ related:
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
 - id: "thk-twolff", title: "توني فولف", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "قراءات إيما يونغ النقدية وتمايز صورة الأنيموس عن الأب وسلطة الرأي الجاهز."
   - "الأنماط الأربعة للبنية النفسية الأنثوية عند توني فولف (الأم، الهيتيرا، الأمازون، والوسيطة)."

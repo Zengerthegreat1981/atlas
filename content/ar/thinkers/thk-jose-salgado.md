@@ -15,7 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "التنويم الذاتي (كإطار علاجي)", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
 - id: "thk-emilecoue", title: "إميل كوي", type: "مفكر"
 - id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"

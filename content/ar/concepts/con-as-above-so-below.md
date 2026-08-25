@@ -17,8 +17,6 @@ related:
 - id: "wrk-corpus-hermeticum", title: "الكوربوس الهرمسية", type: "عمل / كتاب"
 - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
 - id: "con-emerald-tablet", title: "لوح الزمرد", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد تعريف فلسفي حديث موحد للمبدأ في الفلسفة العربية المعاصرة."
   - "التمييز بينه وبين «القياس» (analogy) الأرسطي غير مفصّل في الأدب العربي."

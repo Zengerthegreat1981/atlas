@@ -17,8 +17,6 @@ related:
 - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
 - id: "thk-judah-halevi", title: "يهوذا اللاوي (أبو الحسن)", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هل عرف اللاوي بـ'دلالة الحائرين'؟ هذا غير مؤكد زمنياً."
   - "لا يوجد اقتباس مباشر موثوق من أي من الطرفين متاح."

@@ -6,12 +6,10 @@ level: "متوسط"
 title: "تأسيس اللجنة السرية للتحليل النفسي (Geheimes Komitee) 1912"
 en: "Founding of the Secret Committee (Geheimes Komitee) by Freud, 1912"
 crumb: "التحليل النفسي ← تاريخ الحركة ← اللجنة السرية 1912"
-active_start: 1912-05-25
+active_start: "1912-05-25"
 active_end: 1927
 country: "ألمانيا/النمسا/المجر/سويسرا/بريطانيا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
@@ -21,7 +19,6 @@ related:
 - id: "thk-reik", title: "تيودور رايك", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "وثائق أرشيف جونز (لندن) تحتوي رسائل خاصة بين أعضاء اللجنة السرية لم تُنشر بعد"
   - "تاريخ الانشقاق الصامت لكارل أبراهام 1924 عن اللجنة (بسبب خلافات مع رانك) يحتاج توثيقاً منفصلاً"

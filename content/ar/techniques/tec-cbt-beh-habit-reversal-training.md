@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-bulimia-nervosa", title: "النهام العصبي (بوليميا)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-encopresis", title: "التبرّز اللاإرادي (Encopresis)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-enuresis", title: "التبوّل اللاإرادي (Enuresis)", type: "اضطراب/حالة إكلينيكية"

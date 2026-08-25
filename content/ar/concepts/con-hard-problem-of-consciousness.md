@@ -14,9 +14,6 @@ edges:
 related:
 - id: "dbt-mind-body-dualism-vs-physicalism", title: "جدل مشكلة العقل والجسد: الثنائية مقابل الفيزيائية والمادية", type: "جدل"
 - id: "thk-john-searle", title: "جون سيرل", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."
   - "لا يوجد اقتباس مباشر موثوق متاح."

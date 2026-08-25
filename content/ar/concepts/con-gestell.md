@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "thk-heidegger-technology", title: "مارتن هايدجر", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Vorträge und Aufsätze (1954)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -18,7 +18,6 @@ related:
 - id: "wrk-dialectic-sex", title: "جدلية الجنس (The Dialectic of Sex, 1970)", type: "عمل / كتاب"
 - id: "con-patriarchy", title: "النظام الأبوي (البطريركية)", type: "مفهوم"
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "نص The Dialectic of Sex (1970) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

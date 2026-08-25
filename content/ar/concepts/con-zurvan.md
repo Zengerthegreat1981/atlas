@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "مفهوم زروان ليس مفهوماً فلسفياً موحداً، بل تفسير متأخر متشعب."
   - "لا يوجد تعريف حديث معتمد لمفهوم زروان في الفلسفة العربية."

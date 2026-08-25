@@ -9,16 +9,11 @@ en: "Sequencing in Depression Treatment: Medication, Psychotherapy, or Combinati
 crumb: "علم النفس الإكلينيكي ← جدل الأدوية والعلاج النفسي ← تسلسل علاج الاكتئاب"
 active_start: 2006
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-major-depressive", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-medication-children", title: "جِدَل دَوَاء الاضْطِرَابات النَّفْسِيّة لِلْأَطْفَال", type: "جدل"

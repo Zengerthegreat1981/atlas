@@ -16,8 +16,6 @@ related:
 - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
 - id: "wrk-happiness-trap", title: "فخ السعادة", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تجارب دانيال ويغنر (Daniel Wegner 1987) في جامعة هارفارد المستوحاة من مقولة تولستوي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 - id: "thk-kernberg", title: "أوتو كيرنبيرغ", type: "مفكر"
 gaps:

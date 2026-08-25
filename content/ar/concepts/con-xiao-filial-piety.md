@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "thk-ttu", title: "توي وي-مينغ (دو وي-مينغ)", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

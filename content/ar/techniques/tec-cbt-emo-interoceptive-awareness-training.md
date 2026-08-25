@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-arfid", title: "اضطراب تجنّب/تقييد الطعام (ARFID)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-genito-pelvic-pain", title: "اضطراب الألم التناسلي الحوضي / الاختراق", type: "اضطراب/حالة إكلينيكية"

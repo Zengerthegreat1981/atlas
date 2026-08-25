@@ -17,9 +17,6 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-deniswaitley", title: "دينيس ويتلي", type: "مفكر"
 - id: "con-flow", title: "التدفق (Flow)", type: "مفهوم"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
-
 gaps:
   - "تاريخ 'Performance Psychology' كحقل أكاديمي مقابل 'Sport Psychology' يستحق مصدراً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

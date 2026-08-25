@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-philosophy-of-religion", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "exp-mystical-experience-james", title: "التجربة الصوفية", type: "خبرة معيشة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: رودولف أوتو (thk-otto)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ميرتشيا إلياد (thk-elade)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التجربة الدينية (con-religious-experience)"
-- "التمييز بين Numinous وMystical في الأدبيات الحديثة يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الترجمات العربية (المَقدس، الإلهي، الرائع) تحتاج توحيداً."
-- "الفرق بين الخوف الديني والخوف المرضي من الله (Religious OCD، Scrupulosity) يحتاج توثيقاً."
+  - "التمييز بين Numinous وMystical في الأدبيات الحديثة يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الترجمات العربية (المَقدس، الإلهي، الرائع) تحتاج توحيداً."
+  - "الفرق بين الخوف الديني والخوف المرضي من الله (Religious OCD، Scrupulosity) يحتاج توثيقاً."
 ---
 # التجربة العددية (Numinous) عند رودولف أوتو: المَهيب المُتَعالي
 

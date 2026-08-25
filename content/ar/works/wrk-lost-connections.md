@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-johann-hari", title: "يوهان هاري", type: "مفكر"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Bloomsbury) لم تُراجع من مصدر أولي."
   - "نقد Horowitz & Davies (2018) في Lancet للكتاب لم يُراجع من مصدر أولي."

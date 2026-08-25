@@ -18,8 +18,6 @@ related:
 - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "تجربة «الطائفة المنتحرة» (When Prophecy Fails, 1956) وتأثيرها على صياغة نظرية التنافر لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

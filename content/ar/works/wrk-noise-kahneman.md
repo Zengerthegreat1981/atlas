@@ -19,8 +19,6 @@ related:
 - id: "thk-kahneman", title: "دانيال كانيمان", type: "مفكر"
 - id: "wrk-thinking-fast-slow", title: "التفكير، السريع والبطيء", type: "عمل / كتاب"
 - id: "stu-kahneman-tversky-heuristics-biases", title: "دراسة كانمان وتفيرسكي للحدس والانحيازات المعرفية واستدلال التوافر والتثبيت", type: "دراسة وبحث"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "التفريق المنهجي بين 'الضوضاء' و'التحيز' في نموذج كانيمان يحتاج توضيحاً أكثر دقة."
   - "البروتوكولات المؤسسية 'لقمع الضوضاء' (Decision-Making Hygiene) تحتاج توثيقاً لدراسات الحالة."

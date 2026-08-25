@@ -18,8 +18,6 @@ related:
 - id: "thk-mathew", title: "مايكل ماثيوز", type: "مفكر"
 - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التوثيق الأرشيفي لتأسيس معاهد زيورخ ولندن وسان فرانسيسكو والتطور المؤسسي لـ IAAP."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

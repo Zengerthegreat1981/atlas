@@ -17,9 +17,6 @@ related:
 - id: "thk-lhatch", title: "ليندا هاتش", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-eblanche", title: "إرنا بلانش", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
-
 gaps:
   - "تاريخ USC وJean Ayres Sensory Integration (JASI) Lab يستحق توثيقاً."
   - "الفرق بين Ayres SI وSensory-Based Interventions يستحق توضيحاً."

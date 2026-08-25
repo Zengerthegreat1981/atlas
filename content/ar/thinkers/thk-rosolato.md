@@ -15,7 +15,6 @@ active_end: 2019
 edges:
 - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
 gaps:

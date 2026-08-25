@@ -6,19 +6,16 @@ level: "متوسط"
 title: "صدور قانون لانترمان-بترس-شورت في كاليفورنيا 1967"
 en: "California Lanterman-Petris-Short Act of 1967"
 crumb: "الصحة النفسية ← السياسات ← قانون LPS 1967 في كاليفورنيا"
-active_start: 1967-07-01
+active_start: "1967-07-01"
 active_end: "مستمر (مع تعديلات لاحقة)"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
 - id: "thk-cooper", title: "ميك كوبر", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
   - "النصوص الكاملة للجلسات البرلمانية في ساكرامنتو (يناير - مايو 1967) تتطلب أرشيف الولاية"
   - "تأثير القانون على حركة 'إلغاء المصحات' (Deinstitutionalization) في السبعينيات يحتاج فصلاً موثَّقاً"

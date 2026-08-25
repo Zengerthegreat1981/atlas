@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 - rel: "co-developed", target: "النظرية العلائقية الثقافية", target_type: "تيار"
 related:
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "con-mutual-empathy", title: "التمكين والتعاطف المتبادل (Mutual Empathy)", type: "مفهوم"
 gaps:

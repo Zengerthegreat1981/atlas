@@ -18,7 +18,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
 - rel: "developed", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "تيار"
 related:
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"

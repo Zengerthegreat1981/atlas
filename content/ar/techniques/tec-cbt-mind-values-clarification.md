@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم (ACT)", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."

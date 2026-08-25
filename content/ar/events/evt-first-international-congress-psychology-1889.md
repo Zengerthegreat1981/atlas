@@ -6,12 +6,10 @@ level: "متوسط"
 title: "انعقاد المؤتمر الدولي الأول لعلم النفس في باريس 1889"
 en: "First International Congress of Psychology, Paris 1889"
 crumb: "علم النفس ← تاريخ علم النفس ← المؤتمر الدولي الأول لعلم النفس"
-active_start: 1889-08-05
-active_end: 1889-08-10
+active_start: "1889-08-05"
+active_end: "1889-08-10"
 country: "فرنسا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
@@ -20,7 +18,6 @@ related:
 - id: "thk-aliebeault", title: "أمبرواز ليبو", type: "مفكر"
 - id: "thk-jdollard", title: "جون دولارد", type: "مفكر"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الأرشيف الأصلي لكشوف المشاركين وأسماء البحوث الـ 27 المعروضة في المؤتمر موزع بين الجمعية الفرنسية لتاريخ علم النفس وأرشيف مختبرات فونت في لايبتسيغ"
   - "الدور الدقيق الذي لعبه كل من تيوموف أرموند ريبو وهنري بوينس في صياغة جدول الأعمال يتوقف على إعادة قراءة رسائلهما المتبادلة"

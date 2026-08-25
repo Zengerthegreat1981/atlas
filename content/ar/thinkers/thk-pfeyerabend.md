@@ -15,9 +15,6 @@ active_end: 1993
 edges:
 - rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لتطور موقف فايرابند من بوبر لم تُحلّل."

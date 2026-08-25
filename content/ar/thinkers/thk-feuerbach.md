@@ -15,9 +15,7 @@ active_end: 1872
 edges:
 - rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-hegel", title: "هيغل", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:

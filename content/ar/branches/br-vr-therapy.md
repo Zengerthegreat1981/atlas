@@ -17,9 +17,6 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-vr-exposure-ptsd", title: "التعرض بالواقع الافتراضي لـPTSD", type: "تقنية/تدخل علاجي"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
-
 gaps:
   - "لا تاريخ نهاية موثّق — المجال في توسّع مستمر مع تحسّن تكنولوجيا الـhead-mounted displays."
   - "لم يُراجع من مصدر أولي مباشر بعد."

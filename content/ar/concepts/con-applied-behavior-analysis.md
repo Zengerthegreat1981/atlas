@@ -15,8 +15,6 @@ related:
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
 - id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "نسبة الإطار إلى Baer, Wolf, Risley (1968) تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

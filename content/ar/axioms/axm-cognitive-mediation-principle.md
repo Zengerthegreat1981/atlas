@@ -8,14 +8,13 @@ title: "مبدأ الوساطة المعرفية (تحديد الأفكار لل
 en: "Cognitive Mediation Principle: Thoughts Mediate Emotional Response"
 crumb: "علم النفس ← المبادئ التأسيسية ← مبدأ الوساطة المعرفية"
 active_start: 1955
-active_end: مستمر
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي", type: "مدرسة"
-  - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-  - id: "thk-beck", title: "آرون بيك", type: "مفكر"
-  - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
+- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

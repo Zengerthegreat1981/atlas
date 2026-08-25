@@ -9,14 +9,6 @@ crumb: "المدرسة الوجودية ← الدراسات والأبحاث �
 active_start: 1968
 active_end: 1968
 part: "psychology"
-edges:
-  []
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الانتقادات الإحصائية المنهجية التي وجهها روبرت ثورندايك (Robert Thorndike) للاختبارات المستخدمة تتطلب توثيقاً نقدياً"
   - "تكرارات لاحقة في مجالات القيادة الإدارية والرياضية أظهرت حجوم تأثير متباينة"

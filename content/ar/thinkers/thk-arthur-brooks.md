@@ -17,7 +17,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
 related:
 - id: "wrk-build-life-you-want", title: "ابنِ الحياة التي تريدها: فن العلم للسعادة", type: "عمل / كتاب"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
 - id: "thk-oprah-winfrey", title: "أوپرا وينفري", type: "مفكر"
 gaps:

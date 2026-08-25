@@ -18,8 +18,6 @@ related:
 - id: "thk-sartre", title: "سارتر", type: "مفكر"
 - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

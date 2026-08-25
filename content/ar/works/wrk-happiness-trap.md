@@ -18,9 +18,6 @@ edges:
 related:
 - id: "thk-russ-harris", title: "روس هاريس", type: "مفكر"
 - id: "con-ironic-process-theory", title: "نظرية المعالجة الارتدادية (تأثير الدب الأبيض وقمع الأفكار)", type: "مفهوم"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-anorexia-nervosa", title: "القهم العصبي (أنوريكسيا)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-premenstrual-dysphoric-disorder", title: "اضطراب ما قبل الطمث الاكتئابي", type: "اضطراب/حالة إكلينيكية"
 gaps:

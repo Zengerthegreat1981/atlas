@@ -16,10 +16,7 @@ edges:
 related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
-
 gaps:
   - "لا تاريخ نهاية موثّق."
   - "الفرق الدقيق بين 'Affective Neuroscience' كحقل علمي و'...informed psychotherapy' كتيار علاجي لم يُراجع من مصدر أولي."

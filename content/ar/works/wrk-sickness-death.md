@@ -18,8 +18,6 @@ related:
 - id: "thk-kierkegaard", title: "كيركيغارد", type: "مفكر"
 - id: "thk-holzhey", title: "هولتسهي-كونتس", type: "مفكر"
 - id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

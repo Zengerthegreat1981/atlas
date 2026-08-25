@@ -15,8 +15,6 @@ related:
 - id: "thk-pepper", title: "ستيفن بِبِر", type: "مفكر"
 - id: "thk-cassirer", title: "إرنست كاسيرر", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "إسهام بِبِر في علم نفس الإبداع غير موثّق بشكل كافٍ في المصادر العربية."
   - "نسبت الفروض إلى مدارس بعينها (الذرية، العشوائية) تحتاج تدقيقاً."

@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
 - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مقالة Bostrom الأصلية 'Existential Risks' (Journal of Evolution and Technology, 2002)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

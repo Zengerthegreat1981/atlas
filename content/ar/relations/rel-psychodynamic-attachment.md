@@ -12,12 +12,10 @@ edges:
 - rel: "connects", target: "", target_type: "مدرسة"
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "rel-act-cbt-third-wave", title: "العلاج بالقبول والالتزام والموجة الثالثة من CBT: من الجدل إلى التشارك", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
-
 gaps:
   - "الوصف أعلاه هو نقطة بداية — يحتاج توسعاً تفصيلياً بالمصادر الأولية."
 ---

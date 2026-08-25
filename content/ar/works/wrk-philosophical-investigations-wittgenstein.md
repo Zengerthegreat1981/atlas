@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "trm-sprachspiel-language-game-wittgenstein", title: "ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي", type: "مصطلح لغوي متنازع عليه"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "المخطوطات والترجمات النقدية المعاصرة وتاريخ تلقي العمل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

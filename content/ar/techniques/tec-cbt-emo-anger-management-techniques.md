@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

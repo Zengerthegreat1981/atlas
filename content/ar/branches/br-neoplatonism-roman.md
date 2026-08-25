@@ -13,9 +13,6 @@ active_end: 305
 edges:
 - rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 - id: "thk-porphyry", title: "فرفوريوس", type: "مفكر"
 gaps:

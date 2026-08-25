@@ -14,14 +14,12 @@ edges:
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "dbt-common-factors-vs-specific-ingredients", title: "العوامل المشتركة مقابل النوعية", type: "جدل"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: دينا تشامبلز (thk-chambless)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Chambless, 1995; Wampold, 2001)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "العلاقة بين EVT/EBT ومفاهيم 'evidence-based practice' في العلوم الطبية تحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Chambless, 1995; Wampold, 2001)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "العلاقة بين EVT/EBT ومفاهيم 'evidence-based practice' في العلوم الطبية تحتاج فصلاً."
 ---
 
 # جِدَل الْعِلَاج بِالْأَدِلَّة التَّجْرِيبِيَّة ضِد الْعِلَاج بِالْأَدِلَّة الْعِلْمِيَّة

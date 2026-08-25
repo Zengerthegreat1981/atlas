@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-male-hypoactive-sexual-desire", title: "اضطراب الرغبة الجنسية المنخفضة عند الذكور", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-specific-learning-disorder", title: "اضطراب التعلُّم المحدد", type: "اضطراب/حالة إكلينيكية"
 gaps:

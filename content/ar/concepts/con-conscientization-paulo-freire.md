@@ -15,8 +15,6 @@ related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 - id: "wrk-freire-pedagogy-oppressed", title: "تعليم المضطهدين (Pedagogy of the Oppressed)", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "العلاقة بين الوعي النقدي والمناهج النسوية اللاحقة (Bell Hooks) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

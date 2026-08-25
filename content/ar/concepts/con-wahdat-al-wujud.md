@@ -17,8 +17,6 @@ related:
 - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
 - id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "thk-sadreddin-konevi", title: "صدر الدين القونوي", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تأويل ابن عربي نفسه (في رسائل خاصة) قد يختلف عن 'وحدة الوجود' كما شرحها القونوي وابن سبعين."
   - "لا يوجد اقتباس مباشر موثوق من 'الفتوحات المكية'."

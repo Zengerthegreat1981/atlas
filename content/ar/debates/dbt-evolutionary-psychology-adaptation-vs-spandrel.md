@@ -15,8 +15,6 @@ related:
 - id: "met-spandrels-of-san-marco", title: "ركائز كنيسة سان ماركو لستيفن جاي غولد: استعارة النواتج التطورية العرضية", type: "استعارة/مجاز مؤسِّس"
 - id: "thk-stephen-jay-gould", title: "ستيفن جاي غولد", type: "مفكر"
 - id: "thk-david-buss", title: "ديفيد باس", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

@@ -18,8 +18,6 @@ related:
 - id: "thk-qualls-corbett", title: "نانسي كوالز-كوربت", type: "مفكر"
 - id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
 - id: "thk-twolff", title: "توني فولف", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "إعادة الاعتبار للقداسة الجنسية الأنثوية واستقلاليتها عن الهيمنة الأبوية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

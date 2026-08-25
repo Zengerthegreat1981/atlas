@@ -22,10 +22,7 @@ edges:
 - rel: "founded_by", target: "ليز غرينبرغ (Leslie Greenberg)", target_type: "مفكر"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"

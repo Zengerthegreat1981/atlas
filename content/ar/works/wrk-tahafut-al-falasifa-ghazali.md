@@ -17,8 +17,6 @@ related:
 - id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
 - id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "تحليل المسألة السابعة عشرة في نفي السببية الضرورية وتأسيس مذهب المناسبة العرضية (Occasionalism)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,9 +14,6 @@ active_end: 1186
 edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-suhrawardi", title: "السهروردي", type: "مفكر"
 gaps:
   - "شروح قطب الدين الشيرازي وشمس الدين الشهرزوري وملا صدرا على المتن."

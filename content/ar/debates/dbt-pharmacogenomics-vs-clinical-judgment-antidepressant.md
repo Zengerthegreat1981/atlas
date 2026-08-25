@@ -9,13 +9,10 @@ en: "Pharmacogenomics vs. Clinical Judgment in Antidepressant Prescribing"
 crumb: "علم النفس الإكلينيكي ← جدل الأدوية والعلاج النفسي ← الفارماكوجينوميك في الاكتئاب"
 active_start: 2015
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-major-depressive", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"

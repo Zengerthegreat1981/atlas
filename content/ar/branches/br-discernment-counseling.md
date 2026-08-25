@@ -13,12 +13,6 @@ active_end: "مستمر"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ Doherty في University of Minnesota يستحق توثيقاً."
   - "العلاقة بين Discernment و'Mediation' تستحق توثيقاً."

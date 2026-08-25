@@ -14,9 +14,6 @@ edges:
 related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "المقاييس المعيارية (Stanford Hypnotic Susceptibility Scale) ودرجات القابلية لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

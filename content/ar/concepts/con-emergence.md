@@ -15,16 +15,14 @@ related:
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"
 - id: "con-qualia", title: "الكواليا", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: سي. دي. برود (thk-broad)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: صموئيل ألكسندر (thk-alexander)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: فلسفة العقل (sch-philosophy-of-mind)"
-- "التمييز بين النشوء القوي (Strong Emergence) والنشوء الضعيف (Weak Emergence) يحتاج توثيقاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الربط مع نظرية الأنظمة المعقدة (Complex Systems Theory) ونظرية المعلومات يحتاج فصلاً."
-- "النقاشات المعاصرة في علم النفس (نظرية ديناميات الوعي، Dynamical Systems Theory) تحتاج ربطاً."
+  - "التمييز بين النشوء القوي (Strong Emergence) والنشوء الضعيف (Weak Emergence) يحتاج توثيقاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الربط مع نظرية الأنظمة المعقدة (Complex Systems Theory) ونظرية المعلومات يحتاج فصلاً."
+  - "النقاشات المعاصرة في علم النفس (نظرية ديناميات الوعي، Dynamical Systems Theory) تحتاج ربطاً."
 ---
 
 # النشوء (Emergence): خصائص لا تُختزل في أجزائها

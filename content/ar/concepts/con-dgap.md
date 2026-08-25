@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-knoblauch", title: "[مؤسِّسو DGAP] DGAP founders (ألمانيا)", type: "مفكر"
 - id: "thk-dieckmann", title: "هانز ديكمان", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تأسيس المعايير السريرية للتدريب التحليلي اليونغي والاعتراف الأكاديمي في ألمانيا الاتحادية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

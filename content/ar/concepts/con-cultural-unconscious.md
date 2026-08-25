@@ -18,8 +18,6 @@ related:
 - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الطبقة الوسيطة بين اللاوعي الجمعي الكوسمولوجي واللاوعي الشخصي الفردي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

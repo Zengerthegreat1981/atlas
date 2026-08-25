@@ -11,12 +11,6 @@ active_start: 1980
 active_end: 1980
 edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "المخطوطات والترجمات النقدية المعاصرة وتاريخ تلقي العمل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -19,8 +19,6 @@ related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
 - id: "thk-amadiume", title: "إيفي أماديومي", type: "مفكر"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "نصوص Ama Ata Aidoo, Tsitsi Dangarembga, Nawal El Saadawi, Yvonne Vera, Mariama Bâ, Chimamanda Adichie need review."

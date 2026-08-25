@@ -17,9 +17,6 @@ edges:
 related:
 - id: "thk-ibn-gabirol", title: "سليمان بن يحيى ابن جابيرول (أفيسبريم)", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "النص العربي الأصلي مفقود تماماً، معرفتنا به من خلال الترجمة اللاتينية لوهانس هيسبالينسيس (Johannes Hispalensis) وديومندوس غونزاليس (Dominicus Gundissalinus)."
   - "العلاقة بين ابن جابيرول والفلاسفة المسلمين المعاصرين (ابن سينا) موضع بحث."

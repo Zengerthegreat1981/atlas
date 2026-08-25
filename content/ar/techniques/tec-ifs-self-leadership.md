@@ -11,10 +11,6 @@ active_start: 1990
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-internal-family-systems", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ريتشارد شوارتز (thk-rschwartz)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظام الأسرة الداخلية (IFS) (con-ifs)"

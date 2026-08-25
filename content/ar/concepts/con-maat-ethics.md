@@ -14,9 +14,6 @@ edges:
 related:
 - id: "wrk-maxims-ptahhotep", title: "حكم وتعاليم بتاح حتب", type: "عمل / كتاب"
 - id: "thk-ptahhotep", title: "بتاح حتب", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "العلاقة بين ماعت ومفهوم اللوغوس اليوناني والداو الصيني."
   - "لا يوجد اقتباس مباشر موثوق متاح."

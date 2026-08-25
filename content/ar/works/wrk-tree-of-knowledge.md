@@ -18,9 +18,6 @@ edges:
 related:
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
 - id: "wrk-goldstein-organism", title: "الكائن الحي (The Organism)", type: "عمل / كتاب"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Shambhala) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

@@ -9,17 +9,12 @@ en: "Treatment-Resistant Depression: Add Medication or Switch to Psychotherapy?"
 crumb: "علم النفس الإكلينيكي ← جدل الأدوية والعلاج النفسي ← الاكتئاب المقاوم للعلاج"
 active_start: 2010
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-medication-vs-psychotherapy-stard-sequencing", title: "جدل تسلسل علاج الاكتئاب", type: "جدل"
 - id: "dbt-antidepressants-efficacy-debate", title: "جدل الفاعلية البيولوجية لمضادات الاكتئاب", type: "جدل"

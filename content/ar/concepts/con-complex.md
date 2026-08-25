@@ -18,8 +18,6 @@ related:
 - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 - id: "thk-jjacobi", title: "يولاندا ياكوبي", type: "مفكر"
 - id: "thk-bleuler", title: "أوجين بلويلَر", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "بنية العقدة: النواة الأركيتيبية المحاطة بمجموعة من الذكريات والانفعالات المشحونة شخصياً."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

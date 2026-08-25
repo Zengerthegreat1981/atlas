@@ -14,9 +14,6 @@ edges:
 related:
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 - id: "tec-erp", title: "التعرض ومنع الاستجابة (ERP)", type: "تقنية/تدخل علاجي"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز بين نموذج التعود (Habituation Model) ونموذج التعلم التثبيطي (Inhibitory Learning) في التعرض المعاصر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

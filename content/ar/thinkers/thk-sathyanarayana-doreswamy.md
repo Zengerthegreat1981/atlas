@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "علم النفس الفيدي (المستند إلى الفيد)", target_type: "مدرسة"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-svami-akhilananda", title: "سوامي أخيلاناندا", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."

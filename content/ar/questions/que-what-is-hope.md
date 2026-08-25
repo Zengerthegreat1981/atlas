@@ -12,19 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-bloch", title: "إرنست بلوخ", type: "مفكر"
 - id: "thk-marcel", title: "غابرييل مارسيل", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأمل (con-hope)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: المرونة (con-resilience)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: تشارلز سنايدر (thk-snyder)"
-- "المصادر الأولية (Snyder 1991، Bloch 1954، Marcel 1951) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الأمل' (Hope) و'التوقع' (Expectation) و'التفاؤل' (Optimism) و'اليأس' (Despair) يحتاج فصلاً."
-- "العلاقة بـ'الإيمان' (Faith) و'الرجاء' (Christian Hope) تحتاج توثيقاً."
+  - "المصادر الأولية (Snyder 1991، Bloch 1954، Marcel 1951) تحتاج مراجعة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'الأمل' (Hope) و'التوقع' (Expectation) و'التفاؤل' (Optimism) و'اليأس' (Despair) يحتاج فصلاً."
+  - "العلاقة بـ'الإيمان' (Faith) و'الرجاء' (Christian Hope) تحتاج توثيقاً."
 ---
 # ما الْأَمَل؟
 

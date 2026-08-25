@@ -18,9 +18,6 @@ edges:
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "thk-laozi", title: "لاو تزو", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«كتاب تشوانغ تزو» (wrk-zhuangzi-text) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "تاريخ تأليف النصّ النهائي موضع خلاف جذري."

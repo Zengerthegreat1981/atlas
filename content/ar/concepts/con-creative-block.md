@@ -14,9 +14,6 @@ edges:
 related:
 - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 - id: "dbt-creativity-vs-pathology", title: "الإبداع مقابل المرض النفسي: قرابة حقيقية أم خرافة؟", type: "جدل"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الأساس العصبي للانسداد الإبداعي (دور الفص الجبهي، دوائر المكافأة) لم يُوثّق بدقة في الأبحاث."
   - "لا يوجد اقتباس مباشر موثوق متاح."

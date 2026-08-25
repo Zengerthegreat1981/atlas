@@ -14,9 +14,6 @@ active_end: 1260
 edges:
 - rel: "belongs_to", target: "sch-imami-kalam", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-nasir-tusi", title: "نصير الدين الطوسي", type: "مفكر"
 gaps:
   - "الشروح والتعليقات الكلامية الواسعة من متكلمي السنة والشيعة (شرح العلامة الحلي والقوشجي)."

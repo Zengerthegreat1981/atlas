@@ -19,7 +19,6 @@ edges:
 related:
 - id: "thk-jingqiyong", title: "جينغ تشي-يونغ (المؤسس المشارك)", type: "مفكر"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 - id: "con-dialectics", title: "الجدل", type: "مفهوم"
 gaps:

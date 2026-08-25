@@ -17,8 +17,6 @@ related:
 - id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
 - id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
 - id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ Lovaas's UCLA Young Autism Project يستحق توثيقاً."
   - "الجدل الأخلاقي مع neurodiversity movement لم يُراجع مصادره."

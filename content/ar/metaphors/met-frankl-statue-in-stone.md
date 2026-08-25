@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "wrk-frankl-mans-search-for-meaning", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
 gaps:

@@ -14,9 +14,6 @@ active_end: -150
 edges:
 - rel: "belongs_to", target: "sch-yoga", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-patanjali", title: "باتانجالي", type: "مفكر"
 gaps:
   - "الفصول الأربعة: الصمادي، الممارسة، القوى، والتحرر الروحي التام."

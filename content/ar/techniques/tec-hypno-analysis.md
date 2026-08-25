@@ -11,10 +11,6 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
-related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "البروتوكول (Wagreich، Brenman) لم يُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

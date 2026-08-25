@@ -13,9 +13,6 @@ active_end: 1840
 edges:
 - rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-hegel", title: "هيغل", type: "مفكر"
 - id: "con-master-slave-dialectic-hegel", title: "جدلية السيد والعبد", type: "مفهوم"
 gaps:

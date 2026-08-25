@@ -17,8 +17,6 @@ related:
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "thk-shankara", title: "شانكارا", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "ترجمة عربية موحدة لجميع الأوبانيشاد الـ108 غير متاحة."
   - "تأريخ كل أوبانشاد على حدة يحتاج مراجعة."

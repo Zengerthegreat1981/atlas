@@ -21,8 +21,6 @@ related:
 - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 - id: "thk-jgrind", title: "جون غريندر", type: "مفكر"
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "ادعاءات الأصل الأكاديمي لـNLP (UC Santa Cruz) لم تُوثّق بدقة كافية."
   - "الانتقادات الأكاديمية لـNLP (Lack of empirical support) لم تُحسم."

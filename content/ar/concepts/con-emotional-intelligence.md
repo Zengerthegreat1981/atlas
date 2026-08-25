@@ -15,8 +15,6 @@ related:
 - id: "ins-msceit-emotional-intelligence", title: "اختبار ماير-سالوفي-كاروسو للذكاء العاطفي (MSCEIT)", type: "أداة قياس"
 - id: "wrk-emotional-intelligence", title: "الذكاء العاطفي (Emotional Intelligence 1995)", type: "عمل / كتاب"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "المقارنة الإحصائية بين نموذج القدرة (Ability Model) ونموذج السمة المختلط (Trait/Mixed Model) تحتاج توثيقاً سيكومترياً إضافياً."
   - "التطبيقات الإكلينيكية لتدريب الذكاء الانفعالي في اضطراب الشخصية الحدية وتنظيم الانفعال تتطلب فصلاً مقارناً."

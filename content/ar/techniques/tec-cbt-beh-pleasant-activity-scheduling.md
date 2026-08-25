@@ -18,7 +18,6 @@ related:
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-prioritization-time-management", title: "الأولويات وإدارة الوقت", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-anorexia-nervosa", title: "القهم العصبي (أنوريكسيا)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-cyclothymia", title: "اضطراب دوروية المزاج", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-mild-neurocognitive", title: "اضطراب معرفي عصبي خفيف", type: "اضطراب/حالة إكلينيكية"

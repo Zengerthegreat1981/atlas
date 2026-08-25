@@ -16,9 +16,7 @@ edges:
 - rel: "belongs_to", target: "المدرسة الإيلية (Eleatic School)", target_type: "مدرسة"
 related:
 - id: "met-zeno-achilles-tortoise", title: "أخيل والسلحفاة لزينون: مفارقة الحركة وتجزئة اللانهاية", type: "استعارة/مجاز مؤسِّس"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-parmenides", title: "بارمنيدس", type: "مفكر"
 gaps:
   - "مفارقات الحركة المكانية (أخيل والسلحفاة، السهم الطائر، والملعب)."

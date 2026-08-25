@@ -16,8 +16,6 @@ edges:
 related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ 'Neurodiversity' كمصطلح (Judy Singer, 1998) يستحق مصدراً."

@@ -16,10 +16,6 @@ edges:
 - rel: "authored_by", target: "ولفغانغ كوهلر", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
-- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الترجمة الإنجليزية (1929، Ellis) صدرت في نفس العام تقريباً — التحقق من دقّتها للنصّ الألماني الأصلي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Köhler في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

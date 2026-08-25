@@ -9,8 +9,6 @@ en: "Reductionism vs. Holism in Psychotherapy: Neural Mechanisms or Existential 
 crumb: "علم النفس ← فلسفة العلاج النفسي ← جدل الاختزالية والكلانية في العلاج"
 active_start: 1960
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
@@ -18,10 +16,6 @@ related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"
 - id: "dbt-reductionism-vs-holism-mental-health", title: "جدل الاختزالية والكلانية في الصحة النفسية", type: "جدل"
 gaps:

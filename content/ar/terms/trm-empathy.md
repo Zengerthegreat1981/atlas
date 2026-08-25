@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-person-centered-therapy", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: تيودور لِپْس (thk-lipps)"
@@ -22,10 +19,10 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: فريد دِيزِكورتينز (thk-dezecurtins)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّوَافُق (con-attunement)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الخَلايا العَصَبيَّة المِرآتيَّة (con-mirror-neurons)"
-- "التمييز بين التعاطف المعرفي (Cognitive Empathy) والتعاطف العاطفي (Affective Empathy) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'التعاطف' (Empathy) و'الشفقة' (Sympathy/Compassion) في الفلسفة البوذية يحتاج فصلاً."
-- "الفرق بين 'التعاطف' و'الاحتواء' (Containment) في نظرية بion يحتاج توثيقاً."
+  - "التمييز بين التعاطف المعرفي (Cognitive Empathy) والتعاطف العاطفي (Affective Empathy) يحتاج فصلاً."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الفرق بين 'التعاطف' (Empathy) و'الشفقة' (Sympathy/Compassion) في الفلسفة البوذية يحتاج فصلاً."
+  - "الفرق بين 'التعاطف' و'الاحتواء' (Containment) في نظرية بion يحتاج توثيقاً."
 ---
 # التَّعَاطُف (Empathy): فَهْم الآخَر مِن دَاخِله
 

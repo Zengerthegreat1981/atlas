@@ -13,8 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-internal-family-systems", target_type: "مدرسة"
 related:
 - id: "tec-ifs-parts-mapping", title: "تخطيط الأجزاء في IFS", type: "تقنية/تدخل علاجي"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:

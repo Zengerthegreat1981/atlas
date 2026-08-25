@@ -17,8 +17,6 @@ related:
 - id: "con-as-above-so-below", title: "كما في الأعلى كذلك في الأسفل", type: "مفهوم"
 - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
 - id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تأريخ النص الأصلي قبل القرن 6 م غير ممكن."
   - "الترجمات العربية (ابن وحشية، جابر بن حيان) وفكرة «الطلسمات» تنتظر مراجعة نصية."

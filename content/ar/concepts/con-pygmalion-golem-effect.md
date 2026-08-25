@@ -15,9 +15,6 @@ edges:
 related:
 - id: "thk-dweck", title: "كارول دويك", type: "مفكر"
 - id: "wrk-mindset", title: "طريقة التفكير / العقلية", type: "عمل / كتاب"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تجارب روبرت روزنتال ولينور جاكوبسون في مدرسة أوك (Rosenthal & Jacobson 1968)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
 - id: "thk-mao-zedong", title: "ماو تسي تونغ", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ الطبعة المنشورة في مجلة *Marxist Quarterly* الأصلية (1937)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

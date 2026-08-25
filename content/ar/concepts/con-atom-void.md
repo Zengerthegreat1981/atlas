@@ -12,9 +12,6 @@ active_end: 500
 edges:
 - rel: "belongs_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-democritus", title: "ديموقريطس", type: "مفكر"
 gaps:
   - "حل الإشكالية الإيلية حول استحالة الحركة ببرهان وجود الفراغ الفيزيائي."

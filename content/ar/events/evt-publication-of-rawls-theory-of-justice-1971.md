@@ -9,12 +9,7 @@ en: "Publication Of Rawls Theory Of Justice 1971"
 crumb: "تاريخ الفلسفة والفكر ← الأحداث والمحطات الفارقة ← صدور كتاب 'نظرية في العدالة' لجون رولز (1971 م)"
 active_start: 1971
 active_end: 1971
-edges:
-  []
 related:
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 - id: "evt-founding-of-kyoto-school-1911", title: "صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م)", type: "حدث تاريخي"
 gaps:

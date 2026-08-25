@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "con-community-psychology", target_type: "مدرسة"
 related:
 - id: "thk-imartinbaro", title: "إغناثيو مارتين-بارو", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."

@@ -17,7 +17,6 @@ edges:
 - rel: "belongs_to", target: "مدرسة Bion", target_type: "تيار"
 related:
 - id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "تيار"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:

@@ -22,7 +22,6 @@ related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
 - id: "con-ren", title: "الإنسانية (仁)", type: "مفهوم"
 - id: "con-xiao-filial-piety", title: "بر الوالدين", type: "مفهوم"

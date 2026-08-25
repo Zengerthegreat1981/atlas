@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-renaissance-naturalism", target_type: "مدرسة"
 related:
 - id: "thk-galileo-galilei", title: "غاليليو غاليلي", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-descartes", title: "ديكارت", type: "مفكر"
 gaps:
   - "صدور كتاب 'حوار حول النظامين الرئيسيين للعالم' (1632) وأثر الحكم على ديكارت الذي أوقف نشر كتابه 'العالم'."

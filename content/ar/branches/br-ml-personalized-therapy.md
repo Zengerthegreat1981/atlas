@@ -15,8 +15,6 @@ edges:
 - rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 - id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 gaps:

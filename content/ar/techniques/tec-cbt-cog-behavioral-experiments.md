@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

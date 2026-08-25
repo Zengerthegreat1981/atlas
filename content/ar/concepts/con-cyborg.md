@@ -14,9 +14,6 @@ edges:
 related:
 - id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
 - id: "thk-haraway", title: "دونا هاراواي", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Routledge الأصلية (1991)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

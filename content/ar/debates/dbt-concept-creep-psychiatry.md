@@ -9,13 +9,9 @@ en: "Concept Creep in Psychiatry and Diagnostic Inflation Debate"
 crumb: "الطب النفسي والاجتماعي ← الجدليات الكبرى ← التمييع التشخيصي"
 active_start: 2013
 active_end: "مستمر"
-edges:
-  []
 related:
 - id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي والأبعادي", type: "جدل"
 - id: "wrk-myth-of-normal", title: "أسطورة الطبيعي", type: "عمل / كتاب"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "أبحاث نيك هاسلام (Nick Haslam 2016) حول التوسع الرأسي والأفقي لمفاهيم الصدمة والتحرش والإساءة والاضطراب."

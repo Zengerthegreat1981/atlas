@@ -15,8 +15,6 @@ related:
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "thk-kafka", title: "فرانز كافكا", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين الاستخدام الماركسي والوجودي للمصطلح يستحق توثيقاً منفصلاً أعمق"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

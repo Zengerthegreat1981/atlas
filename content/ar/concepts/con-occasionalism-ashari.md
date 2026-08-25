@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "thk-ashari", title: "أبو الحسن علي بن إسماعيل الأشعري", type: "مفكر"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق بين 'الكسْب' عند الأشعري و'النظرية الآلية' (Occasionalism) اللاتينية (Malebranche) موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'اللمع'."

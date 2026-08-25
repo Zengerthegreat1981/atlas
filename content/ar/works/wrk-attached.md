@@ -19,8 +19,6 @@ related:
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "thk-amir-levine", title: "أمير ليفين", type: "مفكر"
 - id: "thk-rachel-heller", title: "راشيل هيلر", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

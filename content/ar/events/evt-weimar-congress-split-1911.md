@@ -10,14 +10,9 @@ active_start: 1911
 active_end: 1911
 country: "النمسا"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 gaps:
   - "الجلسات العاصفة لجمعية فيينا في فبراير 1911 ومناقشة ورقة أدلر حول 'الاحتجاج الذكوري' تتطلب توثيقاً"
   - "استقالة تسعة أعضاء من الجمعية وتأسيس 'جمعية التحليل النفسي الحر' يحتاج تفصيلاً"

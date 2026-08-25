@@ -15,8 +15,6 @@ related:
 - id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
 - id: "rel-psychoanalysis", title: "التحليل النفسي", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."

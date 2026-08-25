@@ -15,9 +15,6 @@ edges:
 related:
 - id: "wrk-getting-things-done", title: "إنجاز المهام", type: "عمل / كتاب"
 - id: "con-getting-things-done-gtd", title: "منهجية إنجاز المهام GTD", type: "مفهوم"
-- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«كيرت ليفين» (thk-lewin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث بليوما زيغارنيك (Bluma Zeigarnik 1927) في جامعة برلين بإشراف كيرت ليفين وملاحظة النوادل في المقاهي."

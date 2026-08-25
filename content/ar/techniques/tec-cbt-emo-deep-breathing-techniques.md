@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-premature-ejaculation", title: "سرعة القذف (القذف المبكر)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-premenstrual-dysphoric-disorder", title: "اضطراب ما قبل الطمث الاكتئابي", type: "اضطراب/حالة إكلينيكية"

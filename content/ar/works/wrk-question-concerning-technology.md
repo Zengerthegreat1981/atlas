@@ -16,9 +16,6 @@ edges:
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "thk-heidegger-technology", title: "مارتن هايدجر", type: "مفكر"
-- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
-- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
-- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Vorträge und Aufsätze (Neske, 1954) ولا الترجمة الإنجليزية (Harper, 1977)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

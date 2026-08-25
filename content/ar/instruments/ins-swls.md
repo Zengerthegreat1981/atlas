@@ -9,10 +9,7 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← مقيا
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-edges:
-  []
 related:
-- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
 - id: "thk-emmons", title: "روبرت إيمونز", type: "مفكر"
 - id: "stu-harvard-adult-development", title: "دراسة هارفارد للنمو البالغ وتطور السعادة والعلاقات عبر العمر", type: "دراسة وبحث"
 gaps:

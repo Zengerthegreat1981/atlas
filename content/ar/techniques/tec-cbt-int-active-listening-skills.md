@@ -18,7 +18,6 @@ related:
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-conflict-resolution-training", title: "تدريب حل النزاعات", type: "تقنية/تدخل علاجي"
-- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -6,12 +6,10 @@ level: "متوسط"
 title: "تأسيس المعهد الوطني للصحة النفسية (NIMH) 1949"
 en: "Founding of the U.S. National Institute of Mental Health (NIMH), 1949"
 crumb: "الصحة النفسية ← السياسات ← تأسيس NIMH 1949"
-active_start: 1949-07-03
+active_start: "1949-07-03"
 active_end: "مستمر (مع إعادة هيكلة لاحقة)"
 country: "الولايات المتحدة"
 part: "psychology"
-edges:
-  []
 related:
 - id: "thk-jdollard", title: "جون دولارد", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
@@ -19,7 +17,6 @@ related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-cooper", title: "ميك كوبر", type: "مفكر"
 - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
   - "النصوص الكاملة للجلسات البرلمانية في الكونغرس الأمريكي 1946-1949 تتطلب أرشيف مكتبة الكونغرس"
   - "تأثير مذكرات همفري (Senator Hubert Humphrey) على صياغة القانون النهائي (1946) مازال موضع نقاش"

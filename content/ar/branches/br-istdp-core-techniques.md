@@ -20,7 +20,6 @@ related:
 - id: "con-repression", title: "الكبت والآليات الدفاعية الأولية", type: "مفهوم"
 - id: "con-transference", title: "التحويل في العلاقة العلاجية", type: "مفهوم"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
 gaps:
   - "الفرق الدقيق بين مستويات القلق الثلاثة في ISTDP (Anxiety as Signal / Anxiety as Inhibitor / Anxiety as Fragmentation) لم يُراجع من كتاب Davanloo (1990, 1995) مباشرة."
