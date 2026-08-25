@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2010
 active_end: 2010
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب وسيكولوجيا التعلق البالغ", target_type: "مدرسة"
-  - rel: "written_by", target: "أمير ليفين", target_type: "مفكر"
+- rel: "belongs_to", target: "علم الأعصاب وسيكولوجيا التعلق البالغ", target_type: "مدرسة"
+- rel: "written_by", target: "thk-amir-levine", target_type: "مفكر"
 related:
-  - id: "thk-amir-levine", title: "أمير ليفين", type: "مفكر"
+- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
+- id: "thk-amir-levine", title: "أمير ليفين", type: "مفكر"
+- id: "thk-rachel-heller", title: "راشيل هيلر", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

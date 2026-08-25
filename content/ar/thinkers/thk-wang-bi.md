@@ -14,14 +14,15 @@ active_start: 240
 active_end: 249
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "شوان شيويه (التعلم الغامض)", target_type: "مدرسة"
+- rel: "belongs_to", target: "شوان شيويه (التعلم الغامض)", target_type: "مدرسة"
 related:
-  - id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
-  - id: "thk-he-yan", title: "هي يان", type: "مفكر"
+- id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
+- id: "thk-he-yan", title: "هي يان", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«غوو شيانغ» (thk-guo-xiang) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التفاصيل الدقيقة لإسهاماته في تفسير 'Yi Jing' (كتاب التحولات) لم تُراجع من طبعة محقّقة هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "هوية الملف: الـslug `thk-wang-bi` يشير إلى Wang Bi (Wang Pi). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # وانغ بي (王弼، 226–249م)

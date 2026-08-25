@@ -12,11 +12,13 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: 1985
 edges:
-  - rel: "belongs_to", target: "الديمقراطية الراديكالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-radical-democracy", target_type: "مدرسة"
 related:
-  - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
-  - id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
-  - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
+- id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
+- id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
+- id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "النص الأصلي Hegemony and Socialist Strategy (1985) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

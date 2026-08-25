@@ -10,13 +10,16 @@ active_start: 1939
 active_end: 1961
 country: "إيطاليا"
 language: "الإيطالية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "coined_by", target: "نيكولا أبانانو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "coined_by", target: "thk-abbagnano", target_type: "مفكر"
 related:
-  - id: "thk-abbagnano", title: "نيكولا أبانانو", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-abbagnano", title: "نيكولا أبانانو", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد من النص الأصلي (Esistenzialismo positivo, 1948) مباشرة — هذا الوصف مبني على ما هو موثّق في صفحة أبانانو المعتمدة فقط."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."

@@ -13,10 +13,13 @@ language: "الإنجليزية"
 active_start: 2004
 active_end: 2004
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي والاقتصاد السلوكي", target_type: "مدرسة"
-  - rel: "written_by", target: "باري شوارتز", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الاجتماعي والاقتصاد السلوكي", target_type: "مدرسة"
+- rel: "written_by", target: "thk-barry-schwartz", target_type: "مفكر"
 related:
-  - id: "thk-barry-schwartz", title: "باري شوارتز", type: "مفكر"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار (Paradox of Choice)", type: "مفهوم"
+- id: "thk-barry-schwartz", title: "باري شوارتز", type: "مفكر"
+- id: "stu-iyengar-lepper-jam-study", title: "تجربة شينا إينغار ومارك ليبر لمربى الاختيار وشلل القرار (2000)", type: "دراسة وبحث"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

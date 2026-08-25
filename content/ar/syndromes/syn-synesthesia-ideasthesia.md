@@ -11,10 +11,10 @@ active_start: 1880
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-savant", title: "متلازمة العبقري / سافانت", type: "متلازمة"
-  - id: "thk-csikszentmihalyi", title: "ميهالي تشيكسينتميهالي", type: "مفكر"
+- id: "syn-savant", title: "متلازمة العبقري / سافانت", type: "متلازمة"
+- id: "thk-csikszentmihalyi", title: "ميهالي تشيكسينتميهالي", type: "مفكر"
 gaps:
   - "أبحاث فرانسيس غالتون (1880) ودراسات التصوير العصبي المعاصر لراماشاندران وبارون كوهين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

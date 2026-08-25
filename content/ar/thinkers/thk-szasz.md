@@ -11,19 +11,27 @@ active_start: 1961
 active_end: 1970
 country: "أمريكا / المجر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
-  - id: "thk-leifer", title: "رونالد لايفر", type: "مفكر"
-  - id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "thk-leifer", title: "رونالد لايفر", type: "مفكر"
+- id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
+- id: "evt-anti-psychiatry-network-london-1967", title: "مؤتمر جدليات التحرير في لندن وتأسيس شبكة فيلادلفيا في كينغسلي هول", type: "حدث تاريخي"
+- id: "evt-cerletti-bini-first-ect-1938", title: "أول تطبيق سريري للعلاج بالصدمة الكهربائية بواسطة سيرليتي وبيني في روما", type: "حدث تاريخي"
+- id: "evt-drapetomania-cartwright-1851", title: "صياغة صموئيل كارترايت لتشخيص درابتومانيا ومرضنة هروب العبيد في الجنوب الأمريكي", type: "حدث تاريخي"
+- id: "dbt-mental-illness-vs-problem", title: "المرض العقلي: مرض أم مشكلة حياتية؟", type: "جدل"
+- id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
+- id: "dbt-mental-illness-brain-disease", title: "جِدَل الْمَرَض النَّفْسِيّ كَمَرَض دِمَاغ", type: "جدل"
+- id: "dbt-mental-illness-social-construction", title: "جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ", type: "جدل"
+- id: "ctx-deinstitutionalization-psychiatric-reform", title: "حركة إلغاء المصحات النفسية والطب النفسي المجتمعي", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تأكيده الليبرالي على المسؤولية الأخلاقية الفردية يستحق مقارنة نقدية مع الرؤية الوجودية للحرية والذنب."
 ---
-
 # توماس ساس
 
 طبيب نفسي ومحلل نفسي وكاتب أمريكي-مجري، أحد أشهر نقاد الطب النفسي الكلاسيكي في القرن العشرين ومؤلف الكتاب المرجعي «أسطورة المرض النفسي».

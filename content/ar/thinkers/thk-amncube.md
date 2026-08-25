@@ -4,18 +4,28 @@ id: "THK-0686"
 type: "مفكر"
 level: "متوسط"
 title: "ألبرت مْنكوبِي"
-en: "Albert Mn cube"
-crumb: "علم نفس الأوبونتو (Ubuntu) ← تطبيق الأوبونتو في العلاج ← ألبرت ميكوبي"
+en: "Albert Mncube"
+crumb: "علم نفس الأوبونتو (Ubuntu) ← تطبيق الأوبونتو في العلاج ← ألبرت مْنكوبِي"
 dates: "إفريقيا الجنوبية · القرن العشرين–"
 country: "إفريقيا الجنوبية"
 language: "الإنجليزية/الزولوية"
 active_start: 1995
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علم نفس الأوبونتو (Ubuntu)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
+related:
+- id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
+- id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
+- id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
+- id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
+- id: "thk-nmanganyi", title: "نْيلسون مَغَنْي", type: "مفكر"
+- id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
+- id: "thk-mtutufurth", title: "مافو توتو فان فورث", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مافو توتو فان فورث (thk-mtutufurth)."
 ---
 
 # ألبرت مْنكوبِي

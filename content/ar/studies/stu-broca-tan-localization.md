@@ -8,9 +8,11 @@ en: "Broca's Case Study of Patient Leborgne 'Tan' and Speech Localization"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة بروكا للمريض تان"
 active_start: 1861
 active_end: 1865
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "إعادة فحص دماغ المريض تان بالرنين المغناطيسي الحديث بواسطة Dronkers et al. (2007) كشفت عن آفات عميقة تحت قشرية تحتاج توثيقاً"
   - "مقارنة حبسة بروكا بحبسة فيرنيكه الاستقبالية (1874) تتطلب استعراضاً تشريحياً مقارناً"

@@ -12,10 +12,13 @@ language: "الفارسية القديمة (الأفستية)"
 active_start: -1500
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الزرادشتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "thk-zarathushtra", title: "زرادشت", type: "مفكر"
+- id: "wrk-gathas", title: "الأناشيد الغاثية (Gathas)", type: "عمل / كتاب"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "thk-zarathushtra", title: "زرادشت", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "مقارنة أشا بال-«ماعت» المصرية غير مفصّلة في الأدب العربي."
   - "لا يوجد تعريف فلسفي حديث موحَّد للأشا في الفلسفة المقارنة."

@@ -9,14 +9,15 @@ crumb: "المدرسة الوجودية ← المفاهيم ← فقدان ال
 active_start: 1971
 active_end: 1971
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "coined_by", target: "فولفغانغ بلانكنبورغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "coined_by", target: "thk-blankenburg", target_type: "مفكر"
 related:
-  - id: "thk-blankenburg", title: "فولفغانغ بلانكنبورغ", type: "مفكر"
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
+- id: "thk-blankenburg", title: "فولفغانغ بلانكنبورغ", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
 gaps:
   - "لم يُراجع بعد من النص الأصلي (Der Verlust der natürlichen Selbstverständlichkeit, 1971) — هذا الوصف مبني على ما هو موثّق في صفحة بلانكنبورغ المعتمدة فقط."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."

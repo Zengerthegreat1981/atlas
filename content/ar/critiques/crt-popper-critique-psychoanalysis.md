@@ -8,19 +8,23 @@ en: "Popperian Critique of Psychoanalysis: Falsifiability as Criterion of Scienc
 crumb: "النقد الخارجي ← النقد الفلسفي ← نقد بوبر للتحليل النفسي (وقابلية التفنيد)"
 active_start: 1963
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "التحليلية اليونغية", target_type: "مدرسة"
-related:  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-  - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
-  - "تفاصيل Popper (1963) *Conjectures and Refutations* — لا اقتباس."
-  - "موقف Grunbaum (1984) *The Foundations of Psychoanalysis* — لا اقتباس."
-  - "لا اقتباس مباشر موثوق متاح من Freud (توفي 1939) ردّ على بوبر."
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
+related:
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
+- id: "crt-critique-of-psychodynamic-therapy", title: "نقد الْعِلَاج النَّفْسَحَرَكِيّ: لِمَاذَا الْاِسْتِبْصَار لَيْسَ كَافِيًا؟", type: "نقد خارجي موثَّق"
+- "تفاصيل Popper (1963) *Conjectures and Refutations* — لا اقتباس."
+- "موقف Grunbaum (1984) *The Foundations of Psychoanalysis* — لا اقتباس."
+- "لا اقتباس مباشر موثوق متاح من Freud (توفي 1939) ردّ على بوبر."
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---
-
 # نقد بوبر للتحليل النفسي: قابلية التفنيد كشرط للعلمية
 
 نقد من خارج علم النفس، من منظور **فلسفة العلم**، يطعن في افتراض أن **التحليل النفسي علم**، بل إنه **غير قابل للتفنيد** (Non-Falsifiable) — وبالتالي **غير علمي** حسب معيار بوبر. النتيجة: التحليل النفسي = "ميتافيزيقا" (Metaphysics)، لا "علم".

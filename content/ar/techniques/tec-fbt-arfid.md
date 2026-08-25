@@ -11,12 +11,13 @@ dates: "جامعة Johns Hopkins · تطوير 2010s"
 active_start: 2015
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء هرم التعرّض", type: "تقنية/تدخل علاجي"
+- id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء هرم التعرّض", type: "تقنية/تدخل علاجي"
 gaps:
   - "تفاصيل المراحل الأربع لـ FBT-ARFID (المرحلة 1: وزن مستقر، المرحلة 2: إعادة التغذية في البيت، المرحلة 3: استعادة السيطرة، المرحلة 4: إنهاء العلاج) — التفاصيل التقنية الدقيقة لم تُراجَع من المصدر الأولي."
   - "التطبيق على ARFID عند البالغين (الحالات المكتسبة في البلوغ، مرتبطة بحساسية حسية) لم يُغطَّ."

@@ -8,9 +8,11 @@ en: "Stroop Color and Word Test"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار ستروب للألوان والكلمات"
 active_start: 1935
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تنشيط القشرة الحزامية الأمامية (ACC) أثناء مهمة ستروب في دراسات الرنين المغناطيسي الوظيفي يحتاج ربطاً عصبياً"
   - "تطوير 'ستروب الانفعالي' (Emotional Stroop) لقياس تحيزات القلق والصدمات يتطلب توثيقاً إكلينيكياً"

@@ -11,12 +11,14 @@ dates: "فيينا ونيويورك · العشرينيات"
 active_start: 1921
 active_end: "مستمر"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "ياكوب مورينو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "ياكوب مورينو", target_type: "مفكر"
 related:
-  - id: "tec-pbsp", title: "نظام بيسو بويدين النفسي الحركي", type: "تقنية/تدخل علاجي"
-  - id: "tec-drama-therapy", title: "العلاج بالدراما والمسرح", type: "تقنية/تدخل علاجي"
+- id: "tec-pbsp", title: "نظام بيسو بويدين النفسي الحركي", type: "تقنية/تدخل علاجي"
+- id: "tec-drama-therapy", title: "العلاج بالدراما والمسرح", type: "تقنية/تدخل علاجي"
+- id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"
 gaps:
   - "عناصر السيكودراما الخمسة لياكوب مورينو (البطل Protagonist، المخرج/المعالج، الأنا المساعدة Auxiliary Egos، المسرح، والجمهور)."
   - "تقنيات عكس الأدوار (Role Reversal)، والمضاعفة (Doubling)، والتطهير الدرامي (Catharsis of Integration)."

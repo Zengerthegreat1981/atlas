@@ -12,10 +12,13 @@ language: "المصرية القديمة (الهيروغليفية)"
 active_start: -3000
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة المصرية (ماعت)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
-  - id: "con-maat", title: "ماعت", type: "مفهوم"
-  - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
+- id: "con-maat", title: "ماعت", type: "مفهوم"
+- id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "مدى تجريد المفهوم خارج السياق النصي المصري غير واضح."
   - "لا يوجد تعريف معاصر واحد للإسفت في الفلسفة المقارنة."

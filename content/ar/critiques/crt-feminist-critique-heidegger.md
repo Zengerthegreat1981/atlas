@@ -6,13 +6,20 @@ level: "متقدم"
 title: "النقد النسوي لحياد الدازاين الجنساني"
 en: "Feminist Critique of Dasein's Gender Neutrality"
 crumb: "المدرسة الوجودية ← النقد الخارجي ← النقد النسوي لحياد الدازاين"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
 gaps:
   - "لم تُحدد بعد مصادر أولية محددة (أسماء باحثات ومراجع دقيقة) لهذا الخط النقدي؛ هذا وصف عام للموقف النقدي يحتاج توثيقاً ببليوغرافياً دقيقاً لاحقاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النقد النسوي لحياد الدازاين الجنساني

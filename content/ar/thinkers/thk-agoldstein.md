@@ -5,20 +5,26 @@ type: "مفكر"
 level: "متوسط"
 title: "أرنولد غولدشتاين"
 en: "Arnold P. Goldstein"
-crumb: "br-aggression-treatment ← تطوير ART ← أرنولد غولدشتاين"
+crumb: "علاج العدوان ← تطوير ART ← أرنولد غولدشتاين"
 dates: "الولايات المتحدة · 1933–2002"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1973
 active_end: 2002
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
+- rel: "belongs_to", target: "علاج العدوان", target_type: "تيار"
 related:
-  - id: "thk-krischer", title: "باري كريشر", type: "مفكر"
-  - id: "br-aggression-treatment", title: "علاج العدوان", type: "مفكر"
+- id: "br-aggression-treatment", title: "علاج العدوان", type: "تيار"
+- id: "thk-araine", title: "أدريان راين", type: "مفكر"
+- id: "thk-jcgibbs", title: "جون سي. غيبز", type: "مفكر"
+- id: "thk-pfrick", title: "بول فريك", type: "مفكر"
+- id: "thk-krischer", title: "باري كريشر", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في جامعة Syracuse لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باري كريشر (thk-krischer)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باري كريشر (thk-krischer)."
 ---
 
 # أرنولد غولدشتاين
@@ -45,4 +51,4 @@ gaps:
 
 ## قيد
 
-- **نقد ART**: يرى بعض النقاد أن البعد الأخلاقي "بطريقة إدراجية" يحوّل المسار إلى أيديولوجيا أكثر منه تقنية.
+- **نقد ART**: يرى بعض النقاد أن إقحام البعد الأخلاقي داخل البرنامج يحوّله إلى أيديولوجيا أكثر منه تقنية.

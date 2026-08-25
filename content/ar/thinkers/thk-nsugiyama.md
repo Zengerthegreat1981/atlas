@@ -9,12 +9,15 @@ crumb: "السلوكية (Behaviorism) ← الناس ← نَأوكو سُوگ�
 dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
-  - id: "thk-tmoriyama", title: "تِتسومي موريياما", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
+- id: "thk-tmoriyama", title: "تِتسومي موريياما", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -38,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-مقالات في J. ABA International (2010s).
+مقالات في J. ABA International (العقد الثاني من القرن الحادي والعشرين).

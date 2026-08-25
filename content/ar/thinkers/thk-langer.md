@@ -11,11 +11,14 @@ active_start: 1942
 active_end: 1982
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "wrk-essay-on-man-cassirer", title: "مقال عن الإنسان (An Essay on Man) - كاسيرر", type: "عمل / كتاب"
+- id: "wrk-symbolic-forms-cassirer", title: "فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "كتابها 'فلسفة في مفتاح جديد' (1942) ونظرية 'الشكل الحي والرمزية العاطفية' تستحق توثيقاً."

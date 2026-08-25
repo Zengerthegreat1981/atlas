@@ -13,11 +13,11 @@ language: "الفرنسية"
 active_start: 1934
 active_end: 2001
 edges:
-  - rel: "belongs_to", target: "الزنوجة (Négritude)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الزنوجة (Négritude)", target_type: "مدرسة"
 related:
-  - id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
-  - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
+- id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 gaps:
   - "نصوص Senghor (Liberté I-III, Hosties noires) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

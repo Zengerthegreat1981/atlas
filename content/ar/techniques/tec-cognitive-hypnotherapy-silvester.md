@@ -8,11 +8,12 @@ en: "Cognitive Hypnotherapy (Trevor Silvester)"
 crumb: "التنويم وNLP ← التقنيات ← التنويم المعرفي"
 active_start: 2000
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم المعرفي", target_type: "مدرسة"
-  - rel: "developed_by", target: "تريفور سيلفستر", target_type: "مفكر"
+- rel: "belongs_to", target: "tec-cognitive-hypnotherapy-silvester", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-tsilvester", target_type: "مفكر"
 related:
-  - id: "thk-tsilvester", title: "تريفور سيلفستر", type: "مفكر"
+- id: "thk-tsilvester", title: "تريفور سيلفستر", type: "مفكر"
 gaps:
   - "البروتوكول الكامل (MIND model) لم يُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

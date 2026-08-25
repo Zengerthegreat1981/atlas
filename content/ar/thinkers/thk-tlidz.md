@@ -11,10 +11,11 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1952
 active_end: 1985
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
 related:
-  - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
+- id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Yale لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -6,13 +6,16 @@ level: "متقدم"
 title: "نقد الفكر الديني"
 en: "Critique of Religious Thought (Naqd al-Fikr al-Dini, 1969)"
 crumb: "المدرسة الوجودية ← الأعمال ← نقد الفكر الديني (صادق جلال العظم)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-alazm", title: "صادق جلال العظم", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-alazm", title: "صادق جلال العظم", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الدين» (con-religion) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

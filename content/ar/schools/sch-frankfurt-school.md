@@ -13,18 +13,19 @@ language: "الألمانية، الإنجليزية"
 active_start: 1923
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الماركسية الغربية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الماركسية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-western-marxism", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-classical-marxism", target_type: "مدرسة"
 related:
-  - id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
-  - id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
-  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
+- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "que-fear-of-freedom-fromm", title: "لماذا يهرب الإنسان من حريته ويلجأ للاستسلام الطوعي للاستبداد؟", type: "سؤال توليدي"
 gaps:
   - "الجيل الثاني (Adorno، Horkheimer، Marcuse) والجيل الثالث (Habermas) — التمايز غير محصور في هذا الملف."
   - "العلاقة مع ماركس اللاحق (Lenin، Lukacs) تحتاج توسعة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
-
 # النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)
 
 تيار فلسفي واجتماعي أسّسه **معهد البحوث الاجتماعية** (Institut für Sozialforschung) في **جامعة فرانكفورت** عام 1923. تميّز بدمج **الماركسية** مع **الفلسفة الألمانية** (هيغل، شيلنغ) و**علم الاجتماع** (فيبر، سيميل) و**التحليل النفسي** (فرويد، لاكان لاحقًا) في مشروع نقدي لــ**الرأسمالية المعاصرة**.

@@ -9,12 +9,13 @@ crumb: "العلاج الجدلي السلوكي (DBT) ← مهارات تنظي
 active_start: 1993
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
-  - id: "tec-dbt-er-understanding-the-function-of-emotions", title: "وظائف المشاعر والانفعالات", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-ie-myths-about-relationships", title: "خرافات العلاقات وكيفية التعامل معها", type: "تقنية/تدخل علاجي"
-  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-er-understanding-the-function-of-emotions", title: "وظائف المشاعر والانفعالات", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-myths-about-relationships", title: "خرافات العلاقات وكيفية التعامل معها", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

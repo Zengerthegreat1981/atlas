@@ -1,0 +1,41 @@
+---
+slug: "crt-critique-of-grit-research"
+id: "CRT-0087"
+type: "نقد خارجي موثَّق"
+part: "psychology"
+level: "متقدم"
+title: "نقد «Grit»: مَدْح الْاِسْتِمْرَار يَسْتَهْدِف مَن يَفْتَقِرُون إِلَى الْحُظّ"
+en: "Critique of Grit: Praising Perseverance Targets Those Lacking Privilege"
+crumb: "نقد ← Grit"
+active_start: 2018
+active_end: "مستمر"
+edges:
+- rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
+related:
+- id: "thk-duckworth", title: "أنجيلا داكوورث", type: "مفكر"
+- id: "crt-critique-of-positive-psychology", title: "نقد علم النفس الإيجابي", type: "نقد خارجي موثَّق"
+- id: "dbt-positivity-mandate-critique", title: "جِدَل الْإِيجَابِيّة كَوَاجِب: عِلْم النَّفْس الْإِيجَابِيّ ضِد نَقْد الْوَاجِب", type: "جدل"
+- id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
+gaps:
+  - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
+- "لم تُراجع من نسخة أصلية مباشرة بعد (Kohn, 2018; Lerner, 2019)."
+- "لا يوجد اقتباس مباشر موثوق متاح."
+---
+# نقد «Grit»: مَدْح الْاِسْتِمْرَار يَسْتَهْدِف مَن يَفْتَقِرُون إِلَى الْحُظّ
+
+## الْحُجَّة النَّقْدِيَّة
+
+يَرَى نُقَّاد (مثل: Alfie Kohn, 2018، *Schooling Indiv*; Barry Schwartz, 2019) أَنَّ مَدْح الْاِسْتِمْرَار (Grit، Duckworth) فِي الْمَدَارِس «**يَسْتَهْدِف**» (Targets) الْأَطْفَال مِنَ الْخَلَفِيَّات «**الْمَحْرُومَة**» (Underprivileged) — «**لَا**» (Not) يَحُلّ «**بِنْيَة**» (Structure) اِجْتِمَاعِيَّة، بَل «**يُحَمِّل**» (Loads) الْفَقِير «**مَسْؤُولِيَّة**» (Responsibility) لِـ**«**فَشَل**» (Failure) الْمَنْظُومَة.
+
+## أَدِلَّة النَّقْد
+
+(1) **«**تَحَمِيل الْفَقِير**» (Blaming the Poor)**: Grit «**يَقُول**» (Says) «**اِسْتَمِرّ**» (Persevere) لِـ**«**الْفَقِير**» — «**لَا**» (Not) يَدْرُس الْبِنْيَة الِاجْتِمَاعِيَّة. (2) **«**تَحَاهُل الْحُظّ**» (Ignoring Luck)**: Grit «**لَا**» (Not) «**يَعْتَبِر**» (Considers) «**حَظّ**» (Luck)، «**اِمْتِيَاز**» (Privilege)، «**ظُرُوف**» (Conditions). (3) **«**إِسَاءَة اسْتِخْدَام**» (Misuse) فِي الْمَدَارِس**: «**تَطْبِيق**» (Application) Grit فِي الْمَدَارِس «**أَصْبَح**» (Became) «**اِسْتِفَادَة**» (Exploitation) — الْأَطْفَال «**يُعَاقَبُون**» (Punished) لِـ**«**عَدَم الْاِسْتِمْرَار**» (Lack of Perseverance).
+
+## الرَّدّ مِن Duckworth
+
+(1) **«**Grit لَا تُنَافِض الِاِعْتِرَاف بِالْفَقْر**»**: Duckworth (2016) «**تَقُول**» (Says) أَنَّ «**Grit**» «**لَا**» (Not) تُلْغِي «**تَأْثِير الْحُظّ**» (Effects of Luck) — بَل «**تَفْسِر**» (Explains) «**نَجَاح**» (Success) «**بَعْد**» (After) «**ظُرُوف**» (Conditions) مُتَسَاوِيَة. (2) **Grit «**تَشْمُل**» (Includes) الْاِسْتِمْرَار فِي «**مُهِمّ**» (Meaningful) «**لَا**» (Not) «**أَيّ**» (Any) شَيْء — عَلَى عَكْس الْاِنْضِبَاط الْأَعْمَى.
+
+## أَهمِّيَّة
+
+النَّقْد «**مُهِمّ**» (Important) لِـ**«**اِنْتِقَاء**» (Selection) «**اِسْتِفَادَة**» (Application) Grit، لَكِنَّ «**رَفْض**» (Rejection) بَحْث Grit «**لَا**» (Not) مُبَرِّر.

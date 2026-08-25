@@ -6,11 +6,44 @@ level: "مبتدئ"
 title: "اضطراب الاكتئاب الجسيم (MDD)"
 en: "Major Depressive Disorder (MDD)"
 crumb: "المدرسة الوجودية ← الاضطرابات والحالات الإكلينيكية ← اضطراب الاكتئاب الجسيم (MDD)"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-sadness", title: "الحزن", type: "مفهوم"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "wrk-lost-connections", title: "الروابط المفقودة: كشف الأسباب الحقيقية غير المُخبَّرة للاكتئاب - وما الذي يساعد حقاً", type: "عمل / كتاب"
+- id: "dis-catatonia", title: "الكاتاتونيا أو متلازمة الجمود الحركي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-depressive-due-to-medical", title: "اضطراب الاكتئاب الناجم عن حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-fluoxetine-prozac-launch-1987", title: "طرح عقار الفلوكسيتين وثورة مضادات الاكتئاب الحديثة وتغيير الثقافة الشعبية", type: "حدث تاريخي"
+- id: "dbt-psychotherapy-vs-pharmacotherapy-depression", title: "جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم", type: "جدل"
+- id: "syn-akathisia", title: "متلازمة التململ الحركي الحاد والأكاثيسيا الدوائية", type: "متلازمة"
+- id: "syn-apathetic-frontal", title: "متلازمة الفص الجبهي اللامبالية والخرس الحركي (Akinetic Mutism)", type: "متلازمة"
+- id: "syn-caregiver-burnout", title: "متلازمة إجهاد مقدّم الرعاية المزمن", type: "متلازمة"
+- id: "syn-cotard", title: "متلازمة كوتار (هذاء العدم / متلازمة الجثة السائرة)", type: "متلازمة"
+- id: "syn-dejerine-roussy", title: "متلازمة ديجرين–روسي للألم المهادي المركزي", type: "متلازمة"
+- id: "syn-kufungisisa", title: "كوفونجيسيسا (متلازمة التفكير المفرط في ثقافة الشونا بزيمبابوي)", type: "متلازمة"
+- id: "syn-sad-clown", title: "متلازمة ومفارقة المهرج الحزين (Sad Clown Paradox)", type: "متلازمة"
+- id: "syn-serotonin", title: "متلازمة السيروتونين (فرط التسمم السيروتونيني)", type: "متلازمة"
+- id: "syn-ssri-discontinuation", title: "متلازمة الانقطاع عن مضادات الاكتئاب السيروتونينية", type: "متلازمة"
+- id: "syn-sunday-neurosis", title: "متلازمة عصاب يوم الأحد وكآبة الفراغ (Sunday Neurosis)", type: "متلازمة"
+- id: "tec-cbasp", title: "نظام التحليل المعرفي السلوكي للعلاج النفسي (CBASP)", type: "تقنية/تدخل علاجي"
+- id: "ins-c-ssrs-suicide", title: "مقياس كولومبيا لتقييم شدة خطورة الانتحار (C-SSRS)", type: "أداة قياس"
+- id: "ins-ces-d", title: "مقياس مركز الدراسات الوبائية للاكتئاب", type: "أداة قياس"
+- id: "ins-dass-21", title: "مقياس الاكتئاب والقلق والتوتر المختصر (DASS-21)", type: "أداة قياس"
+- id: "ins-epds-edinburgh-postnatal", title: "مقياس إدنبرة لاكتئاب ما بعد الولادة (EPDS)", type: "أداة قياس"
+- id: "ins-scid-5", title: "المقابلة الإكلينيكية المقننة لتشخيص اضطرابات الدليل الخامس (SCID-5)", type: "أداة قياس"
+- id: "br-abft", title: "العلاج الأسري المرتكز على التعلق (ABFT)", type: "تيار"
+- id: "br-digital-therapeutics", title: "العلاجات الرقمية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-serious-games-therapy", title: "العلاج بالألعاب الإلكترونية / الألعاب الجادة", type: "تيار"
+- id: "dbt-couples-therapy-vs-individual-depression", title: "جِدَل عِلَاج اِكْتِئَاب زَوْج ضِد فَرْدِيّ", type: "جدل"
+- id: "dbt-medication-discontinuation-depression", title: "جِدَل إيقاف مُضادّات الِاِكْتِئَاب: هَل «**تَسْتَوْفِر**» (Cure) أَم «**تُسْقِط**» (Relapse)؟", type: "جدل"
+- id: "dbt-psychotherapy-vs-medication", title: "جِدَل الْعِلَاج النَّفْسِيّ ضِد الدَّوَاء: أَيُّهُمَا أَفْضَل لِـ**الِاِكْتِئَاب**؟", type: "جدل"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "لم تُحدد بعد المعايير التشخيصية الدقيقة من مصدر تشخيصي أولي محقق"
   - "لم تُراجع الـDSM-5-TR و ICD-11 من المصدر الأولي بعد لتأكيد معايير الـ9 أعراض والـ5+ أيام"
@@ -31,3 +64,7 @@ gaps:
 ## ملاحظة منهجية
 
 هذا وصف معرفي عام، لا أداة تشخيصية ولا بديلاً عن تقييم سريري متخصص.
+
+## التطور التاريخي في DSM
+
+كان DSM-IV يستثني نوبات الاكتئاب التي تعقب وفاة شخص عزيز (استثناء الفجيعة) لمدة شهرين؛ وقد أُلغي هذا الاستثناء في DSM-5 ليتاح تشخيص نوبة الاكتئاب الجسيم بعد الفقد مباشرة إذا استوفت المعايير السريرية الكاملة، مع تمييزها عن اضطراب الفجيعة المطولة.

@@ -5,19 +5,22 @@ type: "مفكر"
 level: "متوسط"
 title: "تشارلز زيناه"
 en: "Charles H. Zeanah"
-crumb: "PCIT ← طب نفس الأطفال والرضّع ← تشارلز زيناه"
+crumb: "العلاج بتفاعل الوالد-الطفل (PCIT) ← طب نفس الأطفال والرضّع ← تشارلز زيناه"
 dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "PCIT", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بتفاعل الوالد-الطفل (PCIT)", target_type: "مدرسة"
 related:
-  - id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+- id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
+- id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "صلة عمله المباشرة بـPCIT تحتاج توثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيلا إيبيرغ (thk-ieyberg)."
 ---
 
 # تشارلز زيناه

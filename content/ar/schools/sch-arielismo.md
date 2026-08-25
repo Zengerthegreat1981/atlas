@@ -13,13 +13,14 @@ language: "الإسبانية"
 active_start: 1900
 active_end: 1960
 edges:
-  - rel: "evolved_from", target: "الرومانسية الفلسفية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-romanticism", target_type: "مدرسة"
 related:
-  - id: "sch-romanticism", title: "الرومانسية الفلسفية", type: "مدرسة"
-  - id: "sch-positivism-latin", title: "الوضعية اللاتينية", type: "مدرسة"
-  - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
+- id: "sch-romanticism", title: "الرومانسية الفلسفية", type: "مدرسة"
+- id: "sch-positivism-latin", title: "الوضعية اللاتينية", type: "مدرسة"
+- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 gaps:
   - "نصوص José Enrique Rodó (Ariel, 1900) وJuan Carlos Gómez need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة الهوية اللاتينية الأمريكية (الأرييلية)

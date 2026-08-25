@@ -11,8 +11,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
+related:
+- id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

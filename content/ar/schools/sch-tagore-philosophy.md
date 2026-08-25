@@ -13,13 +13,20 @@ language: "البنغالية، الإنجليزية"
 active_start: 1890
 active_end: 1941
 edges:
-  - rel: "evolved_from", target: "نيو-فيدانتا", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-neo-vedanta", target_type: "مظلة"
 related:
-  - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-  - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
-  - id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
+- id: "con-surplus-in-man", title: "الزيادة في الإنسان (Surplus in Man)", type: "مفهوم"
+- id: "wrk-sadhana-tagore", title: "سادانا: تحقيق الحياة", type: "عمل / كتاب"
+- id: "dbt-tagore-vs-gandhi", title: "طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟", type: "جدل"
+- id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
+- id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)", type: "مفكر"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 gaps:
   - "نصوص Tagore (Gitanjali, Sadhana, The Religion of Man) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة الطاغورية (Tagorean Philosophy)

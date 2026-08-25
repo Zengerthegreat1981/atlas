@@ -11,17 +11,18 @@ active_start: 1970
 active_end: 1994
 country: "فلسطين / العراق"
 language: "العربية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "رواية 'السفينة' (1970) وفينومينولوجيا المنفى والبحث عن الأصالة في البحر تستحق إدراجاً في الأعمال."
+  - "دوره في الحركة التشكيلية العراقية — وهو من منظّري «جماعة بغداد للفن الحديث» — يستحق عرضاً مستقلاً، فهو الوجه الأقلّ ذكراً من إنتاجه."
 ---
 
 # جبرا إبراهيم جبرا

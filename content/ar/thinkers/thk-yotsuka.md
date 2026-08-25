@@ -9,13 +9,16 @@ crumb: "المدرسة الوجودية ← الناس ← ياسوهيرو يو
 dates: "اليابان · معاصر"
 country: "اليابان"
 language: "اليابانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "الترجمة والتوثيق الدقيق لمؤلفاته في التحليل الوجودي الياباني (Nihon-style Dasein) تتطلب بحثاً في الأدبيات اليابانية الأصلية."

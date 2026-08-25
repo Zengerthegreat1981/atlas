@@ -13,11 +13,12 @@ language: "اللاتينية، اليونانية، الإيطالية"
 active_start: 1450
 active_end: 1600
 edges:
-  - rel: "evolved_from", target: "الأفلاطونية المحدثة", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
-  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
-  - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
+- id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "thk-pico", title: "جيوفاني بيكو della ميراندولا", type: "مفكر"
 gaps:
   - "نصوص فيتشينو وبيكو ديلا ميراندولا باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Commentarium in Convivium Platonis' لفيتشينو."

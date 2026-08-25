@@ -11,15 +11,19 @@ dates: "2005"
 active_start: 2005
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-  - id: "thk-greenwald", title: "راي غرينوالد", type: "مفكر"
-  - id: "thk-foa", title: "إدنا فوا", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "البروتوكول يجمع بين عناصر من EMDR والتعرض المطوّل في إجراء واحد مختصر."
   - "مدة العد: 15 ثانية في المحاولة الأولى، ثم 20، 25، 30، 40، 50، 60 ثانية (تصاعدياً)."
   - "أقل إجهاداً للمريض من التعرض المطوّل التقليدي."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: راي غرينوالد (thk-greenwald)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا فوا (thk-foa)."
 ---
 
 # تقنية العد التصاعدي (Progressive Counting)

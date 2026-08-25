@@ -9,11 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← سيلفيو بينس
 dates: "إيطاليا · معاصر"
 country: "إيطاليا"
 language: "الإيطالية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "التوثيق البيوغرافي والأكاديمي الدقيق لأعماله المعاصرة في الطب النفسي الفينومينولوجي الإيطالي يحتاج استكمالاً."

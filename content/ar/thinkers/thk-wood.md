@@ -9,11 +9,14 @@ crumb: "المدرسة الوجودية ← الناس ← جون-ماينارد
 dates: "بريطانيا · القرن العشرين"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "التفاصيل البيوغرافية الدقيقة والمؤلفات المنشورة تتطلب فحصاً في أرشيفات حركة العلاج الوجودي في المملكة المتحدة."

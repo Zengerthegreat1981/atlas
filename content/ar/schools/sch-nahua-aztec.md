@@ -14,10 +14,10 @@ active_start: 1100
 active_end: 1521
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
-  - id: "sch-maya-philosophy", title: "الفلسفة الماياوية", type: "مدرسة"
-  - id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
+- id: "sch-maya-philosophy", title: "الفلسفة الماياوية", type: "مدرسة"
+- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«الغزو الإسباني» (sch-spanish-conquest) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النصوص الأصلية Nahua (Codices، خاصة Codex Borgia وFlorentine Codex) تحتاج مراجعة من المصدر الأولي."

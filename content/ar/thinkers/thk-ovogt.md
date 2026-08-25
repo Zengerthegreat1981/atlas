@@ -11,12 +11,22 @@ country: "ألمانيا"
 language: "الألمانية"
 active_start: 1895
 active_end: 1959
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التنويم الذاتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنويم الذاتي (كإطار علاجي)", target_type: "مدرسة"
 related:
+- id: "thk-emilecoue", title: "إميل كوي", type: "مفكر"
+- id: "thk-jose-salgado", title: "خوسيه سالغادو", type: "مفكر"
+- id: "thk-melanie-segall", title: "ميلاني سيغال", type: "مفكر"
+- id: "thk-patrice-de-marco", title: "باتريس دي ماركو", type: "مفكر"
+- id: "thk-stig-rasmussen", title: "ستيغ راسموسن", type: "مفكر"
 gaps:
   - "تفاصيل عمله في معهد الدماغ Kaiser Wilhelm لم تُوثّق بشكل مباشر."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: خوسيه سالغادو (thk-jose-salgado)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ميلاني سيغال (thk-melanie-segall)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باتريس دي ماركو (thk-patrice-de-marco)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيغ راسموسن (thk-stig-rasmussen)."
 ---
 
 # أوسكار فوغت

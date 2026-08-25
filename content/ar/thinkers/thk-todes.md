@@ -12,12 +12,13 @@ active_end: 1994
 active_source: "lifespan"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
+- id: "con-time", title: "الزمن", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'الجسد والعالم' (Body and World, 2001) وتحليل بنية التوجه الجسدي في الفضاء يستحقان توثيقاً."

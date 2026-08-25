@@ -10,11 +10,15 @@ crumb: "الفلسفة ← المسيحية ← الأوغسطينية ← ال�
 active_start: 390
 country: "شمال أفريقيا (هيبو)"
 language: "اللاتينية"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الأوغسطينية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-augustinianism", target_type: "مدرسة"
 related:
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
-  - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تطور موقف أوغسطينوس نفسه من الإشراق (هل هو استعار أم نظرية كاملة؟) موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'De Magistro'."

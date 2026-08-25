@@ -13,13 +13,18 @@ language: "السنسكريتية"
 active_start: -200
 active_end: 400
 edges:
-  - rel: "evolved_from", target: "سامخيا", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-samkhya", target_type: "مدرسة"
 related:
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "thk-patanjali", title: "باتانجالي (مؤسس اليوغا الكلاسيكية)", type: "مفكر"
+- id: "con-cross-cultural-meditation", title: "التأمل العلاجي عبر-الثقافي", type: "مفهوم"
+- id: "con-trisvabhava-three-natures", title: "الطبائع الثلاث للوجود والمعرفة في اليوغاكارا (Trisvabhava)", type: "مفهوم"
+- id: "con-yoga-therapy-concept", title: "علاج اليوغا (Yoga Therapy)", type: "مفهوم"
 gaps:
   - "نصوص Yoga Sūtra (لباتانجالي) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # يوغا الفلسفية (Pātañjala Yoga)

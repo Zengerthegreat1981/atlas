@@ -9,12 +9,15 @@ crumb: "العلاج بالقبول والالتزام (ACT) ← الانفصا�
 active_start: 1999
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-  - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-def-observing-self-talk", title: "ملاحظة الحديث الذاتي", type: "تقنية/تدخل علاجي"
-  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
+- id: "tec-act-def-observing-self-talk", title: "ملاحظة الحديث الذاتي", type: "تقنية/تدخل علاجي"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "dis-developmental-coordination", title: "اضطراب التنسيق التنموي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-specific-learning-disorder", title: "اضطراب التعلُّم المحدد", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,14 +13,15 @@ language: "السنسكريتية، الصينية، التبتية"
 active_start: 350
 active_end: 900
 edges:
-  - rel: "evolved_from", target: "مادهياماكا", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-faxiang", title: "فاشيانغ (يوغاكارا الصينية)", type: "مدرسة"
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-faxiang", title: "فاشيانغ (يوغاكارا الصينية)", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
 gaps:
   - "نصوص Asaṅga وVasubandhu تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # يوغاكارا / فيجنانافادا (Yogācāra / Vijñānavāda)

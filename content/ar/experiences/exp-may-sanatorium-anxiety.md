@@ -8,12 +8,14 @@ en: "Rollo May's First-Person Account of Existential Anxiety in the Sanatorium"
 crumb: "المدرسة الوجودية ← الخبرات المعيشة ← تجربة مصحة السل والقلق"
 active_start: 1942
 active_end: 1944
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+
 gaps:
   - "توثيق الاقتباسات الذاتية من كتاب 'معنى القلق' (The Meaning of Anxiety) يحتاج مطابقة نصوص دقيقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

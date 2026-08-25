@@ -13,13 +13,13 @@ language: "اليونانية"
 active_start: -360
 active_end: 250
 edges:
-  - rel: "belongs_to", target: "تقليد شكّي", target_type: "مظلة"
-  - rel: "evolved_into", target: "الشك الأكاديمي", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقليد شكّي", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
 related:
-  - id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
-  - id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
-  - id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-  - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
 gaps:
   - "لا نعرف شيئاً عن بيرون نفسه كشخص فلسفي — وصلتنا معلومات متأخرة جداً (القرن 1 ق.م وما بعده)."
   - "كتب تيمون الفليوسي (نحو 320–230 ق.م) 'الشكوك' (Πύθων) و'السيلا' (Σίλλοι) فُقدت بالكامل — وصلتنا شذرات فقط."

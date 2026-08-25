@@ -9,13 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← مورتن ه�
 dates: "أمريكا · 1918–2014"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 2014
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'التشريح العاطفي' والفيجيتوثيرابي الإكلينيكي المباشر يحتاجان توثيقاً."
+  - "كان الملف ينسب إليه كتاب *Emotional Anatomy* — وهو لستانلي كِلمان (1985) لا له — فأُسقط واستُبدل بكتابه هو *Emotional Armoring*."
+  - "صفة «رئيس الجمعية الأمريكية للأورغون الطبي» تحتاج تثبيتاً؛ المعروف أن هيرسكوفيتز مارس خارج المؤسسة الأورغونية الرسمية."
 ---
 
 # مورتن هيرسكوفيتز
@@ -36,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-التشريح العاطفي والفيجيتوثيرابي الإكلينيكي (Emotional Anatomy / Vegetotherapy Clinical Papers) · ممارسة العلاج الرايشي (The Theory and Practice of Medical Orgonomy).
+التدرّع الانفعالي: مدخل إلى العلاج الأورغوني النفسي (Emotional Armoring: An Introduction to Psychiatric Orgone Therapy, 1997) · مقالات سريرية في الفيجيتوثيرابي نُشرت في دوريات الأورغونومي.

@@ -11,12 +11,21 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Body-Mind Centering", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-calbright", title: "كارين ألبريت", type: "مفكر"
+- id: "thk-econrad", title: "إيميلي كونراد", type: "مفكر"
+- id: "thk-idmarshall", title: "توماس هانا", type: "مفكر"
+- id: "thk-lhatch", title: "ليندا هاتش", type: "مفكر"
+- id: "thk-phackney", title: "بي. كيت هَكْني", type: "مفكر"
+- id: "thk-rprice", title: "راشِل بَرايس", type: "مفكر"
+- id: "thk-sharper", title: "سوزان هاربر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بوني بينبريدج كوهن
@@ -29,7 +38,7 @@ gaps:
 - **"خريطة الجسد الجنيني"**: تتبع مراحل النمو الجنيني كطريق لإعادة تنظيم أنماط الحركة والإحساس.
 - **"التعلم من خلال الخبرة"** (Experiential Anatomy): تعليم التشريح من خلال الاستكشاف الحسي لا الرسوم التوضيحية فقط.
 - **"الأنظمة الست"**: الجلد، اللفافة، العضلات، العظام، الأعضاء الداخلية، الجهاز العصبي كمداخل لدراسة التكامل الجسدي-العقلي.
-- **"الشهودية"** (Embouchure و Hands-On): تقنيات يدوية للتواصل مع الأنسجة والأعضاء الداخلية.
+- **"اللمس المُصغي"** (Hands-On): تقنيات يدوية للتواصل مع الأنسجة والأعضاء الداخلية.
 
 ## موقعها من التيار
 
@@ -38,7 +47,7 @@ gaps:
 ## أهم أعمالها
 
 - *Sensing, Feeling, and Action* (1993).
-- *The Body Has Its Reasons: Self-Awareness Through Conscious Movement* (مترجم).
+- مقالات ومواد تدريبية في *Body-Mind Centering* (منشورات المدرسة).
 
 ## اقتباسات مختارة
 

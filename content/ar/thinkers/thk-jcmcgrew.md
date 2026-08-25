@@ -5,16 +5,17 @@ type: "مفكر"
 level: "متوسط"
 title: "جون هـ. مَكغْرِي"
 en: "John H. McGrew"
-crumb: "br-psychiatric-rehabilitation ← البحث التشاركي ← جون هـ. مكغري"
-dates: "الولايات المتحدة · القرن العشرين–"
+crumb: "التأهيل النفسي-الاجتماعي ← البحث التشاركي ← جون هـ. مكغري"
+dates: "الولايات المتحدة · 1953–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
+- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "تيار"
 related:
-  - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "مفكر"
+- id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -26,7 +27,7 @@ gaps:
 
 ## ما أعطاه
 
-- **"مقياس إعادة التأهيل"**: أدوات قياس معيارية للنتائج في إعادة التأهيل.
+- **مقياس الالتزام بنموذج ACT**: طوّر مع غاري بوند أوّل أداة تقيس كم يقترب برنامجٌ فعليّ من نموذج «العلاج المجتمعي الحازم» (Assertive Community Treatment) الأصلي — ثم أظهر بتحليل عبر ثمانية عشر برنامجاً أن **درجة الالتزام بالنموذج تتنبّأ بانخفاض أيام الاستشفاء**. أي أن السؤال البحثي انتقل من «هل يعمل النموذج؟» إلى «هل ما يُطبَّق هو النموذج أصلاً؟».
 - **"النتائج بعيدة المدى"**: دراسات طولية عن مردود إعادة التأهيل على المدى البعيد.
 - **"تحليل السياسات"**: دراسات عن السياسات المؤثرة في إعادة التأهيل.
 
@@ -36,8 +37,8 @@ gaps:
 
 ## أهم أعماله
 
-- McGrew, J. H., & Bond, G. R. (تحرير).
-- مقالات في *Psychiatric Rehabilitation Journal*.
+- McGrew, J. H., & Bond, G. R., "Critical ingredients of assertive community treatment: Judgments of the experts" (1995).
+- McGrew, J. H., Bond, G. R., et al., "Measuring the fidelity of implementation of a mental health program model" (1994) — الورقة المرجعية في قياس الالتزام بالنماذج العلاجية.
 
 ## اقتباسات مختارة
 

@@ -9,10 +9,12 @@ en: "John Bargh's Automaticity & Elderly Priming Experiment"
 crumb: "علم النفس الاجتماعي التلقائي والمعرفي ← الدراسات والأبحاث ← تجربة بارغ للتهيئة بالشيخوخة"
 active_start: 1996
 active_end: 2012
-edges: []
+edges:
+  []
 related:
-  - id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
-  - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
+- id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
+- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
 gaps:
   - "دراسة دوين ومحاولات إعادة التكرار الفاشلة لدراكسلر وباشباكر (Doyen et al. 2012)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

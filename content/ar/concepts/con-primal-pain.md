@@ -8,10 +8,14 @@ en: "Primal Pain"
 crumb: "حركات مثيرة للجدل ← المفاهيم ← الألم البدائي"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج البدائي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "wrk-janov-primal-scream", title: "الصرخة البدائية (The Primal Scream)", type: "عمل / كتاب"
+- id: "tec-primal-therapy-technique", title: "تقنية الصرخة البدائية", type: "تقنية/تدخل علاجي"
+- id: "br-primal-therapy", title: "العلاج البدائي / صرخة الولادة", type: "تيار"
 gaps:
   - "الأساس التجريبي لمفهوم الألم البدائي (القياس العصبي، الذاكرة الجنينية) لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

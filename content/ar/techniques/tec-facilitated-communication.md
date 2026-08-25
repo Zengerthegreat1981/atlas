@@ -10,9 +10,11 @@ country: "الولايات المتحدة / أستراليا"
 active_start: 1990
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التواصل المُسهَّل", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-facilitated-communication", target_type: "مدرسة"
 related:
+- id: "con-facilitated-communication-failure", title: "فشل التواصل المُسهَّل", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة للتجارب المحكّمة (التجارب العمياء) لم تُوثّق بدقة في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

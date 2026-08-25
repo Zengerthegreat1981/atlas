@@ -11,11 +11,15 @@ dates: "ميلانو · السبعينيات والثمانينيات"
 active_start: 1971
 active_end: "مستمر"
 language: "الإيطالية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
-  - id: "tec-reflecting-teams", title: "فرق التفكير والتأمل العاكسة", type: "تقنية/تدخل علاجي"
+- id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
+- id: "con-circular-questioning", title: "الأسئلة الدائرية (Circular Questioning)", type: "مفهوم"
+- id: "con-paradoxical-intervention", title: "التدخل المتناقض (Paradoxical Intervention)", type: "مفهوم"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "tec-reflecting-teams", title: "فرق التفكير والتأمل العاكسة", type: "تقنية/تدخل علاجي"
 gaps:
   - "أعمال فريق ميلانو الأربعة (مارا سيلفيني بالاتزولي، لويجي بوسكولو، جانفرانكو تشيكين، وجوليانا براتا) وكتاب 'المفارقة والمفارقة المضادة' (1978)."
   - "المبادئ الإكلينيكية الثلاثة: وضع الفرضيات (Hypothesizing)، الدائرية (Circularity)، والحياد (Neutrality)، وتقنية التساؤل الدائري (Circular Questioning)."

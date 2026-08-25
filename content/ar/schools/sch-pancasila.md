@@ -14,9 +14,10 @@ active_start: 1945
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية لجنوب شرق آسيا (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة السياسية لجنوب شرق آسيا (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-adat", title: "أدات", type: "مدرسة"
+- id: "sch-adat", title: "أدات", type: "مدرسة"
+- id: "sch-sikolohiyang-pilipino", title: "سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)", type: "مدرسة"
 gaps:
   - "الفصل بين 'بانتشاسيلا' كإطار فلسفي (1945-1965) وكأيديولوجيا قومية (1975-1998) محل نزاع."
   - "لا اقتباس مباشر موثوق من خطبة سوكارنو 1 يونيو 1945 متاح في هذه المسودة."

@@ -10,11 +10,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ميليسا رولاند"
 edges:
-  - rel: "belongs_to", target: "العلاج متعدد الأجهزة (MST)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
 related:
-  - id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
-  - id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
+- id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
+- id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
+- id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

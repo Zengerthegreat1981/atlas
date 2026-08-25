@@ -13,14 +13,18 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
+- rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
-  - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
-  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
+- id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
+- id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
+- id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "تيار"
+- id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
+- id: "thk-sahmed", title: "سارة أحمد", type: "مفكر"
+- id: "dbt-feminist-universalism-vs-particularism", title: "جدل الكونية مقابل الخصوصية في النسوية", type: "جدل"
 gaps:
   - "نصوص Mohanty (Under Western Eyes, Feminism Without Borders) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "دُمج معه الملف المكرَّر thk-cmohanty (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # شاندرا موهانتي
@@ -37,7 +41,7 @@ gaps:
 
 ## قيد
 
-نقدها للنسوية الليبرالية «كُثِّف» بوصفه «رفضاً للتحالف» — وهو ما ردّت عليه بـ«نضال عبر الحدود» (Cross-Border Struggles) بوصفه جوهر النسوية المعاصرة.
+نقدها للنسوية الليبرالية قُرِئ بوصفه «رفضاً للتحالف» — وهو ما ردّت عليه بـ«نضال عبر الحدود» (Cross-Border Struggles) بوصفه جوهر النسوية المعاصرة.
 
 ## أهم أعمالها
 

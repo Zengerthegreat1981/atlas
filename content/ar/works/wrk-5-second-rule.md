@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2017
 active_end: 2017
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والتحفيز السلوكي", target_type: "مدرسة"
-  - rel: "written_by", target: "ميل روبنز", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والتحفيز السلوكي", target_type: "مدرسة"
+- rel: "written_by", target: "thk-mel-robbins", target_type: "مفكر"
 related:
-  - id: "thk-mel-robbins", title: "ميل روبنز", type: "مفكر"
+- id: "con-five-second-rule", title: "قاعدة الخمس ثوانٍ (كسر التسويف والتردد السلوكي)", type: "مفهوم"
+- id: "thk-mel-robbins", title: "ميل روبنز", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,10 +11,11 @@ dates: "جامعة ويسكونسن · التسعينيات"
 active_start: 1993
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
+- id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج المراحل العشرين لروبرت إنرايت (Robert Enright) ونموذج REACH لإيفرت وورثينغتون."
   - "التمييز الدقيق بين التسامح الحقيقي والمصالحة أو تبرير الإساءة والظلم."

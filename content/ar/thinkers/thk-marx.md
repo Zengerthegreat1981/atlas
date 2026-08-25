@@ -7,27 +7,35 @@ level: "متوسط"
 title: "كارل ماركس"
 en: "Karl Marx"
 crumb: "الماركسية الكلاسيكية ← المؤسسون ← ماركس"
-dates: "ترييه، بون، برلين، باريس، بروكسل، لندن · 1818–1883"
+dates: "ألمانيا (ترير) / فرنسا / بريطانيا · 1818–1883"
 country: "ألمانيا (بروسيا لاحقاً)، بريطانيا العظمى"
 language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1843
 active_end: 1883
 edges:
-  - rel: "belongs_to", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مدرسة"
+- rel: "belongs_to", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مدرسة"
 related:
-  - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
-  - id: "sch-hegel-left", title: "الهيغلية اليسارية", type: "مدرسة"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-  - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
-  - id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
-  - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "sch-hegel-left", title: "الهيغلية اليسارية", type: "مدرسة"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
+- id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "wrk-essay-on-man-cassirer", title: "مقال عن الإنسان (An Essay on Man) - كاسيرر", type: "عمل / كتاب"
+- id: "wrk-matter-and-memory-bergson", title: "المادة والذاكرة (Matière et Mémoire) - برغسون", type: "عمل / كتاب"
+- id: "wrk-symbolic-forms-cassirer", title: "فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر", type: "عمل / كتاب"
+- id: "wrk-time-and-free-will-bergson", title: "مقالة في المعطيات الفورية للوعي (Essai sur les données immédiates de la conscience) - برغسون", type: "عمل / كتاب"
+- id: "ctx-1848-spring-of-nations-europe", title: "ربيع الشعوب الأوروبية (1848) وصعود القوميات والاشتراكية", type: "سياق/تقليد"
+- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق/تقليد"
+- id: "ctx-industrial-revolution-manchester", title: "الثورة الصناعية في مانشستر وظهور الطبقة العاملة والتشيؤ", type: "سياق/تقليد"
+- id: "ctx-paris-commune-1871-uprising", title: "كومونة باريس (1871) وميلاد التجربة الديمقراطية العمالية الراديكالية", type: "سياق/تقليد"
 gaps:
   - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نقد 'Critique of the Gotha Programme' ومراسلات ماركس-بارت لم تُراجع في الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'Die einzige Philosophie' بعد."
 ---
-
 # كارل ماركس
 
 فيلسوف واقتصادي وصحفي ألماني، أب **الماركسية** الكلاسيكية، صاغ **المادية الجدلية** و**المادية التاريخية** ونظرية **فائض القيمة** (Mehrwert) في نقد الاقتصاد السياسي الرأسمالي. تأثيره على القرن العشرين — نظرياً وعملياً — لا يقاس بأي فيلسوف آخر.

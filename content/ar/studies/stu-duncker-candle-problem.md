@@ -9,10 +9,12 @@ en: "Karl Duncker's Candle Problem (Functional Fixedness)"
 crumb: "علم النفس المعرفي وحل المشكلات ← الدراسات والأبحاث ← تجربة دونكر لمشكلة الشمعة"
 active_start: 1935
 active_end: 1945
-edges: []
+edges:
+  []
 related:
-  - id: "thk-edward-de-bono", title: "إدوارد دي بونو", type: "مفكر"
-  - id: "wrk-six-thinking-hats", title: "قبعات التفكير الست", type: "عمل / كتاب"
+- id: "thk-edward-de-bono", title: "إدوارد دي بونو", type: "مفكر"
+- id: "wrk-six-thinking-hats", title: "قبعات التفكير الست", type: "عمل / كتاب"
+- id: "stu-luchins-water-jar-mental-set", title: "تجربة أبراهام لوشينز لأوعية الماء والجمود الذهني (Einstellung 1942)", type: "دراسة وبحث"
 gaps:
   - "تجارب دونكر في جامعة برلين وصياغة مصطلح 'الجمود الوظيفي' (Functional Fixedness)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

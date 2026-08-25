@@ -8,13 +8,14 @@ en: "Classical Conditioning (Pavlovian Conditioning)"
 crumb: "المعرفية السلوكية ← المفاهيم ← الإشتراط الكلاسيكي"
 active_start: 1903
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-  - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
+- id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التفاصيل الدقيقة للأنواع الفرعية: إشتراط من الدرجة الثانية، إشتراط متأخر، إشتراط مسبق (Higher-Order, Trace, Delay Conditioning) — موضع بحث."

@@ -13,11 +13,12 @@ language: "العربية"
 active_start: 880
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
+- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
-  - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
-  - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
-  - id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"
+- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"
+- id: "thk-maturidi", title: "أبو منصور محمد بن محمد الماتريدي", type: "مفكر"
 gaps:
   - "تاريخ ميلاد أبي منصور الماتريدي ومواقفه الأولى في سامرقند غير موثّقة من مصدر أوّلي."
   - "علاقته المباشرة بالمعتزلة البغداديين (هل تأثّر بأبي الهذيل أم بمعتزلة سامرقند المحليين) لا تزال موضع بحث."

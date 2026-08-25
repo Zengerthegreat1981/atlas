@@ -5,20 +5,22 @@ type: "مفكر"
 level: "متوسط"
 title: "ماري إيلين كوبلاند"
 en: "Mary Ellen Copeland"
-crumb: "br-peer-support ← أداة WRAP ← ماري إيلين كوبلاند"
+crumb: "الدعم النظير ← أداة WRAP ← ماري إيلين كوبلاند"
 dates: "الولايات المتحدة · 1946–2021"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1997
 active_end: 2021
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
+- rel: "belongs_to", target: "الدعم النظير", target_type: "تيار"
 related:
-  - id: "thk-dfisher", title: "دانيال فيشر", type: "مفكر"
-  - id: "br-peer-support", title: "الدعم النظير", type: "مفكر"
+- id: "br-peer-support", title: "الدعم النظير", type: "تيار"
+- id: "thk-ldavidson", title: "لاري ديفيدسون", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال فيشر (thk-dfisher)."
 ---
 
 # ماري إيلين كوبلاند

@@ -14,10 +14,10 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: 2017
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وإدارة التغيير", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي وإدارة التغيير", target_type: "مدرسة"
 related:
-  - id: "wrk-who-moved-my-cheese", title: "من حرك قطعة الجبن الخاصة بي؟", type: "عمل / كتاب"
-  - id: "wrk-one-minute-manager", title: "مدير الدقيقة الواحدة", type: "عمل / كتاب"
+- id: "wrk-who-moved-my-cheese", title: "من حرك قطعة الجبن الخاصة بي؟", type: "عمل / كتاب"
+- id: "wrk-one-minute-manager", title: "مدير الدقيقة الواحدة", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

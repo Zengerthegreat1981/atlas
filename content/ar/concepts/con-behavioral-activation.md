@@ -8,13 +8,15 @@ en: "Behavioral Activation (Concept)"
 crumb: "المعرفية السلوكية ← المفاهيم ← التنشيط السلوكي"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-njacobson", title: "نيل جاكوبسون", type: "مفكر"
-  - id: "thk-cmartell", title: "كريستوفر مارتل", type: "مفكر"
-  - id: "thk-maddis", title: "مايكل آديس", type: "مفكر"
-  - id: "tec-behavioral-activation", title: "التنشيط السلوكي (تقنية)", type: "تقنية/تدخل علاجي"
+- id: "thk-njacobson", title: "نيل جاكوبسون", type: "مفكر"
+- id: "thk-cmartell", title: "كريستوفر مارتل", type: "مفكر"
+- id: "thk-maddis", title: "مايكل آديس", type: "مفكر"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي (تقنية)", type: "تقنية/تدخل علاجي"
+- id: "br-advanced-aba-prt-vb", title: "ABA المتقدم (PRT و Verbal Behavior)", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "نموذج Lewinsohn (1974) و Jacobson (2001) و Martell (2001) — موضع بحث للتمييز التاريخي."

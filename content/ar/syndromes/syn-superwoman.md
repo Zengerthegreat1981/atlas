@@ -11,10 +11,11 @@ active_start: 1984
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-impostor-syndrome", title: "متلازمة المحتال (Impostor Syndrome)", type: "متلازمة"
 gaps:
   - "أبحاث مارجوري هانسن شيفيتز (Marjorie Hansen Shaevitz 1984)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,13 +9,20 @@ crumb: "علم نفس الجسد ← الناس ← Core Energetics ← جون �
 dates: "أمريكا / اليونان · 1921–2001"
 country: "أمريكا"
 language: "الإنجليزية / اليونانية"
+part: "philosophy"
+active_start: null
+active_end: 2001
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
+- id: "thk-kstinshoff", title: "كلاوس شتينشوف", type: "مفكر"
+- id: "thk-isebastiani", title: "إيفان سيباستياني", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # جون س. بيراكوس

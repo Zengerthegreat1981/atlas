@@ -11,11 +11,15 @@ active_start: 1990
 active_end: 2022
 country: "أستراليا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علاج التنمر والعدوان", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج التنمر والعدوان", target_type: "مدرسة"
 related:
+- id: "thk-jeberenz", title: "دان أولِس", type: "مفكر"
+- id: "thk-dolweus", title: "دان أولِس", type: "مفكر"
 gaps:
   - "لا تتوفر سنة ميلاد دقيقة موثقة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # كن رِجباي

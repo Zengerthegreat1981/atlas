@@ -10,13 +10,18 @@ crumb: "النسوية الفلسفية ← أخلاقيات الرعاية"
 active_start: 1982
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية البيئية (Ecofeminism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ecofeminism", target_type: "مدرسة"
 related:
-  - id: "thk-gillian-abbott", title: "كارول جيليغان", type: "مفكر"
+- id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
+- id: "exp-clara-barton-civil-war-nursing", title: "تجربة كلارا بارتون في ميادين الحرب وتأسيس الصليب الأحمر", type: "خبرة معيشة"
+- id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي — الإنسانية وما بعدها", type: "تيار"
 gaps:
   - "رابط مقترح لـ«بيرل تروتو» (thk-tronto) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النصوص التأسيسية (Gilligan 1982, Tronto 1993, Held 2006) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كارول جيليغان (thk-gillian-abbott)."
 ---
 
 # أخلاقيات الرعاية

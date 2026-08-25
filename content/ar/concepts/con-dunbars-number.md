@@ -11,10 +11,13 @@ crumb: "علم النفس التطوري وعلم الأعصاب الاجتما�
 active_start: 1992
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس التطوري وعلم الأعصاب الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس التطوري وعلم الأعصاب الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "wrk-tipping-point", title: "نقطة التحول", type: "عمل / كتاب"
-  - id: "con-bystander-effect", title: "تأثير المتفرج", type: "مفهوم"
+- id: "wrk-tipping-point", title: "نقطة التحول", type: "عمل / كتاب"
+- id: "con-bystander-effect", title: "تأثير المتفرج", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "أبحاث روبن دانبار (Robin Dunbar 1992) في جامعة أكسفورد وحجم القشرة المخية الجديدة (Neocortex ratio)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

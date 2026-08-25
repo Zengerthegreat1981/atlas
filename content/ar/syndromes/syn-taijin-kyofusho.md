@@ -11,11 +11,11 @@ active_start: 1930
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
 gaps:
   - "تطوير شوما موريتا (Shoma Morita) للعلاج بموريتا لعلاج متلازمة تايجين كيوفوشو."
   - "لا يوجد اقتباس مباشر موثوق متاح."

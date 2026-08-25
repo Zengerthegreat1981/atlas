@@ -11,11 +11,17 @@ dates: "1964 · إيريك بيرن"
 language: "الإنجليزية"
 active_start: 1964
 active_end: 1964
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل التبادلي", target_type: "مدرسة"
-  - rel: "authored_by", target: "إيريك بيرن", target_type: "مفكر"
+- rel: "belongs_to", target: "التحليل التبادلي", target_type: "مدرسة"
+- rel: "authored_by", target: "إيريك بيرن", target_type: "مفكر"
 related:
-  - id: "thk-eckartsberg", title: "رولف فون إكارتسبيرغ", type: "مفكر"
+- id: "thk-eburne", title: "إريك برن", type: "مفكر"
+- id: "thk-thomas-harris", title: "توماس أ. هاريس", type: "مفكر"
+- id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
+- id: "tec-ego-state", title: "حالة الأنا", type: "تقنية/تدخل علاجي"
+- id: "thk-furtmuller", title: "كارل فورتمولر", type: "مفكر"
+- id: "thk-eckartsberg", title: "رولف فون إكارتسبيرغ", type: "مفكر"
 gaps:
   - "مبيعات الكتاب (أكثر من مليون نسخة في سنتين) وترجماته (35+ لغة) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

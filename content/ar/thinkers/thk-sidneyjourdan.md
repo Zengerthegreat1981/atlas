@@ -11,10 +11,11 @@ country: "كندا"
 language: "الإنجليزية"
 active_start: 1958
 active_end: 1974
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
-  - id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

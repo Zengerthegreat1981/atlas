@@ -11,10 +11,14 @@ country: "ألمانيا/الولايات المتحدة"
 language: "الألمانية"
 active_start: 1913
 active_end: 1967
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الجشطالتي (برلين)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الجشطالتي (مدرسة برلين)", target_type: "مدرسة"
 related:
-  - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
+- id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
+- id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
+- id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
+- id: "stu-wertheimer-gestalt", title: "تجارب Wertheimer للإدراك الجشطلتي: حركة الفانتوم (1912)", type: "دراسة وبحث"
 gaps:
   - "تفاصيل الفترة في محطة Anthropoid (تينيريفي) لم تُراجع بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

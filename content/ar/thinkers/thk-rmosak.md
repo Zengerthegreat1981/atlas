@@ -10,11 +10,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← روبرت موشارك"
 edges:
-  - rel: "belongs_to", target: "br-teacch", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
-  - id: "br-teacch", title: "TEACCH", type: "مفكر"
+- id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+- id: "br-teacch", title: "TEACCH", type: "تيار"
+- id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,12 +11,15 @@ dates: "من الأربعينيات والسبعينيات"
 active_start: 1949
 active_end: "مستمر"
 language: "الإنجليزية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-edinger", title: "إدوارد إيدينغر", type: "مفكر"
-  - id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-edinger", title: "إدوارد إيدينغر", type: "مفكر"
+- id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النموذج التنموي لإريك نيومان حول انفصال الأنا عن الذات الأوربوروسية (Uroboros)."
   - "دورة الاغتراب والتكامل بين الأنا والذات عبر مسار الحياة عند إدوارد إيدينغر."

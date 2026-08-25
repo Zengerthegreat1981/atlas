@@ -13,18 +13,18 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1739
 active_end: 1790
 edges:
-  - rel: "belongs_to", target: "التجريبية البريطانية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مظلة"
 related:
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-  - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
-  - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
-  - id: "sch-scottish-common-sense", title: "فلسفة الحس المشترك الاسكتلندية", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
+- id: "sch-scottish-common-sense", title: "فلسفة الحس المشترك الاسكتلندية", type: "مدرسة"
+- id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 gaps:
   - "نصوص هيوم بالإنجليزية والفرنسية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'A Treatise of Human Nature'."
   - "التمييز بين 'هيوم الفيلسوف' و'الهيومية' (كتيار لاحق) معقّد."
 ---
-
 # الهيومية (الشكّ التجريبي)
 
 تقليد فلسفي تأسّس على يد **ديفيد هيوم** (David Hume، 1711-1776)، فيلسوف إسكتلندي ومؤرّخ، يُلقَّب بـ«**أعظم فيلسوف لغوي إنجليزي**» (Summus Philosophus Anglicus). تُمثّل الهيومية **ذروة** (Culmen) «**التجريبية**» (Empiricism) «**البريطانية**» (Britannica) و«**نقطة**» (Punctum) «**التوتّر**» (Tensio) مع «**الميتافيزيقا**» (Metaphysica) «**التقليدية**» (Tradita). رفض **هيوم** «**السببية**» (Causa) «**كقوّة**» (Ut Vis)، و«**الذات**» (Ego) «**كجوهر**» (Ut Substantia)، و«**المعجزات**» (Miracula)، و«**اللاهوت**» (Theologia) «**الطبيعي**» (Naturalis). أثّرت في **كانط** (Kant) و«**المثالية**» (Idealismus) و«**النفعية**» (Utilitas) و«**فلسفة**» (Philosophia) «**القرن 20 م**» (Saeculum XX).

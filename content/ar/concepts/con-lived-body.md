@@ -11,11 +11,12 @@ active_start: 1913
 active_end: "مستمر"
 language: "الألمانية/الفرنسية"
 edges:
-  - rel: "belongs_to", target: "الظاهراتية الجسدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
 gaps:
   - "الفرق الدقيق بين 'الجسد المعيش' و'الوعي الجسدي' لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'ظاهراتية الإدراك' (1945)."

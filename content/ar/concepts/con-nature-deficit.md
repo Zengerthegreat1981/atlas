@@ -1,7 +1,7 @@
 ---
 slug: "con-nature-deficit"
-id: "THK-2161"
-type: "مفكر"
+id: "CON-1260"
+type: "مفهوم"
 level: "مبتدئ"
 title: "متلازمة عجز الطبيعة"
 en: "Nature Deficit Disorder (NDD)"
@@ -10,17 +10,20 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 2005
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
 related:
-  - id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
-  - id: "con-trauma", title: "الصدمة", type: "مفكر"
+- id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
+- id: "con-trauma", title: "الصدمة", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "المصطلح صاغه ريتشارد لوف عام 2005، وهو ليس تشخيصاً رسمياً معتمداً في DSM-5 أو ICD-11، بل مصطلح وصفي."
   - "ينعكس في: زيادة اضطرابات الانتباه، القلق، الاكتئاب، السمنة، تراجع مهارات التعامل الاجتماعي عند الأطفال والمراهقين."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # متلازمة عجز الطبيعة (NDD)
 
 مصطلح وصفي صاغه الكاتب الأمريكي ريتشارد لوف عام 2005، يصف الآثار النفسية والجسدية والاجتماعية الناتجة عن قطيعة الإنسان المعاصر (ولا سيما الأطفال) مع العالم الطبيعي.

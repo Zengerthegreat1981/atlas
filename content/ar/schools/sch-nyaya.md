@@ -13,14 +13,16 @@ language: "السنسكريتية"
 active_start: -200
 active_end: 1800
 edges:
-  - rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
+- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
 related:
-  - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-  - id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "thk-gotama-kanad", title: "أكساپادا غوتاما (مؤسس نيايا)", type: "مفكر"
 gaps:
   - "نصوص نيايا الأصلية (Nyāya Sūtra لجوتاما، تعليق Udayana) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نيايا (Nyāya)

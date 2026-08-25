@@ -10,17 +10,20 @@ crumb: "المدرسة الوجودية ← الأعمال ← علم النفس
 dates: "1913 · ياسبرز"
 active_start: 1913
 active_end: 1913
+part: "psychology"
 edges:
-  - rel: "written_by", target: "ياسبرز", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "ياسبرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-jaspers", title: "ياسبرز", type: "مفكر"
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "thk-jaspers", title: "ياسبرز", type: "مفكر"
+- id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
 ---
-
 # علم النفس المرضي العام
 
 الكتاب الذي أدخل المنهج الظاهراتي إلى الطب النفسي، ولا يزال يُدرَّس بعد قرن.

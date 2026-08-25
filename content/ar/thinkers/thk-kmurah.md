@@ -9,28 +9,31 @@ crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
-  - id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
-  - id: "thk-jkirsch", title: "جيمس كيرش", type: "مفكر"
+- id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
+- id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
+- id: "thk-jkirsch", title: "جيمس كيرش", type: "مفكر"
 gaps:
   - "عنصر placeholder — كلّ جمعية أمريكية تستحق ملفاً مستقلاً."
   - "هوية المؤسِّسين الفعليين لـ 19 معهداً/جمعية أمريكية موثّقة في IAAP — غير موثّقة مركزياً في هذا البحث."
 ---
 
-# مؤسِّسو الجمعيات والمعاهد التحليلية في الولايات المتحدة (placeholder)
+# مؤسسو الجمعيات والمعاهد التحليلية في الولايات المتحدة (placeholder)
 
 ## CGJIZ (CG Jung Institute Zurich) — سويسرا (الجذر)
 ## CGJIC (CG Jung Institute of Colorado) — Boulder
-## CGJILA (CG Jung Institute of Los Angeles) — LA (مؤسِّسوها: James Kirsch 1943)
+## CGJILA (CG Jung Institute of Los Angeles) — LA (مؤسسوها: James Kirsch 1943)
 ## CGJIS (CG Jung Institute of Seattle) — Seattle
 ## CGJISD (CG Jung Institute of San Diego) — San Diego
-## CGJISF (Society of Jungian Analysts of Northern California / CGJISF) — SF (مؤسِّسوها: Henderson, Wheelwright 1940)
+## CGJISF (Society of Jungian Analysts of Northern California / CGJISF) — SF (مؤسسوها: Henderson, Wheelwright 1940)
 ## CGJSCSC (CG Jung Study Center of Southern California) — LA
 ## CGJUNGNE (CG Jung Institute of New England) — Boston
-## CSJA (Chicago Society of Jungian Analysts) — Chicago (مؤسِّسوها: J. Wheelwright, M. Stein)
+## CSJA (Chicago Society of Jungian Analysts) — Chicago (مؤسسوها: J. Wheelwright, M. Stein)
 ## DSJA (Dallas Society of Jungian Analysts) — Dallas
 ## GAJA (Georgia Association of Jungian Analysts) — Atlanta
 ## IRSJA (Inter-Regional Society of Jungian Analysts) — عبر الأقاليم
@@ -44,4 +47,4 @@ gaps:
 ## PNSJA (Pacific Northwest Society of Jungian Analysts) — PNW
 ## PSJA (Pittsburgh Society of Jungian Analysts) — Pittsburgh
 
-ملف placeholder موحَّد، يجب فصله لوصف كلّ واحد مع المؤسِّسين الفعليين.
+ملف placeholder موحد، يجب فصله لوصف كل واحد مع المؤسسين الفعليين.

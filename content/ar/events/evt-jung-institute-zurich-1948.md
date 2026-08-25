@@ -9,10 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1948
 active_end: "مستمر"
 country: "سويسرا"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
+- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
+- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
+- id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 gaps:
   - "دور ماري لويز فون فرانز وك. أ. ماير في التدريس المبكر بالمعهد يحتاج توثيقاً"
   - "انشقاق معهد ISAP Zurich عام 2004 حول معايير التدريب يتطلب مراجعة تاريخية"

@@ -11,16 +11,18 @@ dates: "2000"
 active_start: 2000
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-  - id: "thk-rothschild", title: "بابي روتشيلد", type: "مفكر"
-  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
-  - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
+- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 gaps:
   - "مقاربة بابي روتشيلد لـ 'الذاكرة الجسدية' (Somatic Memory) و'حدود الإيقاع'."
   - "التمييز عن SE (التجربة الجسدية) و Sensorimotor يبقى دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بابي روتشيلد (thk-rothschild)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
 
 # العلاج الجسدي للصدمة (Somatic Trauma Therapy)

@@ -8,8 +8,15 @@ en: "Piaget & Inhelder Three Mountains Task"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة الجبال الثلاثة لبياجيه"
 active_start: 1948
 active_end: 1956
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تجارب مارتن هيوز (1975) باستخدام نموذج الشرطي والدمية أظهرت قدرة الأطفال على تبني المنظور في سن 3-4 سنوات وتحتاج مقارنة"
   - "الارتباط النمائي بين أخذ المنظور المكاني ونظرية العقل الوجدانية يتطلب توثيقاً متكاملاً"

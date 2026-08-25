@@ -11,11 +11,13 @@ dates: "فيرجينيا · التسعينيات"
 active_start: 2000
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-mccullough", title: "جيمس ب. ماكولوغ الابن", type: "مفكر"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "النموذج النمائي لجيمس ماكولوغ (James McCullough) حول التثبيت المعرفي في المرحلة ما قبل العملياتية (Piaget's Preoperational Stage) عند مرضى الاكتئاب المزمن."
   - "تقنية تحليل الموقف (Situational Analysis) والتمييز بين المعالج والأشخاص الصادمين في الماضي (Interpersonal Discrimination Exercise)."

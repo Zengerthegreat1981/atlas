@@ -11,10 +11,13 @@ crumb: "علم النفس المعرفي وسيكولوجيا التفكير ←
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا التفكير", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا التفكير", target_type: "مدرسة"
 related:
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-  - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "ins-iat-implicit-association", title: "اختبار الارتباط الضمني لقياس التحيزات اللاواعية (IAT)", type: "أداة قياس"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تجارب بيتر واسون (Peter Wason 1960) في اكتشاف القواعد وحساب البطاقات الأربع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

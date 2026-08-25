@@ -6,15 +6,19 @@ level: "متقدم"
 title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية"
 en: "Adorno's Critique: The Jargon of Authenticity as Ideological Anesthesia"
 crumb: "المدرسة الوجودية ← النقد الخارجي ← نقد أدورنو: رطانة الأصالة"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "crt-marxist-critique-psychology", title: "النقد الماركسي/الطبقي", type: "نقد خارجي موثَّق"
+- id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "crt-marxist-critique-psychology", title: "النقد الماركسي/الطبقي لعلم النفس: علم نفس السيطرة الاجتماعية", type: "نقد خارجي موثَّق"
+
 gaps:
   - "النص الأصلي 'Jargon der Eigentlichkeit' (1964) لأدورنو يحتاج مراجعة من المصدر الأولي للاقتباسات الدقيقة."
   - "ردود الفعل الوجودية على نقد أدورنو تستحق توثيقاً مستقلاً."

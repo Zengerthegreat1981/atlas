@@ -11,14 +11,18 @@ dates: "من 2004"
 active_start: 2004
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-singer", title: "توماس سينغر", type: "مفكر"
-  - id: "thk-samuels", title: "أندرو صاموئلز", type: "مفكر"
-  - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
+- id: "thk-singer", title: "توماس سينغر", type: "مفكر"
+- id: "thk-samuels", title: "أندرو صاموئلز", type: "مفكر"
+- id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أعمال توماس سينغر وصاموئيل كيمبر في تحليل الصراعات العرقية والقومية والحروب كعقد نفسية ثقافية لاواعية."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # المركّب الثقافي والظلال الجمعية

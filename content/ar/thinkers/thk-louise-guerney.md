@@ -11,10 +11,13 @@ active_start: 1960
 active_end: 2015
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Filial Therapy (العلاج العلائقي الوالد-الطفل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البنوي والعائلي باللعب", target_type: "مدرسة"
 related:
-  - id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"
+- id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"
+- id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
+- id: "thk-glandreth", title: "غاري لاندريث", type: "مفكر"
 gaps:
   - "تواريخ ميلادها ووفاتها الدقيقة غير مؤكدة في المصادر المتاحة."
   - "active_end صُحّح من 2000 إلى 2015 (بحث خارجي أظهر استمرار نشاطها التدريبي عبر NIRE ومقالة استعادية بعنوان 'A Golden Intervention: 50 Years of Research on Filial Therapy' عام 2015) — لم يُعثر على سنة وفاة مؤكدة بعد هذا التاريخ، فالقيمة تقريبية لا نهائية."

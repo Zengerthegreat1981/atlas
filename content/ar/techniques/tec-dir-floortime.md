@@ -11,10 +11,11 @@ dates: "الثمانينيات والتسعينيات"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-theraplay", title: "علاج ثيرابلاي للتفاعل الأسري والارتباط", type: "تقنية/تدخل علاجي"
+- id: "tec-theraplay", title: "علاج ثيرابلاي للتفاعل الأسري والارتباط", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج ستانلي غرينسبان وسيرينا ويدر (Stanley Greenspan & Serena Wieder) القائم على مراحل النمو الوظيفي الانفعالي الست (FEDCs)."
   - "مبدأ النزول إلى مستوى الطفل على الأرض (Floortime) واتباع قيادته لفتح وإغلاق دوائر التواصل الاجتماعي والعاطفي."

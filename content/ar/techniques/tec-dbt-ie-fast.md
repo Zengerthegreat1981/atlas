@@ -9,13 +9,14 @@ crumb: "العلاج الجدلي السلوكي (DBT) ← مهارات العل
 active_start: 1993
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
-  - id: "tec-dbt-ie-dear-man", title: "دير مان (DEAR MAN) — مهارة شدة الطلب والرفض", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-ie-give", title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-ie-avoiding-unnecessary-apologies", title: "تجنب الاعتذار غير الضروري", type: "تقنية/تدخل علاجي"
-  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-ie-dear-man", title: "دير مان (DEAR MAN) — مهارة شدة الطلب والرفض", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-give", title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-avoiding-unnecessary-apologies", title: "تجنب الاعتذار غير الضروري", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

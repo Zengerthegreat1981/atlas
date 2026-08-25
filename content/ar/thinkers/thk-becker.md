@@ -8,20 +8,22 @@ en: "Ernest Becker"
 crumb: "المدرسة الوجودية ← الناس ← إرنست بيكر"
 dates: "الولايات المتحدة · 1924–1974"
 active_start: 1962
-active_end: 1975
+active_end: 1974
 language: "الإنجليزية"
 country: "أمريكا"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
-  - id: "thk-lifton", title: "روبرت جاي ليفتون", type: "مفكر"
-  - id: "thk-greenberg", title: "جيف غرينبرغ", type: "مفكر"
-  - id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
+- id: "thk-yalom", title: "يالوم", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
+- id: "thk-lifton", title: "روبرت جاي ليفتون", type: "مفكر"
+- id: "thk-lgreenberg", title: "جيف غرينبرغ", type: "مفكر"
+- id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
 gaps:
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إرنست بيكر
@@ -54,7 +56,7 @@ gaps:
 
 ## أهم أعماله
 
-مولد المعنى وموته (The Birth and Death of Meaning, 1962) · إنكار الموت (The Denial of Death, 1973) · الهروب من الشر (Escape from Evil, 1975 (نُشر بعد وفاته))
+مولد المعنى وموته (The Birth and Death of Meaning, 1962) · إنكار الموت (The Denial of Death, 1973) · الهروب من الشر (Escape from Evil, 1975، نُشر بعد وفاته)
 
 ## اقتباسات مختارة
 

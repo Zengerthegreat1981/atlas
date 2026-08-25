@@ -10,12 +10,13 @@ crumb: "الفلسفة ← الصين ← الكونفوشية المبكرة �
 active_start: -300
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "thk-mencius", title: "منسيوس", type: "مفكر"
-  - id: "thk-xunzi", title: "شون تزو", type: "مفكر"
-  - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "thk-mencius", title: "منسيوس", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "dbt-nature-nurture-gene-environment-interaction", title: "جدل التفاعل بين الجين والبيئة", type: "جدل"
 gaps:
   - "المواقف الوسط (مثل غاو زي Gao Zi) في جدل الطبيعة البشرية لم تُغطَّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

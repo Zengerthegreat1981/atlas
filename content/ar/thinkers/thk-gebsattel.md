@@ -7,21 +7,23 @@ title: "فيكتور فون غيبساتل"
 en: "Viktor von Gebsattel"
 crumb: "المدرسة الوجودية ← الناس ← فيكتور فون غيبساتل"
 dates: "ألمانيا · 1883–1976"
-active_start: 1947
+active_start: 1928
 active_end: 1954
 country: "ألمانيا"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
-  - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
-  - id: "thk-scheler", title: "ماكس شيلر", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
+- id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
+- id: "thk-scheler", title: "ماكس شيلر", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر من مصدر أولي محقق."
   - "تفاصيل ترجمات أعماله الطبية والنفسية إلى العربية غير متوفرة وتحتاج بحثاً في المراجع الأولية."
@@ -46,4 +48,4 @@ gaps:
 
 ## أهم أعماله
 
-المسيحية والأنثروبولوجيا الإنسانية (Christentum und Humanismus, 1947) · مدخل إلى الأنثروبولوجيا الطبية (Prolegomena einer medizinischen Anthropologie, 1954).
+المسيحية والإنسانوية (Christentum und Humanismus, 1947) · مقدّمات لأنثروبولوجيا طبية (Prolegomena einer medizinischen Anthropologie, 1954) · دراساته المبكّرة في فينومينولوجيا الوسواس والاكتئاب (العشرينيات والثلاثينيات)، وفيها أطروحته أن الوسواس والاكتئاب اضطرابٌ في «الصيرورة» نفسها: توقّف الاندفاع نحو المستقبل، فيصير الزمن راكداً والحاضر سجناً.

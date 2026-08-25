@@ -13,11 +13,12 @@ language: "الإنجليزية"
 active_start: 1836
 active_end: 1860
 edges:
-  - rel: "belongs_to", target: "الرومانسية الفلسفية", target_type: "مظلة"
-  - rel: "evolved_into", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-romanticism", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
-  - id: "thk-emerson", title: "رالف والدو إمرسون", type: "مفكر"
-  - id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
+- id: "thk-emerson", title: "رالف والدو إمرسون", type: "مفكر"
+- id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«مارغريت فولر» (thk-fuller) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جورج ريبلي» (thk-ripley) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

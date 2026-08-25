@@ -6,19 +6,20 @@ level: ""
 title: "البريطانيون ضد التيار الأمريكي"
 en: "Philosophy or technique?"
 crumb: "المدرسة الوجودية ← الخصومات ← فلسفة أم تقنية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
-  - id: "thk-vandeurzen", title: "فان دورزن", type: "مفكرة"
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
+- id: "br-british", title: "التيار البريطاني", type: "تيار"
+- id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+- id: "thk-vandeurzen", title: "فان دورزن", type: "مفكر"
+- id: "thk-yalom", title: "يالوم", type: "مفكر"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
-
 # البريطانيون ضد التيار الأمريكي
 
 أوسع خصومة معاصرة، وهي في جوهرها خلاف على ما يجعل العلاج «وجودياً» أصلاً.

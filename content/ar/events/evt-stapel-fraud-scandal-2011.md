@@ -9,9 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 2011
 active_end: 2012
 country: "هولندا"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
+- id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
+- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
+- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
+- id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
+- id: "evt-founding-of-kyoto-school-1911", title: "صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م)", type: "حدث تاريخي"
 gaps:
   - "دور الباحثين الشباب وطلاب الدكتوراه الذين بلغوا عن التزوير (Whistleblowers) يتطلب توثيقاً"
   - "التدقيق الإحصائي في مصفوفات البيانات المصطنعة بواسطة ماريل فيتشيرت (Jelte Wicherts) يحتاج مراجعة"

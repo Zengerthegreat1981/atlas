@@ -8,9 +8,11 @@ en: "Lepper, Greene & Nisbett Overjustification Effect Study on Drawing and Rewa
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة ليبر لفرط التبرير"
 active_start: 1973
 active_end: 1973
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "التمييز بين المكافآت المتوقعة (Expected) وغير المتوقعة (Unexpected) في التأثير على الاستمتاع يحتاج تفصيلاً تربوياً"
   - "التطبيقات في نظم الدرجات ولوحات الشرف المدرسية والتحفيز السلوكي تتطلب مراجعة نقدية"

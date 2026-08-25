@@ -11,10 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1957
 active_end: 2002
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "حركة اللقاء الجماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "حركة اللقاء الجماعي", target_type: "مدرسة"
 related:
-  - id: "tec-encounter-groups", title: "حركة اللقاء الجماعي", type: "تقنية/تدخل علاجي"
+- id: "tec-encounter-groups", title: "حركة اللقاء الجماعي", type: "تقنية/تدخل علاجي"
+- id: "thk-gbach", title: "جورج بَخ", type: "مفكر"
+- id: "thk-gleonard", title: "جورج ليونارد", type: "مفكر"
 gaps:
   - "تفاصيل استقالته من Esalen Institute في أواخر الستينيات لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

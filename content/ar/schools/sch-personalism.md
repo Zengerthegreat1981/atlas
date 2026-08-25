@@ -13,11 +13,12 @@ language: "الفرنسية، الألمانية، الإنجليزية"
 active_start: 1840
 active_end: 1930
 edges:
-  - rel: "evolved_into", target: "الشخصانية المعاصرة", target_type: "مدرسة"
-  - rel: "belongs_to", target: "المثالية الأمريكية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-personalism-contemporary", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-american-idealism", target_type: "مظلة"
 related:
-  - id: "thk-mounier", title: "إيمانويل مونييه", type: "مفكر"
-  - id: "thk-blondel", title: "موريس بلونديل", type: "مفكر"
+- id: "thk-mounier", title: "إيمانويل مونييه", type: "مفكر"
+- id: "thk-blondel", title: "موريس بلونديل", type: "مفكر"
+- id: "sch-personalism-contemporary", title: "الشخصانية المعاصرة (Contemporary Personalism)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«شارل رينوفييه» (thk-renouvier) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«بوردن باركه بوين» (thk-bowne) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

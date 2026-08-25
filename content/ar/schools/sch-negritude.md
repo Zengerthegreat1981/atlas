@@ -13,15 +13,17 @@ language: "الفرنسية"
 active_start: 1932
 active_end: 1980
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
-  - id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
-  - id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
-  - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
-  - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
+- id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
+- id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
+- id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
+- id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "sch-caribbean-philosophy", title: "فلسفة الكاريبي (الهوية والكريولية)", type: "مدرسة"
 gaps:
   - "نصوص Aimé Césaire, Léopold Sédar Senghor, Léon Damas, Alioune Diop تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الزنوجة (Négritude)

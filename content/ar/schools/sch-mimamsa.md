@@ -13,10 +13,12 @@ language: "السنسكريتية"
 active_start: -200
 active_end: 900
 edges:
-  - rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
+- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-vedic", title: "الفكر الفيدي الطقسي", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vedic", title: "الفكر الفيدي الطقسي", type: "مدرسة"
+- id: "thk-mandana-misra", title: "ماندانا ميشرا (جسر الميمنسا وأدفايتا)", type: "مفكر"
+- id: "con-zurvan", title: "زروان (الزمن المطلق / القدر)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«مدرسة بهاتا وبرابهاكرا» (sch-bhattacharya-mimamsa) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Mīmāṃsā Sūtra (لجيميني) وŚābara Bhāṣya تحتاج مراجعة من المصدر الأولي."

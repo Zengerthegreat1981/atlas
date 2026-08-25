@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← ما بعد الاستعمار ←
 active_start: 1978
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "ما بعد الاستعمار الفلسفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-  - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Pantheon Books الأصلية (1978) ولا ردود فعل المؤرخين (ديفيد، برنال، لويز)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الاستشراق (Orientalism)

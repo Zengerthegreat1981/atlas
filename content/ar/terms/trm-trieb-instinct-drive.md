@@ -6,11 +6,15 @@ level: "متقدم"
 title: "ترجمة Trieb عند فرويد: غريزة أم دافع؟"
 en: "Translating Freud's Trieb: Instinct vs. Drive"
 crumb: "مدرسة التحليل النفسي ← المصطلحات المتنازع عليها ← ترجمة Trieb"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-oedipus-complex", title: "عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي)", type: "مفهوم"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
   - "مقارنة نقدية بين ترجمة ستراتشي الإنجليزية وترجمة جان لابلانش الفرنسية والترجمات العربية (مصطفى صفوان، سامي علي) تحتاج تدقيقاً بيبلوغرافياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

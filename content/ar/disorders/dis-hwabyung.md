@@ -8,11 +8,13 @@ en: "Hwabyung (火病)"
 crumb: "أطر غير غربية ← الاضطرابات ← الهوابيونغ"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج الهوابيونغ", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج الهوابيونغ", target_type: "مدرسة"
 related:
-  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
-  - id: "syn-anger", title: "نوبة الغضب", type: "متلازمة"
+- id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "syn-anger", title: "نوبة الغضب", type: "متلازمة"
+- id: "con-hwabyung-concept", title: "الهوابيونغ (مفهوم ثقافي)", type: "مفهوم"
 gaps:
   - "الدراسات الطولية (Longitudinal) لتطور Hwabyung وعلاجه لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

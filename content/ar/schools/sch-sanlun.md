@@ -13,13 +13,13 @@ language: "الصينية الكلاسيكية"
 active_start: 580
 active_end: 1400
 edges:
-  - rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
-  - rel: "evolved_from", target: "يوغاكارا", target_type: "مدرسة"
+- rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-yogacara", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
-  - id: "sch-faxiang", title: "فاشيانغ (يوغاكارا الصينية)", type: "مدرسة"
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-faxiang", title: "فاشيانغ (يوغاكارا الصينية)", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 gaps:
   - "نصوص Jizang (Zhonglun، Erdi Yi، Sanlun Xuanyi) وSengzhao (Zhao Lun) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Sanlun كتيار مادهياماكي صيني و Madhyamaka الهندية الأصلية يستحق بحثاً نقدياً."

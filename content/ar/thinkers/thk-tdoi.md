@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← تاكيو د�
 dates: "اليابان · 1920–2009"
 country: "اليابان"
 language: "اليابانية"
+part: "psychology"
+active_start: null
+active_end: 2009
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
-  - id: "con-amae", title: "أماي (الاعتمادية الحميمية والتكامل النفسي)", type: "مفهوم"
+- id: "thk-ynakagami", title: "ياسوشي ناكاغامي", type: "مفكر"
+- id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
+- id: "con-amae", title: "أماي (الاعتمادية الحميمية والتكامل النفسي)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مدى اعتباره «يونغياً صافياً» (تدرّبه كان في مدرسة IPA في طوكيو مع M. Sawayanagi) — موضع نقاش."

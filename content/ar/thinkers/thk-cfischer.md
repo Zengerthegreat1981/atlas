@@ -11,12 +11,13 @@ active_start: 1985
 active_end: 2005
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "نموذجها في 'التقييم النفسي التعاوني والتشاركي' (Collaborative Assessment) يحتاج ربطاً بالتقنيات الإكلينيكية."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-التقييم النفسي الفردي: مدخل فينومينولوجي (Individualizing Psychological Assessment, 1985) · المنهج النوعي في علم النفس الإكلينيكي (Qualitative Research Methods for Psychologists, 2005).
+التقييم النفسي الفردي: مدخل فينومينولوجي (Individualizing Psychological Assessment, 1985) · مناهج البحث النوعي لعلماء النفس (Qualitative Research Methods for Psychologists, 2005).

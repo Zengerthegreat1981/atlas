@@ -11,12 +11,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الاستشارات متعددة الثقافات", target_type: "مدرسة"
+- rel: "belongs_to", target: "الاستشارات متعددة الثقافات", target_type: "مدرسة"
 related:
+- id: "thk-donaldatkinson", title: "دونالد أتكينسون", type: "مفكر"
+- id: "thk-frederickleong", title: "فريديريك ليونغ", type: "مفكر"
+- id: "thk-janethelms", title: "جانيت هيلمز", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق غير موثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دونالد أتكينسون (thk-donaldatkinson)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فريديريك ليونغ (thk-frederickleong)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جانيت هيلمز (thk-janethelms)."
 ---
 
 # رافائيل تيدِسكي
@@ -39,7 +46,7 @@ gaps:
 
 - *Multicultural Perspectives in Counseling* (1987، مع أرليندسون).
 - *Multicultural Issues in Counseling* (1995، مع أرليندسون وكازاميا).
-- *Culturally Responsive Counseling* (2000s).
+- *Culturally Responsive Counseling* (العقد الأول من القرن الحادي والعشرين).
 
 ## اقتباسات مختارة
 

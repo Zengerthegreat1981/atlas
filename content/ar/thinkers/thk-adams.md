@@ -11,12 +11,13 @@ active_start: 2011
 active_end: 2018
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'دليل الممارسة السريرية للعلاج الوجودي' بالاشتراك مع إيمي فان دورزن يستحق إدراجه في الأعمال."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-مهارات العلاج النفسي الوجودي (Skills in Existential Counselling & Psychotherapy, 2011/2016 مع إيمي فان دورزن) · أسطورة العلاج الوجودي (An Existential Approach to Human Development, 2014) · سيرة العلاج الوجودي المصور (Existential Therapy: Distinctive Features, 2018).
+مهارات العلاج النفسي الوجودي (Skills in Existential Counselling & Psychotherapy, 2011/2016 مع إيمي فان دورزن) · مقاربة وجودية للنمو الإنساني (An Existential Approach to Human Development, 2014) · العلاج الوجودي: سماته المميِّزة (Existential Therapy: Distinctive Features, 2018).

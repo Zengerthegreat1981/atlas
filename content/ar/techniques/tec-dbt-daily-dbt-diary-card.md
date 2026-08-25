@@ -9,12 +9,14 @@ crumb: "العلاج الجدلي السلوكي (DBT) ← مهارات لتطب
 active_start: 1993
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
-  - id: "tec-dbt-daily-weekly-skills-review", title: "المراجعة الأسبوعية للمهارات", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-daily-dbt-coping-toolbox", title: "صندوق أدوات التأقلم الشخصي", type: "تقنية/تدخل علاجي"
-  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-daily-weekly-skills-review", title: "المراجعة الأسبوعية للمهارات", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-daily-dbt-coping-toolbox", title: "صندوق أدوات التأقلم الشخصي", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-daily-daily-mindfulness-check-in", title: "تسجيل يقظة يومي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

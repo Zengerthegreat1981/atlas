@@ -11,12 +11,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
-  - rel: "belongs_to", target: "العلاج التكاملي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج التكاملي", target_type: "مدرسة"
 related:
-  - id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-hstrupp", title: "هانس ستروب", type: "مفكر"
+- id: "thk-jnorcross", title: "جون نوركروس", type: "مفكر"
+- id: "thk-lluborsky", title: "ليستر لوبورسكي", type: "مفكر"
+- id: "thk-tlidz", title: "ثيودور ليدز", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة والإسهامات اللاحقة بعد 2010 لم تُراجع من مصدر أولي مباشر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

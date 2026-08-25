@@ -11,11 +11,12 @@ dates: "بوسطن ونيوهيفن · السبعينيات"
 active_start: 1974
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "دليل كليرمان ووايسمان المعياري المعتمد في منظمة الصحة العالمية (WHO) لعلاج الاكتئاب واكتئاب ما بعد الولادة."
   - "المجالات الأربعة الأساسية لـ IPT: الفقد/الحزن المعقد، الخلافات في الأدوار، الانتقال في الأدوار، العجز البيني الشخصي."

@@ -6,18 +6,19 @@ level: "متقدم"
 title: "أدريان بيبرزاك"
 en: "Adriaan Peperzak"
 crumb: "المدرسة الوجودية ← الناس ← أدريان بيبرزاك"
-dates: "هولندا / أمريكا · 1923–"
+dates: "هولندا / أمريكا · 1923–2021"
 active_start: 1993
-active_end: 2003
+active_end: 2021
 country: "هولندا / أمريكا"
 language: "الهولندية / الفرنسية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دراساته الشارحة لفينومينولوجيا ليفيناس الأخلاقية وأثرها في علم النفس الإكلينيكي تحتاج إبرازاً."

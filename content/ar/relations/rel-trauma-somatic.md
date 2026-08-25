@@ -8,20 +8,24 @@ en: "Trauma-Focused Therapy and Somatic Therapy: Somatic Experiencing as Bridge"
 crumb: "العلاج بالصدمة ← العلاقات ← العلاج بالصدمة والعلاج الجسدي"
 active_start: 1977
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "العلاج بالصدمة", target_type: "مدرسة"
-  - rel: "relates_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالصدمة", target_type: "مدرسة"
+- rel: "relates_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
 related:
-  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
-  - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
-  - id: "thk-rothschild", title: "بابي روتشيلد", type: "مفكر"
-  - id: "thk-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-  - id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"
-  - id: "thk-resick", title: "باتريشيا أ. ريسك", type: "مفكر"
+- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
+- id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
+- id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
 gaps:
   - "دور ريتشارد رولف (Bodyworker، 1970s) في تأثير ليفين لم يُوثّق بدقة."
   - "تأثير ولاية بافلوف (Conditioning) في تفسير ليفين للصدمة كاستجابة غير منتهية — يحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح من ليفين عن فوا أو ريسك."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بابي روتشيلد (thk-rothschild)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا ب. فوا (thk-foa)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باتريشيا أ. ريسك (thk-resick)."
 ---
 
 # العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر
@@ -264,7 +268,7 @@ gaps:
 ## ملاحظة: بيتر ليفين وعلم النفس التطوري
 
 - **ليفين** (2010): *In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness*.
-- **الفكرة الجديدة**: علم النفس التطوري يدعم SE — "الجسد يذكُر" (Cellular Memory).
+- **الفكرة الجديدة**: علم النفس النمائي يدعم SE — "الجسد يذكُر" (Cellular Memory).
 - **النقد**: "هذا متطرف علمياً."
 - **الرد**: "ليس متطرفاً — علم الأعصاب يثبت."
 

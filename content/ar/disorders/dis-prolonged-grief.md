@@ -6,12 +6,18 @@ level: "متوسط"
 title: "اضطراب الحزن المطوّل"
 en: "Prolonged Grief Disorder"
 crumb: "المدرسة الوجودية ← الاضطرابات والحالات الإكلينيكية ← اضطراب الحزن المطوّل"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-sadness", title: "الحزن", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "syn-empty-nest", title: "متلازمة العش الفارغ (حزن استقلال الأبناء)", type: "متلازمة"
+- id: "syn-tsunami-ghosts", title: "متلازمة أشباح تسونامي والصدمة التفارقية الجمعية", type: "متلازمة"
 gaps:
   - "هذا التصنيف نفسه موضع جدل علمي حول حدوده الزمنية والثقافية، ويستحق تحويله لاحقاً لعنصر dbt- مستقل يناقش الجدل حول شرعنة هذا التصنيف أصلاً"
   - "المعايير الدقيقة في DSM-5-TR (CR-9 من Bereavement Exclusion) وفي ICD-11 (6B42) تحتاج مراجعة من المصدر الأولي للتأكد"

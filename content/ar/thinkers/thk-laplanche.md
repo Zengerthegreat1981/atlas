@@ -9,12 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرنسيون
 dates: "فرنسا · 1924–2012"
 language: "الفرنسية"
 country: "فرنسا"
+part: "philosophy"
+active_start: null
+active_end: 2012
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-pontalis", title: "جان-بيرتران بونتالي", type: "مفكر"
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-pontalis", title: "جان-بيرتران بونتالي", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "br-french-psychoanalysis", title: "مدرسة التحليل النفسي الفرنسية", type: "تيار"
 gaps:
   - "ما إذا كانت «نظرية الإغواء العامة» (séduction généralisée) تستبعد التحليل الجنسي الطفلي تماماً أم تعيد صياغته فقط — نزاع لم يُحسم في هذه المسودة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
@@ -38,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-(مع بونتاليس) معجم التحليل النفسي (Vocabulaire de la psychanalyse, 1967) · المتخيل الأولي (Fantasme originaire, 1964) · الحياة والموت في التحليل النفسي (Vie et mort en psychanalyse, 1970) · رسائل غامضة (Le Primat de l'autre en psychanalyse, 1997).
+(مع بونتاليس) معجم التحليل النفسي (Vocabulaire de la psychanalyse, 1967) · المتخيل الأولي (Fantasme originaire, 1964) · الحياة والموت في التحليل النفسي (Vie et mort en psychanalyse, 1970) · أسبقية الآخر في التحليل النفسي (Le Primat de l'autre en psychanalyse, 1997).

@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2007
 active_end: 2007
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
-  - rel: "written_by", target: "فيليب زيمباردو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "written_by", target: "thk-philip-zimbardo", target_type: "مفكر"
 related:
-  - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
+- id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
+- id: "con-lucifer-effect", title: "تأثير لوسيفر وسيكولوجيا الشر المؤسسي (The Lucifer Effect)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

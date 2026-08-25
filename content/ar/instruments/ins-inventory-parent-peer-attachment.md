@@ -8,8 +8,13 @@ en: "Inventory of Parent and Peer Attachment (IPPA)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← قائمة التعلّق بالوالدين والأقران IPPA"
 active_start: 1987
 active_end: "مستمر"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "النسخة المعدلة لليافعين (IPPA-R) وفصل مقياس الأم عن الأب يحتاج مراجعة سيكومترية"
   - "الارتباط بين درجات IPPA والصلابة النفسية والتحصيل الدراسي يتطلب استعراضاً للأدبيات"

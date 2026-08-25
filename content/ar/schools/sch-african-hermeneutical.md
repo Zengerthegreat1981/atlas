@@ -13,14 +13,15 @@ language: "الإنجليزية"
 active_start: 1986
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الفلسفة الأفريقية المهنية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-african-professional-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
-  - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
-  - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
-  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
+- id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
 gaps:
   - "نصوص Tsenay Serequeberhan (The Hermeneutics of African Philosophy, 1996) وP. Londoño تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة الأفريقية التأويلية (African Hermeneutical Philosophy)

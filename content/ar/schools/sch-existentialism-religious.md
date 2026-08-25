@@ -13,10 +13,12 @@ language: "الفرنسية، الألمانية، الإنجليزية"
 active_start: 1944
 active_end: 1980
 edges:
-  - rel: "belongs_to", target: "الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-  - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-  - id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
+- id: "sch-personalism-contemporary", title: "الشخصانية المعاصرة (Contemporary Personalism)", type: "مدرسة"
 gaps:
   - "العلاقة مع كيركيغارد (المؤسِّس بأثر رجعي) تحتاج مراجعة دقيقة من أعمدة كيركهارد الدينية."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

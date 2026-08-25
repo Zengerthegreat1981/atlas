@@ -11,10 +11,11 @@ dates: "كاليفورنيا · من التسعينيات"
 active_start: 1996
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-coherence-therapy", title: "علاج التماسك وإعادة توحيد الذاكرة", type: "تقنية/تدخل علاجي"
+- id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
   - "الأساس البيولوجي العصبي لعملية 'إعادة توحيد الذاكرة' (Memory Reconsolidation) عند بروس إيكر (Bruce Ecker)."
   - "خطوات بروتوكول التناقض الانفعالي (Juxtaposition Experience) لمحوها نهائياً من الذاكرة الضمنية."

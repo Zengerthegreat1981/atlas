@@ -13,11 +13,14 @@ active_start: -400
 active_end: -200
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الموهية", target_type: "مدرسة"
-  - rel: "authored_by", target: "مو زي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-mohism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-mozi", target_type: "مفكر"
 related:
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
-  - id: "thk-mozi", title: "مو زي", type: "مفكر"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "thk-mozi", title: "مو زي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفصول المنسوبة إلى مو زي نفسه (الـ'core chapters') لم تُميّز بشكل قاطع عن فصول المنطقيين اللاحقين."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

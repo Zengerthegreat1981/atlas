@@ -13,15 +13,16 @@ language: "الإسبانية، البرتغالية"
 active_start: 1968
 active_end: 2000
 edges:
-  - rel: "evolved_from", target: "الظاهراتية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الماركسية الإنسانية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marxism-humanist", target_type: "مدرسة"
 related:
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-  - id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
-  - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
-  - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
 gaps:
   - "نصوص Enrique Dussel, Rodolfo Kusch, Augusto Salazar Bondy, Juan Antonio Aliaga need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة التحرير اللاتينية الأمريكية (Latin American Philosophy of Liberation)

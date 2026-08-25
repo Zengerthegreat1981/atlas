@@ -11,10 +11,10 @@ active_start: 1908
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-gerstmann", title: "متلازمة غيرستمان", type: "متلازمة"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-gerstmann", title: "متلازمة غيرستمان", type: "متلازمة"
 gaps:
   - "أبحاث بيك (Arnold Pick 1908) في عجز التوجيه الطوبوغرافي لمخطط الجسد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

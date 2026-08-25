@@ -9,13 +9,25 @@ crumb: "العدالة والمجتمع ← العدالة التصالحية �
 dates: "الولايات المتحدة · 1944–"
 country: "الولايات المتحدة"
 language: "إنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
+- rel: "belongs_to", target: "العدالة التصالحية", target_type: "تيار"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
+- id: "thk-erikpearson", title: "إريك پيرسون", type: "مفكر"
+- id: "thk-jacqueline-peart", title: "جاكلين پيرت", type: "مفكر"
+- id: "thk-nancy-harness", title: "نانسي هارنِس", type: "مفكر"
+- id: "thk-tom-cornwell", title: "توم كورنول", type: "مفكر"
 gaps:
   - "سنة الميلاد تقريبية، لم تُراجع من مصدر أولي."
   - "مسيرته في Eastern Mennonite University تستحق توثيقاً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إريك پيرسون (thk-erikpearson)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاكلين پيرت (thk-jacqueline-peart)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: نانسي هارنِس (thk-nancy-harness)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: توم كورنول (thk-tom-cornwell)."
 ---
 
 # هوارد زير

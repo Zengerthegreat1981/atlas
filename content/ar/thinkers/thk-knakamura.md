@@ -11,13 +11,17 @@ country: "اليابان"
 language: "اليابانية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
+- rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
 related:
-  - id: "thk-kmorita", title: "ماساتاكي موريتا", type: "مفكر"
+- id: "thk-kmorita", title: "ماساتاكي موريتا", type: "مفكر"
+- id: "thk-tisoma", title: "تاكيشي إيسومه", type: "مفكر"
+- id: "thk-rreibo", title: "ريتشارد ريبو", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ريتشارد ريبو (thk-rreibo)."
 ---
 
 # كويتشي ناكامورا
@@ -32,7 +36,7 @@ gaps:
 
 ## موقعه من التيار
 
-يقف ناكامورا عند ملتقى علاج موريتا التقليدي ومناهج السلوك المعرفي المعاصر. له دور بارز في إعادة تفسير العلاج ضمن مقولات علم النفس الوضعي (Positive Psychology).
+يقف ناكامورا عند ملتقى علاج موريتا التقليدي ومناهج السلوك المعرفي المعاصر. له دور بارز في إعادة تفسير العلاج ضمن مقولات علم النفس الإيجابي (Positive Psychology).
 
 ## أهم أعماله
 

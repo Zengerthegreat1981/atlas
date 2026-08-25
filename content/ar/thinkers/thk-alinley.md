@@ -10,10 +10,14 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2001
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← أليكس لينلي"
 edges:
-  - rel: "belongs_to", target: "العلاج القائم على القوة (Strengths-Based)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج القائم على القوة (Strengths-Based)", target_type: "مدرسة"
 related:
-  - id: "thk-dsaleeby", title: "دينس ساليبي", type: "مفكر"
+- id: "thk-dsaleeby", title: "دينس ساليبي", type: "مفكر"
+- id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"
+- id: "thk-dclifton", title: "دونالد أو. كليفتون", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

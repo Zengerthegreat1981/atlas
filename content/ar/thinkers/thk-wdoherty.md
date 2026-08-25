@@ -11,11 +11,24 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2011
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Discernment Counseling (الاستشارة التمييزية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "إرشاد التمييز والبت الزوجي", target_type: "مدرسة"
 related:
+- id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
+- id: "thk-bill-matthews", title: "بيل ماثيوز", type: "مفكر"
+- id: "thk-jenniferschwab", title: "جينيفر شواب", type: "مفكر"
+- id: "thk-kathylaurenceau", title: "كاثي لورنسو", type: "مفكر"
+- id: "thk-stevenharris-dc", title: "ستيفن هاريس", type: "مفكر"
+- id: "thk-timothyclanton", title: "تيموثي كلانتون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بيل ماثيوز (thk-bill-matthews)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جينيفر شواب (thk-jenniferschwab)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثي لورنسو (thk-kathylaurenceau)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن هاريس (thk-stevenharris-dc)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تيموثي كلانتون (thk-timothyclanton)."
 ---
 
 # بيل دوهرتي

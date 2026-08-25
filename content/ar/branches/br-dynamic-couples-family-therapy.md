@@ -10,15 +10,19 @@ country: "أمريكا الشمالية / أوروبا"
 language: "إنجليزية"
 active_start: 1960
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ ISTDP للأزواج (Davanloo) يستحق توثيقاً."
   - "الفرق بين 'Object Relations Couples Therapy' (Scharff & Scharff) و'Short-Term Dynamic Couples Therapy' (Christensen & Heavey) يستحق توضيحاً."
 ---
-
 # العلاج الديناميكي للأزواج والأسرة
 
 تيار يجمع بين المبادئ النفسية الديناميكية (التحليل النفسي، علاقات الموضوع، اللاتعلق) وتطبيقها على الأزواج والعائلات. يختلف عن العلاج الأسري البنيوي/الإستراتيجي/النُظمي بتركيزه على العمليات اللاواعية في العلاقة.

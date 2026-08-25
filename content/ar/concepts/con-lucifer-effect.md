@@ -11,10 +11,13 @@ crumb: "علم النفس الاجتماعي التجريبي ← المفاهي
 active_start: 2007
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-  - id: "wrk-lucifer-effect", title: "تأثير لوسيفر", type: "عمل / كتاب"
-  - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
+- id: "stu-stanford-prison", title: "تجربة سجن ستانفورد", type: "دراسة وبحث"
+- id: "wrk-lucifer-effect", title: "تأثير لوسيفر", type: "عمل / كتاب"
+- id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "آليات التجريد من الإنسانية (Dehumanization) وتشتت المسؤولية الأخلاقية لألبرت باندورا."
   - "لا يوجد اقتباس مباشر موثوق متاح."

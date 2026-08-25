@@ -11,17 +11,20 @@ active_start: 1968
 active_end: 1980
 country: "إيطاليا"
 language: "الإيطالية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "evt-basaglia-law-italy-1978", title: "صدور قانون بازاليا في إيطاليا والإغلاق الإلزامي الكامل للمصحات النفسية", type: "حدث تاريخي"
+- id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "القانون الإيطالي رقم 180 (قانون بازاليا لإلغاء المصحات) يحتاج توثيقاً كحدث مؤسسي مرتبط بالتحرر الوجودي."
+  - "أثر قانون بازاليا (180) على تشريعات الصحة النفسية خارج إيطاليا يحتاج توثيقاً."
 ---
 
 # فرانكو بازاليا
@@ -42,4 +45,4 @@ gaps:
 
 ## أهم أعماله
 
-المؤسسة المنفية (L'istituzione negata, 1968) · مجنون/مغلق (Morire di classe, 1969) · كتابات بازاليا (Scritti, 1981–1982).
+المؤسسة المنفيَّة (L'istituzione negata, 1968) · أن تموت بحكم طبقتك (Morire di classe, 1969) · كتابات بازاليا (Scritti, 1981–1982).

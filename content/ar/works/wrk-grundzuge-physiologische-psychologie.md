@@ -10,12 +10,16 @@ dates: "1873–1874 · فيلهلم فونت"
 active_start: 1873
 active_end: 1874
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
-  - rel: "authored_by", target: "فيلهلم فونت", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-wundt", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-  - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
+- id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "الكتاب طُبعت منه ست طبعات بين 1874 و1908 — التحقق من أي اختلافات جوهرية بين الطبعات لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Wundt في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

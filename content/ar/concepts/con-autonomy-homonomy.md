@@ -9,14 +9,15 @@ crumb: "المدرسة الوجودية ← المفاهيم ← الاستقل�
 active_start: 1941
 active_end: 1965
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "coined_by", target: "أندراس أنجيال", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "coined_by", target: "thk-angyal", target_type: "مفكر"
 related:
-  - id: "thk-angyal", title: "أندراس أنجيال", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-angyal", title: "أندراس أنجيال", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد من النصوص الأصلية لأنجيال مباشرة — هذا الوصف مبني على ما هو موثّق في صفحته المعتمدة فقط."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."

@@ -11,10 +11,12 @@ dates: "ميلووكي · الثمانينيات"
 active_start: 1986
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "tec-strengths-based-therapy", title: "العلاج المرتكز على مواطن القوة", type: "تقنية/تدخل علاجي"
 gaps:
   - "أعمال ستيف دي شيزر وإنسو كيم بيرغ (Steve de Shazer & Insoo Kim Berg) في مركز العلاج الأسري الموجز بميلووكي (BFTC)."
   - "سؤال المعجزة (The Miracle Question)، وأسئلة الاستثناءات، وأسئلة المقاييس المئوية/العشرية (Scaling Questions)."

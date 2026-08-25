@@ -1,0 +1,28 @@
+---
+slug: "wrk-daodejing-laozi"
+id: "WRK-0560"
+type: "عمل / كتاب"
+part: "philosophy"
+level: "متقدم"
+title: "داوديجينغ للاوتسو (كتاب الطريق والفضيلة)"
+en: "Tao Te Ching (Daodejing) by Laozi"
+crumb: "الفلسفة الداووية ← أمهات الأعمال ← داوديجينغ"
+dates: "الصين القديمة · ق. 500 ق.م"
+language: "الصينية الكلاسيكية"
+active_start: -500
+active_end: -500
+edges:
+- rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-laozi", title: "لاوتسو", type: "مفكر"
+gaps:
+  - "اكتشافات مخطوطات غوديان وماوانغدوي وتأثيرها على نص الفصول الـ81."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# داوديجينغ للاوتسو (كتاب الطريق والفضيلة)
+
+أعظم نص صيني تمت ترجمته في العالم؛ يتكون من 81 فصلاً قصيراً تمزج الحكمة الكوزمولوجية بالفلسفة السياسية والنفسية؛ يعلّم أن القوة الحقيقية تكمن في اللين والتدفق كالماء، وأن البساطة والتواضع والتخلي عن الأطماع هي السبيل للخلود والسلام الداخلي.

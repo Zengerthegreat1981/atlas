@@ -9,14 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← كريستين
 dates: "أمريكا · مواليد 1931"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
-  - id: "con-goddess", title: "الإلهة", type: "مفهوم"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
+- id: "con-goddess", title: "الإلهة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # كريستين داونينغ

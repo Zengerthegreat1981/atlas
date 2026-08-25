@@ -10,13 +10,21 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ميلتون فيدرمان"
 edges:
-  - rel: "belongs_to", target: "التنويم التحليلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنويم التحليلي (Hypno-analysis)", target_type: "مدرسة"
 related:
-  - id: "thk-mwagreich", title: "موريس هـ. فيغوتش", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "thk-mwagreich", title: "موريس هـ. فيغوتش", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موريس هـ. فيغوتش (thk-mwagreich)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موريس هـ. فيغوتش (thk-mwagreich)."
 ---
 
 # ميلتون فيدرمان

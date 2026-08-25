@@ -11,12 +11,13 @@ active_start: 1988
 active_end: 2000
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أبحاثه حول حالات الوعي المعدلة والأساطير الشخصية وعلاقتها بالمعنى الوجودي تحتاج مراجعة توثيقية."

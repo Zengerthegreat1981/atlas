@@ -11,10 +11,15 @@ dates: "كوبنهاغن · السبعينيات والثمانينيات"
 active_start: 1978
 active_end: "مستمر"
 language: "الدنماركية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "الخريطة الجسدية لليزبيث مارشر (Lisbeth Marcher) التي تربط كل عضلة في الجسم بمرحلة نمائية نفسية ووظيفة غرائزية محددة."
   - "التمييز بين الاستجابة العضلية المستسلمة الخاضعة (Hypo-response) والاستجابة المتصلبة المقاومة (Hyper-response)."

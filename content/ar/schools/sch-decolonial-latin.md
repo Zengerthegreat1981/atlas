@@ -13,14 +13,16 @@ language: "الإسبانية، الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الديكولونيالية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
-  - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
-  - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
+- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
+- id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-caribbean-philosophy", title: "فلسفة الكاريبي (الهوية والكريولية)", type: "مدرسة"
 gaps:
   - "نصوص Mignolo, Quijano, Maldonado-Torres, Catherine Walsh need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة الديكولونيالية اللاتينية الأمريكية (Latin American Decolonial Philosophy)

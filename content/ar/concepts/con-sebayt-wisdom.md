@@ -1,0 +1,27 @@
+---
+slug: "con-sebayt-wisdom"
+id: "CON-1157"
+type: "مفهوم"
+part: "philosophy"
+level: "متوسط"
+title: "أدب السبايت والتعليم الحِكمي (Sebayt)"
+en: "Sebayt (Instructional Wisdom Literature)"
+crumb: "الفلسفة القديمة ← الفكر المصري القديم ← أدب السبايت"
+active_start: -2500
+active_end: 300
+edges:
+- rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-ptahhotep", title: "بتاح حتب", type: "مفكر"
+- id: "thk-amenemope", title: "أمنموبي", type: "مفكر"
+gaps:
+  - "تطور السبايت من النصائح العملية للدولة القديمة إلى الحكمة الوجودية في الدولة الحديثة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# أدب السبايت والتعليم الحِكمي (Sebayt)
+
+نوع أدبي وفلسفي تأسيسي في مصر القديمة يعني حرفياً «التعليم» أو «الإرشاد»؛ وهو نمط من الخطاب الأخلاقي والتربوي يُكتب بصيغة وصايا يوجهها الأب الحكيم أو الوزير إلى ابنه وخليفته لنقل التجارب الحياتية والفضائل السلوكية الضرورية للحياة المستقيمة.

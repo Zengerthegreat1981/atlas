@@ -8,9 +8,11 @@ en: "HEXACO Personality Inventory-Revised (HEXACO-PI-R)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← قائمة هيكساكو لسمات الشخصية"
 active_start: 2004
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "العلاقة بين عامل الصدق-التواضع المنخفض ومثلث الظلام في الشخصية (Dark Triad) تحتاج ربطاً إكلينيكياً"
   - "التطبيقات في الكشف عن جرائم الياقات البيضاء والنزاهة المؤسسية تتطلب توثيقاً"

@@ -8,17 +8,16 @@ en: "HCR-20 — Historical, Clinical, Risk Management-20"
 crumb: "علم النفس الشرعي/الجنائي ← تقييم المخاطر العلاجي ← HCR-20"
 active_start: 1995
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
+- rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
-  - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
-  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "أداة قياس"
+- id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
 gaps:
   - "الخصائص السيكومترية الدقيقة (معاملات الثبات والصدق) تتفاوت في الأدبيات، تستحق مراجعة منهجية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
 ---
-
-
 # مقياس تقييم مخاطر العنف الهيكل السريري (HCR-20)
 
 أداة تقييم هيكلية طوّرها Christopher Webster وStephen Hart وKevin Douglas في الأصل عام 1995 (الإصدار 2 في 2003، الإصدار 3 في 2013). تتكون من 20 بنداً موزعة على ثلاث سلاسل زمنية:

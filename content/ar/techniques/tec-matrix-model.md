@@ -11,15 +11,16 @@ dates: "1989"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
 related:
-  - id: "thk-jkadden", title: "كاثلين كاري", type: "مفكر"
-  - id: "thk-bwilson", title: "بيل ويلسون", type: "مفكر"
+- id: "thk-bwilson", title: "بيل ويلسون", type: "مفكر"
 gaps:
   - "البروتوكول يدمج CBT والـ 12-خطوة والعلاقات الأسرية والاختبارات البولينية."
   - "المرجع الأساسي: 'تعليم نموذج المصفوفة للمعالجين' (Matrix Model Therapist's Manual), NIDA 2006."
   - "الاستخدام الأساسي: علاج إدمان المنشّطات (الكوكايين، الميثامفيتامين)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثلين كاري (thk-jkadden)."
 ---
 
 # نموذج المصفوفة (Matrix Model)

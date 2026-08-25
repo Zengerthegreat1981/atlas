@@ -8,9 +8,11 @@ en: "Hawthorne Studies and the Hawthorne Effect on Worker Productivity"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات مصانع هوثورن"
 active_start: 1924
 active_end: 1932
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "إعادة التحليل الإحصائي الاقتصادي لبيانات هوثورن بواسطة Levitt & List (2011) كشفت عن أثر ضعيف للتجربة الأصلية مقارنة بالأسطورة الشائعة"
   - "التطبيقات المعاصرة لأثر الملاحظة في التجارب الإكلينيكية وعلم النفس التجريبي تتطلب توثيقاً منهجياً"

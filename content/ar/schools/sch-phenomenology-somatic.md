@@ -13,12 +13,13 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1945
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الظاهراتية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الظاهراتية الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-  - id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
-  - id: "thk-mhenry", title: "ميشيل هنري", type: "مفكر"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
+- id: "thk-mhenry", title: "ميشيل هنري", type: "مفكر"
+- id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 gaps:
   - "لا يوجد تعريف 'رسمي' واحد للظاهراتية الجسدية كمدرسة مستقلة؛ المؤلفون يتداخلون مع ظاهراتية الجسد عند مِرلو-پونتي."
   - "العلاقة مع الجسدانية الأنثروبولوجية (Marcel Mauss، Mary Douglas) لم تُراجع من مصدر أولي."

@@ -11,10 +11,12 @@ crumb: "علم الأعصاب الاجتماعي ← المفاهيم ← الأ
 active_start: 2003
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم الأعصاب الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية", type: "عمل / كتاب"
-  - id: "thk-john-cacioppo", title: "جون كاسيوبو", type: "مفكر"
+- id: "axm-hedonic-principle", title: "المبدأ الهيدوني (مبدأ اللذة-الألم)", type: "بديهية/مبدأ تأسيسي"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
+- id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية", type: "عمل / كتاب"
+- id: "thk-john-cacioppo", title: "جون كاسيوبو", type: "مفكر"
 gaps:
   - "تجارب Cyberball ومسح الدماغ بالرنين المغناطيسي لنعومي أيزنبرغر وماثيو ليبرمان (2003)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

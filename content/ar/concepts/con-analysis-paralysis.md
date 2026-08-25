@@ -11,10 +11,13 @@ crumb: "علم النفس الإدراكي وإدارة القرارات ← ا�
 active_start: 1965
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإدراكي وإدارة القرارات", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإدراكي وإدارة القرارات", target_type: "مدرسة"
 related:
-  - id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار", type: "مفهوم"
-  - id: "syn-hamlet-syndrome", title: "متلازمة هاملت وشلل التحليل", type: "متلازمة"
+- id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار", type: "مفهوم"
+- id: "syn-hamlet-syndrome", title: "متلازمة هاملت وشلل التحليل", type: "متلازمة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "استعارة حكاية الثعلب والقط الإيسوبية وأبحاث إرهاق القرار في علم النفس المعرفي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,13 +11,15 @@ dates: "أديليد وأوكلاند · الثمانينيات"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "مايكل وايت", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mwhite", target_type: "مفكر"
 related:
-  - id: "thk-bidwell", title: "دوان بيدويل", type: "مفكر"
-  - id: "tec-sfbt", title: "العلاج الموجز المرتكز على الحل (SFBT)", type: "تقنية/تدخل علاجي"
-  - id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
+- id: "thk-bidwell", title: "دوان بيدويل", type: "مفكر"
+- id: "tec-sfbt", title: "العلاج الموجز المرتكز على الحل (SFBT)", type: "تقنية/تدخل علاجي"
+- id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
   - "كتاب مايكل وايت وديفيد إبستون التأسيسي 'الوسائل السردية للغايات العلاجية' (1990)."
   - "تقنيات التخريج (Externalization: 'الشخص ليس المشكلة، المشكلة هي المشكلة') والبحث عن النتائج الاستثنائية الفريدة (Unique Outcomes)."

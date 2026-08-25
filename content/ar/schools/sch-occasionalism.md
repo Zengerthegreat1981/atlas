@@ -13,10 +13,13 @@ language: "الفرنسية، اللاتينية"
 active_start: 1660
 active_end: 1740
 edges:
-  - rel: "evolved_from", target: "الديكارتية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
 related:
-  - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-  - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-political-islam", title: "الإسلام السياسي (كتيار فكري)", type: "مدرسة"
+- id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
+- id: "con-occasionalism-malebranche-concept", title: "الأوكازيونية ورؤية الأشياء في الله (Vision in God)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«مالبرانش» (sch-malebranche) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص مالبرانش بالفرنسية تحتاج مراجعة من المصدر الأولي."

@@ -11,11 +11,13 @@ active_start: 1988
 active_end: 2019
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أطروحته حول الرؤى التراجيدية والكوميدية والرومانسية في العلاج النفسي تحتاج توثيقاً تحريرياً."

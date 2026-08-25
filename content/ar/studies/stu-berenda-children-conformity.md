@@ -8,9 +8,11 @@ en: "Berenda's Conformity and Group Pressure in Children Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة بيريندا لامتثال الأطفال"
 active_start: 1950
 active_end: 1950
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "مقارنة تأثير سلطة المعلم بتأثير جماعة الأقران لدى بيريندا تحتاج تفصيلاً نقدياً"
   - "التطبيقات المعاصرة لضغط الأقران الرقمي (Cyberbullying and Peer Pressure) تتطلب توثيقاً"

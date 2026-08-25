@@ -13,10 +13,10 @@ language: "الإنجليزية"
 active_start: 2003
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الأفروبيسيميزم (Afropessimism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الأفروبيسيميزم (Afropessimism)", target_type: "مدرسة"
 related:
-  - id: "sch-afropessimism", title: "الأفروبيسيميزم (Afropessimism)", type: "مدرسة"
-  - id: "thk-mbembe", title: "أشيل مبيمبي", type: "مفكر"
+- id: "sch-afropessimism", title: "الأفروبيسيميزم (Afropessimism)", type: "مدرسة"
+- id: "thk-mbembe", title: "أشيل مبيمبي", type: "مفكر"
 gaps:
   - "نص Wilderson (Afropessimism, 2020) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -39,7 +39,7 @@ gaps:
 
 ## قيد
 
-أطروحته «المتشائمة» كُثِّفت بأنها «استسلام» (Defeatist) أو «لا-سياسية» (Apolitical) — وهو ما ردّ عليه بقوله إن التشخيص ليس استسلاماً.
+أطروحته «المتشائمة» نُقِدت بأنها «استسلام» (Defeatist) أو «لا-سياسية» (Apolitical) — وهو ما ردّ عليه بقوله إن التشخيص ليس استسلاماً.
 
 ## أهم أعماله
 

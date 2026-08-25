@@ -1,0 +1,28 @@
+---
+slug: "wrk-yoga-sutras-patanjali"
+id: "WRK-0760"
+type: "عمل / كتاب"
+part: "philosophy"
+level: "متقدم"
+title: "يوغا سوترا لباتانجالي"
+en: "The Yoga Sutras of Patanjali"
+crumb: "الفلسفة الهندية ← أمهات الأعمال ← يوغا سوترا"
+dates: "الهند القديمة · ق. 200 ق.م"
+language: "السنسكريتية"
+active_start: -150
+active_end: -150
+edges:
+- rel: "belongs_to", target: "sch-yoga", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-patanjali", title: "باتانجالي", type: "مفكر"
+gaps:
+  - "الفصول الأربعة: الصمادي، الممارسة، القوى، والتحرر الروحي التام."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# يوغا سوترا لباتانجالي
+
+النص المؤسس والمرجعي لعلم النفس الروحي وفلسفة اليوغا الكلاسيكية؛ يتكون من 196 حكمة مكثفة تشرح آليات الوعي، وتفكك جذور المعاناة النفسية (الكليشات Kleshas: الجهل، والأنانية، والتعلق، والنفور، والخوف من الموت)، وترسم مسار التحرر عبر التأمل والانضباط العقلي.

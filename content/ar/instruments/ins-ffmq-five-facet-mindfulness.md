@@ -9,10 +9,11 @@ en: "Five Facet Mindfulness Questionnaire (FFMQ)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← استبيان أبعاد اليقظة الذهنية الخمسة المقنن"
 active_start: 2006
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "tec-cbt-mind-mindfulness-meditation", title: "العلاج المعرفي القائم على اليقظة الذهنية", type: "تقنية/تدخل علاجي"
-  - id: "wrk-mindful-way-through-depression", title: "طريقة اليقظة الذهنية للتغلب على الاكتئاب", type: "عمل / كتاب"
+- id: "tec-cbt-mind-mindfulness-meditation", title: "العلاج المعرفي القائم على اليقظة الذهنية", type: "تقنية/تدخل علاجي"
+- id: "wrk-mindful-way-through-depression", title: "طريقة اليقظة الذهنية للتغلب على الاكتئاب", type: "عمل / كتاب"
 gaps:
   - "التحليل العاملي التكاملي لروث باير وفريقها (Ruth Baer et al. 2006) لمقاييس اليقظة الذهنية الكبرى."
   - "لا يوجد اقتباس مباشر موثوق متاح."

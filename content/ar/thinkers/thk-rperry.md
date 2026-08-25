@@ -13,9 +13,10 @@ language: "الإنجليزية"
 active_start: 1910
 active_end: 1945
 edges:
-  - rel: "belongs_to", target: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", target_type: "مدرسة"
 related:
-  - id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"
+- id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
+- id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لموقفه من 'البيانات الحسية' بعد انقسام 1920 لم تُراجع من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

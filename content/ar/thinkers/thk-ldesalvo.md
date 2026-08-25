@@ -10,12 +10,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2018
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← لويز دي سالفو"
 edges:
-  - rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
 related:
-  - id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
+- id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
+- id: "thk-iprogoff", title: "إيرا بروغوف", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # لويز دي سالفو

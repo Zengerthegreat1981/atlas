@@ -6,17 +6,21 @@ level: "متقدم"
 title: "نموذج صنع المعنى (Meaning Making Model)"
 en: "The Meaning Making Model (Park)"
 crumb: "المدرسة الوجودية ← الدراسات والبحوث ← نموذج صنع المعنى"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-park", title: "كريستال بارك", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "thk-park", title: "كريستال بارك", type: "مفكر"
+- id: "thk-park", title: "كريستال بارك", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+
 gaps:
   - "النصوص الأصلية لبارك وأولسون وفولكمن تستحق مراجعة من المصدر الأولي للتفاصيل التجريبية."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نموذج صنع المعنى (Meaning Making Model)

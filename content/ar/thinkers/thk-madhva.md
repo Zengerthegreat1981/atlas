@@ -12,12 +12,15 @@ language: "السنسكريتية، الكانادية"
 active_start: 1230
 active_end: 1278
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← مادهافا (دفايتا فيدانتا)"
 edges:
-  - rel: "belongs_to", target: "دفايتا فيدانتا", target_type: "مدرسة"
+- rel: "belongs_to", target: "دفايتا فيدانتا (التثنية)", target_type: "مدرسة"
 related:
-  - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
+- id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
+- id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "لا ترجمة عربية موحدة لأعماله (Brahma Sutra Bhashya، Commentaries on Upanishads)."
   - "تأريخ حياته يعتمد على التقليد الـMadhva نفسه."

@@ -9,11 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← ستيفن فينلا
 dates: "بريطانيا · معاصر"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "التوثيق البيوغرافي والأكاديمي الدقيق ومؤلفاته الإكلينيكية تتطلب فحصاً في أرشيف الجمعية البريطانية للعلاج الوجودي (SEA)."

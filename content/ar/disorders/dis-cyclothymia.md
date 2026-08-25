@@ -11,13 +11,14 @@ icd11_code: "6A04"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة اليومية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة اليومية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 gaps:
   - "الحدود التمايزية الدقيقة بين دوروية المزاج واضطراب الشخصية الحدية (BPD) تحتاج توثيقاً إكلينيكياً أوسع"
   - "معدلات التحول الطولي من دوروية المزاج إلى اضطراب ثنائي القطب من النوع الأول أو الثاني تتطلب مراجعة دراسات المتابعة"

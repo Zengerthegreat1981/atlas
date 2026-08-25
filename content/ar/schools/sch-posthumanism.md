@@ -13,13 +13,15 @@ language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
-  - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-  - id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
+- id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
+- id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
+- id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
+- id: "wrk-cyborg-manifesto", title: "بيان الكائن الهجين (A Cyborg Manifesto)", type: "عمل / كتاب"
 gaps:
   - "نصوص Donna Haraway, Cary Wolfe, Rosi Braidotti need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ما بعد الإنسانية (Posthumanism)

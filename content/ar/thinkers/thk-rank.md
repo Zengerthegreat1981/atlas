@@ -11,11 +11,13 @@ active_start: 1924
 active_end: 1932
 language: "الألمانية / الإنجليزية"
 country: "النمسا / أمريكا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
+- id: "evt-wednesday-psychological-society-1902", title: "تأسيس جمعية الأربعاء النفسية في فيينا", type: "حدث تاريخي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "لم تُراجع بعد نصوصه الأصلية (صدمة الميلاد، الإرادة والعلاج) من نسخة محققة."

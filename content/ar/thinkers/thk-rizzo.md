@@ -9,11 +9,18 @@ crumb: "التكنولوجيا والعلاج الرقمي ← العلاج با
 dates: "الولايات المتحدة · 1960–"
 country: "الولايات المتحدة"
 language: "إنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بالواقع الافتراضي", target_type: "تيار"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "تيار"
+- id: "thk-bwiederhold", title: "بريندا فيدرهولد", type: "مفكر"
+- id: "thk-hghoffman", title: "هنتر هوفمان", type: "مفكر"
+- id: "thk-jdifede", title: "جوان ديفيد", type: "مفكر"
+- id: "thk-sbouchard", title: "ستيفان بوشار", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة وتاريخها المهني الكامل لم يُراجعان من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -37,7 +44,7 @@ gaps:
 
 - «Virtual Iraq» (2005-2010) — مشروع بحثي DHAMMAD.
 - «Bravemind Clinical Manual» (متعدد الإصدارات).
-- «Clinical Virtual Reality: An Overview» (في مجلات علم النفس الإكلينيكي، أوائل 2010s).
+- «Clinical Virtual Reality: An Overview» (في مجلات علم النفس الإكلينيكي، أوائل العقد الثاني من القرن الحادي والعشرين).
 
 ## قيد
 

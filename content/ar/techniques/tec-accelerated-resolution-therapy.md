@@ -11,11 +11,12 @@ dates: "2008"
 active_start: 2008
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-  - id: "thk-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تطوير لانا روزنجر (Lanette Rosenzweig) كبديل لـ EMDR يجمع بين تقنيات سريعة ومتتابعة."
   - "الهدف: حل الصدمة في جلسة واحدة (1-5 جلسات في كثير من الحالات)."

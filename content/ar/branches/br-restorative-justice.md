@@ -10,10 +10,15 @@ country: "نيوزيلندا / عالمي"
 language: "متعدد"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العدالة والمجتمع", target_type: "مدرسة"
+- rel: "belongs_to", target: "العدالة والمجتمع", target_type: "مدرسة"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-nancy-harness", title: "نانسي هارنِس", type: "مفكر"
+- id: "thk-erikpearson", title: "إريك پيرسون", type: "مفكر"
+- id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
+- id: "thk-tom-cornwell", title: "توم كورنول", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
   - "تاريخ RJ في Maori communities (Howard Zehr) يستحق توثيقاً."
   - "الفرق بين 'Community Conferencing' و'Victim-Offender Mediation' يستحق توضيحاً."

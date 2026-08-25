@@ -9,19 +9,23 @@ crumb: "مدرسة التحليل النفسي ← الناس ← روبرت ش�
 dates: "أمريكا · 1924–1996"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1996
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "con-dream-interpretation", title: "تفسير الأحلام", type: "مفهوم"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "con-dream-interpretation", title: "تفسير الأحلام", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # روبرت شتاين
 
-طبيب ومحلل يونغي أمريكي، درس في معهد زيورخ (1950s) ومارس في كاليفورنيا، ومؤسِّس «Center for the Study of Individuation».
+طبيب ومحلل يونغي أمريكي، درس في معهد زيورخ (الخمسينيات من القرن العشرين) ومارس في كاليفورنيا، ومؤسِّس «Center for the Study of Individuation».
 
 ## ما أعطاه
 

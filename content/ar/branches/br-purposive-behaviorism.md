@@ -11,16 +11,19 @@ dates: "الثلاثينيات والأربعينيات"
 active_start: 1932
 active_end: 1959
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-  - id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"
+- id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تجارب إدوارد تولمان حول الخرائط المعرفية والتعلم الكامن (Latent Learning) في المتاهات."
   - "الأثر التأسيسي لمفهوم المتغيرات المتداخلة (Intervening Variables) في نشأة علم النفس المعرفي."
 ---
-
 # السلوكية الغائية والمعرفية المبكرة (تولمان)
 
 التيار السلوكي المبكر الذي أسسه إدوارد تولمان في جامعة كاليفورنيا (بيركلي)، مقدماً أول نموذج سلوكي يعترف بالهدف والغائية والتمثيل المعرفي الداخلي.

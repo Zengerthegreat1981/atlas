@@ -11,12 +11,14 @@ dates: "جورجتاون · من الخمسينيات"
 active_start: 1955
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "موراي بوين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mbowen", target_type: "مفكر"
 related:
-  - id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
-  - id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية/تدخل علاجي"
+- id: "con-multigenerational-transmission", title: "النقل متعدد الأجيال (Multigenerational Transmission Process)", type: "مفهوم"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية/تدخل علاجي"
 gaps:
   - "المفاهيم الثمانية المتشابكة لنظرية بوين (تمايز الذات، التثليث Triangulation، الإسقاط الأسري، الانتقال عبر الأجيال، القطيعة الانفعالية Emotional Cutoff)."
   - "أداة شجرة العائلة الموسعة (Genogram) والعمل مع الفرد كعضو في منظومة أسرية متعددة الأجيال."

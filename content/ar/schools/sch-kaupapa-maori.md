@@ -14,12 +14,15 @@ active_start: 1200
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
-  - id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-  - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "thk-trore", title: "ماسون دوري", type: "مفكر"
+- id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني/الإيروكوا", type: "مدرسة"
+- id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
 gaps:
   - "نصوص Graham Hingangaroa Smith وLinda Tuhiwai Smith (دائماً) need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # Kaupapa Māori (فلسفة الماوري)

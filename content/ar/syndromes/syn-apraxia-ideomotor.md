@@ -11,10 +11,10 @@ active_start: 1900
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-alien-hand", title: "متلازمة اليد الغريبة", type: "متلازمة"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-alien-hand", title: "متلازمة اليد الغريبة", type: "متلازمة"
 gaps:
   - "أبحاث هوغو ليبمان (Hugo Liepmann 1900) الكلاسيكية في تخطيط الأفعال الحركية القشرية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

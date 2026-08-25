@@ -11,15 +11,16 @@ dates: "كاليفورنيا · السبعينيات"
 active_start: 1975
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-stress-inoculation-training", title: "التدريب على تحصين الضغوط (SIT)", type: "تقنية/تدخل علاجي"
-  - id: "thk-novaco", title: "ريموند نوفاكو", type: "مفكر"
+- id: "tec-stress-inoculation-training", title: "التدريب على تحصين الضغوط (SIT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بروتوكول CST المكون من 12 جلسة لريموند نوفاكو مع كولينز برون (Novaco & Brown, 2005)."
   - "مقياس نوفاكو للغضب (Novaco Anger Scale) كأداة قياس نوعية."
   - "الفرق بين CST و SIT: الأول أكثر صرامة، والثاني أكثر مرونة."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ريموند نوفاكو (thk-novaco)."
 ---
 
 # علاج الضغط السريري (CST)

@@ -9,13 +9,28 @@ crumb: "الأداء والعلاج الرياضي ← علم نفس الريا�
 dates: "الولايات المتحدة · 1927–"
 country: "الولايات المتحدة"
 language: "إنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "br-sport-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "علم نفس الرياضة", target_type: "تيار"
 related:
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
+- id: "thk-amy-morgan", title: "إيمي مورغان", type: "مفكر"
+- id: "thk-david-reeve", title: "ديفيد ريڤ", type: "مفكر"
+- id: "thk-jacqueline-varner", title: "جاكلين فارنر", type: "مفكر"
+- id: "thk-robert-rotella", title: "روبرت روتيلا", type: "مفكر"
+- id: "thk-rohan-gullich", title: "روهان غوليتش", type: "مفكر"
+
 gaps:
   - "سنة الميلاد 1927 تقريبية، وسنة الوفاة (إن وُجدت) لم تُراجع."
   - "مسيرته في San Jose State University تستحق توثيقاً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيمي مورغان (thk-amy-morgan)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد ريڤ (thk-david-reeve)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاكلين فارنر (thk-jacqueline-varner)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت روتيلا (thk-robert-rotella)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روهان غوليتش (thk-rohan-gullich)."
 ---
 
 # بروس أوكيف

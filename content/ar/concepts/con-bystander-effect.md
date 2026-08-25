@@ -11,10 +11,12 @@ crumb: "علم النفس الاجتماعي التجريبي ← المفاهي
 active_start: 1968
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-  - id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
-  - id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
+- id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
+- id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
+- id: "con-dunbars-number", title: "رقم دانبار (الحد البيولوجي والمعرفي للشبكة الاجتماعية 150)", type: "مفهوم"
+- id: "stu-aronson-jigsaw-classroom", title: "دراسة إليوت أرونسون لغرفة الألغاز والتعلم التعاوني (Jigsaw)", type: "دراسة وبحث"
 gaps:
   - "تجارب جون دارلي وبيب لاتاني (Darley & Latané 1968) إثر حادثة كيتي جينوفيز في نيويورك."
   - "لا يوجد اقتباس مباشر موثوق متاح."

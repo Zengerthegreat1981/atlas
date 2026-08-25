@@ -8,11 +8,15 @@ en: "Recovered Memory Controversy"
 crumb: "حركات مثيرة للجدل ← الجدالات ← الذاكرة المُستعادة"
 active_start: 1990
 active_end: 2005
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "حركة الذاكرة المُستعادة العلاجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "مدرسة"
 related:
-  - id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
-  - id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
+- id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
+- id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "قائمة المستبعدين الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

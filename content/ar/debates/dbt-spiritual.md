@@ -6,16 +6,20 @@ level: ""
 title: "الروحاني والعلماني"
 en: "The spiritual dimension"
 crumb: "المدرسة الوجودية ← الخصومات ← البعد الروحي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
-  - id: "ctx-ghazali", title: "الغزالي وإحياء علوم الدين", type: "سياق/تقليد"
+- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "br-british", title: "التيار البريطاني", type: "تيار"
+- id: "ctx-ghazali", title: "الغزالي وإحياء علوم الدين", type: "سياق/تقليد"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # الروحاني والعلماني

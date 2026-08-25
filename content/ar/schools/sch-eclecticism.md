@@ -13,14 +13,14 @@ language: "اليونانية، اللاتينية"
 active_start: -80
 active_end: 250
 edges:
-  - rel: "belongs_to", target: "فلسفة هلنستية-رومانية", target_type: "مظلة"
-  - rel: "evolved_into", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
-  - rel: "evolved_into", target: "المسيحية المبكرة", target_type: "مظلة"
+- rel: "belongs_to", target: "فلسفة هلنستية-رومانية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
+- rel: "evolved_into", target: "المسيحية المبكرة", target_type: "مظلة"
 related:
-  - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-  - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-  - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-  - id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
 gaps:
   - "مصطلح 'eclecticism' (انتقائية) نُحت في القرن 18 م (Christian August Brandis) ولم يكن له وجود في المصادر القديمة."
   - "هل الانتقائيون 'تيار' أم 'اتّجاه غير ملتزم'؟ خلاف فيلسوفي مستمر."

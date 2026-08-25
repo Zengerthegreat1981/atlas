@@ -11,11 +11,13 @@ active_start: 1996
 active_end: 2018
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "مفهوم 'الوعي الجسدي والحركة الواعية' (Bodyfulness) يحتاج مقاربة فينومينولوجية للتجسد."
@@ -39,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-الامتلاء الجسدي: استعادة حكمة الجسد (Bodyfulness, 2018) · التخلص من العادات الجسدية القسرية (Getting Our Bodies Back, 1996).
+الامتلاء الجسدي: استعادة حكمة الجسد (Bodyfulness, 2018) · استعادة أجسادنا (Getting Our Bodies Back, 1996).

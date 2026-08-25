@@ -13,10 +13,10 @@ language: "الإنجليزية"
 active_start: 1965
 active_end: 2015
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب السريري والسرديات النفسية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم الأعصاب السريري والسرديات النفسية", target_type: "مدرسة"
 related:
-  - id: "wrk-man-mistook-wife-hat", title: "الرجل الذي حسب زوجته قبعة", type: "عمل / كتاب"
-  - id: "syn-tourette", title: "متلازمة جيل دو لا توريت", type: "متلازمة"
+- id: "wrk-man-mistook-wife-hat", title: "الرجل الذي حسب زوجته قبعة", type: "عمل / كتاب"
+- id: "syn-tourette", title: "متلازمة جيل دو لا توريت", type: "متلازمة"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

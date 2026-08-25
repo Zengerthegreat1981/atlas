@@ -10,10 +10,15 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-vjohnson", title: "فرجينيا جونسون", type: "مفكر"
+- id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
+- id: "thk-wmasters", title: "وليام ماسترز", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-sexual-response-cycle", title: "دورة الاستجابة الجنسية", type: "مفهوم"
 gaps:
   - "تاريخ Masters & Johnson Institute (St. Louis) يستحق توثيقاً."
   - "العلاقة بين Helen Kaplan's models والمقاربة الطبية تستحق تفصيلاً."

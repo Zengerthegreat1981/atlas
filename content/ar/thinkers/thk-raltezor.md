@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← روبرتو �
 dates: "أوروغواي · [غير مؤكد]"
 country: "أوروغواي"
 language: "الإسبانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-adelaserna", title: "أغوستين دي لا سيرنا", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-adelaserna", title: "أغوستين دي لا سيرنا", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «Bion y Jung: Una Comparación Clínica» (2000s) أجرى «مقارنة» منهجية بين مدرسة بيون (Object Relations) ومدرسة يونغ، فأظهر التقاطعات في «اللغة الرمزية» و«التفكير بالأصل». كذلك درّب عدداً من المحلّلين في SUAPA مع دي لا سيرنا. كذلك شارك في مؤتمرات IAAP.
+في «Bion y Jung: Una Comparación Clínica» (العقد الأول من القرن الحادي والعشرين) أجرى «مقارنة» منهجية بين مدرسة بيون (Object Relations) ومدرسة يونغ، فأظهر التقاطعات في «اللغة الرمزية» و«التفكير بالأصل». كذلك درّب عدداً من المحلّلين في SUAPA مع دي لا سيرنا. كذلك شارك في مؤتمرات IAAP.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Bion y Jung (2000s).
+Bion y Jung (العقد الأول من القرن الحادي والعشرين).

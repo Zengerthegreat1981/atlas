@@ -11,16 +11,17 @@ dates: "كاليفورنيا ونيويورك · من أواخر السبعين�
 active_start: 1978
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "روبرت ستولورو", target_type: "مفكر"
-  - rel: "developed_by", target: "جورج أتوود", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-stolorow", target_type: "مفكر"
+- rel: "developed_by", target: "thk-georgeatwood", target_type: "مفكر"
 related:
-  - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
-  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
-  - id: "thk-brandchaft", title: "برنارد براندشافت", type: "مفكر"
-  - id: "thk-lachmann", title: "فرانك لاخمان", type: "مفكر"
-  - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
+- id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
+- id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
+- id: "thk-brandchaft", title: "برنارد براندشافت", type: "مفكر"
+- id: "thk-lachmann", title: "فرانك لاخمان", type: "مفكر"
+- id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 gaps:
   - "الدمج الفينومينولوجي بين هايدجر وسيكولوجيا الذات عند ستولورو وأتوود يحتاج توثيقاً فلسفياً أعمق."
   - "مفهوم 'الصدمة الانفعالية كفقدان للوطن الوجودي' (Emotional Trauma and Existential Homelessness) يستحق إبرازاً خاصاً."

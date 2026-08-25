@@ -1,0 +1,489 @@
+{
+  "total_schools": 167,
+  "total_concepts_by_school": {
+    "sch-polyvagal-informed-therapy": 1,
+    "sch-existential-therapy": 33,
+    "sch-psychedelic-assisted-therapy": 3,
+    "المشائية الأرسطية": 1,
+    "sch-psychoanalysis": 58,
+    "علم النفس الاجتماعي والمعرفي": 2,
+    "sch-environmental-ethics": 1,
+    "sch-intercultural-philosophy": 1,
+    "sch-buddhist-psychology": 1,
+    "sch-eft-couples": 4,
+    "sch-cognitive-behavioral": 10,
+    "sch-madhyamaka": 2,
+    "علاج التبعية-السلطة (SAR)": 1,
+    "tec-rebt": 1,
+    "sch-mutazila": 1,
+    "علم النفس الشعبي والعلاج الزواجي": 1,
+    "sch-behaviorism": 9,
+    "sch-somatic-experiencing": 6,
+    "sch-imago": 3,
+    "sch-philosophy-of-technology": 1,
+    "علم النفس الشعبي وإدارة الإنتاجية": 1,
+    "sch-cosmopolitanism": 1,
+    "علم النفس الشعبي وعلاج صدمات الأسرة": 1,
+    "علم النفس الشعبي والعلاج الأسري": 1,
+    "sch-legalism": 1,
+    "br-psychodrama": 1,
+    "sch-hermeticism": 1,
+    "علم النفس الإكلينيكي وعلاج الصدمات التطورية": 1,
+    "sch-african-psychology": 2,
+    "sch-aedp": 4,
+    "sch-islamic-psychology": 2,
+    "sch-developmental": 6,
+    "علم النفس الشعبي وقانون الجذب": 1,
+    "العلاج بمساعدة MDMA (MAPS)": 1,
+    "sch-feminism-radical": 1,
+    "علم النفس المتمركز حول أفريقيا": 1,
+    "sch-liberation-psychology": 1,
+    "علم النفس المعرفي واللايقين وفلسفة المخاطر": 1,
+    "rel-phenomenology-existential-therapy": 3,
+    "علم الأعصاب الإدراكي والانفعالي": 1,
+    "tec-sex-therapy-overview": 1,
+    "الإدمان": 2,
+    "sch-gestalt-therapy": 2,
+    "sch-judaism-hellenistic": 1,
+    "sch-marxism": 2,
+    "br-recovery-oriented": 1,
+    "sch-feminism-french-poststructural": 2,
+    "علم النفس الاجتماعي والاقتصاد السلوكي": 1,
+    "br-restorative-justice": 2,
+    "sch-ai-ethics": 1,
+    "sch-biological-neuro": 9,
+    "sch-hermeneutics": 1,
+    "br-discernment-counseling": 1,
+    "sch-emdr": 1,
+    "sch-philosophy-of-disability": 1,
+    "علم النفس المعرفي والإنتاجية الرقمية": 1,
+    "sch-milesian": 2,
+    "علم النفس الشعبي والقيادة الشخصية": 1,
+    "sch-hindutva": 1,
+    "tec-discernment-counseling": 1,
+    "br-embodied-relational-therapy": 1,
+    "sch-zoroastrian-philosophy": 3,
+    "sch-comparative-philosophy": 1,
+    "sch-atomism-greek": 1,
+    "br-dynamic-couples-family-therapy": 1,
+    "التنويم الإريكسوني": 1,
+    "sch-egyptian-maat": 3,
+    "tec-strategic-family-therapy": 2,
+    "tec-contemplative-psychotherapy": 2,
+    "علم النفس الشعبي والتنمية الذاتية": 1,
+    "br-embodied-cognition-therapy": 2,
+    "sch-kant-critical": 2,
+    "علم النفس الشعبي والتفكير الجانبي": 1,
+    "sch-humanistic": 6,
+    "sch-pyrrhonism": 2,
+    "علم النفس الأيورفيدي/الهندي التقليدي": 2,
+    "br-teacch": 1,
+    "علم النفس الشعبي والعمل الاجتماعي": 1,
+    "sch-social-ecology": 1,
+    "sch-animal-liberation": 1,
+    "علم النفس الشعبي والحكمة التولتيكية": 1,
+    "tec-contextual-family-therapy": 1,
+    "sch-indigenous-psychology": 4,
+    "علم النفس الشعبي والصحافة العلمية": 2,
+    "br-affective-neuroscience-informed": 2,
+    "العلاج البيئي/الطبيعي": 1,
+    "sch-solution-focused": 2,
+    "sch-scholasticism": 1,
+    "sch-positive-psychology": 3,
+    "sch-ockhamism": 1,
+    "الطاوية المعرفية (Chinese Taoist Cognitive Therapy)": 1,
+    "sch-systemic-family": 13,
+    "sch-gnosticism": 2,
+    "الطاوية المعرفية (Taoist Cognitive Therapy)": 2,
+    "علم النفس المعرفي وسيكولوجيا الذاكرة الجنائية": 1,
+    "sch-mingjia": 1,
+    "sch-samkhya": 1,
+    "sch-chinese-liberalism-modern": 1,
+    "العلاج بمساعدة النفسانية": 1,
+    "sch-confucian-early": 1,
+    "sch-social-psychology": 7,
+    "br-liberation-psychology": 3,
+    "sch-ipt": 2,
+    "con-ho-oponopono": 1,
+    "sch-care-ethics": 2,
+    "sch-heraclitean": 1,
+    "sch-cartesianism": 1,
+    "sch-akan": 1,
+    "تصميم السلوك والتقنية الإقناعية": 1,
+    "sch-mohism": 2,
+    "الفلسفة النفسية التطبيقية ومدرسة الحياة": 1,
+    "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)": 1,
+    "con-neurofeedback": 1,
+    "sch-wahdat-alwujud": 2,
+    "br-transactional-analysis": 1,
+    "الطب النفسي وسيكولوجيا الموت والحداد": 1,
+    "tec-mbct": 2,
+    "sch-cft": 1,
+    "علم الأعصاب الاجتماعي وسيكولوجيا الوحدة": 1,
+    "sch-decolonial-philosophy": 1,
+    "علم النفس الصحي": 2,
+    "Kaupapa Māori Psychology": 1,
+    "sch-kantian-ethics-contemporary": 1,
+    "العلاج بالخبرة/التجريبي": 1,
+    "sch-indigenous-philosophy-contemporary": 1,
+    "علم النفس الإكلينيكي وحساسية المعالجة الحسية": 1,
+    "sch-postcolonial-philosophy": 1,
+    "sch-deliberative-democracy": 1,
+    "علم النفس الشعبي والإرشاد الزواجي": 1,
+    "sch-confucian-psychology": 3,
+    "علم النفس الاجتماعي والتنظيم الذاتي": 1,
+    "sch-feminism-postcolonial": 1,
+    "علم النفس الإكلينيكي": 2,
+    "علم النفس الشعبي والتحفيز السلوكي": 1,
+    "sch-functionalism": 1,
+    "sch-jainism": 1,
+    "sch-sensorimotor-psychotherapy": 2,
+    "علم التأمل التعاقدي (العلوم التأملية)": 1,
+    "sch-critical-realism": 1,
+    "الليبرالية اليابانية الحديثة (فترة ميجي)": 1,
+    "sch-yinyang": 2,
+    "sch-epicureanism": 1,
+    "con-feminist-psychoanalysis": 1,
+    "sch-zonghengjia": 1,
+    "con-te-whare-tapa-wha": 1,
+    "sch-posthumanism": 1,
+    "br-aba-autism": 2,
+    "sch-existentialism-religious": 1,
+    "sch-eft": 3,
+    "الخبرة الجسدية (Somatic Experiencing)": 1,
+    "sch-daoism-religious": 2,
+    "علم النفس الإنساني والتواصل اللاعنفي": 1,
+    "br-sensory-integration": 1,
+    "علم الأعصاب وسيكولوجيا التعلق البالغ": 1,
+    "علم النفس الشعبي والإرشاد الأسري": 1,
+    "br-ubuntu-psychology": 1,
+    "اللسانيات المعرفية وعلم النفس السياسي": 2,
+    "sch-transhumanism": 1,
+    "sch-mindfulness-traditions": 1,
+    "br-clinical-hypnotherapy": 1,
+    "علم النفس الاجتماعي واتخاذ القرار": 1,
+    "علم النفس الشعبي والدراسات النسوية": 1,
+    "علم النفس الشعبي والعلاقات الأسرية": 1,
+    "علم النفس النمائي والشخصية": 1,
+    "الجمهورية المدنية الجديدة": 1,
+    "sch-ifs": 1,
+    "sch-act": 1
+  },
+  "top_shared_pairs": [
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "sch-psychoanalysis",
+      "shared_concepts": 11
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "rel-phenomenology-existential-therapy",
+      "shared_concepts": 2
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "sch-marxism",
+      "shared_concepts": 2
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "br-embodied-cognition-therapy",
+      "shared_concepts": 2
+    },
+    {
+      "school_a": "sch-somatic-experiencing",
+      "school_b": "sch-sensorimotor-psychotherapy",
+      "shared_concepts": 2
+    },
+    {
+      "school_a": "sch-gestalt-therapy",
+      "school_b": "sch-eft",
+      "shared_concepts": 2
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "sch-liberation-psychology",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "sch-feminism-french-poststructural",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "br-restorative-justice",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "sch-hermeneutics",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "br-liberation-psychology",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "sch-existentialism-religious",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-existential-therapy",
+      "school_b": "الجمهورية المدنية الجديدة",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychedelic-assisted-therapy",
+      "school_b": "الإدمان",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychedelic-assisted-therapy",
+      "school_b": "العلاج بمساعدة النفسانية",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "علم النفس الشعبي والعلاج الزواجي",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "sch-behaviorism",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "br-restorative-justice",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "sch-biological-neuro",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "sch-emdr",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "br-embodied-cognition-therapy",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "الطاوية المعرفية (Chinese Taoist Cognitive Therapy)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "الطاوية المعرفية (Taoist Cognitive Therapy)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-psychoanalysis",
+      "school_b": "sch-existentialism-religious",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "علم النفس الاجتماعي والمعرفي",
+      "school_b": "sch-positive-psychology",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-buddhist-psychology",
+      "school_b": "tec-contemplative-psychotherapy",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-buddhist-psychology",
+      "school_b": "العلاج بالخبرة/التجريبي",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-buddhist-psychology",
+      "school_b": "علم التأمل التعاقدي (العلوم التأملية)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-buddhist-psychology",
+      "school_b": "الخبرة الجسدية (Somatic Experiencing)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-buddhist-psychology",
+      "school_b": "sch-mindfulness-traditions",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-eft-couples",
+      "school_b": "sch-aedp",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-eft-couples",
+      "school_b": "علم الأعصاب وسيكولوجيا التعلق البالغ",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-cognitive-behavioral",
+      "school_b": "br-transactional-analysis",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "علاج التبعية-السلطة (SAR)",
+      "school_b": "tec-strategic-family-therapy",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "tec-rebt",
+      "school_b": "sch-social-psychology",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-somatic-experiencing",
+      "school_b": "br-sensory-integration",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-african-psychology",
+      "school_b": "علم النفس المتمركز حول أفريقيا",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-aedp",
+      "school_b": "علم الأعصاب وسيكولوجيا التعلق البالغ",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-liberation-psychology",
+      "school_b": "br-liberation-psychology",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "الإدمان",
+      "school_b": "العلاج بمساعدة النفسانية",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "علم النفس الاجتماعي والاقتصاد السلوكي",
+      "school_b": "علم النفس الاجتماعي واتخاذ القرار",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-biological-neuro",
+      "school_b": "sch-emdr",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-biological-neuro",
+      "school_b": "br-affective-neuroscience-informed",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "br-discernment-counseling",
+      "school_b": "tec-discernment-counseling",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "br-embodied-relational-therapy",
+      "school_b": "con-feminist-psychoanalysis",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "tec-strategic-family-therapy",
+      "school_b": "sch-systemic-family",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "tec-contemplative-psychotherapy",
+      "school_b": "العلاج بالخبرة/التجريبي",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "tec-contemplative-psychotherapy",
+      "school_b": "علم التأمل التعاقدي (العلوم التأملية)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "tec-contemplative-psychotherapy",
+      "school_b": "الخبرة الجسدية (Somatic Experiencing)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "tec-contemplative-psychotherapy",
+      "school_b": "sch-mindfulness-traditions",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "br-embodied-cognition-therapy",
+      "school_b": "sch-existentialism-religious",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-humanistic",
+      "school_b": "sch-cft",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-humanistic",
+      "school_b": "علم النفس الإنساني والتواصل اللاعنفي",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-pyrrhonism",
+      "school_b": "sch-epicureanism",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "tec-contextual-family-therapy",
+      "school_b": "sch-systemic-family",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "الطاوية المعرفية (Chinese Taoist Cognitive Therapy)",
+      "school_b": "الطاوية المعرفية (Taoist Cognitive Therapy)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "sch-systemic-family",
+      "school_b": "علم النفس الشعبي والعلاقات الأسرية",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "العلاج بالخبرة/التجريبي",
+      "school_b": "علم التأمل التعاقدي (العلوم التأملية)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "العلاج بالخبرة/التجريبي",
+      "school_b": "الخبرة الجسدية (Somatic Experiencing)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "العلاج بالخبرة/التجريبي",
+      "school_b": "sch-mindfulness-traditions",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "علم التأمل التعاقدي (العلوم التأملية)",
+      "school_b": "الخبرة الجسدية (Somatic Experiencing)",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "علم التأمل التعاقدي (العلوم التأملية)",
+      "school_b": "sch-mindfulness-traditions",
+      "shared_concepts": 1
+    },
+    {
+      "school_a": "الخبرة الجسدية (Somatic Experiencing)",
+      "school_b": "sch-mindfulness-traditions",
+      "shared_concepts": 1
+    }
+  ]
+}

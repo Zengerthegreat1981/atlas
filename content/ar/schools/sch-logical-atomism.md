@@ -13,13 +13,14 @@ language: "الإنجليزية"
 active_start: 1911
 active_end: 1930
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_into", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
-  - rel: "superseded_by", target: "فلسفة اللغة العادية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-vienna-circle", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
-  - id: "thk-brussell", title: "برتراند راسل", type: "مفكر"
-  - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
-  - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "wrk-tractatus", title: "رسالة منطقية-فلسفية (Tractatus Logico-Philosophicus)", type: "عمل / كتاب"
+- id: "thk-ge-moore", title: "جورج إدوارد مور", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«جورج إدوارد مور» (thk-moore) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين الذرية المنطقية المبكرة (راسل 1911–1918) والمتأخرة (فيتغنشتاين «رسالة منطقية-فلسفية» 1921) لم يُحلّل في المصادر الأولية."

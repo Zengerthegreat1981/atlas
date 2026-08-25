@@ -10,14 +10,15 @@ dates: "1954 · أبراهام ماسلو"
 language: "الإنجليزية"
 active_start: 1954
 active_end: 1954
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "أبراهام ماسلو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-maslow", target_type: "مفكر"
 related:
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
-  - id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
-  - id: "con-peak-experience", title: "خبرة الذروة", type: "مفهوم"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
+- id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
+- id: "con-peak-experience", title: "خبرة الذروة", type: "مفهوم"
 gaps:
   - "الفرق بين الطبعتين (1954 و 1970) في عرض هرم الاحتياجات يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

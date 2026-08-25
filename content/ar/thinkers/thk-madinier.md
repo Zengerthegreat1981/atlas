@@ -11,14 +11,15 @@ active_start: 1938
 active_end: 1938
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-blondel", title: "موريس بلونديل", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-blondel", title: "موريس بلونديل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أطروحته 'الوعي بالذات والتواصل بين الذوات' (Conscience et Signification) تستحق توثيقاً."

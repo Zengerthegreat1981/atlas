@@ -11,13 +11,19 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1953
 active_end: 2007
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
 related:
-  - id: "thk-cmadanes", title: "كلوي مادانس", type: "مفكر"
+- id: "thk-cmadanes", title: "كلوي مادانس", type: "مفكر"
+- id: "con-double-bind", title: "الرباط المزدوج", type: "مفهوم"
+- id: "thk-ebordin", title: "إدوارد بوردين", type: "مفكر"
+- id: "thk-mkern", title: "مارك كيرن", type: "مفكر"
+- id: "thk-istansky", title: "إيروين سترانسكي", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في مركز MRI لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيروين سترانسكي (thk-istansky)."
 ---
 
 # جاي هالي

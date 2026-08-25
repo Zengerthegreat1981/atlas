@@ -5,14 +5,17 @@ type: "مفكر"
 level: "متوسط"
 title: "أولغا سيلفرشتاين"
 en: "Olga Silverstein"
-crumb: "br-dynamic-couples-family-therapy ← الأسرة النسوية ← أولغا سيلفرشتاين"
+crumb: "العلاج الديناميكي للأزواج والأسرة ← الأسرة النسوية ← أولغا سيلفرشتاين"
 dates: "الولايات المتحدة · 1920–2009"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: 2005
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج الديناميكي للأزواج والأسرة", target_type: "تيار"
+related:
+- id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

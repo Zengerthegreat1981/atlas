@@ -13,10 +13,12 @@ language: "الألمانية"
 active_start: 1830
 active_end: 1870
 edges:
-  - rel: "belongs_to", target: "الهيغلية", target_type: "مدرسة"
-  - rel: "superseded_by", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
+- id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«كارل فريدريش غوشل» (thk-goeschel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«كارل لودفيغ ميشليه» (thk-michelet) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

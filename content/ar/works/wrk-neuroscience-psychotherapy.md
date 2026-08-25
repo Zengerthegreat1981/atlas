@@ -10,13 +10,16 @@ dates: "2002 · لويس كوزولينو"
 language: "الإنجليزية"
 active_start: 2002
 active_end: 2002
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "لويس كوزولينو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "لويس كوزولينو", target_type: "مفكر"
 related:
-  - id: "con-neuropsychoanalysis", title: "التحليل النفسي العصبي (Neuropsychoanalysis)", type: "مفهوم"
-  - id: "br-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "تيار"
-  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "con-neuropsychoanalysis", title: "التحليل النفسي العصبي (Neuropsychoanalysis)", type: "مفهوم"
+- id: "br-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "تيار"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (W. W. Norton) والطبعات اللاحقة (2010, 2017) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

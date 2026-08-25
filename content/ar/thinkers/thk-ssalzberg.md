@@ -11,9 +11,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج النفسي التأملي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج النفسي التأملي (جامعة ناروبا)", target_type: "مدرسة"
 related:
+- id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
+- id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "النص يذكر جوزيف غولدشتاين (Joseph Goldstein) كشريك تأسيس، لكن لا يوجد ملف مستقل له في الأطلس بعد — يحتاج كتابة عبر مسار المسودات."

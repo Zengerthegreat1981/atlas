@@ -11,12 +11,13 @@ active_start: 1943
 active_end: 1953
 country: "هولندا"
 language: "الهولندية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مؤلفاته في الفينومينولوجيا الحيوانية والأنثروبولوجيا الفسيولوجية تحتاج إلى مراجعة من المصادر الأصلية."

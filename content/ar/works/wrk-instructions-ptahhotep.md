@@ -12,12 +12,14 @@ language: "المصرية القديمة (الهيروغليفية)"
 active_start: -2450
 active_end: -2450
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة المصرية (ماعت)", target_type: "مدرسة"
-  - rel: "authored_by", target: "بتاح حتب", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-ptahhotep", target_type: "مفكر"
 related:
-  - id: "thk-ptahhotep", title: "بتاح حتب", type: "مفكر"
-  - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
-  - id: "con-maat", title: "ماعت", type: "مفهوم"
+- id: "thk-ptahhotep", title: "بتاح حتب", type: "مفكر"
+- id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
+- id: "con-maat", title: "ماعت", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "تفاصيل تأريخ النسخة البردية (Prisse Papyrus) وعلاقتها بالأصل المنسوب لبتاح حتب تحتاج مراجعة بيبلوغرافية متخصصة."
   - "لا يوجد اقتباس مباشر موثوق متاح من نص بعينه في النسخة المعتمدة عربياً."

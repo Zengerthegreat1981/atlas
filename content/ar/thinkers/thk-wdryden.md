@@ -5,21 +5,27 @@ type: "مفكر"
 level: "متوسط"
 title: "ويندي دريدن"
 en: "Windy Dryden"
-crumb: "br-single-session-therapy ← المنظور المعرفي ← ويندي دريدن"
+crumb: "العلاج بجلسة واحدة ← المنظور المعرفي ← ويندي دريدن"
 dates: "بريطانيا · 1950–"
 country: "بريطانيا"
 language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بجلسة واحدة", target_type: "تيار"
 related:
-  - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-  - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-  - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
+- id: "thk-mhoyt", title: "مايكل ف. هويت", type: "مفكر"
+- id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"
+- id: "thk-wbennett", title: "وين بينيت", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في University of London لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موشيه تالمون (thk-mtalmon)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وين بينيت (thk-wbennett)."
 ---
 
 # ويندي دريدن

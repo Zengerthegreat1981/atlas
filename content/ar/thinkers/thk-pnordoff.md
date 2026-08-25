@@ -10,12 +10,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1959
 active_end: 1977
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← بول نوردوف"
 edges:
-  - rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
 related:
-  - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
+- id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بول نوردوف

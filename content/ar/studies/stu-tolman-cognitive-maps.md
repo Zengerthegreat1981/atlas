@@ -9,10 +9,11 @@ en: "Edward Tolman's Cognitive Maps in Rats and Men Study"
 crumb: "علم النفس المعرفي والتعلم ← الدراسات والأبحاث ← دراسة تولمان للخرائط المعرفية"
 active_start: 1930
 active_end: 1948
-edges: []
+edges:
+  []
 related:
-  - id: "stu-skinner-operant-conditioning", title: "تجارب سكينر للإشراط الإجرائي", type: "دراسة وبحث"
-  - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
+- id: "stu-skinner-operant-conditioning", title: "تجارب سكينر للإشراط الإجرائي", type: "دراسة وبحث"
+- id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
 gaps:
   - "اكتشاف 'خلايا المكان' (Place Cells) لجون أوكيف وتأكيد صحة فرضية تولمان عصبياً عام 1971."
   - "لا يوجد اقتباس مباشر موثوق متاح."

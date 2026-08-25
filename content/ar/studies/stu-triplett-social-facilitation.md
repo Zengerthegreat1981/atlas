@@ -8,9 +8,11 @@ en: "Triplett's Social Facilitation and Co-Action Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة تريبليت للتيسير الاجتماعي"
 active_start: 1898
 active_end: 1898
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "إعادة التحليل الإحصائي الحديث لبيانات تريبليت بواسطة Strube (2005) كشفت عن دلالة إحصائية أضعف مما نُشر تاريخياً"
   - "تطور المفهوم لاحقاً لنظرية دافع الإثارة لروبرت زاجونك (Robert Zajonc) يتطلب مراجعة مقارنة"

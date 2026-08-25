@@ -11,10 +11,11 @@ country: "ألمانيا"
 language: "ألمانية وإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
 related:
-  - id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
+- id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Ulm وMFI لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

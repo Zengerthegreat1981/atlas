@@ -11,10 +11,15 @@ dates: "من أواخر التسعينيات"
 active_start: 1997
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-esaebel", title: "إليزابيث سايبل", type: "مفكر"
+- id: "thk-jrathus", title: "جيل راثوس", type: "مفكر"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "con-dialectical-abstinence", title: "الامتناع الجدلي", type: "مفهوم"
 gaps:
   - "تعديلات ميلر وراتوس (Miller & Rathus) لـ DBT للمراهقين (DBT-A) وإشراك الأسرة."
   - "مفهوم 'الامتناع الواضح والامتناع الجدلي' (Dialectical Abstinence) في DBT للإدمان."

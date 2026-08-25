@@ -11,10 +11,10 @@ active_start: 1960
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "معايير هانتر للسمية السيروتونينية (Hunter Toxicity Criteria)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

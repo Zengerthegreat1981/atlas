@@ -11,9 +11,13 @@ active_start: 1929
 active_end: 1960
 language: "الألمانية/الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 related:
-  - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الفرق بين 'التحقق القوي' و'التحقق الضعيف' في 'حلقة فيينا' لم يُحلّل بشكل منهجي."
   - "لا يوجد اقتباس مباشر موثوق من 'البيان العلمي' (1929)."

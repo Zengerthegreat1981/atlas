@@ -11,11 +11,12 @@ active_start: 1978
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
+- id: "con-jonah-complex", title: "عقدة يونان (الخوف من العظمة والهروب من أقصى الإمكانات)", type: "مفهوم"
 gaps:
   - "ورقة بولين كلانس وسوزان إيمز الأصلية (Clance & Imes 1978) على النساء ذوات الإنجاز العالي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

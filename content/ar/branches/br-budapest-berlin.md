@@ -11,15 +11,16 @@ dates: "بودابست وبرلين · الربع الأول من القرن ا�
 active_start: 1913
 active_end: 1933
 language: "الألمانية / المجرية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "ساندور فيرينتزي", target_type: "مفكر"
-  - rel: "developed_by", target: "كارل أبراهام", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "ساندور فيرينتزي", target_type: "مفكر"
+- rel: "developed_by", target: "thk-aabrer", target_type: "مفكر"
 related:
-  - id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
-  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
-  - id: "thk-meitingon", title: "ماكس إيتينغون", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
+- id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
+- id: "thk-meitingon", title: "ماكس إيتينغون", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "تأسيس معهد برلين للتحليل النفسي (1920) ونموذج التدريب التحليلي الثلاثي المعتمد عالمياً (التحليل الشخصي، الإشراف، المحاضرات النظرية)."
   - "تجربة فيرينتزي في 'التحليل المتبادل' (Mutual Analysis) وكتابه 'يوميات إكلينيكية' (1932)."

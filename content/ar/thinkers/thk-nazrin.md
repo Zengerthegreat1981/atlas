@@ -9,13 +9,18 @@ crumb: "السلوكية (Behaviorism) ← الناس ← نَثَان هـ. أ�
 dates: "أمريكا · 1930–2013"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2013
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-rfoxx", title: "ريتشارد فُكْس", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-rfoxx", title: "ريتشارد فُكْس", type: "مفكر"
+- id: "tec-cra", title: "نهج التعزيز المجتمعي (CRA)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نَثَان هـ. أزّرين
@@ -34,7 +39,7 @@ gaps:
 
 ## قيد
 
-تَوفِّي 2013.
+تُوفِّي 2013.
 
 ## أهم أعماله
 

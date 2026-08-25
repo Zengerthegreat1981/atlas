@@ -11,13 +11,14 @@ icd11_code: "7A40-7A4Z"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-  - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
+- id: "syn-insomnia", title: "الأرق", type: "متلازمة"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 gaps:
   - "لا يوجد ملف منفصل لـ 'Obstructive Sleep Apnea' (OSA) أو 'Central Sleep Apnea' كأمراض رئيسية — الفئة هنا مُجمّعة."
   - "التفاصيل الدقيقة لـ ICD-11 7A40 (Central sleep apnoeas) vs 7A41 (Obstructive sleep apnoea) vs 7A42 (Sleep-related hypoventilation) لم تُراجَع من المصدر الأولي."

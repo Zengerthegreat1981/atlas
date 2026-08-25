@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1997
 active_end: 1997
 edges:
-  - rel: "belongs_to", target: "العلاج الجسدي للصدمات (Somatic Experiencing)", target_type: "مدرسة"
-  - rel: "written_by", target: "بيتر ليفين", target_type: "مفكر"
+- rel: "belongs_to", target: "العلاج الجسدي للصدمات (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "written_by", target: "thk-plevine", target_type: "مفكر"
 related:
-  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
+- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)", type: "مفهوم"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

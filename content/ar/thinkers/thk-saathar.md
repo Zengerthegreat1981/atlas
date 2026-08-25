@@ -11,12 +11,14 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
 related:
-  - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-aabdelkhalek", title: "أمجد عبد الخالق", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "ليس متخصصاً أكاديمياً في علم النفس بمعاييره الأكاديمية — يُدرج كناشط إسلامي."
@@ -27,7 +29,7 @@ gaps:
 
 طبيب غدد صمّاء أمريكي من أصل هندي، ومفكّر إسلامي. من أكثر الكتّاب نفوذاً في تبسيط علم النفس الإيجابي الإسلامي للجماهير المسلمة في الغرب.
 
-## ما أعطت
+## ما أعطاه
 
 - **«Psychological Health from Islamic Perspective»** (الجمعية الإسلامية لعلم النفس-أمريكا).
 - **أدبيات الصحة النفسية** الموجّهة للمسلمين الأمريكيين.

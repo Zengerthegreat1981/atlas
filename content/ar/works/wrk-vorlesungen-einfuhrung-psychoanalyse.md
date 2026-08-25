@@ -10,17 +10,21 @@ dates: "1916–1917 · سيغموند فرويد"
 active_start: 1916
 active_end: 1917
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "سيغموند فرويد", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-freud", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "crt-religious-conservative-critique-psychoanalysis", title: "النقد الديني/اللاهوتي المحافظ للتحليل النفسي: تهديد للأخلاق", type: "نقد خارجي موثَّق"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الكتاب صدر أصلاً كمحاضرات في فيينا (1915–1917) — التحقق من الفروقات بين النسخ المنشورة والمحاضرات الأصلية لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Freud في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # محاضرات تمهيدية في التحليل النفسي (Vorlesungen zur Einführung in die Psychoanalyse) — سيغموند فرويد
 
 كتاب صدر في 1916 (الجزء الأول) و1917 (الجزء الثاني) في فيينا عن Hugo Heller، يجمع **محاضرات Freud في جامعة فيينا بين خريف 1915 وربيع 1917** (28 محاضرة في الفصول الثلاثة). يُعدّ أوّل عرض منهجي **ميسّر وشامل** للتحليل النفسي، وأكبر كتب Freud مبيعاً في حياته.

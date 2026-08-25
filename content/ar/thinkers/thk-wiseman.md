@@ -11,13 +11,14 @@ active_start: 2008
 active_end: 2008
 country: "إسرائيل"
 language: "العبرية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "thk-lifton", title: "روبرت جاي ليفتون", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-lifton", title: "روبرت جاي ليفتون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "أبحاثها حول انتقال الصدمات الوجودية عبر الأجيال (Intergenerational Trauma) تستحق إدراجاً."

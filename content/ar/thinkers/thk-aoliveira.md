@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← أنا مار�
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطته
 
-في «Caminhos da Alma Feminina» (2000s) أجرت «تحليلية نسوية كاثوليكية» تستلهم E. Harding، مع تركيز على «الأنثى» (Maria، Hildegarda de Bingen، إيزابيل كانابارو) في التقليد الكاثوليكي البرازيلي. كذلك أجرت «تحليلية للموروث الأفريقي–البرازيلي» في الـ Candomblé، فربطت بين أركيتيب «الأمّ الكبرى» و«إلهة البحر» (Iemanjá).
+في «Caminhos da Alma Feminina» (العقد الأول من القرن الحادي والعشرين) أجرت «تحليلية نسوية كاثوليكية» تستلهم E. Harding، مع تركيز على «الأنثى» (Maria، Hildegarda de Bingen، إيزابيل كانابارو) في التقليد الكاثوليكي البرازيلي. كذلك أجرت «تحليلية للموروث الأفريقي–البرازيلي» في الـ Candomblé، فربطت بين أركيتيب «الأمّ الكبرى» و«إلهة البحر» (Iemanjá).
 
 ## موقعها من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-Caminhos da Alma Feminina (2000s).
+Caminhos da Alma Feminina (العقد الأول من القرن الحادي والعشرين).

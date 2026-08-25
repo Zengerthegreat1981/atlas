@@ -10,12 +10,16 @@ dates: "1950 · إريك إريكسون"
 language: "الإنجليزية"
 active_start: 1950
 active_end: 1950
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "إريك إريكسون", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-erikson", target_type: "مفكر"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "تفاصيل المقابلات مع «الساميون» (Sioux) و«الأوغونكي» (Yurok) واستخدامات إريكسون للأنثروبولوجيا لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

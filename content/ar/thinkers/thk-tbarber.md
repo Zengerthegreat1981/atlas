@@ -10,12 +10,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1956
 active_end: 2005
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ثيودور باربر"
 edges:
-  - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
 related:
-  - id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
+- id: "thk-morne", title: "مارتن أورن", type: "مفكر"
+- id: "thk-delman", title: "ديف إلمان", type: "مفكر"
+- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست ر. هيلغارد (thk-ihilgard)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست ر. هيلغارد (thk-ihilgard)."
 ---
 
 # ثيودور باربر

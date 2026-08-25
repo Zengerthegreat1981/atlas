@@ -13,12 +13,14 @@ language: "الإنجليزية"
 active_start: 1958
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "superseded_by", target: "النفعية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-utilitarianism-contemporary", target_type: "مدرسة"
 related:
-  - id: "thk-ganscombe", title: "جيرترود إليزابيث مارجريت أنسكومبي", type: "مفكر"
-  - id: "thk-macintyre", title: "آلاسدير ماكنتاير", type: "مفكر"
-  - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-ganscombe", title: "جيرترود إليزابيث مارجريت أنسكومبي", type: "مفكر"
+- id: "thk-macintyre", title: "آلاسدير ماكنتاير", type: "مفكر"
+- id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "wrk-after-virtue", title: "بعد الفضيلة (After Virtue)", type: "عمل / كتاب"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«فيليبا فوت» (thk-foot) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«روزاليند هورسثوس» (thk-hursthouse) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

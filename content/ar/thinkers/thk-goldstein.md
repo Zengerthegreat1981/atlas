@@ -7,14 +7,19 @@ title: "كورت غولدشتاين"
 en: "Kurt Goldstein"
 crumb: "المدرسة الوجودية ← الناس ← كورت غولدشتاين"
 dates: "ألمانيا · 1878–1965 (هاجر لاحقاً للولايات المتحدة)"
-active_start: 1934
-active_end: 1934
+active_start: 1906
+active_end: 1965
 language: "الألمانية"
 country: "ألمانيا"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "wrk-goldstein-organism", title: "الكائن الحي (The Organism)", type: "عمل / كتاب"
+- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
+- id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "wrk-allport-personality-1937", title: "الشخصية: تفسير نفسي (Personality: A Psychological Interpretation)", type: "عمل / كتاب"
 gaps:
   - "علاقته بغيلب (Adhemar Gelb) وأبحاثهما المشتركة عن إصابات الدماغ الحربية غير مربوطة هنا بعد."
   - "أثره الفينومينولوجي على مرلو-بونتي (عبر حالة شنايدر) موثّق أكاديمياً لكن غير مربوط هنا — يحتاج اقتراحاً منفصلاً."
@@ -38,8 +43,8 @@ gaps:
 
 ## أهم أعماله
 
-الكائن العضوي: مقاربة شمولية للبيولوجيا (Der Aufbau des Organismus, 1934)
+الكائن العضوي: مقاربة شمولية للبيولوجيا مستمدّة من معطيات مرضية عند الإنسان (Der Aufbau des Organismus, 1934) · اللغة واضطرابات اللغة (Language and Language Disturbances, 1948) · الطبيعة البشرية في ضوء علم النفس المرضي (Human Nature in the Light of Psychopathology, 1940)
 
 ## اقتباسات مختارة
 
-«الكائن الحي تحكمه غريزة واحدة فقط، هي غريزة تحقيق الذات.» — الكائن العضوي، 1934
+لا يوجد اقتباس مباشر موثوق متاح: العبارة التي كانت مدرجة هنا («الكائن الحي تحكمه غريزة واحدة») صياغة تلخيصية تخالف موقف غولدشتاين نفسه، إذ كان يرفض لغة «الغرائز» صراحةً ويتكلّم عن **ميل** (Tendenz) لا عن غريزة.

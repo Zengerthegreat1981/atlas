@@ -11,15 +11,16 @@ active_start: 1972
 active_end: 2011
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-todes", title: "صموئيل توديس", type: "مفكر"
-  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-todes", title: "صموئيل توديس", type: "مفكر"
+- id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'الكينونة-في-العالم' (1991) ونقده الفينومينولوجي للذكاء الاصطناعي يستحقان إدراجاً في الأعمال."

@@ -12,10 +12,11 @@ language: "العبرية (مع أقسام آرامية)"
 active_start: -970
 active_end: -931
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← سليمان (في التقليد التوراتي)"
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة العبرية القديمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقليد الحكمة العبرية القديمة", target_type: "مدرسة"
 related:
-  - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
+- id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
 gaps:
   - "الشخصية التاريخية لسليمان الحاكم الحقيقي محل نقاش بين المؤرخين المعاصرين."
   - "نسبة الأمثال والنشيد والجامعة إليه نسب لاهوتي تقليدي، لا تأكيد تاريخي."

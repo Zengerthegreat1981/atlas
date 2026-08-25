@@ -6,17 +6,21 @@ level: ""
 title: "هل يوجد لاوعي؟"
 en: "The unconscious question"
 crumb: "المدرسة الوجودية ← الخصومات ← اللاوعي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي", type: "علاقة"
+- id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
+- id: "rel-psychoanalysis", title: "التحليل النفسي", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
-
 # هل يوجد لاوعي؟
 
 خصومة تبدو نظرية وأثرها العملي مباشر في كل جلسة.

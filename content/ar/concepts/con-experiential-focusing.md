@@ -6,13 +6,17 @@ level: "متوسط"
 title: "التركيز التجريبي (Experiential Focusing)"
 en: "Experiential Focusing"
 crumb: "الإنسانية ← المفاهيم ← التركيز التجريبي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "يوجين جندلين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-gendlin", target_type: "مفكر"
 related:
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "con-felt-sense", title: "الإحساس الجسدي المحسَّس", type: "مفهوم"
-  - id: "tec-focusing-oriented", title: "التركيز الموجّه بالخبرة", type: "تقنية/تدخل علاجي"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "con-felt-sense", title: "الإحساس الجسدي المحسَّس", type: "مفهوم"
+- id: "tec-focusing-oriented", title: "التركيز الموجّه بالخبرة", type: "تقنية/تدخل علاجي"
+- id: "wrk-focusing", title: "التركيز (Focusing)", type: "عمل / كتاب"
 gaps:
   - "التمييز بين 'التركيز' كعملية ذاتية و'التركيز الموجّه' كتطبيق علاجي يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من جندلين بعد."

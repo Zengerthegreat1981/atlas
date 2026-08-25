@@ -11,9 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
+- rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
 related:
+- id: "thk-bpowell", title: "برت باول", type: "مفكر"
+- id: "thk-ghoffman", title: "غلين هوفمان", type: "مفكر"
+- id: "thk-lkuhn", title: "ليندا كون", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق غير موثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

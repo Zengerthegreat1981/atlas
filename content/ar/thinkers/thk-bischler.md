@@ -9,11 +9,14 @@ crumb: "المدرسة الوجودية ← الناس ← فيرنر بيشلر
 dates: "سويسرا · القرن العشرين"
 country: "سويسرا"
 language: "الفرنسية / الألمانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تواريخ الميلاد والوفاة الدقيقة وسيرته الشخصية تتطلب بحثاً في الأرشيفات السويسرية المتخصصة."

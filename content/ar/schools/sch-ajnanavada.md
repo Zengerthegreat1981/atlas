@@ -13,13 +13,14 @@ language: "السنسكريتية، البالي"
 active_start: -500
 active_end: 400
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
-  - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
+- id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
 gaps:
   - "نصوص سَنجَيا بِلاتْها بوتا (Sañjaya Belaṭṭhaputta) مفقودة — معرفتنا من نقد بوذا له في Sutta Pitaka."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أجنانا (Ajñāna، الشك الشرامني)

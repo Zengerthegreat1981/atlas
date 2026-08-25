@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← ما بعد الإنسانية ←
 active_start: 1985
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "ما بعد الإنسانية (Posthumanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-posthumanism", target_type: "مدرسة"
 related:
-  - id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
-  - id: "thk-haraway", title: "دونا هاراواي", type: "مفكر"
+- id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
+- id: "thk-haraway", title: "دونا هاراواي", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Routledge الأصلية (1991)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الكائن الهجين (Cyborg)

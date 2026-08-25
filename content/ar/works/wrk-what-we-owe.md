@@ -13,10 +13,13 @@ language: "الإنجليزية"
 active_start: 1998
 active_end: 1998
 edges:
-  - rel: "belongs_to", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-contractualism", target_type: "مدرسة"
 related:
-  - id: "thk-tscanlon", title: "تِم سَكَنلون", type: "مفكر"
-  - id: "sch-contractualism", title: "التعاقدية/التعاقدانية الأخلاقية الحديثة", type: "مدرسة"
+- id: "thk-tscanlon", title: "تِم سَكَنلون", type: "مفكر"
+- id: "sch-contractualism", title: "التعاقدية/التعاقدانية الأخلاقية الحديثة", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفصل 5 (حول الاستحقاق والجزاء) يحتاج مراجعة من النص الأصلي."
   - "لا يوجد اقتباس مباشر موثوق من المقدمة."

@@ -11,11 +11,12 @@ crumb: "علم الأعصاب والفيزيولوجيا الحيوية ← ال
 active_start: 2011
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب والفيزيولوجيا الحيوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم الأعصاب والفيزيولوجيا الحيوية", target_type: "مدرسة"
 related:
-  - id: "wrk-polyvagal-theory-therapy", title: "النظرية العصبية المبهمة في العلاج", type: "عمل / كتاب"
-  - id: "thk-stephen-porges", title: "ستيفن بورغيس", type: "مفكر"
-  - id: "thk-deb-dana", title: "ديب دانا", type: "مفكر"
+- id: "wrk-polyvagal-theory-therapy", title: "النظرية العصبية المبهمة في العلاج", type: "عمل / كتاب"
+- id: "thk-stephen-porges", title: "ستيفن بورغيس", type: "مفكر"
+- id: "thk-dana", title: "ديب دانا", type: "مفكر"
+- id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 gaps:
   - "تطبيقات النظرية في تمارين التنفس وتنشيط العصب المبهم البطني."
   - "لا يوجد اقتباس مباشر موثوق متاح."

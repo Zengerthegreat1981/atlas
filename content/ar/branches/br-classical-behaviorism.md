@@ -11,18 +11,20 @@ dates: "أوائل القرن العشرين"
 active_start: 1913
 active_end: "مستمر"
 language: "الإنجليزية / الروسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-  - id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس", type: "تقنية/تدخل علاجي"
-  - id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
-  - id: "con-aversion-therapy", title: "علاج النفور (تاريخي)", type: "مفهوم"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس", type: "تقنية/تدخل علاجي"
+- id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
+- id: "con-aversion-therapy", title: "علاج النفور (تاريخي)", type: "مفهوم"
+- id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"
 gaps:
   - "البيان السلوكي لجون واطسون (1913) 'علم النفس كما يراه السلوكي' وتأثير أبحاث بافلوف في الإشراط الاستجابي."
   - "انتقال النموذج من علم النفس التجريبي المعملي إلى التطبيقات الإكلينيكية الأولى لاضطرابات الرهاب والقلق."
 ---
-
 # السلوكية الكلاسيكية
 
 التيار التأسيسي الأول في المدرسة السلوكية، نشأ في بدايات القرن العشرين على يد جون واطسون وإيفان بافلوف، ثائراً على منهج الاستبطان والتحليل النفسي، ومؤسساً لدراسة السلوك الملاحظ الخاضع للقياس التجريبي وقوانين الإشراط الكلاسيكي (مثير-استجابة).

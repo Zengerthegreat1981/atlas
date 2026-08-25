@@ -11,11 +11,17 @@ active_start: 1957
 active_end: 2026
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس", target_type: "مدرسة"
 related:
+- id: "thk-ekandel", title: "إريك كاندِل", type: "مفكر"
+- id: "thk-vramachandran", title: "فينسنت س. راماشاندران", type: "مفكر"
+- id: "dbt-anarchism-vs-state", title: "جدل الفوضوية مع الدولة: هل يمكن الاستغناء عن الدولة؟", type: "جدل"
+- id: "ctx-cognitive-revolution-1950s", title: "الثورة المعرفية في الخمسينيات وحوسبة العقل واللغويات التوليدية", type: "سياق/تقليد"
 gaps:
   - "تشومسكي معروف بالأساس كلغوي وفيلسوف وناقد سياسي، وليس عالم نفس إكلينيكي أو علاجي؛ ارتباطه بعلم النفس يمر عبر نقده لسلوكية سكينر وتأثيره في الثورة المعرفية."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نعوم تشومسكي

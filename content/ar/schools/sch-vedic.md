@@ -14,10 +14,10 @@ active_start: -1500
 active_end: -800
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الفكر الهندي القديم", target_type: "مظلة"
+- rel: "belongs_to", target: "الفكر الهندي القديم", target_type: "مظلة"
 related:
-  - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
-  - id: "sch-mimamsa", title: "ميمامسا", type: "مدرسة"
+- id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
+- id: "sch-mimamsa", title: "ميمامسا", type: "مدرسة"
 gaps:
   - "النصوص الفيدية (Rg, Yajur, Sama, Atharva) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

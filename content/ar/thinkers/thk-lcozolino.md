@@ -10,12 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2002
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← لويس كوتزولينو"
 edges:
-  - rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
 related:
-  - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "thk-rkeller", title: "روبرت كيلر", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "thk-aschore", title: "ألان شور", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # لويس كوتزولينو

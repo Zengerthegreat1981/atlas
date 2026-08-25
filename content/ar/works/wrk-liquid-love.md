@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2003
 active_end: 2003
 edges:
-  - rel: "belongs_to", target: "علم الاجتماع النفسي ونظرية السيولة", target_type: "مدرسة"
-  - rel: "written_by", target: "زيجمونت باومان", target_type: "مفكر"
+- rel: "belongs_to", target: "علم الاجتماع النفسي ونظرية السيولة", target_type: "مدرسة"
+- rel: "written_by", target: "thk-zygmunt-bauman", target_type: "مفكر"
 related:
-  - id: "thk-zygmunt-bauman", title: "زيجمونت باومان", type: "مفكر"
+- id: "thk-zygmunt-bauman", title: "زيجمونت باومان", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,16 +11,17 @@ dates: "أوائل التسعينيات"
 active_start: 1995
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
-  - id: "thk-rothbaum", title: "باربارا روثباوم", type: "مفكر"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "نظام Bravemind (Virtual Iraq/Vietnam) للـ PTSD العسكري."
   - "مقارنة الفعالية بين VRET و In Vivo Exposure في اضطرابات القلق."
   - "الإدماج بين VRET والتحفيز الحيوي والذكاء الاصطناعي (Adaptive VR)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باربارا روثباوم (thk-rothbaum)."
 ---
 
 # التعرض بالواقع الافتراضي (VRET)

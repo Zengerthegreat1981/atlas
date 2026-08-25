@@ -13,15 +13,15 @@ language: "اليابانية، الصينية الكلاسيكية"
 active_start: 805
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تيانتاي (الصينية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
 related:
-  - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
-  - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
-  - id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
-  - id: "sch-nichiren", title: "نيتشيرن", type: "مدرسة"
-  - id: "sch-shingon", title: "شينگون", type: "مدرسة"
+- id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
+- id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+- id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
+- id: "sch-nichiren", title: "نيتشيرن", type: "مدرسة"
+- id: "sch-shingon", title: "شينگون", type: "مدرسة"
 gaps:
   - "نصوص Saichō (Hokke shūku fukki，Benkenmitsu nijūgo ryakushō) و Ennin و Genshin (Ōjō yōshū) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Tendai الأم في Mount Hiei و Tendai فرعية (Jimon vs Sanmon) يستحق بحثاً نقدياً."

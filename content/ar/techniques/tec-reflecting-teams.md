@@ -11,11 +11,12 @@ dates: "ترومسو · 1987"
 active_start: 1987
 active_end: "مستمر"
 language: "النرويجية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-milan-systemic", title: "مدرسة ميلان النظامية", type: "تقنية/تدخل علاجي"
-  - id: "tec-open-dialogue", title: "الحوار المفتوح في الرعاية النفسية والذهان", type: "تقنية/تدخل علاجي"
+- id: "tec-milan-systemic", title: "مدرسة ميلان النظامية", type: "تقنية/تدخل علاجي"
+- id: "tec-open-dialogue", title: "الحوار المفتوح في الرعاية النفسية والذهان", type: "تقنية/تدخل علاجي"
 gaps:
   - "ابتكار توم أندرسن (Tom Andersen) في كسر حاجز المرآة ذات الاتجاه الواحد (One-Way Mirror) والحديث التشاركي المفتوح."
   - "قواعد لغة التأمل: التواضع، استخدام لغة الاحتمال، والتحدث كشهود وليس كخبراء حاكمين."

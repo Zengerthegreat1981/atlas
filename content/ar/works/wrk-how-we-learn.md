@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2014
 active_end: 2014
 edges:
-  - rel: "belongs_to", target: "الصحافة العلمية وسيكولوجيا التعلم", target_type: "مدرسة"
-  - rel: "written_by", target: "بينيديكت كاري", target_type: "مفكر"
+- rel: "belongs_to", target: "الصحافة العلمية وسيكولوجيا التعلم", target_type: "مدرسة"
+- rel: "written_by", target: "thk-benedict-carey", target_type: "مفكر"
 related:
-  - id: "thk-benedict-carey", title: "بينيديكت كاري", type: "مفكر"
+- id: "thk-benedict-carey", title: "بينيديكت كاري", type: "مفكر"
+- id: "stu-bransford-johnson-context-memory", title: "دراسة برانسفورد وجونسون لأثر السياق والمعرفة المسبقة على الفهم (1972)", type: "دراسة وبحث"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

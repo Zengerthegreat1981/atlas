@@ -11,21 +11,25 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1986
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس النسوي التقاطعي", target_type: "تيار"
 related:
-  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
-  - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
+- id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
+- id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
+- id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "تيار"
+- id: "thk-kcrenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
+- id: "thk-mohanty", title: "تشاندرا موهانتاي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # باتريشا هيل كولينز
 
 عالمة اجتماع أمريكية، أستاذة في جامعة ماريلاند. من أهم منظّري **النسوية السوداء ونظرية «القمع المتقاطع»**، استكمالاً لوراثة من بيل هوكس.
 
-## ما أعطت
+## ما أعطته
 
 - **«Black Feminist Thought» (1990)**: منظومة «المعرفة القائمة على الخبرة» (Standpoint).
 - **«مصفوفة القمع» (Matrix of Domination)**: نموذج تحليلي للعرق، الطبقة، الجندر، الجنسية.

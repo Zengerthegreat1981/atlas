@@ -10,13 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1986
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ناتالي غولدبرغ"
 edges:
-  - rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
 related:
-  - id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
+- id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
+- id: "thk-iprogoff", title: "إيرا بروغوف", type: "مفكر"
+- id: "thk-jbrowne", title: "كاثلين براون", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثلين براون (thk-jbrowne)."
 ---
 
 # ناتالي غولدبرغ

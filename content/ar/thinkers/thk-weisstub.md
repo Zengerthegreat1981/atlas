@@ -11,11 +11,12 @@ country: "إسرائيل"
 language: "الإنجليزية / العبرية"
 active_start: 1990
 active_end: 2015
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس التحليلي اليونغي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس التحليلي اليونغي", target_type: "مدرسة"
 related:
-  - id: "thk-shalit", title: "إيريل شاليت", type: "مفكر"
-  - id: "thk-abramovitch", title: "هنري أبراموفيتش", type: "مفكر"
+- id: "thk-shalit", title: "إيريل شاليت", type: "مفكر"
+- id: "thk-abramovitch", title: "هنري أبراموفيتش", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق لم يُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

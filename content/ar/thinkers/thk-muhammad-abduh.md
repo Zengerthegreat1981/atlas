@@ -13,10 +13,13 @@ active_end: 1905
 country: "مصر الخديوية، المهجر"
 language: "العربية والفرنسية"
 edges:
-  - rel: "belongs_to", target: "الإصلاحية الإسلامية (النهضة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإصلاحية الإسلامية (النهضة)", target_type: "مدرسة"
 related:
-  - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
-  - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "ctx-arabic-nahda", title: "سياق عصر النهضة الفكرية والنفسية العربية وتحديث الفكر", type: "سياق/تقليد"
+- id: "thk-afghani", title: "جمال الدين الأفغاني", type: "مفكر"
+- id: "thk-tahtawi", title: "رفاعة الطهطاوي", type: "مفكر"
+- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
+- id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
 gaps:
   - "مدى تأثره بابن رشد موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'الإسلام والنصرانية'."

@@ -13,18 +13,21 @@ language: "الإنجليزية، اللاتينية، الفرنسية"
 active_start: 1680
 active_end: 1780
 edges:
-  - rel: "belongs_to", target: "التجريبية البريطانية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مظلة"
 related:
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-  - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
-  - id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
-  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
+- id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
+- id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
+- id: "met-cartesian-theater", title: "المسرح الكارتيزي: وهم المركز الموحد للوعي", type: "استعارة/مجاز مؤسِّس"
+
 gaps:
   - "نصوص لوك بالإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'An Essay Concerning Human Understanding'."
   - "التمييز بين 'اللوكية' (Lockeanism) و'اللوكية الجديدة' (Neo-Lockeanism) معقّد."
 ---
-
 # اللوكية (اللوكية التجريبية)
 
 تقليد فلسفي تأسّس على يد **جون لوك** (John Locke، 1632-1704)، فيلسوف إنجليزي ومُنظِّر سياسي، يُلقَّب بـ«**أبو الليبرالية**» (Pater Liberalismi) و«**أبو التجربة**» (Pater Experientiae) الحديثة. تُمثّل اللوكية نقطة التحوّل في **التجريبية البريطانية** من **الذرّية الأرسطية** (Atomismus Aristotelicus) إلى **الذرّية الذهنية** (Atomismus Mentalis) القائمة على **الأفكار** (Idea) و«**الأحاسيس**» (Sensus) و«**الانعكاس**» (Reflectio). أسّس **نظرية المعرفة** (Theoria Cognitionis) القائمة على **التجربة** (Experientia)، و«**نظرية**» (Theoria) «**الحكومة**» (Gubernatio) «**المدنية**» (Civilis) القائمة على «**العقد الاجتماعي**» (Contractus Socialis).

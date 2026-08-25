@@ -13,10 +13,11 @@ language: "العربية، الفرنسية، الإنجليزية"
 active_start: 1950
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
+- rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
 related:
-  - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
-  - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
+- id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "sch-political-islam", title: "الإسلام السياسي (كتيار فكري)", type: "مدرسة"
 gaps:
   - "التفريق بين «النقد التراثي» (الجابري) و«النقد الحداثي» (أركون) و«النقد السياسي» (عبد الوهاب المسيري) يحتاج تجميعاً."
   - "لا يوجد اقتباس مباشر موثوق متاح من «التراث والحداثة» لمحمد أركون."

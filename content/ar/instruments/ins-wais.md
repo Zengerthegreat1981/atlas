@@ -8,9 +8,14 @@ en: "Wechsler Adult Intelligence Scale (WAIS-IV)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس وكسلر لذكاء البالغين"
 active_start: 1955
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dbt-nature-vs-nurture-intelligence-personality", title: "جدل الطبيعة والتنشئة في الذكاء والشخصية", type: "جدل"
+- id: "ins-wasi-ii", title: "مقياس وكسلر المختصر للذكاء - الإصدار الثاني (WASI-II)", type: "أداة قياس"
 gaps:
   - "تطور النسخة الخامسة (WAIS-5) والتعديلات الرقمية الحديثة تتطلب متابعة مستمرة"
   - "الفروق المعيارية في تقنين النسخ العربية المعتمدة في مختلف الدول العربية تحتاج توثيقاً"

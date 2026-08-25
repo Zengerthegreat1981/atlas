@@ -10,10 +10,13 @@ crumb: "النسوية الفلسفية ← النظرية الكويرية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النظرية الكويرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-queer-theory", target_type: "مدرسة"
 related:
-  - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-  - id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
+- id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Sedgwick 1990, Butler 1990, Halperin 1995) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

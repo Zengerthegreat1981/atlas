@@ -8,9 +8,12 @@ en: "Drug Abuse Screening Test (DAST-20 / DAST-10)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار فرز تعاطي المخدرات DAST"
 active_start: 1982
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-cannabis-use", title: "اضطراب تعاطي القنب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "دقة النسخة الموجزة DAST-10 ونقاط القطع للتحويل الإكلينيكي التخصصي تحتاج توثيقاً"
   - "استثناء الكحول والتبغ من بنود DAST والاعتماد على أدوات مكملة يتطلب توضيحاً إجرائياً"

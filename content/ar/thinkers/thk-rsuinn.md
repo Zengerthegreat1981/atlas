@@ -11,15 +11,27 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1969
 active_end: 2000
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "علم نفس الأداء", target_type: "تيار"
 related:
-  - id: "thk-ogilvie", title: "بروس أوكيف", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "thk-ogilvie", title: "بروس أوكيف", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-andersericson", title: "أندرس إريكسون", type: "مفكر"
+- id: "thk-jim-loehr", title: "جيم لور", type: "مفكر"
+- id: "thk-marian-krcmar", title: "ماريان كركمار", type: "مفكر"
+- id: "thk-peter-clough", title: "بيتر كلاف", type: "مفكر"
+- id: "thk-rafaeli-eyth", title: "رافائيل إيدث", type: "مفكر"
+
 gaps:
   - "سنة الميلاد 1933 تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل مسيرته في Colorado State University تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أندرس إريكسون (thk-andersericson)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيم لور (thk-jim-loehr)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريان كركمار (thk-marian-krcmar)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بيتر كلاف (thk-peter-clough)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رافائيل إيدث (thk-rafaeli-eyth)."
 ---
 
 # ريتشارد سوين

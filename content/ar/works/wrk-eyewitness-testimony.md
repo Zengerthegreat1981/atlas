@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1979
 active_end: 1979
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا الذاكرة الجنائية", target_type: "مدرسة"
-  - rel: "written_by", target: "إليزابيث لوفتوس", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا الذاكرة الجنائية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-elizabeth-loftus", target_type: "مفكر"
 related:
-  - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
+- id: "con-misinformation-effect-loftus", title: "تأثير التضليل وقابلية الذاكرة للتعديل (Misinformation Effect)", type: "مفهوم"
+- id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

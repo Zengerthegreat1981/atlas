@@ -10,12 +10,14 @@ crumb: "التجريبية ← المفاهيم ← اللوح الفارغ"
 active_start: 1689
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "اللوكية (اللوكية التجريبية)", target_type: "مدرسة"
-  - rel: "formulated_by", target: "جون لوك", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-lockeanism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-locke", target_type: "مفكر"
 related:
-  - id: "thk-locke", title: "جون لوك", type: "مفكر"
-  - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-  - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "thk-locke", title: "جون لوك", type: "مفكر"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
+- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "سابقة أرسطية في 'De Anima' (τύπος) لم تُراجع بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Essay II.i.2' بعد."

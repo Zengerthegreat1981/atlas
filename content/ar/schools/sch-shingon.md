@@ -13,13 +13,13 @@ language: "اليابانية، الصينية الكلاسيكية، السنس
 active_start: 816
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فاجرايانا / البوذية التانترية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تنداي اليابانية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-vajrayana", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tendai-japan", target_type: "مدرسة"
 related:
-  - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-  - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
+- id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
 gaps:
   - "نصوص Kūkai (Jūjūshinron، Benkenmitsu nikyō ron، Sangō shīki) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Shingon الرئيسية وTōmitsu (Tōji-ha) و Buzan-ha يستحق بحثاً مستقلاً."

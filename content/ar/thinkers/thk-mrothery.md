@@ -11,8 +11,13 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1992
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الاجتماعي (Social Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+related:
+- id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"
+- id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
+- id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

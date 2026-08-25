@@ -11,11 +11,11 @@ active_start: 1991
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-chronic-fatigue", title: "متلازمة التعب المزمن", type: "متلازمة"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-chronic-fatigue", title: "متلازمة التعب المزمن", type: "متلازمة"
 gaps:
   - "أبحاث الأكاديمية الوطنية للطب (NAM) ودور التعرض للمبيدات الحشرية وحبوب البيريدوستيغمين وغاز السارين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

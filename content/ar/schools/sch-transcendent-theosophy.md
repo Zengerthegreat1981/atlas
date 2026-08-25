@@ -13,13 +13,14 @@ language: "العربية (مع الفارسية)"
 active_start: 1600
 active_end: 1700
 edges:
-  - rel: "belongs_to", target: "الفلسفة الإسلامية", target_type: "مظلة"
-  - rel: "belongs_to", target: "مدرسة أصفهان الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-isfahan", target_type: "مظلة"
 related:
-  - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-  - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
-  - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-  - id: "thk-fakhr-razi", title: "فخر الدين محمد بن عمر الرازي", type: "مفكر"
+- id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
+- id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
+- id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
+- id: "thk-fakhr-razi", title: "فخر الدين محمد بن عمر الرازي", type: "مفكر"
+- id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 gaps:
   - "تأثير ابن عربي على الملا صدرا (خصوصاً في نظرية الوحدة) لا يزال موضع خلاف بين الباحثين."
   - "لا يوجد اقتباس مباشر موثوق متاح من «الأسفار الأربعة»."

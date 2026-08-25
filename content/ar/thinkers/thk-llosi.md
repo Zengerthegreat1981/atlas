@@ -11,8 +11,11 @@ country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1995
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الأسري الميلاني (Milan Systemic)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري الميلاني (Milan Systemic)", target_type: "مدرسة"
+related:
+- id: "thk-mselvini", title: "مارا سيلفيني بالاتزولي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

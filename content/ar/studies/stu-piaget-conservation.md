@@ -8,9 +8,12 @@ en: "Piaget's Conservation Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب بياجيه على حفظ الكمية"
 active_start: 1941
 active_end: 1952
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي الأربع (Piaget)", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تجارب جيمس ماكغاريغل ودونالدسون (1974) باستخدام 'الدب المؤذي' أظهرت قدرة الأطفال على الحفظ في سن أبكر بكثير وتحتاج مقارنة نقدية"
   - "التأثيرات اللغوية لصياغة الأسئلة المزدوجة على استجابات الأطفال تتطلب توثيقاً من علم النفس التنموي المعاصر"

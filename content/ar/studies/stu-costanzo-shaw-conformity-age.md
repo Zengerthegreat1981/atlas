@@ -8,9 +8,11 @@ en: "Costanzo & Shaw Conformity Across Age Levels Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة كوستانزو وشو للامتثال العمري"
 active_start: 1966
 active_end: 1966
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "العوامل الهرمونية والعصبية التنموية لفرط حساسية المكافأة الاجتماعية في المراهقة لـ Laurence Steinberg تحتاج ربطاً"
   - "الفروق بين الجنسين في مسار الامتثال الاجتماعي تتطلب توثيقاً إحصائياً مقارناً"

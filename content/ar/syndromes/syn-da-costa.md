@@ -11,11 +11,12 @@ active_start: 1871
 active_end: 1945
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-effort-syndrome", title: "متلازمة الجهد الحربي والقلب العصبي الحاد (Lewis 1917)", type: "متلازمة"
 gaps:
   - "مراجعة ورقة جاكوب دا كوستا الأصلية عام 1871 خلال الحرب الأهلية الأمريكية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

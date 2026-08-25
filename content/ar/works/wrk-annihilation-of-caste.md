@@ -12,10 +12,13 @@ language: "الإنجليزية"
 active_start: 1936
 active_end: 1936
 edges:
-  - rel: "belongs_to", target: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
-  - id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
+- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
+- id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة *Annihilation of Caste* الأصلية (1936، Mulk Raj Mehta، لاهور) ولا طبعات لاحقة موثّقة."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

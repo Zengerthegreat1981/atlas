@@ -11,11 +11,15 @@ dates: "التسعينيات والألفية"
 active_start: 1995
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-liberation-psychology", title: "علم نفس التحرير", type: "تيار"
-  - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-liberation-psychology", title: "علم نفس التحرير", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "أعمال إدواردو دوران ومايكل يلو بيرد (Eduardo Duran & Michael Yellow Bird) ومفهوم 'جرح الروح' (Soul Wound) لدى الشعوب الأصلية (الأمريكيين الأصليين)."
   - "دمج ممارسات الشفاء التقليدية والطقوس الأرضية والاعتراف بالصدمة التاريخية والاستعمارية المستمرة."

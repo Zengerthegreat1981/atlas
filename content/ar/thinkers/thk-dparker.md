@@ -11,10 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: 2015
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الاجتماعي (Social Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+- id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"
+- id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
+- id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

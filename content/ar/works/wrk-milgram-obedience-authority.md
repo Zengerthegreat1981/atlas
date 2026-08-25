@@ -10,11 +10,16 @@ dates: "1974 · ستانلي ميلغرام"
 language: "الإنجليزية"
 active_start: 1974
 active_end: 1974
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ستانلي ميلغرام", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-stanley-milgram", target_type: "مفكر"
 related:
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "تفاصيل بروتوكول التجربة (1961-1963) ومستوياتها الـ20 من الفولت لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

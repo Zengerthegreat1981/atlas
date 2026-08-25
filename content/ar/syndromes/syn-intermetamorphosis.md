@@ -11,10 +11,10 @@ active_start: 1932
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "دراسات بول كوربون وجان ريفل (Courbon & Fail 1932) في صياغة المصطلح."
   - "لا يوجد اقتباس مباشر موثوق متاح."

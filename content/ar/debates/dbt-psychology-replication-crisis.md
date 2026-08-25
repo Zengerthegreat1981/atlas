@@ -8,11 +8,16 @@ en: "The Replication Crisis in Psychological Science"
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← أزمة تكرار النتائج في علم النفس"
 active_start: 2011
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "stu-milgram-obedience", title: "تجربة ميلغرام للطاعة والسلطة", type: "دراسة وبحث"
-  - id: "stu-stanford-prison", title: "تجربة سجن ستانفورد", type: "دراسة وبحث"
-  - id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي", type: "دراسة وبحث"
+- id: "stu-milgram-obedience", title: "تجربة ميلغرام للطاعة والسلطة", type: "دراسة وبحث"
+- id: "stu-stanford-prison", title: "تجربة سجن ستانفورد", type: "دراسة وبحث"
+- id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي", type: "دراسة وبحث"
+- id: "evt-open-science-collaboration-2015", title: "نشر تقرير مشروع إعادة الإنتاج في علم النفس وتأسيس حركة العلوم المفتوحة", type: "حدث تاريخي"
+- id: "evt-stapel-fraud-scandal-2011", title: "فضيحة تزوير البيانات الأكاديمية لدايدريك ستابل وتقرير لجنة ليفيلت", type: "حدث تاريخي"
+- id: "dbt-rdoc-critique", title: "نموذج RDoC كبديل عن DSM: نقد", type: "جدل"
 gaps:
   - "تأثير حركة العلوم المفتوحة (Open Science Framework) والتسجيل المسبق (Preregistration) على خفض معدلات النشر الزائف يحتاج توثيقاً إحصائياً"
   - "الجدل حول إعادة تكرار دراسات علم النفس العصبي والتصوير الدماغي (fMRI) يتطلب استعراضاً نقدياً مقارناً"

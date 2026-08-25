@@ -11,9 +11,11 @@ active_start: 1969
 active_end: 2010
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الأسري الاستراتيجي (MRI/Palo Alto)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
 related:
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تحول مسيرتها لاحقًا نحو العلاج التعاوني والسردي يستحق تغطية مفاهيمية أوسع."
@@ -29,4 +31,4 @@ gaps:
 
 ## أهم أعمالها
 
-العلاج الأسري المشترك (Conjoint Family Therapy, 1967) · العلاج الأسري: تاريخ حميم (Family Therapy: An Intimate History).
+أسس العلاج الأسري (Foundations of Family Therapy, 1981) · العلاج الأسري: تاريخ حميم (Family Therapy: An Intimate History).

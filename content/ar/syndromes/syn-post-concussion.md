@@ -11,10 +11,11 @@ active_start: 1960
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-dementia-pugilistica", title: "متلازمة خرف الملاكمين (اعتلال الدماغ الرضحي المزمن التاريخي)", type: "متلازمة"
 gaps:
   - "معايير ICD-11 لتشخيص F07.2 مقابل معايير DSM-5-TR المعرفية العصبية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,10 +11,10 @@ active_start: 2000
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-munchausen", title: "متلازمة مونخهاوزن", type: "متلازمة"
-  - id: "dis-factitious", title: "الاضطراب المفتعل", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-munchausen", title: "متلازمة مونخهاوزن", type: "متلازمة"
+- id: "dis-factitious", title: "الاضطراب المفتعل", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث مارك فيلدمان (Marc Feldman 2000) في علم النفس السيبراني والمجموعات الداعمة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

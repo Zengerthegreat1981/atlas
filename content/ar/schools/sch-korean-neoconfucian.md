@@ -14,11 +14,13 @@ active_start: 1350
 active_end: 1910
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية الجديدة (مظلة)", target_type: "مظلة"
-  - rel: "split_into", target: "سيلهاك", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مظلة"
+- rel: "split_into", target: "sch-silhak", target_type: "مدرسة"
 related:
-  - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
-  - id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
+- id: "sch-donghak", title: "دونغهاك / تشوندوغيو", type: "مدرسة"
+- id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
+- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
+- id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
 gaps:
   - "تفاصيل الصلة بين مدرسة يي (Yi) ومدرسة نَكيم (Nak) تحتاج إعادة تحقق."
   - "العلاقة بين 'الوَسُن' الكورية و 'Yangming' الصينية (Wang Yangming) محل نزاع."

@@ -13,9 +13,10 @@ active_end: 1274
 country: "سلاجقة الروم (قونية)"
 language: "العربية (مع الفارسية والتركية)"
 edges:
-  - rel: "belongs_to", target: "العرفان النظري (وحدة الوجود)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العرفان النظري (وحدة الوجود)", target_type: "مدرسة"
 related:
-  - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
 gaps:
   - "التمييز بين 'وحدة الوجود' عنده وعند ابن عربي موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'النفحات الإلهية'."

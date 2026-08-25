@@ -11,10 +11,10 @@ active_start: 1907
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-functional-neurological-symptom", title: "الاضطراب العصبي الوظيفي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-functional-neurological-symptom", title: "الاضطراب العصبي الوظيفي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أول وصف للمتلازمة بواسطة بيير ماري (Pierre Marie 1907) ودراسة مونراد-كرون (1941)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

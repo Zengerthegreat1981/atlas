@@ -14,11 +14,17 @@ active_start: 1872
 active_end: 1900
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "التشاؤمية الفلسفية", target_type: "مظلة"
-  - rel: "evolved_into", target: "الوجودية (كمظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-pessimism", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
 related:
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-eternal-return", title: "العودة الأبدية (Ewige Wiederkehr)", type: "مفهوم"
+- id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
+- id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«ريشارد فاغنر» (thk-wagner) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«لو أندرياس-سالوميه» (thk-lou-salome) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

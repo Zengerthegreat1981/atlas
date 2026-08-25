@@ -10,11 +10,18 @@ country: "النمسا، الولايات المتحدة"
 language: "الألمانية، الإنجليزية"
 active_start: 1923
 active_end: 1957
+part: "psychology"
+crumb: "الأطلس ← thinkers ← فيلهلم رايخ"
 edges:
-  - rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
+- rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
 related:
-  - id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-dboyden", title: "ديان بوييدن", type: "مفكر"
+- id: "thk-ekeleman", title: "ستانلي كِلمان", type: "مفكر"
+- id: "thk-dkirkland", title: "دانيال كيركلاند", type: "مفكر"
+- id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"
+- id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 gaps:
   - "النشاط المؤسسي المؤثر اقتصر على 1923–1957 قبل وفاته."
   - "لا يوجد اقتباس مباشر موثوق متاح."

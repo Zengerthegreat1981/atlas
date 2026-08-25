@@ -8,9 +8,13 @@ en: "Satisfaction with Life Scale (SWLS)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس الرضا عن الحياة لدينر"
 active_start: 1985
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-emmons", title: "روبرت إيمونز", type: "مفكر"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
+- id: "thk-emmons", title: "روبرت إيمونز", type: "مفكر"
+- id: "stu-harvard-adult-development", title: "دراسة هارفارد للنمو البالغ وتطور السعادة والعلاقات عبر العمر", type: "دراسة وبحث"
 gaps:
   - "الاستخدام في التقارير العالمية للسعادة ومؤشرات التنمية البشرية للأمم المتحدة يحتاج توثيقاً"
   - "تقنين النسخ العربية المعتمدة في البيئات الجامعية والمهنية يتطلب مراجعة سيكومترية"

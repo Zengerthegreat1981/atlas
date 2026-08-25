@@ -9,11 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرويديو
 dates: "أمريكا · 1944–"
 language: "الإنجليزية"
 country: "أمريكا"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-khorney", title: "كارين هُورْني", type: "مفكر"
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
+- id: "br-relational-psychoanalysis", title: "التحليل النفسي العلائقي الأمريكي", type: "تيار"
+- id: "thk-khorney", title: "كارين هُورْني", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "نقد مدرسة «العلاقات بالموضوع» لتشودورو وخصوصاً رده على سوزان إيدلستون في «إعادة إنتاج الأمومة» — تحتاج مراجعة من نص تأسيسي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

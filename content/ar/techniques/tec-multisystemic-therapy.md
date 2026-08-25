@@ -11,10 +11,13 @@ dates: "ساوث كارولينا · التسعينيات"
 active_start: 1996
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
+- id: "dis-conduct-disorder", title: "اضطراب السلوك (Conduct Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-parent-management-training", title: "تدريب إدارة السلوك للوالدين (PMT)", type: "تقنية/تدخل علاجي"
+- id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "النموذج البيئي-النسقي لسكوت هينغلر (Scott Henggeler) المعتمد على نظرية يوري برونفنبرينر البيئية."
   - "التدخل المجتمعي المكثف (24/7) في البيئة الطبيعية للمراهق (المنزل، المدرسة، الحي، ومجموعة الأقران)."

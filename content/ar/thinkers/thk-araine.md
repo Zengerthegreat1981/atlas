@@ -5,32 +5,38 @@ type: "مفكر"
 level: "متوسط"
 title: "أدريان راين"
 en: "Adrian Raine"
-crumb: "br-aggression-treatment ← البعد العصبي ← أدريان راين"
+crumb: "علاج العدوان ← البعد العصبي ← أدريان راين"
 dates: "بريطانيا/الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1982
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
+- rel: "belongs_to", target: "علاج العدوان", target_type: "تيار"
 related:
-  - id: "thk-krischer", title: "باري كريشر", type: "مفكر"
-  - id: "br-aggression-treatment", title: "علاج العدوان", type: "مفكر"
+- id: "br-aggression-treatment", title: "علاج العدوان", type: "تيار"
+- id: "thk-agoldstein", title: "أرنولد غولدشتاين", type: "مفكر"
+- id: "thk-jcgibbs", title: "جون سي. غيبز", type: "مفكر"
+- id: "thk-pfrick", title: "بول فريك", type: "مفكر"
+- id: "thk-krischer", title: "باري كريشر", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في USC وPenn لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باري كريشر (thk-krischer)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باري كريشر (thk-krischer)."
 ---
 
 # أدريان راين
 
-عالم نفس وعالم أعصاب، من أهم الباحثين في البُعد الحيوي-العصبي للسلوك المعادي للمجتمع. أظهر في أبحاثه كيف تنعكس التغيرات في القشرة الجبهية الأمامية، الفص الصدغي، والتركيبات تحت القشرية في إفراز السلوك العدواني.
+عالم نفس وعالم أعصاب، من أهم الباحثين في البُعد الحيوي-العصبي للسلوك المعادي للمجتمع. أظهر في أبحاثه كيف تنعكس التغيرات في القشرة الجبهية الأمامية، الفص الصدغي، والتركيبات تحت القشرية في ظهور السلوك العدواني.
 
 ## ما أعطاه
 
 - **نموذج "Neurocriminology"**: مقاربة للسلوك الإجرامي تستند إلى علم الأعصاب.
 - **"Psychophysiology of Aggression"**: أبحاث طويلة حول تخطيط القلب، استجابة الجلد الجلفانية، ووظائف الدماغ في السلوك العدواني.
 - **كتب مرجعية**: *The Anatomy of Violence* (2013)، *The Psychopathology of Crime* (1993).
-- **دراسات أثر الطفولة السيئة** على البنية الدماغية (مع A. Danese وC. M. Pariante).
+- **دراسات أثر سوء المعاملة في الطفولة** على البنية الدماغية.
 
 ## موقعه من التيار
 
@@ -39,7 +45,7 @@ gaps:
 ## أهم أعماله
 
 - *The Psychopathology of Crime* (1993).
-- *The Anatomy of Violence: From the Brain to the Ghetto* (2013).
+- *The Anatomy of Violence: The Biological Roots of Crime* (2013).
 - مقالات محورية في *Archives of General Psychiatry* و*Biological Psychiatry*.
 
 ## قيد

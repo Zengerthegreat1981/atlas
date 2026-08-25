@@ -6,14 +6,17 @@ level: "متقدم"
 title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)"
 en: "Life Attitude Profile - Revised (LAP-R)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس المواقف من الحياة LAP-R"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-reker", title: "غاري ريكر", type: "مفكر"
-  - id: "thk-wong", title: "بول وونغ", type: "مفكر"
-  - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-reker", title: "غاري ريكر", type: "مفكر"
+- id: "thk-wong", title: "بول وونغ", type: "مفكر"
+- id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
 gaps:
   - "الدليل الفني الرسمي لـ LAP-R يستحق مراجعة من المصدر الأولي للتأكد من البنية العاملية."
   - "الترجمة العربية المعتمدة للمقياس تحتاج توثيقاً."

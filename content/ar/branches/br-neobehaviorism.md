@@ -11,16 +11,19 @@ dates: "منتصف القرن العشرين"
 active_start: 1930
 active_end: 1970
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "مرحلة الوضعية المنطقية وتأثيرها على صياغة المفاهيم السلوكية الإجرائية."
   - "التحولات المنهجية التي أدت لظهور الموجة المعرفية الأولى في العلاج النفسي."
 ---
-
 # السلوكية الجديدة (النيوسلوكية)
 
 المرحلة التطورية الكبرى في علم النفس السلوكي التي امتدت من الثلاثينيات حتى الستينيات (شملت تولمان، هَل، سكينر، وغوثري)، متبنية الوضعية المنطقية والتعريفات الإجرائية الصارمة.

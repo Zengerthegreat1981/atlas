@@ -11,20 +11,20 @@ dates: "Masters & Johnson · 1960s-1970s"
 active_start: 1970
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-dt-tipp", title: "TIPP (استجابة الطوارئ للقلق الشديد)", type: "تقنية/تدخل علاجي"
-  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "TIPP (استجابة الطوارئ للقلق الشديد)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "النماذج المختلفة للعلاج الجنسي (Masters & Johnson, Kaplan, EFT-sexual, Narrative-sex) — التفاصيل التقنية والفروق لم تُقارَن جنباً إلى جنب."
   - "تدريب المعالجين الجنسيين (شهادة AASECT) ومعايير الكفاءة في السياقات العربية غير موجود في هذا المسودة."
   - "العلاج الجنسي للأقليات الجنسية (LGBTQ+) واختلاف البروتوكولات عن الأزواج المغايرين لم يُفصَّل."
   - "الفاعلية المقارنة بين العلاج الجنسي الفردي والعلاج الزوجي المشترك لم تُغطَّ."
 ---
-
 # العلاج الجنسي (Sex Therapy)
 
 حقل علاجي متخصّص نشأ في الستينيات والسبعينيات من أعمال William Masters و Virginia Johnson في Saint Louis، ويُعنى بمعالجة الاضطرابات الجنسية الوظيفية (الرغبة، الإثارة، النشوة، الألم) من خلال تقنيات سلوكية-معرفية قصيرة الأمد، غالباً ما تكون مزدوجة (مع الشريك) وأحياناً فردية. يختلف عن الطب الجنسي في أنه يتعامل مع المكونات النفسية والسلوكية للاضطراب، وليس فقط الأسباب العضوية.

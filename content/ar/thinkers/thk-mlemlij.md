@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← مويسيس �
 dates: "بيرو · [غير مؤكد]"
 country: "بيرو"
 language: "الإسبانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
-  - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,11 +29,11 @@ gaps:
 
 ## ما أعطاه
 
-في «Freud, Jung y la Astrología» (1980s) أجرى «تحليلية للفلك» — كيف تتشكّل «الأركيتيب» في رموز الفلك (الكواكب، البروج، الدوران). كذلك في «La Política de la Imagen» (1990s) أجرى «تحليلية لصورة بوليفار» في الوعي البيروفي. كذلك ألقى محاضرات في IAAP.
+في «Freud, Jung y la Astrología» (الثمانينيات من القرن العشرين) أجرى «تحليلية للفلك» — كيف تتشكّل «الأركيتيب» في رموز الفلك (الكواكب، البروج، الدوران). كذلك في «La Política de la Imagen» (التسعينيات من القرن العشرين) أجرى «تحليلية لصورة بوليفار» في الوعي البيروفي. كذلك ألقى محاضرات في IAAP.
 
 ## موقعه من التيار
 
-«المؤسِّس الحقيقي» للتحليلية البيروفية (قبل APPA، 1990s).
+«المؤسِّس الحقيقي» للتحليلية البيروفية (قبل APPA، التسعينيات من القرن العشرين).
 
 ## قيد
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Freud, Jung y la Astrología (1980s) · La Política de la Imagen (1990s).
+Freud, Jung y la Astrología (الثمانينيات من القرن العشرين) · La Política de la Imagen (التسعينيات من القرن العشرين).

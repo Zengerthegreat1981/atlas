@@ -13,12 +13,14 @@ language: "اليونانية الأيونية"
 active_start: -535
 active_end: -475
 edges:
-  - rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
-  - rel: "evolved_into", target: "الأكاديمية الأفلاطونية", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-academy-platonic", target_type: "مظلة"
 related:
-  - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-  - id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
-  - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
+- id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
+- id: "con-logos-heraclitus", title: "اللوغوس الكوني عند هيراقليطس (Heraclitean Logos)", type: "مفهوم"
 gaps:
   - "النص الأصلي وصلنا في شذرات (نحو 130 شذرة حسب Diels-Kranz)، كثير منها قابل لتأويلات متضاربة."
   - "لا اقتباس مباشر موثّق بنسبة 100% — الأقدمى قراءاته تأتي من أفلاطون وأرسطو."

@@ -13,13 +13,13 @@ language: "الفارسية، الأردو، العربية"
 active_start: 1610
 active_end: 1850
 edges:
-  - rel: "belongs_to", target: "التصوف الفلسفي", target_type: "مظلة"
-  - rel: "belongs_to", target: "السلفية الكلامية الحديثة", target_type: "مظلة"
+- rel: "belongs_to", target: "br-irfan-shuhudi-sirhindi", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-salafism-modern", target_type: "مظلة"
 related:
-  - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
-  - id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
-  - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
-  - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 gaps:
   - "العلاقة بين وحدة الشهود ووحدة الوجود: هل هي تيار مختلف تاريخياً أم تيار واحد اختلف تعبيره؟"
   - "لا يوجد اقتباس مباشر موثوق متاح من «الحجة البالغة» لشاه ولي الله الدهلوي."

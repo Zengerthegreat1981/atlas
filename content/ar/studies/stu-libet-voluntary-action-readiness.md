@@ -8,9 +8,11 @@ en: "Libet's Voluntary Action Readiness Potential Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب ليبيت حول الفعل الإرادي"
 active_start: 1983
 active_end: 1985
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "تكرار جون ديلان هاينز (John-Dylan Haynes, 2008) باستخدام الرنين المغناطيسي الوظيفي وتنبؤ القرار قبل ثوانٍ يحتاج توثيقاً"
   - "نقد دانيال دينيت (Daniel Dennett) لافتراض التوقيت النقطي للوعي (المسرح الديكارتي) يتطلب مراجعة فلسفية معرفية"

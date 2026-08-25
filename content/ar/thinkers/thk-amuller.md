@@ -9,11 +9,18 @@ crumb: "علم النفس الفردي ← الناس ← الكلاسيكيون
 dates: "سويسرا · 1895–1968"
 country: "سويسرا"
 language: "الألمانية"
+part: "psychology"
+active_start: null
+active_end: 1968
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "thk-sicher", title: "ليديا سيشر", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-sicher", title: "ليديا سيشر", type: "مفكر"
+- id: "thk-kets", title: "مَنفرِد كِتس دي فريس", type: "مفكر"
+- id: "thk-lazarsfeld", title: "صوفي لازارسفيلد", type: "مفكر"
+- id: "thk-soltz", title: "فيكي سولْتز", type: "مفكر"
+- id: "thk-sperber", title: "مَنِس سپِربر", type: "مفكر"
 gaps:
   - "تفاصيل سنواته المبكرة في برن (1920s) قبل انتقاله إلى زيورخ شحيحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

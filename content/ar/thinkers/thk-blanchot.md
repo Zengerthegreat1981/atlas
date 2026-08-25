@@ -11,14 +11,15 @@ active_start: 1955
 active_end: 1980
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "thk-bataille", title: "جورج باتاي", type: "مفكر"
+- id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-bataille", title: "جورج باتاي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوم 'عزلة العمل الأدبي' وفينومينولوجيا الموت المستحيل والحياد تحتاج توثيقاً."
@@ -42,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-فضاء الأدب (L'Espace littéraire, 1955) · كتاب القادم (Le Livre à venir, 1959) · حوار غير متكافئ (L'Entretien infini, 1969) · كتابة الكارثة (L'Écriture du désastre, 1980).
+فضاء الأدب (L'Espace littéraire, 1955) · الكتاب الآتي (Le Livre à venir, 1959) · الحوار اللانهائي (L'Entretien infini, 1969) · كتابة الكارثة (L'Écriture du désastre, 1980).

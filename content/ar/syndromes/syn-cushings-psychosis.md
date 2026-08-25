@@ -11,10 +11,10 @@ active_start: 1932
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "ملاحظات هارفي كوشينغ الأصلية (Harvey Cushing 1932) حول الاضطرابات العقلية لفرط الكورتيزول."
   - "لا يوجد اقتباس مباشر موثوق متاح."

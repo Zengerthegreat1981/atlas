@@ -8,9 +8,12 @@ en: "Raven's Progressive Matrices (RPM / SPM / APM)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مصفوفات رافن التتابعية"
 active_start: 1938
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تأثير 'تأثير فلين' (Flynn Effect) والارتفاع التاريخي في درجات رافن عبر الأجيال يحتاج مراجعة سيكومترية"
   - "الفروق بين النسخة الملونة (CPM) للأطفال والنسخة المتقدمة (APM) للعباقرة تتطلب توثيقاً مقارناً"

@@ -9,16 +9,25 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ستيفن م�
 dates: "أمريكا · 1946–2000"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2000
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "dbt-psychodynamic-vs-cbt-effectiveness", title: "العلاج النفسي الديناميكي مقابل العلاج المعرفي السلوكي: مقارنة الفعالية", type: "جدل"
+- id: "dbt-relational-vs-individual-therapy", title: "جِدَل الْعِلَاج الْعَلَائِقِيّ ضِد الْفَرْدِيّ: الْآخَر فِي الْغُرْفَة", type: "جدل"
+- id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
+- id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه التأسيسي 'المفاهيم العلائقية في التحليل النفسي' (1988) ومصفوفة العلاقات تستحق إدراجاً في الأعمال."
+  - "دُمج معه الملف المكرَّر thk-smitchell (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # ستيفن ميتشل

@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ماريون فورغاتش"
 edges:
-  - rel: "belongs_to", target: "ABFT (العلاج الأسري المرتكز على التعلق)", target_type: "مدرسة"
+- rel: "belongs_to", target: "ABFT (العلاج الأسري المرتكز على التعلق)", target_type: "مدرسة"
 related:
-  - id: "thk-gdiamond", title: "غي دايموند", type: "مفكر"
+- id: "thk-gdiamond", title: "غي دايموند", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

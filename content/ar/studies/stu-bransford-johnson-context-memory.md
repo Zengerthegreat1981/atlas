@@ -9,10 +9,11 @@ en: "Bransford & Johnson Contextual Prerequisites for Understanding Study"
 crumb: "علم النفس المعرفي ومعالجة المعلومات ← الدراسات والأبحاث ← دراسة برانسفورد وجونسون للسياق"
 active_start: 1972
 active_end: 1972
-edges: []
+edges:
+  []
 related:
-  - id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي", type: "مفهوم"
-  - id: "wrk-how-we-learn", title: "كيف نتعلم", type: "عمل / كتاب"
+- id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي", type: "مفهوم"
+- id: "wrk-how-we-learn", title: "كيف نتعلم", type: "عمل / كتاب"
 gaps:
   - "نص 'غسيل الملابس' الغامض وتجربة بالون السيريناد البصري."
   - "لا يوجد اقتباس مباشر موثوق متاح."

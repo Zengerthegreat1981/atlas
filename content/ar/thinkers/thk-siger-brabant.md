@@ -13,10 +13,10 @@ active_end: 1284
 country: "إقطاعيات برابانت، فرنسا"
 language: "اللاتينية"
 edges:
-  - rel: "belongs_to", target: "الرشدية اللاتينية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الرشدية اللاتينية", target_type: "مدرسة"
 related:
-  - id: "sch-latin-averroism", title: "الرشدية اللاتينية", type: "مدرسة"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-latin-averroism", title: "الرشدية اللاتينية", type: "مدرسة"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 gaps:
   - "لا يزال هناك جدل حول نهاية حياته (هل قُتل أم فرّ إلى إيطاليا؟)."
   - "لا يوجد اقتباس مباشر موثوق من 'De Anima Intellectiva'."

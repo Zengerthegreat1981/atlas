@@ -11,8 +11,11 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1959
 active_end: 2002
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
+related:
+- id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "تفاصيل الفترة في تشيلي تحت أليندي لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

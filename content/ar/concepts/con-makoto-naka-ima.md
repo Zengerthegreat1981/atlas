@@ -8,10 +8,16 @@ en: "Makoto / Naka-Ima"
 crumb: "أطر غير غربية ← المفاهيم ← ماكوتو/ناكا-إيما"
 active_start: 1972
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Constructive Living (اليابان/كندا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "Constructive Living (اليابان/كندا)", target_type: "مدرسة"
 related:
-  - id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
+- id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "con-tabula-rasa", title: "اللوح الفارغ (Tabula Rasa)", type: "مفهوم"
 gaps:
   - "مؤسس الحركة الرئيسي (David K Reynolds) لم يُكتب له ملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

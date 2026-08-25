@@ -9,13 +9,19 @@ crumb: "السلوكية (Behaviorism) ← الناس ← والتَر ميشي�
 dates: "أمريكا (أصل نمساوي) · 1930–2018"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2018
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "thk-jrotter", title: "جوليان ب. روتّر", type: "مفكر"
+- id: "axm-delayed-gratification", title: "بديهية تأجيل الإشباع", type: "بديهية/مبدأ تأسيسي"
+- id: "stu-mischel-marshmallow-test", title: "تجربة المارشميلو وتأجيل الإشباع لوالتر ميشيل", type: "دراسة وبحث"
+- id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "thk-jrotter", title: "جوليان ب. روتّر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # والتَر ميشيل
@@ -24,7 +30,7 @@ gaps:
 
 ## ما أعطاه
 
-أشهر تجربة في علم النفس الاجتماعي المُعاصر: «Marshmallow Test» (1960s، Stanford) — أطفال يَختارون بين «ملعقة حلوى واحدة فوراً» أو «ملعقتين بعد 15 دقيقة». الأطفال الذين انتظروا أظهروا لاحقاً نجاحات حياتية أكثر. هذا الاكتشاف أدَّى إلى «استراتيجية الإرادة» (Willpower Strategy).
+أشهر تجربة في علم النفس الاجتماعي المُعاصر: «Marshmallow Test» (الستينيات من القرن العشرين، Stanford) — أطفال يَختارون بين «ملعقة حلوى واحدة فوراً» أو «ملعقتين بعد 15 دقيقة». الأطفال الذين انتظروا أظهروا لاحقاً نجاحات حياتية أكثر. هذا الاكتشاف أدَّى إلى «استراتيجية الإرادة» (Willpower Strategy).
 
 في 1995، مع Y. Shoda، صاغ «نظام المعالجة المعرفي–الانفعالي» (Cognitive-Affective Processing System، CAPS) — نَموذج مَعرفي–شَخصي يَحلُّ الشخصية عبر «وحدة السلوك–الوضع» (if…then…). CAPS يُؤكِّد أنَّ الشخصية ليست «سِمات ثابتة» (situation-independent) بل «سُلوكيات مَشروطة بالوضع» (situationally contingent).
 
@@ -34,8 +40,8 @@ gaps:
 
 ## قيد
 
-تَوفِّي 2018.
+تُوفِّي 2018.
 
 ## أهم أعماله
 
-«الشخصية والتقييم» (Personality and Assessment، 1968) · «مقدمة في الشخصية» (Introduction to Personality، 1971) · Marshmallow Test (1970s) · CAPS (1995).
+«الشخصية والتقييم» (Personality and Assessment، 1968) · «مقدمة في الشخصية» (Introduction to Personality، 1971) · Marshmallow Test (السبعينيات من القرن العشرين) · CAPS (1995).

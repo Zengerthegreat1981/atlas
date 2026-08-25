@@ -14,10 +14,15 @@ active_start: -350
 active_end: -100
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "thk-zou-yan", title: "زو يان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "نصوص Zou Yan الأصلية لم تصلنا، وما نعرفه عنه عبر اقتباسات متأخرة."
   - "التمييز بين 'مدرسة الين-يانغ' الفلسفية و'الخيمياء الكونية' التي استهلكت لاحقاً رموزها لم يُحلّ في هذه المسودة."

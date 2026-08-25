@@ -6,12 +6,17 @@ level: "متوسط"
 title: "ابن سينا وكتاب النفس"
 en: "Avicenna and Kitab al-Nafs"
 crumb: "المدرسة الوجودية ← السياقات ← ابن سينا وكتاب النفس"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
 gaps:
   - "النص الأصلي لكتاب النفس من الشفاء لم يُراجع مباشرة بعد ضمن مصادر هذا المشروع تحديداً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ابن سينا وكتاب النفس

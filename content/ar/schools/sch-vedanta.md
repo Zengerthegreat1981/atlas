@@ -13,17 +13,18 @@ language: "السنسكريتية"
 active_start: 0
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الفلسفة الأوبانيشادية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-upanishadic", target_type: "مدرسة"
 related:
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
-  - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-bhedabheda", title: "بيدابيدا", type: "مدرسة"
-  - id: "sch-shuddhadvaita", title: "شودهادفايتا", type: "مدرسة"
-  - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-  - id: "con-atman", title: "آتْمان (النفس الفردية / الذات الحقيقية)", type: "مفهوم"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "sch-bhedabheda", title: "بيدابيدا", type: "مدرسة"
+- id: "sch-shuddhadvaita", title: "شودهادفايتا", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "con-atman", title: "آتْمان (النفس الفردية / الذات الحقيقية)", type: "مفهوم"
 gaps:
   - "نصوص Brahma Sūtra (لاباراسارا) وBrahma Sūtra Bhāṣya تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فيدانتا (Vedānta)

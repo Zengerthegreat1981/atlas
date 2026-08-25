@@ -9,11 +9,14 @@ crumb: "علم النفس الفردي ← الناس ← التربوي الع�
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
-  - id: "thk-edferguson", title: "إيفا درايكرز فيرغوسون", type: "مفكر"
+- id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
+- id: "thk-edferguson", title: "إيفا درايكرز فيرغوسون", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -25,7 +28,7 @@ gaps:
 
 ## ما أعطته
 
-اشتغلت مع راف ليف (Ralf Levy) في صياغة «نموذج الاحتياجات الأربعة» (4-C / 4 Needs Model) في علم النفس الأدلري: القدرة (Count)، الانتماء (Connect)، الكفاءة (Capable)، والشجاعة (Courage). كل طفل يحتاج هذه الاحتياجات الأربعة كي ينمو صحياً، و«السلوك الخاطئ» هو إشارة إلى خلل في أحدها. كتبت «القوة الإبداعية» (The Creative Force) و«تربية الأطفال المهتمين» (Raising Children Who Care, 1995، مع Amy Lew).
+اشتغلت مع إيمي ليو (Amy Lew) في صياغة «نموذج الحاجات الأربع» (The Four Crucial Cs) في علم النفس الأدلري: الارتباط (Connect)، والكفاءة (Capable)، وأن يكون للمرء اعتبار (Count)، والشجاعة (Courage). كل طفل يحتاج هذه الاحتياجات الأربعة كي ينمو صحياً، و«السلوك الخاطئ» هو إشارة إلى خلل في أحدها. كتبت «القوة الإبداعية» (The Creative Force) و«تربية الأطفال المهتمين» (Raising Children Who Care, 1995، مع Amy Lew).
 
 ## موقعها من التيار
 
@@ -37,4 +40,4 @@ gaps:
 
 ## أهم أعمالها
 
-«تربية الأطفال المهتمين» (Raising Children Who Care, 1995) · «القوة الإبداعية» (The Creative Force) · «أطفال من الصباح» (Kids Who Care, 1990s).
+«تربية الأطفال المهتمين» (Raising Children Who Care, 1995) · «القوة الإبداعية» (The Creative Force) · «أطفال يهتمّون» (Kids Who Care, التسعينيات من القرن العشرين).

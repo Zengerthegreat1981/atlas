@@ -11,14 +11,15 @@ active_start: 1949
 active_end: 1999
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-snygg", title: "دونالد سنيغ", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-snygg", title: "دونالد سنيغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تطبيقاته لعلم النفس الإدراكي الفينومينولوجي في التربية والتعليم الإنساني تستحق توثيقاً."
@@ -42,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-السلوك الفردي: مقاربة إدراكية للسلوك (Individual Behavior, 1949/1959) · مساعدة العلاقات: المبادئ الأساسية للعلاج والتعليم (Helping Relationships, 1971) · كينونة المعلم (Being and Becoming, 1999).
+السلوك الفردي: مقاربة إدراكية للسلوك (Individual Behavior, 1949/1959) · العلاقات المُعِينة: مبادئ أساسية للعلاج والتعليم (Helping Relationships, 1971) · أن تكون وأن تصير: مقاربة حقلية لعلم النفس (Being and Becoming, 1999).

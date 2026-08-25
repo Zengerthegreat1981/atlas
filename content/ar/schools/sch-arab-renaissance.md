@@ -13,13 +13,14 @@ language: "العربية"
 active_start: 1860
 active_end: 1940
 edges:
-  - rel: "evolved_into", target: "الفكر الإسلامي النقدي المعاصر", target_type: "مظلة"
-  - rel: "belongs_to", target: "الإصلاحية الإسلامية (النهضة)", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-islamic-critical-thought", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-reform", target_type: "مظلة"
 related:
-  - id: "thk-alam", title: "محمود أمين العالم", type: "مفكر"
-  - id: "thk-badawi", title: "عبد الرحمن بدوي", type: "مفكر"
-  - id: "thk-tarabishi", title: "جورج طرابيشي", type: "مفكر"
-  - id: "thk-zmahmoud", title: "زكي نجيب محمود", type: "مفكر"
+- id: "thk-alam", title: "محمود أمين العالم", type: "مفكر"
+- id: "thk-badawi", title: "عبد الرحمن بدوي", type: "مفكر"
+- id: "thk-tarabishi", title: "جورج طرابيشي", type: "مفكر"
+- id: "thk-zmahmoud", title: "زكي نجيب محمود", type: "مفكر"
+- id: "thk-afghani", title: "جمال الدين الأفغاني", type: "مفكر"
 gaps:
   - "كتب خليل ساعيني وجبرا إبراهيم جبرا لم تُراجع في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,15 +8,18 @@ en: "Crystal L. Park"
 crumb: "المدرسة الوجودية ← الناس ← كريستال بارك"
 dates: "أمريكا · معاصرة"
 active_start: 2010
-active_end: 2013
+active_end: "مستمر"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "stu-meaning-making-model-park", title: "نموذج صنع المعنى (Meaning Making Model)", type: "دراسة وبحث"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "نموذجها الشامل لصنع المعنى (Meaning Making Model) يستحق إدراجاً في الدراسات والبحوث."

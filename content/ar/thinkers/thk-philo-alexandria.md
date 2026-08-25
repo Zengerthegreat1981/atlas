@@ -14,12 +14,13 @@ active_source: "lifespan"
 country: "الإسكندرية (مصر البطلمية/الرومانية)"
 language: "اليونانية"
 edges:
-  - rel: "belongs_to", target: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", target_type: "مدرسة"
 related:
-  - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 gaps:
   - "تواريخ الميلاد والوفاة غير مؤكدة بالضبط، ومُستنبطة من شهادة إيوسابيوس القيصري."
   - "لا يوجد اقتباس مباشر موثوق من نص فيلون نفسه متاح بعد."
+  - "دُمج معه الملف المكرَّر thk-philo-judaeus (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # فيلون الإسكندري (Philo of Alexandria)

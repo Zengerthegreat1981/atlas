@@ -14,12 +14,14 @@ active_start: -50000
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
-  - id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
-  - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "con-dreamtime", title: "زمن الأحلام (Dreamtime / Tjukurrpa)", type: "مفهوم"
 gaps:
   - "النصوص الأصلية للسكان الأصليين الأستراليين (شفهية) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)

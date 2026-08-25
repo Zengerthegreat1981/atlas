@@ -9,12 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ماري-لو�
 dates: "سويسرا · 1915–1998"
 country: "سويسرا"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 1998
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "br-archetypal", title: "علم النفس الأركيتايبي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "دراساتها في التفسير السيكولوجي للحكايات الخرافية (Fairy Tales) والتزامن والزمن تستحق توثيقاً."

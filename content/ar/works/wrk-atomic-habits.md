@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2018
 active_end: 2018
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا العادات", target_type: "مدرسة"
-  - rel: "written_by", target: "جيمس كلير", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا العادات", target_type: "مدرسة"
+- rel: "written_by", target: "thk-james-clear", target_type: "مفكر"
 related:
-  - id: "thk-james-clear", title: "جيمس كلير", type: "مفكر"
+- id: "thk-james-clear", title: "جيمس كلير", type: "مفكر"
+- id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

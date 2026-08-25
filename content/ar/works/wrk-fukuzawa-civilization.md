@@ -12,13 +12,16 @@ language: "اليابانية"
 active_start: 1875
 active_end: 1875
 edges:
-  - rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
 related:
-  - id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
+- id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«الليبرالية اليابانية الحديثة» (sch-japanese-liberalism-modern) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ طبعة 1875 الأصلية (Keio Gijuku، طوكيو) ولا الترجمات الإنجليزية الكاملة (Modern Reader, 2008)."
-
 ---
 
 # مخطط نظرية الحضارة (An Outline of a Theory of Civilization, 1875)

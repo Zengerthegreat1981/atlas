@@ -1,0 +1,46 @@
+---
+slug: "trm-archetype"
+id: "TRM-0106"
+type: "مصطلح لغوي متنازع عليه"
+part: "psychology"
+level: "متوسط"
+title: "النَّموذج الأَوَّلي (Archetype): الصُّورَة المَورُوثة"
+en: "Archetype: The Inherited Image of the Collective Unconscious"
+crumb: "علم النفس التحليلي اليونغي ← المصطلحات ← النموذج الأولى"
+active_start: 1919
+active_end: "مستمر"
+edges:
+- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
+gaps:
+  - "رابط مقترح لم يتحقق بعد في الأطلس: ماري-لويزه فون فرانتس (thk-von-franz)"
+  - "رابط مقترح لم يتحقق بعد في الأطلس: اللاوعي الجمعي (con-collective-unconscious)"
+- "التمييز بين النموذج الأولى (Archetype) في يونغ والصورة البدئية في البنيوية (Lévi-Strauss) يحتاج فصلاً."
+- "لا يوجد اقتباس مباشر موثوق متاح."
+- "الفرق بين النموذج الأولى (Archetype) والمخطط (Schema) في علم النفس المعرفي يحتاج توثيقاً."
+- "العلاقة بالأخلاق التطورية (Evolutionary Ethics) في نظرية Axelrod تحتاج فصلاً."
+---
+# النَّموذج الأَوَّلي (Archetype): الصُّورَة المَورُوثة
+
+مَصْطَلَح يُونغي أَساسِي صاغه كارل يونغ في *Instinct and the Unconscious* (1919) ثُمَّ طَوَّرَه في *The Archetypes and the Collective Unconscious* (1959، *CW 9i*): «**نَمَط**» (Pattern) «**مَعْرَفيّ-عَاطفيّ**» (Cognitive-Affective) «**مَوْرُوث**» (Inherited) مِن «**اللَّاوَعْي الجَمْعِيّ**» (Collective Unconscious) يَتحَدَّد «**تَجْرِبَة**» (Experience) و«**سُلوك**» (Behavior) بَشَرِيّ.
+
+## المَفْهُوم
+
+(1) **الـ Archetype** (Urbild): «**صُورَة أَصْلِيَّة**» (Original Image) — «**قَالِب**» (Template) «**رَمْزيّ**» (Symbolic) فِي «**اللاَّوَعْي**». (2) **تَظَاهُر** (Manifestation): يَظْهَر فِي «**أَحْلام**» (Dreams)، «**أَسَاطِير**» (Myths)، «**فَنّ**» (Art)، «**إِبْداع**» (Creation)، «**أَدْيان**» (Religions). (3) **مَوْرُوث** (Inherited): لَا «**مُكتَسَب**» (Acquired) مَع «**التَّجْرِبَة الفَرْدِيَّة**»، بَل «**تَطَوُّرِيّ**» (Evolutionary). (4) **مُتَشَابِه** (Universal): يَظْهَر فِي «**كُلّ**» الثَّقَافَات، «**كُلّ**» الزَّمَان.
+
+## الأنْواع
+
+(1) **الأنا** (Self): «**مَرْكَز**» (Center) «**النَّفْس**» (Psyche) «**الكُلِّيَّة**» (Totality). (2) **الظلّ** (Shadow): «**جَانِب**» (Side) «**مَظْلِم**» (Dark) مِن «**الشَّخْصِيَّة**» (Personality) — «**مَكْبُوت**» (Repressed). (3) **الأَنِيما** (Anima): «**جَانِب نِسَائِيّ**» (Feminine) فِي «**رَجُل**». (4) **الأَنِيمُوس** (Animus): «**جَانِب رَجَالِيّ**» (Masculine) فِي «**امْرَأَة**». (5) **الأُمّ** (The Mother): «**نَمَط**» (Pattern) «**رَمْزِيّ**» (Symbolic) يَشْمَل «**أُمّ**»، «**إِلَهَة**»، «**أَرْض**». (6) **الحَكِيم** (The Wise Old Man): «**مُعَلِّم**» (Teacher)، «**مُوجِّه**» (Guide). (7) **الطِّفْل الإِلَهِيّ** (The Divine Child): «**إمْكان**» (Potential) «**مُسْتَقْبَلِيّ**» (Future). (8) **البَطَل** (The Hero): «**رِحْلَة**» (Journey) «**تَحَوُّل**» (Transformation).
+
+## في العِلاج
+
+(1) **التَّفَرُّد** (Individuation): تَكَامُل «**نَمَاذِج أَوَّلِيَّة**» (Archetypes) — «**الذَّات**» (Self) «**تَتَكامَل**» (Integrates) مَع «**الظلّ**»، «**الأَنِيما/الأَنِيمُوس**». (2) **تَفْسِير أَحْلام** (Dream Interpretation): «**رَمْز**» (Symbols) «**نَمَاذِج أَوَّلِيَّة**» — «**تَفْسِير**» (Interpretation) «**مَوْجُه**» (Directed) لِـ**تَفَرُّد**. (3) **التَّحَالُف العِلاجِيّ** (Therapeutic Alliance): «**المُعَالِج**» «**حَكِيم**» (Wise Old Man) أَو «**أُمّ**» (Mother) فِي «**تَجْرِبَة**» (Experience) «**مَريض**».
+
+## النَّقْد
+
+(1) **نَقْد عِلميّ** (Eysenck، 1952): «**نَمَاذِج أَوَّلِيَّة**» «**غَيْر قَابِلَة لِلتَّجْرِبَة**» (Unfalsifiable). (2) **نَقْد ثَقافي** (Tylor، 1871): «**تَشَابُه ثَقافي**» (Cultural Similarity) «**مُسْتَقِلّ**» عَن «**مَوْرُوث بَيُولُوجِيّ**» (Biological Inheritance). (3) **نَقْد نَسوي** (Estes، 1992): «**نَمَاذِج أَوَّلِيَّة**» «**ذَكَوْرِيَّة**» (Masculine)، «**الأَنِيما/الأَنِيمُوس**» «**تَنْظِيم ثَنَائِيّ**» (Binary Organization) «**مُتَحَيِّز**».

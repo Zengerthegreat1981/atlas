@@ -13,10 +13,11 @@ language: "العربية"
 active_start: 740
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
+- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
-  - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
-  - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "sch-ibadi-kalam", title: "الكلام الإباضي", type: "مدرسة"
+- id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
+- id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 gaps:
   - "المواقف الأولى لزيد بن علي (ت 122 هـ) في مسائل الإمامة العقدية تحتاج توثيقاً أوّلياً."
   - "لا يوجد اقتباس مباشر موثوق متاح من «الأزهار» للهادي إلى الحق أو «شرح الأزهار» لابن مفلح."

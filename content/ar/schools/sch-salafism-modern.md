@@ -13,11 +13,12 @@ language: "العربية"
 active_start: 1925
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
+- rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
 related:
-  - id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"
-  - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
-  - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
+- id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"
+- id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
+- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
+- id: "sch-political-islam", title: "الإسلام السياسي (كتيار فكري)", type: "مدرسة"
 gaps:
   - "التفريق بين «السلفية العلمية» (الألباني) و«السلفية الجهادية» (القاعدة) و«السلفية الحركية» (الإخوان) يحتاج تدقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح من «تفسير ابن كثير» (المعاد طباعته) أو من كتب محمد بن عبد الوهاب."

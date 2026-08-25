@@ -11,13 +11,14 @@ active_start: 1932
 active_end: 1964
 country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أطروحته المبكرة حول فينومينولوجيا هايدجر والماركسية (Heideggerian Marxism, 1928) وكتاب 'الإنسان ذو البعد الواحد' تستحق توثيقاً."

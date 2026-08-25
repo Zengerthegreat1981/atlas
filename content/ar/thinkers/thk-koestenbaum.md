@@ -11,13 +11,16 @@ active_start: 1971
 active_end: 2002
 country: "أمريكا / ألمانيا"
 language: "الإنجليزية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "tec-leadership-diamond-koestenbaum", title: "الألماسة القيادية الوجودية (The Leadership Diamond)", type: "تقنية/تدخل علاجي"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نموذج 'الألماسة القيادية والوجودية' (The Leadership Diamond) يستحق توثيقاً في تطبيقات الفلسفة الوجودية."
@@ -41,4 +44,4 @@ gaps:
 
 ## أهم أعماله
 
-الوجودية الحيوية (Existential Sexuality, 1974) · فلسفة الإرشاد والعلاج النفسي (The Vitality of Death, 1971) · العقل القيادي (Leadership: The Inner Side of Greatness, 1991/2002).
+الجنسانية الوجودية (Existential Sexuality, 1974) · حيوية الموت (The Vitality of Death, 1971) · العقل القيادي (Leadership: The Inner Side of Greatness, 1991/2002).

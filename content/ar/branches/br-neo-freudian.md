@@ -11,17 +11,18 @@ dates: "نيويورك وواشنطن · ثلاثينيات وأربعينيات
 active_start: 1935
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "كارين هورني", target_type: "مفكر"
-  - rel: "developed_by", target: "إريك فروم", target_type: "مفكر"
-  - rel: "developed_by", target: "هاري ستاك سوليفان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "كارين هورني", target_type: "مفكر"
+- rel: "developed_by", target: "thk-fromm", target_type: "مفكر"
+- rel: "developed_by", target: "thk-sullivan", target_type: "مفكر"
 related:
-  - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
-  - id: "thk-cthompson", title: "كلارا طومسون", type: "مفكر"
-  - id: "thk-fromm-reichmann", title: "فريدا فروم-رايخمان", type: "مفكر"
+- id: "thk-khorney", title: "كارين هورني", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+- id: "thk-cthompson", title: "كلارا طومسون", type: "مفكر"
+- id: "thk-fromm-reichmann", title: "فريدا فروم-رايخمان", type: "مفكر"
 gaps:
   - "دور معهد وايت (William Alanson White Institute) بنيويورك كمركز مؤسسي للفرويدية الجديدة والتحليل البيني-الشخصي."
   - "التقاطع بين الفرويدية الاجتماعية (فروم وهورني) والوجودية الإنسانية في قضايا الاغتراب والحرية."

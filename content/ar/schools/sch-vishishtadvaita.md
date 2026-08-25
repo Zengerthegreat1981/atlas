@@ -13,13 +13,15 @@ language: "السنسكريتية، التاميلية"
 active_start: 1000
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فيدانتا", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "thk-ramanuja", title: "رامانوجا (فيشيشتادفايتا)", type: "مفكر"
 gaps:
   - "نصوص رامانوجا (Śrī Bhāṣya, Vedārtha Saṅgraha) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فيشيشتادفايتا (Viśiṣṭādvaita)

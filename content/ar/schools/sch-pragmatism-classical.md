@@ -13,13 +13,14 @@ language: "الإنجليزية"
 active_start: 1870
 active_end: 1930
 edges:
-  - rel: "evolved_into", target: "البراغماتية الجديدة (Neopragmatism)", target_type: "مدرسة"
-  - rel: "belongs_to", target: "المثالية الأمريكية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-neopragmatism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-american-idealism", target_type: "مظلة"
 related:
-  - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-  - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
-  - id: "sch-hegel-right", title: "الهيغلية اليمينية", type: "مدرسة"
+- id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-dewey", title: "جون ديوي", type: "مفكر"
+- id: "sch-hegel-right", title: "الهيغلية اليمينية", type: "مدرسة"
+- id: "thk-fc-schiller", title: "ف. س. س. شيلر", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«جورج هربرت ميد» (thk-mead) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جوزياه رويس» (thk-royce) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

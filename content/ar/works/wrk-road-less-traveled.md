@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1978
 active_end: 1978
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والروحي", target_type: "مدرسة"
-  - rel: "written_by", target: "م. سكوت بيك", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والروحي", target_type: "مدرسة"
+- rel: "written_by", target: "thk-scott-peck", target_type: "مفكر"
 related:
-  - id: "thk-scott-peck", title: "م. سكوت بيك", type: "مفكر"
+- id: "thk-scott-peck", title: "م. سكوت بيك", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

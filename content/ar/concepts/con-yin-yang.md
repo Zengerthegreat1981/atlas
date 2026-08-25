@@ -10,11 +10,13 @@ crumb: "الفلسفة ← الصين ← مدرسة الين-يانغ (الطب
 active_start: -700
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة الين-يانغ (الطبيعيون)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-yinyang", target_type: "مدرسة"
 related:
-  - id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
-  - id: "thk-zou-yan", title: "زو يان", type: "مفكر"
-  - id: "con-wuxing", title: "الدورات الخمس (五行)", type: "مفهوم"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
+- id: "thk-zou-yan", title: "زو يان", type: "مفكر"
+- id: "con-wuxing", title: "الدورات الخمس (五行)", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين 'الين-يانغ' في 'Zhou Yi' (كتاب التحولات) وفي 'Liji' وفي مدرسة الين-يانغ لم يُحلّ."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

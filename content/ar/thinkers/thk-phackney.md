@@ -11,8 +11,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Body-Mind Centering", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+related:
+- id: "thk-bbcohen", title: "بوني بينبريدج كوهن", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

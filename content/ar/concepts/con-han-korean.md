@@ -8,14 +8,19 @@ en: "Han (한)"
 crumb: "أطر غير غربية ← المفاهيم ← هان"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الكوري", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الكوري", target_type: "مدرسة"
 related:
-  - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"
-  - id: "dis-hwabyung", title: "الهوابيونغ", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-hwabyung", title: "الهوابيونغ", type: "اضطراب/حالة إكلينيكية"
+- id: "con-hwabyung-concept", title: "الهوابيونغ (مفهوم ثقافي)", type: "مفهوم"
+- id: "con-jeong-korean", title: "جونغ (Jeong، 정)", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النظريات الأدبية لـHan في الأدب الكوري (Park Hwa-seong) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيم كوان-سونغ (thk-kimkwansung)."
 ---
 
 # هان (Han، 한)

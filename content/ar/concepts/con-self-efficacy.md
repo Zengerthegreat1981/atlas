@@ -8,12 +8,15 @@ en: "Self-Efficacy"
 crumb: "المعرفية السلوكية ← المفاهيم ← الكفاءة الذاتية"
 active_start: 1977
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "con-triadic-reciprocal-determinism", title: "الحتمية التبادلية الثلاثية", type: "مفهوم"
-  - id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "con-triadic-reciprocal-determinism", title: "الحتمية التبادلية الثلاثية", type: "مفهوم"
+- id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التمييز بين Self-Efficacy و Self-Esteem و Locus of Control — يحتاج توثيقاً دقيقاً."

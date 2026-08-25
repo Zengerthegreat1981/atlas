@@ -13,10 +13,14 @@ active_start: -284
 active_end: -259
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "مدرسة الأسماء (المنطقيون)", target_type: "مدرسة"
-  - rel: "authored_by", target: "غونغسون لونغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-mingjia", target_type: "مدرسة"
+- rel: "authored_by", target: "غونغسون لونغ", target_type: "مفكر"
 related:
-  - id: "sch-mingjia", title: "مدرسة الأسماء (المنطقيون)", type: "مدرسة"
+- id: "sch-mingjia", title: "مدرسة الأسماء (المنطقيون)", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«غونغسون لونغ» (thk-gongsun-long) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أصالة الفصول الست المنسوبة لغونغسون لونغ في 'Gongsun Longzi' موضع خلاف."

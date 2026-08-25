@@ -8,22 +8,23 @@ en: "Somatic Therapy and Existentialism: Merleau-Ponty as Phenomenological Bridg
 crumb: "الجسدية/الجسمانية ← العلاقات ← الجسدية/الجسمانية والوجودية"
 active_start: 1945
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
-  - rel: "relates_to", target: "الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
-  - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
-  - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
 gaps:
   - "موقف رايش من هايدجر / سارتر (هل قرأهما؟) — لا توثيق مباشر متاح."
   - "دور 'Embodied Cognition' (Varela، Thompson، Rosch 1991) في تقنين ميرلوبونتي لم يُحلّل هنا."
   - "لا يوجد اقتباس مباشر موثوق متاح من ميرلوبونتي عن رايش."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
-
 # الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي
 
 قصة فلسفية بحتة: **ميرلوبونتي** (1908-1961) أعاد تأصيل مفهوم **الجسد المُعاش** (Lived Body) في الفلسفة الوجودية، فأعطى **الجسدية** أساساً فلسفياً غير متاح لها في السابق (رايخ كانت "تجريبية" بلا فلسفة كافية). بعد ميرلوبونتي، ظهرت موجة من **الجسدية الفلسفية** استلهمت ظاهراتية الجسد.

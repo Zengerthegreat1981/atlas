@@ -1,0 +1,40 @@
+---
+slug: "crt-critique-of-emotionally-focused"
+id: "CRT-0081"
+type: "نقد خارجي موثَّق"
+part: "psychology"
+level: "متقدم"
+title: "نقد الْعِلَاج بِالْمَشَاعِر (EFT) لِلْأَزْوَاج: «اِرْتِبَاط» أَمْ «اِعْتِمَادِيَّة»؟"
+en: "Critique of Emotionally Focused Couple Therapy: 'Attachment' or 'Dependency'?"
+crumb: "نقد ← الْعِلَاج بِالْمَشَاعِر (EFT)"
+active_start: 2015
+active_end: "مستمر"
+edges:
+- rel: "relates_to", target: "sch-eft-couples", target_type: "مدرسة"
+related:
+- id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
+- id: "crt-feminist-critique-psychoanalysis", title: "نقد نسوي للتحليل النفسي", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-couples-therapy", title: "نقد العلاج الزوجي", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
+gaps:
+- "لم تُراجع من نسخة أصلية مباشرة بعد (Erskine, 2012; Markman, 2014)."
+- "لا يوجد اقتباس مباشر موثوق متاح."
+---
+# نقد الْعِلَاج بِالْمَشَاعِر (EFT) لِلْأَزْوَاج: «اِرْتِبَاط» أَمْ «اِعْتِمَادِيَّة»؟
+
+## الْحُجَّة النَّقْدِيَّة
+
+يَرَى نُقَّاد (مثل: Markman, 2014) أَنَّ EFT (Johnson) «**يَخْلِط**» (Conflates) «**اِرْتِبَاط**» (Attachment) وَ«**اِعْتِمَادِيَّة**» (Dependency) — يَفْتَرِض أَنَّ «**اِرْتِبَاط آمِن**» (Secure Attachment) «**يَجِب**» (Must) يَكُون «**الْهَدَف**» (Goal) الْأَزْوَاج، لَكِن «**اِسْتِقْلَال**» (Independence) «**مُهِمّ**» (Important) أَيْضًا. يَقُولُون: تَشْجِيع «**اِعْتِمَاد**» (Dependency) عَلَى الزَّوْج قَد «**يُضْرّ**» (Harm).
+
+## أَدِلَّة النَّقْد
+
+(1) **«**خَلْط الْمَفَاهِيم**» (Conceptual Conflation)**: «**اِرْتِبَاط**» (Attachment) «**لَا**» (Not) «**اِعْتِمَاد**» (Dependency) — «**اِسْتِقْلَال**» (Independence) «**مُهِمّ**» (Important) لِـ**تَطَوُّر الْفَرْد. (2) **«**تَشْجِيع اِرْتِبَاط مُفْرِط**» (Over-Attachment)**: EFT قَد «**يَشَجِّع**» (Encourages) «**تَعَلُّق**» (Clinging) لَا «**تَوَازُن**» (Balance). (3) **«**إِسَاءَة تَفْسِير**» (Misinterpretation) لِـ**Bowlby**: نَظَرِيَّة الاِرْتِبَاط «**أَكْثَر**» (More) دِقَّة.
+
+## الرَّدّ مِن مُمَارِسِي EFT
+
+(1) **«**اِرْتِبَاط آمِن ≠ اِعْتِمَاد**»**: Johnson (2019) «**تَشَرَح**» (Clarifies) أَنَّ اِرْتِبَاط آمِن «**لَا**» (Not) «**اِعْتِمَاد**» (Dependency) — بَل «**قُدْرَة**» (Capacity) عَلَى «**اِتِّصَال**» (Connection) «**مُسْتَقِلّ**» (Independent). (2) **اِسْتِقْلَال + اِرْتِبَاط** (Both)**: EFT «**لَا**» (Not) «**تُعَارِض**» (Oppose) «**اِسْتِقْلَال**» (Independence) — بَل «**تُدْعَم**» (Support) ثُنَائِيَّة الْاِرْتِبَاط-الِاِسْتِقْلَال.
+
+## أَهمِّيَّة
+
+النَّقْد «**مُهِمّ**» (Important) لِـ**«**تَوَازُن**» (Balance) بَين «**اِتِّصَال**» وَ«**اِسْتِقْلَال**»، لَكِنَّ «**رَفْض**» (Rejection) EFT «**لَا**» (Not) مُبَرِّر.

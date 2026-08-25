@@ -11,12 +11,15 @@ country: "أمريكا"
 language: "الإنجليزية"
 active_start: 1977
 active_end: 2015
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
-  - rel: "belongs_to", target: "مدرسة Bion", target_type: "تيار"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة Bion", target_type: "تيار"
 related:
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "تيار"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "مفهوم البُعدية (Dimensionality) لم يُراجع بعد من مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

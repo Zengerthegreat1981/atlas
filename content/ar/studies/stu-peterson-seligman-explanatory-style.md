@@ -8,9 +8,12 @@ en: "Peterson & Seligman Explanatory Style and Reformulated Helplessness Studies
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات بيترسون وسليجمان للأسلوب التفسيري"
 active_start: 1978
 active_end: 1984
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"
+- id: "con-learned-helplessness", title: "العجز المتعلم (Learned Helplessness)", type: "مفهوم"
+- id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"
 gaps:
   - "تطوير استبيان أسلوب الإسناد (ASQ) ومقاييس التفاؤل المكتسب يحتاج تفصيلاً سيكومترياً"
   - "التطبيقات في التنبؤ بالأداء الأكاديمي والرياضي والمبيعات تتطلب استعراضاً تطبيقياً"

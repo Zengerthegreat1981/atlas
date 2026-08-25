@@ -13,10 +13,12 @@ language: "السنسكريتية"
 active_start: 400
 active_end: 1800
 edges:
-  - rel: "belongs_to", target: "التقاليد التانترية", target_type: "مظلة"
+- rel: "belongs_to", target: "التقاليد التانترية", target_type: "مظلة"
 related:
-  - id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية", type: "مدرسة"
-  - id: "sch-shaiva-siddhanta", title: "شايفا سيدهانتا", type: "مدرسة"
+- id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو (البوذية التبتية)", type: "مدرسة"
+- id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية", type: "مدرسة"
+- id: "sch-shaiva-siddhanta", title: "شايفا سيدهانتا", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«فاجرايانا» (sch-buddhism-vajrayana) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Vāmakeśvara Tantra وKālikā Purāṇa تحتاج مراجعة من المصدر الأولي."

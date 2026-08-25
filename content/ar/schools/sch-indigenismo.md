@@ -13,13 +13,14 @@ language: "الإسبانية"
 active_start: 1920
 active_end: 1970
 edges:
-  - rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
-  - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
-  - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
-  - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
+- id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
+- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
 gaps:
   - "نصوص José Carlos Mariátegui, Manuel Gamio, Gilberto Freyre, Vasconcelos (La Raza Cósmica) need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإنديجينيزمو (Indigenismo)

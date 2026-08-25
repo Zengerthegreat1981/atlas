@@ -8,9 +8,11 @@ en: "Woodcock-Johnson Tests of Cognitive Abilities (WJ IV)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← بطارية وودكوك-جونسون الإدراكية"
 active_start: 1977
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "مقارنة نموذج التناقض بين القدرة والتحصيل في تشخيص صعوبات التعلم بالنماذج الحديثة للاستجابة للتدخل (RTI)"
   - "حجم انتشار وتقنين البطارية في العالم العربي يتطلب فحصاً ميدانياً"

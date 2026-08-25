@@ -9,12 +9,16 @@ crumb: "العلاج بالقبول والالتزام (ACT) ← الذات كس
 active_start: 1986
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-  - id: "tec-act-sac-noticing-who-is-noticing", title: "ملاحظة 'مين اللي بيلاحظ'", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-sac-the-sky-and-weather-metaphor", title: "استعارة السماء والطقس", type: "تقنية/تدخل علاجي"
-  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-functional-neurological-symptom", title: "اضطراب الأعراض العصبية الوظيفية (التحويل)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-act-sac-noticing-who-is-noticing", title: "ملاحظة 'مين اللي بيلاحظ'", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-the-sky-and-weather-metaphor", title: "استعارة السماء والطقس", type: "تقنية/تدخل علاجي"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

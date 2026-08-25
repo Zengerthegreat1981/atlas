@@ -9,14 +9,20 @@ crumb: "العلاج بالقبول والالتزام (ACT) ← الوعي با
 active_start: 1986
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-  - id: "tec-act-pres-observing-the-present", title: "ملاحظة الحاضر", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-pres-noticing-without-judgment", title: "الملاحظة دون حكم", type: "تقنية/تدخل علاجي"
-  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-  - id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-observing-the-present", title: "ملاحظة الحاضر", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-noticing-without-judgment", title: "الملاحظة دون حكم", type: "تقنية/تدخل علاجي"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
+- id: "dis-cannabis-use", title: "اضطراب استخدام الحشيش", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-hallucinogen-use", title: "اضطراب استخدام المُهلوسات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-opioid-use", title: "اضطراب استخدام الأفيونات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-sedative-use", title: "اضطراب استخدام المهدئات / المنومات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-stimulant-use", title: "اضطراب استخدام المنشطات", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

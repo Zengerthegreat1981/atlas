@@ -11,13 +11,14 @@ active_start: 1958
 active_end: 1974
 country: "كولومبيا"
 language: "الإسبانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "بيان حركة 'العدمية النادائية' (Nadaísmo) في كولومبيا (1958) يستحق إدراجاً في التيارات الأدبية."

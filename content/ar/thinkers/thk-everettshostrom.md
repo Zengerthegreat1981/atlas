@@ -11,11 +11,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1963
 active_end: 1992
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
 related:
-  - id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
-  - id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -28,9 +29,9 @@ gaps:
 ## ما أعطاه
 
 - تطوير **استبيان «الاتجاه الشخصي» (Personal Orientation Inventory - POI)**، وهو من أكثر أدوات قياس النمو الشخصي استخداماً في علم النفس الإنساني.
-- تأليف كتاب *Man, the Manipulator* (1967)، وهو نقد نفسي وفلسفي لـ**«الشخصية المتلاعب بها»** (Manipulator) في مقابل «الشخصية المُحقِّقة».
+- تأليف *Man, the Manipulator* (1967): نقد نفسي وفلسفي لنمط **«المتلاعِب»** (Manipulator) — من يعامل نفسه والآخرين أشياءً تُدار — في مقابل **«المُحقِّق لذاته»** (Actualizer) الذي يتصرّف عن ذاته لا عن دور.
 - تطوير **مفهوم «اللا-تلاعب»** (Anti-Manipulation) كأسلوب علاجي قائم بذاته.
-- مساهمات في **تدريب المعالجين** على فلسفة تحقيق الذات.
+- إخراج فيلم **«ثلاث مقاربات في العلاج النفسي»** (1965) — «أفلام غلوريا»: جلسة واحدة للعميلة نفسها مع كارل روجرز وفريتز بيرلز وألبرت إليس بالتتابع. صار أكثر المواد التعليمية مشاهدةً في تاريخ تدريب المعالجين، وأتاح لأول مرة مقارنة المدارس على مادة واحدة.
 
 ## موقعه من التيار
 
@@ -39,7 +40,11 @@ gaps:
 ## أهم أعماله
 
 - *Man, the Manipulator: The Inner Journey from Manipulation to Actualization* (1967).
-- *Actualizing Therapy: Foundations for a Scientific Ethic* (1975).
+- *Actualizing Therapy: Foundations for a Scientific Ethic* (1976).
+
+## قيد
+
+مقياس POI الذي بنى عليه شهرته تعرّض لنقد سيكومتري متواصل: بنيته العاملية لم تُثبَت بشكل متّسق، وسهولة تزييف الاستجابة فيه عالية، ومقياس «تحقيق الذات» نفسه يفترض تعريفاً قيمياً للصحة النفسية لا تعريفاً وصفياً — وهو النقد الذي لاحق أدوات علم النفس الإنساني كلّها.
 
 ## اقتباسات مختارة
 

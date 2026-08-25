@@ -14,11 +14,11 @@ language: "الإنجليزية / الفرنسية / العربية"
 active_start: 2001
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي واللايقين وفلسفة المخاطر", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي واللايقين وفلسفة المخاطر", target_type: "مدرسة"
 related:
-  - id: "wrk-black-swan", title: "البجعة السوداء", type: "عمل / كتاب"
-  - id: "wrk-antifragile", title: "ضد الهشاشة", type: "عمل / كتاب"
-  - id: "con-antifragility", title: "ضد الهشاشة", type: "مفهوم"
+- id: "wrk-black-swan", title: "البجعة السوداء", type: "عمل / كتاب"
+- id: "wrk-antifragile", title: "ضد الهشاشة", type: "عمل / كتاب"
+- id: "con-antifragility", title: "ضد الهشاشة", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

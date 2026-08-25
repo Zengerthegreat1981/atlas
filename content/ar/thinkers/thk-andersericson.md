@@ -5,20 +5,23 @@ type: "مفكر"
 level: "متقدم"
 title: "أندرس إريكسون"
 en: "Anders Ericsson"
-crumb: "br-performance-psychology (علم نفس الأداء) ← تطوير ← أندرس إريكسون"
+crumb: "علم نفس الأداء ← تطوير ← أندرس إريكسون"
 dates: "السويد/الولايات المتحدة · 1947–2020"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: 2020
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-performance-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس الأداء", target_type: "مدرسة"
 related:
-  - id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
-  - id: "br-sport-psychology", title: "علم نفس الرياضة", type: "تيار"
+- id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
+- id: "br-sport-psychology", title: "علم نفس الرياضة", type: "تيار"
+- id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "هوية الملف: الـslug `thk-andersericson` يشير إلى Anders Ericsson. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # أندرس إريكسون
@@ -28,7 +31,7 @@ gaps:
 ## ما أعطاه
 
 - تأسيس **نظرية «الممارسة المتعمّدة»** التي تشرح كيف يصل الأفراد إلى مستوى الخبير (Expert Level).
-- تطوير **«قاعدة العشر سنوات / 10,000 ساعة»** التي اشتُهرت من خلال كتابات أخرى (كتاب Gladwell *Outliers*).
+- أبحاث «قاعدة العشر سنوات» التي حُوِّلت لاحقاً — على غير مراده — إلى «قاعدة 10,000 ساعة» في كتاب Gladwell *Outliers*، وقد رفض إريكسون هذه الصياغة صراحةً.
 - أبحاث عن **«الذاكرة العاملة»** وعلاقتها بالخبرة، خصوصاً مع الخبراء في الشطرنج والموسيقى.
 - مساهمات في **علم نفس الرياضة** عبر دراسات عن الخبرة في الرياضيين الأولمبيين.
 
@@ -38,7 +41,8 @@ gaps:
 
 ## أهم أعماله
 
-- *The Cambridge Handbook of Expertise and Expert Performance* (2006، مع تشيل ونوفي، محررون).
+- *The Cambridge Handbook of Expertise and Expert Performance* (2006، بالاشتراك في التحرير مع تشارنس وفلتوفيتش وهوفمان).
+- *Peak: Secrets from the New Science of Expertise* (2016، مع روبرت بول).
 - أبحاث منشورة في *Psychological Review* و*Current Directions in Psychological Science*.
 
 ## اقتباسات مختارة

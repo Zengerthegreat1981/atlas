@@ -8,8 +8,15 @@ en: "Meltzoff & Moore Neonatal Facial Imitation Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات ميلتزوف ومور لتقليد حديثي الولادة"
 active_start: 1977
 active_end: 1983
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التحليلات التلوية لـ Janine Oostenbroek et al. (2016) التي شككت في وجود تقليد وجهي عام بخلاف مد اللسان تحتاج مراجعة نقدية"
   - "الصلة بنظام الخلايا العصبية المرآتية (Mirror Neurons) لـ Rizzolatti تتطلب ربطاً بعلم الأعصاب التطوري"

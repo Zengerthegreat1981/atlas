@@ -8,18 +8,20 @@ en: "Marxist/Class Critique of Psychology: Psychology as Social Control"
 crumb: "النقد الخارجي ← النقد الماركسي ← النقد الماركسي/الطبقي لعلم النفس"
 active_start: 1968
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
-  - rel: "relates_to", target: "علم النفس الإيجابي", target_type: "مدرسة"
-related:  - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
-  - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
-  - id: "dbt-individualism", title: "الفردانية والعمى عن السلطة", type: "جدل"
-  - id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير", type: "عمل"gaps:
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
+related:
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "dbt-individualism", title: "الفردانية والعمى عن السلطة", type: "جدل"
+- id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير", type: "عمل / كتاب"related:
+- id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
+gaps:
   - "تفاصيل 'Community Psychology' كنموذج ماركسي-أمريكي — لا مراجعة."
   - "موقف فوكو (1975، *Discipline and Punish*) من علم النفس الماركسي — لا اقتباس مباشر."
   - "لا اقتباس مباشر موثوق متاح من Skinner ردّ على النقد الماركسي."
 ---
-
 # النقد الماركسي/الطبقي لعلم النفس: علم نفس السيطرة الاجتماعية
 
 نقد من خارج علم النفس السائد، يطعن في افتراض أن علم النفس علم **محايد**، بل إنه **أيديولوجيا** تُعيد إنتاج النظام الطبقي (الرأسمالي). النتيجة: CBT، علم النفس الإيجابي، والطب النفسي **أدوات للسيطرة** على العمال والفقراء.

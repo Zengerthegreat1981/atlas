@@ -13,10 +13,13 @@ language: "الهندية، المراثية، الإنجليزية"
 active_start: 1916
 active_end: 1956
 edges:
-  - rel: "evolved_from", target: "البوذية", target_type: "مدرسة"
+- rel: "evolved_from", target: "البوذية", target_type: "مدرسة"
 related:
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "con-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "مفهوم"
+- id: "wrk-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "عمل / كتاب"
+- id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"
 gaps:
   - "رابط مقترح لـ«نقد الطبقة في الهند» (sch-caste-india) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Ambedkar (Annihilation of Caste, Buddha and His Dhamma, Constitution of India) need review."

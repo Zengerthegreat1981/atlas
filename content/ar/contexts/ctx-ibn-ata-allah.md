@@ -12,20 +12,17 @@ active_end: 1310
 country: "مصر / المغرب (الإمبراطورية المملوكية)"
 language: "العربية"
 edges:
-  - rel: "relates_to", target: "ctx-arabic-self", target_type: "سياق/تقليد"
-  - rel: "relates_to", target: "ctx-ghazali", target_type: "سياق/تقليد"
+- rel: "relates_to", target: "ctx-arabic-self", target_type: "سياق/تقليد"
+- rel: "relates_to", target: "ctx-ghazali", target_type: "سياق/تقليد"
 related:
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
-  - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "الربط مع علم النفس الإيجابي (Seligman) يستحق مقارنة منهجية، لكنها خارج نطاق هذا الملف التمهيدي."
   - "التمييز بين التصوف النظري (ابن عربي) والتصوف السلوكي (ابن عطاء الله، الغزالي) يحتاج ملفاً مستقلاً."
   - "لا توجد اقتباسات مباشرة موثّقة من الحكم العطائية في هذا الملف."
   - "هذا السياق يعتمد على 'ctx-arabic-self' و'ctx-ghazali' كجذور، ولم يُضف بعد روابط صريحة في الـrelated لتجنّب التكرار الشبكي — الربط عبر الـedges كافٍ."
-
-## أفكار روابط لم تُتحقق
-
 - **thk-ibnataallah** (ابن عطاء الله السكندري): شخصية محورية لهذا السياق، يجب توفير ملف مفكر مستقل لها.
 - **con-trust-in-god-tawakkul** (التوكل): مفهوم إسلامي-صوفي مركزي.
 - **con-detachment-zuhd** (الزهد): مفهوم محوري للتصوف السلوكي.

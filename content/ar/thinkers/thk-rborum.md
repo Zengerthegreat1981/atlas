@@ -5,20 +5,22 @@ type: "مفكر"
 level: "متوسط"
 title: "راندي بوروم"
 en: "Randy Borum"
-crumb: "br-therapeutic-risk-assessment ← تطوير الأدوات ← راندي بوروم"
+crumb: "تقييم المخاطر العلاجي ← تطوير الأدوات ← راندي بوروم"
 dates: "الولايات المتحدة · القرن العشرين–الواحد والعشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1996
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
+- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
 related:
-  - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
-  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "مفكر"
+- id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
+- id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
 ---
 
 # راندي بوروم

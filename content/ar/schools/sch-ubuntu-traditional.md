@@ -14,10 +14,12 @@ active_start: 1700
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
-  - id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
-  - id: "sch-ifa", title: "تقاليد اليوروبا الفلسفية (Ifá)", type: "مدرسة"
+- id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
+- id: "sch-ifa", title: "تقاليد اليوروبا الفلسفية (Ifá)", type: "مدرسة"
+- id: "thk-ashutte", title: "أوغسطين شَتّ", type: "مفكر"
+- id: "sch-dogon", title: "فلسفة الدوجون (مالي)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«تقاليد اليوروبا» (sch-yoruba) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص ومنابع البانتو الأصلية تحتاج مراجعة من المصدر الأولي."

@@ -11,12 +11,13 @@ active_start: 2002
 active_end: 2008
 country: "النمسا"
 language: "الألمانية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره التأسيسي لجامعة سيغموند فرويد الخاصة (SFU) بفيينا وتأصيل علوم العلاج النفسي يستحق توثيقاً."

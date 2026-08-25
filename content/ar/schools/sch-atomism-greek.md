@@ -13,13 +13,17 @@ language: "اليونانية"
 active_start: -460
 active_end: -270
 edges:
-  - rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
-  - rel: "superseded_by", target: "الأبيقورية", target_type: "مدرسة"
-  - rel: "superseded_by", target: "المشائية / الأرسطية", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-epicureanism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
-  - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-  - id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
-  - id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
+- id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
+- id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
+- id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
+- id: "con-no-miracle-argument", title: "حجة المعجزة (No-Miracle Argument)", type: "مفهوم"
+- id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"
+- id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"
 gaps:
   - "لا نعرف عن لوكيبوس إلا القليل جداً — حتى وجوده كشخص تاريخي كان موضع تشكيك."
   - "أعمال ديمقريطس الكثيرة (كتب 70 عملاً حسب التقليد) فُقدت بالكامل؛ معلوماتنا تأتي من شذرات وروايات."

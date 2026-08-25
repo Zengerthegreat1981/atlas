@@ -8,9 +8,11 @@ en: "Liebowitz Social Anxiety Scale (LSAS / LSAS-SR)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس ليبوفيتز للقلق الاجتماعي"
 active_start: 1987
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التقنين والتحقق السيكومتري للنسخة العربية من مقياس LSAS ونقاط القطع المعيارية تحتاج توثيقاً"
   - "التمايز بين الخوف من التفاعل الاجتماعي المتبادل والخوف من الأداء العام أمام الجمهور يتطلب تفصيلاً عاملياً"

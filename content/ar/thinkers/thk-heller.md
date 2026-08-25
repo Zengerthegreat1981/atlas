@@ -4,23 +4,24 @@ id: "THK-0449"
 type: "مفكر"
 level: "متقدم"
 title: "أغنيس هيلر"
-en: "Agnès Heller"
+en: "Ágnes Heller"
 crumb: "المدرسة الوجودية ← الناس ← أغنيس هيلر"
 dates: "المجر / أمريكا · 1929–2019"
 active_start: 1970
-active_end: 1990
+active_end: 2019
 country: "المجر / أمريكا"
 language: "المجرية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
-  - id: "thk-socrates", title: "سقراط", type: "مفكر"
+- id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
+- id: "thk-socrates", title: "سقراط", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "كتابها 'سوسيولوجيا الحياة اليومية' (Everyday Life) ومفهوم 'الإنسان الصالح والأصيل' يستحقان توثيقاً."
@@ -44,4 +45,4 @@ gaps:
 
 ## أهم أعمالها
 
-الحياة اليومية (Everyday Life, 1970/1984) · نظرية المشاعر (A Theory of Feelings, 1979) · نظرية الاحتياجات عند ماركس (The Theory of Need in Marx, 1976) · فلسفة الأخلاق العامة (A Philosophy of Morals, 1990).
+الحياة اليومية (بالمجرية 1970؛ بالإنجليزية Everyday Life, 1984) · نظرية الحاجات عند ماركس (The Theory of Need in Marx, 1976) · نظرية المشاعر (A Theory of Feelings, 1979) · ما وراء العدالة (Beyond Justice, 1987) · فلسفة الأخلاق (A Philosophy of Morals, 1990) · نظرية الحداثة (A Theory of Modernity, 1999).

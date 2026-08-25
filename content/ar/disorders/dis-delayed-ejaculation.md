@@ -11,18 +11,18 @@ icd11_code: "HA06.02"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-  - id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-  - id: "tec-penile-vibration-stimulator", title: "جهاز الاهتزاز للقضيب (PVS)", type: "تقنية/تدخل علاجي"
-  - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
-
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
+- id: "tec-penile-vibration-stimulator", title: "جهاز الاهتزاز للقضيب (PVS)", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لتمييز lifelong vs acquired في DSM-5-TR لم تُراجع من المصدر الأولي."
   - "الفاعلية المقارنة لمقاربات الطب الجنسي مقابل العلاج الدوائي غير موثقة بدقة."

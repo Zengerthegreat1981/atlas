@@ -8,11 +8,15 @@ en: "Experiential Avoidance"
 crumb: "الموجة الثالثة ← المفاهيم ← التجنب التجريبي"
 active_start: 1996
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-hayes-steven", title: "ستيفن هايز", type: "مفكر"
-  - id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
+- id: "thk-lstevenhayes", title: "ستيفن هايز", type: "مفكر"
+- id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
+- id: "wrk-liberated-mind", title: "العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك", type: "عمل / كتاب"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين التجنب التجريبي كاستراتيجية طبيعية للتكيّف وكعرض مَرَضي يستحق توثيقاً أكاديمياً أوسع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

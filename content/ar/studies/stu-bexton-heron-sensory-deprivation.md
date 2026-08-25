@@ -8,8 +8,15 @@ en: "McGill Sensory Deprivation Experiments (Bexton, Heron & Scott)"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب ماكغيل للحرمان الحسي"
 active_start: 1953
 active_end: 1956
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التمويل العسكري والاستخباراتي السري للدراسة من قبل الدفاع الكندي ووكالة الاستخبارات الأمريكية CIA (مشروع MK-Ultra) يحتاج توثيقاً تاريخياً"
   - "التطبيقات المعاصرة في الحبس الانفرادي في السجون وأثره على الصحة العقلية تتطلب مراجعة حقوقية ونفسية"

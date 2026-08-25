@@ -8,9 +8,11 @@ en: "Social Interaction Anxiety Scale and Social Phobia Scale (SIAS & SPS)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس قلق التفاعل الاجتماعي SIAS"
 active_start: 1998
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "النسخ المختصرة (SIAS-6 وSPS-6) لـ Peters et al. (2012) ودقتها في الفحص السريع تحتاج توثيقاً"
   - "التقنين العربي المشترك للمقياسين في العينات الإكلينيكية يتطلب مراجعة مقارنة"

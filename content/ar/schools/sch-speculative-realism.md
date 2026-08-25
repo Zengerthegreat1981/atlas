@@ -13,12 +13,16 @@ language: "الإنجليزية، الفرنسية"
 active_start: 2007
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة القارية", target_type: "مظلة"
-  - rel: "split_into", target: "الأنطولوجيا الموجهة نحو الشيء (OOO)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "split_into", target: "sch-ooo", target_type: "مدرسة"
 related:
-  - id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (OOO)", type: "مدرسة"
-  - id: "sch-new-materialism", title: "المادية الجديدة", type: "مدرسة"
-  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (OOO)", type: "مدرسة"
+- id: "sch-new-materialism", title: "المادية الجديدة", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "thk-quentin-meillassoux", title: "كونتين ميياسو", type: "مفكر"
+- id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
+- id: "con-modal-realism-david-lewis", title: "الواقعية المشروطة للعوالم الممكنة (Modal Realism)", type: "مفهوم"
+- id: "con-tawakkul-psychology", title: "التوكل واليقين والسكينة النفسية (Tawakkul in Islamic Psychology)", type: "مفهوم"
 gaps:
   - "الواقعية المضاربة ليست 'مدرسة' بمعنى صارم، بل 'إطار' متعدد المواقف يضمّ أربع شخصيات متمايزة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

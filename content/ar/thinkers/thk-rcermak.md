@@ -10,11 +10,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← شارون سيرماك"
 edges:
-  - rel: "belongs_to", target: "التكامل الحسي (Sensory Integration)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكامل الحسي", target_type: "مدرسة"
 related:
-  - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
-  - id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
+- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
+- id: "thk-rschaaf", title: "روزان شاف", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

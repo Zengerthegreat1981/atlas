@@ -9,13 +9,17 @@ crumb: "العلاج بالقبول والالتزام (ACT) ← التقبل �
 active_start: 2003
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-  - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-  - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "dis-arfid", title: "اضطراب تجنّب/تقييد الطعام (ARFID)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-encopresis", title: "التبرّز اللاإرادي (Encopresis)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-enuresis", title: "التبوّل اللاإرادي (Enuresis)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

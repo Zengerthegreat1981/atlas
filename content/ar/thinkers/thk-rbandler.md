@@ -10,10 +10,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ريتشارد بَندلر"
 edges:
-  - rel: "belongs_to", target: "NLP النظامي", target_type: "مدرسة"
+- rel: "belongs_to", target: "NLP النظامي (Systemic NLP — تاد جيمس)", target_type: "مدرسة"
 related:
-  - id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
+- id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
+- id: "thk-rdilts", title: "روبرت ديلتس", type: "مفكر"
+- id: "tec-systemic-nlp-tad-james", title: "NLP النظامي (Systemic NLP — تاد جيمس)", type: "تقنية/تدخل علاجي"
+- id: "br-nlp-systemic", title: "البرمجة اللغوية العصبية (NLP)", type: "تيار"
 gaps:
   - "الجدل الأكاديمي حول أصالة أبحاث NLP لم يُوثّق بدقة هنا."
   - "لا يوجد اقتباس مباشر موثوق متاح."

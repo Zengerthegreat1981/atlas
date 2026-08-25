@@ -11,10 +11,12 @@ active_start: 1760
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-balint", title: "متلازمة بالينت (العمه البصري الحركي وتعذر رؤية المتزامن)", type: "متلازمة"
+- id: "syn-visual-snow", title: "متلازمة الثلج البصري النفسية العصبية", type: "متلازمة"
 gaps:
   - "التوثيق الفينومينولوجي لملاحظات تشارلز بونيه الأصلية على جده المصاب بالساد (1760)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

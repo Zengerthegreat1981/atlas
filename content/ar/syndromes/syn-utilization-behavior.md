@@ -11,10 +11,10 @@ active_start: 1983
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-environmental-dependency", title: "متلازمة التبعية للبيئة", type: "متلازمة"
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-environmental-dependency", title: "متلازمة التبعية للبيئة", type: "متلازمة"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث ليرميت وتلف الدوائر الجبهية المخططية وفقدان التثبيط الحركي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

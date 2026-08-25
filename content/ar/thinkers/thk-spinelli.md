@@ -11,14 +11,17 @@ active_start: 1989
 active_end: 2007
 language: "الإنجليزية"
 country: "بريطانيا"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "dbt-structures", title: "خصومة البنى", type: "جدل"
-  - id: "thk-cohn", title: "هانز كون", type: "مفكر"
-  - id: "thk-mojastrasser", title: "لوتشيا مويا-شتراسر", type: "مفكر"
-  - id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "dbt-structures", title: "خصومة البنى", type: "جدل"
+- id: "thk-cohn", title: "هانز كون", type: "مفكر"
+- id: "thk-mojastrasser", title: "لوتشيا مويا-شتراسر", type: "مفكر"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "br-relational", title: "الصيغة العلائقية — الموجودي-الظاهراتي البريطاني (سبينيللي)", type: "تيار"
+- id: "br-spinelli-phenomenological", title: "العلاج الظاهراتي (سبينيلّي)", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "بيانات أعماله — تحتاج تثبيتاً"

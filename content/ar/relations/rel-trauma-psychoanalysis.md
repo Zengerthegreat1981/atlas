@@ -8,23 +8,24 @@ en: "Trauma-Focused Therapy and Psychoanalysis: From Neglect to Recognition"
 crumb: "العلاج المتمركز حول الصدمة ← العلاقات ← العلاج المتمركز حول الصدمة والتحليل النفسي"
 active_start: 1889
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
-  - rel: "relates_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-  - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
-  - id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"
-  - id: "thk-resick", title: "باتريشيا أ. ريسك", type: "مفكر"
-  - id: "thk-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-  - id: "thk-rothschild", title: "بابي روتشيلد", type: "مفكر"
+- id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
+- id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 gaps:
   - "تفاصيل العلاقة بين بروير (1880) وفرويد (1893) في 'دراسات حول الهستيريا' وتطور نظرية الصدمة — الأطروحة الجذابة (لا أساس تاريخي) بأن فرويد 'سرق' الفكرة من بروير."
   - "إغفال فرويد لصدمة الانفصال عن الوالدين في حالات الأطفال (1909، Little Hans) — تفاصيل قراره لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح من فرويد عن 'محاولات الإغراء' (Seduction Theory) بعد تراجعه 1897."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا ب. فوا (thk-foa)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باتريشيا أ. ريسك (thk-resick)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بابي روتشيلد (thk-rothschild)."
 ---
 
 # العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم

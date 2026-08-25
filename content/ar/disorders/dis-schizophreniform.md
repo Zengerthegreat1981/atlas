@@ -11,15 +11,16 @@ icd11_code: "6A24"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-psychosis", title: "العلاج المعرفي السلوكي للذهان (CBTp)", type: "تقنية/تدخل علاجي"
-  - id: "tec-psychoeducational-family", title: "الإرشاد النفسي للعائلة", type: "تقنية/تدخل علاجي"
-  - id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "syn-dissociation", title: "الانفصال (dissociation)", type: "متلازمة"
+- id: "tec-cbt-psychosis", title: "العلاج المعرفي السلوكي للذهان (CBTp)", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "الإرشاد النفسي للعائلة", type: "تقنية/تدخل علاجي"
+- id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "syn-dissociation", title: "الانفصال (dissociation)", type: "متلازمة"
 gaps:
   - "تفاصيل تمييز 'السمات الذهانية' (Good prognostic features) في DSM-5-TR من حيث عدد العوامل (4+ يعني إنذار جيد) لم تُراجع من المصدر الأولي."
   - "ترميز ICD-11 6A24 (أول حلقة من اضطراب طيف الفصام) وموقعه من حيث العلاق بـ 6A20 (الفصام) يحتاج مراجعة تفصيلية."

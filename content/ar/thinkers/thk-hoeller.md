@@ -6,17 +6,18 @@ level: "متقدم"
 title: "كيث هولر"
 en: "Keith Hoeller"
 crumb: "المدرسة الوجودية ← الناس ← كيث هولر"
-dates: "أمريكا · معاصر"
+dates: "الولايات المتحدة · القرن العشرين–"
 active_start: 1988
 active_end: 1993
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره في تحرير دورية علم النفس والطب النفسي الوجودي (Review of Existential Psychology & Psychiatry) ونشر نصوص هايدجر وفوكو وترجمتها يستحق إبرازاً."

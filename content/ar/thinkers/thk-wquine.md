@@ -13,10 +13,13 @@ language: "الإنجليزية"
 active_start: 1936
 active_end: 1996
 edges:
-  - rel: "belongs_to", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
 related:
-  - id: "sch-quinean-naturalism", title: "الطبيعانية التحليلية (الكواينية)", type: "مدرسة"
-  - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "met-goodman-grue-paradox", title: "لغز الزمرد الأزرق-الأخضر (Grue) لنيلسون غودمان: استعارة لغز الاستقراء الجديد", type: "استعارة/مجاز مؤسِّس"
+- id: "met-neurath-boat", title: "سفينة نويرات: استعارة إصلاح المعرفة في عرض البحر", type: "استعارة/مجاز مؤسِّس"
+- id: "met-quine-web-of-belief", title: "شبكة المعتقدات لـ كواين: استعارة الشمولية المعرفية وتعديل الأطراف", type: "استعارة/مجاز مؤسِّس"
+- id: "sch-quinean-naturalism", title: "الطبيعانية التحليلية (الكواينية)", type: "مدرسة"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
 gaps:
   - "تفاصيل 'عدم قابلية الترجمة' (indeterminacy of translation) في 'كلمة وكائن' لم تُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من الرسائل إلى كارناب."

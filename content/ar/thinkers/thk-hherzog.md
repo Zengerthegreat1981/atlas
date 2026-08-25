@@ -11,11 +11,12 @@ active_start: 1991
 active_end: "مستمر"
 country: "ألمانيا"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الظاهراتي (Phenomenological Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الظاهراتي (Phenomenological Psychology)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-james", title: "وليام جيمس", type: "مفكر"
 gaps:
   - "الاسم في السجل الأصلي ورد بصيغة مختصرة 'F. Herzog'؛ البحث لم يؤكد وجود شخص بهذا الاسم في هذا الحقل، بينما وجد بثقة عالية عالم النفس الألماني ماكس هرتسوغ (Max Herzog) العامل في نفس الحقل بالضبط، فتم تصحيح الاسم إليه."
   - "لا تتوفر تفاصيل موثقة كافية عن سيرته الأكاديمية الكاملة أو تاريخ ميلاده."
@@ -31,4 +32,4 @@ gaps:
 
 ## أهم أعماله
 
-Herzog, M., & Graumann, C. F. (eds.), عمل مشترك حول تطبيق المنهج الظاهراتي في علم النفس (1991)؛ مقالات حول تأثير وليام جيمس على نشأة علم النفس الظاهراتي في أوروبا.
+«المعنى والخبرة: المناهج الظاهراتية في العلوم الإنسانية» (Sinn und Erfahrung: Phänomenologische Methoden in den Humanwissenschaften, 1991، تحرير مع كارل فريدريش غراومان) · مقالات حول أثر وليم جيمس في نشأة علم النفس الظاهراتي في أوروبا.

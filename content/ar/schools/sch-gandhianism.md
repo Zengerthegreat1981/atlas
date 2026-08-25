@@ -13,10 +13,14 @@ language: "الإنجليزية، الهندية، الغوجاراتية"
 active_start: 1915
 active_end: 1948
 edges:
-  - rel: "evolved_from", target: "Bhakti", target_type: "تيار"
+- rel: "evolved_from", target: "Bhakti", target_type: "تيار"
 related:
-  - id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
-  - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "wrk-hind-swaraj", title: "هند سواراج (الحكم الذاتي الهندي)", type: "عمل / كتاب"
+- id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"
+- id: "dbt-gandhi-vs-machiavelli", title: "غاندي ضد المكيافيلية: هل السياسة الممكنة تقتضي العنف؟", type: "جدل"
+- id: "dbt-tagore-vs-gandhi", title: "طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟", type: "جدل"
 gaps:
   - "رابط مقترح لـ«الجاينية» (sch-ahimsa-jainism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Gandhi (Hind Swaraj, Young India, Satyagraha) تحتاج مراجعة من المصدر الأولي."

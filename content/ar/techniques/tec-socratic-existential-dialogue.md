@@ -6,13 +6,19 @@ level: "مبتدئ"
 title: "الحوار السقراطي الوجودي"
 en: "Socratic Existential Dialogue"
 crumb: "المدرسة الوجودية ← التقنيات والتدخلات ← الحوار السقراطي الوجودي"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "tec-phenomenological-exploration", title: "الاستكشاف الفينومينولوجي", type: "تقنية/تدخل علاجي"
-  - id: "que-what-is-authentic-existence", title: "ما الذي يجعل الوجود أصيلاً؟", type: "سؤال مولِّد"
-gaps:[]
+- id: "thk-socrates", title: "سقراط", type: "مفكر"
+- id: "tec-phenomenological-exploration", title: "الاستكشاف الفينومينولوجي", type: "تقنية/تدخل علاجي"
+- id: "que-what-is-authentic-existence", title: "ما الذي يجعل الوجود أصيلاً؟", type: "سؤال توليدي"
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---
-
 # الحوار السقراطي الوجودي
 
 أسئلة موجهة لفحص افتراضات الشخص الأساسية حول الموت والحرية والمسؤولية والمعنى، دون فرض إجابات جاهزة.

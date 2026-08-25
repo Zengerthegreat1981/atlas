@@ -9,11 +9,14 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ميخائيل
 dates: "روسيا · [غير مؤكد]"
 country: "روسيا"
 language: "الروسية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jwiener", title: "جان وينر", type: "مفكر"
-  - id: "thk-trudakova", title: "تاتيانا روداكوفا", type: "مفكر"
+- id: "thk-jwiener", title: "جان وينر", type: "مفكر"
+- id: "thk-trudakova", title: "تاتيانا روداكوفا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة — موضع بحث."

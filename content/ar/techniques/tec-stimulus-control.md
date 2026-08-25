@@ -11,12 +11,13 @@ dates: "من السبعينيات"
 active_start: 1972
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "con-stimulus-control", title: "التحكم بالمنبّهات (مفهوم)", type: "مفهوم"
-  - id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
-  - id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
+- id: "con-stimulus-control", title: "التحكم بالمنبّهات (مفهوم)", type: "مفهوم"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
+- id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "تطبيقات العلاج في إدارة الوزن (إزالة المنبهات في المطبخ) وعلاج الباروفيليا — موضع بحث."

@@ -11,12 +11,13 @@ dates: "أكسفورد وتورنتو · 2002"
 active_start: 2002
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-mbsr", title: "برنامج خفض الضغوط باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "البروتوكول الجماعي المكوّن من 8 أسابيع لزيندل سيغال ومارك ويليامز وجون تيزديل (Segal, Williams, Teasdale)."
   - "التمييز بين 'نمط الفعل' (Doing Mode) و'نمط الكينونة' (Being Mode) واللامركزية المعرفية (Decentering)."

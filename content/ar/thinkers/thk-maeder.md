@@ -9,12 +9,15 @@ crumb: "التحليل النفسي ← الناس ← المرحلة المبك
 dates: "سويسرا · 1882–1971"
 country: "سويسرا"
 language: "الألمانية / الفرنسية"
+part: "psychology"
+active_start: null
+active_end: 1971
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-bleuler", title: "أوجين بلويلَر", type: "مفكر"
-  - id: "thk-bleuler-jung-assoc", title: "فرانتس ريكـلين", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-bleuler", title: "أوجين بلويلَر", type: "مفكر"
+- id: "thk-bleuler-jung-assoc", title: "فرانتس ريكلين", type: "مفكر"
 gaps:
   - "معلومات السيرة الذاتية (سوى الفترة المبكرة) قليلة في المصادر الإنجليزية."
   - "الفصل بين «حلم الرغبة» عند فرويد و«الحلم التطلّعي» عند مايدر يحتاج مراجعة نصية دقيقة."

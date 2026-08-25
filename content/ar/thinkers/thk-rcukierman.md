@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← روخِريو
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
-  - id: "thk-wboechat", title: "فالتَر بُويْتشات", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
+- id: "thk-wboechat", title: "فالتَر بُويْتشات", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «O Brincar e o Sagrado» (2000s) أجرى «تحليلية اللعب» (Play) في إطار أركييبي، مع تركيز على أطفال «Favela» البرازيلية. كذلك أدار «برامج التحليلية في المدارس العامة» (PSE – Psicologia nas Escolas)، فأدخل التحليلية في «الإرشاد المدرسي» البرازيلي. كذلك عمل مع نيسي دا سيلفيرا في Museu de Imagens do Inconsciente.
+في «O Brincar e o Sagrado» (العقد الأول من القرن الحادي والعشرين) أجرى «تحليلية اللعب» (Play) في إطار أركيتيبي، مع تركيز على أطفال «Favela» البرازيلية. كذلك أدار «برامج التحليلية في المدارس العامة» (PSE – Psicologia nas Escolas)، فأدخل التحليلية في «الإرشاد المدرسي» البرازيلي. كذلك عمل مع نيسي دا سيلفيرا في Museu de Imagens do Inconsciente.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-O Brincar e o Sagrado (2000s).
+O Brincar e o Sagrado (العقد الأول من القرن الحادي والعشرين).

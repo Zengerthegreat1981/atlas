@@ -12,14 +12,17 @@ language: "الإنجليزية"
 active_start: 1991
 active_end: 1991
 edges:
-  - rel: "belongs_to", target: "الفلسفة المقارنة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
+- id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«هنري روزمونت» (thk-rosemont) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ طبعة University of Hawaii Press الأصلية (1991)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # المرآة الصينية (A Chinese Mirror, 1991)

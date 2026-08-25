@@ -8,10 +8,15 @@ en: "Dynamic Couple and Family Therapy"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← العلاج الديناميكي للأزواج والأسرة"
 active_start: 1978
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الديناميكي للأزواج والأسرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-mselpalaz", title: "ماريون سيلفيني بالاتزولي", type: "مفكر"
+- id: "thk-mselvini", title: "ماريون سيلفيني بالاتزولي", type: "مفكر"
+- id: "thk-bcwhite", title: "برنارد وايت", type: "مفكر"
+- id: "thk-eimber", title: "إيفان إمبير-بلاك", type: "مفكر"
+- id: "thk-nackerman", title: "ناثان أكرمان", type: "مفكر"
+- id: "thk-osilver", title: "أولغا سيلفرشتاين", type: "مفكر"
 gaps:
   - "أعمال جيلبرت كلاركين الكاملة لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

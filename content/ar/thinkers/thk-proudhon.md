@@ -7,17 +7,17 @@ level: "متوسط"
 title: "بيير جوزيف برودون"
 en: "Pierre-Joseph Proudhon"
 crumb: "الأناركية الكلاسيكية ← المؤسسون ← برودون"
-dates: "بيزنسون، باريس، ليون، بيزنسون · 1809–1865"
+dates: "فرنسا (بزانسون، باريس) · 1809–1865"
 country: "فرنسا"
 language: "الفرنسية"
 active_start: 1840
 active_end: 1865
 edges:
-  - rel: "belongs_to", target: "الأناركية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الأناركية الكلاسيكية", target_type: "مدرسة"
 related:
-  - id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
-  - id: "thk-bakunin", title: "ميخائيل باكونين", type: "مفكر"
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
+- id: "thk-bakunin", title: "ميخائيل باكونين", type: "مفكر"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:
   - "مراسلات برودون-ماركس (1846) لم تُراجع بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'La propriété, c'est le vol' بعد."
@@ -53,7 +53,7 @@ gaps:
 
 - **باكونين** (Bakunin): استلهم، لكنّه طوّر **«الأناركية الجماعية»** الأكثر راديكالية.
 - **كروبوتكين** (Kropotkin): استلهم **التبادلية** لكنّه انتقدها لصالح «**التعاون الطوعي**».
-- **حركة المايباي (Mouvement du 1er Mai)**: «**ثماني ساعات عمل، ثماني ساعات راحة، ثماني ساعات راحة**» (Eight hours for work, eight hours for rest, eight hours for what we will).
+- **حركة المايباي (Mouvement du 1er Mai)**: «**ثماني ساعات عمل، ثماني ساعات راحة، ثماني ساعات لما نريد**» (Eight hours for work, eight hours for rest, eight hours for what we will).
 - **الأناركية اللاحقة**: **إيريكوفرما** و**دانيال غيرن** في القرن العشرين.
 
 ## أهم أعماله

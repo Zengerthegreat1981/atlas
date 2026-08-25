@@ -9,10 +9,13 @@ en: "Stanford Marshmallow Experiment (Walter Mischel)"
 crumb: "علم النفس التنموي والمعرفي ← الدراسات والأبحاث ← تجربة المارشميلو وتأجيل الإشباع"
 active_start: 1970
 active_end: 1972
-edges: []
+edges:
+  []
 related:
-  - id: "con-ego-depletion", title: "استنزاف الأنا ونفاذ طاقة الإرادة", type: "مفهوم"
-  - id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
+- id: "thk-wmischel", title: "والتر ميشيل", type: "مفكر"
+- id: "axm-delayed-gratification", title: "بديهية تأجيل الإشباع", type: "بديهية/مبدأ تأسيسي"
+- id: "con-ego-depletion", title: "استنزاف الأنا ونفاذ طاقة الإرادة", type: "مفهوم"
+- id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
 gaps:
   - "دراسات إعادة التكرار الحديثة (Tyler Watts et al. 2018) ودور الخلفية الاجتماعية والاقتصادية للأسرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

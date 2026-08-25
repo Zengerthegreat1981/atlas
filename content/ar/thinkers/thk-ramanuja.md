@@ -12,11 +12,12 @@ language: "السنسكريتية، التاميلية"
 active_start: 1040
 active_end: 1137
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← رامانوجا (فيشيشتادفايتا)"
 edges:
-  - rel: "belongs_to", target: "فيشيشتادفايتا", target_type: "مدرسة"
+- rel: "belongs_to", target: "فيشيشتادفايتا", target_type: "مدرسة"
 related:
-  - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
 gaps:
   - "لا ترجمة عربية موحدة لأعماله (Sri Bhashya, Vedartha Sangraha)."
   - "تأريخ حياته يعتمد على المصادر الفيشنافية التقليدية، لا أرشيف تاريخي مستقل."

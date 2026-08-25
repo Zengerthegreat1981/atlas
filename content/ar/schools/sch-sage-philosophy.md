@@ -13,13 +13,19 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الإثنوفلسفة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-ethnophilosophy", target_type: "مدرسة"
 related:
-  - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
-  - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
-  - id: "sch-sage-philosophy", title: "Sage Philosophy", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
+- id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
+- id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
+- id: "thk-henry-odera-oruka", title: "هنري أوديرا أوروكا", type: "مفكر"
+- id: "thk-alexis-kagame", title: "ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي)", type: "مفكر"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "نصوص Peter Bodunrin وKwasi Wiredu وHountondji تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة الحكيم (Sage Philosophy)

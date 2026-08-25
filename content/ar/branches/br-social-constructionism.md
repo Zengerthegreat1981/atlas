@@ -11,12 +11,16 @@ dates: "من الثمانينيات"
 active_start: 1985
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "كينيث جيرغن", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-kgergen", target_type: "مفكر"
 related:
-  - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
-  - id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
+- id: "br-discursive-psychology", title: "علم النفس الخطابي (بوتر وويذرل)", type: "تيار"
+- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "كتاب كينيث جيرغن (Kenneth Gergen) 'الذات المشبعة' (The Saturated Self, 1991) و'العلاقات والواقع' (1994)."
   - "تفكيك النماذج الطبية الفردية للاضطراب النفسي وتأكيد النشأة العلائقية-اللغوية للوعي والواقع الاجتماعي."

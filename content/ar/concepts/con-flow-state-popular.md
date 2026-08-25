@@ -11,10 +11,12 @@ crumb: "علم النفس الإيجابي ← المفاهيم ← حالة ا�
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإيجابي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-  - id: "wrk-flow-csikszentmihalyi", title: "التدفق: سيكولوجيا التجربة المثلى", type: "عمل / كتاب"
-  - id: "thk-csikszentmihalyi", title: "ميهالي تشيكسينتميهالي", type: "مفكر"
+- id: "wrk-flow-csikszentmihalyi", title: "التدفق: سيكولوجيا التجربة المثلى", type: "عمل / كتاب"
+- id: "thk-csikszentmihalyi", title: "ميهالي تشيكسينتميهالي", type: "مفكر"
+- id: "con-yerkes-dodson-law", title: "قانون يركيز–دودسون (العلاقة المنحنية بين التوتر والأداء)", type: "مفهوم"
+- id: "stu-kohler-insight-chimpanzees", title: "تجارب فولفغانغ كوهلر للاستبصار وحل المشكلات لدى الشمبانزي", type: "دراسة وبحث"
 gaps:
   - "تطبيقات التدفق في بيئات البرمجة والرياضات الخطرة وألعاب الفيديو."
   - "لا يوجد اقتباس مباشر موثوق متاح."

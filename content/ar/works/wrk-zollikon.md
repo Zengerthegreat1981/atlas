@@ -10,18 +10,20 @@ crumb: "المدرسة الوجودية ← الأعمال ← ندوات تسو
 dates: "1959–1969 · هايدجر وبوس"
 active_start: 1959
 active_end: 1969
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "هايدجر وبوس", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "هايدجر وبوس", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-boss", title: "بوس", type: "مفكر"
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل"
+- id: "thk-boss", title: "بوس", type: "مفكر"
+- id: "thk-heidegger", title: "هايدجر", type: "مفكر"
+- id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
 ---
-
 # ندوات تسوليكون
 
 المرة الوحيدة في تاريخ هذه المدرسة التي جلس فيها الفيلسوف نفسه مع الأطباء ليشرح ما يقصده.

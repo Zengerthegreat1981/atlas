@@ -11,11 +11,21 @@ active_start: 1975
 active_end: 2003
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
 related:
+- id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
+- id: "thk-daniellevision", title: "دانييل ليڤيسون", type: "مفكر"
+- id: "thk-susan-koch", title: "سوزان كوخ", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانييل ليڤيسون (thk-daniellevision)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماري وايتهاوس (thk-mary-whitehouse)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: سوزان كوخ (thk-susan-koch)."
 ---
 
 # بيني لويس

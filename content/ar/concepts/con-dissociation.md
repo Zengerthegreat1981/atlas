@@ -1,7 +1,7 @@
 ---
 slug: "con-dissociation"
-id: "THK-2158"
-type: "مفكر"
+id: "CON-1257"
+type: "مفهوم"
 level: "متوسط"
 title: "الانفصال (Dissociation)"
 en: "Dissociation"
@@ -10,17 +10,20 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 1880
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
+- id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
+- id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
+- id: "con-imago-fractured-self", title: "الذَّات الْمُتَشَظِّيَة فِي Imago: الجُزْء الَّذِي يَتَكَرَّر", type: "مفهوم"
 gaps:
   - "المفهوم موصوف منذ بيير جانيه (Pierre Janet) في 1889 ضمن نظريته 'التقسيم التلقائي للوعي' (Automatisme psychologique)."
   - "يُميَّز بين الانفصال العادي (تأمل، شرود ذهني) والانفصال المرضي (اضطرابات الهوية الانفصالية، الهروب النفسي)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # الانفصال (Dissociation)
 
 مفهوم نفسي يشير إلى انفصال أو تقسيم في تكامل الوعي والذاكرة والهوية والوعي بالجسم، يظهر كآلية دفاعية نفسية في مواجهة الصدمات الشديدة أو كمتلازمة إكلينيكية قائمة بذاتها.

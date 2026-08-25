@@ -11,12 +11,16 @@ active_start: 1961
 active_end: 1976
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "evt-ahp-founding-1961", title: "تأسيس جمعية علم النفس الإنساني وإطلاق القوة الثالثة", type: "حدث تاريخي"
+- id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
+- id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره التأسيسي في إطلاق دورية علم النفس الإنساني (JHP) ودورية علم النفس عبر الشخصي (JTP) يحتاج توثيقاً تاريخياً."

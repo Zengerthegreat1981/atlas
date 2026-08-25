@@ -10,13 +10,16 @@ dates: "1951 · كارل روجرز"
 language: "الإنجليزية"
 active_start: 1951
 active_end: 1951
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "wrk-becoming-person", title: "أن نصير أشخاصاً", type: "عمل / كتاب"
-  - id: "wrk-rogers-counseling-psychotherapy", title: "الإرشاد والعلاج النفسي", type: "عمل / كتاب"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "wrk-becoming-person", title: "أن نصير أشخاصاً", type: "عمل / كتاب"
+- id: "wrk-rogers-counseling-psychotherapy", title: "الإرشاد والعلاج النفسي", type: "عمل / كتاب"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "العلاقة بين «العلاج غير الموجَّه» (1942) و«العلاج المتمركز حول العميل» (1951) و«المرتكز على الشخص» (1961) من حيث المصطلح لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

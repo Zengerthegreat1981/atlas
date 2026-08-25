@@ -13,14 +13,18 @@ language: "العبرية، الآرامية"
 active_start: -1000
 active_end: -100
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
-  - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
-  - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "thk-ben-sira", title: "يشوع بن سيراخ (ابن سيرا)", type: "مفكر"
+- id: "thk-solomon-hebrew", title: "سليمان (في التقليد التوراتي)", type: "مفكر"
+- id: "wrk-book-of-proverbs", title: "سفر الأمثال (مِشْلاي)", type: "عمل / كتاب"
 gaps:
   - "نصوص 'سفر الأمثال' و'الجامعة' (Ecclesiastes) و'أيوب' تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تقليد الحكمة العبرية القديمة (أدب الحكمة التوراتي)

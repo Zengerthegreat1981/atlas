@@ -11,8 +11,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1973
 active_end: 2015
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالتحويل (Conversion Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
+related:
+- id: "thk-bkaufman", title: "بِنْيامين كوفمان", type: "مفكر"
+- id: "thk-csocarides", title: "تشارلز سوكرايدِس", type: "مفكر"
+- id: "thk-ibieber", title: "إرفنغ بيبر", type: "مفكر"
+- id: "thk-lbarrett", title: "لورا بارِت", type: "مفكر"
+- id: "thk-lwalker", title: "لورا ووكر", type: "مفكر"
+- id: "thk-nlehrman", title: "ناثانئيل لِرمان", type: "مفكر"
+- id: "evt-dsm-homosexuality-removal-1973", title: "تصويت الجمعية الأمريكية للطب النفسي على إزالة المثلية الجنسية من تصنيف الأمراض", type: "حدث تاريخي"
+- id: "evt-rosenhan-study-publication-1973", title: "نشر دراسة روزنهان حول صلاحية التشخيص وزلزال مصحات الطب النفسي", type: "حدث تاريخي"
+- id: "evt-vietnam-veterans-ptsd-advocacy-1980", title: "حركة قدامى محاربي فيتنام وإقرار اضطراب كرب ما بعد الصدمة رسمياً في DSM-III", type: "حدث تاريخي"
 gaps:
   - "تفاصيل التعاون المبكر مع نيكولوسي لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

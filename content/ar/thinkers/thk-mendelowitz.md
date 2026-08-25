@@ -11,13 +11,14 @@ active_start: 2001
 active_end: 2015
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
-  - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-death", title: "الموت", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مؤلفاته حول الهشاشة والموت والعلاقة العلاجية في مدرسة الساحل الغربي تستحق إبرازاً."

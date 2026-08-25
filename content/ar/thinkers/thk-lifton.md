@@ -11,14 +11,15 @@ active_start: 1967
 active_end: 1993
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
+- id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نظرية 'الخلود الرمزي' (Symbolic Immortality) تستحق إدراجاً كمفهوم وجودي مستقل في مواجهة فناء الجسد."

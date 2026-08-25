@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2009
 active_end: 2009
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وعلم نفس السعادة", target_type: "مدرسة"
-  - rel: "written_by", target: "غريتشين روبين", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي وعلم نفس السعادة", target_type: "مدرسة"
+- rel: "written_by", target: "thk-gretchen-rubin", target_type: "مفكر"
 related:
-  - id: "thk-gretchen-rubin", title: "غريتشين روبين", type: "مفكر"
+- id: "thk-gretchen-rubin", title: "غريتشين روبين", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

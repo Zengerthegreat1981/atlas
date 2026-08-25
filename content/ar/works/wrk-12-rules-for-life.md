@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2018
 active_end: 2018
 edges:
-  - rel: "belongs_to", target: "علم النفس الإكلينيكي وعلم النفس الشعبي", target_type: "مدرسة"
-  - rel: "written_by", target: "جوردان بيترسون", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الإكلينيكي وعلم النفس الشعبي", target_type: "مدرسة"
+- rel: "written_by", target: "thk-jordan-peterson", target_type: "مفكر"
 related:
-  - id: "thk-jordan-peterson", title: "جوردان بيترسون", type: "مفكر"
+- id: "thk-jordan-peterson", title: "جوردان بيترسون", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
+- id: "wrk-daodejing", title: "كتاب الطريق والفضيلة (داو ده جينغ)", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -6,14 +6,20 @@ level: "متوسط"
 title: "الوجود يسبق الماهية"
 en: "Existence Precedes Essence"
 crumb: "المدرسة الوجودية ← البديهيات التأسيسية ← الوجود يسبق الماهية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-thrownness", title: "القذف / الإلقاء (Geworfenheit)", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-thrownness", title: "القذف / الإلقاء (Geworfenheit)", type: "مفهوم"
+- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "يحتاج ربطاً صريحاً بجدل dbt- إن وُجد عنصر يناقش الحتمية مقابل الحرية، ولم يُتحقق بعد من وجوده الفعلي في هذا الأطلس"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الوجود يسبق الماهية

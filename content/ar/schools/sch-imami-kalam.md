@@ -13,12 +13,12 @@ language: "العربية، الفارسية"
 active_start: 850
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
+- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
-  - id: "sch-zaydi-kalam", title: "الكلام الزيدي", type: "مدرسة"
-  - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
-  - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-  - id: "thk-fakhr-razi", title: "فخر الدين محمد بن عمر الرازي", type: "مفكر"
+- id: "sch-zaydi-kalam", title: "الكلام الزيدي", type: "مدرسة"
+- id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
+- id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
+- id: "thk-fakhr-razi", title: "فخر الدين محمد بن عمر الرازي", type: "مفكر"
 gaps:
   - "التفريق بين المعتزلة البغداديين والشيعة الإمامية في فترة ما قبل ابن بابويه يحتاج تدقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح من «الاعتقادات» للصدوق (وهو أوّل نص كلامي إمامي منظَّم)."

@@ -11,12 +11,13 @@ active_start: 1918
 active_end: 1959
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "موسوعته 'مبدأ الأمل' (Das Prinzip Hoffnung) وفلسفة 'ما ليس بعد' (Not-Yet-Conscious) تستحق إدراجاً في الأعمال."

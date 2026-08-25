@@ -13,13 +13,16 @@ language: "الإنجليزية"
 active_start: 1933
 active_end: 1948
 edges:
-  - rel: "belongs_to", target: "فلسفة البيئة / الأخلاق البيئية", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة البيئة / الأخلاق البيئية", target_type: "مدرسة"
 related:
-  - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"
+- id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "thk-holmes-rolston", title: "هولمز رولستون", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press لـ *A Sand County Almanac* (1949، نشرت بعد وفاة ليوبولد)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # ألدو ليوبولد (Aldo Leopold, 1887–1948)

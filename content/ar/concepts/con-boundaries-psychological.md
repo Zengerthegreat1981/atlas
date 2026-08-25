@@ -11,10 +11,12 @@ crumb: "علم النفس الإكلينيكي والعلاقات ← المفا
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإكلينيكي والعلاقات", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإكلينيكي والعلاقات", target_type: "مدرسة"
 related:
-  - id: "wrk-set-boundaries-find-peace", title: "ضع حدوداً، تجد سلاماً", type: "عمل / كتاب"
-  - id: "thk-nedra-tawwab", title: "نيدرا غلوفر تواب", type: "مفكر"
+- id: "wrk-set-boundaries-find-peace", title: "ضع حدوداً، تجد سلاماً", type: "عمل / كتاب"
+- id: "thk-nedra-tawwab", title: "نيدرا غلوفر تواب", type: "مفكر"
+- id: "stu-baumrind-parenting-styles", title: "دراسة ديانا باومريند لأنماط الوالدية والتربية", type: "دراسة وبحث"
+- id: "ins-ders-emotion-regulation", title: "مقياس صعوبات التنظيم الانفعالي (DERS)", type: "أداة قياس"
 gaps:
   - "التمييز بين الحدود الصحية والانفصال التجنبي العازل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,11 +10,13 @@ crumb: "الفلسفة ← الصين ← مدرسة الين-يانغ (الطب
 active_start: -300
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة الين-يانغ (الطبيعيون)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-yinyang", target_type: "مدرسة"
 related:
-  - id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
-  - id: "thk-zou-yan", title: "زو يان", type: "مفكر"
-  - id: "con-yin-yang", title: "الين-يانغ (陰陽) — التقابل الكوني", type: "مفهوم"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
+- id: "thk-zou-yan", title: "زو يان", type: "مفكر"
+- id: "con-yin-yang", title: "الين-يانغ (陰陽) — التقابل الكوني", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين 'Wuxing' في 'Shang Shu' (كتاب التواريخ) وفي 'Zou Yan' وفي 'Baihu Tong' لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

@@ -11,11 +11,12 @@ dates: "من سبعينيات القرن العشرين"
 active_start: 1975
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
 gaps:
   - "معايير اختيار المرضى المناسبين للعلاج قصير المدى (مثل القدرة على التفكير السيكولوجي وتكوين علاقة)."
   - "التباين بين مدارس STPP المختلفة (مثل نموذج مالان المركز، ونموذج سيفنيوس القائم على القلق، ونموذج مان المحدد بـ12 جلسة)."

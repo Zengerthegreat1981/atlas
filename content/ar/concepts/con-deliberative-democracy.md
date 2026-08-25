@@ -10,10 +10,13 @@ crumb: "الفلسفة السياسية المعاصرة ← الديمقراط�
 active_start: 1980
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الديمقراطية التداولية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deliberative-democracy", target_type: "مدرسة"
 related:
-  - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
-  - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
+- id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
+- id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Habermas 1992, Benhabib 1996, Bohman 1996) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

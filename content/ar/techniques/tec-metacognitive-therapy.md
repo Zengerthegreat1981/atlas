@@ -11,11 +11,13 @@ dates: "مانشستر · أواخر التسعينيات والألفية"
 active_start: 1995
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-transdiagnostic-cbt", title: "العلاج المعرفي السلوكي العابر للتشخيص", type: "تقنية/تدخل علاجي"
 gaps:
   - "متلازمة الانتباه المعرفي (Cognitive Attentional Syndrome - CAS) ونموذج S-REF لأدريان ويلز (Adrian Wells)."
   - "تقنيات تدريب الانتباه (Attention Training Technique - ATT) واليقظة الذهنية المنفصلة (Detached Mindfulness)."

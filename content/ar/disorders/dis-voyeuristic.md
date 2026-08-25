@@ -11,16 +11,18 @@ icd11_code: "6D30.0"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
-  - id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
+- id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
+- id: "dis-frotteuristic-disorder", title: "اضطراب الفروتيوريزم (Frotteuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6D30.0) لم تُراجع تفصيلياً."
@@ -32,7 +34,6 @@ gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # اضطراب الاستطلاع (Voyeuristic Disorder)
 
 اضطراب من اضطرابات الانحراف (Paraphilia) يتميز بإثارة جنسية متكررة ومكثفة تحدث عند مراقبة شخص عارٍ أو في حالة جنسية أو engaged في نشاط جنسي، دون علمه أو موافقته، وتستمر 6+ أشهر. **الاضطراب يُشخَّص فقط عندما يُسبّب ضائقة كبيرة أو ضعف في الأداء أو انتهاك حقوق الآخرين**.
@@ -101,3 +102,7 @@ Voyeuristic Disorder **ليس فقط مشكلة معرفية**. له مكوّن 
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Seto, M. C. (2017). "The Puzzle of Male Sexual Offending." *Annual Review of Clinical Psychology*.
 - Kafka, M. P. (2010). "Hypersexual Disorder: A Proposed Diagnosis for DSM-V." *Archives of Sexual Behavior*.
+
+## التطور التاريخي في DSM
+
+أُعيدت تسمية التلصص في DSM-5 إلى «اضطراب التلصصية» (Voyeuristic Disorder) للتفريق بين الاهتمام التلصصي النظري والاضطراب الإكلينيكي المقترن بسلوك فعلي مع أشخاص غير مدركين أو مسبب لضائقة سريرية.

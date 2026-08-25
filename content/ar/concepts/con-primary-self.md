@@ -11,14 +11,18 @@ dates: "من الخمسينيات"
 active_start: 1955
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطبيق مفهوم الذات الأولية في علاج التوحد واضطرابات الطفولة المبكرة في مدرسة لندن التحليلية."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الذات الأولية والتفكك التكاملي

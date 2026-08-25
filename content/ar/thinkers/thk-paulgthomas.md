@@ -11,12 +11,14 @@ active_start: 1979
 active_end: 1990
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "السيبرنتيكا النفسية", target_type: "مدرسة"
+- rel: "belongs_to", target: "السيبرنتيكا النفسية", target_type: "مدرسة"
 related:
-  - id: "thk-maxwell-maltz", title: "ماكسويل مالتز", type: "مفكر"
+- id: "thk-maxwell-maltz", title: "ماكسويل مالتز", type: "مفكر"
 gaps:
   - "تفاصيل سيرته الشخصية (تواريخ الميلاد والوفاة، الخلفية الأكاديمية) غير متوفرة في المصادر المتاحة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بول جي. توماس

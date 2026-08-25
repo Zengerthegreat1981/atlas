@@ -11,10 +11,15 @@ dates: "1980s–1990s"
 active_start: 1985
 active_end: 1995
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
+- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
 related:
-  - id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
+- id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 gaps:
   - "الأسماء الرئيسية (Lorna Smith Benjamin, Richard Ofshe, Elizabeth Loftus) لم تُكتب مسودات منفصلة."
   - "الجدل القضائي (False Memory Syndrome Foundation) لم يُوثّق بدقة كافية."

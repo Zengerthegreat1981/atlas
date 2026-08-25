@@ -11,20 +11,24 @@ dates: "من سبعينيات القرن العشرين"
 active_start: 1974
 active_end: "مستمر"
 language: "الفرنسية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-jbenjamin", title: "جيسيكا بنجامين", type: "مفكر"
-  - id: "thk-irigaray", title: "لوس إيريغاراي", type: "مفكر"
-  - id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
-  - id: "thk-chodorow", title: "نانسي شودورو", type: "مفكر"
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-  - id: "thk-dimen", title: "موريل دايمن", type: "مفكر"
+- id: "thk-jbenjamin", title: "جيسيكا بنجامين", type: "مفكر"
+- id: "thk-irigaray", title: "لوس إيريغاراي", type: "مفكر"
+- id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
+- id: "thk-chodorow", title: "نانسي شودورو", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "thk-dimen", title: "موريل دايمن", type: "مفكر"
+- id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب", type: "نقد خارجي موثَّق"
+- id: "crt-postmodern-critique", title: "نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي", type: "نقد خارجي موثَّق"
 gaps:
   - "نقد التحيز الأبوي والذكوري في النظرية الفرويدية الكلاسيكية حول عقدة الخصاء وحسد القضيب."
   - "إسهام فرانتز فانون في تفكيك 'العصاب الاستعماري' والاغتراب النفسي في المجتمعات المستعمرة."
 ---
-
 # التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)
 
 التيار الفكري والإكلينيكي التفكيكي الذي يعيد قراءة التحليل النفسي من منظور العدالة الاجتماعية، ونقد البنى الأبوية، والاستعمارية، والمعيارية الجنسانية.

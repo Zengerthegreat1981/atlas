@@ -10,14 +10,20 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 2006
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
-  - id: "thk-stevenharris-dc", title: "ستيفن هاريس", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ Doherty في University of Minnesota يستحق توثيقاً."
   - "العلاقة بين Discernment و'Mediation' تستحق توثيقاً."
   - "مفهوم con-ambivalence غير موجود في الفهرس — يستحق إضافة."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن هاريس (thk-stevenharris-dc)."
 ---
 
 # الإرشاد التمييزي (Discernment Counseling)

@@ -11,20 +11,22 @@ active_start: 1943
 active_end: 2000
 country: "مصر"
 language: "العربية / الفرنسية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
-  - id: "thk-hussein", title: "طه حسين", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "thk-hussein", title: "طه حسين", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "أطروحته التأسيسية 'الزمان الوجودي' (1943) وكتاب 'الوجودية والعدم' يستحقان إدراجاً في الأعمال."
+  - "علاقة 'الزمان الوجودي' (1943) بقراءته لهايدجر وابن عربي تستحق عنصراً مفاهيمياً مستقلاً."
 ---
 
 # عبد الرحمن بدوي

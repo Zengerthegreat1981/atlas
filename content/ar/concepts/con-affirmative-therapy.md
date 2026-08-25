@@ -8,13 +8,19 @@ en: "Affirmative Therapy"
 crumb: "الجنس والهوية ← العلاج التأكيدي ← المفهوم"
 active_start: 1973
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-affirmative-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-affirmative-therapy", target_type: "تيار"
 related:
-  - id: "thk-mperelman", title: "مايكل بيرلمان", type: "مفكر"
+- id: "br-lgbtq-counseling", title: "الإرشاد الخاص بالأقليات الجنسية والجندرية (LGBTQ+ Counseling)", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "التمييز بين 'Gay-Affirmative' (الأقدم، من السبعينيات) و'LGBTQ+ Affirmative' (الأوسع حالياً) يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل بيرلمان (thk-mperelman)."
 ---
 
 # العلاج التأكيدي (Affirmative Therapy)

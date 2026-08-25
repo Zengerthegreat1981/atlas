@@ -10,10 +10,13 @@ crumb: "الفلسفة السياسية المعاصرة ← الكوزموبو�
 active_start: 1980
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الكوزموبوليتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cosmopolitanism", target_type: "مدرسة"
 related:
-  - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
-  - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
+- id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Sen 1981, 1999; Nussbaum 2000, 2006) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

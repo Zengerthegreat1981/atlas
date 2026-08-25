@@ -12,13 +12,16 @@ language: "الألمانية"
 active_start: 2004
 active_end: 2004
 edges:
-  - rel: "belongs_to", target: "الفلسفة بين-ثقافية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة بين-ثقافية", target_type: "مدرسة"
 related:
-  - id: "sch-intercultural-philosophy", title: "الفلسفة بين-ثقافية", type: "مدرسة"
-  - id: "thk-wimmer", title: "فرانتس مارتن فيمر", type: "مفكر"
+- id: "sch-intercultural-philosophy", title: "الفلسفة بين-ثقافية", type: "مدرسة"
+- id: "thk-wimmer", title: "فرانتس مارتن فيمر", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة IKO الأصلية (2004) ولا الترجمات الإنجليزية الجزئية."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة البين-ثقافية (Interkulturelle Philosophie, 2004)

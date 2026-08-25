@@ -10,11 +10,16 @@ dates: "1961 · ميشيل فوكو"
 language: "الفرنسية (الأصلية)"
 active_start: 1961
 active_end: 1961
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "ما بعد البنيوية", target_type: "مدرسة"
-  - rel: "authored_by", target: "ميشيل فوكو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-foucault", target_type: "مفكر"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الطبعات الفرنسية اللاحقة (1972 مع إعادة كتابة كبيرة) وتأثيرها على الترجمة الإنجليزية (1965) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

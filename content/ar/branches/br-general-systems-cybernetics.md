@@ -11,11 +11,15 @@ dates: "الأربعينيات والخمسينيات"
 active_start: 1948
 active_end: "مستمر"
 language: "الإنجليزية / الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
-  - id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
+- id: "tec-bowen-family-systems", title: "علاج الأنساق الأسرية لبوين والتمايز الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-satir-transformational-systemic", title: "نموذج ساتير الأسري التحويلي", type: "تقنية/تدخل علاجي"
+- id: "tec-ifs", title: "علاج منظومة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
+- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "التمييز بين سيبرنطيقا الدرجة الأولى (ملاحظة النظام من الخارج والتوازن المنزلي Homeostasis) وسيبرنطيقا الدرجة الثانية (المعالج كجزء من النظام)."
   - "مؤتمرات ميسي (Macy Conferences) التأسيسية وإسهام غريغوري بيتسون في نقل الأنساق للطب النفسي."

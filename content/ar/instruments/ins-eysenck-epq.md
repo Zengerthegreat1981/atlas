@@ -8,9 +8,11 @@ en: "Eysenck Personality Questionnaire (EPQ / EPQ-R)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← استبيان آيزنك للشخصية"
 active_start: 1975
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "الأساس البيولوجي المقترح (التكوين الشبكي الصاعد للانبساط والجهاز الحوفي للعصابية) يحتاج مراجعة عصبية حديثة"
   - "تقنين النسخ العربية للأطفال والبالغين في مصر والعالم العربي يتطلب توثيقاً تاريخياً"

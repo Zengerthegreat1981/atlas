@@ -11,10 +11,10 @@ active_start: 1937
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-antisocial-personality", title: "اضطراب الشخصية المعادية للمجتمع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-antisocial-personality", title: "اضطراب الشخصية المعادية للمجتمع", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التجارب العصبية الأصلية لهاينريش كلوفر وبول بوسي على استئصال الفص الصدغي في الرئيسيات (1937-1939)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

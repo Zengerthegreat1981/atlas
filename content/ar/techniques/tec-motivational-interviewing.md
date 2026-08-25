@@ -11,11 +11,19 @@ dates: "من الثمانينيات"
 active_start: 1983
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
+- id: "con-motivational-spirit", title: "روح المقابلة التحفيزية (MI Spirit)", type: "مفهوم"
+- id: "dis-cannabis-use", title: "اضطراب استخدام الحشيش", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-hallucinogen-use", title: "اضطراب استخدام المُهلوسات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-inhalant-use", title: "اضطراب استخدام المواد المستنشقة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-opioid-use", title: "اضطراب استخدام الأفيونات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-sedative-use", title: "اضطراب استخدام المهدئات / المنومات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-stimulant-use", title: "اضطراب استخدام المنشطات", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "روح المقابلات الدافعية الأربعة لوليام ميلر وستيفن رولنيك (William Miller & Stephen Rollnick): الشراكة، القبول، الشفقة، والاستثارة (PACE)."
   - "المهارات الجوهرية الأربع OARS (الأسئلة المفتوحة، التوكيد، الاستماع العاكس، والتلخيص) واستثارة لغة التغيير (Change Talk)."

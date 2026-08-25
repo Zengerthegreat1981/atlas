@@ -11,19 +11,22 @@ active_start: 1883
 active_end: 1910
 country: "ألمانيا"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
+- id: "con-hermeneutics", title: "الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."
   - "لم يُراجع بعد من نسخة أصلية مباشرة (مقدمة إلى العلوم الإنسانية، 1883)."
   - "أُضيف بعد ملاحظة المستخدم إن اسمه مذكور في «خط تطوّر المدرسة» (طبقة 1855–1900) من غير رابط فعلي."
+  - "دُمج معه الملف المكرَّر thk-wilhelm-dilthey (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # فيلهلم دلتاي

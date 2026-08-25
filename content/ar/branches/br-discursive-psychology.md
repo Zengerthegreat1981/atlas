@@ -11,10 +11,15 @@ dates: "جامعة لوبورو · 1987"
 active_start: 1987
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
+- id: "thk-ahepburn", title: "ألكسا هِبِرن", type: "مفكر"
+- id: "thk-sspeer", title: "سوزان سبيير", type: "مفكر"
+- id: "thk-rwooffitt", title: "روبن ووفيت", type: "مفكر"
+- id: "thk-mbillig", title: "مايكل بيليغ", type: "مفكر"
+- id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
 gaps:
   - "كتاب جوناثان بوتر ومارغريت ويذرل (Potter & Wetherell) 'الخطاب وعلم النفس الاجتماعي' (1987)."
   - "تحليل المحادثة والخطاب كأفعال اجتماعية منتجة للهوية والمشاعر وليست مجرد انعكاسات سلبية للعقل الداخلي."

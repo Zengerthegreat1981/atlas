@@ -11,10 +11,10 @@ active_start: 1920
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-reactive-attachment", title: "اضطراب التعلق التفاعلي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-reactive-attachment", title: "اضطراب التعلق التفاعلي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "دراسات الأطفال المتوحشين (فيكتور الآفيروني، وجيني) ونظرية الفترات الحرجة لاكتساب اللغة (Critical Period Hypothesis)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

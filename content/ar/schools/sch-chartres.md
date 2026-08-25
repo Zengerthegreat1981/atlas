@@ -13,13 +13,13 @@ language: "اللاتينية (مع بعض اليونانية)"
 active_start: 1000
 active_end: 1230
 edges:
-  - rel: "evolved_from", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الأفلاطونية المحدثة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-  - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-  - id: "sch-victorines", title: "الفيكتورية", type: "مدرسة"
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "thk-bernardo-chartres", title: "برنارد من شارتر", type: "مفكر"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-victorines", title: "الفيكتورية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "thk-bernardo-chartres", title: "برنارد من شارتر", type: "مفكر"
 gaps:
   - "نصوص تييري من شارتر وبرنارد من شارتر باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Heptateuchon' أو 'De Mundi Universitate'."

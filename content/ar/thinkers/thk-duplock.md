@@ -9,12 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← سايمون دو ب�
 dates: "بريطانيا · معاصر"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره في تأسيس وإدارة برامج الدكتوراه في العلاج الوجودي في معهد ميتانوييا وجامعة ميدلسكس يحتاج توثيقاً."

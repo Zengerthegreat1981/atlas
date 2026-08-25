@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← راندي هوتون"
 edges:
-  - rel: "belongs_to", target: "العلاج البدائي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البدائي / صرخة الولادة", target_type: "مدرسة"
 related:
-  - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

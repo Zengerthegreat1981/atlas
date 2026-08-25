@@ -9,10 +9,11 @@ en: "Elliot Aronson's Jigsaw Classroom Study"
 crumb: "علم النفس الاجتماعي والتربوي ← الدراسات والأبحاث ← دراسة أرونسون لغرفة الألغاز"
 active_start: 1971
 active_end: 1977
-edges: []
+edges:
+  []
 related:
-  - id: "stu-robbers-cave", title: "تجربة كهف اللصوص لمظفر شريف", type: "دراسة وبحث"
-  - id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
+- id: "stu-robbers-cave", title: "تجربة كهف اللصوص لمظفر شريف", type: "دراسة وبحث"
+- id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
 gaps:
   - "تطبيق الاستراتيجية في أوستن بتكساس أثناء دمج المدارس العرقي عام 1971."
   - "لا يوجد اقتباس مباشر موثوق متاح."

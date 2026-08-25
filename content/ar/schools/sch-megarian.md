@@ -13,13 +13,13 @@ language: "اليونانية"
 active_start: -430
 active_end: -280
 edges:
-  - rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
-  - rel: "evolved_into", target: "الشك الأكاديمي", target_type: "مدرسة"
-  - rel: "evolved_into", target: "الشك البيروني", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-pyrrhonism", target_type: "مدرسة"
 related:
-  - id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-  - id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
-  - id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
 gaps:
   - "نصوص الميغاريين مفقودة بالكامل؛ معلوماتنا تأتي عبر ديوجانس اللايرتي، شيشرون، شيشرونوس، بلوتارخ، وأفلاطون (تعرض لهم في 'السفسطائي' و'الأشكال')."
   - "إقليدس الميغاري و'صاحب المصادرة' (Euclid of Megara) لا يُعرف تاريخ حياته بالضبط."

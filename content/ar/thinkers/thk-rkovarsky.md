@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رِكُورْ
 dates: "إيطاليا · [غير مؤكد]"
 country: "إيطاليا"
 language: "الإيطالية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-jmertz", title: "[مؤسِّسو أعمدة Rivista di Psicologia Analitica]", type: "مفكر"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "سيرة محدودة."

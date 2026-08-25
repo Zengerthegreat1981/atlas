@@ -1,0 +1,26 @@
+---
+slug: "crt-derrida-critique-of-logocentrism"
+id: "CRT-0039"
+type: "نقد خارجي موثَّق"
+part: "philosophy"
+level: "متقدم"
+title: "نقد دريدا للتمركز حول اللوغوس وميتافيزيقا الحضور"
+en: "Derrida's Critique of Logocentrism and Metaphysics of Presence"
+crumb: "التفكيكية ← الانتقادات النسقية ← نقد التمركز حول اللوغوس"
+active_start: 1967
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-deconstruction", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
+gaps:
+  - "تفكيك الثنائيات التراتبية في الفكر الغربي (الكلام/الكتابة، العقل/الجسد، الداخل/الخارج)."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# نقد دريدا للتمركز حول اللوغوس وميتافيزيقا الحضور
+
+النقد التفكيكي المحوري لتاريخ الفلسفة الغربية؛ كشف فيه دريدا أن الميتافيزيقا من أفلاطون إلى هايدغر قامت على وهم «حضور المعنى الكامل والمباشر في الصوت والكلام» وتهميش الكتابة والانتشار؛ وفكك الثنائيات الضدية التي تمنح طرفاً أفضلية وهمية على الآخر.

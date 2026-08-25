@@ -10,12 +10,15 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1920
 active_end: 1955
+part: "psychology"
+crumb: "الأطلس ← thinkers ← بيار تيار دي شاردان"
 edges:
-  - rel: "belongs_to", target: "علم النفس التكاملي (Integral)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس التكاملي (Integral)", target_type: "مدرسة"
 related:
-  - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
+- id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بيار تيار دي شاردان

@@ -11,21 +11,26 @@ active_start: 1955
 active_end: 1966
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-dewaelhens", title: "ألفونس دي فالهنز", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-dewaelhens", title: "ألفونس دي فالهنز", type: "مفكر"
+- id: "wrk-foucault-madness-civilization", title: "الجنون والحضارة (Madness and Civilization)", type: "عمل / كتاب"
+- id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
+- id: "ctx-psychoanalytic-tradition", title: "التقليد التحليلي النفسي", type: "سياق/تقليد"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "ترجمته ونقاشه مع مارتن هايدجر (سيمينار القلق وندوات تسوليكون) يستحق توثيقاً مقارناً مستقلاً."
 ---
-
 # جاك لاكان
 
 طبيب نفسي ومحلل نفسي فرنسي شهير، أعاد قراءة فرويد بنيوياً وفلسفياً، وتأثرت مرحلته التأسيسية بعمق بهيغل (عبر كوجيف) وهايدجر والوجودية الفرنسية.

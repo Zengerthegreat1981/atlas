@@ -7,19 +7,20 @@ level: "متوسط"
 title: "نيك بوستروم"
 en: "Nick Bostrom"
 crumb: "الفلسفة ← العابرة ← الإنسانية العابرة ← بوستروم"
-dates: "1973– · السويد"
+dates: "السويد · 1973–"
 country: "السويد / المملكة المتحدة / الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1997
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية العابرة (Transhumanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإنسانية العابرة (Transhumanism)", target_type: "مدرسة"
 related:
-  - id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
+- id: "wrk-superintelligence-bostrom", title: "الذكاء الخارق (Superintelligence)", type: "عمل / كتاب"
+- id: "con-existential-risk", title: "الخطر الوجودي (Existential Risk)", type: "مفهوم"
+- id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press لـ *Superintelligence* (2014)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # نيك بوستروم (Nick Bostrom, 1973–)
@@ -42,7 +43,6 @@ gaps:
 
 ## الأثر
 
-- أسّس **Future of Life Institute** (2014) لِدراسة سلامة الذكاء الاصطناعي.
 - أثّر في **OpenAI** و**DeepMind** و**Anthropic** (شركات الذكاء الاصطناعي).
 - أثّر في **الأمم المتحدة** و**السياسات** الدولية (AI Safety Summit, 2023).
-- شكّل **مرجعاً** لِحركة Longtermism (Hans Rosling, William MacAskill).
+- شكّل **مرجعاً** لحركة «النزعة بعيدة المدى» (Longtermism) عند توبي أورد ووليام ماكاسكِل.

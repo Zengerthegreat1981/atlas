@@ -8,9 +8,15 @@ en: "Applied Behavior Analysis for Autism"
 crumb: "المفاهيم ← مدارس علاجية متخصصة ← ABA للتوحد"
 active_start: 1960
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "ABA للتوحد", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-aba-autism", target_type: "مدرسة"
 related:
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "con-behavioral-epilepsy", title: "العلاج السلوكي للصرع", type: "مفهوم"
+- id: "con-teacch", title: "TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أعمال Lovaas الكاملة لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

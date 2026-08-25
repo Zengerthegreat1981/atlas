@@ -13,11 +13,13 @@ language: "الإنجليزية"
 active_start: 1962
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فلسفة البيئة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
-  - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
-  - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-  - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
+- id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
+- id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"
+- id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية (The Ecology of Freedom)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«Murray Bookchin» (sch-bookchin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Murray Bookchin (The Ecology of Freedom, 1982) need review."

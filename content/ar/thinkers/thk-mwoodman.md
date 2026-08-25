@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ماريون �
 dates: "كندا · 1928–2018"
 country: "كندا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2018
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
-  - id: "con-feminine-principle", title: "المبدأ الأنثوي", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "con-feminine-principle", title: "المبدأ الأنثوي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تفاصيل علاجها الشخصي من anorexia وkidney collapse — موثّقة في كتبها لكن تحتاج قراءة معمّقة."

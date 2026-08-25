@@ -11,15 +11,20 @@ active_start: 1941
 active_end: 1976
 country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "rel-humanistic", title: "الإنساني — القرابة الملتبسة", type: "علاقة بين مدرستين"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "rel-humanistic", title: "الإنساني — القرابة الملتبسة", type: "علاقة بين مدرستين"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "evt-weimar-congress-split-1911", title: "انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي", type: "حدث تاريخي"
+- id: "br-integrative-psychoanalysis", title: "التحليل النفسي التكاملي", type: "تيار"
+- id: "br-neo-freudian", title: "الفرويدية الجديدة والتحليل البيني-الشخصي", type: "تيار"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تحليله لآليات الهروب من الحرية (النزعة الامتثالية والسلطوية) يستحق توثيقاً موسعاً في المفاهيم."

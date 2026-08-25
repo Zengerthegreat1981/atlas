@@ -11,12 +11,14 @@ active_start: 2011
 active_end: 2021
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-integrative-psychoanalysis", title: "التحليل النفسي التكاملي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "منهجيتها في 'الفينومينولوجيا العلائقية والانعكاسية الجسدية' (Relational Reflexivity) تستحق إدراجاً في أدوات البحث الإكلينيكي."

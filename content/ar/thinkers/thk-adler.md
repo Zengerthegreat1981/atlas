@@ -9,13 +9,22 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ألفرد أ�
 dates: "النمسا / أمريكا · 1870–1937"
 country: "النمسا / أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 1937
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "evt-weimar-congress-split-1911", title: "انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي", type: "حدث تاريخي"
+- id: "syn-middle-child", title: "متلازمة الطفل الأوسط والبحث عن الهوية (Middle Child Syndrome)", type: "متلازمة"
+- id: "syn-only-child", title: "متلازمة الطفل الوحيد وسيكولوجيا فرط الحماية", type: "متلازمة"
+- id: "br-schultz-hencke", title: "التحليل النفسي الجديد (شولتز-هينكه)", type: "تيار"
+- id: "wrk-adler-understanding-human-nature", title: "كتاب فهم الطبيعة البشرية لألفرد أدلر (1927)", type: "عمل / كتاب"
+- id: "ctx-vienna-fin-de-siecle-psychoanalysis", title: "فيينا نهاية القرن التاسع عشر وحاضنة ولادة التحليل النفسي", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفاهيم 'عقدة النقص' و'الاهتمام الاجتماعي' (Gemeinschaftsgefühl) وأسلوب الحياة تستحق إدراجاً مفاهيمياً."

@@ -11,10 +11,13 @@ crumb: "علم النفس الشعبي والتنمية الذاتية ← ال�
 active_start: 2006
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والتنمية الذاتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والتنمية الذاتية", target_type: "مدرسة"
 related:
-  - id: "wrk-the-secret", title: "السر: قانون الجذب", type: "عمل / كتاب"
-  - id: "thk-rhonda-byrne", title: "روندا بايرن", type: "مفكر"
+- id: "wrk-the-secret", title: "السر: قانون الجذب", type: "عمل / كتاب"
+- id: "thk-rhonda-byrne", title: "روندا بايرن", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الأصول التاريخية لحركة الفكر الجديد (New Thought) في القرن التاسع عشر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

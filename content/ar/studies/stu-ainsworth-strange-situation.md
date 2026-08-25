@@ -8,9 +8,14 @@ en: "Ainsworth's Strange Situation Paradigm and Attachment Classifications"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة أينسورث للموقف الغريب"
 active_start: 1969
 active_end: 1978
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"
+- id: "exp-mary-ainsworth-uganda-infants", title: "رحلة ماري أينسورث إلى أوغندا ومراقبة تفاعل الأمهات والغرباء", type: "خبرة معيشة"
+- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "إضافة النمط الرابع (التعلّق غير المنظم/المربك) بواسطة ماري مين (Mary Main) عام 1986 يحتاج توثيقاً متصلاً"
   - "الفروق الثقافية في نسب التعلّق التجنبي والقلق (مثل ألمانيا واليابان) تتطلب مراجعة من دراسات Van IJzendoorn"

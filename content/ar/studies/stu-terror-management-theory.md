@@ -6,13 +6,20 @@ level: "متقدم"
 title: "دراسات نظرية إدارة الرعب"
 en: "Terror Management Theory (TMT) Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات نظرية إدارة الرعب"
-edges:[]
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
+- id: "thk-greenberg", title: "جيف غرينبرغ", type: "مفكر"
+- id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
+- id: "con-being-toward-death", title: "الكينونة-نحو-الموت", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد مصدر أولي محقق مباشر لهذا الخط البحثي ضمن مكتبة هذا المشروع؛ هذا وصف عام من معرفة متراكمة يحتاج تحققاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # دراسات نظرية إدارة الرعب

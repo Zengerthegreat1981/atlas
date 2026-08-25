@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2015
 active_end: 2015
 edges:
-  - rel: "belongs_to", target: "علم النفس الإكلينيكي وعلاج الصدمات التطورية", target_type: "مدرسة"
-  - rel: "written_by", target: "ليندسي جيبسون", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الإكلينيكي وعلاج الصدمات التطورية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-lindsay-gibson", target_type: "مفكر"
 related:
-  - id: "thk-lindsay-gibson", title: "ليندسي جيبسون", type: "مفكر"
+- id: "con-emotional-immaturity-parents", title: "اللاتنضج العاطفي الوالدي والإهمال غير المرئي", type: "مفهوم"
+- id: "thk-lindsay-gibson", title: "ليندسي جيبسون", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

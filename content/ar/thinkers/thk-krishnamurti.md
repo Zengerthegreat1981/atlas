@@ -10,12 +10,18 @@ country: "الهند"
 language: "الإنجليزية"
 active_start: 1922
 active_end: 1986
+part: "psychology"
+crumb: "الأطلس ← thinkers ← جيدو كريشنامورتي"
 edges:
-  - rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
 related:
-  - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
+- id: "thk-sheena-iyengar", title: "شيina آيَنغَر", type: "مفكر"
+- id: "thk-iyengar", title: "بي. كيه. إس. آيَنغَر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # جيدو كريشنامورتي
@@ -27,7 +33,7 @@ gaps:
 - **"الانتباه"** (Attention): التركيز على الانتباه اللحظي كمدخل للتحرر من "أنا" المنفصلة.
 - **"الخوف النفسي"** (Psychological Fear): تحليل الخوف كحاجز بين الذات والواقع.
 - **"حوار لا تلميذ"**: تأكيد أنه لا يوجد معلم ولا متعلم، فقط حوار حر.
-- **"نقد الماورائيات"** (Metaphysical Nihilism): رفض كل أنماط التصنيف الفلسفي.
+- **"نقد الميتافيزيقا"** (Critique of Metaphysics): رفض كل أنماط التصنيف الفلسفي.
 
 ## موقعه من التيار
 

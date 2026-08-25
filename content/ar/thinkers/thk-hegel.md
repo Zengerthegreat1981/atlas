@@ -8,18 +8,21 @@ en: "Georg Wilhelm Friedrich Hegel"
 crumb: "المدرسة الوجودية ← الناس ← جورج فيلهلم فريدريش هيغل"
 dates: "ألمانيا · 1770–1831"
 active_start: 1807
-active_end: 1821
+active_end: 1831
 language: "الألمانية"
 country: "ألمانيا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
-  - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-  - id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
+- id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 gaps:
   - "تواريخ النشر الدقيقة لبعض أعماله (خصوصاً أجزاء علم المنطق) قد تحتاج تحققاً من الطبعة الأصلية."
   - "علاقته الفكرية المبكرة بشيلينغ وهولدرلين (زمالة معهد توبنغن اللاهوتي) موثقة تاريخياً لكنها غير مربوطة هنا بعد — تحتاج اقتراح ربط منفصل."

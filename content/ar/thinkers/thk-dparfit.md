@@ -13,9 +13,9 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: 2017
 edges:
-  - rel: "belongs_to", target: "النفعية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "النفعية المعاصرة", target_type: "مدرسة"
 related:
-  - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
+- id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لتطور موقف بارفيت من 'الشخصانية' (person-affecting) لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'الأسباب والأشخاص' (1984)."

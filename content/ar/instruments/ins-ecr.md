@@ -8,9 +8,11 @@ en: "Experiences in Close Relationships Scale (ECR / ECR-R)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس الخبرات في العلاقات الحميمة ECR"
 active_start: 1998
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "المقارنة بين النسخة الأصلية ECR والنسخة المنقحة بنظرية الاستجابة للمفردة (ECR-R) لـ Fraley تحتاج تفصيلاً"
   - "تقنين النسخ العربية المعتمدة في الإرشاد الزواجي والأسري يتطلب توثيقاً"

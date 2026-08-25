@@ -11,10 +11,11 @@ dates: "بوسطن · الستينيات"
 active_start: 1961
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-psychodrama", title: "السيكودراما", type: "تقنية/تدخل علاجي"
+- id: "tec-psychodrama", title: "السيكودراما", type: "تقنية/تدخل علاجي"
 gaps:
   - "ابتكار ألبرت بيسو وديان بويدين (Albert Pesso & Diane Boyden) لتقنية 'البناء الهيكلي التفاعلي' (The Structure) والأشكال المثالية البديلة (Ideal Figures)."
   - "خلق 'ذكريات مركبة جديدة' (Synthetic Memories) تشبع الاحتياجات النمائية الأساسية الخمسة (المكان، التغذية، الدعم، الحماية، والحدود)."

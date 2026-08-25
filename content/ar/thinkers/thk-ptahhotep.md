@@ -12,10 +12,15 @@ language: "المصرية القديمة (الهيروغليفية)"
 active_start: -2450
 active_end: -2400
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← بتاح حتب"
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة المصرية (ماعت)", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقليد الحكمة المصرية (ماعت)", target_type: "مدرسة"
 related:
-  - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
+- id: "wrk-instructions-ptahhotep", title: "تعاليم بتاح حتب", type: "عمل / كتاب"
+- id: "wrk-maxims-ptahhotep", title: "حكم وتعاليم بتاح حتب", type: "عمل / كتاب"
+- id: "con-maat-ethics", title: "ماعت — النظام الأخلاقي والكوني (Ma'at)", type: "مفهوم"
+- id: "con-maat", title: "ماعت (التناغم الكوني)", type: "مفهوم"
+- id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
 gaps:
   - "الشخصية التاريخية لبتاح حتب غير مؤكدة على نطاق واسع بين علماء المصريات."
   - "لا توجد ترجمة معتمدة موحدة لـ«تعاليم بتاح حتب» (Instructions of Ptahhotep) متاحة بالعربية."

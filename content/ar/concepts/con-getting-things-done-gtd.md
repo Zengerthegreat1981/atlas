@@ -11,10 +11,13 @@ crumb: "علم النفس الشعبي وإدارة الإنتاجية ← ال�
 active_start: 2001
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
 related:
-  - id: "wrk-getting-things-done", title: "إنجاز المهام", type: "عمل / كتاب"
-  - id: "thk-david-allen", title: "ديفيد ألين", type: "مفكر"
+- id: "wrk-getting-things-done", title: "إنجاز المهام", type: "عمل / كتاب"
+- id: "thk-david-allen", title: "ديفيد ألين", type: "مفكر"
+- id: "con-zeigarnik-effect", title: "تأثير زيغارنيك (قوة تذكر المهام المفتوحة وغير المنجزة)", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تأثير تأثير زيغارنيك (Zeigarnik Effect) في تفسير التوتر الناتج عن المهام غير المكتملة في الذاكرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

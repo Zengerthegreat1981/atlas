@@ -9,13 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو
 dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
-  - id: "thk-kalff", title: "دورا كالف", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
+- id: "thk-kalff", title: "دورا كالف", type: "مفكر"
 gaps:
   - "عنصر placeholder — أسماء المؤسِّسين الفعليين لـ JST غير موثّقة مركزياً."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # مؤسِّسو العلاج باللعب الرملي في اليابان (placeholder)
@@ -24,7 +29,7 @@ gaps:
 
 ## أبرز الشخصيات (التي يمكن تفصيلها في ملفات لاحقة)
 
-- **Y. Sato** — رئيس JST (2000s)
+- **Y. Sato** — رئيس JST (العقد الأول من القرن الحادي والعشرين)
 - **M. Ito** — كاتبة «Sandplay and Japanese Imaginal World»
 - **K. Ueda** — تربوي، طبّق العلاج في مدارس طوكيو
 - **K. Okonogi** — طبيب نفسي، صاحب منظور «اللاوعي الأمومي الياباني»

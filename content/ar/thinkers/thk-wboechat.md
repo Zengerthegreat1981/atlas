@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فالتَر �
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
-  - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-rcukierman", title: "روخِريو كوكيَرمان", type: "مفكر"
+- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-تدرّب في زيورخ (AGAP، تحت إشراف Murray Stein)، وعاد إلى ساوباولو ليؤسّس AJB كهيئة تحليلية منفصلة عن SBrPA، أكثر انفتاحاً على «علم نفس الأركيتيب» (Hillman). كذلك شارك في تأليف «Devouring and Asphyxia: Symptoms of a Cultural Complex in Present Times» (2022، مع L. Wahba)، الذي قُدّم في IAAP Buenos Aires 2022. كذلك يشرف على «الجمعية البرازيلية للتحليلية في جنوب البرازيل» (2000s).
+تدرّب في زيورخ (AGAP، تحت إشراف Murray Stein)، وعاد إلى ساوباولو ليؤسّس AJB كهيئة تحليلية منفصلة عن SBrPA، أكثر انفتاحاً على «علم نفس الأركيتيب» (Hillman). كذلك شارك في تأليف «Devouring and Asphyxia: Symptoms of a Cultural Complex in Present Times» (2022، مع L. Wahba)، الذي قُدّم في IAAP Buenos Aires 2022. كذلك يشرف على «الجمعية البرازيلية للتحليلية في جنوب البرازيل» (العقد الأول من القرن الحادي والعشرين).
 
 ## موقعه من التيار
 

@@ -13,11 +13,14 @@ active_start: -240
 active_end: -200
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الشرعية / القانونية", target_type: "مدرسة"
-  - rel: "authored_by", target: "هان في تزو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-legalism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-hanfeizi", target_type: "مفكر"
 related:
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفصل بين الفصول الأصلية (5، 49، 50) والفصول المنسوبة (الباقي) لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

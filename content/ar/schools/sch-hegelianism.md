@@ -13,22 +13,26 @@ language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1807
 active_end: 1900
 edges:
-  - rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مدرسة"
-  - rel: "split_into", target: "الهيغلية اليمينية", target_type: "مدرسة"
-  - rel: "split_into", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
+- rel: "split_into", target: "sch-hegel-right", target_type: "مدرسة"
+- rel: "split_into", target: "sch-hegel-left", target_type: "مدرسة"
 related:
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
-  - id: "sch-hegel-right", title: "الهيغلية اليمينية", type: "مدرسة"
-  - id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "sch-hegel-right", title: "الهيغلية اليمينية", type: "مدرسة"
+- id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
+- id: "trm-zeitgeist-hegel", title: "روح العصر (Zeitgeist): الوعي الجماعي الحاكم لمرحلة تاريخية", type: "مصطلح لغوي متنازع عليه"
+- id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
+- id: "thk-feuerbach", title: "لودفيغ أندرياس فيورباخ", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«فرانسيس هربرت برادلي» (thk-bradley) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جوزياه رويس» (thk-royce) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الطبعات المختلفة من مؤلفات هيغل (وفا، هولدرلين، لاسون، مولدرمان-زورك) لم تُقارن في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # الهيغلية (Hegelianism)
 
 مذهب فلسفي مؤسِّسه جورج فيلهلم فريدريش هيغل (1770–1831)، قوامه أن **الواقع كله تعبير عن الفكرة المطلقة في تطور ضروري** عبر ثلاثية الجدل (Thesis/Antithesis/Synthesis). ذروته بين 1807 («ظاهراتية الروح») و1831 (وفاة هيغل)، مع تأثير امتد لعقود في ألمانيا والمملكة المتحدة وإيطاليا وفرنسا.

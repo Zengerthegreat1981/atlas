@@ -11,13 +11,15 @@ dates: "نيفادا · من التسعينيات"
 active_start: 1999
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "القبول والالتزام", target_type: "مدرسة"
-  - rel: "developed_by", target: "ستيفن هايز", target_type: "مفكر"
+- rel: "belongs_to", target: "rel-act", target_type: "مدرسة"
+- rel: "developed_by", target: "ستيفن هايز", target_type: "مفكر"
 related:
-  - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
-  - id: "dia-existential-act-encounter", title: "لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)", type: "حوار مع مدرسة مجاورة"
-  - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
+- id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
+- id: "dia-existential-act-encounter", title: "لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)", type: "حوار مع مدرسة مجاورة"
+- id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
+- id: "tec-acceptance-based-bt", title: "العلاج السلوكي القائم على القبول (ABBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "أعمدة المرونة النفسية الستة (Hexaflex): القبول، فك الاندماج المعرفي، الحضور هنا والآن، الذات كسياق، القيم، والفعل الملتزم."
   - "التقاطع الإكلينيكي والفلسفي العميق بين مصفوفة ACT وقضايا الحرية والمسؤولية والوجود الأصيل في المدرسة الوجودية."

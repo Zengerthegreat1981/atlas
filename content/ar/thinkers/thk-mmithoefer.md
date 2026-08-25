@@ -10,14 +10,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2008
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← مايكل ميثوفير"
 edges:
-  - rel: "belongs_to", target: "العلاج بمساعدة النفسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بمساعدة النفسانية", target_type: "مدرسة"
 related:
-  - id: "thk-wrichards", title: "وليام ريتشاردز", type: "مفكر"
-  - id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
+- id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
+- id: "thk-rick-doblin", title: "ريك دوبان", type: "مفكر"
+- id: "thk-amithoefer", title: "آن ميثوفير", type: "مفكر"
+- id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
+- id: "thk-wrichards", title: "وليام ريتشاردز", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رولاند غريفيثز (thk-griffiths)."
 ---
 
 # مايكل ميثوفير

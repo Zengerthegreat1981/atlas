@@ -13,12 +13,14 @@ language: "الفرنسية، الألمانية، الإيطالية، الرو
 active_start: 1840
 active_end: 1900
 edges:
-  - rel: "evolved_into", target: "الفوضوية المعاصرة", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-anarchism-contemporary", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegel-left", target_type: "مظلة"
 related:
-  - id: "thk-proudhon", title: "بيير جوزيف برودون", type: "مفكر"
-  - id: "thk-bakunin", title: "ميخائيل باكونين", type: "مفكر"
-  - id: "thk-stirner", title: "ماكس شتيرنر", type: "مفكر"
+- id: "thk-proudhon", title: "بيير جوزيف برودون", type: "مفكر"
+- id: "thk-bakunin", title: "ميخائيل باكونين", type: "مفكر"
+- id: "thk-stirner", title: "ماكس شتيرنر", type: "مفكر"
+- id: "con-self-ownership", title: "الحق الذاتي (ملكية الذات)", type: "مفهوم"
+- id: "con-eternal-return", title: "العودة الأبدية (Ewige Wiederkehr)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«بيتر كروبوتكين» (thk-kropotkin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "دور بنيامين تكر (Benjamin Tucker) في الأناركية الأمريكية لم يُغطَ في هذا الملف."

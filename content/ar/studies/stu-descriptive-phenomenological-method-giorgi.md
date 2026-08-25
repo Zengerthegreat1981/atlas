@@ -6,13 +6,16 @@ level: "متقدم"
 title: "المنهج الفينومينولوجي الوصفي (جيورجي)"
 en: "The Descriptive Phenomenological Method (Giorgi)"
 crumb: "المدرسة الوجودية ← الدراسات والبحوث ← المنهج الفينومينولوجي الوصفي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
-  - id: "stu-heuristic-research", title: "البحث الكشفي / الاستكشافي (Heuristic Research)", type: "دراسة وبحث"
+- id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
+- id: "stu-heuristic-research", title: "البحث الكشفي / الاستكشافي (Heuristic Research)", type: "دراسة وبحث"
 gaps:
   - "رابط مقترح لـ«الظواهرية» (con-phenomenology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتاب جيورجي 'The Descriptive Phenomenological Method in Psychology' (2009) يستحق مراجعة من المصدر الأولي للخطوات الخمس."

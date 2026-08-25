@@ -1,0 +1,27 @@
+---
+slug: "con-knowledge-by-presence-ilm-huduri"
+id: "CON-1053"
+type: "مفهوم"
+part: "philosophy"
+level: "متقدم"
+title: "العلم الحضوري والشهود الذاتي (Knowledge by Presence)"
+en: "Knowledge by Presence (Ilm Huduri)"
+crumb: "الفلسفة الإشراقية ← نظرية المعرفة الإشراقية ← العلم الحضوري"
+active_start: 1180
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-suhrawardi", title: "السهروردي", type: "مفكر"
+- id: "thk-mulla-sadra", title: "ملا صدرا", type: "مفكر"
+gaps:
+  - "المقارنة بين العلم الحضوري عند السهروردي والمعرفة المباشرة بالوعي الذاتي في الفينومينولوجيا الحديثة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# العلم الحضوري والشهود الذاتي (Knowledge by Presence)
+
+المفهوم الإبستمولوجي التأسيسي في الفلسفة الإشراقية والحكمة المتعالية؛ يميز بين «العلم الحصولي» (المعرفة غير المباشرة المكتسبة بارتسام صورة الشيء في العقل كالتعريفات المنطقية) و«العلم الحضوري» (المعرفة الشهودية المباشرة التي تحضر فيها حقيقة الشيء ووجوده العيني لدى العالم كمعرفة الذات بذاتها وألمها ووجدانها دون وسيط صوري).

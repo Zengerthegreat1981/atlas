@@ -11,11 +11,16 @@ active_start: 1985
 active_end: 2021
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج النفسي النسوي — الإنسانية وما بعدها", target_type: "مدرسة"
 related:
+- id: "crt-borderline-gendered-diagnosis", title: "اضطراب الشخصية الحدية: تشخيص جندري؟", type: "نقد خارجي موثَّق"
+- id: "thk-mpbargreen", title: "ماري بيندر غرين", type: "مفكر"
+- id: "thk-sbem", title: "ساندرا بيم", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بولا كابلان

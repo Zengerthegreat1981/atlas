@@ -10,10 +10,15 @@ crumb: "الفلسفة ← المسيحية ← التصوف الوسيط ← ا
 active_start: 1320
 country: "ألمانيا"
 language: "الألمانية الوسطى"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التصوّف المسيحي الوسيط", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-christian-mysticism-medieval", target_type: "مدرسة"
 related:
-  - id: "sch-christian-mysticism-medieval", title: "التصوّف المسيحي الوسيط", type: "مدرسة"
+- id: "sch-christian-mysticism-medieval", title: "التصوّف المسيحي الوسيط", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين Gelassenheit عند إيكهارت وعند تاولر موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'Buch der göttlichen Tröstung'."

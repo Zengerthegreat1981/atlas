@@ -6,16 +6,20 @@ level: "متقدم"
 title: "مفهوم التهكم (مع إشارة خاصة لسقراط)"
 en: "The Concept of Irony (Kierkegaard, 1841)"
 crumb: "المدرسة الوجودية ← الأعمال ← مفهوم التهكم (كيركيغارد)"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-socrates", title: "سقراط", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-socrates", title: "سقراط", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
   - "النص الأصلي 'Om Begrebet Ironi' (1841) لكيكيغارد يحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # مفهوم التهكم (1841)

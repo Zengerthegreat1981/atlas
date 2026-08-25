@@ -10,10 +10,16 @@ dates: "1983 · هوارد غاردنر"
 language: "الإنجليزية"
 active_start: 1983
 active_end: 1983
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "هوارد غاردنر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "هوارد غاردنر", target_type: "مفكر"
 related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "أدلة التجريبية اللاحقة (نقد Willingham 2004) لم تُراجع بعمق."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

@@ -11,13 +11,14 @@ active_start: 1954
 active_end: 1963
 country: "إيطاليا"
 language: "الإيطالية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مشروعه في 'الفينومينولوجيا وعالم الحياة (Lebenswelt) والنقد الماركسي' يستحق توثيقاً."

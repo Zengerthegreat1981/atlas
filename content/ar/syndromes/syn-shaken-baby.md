@@ -11,10 +11,10 @@ active_start: 1972
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-munchausen-by-proxy", title: "متلازمة مونخهاوزن بالوكالة", type: "متلازمة"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-munchausen-by-proxy", title: "متلازمة مونخهاوزن بالوكالة", type: "متلازمة"
 gaps:
   - "أبحاث جون كافي ونورمان غوثكيلش (Caffey & Guthkelch 1972) في الطب العصبي الشرعي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

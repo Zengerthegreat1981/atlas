@@ -11,12 +11,13 @@ active_start: 1952
 active_end: 1972
 country: "النمسا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ دائرة فيينا للتحليل التكويني والشخصاني يحتاج توثيقاً إضافياً في الأدبيات العربية."

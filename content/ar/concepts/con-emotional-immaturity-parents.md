@@ -11,10 +11,13 @@ crumb: "علم النفس الإنمائي والعائلي ← المفاهيم
 active_start: 2015
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنمائي والعائلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإنمائي والعائلي", target_type: "مدرسة"
 related:
-  - id: "wrk-emotionally-immature-parents", title: "أبناء الآباء غير الناضجين عاطفياً", type: "عمل / كتاب"
-  - id: "thk-lindsay-gibson", title: "ليندسي جيبسون", type: "مفكر"
+- id: "wrk-emotionally-immature-parents", title: "أبناء الآباء غير الناضجين عاطفياً", type: "عمل / كتاب"
+- id: "thk-lindsay-gibson", title: "ليندسي جيبسون", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الأثر التراكمي للإهمال العاطفي في مرحلة الطفولة المبكرة (CEN)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

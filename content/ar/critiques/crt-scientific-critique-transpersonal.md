@@ -8,15 +8,21 @@ en: "Scientific Critique of Transpersonal Psychology and Spirituality: Pseudosci
 crumb: "النقد الخارجي ← النقد العلمي ← نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "عبر الشخصية", target_type: "مدرسة"
-related:  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
-  - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
-  - "تفاصيل Raimo (1997) في *Pseudoscience and Idolatry* — لا اقتباس."
-  - "موقف Wilber (1995) في *Sex, Ecology, Spirituality* — لا اقتباس."
-  - "لا اقتباس مباشر موثوق متاح من Wilber ردّ على النقد العلمي."
+- rel: "relates_to", target: "عبر الشخصية", target_type: "مدرسة"
+related:
+- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
+- id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
+- "تفاصيل Raimo (1997) في *Pseudoscience and Idolatry* — لا اقتباس."
+- "موقف Wilber (1995) في *Sex, Ecology, Spirituality* — لا اقتباس."
+- "لا اقتباس مباشر موثوق متاح من Wilber ردّ على النقد العلمي."
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---
 
 # نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات: علم زائف؟

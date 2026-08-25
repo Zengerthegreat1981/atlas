@@ -6,14 +6,17 @@ level: "متقدم"
 title: "بيان النادائية (Nadaísmo) — العدمية الكولومبية"
 en: "Nadaísta Manifesto (Arango, 1958)"
 crumb: "المدرسة الوجودية ← البديهيات والمبادئ التأسيسية ← بيان النادائية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-arango", title: "غونزالو أرانغو", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-arango", title: "غونزالو أرانغو", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«العدم» (con-nothingness) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النص الأصلي لـ 'Manifiesto Nadaísta' (1958) يحتاج مراجعة من المصدر الأولي للاقتباسات الدقيقة."

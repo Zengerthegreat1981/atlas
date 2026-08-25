@@ -11,10 +11,11 @@ dates: "منتصف القرن العشرين"
 active_start: 1964
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-cognitive-hypnotherapy", title: "التنويم الإيحائي المعرفي", type: "تقنية/تدخل علاجي"
+- id: "tec-cognitive-hypnotherapy", title: "التنويم الإيحائي المعرفي", type: "تقنية/تدخل علاجي"
 gaps:
   - "خطوات استحثاث ديف إلمان التنويمي السريع (Dave Elman Induction) وتجاوز العامل الناقد (Critical Factor)."
   - "تطبيقات تقنية إلمان في التخدير الطبي، والسيطرة على الألم الحاد، وطب الأسنان."

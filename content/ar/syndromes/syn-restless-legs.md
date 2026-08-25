@@ -11,10 +11,11 @@ active_start: 1945
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-akathisia", title: "متلازمة التململ الحركي الحاد والأكاثيسيا الدوائية", type: "متلازمة"
 gaps:
   - "أبحاث كارل أكسل إيكبوم (Karl-Axel Ekbom 1945) ودور مسارات الدوبامين ونقص الحديد في الدماغ."
   - "لا يوجد اقتباس مباشر موثوق متاح."

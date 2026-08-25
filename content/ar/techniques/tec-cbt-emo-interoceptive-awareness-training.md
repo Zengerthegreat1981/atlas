@@ -11,13 +11,18 @@ dates: "من التسعينيات"
 active_start: 1991
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساس الداخلي", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
-  - id: "sch-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساس الداخلي", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-arfid", title: "اضطراب تجنّب/تقييد الطعام (ARFID)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-genito-pelvic-pain", title: "اضطراب الألم التناسلي الحوضي / الاختراق", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-rumination", title: "اضطراب الاجترار (Rumination Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

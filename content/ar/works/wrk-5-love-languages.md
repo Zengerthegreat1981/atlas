@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1992
 active_end: 1992
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والإرشاد الزواجي", target_type: "مدرسة"
-  - rel: "written_by", target: "غاري تشابمان", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والإرشاد الزواجي", target_type: "مدرسة"
+- rel: "written_by", target: "thk-gary-chapman", target_type: "مفكر"
 related:
-  - id: "thk-gary-chapman", title: "غاري تشابمان", type: "مفكر"
+- id: "con-five-love-languages", title: "لغات الحب الخمس (الأطر التعبيرية في العلاقات)", type: "مفهوم"
+- id: "thk-gary-chapman", title: "غاري تشابمان", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

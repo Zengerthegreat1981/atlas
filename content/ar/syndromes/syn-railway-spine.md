@@ -11,10 +11,10 @@ active_start: 1866
 active_end: 1914
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث جون إريك إريكسن (John Eric Erichsen 1866) ومناظرات هيربرت بيج (Herbert Page)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

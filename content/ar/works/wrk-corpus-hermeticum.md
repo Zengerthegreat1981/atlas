@@ -12,12 +12,14 @@ language: "اليونانية (الأصل)"
 active_start: 150
 active_end: 300
 edges:
-  - rel: "belongs_to", target: "الهرمسية", target_type: "مدرسة"
-  - rel: "authored_by", target: "هرمس ثلاثي العظمة", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-hermeticism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-hermes-trismegistus", target_type: "مفكر"
 related:
-  - id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة", type: "مفكر"
-  - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
-  - id: "con-as-above-so-below", title: "كما في الأعلى كذلك في الأسفل", type: "مفهوم"
+- id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة", type: "مفكر"
+- id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
+- id: "con-as-above-so-below", title: "كما في الأعلى كذلك في الأسفل", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "المؤلفون الفعليون للنصوص غير معروفين — النصوص ملفقة من عدة مدارس."
   - "الترجمة العربية الكاملة لـ«الكوربوس الهرمسية» غير متاحة في طبعة أكاديمية معتمدة."

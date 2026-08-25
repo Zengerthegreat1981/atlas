@@ -1,0 +1,28 @@
+---
+slug: "con-ubuntu-african-humanism"
+id: "CON-1205"
+type: "مفهوم"
+part: "philosophy"
+level: "متوسط"
+title: "أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)"
+en: "Ubuntu (I am because we are)"
+crumb: "الفلسفة الأفريقية ← الفلسفة الأخلاقية ← أوبونتو"
+active_start: 1000
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-ubuntu", target_type: "مدرسة"
+related:
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+gaps:
+  - "رابط مقترح لم يتحقق بعد في الأطلس: فلسفة أوبونتو (sch-ubuntu-philosophy)"
+  - "التطبيقات المعاصرة لأوبونتو في لجان الحقيقة والمصالحة في جنوب أفريقيا بعد الأبارتهايد."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)
+
+المفهوم الأخلاقي والأنطولوجي التأسيسي في الفلسفة الأفريقية التقليدية والمعاصرة؛ يلخصه القول: «أنا أكون لأننا نكون» (I am because we are)؛ يفترض أن إنسانية الفرد لا تكتمل في العزلة الأنانية، بل تتحقق من خلال الانتماء والتضامن والتعاطف المشترك مع المجتمع الكلي.

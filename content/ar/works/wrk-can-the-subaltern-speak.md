@@ -12,10 +12,13 @@ language: "الإنجليزية"
 active_start: 1988
 active_end: 1988
 edges:
-  - rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-postcolonial", target_type: "مدرسة"
 related:
-  - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
-  - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
+- id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
+- id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "النص الأصلي Can the Subaltern Speak? (1988) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

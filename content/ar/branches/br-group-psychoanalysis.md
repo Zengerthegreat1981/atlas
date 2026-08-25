@@ -11,14 +11,15 @@ dates: "لندن وباريس · أربعينيات القرن العشرين"
 active_start: 1940
 active_end: "مستمر"
 language: "الإنجليزية / الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "ويلفريد بيون", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-bion", target_type: "مفكر"
 related:
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-rkaes", title: "رينيه كاييس", type: "مفكر"
-  - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
-  - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-rkaes", title: "رينيه كاييس", type: "مفكر"
+- id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:
   - "الفرق بين 'التحليل في المجموعة' (Analysis in Group) و'تحليل المجموعة ككل' (Analysis of Group) عند فولكس وبيون."
   - "مفهوم 'الجهاز النفسي الجمعي' (Group Psychic Apparatus) عند رينيه كاييس وأغلفة المجموعة عند أنزيو."

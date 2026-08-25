@@ -11,11 +11,11 @@ active_start: 1919
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
-  - id: "wrk-mans-search", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
+- id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
+- id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-mans-search", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
 gaps:
   - "ورقة ساندور فيرينتزي الكلاسيكية (1919) 'عصاب يوم الأحد' ومفهوم الخواء الوجودي لفيكتور فرانكل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,13 +11,14 @@ active_start: 1929
 active_end: 1953
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'دراسات كيركيغاردية' (1938) ومحاضرته التاريخية 'نحو المنتهي' تستحق توثيقاً."

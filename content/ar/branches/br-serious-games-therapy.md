@@ -10,10 +10,15 @@ country: "نيوزيلندا / المملكة المتحدة"
 language: "إنجليزية"
 active_start: 2012
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "الفرق الدقيق بين 'serious games' و'gamification' و'exergames' لم يُراجع من مصدر أولي."
   - "تجربة RCT لـSPARX الأصلية (Merry et al., 2012) تستحق اقتباساً مباشراً."

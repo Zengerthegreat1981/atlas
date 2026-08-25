@@ -10,15 +10,19 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← سو دوغلاس"
 edges:
-  - rel: "belongs_to", target: "br-ddp", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج النفسي النمائي الثنائي (DDP)", target_type: "تيار"
 related:
-  - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
-  - id: "thk-kgolding", title: "كيم غولدنغ", type: "مفكر"
-  - id: "br-ddp", title: "العلاج النفسي النمائي الثنائي (DDP)", type: "مفكر"
+- id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
+- id: "thk-kgolding", title: "كيم غولدنغ", type: "مفكر"
+- id: "br-ddp", title: "العلاج النفسي النمائي الثنائي (DDP)", type: "تيار"
+- id: "thk-apert", title: "أنا أريتي", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أنا أريتي (thk-apert)."
 ---
 
 # سو دوغلاس

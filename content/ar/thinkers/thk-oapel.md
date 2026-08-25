@@ -13,10 +13,10 @@ language: "الألمانية"
 active_start: 1960
 active_end: 2015
 edges:
-  - rel: "belongs_to", target: "الهرمنيوطيقا النقدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", target_type: "مدرسة"
 related:
-  - id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
-  - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
+- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
+- id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة للعلاقة بين آبل وهابرماس (تحالف ثم انقسام) لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'تحوّل الفلسفة' (1973)."

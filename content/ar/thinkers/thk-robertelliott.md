@@ -11,11 +11,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+related:
+- id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
+- id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
+- id: "thk-alvinmahrer", title: "ألفين مارر", type: "مفكر"
+- id: "thk-margaretbodkin", title: "مارغريت بودكن", type: "مفكر"
+- id: "thk-markwelch", title: "مارك ويلش", type: "مفكر"
 gaps:
   - "سنة الميلاد تم تقديرها تقريبياً من سياقات السيرة، يرجى التحقق من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بودكن (thk-margaretbodkin)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارك ويلش (thk-markwelch)."
 ---
 
 # روبرت إليوت

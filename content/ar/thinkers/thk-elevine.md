@@ -6,15 +6,17 @@ level: "متوسط"
 title: "إيلين ليفين"
 en: "Ellen Levine"
 crumb: "الفنون التعبيرية التعددية ← تطوير منهجي ← إيلين ليفين"
-dates: "الولايات المتحدة/كندا"
-country: "الكندا"
+dates: "الولايات المتحدة / كندا · القرن العشرين–"
+country: "كندا"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الفنون التعبيرية التعددية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
 related:
-  - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
+- id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
+- id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -22,9 +24,9 @@ gaps:
 
 # إيلين ليفين
 
-عالمة نفس وممارسة في **الفنون التعبيرية التعددية**، شريكة في تأسيس European Graduate School (EGS) مع زوجها ستيفن ليفين وباولو كنيل.
+معالِجة بالفنون وأخصائية عمل اجتماعي، وممارِسة في **الفنون التعبيرية التعددية**، شريكة في تأسيس European Graduate School (EGS) مع زوجها ستيفن ليفين وباولو كنيل.
 
-## ما أعطت
+## ما أعطته
 
 - **«Principles and Practice of Expressive Arts Therapy»** (2005، مع ليفين وكنيل): الكتاب المنهجي للحقل.
 - **Intermodal Therapy**: نقل التعبير بين وسائط فنية متعدّدة (رسم، موسيقى، حركة، دراما).

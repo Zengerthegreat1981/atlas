@@ -11,8 +11,13 @@ crumb: "علم النفس الصناعي والتنظيمي ← المفاهيم
 active_start: 1950
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الصناعي والتنظيمي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الصناعي والتنظيمي", target_type: "مدرسة"
 related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«إلتون مايو» (thk-mayo-elton) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "تجارب مصنع هوثورن لشركة ويسترن إليكتريك (1924–1932) وأبحاث هنري لاندسبيرغر (1950)."

@@ -11,14 +11,15 @@ active_start: 1950
 active_end: 1993
 country: "المكسيك"
 language: "الإسبانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'متاهة العزلة' (El laberinto de la soledad, 1950) وفينومينولوجيا العزلة الوجودية المكسيكية يستحقان إدراجاً في الأعمال."

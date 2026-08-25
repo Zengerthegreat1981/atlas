@@ -9,8 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1917
 active_end: 1945
 country: "الولايات المتحدة"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "إدخال اختبارات الشخصية والفرز الإكلينيكي (Woodworth Personal Data Sheet) في الحرب الأولى يحتاج توثيقاً"
   - "التحيز اللغوي والثقافي لاختبار Beta المصور للمهاجرين والأميين يتطلب تفصيلاً نقدياً"

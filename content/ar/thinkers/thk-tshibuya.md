@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← تاكيشي �
 dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «Archetypal Psychology in Japan» (2000s) أجرى أوّل «استقبال ياباني» لعلم نفس الأركيتيب، فأظهر كيف يتكامل مع «علم نفس الأنا» (T. Doi) في تفسير الظواهر اليابانية. كذلك درّب في Kyoto AJAJ، وأشرس على «البرنامج التدريبي» في كيوتو (مع Nakagami). كذلك ترجم Hillman إلى اليابانية.
+في «Archetypal Psychology in Japan» (العقد الأول من القرن الحادي والعشرين) أجرى أوّل «استقبال ياباني» لعلم نفس الأركيتيب، فأظهر كيف يتكامل مع «علم نفس الأنا» (T. Doi) في تفسير الظواهر اليابانية. كذلك درّب في Kyoto AJAJ، وأشرس على «البرنامج التدريبي» في كيوتو (مع Nakagami). كذلك ترجم Hillman إلى اليابانية.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Archetypal Psychology in Japan (2000s).
+Archetypal Psychology in Japan (العقد الأول من القرن الحادي والعشرين).

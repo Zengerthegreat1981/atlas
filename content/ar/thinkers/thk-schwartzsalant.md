@@ -9,12 +9,15 @@ crumb: "التحليل النفسي ← الناس ← كلاسيكي معاصر
 dates: "أمريكا · 1938–2020"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2020
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"
-  - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"
+- id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
 gaps:
   - "بعض تفاصيل حياته الشخصية المتأخرة (الممارسة الخاصة في Maine) شحيحة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

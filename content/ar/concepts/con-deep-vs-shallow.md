@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← الإيكولوجيا العمي�
 active_start: 1973
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإيكولوجيا العميقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"
 related:
-  - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-  - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
+- id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مقالة Næss الأصلية (Inquiry, 1973)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)

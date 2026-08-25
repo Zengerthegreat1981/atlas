@@ -9,13 +9,18 @@ crumb: "التحليل النفسي ← الناس ← الفرنسي ما قب�
 dates: "فرنسا · 1924–2013"
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
+active_start: null
+active_end: 2013
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "br-french-psychoanalysis", title: "مدرسة التحليل النفسي الفرنسية", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # جان-بيرتران بونتالي

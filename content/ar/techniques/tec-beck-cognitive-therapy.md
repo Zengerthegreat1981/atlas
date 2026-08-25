@@ -11,12 +11,18 @@ dates: "بنسلفانيا · الستينيات والسبعينيات"
 active_start: 1967
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-schema-therapy", title: "علاج المخطط", type: "تقنية/تدخل علاجي"
-  - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-schema-therapy", title: "علاج المخطط", type: "تقنية/تدخل علاجي"
+- id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+- id: "tec-cat", title: "العلاج المعرفي التحليلي (CAT)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbasp", title: "نظام التحليل المعرفي السلوكي للعلاج النفسي (CBASP)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbct-couples", title: "العلاج المعرفي السلوكي للأزواج (CBCT)", type: "تقنية/تدخل علاجي"
+- id: "tec-ccbt", title: "العلاج المعرفي السلوكي المحوسب (cCBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-tf-cbt", title: "العلاج المعرفي السلوكي المرتكز على الصدمة للأطفال (TF-CBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الثالوث المعرفي السلبي للاكتئاب (Negative Cognitive Triad: نظرة سلبية للذات، العالم، المستقبل) عند آرون بيك."
   - "سجل الأفكار التلقائية (Thought Record) وجدول الأخطاء المعرفية المشوهة (التفكير الكارثي، الكل أو لا شيء، الشخصنة)."

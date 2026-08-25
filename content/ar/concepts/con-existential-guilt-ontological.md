@@ -6,14 +6,20 @@ level: "متقدم"
 title: "الذنب الأنطولوجي"
 en: "Ontological Guilt"
 crumb: "المدرسة الوجودية ← المفاهيم ← الذنب الأنطولوجي"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "هذا مفهوم فلسفي مجرد بدرجة عالية، ويحتاج مراجعة أعمق من نص Being and Time الأصلي قبل توسيعه أكثر"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الذنب الأنطولوجي

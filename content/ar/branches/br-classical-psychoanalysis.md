@@ -11,20 +11,28 @@ dates: "فيينا · أواخر القرن التاسع عشر"
 active_start: 1895
 active_end: "مستمر"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "سيغموند فرويد", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-freud", target_type: "مفكر"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
-  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
-  - id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
-  - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
+- id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
+- id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
+- id: "thk-rank", title: "أوتو رانك", type: "مفكر"
+- id: "rel-integrative-psychoanalysis-common-factors", title: "التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-humanistic", title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-jungian", title: "التحليل النفسي والتحليلية اليونغية: انشقاق الأبناء المؤسِّس", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
+- id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
+- id: "rel-trauma-psychoanalysis", title: "العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم", type: "علاقة بين مدرستين"
 gaps:
   - "التحول الدقيق بين النموذج الطبوغرافي الأول (الوعي/ما قبل الوعي/اللاوعي) والنموذج البنيوي الثاني (الهو/الأنا/الأنا الأعلى) يحتاج تدقيقاً إضافياً."
   - "تاريخ التأسيس المؤسسي لجمعية التحليل النفسي بفيينا (1908) موثق ولكن تمايز الممارسة الإكلينيكية الكلاسيكية عن الطب النفسي المعاصر يحتاج مزيداً من التوثيق."
 ---
-
 # التحليل النفسي الفرويدي الكلاسيكي
 
 التيار التأسيسي الأم لعلم النفس الديناميكي، نشأ في فيينا على يد سيغموند فرويد في تسعينيات القرن التاسع عشر انطلاقاً من دراسة الهستيريا واللاشعور، وشكّل الأساس النظري والإكلينيكي الذي تفرعت عنه كافة مدارس التحليل النفسي اللاحقة.

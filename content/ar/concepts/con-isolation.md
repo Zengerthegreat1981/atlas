@@ -6,13 +6,20 @@ level: "متوسط"
 title: "العزلة"
 en: "Isolation"
 crumb: "المدرسة الوجودية ← المفاهيم ← العزلة"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-yalom", title: "يالوم", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "tec-eight-dimensions-of-relatedness", title: "الأبعاد الثمانية للارتباط والصلة الإنسانية", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العزلة

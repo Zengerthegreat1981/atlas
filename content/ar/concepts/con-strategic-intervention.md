@@ -8,17 +8,20 @@ en: "Strategic Intervention"
 crumb: "العلاج القصير كعائلة مستقلة ← العلاج القصير الاستراتيجي ← التدخل الاستراتيجي"
 active_start: 1967
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
-  - id: "thk-jhaley", title: "بول واتزلاويك", type: "مفكر"
-  - id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
-  - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "مفهوم"
+- id: "thk-jhaley", title: "بول واتزلاويك", type: "مفكر"
+- id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "تيار"
+- id: "tec-prescription-task", title: "الوصفة العلاجية (Task Prescription)", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز الدقيق بين 'Strategic' و'Tactical' في النموذج المعاصر يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورجيو ناردوني (thk-gnardone)."
 ---
-
 # التدخل الاستراتيجي (Strategic Intervention)
 
 مفهوم مركزي في العلاج القصير الاستراتيجي (Brief Strategic Therapy, BST)، يُشير إلى فعل علاجي **مُصمَّم بدقة** لتحقيق هدف محدد، غالباً عبر إعادة تأطير المشكلة أو تعديل «المحاولة المعتادة للحل» التي تُعزز الاضطراب.

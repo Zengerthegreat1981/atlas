@@ -8,9 +8,11 @@ en: "Deci & Ryan Self-Determination Theory and Intrinsic Motivation Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات ديسي وراين للتحفيز الداخلي"
 active_start: 1971
 active_end: 1985
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "التحليل التلوي الشامل لـ Deci, Koestner, & Ryan (1999) الذي حلل 128 تجربة حول تقويض المكافآت يحتاج توثيقاً سيكومترياً"
   - "التطبيقات في تصميم التعليم والعمل والتحفيز المؤسسي تتطلب ربطاً بالأبحاث الإدارية"

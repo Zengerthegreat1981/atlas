@@ -6,12 +6,18 @@ level: "متوسط"
 title: "بروفيل موقف الموت المُنقَّح (DAP-R)"
 en: "Death Attitude Profile-Revised (DAP-R)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← بروفيل موقف الموت المُنقَّح (DAP-R)"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
 gaps:
   - "لا يوجد تحقق من الخصائص السيكومترية لهذه الأداة في نسخة عربية"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بروفيل موقف الموت المُنقَّح (DAP-R)

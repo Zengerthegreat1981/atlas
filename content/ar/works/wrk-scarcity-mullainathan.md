@@ -13,9 +13,14 @@ language: "الإنجليزية"
 active_start: 2013
 active_end: 2013
 edges:
-  - rel: "belongs_to", target: "الاقتصاد السلوكي والعلوم المعرفية", target_type: "مدرسة"
-  - rel: "written_by", target: "سيندهيل مولايناثان", target_type: "مفكر"
+- rel: "belongs_to", target: "الاقتصاد السلوكي والعلوم المعرفية", target_type: "مدرسة"
+- rel: "written_by", target: "سيندهيل مولايناثان", target_type: "مفكر"
 related:
+- id: "con-scarcity-mindset", title: "عقلية الندرة وعبء النطاق الترددي المعرفي", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«سيندهيل مولايناثان» (thk-mullainathan-sendhil) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."

@@ -6,12 +6,17 @@ level: "مبتدئ"
 title: "الحزن"
 en: "Sadness"
 crumb: "المدرسة الوجودية ← المفاهيم ← الحزن"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "wrk-loss-sadness-depression", title: "الفقدان: الحزن والاكتئاب (المجلد الثالث من التعلق والفقدان)", type: "عمل / كتاب"
+- id: "br-affective-neuroscience-informed", title: "العلاج المستنير بعلم الأعصاب الوجداني", type: "تيار"
 gaps:
   - "لا يوجد مدخل منفصل بعد لـ'الاكتئاب' كحالة سريرية لمقارنته بالحزن كشعور طبيعي"
   - "غياب مصادر عن الحزن في التراث العربي (الرثاء، أدب الفقد)"

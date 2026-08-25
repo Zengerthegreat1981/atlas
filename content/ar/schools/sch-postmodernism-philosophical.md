@@ -13,12 +13,15 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1979
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة القارية", target_type: "مظلة"
-  - rel: "evolved_from", target: "ما بعد البنيوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-  - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-  - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
-  - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 gaps:
   - "ما بعد الحداثة ليست 'مدرسة' بمعنى صارم، بل طيف من المواقف؛ تمييزها عن ما بعد البنيوية صعب."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

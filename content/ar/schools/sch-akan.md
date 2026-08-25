@@ -14,10 +14,12 @@ active_start: 1200
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
-  - id: "sch-ifa", title: "تقاليد اليوروبا (Ifá)", type: "مدرسة"
-  - id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
+- id: "sch-ifa", title: "تقاليد اليوروبا (Ifá)", type: "مدرسة"
+- id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
+- id: "con-sankofa", title: "سانكوفا (Sankofa) — العودة إلى الجذور", type: "مفهوم"
+- id: "sch-dogon", title: "فلسفة الدوجون (مالي)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«الحكمة الإثيوبية (الهاتاتا)» (sch-ethiopian) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Akan الأصلية تحتاج مراجعة من المصدر الأولي."

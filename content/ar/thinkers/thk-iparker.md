@@ -11,11 +11,20 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
 related:
+- id: "thk-dhook", title: "ديريك هوك", type: "مفكر"
+- id: "thk-fhaug", title: "فريغا هاوُغ", type: "مفكر"
+- id: "thk-kholzkamp", title: "كلاوس هولتسكامب", type: "مفكر"
+- id: "thk-mgergen", title: "ماري جيرغِن", type: "مفكر"
+- id: "thk-spiper", title: "ستيفان بايبِر", type: "مفكر"
+- id: "thk-tteo", title: "توماس تِئو", type: "مفكر"
+- id: "rel-postmodern-systemic", title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إيان باركر
@@ -28,7 +37,7 @@ gaps:
 - **"تحليل الخطاب"** في علم النفس: تطبيق منهجيات فوكو في تفكيك "الموضوعية" المزعومة لعلم النفس.
 - **"التفكيك"** (Deconstruction) كمنهجية نقدية: تفكيك البنى الثنائية (طبيعي/مرضي، عقل/جسد) في علم النفس.
 - **"الذات كمُنتَج اجتماعي"**: نقد مفهوم "الذات الفردية" لصالح رؤيتها كإنتاج للعلاقات الاجتماعية.
-- **"علم النفس المناهض"** (Anti-Psychiatry) الجديد: إعادة صياغة نقد لاينغ وساس في السياق المعاصر.
+- **إحياء نقد الطب النفسي** (Anti-Psychiatry): إعادة صياغة نقد لينغ وساس في سياق معاصر — لا بوصفه إنكاراً للمعاناة بل بوصفه سؤالاً عمّن يملك سلطة تسميتها.
 
 ## موقعه من التيار
 
@@ -38,7 +47,8 @@ gaps:
 
 - *The Crisis in Modern Social Psychology* (1989).
 - *Discourse Analytic Research* (1992).
-- *Critical Psychology: Critical Concepts in Psychology* (2004، محرر).
+- *Critical Psychology: Critical Concepts in Psychology* (2011، تحرير، أربعة مجلدات).
+- *Lacanian Psychoanalysis: Revolutions in Subjectivity* (2011) — وجهه الآخر: قراءة لاكان أداةً نقدية لا مذهباً علاجياً.
 
 ## اقتباسات مختارة
 

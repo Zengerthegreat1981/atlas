@@ -6,13 +6,18 @@ level: "متوسط"
 title: "العالم النوعي (Quality World)"
 en: "Quality World (Glasser)"
 crumb: "الإنسانية ← المفاهيم ← العالم النوعي"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "ويليام غلاسر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-glasser", target_type: "مفكر"
 related:
-  - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
-  - id: "con-choice-theory", title: "نظرية الاختيار", type: "مفهوم"
-  - id: "br-glasser-reality-therapy", title: "علاج الواقع ونظرية الاختيار (غلاسر)", type: "تيار"
+- id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
+- id: "con-choice-theory", title: "نظرية الاختيار", type: "مفهوم"
+- id: "br-glasser-reality-therapy", title: "علاج الواقع ونظرية الاختيار (غلاسر)", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من غلاسر بعد."
   - "الفرق بين 'العالم النوعي' و'الذات المثالية' (روجرز) يحتاج تحليل."

@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 1982
 active_end: 1982
 edges:
-  - rel: "belongs_to", target: "أخلاقيات الرعاية (Care Ethics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:
-  - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
-  - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
+- id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Harvard University Press الأصلية (1982) ولا طبعة 1993 (الطبعة المنقحة)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # صوت مختلف (In a Different Voice, 1982)

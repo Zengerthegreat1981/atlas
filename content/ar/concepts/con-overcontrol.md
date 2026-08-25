@@ -8,11 +8,15 @@ en: "Overcontrol"
 crumb: "الموجة الثالثة ← المفاهيم ← الضبط المفرط"
 active_start: 2010
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
-  - id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
+- id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز الإكلينيكي بين الضبط المفرط الأولي والثانوي وتطبيقه على اضطرابات التوحد عالية الأداء يحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,11 +9,17 @@ crumb: "المدرسة الوجودية ← الناس ← سارة يونغ"
 dates: "بريطانيا · معاصرة"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "trm-schemata", title: "الْمَخْطَطَات (Schemata): أُطُر مَعْرِفِيَّة لِـتَنْظِيم الْمَعْلُومَات", type: "مصطلح لغوي متنازع عليه"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-feminism-phenomenological", title: "النسوية الظاهراتية", type: "مدرسة"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "التوثيق البيوغرافي والأكاديمي الدقيق يحتاج استكمالاً من الجمعية البريطانية للعلاج الوجودي."

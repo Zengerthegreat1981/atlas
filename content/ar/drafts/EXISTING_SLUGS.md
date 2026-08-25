@@ -2,43 +2,41 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **4266** عنصراً (**3911** معتمد + **355** مسودة).
+الإجمالي: **6700** عنصراً (**6615** معتمد + **85** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
-## مفكر (1939)
+## مفكر (2377)
 
-- `con-complex-ptsd` — اضطراب الكرب التالي للصدمة المعقد (C-PTSD) — ✅ معتمد
-- `con-dissociation` — الانفصال (Dissociation) — ✅ معتمد
-- `con-harm-reduction` — الحد من الضرر (Harm Reduction) — ✅ معتمد
-- `con-integration-psychedelic` — التكامل النفسياني (Integration) — ✅ معتمد
-- `con-nature-deficit` — متلازمة عجز الطبيعة — ✅ معتمد
-- `con-neurofeedback` — التغذية الراجعة العصبية (Neurofeedback) — ✅ معتمد
-- `con-neuroplasticity-trauma` — المرونة العصبية في سياق الصدمة — ✅ معتمد
-- `con-psychedelic-experience` — التجربة السيكوديلية — ✅ معتمد
-- `con-shinrin-yoku` — شينرين-يوكو (الاستحمام بالغابة) — ✅ معتمد
-- `con-twelve-steps` — برنامج الاثنتي عشرة خطوة (12-Step) — ✅ معتمد
 - `thk-aabdelkhalek` — أمجد عبد الخالق — ✅ معتمد
 - `thk-aabrer` — كارل أبراهام — ✅ معتمد
-- `thk-aalladin` — آسين علادين — 🕓 مسودة
+- `thk-aalladin` — آسين علادين — ✅ معتمد
 - `thk-aalvarez` — آن ألفاريز — ✅ معتمد
 - `thk-abalint` — أليس بالينت — ✅ معتمد
 - `thk-abandura` — ألبرت باندورا — ✅ معتمد
 - `thk-abbagnano` — نيكولا أبانانو — ✅ معتمد
+- `thk-abd-al-karim-al-jili` — عبد الكريم بن إبراهيم الجيلي — ✅ معتمد
+- `thk-abdallah-laroui` — عبد الله العروي — ✅ معتمد
+- `thk-abdulsattar-ibrahim` — عبد الستار إبراهيم — 🕓 مسودة
 - `thk-aboal` — أوغوستو بوال — ✅ معتمد
 - `thk-aboller` — أرماند فولكاس — ✅ معتمد
 - `thk-abraham-geiger` — أبراهام جيغر — ✅ معتمد
 - `thk-abramovitch` — هنري أبراموفيتش — ✅ معتمد
+- `thk-abu-al-barakat-al-baghdadi` — أبو البركات هبة الله بن ملكا البغدادي — ✅ معتمد
+- `thk-abu-al-hasan-al-amiri` — أبو الحسن محمد بن يوسف العامري النيسابوري — ✅ معتمد
+- `thk-abu-sulayman-al-sijistani` — أبو سليمان محمد بن طاهر السجستاني — ✅ معتمد
+- `thk-abu-zayd` — نصر حامد أبو زيد — 🕓 مسودة
 - `thk-acatania` — أ. تشارلز كاتانيا — ✅ معتمد
 - `thk-achristensen` — أندرو كريستينسن — ✅ معتمد
 - `thk-adam-grant` — آدم غرانت — ✅ معتمد
-- `thk-adamasio` — أنطونيو داماسيو — ✅ معتمد
+- `thk-adam-smith` — آدم سميث — ✅ معتمد
 - `thk-adamblatner` — آدم بلاتنر — ✅ معتمد
 - `thk-adams` — مارتن آدامز — ✅ معتمد
 - `thk-adelaserna` — أغوستين دي لا سيرنا — ✅ معتمد
 - `thk-adler` — ألفرد أدلر — ✅ معتمد
 - `thk-adorno` — ثيودور أدورنو — ✅ معتمد
+- `thk-adud-al-din-al-iji` — عضد الدين عبد الرحمن بن أحمد الإيجي — ✅ معتمد
 - `thk-afaria` — أبِي فاريا — ✅ معتمد
 - `thk-aferro` — أنطونيو فيرو — ✅ معتمد
 - `thk-afghani` — جمال الدين الأفغاني — ✅ معتمد
@@ -46,84 +44,118 @@
 - `thk-agarciag` — أليسيا غارسيا غونثاليث — ✅ معتمد
 - `thk-agoldstein` — أرنولد غولدشتاين — ✅ معتمد
 - `thk-agreen` — أندريه غرين — ✅ معتمد
-- `thk-ahalford` — أليكس هالفرد — ✅ معتمد
+- `thk-ahalford` — و. كيم هالفورد — ✅ معتمد
 - `thk-ahepburn` — ألكسا هِبِرن — ✅ معتمد
 - `thk-ahill` — أدريان هيل — ✅ معتمد
 - `thk-ahiqar` — أخيقار (الحكيم الآرامي) — ✅ معتمد
 - `thk-ahmad-sirhindi` — الشيخ أحمد السرهندي (المجدد الثاني) — ✅ معتمد
 - `thk-ahofmann` — ألبرت هوفمان — ✅ معتمد
 - `thk-aichhorn` — أوغست أيشهورن — ✅ معتمد
+- `thk-ainsworth` — ماري إينسورث — ✅ معتمد
 - `thk-aizenstat` — ستيفن أيزنستات — ✅ معتمد
+- `thk-aj-ayer` — ألفرد جولز آير — ✅ معتمد
 - `thk-ajanov` — آرثر يانوف — ✅ معتمد
 - `thk-ajernberg` — آن جِرنبرغ — ✅ معتمد
+- `thk-akaptchuk` — تيد ج. كابتْشُك — ✅ معتمد
 - `thk-akelman` — أَميت ميمن (أَميت كلمان) — ✅ معتمد
 - `thk-aklinger` — أتسيلا كلاينغر — ✅ معتمد
+- `thk-al-biruni` — أبو الريحان البيروني — ✅ معتمد
 - `thk-al-farabi` — أبو نصر محمد بن محمد الفارابي — ✅ معتمد
 - `thk-al-ghazali` — أبو حامد محمد بن محمد الغزالي (حجة الإسلام) — ✅ معتمد
+- `thk-al-kawakibi` — عبد الرحمن الكواكبي — ✅ معتمد
 - `thk-al-kindi` — أبو يوسف يعقوب بن إسحاق الكندي — ✅ معتمد
-- `thk-al-razi-abu-bakr` — أبو بكر محمد بن زكريا الرازي — 🕓 مسودة
+- `thk-al-mawardi` — الماوردي (أبو الحسن علي بن محمد / فقيه السياسة) — ✅ معتمد
+- `thk-al-razi-abu-bakr` — أبو بكر محمد بن زكريا الرازي — ✅ معتمد
+- `thk-al-shahrazuri` — شمس الدين محمد بن محمود الشهرزوري — ✅ معتمد
+- `thk-al-sharif-al-jurjani` — علي بن محمد السيد الشريف الجرجاني — ✅ معتمد
+- `thk-al-taftazani` — سعد الدين مسعود بن عمر التفتازاني — ✅ معتمد
+- `thk-al-tawhidi` — أبو حيان علي بن محمد التوحيدي — ✅ معتمد
 - `thk-alain-de-botton` — آلان دو بوتون — ✅ معتمد
 - `thk-alam` — محمود أمين العالم — ✅ معتمد
+- `thk-alan-fruzzetti` — آلان فروزّيتي — ✅ معتمد
+- `thk-alasdair-macleod` — ألاسدير ماكليود (Alasdair MacLeod) — ✅ معتمد
 - `thk-alazm` — صادق جلال العظم — ✅ معتمد
-- `thk-albertellis-somatic` — إيمي فونتانا — 🕓 مسودة
-- `thk-alemma` — أنتوني لِمّا — ✅ معتمد
-- `thk-alexandra-farkas` — ألكسندرا فاركاش — 🕓 مسودة
-- `thk-ali` — آن لي (Ann Li) — ✅ معتمد
-- `thk-alicorazon` — ألي كورازون — 🕓 مسودة
+- `thk-albert-einstein` — ألبرت أينشتاين — ✅ معتمد
+- `thk-albertellis-somatic` — إيمي فونتانا — ✅ معتمد
+- `thk-albertus-magnus` — القديس ألبيرتوس ماغنوس (ألبير الكبير) — ✅ معتمد
+- `thk-alemma` — أليساندرا لِمّا — ✅ معتمد
+- `thk-alexander-aphrodisias` — الإسكندر الأفروديسي — ✅ معتمد
+- `thk-alexandra-farkas` — ألكسندرا فاركاش — ✅ معتمد
+- `thk-alexis-kagame` — ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي) — ✅ معتمد
+- `thk-ali` — آن لي — ✅ معتمد
+- `thk-alicorazon` — ألي كورازون — ✅ معتمد
 - `thk-aliebeault` — أمبرواز ليبو — ✅ معتمد
 - `thk-alinley` — أليكس لينلي — ✅ معتمد
+- `thk-allameh-tabatabai` — السيد محمد حسين الطباطبائي — ✅ معتمد
 - `thk-allen-carr` — ألين كار — ✅ معتمد
+- `thk-allen-frances` — ألن فرانسز — 🕓 مسودة
 - `thk-alvinmahrer` — ألفين مارر — ✅ معتمد
-- `thk-amacintyre` — ألسدير ماكنتاير — ✅ معتمد
-- `thk-amadiume` — إيف أمداديوم — ✅ معتمد
+- `thk-amadiume` — إيفي أماديومي — ✅ معتمد
 - `thk-amarlatt` — ألان مارلات — ✅ معتمد
 - `thk-ambedkar` — بيماراو رامجي أمبيدكار — ✅ معتمد
-- `thk-amenemope` — أمِنْمُوپ (آمنمحات) — ✅ معتمد
+- `thk-amenemope` — أمِنْمُوپ — ✅ معتمد
 - `thk-amiller` — أليس ميلر — ✅ معتمد
 - `thk-amir-levine` — أمير ليفين — ✅ معتمد
 - `thk-amishi-jha` — أميشي جها — ✅ معتمد
-- `thk-amithoefer` — آن ميستوفر — ✅ معتمد
+- `thk-amithoefer` — آن ميثوفير — ✅ معتمد
+- `thk-ammonius-hermiae` — أمونيوس بن هيرمياس — ✅ معتمد
 - `thk-amncube` — ألبرت مْنكوبِي — ✅ معتمد
 - `thk-amo` — أنطون فلهيلم أمو — ✅ معتمد
+- `thk-amos-tversky` — عاموس تفيرسكي — ✅ معتمد
 - `thk-amuller` — ألكسندر مولر — ✅ معتمد
 - `thk-amy-cuddy` — إيمي كادي — ✅ معتمد
-- `thk-amy-morgan` — إيمي مورغان — 🕓 مسودة
-- `thk-anaess` — أرنه نيس — ✅ معتمد
-- `thk-anajam` — عادل نجّام — 🕓 مسودة
+- `thk-amy-morgan` — إيمي مورغان — ✅ معتمد
+- `thk-anajam` — عادل نجّام — ✅ معتمد
+- `thk-anan-ben-david` — عنان بن داود (مؤسِّس الكَرَائيّة) — ✅ معتمد
+- `thk-anaxagoras` — أنكساغوراس الكلازوميني — ✅ معتمد
+- `thk-anaximander` — أنكسمندر الميليسي — ✅ معتمد
+- `thk-anaximenes` — أنكسمانس الميليسي — ✅ معتمد
 - `thk-andersericson` — أندرس إريكسون — ✅ معتمد
-- `thk-andrew-barnes` — إيميلي بلاك — 🕓 مسودة
-- `thk-andrew-johnson` — أندرو جونسون — 🕓 مسودة
-- `thk-andrew-schnack` — أندرو شنك — 🕓 مسودة
+- `thk-andre-gorz` — أندريه غورز — ✅ معتمد
+- `thk-andrew-barnes` — إيميلي بلاك — ✅ معتمد
+- `thk-andrew-johnson` — أندرو جونسون — ✅ معتمد
+- `thk-andrew-schnack` — أندرو شنك — ✅ معتمد
+- `thk-andy-clark` — آندي كلارك — ✅ معتمد
 - `thk-angel` — إرنست أنجل — ✅ معتمد
 - `thk-angusmacfarlane` — أنغوس ماكفارلن — ✅ معتمد
 - `thk-angyal` — أندراس أنجيال — ✅ معتمد
-- `thk-anna-lembke` — آنا ليمبكي — 🕓 مسودة
+- `thk-anibal-quijano` — أنيبال كويخانو — ✅ معتمد
+- `thk-anil-seth` — أنيل سيث — 🕓 مسودة
+- `thk-anna-lembke` — آنا ليمبكي — ✅ معتمد
 - `thk-ansbacher` — هاينز ل. آنسْباخِر — ✅ معتمد
 - `thk-anselm-canterbury` — أنسيلم من كانتربري — ✅ معتمد
 - `thk-anthony` — ماغي أنتوني — ✅ معتمد
+- `thk-anthony-giddens` — أنتوني غيدنز — ✅ معتمد
+- `thk-anthony-greenwald` — أنتوني غرينوالد — 🕓 مسودة
+- `thk-antiochus-ascalon` — أنطيوخوس العسقلاني — ✅ معتمد
+- `thk-antonio-gramsci` — أنطونيو غرامشي — ✅ معتمد
 - `thk-anzieu` — ديدييه أنزيو — ✅ معتمد
 - `thk-aoliveira` — أنا ماريا دي أوليفيرا — ✅ معتمد
-- `thk-apert` — أنا أريتي — 🕓 مسودة
+- `thk-apert` — أنا أريتي — ✅ معتمد
 - `thk-apesso` — ألبرت بيسّو — ✅ معتمد
 - `thk-aquinas` — توما الأكويني — ✅ معتمد
 - `thk-araine` — أدريان راين — ✅ معتمد
 - `thk-arango` — غونزالو أرانغو — ✅ معتمد
 - `thk-arascovsky` — أرماندو راسكوفسكي — ✅ معتمد
+- `thk-archytas` — أرخيتاس التارنتي — ✅ معتمد
 - `thk-arendt` — حنة آرندت — ✅ معتمد
-- `thk-aristotle` — أرسطو — 🕓 مسودة
+- `thk-aristippus` — أرستبوس القوريني — ✅ معتمد
+- `thk-aristotle` — أرسطو — ✅ معتمد
 - `thk-arne-naess` — أرنه نايس — ✅ معتمد
 - `thk-aron` — ريمون آرون — ✅ معتمد
-- `thk-arthur-brooks` — آرثر بروكس — 🕓 مسودة
-- `thk-arthurbeckerweidman` — آرثر بيكر-ويدمان — 🕓 مسودة
+- `thk-arthur-brooks` — آرثر بروكس — ✅ معتمد
+- `thk-arthur-collier` — آرثر كوليار (مؤسِّس المثالية الذاتية الإنجليزية) — ✅ معتمد
+- `thk-arthurbeckerweidman` — آرثر بيكر-ويدمان — ✅ معتمد
 - `thk-aryle` — جيلبرت ريل — ✅ معتمد
+- `thk-asanga` — أسانغا — ✅ معتمد
 - `thk-asante` — موليفي أسانتي — ✅ معتمد
 - `thk-aschore` — ألان شور — ✅ معتمد
 - `thk-aschultz` — ألان شولتز — ✅ معتمد
-- `thk-aschutz` — ألفرد شوتز — ✅ معتمد
 - `thk-ashari` — أبو الحسن علي بن إسماعيل الأشعري — ✅ معتمد
 - `thk-ashoham` — آرثر شوهام — ✅ معتمد
+- `thk-ashutte` — أوغسطين شَتّ — ✅ معتمد
 - `thk-assagioli` — روبرتو أساجيولي — ✅ معتمد
-- `thk-astevens` — أَنتوني ستيفنز (Anthony Stevens) — ✅ معتمد
+- `thk-astevens` — أَنتوني ستيفنز — ✅ معتمد
 - `thk-athanasius` — أثناسيوس الإسكندري — ✅ معتمد
 - `thk-atobart` — أنا تيريزا دي توبار — ✅ معتمد
 - `thk-attig` — توماس آتيغ — ✅ معتمد
@@ -131,27 +163,34 @@
 - `thk-aulagnier` — بيارا أولانييه — ✅ معتمد
 - `thk-aulanc` — [مؤسِّسو ISAP / IIJP / NIJA / Israel Society of Analytical Psychology] — ✅ معتمد
 - `thk-aurobindo` — سري أوروبندو — ✅ معتمد
+- `thk-axel-honneth` — أكسل هونيث — ✅ معتمد
 - `thk-azriel-of-gerona` — عزريئيل بن مناحيم من جيرونا — ✅ معتمد
 - `thk-baal-shem-tov` — إسرائيل بن إليعزر (بعل شيم طوف) — ✅ معتمد
+- `thk-baars` — برنارد بارز — 🕓 مسودة
 - `thk-bacal` — هوارد باكال — ✅ معتمد
+- `thk-bachelard` — غاستون باشلار — ✅ معتمد
 - `thk-badawi` — عبد الرحمن بدوي — ✅ معتمد
+- `thk-baddeley` — آلان بادلي — 🕓 مسودة
 - `thk-badiou` — ألان باديو — ✅ معتمد
 - `thk-baker` — إلسوورث ف. بيكر — ✅ معتمد
 - `thk-bakewell` — سارة بيكويل — ✅ معتمد
 - `thk-bakunin` — ميخائيل باكونين — ✅ معتمد
-- `thk-bala-jaison` — بالا جايسون — 🕓 مسودة
+- `thk-bala-jaison` — بالا جايسون — ✅ معتمد
 - `thk-balakare` — بيرجيتّا ألاكارِ — ✅ معتمد
 - `thk-bally` — غوستاف بالي — ✅ معتمد
+- `thk-banaji` — مهزارين باناجي — 🕓 مسودة
 - `thk-bargdill` — ريتشارد بارغديل — ✅ معتمد
-- `thk-barlow` — ديفيد هـ. بارلو — 🕓 مسودة
+- `thk-barlow` — ديفيد هـ. بارلو — ✅ معتمد
 - `thk-barnes` — هازل بارنز — ✅ معتمد
 - `thk-barrett` — ويليام باريت — ✅ معتمد
-- `thk-barry-kramer` — باري كريمر — 🕓 مسودة
+- `thk-barry-kramer` — باري كريمر — ✅ معتمد
 - `thk-barry-schwartz` — باري شوارتز — ✅ معتمد
 - `thk-barth` — كارل بارث — ✅ معتمد
-- `thk-bartlett` — فريدريك بارتليت — 🕓 مسودة
+- `thk-bartlett` — فريدريك بارتليت — ✅ معتمد
+- `thk-bas-van-fraassen` — باس فان فراسين (Bas C. van Fraassen) — ✅ معتمد
 - `thk-basaglia` — فرانكو بازاليا — ✅ معتمد
 - `thk-basil-caesarea` — باسيليوس الكبير (باسيليوس القيساري) — ✅ معتمد
+- `thk-basilides` — باسيليدس (أبو العَلمانيّة) — ✅ معتمد
 - `thk-bataille` — جورج باتاي — ✅ معتمد
 - `thk-bateman` — أنتوني بيتمان — ✅ معتمد
 - `thk-batkinson` — برنت أتكينسون — ✅ معتمد
@@ -168,28 +207,36 @@
 - `thk-beck` — آرون تيموثي بيك — ✅ معتمد
 - `thk-becker` — إرنست بيكر — ✅ معتمد
 - `thk-beebe` — بياتريس بيبي — ✅ معتمد
+- `thk-bekhterev` — فلاديمير بختيريف — 🕓 مسودة
 - `thk-ben-sira` — يشوع بن سيراخ (ابن سيرا) — ✅ معتمد
 - `thk-benedetti` — غايتانو بينيديتي — ✅ معتمد
 - `thk-benedict-carey` — بينيديكت كاري — ✅ معتمد
+- `thk-bennabi` — مالك بن نبي — 🕓 مسودة
 - `thk-benso` — سيلفيو بينسو — ✅ معتمد
-- `thk-benthall` — مايكل بينثال — 🕓 مسودة
+- `thk-bentall` — ريتشارد بنتال — 🕓 مسودة
+- `thk-benthall` — مايكل بينثال — ✅ معتمد
 - `thk-bentham` — جيريمي بنثام — ✅ معتمد
 - `thk-berdyaev` — نيكولاي بيردييف — ✅ معتمد
 - `thk-bergson` — هنري برغسون — ✅ معتمد
 - `thk-berkeley` — جورج باركلي — ✅ معتمد
 - `thk-berman` — إيمانويل بيرمان — ✅ معتمد
+- `thk-bernard-williams` — برنارد ويليامز — 🕓 مسودة
 - `thk-bernardo-chartres` — برنارد من شارتر — ✅ معتمد
+- `thk-berne` — إريك بيرن — ✅ معتمد
 - `thk-bernfeld` — سيغفريد بيرنفيلد — ✅ معتمد
+- `thk-bertrand-russell` — برتراند راسل — ✅ معتمد
 - `thk-bespaloff` — راشيل بيسبالوف — ✅ معتمد
 - `thk-besselvanderkolk` — بِسِل فَن دِر كولك — ✅ معتمد
-- `thk-beutler` — لاري بويتلر — 🕓 مسودة
+- `thk-beutler` — لاري بويتلر — ✅ معتمد
 - `thk-bfredrickson` — باربرا فريدريكسون — ✅ معتمد
 - `thk-bguerney` — برنارد غيرني — ✅ معتمد
+- `thk-bhartrhari` — بهارتريهاري (فيلسوف اللغة السنسكريتية) — ✅ معتمد
 - `thk-bhellinger` — بيرت هلنغر — ✅ معتمد
 - `thk-bhooks` — بيل هوكس — ✅ معتمد
 - `thk-bidwell` — دوان بيدويل — ✅ معتمد
 - `thk-biko` — ستيف بيكو — ✅ معتمد
-- `thk-bill-matthews` — بيل ماثيوز — 🕓 مسودة
+- `thk-bill-devall` — بيل ديفال — ✅ معتمد
+- `thk-bill-matthews` — بيل ماثيوز — ✅ معتمد
 - `thk-binswanger` — لودفيغ بينسوانغر — ✅ معتمد
 - `thk-bion` — ويلفريد بيون — ✅ معتمد
 - `thk-bischler` — فيرنر بيشلر — ✅ معتمد
@@ -201,22 +248,27 @@
 - `thk-blankenburg` — فولفغانغ بلانكنبورغ — ✅ معتمد
 - `thk-blbettner` — بيتي لو بيتنر — ✅ معتمد
 - `thk-bleuler` — أوجين بلويلَر — ✅ معتمد
-- `thk-bleuler-jung-assoc` — فرانتس ريكـلين — ✅ معتمد
+- `thk-bleuler-jung-assoc` — فرانتس ريكلين — ✅ معتمد
 - `thk-bloch` — إرنست بلوخ — ✅ معتمد
 - `thk-blondel` — موريس بلونديل — ✅ معتمد
 - `thk-bmaletzky` — باري مالتزكي — ✅ معتمد
 - `thk-bmontalvo` — براوليو مونتالفو — ✅ معتمد
 - `thk-bmoore` — بوب مور — ✅ معتمد
 - `thk-boadella` — ديفيد بوعِلّا — ✅ معتمد
-- `thk-bobbeck` — بوب بيك — 🕓 مسودة
+- `thk-bob-proctor` — بوب بروكتور — ✅ معتمد
+- `thk-bobbeck` — بوب بيك — ✅ معتمد
+- `thk-bodhidharma` — بوديدارما (داروما) — ✅ معتمد
+- `thk-bodunrin` — بيتر بَودُنرن — ✅ معتمد
 - `thk-boethius` — بوئيثيوس (أنيسيوس مانليوس سيفيرينوس) — ✅ معتمد
+- `thk-boethius-dacia` — بوئيثيوس الدَّنماركي (Boethius of Dacia) — ✅ معتمد
 - `thk-bohanlon` — بيل أوهَنلون — ✅ معتمد
 - `thk-bolen` — جين شينودا بولن — ✅ معتمد
 - `thk-bonaparte` — ماري بونابرت — ✅ معتمد
 - `thk-bonaventure` — بونافنتورا (جيوفاني دي فيدانزا) — ✅ معتمد
 - `thk-bookchin` — موراي بووكين — ✅ معتمد
 - `thk-borgmann` — ألبرت بورغمان — ✅ معتمد
-- `thk-boscolo` — لويجي بوسكولو — 🕓 مسودة
+- `thk-borsboom` — دني بورسبوم — 🕓 مسودة
+- `thk-boscolo` — لويجي بوسكولو — ✅ معتمد
 - `thk-boss` — ميدارد بوس — ✅ معتمد
 - `thk-bostrom` — نيك بوستروم — ✅ معتمد
 - `thk-boszormenyi` — إيفان بوسورميني-ناجي — ✅ معتمد
@@ -225,19 +277,21 @@
 - `thk-bperry` — بروس د. بيري — ✅ معتمد
 - `thk-bpowell` — برت باول — ✅ معتمد
 - `thk-brandchaft` — برنارد براندشافت — ✅ معتمد
-- `thk-brapp` — تشارلز راب — 🕓 مسودة
+- `thk-brapp` — تشارلز راب — ✅ معتمد
 - `thk-brene-brown` — برينيه براون — ✅ معتمد
 - `thk-brentano` — فرانتس برنتانو — ✅ معتمد
 - `thk-breuer` — يوزف بروير — ✅ معتمد
-- `thk-brian-aleman` — براين ألمان — 🕓 مسودة
-- `thk-brianhug` — بريان هيوز — 🕓 مسودة
+- `thk-brian-aleman` — براين ألمان — ✅ معتمد
+- `thk-brian-victoria` — براين فيكتوريا (Brian Victoria) — ✅ معتمد
+- `thk-brianhug` — بريان هيوز — ✅ معتمد
 - `thk-brianweiss` — برايان وايس — ✅ معتمد
+- `thk-brihaspati` — بريهاسباتي (المؤسِّس الأسطوري لشارفاكا) — ✅ معتمد
+- `thk-broadbent` — دونالد برودبنت — 🕓 مسودة
 - `thk-bromberg` — فيليب برومبرغ — ✅ معتمد
-- `thk-brosen` — برنارد روزن — 🕓 مسودة
-- `thk-bruceperkins` — بروس بيركنز — 🕓 مسودة
+- `thk-bronfenbrenner` — يوري برونفنبرنر — 🕓 مسودة
+- `thk-brosen` — برنارد روزن — ✅ معتمد
+- `thk-bruceperkins` — بروس بيركنز — ✅ معتمد
 - `thk-brueger` — بيرند رويغر — ✅ معتمد
-- `thk-brussell` — برتراند راسل — ✅ معتمد
-- `thk-buber` — مارتن بوبر — ✅ معتمد
 - `thk-buddha` — بوذا (سيدهارتا غوتاما) — ✅ معتمد
 - `thk-bugental` — جيمس بوجنتال — ✅ معتمد
 - `thk-buhler` — شارلوت بوهلر — ✅ معتمد
@@ -255,19 +309,23 @@
 - `thk-cal-newport` — كال نيوبورت — ✅ معتمد
 - `thk-calbright` — كارين ألبريت — ✅ معتمد
 - `thk-caldwell` — كريستين كالدويل — ✅ معتمد
+- `thk-calkins` — ماري ويتون كالكينز — ✅ معتمد
 - `thk-cambray` — جوزيف كامبري — ✅ معتمد
-- `thk-cameier` — كارل ألفريد ماير — ✅ معتمد
-- `thk-campbell-purton` — كامبيل پيرتون — 🕓 مسودة
+- `thk-cameier` — كارل ألفرد ماير — ✅ معتمد
+- `thk-campbell-purton` — كامبيل پيرتون — ✅ معتمد
 - `thk-camus` — ألبير كامو — ✅ معتمد
 - `thk-canderson` — كارول أندرسون — ✅ معتمد
+- `thk-canguilhem` — جورج كانغيلم — 🕓 مسودة
 - `thk-cannon` — بيتي كانون — ✅ معتمد
 - `thk-cantaki` — تشارلز أنطاكي — ✅ معتمد
 - `thk-capriles` — أكسيل كابريليس — ✅ معتمد
+- `thk-carlos-castaneda` — كارلوس كاستانيدا — ✅ معتمد
 - `thk-carnegie` — ديل كارنيجي — ✅ معتمد
-- `thk-carolyn-dalglish` — كارولين دالجليش — 🕓 مسودة
+- `thk-carolyn-dalglish` — كارولين دالجليش — ✅ معتمد
 - `thk-carta` — ستيفانو كارطا — ✅ معتمد
 - `thk-caruso` — إيغور كاروسو — ✅ معتمد
 - `thk-caruso-amedeo` — أَمدِيو كاروزو — ✅ معتمد
+- `thk-cassirer` — إرنست كاسيرر — ✅ معتمد
 - `thk-castillejo` — إيرين كلارمونت دي كاستييخو — ✅ معتمد
 - `thk-cavasco` — كارلوس ألبيرتو فاسكو — ✅ معتمد
 - `thk-cborduin` — تشارلز بوردوين — ✅ معتمد
@@ -280,55 +338,73 @@
 - `thk-cdello` — كارمن دِل أورو — ✅ معتمد
 - `thk-cdenborough` — كريس دِنْبَره — ✅ معتمد
 - `thk-cdouglas` — كلير دوغلاس — ✅ معتمد
-- `thk-cecilehimawan` — سيسيل هيموان — 🕓 مسودة
+- `thk-cecilehimawan` — سيسيل هيموان — ✅ معتمد
 - `thk-cel-bejjani` — كولين البيجاني — ✅ معتمد
 - `thk-cesaire` — إيمي سيزير — ✅ معتمد
 - `thk-cferster` — تشارلز فيرستر — ✅ معتمد
 - `thk-cfischer` — كونستانس فيشر — ✅ معتمد
-- `thk-cgarrett` — كولين غاريت — 🕓 مسودة
+- `thk-cgarrett` — كولين غاريت — ✅ معتمد
 - `thk-cgerber2` — تشارلز جيربر — ✅ معتمد
-- `thk-cgilligan` — كارول جيليجان — ✅ معتمد
-- `thk-cgrob` — تشارلز غروب — ✅ معتمد
 - `thk-cgrof` — كريستينا غروف — ✅ معتمد
+- `thk-chaim-perelman` — حاييم بيرلمان — ✅ معتمد
+- `thk-chandrakirti` — تشاندركيرتي — ✅ معتمد
 - `thk-charcot` — جان مارتان شاركو — ✅ معتمد
 - `thk-charles-duhigg` — تشارلز دوهيغ — ✅ معتمد
 - `thk-charles-glisson` — تشارلز غليسون — ✅ معتمد
-- `thk-charlesfaulkner` — تشارلز فولكنر — 🕓 مسودة
+- `thk-charles-grob` — تشارلز غروب — ✅ معتمد
+- `thk-charles-swenson` — تشارلز سوينسون — ✅ معتمد
+- `thk-charlesfaulkner` — تشارلز فولكنر — ✅ معتمد
 - `thk-charlestaylor` — تشارلز تايلور — ✅ معتمد
 - `thk-charvaka` — تشارڤاكا (مؤسس لوكاياتا / المادية الهندية) — ✅ معتمد
 - `thk-chatel` — ماري-مادلين شاتيل — ✅ معتمد
+- `thk-cheikh-anta-diop` — شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم) — ✅ معتمد
+- `thk-cheng-hao` — تشنغ هاو — ✅ معتمد
 - `thk-cheng-yi` — تشنغ يي — ✅ معتمد
-- `thk-cherylfairbairn` — شيريل فيربيرن — 🕓 مسودة
+- `thk-cherylfairbairn` — شيريل فيربيرن — ✅ معتمد
 - `thk-chodorow` — نانسي تشودورو — ✅ معتمد
+- `thk-chris-iveson` — كريس إيفسون (Chris Iveson) — ✅ معتمد
+- `thk-christian-wolff` — كريستيان فولف (Christian Wolff) — ✅ معتمد
+- `thk-christof-koch` — كريستوف كوخ — 🕓 مسودة
+- `thk-chrysippus` — خريسيبوس السولي — ✅ معتمد
+- `thk-ci-lewis` — كلارنس إيرفينغ لويس (مؤسِّس البراغماتية التصوّرية) — ✅ معتمد
 - `thk-cialdini` — روبرت تشالديني — ✅ معتمد
+- `thk-cindy-hazan` — سيندي هازان (Cindy Hazan) — ✅ معتمد
 - `thk-cioran` — إميل سيوران — ✅ معتمد
 - `thk-ckorsgaard` — كريستين كورسغارد — ✅ معتمد
 - `thk-clarissa` — كلاريسا بينكولا إِسْتِس — ✅ معتمد
 - `thk-clarkson` — بيتروسكا كلاركسون — ✅ معتمد
-- `thk-clhull` — كلارك هـال — ✅ معتمد
+- `thk-claude-levi-strauss` — كلود ليفي-ستراوس — ✅ معتمد
+- `thk-claude-steele` — كلود ستيل — 🕓 مسودة
+- `thk-cleanthes` — كليانثس الأسوسي — ✅ معتمد
+- `thk-clhull` — كلارك هال — ✅ معتمد
 - `thk-cloemadanes` — كلوي مادانيس — ✅ معتمد
 - `thk-cmadanes` — كلوي مادانس — ✅ معتمد
 - `thk-cmalchiodi` — كاثي مالكيودي — ✅ معتمد
 - `thk-cmartell` — كريستوفر ر. مارتل — ✅ معتمد
-- `thk-cmohanty` — تشاندرا موهانتاي — ✅ معتمد
 - `thk-cmouffe` — شانتال موف — ✅ معتمد
 - `thk-cohn` — هانز كون — ✅ معتمد
 - `thk-colette-dowling` — كوليت داولينغ — ✅ معتمد
 - `thk-combs` — آرثر كومبس — ✅ معتمد
 - `thk-comte` — أوغست كونت — ✅ معتمد
+- `thk-condillac` — إتيان بونو دي كوندياك — ✅ معتمد
+- `thk-condorcet` — نيكولا دو كوندورسيه — ✅ معتمد
 - `thk-condrau` — غيون كوندراو — ✅ معتمد
 - `thk-confucius` — كونفوشيوس (كونغ زي) — ✅ معتمد
-- `thk-connie-rae-anderson` — كوني ري أندرسون — 🕓 مسودة
+- `thk-connie-rae-anderson` — كوني ري أندرسون — ✅ معتمد
 - `thk-cooper` — ميك كوبر — ✅ معتمد
 - `thk-copleston` — فريدريك كوبلستون — ✅ معتمد
+- `thk-cora-zanuso` — كورا زانوسو (Cora Zanuso) — ✅ معتمد
 - `thk-corbett` — ليونيل كوربت — ✅ معتمد
+- `thk-costa` — بول كوستا — 🕓 مسودة
 - `thk-cpeterson` — كريستوفر بيترسون — ✅ معتمد
 - `thk-cprata` — كارلو براتا — ✅ معتمد
+- `thk-craik` — فيرغوس كريك — 🕓 مسودة
+- `thk-crates-thebes` — كراتيس الطيبي — ✅ معتمد
 - `thk-crenshaw` — كيمبرلي كرنشو — ✅ معتمد
 - `thk-crobbins` — كلايف روبنز — ✅ معتمد
 - `thk-crsnyder` — تشارلز ريتشارد سنايدر — ✅ معتمد
 - `thk-cschaefer` — تشارلز شيفر — ✅ معتمد
-- `thk-csikszentmihalyi` — ميهالي تشيكسينتميهالي — ✅ معتمد
+- `thk-csikszentmihalyi` — ميهاي تشيكسنتميهاي — ✅ معتمد
 - `thk-csluzki` — كارلوس سلوزكي — ✅ معتمد
 - `thk-csocarides` — تشارلز سوكرايدِس — ✅ معتمد
 - `thk-csoler` — كوليت سولر — ✅ معتمد
@@ -338,33 +414,42 @@
 - `thk-ctieles` — سيسليو تيليس — ✅ معتمد
 - `thk-ctrungpa` — تشوغيام ترونغبا — ✅ معتمد
 - `thk-ctuzio` — كارلوس توزيو — ✅ معتمد
-- `thk-cwebster` — كريستوفر ويبستر — 🕓 مسودة
+- `thk-cwebster` — كريستوفر ويبستر — ✅ معتمد
 - `thk-cwebster-stratton` — كارولين ويبستر-ستراتون — ✅ معتمد
-- `thk-cwhitaker` — كارل وايتيكر — ✅ معتمد
-- `thk-cwhitaker-pt` — جون مارش — 🕓 مسودة
+- `thk-cwhitaker` — كارل ويتاكر — ✅ معتمد
+- `thk-cwhitaker-pt` — جون مارش — ✅ معتمد
 - `thk-cyamanaka` — تشيي ياماناكا — ✅ معتمد
 - `thk-czeanah` — تشارلز زيناه — ✅ معتمد
 - `thk-dabram` — ديفيد أبرام — ✅ معتمد
 - `thk-dabrowski` — كازيمير دابروفسكي — ✅ معتمد
-- `thk-dai-zhen` — دان تشن — ✅ معتمد
+- `thk-dai-zhen` — داي تشن — ✅ معتمد
+- `thk-dale-carnegie` — ديل كارنيجي — ✅ معتمد
+- `thk-damascius` — داماسكيوس الدمشقي — ✅ معتمد
+- `thk-damasio` — أنطونيو داماسيو — ✅ معتمد
 - `thk-dan-ariely` — دان آرييلي — ✅ معتمد
 - `thk-dan-fisher` — دان فيشر — ✅ معتمد
 - `thk-dan-kiley` — دان كايلي — ✅ معتمد
 - `thk-dan-millman` — دان ميلمان — ✅ معتمد
 - `thk-dana` — ديب دانا — ✅ معتمد
 - `thk-danbrown-ddp` — دانيال ب. براون — ✅ معتمد
+- `thk-daniel-dennett` — دانيال دينيت — ✅ معتمد
 - `thk-daniel-gilbert` — دانيال جيلبرت — ✅ معتمد
-- `thk-daniel-siegel` — دانيال ج. سيغل — ✅ معتمد
-- `thk-daniellevision` — دانييل ليڤيسون — 🕓 مسودة
+- `thk-daniel-stern` — دانيال ستيرن — 🕓 مسودة
+- `thk-daniellevision` — دانييل ليڤيسون — ✅ معتمد
 - `thk-darcy-woebot` — أليسون دارسي — ✅ معتمد
+- `thk-darwin` — تشارلز داروين — ✅ معتمد
 - `thk-dasilva` — غي دا سيلفا — ✅ معتمد
 - `thk-david-allen` — ديفيد ألين — ✅ معتمد
-- `thk-david-erceg` — ديفيد إرسغ — 🕓 مسودة
-- `thk-david-feldman` — ديفيد فيلدمان — 🕓 مسودة
+- `thk-david-berceli` — ديفيد بيرسيلي — ✅ معتمد
+- `thk-david-buss` — ديفيد باس — ✅ معتمد
+- `thk-david-chalmers` — ديفيد تشالمرز — ✅ معتمد
+- `thk-david-erceg` — ديفيد إرسغ — ✅ معتمد
+- `thk-david-feldman` — ديفيد فيلدمان — ✅ معتمد
 - `thk-david-krauss` — ديفيد أ. كراوس — ✅ معتمد
-- `thk-david-reeve` — ديفيد ريڤ — 🕓 مسودة
+- `thk-david-nichols` — ديفيد نيكولز — ✅ معتمد
+- `thk-david-reeve` — ديفيد ريڤ — ✅ معتمد
 - `thk-david-schwartz` — ديفيد ج. شوارتز — ✅ معتمد
-- `thk-davoine` — فرانسوا دافين — ✅ معتمد
+- `thk-davoine` — فرانسواز دافوان — ✅ معتمد
 - `thk-dayananda` — سوامي دياناندا ساراسواتي — ✅ معتمد
 - `thk-dbaucom` — دونالد بِيكوم — ✅ معتمد
 - `thk-dbaumrind` — ديانا باومرند — ✅ معتمد
@@ -372,7 +457,7 @@
 - `thk-dbob` — د. بوب (روبرت هولبروك سميث) — ✅ معتمد
 - `thk-dboyden` — ديان بوييدن — ✅ معتمد
 - `thk-dcamp` — دِنيس كامبل — ✅ معتمد
-- `thk-dcartwright` — دوروين كارت‌رَيت — ✅ معتمد
+- `thk-dcartwright` — دوروين كارترايت — ✅ معتمد
 - `thk-dchamberlain` — ديفيد تشامبرلين — ✅ معتمد
 - `thk-dchopra` — ديباك شوبرا — ✅ معتمد
 - `thk-dchurch` — داوسون تشيرش — ✅ معتمد
@@ -380,34 +465,40 @@
 - `thk-dcooper` — ديفيد كوبر — ✅ معتمد
 - `thk-ddiamond` — دانيال دايموند — ✅ معتمد
 - `thk-ddinste` — دوروثي دينرشتاين — ✅ معتمد
-- `thk-deb-dana` — ديب دانا — 🕓 مسودة
-- `thk-deborah-kremer` — دبرا كريمر — 🕓 مسودة
+- `thk-de-bono` — إدوارد دي بونو — ✅ معتمد
+- `thk-deborah-kremer` — دبرا كريمر — ✅ معتمد
 - `thk-dedwards` — ديرِك إدواردز — ✅ معتمد
-- `thk-deepak-ramsubeik` — ديپاك رامسوبك — 🕓 مسودة
+- `thk-deepak-ramsubeik` — ديپاك رامسوبك — ✅ معتمد
+- `thk-dehaene` — ستانيسلاس دوهان — 🕓 مسودة
 - `thk-delahorbe` — أوجين دي لا هورب — ✅ معتمد
-- `thk-deleuze` — جيل دولوز — 🕓 مسودة
+- `thk-deleuze` — جيل دولوز — ✅ معتمد
 - `thk-delman` — ديف إلمان — ✅ معتمد
+- `thk-democritus` — ديموقريطس الأبديري — ✅ معتمد
+- `thk-deng-yuanhai` — دنغ يوان-هاي — ✅ معتمد
 - `thk-deniswaitley` — دينيس ويتلي — ✅ معتمد
 - `thk-depston` — ديفيد إبستون — ✅ معتمد
 - `thk-deraldwing-sue` — ديرالد وينغ سو — ✅ معتمد
-- `thk-derrida` — جاك دريدا — 🕓 مسودة
+- `thk-derrida` — جاك دريدا — ✅ معتمد
 - `thk-descartes` — رينيه ديكارت — ✅ معتمد
 - `thk-deutsch` — هيلين دويتش — ✅ معتمد
 - `thk-dewaelhens` — ألفونس دي فالهنز — ✅ معتمد
 - `thk-dewey` — جون ديوي — ✅ معتمد
 - `thk-dfeinstein` — ديفيد فاينشتاين — ✅ معتمد
-- `thk-dfisher` — دانيال فيشر — 🕓 مسودة
-- `thk-dfosha` — ديانا فوشا — ✅ معتمد
+- `thk-dfisher` — دانيال فيشر — ✅ معتمد
 - `thk-dgbarrera` — دييغو غارسيا بارّيرا — ✅ معتمد
-- `thk-dgrand` — ديفيد غراند — 🕓 مسودة
-- `thk-dgray` — مارتن ديك — 🕓 مسودة
-- `thk-dgreenberger` — دِنيز د. ديفيد — 🕓 مسودة
+- `thk-dgrand` — ديفيد غراند — ✅ معتمد
+- `thk-dgray` — مارتن ديك — ✅ معتمد
+- `thk-dgreenberger` — دِنيز د. ديفيد — ✅ معتمد
 - `thk-dhanna` — فرانك غولدشتاين — ✅ معتمد
-- `thk-dhook` — دِنيس هوك — ✅ معتمد
-- `thk-diclemente` — كارل دي كليمنتي — 🕓 مسودة
+- `thk-dharmakirti` — دارماكيرتي — ✅ معتمد
+- `thk-dhook` — دِنيس فوكس — ✅ معتمد
+- `thk-diclemente` — كارل دي كليمنتي — ✅ معتمد
+- `thk-diderot` — دنيس ديدرو — ✅ معتمد
 - `thk-dieckmann` — هانس ديكمان — ✅ معتمد
+- `thk-dignaga` — دينّاغا — ✅ معتمد
 - `thk-dilthey` — فيلهلم دلتاي — ✅ معتمد
 - `thk-dimen` — موريل ديمن — ✅ معتمد
+- `thk-diogenes-sinope` — ديوجين السينوبي — ✅ معتمد
 - `thk-djackson` — دون جاكسون — ✅ معتمد
 - `thk-dkalsched` — دونالد كَلشد — ✅ معتمد
 - `thk-dkirkland` — دانيال كيركلاند — ✅ معتمد
@@ -416,12 +507,15 @@
 - `thk-dluo` — دونغ ليو — ✅ معتمد
 - `thk-dmarivoet` — ديرك ماريڤوت — ✅ معتمد
 - `thk-dmeichenbaum` — د. هـ. مايكنباوم — ✅ معتمد
-- `thk-dmercieca` — إيفا ميرسيكا — 🕓 مسودة
+- `thk-dmercieca` — إيفا ميرسيكا — ✅ معتمد
 - `thk-dmiller` — ديفيد ل. ميلر — ✅ معتمد
 - `thk-dmueser` — كيم ميوزر — ✅ معتمد
+- `thk-dogen` — دوغن زينجي — ✅ معتمد
 - `thk-dolweus` — دان أولِس — ✅ معتمد
-- `thk-donaldatkinson` — دونالد أتكينسون — 🕓 مسودة
+- `thk-donald-davidson` — دونالد ديفيدسون — ✅ معتمد
+- `thk-donaldatkinson` — دونالد أتكينسون — ✅ معتمد
 - `thk-donbaer` — دونالد م. باير — ✅ معتمد
+- `thk-dong-zhongshu` — دونغ تشونغ شو — ✅ معتمد
 - `thk-dorange` — دومينيك م. أَورَنج — ✅ معتمد
 - `thk-dostoevsky` — فيودور دوستويفسكي — ✅ معتمد
 - `thk-downing` — كريستين داونينغ — ✅ معتمد
@@ -431,6 +525,7 @@
 - `thk-dpooleheller` — ديان بويل هيلر — ✅ معتمد
 - `thk-drabin` — ديان رابين — ✅ معتمد
 - `thk-drapaport` — ديفيد رابابورت — ✅ معتمد
+- `thk-drew-leder` — درو ليدر — ✅ معتمد
 - `thk-dreyfus` — هوبيرت دريفوس — ✅ معتمد
 - `thk-dreynolds` — ديفيد ك. رينولدز — ✅ معتمد
 - `thk-dsaleeby` — دينس ساليبي — ✅ معتمد
@@ -446,22 +541,23 @@
 - `thk-duns-scotus` — يوحنا دونز سكوتوس (الدكتور سوتيل) — ✅ معتمد
 - `thk-duplock` — سايمون دو بلوك — ✅ معتمد
 - `thk-dwallis` — ديفيد واليس — ✅ معتمد
-- `thk-dwchen` — دونغ-وي تشن — 🕓 مسودة
+- `thk-dwchen` — دونغ-وي تشن — ✅ معتمد
 - `thk-dweck` — كارول دويك — ✅ معتمد
 - `thk-dwile` — دانيال وايل — ✅ معتمد
-- `thk-dwinnicott` — دونالد وِنّيكت — ✅ معتمد
-- `thk-dzurilla` — توماس ج. دزوريلا — 🕓 مسودة
+- `thk-dzurilla` — توماس ج. دزوريلا — ✅ معتمد
 - `thk-eallen` — إليزابيث ألين — ✅ معتمد
+- `thk-earl-nightingale` — إيرل نايتنغيل (Earl Nightingale) — ✅ معتمد
 - `thk-earle` — ويليام إيرل — ✅ معتمد
+- `thk-ebbinghaus` — هرمان إيبنغهاوس — 🕓 مسودة
 - `thk-ebick` — إستر بيك — ✅ معتمد
 - `thk-eblanche` — إرنا بلانش — ✅ معتمد
 - `thk-ebordin` — إدوارد بوردين — ✅ معتمد
 - `thk-ebosnak` — [مؤسِّسو رابطة ساندبلاي في أمريكا] — ✅ معتمد
 - `thk-eburne` — إريك بيرن — ✅ معتمد
 - `thk-eckartsberg` — رولف فون إكارتسبيرغ — ✅ معتمد
-- `thk-ecker` — بروس إيكر — 🕓 مسودة
+- `thk-ecker` — بروس إيكر — ✅ معتمد
 - `thk-eckhart-tolle` — إيكهارت تول — ✅ معتمد
-- `thk-ecolle` — إيما كول — 🕓 مسودة
+- `thk-ecolle` — إيما كول — ✅ معتمد
 - `thk-econrad` — إيميلي كونراد — ✅ معتمد
 - `thk-ecraig` — إريك كريك — ✅ معتمد
 - `thk-ectolman` — إدوارد تولمان — ✅ معتمد
@@ -469,10 +565,12 @@
 - `thk-edferguson` — إيفا درايكرز فيرغوسون — ✅ معتمد
 - `thk-edie` — جيمس إيدي — ✅ معتمد
 - `thk-edinger` — إدوارد إف. إيدينغر — ✅ معتمد
+- `thk-edith-stein` — إديث شتاين (ظاهراتية، توماوية، شهيدة) — ✅ معتمد
 - `thk-edsch` — [مؤسِّسو AAPA / مُنظِّمو SCAP / SVAJ / SOMEJ / SCAJ] — ✅ معتمد
+- `thk-eduardo-duran` — إدواردو دوران — ✅ معتمد
 - `thk-edward-de-bono` — إدوارد دي بونو — ✅ معتمد
-- `thk-eengelhardt` — هيوغز إنغلهارت — ✅ معتمد
-- `thk-efriedman` — إدوارد فريدمان — ✅ معتمد
+- `thk-eengelhardt` — هـ. تريسترام إنغلهارت الابن — ✅ معتمد
+- `thk-efriedman` — إدوين فريدمان — ✅ معتمد
 - `thk-egaston` — إ. ثوريت غاستون — ✅ معتمد
 - `thk-egendlin` — يوجين جيندلين — ✅ معتمد
 - `thk-eholt` — إدوين هولت — ✅ معتمد
@@ -481,34 +579,42 @@
 - `thk-ejung` — إيما يونغ — ✅ معتمد
 - `thk-ekandel` — إريك كاندِل — ✅ معتمد
 - `thk-ekeleman` — ستانلي كِلمان — ✅ معتمد
+- `thk-ekman` — بول إيكمان — ✅ معتمد
 - `thk-eknobe` — جوشوا نوب — ✅ معتمد
 - `thk-ekramer` — إديث كرامر — ✅ معتمد
 - `thk-ekris` — إرنست كريس — ✅ معتمد
 - `thk-elaine-aron` — إيلين آرون — ✅ معتمد
-- `thk-elaszlo` — إرڤين لازلو — ✅ معتمد
-- `thk-eleanor-crisostomo` — إيلينور كريزوستومو — 🕓 مسودة
+- `thk-elaszlo` — إرفين لازلو — ✅ معتمد
+- `thk-eleanor-crisostomo` — إيلينور كريزوستومو — ✅ معتمد
 - `thk-elevine` — إيلين ليفين — ✅ معتمد
-- `thk-elin-rbaek` — إلين ربيك — 🕓 مسودة
+- `thk-elifellows` — جوزيف أ. وايت جونيور — ✅ معتمد
+- `thk-elin-rbaek` — إلين ربيك — ✅ معتمد
 - `thk-elizabeth-loftus` — إليزابيث لوفتوس — ✅ معتمد
 - `thk-ellenberger` — هنري إلينبرجر — ✅ معتمد
 - `thk-ellis` — ألبرت إليس — ✅ معتمد
 - `thk-ellison` — رالف إليسون — ✅ معتمد
-- `thk-emaroda` — إيف مارودا — ✅ معتمد
+- `thk-elmessiri` — عبد الوهاب المسيري — 🕓 مسودة
+- `thk-emaroda` — كارِن مارودا — ✅ معتمد
 - `thk-emerson` — رالف والدو إمرسون — ✅ معتمد
 - `thk-emilecoue` — إميل كوي — ✅ معتمد
 - `thk-emmons` — روبرت إيمونز — ✅ معتمد
+- `thk-empedocles` — أنباذوقليس الأكراغاسي — ✅ معتمد
 - `thk-engelhardt` — ديتريش فون إنغلهاردت — ✅ معتمد
 - `thk-engels` — فريدريش إنغلز — ✅ معتمد
-- `thk-enidbalint` — إنيذ بالينت — ✅ معتمد
+- `thk-enidbalint` — إنيد بالينت — ✅ معتمد
+- `thk-enrique-dussel` — إنريكي دوسيل — ✅ معتمد
 - `thk-epaz` — إيلسا باث كاستيّو — ✅ معتمد
 - `thk-epichon` — إنريكيه بيتشون-ريفيير — ✅ معتمد
+- `thk-epictetus` — إبكتيتوس — ✅ معتمد
+- `thk-epicur` — أبيقور الساموسي — ✅ معتمد
 - `thk-epierrakos` — إيڤا بيراكوس (بروش) — ✅ معتمد
 - `thk-epolster` — إرفينغ بولستر — ✅ معتمد
 - `thk-erasmus` — دسيديريوس إراسموس — ✅ معتمد
 - `thk-ereich` — إيڤا رايخ — ✅ معتمد
-- `thk-ereichelt` — إريك رايشيلت — ✅ معتمد
-- `thk-erickson-erl` — إيرل إريكسون — 🕓 مسودة
-- `thk-erikpearson` — إريك پيرسون — 🕓 مسودة
+- `thk-ereichelt` — روبرت جاي رايشلر — ✅ معتمد
+- `thk-erickson-erl` — إرنست لورنس روسي — ✅ معتمد
+- `thk-erigena` — يوحنا سكوتس إريجينا — ✅ معتمد
+- `thk-erikpearson` — إريك پيرسون — ✅ معتمد
 - `thk-erikson` — إريك إريكسون — ✅ معتمد
 - `thk-erosch` — إيلينور روش — ✅ معتمد
 - `thk-esaebel` — إليزابيث سايبل — ✅ معتمد
@@ -533,40 +639,53 @@
 - `thk-farley` — إدوارد فارلي — ✅ معتمد
 - `thk-farrelly` — فرانك فاريلي — ✅ معتمد
 - `thk-fberlin` — فريد برلين — ✅ معتمد
+- `thk-fc-schiller` — ف. س. س. شيلر — ✅ معتمد
 - `thk-fcaine` — فلورنس كاني — ✅ معتمد
 - `thk-fdolto` — فرانسواز دولتو — ✅ معتمد
+- `thk-fechner` — غوستاف فيخنر — ✅ معتمد
 - `thk-federn` — بول فيديرن — ✅ معتمد
 - `thk-femery` — فريد إيمري — ✅ معتمد
+- `thk-feng-youlan` — فنغ يو-لان (الفلسوف المؤسِّس للنيوكونفوشية الحديثة) — ✅ معتمد
+- `thk-feuerbach` — لودفيغ أندرياس فيورباخ — ✅ معتمد
 - `thk-fgutier` — فرانسيسكو غوتيريس — ✅ معتمد
 - `thk-fhaug` — فريغا هاوُغ — ✅ معتمد
-- `thk-fherzog` — ف. هرتسوغ — 🕓 مسودة
+- `thk-fherzog` — ف. هرتسوغ — ✅ معتمد
 - `thk-fichte` — يوهان غوتليب فيشته — ✅ معتمد
 - `thk-fink` — أويغن فينك — ✅ معتمد
 - `thk-firestone` — شولاميث فيرستون — ✅ معتمد
 - `thk-fizzotti` — أوجينيو فيزوتي — ✅ معتمد
 - `thk-fkeller` — فريد س. كيلّر — ✅ معتمد
-- `thk-fkfu` — ف. كي. فو — 🕓 مسودة
+- `thk-fkfu` — ف. كي. فو — ✅ معتمد
 - `thk-fkurtz` — رونالد كورتز — ✅ معتمد
 - `thk-flake` — فرانك ليك — ✅ معتمد
 - `thk-floridi` — لوشيانو فلوريدي — ✅ معتمد
 - `thk-flusser` — فيليم فلوسر — ✅ معتمد
 - `thk-flynn` — توماس فلين — ✅ معتمد
 - `thk-fmesmer` — فرانتس أنطون ميسمر — ✅ معتمد
-- `thk-fmodestin` — ماري كورنين — ✅ معتمد
+- `thk-fmodestin` — باتريك كوريغان — ✅ معتمد
 - `thk-fnewman` — فريد نيومان — ✅ معتمد
-- `thk-foa` — إدنا ب. فوا — 🕓 مسودة
+- `thk-foa` — إدنا ب. فوا — ✅ معتمد
+- `thk-folkman` — سوزان فولكمان — 🕓 مسودة
+- `thk-fonagy` — بيتر فوناغي — ✅ معتمد
 - `thk-fondane` — بنجامين فوندان — ✅ معتمد
 - `thk-fordham` — مايكل فوردام — ✅ معتمد
-- `thk-foucault` — ميشيل فوكو — 🕓 مسودة
+- `thk-fosha` — ديانا فوشا — ✅ معتمد
+- `thk-fouad-zakariya` — فؤاد زكريا — ✅ معتمد
+- `thk-foucault` — ميشيل فوكو — ✅ معتمد
 - `thk-foulkes` — إس. إتش. فولكس — ✅ معتمد
 - `thk-fperls` — فريتز بيرلز — ✅ معتمد
-- `thk-fpeseschkian` — فريد بيسشكيان — 🕓 مسودة
-- `thk-frankanderson` — فرانك أندرسون — 🕓 مسودة
+- `thk-fpeseschkian` — فريد بيسشكيان — ✅ معتمد
+- `thk-francesharville` — فرانسين شابيرو (ملف مكرّر) — ✅ معتمد
+- `thk-francine-shapiro` — فرانسين شابيرو — ✅ معتمد
+- `thk-francis-bacon` — فرانسيس بيكون (لورد فيرولام) — ✅ معتمد
+- `thk-francisco-de-vitoria` — فرانسيسكو دي فيتوريا — ✅ معتمد
+- `thk-frankanderson` — فرانك أندرسون — ✅ معتمد
 - `thk-frankl` — فيكتور فرانكل — ✅ معتمد
-- `thk-frederickleong` — فريديريك ليونغ — 🕓 مسودة
-- `thk-freeman` — دانيال فريمان — 🕓 مسودة
+- `thk-frederickleong` — فريديريك ليونغ — ✅ معتمد
+- `thk-freeman` — دانيال فريمان — ✅ معتمد
 - `thk-freud` — سيغموند فرويد — ✅ معتمد
 - `thk-frey-rohn` — ليليان فري-رون — ✅ معتمد
+- `thk-friston` — كارل فريستون — 🕓 مسودة
 - `thk-fromm` — إريك فروم — ✅ معتمد
 - `thk-fromm-reichmann` — فريدا فروم-رايخمان — ✅ معتمد
 - `thk-fskinner` — بورهوس فريدريك سكينر — ✅ معتمد
@@ -577,17 +696,23 @@
 - `thk-fvanderzee` — فرانك فان دير زي — ✅ معتمد
 - `thk-fvaughan` — فرانسيس فوغان — ✅ معتمد
 - `thk-fvolkmar` — فريد فولكمار — ✅ معتمد
-- `thk-fyeomans` — فرانك يَرمسون — ✅ معتمد
+- `thk-fyeomans` — فرانك يومانز — ✅ معتمد
 - `thk-gabel` — جين أبيل — ✅ معتمد
 - `thk-gabor-mate` — غابور ماتيه — ✅ معتمد
 - `thk-gadamer` — هانز-غيورغ غادامير — ✅ معتمد
 - `thk-gadamoli` — غلاديس آدامولي — ✅ معتمد
 - `thk-gadler` — غيرهارد أدلر — ✅ معتمد
+- `thk-galileo-galilei` — غاليليو غاليلي — ✅ معتمد
 - `thk-gallport` — جوردون ألبورت — ✅ معتمد
 - `thk-gandhi` — موهانداس كرمشاند غاندي — ✅ معتمد
+- `thk-gangesha` — غانغيشا أوبادهيايا — ✅ معتمد
 - `thk-ganscombe` — جيرترود إليونور ماري أنسكومب — ✅ معتمد
 - `thk-gaos` — خوسيه غاوس — ✅ معتمد
+- `thk-gardner` — هوارد غاردنر — 🕓 مسودة
 - `thk-gary-chapman` — غاري تشابمان — ✅ معتمد
+- `thk-gary-wells` — غاري ويلز — ✅ معتمد
+- `thk-gaudapada` — غودابادا — ✅ معتمد
+- `thk-gazzaniga` — مايكل غازانيغا — 🕓 مسودة
 - `thk-gbach` — جورج بَخ — ✅ معتمد
 - `thk-gbateson` — غريغوري باتسون — ✅ معتمد
 - `thk-gbond` — غاري بوند — ✅ معتمد
@@ -598,25 +723,31 @@
 - `thk-gcraparo` — جوزيبي كرابّارو — ✅ معتمد
 - `thk-gdiamond` — غي دايموند — ✅ معتمد
 - `thk-gdiaz` — خينا دياث — ✅ معتمد
-- `thk-ge-hong` — غي هونغ (تساو باوبو) — ✅ معتمد
+- `thk-ge-hong` — غي هونغ (باوبو تسو) — ✅ معتمد
+- `thk-ge-moore` — جورج إدوارد مور — ✅ معتمد
 - `thk-gebsattel` — فيكتور فون غيبساتل — ✅ معتمد
 - `thk-gendlin` — يوجين جندلين — ✅ معتمد
-- `thk-gene-ennis` — جين إينيس — 🕓 مسودة
+- `thk-gene-ennis` — جين إينيس — ✅ معتمد
 - `thk-gengel` — جورج إنغل — ✅ معتمد
+- `thk-george-herbert-mead` — جورج هربرت ميد (مؤسِّس السُلوكية الاجتماعية) — ✅ معتمد
 - `thk-george-lakoff` — جورج لاكوف — ✅ معتمد
-- `thk-george-thompson` — جورج تومبسون — 🕓 مسودة
+- `thk-george-miller` — جورج ميلر — 🕓 مسودة
+- `thk-george-thompson` — جورج تومبسون — ✅ معتمد
 - `thk-georgeatwood` — جورج أتوود — ✅ معتمد
 - `thk-gferri` — جينوفينو فيري — ✅ معتمد
 - `thk-gfrege` — غوتلوب فريغه — ✅ معتمد
 - `thk-ggurdjieff` — غي. آي. غورجييف — ✅ معتمد
-- `thk-ghoffman` — غلين هوفمان — ✅ معتمد
+- `thk-ghiyath-al-din-dashtaki` — غياث الدين منصور الدشتكي الشيرازي — ✅ معتمد
+- `thk-ghoffman` — كِنت هوفمان — ✅ معتمد
 - `thk-giegerich` — وولفغانغ غيغيريش — ✅ معتمد
 - `thk-gilgamesh` — جلجامش (شخصية ملحمة) — ✅ معتمد
-- `thk-gillian-abbott` — جيليان أبوت — 🕓 مسودة
+- `thk-gillian-abbott` — جيليان أبوت — ✅ معتمد
 - `thk-gilligan` — كارول غيليغان — ✅ معتمد
+- `thk-giordano-bruno` — جوردانو برونو — ✅ معتمد
 - `thk-giorgi` — أميديو جيورجي — ✅ معتمد
+- `thk-giorgio-agamben` — جورجو أغامبين — ✅ معتمد
 - `thk-gjohanson` — غريغوري جوهانسون — ✅ معتمد
-- `thk-gklerman` — جيرالد كَلِرمان — ✅ معتمد
+- `thk-gklerman` — جيرالد كليرمان — ✅ معتمد
 - `thk-gladwell` — مالكولم غلادويل — ✅ معتمد
 - `thk-glandreth` — غاري لاندريث — ✅ معتمد
 - `thk-glasser` — ويليام غلاسر — ✅ معتمد
@@ -624,39 +755,52 @@
 - `thk-glover` — إدوارد غلوفر — ✅ معتمد
 - `thk-gmesibov` — غاري ميسيبوف — ✅ معتمد
 - `thk-gnaranjo` — كلاوديو نارانخو — ✅ معتمد
-- `thk-gnardone` — جورجيو ناردوني — 🕓 مسودة
-- `thk-gold` — جوزيف غولد — 🕓 مسودة
+- `thk-gnardone` — جورجيو ناردوني — ✅ معتمد
+- `thk-gobind-singh` — غورو غوبند سينغ — ✅ معتمد
+- `thk-goethe` — يوهان فولفغانغ فون غوته — ✅ معتمد
+- `thk-goffman` — إرفينغ غوفمان — 🕓 مسودة
+- `thk-gold` — جوزيف غولد — ✅ معتمد
 - `thk-goldberg` — أرنولد غولدبرغ — ✅ معتمد
-- `thk-goldfried` — مارفين غولدفريد — 🕓 مسودة
+- `thk-goldfried` — مارفين غولدفريد — ✅ معتمد
 - `thk-goldmann` — لوسيان غولدمان — ✅ معتمد
 - `thk-goldstein` — كورت غولدشتاين — ✅ معتمد
 - `thk-goleman` — دانيال غولمان — ✅ معتمد
+- `thk-golwalkar` — مادهاف ساداشيف جولوَلكار — ✅ معتمد
+- `thk-gongsun-long` — غونغسون لونغ (أعلام التمييز، أعلام الحِجّة) — ✅ معتمد
 - `thk-goodman` — بول غودمان — ✅ معتمد
 - `thk-gordon` — لويس غوردون — ✅ معتمد
+- `thk-gorgias` — جورجياس الليونتيني — ✅ معتمد
 - `thk-gotama-kanad` — أكساپادا غوتاما (مؤسس نيايا) — ✅ معتمد
+- `thk-gotama-nyaya` — أكشابادا غوتاما — ✅ معتمد
 - `thk-govinda` — لاما أناغاريكا غوفيندا — ✅ معتمد
-- `thk-gparis` — جانيت باريس — ✅ معتمد
+- `thk-gparis` — جينيت باريس — ✅ معتمد
 - `thk-graeber` — ديفيد غريبر — ✅ معتمد
+- `thk-graham-harman` — غراهام هارمان — ✅ معتمد
 - `thk-greenberg` — جيف غرينبرغ — ✅ معتمد
 - `thk-greenberg-lisa` — ليزلي س. غرينبرغ — ✅ معتمد
-- `thk-greenwald` — راي غرينوالد — 🕓 مسودة
+- `thk-greenwald` — راي غرينوالد — ✅ معتمد
+- `thk-gregory-rimini` — غريغوري الريميني — ✅ معتمد
 - `thk-grenier` — جان غرينييه — ✅ معتمد
 - `thk-gretchen-rubin` — غريتشين روبين — ✅ معتمد
-- `thk-griffiths` — رولاند غريفيثز — 🕓 مسودة
-- `thk-grose` — غيليس روز — ✅ معتمد
+- `thk-griffiths` — رولاند غريفيثز — ✅ معتمد
+- `thk-grose` — غليس روز — ✅ معتمد
 - `thk-groselli` — غيلي روزيليني — ✅ معتمد
 - `thk-gschwartz` — غاري شوارتز — ✅ معتمد
 - `thk-gshepherd` — جيفري شيبرد — ✅ معتمد
-- `thk-gsmith` — غراهام سميث — 🕓 مسودة
+- `thk-gsmith` — غراهام سميث — ✅ معتمد
 - `thk-guattari` — فيليكس غواتاري — ✅ معتمد
 - `thk-guggenbuhl` — أدولف غوغنبوهل-كرايغ — ✅ معتمد
-- `thk-gunnel-cederblad` — جونيل سيدِربلاد — 🕓 مسودة
+- `thk-gunnel-cederblad` — جونيل سيدِربلاد — ✅ معتمد
 - `thk-guntrip` — هاري غانترب — ✅ معتمد
+- `thk-guo-xiang` — قوه شيانغ — ✅ معتمد
 - `thk-gurwitsch` — آرون غورفيتش — ✅ معتمد
 - `thk-guy-winch` — غاي وينش — ✅ معتمد
 - `thk-gweber` — غونتهارد فيبر — ✅ معتمد
 - `thk-gweishaar` — إريك وايشار — ✅ معتمد
 - `thk-habermas` — يورغن هابرماس — ✅ معتمد
+- `thk-hadi-sabzawari` — ملا هادي بن مهدي السبزواري — ✅ معتمد
+- `thk-hajime-tanabe` — هاجيمي تانيبي — ✅ معتمد
+- `thk-hakuin` — هاكوين إيكاكو — ✅ معتمد
 - `thk-halling` — ستين هالينغ — ✅ معتمد
 - `thk-hammarskjold` — داغ همرشولد — ✅ معتمد
 - `thk-handerson` — هارلين أندرسون — ✅ معتمد
@@ -664,10 +808,12 @@
 - `thk-hannah` — بربارة حنّة — ✅ معتمد
 - `thk-haponte` — هاري أبونت — ✅ معتمد
 - `thk-haraway` — دونا هاراواي — ✅ معتمد
+- `thk-harriet-lerner` — هارييت ليرنر — ✅ معتمد
 - `thk-harris` — أدريان هاريس — ✅ معتمد
 - `thk-hartmann` — نيكولاي هارتمان — ✅ معتمد
 - `thk-hartmannheinz` — هاينز هارتمان — ✅ معتمد
-- `thk-hayes-steven` — ستيفن سي. هايز — ✅ معتمد
+- `thk-harville-hendrix` — هارفيل هندرِكس (Harville Hendrix) — ✅ معتمد
+- `thk-hassan-hanafi` — حسن حنفي — ✅ معتمد
 - `thk-hayyim-vital` — الحاخام حاييم فيتال — ✅ معتمد
 - `thk-hbarbaree` — هوارد بارباري — ✅ معتمد
 - `thk-hbeaumont` — هانتر بومون — ✅ معتمد
@@ -675,28 +821,39 @@
 - `thk-hcrsilneck` — هارولد كراسيلنيك — ✅ معتمد
 - `thk-hdavanloo` — حبيب دَفانلو — ✅ معتمد
 - `thk-he-yan` — هي يان — ✅ معتمد
+- `thk-hebb` — دونالد هب — 🕓 مسودة
+- `thk-hefny` — قدري حفني — 🕓 مسودة
 - `thk-hegel` — جورج فيلهلم فريدريش هيغل — ✅ معتمد
 - `thk-heidegger` — مارتن هايدجر — ✅ معتمد
-- `thk-heidegger-technology` — مارتن هايدجر (كفيلسوف للتكنولوجيا) — 🕓 مسودة
+- `thk-heidegger-technology` — مارتن هايدجر (كفيلسوف للتكنولوجيا) — ✅ معتمد
 - `thk-heimann` — بولا هايمان — ✅ معتمد
+- `thk-helen-lakelly-hunt` — هيلين لاكيلي هانت (المشاركة في تأسيس علاج إيماغو العلائقي) — ✅ معتمد
 - `thk-heller` — أغنيس هيلر — ✅ معتمد
 - `thk-hellmuth` — هيرمين هوغ-هيلموث — ✅ معتمد
+- `thk-helmholtz` — هرمان فون هلمهولتز — ✅ معتمد
+- `thk-henry-odera-oruka` — هنري أوديرا أوروكا — ✅ معتمد
+- `thk-heraclitus` — هيراقليطس الإفسيسي — ✅ معتمد
+- `thk-herbert-simon` — هربرت سايمون — 🕓 مسودة
 - `thk-hermes-trismegistus` — هرمس ثلاثي العظمة (شخصية تقليدية) — ✅ معتمد
-- `thk-hershman` — دينا هيرشمان — 🕓 مسودة
+- `thk-hershman` — دينا هيرشمان — ✅ معتمد
 - `thk-herskovitz` — مورتن هيرسكوفيتز — ✅ معتمد
 - `thk-heydt` — فيرا فون دير هايدت — ✅ معتمد
 - `thk-heysenck` — هَانز آيسنك — ✅ معتمد
 - `thk-hghoffman` — هنتر هوفمان — ✅ معتمد
 - `thk-hgoolishian` — هاري غوليشيان — ✅ معتمد
 - `thk-hhart` — هنري هارت — ✅ معتمد
-- `thk-hhendrix` — هارفي هندرِكس — ✅ معتمد
+- `thk-hhendrix` — هارفيل هندريكس — ✅ معتمد
 - `thk-hherzog` — ماكس هرتسوغ — ✅ معتمد
 - `thk-hhuber` — هيلموت هوبر — ✅ معتمد
+- `thk-hierocles-stoic` — هيروكليس الرواقي — ✅ معتمد
+- `thk-hijazi` — مصطفى حجازي — 🕓 مسودة
 - `thk-hillman` — جيمس هيلمان — ✅ معتمد
+- `thk-hipparchia` — هيبارشيا من مارونيا — ✅ معتمد
+- `thk-hippias` — هيبياس الإليسي — ✅ معتمد
 - `thk-hjguilhardi` — هيليو جوزيه غيلاردي — ✅ معتمد
 - `thk-hkaplan` — هيلين سنغر كابلان — ✅ معتمد
 - `thk-hkawai` — هياو كاواي — ✅ معتمد
-- `thk-hkoprulu` — حازم قبرلو (حازم كوبرولو) — 🕓 مسودة
+- `thk-hkoprulu` — حازم قبرلو (حازم كوبرولو) — ✅ معتمد
 - `thk-hkrystal` — هيروشي كاواشيما — ✅ معتمد
 - `thk-hkwiatkowska` — هانا كفياتكوفسكا — ✅ معتمد
 - `thk-hliddle` — هوارد ليدل — ✅ معتمد
@@ -706,15 +863,17 @@
 - `thk-hmosak` — هارولد موساك — ✅ معتمد
 - `thk-hmurray` — هنري موراي — ✅ معتمد
 - `thk-hnishida` — هيرويوكي نيشيدا — ✅ معتمد
+- `thk-hobbes` — توماس هوبز — ✅ معتمد
 - `thk-hoeller` — كيث هولر — ✅ معتمد
 - `thk-hoffman` — لويس هوفمان — ✅ معتمد
-- `thk-hohagen` — فريدريش هوهاغن — 🕓 مسودة
+- `thk-hohagen` — فريدريش هوهاغن — ✅ معتمد
 - `thk-holderlin` — فريدريش هولدرلين — ✅ معتمد
+- `thk-holmes-rolston` — هولمز رولستون الثالث (Holmes Rolston III) — ✅ معتمد
 - `thk-holzhey` — أليس هولتسهي-كونتس — ✅ معتمد
 - `thk-houle` — سيريل هول — ✅ معتمد
 - `thk-hountondji` — بولين هينتونجي — ✅ معتمد
 - `thk-hpalmer` — هاري بالمر — ✅ معتمد
-- `thk-hputnam` — هيلاري putnam — ✅ معتمد
+- `thk-hputnam` — هيلاري بوتنام — ✅ معتمد
 - `thk-hresneck` — هيلين رِسنِك-سانّيس — ✅ معتمد
 - `thk-hschlesinger` — هربرت شليسنغر — ✅ معتمد
 - `thk-hsolomon` — هيستر م. سولومون — ✅ معتمد
@@ -724,30 +883,42 @@
 - `thk-hstrupp` — هانس ستروب — ✅ معتمد
 - `thk-hu-shi` — هو شي (Hu Shih) — ✅ معتمد
 - `thk-hugo-saint-victor` — هوغو من سانت فيكتور — ✅ معتمد
+- `thk-huineng` — داجيان هوي نينغ — ✅ معتمد
 - `thk-huishi` — هوي شي (هوي تشي) — ✅ معتمد
 - `thk-hume` — ديفيد هيوم — ✅ معتمد
+- `thk-hunayn-ibn-ishaq` — حنين بن إسحاق العبادي — ✅ معتمد
 - `thk-huppertz` — غيرنوت هوبرتز — ✅ معتمد
 - `thk-hussein` — طه حسين — ✅ معتمد
 - `thk-husserl` — إدموند هوسرل — ✅ معتمد
 - `thk-hweiner` — هربرت فاينر — ✅ معتمد
-- `thk-hweiss` — هارييت وايس — ✅ معتمد
+- `thk-hweiss` — هالكو ڤايس — ✅ معتمد
 - `thk-hwiyoro` — هيكتور ويورو — ✅ معتمد
+- `thk-hypatia` — هيباتيا السكندرية — ✅ معتمد
+- `thk-iamblichus` — يامبليخوس الخلقيسي — ✅ معتمد
 - `thk-iberg` — إنسو كيم بيرغ — ✅ معتمد
 - `thk-ibieber` — إرفنغ بيبر — ✅ معتمد
+- `thk-ibn-al-haytham` — ابن الهيثم (الحسن بن الحسن / Alhazen) — ✅ معتمد
 - `thk-ibn-arabi` — محيي الدين بن عربي (الشيخ الأكبر) — ✅ معتمد
+- `thk-ibn-bajjah` — ابن باجة (أبو بكر بن الصائغ / Avempace) — ✅ معتمد
 - `thk-ibn-gabirol` — سليمان بن يحيى ابن جابيرول (أفيسبريم) — ✅ معتمد
+- `thk-ibn-hazm` — أبو محمد علي بن أحمد بن حزم الأندلسي — ✅ معتمد
+- `thk-ibn-khaldun` — عبد الرحمن بن محمد بن خلدون الحضرمي — ✅ معتمد
 - `thk-ibn-rushd` — أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر) — ✅ معتمد
+- `thk-ibn-sabin` — عبد الحق بن إبراهيم بن سبعين المرسي — ✅ معتمد
 - `thk-ibn-sina` — أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس) — ✅ معتمد
 - `thk-ibn-taymiyya` — تقي الدين أبو العباس أحمد ابن تيمية — ✅ معتمد
-- `thk-ibrenner` — إيرفينغ برينر — ✅ معتمد
-- `thk-icheolhong` — تشو هي-سو — 🕓 مسودة
+- `thk-ibn-tufayl` — أبو بكر محمد بن عبد الملك بن طفيل — ✅ معتمد
+- `thk-ibrenner` — تشارلز برينر — ✅ معتمد
+- `thk-icheolhong` — تشو هي-سو — ✅ معتمد
 - `thk-idmarshall` — توماس هانا — ✅ معتمد
-- `thk-ieyberg` — شيرلي إِيبِرغ — 🕓 مسودة
+- `thk-ieyberg` — شيرلي إِيبِرغ — ✅ معتمد
 - `thk-ifrom` — إيزادور فروم — ✅ معتمد
-- `thk-ihewlen` — إِهالِيكالا هيو لين — 🕓 مسودة
-- `thk-ihilgard` — إرنست ر. هيلغارد — 🕓 مسودة
-- `thk-ilovaas` — أو. إيفار لوفاس — ✅ معتمد
+- `thk-ihewlen` — إِهالِيكالا هيو لين — ✅ معتمد
+- `thk-ihilgard` — إرنست ر. هيلغارد — ✅ معتمد
+- `thk-ijzendoorn` — مارينوس فان أيزندورن — 🕓 مسودة
 - `thk-imartinbaro` — إغناثيو مارتن-بارو — ✅ معتمد
+- `thk-imre-lakatos` — إيمري لاكاتوش — ✅ معتمد
+- `thk-insel` — توماس إنسل — 🕓 مسودة
 - `thk-ionesco` — أوجين يونسكو — ✅ معتمد
 - `thk-iparker` — إيان باركر — ✅ معتمد
 - `thk-ipavlov` — إيفان بافلوف — ✅ معتمد
@@ -759,38 +930,44 @@
 - `thk-irubenfeld` — إيلانا روبنفِلد — ✅ معتمد
 - `thk-isaac-blind` — إسحاق العميان (إسحاق بن سليمان الإسرائيلي) — ✅ معتمد
 - `thk-isaac-luria` — إسحاق لوريا (الأري) — ✅ معتمد
+- `thk-isaac-newton` — إسحاق نيوتن — ✅ معتمد
 - `thk-isaacs` — سوزان إسكس — ✅ معتمد
 - `thk-isap` — [جمعية ISAP / إيلينا/آنا فاي-قاردنر] — ✅ معتمد
 - `thk-isebastiani` — إيفان سيباستياني — ✅ معتمد
+- `thk-ishvarakrishna` — إشفاراكريشنا — ✅ معتمد
 - `thk-isquella` — إيزابيل سكيلّا — ✅ معتمد
-- `thk-istansky` — إيروين سترانسكي — 🕓 مسودة
+- `thk-istansky` — إيروين سترانسكي — ✅ معتمد
 - `thk-iyengar` — بي. كيه. إس. آيَنغَر — ✅ معتمد
 - `thk-jabra` — جبرا إبراهيم جبرا — ✅ معتمد
 - `thk-jacobsen` — بو ياكوبسن — ✅ معتمد
 - `thk-jacobson` — إديث جاكوبسون — ✅ معتمد
-- `thk-jacqueline-astington` — جاكلين أستنغتون — 🕓 مسودة
-- `thk-jacqueline-peart` — جاكلين پيرت — 🕓 مسودة
-- `thk-jacqueline-tortorella` — جاكلين تورتوريلا — 🕓 مسودة
-- `thk-jacqueline-varner` — جاكلين فارنر — 🕓 مسودة
+- `thk-jacqueline-astington` — جاكلين أستنغتون — ✅ معتمد
+- `thk-jacqueline-peart` — جاكلين پيرت — ✅ معتمد
+- `thk-jacqueline-tortorella` — جاكلين تورتوريلا — ✅ معتمد
+- `thk-jacqueline-varner` — جاكلين فارنر — ✅ معتمد
 - `thk-jadler` — جانيت أدلر — ✅ معتمد
 - `thk-jaffe` — أنييلا يافّه — ✅ معتمد
 - `thk-jahoda` — ماري جاهودا — ✅ معتمد
-- `thk-jakhan` — نوربلز إيفانز-هيل — ✅ معتمد
+- `thk-jakhan` — ويد نوبلز — ✅ معتمد
+- `thk-jalal-al-din-dawani` — جلال الدين محمد بن أسعد الدواني — ✅ معتمد
 - `thk-jalal-al-din-rumi` — جلال الدين الرومي (مولانا) — ✅ معتمد
 - `thk-jaliaga` — خوان أنطونيو ألياغا — ✅ معتمد
 - `thk-james` — وليم جيمس — ✅ معتمد
-- `thk-james-berman` — جيمس بيرمان — 🕓 مسودة
+- `thk-james-allen` — جيمس ألين — ✅ معتمد
+- `thk-james-berman` — جيمس بيرمان — ✅ معتمد
 - `thk-james-clear` — جيمس كلير — ✅ معتمد
-- `thk-james-gumpert` — جيمس غومپرت — 🕓 مسودة
+- `thk-james-gumpert` — جيمس غومپرت — ✅ معتمد
 - `thk-jamiller` — جاك-أَلان ميلِّر — ✅ معتمد
 - `thk-janet` — بيير جانيه — ✅ معتمد
-- `thk-janethelms` — جانيت هيلمز — 🕓 مسودة
-- `thk-janicewilliams` — جانيس ويليامز — 🕓 مسودة
-- `thk-jarlena-white` — جارلينا وايت — 🕓 مسودة
+- `thk-janethelms` — جانيت هيلمز — ✅ معتمد
+- `thk-janicewilliams` — جانيس ويليامز — ✅ معتمد
+- `thk-janina-fisher` — جانينا فيشر — ✅ معتمد
+- `thk-jarlena-white` — جارلينا وايت — ✅ معتمد
 - `thk-jaspers` — كارل ياسبرز — ✅ معتمد
 - `thk-jaustin` — جون لانغشو أوستن — ✅ معتمد
 - `thk-jay-shetty` — جاي شيتي — ✅ معتمد
-- `thk-jayearly` — جاي إيرلي — 🕓 مسودة
+- `thk-jayatirtha` — جاياتيرثا (تيكاشاريا) — ✅ معتمد
+- `thk-jayearly` — جاي إيرلي — ✅ معتمد
 - `thk-jayres` — جين أَيرس — ✅ معتمد
 - `thk-jbanmen` — جون بانمن — ✅ معتمد
 - `thk-jbaylin` — جون بايلين — ✅ معتمد
@@ -802,12 +979,12 @@
 - `thk-jbirnbrauer` — جاي بيرنبراونر — ✅ معتمد
 - `thk-jbissel` — ج. غاري بيسّل — ✅ معتمد
 - `thk-jbmiller` — جين بيكر ميلر — ✅ معتمد
-- `thk-jboss` — ديفيد بيرسيلي — 🕓 مسودة
-- `thk-jbrowne` — كاثلين براون — 🕓 مسودة
+- `thk-jboss` — ديفيد بيرسيلي — ✅ معتمد
+- `thk-jbrowne` — كاثلين براون — ✅ معتمد
 - `thk-jburns` — ديفيد بيرنز — ✅ معتمد
 - `thk-jcameron` — جوليا كاميرون — ✅ معتمد
 - `thk-jcarlson` — جون كارلسون — ✅ معتمد
-- `thk-jcawley` — جوليا كاولي — 🕓 مسودة
+- `thk-jcawley` — جوليا كاولي — ✅ معتمد
 - `thk-jcgibbs` — جون سي. غيبز — ✅ معتمد
 - `thk-jchales` — جون تشارلز — ✅ معتمد
 - `thk-jchamberlin` — جودي تشامبرلين — ✅ معتمد
@@ -818,16 +995,23 @@
 - `thk-jcurran` — جوزيف ب. كورّان — ✅ معتمد
 - `thk-jdavid` — جوردان ديفيد — ✅ معتمد
 - `thk-jdelozier` — جوديث دِلوزييه — ✅ معتمد
-- `thk-jdifede` — جوان ديفيد — ✅ معتمد
+- `thk-jdifede` — جوان ديفيدي — ✅ معتمد
 - `thk-jdollard` — جون دولارد — ✅ معتمد
-- `thk-jeberenz` — وولتر جِيمس أَولِس — ✅ معتمد
-- `thk-jeffrey-rediger` — جيفري ريديجر — 🕓 مسودة
+- `thk-jean-amery` — جان أميري — ✅ معتمد
+- `thk-jean-baudrillard` — جان بودريار — ✅ معتمد
+- `thk-jean-francois-lyotard` — جان فرانسوا ليوتار — ✅ معتمد
+- `thk-jeberenz` — دان أولڤيوس — ✅ معتمد
+- `thk-jeffrey-rediger` — جيفري ريديجر — ✅ معتمد
 - `thk-jeffrey-zeig` — جيفري زايغ — ✅ معتمد
-- `thk-jenna-brown` — جينا براون — 🕓 مسودة
-- `thk-jennifer-cheavens` — جينيفر تشيڤنز — 🕓 مسودة
-- `thk-jennifer-olding` — جينيفر أولدنغ — 🕓 مسودة
-- `thk-jenniferschwab` — جينيفر شواب — 🕓 مسودة
-- `thk-jenny-christensen` — جيني كريستنسن — 🕓 مسودة
+- `thk-jenna-brown` — جينا براون — ✅ معتمد
+- `thk-jennifer-cheavens` — جينيفر تشيڤنز — ✅ معتمد
+- `thk-jennifer-olding` — جينيفر أولدنغ — ✅ معتمد
+- `thk-jenniferschwab` — جينيفر شواب — ✅ معتمد
+- `thk-jenny-christensen` — جيني كريستنسن — ✅ معتمد
+- `thk-jenny-odell` — جيني أودل (Jenny Odell) — ✅ معتمد
+- `thk-jenny-osborn` — جيني أوزبورن (Jenny Osborn) — ✅ معتمد
+- `thk-jeong-yak-yong-dasan` — جيونغ ياك-يونغ (داسان) — ✅ معتمد
+- `thk-jerry-fodor` — جيري فودور — ✅ معتمد
 - `thk-jferrer` — خورخي فيرير — ✅ معتمد
 - `thk-jflax` — جين فلاكس — ✅ معتمد
 - `thk-jfox` — جون فوكس — ✅ معتمد
@@ -836,10 +1020,11 @@
 - `thk-jgantt` — جوزيف غانت — ✅ معتمد
 - `thk-jgebser` — جين غيبسر — ✅ معتمد
 - `thk-jgedo` — جون جيدو — ✅ معتمد
+- `thk-jgone` — جوزيف ب. غون — ✅ معتمد
 - `thk-jgoodman` — نلسون غودمان — ✅ معتمد
 - `thk-jgottman` — جون غوتمان — ✅ معتمد
-- `thk-jgottman-sr` — جوليا غوتمان — ✅ معتمد
-- `thk-jgould` — جيمس ليبشيتز — 🕓 مسودة
+- `thk-jgottman-sr` — جولي شوارتز غوتمان — ✅ معتمد
+- `thk-jgould` — جيمس ليبشيتز — ✅ معتمد
 - `thk-jgreenberg` — جاي ر. غرينبرغ — ✅ معتمد
 - `thk-jgreenspan` — جايك غرينسبان — ✅ معتمد
 - `thk-jgrind` — جون غريندر — ✅ معتمد
@@ -850,13 +1035,15 @@
 - `thk-jherman` — جوديث هِرمان — ✅ معتمد
 - `thk-jhollis` — جيمس هولّيس — ✅ معتمد
 - `thk-jhouston` — جين هيوستن — ✅ معتمد
-- `thk-jim-ackerman` — جيم أكرمان — 🕓 مسودة
-- `thk-jim-loehr` — جيم لور — 🕓 مسودة
+- `thk-jim-ackerman` — جيم أكرمان — ✅ معتمد
+- `thk-jim-loehr` — جيم لور — ✅ معتمد
 - `thk-jingqiyong` — يانغ ديشن — ✅ معتمد
+- `thk-jiva-goswami` — جيفا غوسوامي — ✅ معتمد
 - `thk-jjacobi` — يولاندا ياكوبي — ✅ معتمد
-- `thk-jjoyce` — مارغريت بِي — 🕓 مسودة
+- `thk-jjoyce` — مارغريت بِي — ✅ معتمد
+- `thk-jkabat` — جون كابات-زين — ✅ معتمد
 - `thk-jkabat-zinn` — جون كابات-زين — ✅ معتمد
-- `thk-jkadden` — كاثلين كاري — 🕓 مسودة
+- `thk-jkadden` — كاثلين كاري — ✅ معتمد
 - `thk-jkagan` — جيروم كاغان — ✅ معتمد
 - `thk-jkamiya` — جو كاميا — ✅ معتمد
 - `thk-jkihnstrom` — جون كينستروم — ✅ معتمد
@@ -866,40 +1053,47 @@
 - `thk-jlchner` — جاك ليتشنر — ✅ معتمد
 - `thk-jledoux` — جوزيف لودوكس — ✅ معتمد
 - `thk-jlilly` — جون لِلي — ✅ معتمد
-- `thk-jlubar` — جويل لوبار — 🕓 مسودة
-- `thk-jluborsky` — جوزيف لوبورسكي — ✅ معتمد
-- `thk-jlueger` — جون لوغر — 🕓 مسودة
+- `thk-jlubar` — جويل لوبار — ✅ معتمد
+- `thk-jluborsky` — لِستر لوبورسكي — ✅ معتمد
+- `thk-jlueger` — جون لوغر — ✅ معتمد
 - `thk-jmacy` — جوانا مايسي — ✅ معتمد
-- `thk-jmarkowitz` — جيمس ماركويتز — ✅ معتمد
-- `thk-jmcdougall` — جويس ماك دوغال — ✅ معتمد
+- `thk-jmarkowitz` — جون ماركويتز — ✅ معتمد
+- `thk-jmcdougall` — جويس ماكدوغال — ✅ معتمد
 - `thk-jmcdowell` — جون ماكدوويل — ✅ معتمد
 - `thk-jmertz` — [مؤسِّسو أعمدة Rivista di Psicologia Analitica] — ✅ معتمد
-- `thk-jmitchell` — جوليا ميتشِل — 🕓 مسودة
+- `thk-jmitchell` — جوليا ميتشِل — ✅ معتمد
 - `thk-jmonahan` — جون موناهان — ✅ معتمد
 - `thk-jmoreno` — جاكوب مورينو — ✅ معتمد
 - `thk-jmunderross` — جون ماندر روس — ✅ معتمد
 - `thk-jnakamura` — [مؤسِّسو Sandplay Therapy Japan / JST] - Japanese Sandplay second generation — ✅ معتمد
 - `thk-jnicolosi` — جوزيف نيكولوسي — ✅ معتمد
 - `thk-jnorcross` — جون نوركروس — ✅ معتمد
-- `thk-johann-hari` — يوهان هاري — 🕓 مسودة
+- `thk-johann-gottfried-herder` — يوهان غوتفريد فون هردر — ✅ معتمد
+- `thk-johann-hari` — يوهان هاري — ✅ معتمد
 - `thk-john-bradshaw` — جون برادشو — ✅ معتمد
 - `thk-john-braithwaite` — جون برايثوايت — ✅ معتمد
 - `thk-john-cacioppo` — جون كاسيوبو — ✅ معتمد
 - `thk-john-damascene` — يوحنا الدمشقي — ✅ معتمد
-- `thk-john-friedman` — جون فريدمان — 🕓 مسودة
+- `thk-john-friedman` — جون فريدمان — ✅ معتمد
 - `thk-john-gray` — جون غراي — ✅ معتمد
-- `thk-john-lippmann` — جون ليبمان — 🕓 مسودة
+- `thk-john-lippmann` — جون ليبمان — ✅ معتمد
+- `thk-john-makransky` — جون ماكرانسكي (John Makransky) — ✅ معتمد
+- `thk-john-maxwell` — جون سي. ماكسويل — ✅ معتمد
+- `thk-john-philoponus` — يوحنا فيلوبونوس (النحوي) — ✅ معتمد
+- `thk-john-searle` — جون روجرز سيرل — ✅ معتمد
 - `thk-johnmcintosh` — جون ماكنتوش — ✅ معتمد
 - `thk-johnshlien` — جون شلين — ✅ معتمد
+- `thk-jon-ronson` — جون رونسون — ✅ معتمد
 - `thk-jonahlewis` — جونا ليرر — ✅ معتمد
 - `thk-jonas` — هانز يوناس — ✅ معتمد
 - `thk-jonathan-haidt` — جوناثان هايدت — ✅ معتمد
-- `thk-jonathanbaylin` — جوناثان بايلن — 🕓 مسودة
+- `thk-jonathanbaylin` — جوناثان بايلن — ✅ معتمد
 - `thk-jones` — إرنست جونز — ✅ معتمد
 - `thk-jordan` — جوديث جوردان — ✅ معتمد
 - `thk-jordan-peterson` — جوردان بيترسون — ✅ معتمد
-- `thk-jose-arsenio` — خوسيه أرسينيو — 🕓 مسودة
-- `thk-jose-salgado` — خوسيه سالغادو — 🕓 مسودة
+- `thk-jose-arsenio` — خوسيه أرسينيو — ✅ معتمد
+- `thk-jose-carlos-mariategui` — خوسيه كارلوس مارياتيغي — ✅ معتمد
+- `thk-jose-salgado` — خوسيه سالغادو — ✅ معتمد
 - `thk-joseph-barber` — جوزيف باربر — ✅ معتمد
 - `thk-joseph-murphy` — جوزيف ميرفي — ✅ معتمد
 - `thk-josephtrimble` — جوزيف ترايمبل — ✅ معتمد
@@ -910,8 +1104,8 @@
 - `thk-jpotter` — جوناثان بوتر — ✅ معتمد
 - `thk-jramiro` — جي رامييرو — ✅ معتمد
 - `thk-jrathus` — جيل راثوس — ✅ معتمد
-- `thk-jrivett` — جوردان ريد — 🕓 مسودة
-- `thk-jroddy` — ج. لوك ويلز — 🕓 مسودة
+- `thk-jrivett` — جوردان ريد — ✅ معتمد
+- `thk-jroddy` — ج. لوك ويلز — ✅ معتمد
 - `thk-jrosenberg` — جاك لي روزنبرغ — ✅ معتمد
 - `thk-jrotter` — جوليان ب. روتّر — ✅ معتمد
 - `thk-jrubin` — جيفري روبين — ✅ معتمد
@@ -922,15 +1116,17 @@
 - `thk-jseikkula` — ياكو سيكولا — ✅ معتمد
 - `thk-jshotter` — جون شوتر — ✅ معتمد
 - `thk-jsimmermacher` — جيم سيميرماتشر — ✅ معتمد
-- `thk-jspence` — جو سبنس — 🕓 مسودة
+- `thk-jspence` — جو سبنس — ✅ معتمد
 - `thk-jsteiner` — جون شتاينر — ✅ معتمد
 - `thk-jteasdale` — جون تيزديل — ✅ معتمد
 - `thk-jtolman` — جينيفر تولمان — ✅ معتمد
 - `thk-judah-halevi` — يهوذا اللاوي (أبو الحسن) — ✅ معتمد
 - `thk-judson-brewer` — جودسون بروير — ✅ معتمد
-- `thk-julie-smith` — جولي سميث — 🕓 مسودة
-- `thk-julierawlins` — جولي رولينز — 🕓 مسودة
+- `thk-judy-weiser` — جودي وايزر (مؤسِّسة العلاج بالصور الفوتوغرافية) — ✅ معتمد
+- `thk-julie-smith` — جولي سميث — ✅ معتمد
+- `thk-julierawlins` — جولي رولينز — ✅ معتمد
 - `thk-jung` — كارل غوستاف يونغ — ✅ معتمد
+- `thk-justin-martyr` — الشهيد يوستينوس الفيلسوف — ✅ معتمد
 - `thk-jwatson` — جون ب. واتسون — ✅ معتمد
 - `thk-jweakland` — جون وِكلاند — ✅ معتمد
 - `thk-jweir` — جون ج. وير — ✅ معتمد
@@ -941,35 +1137,42 @@
 - `thk-jwolpe` — جوزف وُلبّي — ✅ معتمد
 - `thk-jwpark` — جي-وو بارك — ✅ معتمد
 - `thk-jzinker` — جوزيف زِنكِر — ✅ معتمد
-- `thk-kaarlokeranen` — كارلو كيرانن — 🕓 مسودة
+- `thk-kaarlokeranen` — كارلو كيرانن — ✅ معتمد
 - `thk-kafka` — فرانز كافكا — ✅ معتمد
 - `thk-kahneman` — دانيال كانمان — ✅ معتمد
 - `thk-kalff` — دورا كالف — ✅ معتمد
+- `thk-kamalashila` — كامالاسيلا — ✅ معتمد
+- `thk-kanada` — كاشيابا كانادا — ✅ معتمد
+- `thk-kanner` — ليو كانر — 🕓 مسودة
 - `thk-kant` — إيمانويل كانط — ✅ معتمد
 - `thk-kapila` — كابيلا (مؤسس سامخيا) — ✅ معتمد
 - `thk-kardiner` — أبرام كاردينر — ✅ معتمد
+- `thk-karl-popper` — سير كارل بوبر — ✅ معتمد
+- `thk-karl-reinhold` — كارل ليونهارد راينهولد — ✅ معتمد
 - `thk-karsavin` — ليف كارسافين — ✅ معتمد
 - `thk-kashan` — كيران عاشان — ✅ معتمد
 - `thk-kast` — فيرينا كاست — ✅ معتمد
 - `thk-kastenbaum` — روبرت كاستنباوم — ✅ معتمد
 - `thk-kastrinidis` — بيريكليس كاسترينيديس — ✅ معتمد
-- `thk-kathylaurenceau` — كاثي لورنسو — 🕓 مسودة
-- `thk-katie-rae` — كايتي ري — 🕓 مسودة
-- `thk-katka-rubin` — كاتكا روبين — 🕓 مسودة
+- `thk-kathylaurenceau` — كاثي لورنسو — ✅ معتمد
+- `thk-katie-laperriere` — كايتي لابيريير (Katie LaPerriere) — ✅ معتمد
+- `thk-katie-rae` — كايتي ري — ✅ معتمد
+- `thk-katka-rubin` — كاتكا روبين — ✅ معتمد
 - `thk-kaufmann` — والتر كوفمان — ✅ معتمد
 - `thk-kbradway` — كاي برادواي — ✅ معتمد
 - `thk-kcolby` — كينيث كولبي — ✅ معتمد
-- `thk-kcooper` — كينيث كوبر — ✅ معتمد
+- `thk-kcooper` — غلين كوبر — ✅ معتمد
 - `thk-kcrenshaw` — كيمبرلي كرينشو — ✅ معتمد
 - `thk-keen` — إرنست كين — ✅ معتمد
-- `thk-keiko-hoshino` — كيكو هوشينو — 🕓 مسودة
+- `thk-keiko-hoshino` — كيكو هوشينو — ✅ معتمد
+- `thk-keizan` — كييزان جوكين (مُؤسِّس خطّ سوتو) — ✅ معتمد
 - `thk-kelley` — تشارلز كيلي — ✅ معتمد
-- `thk-kelleycolleen` — كولين كيلي — 🕓 مسودة
+- `thk-kelleycolleen` — كولين كيلي — ✅ معتمد
 - `thk-kelly-george` — جورج ألكسندر كيلي — ✅ معتمد
 - `thk-ken-blanchard` — كين بلانشارد — ✅ معتمد
 - `thk-kernberg` — أوتو كيرنبرغ — ✅ معتمد
 - `thk-kets` — مَنفرِد كِتس دي فريس — ✅ معتمد
-- `thk-kevin-sparger` — كيفن سپارجر — 🕓 مسودة
+- `thk-kevin-sparger` — كيفن سپارجر — ✅ معتمد
 - `thk-kfeeney` — كيم فيني — ✅ معتمد
 - `thk-kfrank` — كينيث فرانك — ✅ معتمد
 - `thk-kgergen` — كينيث جيرغن — ✅ معتمد
@@ -979,21 +1182,24 @@
 - `thk-khan` — مسعود خان — ✅ معتمد
 - `thk-kholzkamp` — كلاوس هولتسكامب — ✅ معتمد
 - `thk-khorney` — كارين هُورْني — ✅ معتمد
+- `thk-khwaja-baqi-billah` — خواجة باقى بِله (Khwaja Baqi Billah) — المُجدِّد الثالث — ✅ معتمد
 - `thk-kierkegaard` — سورين كيركيغارد — ✅ معتمد
-- `thk-kimkwansung` — كيم كوان-سونغ — 🕓 مسودة
+- `thk-kimkwansung` — كيم كوان-سونغ — ✅ معتمد
 - `thk-kimmerer` — روبن وال كيميرير — ✅ معتمد
 - `thk-kimura` — بين كيمورا — ✅ معتمد
 - `thk-king` — بيرل كينغ — ✅ معتمد
+- `thk-kirmayer` — لورنس كيرماير — 🕓 مسودة
 - `thk-kkambon` — كوبِي كامبون — ✅ معتمد
 - `thk-kkoch` — كينيث كوخ — ✅ معتمد
 - `thk-kkoffka` — كورت كوفكا — ✅ معتمد
 - `thk-klein` — ميلاني كلاين — ✅ معتمد
+- `thk-kleinman` — آرثر كلاينمان — 🕓 مسودة
 - `thk-klemann` — هربرت كليمان — ✅ معتمد
 - `thk-kleonhard` — كارل ليونهارد — ✅ معتمد
 - `thk-klew` — كورت لوين — ✅ معتمد
 - `thk-klima` — لاديسلاف كليما — ✅ معتمد
 - `thk-kmaclean` — كاثرين ماكْلِين — ✅ معتمد
-- `thk-kmithoefer` — آن ميثوفر — 🕓 مسودة
+- `thk-kmithoefer` — آن ميثوفر — ✅ معتمد
 - `thk-kmorita` — ماساتاكي موريتا — ✅ معتمد
 - `thk-kmurah` — [مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA] — ✅ معتمد
 - `thk-knakamura` — كويتشي ناكامورا — ✅ معتمد
@@ -1003,31 +1209,38 @@
 - `thk-kohut` — هاينز كوهوت — ✅ معتمد
 - `thk-kosik` — كاريل كوسيك — ✅ معتمد
 - `thk-kplaut` — فريدريك ك. بْلوت — ✅ معتمد
+- `thk-kraepelin` — إميل كريبلين — 🕓 مسودة
 - `thk-krapf` — إدواردو كرابف — ✅ معتمد
 - `thk-kraus` — ألفريد كراوس — ✅ معتمد
+- `thk-kretschmer` — إرنست كريتشمر — 🕓 مسودة
 - `thk-krigby` — كن رِجباي — ✅ معتمد
 - `thk-krippner` — ستانلي كريبنر — ✅ معتمد
-- `thk-krischer` — باري كريشر — 🕓 مسودة
+- `thk-krischer` — باري كريشر — ✅ معتمد
 - `thk-krishnamurti` — جيدو كريشنامورتي — ✅ معتمد
 - `thk-kristeva` — جوليا كريستيفا — ✅ معتمد
 - `thk-kristin-buss` — كريستين بَس — ✅ معتمد
 - `thk-kristin-neff` — كريستين نيف — ✅ معتمد
+- `thk-krochmal` — ناحمن كروخمَل — ✅ معتمد
 - `thk-krug` — أورا كروغ — ✅ معتمد
-- `thk-kruger-marielle` — مارييل كروغر — 🕓 مسودة
+- `thk-kruger-marielle` — مارييل كروغر — ✅ معتمد
 - `thk-kspence` — ك. و. سبنس — ✅ معتمد
 - `thk-kstinshoff` — كلاوس شتينشوف — ✅ معتمد
 - `thk-kubler-ross` — إليزابيث كوبلر-روس — ✅ معتمد
 - `thk-kuhn` — رولاند كون — ✅ معتمد
+- `thk-kuki-shuzo` — كوكي شوزو — ✅ معتمد
+- `thk-kumarila-bhatta` — كوماريلا بهاتا — ✅ معتمد
+- `thk-kundakunda` — أشاريا كوندوكوندا — ✅ معتمد
 - `thk-kunkel` — فريتز كونكل — ✅ معتمد
 - `thk-kunzli` — فريتز كونزلي — ✅ معتمد
 - `thk-kurbatov` — فالنتين كورباتوف — ✅ معتمد
-- `thk-kurtz-sherman` — شيرمان كيرتز — 🕓 مسودة
+- `thk-kurtz-sherman` — شيرمان كيرتز — ✅ معتمد
 - `thk-kwilber` — كين ويلبر — ✅ معتمد
 - `thk-kwitkiewitz` — كايتي ويتكيفيتش — ✅ معتمد
 - `thk-lacan` — جاك لاكان — ✅ معتمد
 - `thk-lachmann` — فرانك لاشمان — ✅ معتمد
 - `thk-laclau` — إرنستو لاكلاو — ✅ معتمد
 - `thk-lagache` — دانييل لاغاش — ✅ معتمد
+- `thk-lahbabi` — محمد عزيز الحبابي — 🕓 مسودة
 - `thk-lainentralgo` — بيدرو لاين إنترالغو — ✅ معتمد
 - `thk-laing` — ر. د. لاينغ — ✅ معتمد
 - `thk-langdridge` — دارين لانغريدج — ✅ معتمد
@@ -1036,12 +1249,12 @@
 - `thk-laozi` — لاو تزو (لاو دان) — ✅ معتمد
 - `thk-laplanche` — جان لابلانش — ✅ معتمد
 - `thk-laron` — لويس آرون — ✅ معتمد
-- `thk-larrynims` — لاري نيمز — 🕓 مسودة
-- `thk-lars-johansson` — لارس يوهانسون — 🕓 مسودة
-- `thk-lavinia-shaw` — لاڤينيا شو — 🕓 مسودة
+- `thk-larrynims` — لاري نيمز — ✅ معتمد
+- `thk-lars-johansson` — لارس يوهانسون — ✅ معتمد
+- `thk-lavinia-shaw` — لاڤينيا شو — ✅ معتمد
 - `thk-lazarsfeld` — صوفي لازارسفيلد — ✅ معتمد
 - `thk-lazarus` — أرنولد لازاروس — ✅ معتمد
-- `thk-lbarrett` — لورا بارِت — ✅ معتمد
+- `thk-lbarrett` — لورنس بارِت — ✅ معتمد
 - `thk-lbertalanffy` — لودفيغ فون برتالانفي — ✅ معتمد
 - `thk-lbrown` — لورا س. براون — ✅ معتمد
 - `thk-lcarter` — ليندا كارتر — ✅ معتمد
@@ -1054,21 +1267,30 @@
 - `thk-leehyungjun` — لي هيونغ-جون — ✅ معتمد
 - `thk-leibniz` — غوتفريد فيلهلم لايبنتز — ✅ معتمد
 - `thk-leifer` — رونالد لايفر — ✅ معتمد
+- `thk-leighmccullers` — لي ماكوليرز — ✅ معتمد
 - `thk-leijssen` — ميا لايسن — ✅ معتمد
+- `thk-leo-tolstoy` — ليو تولستوي — ✅ معتمد
+- `thk-leon-festinger` — ليون فيستنغر (Leon Festinger) — ✅ معتمد
+- `thk-leontiev` — أليكسي ليونتييف — 🕓 مسودة
 - `thk-leopold` — ألدو ليوبولد — ✅ معتمد
+- `thk-leopoldo-zea` — ليوبولدو زيا — ✅ معتمد
 - `thk-lequier` — جول لوكييه — ✅ معتمد
+- `thk-leucippus` — لوقيبوس الميليسي — ✅ معتمد
 - `thk-levenson` — إدغار ليفنسون — ✅ معتمد
 - `thk-levinas` — إيمانويل ليفيناس — ✅ معتمد
+- `thk-lewis-mumford` — لويس مَمفورد (Lewis Mumford) — ✅ معتمد
 - `thk-lfestinger` — ليون فِستِنغر — ✅ معتمد
 - `thk-lfinlay` — ليندا فينلاي — ✅ معتمد
-- `thk-lfish` — لورانس فيشباين — 🕓 مسودة
+- `thk-lfish` — لورانس فيشباين — ✅ معتمد
+- `thk-lgreenberg` — ليزلي غرينبرغ — ✅ معتمد
 - `thk-lhatch` — ليندا هاتش — ✅ معتمد
-- `thk-lhecker` — لويس هِكَر — 🕓 مسودة
+- `thk-lhecker` — لويس هِكَر — ✅ معتمد
 - `thk-lhoffman` — لين هوفمان — ✅ معتمد
 - `thk-lholzman` — لويز هولزمان — ✅ معتمد
 - `thk-lhubbard` — ل. رون هوبارد — ✅ معتمد
+- `thk-li-zhi` — لي تشي (لي تشِه) — ✅ معتمد
 - `thk-liang-shuming` — ليانغ شو مينغ — ✅ معتمد
-- `thk-lieberman` — ألسي ليبرمان (باتريسيا) — ✅ معتمد
+- `thk-lieberman` — أليسيا ليبرمان — ✅ معتمد
 - `thk-lifton` — روبرت جاي ليفتون — ✅ معتمد
 - `thk-lindatuhiwai` — ليندا توهيواي سميث — ✅ معتمد
 - `thk-lindsay-gibson` — ليندسي جيبسون — ✅ معتمد
@@ -1077,7 +1299,7 @@
 - `thk-lkuhn` — ليندا كون — ✅ معتمد
 - `thk-llosi` — لوكا لوزي — ✅ معتمد
 - `thk-lluborsky` — ليستر لوبورسكي — ✅ معتمد
-- `thk-lmazza` — نيكولاس مازا — 🕓 مسودة
+- `thk-lmazza` — نيكولاس مازا — ✅ معتمد
 - `thk-lmiller` — لوسي جين ميلر — ✅ معتمد
 - `thk-lmorrnah` — إبراهام كاوانيوآ — ✅ معتمد
 - `thk-lmunro` — لويز مونرو — ✅ معتمد
@@ -1085,11 +1307,13 @@
 - `thk-locke` — جون لوك — ✅ معتمد
 - `thk-loewald` — هانز لوفالد — ✅ معتمد
 - `thk-loewenstein` — رودولف لوفينشتاين — ✅ معتمد
-- `thk-lonan` — لورينا أونان — ✅ معتمد
+- `thk-lonan` — لورينا أونيس — ✅ معتمد
+- `thk-longchenpa` — لونغتشين رابجامبا — ✅ معتمد
 - `thk-lopezpedraza` — رافائيل لوبيز-بيدراثا — ✅ معتمد
 - `thk-lorange` — دونا أورانج — ✅ معتمد
 - `thk-lorde` — أودري لورد — ✅ معتمد
 - `thk-lorr` — ليونارد أور — ✅ معتمد
+- `thk-louis-althusser` — لويس ألتوسير — ✅ معتمد
 - `thk-louise-guerney` — لويس غيرني — ✅ معتمد
 - `thk-louise-hay` — لويز هاي — ✅ معتمد
 - `thk-lovaas` — إيفار لوفاس — ✅ معتمد
@@ -1097,26 +1321,34 @@
 - `thk-lowinsky` — ناعومي روث لوينسكي — ✅ معتمد
 - `thk-lowith` — كارل لوفيت — ✅ معتمد
 - `thk-lperls` — لورا بيرلز — ✅ معتمد
-- `thk-lrosenzweig` — لانا روزنغر — 🕓 مسودة
-- `thk-lroszak` — ثيرون روزاك — 🕓 مسودة
+- `thk-lrice` — لورا نورين رايس — ✅ معتمد
+- `thk-lrosenzweig` — لانا روزنغر — ✅ معتمد
+- `thk-lroszak` — ثيرون روزاك — ✅ معتمد
+- `thk-lsaari` — لوسيان ليفي-برول — ✅ معتمد
 - `thk-lschultz` — لويس شولتز — ✅ معتمد
 - `thk-lstaples` — لورنس ستاپلز — ✅ معتمد
+- `thk-lstevenhayes` — ستيفن سي. هايز — ✅ معتمد
 - `thk-lu-jiuyuan` — لو جيو يوان — ✅ معتمد
+- `thk-lu-xiangshan` — لو شيانغ شان (مؤسس مدرسة العقل / القلب) — ✅ معتمد
+- `thk-lucretius` — لوكريتيوس كاروس — ✅ معتمد
 - `thk-luijpen` — فيلهلموس لايتبن — ✅ معتمد
 - `thk-lukacs` — جورج لوكاش — ✅ معتمد
 - `thk-lukas` — إليزابيث لوكاس — ✅ معتمد
+- `thk-luria` — ألكسندر لوريا — ✅ معتمد
 - `thk-lvdpost` — لورنز فان دير بوست — ✅ معتمد
 - `thk-lwalker` — لورا ووكر — ✅ معتمد
 - `thk-lwittgenstein` — لودفيغ فيتغنشتاين — ✅ معتمد
 - `thk-lwynne` — ليمن وين — ✅ معتمد
 - `thk-m-amatos` — ماريّا أميليا ماتوس — ✅ معتمد
-- `thk-ma-rosario-alfelor` — ماريا روساريو ألفيلور — 🕓 مسودة
+- `thk-ma-rosario-alfelor` — ماريا روساريو ألفيلور — ✅ معتمد
+- `thk-maburaiya` — محمد محمود أبو ريا — ✅ معتمد
 - `thk-machado` — أنطونيو ماتشادو — ✅ معتمد
+- `thk-machiavelli` — نيكولو مكيافيلي — ✅ معتمد
 - `thk-macintyre` — ألاسدير ماكنتاير — ✅ معتمد
 - `thk-mackinnon` — كاثرين ماك كينون — ✅ معتمد
 - `thk-macquarrie` — جون ماكواري — ✅ معتمد
 - `thk-maddis` — مايكل إي. آديس — ✅ معتمد
-- `thk-madeleine-sandberg` — مادلين ساندبرغ — 🕓 مسودة
+- `thk-madeleine-sandberg` — مادلين ساندبرغ — ✅ معتمد
 - `thk-madelung` — إيفا مادلينغ — ✅ معتمد
 - `thk-madhva` — مادهافا (دفايتا فيدانتا) — ✅ معتمد
 - `thk-madinier` — غابرييل مادينييه — ✅ معتمد
@@ -1127,73 +1359,92 @@
 - `thk-mahoney` — ماريان ماهونِي — ✅ معتمد
 - `thk-maimonides` — موسى بن ميمون (رمبام) — ✅ معتمد
 - `thk-mainieri` — لينا ماينييري — ✅ معتمد
+- `thk-malcolm-x` — مالكوم إكس (الحاج مالك الشباز) — ✅ معتمد
+- `thk-malebranche` — نيكولا مالبرانش — ✅ معتمد
+- `thk-mandana-misra` — ماندانا ميشرا (جسر الميمنسا وأدفايتا) — ✅ معتمد
+- `thk-mandela` — نيلسون مانديلا — ✅ معتمد
 - `thk-mandolfi` — ماورو أندولفي — ✅ معتمد
 - `thk-mani` — ماني (مؤسس المانوية) — ✅ معتمد
 - `thk-mann` — كريستين مان — ✅ معتمد
 - `thk-mannoni` — أوكتاف مانوني — ✅ معتمد
 - `thk-mao-zedong` — ماو تسي تونغ — ✅ معتمد
 - `thk-marcel` — غابرييل مارسِل — ✅ معتمد
-- `thk-marciamarx` — مارسيا ماركس — 🕓 مسودة
+- `thk-marciamarx` — مارسيا ماركس — ✅ معتمد
+- `thk-marcus-aurelius` — ماركوس أوريليوس — ✅ معتمد
 - `thk-marcuse` — هربرت ماركوزه — ✅ معتمد
-- `thk-margaret-bluestein` — مارغريت بلوستين — 🕓 مسودة
-- `thk-margaretbodkin` — مارغريت بودكن — 🕓 مسودة
-- `thk-marian-krcmar` — ماريان كركمار — 🕓 مسودة
-- `thk-marianne-strom` — ماريان ستروم — 🕓 مسودة
-- `thk-mariannekline` — ماريان كلاين — 🕓 مسودة
+- `thk-margaret-bluestein` — مارغريت بلوستين — ✅ معتمد
+- `thk-margaretbodkin` — مارغريت بودكن — ✅ معتمد
+- `thk-marian-krcmar` — ماريان كركمار — ✅ معتمد
+- `thk-marianne-strom` — ماريان ستروم — ✅ معتمد
+- `thk-mariannekline` — ماريان كلاين — ✅ معتمد
 - `thk-mariellekruger` — ماري كروغر — ✅ معتمد
-- `thk-marisaberkouwer` — ماريسا بيركوور — 🕓 مسودة
+- `thk-marisaberkouwer` — ماريسا بيركوور — ✅ معتمد
+- `thk-marisol-montoya` — ماريسول مونتويا (Marisol Montoya) — ✅ معتمد
 - `thk-mark-manson` — مارك مانسون — ✅ معتمد
-- `thk-mark-santross` — مارك سانتروس — 🕓 مسودة
-- `thk-markrees` — مارك ريس — 🕓 مسودة
-- `thk-markwelch` — مارك ويلش — 🕓 مسودة
+- `thk-mark-santross` — مارك سانتروس — ✅ معتمد
+- `thk-mark-wolynn` — مارك وولين — ✅ معتمد
+- `thk-markrees` — مارك ريس — ✅ معتمد
+- `thk-markwelch` — مارك ويلش — ✅ معتمد
 - `thk-marlan` — ستانتون مارلان — ✅ معتمد
 - `thk-marodriguez` — ميغيل أنخيل رودريغيث — ✅ معتمد
-- `thk-marshall` — ويليام مارشال — 🕓 مسودة
+- `thk-marshall` — ويليام مارشال — ✅ معتمد
 - `thk-marshall-rosenberg` — مارشال روزنبرغ — ✅ معتمد
+- `thk-marsilio-ficino` — مارسيليو فيتشينو — ✅ معتمد
+- `thk-marsilius-padua` — مارسيليو من بادوفا — ✅ معتمد
+- `thk-martin-bohus` — مارتن بوهوس — ✅ معتمد
+- `thk-martin-luther-king` — مارتن لوثر كينغ — ✅ معتمد
 - `thk-marx` — كارل ماركس — ✅ معتمد
-- `thk-mary-elmquist` — ماري إلمكويست — 🕓 مسودة
-- `thk-mary-guthrie` — ماري غوثري — 🕓 مسودة
-- `thk-mary-stewart` — ماري ستيوارت — 🕓 مسودة
+- `thk-mary-elmquist` — ماري إلمكويست — ✅ معتمد
+- `thk-mary-guthrie` — ماري غوثري — ✅ معتمد
+- `thk-mary-stewart` — ماري ستيوارت — ✅ معتمد
 - `thk-mary-whitehouse` — ماري وايتهاوس — ✅ معتمد
-- `thk-maryolson` — ماري أولسون — 🕓 مسودة
-- `thk-masaaki-takahashi` — ماساكي تاكاهاشي — 🕓 مسودة
+- `thk-mary-wollstonecraft` — ماري وولستونكرافت — ✅ معتمد
+- `thk-marymain` — ماري مين — ✅ معتمد
+- `thk-maryolson` — ماري أولسون — ✅ معتمد
+- `thk-masaaki-takahashi` — ماساكي تاكاهاشي — ✅ معتمد
+- `thk-maslach` — كريستينا ماسلاخ — 🕓 مسودة
 - `thk-maslow` — أبراهام ماسلو — ✅ معتمد
-- `thk-masondurie` — ماسون دوري — ✅ معتمد
 - `thk-masson-oursel` — بول-لويس ماسون-أورسيل — ✅ معتمد
 - `thk-mathew` — مايكل ماثيوز — ✅ معتمد
-- `thk-matt-haig` — مات هيغ — 🕓 مسودة
+- `thk-matt-haig` — مات هيغ — ✅ معتمد
 - `thk-matthew-walker` — ماثيو ووكر — ✅ معتمد
 - `thk-maturidi` — أبو منصور محمد بن محمد الماتريدي — ✅ معتمد
+- `thk-max-horkheimer` — ماكس هوركهايمر — ✅ معتمد
+- `thk-maxie-maultsby` — ماكسي مولتسبي جونيور (Maxie C. Maultsby Jr.) — ✅ معتمد
 - `thk-maximus-confessor` — مكسيموس المعترف — ✅ معتمد
 - `thk-maxwell-maltz` — ماكسويل مالتز — ✅ معتمد
 - `thk-may` — رولو ماي — ✅ معتمد
 - `thk-mayeroff` — ميلتون مايروف — ✅ معتمد
 - `thk-mazdak` — مزدك — ✅ معتمد
-- `thk-mbadri` — مالك البدري — ✅ معتمد
+- `thk-mbadri` — مالك بدري — ✅ معتمد
 - `thk-mbalint` — مايكل بالِنت — ✅ معتمد
 - `thk-mbauman` — مارغريت باومان — ✅ معتمد
 - `thk-mbembe` — أشيل مبيمبي — ✅ معتمد
 - `thk-mbillig` — مايكل بيليغ — ✅ معتمد
 - `thk-mbogenschutz` — مايكل بوغِنشوتس — ✅ معتمد
 - `thk-mbowen` — موراي بوين — ✅ معتمد
+- `thk-mbraveheart` — ماريا يلوهورس بريف هارت — ✅ معتمد
 - `thk-mbuber` — مارتن بُبَر — ✅ معتمد
 - `thk-mc-jones` — ماري كوفر جونز — ✅ معتمد
-- `thk-mccullough` — جيمس ب. ماكولوغ الابن — 🕓 مسودة
-- `thk-mchace` — ماريان تشيس — 🕓 مسودة
+- `thk-mccrae` — روبرت ماكري — 🕓 مسودة
+- `thk-mccullough` — جيمس ب. ماكولوغ الابن — ✅ معتمد
+- `thk-mchace` — ماريان تشيس — ✅ معتمد
 - `thk-mchen` — مارفن تشِن — ✅ معتمد
 - `thk-mcierpka` — مانفريد شيربكا — ✅ معتمد
-- `thk-mcieslak` — ماريك تشيسلاك — 🕓 مسودة
+- `thk-mcieslak` — ماريك تشيسلاك — ✅ معتمد
 - `thk-mclayton` — ماكس كلايتون — ✅ معتمد
 - `thk-mcopeland` — ماري إيلين كوبلاند — ✅ معتمد
-- `thk-mcsikszent` — ميهاي سيكسنتميهالي — ✅ معتمد
 - `thk-meckberg` — ماريانا إيكبيرغ — ✅ معتمد
 - `thk-meharding` — ماري إستر هاردينغ — ✅ معتمد
-- `thk-meichenbaum` — دونالد ميشينباوم — 🕓 مسودة
+- `thk-meichenbaum` — دونالد ميشينباوم — ✅ معتمد
+- `thk-meillassoux` — كوانتان ميياَسّو — ✅ معتمد
 - `thk-meister-eckhart` — مايستر إيكهارت — ✅ معتمد
 - `thk-meitingon` — ماكس إيتِنغون — ✅ معتمد
 - `thk-mel-robbins` — ميل روبنز — ✅ معتمد
-- `thk-melanie-segall` — ميلاني سيغال — 🕓 مسودة
-- `thk-melissaschaefer` — ميليسا شيفر — 🕓 مسودة
+- `thk-melanie-harned` — ميلاني هارنِد — ✅ معتمد
+- `thk-melanie-segall` — ميلاني سيغال — ✅ معتمد
+- `thk-melissaschaefer` — ميليسا شيفر — ✅ معتمد
+- `thk-melissus` — ميليسوس الساموسي — ✅ معتمد
 - `thk-meltzer` — دونالد ميلتزر — ✅ معتمد
 - `thk-mencius` — منسيوس (منغ زي) — ✅ معتمد
 - `thk-mendelowitz` — روبرت مينديلويتز — ✅ معتمد
@@ -1202,13 +1453,16 @@
 - `thk-merleau-ponty` — موريس مرلو-بونتي — ✅ معتمد
 - `thk-merton` — توماس ميرتون — ✅ معتمد
 - `thk-messer` — ستانلي ميسر — ✅ معتمد
-- `thk-mfarkas` — مارلي فاركاش — ✅ معتمد
+- `thk-metrodorus-chios` — ميترودوروس الخيوي — ✅ معتمد
+- `thk-metzinger` — توماس متسنغر — 🕓 مسودة
+- `thk-mfarkas` — ماريان فاركاش — ✅ معتمد
 - `thk-mfeldenkrais` — موشيه فيلدنكرايس — ✅ معتمد
 - `thk-mforgatch` — ماريون فورغاتش — ✅ معتمد
 - `thk-mgergen` — ماري جيرغِن — ✅ معتمد
 - `thk-mgold` — مارك غولد — ✅ معتمد
 - `thk-mgomori` — ماريا غوموري — ✅ معتمد
 - `thk-mgriffiths` — مارك غريفيثز — ✅ معتمد
+- `thk-mgrof` — ستانيسلاف غروف — ✅ معتمد
 - `thk-mharris` — ماكسين هاريس — ✅ معتمد
 - `thk-mhbrousse` — ماري-هيلين بروس — ✅ معتمد
 - `thk-mhenry` — ميشيل هنري — ✅ معتمد
@@ -1216,25 +1470,30 @@
 - `thk-mhorwitz` — ماريانو هورفيتس — ✅ معتمد
 - `thk-mhosokawa` — ميتشيو هوسوكاوا — ✅ معتمد
 - `thk-mhoyt` — مايكل ف. هويت — ✅ معتمد
-- `thk-michael-derm` — مايكل ديرمر — 🕓 مسودة
+- `thk-michael-derm` — مايكل ديرمر — ✅ معتمد
 - `thk-michael-eigen` — مايكل إيغن — ✅ معتمد
-- `thk-michael-guthrie` — مايكل غوثري — 🕓 مسودة
-- `thk-michael-yapko-jr` — دانيال بيت — 🕓 مسودة
-- `thk-michael-yarp` — مايكل يارب — 🕓 مسودة
-- `thk-michaelsweeting` — مايكل سويتنغ — 🕓 مسودة
-- `thk-michio-mizuno` — ميتشيو ميزونو — 🕓 مسودة
+- `thk-michael-guthrie` — مايكل غوثري — ✅ معتمد
+- `thk-michael-pollan` — مايكل بولان — ✅ معتمد
+- `thk-michael-yapko-jr` — دانيال بيت — ✅ معتمد
+- `thk-michael-yarp` — مايكل يارب — ✅ معتمد
+- `thk-michaelsweeting` — مايكل سويتنغ — ✅ معتمد
+- `thk-michelle-weiner-davis` — ميشيل وينر-ديفيس (Michele Weiner-Davis) — ✅ معتمد
+- `thk-michio-mizuno` — ميتشيو ميزونو — ✅ معتمد
 - `thk-mignolo` — والتر مينيولو — ✅ معتمد
 - `thk-miguel-ruiz` — دون ميغيل رويز — ✅ معتمد
+- `thk-mikel-dufrenne` — ميكائيل دوفرين (ظاهراتي الخبرة الجمالية) — ✅ معتمد
+- `thk-mikulincer` — ماريو ميكولينسر — 🕓 مسودة
 - `thk-mill` — جون ستيوارت ميل — ✅ معتمد
 - `thk-mimordino-yang` — ماري هيلين إيموردينو-يانغ — ✅ معتمد
-- `thk-mingshengli` — لي مينغ شنغ — 🕓 مسودة
+- `thk-mingshengli` — لي مينغ شنغ — ✅ معتمد
 - `thk-minkowski` — أوجين مينكوفسكي — ✅ معتمد
-- `thk-minopaulin` — مينو بولين — 🕓 مسودة
+- `thk-minopaulin` — مينو بولين — ✅ معتمد
 - `thk-minsungkil` — مين سونغ-كيل — ✅ معتمد
 - `thk-mir-damad` — ميرداماد (محمد باقر الأسترآبادي) — ✅ معتمد
+- `thk-mirra-alfassa` — ميرا ألفاسا (الأمّ) — ✅ معتمد
 - `thk-mitch-albom` — ميتش ألبوم — ✅ معتمد
 - `thk-mitchell` — ستيفن ميتشل — ✅ معتمد
-- `thk-mithoefer` — مايكل ميثوفر — 🕓 مسودة
+- `thk-mithoefer` — مايكل ميثوفر — ✅ معتمد
 - `thk-mjohnson` — ماثيو جونسون — ✅ معتمد
 - `thk-mjones` — ماكسويل جونز — ✅ معتمد
 - `thk-mkern` — مارك كيرن — ✅ معتمد
@@ -1242,6 +1501,7 @@
 - `thk-mkhalifa` — محمد خليفة — ✅ معتمد
 - `thk-mking` — ميليسا كينغ — ✅ معتمد
 - `thk-mkoemeda` — ماريت كويمِدا-لوتز — ✅ معتمد
+- `thk-mkwee` — ميشيل كوي (م. ج. ت. كوي) — ✅ معتمد
 - `thk-mlanger` — ماري لانغر — ✅ معتمد
 - `thk-mlemlij` — مويسيس لِمْلِخ — ✅ معتمد
 - `thk-mlinehan` — مارشا لينهان — ✅ معتمد
@@ -1260,21 +1520,28 @@
 - `thk-mneurath` — أوتو نورات — ✅ معتمد
 - `thk-mnichols` — مايكل نيكولز — ✅ معتمد
 - `thk-mnitsun` — موريس نيتسون — ✅ معتمد
-- `thk-moacanin` — سلافيكا موكانين — ✅ معتمد
+- `thk-moacanin` — رادميلا موكانين — ✅ معتمد
+- `thk-mohammed-abed-al-jabri` — محمد عابد الجابري — ✅ معتمد
+- `thk-mohammed-arkoun` — محمد أركون — ✅ معتمد
 - `thk-mohanty` — شاندرا موهانتي — ✅ معتمد
 - `thk-mojastrasser` — لوتشيا مويا-شتراسر — ✅ معتمد
+- `thk-montaigne` — ميشيل دي مونتين — ✅ معتمد
 - `thk-montesquieu` — مونتسكيو — ✅ معتمد
 - `thk-moreno` — يعقوب ليفي مورينو — ✅ معتمد
-- `thk-morin` — تشارلز م. مورين — 🕓 مسودة
+- `thk-morin` — تشارلز م. مورين — ✅ معتمد
+- `thk-moritz-schlick` — موريتز شليك — ✅ معتمد
 - `thk-morne` — مارتن أورن — ✅ معتمد
+- `thk-morteza-motahhari` — الشهيد مرتضى مطهري — ✅ معتمد
+- `thk-moscovici` — سيرج موسكوفيتشي — 🕓 مسودة
 - `thk-moss` — دونالد موس — ✅ معتمد
+- `thk-motoori-norinaga` — موتوري نوريناغا — ✅ معتمد
 - `thk-mou-zongsan` — مو تسونغ سان — ✅ معتمد
 - `thk-mounier` — إيمانويل مونييه — ✅ معتمد
 - `thk-moustakas` — كلارك موستاكاس — ✅ معتمد
 - `thk-mozi` — مو زي (مو دي) — ✅ معتمد
 - `thk-mparlett` — مالكولم بارلِت — ✅ معتمد
 - `thk-mpbargreen` — ماري بيندر غرين — ✅ معتمد
-- `thk-mperelman` — مارشال بِرِلمان — 🕓 مسودة
+- `thk-mperelman` — مايكل بِرِلمان — ✅ معتمد
 - `thk-mpolster` — مرييام بولستر — ✅ معتمد
 - `thk-mramose` — مويبِنغ ديزموند ماغوناو رَموسي — ✅ معتمد
 - `thk-mrand` — مارجوري راند — ✅ معتمد
@@ -1283,11 +1550,12 @@
 - `thk-mrothery` — مارك روتشرِي — ✅ معتمد
 - `thk-mrowland` — ميليسا رولاند — ✅ معتمد
 - `thk-mschwarz` — مارغريت شوارز — ✅ معتمد
-- `thk-mseligman` — مارتن سيليجمان — ✅ معتمد
-- `thk-mselpalaz` — مارا سيلفيني بالاتزولي — ✅ معتمد
+- `thk-mseligman` — مارتن سليجمان — ✅ معتمد
+- `thk-mselvini` — مارا سيلفيني-بالازولي — ✅ معتمد
 - `thk-msimeona` — مورّنا سيميونّا — ✅ معتمد
 - `thk-msolms` — مارك سولمز — ✅ معتمد
 - `thk-msolomon` — ماريون سولومون — ✅ معتمد
+- `thk-msrosenberg` — مارشال روزنبرغ (التواصل اللاعنفي) — ✅ معتمد
 - `thk-mstein` — موراي شتاين — ✅ معتمد
 - `thk-mtalmon` — موشيه تالمون — ✅ معتمد
 - `thk-mtarget` — ماري تارجت — ✅ معتمد
@@ -1295,16 +1563,19 @@
 - `thk-mtrevi` — ماريو تريفي — ✅ معتمد
 - `thk-mtsai` — مافيس تساي — ✅ معتمد
 - `thk-mtselvini` — ماتيو سيلفيني — ✅ معتمد
-- `thk-mtutufurth` — مافو توتو فان فورث — 🕓 مسودة
+- `thk-mtutufurth` — مافو توتو فان فورث — ✅ معتمد
 - `thk-muhammad-abduh` — محمد عبده (الإمام) — ✅ معتمد
 - `thk-mulla-sadra` — ملا صدرا الشيرازي (صدر الدين الشيرازي) — ✅ معتمد
+- `thk-munsterberg` — هوغو مونستربرغ — ✅ معتمد
+- `thk-murad-wahba` — مراد وهبة — ✅ معتمد
 - `thk-murphy` — غاردنر ميرفي — ✅ معتمد
 - `thk-muruwwa` — حسين مروة — ✅ معتمد
+- `thk-musonius-rufus` — موسونيوس روفوس — ✅ معتمد
 - `thk-mvanmanen` — ماكس فان مانن — ✅ معتمد
 - `thk-mvannoy` — مايكل فونوي آدامز — ✅ معتمد
 - `thk-mviederman` — ميلتون فيدرمان — ✅ معتمد
 - `thk-mvilanova` — مِرْسيدس فيلانوفا — ✅ معتمد
-- `thk-mwagreich` — موريس هـ. فيغوتش — 🕓 مسودة
+- `thk-mwagreich` — موريس هـ. فيغوتش — ✅ معتمد
 - `thk-mweissman` — ميري وايسمان — ✅ معتمد
 - `thk-mwertheimer` — ماكس فيرتهايمر — ✅ معتمد
 - `thk-mwetherell` — مارغريت ويذَرِيل — ✅ معتمد
@@ -1319,13 +1590,15 @@
 - `thk-nadin` — ميهاي نادين — ✅ معتمد
 - `thk-nagarjuna` — ناغارجونا (مؤسس مادهياماكا) — ✅ معتمد
 - `thk-nagel` — توماس ناغل — ✅ معتمد
+- `thk-najati` — محمد عثمان نجاتي — 🕓 مسودة
 - `thk-nanak` — غورو ناناك (مؤسس السيخية) — ✅ معتمد
-- `thk-nancy-harness` — نانسي هارنِس — 🕓 مسودة
+- `thk-nancy-harness` — نانسي هارنِس — ✅ معتمد
 - `thk-napoleon-hill` — نابليون هيل — ✅ معتمد
 - `thk-nasir-khusraw` — ناصر خسرو قباديانى — ✅ معتمد
 - `thk-nasir-tusi` — نصير الدين الطوسي (الخواجة نصير) — ✅ معتمد
 - `thk-nassim-taleb` — نسيم نيقولا طالب — ✅ معتمد
 - `thk-natanson` — موريس ناتانسون — ✅ معتمد
+- `thk-nausiphanes` — نوسيفانس الطيبي (Nausiphanes of Teos) — ✅ معتمد
 - `thk-navarro` — فيديريكو نافارو — ✅ معتمد
 - `thk-nazrin` — نَثَان هـ. أزّرين — ✅ معتمد
 - `thk-nbepstein` — نورمان إبستين — ✅ معتمد
@@ -1334,13 +1607,18 @@
 - `thk-nealmiller` — نيل ميلّر — ✅ معتمد
 - `thk-nedra-tawwab` — نيدرا غلوفر تواب — ✅ معتمد
 - `thk-neimeyer` — روبرت نيماير — ✅ معتمد
+- `thk-neisser` — أولريك نايسر — 🕓 مسودة
+- `thk-nel-noddings` — نيل نودينغز — ✅ معتمد
 - `thk-nepstein` — نِكولاس إبستين — ✅ معتمد
 - `thk-neumann` — إريك نيومان — ✅ معتمد
 - `thk-ngoldberg` — ناتالي غولدبرغ — ✅ معتمد
-- `thk-nicotole` — نيكول تول — 🕓 مسودة
+- `thk-nicholas-of-cusa` — نيكولاس الكوزاني — ✅ معتمد
+- `thk-nicotole` — نيكول تول — ✅ معتمد
 - `thk-nietzsche` — فريدريش نيتشه — ✅ معتمد
+- `thk-nimbarka` — نيمباركاشاريا — ✅ معتمد
 - `thk-nionescu` — ناي يونسكو — ✅ معتمد
 - `thk-niosepa` — نانا إيوسيبا — ✅ معتمد
+- `thk-nir-eyal` — نير إيال — ✅ معتمد
 - `thk-nisesilveira` — نيسي دا سيلفيرا — ✅ معتمد
 - `thk-nishida` — كيتارو نيشيدا — ✅ معتمد
 - `thk-nishitani` — كيجي نيشيتاني — ✅ معتمد
@@ -1348,65 +1626,82 @@
 - `thk-nkhanna` — نيخيل خانا — ✅ معتمد
 - `thk-nkrumah` — كوامي نكروما — ✅ معتمد
 - `thk-nlehrman` — ناثانئيل لِرمان — ✅ معتمد
-- `thk-nmanganyi` — نْيلسون مَغَنْي — ✅ معتمد
+- `thk-nmanganyi` — إن تشاباني مَنغاني — ✅ معتمد
+- `thk-noam-chomsky` — نعوم تشومسكي — ✅ معتمد
+- `thk-norbert-wiener` — نوربرت فينر — ✅ معتمد
 - `thk-norman-vincent-peale` — نورمان فنسنت بيل — ✅ معتمد
-- `thk-novaco` — ريموند و. نوفاكو — 🕓 مسودة
+- `thk-novaco` — ريموند و. نوفاكو — ✅ معتمد
 - `thk-nozick` — روبرت نوزيك — ✅ معتمد
 - `thk-npeseschkian` — نصرت بيسشكيان — ✅ معتمد
 - `thk-npetry` — نانسي م. بيتري — ✅ معتمد
 - `thk-nrogers` — ناتالي روجرز — ✅ معتمد
 - `thk-nsugiyama` — نَأوكو سُوگييامَا — ✅ معتمد
+- `thk-numenius` — نومينيوس الأفامي — ✅ معتمد
 - `thk-nussbaum` — مارثا نوسباوم — ✅ معتمد
 - `thk-nwatanabe` — نوبو واتانابي — ✅ معتمد
 - `thk-oapel` — كارل-أوتو آبل — ✅ معتمد
 - `thk-oaverderese` — أولغا فِرْدِرِيس — ✅ معتمد
 - `thk-obecker` — أوسكار بيكر — ✅ معتمد
 - `thk-ogilvie` — بروس أوكيف — ✅ معتمد
+- `thk-okasha` — أحمد عكاشة — 🕓 مسودة
+- `thk-okot-pbitek` — أوكوت بِتِك — ✅ معتمد
 - `thk-oliver-burkeman` — أوليفر بوركمان — ✅ معتمد
 - `thk-oliver-sacks` — أوليفر ساكس — ✅ معتمد
+- `thk-olympiodorus-younger` — أولمبيودوروس الأصغر — ✅ معتمد
 - `thk-opfister` — أوسكار بفِسْتَر — ✅ معتمد
-- `thk-oprah-winfrey` — أوبرا وينفري — 🕓 مسودة
+- `thk-oprah-winfrey` — أوبرا وينفري — ✅ معتمد
 - `thk-ormijares` — أوسكار رودريغيث ميجاريس — ✅ معتمد
 - `thk-ornstein` — بول ه. أورنشتاين — ✅ معتمد
 - `thk-orsigen` — أوريجانوس — ✅ معتمد
 - `thk-ortega` — خوسيه أورتيجا إي جاسيت — ✅ معتمد
+- `thk-orwell` — جورج أورويل (إريك بلير) — ✅ معتمد
 - `thk-osilver` — أولغا سيلفرشتاين — ✅ معتمد
 - `thk-ottofenichel` — أوتو فينيشل — ✅ معتمد
 - `thk-ovogt` — أوسكار فوغت — ✅ معتمد
 - `thk-paci` — إنزو باتشي — ✅ معتمد
 - `thk-pakman` — مارسيلو باكمان — ✅ معتمد
-- `thk-panksepp` — جاك بانكسيب — ✅ معتمد
-- `thk-papaarangireid` — بابارانغي ريد — 🕓 مسودة
+- `thk-panaetius` — بانيتيوس الرودسي — ✅ معتمد
+- `thk-panksepp` — ياكوب بانكسيب — ✅ معتمد
+- `thk-papaarangireid` — بابارانغي ريد — ✅ معتمد
+- `thk-papert` — سيمور بابِرت — ✅ معتمد
 - `thk-pappelbaum` — بول أبلباوم — ✅ معتمد
 - `thk-pareyson` — لويجي باريزون — ✅ معتمد
 - `thk-park` — كريستال بارك — ✅ معتمد
+- `thk-park-jiwon` — باك جيو-ون (تشو بيغنيو) — ✅ معتمد
 - `thk-parkjongik` — بارك جونغ-إيك — ✅ معتمد
+- `thk-parmenides` — بارمنيدس الإيلي — ✅ معتمد
 - `thk-pascal` — بليز باسكال — ✅ معتمد
 - `thk-patanjali` — باتانجالي (مؤسس اليوغا الكلاسيكية) — ✅ معتمد
 - `thk-patdeegan` — بات ديغان — ✅ معتمد
 - `thk-pateman` — كارول بيتمان — ✅ معتمد
 - `thk-patocka` — يان باتوتشكا — ✅ معتمد
-- `thk-patrice-de-marco` — باتريس دي ماركو — 🕓 مسودة
+- `thk-patrice-de-marco` — باتريس دي ماركو — ✅ معتمد
+- `thk-patricia-churchland` — باتريشيا تشيرشلاند — ✅ معتمد
+- `thk-paul-churchland` — بول تشيرشلاند — ✅ معتمد
 - `thk-paul-ekman` — بول إيكمان — ✅ معتمد
-- `thk-paul-thorne` — بول ثورن — 🕓 مسودة
+- `thk-paul-thorne` — بول ثورن — ✅ معتمد
+- `thk-paula-penda` — بولا بيندا (Paula Penda) — ✅ معتمد
 - `thk-paulgthomas` — بول جي. توماس — ✅ معتمد
-- `thk-paulholmes` — بول هولمز — 🕓 مسودة
+- `thk-paulholmes` — بول هولمز — ✅ معتمد
 - `thk-paz` — أوكتافيو باث — ✅ معتمد
 - `thk-pbenacerraf` — بول بناسراف — ✅ معتمد
 - `thk-pberry` — باتريشيا بيري — ✅ معتمد
-- `thk-pbooth` — فيلس بوث — ✅ معتمد
+- `thk-pbooth` — فيليس بوث — ✅ معتمد
 - `thk-pcaplan` — بولا كابلان — ✅ معتمد
 - `thk-pcarducci` — باولا كاردوتشي — ✅ معتمد
 - `thk-pchodron` — بيما تشُدرُن — ✅ معتمد
 - `thk-pdeegan` — باتريشا ديجان — ✅ معتمد
-- `thk-peg-pender` — بيغ پيندر — 🕓 مسودة
+- `thk-peg-pender` — بيغ پيندر — ✅ معتمد
 - `thk-peirce` — تشارلز ساندرز بيرس — ✅ معتمد
-- `thk-pekkajokinen` — بيكا يوكينن — 🕓 مسودة
-- `thk-penelopeeast` — بينيلوبي إيست — 🕓 مسودة
+- `thk-pekkajokinen` — بيكا يوكينن — ✅ معتمد
+- `thk-penelopeeast` — بينيلوبي إيست — ✅ معتمد
 - `thk-penny-lewis` — بيني لويس — ✅ معتمد
 - `thk-peperzak` — أدريان بيبرزاك — ✅ معتمد
-- `thk-peta-stapleton` — بيتا ستاپلتون — 🕓 مسودة
-- `thk-peter-clough` — بيتر كلاف — 🕓 مسودة
+- `thk-pepper` — ستيفن كول بِبِر — ✅ معتمد
+- `thk-peta-stapleton` — بيتا ستاپلتون — ✅ معتمد
+- `thk-peter-abelard` — بيتر أبيلار — ✅ معتمد
+- `thk-peter-bloom` — بيتر بلوم (Peter Bloom) — ✅ معتمد
+- `thk-peter-clough` — بيتر كلاف — ✅ معتمد
 - `thk-peter-levine` — بيتر ليفين — ✅ معتمد
 - `thk-peter-singer` — بيتر سينغر — ✅ معتمد
 - `thk-peterkellermann` — بيتر كيلرمان — ✅ معتمد
@@ -1414,7 +1709,6 @@
 - `thk-petrarca` — فرانشيسكو بترارك — ✅ معتمد
 - `thk-pfeyerabend` — بول فايرابند — ✅ معتمد
 - `thk-pfisher` — بيتر فيشر — ✅ معتمد
-- `thk-pfonel` — بيتر فونيغي — ✅ معتمد
 - `thk-pfreire` — باولو فريري — ✅ معتمد
 - `thk-pfrick` — بول فريك — ✅ معتمد
 - `thk-pgasser` — بيتر غَسَر — ✅ معتمد
@@ -1425,55 +1719,79 @@
 - `thk-phackney` — بي. كيت هَكْني — ✅ معتمد
 - `thk-phcollins` — باتريشا هيل كولينز — ✅ معتمد
 - `thk-philip-zimbardo` — فيليب زيمباردو — ✅ معتمد
-- `thk-philippe-cunningham` — فيليب كَننغهام — 🕓 مسودة
+- `thk-philippa-foot` — فيليبا فوت — 🕓 مسودة
+- `thk-philippe-cunningham` — فيليب كَننغهام — ✅ معتمد
+- `thk-philippe-pinel` — فيليب بينيل — 🕓 مسودة
 - `thk-philo` — فيلو الإسكندري (فيلون) — ✅ معتمد
 - `thk-philo-alexandria` — فيلون الإسكندري — ✅ معتمد
-- `thk-piaget` — جان بياجيه — 🕓 مسودة
-- `thk-pico` — جيوفاني بيكو della ميراندولا — ✅ معتمد
+- `thk-philolaus` — فيلولاوس الكروتوني — ✅ معتمد
+- `thk-philon-larissa` — فيلون اللاريسي — ✅ معتمد
+- `thk-piaget` — جان بياجيه — ✅ معتمد
+- `thk-pico` — جيوفاني بيكو ديلا ميراندولا — ✅ معتمد
 - `thk-pierrakos` — جون س. بيراكوس — ✅ معتمد
-- `thk-pipitea` — مايكل بيبيتي — 🕓 مسودة
+- `thk-pierre-gassendi` — بيير غاسندي — ✅ معتمد
+- `thk-pipitea` — مايكل بيبيتي — ✅ معتمد
 - `thk-pknill` — باولو نيل — ✅ معتمد
 - `thk-pkuhn` — توماس كون — ✅ معتمد
+- `thk-placide-tempels` — بلاسيد تيمبلس (مُكتشف الفلسفة البانتو) — ✅ معتمد
 - `thk-plangevin` — روني لانجفان — ✅ معتمد
-- `thk-plato` — أفلاطون — 🕓 مسودة
+- `thk-plato` — أفلاطون — ✅ معتمد
+- `thk-plevine` — بيتر ليفين — ✅ معتمد
 - `thk-plotinus` — أفلوطين — ✅ معتمد
 - `thk-plugge` — هربرت بلوغه — ✅ معتمد
 - `thk-pnordoff` — بول نوردوف — ✅ معتمد
-- `thk-pogden-hakomi` — بات أوغدن — ✅ معتمد
+- `thk-pogden` — بات أوغدن — ✅ معتمد
+- `thk-politzer` — جورج بوليتزر — 🕓 مسودة
 - `thk-polkinghorne` — دونالد بولكينغهورن — ✅ معتمد
 - `thk-pontalis` — جان-بيرتران بونتالي — ✅ معتمد
+- `thk-porphyry` — فرفوريوس الصوري — ✅ معتمد
+- `thk-posidonius` — بوسيدونيوس الأفامي — ✅ معتمد
+- `thk-posner` — مايكل بوزنر — ✅ معتمد
 - `thk-ppallaro` — باتريتسيا بالارو — ✅ معتمد
 - `thk-ppapp` — بيغي باب — ✅ معتمد
 - `thk-ppenn` — بيغي بِن — ✅ معتمد
 - `thk-ppower` — باميلا باور — ✅ معتمد
+- `thk-prabhakara` — برابهاكرا ميشرا — ✅ معتمد
+- `thk-prasastapada` — براساستابادا (Prasastapada) — ✅ معتمد
 - `thk-pridgway` — باتريسيا رِدجوِي — ✅ معتمد
+- `thk-primo-levi` — بريمو ليفي — ✅ معتمد
 - `thk-pritz` — ألويس بريتز — ✅ معتمد
 - `thk-prochaska` — جيمس بروتشاسكا — ✅ معتمد
+- `thk-proclus` — بروكلس الإسكندراني (الديادوخوس) — ✅ معتمد
+- `thk-prodicus` — بروديكوس الكيوسي — ✅ معتمد
+- `thk-protagoras` — برروتاغوراس الأبديري — ✅ معتمد
 - `thk-proudhon` — بيير جوزيف برودون — ✅ معتمد
 - `thk-pseudo-dionysius` — ديونيسيوس المجهول (المُنتحل / الإله الزائف) — ✅ معتمد
-- `thk-psinger` — بيتر سنغر — ✅ معتمد
 - `thk-pslade` — بيتر سليد — ✅ معتمد
 - `thk-ptahhotep` — بتاح حتب — ✅ معتمد
 - `thk-ptedeschi` — رافائيل تيدِسكي — ✅ معتمد
 - `thk-pteilhard` — بيار تيار دي شاردان — ✅ معتمد
 - `thk-puysgur` — ماركيز دي بويزيغور — ✅ معتمد
 - `thk-pwatzlawick` — بول واتزلاويك — ✅ معتمد
-- `thk-pwehman` — بول ويهَمان — 🕓 مسودة
+- `thk-pwehman` — بول ويهَمان — ✅ معتمد
+- `thk-pyrrho` — بيرون الإليسي — ✅ معتمد
 - `thk-pyszczynski` — توم بيسزينسكي — ✅ معتمد
+- `thk-pythagoras` — فيثاغورس الساموسي — ✅ معتمد
+- `thk-qadi-abd-al-jabbar` — القاضي عبد الجبار بن أحمد الهمذاني — ✅ معتمد
 - `thk-qualls-corbett` — نانسي كوالز-كوربت — ✅ معتمد
+- `thk-quentin-meillassoux` — كونتين ميياسو — ✅ معتمد
+- `thk-qutb-al-din-al-shirazi` — قطب الدين محمود بن مسعود الشيرازي — ✅ معتمد
 - `thk-rachel-heller` — راشيل هيلر — ✅ معتمد
 - `thk-rackoff` — راسل أكوف — ✅ معتمد
 - `thk-radhakrishnan` — سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي) — ✅ معتمد
 - `thk-rado` — ثيودور رادو — ✅ معتمد
-- `thk-rafaeli-eyth` — رافائيل إيدث — 🕓 مسودة
+- `thk-rafaeli-eyth` — رافائيل إيدث — ✅ معتمد
+- `thk-raju` — ب. ت. راجو — ✅ معتمد
 - `thk-raknes` — أولا راكنيس — ✅ معتمد
 - `thk-raltezor` — روبرتو آلتِزور — ✅ معتمد
 - `thk-ramanuja` — رامانوجا (فيشيشتادفايتا) — ✅ معتمد
 - `thk-ramsden` — رينيه رامسدن — ✅ معتمد
-- `thk-randystabler` — راندي ستابلر — 🕓 مسودة
+- `thk-randystabler` — راندي ستابلر — ✅ معتمد
 - `thk-rank` — أوتو رانك — ✅ معتمد
 - `thk-raphael` — د. د. رافائيل — ✅ معتمد
+- `thk-raul-fornet-betancourt` — راؤول فورنيت-بيتانكور (Raúl Fornet-Betancourt) — ✅ معتمد
 - `thk-rawls` — جون رولز — ✅ معتمد
+- `thk-raymond-cattell` — ريموند كاتل — 🕓 مسودة
 - `thk-rbandler` — ريتشارد بَندلر — ✅ معتمد
 - `thk-rbarkley` — راسِل باركلي — ✅ معتمد
 - `thk-rbauer` — روبرت باور — ✅ معتمد
@@ -1481,6 +1799,7 @@
 - `thk-rborum` — راندي بوروم — ✅ معتمد
 - `thk-rbrandom` — روبرت براندوم — ✅ معتمد
 - `thk-rbritton` — رونالد بِرِتن — ✅ معتمد
+- `thk-rcabrera` — أكينسولا أكيووو — ✅ معتمد
 - `thk-rcallahan` — روجر كالاهان — ✅ معتمد
 - `thk-rcarhart-harris` — روبن كارهارت-هاريس — ✅ معتمد
 - `thk-rcarnap` — رودولف كارناب — ✅ معتمد
@@ -1495,10 +1814,11 @@
 - `thk-reich` — فيلهلم رايخ — ✅ معتمد
 - `thk-reik` — تيودور رايك — ✅ معتمد
 - `thk-reker` — غاري ريكر — ✅ معتمد
+- `thk-rene-girard` — رينيه جيرار — ✅ معتمد
 - `thk-renik` — أوين رينيك — ✅ معتمد
 - `thk-rennie` — ديفيد ريني — ✅ معتمد
 - `thk-reshetnikov` — ميخائيل ريشيتنيكوف — ✅ معتمد
-- `thk-resick` — باتريشيا أ. ريسك — 🕓 مسودة
+- `thk-resick` — باتريشيا أ. ريسك — ✅ معتمد
 - `thk-retchegoyen` — رودولفو إتشغوين — ✅ معتمد
 - `thk-rfisch` — ريتشارد فيش — ✅ معتمد
 - `thk-rfoxx` — ريتشارد فُكْس — ✅ معتمد
@@ -1510,29 +1830,35 @@
 - `thk-rhonda-byrne` — روندا بايرن — ✅ معتمد
 - `thk-rhooton` — راندي هوتون — ✅ معتمد
 - `thk-rice` — روبرت رايس — ✅ معتمد
+- `thk-richard-bernstein` — ريتشارد ج. برنشتاين — ✅ معتمد
+- `thk-richard-davidson` — ريتشارد ديفيدسون — ✅ معتمد
+- `thk-richard-dawkins` — ريتشارد دوكينز — ✅ معتمد
+- `thk-richard-feynman` — ريتشارد فاينمان — ✅ معتمد
+- `thk-richard-lazarus` — ريتشارد لازاروس — 🕓 مسودة
 - `thk-richard-schwartz` — ريتشارد شوارتز — ✅ معتمد
+- `thk-richard-thaler` — ريتشارد ثالر — ✅ معتمد
+- `thk-rick-doblin` — ريك دوبان — ✅ معتمد
 - `thk-rick-hanson` — ريك هانسون — ✅ معتمد
-- `thk-rick-levy` — ريك ليفي — 🕓 مسودة
+- `thk-rick-levy` — ريك ليفي — ✅ معتمد
 - `thk-ricoeur` — بول ريكور — ✅ معتمد
 - `thk-rizzo` — ألبرت «سكيب» ريزو — ✅ معتمد
 - `thk-rjohnson` — روبرت أ. جونسون — ✅ معتمد
-- `thk-rk-narayan` — راماكريشنا نارايان — 🕓 مسودة
+- `thk-rk-narayan` — راماكريشنا نارايان — ✅ معتمد
 - `thk-rkaes` — رينيه كايه — ✅ معتمد
-- `thk-rkahneman` — دانيال كانمن — ✅ معتمد
-- `thk-rkeller` — روبرت كلارك — 🕓 مسودة
+- `thk-rkeller` — روبرت كلارك — ✅ معتمد
 - `thk-rkerbauy` — راثيل كربّوي — ✅ معتمد
 - `thk-rklenck` — [مؤسِّسو AJA / BJAA / SAP / IGAP / GAP] — ✅ معتمد
 - `thk-rkohlen` — روبرت ج. كولنبرغ — ✅ معتمد
 - `thk-rkovarsky` — رِكُورْدو كوفارسكي — ✅ معتمد
 - `thk-rkthaler` — ريتشارد هـ. ثالر — ✅ معتمد
 - `thk-rkurtz` — رون كورتز — ✅ معتمد
-- `thk-rlaing` — رونالد لانغ — ✅ معتمد
 - `thk-rlandy-md` — روبرت لاندي — ✅ معتمد
 - `thk-rlevenson` — روبرت ليفنسون — ✅ معتمد
 - `thk-rlewis` — روبرت أ. لويس — ✅ معتمد
 - `thk-rlina` — ريك لينا — ✅ معتمد
 - `thk-rlindsl` — أورغن ر. ليندزلي — ✅ معتمد
 - `thk-rlmoore` — روبرت ل. مور — ✅ معتمد
+- `thk-rlwilliams` — روبرت ل. ويليامز — ✅ معتمد
 - `thk-rmanaster` — رايتشل ماناستر — ✅ معتمد
 - `thk-rmarvin` — روبرت مارفن — ✅ معتمد
 - `thk-rmdoblin` — ريك دابلن — ✅ معتمد
@@ -1541,29 +1867,37 @@
 - `thk-rmosak` — روبرت موشارك — ✅ معتمد
 - `thk-rmritchie` — رالف ميتزner — ✅ معتمد
 - `thk-rmwashburn` — مايكل واشبورن — ✅ معتمد
+- `thk-robert-assagioli` — روبرتو أساجيولي — ✅ معتمد
 - `thk-robert-bolton` — روبرت بولتون — ✅ معتمد
-- `thk-robert-burgess` — روبرت بَرجِس — 🕓 مسودة
-- `thk-robert-cornelis` — روبرت كورنليس — 🕓 مسودة
+- `thk-robert-burgess` — روبرت بَرجِس — ✅ معتمد
+- `thk-robert-cornelis` — روبرت كورنليس — ✅ معتمد
 - `thk-robert-emery` — روبرت إيميري — ✅ معتمد
 - `thk-robert-greene` — روبرت غرين — ✅ معتمد
 - `thk-robert-kegan` — روبرت كيغان — ✅ معتمد
-- `thk-robert-rotella` — روبرت روتيلا — 🕓 مسودة
+- `thk-robert-rotella` — روبرت روتيلا — ✅ معتمد
 - `thk-robert-sapolsky` — روبرت سابولسكي — ✅ معتمد
-- `thk-robertduvall` — روبرت دوفال — 🕓 مسودة
+- `thk-robert-thurman` — روبرت ثورمان (Robert Thurman) — ✅ معتمد
+- `thk-robertduvall` — روبرت دوفال — ✅ معتمد
 - `thk-robertelliott` — روبرت إليوت — ✅ معتمد
 - `thk-robertfritz` — روبرت فريتز — ✅ معتمد
 - `thk-robin-sharma` — روبين شارما — ✅ معتمد
+- `thk-rodolfo-kusch` — رودولفو كوش — ✅ معتمد
+- `thk-roger-bacon` — روجر بيكون — ✅ معتمد
 - `thk-rogers` — كارل روجرز — ✅ معتمد
-- `thk-rohan-gullich` — روهان غوليتش — 🕓 مسودة
-- `thk-roland-tolentino` — رولاند تولنتينو — 🕓 مسودة
+- `thk-rohan-gullich` — روهان غوليتش — ✅ معتمد
+- `thk-roland-barthes` — رولان بارت — ✅ معتمد
+- `thk-roland-griffiths` — رولاند غريفثز — ✅ معتمد
+- `thk-roland-tolentino` — رولاند تولنتينو — ✅ معتمد
+- `thk-rollins` — رولنز (Stephen Rollins) — ✅ معتمد
 - `thk-rollnick` — ستيفن رولنيك — ✅ معتمد
+- `thk-roman-ingarden` — رومان إنغاردن (ظاهراتي الأدب والجمال) — ✅ معتمد
 - `thk-ronald-siegel` — رونالد د. سيغل — ✅ معتمد
 - `thk-rorty` — ريتشارد رورتي — ✅ معتمد
-- `thk-rosemaryalara` — روزماري أَلارا — 🕓 مسودة
+- `thk-rosemaryalara` — روزماري أَلارا — ✅ معتمد
 - `thk-rosenfeld` — هربرت روزنفيلد — ✅ معتمد
 - `thk-rosolato` — غي روزولاتو — ✅ معتمد
-- `thk-rothbaum` — باربارا أولسبي روثباوم — 🕓 مسودة
-- `thk-rothschild` — بابي روتشيلد — 🕓 مسودة
+- `thk-rothbaum` — باربارا أولسبي روثباوم — ✅ معتمد
+- `thk-rothschild` — بابي روتشيلد — ✅ معتمد
 - `thk-rousseau` — جان جاك روسو — ✅ معتمد
 - `thk-roustang` — فرانسوا روستانغ — ✅ معتمد
 - `thk-rowenaansbacher` — روينا ريبين آنسْباخِر — ✅ معتمد
@@ -1574,7 +1908,7 @@
 - `thk-rpimenta` — ريكاردو بيمينتا — ✅ معتمد
 - `thk-rpla` — روبرتو خ. بلاث — ✅ معتمد
 - `thk-rprice` — راشِل بَرايس — ✅ معتمد
-- `thk-rreibo` — ريتشارد ريبو — 🕓 مسودة
+- `thk-rreibo` — ريتشارد ريبو — ✅ معتمد
 - `thk-rresnick` — روبرت رِسنيك — ✅ معتمد
 - `thk-rrestrepo` — رودريغو ريستريبو — ✅ معتمد
 - `thk-rrudolf` — غرد رودولف — ✅ معتمد
@@ -1590,28 +1924,32 @@
 - `thk-rstein` — روبرت شتاين — ✅ معتمد
 - `thk-rsterba` — ريتشارد سْتيربا — ✅ معتمد
 - `thk-rsuinn` — ريتشارد سوين — ✅ معتمد
+- `thk-ruben-habito` — روبن هابيتو (Ruben Habito) — ✅ معتمد
 - `thk-rubin` — شون روبين — ✅ معتمد
-- `thk-ruilinzhou` — تشو روي-لين — 🕓 مسودة
-- `thk-rupertpriest` — روبرت بريست — 🕓 مسودة
+- `thk-rubinstein` — سيرغي روبنشتاين — 🕓 مسودة
+- `thk-ruilinzhou` — تشو روي-لين — ✅ معتمد
+- `thk-rupertpriest` — روبرت بريست — ✅ معتمد
 - `thk-russ-harris` — روس هاريس — ✅ معتمد
-- `thk-russellrazzaque` — راسل رزّاق — 🕓 مسودة
+- `thk-russellrazzaque` — راسل رزّاق — ✅ معتمد
+- `thk-rutter` — مايكل روتر — 🕓 مسودة
 - `thk-rvendramini` — رِيناتا فِندْراميني — ✅ معتمد
 - `thk-rviaro` — روبرتو فيارو — ✅ معتمد
 - `thk-rwachtel` — بول ل. واتشتِل — ✅ معتمد
 - `thk-rwalsh` — روجر والش — ✅ معتمد
 - `thk-rwatts` — ريتشارد واتس — ✅ معتمد
-- `thk-rwilliams` — روبرت ويليامز — ✅ معتمد
+- `thk-rwilliams` — روجر ت. أيمز — ✅ معتمد
 - `thk-rwooffitt` — روبن ووفيت — ✅ معتمد
 - `thk-rycroft` — تشارلز ريكروفت — ✅ معتمد
-- `thk-ryle` — أنتوني رايل — 🕓 مسودة
+- `thk-ryle` — أنتوني رايل — ✅ معتمد
 - `thk-saadia-gaon` — سعديا بن يوسف الفيومي (رأس جاؤون) — ✅ معتمد
 - `thk-saathar` — شاهيد أثير — ✅ معتمد
 - `thk-saberg-abramovitz` — أَسْترِيد بِرغ وكارول أبراموفيتش — ✅ معتمد
 - `thk-sachs` — هانس زاكس — ✅ معتمد
+- `thk-sadr-al-din-al-qunawi` — صدر الدين محمد بن إسحاق القونوي — ✅ معتمد
 - `thk-sadreddin-konevi` — صدر الدين القونوي — ✅ معتمد
 - `thk-sahmed` — سارة أحمد — ✅ معتمد
 - `thk-said` — إدوارد سعيد — ✅ معتمد
-- `thk-salmareading` — سالما ريدنغ — 🕓 مسودة
+- `thk-salmareading` — سالما ريدنغ — ✅ معتمد
 - `thk-salome` — لو أندرياس-سالومي — ✅ معتمد
 - `thk-samuels` — أندرو صاموئلز — ✅ معتمد
 - `thk-sanchez` — كارلوس ألبيرتو سانشيز — ✅ معتمد
@@ -1620,9 +1958,10 @@
 - `thk-sartre` — جان بول سارتر — ✅ معتمد
 - `thk-sasch` — سولومون آش — ✅ معتمد
 - `thk-sass` — لويس ساس — ✅ معتمد
-- `thk-sathyanarayana-doreswamy` — ساتيانارايانا دورِسوامي — 🕓 مسودة
+- `thk-sathyanarayana-doreswamy` — ساتيانارايانا دورِسوامي — ✅ معتمد
 - `thk-savarkar` — فيناياك دامودار سافاركار — ✅ معتمد
 - `thk-savodnik` — ليونارد سافودنيك — ✅ معتمد
+- `thk-sayf-al-din-al-amidi` — سيف الدين علي بن محمد الآمدي — ✅ معتمد
 - `thk-sbaum` — سكوت بوم — ✅ معتمد
 - `thk-sbeer` — ستافورد بير — ✅ معتمد
 - `thk-sbem` — ساندرا بيم — ✅ معتمد
@@ -1630,9 +1969,12 @@
 - `thk-sblumberg` — سوزان بلومبرغ — ✅ معتمد
 - `thk-sbooth` — ساندرا لينداما — ✅ معتمد
 - `thk-sbouchard` — ستيفان بوشار — ✅ معتمد
-- `thk-schauer` — ماغي شاور — 🕓 مسودة
+- `thk-schacter` — دانيال شاكتر — 🕓 مسودة
+- `thk-schauer` — ماغي شاور — ✅ معتمد
 - `thk-scheler` — ماكس شيلر — ✅ معتمد
 - `thk-schelling` — فريدريش شيلينغ — ✅ معتمد
+- `thk-schiller` — فريدريش شيلر — ✅ معتمد
+- `thk-schleiermacher` — فريدريش شلايرماخر — ✅ معتمد
 - `thk-schneider` — كيرك شنايدر — ✅ معتمد
 - `thk-schnell` — تاتيانا شنيل — ✅ معتمد
 - `thk-schopenhauer` — أرتور شوبنهاور — ✅ معتمد
@@ -1642,12 +1984,16 @@
 - `thk-schwartzsalant` — ناثان شوارتز-سالانت — ✅ معتمد
 - `thk-scirillo` — ستيفانو تشيريلو — ✅ معتمد
 - `thk-scott-peck` — م. سكوت بيك — ✅ معتمد
-- `thk-sdeshazer` — ستيف دي شيزَر — ✅ معتمد
+- `thk-sdesha` — كاملِش دي. باتيل (داجي) — ✅ معتمد
+- `thk-sdeshacer` — ستيف دي شيزر — ✅ معتمد
 - `thk-sdouglas` — سو دوغلاس — ✅ معتمد
 - `thk-segal` — حنا سيغال — ✅ معتمد
+- `thk-selye` — هانز سيلييه — 🕓 مسودة
 - `thk-sen` — أمارتيا سين — ✅ معتمد
+- `thk-seneca` — لوكيوس أنيوس سينيكا — ✅ معتمد
 - `thk-senghor` — ليوبولد سيدار سنغور — ✅ معتمد
 - `thk-serlin` — إيلين سيرلين — ✅ معتمد
+- `thk-sextus-empiricus` — سكستوس إمبيريكوس — ✅ معتمد
 - `thk-seyberg` — ستيفن إيبِرغ — ✅ معتمد
 - `thk-sferenczi` — ساندور فيرينتسي — ✅ معتمد
 - `thk-sfinlay` — ستيفن فينلاي — ✅ معتمد
@@ -1659,23 +2005,32 @@
 - `thk-sgrof` — ستانيسلاف غروف — ✅ معتمد
 - `thk-shah-waliullah` — شاه ولي الله الدهلوي — ✅ معتمد
 - `thk-shakespeare` — توم شكسبير — ✅ معتمد
+- `thk-shakti-gawain` — شَكتي غَوَين — ✅ معتمد
 - `thk-shalit` — إيريل شاليت — ✅ معتمد
 - `thk-shamdasani` — سوني شمداساني — ✅ معتمد
 - `thk-shang-yang` — شانغ يانغ (غي وي شيانغ) — ✅ معتمد
 - `thk-shankara` — شانكارا (أدفايتا فيدانتا) — ✅ معتمد
-- `thk-shapiro` — فرانسين شابيرو — 🕓 مسودة
+- `thk-shantarakshita` — شانتاراكشيتا — ✅ معتمد
+- `thk-shantideva` — شانتيديفا — ✅ معتمد
+- `thk-shao-yong` — شاو يونغ — ✅ معتمد
+- `thk-sharabi` — هشام شرابي — 🕓 مسودة
+- `thk-shari-manning` — شاري مانينغ — ✅ معتمد
 - `thk-sharper` — سوزان هاربر — ✅ معتمد
-- `thk-sharron-hapai` — شارون هاپاي — 🕓 مسودة
+- `thk-sharron-hapai` — شارون هاپاي — ✅ معتمد
+- `thk-shaver` — فيليب شيفر — 🕓 مسودة
 - `thk-sheena-iyengar` — شينا إينغار — ✅ معتمد
 - `thk-shen-buhai` — شين بو هاي — ✅ معتمد
 - `thk-shenggeler` — سكوت هِنغلَر — ✅ معتمد
+- `thk-sherry-turkle` — شيري تركل — ✅ معتمد
 - `thk-shestov` — ليف شيستوف — ✅ معتمد
 - `thk-shiggins` — ستيفن تي. هيغينز — ✅ معتمد
-- `thk-shirley-murray` — شيرلي موراي — 🕓 مسودة
+- `thk-shih-chao-hwei` — شيه تشاو-هوي (Shih Chao-Hwei) — ✅ معتمد
+- `thk-shirley-murray` — شيرلي موراي — ✅ معتمد
 - `thk-shneidman` — إدوين شنايدمان — ✅ معتمد
 - `thk-sicher` — ليديا سيشر — ✅ معتمد
 - `thk-sidneyjourdan` — سيدني جورارد — ✅ معتمد
 - `thk-siger-brabant` — سيجير دي برابانت — ✅ معتمد
+- `thk-simplicius` — سمبليكيوس القيليقي — ✅ معتمد
 - `thk-singer` — توماس سينغر — ✅ معتمد
 - `thk-sjohnson` — سو جونسون — ✅ معتمد
 - `thk-skalama` — سام كالاما — ✅ معتمد
@@ -1691,20 +2046,25 @@
 - `thk-smcniff` — شون ماكنيف — ✅ معتمد
 - `thk-smead` — شيري ميد — ✅ معتمد
 - `thk-sminuchin` — سلفادور مينوشين — ✅ معتمد
-- `thk-smitchell` — سْتِيفن مِتْشِل — ✅ معتمد
 - `thk-smorita` — شوما موريتا — ✅ معتمد
 - `thk-snichols` — شون نيكولز — ✅ معتمد
 - `thk-snygg` — دونالد سنيغ — ✅ معتمد
 - `thk-socrates` — سقراط — ✅ معتمد
 - `thk-sohrevardi` — شهاب الدين يحيى السهروردي (شيخ الإشراق) — ✅ معتمد
+- `thk-sojourner-truth` — سوجورنر تروث — ✅ معتمد
 - `thk-solomon` — روبرت سولومون — ✅ معتمد
 - `thk-solomon-hebrew` — سليمان (في التقليد التوراتي) — ✅ معتمد
 - `thk-soloveitchik` — جوزيف سولوفيتشيك — ✅ معتمد
 - `thk-soltz` — فيكي سولْتز — ✅ معتمد
-- `thk-sothmer` — سيغفريد أوتمر — 🕓 مسودة
+- `thk-solzhenitsyn` — ألكسندر سولجينيتسين — ✅ معتمد
+- `thk-sothmer` — سيغفريد أوتمر — ✅ معتمد
+- `thk-soueif` — مصطفى سويف — 🕓 مسودة
+- `thk-spearman` — تشارلز سبيرمان — 🕓 مسودة
 - `thk-spencer` — هربرت سبنسر — ✅ معتمد
 - `thk-spencer-johnson` — سبنسر جونسون — ✅ معتمد
 - `thk-sperber` — مَنِس سپِربر — ✅ معتمد
+- `thk-sperling` — جورج سبيرلينغ — 🕓 مسودة
+- `thk-speusippus` — سبيوسيبوس الأثيني — ✅ معتمد
 - `thk-spiegelberg` — هربرت شبيغلبرغ — ✅ معتمد
 - `thk-spielrein` — سابينا شبيلراين — ✅ معتمد
 - `thk-spillius` — إلِزابت بوت سپِليوس — ✅ معتمد
@@ -1713,11 +2073,11 @@
 - `thk-spiper` — ستيفان بايبِر — ✅ معتمد
 - `thk-spitz` — رينيه شبيتز — ✅ معتمد
 - `thk-spivak` — غاياتري سبيفاك — ✅ معتمد
-- `thk-sporges` — ستيفن بورجِس — ✅ معتمد
 - `thk-srhoades` — غايلينا رودس — ✅ معتمد
 - `thk-sri-aurobindo` — شري أوروبندو غوش — ✅ معتمد
 - `thk-srosenberg` — ستانلي روزنبرغ — ✅ معتمد
 - `thk-sross` — ستيفن روس — ✅ معتمد
+- `thk-sroufe` — آلان سروف — 🕓 مسودة
 - `thk-ssafran` — ستيفن م. سَافِران — ✅ معتمد
 - `thk-ssalzberg` — شارون سالزبرغ — ✅ معتمد
 - `thk-sschoenwald` — سونيا شونوالد — ✅ معتمد
@@ -1725,48 +2085,60 @@
 - `thk-ssolomon` — شيلدون سولومون — ✅ معتمد
 - `thk-sspeer` — سوزان سبيير — ✅ معتمد
 - `thk-sstanley` — سكوت ستانلي — ✅ معتمد
-- `thk-ssterman` — ماريو ستيرمان — 🕓 مسودة
+- `thk-ssterman` — ماريو ستيرمان — ✅ معتمد
 - `thk-stanghellini` — جوفاني ستانغليني — ✅ معتمد
+- `thk-stanley-hall` — ستانلي هول — 🕓 مسودة
 - `thk-stanley-milgram` — ستانلي ميلغرام — ✅ معتمد
 - `thk-stein` — إديث شتاين — ✅ معتمد
 - `thk-stephen-covey` — ستيفن كوفي — ✅ معتمد
-- `thk-stephen-lankton` — ستيفن لانكتون — 🕓 مسودة
-- `thk-stephen-porges` — ستيفن بورغيس — ✅ معتمد
-- `thk-stephen-talley` — ستيفن تالي — 🕓 مسودة
-- `thk-stephenburgess` — ستيفن بورغس — 🕓 مسودة
+- `thk-stephen-hawking` — ستيفن هوكينغ — ✅ معتمد
+- `thk-stephen-jay-gould` — ستيفن جاي غولد — ✅ معتمد
+- `thk-stephen-lankton` — ستيفن لانكتون — ✅ معتمد
+- `thk-stephen-porges` — ستيفن بورجِس — ✅ معتمد
+- `thk-stephen-talley` — ستيفن تالي — ✅ معتمد
+- `thk-stephenburgess` — ستيفن بورغس — ✅ معتمد
+- `thk-sternberg` — روبرت ستيرنبرغ — 🕓 مسودة
+- `thk-steven-haber` — ستيفن هابر (Steven Haber) — ✅ معتمد
 - `thk-steven-pinker` — ستيفن بينكر — ✅ معتمد
-- `thk-stevenharris-dc` — ستيفن هاريس — 🕓 مسودة
-- `thk-stig-rasmussen` — ستيغ راسموسن — 🕓 مسودة
+- `thk-stevenharris-dc` — ستيفن هاريس — ✅ معتمد
+- `thk-stig-rasmussen` — ستيغ راسموسن — ✅ معتمد
 - `thk-stirner` — ماكس شتيرنر — ✅ معتمد
 - `thk-stoics` — الرواقيون (سينيكا وإبيكتيتوس) — ✅ معتمد
 - `thk-stolorow` — روبرت ستولورو — ✅ معتمد
 - `thk-strachey` — جيمس ستراشي — ✅ معتمد
+- `thk-strato-lampsacus` — ستراتون اللامبساكي — ✅ معتمد
 - `thk-straus` — إروين شتراوس — ✅ معتمد
-- `thk-stricker` — جورج ستريكر — 🕓 مسودة
+- `thk-strawson` — بيتر ستراوسون — 🕓 مسودة
+- `thk-stricker` — جورج ستريكر — ✅ معتمد
 - `thk-strindberg` — أوغست ستريندبرغ — ✅ معتمد
 - `thk-struchhold` — هوبيرتوس شتروخهولد — ✅ معتمد
 - `thk-su-qin` — سو تشين — ✅ معتمد
 - `thk-suarez` — فرانسيسكو سواريز — ✅ معتمد
 - `thk-sudhir-kakar` — سودير كاكار — ✅ معتمد
+- `thk-suhrawardi` — شهاب الدين يحيى بن حبش السهروردي — ✅ معتمد
 - `thk-sullivan` — هاري ستاك سوليفان — ✅ معتمد
+- `thk-sun-bin` — سون بن (孫臏) — ✅ معتمد
 - `thk-sunzi` — سون تزو (سون وو) — ✅ معتمد
+- `thk-susan-anderson` — سوزان أندرسون (Susan Anderson) — ✅ معتمد
 - `thk-susan-cain` — سوزان كين — ✅ معتمد
 - `thk-susan-forward` — سوزان فوروارد — ✅ معتمد
-- `thk-susan-koch` — سوزان كوخ — 🕓 مسودة
-- `thk-susan-tynes` — سوزان تاينز — 🕓 مسودة
+- `thk-susan-koch` — سوزان كوخ — ✅ معتمد
+- `thk-susan-tynes` — سوزان تاينز — ✅ معتمد
 - `thk-sutich` — أنتوني سوتيتش — ✅ معتمد
 - `thk-suttie` — إيان سوتي — ✅ معتمد
 - `thk-suzuki` — د. ت. سوزوكي — ✅ معتمد
 - `thk-svami-akhilananda` — سوامي أخيلاناندا — ✅ معتمد
-- `thk-swieder` — سيرينا ويـدِر — ✅ معتمد
+- `thk-swieder` — سيرينا ويدِر — ✅ معتمد
 - `thk-syoung` — شِنزِن يانغ — ✅ معتمد
 - `thk-szasz` — توماس ساس — ✅ معتمد
 - `thk-tachenbach` — توماس أشنباخ — ✅ معتمد
 - `thk-tagore` — رابندراناث طاغور — ✅ معتمد
-- `thk-tahtawi` — رفاعة الطهطاوي — 🕓 مسودة
+- `thk-taha-abderrahmane` — طه عبد الرحمن — ✅ معتمد
+- `thk-tahtawi` — رفاعة الطهطاوي — ✅ معتمد
 - `thk-takanen` — كيمو تاكانن — ✅ معتمد
-- `thk-takeshiyasumaru` — تاكيشي ياسومارو — 🕓 مسودة
+- `thk-takeshiyasumaru` — تاكيشي ياسومارو — ✅ معتمد
 - `thk-tali-sharot` — تالي شاروت — ✅ معتمد
+- `thk-tanabe-hajime` — تَنَابه هاجيمي — ✅ معتمد
 - `thk-tandersen` — توم أندرسن — ✅ معتمد
 - `thk-tandreas` — تيريزا أندرِآس — ✅ معتمد
 - `thk-tantam` — ديغبي تانتام — ✅ معتمد
@@ -1774,6 +2146,7 @@
 - `thk-tarnas` — ريتشارد تارناس — ✅ معتمد
 - `thk-tatossian` — أرتور تاتوسيان — ✅ معتمد
 - `thk-tausk` — فيكتور توسك — ✅ معتمد
+- `thk-tayeb-tizini` — طيب تيزيني — ✅ معتمد
 - `thk-tbarber` — ثيودور باربر — ✅ معتمد
 - `thk-tbickmore` — تيموثي بيكمور — ✅ معتمد
 - `thk-tbollas` — كريستوفر بولاس — ✅ معتمد
@@ -1781,24 +2154,35 @@
 - `thk-tbrazelton` — تي. بيري برازيلتون — ✅ معتمد
 - `thk-tchampagne` — تينا شامبانيا — ✅ معتمد
 - `thk-tdoi` — تاكيو دوي — ✅ معتمد
-- `thk-tekanikingi` — تيكاني كينغي — 🕓 مسودة
-- `thk-teruo-ohta` — تيرو أوتا — 🕓 مسودة
+- `thk-tekanikingi` — تيكاني كينغي — ✅ معتمد
+- `thk-teruo-ohta` — تيرو أوتا — ✅ معتمد
 - `thk-tfogarty` — توماس فوغارتي — ✅ معتمد
 - `thk-tgillingham` — تيري غيلنغهام — ✅ معتمد
+- `thk-tgrandin` — تيمبل غراندين — ✅ معتمد
 - `thk-tgreening` — توماس غرينينغ — ✅ معتمد
 - `thk-tgrisso` — توماس غريسو — ✅ معتمد
+- `thk-thales` — طاليس الميليسي — ✅ معتمد
 - `thk-theinrich` — توماس هاينريش — ✅ معتمد
-- `thk-theresaglasser` — تيريزا غلاسر — 🕓 مسودة
+- `thk-theodor-adorno` — تيودور أدورنو — ✅ معتمد
+- `thk-theophrastus` — ثاوفرسطس الإريسي — ✅ معتمد
+- `thk-theresaglasser` — تيريزا غلاسر — ✅ معتمد
+- `thk-thomas-aquinas` — القديس توما الإكويني — ✅ معتمد
 - `thk-thomas-harris` — توماس أ. هاريس — ✅ معتمد
-- `thk-thomas-sells` — توماس سيلز — 🕓 مسودة
+- `thk-thomas-kuhn` — توماس صامويل كوهن — ✅ معتمد
+- `thk-thomas-more` — سير توماس مور — ✅ معتمد
+- `thk-thomas-reid` — توماس ريد — ✅ معتمد
+- `thk-thomas-sells` — توماس سيلز — ✅ معتمد
 - `thk-thomashora` — توماس هورا — ✅ معتمد
 - `thk-thompson` — مايكل غي طومسون — ✅ معتمد
 - `thk-thoreau` — هنري ديفيد ثورو — ✅ معتمد
 - `thk-thorndike` — إدوارد ثورنديك — ✅ معتمد
+- `thk-thrasymachus` — ثراسيماتخوس الخلقيدوني — ✅ معتمد
 - `thk-tillich` — بول تيليش — ✅ معتمد
 - `thk-tim-ferriss` — تيم فيريس — ✅ معتمد
-- `thk-timothyclanton` — تيموثي كلانتون — 🕓 مسودة
+- `thk-timothy-verduin` — تيموثي فيردوين (Timothy Verduin) — ✅ معتمد
+- `thk-timothyclanton` — تيموثي كلانتون — ✅ معتمد
 - `thk-tisoma` — تاكيشي إيسومه — ✅ معتمد
+- `thk-titchener` — إدوارد بردجِس تيتشنر — ✅ معتمد
 - `thk-tjames` — تاد جيمس — ✅ معتمد
 - `thk-tkellermann` — توماس كِلِرمان — ✅ معتمد
 - `thk-tkirsch` — توماس ب. كيرش — ✅ معتمد
@@ -1812,11 +2196,20 @@
 - `thk-tnhat` — تِك نات هان — ✅ معتمد
 - `thk-todes` — صموئيل توديس — ✅ معتمد
 - `thk-togden` — توماس أوغدن — ✅ معتمد
-- `thk-tom-cornwell` — توم كورنول — 🕓 مسودة
+- `thk-tom-cornwell` — توم كورنول — ✅ معتمد
+- `thk-tom-regan` — توم ريجان — ✅ معتمد
+- `thk-tomasello` — مايكل توماسيلو — 🕓 مسودة
+- `thk-tomkins` — سيلفان تومكينز — 🕓 مسودة
+- `thk-tononi` — جوليو تونوني — 🕓 مسودة
+- `thk-tony-robbins` — أنتوني (توني) روبنز — ✅ معتمد
 - `thk-tony-white` — توني وايت — ✅ معتمد
+- `thk-toru-dutt` — تورو دَت — ✅ معتمد
+- `thk-toure` — أحمد سيكوتوري توري — ✅ معتمد
 - `thk-tpichot` — تيري بيشو — ✅ معتمد
+- `thk-treisman` — آن تريزمان — 🕓 مسودة
 - `thk-trisley` — تود ر. ريسلي — ✅ معتمد
 - `thk-trobbins` — توني روبنز — ✅ معتمد
+- `thk-tronick` — إدوارد ترونيك — 🕓 مسودة
 - `thk-trore` — ماسون دوري — ✅ معتمد
 - `thk-trub` — هانس تروب — ✅ معتمد
 - `thk-trudakova` — تاتيانا روداكوفا — ✅ معتمد
@@ -1825,66 +2218,93 @@
 - `thk-tsexton` — توني سيكستون — ✅ معتمد
 - `thk-tshibuya` — تاكيشي شيبويا — ✅ معتمد
 - `thk-tsilvester` — تريفور سيلفستر — ✅ معتمد
+- `thk-tsongkhapa` — جي تسونغكابا — ✅ معتمد
 - `thk-tstone` — مارك ستون — ✅ معتمد
 - `thk-tstromsted` — تينا سترومستد — ✅ معتمد
 - `thk-ttarski` — ألفرد تارسكي — ✅ معتمد
 - `thk-tteo` — توماس تِئو — ✅ معتمد
 - `thk-ttolksdorf` — تيودور تولكسدورف — ✅ معتمد
 - `thk-ttshishiku` — تِمُوتي تشيشيكو — ✅ معتمد
+- `thk-ttu` — توي وي-مينغ (دو وي-مينغ) — ✅ معتمد
+- `thk-tulving` — إندل تولفنغ — 🕓 مسودة
 - `thk-twolff` — توني فولف — ✅ معتمد
+- `thk-twolofor` — تويين فالولا — ✅ معتمد
+- `thk-twsalisbury` — توبيوس كاسيتو (فيليبس سالزبوري أو تايو سالزبوري) — ✅ معتمد
+- `thk-udayana` — أوديانا (مؤسس الجدل الإلهي في النيايا) — ✅ معتمد
+- `thk-ukim` — ويتشول كيم — ✅ معتمد
 - `thk-ulanov` — أَنيت وَلانوف — ✅ معتمد
+- `thk-ummasvati` — أشاريا أومسفاتي — ✅ معتمد
 - `thk-unamuno` — ميغيل دي أونامونو — ✅ معتمد
 - `thk-uri-gneezy` — أوري غنيزي — ✅ معتمد
 - `thk-utelfener` — أومبيرتا تِلفِنِر — ✅ معتمد
+- `thk-vachaspati-misra` — فاتشاسباتي ميشرا (مُنَظِّم أدفايتا فيدانتا) — ✅ معتمد
+- `thk-vaihinger` — هانز فايغر — ✅ معتمد
 - `thk-valentinus` — فالنتينوس (مؤسس الفالنتينية) — ✅ معتمد
+- `thk-vallabha` — فالابهاشاريا — ✅ معتمد
 - `thk-vandenberg` — يان هندريك فان دن بيرغ — ✅ معتمد
 - `thk-vandeurzen` — إيمي فان دورزن — ✅ معتمد
 - `thk-vankaam` — أدريان فان كام — ✅ معتمد
 - `thk-varela` — فرانسيسكو فاريلا — ✅ معتمد
+- `thk-vasubandhu` — فاسوباندو — ✅ معتمد
+- `thk-vatsyayana` — فاتسيايانا النياوي — ✅ معتمد
 - `thk-vaxline` — فيرجينيا أَكسلاين — ✅ معتمد
 - `thk-vbuhrmann` — فيرا بوهرمان — ✅ معتمد
 - `thk-vburr` — فيفيَن بار — ✅ معتمد
 - `thk-vcarrera` — فابريتسيو كَريرا — ✅ معتمد
 - `thk-venriquez` — فيرجوليو إنريكيز — ✅ معتمد
+- `thk-vico` — جامباتيستا فيكو — 🕓 مسودة
 - `thk-viderman` — سيرج فيدرمان — ✅ معتمد
+- `thk-vinoba-bhave` — فينوبا بهاف («غاندي الثاني») — ✅ معتمد
 - `thk-vivekananda` — سوامي فيفيكاناندا (نيو-فيدانتا) — ✅ معتمد
 - `thk-vjohnson` — فرجينيا جونسون — ✅ معتمد
-- `thk-voltaire` — فولتير — 🕓 مسودة
+- `thk-vladimir-jankelevitch` — فلاديمير جانكليفيتش — ✅ معتمد
+- `thk-voltaire` — فولتير — ✅ معتمد
 - `thk-vonfranz` — ماري-لويز فون فرانز — ✅ معتمد
 - `thk-vramachandran` — فينسنت س. راماشاندران — ✅ معتمد
 - `thk-vsatir` — فيرجينيا ساتير — ✅ معتمد
 - `thk-vschroeter` — فينسينتيا شرودر — ✅ معتمد
-- `thk-vtausk` — فيكتور تاوسك — ✅ معتمد
-- `thk-vygotsky` — ليف فيغوتسكي — 🕓 مسودة
+- `thk-vyasatirtha` — فياساتيرثا — ✅ معتمد
+- `thk-vygotsky` — ليف فيغوتسكي — ✅ معتمد
+- `thk-wade-nobles` — وايد نوبلز — ✅ معتمد
 - `thk-wahl` — جان فال — ✅ معتمد
+- `thk-wallon` — هنري فالون — 🕓 مسودة
+- `thk-walter-benjamin` — فالتر بنيامين — ✅ معتمد
+- `thk-walter-cannon` — والتر كانون — 🕓 مسودة
 - `thk-walzer` — مايكل والزر — ✅ معتمد
 - `thk-wampold` — بروس وامبولد — ✅ معتمد
 - `thk-wang-bi` — وانغ بي — ✅ معتمد
+- `thk-wang-fuzhi` — وانغ فو تشي — ✅ معتمد
 - `thk-wang-yangming` — وانغ يانغ مينغ (وانغ شو رن) — ✅ معتمد
 - `thk-wanthony` — ويليام أنتوني — ✅ معتمد
+- `thk-warren-bennis` — وارين غ. بينيس — ✅ معتمد
+- `thk-wasil-ibn-ata` — واصل بن عطاء الغزال — ✅ معتمد
 - `thk-wass` — هانيلوره فاس — ✅ معتمد
+- `thk-watsuji-tetsuro` — واتسوجي تيتسورو — ✅ معتمد
 - `thk-wayne-dyer` — واين داير — ✅ معتمد
-- `thk-wbennett` — وين بينيت — 🕓 مسودة
+- `thk-wbennett` — وين بينيت — ✅ معتمد
 - `thk-wboechat` — فالتَر بُويْتشات — ✅ معتمد
 - `thk-wdoherty` — بيل دوهرتي — ✅ معتمد
 - `thk-wdowling` — ناعيم أكبر — ✅ معتمد
 - `thk-wdryden` — ويندي دريدن — ✅ معتمد
 - `thk-wdunn` — ويني دون — ✅ معتمد
+- `thk-web-dubois` — دبليو. إي. بي. دو بوا — ✅ معتمد
+- `thk-weber` — ماكس فيبر — ✅ معتمد
 - `thk-weil` — سيمون فايل — ✅ معتمد
 - `thk-weisstub` — إيلي وايستوب — ✅ معتمد
 - `thk-weizsacker` — فيكتور فون فايتسزيكر — ✅ معتمد
-- `thk-wells-adrian` — أدريان ويلز — 🕓 مسودة
+- `thk-wells-adrian` — أدريان ويلز — ✅ معتمد
 - `thk-werhard` — ويرنر إيرهارد — ✅ معتمد
 - `thk-werner` — هيلموت فيرنر — ✅ معتمد
 - `thk-wertz` — فريدريك فيرتز — ✅ معتمد
 - `thk-westphal` — فريدريش فستفال — ✅ معتمد
 - `thk-wexberg` — إيروين ويكسبرغ — ✅ معتمد
+- `thk-whitehead` — ألفريد نورث وايتهد — 🕓 مسودة
 - `thk-widlocher` — دانييل فيدلوشِر — ✅ معتمد
 - `thk-wikman` — مونيكا ويكمان — ✅ معتمد
 - `thk-wild` — جون دانييل وايلد — ✅ معتمد
 - `thk-wilderson` — فرانك وايلدرسون — ✅ معتمد
 - `thk-wilhelm` — رافائيل ويلهيلم — ✅ معتمد
-- `thk-william-hudson` — وليام هدسون — 🕓 مسودة
+- `thk-william-hudson` — وليام هدسون — ✅ معتمد
 - `thk-william-ockham` — وليم الأوكامي — ✅ معتمد
 - `thk-wilson` — كولن ويلسون — ✅ معتمد
 - `thk-wimmer` — فرانتس مارتن فيمر — ✅ معتمد
@@ -1910,33 +2330,49 @@
 - `thk-wsellars` — ويلفريد سيلارز — ✅ معتمد
 - `thk-wspaulding` — ويلِم سَبُولدِنغ — ✅ معتمد
 - `thk-wstekel` — فيلهلم سْتِكِل — ✅ معتمد
-- `thk-wwhite` — وليام وايت — 🕓 مسودة
+- `thk-wundt` — فيلهلم فونت — ✅ معتمد
+- `thk-wwhite` — وليام وايت — ✅ معتمد
 - `thk-wwood` — وايات وودسمول — ✅ معتمد
 - `thk-wzhang` — وي تشانغ — ✅ معتمد
+- `thk-xenocrates` — زينوقراط الخلقيدوني — ✅ معتمد
+- `thk-xiong-shili` — شيونغ شي لي — ✅ معتمد
 - `thk-xu-xing` — شو شينغ — ✅ معتمد
 - `thk-xunzi` — شون تزو (شون كوانغ) — ✅ معتمد
 - `thk-yacob` — زارا يعقوب — ✅ معتمد
 - `thk-yalom` — إيرفين يالوم — ✅ معتمد
+- `thk-yan-fu` — يان فو (مُحدِّث الصين ومُترجم الفلسفة الغربية) — ✅ معتمد
 - `thk-yang` — مارك يانغ — ✅ معتمد
+- `thk-yang-xiong` — يانغ شيونغ — ✅ معتمد
 - `thk-ydolan` — يفون دولان — ✅ معتمد
 - `thk-yhkim` — يونغ-هي كيم — ✅ معتمد
-- `thk-yihuazhu` — تشو يي-هوا — 🕓 مسودة
+- `thk-yi-hwang-toegye` — يي هوانغ (تيجاي) — ✅ معتمد
+- `thk-yi-i-yulgok` — يي إي (يولغوك) — ✅ معتمد
+- `thk-yihuazhu` — تشو يي-هوا — ✅ معتمد
 - `thk-yishin` — يوشيموتو إيشين — ✅ معتمد
 - `thk-ymohamed` — ياسين محمد — ✅ معتمد
 - `thk-ynakagami` — ياسوشي ناكاغامي — ✅ معتمد
 - `thk-yogananda` — باراماهانزا يوغاناندا — ✅ معتمد
-- `thk-yongjingqi` — يونغ جينغ تشي — 🕓 مسودة
+- `thk-yongjingqi` — يونغ جينغ تشي — ✅ معتمد
 - `thk-yotsuka` — ياسوهيرو يوتسوكا — ✅ معتمد
 - `thk-young` — سارة يونغ — ✅ معتمد
 - `thk-young-jeffrey` — جيفري يونغ — ✅ معتمد
 - `thk-ystavrakakis` — يانيس ستافراكاكيس — ✅ معتمد
-- `thk-yvaniedmon` — إيڤاني إدمون — 🕓 مسودة
+- `thk-yusuf-murad` — يوسف مراد — 🕓 مسودة
+- `thk-yvaniedmon` — إيڤاني إدمون — ✅ معتمد
+- `thk-zahavi` — دان زاهافي — 🕓 مسودة
+- `thk-zajonc` — روبرت زايونتس — 🕓 مسودة
+- `thk-zalman` — شْنُور زَلمن مِن لِادي — ✅ معتمد
 - `thk-zambrano` — ماريا ثامبرانو — ✅ معتمد
 - `thk-zapffe` — بيتر فيسيل زابفه — ✅ معتمد
 - `thk-zarathushtra` — زرادشت (زَرَتُشْتْرَة) — ✅ معتمد
+- `thk-zayour` — علي زيعور — 🕓 مسودة
 - `thk-zehr` — هوارد زير — ✅ معتمد
-- `thk-zhangyalin` — تشانغ يالين — 🕓 مسودة
-- `thk-zhangyongqiang` — تشانغ يونغ تشيانغ — 🕓 مسودة
+- `thk-zeno-citium` — زينون الرواقي (زينون الكيتيومي) — 🕓 مسودة
+- `thk-zeno-elea` — زينون الإيلي — ✅ معتمد
+- `thk-zhang-zai` — تشانغ تساي — ✅ معتمد
+- `thk-zhangyalin` — تشانغ يالين — ✅ معتمد
+- `thk-zhangyongqiang` — تشانغ يونغ تشيانغ — ✅ معتمد
+- `thk-zhou-dunyi` — تشو دون يي — ✅ معتمد
 - `thk-zhu-xi` — تشو هسي — ✅ معتمد
 - `thk-zhuangzi` — تشوانغ تزو — ✅ معتمد
 - `thk-zlipowski` — زبينيو ليبوفسكي — ✅ معتمد
@@ -1944,146 +2380,302 @@
 - `thk-zmailloux` — زوي مايو — ✅ معتمد
 - `thk-zmoreno` — زيركا مورينو — ✅ معتمد
 - `thk-zoja` — لويجي تسويا — ✅ معتمد
+- `thk-zoroaster` — زرادشت — ✅ معتمد
 - `thk-zou-yan` — زو يان — ✅ معتمد
 - `thk-zsegal` — زيندل سيغال — ✅ معتمد
 - `thk-zubiri` — خافيير ثوبيري — ✅ معتمد
+- `thk-zurayk` — قسطنطين زريق — 🕓 مسودة
 - `thk-zygmunt-bauman` — زيجمونت باومان — ✅ معتمد
 
-## مفهوم (431)
+## مفهوم (907)
 
 - `con-aba-autism` — ABA للتوحد — ✅ معتمد
+- `con-abc-model` — نموذج ABC (REBT) — ✅ معتمد
+- `con-absolute-ego-fichte` — الأنا المطلق الفاعل (The Absolute Ego) — ✅ معتمد
+- `con-absolute-nothingness-zettai-mu` — العدم المطلق الإيجابي في مدرسة كيوتو (Zettai Mu) — ✅ معتمد
+- `con-absolute-spirit-hegel` — الروح المطلق وتمظهراته (Absolute Spirit) — ✅ معتمد
 - `con-abstinence-vs-harm-reduction` — الامتناع الكامل مقابل الحد من الضرر — ✅ معتمد
 - `con-absurd` — العبث — ✅ معتمد
+- `con-absurd-and-revolt-camus` — العبث والتمرد المستمر (The Absurd and Revolt) — ✅ معتمد
+- `con-active-intellect-nous-poietikos` — العقل الفعال والمفارق (Active Intellect / Nous Poietikos) — ✅ معتمد
+- `con-actuality-and-potentiality` — القوة والفعل والصيرورة (Actuality and Potentiality) — ✅ معتمد
 - `con-actualizing-tendency` — نزعة التحقق الذاتي (Actualizing Tendency) — ✅ معتمد
-- `con-adaptation` — التكيُّف — 🕓 مسودة
+- `con-ad-hominem-fallacy` — مغالطة الشخصنة ومهاجمة القائل (Ad Hominem) — ✅ معتمد
+- `con-ad-ignorantiam-appeal-to-ignorance` — مغالطة الاحتكام إلى الجهل (Ad Ignorantiam) — ✅ معتمد
+- `con-ad-populum-bandwagon` — مغالطة الاحتكام إلى الأغلبية والجموع (Ad Populum) — ✅ معتمد
+- `con-ad-verecundiam-authority` — مغالطة الاحتكام غير المبرر للسلطة (Ad Verecundiam) — ✅ معتمد
+- `con-adaptation` — التكيُّف — ✅ معتمد
 - `con-addiction` — الإدمان والبحث الروحي المشوه — ✅ معتمد
 - `con-addiction-model-debate` — النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن — ✅ معتمد
+- `con-adhyasa-superimposition-shankara` — الإسقاط والالتباس الوهمي (Adhyasa / Superimposition) — ✅ معتمد
+- `con-aedp-emotion` — الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ — ✅ معتمد
+- `con-aedp-transformance` — الْتَحَوُّلية في AEDP: التَّحَوُّل مِن عَاطِفَة تَكَيُّفِيَّة — ✅ معتمد
+- `con-aesthetic-contemplation-schopenhauer` — التأمل الجمالي والتحرر الفني من رغبات الإرادة — ✅ معتمد
 - `con-affirmative-therapy` — العلاج التأكيدي (Affirmative Therapy) — ✅ معتمد
 - `con-agentic-state-milgram` — الحالة الوكالية والانصياع للسلطة (The Agentic State) — ✅ معتمد
 - `con-agonism` — العداوة الديمقراطية (الأغونية) — ✅ معتمد
+- `con-agonistic-pluralism-mouffe` — التعددية التنازعية والصراع الديمقراطي (Agonistic Pluralism) — ✅ معتمد
 - `con-ahimsa` — أحيمسا (مبدأ اللاإيذاء) — ✅ معتمد
+- `con-ahimsa-non-violence` — الأهيمسا واللا-عنف الشامل في الفكر الهندي (Ahimsa) — ✅ معتمد
 - `con-aida` — آيدا (البين-إنساني) — ✅ معتمد
+- `con-aip-model-emdr` — نموذج المعالجة التكيفية للمعلومات (AIP) في EMDR — ✅ معتمد
+- `con-ajativada-non-origination-gaudapada` — اللا-نشوء واللا-صيرورة في الأدفايتا (Ajativada) — ✅ معتمد
+- `con-al-insan-al-kamil-concept` — الإنسان الكامل والبرزخية الجامعة (Al-Insan al-Kamil) — ✅ معتمد
+- `con-al-yasar-al-islami-hanafi` — اليسار الإسلامي وعلم الاستغراب (حسن حنفي) — ✅ معتمد
+- `con-alam-al-jabarut-malakut-nasut` — عوالم الوجود الأربعة: الناسوت والملكوت والجبروت واللاهوت — ✅ معتمد
+- `con-alam-al-mithal-imaginal` — عالم المثال والبرزخ الروحي (Alam al-Mithal / Mundus Imaginalis) — ✅ معتمد
+- `con-alaya-vijnana-storehouse-consciousness` — الوعي المخزني وبذور الكارما (Alaya-vijnana) — ✅ معتمد
 - `con-algorithmic-bias` — التحيز الخوارزمي (Algorithmic Bias) — ✅ معتمد
 - `con-alienation` — الاغتراب — ✅ معتمد
+- `con-alienation-entfremdung-marx` — الاغتراب والعمل المستلب (Alienation / Entfremdung) — ✅ معتمد
 - `con-alienation-marx` — الاغتراب الماركسي (Entfremdung) — ✅ معتمد
 - `con-alienation-marxist-vs-existentialist` — الاغتراب — الماركسي مقابل الوجودي — ✅ معتمد
+- `con-allegory-of-the-cave` — تمثيل الكهف الأفلاطوني (Allegory of the Cave) — ✅ معتمد
 - `con-amae` — أماي (الاعتمادية الحميمية والتكامل النفسي) — ✅ معتمد
-- `con-amor-fati` — حب القدر وتقبل حتمية الحياة الوجودية (Amor Fati) — 🕓 مسودة
+- `con-amor-fati` — حب القدر وتقبل حتمية الحياة الوجودية (Amor Fati) — ✅ معتمد
+- `con-amor-fati-nietzsche` — حب القدر والرضا بالصيرورة (Amor Fati) — ✅ معتمد
 - `con-amour-propre-vs-amour-de-soi` — حب الذات الزائف مقابل حب الذات الطبيعي — ✅ معتمد
+- `con-analogia-entis-theology` — المماثلة الوجودية والتشابه المشوب بالاختلاف (Analogia Entis) — ✅ معتمد
 - `con-analysis-paralysis` — شلل التحليل والتردد المفرط (Analysis Paralysis) — ✅ معتمد
+- `con-analytic-neutrality` — الحياد التحليلي (Analytic Neutrality) — ✅ معتمد
+- `con-anamnesis-recollection` — التذكر واستذكار المعرفة (Anamnesis) — ✅ معتمد
+- `con-anatta-non-self-concept` — الأناتا ونفي الذات الثابتة في البوذية (Anatta) — ✅ معتمد
+- `con-anekantavada-non-absolutism` — الأنكانتافادا ونسبية الحقيقة وتعدد الرؤى (Anekantavada) — ✅ معتمد
+- `con-anguish-angst` — القلق الوجودي (Angst): مواجهة اللا-محدود في الذات — ✅ معتمد
+- `con-anikka-impermanence` — الأنيكا والتغير الدائم لجميع الظواهر (Anicca) — ✅ معتمد
 - `con-anima-animus` — الأنيما والأنيموس — ✅ معتمد
 - `con-annihilation-of-caste` — إبادة الطبقية (Annihilation of Caste) — ✅ معتمد
+- `con-anomalous-monism-davidson` — الأحادية الشاذة لديفيدسون (Anomalous Monism) — ✅ معتمد
 - `con-anti-oppressive-practice` — الممارسة المناهضة للقمع — ✅ معتمد
 - `con-antifragility` — ضد الهشاشة (النمو والازدهار عبر الصدمات والاضطراب) — ✅ معتمد
 - `con-anxiety` — القلق — ✅ معتمد
 - `con-anxiety-existential` — القلق (المعرفي والعصبي) — ✅ معتمد
+- `con-apeiron-boundless` — الأبيرون — اللامتناهي واللامتعين (Apeiron) — ✅ معتمد
+- `con-apoha-exclusion-buddhist-semantics` — الأبوها واستبعاد الأغيار في الدلالة البوذية (Apoha) — ✅ معتمد
+- `con-aporia-and-undecidability-derrida` — الأبوريا واستحالة الحسم التفكيكي (Undecidability) — ✅ معتمد
 - `con-applied-behavior-analysis` — تحليل السلوك التطبيقي (ABA) — ✅ معتمد
+- `con-applied-islamics-arkoun` — الإسلاميات التطبيقية ونقد العقل الديني (محمد أركون) — ✅ معتمد
+- `con-arab-historicism-laroui` — التاريخانية ونقد الوعي التقليدي (عبد الله العروي) — ✅ معتمد
+- `con-arche-principle` — الأرخيه — المبدأ والأصل الأول (Archē) — ✅ معتمد
 - `con-archetype` — الأركيتيب (النموذج الأصلي) — ✅ معتمد
-- `con-archetypes` — النماذج البدائية والأنماط الأولية للاشعور الجمعي (Archetypes) — 🕓 مسودة
+- `con-archetypes` — النماذج البدائية والأنماط الأولية للاشعور الجمعي (Archetypes) — ✅ معتمد
 - `con-as-above-so-below` — كما في الأعلى كذلك في الأسفل — ✅ معتمد
+- `con-asalat-al-wujud-primacy-of-existence` — أصالة الوجود واعتبارية الماهية (Primacy of Existence) — ✅ معتمد
+- `con-ascetic-denial-of-will` — الزهد ونفي الإرادة والشفقة الكونية (Denial of the Will) — ✅ معتمد
 - `con-asha` — أشا (الحقيقة-النظام) — ✅ معتمد
-- `con-ataraxia` — الأتاراكسيا والسكينة النفسية — 🕓 مسودة
+- `con-asha-druj` — آشا ودروج — ثنائية الحق والخداع الزرادشتية — ✅ معتمد
+- `con-ashtanga-eight-limbs-yoga` — الأطراف الثمانية لليوجا الكلاسيكية (Ashtanga Yoga) — ✅ معتمد
+- `con-ataraxia` — الأتاراكسيا والسكينة النفسية — ✅ معتمد
+- `con-ataraxia-epicurean` — الأتاراكسيا والسكينة النفسية (Ataraxia) — ✅ معتمد
 - `con-atman` — آتْمان (النفس الفردية / الذات الحقيقية) — ✅ معتمد
-- `con-atman-brahman-vedanta` — الأتمان والبراهمان ووحدة الوعي الكوني (Atman-Brahman) — 🕓 مسودة
+- `con-atman-brahman-vedanta` — الأتمان والبراهمان ووحدة الوعي الكوني (Atman-Brahman) — ✅ معتمد
+- `con-atom-void` — الذرة والفراغ المادي (Atom and Void) — ✅ معتمد
+- `con-attachment-styles` — أساليب التعلق (Attachment Styles) — ✅ معتمد
 - `con-attachment-styles-popular` — أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي) — ✅ معتمد
-- `con-attention` — الانتباه — 🕓 مسودة
+- `con-attention` — الانتباه — ✅ معتمد
 - `con-authenticity` — الأصالة — ✅ معتمد
 - `con-automatic-thought` — الأفكار التلقائية — ✅ معتمد
 - `con-autonomy-homonomy` — الاستقلالية والهومونومي — ✅ معتمد
 - `con-autonomy-kantian` — الاستقلالية (Autonomy) في الكانطية الأخلاقية — ✅ معتمد
+- `con-autonomy-of-the-will-kant` — استقلالية الإرادة والتشريع الذاتي (Autonomy of the Will) — ✅ معتمد
 - `con-aversion-therapy` — علاج النفور (تاريخي) — ✅ معتمد
+- `con-ayan-thabita-archetypes` — الأعيان الثابتة والصور العلمية الأزلية (A'yan Thabita) — ✅ معتمد
 - `con-ayurveda-psychology` — علم النفس الأيورفيدي — ✅ معتمد
 - `con-bad-faith` — سوء الإيمان — ✅ معتمد
+- `con-bad-faith-mauvaise-foi` — سوء النية والهروب من الحرية (Bad Faith / Mauvaise Foi) — ✅ معتمد
+- `con-bare-life-homo-sacer` — الحياة العارية والإنسان المستباح (Bare Life / Nuda Vita) — ✅ معتمد
 - `con-barnum-forer-effect` — تأثير بارنوم / فورير (سيكولوجيا تصديق التوصيفات الفضفاضة والأبراج) — ✅ معتمد
+- `con-base-and-superstructure` — البنية التحتية والبنية الفوقية (Base and Superstructure) — ✅ معتمد
 - `con-basho-logic` — منطق المكان (Basho) — ✅ معتمد
+- `con-basho-logic-of-place` — الباشو ومنطق المكان في مدرسة كيوتو (Basho) — ✅ معتمد
+- `con-bayan-irfan-burhan-jabri` — البيان والعرفان والبرهان في العقل العربي (الجابري) — ✅ معتمد
 - `con-behavioral-activation` — التنشيط السلوكي (مفهوم علاجي) — ✅ معتمد
 - `con-behavioral-epilepsy` — العلاج السلوكي للصرع — ✅ معتمد
+- `con-behavioral-experiment` — التجربة السلوكية (Behavioral Experiment) — ✅ معتمد
 - `con-behavioral-medicine` — الطب السلوكي والصحة السلوكية — ✅ معتمد
+- `con-being-for-itself-and-in-itself` — الوجود لذاته والوجود في ذاته (Pour-soi vs. En-soi) — ✅ معتمد
 - `con-being-toward-death` — الكينونة-نحو-الموت — ✅ معتمد
+- `con-being-towards-death` — الكينونة-نحو-الموت والأصالة الوجودية (Sein-zum-Tode) — ✅ معتمد
+- `con-best-of-all-possible-worlds` — أفضل العوالم الممكنة (Best of All Possible Worlds) — ✅ معتمد
 - `con-bian` — بيان (辯) — الجدل والتمييز — ✅ معتمد
+- `con-biopolitics-and-biopower` — السلطة الحيوية والبيوبوليتيك (Biopolitics and Biopower) — ✅ معتمد
 - `con-biosocial-dbt` — النظرية البيولوجية-الاجتماعية في DBT — ✅ معتمد
 - `con-black-consciousness` — الوعي الأسود — ✅ معتمد
 - `con-blind-will-to-life` — إرادة الحياة العمياء — ✅ معتمد
-- `con-boredom-existential` — الملل الوجودي — 🕓 مسودة
+- `con-bodhicitta` — البُوذِيتَسَّا (Bodhicitta): ذِهْن الْيَقَظَة — ✅ معتمد
+- `con-bodhicitta-compassion` — البودهيتشيتا ونية الاستنارة الشاملة (Bodhicitta) — ✅ معتمد
+- `con-body-schema` — مخطط الجسد (Body Schema): النظام اللاواعي للحركة — ✅ معتمد
+- `con-body-without-organs` — الجسد بلا أعضاء وتدفق الرغبة (Body without Organs) — ✅ معتمد
+- `con-border-thinking-mignolo` — التفكير الحدودي والمعرفة التحررية (Border Thinking) — ✅ معتمد
+- `con-boredom-existential` — الملل الوجودي — ✅ معتمد
 - `con-boundaries-psychological` — الحدود النفسية والعاطفية في العلاقات — ✅ معتمد
 - `con-brahman` — براهمان (المطلق / الحقيقة الكونية) — ✅ معتمد
+- `con-brahman-nirguna-saguna` — البراهمان الموصوف والمتجرد (Nirguna vs. Saguna Brahman) — ✅ معتمد
+- `con-buddhist-compassion-karuna` — الكَرُونَا / الرَّحْمَة البُوذِيَّة (Karunā) — ✅ معتمد
+- `con-buddhist-emptiness-shunyata` — الشُّنْيَاتَى / الفَرَاغ (Śūnyatā) — ✅ معتمد
+- `con-buen-vivir-sumak-kawsay` — العيش الكريم المتناغم (Buen Vivir / Sumak Kawsay) — ✅ معتمد
 - `con-bystander-effect` — تأثير المتفرج وتشتت المسؤولية (Bystander Effect) — ✅ معتمد
 - `con-capabilities-approach` — نهج القدرات — ✅ معتمد
+- `con-capability-approach-sen-nussbaum` — مقاربة القدرات والعدالة الإنسانية (Capability Approach) — ✅ معتمد
 - `con-care-ethics` — أخلاقيات الرعاية — ✅ معتمد
 - `con-care-for-soul` — رعاية النفس — ✅ معتمد
+- `con-care-of-the-self-foucault` — العناية بالذات وتقنيات الوجود (Care of the Self) — ✅ معتمد
 - `con-caring-mayeroff` — الرعاية (Caring) عند مايروف — ✅ معتمد
+- `con-cartesian-doubt-method` — الشك المنهجي الديكارتي (Methodic Doubt) — ✅ معتمد
 - `con-categorical-imperative` — الأمر المطلق (Categorical Imperative) — ✅ معتمد
+- `con-categorical-imperative-kant` — الأمر الأخلاقي المطلق عند كانط (Categorical Imperative) — ✅ معتمد
+- `con-categories-of-understanding-kant` — مقولات الفهم الخالص الاثنتا عشرة (Categories) — ✅ معتمد
 - `con-catharsis-integration` — التطهير الاندماجي (كاتارسيس مورينو) — ✅ معتمد
+- `con-cbt-mbt-mindfulness-3min-breathing-space` — مساحة التنفس الثلاث دقائق (MBCT) — ✅ معتمد
+- `con-cft-compassion-systems` — الأنظمة الثلاثة لتنظيم الانفعال (CFT) — ✅ معتمد
+- `con-cft-self-compassion` — التعاطف مع الذات (Self-Compassion, CFT) — ✅ معتمد
+- `con-cft-soothing-system` — نظام التهدئة والدوائر الانفعالية الثلاث في العلاج بالشفقة (CFT) — ✅ معتمد
+- `con-change-talk-darn-cat` — حديث التغيير (Change Talk) واستكشاف التناقض في المقابلة التحفيزية — ✅ معتمد
 - `con-chatbot-therapeutic-alliance` — التحالف العلاجي مع chatbot — ✅ معتمد
+- `con-chiasm-the-flesh-merleau-ponty` — الكيازما ولحمة العالم المعاش (The Chiasm / The Flesh) — ✅ معتمد
+- `con-chinese-room-argument-searle` — تجربة الغرفة الصينية ودحض الذكاء الاصطناعي القوي (Chinese Room) — ✅ معتمد
 - `con-chinese-verification-ism` — الشك المنهجي (Doubting-ism / 怀疑主义) — ✅ معتمد
+- `con-chinul-sudden-gradual` — الاستنارة المفاجئة والممارسة التدريجية لتشينول (Chinul) — ✅ معتمد
 - `con-choice-theory` — نظرية الاختيار (Choice Theory) — ✅ معتمد
 - `con-chokmah-hebrew` — حُخْمَة (الحكمة العبرية) — ✅ معتمد
 - `con-cinderella-complex` — عقدة سندريلا (الخوف الخفي من الاستقلال والاعتمادية) — ✅ معتمد
+- `con-circular-questioning` — الأسئلة الدائرية (Circular Questioning) — ✅ معتمد
 - `con-classical-conditioning` — الإشتراط الكلاسيكي (الإشراط البافلوفي) — ✅ معتمد
+- `con-clear-and-distinct-ideas` — الأفكار الواضحة والمتميزة كمعيار لليقين (Clear & Distinct Ideas) — ✅ معتمد
 - `con-cogito` — الكوجيتو: أنا أفكر إذن أنا موجود — ✅ معتمد
 - `con-cognitive-decentering` — اللامركزية المعرفية — ✅ معتمد
-- `con-cognitive-dissonance` — التنافر المعرفي — 🕓 مسودة
+- `con-cognitive-defusion` — فصل الأفكار (Cognitive Defusion) في ACT — ✅ معتمد
+- `con-cognitive-development-stages` — مراحل النمو المعرفي الأربع (Piaget) — ✅ معتمد
+- `con-cognitive-dissonance` — التنافر المعرفي — ✅ معتمد
 - `con-cognitive-distortion` — التشوهات المعرفية — ✅ معتمد
 - `con-cognitive-map` — الخريطة المعرفية — ✅ معتمد
+- `con-cognitive-restructuring` — إعادة الهيكلة المعرفية (Cognitive Restructuring) — ✅ معتمد
 - `con-coloniality` — الكولونيالية (Coloniality) — ✅ معتمد
+- `con-coloniality-of-power-concept` — استعمارية السلطة والتصنيف العرقي (Coloniality of Power) — ✅ معتمد
+- `con-coloniality-of-power-quijano` — استعمارية السلطة والمعرفة (Coloniality of Power) — ✅ معتمد
+- `con-commodity-fetishism` — صنمية السلعة والتشيؤ (Commodity Fetishism) — ✅ معتمد
+- `con-communicative-action-concept` — الفعل التواصلي والعقلانية التداولية (Communicative Action) — ✅ معتمد
 - `con-communitarian-self` — الذات المتجذرة — ✅ معتمد
+- `con-communitarian-situated-self` — الذات المتجذرة والمجتمع التاريخي (The Situated Self) — ✅ معتمد
 - `con-community-psychology` — علم النفس المجتمعي التحرري — ✅ معتمد
 - `con-complex` — العقدة النفسية المركبة (Complex) — ✅ معتمد
+- `con-complex-ptsd` — اضطراب الكرب التالي للصدمة المعقد (C-PTSD) — ✅ معتمد
+- `con-compositionality-principle-frege` — مبدأ التركيبية الدلالية لفريجه (Compositionality) — ✅ معتمد
+- `con-conatus-self-preservation` — الكوناتوس وسعي البقاء (Conatus) — ✅ معتمد
 - `con-conditions-of-worth` — شروط القبول والقيمة — ✅ معتمد
 - `con-confirmation-bias` — انحياز التأكيد (البحث الانتقائي عما يثبت المعتقد المسبق) — ✅ معتمد
+- `con-confucian-ren` — الإنسانية (Ren 仁, Confucianism) — ✅ معتمد
 - `con-confucian-self` — الذات الكونفوشيوسية — ✅ معتمد
 - `con-conscientization-paulo-freire` — الوعي النقدي (Conscientização) — ✅ معتمد
+- `con-conscious-acts` — الأفعال الواعية عند برنتانو — ✅ معتمد
+- `con-contextualism-epistemic` — السياقية الإبستمولوجية (Epistemic Contextualism) — ✅ معتمد
 - `con-conversion-therapy-harm` — ضرر العلاج بالتحويل — ✅ معتمد
 - `con-cosmopolitanism` — المواطنة الكونية (الكوزموبوليتية) — ✅ معتمد
+- `con-cosmopolitanism-world-citizen` — المواطنة العالمية والكوزموبوليتية (Cosmopolitanism) — ✅ معتمد
+- `con-counterpart-theory-lewis` — نظرية النظائر في العوالم الممكنة لديفيد لويس (Counterpart Theory) — ✅ معتمد
+- `con-creatio-ex-nihilo-theology` — الخلق من العدم المحض (Creatio Ex Nihilo) — ✅ معتمد
 - `con-creative-block` — الانسداد الإبداعي — ✅ معتمد
 - `con-critical-liberation-therapy` — العلاج النقدي-التحرري — ✅ معتمد
 - `con-cross-cultural-meditation` — التأمل العلاجي عبر-الثقافي — ✅ معتمد
 - `con-cross-cultural-psychoanalysis` — التحليل النفسي العابر للثقافات — ✅ معتمد
+- `con-cultural-capital-bourdieu` — رأس المال الثقافي والرمزي (Cultural Capital) — ✅ معتمد
 - `con-cultural-complex` — المركّب الثقافي والظلال الجمعية — ✅ معتمد
 - `con-cultural-psychoanalysis` — التحليل النفسي الثقافي — ✅ معتمد
 - `con-cultural-unconscious` — اللاوعي الثقافي — ✅ معتمد
+- `con-culture-industry-adorno` — صناعة الثقافة والتسليع الجماهيري (Culture Industry) — ✅ معتمد
+- `con-cunning-of-reason-hegel` — مكر العقل التاريخي (Cunning of Reason / List der Vernunft) — ✅ معتمد
 - `con-cyborg` — الكائن الهجين (Cyborg) — ✅ معتمد
 - `con-dao` — الداو (道) — المبدأ الكوني — ✅ معتمد
+- `con-dao-the-way-concept` — الداو — الطريق الكوني وأصل الوجود (Dao) — ✅ معتمد
+- `con-das-man-the-they` — الـ 'هم' والثرثرة الزائفة (Das Man / The They) — ✅ معتمد
 - `con-dasein-analysis` — تحليل الدازاين (Daseinsanalysis) — ✅ معتمد
+- `con-dasein-being-in-the-world` — الدازاين والوجود-في-العالم (Dasein) — ✅ معتمد
+- `con-dasein-being-there` — الدازاين (Dasein): الكائن الذي أسئلته عن وجوده — ✅ معتمد
 - `con-datsuzoku` — الانفصال عن السلطة (Datsuzoku 脱俗) — ✅ معتمد
 - `con-dbt-validation` — استراتيجيات الصلاحية (Validation) في DBT — ✅ معتمد
 - `con-death` — الموت — ✅ معتمد
 - `con-death-instinct` — غريزة الموت والدافع التدميري للتحول — ✅ معتمد
+- `con-death-of-god-nietzsche` — موت الإله وأزمة العدمية (Death of God) — ✅ معتمد
+- `con-decolonizing-pedagogy` — الْبِيدَاغُوجْيَا اللَّااسْتِعْمَارِيَّة: تَحْرِير الذَّات الْمُسْتَعْمَرَة — ✅ معتمد
+- `con-decolonizing-therapy` — العلاج اللااستعماري (Decolonizing Therapy) — ✅ معتمد
+- `con-deconstruction-logocentrism` — التفكيكية ونقد التمركز حول اللوغوس (Logocentrism) — ✅ معتمد
+- `con-deep-ecology-naess` — الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology) — ✅ معتمد
 - `con-deep-vs-shallow` — الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep) — ✅ معتمد
 - `con-deep-work` — العمل العميق (التركيز المعرفي المكثف في العصر الرقمي) — ✅ معتمد
 - `con-deliberative-democracy` — الديمقراطية التداولية — ✅ معتمد
 - `con-demirge` — الديميرجوس (صانع العالم المادي) — ✅ معتمد
 - `con-demythologization` — نزع الأسطورة — ✅ معتمد
 - `con-derived-relational-responding` — الاستجابة العلائقية المشتقة — ✅ معتمد
+- `con-deus-sive-natura` — الله أو الطبيعة (Deus Sive Natura) — ✅ معتمد
 - `con-devekut` — الديفيقوت (الالتصاق الإلهي) — ✅ معتمد
 - `con-device-paradigm` — نموذج الجهاز — ✅ معتمد
 - `con-dgap` — الجمعية الألمانية لعلم النفس التحليلي (DGAP) — ✅ معتمد
 - `con-dialectical-abstinence` — الامتناع الجدلي — ✅ معتمد
 - `con-dialectics` — الجدلية (Dialektik) — ✅ معتمد
 - `con-dichotomy-of-control` — ثنائية التحكم — ✅ معتمد
+- `con-differance-derrida` — الإرجاء والاختلاف التفكيكي (Différance) — ✅ معتمد
+- `con-difference-principle-concept` — مبدأ الاختلاف والعدالة التوزيعية (Difference Principle) — ✅ معتمد
 - `con-different-voice` — الصوت المختلف (In a Different Voice) — ✅ معتمد
+- `con-differentiation-self` — التمايز عن الذات (Differentiation of Self) — ✅ معتمد
+- `con-dionysian-vs-apollonian` — الثنائية الأبولونية والديونيزية في الفن والوجود — ✅ معتمد
 - `con-discernment-counseling` — الاستشارة التمييزية (Discernment Counseling) — ✅ معتمد
+- `con-dissociation` — الانفصال (Dissociation) — ✅ معتمد
 - `con-divine-illumination` — الإشراق الإلهي (نظرية المعرفة الأوغسطينية) — ✅ معتمد
+- `con-divine-illumination-augustine` — الإشراق الإلهي ونظرية المعرفة عند أوغسطينوس (Illumination) — ✅ معتمد
+- `con-doctrine-of-double-effect` — قاعدة الأثر المزدوج الأخلاقية (Doctrine of Double Effect) — ✅ معتمد
+- `con-doctrine-of-the-mean-zhongyong` — عقيدة الوسط والاعتدال الكوني (Zhongyong) — ✅ معتمد
+- `con-doing-mode-vs-being-mode` — نمط الفعل مقابل نمط الكينونة في العلاج المعرفي القائم على اليقظة (MBCT) — ✅ معتمد
+- `con-double-bind` — الرباط المزدوج (Double Bind) — ✅ معتمد
 - `con-dream-interpretation` — تفسير الأحلام والتضخيم الأركيتيبي — ✅ معتمد
 - `con-dreamtime` — زمن الأحلام (Dreamtime / Tjukurrpa) — ✅ معتمد
 - `con-drive-reduction` — نظرية خفض الدافع — ✅ معتمد
+- `con-dukkha-suffering` — الدكها والمعاناة الوجودية في البوذية (Dukkha) — ✅ معتمد
 - `con-dunbars-number` — رقم دانبار (الحد البيولوجي والمعرفي للشبكة الاجتماعية 150) — ✅ معتمد
 - `con-dunning-kruger-effect` — تأثير دانينغ–كروغر (وهم المعرفة وثقة غير الأكفاء) — ✅ معتمد
 - `con-dynamic-couple-family` — العلاج الديناميكي للأزواج والأسرة — ✅ معتمد
+- `con-dzogchen-great-perfection` — دزوغتشن والكمال الأقصى في التبت (Dzogchen) — ✅ معتمد
 - `con-ecology-of-freedom` — إيكولوجيا الحرية (Ecology of Freedom) — ✅ معتمد
 - `con-ecopsychoanalysis` — التحليل النفسي البيئي — ✅ معتمد
 - `con-ecstatic-moment` — اللحظة النشواتية وجماليات الأركيتيب — ✅ معتمد
+- `con-eft-couples-bond-cycle` — دورة الترابط (The Bond Cycle) في العلاج الزوجي المتمحور حول المشاعر — ✅ معتمد
+- `con-eft-couples-emotion-focused` — النَّهْج الْمُتَمَحْوَر حَوْل الْمَشَاعِر فِي EFT — ✅ معتمد
+- `con-eft-couples-stuck-points` — نِقَاط الِانْحِراف فِي EFT: تَثْبِيت 'الْمَشَاعِر الْخَاطِئَة' — ✅ معتمد
 - `con-ego-depletion` — استنزاف الأنا ونفاذ طاقة قوة الإرادة (Ego Depletion) — ✅ معتمد
 - `con-ego-self` — محور الأنا–الذات — ✅ معتمد
+- `con-eje-transversal` — الْمِحْوَر الْعَرَضِيّ (Eje Transversal): تَحْوِيل الظُّلْم مَحَوْر مُسْتَمِر — ✅ معتمد
 - `con-electra-complex` — عقدة إلكترا (النظير الأنثوي لعقدة أوديب في علم النفس التحليلي) — ✅ معتمد
+- `con-elimination-of-metaphysics` — استبعاد الميتافيزيقا ونقد اللامعنى (Elimination of Metaphysics) — ✅ معتمد
 - `con-emanation-islamic` — الفيض الإلهي (المشائية الإسلامية) — ✅ معتمد
+- `con-emanative-scheme-avicenna` — نسق الفيض العشري ونظرية الصدور (Emanation) — ✅ معتمد
+- `con-embodied-cognition` — الإدراك المتجسد (Embodied Cognition): العقل يَتمدّد في الجسد — ✅ معتمد
+- `con-embodied-perception-merleau-ponty` — الإدراك المتجسد والجسد المعاش (Embodied Perception) — ✅ معتمد
 - `con-emerald-tablet` — لوح الزمرد (Tabula Smaragdina) — ✅ معتمد
+- `con-emergence` — النشوء (Emergence): خصائص لا تُختزل في أجزائها — ✅ معتمد
+- `con-emic-etic` — الإيميتيك والإتيك (Emic vs. Etic) — ✅ معتمد
 - `con-emotional-blackmail` — الابتزاز العاطفي وثالوث الضباب (FOG: الخوف والالتزام والذنب) — ✅ معتمد
+- `con-emotional-cutoff` — القطع العاطفي (Emotional Cutoff) — ✅ معتمد
 - `con-emotional-immaturity-parents` — اللاتنضج العاطفي الوالدي والإهمال غير المرئي — ✅ معتمد
-- `con-emotional-intelligence` — الذكاء العاطفي — 🕓 مسودة
+- `con-emotional-intelligence` — الذكاء العاطفي — ✅ معتمد
+- `con-empty-chair` — تقنية الكرسي الفارغ — ✅ معتمد
 - `con-emunah` — الإيمان (إيمونا) كحالة وجودية — ✅ معتمد
+- `con-enactivism-embodied-cognition` — المعرفية الفعلية والانغراس البيئي (Enactivism) — ✅ معتمد
+- `con-endurantism-vs-perdurantism` — الدوام بالامتداد الزماني مقابل الدوام بالأجزاء الزمانية (Endurantism vs Perdurantism) — ✅ معتمد
+- `con-enmeshment-disengagement` — الانغماس والانفصال الأسري (Enmeshment & Disengagement) — ✅ معتمد
+- `con-entitlement-theory-nozick` — نظرية الاستحقاق والملكية الذاتية (Entitlement Theory) — ✅ معتمد
+- `con-epiphenomenalism-mind` — الظاهراتية الثانوية والانبثاق السلبي (Epiphenomenalism) — ✅ معتمد
+- `con-episteme-foucault` — الإبستميه ونظام الخطاب المعرفي (Episteme) — ✅ معتمد
+- `con-epistemic-injustice-fricker-concept` — الظلم الإبستمولوجي والشهادي والتأويلي (Epistemic Injustice) — ✅ معتمد
+- `con-epistemological-anarchism` — الفوضوية المعرفية ومبدأ كل شيء جائز (Epistemological Anarchism) — ✅ معتمد
+- `con-epoche-phenomenological-reduction` — الرد الفينومينولوجي وتعليق العالم الطبيعي (Reduction) — ✅ معتمد
+- `con-epoche-suspension` — الإيبوخيه وتعليق الحكم (Epoché) — ✅ معتمد
+- `con-epoché-phenomenological-reduction` — الإيبوخي (Epoché): التعليق المنهجي للحكم — ✅ معتمد
+- `con-esse-est-percipi` — الوجود هو الإدراك الحسي (Esse Est Percipi) — ✅ معتمد
+- `con-eternal-recurrence-nietzsche` — العود الأبدي للذات والحدث (Eternal Recurrence) — ✅ معتمد
 - `con-eternal-return` — العودة الأبدية (Ewige Wiederkehr) — ✅ معتمد
 - `con-ethics` — الأخلاق في التحليلية والممارسة السريرية — ✅ معتمد
+- `con-ethics-of-care-concept` — أخلاقيات الرعاية والمسؤولية العلائقية (Ethics of Care) — ✅ معتمد
+- `con-eudaimonia-wellbeing` — اليودايمونيا — السعادة والازدهار الإنساني (Eudaimonia) — ✅ معتمد
+- `con-evidence-based-practice` — الممارسة المبنية على الأدلة (Evidence-Based Practice) — ✅ معتمد
 - `con-evolutionary-psychoanalysis` — التحليل النفسي التطوري/النمائي — ✅ معتمد
 - `con-existence-existentialism` — الوجودية (Existence) في الفلسفة الوجودية — ✅ معتمد
 - `con-existential-guilt-ontological` — الذنب الأنطولوجي — ✅ معتمد
@@ -2091,187 +2683,390 @@
 - `con-existential-vacuum` — الفراغ الوجودي — ✅ معتمد
 - `con-experiential-avoidance` — التجنب التجريبي — ✅ معتمد
 - `con-experiential-focusing` — التركيز التجريبي (Experiential Focusing) — ✅ معتمد
+- `con-explanatory-gap-levine` — الفجوة التفسيرية بين المادة والشعور (Explanatory Gap) — ✅ معتمد
 - `con-exposure-habituation` — التعود بالتعرض — ✅ معتمد
+- `con-exposure-hierarchy` — الهرّم التدرّجي للتعرّض (Exposure Hierarchy) — ✅ معتمد
+- `con-expressivism-quasi-realism-blackburn` — التعبيرية والواقعية الزائفة لبلاكبيرن (Quasi-Realism) — ✅ معتمد
+- `con-extended-mind-clark-chalmers` — العقل الممتد والأجهزة المساعدة (Extended Mind) — ✅ معتمد
+- `con-externalizing-problem-reauthoring` — خارجية المشكلة وإعادة كتابة القصة البديلة في العلاج السردي — ✅ معتمد
 - `con-fa` — الفا (法) — القانون الموضوعي — ✅ معتمد
+- `con-fa-shu-shi-legalism` — الأركان الثلاثة للشرعية الصينية (Fa, Shu, Shi) — ✅ معتمد
 - `con-facilitated-communication-failure` — فشل التواصل المُسهَّل — ✅ معتمد
+- `con-facticity` — الفعلانية (Facticité): واقع المَوْجود الذي لا يُمكن تَغييره — ✅ معتمد
+- `con-fallacy-of-affirming-consequent` — مغالطة إثبات التالي الصورية (Affirming the Consequent) — ✅ معتمد
+- `con-fallacy-of-denying-antecedent` — مغالطة نفي المقدم الصورية (Denying the Antecedent) — ✅ معتمد
 - `con-false-self-vs-true-self` — الذات المزيفة مقابل الذات الحقيقية — ✅ معتمد
+- `con-falsificationism-popper` — معيار القابلية للتكذيب والحد المعرفي (Falsificationism) — ✅ معتمد
+- `con-family-projection-process` — عملية الإسقاط الأسري (Family Projection Process) — ✅ معتمد
+- `con-family-resemblance-wittgenstein` — شبه العائلة والمفاهيم المفتوحة (Family Resemblance) — ✅ معتمد
 - `con-family-sandplay` — علاج الأسر الرملية — ✅ معتمد
+- `con-family-structure` — البنية الأسرية (Family Structure) — ✅ معتمد
 - `con-fate-mohist` — نفي القدر في الموهية — ✅ معتمد
 - `con-fear` — الخوف — ✅ معتمد
 - `con-felt-sense` — الإحساس الجسدي المُحسَّس (Felt Sense) — ✅ معتمد
+- `con-felt-sense-tracking` — التتبع الحسي للإحساس المستبطن (Felt Sense) — ✅ معتمد
 - `con-feminine-principle` — المبدأ الأنثوي وتجسيد الجسد — ✅ معتمد
 - `con-feminist-psychoanalysis` — التحليل النفسي النسوي — ✅ معتمد
+- `con-fitrah-aql-maturidi` — العقل الفطري وإدراك الحسن والقبح (Fitrah & Aql) — ✅ معتمد
+- `con-fitrah-nafs-qalb-model` — نموذج الفطرة والنفس والقلب في علم النفس الإسلامي — ✅ معتمد
 - `con-five-love-languages` — لغات الحب الخمس (الأطر التعبيرية في العلاقات) — ✅ معتمد
+- `con-five-principles-mutazila` — الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism) — ✅ معتمد
 - `con-five-second-rule` — قاعدة الخمس ثوانٍ (كسر التسويف والتردد السلوكي) — ✅ معتمد
 - `con-five-stages-of-grief` — مراحل الحزن الخمس (نموذج كوبلر–روس DABDA) — ✅ معتمد
-- `con-flow-csikszentmihalyi` — التدفق (Flow) — ✅ معتمد
+- `con-floating-man-argument-avicenna` — تجربة الإنسان الطائر / المعلق في الفضاء (Floating Man Argument) — ✅ معتمد
+- `con-flow` — التدفق (Flow) — ✅ معتمد
 - `con-flow-state-popular` — حالة التدفق الذهني والاستغراق (Flow State) — ✅ معتمد
 - `con-focal-practices` — الممارسات المحورية — ✅ معتمد
 - `con-fogg-behavior-model` — نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP) — ✅ معتمد
 - `con-four-agreements` — الاتفاقيات الأربع (مصفوفة التحرر النفسي والسلام الداخلي) — ✅ معتمد
+- `con-four-causes-aristotle` — العلل الأربع الأرسطية (The Four Causes) — ✅ معتمد
 - `con-four-fundamentals-langle` — الشروط الأربعة الأساسية للتحليل الوجودي (لانغله) — ✅ معتمد
+- `con-four-noble-truths-buddha` — الحقائق النبيلة الأربع في البوذية (Four Noble Truths) — ✅ معتمد
 - `con-four-principles-ogden` — المبادئ الأربعة للوظيفة الذهنية (أوغدن) — ✅ معتمد
 - `con-framing-effect` — تأثير التأطير المعرفي واللغوي (Framing Effect) — ✅ معتمد
+- `con-free-association` — التداعي الحرّ (Free Association) — ✅ معتمد
 - `con-freedom` — الحرية — ✅ معتمد
 - `con-fully-functioning-person` — الشخصية العاملة بكامل طاقتها (Fully Functioning Person) — ✅ معتمد
 - `con-functional-contextualism` — السياقية الوظيفية — ✅ معتمد
 - `con-functionalism-mind` — الوظيفية في فلسفة العقل — ✅ معتمد
+- `con-functionalism-mind-putnam` — الوظيفية وفلسفة العقل والبرمجيات (Functionalism) — ✅ معتمد
 - `con-fundamental-attribution-error` — خطأ العزو الأساسي (عزو تصرفات الآخرين لطباعهم وتصرفاتنا للظروف) — ✅ معتمد
 - `con-fundamental-existential-motivations` — الدوافع الوجودية الأربعة الأساسية — ✅ معتمد
+- `con-fusion-horizons` — اندماج الآفاق (Horizontverschmelzung): فهم الذات عبر الآخر — ✅ معتمد
+- `con-fusion-of-horizons-gadamer` — انصهار الآفاق التأويلية (Fusion of Horizons / Horizontverschmelzung) — ✅ معتمد
 - `con-gaslighting-popular` — التلاعب بالعقول والتضليل النفسي في الثقافة الشعبية (Gaslighting) — ✅ معتمد
 - `con-gelassenheit` — التسليم (Gelassenheit) — التخلي عن الإرادة — ✅ معتمد
 - `con-gender-performativity` — أداء النوع (الجنوسة الأدائية) — ✅ معتمد
+- `con-gender-performativity-concept` — الأداء الجندري وتفكيك الهوية الطبيعية (Gender Performativity) — ✅ معتمد
+- `con-general-will-rousseau` — الإرادة العامة والسيادة الشعبية (General Will) — ✅ معتمد
+- `con-genogram` — الجنوجرام (Genogram) — شجرة العائلة العلاجية — ✅ معتمد
 - `con-gestell` — الإطار (Gestell) — ✅ معتمد
+- `con-gettier-problem` — معضلة جيتيير في تعريف المعرفة (Gettier Problem) — ✅ معتمد
 - `con-getting-things-done-gtd` — منهجية إنجاز المهام وتفريغ العقل (GTD Methodology) — ✅ معتمد
+- `con-geworfenheit-thrownness` — الرميّة والواقعية المشروطة (Geworfenheit / Thrownness) — ✅ معتمد
+- `con-gewu-investigation-of-things` — الغيوو والتحقيق في طبائع الأشياء (Gewu) — ✅ معتمد
+- `con-ghost-in-the-machine-ryle` — شبح في الآلة وخطأ المقولة الديكارتي (Ghost in the Machine) — ✅ معتمد
 - `con-gnosis` — الغنوصية (المعرفة الخلاصية) — ✅ معتمد
 - `con-god-complex` — عقدة الإله (وهم العصمة والقدرة المطلقة) — ✅ معتمد
 - `con-goddess` — أركيتيبات الإلهات والصور الداخلية — ✅ معتمد
+- `con-golden-mean-virtue` — الوسط الذهبي والاعتدال الأخلاقي (Golden Mean) — ✅ معتمد
+- `con-governmentality-foucault` — الحكومية وعقلانية الحكم (Governmentality) — ✅ معتمد
+- `con-gradational-monism-tashkik` — التشكيك الوجودي والتفاضل في الشدة (Tashkik al-Wujud) — ✅ معتمد
 - `con-grail` — أسطورة الكأس المقدسة (الغرال) — ✅ معتمد
+- `con-great-learning-daxue-steps` — التعليم الأكبر وخطوات إصلاح العالم (Daxue) — ✅ معتمد
 - `con-great-mother` — أركيتيب الأم الكبرى — ✅ معتمد
 - `con-grief` — الحزن كمسار للتفريد — ✅ معتمد
+- `con-grounding-metaphysics` — التأسيس الأنطولوجي والأسبقية الوجودية (Grounding) — ✅ معتمد
+- `con-guide-for-perplexed-hermeneutics` — التأويل البرهاني للرموز النبوية عند ابن ميمون — ✅ معتمد
 - `con-guilt` — الذنب — ✅ معتمد
+- `con-gunas-sattva-rajas-tamas` — الغونات الثلاث لطاقة الطبيعة (Sattva, Rajas, Tamas) — ✅ معتمد
 - `con-habit-strength` — قوة العادة (sHr) — ✅ معتمد
+- `con-habitus-bourdieu` — الهابيتوس والاستعدادات الطبقية المتجذرة (Habitus) — ✅ معتمد
+- `con-haecceity-thisness-scotus` — الهذّية والتشخص الفردي العيني (Haecceity / Thisness) — ✅ معتمد
 - `con-halo-horns-effect` — تأثير الهالة وتأثير القرن (انحياز التعميم الانطباعي) — ✅ معتمد
 - `con-han-korean` — هان (Han، 한) — ✅ معتمد
+- `con-haraka-jawhariyya-substantial-motion` — الحركة الجوهرية وصيرورة الطبيعة (Substantial Motion) — ✅ معتمد
+- `con-hard-problem-of-consciousness` — المشكلة الصعبة للوعي والكواليا (The Hard Problem of Consciousness) — ✅ معتمد
+- `con-harm-reduction` — الحد من الضرر (Harm Reduction) — ✅ معتمد
 - `con-hawthorne-effect` — تأثير هوثورن (تعديل السلوك الإنساني تحت وطأة الملاحظة) — ✅ معتمد
 - `con-hedonic-treadmill` — جهاز المشي اللذائذي والتكيف مع السعادة (Hedonic Treadmill) — ✅ معتمد
+- `con-hegelian-dialectic-triad` — الديالكتيك الهيغلي ورفع التناقض (Aufhebung) — ✅ معتمد
+- `con-hegemony-gramsci` — الهيمنة الثقافية والأيديولوجية (Cultural Hegemony) — ✅ معتمد
+- `con-here-and-now` — اللحظة الراهنة (Here-and-Now) — ✅ معتمد
 - `con-hermeneutic-circle` — الدائرة الهرمنيوطيقية (Hermeneutic Circle) — ✅ معتمد
+- `con-hermeneutics` — الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم — ✅ معتمد
+- `con-heterotopia-foucault` — الهيتيروتوبيا والفضاءات المغايرة (Heterotopia) — ✅ معتمد
 - `con-hezong` — الاستراتيجيات الدبلوماسية (合纵-连横) — ✅ معتمد
 - `con-highly-sensitive-person` — الشخص عالي الحساسية (حساسية المعالجة الحسية HSP) — ✅ معتمد
 - `con-hindsight-bias` — انحياز الإدراك المتأخر (وهم 'كنت أعلم ذلك طوال الوقت') — ✅ معتمد
 - `con-hindutva` — هندوتفا (الهندوسية كقومية) — ✅ معتمد
 - `con-historical-materialism` — المادية التاريخية (Historischer Materialismus) — ✅ معتمد
+- `con-historical-trauma` — الصدمة التاريخية (Historical Trauma) — ✅ معتمد
 - `con-ho-oponopono` — هو-أوبونوبونو (Ho'oponopono) — ✅ معتمد
-- `con-homeostasis` — الاستتباب — 🕓 مسودة
+- `con-homeostasis` — الاستتباب — ✅ معتمد
+- `con-humes-fork-relations-matters-of-fact` — شوكة هيوم وقسمة المعارف (Hume's Fork) — ✅ معتمد
 - `con-hwabyung-concept` — الهوابيونغ (مفهوم ثقافي) — ✅ معتمد
+- `con-hylomorphism` — الهيلومورفية — المادة والصورة عند أرسطو (Hylomorphism) — ✅ معتمد
+- `con-hylomorphism-substance` — الهيولومورفية ومركب المادة والصورة (Hylomorphism) — ✅ معتمد
 - `con-hypnotic-suggestibility` — القابلية للإيحاء التنويمي — ✅ معتمد
 - `con-hypnotic-trance` — الغشية التنويمية — ✅ معتمد
+- `con-hypothetical-syllogism` — القياس الشرطي المتصل والمنفصل (Hypothetical Syllogism) — ✅ معتمد
 - `con-iaap-history` — تاريخ وتطور الجمعية الدولية لعلم النفس التحليلي (IAAP) — ✅ معتمد
 - `con-iching` — كتاب التحوّلات (I Ching) والتزامن — ✅ معتمد
 - `con-id-psychotherapy` — العلاج النفسي للإعاقات الذهنية — ✅ معتمد
+- `con-identity-of-indiscernibles` — تطابق اللامتمايزات (Identity of Indiscernibles) — ✅ معتمد
+- `con-identity-philosophy-schelling` — فلسفة الهوية والتطابق (Identity Philosophy) — ✅ معتمد
+- `con-ideological-state-apparatuses` — الأجهزة الأيديولوجية للدولة (Ideological State Apparatuses) — ✅ معتمد
+- `con-ifs-parts-self-leadership` — نموذج الأجزاء والذات القائدة في نظام الأسرة الداخلية (IFS) — ✅ معتمد
+- `con-imago` — الإيماجو — ✅ معتمد
+- `con-imago-childhood-wound` — جرح الطفولة وصورة الشريك اللاواعية في علاج الإيماغو — ✅ معتمد
+- `con-imago-dialogue-process` — عَمَلِيَّة الْحِوَار Imago: إِعَادَة اتِّصَال عَاطِفِيّ — ✅ معتمد
+- `con-imago-fractured-self` — الذَّات الْمُتَشَظِّيَة فِي Imago: الجُزْء الَّذِي يَتَكَرَّر — ✅ معتمد
+- `con-imkan-dhati-wa-istidadi` — الإمكان الذاتي والإمكان الاستعدادي (Imkan Dhati & Isti'dadi) — ✅ معتمد
+- `con-incommensurability-kuhn` — اللا-مقايسة بين النماذج الإرشادية (Incommensurability) — ✅ معتمد
+- `con-incredulity-towards-metanarratives` — موت السرديات الكبرى والشك فيها (Incredulity towards Metanarratives) — ✅ معتمد
+- `con-indra-net-huayan` — شبكة إندرا اللانهائية في الهوايان (Indra's Net) — ✅ معتمد
 - `con-inferiority-superiority-complex` — عقدة النقص وعقدة التفوق (دينامية التعويض في علم النفس الفردي) — ✅ معتمد
 - `con-inner-child-popular` — الطفل الداخلي في علم النفس الشعبي والعلاجي — ✅ معتمد
 - `con-inner-experience` — الخبرة الباطنية القصوى — ✅ معتمد
+- `con-instrumental-reason-critique` — العقل الأداتي والهيمنة التقنية (Instrumental Reason) — ✅ معتمد
+- `con-integration-psychedelic` — التكامل النفسياني (Integration) — ✅ معتمد
+- `con-intellectual-love-of-god` — الحب العقلي لله (Amor Dei Intellectualis) — ✅ معتمد
+- `con-intentional-stance-dennett` — الموقف القصدي واستراتيجية التنبؤ لدينيت (Intentional Stance) — ✅ معتمد
 - `con-intentionality` — القصدية (Intentionalität) — ✅ معتمد
+- `con-intentionality-brentano` — القصدية (Intentionalität) عند برنتانو — ✅ معتمد
+- `con-intentionality-consciousness` — قصدية الوعي وهيكل التجربة (Intentionality) — ✅ معتمد
 - `con-interculturality` — البين-ثقافية (Interkulturalität) — ✅ معتمد
+- `con-intergenerational-historical-trauma` — الصدمة التاريخية متعددة الأجيال لدى الشعوب الأصلية — ✅ معتمد
 - `con-internal-family-systems-popular` — أنظمة الأسرة الداخلية (تعددية النفس والذات الشافية IFS) — ✅ معتمد
 - `con-international-jungian` — عولمة التحليلية والمؤسسات الدولية — ✅ معتمد
 - `con-interpersonal-unconscious` — اللاوعي بين الأشخاص — ✅ معتمد
 - `con-intersectional-feminism` — علم النفس النسوي التقاطعي — ✅ معتمد
 - `con-intersectionality` — التقاطعية — ✅ معتمد
 - `con-intersubjectivity` — البين-ذاتية (Intersubjectivity) — ✅ معتمد
+- `con-ipseity` — الذاتية (Ipseity): الهوية كذات فاعلة عبر الزمن — ✅ معتمد
+- `con-ipt-focus` — التركيز على المشكلات الشخصية (IPT) — ✅ معتمد
+- `con-ipt-problem-areas` — المشاكل الأربعة في العلاج بين الأشخاص (IPT): الفجيعة، الخلافات الأدائية، التحولات الأدائية، والعجز الأدائي — ✅ معتمد
 - `con-ironic-process-theory` — نظرية المعالجة الارتدادية (تأثير الدب الأبيض وقمع الأفكار) — ✅ معتمد
+- `con-is-ought-problem-guillotine` — مغالطة الانتقال من الوجود إلى الواجب (Is-Ought Problem / Hume's Guillotine) — ✅ معتمد
 - `con-isfet` — إسفت (الفوضى / اللا-تناغم) — ✅ معتمد
 - `con-isolation` — العزلة — ✅ معتمد
+- `con-istdp-key-techniques` — التقنيات الأساسية في ISTDP: تحدّي الدفاع، تحمّل القلق، تحليل الأنا الأعلى، والتخلّل العلاجي — ✅ معتمد
+- `con-istdp-unlocking` — فتح اللاوعي (Unlocking the Unconscious, ISTDP) — ✅ معتمد
+- `con-ittihad-aqil-wa-maqul` — اتحاد العاقل والمعقول في الإدراك (Ittihad al-Aqil wal-Maqul) — ✅ معتمد
+- `con-jawhar-fard-atomic-monad` — الجوهر الفرد والجزء الذي لا يتجزأ (Atomism in Kalam) — ✅ معتمد
 - `con-jealousy-envy` — الغيرة والحسد — ✅ معتمد
 - `con-jeong-korean` — جونغ (Jeong، 정) — ✅ معتمد
+- `con-jian-ai-universal-love` — الجيان آي والمحبة الشاملة والمنافع المتبادلة (Jian Ai) — ✅ معتمد
 - `con-jianai` — جيان آي (兼愛) — الإحسان الشامل — ✅ معتمد
+- `con-jivanmukti-living-liberation` — التحرر الروحي أثناء الحياة (Jivanmukti) — ✅ معتمد
+- `con-joining` — الانضمام العلاجي (Joining) — ✅ معتمد
 - `con-jonah-complex` — عقدة يونان (الخوف من العظمة والهروب من أقصى الإمكانات) — ✅ معتمد
 - `con-jouissance` — اللذّة (Jouissance) — ✅ معتمد
 - `con-journal-method` — منهج اليوميات المكثف — ✅ معتمد
+- `con-junzi-exemplary-person` — الجونزي — الإنسان النبيل والقدوة الأخلاقية (Junzi) — ✅ معتمد
+- `con-just-war-theory-jus-ad-bellum` — نظرية الحرب العادلة وضوابط النزاع (Just War Theory) — ✅ معتمد
+- `con-karma-and-samsara` — الكارما والسامسارا ودولاب التناسخ (Karma & Samsara) — ✅ معتمد
 - `con-karma-philosophy` — كارما (الفعل وعواقبه) — ✅ معتمد
+- `con-kasb-acquisition-ashari` — نظرية الكسب والمسؤولية الأخلاقية (Kasb) — ✅ معتمد
 - `con-kaupapa-maori` — كاوبابا ماوري (Kaupapa Māori) — ✅ معتمد
+- `con-khayal-creative-imagination` — الخيال الخلاق والبرزخية الكونية (Creative Imagination) — ✅ معتمد
+- `con-kingdom-of-ends-kant` — مملكة الغايات الأخلاقية (Kingdom of Ends) — ✅ معتمد
+- `con-knight-of-faith-vs-infinite-resignation` — فارس الإيمان وفارس الاستسلام اللانهائي (Knight of Faith) — ✅ معتمد
+- `con-knowledge-argument-jackson` — حجة المعرفة وتجربة ماري عالمة الألوان (Knowledge Argument) — ✅ معتمد
+- `con-knowledge-by-presence-ilm-huduri` — العلم الحضوري والشهود الذاتي (Knowledge by Presence) — ✅ معتمد
+- `con-koan-meditative-riddle` — الكوان والألغاز التأملية في الرينزاي زن (Koan) — ✅ معتمد
+- `con-kshanikavada-universal-momentariness` — اللحظية والزوال الفوري للكائنات (Kshanikavada) — ✅ معتمد
 - `con-lady-macbeth-effect` — تأثير الليدي ماكبث والتطهر الجسدي من الذنب الأخلاقي — ✅ معتمد
+- `con-land-based-healing` — الشفاء القائم على الأرض (Land-Based Healing) — ✅ معتمد
 - `con-land-ethic` — أخلاق الأرض (Land Ethic) — ✅ معتمد
+- `con-language-games-late-wittgenstein` — ألعاب اللغة وسياقات الحياة (Language-Games / Sprachspiele) — ✅ معتمد
+- `con-language-of-thought-mentalese` — لغة الفكر والمنتاليز لجيري فودور (Language of Thought) — ✅ معتمد
 - `con-latent-learning` — التعلم الكامن — ✅ معتمد
 - `con-law-of-attraction-popular` — قانون الجذب (الشبيه يجذب شبيهه في علم النفس الشعبي) — ✅ معتمد
 - `con-law-of-effect` — قانون الأثر — ✅ معتمد
+- `con-leap-of-faith-kierkegaard` — الوثبة الإيمانية المطلقة (Leap of Faith) — ✅ معتمد
+- `con-learned-helplessness` — العجز المتعلم (Learned Helplessness) — ✅ معتمد
 - `con-li` — اللي (禮) — الطقس والأدب — ✅ معتمد
+- `con-li-principle-neoconfucian` — اللي — المبدأ والنظام العقلاني في النيوكونفوشية (Li) — ✅ معتمد
 - `con-liangzhi` — الحدس الأخلاقي (良知 liángzhī) — ✅ معتمد
+- `con-liangzhi-innate-knowing` — الليانغ تشي والضمير الفطري الأصيل (Liangzhi) — ✅ معتمد
+- `con-lifeworld` — عالم الحياة (Lebenswelt): العالم المعيش قبل الموضوعي — ✅ معتمد
+- `con-lifeworld-lebenswelt` — عالم الحياة المعاش (Lebenswelt) — ✅ معتمد
+- `con-lines-of-flight-deleuze` — خطوط الهروب والتحرر المفاهيمي (Lines of Flight) — ✅ معتمد
 - `con-lived-body` — الجسد المعيش (Leib vs. Körper) — ✅ معتمد
+- `con-logical-atomism-concept` — الذرية المنطقية وتطابق اللغة والواقع (Logical Atomism) — ✅ معتمد
+- `con-logos-heraclitus` — اللوغوس الكوني عند هيراقليطس (Heraclitean Logos) — ✅ معتمد
 - `con-logos-philo` — اللوغوس (الكلمة الإلهية) عند فيلو — ✅ معتمد
-- `con-loneliness-solitude` — الوحدة القسرية مقابل العزلة الاختيارية — 🕓 مسودة
+- `con-lokayata-materialism-pratyaksha` — المادية اللوكاياتية والإدراك الحسي وحده (Lokayata) — ✅ معتمد
+- `con-loneliness-solitude` — الوحدة القسرية مقابل العزلة الاختيارية — ✅ معتمد
 - `con-loss-aversion` — كراهية الخسارة وتفضيل تجنب الألم على كسب المكاسب — ✅ معتمد
 - `con-loss-natural-evidence` — فقدان البداهة الطبيعية — ✅ معتمد
 - `con-lucifer-effect` — تأثير لوسيفر وسيكولوجيا الشر المؤسسي (The Lucifer Effect) — ✅ معتمد
 - `con-maat` — ماعت (التناغم الكوني) — ✅ معتمد
+- `con-maat-ethics` — ماعت — النظام الأخلاقي والكوني (Ma'at) — ✅ معتمد
 - `con-madonna-whore-complex` — عقدة مادونا–العاهرة (انشطار الرغبة والاحترام في العلاقات) — ✅ معتمد
+- `con-mafhum-wa-misdaq` — المفهوم والمصداق في المنطق الإسلامي (Concept vs. Extension) — ✅ معتمد
 - `con-makoto-naka-ima` — ماكوتو / ناكا-إيما — ✅ معتمد
+- `con-maladaptive-emotion` — الانفعالات المُحوَّلة / غير التكيفية (Maladaptive Emotions) — ✅ معتمد
+- `con-mandate-of-heaven-legitimacy` — تفويض السماء والشرعية الأخلاقية للحكم (Tianming) — ✅ معتمد
+- `con-mandate-of-heaven-tianming` — تفويض السماء والشرعية السياسية (Tianming) — ✅ معتمد
 - `con-marsha-acceptance-change` — جدلية القبول والتغيير في العلاج الزوجي — ✅ معتمد
 - `con-martyr-complex` — عقدة الشهيد والضحية المزمنة (استثمار المعاناة لفرض السيطرة) — ✅ معتمد
+- `con-master-slave-dialectic-hegel` — جدلية السيد والعبد وصراع الاعتراف (Master-Slave Dialectic) — ✅ معتمد
+- `con-master-slave-morality-nietzsche` — أخلاق السادة وأخلاق العبيد (Master-Slave Morality) — ✅ معتمد
 - `con-matching-law` — قانون التطابق — ✅ معتمد
+- `con-maya-cosmic-illusion` — المايا والوهم الكوني في الفيدانتا (Maya) — ✅ معتمد
 - `con-maya-vedanta` — مايا (الوهم الفلسفي / الظهور الكوني) — ✅ معتمد
+- `con-mdma-ptsd` — MDMA (إكستاسي) في علاج PTSD — ✅ معتمد
 - `con-meaning` — المعنى واللامعنى — ✅ معتمد
 - `con-melammu` — ميلمو (البهاء الإلهي) — ✅ معتمد
-- `con-memory` — الذاكرة — 🕓 مسودة
+- `con-memory` — الذاكرة — ✅ معتمد
 - `con-mentalization` — الانعكاس الذهني (Mentalization) — ✅ معتمد
 - `con-mere-exposure-effect` — تأثير التعرض المحض (الألفة والانجذاب عبر التكرار) — ✅ معتمد
+- `con-mereology-parts-and-wholes` — الميريولوجيا وفلسفة الأجزاء والكل (Mereology) — ✅ معتمد
+- `con-metatherapeutic-processing-aedp` — معالجة ما وراء التجربة التحويلية وحالة اللب في AEDP — ✅ معتمد
 - `con-midlife` — أزمة منتصف العمر والمرور الأوسط — ✅ معتمد
-- `con-mind-body` — مشكلة العقل والجسد — 🕓 مسودة
+- `con-mind-body` — مشكلة العقل والجسد — ✅ معتمد
 - `con-mindfulness` — اليقظة الذهنية (Mindfulness) — ✅ معتمد
 - `con-misinformation-effect-loftus` — تأثير التضليل وقابلية الذاكرة للتعديل (Misinformation Effect) — ✅ معتمد
+- `con-modal-realism-david-lewis` — الواقعية المشروطة للعوالم الممكنة (Modal Realism) — ✅ معتمد
 - `con-modeling` — النمذجة (التعلم بالملاحظة) — ✅ معتمد
 - `con-modern-conflict` — نظرية الصراع الحديث (Modern Conflict Theory) — ✅ معتمد
+- `con-modus-ponens-tollens` — القياس الشرطي الاستثنائي (Modus Ponens & Tollens) — ✅ معتمد
 - `con-moi-peau` — الأنا-جلد (Moi-Peau) — ✅ معتمد
+- `con-moksha-liberation` — الموكشا والتحرر الروحي النهائي (Moksha) — ✅ معتمد
 - `con-monad` — المونادات (Monades) — ✅ معتمد
+- `con-monad-simple-substance` — الموناد والجوهر الروحي البسيط (Monad) — ✅ معتمد
+- `con-mono-no-aware-pathos` — المونو نو أواري وشجن الأشياء العابرة (Mono no aware) — ✅ معتمد
+- `con-moral-error-theory-mackie` — نظرية الخطأ الأخلاقي لجون ماكي (Moral Error Theory) — ✅ معتمد
+- `con-moral-luck-nagel-williams` — الحظ الأخلاقي والمسؤولية الإنسانية (Moral Luck) — ✅ معتمد
+- `con-moral-particularism-dancy` — التفصيلية والجزئية الأخلاقية (Moral Particularism) — ✅ معتمد
+- `con-motivational-interviewing-oars` — تقنية OARS في المقابلة التحفيزية — ✅ معتمد
 - `con-motivational-spirit` — روح المقابلة التحفيزية (MI Spirit) — ✅ معتمد
+- `con-multigenerational-transmission` — النقل متعدد الأجيال (Multigenerational Transmission Process) — ✅ معتمد
+- `con-multiple-realizability-mind` — قابلية التحقق المتعدد للحالات العقلية (Multiple Realizability) — ✅ معتمد
 - `con-mutual-empathy` — التمكين والتعاطف المتبادل (Mutual Empathy) — ✅ معتمد
 - `con-myth-of-given` — خرافة المعطيات (Myth of the Given) — ✅ معتمد
+- `con-nafs-natiqa-rational-soul` — النفس الناطقة وتجردها العقلي (Rational Soul) — ✅ معتمد
 - `con-name-of-father` — اسم الأب (Nom-du-Père) — ✅ معتمد
+- `con-narrative-identity` — الهوية السردية (Narrative Identity): أنا كقصة أرويها عن نفسي — ✅ معتمد
+- `con-narrative-identity-ricoeur` — الهوية السردية والذات كآخر (Narrative Identity) — ✅ معتمد
 - `con-natural-law` — القانون الطبيعي — ✅ معتمد
+- `con-natural-law-aquinas-concept` — القانون الطبيعي والمشاركة العقلية في الحكمة الأزلية (Natural Law) — ✅ معتمد
+- `con-natural-rights-locke` — الحقوق الطبيعية الأصيلة للإنسان (Natural Rights) — ✅ معتمد
+- `con-nature-deficit` — متلازمة عجز الطبيعة — ✅ معتمد
+- `con-necropolitics-concept` — السياسة النكرو-سياسية وإدارة الموت (Necropolitics) — ✅ معتمد
 - `con-negative-attributes` — الصفات السلبية (Via Negativa) — ✅ معتمد
+- `con-negative-interaction-cycle-attachment` — الدورة التفاعلية السلبية وإصابات التعلق في علاج الأزواج (EFCT) — ✅ معتمد
+- `con-negative-liberty-berlin` — الحرية السلبية وغياب القيود القسرية (Negative Liberty) — ✅ معتمد
+- `con-negative-theology-via-negativa` — اللاهوت السلبي والتنزيه المطلق (Apophatic Theology / Via Negativa) — ✅ معتمد
 - `con-neidan` — التاوية الداخلية (内丹 nèidān) — ✅ معتمد
 - `con-neo-freudian` — الفرويدية الجديدة (Neo-Freudian) — ✅ معتمد
+- `con-neuroception-polyvagal` — النيوروسبشن (Neuroception) والحالات العصبية المبهمية — ✅ معتمد
+- `con-neuroception-safety-detection` — الإدراك العصبي اللاواعي للأمان (Neuroception of Safety) — ✅ معتمد
 - `con-neurodiversity-affirming` — الإرشاد المؤيد للتنوع العصبي — ✅ معتمد
+- `con-neurofeedback` — التغذية الراجعة العصبية (Neurofeedback) — ✅ معتمد
+- `con-neuroplasticity` — اللدونة العصبية (Neuroplasticity) — ✅ معتمد
+- `con-neuroplasticity-trauma` — المرونة العصبية في سياق الصدمة — ✅ معتمد
 - `con-neuropsychoanalysis` — التحليل النفسي العصبي (Neuropsychoanalysis) — ✅ معتمد
 - `con-neurosis-historical-framework` — العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية — ✅ معتمد
 - `con-new-democracy` — الديمقراطية الجديدة (New Democracy) — ✅ معتمد
+- `con-nirvana-extinction` — النيرفانا والانطفاء والتحرر البوذي (Nirvana) — ✅ معتمد
 - `con-no-miracle-argument` — حجة المعجزة (No-Miracle Argument) — ✅ معتمد
+- `con-noble-savage-rousseau` — الإنسان الفطري النبيل (Noble Savage) — ✅ معتمد
+- `con-noema-and-noesis-husserl` — النوئيما والنوئيزيس في الوعي (Noema & Noesis) — ✅ معتمد
+- `con-nominalism-universals-concept` — الاسمية وإنكار الوجود الواقعي للكليات (Nominalism) — ✅ معتمد
 - `con-nonviolent-communication` — التواصل غير العنيف (لغة التعاطف وفض النزاعات NVC) — ✅ معتمد
+- `con-noumena-and-phenomena` — الظاهرة والشيء في ذاته (Phenomena vs. Noumena) — ✅ معتمد
+- `con-nur-al-anwar-light-of-lights` — نور الأنوار والمبدأ الإشراقي الأول (Nur al-Anwar) — ✅ معتمد
 - `con-objet-petit-a` — موضوع الرغبة الصغير a (objet petit a) — ✅ معتمد
 - `con-observing-ego` — الأنا المراقِبة في التحليلية — ✅ معتمد
 - `con-occasionalism-ashari` — العناية الإلهية (العرضية عند الأشعري) — ✅ معتمد
+- `con-occasionalism-kalam-atomic` — العرضية الذرية ونفي السببية الذاتية في الكلام (Occasionalism) — ✅ معتمد
+- `con-occasionalism-malebranche-concept` — الأوكازيونية ورؤية الأشياء في الله (Vision in God) — ✅ معتمد
+- `con-ockhams-razor` — شفرة أوكام — مبدأ الاقتصاد المعرفي (Ockham's Razor) — ✅ معتمد
+- `con-ockhams-razor-parsimony` — شفرة أوكام والاقتصاد الأنطولوجي (Lex Parsimoniae) — ✅ معتمد
 - `con-oedipus-complex` — عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي) — ✅ معتمد
+- `con-omoluabi-yoruba-ethics` — الأومولوابي والإنسان الفاضل في أخلاق اليوروبا (Omoluabi) — ✅ معتمد
+- `con-one-mind-two-aspects-wonhyo` — العقل الواحد وباباه في فلسفة ونهيو الكورية (Wonhyo) — ✅ معتمد
+- `con-ontological-argument-anselm` — البرهان الأنطولوجي لوجود الله (Ontological Argument) — ✅ معتمد
 - `con-operant-conditioning` — الإشتراط الإجرائي (الإشراط السكينري) — ✅ معتمد
-- `con-optimism` — التفاؤل — 🕓 مسودة
+- `con-optimism` — التفاؤل — ✅ معتمد
 - `con-optimism-bias-concept` — انحياز التفاؤل الفطري للدماغ (The Optimism Bias) — ✅ معتمد
 - `con-orientalism` — الاستشراق (Orientalism) — ✅ معتمد
+- `con-original-position-veil-of-ignorance` — الوضع الأصلي وحجاب الجهل (Original Position & Veil of Ignorance) — ✅ معتمد
 - `con-overcontrol` — الضبط المفرط (Overcontrol) — ✅ معتمد
+- `con-overlapping-consensus-rawls` — الإجماع التقاطعي والتعددية المعقولة (Overlapping Consensus) — ✅ معتمد
+- `con-panopticism-surveillance-society` — المراقبة البانوبتيكية والضبط المجتمعي (Panopticism) — ✅ معتمد
+- `con-panopticon-surveillance` — البانوبتيكون ومجتمع المراقبة (The Panopticon) — ✅ معتمد
+- `con-panpsychism-consciousness` — العمومية النفسية وحيوية المادة (Panpsychism) — ✅ معتمد
 - `con-para-existential` — الوجود البارونيكي / الجمالي — ✅ معتمد
+- `con-paradigm-shift-kuhn` — الانزياح البارادايمي والثورات العلمية (Paradigm Shift) — ✅ معتمد
 - `con-paradox-of-choice` — مفارقة الاختيار وشلل القرار (Paradox of Choice) — ✅ معتمد
+- `con-paradoxical-intervention` — التدخل المتناقض (Paradoxical Intervention) — ✅ معتمد
 - `con-parallelism-philosophy` — التّوازيات الفلسفية (Philosophical Parallelism) — ✅ معتمد
 - `con-parapsychology` — ما وراء علم النفس والظواهر الخارقة — ✅ معتمد
 - `con-parkinsons-law` — قانون باركنسون (تمدد العمل ليملأ كامل الوقت المتاح) — ✅ معتمد
+- `con-parrhesia-fearless-speech` — القول الصريح والشجاعة الحوارية (Parrhesia) — ✅ معتمد
 - `con-past-life-regression` — استرجاع ذكريات الحياة السابقة — ✅ معتمد
+- `con-pastoral-power-foucault` — السلطة الرعوية وتوجيه الضمائر (Pastoral Power) — ✅ معتمد
 - `con-patriarchy` — النظام الأبوي (البطريركية) — ✅ معتمد
 - `con-peak-experience` — خبرة الذروة (Peak Experience) — ✅ معتمد
+- `con-peak-experience-maslow` — خبرة الذروة عند ماسلو (Maslow's Peak Experience — مفصَّل) — ✅ معتمد
+- `con-perspectivism-nietzsche` — المنظورية المعرفية (Perspectivism) — ✅ معتمد
 - `con-peter-pan-complex` — عقدة / متلازمة بيتر بان (عدم النضج والهروب من المسؤولية) — ✅ معتمد
-- `con-pleasure` — اللذة — 🕓 مسودة
+- `con-petitio-principii-begging-question` — المصادرة على المطلوب (Petitio Principii) — ✅ معتمد
+- `con-phallogocentrism-derrida` — التمركز القضيبي-اللوغوسي (Phallogocentrism) — ✅ معتمد
+- `con-phenomenology` — الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى — ✅ معتمد
+- `con-philosopher-king-ideal` — الملك الفيلسوف والحاكم الحكيم (Philosopher King) — ✅ معتمد
+- `con-piaget-schema` — المخطط (Schema) عند بياجيه — ✅ معتمد
+- `con-picture-theory-of-language` — النظرية التصويرية للغة في التراكتاتوس (Picture Theory) — ✅ معتمد
+- `con-pleasure` — اللذة — ✅ معتمد
+- `con-pluriverse-decolonial` — التعددية الكونية وعالم تتسع فيه عوالم كثيرة (Pluriverse) — ✅ معتمد
 - `con-political-liberalism` — الإجماع المتداخل — ✅ معتمد
 - `con-political-psyche` — النفس السياسية والنفس التعددية — ✅ معتمد
 - `con-political-psychoanalysis` — التحليل النفسي السياسي — ✅ معتمد
+- `con-polyvagal-states` — حالات الجهاز العصبي المتعدّد (Polyvagal States) — ✅ معتمد
+- `con-polyvagal-theory` — النظرية العصبية المبهمية المتعددة (Polyvagal Theory) — ✅ معتمد
 - `con-polyvagal-theory-popular` — السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder) — ✅ معتمد
 - `con-positive-existentialism` — الوجودية الإيجابية — ✅ معتمد
+- `con-positive-liberty-berlin` — الحرية الإيجابية وتحقيق الذات والسيادة (Positive Liberty) — ✅ معتمد
+- `con-possible-worlds-semantics-kripke` — دلالات العوالم الممكنة والمنطق الموجه (Possible Worlds) — ✅ معتمد
 - `con-post-christian` — اللاوعي ما بعد المسيحي — ✅ معتمد
+- `con-post-hoc-ergo-propter-hoc` — مغالطة الاقتران الزمني والسببية الزائفة (Post Hoc) — ✅ معتمد
 - `con-postcolonial-psychoanalysis` — التحليل النفسي بعد الكولونيالي — ✅ معتمد
+- `con-pragmatic-encroachment` — التداخل البراغماتي في المعرفة (Pragmatic Encroachment) — ✅ معتمد
 - `con-prakriti` — پرَكْرِتِي (الطبيعة / الجوهر المادي الأول) — ✅ معتمد
+- `con-pramana-epistemic-sources` — البرامانا ووسائل المعرفة الصادقة في الفلسفة الهندية (Pramana) — ✅ معتمد
 - `con-pratfall-effect` — تأثير الهفوة / السقوط الرشيق (الجاذبية الإنسانية لارتكاب الأخطاء) — ✅ معتمد
+- `con-pratityasamutpada-dependent-origination` — النشوء بالاعتماد المشروط (Pratityasamutpada) — ✅ معتمد
+- `con-praxis` — البراكسيس (Praxis): الفعل المتأمل الذي يَغيّر العالم — ✅ معتمد
+- `con-pre-established-harmony` — التناغم المسبق (Pre-established Harmony) — ✅ معتمد
 - `con-pre-performance-routine` — الطقوس السابقة للأداء — ✅ معتمد
 - `con-primal-pain` — الألم البدائي — ✅ معتمد
+- `con-primary-adaptive-maladaptive-emotions` — الانفعالات الأولية والثانوية في العلاج الموجه بالانفعال (EFT) — ✅ معتمد
+- `con-primary-and-secondary-qualities` — الصفات الأولية والثانوية للأشياء (Primary vs. Secondary Qualities) — ✅ معتمد
+- `con-primary-emotion` — الانفعالات الأولية (Adaptive / Primary Emotions) — ✅ معتمد
 - `con-primary-self` — الذات الأولية والتفكك التكاملي — ✅ معتمد
+- `con-principle-of-charity-davidson` — مبدأ الإحسان التأويلي لديفيدسون (Principle of Charity) — ✅ معتمد
+- `con-private-language-argument` — استحالة اللغة الخاصة الباطنية (Private Language Argument) — ✅ معتمد
+- `con-problem-of-induction` — مشكلة الاستقراء عند هيوم (Hume's Problem of Induction) — ✅ معتمد
 - `con-process-constructivism` — النظرية البنائية للعملية (Process Constructivism) — ✅ معتمد
 - `con-prophetic-philosophy` — الفلسفة النبوية (نقد العقل الفلسفي لصالح الوحي) — ✅ معتمد
 - `con-prt-pivotal-response` — علاج المحاور (PRT) — ✅ معتمد
+- `con-psilocybin` — السيلوسيبين في العلاج النفسي — ✅ معتمد
+- `con-psilocybin-depression` — الْعِلَاج بِالسِّلِيكُوبِين لِلاِكْتِئَاب — ✅ معتمد
 - `con-psychache` — الألم النفسي الوجودي غير المحتمل — ✅ معتمد
+- `con-psychedelic-experience` — التجربة السيكوديلية — ✅ معتمد
 - `con-psychiatric-reform` — الإصلاح النفسي الإنساني — ✅ معتمد
 - `con-psychoeducation` — التثقيف النفسي (Psychoeducation) — ✅ معتمد
 - `con-psychological-type` — الأنماط النفسية والوظائف المعرفية — ✅ معتمد
+- `con-psychophysics-fechner` — علم النفس الفيزيائي (Psychophysics) — ✅ معتمد
 - `con-psychotherapy-process` — العملية العلاجية والتعاون الوجودي — ✅ معتمد
+- `con-public-sphere-offentlichkeit` — الفضاء العام الديمقراطي (Public Sphere / Öffentlichkeit) — ✅ معتمد
 - `con-pure-experience-nishida` — التجربة الخالصة (Pure Experience) — ✅ معتمد
 - `con-purusha` — پورُشَا (الوعي / الروح المفارقة) — ✅ معتمد
+- `con-purusha-prakriti-dualism` — ثنائية البوروشا والبراكريتي في السامخيا (Purusha & Prakriti) — ✅ معتمد
 - `con-pygmalion-golem-effect` — تأثير بيغماليون وتأثير غوليم (النبوءة المحققة لذاتها للتوقعات) — ✅ معتمد
+- `con-qi-vital-energy` — التشي — الطاقة الحيوية والمادة السارية (Qi) — ✅ معتمد
+- `con-qualia` — الكواليا (Qualia): الكيف المتعالي للتجربة — ✅ معتمد
+- `con-qualia-subjective-experience` — الكواليا والصفات الكيفية للخبرة (Qualia) — ✅ معتمد
 - `con-quality-world` — العالم النوعي (Quality World) — ✅ معتمد
 - `con-queer-psychoanalysis` — التحليل النفسي الكويري — ✅ معتمد
 - `con-queer-theory` — النظرية الكويرية — ✅ معتمد
+- `con-quinque-viae-five-ways` — الطرق الخمس لإثبات وجود الله لتوما الإكويني (Quinque Viae) — ✅ معتمد
 - `con-race-culturally-aware-therapy` — العلاج المراعي للعرق والثقافة — ✅ معتمد
 - `con-radical-healing` — الشفاء الجذري — ✅ معتمد
 - `con-rat-park` — تجربة Rat Park — ✅ معتمد
 - `con-real-symbolic-imaginary` — الثلاثي الحقيقي-الرمزي-المتخيل (RSI) — ✅ معتمد
 - `con-reciprocal-inhibition` — التثبيط المتبادل — ✅ معتمد
 - `con-recognition-struggle` — الاعتراف (النضال من أجله) — ✅ معتمد
+- `con-recognition-theory-honneth` — الاعتراف والصراع من أجل الكرامة (Recognition Theory) — ✅ معتمد
 - `con-recovered-memory-controversy` — الجدل حول الذاكرة المُستعادة — ✅ معتمد
 - `con-recovery-model` — نموذج التعافي (Recovery) — ✅ معتمد
-- `con-reductionism` — الاختزالية — 🕓 مسودة
+- `con-rectification-of-names-zhengming` — تصحيح الأسماء والدلالات في السياسة والأخلاق (Zhengming) — ✅ معتمد
+- `con-reductionism` — الاختزالية — ✅ معتمد
 - `con-reinforcement-schedule` — جداول التعزيز — ✅ معتمد
 - `con-relapse-prevention-sexual` — منع الانتكاسة الجنسية — ✅ معتمد
 - `con-relation` — العلاقة واللقاء — ✅ معتمد
@@ -2279,111 +3074,230 @@
 - `con-relational-matrix` — المصفوفة العلائقية (Relational Matrix) — ✅ معتمد
 - `con-relationality-indigenous` — العلاقية (Relationality) — ✅ معتمد
 - `con-relearning-the-world` — إعادة تعلم العالم بعد الفقد — ✅ معتمد
+- `con-reliabilism-epistemology` — الموثوقية في نظرية المعرفة (Reliabilism) — ✅ معتمد
 - `con-ren` — الرن (仁) — الإنسانية الرحيمة — ✅ معتمد
-- `con-repression` — الكبت والآليات الدفاعية الأولية (Repression) — 🕓 مسودة
+- `con-repression` — الكبت والآليات الدفاعية الأولية (Repression) — ✅ معتمد
 - `con-republican-freedom` — الحرية الجمهورية (الحرية كعدم تبع) — ✅ معتمد
+- `con-republican-liberty-non-domination` — الحرية الجمهورية كـ لا-هيمنة (Non-Domination) — ✅ معتمد
+- `con-res-cogitans-res-extensa` — الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa) — ✅ معتمد
+- `con-research-programmes-lakatos` — منهجية برامج الأبحاث العلمية (Research Programmes) — ✅ معتمد
 - `con-responsibility` — المسؤولية — ✅ معتمد
+- `con-ressentiment-nietzsche` — الضغينة والاستياء النفسي (Ressentiment) — ✅ معتمد
 - `con-restorative-justice` — العدالة التصالحية — ✅ معتمد
+- `con-rhizomatic-learning-deleuze` — التعلم الجذموري والمعرفة المتشعبة (Rhizomatic Learning) — ✅ معتمد
+- `con-rhizome-deleuze-guattari` — الجذمور والشبكات اللامركزية (Rhizome) — ✅ معتمد
+- `con-rigid-designators-kripke` — المعينات الصلبة والضرورة البعدية (Rigid Designators) — ✅ معتمد
 - `con-risk-need-responsivity` — مبدأ المخاطرة والحاجة والاستجابة — ✅ معتمد
+- `con-rogers-person-centered-therapy` — العلاج المتمركز حول العميل لروجرز (Rogers' Person-Centered Therapy) — ✅ معتمد
 - `con-sacred-prostitute` — أركيتيب البغي المقدسة (الهيتيرا) — ✅ معتمد
 - `con-sadness` — الحزن — ✅ معتمد
+- `con-safety-behavior` — سلوك الأمان (Safety Behavior) — ✅ معتمد
+- `con-sage-philosophy-methodology` — منهجية فلسفة الحكيم لأوروكا (Sage Philosophy) — ✅ معتمد
 - `con-samsara` — سامسارا (دورة الوجود / التَناسُخ) — ✅ معتمد
 - `con-sangoma-zulu` — السانغوما (Sangoma) — العلاج الزولوي التقليدي — ✅ معتمد
 - `con-sankofa` — سانكوفا (Sankofa) — العودة إلى الجذور — ✅ معتمد
+- `con-satori-and-kensho-zen` — الساتوري والكينشو في الزن (Satori & Kensho) — ✅ معتمد
 - `con-satyagraha` — ساتياغراها (قوة الحقيقة) — ✅ معتمد
 - `con-savior-complex` — عقدة المخلّص ومتلازمة الفارس الأبيض (الإنقاذ القهري للآخرين) — ✅ معتمد
 - `con-scarcity-mindset` — عقلية الندرة وعبء النطاق الترددي المعرفي — ✅ معتمد
-- `con-schema` — المخطط المعرفي — 🕓 مسودة
+- `con-schema` — المخطط المعرفي — ✅ معتمد
+- `con-schizoanalysis-desiring-machines` — التحليل الفصامي وآلات الرغبة (Schizoanalysis) — ✅ معتمد
 - `con-schizophrenia` — الفصام وانشقاق الشخصية (بلويلر) — ✅ معتمد
+- `con-sebayt-wisdom` — أدب السبايت والتعليم الحِكمي (Sebayt) — ✅ معتمد
+- `con-secure-attachment` — التعلق الآمن (Secure Attachment) — ✅ معتمد
 - `con-sefirot` — السفيرة (الصفات الإلهية العشر) — ✅ معتمد
 - `con-self-actualization` — تحقيق الذات (Self-Actualization) — ✅ معتمد
+- `con-self-actualization-maslow` — تحقيق الذات عند ماسلو (Maslow's Self-Actualization — مفصَّل) — ✅ معتمد
 - `con-self-efficacy` — الكفاءة الذاتية (الذاتية المدركة) — ✅ معتمد
 - `con-self-ownership` — الحق الذاتي (ملكية الذات) — ✅ معتمد
 - `con-self-serving-bias` — انحياز خدمة الذات وتبرير الفشل (Self-Serving Bias) — ✅ معتمد
+- `con-semantic-externalism-putnam` — الخارجية الدلالية والأرض التوأم (Semantic Externalism) — ✅ معتمد
+- `con-sense-and-reference-frege` — المعنى والإشارة عند فريجه (Sinn and Bedeutung) — ✅ معتمد
 - `con-sense-datum` — البيانات الحسية (Sense-Datum) — ✅ معتمد
 - `con-sense-vs-reference` — المعنى مقابل المحمول (Sinn vs. Bedeutung) — ✅ معتمد
+- `con-sensorimotor-three-way-model` — النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة) — ✅ معتمد
 - `con-sensory-integration` — التكامل الحسي (نظرية عيرز) — ✅ معتمد
+- `con-separation-of-powers` — مبدأ فصل السلطات وتوازنها (Separation of Powers) — ✅ معتمد
+- `con-set-and-setting` — الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة — ✅ معتمد
 - `con-seven-habits` — العادات السبع للفاعلية والنمو الشخصي — ✅ معتمد
 - `con-sexual-difference` — الاختلاف الجنسي — ✅ معتمد
 - `con-sexual-response-cycle` — دورة الاستجابة الجنسية — ✅ معتمد
 - `con-shame-asian` — الخزي/الخجل في الثقافات الآسيوية — ✅ معتمد
 - `con-shame-guilt` — الخزي والذنب — ✅ معتمد
 - `con-shame-self-criticism` — الخزي ونقد الذات — ✅ معتمد
+- `con-shinrin-yoku` — شينرين-يوكو (الاستحمام بالغابة) — ✅ معتمد
 - `con-shu` — الشو (術) — التكنيك الإداري — ✅ معتمد
 - `con-shunyata` — شُونْياتا (الفراغ / العدمية الجوهرية) — ✅ معتمد
+- `con-shunyata-emptiness` — الشونيتا — الفراغ والنشوء المشروط (Shunyata) — ✅ معتمد
+- `con-simulacra-and-simulation` — المصطنع والمحاكاة الفائقة (Simulacra and Simulation) — ✅ معتمد
 - `con-single-session-mindset` — عقلية الجلسة الواحدة — ✅ معتمد
+- `con-sirr-khafi-akhfa-subtle-centers` — اللطائف الباطنية السبع وقوى الوجدان (Lata'if) — ✅ معتمد
 - `con-six-thinking-hats` — قبعات التفكير الست (التفكير المتوازي وإدارة الاجتماعات) — ✅ معتمد
+- `con-social-contract-theory` — نظرية العقد الاجتماعي (Social Contract) — ✅ معتمد
 - `con-social-learning` — نظرية التعلم الاجتماعي — ✅ معتمد
 - `con-social-model-disability` — النموذج الاجتماعي للإعاقة (Social Model) — ✅ معتمد
 - `con-social-pain` — الألم الاجتماعي وتطابق دوائر الألم الجسدي في الدماغ — ✅ معتمد
 - `con-social-skills` — المهارات الاجتماعية (تدريب) — ✅ معتمد
+- `con-socratic-maieutics` — التوليد السقراطي والتهكم (Socratic Maieutics and Irony) — ✅ معتمد
+- `con-solution-focused-miracle` — سؤال المعجزة (Miracle Question, SFBT) — ✅ معتمد
+- `con-solution-focused-miracle-q` — سؤال المعجزة (Miracle Question) في العلاج المختصر القائم على الحل — ✅ معتمد
+- `con-solution-talk` — حَدِيث الْحَلّ (Solution Talk) في SFT — ✅ معتمد
+- `con-somatic-action-systems` — أنظمة الفعل الحركي والتكامل الدفاعي في السنسوريموتور — ✅ معتمد
+- `con-somatic-experiencing` — التَّجْرِبَة الْجِسَدِيَّة (Somatic Experiencing): مَنَهَج لِـ**شِفَاء الصَّدْمَة** — ✅ معتمد
 - `con-somatic-experiencing-popular` — التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing) — ✅ معتمد
+- `con-somatic-marker` — العلامة الجسدية (Somatic Marker) — ✅ معتمد
+- `con-somatic-memory` — الذَّاكِرَة الْجِسَدِيَّة (Somatic Memory) — ✅ معتمد
 - `con-somnambulism-hypnosis` — الغشية العميقة (سومنامبوليزم تنويمي) — ✅ معتمد
 - `con-soul` — النفس وصنع النفس — ✅ معتمد
-- `con-soul-psyche-classical` — النفس (Psyche) في الفلسفة الكلاسيكية القديمة — 🕓 مسودة
+- `con-soul-psyche-classical` — النفس (Psyche) في الفلسفة الكلاسيكية القديمة — ✅ معتمد
+- `con-species-being-marx` — الكينونة النوعية للإنسان (Species-Being / Gattungswesen) — ✅ معتمد
 - `con-speciesism` — تخصيص النوع (Speciesism) — ✅ معتمد
+- `con-speech-acts-performatives` — أفعال الكلام والقضايا الإنجازية (Speech Acts & Performatives) — ✅ معتمد
+- `con-sphota-linguistic-burst-bhartrihari` — السفوتا والانفجار الدلالي للمعنى (Sphota) — ✅ معتمد
 - `con-spotlight-effect` — تأثير بقعة الضوء (المبالغة في تقدير انتباه الآخرين لأخطائنا) — ✅ معتمد
 - `con-standpoint-epistemology` — إبستمولوجيا الموقع (الموقف) — ✅ معتمد
+- `con-state-of-exception-agamben` — حالة الاستثناء والسيادة (State of Exception) — ✅ معتمد
 - `con-status-anxiety-concept` — قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety) — ✅ معتمد
 - `con-stimulus-control` — التحكم بالمنبّهات (علاج) — ✅ معتمد
 - `con-strategic-intervention` — التدخل الاستراتيجي (Strategic Intervention) — ✅ معتمد
+- `con-straw-man-fallacy` — مغالطة رجل القش والتشويه الجدلي (Straw Man) — ✅ معتمد
+- `con-stream-of-consciousness` — تيار الوعي (Stream of Consciousness): التدفق المستمر للخبرة — ✅ معتمد
 - `con-structured-teaching-teacch` — التدريس المنظم (Structured Teaching) — ✅ معتمد
+- `con-sub-specie-aeternitatis` — النظر من منظور الأبدية (Sub Specie Aeternitatis) — ✅ معتمد
 - `con-subaltern` — التابع (Subaltern) — ✅ معتمد
+- `con-subaltern-spivak-concept` — التابع والمسلوب الصوت (The Subaltern) — ✅ معتمد
+- `con-subjection-of-nature-bacon` — تسخير الطبيعة والهيمنة التقنية (Mastery over Nature) — ✅ معتمد
+- `con-sublime-and-beautiful-kant` — الجميل والجليل في الحكم الجمالي (Sublime and Beautiful) — ✅ معتمد
 - `con-substance-accident` — الجوهر والعرض (Substance / Accident) — ✅ معتمد
+- `con-substance-and-accident` — الجوهر والعرض (Substance and Accident) — ✅ معتمد
+- `con-subsystems` — الأنظمة الفرعية الأسرية (Family Subsystems) — ✅ معتمد
 - `con-sunk-cost-fallacy` — مغالطة التكلفة الغارقة (التمسك بالخسائر والخيارات الفاشلة) — ✅ معتمد
+- `con-supervenience-metaphysics` — الانبثاق والمواكبة الأنطولوجية (Supervenience) — ✅ معتمد
 - `con-supported-employment` — التوظيف المدعوم (Supported Employment) — ✅ معتمد
 - `con-supramental` — ما فوق الذهن (Supramental) — ✅ معتمد
 - `con-surplus-in-man` — الزيادة في الإنسان (Surplus in Man) — ✅ معتمد
 - `con-surplus-value` — فائض القيمة (Mehrwert) — ✅ معتمد
+- `con-surplus-value-marx` — فائض القيمة والاستغلال الطبقي (Surplus Value) — ✅ معتمد
+- `con-syadvada-conditioned-predication` — السيادفادا وحمل القضايا المشروطة في الجاينية (Syadvada) — ✅ معتمد
+- `con-symbol` — الرمز (Symbol): ما يَحمل معنى يتجاوز ذاته — ✅ معتمد
+- `con-symbolic-violence-bourdieu` — العنف الرمزي والهيمنة اللامرئية (Symbolic Violence) — ✅ معتمد
+- `con-synthetic-a-priori-judgments` — القضايا التركيبية القبلية (Synthetic A Priori) — ✅ معتمد
 - `con-systematic-desensitization` — إزالة التحسس المنهجي — ✅ معتمد
 - `con-tabula-rasa` — اللوح الفارغ (Tabula Rasa) — ✅ معتمد
+- `con-tabula-rasa-concept` — اللوح الفارغ الإبستمولوجي (Tabula Rasa) — ✅ معتمد
+- `con-taiji-supreme-ultimate` — التايجي والقطب الأسمى في الكونيات الصينية (Taiji) — ✅ معتمد
 - `con-taijin-kyofusho-concept` — تاي جين كيو فوشو (مفهوم ثقافي) — ✅ معتمد
+- `con-takwin-attribute-maturidi` — صفة التكوين الأزلية عند الماتريدية (Takwin) — ✅ معتمد
 - `con-taoist-cognitive-therapy-concept` — العلاج المعرفي الطاوي (Taoist Cognitive Therapy) — ✅ معتمد
-- `con-tawakkul-psychology` — التوكل واليقين والسكينة النفسية (Tawakkul in Islamic Psychology) — 🕓 مسودة
+- `con-taqwa` — التقوى (Taqwa) — ✅ معتمد
+- `con-tathagatagarbha-buddha-nature` — طبيعة البوذا الكامنة في كل كائن (Tathagatagarbha) — ✅ معتمد
+- `con-tawakkul` — التوكل (Tawakkul) — ✅ معتمد
+- `con-tawakkul-psychology` — التوكل واليقين والسكينة النفسية (Tawakkul in Islamic Psychology) — ✅ معتمد
 - `con-te-whare-tapa-wha` — تي-فاري-تابا-فا (Te Whare Tapa Whā) — ✅ معتمد
 - `con-teacch` — TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل) — ✅ معتمد
+- `con-teleology-final-cause` — الغائية والعلة الغائية (Teleology) — ✅ معتمد
+- `con-the-look-of-the-other-sartre` — نظرة الآخر وتشييء الوعي (The Look of the Other) — ✅ معتمد
+- `con-theory-of-descriptions-russell` — نظرية الأوصاف المحددة لراسل (Theory of Descriptions) — ✅ معتمد
+- `con-theory-of-forms` — نظرية المُثُل الأفلاطونية (Platonic Theory of Forms) — ✅ معتمد
+- `con-therapeutic-alliance-bordin` — التحالف العلاجي عند بورديـن (Bordin's Therapeutic Alliance) — ✅ معتمد
+- `con-thick-and-thin-moral-concepts` — المفاهيم الأخلاقية السميكة والرقيقة (Thick & Thin Concepts) — ✅ معتمد
+- `con-thought-record` — سجلّ الأفكار (Thought Record) — ✅ معتمد
 - `con-three-circles-emotion` — أنظمة تنظيم الانفعال الثلاثة — ✅ معتمد
+- `con-three-stages-of-life-kierkegaard` — المراحل الثلاث للوجود: الجمالي، الأخلاقي، والديني — ✅ معتمد
+- `con-three-teachings-harmony-sanjiao` — تناغم التعاليم الثلاثة في الصين (Sanjiao) — ✅ معتمد
+- `con-three-way-model-sensorimotor` — النَّمُوذَج الثُّلاثِيّ لِـ Sensorimotor: اِنْتِبَاه، تَأْثِير، فِكْر — ✅ معتمد
 - `con-thrownness` — القذف / الإلقاء (Geworfenheit) — ✅ معتمد
 - `con-tibetan-buddhism` — البوذية التبتية والتحليل النفسي — ✅ معتمد
 - `con-tibetan-tantra` — التنترا التبتية والرمزية الأركيتيبية — ✅ معتمد
 - `con-time` — الزمن — ✅ معتمد
+- `con-time-consciousness` — وعي الزمن (Zeitbewußtsein): الحاضر المتضمن للماضي والمستقبل — ✅ معتمد
+- `con-titration-pendulation` — التقطير والبندلة في العلاج الجسدي للصدمات — ✅ معتمد
 - `con-toxic-positivity` — الإيجابية السامة (إنكار المشاعر الصعبة والإلزام بالتفاؤل) — ✅ معتمد
-- `con-transference` — التحويل والتحويل المقابل في العلاقة العلاجية (Transference) — 🕓 مسودة
+- `con-transcendental-idealism-kant` — المثالية الترنسندنتالية (Transcendental Idealism) — ✅ معتمد
+- `con-transference` — التحويل والتحويل المقابل في العلاقة العلاجية (Transference) — ✅ معتمد
+- `con-transference-patterns` — أنماط التحويل العلاجي (Transference Patterns) — ✅ معتمد
+- `con-transmodernity-dussel` — ما وراء الحداثة والتحرر العالمي (Transmodernity) — ✅ معتمد
 - `con-trauma` — الصدمة النفسية في التحليلية — ✅ معتمد
 - `con-triadic-reciprocal-determinism` — الحتمية التبادلية الثلاثية — ✅ معتمد
+- `con-triangle-conflict-persons` — مثلث الصراع ومثلث الأشخاص في ISTDP — ✅ معتمد
+- `con-triangulation` — التثليث (Triangulation) — ✅ معتمد
 - `con-trinity-doctrine` — عقيدة الثالوث (الآب والابن والروح القدس) — ✅ معتمد
+- `con-tripartite-soul-plato` — النفس الثلاثية الأفلاطونية (Tripartite Soul) — ✅ معتمد
+- `con-trisvabhava-three-natures` — الطبائع الثلاث للوجود والمعرفة في اليوغاكارا (Trisvabhava) — ✅ معتمد
+- `con-tropes-theory-metaphysics` — نظرية الخصائص المفردة والتروبس (Tropes Theory) — ✅ معتمد
+- `con-trusteeship-ethics-taha` — الفلسفة الائتمانية والمسؤولية الأخلاقية (طه عبد الرحمن) — ✅ معتمد
+- `con-twelve-steps` — برنامج الاثنتي عشرة خطوة (12-Step) — ✅ معتمد
+- `con-two-chair-dialogue` — تقنية الكرسيين (حوار الكرسيين) — ✅ معتمد
+- `con-two-dogmas-empiricism-quine` — عقيدتا التجريبية ونقد الاختزال (Two Dogmas of Empiricism) — ✅ معتمد
+- `con-two-eyed-seeing` — الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing) — ✅ معتمد
+- `con-two-eyed-seeing-indigenous` — الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة — ✅ معتمد
+- `con-two-truths-doctrine-buddhist` — نظرية الحقيقتين: العرفية والمطلقة (Two Truths Doctrine) — ✅ معتمد
+- `con-tyranny-of-the-majority` — طغيان الأغلبية والاستبداد الاجتماعي (Tyranny of the Majority) — ✅ معتمد
 - `con-tzimtzum` — القبض الإلهي (تيمتسوم) — ✅ معتمد
-- `con-ubuntu` — أوبونتو (Ubuntu) — ✅ معتمد
+- `con-ubermensch-overman` — الإنسان المتفوق والأعلى (Übermensch) — ✅ معتمد
+- `con-ubuntu` — الأوبونتو (Ubuntu) — ✅ معتمد
+- `con-ubuntu-african-humanism` — أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu) — ✅ معتمد
+- `con-ubuntu-relational-health` — فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي — ✅ معتمد
 - `con-unconditional-positive-regard` — التقبل الإيجابي غير المشروط (Unconditional Positive Regard) — ✅ معتمد
-- `con-unconscious` — اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious) — 🕓 مسودة
+- `con-unconscious` — اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious) — ✅ معتمد
+- `con-unconscious-inference` — الاستدلال اللاواعي (Unconscious Inference) عند هلمهولتز — ✅ معتمد
+- `con-unique-outcomes-sparkling` — الاستثناءات واللحظات المتألقة في العلاج السردي — ✅ معتمد
+- `con-unity-of-knowledge-and-action` — وحدة المعرفة والعمل (Zhi Xing He Yi) — ✅ معتمد
 - `con-universals-debate` — جدل الكليات (مشكلة الكُنْه) — ✅ معتمد
+- `con-univocity-of-being-scotus` — التواطؤ الوجودي للفظ والمعنى (Univocity of Being) — ✅ معتمد
+- `con-unmoved-mover-prime-mover` — المحرك الأول الذي لا يتحرك (Unmoved Mover) — ✅ معتمد
 - `con-unrepresented-experience` — الخبرة غير المُمثّلة (Unrepresented Experience) — ✅ معتمد
+- `con-upaya-skillful-means` — الأوبايا والوسائل الماهرة في التعليم البوذي (Upaya) — ✅ معتمد
 - `con-utilization-principle` — مبدأ الاستفادة — ✅ معتمد
 - `con-valkyrie` — أركيتيب الفالكيري والمحاربة الأنثوية — ✅ معتمد
 - `con-veil-ignorance` — حجاب الجهل — ✅ معتمد
 - `con-verbal-behavior-vb` — السلوك اللفظي (Verbal Behavior / VB) — ✅ معتمد
 - `con-verification-principle` — مبدأ التحقق — ✅ معتمد
-- `con-virtue-ethics` — أخلاق الفضيلة وتحقيق السعادة الإنسانية (Virtue Ethics / Eudaimonia) — 🕓 مسودة
+- `con-verification-principle-vienna` — مبدأ التحقق الوضعي التجريبي (Verification Principle) — ✅ معتمد
+- `con-vijnapti-matra-consciousness-only` — التمثل والوعي الخالص في اليوغاكارا (Vijnapti-matra) — ✅ معتمد
+- `con-virtue-epistemology` — إبستمولوجيا الفضيلة والفضائل المعرفية (Virtue Epistemology) — ✅ معتمد
+- `con-virtue-ethics` — أخلاق الفضيلة وتحقيق السعادة الإنسانية (Virtue Ethics / Eudaimonia) — ✅ معتمد
+- `con-virtuous-city-concept` — المدينة الفاضلة ورئاستها الحكيمة (The Virtuous City) — ✅ معتمد
+- `con-vital-force-african-tempels` — القوة الحيوية والأنطولوجيا الأفريقية (Vital Force) — ✅ معتمد
+- `con-voluntarism-divine-will` — الإرادوية وأسبقية الإرادة على العقل (Voluntarism) — ✅ معتمد
 - `con-voucher-based-reinforcement` — التعزيز المعتمد على القسائم — ✅ معتمد
 - `con-wahdat-al-wujud` — وحدة الوجود — ✅ معتمد
+- `con-wahdat-al-wujud-oneness-of-being` — وحدة الوجود العرفانية (Wahdat al-Wujud) — ✅ معتمد
+- `con-wajib-al-wujud-necessary-being` — واجب الوجود وممكن الوجود (Necessary vs. Contingent Being) — ✅ معتمد
+- `con-what-is-it-like-to-be-a-bat` — ماذا يعني أن تكون خفاشاً وتجربة الوعي الذاتية (What is it like to be a bat) — ✅ معتمد
+- `con-white-horse-not-horse` — مفارقة الحصان الأبيض ليس حصاناً (Gongsun Long) — ✅ معتمد
+- `con-will-to-live-schopenhauer` — إرادة الحياة العمياء (Will to Live) — ✅ معتمد
 - `con-will-to-meaning` — الإرادة في المعنى (Will to Meaning) — ✅ معتمد
 - `con-will-to-power` — إرادة القوة (Wille zur Macht) — ✅ معتمد
+- `con-window-of-tolerance` — نافذة التحمل (Window of Tolerance) — ✅ معتمد
+- `con-window-of-tolerance-detailed` — نافذة التحمل — مفصَّل (Window of Tolerance — Detailed) — ✅ معتمد
 - `con-word-association` — تجربة تداعي الكلمات (الارتباط اللفظي) — ✅ معتمد
+- `con-world-hypotheses-pepper` — فروض العالم (World Hypotheses) عند بِبِر — ✅ معتمد
+- `con-wu-wei-non-action` — الوو-وي واللا-فعل العفوي في الداووية (Wu Wei) — ✅ معتمد
+- `con-wuji-limitless-ultimate` — الووجي واللامحدود اللانهائي (Wuji) — ✅ معتمد
+- `con-wujud-dhihni-wa-khariji` — الوجود الذهني والوجود الخارجي (Mental vs. External Being) — ✅ معتمد
 - `con-wuwei` — الوو وي (無為) — عدم الفعل الإجباري — ✅ معتمد
 - `con-wuwei-huanglao` — الوو وي السياسي (عدم الفعل الإداري) في هوانغ-لاو — ✅ معتمد
 - `con-wuxing` — الدورات الخمس (五行 wǔxíng) — ✅ معتمد
+- `con-xiao-filial-piety` — الشياو — بر الوالدين والوفاء الأسري (Xiao) — ✅ معتمد
+- `con-xin-ji-li-mind-is-principle` — العقل هو المبدأ (Xin Ji Li) — ✅ معتمد
 - `con-yerkes-dodson-law` — قانون يركيز–دودسون (العلاقة المنحنية بين التوتر والأداء) — ✅ معتمد
 - `con-yin-yang` — الين-يانغ (陰陽) — التقابل الكوني — ✅ معتمد
+- `con-yin-yang-dynamic-balance` — الين واليانغ والتوازن الديناميكي (Yin-Yang) — ✅ معتمد
 - `con-yoga-therapy-concept` — علاج اليوغا (Yoga Therapy) — ✅ معتمد
 - `con-zeigarnik-effect` — تأثير زيغارنيك (قوة تذكر المهام المفتوحة وغير المنجزة) — ✅ معتمد
+- `con-zeitgeist-spirit-of-the-age` — روح العصر والزمان (Zeitgeist) — ✅ معتمد
 - `con-zheng-ming` — تشنغ مينغ (正名) — تصحيح الأسماء — ✅ معتمد
 - `con-zhenren` — الرجل الحقيقي (真人 zhēnrén) — ✅ معتمد
 - `con-zhixing-heyi` — الوحدة بين المعرفة والفعل (知行合一) — ✅ معتمد
 - `con-ziran` — الزُو ران (自然) — ما يكون من ذاته — ✅ معتمد
-- `con-zuhd-detachment` — الزهد والتحرر من أسر التعلق المادي (Zuhd / Detachment) — 🕓 مسودة
+- `con-ziran-spontaneity-daoism` — الزيران والعفوية الطبيعية (Ziran) — ✅ معتمد
+- `con-zpd` — منطقة النمو القريب (Zone of Proximal Development) — ✅ معتمد
+- `con-zuhd-detachment` — الزهد والتحرر من أسر التعلق المادي (Zuhd / Detachment) — ✅ معتمد
 - `con-zurvan` — زروان (الزمن المطلق / القدر) — ✅ معتمد
+- `con-zurvan-infinite-time` — زُروان والزمان اللانهائي (Zurvan / Infinite Time) — ✅ معتمد
 
-## عمل / كتاب (307)
+## عمل / كتاب (609)
 
 - `wrk-12-rules-for-life` — 12 قاعدة للحياة: ترياق للفوضى — ✅ معتمد
 - `wrk-48-laws-of-power` — 48 قانوناً للقوة — ✅ معتمد
@@ -2391,26 +3305,65 @@
 - `wrk-5-love-languages` — لغات الحب الخمس: سر الحب الذي يدوم — ✅ معتمد
 - `wrk-5-second-rule` — قاعدة الـ 5 ثوانٍ: غير حياتك وعملك وثقتك بالبصيرة اليومية — ✅ معتمد
 - `wrk-7-habits` — العادات السبع للناس الأكثر فاعلية — ✅ معتمد
+- `wrk-a-theory-of-justice-rawls` — نظرية في العدالة لجون رولز — ✅ معتمد
+- `wrk-a-thousand-plateaus-deleuze-guattari` — ألف هضبة لدولوز وغاتاري (Mille Plateaux) — ✅ معتمد
 - `wrk-acts-of-meaning` — أفعال المعنى: علم النفس السردي للتجربة الإنسانية — ✅ معتمد
+- `wrk-adler-understanding-human-nature` — كتاب فهم الطبيعة البشرية لألفرد أدلر (1927) — ✅ معتمد
 - `wrk-affect-regulation-mentalization` — تنظيم الوجدان والذهنية وتطور الذات — ✅ معتمد
 - `wrk-affective-neuroscience` — علم الأعصاب الوجداني: الأسس العصبية للعواطف الإنسانية والحيوانية — ✅ معتمد
 - `wrk-after-virtue` — بعد الفضيلة (After Virtue) — ✅ معتمد
+- `wrk-after-virtue-macintyre` — بعد الفضيلة لألاسدير ماكنتاير (After Virtue) — ✅ معتمد
+- `wrk-against-method-feyerabend` — ضد المنهج لبول فايراباند (Against Method) — ✅ معتمد
+- `wrk-against-the-logicians-sextus` — ضد المناطقة لسكستوس إمبيريكوس — ✅ معتمد
+- `wrk-against-the-physicists-sextus` — ضد الطبيعيين لسكستوس إمبيريكوس — ✅ معتمد
+- `wrk-al-aql-al-siyasi-al-arabi-jabri` — العقل السياسي العربي لمحمد عابد الجابري — ✅ معتمد
+- `wrk-al-arbaeen-fi-usul-al-din-razi` — الأربعين في أصول الدين لفخر الدين الرازي — ✅ معتمد
+- `wrk-al-futuhat-al-makkiyya-ibn-arabi` — الفتوحات المكية لابن عربي — ✅ معتمد
+- `wrk-al-ghazali-munqidh` — كتاب المنقذ من الضلال لأبي حامد الغزالي (1100) — ✅ معتمد
+- `wrk-al-ifsah-fi-al-imama-mufid` — الإفصاح في إمامة أمير المؤمنين للشيخ المفيد — ✅ معتمد
+- `wrk-al-insan-al-kamil-jili` — الإنسان الكامل في معرفة الأواخر والأوائل للجيلي — ✅ معتمد
+- `wrk-al-iqtisad-fi-al-itiqad-ghazali` — الاقتصاد في الاعتقاد للغزالي — ✅ معتمد
+- `wrk-al-irshad-juwayni` — الإرشاد إلى قواطع الأدلة لإمام الحرمين الجويني — ✅ معتمد
+- `wrk-al-isharat-wa-al-tanbihat` — الإشارات والتنبيهات لابن سينا — ✅ معتمد
+- `wrk-al-kashf-an-manahij-al-adilla` — الكشف عن مناهج الأدلة في عقائد الملة لابن رشد — ✅ معتمد
+- `wrk-al-mashair-mulla-sadra` — كتاب المشاعر في الميتافيزيقا لملا صدرا — ✅ معتمد
+- `wrk-al-milal-wa-al-nihal-shahrastani` — الملل والنحل للشهرستاني — ✅ معتمد
+- `wrk-al-munqidh-min-al-dalal-ghazali` — المنقذ من الضلال لأبي حامد الغزالي — ✅ معتمد
+- `wrk-al-muqaddimah-ibn-khaldun` — مقدمة ابن خلدون في علم العمران البشري — ✅ معتمد
+- `wrk-al-musharaat-suhrawardi` — المشارعات والمطارحات لشهاب الدين السهروردي — ✅ معتمد
+- `wrk-al-najat-avicenna` — النجاة في المنطق والإلهيات لابن سينا — ✅ معتمد
+- `wrk-al-shafi-fi-al-imama-murtada` — الشافي في الإمامة للشريف المرتضى — ✅ معتمد
+- `wrk-al-shawahid-al-rububiyya-sadra` — الشواهد الربوبية في المناهج السلوكية لملا صدرا — ✅ معتمد
+- `wrk-al-shifa-avicenna` — كتاب الشفاء لابن سينا (موسوعة الفلسفة) — ✅ معتمد
+- `wrk-al-talwihat-suhrawardi` — التلويحات اللوحية والعرشية للسهروردي — ✅ معتمد
+- `wrk-al-tamhid-baqillani` — التمهيد في الرد على الملحدة للباقلاني — ✅ معتمد
 - `wrk-alazm-critique-religious-thought` — نقد الفكر الديني — ✅ معتمد
 - `wrk-alchemist` — الخيميائي: رحلة البحث عن الأسطورة الشخصية — ✅ معتمد
 - `wrk-allport-personality-1937` — الشخصية: تفسير نفسي (Personality: A Psychological Interpretation) — ✅ معتمد
 - `wrk-ame-enfant` — صورة عن وعي الطفل — ✅ معتمد
+- `wrk-an-essay-concerning-human-understanding-locke` — رسالة في الفهم البشري لجون لوك — ✅ معتمد
+- `wrk-an-inquiry-into-the-good-nishida` — بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu) — ✅ معتمد
+- `wrk-analects-confucius` — المختارات لكونفوشيوس (لونيو) — ✅ معتمد
+- `wrk-anarchy-state-and-utopia-nozick` — الفوضى والدولة واليوتوبيا لروبرت نوزيك — ✅ معتمد
 - `wrk-anarchy-state-utopia` — اللاإكراه، الدولة، واليوتوبيا (Anarchy, State, and Utopia, 1974) — ✅ معتمد
 - `wrk-animal-intelligence` — ذكاء الحيوان — ✅ معتمد
 - `wrk-animal-liberation-singer` — تحرير الحيوان (Animal Liberation) — ✅ معتمد
 - `wrk-annihilation-of-caste` — إبادة الطبقية (Annihilation of Caste) — ✅ معتمد
+- `wrk-anti-duhring-engels` — ضد دوهرينغ لفريدريش إنجلز (Herrn Eugen Dührings Umwälzung) — ✅ معتمد
+- `wrk-anti-oedipus-deleuze-guattari` — الرأسمالية والانفصام: ضد أوديب لدولوز وغاتاري — ✅ معتمد
 - `wrk-antifragile` — ضد الهشاشة: الأشياء التي تستفيد من الفوضى والاضطراب — ✅ معتمد
 - `wrk-anxious-generation` — الجيل القلق: كيف تؤدي إعادة برمجة الطفولة العظيمة إلى وباء المرض النفسي — ✅ معتمد
+- `wrk-apology-plato` — دفاع سقراط لأفلاطون (Apologia) — ✅ معتمد
+- `wrk-ar-ahl-al-madina-al-fadila` — آراء أهل المدينة الفاضلة للفارابي — ✅ معتمد
+- `wrk-aristotle-nicomachean-ethics` — كتاب الأخلاق النيقوماخية لأرسطو — ✅ معتمد
 - `wrk-aron-opium-of-intellectuals` — أفيون المثقفين — ✅ معتمد
 - `wrk-art-of-choosing` — فن الاختيار: سيكولوجيا القرارات اليومية والمصيرية — ✅ معتمد
 - `wrk-artofwar` — فن الحرب (سون تزو) — ✅ معتمد
+- `wrk-asfar-arbaa-mulla-sadra` — الحكمة المتعالية في الأسفار العقلية الأربعة لملا صدرا — ✅ معتمد
 - `wrk-atlas-of-ai-crawford` — أطلس الذكاء الاصطناعي (Atlas of AI) — ✅ معتمد
 - `wrk-atomic-habits` — العادات الذرية: طريقة سهلة ومثبتة لبناء عادات جيدة والتخلص من السيئة — ✅ معتمد
 - `wrk-attached` — المتعلقون: العلم الجديد للتعلق بالبالغين وكيف يساعدك في العثور على الحب والحفاظ عليه — ✅ معتمد
+- `wrk-attachment-loss-volume1` — التعلق (المجلد الأول، 1969) — ✅ معتمد
 - `wrk-authentic-happiness` — السعادة الحقيقية: استخدام علم النفس الإيجابي الجديد — ✅ معتمد
 - `wrk-awaken-giant-within` — أيقظ العملاق الذي بداخلك — ✅ معتمد
 - `wrk-bandura-principles-modification` — مبادئ تعديل السلوك (Principles of Behavior Modification) — ✅ معتمد
@@ -2418,15 +3371,20 @@
 - `wrk-barnes-an-existentialist-ethics` — أخلاق وجودية (هازل بارنز) — ✅ معتمد
 - `wrk-barth-romerbrief` — الرسالة إلى أهل رومية (اللاهوت الجدلي) — ✅ معتمد
 - `wrk-beck-cognitive-therapy` — العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders) — ✅ معتمد
+- `wrk-beck-cognitive-therapy-depression` — كتاب العلاج المعرفي للاكتئاب لآرون بيك (1979) — ✅ معتمد
 - `wrk-becoming-person` — أن نصير أشخاصاً (On Becoming a Person) — ✅ معتمد
 - `wrk-behave-sapolsky` — تصرّف: بيولوجيا الإنسان في أفضل حالاته وأسوأها — ✅ معتمد
 - `wrk-behavior-comparative-psychology` — السلوك: مقدمة في علم النفس المقارن — ✅ معتمد
 - `wrk-behaviorism-watson` — السلوكية — ✅ معتمد
+- `wrk-being-and-nothingness-sartre` — الوجود والعدم لجان بول سارتر (L'Être et le Néant) — ✅ معتمد
+- `wrk-being-and-time-heidegger` — الكينونة والزمان لمارتن هايدغر — ✅ معتمد
 - `wrk-being-nothingness` — الوجود والعدم — ✅ معتمد
 - `wrk-being-time` — الوجود والزمان — ✅ معتمد
 - `wrk-beitrage-sinneswahrnehmung` — أبحاث في نظرية الإدراك الحسي — ✅ معتمد
 - `wrk-berne-games-people-play` — ألعاب الناس (Games People Play) — ✅ معتمد
+- `wrk-beyond-good-and-evil-nietzsche` — ما وراء الخير والشر لفريدريش نيتشه — ✅ معتمد
 - `wrk-bhagavad-gita` — البهاغافاد غيتا — ✅ معتمد
+- `wrk-black-skin-white-masks-fanon` — بشرة سوداء أقنعة بيضاء لفرانز فانون — ✅ معتمد
 - `wrk-black-swan` — البجعة السوداء: تداعيات الأحداث غير المحتملة — ✅ معتمد
 - `wrk-blank-slate` — الصفحة البيضاء: الإنكار الحديث للطبيعة البشرية — ✅ معتمد
 - `wrk-blink` — التفكير اللماح: قوة التفكير بدون تفكير — ✅ معتمد
@@ -2434,58 +3392,106 @@
 - `wrk-book-of-proverbs` — سفر الأمثال (مِشْلاي) — ✅ معتمد
 - `wrk-bowlby-maternal-care` — الرعاية الأمومية والصحة النفسية (Maternal Care and Mental Health) — ✅ معتمد
 - `wrk-bowlby-separation` — الانفصال: القلق والغضب (Separation: Anxiety and Anger) — ✅ معتمد
+- `wrk-brahma-sutra-bhashya-shankara` — شرح البراهما سوترا لشانكارا — ✅ معتمد
 - `wrk-braiding-sweetgrass` — ضفائر العشب الحلو (Braiding Sweetgrass) — ✅ معتمد
 - `wrk-buddhas-brain` — مخ بوذا: علم الأعصاب العملي للسعادة والحكمة وراحة البال — ✅ معتمد
-- `wrk-build-life-you-want` — ابنِ الحياة التي تريدها: فن العلم للسعادة — 🕓 مسودة
+- `wrk-build-life-you-want` — ابنِ الحياة التي تريدها: فن العلم للسعادة — ✅ معتمد
+- `wrk-bunyat-al-aql-al-arabi-jabri` — بنية العقل العربي لمحمد عابد الجابري — ✅ معتمد
 - `wrk-can-the-subaltern-speak` — هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988) — ✅ معتمد
+- `wrk-candide-voltaire` — كانديد أو التفاؤل لفولتير — ✅ معتمد
+- `wrk-capital-marx` — رأس المال لكارل ماركس (Das Kapital) — ✅ معتمد
+- `wrk-categories-aristotle` — المقولات لأرسطو (Categoriae) — ✅ معتمد
 - `wrk-cesaire-discourse-on-colonialism` — خطاب في الاستعمار — ✅ معتمد
 - `wrk-chinese-mirror-rosemont` — المرآة الصينية (A Chinese Mirror) — ✅ معتمد
 - `wrk-cinderella-complex` — عقدة سندريلا: خوف النساء الخفي من الاستقلال — ✅ معتمد
 - `wrk-city-of-god` — مدينة الله (De Civitate Dei) — ✅ معتمد
+- `wrk-city-of-god-augustine` — مدينة الله للقديس أوغسطينوس (De Civitate Dei) — ✅ معتمد
 - `wrk-cognitive-therapy-personality` — العلاج المعرفي لاضطرابات الشخصية — ✅ معتمد
 - `wrk-coloniality-power-quijano` — كولونيالية السلطة (Coloniality of Power) — ✅ معتمد
-- `wrk-comfort-book` — كتاب العزاء: مجموعة تأملات في الأمل — 🕓 مسودة
+- `wrk-comfort-book` — كتاب العزاء: مجموعة تأملات في الأمل — ✅ معتمد
+- `wrk-communist-manifesto-marx-engels` — البيان الشيوعي لماركس وإنجلز — ✅ معتمد
 - `wrk-concept-anxiety` — مفهوم القلق — ✅ معتمد
+- `wrk-concept-of-anxiety-kierkegaard` — مفهوم القلق لسورين كيركغارد — ✅ معتمد
+- `wrk-concluding-unscientific-postscript-kierkegaard` — خاتمة غير علمية لكتاب شظايا فلسفية لكيركغارد — ✅ معتمد
+- `wrk-confessions-augustine` — الاعترافات للقديس أوغسطينوس (Confessiones) — ✅ معتمد
 - `wrk-consolation-philosophy` — عزاء الفلسفة (De Consolatione Philosophiae) — ✅ معتمد
 - `wrk-contexts-of-being` — سياقات الوجود: المعنى البين-ذاتي للتجربة — ✅ معتمد
 - `wrk-corpus-hermeticum` — الكوربوس الهرمسية — ✅ معتمد
 - `wrk-courage-to-be` — الشجاعة في الوجود — ✅ معتمد
-- `wrk-cured-rediger` — شفاء: تقوية جهاز المناعة وعلاج حياتك — 🕓 مسودة
+- `wrk-crisis-of-european-sciences-husserl` — أزمة العلوم الأوروبية والفينومينولوجيا الترنسندنتالية لهوسرل — ✅ معتمد
+- `wrk-critique-of-judgment-kant` — نقد ملكة الحكم لإيمانويل كانط — ✅ معتمد
+- `wrk-critique-of-practical-reason-kant` — نقد العقل العملي لإيمانويل كانط — ✅ معتمد
+- `wrk-critique-of-pure-reason-kant` — نقد العقل الخالص لإيمانويل كانط — ✅ معتمد
+- `wrk-crito-plato` — كريتون لأفلاطون في طاعة القوانين — ✅ معتمد
+- `wrk-cur-deus-homo-anselm` — لماذا صار الإله إنساناً لأنسيلم (Cur Deus Homo) — ✅ معتمد
+- `wrk-cured-rediger` — شفاء: تقوية جهاز المناعة وعلاج حياتك — ✅ معتمد
 - `wrk-cyborg-manifesto` — بيان الكائن الهجين (A Cyborg Manifesto) — ✅ معتمد
+- `wrk-dana-polyvagal-therapy` — كتاب العلاج الموجه بالنظرية المبهمية لديب دانا (2018) — ✅ معتمد
 - `wrk-daodejing` — كتاب الطريق والفضيلة (داو ده جينغ) — ✅ معتمد
+- `wrk-daodejing-laozi` — داوديجينغ للاوتسو (كتاب الطريق والفضيلة) — ✅ معتمد
 - `wrk-daring-greatly` — الجرأة على الإقدام: كيف تحول الضعف والشجاعة والعراء طريقة عيشنا وحبنا وأبوتنا وقيادتنا — ✅ معتمد
+- `wrk-davanloo-unlocking-unconscious` — كتاب فتح اللاوعي: تقنيات ISTDP لحبيب دافانلو (1990) — ✅ معتمد
+- `wrk-de-anima-aristotle` — في النفس لأرسطو (De Anima) — ✅ معتمد
+- `wrk-de-docta-ignorantia-cusa` — في الجهل المتعلم لنيكولاس الكوزاني (De Docta Ignorantia) — ✅ معتمد
+- `wrk-de-ente-et-essentia-aquinas` — في الكائن والماهية لتوما الإكويني (De Ente et Essentia) — ✅ معتمد
+- `wrk-de-libero-arbitrio-augustine` — في الاختيار الحر للإرادة للقديس أوغسطينوس — ✅ معتمد
+- `wrk-de-trinitate-augustine` — في الثالوث للقديس أوغسطينوس (De Trinitate) — ✅ معتمد
 - `wrk-deep-work` — العمل العميق: قواعد للنجاح المركز في عالم مشتت — ✅ معتمد
+- `wrk-democracy-and-education-dewey` — الديمقراطية والتربية لجون ديوي — ✅ معتمد
 - `wrk-descartes-error` — خطأ ديكارت: العاطفة والعقل والدماغ البشري — ✅ معتمد
+- `wrk-descartes-meditations` — كتاب تأملات في الفلسفة الأولى لرينيه ديكارت (1641) — ✅ معتمد
 - `wrk-design-everyday-things` — تصميم الأشياء اليومية — ✅ معتمد
-- `wrk-determined-sapolsky` — مُحدَّد: علم الحياة بدون إرادة حرة — 🕓 مسودة
+- `wrk-determined-sapolsky` — مُحدَّد: علم الحياة بدون إرادة حرة — ✅ معتمد
 - `wrk-developing-mind` — العقل النامي: نحو علم نفس عصبي للعلاقات الشخصية — ✅ معتمد
+- `wrk-dialectic-of-enlightenment-adorno-horkheimer` — جدل التنوير لأدورنو وهوركهايمر — ✅ معتمد
 - `wrk-dialectic-sex` — جدلية الجنس (The Dialectic of Sex, 1970) — ✅ معتمد
+- `wrk-dialectics-of-nature-engels` — ديالكتيك الطبيعة لفريدريش إنجلز — ✅ معتمد
+- `wrk-dialogues-concerning-natural-religion-hume` — محاورات في الدين الطبيعي لديفيد هيوم — ✅ معتمد
 - `wrk-die-traumdeutung` — تفسير الأحلام — ✅ معتمد
 - `wrk-different-voice` — صوت مختلف (In a Different Voice) — ✅ معتمد
 - `wrk-digital-minimalism` — البساطة الرقمية: اختيار حياة مركزة في عالم صاخب — ✅ معتمد
 - `wrk-disability-rights-wrongs` — حقوق وأخطاء الإعاقة (Disability Rights and Wrongs) — ✅ معتمد
+- `wrk-discipline-and-punish-foucault` — المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir) — ✅ معتمد
+- `wrk-discourse-on-inequality-rousseau` — خطاب في أصل التفاوت بين البشر لروسو — ✅ معتمد
+- `wrk-discourse-on-method-descartes` — مقال عن المنهج لرينيه ديكارت — ✅ معتمد
+- `wrk-discourses-epictetus` — المحاورات لإبكتيتوس (Discourses) — ✅ معتمد
+- `wrk-discourses-on-livy-machiavelli` — مطولات في العقد الأول لتيتوس ليفيوس لمكيافيلي — ✅ معتمد
 - `wrk-divided-self` — الذات المنقسمة — ✅ معتمد
 - `wrk-dont-think-of-an-elephant` — لا تفكر في فيل: الأطر اللغوية والمعرفية في السياسة والفكر — ✅ معتمد
-- `wrk-dopamine-nation` — أمة الدوبامين: إيجاد التوازن في عصر الإفراط — 🕓 مسودة
+- `wrk-dopamine-nation` — أمة الدوبامين: إيجاد التوازن في عصر الإفراط — ✅ معتمد
 - `wrk-easy-way-stop-smoking` — الطريقة السهلة للإقلاع عن التدخين: إعادة البرمجة المعرفية للإدمان — ✅ معتمد
+- `wrk-ecce-homo-nietzsche` — هو ذا الإنسان لفريدريش نيتشه (Ecce Homo) — ✅ معتمد
 - `wrk-ecology-community-lifestyle` — الإيكولوجيا والمجتمع ونمط الحياة (Ecology, Community and Lifestyle) — ✅ معتمد
 - `wrk-ecology-freedom-bookchin` — إيكولوجيا الحرية (The Ecology of Freedom) — ✅ معتمد
+- `wrk-economic-philosophic-manuscripts-1844` — مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس — ✅ معتمد
 - `wrk-ecrits` — الكتابات (Écrits) — جاك لوكان — ✅ معتمد
+- `wrk-eger-the-choice` — الخيار: تقبل ما لا يمكن تغييره — ✅ معتمد
+- `wrk-either-or-kierkegaard` — إما / أو لسورين كيركغارد (Enten-Eller) — ✅ معتمد
 - `wrk-elemente-psychophysik` — عناصر السيكوفيزياء — ✅ معتمد
+- `wrk-elements-of-theology-proclus` — عناصر اللاهوت لبروكلس — ✅ معتمد
+- `wrk-elements-philosophy-of-right-hegel` — مبادئ فلسفة الحق لهيغل — ✅ معتمد
 - `wrk-embodied-mind` — العقل المتجسد: العلوم المعرفية للإنسان والذات والذاتية — ✅ معتمد
+- `wrk-emdr-1995` — إعادة المعالجة عبر حركات العين وتخفيف الأعراض (1995) — ✅ معتمد
+- `wrk-emile-on-education-rousseau` — إميل أو في التربية لروسو — ✅ معتمد
 - `wrk-emotional-blackmail` — الابتزاز العاطفي: عندما يستغل المحبون الخوف والالتزام والشعور بالذنب للسيطرة عليك — ✅ معتمد
 - `wrk-emotional-first-aid` — الإسعافات الأولية العاطفية: علاج الفشل والرفض والشعور بالذنب وجروح الحياة اليومية — ✅ معتمد
-- `wrk-emotional-intelligence` — الذكاء العاطفي — 🕓 مسودة
-- `wrk-emotional-intelligence-1995` — الذكاء العاطفي — ✅ معتمد
+- `wrk-emotional-intelligence` — الذكاء العاطفي — ✅ معتمد
 - `wrk-emotional-life-brain` — الحياة العاطفية لدماغك: كيف تشكّل أنماطه الفريدة طريقة تفكيرك وشعورك وحياتك — ✅ معتمد
 - `wrk-emotional-understanding` — الفهم العاطفي: الأخلاقيات البين-ذاتية للعلاج النفسي — ✅ معتمد
 - `wrk-emotionally-immature-parents` — أبناء الآباء غير الناضجين عاطفياً: كيف تشفي جروح طفولتك وتستعيد استقلالك — ✅ معتمد
 - `wrk-emotions-revealed` — المشاعر المكشوفة: إدراك الوجوه والمشاعر لتحسين التواصل — ✅ معتمد
+- `wrk-enchiridion-epictetus` — المختصر في الرواقية لإبكتيتوس (Enchiridion) — ✅ معتمد
+- `wrk-encyclopedia-philosophical-sciences-hegel` — موسوعة العلوم الفلسفية لغيورغ هيغل — ✅ معتمد
+- `wrk-enneads-plotinus` — التاسوعات لأفلوطين — ✅ معتمد
+- `wrk-enquiry-concerning-human-understanding-hume` — تحقيق في الفهم البشري لديفيد هيوم — ✅ معتمد
 - `wrk-epic-of-gilgamesh` — ملحمة جلجامش — ✅ معتمد
 - `wrk-erikson-childhood-society` — طفولة وجماعة (Childhood and Society) — ✅ معتمد
 - `wrk-erroneous-zones` — مناطق أخطائك: تحرر من السلوكيات الهدامة وعش بسعادة — ✅ معتمد
+- `wrk-essay-on-man-cassirer` — مقال عن الإنسان (An Essay on Man) - كاسيرر — ✅ معتمد
+- `wrk-essence-of-christianity-feuerbach` — جوهر المسيحية للودفيغ فيورباخ — ✅ معتمد
 - `wrk-essentials-hindutva` — أصول الهندوتفا (Essentials of Hindutva) — ✅ معتمد
 - `wrk-ethics-ambiguity` — أخلاق الغموض — ✅ معتمد
+- `wrk-ethics-spinoza` — علم الأخلاق لباروخ سبينوزا — ✅ معتمد
 - `wrk-etude-experimentale-intelligence` — دراسة تجريبية للذكاء — ✅ معتمد
 - `wrk-evolving-self` — الذات المتطورة: جدلية بين النظام والفوضى — ✅ معتمد
 - `wrk-existence` — الوجود — ✅ معتمد
@@ -2494,151 +3500,287 @@
 - `wrk-experimental-psychology-titchener` — علم النفس التجريبي: دليل للممارسة المخبرية — ✅ معتمد
 - `wrk-eyewitness-testimony` — شهادة شهود العيان وسيكولوجيا الذاكرة الزائفة — ✅ معتمد
 - `wrk-factizitaet-geltung` — الواقعية والحقيقة (Faktizität und Geltung, 1992) — ✅ معتمد
+- `wrk-fasl-al-maqal-averroes` — فصل المقال لابن رشد — ✅ معتمد
+- `wrk-fasus-al-hikam-farabi-pseudo` — فصوص الحكم المنسوب للفارابي (أو لابن سينا) — ✅ معتمد
+- `wrk-fear-and-trembling-kierkegaard` — خوف ورعدة لسورين كيركغارد — ✅ معتمد
+- `wrk-fear-of-freedom-1941` — الخوف من الحرية (1941) — ✅ معتمد
 - `wrk-feeling-good` — الشعور بالرضا: العلاج الجديد للمزاج — ✅ معتمد
 - `wrk-festinger-cognitive-dissonance` — نظرية التنافر المعرفي (A Theory of Cognitive Dissonance) — ✅ معتمد
+- `wrk-fi-al-falsafa-al-ula-kindi` — في الفلسفة الأولى للكندي — ✅ معتمد
 - `wrk-flow-csikszentmihalyi` — التدفق: سيكولوجيا التجربة المثلى — ✅ معتمد
 - `wrk-focusing` — التركيز (Focusing) — ✅ معتمد
 - `wrk-fons-vitae` — ينبوع الحياة (Fons Vitae) — ✅ معتمد
+- `wrk-fons-vitae-ibn-gabirol` — ينبوع الحياة لسليمان بن جبيرول (أفيشبرون) — ✅ معتمد
+- `wrk-formation-of-arab-reason-jabri` — تكوين العقل العربي لمحمد عابد الجابري — ✅ معتمد
+- `wrk-fosha-transforming-power-affect` — كتاب القوة التحويلية للانفعال لديانا فوشا (2000) — ✅ معتمد
 - `wrk-foucault-madness-civilization` — الجنون والحضارة (Madness and Civilization) — ✅ معتمد
+- `wrk-foucault-order-of-things` — كتاب الكلمات والأشياء لميشيل فوكو (1966) — ✅ معتمد
 - `wrk-four-agreements` — الاتفاقيات الأربع: دليل عملي للحرية الشخصية — ✅ معتمد
 - `wrk-four-hour-workweek` — أسبوع عمل من 4 ساعات: اهرب من الروتين وعش في أي مكان وانضم إلى الأثرياء الجدد — ✅ معتمد
 - `wrk-four-thousand-weeks` — أربعة آلاف أسبوع: إدارة الوقت للفانين — ✅ معتمد
 - `wrk-frames-of-mind` — عقول متعددة: نظرية الذكاءات المتعددة — ✅ معتمد
+- `wrk-frankl-mans-search-for-meaning` — كتاب الإنسان يبحث عن المعنى لفيكتور فرانكل (1946) — ✅ معتمد
 - `wrk-freire-pedagogy-oppressed` — تعليم المضطهدين (Pedagogy of the Oppressed) — ✅ معتمد
+- `wrk-freud-beyond-pleasure-principle` — ما وراء مبدأ اللذة — ✅ معتمد
+- `wrk-freud-interpretation-of-dreams` — كتاب تفسير الأحلام لسيغموند فرويد (1899) — ✅ معتمد
 - `wrk-fromm-escape-freedom` — الهروب من الحرية (Escape from Freedom) — ✅ معتمد
 - `wrk-fukuzawa-civilization` — مخطط نظرية الحضارة (An Outline of a Theory of Civilization) — ✅ معتمد
+- `wrk-fusus-al-hikam-ibn-arabi` — فصوص الحكم لمحيي الدين بن عربي — ✅ معتمد
 - `wrk-gathas` — الأناشيد الغاثية (Gathas) — ✅ معتمد
 - `wrk-gender-trouble` — إشكالية النوع (Gender Trouble, 1990) — ✅ معتمد
+- `wrk-gender-trouble-butler` — مشكلة الجندر لجوديث بتلر (Gender Trouble) — ✅ معتمد
 - `wrk-general-psychopathology` — علم النفس المرضي العام — ✅ معتمد
 - `wrk-gestalt-psychology-kohler` — علم نفس الـ Gestalt — ✅ معتمد
 - `wrk-getting-love-you-want` — الحصول على الحب الذي تريده: دليل الأزواج — ✅ معتمد
 - `wrk-getting-things-done` — إنجاز المهام: فن الإنتاجية الخالية من التوتر (GTD) — ✅ معتمد
 - `wrk-gifts-of-imperfection` — هبات النقص: دعك مما تظن أنك عليه وكن ما أنت عليه — ✅ معتمد
+- `wrk-gilbert-compassionate-mind` — كتاب العقل العطوف: نهج جديد لتحديات الحياة لبول غيلبرت (2009) — ✅ معتمد
 - `wrk-give-and-take` — الأخذ والعطاء: نهج ثوري للنجاح — ✅ معتمد
 - `wrk-goffman-presentation-self` — تقديم الذات في الحياة اليومية (The Presentation of Self in Everyday Life) — ✅ معتمد
 - `wrk-goldstein-organism` — الكائن الحي (The Organism) — ✅ معتمد
 - `wrk-gongsunlongzi` — كتاب غونغسون لونغ (غونغسون لونغ تزو) — ✅ معتمد
+- `wrk-gorgias-plato` — جورجياس لأفلاطون في الخطابة والعدالة — ✅ معتمد
+- `wrk-greenberg-emotion-focused-therapy` — كتاب العلاج الموجه بالانفعال لليزلي غرينبرغ (2002) — ✅ معتمد
 - `wrk-grit-2016` — عقل السعي: عقلية العزيمة والشغف والإصرار — ✅ معتمد
+- `wrk-groundwork-metaphysics-morals-kant` — تأسيس ميتافيزيقا الأخلاق لإيمانويل كانط — ✅ معتمد
 - `wrk-grundlagen-psychischen-entwicklung` — أساسيات النمو الذهني — ✅ معتمد
 - `wrk-grundzuge-physiologische-psychologie` — خطوط علم النفس الفسيولوجي — ✅ معتمد
 - `wrk-guide-for-perplexed` — دلالة الحائرين (Moreh Nevukhim) — ✅ معتمد
+- `wrk-guide-for-the-perplexed-maimonides` — دلالة الحائرين لموسى بن ميمون — ✅ معتمد
+- `wrk-han-feizi-text` — كتاب هان فاي تسي في الفلسفة القانونية — ✅ معتمد
 - `wrk-handbuch-physiologische-optik` — كتاب الفسيولوجيا البصرية — ✅ معتمد
 - `wrk-hanfeizi` — كتاب هان في تزو — ✅ معتمد
 - `wrk-happiness-hypothesis` — فرضية السعادة: كشف الحقيقة الحديثة في الحكمة القديمة — ✅ معتمد
 - `wrk-happiness-project` — مشروع السعادة — ✅ معتمد
 - `wrk-happiness-trap` — فخ السعادة: كيف تتوقف عن الصراع وتبدأ في العيش — ✅ معتمد
+- `wrk-hayakil-al-nur-suhrawardi` — هياكل النور لشهاب الدين السهروردي — ✅ معتمد
+- `wrk-hayes-acceptance-commitment-therapy` — كتاب العلاج بالقبول والالتزام لستيفن هايز (1999) — ✅ معتمد
+- `wrk-hayy-ibn-yaqzan-tufayl` — حي بن يقظان لابن طفيل — ✅ معتمد
+- `wrk-hegel-phenomenology-spirit` — كتاب فينومينولوجيا الروح لجورج هيغل (1807) — ✅ معتمد
 - `wrk-hegemony-socialist-strategy` — الهيمنة والاستراتيجية الاشتراكية (Hegemony and Socialist Strategy, 1985) — ✅ معتمد
 - `wrk-heller-everyday-life` — سوسيولوجيا الحياة اليومية (هيلر) — ✅ معتمد
-- `wrk-hidden-potential` — إمكانات خفية: العلم الذي يكتشف ما بداخلك — 🕓 مسودة
+- `wrk-hidden-potential` — إمكانات خفية: العلم الذي يكتشف ما بداخلك — ✅ معتمد
 - `wrk-highly-sensitive-person` — الشخص عالي الحساسية: كيف تزدهر عندما يغمرك العالم — ✅ معتمد
+- `wrk-hikmat-al-ishraq-suhrawardi` — حكمة الإشراق للسهروردي — ✅ معتمد
 - `wrk-hind-swaraj` — هند سواراج (الحكم الذاتي الهندي) — ✅ معتمد
+- `wrk-holy-family-marx-engels` — العائلة المقدسة لكارل ماركس وفريدريش إنجلز — ✅ معتمد
 - `wrk-homecoming-inner-child` — العودة إلى الوطن: استعادة طفلك الداخلي وحمايته — ✅ معتمد
 - `wrk-horney-inner-conflicts` — صراعاتنا الداخلية (Our Inner Conflicts) — ✅ معتمد
 - `wrk-horney-neurotic-personality` — الشخصية العصابية في عصرنا (The Neurotic Personality of Our Time) — ✅ معتمد
 - `wrk-how-does-analysis-cure` — كيف يشفي التحليل؟ — ✅ معتمد
+- `wrk-how-to-do-things-with-words-austin` — كيف ننجز الأشياء بالكلمات لجيه إل أوستن — ✅ معتمد
 - `wrk-how-to-win-friends` — كيف تكسب الأصدقاء وتؤثر في الناس — ✅ معتمد
 - `wrk-how-we-learn` — كيف نتعلم: الحقيقة المدهشة عن وقت ومكان وكيفية حدوث التعلم — ✅ معتمد
 - `wrk-huanglao-texts` — نصوص هوانغ-لاو (مجموعة) — ✅ معتمد
+- `wrk-human-all-too-human-nietzsche` — إنساني مفرط في إنسانيته لفريدريش نيتشه — ✅ معتمد
+- `wrk-ibn-rushd-fasl-al-maqal` — كتاب فصل المقال لابن رشد (1179) — ✅ معتمد
 - `wrk-ich-und-es` — الأنا والهو — ✅ معتمد
+- `wrk-ideas-pertaining-to-pure-phenomenology-husserl` — أفكار نحو فينومينولوجيا خالصة لإدموند هوسرل (Ideen I) — ✅ معتمد
 - `wrk-ideen-i` — أفكار نحو ظاهراتية وصفية (Ideen I) — ✅ معتمد
+- `wrk-ihsa-al-ulum-farabi` — إحصاء العلوم للفارابي — ✅ معتمد
+- `wrk-illuminations-walter-benjamin` — إشراقات لفالتر بنيامين (Illuminations) — ✅ معتمد
 - `wrk-im-ok-youre-ok` — أنا بخير، أنت بخير — ✅ معتمد
 - `wrk-immunity-to-change` — المناعة ضد التغيير: كيف نتغلب على الحواجز اللاواعية لتحقيق أهدافنا — ✅ معتمد
+- `wrk-in-a-different-voice-gilligan` — بصوت مختلف لكارول غيليغان (In a Different Voice) — ✅ معتمد
 - `wrk-influence-persuasion` — التأثير: علم نفس الإقناع — ✅ معتمد
 - `wrk-inquiries-human-faculty` — تحقيقات في القدرات الإنسانية — ✅ معتمد
 - `wrk-inquiry-into-good` — بحث في الخير (An Inquiry into the Good) — ✅ معتمد
+- `wrk-inquiry-into-human-mind-reid` — بحث في العقل البشري وفق مبادئ الحس المشترك لريد — ✅ معتمد
+- `wrk-insha-al-dawa-ir-ibn-arabi` — إنشاء الدوائر الإحاطية لمحيي الدين بن عربي — ✅ معتمد
 - `wrk-insight-lieberman` — البصيرة: الحقيقة المفاجئة عن كيف يرانا الآخرون، وكيف نرى أنفسنا، ولماذا الإجابات تهم أكثر مما نعتقد — ✅ معتمد
 - `wrk-instructions-ptahhotep` — تعاليم بتاح حتب — ✅ معتمد
 - `wrk-intelligenzprufungen-menschenaffen` — اختبارات ذكاء القردة العليا — ✅ معتمد
 - `wrk-intercultural-philosophy-wimmer` — الفلسفة البين-ثقافية (Interkulturelle Philosophie) — ✅ معتمد
+- `wrk-internal-family-systems-1995` — أنظمة الأسرة الداخلية (1995) — ✅ معتمد
 - `wrk-interpersonal-world-infant` — العالم بين-شخصي للرضيع — ✅ معتمد
+- `wrk-isagoge-porphyry` — الإيساغوجي لفرفوريوس الصوري — ✅ معتمد
+- `wrk-itinerarium-mentis-bonaventure` — مسار العقل إلى الله لبونافنتورا (Itinerarium) — ✅ معتمد
 - `wrk-janov-primal-scream` — الصرخة البدائية (The Primal Scream) — ✅ معتمد
+- `wrk-johnson-hold-me-tight` — كتاب أمسك بي بقوة: سبع محادثات لحب دائم لسو جونسون (2008) — ✅ معتمد
+- `wrk-jung-psychological-types` — كتاب الأنماط النفسية لكارل غوستاف يونغ (1921) — ✅ معتمد
+- `wrk-kant-critique-pure-reason` — كتاب نقد العقل الخالص لإيمانويل كانط (1781) — ✅ معتمد
+- `wrk-kashf-al-murad-hilli` — كشف المراد في شرح تجريد الاعتقاد للعلامة الحلي — ✅ معتمد
 - `wrk-kelly-personal-constructs` — سيكولوجية البنى الشخصية (The Psychology of Personal Constructs) — ✅ معتمد
 - `wrk-kephalaia` — الرؤوس (كِفَالا - Kephalaia) — ✅ معتمد
 - `wrk-kierkegaard-concept-of-irony` — مفهوم التهكم (مع إشارة خاصة لسقراط) — ✅ معتمد
+- `wrk-kierkegaard-fear-and-trembling` — كتاب خوف ورعدة لسورين كيركغارد (1843) — ✅ معتمد
+- `wrk-kitab-al-tawhid-maturidi` — كتاب التوحيد لأبي منصور الماتريدي — ✅ معتمد
 - `wrk-kuhn-structure-revolutions` — بنية الثورات العلمية (The Structure of Scientific Revolutions) — ✅ معتمد
 - `wrk-kuzari` — الكتاب الحجازي (Kuzari) — ✅ معتمد
+- `wrk-kuzari-judah-halevi` — كتاب الكوزري (الحجة والدليل) ليهوذا اللاوي — ✅ معتمد
 - `wrk-langage-pensee-enfant` — اللغة والفكر عند الطفل — ✅ معتمد
 - `wrk-laws-of-human-nature` — قوانين الطبيعة البشرية — ✅ معتمد
+- `wrk-laws-plato` — القوانين لأفلاطون (Nomoi) — ✅ معتمد
 - `wrk-learned-optimism` — التفاؤل المكتسب: كيف تغير عقلك وحياتك — ✅ معتمد
+- `wrk-lectures-on-philosophy-of-history-hegel` — محاضرات في فلسفة التاريخ لهيغل — ✅ معتمد
 - `wrk-les-nevroses` — الأعصاب والقلق — ✅ معتمد
+- `wrk-letters-concerning-english-nation-voltaire` — رسائل فلسفية (رسائل عن الإنجليز) لفولتير — ✅ معتمد
+- `wrk-letters-from-a-stoic-seneca` — رسائل إلى لوسيليوس في الأخلاق لسينيكا — ✅ معتمد
+- `wrk-leviathan-hobbes` — اللفياثان لتوماس هوبز (Leviathan) — ✅ معتمد
+- `wrk-levine-waking-the-tiger` — كتاب إيقاظ النمر: شفاء الصدمة لبيتر ليفين (1997) — ✅ معتمد
 - `wrk-lewin-resolving-social-conflicts` — حلّ الصراعات الاجتماعية (Resolving Social Conflicts) — ✅ معتمد
+- `wrk-liber-de-causis-pseudo` — كتاب الإيضاح في الخير المحض (Liber de Causis) — ✅ معتمد
 - `wrk-liberated-mind` — العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك — ✅ معتمد
 - `wrk-life-divine` — الحياة الإلهية (The Life Divine) — ✅ معتمد
+- `wrk-linehan-dbt-skills-manual` — دليل تدريب مهارات DBT لمارشا لينهان (1993) — ✅ معتمد
 - `wrk-liquid-love` — الحب السائل: عن هشاشة الروابط الإنسانية — ✅ معتمد
+- `wrk-listening-projective-identification` — الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون) — ✅ معتمد
 - `wrk-lived-time` — الزمن المُعاش — ✅ معتمد
+- `wrk-logical-investigations-husserl` — أبحاث منطقية لإدموند هوسرل (Logische Untersuchungen) — ✅ معتمد
 - `wrk-loneliness-cacioppo` — الوحدة: الطبيعة البشرية والحاجة للترابط الاجتماعي — ✅ معتمد
 - `wrk-loss-sadness-depression` — الفقدان: الحزن والاكتئاب (المجلد الثالث من التعلق والفقدان) — ✅ معتمد
 - `wrk-lost-connections` — الروابط المفقودة: كشف الأسباب الحقيقية غير المُخبَّرة للاكتئاب - وما الذي يساعد حقاً — ✅ معتمد
 - `wrk-loves-executioner` — جلاد الحب وقصص أخرى في العلاج النفسي — ✅ معتمد
 - `wrk-lucifer-effect` — تأثير لوسيفر: كيف يتحول الأخيار إلى أشرار — ✅ معتمد
 - `wrk-lunyu` — المحاورات (لون يو) — ✅ معتمد
+- `wrk-madness-and-civilization-foucault` — تاريخ الجنون في العصر الكلاسيكي لميشيل فوكو — ✅ معتمد
+- `wrk-mafatih-al-ghayb-sadra` — مفاتيح الغيب لصدر الدين الشيرازي — ✅ معتمد
 - `wrk-magic-of-thinking-big` — سحر التفكير بصورة أكبر — ✅ معتمد
+- `wrk-malik-badri-dilemma-muslim-psychologists` — كتاب أزمة علماء النفس المسلمين لمالك بدري (1979) — ✅ معتمد
 - `wrk-man-mistook-wife-hat` — الرجل الذي حسب زوجته قبعة وقصص سريرية أخرى — ✅ معتمد
 - `wrk-mans-search` — الإنسان يبحث عن المعنى — ✅ معتمد
+- `wrk-manzuma-hikma-sabzawari` — منظومة الحكمة وشرحها لملا هادي السبزواري — ✅ معتمد
+- `wrk-marcus-aurelius-meditations` — كتاب التأملات للإمبراطور ماركوس أوريليوس — ✅ معتمد
 - `wrk-martinbaro-psychology-liberation` — علم النفس للتحرير (Psicología de la liberación) — ✅ معتمد
+- `wrk-maslow-motivation-and-personality` — كتاب الدافعية والشخصية لأبراهام ماسلو (1954) — ✅ معتمد
 - `wrk-mating-in-captivity` — التزاوج في الأسر: سيكولوجيا الرغبة في العلاقات الطويلة — ✅ معتمد
+- `wrk-matn-al-aqaid-al-nasafiyya` — العقائد النسفية لنجم الدين النسفي — ✅ معتمد
+- `wrk-matter-and-memory-bergson` — المادة والذاكرة (Matière et Mémoire) - برغسون — ✅ معتمد
+- `wrk-maxims-ptahhotep` — حكم وتعاليم بتاح حتب — ✅ معتمد
+- `wrk-mbt-manual` — دليل العلاج المعرفي القائم على اليقظة الذهنية للاكتئاب (MBCT) — ✅ معتمد
 - `wrk-measurement-intelligence` — قياس الذكاء — ✅ معتمد
 - `wrk-medicinische-psychologie` — علم النفس الطبي — ✅ معتمد
+- `wrk-meditations-marcus-aurelius` — التأملات لماركوس أوريليوس — ✅ معتمد
+- `wrk-meditations-on-first-philosophy-descartes` — تأملات في الفلسفة الأولى لديكارت — ✅ معتمد
 - `wrk-men-are-from-mars` — الرجال من المريخ والنساء من الزهرة — ✅ معتمد
+- `wrk-mencius-text` — كتاب منسيوس (منغ تسي) — ✅ معتمد
+- `wrk-meno-plato` — مينون لأفلاطون في طبيعة الفضيلة والتعلم — ✅ معتمد
+- `wrk-merleau-ponty-phenomenology-perception` — كتاب فينومينولوجيا الإدراك لموريس ميرلوبونتي (1945) — ✅ معتمد
 - `wrk-metaphors-we-live-by` — الاستعارات التي نحيا بها — ✅ معتمد
+- `wrk-metaphysics-aristotle` — الميتافيزيقا لأرسطو (ما بعد الطبيعة) — ✅ معتمد
+- `wrk-metaphysics-of-morals-kant` — ميتافيزيقا الأخلاق لإيمانويل كانط — ✅ معتمد
 - `wrk-milgram-obedience-authority` — الطاعة للسلطة (Obedience to Authority) — ✅ معتمد
+- `wrk-miller-rollnick-motivational-interviewing` — كتاب المقابلة التحفيزية: مساعدة الناس على التغيير لميلر ورولنيك (1991) — ✅ معتمد
+- `wrk-min-al-aqida-ila-al-thawra-hanafi` — من العقيدة إلى الثورة لحسن حنفي — ✅ معتمد
 - `wrk-mind-and-brain` — العقل والدماغ: المرونة العصبية وقوة الإرادة الذهنية — ✅ معتمد
 - `wrk-minderwertigkeit-organen` — دراسة في قصور الأعضاء — ✅ معتمد
 - `wrk-mindful-way-through-depression` — طريقة اليقظة الذهنية للتغلب على الاكتئاب: تحرير نفسك من التعاسة المزمنة — ✅ معتمد
 - `wrk-mindset` — العقلية: علم النفس الجديد للنجاح — ✅ معتمد
+- `wrk-monadology-leibniz` — المونادولوجيا لغوتفريد لايبنتز — ✅ معتمد
 - `wrk-monk-sold-ferrari` — الراهب الذي باع سيارته الفيراري: حكاية خيالية عن تحقيق الرغبات — ✅ معتمد
+- `wrk-monologion-anselm` — مونولوجيون للقديس أنسيلم (Monologion) — ✅ معتمد
 - `wrk-morena-who-shall-survive` — من سيبقى على قيد الحياة؟ (Who Shall Survive?) — ✅ معتمد
 - `wrk-motivation-personality` — الدافعية والشخصية (Motivation and Personality) — ✅ معتمد
 - `wrk-mozi-text` — كتاب مو زي (مو تزو) — ✅ معتمد
+- `wrk-muhassal-afkar-al-mutaqaddimin-razi` — محصل أفكار المتقدمين والمتأخرين لفخر الدين الرازي — ✅ معتمد
+- `wrk-mula-madhyamaka-karika-nagarjuna` — مولامادهياماكاركريكا لناغارجونا — ✅ معتمد
 - `wrk-myth-of-normal` — أسطورة الطبيعي: الصدمة والمرض والشفاء في ثقافة مسمومة — ✅ معتمد
 - `wrk-myth-sisyphus` — أسطورة سيزيف (Le Mythe de Sisyphe) — ✅ معتمد
+- `wrk-naming-and-necessity-kripke` — التسمية والضرورة لسول كريبكي (Naming and Necessity) — ✅ معتمد
 - `wrk-naming-necessity` — التسمية والضرورة (Naming and Necessity) — ✅ معتمد
+- `wrk-naqd-al-fikr-al-dini-al-azm` — نقد الفكر الديني لصادق جلال العظم — ✅ معتمد
 - `wrk-nature-intelligence` — طبيعة الذكاء ومبادئ الإدراك — ✅ معتمد
+- `wrk-negative-dialectics-adorno` — الديالكتيك السلبي لتيودور أدورنو — ✅ معتمد
 - `wrk-nervosen-charakter` — في الشخصية العصابية — ✅ معتمد
 - `wrk-neuroscience-psychotherapy` — علم أعصاب العلاج النفسي: بناء وإعادة بناء الدماغ البشري — ✅ معتمد
+- `wrk-new-essays-on-human-understanding-leibniz` — أبحاث جديدة في الفهم البشري للايبنتز — ✅ معتمد
+- `wrk-nicomachean-ethics` — الأخلاق النيقوماخية لأرسطو — ✅ معتمد
+- `wrk-nietzsche-thus-spoke-zarathustra` — كتاب هكذا تكلم زرادشت لفريدريش نيتشه (1883) — ✅ معتمد
 - `wrk-no-bad-parts` — لا توجد أجزاء سيئة: شفاء الصدمات واستعادة التكامل عبر أنظمة الأسرة الداخلية — ✅ معتمد
-- `wrk-noise-kahneman` — الضوضاء: خلل في الحكم البشري — 🕓 مسودة
+- `wrk-noise-kahneman` — الضوضاء: خلل في الحكم البشري — ✅ معتمد
 - `wrk-nonviolent-communication` — التواصل غير العنيف: لغة الحياة — ✅ معتمد
+- `wrk-novum-organum-bacon` — الأورغانون الجديد لفرانسيس بيكون — ✅ معتمد
 - `wrk-nudge` — سقزة: تحسين القرارات المتعلقة بالصحة والثروة والسعادة — ✅ معتمد
 - `wrk-obedience-to-authority` — الانصياع للسلطة: نظرة تجريبية — ✅ معتمد
 - `wrk-object-relations-1983` — العلاقات بالموضوع في النظرية التحليلية — ✅ معتمد
+- `wrk-of-grammatology-derrida` — في علم الكتابة لجاك دريدا (De la grammatologie) — ✅ معتمد
+- `wrk-ogden-trauma-and-the-body` — كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006) — ✅ معتمد
+- `wrk-on-anger-seneca` — في الغضب لسينيكا (De Ira) — ✅ معتمد
 - `wrk-on-contradiction` — حول التناقض (On Contradiction) — ✅ معتمد
 - `wrk-on-death-and-dying` — عن الموت والاحتضار: ما يجب أن يتعلمه الأطباء والممرضات ورجال الدين والأسر من المحتضرين — ✅ معتمد
+- `wrk-on-generation-and-corruption` — الكون والفساد لأرسطو — ✅ معتمد
+- `wrk-on-liberty-mill` — عن الحرية لجون ستيوارت ميل — ✅ معتمد
+- `wrk-on-shortness-of-life-seneca` — في قصر الحياة لسينيكا (De Brevitate Vitae) — ✅ معتمد
+- `wrk-on-the-genealogy-of-morals-nietzsche` — في جنيالوجيا الأخلاق لفريدريش نيتشه — ✅ معتمد
+- `wrk-on-the-heavens-aristotle` — في السماء لأرسطو (De Caelo) — ✅ معتمد
+- `wrk-on-tranquility-of-mind-seneca` — في طمأنينة النفس لسينيكا (De Tranquillitate Animi) — ✅ معتمد
+- `wrk-one-dimensional-man-marcuse` — الإنسان ذو البعد الواحد لهربرت ماركوزه — ✅ معتمد
 - `wrk-one-minute-manager` — مدير الدقيقة الواحدة — ✅ معتمد
 - `wrk-optimism-bias` — انحياز التفاؤل: جولة في الدماغ المبرمج إيجابياً — ✅ معتمد
+- `wrk-ordinatio-duns-scotus` — الأورديناتيو لجون دانز سكوتس (Opus Oxoniense) — ✅ معتمد
+- `wrk-organon-aristotle` — الأورغانون (منطق أرسطو الكامل) — ✅ معتمد
+- `wrk-orientalism-edward-said` — الاستشراق لإدوارد سعيد (Orientalism) — ✅ معتمد
 - `wrk-orientalism-said` — الاستشراق (Orientalism) — ✅ معتمد
+- `wrk-origin-of-species-darwin` — أصل الأنواع — ✅ معتمد
 - `wrk-outliers` — المتميزون: قصة النجاح — ✅ معتمد
 - `wrk-outline-chinese-philosophy` — مخطط تاريخ الفلسفة الصينية (Outline of the History of Chinese Philosophy) — ✅ معتمد
 - `wrk-outline-psychology-titchener` — مخطّط في علم النفس — ✅ معتمد
+- `wrk-outlines-of-pyrrhonism-sextus` — خطوط عريضة في البيرونية لسكستوس إمبيريكوس — ✅ معتمد
 - `wrk-paradox-of-choice` — مفارقة الاختيار: لماذا يعني المزيد القليل — ✅ معتمد
+- `wrk-parerga-and-paralipomena-schopenhauer` — ملحقات ومحذوفات لأرثر شوبنهاور (Parerga und Paralipomena) — ✅ معتمد
+- `wrk-parmenides-plato` — بارمنيدس لأفلاطون في جدل الواحد والكثير — ✅ معتمد
+- `wrk-passions-of-the-soul-descartes` — انفعالات النفس لديكارت — ✅ معتمد
+- `wrk-pensees-pascal` — خواطر بليز باسكال (Pensées) — ✅ معتمد
 - `wrk-people-skills` — مهارات التعامل مع الناس: كيف تؤكد ذاتك وتستمع للآخرين وتحل النزاعات — ✅ معتمد
+- `wrk-perpetual-peace-kant` — نحو سلام دائم لإيمانويل كانط — ✅ معتمد
 - `wrk-peter-pan-syndrome` — متلازمة بيتر بان: الرجال الذين لم يكبروا قط — ✅ معتمد
+- `wrk-phaedo-plato` — فيدون لأفلاطون في خلود النفس — ✅ معتمد
+- `wrk-phenomenology-of-perception-merleau-ponty` — فينومينولوجيا الإدراك لموريس ميرلوبونتي — ✅ معتمد
+- `wrk-phenomenology-perception-merleau-ponty` — ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي — ✅ معتمد
+- `wrk-philosophical-investigations-wittgenstein` — بحوث فلسفية للودفيغ فيتغنشتاين — ✅ معتمد
 - `wrk-philosophy-mirror-nature` — الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature) — ✅ معتمد
+- `wrk-philosophy-of-liberation-dussel` — فلسفة التحرير لإنريكي دوسيل — ✅ معتمد
+- `wrk-physics-aristotle` — السماع الطبيعي لأرسطو (Physica) — ✅ معتمد
+- `wrk-plato-republic` — كتاب الجمهورية لأفلاطون (حوالي 375 ق.م) — ✅ معتمد
+- `wrk-poetics-aristotle` — فن الشعر لأرسطو (Poetics) — ✅ معتمد
+- `wrk-politics-aristotle` — السياسة لأرسطو (Politika) — ✅ معتمد
 - `wrk-polyvagal-theory-2011` — نظرية بولي فاغال: الأسس العصبية للسلوك الاجتماعي — ✅ معتمد
 - `wrk-polyvagal-theory-therapy` — النظرية العصبية المبهمة في العلاج: إشراك إيقاع التنظيم الذاتي — ✅ معتمد
+- `wrk-popper-open-society` — المجتمع المفتوح وأعداؤه — ✅ معتمد
+- `wrk-porges-polyvagal-theory` — كتاب النظرية العصبية المبهمية لستيفن بورغس (2011) — ✅ معتمد
+- `wrk-posterior-analytics-aristotle` — التحليلات الثانية لأرسطو (Posterior Analytics) — ✅ معتمد
 - `wrk-power-of-habit` — قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل — ✅ معتمد
 - `wrk-power-of-now` — قوة الآن: دليل إلى التنوير الروحي — ✅ معتمد
 - `wrk-power-of-positive-thinking` — قوة التفكير الإيجابي — ✅ معتمد
 - `wrk-power-of-subconscious-mind` — قوة عقلك الباطن — ✅ معتمد
+- `wrk-pragmatism-william-james` — البراغماتية لويليام جيمس (Pragmatism) — ✅ معتمد
+- `wrk-praise-of-folly-erasmus` — مديح الحماقة لديسيديريوس إيراسموس — ✅ معتمد
 - `wrk-praxis-theorie-individualpsychologie` — الممارسة والنظرية في علم النفس الفردي — ✅ معتمد
 - `wrk-predictably-irrational` — اللامنطقية المتوقعة: القوى الخفية التي تشكل قراراتنا — ✅ معتمد
 - `wrk-presence-cuddy` — الحضور: كيف تبرز أفضل ما لديك في أصعب التحديات — ✅ معتمد
 - `wrk-principles-psychology` — مبادئ علم النفس — ✅ معتمد
+- `wrk-prior-analytics-aristotle` — التحليلات الأولى لأرسطو (Prior Analytics) — ✅ معتمد
 - `wrk-prisoners-of-hate` — أسرى الكراهية: الأساس المعرفي للغضب والعدوانية والعنف — ✅ معتمد
+- `wrk-prolegomena-to-any-future-metaphysics-kant` — مقدمات لكل ميتافيزيقا مقبلة لإيمانويل كانط (Prolegomena) — ✅ معتمد
+- `wrk-proslogion-anselm` — بروسلوجيون للقديس أنسيلم من كانتربري — ✅ معتمد
 - `wrk-psycho-cybernetics` — السايكوسبرنتيكس: التحكم النفسي الآلي والصورة الذاتية — ✅ معتمد
 - `wrk-psychologie-empirischen-standpunkt` — علم النفس من المنظور التجريبي — ✅ معتمد
 - `wrk-psychopathologie-alltagslebens` — سيكوباتولوجيا الحياة اليومية — ✅ معتمد
+- `wrk-qawaid-al-aqaid-ghazali` — قواعد العقائد لأبي حامد الغزالي — ✅ معتمد
 - `wrk-question-concerning-technology` — السؤال حول التقنية (Die Frage nach der Technik) — ✅ معتمد
 - `wrk-quiet-2012` — هادئ: قوة الانطوائيين في عالم لا يتوقف عن الكلام — ✅ معتمد
 - `wrk-realm-hungry-ghosts` — في عالم الأشباح الجائعة: مواجهات قريبة مع الإدمان — ✅ معتمد
+- `wrk-reason-emotion-psychotherapy-ellis` — العقل والانفعال في العلاج النفسي — ✅ معتمد
+- `wrk-religion-and-nothingness-nishitani` — الدين والعدم لكيجي نيشيتاني — ✅ معتمد
+- `wrk-religion-within-bounds-of-reason-kant` — الدين في حدود العقل المجرد لإيمانويل كانط — ✅ معتمد
+- `wrk-republic-plato` — الجمهورية لأفلاطون (Politeia) — ✅ معتمد
+- `wrk-rhetoric-aristotle` — الخطابة لأرسطو (Ars Rhetorica) — ✅ معتمد
 - `wrk-righteous-mind` — العقل الصالح: لماذا ينقسم الأخيار حول السياسة والدين — ✅ معتمد
 - `wrk-road-less-traveled` — الطريق الأقل ارتياداً — ✅ معتمد
 - `wrk-rogers-client-centered-1951` — العلاج المتمركز حول العميل (Client-Centered Therapy) — ✅ معتمد
+- `wrk-rogers-client-centered-therapy` — كتاب العلاج المتمحور حول العميل لكارل روجرز (1951) — ✅ معتمد
 - `wrk-rogers-counseling-psychotherapy` — الإرشاد والعلاج النفسي (Counseling and Psychotherapy) — ✅ معتمد
-- `wrk-rorty-philosophy-and-mirror-of-nature` — الفلسفة ومرآة الطبيعة — 🕓 مسودة
+- `wrk-rorty-philosophy-and-mirror-of-nature` — الفلسفة ومرآة الطبيعة — ✅ معتمد
 - `wrk-sadhana-tagore` — سادانا: تحقيق الحياة — ✅ معتمد
+- `wrk-samkhya-karika-ishvarakrishna` — سامخيا كاريكا لإشفاراكريشنا — ✅ معتمد
 - `wrk-sand-county-almanac` — تقويم مقاطعة الرمال (A Sand County Almanac) — ✅ معتمد
+- `wrk-sartre-being-and-nothingness` — كتاب الوجود والعدم لجان بول سارتر (1943) — ✅ معتمد
 - `wrk-scarcity-mullainathan` — الندرة: لماذا يعني القليل جداً الكثير جداً — ✅ معتمد
+- `wrk-schopenhauer-world-as-will` — كتاب العالم كإرادة وتمثل لآرثر شوبنهاور (1818) — ✅ معتمد
+- `wrk-schwartz-internal-family-systems` — كتاب العلاج بنظام الأسرة الداخلية لريتشارد شوارتز (1995) — ✅ معتمد
+- `wrk-science-of-knowledge-fichte` — نظرية العلم لفيخته (Wissenschaftslehre) — ✅ معتمد
+- `wrk-science-of-logic-hegel` — علم المنطق لغيورغ هيغل (Wissenschaft der Logik) — ✅ معتمد
+- `wrk-search-after-truth-malebranche` — البحث عن الحقيقة لنيكولا مالبرانش — ✅ معتمد
 - `wrk-search-authenticity` — البحث عن الأصالة (The Search for Authenticity) — ✅ معتمد
 - `wrk-second-sex` — الجنس الثاني (Le Deuxième Sexe, 1949) — ✅ معتمد
 - `wrk-self-compassion` — الذات المتعاطفة: القوة المثبتة للطف مع نفسك — ✅ معتمد
@@ -2647,35 +3789,103 @@
 - `wrk-sense-and-sensibilia` — الإحساس والبيانات الحسية (Sense and Sensibilia) — ✅ معتمد
 - `wrk-set-boundaries-find-peace` — ضع حدوداً، تجد سلاماً: دليل لاستعادة ذاتك — ✅ معتمد
 - `wrk-seven-principles-marriage` — المبادئ السبعة لنجاح الزواج — ✅ معتمد
+- `wrk-shapiro-emdr-principles` — كتاب علاج EMDR: المبادئ والبروتوكولات لفرانسين شابيرو (2001) — ✅ معتمد
+- `wrk-sharh-usul-al-khamsa-abd-al-jabbar` — شرح الأصول الخمسة للقاضي عبد الجبار — ✅ معتمد
+- `wrk-shobogenzo-dogen` — شوبوجينزو لدوغن زينجي (خزانة عين الدارما الحقيقية) — ✅ معتمد
+- `wrk-shri-bhashya-ramanuja` — شري بهاشيا لرامانوجا — ✅ معتمد
+- `wrk-sic-et-non-abelard` — نعم ولا لبيتر أبيلار (Sic et Non) — ✅ معتمد
 - `wrk-sickness-death` — المرض حتى الموت — ✅ معتمد
+- `wrk-sickness-unto-death-kierkegaard` — المرض حتى الموت لسورين كيركغارد — ✅ معتمد
+- `wrk-simulacra-and-simulation-baudrillard` — المحاكاة والمصطنع لجان بودريار — ✅ معتمد
 - `wrk-six-thinking-hats` — قبعات التفكير الست — ✅ معتمد
 - `wrk-skinner-behavior-organisms` — سلوك الكائن الحي (The Behavior of Organisms) — ✅ معتمد
-- `wrk-slow-productivity` — الإنتاجية البطيئة: الفقدان الطبيعي للإبداع والإنجاز البشري — 🕓 مسودة
+- `wrk-slow-productivity` — الإنتاجية البطيئة: الفقدان الطبيعي للإبداع والإنجاز البشري — ✅ معتمد
+- `wrk-sophist-plato` — السفسطائي لأفلاطون في الوجود واللاوجود — ✅ معتمد
+- `wrk-speculum-of-the-other-woman-irigaray` — مرآة المرأة الأخرى للوس إريغاراي — ✅ معتمد
+- `wrk-spinoza-ethics` — كتاب الأخلاق لباروخ سبينوزا (1677) — ✅ معتمد
+- `wrk-spinoza-tractatus-theologico-politicus` — كتاب رسالة في اللاهوت والسياسة لباروخ سبينوزا (1670) — ✅ معتمد
+- `wrk-spirit-of-the-laws-montesquieu` — روح القوانين لمونتسكيو — ✅ معتمد
 - `wrk-status-anxiety` — قلق السعي إلى المكانة: الشعور بالدونية والبحث عن التقدير — ✅ معتمد
-- `wrk-stolen-focus` — انتباه مسروق: لماذا لا تستطيع التركيز — 🕓 مسودة
+- `wrk-stolen-focus` — انتباه مسروق: لماذا لا تستطيع التركيز — ✅ معتمد
+- `wrk-structural-transformation-public-sphere-habermas` — التحول البنيوي للفضاء العام ليورغن هابرماس — ✅ معتمد
 - `wrk-studien-hysterie` — دراسات في الهستيريا — ✅ معتمد
 - `wrk-stumbling-on-happiness` — العثار في طريق السعادة — ✅ معتمد
+- `wrk-sual-al-akhlaq-taha-abderrahmane` — سؤال الأخلاق لطه عبد الرحمن — ✅ معتمد
+- `wrk-subjection-of-women-mill` — استعباد النساء لجون ستيوارت ميل — ✅ معتمد
 - `wrk-subtle-art` — فن اللامبالاة: لعيش حياة تخالف المألوف — ✅ معتمد
+- `wrk-summa-contra-gentiles-aquinas` — الخلاصة ضد الوثنيين لتوما الإكويني — ✅ معتمد
+- `wrk-summa-logicae-ockham` — خلاصة المنطق لوليم الأوكامي (Summa Logicae) — ✅ معتمد
 - `wrk-summa-theologiae` — الخلاصة اللاهوتية (Summa Theologiae) — ✅ معتمد
+- `wrk-summa-theologiae-aquinas` — الخلاصة اللاهوتية لتوما الإكويني — ✅ معتمد
 - `wrk-superintelligence-bostrom` — الذكاء الخارق (Superintelligence) — ✅ معتمد
+- `wrk-symbolic-forms-cassirer` — فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر — ✅ معتمد
+- `wrk-symposium-plato` — المأدبة لأفلاطون (Symposium) — ✅ معتمد
+- `wrk-system-of-logic-mill` — نسق المنطق لجون ستيوارت ميل (A System of Logic) — ✅ معتمد
+- `wrk-system-of-nature-holbach` — نظام الطبيعة للبارون هولباخ (Système de la Nature) — ✅ معتمد
+- `wrk-system-of-transcendental-idealism-schelling` — نسق المثالية الترنسندنتالية لشيلنغ — ✅ معتمد
+- `wrk-tabsirat-al-adilla-nasafi` — تبصرة الأدلة في أصول الدين لأبي المعين النسفي — ✅ معتمد
+- `wrk-tadbir-al-mutawahhid-bajja` — تدبير المتوحد لابن باجة — ✅ معتمد
+- `wrk-tahafut-al-falasifa-ghazali` — تهافت الفلاسفة لأبي حامد الغزالي — ✅ معتمد
+- `wrk-tahafut-al-tahafut-averroes` — تهافت التهافت لابن رشد — ✅ معتمد
+- `wrk-tahdhib-al-akhlaq-miskawayh` — تهذيب الأخلاق وتطهير الأعراق لمسكويه — ✅ معتمد
+- `wrk-tajrid-al-itiqad-tusi` — تجريد الاعتقاد لنصير الدين الطوسي — ✅ معتمد
+- `wrk-tarikhaniyya-laroui` — مفهوم التاريخانية وتاريخانية العروي — ✅ معتمد
+- `wrk-tawalii-al-anwar-baydawi` — طوالع الأنوار في علم الكلام للبيضاوي — ✅ معتمد
+- `wrk-the-birth-of-tragedy-nietzsche` — مولد التراجيديا لفريدريش نيتشه — ✅ معتمد
+- `wrk-the-concept-of-mind-ryle` — مفهوم العقل لجيلبرت رايل (The Concept of Mind) — ✅ معتمد
+- `wrk-the-gay-science-nietzsche` — العلم الجذل لفريدريش نيتشه (Die fröhliche Wissenschaft) — ✅ معتمد
+- `wrk-the-german-ideology-marx` — الأيديولوجيا الألمانية لماركس وإنجلز — ✅ معتمد
+- `wrk-the-logic-of-scientific-discovery-popper` — منطق الكشف العلمي لكارل بوبر — ✅ معتمد
+- `wrk-the-myth-of-sisyphus-camus` — أسطورة سيزيف لألبير كامو — ✅ معتمد
+- `wrk-the-order-of-things-foucault` — الكلمات والأشياء لميشيل فوكو (Les Mots et les Choses) — ✅ معتمد
+- `wrk-the-postmodern-condition-lyotard` — الوضع ما بعد الحداثي لجان فرانسوا ليوتار — ✅ معتمد
+- `wrk-the-prince-commentary-edition` — شروح ومطولات كتاب الأمير لمكيافيلي — ✅ معتمد
+- `wrk-the-prince-machiavelli` — الأمير لنيكولو مكيافيلي — ✅ معتمد
+- `wrk-the-rebel-camus` — الإنسان المتمرد لألبير كامو (L'Homme révolté) — ✅ معتمد
+- `wrk-the-second-sex-beauvoir` — الجنس الآخر لسيمون دي بوفوار (Le Deuxième Sexe) — ✅ معتمد
 - `wrk-the-secret` — السر: قانون الجذب — ✅ معتمد
+- `wrk-the-social-contract-rousseau` — العقد الاجتماعي لجان جاك روسو — ✅ معتمد
+- `wrk-the-spirit-of-modernity-taha-abderrahmane` — روح الحداثة لطه عبد الرحمن — ✅ معتمد
+- `wrk-the-structure-of-scientific-revolutions-kuhn` — بنية الثورات العلمية لتوماس كوهن — ✅ معتمد
+- `wrk-the-theory-of-communicative-action-habermas` — نظرية الفعل التواصلي ليورغن هابرماس — ✅ معتمد
+- `wrk-the-world-as-will-and-representation-schopenhauer` — العالم إرادة وتمثلاً لأرثر شوبنهاور — ✅ معتمد
+- `wrk-the-wretched-of-the-earth-fanon` — معذبو الأرض لفرانز فانون (Les Damnés de la Terre) — ✅ معتمد
+- `wrk-theaetetus-plato` — ثياتيتوس لأفلاطون في نظرية المعرفة — ✅ معتمد
+- `wrk-theodicy-leibniz` — الثيوديسيا للايبنتز في عدالة الله وحرية الإنسان — ✅ معتمد
+- `wrk-theologico-political-treatise-spinoza` — رسالة في اللاهوت والسياسة لباروخ سبينوزا — ✅ معتمد
+- `wrk-theology-of-aristotle-pseudo` — أثولوجيا أرسطو (المنحول / تاسوعات أفلوطين) — ✅ معتمد
 - `wrk-theory-of-justice` — نظرية العدالة (A Theory of Justice, 1971) — ✅ معتمد
 - `wrk-therapeutic-community` — المجتمع العلاجي (The Therapeutic Community) — ✅ معتمد
 - `wrk-think-again` — فكر مرة أخرى: قوة معرفة ما لا تعرفه — ✅ معتمد
 - `wrk-think-and-grow-rich` — فكر وازدد ثراءً: فلسفة الإنجاز الكلاسيكية — ✅ معتمد
 - `wrk-think-like-a-monk` — فكر كراهب: درب عقلك على السلام والهدف كل يوم — ✅ معتمد
 - `wrk-thinking-fast-slow` — التفكير، السريع والبطيء — ✅ معتمد
+- `wrk-three-dialogues-berkeley` — ثلاث محاورات بين هيلاس وفيلونوس لبيركلي — ✅ معتمد
+- `wrk-thus-spoke-zarathustra-nietzsche` — هكذا تكلم زرادشت لفريدريش نيتشه — ✅ معتمد
+- `wrk-timaeus-plato` — طيماوس لأفلاطون في الكوزمولوجيا — ✅ معتمد
+- `wrk-time-and-free-will-bergson` — مقالة في المعطيات الفورية للوعي (Essai sur les données immédiates de la conscience) - برغسون — ✅ معتمد
 - `wrk-tiny-habits` — العادات الصغيرة: التغييرات الصغيرة التي تغير كل شيء — ✅ معتمد
 - `wrk-tipping-point` — نقطة التحول: كيف يمكن للأشياء الصغيرة أن تحدث فرقاً كبيراً — ✅ معتمد
 - `wrk-todes-body-and-world` — الجسد والعالم — ✅ معتمد
+- `wrk-topics-aristotle` — الجدل لأرسطو (Topica) — ✅ معتمد
 - `wrk-toxic-parents` — الآباء السامون: التغلب على إرثهم المؤلم واستعادة حياتك — ✅ معتمد
 - `wrk-tractatus` — رسالة منطقية-فلسفية (Tractatus Logico-Philosophicus) — ✅ معتمد
+- `wrk-tractatus-logico-philosophicus-wittgenstein` — الرسالة المنطقية الفلسفية لفيتغنشتاين (Tractatus) — ✅ معتمد
+- `wrk-treatise-concerning-principles-berkeley` — مبادئ المعرفة البشرية لجورج بيركلي — ✅ معتمد
+- `wrk-treatise-of-human-nature-hume` — رسالة في الطبيعة البشرية لديفيد هيوم — ✅ معتمد
 - `wrk-tree-of-knowledge` — شجرة المعرفة: الجذور البيولوجية للفهم البشري — ✅ معتمد
+- `wrk-truth-and-method-gadamer` — الحقيقة والمنهج لهانز غيورغ غادامير — ✅ معتمد
 - `wrk-tuesdays-with-morrie` — ثلاثاءات مع موري: رجل عجوز وشاب ودرس الحياة الأعظم — ✅ معتمد
+- `wrk-twilight-of-the-idols-nietzsche` — أفول الأصنام لفريدريش نيتشه (كيف نتفلسف بمطرقة) — ✅ معتمد
 - `wrk-two-dogmas` — نقدان من الوضعية المنطقية (Two Dogmas of Empiricism) — ✅ معتمد
+- `wrk-two-treatises-of-government-locke` — رسالتان في الحكم المدني لجون لوك — ✅ معتمد
 - `wrk-uber-das-gedachtnis` — في الذاكرة — ✅ معتمد
 - `wrk-unwinding-anxiety` — تفكيك القلق: تدريب الدماغ لكسر دوائر الخوف والوسواس والشهوة — ✅ معتمد
 - `wrk-upanishads` — الأوبانيشاد الرئيسية — ✅ معتمد
+- `wrk-utilitarianism-mill` — النفعية لجون ستيوارت ميل — ✅ معتمد
+- `wrk-utopia-thomas-more` — يوتوبيا لتوماس مور (المدينة الفاضلة) — ✅ معتمد
+- `wrk-varieties-of-religious-experience-james` — تنوعات الخبرة الدينية لويليام جيمس — ✅ معتمد
+- `wrk-vimsatika-vijnaptimatrata-vasubandhu` — عشرون بيتاً في الوعي الخالص لفاسوباندو — ✅ معتمد
 - `wrk-vocabulaire-psychanalyse` — معجم التحليل النفسي (Vocabulaire de la Psychanalyse) — ✅ معتمد
 - `wrk-vorlesungen-einfuhrung-psychoanalyse` — محاضرات تمهيدية في التحليل النفسي — ✅ معتمد
 - `wrk-waking-the-tiger` — إيقاظ النمر: شفاء الصدمة — ✅ معتمد
@@ -2683,98 +3893,247 @@
 - `wrk-way-of-the-peaceful-warrior` — طريق المحارب السلمي: كتاب يغير الحياة — ✅ معتمد
 - `wrk-wertz-five-ways-phenomenological-analysis` — خمس طرق للتحليل الفينومينولوجي — ✅ معتمد
 - `wrk-what-we-owe` — ماذا ندين لبعضنا البعض (What We Owe to Each Other) — ✅ معتمد
+- `wrk-white-epston-narrative-means` — كتاب الوسائل السردية للغايات العلاجية لمايكل وايت وديفيد إبستون (1990) — ✅ معتمد
 - `wrk-who-moved-my-cheese` — من حرك قطعة الجبن الخاصة بي؟ طريقة مذهلة للتعامل مع التغيير — ✅ معتمد
 - `wrk-whole-brain-child` — طفل المخ الكامل: 12 استراتيجية ثورية لرعاية عقل طفلك النامي — ✅ معتمد
-- `wrk-why-has-nobody-told-me` — لماذا لم يخبرني أحد بهذا من قبل؟ — 🕓 مسودة
+- `wrk-why-has-nobody-told-me` — لماذا لم يخبرني أحد بهذا من قبل؟ — ✅ معتمد
 - `wrk-why-we-sleep` — لماذا ننام: اكتشف طاقة النوم والأحلام — ✅ معتمد
 - `wrk-why-zebras-dont-get-ulcers` — لماذا لا تصاب الحمر الوحشية بالقرحة: سيكولوجيا وبيولوجيا التوتر — ✅ معتمد
 - `wrk-willpower-baumeister` — قوة الإرادة: إعادة اكتشاف أعظم طاقة بشرية — ✅ معتمد
 - `wrk-winnicott-playing-reality` — اللعب والواقع (Playing and Reality) — ✅ معتمد
+- `wrk-word-and-object-quine` — الكلمة والشيء لويلارد كواين (Word and Object) — ✅ معتمد
+- `wrk-writing-and-difference-derrida` — الكتابة والاختلاف لجاك دريدا — ✅ معتمد
+- `wrk-xunzi-text` — كتاب شونزي الفلسفي — ✅ معتمد
+- `wrk-yoga-sutras-patanjali` — يوغا سوترا لباتانجالي — ✅ معتمد
 - `wrk-you-can-heal-your-life` — يمكنك شفاء حياتك — ✅ معتمد
+- `wrk-zhuangzi-text` — كتاب تشوانغ تسي الفلسفي — ✅ معتمد
 - `wrk-zollikon` — ندوات تسوليكون — ✅ معتمد
 
-## جدل (52)
+## جدل (176)
 
+- `dbt-a-priori-vs-a-posteriori` — جدل المعرفة القبلية مقابل المعرفة البعدية — ✅ معتمد
+- `dbt-abrupt-vs-gradual-enlightenment-chan` — الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي — ✅ معتمد
+- `dbt-acceptance-vs-cognitive-change` — القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي — ✅ معتمد
 - `dbt-adhd-overdiagnosis-overmedication` — جدل الإفراط في تشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه دوائياً — ✅ معتمد
 - `dbt-advaita-vs-dvaita` — أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟ — ✅ معتمد
+- `dbt-aging-psychotherapy` — جِدَل الْعِلَاج النَّفْسِيّ لِـ**الشُّيُوخ** — ✅ معتمد
+- `dbt-ai-personhood-and-moral-status` — الأهلية الأخلاقية والشخصية القانونية للذكاء الاصطناعي — ✅ معتمد
 - `dbt-ambedkar-vs-gandhi-caste` — أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟ — ✅ معتمد
+- `dbt-analytic-synthetic-distinction` — جدل التمييز بين القضايا التحليلية والتركيبية — ✅ معتمد
 - `dbt-anarchism-vs-state` — جدل الفوضوية مع الدولة: هل يمكن الاستغناء عن الدولة؟ — ✅ معتمد
+- `dbt-anatta-vs-atman-brahman` — اللا-ذات البوذية (Anatta) مقابل الذات الكونية الأتمان في الهندوسية — ✅ معتمد
+- `dbt-anthropocentrism-vs-biocentrism-ethics` — المركزية البشرية مقابل المركزية الحيوية البيئية — ✅ معتمد
+- `dbt-antidepressants-efficacy-debate` — جدل الفاعلية البيولوجية لمضادات الاكتئاب وفرضية السيروتونين — ✅ معتمد
+- `dbt-asalat-al-wujud-vs-asalat-al-mahiyya` — أصالة الوجود لملا صدرا مقابل أصالة الماهية للمير داماد والسهروردي — ✅ معتمد
+- `dbt-attachment-stability` — هل أنماط التعلق ثابتة حقاً؟ — ✅ معتمد
 - `dbt-aurobindo-vs-vivekananda` — أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟ — ✅ معتمد
 - `dbt-boss-binswanger` — بينسوانغر أم بوس؟ — ✅ معتمد
+- `dbt-brain-in-a-vat-skepticism` — تجربة الدماغ في الوعاء والشكوكية الراديكالية — ✅ معتمد
+- `dbt-brief-vs-long-term-therapy` — جِدَل الْعِلَاج الْقَصِير ضِد الطَّوِيل: أَيُّهُمَا أَفْضَل؟ — ✅ معتمد
 - `dbt-british-yalom` — البريطانيون ضد التيار الأمريكي — ✅ معتمد
+- `dbt-bundle-theory-vs-substance-self` — نظرية الحزمة في الذات مقابل الجوهر النفسي الفردي — ✅ معتمد
+- `dbt-care-ethics-vs-justice-ethics` — أخلاقيات الرعاية لغيليغان مقابل أخلاقيات العدالة لرولز وكانط — ✅ معتمد
+- `dbt-categorical-vs-dimensional` — جدل التصنيف الفئوي (DSM) مقابل التشخيص الأبعادي (HiTOP / RDoC) — ✅ معتمد
 - `dbt-categorical-vs-dimensional-diagnosis` — التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية — ✅ معتمد
+- `dbt-categorical-vs-dimensional-rdoc-vs-dsm` — جِدَل RDoC (نِظَام بُحُوث) ضِدّ DSM-5 (تَشْخِيص): أَبْعَاد دِمَاغِيَّة أَمْ فِئَات سَرِيرِيَّة؟ — ✅ معتمد
+- `dbt-categorical-vs-hitop-dimensional` — النموذج الفئوي DSM مقابل النموذج الأبعادي الهرمي (HiTOP) — ✅ معتمد
+- `dbt-cbt-third-wave-vs-second-wave` — جِدَل الْمَوْجَة الثَّالِثَة لِـ**CBT** ضِد الثَّانِيّة: تَطَوُّر أَم انْفِصَال؟ — ✅ معتمد
+- `dbt-chemical-imbalance-myth-neuroplasticity` — أسطورة الاختلال الكيميائي مقابل فرضية المرونة العصبية — ✅ معتمد
+- `dbt-cognitive-deficit-vs-distortion` — جِدَل الِاِنْحِرَاف الْمَعْرِفِيّ ضِد التَّشَوُّه الْمَعْرِفِيّ — ✅ معتمد
+- `dbt-cognitivism-vs-non-cognitivism-ethics` — المعرفية الأخلاقية مقابل اللامعرفية والانفعالية — ✅ معتمد
+- `dbt-common-factors-vs-specific-ingredients` — عوامل العلاج المشتركة (طائر الدودو) مقابل التقنيات المحددة للمدارس — ✅ معتمد
+- `dbt-compatibilism-vs-incompatibilism` — التوافقية مقابل اللاتوافقية في الإرادة الحرة — ✅ معتمد
+- `dbt-concept-creep-psychiatry` — جدل التمييع التشخيصي وتوسع تصنيفات الاضطرابات النفسية — ✅ معتمد
 - `dbt-conversion-therapy-harm` — جدل العلاج بالتحويل: مفيد أم ضار؟ — ✅ معتمد
+- `dbt-cosmopolitanism-vs-communitarian-patriotism` — المواطنة الكونية مقابل الوطنية والانتماء الجماعاتي — ✅ معتمد
 - `dbt-cosmopolitanism-vs-nationalism` — جدل الكوزموبوليتية مقابل القومية — ✅ معتمد
+- `dbt-couples-therapy-vs-individual-depression` — جِدَل عِلَاج اِكْتِئَاب زَوْج ضِد فَرْدِيّ — ✅ معتمد
+- `dbt-creation-ex-nihilo-vs-eternity-of-world` — الخلق من العدم مقابل قدم العالم في الفلسفة الوسيطة — ✅ معتمد
 - `dbt-creativity-vs-pathology` — الإبداع مقابل المرض النفسي: قرابة حقيقية أم خرافة؟ — ✅ معتمد
+- `dbt-cult-recovery-methods` — جِدَل طُرُق التَّعَافِي مِنَ «**الثَّقَافَات**» (Cults) — ✅ معتمد
 - `dbt-cultural-bias-iq-testing` — جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة — ✅ معتمد
+- `dbt-decolonial-delinking-vs-global-modernity` — فك الارتباط الديكولونيالي لمينيولو مقابل الحداثة العالمية المتعددة — ✅ معتمد
+- `dbt-deliberative-vs-agonistic-democracy` — الديمقراطية التداولية لهابرماس مقابل الديمقراطية التنازعية لموف — ✅ معتمد
 - `dbt-deliberative-vs-radical-democracy` — جدل التداولية مقابل الراديكالية في الديمقراطية — ✅ معتمد
+- `dbt-deontology-vs-virtue-ethics` — أخلاق الواجب الكانطية مقابل أخلاق الفضيلة الأرسطية — ✅ معتمد
 - `dbt-diagnostic-concept-creep` — جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي في الطب النفسي — ✅ معتمد
+- `dbt-disability-social-model-vs-medical-model` — النموذج الاجتماعي للإعاقة مقابل النموذج الطبي العضوي — ✅ معتمد
+- `dbt-divine-attributes-kalam-tanzih-vs-tashbih` — جدل الصفات الإلهية بين التنزيه والتشبيه والإثبات — ✅ معتمد
+- `dbt-divine-command-theory-vs-autonomous-ethics` — نظرية الأمر الإلهي مقابل الأخلاق العقلانية المستقلة — ✅ معتمد
 - `dbt-ect-efficacy-and-ethics` — جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية — ✅ معتمد
+- `dbt-embodied-cognition-vs-computationalism` — الإدراك المجسد مقابل الحوسبة التمثيلية الكلاسيكية للدماغ — ✅ معتمد
+- `dbt-emdr-vs-cbt` — جِدَل EMDR ضِد CBT لِـ**PTSD** — ✅ معتمد
+- `dbt-empirically-validated-vs-evidence-based` — جِدَل الْعِلَاج بِالْأَدِلَّة التَّجْرِيبِيَّة ضِد الْعِلَاج بِالْأَدِلَّة الْعِلْمِيَّة — ✅ معتمد
+- `dbt-epistemic-injustice-fricker` — الظلم الإبستمولوجي والشهادي والتأويلي لميراندا فريكر — ✅ معتمد
+- `dbt-essentialism-vs-nominalism-gender` — الجوهرانية الجندرية مقابل البنائية الأدائية لجوديث بتلر — ✅ معتمد
 - `dbt-evidence` — هل نطلب أدلة تجريبية؟ — ✅ معتمد
+- `dbt-evidence-based-practice-clinical-decision-making` — جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ — ✅ معتمد
+- `dbt-evidence-based-vs-practice-based-evidence` — جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة ضِدّ الْأَدِلَّة الْقَائِمَة عَلَى الْمَمَارَسَة: أَيُّ طَرَف يَفْتَرِض الْآخَر؟ — ✅ معتمد
+- `dbt-evolutionary-psychology-adaptation-vs-spandrel` — علم النفس التطوري بين التكيف الحتمي والمصادفات البيولوجية — ✅ معتمد
+- `dbt-existential-freedom-vs-structuralist-determinism` — الحرية الوجودية لسارتر مقابل الحتمية البنيوية لليفي-ستراوس — ✅ معتمد
+- `dbt-extended-mind-clark-chalmers` — فرضية العقل الممتد وتخطي حدود الجمجمة (Clark & Chalmers) — ✅ معتمد
 - `dbt-feminist-essentialism-vs-constructionism` — جدل الجوهرية مقابل البنائية في النسوية — ✅ معتمد
 - `dbt-feminist-universalism-vs-particularism` — جدل الكونية مقابل الخصوصية في النسوية — ✅ معتمد
+- `dbt-foundationalism-vs-coherentism` — جدل التأسيسية مقابل الاتساقية في التبرير المعرفي — ✅ معتمد
+- `dbt-four-seven-debate-korean-confucianism` — مناظرة الفصول الأربعة والمشاعر السبعة في الكونفوشية الكورية — ✅ معتمد
+- `dbt-free-will-compatibilism-vs-hard-determinism` — جِدَل التَّوَافُقِيَّة (Compatibilism) ضِدّ الْحَتْمِيَّة الصُّلْبَة (Hard Determinism): هَلِ الْإِرَادَة الْحُرَّة مُتَوَافِقَة مَعَ الْحَتْمِيَّة؟ — ✅ معتمد
+- `dbt-free-will-libertarianism-metaphysical-vs-compatibilist` — جِدَل اللَّيْبِرتَارِيَّة الْمِيتَافِيزِيقِيَّة ضِدّ التَّوَافُقِيَّة: هَلِ الْإِرَادَة الْحُرَّة تَسْتَلْزَم كَسْرًا لِـ**الْحَتْمِيَّة**؟ — ✅ معتمد
+- `dbt-free-will-vs-determinism` — جدل الإرادة الحرة مقابل الحتمية والقدرية — ✅ معتمد
+- `dbt-freewill-neuroscience-libet` — هل حسمت العلوم العصبية مسألة نفي الإرادة الحرة؟ — ✅ معتمد
 - `dbt-gandhi-vs-machiavelli` — غاندي ضد المكيافيلية: هل السياسة الممكنة تقتضي العنف؟ — ✅ معتمد
+- `dbt-general-factor-psychopathology-p` — هل يفسر العامل العام للاعتلال النفسي (P-Factor) تداخل الاضطرابات؟ — ✅ معتمد
+- `dbt-group-vs-individual-therapy` — جِدَل الْعِلَاج الْجَمَاعِيّ ضِد الْفَرْدِيّ: أَيُّهُمَا أَفْضَل؟ — ✅ معتمد
+- `dbt-heinz-dilemma-kohlberg-gilligan` — معضلة هاينز الأخلاقية بين منطق العدالة وأخلاق الرعاية — ✅ معتمد
 - `dbt-hindutva-vs-secularism-india` — هندوتفا ضد العلمانية الهندية: هل العلمانية حياد أم تَغريب ثقافي؟ — ✅ معتمد
+- `dbt-hitop-vs-dsm5-clinical-utility` — جِدَل نَمُوذَج HiTOP الْأَبْعَادِيّ ضِدّ DSM-5-TR الْفَئَوِيّ: أَيُّهُمَا أَكْثَر فَائِدَة سَرِيرِيَّة؟ — ✅ معتمد
 - `dbt-hu-shi-vs-liang-shuming` — هو شي ضد ليانغ شومنغ: عولمة أم هوية كونفوشية؟ — ✅ معتمد
 - `dbt-human-nature-debate` — جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو — ✅ معتمد
+- `dbt-human-rights-universalism-vs-cultural-relativism` — عالمية حقوق الإنسان مقابل الخصوصية والنسبية الثقافية — ✅ معتمد
 - `dbt-humanistic-vs-existential` — الإنسانية في مقابل الوجودية: تكامل أم تعارض؟ — ✅ معتمد
+- `dbt-husn-qubh-rational-ethics-kalam` — الحسن والقبح العقليان بين المعتزلة والأشاعرة — ✅ معتمد
 - `dbt-ibn-maymun-vs-halevi` — ابن ميمون ضد يهوذا اللاوي: العقل الفلسفي أم الوحي التاريخي؟ — ✅ معتمد
+- `dbt-idiographic-vs-nomothetic` — جِدَل الْمَنْهَج الْآحَادِيّ (Idiographic) ضِدّ الْمَنْهَج الْقَانُونِيّ (Nomothetic) فِي عِلْم النَّفْس — ✅ معتمد
+- `dbt-ijtihad-vs-taqlid-islamic-modernism` — الاجتهاد ونبذ التقليد في فكر النهضة والتجديد الإسلامي — ✅ معتمد
+- `dbt-imamate-nass-vs-shura-kalam` — الإمامة والقيادة بين النص والوصية والشورى والاختيار — ✅ معتمد
 - `dbt-individualism` — الفردانية والعمى عن السلطة — ✅ معتمد
+- `dbt-innatism-vs-empiricism` — جدل الفطرية المعرفية مقابل التجريبية الحسية — ✅ معتمد
+- `dbt-internalism-vs-externalism-epistemic` — جدل الداخلية مقابل الخارجية في نظرية المعرفة — ✅ معتمد
+- `dbt-ishraq-vs-mashsha-epistemology` — البرهان المشائي مقابل الذوق الإشراقي والعلم الحضوري — ✅ معتمد
 - `dbt-japan-civilize-vs-asia` — جدل الانضمام إلى الحضارة الغربية (Datsu-A) ضد مساندة آسيا — ✅ معتمد
 - `dbt-laing` — هل الذهان رحلة ذات معنى؟ — ✅ معتمد
 - `dbt-langle-frankl` — لانغله ضد فرانكل — ✅ معتمد
 - `dbt-langle-frankl-meaning` — لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟ — ✅ معتمد
 - `dbt-liberalism-vs-communitarianism` — جدل الليبرالية مقابل الجماعاتية — ✅ معتمد
+- `dbt-libertarianism-vs-egalitarian-liberalism` — الليبرتارية لنوزيك مقابل الليبرالية التوزيعية لرولز — ✅ معتمد
+- `dbt-lucifer-effect-zimbardo-moral-agency` — تأثير لوسيفر والمسؤولية الأخلاقية الفردية والمؤسسية — ✅ معتمد
 - `dbt-mao-maoism-vs-deng-ism` — ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟ — ✅ معتمد
+- `dbt-mary-the-super-scientist-qualia` — مفارقة ماري عالمة الألوان والخبرة الذاتية الكواليا — ✅ معتمد
 - `dbt-meaning-found` — هل المعنى يُكتشَف أم يُصنَع؟ — ✅ معتمد
+- `dbt-medical-model-vs-social-model-mental` — النموذج الطبي الحيوي مقابل النموذج الاجتماعي والسياقي للاضطراب النفسي — ✅ معتمد
+- `dbt-medication-children` — جِدَل دَوَاء الاضْطِرَابات النَّفْسِيّة لِلْأَطْفَال — ✅ معتمد
+- `dbt-medication-discontinuation-depression` — جِدَل إيقاف مُضادّات الِاِكْتِئَاب: هَل «**تَسْتَوْفِر**» (Cure) أَم «**تُسْقِط**» (Relapse)؟ — ✅ معتمد
+- `dbt-medication-vs-psychotherapy-augmentation-treatment-resistant-depression` — جِدَل الِاِكْتِئَاب الْمُقَاوِم لِلْعِلَاج: إِضَافَة دَوَاء ثَانٍ أَمْ تَحْوِيل إِلَى عِلَاج نَفْسِيّ؟ — ✅ معتمد
+- `dbt-medication-vs-psychotherapy-stard-sequencing` — جِدَل التَّسْلْسُل فِي عِلَاج الِاكْتِئَاب: دَوَاء أَوْ عِلَاج نَفْسِيّ أَوْ الْاِئْتِلَاف؟ — ✅ معتمد
+- `dbt-memory-reconsolidation-vs-extinction` — إعادة توطيد ومحو الذاكرة الصادمة مقابل الإخماد والتثبيط السلوكي — ✅ معتمد
+- `dbt-mental-illness-brain-disease` — جِدَل الْمَرَض النَّفْسِيّ كَمَرَض دِمَاغ — ✅ معتمد
+- `dbt-mental-illness-social-construction` — جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ — ✅ معتمد
+- `dbt-mental-illness-vs-problem` — المرض العقلي: مرض أم مشكلة حياتية؟ — ✅ معتمد
+- `dbt-mind-body-dualism-vs-physicalism` — جدل مشكلة العقل والجسد: الثنائية مقابل الفيزيائية والمادية — ✅ معتمد
+- `dbt-mindfulness-clinical-vs-spiritual` — جِدَل الْيَقَظَة كَأَدَاة عِلَاجِيّة ضِد كَمَارَسَة رُوحِيّة — ✅ معتمد
+- `dbt-modernity-break-vs-continuity-arab` — القطيعة التاريخانية للعروي مقابل التواصل التراثي لطه عبد الرحمن — ✅ معتمد
+- `dbt-moral-foundations-pluralism` — التعددية الأخلاقية الفطرية (هايدت) مقابل العقلانية الكانطية والنفعية — ✅ معتمد
+- `dbt-moral-realism-vs-moral-relativism` — الواقعية الأخلاقية مقابل النسبية الأخلاقية والذاتية — ✅ معتمد
+- `dbt-nature-nurture` — جِدَل الطَّبِيعَة وَالتَّرْبِيَة (Nature vs. Nurture): مَن يَصْنَع السُّلُوك؟ — ✅ معتمد
+- `dbt-nature-nurture-behavioral-genetics-vs-constructionism` — جِدَل عِلْم الْوِرَاثَة السُّلُوكِيَّة ضِدّ الِاِتِّجَاه الِاِجْتِمَاعِيّ فِي تَفْسِير الشَّخْصِيَّة وَالذَّكَاء — ✅ معتمد
+- `dbt-nature-nurture-cognitive-modules-vs-domain-general` — جِدَل الْوِحَدَات الْمَعْرِفِيَّة الْفِطْرِيَّة ضِدّ التَّعَلُّم الْعَامّ الْبِيئِيّ: أَيّ تَفْسِير لِـ**سُلُوك** الْإِنْسَان؟ — ✅ معتمد
+- `dbt-nature-nurture-gene-environment-interaction` — جِدَل التَّفَاعُل بَيْن الْجِين وَالْبِيئَة: هَل الْوِرَاثَة قَدَر وَالْبِيئَة مُصَادَفَة؟ — ✅ معتمد
 - `dbt-nature-vs-nurture-intelligence-personality` — جدل الطبيعة والتنشئة في الذكاء والشخصية — ✅ معتمد
+- `dbt-nature-vs-nurture-mencius-xunzi` — فطرة الإنسان بين الخيرية الأصلية لمنسيوس والشر المكتسب لشونزي — ✅ معتمد
+- `dbt-neuroethics-cognitive-enhancement` — التعزيز المعرفي العصبي والعدالة البيولوجية — ✅ معتمد
+- `dbt-new-materialism-vs-linguistic-turn` — المادية الجديدة لكارين باراد ضد هيمنة التحول اللغوي — ✅ معتمد
 - `dbt-nishida-vs-tanabe` — نيشيدا ضد تانابه: الذات المطلقة أم المنطق التَفارقى؟ — ✅ معتمد
+- `dbt-object-oriented-ontology-vs-relationality` — الأنطولوجيا الموجهة للشيء لهارمان ضد اختزال الأشياء في علاقاتها — ✅ معتمد
+- `dbt-panpsychism-vs-physicalism` — البانسايكيزم والوعي الأولي مقابل الفيزيائية الاختزالية — ✅ معتمد
+- `dbt-pharmacogenomics-vs-clinical-judgment-antidepressant` — جِدَل الْفَارْمَاكُوجِينُومِيكْ ضِدّ الْحُكْم السَّرِيرِيّ فِي وَصْف مُضَادَّات الِاكْتِئَاب: اخْتِبَار جِينِيّ أَمْ تَجْرِبَة سَرِيرِيّة؟ — ✅ معتمد
+- `dbt-philosophical-zombies-chalmers` — تجربة الزومبي الفلسفي والفيزيائية العقلية — ✅ معتمد
+- `dbt-positivity-mandate-critique` — جِدَل الْإِيجَابِيّة كَوَاجِب: عِلْم النَّفْس الْإِيجَابِيّ ضِد نَقْد الْوَاجِب — ✅ معتمد
+- `dbt-posthumanism-vs-transhumanism` — ما بعد الإنسانية النقدية مقابل الإنسانية الانتقالية التكنولوجية — ✅ معتمد
+- `dbt-presentism-vs-eternalism-time` — جدل الحاضرية مقابل الأبدية في فلسفة الزمان — ✅ معتمد
+- `dbt-problem-of-universals` — جدل الكليات: الواقعية والتصورية والاسمية — ✅ معتمد
+- `dbt-process-experiential-vs-cbt` — جِدَل عِلَاج الْعَمَلِيَّة التَّجْرِيبِيّة ضِد CBT — ✅ معتمد
 - `dbt-projective-tests-validity` — جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني — ✅ معتمد
 - `dbt-prolonged-grief-disorder-legitimacy` — جدل شرعنة اضطراب الحزن المطوّل — ✅ معتمد
+- `dbt-psychodynamic-evidence` — جِدَل فَعَّالِيَّة الْعِلَاج النَّفْسَحَرَكِيّ: هَل يَعْمَل؟ — ✅ معتمد
+- `dbt-psychodynamic-vs-cbt-effectiveness` — العلاج النفسي الديناميكي مقابل العلاج المعرفي السلوكي: مقارنة الفعالية — ✅ معتمد
 - `dbt-psychology-replication-crisis` — أزمة تكرار النتائج في علم النفس التجريبي — ✅ معتمد
+- `dbt-psychotherapy-ingredients-active` — جِدَل الْمُكَوِّنَات النَّشِطَة لِلْعِلَاج النَّفْسِيّ — ✅ معتمد
+- `dbt-psychotherapy-vs-medication` — جِدَل الْعِلَاج النَّفْسِيّ ضِد الدَّوَاء: أَيُّهُمَا أَفْضَل لِـ**الِاِكْتِئَاب**؟ — ✅ معتمد
 - `dbt-psychotherapy-vs-pharmacotherapy-depression` — جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم — ✅ معتمد
+- `dbt-qadar-free-will-in-kalam` — جدل القدر والجبر والاختيار في علم الكلام الإسلامي — ✅ معتمد
+- `dbt-qualitative-vs-quantitative-psychology` — البحث الكيفي الظاهراتي مقابل القياس الكمي الإحصائي في علم النفس — ✅ معتمد
 - `dbt-rawls-nozick-justice` — جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق — ✅ معتمد
+- `dbt-rdoc-critique` — نموذج RDoC كبديل عن DSM: نقد — ✅ معتمد
+- `dbt-realism-vs-anti-realism-scientific` — جدل الواقعية العلمية مقابل الذرائعية واللاواقعية — ✅ معتمد
 - `dbt-realism-vs-nominalism` — الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟ — ✅ معتمد
 - `dbt-recovered-memory-validity` — جدل الذاكرة المُستعادة: حقيقية أم زائفة؟ — ✅ معتمد
+- `dbt-reductionism-vs-emergentism` — جدل الاختزالية الفيزيائية مقابل النشوئية والكلانية — ✅ معتمد
+- `dbt-reductionism-vs-holism-mental-health` — جِدَل الِاِخْتِزَالِيَّة ضِدّ الْكُلَّانِيَّة فِي الصِّحَّة النَّفْسِيَّة: هَلْ يُمْكِن تَفْسِير الِاِضْطِرَاب النَّفْسِيّ بِـ**الْجِينَات** وَ**الدِّمَاغ** وَحْدَهمَا؟ — ✅ معتمد
+- `dbt-reductionism-vs-holism-psychotherapy-mechanisms-vs-meaning` — جِدَل الِاِخْتِزَالِيَّة ضِدّ الْكُلَّانِيَّة فِي الْعِلَاج النَّفْسِيّ: آلِيَّات عَصَبِيَّة أَمْ مَعْنَى وُجُودِيّ؟ — ✅ معتمد
+- `dbt-relational-vs-individual-therapy` — جِدَل الْعِلَاج الْعَلَائِقِيّ ضِد الْفَرْدِيّ: الْآخَر فِي الْغُرْفَة — ✅ معتمد
 - `dbt-rogers-vs-may-authenticity` — أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة — ✅ معتمد
+- `dbt-rule-utilitarianism-vs-act-utilitarianism` — نفعية القاعدة مقابل نفعية الفعل — ✅ معتمد
+- `dbt-satkaryavada-vs-asatkaryavada` — الوجود المسبق للأثر في العلة بالسامخيا مقابل حدوثه الجديد بالنيايا — ✅ معتمد
 - `dbt-school-or-attitude` — مدرسة أم موقف؟ — ✅ معتمد
+- `dbt-ship-of-theseus-identity` — مفارقة سفينة ثيسيوس والهوية عبر الزمان — ✅ معتمد
 - `dbt-shunyata-vs-brahman` — شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر — ✅ معتمد
+- `dbt-shunyata-vs-vijnana-mahayana` — الفراغ الخالص بالمادهياماكا مقابل حقيقة الوعي باليوغاكارا — ✅ معتمد
+- `dbt-specific-ingredients-wampold-vs-chambless-dodo-bird` — جِدَل الْمَوَادِّ الْخَاصَّة (Chambless) ضِدّ الْعَوَامِل الْمُشْتَرَكَة (Wampold): مَا الَّذِي يُشْفِي فِعْلًا فِي الْعِلَاج النَّفْسِيّ؟ — ✅ معتمد
+- `dbt-speculative-realism-vs-correlationism` — الواقعية المضاربة لميياسو ضد النزعة الترابطية الكانطية — ✅ معتمد
 - `dbt-spiritual` — الروحاني والعلماني — ✅ معتمد
 - `dbt-structures` — هل توجد بنى وجودية ثابتة؟ — ✅ معتمد
+- `dbt-substance-vs-process-ontology` — أنطولوجيا الجوهر الثابت مقابل أنطولوجيا الصيرورة والعملية — ✅ معتمد
+- `dbt-swampman-davidson-teleosemantics` — تجربة رجل المستنقع لديفيدسون ودلالات التاريخ السببي — ✅ معتمد
 - `dbt-tagore-vs-gandhi` — طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟ — ✅ معتمد
+- `dbt-teleporter-paradox-parfit` — مفارقة النقل الآني والهوية الشخصية لديريك بارفيت — ✅ معتمد
+- `dbt-therapist-effects-treatment-effects` — جِدَل تَأْثِيرَات الْمُعَالِج ضِد تَأْثِيرَات الْعِلَاج — ✅ معتمد
 - `dbt-thomism-vs-scotism` — التوماوية في مقابل السكوتية: العقل أم الإرادة؟ — ✅ معتمد
 - `dbt-trans-exclusionary-radical-feminism` — جدل النسوية الراديكالية واستبعاد الترانس — ✅ معتمد
+- `dbt-trauma-focused-vs-present-focused` — جِدَل التَّركِيز عَلَى الصَّدْمَة ضِد التَّركِيز عَلَى الْحَاضِر — ✅ معتمد
+- `dbt-trauma-memory-repression` — هل يمكن كبت ذكريات الصدمة؟ — ✅ معتمد
+- `dbt-trauma-narrative-vs-medical-model` — جِدَل نَمُوذَج السَّرْد ضِد النَّمُوذَج الطِّبِّيّ فِي عِلَاج الصَّدْمَة — ✅ معتمد
+- `dbt-turath-vs-hadatha-arab-thought` — الأصالة والمعاصرة وجدل التراث والحداثة في الفكر العربي — ✅ معتمد
 - `dbt-unconscious` — هل يوجد لاوعي؟ — ✅ معتمد
 - `dbt-verification-vs-falsification` — التحقق أم التفنيد: أيهما معيار العلمية؟ — ✅ معتمد
 - `dbt-violent-media-child-aggression` — جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال — ✅ معتمد
+- `dbt-virtue-ethics-vs-consequentialism-ai` — أخلاق الفضيلة مقابل العواقبية في حوكمة الذكاء الاصطناعي — ✅ معتمد
+- `dbt-wahdat-al-wujud-vs-wahdat-al-shuhud` — وحدة الوجود لابن عربي مقابل وحدة الشهود للسرهندي — ✅ معتمد
 
-## تيار (129)
+## تيار (234)
 
 - `br-aba-autism` — تحليل السلوك التطبيقي للتوحد (ABA) — ✅ معتمد
 - `br-abft` — العلاج الأسري المرتكز على التعلق (ABFT) — ✅ معتمد
 - `br-abstinence-vs-harm-reduction` — الامتناع الكامل مقابل الحد من الضرر — ✅ معتمد
 - `br-adlerian` — علم النفس الفردي الأدلري — ✅ معتمد
+- `br-advaita-vedanta-classical` — الأدفايتا فيدانتا الكلاسيكية — الفيدانتا — ✅ معتمد
 - `br-advanced-aba-prt-vb` — ABA المتقدم (PRT و Verbal Behavior) — ✅ معتمد
+- `br-aedp-applied` — AEDP التطبيقي: علاج الصدمات المعقدة في العيادات — ✅ معتمد
 - `br-affective-neuroscience-informed` — العلاج المستنير بعلم الأعصاب الوجداني — ✅ معتمد
 - `br-african-centered-psychology` — علم النفس الإفريقي المتمركز (نوبلز وأكبر) — ✅ معتمد
 - `br-aggression-treatment` — علاج العدوان — ✅ معتمد
 - `br-ai-chatbot-therapy` — العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية — ✅ معتمد
 - `br-alchemical-psychology` — علم النفس الألكيميائي (هيلمان) — ✅ معتمد
+- `br-american-transcendentalism` — التجاوزية الأمريكية وفلسفة الطبيعة — التجاوزية — ✅ معتمد
 - `br-antipsychiatry` — التيار المضاد للطب النفسي — ✅ معتمد
 - `br-archetypal` — علم النفس الأركيتايبي — ✅ معتمد
+- `br-aristotelianism-early-peripatetic` — المشائية المبكرة — المدرسة المشائية — ✅ معتمد
+- `br-aristotelianism-late-hellenistic` — المشائية الهلينستية وشراح أرسطو — المدرسة المشائية — ✅ معتمد
+- `br-asharism-early` — الأشعرية المبكرة — المدرسة الأشعرية — ✅ معتمد
+- `br-asharism-late-philosophical` — الأشعرية المتأخرة الفلسفية — الأشعرية — ✅ معتمد
+- `br-attachment-theory` — نظرية التعلق (Attachment Theory) — ✅ معتمد
 - `br-biodynamic-psychology` — علم النفس البيودينامي والتدليك الحركي (بويسن) — ✅ معتمد
 - `br-bioenergetic-analysis` — التحليل الطاقي الحيوي (لوين) — ✅ معتمد
 - `br-bionian` — مدرسة بيون في التحليل النفسي — ✅ معتمد
 - `br-bodynamic-analysis` — التحليل البودينامي وتطور العضلات — ✅ معتمد
+- `br-bowen-systems` — العلاج الأسري بالأنساق (Bowen Family Systems) — ✅ معتمد
 - `br-brief-strategic-therapy` — العلاج القصير الاستراتيجي — ✅ معتمد
 - `br-british` — الوجودي-الظاهراتي البريطاني — ✅ معتمد
+- `br-british-empiricism-classical` — التجريبية البريطانية الكلاسيكية — التجريبية — ✅ معتمد
 - `br-budapest-berlin` — مدرسة بودابست وبرلين التحليلية التاريخية — ✅ معتمد
+- `br-buddhist-logic-pramana` — المنطق ونظرية المعرفة البوذية (البرامانا) — ✅ معتمد
+- `br-cartesianism-orthodox` — الديكارتية الأرثوذكسية والعقلانية — الديكارتية — ✅ معتمد
 - `br-case-management` — إدارة الحالات — ✅ معتمد
 - `br-cb-sex-therapy` — العلاج الجنسي المعرفي السلوكي — ✅ معتمد
+- `br-charvaka-lokayata-materialism` — المادية اللوكاياتية — مدرسة شارفاكا — ✅ معتمد
 - `br-child-psychoanalysis` — التحليل النفسي للأطفال — ✅ معتمد
+- `br-christian-patristics-greek` — الآبائية المسيحية الشرقية واليونانية — الآبائية — ✅ معتمد
+- `br-christian-patristics-latin` — الآبائية المسيحية الغربية واللاتينية — الآبائية — ✅ معتمد
 - `br-classical-behaviorism` — السلوكية الكلاسيكية — ✅ معتمد
+- `br-classical-marxism` — الماركسية الكلاسيكية والمادية التاريخية — الماركسية — ✅ معتمد
+- `br-classical-pragmatism` — البراغماتية الكلاسيكية — المدرسة البراغماتية — ✅ معتمد
 - `br-classical-psychoanalysis` — التحليل النفسي الفرويدي الكلاسيكي — ✅ معتمد
+- `br-classical-utilitarianism-bentham-mill` — النفعية الكلاسيكية التشريعية والليبرالية — النفعية — ✅ معتمد
 - `br-clinical-hypnotherapy` — التنويم العلاجي السريري — ✅ معتمد
+- `br-confucianism-early-pre-qin` — الكونفوشية الكلاسيكية ما قبل تشين — الكونفوشية — ✅ معتمد
 - `br-constructivist-cognitive` — العلاج المعرفي البنائي — ✅ معتمد
 - `br-control-mastery` — نظرية السيطرة والإتقان — ✅ معتمد
 - `br-conversion-therapy` — العلاج بالتحويل (Reparative Therapy) — ✅ معتمد
@@ -2782,58 +4141,116 @@
 - `br-critical-psychoanalysis` — التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي) — ✅ معتمد
 - `br-curanderismo` — الشفاء الشعبي (Curanderismo) — ✅ معتمد
 - `br-cyclical-psychodynamics` — الديناميات النفسية الدائرية — ✅ معتمد
+- `br-daoism-classical-lao-zhuang` — الداووية الفلسفية الكلاسيكية (لاو-تشوانغ) — ✅ معتمد
+- `br-daoism-xuanxue-neo-daoism` — الداووية الجديدة: التعلم الغامض (شوان شيويه) — ✅ معتمد
 - `br-daseins` — التحليل الوجودي والدازاين — ✅ معتمد
 - `br-ddp` — العلاج النفسي النمائي الثنائي (DDP) — ✅ معتمد
 - `br-decolonizing-therapy` — نزع استعمار العلاج النفسي (دوران ويلو بيرد) — ✅ معتمد
 - `br-digital-therapeutics` — العلاجات الرقمية — ✅ معتمد
 - `br-discernment-counseling` — الإرشاد التمييزي (Discernment Counseling) — ✅ معتمد
 - `br-discursive-psychology` — علم النفس الخطابي (بوتر وويذرل) — ✅ معتمد
+- `br-dvaita-vedanta-classical` — الدفايتا فيدانتا — الفيدانتا الثنائية التعددية — ✅ معتمد
 - `br-dynamic-couples-family-therapy` — العلاج الديناميكي للأزواج والأسرة — ✅ معتمد
 - `br-ego-psychology` — علم نفس الأنا — ✅ معتمد
 - `br-embodied-cognition-therapy` — مقاربات الإدراك المتجسد — ✅ معتمد
 - `br-embodied-relational-therapy` — العلاج العلائقي المجسد (ERT) — ✅ معتمد
-- `br-existential-humanistic-american` — الإنساني-الوجودي الأمريكي (شنايدر، كريك) — 🕓 مسودة
+- `br-emdr-protocol` — بروتوكول EMDR القياسي — ✅ معتمد
+- `br-epicureanism-garden` — أبيقورية الحديقة الكلاسيكية — المدرسة الأبيقورية — ✅ معتمد
+- `br-epicureanism-roman` — الأبيقورية الرومانية والإيطالية — المدرسة الأبيقورية — ✅ معتمد
+- `br-existential-humanistic-american` — الإنساني-الوجودي الأمريكي (شنايدر، كريك) — ✅ معتمد
 - `br-expressive-arts-therapy` — الفنون التعبيرية التعددية (Intermodal Expressive Arts) — ✅ معتمد
+- `br-falsafa-mashshaiyya-eastern` — المشائية الإسلامية المشرقية — الفلسفة المشائية — ✅ معتمد
+- `br-falsafa-mashshaiyya-western-andalusian` — المشائية الأندلسية والمغربية — الفلسفة المشائية الإسلامية — ✅ معتمد
 - `br-family-sandplay` — علاج الأسر الرملية — ✅ معتمد
 - `br-feminist-therapy` — العلاج النفسي النسوي — الإنسانية وما بعدها — ✅ معتمد
 - `br-fft` — العلاج الأسري الوظيفي (FFT) — ✅ معتمد
+- `br-french-enlightenment-encyclopedists` — التنوير الفرنسي والموسوعيون — التنوير — ✅ معتمد
 - `br-french-psychoanalysis` — مدرسة التحليل النفسي الفرنسية — ✅ معتمد
 - `br-functional-contextualism-rft` — السياقية الوظيفية ونظرية إطار العلاقات (RFT) — ✅ معتمد
 - `br-general-systems-cybernetics` — نظرية الأنساق العامة والسيبرنطيقا — ✅ معتمد
+- `br-german-idealism-fichtean` — المثالية الذاتية الفيختية — المثالية الألمانية — ✅ معتمد
+- `br-german-idealism-hegelian` — المثالية الهيغلية المطلقة — المثالية الألمانية — ✅ معتمد
+- `br-german-idealism-schellingian` — المثالية الموضوعية وفلسفة الطبيعة الشيلنغية — ✅ معتمد
 - `br-gestalt-berlin` — علم النفس الجشطالتي (مدرسة برلين) — ✅ معتمد
 - `br-gestalt-theoretical-psychotherapy` — العلاج النفسي الجشطالتي النظري (GTP) — ✅ معتمد
 - `br-gestalt-therapy` — علاج الجشطالت — ✅ معتمد
 - `br-glasser-reality-therapy` — علاج الواقع ونظرية الاختيار (غلاسر) — ✅ معتمد
 - `br-group-psychoanalysis` — التحليل النفسي الجماعي وتحليل المجموعات — ✅ معتمد
+- `br-haskalah-jewish-enlightenment` — الهسكلاه (التنوير الفلسفي اليهودي) — التنوير — ✅ معتمد
+- `br-hikmat-mutaaliya-isfahan` — الحكمة المتعالية لمدرسة أصفهان — الحكمة المتعالية — ✅ معتمد
+- `br-hikmat-mutaaliya-qom-contemporary` — الحكمة المتعالية المعاصرة بمدرسة قم — الحكمة المتعالية — ✅ معتمد
+- `br-huayan-interpenetration` — الهوايان وشبكة إندرا — البوذية الصينية — ✅ معتمد
 - `br-hullian-behaviorism` — السلوكية الهالية ونظرية خفض الدافع — ✅ معتمد
 - `br-humanistic` — الإنساني-الوجودي الأمريكي — ✅ معتمد
+- `br-ibadi-kalam-rustamid-oman` — علم الكلام الإباضي — الكلام الإباضي — ✅ معتمد
 - `br-ibp` — العلاج النفسي التكاملي للجسد (IBP) — ✅ معتمد
+- `br-ifs-clinical-applications` — IFS في التطبيقات السريرية: علاج اضطرابات الشخصية — ✅ معتمد
+- `br-ifs-protocol` — بروتوكول IFS — ✅ معتمد
+- `br-imami-theology-hilla-philosophical` — الكلام الإمامي الفلسفي لمدرسة الحلة ومراغة — ✅ معتمد
+- `br-imami-theology-qom-baghdad` — الكلام الإمامي لمدرستي قم وبغداد — الكلام الإمامي — ✅ معتمد
 - `br-independents` — مدرسة الإندبندنتس / الوسط البريطانية — ✅ معتمد
 - `br-integrative-psychoanalysis` — التحليل النفسي التكاملي — ✅ معتمد
 - `br-interpersonal-neurobiology` — علم الأحياء العصبي البيني-الشخصي (IPNB) — ✅ معتمد
 - `br-intersectional-feminist` — علم النفس النسوي التقاطعي — ✅ معتمد
 - `br-intersubjective-psychoanalysis` — النظرية البين-ذاتية في التحليل النفسي — ✅ معتمد
+- `br-irfan-nazari-akbari` — العرفان النظري الأكبري — التصوف الفلسفي — ✅ معتمد
+- `br-irfan-shuhudi-sirhindi` — العرفان الشهودي الإصلاحي — التصوف الفلسفي — ✅ معتمد
+- `br-ishraq-classical` — الإشراقية الكلاسيكية — المدرسة الإشراقية — ✅ معتمد
+- `br-ishraq-commentators` — شراح ومجددو الإشراق — المدرسة الإشراقية — ✅ معتمد
 - `br-islamic-positive-psychology` — علم النفس الإيجابي الإسلامي — ✅ معتمد
+- `br-istdp-core-techniques` — تقنيات ISTDP الجوهرية — ✅ معتمد
+- `br-jainism-digambara-philosophy` — الفلسفة الجاينية الديغامبارية — الجاينية — ✅ معتمد
+- `br-jainism-shvetambara-philosophy` — الفلسفة الجاينية الشفيتامبارية — الجاينية — ✅ معتمد
+- `br-jewish-philosophy-rationalist-averroist` — الفلسفة اليهودية العقلانية والرشدية الوسيطة — ✅ معتمد
 - `br-jungian` — التحليلية اليونغية — ✅ معتمد
+- `br-kabbalah-lurianic-theosophy` — القبالة اللوريانية الفلسفية — القبالة — ✅ معتمد
 - `br-kleinian` — المدرسة الكلاينية — ✅ معتمد
+- `br-korean-silhak-practical` — السيلهاك والتعلم العملي الكوري — الفلسفة الكورية — ✅ معتمد
+- `br-kyoto-school-first-generation` — مدرسة كيوتو: الجيل التأسيسي — مدرسة كيوتو — ✅ معتمد
 - `br-lacanian` — التحليل النفسي اللاكاني وما بعد لاكان — ✅ معتمد
+- `br-legalism-fajia-qin` — الشرعية والقانونية الصينية (فاجيا) — مدرسة الفاجيا — ✅ معتمد
+- `br-leibnizian-wolffian-enlightenment` — الفلسفة اللايبنتزية-الفولفية — التنوير الألماني — ✅ معتمد
 - `br-lgbtq-counseling` — الإرشاد الخاص بالأقليات الجنسية والجندرية (LGBTQ+ Counseling) — ✅ معتمد
 - `br-liberation-psychology` — علم نفس التحرير (مارتين-بارو) — ✅ معتمد
+- `br-logical-atomism-early-analytic` — الذرية المنطقية وفلسفة التحليل المبكرة — ✅ معتمد
+- `br-logical-positivism-vienna-circle` — الوضعية المنطقية وحلقة فيينا — الفلسفة التحليلية — ✅ معتمد
 - `br-logotherapy` — العلاج بالمعنى والتحليل الوجودي — ✅ معتمد
+- `br-madhyamaka-prasangika` — مادهياماكا برَسانغيكا — مدرسة مادهياماكا — ✅ معتمد
+- `br-madhyamaka-svatantrika` — مادهياماكا سفاتانتريكا — مدرسة مادهياماكا — ✅ معتمد
+- `br-maturidism-samarqand` — الماتريدية السمرقندية الكلاسيكية — المدرسة الماتريدية — ✅ معتمد
+- `br-mbct-program-structure` — بنية برنامج MBCT — ✅ معتمد
 - `br-medical-model-addiction` — النموذج الطبي للإدمان مقابل نموذج المرض المزمن — ✅ معتمد
 - `br-ml-personalized-therapy` — العلاج المخصّص بالتعلّم الآلي — ✅ معتمد
 - `br-modern-conflict` — نظرية الصراع الحديثة — التحليل النفسي — ✅ معتمد
+- `br-mohism-logical-late` — الموهية المتأخرة والمنطق — المدرسة الموهية — ✅ معتمد
 - `br-mst` — العلاج متعدد الأنظمة (MST) — ✅ معتمد
+- `br-mutazila-baghdad` — مدرسة بغداد الكلامية — المعتزلة — ✅ معتمد
+- `br-mutazila-basra` — مدرسة البصرة الكلامية — المعتزلة — ✅ معتمد
+- `br-navya-nyaya-new-logic` — النافيا-نيايا (المنطق الهندي الجديد) — مدرسة النيايا — ✅ معتمد
 - `br-neo-freudian` — الفرويدية الجديدة والتحليل البيني-الشخصي — ✅ معتمد
+- `br-neo-kantianism-baden` — الكانطية الجديدة: مدرسة بادن القيمية والثقافية — ✅ معتمد
+- `br-neo-kantianism-marburg` — الكانطية الجديدة: مدرسة ماربورغ المنطقية — ✅ معتمد
 - `br-neobehaviorism` — السلوكية الجديدة (النيوسلوكية) — ✅ معتمد
+- `br-neoconfucianism-lixue-cheng-zhu` — الكونفوشية الجديدة: مدرسة المبدأ (لي شوي) — الكونفوشية — ✅ معتمد
+- `br-neoconfucianism-xinxue-lu-wang` — الكونفوشية الجديدة: مدرسة العقل والقلب (شين شوي) — ✅ معتمد
+- `br-neoplatonism-alexandrian` — الأفلاطونية المحدثة الإسكندرانية — الأفلاطونية المحدثة — ✅ معتمد
+- `br-neoplatonism-athenian` — الأفلاطونية المحدثة الأثينية — الأفلاطونية المحدثة — ✅ معتمد
+- `br-neoplatonism-roman` — الأفلاطونية المحدثة الرومانية — الأفلاطونية المحدثة — ✅ معتمد
+- `br-neoplatonism-syrian` — الأفلاطونية المحدثة السورية — الأفلاطونية المحدثة — ✅ معتمد
 - `br-neurodiversity-affirming` — الإرشاد التأكيدي للتنوّع العصبي — ✅ معتمد
 - `br-neuropsychoanalysis` — التحليل النفسي العصبي — ✅ معتمد
 - `br-nlp-systemic` — البرمجة اللغوية العصبية (NLP) — ✅ معتمد
+- `br-nyaya-classical-prachina` — النيايا القديمة — مدرسة النيايا الهندية — ✅ معتمد
+- `br-occasionalism-classical` — الأوكازيونية الكلاسيكية والمناسبة — الأوكازيونيالية — ✅ معتمد
+- `br-ordinary-language-philosophy-oxford` — فلسفة اللغة العادية وأكسفورد — الفلسفة التحليلية — ✅ معتمد
 - `br-pcit` — العلاج بتفاعل الوالد-الطفل (PCIT) — ✅ معتمد
 - `br-peer-support` — الدعم النظير — ✅ معتمد
 - `br-performance-psychology` — علم نفس الأداء — ✅ معتمد
 - `br-person-centered` — العلاج المتمركز حول العميل (روجرز) — ✅ معتمد
 - `br-personal-construct-psychology` — سيكولوجيا الأطر الشخصية (جورج كيلي) — ✅ معتمد
+- `br-platonism-middle-academy` — الأكاديمية الوسطى الشكية — الأكاديمية الأفلاطونية — ✅ معتمد
+- `br-platonism-new-academy` — الأكاديمية الجديدة الاحتمالية — الأكاديمية الأفلاطونية — ✅ معتمد
+- `br-platonism-old-academy` — الأكاديمية القديمة — الأكاديمية الأفلاطونية — ✅ معتمد
 - `br-positive-disintegration` — نظرية التفكك الإيجابي (دابروفسكي) — ✅ معتمد
 - `br-positive-psychology` — علم النفس الإيجابي — ✅ معتمد
 - `br-predictive-processing-informed` — العلاج المستنير بالمعالجة التوقعية — ✅ معتمد
@@ -2847,7 +4264,12 @@
 - `br-psychoeducation` — التثقيف النفسي — ✅ معتمد
 - `br-psychosynthesis` — التركيب النفسي (أساجيولي) — ✅ معتمد
 - `br-psychotherapy-intellectual-disability` — العلاج النفسي للإعاقة الذهنية — ✅ معتمد
+- `br-pure-land-jodo-shinshu` — الأرض الطاهرة وجودو شينشو — البوذية اليابانية — ✅ معتمد
 - `br-purposive-behaviorism` — السلوكية الغائية والمعرفية المبكرة (تولمان) — ✅ معتمد
+- `br-purva-mimamsa-bhatta` — الميمامسا البهاتية — مدرسة الميمامسا — ✅ معتمد
+- `br-purva-mimamsa-prabhakara` — الميمامسا البرابهاكرية — مدرسة الميمامسا — ✅ معتمد
+- `br-pyrrhonism-early` — الشك البيروني المبكر — الشك البيروني — ✅ معتمد
+- `br-pyrrhonism-systemic-empiric` — الشك البيروني النسقي الإمبيريقي — الشك البيروني — ✅ معتمد
 - `br-radical-behaviorism` — السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA) — ✅ معتمد
 - `br-recovered-memory-movement` — حركة الذاكرة المُستعادة العلاجية — ✅ معتمد
 - `br-recovery-oriented` — الممارسة الموجَّهة نحو التعافي — ✅ معتمد
@@ -2856,9 +4278,16 @@
 - `br-relational-gestalt` — الجشطالت العلائقي المعاصر — ✅ معتمد
 - `br-relational-psychoanalysis` — التحليل النفسي العلائقي الأمريكي — ✅ معتمد
 - `br-restorative-justice` — العدالة التصالحية — ✅ معتمد
+- `br-samkhya-classical` — السامخيا الكلاسيكية الثنائية — مدرسة السامخيا — ✅ معتمد
+- `br-scholasticism-franciscan-scotist` — السكولاستية الفرنسيسكانية السكوتية — السكولاستية — ✅ معتمد
+- `br-scholasticism-high-thomist` — السكولاستية التوماوية العليا — السكولاستية — ✅ معتمد
+- `br-scholasticism-nominalist-via-moderna` — السكولاستية الاسمية والطريق الحديث (Via Moderna) — ✅ معتمد
+- `br-scholasticism-second-salamanca` — السكولاستية الثانية ومدرسة سلامنكا — السكولاستية — ✅ معتمد
 - `br-schultz-hencke` — التحليل النفسي الجديد (شولتز-هينكه) — ✅ معتمد
+- `br-scottish-enlightenment-common-sense` — تنوير اسكتلندا وفلسفة الحس المشترك — الحس المشترك — ✅ معتمد
 - `br-self-actualization-maslow` — علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو) — ✅ معتمد
 - `br-self-psychology` — علم نفس الذات — ✅ معتمد
+- `br-sensorimotor-trauma-applications` — العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة — ✅ معتمد
 - `br-sensory-integration` — التكامل الحسي — ✅ معتمد
 - `br-serious-games-therapy` — العلاج بالألعاب الإلكترونية / الألعاب الجادة — ✅ معتمد
 - `br-sex-therapy` — العلاج الجنسي — ✅ معتمد
@@ -2868,19 +4297,35 @@
 - `br-social-learning-theory` — نظرية التعلم الاجتماعي والمعرفي — ✅ معتمد
 - `br-sotp` — علاج مرتكبي العنف الجنسي (SOTP) — ✅ معتمد
 - `br-spinelli-phenomenological` — العلاج الظاهراتي (سبينيلّي) — ✅ معتمد
+- `br-spinozism-monism` — السبينوزية الأحادية والحلولية الطبيعية — السبينوزية — ✅ معتمد
 - `br-sport-psychology` — علم نفس الرياضة — ✅ معتمد
+- `br-stoicism-early` — الرواقية القديمة — المدرسة الرواقية — ✅ معتمد
+- `br-stoicism-late-roman` — الرواقية الرومانية المتأخرة — المدرسة الرواقية — ✅ معتمد
+- `br-stoicism-middle` — الرواقية الوسطى — المدرسة الرواقية — ✅ معتمد
+- `br-structural-family` — العلاج الأسري البنيوي (Structural Family Therapy) — ✅ معتمد
 - `br-teacch` — TEACCH — ✅ معتمد
 - `br-teletherapy` — العلاج عن بُعد / العلاج عبر الإنترنت — ✅ معتمد
 - `br-therapeutic-risk-assessment` — تقييم المخاطر العلاجي — ✅ معتمد
 - `br-theraplay` — Theraplay (العلاج بالألعاب العلائقي) — ✅ معتمد
+- `br-tiantai-lotus-philosophy` — التيانتاي وفلسفة سوترا اللوتس — البوذية الصينية — ✅ معتمد
+- `br-tibetan-gelug` — الغيلوغ التبتية (أصحاب القبعات الصفر) — البوذية التبتية — ✅ معتمد
+- `br-tibetan-nyingma-dzogchen` — النينغما التبتية ودزوغتشن — البوذية التبتية — ✅ معتمد
 - `br-transactional-analysis` — تحليل المعاملات (TA) — ✅ معتمد
 - `br-transpersonal-psychology` — علم النفس عبر الشخصي (القوة الرابعة) — ✅ معتمد
 - `br-ubuntu-psychology` — علم نفس الأوبونتو — ✅ معتمد
 - `br-ultra-brief-psychotherapy` — العلاج فائق القصر — ✅ معتمد
+- `br-vaisheshika-classical` — الفايشيشيكا الذرية الكلاسيكية — مدرسة الفايشيشيكا — ✅ معتمد
 - `br-vegetotherapy-orgonomy` — العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية) — ✅ معتمد
+- `br-vishishtadvaita-classical` — الفيشيشتادفايتا — فيدانتا اللا-اثنانية الموصوفة — ✅ معتمد
 - `br-vr-therapy` — العلاج بالواقع الافتراضي — ✅ معتمد
+- `br-yoga-classical-raja` — الراجا يوغا الفلسفية — مدرسة اليوغا — ✅ معتمد
+- `br-yogacara-classical` — يوغاكارا الوعي الخالص — مدرسة يوغاكارا — ✅ معتمد
+- `br-young-hegelians-left` — هيغليو اليسار والنقد الراديكالي — الهيغلية — ✅ معتمد
+- `br-zaidi-kalam-hadawi` — الكلام الزيدي الهادوي — الكلام الزيدي — ✅ معتمد
+- `br-zen-rinzai` — الرينزاي زن — البوذية اليابانية — ✅ معتمد
+- `br-zen-soto-classical` — زن سوتو الكلاسيكي — البوذية اليابانية — ✅ معتمد
 
-## مدرسة (345)
+## مدرسة (369)
 
 - `sch-abhidharma` — مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا) — ✅ معتمد
 - `sch-absurdism` — العبثية (Absurdism / Le Mythe de Sisyphe) — ✅ معتمد
@@ -2890,11 +4335,13 @@
 - `sch-act` — العلاج بالقبول والالتزام (ACT) — ✅ معتمد
 - `sch-adat` — أدات (العرف الفلسفي في إندونيسيا وماليزيا) — ✅ معتمد
 - `sch-advaita-vedanta` — أدفايتا فيدانتا (اللاتثنية) — ✅ معتمد
+- `sch-aedp` — العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP) — ✅ معتمد
 - `sch-african-cross-cultural` — الفلسفة الأفريقية بين-الثقافية — ✅ معتمد
 - `sch-african-decolonial` — الفلسفة الأفريقية الديكولونيالية — ✅ معتمد
 - `sch-african-hermeneutical` — الفلسفة الأفريقية التأويلية — ✅ معتمد
 - `sch-african-national-ideology` — الفلسفة الوطنية-الأيديولوجية الأفريقية — ✅ معتمد
 - `sch-african-professional-philosophy` — الفلسفة الأفريقية المهنية/الأكاديمية — ✅ معتمد
+- `sch-african-psychology` — علم النفس الأفريقي — ✅ معتمد
 - `sch-african-socialism` — الاشتراكية الأفريقية — ✅ معتمد
 - `sch-afrocentrism` — أفريقية المركز (Afrocentrism) — ✅ معتمد
 - `sch-afrofeminism` — الفلسفة الأفريقية النسوية — ✅ معتمد
@@ -2935,11 +4382,13 @@
 - `sch-british-idealism` — المثالية البريطانية — ✅ معتمد
 - `sch-buddhism-early` — البوذية المبكرة — ✅ معتمد
 - `sch-buddhist-modernism` — البوذية الحداثية — ✅ معتمد
+- `sch-buddhist-psychology` — علم النفس البوذي (Buddhist Psychology) — ✅ معتمد
 - `sch-byzantine` — الفلسفة البيزنطية — ✅ معتمد
 - `sch-care-ethics` — أخلاقيات الرعاية (Care Ethics) — ✅ معتمد
 - `sch-caribbean-philosophy` — فلسفة الكاريبي (الهوية والكريولية) — ✅ معتمد
 - `sch-cartesianism` — الديكارتية — ✅ معتمد
-- `sch-cbt` — العلاج المعرفي السلوكي — 🕓 مسودة
+- `sch-cbt` — العلاج المعرفي السلوكي — ✅ معتمد
+- `sch-cft` — العلاج المتمحور حول التعاطف (CFT) — ✅ معتمد
 - `sch-chan` — تشان (الصينية) — ✅ معتمد
 - `sch-chartres` — مدرسة شارتر — ✅ معتمد
 - `sch-charvaka` — شارفاكا / لوكاياتا (المادية الهندية) — ✅ معتمد
@@ -2954,6 +4403,7 @@
 - `sch-comtian-positivism` — الوضعية / الكومتية — ✅ معتمد
 - `sch-conceptualism` — التصورية (Conceptualism) — ✅ معتمد
 - `sch-confucian-early` — الكونفوشية المبكرة — ✅ معتمد
+- `sch-confucian-psychology` — علم النفس الكونفوشي — ✅ معتمد
 - `sch-conservatism-philosophical` — المحافظية الفلسفية — ✅ معتمد
 - `sch-continental-rationalism` — العقلانية القارية (كمظلة) — ✅ معتمد
 - `sch-contractualism` — التعاقدية/التعاقدانية الأخلاقية الحديثة — ✅ معتمد
@@ -2971,15 +4421,18 @@
 - `sch-deism` — الربوبية (Deism) — ✅ معتمد
 - `sch-deliberative-democracy` — الديمقراطية التداولية — ✅ معتمد
 - `sch-dependency-theory` — نظرية التبعية — ✅ معتمد
-- `sch-developmental` — علم النفس التطوري (Developmental Psychology) — ✅ معتمد
+- `sch-developmental` — علم النفس النمائي (Developmental Psychology) — ✅ معتمد
 - `sch-dogon` — فلسفة الدوجون (مالي) — ✅ معتمد
 - `sch-donghak` — دونغهاك / تشوندوغيو — ✅ معتمد
 - `sch-dreamtime` — Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين) — ✅ معتمد
 - `sch-dvaita-vedanta` — دفايتا فيدانتا (التثنية) — ✅ معتمد
 - `sch-eclecticism` — الانتقائية الهلنستية-الرومانية (Hellenistic-Roman Eclecticism) — ✅ معتمد
 - `sch-ecofeminism` — النسوية البيئية (Ecofeminism) — ✅ معتمد
+- `sch-eft` — العلاج المتمحور حول المشاعر (EFT) — ✅ معتمد
+- `sch-eft-couples` — العلاج الزوجي المتمحور حول المشاعر (EFT for Couples) — ✅ معتمد
 - `sch-egyptian-maat` — تقليد الحكمة المصرية (ماعت) — ✅ معتمد
 - `sch-eleatic` — المدرسة الإيلية (Eleatic School) — ✅ معتمد
+- `sch-emdr` — إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR) — ✅ معتمد
 - `sch-engaged-buddhism` — البوذية المنخرطة اجتماعياً — ✅ معتمد
 - `sch-enlightenment` — فلسفة التنوير (كمظلة عامة) — ✅ معتمد
 - `sch-environmental-ethics` — فلسفة البيئة / الأخلاق البيئية — ✅ معتمد
@@ -3027,20 +4480,26 @@
 - `sch-humeanism` — الهيومية (الشكّ التجريبي) — ✅ معتمد
 - `sch-ibadi-kalam` — الكلام الإباضي — ✅ معتمد
 - `sch-ifa` — تقاليد اليوروبا الفلسفية (Ifá) — ✅ معتمد
+- `sch-ifs` — نظام الأسرة الداخلية (IFS — Internal Family Systems) — ✅ معتمد
 - `sch-ikhwan-safa` — إخوان الصفا — ✅ معتمد
+- `sch-imago` — العلاج بالـ Imago — ✅ معتمد
 - `sch-imami-kalam` — الكلام الإمامي الاثنا عشري — ✅ معتمد
 - `sch-indigenismo` — الإنديجينيزمو — ✅ معتمد
 - `sch-indigenous-philosophy-contemporary` — فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق) — ✅ معتمد
+- `sch-indigenous-psychology` — علم نفس الشعوب الأصلية — ✅ معتمد
 - `sch-intercultural-philosophy` — الفلسفة بين-الثقافية — ✅ معتمد
 - `sch-interculturalidad` — فلسفة العبور الثقافي (Interculturalidad) — ✅ معتمد
 - `sch-intersectionality` — النسوية التقاطعية — ✅ معتمد
+- `sch-ipt` — العلاج بين الأشخاص (IPT) — ✅ معتمد
 - `sch-isfahan` — مدرسة أصفهان الفلسفية — ✅ معتمد
 - `sch-ishraqiyya` — الإشراقية — ✅ معتمد
 - `sch-islamic-critical-thought` — الفكر الإسلامي النقدي المعاصر — ✅ معتمد
 - `sch-islamic-feminism` — النسوية الإسلامية — ✅ معتمد
 - `sch-islamic-peripatetic` — الفلسفة المشائية الإسلامية — ✅ معتمد
+- `sch-islamic-psychology` — علم النفس الإسلامي (Islamic Psychology) — ✅ معتمد
 - `sch-islamic-reform` — الإصلاحية الإسلامية (النهضة) — ✅ معتمد
 - `sch-ismaili` — الفلسفة الإسماعيلية — ✅ معتمد
+- `sch-istdp` — العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP) — ✅ معتمد
 - `sch-jainism` — الجاينية الفلسفية — ✅ معتمد
 - `sch-jodo-shinshu` — جودو شينشو — ✅ معتمد
 - `sch-jonang` — جونانغ (شينتونغ) — ✅ معتمد
@@ -3067,6 +4526,7 @@
 - `sch-legalism` — الشرعية / القانونية (Fajia) — ✅ معتمد
 - `sch-leibnizianism` — اللايبنتزية — ✅ معتمد
 - `sch-liberation-philosophy` — فلسفة التحرير اللاتينية الأمريكية — ✅ معتمد
+- `sch-liberation-psychology` — علم نفس التحرر — ✅ معتمد
 - `sch-libertarianism` — الليبرتارية — ✅ معتمد
 - `sch-lixue` — مدرسة المبدأ (Lixue / Cheng-Zhu) — ✅ معتمد
 - `sch-lockeanism` — اللوكية (اللوكية التجريبية) — ✅ معتمد
@@ -3080,6 +4540,7 @@
 - `sch-maturidiyya` — الماتريدية — ✅ معتمد
 - `sch-maya-philosophy` — الفلسفة الماياوية — ✅ معتمد
 - `sch-mazdakism` — المزدكية — ✅ معتمد
+- `sch-mbct` — العلاج المعرفي القائم على اليقظة الذهنية (MBCT) — ✅ معتمد
 - `sch-megarian` — المدرسة الميغارية (Megarian School) — ✅ معتمد
 - `sch-mesopotamian-wisdom` — تقليد الحكمة الرافدية — ✅ معتمد
 - `sch-mestizaje` — فلسفة الهجنة / المِستيساخي — ✅ معتمد
@@ -3090,8 +4551,10 @@
 - `sch-mingjia` — مدرسة الأسماء / المنطقيون (Mingjia) — ✅ معتمد
 - `sch-mitogaku` — ميتوغاكو (السينولوجيا اليابانية) — ✅ معتمد
 - `sch-mohism` — الموهية (Mohism / Mojia) — ✅ معتمد
+- `sch-motivational-interviewing` — المقابلة التحفيزية (Motivational Interviewing) — ✅ معتمد
 - `sch-mutazila` — المعتزلة — ✅ معتمد
 - `sch-nahua-aztec` — فلسفة الناهوا/الأزتك (مفهوم تيوتل) — ✅ معتمد
+- `sch-narrative-therapy` — العلاج السردي (Narrative Therapy) — ✅ معتمد
 - `sch-nationalism-philosophical` — القومية الفلسفية — ✅ معتمد
 - `sch-navayana` — بوذية نافايانا (البوذية الجديدة الهندية) — ✅ معتمد
 - `sch-navya-nyaya` — نيايا الجديدة (نافيا-نيايا) — ✅ معتمد
@@ -3131,6 +4594,7 @@
 - `sch-philosophy-of-disability` — فلسفة الإعاقة — ✅ معتمد
 - `sch-philosophy-of-technology` — فلسفة التكنولوجيا — ✅ معتمد
 - `sch-political-islam` — الإسلام السياسي (كتيار فكري) — ✅ معتمد
+- `sch-polyvagal-informed-therapy` — العلاج المستنير بنظرية البوليفاجال — ✅ معتمد
 - `sch-positive-psychology` — علم النفس الإيجابي (Positive Psychology) — ✅ معتمد
 - `sch-positivism-latin` — الوضعية اللاتينية (في أمريكا اللاتينية) — ✅ معتمد
 - `sch-post-kyoto` — ما بعد مدرسة كيوتو — ✅ معتمد
@@ -3140,6 +4604,7 @@
 - `sch-postmodernism-philosophical` — ما بعد الحداثة الفلسفية (Philosophical Postmodernism) — ✅ معتمد
 - `sch-pragmatism-classical` — البراغماتية الكلاسيكية — ✅ معتمد
 - `sch-process-philosophy` — فلسفة العملية (Process Philosophy) — ✅ معتمد
+- `sch-psychedelic-assisted-therapy` — العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy) — ✅ معتمد
 - `sch-psychoanalysis` — التحليل النفسي (Psychoanalysis) — ✅ معتمد
 - `sch-pure-land` — الأرض الطاهرة (جينغتو / جودو) — ✅ معتمد
 - `sch-pyrrhonism` — الشك البيروني (Pyrrhonian Skepticism) — ✅ معتمد
@@ -3150,6 +4615,7 @@
 - `sch-rangaku` — رانغاكو (التعلم الهولندي) — ✅ معتمد
 - `sch-rawlsianism` — الليبرالية السياسية المعاصرة (الرولزية وما بعدها) — ✅ معتمد
 - `sch-realism-medieval` — الواقعية (في جدل الكليات الوسيط) — ✅ معتمد
+- `sch-rebt` — العلاج العقلاني الانفعالي السلوكي (REBT) — ✅ معتمد
 - `sch-renaissance-humanism` — الإنسانية النهضوية — ✅ معتمد
 - `sch-renaissance-naturalism` — الطبيعانية النهضوية — ✅ معتمد
 - `sch-renaissance-neoplatonism` — الأفلاطونية المحدثة في عصر النهضة — ✅ معتمد
@@ -3165,6 +4631,7 @@
 - `sch-scotism` — السكوتية — ✅ معتمد
 - `sch-scottish-common-sense` — فلسفة الحس المشترك الاسكتلندية — ✅ معتمد
 - `sch-second-scholasticism` — السكولاستية الثانية (إسبانيا، عصر النهضة) — ✅ معتمد
+- `sch-sensorimotor-psychotherapy` — العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy) — ✅ معتمد
 - `sch-seon` — سيون الكورية — ✅ معتمد
 - `sch-shaiva-siddhanta` — شايفا سيدهانتا — ✅ معتمد
 - `sch-shakta-tantra` — الشاكتية والتانترا الفلسفية — ✅ معتمد
@@ -3181,6 +4648,8 @@
 - `sch-social-darwinism` — الداروينية الاجتماعية — ✅ معتمد
 - `sch-social-ecology` — الإيكولوجيا الاجتماعية — ✅ معتمد
 - `sch-social-psychology` — علم النفس الاجتماعي (Social Psychology) — ✅ معتمد
+- `sch-solution-focused` — العلاج المختصر القائم على الحل (SFBT) — ✅ معتمد
+- `sch-somatic-experiencing` — التجربة الجسدية (Somatic Experiencing) — ✅ معتمد
 - `sch-sophistry` — السفسطائية (Sophistry) — ✅ معتمد
 - `sch-speculative-realism` — الواقعية المضاربة (Speculative Realism) — ✅ معتمد
 - `sch-spinozism` — السبينوزية — ✅ معتمد
@@ -3228,35 +4697,105 @@
 - `sch-zoroastrian-philosophy` — الزرادشتية الفلسفية — ✅ معتمد
 - `sch-zurvanism` — الزروانية — ✅ معتمد
 
-## علاقة بين مدرستين (42)
+## علاقة بين مدرستين (126)
 
 - `rel-act` — القبول والالتزام — الجار المحرِج — ✅ معتمد
+- `rel-act-cbt-third-wave` — العلاج بالقبول والالتزام والموجة الثالثة من CBT: من الجدل إلى التشارك — ✅ معتمد
 - `rel-addiction-cbt` — الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي: المقابلة التحفيزية ومنع الانتكاس — ✅ معتمد
-- `rel-advaita-vedanta-transpersonal` — أدفايتا فيدانتا وعلم النفس عبر الشخصي: من شانكارا إلى ويلبر — 🕓 مسودة
+- `rel-adorno-authoritarian-personality-f-scale` — الشخصية التسلطية لأدورنو ومقياس الفاشية النفسي — ✅ معتمد
+- `rel-advaita-vedanta-transpersonal` — أدفايتا فيدانتا وعلم النفس عبر الشخصي: من شانكارا إلى ويلبر — ✅ معتمد
+- `rel-advaita-vedanta-transpersonal-psychology` — الأدفايتا فيدانتا وعلم النفس عبر الشخصي (Wilber/Grof) — ✅ معتمد
+- `rel-aristotelian-virtue-positive-psychology` — أخلاق الفضيلة الأرسطية وعلم النفس الإيجابي (Seligman/Peterson) — ✅ معتمد
+- `rel-aristotle-positive-psychology` — الأخلاق الأرسطية وعلم النفس الإيجابي — ✅ معتمد
+- `rel-behavioral-activation-depression` — التنشيط السلوكي والاكتئاب: من Lewinsohn إلى Jacobson — ✅ معتمد
 - `rel-behaviorism-cognitive` — السلوكية والمعرفية: الثورة المعرفية داخل السلوكية — ✅ معتمد
 - `rel-british-empiricism-behaviorism` — التجريبية البريطانية والسلوكية: من لوك إلى واطسون — ✅ معتمد
+- `rel-buber-i-thou-humanistic-counseling` — فلسفة الأنا-وأنت لمارتن بوبر والإرشاد المتمركز حول العميل — ✅ معتمد
 - `rel-buddhism-thirdwave` — البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT — ✅ معتمد
+- `rel-buddhist-anatta-narrative-therapy` — اللا-ذات البوذية (Anatta) وتفكيك الذات في العلاج السردي (White) — ✅ معتمد
+- `rel-buddhist-four-noble-truths-act-therapy` — الحقائق النبيلة الأربع والعلاج بالقبول والالتزام (ACT) — ✅ معتمد
+- `rel-camus-absurdity-meaning-making-crisis` — العبث عند كامو وأزمات فقدان المعنى في علم النفس — ✅ معتمد
+- `rel-care-ethics-relational-psychoanalysis` — أخلاقيات الرعاية النسوية والتحليل النفسي العلائقي (Mitchell/Gilligan) — ✅ معتمد
+- `rel-cbt-mindfulness` — العلاج المعرفي-السلوكي واليقظة الذهنية: من MBSR إلى MBCT — ✅ معتمد
 - `rel-cbt-nonwestern` — المعرفية-السلوكية والأطر غير الغربية: استيراد اليقظة البوذية — ✅ معتمد
+- `rel-cbt-psychodynamic` — العلاج المعرفي-السلوكي والنفساني-الديناميكي: من المواجهة إلى التكامل — ✅ معتمد
 - `rel-cbt-thirdwave` — CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ — ✅ معتمد
-- `rel-confucianism-positive-psychology` — الكونفوشيوسية المبكرة وعلم النفس الإيجابي: من Ren إلى VIA — 🕓 مسودة
+- `rel-cft-compassion` — العلاج المركّز على التعاطف (CFT) وGilbert: علم النفس البوذي في العيادة — ✅ معتمد
+- `rel-chalmers-qualia-affective-neuroscience` — الكواليا والمشكلة الصعبة للوعي والعلوم العصبية للوجدان (Panksepp) — ✅ معتمد
+- `rel-cognitive-revolution` — الثورة المعرفية في علم النفس: من Chomsky إلى Neisser — ✅ معتمد
+- `rel-confucian-self-cultivation-family-systems` — تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen) — ✅ معتمد
+- `rel-confucianism-positive-psychology` — الكونفوشيوسية المبكرة وعلم النفس الإيجابي: من Ren إلى VIA — ✅ معتمد
+- `rel-cultural-feminist` — علم النفس النسوي والثقافي: من Gilligan إلى hooks — ✅ معتمد
+- `rel-damasio-spinoza-somatic-markers-neuroscience` — العلامات الجسدية لداماسيو ونظرية سبينوزا في الانفعالات — ✅ معتمد
 - `rel-daoism-systemic` — الطاوية الفلسفية والعلاج الأسري/النظامي: من وُو-وِي إلى الدائرية — ✅ معتمد
-- `rel-daseinsanalysis-heideggerian-phenomenology` — تحليل الدازاين والظاهراتية الهايدغرية: من \"الكينونة والزمن\" إلى العيادة — 🕓 مسودة
-- `rel-hegelianism-psychoanalysis` — الهيغلية والتحليل النفسي: من ماركس إلى لاكان — ✅ معتمد
+- `rel-daoist-wuwei-gestalt-therapy` — الوو-وي الداووي ونظرية التغيير التناقضية في علاج الجشطالت — ✅ معتمد
+- `rel-daseinsanalysis-heideggerian-phenomenology` — تحليل الدازاين والظاهراتية الهايدغرية: من \"الكينونة والزمن\" إلى العيادة — ✅ معتمد
+- `rel-dbt-bpd` — العلاج الجدلي السلوكي واضطراب الشخصية الحدية: ولادة DBT من عيادة Linehan — ✅ معتمد
+- `rel-deleuze-rhizome-neurodiversity-movement` — الجذمور الدولوزي وحركة التنوع العصبي (Neurodiversity) — ✅ معتمد
+- `rel-deleuze-schizoanalysis-institutional-psychotherapy` — التحليل الفصامي لدولوز والعلاج النفسي المؤسسي (Guattari/Oury) — ✅ معتمد
+- `rel-derrida-aporia-therapeutic-paradox` — الأبوريا التفكيكية والتدخلات التناقضية في العلاج النفسي — ✅ معتمد
+- `rel-derrida-deconstruction-systemic-therapy` — التفكيكية الدريدية وتفكيك الأساطير الأسرية في العلاج النظامي — ✅ معتمد
+- `rel-descartes-mind-body-interaction-somatization` — ثنائية ديكارت واضطرابات الجسدنة والتحويل في الطب النفسي — ✅ معتمد
+- `rel-dewey-reflective-thinking-cbt-problem-solving` — التفكير التأملي لديوي وعلاج حل المشكلات المعرفي — ✅ معتمد
+- `rel-emdr-trauma` — إعادة المعالجة عبر حركات العين وعلاج الصدمة: من Shapiro إلى van der Kolk — ✅ معتمد
+- `rel-empiricism-behaviorism` — التجريبية البريطانية والمدرسة السلوكية — ✅ معتمد
+- `rel-epicurean-hedonism-reinforcement-learning` — اللذة الأبيقورية ومبدأ التعزيز في السلوكية الإجرائية — ✅ معتمد
+- `rel-existential-phenomenology` — الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج — ✅ معتمد
+- `rel-experimental-phenomenology` — الظاهراتية التجريبية: من Husserl إلى Giorgi — ✅ معتمد
+- `rel-family-systems-bowen` — العلاج الأسري ونظرية Bowen: منظوماتية الأجيال — ✅ معتمد
+- `rel-fanon-colonial-neurosis-multicultural-counseling` — العصاب الاستعماري لفانون والإرشاد متعدد الثقافات — ✅ معتمد
+- `rel-fanon-sociogeny-liberation-psychology` — تكوين المجتمع لفانون وعلم نفس التحرير لمارتين-بارو — ✅ معتمد
+- `rel-foucault-madness-anti-stigma-campaigns` — تاريخ الجنون لفوكو وحملات مناهضة الوصمة النفسية — ✅ معتمد
+- `rel-foucault-narrative-therapy-externalization` — جنيالوجيا فوكو وتقنية 'خارجنة المشكلة' في العلاج السردي — ✅ معتمد
+- `rel-frankfurt-school-critical-psychiatry` — النظرية النقدية لمدرسة فرانكفورت والطب النفسي الاجتماعي — ✅ معتمد
+- `rel-frankl-will-to-meaning-logotherapy-resilience` — إرادة المعنى لفرانكل والمرونة النفسية ضد الصدمات — ✅ معتمد
+- `rel-gestalt-existential` — الجشطالتية والوجودية: Perls بوصفه حلقة وصل — ✅ معتمد
+- `rel-gilligan-care-ethics-relational-therapy` — أخلاقيات الرعاية لغيليغان والعلاج النفسي الزواجي والعلائقي — ✅ معتمد
+- `rel-habermas-ideal-speech-family-therapy` — الموقف الكلامي المثالي لهابرماس والتواصل الأسري الفعال — ✅ معتمد
+- `rel-hegel-alienation-false-self-winnicott` — الاغتراب الهيغلي والذات المزيفة عند وينيكوت — ✅ معتمد
+- `rel-hegelianism-psychoanalysis` — الهيغلية والتحليل النفسي — ✅ معتمد
+- `rel-heidegger-authenticity-existential-guilt` — الأصالة والذنب الوجودي عند هايدغر والعلاج الوجودي — ✅ معتمد
+- `rel-heraclitus-dialectical-behavior-therapy` — الصيرورة الهيراقليطية والعلاج الجدلي السلوكي DBT (لينهان) — ✅ معتمد
 - `rel-humanistic` — الإنساني — القرابة الملتبسة — ✅ معتمد
+- `rel-humanistic-existential` — الإنسانية والوجودية: من Rogers وMaslow إلى Yalom — ✅ معتمد
 - `rel-humanistic-existential-gestalt` — الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة — ✅ معتمد
 - `rel-humanistic-positive` — الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه — ✅ معتمد
+- `rel-hume-bundle-self-dissociation` — حزمة الإدراكات لهيوم واضطرابات التفكك وتبدد الشخصية — ✅ معتمد
+- `rel-husserl-bracketing-phenomenological-interview` — الإيبوخيه والوضع بين قوسين في المقابلة الفينومينولوجية — ✅ معتمد
+- `rel-husserlian-phenomenology-gestalt-therapy` — الفينومينولوجيا الهوسرلية ومبدأ هنا-والآن في علاج الجشطالت — ✅ معتمد
 - `rel-hypnosis-psychoanalysis` — التنويم والتحليل النفسي: انفصال وتباعد تاريخي — ✅ معتمد
 - `rel-integrative-cbt-common-factors` — التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة — ✅ معتمد
 - `rel-integrative-humanistic-common-factors` — التكاملية (العامل المشترك) والإنسانية: الأم الأصلية — ✅ معتمد
 - `rel-integrative-psychoanalysis-common-factors` — التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم — ✅ معتمد
+- `rel-ipmb-evidence-based` — العلاج النفسي المبني على الأدلة والمقاربات التكاملية: من الجدل إلى التعاون — ✅ معتمد
+- `rel-james-stream-of-thought-free-association` — تيار الوعي لويليام جيمس والتداعي الحر الفرويدي — ✅ معتمد
+- `rel-kant-apperception-central-executive` — وحدة الإدراك المتعالي لكانط والوظائف التنفيذية للدماغ — ✅ معتمد
+- `rel-kant-cognitive-schemas` — الفلسفة الكانطية والمخططات المعرفية — ✅ معتمد
+- `rel-kantian-epistemology-cbt-schemas` — الإبستمولوجيا الكانطية والمخططات المعرفية في CBT (بيك وبياجيه) — ✅ معتمد
+- `rel-kierkegaard-angst-generalized-anxiety` — القلق الوجودي لكيركغارد واضطراب القلق المعمم (GAD) — ✅ معتمد
 - `rel-kierkegaardianism-nietzscheanism-existential-therapy` — الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم — ✅ معتمد
-- `rel-marxism-critical-psychology` — العلاقة بين المادية الماركسية وعلم النفس النقدي والتحرري — 🕓 مسودة
+- `rel-levinas-ethics-of-other-therapeutic-alliance` — أخلاقيات الآخر لليفيناس والتحالف العلاجي الإنساني — ✅ معتمد
+- `rel-locke-association-of-ideas-conditioning` — تداعي الأفكار عند لوك وقوانين الإشراط الكلاسيكي — ✅ معتمد
+- `rel-marxism-critical-psychology` — العلاقة بين المادية الماركسية وعلم النفس النقدي والتحرري — ✅ معتمد
+- `rel-marxist-alienation-occupational-burnout` — الاغتراب الماركسي ومتلازمة الاحتراق الوظيفي في علم النفس التنظيمي — ✅ معتمد
+- `rel-mbct-cbt` — العلاج المعرفي القائم على اليقظة (MBCT) والـCBT: من الوقاية من الانتكاس إلى العلاج — ✅ معتمد
+- `rel-mbt-mentalization` — العلاج القائم على التنميط العقلي (MBT) وBateman & Fonagy — ✅ معتمد
+- `rel-merleau-ponty-body-schema-body-dysmorphia` — مخطط الجسد لميرلوبونتي واضطراب تشوه الجسد (BDD) — ✅ معتمد
+- `rel-merleau-ponty-embodiment-somatic-experiencing` — الجسد المعاش لميرلوبونتي والعلاج النفسي الجسدي (Levine/Ogden) — ✅ معتمد
+- `rel-narrative-constructionist` — العلاج السردي والبنائية: من White إلى Gergen — ✅ معتمد
+- `rel-neuropsychoanalysis` — علم النفس العصبي والتحليل النفسي: من Solms إلى Panksepp — ✅ معتمد
+- `rel-nietzsche-sublimation-freudian-defense` — التسامي والإعلاء عند نيتشه وآليات الدفاع النفسي — ✅ معتمد
+- `rel-parfit-personal-identity-multiplicity-therapy` — الهوية الشخصية عند بارفيت وتعدد أجزاء الذات (IFS) — ✅ معتمد
 - `rel-phenomenology-existential-therapy` — الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس — ✅ معتمد
 - `rel-phenopath` — الظاهراتية النفسية المرضية — الحليف — ✅ معتمد
-- `rel-post-structuralism-antipsychiatry` — ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس — 🕓 مسودة
+- `rel-plato-chariot-freud-ego-id` — عربة أفلاطون المجنحة ونموذج الحصانين والأنا الفرويدي — ✅ معتمد
+- `rel-plato-tripartite-soul-freud-id-ego-superego` — النفس الثلاثية الأفلاطونية والنموذج البنيوي الفرويدي — ✅ معتمد
+- `rel-positive-humanistic` — علم النفس الإيجابي والإنسانية: من Maslow إلى Seligman — ✅ معتمد
+- `rel-post-structuralism-antipsychiatry` — ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس — ✅ معتمد
 - `rel-postmodern-systemic` — ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة — ✅ معتمد
-- `rel-pragmatism-functional-psychology` — العلاقة بين البراغماتية الفلسفية والمدرسة الوظيفية في علم النفس — 🕓 مسودة
-- `rel-pragmatism-humanistic` — البراغماتية الأمريكية وعلم النفس الإنساني: من وليم جيمس إلى روجرز — 🕓 مسودة
+- `rel-poststructuralism-antipsychiatry` — العلاقة بين ما بعد البنيوية وحركة مناهضة الطب النفسي — ✅ معتمد
+- `rel-pragmatism-functional-psychology` — العلاقة بين البراغماتية الفلسفية والمدرسة الوظيفية في علم النفس — ✅ معتمد
+- `rel-pragmatism-humanistic` — البراغماتية الأمريكية وعلم النفس الإنساني: من وليم جيمس إلى روجرز — ✅ معتمد
 - `rel-psychedelic-transpersonal` — العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي — ✅ معتمد
 - `rel-psychoanalysis` — التحليل النفسي — الانفصال والاحتفاظ — ✅ معتمد
 - `rel-psychoanalysis-behaviorism` — التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى — ✅ معتمد
@@ -3264,42 +4803,151 @@
 - `rel-psychoanalysis-humanistic` — التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي — ✅ معتمد
 - `rel-psychoanalysis-jungian` — التحليل النفسي والتحليلية اليونغية: انشقاق الأبناء المؤسِّس — ✅ معتمد
 - `rel-psychoanalysis-somatic` — التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر — ✅ معتمد
+- `rel-psychodynamic-attachment` — النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy — ✅ معتمد
+- `rel-pyrrhonian-skepticism-cognitive-defusion` — الشكوكية البيرونية وفك الاندماج المعرفي في ACT — ✅ معتمد
+- `rel-rawls-veil-of-ignorance-family-mediation` — حجاب الجهل لرولز والوساطة الأسرية في الطلاق والنزاعات — ✅ معتمد
+- `rel-rawlsian-justice-social-work-psychology` — العدالة كإنصاف لرولز وممارسات علم النفس المجتمعي والخدمة الاجتماعية — ✅ معتمد
+- `rel-sartre-responsibility-existential-choice` — الحرية والمسؤولية عند سارتر وتعديل السلوك الوجودي — ✅ معتمد
+- `rel-schopenhauer-freudian-psychoanalysis` — التشاؤمية الشوبنهاورية وإرادة الحياة واللاوعي الفرويدي — ✅ معتمد
+- `rel-schopenhauer-unconscious-wishes-freud` — الرغبات اللاشعورية عند شوبنهاور ونظرية الأحلام لفرويد — ✅ معتمد
 - `rel-somatic-existential` — الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي — ✅ معتمد
+- `rel-somatic-trauma` — الجسدية وعلاج الصدمة: من Levine إلى van der Kolk — ✅ معتمد
+- `rel-spinoza-affect-neurobiology` — فلسفة سبينوزا وعلم الأعصاب الوجداني — ✅ معتمد
+- `rel-spinoza-freud-unconscious-affect` — السبينوزية والتحليل النفسي الفرويدي: الرغبة والكوناتوس — ✅ معتمد
+- `rel-spinozism-affective-neuroscience` — العلاقة بين السبينوزية والعلوم العصبية الوجدانية (داماسيو) — ✅ معتمد
 - `rel-stoicism-cbt` — الرواقية والعلاج المعرفي السلوكي: من إبكتيتوس إلى بيك — ✅ معتمد
 - `rel-systemic-behavioral` — النظامية الأسرية والسلوكية: تكامل صامت — ✅ معتمد
 - `rel-systemic-psychoanalysis` — النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة — ✅ معتمد
 - `rel-szasz-existential-freedom-guilt` — سازس والوجودية: الحرية والمسؤولية الأخلاقية — ✅ معتمد
 - `rel-transpersonal-humanistic` — عبر الشخصية والإنسانية: ولادة الموجة الرابعة — ✅ معتمد
+- `rel-transpersonal-jungian` — عبر الشخصية والتحليلية اليونغية: من Wilber إلى Edinger — ✅ معتمد
 - `rel-trauma-psychoanalysis` — العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم — ✅ معتمد
+- `rel-trauma-ptsd-therapy` — علاج الصدمة واضطراب ما بعد الصدمة: من Horowitz إلى EMDR — ✅ معتمد
 - `rel-trauma-somatic` — العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر — ✅ معتمد
+- `rel-zen-mindfulness-mbsr-kabat-zinn` — زن سوتو وبروتوكول خفض التوتر القائم على اليقظة (MBSR) — ✅ معتمد
 
-## سياق/تقليد (23)
+## سياق/تقليد (118)
 
-- `ctx-american-pragmatism-tradition` — سياق البراغماتية الأمريكية والوظيفية النفسية — 🕓 مسودة
-- `ctx-arabic-nahda` — سياق عصر النهضة الفكرية والنفسية العربية وتحديث الفكر — 🕓 مسودة
+- `ctx-1848-spring-of-nations-europe` — ربيع الشعوب الأوروبية (1848) وصعود القوميات والاشتراكية — ✅ معتمد
+- `ctx-african-colonial-partition-berlin` — مؤتمر برلين (1884) وتقسيم إفريقيا وتأسيس العنف الاستعماري — ✅ معتمد
+- `ctx-alexandria-library-hellenism` — مدرسة الإسكندرية ومكتبتها الكبرى وتلاقي الثقافات الهيلينستية — ✅ معتمد
+- `ctx-algerian-revolution-fanon-anti-colonialism` — الثورة الجزائرية ونضال التحرر وتأسيس الفكر المناهض للاستعمار — ✅ معتمد
+- `ctx-american-pragmatism-tradition` — سياق البراغماتية الأمريكية والوظيفية النفسية — ✅ معتمد
+- `ctx-american-transcendentalism-concord` — التعالوية الأمريكية في كونكورد والاعتماد على الذات — ✅ معتمد
+- `ctx-ancient-athens-agora` — الأغورا الأثينية والحوار السقراطي في الديمقراطية الكلاسيكية — ✅ معتمد
+- `ctx-ancient-egypt-maat-cosmic-order` — مصر القديمة ومفهوم «الماعت» كعدالة ونظام كوني أخلاقي — ✅ معتمد
+- `ctx-ancient-sparta-discipline` — سياق إسبرطة القديمة ونظام الأغوجي وسيكولوجيا الانضباط الجمعي — ✅ معتمد
+- `ctx-andalusian-philosophical-renaissance` — البيئة الأندلسية والجدل الفلسفي في قرطبة وإشبيلية — ✅ معتمد
+- `ctx-anthropocene-climate-crisis-grief` — عصر الأنثروبوسين وأزمة المناخ وظاهرة «الحزن البيئي» — ✅ معتمد
+- `ctx-anti-vietnam-war-counterculture` — الاحتجاجات المناهضة لحرب فيتنام وصعود الثقافة المضادة والهيبيز — ✅ معتمد
+- `ctx-arab-spring-2011-digital-dissent` — الربيع العربي (2011) وثورات الميادين وسيكولوجيا كسر الخوف — ✅ معتمد
+- `ctx-arabic-nahda` — سياق عصر النهضة الفكرية والنفسية العربية وتحديث الفكر — ✅ معتمد
 - `ctx-arabic-self` — النفس في التراث العربي الإسلامي — ✅ معتمد
 - `ctx-avicenna-self` — ابن سينا وكتاب النفس — ✅ معتمد
+- `ctx-baghdad-house-of-wisdom` — بيت الحكمة في بغداد وحركة الترجمة الكبرى — ✅ معتمد
+- `ctx-balkan-wars-srebrenica-breakup` — حروب البلقان وتفكك يوغوسلافيا ومأساة التطهير العرقي في أوروبا — ✅ معتمد
+- `ctx-belle-epoque-technology-alienation` — الحقبة الجميلة والتفاؤل التقني وهواجس الاغتراب — ✅ معتمد
+- `ctx-black-lives-matter-racial-justice` — حركة حياة السود مهمة (BLM) وسيكولوجيا العدالة العرقية المعاصرة — ✅ معتمد
+- `ctx-bolshevik-revolution-soviet-state` — الثورة البلشفية وتأسيس الدولة السوفييتية وإعادة تشكيل الإنسان — ✅ معتمد
 - `ctx-buddhist-psychology` — علم النفس البوذي والتقاليد التأملية الشرقية — ✅ معتمد
-- `ctx-classical-islamic-golden-age` — سياق الفلسفة والطب النفسي في العصر الذهبي الإسلامي — 🕓 مسودة
-- `ctx-cognitive-revolution-neuroscience` — سياق الثورة المعرفية ونشأة علوم الدماغ والأعصاب — 🕓 مسودة
-- `ctx-east-asian-neo-confucianism` — سياق الكونفوشيوسية وفلسفات الحكمة في شرق آسيا — 🕓 مسودة
-- `ctx-european-enlightenment` — سياق عصر التنوير الأوروبي والعقلانية النقدية — 🕓 مسودة
-- `ctx-german-phenomenology-existentialism` — سياق الفينومينولوجيا والوجودية الألمانية المعاصرة — 🕓 مسودة
+- `ctx-byzantine-constantinople-preservation` — القسطنطينية البيزنطية وحفظ التراث الهيليني قبل هجرة علمائها — ✅ معتمد
+- `ctx-cairo-al-azhar-fatimid-mamluk` — القاهرة الفاطمية والمملوكية والأزهر كمركز إشعاع للعلوم — ✅ معتمد
+- `ctx-chestnut-lodge-inpatient-psychoanalysis` — مصحة تشستنت لودج والتحليل النفسي الإكلينيكي للحالات الذهانية — ✅ معتمد
+- `ctx-civil-rights-liberation-psychology` — حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية — ✅ معتمد
+- `ctx-classical-islamic-golden-age` — سياق الفلسفة والطب النفسي في العصر الذهبي الإسلامي — ✅ معتمد
+- `ctx-cognitive-revolution-1950s` — الثورة المعرفية في الخمسينيات وحوسبة العقل واللغويات التوليدية — ✅ معتمد
+- `ctx-cognitive-revolution-neuroscience` — سياق الثورة المعرفية ونشأة علوم الدماغ والأعصاب — ✅ معتمد
+- `ctx-cold-war-psychology-behavior` — علم النفس وأبحاث التحكم بالسلوك في حقبة الحرب الباردة — ✅ معتمد
+- `ctx-counter-reformation-jesuit-education` — الإصلاح الكاثوليكي المضاد والتربية اليسوعية وفنون الباروك — ✅ معتمد
+- `ctx-covid19-pandemic-global-lockdown` — جائحة كورونا والإغلاق العالمي والعزلة وأزمة الصحة النفسية — ✅ معتمد
+- `ctx-damascus-umayyad-administration` — دمشق الأموية وبدايات تعريب الدواوين وتلاقح الحضارات المتوسطية — ✅ معتمد
+- `ctx-decolonization-bandung-nonaligned` — مؤتمر باندونغ (1955) وحركة عدم الانحياز وصعود العالم الثالث — ✅ معتمد
+- `ctx-deinstitutionalization-psychiatric-reform` — حركة إلغاء المصحات النفسية والطب النفسي المجتمعي — ✅ معتمد
+- `ctx-dot-com-bubble-internet-revolution` — ثورة الإنترنت وفقاعة الدوت كوم وميلاد المجتمع الشبكي الرقمي — ✅ معتمد
+- `ctx-dsm-evolution-biological-psychiatry` — تطور الدليل التشخيصي وهيمنة النموذج البيولوجي الدوائي — ✅ معتمد
+- `ctx-dutch-golden-age-toleration` — العصر الذهبي الهولندي وأمستردام كعاصمة للتسامح والنشر الحر — ✅ معتمد
+- `ctx-early-islamic-madinah-charter` — مجتمع المدينة المنورة المبكر وصحيفة المدينة والتحول الاجتماعي — ✅ معتمد
+- `ctx-early-zionism-colonial-palestine` — سياق الصهيونية المبكرة واستعمار فلسطين وأثره على الفكر النقدي — ✅ معتمد
+- `ctx-east-asian-neo-confucianism` — سياق الكونفوشيوسية وفلسفات الحكمة في شرق آسيا — ✅ معتمد
+- `ctx-edinburgh-scottish-enlightenment` — التنوير الاسكتلندي وفلسفة الأخلاق والحس المشترك — ✅ معتمد
+- `ctx-esalen-institute-human-potential` — معهد إيسالن وميلاد حركة الإمكانات البشرية والنيو-إيدج — ✅ معتمد
+- `ctx-european-enlightenment` — سياق عصر التنوير الأوروبي والعقلانية النقدية — ✅ معتمد
+- `ctx-fall-of-berlin-wall-1989` — سقط جدار برلين (1989) ونهاية الحرب الباردة وأطروحة «نهاية التاريخ» — ✅ معتمد
+- `ctx-feudal-japan-bushido-code` — اليابان الإقطاعية وميثاق الساموراي (بوشيدو) وفلسفة الشرف والموت — ✅ معتمد
+- `ctx-financial-crisis-2008-occupy` — الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت — ✅ معتمد
+- `ctx-florence-platonic-academy-medici` — أكاديمية فلورنسا الأفلاطونية ورعاية آل ميديتشي وميلاد الإنسانوية — ✅ معتمد
+- `ctx-frankfurt-school-weimar-exile` — مدرسة فرانكفورت وصدمة الفاشية وتأسيس النظرية النقدية — ✅ معتمد
+- `ctx-french-revolution-terror-rights` — الثورة الفرنسية ووثيقة حقوق الإنسان وصدمة عهد الإرهاب — ✅ معتمد
+- `ctx-french-salons-encyclopedie` — الصالونات الباريسية ومشروع الموسوعة لديدرو ودالمبير — ✅ معتمد
+- `ctx-german-phenomenology-existentialism` — سياق الفينومينولوجيا والوجودية الألمانية المعاصرة — ✅ معتمد
+- `ctx-german-romanticism-jena-circle` — حلقة يينا والرومانسية الألمانية وتأليه الخيال والفن — ✅ معتمد
 - `ctx-ghazali` — الغزالي وإحياء علوم الدين — ✅ معتمد
 - `ctx-greek-philosophy-of-psyche` — فلسفة النفس في التراث اليوناني — ✅ معتمد
-- `ctx-hellenistic-tradition` — السياق الهيلينستي والروماني في فلسفة الحياة والنفس — 🕓 مسودة
+- `ctx-haitian-revolution-black-jacobins` — الثورة الهايتية (1791) وإسقاط العبودية وتحدي التنوير الأوروبي — ✅ معتمد
+- `ctx-hellenistic-tradition` — السياق الهيلينستي والروماني في فلسفة الحياة والنفس — ✅ معتمد
 - `ctx-hindu-philosophical-traditions` — التقاليد الفلسفية الهندية الكبرى — ✅ معتمد
 - `ctx-ibn-ata-allah` — ابن عطاء الله السكندري والتصوف السلوكي — ✅ معتمد
+- `ctx-imperial-rome-stoic-legal` — الإمبراطورية الرومانية وصعود الفلسفة القانونية والأخلاقية الرواقية — ✅ معتمد
+- `ctx-industrial-revolution-manchester` — الثورة الصناعية في مانشستر وظهور الطبقة العاملة والتشيؤ — ✅ معتمد
+- `ctx-iranian-revolution-1979-political-islam` — الثورة الإيرانية (1979) وصعود الإسلام السياسي كفاعل جيوسياسي — ✅ معتمد
+- `ctx-italian-renaissance-humanism` — الإنسانوية في عصر النهضة الإيطالية وإحياء التراث الكلاسيكي — ✅ معتمد
+- `ctx-kyoto-school-zen-modernity` — مدرسة كيوتو وتلاقي الزن البوذي مع الفلسفة القارية — ✅ معتمد
+- `ctx-late-tsarist-russia-intelligentsia` — روسيا القيصرية المتأخرة وصراع السلافوفيليا والتغريب والعدمية — ✅ معتمد
+- `ctx-latin-american-coloniality` — السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير — ✅ معتمد
+- `ctx-latin-american-positivism-order` — الوضعية في أمريكا اللاتينية وشعار «النظام والتقدم» في بناء الدول — ✅ معتمد
+- `ctx-manhattan-project-atomic-age` — مشروع مانهاتن وميلاد العصر النووي ومأزق مسؤولية العلماء — ✅ معتمد
+- `ctx-maragha-observatory-astronomy` — مرصد مراغة وثورة تصحيح علم الفلك البطلمي — ✅ معتمد
+- `ctx-mccarthyism-red-scare-us` — المكارثية والخوف الأحمر في أمريكا وقمع الفكر الأكاديمي والسينمائي — ✅ معتمد
+- `ctx-me-too-movement-gender-accountability` — حركة MeToo وتفكيك ثقافة الإفلات من العقاب والعنف الجندري — ✅ معتمد
+- `ctx-medieval-paris-sorbonne-scholasticism` — جامعة باريس في القرن 13 والسكولاستية الكبرى لتوما الأكويني — ✅ معتمد
+- `ctx-meiji-restoration-japan-modernization` — إصلاحات الميجي في اليابان والتوليف بين التغريب والروح الوطنية — ✅ معتمد
+- `ctx-mesopotamia-code-of-hammurabi` — بلاد الرافدين وشريعة حمورابي وميلاد التدوين القانوني والأخلاقي — ✅ معتمد
+- `ctx-mindfulness-mbsr-medical-integration` — دمج اليقظة الذهنية في الطب المعاصر مع جون كابات زين — ✅ معتمد
 - `ctx-miskawayh-character` — ابن مسكويه وتهذيب الأخلاق — ✅ معتمد
+- `ctx-nazi-totalitarianism-shoah` — الشمولية النازية والمحرقة والانهيار الأخلاقي للحضارة الغربية — ✅ معتمد
+- `ctx-nuremberg-trials-crimes-humanity` — محاكمات نورمبرغ وميلاد القانون الجنائي الدولي وحقوق الإنسان — ✅ معتمد
+- `ctx-oil-crisis-1973-end-golden-age` — أزمة النفط (1973) ونهاية العقود الثلاثة المجيدة للاقتصاد الغربي — ✅ معتمد
+- `ctx-oxford-franciscan-experimentalism` — سياق أكسفورد الفرنسيسكاني وروجر بيكون وبذور المنهج التجريبي — ✅ معتمد
+- `ctx-paris-commune-1871-uprising` — كومونة باريس (1871) وميلاد التجربة الديمقراطية العمالية الراديكالية — ✅ معتمد
+- `ctx-paris-may-1968-intellectual` — أحداث مايو 1968 في باريس وثورة ما بعد البنيوية والتفكيك — ✅ معتمد
 - `ctx-phenomenology-husserl` — الفينومينولوجيا الهوسرلية — ✅ معتمد
+- `ctx-post-911-war-on-terror-surveillance` — أحداث 11 سبتمبر والحرب على الإرهاب وصعود دولة المراقبة والأمن — ✅ معتمد
+- `ctx-post-apartheid-south-africa-trc` — جنوب أفريقيا بعد الأبارتهايد ولجان الحقيقة والمصالحة الوطنية — ✅ معتمد
+- `ctx-post-civil-war-reconstruction-us` — عصر إعادة الإعمار في أمريكا وصعود قوانين جيم كرو والمقاومة — ✅ معتمد
+- `ctx-post-truth-polarization-social-media` — عصر «ما بعد الحقيقة» وخوارزميات الاستقطاب وغرف الصدى الرقمية — ✅ معتمد
 - `ctx-post-war-europe` — السياق التاريخي الأوروبي بعد الحربين العالميتين — ✅ معتمد
-- `ctx-postmodern-critical-tradition` — سياق ما بعد الحداثة والنقد التفكيكي والتحرري — 🕓 مسودة
+- `ctx-post-war-welfare-state-europe` — دولة الرفاه الأوروبية بعد الحرب وبناء الضمان الاجتماعي الشامل — ✅ معتمد
+- `ctx-post-ww2-existential-angst` — أوروبا ما بعد الحرب العالمية الثانية وسيادة القلق الوجودي والعبث — ✅ معتمد
+- `ctx-postmodern-critical-tradition` — سياق ما بعد الحداثة والنقد التفكيكي والتحرري — ✅ معتمد
+- `ctx-prague-spring-1968-crushed` — ربيع براغ (1968) وسحق الاشتراكية ذات الوجه الإنساني بالدبابات — ✅ معتمد
+- `ctx-presocratic-ionia-nature` — سياق إيونيا وميلاد الفلسفة الطبيعية والتحول من الميثوس إلى اللوغوس — ✅ معتمد
+- `ctx-psychedelic-renaissance-neuroscience` — النهضة العلمية المعاصرة للعلاجات المخدرة والمعدلة للوعي — ✅ معتمد
 - `ctx-psychoanalytic-tradition` — التقليد التحليلي النفسي — ✅ معتمد
-- `ctx-romanticism-counter-enlightenment` — سياق الحركة الرومانسية ونقد التنوير وسيكولوجيا الأعماق — 🕓 مسودة
+- `ctx-reformation-printing-press-europe` — الإصلاح البروتستانتي ومطبعة غوتنبرغ وثورة القراءة الفردية — ✅ معتمد
+- `ctx-rise-of-ai-generative-revolution` — ثورة الذكاء الاصطناعي التوليدي ومسألة وعي الآلة وإعادة تعريف الإنسان — ✅ معتمد
+- `ctx-romanticism-counter-enlightenment` — سياق الحركة الرومانسية ونقد التنوير وسيكولوجيا الأعماق — ✅ معتمد
+- `ctx-rwandan-genocide-ethnic-trauma` — الإبادة الجماعية في رواندا (1994) وأزمة الضمير الدولي وعلاج الصدمة الجمعية — ✅ معتمد
+- `ctx-sassanid-gundeshapur-medicine` — أكاديمية جنديسابور وتلاقي الطب اليوناني والفارسي والهندي — ✅ معتمد
+- `ctx-scientific-revolution-17th` — الثورة العلمية في القرن السابع عشر والميكانيكية الجديدة — ✅ معتمد
+- `ctx-silicon-valley-techno-utopianism` — وادي السيليكون واليوتوبيا التقنية ونزعة التجاوز الإنساني — ✅ معتمد
+- `ctx-spanish-civil-war-international-brigades` — الحرب الأهلية الإسبانية والكتائب الدولية والمواجهة مع الفاشية — ✅ معتمد
+- `ctx-stoa-poikile-athens` — سياق الرواق الملون في أثينا والتربية الرواقية المدنية — ✅ معتمد
 - `ctx-stoicism` — الفلسفة الرواقية — ✅ معتمد
+- `ctx-stonewall-riots-gay-liberation` — انتفاضة ستونوول (1969) في نيويورك وميلاد حركة تحرر المثليين — ✅ معتمد
+- `ctx-surveillance-capitalism-big-data` — رأسمالية المراقبة وخوارزميات تعدين السلوك وتوجيه الانتباه — ✅ معتمد
+- `ctx-tavistock-institute-group-dynamics` — معهد تافستوك في لندن وأبحاث ديناميكيات الجماعة والتحليل المؤسسي — ✅ معتمد
 - `ctx-therapeutic-community` — تقليد المجتمع العلاجي والديمقراطية المؤسسية — ✅ معتمد
+- `ctx-toledo-school-of-translators` — مدرسة طليطلة للترجمة وجسر انتقال العلوم العربية إلى أوروبا — ✅ معتمد
+- `ctx-transgenerational-epigenetics-trauma` — ثورة علم الوراثة اللاجينية وإثبات انتقال الصدمات عبر الأجيال — ✅ معتمد
+- `ctx-vedic-upanishadic-india` — الهند الفيدية والأوبانيشادية وميلاد فلسفة الذات الكلية (Brahman-Atman) — ✅ معتمد
+- `ctx-victorian-britain-morality-crisis` — العصر الفيكتوري البريطاني وأزمة الإيمان بعد نظرية التطور — ✅ معتمد
+- `ctx-vienna-fin-de-siecle-psychoanalysis` — فيينا نهاية القرن التاسع عشر وحاضنة ولادة التحليل النفسي — ✅ معتمد
+- `ctx-warring-states-china-hundred-schools` — عصر الممالك المتحاربة في الصين وازدهار «مائة مدرسة فكرية» — ✅ معتمد
+- `ctx-weimar-classicism-goethe-schiller` — الكلاسيكية الفيمارية وغوته وشيلر وتثقيف الإنسان الجمالي — ✅ معتمد
+- `ctx-weimar-republic-hyperinflation-cabaret` — جمهورية فايمار والأزمة الاقتصادية وازدهار الفنون الطليعية — ✅ معتمد
+- `ctx-ww1-trench-warfare-trauma` — الحرب العالمية الأولى وخنادق الموت وصدمة انهيار التفاؤل الحداثي — ✅ معتمد
 
-## أداة قياس (101)
+## أداة قياس (103)
 
 - `ins-aai` — مقابلة التعلّق للبالغين — ✅ معتمد
 - `ins-adi-r` — المقابلة التشخيصية للتوحد المنقحة (ADI-R) — ✅ معتمد
@@ -3318,7 +4966,7 @@
 - `ins-cbcl` — قائمة سلوك الطفل لنظام أشنباخ للتقييم المبني تجريبياً — ✅ معتمد
 - `ins-ces-d` — مقياس مركز الدراسات الوبائية للاكتئاب — ✅ معتمد
 - `ins-conners-rating-scales` — مقاييس كونرز لتقييم اضطراب فرط الحركة وتشتت الانتباه — ✅ معتمد
-- `ins-cope-inventory` — استبيان كوبر للتعامل مع المواقف الضاغطة (COPE) — 🕓 مسودة
+- `ins-cope-inventory` — استبيان كوبر للتعامل مع المواقف الضاغطة (COPE) — ✅ معتمد
 - `ins-corsi-block-tapping` — اختبار كورسي للنقر على المكعبات والذاكرة الفضائية (Corsi Block) — ✅ معتمد
 - `ins-cpt-conners` — اختبار الأداء المستمر لكونرز لقياس الانتباه والاندفاعية (CPT-3) — ✅ معتمد
 - `ins-dass-21` — مقياس الاكتئاب والقلق والتوتر المختصر (DASS-21) — ✅ معتمد
@@ -3339,6 +4987,8 @@
 - `ins-hads` — مقياس قلق واكتئاب المستشفيات (HADS) — ✅ معتمد
 - `ins-ham-a` — مقياس هاملتون لتقييم القلق — ✅ معتمد
 - `ins-ham-d` — مقياس هاملتون لتقييم الاكتئاب — ✅ معتمد
+- `ins-hamilton-hama` — مقياس هاملتون للقلق (HAM-A / HARS) — ✅ معتمد
+- `ins-hamilton-hdrs` — مقياس هاملتون لتقييم الاكتئاب (HDRS / HAM-D) — ✅ معتمد
 - `ins-hcr-20` — مقياس تقييم مخاطر العنف الهيكل السريري HCR-20 — ✅ معتمد
 - `ins-hexaco` — قائمة هيكساكو لسمات الشخصية الست — ✅ معتمد
 - `ins-house-tree-person` — اختبار رسم المنزل والشجرة والشخص — ✅ معتمد
@@ -3347,7 +4997,7 @@
 - `ins-inventory-parent-peer-attachment` — قائمة التعلّق بالوالدين والأقران — ✅ معتمد
 - `ins-iri-interpersonal-reactivity` — مؤشر التفاعل البين–شخصي لأبعاد التعاطف الأربعة (IRI) — ✅ معتمد
 - `ins-life-attitude-profile-lap-r` — مقياس المواقف من الحياة المُنقَّح (LAP-R) — ✅ معتمد
-- `ins-lot-r-life-orientation-test` — اختبار التوجه للحياة المنقَّح (LOT-R) — 🕓 مسودة
+- `ins-lot-r-life-orientation-test` — اختبار التوجه للحياة المنقَّح (LOT-R) — ✅ معتمد
 - `ins-lsas` — مقياس ليبوفيتز للقلق الاجتماعي — ✅ معتمد
 - `ins-m-chat-r-autism` — القائمة المعدلة للتوحد لدى الأطفال الصغار مع المتابعة (M-CHAT-R/F) — ✅ معتمد
 - `ins-madrs` — مقياس مونتغمري–آسبرغ لتقييم الاكتئاب (MADRS) — ✅ معتمد
@@ -3356,14 +5006,14 @@
 - `ins-mmpi` — اختبار الشخصية متعدد الأوجه لمينيسوتا — ✅ معتمد
 - `ins-mmse` — فحص الحالة العقلية المصغر — ✅ معتمد
 - `ins-moca` — تقييم مونتريال الإدراكي — ✅ معتمد
-- `ins-msceit-emotional-intelligence` — اختبار ماير-سالوفي-كاروسو للذكاء العاطفي (MSCEIT) — 🕓 مسودة
+- `ins-msceit-emotional-intelligence` — اختبار ماير-سالوفي-كاروسو للذكاء العاطفي (MSCEIT) — ✅ معتمد
 - `ins-neo-pi-r` — قائمة الشخصية المنقحة للخمسة الكبار — ✅ معتمد
 - `ins-oci-r` — قائمة الوسواس القهري المنقحة للتقرير الذاتي — ✅ معتمد
 - `ins-oxford-happiness-inventory` — قائمة أكسفورد للسعادة — ✅ معتمد
 - `ins-panas` — جدول الانفعال الإيجابي والسلبي لـ واتسون وكلارك وتيليغن — ✅ معتمد
 - `ins-panss` — مقياس المتلازمة الإيجابية والسلبية لتقييم الفصام (PANSS) — ✅ معتمد
 - `ins-pcl-5` — قائمة التحقق من اضطراب ما بعد الصدمة للـ DSM-5 — ✅ معتمد
-- `ins-penn-state-worry` — استبيان بنسلفانيا للقلق (PSWQ) — 🕓 مسودة
+- `ins-penn-state-worry` — استبيان بنسلفانيا للقلق (PSWQ) — ✅ معتمد
 - `ins-phq-9` — استبيان صحة المريض للاكتئاب - 9 بنود — ✅ معتمد
 - `ins-pid-5` — مقياس سمات الشخصية لـ DSM-5 البديل (PID-5) — ✅ معتمد
 - `ins-raven-progressive-matrices` — مصفوفات رافن التتابعية المعيارية والمتقدمة — ✅ معتمد
@@ -3374,7 +5024,7 @@
 - `ins-scas-spence-children` — مقياس سبنس لقلق الأطفال والمراهقين (SCAS) — ✅ معتمد
 - `ins-scid-5` — المقابلة الإكلينيكية المقننة لتشخيص اضطرابات الدليل الخامس (SCID-5) — ✅ معتمد
 - `ins-sdq` — استبيان نقاط القوة والصعوبات للأطفال والمراهقين — ✅ معتمد
-- `ins-self-compassion-scale` — مقياس التعاطف مع الذات لـ نيف (SCS) — 🕓 مسودة
+- `ins-self-compassion-scale` — مقياس التعاطف مع الذات لـ نيف (SCS) — ✅ معتمد
 - `ins-sias` — مقياس قلق التفاعل الاجتماعي ومقياس الرهاب الاجتماعي — ✅ معتمد
 - `ins-sogs` — مقياس فرز إدمان القمار في ساوث أوكس — ✅ معتمد
 - `ins-sources-of-meaning-some` — استبيان مصادر المعنى (SoMe) — ✅ معتمد
@@ -3403,8 +5053,10 @@
 - `ins-ymrs-young-mania` — مقياس يونغ لتقييم شدة الهوس السريري (YMRS) — ✅ معتمد
 - `ins-young-iat` — مقياس يونغ لإدمان الإنترنت — ✅ معتمد
 
-## اضطراب/حالة إكلينيكية (107)
+## اضطراب/حالة إكلينيكية (113)
 
+- `classification-dsm-5-tr` — الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR) — ✅ معتمد
+- `classification-icd-11` — التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11) — ✅ معتمد
 - `dis-acute-stress-disorder` — اضطراب الكرب الحاد — ✅ معتمد
 - `dis-adhd` — اضطراب نقص الانتباه وفرط الحركة — ✅ معتمد
 - `dis-adjustment-disorders` — اضطرابات التكيّف — ✅ معتمد
@@ -3421,6 +5073,7 @@
 - `dis-bipolar-i` — اضطراب ثنائي القطب من النوع الأول — ✅ معتمد
 - `dis-bipolar-ii` — اضطراب ثنائي القطب من النوع الثاني — ✅ معتمد
 - `dis-body-dysmorphic-disorder` — اضطراب خلل التشكّل الجسدي — ✅ معتمد
+- `dis-borderline-personality` — اضطراب الشخصية الحدية — ✅ معتمد
 - `dis-bpd` — اضطراب الشخصية الحدّية (BPD) — ✅ معتمد
 - `dis-breathing-related-sleep` — اضطرابات النوم المرتبطة بالتنفس — ✅ معتمد
 - `dis-brief-psychotic` — الذهان القصير — ✅ معتمد
@@ -3449,6 +5102,7 @@
 - `dis-female-orgasmic` — اضطراب النشوة الأنثوية — ✅ معتمد
 - `dis-female-sexual-interest-arousal` — اضطراب الاهتمام/الإثارة الجنسية الأنثوية — ✅ معتمد
 - `dis-fetishistic` — اضطراب الفيتشية (Fetishistic Disorder) — ✅ معتمد
+- `dis-frotteuristic-disorder` — اضطراب الفروتيوريزم (Frotteuristic Disorder) — ✅ معتمد
 - `dis-functional-neurological-symptom` — اضطراب الأعراض العصبية الوظيفية (التحويل) — ✅ معتمد
 - `dis-gad` — اضطراب القلق العام — ✅ معتمد
 - `dis-gambling-disorder` — اضطراب القمار — ✅ معتمد
@@ -3465,6 +5119,7 @@
 - `dis-intellectual-disability` — الإعاقة الذهنية — ✅ معتمد
 - `dis-intermittent-explosive` — اضطراب الانفجار المتقطع — ✅ معتمد
 - `dis-kleptomania` — هوس السرقة — ✅ معتمد
+- `dis-major-depressive` — اضطراب الاكتئاب الجسيم — ✅ معتمد
 - `dis-major-neurocognitive` — اضطراب معرفي عصبي رئيسي (الخرف) — ✅ معتمد
 - `dis-male-hypoactive-sexual-desire` — اضطراب الرغبة الجنسية المنخفضة عند الذكور — ✅ معتمد
 - `dis-mdd` — اضطراب الاكتئاب الجسيم (MDD) — ✅ معتمد
@@ -3480,6 +5135,7 @@
 - `dis-panic-disorder` — اضطراب الهلع — ✅ معتمد
 - `dis-parkinsonism-medication` — الباركنسونية المحدثة بمضادات الذهان والأدوية — ✅ معتمد
 - `dis-passive-aggressive-personality-historical` — اضطراب الشخصية العدوانية السلبية التاريخي (Passive-Aggressive Personality) — ✅ معتمد
+- `dis-pedophilic-disorder` — اضطراب البيدوفيليا (Pedophilic Disorder) — ✅ معتمد
 - `dis-persistent-depressive-disorder` — اضطراب الاكتئاب المستمر (عسر المزاج) — ✅ معتمد
 - `dis-pica` — اضطراب أكل المواد غير الغذائية (Pica) — ✅ معتمد
 - `dis-premature-ejaculation` — سرعة القذف (القذف المبكر) — ✅ معتمد
@@ -3513,7 +5169,7 @@
 - `dis-unspecified-mental` — اضطراب نفسي غير محدد — ✅ معتمد
 - `dis-voyeuristic` — اضطراب الاستطلاع (Voyeuristic Disorder) — ✅ معتمد
 
-## تقنية/تدخل علاجي (340)
+## تقنية/تدخل علاجي (380)
 
 - `tec-abm` — تعديل التحيز الانتباهي (ABM) — ✅ معتمد
 - `tec-accelerated-resolution-therapy` — العلاج بالحل السريع المعجَّل (ART) — ✅ معتمد
@@ -3543,6 +5199,7 @@
 - `tec-act-def-thanking-your-mind` — شكر العقل — ✅ معتمد
 - `tec-act-def-the-hands-as-thoughts-metaphor` — استعارة اليدين كأفكار — ✅ معتمد
 - `tec-act-def-titchener-s-repetition` — تكرار تيتشنر — ✅ معتمد
+- `tec-act-defusion-leaves-stream` — أوراق الشجر على النهر (Leaves on a Stream) في ACT — ✅ معتمد
 - `tec-act-hexaflex` — نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex) — ✅ معتمد
 - `tec-act-pres-anchoring-in-the-five-senses` — الرسو في الحواس الخمس — ✅ معتمد
 - `tec-act-pres-body-scan` — مسح الجسد — ✅ معتمد
@@ -3566,6 +5223,11 @@
 - `tec-act-val-values-vs-goals-distinction` — التمييز بين القيم والأهداف — ✅ معتمد
 - `tec-act-val-write-your-own-eulogy` — كتابة كلمة تأبين لنفسك — ✅ معتمد
 - `tec-aedp` — العلاج الديناميكي التجريبي المتسارع (AEDP) — ✅ معتمد
+- `tec-aedp-emotion-to-emotion-processing` — المعالجة من عاطفة إلى عاطفة (Emotion-to-Emotion Processing) — ✅ معتمد
+- `tec-aedp-metatherapeutic-processing` — المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP — ✅ معتمد
+- `tec-aedp-relational-reflectiveness` — الانعكاسية العلائقية (Relational Reflectiveness) في AEDP — ✅ معتمد
+- `tec-aedp-transformational-affects` — استحضار المشاعر التحويلية وتذوق الشفاء في AEDP — ✅ معتمد
+- `tec-aedp-undoing-aloneness` — تقنية كسر العزلة الوجدانية وتثبيت الحضور الآمن في AEDP — ✅ معتمد
 - `tec-affirmative-therapy` — العلاج النفسي التوكيدي — ✅ معتمد
 - `tec-alexander-technique` — تقنية ألكسندر للوعي الحركي والوضعية — ✅ معتمد
 - `tec-animal-assisted-therapy` — العلاج بمساعدة الحيوانات (AAT) — ✅ معتمد
@@ -3578,7 +5240,7 @@
 - `tec-bibliotherapy` — العلاج بالقراءة والبيبليوثيرابيا — ✅ معتمد
 - `tec-biofeedback` — البيوفيتباك (Biofeedback) — ✅ معتمد
 - `tec-bowen-family-systems` — علاج الأنساق الأسرية لبوين والتمايز الذاتي — ✅ معتمد
-- `tec-brainspotting` — تقنية برينزسبوتينغ (Brainspotting) — ✅ معتمد
+- `tec-brainspotting` — براين سبوتِنغ (Brainspotting) — ✅ معتمد
 - `tec-buddhist-informed-psychotherapy` — العلاج النفسي المستنير بالبوذية — ✅ معتمد
 - `tec-cat` — العلاج المعرفي التحليلي (CAT) — ✅ معتمد
 - `tec-cbasp` — نظام التحليل المعرفي السلوكي للعلاج النفسي (CBASP) — ✅ معتمد
@@ -3599,6 +5261,7 @@
 - `tec-cbt-cog-identifying-core-beliefs-schemas` — تحديد المعتقدات الجوهرية والمخططات المعرفية — ✅ معتمد
 - `tec-cbt-cog-socratic-questioning` — التساؤل السقراطي — ✅ معتمد
 - `tec-cbt-cog-thought-defusion` — الانفصال عن الأفكار (Defusion) — ✅ معتمد
+- `tec-cbt-cognitive-restructuring` — إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT — ✅ معتمد
 - `tec-cbt-emo-anger-management-techniques` — تقنيات إدارة الغضب — ✅ معتمد
 - `tec-cbt-emo-box-breathing` — التنفس المربّع — ✅ معتمد
 - `tec-cbt-emo-coping-statements` — عبارات التأقلم — ✅ معتمد
@@ -3608,7 +5271,7 @@
 - `tec-cbt-emo-gratitude-practices` — ممارسات الامتنان — ✅ معتمد
 - `tec-cbt-emo-interoceptive-awareness-training` — تدريب الوعي بالإحساس الداخلي — ✅ معتمد
 - `tec-cbt-emo-progressive-muscle-relaxation` — الإرخاء العضلي التدريجي — ✅ معتمد
-- `tec-cbt-emo-self-compassion-exercises` — تمارين الرأفة بالذات — 🕓 مسودة
+- `tec-cbt-emo-self-compassion-exercises` — تمارين الرأفة بالذات — ✅ معتمد
 - `tec-cbt-exp-exposure-hierarchy-building` — بناء سلّم التعرض التدريجي — ✅ معتمد
 - `tec-cbt-exp-flooding` — الإغراق — ✅ معتمد
 - `tec-cbt-exp-in-vivo-exposure-with-response-prevention` — التعرض الحي مع منع الاستجابة — ✅ معتمد
@@ -3623,7 +5286,7 @@
 - `tec-cbt-int-giving-and-receiving-feedback` — إعطاء وتلقّي الملاحظات — ✅ معتمد
 - `tec-cbt-int-perspective-taking` — تبنّي منظور الآخر — ✅ معتمد
 - `tec-cbt-int-self-validation` — التصديق الذاتي — ✅ معتمد
-- `tec-cbt-mind-body-scan` — مسح الجسد — 🕓 مسودة
+- `tec-cbt-mind-body-scan` — مسح الجسد — ✅ معتمد
 - `tec-cbt-mind-cbt-thought-log-thought-record` — سجل الأفكار المعرفي — ✅ معتمد
 - `tec-cbt-mind-grounding-techniques` — تقنيات التأريض (الرسو) — ✅ معتمد
 - `tec-cbt-mind-journaling-for-self-reflection` — كتابة اليوميات للتأمل الذاتي — ✅ معتمد
@@ -3647,6 +5310,7 @@
 - `tec-cognitive-reappraisal` — إعادة التقييم المعرفي — ✅ معتمد
 - `tec-coherence-therapy` — علاج التماسك وإعادة توحيد الذاكرة — ✅ معتمد
 - `tec-collaborative-language-systems` — الأنظمة اللغوية التعاونية — ✅ معتمد
+- `tec-compassionate-mind-training` — تقنية تدريب العقل العطوف وتخيل الذات الرحيمة في CFT — ✅ معتمد
 - `tec-comprehensive-resource-model` — نموذج الموارد الشامل للصدمة (CRM) — ✅ معتمد
 - `tec-contemplative-psychotherapy` — العلاج النفسي التأملي (جامعة ناروبا) — ✅ معتمد
 - `tec-contextual-family-therapy` — العلاج الأسري السياقي متعدد الأجيال — ✅ معتمد
@@ -3666,15 +5330,15 @@
 - `tec-dbt-dt-improve-the-moment` — تحسين اللحظة (IMPROVE) — ✅ معتمد
 - `tec-dbt-dt-practicing-imperfection` — ممارسة عدم الكمال — ✅ معتمد
 - `tec-dbt-dt-pros-and-cons` — الإيجابيات والسلبيات — ✅ معتمد
-- `tec-dbt-dt-radical-acceptance` — التقبل الجذري — 🕓 مسودة
+- `tec-dbt-dt-radical-acceptance` — التقبل الجذري — ✅ معتمد
 - `tec-dbt-dt-reality-acceptance` — تقبل الواقع الكامل — ✅ معتمد
 - `tec-dbt-dt-rescue-thinking` — التفكير الإنقاذي — ✅ معتمد
 - `tec-dbt-dt-self-soothe-with-the-five-senses` — التهدئة الذاتية بالحواس الخمس — ✅ معتمد
 - `tec-dbt-dt-stop` — توقف (STOP) — ✅ معتمد
 - `tec-dbt-dt-tipp` — تيب (TIPP) — ✅ معتمد
 - `tec-dbt-dt-turning-the-mind` — توجيه العقل — ✅ معتمد
-- `tec-dbt-dt-urge-surfing` — ركوب موجة الرغبة الملحة — 🕓 مسودة
-- `tec-dbt-dt-willingness-vs-willfulness` — الاستعداد مقابل العناد — 🕓 مسودة
+- `tec-dbt-dt-urge-surfing` — ركوب موجة الرغبة الملحة — ✅ معتمد
+- `tec-dbt-dt-willingness-vs-willfulness` — الاستعداد مقابل العناد — ✅ معتمد
 - `tec-dbt-er-abc-please` — ايه بي سي بليز (ABC PLEASE) — خفض الهشاشة الانفعالية — ✅ معتمد
 - `tec-dbt-er-accumulating-positives-build-mastery` — تجميع الإيجابيات طويلة المدى وبناء الإتقان (B) — ✅ معتمد
 - `tec-dbt-er-behavioral-chain-analysis` — تحليل السلسلة السلوكية — ✅ معتمد
@@ -3683,12 +5347,12 @@
 - `tec-dbt-er-cope-ahead` — الاستعداد المسبق للتأقلم (C) — ✅ معتمد
 - `tec-dbt-er-dialectical-thinking` — التفكير الجدلي (الديالكتيكي) — ✅ معتمد
 - `tec-dbt-er-labeling-emotions` — تسمية المشاعر — ✅ معتمد
-- `tec-dbt-er-mindful-eating` — الأكل بيقظة — 🕓 مسودة
+- `tec-dbt-er-mindful-eating` — الأكل بيقظة — ✅ معتمد
 - `tec-dbt-er-model-for-describing-emotions` — نموذج وصف المشاعر — ✅ معتمد
 - `tec-dbt-er-myths-about-emotions` — خرافات المشاعر والتعامل معها — ✅ معتمد
 - `tec-dbt-er-opposite-action` — الفعل المعاكس — ✅ معتمد
 - `tec-dbt-er-please` — بليز (PLEASE) — خفض الحساسية للمشاعر السلبية — ✅ معتمد
-- `tec-dbt-er-self-validation` — التصديق الذاتي — 🕓 مسودة
+- `tec-dbt-er-self-validation` — التصديق الذاتي — ✅ معتمد
 - `tec-dbt-er-storytelling-mind-vs-wise-mind` — عقل القصص مقابل العقل الحكيم — ✅ معتمد
 - `tec-dbt-er-understanding-the-function-of-emotions` — وظائف المشاعر والانفعالات — ✅ معتمد
 - `tec-dbt-ie-avoiding-unnecessary-apologies` — تجنب الاعتذار غير الضروري — ✅ معتمد
@@ -3725,11 +5389,18 @@
 - `tec-dit` — العلاج الديناميكي البيني-الشخصي (DIT) — ✅ معتمد
 - `tec-drama-therapy` — العلاج بالدراما والمسرح — ✅ معتمد
 - `tec-eft-couples` — العلاج المرتكز على العاطفة للأزواج (EFT) — ✅ معتمد
+- `tec-eft-couples-de-escalation` — بروتوكول خفض التصعيد وإعادة هيكلة الرابطة الزوجية (EFCT) — ✅ معتمد
+- `tec-eft-emotion-focused-empty-chair` — الكرسي الفارغ (Empty Chair) في EFT — ✅ معتمد
 - `tec-eft-individual` — العلاج المرتكز على العاطفة للأفراد (EFT) — ✅ معتمد
 - `tec-ego-state` — علاج حالات الأنا (Ego State Therapy) — ✅ معتمد
 - `tec-eight-dimensions-of-relatedness` — الأبعاد الثمانية للارتباط والصلة الإنسانية — ✅ معتمد
 - `tec-elman-hypnosis` — تقنية إلمان في التنويم الإيحائي السريع — ✅ معتمد
 - `tec-emdr` — إزالة التحسس وإعادة المعالجة بحركات العين (EMDR) — ✅ معتمد
+- `tec-emdr-bilateral-stimulation` — التحفيز الثنائي الجانب (Bilateral Stimulation) في EMDR — ✅ معتمد
+- `tec-emdr-eight-phase-protocol` — بروتوكول المراحل الثمانية والتحفيز الثنائي لـ EMDR — ✅ معتمد
+- `tec-emdr-rdi-resource-installation` — تقنية تثبيت وتطوير الموارد الإيجابية (RDI) في EMDR — ✅ معتمد
+- `tec-emdr-resourcing` — بناء الموارد (Resourcing) في EMDR — ✅ معتمد
+- `tec-empty-chair-dialogue-eft` — تقنية الكرسي الفارغ لحسم الأعمال غير المكتملة في EFT — ✅ معتمد
 - `tec-encounter-groups` — مجموعات التلاقي الإنسانية (Encounter Groups) — ✅ معتمد
 - `tec-ericksonian-hypnotherapy` — التنويم الإيحائي الإريكسوني — ✅ معتمد
 - `tec-erp` — التعرض ومنع الاستجابة (ERP) — ✅ معتمد
@@ -3754,13 +5425,26 @@
 - `tec-hypno-analysis` — التنويم التحليلي (Hypno-analysis) — ✅ معتمد
 - `tec-ibct` — العلاج السلوكي التكاملي للأزواج (IBCT) — ✅ معتمد
 - `tec-ifs` — علاج منظومة الأسرة الداخلية (IFS) — ✅ معتمد
+- `tec-ifs-exile-retrieval-unburdening` — بروتوكول استرجاع الأجزاء المنفية وتحرير الأعباء الصدمية — ✅ معتمد
+- `tec-ifs-parts-mapping` — تخطيط الأجزاء (Parts Mapping) في IFS — ✅ معتمد
+- `tec-ifs-self-leadership` — قيادة الذات (Self Leadership) في IFS — ✅ معتمد
+- `tec-ifs-unblending-protectors` — بروتوكول فك الاندماج والتحاور مع الحماة في IFS — ✅ معتمد
 - `tec-imagery-rescripting` — إعادة كتابة سردية التخيل (Imagery Rescripting) — ✅ معتمد
+- `tec-imago-dialogue` — حوار الإيماغو (Imago Dialogue) — ✅ معتمد
+- `tec-imago-dialogue-protocol` — بروتوكول حوار الإيماغو الثلاثي: المرآة، التصديق، والتعاطف — ✅ معتمد
 - `tec-imago-relationship-therapy` — علاج العلاقات إيماغو — ✅ معتمد
+- `tec-indigenous-healing-circles` — دوائر الشفاء والطقوس المجتمعية للشعوب الأصلية — ✅ معتمد
 - `tec-ipt` — العلاج النفسي البيني-الشخصي (IPT) — ✅ معتمد
+- `tec-ipt-communication-analysis` — تقنية تحليل التواصل وحل النزاعات الدورانية في العلاج بين الشخصي (IPT) — ✅ معتمد
+- `tec-islamic-muraqabah-muhasabah` — تقنية المراقبة والمحاسبة والتفكر في علم النفس الإسلامي — ✅ معتمد
 - `tec-istdp` — العلاج الديناميكي المكثف قصير المدى (ISTDP) — ✅ معتمد
+- `tec-istdp-anxiety-pathway-regulation` — تنظيم مسارات القلق العضلي اللاإرادي في ISTDP — ✅ معتمد
+- `tec-istdp-head-on-collision` — تقنية المواجهة الصريحة مع المقاومة في ISTDP — ✅ معتمد
 - `tec-leadership-diamond-koestenbaum` — الألماسة القيادية الوجودية (The Leadership Diamond) — ✅ معتمد
 - `tec-matrix-model` — نموذج المصفوفة (Matrix Model) — ✅ معتمد
 - `tec-mbct` — العلاج المعرفي القائم على اليقظة الذهنية (MBCT) — ✅ معتمد
+- `tec-mbct-3min-breathing-space` — تقنية مساحة التنفس الثلاث دقائق في MBCT — ✅ معتمد
+- `tec-mbct-three-minute-breathing` — مساحة التنفس الثلاث دقائق (Three Minute Breathing Space) في MBCT — ✅ معتمد
 - `tec-mbrp` — الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP) — ✅ معتمد
 - `tec-mbsr` — برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR) — ✅ معتمد
 - `tec-mbt` — العلاج بالانعكاس الذهني (MBT) — ✅ معتمد
@@ -3771,6 +5455,7 @@
 - `tec-mesmerism-historical` — الماسمرية (Mesmerism) — ✅ معتمد
 - `tec-metacognitive-therapy` — العلاج ما وراء المعرفي (MCT) — ✅ معتمد
 - `tec-metaphor-therapy` — العلاج بالاستعارة العلاجية — ✅ معتمد
+- `tec-mi-oars-protocol` — بروتوكول OARS للتواصل وتوليد الدافعية في المقابلة التحفيزية — ✅ معتمد
 - `tec-milan-systemic` — مدرسة ميلان النظامية — ✅ معتمد
 - `tec-milieu-therapy` — العلاج بالبيئة والمجتمع العلاجي — ✅ معتمد
 - `tec-morita-therapy` — علاج موريتا — ✅ معتمد
@@ -3779,6 +5464,7 @@
 - `tec-multisystemic-therapy` — العلاج متعدد الأنظمة (MST) — ✅ معتمد
 - `tec-music-therapy` — العلاج بالموسيقى — ✅ معتمد
 - `tec-naikan-therapy` — علاج نايكان والتأمل الاستبطاني — ✅ معتمد
+- `tec-narrative-definitional-ceremony` — مراسم التعريف واستدعاء الشهود الخارجيين في العلاج السردي — ✅ معتمد
 - `tec-narrative-therapy` — العلاج السردي — ✅ معتمد
 - `tec-net` — العلاج بالتعرض السردي (NET) — ✅ معتمد
 - `tec-open-dialogue` — الحوار المفتوح في الرعاية النفسية والذهان — ✅ معتمد
@@ -3794,6 +5480,7 @@
 - `tec-phototherapy` — العلاج بالصور الفوتوغرافية (Phototherapy) — ✅ معتمد
 - `tec-play-therapy-branches` — العلاج باللعب ومداخله المتعددة — ✅ معتمد
 - `tec-poetry-therapy` — العلاج بالشعر والتعبير الأدبي — ✅ معتمد
+- `tec-polyvagal-ladder-mapping` — تقنية رسم خريطة السلم العصبي والمحفزات المبهمية — ✅ معتمد
 - `tec-positive-psychotherapy` — العلاج النفسي الإيجابي — ✅ معتمد
 - `tec-positive-psychotherapy-peseschkian` — العلاج النفسي الإيجابي لبيسشكيان — ✅ معتمد
 - `tec-prep-program` — برنامج تعزيز العلاقات والوقاية من التفكك (PREP) — ✅ معتمد
@@ -3823,12 +5510,18 @@
 - `tec-self-hypnosis-progressive` — التنويم الذاتي (كإطار علاجي) — ✅ معتمد
 - `tec-self-talk-modification` — تعديل الكلام الذاتي — ✅ معتمد
 - `tec-sensate-focus` — التركيز الحسي — ✅ معتمد
+- `tec-sensorimotor-pendulation` — البندلة (Pendulation) في العلاج السنسوريموتور — ✅ معتمد
 - `tec-sensorimotor-psychotherapy` — العلاج النفسي الحركي الحسي — ✅ معتمد
+- `tec-sensorimotor-somatic-resourcing` — تقنية بناء الموارد الجسدية وتثبيت الاتزان السنسوريموتور — ✅ معتمد
 - `tec-sex-therapy-overview` — العلاج الجنسي (Sex Therapy) — ✅ معتمد
 - `tec-sfbt` — العلاج الموجز المرتكز على الحل (SFBT) — ✅ معتمد
+- `tec-sfbt-exception-finding` — تقنية استكشاف الاستثناءات ومفاتيح الهيكل في SFBT — ✅ معتمد
+- `tec-sfbt-miracle-scaling-questions` — تقنية سؤال المعجزة ومقاييس التدرج في العلاج المرتكز على الحل (SFBT) — ✅ معتمد
 - `tec-social-skills-training` — تدريب المهارات الاجتماعية (SST) — ✅ معتمد
 - `tec-socratic-existential-dialogue` — الحوار السقراطي الوجودي — ✅ معتمد
 - `tec-somatic-experiencing` — التجربة الجسدية للصدمة (SE) — ✅ معتمد
+- `tec-somatic-experiencing-tracking` — تتبع الإحساس الجسدي (Sensation Tracking) في SE — ✅ معتمد
+- `tec-somatic-pendulation-vortex` — تقنية البندلة الإيقاعية بين دوامة الصدمة ودوامة الشفاء — ✅ معتمد
 - `tec-somatic-trauma` — العلاج الجسدي للصدمة (Somatic Trauma Therapy) — ✅ معتمد
 - `tec-squeeze-technique` — تقنية الضغط (Squeeze Technique) — ✅ معتمد
 - `tec-stair-nt` — بروتوكول تدريب تنظيم الانفعالات والعلاقات للصدمة (STAIR-NT) — ✅ معتمد
@@ -3842,13 +5535,16 @@
 - `tec-supportive-expressive` — العلاج الداعم-التعبيري — ✅ معتمد
 - `tec-supportive-psychotherapy` — العلاج النفسي الديناميكي الداعم — ✅ معتمد
 - `tec-systemic-nlp-tad-james` — NLP النظامي (Systemic NLP — تاد جيمس) — ✅ معتمد
+- `tec-tawakkul-cognitive-reframing` — إعادة التأطير المعرفي عبر التوكل والتسليم الإيماني — ✅ معتمد
 - `tec-tf-cbt` — العلاج المعرفي السلوكي المرتكز على الصدمة للأطفال (TF-CBT) — ✅ معتمد
 - `tec-tfp` — العلاج المرتكز على النقل (TFP) — ✅ معتمد
 - `tec-theraplay` — علاج ثيرابلاي للتفاعل الأسري والارتباط — ✅ معتمد
 - `tec-time-line-therapy` — علاج خط الزمن (Time Line Therapy™) — ✅ معتمد
 - `tec-tldp` — العلاج الديناميكي المحدد زمنياً (TLDP) — ✅ معتمد
 - `tec-transdiagnostic-cbt` — العلاج المعرفي السلوكي العابر للتشخيص — ✅ معتمد
+- `tec-trauma-discharge-somatic` — تقنية تفريغ الصدمة والاهتزاز العضلي التلقائي — ✅ معتمد
 - `tec-tre` — تمارين تحرير الصدمات والضغوط (TRE) — ✅ معتمد
+- `tec-two-chair-dialogue-eft` — تقنية حوار الكرسيين لتجاوز النقد الذاتي في EFT — ✅ معتمد
 - `tec-unified-protocol` — البروتوكول الموحّد للاضطرابات الانفعالية (UP) — ✅ معتمد
 - `tec-vaginal-dilator-therapy` — علاج موسّعات المهبل (Vaginal Dilator Therapy) — ✅ معتمد
 - `tec-vr-exposure` — التعرض بالواقع الافتراضي (VRET) — ✅ معتمد
@@ -3856,7 +5552,7 @@
 - `tec-wet` — علاج التعرض الكتابي للصدمة (WET) — ✅ معتمد
 - `tec-writing-therapy` — العلاج بالكتابة التعبيرية — ✅ معتمد
 
-## دراسة وبحث (119)
+## دراسة وبحث (121)
 
 - `stu-ainsworth-strange-situation` — دراسة أينسورث حول الموقف الغريب وأنماط التعلّق عند الرضع — ✅ معتمد
 - `stu-aronson-jigsaw-classroom` — دراسة إليوت أرونسون لغرفة الألغاز والتعلم التعاوني (Jigsaw) — ✅ معتمد
@@ -3873,7 +5569,7 @@
 - `stu-bowlby-forty-four-thieves` — دراسة بولبي لـ 44 لصاً حدثاً والحرمان الأمومي المبكر — ✅ معتمد
 - `stu-bransford-johnson-context-memory` — دراسة برانسفورد وجونسون لأثر السياق والمعرفة المسبقة على الفهم (1972) — ✅ معتمد
 - `stu-breitbart-mcp-rct` — تجربة معشاة لفعالية العلاج المرتكز على المعنى — ✅ معتمد
-- `stu-broadbent-filter-theory` — نظرية المرشح الواسعة لـ برودبنت (1958) — 🕓 مسودة
+- `stu-broadbent-filter-theory` — نظرية المرشح الواسعة لـ برودبنت (1958) — ✅ معتمد
 - `stu-broca-tan-localization` — دراسة بروكا التاريخية للمريض 'تان' وتوطين وظيفة إنتاج الكلام — ✅ معتمد
 - `stu-bucharest-early-intervention-project` — مشروع بوخارست للتدخل المبكر ودراسة أيتام المؤسسات الرومانية — ✅ معتمد
 - `stu-chabris-simons-invisible-gorilla` — تجربة دانيال سيمونز وكريستوفر شابريس للغوريلا غير المرئية (1999) — ✅ معتمد
@@ -3898,7 +5594,7 @@
 - `stu-festinger-cognitive-dissonance` — تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي — ✅ معتمد
 - `stu-freedman-fraser-foot-in-the-door` — تجربة جوناثان فريدمان وسكوت فريزر لتقنية 'القدم في الباب' (1966) — ✅ معتمد
 - `stu-garcia-taste-aversion` — تجارب جارسيا وكويلينغ في النفور من الطعم والجاهزية البيولوجية — ✅ معتمد
-- `stu-gazzaniga-interpreter` — وحدة المُفسِّر في النصف الأيسر من الدماغ (غازانيغا) — 🕓 مسودة
+- `stu-gazzaniga-interpreter` — وحدة المُفسِّر في النصف الأيسر من الدماغ (غازانيغا) — ✅ معتمد
 - `stu-gibson-walk-visual-cliff` — تجربة إلينور جيبسون وريتشارد ووك للجرف البصري وإدراك العمق (1960) — ✅ معتمد
 - `stu-good-samaritan-darley-batson` — دراسة السامري الصالح لدارلي وباتسون حول ضغط الوقت والمساعدة — ✅ معتمد
 - `stu-harlow-rhesus-monkeys` — دراسات هارلو حول التعلّق والراحة التلامسية في قردة الريسوس — ✅ معتمد
@@ -3969,40 +5665,61 @@
 - `stu-terror-management-theory` — دراسات نظرية إدارة الرعب — ✅ معتمد
 - `stu-thorndike-puzzle-box` — تجارب ثورندايك لصناديق الألغاز وقانون الأثر — ✅ معتمد
 - `stu-tolman-cognitive-maps` — دراسة إدوارد تولمان للخرائط المعرفية والتعلم الكامن (1948) — ✅ معتمد
-- `stu-treisman-feature-integration` — نظرية تريسمان لتكامل السمات (FIT) — 🕓 مسودة
+- `stu-treisman-feature-integration` — نظرية تريسمان لتكامل السمات (FIT) — ✅ معتمد
 - `stu-triplett-social-facilitation` — دراسة تريبليت للتيسير الاجتماعي والتنافس — ✅ معتمد
-- `stu-tulving-encoding-specificity` — مبدأ النوعية في الترميز (تولفينغ 1973) — 🕓 مسودة
+- `stu-tulving-encoding-specificity` — مبدأ النوعية في الترميز (تولفينغ 1973) — ✅ معتمد
 - `stu-tversky-kahneman-conjunction-fallacy-linda` — تجربة كانمان وتفيرسكي لمشكلة ليندا ومغالطة الاقتران (1983) — ✅ معتمد
 - `stu-walters-social-modeling-inhibition` — دراسات والترز وباركي حول النمذجة الاجتماعية وتأثيرها على مقاومة الإغراء — ✅ معتمد
 - `stu-watson-little-albert` — تجربة واطسون وراينر على ألبرت الصغير والإشراط الانفعالي — ✅ معتمد
 - `stu-werner-kauai-resilience` — دراسة كاواي الطولية لإيمي فيرنر حول المرونة والصلابة النفسية — ✅ معتمد
+- `stu-wertheimer-gestalt` — تجارب Wertheimer للإدراك الجشطلتي: حركة الفانتوم (1912) — ✅ معتمد
 - `stu-wimmer-perner-false-belief` — تجربة فيمر وبيرنر للمهمة الكلاسيكية للاعتقاد الخاطئ ونظرية العقل — ✅ معتمد
+- `stu-wundt-leipzig-1879` — مختبر لايبزيغ 1879: تأسيس علم النفس التجريبي — ✅ معتمد
 
-## حدث تاريخي (72)
+## حدث تاريخي (149)
 
+- `evt-aaap-founding-1937` — تأسيس الجمعية الأمريكية لعلم النفس التطبيقي (AAAP) 1937 — ✅ معتمد
 - `evt-aabt-abct-founding-1966` — تأسيس جمعية النهوض بالعلاج السلوكي وتدشين عصر العلاج المعرفي السلوكي — ✅ معتمد
 - `evt-aamft-founding-1942` — تأسيس الجمعية الأمريكية للعلاج الزواجي والأسري وتأطير العلاج الأسري — ✅ معتمد
 - `evt-abpp-founding-1947` — تأسيس المجلس الأمريكي لعلم النفس المهني لمنح البورد التخصصي — ✅ معتمد
 - `evt-ahp-founding-1961` — تأسيس جمعية علم النفس الإنساني وإطلاق القوة الثالثة — ✅ معتمد
+- `evt-ai-breakthrough-deep-learning-2012` — ثورة التعلم العميق والذكاء الاصطناعي 2012 ومسألة الوعي الآلي — ✅ معتمد
 - `evt-american-journal-psychology-1887` — تأسيس المجلة الأمريكية لعلم النفس بواسطة ستانلي هول — ✅ معتمد
 - `evt-anti-psychiatry-network-london-1967` — مؤتمر جدليات التحرير في لندن وتأسيس شبكة فيلادلفيا في كينغسلي هول — ✅ معتمد
 - `evt-apa-apology-racism-2021` — الاعتذار التاريخي الرسمي لجمعية علم النفس الأمريكية عن المساهمة في العنصرية المنهجية — ✅ معتمد
 - `evt-apa-founding-1892` — تأسيس جمعية علم النفس الأمريكية في جامعة بنسلفانيا — ✅ معتمد
 - `evt-aps-split-1988` — انشقاق جمعية العلوم النفسية عن جمعية علم النفس الأمريكية — ✅ معتمد
+- `evt-arab-defeat-1967-philosophical-turn` — هزيمة 1967 وانطلاق مشاريع نقد التراث والعقل العربي — ✅ معتمد
 - `evt-army-alpha-beta-ww1-ww2-selection` — برامج الاختبارات النفسية الجماعية لفرز وتصنيف المجندين في الجيش الأمريكي — ✅ معتمد
 - `evt-aub-psychology-department-1950` — تأسيس قسم علم النفس والعيادات الإرشادية في الجامعة الأمريكية ببيروت — ✅ معتمد
+- `evt-bad-homburg-international-psychotherapy-1924` — انعقاد المؤتمر الدولي الأول للعلاج النفسي في باد هومبورغ 1924 — ✅ معتمد
+- `evt-bandung-conference-1955-decolonial` — مؤتمر باندونغ لعدم الانحياز 1955 وولادة الفكر العالم ثالثي والديكولونيالي — ✅ معتمد
 - `evt-basaglia-law-italy-1978` — صدور قانون بازاليا في إيطاليا والإغلاق الإلزامي الكامل للمصحات النفسية — ✅ معتمد
+- `evt-battle-of-jena-hegel-1806` — معركة يينا 1806 ورؤية هيغل لنابليون و'نهاية التاريخ' — ✅ معتمد
 - `evt-boulder-conference-scientist-practitioner-1949` — مؤتمر بولدر وإقرار نموذج العالم-الممارس لعلم النفس الإكلينيكي — ✅ معتمد
 - `evt-bps-founding-1901` — تأسيس جمعية علم النفس البريطانية في كلية لندن الجامعية — ✅ معتمد
 - `evt-buenos-aires-psychology-institute-1908` — تأسيس معهد علم النفس بجامعة بوينس آيرس ورسوخ علم النفس في أمريكا اللاتينية — ✅ معتمد
+- `evt-burning-of-averroes-books-cordoba-1195` — محنة ابن رشد ونكبة الفلاسفة وإحراق كتبه في قرطبة (1195 م) — ✅ معتمد
+- `evt-burning-of-giordano-bruno-1600` — إحراق جوردانو برونو حياً في روما (1600 م) — ✅ معتمد
 - `evt-calcutta-psychology-department-1916` — تأسيس أول قسم لعلم النفس التجريبي في جامعة كلكتا بالهند بواسطة سينغوبتا — ✅ معتمد
+- `evt-cbt-founding-1950s-60s` — تأسيس العلاج المعرفي السلوكي (CBT) في الخمسينيات والستينيات — ✅ معتمد
 - `evt-cerletti-bini-first-ect-1938` — أول تطبيق سريري للعلاج بالصدمة الكهربائية بواسطة سيرليتي وبيني في روما — ✅ معتمد
 - `evt-chlorpromazine-discovery-1952` — اكتشاف عقار الكلوربرومازين وثورة الأدوية المضادة للذهان وإفراغ المصحات — ✅ معتمد
 - `evt-clark-university-lectures-1909` — مؤتمر جامعة كلارك وإلقاء فرويد لمحاضراته التأسيسية للتحليل النفسي في أمريكا — ✅ معتمد
+- `evt-closing-of-athens-schools-justinian-529` — مرسوم جستنيان وإغلاق مدارس الفلسفة في أثينا (529 م) — ✅ معتمد
 - `evt-community-mental-health-act-1963` — توقيع الرئيس كينيدي لقانون مراكز الصحة النفسية المجتمعية CMHA — ✅ معتمد
+- `evt-condemnations-of-1270-1277-paris` — إدانات باريس الكنسية للرشدية اللاتينية (1277 م) — ✅ معتمد
 - `evt-connecticut-licensing-law-1945` — إقرار أول قانون لترخيص ممارسة علم النفس في ولاية كونيتيكت — ✅ معتمد
+- `evt-council-of-chalcedon-451` — مجمع خلقيدونية المسكوني (451 م) — ✅ معتمد
+- `evt-council-of-nicaea-325` — مجمع نيقية المسكوني الأول (325 م) — ✅ معتمد
 - `evt-cyril-burt-twin-data-controversy-1976` — جدل وتدقيق بيانات توائم سيريل بيرت حول وراثة الذكاء — ✅ معتمد
+- `evt-darwin-origin-of-species-1859` — صدور كتاب 'أصل الأنواع' لتشارلز داروين (1859 م) — ✅ معتمد
+- `evt-davos-conference-cassirer-heidegger-1929` — انعقاد مؤتمر دافوس الفلسفي بسويسرا (1929 م) — ✅ معتمد
+- `evt-dbt-founding-1990s` — تأسيس العلاج الجدلي السلوكي (DBT) في التسعينيات — ✅ معتمد
+- `evt-death-of-hypatia-415` — اغتيال الفيلسوفة هيباتيا في الإسكندرية (415 م) — ✅ معتمد
+- `evt-decolonization-wave-africa-1960` — عام أفريقيا 1960 واستقلال 17 دولة أفريقية — ✅ معتمد
 - `evt-deinstitutionalization-movement-1960` — حركة إلغاء المأسسة وتفريغ المصحات النفسية الكبرى في أمريكا وأوروبا — ✅ معتمد
+- `evt-destruction-of-alexandria-library` — حرق وتدمير مكتبة الإسكندرية القديمة — ✅ معتمد
 - `evt-dgps-founding-1904` — تأسيس الجمعية الألمانية لعلم النفس التجريبي في غيسن — ✅ معتمد
 - `evt-drapetomania-cartwright-1851` — صياغة صموئيل كارترايت لتشخيص درابتومانيا ومرضنة هروب العبيد في الجنوب الأمريكي — ✅ معتمد
 - `evt-dsm-1-publication-1952` — نشر الدليل التشخيصي والإحصائي الأول وتوحيد تصنيف الطب النفسي الأمريكي — ✅ معتمد
@@ -4014,130 +5731,718 @@
 - `evt-eabct-founding-1971` — تأسيس الجمعية الأوروبية للعلاجات السلوكية والمعرفية في ميونخ — ✅ معتمد
 - `evt-egaz-moniz-nobel-lobotomy-1949` — منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي — ✅ معتمد
 - `evt-egyptian-psychological-association-1948` — تأسيس الجمعية المصرية للدراسات النفسية وأول قسم أكاديمي لعلم النفس بمصر — ✅ معتمد
+- `evt-einstein-relativity-papers-1905` — نشر أينشتاين لأوراق النسبية الخاصة والفيزياء الحديثة (1905 م) — ✅ معتمد
+- `evt-emdr-founding-1987` — اكتشاف Francine Shapiro لـ EMDR (1987) — ✅ معتمد
+- `evt-encyclopedie-publication-diderot-1751` — صدور المجلد الأول من موسوعة ديدرو ودالمبير (1751 م) — ✅ معتمد
+- `evt-end-of-ww1-league-of-nations-1919` — تأسيس عصبة الأمم بعد الحرب العالمية الأولى (1919 م) — ✅ معتمد
 - `evt-esalen-institute-founding-1962` — تأسيس معهد إيسالن وانطلاق حركة الإمكانات البشرية في بيغ سور — ✅ معتمد
 - `evt-europsy-standard-2001` — إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس — ✅ معتمد
+- `evt-excommunication-of-spinoza-1656` — حرم ونفي باروخ سبينوزا من الكنيس اليهودي في أمستردام (1656 م) — ✅ معتمد
+- `evt-expulsion-of-jews-and-muslims-spain-1492` — سقوط غرناطة وطرد المسلمين واليهود من الأندلس (1492 م) — ✅ معتمد
+- `evt-fall-of-berlin-wall-1989-end-of-history` — سقوط جدار برلين 1989 وأطروحة 'نهاية التاريخ' لفوكوياما — ✅ معتمد
 - `evt-false-memory-syndrome-foundation-1992` — تأسيس مؤسسة متلازمة الذاكرة الزائفة واندلاع حروب الذاكرة في التسعينيات — ✅ معتمد
+- `evt-first-african-philosophy-conference-1970` — انعقاد أول مؤتمر للفلسفة الأفريقية في نيروبي (1970 م) — ✅ معتمد
+- `evt-first-international-congress-psychology-1889` — انعقاد المؤتمر الدولي الأول لعلم النفس في باريس 1889 — ✅ معتمد
 - `evt-fluoxetine-prozac-launch-1987` — طرح عقار الفلوكسيتين وثورة مضادات الاكتئاب الحديثة وتغيير الثقافة الشعبية — ✅ معتمد
+- `evt-foucault-chomsky-televised-debate-1971` — المناظرة التلفزيونية بين فوكو وتشومسكي في هولندا (1971 م) — ✅ معتمد
+- `evt-founding-of-al-azhar-970` — تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م) — ✅ معتمد
+- `evt-founding-of-aristotles-lyceum-335bc` — تأسيس اللوقيون والمدرسة المشائية لأرسطو (335 ق.م) — ✅ معتمد
+- `evt-founding-of-epicurus-garden-306bc` — تأسيس حديقة أبيقور في أثينا (306 ق.م) — ✅ معتمد
+- `evt-founding-of-frankfurt-institute-1923` — تأسيس معهد البحث الاجتماعي في فرانكفورت (1923 م) — ✅ معتمد
+- `evt-founding-of-kyoto-school-1911` — صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م) — ✅ معتمد
+- `evt-founding-of-platos-academy-387bc` — تأسيس أكاديمية أفلاطون في أثينا (387 ق.م) — ✅ معتمد
+- `evt-founding-of-psychoanalysis-vienna-1902` — تأسيس جمعية الأربعاء النفسية في فيينا على يد فرويد (1902 م) — ✅ معتمد
+- `evt-founding-of-stoic-porch-300bc` — تأسيس الرواق المرسوم للرواقية في أثينا (300 ق.م) — ✅ معتمد
+- `evt-founding-of-university-of-paris-1150` — تأسيس جامعة باريس (السوربون) وازدهار السكولاستية (1150 م) — ✅ معتمد
+- `evt-fourth-world-conference-women-beijing-1995` — مؤتمر بيجين للمرأة 1995 وترسيخ حقوق النساء كحقوق إنسان — ✅ معتمد
+- `evt-frankfurt-auschwitz-trials-1963` — محاكمات أوشفيتز في فرانكفورت وصياغة مبدأ 'التفلسف بعد أوشفيتز' — ✅ معتمد
 - `evt-frankl-camps` — تجربة فرانكل في معسكرات الاعتقال النازية — ✅ معتمد
+- `evt-frege-russell-paradox-letter-1902` — رسالة راسل إلى فريجه حول مفارقة المجموعات (1902 م) — ✅ معتمد
+- `evt-french-revolution-1789-philosophical` — الثورة الفرنسية 1789 وتطبيق أفكار العقد الاجتماعي وحقوق الإنسان — ✅ معتمد
 - `evt-goering-institute-nazi-psychology-1936` — تأسيس معهد غورينغ وتطهير وحظر التحليل النفسي الفرويدي في ألمانيا النازية — ✅ معتمد
+- `evt-haitian-revolution-1804-philosophical` — الثورة الهايتية 1804 وتجسيد التحرر الجذري للعبيد — ✅ معتمد
 - `evt-hinckley-verdict-insanity-reform-1984` — تبرئة جون هينكلي بمانع الجنون وإصلاح قانون الدفاع بالجنون الأمريكي — ✅ معتمد
 - `evt-hoffman-report-apa-torture-2015` — صدور تقرير هوفمان وإدانة تواطؤ قيادات جمعية علم النفس الأمريكية في التعذيب — ✅ معتمد
+- `evt-house-of-wisdom-translations-baghdad` — ازدهار بيت الحكمة وحركة الترجمة في بغداد (830 م) — ✅ معتمد
+- `evt-iaap-jungian-1955` — تأسيس الرابطة الدولية لعلم النفس التحليلي (IAAP) 1955 — ✅ معتمد
 - `evt-icd-11-cddi-2018` — إطلاق ICD-11 واعتماد التوصيفات الإكلينيكية ومتطلبات التشخيص CDDI — ✅ معتمد
 - `evt-icd-6-mental-disorders-1948` — إدراج قسم الاضطرابات النفسية لأول مرة في التصنيف الدولي للأمراض ICD-6 — ✅ معتمد
 - `evt-immigration-act-iq-testing-1924` — استخدام اختبارات الذكاء في إقرار قانون الهجرة الأمريكي لعام 1924 — ✅ معتمد
 - `evt-jahrbuch-psychoanalyse-1909` — تأسيس الكتاب السنوي للتحليل النفسي ومجلة Imago — ✅ معتمد
+- `evt-journal-analytical-psychology-1955` — صدور العدد الأول من مجلة علم النفس التحليلي 1955 — ✅ معتمد
 - `evt-jung-institute-zurich-1948` — تأسيس معهد سي. جي. يونغ في زيورخ للتدريب والبحث التحليلي — ✅ معتمد
+- `evt-lanterman-petris-short-act-1967` — صدور قانون لانترمان-بترس-شورت في كاليفورنيا 1967 — ✅ معتمد
+- `evt-launch-of-internet-www-1991` — إطلاق شبكة الويب العالمية 1991 وفلسفة الفضاء السيبراني — ✅ معتمد
+- `evt-lisbon-earthquake-1755-philosophical` — زلزال لشبونة 1755 وتفجير النقاش الفلسفي حول الشر والتفاؤل — ✅ معتمد
 - `evt-little-albert-ethical-controversy-1970` — المراجعة الأخلاقية لتجربة ليتل ألبرت وصياغة ميثاق حماية المشاركين في الأبحاث — ✅ معتمد
+- `evt-luther-95-theses-wittenberg-1517` — تعليق مارتن لوثر لأطروحاته الـ95 في فيتنبرغ (1517 م) — ✅ معتمد
+- `evt-may-1968-student-revolt-paris` — انتفاضة مايو 1968 الطلابية في باريس والمنعطف الفلسفي — ✅ معتمد
 - `evt-mental-health-parity-act-2008` — إقرار قانون تكافؤ الصحة النفسية والعدالة في الإدمان MHPAEA الأمريكي — ✅ معتمد
+- `evt-mihna-inquisition-mutazila-833` — محنة خلق القرآن في بغداد العباسية (833 م) — ✅ معتمد
 - `evt-mnaghten-rule-1843` — إقرار قاعدة ماكناتن للمسؤولية الجنائية والدفاع بالجنون في القضاء البريطاني — ✅ معتمد
 - `evt-munich-congress-jung-freud-split-1913` — مؤتمر ميونخ الرابع للتحليل النفسي والانفصال النهائي بين كارل يونغ وسيغموند فرويد — ✅ معتمد
+- `evt-nietzsche-collapse-turin-1889` — انهيار نيتشه العقلي في تورينو (1889 م) — ✅ معتمد
+- `evt-nimh-founding-1949` — تأسيس المعهد الوطني للصحة النفسية (NIMH) 1949 — ✅ معتمد
 - `evt-nuremberg-congress-ipa-1910` — مؤتمر نورمبرغ وتأسيس الجمعية الدولية للتحليل النفسي — ✅ معتمد
+- `evt-nuremberg-trials-1945-crimes-against-humanity` — محاكمات نورمبرغ 1945 وصياغة مفهوم 'جرائم ضد الإنسانية' — ✅ معتمد
+- `evt-old-saybrook-conference-1964` — مؤتمر أولد سايبروك وميلاد بيان علم النفس الإنساني 1964 — ✅ معتمد
 - `evt-open-science-collaboration-2015` — نشر تقرير مشروع إعادة الإنتاج في علم النفس وتأسيس حركة العلوم المفتوحة — ✅ معتمد
+- `evt-peace-of-westphalia-1648` — صلح وستفاليا وتأسيس نظام الدولة القومية الحديثة (1648 م) — ✅ معتمد
 - `evt-philosophische-studien-1881` — تأسيس أول دورية لعلم النفس التجريبي Philosophische Studien لفونت — ✅ معتمد
+- `evt-psychonomic-society-1959` — تأسيس جمعية سايكونومك لعلم النفس التجريبي 1959 — ✅ معتمد
+- `evt-publication-of-communist-manifesto-1848` — صدور البيان الشيوعي لماركس وإنجلز في لندن (1848 م) — ✅ معتمد
+- `evt-publication-of-rawls-theory-of-justice-1971` — صدور كتاب 'نظرية في العدالة' لجون رولز (1971 م) — ✅ معتمد
+- `evt-rectorate-address-heidegger-1933` — خطاب رئاسة الجامعة لمارتن هايدغر في فرايبورغ (1933 م) — ✅ معتمد
 - `evt-rogers-v-o-kin-1979` — حكم قضية روجرز ضد أوكين وإقرار حق المريض النفسي في رفض العلاج الدوائي القسري — ✅ معتمد
 - `evt-rosenhan-study-publication-1973` — نشر دراسة روزنهان حول صلاحية التشخيص وزلزال مصحات الطب النفسي — ✅ معتمد
+- `evt-royal-society-founding-london-1660` — تأسيس الجمعية الملكية في لندن (1660 م) — ✅ معتمد
 - `evt-sakel-insulin-shock-therapy-1933` — ابتكار مانفريد ساكل للعلاج بغيبوبة الأنسولين وانتشاره ثم التخلي عنه — ✅ معتمد
+- `evt-sartre-existentialism-is-a-humanism-lecture-1945` — محاضرة سارتر 'الوجودية نزعة إنسانية' في باريس (1945 م) — ✅ معتمد
+- `evt-secret-committee-1912` — تأسيس اللجنة السرية للتحليل النفسي (Geheimes Komitee) 1912 — ✅ معتمد
 - `evt-september-11-crisis-intervention-2001` — هجمات 11 سبتمبر وتدشين عصر تدخلات الأزمات والإسعاف النفسي الأولي PFA — ✅ معتمد
 - `evt-sfp-founding-1901` — تأسيس الجمعية الفرنسية لعلم النفس بقيادة ريبو وجانيه — ✅ معتمد
 - `evt-shell-shock-ww1-craiglockhart-1917` — صدمة القذائف في الحرب العالمية الأولى وتأسيس مشفى كريغلوكهارت العسكري — ✅ معتمد
 - `evt-south-african-psychological-association-1948` — تأسيس الجمعية النفسية لجنوب أفريقيا وانقسام ومسار مواجهة الفصل العنصري — ✅ معتمد
+- `evt-spanish-civil-war-1936-intellectuals` — الحرب الأهلية الإسبانية 1936 وتضامن الفلاسفة والأدباء — ✅ معتمد
+- `evt-spssi-founding-1936` — تأسيس الجمعية الأمريكية لدراسة علم النفس للقضايا الاجتماعية (SPSSI) 1936 — ✅ معتمد
 - `evt-stapel-fraud-scandal-2011` — فضيحة تزوير البيانات الأكاديمية لدايدريك ستابل وتقرير لجنة ليفيلت — ✅ معتمد
 - `evt-tarasoff-case-ruling-1976` — حكم المحكمة العليا في قضية تاراسوف وفرض واجب حماية وتحذير الضحايا — ✅ معتمد
 - `evt-tavistock-institute-1947` — تأسيس معهد تافستوك للعلاقات الإنسانية في لندن — ✅ معتمد
 - `evt-third-wave-cbt-symposium-2004` — ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي وتكامل القبول واليقظة الذهنية — ✅ معتمد
 - `evt-tokyo-psychological-laboratory-1903` — تأسيس أول معمل تجريبي لعلم النفس في جامعة طوكيو باليابان بواسطة موتورا — ✅ معتمد
+- `evt-translation-of-upanishads-dara-shikoh-1657` — ترجمة الأوبانيشادات إلى الفارسية على يد دارا شكوه (1657 م) — ✅ معتمد
+- `evt-trial-and-death-of-socrates-399bc` — محاكمة وإعدام سقراط في أثينا (399 ق.م) — ✅ معتمد
+- `evt-trial-of-galileo-1633` — محاكمة غاليليو أمام محاكم التفتيش الرومانية (1633) — ✅ معتمد
+- `evt-trial-of-socrates-memorial-symposium` — محاكمة أناكساغوراس وبروتاغوراس في أثينا بتهمة الإلحاد — ✅ معتمد
+- `evt-uk-mental-health-act-1959` — صدور قانون الصحة النفسية البريطاني 1959 وإلغاء التمييز القانوني بين المرضى — ✅ معتمد
+- `evt-unesco-world-philosophy-day-2002` — إعلان اليونسكو لليوم العالمي للفلسفة (2002 م) — ✅ معتمد
+- `evt-universal-declaration-human-rights-1948` — صدور الإعلان العالمي لحقوق الإنسان في باريس (1948 م) — ✅ معتمد
 - `evt-va-clinical-psychology-expansion-1946` — التوسع الضخم لإدارة المحاربين القدامى وتأسيس برامج تدريب علم النفس الإكلينيكي — ✅ معتمد
+- `evt-vienna-circle-manifesto-1929` — صدور بيان حلقة فيينا: الفهم العلمي للعالم (1929 م) — ✅ معتمد
 - `evt-vienna-psychoanalytic-institute-1925` — تأسيس معهد فيينا للتحليل النفسي والعيادة الإسعافية المجانية — ✅ معتمد
+- `evt-vienna-psychoanalytic-society-1908` — تأسيس جمعية فيينا للتحليل النفسي رسمياً 1908 — ✅ معتمد
 - `evt-vietnam-veterans-ptsd-advocacy-1980` — حركة قدامى محاربي فيتنام وإقرار اضطراب كرب ما بعد الصدمة رسمياً في DSM-III — ✅ معتمد
 - `evt-wednesday-psychological-society-1902` — تأسيس جمعية الأربعاء النفسية في فيينا — ✅ معتمد
 - `evt-weimar-congress-split-1911` — انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي — ✅ معتمد
+- `evt-world-congress-of-philosophy-first-1900` — انعقاد المؤتمر العالمي الأول للفلسفة في باريس (1900 م) — ✅ معتمد
 - `evt-wyatt-v-stickney-1971` — حكم قضية وايت ضد ستيكني وإقرار الحق الدستوري في المعاملة الإنسانية والعلاج — ✅ معتمد
+- `evt-yale-hull-neo-behaviorism-1935` — محاضرات كلارك هال في ييل وإعلان السلوكية الجديدة 1935 — ✅ معتمد
 
-## مصطلح لغوي متنازع عليه (3)
+## مصطلح لغوي متنازع عليه (126)
 
+- `trm-a-priori-a-posteriori` — السَّابِق/اللَّاحِق لِلتَّجْرِبَة (A priori / A posteriori) — ✅ معتمد
+- `trm-abreaction-freud-breuer` — التنفيس الانفعالي (Abreaction): تفريغ الشحنة العاطفية المحبوسة — ✅ معتمد
+- `trm-affect-emotion-feeling` — الانْفِعال، العاطفة، الشُّعور (Affect, Emotion, Feeling): فُروق دَقِيقَة — ✅ معتمد
+- `trm-affect-labeling` — تسمية العاطفة (Affect Labeling) — ✅ معتمد
+- `trm-akrasia-weakness-of-will` — الأكراسيا أو ضعف الإرادة (Akrasia): التصرف بعكس ما يمليه العقل — ✅ معتمد
+- `trm-aletheia-truth-unconcealment` — الأليثيا (Aletheia): الحقيقة كـ انكشاف ورفع للحجب — ✅ معتمد
+- `trm-alexithymia-psychosomatic` — الأليكسيثيميا (Alexithymia): العجز عن قراءة وتسمية الانفعالات — ✅ معتمد
+- `trm-amor-fati-nietzsche-stoic` — أمور فاتي (Amor Fati): حب القدر والرضا بالصيرورة — ✅ معتمد
+- `trm-anatta-shunyata-buddhist` — الأناتا والشونياتا: اللا-ذات والفراغ الجوهري في البوذية — ✅ معتمد
 - `trm-angst-translation` — ترجمة Angst: قلق أم فزع أم دهشة؟ — ✅ معتمد
+- `trm-anima-animus-jung` — الأنيما والأنيموس (Anima & Animus): المكون الأنثوي والذكوري في اللاوعي — ✅ معتمد
+- `trm-anschawung-intuition-kant` — الحدس الحسي (Anschauung): الإدراك العياني المباشر — ✅ معتمد
+- `trm-apatheia-stoic-translation` — الأباتيا (Apatheia): السكينة التحررية من الانفعال لا البلادة — ✅ معتمد
+- `trm-aporia-socratic` — الأبوريا (Aporia): الحيرة الفلسفية وانسداد الأفق المنطقي — ✅ معتمد
+- `trm-archetyp-archetype-jung` — النمط البدائي (Archetype): البنى الرمزية في اللاوعي الجمعي — ✅ معتمد
+- `trm-archetype` — النَّموذج الأَوَّلي (Archetype): الصُّورَة المَورُوثة — ✅ معتمد
+- `trm-arete-virtue-excellence` — الأريتي (Arete): الفضيلة والكمال الإنساني وتحقيق الغاية — ✅ معتمد
+- `trm-ataraxia-epicurean-pyrrhonic` — الأتاراكسيا (Ataraxia): طمأنينة البال وخلو النفس من الاضطراب — ✅ معتمد
+- `trm-attachment-style` — أَنْمَاط التَّعَلُّق (Attachment Styles) — ✅ معتمد
+- `trm-aufhebung-hegel` — مصطلح Aufhebung عند هيغل: الرفع والإلغاء والاستبقاء — ✅ معتمد
 - `trm-besetzung-cathexis` — ترجمة Besetzung: شحن أم استثمار نفسي أم تعيين؟ — ✅ معتمد
+- `trm-catharsis-aristotle-freud` — الكاثارسيس (Catharsis): التطهير التراجيدي والتفريغ الانفعالي — ✅ معتمد
+- `trm-cogito-ergo-sum` — الكوجيتو (Cogito): أنا أفكر إذن أنا موجود ودلالته — ✅ معتمد
+- `trm-cognitive-bias` — التَّحَيُّز الْمَعْرِفِيّ (Cognitive Bias): انْحِرَافَات مُنْتَظَمَة فِي التَّفْكِير — ✅ معتمد
+- `trm-cognitive-dissonance` — التَّنَاقُض المعرفي (Cognitive Dissonance) — ✅ معتمد
+- `trm-corporeite-merleau-ponty` — الجسدانية والإدراك المتجسد (Corporéité): لحمة العالم وتجسد الوعي — ✅ معتمد
+- `trm-das-man-they-self-heidegger` — «الناس» أو «الهم» (Das Man): طغيان الرأي العام والابتذال الزائف — ✅ معتمد
+- `trm-dasein-translation` — ترجمة الدازاين (Dasein): الكينونة-هناك أم الوجود العيني؟ — ✅ معتمد
+- `trm-defense-mechanism` — آليَّة الدِّفاع (Defense Mechanism) — ✅ معتمد
+- `trm-deontological-vs-consequentialist` — الأخلاق الواجبية والتبعية (Deontology vs. Consequentialism) — ✅ معتمد
+- `trm-dharma-hindu-buddhist` — الدارما (Dharma): النظام الأخلاقي والواجب والحقيقة الكونية — ✅ معتمد
+- `trm-dialectic-greek` — الجدلية (Dialectic / Dialektikē) — ✅ معتمد
+- `trm-differance-derrida` — الاختلاف المرجأ (Différance): تباعد المعنى وتأجيله اللانهائي — ✅ معتمد
+- `trm-ding-an-sich-kant` — الشيء في ذاته (Ding an sich): الجوهر الممتنع عن التجربة الحسية — ✅ معتمد
+- `trm-dispositif-foucault` — الجهاز أو المنظومة الإجرائية (Dispositif): شبكة علاقات السلطة والمعرفة — ✅ معتمد
+- `trm-dissociation` — الانْفِصَال (Dissociation): انْفِصَام الذَّاكِرَة، الهَوِيَّة، الوَعْي — ✅ معتمد
+- `trm-dukkha-buddhism` — الدوكا (Dukkha): المعاناة وانعدام الرضا الجوهري في الوجود — ✅ معتمد
+- `trm-elan-vital-bergson` — الدفعة الحيوية (Élan vital): التطور الخلاق لبرغسون — ✅ معتمد
+- `trm-empathy` — التَّعَاطُف (Empathy): فَهْم الآخَر مِن دَاخِله — ✅ معتمد
+- `trm-entelechy-aristotle` — الإنتيلخيا (Entelecheia): تحقق الكمال بالفعل وانبعاث الغاية — ✅ معتمد
+- `trm-entfremdung-alienation-marx-hegel` — الاغتراب والاستلاب (Entfremdung): تشيؤ الذات وفقدان الجوهر — ✅ معتمد
+- `trm-epiphenomenalism-mind` — الظاهراتية المصاحبة (Epiphenomenalism): الوعي كظل للنشاط العصبي — ✅ معتمد
+- `trm-episteme-vs-techne` — الإبستيمي والتقنية (Episteme vs. Techne): المعرفة النظرية والمهارة العملية — ✅ معتمد
+- `trm-epistemic-bubble-echo-chamber` — الفقاعة الإبستمولوجية وغرفة الصدى (Epistemic Bubble vs. Echo Chamber) — ✅ معتمد
+- `trm-epoche-husserl-pyrrhonic` — الإيبوخية (Epoché): تعليق الحكم والوضع بين قوسين — ✅ معتمد
+- `trm-eudaimonia-aristotle-translation` — اليودايمونيا (Eudaimonia): الازدهار الإنساني مقابل السعادة اللحظية — ✅ معتمد
+- `trm-falsifiability-popper` — القابلية للتكذيب والخطأ (Falsifiability): معيار العلم التجريبي الصارم — ✅ معتمد
+- `trm-family-resemblance-wittgenstein` — التشابه العائلي (Family Resemblance): المفاهيم المتشابكة بلا جوهر موحد — ✅ معتمد
+- `trm-fana-baqa-sufism` — الفناء والبقاء (Fana and Baqa): ذوبان الأنا وثبات الوجود الإلهي — ✅ معتمد
+- `trm-free-association` — التَّدَاعِي الحُرّ (Free Association) — ✅ معتمد
+- `trm-geist-spirit-mind-hegel` — الغايست (Geist): الروح والعقل وتجليه التاريخي — ✅ معتمد
+- `trm-gelassenheit-meister-heidegger` — الغلاسنهايت (Gelassenheit): التخلي والسكينة وترك الأشياء تكون — ✅ معتمد
+- `trm-gestalt-concept-translation` — الجشطالت (Gestalt): الشكل والصورة الكلية غير القابلة للتجزئة — ✅ معتمد
+- `trm-gestell-enframing-heidegger` — الغشتيل أو الإطار التقني (Gestell): حصار التقنية للوجود وتحويله لمورد — ✅ معتمد
+- `trm-good-enough-mother-winnicott` — الأم الجيدة بما يكفي (Good-Enough Mother): التوازن بين الإشباع والإحباط — ✅ معتمد
+- `trm-habitus-bourdieu` — الهَابِيتُوس (Habitus) عند بورديو: البِنْيَة المُنْتَجَة للعادات — ✅ معتمد
+- `trm-hamartia-tragedy` — الهامارتيا (Hamartia): الخطيئة التراجيدية والخطأ القاتل للبطل — ✅ معتمد
+- `trm-heuristics-and-biases-kahneman` — الاستدلالات التقريبية والانحيازات المعرفية (Heuristics & Biases) — ✅ معتمد
+- `trm-hikmah-falsafa-islamic` — الحكمة (Hikmah): الجمع بين البرهان العقلي والذوق الإشراقي — ✅ معتمد
+- `trm-holding-environment-winnicott` — البيئة الحاضنة (Holding Environment): الاحتواء الأمومي الآمن — ✅ معتمد
+- `trm-in-der-welt-sein-heidegger` — الكينونة-في-العالم (In-der-Welt-sein): وحدة الوجود المتشابك — ✅ معتمد
+- `trm-individuation-jung` — التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس — ✅ معتمد
+- `trm-intentionality-brentano-husserl` — القصدية (Intentionality): توجه الوعي دوماً نحو موضوع ما — ✅ معتمد
+- `trm-internalization` — الاسْتِدْخَال (Internalization): تَحويل الخَارِج لِدَاخِل — ✅ معتمد
+- `trm-is-ought-problem-hume` — مغالطة الكائن والواجب (Is-Ought Problem / Hume's Guillotine) — ✅ معتمد
+- `trm-jouissance-lacan` — الجويسانس (Jouissance) عند لاكان: اللذة المؤلمة المتجاوزة — ✅ معتمد
+- `trm-kairos-vs-chronos` — الكايروس والكرونوس (Kairos vs. Chronos): الوقت النوعي والزمن الكمي — ✅ معتمد
+- `trm-kalokagathia-greek` — الكالوغاثيا (Kalokagathia): التناغم بين الجمال الجسدي والفضيلة الأخلاقية — ✅ معتمد
+- `trm-karma-eastern` — الكارما (Karma): قانون الفعل والجزاء الأخلاقي والمسؤولية الكونية — ✅ معتمد
+- `trm-kehre-turning-heidegger` — المنعطف (Die Kehre): تحول تفكير هايدجر من الدازاين إلى نداء الوجود — ✅ معتمد
+- `trm-kenosis-theology` — الكينوسيس (Kenosis): إفراغ الذات والتواضع الوجودي — ✅ معتمد
+- `trm-leben-und-leib-phenomenology` — الجسد المعاش والجسد الفيزيائي (Leib vs. Körper) — ✅ معتمد
+- `trm-lebensform-form-of-life-wittgenstein` — شكل الحياة (Lebensform): الإطار الثقافي الحاكم للغة — ✅ معتمد
+- `trm-lebenswelt-lifeworld-husserl` — عالم الحياة المعاش (Lebenswelt): الأفق البديهي السابق للتنظير — ✅ معتمد
+- `trm-logos-heraclitus-stoic` — اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود — ✅ معتمد
+- `trm-mauvaise-foi-bad-faith-sartre` — سوء النية (Mauvaise foi): خداع الذات والهروب من مسؤولية الحرية — ✅ معتمد
+- `trm-maya-samsara-eastern` — المايا والسامسارا: الوهم ودورة الولادات في الفلسفة الهندية — ✅ معتمد
+- `trm-mimesis-imitation-representation` — المحاكاة (Mimesis): التمثيل الفني ونظرية الانعكاس — ✅ معتمد
+- `trm-mindfulness` — اليَقَظَة الذِّهْنِيَّة (Mindfulness) — ✅ معتمد
+- `trm-nachtraglichkeit-apres-coup` — الأثر الرجعي وتأخر المعنى الصادم (Nachträglichkeit / Après-coup) — ✅ معتمد
+- `trm-neuroception-porges` — الإدراك العصبي اللاواعي للأمان (Neuroception): استشعار الخطر قبل التفكير — ✅ معتمد
+- `trm-neuroplasticity-neuroscience` — المرونة العصبية (Neuroplasticity): قدرة الدماغ على إعادة تشكيل شبكاته — ✅ معتمد
+- `trm-neurosis` — العَصَابَة (Neurosis): صِراع لَاوَاعِيّ مُزْمِن — ✅ معتمد
+- `trm-nom-du-pere-lacan` — اسم الأب (Nom-du-Père): القانون الرمزي واللغة وقطع الالتحام — ✅ معتمد
+- `trm-nous-anaxagoras-plotinus` — النوس (Nous): العقل الخالص والفيض الإلهي — ✅ معتمد
+- `trm-object-relations` — عَلَاقَات الْمَوْضُوع (Object Relations): الْأَنْفُس فِي تَفَاعُل — ✅ معتمد
+- `trm-objet-petit-a-lacan` — الموضوع الصغير a (Objet petit a): الباعث الضائع للرغبة ونقص الوجود — ✅ معتمد
+- `trm-oikos-polis-greek` — الإيكوس والبوليس (Oikos vs. Polis): المجال الخاص والسيادة العامة — ✅ معتمد
+- `trm-parsimony-occam-razor` — الاقتصاد المعرفي ونصل أوكام (Lex Parsimoniae): تفضيل التفسير الأبسط — ✅ معتمد
+- `trm-persona-jung` — القناع الاجتماعي (Persona): الواجهة الظاهرية للتكيف مع العالم — ✅ معتمد
+- `trm-phronesis-practical-wisdom` — الفرونيسيس (Phronesis): الحكمة العملية وفقه الواقع عند أرسطو — ✅ معتمد
+- `trm-projective-identification-klein` — التماهي الإسقاطي (Projective Identification): إدخال الأجزاء في الآخر — ✅ معتمد
+- `trm-proprioception-interoception` — استقبال الحس العميق والإحساس الداخلي (Proprioception & Interoception) — ✅ معتمد
+- `trm-qualia-analytic-mind` — الكواليا (Qualia): الطابع الباطني النوعي للخبرة الذاتية المعاشة — ✅ معتمد
+- `trm-repression` — الكَبْت (Repression): طَرْد المُؤلم مِن الوَعْي — ✅ معتمد
+- `trm-ressentiment-nietzsche` — الحقد الوجودي والضغينة (Ressentiment): أخلاق العبيد وتزييف القيم — ✅ معتمد
+- `trm-reverie-bion` — السهو الأمومي الاستيعابي (Maternal Reverie): هضم الانفعالات الخام للطفل — ✅ معتمد
+- `trm-schemata` — الْمَخْطَطَات (Schemata): أُطُر مَعْرِفِيَّة لِـتَنْظِيم الْمَعْلُومَات — ✅ معتمد
+- `trm-simulacra-baudrillard` — الأيقونة الشبيهة والمحاكاة الفائقة (Simulacra & Simulation) — ✅ معتمد
+- `trm-sinn-und-bedeutung-frege` — المعنى والإشارة (Sinn und Bedeutung): الدلالة اللغوية والمرجع — ✅ معتمد
+- `trm-sinthome-lacan` — السانتوم (Sinthome): العقدة الرابعة الحافظة لتماسك النفس — ✅ معتمد
+- `trm-sorge-care-heidegger` — الهم والعناية (Sorge): التحديد الأنطولوجي للدازاين — ✅ معتمد
+- `trm-soul-scholastic` — النفس (Psyche / Anima) في الفلسفة المدرسية — ✅ معتمد
+- `trm-spaltung-splitting-freud-klein` — الانشطار الدفاعي (Spaltung / Splitting): انقسام الذات والموضوع — ✅ معتمد
+- `trm-sprachspiel-language-game-wittgenstein` — ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي — ✅ معتمد
+- `trm-sublimation` — التَّصْرِيح (Sublimation): تَحويل الدَّوافع المُنْحَرِفَة لِأَشْكَال مَقْبُولَة — ✅ معتمد
+- `trm-supervenience-philosophy-mind` — التبعية أو الانبثاقية المشروطة (Supervenience) — ✅ معتمد
+- `trm-synderesis-scholastic` — السينديريسيس (Synderesis): البصيرة الأخلاقية الفطرية للضمير — ✅ معتمد
+- `trm-tabula-rasa-locke` — الصفحة البيضاء (Tabula Rasa): العقل الفطري الخالي من الأفكار — ✅ معتمد
+- `trm-tazkiyah-nafs-islamic` — التزكية (Tazkiyah): ترويض النفس وتطهير الباطن والارتقاء الروحي — ✅ معتمد
+- `trm-todestrieb-death-drive` — غريزة الموت والهدام (Todestrieb / Thanatos) — ✅ معتمد
+- `trm-transference-countertransference` — التَّحَوُّل (Transference) والمَقَاوَمة المُتَقَابِلَة (Countertransference) — ✅ معتمد
 - `trm-trieb-instinct-drive` — ترجمة Trieb عند فرويد: غريزة أم دافع؟ — ✅ معتمد
+- `trm-uber-ich-superego` — الأنا الأعلى (Über-Ich): السلطة الوالدية والمثال الأخلاقي الداخلي — ✅ معتمد
+- `trm-ubermensch-overman-nietzsche` — الإنسان المتفوق (Übermensch): تجاوز الذات وتوليد القيم الجديدة — ✅ معتمد
+- `trm-ubertragung-transference` — التحويل الوجداني (Übertragung): إسقاط صراعات الماضي على المعالج — ✅ معتمد
+- `trm-unheimlich-uncanny-freud` — الغريب المألوف (Das Unheimliche): قلق الألفة المسترجعة — ✅ معتمد
+- `trm-veil-of-ignorance-rawls` — حجاب الجهل (Veil of Ignorance): التجرد من المصالح لتحقيق العدالة — ✅ معتمد
+- `trm-verdrangung-repression` — الكبت اللاشعوري (Verdrängung): إزاحة الأفكار المهددة من الوعي — ✅ معتمد
+- `trm-verfallen-falling-heidegger` — السقوط والتهافت (Verfallenheit): تشتت الدازاين في شواغل اليومي — ✅ معتمد
+- `trm-verneinung-denial-negation` — النفي والإنكار (Verneinung): الاعتراف باللاوعي عبر بوابة السلب — ✅ معتمد
+- `trm-vorhanden-vs-zuhanden-heidegger` — الحاضر أمام النظر والمعروض في اليد (Vorhandenheit vs. Zuhandenheit) — ✅ معتمد
+- `trm-wille-zur-macht-nietzsche` — إرادة القوة (Wille zur Macht): المحرك الجوهري للحياة والارتقاء — ✅ معتمد
+- `trm-working-through` — الْعَمَل مَعَ الذَّات (Working Through): مُعَالَجَة الْمَوَانِع — ✅ معتمد
+- `trm-wu-wei-daoism` — الوو-وي (Wu Wei): الفعل باللافعل والتدفق الطبيعي العفوي — ✅ معتمد
+- `trm-zeitgeist-hegel` — روح العصر (Zeitgeist): الوعي الجماعي الحاكم لمرحلة تاريخية — ✅ معتمد
 
-## نقد خارجي موثَّق (22)
+## نقد خارجي موثَّق (100)
 
+- `crt-adhd-overdiagnosis` — ADHD: تشخيص مُفرط — ✅ معتمد
+- `crt-adorno-horkheimer-dialectic-of-enlightenment` — نقد أدورنو وهوركهايمر لجدل التنوير والعقل الأداتي — ✅ معتمد
 - `crt-adorno-jargon-authenticity-critique` — نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية — ✅ معتمد
+- `crt-al-azm-critique-of-religious-thought` — نقد صادق جلال العظم للفكر الديني الغيبي بعد هزيمة 1967 — ✅ معتمد
+- `crt-al-jabri-critique-of-irfani-reason` — نقد الجابري للعقل العرفاني والغنوصي في الثقافة العربية — ✅ معتمد
 - `crt-anti-psychiatry-critique` — نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة — ✅ معتمد
+- `crt-arkoun-critique-of-theological-dogmatism` — نقد محمد أركون للإغلاق الدوغمائي والوعي الأرثوذكسي — ✅ معتمد
+- `crt-baudrillard-critique-of-hyperreality` — نقد بودريار للمحاكاة الفائقة واختفاء الواقع — ✅ معتمد
+- `crt-beauvoir-critique-of-patriarchal-othering` — نقد سيمون دي بوفوار لتشييء المرأة كآخر سلبي — ✅ معتمد
+- `crt-borderline-gendered-diagnosis` — اضطراب الشخصية الحدية: تشخيص جندري؟ — ✅ معتمد
+- `crt-butler-critique-of-heteronormativity` — نقد جوديث بتلر للمعيارية المغايرة وثنائية الجنس الطبيعي — ✅ معتمد
+- `crt-cesaire-critique-of-colonialism` — نقد إيميه سيزير للحضارة الاستعمارية وتوحشها — ✅ معتمد
 - `crt-commodification-critique` — النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية' — ✅ معتمد
 - `crt-critical-race-critique-psychology` — النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص — ✅ معتمد
+- `crt-critique-of-act-dbt` — نقد ACT وَ DBT: مَفَاهِيم «**الْمَوْجَة الثَّالِثَة**» كَانْتِهَازِيَّة — ✅ معتمد
+- `crt-critique-of-burnout-industry` — نقد صِنَاعَة الاحتِرَاق الْمِهَنِيّ (Burnout): تَطْبِيب الْفَشَل النِّظَامِيّ — ✅ معتمد
+- `crt-critique-of-cbt` — نقد CBT: «اِفْتِقَار إِلَى نَظَرِيَّة شَامِلَة» أَمْ «اِسْتِفَادَة مِن سُلُوكِيَّة سُلَطَوِيَّة»؟ — ✅ معتمد
+- `crt-critique-of-couples-therapy` — نقد الْعِلَاج الزَّوْجِيّ: «الزَّوَاج كَـعِلَاج» كَـ«سُلْطَة طَبِّيَّة» — ✅ معتمد
+- `crt-critique-of-couples-therapy-effectiveness` — نقد فَعَّالِيَّة الْعِلَاج الزَّوْجِيّ: «مَشَاكِل الْأَزْوَاج» هَل تُحُلّ؟ — ✅ معتمد
+- `crt-critique-of-emdr` — نقد الْآلِيَّة الْعِلْمِيَّة لِـ EMDR: هَل حَرَكَة الْعَيْن هِيَ الْأَسَاس؟ — ✅ معتمد
+- `crt-critique-of-emotionally-focused` — نقد الْعِلَاج بِالْمَشَاعِر (EFT) لِلْأَزْوَاج: «اِرْتِبَاط» أَمْ «اِعْتِمَادِيَّة»؟ — ✅ معتمد
+- `crt-critique-of-evolutionary-psychology` — نقد عِلْم النَّفْس التَّطَوُّرِيّ: «قِصَص فَوْق تَطَوُّرِيَّة» غَيْر قَابِلَة لِلتَّفْنِيد — ✅ معتمد
+- `crt-critique-of-existential-therapy` — نقد الْعِلَاج الْوُجُودِيّ: فَلْسَفَة لَا عِلَاج — ✅ معتمد
+- `crt-critique-of-family-systems` — نقد الْعِلَاج الْأُسَريّ النِّظَامِيّ: مَنْ يَحْدِّد مَا هُوَ «صِحِّيّ»؟ — ✅ معتمد
+- `crt-critique-of-gestalt-therapy` — نقد الْعِلَاج بِالْجِشْطَلْت: تَقْنِيكَات دَرَامِيَّة أَمْ بَحْث عِلْمِيّ؟ — ✅ معتمد
+- `crt-critique-of-gratitude-research` — نقد بحوث الامتنان: هل «اكتب ثلاثة أشياء تشكر عليها» يغيّر شيئاً؟ — ✅ معتمد
+- `crt-critique-of-grit-research` — نقد «Grit»: مَدْح الْاِسْتِمْرَار يَسْتَهْدِف مَن يَفْتَقِرُون إِلَى الْحُظّ — ✅ معتمد
+- `crt-critique-of-humanistic-therapy` — نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟ — ✅ معتمد
+- `crt-critique-of-ifs-internal-family-systems` — نقد نِظَام الْعَائِلَة الدَّاخِلِيَّة (IFS): نَظَرِيَّة سَرْدِيَّة لَا مَنْهَج عِلَاجِيّ مُوَثَّق — ✅ معتمد
+- `crt-critique-of-mindfulness` — نقد تَجْرِيد الْيَقَظَة مِن الْبُوذِيَّة: «Mcmindfulness» — ✅ معتمد
+- `crt-critique-of-narrative-therapy` — نقد الْعِلَاج بِالْحِكَايَة: مَا بَيْن الْمَيْتَافِيزِيقَا وَ الْإِدِّعَاء الْعِلْمِيّ — ✅ معتمد
+- `crt-critique-of-positive-psychology` — نقد عِلْم النَّفْس الْإِيجَابِيّ مِن مَنْظُور السِّيَاسَة الاجْتِمَاعِيَّة — ✅ معتمد
+- `crt-critique-of-psychodynamic-therapy` — نقد الْعِلَاج النَّفْسَحَرَكِيّ: لِمَاذَا الْاِسْتِبْصَار لَيْسَ كَافِيًا؟ — ✅ معتمد
+- `crt-critique-of-resilience-training` — نقد تَدْرِيب «الْمَرونة»: مَن يَتَحَمَّل مَسْؤُولِيَّة الْفَشَل النِّظَامِيّ؟ — ✅ معتمد
+- `crt-critique-of-self-help-genre` — نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْوِيل التِّجَارِيّ لِـ**عِلْم النَّفْس** — ✅ معتمد
+- `crt-critique-of-solution-focused` — نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟ — ✅ معتمد
+- `crt-critique-of-somatic-experiencing` — نقد Somatic Experiencing: نَظَرِيَّة «الطَّاقَة الْمَحْبُوسَة» لَيْسَتْ مُوَضَّحَة — ✅ معتمد
+- `crt-critique-of-trauma-informed-care` — نقد «الرِّعَايَة الْوَاعِيَة بِالْصَّدْمَة»: تَحَوُّل مَفْهُوم إِلَى شِعَار — ✅ معتمد
+- `crt-critique-of-trauma-therapy` — نقد «صِنَاعَة الصَّدْمَة»: مَنْ يَسْتَفِيد مِن تَطْبِيب الصَّدْمَة؟ — ✅ معتمد
+- `crt-deleuze-guattari-critique-of-psychoanalysis` — نقد دولوز وغاتاري للتحليل النفسي ومثلث أوديب — ✅ معتمد
+- `crt-derrida-critique-of-logocentrism` — نقد دريدا للتمركز حول اللوغوس وميتافيزيقا الحضور — ✅ معتمد
+- `crt-diagnosis-feminist` — نقد التشخيص: المنظور النسوي — ✅ معتمد
 - `crt-disability-studies-critique` — نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز — ✅ معتمد
+- `crt-dsm-cultural-bias` — التحيز الثقافي في DSM — ✅ معتمد
+- `crt-dussel-critique-of-eurocentrism` — نقد إنريكي دوسيل لمركزية أوروبا وخرافة الحداثة — ✅ معتمد
+- `crt-fanon-critique-of-colonial-alienation` — نقد فانون للاغتراب الاستعماري والعقدة النفسية للدونية — ✅ معتمد
 - `crt-feminist-critique-behaviorism` — النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي — ✅ معتمد
 - `crt-feminist-critique-cbt` — النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة — ✅ معتمد
 - `crt-feminist-critique-heidegger` — النقد النسوي لحياد الدازاين الجنساني — ✅ معتمد
 - `crt-feminist-critique-humanistic` — النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري — ✅ معتمد
 - `crt-feminist-critique-psychoanalysis` — النقد النسوي للتحليل النفسي: الذكورية البنيوية والازدواجية المعيارية — ✅ معتمد
+- `crt-feyerabend-critique-of-scientific-method` — نقد فايراباند للمنهج العلمي الأوحد والفوضوية المعرفية — ✅ معتمد
+- `crt-forced-treatment-ethics` — أخلاقيات العلاج القسري — ✅ معتمد
+- `crt-foucault-critique-of-asylum` — نقد فوكو للمصحة النفسية والطبنة السيكياترية — ✅ معتمد
+- `crt-foucault-death-of-man` — أطروحة فوكو حول موت الإنسان في الكلمات والأشياء — ✅ معتمد
+- `crt-gilligan-critique-of-kohlberg-moral-stages` — نقد كارول غيليغان لنظرية كولبرغ في النمو الأخلاقي — ✅ معتمد
+- `crt-gorgias-critique-of-eleatic-ontology` — نقد جورجياس لأنطولوجيا بارمنيدس والوجود المطلق — ✅ معتمد
+- `crt-heidegger-critique-of-humanism` — نقد هايدغر للإنسانوية الغربية الميتافيزيقية — ✅ معتمد
+- `crt-heidegger-critique-of-technology` — نقد هايدغر للتقنية والنسيان الأنطولوجي للوجود — ✅ معتمد
+- `crt-hume-critique-of-miracles` — نقد ديفيد هيوم للمعجزات والتدخلات الخارقة للطبيعة — ✅ معتمد
+- `crt-hysteria-history` — تاريخ الهستيريا: النقد النسوي — ✅ معتمد
+- `crt-irigaray-critique-of-specular-reason` — نقد لوس إريغاراي للعقلانية الذكورية المرآتية — ✅ معتمد
+- `crt-kant-critique-of-metaphysics` — نقد كانط للميتافيزيقا الدوغمائية الكلاسيكية — ✅ معتمد
+- `crt-kierkegaard-critique-of-hegelian-system` — نقد كيركغارد للنسق الهيغلي وابتلاع الفرد العيني — ✅ معتمد
+- `crt-laroui-critique-of-traditionalist-eclecticism` — نقد عبد الله العروي للنزعة التوفيقية والماضوية العربية — ✅ معتمد
+- `crt-lyotard-critique-of-grand-narratives` — نقد ليوتار للسرديات الكبرى في الوضع ما بعد الحداثي — ✅ معتمد
+- `crt-macintyre-after-virtue` — نقد ماكنتاير للحداثة الأخلاقية وفقدان التماسك القيمي — ✅ معتمد
+- `crt-marcuse-critique-of-consumerism` — نقد ماركوزه للإنسان ذي البعد الواحد والتسليع — ✅ معتمد
+- `crt-marx-critique-of-capitalist-alienation` — نقد ماركس للاغتراب الرأسمالي وتسليع الإنسان — ✅ معتمد
+- `crt-marx-theses-on-feuerbach` — أطروحات ماركس حول فيورباخ ونقد الفلسفة التأملية — ✅ معتمد
 - `crt-marxist-critique-psychology` — النقد الماركسي/الطبقي لعلم النفس: علم نفس السيطرة الاجتماعية — ✅ معتمد
+- `crt-medicalization-of-poverty` — التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية — ✅ معتمد
+- `crt-nagarjuna-critique-of-svabhava` — نقد ناغارجونا للجوهر الثابت والطبائع الذاتية — ✅ معتمد
 - `crt-neurodiversity-aba-critique` — نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج — ✅ معتمد
 - `crt-neuroscience-critique-classic-theories` — النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي — ✅ معتمد
+- `crt-nietzsche-critique-of-christian-morality` — نقد نيتشه للأخلاق المسيحية والأفلاطونية — ✅ معتمد
+- `crt-nozick-critique-of-patterned-justice` — نقد نوزيك للعدالة التوزيعية والتدخل الحكومي — ✅ معتمد
+- `crt-pascal-critique-of-cartesian-rationalism` — نقد باسكال للعقلانية الديكارتية والربوبية الجافة — ✅ معتمد
+- `crt-popper-critique-of-historicism` — نقد بوبر للنزعة التاريخية والشمولية في الفلسفة — ✅ معتمد
 - `crt-popper-critique-psychoanalysis` — نقد بوبر للتحليل النفسي: قابلية التفنيد كشرط للعلمية — ✅ معتمد
+- `crt-popper-falsifiability-psychoanalysis` — نقد كارل بوبر لمعيار القابلية للتكذيب في التحليل النفسي — ✅ معتمد
 - `crt-postcolonial-critique-cbt` — النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية — ✅ معتمد
 - `crt-postcolonial-critique-dsm` — النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري' — ✅ معتمد
 - `crt-postcolonial-critique-psychoanalysis` — النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب — ✅ معتمد
 - `crt-postmodern-critique` — نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي — ✅ معتمد
+- `crt-quijano-critique-of-colonial-matrix` — نقد أنيبال كويخانو لمصفوفة الاستعمارية والتصنيف العرقي — ✅ معتمد
+- `crt-quine-two-dogmas` — نقد كواين لعقيدتي التجريبية والتمييز التحليلي-التركيبي — ✅ معتمد
 - `crt-religious-conservative-critique-psychoanalysis` — النقد الديني/اللاهوتي المحافظ للتحليل النفسي: تهديد للأخلاق — ✅ معتمد
 - `crt-replication-crisis` — نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق — ✅ معتمد
 - `crt-research-ethics-historical` — نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس — ✅ معتمد
+- `crt-rorty-mirror-of-nature` — نقد رورتي للفلسفة كمرآة عاكسة للطبيعة — ✅ معتمد
+- `crt-ryle-category-mistake-ghost-machine` — نقد رايل لخطأ المقولة وشبح الآلة الديكارتي — ✅ معتمد
+- `crt-said-orientalism-epistemic-critique` — نقد إدوارد سعيد للاستشراق كبنية معرفية سلطوية — ✅ معتمد
+- `crt-sandel-unencumbered-self` — نقد ساندل للذات غير المقيدة في الليبرالية الرولزية — ✅ معتمد
+- `crt-schopenhauer-critique-of-optimism` — نقد شوبنهاور للتفاؤل العقلاني ولايبنتز وهيغل — ✅ معتمد
 - `crt-scientific-critique-transpersonal` — نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات: علم زائف؟ — ✅ معتمد
+- `crt-sellars-myth-of-the-given` — نقد سيلارز لأسطورة المعطى الحسي المباشر — ✅ معتمد
+- `crt-spivak-can-the-subaltern-speak` — نقد غاياتري سبيفاك لإسكات التابع والمهمش — ✅ معتمد
+- `crt-taha-abderrahmane-critique-of-western-modernity` — نقد طه عبد الرحمن للواقع الحداثي الغربي وفصله عن الأخلاق — ✅ معتمد
+- `crt-wang-yangming-critique-of-external-learning` — نقد وانغ يانغ مينغ للبحث الخارجي عن المبدأ عند تشو شي — ✅ معتمد
 
-## خبرة معيشة (3)
+## خبرة معيشة (124)
 
+- `exp-aaron-beck-depression-anger-inward` — أبحاث بيك المبكرة واكتشاف التشوهات المعرفية بدلاً من الغضب المكبوت — ✅ معتمد
+- `exp-abraham-maslow-oceanic-heart-attack` — نوبة ماسلو القلبية واكتشافه للخبرات الذروية بعد النجاة — ✅ معتمد
+- `exp-abyss-gaze` — تَجربة النَّظَر إلى الهاوية: لقاء اللاَّشَيء — ✅ معتمد
+- `exp-aesthetic-experience` — التجربة الجمالية: انْخِراط الحواس في الجمال — ✅ معتمد
+- `exp-al-ghazali-crisis-speechlessness` — أزمة أبي حامد الغزالي وانعقاد لسانه والخروج في طريق التصوف (1095) — ✅ معتمد
+- `exp-al-hallaj-ana-al-haqq-execution` — محاكمة الحلاج واستشهاده في بغداد وصرخة الفناء في الحق — ✅ معتمد
+- `exp-alan-watts-satori-awakening` — تجارب آلان واتس الاستنارية في نقل حكمة الزن إلى الغرب — ✅ معتمد
+- `exp-albert-ellis-bronx-botanical-exposure` — تجربة ألبرت إليس بالتعريض في حديقة برونكس والتغلب على الخجل — ✅ معتمد
+- `exp-alienation-marx` — الاغتراب الماركسي: تجربة العامل المُنقطع عن نتاجه وجنسه — ✅ معتمد
+- `exp-anna-o-bertha-pappenheim-talking-cure` — حالة آنا أو (بيرثا بابنهايم) مع بروير وميلاد «العلاج بالحديث» — ✅ معتمد
+- `exp-anthony-de-mello-awareness-retreat` — ورشات أنتوني دي ميلو التأملية والاستيقاظ من نوم الغفلة — ✅ معتمد
+- `exp-antonin-artaud-rodez-asylum` — تجربة أنتونين أرتو في مصحة روديز والعلاج بالصدمات الكهربائية — ✅ معتمد
+- `exp-augustine-garden-milan-tolle` — تجربة أوغسطين في حديقة ميلانو وسماع صوت «اقرأ وتناول» (Tolle Lege) — ✅ معتمد
+- `exp-awe-and-wonder` — تجربة الروعة والذهول (Awe): مواجهة ما يتجاوز الفهم — ✅ معتمد
+- `exp-beauvoir-discovery-of-otherness` — تجربة سيمون دي بوفوار واكتشاف الآخرية وتأليف الجنس الثاني — ✅ معتمد
+- `exp-bessel-van-der-kolk-vietnam-vets` — لقاء فان دير كولك بالمحاربين القدامى واكتشاف تجسد الصدمة — ✅ معتمد
+- `exp-boethius-prison-consolation` — عزاء بوثيوس في السجن قبل إعدامه وكتابة عزاء الفلسفة — ✅ معتمد
+- `exp-bruce-perry-waco-siege-children` — تجربة بروس بيري مع أطفال طائفة واكو وميلاد النموذج العصبي التتابعي — ✅ معتمد
+- `exp-buddha-four-sights-renunciation` — الرؤى الأربع لسيدهارتا بوذا والهروب الكبير من القصر نحو الاستنارة — ✅ معتمد
+- `exp-camus-algerian-poverty-sun` — طفولة كامو في فقر الجزائر وشمس البحر المتوسط ومنبع فلسفة التمرد — ✅ معتمد
+- `exp-carl-sagan-pale-blue-dot-awe` — تأمل كارل ساغان في صورة «النقطة الزرقاء الباهتة» والرهبة الكونية — ✅ معتمد
+- `exp-childhood-amnesia` — فُقدان ذاكرة الطُّفولة (Childhood Amnesia): لماذا لا أتذكر سنواتي الأولى؟ — ✅ معتمد
+- `exp-chogyam-trungpa-crazy-wisdom` — رحلة شوجيام ترونغبا عبر الهيمالايا ونقل الفاجرايانا إلى الغرب — ✅ معتمد
+- `exp-clara-barton-civil-war-nursing` — تجربة كلارا بارتون في ميادين الحرب وتأسيس الصليب الأحمر — ✅ معتمد
+- `exp-conversion-experience` — التجربة التَّحَوُّلية (Conversion Experience): تَحوُّل داخلي مفاجئ — ✅ معتمد
+- `exp-david-duran-indigenous-soul-wound` — تجارب إدواردو دوران مع المحاربين القدامى وعلاج جرح الروح — ✅ معتمد
+- `exp-deja-vu` — تجربة الديجافو (Déjà Vu): الإحساس بأنني عشتُ هذه اللحظة من قبل — ✅ معتمد
+- `exp-depersonalization` — تَبَدُّد الشَّخصية (Depersonalization): أنا غَريب عن نَفسي — ✅ معتمد
+- `exp-derealization-depersonalization` — خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم — ✅ معتمد
+- `exp-derrida-algerian-jewish-exclusion` — تجربة دريدا وطرده من المدرسة في الجزائر وفقدان الهوية الأحادية — ✅ معتمد
+- `exp-descartes-stove-heated-room` — تجربة ديكارت في الغرفة المدفأة بألمانيا (1619): ميلاد المنهج الحديث — ✅ معتمد
+- `exp-dostoevsky-mock-execution-siberia` — وقوف دوستويفسكي أمام فرقة الإعدام (1849) وتجربة اللحظة الأخيرة — ✅ معتمد
+- `exp-dream-freud` — الحُلم عند فرويد: الطريق الملكي إلى اللاَّوعي — ✅ معتمد
+- `exp-eckhart-tolle-night-transformation` — الليلة التي انهار فيها إيكهارت تول في لندن وتلاشت أناه المكتئبة — ✅ معتمد
+- `exp-edith-eger-ballerina-auschwitz` — رقص إديث إيجر أمام منغيله في المعسكر ومسار الشفاء النفسي («الخيار») — ✅ معتمد
+- `exp-elyn-saks-schizophrenia-center` — تجربة إلين ساكس مع الفصام والتفوق الأكاديمي («المركز لا يصمد») — ✅ معتمد
+- `exp-ernest-shackleton-endurance-survival` — ملحمة شاكلتون وسفينة إندورانس والنجاة في جليد القطب الجنوبي — ✅ معتمد
+- `exp-existential-boredom` — الملل الوجودي: تجربة اللا-مَعنى المُستمر — ✅ معتمد
+- `exp-fanon-martinique-french-racism` — صدمة فرانتز فانون في ليون الفرنسية وصرخة «انظر، إنه زنجي!» — ✅ معتمد
+- `exp-flashback-ptsd` — الـ Flashback في اضطراب ما بعد الصَّدمة: إعادة العَيْش القَسَرية — ✅ معتمد
+- `exp-flow-state-csikszentmihalyi` — تجربة الفيض (Flow) عند تشيكزينتميهايلي: الاندماج الكامل في النشاط — ✅ معتمد
+- `exp-foucault-tunisia-revolt` — تجربة فوكو في تونس وانتفاضة الطلاب (1968) واكتشاف الممارسة السياسية — ✅ معتمد
+- `exp-francine-shapiro-park-walk-emdr` — نزهة فرانسين شابيرو في الحديقة وحركات العين وميلاد EMDR — ✅ معتمد
+- `exp-frankl-auschwitz-camp` — تجربة فيكتور فرانكل في معسكرات الاعتقال: إرادة المعنى وسط الفناء — ✅ معتمد
 - `exp-frankl-lived-experience` — وصف فرانكل الذاتي لخبرة المعنى داخل المعسكر — ✅ معتمد
+- `exp-freud-dream-irma-injection` — حلم فرويد بحقنة إيرما (1895) واكتشاف الشيفرة الملكية للأحلام — ✅ معتمد
+- `exp-freud-fainting-spells-jung` — نوبات إغماء فرويد أمام يونغ في ميونيخ وصراع الأبوة التحليلية — ✅ معتمد
+- `exp-gandhi-pietermaritzburg-train-ejection` — طرد غاندي من قطار جنوب أفريقيا وميلاد فلسفة الساتياغراها — ✅ معتمد
+- `exp-heidegger-black-forest-hut` — كوخ هايدجر في الغابة السوداء والتأمل في نداء الوجود — ✅ معتمد
+- `exp-helen-keller-water-pump-breakthrough` — لحظة هيلين كيلر عند مضخة الماء مع آن سوليفان وميلاد الوعي باللغة — ✅ معتمد
+- `exp-hobbes-english-civil-war-fear` — ولادة هوبز مع الخوف وهروبه من الحرب الأهلية وتأليف ليفياثان — ✅ معتمد
+- `exp-hume-youth-breakdown-philosophy` — أزمة ديفيد هيوم في شبابه والتعافي بالانغماس في الفلسفة — ✅ معتمد
+- `exp-ibn-arabi-damascus-visions` — رؤى ابن عربي في مكة ودمشق وتدوين الفتوحات المكية — ✅ معتمد
+- `exp-jacob-boehme-pewter-dish` — رؤية ياكوب بومه لبريق صحن القصدير واكتشاف نور الخلق في الظلام — ✅ معتمد
+- `exp-jamais-vu` — تجربة الجامافو (Jamais Vu): المألوف الذي يَتحول إلى غريب — ✅ معتمد
+- `exp-jean-amery-torture-gestapo` — تجربة جان أميري مع تعذيب الجستابو وفقدان الثقة في العالم — ✅ معتمد
+- `exp-john-bowlby-deprived-children-london` — دراسات بولبي للأطفال المحرومين في لندن وميلاد نظرية التعلق — ✅ معتمد
+- `exp-john-of-cross-dark-night` — سجن يوحنا الصليب في طليطلة وتدوين ليلة النفس المظلمة — ✅ معتمد
+- `exp-john-stuart-mill-depression` — انهيار جون ستيوارت ميل العصبي والتعافي بالشعر الرومانسي — ✅ معتمد
+- `exp-jung-break-with-freud-solitude` — قطيعة يونغ المؤلمة مع فرويد وعزلته في بولينغن لبناء البرج — ✅ معتمد
 - `exp-jung-confrontation-unconscious` — سرد يونغ الذاتي لخبرة المواجهة مع اللاوعي والكتاب الأحمر — ✅ معتمد
+- `exp-kant-dogmatic-slumber-hume` — إيقاظ هيوم لكانط من سباته الدوغمائي وتأسيس الفلسفة النقدية — ✅ معتمد
+- `exp-karl-rogers-potato-cellar-discovery` — مراقبة روجرز لنبتة البطاطس في القبو وميلاد الإرشاد المتمحور حول العميل — ✅ معتمد
+- `exp-kay-jamison-bipolar-unquiet` — تجربة كاي ريدفيلد جيميسون مع الاضطراب ثنائي القطب («عقل غير هادئ») — ✅ معتمد
+- `exp-kierkegaard-regine-olsen` — فسخ خطوبة كيركغارد من ريجينا أولسن: منبع المفارقة والوجودية — ✅ معتمد
+- `exp-krishnamurti-dissolution-star-order` — كروشنامورتي وحل نظام نجم الشرق: «الحقيقة أرض بلا دروب» — ✅ معتمد
+- `exp-locke-exile-holland-toleration` — نفي جون لوك إلى هولندا وتأليف رسالة في التسامح — ✅ معتمد
+- `exp-lucid-dreaming` — الحلم الواضح (Lucid Dreaming): أن أَعرف أنني أُحلم وأنا أُحلم — ✅ معتمد
+- `exp-malcolm-x-mecca-pilgrimage` — حج مالكوم إكس إلى مكة واكتشاف الأخوة الإنسانية وتجاوز العنصرية — ✅ معتمد
+- `exp-mandela-robben-island-quarry` — سنوات نيلسون مانديلا في سجن جزيرة روبن وتحويل المحنة لمدرسة — ✅ معتمد
+- `exp-marcus-aurelius-danube-campaigns` — ماركوس أوريليوس على جبهة نهر الدانوب وتدوين التأملات — ✅ معتمد
+- `exp-maria-yellow-horse-historical-trauma` — أبحاث ماريا يلوهورس بريفهارت مع لاكوتا وتوثيق الصدمة التاريخية — ✅ معتمد
+- `exp-marsha-linehan-institute-living-seclusion` — حبس مارشا لينهان في معهد ليفينغ للشباب وميلاد علاج DBT — ✅ معتمد
+- `exp-martin-luther-king-birmingham-jail` — سجن مارتن لوثر كينغ في برمنغهام وكتابة رسالته الخالدة — ✅ معتمد
+- `exp-mary-ainsworth-uganda-infants` — رحلة ماري أينسورث إلى أوغندا ومراقبة تفاعل الأمهات والغرباء — ✅ معتمد
 - `exp-may-sanatorium-anxiety` — سرد رولو ماي الذاتي لخبرة العزلة والقلق الوجودي في مصحة السل — ✅ معتمد
+- `exp-milton-erickson-polio-paralysis` — إصابة ميلتون إريكسون بشلل الأطفال ومراقبة حركة الرضع — ✅ معتمد
+- `exp-montaigne-tower-retirement` — اعتزال مونتين في برج قصرته بعد سقوط الحصان واكتشاف فن المقالة — ✅ معتمد
+- `exp-mystical-experience-james` — التجربة الصوفية عند وليم جيمس: خصائصها الأربع — ✅ معتمد
+- `exp-nausea-sartre` — الغثيان السارتري: تجربة الاكتشاف الفجائي لوجود العالم — ✅ معتمد
+- `exp-near-death-experience` — تجربة الاقتراب من الموت (NDE): بين العَالَم والمَوت — ✅ معتمد
+- `exp-nelson-mandela-inauguration-forgiveness` — لحظة تنصيب مانديلا رئيساً ودعوة سجانه لحضور الحفل — ✅ معتمد
+- `exp-nietzsche-sils-maria-eternal-return` — إلهام نيتشه بالعود الأبدي بجوار صخرة سيلس ماريا (1881) — ✅ معتمد
+- `exp-nietzsche-turin-horse` — تجربة نيتشه في تورينو مع الحصان (1889): الانهيار والشفقة التراجيدية — ✅ معتمد
+- `exp-numinous-otto` — التجربة العددية (Numinous) عند رودولف أوتو: المَهيب المُتَعالي — ✅ معتمد
+- `exp-out-of-body-experience` — تجربة الخروج من الجسد (OBE): رؤية العالم من خارج الذات — ✅ معتمد
+- `exp-panic-attack` — نوبة الهَلَع (Panic Attack): تَجربة المَوت الوَشيكة — ✅ معتمد
+- `exp-pascal-night-of-fire` — ليلة النار لبليز باسكال (1654): اكتشاف إله القلوب واليقين الحي — ✅ معتمد
+- `exp-pat-ogden-body-movement-sensorimotor` — ملاحظات بات أوغدن الحركية في المصحات وميلاد السنسوريموتور — ✅ معتمد
+- `exp-peak-experience-maslow` — تجربة الذروة عند ماسلو: لحظات الأَلْمَع والأَعَمَق — ✅ معتمد
+- `exp-peter-levine-car-accident-tremor` — حادث سيارة بيتر ليفين ومراقبة ارتعاش جسده وميلاد SE — ✅ معتمد
+- `exp-plato-syracuse-tyrant` — تجربة أفلاطون في سيراكيوز وفشل تطبيق الجمهورية مع الطاغية — ✅ معتمد
+- `exp-primo-levi-auschwitz-survival` — تجربة بريمو ليفي في أوشفيتز وتوثيق تدمير الإنسانية في «هل هذا إنسان؟» — ✅ معتمد
+- `exp-ramana-maharshi-death-experience` — تجربة رامانا ماهارشي مع الموت المفاجئ في سن 16 واكتشاف «أنا من؟» — ✅ معتمد
+- `exp-richard-bucke-cosmic-consciousness` — اختبار ريتشارد باكي للوعي الكوني في ليلة ربيعية بلندن — ✅ معتمد
+- `exp-richard-schwartz-bulimia-parts-ifs` — تجارب ريتشارد شوارتز مع مريضات الشره واكتشاف الأجزاء و IFS — ✅ معتمد
+- `exp-rosa-parks-montgomery-bus-refusal` — رفض روزا باركس التنازل عن مقعدها في حافلة مونتغمري (1955) — ✅ معتمد
+- `exp-rousseau-illumination-vincennes` — إشراقة روسو على طريق فانسان (1749): فساد الحضارة للطبيعة — ✅ معتمد
+- `exp-rumi-shams-tabrizi-encounter` — لقاء الرومي بشمس التبريزي في قونية والتحول من فقيه إلى شاعر العشق — ✅ معتمد
+- `exp-salvador-minuchin-wiltwyck-boys` — تجربة مينوشين مع فتيان نيويورك الجانحين وميلاد العلاج البنيوي — ✅ معتمد
+- `exp-sartre-mescaline-crabs` — تجربة جان بول سارتر مع الميسكالين وهلوسة السرطانات (1935) — ✅ معتمد
+- `exp-saudade-lusophone` — السودادي (Saudade): الحنين البرتغالي إلى ما لا يُمكن استرجاعه — ✅ معتمد
+- `exp-schopenhauer-frankfurt-isolation` — عزلة شوبنهاور في فرانكفورت وصحبته لكلبه وفلسفة الإرادة — ✅ معتمد
+- `exp-seneca-forced-suicide-nero` — انتحار سينيكا القسري بأمر نيرون والثبات الرواقي الأخير — ✅ معتمد
+- `exp-shame-vs-guilt-existential` — الخزي مقابل الذنب: أنا سيئ مقابل أنا فعلت شيئاً سيئاً — ✅ معتمد
+- `exp-socrates-oracle-delphi` — نبوءة دلفي لسقراط: التحول من الطبيعيات إلى فحص النفس البشرية — ✅ معتمد
+- `exp-solzhenitsyn-gulag-cancer-ward` — تجربة سولجينيتسين في معسكرات الغولاج وجناح السرطان — ✅ معتمد
+- `exp-spinoza-excommunication-amsterdam` — حرمان سبينوزا الكنسي في أمستردام (1656) وعزلته التنويرية — ✅ معتمد
+- `exp-stanislav-grof-lsd-holotropic` — تجارب ستانيسلاف غروف مع التنفس الهولتروبي والمصفوفات الوالدية — ✅ معتمد
+- `exp-stephen-hawking-als-diagnosis` — تشخيص ستيفن هوكينغ بالتصلب الجانبي في سن 21 وتحدي الفناء — ✅ معتمد
+- `exp-steven-hayes-panic-carpet-act` — نوبة هلع ستيفن هايز على السجادة وميلاد العلاج بالقبول والالتزام (ACT) — ✅ معتمد
+- `exp-susanna-kaysen-mclean-hospital` — تجربة سوزانا كايسن في مصحة ماكلين وتأليف Girl, Interrupted — ✅ معتمد
+- `exp-swedenborg-spiritual-opening` — الانفتاح الروحي المفاجئ لسفيدنبورغ وتحوله من العلم إلى الرؤى — ✅ معتمد
+- `exp-temple-grandin-autism-squeeze-machine` — تجربة تيمبل غراندين مع التوحد وابتكار آلة الاحتضان — ✅ معتمد
+- `exp-teresa-avila-transverberation` — اختراق قلب القديسة تيريزا الأفيلية بسهم الحب الإلهي — ✅ معتمد
+- `exp-thich-nhat-hanh-vietnam-peace` — تجربة ثيت نات هان وسط جحيم حرب فيتنام وتأسيس البوذية المنخرطة — ✅ معتمد
+- `exp-tolstoy-midlife-crisis` — أزمة منتصف العمر والتحول الروحي عند ليو تولستوي — ✅ معتمد
+- `exp-unheimlich-freud` — تجربة الأَلِيف المُقْلِق (Unheimlich) عند فرويد: ما هو مألوف يَتحول إلى غريب — ✅ معتمد
+- `exp-vertigo-existential-sartre` — دوار الحرية عند سارتر: تجربة الوقوف على حافة الهاوية — ✅ معتمد
+- `exp-virginia-satir-family-sculpting` — ابتكار فرجينيا ساتير لـ «النحت الأسري» في جلسات العلاج الجمعي — ✅ معتمد
+- `exp-william-blake-visionary-art` — رؤى ويليام بليك الملائكية في طفولته ومقاومة العقلانية النيوتونية — ✅ معتمد
+- `exp-william-james-panic-freewill` — نوبة هلع وليام جيمس في المصحة وقراره الإيماني بحرية الإرادة — ✅ معتمد
+- `exp-william-styron-darkness-visible` — تجربة ويليام ستايرون مع الاكتئاب السريري وتأليف «ظلمة مرئية» — ✅ معتمد
+- `exp-wittgenstein-ww1-trenches` — تجربة فيتغنشتاين في خنادق الحرب العالمية الأولى وتأليف الرسالة — ✅ معتمد
 
-## استعارة/مجاز مؤسِّس (3)
+## استعارة/مجاز مؤسِّس (144)
 
+- `met-act-chess-board` — رقعة الشطرنج في ACT: استعارة الذات كسياق يتسع لقطع الصراع — ✅ معتمد
+- `met-act-finger-trap` — المصيدة الصينية للأصابع في ACT: استعارة الاسترخاء والاقتراب بدلاً من الشد — ✅ معتمد
+- `met-act-holding-a-heavy-backpack` — حقيبة الظهر الثقيلة في ACT: استعارة حمل آلام الماضي أثناء السير نحو القيم — ✅ معتمد
+- `met-act-leaves-on-a-stream` — أوراق الشجر على مجرى النهر في ACT: استعارة مراقبة الأفكار بفك الاندماج — ✅ معتمد
 - `met-act-passengers-on-the-bus` — ركاب الحافلة: استعارة الذات والأفكار في علاج القبول والالتزام — ✅ معتمد
+- `met-act-quicksand-struggle` — الرمال المتحركة في ACT: استعارة محاربة القلق التي تفاقم الغرق — ✅ معتمد
+- `met-act-tug-of-war-monster` — شد الحبل مع وحش القلق في ACT: استعارة إفلات الحبل بدلاً من المصارعة — ✅ معتمد
+- `met-al-ghazali-mirror-heart` — مرآة القلب للغزالي: استعارة صقل النفس وانعكاس الحقيقة — ✅ معتمد
+- `met-aristotle-unmoved-mover` — المحرك الذي لا يتحرك لأرسطو: استعارة العلة الغائية وجاذبية الكمال — ✅ معتمد
+- `met-avicenna-floating-man` — الرجل الطائر لابن سينا: استعارة جوهرية الوعي والذات المجردة — ✅ معتمد
+- `met-baudrillard-desert-of-the-real` — صحراء الواقع لجان بودريار: استعارة المحاكاة الفائقة واختفاء الأصل — ✅ معتمد
+- `met-beck-automatic-tapes` — الأشرطة التلقائية المسجلة لآرون بيك: استعارة الأفكار التلقائية المشوهة — ✅ معتمد
+- `met-bentham-panopticon` — البانوبتيكون لجيريمي بنثام: استعارة المراقبة الشاملة والانضباط الذاتي — ✅ معتمد
+- `met-bion-container-contained` — الحاوي والمحتوى لبيون: استعارة هضم الانفعالات الخام وتحويلها لمعنى — ✅ معتمد
+- `met-bowen-triangles-bridge` — مثلثات بوين: استعارة امتصاص التوتر العلائقي وتشتيت القلق عبر طرف ثالث — ✅ معتمد
+- `met-brain-as-society` — الدماغ كَمُجْتَمَع: استعارة مُتَعَدِّد الوَحدات — ✅ معتمد
+- `met-buddhist-monkey-mind` — عقل القرد في البوذية: استعارة التشتت والقفز المستمر بين الأفكار — ✅ معتمد
+- `met-buddhist-second-arrow` — السهم الثاني في البوذية: استعارة المعاناة النفسية المضافة فوق الألم الحتمي — ✅ معتمد
+- `met-buridan-ass` — حمار بوريدان: استعارة عجز الإرادة أمام الخيارات المتطابقة — ✅ معتمد
+- `met-butterfly-effect-chaos` — أثر الفراشة لإدوارد لورنز: استعارة الحساسية للشروط البدئية في النظم المعقدة — ✅ معتمد
+- `met-cajal-butterflies-soul` — فراشات الروح: استعارة كاخال للتشابك والخلايا العصبية — ✅ معتمد
+- `met-cartesian-theater` — المسرح الكارتيزي: وهم المركز الموحد للوعي — ✅ معتمد
+- `met-cbt-colored-glasses` — النظارات الملونة في CBT: استعارة المخططات والتشوهات المعرفية — ✅ معتمد
+- `met-cft-three-circles` — الدوائر الثلاث في CFT: استعارة توازن أنظمة التهديد والقيادة والتهدئة — ✅ معتمد
+- `met-chalmers-philosophical-zombie` — الزومبي الفلسفي لديفيد تشالمرز: استعارة المشكلة الصعبة للوعي والكواليا — ✅ معتمد
+- `met-chinese-room-searle` — الغرفة الصينية: استعارة نقد الذكاء الاصطناعي الرمزي — ✅ معتمد
+- `met-dana-polyvagal-ladder` — السلم المبهمي لديب دانا: استعارة التدرج العصبي بين الأمان والقتال والتجمد — ✅ معتمد
+- `met-daoist-uncarved-block` — الخشب غير المنحوت (Pu) في الطاوية: استعارة البساطة الفطرية والانسجام — ✅ معتمد
+- `met-dawkins-selfish-gene` — الجين الأناني لريتشارد دوكينز: استعارة الكائنات كمركبات بقاء للجينات — ✅ معتمد
+- `met-dbt-house-in-flames` — المنزل المحترق في DBT: استعارة مهارات النجاة وإطفاء أزمات الاندفاعية — ✅ معتمد
+- `met-dbt-wise-mind-venn` — العقل الحكيم في DBT: استعارة تقاطع العقل العاطفي والعقل المنطقي — ✅ معتمد
+- `met-deleuze-rhizome` — الجذمور (Rhizome) لجيل دولوز: استعارة التفكير الشبكي والتعددية — ✅ معتمد
+- `met-derrida-pharmakon` — الفارماكون (Pharmakon) لجاك دريدا: استعارة النص كدواء وسم في آن واحد — ✅ معتمد
+- `met-descartes-evil-demon` — الشيطان الماكر لديكارت: استعارة الشك المنهجي الجذري — ✅ معتمد
+- `met-descartes-wax-candle` — قطعة الشمع لديكارت: استعارة إدراك العقل للجوهر خلف التغيرات الحسية — ✅ معتمد
+- `met-eft-raw-spots` — الأماكن الخام شديدة الحساسية لسو جونسون: استعارة جراح التعلق غير المرئية — ✅ معتمد
+- `met-elephant-and-rider-haidt` — الفيل والراكب: استعارة الحدس والعقلنة التبريرية — ✅ معتمد
+- `met-ferenczi-wise-baby` — الطفل الحكيم لشاندور فيرينتزي: استعارة النضج القسري المبكر بعد الصدمة — ✅ معتمد
+- `met-feynman-chess-gods` — شطرنج الآلهة لريتشارد فاينمان: استعارة اكتشاف قوانين الطبيعة في الفيزياء — ✅ معتمد
+- `met-foucault-ship-of-fools` — سفينة الحمقى لميشيل فوكو: استعارة عزل ونفي الجنون عبر التاريخ — ✅ معتمد
+- `met-frankl-statue-in-stone` — التمثال في كتلة الحجر لفيكتور فرانكل: استعارة نحت المعنى من الصخرة الوجودية — ✅ معتمد
+- `met-freud-archaeology-psyche` — علم آثار النفس لفرويد: استعارة التنقيب في طبقات الماضي المكبوت — ✅ معتمد
+- `met-freud-horse-and-rider` — الحصان والفارس لفرويد: استعارة صراع الأنا مع طاقة الهو الغريزية — ✅ معتمد
 - `met-freud-iceberg` — الجبل الجليدي: استعارة الوعي واللاوعي التحليلي — ✅ معتمد
+- `met-freud-mystic-writing-pad` — المفكرة السحرية لفرويد: استعارة طبقات الذاكرة واللاوعي — ✅ معتمد
+- `met-freudian-iceberg` — الجبل الجليدي للشخصية: تدرج مستويات الوعي واللاوعي — ✅ معتمد
+- `met-gestalt-unfinished-picture` — اللوحة غير المكتملة في الجشطالت: استعارة الأعمال العاطفية غير المحسومة — ✅ معتمد
+- `met-ghost-in-machine-ryle` — الشبح داخل الآلة: استعارة نقد الثنائية الديكارتية — ✅ معتمد
+- `met-goodman-grue-paradox` — لغز الزمرد الأزرق-الأخضر (Grue) لنيلسون غودمان: استعارة لغز الاستقراء الجديد — ✅ معتمد
+- `met-hebb-neurons-fire-together` — الخلايا التي تشتعل معاً تتصل معاً لدونالد هيب: استعارة المرونة العصبية — ✅ معتمد
+- `met-hegel-master-slave-dialectic` — جدل السيد والعبد: استعارة الوعي بالذات ونزع الاعتراف — ✅ معتمد
+- `met-heidegger-clearing-lichtung` — المرج المضيء (Lichtung): استعارة انكشاف الوجود والحقيقة — ✅ معتمد
+- `met-heidegger-hammer-ready-to-hand` — المطرقة في اليد لهايدجر: استعارة الحضور العملي السابق على النظرية — ✅ معتمد
+- `met-heidegger-wooden-paths-holzwege` — دروب الخشب (Holzwege) لهايدجر: استعارة السير في غابات الفكر المنقطعة — ✅ معتمد
+- `met-heraclitus-river` — نهر هرقليطس: استعارة الصيرورة وتدفق الوجود الدائم — ✅ معتمد
+- `met-hobbes-leviathan` — ليفياثان هوبز: استعارة الدولة التنين وابتلاع فوضى حالة الطبيعة — ✅ معتمد
+- `met-hume-billiard-balls` — كرات البلياردو لديفيد هيوم: استعارة تفكيك السببية والاقتران العادي — ✅ معتمد
+- `met-ibn-tufayl-hayy-ibn-yaqzan` — حي بن يقظان لابن طفيل: استعارة العقل الفطري والارتقاء الطبيعي — ✅ معتمد
+- `met-ifs-orchestra-conductor` — قائد الأوركسترا في IFS: استعارة الذات القائدة وتناغم الأجزاء الداخلية — ✅ معتمد
+- `met-indra-net` — شبكة إندرا في الفلسفة الهندية: استعارة الترابط الكوني والوجود المتبادل — ✅ معتمد
+- `met-jackson-mary-black-white-room` — ماري في الغرفة البيضاء والسوداء لجاكسون: استعارة الكواليا والمعرفة التجريبية — ✅ معتمد
+- `met-jung-archetype-crystal-lattice` — الشبكة البلورية ليونغ: استعارة الأنماط البدائية كبنى استعدادية مسبقة — ✅ معتمد
+- `met-jung-shadow-gold` — ذهب الظل ليونغ: استعارة الكنوز الإبداعية المخبأة في الجوانب المظلمة — ✅ معتمد
+- `met-kant-copernican-revolution` — الثورة الكوبرنيكية لكانط: استعارة انقلاب مركزية المعرفة — ✅ معتمد
+- `met-kant-dove-in-vacuum` — اليمامة في الفراغ لكانط: استعارة وهم تحليق العقل الخالص بلا تجربة حسية — ✅ معتمد
+- `met-kierkegaard-leap-of-faith` — قفزة الإيمان لكيركغارد: استعارة الانتقال الوجودي فوق سبعين ألف قامة — ✅ معتمد
+- `met-klein-good-bad-breast` — الثدي الجيد والثدي السيئ لميلاني كلاين: استعارة الانشطار الطفولي الأولي — ✅ معتمد
+- `met-kuhn-gestalt-switch-science` — انقلاب الجشطالت في العلم لتوماس كون: استعارة التحول الثوري في البارادايم — ✅ معتمد
+- `met-lacan-knot-borromean` — العقدة البورومية للاكان: استعارة تشابك الواقعي والرمزي والخيالي — ✅ معتمد
+- `met-lacan-mirror-stage` — مرحلة المرآة للاكان: استعارة تشكل الأنا كخداع استلابي وهمي — ✅ معتمد
+- `met-leibniz-block-of-marble` — كتلة الرخام المعرقة للايبنتز: استعارة الاستعدادات الفطرية للعقل — ✅ معتمد
+- `met-leibniz-monads-no-windows` — المونادات التي لا نوافذ لها للايبنتز: استعارة الاستقلال والانسجام المسبق — ✅ معتمد
+- `met-levine-trauma-vortex` — دوامة الصدمة ودوامة الشفاء لبيتر ليفين: استعارة تحرير الطاقة المحبوسة — ✅ معتمد
+- `met-locke-tabula-rasa` — الصفحة البيضاء (Tabula Rasa) لجون لوك: استعارة المذهب التجريبي — ✅ معتمد
+- `met-merleau-ponty-blind-man-cane` — عصا الكفيف لميرلوبونتي: استعارة تمدد الجسد المعاش في الأدوات — ✅ معتمد
+- `met-mind-as-computer` — العقل كحاسوب: استعارة المَعالجة المعلوماتية — ✅ معتمد
+- `met-mind-as-field-lewin` — العقل كَحَقْل قُوَّة: استعارة لِيوين الدِّيناميكية — ✅ معتمد
+- `met-mind-as-garden` — العقل كحديقة: استعارة النُّمُوّ والاغْتِناء — ✅ معتمد
+- `met-mind-as-machine-clock` — العقل كَآلَة: استعارة الفَلْسَفة المَيكانيكيَّة — ✅ معتمد
+- `met-mind-as-mirror` — العقل كمرآة — ✅ معتمد
+- `met-mind-as-parachute` — العقل كَمَظِلَّة: استعارة الحِماية مِن السُّقُوط — ✅ معتمد
+- `met-mind-as-theater-gazzaniga` — العقل كَمَسْرَح: استعارة غازّانيغا للعقل المُتَعَدِّد — ✅ معتمد
+- `met-mind-as-water-stream` — العقل كَماء: استعارة التَّدَفُّق والتَّشَكُّل — ✅ معتمد
+- `met-nagel-bat-experience` — كيف تشعر عندما تكون خفاشاً لناغل: استعارة استحالة اختزال الذاتية — ✅ معتمد
+- `met-neurath-boat` — سفينة نويرات: استعارة إصلاح المعرفة في عرض البحر — ✅ معتمد
+- `met-nietzsche-camel-lion-child` — الجمل والنمر والطفل لنيتشه: استعارة تحولات الروح الثلاثة — ✅ معتمد
+- `met-nietzsche-tightrope-walker` — الحبل المشدود فوق الهاوية لنيتشه: استعارة الإنسان كجسر وصيرورة — ✅ معتمد
+- `met-paley-watchmaker` — الساعاتي لويليام بالي: استعارة التصميم الذكي وغائية الكون — ✅ معتمد
+- `met-plato-cave` — كهف أفلاطون: استعارة الظلال والتحرر المعرفي — ✅ معتمد
+- `met-plato-chariot-soul` — عربة النفس المجنحة: استعارة الصراع الداخلي وتوازن القوى — ✅ معتمد
+- `met-plato-divided-line` — الخط المنقسم لأفلاطون: استعارة تراتبية المعرفة والوجود — ✅ معتمد
+- `met-plato-ring-of-gyges` — خاتم جيجيس لأفلاطون: استعارة الأخلاق والرقابة والسلطة الخفية — ✅ معتمد
+- `met-plotinus-emanation-sun` — فيض الشمس لأفلوطين: استعارة الصدور والانبعاث الأنطولوجي — ✅ معتمد
+- `met-popper-searchlight-theory` — كشاف الضوء لكارل بوبر: استعارة العلم كفرضية موجهة لا كوعاء سلبي — ✅ معتمد
+- `met-psyche-as-butterfly` — النَّفْس كَفَراشة: استعارة التَّحَوُّل اليونغية — ✅ معتمد
+- `met-psyche-as-palimpsest` — النَّفْس كـ«مَحْو» (Palimpsest): استعارة الطَّبَقات المَتراكِمَة — ✅ معتمد
+- `met-putnam-brain-in-a-vat` — العقل في الوعاء لبوتنام: استعارة التشكيك في الواقع والمحاكاة العصبية — ✅ معتمد
+- `met-putnam-twin-earth` — الأرض التوأم لهيلاري بوتنام: استعارة الدلالة الخارجية والمعنى البيئي — ✅ معتمد
+- `met-quine-web-of-belief` — شبكة المعتقدات لـ كواين: استعارة الشمولية المعرفية وتعديل الأطراف — ✅ معتمد
+- `met-rawls-original-position` — الموقف الأصلي لجون رولز: استعارة التفاوض العادل خلف حجاب الجهل — ✅ معتمد
+- `met-rogers-growing-plant` — نبتة البطاطس في القبو لروجرز: استعارة الدافع الفطري لتحقيق الذات — ✅ معتمد
+- `met-russell-celestial-teapot` — إبريق شاي راسل: استعارة عبء الإثبات في القضايا الغيبية — ✅ معتمد
+- `met-russell-inductivist-turkey` — ديك راسل الاستقرائي: استعارة حدود الاستقراء ومفاجآت التجربة — ✅ معتمد
+- `met-sartre-cafe-waiter-bad-faith` — نادل المقهى لسارتر: استعارة سوء النية والتمثيل المسرحي للدور — ✅ معتمد
+- `met-sartre-paperknife-essence` — سكين الورق لسارتر: استعارة أسبقية الوجود على الماهية — ✅ معتمد
+- `met-satir-family-mobile` — لعبة السقف المتحركة لساتير: استعارة توازن النظام الأسري وتأثر الكل — ✅ معتمد
+- `met-schema-modes-theatre` — مسرح أنماط المخططات لجيفري يونغ: استعارة الحوار بين أجزاء الذات المتصارعة — ✅ معتمد
+- `met-schopenhauer-porcupines` — معضلة القنافذ: استعارة المسافة الحميمية والألم الإنساني — ✅ معتمد
+- `met-self-as-actor-mask` — الذَّات كَمُمَثِّل وقِناع: استعارة الأَداء الاجْتِماعي — ✅ معتمد
+- `met-self-as-mask-persona` — الذَّات كقِناع: استعارة يونغ للشَّخْصِيَّة الاجْتِماعيَّة — ✅ معتمد
+- `met-self-as-narrative` — الذَّات كقِصَّة: استعارة الهُوِيَّة السَّرديَّة — ✅ معتمد
+- `met-self-as-prison` — الذَّات كَسِجْن: استعارة الانْعِزال الدَّاخلي — ✅ معتمد
+- `met-self-as-project-sartre` — الذَّات كَمَشْروع: استعارة سارتري للتَّشَكُّل الذَّاتي — ✅ معتمد
+- `met-sensorimotor-somatic-container` — الإناء الجسدي الحاوي في السنسوريموتور: استعارة نافذة التحمل الحركي — ✅ معتمد
+- `met-ship-of-theseus` — سفينة ثيسيوس: استعارة الهوية والتغير الجوهري — ✅ معتمد
 - `met-sisyphus-camus` — سيزيف: استعارة العبث والتمرد المستمر — ✅ معتمد
+- `met-skinner-box-metaphor` — صندوق سكينر: استعارة التشريط وتطويع السلوك الإنساني — ✅ معتمد
+- `met-society-as-organism` — المُجْتَمَع كَكَائن: استعارة التَّنَاظُر البيولوجي — ✅ معتمد
+- `met-spandrels-of-san-marco` — ركائز كنيسة سان ماركو لستيفن جاي غولد: استعارة النواتج التطورية العرضية — ✅ معتمد
+- `met-spinoza-blind-will-nature` — الطبيعة الطابعة والمطبوعة: استعارة سبينوزا للجوهر الواحد — ✅ معتمد
+- `met-stoic-dog-tied-to-cart` — الكلب المربوط بالعربة: استعارة الرواقية للقدر وحرية الاختيار — ✅ معتمد
+- `met-stream-of-consciousness-james` — مجرى الوعي: استعارة تدفق الخبرة الذاتية المستمر — ✅ معتمد
+- `met-sufi-reed-flute-masnavi` — ناي الرومي في المثنوي: استعارة حنين الروح الإنسانية لوطنها الأصلي — ✅ معتمد
+- `met-suhrawardi-light-shadow` — نور الأنوار والظلمات للسهروردي: استعارة الوجود الإشراقي وتفاضل المراتب — ✅ معتمد
+- `met-therapy-as-alchemy` — العِلاج كَخيمياء: استعارة التَّحَوُّل — ✅ معتمد
+- `met-therapy-as-archaeology` — العِلاج كَحَفْر أثري: استعارة الاكتشاف المُدفون — ✅ معتمد
+- `met-therapy-as-detective` — العلاج كتحقيق بوليسي — ✅ معتمد
+- `met-therapy-as-dialogue` — العِلاج كَحِوار: استعارة البَهْلَوان الفِكْري — ✅ معتمد
+- `met-therapy-as-gardening` — العِلاج كَبُسْتانيَّة: استعارة الاعْتِناء والاغْتِذاء — ✅ معتمد
+- `met-therapy-as-journey` — العِلاج كَرحلة: استعارة السَّفَر إلى الدَّاخل — ✅ معتمد
+- `met-therapy-as-levitation` — العِلاج كَرَفْع (Levitation): استعارة التَّحَرُّر مِن الثِّقَل — ✅ معتمد
+- `met-therapy-as-mirror` — العِلاج كَمرآة: استعارة الانْعِكاس — ✅ معتمد
+- `met-therapy-as-mountain-climbing` — العلاج كتسلق الجبل — ✅ معتمد
+- `met-therapy-as-rewiring` — العِلاج كإعادة تَوْصيل: استعارة الشَّبَكات العَصَبيَّة — ✅ معتمد
+- `met-therapy-as-translation` — العلاج كترجمة — ✅ معتمد
+- `met-triune-brain-maclean` — الدماغ الثلاثي: استعارة الطبقات التطورية للجهاز العصبي — ✅ معتمد
+- `met-turing-test-imitation-game` — لعبة المحاكاة وتفكير الآلة: استعارة تورينغ للذكاء — ✅ معتمد
+- `met-unconscious-as-sea` — اللَّاَّوِعْي كَبَحْر: استعارة الأَعْماق — ✅ معتمد
+- `met-veil-of-ignorance-rawls` — حجاب الجهل: استعارة الإنصاف والعدالة التعاقدية — ✅ معتمد
+- `met-wax-tablet-aristotle` — اللوح الشمعي: استعارة انطباع الذاكرة والإدراك الحسي — ✅ معتمد
+- `met-winnicott-mirror-mother-face` — وجه الأم كالمرآة لوينيكوت: استعارة انعكاس الذات وبناء الأمان الوجودي — ✅ معتمد
+- `met-winnicott-transitional-object` — الموضوع الانتقالي لوينيكوت: استعارة بطانية الأمان والمساحة الثالثة — ✅ معتمد
+- `met-wittgenstein-beetle-box` — الخنفساء في الصندوق: استعارة فيتغنشتاين ونقد اللغة الخاصة — ✅ معتمد
+- `met-zeno-achilles-tortoise` — أخيل والسلحفاة لزينون: مفارقة الحركة وتجزئة اللانهاية — ✅ معتمد
 
-## بديهية/مبدأ تأسيسي (26)
+## بديهية/مبدأ تأسيسي (50)
 
+- `axi-analogia-entis-axiom` — المماثلة الوجودية (Analogia Entis) — ✅ معتمد
+- `axi-categorical-imperative-universal` — قاعدة التعميم الأخلاقي المطلق (Universal Law) — ✅ معتمد
+- `axi-cogito-ergo-sum-rule` — الكوجيتو واليقين الذاتي (Cogito Ergo Sum) — ✅ معتمد
+- `axi-dichotomy-of-control-axiom` — بديهية الفصل بين المقدور وغير المقدور — ✅ معتمد
+- `axi-difference-principle-rule` — مبدأ الاختلاف لرولز (Difference Principle) — ✅ معتمد
+- `axi-excluded-middle` — مبدأ الثالث المرفوع (Principle of Excluded Middle) — ✅ معتمد
+- `axi-existence-precedes-essence-axiom` — الوجود يسبق الماهية (Existence Precedes Essence) — ✅ معتمد
+- `axi-falsificationism-demarcation` — مبدأ القابلية للتكذيب (Falsifiability Principle) — ✅ معتمد
+- `axi-greatest-happiness-principle` — مبدأ السعادة العظمى (Greatest Happiness Principle) — ✅ معتمد
+- `axi-harm-principle-rule` — مبدأ الضرر لمل (Harm Principle) — ✅ معتمد
+- `axi-homo-mensura-axiom` — الإنسان مقياس كل شيء (Homo Mensura) — ✅ معتمد
+- `axi-natural-law-first-precept` — القاعدة الأولى للقانون الطبيعي (Natural Law) — ✅ معتمد
+- `axi-primum-nocere` — أوَّلُ لا تضر — ✅ معتمد
+- `axi-principle-of-identity` — مبدأ الهوية (Principle of Identity) — ✅ معتمد
+- `axi-principle-of-non-contradiction` — مبدأ عدم التناقض (Principle of Non-Contradiction) — ✅ معتمد
+- `axi-principle-of-sufficient-reason` — مبدأ السبب الكافي (Principle of Sufficient Reason) — ✅ معتمد
+- `axi-substance-monism-axiom` — أحادية الجوهر المطلقة (Substance Monism) — ✅ معتمد
+- `axi-tabula-rasa-rule` — بديهية اللوح الفارغ (Tabula Rasa Axiom) — ✅ معتمد
+- `axi-univocity-of-being-axiom` — التواطؤ الوجودي لسكوتس (Univocity of Being) — ✅ معتمد
+- `axi-veil-of-ignorance-rule` — حجاب الجهل والإنصاف (Veil of Ignorance) — ✅ معتمد
+- `axi-verification-criterion` — مبدأ التحقق الوضعي (Verification Criterion) — ✅ معتمد
+- `axi-will-to-power-axiom` — إرادة القوة كجوهر للصيرورة (Will to Power) — ✅ معتمد
 - `axm-actualizing-tendency` — مبدأ نزعة التحقق الذاتي — ✅ معتمد
-- `axm-adaptation` — بديهية التكيُّف — 🕓 مسودة
-- `axm-classical-conditioning` — الإشراط الكلاسيكي (بافلوف) — 🕓 مسودة
-- `axm-cognitive-consistency` — بديهية الاستواء المعرفي — 🕓 مسودة
-- `axm-cognitive-schema` — بديهية المخططات المعرفية — 🕓 مسودة
-- `axm-cognitive-unconscious` — بديهية اللاوعي المعرفي — 🕓 مسودة
-- `axm-delayed-gratification` — بديهية تأجيل الإشباع — 🕓 مسودة
+- `axm-adaptation` — بديهية التكيُّف — ✅ معتمد
+- `axm-classical-conditioning` — الإشراط الكلاسيكي (بافلوف) — ✅ معتمد
+- `axm-cognitive-consistency` — بديهية الاستواء المعرفي — ✅ معتمد
+- `axm-cognitive-mediation-principle` — مبدأ الوساطة المعرفية (تحديد الأفكار للانفعالات) — ✅ معتمد
+- `axm-cognitive-schema` — بديهية المخططات المعرفية — ✅ معتمد
+- `axm-cognitive-unconscious` — بديهية اللاوعي المعرفي — ✅ معتمد
+- `axm-delayed-gratification` — بديهية تأجيل الإشباع — ✅ معتمد
 - `axm-existence-precedes-essence` — الوجود يسبق الماهية — ✅ معتمد
-- `axm-hedonic-principle` — المبدأ الهيدوني (مبدأ اللذة-الألم) — 🕓 مسودة
-- `axm-holism-gestalt` — مبدأ الكلية (Gestalt) — 🕓 مسودة
-- `axm-homeostasis` — مبدأ الاستتباب (Homeostasis) — 🕓 مسودة
-- `axm-insight-learning` — التعلم بالاستبصار — 🕓 مسودة
-- `axm-intentionality` — بديهية القصديةّة (Intentionality) — 🕓 مسودة
-- `axm-mind-body-problem` — إشكالية العقل والجسم — 🕓 مسودة
+- `axm-hedonic-principle` — المبدأ الهيدوني (مبدأ اللذة-الألم) — ✅ معتمد
+- `axm-holism-gestalt` — مبدأ الكلية (Gestalt) — ✅ معتمد
+- `axm-homeostasis` — مبدأ الاستتباب (Homeostasis) — ✅ معتمد
+- `axm-insight-learning` — التعلم بالاستبصار — ✅ معتمد
+- `axm-intentionality` — بديهية القصديةّة (Intentionality) — ✅ معتمد
+- `axm-mind-body-problem` — إشكالية العقل والجسم — ✅ معتمد
 - `axm-nadaista-manifesto` — بيان النادائية (Nadaísmo) — العدمية الكولومبية — ✅ معتمد
-- `axm-nature-vs-nurture` — ثنائية الطبيعة والتنشئة — 🕓 مسودة
-- `axm-observational-learning` — التعلم بالملاحظة (التعلم الاجتماعي) — 🕓 مسودة
-- `axm-operant-conditioning` — الإشراط الفعال (سكينر) — 🕓 مسودة
-- `axm-psychic-determinism` — الحتمية النفسية — 🕓 مسودة
-- `axm-reciprocal-determinism` — الحتمية المتبادلة — 🕓 مسودة
-- `axm-reductionism` — بديهية الاختزالية — 🕓 مسودة
-- `axm-reinforcement` — مبدأ التعزيز (Reinforcement) — 🕓 مسودة
-- `axm-scientific-objectivity` — بديهية الموضوعية العلمية — 🕓 مسودة
-- `axm-self-regulation` — بديهية التنظيم الذاتي — 🕓 مسودة
-- `axm-tabula-rasa` — مبدأ اللوح الفارغ (Tabula Rasa) — 🕓 مسودة
-- `axm-the-unconscious` — بديهية اللاوعي — 🕓 مسودة
+- `axm-nature-vs-nurture` — ثنائية الطبيعة والتنشئة — ✅ معتمد
+- `axm-observational-learning` — التعلم بالملاحظة (التعلم الاجتماعي) — ✅ معتمد
+- `axm-operant-conditioning` — الإشراط الفعال (سكينر) — ✅ معتمد
+- `axm-psychic-determinism` — الحتمية النفسية — ✅ معتمد
+- `axm-reciprocal-determinism` — الحتمية المتبادلة — ✅ معتمد
+- `axm-reductionism` — بديهية الاختزالية — ✅ معتمد
+- `axm-reinforcement` — مبدأ التعزيز (Reinforcement) — ✅ معتمد
+- `axm-scientific-objectivity` — بديهية الموضوعية العلمية — ✅ معتمد
+- `axm-self-regulation` — بديهية التنظيم الذاتي — ✅ معتمد
+- `axm-tabula-rasa` — مبدأ اللوح الفارغ (Tabula Rasa) — ✅ معتمد
+- `axm-the-unconscious` — بديهية اللاوعي — ✅ معتمد
+- `axm-unconscious-determination` — مبدأ الحتمية النفسية واللاشعور الفاعل — ✅ معتمد
 
-## سؤال مولِّد (3)
+## سؤال مولِّد (0)
 
-- `que-is-unconscious-real` — هل اللاوعي حقيقة وكيان وجودي أم مجرد بناء نظري؟ — ✅ معتمد
-- `que-nature-vs-nurture` — ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟ — ✅ معتمد
-- `que-what-is-authentic-existence` — ما الذي يجعل الوجود أصيلاً؟ — ✅ معتمد
 
-## حوار مع مدرسة مجاورة (3)
+## حوار مع مدرسة مجاورة (49)
 
+- `dia-adorno-popper-positivist-dispute` — النزاع الوضعي في علم الاجتماع الألماني بين أدورنو وبوبر 1961 — ✅ معتمد
+- `dia-al-kindi-mu-tazila-creation` — حوار الكندي والمعتزلة: حدوث العالم والتوحيد والعقلانية الفلسفية — ✅ معتمد
+- `dia-al-razi-abu-hatim-prophecy` — مناظرة أبي بكر الرازي وأبي حاتم الرازي حول النبوة والعقل — ✅ معتمد
+- `dia-arendt-jaspers-guilt-correspondence` — مراسلات آرندت وياسبرز: المسؤولية الأخلاقية والذنب وتفاهة الشر — ✅ معتمد
+- `dia-avicenna-al-biruni-questions` — الأسئلة والأجوبة بين ابن سينا والبيروني حول فيزياء أرسطو — ✅ معتمد
+- `dia-ayer-copleston-1949` — مناظرة آير وكوبلستون 1949 حول الوضعية المنطقية — ✅ معتمد
+- `dia-buber-rogers-dialogue-1957` — حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة — ✅ معتمد
+- `dia-buddha-kassapa-asceticism` — حوار بوذا وكاسابا: نبذ التقشف الشديد وتأسيس المسار الأوسط — ✅ معتمد
+- `dia-carl-hovey-freud-interview` — حوار فرويد التاريخي: التحليل النفسي، مستقبل الوهم، وحضارة القلق — ✅ معتمد
+- `dia-chomsky-piaget-1975` — مناظرة تشومسكي وبياجيه 1975 في مركز روايومون — ✅ معتمد
+- `dia-copleston-russell-1948` — مناظرة برتراند راسل والأب كوبلستون 1948 حول وجود الله — ✅ معتمد
+- `dia-davos-encounter-cassirer-heidegger-1929` — مناظرة دافوس 1929 بين كاسيرر وهايدغر — ✅ معتمد
+- `dia-dennett-chalmers-zombies` — سجال دينيت وتشالمرز: الزومبي الفلسفي والمشكلة الصعبة للوعي — ✅ معتمد
+- `dia-derrida-searle-1977` — سجال دريدا وسيرل 1977: أفعال الكلام والتفكيك والقصدية — ✅ معتمد
+- `dia-descartes-gassendi-objections` — اعتراضات غاسندي على تأملات ديكارت: صراع المادة والعقل — ✅ معتمد
+- `dia-dussel-ricoeur-liberation` — حوار إنريكي دوسيل وبول ريكور حول فلسفة التحرير — ✅ معتمد
+- `dia-einstein-tagore-1930` — حوار أينشتاين وطاغور 1930: حقيقة الكون المستقلة والوعي الإنساني — ✅ معتمد
 - `dia-existential-act-encounter` — لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT) — ✅ معتمد
+- `dia-foucault-chomsky-debate-1971` — مناظرة فوكو وتشومسكي 1971 حول الطبيعة البشرية والعدالة — ✅ معتمد
+- `dia-foucault-derrida-cogito-madness` — السجال بين فوكو ودريدا حول كوجيتو ديكارت وتاريخ الجنون — ✅ معتمد
+- `dia-foucault-habermas-enlightenment` — سجال فوكو وهابرماس حول التنوير: نقد السلطة مقابل الفعل التواصلي — ✅ معتمد
+- `dia-frankl-may-meaning-debate` — حوار فرانكل وماي: المعنى كـ اكتشاف موضوعي أم إبداع ذاتي؟ — ✅ معتمد
+- `dia-freud-jung-libido-split` — حوار فرويد ويونج: طبيعة الليبيدو وتأسيس علم النفس التحليلي — ✅ معتمد
+- `dia-gadamer-derrida-1981` — حوار غادامير ودريدا 1981 في معهد غوته بباريس — ✅ معتمد
+- `dia-ghazali-averroes-dispute` — السجال الميتافيزيقي بين الغزالي وابن رشد حول السببية — ✅ معتمد
+- `dia-habermas-gadamer-hermeneutics` — حوار هابرماس وغادامير: النظرية النقدية والهرمنيوطيقا — ✅ معتمد
+- `dia-habermas-ratzinger-2004` — حوار هابرماس وراتزينغر 2004 حول الأسس الأخلاقية للدولة — ✅ معتمد
+- `dia-heidegger-celan-todtnauberg-1967` — لقاء هايدغر والشاعر بول تسيلان 1967 في كوخ تودتناوبرغ — ✅ معتمد
+- `dia-jung-buber-1952` — سجال يونغ وبوبر 1952: علم النفس الباطني مقابل لقاء أنا-أنت — ✅ معتمد
+- `dia-kahneman-gigerenzer-heuristics` — سجال كانيمان وغيغرنزر: الانحيازات المعرفية مقابل الحدس التكيفي — ✅ معتمد
+- `dia-kuhn-popper-scientific-paradigms` — مناظرة كون وبوبر 1965: البارادايم وثورات العلم مقابل التكذيب — ✅ معتمد
+- `dia-lacan-heidegger-1955` — لقاء لاكان وهايدجر 1955: اللغة وسؤال الكينونة وسيكولوجيا اللاوعي — ✅ معتمد
 - `dia-lacan-heidegger-anxiety-seminar` — سيمينار لاكان العاشر حول القلق: حوار خفي مع هايدجر — ✅ معتمد
+- `dia-leibniz-clarke-correspondence` — مراسلات لايبنتز وكلارك 1715 حول الزمان والمكان والعناية — ✅ معتمد
+- `dia-levinas-derrida-hospitality` — سجال ليفيناس ودريدا: أخلاق الغيرية والضيافة اللانهائية المستحيلة — ✅ معتمد
 - `dia-morita-cbt-engagement` — علاج موريتا والعلاج المعرفي السلوكي: تقاطع حيّ — ✅ معتمد
+- `dia-nagel-dennett-bat` — سجال ناغل ودينيت: تجربة الخفاش وسؤال الخبرة الذاتية للوعي — ✅ معتمد
+- `dia-putnam-rorty-relativism` — سجال هيلاري بوتنام وريتشارد رورتي حول الواقعية والنسبية — ✅ معتمد
+- `dia-rawls-habermas-debate-1995` — مناظرة جون رولز ويورغن هابرماس 1995 حول العدالة — ✅ معتمد
+- `dia-ricoeur-gadamer-hermeneutics` — حوار بول ريكور وغادامير حول النص والمسافة التأويلية — ✅ معتمد
+- `dia-rogers-skinner-1956` — مناظرة روجرز وسكينر 1956: السيطرة السلوكية مقابل حرية الإنسان — ✅ معتمد
+- `dia-rogers-skinner-human-freedom` — مناظرة روجرز وسكينر: التحكم السلوكي وحرية الإنسان — ✅ معتمد
+- `dia-rousseau-voltaire-lisbon-earthquake` — سجال روسو وفولتير 1755 حول زلزال لشبونة والتفاؤل — ✅ معتمد
+- `dia-sartre-camus-dispute-1952` — السجال الفلسفي بين سارتر وكامو 1952 حول الإنسان المتمرد — ✅ معتمد
+- `dia-sartre-merleau-ponty-break` — انشقاق سارتر وميرلوبونتي: الحرية السياسية، الجسد، والماركسية — ✅ معتمد
+- `dia-socrates-euthyphro` — محاورة سقراط وأوثيفرون حول طبيعة القداسة والخير — ✅ معتمد
+- `dia-spinoza-blyenbergh-evil` — مراسلات سبينوزا وبلاينبرغ 1665: طبيعة الشر في النسق الأحادي — ✅ معتمد
+- `dia-spinoza-boxel-ghosts` — مراسلات سبينوزا وهوجو بوكسل حول الأشباح والغيبيات — ✅ معتمد
+- `dia-taha-abderrahmane-al-jabri` — النقد الائتماني لطه عبد الرحمن ضد نقد العقل العربي للجابري — ✅ معتمد
 
-## متلازمة (191)
+## متلازمة (195)
 
 - `syn-acute-anxiety` — القلق الحاد — ✅ معتمد
 - `syn-ahab-syndrome` — متلازمة الكابتن أهاب والهوس الانتقامي التدميري — ✅ معتمد
@@ -4174,6 +6479,7 @@
 - `syn-chinese-restaurant` — متلازمة المطعم الصيني وغلوتامات الصوديوم (MSG Complex) — ✅ معتمد
 - `syn-chronic-fatigue` — متلازمة التعب المزمن (التهاب الدماغ والنخاع العضلي) — ✅ معتمد
 - `syn-cluttering` — متلازمة الفوضى الكلامية والسرعة المفرطة (Cluttering) — ✅ معتمد
+- `syn-codependency` — الاعتمادية المرضية (Codependency) — ✅ معتمد
 - `syn-compassion-fatigue` — متلازمة التعب من التعاطف (إجهاد الشفقة لدى مقدمي الرعاية) — ✅ معتمد
 - `syn-conduction-aphasia` — متلازمة حبسة التوصيل (عجز التكرار اللفظي المباشر) — ✅ معتمد
 - `syn-cotard` — متلازمة كوتار (هذاء العدم / متلازمة الجثة السائرة) — ✅ معتمد
@@ -4182,6 +6488,7 @@
 - `syn-cushings-psychosis` — متلازمة كوشينغ النفسية والذهان الستيرويدي — ✅ معتمد
 - `syn-da-costa` — متلازمة دا كوستا (قلب الجندي / الوهن الدوري العصبي التاريخي) — ✅ معتمد
 - `syn-de-clerambault` — متلازمة دي كليرامبو (العشق الوهمي الهذائي / الإيروتومانيا) — ✅ معتمد
+- `syn-decisional-procrastination` — التسويف القرار (Decisional Procrastination) — ✅ معتمد
 - `syn-dejerine-roussy` — متلازمة ديجرين–روسي للألم المهادي المركزي — ✅ معتمد
 - `syn-dementia-pugilistica` — متلازمة خرف الملاكمين (اعتلال الدماغ الرضحي المزمن التاريخي) — ✅ معتمد
 - `syn-depressive-symptoms` — الأعراض الاكتئابية — ✅ معتمد
@@ -4192,6 +6499,7 @@
 - `syn-dorian-gray` — متلازمة دوريان غراي (الرعب من الشيخوخة والتشبث بالشباب) — ✅ معتمد
 - `syn-duck-syndrome` — متلازمة البطة في البيئات التنافسية (Stanford Duck Syndrome) — ✅ معتمد
 - `syn-dysexecutive` — متلازمة القصور التنفيذي الجبهي (Dysexecutive Syndrome) — ✅ معتمد
+- `syn-eco-anxiety` — قلق المناخ (Eco-Anxiety) — ✅ معتمد
 - `syn-effort-syndrome` — متلازمة الجهد الحربي والقلب العصبي الحاد (Lewis 1917) — ✅ معتمد
 - `syn-ekbom` — متلازمة إيكبوم (توهم التطفل الجلدي / الطفيليات الوهمية) — ✅ معتمد
 - `syn-electromagnetic-hypersensitivity` — متلازمة الحساسية الكهرومغناطيسية الوهمية (EHS) — ✅ معتمد
@@ -4219,7 +6527,7 @@
 - `syn-gururumba` — متلازمة الرجل البري في غينيا الجديدة (Gururumba Syndrome) — ✅ معتمد
 - `syn-hamlet-syndrome` — متلازمة هاملت وشلل التحليل والتردد القاتل — ✅ معتمد
 - `syn-havana` — متلازمة هافانا والحوادث الصحية الشاذة (Havana Syndrome) — ✅ معتمد
-- `syn-hikikomori` — متلازمة هيكيكوموري (الانسحاب الاجتماعي الحاد والاعتزال المطول) — ✅ معتمد
+- `syn-hikikomori` — متلازمة الهيكوموري (Hikikomori) — ✅ معتمد
 - `syn-historical-neurasthenia` — متلازمة الوهن العصبي التاريخية (الإنهاك العصبي الأمريكي) — ✅ معتمد
 - `syn-holiday-heart` — متلازمة قلب العطلات الحادة (اضطراب النظم النفسي الكحولي) — ✅ معتمد
 - `syn-horner` — متلازمة هورنر العصبية الودية — ✅ معتمد
@@ -4229,6 +6537,7 @@
 - `syn-hypervigilance` — فرط اليقظة — ✅ معتمد
 - `syn-hypoactive-sexual-desire` — متلازمة نقص الرغبة الجنسية التثبيطية (HSDD) — ✅ معتمد
 - `syn-impostor` — ظاهرة / متلازمة المحتال (الشعور بالزيف وعدم الكفاءة) — ✅ معتمد
+- `syn-impostor-syndrome` — متلازمة المحتال (Impostor Syndrome) — ✅ معتمد
 - `syn-india-delhi` — متلازمة الهند ودلهي (الذهان والصدمة الروحية الموقفية) — ✅ معتمد
 - `syn-insomnia` — الأرق — ✅ معتمد
 - `syn-intermetamorphosis` — متلازمة التحول البيني (وهم تبادل الهويات الجسدية والنفسية) — ✅ معتمد
@@ -4331,14 +6640,140 @@
 - `syn-wind-turbine-infrasound` — متلازمة توربينات الرياح والأصوات دون السمعية — ✅ معتمد
 - `syn-zar` — متلازمة الزار (طقس التلبس والاضطراب التفارقي في شمال إفريقيا) — ✅ معتمد
 
-## نظام تصنيف (2)
+## نظام تصنيف (0)
 
-- `classification-dsm-5-tr` — الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR) — ✅ معتمد
-- `classification-icd-11` — التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11) — ✅ معتمد
 
 ## ⚠️ أنواع غير مسجَّلة في TYPE_ORDER (يحتاج مراجعة عاجلة)
 
-### جدل / خلاف (3)
-- `dbt-antidepressants-efficacy-debate` — جدل الفاعلية البيولوجية لمضادات الاكتئاب وفرضية السيروتونين — 🕓 مسودة
-- `dbt-categorical-vs-dimensional` — جدل التصنيف الفئوي (DSM) مقابل التشخيص الأبعادي (HiTOP / RDoC) — 🕓 مسودة
-- `dbt-concept-creep-psychiatry` — جدل التمييع التشخيصي وتوسع تصنيفات الاضطرابات النفسية — 🕓 مسودة
+### تقنية (1)
+- `con-dream-interpretation-technique` — تقنية تفسير الأحلام (Dream Interpretation Technique) — ✅ معتمد
+### سؤال توليدي (129)
+- `qst-mind-body-interaction-problem` — كيف يؤثر غير المادي في المادي؟ معضلة التفاعل بين النفس والجسد — ✅ معتمد
+- `que-algorithmic-governance-justice` — هل يمكن للذكاء الاصطناعي إصدار أحكام قضائية خالية من الانحياز البشري؟ — ✅ معتمد
+- `que-animal-consciousness-and-rights` — هل تمتلك الكائنات غير البشرية وعياً ذاتياً وحقوقاً أخلاقية ملزمة؟ — ✅ معتمد
+- `que-anthropic-principle-fine-tuning` — لماذا خُلق الكون مضبوطاً بدقة متناهية تسمح بنشوء الحياة الواعية؟ — ✅ معتمد
+- `que-are-human-rights-universal` — هل حقوق الإنسان كونية ومطلقة أم اختراع إمبريالي غربي مفروض؟ — ✅ معتمد
+- `que-authenticity-vs-social-conformity` — كيف يحقق الفرد أصالته في ظل ضغط الامتثال الاجتماعي؟ — ✅ معتمد
+- `que-biopolitics-power-over-life` — كيف تحولت السلطة من حق القتل إلى إدارة الحياة والجسد (البيوبوليتيك)؟ — ✅ معتمد
+- `que-can-ai-feel` — هل يمكن للأنظمة الصنعية امتلاك خبرة ذاتية وجودية (Qualia)؟ — ✅ معتمد
+- `que-can-grief-ever-be-completed` — هل يكتمل الحزن والفقد بالنسيان أم بإعادة نسج الغائب في نسيج المعنى؟ — ✅ معتمد
+- `que-can-we-conceive-our-own-nonexistence` — هل يستطيع الوعي البشري أن يتخيل بصدق فناءه التام بعد الموت؟ — ✅ معتمد
+- `que-can-we-forgive-the-unforgivable` — هل يمكن للإنسان أن يغفر ما لا يغتفر وما هي شروط المسامحة الجذرية؟ — ✅ معتمد
+- `que-can-we-know-things-in-themselves` — هل يمكن للإنسان معرفة الشيء في ذاته أم محكوم بظواهر الإدراك؟ — ✅ معتمد
+- `que-capitalism-alienation-marx` — هل العمل المأجور في النظام الرأسمالي يستلب جوهر الإنسان وإبداعه؟ — ✅ معتمد
+- `que-care-ethics-vs-justice-ethics` — هل الأخلاق النسوية القائمة على الرعاية تتفوق على أخلاق القوانين الصارمة؟ — ✅ معتمد
+- `que-civil-disobedience-duty` — متى يتحول خرق القانون والعصيان المدني إلى واجب أخلاقي ومواطنة أصيلة؟ — ✅ معتمد
+- `que-climate-grief-solastalgia` — كيف يواجه الإنسان المعاصر الحزن المناخي والسولاستالجيا في عصر الأنثروبوسين؟ — ✅ معتمد
+- `que-cognitive-enhancement-ethics` — هل يحق للإنسان تعزيز قدراته العقلية والجينومية تقنياً وما حدود ذلك؟ — ✅ معتمد
+- `que-death-and-finitude-value` — هل يمنح الموت وقصر الحياة معنى للوجود أم يفرغه من المعنى؟ — ✅ معتمد
+- `que-determinism-vs-fatalism` — ما الفارق بين الحتمية العلمية والجبرية القدرية في فهم حرية الإنسان؟ — ✅ معتمد
+- `que-distributive-justice-equality-luck` — هل يجب على المجتمع تعويض الأفراد عن سوء الحظ الجيني والطبقي الأولي؟ — ✅ معتمد
+- `que-does-god-exist` — هَل الله مَوْجُود؟ — ✅ معتمد
+- `que-does-perception-represent-reality` — هل تعكس حواسنا العالم الفيزيائي بدقة أم تقدم واجهة تطورية للبقاء؟ — ✅ معتمد
+- `que-does-quantum-mechanics-save-free-will` — هل تنقذ العشوائية واللاحتمية الكمومية الإرادة الحرة للإنسان؟ — ✅ معتمد
+- `que-embodied-trauma-body-memory` — كيف يحفظ الجسد آثار الصدمة ويسجلها في الجهاز العصبي المستقل؟ — ✅ معتمد
+- `que-epistemic-injustice-fricker` — كيف يسلب التمييز الطبقي والعنصري مصداقية شهادة المظلومين (الظلم المعرفي)؟ — ✅ معتمد
+- `que-epistemological-certainty` — هل يمكن للإنسان بلوغ يقين معرفي مطلق غير قابل للشك؟ — ✅ معتمد
+- `que-existential-guilt-unlived-life` — ما هو الذنب الوجودي وكيف ينشأ من خيانة الفرد لإمكاناته الحقيقية؟ — ✅ معتمد
+- `que-existential-isolation-connection` — كيف نتصالح مع العزلة الوجودية المطلقة ونبني صلة حميمة بالآخرين؟ — ✅ معتمد
+- `que-extended-mind-boundary` — أين ينتهي عقل الإنسان وأين يبدأ العالم الخارجي؟ — ✅ معتمد
+- `que-faith-and-reason-harmony` — هل يتعارض الإيمان الروحي مع العقل النقدي أم يكتمل به؟ — ✅ معتمد
+- `que-fear-of-freedom-fromm` — لماذا يهرب الإنسان من حريته ويلجأ للاستسلام الطوعي للاستبداد؟ — ✅ معتمد
+- `que-forgiveness-of-self-compassion` — كيف يغفر الإنسان لنفسه أخطاء الماضي التي أضرت بأحبائه دون تبرير؟ — ✅ معتمد
+- `que-free-speech-hate-speech-boundary` — أين تنتهي حرية التعبير المشروعة وأين يبدأ خطاب الكراهية والتحريض؟ — ✅ معتمد
+- `que-free-will-vs-determinism` — هل الإنسان حر الإرادة أم محكوم بمسارات حتمية؟ — ✅ معتمد
+- `que-grounding-problem-metaphysics` — ما هو الأساس الأنطولوجي الأعمق الذي تستند عليه كافة حقائق العالم؟ — ✅ معتمد
+- `que-hope-vs-acceptance-illness` — كيف يوازن المريض بين الأمل في الشفاء والتقبل الجذري للواقع الطبي؟ — ✅ معتمد
+- `que-intergenerational-healing-rituals` — كيف تلتئم الصدمات المتوارثة عبر الأجيال في الثقافات الجمعية؟ — ✅ معتمد
+- `que-intergenerational-justice-climate` — ما هي الواجبات الأخلاقية للجيل الحاضر تجاه الأجيال القادمة غير المولودة؟ — ✅ معتمد
+- `que-introspection-reliability` — هل الاستبطان وسيلة موثوقة لمعرفة الذات أم حكاية تبريرية لاحقة؟ — ✅ معتمد
+- `que-is-altruism-genuinely-possible` — هل الإيثار الخالص ممكن في الطبيعة البشرية أم كل تضحية تخفي مصلحة ذاتية؟ — ✅ معتمد
+- `que-is-beauty-objective-or-subjective` — هل الجمال خاصية موضوعية كامنة في التناسق أم ذوق ذاتي في عين الرائي؟ — ✅ معتمد
+- `que-is-change-continuous-or-discrete` — هل التحول والصيرورة حركة مستمرة ناعمة أم قفزات كمومية آنية؟ — ✅ معتمد
+- `que-is-complexity-inevitable-in-universe` — هل نزوع الكون نحو التعقيد ونشوء الحياة قانون حتمي أم مصادفة نادرة؟ — ✅ معتمد
+- `que-is-consciousness-illusion` — هل الوعي تجربة حقيقية أم وهم بيولوجي؟ — ✅ معتمد
+- `que-is-democracy-inherently-flawed` — هل الديمقراطية أفضل الأنظمة أم أنها مهددة دائماً بحكم الدهماء والاستقطاب؟ — ✅ معتمد
+- `que-is-jealousy-evolutionary-or-insecurity` — هل الغيرة العاطفية استجابة تطورية لحماية الاستثمار الأسري أم هشاشة تعلقية؟ — ✅ معتمد
+- `que-is-logic-universal-or-cultural` — هل قوانين المنطق الصوري كونية ومطلقة أم أبنية لغوية وثقافية؟ — ✅ معتمد
+- `que-is-math-discovered-or-invented` — هل الرياضيات اكتشاف لحقائق موضوعية أم اختراع لعقل الإنسان؟ — ✅ معتمد
+- `que-is-memory-reconstructive-fiction` — هل الذاكرة استرجاع لأشرطة الماضي أم إعادة تخيل وإبداع مستمر؟ — ✅ معتمد
+- `que-is-nothingness-a-state` — هل العدم حالة وجودية قابلة للتصور أم مجرد سلب عقلي لغوي؟ — ✅ معتمد
+- `que-is-past-fixed-and-future-open` — هل الماضي ثابت محفور للأبد والمستقبل فضاء مفتوح من الإمكانات؟ — ✅ معتمد
+- `que-is-scientific-progress-cumulative` — هل المعرفة العلمية تراكم خطي للحقائق أم قفزات ثورية في البارادايم؟ — ✅ معتمد
+- `que-is-space-discrete-or-continuous` — هل نسيج الفضاء والزمان متصل أملس أم يتألف من حبيبات كمومية منتهية؟ — ✅ معتمد
+- `que-is-the-self-an-illusion-buddhism` — هل «الذات الثابتة» وهم عقلي أم جوهر حقيقي (الأناتا في البوذية)؟ — ✅ معتمد
+- `que-is-the-universe-teleological` — هل للكون غاية وقصد كلي أم صيرورة عمياء محكومة بقوانين المادة؟ — ✅ معتمد
+- `que-is-truth-correspondence-or-pragmatic` — هل الحقيقة مطابقة للواقع الخارجي أم منفعة عملية وتماسك نسقي؟ — ✅ معتمد
+- `que-is-unconscious-real` — هل اللاوعي حقيقة وكيان وجودي أم مجرد بناء نظري؟ — ✅ معتمد
+- `que-just-war-theory-ethics` — هل توجد حرب عادلة أخلاقياً وما هي معايير الدفاع المشروع والعدوان؟ — ✅ معتمد
+- `que-justice-vs-retribution` — ما هو الأساس الفلسفي للعقاب: القصاص أم الإصلاح والردع؟ — ✅ معتمد
+- `que-knowledge-without-belief` — هل يمكن للإنسان أن يعرف حقيقة ما دون أن يؤمن بها نفسياً؟ — ✅ معتمد
+- `que-limits-of-language-thought` — هل ترسم حدود لغتنا حدود عالمنا وفكرنا؟ — ✅ معتمد
+- `que-limits-of-reductionism` — هل يمكن اختزال الحب والفن والمعنى في تفاعلات كيميائية عصبية؟ — ✅ معتمد
+- `que-meaning-in-indifferent-universe` — كيف ينشأ المعنى في كون طبيعي غير مبالٍ؟ — ✅ معتمد
+- `que-meritocracy-tyranny-sandel` — هل الاستحقاق الفردي عدالة حقيقية أم غطرسة تولد الظلم واحتقار الخاسرين؟ — ✅ معتمد
+- `que-mimetic-desire-girard` — هل رغباتنا أصيلة تنبع من ذواتنا أم مستعارة بالمحاكاة؟ — ✅ معتمد
+- `que-mind-body-interaction` — كيف يؤثر الفكر غير المادي في الجسد المادي والعكس؟ — ✅ معتمد
+- `que-mind-uploading-identity` — إذا رُفعت خريطة الدماغ العصبية على حاسوب فهل يبقى الفرد هو ذاته؟ — ✅ معتمد
+- `que-moral-relativism-vs-absolutism` — هل القيم الأخلاقية موضوعية ومطلقة أم نتاج ثقافي نسبي؟ — ✅ معتمد
+- `que-narcissism-healthy-vs-pathological` — أين ينتهي حب الذات والتقدير الصحي ويبدأ النرجسية الاستغلالية المرضية؟ — ✅ معتمد
+- `que-nature-of-evil-banality-arendt` — كيف يرتكب الموظف العادي أبشع الفظائع دون أن يكون شريراً سادياً؟ — ✅ معتمد
+- `que-nature-of-suffering` — هل المعاناة عَرَض مرضي يجب استئصاله أم بعد تكويني للوعي؟ — ✅ معتمد
+- `que-nature-of-time` — هل الزمن تدفق موضوعي أم بناء عقلي للإدراك الحسي؟ — ✅ معتمد
+- `que-nature-vs-nurture` — ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟ — ✅ معتمد
+- `que-nudging-libertarian-paternalism` — هل يحق للدولة وخوارزمياتها توجيه وخز سلوكيات المواطنين لصالح صحتهم؟ — ✅ معتمد
+- `que-origin-of-evil` — من أين ينشأ الشر الإنساني: من الطبيعة الفطرية أم البنى المؤسسية؟ — ✅ معتمد
+- `que-origin-of-qualia-evolution` — ما هي الميزة التطورية التي جعلت الانتخاب الطبيعي يفضل وجود الخبرة الواعية؟ — ✅ معتمد
+- `que-panadaptationism-vs-drift` — هل كل سلوك وعاطفة بشرية تكيف وراثي نفعي أم نتاج طفرات عشوائية؟ — ✅ معتمد
+- `que-panpsychism-fundamental-nature` — هل الوعي خاصية أولية جوهرية تسري في كافة ذرات الكون؟ — ✅ معتمد
+- `que-paradox-of-rational-belief` — هل يمكن لإنسان عقلاني أن يتبنى معتقدات يعلم أنه غير قادر على إثباتها؟ — ✅ معتمد
+- `que-personal-identity-continuity` — ما الذي يجعل الفرد هو ذاته عبر تغير الجسد والذاكرة؟ — ✅ معتمد
+- `que-power-of-vulnerability-brown` — كيف تتحول الهشاشة والاعتراف بالضعف إلى منبع الشجاعة والاتصال؟ — ✅ معتمد
+- `que-presentism-vs-eternalism-time` — هل الحاضر وحده موجود حقيقة أم أن الماضي والمستقبل كينونات قائمة؟ — ✅ معتمد
+- `que-privacy-vs-security-dilemma` — كم من الحرية والخصوصية الفردية يجب أن نضحي بها مقابل الأمان العام؟ — ✅ معتمد
+- `que-problem-of-evil-theodicy` — كيف يتوافق وجود الشر والمعاناة الفادحة مع وجود إله كلي القدرة والرحمة؟ — ✅ معتمد
+- `que-problem-of-induction-justification` — كيف نبرر عقلانياً ثقتنا في أن الشمس ستشرق غداً؟ — ✅ معتمد
+- `que-problem-of-other-minds` — كيف نتيقن من وجود عقول وخبرات واعية للآخرين؟ — ✅ معتمد
+- `que-qualia-hard-problem` — لماذا يصاحب معالجة المعلومات العصبية شعور باطني نوعي (الكواليا)؟ — ✅ معتمد
+- `que-repression-vs-expression-emotions` — متى يكون التعبير عن الانفعالات شافياً ومتى يتحول لإعادة إشعال للصدمة؟ — ✅ معتمد
+- `que-role-of-silence-and-solitude` — ما هي وظيفة الصمت والعزلة الإيجابية في ترميم الوعي وشفاء التشتت؟ — ✅ معتمد
+- `que-roots-of-morality-evolution-reason` — ما هي جذور الأخلاق: هل هي غريزة تطورية بيولوجية أم تشريع عقلاني معياري؟ — ✅ معتمد
+- `que-sacred-in-secular-world` — كيف يستعيد الإنسان المعاصر الشعور بالقداسة والرهبة في عالم مادي؟ — ✅ معتمد
+- `que-shadow-integration-individuation` — كيف يتصالح الإنسان مع جوانب الظل في شخصيته دون استسلام لنزواتها؟ — ✅ معتمد
+- `que-shame-vs-guilt-healing` — ما الفارق بين شعور الذنب («فعلت شيئاً سيئاً») وشعور العار («أنا كلي سيئ»)؟ — ✅ معتمد
+- `que-ship-of-theseus-identity-paradox` — إذا استُبدلت كافة خلايا الجسد وأفكار العقل فما الذي يضمن وحدة الشخص؟ — ✅ معتمد
+- `que-simulation-hypothesis-reality` — هل يمكن أن نكون كائنات رقمية تعيش داخل محاكاة حاسوبية فائقة؟ — ✅ معتمد
+- `que-social-contract-legitimacy` — ما الذي يمنح الدولة حق إلزام الفرد بقوانين لم يخترها طوعاً؟ — ✅ معتمد
+- `que-teleological-suspension-of-ethical` — هل يجوز تعليق الواجب الأخلاقي استجابة لنداء روحي أو غاية عليا؟ — ✅ معتمد
+- `que-tolerance-of-intolerant-popper` — مفارقة التسامح لبوبر: هل يجب على المجتمع المتسامح التسامح مع اللامتسامحين؟ — ✅ معتمد
+- `que-transhumanism-human-nature` — هل يحافظ الترانسهيومانيزم وتعديل الجينات والذكاء الاصطناعي على الطبيعة الإنسانية أم ينهيها؟ — ✅ معتمد
+- `que-trolley-problem-utilitarian-vs-deontological` — معضلة العربة: هل نضحي بالفرد لإنقاذ الجماعة أم الأرواح لا تقايض؟ — ✅ معتمد
+- `que-turing-test-sufficiency` — هل النجاح في محاكاة السلوك اللغوي البشري معيار كافٍ لإثبات التفكير؟ — ✅ معتمد
+- `que-underdetermination-of-theory` — هل تحدد المعطيات التجريبية نظرية علمية واحدة أم تتسع لنظريات متناقضة؟ — ✅ معتمد
+- `que-what-is-a-person` — ما الذي يميز «الشخص» الأخلاقي عن مجرد الكائن الحي البيولوجي؟ — ✅ معتمد
+- `que-what-is-art` — ما الْفَنّ؟ — ✅ معتمد
+- `que-what-is-authentic-existence` — ما الذي يجعل الوجود أصيلاً؟ — ✅ معتمد
+- `que-what-is-beauty` — ما الْجَمَال؟ — ✅ معتمد
+- `que-what-is-change` — ما التغير؟ — ✅ معتمد
+- `que-what-is-consciousness` — ما الوَعْي؟ — ✅ معتمد
+- `que-what-is-forgiveness` — ما الْمَغْفِرَة؟ — ✅ معتمد
+- `que-what-is-gratitude` — ما الْاِمْتِنَان؟ — ✅ معتمد
+- `que-what-is-happiness` — ما السَّعَادَة؟ — ✅ معتمد
+- `que-what-is-hope` — ما الْأَمَل؟ — ✅ معتمد
+- `que-what-is-language` — ما اللُّغَة؟ — ✅ معتمد
+- `que-what-is-love` — ما الْحُبّ؟ — ✅ معتمد
+- `que-what-is-mental-health` — ما هو المعيار الحقيقي للصحة النفسية: التكيف أم اكتمال الفاعلية؟ — ✅ معتمد
+- `que-what-is-mental-illness` — ما الْمَرَض النَّفْسِيّ؟ — ✅ معتمد
+- `que-what-is-reality` — ما الْوَاقِع؟ — ✅ معتمد
+- `que-what-is-self` — ما الذات؟ — ✅ معتمد
+- `que-what-is-shame` — ما الْخَجَل/الْخَزْي؟ — ✅ معتمد
+- `que-what-is-spiritual-bypassing` — كيف يستخدم الفرد المفاهيم الروحية للهروب من مواجهة جراحه النفسية؟ — ✅ معتمد
+- `que-what-is-the-good-life` — ما الْحَيَاة الْجَيِّدَة؟ — ✅ معتمد
+- `que-what-is-the-meaning-of-life` — ما مَعْنَى الْحَيَاة؟ — ✅ معتمد
+- `que-what-is-the-self` — ما الذَّات؟ — ✅ معتمد
+- `que-what-is-truth` — ما الْحَقِيقَة؟ — ✅ معتمد
+- `que-why-do-we-dream` — لِمَاذَا نَحْلُم؟ — ✅ معتمد
+- `que-why-do-we-fear-death` — لِمَاذَا نَخَاف الْمَوْت؟ — ✅ معتمد
+- `que-why-do-we-suffer` — لِمَاذَا نَتَأَلَّم؟ — ✅ معتمد
+- `que-why-is-there-suffering-existential` — لماذا نتألم وكيف نحول المعاناة التراجيدية إلى إنجاز إنساني وبصيرة؟ — ✅ معتمد
+- `que-why-something-rather-than-nothing` — لماذا يوجد شيء بدلاً من لا شيء؟ — ✅ معتمد

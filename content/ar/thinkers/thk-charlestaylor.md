@@ -11,18 +11,21 @@ active_start: 1989
 active_end: 2007
 country: "كندا"
 language: "الإنجليزية / الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
+- id: "con-republican-freedom", title: "الحرية الجمهورية (الحرية كعدم تبع)", type: "مفهوم"
+- id: "dbt-liberalism-vs-communitarianism", title: "جدل الليبرالية مقابل الجماعاتية", type: "جدل"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'أخلاق الأصالة' (The Ethics of Authenticity, 1991) و'أصول الذات' يستحقان إدراجاً في الأعمال."
+  - "مفهوم «أفق المعنى» (horizons of significance) عنده يستحق عنصراً مفاهيمياً مستقلاً."
 ---
 
 # تشارلز تايلور

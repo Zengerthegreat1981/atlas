@@ -11,13 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1996
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
-  - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
-  - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
-  - id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
+- id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
+- id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
+- id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

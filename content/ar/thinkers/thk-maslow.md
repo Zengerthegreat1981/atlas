@@ -11,20 +11,31 @@ active_start: 1954
 active_end: 1971
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "rel-humanistic", title: "الإنساني — القرابة الملتبسة", type: "علاقة بين مدرستين"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "rel-humanistic", title: "الإنساني — القرابة الملتبسة", type: "علاقة بين مدرستين"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "con-jonah-complex", title: "عقدة يونان (الخوف من العظمة والهروب من أقصى الإمكانات)", type: "مفهوم"
+- id: "evt-ahp-founding-1961", title: "تأسيس جمعية علم النفس الإنساني وإطلاق القوة الثالثة", type: "حدث تاريخي"
+- id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
+- id: "crt-scientific-critique-transpersonal", title: "نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات: علم زائف؟", type: "نقد خارجي موثَّق"
+- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
+- id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
+- id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-humanistic", title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي", type: "علاقة بين مدرستين"
+- id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
+- id: "crt-critique-of-humanistic-therapy", title: "نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟", type: "نقد خارجي موثَّق"
+- id: "ctx-esalen-institute-human-potential", title: "معهد إيسالن وميلاد حركة الإمكانات البشرية والنيو-إيدج", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفاهيم 'قيم الكينونة' (Being-Values) و'تجارب الذروة' (Peak Experiences) وعلاقتها بالوجودية تحتاج إدراجاً كمفاهيم."
 ---
-
 # أبراهام ماسلو
 
 عالم نفس أمريكي رائد، الأب الروحي لحركة «علم النفس الإنساني» وصاحب «هرم الاحتياجات الإنسانية» ونظريات تحقيق الذات وتجارب الذروة.

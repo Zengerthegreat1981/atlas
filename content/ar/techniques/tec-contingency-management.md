@@ -11,10 +11,17 @@ dates: "التسعينيات"
 active_start: 1991
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "dis-cannabis-use", title: "اضطراب استخدام الحشيش", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-hallucinogen-use", title: "اضطراب استخدام المُهلوسات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-inhalant-use", title: "اضطراب استخدام المواد المستنشقة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-opioid-use", title: "اضطراب استخدام الأفيونات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-stimulant-use", title: "اضطراب استخدام المنشطات", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-seeking-safety", title: "بروتوكول طلب الأمان للصدمة والإدمان (Seeking Safety)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بروتوكول القسائم والحوافز النقدية (Voucher-Based Reinforcement) لستيفن هيغنز ونانسي بيتري لعلاج اضطرابات تعاطي المواد."
   - "محددات استدامة المكاسب العلاجية بعد انتهاء برامج الحوافز والتعزيز المباشر."

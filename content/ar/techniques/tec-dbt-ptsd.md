@@ -11,13 +11,14 @@ dates: "من أوائل الألفية الثانية"
 active_start: 2002
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
-  - rel: "developed_by", target: "مارشا لينهان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
-  - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-prolonged-exposure", title: "التعرض الطويل (PE)", type: "تقنية/تدخل علاجي"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-prolonged-exposure", title: "التعرض الطويل (PE)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الفرق الدقيق بين DBT-PTSD وبروتوكول DBT-PE (DBT مع التعرض) الذي طوّرته لينهان في 2002 يحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

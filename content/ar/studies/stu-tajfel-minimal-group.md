@@ -8,9 +8,11 @@ en: "Tajfel's Minimal Group Paradigm Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات تاجفيل لنموذج الجماعة الصغرى"
 active_start: 1970
 active_end: 1979
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "تطور نظرية الهوية الاجتماعية بالتعاون مع جون تيرنر (John Turner) يحتاج ربطاً بنظرية التصنيف الذاتي اللاحقة"
   - "التطبيقات المعاصرة في الاستقطاب السياسي الرقمي تتطلب دراسات ميدانية مساندة"

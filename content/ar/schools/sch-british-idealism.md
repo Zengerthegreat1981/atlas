@@ -13,9 +13,10 @@ language: "الإنجليزية"
 active_start: 1860
 active_end: 1920
 edges:
-  - rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مظلة"
-  - rel: "superseded_by", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
+- id: "sch-process-philosophy", title: "فلسفة العملية (Process Philosophy)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«برنارد بوزانكيت» (thk-bosanquet) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جون ماكتاغارت» (thk-mctaggart) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

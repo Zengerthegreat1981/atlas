@@ -11,10 +11,13 @@ crumb: "علم النفس الشعبي والتحفيز السلوكي ← ال�
 active_start: 2017
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والتحفيز السلوكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والتحفيز السلوكي", target_type: "مدرسة"
 related:
-  - id: "wrk-5-second-rule", title: "قاعدة الـ 5 ثوانٍ", type: "عمل / كتاب"
-  - id: "thk-mel-robbins", title: "ميل روبنز", type: "مفكر"
+- id: "wrk-5-second-rule", title: "قاعدة الـ 5 ثوانٍ", type: "عمل / كتاب"
+- id: "thk-mel-robbins", title: "ميل روبنز", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "دراسات علم النفس المعرفي حول تنشيط القشرة الجبهية لقطع الحلقات النمطية للعقد القاعدية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,9 +8,11 @@ en: "Wimmer & Perner False-Belief Task (The Maxi Task)"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة فيمر وبيرنر للاعتقاد الخاطئ"
 active_start: 1983
 active_end: 1983
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تعديل سايمون بارون-كوهين للمهمة في اختبار 'سالي-آن' (Sally-Anne Task, 1985) وعلاقتها بالتوحد يحتاج ربطاً إكلينيكياً"
   - "أبحاث أونيشي وبايارغيون (2005) حول نظرية العقل الضمنية لدى الرضع بعمر 15 شهراً تتطلب استعراضاً نقدياً"

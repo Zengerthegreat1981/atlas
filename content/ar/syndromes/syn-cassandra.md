@@ -11,10 +11,10 @@ active_start: 1949
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تطبيقات غاستون باشلار وميلاني كلاين والتحليل النفسي للأساطير الإغريقية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

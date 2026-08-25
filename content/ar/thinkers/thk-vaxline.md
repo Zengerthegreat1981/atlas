@@ -10,12 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1947
 active_end: 1988
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← فيرجينيا أَكسلاين"
 edges:
-  - rel: "belongs_to", target: "Filial Therapy (العلاج العلائقي الوالد-الطفل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البنوي والعائلي باللعب", target_type: "مدرسة"
 related:
-  - id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"
+- id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"
+- id: "thk-cschaefer", title: "تشارلز شيفر", type: "مفكر"
+- id: "thk-louise-guerney", title: "لويس غيرني", type: "مفكر"
+- id: "thk-mahoney", title: "ماريان ماهونِي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فيرجينيا أَكسلاين

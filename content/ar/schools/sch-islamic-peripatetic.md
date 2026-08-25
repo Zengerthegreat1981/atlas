@@ -13,13 +13,14 @@ language: "العربية (مع الفارسية أحياناً)"
 active_start: 850
 active_end: 1400
 edges:
-  - rel: "belongs_to", target: "الفلسفة الإسلامية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
 related:
-  - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
-  - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-  - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية", type: "مدرسة"
-  - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
-  - id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
+- id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
+- id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
+- id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
+- id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
 gaps:
   - "بدايات حركة الترجمة (بيت الحكمة) تحتاج مراجعة من مصدر أوّلي."
   - "لا يوجد اقتباس مباشر موثوق متاح من رسائل إخوان الصفا أو من كتب الكندي نفسه."

@@ -9,10 +9,11 @@ en: "Systemizing Quotient-Revised (SQ-R)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس حاصل التنظيم والنظامة المعرفية"
 active_start: 2003
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف", type: "أداة قياس"
-  - id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد", type: "أداة قياس"
+- id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف", type: "أداة قياس"
+- id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد", type: "أداة قياس"
 gaps:
   - "تطوير نظرية E-S (التعاطف-التنظيم) لسيمون بارون كوهين عام 2003."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,9 +8,11 @@ en: "Cattell's Sixteen Personality Factor Questionnaire (16PF)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← استبيان العوامل الستة عشر لكاتل"
 active_start: 1949
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "الجدل الإحصائي حول صعوبة استخراج العوامل الستة عشر مستقلة وتكرارها في التحليلات العاملية الحديثة يحتاج مراجعة"
   - "التطبيقات المعاصرة للإصدار الخامس في التطوير التنظيمي والقيادي تتطلب توثيقاً"

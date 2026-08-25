@@ -12,10 +12,13 @@ language: "العبرية"
 active_start: -1200
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة العبرية القديمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 related:
-  - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
-  - id: "thk-solomon", title: "سليمان", type: "مفكر"
+- id: "wrk-book-of-proverbs", title: "سفر الأمثال (مِشْلاي)", type: "عمل / كتاب"
+- id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
+- id: "thk-solomon", title: "سليمان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين الحكمة في الأدب التوراتي والحكمة في الفلسفة اللاحقة محل بحث."
   - "لا يوجد تعريف فلسفي حديث موحد للحكمة العبرية في الأدب العربي."

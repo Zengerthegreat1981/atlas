@@ -8,10 +8,15 @@ en: "Interpersonal Unconscious"
 crumb: "مدارس نادرة/متفرقة ← العلاج الديناميكي للأزواج والأسرة ← اللاوعي بين الأشخاص"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
-  - id: "thk-dscharff", title: "ديفيد شارف", type: "مفكر"
+- id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
+- id: "thk-dscharff", title: "ديفيد شارف", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "نسبة المفهوم إلى Scharff & Scharff (2009, The Interpersonal Unconscious) تستحق مراجعة."
   - "العلاقة بين اللاوعي البين-شخصي (Stern) واللاوعي بين الأشخاص تستحق توضيحاً."

@@ -13,19 +13,19 @@ language: "الإنجليزية، الفرنسية، اللاتينية، الأ
 active_start: 1640
 active_end: 1900
 edges:
-  - rel: "evolved_from", target: "فلسفة التنوير", target_type: "مدرسة"
-  - rel: "evolved_from", target: "التجريبية البريطانية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-  - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
-  - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "exp-hobbes-english-civil-war-fear", title: "ولادة هوبز مع الخوف وهروبه من الحرب الأهلية وتأليف ليفياثان", type: "خبرة معيشة"
 gaps:
   - "نصوص هوبز ولوك وروسو بالإنجليزية والفرنسية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Du Contrat Social' لروسو."
   - "التمييز بين 'العقد الاجتماعي' كتيار وككتاب محدد (روسو) معقّد."
 ---
-
 # العقد الاجتماعي (كتيار فلسفي سياسي)
 
 تقليد فلسفي-سياسي يُؤكّد أنّ «**مَصْدَر**» (Fons) «**سُلْطَة**» (Auctoritatis) «**الدَّوْلَة**» (Civitatis) هُوَ «**الْعَقْد**» (Contractus) «**الِاجْتِمَاعِيّ**» (Socialis) — «**اِتِّفَاق**» (Pactum) «**اِخْتِيَارِيّ**» (Voluntarius) «**بَيْنَ**» (Inter) «**الْأَفْرَاد**» (Individuos) «**لِتَأْسِيس**» (Ad Fundandam) «**الْمُجْتَمَع**» (Societatem) «**الْمَدَنِيّ**» (Civilem) و«**حِمَايَة**» (Ad Tutelam) «**حُقُوقِهِمْ**» (Iura Sua). أسّسه **توماس هوبز** (Thomas Hobbes، 1588-1679) في «**Leviathan**» (1651)، و«**طَوَّرَهُ**» (Evolvit) **جون لوك** (John Locke، 1632-1704) في «**Two Treatises**» (1689)، و«**بَلَغَ**» (Attigit) «**ذُرْوَتُهُ**» (Culmen) مَعَ **جان جاك روسّو** (Jean-Jacques Rousseau، 1712-1778) في «**Du Contrat Social**» (1762). أثّر في «**الثورة الأمريكية**» (Revolutio Americana، 1776) و«**الثورة الفرنسية**» (Revolutio Francica، 1789) و«**الليبرالية الحديثة**» (Liberalismus Modernus) و«**الديمقراطية المعاصرة**» (Democratia Contemporanea).

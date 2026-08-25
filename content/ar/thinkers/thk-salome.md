@@ -9,13 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← لو أندر�
 dates: "روسيا / ألمانيا · 1861–1937"
 country: "روسيا / ألمانيا"
 language: "الألمانية / الروسية"
+part: "philosophy"
+active_start: null
+active_end: 1937
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "دراستها عن 'النرجسية كمضاعفة للذات' (1921) ومراسلاتها التاريخية مع فرويد وريلكه ونيتشه تستحق توثيقاً."

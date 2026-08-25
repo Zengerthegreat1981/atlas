@@ -8,10 +8,18 @@ en: "Feminist Psychoanalysis"
 crumb: "المفاهيم ← مدارس تحليلية ← التحليل النفسي النسوي"
 active_start: 1974
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "con-relational-matrix", title: "المصفوفة العلائقية", type: "مفهوم"
+- id: "con-relational-matrix", title: "المصفوفة العلائقية", type: "مفهوم"
+- id: "thk-ddinste", title: "دوروثي دينرشتاين", type: "مفكر"
+- id: "thk-emaroda", title: "إيف مارودا", type: "مفكر"
+- id: "thk-jflax", title: "جين فلاكس", type: "مفكر"
+- id: "thk-lchodorow", title: "نانسي تشودوروف", type: "مفكر"
+- id: "con-ecopsychoanalysis", title: "التحليل النفسي البيئي", type: "مفهوم"
+- id: "con-intersectional-feminism", title: "علم النفس النسوي التقاطعي", type: "مفهوم"
+- id: "con-queer-psychoanalysis", title: "التحليل النفسي الكويري", type: "مفهوم"
 gaps:
   - "لم تُراجع الأطروحات التفصيلية لليسلي روزنبلات ولايسي إريغاري بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

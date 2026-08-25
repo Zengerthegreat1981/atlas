@@ -13,10 +13,11 @@ language: "الإنجليزية"
 active_start: 1972
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
 related:
-  - id: "sch-contractualism", title: "التعاقدية/التعاقدانية الأخلاقية الحديثة", type: "مدرسة"
-  - id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
+- id: "wrk-what-we-owe", title: "ماذا ندين لبعضنا البعض (What We Owe to Each Other)", type: "عمل / كتاب"
+- id: "sch-contractualism", title: "التعاقدية/التعاقدانية الأخلاقية الحديثة", type: "مدرسة"
+- id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لعلاقة سَكَنلون مع رولز لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'ماذا ندين لبعضنا' (1998)."

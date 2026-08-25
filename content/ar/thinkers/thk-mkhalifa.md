@@ -11,11 +11,13 @@ country: "مصر"
 language: "عربية/إنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
 related:
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-aabdelkhalek", title: "أمجد عبد الخالق", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -25,12 +27,12 @@ gaps:
 
 عالم نفس مصري-أمريكي، أستاذ في جامعة الإمارات، من أهم منظّري علم النفس الإسلامي ودراسات التحضّر.
 
-## ما أعطت
+## ما أعطاه
 
 - **في علم النفس الإسلامي** (2002): عرض شامل لنظرية النفس من المنظور الإسلامي.
 - **محرّر مساهمات في علم النفس الإسلامي**: سلسلة كتب مرجعية.
 - **Islamic Psychology: A Brief Introduction** (2020): كتاب تمهيدي معتمد.
 
-## موقعها من التيار
+## موقعه من التيار
 
 يجمع بين خلفية تحليلية نفسية وعلم النفس الإيجابي، مع تأطير إسلامي صريح.

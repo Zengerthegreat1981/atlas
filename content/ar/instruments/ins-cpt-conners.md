@@ -9,10 +9,11 @@ en: "Conners Continuous Performance Test 3rd Edition (Conners CPT 3)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← اختبار الأداء المستمر لكونرز لقياس الانتباه والاندفاعية"
 active_start: 1992
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
-  - id: "ins-conners-rating-scales", title: "مقاييس كونرز لتقدير السلوك", type: "أداة قياس"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-conners-rating-scales", title: "مقاييس كونرز لتقدير السلوك", type: "أداة قياس"
 gaps:
   - "أبحاث كيث كونرز (C. Keith Conners) ونموذج الاستجابة للمثير المستهدف (Go/No-Go Paradigm)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

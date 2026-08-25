@@ -10,12 +10,17 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1784
 active_end: 1825
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ماركيز دي بويزيغور"
 edges:
-  - rel: "belongs_to", target: "الماسمرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الماسمرية (Mesmerism)", target_type: "مدرسة"
 related:
-  - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
+- id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
+- id: "thk-afaria", title: "أبِي فاريا", type: "مفكر"
+- id: "thk-aliebeault", title: "أمبرواز ليبو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ماركيز دي بويزيغور

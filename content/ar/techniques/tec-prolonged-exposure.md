@@ -11,11 +11,16 @@ dates: "بنسلفانيا · التسعينيات"
 active_start: 1991
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-cpt", title: "علاج المعالجة المعرفية (CPT)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-cpt", title: "علاج المعالجة المعرفية (CPT)", type: "تقنية/تدخل علاجي"
+- id: "con-exposure-habituation", title: "التعود بالتعرض", type: "مفهوم"
+- id: "tec-dbt-ptsd", title: "العلاج الجدلي السلوكي للصدمة (DBT-PTSD)", type: "تقنية/تدخل علاجي"
+- id: "tec-vr-exposure", title: "التعرض بالواقع الافتراضي (VRET)", type: "تقنية/تدخل علاجي"
+- id: "tec-wet", title: "علاج التعرض الكتابي للصدمة (WET)", type: "تقنية/تدخل علاجي"
 gaps:
   - "نظرية المعالجة الانفعالية (Emotional Processing Theory) لإدنا فوا (Edna Foa)."
   - "المكونان الأساسيان: التعرض التخيلي المتكرر للذكرى الصادمة (Imaginal Exposure) والتعرض الحي للمواقف المتجنبة في الواقع (In Vivo Exposure)."

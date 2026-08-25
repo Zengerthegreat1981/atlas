@@ -11,13 +11,19 @@ dates: "من الستينيات"
 active_start: 1964
 active_end: "مستمر"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-knoblauch", title: "كورت نوبلاوخ", type: "مفكر"
-  - id: "thk-dieckmann", title: "هانز ديكمان", type: "مفكر"
+- id: "thk-knoblauch", title: "[مؤسِّسو DGAP] DGAP founders (ألمانيا)", type: "مفكر"
+- id: "thk-dieckmann", title: "هانز ديكمان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تأسيس المعايير السريرية للتدريب التحليلي اليونغي والاعتراف الأكاديمي في ألمانيا الاتحادية."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كورت نوبلاوخ (thk-knoblauch)."
 ---
 
 # الجمعية الألمانية لعلم النفس التحليلي (DGAP)

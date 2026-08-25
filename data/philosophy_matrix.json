@@ -1,0 +1,2324 @@
+{
+  "generated_at": "2026-08-23T14:10:17.900434",
+  "total_schools_count": 369,
+  "schools": {
+    "sch-systemic-family": "العلاج الأسري والنظامي (Systemic/Family Therapy)",
+    "sch-theravada": "ثيرافادا",
+    "sch-nietzscheanism": "النيتشوية",
+    "sch-african-socialism": "الاشتراكية الأفريقية",
+    "sch-communitarianism": "الجماعاتية",
+    "sch-mingjia": "مدرسة الأسماء / المنطقيون (Mingjia)",
+    "sch-behaviorism": "السلوكية (Behaviorism)",
+    "sch-american-idealism": "المثالية الأمريكية",
+    "sch-schelling": "الشيلنغية",
+    "sch-hermeneutics": "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)",
+    "sch-acintya-bhedabheda": "أتشينتيا بيدا أبيدا (تشايتانية)",
+    "sch-nyingma": "نينغما (البوذية التبتية القديمة)",
+    "sch-gelug": "غيلوغ (البوذية التبتية)",
+    "sch-social-darwinism": "الداروينية الاجتماعية",
+    "sch-speculative-realism": "الواقعية المضاربة (Speculative Realism)",
+    "sch-personalism": "الفلسفة الشخصية (الشخصانية المبكرة)",
+    "sch-rebt": "العلاج العقلاني الانفعالي السلوكي (REBT)",
+    "sch-libertarianism": "الليبرتارية",
+    "sch-ordinary-language": "فلسفة اللغة العادية",
+    "sch-utilitarianism-contemporary": "النفعية المعاصرة",
+    "sch-wahdat-alshuhud": "وحدة الشهود",
+    "sch-existential-therapy": "الوجودية العلاجية (Existential Therapy)",
+    "sch-tagore-philosophy": "الفلسفة الطاغورية",
+    "sch-comparative-philosophy": "الفلسفة المقارنة",
+    "sch-logical-atomism": "الذرية المنطقية",
+    "sch-mohism": "الموهية (Mohism / Mojia)",
+    "sch-dependency-theory": "نظرية التبعية",
+    "sch-zaydi-kalam": "الكلام الزيدي",
+    "sch-berkeleianism": "المثالية الذاتية البركلية",
+    "sch-daoism-religious": "الداووية الدينية",
+    "sch-cyrenaic": "المدرسة القورينائية (Cyrenaic School)",
+    "sch-ethnophilosophy": "الإثنوفلسفة",
+    "sch-contractualism": "التعاقدية/التعاقدانية الأخلاقية الحديثة",
+    "sch-zurvanism": "الزروانية",
+    "sch-sanlun": "سانلون (مادهياماكا الصينية)",
+    "sch-arielismo": "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)",
+    "sch-andean-philosophy": "الفلسفة الأنديزية (كيتشوا-أيمارا؛ آيني، سومَك كاوساي)",
+    "sch-wahdat-alwujud": "العرفان النظري (وحدة الوجود)",
+    "sch-bhedabheda": "بيدابيدا (دفايتادفايتا)",
+    "sch-existentialism": "الوجودية (Existentialism)",
+    "sch-sensorimotor-psychotherapy": "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)",
+    "sch-mitogaku": "ميتوغاكو (السينولوجيا اليابانية)",
+    "sch-imami-kalam": "الكلام الإمامي الاثنا عشري",
+    "sch-kierkegaardian": "الكيركغاردية (الوجودية المبكرة الدينية)",
+    "sch-kyoto": "مدرسة كيوتو",
+    "sch-eleatic": "المدرسة الإيلية (Eleatic School)",
+    "sch-mesopotamian-wisdom": "تقليد الحكمة الرافدية",
+    "sch-sage-philosophy": "فلسفة الحكيم (Sage Philosophy)",
+    "sch-postmodernism-philosophical": "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)",
+    "sch-eft-couples": "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)",
+    "sch-nongjia": "المدرسة الزراعية (Nongjia)",
+    "sch-marxism-structuralist": "الماركسية البنيوية (Structuralist Marxism / Marxisme structuraliste)",
+    "sch-salafism-modern": "السلفية الكلامية الحديثة",
+    "sch-african-cross-cultural": "الفلسفة الأفريقية بين-الثقافية",
+    "sch-nahua-aztec": "فلسفة الناهوا/الأزتك (مفهوم تيوتل)",
+    "sch-anarchism-contemporary": "الفوضوية المعاصرة",
+    "sch-quinean-naturalism": "الطبيعانية التحليلية (الكواينية)",
+    "sch-military-chinese": "المدرسة العسكرية الصينية (Bingjia)",
+    "sch-feminism-liberal": "النسوية الليبرالية",
+    "sch-mimamsa": "ميمامسا (بورفا ميمامسا)",
+    "sch-andalusian-philosophy": "الفلسفة الأندلسية (الرشدية الإسلامية)",
+    "sch-stoicism": "الرواقية (Stoicism)",
+    "sch-renaissance-humanism": "الإنسانية النهضوية",
+    "sch-islamic-critical-thought": "الفكر الإسلامي النقدي المعاصر",
+    "sch-jodo-shinshu": "جودو شينشو",
+    "sch-kokugaku": "كوكوغاكو (الدراسات الوطنية اليابانية)",
+    "sch-north-american-indigenous": "فلسفات السكان الأصليين بأمريكا الشمالية (لاكوتا، نافاهو، أوجيبوي… كمظلة)",
+    "sch-renaissance-neoplatonism": "الأفلاطونية المحدثة في عصر النهضة",
+    "sch-arya-samaj": "آريا ساماج",
+    "sch-gandhianism": "الغاندية (كفلسفة سياسية-أخلاقية)",
+    "sch-rawlsianism": "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)",
+    "sch-post-structuralism": "ما بعد البنيوية (Post-structuralisme)",
+    "sch-hegelianism": "الهيغلية",
+    "sch-caribbean-philosophy": "فلسفة الكاريبي (الهوية والكريولية)",
+    "sch-romanticism": "الرومانسية الفلسفية",
+    "sch-interculturalidad": "فلسفة العبور الثقافي (Interculturalidad)",
+    "sch-dvaita-vedanta": "دفايتا فيدانتا (التثنية)",
+    "sch-feminism-postcolonial": "النسوية ما بعد الاستعمار",
+    "sch-sikh-philosophy": "السيخية الفلسفية",
+    "sch-ajnanavada": "أجنانا (الشك الشرامني)",
+    "sch-shuddhadvaita": "شودهادفايتا",
+    "sch-chan": "تشان (الصينية)",
+    "sch-neoconfucianism": "الكونفوشية الجديدة (مظلة)",
+    "sch-fichte": "الفيختية",
+    "sch-christian-mysticism-medieval": "التصوّف المسيحي الوسيط",
+    "sch-act": "العلاج بالقبول والالتزام (ACT)",
+    "sch-second-scholasticism": "السكولاستية الثانية (إسبانيا، عصر النهضة)",
+    "sch-deliberative-democracy": "الديمقراطية التداولية",
+    "sch-karaite": "القرائية الفلسفية",
+    "sch-feminism-radical": "النسوية الراديكالية",
+    "sch-shaiva-siddhanta": "شايفا سيدهانتا",
+    "sch-phenomenology-hermeneutic": "الظاهراتية التأويلية (Hermeneutic Phenomenology)",
+    "sch-ifa": "تقاليد اليوروبا الفلسفية (Ifá)",
+    "sch-shingon": "شينغون (البوذية التانترية اليابانية)",
+    "sch-middle-platonism": "الأفلاطونية الوسطى (Middle Platonism)",
+    "sch-vedanta": "فيدانتا (كمظلة)",
+    "sch-african-national-ideology": "الفلسفة الوطنية-الأيديولوجية الأفريقية",
+    "sch-victorines": "الفيكتورية",
+    "sch-mestizaje": "فلسفة الهجنة / المِستيساخي",
+    "sch-virtue-ethics": "أخلاقيات الفضيلة الجديدة (النيوأرسطية)",
+    "sch-existentialism-atheist": "الوجودية الملحدة (Atheist Existentialism)",
+    "sch-animal-liberation": "أخلاقيات الحيوان / فلسفة تحرير الحيوان",
+    "sch-scottish-common-sense": "فلسفة الحس المشترك الاسكتلندية",
+    "sch-decolonial-latin": "الفلسفة الديكولونيالية اللاتينية الأمريكية",
+    "sch-ubuntu": "فلسفة أوبونتو المعاصرة",
+    "sch-huayan": "هوايان (الصينية)",
+    "sch-pythagorean": "الفيثاغورية (Pythagoreanism)",
+    "sch-humeanism": "الهيومية (الشكّ التجريبي)",
+    "sch-hebrew-wisdom": "تقليد الحكمة العبرية القديمة",
+    "sch-occasionalism": "الأوكازيونيالية (Occasionalism)",
+    "sch-solution-focused": "العلاج المختصر القائم على الحل (SFBT)",
+    "sch-isfahan": "مدرسة أصفهان الفلسفية",
+    "sch-narrative-therapy": "العلاج السردي (Narrative Therapy)",
+    "sch-gestalt-therapy": "علاج الجشطالت (Gestalt Therapy)",
+    "sch-hegel-left": "الهيغلية اليسارية / هيغليو الشباب",
+    "sch-decolonial-philosophy": "الفلسفة الديكولونيالية (كمظلة عالمية)",
+    "sch-indigenous-psychology": "علم نفس الشعوب الأصلية",
+    "sch-donghak": "دونغهاك / تشوندوغيو",
+    "sch-shinto-philosophical": "الشنتو الفلسفي",
+    "sch-deep-ecology": "الإيكولوجيا العميقة",
+    "sch-nationalism-philosophical": "القومية الفلسفية",
+    "sch-hindutva": "الفلسفة الهندوسية القومية (هندوتفا)",
+    "sch-tiantai": "تيانتاي (الصينية)",
+    "sch-yoga": "يوغا الفلسفية (باتانجالي)",
+    "sch-pessimism": "التشاؤمية الفلسفية",
+    "sch-ethiopian-hataata": "الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا)",
+    "sch-chinese-marxism": "الماركسية الصينية / الماوية",
+    "sch-ikhwan-safa": "إخوان الصفا",
+    "sch-xinxue": "مدرسة العقل/القلب (Xinxue / Lu-Wang)",
+    "sch-haskalah": "هَسْكَلاة (التنوير اليهودي)",
+    "sch-abhidharma": "مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا)",
+    "sch-legalism": "الشرعية / القانونية (Fajia)",
+    "sch-transpersonal": "علم النفس عبر الشخصي (Transpersonal Psychology)",
+    "sch-mbct": "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)",
+    "sch-huang-lao": "هوانغ-لاو (Huang-Lao)",
+    "sch-german-idealism": "المثالية الألمانية (كمظلة)",
+    "sch-developmental": "علم النفس التطوري (Developmental Psychology)",
+    "sch-vajrayana": "فاجرايانا / البوذية التانترية",
+    "sch-pragmatism-classical": "البراغماتية الكلاسيكية",
+    "sch-feminism-black": "النسوية السوداء",
+    "sch-atomism-greek": "الذرية اليونانية (Greek Atomism)",
+    "sch-ubuntu-traditional": "فلسفة أوبونتو التقليدية",
+    "sch-zen-soto": "زن: سوتو",
+    "sch-dogon": "فلسفة الدوجون (مالي)",
+    "sch-british-idealism": "المثالية البريطانية",
+    "sch-hermeticism": "الهرمسية",
+    "sch-social-ecology": "الإيكولوجيا الاجتماعية",
+    "sch-deism": "الربوبية (Deism)",
+    "sch-tathagatagarbha": "تاثاغاتاغاربها (طبيعة البوذا)",
+    "sch-phenomenology": "الظاهراتية (Phänomenologie)",
+    "sch-radical-democracy": "الديمقراطية الراديكالية",
+    "sch-postcolonial-philosophy": "ما بعد الاستعمار الفلسفي",
+    "sch-sakya": "ساكيا (البوذية التبتية)",
+    "sch-intersectionality": "النسوية التقاطعية",
+    "sch-charvaka": "شارفاكا / لوكاياتا (المادية الهندية)",
+    "sch-shakta-tantra": "الشاكتية والتانترا الفلسفية",
+    "sch-buddhist-psychology": "علم النفس البوذي (Buddhist Psychology)",
+    "sch-conceptualism": "التصورية (Conceptualism)",
+    "sch-sikolohiyang-pilipino": "سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)",
+    "sch-negritude": "الزنوجة (Négritude)",
+    "sch-kogaku": "كوغاكو (التعلم القديم / الكونفوشية اليابانية)",
+    "sch-anarchism": "الأناركية الكلاسيكية",
+    "sch-kant-critical": "الكانطية النقدية",
+    "sch-ai-ethics": "أخلاقيات الذكاء الاصطناعي",
+    "sch-ockhamism": "الأوكامية / الاسمية",
+    "sch-queer-theory": "النظرية الكويرية",
+    "sch-imago": "العلاج بالـ Imago",
+    "sch-egyptian-maat": "تقليد الحكمة المصرية (ماعت)",
+    "sch-newconfucianism-modern": "الكونفوشية الجديدة الحديثة (Modern New Confucianism)",
+    "sch-mahasanghika": "الماهاسامغيكا",
+    "sch-scientific-realism": "الواقعية العلمية / اللاواقعية العلمية",
+    "sch-islamic-feminism": "النسوية الإسلامية",
+    "sch-judaism-hellenistic": "الفلسفة اليهودية الهلنستية (الإسكندرانية)",
+    "sch-pure-land": "الأرض الطاهرة (جينغتو / جودو)",
+    "sch-faxiang": "فاشيانغ (يوغاكارا الصينية)",
+    "sch-shiraz": "مدرسة شيراز الفلسفية",
+    "sch-judaism-reform": "اليهودية الإصلاحية (كتيار فكري)",
+    "sch-humanistic": "علم النفس الإنساني (Humanistic Psychology)",
+    "sch-kashmir-shaivism": "الشايفية الكشميرية (ترِكا)",
+    "sch-arab-renaissance": "النهضة العربية (كتيار فلسفي-إصلاحي)",
+    "sch-new-realism": "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)",
+    "sch-seon": "سيون الكورية",
+    "sch-ifs": "نظام الأسرة الداخلية (IFS — Internal Family Systems)",
+    "sch-manicheism": "المانوية",
+    "sch-neopragmatism": "البراغماتية الجديدة",
+    "sch-chartres": "مدرسة شارتر",
+    "sch-buddhism-early": "البوذية المبكرة",
+    "sch-zoroastrian-philosophy": "الزرادشتية الفلسفية",
+    "sch-truc-lam": "تروك لام (البوذية الفيتنامية)",
+    "sch-philosophy-of-technology": "فلسفة التكنولوجيا",
+    "sch-bhakti-movement": "حركة البهاكتي الفلسفية",
+    "sch-ipt": "العلاج بين الأشخاص (IPT)",
+    "sch-mazdakism": "المزدكية",
+    "sch-apophatic": "اللاهوت السلبي / الأبوفاتي",
+    "sch-ishraqiyya": "الإشراقية",
+    "sch-psychedelic-assisted-therapy": "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)",
+    "sch-vaisheshika": "فايشيشيكا",
+    "sch-heraclitean": "الهيراقليطية (Heraclitean Thought)",
+    "sch-dreamtime": "Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)",
+    "sch-cynicism": "الكلبية (Cynicism)",
+    "sch-enlightenment": "فلسفة التنوير (كمظلة عامة)",
+    "sch-sophistry": "السفسطائية (Sophistry)",
+    "sch-structuralism": "البنيوية (Structuralisme)",
+    "sch-neohinduism": "الهندوسية الجديدة (إصلاح القرن 19)",
+    "sch-kantian-ethics-contemporary": "الكانطية الأخلاقية المعاصرة",
+    "sch-positive-psychology": "علم النفس الإيجابي (Positive Psychology)",
+    "sch-epicureanism": "الأبيقورية (Epicureanism)",
+    "sch-korean-neoconfucian": "النيوكونفوشية الكورية",
+    "sch-posthumanism": "ما بعد الإنسانية (Posthumanism)",
+    "sch-biological-neuro": "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)",
+    "sch-augustinianism": "الأوغسطينية",
+    "sch-transcendentalism": "التجاوزية الأمريكية",
+    "sch-islamic-reform": "الإصلاحية الإسلامية (النهضة)",
+    "sch-pan-africanism": "عموم أفريقيا (Pan-Africanism)",
+    "sch-afropessimism": "الأفروبيسيميزم (Afropessimism)",
+    "sch-buddhist-modernism": "البوذية الحداثية",
+    "sch-feminism-marxist": "النسوية الماركسية / الاشتراكية",
+    "sch-bowen-ferrer-vivir": "فلسفة بوين فيفير / سومَك كاوساي (المعاصرة)",
+    "sch-academy-platonic": "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)",
+    "sch-milesian": "المدرسة الميليسية (ما قبل سقراط الطبيعية)",
+    "sch-kaupapa-maori": "Kaupapa Māori (فلسفة الماوري)",
+    "sch-phenomenology-somatic": "الظاهراتية الجسدية (Somatic Phenomenology)",
+    "sch-feminism-french-poststructural": "النسوية الفرنسية (ما بعد بنيوية)",
+    "sch-nyaya": "نيايا (المنطق الكلاسيكي الهندي)",
+    "sch-marxism-humanist": "الماركسية الإنسانية (Humanist Marxism / Marxisme humaniste)",
+    "sch-jainism": "الجاينية الفلسفية",
+    "sch-judaism-existential": "الفلسفة اليهودية الوجودية/الحوارية",
+    "sch-phil-mind-analytic": "فلسفة العقل التحليلية (كمظلة)",
+    "sch-emdr": "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)",
+    "sch-transhumanism": "الإنسانية العابرة (Transhumanism)",
+    "sch-vishishtadvaita": "فيشيشتادفايتا",
+    "sch-dbt": "العلاج الجدلي السلوكي (DBT)",
+    "sch-eft": "العلاج المتمحور حول المشاعر (EFT)",
+    "sch-madhyamaka": "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)",
+    "sch-african-hermeneutical": "الفلسفة الأفريقية التأويلية",
+    "sch-shingaku": "شينغاكو (تعلم القلب الياباني)",
+    "sch-social-contract": "العقد الاجتماعي (كتيار فلسفي سياسي)",
+    "sch-mutazila": "المعتزلة",
+    "sch-aurobindo": "فلسفة أوروبندو (اليوغا التكاملية)",
+    "sch-kabbalah": "القبّالة (كتيار فلسفي-رمزي)",
+    "sch-phil-mathematics": "فلسفة الرياضيات التحليلية",
+    "sch-islamic-psychology": "علم النفس الإسلامي (Islamic Psychology)",
+    "sch-deconstruction": "التفكيكية (Déconstruction)",
+    "sch-navya-nyaya": "نيايا الجديدة (نافيا-نيايا)",
+    "sch-athariyya": "الأثرية الكلامية",
+    "sch-thomism": "التوماوية",
+    "sch-experimental-philosophy": "الفلسفة التجريبية (X-Phi)",
+    "sch-scotism": "السكوتية",
+    "sch-ambedkar-philosophy": "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)",
+    "sch-care-ethics": "أخلاقيات الرعاية (Care Ethics)",
+    "sch-zonghengjia": "مدرسة الدبلوماسيين (Zonghengjia)",
+    "sch-megarian": "المدرسة الميغارية (Megarian School)",
+    "sch-samkhya": "سامخيا",
+    "sch-polyvagal-informed-therapy": "العلاج المستنير بنظرية البوليفاجال",
+    "sch-new-materialism": "المادية الجديدة (New Materialism)",
+    "sch-xuanxue": "شوان شيويه (التعلم الغامض)",
+    "sch-neokantian": "الكانطية الجديدة (ماربورغ وبادن)",
+    "sch-indigenismo": "الإنديجينيزمو",
+    "sch-formal-phil-language": "فلسفة اللغة المثالية/الشكلية المعاصرة",
+    "sch-jonang": "جونانغ (شينتونغ)",
+    "sch-realism-medieval": "الواقعية (في جدل الكليات الوسيط)",
+    "sch-lockeanism": "اللوكية (اللوكية التجريبية)",
+    "sch-engaged-buddhism": "البوذية المنخرطة اجتماعياً",
+    "sch-civic-republicanism": "الجمهورية المدنية (Civic Republicanism)",
+    "sch-tendai-japan": "تنداي اليابانية",
+    "sch-environmental-ethics": "فلسفة البيئة / الأخلاق البيئية",
+    "sch-renaissance-naturalism": "الطبيعانية النهضوية",
+    "sch-chinese-liberalism-modern": "الليبرالية الصينية الحديثة",
+    "sch-vedic": "الفكر الفيدي الطقسي",
+    "sch-ismaili": "الفلسفة الإسماعيلية",
+    "sch-cognitive-behavioral": "العلاج المعرفي السلوكي (CBT)",
+    "sch-judaism-andalusian": "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)",
+    "sch-hegel-right": "الهيغلية اليمينية",
+    "sch-academic-skepticism": "الشك الأكاديمي (Academic Skepticism)",
+    "sch-daoism-philosophical": "الداووية الفلسفية",
+    "sch-western-marxism": "الماركسية الغربية (Western Marxism)",
+    "sch-somatic-experiencing": "التجربة الجسدية (Somatic Experiencing)",
+    "sch-classical-liberalism-early": "الليبرالية الكلاسيكية المبكرة",
+    "sch-phenomenology-existential": "الظاهراتية الوجودية (Existential Phenomenology)",
+    "sch-cosmopolitanism": "الكوزموبوليتية الفلسفية",
+    "sch-advaita-vedanta": "أدفايتا فيدانتا (اللاتثنية)",
+    "sch-existentialism-religious": "الوجودية الدينية/المسيحية (Christian Existentialism)",
+    "sch-positivism-latin": "الوضعية اللاتينية (في أمريكا اللاتينية)",
+    "sch-hermeneutics-critical": "الهرمنيوطيقا النقدية (Critical Hermeneutics)",
+    "sch-gnosticism": "الغنوصية القديمة (بفروعها)",
+    "sch-maya-philosophy": "الفلسفة الماياوية",
+    "sch-nichiren": "نيتشيرن",
+    "sch-psychoanalysis": "التحليل النفسي (Psychoanalysis)",
+    "sch-political-islam": "الإسلام السياسي (كتيار فكري)",
+    "sch-feminism-phenomenological": "النسوية الظاهراتية",
+    "sch-scholasticism": "المدرسية (السكولاستية) — كمظلة",
+    "sch-spinozism": "السبينوزية",
+    "sch-critical-realism": "الواقعية النقدية",
+    "sch-liberation-psychology": "علم نفس التحرر",
+    "sch-islamic-peripatetic": "الفلسفة المشائية الإسلامية",
+    "sch-silhak": "سيلهاك (التعلم العملي الكوري)",
+    "sch-neoplatonism": "الأفلاطونية المحدثة (Neoplatonism)",
+    "sch-brahmo-samaj": "براهمو ساماج",
+    "sch-kabbalah-lurianic": "القبّالة اللوريانية",
+    "sch-confucian-psychology": "علم النفس الكونفوشي",
+    "sch-post-kyoto": "ما بعد مدرسة كيوتو",
+    "sch-ashariyya": "الأشعرية",
+    "sch-latin-averroism": "الرشدية اللاتينية",
+    "sch-liberation-philosophy": "فلسفة التحرير اللاتينية الأمريكية",
+    "sch-african-professional-philosophy": "الفلسفة الأفريقية المهنية/الأكاديمية",
+    "sch-cft": "العلاج المتمحور حول التعاطف (CFT)",
+    "sch-confucian-early": "الكونفوشية المبكرة",
+    "sch-transfeminism": "الترانسفيمينية (نسوية العابرين جنسياً)",
+    "sch-ajivika": "آجيفيكا (القدرية الهندية)",
+    "sch-lixue": "مدرسة المبدأ (Lixue / Cheng-Zhu)",
+    "sch-utilitarianism": "النفعية",
+    "sch-transcendent-theosophy": "الحكمة المتعالية (الملا صدرا)",
+    "sch-african-psychology": "علم النفس الأفريقي",
+    "sch-british-empiricism": "التجريبية البريطانية (كمظلة)",
+    "sch-continental-rationalism": "العقلانية القارية (كمظلة)",
+    "sch-lebensphilosophie": "فلسفة الحياة (Lebensphilosophie)",
+    "sch-comtian-positivism": "الوضعية / الكومتية",
+    "sch-yinyang": "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)",
+    "sch-kaozheng": "التعلم الإثباتي (Kaozheng / Evidential Learning)",
+    "sch-pancasila": "بانتشاسيلا (الفلسفة السياسية الإندونيسية)",
+    "sch-frankfurt-school": "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)",
+    "sch-feminism-existential": "النسوية الوجودية",
+    "sch-akbari": "المدرسة الأكبرية",
+    "sch-shramana": "المدارس الشرامنية المبكرة",
+    "sch-african-decolonial": "الفلسفة الأفريقية الديكولونيالية",
+    "sch-afrocentrism": "أفريقية المركز (Afrocentrism)",
+    "sch-black-existentialism": "الوجودية السوداء",
+    "sch-akan": "فلسفة الأكان (غانا)",
+    "sch-vietnamese-triple": "الترادف الثلاثي الفيتنامي (Tam Giáo Đồng Nguyên)",
+    "sch-adat": "أدات (العرف الفلسفي في إندونيسيا وماليزيا)",
+    "sch-neo-vedanta": "نيو-فيدانتا (الفيدانتا الحديثة)",
+    "sch-indigenous-philosophy-contemporary": "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)",
+    "sch-zen-rinzai": "زن: رينزاي",
+    "sch-process-philosophy": "فلسفة العملية (Process Philosophy)",
+    "sch-afrofeminism": "الفلسفة الأفريقية النسوية",
+    "sch-personalism-contemporary": "الشخصانية المعاصرة (Contemporary Personalism)",
+    "sch-functionalism": "الوظيفية (فلسفة العقل)",
+    "sch-analytic-metaphysics": "الميتافيزيقا التحليلية المعاصرة",
+    "sch-hasidic": "الحسيدية الفلسفية",
+    "sch-intercultural-philosophy": "الفلسفة بين-الثقافية",
+    "sch-leibnizianism": "اللايبنتزية",
+    "sch-patristics": "الآبائية المسيحية (Patristics)",
+    "sch-byzantine": "الفلسفة البيزنطية",
+    "sch-haudenosaunee": "فلسفات الهاودينوسوني/الإيروكوا",
+    "sch-phil-science": "فلسفة العلم (كمظلة)",
+    "sch-absurdism": "العبثية (Absurdism / Le Mythe de Sisyphe)",
+    "sch-vienna-circle": "الوضعية المنطقية (حلقة فيينا)",
+    "sch-bon": "البون (التقليد الديني التبت الأصلي)",
+    "sch-eclecticism": "الانتقائية الهلنستية-الرومانية (Hellenistic-Roman Eclecticism)",
+    "sch-rangaku": "رانغاكو (التعلم الهولندي)",
+    "sch-maturidiyya": "الماتريدية",
+    "sch-ecofeminism": "النسوية البيئية (Ecofeminism)",
+    "sch-ooo": "الأنطولوجيا الموجهة نحو الشيء (Object-Oriented Ontology)",
+    "sch-philosophy-of-disability": "فلسفة الإعاقة",
+    "sch-cbt": "العلاج المعرفي السلوكي",
+    "sch-kagyu": "كاغيو (البوذية التبتية)",
+    "sch-upanishadic": "الفلسفة الأوبانيشادية",
+    "sch-marxism": "الماركسية الكلاسيكية",
+    "sch-social-psychology": "علم النفس الاجتماعي (Social Psychology)",
+    "sch-pyrrhonism": "الشك البيروني (Pyrrhonian Skepticism)",
+    "sch-motivational-interviewing": "المقابلة التحفيزية (Motivational Interviewing)",
+    "sch-cartesianism": "الديكارتية",
+    "sch-aristotelianism": "المشائية / الأرسطية (Aristotelianism)",
+    "sch-istdp": "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)",
+    "sch-conservatism-philosophical": "المحافظية الفلسفية",
+    "sch-navayana": "بوذية نافايانا (البوذية الجديدة الهندية)",
+    "sch-ibadi-kalam": "الكلام الإباضي",
+    "sch-aedp": "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)",
+    "sch-yogacara": "يوغاكارا / فيجنانافادا"
+  },
+  "totals_approved": {
+    "axioms": 48,
+    "branches": 234,
+    "concepts": 893,
+    "contexts": 118,
+    "critiques": 99,
+    "debates": 161,
+    "dialogues": 47,
+    "disorders": 113,
+    "events": 135,
+    "experiences": 123,
+    "instruments": 103,
+    "metaphors": 142,
+    "questions": 128,
+    "relations": 98,
+    "schools": 369,
+    "studies": 121,
+    "syndromes": 195,
+    "techniques": 380,
+    "terms": 126,
+    "thinkers": 2196,
+    "works": 609
+  },
+  "totals_drafts": {},
+  "totals_phil_approved": {
+    "axioms": 28,
+    "branches": 181,
+    "concepts": 677,
+    "contexts": 117,
+    "critiques": 46,
+    "debates": 100,
+    "dialogues": 44,
+    "disorders": 2,
+    "events": 77,
+    "experiences": 106,
+    "metaphors": 120,
+    "questions": 119,
+    "relations": 98,
+    "schools": 340,
+    "syndromes": 3,
+    "techniques": 206,
+    "terms": 98,
+    "thinkers": 1433,
+    "works": 422
+  },
+  "totals_phil_drafts": {},
+  "unattached_philosophy": {
+    "axioms": 9,
+    "branches": 42,
+    "concepts": 211,
+    "contexts": 45,
+    "critiques": 17,
+    "debates": 39,
+    "dialogues": 30,
+    "events": 73,
+    "experiences": 46,
+    "metaphors": 58,
+    "questions": 54,
+    "relations": 92,
+    "schools": 262,
+    "terms": 47,
+    "thinkers": 880,
+    "works": 93
+  },
+  "matrix": {
+    "sch-systemic-family": {
+      "branches": 2,
+      "concepts": 13,
+      "experiences": 2,
+      "metaphors": 2,
+      "schools": 2,
+      "syndromes": 1,
+      "thinkers": 5
+    },
+    "sch-theravada": {},
+    "sch-nietzscheanism": {
+      "axioms": 1,
+      "concepts": 10,
+      "critiques": 1,
+      "metaphors": 2,
+      "works": 9
+    },
+    "sch-african-socialism": {
+      "thinkers": 1
+    },
+    "sch-communitarianism": {
+      "concepts": 2,
+      "thinkers": 2
+    },
+    "sch-mingjia": {},
+    "sch-behaviorism": {
+      "branches": 5,
+      "relations": 1,
+      "thinkers": 28,
+      "works": 2
+    },
+    "sch-american-idealism": {
+      "schools": 2
+    },
+    "sch-schelling": {
+      "branches": 1,
+      "concepts": 1,
+      "works": 1
+    },
+    "sch-hermeneutics": {
+      "concepts": 3,
+      "schools": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-acintya-bhedabheda": {},
+    "sch-nyingma": {},
+    "sch-gelug": {},
+    "sch-social-darwinism": {
+      "thinkers": 1
+    },
+    "sch-speculative-realism": {
+      "debates": 1,
+      "schools": 1,
+      "thinkers": 1
+    },
+    "sch-personalism": {},
+    "sch-rebt": {
+      "concepts": 1,
+      "experiences": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-libertarianism": {
+      "concepts": 2,
+      "critiques": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-ordinary-language": {
+      "branches": 1,
+      "concepts": 5,
+      "critiques": 1,
+      "thinkers": 2,
+      "works": 4
+    },
+    "sch-utilitarianism-contemporary": {
+      "debates": 1,
+      "thinkers": 1
+    },
+    "sch-wahdat-alshuhud": {
+      "thinkers": 1
+    },
+    "sch-existential-therapy": {
+      "branches": 2,
+      "contexts": 3,
+      "dialogues": 1,
+      "experiences": 5,
+      "metaphors": 1,
+      "questions": 5,
+      "terms": 1,
+      "thinkers": 4,
+      "works": 2
+    },
+    "sch-tagore-philosophy": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-comparative-philosophy": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-logical-atomism": {
+      "branches": 1,
+      "concepts": 5,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-mohism": {
+      "concepts": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-dependency-theory": {},
+    "sch-zaydi-kalam": {
+      "branches": 1
+    },
+    "sch-berkeleianism": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-daoism-religious": {
+      "concepts": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-cyrenaic": {},
+    "sch-ethnophilosophy": {},
+    "sch-contractualism": {
+      "contexts": 4,
+      "experiences": 1,
+      "metaphors": 2,
+      "questions": 5,
+      "terms": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-zurvanism": {
+      "concepts": 2
+    },
+    "sch-sanlun": {},
+    "sch-arielismo": {},
+    "sch-andean-philosophy": {},
+    "sch-wahdat-alwujud": {
+      "concepts": 1,
+      "thinkers": 3
+    },
+    "sch-bhedabheda": {},
+    "sch-existentialism": {
+      "concepts": 1,
+      "schools": 3
+    },
+    "sch-sensorimotor-psychotherapy": {
+      "branches": 1,
+      "concepts": 2,
+      "experiences": 1,
+      "metaphors": 1,
+      "techniques": 2,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-mitogaku": {},
+    "sch-imami-kalam": {
+      "branches": 2,
+      "thinkers": 1,
+      "works": 4
+    },
+    "sch-kierkegaardian": {
+      "concepts": 3,
+      "critiques": 1,
+      "metaphors": 1,
+      "questions": 1,
+      "works": 6
+    },
+    "sch-kyoto": {
+      "branches": 1,
+      "concepts": 2,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-eleatic": {
+      "thinkers": 4
+    },
+    "sch-mesopotamian-wisdom": {
+      "concepts": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-sage-philosophy": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-postmodernism-philosophical": {},
+    "sch-eft-couples": {
+      "concepts": 2,
+      "metaphors": 1,
+      "techniques": 1,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-nongjia": {
+      "thinkers": 1
+    },
+    "sch-marxism-structuralist": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-salafism-modern": {
+      "schools": 1
+    },
+    "sch-african-cross-cultural": {},
+    "sch-nahua-aztec": {},
+    "sch-anarchism-contemporary": {
+      "thinkers": 1
+    },
+    "sch-quinean-naturalism": {
+      "concepts": 1,
+      "critiques": 1,
+      "debates": 1,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-military-chinese": {
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-feminism-liberal": {
+      "contexts": 1,
+      "experiences": 1,
+      "thinkers": 1
+    },
+    "sch-mimamsa": {},
+    "sch-andalusian-philosophy": {
+      "thinkers": 2,
+      "works": 5
+    },
+    "sch-stoicism": {
+      "contexts": 2,
+      "experiences": 2,
+      "metaphors": 1,
+      "terms": 1,
+      "works": 1
+    },
+    "sch-renaissance-humanism": {
+      "thinkers": 3
+    },
+    "sch-islamic-critical-thought": {},
+    "sch-jodo-shinshu": {
+      "branches": 1
+    },
+    "sch-kokugaku": {},
+    "sch-north-american-indigenous": {},
+    "sch-renaissance-neoplatonism": {
+      "thinkers": 1
+    },
+    "sch-arya-samaj": {
+      "thinkers": 1
+    },
+    "sch-gandhianism": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-rawlsianism": {
+      "axioms": 2,
+      "concepts": 7,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-post-structuralism": {
+      "concepts": 14,
+      "contexts": 1,
+      "critiques": 3,
+      "dialogues": 1,
+      "experiences": 1,
+      "metaphors": 2,
+      "questions": 1,
+      "schools": 1,
+      "terms": 1,
+      "thinkers": 2,
+      "works": 7
+    },
+    "sch-hegelianism": {
+      "branches": 1,
+      "concepts": 6,
+      "schools": 2,
+      "terms": 1,
+      "works": 4
+    },
+    "sch-caribbean-philosophy": {},
+    "sch-romanticism": {
+      "schools": 2
+    },
+    "sch-interculturalidad": {},
+    "sch-dvaita-vedanta": {
+      "branches": 1,
+      "thinkers": 3
+    },
+    "sch-feminism-postcolonial": {
+      "concepts": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-sikh-philosophy": {
+      "thinkers": 1
+    },
+    "sch-ajnanavada": {},
+    "sch-shuddhadvaita": {},
+    "sch-chan": {
+      "debates": 1,
+      "thinkers": 2
+    },
+    "sch-neoconfucianism": {
+      "schools": 5
+    },
+    "sch-fichte": {
+      "branches": 1,
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-christian-mysticism-medieval": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-act": {
+      "concepts": 1,
+      "experiences": 1,
+      "metaphors": 6,
+      "questions": 1,
+      "techniques": 47,
+      "thinkers": 3,
+      "works": 2
+    },
+    "sch-second-scholasticism": {
+      "branches": 1,
+      "thinkers": 2
+    },
+    "sch-deliberative-democracy": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-karaite": {
+      "thinkers": 1
+    },
+    "sch-feminism-radical": {
+      "concepts": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-shaiva-siddhanta": {},
+    "sch-phenomenology-hermeneutic": {},
+    "sch-ifa": {},
+    "sch-shingon": {},
+    "sch-middle-platonism": {
+      "thinkers": 2
+    },
+    "sch-vedanta": {
+      "concepts": 3,
+      "debates": 1,
+      "schools": 6,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-african-national-ideology": {},
+    "sch-victorines": {
+      "thinkers": 1
+    },
+    "sch-mestizaje": {},
+    "sch-virtue-ethics": {
+      "critiques": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-existentialism-atheist": {
+      "axioms": 1,
+      "concepts": 3,
+      "experiences": 2,
+      "metaphors": 2,
+      "questions": 1,
+      "terms": 4,
+      "works": 2
+    },
+    "sch-animal-liberation": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-scottish-common-sense": {
+      "branches": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-decolonial-latin": {
+      "concepts": 4,
+      "critiques": 1,
+      "thinkers": 1
+    },
+    "sch-ubuntu": {
+      "concepts": 1
+    },
+    "sch-huayan": {
+      "branches": 1,
+      "concepts": 1
+    },
+    "sch-pythagorean": {
+      "thinkers": 3
+    },
+    "sch-humeanism": {},
+    "sch-hebrew-wisdom": {
+      "concepts": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-occasionalism": {
+      "branches": 1,
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-solution-focused": {
+      "concepts": 2,
+      "experiences": 1,
+      "techniques": 2,
+      "thinkers": 3
+    },
+    "sch-isfahan": {
+      "schools": 2,
+      "thinkers": 2
+    },
+    "sch-narrative-therapy": {
+      "concepts": 2,
+      "techniques": 1,
+      "thinkers": 8,
+      "works": 1
+    },
+    "sch-gestalt-therapy": {
+      "branches": 4,
+      "metaphors": 1,
+      "thinkers": 4
+    },
+    "sch-hegel-left": {
+      "branches": 1,
+      "schools": 3,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-decolonial-philosophy": {
+      "concepts": 1,
+      "critiques": 1,
+      "debates": 1,
+      "schools": 2,
+      "thinkers": 1,
+      "works": 3
+    },
+    "sch-indigenous-psychology": {
+      "concepts": 6,
+      "experiences": 2,
+      "questions": 1,
+      "techniques": 1,
+      "thinkers": 5
+    },
+    "sch-donghak": {},
+    "sch-shinto-philosophical": {},
+    "sch-deep-ecology": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-nationalism-philosophical": {},
+    "sch-hindutva": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-tiantai": {
+      "branches": 1
+    },
+    "sch-yoga": {
+      "branches": 1,
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-pessimism": {
+      "schools": 1,
+      "works": 1
+    },
+    "sch-ethiopian-hataata": {
+      "thinkers": 1
+    },
+    "sch-chinese-marxism": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-ikhwan-safa": {},
+    "sch-xinxue": {},
+    "sch-haskalah": {
+      "thinkers": 1
+    },
+    "sch-abhidharma": {},
+    "sch-legalism": {
+      "concepts": 2,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-transpersonal": {
+      "branches": 1,
+      "experiences": 5,
+      "questions": 1,
+      "thinkers": 7
+    },
+    "sch-mbct": {
+      "branches": 1,
+      "concepts": 2,
+      "contexts": 1,
+      "techniques": 2,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-huang-lao": {
+      "concepts": 1,
+      "works": 1
+    },
+    "sch-german-idealism": {
+      "contexts": 2,
+      "experiences": 2,
+      "schools": 6,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-developmental": {
+      "branches": 1,
+      "concepts": 4,
+      "experiences": 2,
+      "thinkers": 7
+    },
+    "sch-vajrayana": {
+      "schools": 5
+    },
+    "sch-pragmatism-classical": {
+      "branches": 1,
+      "thinkers": 2,
+      "works": 3
+    },
+    "sch-feminism-black": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-atomism-greek": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-ubuntu-traditional": {
+      "thinkers": 1
+    },
+    "sch-zen-soto": {
+      "branches": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-dogon": {},
+    "sch-british-idealism": {
+      "schools": 1
+    },
+    "sch-hermeticism": {
+      "concepts": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-social-ecology": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-deism": {},
+    "sch-tathagatagarbha": {},
+    "sch-phenomenology": {
+      "concepts": 1,
+      "dialogues": 1,
+      "metaphors": 3,
+      "questions": 1,
+      "schools": 3,
+      "terms": 4,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-radical-democracy": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-postcolonial-philosophy": {
+      "concepts": 2,
+      "critiques": 2,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-sakya": {},
+    "sch-intersectionality": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-charvaka": {
+      "branches": 1,
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-shakta-tantra": {},
+    "sch-buddhist-psychology": {
+      "concepts": 4,
+      "contexts": 2,
+      "thinkers": 6
+    },
+    "sch-conceptualism": {},
+    "sch-sikolohiyang-pilipino": {},
+    "sch-negritude": {
+      "critiques": 1,
+      "thinkers": 1
+    },
+    "sch-kogaku": {},
+    "sch-anarchism": {
+      "thinkers": 2
+    },
+    "sch-kant-critical": {
+      "axioms": 1,
+      "concepts": 9,
+      "critiques": 1,
+      "debates": 1,
+      "schools": 1,
+      "thinkers": 1,
+      "works": 8
+    },
+    "sch-ai-ethics": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-ockhamism": {
+      "branches": 1,
+      "concepts": 4,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-queer-theory": {
+      "concepts": 2,
+      "critiques": 1,
+      "debates": 1,
+      "works": 1
+    },
+    "sch-imago": {
+      "concepts": 2,
+      "techniques": 2,
+      "thinkers": 4
+    },
+    "sch-egyptian-maat": {
+      "concepts": 2,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-newconfucianism-modern": {
+      "thinkers": 4
+    },
+    "sch-mahasanghika": {},
+    "sch-scientific-realism": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1
+    },
+    "sch-islamic-feminism": {},
+    "sch-judaism-hellenistic": {
+      "concepts": 1,
+      "thinkers": 2
+    },
+    "sch-pure-land": {},
+    "sch-faxiang": {},
+    "sch-shiraz": {
+      "schools": 1,
+      "thinkers": 1
+    },
+    "sch-judaism-reform": {
+      "thinkers": 1
+    },
+    "sch-humanistic": {
+      "branches": 20,
+      "contexts": 10,
+      "debates": 1,
+      "dialogues": 1,
+      "experiences": 6,
+      "metaphors": 2,
+      "questions": 5,
+      "schools": 1,
+      "thinkers": 7,
+      "works": 2
+    },
+    "sch-kashmir-shaivism": {},
+    "sch-arab-renaissance": {
+      "thinkers": 2
+    },
+    "sch-new-realism": {
+      "concepts": 1,
+      "thinkers": 2
+    },
+    "sch-seon": {},
+    "sch-ifs": {
+      "branches": 1,
+      "concepts": 1,
+      "experiences": 1,
+      "metaphors": 1,
+      "techniques": 2,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-manicheism": {
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-neopragmatism": {},
+    "sch-chartres": {
+      "thinkers": 1
+    },
+    "sch-buddhism-early": {},
+    "sch-zoroastrian-philosophy": {
+      "concepts": 2,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-truc-lam": {},
+    "sch-philosophy-of-technology": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-bhakti-movement": {
+      "schools": 1
+    },
+    "sch-ipt": {
+      "concepts": 2,
+      "techniques": 1,
+      "thinkers": 2
+    },
+    "sch-mazdakism": {
+      "thinkers": 1
+    },
+    "sch-apophatic": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-ishraqiyya": {
+      "branches": 2,
+      "concepts": 3,
+      "debates": 1,
+      "thinkers": 5,
+      "works": 4
+    },
+    "sch-psychedelic-assisted-therapy": {
+      "concepts": 1,
+      "contexts": 1,
+      "thinkers": 9
+    },
+    "sch-vaisheshika": {
+      "branches": 1,
+      "thinkers": 1
+    },
+    "sch-heraclitean": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-dreamtime": {
+      "concepts": 1
+    },
+    "sch-cynicism": {
+      "thinkers": 3
+    },
+    "sch-enlightenment": {
+      "branches": 1,
+      "concepts": 4,
+      "thinkers": 2,
+      "works": 7
+    },
+    "sch-sophistry": {
+      "axioms": 1,
+      "concepts": 3,
+      "critiques": 1,
+      "thinkers": 5
+    },
+    "sch-structuralism": {},
+    "sch-neohinduism": {
+      "schools": 2
+    },
+    "sch-kantian-ethics-contemporary": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-positive-psychology": {
+      "branches": 1,
+      "concepts": 4,
+      "thinkers": 3,
+      "works": 4
+    },
+    "sch-epicureanism": {
+      "branches": 2,
+      "concepts": 1,
+      "terms": 1,
+      "thinkers": 2
+    },
+    "sch-korean-neoconfucian": {
+      "schools": 1
+    },
+    "sch-posthumanism": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-biological-neuro": {
+      "concepts": 3,
+      "contexts": 3,
+      "debates": 4,
+      "experiences": 3,
+      "metaphors": 1,
+      "terms": 2,
+      "thinkers": 6
+    },
+    "sch-augustinianism": {
+      "concepts": 2,
+      "works": 5
+    },
+    "sch-transcendentalism": {},
+    "sch-islamic-reform": {
+      "debates": 1,
+      "schools": 1,
+      "thinkers": 3
+    },
+    "sch-pan-africanism": {
+      "thinkers": 1
+    },
+    "sch-afropessimism": {
+      "thinkers": 1
+    },
+    "sch-buddhist-modernism": {
+      "schools": 1
+    },
+    "sch-feminism-marxist": {},
+    "sch-bowen-ferrer-vivir": {},
+    "sch-academy-platonic": {
+      "branches": 3,
+      "concepts": 5,
+      "schools": 1,
+      "thinkers": 4,
+      "works": 9
+    },
+    "sch-milesian": {
+      "concepts": 2,
+      "thinkers": 4
+    },
+    "sch-kaupapa-maori": {},
+    "sch-phenomenology-somatic": {
+      "concepts": 4,
+      "schools": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-feminism-french-poststructural": {
+      "critiques": 1,
+      "works": 1
+    },
+    "sch-nyaya": {},
+    "sch-marxism-humanist": {},
+    "sch-jainism": {},
+    "sch-judaism-existential": {},
+    "sch-phil-mind-analytic": {
+      "contexts": 2,
+      "debates": 3,
+      "dialogues": 2,
+      "experiences": 1,
+      "metaphors": 5,
+      "questions": 9,
+      "schools": 1,
+      "terms": 3,
+      "thinkers": 2
+    },
+    "sch-emdr": {
+      "branches": 1,
+      "concepts": 1,
+      "events": 1,
+      "experiences": 1,
+      "techniques": 4,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-transhumanism": {
+      "concepts": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-vishishtadvaita": {
+      "branches": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-dbt": {
+      "disorders": 1,
+      "events": 1,
+      "experiences": 1,
+      "metaphors": 2,
+      "techniques": 61,
+      "thinkers": 5,
+      "works": 1
+    },
+    "sch-eft": {
+      "concepts": 5,
+      "techniques": 2,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-madhyamaka": {
+      "branches": 2,
+      "concepts": 4,
+      "critiques": 1,
+      "debates": 1,
+      "thinkers": 5,
+      "works": 1
+    },
+    "sch-african-hermeneutical": {
+      "thinkers": 1
+    },
+    "sch-shingaku": {},
+    "sch-social-contract": {
+      "experiences": 1
+    },
+    "sch-mutazila": {
+      "branches": 2,
+      "concepts": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-aurobindo": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-kabbalah": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-phil-mathematics": {
+      "thinkers": 2
+    },
+    "sch-islamic-psychology": {
+      "concepts": 3,
+      "contexts": 4,
+      "techniques": 2,
+      "terms": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-deconstruction": {
+      "concepts": 4,
+      "critiques": 1,
+      "dialogues": 2,
+      "experiences": 1,
+      "metaphors": 1,
+      "questions": 1,
+      "terms": 1,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-navya-nyaya": {
+      "branches": 1,
+      "thinkers": 1
+    },
+    "sch-athariyya": {
+      "thinkers": 1
+    },
+    "sch-thomism": {
+      "axioms": 2,
+      "branches": 1,
+      "concepts": 5,
+      "thinkers": 2,
+      "works": 4
+    },
+    "sch-experimental-philosophy": {},
+    "sch-scotism": {
+      "axioms": 1,
+      "branches": 1,
+      "concepts": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-ambedkar-philosophy": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-care-ethics": {
+      "concepts": 2,
+      "critiques": 1,
+      "debates": 2,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-zonghengjia": {},
+    "sch-megarian": {},
+    "sch-samkhya": {
+      "branches": 1,
+      "concepts": 4,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-polyvagal-informed-therapy": {
+      "concepts": 3,
+      "metaphors": 1,
+      "techniques": 1,
+      "terms": 1,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-new-materialism": {
+      "debates": 1
+    },
+    "sch-xuanxue": {
+      "branches": 1,
+      "thinkers": 3
+    },
+    "sch-neokantian": {},
+    "sch-indigenismo": {},
+    "sch-formal-phil-language": {
+      "concepts": 1,
+      "thinkers": 2
+    },
+    "sch-jonang": {},
+    "sch-realism-medieval": {
+      "debates": 1
+    },
+    "sch-lockeanism": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-engaged-buddhism": {},
+    "sch-civic-republicanism": {
+      "concepts": 1,
+      "thinkers": 2,
+      "works": 3
+    },
+    "sch-tendai-japan": {},
+    "sch-environmental-ethics": {
+      "concepts": 3,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-renaissance-naturalism": {
+      "events": 1,
+      "thinkers": 1
+    },
+    "sch-chinese-liberalism-modern": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-vedic": {},
+    "sch-ismaili": {
+      "thinkers": 1
+    },
+    "sch-cognitive-behavioral": {
+      "branches": 3,
+      "debates": 2,
+      "dialogues": 1,
+      "disorders": 1,
+      "events": 1,
+      "experiences": 1,
+      "metaphors": 3,
+      "questions": 3,
+      "schools": 1,
+      "syndromes": 2,
+      "techniques": 51,
+      "terms": 1,
+      "works": 1
+    },
+    "sch-judaism-andalusian": {
+      "branches": 1,
+      "concepts": 3,
+      "debates": 1,
+      "thinkers": 4,
+      "works": 6
+    },
+    "sch-hegel-right": {},
+    "sch-academic-skepticism": {},
+    "sch-daoism-philosophical": {
+      "branches": 1,
+      "concepts": 7,
+      "thinkers": 2,
+      "works": 3
+    },
+    "sch-western-marxism": {
+      "schools": 3
+    },
+    "sch-somatic-experiencing": {
+      "concepts": 2,
+      "experiences": 2,
+      "metaphors": 1,
+      "questions": 2,
+      "techniques": 4,
+      "terms": 1,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-classical-liberalism-early": {
+      "schools": 1
+    },
+    "sch-phenomenology-existential": {
+      "concepts": 4,
+      "critiques": 2,
+      "dialogues": 1,
+      "works": 1
+    },
+    "sch-cosmopolitanism": {
+      "concepts": 2,
+      "debates": 1,
+      "thinkers": 2
+    },
+    "sch-advaita-vedanta": {
+      "branches": 1,
+      "concepts": 5,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-existentialism-religious": {
+      "thinkers": 1
+    },
+    "sch-positivism-latin": {},
+    "sch-hermeneutics-critical": {
+      "thinkers": 1
+    },
+    "sch-gnosticism": {
+      "concepts": 2,
+      "thinkers": 1
+    },
+    "sch-maya-philosophy": {},
+    "sch-nichiren": {},
+    "sch-psychoanalysis": {
+      "branches": 26,
+      "concepts": 52,
+      "contexts": 3,
+      "dialogues": 2,
+      "experiences": 4,
+      "metaphors": 10,
+      "questions": 1,
+      "relations": 5,
+      "schools": 1,
+      "techniques": 11,
+      "terms": 15,
+      "thinkers": 81,
+      "works": 21
+    },
+    "sch-political-islam": {},
+    "sch-feminism-phenomenological": {},
+    "sch-scholasticism": {
+      "concepts": 5,
+      "contexts": 3,
+      "debates": 4,
+      "experiences": 1,
+      "terms": 2,
+      "thinkers": 5,
+      "works": 6
+    },
+    "sch-spinozism": {
+      "axioms": 1,
+      "branches": 1,
+      "concepts": 4,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-critical-realism": {},
+    "sch-liberation-psychology": {
+      "concepts": 1,
+      "thinkers": 5
+    },
+    "sch-islamic-peripatetic": {
+      "concepts": 1,
+      "schools": 1,
+      "thinkers": 3
+    },
+    "sch-silhak": {
+      "branches": 1,
+      "thinkers": 1
+    },
+    "sch-neoplatonism": {
+      "contexts": 1,
+      "metaphors": 1,
+      "terms": 1
+    },
+    "sch-brahmo-samaj": {
+      "thinkers": 1
+    },
+    "sch-kabbalah-lurianic": {
+      "concepts": 1,
+      "thinkers": 2
+    },
+    "sch-confucian-psychology": {
+      "concepts": 1,
+      "contexts": 1,
+      "thinkers": 3
+    },
+    "sch-post-kyoto": {},
+    "sch-ashariyya": {
+      "branches": 2,
+      "concepts": 3,
+      "thinkers": 5,
+      "works": 10
+    },
+    "sch-latin-averroism": {
+      "thinkers": 1
+    },
+    "sch-liberation-philosophy": {
+      "concepts": 1,
+      "critiques": 1,
+      "schools": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-african-professional-philosophy": {
+      "thinkers": 1
+    },
+    "sch-cft": {
+      "concepts": 3,
+      "metaphors": 1,
+      "questions": 2,
+      "techniques": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-confucian-early": {
+      "branches": 1,
+      "concepts": 12,
+      "debates": 2,
+      "thinkers": 3,
+      "works": 4
+    },
+    "sch-transfeminism": {},
+    "sch-ajivika": {},
+    "sch-lixue": {},
+    "sch-utilitarianism": {
+      "axioms": 2,
+      "branches": 1,
+      "concepts": 1,
+      "metaphors": 1,
+      "questions": 6,
+      "thinkers": 2,
+      "works": 4
+    },
+    "sch-transcendent-theosophy": {
+      "branches": 2,
+      "concepts": 4,
+      "debates": 1,
+      "thinkers": 4,
+      "works": 5
+    },
+    "sch-african-psychology": {
+      "concepts": 2,
+      "contexts": 2,
+      "experiences": 1,
+      "thinkers": 8
+    },
+    "sch-british-empiricism": {
+      "axioms": 1,
+      "branches": 1,
+      "concepts": 4,
+      "schools": 3,
+      "thinkers": 2,
+      "works": 3
+    },
+    "sch-continental-rationalism": {
+      "schools": 3,
+      "thinkers": 3
+    },
+    "sch-lebensphilosophie": {},
+    "sch-comtian-positivism": {
+      "schools": 1
+    },
+    "sch-yinyang": {},
+    "sch-kaozheng": {},
+    "sch-pancasila": {},
+    "sch-frankfurt-school": {
+      "concepts": 5,
+      "critiques": 2,
+      "questions": 1,
+      "thinkers": 4,
+      "works": 6
+    },
+    "sch-feminism-existential": {
+      "critiques": 1,
+      "works": 2
+    },
+    "sch-akbari": {
+      "concepts": 4,
+      "thinkers": 2,
+      "works": 4
+    },
+    "sch-shramana": {},
+    "sch-african-decolonial": {
+      "concepts": 1,
+      "thinkers": 2
+    },
+    "sch-afrocentrism": {
+      "thinkers": 1
+    },
+    "sch-black-existentialism": {},
+    "sch-akan": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-vietnamese-triple": {},
+    "sch-adat": {},
+    "sch-neo-vedanta": {
+      "thinkers": 2
+    },
+    "sch-indigenous-philosophy-contemporary": {
+      "concepts": 1,
+      "schools": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-zen-rinzai": {
+      "branches": 1,
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-process-philosophy": {
+      "debates": 1
+    },
+    "sch-afrofeminism": {
+      "thinkers": 1
+    },
+    "sch-personalism-contemporary": {},
+    "sch-functionalism": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-analytic-metaphysics": {
+      "concepts": 10,
+      "debates": 6,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-hasidic": {
+      "concepts": 2,
+      "thinkers": 1
+    },
+    "sch-intercultural-philosophy": {
+      "concepts": 1,
+      "thinkers": 1
+    },
+    "sch-leibnizianism": {
+      "axioms": 1,
+      "branches": 1,
+      "concepts": 5,
+      "thinkers": 1,
+      "works": 3
+    },
+    "sch-patristics": {
+      "branches": 2,
+      "concepts": 1,
+      "thinkers": 5,
+      "works": 1
+    },
+    "sch-byzantine": {
+      "thinkers": 2
+    },
+    "sch-haudenosaunee": {},
+    "sch-phil-science": {
+      "contexts": 4,
+      "debates": 1,
+      "dialogues": 2,
+      "experiences": 2,
+      "metaphors": 6,
+      "questions": 12,
+      "schools": 1,
+      "terms": 2,
+      "thinkers": 10,
+      "works": 2
+    },
+    "sch-absurdism": {
+      "concepts": 1,
+      "works": 3
+    },
+    "sch-vienna-circle": {
+      "axioms": 1,
+      "branches": 1,
+      "concepts": 3,
+      "debates": 1,
+      "thinkers": 4
+    },
+    "sch-bon": {},
+    "sch-eclecticism": {},
+    "sch-rangaku": {},
+    "sch-maturidiyya": {
+      "branches": 1,
+      "concepts": 2,
+      "thinkers": 2,
+      "works": 3
+    },
+    "sch-ecofeminism": {
+      "concepts": 1
+    },
+    "sch-ooo": {},
+    "sch-philosophy-of-disability": {
+      "concepts": 1,
+      "debates": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-cbt": {
+      "works": 1
+    },
+    "sch-kagyu": {},
+    "sch-upanishadic": {
+      "concepts": 2,
+      "works": 1
+    },
+    "sch-marxism": {
+      "branches": 1,
+      "concepts": 8,
+      "contexts": 4,
+      "critiques": 2,
+      "questions": 1,
+      "terms": 1,
+      "thinkers": 2,
+      "works": 7
+    },
+    "sch-social-psychology": {
+      "concepts": 1,
+      "contexts": 18,
+      "debates": 2,
+      "experiences": 5,
+      "questions": 3,
+      "terms": 1,
+      "thinkers": 6,
+      "works": 8
+    },
+    "sch-pyrrhonism": {
+      "branches": 2,
+      "concepts": 2,
+      "thinkers": 2,
+      "works": 3
+    },
+    "sch-motivational-interviewing": {
+      "concepts": 2,
+      "techniques": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-cartesianism": {
+      "axioms": 1,
+      "branches": 1,
+      "concepts": 4,
+      "thinkers": 1,
+      "works": 3
+    },
+    "sch-aristotelianism": {
+      "axioms": 3,
+      "branches": 2,
+      "concepts": 14,
+      "debates": 1,
+      "metaphors": 1,
+      "questions": 2,
+      "terms": 5,
+      "thinkers": 3,
+      "works": 15
+    },
+    "sch-istdp": {
+      "branches": 1,
+      "concepts": 3,
+      "techniques": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-conservatism-philosophical": {},
+    "sch-navayana": {},
+    "sch-ibadi-kalam": {
+      "branches": 1
+    },
+    "sch-aedp": {
+      "branches": 1,
+      "concepts": 1,
+      "techniques": 5,
+      "thinkers": 4,
+      "works": 1
+    },
+    "sch-yogacara": {
+      "branches": 2,
+      "concepts": 4,
+      "thinkers": 4,
+      "works": 1
+    }
+  },
+  "by_school_totals": {
+    "sch-systemic-family": 27,
+    "sch-theravada": 0,
+    "sch-nietzscheanism": 23,
+    "sch-african-socialism": 1,
+    "sch-communitarianism": 4,
+    "sch-mingjia": 0,
+    "sch-behaviorism": 36,
+    "sch-american-idealism": 2,
+    "sch-schelling": 3,
+    "sch-hermeneutics": 6,
+    "sch-acintya-bhedabheda": 0,
+    "sch-nyingma": 0,
+    "sch-gelug": 0,
+    "sch-social-darwinism": 1,
+    "sch-speculative-realism": 3,
+    "sch-personalism": 0,
+    "sch-rebt": 4,
+    "sch-libertarianism": 7,
+    "sch-ordinary-language": 13,
+    "sch-utilitarianism-contemporary": 2,
+    "sch-wahdat-alshuhud": 1,
+    "sch-existential-therapy": 24,
+    "sch-tagore-philosophy": 4,
+    "sch-comparative-philosophy": 3,
+    "sch-logical-atomism": 10,
+    "sch-mohism": 4,
+    "sch-dependency-theory": 0,
+    "sch-zaydi-kalam": 1,
+    "sch-berkeleianism": 4,
+    "sch-daoism-religious": 4,
+    "sch-cyrenaic": 0,
+    "sch-ethnophilosophy": 0,
+    "sch-contractualism": 16,
+    "sch-zurvanism": 2,
+    "sch-sanlun": 0,
+    "sch-arielismo": 0,
+    "sch-andean-philosophy": 0,
+    "sch-wahdat-alwujud": 4,
+    "sch-bhedabheda": 0,
+    "sch-existentialism": 4,
+    "sch-sensorimotor-psychotherapy": 11,
+    "sch-mitogaku": 0,
+    "sch-imami-kalam": 7,
+    "sch-kierkegaardian": 12,
+    "sch-kyoto": 6,
+    "sch-eleatic": 4,
+    "sch-mesopotamian-wisdom": 4,
+    "sch-sage-philosophy": 2,
+    "sch-postmodernism-philosophical": 0,
+    "sch-eft-couples": 8,
+    "sch-nongjia": 1,
+    "sch-marxism-structuralist": 2,
+    "sch-salafism-modern": 1,
+    "sch-african-cross-cultural": 0,
+    "sch-nahua-aztec": 0,
+    "sch-anarchism-contemporary": 1,
+    "sch-quinean-naturalism": 7,
+    "sch-military-chinese": 2,
+    "sch-feminism-liberal": 3,
+    "sch-mimamsa": 0,
+    "sch-andalusian-philosophy": 7,
+    "sch-stoicism": 7,
+    "sch-renaissance-humanism": 3,
+    "sch-islamic-critical-thought": 0,
+    "sch-jodo-shinshu": 1,
+    "sch-kokugaku": 0,
+    "sch-north-american-indigenous": 0,
+    "sch-renaissance-neoplatonism": 1,
+    "sch-arya-samaj": 1,
+    "sch-gandhianism": 4,
+    "sch-rawlsianism": 12,
+    "sch-post-structuralism": 34,
+    "sch-hegelianism": 14,
+    "sch-caribbean-philosophy": 0,
+    "sch-romanticism": 2,
+    "sch-interculturalidad": 0,
+    "sch-dvaita-vedanta": 4,
+    "sch-feminism-postcolonial": 4,
+    "sch-sikh-philosophy": 1,
+    "sch-ajnanavada": 0,
+    "sch-shuddhadvaita": 0,
+    "sch-chan": 3,
+    "sch-neoconfucianism": 5,
+    "sch-fichte": 4,
+    "sch-christian-mysticism-medieval": 2,
+    "sch-act": 61,
+    "sch-second-scholasticism": 3,
+    "sch-deliberative-democracy": 4,
+    "sch-karaite": 1,
+    "sch-feminism-radical": 4,
+    "sch-shaiva-siddhanta": 0,
+    "sch-phenomenology-hermeneutic": 0,
+    "sch-ifa": 0,
+    "sch-shingon": 0,
+    "sch-middle-platonism": 2,
+    "sch-vedanta": 14,
+    "sch-african-national-ideology": 0,
+    "sch-victorines": 1,
+    "sch-mestizaje": 0,
+    "sch-virtue-ethics": 5,
+    "sch-existentialism-atheist": 15,
+    "sch-animal-liberation": 3,
+    "sch-scottish-common-sense": 3,
+    "sch-decolonial-latin": 6,
+    "sch-ubuntu": 1,
+    "sch-huayan": 2,
+    "sch-pythagorean": 3,
+    "sch-humeanism": 0,
+    "sch-hebrew-wisdom": 4,
+    "sch-occasionalism": 4,
+    "sch-solution-focused": 8,
+    "sch-isfahan": 4,
+    "sch-narrative-therapy": 12,
+    "sch-gestalt-therapy": 9,
+    "sch-hegel-left": 7,
+    "sch-decolonial-philosophy": 9,
+    "sch-indigenous-psychology": 15,
+    "sch-donghak": 0,
+    "sch-shinto-philosophical": 0,
+    "sch-deep-ecology": 3,
+    "sch-nationalism-philosophical": 0,
+    "sch-hindutva": 4,
+    "sch-tiantai": 1,
+    "sch-yoga": 4,
+    "sch-pessimism": 2,
+    "sch-ethiopian-hataata": 1,
+    "sch-chinese-marxism": 4,
+    "sch-ikhwan-safa": 0,
+    "sch-xinxue": 0,
+    "sch-haskalah": 1,
+    "sch-abhidharma": 0,
+    "sch-legalism": 6,
+    "sch-transpersonal": 14,
+    "sch-mbct": 9,
+    "sch-huang-lao": 2,
+    "sch-german-idealism": 14,
+    "sch-developmental": 14,
+    "sch-vajrayana": 5,
+    "sch-pragmatism-classical": 6,
+    "sch-feminism-black": 2,
+    "sch-atomism-greek": 2,
+    "sch-ubuntu-traditional": 1,
+    "sch-zen-soto": 3,
+    "sch-dogon": 0,
+    "sch-british-idealism": 1,
+    "sch-hermeticism": 4,
+    "sch-social-ecology": 3,
+    "sch-deism": 0,
+    "sch-tathagatagarbha": 0,
+    "sch-phenomenology": 16,
+    "sch-radical-democracy": 3,
+    "sch-postcolonial-philosophy": 7,
+    "sch-sakya": 0,
+    "sch-intersectionality": 2,
+    "sch-charvaka": 3,
+    "sch-shakta-tantra": 0,
+    "sch-buddhist-psychology": 12,
+    "sch-conceptualism": 0,
+    "sch-sikolohiyang-pilipino": 0,
+    "sch-negritude": 2,
+    "sch-kogaku": 0,
+    "sch-anarchism": 2,
+    "sch-kant-critical": 22,
+    "sch-ai-ethics": 3,
+    "sch-ockhamism": 7,
+    "sch-queer-theory": 5,
+    "sch-imago": 8,
+    "sch-egyptian-maat": 5,
+    "sch-newconfucianism-modern": 4,
+    "sch-mahasanghika": 0,
+    "sch-scientific-realism": 3,
+    "sch-islamic-feminism": 0,
+    "sch-judaism-hellenistic": 3,
+    "sch-pure-land": 0,
+    "sch-faxiang": 0,
+    "sch-shiraz": 2,
+    "sch-judaism-reform": 1,
+    "sch-humanistic": 55,
+    "sch-kashmir-shaivism": 0,
+    "sch-arab-renaissance": 2,
+    "sch-new-realism": 3,
+    "sch-seon": 0,
+    "sch-ifs": 9,
+    "sch-manicheism": 2,
+    "sch-neopragmatism": 0,
+    "sch-chartres": 1,
+    "sch-buddhism-early": 0,
+    "sch-zoroastrian-philosophy": 5,
+    "sch-truc-lam": 0,
+    "sch-philosophy-of-technology": 4,
+    "sch-bhakti-movement": 1,
+    "sch-ipt": 5,
+    "sch-mazdakism": 1,
+    "sch-apophatic": 2,
+    "sch-ishraqiyya": 15,
+    "sch-psychedelic-assisted-therapy": 11,
+    "sch-vaisheshika": 2,
+    "sch-heraclitean": 2,
+    "sch-dreamtime": 1,
+    "sch-cynicism": 3,
+    "sch-enlightenment": 14,
+    "sch-sophistry": 10,
+    "sch-structuralism": 0,
+    "sch-neohinduism": 2,
+    "sch-kantian-ethics-contemporary": 2,
+    "sch-positive-psychology": 12,
+    "sch-epicureanism": 6,
+    "sch-korean-neoconfucian": 1,
+    "sch-posthumanism": 4,
+    "sch-biological-neuro": 22,
+    "sch-augustinianism": 7,
+    "sch-transcendentalism": 0,
+    "sch-islamic-reform": 5,
+    "sch-pan-africanism": 1,
+    "sch-afropessimism": 1,
+    "sch-buddhist-modernism": 1,
+    "sch-feminism-marxist": 0,
+    "sch-bowen-ferrer-vivir": 0,
+    "sch-academy-platonic": 22,
+    "sch-milesian": 6,
+    "sch-kaupapa-maori": 0,
+    "sch-phenomenology-somatic": 8,
+    "sch-feminism-french-poststructural": 2,
+    "sch-nyaya": 0,
+    "sch-marxism-humanist": 0,
+    "sch-jainism": 0,
+    "sch-judaism-existential": 0,
+    "sch-phil-mind-analytic": 28,
+    "sch-emdr": 12,
+    "sch-transhumanism": 3,
+    "sch-vishishtadvaita": 3,
+    "sch-dbt": 72,
+    "sch-eft": 10,
+    "sch-madhyamaka": 14,
+    "sch-african-hermeneutical": 1,
+    "sch-shingaku": 0,
+    "sch-social-contract": 1,
+    "sch-mutazila": 6,
+    "sch-aurobindo": 4,
+    "sch-kabbalah": 2,
+    "sch-phil-mathematics": 2,
+    "sch-islamic-psychology": 13,
+    "sch-deconstruction": 14,
+    "sch-navya-nyaya": 2,
+    "sch-athariyya": 1,
+    "sch-thomism": 14,
+    "sch-experimental-philosophy": 0,
+    "sch-scotism": 6,
+    "sch-ambedkar-philosophy": 4,
+    "sch-care-ethics": 9,
+    "sch-zonghengjia": 0,
+    "sch-megarian": 0,
+    "sch-samkhya": 8,
+    "sch-polyvagal-informed-therapy": 10,
+    "sch-new-materialism": 1,
+    "sch-xuanxue": 4,
+    "sch-neokantian": 0,
+    "sch-indigenismo": 0,
+    "sch-formal-phil-language": 3,
+    "sch-jonang": 0,
+    "sch-realism-medieval": 1,
+    "sch-lockeanism": 2,
+    "sch-engaged-buddhism": 0,
+    "sch-civic-republicanism": 6,
+    "sch-tendai-japan": 0,
+    "sch-environmental-ethics": 6,
+    "sch-renaissance-naturalism": 2,
+    "sch-chinese-liberalism-modern": 4,
+    "sch-vedic": 0,
+    "sch-ismaili": 1,
+    "sch-cognitive-behavioral": 71,
+    "sch-judaism-andalusian": 15,
+    "sch-hegel-right": 0,
+    "sch-academic-skepticism": 0,
+    "sch-daoism-philosophical": 13,
+    "sch-western-marxism": 3,
+    "sch-somatic-experiencing": 16,
+    "sch-classical-liberalism-early": 1,
+    "sch-phenomenology-existential": 8,
+    "sch-cosmopolitanism": 5,
+    "sch-advaita-vedanta": 9,
+    "sch-existentialism-religious": 1,
+    "sch-positivism-latin": 0,
+    "sch-hermeneutics-critical": 1,
+    "sch-gnosticism": 3,
+    "sch-maya-philosophy": 0,
+    "sch-nichiren": 0,
+    "sch-psychoanalysis": 232,
+    "sch-political-islam": 0,
+    "sch-feminism-phenomenological": 0,
+    "sch-scholasticism": 26,
+    "sch-spinozism": 9,
+    "sch-critical-realism": 0,
+    "sch-liberation-psychology": 6,
+    "sch-islamic-peripatetic": 5,
+    "sch-silhak": 2,
+    "sch-neoplatonism": 3,
+    "sch-brahmo-samaj": 1,
+    "sch-kabbalah-lurianic": 3,
+    "sch-confucian-psychology": 5,
+    "sch-post-kyoto": 0,
+    "sch-ashariyya": 20,
+    "sch-latin-averroism": 1,
+    "sch-liberation-philosophy": 5,
+    "sch-african-professional-philosophy": 1,
+    "sch-cft": 9,
+    "sch-confucian-early": 22,
+    "sch-transfeminism": 0,
+    "sch-ajivika": 0,
+    "sch-lixue": 0,
+    "sch-utilitarianism": 17,
+    "sch-transcendent-theosophy": 16,
+    "sch-african-psychology": 13,
+    "sch-british-empiricism": 14,
+    "sch-continental-rationalism": 6,
+    "sch-lebensphilosophie": 0,
+    "sch-comtian-positivism": 1,
+    "sch-yinyang": 0,
+    "sch-kaozheng": 0,
+    "sch-pancasila": 0,
+    "sch-frankfurt-school": 18,
+    "sch-feminism-existential": 3,
+    "sch-akbari": 10,
+    "sch-shramana": 0,
+    "sch-african-decolonial": 3,
+    "sch-afrocentrism": 1,
+    "sch-black-existentialism": 0,
+    "sch-akan": 2,
+    "sch-vietnamese-triple": 0,
+    "sch-adat": 0,
+    "sch-neo-vedanta": 2,
+    "sch-indigenous-philosophy-contemporary": 5,
+    "sch-zen-rinzai": 3,
+    "sch-process-philosophy": 1,
+    "sch-afrofeminism": 1,
+    "sch-personalism-contemporary": 0,
+    "sch-functionalism": 2,
+    "sch-analytic-metaphysics": 20,
+    "sch-hasidic": 3,
+    "sch-intercultural-philosophy": 2,
+    "sch-leibnizianism": 11,
+    "sch-patristics": 9,
+    "sch-byzantine": 2,
+    "sch-haudenosaunee": 0,
+    "sch-phil-science": 42,
+    "sch-absurdism": 4,
+    "sch-vienna-circle": 10,
+    "sch-bon": 0,
+    "sch-eclecticism": 0,
+    "sch-rangaku": 0,
+    "sch-maturidiyya": 8,
+    "sch-ecofeminism": 1,
+    "sch-ooo": 0,
+    "sch-philosophy-of-disability": 4,
+    "sch-cbt": 1,
+    "sch-kagyu": 0,
+    "sch-upanishadic": 3,
+    "sch-marxism": 26,
+    "sch-social-psychology": 44,
+    "sch-pyrrhonism": 9,
+    "sch-motivational-interviewing": 5,
+    "sch-cartesianism": 10,
+    "sch-aristotelianism": 46,
+    "sch-istdp": 8,
+    "sch-conservatism-philosophical": 0,
+    "sch-navayana": 0,
+    "sch-ibadi-kalam": 1,
+    "sch-aedp": 12,
+    "sch-yogacara": 11
+  }
+}

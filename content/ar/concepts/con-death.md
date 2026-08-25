@@ -6,15 +6,21 @@ level: "مبتدئ"
 title: "الموت"
 en: "Death"
 crumb: "المدرسة الوجودية ← المفاهيم ← الموت"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
+
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الموت

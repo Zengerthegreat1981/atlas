@@ -6,14 +6,17 @@ level: "متقدم"
 title: "تحليل الدازاين (Daseinsanalysis)"
 en: "Daseinsanalysis"
 crumb: "الإنسانية ← المفاهيم ← تحليل الدازاين"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "لودفيغ بنسوانغر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "لودفيغ بنسوانغر", target_type: "مفكر"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "dbt-boss-binswanger", title: "بينسوانغر أم بوس؟", type: "جدل"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "dbt-boss-binswanger", title: "بينسوانغر أم بوس؟", type: "جدل"
 gaps:
   - "الفرق التفصيلي بين 'تحليل الدازاين' (بنسوانغر) و'التحليل الوجودي' (بوس) يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من بنسوانغر أو بوس بعد."

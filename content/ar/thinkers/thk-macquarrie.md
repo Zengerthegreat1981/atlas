@@ -11,13 +11,14 @@ active_start: 1955
 active_end: 1972
 country: "بريطانيا / اسكتلندا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
-  - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
+- id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "ترجمته المرجعية لكتاب 'الوجود والزمان' مع إدوارد روبنسون (1962) تمثل حدثاً فلسفياً محورياً في العالم الأنجلوفوني."

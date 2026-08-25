@@ -8,9 +8,13 @@ en: "Ebbinghaus's Memory and Forgetting Curve Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب إبنغهاوس في الذاكرة والنسيان"
 active_start: 1880
 active_end: 1885
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-bartlett", title: "فريدريك بارتليت", type: "مفكر"
+- id: "con-memory", title: "الذاكرة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "إعادة التحقق الرياضي الحديث لدراسات إبنغهاوس بواسطة Murre & Dros (2015) أثبتت دقة منحناه وتتطلب توثيقاً"
   - "التطبيقات التعليمية لخوارزميات التكرار المتباعد (Spaced Repetition) الحديثة مثل SuperMemo وAnki تحتاج ربطاً"

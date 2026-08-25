@@ -11,11 +11,12 @@ dates: "بنسلفانيا · 2006"
 active_start: 2006
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-  - id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
 gaps:
   - "البروتوكول المعياري المكوّن من 14 جلسة لتاياب راشد ومارتن سليغمان (Tayyab Rashid & Martin Seligman)."
   - "تمارين التدخل الإيجابي الموجهة للأعراض الاكتئابية: خطاب الامتنان، استخدام القوى المميزة، وتدوين الأشياء الثلاثة الجيدة يومياً."

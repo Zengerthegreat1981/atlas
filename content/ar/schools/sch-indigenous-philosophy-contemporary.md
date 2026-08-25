@@ -13,13 +13,17 @@ language: "متعددة"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفات السكان الأصليين", target_type: "مظلة"
+- rel: "belongs_to", target: "فلسفات السكان الأصليين", target_type: "مظلة"
 related:
-  - id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
-  - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
-  - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
+- id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
+- id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
+- id: "con-two-eyed-seeing", title: "الرؤية بعينين", type: "مفهوم"
+- id: "con-land-based-healing", title: "الشفاء القائم على الأرض", type: "مفهوم"
+- id: "wrk-braiding-sweetgrass", title: "ضفائر العشب الحلو (Braiding Sweetgrass)", type: "عمل / كتاب"
 gaps:
   - "نصوص Vine Deloria Jr., Linda Tuhiwai Smith, Rauna Kuokkanen, Max Charlesworth, Aileen Moreton-Robinson need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)

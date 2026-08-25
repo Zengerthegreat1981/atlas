@@ -13,14 +13,14 @@ language: "التبتية"
 active_start: 1150
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فاجرايانا / البوذية التانترية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vajrayana", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-  - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-  - id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
-  - id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
 gaps:
   - "نصوص Dolpopa Sherab Gyaltsen (Mountain Dharma، Zhönnang Kā-lān) تحتاج مراجعة من المصدر الأولي."
   - "الوضع الحالي لـ Jonang في التبت بعد حظر القرن 17 يستحق بحثاً مستقلاً."

@@ -9,10 +9,12 @@ en: "Kahneman & Tversky's Heuristics and Biases Study (Science 1974)"
 crumb: "علم النفس المعرفي والاقتصاد السلوكي ← الدراسات والأبحاث ← دراسة كانمان وتفيرسكي للحدس"
 active_start: 1971
 active_end: 1974
-edges: []
+edges:
+  []
 related:
-  - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "con-confirmation-bias", title: "انحياز التأكيد", type: "مفهوم"
+- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 gaps:
   - "ورقة مجلة Science الكلاسيكية 'Judgment under Uncertainty: Heuristics and Biases'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

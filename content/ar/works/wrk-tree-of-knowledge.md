@@ -10,13 +10,17 @@ dates: "1987 · هومبرتو ماتورانا وفرانسيسكو فاريل�
 language: "الإنجليزية"
 active_start: 1987
 active_end: 1987
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
-  - rel: "authored_by", target: "هومبرتو ماتورانا", target_type: "مفكر"
-  - rel: "authored_by", target: "فرانسيسكو فاريلا", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
+- rel: "authored_by", target: "هومبرتو ماتورانا", target_type: "مفكر"
+- rel: "authored_by", target: "thk-varela", target_type: "مفكر"
 related:
-  - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
-  - id: "wrk-goldstein-organism", title: "الكائن الحي (The Organism)", type: "عمل / كتاب"
+- id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
+- id: "wrk-goldstein-organism", title: "الكائن الحي (The Organism)", type: "عمل / كتاب"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Shambhala) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

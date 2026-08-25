@@ -11,13 +11,15 @@ active_start: 2009
 active_end: 2020
 country: "ألمانيا / النمسا"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
-  - id: "ins-mlq", title: "استبيان المعنى في الحياة (MLQ)", type: "أداة قياس"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
+- id: "ins-mlq", title: "استبيان المعنى في الحياة (MLQ)", type: "أداة قياس"
+- id: "ins-sources-of-meaning-some", title: "استبيان مصادر المعنى (SoMe)", type: "أداة قياس"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "استبيان مصادر المعنى (Sources of Meaning - SoMe) يستحق إدراجاً في أدوات القياس (ins-)."

@@ -13,14 +13,16 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1949
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الوجودية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "النسوية الراديكالية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
 related:
-  - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-  - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-  - id: "sch-feminism-phenomenological", title: "النسوية الظاهراتية", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "sch-feminism-phenomenological", title: "النسوية الظاهراتية", type: "مدرسة"
+- id: "wrk-second-sex", title: "الجنس الثاني (Le Deuxième Sexe, 1949)", type: "عمل / كتاب"
 gaps:
   - "نصوص Beauvoir, Young, Lukačs, Bartky تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النسوية الوجودية (Existentialist Feminism)

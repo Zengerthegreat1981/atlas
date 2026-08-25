@@ -12,20 +12,17 @@ active_end: 180
 country: "الإمبراطورية الرومانية / اليونان الهيلينستية"
 language: "اليونانية / اللاتينية"
 edges:
-  - rel: "relates_to", target: "sch-stoicism", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-stoicism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-  - id: "thk-stoics", title: "الرواقيون (سينيكا وإبيكتيتوس)", type: "مفكر"
-  - id: "con-dichotomy-of-control", title: "ثنائية التحكم", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "rel-stoicism-cbt", title: "الرواقية والعلاج المعرفي السلوكي", type: "علاقة بين مدرستين"
+- id: "thk-stoics", title: "الرواقيون (سينيكا وإبيكتيتوس)", type: "مفكر"
+- id: "con-dichotomy-of-control", title: "ثنائية التحكم", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "rel-stoicism-cbt", title: "الرواقية والعلاج المعرفي السلوكي", type: "علاقة بين مدرستين"
 gaps:
   - "الفجوة بين الرواقية الكلاسيكية (زينون، كرنيسيدس) ورواقية الإمبراطورية (سينيكا، إبيكتيتوس، ماركس أوريليوس) تحتاج تفصيلاً زمنياً أدق."
   - "لا توجد اقتباسات مباشرة موثقة من المصادر اليونانية الأصلية في هذا الملف."
   - "العلاقة بين الرواقية والعلاج المعرفي السلوكي (rel-stoicism-cbt) متاحة كعنصر شبكة، لكن الربط النصي هنا وصفي فقط."
-
-## أفكار روابط لم تُتحقق
-
 - **con-amor-fati** (حب القَدَر): مفهوم نيتشوي قريب روحياً، لكن غير موجود كعنصر مستقل في الفهرس الحالي.
 ---
 

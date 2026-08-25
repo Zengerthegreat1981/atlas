@@ -11,10 +11,11 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
 related:
-  - id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
+- id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

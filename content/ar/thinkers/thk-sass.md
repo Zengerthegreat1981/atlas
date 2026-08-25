@@ -8,17 +8,18 @@ en: "Louis A. Sass"
 crumb: "المدرسة الوجودية ← الناس ← لويس ساس"
 dates: "أمريكا · 1955–"
 active_start: 1992
-active_end: 1994
+active_end: "مستمر"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مقياس EASE لفحص الخبرة الشاذة للذات يتطلب إدراجاً في أدوات القياس (ins-)."

@@ -8,9 +8,11 @@ en: "Sperling's Partial-Report Iconic Memory Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب سبيرلينج للذاكرة الأيقونية"
 active_start: 1960
 active_end: 1960
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "أبحاث نايسر (Ulric Neisser) عام 1967 التي صاغت مصطلح الذاكرة الأيقونية والصدوية تحتاج مقارنة مفصلة"
   - "التطبيقات العصبية في المعالجة البصرية الأولية في القشرة V1 تتطلب توثيقاً من العلوم العصبية"

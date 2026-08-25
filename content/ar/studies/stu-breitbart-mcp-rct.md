@@ -6,11 +6,17 @@ level: "متقدم"
 title: "تجربة معشاة لفعالية العلاج المرتكز على المعنى"
 en: "Breitbart et al. Meaning-Centered Psychotherapy RCT"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة معشاة لفعالية العلاج المرتكز على المعنى"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "tec-meaning-centered-psychotherapy", title: "العلاج النفسي المرتكز على المعنى", type: "تقنية/تدخل علاجي"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+- id: "tec-meaning-centered-psychotherapy", title: "العلاج النفسي المرتكز على المعنى", type: "تقنية/تدخل علاجي"
 gaps:
   - "يحتاج تحققاً مباشراً من الورقة الأصلية المحكّمة (حجم العينة الدقيق، سنة النشر، حجم الأثر) قبل الاستشهاد بأي رقم محدد"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تجربة معشاة لفعالية العلاج المرتكز على المعنى

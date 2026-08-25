@@ -12,10 +12,13 @@ language: "الفرنسية"
 active_start: 1949
 active_end: 1949
 edges:
-  - rel: "belongs_to", target: "النسوية الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-existential", target_type: "مدرسة"
 related:
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-  - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
+- id: "exp-beauvoir-discovery-of-otherness", title: "تجربة سيمون دي بوفوار واكتشاف الآخرية وتأليف الجنس الثاني", type: "خبرة معيشة"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "النص الأصلي Le Deuxième Sexe (1949) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

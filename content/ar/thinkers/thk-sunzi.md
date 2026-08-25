@@ -14,13 +14,15 @@ active_start: -512
 active_end: -470
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "المدرسة العسكرية الصينية", target_type: "مدرسة"
+- rel: "belongs_to", target: "المدرسة العسكرية الصينية (Bingjia)", target_type: "مدرسة"
 related:
-  - id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
-  - id: "wrk-artofwar", title: "فن الحرب (سون تزو)", type: "عمل / كتاب"
+- id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
+- id: "wrk-artofwar", title: "فن الحرب (سون تزو)", type: "عمل / كتاب"
+- id: "thk-feng-youlan", title: "فِنغ يو-لان", type: "مفكر"
 gaps:
   - "وجود سون تزو التاريخي موضع خلاف. بعض الأكاديميين يرون أن 'فن الحرب' كُتب في القرن 4 ق.م لا القرن 6 ق.م."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "هوية الملف: الـslug `thk-sunzi` يشير إلى Sunzi (Sun Wu, Master Sun). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # سون تزو (سون وو 孫武، نحو 545–470 ق.م)

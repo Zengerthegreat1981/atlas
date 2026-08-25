@@ -13,13 +13,14 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1945
 active_end: 1990
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
-  - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
-  - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
+- id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
+- id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:
   - "نصوص Placide Tempels (Bantu Philosophy, 1945) وMbiti وp'Bitek تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإثنوفلسفة (Ethnophilosophy)

@@ -11,13 +11,14 @@ active_start: 2010
 active_end: 2010
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
-  - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
+- id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "برامج التدريب على العلاج الوجودي-التكاملي (Existential-Integrative Therapy) تستحق إدراجاً في التيارات والتقنيات."

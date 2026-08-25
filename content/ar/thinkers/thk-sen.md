@@ -7,18 +7,19 @@ level: "متقدم"
 title: "أمارتيا سين"
 en: "Amartya Sen"
 crumb: "الفلسفة السياسية المعاصرة ← الكوزموبوليتية/الليبرالية ← أمارتيا سين"
-dates: "الهند/بريطانيا/الولايات المتحدة · 1933–2025"
+dates: "الهند/بريطانيا/الولايات المتحدة · 1933–2024"
 country: "الولايات المتحدة/بريطانيا"
 language: "الإنجليزية/البنغالية"
 active_start: 1970
 active_end: 2024
 edges:
-  - rel: "belongs_to", target: "الكوزموبوليتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الكوزموبوليتية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
-  - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
-  - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-  - id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
+- id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
+- id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-rawls", title: "جون رولز", type: "مفكر"
+- id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
+- id: "dbt-cosmopolitanism-vs-nationalism", title: "جدل الكوزموبوليتية مقابل القومية", type: "جدل"
 gaps:
   - "نص The Idea of Justice (2009) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

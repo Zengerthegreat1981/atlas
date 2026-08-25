@@ -11,18 +11,27 @@ country: "جنوب أفريقيا"
 language: "إنجليزية"
 active_start: 2005
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإسلامي/العلاج النفسي الصوفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإسلامي/العلاج النفسي الصوفي", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-anajam", title: "عادل نجّام", type: "مفكر"
+- id: "thk-hkoprulu", title: "حازم قبرلو (حازم كوبرولو)", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: عادل نجّام (thk-anajam)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: حازم قبرلو (حازم كوبرولو) (thk-hkoprulu)."
 ---
 
 # سعدية شيخ
 
 أكاديمية جنوب أفريقية من أصل هندي، أستاذة في جامعة كيب تاون. من أهم منظّري **الصوفية النسوية ودراسات الإسلام المعاصر**.
 
-## ما أعطت
+## ما أعطته
 
 - **«Sufi Narratives of Intimacy: Ibn al-Arabi, Rumi, and Gender»** (UNC, 2012): تحليل صوفي للنفس والجسد.
 - **إعادة قراءة ابن عربي والرومي** لصالح علم نفس ديني إنساني.

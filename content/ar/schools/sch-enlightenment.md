@@ -13,14 +13,15 @@ language: "الإنجليزية، الفرنسية، الألمانية، اله
 active_start: 1680
 active_end: 1815
 edges:
-  - rel: "evolved_from", target: "التجريبية البريطانية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "العقلانية القارية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-british-empiricism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-continental-rationalism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-  - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
-  - id: "sch-deism", title: "الربوبية", type: "مدرسة"
-  - id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-deism", title: "الربوبية", type: "مدرسة"
+- id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
+- id: "thk-montesquieu", title: "مونتسكيو", type: "مفكر"
 gaps:
   - "التمييز بين 'التنوير' (كحركة تاريخية) و'التنويرية' (كموقف فلسفي) معقّد."
   - "نصوص فولتير وديدرو وروسو بالفرنسية تحتاج مراجعة من المصدر الأولي."

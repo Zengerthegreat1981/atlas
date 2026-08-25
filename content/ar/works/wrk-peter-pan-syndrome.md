@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1983
 active_end: 1983
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والإرشاد الأسري", target_type: "مدرسة"
-  - rel: "written_by", target: "دان كايلي", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والإرشاد الأسري", target_type: "مدرسة"
+- rel: "written_by", target: "thk-dan-kiley", target_type: "مفكر"
 related:
-  - id: "thk-dan-kiley", title: "دان كايلي", type: "مفكر"
+- id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان (عدم النضج والهروب من المسؤولية)", type: "مفهوم"
+- id: "thk-dan-kiley", title: "دان كايلي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

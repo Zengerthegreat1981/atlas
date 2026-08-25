@@ -8,11 +8,13 @@ en: "Taijin Kyofusho (対人恐怖症)"
 crumb: "أطر غير غربية ← الاضطرابات ← تاي جين كيو فوشو"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الطب النفسي الثقافي الياباني", target_type: "مدرسة"
+- rel: "belongs_to", target: "الطب النفسي الثقافي الياباني", target_type: "مدرسة"
 related:
-  - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-  - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
+- id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
+- id: "con-taijin-kyofusho-concept", title: "تاي جين كيو فوشو (مفهوم ثقافي)", type: "مفهوم"
 gaps:
   - "الدراسات المقارنة بين TKS واضطراب القلق الاجتماعي الغربي لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,11 +11,13 @@ dates: "السبعينيات"
 active_start: 1973
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "thk-lazarus", title: "أرنولد لازاروس", type: "مفكر"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
 gaps:
   - "نموذج BASIC I.D. الشامل لأرنولد لازاروس (Behavior, Affect, Sensation, Imagery, Cognition, Interpersonal, Drugs/Biology)."
   - "مفهوم 'الانتقائية الفنية' (Technical Eclecticism) مقابل التكامل النظري الهجين."

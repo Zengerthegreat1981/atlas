@@ -9,12 +9,15 @@ crumb: "السلوكية (Behaviorism) ← الناس ← بيل ل. هوپكن�
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
-  - id: "thk-mwolf", title: "مونتروز م. وولف", type: "مفكر"
-  - id: "thk-sbijou", title: "سيدني و. بيجو", type: "مفكر"
+- id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
+- id: "thk-mwolf", title: "مونتروز م. وولف", type: "مفكر"
+- id: "thk-sbijou", title: "سيدني و. بيجو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -26,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-من بين مُؤسِّسي «برامج تعديل السلوك» في جامعة واشنطن (1950s–60s)، مع Baer و Wolf و Risley و Bijou و Sherman. ركَّز على «تطبيق EAB على المؤسسات» (المستشفيات، السجون، مدارس الأحداث)، وهو المجال الذي أَطلقَ Baer عام 1968.
+من بين مُؤسِّسي «برامج تعديل السلوك» في جامعة واشنطن (الخمسينيات والستينيات من القرن العشرين)، مع Baer وWolf وRisley وBijou وSherman. ركَّز على «تطبيق EAB على المؤسسات» (المستشفيات، السجون، مدارس الأحداث)، وهو المجال الذي أطلقه باير عام 1968.
 
 ## موقعه من التيار
 

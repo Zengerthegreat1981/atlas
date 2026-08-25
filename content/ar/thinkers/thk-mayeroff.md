@@ -11,14 +11,15 @@ active_start: 1971
 active_end: 1971
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'عن الرعاية' (On Caring) يستحق إفراد عنصر كمفهوم مركزي في أخلاقيات العلاج الوجودي."

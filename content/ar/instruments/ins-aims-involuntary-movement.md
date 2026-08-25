@@ -9,10 +9,11 @@ en: "Abnormal Involuntary Movement Scale (AIMS)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس الحركات اللاإرادية غير الطبيعية"
 active_start: 1976
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر", type: "متلازمة"
-  - id: "syn-rabbit-syndrome", title: "متلازمة الأرنب", type: "متلازمة"
+- id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر", type: "متلازمة"
+- id: "syn-rabbit-syndrome", title: "متلازمة الأرنب", type: "متلازمة"
 gaps:
   - "تطوير المعهد الوطني للصحة النفسية الأمريكي (NIMH / William Guy 1976) للكشف المبكر عن خلل الحركة المتأخر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

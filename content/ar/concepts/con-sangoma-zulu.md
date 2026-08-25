@@ -8,10 +8,14 @@ en: "Sangoma (Zulu Traditional Healing)"
 crumb: "أطر غير غربية ← المفاهيم ← السانغوما"
 active_start: 1500
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الطب التقليدي الأفريقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الطب التقليدي الأفريقي", target_type: "مدرسة"
 related:
-  - id: "con-ubuntu", title: "أوبونتو", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "con-ubuntu", title: "أوبونتو", type: "مفهوم"
 gaps:
   - "الأسماء الرئيسية للسانغوما المعاصرين (من القرن العشرين) لم تُكتب مسودات."
   - "لا يوجد اقتباس مباشر موثوق متاح."

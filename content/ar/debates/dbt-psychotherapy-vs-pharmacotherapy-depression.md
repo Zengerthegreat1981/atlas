@@ -8,12 +8,14 @@ en: "Psychotherapy vs. Pharmacotherapy Debate for Major Depressive Disorder"
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← جدل العلاج النفسي مقابل الدواء للاكتئاب"
 active_start: 1980
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب - الإصدار الثاني", type: "أداة قياس"
-  - id: "ins-ham-d", title: "مقياس هاملتون لتقييم الاكتئاب", type: "أداة قياس"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب - الإصدار الثاني", type: "أداة قياس"
+- id: "ins-ham-d", title: "مقياس هاملتون لتقييم الاكتئاب", type: "أداة قياس"
 gaps:
   - "التحليل التلوي لإيرفينغ كيرش (Kirsch et al., 2008) حول أثر الدواء الوهمي (Placebo Effect) في مضادات الاكتئاب SSRIs يحتاج توثيقاً"
   - "مقارنة فاعلية العلاج المعرفي السلوكي (CBT) بالعلاج النفسي الديناميكي قصير المدى (STPP) تتطلب استعراضاً للأدبيات"

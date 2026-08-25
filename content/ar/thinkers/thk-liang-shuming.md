@@ -14,10 +14,10 @@ active_start: 1917
 active_end: 1988
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية الجديدة الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", target_type: "مدرسة"
 related:
-  - id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
-  - id: "thk-mou-zongsan", title: "مو تسونغ سان", type: "مفكر"
+- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
+- id: "thk-mou-zongsan", title: "مو تسونغ سان", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«شيونغ شي لي» (thk-xiong-shili) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التفاصيل الدقيقة لـ'تجربة الإصلاح الريفي' في «Zouping» و«Heguan» لم تُراجع هنا."

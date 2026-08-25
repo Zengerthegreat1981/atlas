@@ -13,10 +13,13 @@ active_start: -400
 active_end: -200
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "هوانغ-لاو", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-huang-lao", target_type: "مدرسة"
 related:
-  - id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
-  - id: "con-wuwei-huanglao", title: "الوو وي السياسي (عدم الفعل الإداري) في هوانغ-لاو", type: "مفهوم"
+- id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "con-wuwei-huanglao", title: "الوو وي السياسي (عدم الفعل الإداري) في هوانغ-لاو", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفصل بين النصوص 'الأصلية' و'اللاحقة' في مجموعة Mawangdui لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

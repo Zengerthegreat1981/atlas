@@ -9,10 +9,11 @@ en: "Robert Cialdini's Door-in-the-Face Technique Experiment"
 crumb: "علم النفس الاجتماعي والإقناع ← الدراسات والأبحاث ← تجربة تشالديني لتقنية الباب في الوجه"
 active_start: 1975
 active_end: 1975
-edges: []
+edges:
+  []
 related:
-  - id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
-  - id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
+- id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
+- id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
 gaps:
   - "طلب التطوع لمدة عامين مع الأحداث الجانحين متبوعاً بطلب مرافقة ليوم واحد لحديقة الحيوان."
   - "لا يوجد اقتباس مباشر موثوق متاح."

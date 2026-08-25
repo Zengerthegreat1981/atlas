@@ -8,10 +8,15 @@ en: "Harm of Conversion Therapy"
 crumb: "حركات مثيرة للجدل ← المفاهيم ← ضرر العلاج بالتحويل"
 active_start: 2009
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالتحويل (Conversion Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-conversion-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
+- id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل: مفيد أم ضار؟", type: "جدل"
+- id: "br-conversion-therapy", title: "العلاج بالتحويل (Reparative Therapy)", type: "تيار"
+- id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الآليات النفسية العصبية المحددة للضرر (مثل العلاقة بين الندم الجنسي والاكتئاب) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

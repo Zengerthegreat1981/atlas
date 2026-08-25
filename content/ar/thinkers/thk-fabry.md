@@ -11,12 +11,13 @@ active_start: 1968
 active_end: 1995
 country: "النمسا / أمريكا"
 language: "الإنجليزية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره في تأسيس معهد فيكتور فرانكل للعلاج بالمعنى في كاليفورنيا يستحق إبرازاً."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-السعي وراء المعنى: العلاج بالمعنى المطبق في الحياة (The Pursuit of Meaning, 1968) · دليل العلاج بالمعنى (Finding Meaning in All Things, 1995).
+السعي وراء المعنى: العلاج بالمعنى مطبَّقاً في الحياة (The Pursuit of Meaning, 1968) · معالم إلى المعنى (Guideposts to Meaning: Discovering What Really Matters, 1988) · تحرير The International Forum for Logotherapy منذ تأسيسها.

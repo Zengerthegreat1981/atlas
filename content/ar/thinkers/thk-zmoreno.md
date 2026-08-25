@@ -10,13 +10,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1941
 active_end: 2016
+part: "psychology"
+crumb: "الأطلس ← thinkers ← زيركا مورينو"
 edges:
-  - rel: "belongs_to", target: "علاج الدراما", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج الدراما", target_type: "مدرسة"
 related:
-  - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
-  - id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
+- id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
+- id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
+- id: "thk-aboal", title: "أوغوستو بوال", type: "مفكر"
+- id: "thk-pslade", title: "بيتر سليد", type: "مفكر"
+- id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # زيركا مورينو

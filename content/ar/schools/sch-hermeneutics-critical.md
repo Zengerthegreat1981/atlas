@@ -13,12 +13,13 @@ language: "الألمانية، الفرنسية، الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الهرمنيوطيقا الفلسفية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "مدرسة فرانكفورت", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-frankfurt-school", target_type: "مدرسة"
 related:
-  - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
-  - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
-  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "thk-oapel", title: "كارل-أوتو آبل", type: "مفكر"
 gaps:
   - "العلاقة مع نظرية الفعل التواصلي (هابرماس، 1981) تُعتبر أحيانًا استمرارًا لمدرسة فرانكفورت، وأحيانًا ولادة هرمنيوطيقا نقدية مستقلة. غير محسوم."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

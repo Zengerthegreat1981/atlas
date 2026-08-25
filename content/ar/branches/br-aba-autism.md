@@ -10,15 +10,19 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1960
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
 related:
-  - id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
+- id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
+- id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
+- id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ Lovaas's UCLA Young Autism Project يستحق توثيقاً."
   - "الجدل الأخلاقي مع neurodiversity movement لم يُراجع مصادره."
 ---
-
 # تحليل السلوك التطبيقي للتوحد (ABA)
 
 حقل علاجي قائم على مبادئ السلوكية (Skinner، Baer، Wolf، Risley، 1968)، يطبّق تقنيات تعلّم منظَّمة لتحسين السلوك الاجتماعي والتواصلي لدى الأطفال التوحديين. أسّسه بشكل رئيسي **إيفار لوفاس** (Ivar Lovaas, 1927-2010) في UCLA في الستينيات.

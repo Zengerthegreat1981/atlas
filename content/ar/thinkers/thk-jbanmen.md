@@ -6,15 +6,16 @@ level: "متوسط"
 title: "جون بانمن"
 en: "John Banmen"
 crumb: "نموذج ساتير للنمو ← الجيل الثاني ← جون بانمن"
-dates: "كندا · القرن العشرين"
+dates: "كندا · 1936–"
 country: "كندا"
 language: "إنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "نموذج ساتير للنمو", target_type: "مدرسة"
+- rel: "belongs_to", target: "نموذج ساتير للنمو", target_type: "مدرسة"
 related:
-  - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
+- id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -28,7 +29,7 @@ gaps:
 
 - **"Satir Growth Model"**: نظام تعليمي للعلاج الأسري في إطار ساتير.
 - **"Satir in One Page"**: أداة مختصرة لمقاربة ساتير في التدريب.
-- **كتب محرر عنها**: *The Satir Model: Family Therapy and Beyond* (2007، مع V. Satir وG. Banmen).
+- **تدوين النموذج بعد ساتير**: كانت ساتير معلّمة شفوية بالدرجة الأولى، وعملها موزّع على ورش وتسجيلات؛ وبانمن هو من جمعه في بنية واحدة — «جبل الجليد» (المشاعر عن المشاعر، والتوقّعات، والتوق، والذات)، وأنماط المواجهة الأربعة (الاسترضاء، واللوم، والحساب المفرط، والتشتيت)، ومسار «التحوّل» — فصار قابلاً للتدريس والتقويم.
 - **دور مركزي في "Avanta Network"** بعد وفاة ساتير.
 
 ## موقعه من التيار
@@ -37,8 +38,8 @@ gaps:
 
 ## أهم أعماله
 
-- *The Satir Model: Family Therapy and Beyond* (2007، مع V. Satir وG. Banmen).
-- "Application of the Satir Model in Cross-Cultural Contexts" (2010، مع Gerber).
+- *The Satir Model: Family Therapy and Beyond* (1991، مع ڤيرجينيا ساتير وجين غيربر وماريا غوموري) — الكتاب الذي صدر بعد وفاة ساتير بثلاث سنوات وحوّل عملها الشفوي إلى نموذج مكتوب قابل للتدريس.
+- *Satir Transformational Systemic Therapy* (2008، تحرير).
 
 ## قيد
 

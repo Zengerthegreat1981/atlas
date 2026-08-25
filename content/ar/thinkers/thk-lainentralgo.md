@@ -11,13 +11,14 @@ active_start: 1957
 active_end: 1989
 country: "إسبانيا"
 language: "الإسبانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'العلاقة بين الطبيب والمريض' والأنثروبولوجيا الطبية للأمل واللقاء يستحقان توثيقاً."

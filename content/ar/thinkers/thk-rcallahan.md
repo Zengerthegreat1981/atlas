@@ -11,12 +11,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2013
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
 related:
+- id: "thk-dchurch", title: "داوسون تشيرش", type: "مفكر"
+- id: "thk-dfeinstein", title: "ديفيد فاينشتاين", type: "مفكر"
+- id: "thk-gcraig", title: "غاري كريغ", type: "مفكر"
+- id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"
 gaps:
   - "أسس TFT النظرية (نظرية الحقول الفكرية) لم تُختبَر تجريبياً بشكل محايد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كولين غاريت (thk-cgarrett)."
 ---
 
 # روجر كالاهان

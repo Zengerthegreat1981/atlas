@@ -11,20 +11,21 @@ active_start: 1951
 active_end: 1975
 country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
+- id: "ctx-nazi-totalitarianism-shoah", title: "الشمولية النازية والمحرقة والانهيار الأخلاقي للحضارة الغربية", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "كتاب 'الوضع البشري' (The Human Condition, 1958) ومفهوم 'الولادة/البدء الجديد' (Natality) والتعددية يستحق إدراجاً في الأعمال."
+  - "مفهوم 'الولادة/البدء الجديد' (Natality) والتعددية يستحقان عنصراً مفاهيمياً مستقلاً (con-)."
 ---
-
 # حنة آرندت
 
 فيلسوفة ومنظّرة سياسية وظاهراتية ألمانية-أمريكية كبرى، تلميذة مارتن هايدجر وكارل ياسبرز، مؤلفة العمل الخالد «الوضع البشري» (The Human Condition) ونظرية «تفاهة الشر».

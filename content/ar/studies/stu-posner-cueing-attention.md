@@ -9,10 +9,12 @@ en: "Michael Posner's Spatial Cueing Paradigm"
 crumb: "علم النفس العصبي المعرفي والانتباه ← الدراسات والأبحاث ← مهمة بوسنر لتوجيه الانتباه"
 active_start: 1978
 active_end: 1980
-edges: []
+edges:
+  []
 related:
-  - id: "thk-amishi-jha", title: "أميشي جها", type: "مفكر"
-  - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
+- id: "con-attention", title: "الانتباه", type: "مفهوم"
+- id: "thk-amishi-jha", title: "أميشي جها", type: "مفكر"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التمييز بين التوجيه الخارجي التلقائي (Exogenous) والتوجيه الداخلي الإرادي (Endogenous)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

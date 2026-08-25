@@ -10,10 +10,12 @@ country: "الأرجنتين"
 language: "الإسبانية"
 active_start: 1965
 active_end: 2021
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← رولاندو بنِنسون"
 edges:
-  - rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
 related:
-  - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
+- id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق لم يُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

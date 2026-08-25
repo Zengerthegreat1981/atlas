@@ -11,15 +11,19 @@ active_start: 1889
 active_end: 1932
 language: "الفرنسية"
 country: "فرنسا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-  - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "wrk-matter-and-memory-bergson", title: "المادة والذاكرة (Matière et Mémoire) - برغسون", type: "عمل / كتاب"
+- id: "wrk-time-and-free-will-bergson", title: "مقالة في المعطيات الفورية للوعي (Essai sur les données immédiates de la conscience) - برغسون", type: "عمل / كتاب"
 gaps:
   - "علاقته بهوسرل وهايدجر (حوار نقدي غير مباشر حول الزمن) غير مفصّلة هنا بعد."
   - "حائز جائزة نوبل في الآداب 1927 — التفاصيل الدقيقة لسياق الجائزة لم تُراجع من مصدر أولي."
+  - "دُمج معه الملف المكرَّر thk-henri-bergson (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # هنري برغسون
@@ -40,7 +44,7 @@ gaps:
 
 ## أهم أعماله
 
-بحث في المعطيات المباشرة للوعي (Essai sur les données immédiates de la conscience, 1889) · المادة والذاكرة (Matière et mémoire, 1896) · التطور الخلّاق (L'Évolution créatrice, 1907) · المصدران للأخلاق والدين (Les Deux Sources de la morale et de la religion, 1932)
+بحث في المعطيات المباشرة للوعي (Essai sur les données immédiates de la conscience, 1889) · المادة والذاكرة (Matière et mémoire, 1896) · التطور الخلّاق (L'Évolution créatrice, 1907) · منبعا الأخلاق والدين (Les Deux Sources de la morale et de la religion, 1932)
 
 ## اقتباسات مختارة
 

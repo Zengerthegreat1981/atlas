@@ -1,0 +1,41 @@
+---
+slug: "con-aedp-emotion"
+id: "CON-1264"
+type: "مفهوم"
+part: "psychology"
+level: "متوسط"
+title: "الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ"
+en: "Adaptive Emotions in AEDP: Healthy Anger, Grief, Shame"
+crumb: "AEDP ← المفاهيم ← العواطف التكيفية"
+active_start: 2002
+active_end: "مستمر"
+edges:
+- rel: "relates_to", target: "sch-aedp", target_type: "مدرسة"
+related:
+- id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
+- id: "con-aedp-transformance", title: "التحولية في AEDP", type: "مفهوم"
+- id: "con-metatherapeutic-processing-aedp", title: "المعالجة الفوقية في AEDP", type: "مفهوم"
+- id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية/تدخل علاجي"
+- id: "tec-aedp-relational-reflectiveness", title: "الانعكاسية العلائقية (Relational Reflectiveness) في AEDP", type: "تقنية/تدخل علاجي"
+- id: "br-aedp-applied", title: "AEDP التطبيقي: علاج الصدمات المعقدة في العيادات", type: "تيار"
+gaps:
+- "لم تُراجع من نسخة أصلية مباشرة بعد (Fosha, 2002)."
+- "لا يوجد اقتباس مباشر موثوق متاح."
+- "الفرق بين العواطف التكيفية في AEDP والـ constructive emotions في علم النفس الإيجابي يحتاج فصلاً."
+---
+
+# الْعَوَاطِف التَّكَيُّفِيَّة فِي AEDP
+
+AEDP تُؤَكِّد أَنّ الْمَرِيض لَدَيْه «**مَصْدَر**» (Source) «**عَوَاطِف صَحِيَّة**» (Healthy Emotions) «**تَكَيُّفِيَّة**» (Adaptive) — «**غَضَب صَحِيّ**» (Healthy Anger) لَو حَقّ مَظْلُوم، «**حُزْن صَحِيّ**» (Healthy Grief) لِـ**«**فَقْد**»، «**خَجَل صَحِيّ**» (Healthy Shame) لِـ**«**خَطَأ**» أَخْلَاقِيّ. هَذِهِ الْعَوَاطِف «**لَا**» (Not) «**أَعْرَاض**» (Symptoms) «**مَرَض**» (Pathology) بَل «**قُوَّات**» (Strengths) «**صَحِّيَّة**» (Healthy) «**تَسْتَطِيع**» (Can) «**أَن تَسْتَجِيب**» (Respond) لِـ**«**حَاجَات**» (Needs) مَسْلُوبَة.
+
+## الْأَنْوَاع
+
+(1) **الْغَضَب الصَّحِيّ** (Healthy Anger): «**غَضَب**» لَو «**حَقّ**» (Right) «**مَسْلُوب**» (Violated) — «**دِفَاع**» (Defense) «**صَحِيّ**» عَن «**الذَّات**» (Self). (2) **الْحُزْن الصَّحِيّ** (Healthy Grief): «**حُزْن**» لَو «**فَقْد**» (Loss) — «**إِعَادَة تَنْظِيم**» (Reorganization) «**عَلَاقَات**» (Relationships). (3) **الْخَجَل الصَّحِيّ** (Healthy Shame): «**خَجَل**» لَو «**خَطَأ**» (Mistake) أَخْلَاقِيّ — «**إِشَارَة**» (Signal) «**تَوَاضُع**» (Humility). (4) **الِاِسْتِحْيَاء الصَّحِيّ** (Healthy Embarrassment): «**اِسْتِحْيَاء**» (Embarrassment) لَو «**تَعَرُّض**» (Exposure) لِـ**«**اِنْتِبَاه**» (Attention) الْجَمَاعِيّ. (5) **الْفَرَح الصَّحِيّ** (Healthy Joy): «**فَرَح**» (Joy) بِـ**«**إِنْجَاز**» (Achievement) أَو «**اتِّصَال**» (Connection).
+
+## فِي الْعِلَاج
+
+(1) **التَّعَرُّف** (Recognition): تَعَرُّف الْمَرِيض عَلَى الْعَوَاطِف التَّكَيُّفِيَّة — «**يَوْمًا مَا**» (Once Upon a Time) كَانَ يَسْتَطِيع «**غَضَب**» (Anger) «**صَحِيّ**» (Healthy). (2) **الِانْخِرَاط** (Engagement): تَشْجِيع الْمَرِيض عَلَى «**تَجْرِيب**» (Experience) الْعَوَاطِف التَّكَيُّفِيَّة فِي الْحَاضِر. (3) **الِاسْتِجَابَة** (Response): الْمُعَالِج يَسْتَجِيب بِـ**«**تَعَاطُف**» (Empathy) و«**تَقْدِير**» (Appreciation) — «**رَأَيْتُ غَضَبَك الصَّحِيّ**».
+
+## نَقْد
+
+(1) **نَقْد تَحْلِيلِيّ** (Analytical، Greenberg، 2002): «**الْعَوَاطِف التَّكَيُّفِيَّة**» (Adaptive Emotions) «**مُسَاء تَفْسِير**» (Over-Interpreted) — كُلّ عَاطِفَة «**تَكَيُّفِيَّة**» (Adaptive) فِي سِيَاق مُعَيَّن. (2) **نَقْد ثَقَافِيّ** (Cultural، 2018): «**الْعَوَاطِف الصَّحِيَّة**» (Healthy Emotions) «**مَفْهُوم غَرْبِيّ**» (Western) — ثَقَافَات أُخْرَى «**تَفْضُل**» (Prefer) «**الْكَظْم**» (Restraint).

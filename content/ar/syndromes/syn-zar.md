@@ -11,10 +11,11 @@ active_start: 1870
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-dissociative-identity", title: "اضطراب الهوية الانشقاقي", type: "اضطراب/حالة إكلينيكية"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-dissociative-identity", title: "اضطراب الهوية الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "syn-ahfa-arabian", title: "متلازمة الأحفاء والصرع الروحي في البادية العربية", type: "متلازمة"
 gaps:
   - "الدراسات الأنثروبولوجية والنفسية المقارنة لطقوس الزار في مصر والسودان والقرن الإفريقي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

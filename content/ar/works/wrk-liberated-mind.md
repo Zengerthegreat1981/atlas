@@ -10,14 +10,15 @@ dates: "2019 · ستيفن هايز"
 language: "الإنجليزية"
 active_start: 2019
 active_end: 2019
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "ستيفن هايز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "ستيفن هايز", target_type: "مفكر"
 related:
-  - id: "con-experiential-avoidance", title: "التجنب التجريبي", type: "مفهوم"
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "con-experiential-avoidance", title: "التجنب التجريبي", type: "مفهوم"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Avery) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

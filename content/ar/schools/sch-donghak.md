@@ -14,11 +14,11 @@ active_start: 1860
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الحركات الكورية الدينية-الفلسفية (مظلة)", target_type: "مظلة"
-  - rel: "evolved_into", target: "تشوندوغيو", target_type: "مظلة"
+- rel: "belongs_to", target: "الحركات الكورية الدينية-الفلسفية (مظلة)", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-donghak", target_type: "مظلة"
 related:
-  - id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
-  - id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
+- id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
+- id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
 gaps:
   - "الفاصل بين دونغهاك الديني وفلسفته السياسية الاجتماعية (خاصة في القرن 19-20) يحتاج تدقيقاً."
   - "لا اقتباس مباشر موثوق من 'يونغ-هيو' (Yeong-gye) متاح في هذه المسودة."

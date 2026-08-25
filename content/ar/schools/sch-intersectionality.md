@@ -13,10 +13,13 @@ language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية السوداء", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-feminism-black", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
+- id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
+- id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
+- id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«النظرية العرقية النقدية» (sch-critical-race-theory) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Crenshaw, Hill Collins, hooks, Brah, Phoenix تحتاج مراجعة من المصدر الأولي."

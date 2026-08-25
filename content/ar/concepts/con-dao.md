@@ -10,12 +10,12 @@ crumb: "الفلسفة ← الصين ← الداووية الفلسفية ← 
 active_start: -600
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الداووية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "thk-laozi", title: "لاو تزو", type: "مفكر"
-  - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
-  - id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل", type: "مفهوم"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
+- id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل", type: "مفهوم"
 gaps:
   - "الفرق بين 'الداو' في 'Dao De Jing' و'Zhuangzi' و'Liji' لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

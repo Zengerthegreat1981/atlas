@@ -8,8 +8,15 @@ en: "Coleman's 'The Adolescent Society' Peer Culture Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة المجتمع المراهق لكولمان"
 active_start: 1961
 active_end: 1961
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تأثير وسائل التواصل الرقمي في تكثيف مجتمع المراهقين المعاصر يحتاج مقارنة سوسيولوجية مع دراسات Danah Boyd"
   - "التغير في معايير المكانة الاجتماعية للفتيان والفتيات يتطلب توثيقاً تاريخياً مقارناً"

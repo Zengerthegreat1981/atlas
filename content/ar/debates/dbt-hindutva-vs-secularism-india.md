@@ -10,10 +10,13 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← جدل العلم
 active_start: 1947
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الهندوسية القومية (هندوتفا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hindutva", target_type: "مدرسة"
 related:
-  - id: "sch-hindutva", title: "الفلسفة الهندوسية القومية (هندوتفا)", type: "مدرسة"
-  - id: "thk-savarkar", title: "فيناياك دامودار سافاركار", type: "مفكر"
+- id: "sch-hindutva", title: "الفلسفة الهندوسية القومية (هندوتفا)", type: "مدرسة"
+- id: "thk-savarkar", title: "فيناياك دامودار سافاركار", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
+- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ كتب Nehru (The Discovery of India) ولا ردود Hindu Nationalism المعاصرة."
   - "لا اقتباس مباشر موثّق في هذا الملف."

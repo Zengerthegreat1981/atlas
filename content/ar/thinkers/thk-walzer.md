@@ -13,11 +13,12 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: 2025
 edges:
-  - rel: "belongs_to", target: "الجمهورية المدنية الجديدة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجمهورية المدنية الجديدة", target_type: "مدرسة"
 related:
-  - id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
-  - id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
-  - id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
+- id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
+- id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
+- id: "con-republican-freedom", title: "الحرية الجمهورية (الحرية كعدم تبع)", type: "مفهوم"
 gaps:
   - "نص Spheres of Justice (1983) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

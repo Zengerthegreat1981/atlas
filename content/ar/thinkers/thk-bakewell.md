@@ -11,15 +11,16 @@ active_start: 2010
 active_end: 2016
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "كتابها 'في مقهى الوجوديين' (At the Existentialist Café, 2016) يمثل مرجعاً تاريخياً معاصراً يستحق إدراجه في الأعمال."

@@ -13,10 +13,13 @@ language: "الصينية"
 active_start: 1921
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marxism", target_type: "مدرسة"
 related:
-  - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
-  - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
+- id: "con-new-democracy", title: "الديمقراطية الجديدة (New Democracy)", type: "مفهوم"
+- id: "wrk-on-contradiction", title: "حول التناقض (On Contradiction)", type: "عمل / كتاب"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
 gaps:
   - "رابط مقترح لـ«حركة المعارضة الكونفوشية في القرن 20» (sch-chinese-traditionalism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Mao Zedong (On Practice, On Contradiction, Little Red Book) need review."

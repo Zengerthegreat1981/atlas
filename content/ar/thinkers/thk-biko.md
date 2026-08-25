@@ -7,18 +7,21 @@ title: "ستيف بيكو"
 en: "Steve Biko"
 crumb: "المدرسة الوجودية ← الناس ← ستيف بيكو"
 dates: "جنوب أفريقيا · 1946–1977"
-active_start: 1978
-active_end: 1978
+active_start: 1946
+active_end: 1977
+active_source: "lifespan"
 country: "جنوب أفريقيا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوم 'الوعي الأسود' (Black Consciousness) كتحرر نفسي ووجودي من الاستعمار الداخلي يستحق إدراجاً."

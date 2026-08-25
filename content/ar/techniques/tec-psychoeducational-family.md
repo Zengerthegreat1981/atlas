@@ -11,11 +11,20 @@ dates: "السبعينيات والثمانينيات"
 active_start: 1980
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-psychosis", title: "العلاج المعرفي السلوكي للذهان (CBTp)", type: "تقنية/تدخل علاجي"
+- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-psychosis", title: "العلاج المعرفي السلوكي للذهان (CBTp)", type: "تقنية/تدخل علاجي"
+- id: "dis-arfid", title: "اضطراب تجنّب/تقييد الطعام (ARFID)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-encopresis", title: "التبرّز اللاإرادي (Encopresis)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-enuresis", title: "التبوّل اللاإرادي (Enuresis)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mild-neurocognitive", title: "اضطراب معرفي عصبي خفيف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-pica", title: "اضطراب أكل المواد غير الغذائية (Pica)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-rumination", title: "اضطراب الاجترار (Rumination Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizoaffective", title: "الفصام العاطفي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophreniform", title: "الفصاماني", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث كارول أندرسون وإيان فالون (Anderson & Falloon) في خفض الانفعال المعبر عنه (Expressed Emotion - EE) في أسر مرضى الفصام والاضطراب الوجداني ثنائي القطب."
   - "خفض معدلات الانتكاس والاستشفاء بنسبة تفوق 50% عند الجمع بين التثقيف الأسري والعلاج الدوائي."

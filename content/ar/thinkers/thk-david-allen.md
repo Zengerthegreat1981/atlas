@@ -14,10 +14,10 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
 related:
-  - id: "wrk-getting-things-done", title: "إنجاز المهام", type: "عمل / كتاب"
-  - id: "con-getting-things-done-gtd", title: "منهجية إنجاز المهام وتفريغ العقل (GTD Methodology)", type: "مفهوم"
+- id: "wrk-getting-things-done", title: "إنجاز المهام", type: "عمل / كتاب"
+- id: "con-getting-things-done-gtd", title: "منهجية إنجاز المهام وتفريغ العقل (GTD Methodology)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

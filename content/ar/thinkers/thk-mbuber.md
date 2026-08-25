@@ -13,13 +13,30 @@ language: "الألمانية"
 active_start: 1902
 active_end: 1965
 edges:
-  - rel: "belongs_to", target: "الوجودية الدينية/المسيحية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية الدينية/المسيحية (Christian Existentialism)", target_type: "مدرسة"
 related:
-  - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
+- id: "thk-madinier", title: "غابرييل مادينييه", type: "مفكر"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "thk-lainentralgo", title: "بيدرو لاين إنترالغو", type: "مفكر"
+- id: "thk-kaufmann", title: "والتر كوفمان", type: "مفكر"
+- id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
+- id: "thk-halling", title: "ستين هالينغ", type: "مفكر"
+- id: "thk-farber", title: "ليزلي فاربر", type: "مفكر"
+- id: "thk-trub", title: "هانس تروب", type: "مفكر"
+- id: "thk-mayeroff", title: "ميلتون مايروف", type: "مفكر"
+- id: "thk-hammarskjold", title: "داغ همرشولد", type: "مفكر"
+- id: "thk-clarkson", title: "بيتروسكا كلاركسون", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
+- id: "tec-five-dimensions-therapeutic-relationship", title: "نموذج الأبعاد الخمسة للعلاقة العلاجية", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لعلاقة بُبَر بالحركة الصهيونية لم تُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'أنا وأنت' (1923)."
+  - "دُمج معه الملف المكرَّر thk-buber (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # مارتن بُبَر (Martin Buber)

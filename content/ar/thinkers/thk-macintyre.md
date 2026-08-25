@@ -13,13 +13,16 @@ language: "الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الجماعاتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجماعاتية", target_type: "مدرسة"
 related:
-  - id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
-  - id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
+- id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
+- id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
+- id: "dbt-liberalism-vs-communitarianism", title: "جدل الليبرالية مقابل الجماعاتية", type: "جدل"
+- id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
 gaps:
   - "نص After Virtue (1981) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "دُمج معه الملف المكرَّر thk-amacintyre (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # ألاسدير ماكنتاير

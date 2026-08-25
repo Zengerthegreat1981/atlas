@@ -11,12 +11,13 @@ active_start: 1972
 active_end: 1991
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أطروحته حول الغموض والمشاركة الفعلية في المجال التحليلي البين-شخصي تحتاج توثيقاً."

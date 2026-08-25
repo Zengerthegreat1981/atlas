@@ -10,13 +10,16 @@ crumb: "المدرسة الوجودية ← الأعمال ← الذات الم
 dates: "1960 · لاينغ"
 active_start: 1960
 active_end: 1960
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "لاينغ", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "لاينغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-laing", title: "لاينغ", type: "مفكر"
-  - id: "dbt-laing", title: "خصومة الذهان", type: "جدل"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "thk-laing", title: "لاينغ", type: "مفكر"
+- id: "dbt-laing", title: "خصومة الذهان", type: "جدل"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

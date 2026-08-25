@@ -8,12 +8,15 @@ en: "Social Learning Theory (Miller-Dollard)"
 crumb: "المعرفية السلوكية ← المفاهيم ← نظرية التعلم الاجتماعي"
 active_start: 1941
 active_end: 1970
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-jdollard", title: "جون دولارد", type: "مفكر"
-  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "thk-jdollard", title: "جون دولارد", type: "مفكر"
+- id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق الدقيق بين نظرية Miller-Dollard الأصلية (1941) ونظرية Bandura المُوسَّعة (1963) — يحتاج تدقيقاً."

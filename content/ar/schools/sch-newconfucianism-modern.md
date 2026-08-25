@@ -14,11 +14,12 @@ active_start: 1920
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية الجديدة (مظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
-  - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
+- id: "thk-akaptchuk", title: "تيد ج. كابتْشُك", type: "مفكر"
 gaps:
   - "نصوص Mou Zongsan وTang Junyi الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "العلاقة بين 'نيوكونفوشية البرّ الرئيسي' و'نيوكونفوشية ما وراء البحار' (Diaspora) ليست محسومة."

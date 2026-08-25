@@ -9,12 +9,15 @@ crumb: "التحليل النفسي ← الناس ← علمي-منهجي مع�
 dates: "أمريكا · مواليد 1955"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-lcarter", title: "ليندا كارتر", type: "مفكر"
-  - id: "thk-shamdasani", title: "سوني شمداساني", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-lcarter", title: "ليندا كارتر", type: "مفكر"
+- id: "thk-shamdasani", title: "سوني شمداساني", type: "مفكر"
 gaps:
   - "لا تتوفر سنة ميلاد مؤكدة بشكل ثابت في المصادر المتاحة (1955 تقدير تقريبي)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -22,11 +25,11 @@ gaps:
 
 # جوزيف كامبري
 
-محلّل نفسي أمريكي، رئيس سابق للرابطة الدولية لعلم النفس التحليلي (IAAP)، والمحرّر الأسبق لـ *Journal of Analytical Psychology*، والمؤسّس المشارك لمجلة Pacifica Graduate Institute كـ Provost فيها.
+محلّل نفسي أمريكي، رئيس سابق للرابطة الدولية لعلم النفس التحليلي (IAAP)، والمحرّر الأسبق لـ *Journal of Analytical Psychology*، والعميد الأكاديمي (Provost) الأسبق لمعهد Pacifica Graduate Institute.
 
 ## ما أعطاه
 
-دافع عن «علم نفس تحليلي علمي» (Synchronicity ودراسات الانعكاس المتبادل بين المنهج الإكلينيكي والعلوم المعرفية)، وألّف «التحليل النفسي: منظورات معاصرة في التحليل اليونغي» (2004) — وهو المرجع الأكاديمي الذي نقل اليُونغية من «مدرسة سردية» إلى «مجال بحثي منظَّم».
+دافع عن «علم نفس تحليلي علمي» (Synchronicity ودراسات الانعكاس المتبادل بين المنهج الإكلينيكي والعلوم المعرفية)، وألّف «علم النفس التحليلي: منظورات معاصرة» (2004) — وهو المرجع الأكاديمي الذي نقل اليُونغية من «مدرسة سردية» إلى «مجال بحثي منظَّم».
 
 ## موقعه من التيار
 
@@ -38,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-«التحليل النفسي: منظورات معاصرة في التحليل اليونغي» (Analytical Psychology: Contemporary Perspectives, 2004، مع Linda Carter) · «التزامن: الطبيعة والنفس في كون مترابط» (Synchronicity: Nature and Psyche, 2009، مع Linda Carter).
+«علم النفس التحليلي: منظورات معاصرة» (Analytical Psychology: Contemporary Perspectives, 2004، مع ليندا كارتر) · «التزامن: الطبيعة والنفس في كون مترابط» (Synchronicity: Nature and Psyche in an Interconnected Universe, 2009).

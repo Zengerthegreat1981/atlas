@@ -11,17 +11,27 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1980
 active_end: 2020
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإسلامي/العلاج النفسي الصوفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإسلامي/العلاج النفسي الصوفي", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-anajam", title: "عادل نجّام", type: "مفكر"
+- id: "thk-hkoprulu", title: "حازم قبرلو (حازم كوبرولو)", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: عادل نجّام (thk-anajam)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: حازم قبرلو (حازم كوبرولو) (thk-hkoprulu)."
 ---
 
 # رفة حسن
 
 فيلسوفة باكستانية-أمريكية، أستاذة في جامعة لويزفيل. من أهم الأصوات في **الفلسفة الإسلامية النسوية وفكر إسلامي مقارن**.
 
-## ما أعطت
+## ما أعطته
 
 - **«نقد التفسير الذكوري للنصوص»** وتأثيره على بنية النفس المسلمة.
 - **«On Justice and Gender: A Prolegomenon»**.

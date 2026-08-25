@@ -11,12 +11,16 @@ dates: "جامعة ديربي · من أواخر التسعينيات"
 active_start: 2000
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "developed_by", target: "بول جيلبرت", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-pgilbert", target_type: "مفكر"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "tec-schema-therapy", title: "علاج المخطط", type: "تقنية/تدخل علاجي"
+- id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
+- id: "dis-reactive-attachment", title: "اضطراب التعلق التفاعلي", type: "اضطراب/حالة إكلينيكية"
+- id: "con-shame-self-criticism", title: "الخزي ونقد الذات", type: "مفهوم"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "tec-schema-therapy", title: "علاج المخطط", type: "تقنية/تدخل علاجي"
 gaps:
   - "النموذج التطوري العصبي لأنظمة تنظيم الانفعال الثلاثة لبول جيلبرت (نظام التهديد والحماية، نظام الدافع والمكافأة، نظام التهدئة والأمان)."
   - "تمارين بناء الذات الشفوقة وتدريب العقل على الشفقة (Compassionate Mind Training - CMT)."

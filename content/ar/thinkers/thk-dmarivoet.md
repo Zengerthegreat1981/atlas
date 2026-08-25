@@ -9,10 +9,16 @@ crumb: "علم نفس الجسد ← الناس ← Bodymind Integration ← د�
 dates: "بلجيكا · [غير مؤكد]"
 country: "بلجيكا"
 language: "الهولندية / الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-pierrakos", title: "جون س. بيراكوس", type: "مفكر"
+- id: "thk-pierrakos", title: "جون س. بيراكوس", type: "مفكر"
+- id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
+- id: "thk-gferri", title: "جينوفينو فيري", type: "مفكر"
+- id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

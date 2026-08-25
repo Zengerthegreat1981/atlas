@@ -11,12 +11,13 @@ active_start: 1965
 active_end: 1987
 country: "لبنان"
 language: "العربية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "موسوعته 'النزعات المادية في الفلسفة العربية الإسلامية' واغتياله شهيداً للكلمة يستحقان توثيقاً."

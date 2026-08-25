@@ -11,10 +11,11 @@ dates: "جامعة مينيسوتا · من 2011"
 active_start: 2011
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
+- id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بروتوكول ويليام دوهيرتي (William Doherty) القصير (1-5 جلسات) للأزواج على حافة الطلاق."
   - "التعامل مع ثنائية 'الشريك المتردد' (Leaning-Out Partner) و'الشريك الراغب في البقاء' (Leaning-In Partner) واختيار أحد المسارات الثلاثة."

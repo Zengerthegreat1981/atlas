@@ -13,9 +13,9 @@ language: "الإنجليزية / البولندية"
 active_start: 1960
 active_end: 2017
 edges:
-  - rel: "belongs_to", target: "علم الاجتماع النفسي ونظرية السيولة", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم الاجتماع النفسي ونظرية السيولة", target_type: "مدرسة"
 related:
-  - id: "wrk-liquid-love", title: "الحب السائل", type: "عمل / كتاب"
+- id: "wrk-liquid-love", title: "الحب السائل", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

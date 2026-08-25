@@ -11,13 +11,14 @@ active_start: 2012
 active_end: 2018
 country: "المكسيك / أمريكا"
 language: "الإسبانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-gaos", title: "خوسيه غاوس", type: "مفكر"
+- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-gaos", title: "خوسيه غاوس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'سيكولوجيا العرق الوجودية والوجود المكسيكي' يستحق إدراجاً في السياقات الفكرية."

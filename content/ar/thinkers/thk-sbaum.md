@@ -9,11 +9,15 @@ crumb: "علم نفس الجسد ← الناس ← Bioenergetics وعلاج ا�
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
-  - id: "thk-rlewis", title: "روبرت أ. لويس", type: "مفكر"
+- id: "thk-mmaley", title: "مايكل مالِه", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-rlewis", title: "روبرت أ. لويس", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

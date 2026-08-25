@@ -11,14 +11,15 @@ active_start: 2003
 active_end: 2015
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
-  - id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
+- id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
+- id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تطبيقات نظرية إدارة الرعب في التحليل الإكلينيكي للاكتئاب والصدمات والسياسة تستحق توثيقاً."

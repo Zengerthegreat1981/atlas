@@ -8,9 +8,11 @@ en: "Walters & Parke Social Modeling and Behavioral Inhibition Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات والترز وباركي للنمذجة الاجتماعية"
 active_start: 1963
 active_end: 1967
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "مقارنة فاعلية النمذجة المرئية بالتأديب اللفظي والتوجيه المعرفي تحتاج توثيقاً من علم النفس التربوي"
   - "أثر مكانة وجاذبية النموذج في تعزيز ضبط الذات لدى المراهقين يتطلب مراجعة مساندة"

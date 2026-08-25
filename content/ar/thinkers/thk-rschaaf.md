@@ -10,11 +10,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← روزان شاف"
 edges:
-  - rel: "belongs_to", target: "التكامل الحسي (Sensory Integration)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكامل الحسي", target_type: "مدرسة"
 related:
-  - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
-  - id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
+- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
+- id: "thk-rcermak", title: "شارون سيرماك", type: "مفكر"
+- id: "thk-tchampagne", title: "تينا شامبانيا", type: "مفكر"
+- id: "thk-zmailloux", title: "زوي مايو", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,14 +11,15 @@ dates: "لندن · خمسينيات وستينيات القرن العشرين"
 active_start: 1950
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "ويلفريد بيون", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-bion", target_type: "مفكر"
 related:
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-  - id: "thk-meltzer", title: "دونالد ميلتزر", type: "مفكر"
-  - id: "thk-jgrotstein", title: "جيمس جروتشتاين", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-meltzer", title: "دونالد ميلتزر", type: "مفكر"
+- id: "thk-jgrotstein", title: "جيمس جروتشتاين", type: "مفكر"
 gaps:
   - "نظرية بيون في التفكير (Theory of Thinking) والشبكة الصورية (The Grid) تحتاج شروحاً إكلينيكية أوسع."
   - "التحول من التحليل الجماعي إلى التحليل النفسي الفردي والذهاني في أعمال بيون المتأخرة يحتاج توثيقاً."

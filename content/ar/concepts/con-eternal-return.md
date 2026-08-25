@@ -10,11 +10,14 @@ crumb: "النيتشوية ← المفاهيم ← العودة الأبدية"
 active_start: 1882
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النيتشوية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "فريدريش نيتشه", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-nietzsche", target_type: "مفكر"
 related:
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز بين 'العودة الأبدية' و'الدورة الأبدية' (Ewiger Kreislauf) عند الرواقيين وعند نيتشه لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Also sprach Zarathustra' بعد."

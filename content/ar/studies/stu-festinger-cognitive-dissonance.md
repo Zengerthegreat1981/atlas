@@ -8,10 +8,13 @@ en: "Festinger & Carlsmith Cognitive Dissonance Experiment (1$ vs 20$)"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة فستنجر للتنافر المعرفي"
 active_start: 1959
 active_end: 1959
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
+- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تفسير داريل بيم (Daryl Bem) بنظرية الإدراك الذاتي البديلة يقدم قراءة مختلفة تحتاج مقارنة تفصيلية"
   - "مدى تأثير الفروق الثقافية في حساسية التنافر المعرفي يتطلب مراجعة من دراسات علم النفس الثقافي"

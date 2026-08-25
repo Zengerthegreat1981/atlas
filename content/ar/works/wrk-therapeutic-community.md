@@ -10,17 +10,20 @@ dates: "1953 · ماكسويل جونز"
 language: "الإنجليزية"
 active_start: 1953
 active_end: 1953
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "ماكسويل جونز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-mjones", target_type: "مفكر"
 related:
-  - id: "thk-mjones", title: "ماكسويل جونز", type: "مفكر"
-  - id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"
+- id: "thk-mjones", title: "ماكسويل جونز", type: "مفكر"
+- id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"
+- id: "ctx-therapeutic-community", title: "تقليد المجتمع العلاجي والديمقراطية المؤسسية", type: "سياق/تقليد"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الكاملة لمحتوى الكتاب لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."
 ---
-
 # المجتمع العلاجي (The Therapeutic Community)
 
 كتاب ماكسويل جونز المؤسس (1953)، يعرض فيه رؤيته لإعادة تصميم المستشفى النفسي بالكامل كوكيل علاجي، حيث يصبح كل عنصر في البيئة — من الاجتماعات اليومية إلى التراتبية الإدارية — جزءاً من العلاج.

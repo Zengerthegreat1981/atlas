@@ -13,13 +13,19 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
-  - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
-  - id: "sch-afrofeminism", title: "النسوية الأفريقية", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-afrofeminism", title: "النسوية الأفريقية", type: "مدرسة"
+- id: "thk-asante", title: "موليفي أسانتي", type: "مفكر"
+- id: "thk-cheikh-anta-diop", title: "شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم)", type: "مفكر"
+- id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
+- id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
+- id: "con-sage-philosophy-methodology", title: "منهجية فلسفة الحكيم لأوروكا (Sage Philosophy)", type: "مفهوم"
 gaps:
   - "نصوص Molefi Kete Asante, Cheikh Anta Diop, Theophile Obenga, Leonard Jeffries تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أفريقية المركز (Afrocentrism)

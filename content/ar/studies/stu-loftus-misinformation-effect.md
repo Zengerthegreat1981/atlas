@@ -8,9 +8,12 @@ en: "Loftus's Original Misinformation Effect Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات لوفتوس لتأثير المعلومات المضللة"
 active_start: 1975
 active_end: 1979
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "evt-false-memory-syndrome-foundation-1992", title: "تأسيس مؤسسة متلازمة الذاكرة الزائفة واندلاع حروب الذاكرة في التسعينيات", type: "حدث تاريخي"
 gaps:
   - "فرضية ارتباك المصدر (Source Monitoring Error) لـ Marcia Johnson في تفسير أثر التضليل تحتاج توثيقاً"
   - "مدى مقاومة الشهود للتضليل عند وجود تحذير مسبق يتطلب استعراضاً للدراسات المعاصرة"

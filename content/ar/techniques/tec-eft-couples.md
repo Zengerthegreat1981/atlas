@@ -11,12 +11,14 @@ dates: "أوتاوا · الثمانينيات"
 active_start: 1988
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "سو جونسون", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-sjohnson", target_type: "مفكر"
 related:
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-  - id: "tec-gottman-method", title: "طريقة غوتمان في العلاج الزوجي", type: "تقنية/تدخل علاجي"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "tec-gottman-method", title: "طريقة غوتمان في العلاج الزوجي", type: "تقنية/تدخل علاجي"
+- id: "tec-discernment-counseling", title: "إرشاد التمييز والبت الزوجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج الخطوات التسع والمراحل الثلاث لسو جونسون (Sue Johnson) وليزلي غرينبرغ (تفكيك الدورة السلبية، إعادة تشكيل روابط الارتباط، والدمج والتثبيت)."
   - "إصلاح جروح الارتباط (Attachment Injuries) والخيانة العاطفية بين الزوجين."

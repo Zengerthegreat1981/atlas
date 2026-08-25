@@ -10,11 +10,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1966
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ديان بوييدن"
 edges:
-  - rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
+- rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
 related:
-  - id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -28,7 +31,7 @@ gaps:
 
 - **التطبيق الموسيقي** داخل جلسات PBSP: استخدام الإيقاع والنغم لتوجيه الحركة العلاجية.
 - **مفهوم "المكان الآمن"** (Safe Place): تطوير تقنيات PBSP الخاصة بإنشاء مساحة نفسية آمنة.
-- **"التعويض العاطفي"** (Emotional Compensation): توسيع فكرة "الأفكار المثالية" لتشمل مكونات جسمية وموسيقية.
+- **"التعويض الانفعالي"** (Emotional Compensation): توسيع فكرة "الوالدين المثاليين" لتشمل مكوّنات جسدية وإيقاعية.
 
 ## موقعها من التيار
 

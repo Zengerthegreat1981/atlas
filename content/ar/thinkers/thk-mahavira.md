@@ -12,10 +12,12 @@ language: "الهندوستانية الوسطى (البراكريت، Ardhamaga
 active_start: -580
 active_end: -527
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← ماهاڤيرا (مؤسس الجاينية)"
 edges:
-  - rel: "belongs_to", target: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجاينية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-jainism", title: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", type: "مدرسة"
+- id: "con-ahimsa", title: "أحيمسا (مبدأ اللاإيذاء)", type: "مفهوم"
+- id: "sch-jainism", title: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", type: "مدرسة"
 gaps:
   - "لا يوجد نص من ماهاڤيرا نفسه، التقليد الجايني ينسب إليه تأسيس الأوامر الـ5، لكن ما قبله پَارَشْوا (Parshva) أيضاً."
   - "ترجمة عربية معتمدة لـAcharanga Sutra غير متاحة."

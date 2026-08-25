@@ -8,15 +8,20 @@ en: "Relational Matrix"
 crumb: "التحليل النفسي ← المفاهيم ← المصفوفة العلائقية"
 dates: "1988-اليوم"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "ستيفن ميتشل", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mitchell", target_type: "مفكر"
 related:
-  - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-  - id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
-  - id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
+- id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
+- id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
+- id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
+- id: "con-evolutionary-psychoanalysis", title: "التحليل النفسي التطوري/النمائي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # المصفوفة العلائقية (Relational Matrix)

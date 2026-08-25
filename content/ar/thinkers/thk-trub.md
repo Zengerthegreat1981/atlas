@@ -12,12 +12,13 @@ active_end: 1949
 active_source: "lifespan"
 country: "سويسرا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أعماله في سيكولوجيا الشفاء والعلاقة الحوارية غير مترجمة للعربية وتتطلب بحثاً في كتاباته الأصلية."

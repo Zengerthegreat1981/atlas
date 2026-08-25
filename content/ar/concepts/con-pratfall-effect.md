@@ -11,10 +11,13 @@ crumb: "علم النفس الاجتماعي التجريبي ← المفاهي
 active_start: 1966
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-  - id: "wrk-daring-greatly", title: "الشجاعة العظيمة", type: "عمل / كتاب"
-  - id: "thk-brene-brown", title: "برينيه براون", type: "مفكر"
+- id: "wrk-daring-greatly", title: "الشجاعة العظيمة", type: "عمل / كتاب"
+- id: "thk-brene-brown", title: "برينيه براون", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تجربة إليوت أرونسون (Elliot Aronson 1966) الشهيرة لسكب القهوة في جامعة مينيسوتا."
   - "لا يوجد اقتباس مباشر موثوق متاح."

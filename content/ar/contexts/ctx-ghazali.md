@@ -6,10 +6,15 @@ level: "متوسط"
 title: "الغزالي وإحياء علوم الدين"
 en: "Al-Ghazali and Ihya' Ulum al-Din"
 crumb: "المدرسة الوجودية ← السياقات ← الغزالي وإحياء علوم الدين"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "dbt-spiritual", title: "الروحاني والعلماني", type: "جدل"
+- id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
 gaps:
   - "لم يُراجع بعد النص الأصلي لإحياء علوم الدين من مصدر محقق مباشر ضمن مكتبة هذا المشروع"
   - "لا يوجد بعد ربط دقيق مع مفاهيم con- المحددة (كـcon-fear أو con-shame-guilt)"

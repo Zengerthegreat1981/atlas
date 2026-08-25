@@ -9,11 +9,15 @@ crumb: "التحليل النفسي ← الناس ← مؤسّسات أمريك
 dates: "أمريكا · 1873–1945"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1945
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
 gaps:
   - "قائمة أعمالها المنشورة ضئيلة (معظم إسهامها إكلينيكي/مؤسسي)؛ توثيق الإنتاج الفكري يحتاج بحثاً أرشيفياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

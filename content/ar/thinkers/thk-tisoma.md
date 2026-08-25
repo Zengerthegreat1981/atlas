@@ -11,14 +11,18 @@ country: "اليابان"
 language: "اليابانية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
+- rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
 related:
-  - id: "thk-dreynolds", title: "ديفيد ك. رينولدز", type: "مفكر"
-  - id: "thk-kmorita", title: "ماساتاكي موريتا", type: "مفكر"
+- id: "thk-dreynolds", title: "ديفيد ك. رينولدز", type: "مفكر"
+- id: "thk-kmorita", title: "ماساتاكي موريتا", type: "مفكر"
+- id: "thk-knakamura", title: "كويتشي ناكامورا", type: "مفكر"
+- id: "thk-rreibo", title: "ريتشارد ريبو", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ريتشارد ريبو (thk-rreibo)."
 ---
 
 # تاكيشي إيسومه

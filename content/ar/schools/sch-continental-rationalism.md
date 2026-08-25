@@ -13,13 +13,13 @@ language: "الفرنسية، اللاتينية، الهولندية، الأل
 active_start: 1630
 active_end: 1780
 edges:
-  - rel: "evolved_from", target: "الأرسطية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "السكولاستية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-aristotelianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "مدرسة"
 related:
-  - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-  - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
-  - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
+- id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
+- id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
 gaps:
   - "التمييز بين 'العقلانية القارية' كتيار تاريخي وكتصنيف أكاديمي حديث (أنشأه هيغل ثم أكده راسل) محلّ جدل."
   - "نصوص ديكارت وسبينوزا ولايبنتز بالفرنسية واللاتينية تحتاج مراجعة من المصدر الأولي."

@@ -8,9 +8,11 @@ en: "Baillargeon's Violation-of-Expectation Object Permanence Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات بايارغيون لديمومة الشيء"
 active_start: 1985
 active_end: 1987
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "الجدل المنهجي بين تفسير الانتباه البصري بالإدراك الحقيقي مقابل مجرد التفضيل الإدراكي السطحي يحتاج توثيقاً"
   - "التطبيقات المعاصرة في الفيزياء المعرفية الفطرية لدى إليزابيث سبيلكي (Elizabeth Spelke) تتطلب ربطاً معرفياً"

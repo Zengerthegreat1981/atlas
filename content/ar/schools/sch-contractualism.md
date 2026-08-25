@@ -13,12 +13,19 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_from", target: "الكانطية الأخلاقية المعاصرة", target_type: "مدرسة"
-  - rel: "evolved_from", target: "النفعية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-kantian-ethics-contemporary", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-utilitarianism-contemporary", target_type: "مدرسة"
 related:
-  - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-  - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
+- id: "thk-rawls", title: "جون رولز", type: "مفكر"
+- id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
+- id: "wrk-what-we-owe", title: "ماذا ندين لبعضنا البعض (What We Owe to Each Other)", type: "عمل / كتاب"
+- id: "trm-veil-of-ignorance-rawls", title: "حجاب الجهل (Veil of Ignorance): التجرد من المصالح لتحقيق العدالة", type: "مصطلح لغوي متنازع عليه"
+- id: "que-civil-disobedience-duty", title: "متى يتحول خرق القانون والعصيان المدني إلى واجب أخلاقي ومواطنة أصيلة؟", type: "سؤال توليدي"
+- id: "que-distributive-justice-equality-luck", title: "هل يجب على المجتمع تعويض الأفراد عن سوء الحظ الجيني والطبقي الأولي؟", type: "سؤال توليدي"
+- id: "que-just-war-theory-ethics", title: "هل توجد حرب عادلة أخلاقياً وما هي معايير الدفاع المشروع والعدوان؟", type: "سؤال توليدي"
+- id: "que-meritocracy-tyranny-sandel", title: "هل الاستحقاق الفردي عدالة حقيقية أم غطرسة تولد الظلم واحتقار الخاسرين؟", type: "سؤال توليدي"
+- id: "que-social-contract-legitimacy", title: "ما الذي يمنح الدولة حق إلزام الفرد بقوانين لم يخترها طوعاً؟", type: "سؤال توليدي"
 gaps:
   - "رابط مقترح لـ«ت. م. سكانلون» (thk-scanlon) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ديفيد غوتييه» (thk-gauthier) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -26,7 +33,6 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح من رولز 'نظرية العدالة' (A Theory of Justice, 1971) في صياغته المنقحة."
   - "نقد 'التعاقدية' من منظور نسوي (Okin, 1989) وعلاقتها بحقوق المرأة لم يُراجع."
 ---
-
 # التعاقدية/التعاقدانية الأخلاقية الحديثة (Modern Contractualism)
 
 تيار أخلاقي-سياسي نشط منذ سبعينيات القرن العشرين، يُرجع مبدأ الأخلاق إلى «اتفاق» أو «عقد» بين أشخاص عقلانيين يختارون مبادئ العدالة في وضعية «أصلية» متساوية. يميّز بين «التعاقدية السياسية» (Political Contractualism) عند رولز، و«التعاقدية الأخلاقية» (Moral Contractualism) عند سكانلون، و«التعاقدية الذاتية» (Self-Regarding Contractualism) عند غوتييه.

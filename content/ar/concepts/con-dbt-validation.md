@@ -8,11 +8,15 @@ en: "Validation Strategies in DBT"
 crumb: "الموجة الثالثة ← المفاهيم ← استراتيجيات الصلاحية في DBT"
 active_start: 1993
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-  - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز بين مستويات الصلاحية الستة عند لينهان لم يُراجع بعد من نص متخصص."
   - "لا يوجد اقتباس مباشر موثوق متاح."

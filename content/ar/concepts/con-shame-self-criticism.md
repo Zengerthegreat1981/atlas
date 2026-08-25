@@ -8,11 +8,15 @@ en: "Shame and Self-Criticism"
 crumb: "الموجة الثالثة ← المفاهيم ← الخزي ونقد الذات"
 active_start: 1998
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
-  - id: "tec-cft", title: "العلاج المرتكز على الشفقة (CFT)", type: "تقنية/تدخل علاجي"
+- id: "thk-lgreenberg", title: "ليزلي غرينبرغ", type: "مفكر"
+- id: "con-cft-compassion-systems", title: "الأنظمة الثلاثة لتنظيم الانفعال (CFT)", type: "مفهوم"
+- id: "con-cft-self-compassion", title: "التعاطف مع الذات (Self-Compassion, CFT)", type: "مفهوم"
+- id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
+- id: "tec-cft", title: "العلاج المرتكز على الشفقة (CFT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التمييزات بين الخزي والذنب في الفلسفة المعاصرة (مقارنة بين برنتانو وفرويد وغولدشتاين) تحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

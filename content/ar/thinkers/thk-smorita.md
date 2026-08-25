@@ -11,10 +11,16 @@ country: "اليابان"
 language: "اليابانية"
 active_start: 1920
 active_end: 1938
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
 related:
-  - id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
+- id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
+- id: "thk-hkrystal", title: "هيروشي كاواشيما", type: "مفكر"
+- id: "thk-mhosokawa", title: "ميتشيو هوسوكاوا", type: "مفكر"
+- id: "thk-nwatanabe", title: "نوبو واتانابي", type: "مفكر"
+- id: "thk-tkora", title: "تاكيهيسا كورّا", type: "مفكر"
+- id: "evt-tokyo-psychological-laboratory-1903", title: "تأسيس أول معمل تجريبي لعلم النفس في جامعة طوكيو باليابان بواسطة موتورا", type: "حدث تاريخي"
 gaps:
   - "تفاصيل مسيرته الأكاديمية في جامعة Nippon Medical School لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

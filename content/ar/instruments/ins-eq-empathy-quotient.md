@@ -9,10 +9,12 @@ en: "Empathy Quotient (EQ)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس حاصل التعاطف السيكولوجي"
 active_start: 2004
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد", type: "أداة قياس"
-  - id: "ins-sq-systemizing-quotient", title: "مقياس حاصل التنظيم والنظامة", type: "أداة قياس"
+- id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد", type: "أداة قياس"
+- id: "ins-sq-systemizing-quotient", title: "مقياس حاصل التنظيم والنظامة", type: "أداة قياس"
+- id: "ins-iri-interpersonal-reactivity", title: "مؤشر التفاعل البين–شخصي لأبعاد التعاطف الأربعة (IRI)", type: "أداة قياس"
 gaps:
   - "أبحاث بارون كوهين وويليرايت (Baron-Cohen & Wheelwright 2004) ونظرية الدماغ مفرط الذكورة (Extreme Male Brain)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

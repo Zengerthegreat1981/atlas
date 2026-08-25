@@ -11,10 +11,10 @@ active_start: 1960
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "البيت التذكيري الطبي الكلاسيكي للسمية الكولينية المضادة (Mad as a hatter, Red as a beet...)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

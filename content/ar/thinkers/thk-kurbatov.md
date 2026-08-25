@@ -9,12 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← فالنتين كور
 dates: "روسيا · معاصر"
 country: "روسيا"
 language: "الروسية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "التوثيق البيوغرافي والأكاديمي لمدرسة العلاج الوجودي الروسية يحتاج استكمالاً."

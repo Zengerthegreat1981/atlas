@@ -11,14 +11,17 @@ dates: "من 1919"
 active_start: 1919
 active_end: "مستمر"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
-  - id: "thk-jjacobi", title: "يولاندا ياكوبي", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
+- id: "thk-jjacobi", title: "يولاندا ياكوبي", type: "مفكر"
+- id: "br-family-sandplay", title: "علاج الأسر الرملية", type: "تيار"
 gaps:
   - "التمييز بين الأركيتيب في ذاته (البنية العصبية-النفسية الفطرية الموروثة) والصور الأركيتيبية المتغيرة ثقافياً."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الأركيتيب (النموذج الأصلي)

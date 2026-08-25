@@ -8,9 +8,11 @@ en: "John Lilly's Isolation Tank Sensory Deprivation Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات جون ليلي لخزانات الطفو"
 active_start: 1954
 active_end: 1958
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-jlilly", title: "جون لِلي", type: "مفكر"
+- id: "thk-jlilly", title: "جون لِلي", type: "مفكر"
 gaps:
   - "تطور خزانات الطفو الحديثة (Restricted Environmental Stimulation Therapy - REST) واستخداماتها في علاج القلق تحتاج مراجعة"
   - "تحول أبحاث ليلي اللاحقة نحو المواد المهلوسة والتواصل مع الدلافين يتطلب تمييزاً علمياً نقدياً عن أبحاثه الفسيولوجية المبكرة"

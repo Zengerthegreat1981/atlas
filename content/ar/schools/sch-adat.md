@@ -14,9 +14,9 @@ active_start: 1300
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الفلسفة العرفية لجنوب شرق آسيا (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة العرفية لجنوب شرق آسيا (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-pancasila", title: "بانتشاسيلا", type: "مدرسة"
+- id: "sch-pancasila", title: "بانتشاسيلا", type: "مدرسة"
 gaps:
   - "توثيق النصوص الكلاسيكية (Babad Tanah Jawi، Sejarah Melayu) في ضوء الفلسفة العرفية يحتاج مراجعة."
   - "الفصل بين 'أدات' كقانون عرفي وكفلسفة أصيلة (terutama) يستحق بحثاً أعمق."

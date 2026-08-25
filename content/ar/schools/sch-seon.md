@@ -13,12 +13,12 @@ language: "الكورية"
 active_start: 660
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تشان (الصينية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-chan", target_type: "مدرسة"
 related:
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
-  - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
-  - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
+- id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+- id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
 gaps:
   - "نصوص Jinul (Hwabu gisul so، Susimgyeol) و Bojo Jinul و Seon Master Hyujeong تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Seon الكورية و Zen اليابانية يستحق بحثاً نقدياً."

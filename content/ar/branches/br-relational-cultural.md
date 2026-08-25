@@ -11,10 +11,15 @@ dates: "مركز جين بيكر ميلر · السبعينيات والثمان
 active_start: 1976
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "thk-jordan", title: "جوديث جوردان", type: "مفكر"
+- id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي — الإنسانية وما بعدها", type: "تيار"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "con-mutual-empathy", title: "التمكين والتعاطف المتبادل (Mutual Empathy)", type: "مفهوم"
 gaps:
   - "أعمال جين بيكر ميلر وجوديث جوردان (Jean Baker Miller & Judith Jordan) في مركز ستون بكلية ويليسلي."
   - "نقد النموذج الذكوري الغربي للاستقلالية والانفصال (Autonomy & Separation) وتأكيد النمو عبر الارتباط والتعاطف المتبادل (Growth-in-Connection)."

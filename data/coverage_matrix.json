@@ -1,0 +1,452 @@
+{
+  "generated_at": "2026-08-23T14:10:17.192199",
+  "totals": {
+    "axioms": 48,
+    "branches": 234,
+    "concepts": 893,
+    "contexts": 118,
+    "critiques": 99,
+    "debates": 161,
+    "dialogues": 47,
+    "disorders": 113,
+    "events": 135,
+    "experiences": 123,
+    "instruments": 103,
+    "metaphors": 142,
+    "questions": 128,
+    "relations": 98,
+    "schools": 369,
+    "studies": 121,
+    "syndromes": 195,
+    "techniques": 380,
+    "terms": 126,
+    "thinkers": 2196,
+    "works": 609
+  },
+  "schools": {
+    "sch-systemic-family": "العلاج الأسري والنظامي (Systemic/Family Therapy)",
+    "sch-behaviorism": "السلوكية (Behaviorism)",
+    "sch-rebt": "العلاج العقلاني الانفعالي السلوكي (REBT)",
+    "sch-existential-therapy": "الوجودية العلاجية (Existential Therapy)",
+    "sch-sensorimotor-psychotherapy": "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)",
+    "sch-eft-couples": "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)",
+    "sch-act": "العلاج بالقبول والالتزام (ACT)",
+    "sch-solution-focused": "العلاج المختصر القائم على الحل (SFBT)",
+    "sch-narrative-therapy": "العلاج السردي (Narrative Therapy)",
+    "sch-gestalt-therapy": "علاج الجشطالت (Gestalt Therapy)",
+    "sch-indigenous-psychology": "علم نفس الشعوب الأصلية",
+    "sch-transpersonal": "علم النفس عبر الشخصي (Transpersonal Psychology)",
+    "sch-mbct": "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)",
+    "sch-developmental": "علم النفس التطوري (Developmental Psychology)",
+    "sch-buddhist-psychology": "علم النفس البوذي (Buddhist Psychology)",
+    "sch-imago": "العلاج بالـ Imago",
+    "sch-humanistic": "علم النفس الإنساني (Humanistic Psychology)",
+    "sch-ifs": "نظام الأسرة الداخلية (IFS — Internal Family Systems)",
+    "sch-ipt": "العلاج بين الأشخاص (IPT)",
+    "sch-psychedelic-assisted-therapy": "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)",
+    "sch-positive-psychology": "علم النفس الإيجابي (Positive Psychology)",
+    "sch-biological-neuro": "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)",
+    "sch-emdr": "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)",
+    "sch-dbt": "العلاج الجدلي السلوكي (DBT)",
+    "sch-eft": "العلاج المتمحور حول المشاعر (EFT)",
+    "sch-islamic-psychology": "علم النفس الإسلامي (Islamic Psychology)",
+    "sch-polyvagal-informed-therapy": "العلاج المستنير بنظرية البوليفاجال",
+    "sch-cognitive-behavioral": "العلاج المعرفي السلوكي (CBT)",
+    "sch-somatic-experiencing": "التجربة الجسدية (Somatic Experiencing)",
+    "sch-psychoanalysis": "التحليل النفسي (Psychoanalysis)",
+    "sch-liberation-psychology": "علم نفس التحرر",
+    "sch-confucian-psychology": "علم النفس الكونفوشي",
+    "sch-cft": "العلاج المتمحور حول التعاطف (CFT)",
+    "sch-african-psychology": "علم النفس الأفريقي",
+    "sch-cbt": "العلاج المعرفي السلوكي",
+    "sch-social-psychology": "علم النفس الاجتماعي (Social Psychology)",
+    "sch-motivational-interviewing": "المقابلة التحفيزية (Motivational Interviewing)",
+    "sch-istdp": "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)",
+    "sch-aedp": "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)"
+  },
+  "matrix": {
+    "sch-systemic-family": {
+      "branches": 2,
+      "concepts": 13,
+      "experiences": 2,
+      "metaphors": 2,
+      "schools": 2,
+      "syndromes": 1,
+      "thinkers": 9
+    },
+    "sch-behaviorism": {
+      "branches": 5,
+      "relations": 1,
+      "thinkers": 28,
+      "works": 2
+    },
+    "sch-rebt": {
+      "concepts": 1,
+      "experiences": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-existential-therapy": {
+      "axioms": 1,
+      "branches": 2,
+      "concepts": 33,
+      "contexts": 3,
+      "debates": 2,
+      "dialogues": 2,
+      "experiences": 6,
+      "instruments": 2,
+      "metaphors": 1,
+      "questions": 5,
+      "relations": 1,
+      "schools": 3,
+      "studies": 3,
+      "techniques": 4,
+      "terms": 1,
+      "thinkers": 303,
+      "works": 26
+    },
+    "sch-sensorimotor-psychotherapy": {
+      "branches": 1,
+      "concepts": 2,
+      "experiences": 1,
+      "metaphors": 1,
+      "techniques": 2,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-eft-couples": {
+      "concepts": 2,
+      "metaphors": 1,
+      "techniques": 1,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-act": {
+      "concepts": 1,
+      "experiences": 1,
+      "metaphors": 6,
+      "questions": 1,
+      "techniques": 47,
+      "thinkers": 3,
+      "works": 2
+    },
+    "sch-solution-focused": {
+      "concepts": 2,
+      "experiences": 1,
+      "techniques": 2,
+      "thinkers": 3
+    },
+    "sch-narrative-therapy": {
+      "concepts": 2,
+      "techniques": 1,
+      "thinkers": 8,
+      "works": 1
+    },
+    "sch-gestalt-therapy": {
+      "branches": 4,
+      "metaphors": 1,
+      "thinkers": 4
+    },
+    "sch-indigenous-psychology": {
+      "concepts": 6,
+      "experiences": 2,
+      "questions": 1,
+      "techniques": 1,
+      "thinkers": 5
+    },
+    "sch-transpersonal": {
+      "branches": 1,
+      "experiences": 5,
+      "questions": 1,
+      "thinkers": 7
+    },
+    "sch-mbct": {
+      "branches": 1,
+      "concepts": 2,
+      "contexts": 1,
+      "techniques": 2,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-developmental": {
+      "branches": 1,
+      "concepts": 4,
+      "experiences": 2,
+      "thinkers": 7
+    },
+    "sch-buddhist-psychology": {
+      "concepts": 4,
+      "contexts": 2,
+      "thinkers": 6
+    },
+    "sch-imago": {
+      "concepts": 2,
+      "techniques": 2,
+      "thinkers": 4
+    },
+    "sch-humanistic": {
+      "branches": 20,
+      "contexts": 10,
+      "debates": 1,
+      "dialogues": 1,
+      "experiences": 6,
+      "metaphors": 2,
+      "questions": 5,
+      "schools": 1,
+      "thinkers": 7,
+      "works": 2
+    },
+    "sch-ifs": {
+      "branches": 1,
+      "concepts": 1,
+      "experiences": 1,
+      "metaphors": 1,
+      "techniques": 2,
+      "thinkers": 1,
+      "works": 2
+    },
+    "sch-ipt": {
+      "concepts": 2,
+      "techniques": 1,
+      "thinkers": 2
+    },
+    "sch-psychedelic-assisted-therapy": {
+      "concepts": 1,
+      "contexts": 1,
+      "thinkers": 9
+    },
+    "sch-positive-psychology": {
+      "branches": 1,
+      "concepts": 4,
+      "thinkers": 6,
+      "works": 4
+    },
+    "sch-biological-neuro": {
+      "concepts": 3,
+      "contexts": 3,
+      "debates": 4,
+      "experiences": 3,
+      "metaphors": 1,
+      "terms": 2,
+      "thinkers": 6,
+      "works": 1
+    },
+    "sch-emdr": {
+      "branches": 1,
+      "concepts": 1,
+      "events": 1,
+      "experiences": 1,
+      "techniques": 4,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-dbt": {
+      "disorders": 1,
+      "events": 1,
+      "experiences": 1,
+      "metaphors": 2,
+      "techniques": 61,
+      "thinkers": 5,
+      "works": 1
+    },
+    "sch-eft": {
+      "concepts": 5,
+      "techniques": 2,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-islamic-psychology": {
+      "concepts": 3,
+      "contexts": 4,
+      "techniques": 2,
+      "terms": 1,
+      "thinkers": 2,
+      "works": 1
+    },
+    "sch-polyvagal-informed-therapy": {
+      "concepts": 3,
+      "metaphors": 1,
+      "techniques": 1,
+      "terms": 1,
+      "thinkers": 2,
+      "works": 2
+    },
+    "sch-cognitive-behavioral": {
+      "branches": 3,
+      "debates": 2,
+      "dialogues": 1,
+      "disorders": 1,
+      "events": 1,
+      "experiences": 1,
+      "metaphors": 3,
+      "questions": 3,
+      "schools": 1,
+      "syndromes": 2,
+      "techniques": 51,
+      "terms": 1,
+      "works": 1
+    },
+    "sch-somatic-experiencing": {
+      "concepts": 2,
+      "experiences": 2,
+      "metaphors": 1,
+      "questions": 2,
+      "techniques": 4,
+      "terms": 1,
+      "thinkers": 3,
+      "works": 1
+    },
+    "sch-psychoanalysis": {
+      "branches": 26,
+      "concepts": 53,
+      "contexts": 3,
+      "dialogues": 2,
+      "experiences": 4,
+      "metaphors": 11,
+      "questions": 2,
+      "relations": 5,
+      "schools": 1,
+      "techniques": 11,
+      "terms": 17,
+      "thinkers": 309,
+      "works": 22
+    },
+    "sch-liberation-psychology": {
+      "concepts": 1,
+      "thinkers": 5
+    },
+    "sch-confucian-psychology": {
+      "concepts": 1,
+      "contexts": 1,
+      "thinkers": 3
+    },
+    "sch-cft": {
+      "concepts": 3,
+      "metaphors": 1,
+      "questions": 2,
+      "techniques": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-african-psychology": {
+      "concepts": 2,
+      "contexts": 2,
+      "experiences": 1,
+      "thinkers": 8
+    },
+    "sch-cbt": {
+      "works": 1
+    },
+    "sch-social-psychology": {
+      "concepts": 1,
+      "contexts": 18,
+      "debates": 2,
+      "experiences": 5,
+      "questions": 3,
+      "terms": 1,
+      "thinkers": 6,
+      "works": 8
+    },
+    "sch-motivational-interviewing": {
+      "concepts": 2,
+      "techniques": 1,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-istdp": {
+      "branches": 1,
+      "concepts": 3,
+      "techniques": 2,
+      "thinkers": 1,
+      "works": 1
+    },
+    "sch-aedp": {
+      "branches": 1,
+      "concepts": 1,
+      "techniques": 5,
+      "thinkers": 4,
+      "works": 1
+    },
+    "_no_school": {
+      "axioms": 20,
+      "branches": 53,
+      "concepts": 201,
+      "contexts": 5,
+      "critiques": 53,
+      "debates": 59,
+      "dialogues": 2,
+      "disorders": 111,
+      "events": 58,
+      "experiences": 17,
+      "instruments": 101,
+      "metaphors": 22,
+      "questions": 9,
+      "schools": 34,
+      "studies": 118,
+      "syndromes": 192,
+      "techniques": 170,
+      "terms": 33,
+      "thinkers": 590,
+      "works": 182
+    },
+    "_unset_part": {
+      "axioms": 27,
+      "branches": 110,
+      "concepts": 526,
+      "contexts": 65,
+      "critiques": 46,
+      "debates": 91,
+      "dialogues": 39,
+      "events": 74,
+      "experiences": 60,
+      "metaphors": 85,
+      "questions": 94,
+      "relations": 91,
+      "schools": 327,
+      "terms": 68,
+      "thinkers": 827,
+      "works": 338
+    }
+  },
+  "by_school_totals": {
+    "sch-systemic-family": 31,
+    "sch-behaviorism": 36,
+    "sch-rebt": 4,
+    "sch-existential-therapy": 398,
+    "sch-sensorimotor-psychotherapy": 11,
+    "sch-eft-couples": 8,
+    "sch-act": 61,
+    "sch-solution-focused": 8,
+    "sch-narrative-therapy": 12,
+    "sch-gestalt-therapy": 9,
+    "sch-indigenous-psychology": 15,
+    "sch-transpersonal": 14,
+    "sch-mbct": 9,
+    "sch-developmental": 14,
+    "sch-buddhist-psychology": 12,
+    "sch-imago": 8,
+    "sch-humanistic": 55,
+    "sch-ifs": 9,
+    "sch-ipt": 5,
+    "sch-psychedelic-assisted-therapy": 11,
+    "sch-positive-psychology": 15,
+    "sch-biological-neuro": 23,
+    "sch-emdr": 12,
+    "sch-dbt": 72,
+    "sch-eft": 10,
+    "sch-islamic-psychology": 13,
+    "sch-polyvagal-informed-therapy": 10,
+    "sch-cognitive-behavioral": 71,
+    "sch-somatic-experiencing": 16,
+    "sch-psychoanalysis": 466,
+    "sch-liberation-psychology": 6,
+    "sch-confucian-psychology": 5,
+    "sch-cft": 9,
+    "sch-african-psychology": 13,
+    "sch-cbt": 1,
+    "sch-social-psychology": 44,
+    "sch-motivational-interviewing": 5,
+    "sch-istdp": 8,
+    "sch-aedp": 12
+  }
+}

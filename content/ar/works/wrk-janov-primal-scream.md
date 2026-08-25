@@ -13,10 +13,13 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: 1970
 edges:
-  - rel: "belongs_to", target: "العلاج البدائي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
-  - id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
+- id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "أرقام المبيعات (ملايين النسخ) لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

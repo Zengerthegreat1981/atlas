@@ -8,10 +8,16 @@ en: "Pre-Performance Routines"
 crumb: "الأداء والعلاج الرياضي ← علم نفس الأداء ← الطقوس السابقة للأداء"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
 related:
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "tec-self-talk-modification", title: "تعديل الكلام الذاتي", type: "تقنية/تدخل علاجي"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "tec-mental-imagery", title: "التدريب بالتصوير الذهني", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+
 gaps:
   - "تاريخ الاستخدام المنهجي الأول موثّق جزئياً (Moran، 1996، في الرياضة؛ توسع في الأداء الموسيقي بعد 2000)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

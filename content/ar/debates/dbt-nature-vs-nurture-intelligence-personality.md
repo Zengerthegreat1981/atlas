@@ -8,11 +8,15 @@ en: "Nature vs. Nurture Debate in Intelligence and Personality"
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← جدل الطبيعة والتنشئة في الذكاء والشخصية"
 active_start: 1869
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "stu-minnesota-twins-reared-apart", title: "دراسة مينيسوتا للتوائم المتماثلة المتبناة منفصلة والوراثة السلوكية", type: "دراسة وبحث"
-  - id: "ins-neo-pi-r", title: "قائمة الشخصية المنقحة للخمسة الكبار", type: "أداة قياس"
-  - id: "ins-wais", title: "مقياس وكسلر لذكاء البالغين", type: "أداة قياس"
+- id: "stu-minnesota-twins-reared-apart", title: "دراسة مينيسوتا للتوائم المتماثلة المتبناة منفصلة والوراثة السلوكية", type: "دراسة وبحث"
+- id: "ins-neo-pi-r", title: "قائمة الشخصية المنقحة للخمسة الكبار", type: "أداة قياس"
+- id: "ins-wais", title: "مقياس وكسلر لذكاء البالغين", type: "أداة قياس"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "الجدل الإبستمولوجي المعاصر حول التفاعل الجيني البيئي غير الخطي (GxE) وعلم التخلق (Epigenetics) يحتاج تفصيلاً نقدياً"
   - "مفهوم 'البيئة غير المشتركة' (Non-shared Environment) وتأثيرها على تباين الشخصية يتطلب استعراضاً من دراسات بلومين"

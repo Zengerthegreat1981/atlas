@@ -11,10 +11,11 @@ dates: "1973"
 active_start: 1973
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
 related:
-  - id: "thk-nazrin", title: "نصرت أزرين", type: "مفكر"
+- id: "thk-nazrin", title: "نصرت أزرين", type: "مفكر"
 gaps:
   - "التجربة المعشاة (Azrin et al., 1973): 90% من مرضى CRA تحسّنوا مقابل 50% في السيطرة."
   - "البروتوكول يُركّز على الأسرة، العمل، الهوايات، الصداقات كأدوات تعافٍ طبيعية."

@@ -11,11 +11,12 @@ dates: "ماساتشوستس · 2002"
 active_start: 2002
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
   - "دليل ليزا ناجافيتس (Lisa Najavits) المكون من 25 موضوعاً علاجياً مقسمة عبر المجالات المعرفية والسلوكية والبينية."
   - "مبدأ 'الأمان كأولوية أولى مطلقة' وعدم الخوض في تفاصيل الصدمة المؤلمة لتجنب إعادة الاستثارة والانجراف نحو الانتكاس الإدماني."

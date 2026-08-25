@@ -11,11 +11,11 @@ active_start: 1917
 active_end: 1945
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-da-costa", title: "متلازمة دا كوستا", type: "متلازمة"
-  - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-shell-shock", title: "متلازمة صدمة القذائف", type: "متلازمة"
+- id: "syn-da-costa", title: "متلازمة دا كوستا", type: "متلازمة"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-shell-shock", title: "متلازمة صدمة القذائف", type: "متلازمة"
 gaps:
   - "أبحاث السير توماس لويس (Sir Thomas Lewis 1917) في مستشفى سوفولك العسكري خلال الحرب العالمية الأولى."
   - "لا يوجد اقتباس مباشر موثوق متاح."

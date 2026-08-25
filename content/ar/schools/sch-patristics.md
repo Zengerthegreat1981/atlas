@@ -13,15 +13,18 @@ language: "اليونانية، اللاتينية، السريانية، الق
 active_start: 100
 active_end: 750
 edges:
-  - rel: "evolved_from", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الفلسفة اليهودية الهلنستية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-judaism-hellenistic", target_type: "مدرسة"
 related:
-  - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
-  - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
-  - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
-  - id: "thk-athanasius", title: "أثناسيوس الإسكندري", type: "مفكر"
-  - id: "thk-basil-caesarea", title: "باسيليوس الكبير (باسيليوس القيساري)", type: "مفكر"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
+- id: "thk-athanasius", title: "أثناسيوس الإسكندري", type: "مفكر"
+- id: "thk-basil-caesarea", title: "باسيليوس الكبير (باسيليوس القيساري)", type: "مفكر"
+- id: "thk-orsigen", title: "أوريجانوس", type: "مفكر"
+- id: "con-trinity-doctrine", title: "عقيدة الثالوث (الآب والابن والروح القدس)", type: "مفهوم"
+- id: "wrk-consolation-philosophy", title: "عزاء الفلسفة (De Consolatione Philosophiae)", type: "عمل / كتاب"
 gaps:
   - "نصوص آباء الكنيسة اليونانية (أوريجانس، باسيليدس، كليمنت، أفراهات) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'أسفار موسى' لفلوطينوس أو 'De Principiis' لأوريجانس."

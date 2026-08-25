@@ -12,12 +12,14 @@ language: "الفارسية القديمة (الأفستية)"
 active_start: -1500
 active_end: -1000
 edges:
-  - rel: "belongs_to", target: "الزرادشتية الفلسفية", target_type: "مدرسة"
-  - rel: "authored_by", target: "زرادشت", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-zoroaster", target_type: "مفكر"
 related:
-  - id: "thk-zarathushtra", title: "زرادشت", type: "مفكر"
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "con-asha", title: "أشا", type: "مفهوم"
+- id: "thk-zarathushtra", title: "زرادشت", type: "مفكر"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "con-asha", title: "أشا", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق بالغاثية بنصها الأصلي مع ترجمة عربية معتمدة."
   - "تأريخ كتابتها بالضبط لا يزال موضع خلاف."

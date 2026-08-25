@@ -7,17 +7,19 @@ title: "ريتشارد رورتي"
 en: "Richard Rorty"
 crumb: "المدرسة الوجودية ← الناس ← ريتشارد رورتي"
 dates: "أمريكا · 1931–2007"
-active_start: 1979
-active_end: 1989
+active_start: 1961
+active_end: 2007
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'الفلسفة ومرآة الطبيعة' (1979) و'الصدفة والمفارقة والتضامن' (1989) يمثلان تحولاً براغماتياً-وجودياً يستحق توثيقاً."

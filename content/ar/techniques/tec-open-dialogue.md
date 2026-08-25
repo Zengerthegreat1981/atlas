@@ -11,11 +11,12 @@ dates: "لابلاند الغربية · من الثمانينيات"
 active_start: 1984
 active_end: "مستمر"
 language: "الفنلندية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
-  - id: "tec-reflecting-teams", title: "فرق التفكير والتأمل العاكسة", type: "تقنية/تدخل علاجي"
+- id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
+- id: "tec-reflecting-teams", title: "فرق التفكير والتأمل العاكسة", type: "تقنية/تدخل علاجي"
 gaps:
   - "المبادئ التوجيهية السبعة للحوار المفتوح لياكو سيكولا (Jaakko Seikkula) وتوم إريك أرنكيل."
   - "النتائج الإحصائية الاستثنائية في فنلندا: خفض استخدام الأدوية المضادة للذهان وتقليل نسب الاستشفاء والانتكاس لأكثر من 80%."

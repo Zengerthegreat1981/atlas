@@ -11,16 +11,18 @@ dates: "أواخر التسعينيات"
 active_start: 1998
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-foa", title: "إدنا فوا", type: "مفكر"
-  - id: "thk-young-jeffrey", title: "جيفري يونغ", type: "مفكر"
+- id: "thk-young-jeffrey", title: "جيفري يونغ", type: "مفكر"
+- id: "dis-nightmare-disorder", title: "اضطراب الكوابيس", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أصلها الرئيسي عند أدريان ويلز (Adrian Wells) في MCT ومن ثم طوّرها ميرا أرتنيس (Mera Arntz) في هولندا."
   - "تُستخدم في علاج الكوابيس، والذكريات الصادمة، والصدمات المبكرة."
   - "الفرق عن 'إعادة المعالجة من خلال حركات العين' (EMDR) في أن IR تعمل على مستوى السرد التخيلي الواعي."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا فوا (thk-foa)."
 ---
 
 # إعادة كتابة سردية التخيل (Imagery Rescripting)

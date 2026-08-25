@@ -13,9 +13,12 @@ language: "الإنجليزية"
 active_start: 1947
 active_end: 1989
 edges:
-  - rel: "belongs_to", target: "الواقعية النقدية (Critical Realism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الواقعية النقدية", target_type: "مدرسة"
 related:
-  - id: "sch-critical-realism", title: "الواقعية النقدية (Critical Realism)", type: "مدرسة"
+- id: "sch-critical-realism", title: "الواقعية النقدية (Critical Realism)", type: "مدرسة"
+- id: "thk-jmcdowell", title: "جون ماكدوويل", type: "مفكر"
+- id: "thk-rbrandom", title: "روبرت براندوم", type: "مفكر"
+- id: "con-myth-of-given", title: "خرافة المعطيات (Myth of the Given)", type: "مفهوم"
 gaps:
   - "تفاصيل 'العرضية الكانطية' (Kantian aspect) في فلسفة سيلارز المتأخرة لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'نقد المذهب التجريبي وأساطير الإسمية' (1956)."

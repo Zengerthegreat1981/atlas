@@ -11,13 +11,18 @@ dates: "من التسعينيات"
 active_start: 1996
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-jrubin", title: "جيفري روبين", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-jrubin", title: "جيفري روبين", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التأثير المتبادل والتماثل الوجودي بين المحلِّل والمُحلَّل في لحظات التغيير."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العملية العلاجية والتعاون الوجودي

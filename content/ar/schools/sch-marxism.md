@@ -13,21 +13,26 @@ language: "الألمانية، الإنجليزية"
 active_start: 1844
 active_end: 1895
 edges:
-  - rel: "evolved_into", target: "الماركسية الغربية (كمظلة عابرة)", target_type: "مظلة"
-  - rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مظلة"
-  - rel: "belongs_to", target: "الاشتراكية الطوباوية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-western-marxism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-hegel-left", target_type: "مظلة"
+- rel: "belongs_to", target: "الاشتراكية الطوباوية", target_type: "مظلة"
 related:
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
-  - id: "sch-dependency-theory", title: "نظرية التبعية", type: "مدرسة"
-  - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "sch-dependency-theory", title: "نظرية التبعية", type: "مدرسة"
+- id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "con-historical-materialism", title: "المادية التاريخية (Historischer Materialismus)", type: "مفهوم"
+- id: "con-surplus-value", title: "فائض القيمة (Mehrwert)", type: "مفهوم"
+- id: "trm-entfremdung-alienation-marx-hegel", title: "الاغتراب والاستلاب (Entfremdung): تشيؤ الذات وفقدان الجوهر", type: "مصطلح لغوي متنازع عليه"
+- id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
+- id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
+- id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«فلاديمير لينين» (thk-lenin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "علاقة ماركس بـ'نقد البرنامج الغوثي' (1875) والمراسلات مع بارت لم تُراجع في الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # الماركسية الكلاسيكية (Classical Marxism)
 
 تيار فلسفي وسياسي واقتصادي أسسه كارل ماركس (1818–1883) وفريدريش إنغلز (1820–1895)، ينطلق من نقد الفلسفة الهيغلية (اليسارية) ومن نقد الاقتصاد السياسي الكلاسيكي الإنجليزي (ريكاردو، آدم سميث). ذروته في «البيان الشيوعي» (1848) و«رأس المال» المجلد الأول (1867).

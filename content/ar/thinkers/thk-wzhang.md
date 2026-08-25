@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← وي تشان�
 dates: "الصين · [غير مؤكد]"
 country: "الصين (البرّ)"
 language: "الصينية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
+- id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -21,7 +25,7 @@ gaps:
 
 # وي تشانغ
 
-محلّل يونغي صيني، مؤسِّس مشارك لـ China Society for Analytical Psychology (CSAP) في 2010s، وأستاذ في بكين.
+محلّل يونغي صيني، مؤسِّس مشارك لـ China Society for Analytical Psychology (CSAP) في العقد الثاني من القرن الحادي والعشرين، وأستاذ في بكين.
 
 ## ما أعطاه
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-ترجمات يونغ للصينية · دراسات في Heart–Nature (2010s).
+ترجمات يونغ للصينية · دراسات في Heart–Nature (العقد الثاني من القرن الحادي والعشرين).

@@ -8,9 +8,12 @@ en: "Bartlett's 'War of the Ghosts' and Reconstructive Memory Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب بارتليت لتذكر قصة حرب الأشباح"
 active_start: 1932
 active_end: 1932
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
+- id: "axm-cognitive-schema", title: "بديهية المخططات المعرفية", type: "بديهية/مبدأ تأسيسي"
+- id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
 gaps:
   - "غياب التحليل الإحصائي الكمي الصارم في كتاب بارتليت الأصلي عام 1932 يحتاج مراجعة نقدية"
   - "التطبيقات الحديثة لنظرية المخططات في علم النفس العصبي للذاكرة الدلالية تتطلب ربطاً معرفياً"

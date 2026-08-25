@@ -11,12 +11,14 @@ dates: "واشنطن ونيويورك · الأربعينيات والخمسين
 active_start: 1942
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "ماريان تشيس", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mchace", target_type: "مفكر"
 related:
-  - id: "tec-authentic-movement", title: "الحركة الأصيلة", type: "تقنية/تدخل علاجي"
-  - id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
+- id: "tec-authentic-movement", title: "الحركة الأصيلة", type: "تقنية/تدخل علاجي"
+- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
+- id: "thk-trudi-schoop", title: "ترودي شوپ", type: "مفكر"
 gaps:
   - "منهج ماريان تشيس (Marian Chace) في الرنين الحركي والمرآتية المتزامنة (Kinesthetic Empathy) في مستشفى سانت إليزابيث."
   - "نظام لابان لتحليل الحركة (Laban Movement Analysis) واستخدام الفضاء والوزن والزمن في التعبير النفسي."

@@ -10,13 +10,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية، الفرنسية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← أرماند فولكاس"
 edges:
-  - rel: "belongs_to", target: "الشعر العلاجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الشعر العلاجي", target_type: "مدرسة"
 related:
-  - id: "thk-lmazza", title: "نيكولاس مازا", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: نيكولاس مازا (thk-lmazza)."
 ---
 
 # أرماند فولكاس
@@ -32,7 +39,7 @@ gaps:
 
 ## موقعه من التيار
 
-يربط بين الشعر العلاجي (مازا) والعلاج بالدراما (لاند). تكامل مع الفنون المتعددة في معالجة الصدمات الجماعية.
+يربط بين الشعر العلاجي (مازا) والعلاج بالدراما (لاندي). تكامل مع الفنون المتعددة في معالجة الصدمات الجماعية.
 
 ## أهم أعماله
 

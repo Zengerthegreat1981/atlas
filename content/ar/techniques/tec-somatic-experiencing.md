@@ -11,12 +11,15 @@ dates: "كاليفورنيا · من السبعينيات"
 active_start: 1977
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "بيتر ليفين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-plevine", target_type: "مفكر"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحركي الحسي", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحركي الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-comprehensive-resource-model", title: "نموذج الموارد الشامل للصدمة (CRM)", type: "تقنية/تدخل علاجي"
+- id: "tec-tre", title: "تمارين تحرير الصدمات والضغوط (TRE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "كتاب بيتر ليفين (Peter Levine) التأسيسي 'إيقاظ النمر: شفاء الصدمة' (Waking the Tiger, 1997) وملاحظة الحيوانات في البرية."
   - "تقنيات المعايرة البطيئة (Titration)، التردد والتأرجح (Pendulation)، وتفريغ طاقة الجهاز العصبي العالق في استجابة التجمد (Freeze Response)."

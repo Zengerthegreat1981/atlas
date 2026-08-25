@@ -12,12 +12,14 @@ language: "العبرية"
 active_start: -950
 active_end: -400
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة العبرية القديمة", target_type: "مدرسة"
-  - rel: "authored_by", target: "سليمان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-hebrew-wisdom", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-solomon-hebrew", target_type: "مفكر"
 related:
-  - id: "thk-solomon", title: "سليمان", type: "مفكر"
-  - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
-  - id: "con-chokmah-hebrew", title: "حُخْمَة (الحكمة العبرية)", type: "مفهوم"
+- id: "thk-solomon", title: "سليمان", type: "مفكر"
+- id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
+- id: "con-chokmah-hebrew", title: "حُخْمَة (الحكمة العبرية)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح في طبعة عربية أكاديمية معتمدة من النص العبري."
   - "التمييز بين الأقسام السليمانية (1-9، 10-22) والكتّاب اللاحقين يحتاج مراجعة."

@@ -14,10 +14,12 @@ active_start: -2700
 active_end: -300
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
-  - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
-  - id: "thk-amenemope", title: "أمِنْمُوپ (آمنمحات)", type: "مفكر"
+- id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
+- id: "thk-amenemope", title: "أمِنْمُوپ (آمنمحات)", type: "مفكر"
+- id: "con-isfet", title: "إسفت (الفوضى / اللا-تناغم)", type: "مفهوم"
+- id: "wrk-instructions-ptahhotep", title: "تعاليم بتاح حتب", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«النظام الكوني» (con-cosmological-order) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ما قبل سقراط» (sch-presocratic-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

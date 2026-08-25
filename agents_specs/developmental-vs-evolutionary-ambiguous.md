@@ -1,0 +1,45 @@
+# «علم النفس التطوري» — مواضع تحتاج حسماً بشرياً
+
+المصطلح استُعمل في الأطلس للمعنيين معاً. صُحِّحت المواضع القاطعة آلياً؛ التالية غامضة.
+
+- `content/ar/axioms/axm-adaptation.md` (موضع 159) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/axioms/axm-reductionism.md` (موضع 3317) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/relations/rel-psychoanalysis-humanistic.md` (موضع 5417) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/relations/rel-trauma-somatic.md` (موضع 10477) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/drafts/thinkers/thk-sroufe.md` (موضع 4121) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/drafts/thinkers/thk-bronfenbrenner.md` (موضع 171) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/drafts/thinkers/thk-rutter.md` (موضع 153) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/thinkers/thk-carta.md` (موضع 1277) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/thinkers/thk-bowlby.md` (موضع 3183) — إشارات نمائية: 3 · تطورية: 2
+- `content/ar/thinkers/thk-bowlby.md` (موضع 3294) — إشارات نمائية: 3 · تطورية: 2
+- `content/ar/thinkers/thk-bowlby.md` (موضع 3394) — إشارات نمائية: 3 · تطورية: 2
+- `content/ar/thinkers/thk-erikson.md` (موضع 135) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/thinkers/thk-panksepp.md` (موضع 3744) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/thinkers/thk-pgilbert.md` (موضع 1370) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/thinkers/thk-pgilbert.md` (موضع 3896) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/thinkers/thk-david-buss.md` (موضع 198) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/thinkers/thk-snichols.md` (موضع 993) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/terms/trm-a-priori-a-posteriori.md` (موضع 955) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/metaphors/met-brain-as-society.md` (موضع 1116) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/works/wrk-attachment-loss-volume1.md` (موضع 4300) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/works/wrk-bowlby-separation.md` (موضع 3607) — إشارات نمائية: 1 · تطورية: 2
+- `content/ar/works/wrk-behave-sapolsky.md` (موضع 2236) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/concepts/con-tabula-rasa.md` (موضع 3108) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/concepts/con-mentalization.md` (موضع 1671) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/concepts/con-mentalization.md` (موضع 2082) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/concepts/con-dunbars-number.md` (موضع 212) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/concepts/con-dunbars-number.md` (موضع 354) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/concepts/con-dunbars-number.md` (موضع 1186) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/concepts/con-will-to-power.md` (موضع 3468) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/branches/br-bowen-systems.md` (موضع 1354) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-positive-psychology.md` (موضع 16367) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-biological-neuro.md` (موضع 2746) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-biological-neuro.md` (موضع 2833) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-experimental-philosophy.md` (موضع 3293) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-cft.md` (موضع 3036) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-cft.md` (موضع 8552) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-cft.md` (موضع 8838) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/schools/sch-social-psychology.md` (موضع 8624) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/questions/que-nature-vs-nurture.md` (موضع 1487) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/questions/que-origin-of-qualia-evolution.md` (موضع 297) — إشارات نمائية: 0 · تطورية: 0
+- `content/ar/techniques/tec-mbt.md` (موضع 2029) — إشارات نمائية: 0 · تطورية: 0

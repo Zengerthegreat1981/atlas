@@ -8,16 +8,17 @@ en: "Feminist Critique of CBT: Cognitive Distortions Between Neutrality and Bias
 crumb: "النقد الخارجي ← النقد النسوي ← النقد النسوي للعلاج المعرفي-السلوكي"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
-  - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
-  - id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
-  - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
-  - id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
-  - id: "br-cb-sex-therapy", title: "العلاج الجنسي المعرفي السلوكي", type: "تيار"
-  - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
+- id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
+- id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
+- id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
+- id: "br-cb-sex-therapy", title: "العلاج الجنسي المعرفي السلوكي", type: "تيار"
+- id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
 gaps:
   - "تفاصيل تطبيق 'Gender-Sensitive CBT' (Persons et al.، 2005) ونتائج تجريبية — لم تُراجع من نص أصلي."
   - "موقف بيك من تشخيص النساء باضطرابات القلق (Borkovec et al.، 1974) — هل كان هناك تحيز جنسي؟"

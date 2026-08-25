@@ -14,10 +14,12 @@ active_start: -400
 active_end: -100
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "thk-xu-xing", title: "شو شينغ", type: "مفكر"
 gaps:
   - "نصوص Xu Xing الأصلية لم تصلنا، وما نعرفه عبر اقتباسات مَنشيوس والكنفوشيّين."
   - "نسبة 'كتاب الزراعة' (農書 Nong Shu) و'الطقوس الفلاحية' إلى المدرسة يحتاج تحققاً إضافياً."

@@ -8,20 +8,21 @@ en: "José Ortega y Gasset"
 crumb: "المدرسة الوجودية ← الناس ← خوسيه أورتيجا إي جاسيت"
 dates: "إسبانيا · 1883–1955"
 active_start: 1914
-active_end: 1930
+active_end: 1955
 language: "الإسبانية"
 country: "إسبانيا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
-  - id: "thk-lainentralgo", title: "بيدرو لاين إنترالغو", type: "مفكر"
-  - id: "thk-gaos", title: "خوسيه غاوس", type: "مفكر"
-  - id: "thk-zambrano", title: "ماريا ثامبرانو", type: "مفكر"
-  - id: "thk-zubiri", title: "خافيير ثوبيري", type: "مفكر"
-  - id: "thk-sanchez", title: "كارلوس ألبيرتو سانشيز", type: "مفكر"
-  - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
+- id: "thk-lainentralgo", title: "بيدرو لاين إنترالغو", type: "مفكر"
+- id: "thk-gaos", title: "خوسيه غاوس", type: "مفكر"
+- id: "thk-zambrano", title: "ماريا ثامبرانو", type: "مفكر"
+- id: "thk-zubiri", title: "خافيير ثوبيري", type: "مفكر"
+- id: "thk-sanchez", title: "كارلوس ألبيرتو سانشيز", type: "مفكر"
+- id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
 gaps:
   - "لم تُراجع بعد نصوصه الأصلية (تأملات في دون كيخوته، ثورة الجماهير) من نسخة محققة."
   - "يُصنَّف أحياناً ضمن الوجودية وأحياناً كفيلسوف حياة (Lebensphilosophie) مستقل عنها — التصنيف غير محسوم في الأدبيات."

@@ -11,11 +11,15 @@ active_start: 1960
 active_end: 2007
 country: "الولايات المتحدة (أصلاً من النمسا)"
 language: "الإنجليزية/الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الأسري الاستراتيجي (Palo Alto/MRI)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
 related:
-  - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
-  - id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
+- id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
+- id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
+- id: "thk-rfisch", title: "ريتشارد فيش", type: "مفكر"
+- id: "rel-systemic-behavioral", title: "النظامية الأسرية والسلوكية: تكامل صامت", type: "علاقة بين مدرستين"
+- id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
 gaps:
   - "تفاصيل عمله في معهد يونغ في زيورخ (قبل انتقاله لعلم النفس السريري الأمريكي) لم تُراجع من مصدر أولي."
   - "لم يُراجع هذا الملف من مصدر أولي مباشر؛ الاعتماد على مصادر ثانوية موثوقة (Wikipedia) فقط."

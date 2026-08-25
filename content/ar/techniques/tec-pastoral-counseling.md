@@ -11,10 +11,11 @@ dates: "منتصف القرن العشرين"
 active_start: 1950
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
+- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
 gaps:
   - "دمج العلوم النفسية الإكلينيكية المعاصرة مع الموارد الروحية والإيمانية والقيمية للمسترشد."
   - "التعامل مع الأزمات الإيمانية، والمعاناة الوجودية، والذنب الأخلاقي والروحي."

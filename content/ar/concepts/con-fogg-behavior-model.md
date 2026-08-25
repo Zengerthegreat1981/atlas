@@ -11,11 +11,13 @@ crumb: "تصميم السلوك والعلوم السلوكية ← المفاه
 active_start: 2009
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "تصميم السلوك والعلوم السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "تصميم السلوك والعلوم السلوكية", target_type: "مدرسة"
 related:
-  - id: "wrk-tiny-habits", title: "العادات الصغيرة", type: "عمل / كتاب"
-  - id: "thk-bj-fogg", title: "بي جيه فوغ", type: "مفكر"
-  - id: "wrk-atomic-habits", title: "العادات الذرية", type: "عمل / كتاب"
+- id: "wrk-tiny-habits", title: "العادات الصغيرة", type: "عمل / كتاب"
+- id: "thk-bj-fogg", title: "بي جيه فوغ", type: "مفكر"
+- id: "wrk-atomic-habits", title: "العادات الذرية", type: "عمل / كتاب"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطبيقات نموذج ستانفورد في تصميم تطبيقات الهواتف وتغيير العادات اليومية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

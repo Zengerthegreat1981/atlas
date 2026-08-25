@@ -14,10 +14,13 @@ active_start: -450
 active_end: -391
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الموهية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الموهية (Mohism / Mojia)", target_type: "مدرسة"
 related:
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
-  - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "con-fate-mohist", title: "نفي القدر في الموهية", type: "مفهوم"
+- id: "con-jianai", title: "جيان آي (兼愛) — الإحسان الشامل", type: "مفهوم"
+- id: "wrk-mozi-text", title: "كتاب مو زي (مو تزو)", type: "عمل / كتاب"
 gaps:
   - "تفاصيل السيرة الذاتية الأصلية (مكان الميلاد، الحرفة، الفترة الأولى من حياته) لا تزال موضع خلاف."
   - "النصوص المنسوبة إليه في *Mozi* تحتاج مراجعة من طبعة محقّقة."

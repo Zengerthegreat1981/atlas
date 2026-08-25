@@ -11,11 +11,11 @@ active_start: 2011
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-ghost-sickness", title: "متلازمة مرض الأشباح", type: "متلازمة"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-ghost-sickness", title: "متلازمة مرض الأشباح", type: "متلازمة"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث علماء الاجتماع والطب النفسي في جامعة توهوكو إثر زلزال وتسونامي شرق اليابان الكبير (2011)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

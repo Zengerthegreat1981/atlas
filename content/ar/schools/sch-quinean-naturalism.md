@@ -13,12 +13,14 @@ language: "الإنجليزية"
 active_start: 1951
 active_end: 2000
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_from", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
-  - rel: "superseded_by", target: "البراغماتية الجديدة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-vienna-circle", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-neopragmatism", target_type: "مدرسة"
 related:
-  - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
-  - id: "thk-goodman", title: "نيلسون غودمان", type: "مفكر"
+- id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
+- id: "thk-goodman", title: "نيلسون غودمان", type: "مفكر"
+- id: "thk-jgoodman", title: "نلسون غودمان", type: "مفكر"
+- id: "wrk-two-dogmas", title: "نقدان من الوضعية المنطقية (Two Dogmas of Empiricism)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«ألفريد نورث وايتهيد» (thk-whitehead) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«دونالد ديفيدسون» (thk-davidson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

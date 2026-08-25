@@ -10,12 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: 2018
+part: "philosophy"
+crumb: "علم النفس الجسدي ← علم النفس التكويني ← ستانلي كِلمان"
 edges:
-  - rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
+- rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تصنيفه هنا تحت PBSP غير دقيق: كِلمان أسّس مدرسته الخاصة «علم النفس التكويني» (Formative Psychology) ومركز Center for Energetic Studies في بيركلي عام 1971، ولم يكن من مدرسة بيسّو-بويدن. يحتاج إنشاء عقدة المدرسة قبل إعادة الربط."
 ---
 
 # ستانلي كِلمان
@@ -37,7 +43,8 @@ gaps:
 
 - *Living Your Dying* (1974).
 - *Emotional Anatomy* (1985).
-- *The Human Ground* (1993).
+- *The Human Ground: Sexuality, Self and Survival* (1975).
+- *Your Body Speaks Its Mind* (1975).
 
 ## اقتباسات مختارة
 

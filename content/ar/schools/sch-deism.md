@@ -13,11 +13,14 @@ language: "الإنجليزية، الفرنسية، الألمانية، الل
 active_start: 1620
 active_end: 1850
 edges:
-  - rel: "evolved_from", target: "فلسفة التنوير", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
+- id: "thk-voltaire", title: "فولتير", type: "مفكر"
+- id: "sch-second-scholasticism", title: "السكولاستية الثانية (إسبانيا، عصر النهضة)", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
 gaps:
   - "نصوص تولاند وتيندال وكولينز بالإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Christianity Not Mysterious' لتولاند."

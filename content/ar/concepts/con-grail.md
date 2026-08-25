@@ -11,14 +11,18 @@ dates: "1960–1980"
 active_start: 1960
 active_end: "مستمر"
 language: "الألمانية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التحليل الرمزي للأرض اليباب وجرح الملك الصياد والتفريد الروحي في دراسة إيما يونغ وفون فرانتس."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أسطورة الكأس المقدسة (الغرال)

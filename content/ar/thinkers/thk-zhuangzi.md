@@ -14,10 +14,12 @@ active_start: -330
 active_end: -286
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الداووية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الداووية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "thk-huishi", title: "هوي شي (هوي تشي)", type: "مفكر"
+- id: "rel-daoism-systemic", title: "الطاوية الفلسفية والعلاج الأسري/النظامي: من وُو-وِي إلى الدائرية", type: "علاقة بين مدرستين"
 gaps:
   - "رابط مقترح لـ«هوي زي» (thk-huizi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفصل بين 'فصول تشوانغ تزو الداخلية' (الفصول 1–7) والفصول الخارجية (8–22) والـ'المختلطة' (23–33) لم يُحلّ هنا."

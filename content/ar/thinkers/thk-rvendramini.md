@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رِيناتا
 dates: "إيطاليا · [غير مؤكد]"
 country: "إيطاليا"
 language: "الإيطالية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
-  - id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطته
 
-في «La Femminilità Ritrovata» (1990s) أجرت «تحليلية نسوية» مع تركيز على «Toni Wolff's Four Feminine Structural Forms» (الأم، العاهرة، الأمازونية، الروحانية). كذلك أجرت «تحليلية للكاتبات الإيطاليات» (N. Fusini، G. Deledda). كذلك ترأست «Commissione Pari Opportunità» في AIPA (2010s).
+في «La Femminilità Ritrovata» (التسعينيات من القرن العشرين) أجرت «تحليلية نسوية» مع تركيز على «Toni Wolff's Four Feminine Structural Forms» (الأم، العاهرة، الأمازونية، الروحانية). كذلك أجرت «تحليلية للكاتبات الإيطاليات» (N. Fusini، G. Deledda). كذلك ترأست «Commissione Pari Opportunità» في AIPA (العقد الثاني من القرن الحادي والعشرين).
 
 ## موقعها من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-La Femminilità Ritrovata (1990s).
+La Femminilità Ritrovata (التسعينيات من القرن العشرين).

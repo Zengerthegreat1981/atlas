@@ -11,10 +11,11 @@ active_start: 1951
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-factitious", title: "الاضطراب المفتعل", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-factitious", title: "الاضطراب المفتعل", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-munchausen-by-internet", title: "متلازمة مونخهاوزن عبر الإنترنت (افتعال الأمراض الرقمي)", type: "متلازمة"
 gaps:
   - "صياغة ريتشارد آشر (Richard Asher 1951) للمصطلح نسبة للبارون فون مونخهاوزن."
   - "لا يوجد اقتباس مباشر موثوق متاح."

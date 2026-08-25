@@ -11,11 +11,14 @@ active_start: 1973
 active_end: 2010
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
 related:
+- id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد له، وتفاصيل سيرته الشخصية محدودة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # لويس شولتز

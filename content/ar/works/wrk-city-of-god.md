@@ -10,11 +10,16 @@ crumb: "الفلسفة ← المسيحية ← الأوغسطينية ← مد�
 dates: "413 – 426 م · هيبو (الجزائر)"
 country: "الإمبراطورية الرومانية (شمال أفريقيا)"
 language: "اللاتينية"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الأوغسطينية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-augustinianism", target_type: "مدرسة"
 related:
-  - id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الترجمات العربية 'القرن 20' تحتاج توثيقاً دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

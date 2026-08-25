@@ -13,11 +13,11 @@ language: "العربية"
 active_start: 940
 active_end: 1050
 edges:
-  - rel: "belongs_to", target: "الفلسفة الإسلامية", target_type: "مظلة"
-  - rel: "belongs_to", target: "الباطنية الإسماعيلية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "الباطنية الإسماعيلية", target_type: "مظلة"
 related:
-  - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-  - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
+- id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
+- id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
 gaps:
   - "الهوية الحقيقية لمؤلفي رسائل إخوان الصفا لا تزال موضع جدل تاريخي، والفرضية الإسماعيلية هي الأوسع انتشاراً."
   - "لا يوجد اقتباس مباشر موثوق متاح من الرسائل نفسها."

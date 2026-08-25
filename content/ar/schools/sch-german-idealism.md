@@ -13,26 +13,29 @@ language: "الألمانية"
 active_start: 1785
 active_end: 1831
 edges:
-  - rel: "split_into", target: "الفيختية", target_type: "مدرسة"
-  - rel: "split_into", target: "الشيلنغية", target_type: "مدرسة"
-  - rel: "split_into", target: "الهيغلية", target_type: "مدرسة"
-  - rel: "split_into", target: "الكانطية النقدية", target_type: "مدرسة"
-  - rel: "split_into", target: "الكانطية الجديدة", target_type: "مدرسة"
+- rel: "split_into", target: "sch-fichte", target_type: "مدرسة"
+- rel: "split_into", target: "sch-schelling", target_type: "مدرسة"
+- rel: "split_into", target: "sch-hegelianism", target_type: "مدرسة"
+- rel: "split_into", target: "sch-kant-critical", target_type: "مدرسة"
+- rel: "split_into", target: "sch-neokantian", target_type: "مدرسة"
 related:
-  - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-  - id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-  - id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
-  - id: "sch-fichte", title: "الفيختية", type: "مدرسة"
-  - id: "sch-schelling", title: "الشيلنغية", type: "مدرسة"
-  - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
-  - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
-  - id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
+- id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "sch-fichte", title: "الفيختية", type: "مدرسة"
+- id: "sch-schelling", title: "الشيلنغية", type: "مدرسة"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
+- id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
+- id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
+- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل / كتاب"
+- id: "exp-jacob-boehme-pewter-dish", title: "رؤية ياكوب بومه لبريق صحن القصدير واكتشاف نور الخلق في الظلام", type: "خبرة معيشة"
+- id: "exp-schopenhauer-frankfurt-isolation", title: "عزلة شوبنهاور في فرانكفورت وصحبته لكلبه وفلسفة الإرادة", type: "خبرة معيشة"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 gaps:
   - "المظلة الإجرائية لمذهب واسع ومتنازع عليه؛ الفترة النهائية (1815–1831) أقل توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # المثالية الألمانية (German Idealism)
 
 مظلة فلسفية واسعة تمتد من كانط «النقدي» (1780) حتى وفاة هيغل (1831)، تضم سلسلة من المذاهب المتعاقبة التي تشترك في فكرة مركزية: **العقل لا يستقبل الواقع من الخارج بل يشارك في إنتاجه**. تختلف المثالية الألمانية عن المثالية الذاتية البريطانية (برادلي، مكدوجال) في أنها مذهب ترانسندنتالي مثالي ينطلق من بنية الوعي لا من التجربة الفردية.

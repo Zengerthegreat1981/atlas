@@ -10,10 +10,15 @@ country: "أستراليا / الولايات المتحدة / عالمي"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"
+- id: "thk-wdryden", title: "ويندي دريدن", type: "مفكر"
+- id: "thk-mhoyt", title: "مايكل ف. هويت", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-single-session-mindset", title: "عقلية الجلسة الواحدة", type: "مفهوم"
 gaps:
   - "تاريخ الدورات (Talbot, 1990) يستحق توثيقاً."
   - "الفرق بين SST وWalk-in Therapy يستحق توثيقاً."

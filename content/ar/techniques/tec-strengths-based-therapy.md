@@ -11,10 +11,12 @@ dates: "جامعة كانساس · أواخر الثمانينيات"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-sfbt", title: "العلاج الموجز المرتكز على الحل (SFBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
+- id: "tec-sfbt", title: "العلاج الموجز المرتكز على الحل (SFBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "منظور القوة (The Strengths Perspective) لدينيس سالييبي (Dennis Saleebey) في العمل الإكلينيكي والاجتماعي."
   - "التحول من 'نموذج العجز والمرض' (Deficit Model) إلى تقييم وتسخير الموارد والقدرات الشخصية والمجتمعية."

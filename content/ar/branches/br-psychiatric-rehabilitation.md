@@ -10,10 +10,17 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-dbecker", title: "ديبورا بيكر", type: "مفكر"
+- id: "thk-grose", title: "غيليس روز", type: "مفكر"
+- id: "thk-jcmcgrew", title: "جون هـ. مَكغْرِي", type: "مفكر"
+- id: "thk-mfarkas", title: "مارلي فاركاش", type: "مفكر"
+- id: "thk-pridgway", title: "باتريسيا رِدجوِي", type: "مفكر"
+- id: "thk-wspaulding", title: "ويلِم سَبُولدِنغ", type: "مفكر"
 gaps:
   - "تاريخ 'deinstitutionalization' وعلاقته بنشأة PSR يستحق توثيقاً."
   - "الفرق بين 'PSR' و'recovery' كحقلين يستحق توضيحاً."

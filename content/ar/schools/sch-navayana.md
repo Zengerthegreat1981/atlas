@@ -13,14 +13,14 @@ language: "الماراثية، الهندية، الإنجليزية"
 active_start: 1956
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مظلة"
-  - rel: "evolved_from", target: "البوذية الحداثية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-buddhism-early", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-buddhist-modernism", target_type: "مدرسة"
 related:
-  - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
 gaps:
   - "نصوص B.R. Ambedkar (The Buddha and His Dhamma، Annihilation of Caste) و D.N. Ambedkar وBhagat Singh Lalan تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Navayāna و Theravāda الهندية المعاصرة يستحق بحثاً نقدياً."

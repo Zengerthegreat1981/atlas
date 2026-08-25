@@ -11,13 +11,20 @@ country: "ألمانيا"
 language: "الألمانية"
 active_start: 1920
 active_end: 1953
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
 related:
-  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
+- id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
+- id: "thk-hhuber", title: "هيلموت هوبر", type: "مفكر"
+- id: "thk-kleonhard", title: "كارل ليونهارد", type: "مفكر"
+- id: "thk-rrudolf", title: "غرد رودولف", type: "مفكر"
+- id: "thk-wjanzarik", title: "فيرنر يانتساريك", type: "مفكر"
+- id: "thk-jlueger", title: "جون لوغر", type: "مفكر"
 gaps:
   - "السيرة الكاملة وتفاصيل الفترة النازية لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون لوغر (thk-jlueger)."
 ---
 
 # هارالد شولتز-هِنكه

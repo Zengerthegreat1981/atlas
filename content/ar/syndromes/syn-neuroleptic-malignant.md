@@ -11,10 +11,11 @@ active_start: 1960
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر الدوائية (Tardive Dyskinesia)", type: "متلازمة"
+- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الرباعية السريرية للتشخيص واستخدام الدانترولين والبروموكريبتين في العناية المركزة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,13 +11,22 @@ country: "كندا"
 language: "إنجليزية"
 active_start: 1984
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
 related:
-  - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
+- id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
+- id: "thk-dmercieca", title: "إيفا ميرسيكا", type: "مفكر"
+- id: "thk-dwchen", title: "دونغ-وي تشن", type: "مفكر"
+- id: "thk-fherzog", title: "ف. هرتسوغ", type: "مفكر"
+- id: "thk-mcieslak", title: "ماريك تشيسلاك", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيفا ميرسيكا (thk-dmercieca)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دونغ-وي تشن (thk-dwchen)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ف. هرتسوغ (thk-fherzog)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريك تشيسلاك (thk-mcieslak)."
 ---
 
 # ماكس فان مانن

@@ -8,9 +8,12 @@ en: "Rosenhan's 'On Being Sane in Insane Places' Pseudo-Patient Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة روزنهان للتشخيص النفسي"
 active_start: 1973
 active_end: 1973
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "evt-rosenhan-study-publication-1973", title: "نشر دراسة روزنهان حول صلاحية التشخيص وزلزال مصحات الطب النفسي", type: "حدث تاريخي"
 gaps:
   - "التحقيقات الاستقصائية لسوزانا كاهالان (Susannah Cahalan, 2019) في كتاب The Great Pretender التي اتهمت روزنهان بتلفيق بعض البيانات تحتاج مراجعة نقدية دقيقة"
   - "التغير في موثوقية التشخيص بين DSM-II وDSM-5-TR يتطلب توثيقاً تاريخياً مقارناً"

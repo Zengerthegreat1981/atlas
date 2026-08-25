@@ -11,11 +11,13 @@ active_start: 1996
 active_end: 2005
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تطبيقها للتمثيل العائلي النسقي (Systemic Constellations) من منظور فينومينولوجي وجودي يحتاج توثيقاً."

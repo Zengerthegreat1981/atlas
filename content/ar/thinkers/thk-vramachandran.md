@@ -9,11 +9,15 @@ crumb: "التحليل النفسي ← الناس ← التحليل النفس
 dates: "الهند / أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس", target_type: "مدرسة"
 related:
-  - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

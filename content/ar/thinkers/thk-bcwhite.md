@@ -5,16 +5,18 @@ type: "مفكر"
 level: "متوسط"
 title: "برنارد وايت"
 en: "Bernard White"
-crumb: "br-dynamic-couples-family-therapy ← الاختلال الأسري ← برنارد وايت"
+crumb: "العلاج الديناميكي للأزواج والأسرة ← الاختلال الأسري ← برنارد وايت"
 dates: "أستراليا · القرن العشرين–"
 country: "أستراليا"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج الديناميكي للأزواج والأسرة", target_type: "تيار"
 related:
-  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

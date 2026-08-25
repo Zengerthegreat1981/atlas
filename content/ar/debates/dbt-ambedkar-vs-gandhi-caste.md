@@ -10,12 +10,12 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← جدل الطبق
 active_start: 1932
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
-  - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
-  - id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
-  - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ المراسلات الكاملة بين أمبيدكار وغاندي (The Communal Deadlock، وغيرها)."
   - "لا اقتباس مباشر موثّق في هذا الملف."

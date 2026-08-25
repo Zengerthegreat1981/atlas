@@ -10,10 +10,13 @@ crumb: "النسوية الفلسفية ← النسوية الفرنسية (م�
 active_start: 1977
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفرنسية (ما بعد البنيوية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
-  - id: "thk-irigaray", title: "لوس إريغاري", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-irigaray", title: "لوس إريغاري", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Irigaray 1977, Cixous 1975) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

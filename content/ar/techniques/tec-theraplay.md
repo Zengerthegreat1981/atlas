@@ -11,11 +11,13 @@ dates: "شيكاغو · أواخر الستينيات"
 active_start: 1967
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-pcit", title: "العلاج التفاعلي بين الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-filial-therapy", title: "العلاج البنوي والعائلي باللعب", type: "تقنية/تدخل علاجي"
+- id: "tec-pcit", title: "العلاج التفاعلي بين الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
+- id: "tec-filial-therapy", title: "العلاج البنوي والعائلي باللعب", type: "تقنية/تدخل علاجي"
+- id: "tec-dir-floortime", title: "نموذج DIR ووقت اللعب الأرضي للتطور والتواصل (DIR/Floortime)", type: "تقنية/تدخل علاجي"
 gaps:
   - "أبعاد ثيرابلاي الأربعة لآن جيرنبرغ وفيليس بوث (Ann Jernberg & Phyllis Booth): الهيكل (Structure)، الرعاية (Nurture)، الانخراط والمرح (Engagement)، والتحدي (Challenge)."
   - "تطبيقات ثيرابلاي مع الأطفال المتبنين وضحايا الصدمات التطورية واضطرابات التعلق."

@@ -13,13 +13,15 @@ language: "الإسبانية، الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الديكولونيالية (كمظلة عالمية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الديكولونيالية (كمظلة عالمية)", target_type: "مدرسة"
 related:
-  - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
+- id: "wrk-coloniality-power-quijano", title: "كولونيالية السلطة (Coloniality of Power)", type: "عمل / كتاب"
+- id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
+- id: "ctx-latin-american-coloniality", title: "السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير", type: "سياق/تقليد"
 gaps:
   - "لم تُراجع بعدُ طبعة Duke University Press لـ *The Darker Side of Western Modernity* (2011)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # والتر مينيولو (Walter Mignolo, 1941–)

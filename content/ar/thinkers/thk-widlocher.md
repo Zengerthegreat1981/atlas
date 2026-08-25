@@ -9,13 +9,18 @@ crumb: "التحليل النفسي ← الناس ← الفرنسي ما قب�
 dates: "فرنسا · 1930–2022"
 country: "فرنسا"
 language: "الفرنسية"
+part: "psychology"
+active_start: null
+active_end: 2022
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
-  - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
+- id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # دانييل فيدلوشِر

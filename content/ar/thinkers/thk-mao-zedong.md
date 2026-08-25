@@ -13,10 +13,11 @@ language: "الصينية (المندرين)"
 active_start: 1927
 active_end: 1976
 edges:
-  - rel: "belongs_to", target: "الماركسية الصينية / الماوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الماركسية الصينية / الماوية", target_type: "مدرسة"
 related:
-  - id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة人民出版社 لـ *Selected Works of Mao Tse-tung* (المجلدات 1–5)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

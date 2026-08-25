@@ -5,23 +5,31 @@ type: "مفكر"
 level: "متوسط"
 title: "ديرِك إدواردز"
 en: "Derek Edwards"
-crumb: "علم النفس الخطابي ← مؤسس مشارك ← ديريك إدواردز"
+crumb: "علم النفس الخطابي ← مؤسس مشارك ← ديرِك إدواردز"
 dates: "بريطانيا · وُلد 1957"
 country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الخطابي (Discursive Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الخطابي (بوتر وويذرل)", target_type: "مدرسة"
 related:
-  - id: "thk-jpotter", title: "جوناثان بوتر", type: "مفكر"
+- id: "thk-jpotter", title: "جوناثان بوتر", type: "مفكر"
+- id: "thk-ahepburn", title: "ألكسا هِبِرن", type: "مفكر"
+- id: "thk-cantaki", title: "تشارلز أنطاكي", type: "مفكر"
+- id: "thk-mbillig", title: "مايكل بيليغ", type: "مفكر"
+- id: "thk-mwetherell", title: "مارغريت ويذَرِيل", type: "مفكر"
+- id: "thk-rwooffitt", title: "روبن ووفيت", type: "مفكر"
+- id: "thk-sspeer", title: "سوزان سبيير", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ديرِك إدواردز
 
-عالم نفس اجتماعي بريطاني، أستاذ في جامعة Loughborough، أحد المؤسسين المشاركين لـ**علم النفس الخطابي** (Discursive Psychology) مع جوناثان بوتر، اعتماداً على أعمال هارفي ساكس وعلم اجتماع المعرفة الإثنوغرافي.
+عالم نفس اجتماعي بريطاني، أستاذ في جامعة Loughborough، أحد المؤسسين المشاركين لـ**علم النفس الخطابي** (Discursive Psychology) مع جوناثان بوتر، اعتماداً على أعمال هارفي ساكس والإثنوميثودولوجيا.
 
 ## ما أعطاه
 
@@ -33,13 +41,12 @@ gaps:
 
 ## موقعه من التيار
 
-يُعدّ إدواردز من أهم من يربط بين علم النفس الاجتماعي وعلم اجتماع المعرفة الإثنوغرافي. كتابه *Discourse and Cognition* (1997) مع بوتر علامة فارقة.
+يُعدّ إدواردز من أهم من يربط بين علم النفس الاجتماعي والإثنوميثودولوجيا. وكتابه *Discourse and Cognition* (1997) علامة فارقة.
 
 ## أهم أعماله
 
-- *Discourse and Cognition* (مع بوتر، 1993).
-- *The Recovery of Past Selves* (1997).
-- *Discursive Psychology* (مع بوتر، 2001).
+- *Discourse and Cognition* (1997).
+- *Discursive Psychology* (1992، مع جوناثان بوتر).
 
 ## اقتباسات مختارة
 

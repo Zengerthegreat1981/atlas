@@ -11,13 +11,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1982
 active_end: 2006
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
-  - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
-  - id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
+- id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
+- id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
+- id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
+- id: "thk-dmeichenbaum", title: "د. هـ. مايكنباوم", type: "مفكر"
+- id: "thk-kelly-george", title: "جورج ألكسندر كيلي", type: "مفكر"
+- id: "con-marsha-acceptance-change", title: "جدلية القبول والتغيير في العلاج الزوجي", type: "مفهوم"
 gaps:
   - "تاريخ الوفاة غير متأكد (Jacobson شغل مناصب في جامعة واشنطن حتى 2006 تقريباً)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,12 +11,14 @@ active_start: 1998
 active_end: 2012
 language: "الإنجليزية"
 country: "كندا"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "thk-reker", title: "غاري ريكر", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "thk-reker", title: "غاري ريكر", type: "مفكر"
+- id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"

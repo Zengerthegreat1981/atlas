@@ -11,20 +11,22 @@ dates: "لندن وكيب تاون · من أواخر التسعينيات"
 active_start: 1999
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "مارك سولمز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-msolms", target_type: "مفكر"
 related:
-  - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
-  - id: "thk-panksepp", title: "ياب بانكسيب", type: "مفكر"
-  - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
-  - id: "thk-aschore", title: "ألان شور", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
+- id: "thk-panksepp", title: "ياب بانكسيب", type: "مفكر"
+- id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
+- id: "thk-aschore", title: "ألان شور", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "wrk-neuroscience-psychotherapy", title: "علم أعصاب العلاج النفسي: بناء وإعادة بناء الدماغ البشري", type: "عمل / كتاب"
+- id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
 gaps:
   - "الجدل الإبستمولوجي حول أحادية الجانب المزدوج (Dual-Aspect Monism) كحل لمسألة العقل والجسد في التحليل النفسي العصبي."
   - "أثر أبحاث الحلم الرمزي وتنشيط نظام البحث الدوباميني (SEEKING System) على مراجعة نظرية فرويد في الأحلام."
 ---
-
 # التحليل النفسي العصبي
 
 حقل تكاملي متقدم أسسه عالم الأعصاب والمحلل النفسي مارك سولمز بالتعاون مع ياب بانكسيب وأنطونيو داماسيو، يسعى لمد الجسور التجريبية والمفاهيمية بين الميتاسيكولوجيا الفرويدية وعلم الأعصاب الوجداني الحديث.

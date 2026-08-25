@@ -13,10 +13,10 @@ language: "الهندية، السنسكريتية، الأردية"
 active_start: 1875
 active_end: 1947
 edges:
-  - rel: "belongs_to", target: "الهندوسية الجديدة (إصلاح القرن 19)", target_type: "مظلة"
-  - rel: "superseded_by", target: "الهندوتفا (حركة قومية هندوسية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neohinduism", target_type: "مظلة"
+- rel: "superseded_by", target: "الهندوتفا (حركة قومية هندوسية)", target_type: "مدرسة"
 related:
-  - id: "thk-dayananda", title: "سوامي داياناندا سراسواتي", type: "مفكر"
+- id: "thk-dayananda", title: "سوامي داياناندا سراسواتي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«مفهوم الإيمان النفعي (S'raddhā)» (thk-shraddha) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات 'لاكشمي نارايانا تيواري' (Lakshmi Narayan Tiwari) في 'الآريا ساماج' لم تُغطَ."

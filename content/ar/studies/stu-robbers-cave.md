@@ -8,8 +8,12 @@ en: "Robbers Cave Experiment on Intergroup Conflict and Cooperation"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة كهف اللصوص"
 active_start: 1954
 active_end: 1961
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "stu-aronson-jigsaw-classroom", title: "دراسة إليوت أرونسون لغرفة الألغاز والتعلم التعاوني (Jigsaw)", type: "دراسة وبحث"
+- id: "stu-sherif-autokinetic-effect", title: "تجربة مظفر شريف للحركة الذاتية وتكوين المعايير الجمعية (1935)", type: "دراسة وبحث"
 gaps:
   - "التجارب السابقة الفاشلة لشريف عام 1949 و1953 لم تُنشر كاملة في التقرير الأصلي ويجب مقارنتها نقدياً"
   - "مدى انطباق النموذج على الصراعات العرقية والدولية المعقدة يحتاج مراجعة سوسيولوجية معاصرة"

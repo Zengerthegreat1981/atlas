@@ -163,7 +163,7 @@ def build_nodes():
     for root, dirs, files in os.walk(BASE_DIR):
         # drafts/ مسودات لسه ما اتراجعتش ولا اعتُمدت — ما تدخلش في البناء النهائي أبداً
         # (بيتم نقل الملف يدوياً من drafts/<folder>/ لـ <folder>/ بعد المراجعة، مش قبلها)
-        dirs[:] = [d for d in dirs if not d.startswith(".") and d != "drafts"]
+        dirs[:] = [d for d in dirs if not d.startswith(".") and d != "drafts" and d != "_merged"]
         for fname in files:
             if fname.endswith(".md"):
                 path = os.path.join(root, fname)

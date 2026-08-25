@@ -11,17 +11,19 @@ dates: "برلين · أوائل القرن العشرين"
 active_start: 1912
 active_end: 1935
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "br-gestalt-theoretical-psychotherapy", title: "العلاج النفسي الجشطالتي النظري (GTP)", type: "تيار"
+- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
 gaps:
   - "قوانين التنظيم الإدراكي لماكس فيرتهايمر، فولفغانغ كوهلر، وكورت كوفكا (الشكل والأرضية، التقارب، التشابه، الإغلاق، والاستمرارية)."
   - "التمييز الدقيق بين علم النفس الجشطالتي الإدراكي المعملي وعلاج الجشطالت الإكلينيكي لبيرلز."
 ---
-
 # علم النفس الجشطالتي (مدرسة برلين)
 
 المدرسة التجريبية الألمانية الكبرى في علم النفس الإدراكي التي أسسها ماكس فيرتهايمر، وكورت كوفكا، وفولفغانغ كوهلر، رافعة شعارها الشهير: «الكل يختلف عن مجموع أجزائه».

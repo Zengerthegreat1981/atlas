@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← أَميت م�
 dates: "إسرائيل · [غير مؤكد]"
 country: "إسرائيل"
 language: "العبرية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "سيرة محدودة — مذكور في أرشيف Jung-Israel."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «التحليلية ما بعد كاتسروين» (Jungian Thought Post-Catsroen، بالعبرية، 1990s) أجرى «تحليلية للهوية الإسرائيلية» — كيف يتشكّل «المركّب الجمعي» (Neumann's ego-Self axis) في وعي الدولة الناشئة. كذلك طبّق نظرية نيومان «أصل الوعي» (Origins and History of Consciousness) على الأدب العبري الحديث (S. Yizhar، A. B. Yehoshua، D. Grossman). أسّس IIJP (1990s) كهيئة تدريب تل أبيبية، ليصبح المعهد التحليلي الأكبر في إسرائيل.
+في «التحليلية ما بعد كاتسروين» (Jungian Thought Post-Catsroen، بالعبرية، التسعينيات من القرن العشرين) أجرى «تحليلية للهوية الإسرائيلية» — كيف يتشكّل «المركّب الجمعي» (Neumann's ego-Self axis) في وعي الدولة الناشئة. كذلك طبّق نظرية نيومان «أصل الوعي» (Origins and History of Consciousness) على الأدب العبري الحديث (S. Yizhar، A. B. Yehoshua، D. Grossman). أسّس IIJP (التسعينيات من القرن العشرين) كهيئة تدريب تل أبيبية، ليصبح المعهد التحليلي الأكبر في إسرائيل.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-التحليلية ما بعد كاتسروين (1990s) · دراسات في الأدب العبري الحديث.
+التحليلية ما بعد كاتسروين (التسعينيات من القرن العشرين) · دراسات في الأدب العبري الحديث.

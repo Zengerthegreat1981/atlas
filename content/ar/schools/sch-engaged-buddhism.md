@@ -13,14 +13,14 @@ language: "الإنجليزية، الفيتنامية، الفرنسية"
 active_start: 1963
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية الحداثية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تروك لام (البوذية الفيتنامية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-buddhist-modernism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-truc-lam", target_type: "مدرسة"
 related:
-  - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
-  - id: "sch-truc-lam", title: "تروك لام (البوذية الفيتنامية)", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-  - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
+- id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
+- id: "sch-truc-lam", title: "تروك لام (البوذية الفيتنامية)", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
 gaps:
   - "نصوص Thích Nhất Hạnh (The Heart of the Buddha's Teaching، Being Peace) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Engaged Buddhism و Buddhist Modernism و Buddhist Socialism يستحق بحثاً نقدياً."

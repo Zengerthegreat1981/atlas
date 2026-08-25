@@ -11,12 +11,13 @@ active_start: 1999
 active_end: 2003
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أعماله في تقاطع الطب التكاملي والفينومينولوجيا الإكلينيكية والتغذية الراجعة البيولوجية تحتاج توثيقاً."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-مدخل إلى علم النفس الإنساني والوجودي (Humanistic and Existential Psychotherapies, 1999) · الفينومينولوجيا والطب التكاملي (Mind-Body Medicine, 2003).
+علم النفس الإنساني والعابر للشخصية: دليل تاريخي وسير ذاتية (Humanistic and Transpersonal Psychology, 1999) · الفينومينولوجيا والطب التكاملي (Mind-Body Medicine, 2003).

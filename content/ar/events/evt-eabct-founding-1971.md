@@ -9,8 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1971
 active_end: "مستمر"
 country: "ألمانيا"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "مسار توحيد معايير الاعتماد المهني للمعالجين المعرفيين السلوكيين عبر دول الاتحاد الأوروبي يتطلب توثيقاً"
   - "التنوع في التقاليد السلوكية بين بريطانيا (معهد الطب النفسي) وألمانيا وهولندا يحتاج مقارنة تاريخية"

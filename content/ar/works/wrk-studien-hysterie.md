@@ -10,11 +10,16 @@ dates: "1895 · جوزيف بروير وسيغموند فرويد"
 active_start: 1895
 active_end: 1895
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جوزيف بروير", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "جوزيف بروير", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الكتاب يحوي فصولاً من تأليف Freud وفصولاً من Breuer — النسبة الدقيقة لم تُراجع من المصدر الأولي بعد."
   - "لا يوجد ملفّا مفكر (thk-) لـ Freud أو Breuer في الفهرس بعد — مُدرجان في 'أفكار روابط لم تُتحقق'."

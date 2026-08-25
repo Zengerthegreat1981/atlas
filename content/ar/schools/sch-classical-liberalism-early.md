@@ -13,14 +13,14 @@ language: "الإنجليزية، الفرنسية، الهولندية، الل
 active_start: 1690
 active_end: 1870
 edges:
-  - rel: "evolved_from", target: "العقد الاجتماعي", target_type: "مدرسة"
-  - rel: "evolved_from", target: "فلسفة التنوير", target_type: "مدرسة"
-  - rel: "evolved_from", target: "التجريبية البريطانية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-social-contract", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
-  - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
-  - id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "sch-deism", title: "الربوبية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-deism", title: "الربوبية", type: "مدرسة"
 gaps:
   - "نصوص آدم سميث وبنتام وماديسون بالإنجليزية والفرنسية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'The Wealth of Nations' لآدم سميث."

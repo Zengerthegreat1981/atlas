@@ -1,0 +1,41 @@
+---
+slug: "con-bodhicitta"
+id: "CON-1267"
+type: "مفهوم"
+part: "psychology"
+level: "متقدم"
+title: "البُوذِيتَسَّا (Bodhicitta): ذِهْن الْيَقَظَة"
+en: "Bodhicitta: The Mind of Awakening"
+crumb: "علم النفس البوذي ← المفاهيم ← بوذَيتَّا (ذهن اليقظة)"
+active_start: 200
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
+related:
+- id: "thk-shantideva", title: "شانْتِيدِيفَا", type: "مفكر"
+- id: "con-buddhist-compassion-karuna", title: "الكرونا (الرحمة)", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+gaps:
+- "لم تُراجع من نسخة أصلية مباشرة بعد (Śāntideva's Bodhicaryāvatāra، 700 CE)."
+- "لا يوجد اقتباس مباشر موثوق متاح."
+- "الفرق بين Bodhicitta المُؤَسَّس (Conventional) وBodhicitta الأَصْلِي (Ultimate) يحتاج فصلاً."
+- "التطبيق في علاج الاكتئاب والقلق (Krageloh، 2019) يحتاج فصلاً."
+---
+
+# البُوذِيتَسَّا (Bodhicitta): ذِهْن الْيَقَظَة
+
+مَفْهُوم مَحَوْرِيّ فِي الْبُوذِيَّة الْمَاهَايَانَا (Mahāyāna): «**ذِهْن الْيَقَظَة**» (Mind of Awakening)، «**رَغْبَة**» (Aspiration) أَن تَصِل إِلَى «**التَّنْوِير**» (Enlightenment) «**مِن أَجْل**» (For the Sake of) «**جَمِيع**» (All) «**الْمَخْلُوقَات**» (Beings)، لَا مِن أَجْل «**ذَات**» (Self) وَحْدَهَا. «**الْبُوذِيتَسَّا**» (Bodhicitta) «**نَوْعَان**» (Two Types): (1) **الْمُؤَسَّسَة** (Conventional): رَغْبَة أَن نَصِل إِلَى التَّنْوِير. (2) **الْأَصْلِيَّة** (Ultimate): فَهْم «**شُنْياتا**» (Emptiness) + رَحْمَة (Compassion).
+
+## الْمَكَوِّنَات
+
+(1) **اللُّطْف** (Maitri، Loving-Kindness): «**حُبّ**» (Love) «**لَطِيف**» (Tender) لِـ**جَمِيع** (All) الْمَخْلُوقَات. (2) **الرَّحْمَة** (Karunā): «**رَغْبَة**» (Desire) لِـ**تَحْرِير** (Liberate) «**آخَرِين**» مِن «**الْمَعَانَاة**» (Suffering). (3) **الْفَرَح التَّعَاطُفِيّ** (Mudita): «**فَرَح**» (Joy) لِـ**«**سَعَادَة**» (Happiness) «**آخَرِين**». (4) **الْاِنْفِعَال الْمُتَوَازِن** (Upekkhā): «**مُسَاوَاة**» (Equanimity) بَيْن «**ذَات**» وَ«**آخَرِين**».
+
+## فِي عِلْم النَّفْس الْإِكْلِينِيكِيّ
+
+(1) **الْعِلَاج بِالتَّعَاطُف** (Compassion-Focused Therapy): تطبيق «**Bodhicitta**» كَـ**إِطَار** (Framework) لِـ**«**رِعَايَة**» (Caring) «**ذَات**» وَ«**آخَرِين**». (2) **الْبَحْث الْعَصَبِيّ** (Neural Research، 2015، Weng): تَدْرِيب «**Bodhicitta**» يَزِيد «**نَشَاط**» (Activity) فِي «**شَبَكَة**» (Network) «**الِانْفِعَال**» (Affect) + «**اِنْخِفَاض**» «**اسْتِجَابَة**» (Response) لِـ**«**خَوْف**». (3) **تَطْوِير الْمَهَارَات** (Skill Development، Davidson): تَدْرِيب «**Bodhicitta**» «**يُقَوّي**» (Strengthens) «**دَوَائِر**» (Circuits) «**اِنْفِعَال**» (Affect) «**إِيجَابِيّ**» (Positive).
+
+## الأَهمِّيَّة
+
+«**Bodhicitta**» لَا يَعْنِي «**الْاِنْخِرَاط فِي الْحَمَاسَة**» (Activism) أَو «**تَضْحِيَة الذَّات**» (Self-Sacrifice) — بَل «**الِانْخِرَاط الْحَكِيم**» (Wise Engagement) مَعَ «**الْآخَرِين**» (Others)، مَع «**رِعَايَة**» (Caring) «**الذَّات**» (Self) كَـ**جُزْء** (Part) مِن «**رِعَايَة**» (Caring) «**جَمِيع**» (All).

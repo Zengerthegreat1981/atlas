@@ -11,14 +11,16 @@ active_start: 1951
 active_end: 1963
 language: "الألمانية / الإنجليزية"
 country: "ألمانيا / أمريكا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-barth", title: "كارل بارث", type: "مفكر"
-  - id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-barth", title: "كارل بارث", type: "مفكر"
+- id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
+
 gaps:
   - "لم يُراجع كتابه الأساسي (The Courage to Be, 1952) من نسخة أصلية بعد — الاقتباسات هنا وصفية لا حرفية، بانتظار تحقق مباشر حسب سياسة المصادر في القسم 5 من دليل المنهجية."
   - "تاريخ الميلاد/الوفاة غير محقق مباشرة من مصدر أولي."

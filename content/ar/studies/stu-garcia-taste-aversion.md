@@ -8,9 +8,11 @@ en: "Garcia & Koelling Conditioned Taste Aversion Studies (The Garcia Effect)"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب جارسيا في النفور من الطعم"
 active_start: 1966
 active_end: 1974
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "رفض المجلات السلوكية الكبرى في البداية لنشر أبحاث جارسيا يمثل دراسة حالة تاريخية في مقاومة النماذج المعرفية"
   - "التطبيقات الإكلينيكية للنفور من الطعم لدى مرضى العلاج الكيميائي تحتاج توثيقاً طبياً مسانداً"

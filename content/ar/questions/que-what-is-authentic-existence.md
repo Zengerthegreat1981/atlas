@@ -1,21 +1,24 @@
 ---
 slug: "que-what-is-authentic-existence"
 id: "QUE-0001"
-type: "سؤال مولِّد"
+type: "سؤال توليدي"
 level: "مبتدئ"
 title: "ما الذي يجعل الوجود أصيلاً؟"
 en: "What Makes Existence Authentic?"
 crumb: "المدرسة الوجودية ← الأسئلة المولِّدة ← ما الذي يجعل الوجود أصيلاً؟"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 gaps:
   - "يحتاج ربطاً أوسع بعدة عناصر thk- إضافية (فرانكل) بعد التحقق من وجوده الفعلي باسمه الحقيقي في هذا الأطلس؛ لم يُتحقق بعد من وجود عنصر thk-frankl بهذا الاسم بالضبط"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # ما الذي يجعل الوجود أصيلاً؟
 
 سؤال مفتوح لا إجابة نهائية واحدة له، يعمل كنقطة دخول للاستقصاء تربط بين عدة مفكرين ومفاهيم يحاول كل منهم مقاربته بطريقة مختلفة، لا كنتيجة أو ادعاء يمكن إثباته أو نفيه.

@@ -12,10 +12,13 @@ language: "السنسكريتية، البالية (في الأشكال المب
 active_start: 200
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
-  - id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
+- id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
+- id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين Śūnyatā في Prasangika وSvātantrika موضع خلاف."
   - "لا يوجد تعريف فلسفي حديث موحد لـŚūnyatā في الفلسفة العربية."

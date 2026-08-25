@@ -13,15 +13,15 @@ language: "الصينية الكلاسيكية"
 active_start: 580
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مدرسة"
-  - rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-buddhism-early", target_type: "مدرسة"
+- rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-huayan", title: "هوايان (الصينية)", type: "مدرسة"
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-  - id: "sch-nichiren", title: "نيتشيرن", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-huayan", title: "هوايان (الصينية)", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
+- id: "sch-nichiren", title: "نيتشيرن", type: "مدرسة"
 gaps:
   - "نصوص Zhìyi (Mohe Zhiguan، Fahua Xuanyi) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Tiantai وHuayan متشعّب في التفاصيل الفلسفية."

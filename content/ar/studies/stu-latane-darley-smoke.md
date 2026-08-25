@@ -8,9 +8,12 @@ en: "Latané & Darley Smoke-Filled Room Experiment"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة الغرفة المليئة بالدخان"
 active_start: 1968
 active_end: 1968
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "تأثير التدريب السابق على السلامة وإجراءات الطوارئ في تجاوز الجهل التعددي يحتاج توثيقاً إضافياً"
   - "الفروق الفردية في سمات الشخصية ومستوى القلق أثناء التجربة لم تُقس بالتفصيل في البحث الأصلي"

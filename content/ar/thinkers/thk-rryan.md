@@ -11,10 +11,12 @@ country: "أمريكا"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
 related:
-  - id: "thk-edeci", title: "إدوارد ديسي", type: "مفكر"
+- id: "thk-edeci", title: "إدوارد ديسي", type: "مفكر"
+- id: "thk-csikszentmihalyi", title: "ميهاي سيكسنتميهالي", type: "مفكر"
 gaps:
   - "تفاصيل تطبيق النظرية (SDT) في مجال الصحة لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,13 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← تيري غيلنغهام"
 edges:
-  - rel: "belongs_to", target: "هاكومي (Hakomi)", target_type: "مدرسة"
+- rel: "belongs_to", target: "هاكومي (Hakomi)", target_type: "مدرسة"
 related:
-  - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
+- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
+- id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
 
 # تيري غيلنغهام

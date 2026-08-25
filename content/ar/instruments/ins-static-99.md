@@ -8,17 +8,16 @@ en: "Static-99 (Sex Offender Risk Assessment)"
 crumb: "علم النفس الشرعي/الجنائي ← علاج مرتكبي العنف الجنسي ← Static-99"
 active_start: 2001
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+- rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
-  - id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
-  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "أداة قياس"
+- id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
 gaps:
   - "الخصائص السيكومترية تستحق مراجعة من مصدر أولي (Phenix et al., 2016 مراجعة كبرى)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ويليام مارشال (thk-marshall)."
 ---
-
-
 # مقياس Static-99 للمخاطرة الجنسية
 
 أداة تقييم مخاطر الانتكاس الجنسي، طُوّرت عام 2001 (المُحدَّثة Static-99R عام 2009) من قبل رالف هانسن (R.K. Hanson) وDavid Thornton. تتكون من 10 عوامل ثابتة (لا تتغير) مستخلصة من الدراسات الطولية لمرتكبي الجرائم الجنسية.

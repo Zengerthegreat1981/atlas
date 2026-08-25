@@ -13,13 +13,17 @@ language: "الإنجليزية/الأكانية (Twi)"
 active_start: 1977
 active_end: 2024
 edges:
-  - rel: "belongs_to", target: "الفلسفة الأفريقية التأويلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الأفريقية التأويلية", target_type: "مدرسة"
 related:
-  - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
-  - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
+- id: "thk-ashutte", title: "أوغسطين شَتّ", type: "مفكر"
+- id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:
   - "نصوص Wiredu (Philosophy and an African Culture, Cultural Universals and Particulars) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "دُمج معه الملف المكرَّر thk-kwasi-wiredu (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # كواي وايردو
@@ -39,7 +43,7 @@ gaps:
 
 ## قيد
 
-منهجه «التأويلي» كُثِّف بأنه «حَذِر» (Cautious) أكثر من اللازم في نقد «الإثنوفلسفة»، وهو ما ردّ عليه في أعماله اللاحقة (A Companion to African Philosophy, 2004).
+منهجه «التأويلي» نُقِد بأنه «حَذِر» (Cautious) أكثر من اللازم في نقد «الإثنوفلسفة»، وهو ما ردّ عليه في أعماله اللاحقة (A Companion to African Philosophy, 2004).
 
 ## أهم أعماله
 

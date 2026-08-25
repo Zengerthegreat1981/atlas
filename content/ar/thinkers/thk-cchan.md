@@ -9,10 +9,14 @@ crumb: "مدرسة التحليل النفسي ← الناس ← كاثرين �
 dates: "هونغ كونغ · [غير مؤكد]"
 country: "هونغ كونغ"
 language: "الإنجليزية / الصينية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -24,7 +28,7 @@ gaps:
 
 ## ما أعطته
 
-بعد تحليلها في تايبيه (مع M. Tibaldi) وميلانو (AIPA)، أسّست مع M. Tibaldi و T. Lee «HKIAP» (Hong Kong Institute of Analytical Psychology) كـ Developing Group في IAAP (2003)، ثم نالت العضوية الكاملة (2019). كذلك أجرت «تحليلية» في دراساتها عن «الذاكرة الجماعية» لـ Hong Kong (1997، تسليم هونغ كونغ للصين) كأرشيتايب «الوحدة المنفصلة».
+بعد تحليلها في تايبيه (مع M. Tibaldi) وميلانو (AIPA)، أسّست مع M. Tibaldi و T. Lee «HKIAP» (Hong Kong Institute of Analytical Psychology) كـ Developing Group في IAAP (2003)، ثم نالت العضوية الكاملة (2019). كذلك أجرت «تحليلية» في دراساتها عن «الذاكرة الجماعية» لـ Hong Kong (1997، تسليم هونغ كونغ للصين) كأركيتيب «الوحدة المنفصلة».
 
 ## موقعها من التيار
 

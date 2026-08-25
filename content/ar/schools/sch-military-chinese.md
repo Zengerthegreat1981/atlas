@@ -14,10 +14,16 @@ active_start: -500
 active_end: -100
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين", type: "مدرسة"
+- id: "thk-sunzi", title: "سون تزو (سون وو)", type: "مفكر"
+- id: "thk-sun-bin", title: "سون بن (孫臏)", type: "مفكر"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "con-nature-deficit", title: "متلازمة عجز الطبيعة", type: "مفهوم"
+- id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
 gaps:
   - "نصوص Sunzi / Sun Bin / Wu Qi الأصلية بُحثت هنا بالترجمات الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين 'الاستراتيجيا' كعلم و'التكتيك' كفنّ لم يُحلّ بشكل قاطع في هذا الملف."

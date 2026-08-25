@@ -11,11 +11,11 @@ active_start: 1970
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-loneliness-isolation", title: "الوحدة والعزلة", type: "متلازمة"
+- id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-loneliness-isolation", title: "الوحدة والعزلة", type: "متلازمة"
 gaps:
   - "تأثير الفروق الثقافية في المجتمعات الجماعية مقابل الفردية على حدة المتلازمة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

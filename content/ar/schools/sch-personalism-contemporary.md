@@ -13,11 +13,11 @@ language: "الفرنسية، الإيطالية، الإنجليزية"
 active_start: 1937
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة القارية", target_type: "مظلة"
-  - rel: "evolved_from", target: "الشخصانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "evolved_from", target: "الشخصانية", target_type: "مدرسة"
 related:
-  - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
-  - id: "sch-personalism", title: "الفلسفة الشخصية (الشخصانية المبكرة)", type: "مدرسة"
+- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
+- id: "sch-personalism", title: "الفلسفة الشخصية (الشخصانية المبكرة)", type: "مدرسة"
 gaps:
   - "حدود 'الشخصانية المعاصرة' (مقابل الشخصانية السابقة) لم تُحصر بدقة في المراجع الفلسفية."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

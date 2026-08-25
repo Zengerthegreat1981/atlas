@@ -11,12 +11,15 @@ dates: "برلين · ثلاثينيات وأربعينيات القرن الع�
 active_start: 1930
 active_end: 1953
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
-  - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+- id: "thk-khorney", title: "كارين هورني", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تأسيس المعهد الألماني للأبحاث النفسية والعلاج النفسي (معهد غورينغ Göring Institute) في برلين خلال الحقبة النازية والجدل التاريخي المحيط به."
   - "تصنيف شولتز-هينكه للدوافع الأولية (التملك، والعدوان، والشغف، والحرية) ونظريته في العصاب."

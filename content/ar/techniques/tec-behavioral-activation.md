@@ -11,11 +11,14 @@ dates: "التسعينيات والألفية"
 active_start: 1996
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "dis-depressive-due-to-medical", title: "اضطراب الاكتئاب الناجم عن حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-substance-induced-mood", title: "اضطراب المزاج المحدث بالمواد أو الأدوية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الدراسة التفكيكية المعشاة لنيل جاكوبسون (1996) التي أثبتت أن التنشيط السلوكي بمفرده يعادل كفاءة العلاج المعرفي الكامل للاكتئاب."
   - "نموذج TRAP (المحفز، الاستجابة، نمط التجنب) ونموذج TRAC البديل للتغلب على الانسحاب الاكتئابي."

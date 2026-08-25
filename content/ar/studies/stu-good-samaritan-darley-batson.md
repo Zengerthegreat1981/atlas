@@ -8,9 +8,11 @@ en: "Darley & Batson 'From Jerusalem to Jericho' Good Samaritan Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة السامري الصالح لدارلي وباتسون"
 active_start: 1973
 active_end: 1973
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "العلاقة بين التوجه الديني الجوهري والمظهري في تفسير سلوك الإيثار تحتاج استعراضاً من أبحاث باتسون اللاحقة"
   - "تباين الاستجابة باختلاف نوع الضحية ودرجة خطورة حالتها يتطلب مراجعة دراسات الإيثار المقارنة"

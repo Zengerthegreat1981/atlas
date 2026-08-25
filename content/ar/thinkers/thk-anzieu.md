@@ -11,13 +11,17 @@ active_start: 1981
 active_end: 1996
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "br-french-psychoanalysis", title: "مدرسة التحليل النفسي الفرنسية", type: "تيار"
+- id: "br-group-psychoanalysis", title: "التحليل النفسي الجماعي وتحليل المجموعات", type: "تيار"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوم 'أنا-الجلد' وعلاقته بالحدود الوجودية والجسدية للذات يحتاج مقاربة فينومينولوجية مفصلة."
@@ -41,4 +45,4 @@ gaps:
 
 ## أهم أعماله
 
-أنا-الجلد (Le Moi-peau, 1985) · الجسد والعملية التحليلية (Le Corps de l'œuvre, 1981) · الفكر والجلد (Créer - Détruire, 1996).
+أنا-الجلد (Le Moi-peau, 1985) · جسد العمل الفني (Le Corps de l'œuvre, 1981) · أن تخلق، أن تدمّر (Créer - Détruire, 1996).

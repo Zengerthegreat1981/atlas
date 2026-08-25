@@ -6,16 +6,20 @@ level: "متقدم"
 title: "نموذج الجهاز"
 en: "The Device Paradigm (Borgmann)"
 crumb: "المدرسة الوجودية ← المفاهيم ← نموذج الجهاز"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
-  - id: "con-focal-practices", title: "الممارسات المحورية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
+- id: "con-focal-practices", title: "الممارسات المحورية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "كتاب بورغمان 'Technology and the Character of Contemporary Life' (1984) يحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نموذج الجهاز (Device Paradigm)

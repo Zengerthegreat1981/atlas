@@ -11,11 +11,13 @@ dates: "من أواخر القرن العشرين"
 active_start: 1982
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
-  - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "dis-gender-identity-disorder-historical", title: "اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "إرشادات الجمعية الأمريكية لعلم النفس (APA) في الممارسة الإكلينيكية التوكيدية للأقليات الجنسية والجندرية."
   - "معالجة ضغط الأقلية (Minority Stress) والخزي المستدخل والوصم الاجتماعي."

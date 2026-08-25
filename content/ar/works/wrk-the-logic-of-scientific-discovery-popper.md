@@ -1,0 +1,38 @@
+---
+slug: "wrk-the-logic-of-scientific-discovery-popper"
+id: "WRK-0724"
+type: "عمل / كتاب"
+part: "philosophy"
+level: "متقدم"
+title: "منطق الكشف العلمي لكارل بوبر"
+en: "The Logic Of Scientific Discovery Popper"
+crumb: "المكتبة الفلسفية ← أمهات الأعمال والمصادر ← منطق الكشف العلمي لكارل بوبر"
+active_start: 1934
+active_end: 1934
+edges:
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
+related:
+- id: "trm-falsifiability-popper", title: "القابلية للتكذيب والخطأ (Falsifiability): معيار العلم التجريبي الصارم", type: "مصطلح لغوي متنازع عليه"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+gaps:
+  - "المخطوطات والترجمات النقدية المعاصرة وتاريخ تلقي العمل."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# منطق الكشف العلمي لكارل بوبر
+
+إرساء معيار القابلية للتكذيب ونقض الاستقراء وتأسيس العقلانية النقدية في العلم.
+
+## البنية والأطروحة المركزية
+
+يقدم هذا العمل أطروحة فلسفية فارقة شكلت إضافة نوعية إلى مباحث الوجود والمعرفة والأخلاق والسياسة.
+
+## الأثر التاريخي والنقدي
+
+حظي الكتاب بدراسات وشروح وترجمات واسعة وصار مرجعاً لا غنى عنه في تاريخ الفلسفة الإنسانية.
+
+## اقتباسات مختارة
+
+لا يوجد اقتباس مباشر موثوق متاح.

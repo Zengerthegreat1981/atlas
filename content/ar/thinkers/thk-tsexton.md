@@ -11,13 +11,20 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "PCIT", target_type: "مدرسة"
+- rel: "belongs_to", target: "PCIT", target_type: "مدرسة"
 related:
-  - id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرلي إِيبِرغ (thk-ieyberg)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرلي إِيبِرغ (thk-ieyberg)."
 ---
 
 # توني سيكستون

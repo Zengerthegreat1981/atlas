@@ -8,9 +8,11 @@ en: "Wechsler Memory Scale (WMS-IV)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس وكسلر للذاكرة"
 active_start: 1945
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "مقارنة درجات WMS-IV بدرجات ذكاء WAIS-IV لتحديد التراجع النمطي في الذاكرة (IQ-Memory Discrepancy)"
   - "تقنين النسخ العربية وبطاريات الفحص المختصر لكبار السن تحتاج مراجعة إكلينيكية"

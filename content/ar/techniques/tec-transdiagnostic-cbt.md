@@ -11,12 +11,13 @@ dates: "من 2010"
 active_start: 2010
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-unified-protocol", title: "البروتوكول الموحّد", type: "تقنية/تدخل علاجي"
-  - id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
-  - id: "tec-metacognitive-therapy", title: "العلاج ما وراء المعرفي (MCT)", type: "تقنية/تدخل علاجي"
+- id: "tec-unified-protocol", title: "البروتوكول الموحّد", type: "تقنية/تدخل علاجي"
+- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
+- id: "tec-metacognitive-therapy", title: "العلاج ما وراء المعرفي (MCT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الفرق الدقيق بين Transdiagnostic CBT وUP وProcess-Based CBT في الأهداف والتطبيق."
   - "كتاب أدريان ويلز الكلاسيكي في هذا المجال (Wells 2009)."

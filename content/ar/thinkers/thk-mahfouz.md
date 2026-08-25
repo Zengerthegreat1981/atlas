@@ -11,16 +11,17 @@ active_start: 1956
 active_end: 1995
 country: "مصر"
 language: "العربية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "thk-dostoevsky", title: "فيودور دوستويفسكي", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "thk-dostoevsky", title: "فيودور دوستويفسكي", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "رواياته الوجودية الكبرى (اللص والكلاب، الشحاذ، الطريق، وثرثرة فوق النيل) تستحق إدراجاً في الأعمال."

@@ -11,10 +11,10 @@ active_start: 1974
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-obsessive-compulsive-personality", title: "اضطراب الشخصية الوسواسية", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-obsessive-compulsive-personality", title: "اضطراب الشخصية الوسواسية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث نورمان غيرشفيند وديفيد بير (1975) في توصيف الشخصية الصدغية البينية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

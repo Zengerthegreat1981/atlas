@@ -13,11 +13,13 @@ language: "الألمانية"
 active_start: 1860
 active_end: 1930
 edges:
-  - rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الكانطية النقدية", target_type: "مدرسة"
-  - rel: "split_into", target: "مدرسة ماربورغ", target_type: "تيار"
-  - rel: "split_into", target: "مدرسة بادن (فرايبورغ، سودويست)", target_type: "تيار"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
+- rel: "split_into", target: "مدرسة ماربورغ", target_type: "تيار"
+- rel: "split_into", target: "مدرسة بادن (فرايبورغ، سودويست)", target_type: "تيار"
 related:
+- id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«هرمان كوهن» (thk-cohen) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«باول ناتورب» (thk-natorp) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

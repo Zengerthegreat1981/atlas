@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1979
 active_end: 1979
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي ومهارات التواصل", target_type: "مدرسة"
-  - rel: "written_by", target: "روبرت بولتون", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي ومهارات التواصل", target_type: "مدرسة"
+- rel: "written_by", target: "thk-robert-bolton", target_type: "مفكر"
 related:
-  - id: "thk-robert-bolton", title: "روبرت بولتون", type: "مفكر"
+- id: "thk-robert-bolton", title: "روبرت بولتون", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

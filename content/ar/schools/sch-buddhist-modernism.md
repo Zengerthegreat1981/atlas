@@ -13,14 +13,14 @@ language: "الإنجليزية، البالي، السنسكريتية"
 active_start: 1860
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-buddhism-early", target_type: "مظلة"
 related:
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
-  - id: "sch-navayana", title: "بوذية نافايانا", type: "مدرسة"
-  - id: "sch-navya-nyaya", title: "نيايا الجديدة (نافيا-نيايا)", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
+- id: "sch-navayana", title: "بوذية نافايانا", type: "مدرسة"
+- id: "sch-navya-nyaya", title: "نيايا الجديدة (نافيا-نيايا)", type: "مدرسة"
 gaps:
   - "نصوص Henry Steel Olcott (Buddhist Catechism)، Dharmapala، T.W. Rhys Davids، D.T. Suzuki تحتاج مراجعة من المصدر الأولي."
   - "العلاقة بين Buddhist Modernism والـProtestantism تستحق بحثاً نقدياً."

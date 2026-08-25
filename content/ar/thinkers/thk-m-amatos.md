@@ -9,12 +9,15 @@ crumb: "السلوكية (Behaviorism) ← الناس ← ماريّا أميل�
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
-  - id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
+- id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."

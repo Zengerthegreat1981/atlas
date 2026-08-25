@@ -11,13 +11,15 @@ active_start: 1930
 active_end: 1930
 country: "رومانيا"
 language: "الرومانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "thk-ionesco", title: "أوجين يونسكو", type: "مفكر"
+- id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "thk-ionesco", title: "أوجين يونسكو", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "فلسفة 'التجربة الحياتية/التراجيدية' (Trăirism) وتأثيره في الجيل الروماني (سيوران وإلياد ويونسكو) تحتاج توثيقاً."

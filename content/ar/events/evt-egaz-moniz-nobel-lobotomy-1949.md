@@ -9,8 +9,29 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1935
 active_end: 1970
 country: "البرتغال"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "evt-first-international-congress-psychology-1889", title: "انعقاد المؤتمر الدولي الأول لعلم النفس في باريس 1889", type: "حدث تاريخي"
+- id: "evt-secret-committee-1912", title: "تأسيس اللجنة السرية للتحليل النفسي (Geheimes Komitee) 1912", type: "حدث تاريخي"
+- id: "evt-vienna-psychoanalytic-society-1908", title: "تأسيس جمعية فيينا للتحليل النفسي رسمياً 1908", type: "حدث تاريخي"
+- id: "evt-bad-homburg-international-psychotherapy-1924", title: "مؤتمر باد هومبورغ الدولي للعلاج النفسي 1924", type: "حدث تاريخي"
+- id: "evt-yale-hull-neo-behaviorism-1935", title: "محاضرات ييل وهال والسلوكية الجديدة 1935", type: "حدث تاريخي"
+- id: "evt-spssi-founding-1936", title: "تأسيس SPSSI 1936", type: "حدث تاريخي"
+- id: "evt-aaap-founding-1937", title: "تأسيس الجمعية الأمريكية لعلم النفس التطبيقي (AAAP) 1937", type: "حدث تاريخي"
+- id: "evt-uk-mental-health-act-1959", title: "صدور قانون الصحة النفسية البريطاني 1959 وإلغاء التمييز القانوني بين المرضى", type: "حدث تاريخي"
+- id: "evt-iaap-jungian-1955", title: "تأسيس الرابطة الدولية لعلم النفس التحليلي (IAAP) 1955", type: "حدث تاريخي"
+- id: "evt-journal-analytical-psychology-1955", title: "صدور العدد الأول من مجلة علم النفس التحليلي 1955", type: "حدث تاريخي"
+- id: "evt-lanterman-petris-short-act-1967", title: "صدور قانون لانترمان-بترس-شورت في كاليفورنيا 1967", type: "حدث تاريخي"
+- id: "evt-nimh-founding-1949", title: "تأسيس المعهد الوطني للصحة النفسية (NIMH) 1949", type: "حدث تاريخي"
+- id: "evt-old-saybrook-conference-1964", title: "مؤتمر أولد سايبروك وميلاد بيان علم النفس الإنساني 1964", type: "حدث تاريخي"
+- id: "evt-psychonomic-society-1959", title: "تأسيس جمعية سايكونومك لعلم النفس التجريبي 1959", type: "حدث تاريخي"
 gaps:
   - "حملة والتر فريمان ومشرط الثلج عبر محجر العين (Transorbital Lobotomy) في أمريكا تتطلب توثيقاً"
   - "مطالبات عائلات الضحايا المستمرة للجنة نوبل بسحب الجائزة بأثر رجعي تحتاج استعراضاً"

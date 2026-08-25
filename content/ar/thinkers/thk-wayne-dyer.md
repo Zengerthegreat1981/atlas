@@ -14,9 +14,9 @@ language: "الإنجليزية"
 active_start: 1976
 active_end: 2015
 edges:
-  - rel: "belongs_to", target: "علم النفس الإرشادي والتنمية الذاتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإرشادي والتنمية الذاتية", target_type: "مدرسة"
 related:
-  - id: "wrk-erroneous-zones", title: "مناطق أخطائك", type: "عمل / كتاب"
+- id: "wrk-erroneous-zones", title: "مناطق أخطائك", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

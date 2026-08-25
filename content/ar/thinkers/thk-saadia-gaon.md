@@ -13,11 +13,11 @@ active_end: 942
 country: "الخلافة العباسية (بغداد)"
 language: "العربية والعبرية"
 edges:
-  - rel: "belongs_to", target: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", target_type: "مدرسة"
 related:
-  - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
-  - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
-  - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
+- id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 gaps:
   - "مدى تأثره المباشر بكتب المعتزلة (أبو الهذيل، النظّام) يحتاج بحثاً نصياً."
   - "لا يوجد اقتباس مباشر موثوق من «الأمانات والعقائد» متاح."

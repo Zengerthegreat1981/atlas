@@ -10,22 +10,25 @@ crumb: "المدرسة الوجودية ← التيارات ← التيار ا
 dates: "بريطانيا · من الثمانينيات"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "part_of", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "developed_by", target: "فان دورزن", target_type: "مفكرة"
-  - rel: "critiques", target: "الإنساني-الوجودي الأمريكي", target_type: "تيار"
-  - rel: "influenced_by", target: "الظاهراتية", target_type: "منهج"
-  - rel: "contains", target: "الصيغة العلائقية", target_type: "فرع"
+- rel: "part_of", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "developed_by", target: "فان دورزن", target_type: "مفكرة"
+- rel: "critiques", target: "br-humanistic", target_type: "تيار"
+- rel: "influenced_by", target: "sch-phenomenology", target_type: "منهج"
+- rel: "contains", target: "br-relational", target_type: "فرع"
 related:
-  - id: "thk-vandeurzen", title: "فان دورزن", type: "مفكرة"
-  - id: "thk-spinelli", title: "سبينيللي", type: "مفكر"
-  - id: "dbt-british-yalom", title: "خصومتها مع يالوم", type: "جدل"
-  - id: "dbt-structures", title: "خصومة البنى", type: "جدل"
-  - id: "thk-ctaylor", title: "كريغ تايلور", type: "مفكر"
+- id: "thk-vandeurzen", title: "فان دورزن", type: "مفكر"
+- id: "thk-spinelli", title: "سبينيللي", type: "مفكر"
+- id: "dbt-british-yalom", title: "خصومتها مع يالوم", type: "جدل"
+- id: "dbt-structures", title: "خصومة البنى", type: "جدل"
+- id: "thk-ctaylor", title: "كريغ تايلور", type: "مفكر"
+- id: "br-relational", title: "الصيغة العلائقية — الموجودي-الظاهراتي البريطاني (سبينيللي)", type: "تيار"
+- id: "br-spinelli-phenomenological", title: "العلاج الظاهراتي (سبينيلّي)", type: "تيار"
 gaps:
   - "تواريخ التأسيس والمجلات والبرامج بمصادرها — تحتاج تثبيتاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # الوجودي-الظاهراتي البريطاني
 
 أحدث التيارات الأربعة وأشدّها التزاماً بالمنهج، ويعرّف نفسه بأنه ممارسة فلسفية لا علاج بالمعنى الطبي.

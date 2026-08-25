@@ -13,19 +13,19 @@ language: "اليونانية (ثم اللاتينية في روما)"
 active_start: -306
 active_end: 250
 edges:
-  - rel: "belongs_to", target: "فلسفة هلنستية", target_type: "مظلة"
-  - rel: "superseded_by", target: "المسيحية", target_type: "مظلة"
+- rel: "belongs_to", target: "فلسفة هلنستية", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-existentialism-religious", target_type: "مظلة"
 related:
-  - id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
-  - id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
-  - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-  - id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
+- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "trm-ataraxia-epicurean-pyrrhonic", title: "الأتاراكسيا (Ataraxia): طمأنينة البال وخلو النفس من الاضطراب", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "أعمال إبيقور نفسها (نحو 40 عملاً) فُقدت. وصلتنا 3 رسائل (هيرودوتوس، بيثوقلس، مينوسيوس) +'الأقوال الرئيسية' (Κύριαι Δόξαι)."
   - "بومباي (P. Herc. 1005) أعاد اكتشاف برديات في هركولانوم (1800s) فيها بقايا كتب إبيقور — لكن الترميم جارٍ."
   - "كلمة 'أبيقوري' في العربية والإنجليزية تعني 'المُترف المُنهمك في اللذات'، وهو تحريف لمذهب إبيقور الفعلي."
 ---
-
 # الأبيقورية (Epicureanism)
 
 تيار فلسفي أسّسه **إبيقور** (Epicurus، 341–270 ق.م) في أثينا عام 306 ق.م، حين اشترى حديقة وعلّم فيها. رغم أن اسمه صار مرادفاً في الثقافات اللاحقة لـ«المُنهمك في اللذات»، فإن المذهب الأبيقوري الحقيقي **أخلاقي-روحي**: يقوم على تحرير الإنسان من **ثلاثة مخاوف** (الموت، الألم، الإله).

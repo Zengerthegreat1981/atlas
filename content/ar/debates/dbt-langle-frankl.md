@@ -8,16 +8,18 @@ en: "The Viennese split"
 crumb: "المدرسة الوجودية ← الخصومات ← الانشقاق الفييّني"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-  - id: "thk-langle", title: "لانغله", type: "مفكر"
+- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "thk-frankl", title: "فرانكل", type: "مفكر"
+- id: "thk-langle", title: "لانغله", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # لانغله ضد فرانكل

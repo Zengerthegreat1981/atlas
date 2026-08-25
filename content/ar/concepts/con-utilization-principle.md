@@ -8,10 +8,15 @@ en: "Utilization Principle"
 crumb: "التنويم والهيبنوثيرابي ← المفاهيم ← مبدأ الاستفادة"
 active_start: 1950
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
 related:
-  - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "thk-jeffrey-zeig", title: "جيفري زايغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النصوص الأصلية لإريكسون عن المبدأ في محاضراته لم تُراجع اقتباساً دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,11 +11,13 @@ crumb: "علم النفس الإيجابي وسيكولوجيا السعادة �
 active_start: 1971
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإيجابي وسيكولوجيا السعادة", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإيجابي وسيكولوجيا السعادة", target_type: "مدرسة"
 related:
-  - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
-  - id: "wrk-stumbling-on-happiness", title: "العثرات في طريق السعادة", type: "عمل / كتاب"
-  - id: "thk-daniel-gilbert", title: "دانيال جيلبرت", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "wrk-stumbling-on-happiness", title: "العثرات في طريق السعادة", type: "عمل / كتاب"
+- id: "thk-daniel-gilbert", title: "دانيال جيلبرت", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "دراسة بريكمان وكامبل (Brickman & Campbell 1971) المقارنة بين الفائزين باليانصيب وضحايا الشلل الرباعي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

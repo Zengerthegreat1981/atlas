@@ -8,11 +8,15 @@ en: "Validity and Reliability Debate on Projective Testing in Clinical and Foren
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← جدل صدق الاختبارات الإسقاطية"
 active_start: 1950
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "ins-rorschach", title: "اختبار بقع الحبر لرورشاخ", type: "أداة قياس"
-  - id: "ins-tat", title: "اختبار تفهم الموضوع لـ موراي", type: "أداة قياس"
-  - id: "ins-mmpi", title: "اختبار الشخصية متعدد الأوجه لمينيسوتا", type: "أداة قياس"
+- id: "ins-rorschach", title: "اختبار بقع الحبر لرورشاخ", type: "أداة قياس"
+- id: "ins-tat", title: "اختبار تفهم الموضوع لـ موراي", type: "أداة قياس"
+- id: "ins-mmpi", title: "اختبار الشخصية متعدد الأوجه لمينيسوتا", type: "أداة قياس"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "التحول المعاصر من نظام إكسنر الشامل إلى نظام R-PAS الأدائي القائم على الأدلة لـ Gregory Meyer يحتاج توثيقاً"
   - "معايير دوبرت (Daubert Standard) للشهادة العلمية المقبولة في المحاكم وأثرها على الرورشاخ تتطلب مراجعة قانونية"

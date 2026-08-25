@@ -1,6 +1,6 @@
 ---
 slug: "tec-animal-assisted-therapy"
-id: "TEC-0058"
+id: "TEC-0367"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "العلاج بمساعدة الحيوانات (AAT)"
@@ -10,10 +10,11 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 1961
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
 related:
-  - id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"
+- id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"
 gaps:
   - "أول استخدام مؤسسي موثَّق في المعهد النفسي للأطفال عام 1961 (بوريس لوبينوف)."
   - "تأسست 'رابطة العلاج بمساعدة الحيوانات' الدولية (AAI) في 1977."

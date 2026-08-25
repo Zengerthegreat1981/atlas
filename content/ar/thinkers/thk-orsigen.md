@@ -13,13 +13,14 @@ active_end: 253
 country: "الإسكندرية، فلسطين الرومانية"
 language: "اليونانية (مع اللاتينية للترجمات)"
 edges:
-  - rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
 related:
-  - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
-  - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
+- id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
 gaps:
   - "الكثير من أعماله ضاعت، ولا نعرفها إلا في الترجمة اللاتينية لروبنوس (Rufinus of Aquileia)."
   - "لا يوجد اقتباس مباشر موثوق من 'الباديغيا' متاح."
+  - "دُمج معه الملف المكرَّر thk-origen (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # أوريجانوس (Origen of Alexandria)

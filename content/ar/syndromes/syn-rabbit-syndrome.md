@@ -11,10 +11,11 @@ active_start: 1972
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر", type: "متلازمة"
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر", type: "متلازمة"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-aims-involuntary-movement", title: "مقياس الحركات اللاإرادية غير الطبيعية (AIMS)", type: "أداة قياس"
 gaps:
   - "أبحاث فيلنوف (Villeneuve 1972) والتمييز الفارق الدقيق عن خلل الحركة المتأخر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,17 +10,20 @@ crumb: "المدرسة الوجودية ← الأعمال ← الزمن الم
 dates: "1933 · مينكوفسكي"
 active_start: 1933
 active_end: 1933
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "مينكوفسكي", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "مينكوفسكي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
+- id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
 ---
-
 # الزمن المُعاش
 
 أدقّ وصف لانهيار الزمن في المرض النفسي، ونموذج لما تستطيع الظاهراتية فعله.

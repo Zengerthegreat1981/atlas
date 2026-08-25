@@ -11,10 +11,11 @@ active_start: 1908
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-apraxia-ideomotor", title: "متلازمة تعذر الأداء الحركي الفكري (Ideomotor Apraxia)", type: "متلازمة"
 gaps:
   - "أبحاث كورت غولدشتاين (Kurt Goldstein 1908) ودراسات الجسم الثفني (Corpus Callosum)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

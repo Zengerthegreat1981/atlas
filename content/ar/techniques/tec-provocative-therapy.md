@@ -11,12 +11,14 @@ dates: "ويسكونسن · السبعينيات"
 active_start: 1974
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "فرانك فاريلي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-farrelly", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-farrelly", title: "فرانك فاريلي", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "كتاب فرانك فاريلي (Frank Farrelly) التأسيسي 'العلاج الاستفزازي' (1974) واستخدام الفكاهة الساخرة والمبالغة الدافئة."
   - "الفرضية المركزية: استفزاز العميل للرد بالدفاع عن قدراته وإيجابياته ضد المبالغة التهكمية للمعالج."

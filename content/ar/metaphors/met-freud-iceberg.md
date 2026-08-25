@@ -6,12 +6,15 @@ level: "مبتدئ"
 title: "الجبل الجليدي: استعارة الوعي واللاوعي التحليلي"
 en: "The Iceberg Metaphor: Conscious, Preconscious, and Unconscious Mind"
 crumb: "مدرسة التحليل النفسي ← الاستعارات المؤسِّسة ← الجبل الجليدي"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "dbt-unconscious", title: "هل يوجد لاوعي؟", type: "جدل"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي", type: "علاقة بين مدرستين"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "dbt-unconscious", title: "هل يوجد لاوعي؟", type: "جدل"
+- id: "rel-psychoanalysis", title: "التحليل النفسي", type: "علاقة بين مدرستين"
 gaps:
   - "تاريخ أول رسم توضيحي بصري للجبل الجليدي في الأدبيات الفرويدية الشعبية مقابل نصوص فرويد التضاريسية يحتاج توثيقاً تاريخياً دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

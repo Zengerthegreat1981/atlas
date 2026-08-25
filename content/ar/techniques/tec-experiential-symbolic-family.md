@@ -11,10 +11,11 @@ dates: "ويسكونسن · الستينيات والسبعينيات"
 active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-satir-transformational-systemic", title: "نموذج ساتير الأسري التحويلي", type: "تقنية/تدخل علاجي"
+- id: "tec-satir-transformational-systemic", title: "نموذج ساتير الأسري التحويلي", type: "تقنية/تدخل علاجي"
 gaps:
   - "الأسلوب العفوي والبديهي لكارل ويتاكر (Carl Whitaker) ومفهوم 'العلاج النفسي للعبث' (Therapy of the Absurd)."
   - "معركة البنية (Battle for Structure) ومعركة المبادرة (Battle for Initiative) في الجلسات الأولى."

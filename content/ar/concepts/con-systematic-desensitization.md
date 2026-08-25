@@ -8,13 +8,15 @@ en: "Systematic Desensitization"
 crumb: "المعرفية السلوكية ← المفاهيم ← إزالة التحسس المنهجي"
 active_start: 1958
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
-  - id: "con-reciprocal-inhibition", title: "التثبيط المتبادل", type: "مفهوم"
-  - id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
-  - id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي", type: "تقنية/تدخل علاجي"
+- id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
+- id: "con-reciprocal-inhibition", title: "التثبيط المتبادل", type: "مفهوم"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
+- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي", type: "تقنية/تدخل علاجي"
+- id: "stu-pavlov-classical-conditioning", title: "تجارب بافلوف الأصلية في الإشراط الكلاسيكي والمنعكس الشرطي", type: "دراسة وبحث"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "البروتوكولات الحديثة مقابل التقليدية (إزالة التحسس داخل الجلسة مقابل تخيلية) — موضع تفصيل."

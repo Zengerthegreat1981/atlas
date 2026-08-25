@@ -9,11 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← دونالد �
 dates: "أمريكا / بريطانيا · 1922–2004"
 country: "أمريكا / بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2004
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-spillius", title: "إلِزابت بوت سپِليوس", type: "مفكر"
+- id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "تيار"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفاهيم 'الصراع الجمالي' (Aesthetic Conflict) وتفكيك الذاتية التوحدية (Dismantling) تستحق توثيقاً."

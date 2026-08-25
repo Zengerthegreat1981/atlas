@@ -11,12 +11,13 @@ dates: "من أواخر التسعينيات والنهضة الحديثة"
 active_start: 2000
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
 gaps:
   - "بروتوكولات التجارب السريرية للجمعية متعددة التخصصات لدراسات السيكوديلك (MAPS) لعلاج PTSD باستخدام MDMA وأبحاث السيلوسيبين في جامعة جونز هوبكنز وإمبريال كوليدج لندن."
   - "أهمية 'الإعداد والبيئة' (Set and Setting) وجلسات الدمج والتكامل النفسي اللاحقة للرحلة (Integration Sessions)."

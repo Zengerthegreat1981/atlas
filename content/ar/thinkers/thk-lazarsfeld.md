@@ -9,10 +9,16 @@ crumb: "علم النفس الفردي ← الناس ← الكلاسيكيون
 dates: "النمسا · [غير مؤكد]"
 country: "النمسا"
 language: "الألمانية"
+part: "psychology"
+active_start: null
+active_end: 1976
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-hstein", title: "هنري ت. ستاين", type: "مفكر"
+- id: "thk-amuller", title: "ألكسندر مولر", type: "مفكر"
+- id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
   - "العلاقة بينها وبين بول لازارسفيلد (عالم الاجتماع الشهير) زوجها — تحتاج توضيحاً."

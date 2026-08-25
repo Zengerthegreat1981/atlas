@@ -13,11 +13,16 @@ language: "الفارسية (مع العربية والأوردو)"
 active_start: 1580
 active_end: 1750
 edges:
-  - rel: "belongs_to", target: "التصوف الفلسفي", target_type: "مظلة"
+- rel: "belongs_to", target: "br-irfan-shuhudi-sirhindi", target_type: "مظلة"
 related:
-  - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
-  - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
-  - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
+- id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
+- id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"
+- id: "thk-sadr-al-din-al-qunawi", title: "صدر الدين محمد بن إسحاق القونوي", type: "مفكر"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "con-nature-deficit", title: "متلازمة عجز الطبيعة", type: "مفهوم"
+- id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
 gaps:
   - "الفرق بين الأكبرية والصديقية في إطار «وحدة الشهود» (هل هما مدرستان منفصلتان أم تيار واحد) يحتاج بحثاً."
   - "لا يوجد اقتباس مباشر موثوق متاح من «أسرار الذات الإلهية» للشيخ أحمد السرهندي."

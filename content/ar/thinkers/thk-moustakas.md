@@ -11,15 +11,18 @@ active_start: 1961
 active_end: 1994
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-rubin", title: "شون روبين", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-gretchen-rubin", title: "غريتشن روبين", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-eengelhardt", title: "هيوغز إنغلهارت", type: "مفكر"
+- id: "thk-mvanmanen", title: "ماكس فان مانن", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "منهج البحث الكشفي الاستكشافي (Heuristic Research) يستحق إدراجاً في أدوات البحث النوعي."

@@ -8,16 +8,20 @@ en: "Postcolonial Critique of Psychoanalysis: Travel as Metaphor, the Local as S
 crumb: "النقد الخارجي ← النقد ما بعد الاستعماري ← النقد ما بعد الاستعماري للتحليل النفسي"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "التحليل النفسي", target_type: "مدرسة"
-related:  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
-  - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
-  - id: "con-postcolonial-psychoanalysis", title: "التحليل النفسي بعد الكولونيالي", type: "مفهوم"
-  - id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"gaps:
-  - "موقف Gokulsing (1997) من 'التحليل النفسي البريطاني-الهندي' — لا مراجعة نصية."
-  - "تفاصيل 'Bion in Latin America' (خاصة في الأرجنتين) — لا مراجعة."
-  - "لا اقتباس مباشر موثوق متاح من فرويد (توفي 1939، قبل موجة ما بعد الكولونيالية)."
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
+- id: "con-postcolonial-psychoanalysis", title: "التحليل النفسي بعد الكولونيالي", type: "مفهوم"
+- id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"gaps:
+- "موقف Gokulsing (1997) من 'التحليل النفسي البريطاني-الهندي' — لا مراجعة نصية."
+- "تفاصيل 'Bion in Latin America' (خاصة في الأرجنتين) — لا مراجعة."
+- "لا اقتباس مباشر موثوق متاح من فرويد (توفي 1939، قبل موجة ما بعد الكولونيالية)."
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---
 
 # النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب

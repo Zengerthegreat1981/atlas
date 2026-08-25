@@ -11,10 +11,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
 related:
-  - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
+- id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
+- id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -32,7 +34,7 @@ gaps:
 
 ## موقعه من التيار
 
-يُمثّل الجيل الثاني لـ DIR/Floortime، وأعطى المنهج أدوات تطبيقية محدّدة بدلاً من الإطار النظري العام الذي قدّمه والده وويـدِر.
+يُمثّل الجيل الثاني لـ DIR/Floortime، وأعطى المنهج أدوات تطبيقية محدّدة بدلاً من الإطار النظري العام الذي قدّمه والده وويدِر.
 
 ## أهم أعماله
 

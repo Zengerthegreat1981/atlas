@@ -14,11 +14,13 @@ active_start: -3000
 active_end: -100
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
-  - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "thk-ahiqar", title: "أخيقار (الحكيم الآرامي)", type: "مفكر"
+- id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "thk-ahiqar", title: "أخيقار (الحكيم الآرامي)", type: "مفكر"
+- id: "con-melammu", title: "ميلمو (البهاء الإلهي)", type: "مفهوم"
+- id: "wrk-epic-of-gilgamesh", title: "ملحمة جلجامش", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«ما قبل سقراط» (sch-presocratic-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص 'ملحمة جلجامش' الأصلية تحتاج مراجعة من المصدر الأولي."

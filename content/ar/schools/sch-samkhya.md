@@ -13,13 +13,19 @@ language: "السنسكريتية"
 active_start: -400
 active_end: 1800
 edges:
-  - rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
+- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
 related:
-  - id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
-  - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
-  - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
+- id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
+- id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
+- id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
+- id: "thk-ishvarakrishna", title: "إشفاراكريشنا", type: "مفكر"
+- id: "thk-kapila", title: "كابيلا (مؤسس سامخيا)", type: "مفكر"
+- id: "con-purusha", title: "پورُشَا (الوعي / الروح المفارقة)", type: "مفهوم"
+- id: "con-prakriti", title: "پرَكْرِتِي (الطبيعة / الجوهر المادي الأول)", type: "مفهوم"
+- id: "con-gunas-sattva-rajas-tamas", title: "الغونات الثلاث لطاقة الطبيعة (Sattva, Rajas, Tamas)", type: "مفهوم"
 gaps:
   - "نصوص Sāṃkhya Kārikā (لإيشفاراكريشنا) وSāṃkhya Sūtra تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سامخيا (Sāṃkhya)

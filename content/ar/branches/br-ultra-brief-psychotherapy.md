@@ -10,10 +10,15 @@ country: "متعدد (أوروبا، أمريكا)"
 language: "متعدد"
 active_start: 2010
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "لا تاريخ نهاية موثّق."
   - "الفرق بين Ultra-Brief وSST يستحق توضيحاً."

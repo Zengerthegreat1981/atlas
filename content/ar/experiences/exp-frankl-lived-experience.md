@@ -8,13 +8,17 @@ en: "Frankl's First-Person Account of Meaning in the Camp"
 crumb: "المدرسة الوجودية ← الخبرات المعيشة ← وصف فرانكل الذاتي لخبرة المعنى"
 active_start: 1942
 active_end: 1945
+part: "philosophy"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "evt-frankl-camps", title: "تجربة فرانكل في معسكرات الاعتقال النازية", type: "حدث تاريخي"
-  - id: "ctx-phenomenology-husserl", title: "الفينومينولوجيا الهوسرلية", type: "سياق/تقليد"
+- id: "syn-survivor-guilt-syndrome", title: "متلازمة ذنب الناجي", type: "متلازمة"
+- id: "wrk-mans-search", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
+- id: "evt-frankl-camps", title: "تجربة فرانكل في معسكرات الاعتقال النازية", type: "حدث تاريخي"
+- id: "ctx-phenomenology-husserl", title: "الفينومينولوجيا الهوسرلية", type: "سياق/تقليد"
 gaps:
   - "لم يُراجع بعد النص الأصلي المباشر من كتاب 'الإنسان يبحث عن معنى' لاقتباس السرد الذاتي الدقيق بدل الوصف العام الحالي"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # وصف فرانكل الذاتي لخبرة المعنى داخل المعسكر

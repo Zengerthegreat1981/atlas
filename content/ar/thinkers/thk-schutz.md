@@ -11,17 +11,20 @@ active_start: 1932
 active_end: 1959
 country: "النمسا / أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "thk-natanson", title: "موريس ناتانسون", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-natanson", title: "موريس ناتانسون", type: "مفكر"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'البناء ذو المعنى للعالم الاجتماعي' (1932) وفينومينولوجيا عالم الحياة اليومية يستحقان إدراجاً في الأعمال."
+  - "دُمج معه الملف المكرَّر thk-aschutz (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # ألفريد شوتز

@@ -8,19 +8,23 @@ en: "Postmodern/Social Constructionist Critique of Positivist Empiricism: Truth 
 crumb: "النقد الخارجي ← النقد ما بعد الحداثي ← نقد ما بعد الحداثة للنماذج الوضعية التجريبية"
 active_start: 1973
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
-  - rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "علم النفس الإيجابي", target_type: "مدرسة"
-related:  - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
-  - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
-  - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
-  - "تفاصيل Gergen (1985) في *The Social Constructionist Movement in Modern Psychology* — لا اقتباس."
-  - "موقف Foucault (1975) في *Discipline and Punish* من CBT — لا اقتباس."
-  - "لا اقتباس مباشر موثوق متاح من Beck ردّ على النقد البنائي."
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
+related:
+- id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
+- id: "crt-critique-of-narrative-therapy", title: "نقد الْعِلَاج بِالْحِكَايَة: مَا بَيْن الْمَيْتَافِيزِيقَا وَ الْإِدِّعَاء الْعِلْمِيّ", type: "نقد خارجي موثَّق"
+- "تفاصيل Gergen (1985) في *The Social Constructionist Movement in Modern Psychology* — لا اقتباس."
+- "موقف Foucault (1975) في *Discipline and Punish* من CBT — لا اقتباس."
+- "لا اقتباس مباشر موثوق متاح من Beck ردّ على النقد البنائي."
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---
-
 # نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي
 
 نقد من خارج الوضعية (Positivism) في علم النفس، يطعن في افتراض أن **"العلم" يعكس "الواقع" الموضوعي**، بل إن **"الحقيقة العلمية" = بناء اجتماعي** (Social Construction). النتيجة: CBT وعلم النفس الإيجابي ليسا "أكثر علمية" — بل "أكثر طبيعية" (أي: أكثر توافقاً مع القيم الثقافية السائدة).

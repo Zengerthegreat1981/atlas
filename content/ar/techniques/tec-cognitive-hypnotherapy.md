@@ -11,10 +11,15 @@ dates: "أواخر القرن العشرين"
 active_start: 1995
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
+- id: "thk-tsilvester", title: "تريفور سيلفستر", type: "مفكر"
+- id: "thk-aalladin", title: "آسين علادين", type: "مفكر"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "tec-elman-hypnosis", title: "تقنية إلمان في التنويم الإيحائي السريع", type: "تقنية/تدخل علاجي"
 gaps:
   - "الدمج المنهجي بين بروتوكولات CBT وإعادة الهيكلة المعرفية واستحثاث التنويم الإيحائي عند آسين علادين (Assen Alladin)."
   - "أثر التنويم في تعزيز تقبل الإيحاءات الإيجابية وتعميق الاسترخاء وإعادة كتابة الصور الصادمة."

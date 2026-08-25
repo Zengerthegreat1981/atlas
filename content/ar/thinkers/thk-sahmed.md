@@ -11,19 +11,24 @@ country: "بريطانيا"
 language: "إنجليزية"
 active_start: 1998
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس النسوي التقاطعي", target_type: "تيار"
 related:
-  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
+- id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "تيار"
+- id: "thk-kcrenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
+- id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
+- id: "thk-mohanty", title: "تشاندرا موهانتاي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سارة أحمد
 
 فيلسوفة نسوية بريطانية-أسترالية، أستاذة في جامعة لندن. من أهم أصوات **الفلسفة النسوية المعاصرة** و**دراسات الحياة العاطفية (Affect Studies)**.
 
-## ما أعطت
+## ما أعطته
 
 - **«The Cultural Politics of Emotion» (2004)**: كتاب مرجعي في الدراسات العاطفية.
 - **«Living a Feminist Life» (2016)**: أطروحة نسوية معاشة.

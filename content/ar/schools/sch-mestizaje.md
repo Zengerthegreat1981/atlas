@@ -13,14 +13,16 @@ language: "الإسبانية، الفرنسية، الإنجليزية"
 active_start: 1940
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
-  - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
-  - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-  - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
+- id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
+- id: "sch-caribbean-philosophy", title: "فلسفة الكاريبي (الهوية والكريولية)", type: "مدرسة"
 gaps:
   - "نصوص Fernando Ortiz (Cuban Counterpoint), Nestor García Canclini, Serge Gruzinski, Édouard Glissant need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة الهجنة / المِستيساخي (Mestizaje)

@@ -8,14 +8,21 @@ en: "Emotional Understanding: The Intersubjective Ethics of Therapeutic Practice
 crumb: "التحليل النفسي ← الأعمال ← الفهم العاطفي"
 dates: "1995"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "دومينيك أَورَنج", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "دومينيك أَورَنج", target_type: "مفكر"
 related:
-  - id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
-  - id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
+- id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفهم العاطفي: الأخلاقيات البين-ذاتية للعلاج النفسي

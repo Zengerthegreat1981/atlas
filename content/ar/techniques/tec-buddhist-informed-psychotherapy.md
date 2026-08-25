@@ -11,11 +11,13 @@ dates: "من السبعينيات"
 active_start: 1975
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-mbsr", title: "برنامج خفض الضغوط باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 gaps:
   - "أعمال مارك إبستين وجاك كورنفيلد (Mark Epstein & Jack Kornfield) في دمج سيكولوجيا الأبهيدارما البوذية مع التحليل النفسي الإنساني."
   - "المفاهيم البوذية المركزية في العلاج: اللاحقائق الثلاث (اللاتمسك، اللاتطابق واللا-ذات Anatta، والدوكها/المعاناة الحتمية)."

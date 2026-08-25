@@ -11,10 +11,12 @@ country: "كندا"
 language: "الإنجليزية"
 active_start: 1996
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
 related:
-  - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

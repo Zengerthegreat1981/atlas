@@ -8,16 +8,20 @@ en: "Psychoeducation"
 crumb: "الدعم والتأهيل النفسي-الاجتماعي ← التثقيف النفسي ← المفهوم"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
-  - id: "thk-jcawley", title: "جوليا كاولي", type: "مفكر"
-  - id: "br-psychoeducation", title: "التثقيف النفسي", type: "مفهوم"
+- id: "br-psychoeducation", title: "التثقيف النفسي", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "أول استخدام منهجي في سياق الطب النفسي (Anderson, Reiber, في السبعينيات) يستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا كاولي (thk-jcawley)."
 ---
-
 # التثقيف النفسي (Psychoeducation)
 
 أسلوب علاجي منظم يقدّم للفرد وأسرته معلومات واضحة وموثّقة عن الاضطراب النفسي، خيارات العلاج، استراتيجيات التأقلم، وعلامات الإنذار المبكر للانتكاسة، بهدف زيادة الفهم وتمكين الأسرة وتقليل الانتكاس.

@@ -10,13 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ديفيد فاينشتاين"
 edges:
-  - rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
 related:
-  - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
+- id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
+- id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كولين غاريت (thk-cgarrett)."
 ---
 
 # ديفيد فاينشتاين

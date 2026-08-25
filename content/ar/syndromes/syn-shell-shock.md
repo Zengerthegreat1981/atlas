@@ -11,11 +11,12 @@ active_start: 1915
 active_end: 1945
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
-  - id: "evt-shell-shock-ww1-craiglockhart-1917", title: "صدمة القذائف في الحرب العالمية الأولى", type: "حدث تاريخي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-shell-shock-ww1-craiglockhart-1917", title: "صدمة القذائف في الحرب العالمية الأولى", type: "حدث تاريخي"
+- id: "syn-effort-syndrome", title: "متلازمة الجهد الحربي والقلب العصبي الحاد (Lewis 1917)", type: "متلازمة"
 gaps:
   - "أبحاث تشارلز مايرز (Charles Myers 1915) في مجلة لانسيت وتجارب مشفى كريغلوكهارت."
   - "لا يوجد اقتباس مباشر موثوق متاح."

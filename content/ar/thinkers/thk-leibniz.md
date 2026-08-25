@@ -7,18 +7,18 @@ level: "متقدم"
 title: "غوتفريد فيلهلم لايبنتز"
 en: "Gottfried Wilhelm Leibniz"
 crumb: "العقلانية القارية ← اللايبنتزية ← لايبنتز"
-dates: "لايبزغ، هانوفر، فرانكفورت، باريس · 1646–1716"
+dates: "ألمانيا (لايبزغ، هانوفر) · 1646–1716"
 country: "ألمانيا (الإمبراطورية الرومانية المقدسة)"
 language: "اللاتينية، الفرنسية، الألمانية"
 active_start: 1666
 active_end: 1716
 edges:
-  - rel: "belongs_to", target: "اللايبنتزية", target_type: "مدرسة"
-  - rel: "belongs_to", target: "العقلانية القارية", target_type: "مدرسة"
+- rel: "belongs_to", target: "اللايبنتزية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العقلانية القارية (كمظلة)", target_type: "مدرسة"
 related:
-  - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
-  - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
-  - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
+- id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
+- id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«إسحاق نيوتن» (thk-newton) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "مراسلات لايبنتز-كلارك (1715-1716) لم تُراجع في الملف."

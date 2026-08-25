@@ -10,12 +10,23 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1923
 active_end: 1980
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ميلتون إريكسون"
 edges:
-  - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
 related:
-  - id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
+- id: "thk-jkihnstrom", title: "جون كينستروم", type: "مفكر"
+- id: "thk-tbarber", title: "ثيودور باربر", type: "مفكر"
+- id: "thk-jeffrey-zeig", title: "جيفري زايغ", type: "مفكر"
+- id: "thk-joseph-barber", title: "جوزيف باربر", type: "مفكر"
+- id: "con-hypnotic-suggestibility", title: "القابلية للإيحاء التنويمي", type: "مفهوم"
+- id: "br-clinical-hypnotherapy", title: "التنويم العلاجي السريري", type: "تيار"
+- id: "br-nlp-systemic", title: "البرمجة اللغوية العصبية (NLP)", type: "تيار"
+- id: "rel-hypnosis-psychoanalysis", title: "التنويم والتحليل النفسي: انفصال وتباعد تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست ر. هيلغارد (thk-ihilgard)."
 ---
 
 # ميلتون إريكسون

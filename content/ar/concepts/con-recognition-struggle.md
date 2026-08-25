@@ -10,10 +10,13 @@ crumb: "الفلسفة السياسية المعاصرة ← الجماعاتي�
 active_start: 1989
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الجماعاتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-communitarianism", target_type: "مدرسة"
 related:
-  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
-  - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
+- id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
+- id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
+- id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«أكسل هونيث» (thk-honneth) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النصوص التأسيسية (Hegel 1807, Taylor 1992, Honneth 1992) تحتاج مراجعة من المصدر الأولي."

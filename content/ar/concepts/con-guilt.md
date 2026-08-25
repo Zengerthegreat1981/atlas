@@ -6,13 +6,20 @@ level: "متوسط"
 title: "الذنب"
 en: "Guilt"
 crumb: "المدرسة الوجودية ← المفاهيم ← الذنب"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "rel-szasz-existential-freedom-guilt", title: "سازس والوجودية: الحرية والمسؤولية الأخلاقية", type: "علاقة بين مدرستين"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "thk-dimen", title: "موريل ديمن", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الذنب

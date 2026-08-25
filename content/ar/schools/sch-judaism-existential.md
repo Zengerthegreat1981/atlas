@@ -13,13 +13,13 @@ language: "الألمانية، الإنجليزية، العبرية، الفر
 active_start: 1920
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الظواهرية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الوجودية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الحسيدية الفلسفية", target_type: "مدرسة"
+- rel: "evolved_from", target: "الظواهرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-hasidic", target_type: "مدرسة"
 related:
-  - id: "sch-phenomenology-existential", title: "الظواهرية الوجودية", type: "مدرسة"
-  - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
-  - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظواهرية الوجودية", type: "مدرسة"
+- id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
+- id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 gaps:
   - "نصوص مارتن بوبر وفرانز روزنزفايج بالألمانية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Ich und Du' أو 'Der Stern der Erlösung' أو 'Urvaterhaus'."

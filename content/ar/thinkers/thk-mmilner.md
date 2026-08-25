@@ -11,11 +11,19 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1957
 active_end: 1990
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
 related:
+- id: "thk-alvinmahrer", title: "ألفين مارر", type: "مفكر"
+- id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
+- id: "thk-margaretbodkin", title: "مارغريت بودكن", type: "مفكر"
+- id: "thk-markwelch", title: "مارك ويلش", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بودكن (thk-margaretbodkin)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارك ويلش (thk-markwelch)."
 ---
 
 # ماريون مِلنر

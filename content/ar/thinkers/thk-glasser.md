@@ -11,12 +11,18 @@ active_start: 1965
 active_end: 2013
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed", target: "علاج الواقع", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "developed", target: "علاج الواقع", target_type: "تيار"
 related:
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
-  - id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
+- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
+- id: "thk-dabrowski", title: "كازيمير دابروفسكي", type: "مفكر"
+- id: "thk-farrelly", title: "فرانك فاريلي", type: "مفكر"
+- id: "thk-lieberman", title: "ألسي ليبرمان (باتريسيا)", type: "مفكر"
+- id: "con-quality-world", title: "العالم النوعي (Quality World)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الذاتية التفصيلية في سنوات ما بعد تأسيس معهد ويليام غلاسر لم تُراجع من مصدر أولي."
@@ -49,7 +55,6 @@ gaps:
 
 موقف غلاسر من المرض النفسي قاسٍ ومثير للجدل، إذ رفض صراحةً تصنيف الاكتئاب والفصام كاضطرابات بيولوجية، وهو ما حدّ من قبوله في الأوساط الأكاديمية التقليدية رغم شعبيته السريرية.
 
-## أفكار روابط لم تُتحقق
+## اقتراحات ربط (ملاحظة تحريرية)
 
-- مفهوم «الجودة العالمية» (Quality World) يستحق عنصر `con-` مستقل.
-- "WDEP System" كإطار تقني للعلاج يستحق عنصر `tec-` منفصل عن علاج الواقع العام.
+- نظام **WDEP** (وضعه روبرت ووبولدنغ تقنيناً لطريقة غلاسر) يستحق عنصر `tec-` مستقلاً: ماذا تريد (Wants)؟ وماذا تفعل الآن (Doing)؟ وهل يوصلك ما تفعله إلى ما تريد (Evaluation)؟ وما الخطة (Planning)؟

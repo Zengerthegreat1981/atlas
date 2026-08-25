@@ -9,11 +9,17 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرنسيون
 dates: "بلغاريا/فرنسا · 1941–"
 language: "الفرنسية / البلغارية"
 country: "بلغاريا / فرنسا"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-irigaray", title: "لوس إريغاري", type: "مفكر"
+- id: "thk-csoler", title: "كوليت سولر", type: "مفكر"
+- id: "con-objet-petit-a", title: "موضوع الرغبة الصغير a (objet petit a)", type: "مفهوم"
+- id: "br-lacanian", title: "التحليل النفسي اللاكاني وما بعد لاكان", type: "تيار"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-irigaray", title: "لوس إريغاري", type: "مفكر"
 gaps:
   - "مفهوم «الخورا» (la chora) في المرحلة المبكرة من عمل كريستيفا وعلاقته بقراءة أفلاطون — تحتاج مراجعة متخصصة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

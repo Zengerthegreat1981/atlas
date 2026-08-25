@@ -13,15 +13,17 @@ language: "الفارسية القديمة (الأفستية)، البهلوية
 active_start: -600
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة الإيرانية", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة الإيرانية", target_type: "مظلة"
 related:
-  - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
-  - id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
-  - id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
-  - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-manicheism", title: "المانوية", type: "مدرسة"
+- id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
+- id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "wrk-gathas", title: "الأناشيد الغاثية (Gathas)", type: "عمل / كتاب"
 gaps:
   - "نصوص الأفستا الأصلية تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الزرادشتية الفلسفية

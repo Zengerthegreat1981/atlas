@@ -11,11 +11,13 @@ active_start: 1800
 active_end: "مستمر"
 language: "الألمانية"
 edges:
-  - rel: "belongs_to", target: "الهرمنيوطيقا الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
-  - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
-  - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين 'الدائرة' عند شلايرماخر وعند هايدغر وعند غادامير لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'الحقيقة والمنهج' (1960)."

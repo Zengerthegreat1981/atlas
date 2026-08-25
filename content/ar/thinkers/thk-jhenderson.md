@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← جوزيف ل�
 dates: "أمريكا · 1903–2007"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 2007
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
-  - id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
+- id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تأسيسه لأرشيف ARAS مع Jessie Fraser (1950s–60s) بوصفه «موسوعة صور أركيتيبية» — لا يزال يحتاج توثيقاً دقيقاً."

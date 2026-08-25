@@ -11,10 +11,13 @@ crumb: "علم الأعصاب الإدراكي والانفعالي ← المف
 active_start: 2011
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب الإدراكي والانفعالي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم الأعصاب الإدراكي والانفعالي", target_type: "مدرسة"
 related:
-  - id: "wrk-optimism-bias", title: "انحياز التفاؤل", type: "عمل / كتاب"
-  - id: "thk-tali-sharot", title: "تالي شاروت", type: "مفكر"
+- id: "con-optimism", title: "التفاؤل", type: "مفهوم"
+- id: "wrk-optimism-bias", title: "انحياز التفاؤل", type: "عمل / كتاب"
+- id: "thk-tali-sharot", title: "تالي شاروت", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تحديث التقديرات الاحتمالية في القشرة الجبهية البطنية واللوزة الدماغية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

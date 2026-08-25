@@ -13,11 +13,16 @@ language: "الألمانية"
 active_start: 1835
 active_end: 1848
 edges:
-  - rel: "belongs_to", target: "الهيغلية", target_type: "مدرسة"
-  - rel: "evolved_into", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-marxism", target_type: "مدرسة"
 related:
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "thk-feuerbach", title: "لودفيغ أندرياس فيورباخ", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«ديفيد فريدريش شتراوس» (thk-strauss) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«برونو باور» (thk-bauer) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -26,7 +31,6 @@ gaps:
   - "التمييز بين 'الشباب الهيغلي' بمعنى مجازي و'الشباب الهيغلي' بمعنى عضوي (دوغدن شتيتن) يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # الهيغلية اليسارية / هيغليو الشباب (Left Hegelianism / Young Hegelians)
 
 حركة فكرية ألمانية (1835–1848) انبثقت من الانقسام الداخلي للهيغلية بعد وفاة المؤسس. يركّز «اليسار الهيجلي» على البُعد النقدي للجدل: الدين القائم نتاج وعي مشوَّه، والفلسفة أداة تغيير لا تبرير.

@@ -7,16 +7,17 @@ level: "مبتدئ"
 title: "فرانشيسكو بترارك"
 en: "Francesco Petrarca (Petrarch)"
 crumb: "الإنسانية النهضوية ← المؤسسون ← بترارك"
-dates: "أرتزو، فلورنسا، فاّنسا · 1304–1374"
+dates: "إيطاليا (أريتسو، فلورنسا) / أفينيون · 1304–1374"
 country: "إيطاليا"
 language: "اللاتينية، الإيطالية (الفولغاري)"
 active_start: 1330
 active_end: 1374
 edges:
-  - rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
-  - rel: "founded", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "founded", target: "الإنسانية النهضوية", target_type: "مدرسة"
 related:
-  - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "ctx-italian-renaissance-humanism", title: "الإنسانوية في عصر النهضة الإيطالية وإحياء التراث الكلاسيكي", type: "سياق/تقليد"
 gaps:
   - "رابط مقترح لـ«جيوفاني بوكاتشيو» (thk-boccaccio) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لا يوجد اقتباس مباشر موثوق من 'Canzoniere' أو 'Secretum' بعد."

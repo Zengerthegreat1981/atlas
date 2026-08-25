@@ -10,13 +10,15 @@ crumb: "الماركسية ← المفاهيم ← المادية التاري�
 active_start: 1845
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل ماركس", target_type: "مفكر"
-  - rel: "formulated_by", target: "فريدريش إنغلز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-marx", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-engels", target_type: "مفكر"
 related:
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
-  - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "دور 'Anti-Dühring' لإنغلز في تبسيط المادية التاريخية لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Vorwort zu Zur Kritik' بعد."

@@ -11,18 +11,21 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1987
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
-  - id: "con-biosocial-dbt", title: "النظرية البيولوجية-الاجتماعية في DBT", type: "مفهوم"
-  - id: "con-dbt-validation", title: "استراتيجيات الصلاحية (Validation) في DBT", type: "مفهوم"
+- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
+- id: "con-biosocial-dbt", title: "النظرية البيولوجية-الاجتماعية في DBT", type: "مفهوم"
+- id: "con-dbt-validation", title: "استراتيجيات الصلاحية (Validation) في DBT", type: "مفهوم"
+- id: "con-dialectical-abstinence", title: "الامتناع الجدلي", type: "مفهوم"
+- id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
+- id: "evt-dbt-founding-1990s", title: "تأسيس العلاج الجدلي السلوكي (DBT) في التسعينيات", type: "حدث تاريخي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "سيرة لينهان الشخصية وإعلانها عام 2020 عن تجربتها المعاشة مع اضطراب الشخصية الحدية تستحقان توثيقاً خاصاً — لم يُراجعا بعد من مصدر أولي."
 ---
-
 # مارشا لينهان
 
 عالمة نفس سريرية أمريكية، أستاذة في جامعة واشنطن والمؤسسة الرئيسية للعلاج الجدلي السلوكي (Dialectical Behavior Therapy, DBT) — وهو أول علاج نفسي مُعتمد تجريبياً للحدود الشخصية واضطرابات الانفعال الشديدة.

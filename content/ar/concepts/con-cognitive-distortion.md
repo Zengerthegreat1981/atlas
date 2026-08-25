@@ -8,14 +8,18 @@ en: "Cognitive Distortions"
 crumb: "المعرفية السلوكية ← المفاهيم ← التشوهات المعرفية"
 active_start: 1963
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "thk-beck", title: "آرون بيك", type: "مفكر"
-  - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
+- id: "dbt-cognitive-deficit-vs-distortion", title: "جِدَل الِاِنْحِرَاف الْمَعْرِفِيّ ضِد التَّشَوُّه الْمَعْرِفِيّ", type: "جدل"
+- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # التشوهات المعرفية

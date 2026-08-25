@@ -13,12 +13,12 @@ language: "اليابانية"
 active_start: 1253
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تنداي اليابانية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tendai-japan", target_type: "مدرسة"
 related:
-  - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-  - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-  - id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
+- id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
+- id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 gaps:
   - "نصوص Nichiren (Kaimoku shō، Senji shō، Kanjin no honzon shō) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين فروع Nichiren المتعددة (Sōka Gakkai، Nichiren Shōshū، Nichiren Shu) يستحق بحثاً نقدياً."

@@ -11,18 +11,20 @@ active_start: 1938
 active_end: 1949
 country: "أوكرانيا / فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-  - id: "thk-weil", title: "سيمون فايل", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-weil", title: "سيمون فايل", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "دراستها الخالدة 'عن الإلياذة' (De l'Iliade, 1943) والمقارنة بين هوميروس وسيمون فايل وكيركيغارد تستحق إدراجاً."
+  - "المقارنة بين قراءتها للإلياذة وقراءة سيمون فايل لها تستحق عنصراً مستقلاً."
 ---
 
 # راشيل بيسبالوف

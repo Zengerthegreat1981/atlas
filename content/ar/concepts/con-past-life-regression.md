@@ -8,10 +8,15 @@ en: "Past Life Regression"
 crumb: "حركات مثيرة للجدل ← المفاهيم ← استرجاع ذكريات الحياة السابقة"
 active_start: 1955
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
+- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
 related:
-  - id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "tec-past-life-regression", title: "العلاج باسترجاع ذكريات الحياة السابقة", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الأسماء المؤسسية (Helen Wambach, Ian Stevenson, Brian Weiss) لم تُكتب مسودات منفصلة."
   - "النزاع الأكاديمي (في علم النفس والطب النفسي) لم يُوثّق بدقة."

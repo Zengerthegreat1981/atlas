@@ -11,10 +11,10 @@ active_start: 1901
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-restless-legs", title: "متلازمة تململ الساقين", type: "متلازمة"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-restless-legs", title: "متلازمة تململ الساقين", type: "متلازمة"
 gaps:
   - "صياغة لاديسلاف هاسكوفيتش (Ladislav Haškovec 1901) للمصطلح ومقاييس بارنز لتقييم الأكاثيسيا (BARS)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

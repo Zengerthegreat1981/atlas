@@ -13,12 +13,12 @@ language: "اليونانية الأتيكية"
 active_start: -450
 active_end: -380
 edges:
-  - rel: "belongs_to", target: "تقاليد يونانية كلاسيكية", target_type: "مظلة"
-  - rel: "superseded_by", target: "الأكاديمية الأفلاطونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد يونانية كلاسيكية", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
-  - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-  - id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
-  - id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
+- id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
+- id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
 gaps:
   - "لا نعرف من السفسطائيين إلاّ ما وصلنا عبر أفلاطون (الخصم)، وكثير من أطروحاتهم أُخذت بقراءة معادية."
   - "بروتاغوراس نفسه مجهول كشخص تاريخي حقيقي (طبقاً لبياتريس هانسن 1972، بروتاغوراس شخصية أدبية أكثر منه حقيقية)."

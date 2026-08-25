@@ -1,0 +1,666 @@
+{
+  "summary": {
+    "total_backlog_items": 159,
+    "completed_backlog_items": 0,
+    "in_progress_backlog_items": 0,
+    "pending_backlog_items": 159,
+    "approved_sociology_nodes": 14,
+    "draft_sociology_nodes": 0,
+    "total_sociology_nodes": 14
+  },
+  "type_breakdown": {
+    "حوار مع مدرسة مجاورة": 1,
+    "بديهية/مبدأ تأسيسي": 1,
+    "سياق/تقليد": 2,
+    "مفكر": 3,
+    "مصطلح لغوي متنازع عليه": 2,
+    "استعارة/مجاز مؤسِّس": 1,
+    "عمل / كتاب": 2,
+    "مفهوم": 1,
+    "تيار": 1
+  },
+  "tradition_breakdown": {
+    "عام / غير مصنف": 14
+  },
+  "paradigm_breakdown": {
+    "غير محدد": 14
+  },
+  "backlog": [
+    {
+      "name": "علم العمران البشري الخلدوني (Ibn Khaldun's Ilm al-Umran)",
+      "status": "pending"
+    },
+    {
+      "name": "الوضعية السوسيولوجية الكلاسيكية (Comtean Positivism)",
+      "status": "pending"
+    },
+    {
+      "name": "التطورية الاجتماعية والعضوية (Spencerian Social Evolutionism & Organicism)",
+      "status": "pending"
+    },
+    {
+      "name": "المادية التاريخية السوسيولوجية ونظرية الصراع الطبقي (Marxist Classical Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "البنائية الوظيفية الدوركهايمية (Durkheimian Structural Functionalism)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية (Durkheimian Sociology of Religion)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الفهمية والتفسيرية الفيبرية (Weberian Interpretive Sociology / Verstehen)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا العقلنة والبيروقراطية (Sociology of Rationalization & Bureaucracy)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الأخلاق الرأسمالية والدين (Weberian Sociology of Religion & Capitalism)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الصورية والشبكات الدقيقة (Simmelian Formal Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis)",
+      "status": "pending"
+    },
+    {
+      "name": "الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية النخبة السوسيولوجية الكلاسيكية (Classical Elite Theory: Pareto, Mosca, Michels)",
+      "status": "pending"
+    },
+    {
+      "name": "التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا النقدية للأعراق والازدواجية الوجدانية (Du Boisian Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الاستهلاك والمؤسسية التطورية (Veblenian Institutional Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "ثنائية المجتمع المحلي والمجتمع التعاقدي (Tönnies' Gemeinschaft und Gesellschaft)",
+      "status": "pending"
+    },
+    {
+      "name": "سيكولوجيا الجماهير والتقليد الاجتماعي (Tarde & Le Bon's Crowd & Imitation Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "حركة المسوح الاجتماعية والفقر البريطانية (Booth & Rowntree's Social Survey Movement)",
+      "status": "pending"
+    },
+    {
+      "name": "مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies)",
+      "status": "pending"
+    },
+    {
+      "name": "منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)",
+      "status": "pending"
+    },
+    {
+      "name": "التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)",
+      "status": "pending"
+    },
+    {
+      "name": "النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)",
+      "status": "pending"
+    },
+    {
+      "name": "تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الارتباط التفاضلي وجرائم الياقات البيضاء (Sutherland's Differential Association Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الانفعالات والعمل العاطفي (Hochschild's Sociology of Emotions & Emotional Labor)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية (Hochschild's Care Work Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "طقوس التفاعل اليومي وحفظ ماء الوجه (Goffmanian Interaction Rituals & Face-Work)",
+      "status": "pending"
+    },
+    {
+      "name": "مدرسة النظرية المجذرة السوسيولوجية (Grounded Theory School: Glaser & Strauss)",
+      "status": "pending"
+    },
+    {
+      "name": "دراسات المتروبوليس الأسود والتفاوت العرقي (Drake & Cayton's Black Metropolis School)",
+      "status": "pending"
+    },
+    {
+      "name": "التفاعلية الرمزية البنائية ونظرية الهوية (Stryker & Burke's Structural Interactionism)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference)",
+      "status": "pending"
+    },
+    {
+      "name": "الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism)",
+      "status": "pending"
+    },
+    {
+      "name": "متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية التوتر والأنومي (Merton's Strain Theory of Deviance)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا العلم والمؤسسة الأكاديمية (Mertonian Sociology of Science / CUDOS)",
+      "status": "pending"
+    },
+    {
+      "name": "الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)",
+      "status": "pending"
+    },
+    {
+      "name": "المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الصراع الليبرالية (Dahrendorfian Conflict Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الراديكالية ونقد نخبة القوة (Millsian Critical Sociology & The Power Elite)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الصراع المجهرية وسلاسل طقوس التفاعل (Collins' Micro-Conflict Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "تحليل النظم العالمية والتقسيم الدولي للعمل (Wallerstein's World-Systems Analysis)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية التبعية السوسيولوجية اللاتينية (Latin American Dependency Theory: Cardoso, Dos Santos)",
+      "status": "pending"
+    },
+    {
+      "name": "النظرية النقدية الأولى والتسليع الثقافي (Frankfurt School Critical Sociology: Horkheimer & Adorno)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المجتمع الصناعي أحادي البعد (Marcusean Critical Sociology of One-Dimensionality)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المجال العام والديمقراطية التداولية (Habermasian Public Sphere Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الفعل التواصلي واستعمار عالم الحياة (Habermasian Theory of Communicative Action)",
+      "status": "pending"
+    },
+    {
+      "name": "الماركسية البنيوية وأجهزة الدولة (Althusserian Structural Marxism)",
+      "status": "pending"
+    },
+    {
+      "name": "الهيمنة الثقافية والكتلة التاريخية (Gramscian Cultural Hegemony & Historical Bloc)",
+      "status": "pending"
+    },
+    {
+      "name": "ما بعد الماركسية والتحليل الخطابي للصراع (Laclau & Mouffe's Discourse & Hegemony Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الدولة الرأسمالية (Miliband-Poulantzas State Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "التحليل الطبقي والمواقع المتناقضة (Wright's Analytical Marxist Class Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الفضاء والحق في المدينة (Lefebvrean Spatial Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "الجغرافيا الماركسية والتراكم المكاني (Harvey's Critical Urban & Spatial Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا عملية العمل ونزع المهارة (Braverman's Labor Process Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الاعتراف والعدالة التوزيعية (Honneth & Fraser's Recognition & Redistribution Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "علم الاجتماع التاريخي والمقارن للثورات (Skocpol's Comparative-Historical Sociology of Revolutions)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة (Tilly & Tarrow's Contentious Politics & Social Movements)",
+      "status": "pending"
+    },
+    {
+      "name": "الفينومينولوجيا السوسيولوجية وعالم الحياة المعاش (Schutzian Phenomenological Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "البنائية الاجتماعية للواقع (Berger & Luckmann's Social Constructionism)",
+      "status": "pending"
+    },
+    {
+      "name": "الإثنوميثودولوجيا والتفكير العملي العادي (Garfinkelian Ethnomethodology)",
+      "status": "pending"
+    },
+    {
+      "name": "تحليل المحادثة والتنظيم التفاعلي الصوري (Conversation Analysis: Sacks & Schegloff)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الممارسة والهابيتوس (Bourdieu's Theory of Practice & Habitus)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الحقول وأشكال رأس المال (Bourdieu's Field Theory & Forms of Capital)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي (Bourdieu's Distinction & Cultural Reproduction)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا السلطة الانضباطية والمراقبة (Foucauldian Disciplinary Power & Surveillance)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا السياسة الحيوية والحكومية (Foucauldian Biopolitics & Governmentality)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المعرفة-السلطة والتشكيلات الخطابية (Foucauldian Power/Knowledge & Discourse)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المحاكاة والمجتمع الاستهلاكي الفائق (Baudrillardian Hyperreality & Simulation)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا التجميع والإنتاج الاجتماعي (Deleuzian Assemblage Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية شبكة الفواعل وسوسيولوجيا الترجمة (Latour & Callon's Actor-Network Theory - ANT)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا التبرير ونماذج الجدارة (Boltanski & Thévenot's Sociology of Worth / Pragmatic Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا نقد الرأسمالية الشبكية (Boltanski & Chiapello's Sociology of Capitalist Spirit)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الوجودية والخبرة المعيشة (Douglas & Johnson's Existential Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا التأويلية والسردية (Narrative & Hermeneutic Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا البصرية والإثنوغرافيا الحسية (Visual Sociology & Sensory Ethnography)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا العلائقية المعاصرة (Contemporary Relational Sociology: Emirbayer & Dépelteau)",
+      "status": "pending"
+    },
+    {
+      "name": "الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس (Archerian Critical Realist Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الهيكلة وازدواجية البنية (Giddens' Structuration Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الحداثة الفائقة والانعكاسية (Giddens' Reflexive Modernity & Self-Identity)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية مجتمع المخاطرة والحداثة الثانية (Beck's Risk Society Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الكوزموبوليتية والمخاطر العالمية (Beck's Cosmopolitan Sociology & World at Risk)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الحداثة السائلة (Bauman's Liquid Modernity Paradigm)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الأخلاق في عصر الحداثة وما بعد الهولوكوست (Bauman's Postmodern Ethics & Waste Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا مجتمع الشبكات والمعلومات (Castells' Network Society Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا سلطة الاتصال والحركات الرقمية (Castells' Communication Power Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المدينة العالمية وتدفقات رأس المال (Sassen's Global City & Expulsions Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا العولمة الثقافية والمشاهد العولمية (Appadurai & Robertson's Global Culture & Scapes)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا رأسمالية المراقبة (Zuboff's Surveillance Capitalism Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا رأسمالية المنصات واقتصاد العمل الحر (Srnicek's Platform Capitalism Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الرقمية وحكومية البيانات (Lupton's Digital Sociology & Metric Power)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية التسارع الاجتماعي وتغير الإيقاع الزمني (Rosa's Social Acceleration & Resonance Theory)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا البيئية ونظرية الصدع الأيضي (Environmental Sociology & Metabolic Rift: Foster & Schnaiberg)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا التطبيب والهندسة الحيوية الاجتماعية (Sociology of Medicalization & Biosociality: Conrad & Rose)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المقاومة اليومية والنصوص الخفية (Scott's Everyday Peasant Resistance Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "علم الاجتماع العام وأنماط الممارسة الأربعة (Burawoy's Public Sociology Paradigm)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الجسد والتجسيد الاجتماعي (Sociology of the Body & Embodiment: Shilling & Turner)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الحوسبية وتحليل الآثار الرقمية (Computational Sociology & Big Data Analysis)",
+      "status": "pending"
+    },
+    {
+      "name": "نظرية الموقف النسوي في علم الاجتماع (Feminist Standpoint Theory: Dorothy Smith)",
+      "status": "pending"
+    },
+    {
+      "name": "الإثنوغرافيا المؤسسية (Institutional Ethnography: Dorothy Smith)",
+      "status": "pending"
+    },
+    {
+      "name": "الفكر النسوي الأسود ومصفوفة الهيمنة (Black Feminist Sociology: Patricia Hill Collins)",
+      "status": "pending"
+    },
+    {
+      "name": "النظرية التقاطعية السوسيولوجية (Sociological Intersectionality: Crenshaw & Collins)",
+      "status": "pending"
+    },
+    {
+      "name": "النسوية النقدية ومناهضة النظام الأبوي الإمبريالي (bell hooks' Critical Feminist Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الأداء الجندري وتفكيك الثنائية (Butler's Gender Performativity Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا العمل المنزلي وإعادة الإنتاج الجندري (Oakley's Sociology of Housework & Reproduction)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية (Fraser's Social Reproduction & Crisis of Care)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا استعمارية السلطة والمركزية الأوروبية (Quijano's Coloniality of Power Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "إبستمولوجيات الجنوب وسوسيولوجيا الغيابات (Santos' Epistemologies of the South & Cognitive Justice)",
+      "status": "pending"
+    },
+    {
+      "name": "النقد السوسيولوجي للاستشراق والتمثيل الإمبريالي (Said's Sociology of Orientalism & Knowledge)",
+      "status": "pending"
+    },
+    {
+      "name": "علم الاجتماع التحرري ومناهضة الاستعمار (Fanonian Liberation Sociology & Sociogeny)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا العقل الأسير والتبعية الأكاديمية الآسيوية (Alatas' Captive Mind Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "دراسات التابع والتأريخ السوسيولوجي من أسفل (Subaltern Studies: Guha & Spivak)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية (Khaldunian Historical Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي (Al-Wardi's Iraqi & Arab Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا البطريركية المستحدثة والتغير المشوه (Sharabi's Neopatriarchy Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المجتمع الفسيفسائي والاغتراب العربي (Barakat's Contemporary Arab Society Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية (El Saadawi's Arab Feminist Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "التاريخانية والسوسيولوجيا النقدية العربية والإسلامية (Laroui & Shariati's Critical Arab/Islamic Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا المعرفة والعلوم (Sociology of Knowledge & Scientific Knowledge - SSK)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الثقافة وأنماط الحياة (Sociology of Culture & Lifestyles)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الدين والتحولات العلمانية (Sociology of Religion & Post-Secularism)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الانحراف والجريمة والعدالة الجنائية (Sociology of Deviance, Crime & Justice)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الطبية والصحية والسريرية (Medical, Health & Clinical Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الحضرية وتخطيط المدن (Urban Sociology & Urban Spatial Planning)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الريفية والمجتمعات الزراعية (Rural & Agrarian Sociology)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا البيئية والتنمية المستدامة (Environmental Sociology & Sustainability)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا الاقتصادية وتجذر الأسواق (Economic Sociology & Embeddedness: Polanyi & Granovetter)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا العمل والمهن والتصنيع (Sociology of Work, Occupations & Industrial Relations)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا السياسية والدولة والمواطنة (Political Sociology, State & Citizenship)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا التربية والتعليم وإعادة الإنتاج (Sociology of Education & Cultural Capital)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية (Sociology of Family, Gender & Intimacy)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الهجرة واللجوء والشتات (Sociology of Migration, Asylum & Diaspora)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الشيخوخة ودورة الحياة (Sociology of Aging & Life Course)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الشباب والثقافات الفرعية (Sociology of Youth & Subcultures)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الفن والأدب والجماليات (Sociology of Art, Literature & Aesthetics)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا القانون والضبط الاجتماعي (Sociology of Law & Social Control)",
+      "status": "pending"
+    },
+    {
+      "name": "سوسيولوجيا الحركات الاجتماعية والعمل الجماعي (Sociology of Social Movements & Collective Action)",
+      "status": "pending"
+    },
+    {
+      "name": "السوسيولوجيا العسكرية والنزاعات المسلحة (Military Sociology & Armed Conflict)",
+      "status": "pending"
+    }
+  ]
+}

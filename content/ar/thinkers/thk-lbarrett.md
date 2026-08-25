@@ -3,7 +3,7 @@ slug: "thk-lbarrett"
 id: "THK-1438"
 type: "مفكر"
 level: "متوسط"
-title: "لورا بارِت"
+title: "لورنس بارِت"
 en: "Laurence A. Barrett"
 crumb: "العلاج بالتحويل ← الدين والمعنى ← لورنس بارِت"
 dates: "الولايات المتحدة · القرن العشرين–الواحد والعشرين"
@@ -11,8 +11,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالتحويل (Conversion Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
+related:
+- id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
+- id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:
   - "تفاصيل السيرة الذاتية الكاملة لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2011
 active_end: 2011
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب الإدراكي والانفعالي", target_type: "مدرسة"
-  - rel: "written_by", target: "تالي شاروت", target_type: "مفكر"
+- rel: "belongs_to", target: "علم الأعصاب الإدراكي والانفعالي", target_type: "مدرسة"
+- rel: "written_by", target: "thk-tali-sharot", target_type: "مفكر"
 related:
-  - id: "thk-tali-sharot", title: "تالي شاروت", type: "مفكر"
+- id: "thk-tali-sharot", title: "تالي شاروت", type: "مفكر"
+- id: "con-optimism-bias-concept", title: "انحياز التفاؤل الفطري للدماغ (The Optimism Bias)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

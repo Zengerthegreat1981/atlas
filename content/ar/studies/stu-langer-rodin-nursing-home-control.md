@@ -8,9 +8,11 @@ en: "Langer & Rodin Nursing Home Personal Control and Responsibility Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة لانغر ورودين للمسؤولية في دار المسنين"
 active_start: 1976
 active_end: 1977
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "الآليات البيولوجية العصبية التي تربط بين الإحساس بالتحكم وانخفاض هرمونات التوتر (الكورتيزول) تحتاج تفصيلاً"
   - "التطبيقات المعاصرة في تصميم بيئات الرعاية التمريضية والمستشفيات تتطلب توثيقاً موسعاً"

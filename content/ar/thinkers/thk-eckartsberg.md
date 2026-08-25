@@ -11,12 +11,13 @@ active_start: 1971
 active_end: 1998
 country: "أمريكا / ألمانيا"
 language: "الإنجليزية / الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهومه في 'الفينومينولوجيا التأويلية الوجودية' للخبرة اليومية يحتاج توثيقاً منهجياً."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-علم النفس الفينومينولوجي والاجتماعي (Social Psychology: A Phenomenological Perspective, 1971) · مناهج البحث الفينومينولوجي التأويلي (Phenomenological Inquiry in Psychology, 1998).
+خبرة عالَم الحياة (Life-World Experience: Existential-Phenomenological Research Approaches in Psychology, 1986) · فصله عن مناهج البحث الوجودي-الفينومينولوجي ضمن Phenomenological Inquiry in Psychology (تحرير رونالد ڤالي، 1998).

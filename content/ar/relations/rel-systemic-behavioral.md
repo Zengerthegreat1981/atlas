@@ -8,15 +8,17 @@ en: "Family Systems Therapy and Behaviorism: A Quiet Integration"
 crumb: "النظامية الأسرية ← العلاقات ← النظامية الأسرية والسلوكية"
 active_start: 1965
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "النظامية الأسرية", target_type: "مدرسة"
-  - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "النظامية الأسرية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
-  - id: "thk-pwatzlawick", title: "بول فاتزلاويك", type: "مفكر"
-  - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
-  - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
-  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "thk-pwatzlawick", title: "بول فاتزلاويك", type: "مفكر"
+- id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
+- id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
+- id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "rel-trauma-ptsd-therapy", title: "علاج الصدمة واضطراب ما بعد الصدمة: من Horowitz إلى EMDR", type: "علاقة بين مدرستين"
 gaps:
   - "العلاج السلوكي الأسري التقليدي (Liberman، 1970s) لم يوثّق بشكل كافٍ في الأدبيات العربية."
   - "دور 'العلاج الوظيفي للأسرة' (FFT, Alexander 1973) و'إدارة الطوارئ' في سياق أسري لم يُحلّل بدقة."
@@ -90,7 +92,7 @@ gaps:
 - **ليبرمان وآخرون (1980s)**: العمل مع أسر الفصاميين.
 - **المنطق**: الأسرة = مثير / مُعزِّز. غيّر بيئة الأسرة = غيّر السلوك الفردي.
 
-### 2. العلاج متعدد الأجهزة (MST — Henggeler، 1980s)
+### 2. العلاج متعدد الأنظمة (MST — Henggeler، 1980s)
 - **سكوت هينغلر** (1947-): نظام بيئي-سلوكي متكامل.
 - **الفكرة**: المراهق المُشكلة = نظام بيئي معطّل (أسرة + مدرسة + حي).
 - **التطبيق**: جنوح الأحداث، إدمان المراهقين — أدلة قوية.

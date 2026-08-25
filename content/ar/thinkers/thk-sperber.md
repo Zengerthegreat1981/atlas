@@ -9,11 +9,17 @@ crumb: "علم النفس الفردي ← الناس ← الكلاسيكيون
 dates: "النمسا · 1905–1984"
 country: "النمسا / فرنسا"
 language: "الألمانية / الفرنسية"
+part: "psychology"
+active_start: null
+active_end: 1984
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-hstein", title: "هنري ت. ستاين", type: "مفكر"
+- id: "thk-amuller", title: "ألكسندر مولر", type: "مفكر"
+- id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
 gaps:
   - "التفاصيل المتعلقة بتأثير أدلر على «ثلاثية الإطفائيين» (Die Wasseträger Gottes) تحتاج فحصاً نصياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

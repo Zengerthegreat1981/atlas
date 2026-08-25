@@ -6,17 +6,21 @@ level: "متقدم"
 title: "أخلاق وجودية (هازل بارنز)"
 en: "An Existentialist Ethics (Barnes, 1967)"
 crumb: "المدرسة الوجودية ← الأعمال ← أخلاق وجودية (هازل بارنز)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-barnes", title: "هازل بارنز", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-barnes", title: "هازل بارنز", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "كتاب بارنز 'An Existentialist Ethics' (1967) يحتاج مراجعة من المصدر الأولي للحجج الدقيقة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أخلاق وجودية (1967)

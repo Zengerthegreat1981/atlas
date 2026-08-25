@@ -6,13 +6,18 @@ level: "مبتدئ"
 title: "نزعة التحقق الذاتي (Actualizing Tendency)"
 en: "Actualizing Tendency"
 crumb: "الإنسانية ← المفاهيم ← نزعة التحقق الذاتي"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "wrk-evolving-self", title: "الذات المتطورة: جدلية بين النظام والفوضى", type: "عمل / كتاب"
+- id: "tec-person-centered-core-conditions", title: "الشروط اللازمة والكافية للعلاج المتمركز حول العميل", type: "تقنية/تدخل علاجي"
 gaps:
   - "الفرق الدقيق بين 'Actualizing Tendency' (نزعة) و 'Self-actualization' (تحقق ذاتي) يحتاج سياق تاريخي."
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."

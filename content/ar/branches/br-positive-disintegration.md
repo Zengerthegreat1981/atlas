@@ -11,11 +11,16 @@ dates: "الستينيات"
 active_start: 1964
 active_end: "مستمر"
 language: "البولندية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "thk-dabrowski", title: "كازيمير دابروفسكي", type: "مفكر"
+- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+
 gaps:
   - "مستويات التطور الخمسة لكازيمير دابروفسكي (التكامل الأولي، التفكك أحادي المستوى، التفكك متعدد المستويات التلقائي، التفكك متعدد المستويات المنظم، والتكامل الثانوي)."
   - "أشكال فرط الاستثارة الخمسة (Overexcitabilities: الحركية، الحسية، التخيلية، الفكرية، والانفعالية) وعلاقتها بالموهبة والأزمات الوجودية."

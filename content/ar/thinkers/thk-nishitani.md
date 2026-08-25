@@ -11,15 +11,19 @@ active_start: 1949
 active_end: 1982
 country: "اليابان"
 language: "اليابانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
+- id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
+- id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "ctx-kyoto-school-zen-modernity", title: "مدرسة كيوتو وتلاقي الزن البوذي مع الفلسفة القارية", type: "سياق/تقليد"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه العمدة 'الدين والعدم' (Religion and Nothingness, 1961/1982) وتحليله للعدمية الغربية وتجاوزها بالفراغ (Sunyata) يستحق إدراجاً في الأعمال."

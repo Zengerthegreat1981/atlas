@@ -13,10 +13,12 @@ language: "العبرية"
 active_start: 1569
 active_end: 1750
 edges:
-  - rel: "evolved_from", target: "القبّالة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-kabbalah", target_type: "مدرسة"
 related:
-  - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
-  - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
+- id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
+- id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
+- id: "thk-hayyim-vital", title: "الحاخام حاييم فيتال", type: "مفكر"
+- id: "con-tzimtzum", title: "القبض الإلهي (تيمتسوم)", type: "مفهوم"
 gaps:
   - "نصوص إسحاق لوريا شفهية، تصلنا عبر تلاميذه (حَيِم فيتال، شموئيل موريسو، يوسف شيخ أسي) — لا يوجد كتاب بخطّ لوريا نفسه."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Etz Chaim' أو 'Tikkun' في الصياغة الأصلية."

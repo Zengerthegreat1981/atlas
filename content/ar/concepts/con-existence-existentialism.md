@@ -11,12 +11,12 @@ active_start: 1844
 active_end: "مستمر"
 language: "الألمانية/الفرنسية"
 edges:
-  - rel: "belongs_to", target: "الوجودية (Existentialism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركِغارد", type: "مفكر"
-  - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركِغارد", type: "مفكر"
+- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
 gaps:
   - "الفرق بين 'الوجود' الوجودي و'الوجود' الميتافيزيقي التقليدي لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'الوجود والعدم' (1943)."

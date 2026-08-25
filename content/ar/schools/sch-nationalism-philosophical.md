@@ -13,13 +13,14 @@ language: "متعددة"
 active_start: 1808
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
-  - id: "sch-romanticism", title: "الرومانسية الفلسفية", type: "مدرسة"
-  - id: "sch-fichte", title: "الفيختية", type: "مدرسة"
-  - id: "sch-social-darwinism", title: "الداروينية الاجتماعية", type: "مدرسة"
+- id: "sch-romanticism", title: "الرومانسية الفلسفية", type: "مدرسة"
+- id: "sch-fichte", title: "الفيختية", type: "مدرسة"
+- id: "sch-social-darwinism", title: "الداروينية الاجتماعية", type: "مدرسة"
 gaps:
   - "نصوص Fichte, Herder, Mazzini, Renan, Gellner, Anderson تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # القومية الفلسفية (Philosophical Nationalism)

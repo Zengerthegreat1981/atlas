@@ -9,10 +9,11 @@ en: "Diana Baumrind's Parenting Styles Study"
 crumb: "علم النفس التنموي والأسري ← الدراسات والأبحاث ← دراسة باومريند لأنماط الوالدية"
 active_start: 1967
 active_end: 1971
-edges: []
+edges:
+  []
 related:
-  - id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
-  - id: "wrk-whole-brain-child", title: "طفل المخ الكامل", type: "عمل / كتاب"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
+- id: "wrk-whole-brain-child", title: "طفل المخ الكامل", type: "عمل / كتاب"
 gaps:
   - "تطوير ماكوبي ومارتن (1983) للنموذج الرباعي بإضافة النمط المهمل (Uninvolved)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

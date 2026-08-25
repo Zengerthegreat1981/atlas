@@ -9,14 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← أَنيت و�
 dates: "أمريكا · 1920–2023"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2023
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
-  - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
+- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أَنيت وَلانوف

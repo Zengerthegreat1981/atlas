@@ -13,11 +13,11 @@ language: "الفرنسية"
 active_start: 1960
 active_end: 2000
 edges:
-  - rel: "belongs_to", target: "الظاهراتية الجسدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الظاهراتية الجسدية (Somatic Phenomenology)", target_type: "مدرسة"
 related:
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
 gaps:
   - "الفرق بين 'ظاهراتية الجسد' عند هنري و'ظاهراتية الجسد' عند مِرلو-بونتي لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'الجوهر الظاهراتي' (1963)."
@@ -29,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-- **«الجوهر الظاهراتي» (Philosophie et Phénoménologie du corps, 1965)**: نقد مِرلو-بونتي لصالح «الحياة غير الموضوعية» (vie non-objective). الجسد ليس موضوعاً فيزيائياً بل «حياة باطنية» تتمظهر من خلال «الذاتية المطلقة» (ipséité).
+- **«فلسفة الجسد وظاهراتيته» (Philosophie et Phénoménologie du corps, 1965)**: نقد مِرلو-بونتي لصالح «الحياة غير الموضوعية» (vie non-objective). الجسد ليس موضوعاً فيزيائياً بل «حياة باطنية» تتمظهر من خلال «الذاتية المطلقة» (ipséité).
 - **«المسيحانية» (Paroles du Christ, 2002)**: في أعماله المتأخرة، ربط الظاهراتية بالمسيحية عبر «تجلي الحياة» في المسيح.
 - **«نقد الظاهراتية»**: رفض الظاهراتية «المتعلّية» (الظاهراتية عند هوسرل) لصالح ظاهراتية «الحياة».
 

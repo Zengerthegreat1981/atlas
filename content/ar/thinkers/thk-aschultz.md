@@ -11,10 +11,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الاجتماعي (Social Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
+- id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
+- id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
+- id: "thk-lholzman", title: "لويز هولزمان", type: "مفكر"
+- id: "thk-dparker", title: "ديفيد باركر", type: "مفكر"
+- id: "thk-jtolman", title: "جينيفر تولمان", type: "مفكر"
+- id: "thk-mrothery", title: "مارك روتشرِي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

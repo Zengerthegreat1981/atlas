@@ -6,13 +6,20 @@ level: "متوسط"
 title: "السياق التاريخي الأوروبي بعد الحربين العالميتين"
 en: "Post-WWI/WWII European Context"
 crumb: "المدرسة الوجودية ← السياقات ← السياق التاريخي الأوروبي بعد الحربين العالميتين"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "ctx-post-war-welfare-state-europe", title: "دولة الرفاه الأوروبية بعد الحرب وبناء الضمان الاجتماعي الشامل", type: "سياق/تقليد"
+- id: "evt-frankl-camps", title: "تجربة فرانكل في معسكرات الاعتقال النازية", type: "حدث تاريخي"
+- id: "tec-meaning-centered-psychotherapy", title: "العلاج النفسي المرتكز على المعنى", type: "تقنية/تدخل علاجي"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
   - "يحتاج مصدراً تاريخياً أولياً محدداً (لا اعتماداً على السرد العام) لتوثيق تفاصيل أدق"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # السياق التاريخي الأوروبي بعد الحربين العالميتين

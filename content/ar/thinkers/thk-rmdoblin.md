@@ -11,12 +11,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1986
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-mithoefer", title: "مايكل ميثوفر", type: "مفكر"
+- id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
+- id: "thk-rick-doblin", title: "ريك دابلن", type: "مفكر"
+- id: "thk-ahofmann", title: "ألبرت هوفمان", type: "مفكر"
+- id: "thk-peter-bloom", title: "بيتر بلوم (Peter Bloom)", type: "مفكر"
+- id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل ميثوفر (thk-mithoefer)."
 ---
 
 # ريك دابلن

@@ -12,20 +12,17 @@ active_end: "مستمر"
 country: "النمسا / سويسرا / فرنسا / المملكة المتحدة / الولايات المتحدة"
 language: "الألمانية / الفرنسية / الإنجليزية"
 edges:
-  - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
   - "الفرق بين المدارس المتعددة (Freudian / Jungian / Kleinian / Lacanian / Relational / Ego Psychology) يحتاج ملفاً مستقلاً لكل منها لاحقاً."
   - "تاريخياً، كثير من المؤرخين يعتبر فرويد 'مؤسس علم النفس الحديث' أكثر من كونه فيلسوفاً بحتاً — تصنيفه كـphilosophy هنا مؤقت ومؤسسي."
   - "العلاقة بين التحليل النفسي والوجودية كانت متبادلة: فرويد استلهم من نيتشه، والوجوديون ردّوا عليه (لاينغ، سارتر)."
   - "لا يوجد اقتباس مباشر موثّق في هذا الملف."
-
-## أفكار روابط لم تُتحقق
-
 - **con-unconscious** (اللاشعور): مفهوم محوري للتحليل النفسي، لكن غير موجود كعنصر مستقل. العناصر الموجودة حالياً هي تخصصات فرعية: `con-cultural-unconscious`، `con-interpersonal-unconscious`.
 - **con-repression** (الكبت): مفهوم فرويدي أساسي، غير موجود.
 - **con-transference** (التحويل): مفهوم إكلينيكي محوري للتحليل النفسي، غير موجود.

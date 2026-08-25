@@ -13,11 +13,15 @@ language: "الإنجليزية"
 active_start: 2001
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "superseded_by", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-quinean-naturalism", target_type: "مدرسة"
 related:
-  - id: "thk-eknobe", title: "جوشوا نوب", type: "مفكر"
-  - id: "thk-snichols", title: "شون نيكولز", type: "مفكر"
+- id: "thk-eknobe", title: "جوشوا نوب", type: "مفكر"
+- id: "thk-snichols", title: "شون نيكولز", type: "مفكر"
+- id: "evt-bps-founding-1901", title: "تأسيس جمعية علم النفس البريطانية في كلية لندن الجامعية", type: "حدث تاريخي"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«إدوارد ماشيري» (thk-machery) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جوناثان واينبرغ» (thk-weinberg) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

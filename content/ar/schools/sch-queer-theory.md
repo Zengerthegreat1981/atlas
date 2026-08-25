@@ -13,15 +13,17 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية الفرنسية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "ما بعد البنيوية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية", type: "مدرسة"
-  - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-  - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
-  - id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
+- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
+- id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
+- id: "con-queer-theory", title: "النظرية الكويرية", type: "مفهوم"
 gaps:
   - "نصوص Sedgwick, Butler, Halperin, Warner, Foucault (History of Sexuality) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النظرية الكويرية (Queer Theory)

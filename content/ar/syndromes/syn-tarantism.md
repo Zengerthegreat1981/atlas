@@ -11,10 +11,10 @@ active_start: 1374
 active_end: 1960
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-st-vitus-dance", title: "متلازمة رقصة القديس فيتوس", type: "متلازمة"
+- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-st-vitus-dance", title: "متلازمة رقصة القديس فيتوس", type: "متلازمة"
 gaps:
   - "أبحاث إرنستو دي مارتينو (Ernesto de Martino 1959) الأنثروبولوجية في جنوب إيطاليا."
   - "لا يوجد اقتباس مباشر موثوق متاح."

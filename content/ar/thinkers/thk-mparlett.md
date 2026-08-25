@@ -11,10 +11,12 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
 related:
-  - id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"
+- id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"
+- id: "thk-jzinker", title: "جوزيف زِنكِر", type: "مفكر"
 gaps:
   - "لا توجد مراجعة معمّقة لأعماله في التسعينيات."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -5,20 +5,26 @@ type: "مفكر"
 level: "متوسط"
 title: "مايكل ف. هويت"
 en: "Michael F. Hoyt"
-crumb: "br-single-session-therapy ← الإطار العلاجي ← مايكل ف. هويت"
+crumb: "العلاج بجلسة واحدة ← الإطار العلاجي ← مايكل ف. هويت"
 dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بجلسة واحدة", target_type: "تيار"
 related:
-related:
-  - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "مفكر"
+- id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
+- id: "thk-wdryden", title: "ويندي دريدن", type: "مفكر"
+- id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"
+- id: "thk-wbennett", title: "وين بينيت", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موشيه تالمون (thk-mtalmon)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موشيه تالمون (thk-mtalmon)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وين بينيت (thk-wbennett)."
 ---
 
 # مايكل ف. هويت

@@ -12,11 +12,13 @@ language: "السنسكريتية"
 active_start: -800
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-jainism", target_type: "مدرسة"
 related:
-  - id: "sch-jainism", title: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", type: "مدرسة"
-  - id: "thk-mahavira", title: "ماهاڤيرا", type: "مفكر"
-  - id: "thk-buddha", title: "بوذا", type: "مفكر"
+- id: "sch-jainism", title: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", type: "مدرسة"
+- id: "thk-mahavira", title: "ماهاڤيرا", type: "مفكر"
+- id: "thk-buddha", title: "بوذا", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين أحيمسا الجاينية الصارمة وأحيمسا البوذية/أحيمسا الهندوسية يحتاج مراجعة."
   - "لا يوجد تعريف فلسفي حديث موحد لأحيمسا في الفلسفة العربية."

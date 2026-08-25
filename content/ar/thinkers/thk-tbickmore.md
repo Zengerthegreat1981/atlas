@@ -10,12 +10,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← تيموثي بيكمور"
 edges:
-  - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", target_type: "تيار"
 related:
-  - id: "thk-darcy-woebot", title: "أليسون دارسي", type: "مفكر"
-  - id: "thk-rpicard", title: "روزاليند بيكار", type: "مفكر"
-  - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "مفكر"
+- id: "thk-darcy-woebot", title: "أليسون دارسي", type: "مفكر"
+- id: "thk-rpicard", title: "روزاليند بيكار", type: "مفكر"
+- id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"
+- id: "thk-jgrind", title: "جون غريندر", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

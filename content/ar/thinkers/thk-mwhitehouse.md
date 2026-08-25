@@ -11,12 +11,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1956
 active_end: 1980
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الحركة الأصيلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الحركة الأصيلة", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-jadler", title: "جانيت أدلر", type: "مفكر"
+- id: "thk-ppallaro", title: "باتريتسيا بالارو", type: "مفكر"
+- id: "thk-tstromsted", title: "تينا سترومستد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ماري ستاركس وايتهاوس

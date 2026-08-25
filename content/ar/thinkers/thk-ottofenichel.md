@@ -11,11 +11,13 @@ country: "الولايات المتحدة"
 language: "الألمانية/الإنجليزية"
 active_start: 1921
 active_end: 1946
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الفرويدية الجديدة/التحليل البيني الثقافي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفرويدية الجديدة/التحليل البيني الثقافي", target_type: "مدرسة"
 related:
-  - id: "br-ego-psychology", title: "علم نفس الأنا", type: "تيار"
-  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "br-ego-psychology", title: "علم نفس الأنا", type: "تيار"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

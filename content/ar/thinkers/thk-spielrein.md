@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← سابينا �
 dates: "روسيا · 1885–1942"
 country: "روسيا / سويسرا"
 language: "الألمانية / الروسية"
+part: "philosophy"
+active_start: null
+active_end: 1942
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "con-death-instinct", title: "غريزة الموت", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "con-death-instinct", title: "غريزة الموت", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "علاقتها الرومانسية مع يونغ (1904–1910) موثّقة بالتفصيل في رسائل فرويد–يونغ، لكن إعادة تقويمها الفكري كمنظّرة مستقلّة لا يزال في طور البحث."

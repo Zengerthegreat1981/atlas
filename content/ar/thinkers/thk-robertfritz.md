@@ -11,11 +11,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-bobbeck", title: "بوب بيك", type: "مفكر"
+- id: "thk-charlesfaulkner", title: "تشارلز فولكنر", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بوب بيك (thk-bobbeck)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز فولكنر (thk-charlesfaulkner)."
 ---
 
 # روبرت فريتز

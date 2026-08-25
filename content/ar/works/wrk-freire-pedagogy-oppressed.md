@@ -10,11 +10,15 @@ dates: "1968 (برتغالية) / 1970 (إنجليزية) · باولو فرير
 language: "البرتغالية (الأصلية)"
 active_start: 1968
 active_end: 1968
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس التحرير (Liberation Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
 related:
-  - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
-  - id: "con-conscientization-paulo-freire", title: "الوعي النقدي", type: "مفهوم"
+- id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
+- id: "con-conscientization-paulo-freire", title: "الوعي النقدي", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "ترجمات الكتاب (إنجليزية، إسبانية، عربية) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,14 +8,21 @@ en: "The Skin-Ego (Moi-Peau)"
 crumb: "التحليل النفسي ← المفاهيم ← الأنا-جلد"
 dates: "1985-اليوم"
 language: "الفرنسية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "ديدييه أنزيو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-anzieu", target_type: "مفكر"
 related:
-  - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الأنا-جلد (Moi-Peau)

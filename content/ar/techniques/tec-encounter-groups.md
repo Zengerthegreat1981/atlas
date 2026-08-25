@@ -11,12 +11,14 @@ dates: "كاليفورنيا وإيسالن · الستينيات"
 active_start: 1962
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "thk-wschutz", title: "ويليام شوتز", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
 gaps:
   - "كتاب كارل روجرز 'عن مجموعات التلاقي' (Carl Rogers on Encounter Groups, 1970) وحركة الإمكانات البشرية في معهد إيسالن."
   - "مراحل تطور المجموعة: من التخبط المبدئي والمقاومة إلى الانفتاح التام والتعبير الانفعالي الأصيل والارتباط الإنساني العميق."

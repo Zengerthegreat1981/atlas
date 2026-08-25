@@ -14,10 +14,10 @@ language: "الإنجليزية"
 active_start: 2011
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والتحفيز السلوكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والتحفيز السلوكي", target_type: "مدرسة"
 related:
-  - id: "wrk-5-second-rule", title: "قاعدة الـ 5 ثوانٍ", type: "عمل / كتاب"
-  - id: "con-five-second-rule", title: "قاعدة الخمس ثوانٍ", type: "مفهوم"
+- id: "wrk-5-second-rule", title: "قاعدة الـ 5 ثوانٍ", type: "عمل / كتاب"
+- id: "con-five-second-rule", title: "قاعدة الخمس ثوانٍ", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

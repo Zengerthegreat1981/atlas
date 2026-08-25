@@ -11,10 +11,11 @@ active_start: 1977
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-factitious", title: "الاضطراب المفتعل", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-factitious", title: "الاضطراب المفتعل", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-shaken-baby", title: "متلازمة الصدمة الاهتزازية للرضيع والاعتلال العصبي الرضحي", type: "متلازمة"
 gaps:
   - "أبحاث روي ميدو (Roy Meadow 1977) في تشخيص اعتلالات الأطفال المفتعلة من الأمهات."
   - "لا يوجد اقتباس مباشر موثوق متاح."

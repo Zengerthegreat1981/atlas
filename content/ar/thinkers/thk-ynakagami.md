@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ياسوشي �
 dates: "اليابان · 1940s–2010s"
 country: "اليابان"
 language: "اليابانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
-  - id: "thk-tdoi", title: "تاكيو دوي", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
+- id: "thk-tdoi", title: "تاكيو دوي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "سنة الميلاد/الوفاة الدقيقة — موضع بحث."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «التحليلية والبوذية الزِن» (Jungian Psychology and Zen, 1980s) أجرى أوّل «تحليلية مقارنة» منهجية بين يونغ وZen في السياق الياباني، فأظهر كيف يلتقي مفهوم «اللاشعور» مع «mushin» (no-mind) في Zen. كذلك شارك في تأسيس AJAJ (Association of Jungian Analysts, Japan) في كيوتو (1990s). كذلك ألقى محاضرات في IAAP (2000s).
+في «التحليلية والبوذية الزِن» (Jungian Psychology and Zen, الثمانينيات من القرن العشرين) أجرى أوّل «تحليلية مقارنة» منهجية بين يونغ وZen في السياق الياباني، فأظهر كيف يلتقي مفهوم «اللاشعور» مع «mushin» (no-mind) في Zen. كذلك شارك في تأسيس AJAJ (Association of Jungian Analysts, Japan) في كيوتو (التسعينيات من القرن العشرين). كذلك ألقى محاضرات في IAAP (العقد الأول من القرن الحادي والعشرين).
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Jungian Psychology and Zen (1980s).
+Jungian Psychology and Zen (الثمانينيات من القرن العشرين).

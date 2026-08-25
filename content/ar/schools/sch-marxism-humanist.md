@@ -13,11 +13,11 @@ language: "الألمانية، الإيطالية، الفرنسية، الإس
 active_start: 1932
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الماركسية الغربية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-western-marxism", target_type: "مدرسة"
 related:
-  - id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
-  - id: "sch-marxism-structuralist", title: "الماركسية البنيوية", type: "مدرسة"
-  - id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
+- id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
+- id: "sch-marxism-structuralist", title: "الماركسية البنيوية", type: "مدرسة"
+- id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
 gaps:
   - "حدود 'الإنسانية' في الماركسية الإنسانية (مقابل 'الوضعية الماركسية') غير محصورة بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

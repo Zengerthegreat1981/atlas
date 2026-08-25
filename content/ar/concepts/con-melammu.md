@@ -12,9 +12,13 @@ language: "السومرية، الأكدية"
 active_start: -3000
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة الرافدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mesopotamian-wisdom", target_type: "مدرسة"
 related:
-  - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
+- id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الدراسات المقارنة بين ميلمو ومفهوم «الشيكيناه» (שכינה) العبرية محدودة في الأدب العربي."
   - "لا يوجد تعريف فلسفي موحد للمصطلح في الفلسفة المقارنة المعاصرة."

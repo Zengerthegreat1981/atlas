@@ -14,9 +14,9 @@ language: "الإنجليزية"
 active_start: 2007
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والتحسين الذاتي والإنتاجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والتحسين الذاتي والإنتاجية", target_type: "مدرسة"
 related:
-  - id: "wrk-four-hour-workweek", title: "أسبوع عمل من 4 ساعات", type: "عمل / كتاب"
+- id: "wrk-four-hour-workweek", title: "أسبوع عمل من 4 ساعات", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

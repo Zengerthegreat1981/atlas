@@ -11,18 +11,18 @@ icd11_code: "HA01.0"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المتمحور حول الانفعال", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-cog-cognitive-reframing", title: "إعادة التأطير المعرفي", type: "تقنية/تدخل علاجي"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-  - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
-
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المتمحور حول الانفعال", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-cognitive-reframing", title: "إعادة التأطير المعرفي", type: "تقنية/تدخل علاجي"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR لم تُراجع من المصدر الأولي."
   - "الفاعلية المقارنة للعلاج الدوائي (testosterone) والعلاج النفسي غير موثقة بدقة."

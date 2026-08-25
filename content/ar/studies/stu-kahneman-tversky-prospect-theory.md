@@ -9,10 +9,11 @@ en: "Kahneman & Tversky's Prospect Theory Study"
 crumb: "الاقتصاد السلوكي ونظرية القرار ← الدراسات والأبحاث ← دراسة كانمان وتفيرسكي لنظرية الآفاق"
 active_start: 1974
 active_end: 1979
-edges: []
+edges:
+  []
 related:
-  - id: "con-loss-aversion", title: "كراهية الخسارة وتجنب الألم", type: "مفهوم"
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "con-loss-aversion", title: "كراهية الخسارة وتجنب الألم", type: "مفهوم"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 gaps:
   - "ورقة إكونومتريكا (Econometrica 1979) التي نال عنها كانمان جائزة نوبل في الاقتصاد عام 2002."
   - "لا يوجد اقتباس مباشر موثوق متاح."

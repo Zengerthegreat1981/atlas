@@ -13,13 +13,16 @@ active_end: 1274
 country: "الإسماعيلية، المغول (الإيلخانية)"
 language: "العربية والفارسية"
 edges:
-  - rel: "belongs_to", target: "مدرسة أصفهان الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة أصفهان الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-  - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
+- id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
+- id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
+- id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
+- id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
 gaps:
   - "تفاصيل تحوّله من الإسماعيلية إلى التشيع الاثني عشري موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'تجريد العقائد'."
+  - "دُمج معه الملف المكرَّر thk-nasir-al-din-al-tusi (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # نصير الدين الطوسي (خواجة نصير)

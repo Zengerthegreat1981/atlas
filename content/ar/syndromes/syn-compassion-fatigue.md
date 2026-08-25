@@ -11,11 +11,12 @@ active_start: 1992
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-iri-interpersonal-reactivity", title: "مؤشر التفاعل البين–شخصي لأبعاد التعاطف الأربعة (IRI)", type: "أداة قياس"
 gaps:
   - "أبحاث تشارلز فيغلي (Charles Figley 1995) في تعريف التعب من التعاطف كصدمة غير مباشرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,11 +14,11 @@ active_start: 1170
 active_end: 1193
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "مدرسة العقل/القلب (زين شوي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", target_type: "مدرسة"
 related:
-  - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
-  - id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
-  - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لـ'الحدس الأخلاقي' (الحدس الأول) في المراحل الأولى من حياته لم تُراجع من طبعة محقّقة هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

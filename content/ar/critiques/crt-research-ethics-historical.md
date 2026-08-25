@@ -8,16 +8,22 @@ en: "Historical Research Ethics Critique: Experiments that Founded Schools"
 crumb: "النقد الخارجي ← أخلاقيات البحث ← نقد أخلاقيات البحث التاريخية"
 active_start: 1961
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
-related:  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-  - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
-  - "تفاصيل *APA Ethics Code 8.07* (Deception in Research) — لا اقتباس."
-  - "موقف السلوكيين المعاصرين من تجارب واتسون وميلغرام — لا اقتباس."
-  - "لا اقتباس مباشر موثوق متاح من Skinner (توفي 1990) ردّ على هذه الانتقادات."
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
+related:
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"gaps:
+- id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
+- "تفاصيل *APA Ethics Code 8.07* (Deception in Research) — لا اقتباس."
+- "موقف السلوكيين المعاصرين من تجارب واتسون وميلغرام — لا اقتباس."
+- "لا اقتباس مباشر موثوق متاح من Skinner (توفي 1990) ردّ على هذه الانتقادات."
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---
 
 # نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس

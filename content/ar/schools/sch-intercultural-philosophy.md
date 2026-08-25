@@ -13,13 +13,16 @@ language: "متعددة"
 active_start: 1992
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الفلسفة المقارنة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-comparative-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-  - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
+- id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
+- id: "con-interculturality", title: "البين-ثقافية (Interkulturalität)", type: "مفهوم"
+- id: "wrk-intercultural-philosophy-wimmer", title: "الفلسفة البين-ثقافية (Interkulturelle Philosophie)", type: "عمل / كتاب"
 gaps:
   - "نصوص Franz Wimmer, Heinz Kimmerle, Raúl Fornet-Betancourt, Ram Adhar Mall need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة بين-الثقافية (Intercultural Philosophy)

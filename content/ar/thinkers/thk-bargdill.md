@@ -11,13 +11,14 @@ active_start: 2000
 active_end: 2018
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دراساته الفينومينولوجية التجريبية حول ظاهرة الملل الوجودي العادي والمزمن (Boredom) تستحق إدراجاً في المفاهيم."
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-الفينومينولوجيا التجريبية للملل (An Empirical Phenomenological Study of Being Habitually Bored, 2000) · علم النفس الإنساني المعاصر (Humanistic Perspectives on Meaning and Healing, 2018).
+الفينومينولوجيا التجريبية للملل (An Empirical Phenomenological Study of Being Habitually Bored, 2000) · منظورات إنسانية في المعنى والشفاء (Humanistic Perspectives on Meaning and Healing, 2018).

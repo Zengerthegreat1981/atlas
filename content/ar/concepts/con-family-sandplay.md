@@ -8,15 +8,19 @@ en: "Family Sandplay Therapy"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← علاج الأسر الرملية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علاج الأسر الرملية (Family Sandplay)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-family-sandplay", target_type: "مدرسة"
 related:
-  - id: "tec-sandplay-therapy", title: "علاج باللعب الرملي", type: "تقنية"
+- id: "tec-sandplay-therapy", title: "علاج باللعب الرملي", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # علاج الأسر الرملية
 
 نوع من **العلاج باللعب الرملي** المكيَّف للعمل مع الأسر ككل، وليس فقط مع الأطفال. يُمثِّل كل فرد من الأسرة عالمه الداخلي في صينية رملية، ثم تُفسر الجماعية للمعالج.

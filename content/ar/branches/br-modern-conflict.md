@@ -11,13 +11,16 @@ dates: "نيويورك · من أواخر السبعينيات"
 active_start: 1976
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "تشارلز برينر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-cbrenner", target_type: "مفكر"
 related:
-  - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-ekris", title: "إرنست كريس", type: "مفكر"
+- id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-ekris", title: "إرنست كريس", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "نقد برينر لتقسيم الجهاز النفسي الثلاثي الصارم (الهو/الأنا/الأنا الأعلى) وتفضيله لمفهوم التشكيل التوفيقي الشامل."
   - "مفهوم الكرب الانفعالي (Calamity) ومشاعر الحزن والذنب في نظرية الصراع الحديثة."

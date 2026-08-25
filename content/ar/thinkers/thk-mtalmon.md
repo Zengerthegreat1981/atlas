@@ -5,17 +5,19 @@ type: "مفكر"
 level: "متوسط"
 title: "موشيه تالمون"
 en: "Moshe Talmon"
-crumb: "br-single-session-therapy ← البحث التجريبي ← موشيه تالمون"
+crumb: "العلاج بجلسة واحدة ← البحث التجريبي ← موشيه تالمون"
 dates: "إسرائيل/الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1985
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بجلسة واحدة", target_type: "تيار"
 related:
-  - id: "thk-mhoyt", title: "مايكل ف. هويت", type: "مفكر"
-  - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "مفكر"
+- id: "thk-mhoyt", title: "مايكل ف. هويت", type: "مفكر"
+- id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
+- id: "thk-wdryden", title: "ويندي دريدن", type: "مفكر"
 gaps:
   - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

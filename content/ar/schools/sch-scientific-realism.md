@@ -13,9 +13,16 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مظلة"
-  - rel: "superseded_by", target: "الميتافيزيقا التحليلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
+- id: "thk-hputnam", title: "هيلاري putnam", type: "مفكر"
+- id: "thk-bvanfraassen", title: "باس فان فراسن", type: "مفكر"
+- id: "con-no-miracle-argument", title: "حجة المعجزة (No-Miracle Argument)", type: "مفهوم"
+- id: "thk-bas-van-fraassen", title: "باس فان فراسين (Bas C. van Fraassen)", type: "مفكر"
+- id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
+- id: "con-modal-realism-david-lewis", title: "الواقعية المشروطة للعوالم الممكنة (Modal Realism)", type: "مفهوم"
+- id: "con-tawakkul-psychology", title: "التوكل واليقين والسكينة النفسية (Tawakkul in Islamic Psychology)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«باس فان فراسان» (thk-vanfraassen) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ريتشارد بويد» (thk-boyd) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

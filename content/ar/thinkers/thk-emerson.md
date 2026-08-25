@@ -8,18 +8,20 @@ en: "Ralph Waldo Emerson"
 crumb: "المدرسة الوجودية ← الناس ← رالف والدو إمرسون"
 dates: "الولايات المتحدة · 1803–1882"
 active_start: 1836
-active_end: 1841
+active_end: 1875
 language: "الإنجليزية"
 country: "الولايات المتحدة"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
-  - id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"
+- id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
+- id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"
+- id: "ctx-american-transcendentalism-concord", title: "التعالوية الأمريكية في كونكورد والاعتماد على الذات", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق بعد بالصياغة العربية الدقيقة."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # رالف والدو إمرسون
 
 الكاتب والفيلسوف الأمريكي الذي أسّس الفلسفة المتعالية (Transcendentalism)، ومعلّم هنري ديفيد ثورو المباشر وجاره في كونكورد، ماساتشوستس — بل هو من وفّر لثورو الأرض التي بنى عليها كوخه عند بحيرة والدن.

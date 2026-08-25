@@ -11,10 +11,13 @@ active_start: 1887
 active_end: 1889
 country: "فرنسا"
 language: "الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "thk-hbernheim", title: "هيبوليت برنهايم", type: "مفكر"
+- id: "thk-janet", title: "بيير جانيه", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
   - "لم يُراجع بعد من نسخة أصلية مباشرة (محاضرات الثلاثاء في السالبتريير)."
   - "بيير جانيه (تلميذه المباشر، ومحقق أول لمفهوم التفكك النفسي) مذكور معه في نفس المصدر الأصلي (خط تطوّر المدرسة) لكن لسه محتاج عنصر مستقل خاص به — لم يُنشأ بعد."

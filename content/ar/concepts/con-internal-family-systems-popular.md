@@ -11,10 +11,13 @@ crumb: "علاج أنظمة الأسرة الداخلية (IFS) ← المفاه
 active_start: 1995
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علاج أنظمة الأسرة الداخلية (IFS)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج أنظمة الأسرة الداخلية (IFS)", target_type: "مدرسة"
 related:
-  - id: "wrk-no-bad-parts", title: "لا توجد أجزاء سيئة", type: "عمل / كتاب"
-  - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
+- id: "wrk-no-bad-parts", title: "لا توجد أجزاء سيئة", type: "عمل / كتاب"
+- id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التطبيقات السريرية لـ IFS في علاج اضطراب كرب ما بعد الصدمة المعقد (C-PTSD)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -1,7 +1,7 @@
 ---
 slug: "con-psychedelic-experience"
-id: "THK-2164"
-type: "مفكر"
+id: "CON-1263"
+type: "مفهوم"
 level: "متوسط"
 title: "التجربة السيكوديلية"
 en: "Psychedelic Experience"
@@ -10,17 +10,19 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 1954
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
 related:
-  - id: "con-trauma", title: "الصدمة", type: "مفكر"
-  - id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية (PAP)", type: "تقنية/تدخل علاجي"
+- id: "con-trauma", title: "الصدمة", type: "مفهوم"
+- id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية (PAP)", type: "تقنية/تدخل علاجي"
+- id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
+- id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "المصطلح صاغه همفري أوزموند (Humphry Osmond) في رسالة مفتوحة لآلدوس هكسلي في 1952."
   - "في المعالجة الإكلينيكية المعاصرة تُستخدم أدوات موحدة لقياس الحدة مثل MEQ-30 (Mystical Experience Questionnaire) و CEQ-5 (Challenging Experience Questionnaire)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # التجربة السيكوديلية
 
 حالة ذهنية مُعدَّلة تتسم بتغيرات جوهرية في الإدراك الحسي، والتفكير، والوعي بالزمن والذات، والمزاج، والوعي الروحاني، تنتج عن تعاطي مواد كيميائية معينة (سيكوديلية كلاسيكية مثل LSD و السيلوسيبين و DMT) أو عن تقنيات لادوائية (التنفس الهولوتروبي، التحفيز بالموسيقى).

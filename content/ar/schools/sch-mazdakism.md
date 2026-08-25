@@ -13,12 +13,14 @@ language: "البهلوية"
 active_start: 470
 active_end: 530
 edges:
-  - rel: "evolved_from", target: "الزروانية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-zurvanism", target_type: "مدرسة"
 related:
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
+- id: "thk-mazdak", title: "مزدك", type: "مفكر"
 gaps:
   - "نصوص المزدكية الأصلية فقدت ولم تصلنا مباشرة — معرفتنا مستمدة من مصادر معادية."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # المزدكية

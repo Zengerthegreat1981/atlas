@@ -10,13 +10,20 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1965
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الأداء والعلاج الرياضي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الأداء والعلاج الرياضي", target_type: "مدرسة"
 related:
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "thk-andersericson", title: "أندرس إريكسون", type: "مفكر"
+- id: "thk-rafaeli-eyth", title: "رافائيل إيدث", type: "مفكر"
+- id: "thk-jim-loehr", title: "جيم لور", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-deniswaitley", title: "دينيس ويتلي", type: "مفكر"
+
 gaps:
   - "تاريخ التأسيس في San Fernando Valley State College (Bruce Ogilvie, Thomas Tutko) يستحق مصدراً."
   - "التمييز بين Certified Consultant (CC-AASP) وlicensure النفسي يستحق تفصيلاً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أندرس إريكسون (thk-andersericson)."
 ---
 
 # علم نفس الرياضة

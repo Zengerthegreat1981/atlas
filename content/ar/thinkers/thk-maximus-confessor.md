@@ -13,12 +13,12 @@ active_end: 662
 country: "الإمبراطورية البيزنطية، شمال أفريقيا البيزنطية"
 language: "اليونانية"
 edges:
-  - rel: "belongs_to", target: "الفلسفة البيزنطية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة البيزنطية", target_type: "مدرسة"
 related:
-  - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
-  - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
+- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
 gaps:
-  - "صلته المباشرة بـديونيسيوس المجهول موضع نقاش."
+  - "صلته المباشرة بديونيسيوس المجهول موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'Ambigua'."
 ---
 

@@ -6,14 +6,16 @@ level: "متقدم"
 title: "نزع الأسطورة"
 en: "Demythologization (Bultmann)"
 crumb: "المدرسة الوجودية ← المفاهيم ← نزع الأسطورة"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-barth", title: "كارل بارث", type: "مفكر"
-  - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
-  - id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
+- id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-barth", title: "كارل بارث", type: "مفكر"
+- id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الأسطورة» (con-myth) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النص الأصلي 'Neues Testament und Mythologie' (1941) لبولتمان يحتاج مراجعة من المصدر الأولي للخطوات المنهجية."

@@ -10,11 +10,16 @@ dates: "1948 · كورت لوين"
 language: "الإنجليزية"
 active_start: 1948
 active_end: 1948
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
-  - rel: "authored_by", target: "كورت لوين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-klew", target_type: "مفكر"
 related:
-  - id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "تجارب لوين في تغيير السلوك الغذائي (رفع استهلاك الحليب والكبد في الأحياء الأمريكية) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

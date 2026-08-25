@@ -8,16 +8,19 @@ en: "Structured Teaching (TEACCH)"
 crumb: "العلاج المتخصص بالإعاقات والاضطرابات النمائية ← TEACCH ← التدريس المنظم"
 active_start: 1972
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-teacch", target_type: "تيار"
+- rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
-  - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
-  - id: "br-teacch", title: "TEACCH", type: "مفهوم"
+- id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+- id: "br-teacch", title: "TEACCH", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز الدقيق بين TEACCH كنظام خدمات وStructured Teaching كأسلوب يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # التدريس المنظم (Structured Teaching)
 
 ركيزة أساسية في برنامج TEACCH، يتكون من أربعة مكونات:

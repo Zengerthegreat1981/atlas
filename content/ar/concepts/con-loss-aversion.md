@@ -11,11 +11,13 @@ crumb: "الاقتصاد السلوكي وعلم النفس المعرفي ← �
 active_start: 1979
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
 related:
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-  - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
-  - id: "con-sunk-cost-fallacy", title: "مغالطة التكلفة الغارقة", type: "مفهوم"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "con-sunk-cost-fallacy", title: "مغالطة التكلفة الغارقة", type: "مفهوم"
+- id: "con-scarcity-mindset", title: "عقلية الندرة وعبء النطاق الترددي المعرفي", type: "مفهوم"
+- id: "stu-kahneman-tversky-prospect-theory", title: "دراسة كانمان وتفيرسكي لتقييم المخاطر ونظرية الآفاق (1979)", type: "دراسة وبحث"
 gaps:
   - "نظرية الآفاق (Prospect Theory 1979) لكانمان وتفيرسكي ومضاعف الخسارة النفسي (2 to 2.5x)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

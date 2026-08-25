@@ -11,10 +11,14 @@ dates: "السبعينيات والثمانينيات"
 active_start: 1971
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "axm-insight-learning", title: "التعلم بالاستبصار", type: "بديهية/مبدأ تأسيسي"
+- id: "thk-dzurilla", title: "توماس ج. دزوريلا", type: "مفكر"
+- id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج توماس دزوريلا وآرثر نيزو (D'Zurilla & Nezu) في التوجه الإيجابي نحو المشكلات (Positive Problem Orientation)."
   - "خطوات حل المشكلات الخمس: تعريف المشكلة، توليد البدائل، اتخاذ القرار، التطبيق والتحقق."

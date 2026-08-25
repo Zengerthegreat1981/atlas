@@ -10,27 +10,28 @@ crumb: "الظاهراتية ← العلاقات عبر-القسمية ← ال
 active_start: 1921
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "الظاهراتية", target_type: "مدرسة"
-  - rel: "relates_to", target: "المدرسة الوجودية في العلاج النفسي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "relates_to", target: "المدرسة الوجودية في العلاج النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
-  - id: "wrk-existential-psychotherapy", title: "العلاج النفسي الوجودي", type: "عمل / كتاب"
-  - id: "rel-somatic-existential", title: "الجسد والوجودية", type: "علاقة بين مدرستين"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "wrk-existential-psychotherapy", title: "العلاج النفسي الوجودي", type: "عمل / كتاب"
+- id: "rel-somatic-existential", title: "الجسد والوجودية", type: "علاقة بين مدرستين"
+- id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
+- id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 gaps:
   - "التمييز بين 'Daseinsanalyse' عند بوس (مبنية على هايدغر) و'Existenzanalyse' عند بينسفانغر (مبنية على ياسبرز وهوسرل) — لا يزال غامضاً في الأدبيات العربية."
   - "مدى تأثر فرانكل بفلسفة ياسبرز (التي درّسها) قبل تأسيسه 'العلاج بالمعنى' لم يُراجع بدقة."
   - "الاستقبال الأمريكي للظاهراتية عبر رولو ماي (الذي قابل مع هايدغر شخصياً في 1958) — تفاصيل اللقاءات لم تُوثَّق في مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من بوس عن هايدغر في لغة عربية حديثة."
 ---
-
 # الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسوانغر وبوس
 
 **العلقة الأعمق والأقدم بين الفلسفة القارية والعلاج النفسي في القرن العشرين.** لا يوجد فرع علاجي آخر **استورد بمنهجية** من تراث فلسفي بهذا العمق، ولا مدرسة فلسفية أخرى **طبَّقت على مرضاها الحقيقيين** بهذا الوضوح.

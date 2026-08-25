@@ -9,14 +9,16 @@ crumb: "المدرسة الوجودية ← المفاهيم ← الألم ال
 active_start: 1985
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "coined_by", target: "إدوين شنايدمان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "coined_by", target: "thk-shneidman", target_type: "مفكر"
 related:
-  - id: "thk-shneidman", title: "إدوين شنايدمان", type: "مفكر"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "thk-shneidman", title: "إدوين شنايدمان", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+
 gaps:
   - "لم يُراجع بعد من النصوص الأصلية لشنايدمان (The Suicidal Mind, 1996) مباشرة — هذا الوصف مبني على ما هو موثّق في صفحته المعتمدة فقط."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."

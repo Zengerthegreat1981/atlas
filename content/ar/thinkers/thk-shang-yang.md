@@ -14,14 +14,15 @@ active_start: -361
 active_end: -338
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الشرعية / القانونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الشرعية / القانونية (Fajia)", target_type: "مدرسة"
 related:
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
-  - id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
+- id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لإصلاحاته في تشين (تعديل قوانين تشاو 359 ق.م) موضع خلاف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "هوية الملف: الـslug `thk-shang-yang` يشير إلى Shang Yang (Gongsun Yang / Wei Yang). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # شانغ يانغ (غي وي شيانغ 商鞅، نحو 390–338 ق.م)

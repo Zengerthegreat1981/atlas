@@ -8,9 +8,11 @@ en: "Scoville & Milner Patient H.M. Case Study on Hippocampus and Memory"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة سكوفيل وميلنر للمريض H.M."
 active_start: 1957
 active_end: 1968
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "التشريح العصبي الدقيق بعد الوفاة لدماغ هنري مولياسون (Henry Molaison) عام 2014 بواسطة Jacopo Annese يحتاج توثيقاً"
   - "دور الفص الصدغي الإنسي في تماسك وتثبيت الذاكرة طويلة المدى يتطلب ربطاً بنماذج التثبيت العصبي"

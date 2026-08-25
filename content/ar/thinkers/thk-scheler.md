@@ -11,15 +11,16 @@ active_start: 1913
 active_end: 1916
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
-  - id: "thk-hartmann", title: "نيكولاي هارتمان", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "thk-hartmann", title: "نيكولاي هارتمان", type: "مفكر"
 gaps:
   - "لم يُراجع بعد من نسخة أصلية مباشرة (طبيعة التعاطف، 1913 · صياغة القيمة الأخلاقية، 1916)."
   - "أُضيف بعد ملاحظة المستخدم إن اسمه مذكور في «خط تطوّر المدرسة» من غير رابط فعلي."

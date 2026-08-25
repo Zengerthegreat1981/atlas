@@ -9,28 +9,32 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ميخائيل
 dates: "بريطانيا · [غير مؤكد]"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "سيرة شخصية محدودة في المصادر المتاحة."
 ---
 
-# ميخائيل رُستِن
+# ميخائيل رستن
 
-محلِّل نفسي بريطاني، أَحَد أَكْبر «مُؤَسِّسي» علم نفس المُؤَسَّسَة في BPSI.
+محلل نفسي بريطاني، أحد أكبر «مؤسسي» علم نفس المؤسسة في BPSI.
 
 ## ما أعطاه
 
-- «النُّظُم في عِلاج التَّحليل» (Systems in Psychoanalytic Therapy، 1990s) — تَطبيق التَّحليل النَّفْسي على المُؤَسَّسات (مُسْتَشْفى، سَجون، مَدارس).
-- «مُؤَسَّسة تافيستوك» (Tavistock Institute) — «Tavistock Lectures» السَّنَويَّة (1930s–70s).
-- «عِلاج الأُسَر» (Narrative in Family Therapy) — جَسْر بين التحليل النَّفْسي وَعِلاج الأُسَر.
+- «النظم في علاج التحليل» (Systems in Psychoanalytic Therapy، التسعينيات من القرن العشرين) — تطبيق التحليل النفسي على المؤسسات (مستشفى، سجون، مدارس).
+- «مؤسسة تافيستوك» — «Tavistock Lectures» السنوية (الثلاثينيات من القرن العشرين–70s).
+- «علاج الأسر» — جسر بين التحليل النفسي وعلاج الأسر.
 
 ## موقعه من التيار
 
-«مُؤَسِّس تَطبيق التَّحليل النَّفْسي عَلَى المُؤَسَّسات» (Psychodynamic Institutional Care).
+«مؤسس تطبيق التحليل النفسي على المؤسسات» (Psychodynamic Institutional Care).
 
 ## قيد
 
@@ -38,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-مقالات متعدِّدة في J. Child Psychotherapy وَTavistock Press.
+مقالات متعددة في J. Child Psychotherapy وTavistock Press.

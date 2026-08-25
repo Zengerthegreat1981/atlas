@@ -11,11 +11,13 @@ crumb: "مدرسة التحليل النفسي وعلم النفس الإكلي�
 active_start: 1912
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي وعلم النفس الإكلينيكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة التحليل النفسي وعلم النفس الإكلينيكي", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "wrk-mating-in-captivity", title: "التزاوج في الأسر", type: "عمل / كتاب"
-  - id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "wrk-mating-in-captivity", title: "التزاوج في الأسر", type: "عمل / كتاب"
+- id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "ورقة فرويد الأصلية (1912) 'حول أعم التدهورات في الحياة الجنسية' (Über die allgemeinste Erniedrigung des Liebeslebens)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

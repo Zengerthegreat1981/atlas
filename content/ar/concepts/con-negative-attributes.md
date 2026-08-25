@@ -10,13 +10,17 @@ crumb: "الفلسفة ← مفاهيم مشتركة ← الصفات السلب
 active_start: 1100
 country: "الأندلس / صقلية"
 language: "العربية (في الأصل)"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", target_type: "مدرسة"
-  - rel: "belongs_to", target: "اللاهوت السلبي / الأبوفاتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-apophatic", target_type: "مدرسة"
 related:
-  - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
-  - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
-  - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
+- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-anxiety", title: "القلق", type: "مفهوم"
 gaps:
   - "النسب الفكري المباشر بين ابن ميمون وPseudo-Dionysius موضع جدل (طريق عبر السكولاستية أم مباشر؟)."
   - "لا يوجد اقتباس مباشر موثوق من 'دلالة الحائرين' متاح."

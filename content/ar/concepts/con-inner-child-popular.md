@@ -11,10 +11,13 @@ crumb: "علم النفس الشعبي ← المفاهيم ← الطفل ال�
 active_start: 1985
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي", target_type: "مدرسة"
 related:
-  - id: "wrk-homecoming-inner-child", title: "العودة إلى الوطن: استعادة طفلك الداخلي", type: "عمل / كتاب"
-  - id: "thk-john-bradshaw", title: "جون برادشو", type: "مفكر"
+- id: "wrk-homecoming-inner-child", title: "العودة إلى الوطن: استعادة طفلك الداخلي", type: "عمل / كتاب"
+- id: "thk-john-bradshaw", title: "جون برادشو", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الجذور التاريخية للمفهوم لدى كارل يونغ (النمط البدئي للطفل) وإريك بيرن (حالة أنا الطفل)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

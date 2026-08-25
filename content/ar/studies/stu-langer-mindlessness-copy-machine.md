@@ -9,10 +9,11 @@ en: "Ellen Langer's Copy Machine Study (Mindlessness)"
 crumb: "علم النفس الاجتماعي والمعرفي ← الدراسات والأبحاث ← دراسة لانغر لآلة النسخ"
 active_start: 1978
 active_end: 1978
-edges: []
+edges:
+  []
 related:
-  - id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
-  - id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
+- id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
+- id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
 gaps:
   - "نسب الموافقة الثلاث: 60% لطلب التجاوز البسيط، 94% للسبب الحقيقي، و93% للسبب الزائف المكرر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

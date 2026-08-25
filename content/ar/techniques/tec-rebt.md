@@ -11,11 +11,15 @@ dates: "نيويورك · 1955"
 active_start: 1955
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-stoics", title: "الرواقيون (سينيكا وإبيكتيتوس)", type: "مفكر"
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "con-abc-model", title: "نموذج ABC (REBT)", type: "مفهوم"
+- id: "thk-stoics", title: "الرواقيون (سينيكا وإبيكتيتوس)", type: "مفكر"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج ABCDEF الفلسفي والإكلينيكي لألبرت إليس (Activating event, Belief, Consequence, Disputation, Effective new philosophy, New Feeling)."
   - "مفهوم القبول الذاتي غير المشروط (Unconditional Self-Acceptance - USA) مقابل تقدير الذات المشروط."

@@ -8,14 +8,16 @@ en: "Integrative Therapy (Common Factors) and Psychoanalysis: An Old Defense"
 crumb: "التكاملية (العامل المشترك) ← العلاقات ← التكاملية (العامل المشترك) والتحليل النفسي"
 active_start: 1960
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
-  - rel: "relates_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
-  - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+- id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "rel-existential-phenomenology", title: "الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج", type: "علاقة بين مدرستين"
 gaps:
   - "تاريخياً، التحليل النفسي لم يدافع 'نظرياً' عن العامل المشترك، لكن علماء مثل Gill (1982) قدّموا ما يُشبهه — لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح من فرويد عن Common Factors (لأنه توفي 1939 قبل Rosenzweig 1936)."

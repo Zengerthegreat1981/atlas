@@ -13,12 +13,12 @@ language: "الصينية الكلاسيكية"
 active_start: 659
 active_end: 1400
 edges:
-  - rel: "evolved_from", target: "يوغاكارا", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-yogacara", target_type: "مدرسة"
 related:
-  - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-sanlun", title: "سانلون (مادهياماكا الصينية)", type: "مدرسة"
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-sanlun", title: "سانلون (مادهياماكا الصينية)", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 gaps:
   - "نصوص Xuanzang (Cheng Weishi Lun، Yuqieshidi Lun) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Faxiang الصينية و Yogācāra الهندية الأصلية يستحق بحثاً نقدياً."

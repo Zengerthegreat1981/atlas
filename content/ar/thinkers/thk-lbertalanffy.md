@@ -11,12 +11,20 @@ country: "النمسا/كندا"
 language: "الألمانية/الإنجليزية"
 active_start: 1945
 active_end: 1972
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
 related:
-  - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
+- id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
+- id: "thk-cchurchman", title: "سي. ويست تشرتشمان", type: "مفكر"
+- id: "thk-elaszlo", title: "إرڤين لازلو", type: "مفكر"
+- id: "thk-femery", title: "فريد إيمري", type: "مفكر"
+- id: "thk-mschwarz", title: "مارغريت شوارز", type: "مفكر"
+- id: "thk-rackoff", title: "راسل أكوف", type: "مفكر"
+- id: "thk-sbeer", title: "ستافورد بير", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # لودفيغ فون برتالانفي

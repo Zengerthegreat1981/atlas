@@ -11,10 +11,13 @@ crumb: "علم النفس الاجتماعي التجريبي ← المفاهي
 active_start: 1974
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-  - id: "wrk-obedience-to-authority", title: "الانصياع للسلطة", type: "عمل / كتاب"
-  - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
+- id: "stu-milgram-obedience", title: "تجربة ميلغرام للطاعة والسلطة", type: "دراسة وبحث"
+- id: "wrk-obedience-to-authority", title: "الانصياع للسلطة", type: "عمل / كتاب"
+- id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الانتقال بين الحالة الذاتية المستقلة (Autonomous State) والحالة الوكالية (Agentic State)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

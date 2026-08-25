@@ -11,9 +11,15 @@ active_start: 1979
 active_end: 2010
 country: "الولايات المتحدة الأمريكية"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج بالتصوير الضوئي (PhotoTherapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالتصوير الضوئي (PhotoTherapy)", target_type: "مدرسة"
 related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "لا تتوفر معلومات مؤكدة عن تاريخ الميلاد أو المسار الأكاديمي الكامل لكراوس."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

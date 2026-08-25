@@ -11,10 +11,21 @@ active_start: 1874
 active_end: 1874
 country: "ألمانيا/النمسا"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "wrk-beitrage-sinneswahrnehmung", title: "أبحاث في نظرية الإدراك الحسي", type: "عمل / كتاب"
+- id: "wrk-elemente-psychophysik", title: "عناصر السيكوفيزياء", type: "عمل / كتاب"
+- id: "wrk-grundzuge-physiologische-psychologie", title: "خطوط علم النفس الفسيولوجي", type: "عمل / كتاب"
+- id: "wrk-handbuch-physiologische-optik", title: "كتاب الفسيولوجيا البصرية", type: "عمل / كتاب"
+- id: "wrk-medicinische-psychologie", title: "علم النفس الطبي", type: "عمل / كتاب"
+- id: "wrk-psychologie-empirischen-standpunkt", title: "علم النفس من المنظور التجريبي", type: "عمل / كتاب"
+- id: "con-conscious-acts", title: "الأفعال الواعية عند برنتانو", type: "مفهوم"
+- id: "con-unconscious-inference", title: "الاستدلال اللاواعي (Unconscious Inference) عند هلمهولتز", type: "مفهوم"
+- id: "axm-intentionality", title: "القصدية (Intentionalität)", type: "بديهية/مبدأ تأسيسي"
+- id: "con-intentionality", title: "القصدية (Intentionalität)", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد من نسخة أصلية مباشرة (علم النفس من منظور تجريبي، 1874)."
   - "أُضيف بعد ملاحظة المستخدم إن اسمه مذكور في «خط تطوّر المدرسة» من غير رابط فعلي."

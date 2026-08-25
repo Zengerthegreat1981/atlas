@@ -11,13 +11,16 @@ country: "ألمانيا"
 language: "الألمانية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الإيجابي عبر-الثقافي (Peseschkian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الإيجابي عبر-الثقافي (Peseschkian)", target_type: "مدرسة"
 related:
-  - id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
+- id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
+- id: "thk-fpeseschkian", title: "فريد بيسشكيان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فريد بيسشكيان (thk-fpeseschkian)."
 ---
 
 # مانفريد شيربكا

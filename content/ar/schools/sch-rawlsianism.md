@@ -13,15 +13,19 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
-  - rel: "evolved_from", target: "العقد الاجتماعي (Social Contract)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-social-contract", target_type: "مدرسة"
 related:
-  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-  - id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
-  - id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
-  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
+- id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
+- id: "con-political-liberalism", title: "الإجماع المتداخل", type: "مفهوم"
+- id: "con-veil-ignorance", title: "حجاب الجهل", type: "مفهوم"
+- id: "wrk-theory-of-justice", title: "نظرية العدالة (A Theory of Justice, 1971)", type: "عمل / كتاب"
+- id: "dbt-rawls-nozick-justice", title: "جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق", type: "جدل"
 gaps:
   - "نصوص Rawls (A Theory of Justice, Political Liberalism, Justice as Fairness) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الليبرالية السياسية المعاصرة (الرولزية وما بعدها)

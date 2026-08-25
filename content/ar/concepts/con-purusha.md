@@ -12,10 +12,13 @@ language: "السنسكريتية"
 active_start: -600
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "سامخيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-samkhya", target_type: "مدرسة"
 related:
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-  - id: "con-prakriti", title: "پرَكْرِتِي", type: "مفهوم"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "con-prakriti", title: "پرَكْرِتِي", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق بين Purusha وAtman في المدارس الهندية موضع نقاش."
   - "لا يوجد تعريف فلسفي حديث موحد لـPurusha في الفلسفة العربية."

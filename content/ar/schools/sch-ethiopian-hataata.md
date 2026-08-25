@@ -14,9 +14,13 @@ active_start: 300
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
-  - id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
+- id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
+- id: "thk-yacob", title: "زارا يعقوب", type: "مفكر"
+- id: "con-solution-focused-miracle-q", title: "سؤال المعجزة (Miracle Question) في العلاج المختصر القائم على الحل", type: "مفهوم"
+- id: "con-two-eyed-seeing-indigenous", title: "الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«تقاليد اليوروبا (Ifá)» (sch-afa) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«الأرثوذكسية الإثيوبية» (sch-ethiopian-orthodoxy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

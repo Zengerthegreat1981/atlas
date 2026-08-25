@@ -1,0 +1,186 @@
+{
+  "description": "Cycle 6 H3 — auto-decision on slug/identity conflicts.",
+  "auto_decision_rule": "For each file with slug/en mismatch, add a `gaps` note explaining the situation. Do NOT rename the slug (would break cross-references). The note documents the known identity and the alternative spelling.",
+  "files_to_modify": [
+    {
+      "file": "thinkers/thk-sunzi.md",
+      "slug": "thk-sunzi",
+      "en_name": "Sunzi (Sun Wu, Master Sun)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-sunzi` يشير إلى Sunzi (Sun Wu, Master Sun). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-erickson-erl.md",
+      "slug": "thk-erickson-erl",
+      "en_name": "Ernest Lawrence Rossi",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-erickson-erl` يشير إلى Ernest Lawrence Rossi. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-porphyry.md",
+      "slug": "thk-porphyry",
+      "en_name": "Porphyry of Tyre",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-porphyry` يشير إلى Porphyry of Tyre. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-mgrof.md",
+      "slug": "thk-mgrof",
+      "en_name": "Stanislav Grof (alternative version)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-mgrof` يشير إلى Stanislav Grof (alternative version). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-nicotole.md",
+      "slug": "thk-nicotole",
+      "en_name": "Nicole Toole",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-nicotole` يشير إلى Nicole Toole. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-wang-bi.md",
+      "slug": "thk-wang-bi",
+      "en_name": "Wang Bi (Wang Pi)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-wang-bi` يشير إلى Wang Bi (Wang Pi). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-bbundy.md",
+      "slug": "thk-bbundy",
+      "en_name": "Karen Budd",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-bbundy` يشير إلى Karen Budd. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-rkaes.md",
+      "slug": "thk-rkaes",
+      "en_name": "René Kaës",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-rkaes` يشير إلى René Kaës. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-rreibo.md",
+      "slug": "thk-rreibo",
+      "en_name": "Richard J. Reynolds (T. Taizan Maezumi / Rev. Daitsu Tom Wright)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-rreibo` يشير إلى Richard J. Reynolds (T. Taizan Maezumi / Rev. Daitsu Tom Wright). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-robert-thurman.md",
+      "slug": "thk-robert-thurman",
+      "en_name": "Robert Thurman: Buddhist Psychology in the West",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-robert-thurman` يشير إلى Robert Thurman: Buddhist Psychology in the West. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-timothy-verduin.md",
+      "slug": "thk-timothy-verduin",
+      "en_name": "Timothy Verduin: Emotionally Focused Couple Therapy",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-timothy-verduin` يشير إلى Timothy Verduin: Emotionally Focused Couple Therapy. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-aulanc.md",
+      "slug": "thk-aulanc",
+      "en_name": "Founders of Israel Jungian associations",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-aulanc` يشير إلى Founders of Israel Jungian associations. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-ahmad-sirhindi.md",
+      "slug": "thk-ahmad-sirhindi",
+      "en_name": "Imam Rabbani Ahmad Sirhindi (Mujaddid Alf-i Thani)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-ahmad-sirhindi` يشير إلى Imam Rabbani Ahmad Sirhindi (Mujaddid Alf-i Thani). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-alicorazon.md",
+      "slug": "thk-alicorazon",
+      "en_name": "Ali B. Coronado",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-alicorazon` يشير إلى Ali B. Coronado. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-elin-rbaek.md",
+      "slug": "thk-elin-rbaek",
+      "en_name": "Elin Rbæk",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-elin-rbaek` يشير إلى Elin Rbæk. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-andersericson.md",
+      "slug": "thk-andersericson",
+      "en_name": "Anders Ericsson",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-andersericson` يشير إلى Anders Ericsson. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-hypatia.md",
+      "slug": "thk-hypatia",
+      "en_name": "Hypatia of Alexandria",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-hypatia` يشير إلى Hypatia of Alexandria. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-plugge.md",
+      "slug": "thk-plugge",
+      "en_name": "Herbert Plügge",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-plugge` يشير إلى Herbert Plügge. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-michael-derm.md",
+      "slug": "thk-michael-derm",
+      "en_name": "Michael Der Meer",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-michael-derm` يشير إلى Michael Der Meer. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-shen-buhai.md",
+      "slug": "thk-shen-buhai",
+      "en_name": "Shen Buhai (Shen Bao)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-shen-buhai` يشير إلى Shen Buhai (Shen Bao). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-gabor-mate.md",
+      "slug": "thk-gabor-mate",
+      "en_name": "Gabor Maté",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-gabor-mate` يشير إلى Gabor Maté. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-clarissa.md",
+      "slug": "thk-clarissa",
+      "en_name": "Clarissa Pinkola Estés",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-clarissa` يشير إلى Clarissa Pinkola Estés. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-hermes-trismegistus.md",
+      "slug": "thk-hermes-trismegistus",
+      "en_name": "Hermes Trismegistus (Traditional figure)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-hermes-trismegistus` يشير إلى Hermes Trismegistus (Traditional figure). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-twsalisbury.md",
+      "slug": "thk-twsalisbury",
+      "en_name": "Toyin Falola (or another key figure in African psychology)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-twsalisbury` يشير إلى Toyin Falola (or another key figure in African psychology). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-ricoeur.md",
+      "slug": "thk-ricoeur",
+      "en_name": "Paul Ricœur",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-ricoeur` يشير إلى Paul Ricœur. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-steven-haber.md",
+      "slug": "thk-steven-haber",
+      "en_name": "Steven Haber: AEDP Practitioner and Theorist",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-steven-haber` يشير إلى Steven Haber: AEDP Practitioner and Theorist. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-martin-luther-king.md",
+      "slug": "thk-martin-luther-king",
+      "en_name": "Martin Luther King Jr.",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-martin-luther-king` يشير إلى Martin Luther King Jr.. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-shang-yang.md",
+      "slug": "thk-shang-yang",
+      "en_name": "Shang Yang (Gongsun Yang / Wei Yang)",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-shang-yang` يشير إلى Shang Yang (Gongsun Yang / Wei Yang). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-lmorrnah.md",
+      "slug": "thk-lmorrnah",
+      "en_name": "Abraham Kawai'ae'a",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-lmorrnah` يشير إلى Abraham Kawai'ae'a. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    },
+    {
+      "file": "thinkers/thk-wdowling.md",
+      "slug": "thk-wdowling",
+      "en_name": "Na'im Akbar",
+      "gap_note_to_add": "  - \"هوية الملف: الـslug `thk-wdowling` يشير إلى Na'im Akbar. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`.\""
+    }
+  ]
+}

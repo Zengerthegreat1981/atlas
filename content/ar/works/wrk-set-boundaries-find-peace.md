@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والعلاقات الأسرية", target_type: "مدرسة"
-  - rel: "written_by", target: "نيدرا غلوفر تواب", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والعلاقات الأسرية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-nedra-tawwab", target_type: "مفكر"
 related:
-  - id: "thk-nedra-tawwab", title: "نيدرا غلوفر تواب", type: "مفكر"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
+- id: "thk-nedra-tawwab", title: "نيدرا غلوفر تواب", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

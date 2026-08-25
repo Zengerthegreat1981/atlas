@@ -9,12 +9,15 @@ crumb: "التحليل النفسي ← الناس ← اللاكانية ← ك
 dates: "فرنسا · [غير مؤكد]"
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-jamiller", title: "جاك-أَلان ميلِّر", type: "مفكر"
-  - id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-jamiller", title: "جاك-أَلان ميلِّر", type: "مفكر"
+- id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -22,11 +25,11 @@ gaps:
 
 # كوليت سولر
 
-محلّلة نفسية فرنسية، ومحلّلة Lacan نفسها، ومؤسِّسة «المدرسة الدولية للندوات اللاكانية» (Internationale des Forums, 1998)، ومُحرِّرة منشورات Champ lacanien.
+محلّلة نفسية فرنسية، ومحلّلة Lacan نفسها، ومؤسِّسة «الأممية اللاكانية للمنتديات» (Internationale des Forums du Champ lacanien, 1998)، ومُحرِّرة منشورات Champ lacanien.
 
 ## ما أعطته
 
-كتبت «ما قاله لوكان عن النساء» (Ce que Lacan disait des femmes, 2003)، وهو الكتاب الذي حلّلت فيه تعقيد Lacan المُحيِّر بخصوص «الأنوثة» (Femininity) و«التمتع الأنثوي» (Jouissance Féminine). كتبت أيضاً «اللذّات اللاكانية» (Lacanian Affects, 2015) و«اللاوعي المعاد اختراعه» (Lacan l'inconscient réinventé). أسّست «مدرسة الندوات اللاكانية» (École du Champ lacanien) بعد انقسام 1998 عن ECF.
+كتبت «ما قاله لاكان عن النساء» (Ce que Lacan disait des femmes, 2003)، وهو الكتاب الذي حلّلت فيه تعقيد Lacan المُحيِّر بخصوص «الأنوثة» (Femininity) و«التمتع الأنثوي» (Jouissance Féminine). كتبت أيضاً «الانفعالات اللاكانية» (Lacanian Affects, 2015) و«اللاوعي المعاد اختراعه» (Lacan l'inconscient réinventé). وأسّست معها «مدرسة الحقل اللاكاني» (École de Psychanalyse des Forums du Champ Lacanien) بعد انقسام 1998 عن ECF.
 
 ## موقعها من التيار
 
@@ -38,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-«ما قاله لوكان عن النساء» (Ce que Lacan disait des femmes, 2003) · «اللذّات اللاكانية» (Lacanian Affects, 2015) · «اللاوعي المعاد اختراعه» (Lacan l'inconscient réinventé, 2004).
+«ما قاله لاكان عن النساء» (Ce que Lacan disait des femmes, 2003) · «الانفعالات اللاكانية» (Lacanian Affects, 2015) · «اللاوعي المعاد اختراعه» (Lacan l'inconscient réinventé, 2004).

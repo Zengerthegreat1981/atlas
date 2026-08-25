@@ -8,20 +8,21 @@ en: "Cognitive-Behavioral Therapy and Non-Western Frameworks: Importing Buddhist
 crumb: "المعرفية-السلوكية ← العلاقات ← المعرفية-السلوكية والأطر غير الغربية"
 active_start: 1979
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
-  - rel: "relates_to", target: "الأطر غير الغربية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "relates_to", target: "الأطر غير الغربية", target_type: "مدرسة"
 related:
-  - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-  - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-  - id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
+- id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"
+- id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 gaps:
   - "تفاصيل لقاء كابات-زين بتيك نات هان (1980s) ومدى تأثره — يحتاج توثيقاً دقيقاً."
   - "ما إذا كانت البوذية 'استيردت' أم 'اختزلت' في العلاج المعاصر — سؤال فلسفي غير محسوم."
   - "لا يوجد اقتباس مباشر موثوق متاح من تيك نات هان عن كابات-زين."
 ---
-
 # المعرفية-السلوكية والأطر غير الغربية: استيراد اليقظة البوذية
 
 قصة **استيراد مثيرة للجدل**: في **1979**، أسّس **جون كابات-زين** (1944-) **MBSR** (Mindfulness-Based Stress Reduction) في جامعة ماساتشوستس — أخذ **التأمّل البوذي** (Vipassana) وأدخله في **الطب السريري** بشكل **علمي** (RCTs، مقاييس، تجارب محكومة). النتيجة: **استيراد** مثمر، لكن مع **خسارة** — اختُزلت البوذية، أُخذت من سياقها الروحي.

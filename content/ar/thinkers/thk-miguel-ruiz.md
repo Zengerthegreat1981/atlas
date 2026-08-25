@@ -14,10 +14,10 @@ language: "الإسبانية / الإنجليزية"
 active_start: 1997
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والحكمة التولتيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والحكمة التولتيكية", target_type: "مدرسة"
 related:
-  - id: "wrk-four-agreements", title: "الاتفاقيات الأربع", type: "عمل / كتاب"
-  - id: "con-four-agreements", title: "الاتفاقيات الأربع", type: "مفهوم"
+- id: "wrk-four-agreements", title: "الاتفاقيات الأربع", type: "عمل / كتاب"
+- id: "con-four-agreements", title: "الاتفاقيات الأربع", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

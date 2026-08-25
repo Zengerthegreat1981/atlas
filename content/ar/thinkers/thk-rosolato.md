@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرنسيون
 dates: "مصر/فرنسا · 1924–2019"
 language: "الفرنسية"
 country: "مصر / فرنسا"
+part: "philosophy"
+active_start: null
+active_end: 2019
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
 gaps:
   - "تفاصيل سيرة روزولاتو وعلاقتها بكونه وُلد في مصر (1924) — هل نشأ في القاهرة قبل انتقاله إلى فرنسا؟ — تحتاج مراجعة من نص سيرة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

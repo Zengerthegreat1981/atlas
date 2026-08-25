@@ -14,10 +14,10 @@ active_start: 900
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
-  - id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
-  - id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
+- id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
+- id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«Marcel Griaule» (sch-gramel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Dogon الأصلية (Griaule وDieterlen) تحتاج مراجعة من المصدر الأولي."

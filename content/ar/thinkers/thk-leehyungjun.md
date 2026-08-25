@@ -10,13 +10,21 @@ country: "كوريا الجنوبية"
 language: "الكورية"
 active_start: 2000
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← لي هيونغ-جون"
 edges:
-  - rel: "belongs_to", target: "علاج الهوابيونغ (Hwabyung)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج الهوابيونغ (Hwabyung)", target_type: "مدرسة"
 related:
-  - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"
 gaps:
   - "السيرة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيم كوان-سونغ (thk-kimkwansung)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيم كوان-سونغ (thk-kimkwansung)."
 ---
 
 # لي هيونغ-جون

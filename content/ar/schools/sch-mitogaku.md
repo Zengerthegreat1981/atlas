@@ -14,12 +14,13 @@ active_start: 1657
 active_end: 1873
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "النيوكونفوشية اليابانية (مظلة)", target_type: "مظلة"
-  - rel: "split_into", target: "الحركة الإصلاحية الميجية", target_type: "مظلة"
+- rel: "belongs_to", target: "النيوكونفوشية اليابانية (مظلة)", target_type: "مظلة"
+- rel: "split_into", target: "الحركة الإصلاحية الميجية", target_type: "مظلة"
 related:
-  - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
-  - id: "sch-kokugaku", title: "كوكوغاكو", type: "مدرسة"
-  - id: "sch-kogaku", title: "كوغاكو", type: "مدرسة"
+- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
+- id: "sch-kokugaku", title: "كوكوغاكو", type: "مدرسة"
+- id: "sch-kogaku", title: "كوغاكو", type: "مدرسة"
+- id: "sch-rangaku", title: "رانغاكو (التعلم الهولندي)", type: "مدرسة"
 gaps:
   - "الإسهامات المبكرة لـ'توكوغاوا ميتسوكوني' و'آزُومَا يَسُو' بحاجة إلى تحقق من النصوص الأصلية."
   - "الفاصل الدقيق بين ميتوغاكو المبكر (كونفوشي محافظ) والمتأخر (إصلاحي قومي) يصعب تحديده."

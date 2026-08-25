@@ -11,13 +11,14 @@ active_start: 1927
 active_end: 1963
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهومه في 'الوجود البارونيكي/الجمالي' (The Para-existential / Dawaing) مقابل الدازاين الهايدجري يستحق إدراجاً."

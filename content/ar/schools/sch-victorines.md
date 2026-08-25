@@ -13,12 +13,13 @@ language: "اللاتينية"
 active_start: 1108
 active_end: 1230
 edges:
-  - rel: "evolved_from", target: "الآبائية المسيحية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الأوغسطينية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-augustinianism", target_type: "مدرسة"
 related:
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
-  - id: "sch-chartres", title: "مدرسة شارتر", type: "مدرسة"
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "sch-chartres", title: "مدرسة شارتر", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "thk-hugo-saint-victor", title: "هوغو من سانت فيكتور", type: "مفكر"
 gaps:
   - "نصوص أوغسطينوس الريمسي وأوغسطينوس الفيكتوري باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'De Sacramentis Christianae Fidei' أو 'De Scriptura Sacra'."

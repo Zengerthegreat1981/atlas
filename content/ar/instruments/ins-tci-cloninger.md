@@ -9,10 +9,11 @@ en: "Temperament and Character Inventory (Cloninger TCI)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← استبيان المزاج والطباع البيولوجي النفسي لكلونينغر"
 active_start: 1994
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "ins-neo-pi-r", title: "مقياس الشخصية الخماسي NEO-PI-R", type: "أداة قياس"
-  - id: "dis-antisocial-personality", title: "اضطراب الشخصية المعادية للمجتمع", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-neo-pi-r", title: "مقياس الشخصية الخماسي NEO-PI-R", type: "أداة قياس"
+- id: "dis-antisocial-personality", title: "اضطراب الشخصية المعادية للمجتمع", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "النموذج البيولوجي النفسي لروبرت كلونينغر (C. Robert Cloninger 1994) وارتباط النواقل العصبية (الدوبامين، السيروتونين، والنورإبينفرين)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

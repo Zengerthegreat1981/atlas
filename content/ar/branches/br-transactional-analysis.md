@@ -11,12 +11,16 @@ dates: "كاليفورنيا · خمسينيات وستينيات القرن ا�
 active_start: 1957
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "إريك بيرن", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-eburne", target_type: "مفكر"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-federn", title: "بول فيدرن", type: "مفكر"
+- id: "thk-tony-white", title: "توني وايت", type: "مفكر"
+- id: "thk-gunnel-cederblad", title: "جونيل سيدِربلاد", type: "مفكر"
+- id: "thk-jacqueline-astington", title: "جاكلين أستنغتون", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-federn", title: "بول فيدرن", type: "مفكر"
 gaps:
   - "تطور تحليل المعاملات من النموذج السلوكي المبكر عند بيرن إلى التحليل النفسي العلائقي المعاصر لتحليل المعاملات (Relational TA)."
   - "مفهوم 'السيناريو الحياتي' (Life Script) والقرارات اللاشعورية المبكرة في الطفولة."

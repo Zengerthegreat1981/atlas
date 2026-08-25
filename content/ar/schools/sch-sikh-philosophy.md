@@ -13,9 +13,10 @@ language: "البنجابية (الجرخي مكتوبة بالأرابيك)، �
 active_start: 1469
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "Bhakti", target_type: "تيار"
+- rel: "evolved_from", target: "Bhakti", target_type: "تيار"
 related:
-  - id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
+- id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
+- id: "thk-nanak", title: "غورو ناناك (مؤسس السيخية)", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«العرفان النظري / وحدة الوجود» (sch-islamic-mysticism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«التصوف الإسلامي» (sch-sufism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

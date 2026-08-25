@@ -13,19 +13,19 @@ language: "اليونانية، اللاتينية"
 active_start: 245
 active_end: 529
 edges:
-  - rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
-  - rel: "absorbed_by", target: "المسيحية", target_type: "مظلة"
-  - rel: "absorbed_by", target: "الإسلام", target_type: "مظلة"
+- rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
+- rel: "absorbed_by", target: "sch-existentialism-religious", target_type: "مظلة"
+- rel: "absorbed_by", target: "الإسلام", target_type: "مظلة"
 related:
-  - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-  - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-  - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "trm-nous-anaxagoras-plotinus", title: "النوس (Nous): العقل الخالص والفيض الإلهي", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "تعريف 'الأفلاطونية المحدثة' (Neoplatonism) وضعه الفيلسوف الإنجليزي Thomas Taylor (1790s)، ولم يُستخدم في المصادر القديمة."
   - "بعض أعمال أفلوطين الـ 54 'إنّاديات' (Enneads) فقدت (خاصة II 9, III 9, V 7)."
   - "هل كانت 'الأفلاطونية المحدثة' ضد المسيحية أم مرتبطة بها؟ خلاف تاريخي ضخم."
 ---
-
 # الأفلاطونية المحدثة (Neoplatonism)
 
 آخر تيار فلسفي يوناني كبير في العصور القديمة، تأسّس على يد **أفلوطين** (Plotinus، 204/5–270 م) في روما، وبلغ أوجه مع **بروقلس** (Proclus، 412–485 م) في أثينا. قُدّم كمحاولة لإحياء «الأفلاطونية الأصلية» في مواجهة الرواقية والأرسطية والشك، ثم أصبح **أعظم منظومة فلسفية في العالم القديم**، أثّرت في المسيحية المبكرة والفلسفة العربية.

@@ -8,9 +8,11 @@ en: "Hofling Hospital Obedience Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة هوفلينغ في المستشفى"
 active_start: 1966
 active_end: 1966
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "تكرار دراسة رانك وجاكوبسون (Rank & Jacobson, 1977) بدواء الفاليوم المعروف أدى لنتائج طاعة أقل بكثير وتحتاج مقارنة"
   - "التغير في ثقافة التمريض وأنظمة السلامة الطبية الحديثة يقلل من القابلية للتعميم اليوم"

@@ -11,9 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1974
 active_end: 2011
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "هاكومي (Hakomi)", target_type: "مدرسة"
+- rel: "belongs_to", target: "هاكومي (Hakomi)", target_type: "مدرسة"
 related:
+- id: "thk-gjohanson", title: "غريغوري جوهانسون", type: "مفكر"
+- id: "thk-hweiss", title: "هارييت وايس", type: "مفكر"
+- id: "thk-tgillingham", title: "تيري غيلنغهام", type: "مفكر"
+- id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 gaps:
   - "تفاصيل العلاقة مع البوذية (تأثير في باين، كابات-زين) لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

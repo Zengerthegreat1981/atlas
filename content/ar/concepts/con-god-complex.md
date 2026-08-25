@@ -11,10 +11,13 @@ crumb: "مدرسة التحليل النفسي والشخصية ← المفاه
 active_start: 1913
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي والشخصية", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة التحليل النفسي والشخصية", target_type: "مدرسة"
 related:
-  - id: "thk-jones", title: "إرنست جونز", type: "مفكر"
-  - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-jones", title: "إرنست جونز", type: "مفكر"
+- id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "ورقة إرنست جونز الأصلية (1913) 'مقالات في التحليل النفسي التطبيقي'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

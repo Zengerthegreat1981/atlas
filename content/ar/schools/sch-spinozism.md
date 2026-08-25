@@ -13,13 +13,13 @@ language: "اللاتينية"
 active_start: 1660
 active_end: 1750
 edges:
-  - rel: "belongs_to", target: "العقلانية القارية", target_type: "مظلة"
-  - rel: "evolved_from", target: "الديكارتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
 related:
-  - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-  - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
-  - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
-  - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
+- id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
+- id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 gaps:
   - "نصوص سبينوزا اللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Éthique'."

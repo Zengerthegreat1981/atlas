@@ -11,11 +11,14 @@ dates: "واشنطن · من التسعينيات"
 active_start: 1991
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
-  - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
+- id: "thk-mtsai", title: "مافيس تساي", type: "مفكر"
+- id: "thk-rkohlen", title: "روبرت ج. كولنبرغ", type: "مفكر"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
 gaps:
   - "قواعد FAP الخمس المعيارية لتوجيه تفاعلات المعالج اللحظية داخل الجلسة."
   - "تصنيف السلوكيات ذات الصلة إكلينيكياً (CRB1: المشكلات، CRB2: التحسن، CRB3: التفسير المعرفي السلوكي للعميل)."

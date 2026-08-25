@@ -10,10 +10,13 @@ crumb: "الفلسفة ← الصين ← الداووية الدينية ← ا
 active_start: -300
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الداووية الدينية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-daoism-religious", target_type: "مدرسة"
 related:
-  - id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
-  - id: "thk-ge-hong", title: "غي هونغ", type: "مفكر"
+- id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
+- id: "thk-ge-hong", title: "غي هونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق بين 'الرجل الحقيقي' في Zhuangzi وفي الداووية الدينية اللاحقة لم يُحلّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

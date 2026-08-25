@@ -1,0 +1,39 @@
+---
+slug: "con-change-talk-darn-cat"
+id: "CON-1238"
+type: "مفهوم"
+part: "psychology"
+level: "متوسط"
+title: "حديث التغيير (Change Talk) واستكشاف التناقض في المقابلة التحفيزية"
+en: "Change Talk vs. Sustain Talk (DARN-CAT) in Motivational Interviewing"
+crumb: "المقابلة التحفيزية ← المفاهيم الأساسية ← حديث التغيير"
+active_start: null
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-motivational-interviewing", target_type: "مدرسة"
+related:
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
+- id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+---
+
+# حديث التغيير (Change Talk) واستكشاف التناقض في المقابلة التحفيزية
+
+يعد «حديث التغيير» (Change Talk) المحرك الجوهري للتحول السلوكي في المقابلة التحفيزية (MI) لويليام ميلر وستيفن رولنيك، ويشير إلى أي عبارات تصدر عن المسترشد تعبر عن دافعه الخاص للتغيير.
+
+## نموذج DARN-CAT التحفيزي
+
+ينقسم حديث التغيير إلى: دوافع الإعداد (DARN): الرغبة (Desire)، القدرة (Ability)، الأسباب (Reasons)، والحاجة (Need)؛ ودوافع الالتزام والفعل (CAT): الالتزام (Commitment)، التنشيط (Activation)، والخطوات الإجرائية الأولى (Taking steps).
+
+## حديث الاستمرار والتعامل مع المقاومة (Sustain Talk)
+
+بدلاً من مجادلة حديث الاستمرار والتمسك بالعادات الضارة، يتدحرج المعالج مع المقاومة ويسلط الضوء على التناقض الداخلي بين أهداف المسترشد وسلوكه الحالي.
+
+## التطبيقات في علاج الإدمان وتعديل السلوك
+
+كلما زاد معدل حديث التغيير أثناء الجلسة، ارتفعت احتمالية نجاح التعافي والتغيير السلوكي المستدام.

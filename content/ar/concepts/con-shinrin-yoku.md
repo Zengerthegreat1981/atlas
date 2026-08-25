@@ -1,7 +1,7 @@
 ---
 slug: "con-shinrin-yoku"
-id: "THK-2165"
-type: "مفكر"
+id: "CON-1234"
+type: "مفهوم"
 level: "مبتدئ"
 title: "شينرين-يوكو (الاستحمام بالغابة)"
 en: "Shinrin-yoku (Forest Bathing)
@@ -10,10 +10,15 @@ country: "اليابان"
 active_start: 1982
 active_end: "مستمر"
 language: "اليابانية/الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
 related:
-  - id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
+- id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
+- id: "tec-forest-therapy", title: "العلاج بالغابات (Forest Therapy)", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "المصطلح صاغته وكالة الغابات اليابانية عام 1982."
   - "الأبحاث العلمية بدأها الدكتور مياياكازوي (Yoshifumi Miyazaki) في جامعة تشيبا."

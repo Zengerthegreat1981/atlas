@@ -8,10 +8,15 @@ en: "Facilitated Communication (Failure of)"
 crumb: "حركات مثيرة للجدل ← المفاهيم ← فشل التواصل المُسهَّل"
 active_start: 1990
 active_end: 2000
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
+- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
 related:
-  - id: "tec-facilitated-communication", title: "التواصل المُسهَّل", type: "تقنية/تدخل علاجي"
+- id: "tec-facilitated-communication", title: "التواصل المُسهَّل", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الدراسات المضبوطة (Mostert 2001) لم تُوثّق بدقة كافية."
   - "الانهيار المؤسسي (في أستراليا والسويد) لم يُحسم توثيقياً."

@@ -11,8 +11,12 @@ country: "ألمانيا"
 language: "الألمانية"
 active_start: 1930
 active_end: 1979
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الجشطالتي (برلين)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الجشطالتي (مدرسة برلين)", target_type: "مدرسة"
+related:
+- id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
+- id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
 gaps:
   - "تفاصيل الفترة في زمن النازية لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,11 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← غي دا سيلفا"
 dates: "فرنسا · معاصر"
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "البيانات البيوغرافية الدقيقة والمؤلفات تحتاج توثيقاً من الدوريات التحليلية الفرنسية."

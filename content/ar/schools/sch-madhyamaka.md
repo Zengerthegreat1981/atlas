@@ -13,14 +13,16 @@ language: "السنسكريتية، التبتية"
 active_start: 150
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الماهاسامغيكا", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-mahasanghika", target_type: "مدرسة"
 related:
-  - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-  - id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
-  - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
-  - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+- id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
+- id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+- id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
 gaps:
   - "نصوص Nagarjuna (Mūlamadhyamakakārikā) وBhāviveka وCandrakīrti تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # مادهياماكا (Madhyamaka، «الوسطية»)

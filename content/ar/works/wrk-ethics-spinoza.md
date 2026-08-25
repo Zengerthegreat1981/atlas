@@ -1,0 +1,29 @@
+---
+slug: "wrk-ethics-spinoza"
+id: "WRK-0589"
+type: "عمل / كتاب"
+part: "philosophy"
+level: "متقدم"
+title: "علم الأخلاق لباروخ سبينوزا"
+en: "Ethics (Ethica Ordine Geometrico Demonstrata) by Spinoza"
+crumb: "الفلسفة الحديثة ← أمهات الأعمال ← علم الأخلاق لسبينوزا"
+dates: "أمستردام · 1677 م"
+language: "اللاتينية"
+active_start: 1677
+active_end: 1677
+edges:
+- rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
+related:
+- id: "exp-spinoza-excommunication-amsterdam", title: "حرمان سبينوزا الكنسي في أمستردام (1656) وعزلته التنويرية", type: "خبرة معيشة"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-spinoza", title: "سبينوزا", type: "مفكر"
+gaps:
+  - "بنية الأجزاء الخمسة: الله، طبيعة النفس، أصل الانفعالات، عبودية الإنسان، وحرية الإنسان."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# علم الأخلاق لباروخ سبينوزا
+
+أعظم تحفة ميتافيزيقية وأخلاقية في الحداثة؛ صاغها سبينوزا بصرامة هندسية (تعريفات، بديهيات، قضايا، وبراهين)؛ يبني أنطولوجيا الجوهر الواحد اللانهائي، ويفكك ميكانيكا الانفعالات النفسية كالحزن والفرح والشهوة، مقدماً طريقاً عقلياً خالصاً للخلاص والحرية الإنسانية.

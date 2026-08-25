@@ -7,17 +7,18 @@ title: "فيليم فلوسر"
 en: "Vilém Flusser"
 crumb: "المدرسة الوجودية ← الناس ← فيليم فلوسر"
 dates: "التشيك / البرازيل / فرنسا · 1920–1991"
-active_start: 1983
+active_start: 1963
 active_end: 1991
 country: "التشيك / البرازيل"
 language: "التشيكية / البرتغالية / الألمانية / الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'نحو فلسفة للتصوير' (1983) وفينومينولوجيا الأجهزة التقنية والمهاجر الوجودي يستحقان إدراجاً."
@@ -25,7 +26,7 @@ gaps:
 
 # فيليم فلوسر
 
-فيلسوف وظاهراتي ومنظّر إعلامي تشيكي-برازيلي، هرب من محرقة الهولوكوست وعاش في ساو باولو وفرنسا، رائد «الفينومينولوجيا التواصلية وفلسفة الأجهزة التقنية».
+فيلسوف ومنظّر إعلامي تشيكي-برازيلي، غادر براغ عام 1939 ونجا وحده — قُتلت أسرته كلّها في المحرقة — وعاش اثنين وثلاثين عاماً في ساو باولو ثم عاد إلى أوروبا. جعل من انعدام الجذور نفسه («Bodenlosigkeit») مفهوماً فلسفياً لا سيرة شخصية، رائد «الفينومينولوجيا التواصلية وفلسفة الأجهزة التقنية».
 
 ## ما أعطاه
 
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-نحو فلسفة للتصوير الفوتوغرافي (Towards a Philosophy of Photography, 1983) · عن المنفى والترحال الوجودي (Bodenlos: An Philosophical Autobiography, 1992) · تشكيك في الأشياء (Things and Non-Things, 1993).
+نحو فلسفة للتصوير الفوتوغرافي (Für eine Philosophie der Fotografie, 1983) · بلا أرض: سيرة ذاتية فلسفية (Bodenlos: Eine philosophische Autobiographie, 1992) · أشياء ولا-أشياء (Dinge und Undinge, 1993) · كتابة الحروف: هل للكتابة مستقبل؟ (Die Schrift, 1987).

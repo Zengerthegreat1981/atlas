@@ -11,12 +11,14 @@ icd11_code: "7A20"
 active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "syn-insomnia", title: "الأرق", type: "متلازمة"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "syn-kleine-levin", title: "متلازمة كلاين-ليفين (متلازمة الجميلة النائمة وفرط النوم الدوري)", type: "متلازمة"
 gaps:
   - "البروتوكولات النفسية المتخصصة لفرط النوم (غير مرتبطة بالنوم القهري) لم تُوثّق في الأطلس بعد."
   - "التفريق الدقيق بين 7A20 (Hypersomnia) و7A21 (Narcolepsy) في ICD-11 لم يُراجَع من المصدر الأولي."

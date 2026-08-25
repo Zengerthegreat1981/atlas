@@ -8,12 +8,18 @@ en: "Medical vs Chronic Disease Model of Addiction"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← النموذج الطبي للإدمان"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-addiction-model-debate", target_type: "مدرسة"
 related:
-  - id: "con-abstinence-vs-harm-reduction", title: "الامتناع مقابل الحد من الضرر", type: "مفهوم"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
+- id: "con-abstinence-vs-harm-reduction", title: "الامتناع مقابل الحد من الضرر", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن

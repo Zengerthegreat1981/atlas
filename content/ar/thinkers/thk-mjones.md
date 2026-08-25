@@ -11,13 +11,15 @@ active_start: 1942
 active_end: 1985
 country: "المملكة المتحدة (اسكتلندا)"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed", target: "العلاج البيئي المؤسسي", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "developed", target: "العلاج البيئي المؤسسي", target_type: "تيار"
 related:
-  - id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "ctx-therapeutic-community", title: "تقليد المجتمع العلاجي والديمقراطية المؤسسية", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ النهاية الإنتاجية (1985) تقريبي."

@@ -8,16 +8,22 @@ en: "Object Relations in Psychoanalytic Theory"
 crumb: "التحليل النفسي ← الأعمال ← العلاقات بالموضوع في النظرية التحليلية"
 dates: "1983"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جاي غرينبرغ", target_type: "مفكر"
-  - rel: "authored_by", target: "ستيفن ميتشل", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "جاي غرينبرغ", target_type: "مفكر"
+- rel: "authored_by", target: "thk-mitchell", target_type: "مفكر"
 related:
-  - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-  - id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
-  - id: "con-relational-matrix", title: "المصفوفة العلائقية", type: "مفهوم"
+- id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
+- id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
+- id: "con-relational-matrix", title: "المصفوفة العلائقية", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاقات بالموضوع في النظرية التحليلية

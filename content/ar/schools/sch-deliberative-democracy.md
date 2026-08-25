@@ -13,11 +13,12 @@ language: "الإنجليزية، الألمانية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
-  - id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
-  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
-  - id: "sch-frankfurt-school", title: "نظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "نظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "wrk-factizitaet-geltung", title: "الواقعية والحقيقة (Faktizität und Geltung, 1992)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«هابرماس» (sch-habermas) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Habermas, Benhabib, Bohman, Gutmann & Thompson تحتاج مراجعة من المصدر الأولي."

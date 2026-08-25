@@ -11,10 +11,10 @@ active_start: 1965
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث إليوت جاك (Elliott Jaques 1965) ونظرية إريكسون في التوليدية مقابل الركود (Generativity vs Stagnation)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

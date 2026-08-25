@@ -8,12 +8,15 @@ en: "Law of Effect"
 crumb: "المعرفية السلوكية ← المفاهيم ← قانون الأثر"
 active_start: 1911
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
+- id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "تعديل Skinner لقانون الأثر في الخمسينيات — موضع بحث."

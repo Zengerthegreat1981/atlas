@@ -13,14 +13,15 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1900
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
-  - id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
-  - id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
+- id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 gaps:
   - "نصوص Du Bois, Padmore, Nkrumah, Cabral, Fanon, Diop تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # عموم أفريقيا (Pan-Africanism)

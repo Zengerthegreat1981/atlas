@@ -11,10 +11,10 @@ active_start: 1950
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
-  - id: "wrk-48-laws-of-power", title: "48 قانوناً للقوة", type: "عمل / كتاب"
+- id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-48-laws-of-power", title: "48 قانوناً للقوة", type: "عمل / كتاب"
 gaps:
   - "التحليلات النفسية والأدبية لأسطورة فاوست لدى غوته وتوماس مان وسيكولوجيا الطموح التدميري."
   - "لا يوجد اقتباس مباشر موثوق متاح."

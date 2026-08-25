@@ -11,11 +11,13 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-impostor-syndrome", title: "متلازمة المحتال (Impostor Syndrome)", type: "متلازمة"
+- id: "syn-codependency", title: "الاعتمادية المرضية (Codependency)", type: "متلازمة"
 gaps:
   - "المقاييس السيكومترية لتقييم عبء الرعاية (مثل Zarit Burden Interview)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

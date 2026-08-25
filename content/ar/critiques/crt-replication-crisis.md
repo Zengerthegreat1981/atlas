@@ -8,20 +8,35 @@ en: "Replication Crisis Critique: Meta-analyses that Don't Replicate"
 crumb: "النقد الخارجي ← أزمة التكرار ← نقد أزمة التكرار العلمي"
 active_start: 2011
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
-  - rel: "relates_to", target: "علم النفس الإيجابي", target_type: "مدرسة"
-  - rel: "relates_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
-related:  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
-  - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
-  - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
-  - id: "wrk-acts-of-meaning", title: "أفعال المعنى", type: "عمل"gaps:
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
+related:
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+- id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
+- id: "wrk-acts-of-meaning", title: "أفعال المعنى", type: "عمل / كتاب"related:
+- id: "crt-adhd-overdiagnosis", title: "ADHD: تشخيص مُفرط", type: "نقد خارجي موثَّق"
+- id: "stu-bargh-automaticity-elderly-priming", title: "تجربة جون بارغ للتهيئة التلقائية بكلمات الشيخوخة وأزمة تكرارها (1996)", type: "دراسة وبحث"
+- id: "stu-mischel-marshmallow-test", title: "تجربة المارشميلو وتأجيل الإشباع لوالتر ميشيل", type: "دراسة وبحث"
+- id: "stu-strack-facial-feedback-pen", title: "تجربة فريتز ستراك للتغذية الراجعة الوجهية وأزمة تكرارها (1988)", type: "دراسة وبحث"
+- id: "ins-iat-implicit-association", title: "اختبار الارتباط الضمني لقياس التحيزات اللاواعية (IAT)", type: "أداة قياس"
+- id: "crt-critique-of-couples-therapy-effectiveness", title: "نقد فَعَّالِيَّة الْعِلَاج الزَّوْجِيّ: «مَشَاكِل الْأَزْوَاج» هَل تُحُلّ؟", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-existential-therapy", title: "نقد الْعِلَاج الْوُجُودِيّ: فَلْسَفَة لَا عِلَاج", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-gestalt-therapy", title: "نقد الْعِلَاج بِالْجِشْطَلْت: تَقْنِيكَات دَرَامِيَّة أَمْ بَحْث عِلْمِيّ؟", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-humanistic-therapy", title: "نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-ifs-internal-family-systems", title: "نقد نِظَام الْعَائِلَة الدَّاخِلِيَّة (IFS): نَظَرِيَّة سَرْدِيَّة لَا مَنْهَج عِلَاجِيّ مُوَثَّق", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-psychodynamic-therapy", title: "نقد الْعِلَاج النَّفْسَحَرَكِيّ: لِمَاذَا الْاِسْتِبْصَار لَيْسَ كَافِيًا؟", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-self-help-genre", title: "نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْوِيل التِّجَارِيّ لِـ**عِلْم النَّفْس**", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-somatic-experiencing", title: "نقد Somatic Experiencing: نَظَرِيَّة «الطَّاقَة الْمَحْبُوسَة» لَيْسَتْ مُوَضَّحَة", type: "نقد خارجي موثَّق"
+gaps:
   - "تفاصيل Open Science Collaboration (2015) 'Estimating the reproducibility of psychological science' — الأرقام الدقيقة (36% vs 100%) لم تُراجع نصاً."
   - "موقف Strauman (2015) من أزمة التكرار — لا اقتباس مباشر."
   - "لا اقتباس مباشر موثوق متاح من Beck (توفي 2021) ردّ على الأزمة."
 ---
-
 # نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق
 
 نقد من خارج الإطار البحثي السائد، يطعن في افتراض أن **نتائج التجارب النفسية "علمية"**، بل إنها في حالة "أزمة تكرار" (Replication Crisis) حادة منذ 2011. النتيجة: كثير من "الاكتشافات" التي بُنيت عليها مدارس بأكملها (CBT، علم النفس الإيجابي، العلاج بمساعدة النفسانية) **قد لا تتطابق عند إعادة إجرائها**.

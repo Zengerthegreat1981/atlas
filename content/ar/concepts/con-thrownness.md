@@ -6,13 +6,20 @@ level: "متقدم"
 title: "القذف / الإلقاء (Geworfenheit)"
 en: "Thrownness (Geworfenheit)"
 crumb: "المدرسة الوجودية ← المفاهيم ← القذف / الإلقاء (Geworfenheit)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "axm-existence-precedes-essence", title: "الوجود يسبق الماهية", type: "بديهية/مبدأ تأسيسي"
+- id: "con-dasein-being-there", title: "الدازاين (Dasein): الكائن الذي أسئلته عن وجوده", type: "مفهوم"
+- id: "con-facticity", title: "الفعلانية (Facticité): واقع المَوْجود الذي لا يُمكن تَغييره", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "لا يوجد بعد أداة قياس (ins-) لمفهوم القذف/الإلقاء، وطبيعته الفلسفية المجردة تجعل قياسه الكمي صعباً أصلاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # القذف / الإلقاء (Geworfenheit)

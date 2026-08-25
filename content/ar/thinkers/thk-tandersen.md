@@ -10,12 +10,21 @@ country: "النرويج"
 language: "النرويجية/الإنجليزية"
 active_start: 1985
 active_end: 2007
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← توم أندرسن"
 edges:
-  - rel: "belongs_to", target: "الحوار المفتوح (Open Dialogue)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الحوار المفتوح (Open Dialogue)", target_type: "مدرسة"
 related:
-  - id: "thk-jseikkula", title: "ياكو سيكولا", type: "مفكر"
+- id: "thk-jseikkula", title: "ياكو سيكولا", type: "مفكر"
+- id: "thk-balakare", title: "بيرجيتّا ألاكارِ", type: "مفكر"
+- id: "rel-postmodern-systemic", title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة", type: "علاقة بين مدرستين"
+- id: "thk-elin-rbaek", title: "إلين ربيك", type: "مفكر"
+- id: "thk-john-lippmann", title: "جون ليبمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إلين ربيك (thk-elin-rbaek)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون ليبمان (thk-john-lippmann)."
 ---
 
 # توم أندرسن

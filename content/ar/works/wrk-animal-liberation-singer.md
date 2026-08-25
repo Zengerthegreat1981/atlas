@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: 1990
 edges:
-  - rel: "belongs_to", target: "أخلاقيات الحيوان / فلسفة تحرير الحيوان", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-animal-liberation", target_type: "مدرسة"
 related:
-  - id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
-  - id: "thk-peter-singer", title: "بيتر سينغر", type: "مفكر"
+- id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
+- id: "thk-peter-singer", title: "بيتر سينغر", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة New York Review of Books (1990) ولا طبعة Harper Perennial (2009)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تحرير الحيوان (Animal Liberation, 1975/1990)

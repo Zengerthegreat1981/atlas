@@ -11,10 +11,16 @@ dates: "2011 · دانيال كانمان"
 language: "الإنجليزية"
 active_start: 2011
 active_end: 2011
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "دانيال كانمان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-kahneman", target_type: "مفكر"
 related:
+- id: "con-halo-horns-effect", title: "تأثير الهالة وتأثير القرن (انحياز التعميم الانطباعي)", type: "مفهوم"
+- id: "stu-bargh-automaticity-elderly-priming", title: "تجربة جون بارغ للتهيئة التلقائية بكلمات الشيخوخة وأزمة تكرارها (1996)", type: "دراسة وبحث"
+- id: "stu-chabris-simons-invisible-gorilla", title: "تجربة دانيال سيمونز وكريستوفر شابريس للغوريلا غير المرئية (1999)", type: "دراسة وبحث"
+- id: "stu-kahneman-tversky-heuristics-biases", title: "دراسة كانمان وتفيرسكي للحدس الاستدلالي والانحيازات (1974)", type: "دراسة وبحث"
+- id: "stu-tversky-kahneman-conjunction-fallacy-linda", title: "تجربة كانمان وتفيرسكي لمشكلة ليندا ومغالطة الاقتران (1983)", type: "دراسة وبحث"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Farrar, Straus and Giroux) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

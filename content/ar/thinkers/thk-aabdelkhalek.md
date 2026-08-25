@@ -11,11 +11,16 @@ country: "الكويت (من أصل مصري)"
 language: "العربية/الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
 related:
+- id: "thk-mkhalifa", title: "محمد خليفة", type: "مفكر"
+- id: "thk-saathar", title: "شاهيد أثير", type: "مفكر"
+- id: "thk-ymohamed", title: "ياسين محمد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أمجد عبد الخالق
@@ -28,7 +33,7 @@ gaps:
 - **"مقياس السعادة"** (Arabic Happiness Scale): تطوير مقياس عربي موثوق لقياس السعادة الذاتية كأداة للبحث في علم النفس الإيجابي.
 - **"نقد الاستيراد الغربي"** (Western Models Critique): نقد فكرة تطبيق مفاهيم علم النفس الإيجابي الغربي مباشرة على المجتمعات العربية والإسلامية.
 - **"العلاقة بين الدين والازدهار النفسي"**: دراسة العلاقة بين المعتقدات الدينية (خاصة الإسلام) ومستوى السعادة وجودة الحياة.
-- **"تأسيس الشبكة العربية لعلم النفس الإيجابي"**: منظمتها ومحرر *Arab Journal of Positive Psychology*.
+- **"تأسيس الشبكة العربية لعلم النفس الإيجابي"**: مُنظِّمها ومحرر *Arab Journal of Positive Psychology*.
 
 ## موقعه من التيار
 
@@ -38,7 +43,7 @@ gaps:
 
 - (مساهمات متعددة في *International Journal of Psychology* و*Journal of Happiness Studies*).
 - (محرر *Arab Journal of Positive Psychology*).
-- *The Development and Validation of the Arabic Happiness Scale* (2000s).
+- *The Development and Validation of the Arabic Happiness Scale* (العقد الأول من القرن الحادي والعشرين).
 
 ## اقتباسات مختارة
 

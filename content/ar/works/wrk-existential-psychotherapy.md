@@ -10,18 +10,19 @@ crumb: "المدرسة الوجودية ← الأعمال ← العلاج ال
 dates: "1980 · يالوم"
 active_start: 1980
 active_end: 1980
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "يالوم", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "يالوم", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
-  - id: "dbt-british-yalom", title: "الخصومة البريطانية", type: "جدل"
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+- id: "thk-yalom", title: "يالوم", type: "مفكر"
+- id: "dbt-british-yalom", title: "الخصومة البريطانية", type: "جدل"
+- id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+- id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
 ---
-
 # العلاج النفسي الوجودي
 
 أشهر كتاب في المدرسة، وأكثرها إعطاءً لانطباع بأنها شيء واحد.

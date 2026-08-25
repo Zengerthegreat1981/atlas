@@ -10,10 +10,13 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← أوروبندو 
 active_start: 1920
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة أوروبندو (اليوغا التكاملية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:
-  - id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
-  - id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
+- id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
+- id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ تعريفات أوروبندو المتعددة في *The Life Divine* (الطبعة الكاملة، Pondicherry: Sri Aurobindo Ashram, 1972)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

@@ -12,25 +12,22 @@ active_end: "مستمر"
 country: "شبه القارة الهندية"
 language: "السنسكريتية / التاميلية / البنغالية"
 edges:
-  - rel: "relates_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-dvaita-vedanta", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-neo-vedanta", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-dvaita-vedanta", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:
-  - id: "thk-patanjali", title: "باتانجالي (مؤسس اليوغا الكلاسيكية)", type: "مفكر"
-  - id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
-  - id: "thk-madhva", title: "مادهافا (دفايتا فيدانتا)", type: "مفكر"
-  - id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان (نيو-فيدانتا)", type: "مفكر"
-  - id: "thk-vivekananda", title: "سوامي فيفيكاناندا (نيو-فيدانتا)", type: "مفكر"
-  - id: "con-maya-vedanta", title: "مايا (الوهم الفلسفي)", type: "مفهوم"
-  - id: "con-karma-philosophy", title: "كارما (الفعل وعواقبه)", type: "مفهوم"
+- id: "thk-patanjali", title: "باتانجالي (مؤسس اليوغا الكلاسيكية)", type: "مفكر"
+- id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
+- id: "thk-madhva", title: "مادهافا (دفايتا فيدانتا)", type: "مفكر"
+- id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان (نيو-فيدانتا)", type: "مفكر"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا (نيو-فيدانتا)", type: "مفكر"
+- id: "con-maya-vedanta", title: "مايا (الوهم الفلسفي)", type: "مفهوم"
+- id: "con-karma-philosophy", title: "كارما (الفعل وعواقبه)", type: "مفهوم"
 gaps:
   - "التمييز بين التقاليد الستة الأرثوذكسية (Shad Darshanas) والبوذف والجينية يحتاج ملفاً منفصلاً."
   - "الربط بين الفيدانتا وعلم النفس المعاصر (Jung مع I Ching، Maslow مع Vedanta) قائم على شبكة العلاقات لكنه يحتاج تحققاً نصياً دقيقاً."
   - "الفترة الفيدية (1500-600 ق.م) لم تُغطَّ هنا."
   - "لا توجد اقتباسات مباشرة موثقة من الـUpanishads أو الـBhagavad Gita."
-
-## أفكار روابط لم تُتحقق
-
 - **con-atman** (الأتمن / الذات الحقيقية): مفهوم مؤسّس للفلسفة الهندية، غير موجود.
 - **con-brahman** (البراهمان / المطلق): مفهوم مؤسّس مكمل للأتمن، غير موجود.
 - **con-moksha** (الموكشا / التحرر): الهدف الأعلى للتقليد الهندي، غير موجود.

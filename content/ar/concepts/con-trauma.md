@@ -11,12 +11,15 @@ dates: "من التسعينيات"
 active_start: 1996
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-dkalsched", title: "دونالد كَلشد", type: "مفكر"
-  - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
-  - id: "thk-edinger", title: "إدوارد إيدينغر", type: "مفكر"
+- id: "thk-dkalsched", title: "دونالد كَلشد", type: "مفكر"
+- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
+- id: "thk-edinger", title: "إدوارد إيدينغر", type: "مفكر"
+- id: "con-nature-deficit", title: "متلازمة عجز الطبيعة", type: "مفهوم"
+- id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 gaps:
   - "التمييز بين الصدمة المفردة الحادة والصدمات التطورية المبكرة المعقدة في التحليلية."
   - "دراسة الأساطير الخيالية كخرائط سريرية لحماية النفس المفككة."

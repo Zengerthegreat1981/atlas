@@ -10,10 +10,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← بوني بادنوك"
 edges:
-  - rel: "belongs_to", target: "التكامل العصبي البيني شخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
 related:
-  - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "thk-aschore", title: "ألان شور", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

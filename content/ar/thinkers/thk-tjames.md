@@ -11,11 +11,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "NLP النظامي", target_type: "مدرسة"
+- rel: "belongs_to", target: "NLP النظامي (Systemic NLP — تاد جيمس)", target_type: "مدرسة"
 related:
-  - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
-  - id: "thk-jgrind", title: "جون غريندر", type: "مفكر"
+- id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
+- id: "thk-jgrind", title: "جون غريندر", type: "مفكر"
+- id: "thk-rdilts", title: "روبرت ديلتس", type: "مفكر"
+- id: "tec-systemic-nlp-tad-james", title: "NLP النظامي (Systemic NLP — تاد جيمس)", type: "تقنية/تدخل علاجي"
+- id: "tec-time-line-therapy", title: "علاج خط الزمن (Time Line Therapy™)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التاريخ الكامل لتأسيس NLP Comprehensive و American Board of NLP لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

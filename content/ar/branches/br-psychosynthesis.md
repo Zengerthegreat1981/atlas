@@ -11,12 +11,16 @@ dates: "فلورنسا · من العشرينيات والثلاثينيات"
 active_start: 1926
 active_end: "مستمر"
 language: "الإيطالية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
-  - rel: "developed_by", target: "روبرتو أساجيولي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-assagioli", target_type: "مفكر"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "مخطط البيضة النفسية (The Egg Diagram) لروبرتو أساجيولي والمستويات الروحية واللاشعور الأعلى (Superconscious)."
   - "تقنيات نزع التماهي (Disidentification) وتدريب الإرادة الواعية (The Act of Will)."

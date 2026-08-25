@@ -1,23 +1,25 @@
 ---
 slug: "que-is-unconscious-real"
 id: "QUE-0002"
-type: "سؤال مولِّد"
+type: "سؤال توليدي"
 level: "متوسط"
 title: "هل اللاوعي حقيقة وكيان وجودي أم مجرد بناء نظري؟"
 en: "Is the Unconscious Real: Ontological Entity or Theoretical Construct?"
 crumb: "مدرسة التحليل النفسي ← الأسئلة المولِّدة ← هل اللاوعي حقيقة؟"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "dbt-unconscious", title: "هل يوجد لاوعي؟", type: "جدل"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "crt-popper-critique-psychoanalysis", title: "نقد كارل بوبر للتحليل النفسي", type: "نقد خارجي موثَّق"
+- id: "dbt-unconscious", title: "هل يوجد لاوعي؟", type: "جدل"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "crt-popper-critique-psychoanalysis", title: "نقد كارل بوبر للتحليل النفسي", type: "نقد خارجي موثَّق"
 gaps:
   - "أبحاث الوعي المعاصر واللاوعي المعرفي في العلوم العصبية المعاصرة تحتاج تلخيصاً إضافياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # هل اللاوعي حقيقة وكيان وجودي أم مجرد بناء نظري؟
 
 سؤال إبستيمولوجي ومولِّد محوري يطرح التساؤل حول الوضع الوجودي لما نسميه \"اللاوعي\": هل هو حيّز مكاني ونفسي مستقل يحوي رغبات وذكريات مكبوتة ذات طاقة ذاتية، أم أنه مجرد أداة مفهومية ومجاز مفيد صاغه المحللون لتفسير ما يعجز الوعي عن إدراكه؟

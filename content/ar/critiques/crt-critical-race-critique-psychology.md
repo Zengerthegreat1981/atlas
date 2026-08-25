@@ -8,17 +8,22 @@ en: "Critical Race Theory Critique of Psychology: History of IQ Tests and Diagno
 crumb: "النقد الخارجي ← النقد العرقي ← النقد العرقي النقدي (CRT) لعلم النفس"
 active_start: 1969
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
-  - rel: "relates_to", target: "علم النفس", target_type: "مدرسة"
-related:  - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
-  - id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"gaps:
+- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "relates_to", target: "علم النفس", target_type: "مدرسة"
+related:
+- id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
+- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"related:
+- id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
+gaps:
   - "تفاصيل Suslovic & Condrell (2014) في 'Race and the IQ controversy' — لا اقتباس."
   - "موقف 'APA Task Force on Intelligence' (1996) — لا اقتباس مباشر."
   - "لا اقتباس مباشر موثوق متاح من defenders of IQ tests ردّ على CRT."
 ---
-
 # النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص
 
 نقد من خارج علم النفس، من منظور **نقد العرق** (Critical Race Theory)، يطعن في افتراض أن **علم النفس علم محايد عرقياً**، بل إن **"اختبارات الذكاء" و"التشخيصات"** أُنتجت تاريخياً بـ**تحيّز عرقي منهجي** ضد السود والملونين. النتيجة: علم النفس = أداة لـ"إثبات" العنصرية العلمية.

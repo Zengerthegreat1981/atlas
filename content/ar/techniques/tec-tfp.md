@@ -8,14 +8,18 @@ en: "Transference-Focused Psychotherapy (TFP)"
 crumb: "التحليل النفسي ← التقنيات ← العلاج المرتكز على النقل"
 dates: "1990s-اليوم"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "أوتو كيرنبرغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-kernberg", target_type: "مفكر"
 related:
-  - id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
-  - id: "thk-fyeomans", title: "فرانك يَرمسون", type: "مفكر"
+- id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
+- id: "thk-fyeomans", title: "فرانك يَرمسون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاج المرتكز على النقل (TFP)

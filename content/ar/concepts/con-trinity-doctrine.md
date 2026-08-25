@@ -10,11 +10,15 @@ crumb: "الفلسفة ← المسيحية ← الآبائية ← عقيدة 
 active_start: 325
 country: "الإمبراطورية الرومانية"
 language: "اليونانية ثم اللاتينية"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:
-  - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
-  - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
+- id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق بين homoousios وhomoiousios (حرف واحد) فتح جدلاً استمر 50 سنة."
   - "لا يوجد اقتباس مباشر موثوق من 'Athanasian Creed'."

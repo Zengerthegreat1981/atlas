@@ -11,11 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
 related:
-  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
-  - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
+- id: "thk-jzinker", title: "جوزيف زِنكِر", type: "مفكر"
+- id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

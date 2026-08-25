@@ -11,10 +11,11 @@ active_start: 1958
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-whitehall", title: "متلازمة وايتهول وتدرج الإجهاد المهني والصحي", type: "متلازمة"
 gaps:
   - "تجارب جوزيف برادي الشهيرة (Executive Monkeys 1958) حول عبء اتخاذ القرار والمسؤولية المستمرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

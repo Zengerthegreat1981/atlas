@@ -10,19 +10,36 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← تشارلز بوردوين"
 edges:
-  - rel: "belongs_to", target: "العلاج متعدد الأجهزة (MST)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
 related:
-  - id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
-  - id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"
+- id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
+- id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"
+- id: "thk-mrowland", title: "ميليسا رولاند", type: "مفكر"
+- id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
+- id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
+- id: "thk-david-erceg", title: "ديفيد إرسغ", type: "مفكر"
+- id: "thk-jgould", title: "جيمس ليبشيتز", type: "مفكر"
+- id: "thk-melissaschaefer", title: "ميليسا شيفر", type: "مفكر"
+- id: "thk-philippe-cunningham", title: "فيليب كَننغهام", type: "مفكر"
+- id: "thk-randystabler", title: "راندي ستابلر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز غليسون (thk-charles-glisson)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز غليسون (thk-charles-glisson)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد إرسغ (thk-david-erceg)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيمس ليبشيتز (thk-jgould)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ميليسا شيفر (thk-melissaschaefer)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فيليب كَننغهام (thk-philippe-cunningham)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: راندي ستابلر (thk-randystabler)."
 ---
 
 # تشارلز بوردوين
 
-عالم نفس أمريكي، أستاذ في جامعة Missouri، من أهم المساهمين في تطوير العلاج متعدد الأجهزة (MST) مع هنغلَر.
+عالم نفس أمريكي، أستاذ في جامعة Missouri، من أهم المساهمين في تطوير العلاج متعدد الأنظمة (MST) مع هنغلَر.
 
 ## ما أعطاه
 

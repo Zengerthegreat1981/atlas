@@ -13,11 +13,12 @@ language: "اللاتينية"
 active_start: 1280
 active_end: 1700
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية)", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
 related:
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "sch-realism-medieval", title: "الواقعية (في جدل الكليات الوسيط)", type: "مدرسة"
-  - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-realism-medieval", title: "الواقعية (في جدل الكليات الوسيط)", type: "مدرسة"
+- id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "dbt-realism-vs-nominalism", title: "الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟", type: "جدل"
 gaps:
   - "نصوص دنز سكوتوس وأبيلارد باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Quaestiones super Universalia' لأبيلارد."

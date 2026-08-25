@@ -8,10 +8,15 @@ en: "Restorative Justice"
 crumb: "العدالة والمجتمع ← العدالة التصالحية ← المفهوم"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
+- rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
-  - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
+- id: "thk-nancy-harness", title: "نانسي هارنِس", type: "مفكر"
+- id: "thk-erikpearson", title: "إريك پيرسون", type: "مفكر"
+- id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
+- id: "thk-tom-cornwell", title: "توم كورنول", type: "مفكر"
+- id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 gaps:
   - "نسبة الإطار إلى Howard Zehr تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,14 +11,17 @@ active_start: 1975
 active_end: 2010
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "co-developed", target: "العلاج الانفعالي-التجريبي", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "co-developed", target: "العلاج الانفعالي-التجريبي", target_type: "تيار"
 related:
-  - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "tec-process-experiential", title: "العلاج الانفعالي-التجريبي (جرينبرغ، رايس)", type: "تقنية/تدخل علاجي"
+- id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "tec-process-experiential", title: "العلاج الانفعالي-التجريبي (جرينبرغ، رايس)", type: "تقنية/تدخل علاجي"
+- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
+- id: "tec-process-experiential-tasks", title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ الميلاد الدقيق (1942) تقريبي ولم يُراجع من مصدر أولي."
@@ -41,7 +44,7 @@ gaps:
 
 - يعتبر من الجيل الثاني للتيار الإنساني-الظاهراتي، أقل شهرة من غرينبرغ لكنه صاحب إسهام أساسي في الأطر التدريبية.
 - عمل في جامعتي شيكاغو وفيرفيلد (Fairfield University).
-- كتابة «The Humanistic Person-Centered Approach في تطبيق علاج الجشطالت، والتحليل النفسي الوجودي، وعلاج التركيز.
+- كتابة «The Humanistic Person-Centered Approach» في تطبيق علاج الجشطالت، والتحليل النفسي الوجودي، وعلاج التركيز.
 
 ## أهم أعماله
 

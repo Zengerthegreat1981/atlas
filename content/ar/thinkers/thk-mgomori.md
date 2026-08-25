@@ -11,10 +11,11 @@ country: "كندا"
 language: "إنجليزية"
 active_start: 1980
 active_end: 2012
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "نموذج ساتير للنمو", target_type: "مدرسة"
+- rel: "belongs_to", target: "نموذج ساتير للنمو", target_type: "مدرسة"
 related:
-  - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
+- id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 gaps:
   - "سنة الميلاد/الوفاة موثّقة من سجلات الشبكة الساتيرية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

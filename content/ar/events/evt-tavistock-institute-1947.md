@@ -9,11 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1947
 active_end: "مستمر"
 country: "المملكة المتحدة"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
+- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 gaps:
   - "تطبيق نظرية النظم الاجتماعية التقنية (Socio-Technical Systems) في مناجم الفحم البريطانية يحتاج توثيقاً"
   - "أبحاث ويلفريد بيون حول ديناميات المجموعات الصغيرة والافتراضات الأساسية تتطلب تفصيلاً"

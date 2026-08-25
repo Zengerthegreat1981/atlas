@@ -13,9 +13,13 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: 1980
 edges:
-  - rel: "belongs_to", target: "الميتافيزيقا التحليلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
-  - id: "thk-skripke", title: "سول كريبكي", type: "مفكر"
+- id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
+- id: "thk-skripke", title: "سول كريبكي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "النص الكامل لمحاضرات 1970 لم يُقارن بنسخة 1980."
   - "لا يوجد اقتباس مباشر موثوق من المحاضرة الثانية."

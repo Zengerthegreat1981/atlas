@@ -8,9 +8,11 @@ en: "Trail Making Test (TMT Part A & B)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار ربط المسارات"
 active_start: 1944
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "المعايير المعيارية لدرجات TMT المصححة حسب السن ومستوى التعليم (Heaton Norms) تحتاج توثيقاً"
   - "الفارق الزمني (TMT B - TMT A) كمؤشر نقي للمرونة التنفيذية الجبهية يتطلب تفصيلاً سيكومترياً"

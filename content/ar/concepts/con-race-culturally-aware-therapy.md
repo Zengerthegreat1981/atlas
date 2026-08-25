@@ -8,10 +8,15 @@ en: "Race-Culturally Aware Therapy"
 crumb: "العدالة والمجتمع ← العلاج المراعي للعرق والثقافة ← المفهوم"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-race-culturally-aware", target_type: "تيار"
+- rel: "belongs_to", target: "br-race-culturally-aware", target_type: "تيار"
 related:
-  - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
+- id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "التمييز بين Cultural Competence وCultural Humility يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

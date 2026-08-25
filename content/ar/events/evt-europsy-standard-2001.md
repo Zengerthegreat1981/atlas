@@ -9,8 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 2001
 active_end: "مستمر"
 country: "الاتحاد الأوروبي"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تحديات مواءمة برامج التدريب الوطنية في 38 دولة أوروبية تحت مظلة EFPA تحتاج توثيقاً"
   - "إضافة الشهادات التخصصية المتقدمة في العلاج النفسي (EuroPsy Specialist in Psychotherapy) تتطلب مراجعة"

@@ -11,11 +11,11 @@ active_start: 1970
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-specific-phobia", title: "الرهاب النوعي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-specific-phobia", title: "الرهاب النوعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
 gaps:
   - "المفاهيم الطبية الصينية التقليدية لتوازن الين واليانغ (Yin-Yang)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

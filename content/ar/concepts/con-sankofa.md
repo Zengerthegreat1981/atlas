@@ -10,11 +10,14 @@ crumb: "فلسفة الأكان (غانا) ← المفاهيم ← سانكوف
 active_start: 1500
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة الأكان (غانا)", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كهنة وفلاسفة الأكان (تقليد شفهي)", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-akan", target_type: "مدرسة"
+- rel: "formulated_by", target: "كهنة وفلاسفة الأكان (تقليد شفهي)", target_type: "مفكر"
 related:
-  - id: "sch-akan", title: "فلسفة الأكان (غانا)", type: "مدرسة"
-  - id: "thk-amo", title: "أنطون فلهيلم أمو", type: "مفكر"
+- id: "sch-akan", title: "فلسفة الأكان (غانا)", type: "مدرسة"
+- id: "thk-amo", title: "أنطون فلهيلم أمو", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الاستخدام الأدبي الحديث لـ'سانكوفا' (Sankofa) لم يُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق من الطقوس الأكانية بعد."

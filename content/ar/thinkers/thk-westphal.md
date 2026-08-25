@@ -9,11 +9,16 @@ crumb: "المدرسة الوجودية ← الناس ← فريدريش فست
 dates: "ألمانيا · معاصر"
 country: "ألمانيا"
 language: "الألمانية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مدرسة هايدلبرغ للتدريب النفسي الوجودي (Strom School) تحتاج توثيقاً."

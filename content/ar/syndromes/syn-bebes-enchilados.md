@@ -11,10 +11,10 @@ active_start: 1970
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-mal-de-ojo", title: "متلازمة العين الشريرة", type: "متلازمة"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-mal-de-ojo", title: "متلازمة العين الشريرة", type: "متلازمة"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الطب الإثنوسيكياتري الشعبي في المكسيك وأمريكا الوسطى ودراسات المعتقدات الوالدية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

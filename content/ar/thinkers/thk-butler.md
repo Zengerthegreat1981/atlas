@@ -6,16 +6,22 @@ part: "philosophy"
 level: "متقدم"
 title: "جوديث بتلر"
 en: "Judith Butler"
-crumb: "النسوية الفلسفية ← النسوية الفرنسية (ما بعد بنيوية) ← جوديث بتلر"
+crumb: "النسوية الفلسفية ← النسوية الفرنسية (ما بعد البنيوية) ← جوديث بتلر"
 dates: "الولايات المتحدة · مولودة 1956"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1987
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفرنسية (ما بعد البنيوية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "النسوية الفرنسية (ما بعد بنيوية)", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
+- id: "con-gender-performativity", title: "أداء النوع (الجنوسة الأدائية)", type: "مفهوم"
+- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
+- id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
 gaps:
   - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ميشيل فوكو» (thk-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -37,8 +43,8 @@ gaps:
 
 ## قيد
 
-نقدها لـ«الجنس البيولوجي» كُثِّف بوصفه «إنكاراً» لواقعة بيولوجية، وهو ما ردّت عليه بتلر مراراً (Excitable Speech: A Politics of the Performative, 1997) مؤكدة أن «الأداء» يشمل «المادة» (Matter) لا يقتصر على «الخطاب».
+قُرِئ نقدها لـ«الجنس البيولوجي» بوصفه «إنكاراً» لواقعة بيولوجية، وهو ما ردّت عليه بتلر مراراً — وبخاصة في «أجسام لها وزن» (1993) — مؤكدةً أن «الأداء» يشمل «المادة» (Matter) ولا يقتصر على «الخطاب».
 
 ## أهم أعمالها
 
-موضوعات للرغبة: قراءات فلسفية في نيتشه (Subjects of Desire: Hegelian Reflections in Twentieth-Century France, 1987) · إشكالية النوع (Gender Trouble, 1990) · أجسام لها وزن (Bodies That Matter, 1993) · النفسيات القوية: محادثات عن الفلسفة والنسوية (The Psychic Life of Power, 1997) · تأملات للحرب (Frames of War, 2009).
+ذوات الرغبة: تأملات هيغلية في فرنسا القرن العشرين (Subjects of Desire, 1987) · إشكالية النوع (Gender Trouble, 1990) · أجسام لها وزن (Bodies That Matter, 1993) · الحياة النفسية للسلطة (The Psychic Life of Power, 1997) · أُطُر الحرب (Frames of War, 2009).

@@ -11,10 +11,12 @@ active_start: 1942
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-depersonalization-derealization", title: "اضطراب تبدد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-depersonalization-derealization", title: "اضطراب تبدد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-asomatognosia", title: "متلازمة فقد حس الجسد (عمه إدراك أجزاء الجسد)", type: "متلازمة"
+- id: "syn-biid", title: "متلازمة اضطراب سلامة الهوية الجسدية (Xenomelia / BIID)", type: "متلازمة"
 gaps:
   - "أبحاث غيرستمان (Gerstmann 1942) في توصيف أوهام ملكية الجسد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

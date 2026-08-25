@@ -8,9 +8,12 @@ en: "Wisconsin Card Sorting Test (WCST)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار ويسكونسن لتصنيف البطاقات"
 active_start: 1948
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "ins-dkefs-executive", title: "نظام دليس–كابلان لتقييم الوظائف التنفيذية (D-KEFS)", type: "أداة قياس"
 gaps:
   - "النسخ المحوسبة الحديثة والتحليل الآلي الدقيق لأخطاء المثابرة (Perseverative Errors) تحتاج توثيقاً"
   - "التطبيقات في أبحاث الفصام واضطرابات الشخصية والإدمان تتطلب مراجعة من علم الأعصاب الإكلينيكي"

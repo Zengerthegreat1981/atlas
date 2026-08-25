@@ -11,11 +11,11 @@ active_start: 1960
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-spiritual-possession-al-mass", title: "متلازمة المَسّ والاضطراب التلبسي", type: "متلازمة"
-  - id: "syn-zar", title: "متلازمة الزار", type: "متلازمة"
-  - id: "dis-dissociative-identity", title: "اضطراب الهوية الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-spiritual-possession-al-mass", title: "متلازمة المَسّ والاضطراب التلبسي", type: "متلازمة"
+- id: "syn-zar", title: "متلازمة الزار", type: "متلازمة"
+- id: "dis-dissociative-identity", title: "اضطراب الهوية الانشقاقي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الدراسات الأنثروبولوجية والطبية النفسية في الجزيرة العربية والبادية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

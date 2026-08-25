@@ -9,11 +9,12 @@ en: "Sheena Iyengar & Mark Lepper Jam Experiment (Choice Overload)"
 crumb: "الاقتصاد السلوكي والاجتماعي ← الدراسات والأبحاث ← تجربة إينغار وليبر لمربى الاختيار"
 active_start: 1995
 active_end: 2000
-edges: []
+edges:
+  []
 related:
-  - id: "wrk-paradox-of-choice", title: "مفارقة الاختيار", type: "عمل / كتاب"
-  - id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار", type: "مفهوم"
-  - id: "thk-sheena-iyengar", title: "شينا إينغار", type: "مفكر"
+- id: "wrk-paradox-of-choice", title: "مفارقة الاختيار", type: "عمل / كتاب"
+- id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار", type: "مفهوم"
+- id: "thk-sheena-iyengar", title: "شينا إينغار", type: "مفكر"
 gaps:
   - "التطبيق في متجر دريغر بكاليفورنيا والمقارنة بين شاشات عرض 24 نكهة مقابل 6 نكهات."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,20 +11,22 @@ dates: "زيورخ · أوائل القرن العشرين"
 active_start: 1913
 active_end: "مستمر"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "كارل يونغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "كارل يونغ", target_type: "مفكر"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
-  - id: "thk-neumann", title: "إريك نويمان", type: "مفكر"
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
+- id: "thk-neumann", title: "إريك نويمان", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "rel-psychoanalysis-jungian", title: "التحليل النفسي والتحليلية اليونغية: انشقاق الأبناء المؤسِّس", type: "علاقة بين مدرستين"
+- id: "rel-trauma-psychoanalysis", title: "العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم", type: "علاقة بين مدرستين"
 gaps:
   - "التمييز الدقيق بين المدارس اليونغية المعاصرة (المدرسة الكلاسيكية، والمدرسة التطورية بقيادة فوردهام، والمدرسة الأركيتايبية بقيادة هيلمان) يحتاج توثيقاً موسعاً."
   - "تاريخ الانفصال الرسمي بين يونغ وفرويد (1913-1914) موثق ولكن أثره على مأسسة مدرسة زيورخ يحتاج مراجعة."
 ---
-
 # التحليلية اليونغية
 
 تيار علم النفس التحليلي الذي أسسه الفيلسوف والطبيب النفسي السويسري كارل غوستاف يونغ بعد انفصاله عن فرويد، متجاوزاً اختزال الليبيدو في البعد الجنسي نحو طاقة نفسية كلية وبنية رمزية أسطورية تشمل اللاشعور الجمعي والأنماط الأولية.

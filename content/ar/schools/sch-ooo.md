@@ -13,12 +13,16 @@ language: "الإنجليزية"
 active_start: 2009
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الواقعية المضاربة", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الواقعية المضاربة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-speculative-realism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-speculative-realism", target_type: "مدرسة"
 related:
-  - id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
-  - id: "sch-new-materialism", title: "المادية الجديدة", type: "مدرسة"
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
+- id: "sch-new-materialism", title: "المادية الجديدة", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "thk-graham-harman", title: "غراهام هارمان", type: "مفكر"
+- id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
+- id: "con-existence-existentialism", title: "الوجودية (Existence) في الفلسفة الوجودية", type: "مفهوم"
+- id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
 gaps:
   - "OOO ليست 'مدرسة' بمعنى صارم، بل 'إطار' أنطولوجي مرتبط بشكل أساسي بـ گراهام هارمان."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

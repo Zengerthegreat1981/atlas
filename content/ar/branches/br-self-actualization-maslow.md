@@ -11,18 +11,20 @@ dates: "من الأربعينيات والخمسينيات"
 active_start: 1943
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
-  - rel: "developed_by", target: "أبراهام ماسلو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-maslow", target_type: "مفكر"
 related:
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
+- id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
 gaps:
   - "هرم الاحتياجات الإنسانية لماسلو (الفسيولوجية، الأمان، الانتماء، التقدير، وتحقيق الذات، وتجاوز الذات في كتاباته المتأخرة)."
   - "دراسة خبرات الذروة (Peak Experiences) والقيم الكينونية (B-Values) لدى الشخصيات المحققة لذاتها."
 ---
-
 # علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)
 
 الإطار النظري الإنساني الشامل الذي صاغه أبراهام ماسلو، مؤسس «القوة الثالثة» في علم النفس، متجاوزاً دراسة العصاب والحيوان نحو دراسة الإمكانات الإنسانية العليا والدافعية الإيجابية.

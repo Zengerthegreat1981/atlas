@@ -13,15 +13,17 @@ language: "الإنجليزية، السنسكريتية"
 active_start: 1893
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فيدانتا", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-vedanta", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
-  - id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"
-  - id: "sch-neohinduism", title: "الهندوسية الجديدة (إصلاح القرن 19)", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
+- id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"
+- id: "sch-neohinduism", title: "الهندوسية الجديدة (إصلاح القرن 19)", type: "مدرسة"
+- id: "dbt-aurobindo-vs-vivekananda", title: "أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟", type: "جدل"
 gaps:
   - "نصوص Vivekānanda (Rāja Yoga) وS. Radhakrishnan تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نيو-فيدانتا (Neo-Vedānta)

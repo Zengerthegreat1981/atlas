@@ -13,9 +13,9 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإكلينيكي واليقظة الذهنية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإكلينيكي واليقظة الذهنية", target_type: "مدرسة"
 related:
-  - id: "tec-cbt-mind-mindfulness-meditation", title: "العلاج المعرفي القائم على اليقظة الذهنية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

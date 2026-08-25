@@ -13,15 +13,35 @@ language: "الإنجليزية"
 active_start: 1950
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "split_into", target: "الوظيفية (فلسفة العقل)", target_type: "مدرسة"
-  - rel: "split_into", target: "السلوكية المنطقية", target_type: "مدرسة"
-  - rel: "split_into", target: "نظرية الهوية", target_type: "مدرسة"
-  - rel: "split_into", target: "المادية الإقصائية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "split_into", target: "sch-functionalism", target_type: "مدرسة"
+- rel: "split_into", target: "السلوكية المنطقية", target_type: "مدرسة"
+- rel: "split_into", target: "نظرية الهوية", target_type: "مدرسة"
+- rel: "split_into", target: "المادية الإقصائية", target_type: "مدرسة"
 related:
-  - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
-  - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
-  - id: "thk-nagel", title: "توماس ناغل", type: "مفكر"
+- id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
+- id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
+- id: "thk-nagel", title: "توماس ناغل", type: "مفكر"
+- id: "dbt-freewill-neuroscience-libet", title: "هل حسمت العلوم العصبية مسألة نفي الإرادة الحرة؟", type: "جدل"
+- id: "dia-dennett-chalmers-zombies", title: "سجال دينيت وتشالمرز: الزومبي الفلسفي والمشكلة الصعبة للوعي", type: "حوار مع مدرسة مجاورة"
+- id: "trm-epiphenomenalism-mind", title: "الظاهراتية المصاحبة (Epiphenomenalism): الوعي كظل للنشاط العصبي", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-qualia-analytic-mind", title: "الكواليا (Qualia): الطابع الباطني النوعي للخبرة الذاتية المعاشة", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-supervenience-philosophy-mind", title: "التبعية أو الانبثاقية المشروطة (Supervenience)", type: "مصطلح لغوي متنازع عليه"
+- id: "met-chalmers-philosophical-zombie", title: "الزومبي الفلسفي لديفيد تشالمرز: استعارة المشكلة الصعبة للوعي والكواليا", type: "استعارة/مجاز مؤسِّس"
+- id: "met-nagel-bat-experience", title: "كيف تشعر عندما تكون خفاشاً لناغل: استعارة استحالة اختزال الذاتية", type: "استعارة/مجاز مؤسِّس"
+- id: "met-putnam-twin-earth", title: "الأرض التوأم لهيلاري بوتنام: استعارة الدلالة الخارجية والمعنى البيئي", type: "استعارة/مجاز مؤسِّس"
+- id: "que-determinism-vs-fatalism", title: "ما الفارق بين الحتمية العلمية والجبرية القدرية في فهم حرية الإنسان؟", type: "سؤال توليدي"
+- id: "que-does-perception-represent-reality", title: "هل تعكس حواسنا العالم الفيزيائي بدقة أم تقدم واجهة تطورية للبقاء؟", type: "سؤال توليدي"
+- id: "que-extended-mind-boundary", title: "أين ينتهي عقل الإنسان وأين يبدأ العالم الخارجي؟", type: "سؤال توليدي"
+- id: "que-mind-uploading-identity", title: "إذا رُفعت خريطة الدماغ العصبية على حاسوب فهل يبقى الفرد هو ذاته؟", type: "سؤال توليدي"
+- id: "que-origin-of-qualia-evolution", title: "ما هي الميزة التطورية التي جعلت الانتخاب الطبيعي يفضل وجود الخبرة الواعية؟", type: "سؤال توليدي"
+- id: "que-panpsychism-fundamental-nature", title: "هل الوعي خاصية أولية جوهرية تسري في كافة ذرات الكون؟", type: "سؤال توليدي"
+- id: "que-qualia-hard-problem", title: "لماذا يصاحب معالجة المعلومات العصبية شعور باطني نوعي (الكواليا)؟", type: "سؤال توليدي"
+- id: "que-simulation-hypothesis-reality", title: "هل يمكن أن نكون كائنات رقمية تعيش داخل محاكاة حاسوبية فائقة؟", type: "سؤال توليدي"
+- id: "que-turing-test-sufficiency", title: "هل النجاح في محاكاة السلوك اللغوي البشري معيار كافٍ لإثبات التفكير؟", type: "سؤال توليدي"
+- id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
+- id: "thk-ge-moore", title: "جورج إدوارد مور", type: "مفكر"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«دانيال دينيت» (thk-dennett) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«دونالد ديفيدسون» (thk-davidson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -29,7 +49,6 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح من 'المادية الإقصائية' عند فيليبا فوتا في صياغتها المتأخرة (1980s)."
   - "علاقة مظلة فلسفة العقل بـ'علم النفس الفلسفي' (Philosophical Psychology) كحقل أكاديمي مستقل لم تُراجع."
 ---
-
 # فلسفة العقل التحليلية (Analytic Philosophy of Mind)
 
 مظلة فلسفية نشطة منذ خمسينيات القرن العشرين، تضمّ كل تيارات تحليل «العقل» (mind) في الإطار التحليلي المعاصر: السلوكية المنطقية، نظرية الهوية، الوظيفية، المادية الإقصائية، ثنائية الخاصية (Property Dualism)، والتعددية الأنطولوجية. يغطي هذا الملف الإطار العام، وتُفصَّل مدارسه في صفحات مستقلة: `sch-functionalism` للوظيفية.

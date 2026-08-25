@@ -6,18 +6,21 @@ level: "متوسط"
 title: "فرانسيس فوغان"
 en: "Frances Vaughan"
 crumb: "علم النفس عبر الشخصي ← مؤسسة ← فرانسيس فوغان"
-dates: "الولايات المتحدة · وُلدت 1934"
+dates: "الولايات المتحدة · 1935–2017"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1979
-active_end: "مستمر"
+active_end: 2017
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس عبر الشخصي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس عبر الشخصي (Transpersonal Psychology)", target_type: "مدرسة"
 related:
-  - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
-  - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
+- id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
+- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فرانسيس فوغان
@@ -38,9 +41,10 @@ gaps:
 
 ## أهم أعمالها
 
-- *The Inward Arc: Healing and Wholeness in Psychotherapy and Spirituality* (1985).
 - *Awakening Intuition* (1979).
-- *Shadows of the Sacred* (1995).
+- *The Inward Arc: Healing and Wholeness in Psychotherapy and Spirituality* (1985).
+- *Paths Beyond Ego: The Transpersonal Vision* (1993، تحرير مع زوجها روجر والش) — المختارات التي عرّفت الحقل لجيل كامل.
+- *Shadows of the Sacred: Seeing Through Spiritual Illusions* (1995).
 
 ## اقتباسات مختارة
 

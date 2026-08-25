@@ -8,14 +8,21 @@ en: "Four Principles of Mental Functioning (Ogden)"
 crumb: "التحليل النفسي ← المفاهيم ← المبادئ الأربعة للوظيفة الذهنية"
 dates: "التسعينيات-اليوم"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "توماس أوغدن", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-togden", target_type: "مفكر"
 related:
-  - id: "thk-togden", title: "توماس أوغدن", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-togden", title: "توماس أوغدن", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # المبادئ الأربعة للوظيفة الذهنية (أوغدن)

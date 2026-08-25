@@ -10,11 +10,15 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1996
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ التطوير في جامعة Clark يستحق مصدراً."
   - "الفرق بين ABFT و EFT للمراهقين (ودور Levy) يستحق توثيقاً."

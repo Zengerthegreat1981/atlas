@@ -13,17 +13,17 @@ language: "الإنجليزية، اللاتينية، الإيطالية"
 active_start: 1709
 active_end: 1780
 edges:
-  - rel: "belongs_to", target: "التجريبية البريطانية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مظلة"
 related:
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-  - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
-  - id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
+- id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 gaps:
   - "نصوص بيركلي بالإنجليزية واللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'A Treatise Concerning the Principles of Human Knowledge'."
   - "التمييز بين 'المثالية البركلية' (Berkeleian Idealism) و'المثالية الذاتية' (Subjective Idealism) معقّد."
 ---
-
 # المثالية الذاتية البركلية
 
 تقليد فلسفي تأسّس على يد **جورج بيركلي** (George Berkeley، 1685-1753)، فيلسوف أيرلندي وأسقف لاحقاً، يُلقَّب بـ«**مؤسّس المثالية الحديثة**» (Fundator Idealismi Moderni). تُمثّل البركلية ردّ فعل **تجريبيّ** (Empirica) ضد **المادّية** (Materialismus) «**الميكانيكية**» (Mechanica) لـ«**نيوتن**» (Newton) و«**لوك**» (Locke): **لا وجود للمادّة** (Materia Non Est) بمعزل عن **الإدراك** (Perceptio)؛ الأشياء «**مَجموع**» (Summa) «**أفكار**» (Ideae) «**مُدْرَكة**» (Perceptae)؛ **الله** (Deus) «**العقل**» (Mens) «**اللامحدود**» (Infinita) «**الذي**» (Qui) «**يَحفظ**» (Conservat) «**الأفكار**» (Ideas) في «**الذهن**» (Mens) «**البشري**» (Humana) «**الآن**» (Nunc). أثّرت في **هيوم** (Hume) و«**كانط**» (Kant) و«**المثالية الألمانية**» (Idealismus Germanicus) و«**شوبنهاور**» (Schopenhauer).

@@ -12,10 +12,13 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: 1990
 edges:
-  - rel: "belongs_to", target: "النسوية الفرنسية (ما بعد البنيوية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
-  - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-  - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
+- id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "النص الأصلي Gender Trouble (1990) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

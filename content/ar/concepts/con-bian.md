@@ -10,10 +10,13 @@ crumb: "الفلسفة ← الصين ← مدرسة الأسماء (المنط�
 active_start: -400
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة الأسماء (المنطقيون)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mingjia", target_type: "مدرسة"
 related:
-  - id: "sch-mingjia", title: "مدرسة الأسماء (المنطقيون)", type: "مدرسة"
-  - id: "thk-mozi", title: "مو زي", type: "مفكر"
+- id: "sch-mingjia", title: "مدرسة الأسماء (المنطقيون)", type: "مدرسة"
+- id: "thk-mozi", title: "مو زي", type: "مفكر"
+- id: "thk-huishi", title: "هوي شي (هوي تشي)", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«غونغسون لونغ» (thk-gongsun-long) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التفريق الدقيق بين 'بيان' و'لون' (lun، النقاش) في 'Gongsun Longzi' لم يُحلّ في هذا الملف."

@@ -11,11 +11,15 @@ dates: "مانشستر وأكسفورد · التسعينيات"
 active_start: 1990
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
+- id: "dis-schizoaffective", title: "الفصام العاطفي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophreniform", title: "الفصاماني", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-abm", title: "تعديل التحيز الانتباهي (ABM)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بروتوكولات دانيال فريمان وريتشارد بنتال (Freeman & Bentall) لعلاج الضلالات والهلاوس السمعية."
   - "تقنيات التطبيع (Normalization) واستكشاف التفسيرات البديلة غير الاضطهادية للهلاوس."

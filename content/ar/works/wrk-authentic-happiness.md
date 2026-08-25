@@ -11,12 +11,15 @@ dates: "2002 · مارتن سليغمان"
 language: "الإنجليزية"
 active_start: 2002
 active_end: 2002
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
 related:
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-  - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
+- id: "wrk-build-life-you-want", title: "ابنِ الحياة التي تريدها: فن العلم للسعادة", type: "عمل / كتاب"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Free Press) لم تُراجع من مصدر أولي."
   - "نظرية PERMA اللاحقة (Seligman 2011) لم تُراجع من مصدر أولي."

@@ -10,12 +10,12 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← جدل الفيد
 active_start: 1920
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة أوروبندو (اليوغا التكاملية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:
-  - id: "sch-aurobindo", title: "فلسفة أوروبندو", type: "مدرسة"
-  - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-  - id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
-  - id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "sch-aurobindo", title: "فلسفة أوروبندو", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
 gaps:
   - "الجدل مُستقرأ من المقارنة بين *Life Divine* و*Jnana Yoga*، لكن لم تُراجع بعدُ المراسلات المباشرة (قليلة موثّقة)."
   - "لا اقتباس مباشر موثّق في هذا الملف."

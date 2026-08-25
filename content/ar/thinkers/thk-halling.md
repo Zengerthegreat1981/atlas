@@ -6,17 +6,18 @@ level: "متقدم"
 title: "ستين هالينغ"
 en: "Steen Halling"
 crumb: "المدرسة الوجودية ← الناس ← ستين هالينغ"
-dates: "أمريكا · معاصر"
-active_start: 2008
-active_end: 2008
+dates: "الدنمارك / الولايات المتحدة · 1944–"
+active_start: 1979
+active_end: "مستمر"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أبحاثه الفينومينولوجية الإكلينيكية حول ظاهرة المغفرة (Forgiveness) واليأس تستحق توثيقاً."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-الإنصات إلى التجربة: الفينومينولوجيا الحوارية في الممارسة (Intimations of Presence, 2008) · علم النفس الفينومينولوجي في الممارسة الإكلينيكية (with Jan O. Rowe).
+إيماءات الحضور: تأمّلات وجودية وفينومينولوجية (Intimations of Presence: Existential and Phenomenological Reflections, 2008) · «الفينومينولوجيا الحوارية» بوصفها منهج بحث جماعياً طوّره مع جان أ. رو ومايكل ليفتون في جامعة سياتل — يشتغل فيه فريق من الباحثين على الظاهرة نفسها بالحوار بدل التحليل المنفرد.

@@ -14,11 +14,12 @@ active_start: -340
 active_end: -289
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
-  - id: "thk-xunzi", title: "شون تزو", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو", type: "مفكر"
+- id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"
 gaps:
   - "التواريخ الدقيقة لرحلاته بين الدول لم تُراجع من سجلّات هان التاريخية هنا."
   - "التفاصيل اللاحقة حول تطور فكره (تلاميذه، كتاب Mengzi) لم تُقارن بالنص الصيني الأصلي."

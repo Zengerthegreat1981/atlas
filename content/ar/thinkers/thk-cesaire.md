@@ -11,18 +11,20 @@ active_start: 1939
 active_end: 1963
 country: "مارتينيك / فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-  - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'خطاب في الاستعمار' (1950) ومفهوم 'الزنوجة' (Négritude) كاستعادة للأصالة الوجودية يستحقان إدراجاً."
+  - "مفهوم «الزنوجة» (Négritude) بوصفه استعادةً للأصالة الوجودية يستحق عنصراً مفاهيمياً مستقلاً."
+  - "دُمج معه الملف المكرَّر thk-aime-cesaire (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # إيمي سيزير

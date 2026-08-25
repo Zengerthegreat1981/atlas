@@ -14,11 +14,14 @@ active_start: 750
 active_end: 1700
 active_source: "lifespan"
 edges:
-  - rel: "split_into", target: "مدرسة المبدأ (Lixue)", target_type: "مدرسة"
-  - rel: "split_into", target: "مدرسة العقل/القلب (Xinxue)", target_type: "مدرسة"
+- rel: "split_into", target: "sch-lixue", target_type: "مدرسة"
+- rel: "split_into", target: "sch-xinxue", target_type: "مدرسة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "ctx-east-asian-neo-confucianism", title: "سياق الكونفوشيوسية وفلسفات الحكمة في شرق آسيا", type: "سياق/تقليد"
+- id: "sch-mitogaku", title: "ميتوغاكو (السينولوجيا اليابانية)", type: "مدرسة"
+- id: "sch-kokugaku", title: "كوكوغاكو (الدراسات الوطنية اليابانية)", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«البوذية الصينية» (sch-buddhism-chinese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفترة المبكرة (Han Yu، Li Ao في القرن 8-9) أقل توثيقاً هنا."

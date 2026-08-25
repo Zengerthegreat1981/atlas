@@ -13,22 +13,38 @@ language: "الألمانية، الفرنسية، الإنجليزية"
 active_start: 1900
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة القارية", target_type: "مظلة"
-  - rel: "split_into", target: "الظاهراتية الوجودية", target_type: "مدرسة"
-  - rel: "split_into", target: "الظاهراتية التأويلية", target_type: "مدرسة"
-  - rel: "split_into", target: "الظاهراتية الجسدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "split_into", target: "sch-phenomenology-existential", target_type: "مدرسة"
+- rel: "split_into", target: "sch-phenomenology-hermeneutic", target_type: "مدرسة"
+- rel: "split_into", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
-  - id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
-  - id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية", type: "مدرسة"
-  - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
-  - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-  - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
+- id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية", type: "مدرسة"
+- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "thk-schutz", title: "ألفرد شوتز", type: "مفكر"
+- id: "axm-intentionality", title: "القصدية (Intentionalität)", type: "بديهية/مبدأ تأسيسي"
+- id: "wrk-ideen-i", title: "أفكار نحو ظاهراتية وصفية (Ideen I)", type: "عمل / كتاب"
+- id: "dia-sartre-merleau-ponty-break", title: "انشقاق سارتر وميرلوبونتي: الحرية السياسية، الجسد، والماركسية", type: "حوار مع مدرسة مجاورة"
+- id: "trm-corporeite-merleau-ponty", title: "الجسدانية والإدراك المتجسد (Corporéité): لحمة العالم وتجسد الوعي", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-intentionality-brentano-husserl", title: "القصدية (Intentionality): توجه الوعي دوماً نحو موضوع ما", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-leben-und-leib-phenomenology", title: "الجسد المعاش والجسد الفيزيائي (Leib vs. Körper)", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-lebenswelt-lifeworld-husserl", title: "عالم الحياة المعاش (Lebenswelt): الأفق البديهي السابق للتنظير", type: "مصطلح لغوي متنازع عليه"
+- id: "que-is-change-continuous-or-discrete", title: "هل التحول والصيرورة حركة مستمرة ناعمة أم قفزات كمومية آنية؟", type: "سؤال توليدي"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "thk-scheler", title: "ماكس شيلر", type: "مفكر"
+- id: "con-intentionality", title: "القصدية (Intentionalität)", type: "مفهوم"
 gaps:
   - "الفجوة بين الظاهراتية 'المثالية' (هوسرل) و'الواقعية' (فيندلباندت، ريناخ) في المراحل الأولى لم تُحلّل في هذا الملف."
   - "العلاقة الدقيقة مع الوضعية المنطقية لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
-
 # الظاهراتية (Phänomenologie)
 
 تيار فلسفي مؤسِّس في مطلع القرن العشرين، أسّسه **إدموند هوسرل** (Edmund Husserl، 1859–1938)، ويهدف إلى دراسة البُنى الأساسية للوعي والظهور (الـphainomenon) دون افتراض مسبق حول وجود العالم الخارجي أو طبيعته. ترى الظاهراتية أن الفلسفة يجب أن تكون «علمًا صارمًا» (strenge Wissenschaft) للتجربة الحية، وأنّ جميع العلوم الأخرى ترتدّ في نهاية المطاف إلى **الأبستمولوجيا** الذاتية للوعي.

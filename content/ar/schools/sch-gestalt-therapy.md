@@ -13,28 +13,32 @@ language: "الإنجليزية، الألمانية"
 active_start: 1940
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "علم النفس الجشطالتي (Gestalt Psychology)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الظاهراتية (Phenomenology)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الوجودية (Existentialism)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "belongs_to", target: "العلاج المتمركز حول الخبرة (Experiential)", target_type: "مظلة"
+- rel: "evolved_from", target: "br-gestalt-berlin", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المتمركز حول الخبرة (Experiential)", target_type: "مظلة"
 related:
-  - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
-  - id: "br-gestalt-therapy", title: "علاج الجشطالت (بيرلز وغودمان)", type: "تيار"
-  - id: "br-relational-gestalt", title: "الجشطالت العلائقي المعاصر", type: "تيار"
-  - id: "thk-fperls", title: "فريدريك (فريتز) بيرلز", type: "مفكر"
-  - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
-  - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
-  - id: "thk-kkoffka", title: "كارل كوفكا", type: "مفكر"
-  - id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
-  - id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
+- id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت (بيرلز وغودمان)", type: "تيار"
+- id: "br-relational-gestalt", title: "الجشطالت العلائقي المعاصر", type: "تيار"
+- id: "thk-fperls", title: "فريدريك (فريتز) بيرلز", type: "مفكر"
+- id: "thk-goodman", title: "بول غودمان", type: "مفكر"
+- id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
+- id: "thk-kkoffka", title: "كارل كوفكا", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
+- id: "con-two-chair-dialogue", title: "تقنية الكرسيين", type: "مفهوم"
+- id: "con-empty-chair", title: "تقنية الكرسي الفارغ", type: "مفهوم"
+- id: "thk-ifrom", title: "إيزادور فروم", type: "مفكر"
+- id: "thk-rresnick", title: "روبرت رِسنيك", type: "مفكر"
+- id: "met-gestalt-unfinished-picture", title: "اللوحة غير المكتملة في الجشطالت: استعارة الأعمال العاطفية غير المحسومة", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "رابط مقترح لـ«فولفغانغ كوهلر» (thk-kohler) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التمييز الدقيق بين 'علم النفس الجشطالتي' (مدرسة برلين، 1912-1940) و'علاج الجشطالت' (بيرلز وغودمان، 1951) ليس موحّداً في المراجع."
   - "العلاقة بين الجشطالت ومدرسة فرانكفورت (Adorno، Fromm) في الأربعينيات موثّقة جزئياً (بيرلز كان محلّلاً في معهد فرانكفورت) لكن لم تُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
-
 # علاج الجشطالت (Gestalt Therapy)
 
 علاج الجشطالت هو **مدرسة علاجية إنسانية-وجودية** تأسّست عام 1951 في نيويورك على يد فريدريك «فريتز» بيرلز وزوجته لورا، بالتعاون مع بول غودمان. اسمها مشتق من كلمة ألمانية «Gestalt» (الشكل/الصيغة/الكلّ المنظَّم) — مبدأ أساسي في علم النفس الجشطالتي الأوروبي (فيرتهايمر، كوهلر، كوفكا، فيرتهيمر 1912) ينصّ على أن الإدراك البشري **يُنظِّم تلقائياً** الحقول الحسية في **كلّيات ذات معنى** (الكل أكبر من مجموع أجزائه، «والنّغمات» في الموسيقى تتشكّل في السمع لا في الموجات). بيرلز نقل هذا المبدأ من الإدراك إلى **العلاج**: المعاناة تنبع من «كلّالات» (gestalts) مغلقة لم تكتمل، والعلاج هو مساعدة المريض على إكمالها بوعي.

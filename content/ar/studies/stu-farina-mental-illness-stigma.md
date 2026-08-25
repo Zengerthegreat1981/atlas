@@ -8,8 +8,11 @@ en: "Farina's Mental Illness Stigma and Labeling Interaction Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات فارينا لوصمة المرض النفسي"
 active_start: 1968
 active_end: 1974
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي في الطب النفسي", type: "جدل"
 gaps:
   - "تطور نظرية الوصمة الذاتية (Self-Stigma) لـ Patrick Corrigan يحتاج ربطاً بالأبحاث الإكلينيكية المعاصرة"
   - "التطبيقات في مقابلات التوظيف والاندماج المجتمعي لمتعافي الأمراض النفسية تتطلب مراجعة مساندة"

@@ -8,12 +8,15 @@ en: "Dialectic of Acceptance and Change in Couples Therapy"
 crumb: "الموجة الثالثة ← المفاهيم ← جدلية القبول والتغيير في العلاج الزوجي"
 active_start: 1996
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-njacobson", title: "نيل جاكوبسون", type: "مفكر"
-  - id: "thk-achristensen", title: "أندرو كريستينسن", type: "مفكر"
-  - id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
+- id: "thk-njacobson", title: "نيل جاكوبسون", type: "مفكر"
+- id: "thk-achristensen", title: "أندرو كريستينسن", type: "مفكر"
+- id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز بين قبول الشريك في IBCT واليقظة في سياق الألفة الزوجية (Mindfulness) لم يُوثَّق بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,11 +10,16 @@ dates: "1907 · ألفريد أدلر"
 active_start: 1907
 active_end: 1907
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ألفريد أدلر", target_type: "مفكر"
+- rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
+- rel: "authored_by", target: "ألفريد أدلر", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب كان أوّل عمل مستقل لأدلر، قبل انفصاله الرسمي عن فرويد في 1911 — التحقق من تطوّر المفاهيم بين هذه النسخة والإصدارات اللاحقة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Adler في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

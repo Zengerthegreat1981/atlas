@@ -9,13 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← هانز لو�
 dates: "ألمانيا / أمريكا · 1906–1993"
 country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1993
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دراساته حول 'الفعل العلاجي في التحليل النفسي والزمانية' وتلمذته عند مارتن هايدجر تستحق توثيقاً."

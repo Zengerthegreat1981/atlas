@@ -6,19 +6,23 @@ level: "متقدم"
 title: "خطاب في الاستعمار"
 en: "Discourse on Colonialism (Discours sur le colonialisme, 1950)"
 crumb: "المدرسة الوجودية ← الأعمال ← خطاب في الاستعمار (إيمي سيزير)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-  - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري/العابر للثقافات", type: "نقد خارجي موثَّق"
+- id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري/العابر للثقافات", type: "نقد خارجي موثَّق"
 gaps:
   - "النص الأصلي الفرنسي 'Discours sur le colonialisme' (1950) يحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # خطاب في الاستعمار (1950)

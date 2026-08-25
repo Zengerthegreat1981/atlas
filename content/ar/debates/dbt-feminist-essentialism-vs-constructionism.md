@@ -10,10 +10,14 @@ crumb: "النسوية الفلسفية ← جدل الجوهرية-البنائ
 active_start: 1975
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
-  - id: "thk-firestone", title: "شولاميث فيرستون", type: "مفكر"
-  - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "thk-firestone", title: "شولاميث فيرستون", type: "مفكر"
+- id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
+- id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
+- id: "dbt-nature-nurture-cognitive-modules-vs-domain-general", title: "جِدَل الْوِحَدَات الْمَعْرِفِيَّة الْفِطْرِيَّة ضِدّ التَّعَلُّم الْعَامّ الْبِيئِيّ: أَيّ تَفْسِير لِـ**سُلُوك** الْإِنْسَان؟", type: "جدل"
 gaps:
   - "النصوص التأسيسية (Firestone 1970, Butler 1990, MacKinnon 1989) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

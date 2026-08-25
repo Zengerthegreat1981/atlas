@@ -8,9 +8,11 @@ en: "Alcohol Use Disorders Identification Test (AUDIT / AUDIT-C)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار تحديد اضطرابات تعاطي الكحول AUDIT"
 active_start: 1989
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "فروق نقاط القطع المعيارية بين الرجال (≥ 8) والنساء وكبار السن (≥ 7) تحتاج توثيقاً إكلينيكياً"
   - "التطبيق العملي للنسخة المختصرة (AUDIT-C المكونة من أول 3 بنود فقط) في الطوارئ الطبية يتطلب استعراضاً"

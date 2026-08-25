@@ -8,10 +8,15 @@ en: "Sensory Integration (Ayres Theory)"
 crumb: "المفاهيم ← مدارس علاجية متخصصة ← التكامل الحسي"
 active_start: 1972
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التكامل الحسي (Sensory Integration)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "مدرسة"
 related:
-  - id: "con-id-psychotherapy", title: "العلاج النفسي للإعاقات الذهنية", type: "مفهوم"
+- id: "thk-lhatch", title: "ليندا هاتش", type: "مفكر"
+- id: "con-id-psychotherapy", title: "العلاج النفسي للإعاقات الذهنية", type: "مفهوم"
+- id: "thk-eblanche", title: "إرنا بلانش", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفاصيل التفصيلية لأعمال جان عيرز لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,11 +10,13 @@ country: "الولايات المتحدة"
 active_start: 1986
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "جيمس بينيبيكر", target_type: "مفكر"
+- rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
+- rel: "developed_by", target: "جيمس بينيبيكر", target_type: "مفكر"
 related:
-  - id: "thk-jpennebaker", title: "جيمس بينيبيكر", type: "مفكر"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
+- id: "thk-jpennebaker", title: "جيمس بينيبيكر", type: "مفكر"
 gaps:
   - "الآليات العصبية-المعرفية الدقيقة (الربط بين الذاكرة اللاشعورية والمعالجة السردية) لم تُحسم."
   - "لا يوجد اقتباس مباشر موثوق متاح."

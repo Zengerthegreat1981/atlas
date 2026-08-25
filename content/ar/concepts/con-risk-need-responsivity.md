@@ -8,16 +8,19 @@ en: "Risk-Need-Responsivity (RNR)"
 crumb: "علم النفس الشرعي/الجنائي ← تقييم المخاطر العلاجي ← مبدأ المخاطرة والحاجة والاستجابة"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
+- rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
-related:
-  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "مفهوم"
+- id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "نسبة الإطار الرئيسي إلى Andrews وBonta تستحق توثيقاً (كندي، 1990s)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # مبدأ المخاطرة والحاجة والاستجابة (RNR)
 
 إطار عمل إكلينيكي وتنظيمي صاغه عالم النفس الكندي James Bonta وديفيد أندروز (Public Safety Canada) في تسعينيات القرن العشرين، صار حجر الأساس في علاج الجانحين وإعادة تأهيلهم في أمريكا الشمالية وأوروبا.

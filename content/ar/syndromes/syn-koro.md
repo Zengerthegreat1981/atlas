@@ -11,11 +11,11 @@ active_start: 1965
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
 gaps:
   - "أوبئة الهستيريا الجماعية المرتبطة بمتلازمة كورو في سنغافورة والصين في السبعينيات والثمانينيات."
   - "لا يوجد اقتباس مباشر موثوق متاح."

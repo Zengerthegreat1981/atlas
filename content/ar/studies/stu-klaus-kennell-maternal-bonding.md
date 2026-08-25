@@ -8,8 +8,15 @@ en: "Klaus & Kennell Maternal-Infant Bonding and Sensitive Period Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات كلاوس وكينيل للترابط الأمومي"
 active_start: 1972
 active_end: 1976
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الجدل المنهجي حول ادعاء وجود 'فترة حرجة حتمية' (Critical Period) غير قابلة للتعويض يتطلب توثيقاً نقدياً"
   - "التطبيقات المعاصرة للرعاية الكنغرية (Kangaroo Mother Care) للمبتسرين تحتاج مراجعة في ضوء طب حديثي الولادة"

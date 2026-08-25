@@ -6,16 +6,20 @@ level: ""
 title: "بينسوانغر أم بوس؟"
 en: "Who read Heidegger right?"
 crumb: "المدرسة الوجودية ← الخصومات ← قراءة هايدجر"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "بينسوانغر", type: "مفكر"
-  - id: "thk-boss", title: "بوس", type: "مفكر"
-  - id: "br-daseins", title: "التيار", type: "تيار"
+- id: "thk-binswanger", title: "بينسوانغر", type: "مفكر"
+- id: "thk-boss", title: "بوس", type: "مفكر"
+- id: "br-daseins", title: "التيار", type: "تيار"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # بينسوانغر أم بوس؟

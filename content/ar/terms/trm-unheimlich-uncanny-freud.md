@@ -1,0 +1,38 @@
+---
+slug: "trm-unheimlich-uncanny-freud"
+id: "TRM-0023"
+type: "مصطلح لغوي متنازع عليه"
+part: "philosophy"
+level: "متقدم"
+title: "الغريب المألوف (Das Unheimliche): قلق الألفة المسترجعة"
+en: "Translating Das Unheimliche: The Uncanny, the Unhomely, and Dread"
+crumb: "التحليل النفسي ونظرية الأدب ← المصطلحات المتنازع عليها ← الغريب المألوف"
+active_start: null
+active_end: "مستمر"
+edges:
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+---
+
+# الغريب المألوف (Das Unheimliche): قلق الألفة المسترجعة
+
+كتب سيغموند فرويد دراسته الشهيرة «Das Unheimliche» (1919) لتحليل ذلك النوع الخاص من الفزع والقلق الذي ينشأ ليس من المجهول التام، بل مما كان مألوفاً للنفس ثم طرأ عليه الكبت فعاد غريباً ومقلقاً.
+
+## التحليل اللغوي عند فرويد
+
+تتبع فرويد أصل كلمة Heimlich (الأليف، المنزلي، المستور) و Unheimlich (المخيف، الفاضح للمستور)، ليثبت أن الكلمتين تلتقيان في نقطة مشتركة.
+
+## صعوبة الترجمة والتداول
+
+يترجم بالإنجليزية بـ The Uncanny، وفي العربية بـ «الغريب المألوف»، «المريب»، أو «المقلق الباعث على الوحشة».
+
+## الأثر في النقد والفن والروبوتات
+
+أثر المفهوم على دراسات وادي الغرابة (Uncanny Valley) في الروبوتات والذكاء الاصطناعي والأدب الفانتازي.

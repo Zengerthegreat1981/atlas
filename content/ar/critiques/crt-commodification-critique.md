@@ -8,15 +8,20 @@ en: "Commodification Critique: The Wellness Industry and Positive Psychology Ind
 crumb: "النقد الخارجي ← النقد الاقتصادي ← النقد الاقتصادي/التسليعي لـ'صناعة العافية'"
 active_start: 2009
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "علم النفس الإيجابي", target_type: "مدرسة"
-related:  - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي (سليجمان)", type: "تيار"gaps:
+- rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
+related:
+- id: "br-positive-psychology", title: "علم النفس الإيجابي (سليجمان)", type: "تيار"related:
+- id: "crt-adhd-overdiagnosis", title: "ADHD: تشخيص مُفرط", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-burnout-industry", title: "نقد صِنَاعَة الاحتِرَاق الْمِهَنِيّ (Burnout): تَطْبِيب الْفَشَل النِّظَامِيّ", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-self-help-genre", title: "نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْوِيل التِّجَارِيّ لِـ**عِلْم النَّفْس**", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-trauma-informed-care", title: "نقد «الرِّعَايَة الْوَاعِيَة بِالْصَّدْمَة»: تَحَوُّل مَفْهُوم إِلَى شِعَار", type: "نقد خارجي موثَّق"
+gaps:
   - "تفاصيل Ehrenreich (2009) *Bright-Sided* — لا اقتباس."
   - "موقف Cederström & Spicer (2015) من علم النفس الإيجابي — لا اقتباس."
   - "لا اقتباس مباشر موثوق متاح من Seligman ردّ على هذه الانتقادات."
 ---
-
 # النقد الاقتصادي/التسليعي لـ "صناعة العافية" و"صناعة الإيجابية"
 
 نقد من خارج علم النفس السائد، يطعن في افتراض أن **"العافية" (Wellness)** و**"علم النفس الإيجابي"** (Positive Psychology) **مساعدتان** للناس، بل هما **صناعتان** (Industries) ربحيتان تُسوّقان **"التفاؤل"** كمنتج. النتيجة: "كن إيجابياً" = "اشترِ منتجاً" — لا "تحرر".

@@ -10,11 +10,16 @@ dates: "1852 · رودلف هرمان لوتسه"
 active_start: 1852
 active_end: 1852
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
-  - rel: "authored_by", target: "رودلف هرمان لوتسه", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
+- rel: "authored_by", target: "رودلف هرمان لوتسه", target_type: "مفكر"
 related:
-  - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
+- id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب لم يُترجم للإنجليزية كاملة — تحقق من أي ترجمات جزئية متاحة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Lotze في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

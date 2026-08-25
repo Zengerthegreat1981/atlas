@@ -10,10 +10,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1963
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← وليام ريتشاردز"
 edges:
-  - rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
 related:
-  - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "thk-mmithoefer", title: "مايكل ميثوفير", type: "مفكر"
+- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "thk-rmritchie", title: "رالف ميتزner", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

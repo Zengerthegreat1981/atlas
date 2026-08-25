@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← مارجوري راند"
 edges:
-  - rel: "belongs_to", target: "IBP (العلاج التكاملي للجسد)", target_type: "مدرسة"
+- rel: "belongs_to", target: "IBP (العلاج التكاملي للجسد)", target_type: "مدرسة"
 related:
-  - id: "thk-jrosenberg", title: "جاك لي روزنبرغ", type: "مفكر"
+- id: "thk-jrosenberg", title: "جاك لي روزنبرغ", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

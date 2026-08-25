@@ -3,24 +3,27 @@ slug: "thk-moacanin"
 id: "THK-1614"
 type: "مفكر"
 level: "متوسط"
-title: "سلافيكا موكانين"
-en: "Slavica Moacanin"
-crumb: "مدرسة التحليل النفسي ← الناس ← سلافيكا موكانين"
+title: "رادميلا موكانين"
+en: "Radmila Moacanin"
+crumb: "مدرسة التحليل النفسي ← الناس ← رادميلا موكانين"
 dates: "يوغوسلافيا/أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-govinda", title: "لاما أناغاريكا غوفيندا", type: "مفكر"
-  - id: "con-tibetan-tantra", title: "التنترا التبتية", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-govinda", title: "لاما أناغاريكا غوفيندا", type: "مفكر"
+- id: "con-tibetan-tantra", title: "التنترا التبتية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تواريخ ميلادها ووفاتها الدقيقة — غير مؤكدة."
 ---
 
-# سلافيكا موكانين
+# رادميلا موكانين
 
 محلّلة نفسية وعالمة نفس يوغوسلافية–أمريكية، من أهمّ من أجرى «مقارنة منهجية» بين التحليلية والبوذية التبتية في أمريكا.
 

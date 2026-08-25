@@ -8,19 +8,37 @@ en: "Postcolonial Critique of Psychiatry: DSM as 'Imperial Psychiatry'"
 crumb: "النقد الخارجي ← النقد ما بعد الاستعماري ← النقد ما بعد الاستعماري للطب النفسي و DSM"
 active_start: 1977
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
-related:  - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
-  - id: "br-african-centered-psychology", title: "علم النفس الإفريقي المتمركز (نوبلز وأكبر)", type: "تيار"
-  - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
-  - id: "br-decolonizing-therapy", title: "Decolonizing Therapy (دوران، يلو بيرد)", type: "تيار"
-  - id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير (Psicología de la liberación)", type: "عمل"
-  - id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي", type: "جدل"gaps:
+- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
+related:
+- id: "br-african-centered-psychology", title: "علم النفس الإفريقي المتمركز (نوبلز وأكبر)", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
+- id: "br-decolonizing-therapy", title: "Decolonizing Therapy (دوران، يلو بيرد)", type: "تيار"
+- id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير (Psicología de la liberación)", type: "عمل / كتاب"
+- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي", type: "جدل"related:
+- id: "syn-amok", title: "متلازمة أموك (نوبة الهياج الانفجاري والعدوان المفاجئ)", type: "متلازمة"
+- id: "syn-brain-fag", title: "متلازمة الإنهاك الدماغي لدى الطلاب (Brain Fag Syndrome)", type: "متلازمة"
+- id: "syn-dhat", title: "متلازمة ذات (قلق فقدان السائل المنوي في جنوب آسيا)", type: "متلازمة"
+- id: "syn-frigophobia", title: "فوبيا البرد وفقدان طاقة اليانغ (Pa-leng / Frigophobia)", type: "متلازمة"
+- id: "syn-grisi-siknis", title: "متلازمة غريسي سيكنيس (الهستيريا الجماعية لشعب الميسكيتو)", type: "متلازمة"
+- id: "syn-gururumba", title: "متلازمة الرجل البري في غينيا الجديدة (Gururumba Syndrome)", type: "متلازمة"
+- id: "syn-khyal-cap", title: "هجمات الرياح والذعر الفينومينولوجي (Khyal Cap في كمبوديا)", type: "متلازمة"
+- id: "syn-koro", title: "متلازمة كورو (هذاء انكماش الأعضاء التناسلية)", type: "متلازمة"
+- id: "syn-kufungisisa", title: "كوفونجيسيسا (متلازمة التفكير المفرط في ثقافة الشونا بزيمبابوي)", type: "متلازمة"
+- id: "syn-locura", title: "متلازمة لوكورا (الذهان الانفجاري الحاد في أمريكا اللاتينية)", type: "متلازمة"
+- id: "syn-pibloktoq", title: "متلازمة بيبلوكتوك (الهستيريا القطبية لدى شعب الإنويت)", type: "متلازمة"
+- id: "syn-shenjing-shuairuo", title: "الوهن العصبي الصيني (Shenjing Shuairuo)", type: "متلازمة"
+- id: "syn-sinking-heart", title: "متلازمة القلب الغارق (الضيق الوجداني والجسدي في ثقافة البنجاب)", type: "متلازمة"
+- id: "syn-susto", title: "متلازمة سوستو (مرض الفقدان الروحي الناجم عن الفزع في أمريكا اللاتينية)", type: "متلازمة"
+- id: "syn-taijin-kyofusho", title: "متلازمة تايجين كيوفوشو (رهاب إحراج الآخرين وإزعاجهم في الثقافة اليابانية)", type: "متلازمة"
+- id: "syn-wendigo", title: "ذهان الوينديغو (وهم التحول لآكل لحوم البشر في الثقافة الأصلية)", type: "متلازمة"
+- id: "syn-wind-illness-trung-gio", title: "متلازمة ترونغ جيو (ضربة الريح والاعتلال الجسدي في فيتنام)", type: "متلازمة"
+gaps:
   - "تفاصيل تأثير مارتين-بارو (الاغتيال 1989) في صعود 'علم نفس التحرير' — لا مراجعة نصية دقيقة."
   - "موقف Kleinman (1988) في *Rethinking Psychiatry* من التحيّز الثقافي — لا اقتباس مباشر."
   - "لا اقتباس مباشر موثوق متاح من APA ردّ على النقد ما بعد الكولونيالي."
 ---
-
 # النقد ما بعد الاستعماري للطب النفسي: DSM كأداة "للنفسي الإمبراطوري"
 
 نقد من خارج الإطار الطبي النفسي التقليدي، يطعن في افتراض أن **مفاهيم الاضطراب النفسي** (Depressive Disorder، Anxiety، Schizophrenia) **محايدة ثقافياً**، بل إنها **مُنتَجة تاريخياً** في أمريكا الشمالية وأوروبا، ثم **فُرضت** على باقي العالم. النتيجة: DSM ليس "أطلساً محايداً" للاضطرابات، بل **خريطة جيوسياسية** للسلوك المقبول.

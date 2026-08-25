@@ -8,9 +8,12 @@ en: "Sperry & Gazzaniga Split-Brain Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات سبيري وغازانيغا للدماغ المشقوق"
 active_start: 1962
 active_end: 1981
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "stu-gazzaniga-interpreter", title: "وحدة المُفسِّر في النصف الأيسر من الدماغ (غازانيغا)", type: "دراسة وبحث"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "مفهوم 'المفسر في النصف الأيسر' (Left-Hemisphere Interpreter) لغازانيغا يحتاج تفصيلاً نقدياً متكاملاً"
   - "التطورات المعاصرة في التكامل بين النصفين عبر الشبكات الوظيفية الواسعة تتطلب مراجعة من علم الأعصاب الحديث"

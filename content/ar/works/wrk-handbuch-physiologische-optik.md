@@ -10,11 +10,16 @@ dates: "1856–1867 · هرمان فون هلمهولتس"
 active_start: 1856
 active_end: 1867
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
-  - rel: "authored_by", target: "هرمان فون هلمهولتس", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
+- rel: "authored_by", target: "هرمان فون هلمهولتس", target_type: "مفكر"
 related:
-  - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
+- id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب صدر على ثلاث دفعات بين 1856 و1867، تأثير كل دفعة متفاوت — التحقق من حدود الأثر حسب الدفعة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Helmholtz في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

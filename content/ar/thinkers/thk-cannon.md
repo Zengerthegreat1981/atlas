@@ -11,13 +11,14 @@ active_start: 1991
 active_end: 1991
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
-  - id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تطبيقها لمفاهيم 'الوجود والعدم' (المشروع الأصلي، سوء النية، نظرة الآخر) في الممارسة الإكلينيكية المباشرة يحتاج توثيقاً موسعاً."

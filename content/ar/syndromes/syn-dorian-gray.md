@@ -11,10 +11,11 @@ active_start: 2000
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-quasimodo", title: "متلازمة كواسيمودو التاريخية لتشوه الجسد", type: "متلازمة"
 gaps:
   - "أبحاث بروسيك وبروسيوس (Brosig et al. 2000) المستوحاة من رواية أوسكار وايلد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

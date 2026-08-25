@@ -11,10 +11,11 @@ dates: "أوائل القرن العشرين"
 active_start: 1916
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-poetry-therapy", title: "العلاج بالشعر والتعبير الأدبي", type: "تقنية/تدخل علاجي"
+- id: "tec-poetry-therapy", title: "العلاج بالشعر والتعبير الأدبي", type: "تقنية/تدخل علاجي"
 gaps:
   - "المراحل النفسية الثلاث للبيبليوثيرابيا: التماهي (Identification)، التطهير الوجداني (Catharsis)، والاستبصار (Insight)."
   - "التمييز بين البيبليوثيرابيا التنموية الإرشادية والبيبليوثيرابيا الإكلينيكية العلاجية."

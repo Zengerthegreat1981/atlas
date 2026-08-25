@@ -6,12 +6,19 @@ level: "متوسط"
 title: "علاج موريتا والعلاج المعرفي السلوكي: تقاطع حيّ"
 en: "Morita Therapy and CBT: Living Intersection"
 crumb: "أطر غير غربية ← الحوارات ← موريتا × CBT"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
-  - rel: "relates_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-morita-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
-  - id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
+- id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
+- id: "dia-freud-jung-libido-split", title: "حوار فرويد ويونج: طبيعة الليبيدو وتأسيس علم النفس التحليلي", type: "حوار"
 gaps:
   - "الدراسات المقارنة (Tamura، 2000s) لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

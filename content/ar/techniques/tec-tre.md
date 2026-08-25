@@ -11,12 +11,13 @@ dates: "من أواخر التسعينيات"
 active_start: 1999
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "ديفيد بيرسيلي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-jboss", target_type: "مفكر"
 related:
-  - id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التمارين السبعة البسيطة لديفيد بيرسيلي (David Berceli) لإجهاد العضلة الحرقفية القطنية (Psoas Muscle) واستثارة الارتجاف العصبي التلقائي (Neurogenic Tremors)."
   - "تطبيقات TRE الإنسانية المجتمعية في مناطق الكوارث والحروب في أفريقيا والشرق الأوسط."

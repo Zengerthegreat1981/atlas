@@ -9,8 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1933
 active_end: 1957
 country: "النمسا"
-edges: []
-related: []
+part: "philosophy"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "دراسة هارولد بورن في مجلة The Lancet عام 1953 بعنوان 'أسطورة الأنسولين' تتطلب توثيقاً منهجياً"
   - "التجربة العشوائية المنضبطة لـ Ackner et al. (1957) التي أوقفت استخدام الأنسولين في بريطانيا تحتاج تفصيلاً"

@@ -7,16 +7,20 @@ title: "روبرت هينشو"
 en: "Robert Hinshaw"
 crumb: "مدرسة التحليل النفسي ← الناس ← روبرت هينشو"
 dates: "أمريكا / سويسرا · [غير مؤكد]"
-country: "سويسرا"
+country: "الولايات المتحدة / سويسرا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # روبرت هينشو
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-بعد سنوات من العمل مع هيلمان في Spring House (زيورخ، 1970s)، أسّس Daimon Verlag عام 1980، فنشر أعمال فون فرانتس (Aurora Consurgens، Number and Time)، وLiliane Frey-Rohn، وRivkah Kluger، وR. Johnson، وHillman، وM. Stein، وGiegerich. كذلك يعمل محلّلًا في زيورخ، في نفس المبنى C.G. Jung-Haus الذي كان فيه المعهد. كذلك ألقى محاضرات في IAAP (مؤتمرات).
+بعد سنوات من العمل مع هيلمان في Spring House (زيورخ، السبعينيات من القرن العشرين)، أسّس Daimon Verlag عام 1980، فنشر أعمال فون فرانتس (Aurora Consurgens، Number and Time)، وLiliane Frey-Rohn، وRivkah Kluger، وR. Johnson، وHillman، وM. Stein، وGiegerich. كذلك يعمل محلّلًا في زيورخ، في نفس المبنى C.G. Jung-Haus الذي كان فيه المعهد. كذلك ألقى محاضرات في IAAP (مؤتمرات).
 
 ## موقعه من التيار
 

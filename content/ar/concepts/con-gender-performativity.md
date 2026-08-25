@@ -10,10 +10,13 @@ crumb: "النسوية الفلسفية ← النسوية الفرنسية (م�
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفرنسية (ما بعد البنيوية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
-  - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-  - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
+- id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النص التأسيسي Gender Trouble (Butler 1990) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

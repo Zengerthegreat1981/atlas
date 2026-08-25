@@ -9,11 +9,14 @@ crumb: "السلوكية (Behaviorism) ← الناس ← تِتسومي مور�
 dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-nsugiyama", title: "نَأوكو سُوگييامَا", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-nsugiyama", title: "نَأوكو سُوگييامَا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."

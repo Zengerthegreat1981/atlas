@@ -6,13 +6,17 @@ level: "متقدم"
 title: "الممارسات المحورية"
 en: "Focal Practices"
 crumb: "المدرسة الوجودية ← المفاهيم ← الممارسات المحورية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
-  - id: "con-device-paradigm", title: "نموذج الجهاز", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
+- id: "con-device-paradigm", title: "نموذج الجهاز", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-evidence-based-practice", title: "الممارسة المبنية على الأدلة", type: "مفهوم"
 gaps:
   - "النص الأصلي 'Technology and the Character of Contemporary Life' (1984) لألبرت بورغمان يستحق مراجعة من المصدر الأولي."
   - "إمكانية تطبيق الممارسات المحورية على الحياة المعاصرة يستحق أمثلة موسعة."

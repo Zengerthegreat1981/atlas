@@ -8,9 +8,12 @@ en: "Montreal Cognitive Assessment (MoCA)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← تقييم مونتريال الإدراكي MoCA"
 active_start: 2005
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "النسخ المترجمة والمعربة المتعددة والنسخ المخصصة للمكفوفين (MoCA-Blind) تحتاج توثيقاً"
   - "نظام الاعتماد والشهادة الإلزامية للممارسين الذي فرضته مؤسسة MoCA حديثاً يتطلب إشارة تنظيمية"

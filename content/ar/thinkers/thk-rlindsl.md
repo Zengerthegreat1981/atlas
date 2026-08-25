@@ -11,12 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1955
 active_end: 2004
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
-  - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
+- id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
 gaps:
   - "تاريخ الميلاد والوفاة الدقيقان غير متاحين في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-«منحنى الانعكاس لسلوك النقر في الجرذان» (1956) · «مستودع السلوك البشري» (Human Operant Repository) · «التدريس الدقيق» (Precision Teaching, 1964) · «تسجيل الاكتئاب كسلوك إجرائي» (Depression Records, 1960s).
+«منحنى الانعكاس لسلوك النقر في الجرذان» (1956) · «مستودع السلوك البشري» (Human Operant Repository) · «التدريس الدقيق» (Precision Teaching, 1964) · «تسجيل الاكتئاب كسلوك إجرائي» (Depression Records, الستينيات من القرن العشرين).

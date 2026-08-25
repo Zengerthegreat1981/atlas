@@ -11,12 +11,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1978
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
 related:
-  - id: "thk-jmitchell", title: "جوليا ميتشِل", type: "مفكر"
+- id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
 ---
 
 # نانسي تشودوروف

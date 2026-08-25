@@ -8,9 +8,13 @@ en: "Loftus & Pickrell 'Lost in the Mall' False Memory Implantation Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة لوفتوس لزرع الذكريات الزائفة"
 active_start: 1995
 active_end: 1995
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "evt-false-memory-syndrome-foundation-1992", title: "تأسيس مؤسسة متلازمة الذاكرة الزائفة واندلاع حروب الذاكرة في التسعينيات", type: "حدث تاريخي"
 gaps:
   - "الجدل الإكلينيكي العنيف حول 'حروب الذاكرة' (Memory Wars) وذكريات الصدمات المكبوتة والمستعادة يحتاج مراجعة شاملة"
   - "الفروق الفردية في القابلية للإيحاء التنويمي والتفكك تتطلب توثيقاً من مقاييس السيكومترية"

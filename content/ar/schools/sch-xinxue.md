@@ -14,10 +14,13 @@ active_start: 1100
 active_end: 1600
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية الجديدة (مظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-  - id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ (وانغ شو رن)", type: "مفكر"
+- id: "thk-lu-jiuyuan", title: "لو جيو يوان", type: "مفكر"
+- id: "con-zhixing-heyi", title: "الوحدة بين المعرفة والفعل (知行合一)", type: "مفهوم"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«البوذية الصينية» (sch-buddhism-chinese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Lu Jiuyuan وWang Yangming الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."

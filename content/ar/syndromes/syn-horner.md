@@ -11,9 +11,9 @@ active_start: 1869
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-wallenberg", title: "متلازمة فالنبرغ", type: "متلازمة"
+- id: "syn-wallenberg", title: "متلازمة فالنبرغ", type: "متلازمة"
 gaps:
   - "أبحاث يوهان فريدريش هورنر (1869) وتلف مسار الأعصاب السمبثاوية إلى العين والوجه."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,10 +10,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1994
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← سونيا ليوبوميرسكي"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإيجابي (Seligman)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "مدرسة"
 related:
-  - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,12 +13,13 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الماركسية الغربية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "البنيوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-western-marxism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-structuralism", target_type: "مدرسة"
 related:
-  - id: "sch-structuralism", title: "البنيوية", type: "مدرسة"
-  - id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
-  - id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
+- id: "sch-structuralism", title: "البنيوية", type: "مدرسة"
+- id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
+- id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
+- id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
 gaps:
   - "انقسام ألتوسِّر المتأخر (اعترافه بخطأ استعماله مفاهيم لاكان في عمله المبكر) يحتاج مراجعة دقيقة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

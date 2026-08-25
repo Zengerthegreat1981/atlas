@@ -11,10 +11,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1978
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج البيني-الشخصي (IPT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بين الأشخاص (IPT)", target_type: "مدرسة"
 related:
-  - id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
+- id: "thk-jmarkowitz", title: "جيمس ماركويتز", type: "مفكر"
+- id: "con-ipt-problem-areas", title: "المشاكل الأربعة في العلاج بين الأشخاص (IPT): الفجيعة، الخلافات الأدائية، التحولات الأدائية، والعجز الأدائي", type: "مفهوم"
+- id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
+- id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
+- id: "thk-alemma", title: "أليساندرا لِمّا", type: "مفكر"
 gaps:
   - "المساهمات اللاحقة بعد 2015 لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

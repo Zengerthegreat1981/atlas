@@ -13,13 +13,15 @@ language: "متعددة"
 active_start: 1968
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الأناركية الكلاسيكية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-anarchism", target_type: "مدرسة"
 related:
-  - id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
-  - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
-  - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
+- id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "dbt-anarchism-vs-state", title: "جدل الفوضوية مع الدولة: هل يمكن الاستغناء عن الدولة؟", type: "جدل"
 gaps:
   - "نصوص Noam Chomsky, David Graeber, John Holloway, Peter Gelderloos تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفوضوية المعاصرة (Contemporary Anarchism)

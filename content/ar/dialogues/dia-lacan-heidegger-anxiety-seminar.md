@@ -6,15 +6,19 @@ level: "متقدم"
 title: "سيمينار لاكان العاشر حول القلق: حوار خفي مع هايدجر"
 en: "Lacan's Seminar X on Anxiety: A Hidden Dialogue with Heidegger"
 crumb: "المدرسة الوجودية ← الحوارات مع المدارس المجاورة ← لاكان-هايدجر والقلق"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+
 gaps:
   - "سيمينار لاكان العاشر (1962-1963) حول القلق يحتاج مراجعة من المصدر الأولي للتفاصيل."
   - "هل ترجم لاكان مقال هايدجر 'اللوغوس' بنصه الفرنسي أو بترجمة وسيطة؟ يحتاج التحقق."

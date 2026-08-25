@@ -8,12 +8,18 @@ en: "Cross-cultural Meditation Therapy"
 crumb: "أطر غير غربية ← المفاهيم ← التأمل العلاجي"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج التأملي (Contemplative Psychotherapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج التأملي (Contemplative Psychotherapy)", target_type: "مدرسة"
 related:
-  - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
+- id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # التأمل العلاجي عبر-الثقافي

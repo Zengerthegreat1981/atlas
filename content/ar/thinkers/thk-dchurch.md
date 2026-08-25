@@ -10,13 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← داوسون تشيرش"
 edges:
-  - rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
 related:
-  - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
+- id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
+- id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كولين غاريت (thk-cgarrett)."
 ---
 
 # داوسون تشيرش
@@ -27,7 +31,7 @@ gaps:
 
 - **"أبحاث EFT"**: دراسات تجريبية على أثر تقنية EFT على الإجهاد والقلق.
 - **"علم نفس الطاقة"** (Energy Psychology, 2008): كتاب شامل عن الحقل.
-- **"العلاج الوراثي"** (Epigenetics Therapy): تكامل بين علم نفس الطاقة وعلم التخلّق.
+- **علم التخلّق والسلوك** (Epigenetics): محاولة الربط بين علم نفس الطاقة وتعبير الجينات.
 - **"فحص الهرمونات"**: دراسات حول أثر تقنيات TFT على مستويات الكورتيزول.
 
 ## موقعه من التيار

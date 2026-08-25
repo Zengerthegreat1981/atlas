@@ -11,16 +11,19 @@ icd11_code: "6D50"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-  - id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
+- id: "syn-ganser", title: "متلازمة غانسر (متلازمة الإجابات التقريبية وعته السجون)", type: "متلازمة"
+- id: "syn-munchausen-by-internet", title: "متلازمة مونخهاوزن عبر الإنترنت (افتعال الأمراض الرقمي)", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (3 specifiers: self, on another, self + another) لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6D50) لم تُراجع تفصيلياً."
@@ -111,3 +114,7 @@ Factitious Disorder **من أصعب الاضطرابات في العلاج** ل�
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Bass, C., & Halligan, P. W. (2014). "Factitious Disorders and Malingering: Challenges for Clinical Assessment and Management." *Lancet*.
 - Feldman, M. D. (2004). *Playing Sick?: Untangling the Web of Munchausen Syndrome, Munchausen by Proxy, and Factitious Disorder*. Routledge.
+
+## التطور التاريخي في DSM
+
+كان يُصنف في ملحق أبحاث DSM-IV باسم «الاضطراب المفتعل بالوكالة»؛ وأُعيدت تسميته وهيكلته في DSM-5 تحت مسمى رسمي هو «الاضطراب المفتعل المفروض على شخص آخر» (Factitious Disorder Imposed on Another) لتمييزه عن إساءة معاملة الأطفال الجنائية.

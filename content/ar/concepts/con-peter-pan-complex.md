@@ -11,11 +11,12 @@ crumb: "علم النفس الشعبي ← المفاهيم ← عقدة / مت�
 active_start: 1983
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي", target_type: "مدرسة"
 related:
-  - id: "wrk-peter-pan-syndrome", title: "متلازمة بيتر بان", type: "عمل / كتاب"
-  - id: "thk-dan-kiley", title: "دان كايلي", type: "مفكر"
-  - id: "con-cinderella-complex", title: "عقدة سندريلا", type: "مفهوم"
+- id: "wrk-peter-pan-syndrome", title: "متلازمة بيتر بان", type: "عمل / كتاب"
+- id: "thk-dan-kiley", title: "دان كايلي", type: "مفكر"
+- id: "con-cinderella-complex", title: "عقدة سندريلا", type: "مفهوم"
+- id: "syn-parasite-single", title: "متلازمة العزاب الطفيليين (التبعية الأسرية والهروب من الزواج)", type: "متلازمة"
 gaps:
   - "التمييز بين المفهوم الشعبي ونمط الشخصية الاعتمادية أو النرجسية في DSM-5."
   - "لا يوجد اقتباس مباشر موثوق متاح."

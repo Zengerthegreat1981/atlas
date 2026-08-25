@@ -10,14 +10,16 @@ dates: "1961 · كارل روجرز"
 language: "الإنجليزية"
 active_start: 1961
 active_end: 1961
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
-  - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
-  - id: "con-fully-functioning-person", title: "الشخصية العاملة بكامل طاقتها", type: "مفهوم"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "con-fully-functioning-person", title: "الشخصية العاملة بكامل طاقتها", type: "مفهوم"
+- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل (Client-Centered Therapy)", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الكاملة لتأثير الكتاب في تطور العلاج النفسي الإنساني لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

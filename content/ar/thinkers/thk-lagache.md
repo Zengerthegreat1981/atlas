@@ -11,12 +11,13 @@ active_start: 1934
 active_end: 1955
 country: "فرنسا"
 language: "الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه التأسيسي حول الغيرة المرضية والفينومينولوجيا السريرية يحتاج توثيقاً أعمق."

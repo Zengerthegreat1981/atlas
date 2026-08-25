@@ -8,9 +8,11 @@ en: "Darley & Latané Bystander Intervention and Diffusion of Responsibility Stu
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات تأثير المتفرج لدارلي ولاتانيه"
 active_start: 1968
 active_end: 1970
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "إعادة فحص قضية كيتي جينوفيز تاريخياً كشفت مبالغات صحفية في عدد الشهود السلبيين تتطلب توثيقاً دقيقاً"
   - "تأثير وجود كاميرات المراقبة والهواتف الذكية في الحوادث المعاصرة يضيف متغيراً تقنياً جديداً"

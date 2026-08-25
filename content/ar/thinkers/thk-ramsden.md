@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رينيه ر�
 dates: "جنوب أفريقيا · [غير مؤكد]"
 country: "جنوب أفريقيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
-  - id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
+- id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "سيرة محدودة في المصادر المتاحة."

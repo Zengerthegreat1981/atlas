@@ -11,10 +11,15 @@ dates: "مانيلا · السبعينيات"
 active_start: 1975
 active_end: "مستمر"
 language: "الفلبينية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي", type: "تيار"
+- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 gaps:
   - "تأسيس فيرجيليو إنريكيز (Virgilio Enriquez) لعلم النفس المتجذر في الثقافة واللغة الفلبينية ومفهوم كابوا (Kapwa: الهوية المشتركة / الآخر كذات ممتدة)."
   - "مناهج البحث السلوكية الإثنوغرافية الأصيلة (Pakikipagkuwentuhan / تبادل الحكايات، وPakiramdam / الحدس الحسي المشترك)."

@@ -9,13 +9,14 @@ crumb: "الاضطرابات والحالات الإكلينيكية ← الت�
 active_start: 1952
 active_end: 1994
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
 related:
-  - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
-  - id: "evt-dsm-4-publication-1994", title: "نشر الدليل التشخيصي والإحصائي الرابع DSM-IV", type: "حدث تاريخي"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-dsm-4-publication-1994", title: "نشر الدليل التشخيصي والإحصائي الرابع DSM-IV", type: "حدث تاريخي"
 gaps:
   - "تاريخ استخدام المفهوم في الطب النفسي العسكري للجيش الأمريكي أثناء الحرب العالمية الثانية يحتاج تفصيلاً توثيقياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

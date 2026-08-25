@@ -13,9 +13,10 @@ language: "العربية، العبرية"
 active_start: 750
 active_end: 1240
 edges:
-  - rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
 related:
-  - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "thk-isaac-blind", title: "إسحاق العميان (إسحاق بن سليمان الإسرائيلي)", type: "مفكر"
 gaps:
   - "نصوص عنان بن داود ويوسف البصيري بالعربية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'كتاب المناظرات' أو 'كتاب الأصول'."

@@ -8,16 +8,19 @@ en: "Neurodiversity-Affirming Counseling"
 crumb: "الجنس والهوية ← الإرشاد الخاص بالتنوع العصبي ← المفهوم"
 active_start: 2010
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-neurodiversity-affirming", target_type: "تيار"
+- rel: "belongs_to", target: "br-neurodiversity-affirming", target_type: "تيار"
 related:
-  - id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
-  - id: "br-neurodiversity-affirming", title: "الإرشاد التأكيدي للتنوّع العصبي", type: "مفهوم"
+- id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
+- id: "br-neurodiversity-affirming", title: "الإرشاد التأكيدي للتنوّع العصبي", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "نسبة الفكرة إلى Judy Singer (1998) أو Harvey Blume تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # الإرشاد المؤيد للتنوع العصبي (Neurodiversity-Affirming Counseling)
 
 مقاربة علاجية تنطلق من مبدأ أن التنوع العصبي (Neurodiversity) اختلاف طبيعي في بنية الدماغ ووظيفته، وليس «اضطراباً» يستوجب «العلاج». تشمل الاختلافات المشمولة: التوحد، ADHD، عسر القراءة، عسر الكتابة، اضطرابات المعالجة الحسية، وغيرها.

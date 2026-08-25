@@ -14,11 +14,14 @@ active_start: 1730
 active_end: 1882
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الشنتو (مظلة)", target_type: "مظلة"
-  - rel: "split_into", target: "كوكوغاكو", target_type: "مدرسة"
+- rel: "belongs_to", target: "الشنتو (مظلة)", target_type: "مظلة"
+- rel: "split_into", target: "sch-kokugaku", target_type: "مدرسة"
 related:
-  - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-kokugaku", title: "كوكوغاكو (الدراسات الوطنية اليابانية)", type: "مدرسة"
+- id: "sch-kogaku", title: "كوغاكو (التعلم القديم / الكونفوشية اليابانية)", type: "مدرسة"
+- id: "sch-shingaku", title: "شينغاكو (تعلم القلب الياباني)", type: "مدرسة"
+- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 gaps:
   - "التمييز بين 'بروتو-شنتو' و'شنتو المؤسسي' و'ريوبي شنتو' يختلف بين المراجع اليابانية والغربية."
   - "لا اقتباس مباشر موثّق باليابانية متاح في هذه المسودة."

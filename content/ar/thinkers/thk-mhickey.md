@@ -11,8 +11,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "CBCT (العلاج الزوجي المعرفي-السلوكي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "CBCT (العلاج الزوجي المعرفي-السلوكي)", target_type: "مدرسة"
+related:
+- id: "thk-ahalford", title: "و. كيم هالفورد", type: "مفكر"
+- id: "thk-nbepstein", title: "نورمان إبستين", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

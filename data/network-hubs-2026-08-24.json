@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "sch-psychoanalysis",
+    "title": "التحليل النفسي (Psychoanalysis)",
+    "type": "مدرسة",
+    "out_degree": 1737,
+    "in_degree": 1569,
+    "total_degree": 3306
+  },
+  {
+    "slug": "sch-existential-therapy",
+    "title": "الوجودية العلاجية (Existential Therapy)",
+    "type": "مدرسة",
+    "out_degree": 1598,
+    "in_degree": 1435,
+    "total_degree": 3033
+  },
+  {
+    "slug": "sch-cognitive-behavioral",
+    "title": "العلاج المعرفي السلوكي (CBT)",
+    "type": "مدرسة",
+    "out_degree": 1534,
+    "in_degree": 1471,
+    "total_degree": 3005
+  },
+  {
+    "slug": "con-set-and-setting",
+    "title": "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة",
+    "type": "مفهوم",
+    "out_degree": 5,
+    "in_degree": 675,
+    "total_degree": 680
+  },
+  {
+    "slug": "con-res-cogitans-res-extensa",
+    "title": "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)",
+    "type": "مفهوم",
+    "out_degree": 5,
+    "in_degree": 675,
+    "total_degree": 680
+  },
+  {
+    "slug": "wrk-men-are-from-mars",
+    "title": "الرجال من المريخ والنساء من الزهرة",
+    "type": "عمل / كتاب",
+    "out_degree": 5,
+    "in_degree": 534,
+    "total_degree": 539
+  },
+  {
+    "slug": "wrk-12-rules-for-life",
+    "title": "12 قاعدة للحياة: ترياق للفوضى",
+    "type": "عمل / كتاب",
+    "out_degree": 5,
+    "in_degree": 534,
+    "total_degree": 539
+  },
+  {
+    "slug": "wrk-design-everyday-things",
+    "title": "تصميم الأشياء اليومية",
+    "type": "عمل / كتاب",
+    "out_degree": 5,
+    "in_degree": 251,
+    "total_degree": 256
+  },
+  {
+    "slug": "sch-humanistic",
+    "title": "علم النفس الإنساني (Humanistic Psychology)",
+    "type": "مدرسة",
+    "out_degree": 110,
+    "in_degree": 110,
+    "total_degree": 220
+  },
+  {
+    "slug": "con-voluntarism-divine-will",
+    "title": "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)",
+    "type": "مفهوم",
+    "out_degree": 5,
+    "in_degree": 202,
+    "total_degree": 207
+  },
+  {
+    "slug": "sch-positive-psychology",
+    "title": "علم النفس الإيجابي (Positive Psychology)",
+    "type": "مدرسة",
+    "out_degree": 100,
+    "in_degree": 105,
+    "total_degree": 205
+  },
+  {
+    "slug": "con-authenticity",
+    "title": "الأصالة",
+    "type": "مفهوم",
+    "out_degree": 40,
+    "in_degree": 159,
+    "total_degree": 199
+  },
+  {
+    "slug": "thk-heidegger",
+    "title": "مارتن هايدجر",
+    "type": "مفكر",
+    "out_degree": 65,
+    "in_degree": 129,
+    "total_degree": 194
+  },
+  {
+    "slug": "thk-jung",
+    "title": "كارل غوستاف يونغ",
+    "type": "مفكر",
+    "out_degree": 14,
+    "in_degree": 176,
+    "total_degree": 190
+  },
+  {
+    "slug": "thk-freud",
+    "title": "سيغموند فرويد",
+    "type": "مفكر",
+    "out_degree": 33,
+    "in_degree": 151,
+    "total_degree": 184
+  },
+  {
+    "slug": "br-relational-cultural",
+    "title": "النظرية العلائقية الثقافية النسوية",
+    "type": "تيار",
+    "out_degree": 5,
+    "in_degree": 152,
+    "total_degree": 157
+  },
+  {
+    "slug": "br-recovered-memory-movement",
+    "title": "حركة الذاكرة المُستعادة العلاجية",
+    "type": "تيار",
+    "out_degree": 5,
+    "in_degree": 148,
+    "total_degree": 153
+  },
+  {
+    "slug": "dbt-mao-maoism-vs-deng-ism",
+    "title": "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟",
+    "type": "جدل",
+    "out_degree": 5,
+    "in_degree": 130,
+    "total_degree": 135
+  },
+  {
+    "slug": "dbt-feminist-essentialism-vs-constructionism",
+    "title": "جدل الجوهرية مقابل البنائية في النسوية",
+    "type": "جدل",
+    "out_degree": 5,
+    "in_degree": 130,
+    "total_degree": 135
+  },
+  {
+    "slug": "thk-sartre",
+    "title": "جان بول سارتر",
+    "type": "مفكر",
+    "out_degree": 47,
+    "in_degree": 83,
+    "total_degree": 130
+  }
+]

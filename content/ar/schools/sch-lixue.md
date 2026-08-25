@@ -14,10 +14,13 @@ active_start: 1000
 active_end: 1300
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية الجديدة (مظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-  - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "thk-cheng-yi", title: "تشنغ يي", type: "مفكر"
+- id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
+- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«البوذية الصينية» (sch-buddhism-chinese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Cheng Yi وZhu Xi الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."

@@ -13,10 +13,14 @@ language: "الألمانية (لاحقاً الإنجليزية، العبري�
 active_start: 1810
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "هَسْكَلاة (التنوير اليهودي)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-haskalah", target_type: "مدرسة"
 related:
-  - id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "thk-abraham-geiger", title: "أبراهام جيغر", type: "مفكر"
+- id: "con-tzimtzum", title: "القبض الإلهي (تيمتسوم)", type: "مفهوم"
+- id: "con-prophetic-philosophy", title: "الفلسفة النبوية (نقد العقل الفلسفي لصالح الوحي)", type: "مفهوم"
+- id: "con-melammu", title: "ميلمو (البهاء الإلهي)", type: "مفهوم"
 gaps:
   - "نصوص أبراهام جايجر وصموئيل هولدهايم بالألمانية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Wissenschaft des Judentums' أو 'Pittsburgh Platform'."

@@ -8,16 +8,19 @@ en: "Rat Park Experiment"
 crumb: "مدارس نادرة/متفرقة ← النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن ← Rat Park"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-abstinence-vs-harm-reduction", target_type: "تيار"
+- rel: "belongs_to", target: "br-abstinence-vs-harm-reduction", target_type: "تيار"
 related:
-  - id: "thk-falexander", title: "بروس ألكسندر", type: "مفكر"
-  - id: "br-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "مفهوم"
+- id: "thk-falexander", title: "بروس ألكسندر", type: "مفكر"
+- id: "br-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تفاصيل تجربة Rat Park (1977-1981) تستحق توثيقاً منهجياً (مُنشورة في Pharmacology Biochemistry and Behavior 1978، ثم أعيد تفسيرها في 2010)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # تجربة Rat Park
 
 تجربة شهيرة أجراها بروس ألكسندر (Bruce K. Alexander) في جامعة سايمون فريزر (Simon Fraser University) في كندا، بين 1977 و1981، ونُشرت نتائجها في *Pharmacology, Biochemistry and Behavior* (1978). كانت تجربة رائدة في نقاش **النموذج الاجتماعي للإدمان** مقابل النموذج الطبي.

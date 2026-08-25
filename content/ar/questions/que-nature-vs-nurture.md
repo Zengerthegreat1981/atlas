@@ -1,20 +1,26 @@
 ---
 slug: "que-nature-vs-nurture"
 id: "QUE-0003"
-type: "سؤال مولِّد"
+type: "سؤال توليدي"
 level: "مبتدئ"
 title: "ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟"
 en: "Nature vs. Nurture: What Shapes Human Behavior and Personality?"
 crumb: "علم النفس العام والنمائي ← الأسئلة المولِّدة ← الفطرة أم التنشئة"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس العام والنمائي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس العام والنمائي", target_type: "مدرسة"
 related:
-  - id: "dbt-psychology-replication-crisis", title: "أزمة التكرار في علم النفس", type: "جدل"
+- id: "thk-steven-pinker", title: "ستيفن بينكر", type: "مفكر"
+- id: "con-tawakkul", title: "التوكل (Tawakkul)", type: "مفهوم"
+- id: "con-taqwa", title: "التقوى (Taqwa)", type: "مفهوم"
+- id: "dbt-psychology-replication-crisis", title: "أزمة التكرار في علم النفس", type: "جدل"
+- id: "stu-gibson-walk-visual-cliff", title: "تجربة إلينور جيبسون وريتشارد ووك للجرف البصري وإدراك العمق (1960)", type: "دراسة وبحث"
 gaps:
   - "تطور التفاعل الجيني-البيئي (Epigenetics) يحتاج ربطاً بالدراسات الإكلينيكية المعاصرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟
 
 السؤال التأسيسي الأكثر استمراراً وإثارة للنقاش في تاريخ علم النفس والعلوم الإنسانية، الذي يعمل كنقطة جذب محورية تدور حولها كافة المدارس النظرية دون الوصول إلى إجابة أحادية نهائية.

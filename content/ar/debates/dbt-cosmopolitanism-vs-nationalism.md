@@ -10,10 +10,13 @@ crumb: "الفلسفة السياسية المعاصرة ← جدل الكوزم
 active_start: 1992
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
-  - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
-  - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
+- id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
+- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "النصوص التأسيسية (Nussbaum 1996, Sen 2009, Miller 2007) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,11 +11,14 @@ active_start: 1958
 active_end: 2000
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الأسري والزوجي الدينامي (br-dynamic-couples-family-therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري والزوجي الدينامي (br-dynamic-couples-family-therapy)", target_type: "مدرسة"
 related:
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ليمن وين

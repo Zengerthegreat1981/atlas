@@ -14,9 +14,10 @@ active_start: -330
 active_end: -285
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "مدرسة الدبلوماسيين (زونغ هنغ جيا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة الدبلوماسيين (Zonghengjia)", target_type: "مدرسة"
 related:
-  - id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (Zonghengjia)", type: "مدرسة"
+- id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (Zonghengjia)", type: "مدرسة"
+- id: "con-hezong", title: "الاستراتيجيات الدبلوماسية (合纵-连横)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«تشانغ يي» (thk-zhang-yi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«غوي غو تزو» (thk-gui-gu-zi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

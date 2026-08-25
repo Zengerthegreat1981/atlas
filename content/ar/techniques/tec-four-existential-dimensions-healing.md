@@ -6,13 +6,16 @@ level: "متقدم"
 title: "الأبعاد الأربعة للشفاء: الجسدي، النفسي، الاجتماعي، الروحي"
 en: "The Four Existential Dimensions of Healing (Leijssen)"
 crumb: "المدرسة الوجودية ← التقنيات ← الأبعاد الأربعة للشفاء"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-felt-sense", title: "الحس الجسدي (Felt Sense)", type: "مفهوم"
+- id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-felt-sense", title: "الحس الجسدي (Felt Sense)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الروحانية» (con-spirituality) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النصوص الأصلية للايسن تستحق مراجعة من المصدر الأولي."

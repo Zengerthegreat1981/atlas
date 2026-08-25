@@ -11,10 +11,13 @@ crumb: "الاقتصاد السلوكي وعلم النفس المعرفي ← �
 active_start: 2004
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
 related:
-  - id: "wrk-paradox-of-choice", title: "مفارقة الاختيار", type: "عمل / كتاب"
-  - id: "thk-barry-schwartz", title: "باري شوارتز", type: "مفكر"
+- id: "wrk-paradox-of-choice", title: "مفارقة الاختيار", type: "عمل / كتاب"
+- id: "thk-barry-schwartz", title: "باري شوارتز", type: "مفكر"
+- id: "stu-iyengar-lepper-jam-study", title: "تجربة شينا إينغار ومارك ليبر لمربى الاختيار وشلل القرار (2000)", type: "دراسة وبحث"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تجربة المربى الشهيرة لشينا إينغار ومارك ليبر (Iyengar & Lepper 2000)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -5,17 +5,19 @@ type: "مفكر"
 level: "متوسط"
 title: "كريس دِنْبَره"
 en: "Chris Denborough"
-crumb: "العلاج السردي ← العمل مع المجتمعات الأصلية ← كريس دينبورن"
+crumb: "العلاج السردي ← العمل مع المجتمعات الأصلية ← كريس دِنْبَره"
 dates: "أستراليا · القرن العشرين–"
 country: "أستراليا"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
-  - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
+- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -38,7 +40,7 @@ gaps:
 ## أهم أعماله
 
 - *Retelling the Stories of Our Lives* (2014).
-- *Working with Aboriginal People* (تحرير، مع دانْبورن ووايت).
+- إصدارات مركز دلويتش في العمل مع مجتمعات السكان الأصليين (تحرير).
 
 ## اقتباسات مختارة
 

@@ -11,13 +11,15 @@ dates: "سياتل · أواخر الثمانينيات والتسعينيات"
 active_start: 1993
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "developed_by", target: "مارشا لينهان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
-  - id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
-  - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
+- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ptsd", title: "العلاج الجدلي السلوكي للصدمة (DBT-PTSD)", type: "تقنية/تدخل علاجي"
 gaps:
   - "النظرية البيولوجية-الاجتماعية (Biosocial Theory) لمارشا لينهان حول الخلل الوظيفي في تنظيم الانفعال والبيئة المبطلة للذات (Invalidating Environment)."
   - "مهارات DBT الأربع: اليقظة الذهنية، تحمل الضيق، تنظيم المشاعر، والفاعلية البينية."

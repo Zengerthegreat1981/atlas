@@ -10,11 +10,15 @@ dates: "1934 · ياكوب مورينو"
 language: "الإنجليزية"
 active_start: 1934
 active_end: 1934
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
 related:
-  - id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
-  - id: "con-catharsis-integration", title: "الكاثارسيس التكاملي", type: "مفهوم"
+- id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
+- id: "con-catharsis-integration", title: "الكاثارسيس التكاملي", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الطبعات اللاحقة (1953، 1978) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

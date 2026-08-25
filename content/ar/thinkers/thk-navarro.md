@@ -9,14 +9,36 @@ crumb: "علم نفس الجسد ← الناس ← أورغون أوروبي �
 dates: "إيطاليا · 1924–2002"
 country: "إيطاليا"
 language: "الإيطالية"
+part: "psychology"
+active_start: null
+active_end: 2002
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-raknes", title: "أولا راكنيس", type: "مفكر"
-  - id: "thk-gferri", title: "جينوفينو فيري", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-raknes", title: "أولا راكنيس", type: "مفكر"
+- id: "thk-gferri", title: "جينوفينو فيري", type: "مفكر"
+- id: "thk-dmarivoet", title: "ديرك ماريڤوت", type: "مفكر"
+- id: "thk-hresneck", title: "هيلين رِسنِك-سانّيس", type: "مفكر"
+- id: "thk-isebastiani", title: "إيفان سيباستياني", type: "مفكر"
+- id: "thk-kelley", title: "تشارلز كيلي", type: "مفكر"
+- id: "thk-kstinshoff", title: "كلاوس شتينشوف", type: "مفكر"
+- id: "thk-mkoemeda", title: "ماريت كويمِدا-لوتز", type: "مفكر"
+- id: "thk-mnascimento", title: "ماي ناسيمينتو", type: "مفكر"
+- id: "thk-theinrich", title: "توماس هاينريش", type: "مفكر"
+- id: "thk-vschroeter", title: "فينسينتيا شرودر", type: "مفكر"
+- id: "thk-wolfe", title: "ثيودور ب. وولف", type: "مفكر"
+- id: "thk-dpierrakos", title: "دورا غوميز بيراكوس", type: "مفكر"
+- id: "thk-meckberg", title: "ماريانا إيكبيرغ", type: "مفكر"
+- id: "thk-mmaley", title: "مايكل مالِه", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريانا إيكبيرغ (thk-meckberg)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل مالِه (thk-mmaley)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دورا غوميز بيراكوس (thk-dpierrakos)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريانا إيكبيرغ (thk-meckberg)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل مالِه (thk-mmaley)."
 ---
 
 # فيديريكو نافارو
@@ -37,4 +59,4 @@ gaps:
 
 ## أهم أعماله
 
-«التحليل النباتي التحليلي للشخصية» (Character-Analytical Vegetotherapy، 1980s) · مساهمات في تأسيس SEOr (1968) · مقالات في المجلات الإيطالية المتخصصة.
+«التحليل النباتي التحليلي للشخصية» (Character-Analytical Vegetotherapy، الثمانينيات من القرن العشرين) · مساهمات في تأسيس SEOr (1968) · مقالات في المجلات الإيطالية المتخصصة.

@@ -14,10 +14,10 @@ active_start: 1949
 active_end: 1995
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية الجديدة الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", target_type: "مدرسة"
 related:
-  - id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
-  - id: "thk-liang-shuming", title: "ليانغ شو مينغ", type: "مفكر"
+- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
+- id: "thk-liang-shuming", title: "ليانغ شو مينغ", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«تانغ جون يي» (thk-tang-junyi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هسو فو غوان» (thk-xu-fuguan) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

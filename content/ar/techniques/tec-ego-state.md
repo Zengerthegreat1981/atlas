@@ -11,11 +11,14 @@ dates: "السبعينيات والثمانينيات"
 active_start: 1979
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-federn", title: "بول فيدرن", type: "مفكر"
+- id: "wrk-berne-games-people-play", title: "ألعاب الناس (Games People Play)", type: "عمل / كتاب"
+- id: "tec-ifs", title: "علاج منظومة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-federn", title: "بول فيدرن", type: "مفكر"
 gaps:
   - "الأصول التحليلية لمفهوم حالات الأنا عند بول فيدرن (Paul Federn) وإيدوارد فيدلر."
   - "الدمج بين علاج حالات الأنا والتنويم الإيحائي وعلاج الصدمات المعقدة واضطرابات التفكك."

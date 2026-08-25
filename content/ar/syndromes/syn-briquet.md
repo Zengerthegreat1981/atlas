@@ -11,10 +11,10 @@ active_start: 1859
 active_end: 1980
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-functional-neurological-symptom", title: "الاضطراب العصبي الوظيفي (التحويلي)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-functional-neurological-symptom", title: "الاضطراب العصبي الوظيفي (التحويلي)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث بول بريكيه (Paul Briquet 1859) ودراسات مجموعة واشنطن/سانت لويس (Guze 1970) في صياغة معايير التشخيص."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -6,20 +6,22 @@ level: "متقدم"
 title: "جيف غرينبرغ"
 en: "Jeff Greenberg"
 crumb: "المدرسة الوجودية ← الناس ← جيف غرينبرغ"
-dates: "أمريكا · معاصر"
+dates: "الولايات المتحدة · 1954–"
 active_start: 2004
 active_end: 2015
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
-  - id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
-  - id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
+- id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
+- id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
+- id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أبحاثه حول وظيفة تقدير الذات كدرع وقائي ضد القلق الوجودي (Self-Esteem as Anxiety Buffer) تستحق إدراجاً."
@@ -39,7 +41,7 @@ gaps:
 
 ## قيد
 
-تخصصه في علم النفس الاجتماعي التجريبي والدراسات المعملية.
+نظرية إدارة الرعب من أوسع النظريات إنتاجاً للتجارب في علم النفس الاجتماعي — مئات الدراسات على «بروز الفناء» (Mortality Salience) — وهي في الوقت نفسه من أبرز ضحايا أزمة التكرار: نشرت مبادرة *Many Labs 4* عام 2019 محاولة تكرار مسبَقة التسجيل في 21 مختبراً، بعضها بإشراف واضعي النظرية أنفسهم، فلم تجد أثراً يُذكر لبروز الفناء على الدفاع عن رؤية العالم. ردّ أصحاب النظرية بأن شروط التنفيذ لم تُستوفَ، والنقاش لم يُحسَم — لكن حجم الأثر المفترض صار موضع شكّ جدّي بعد ثلاثين عاماً من التراكم.
 
 ## أهم أعماله
 

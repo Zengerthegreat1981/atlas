@@ -13,13 +13,15 @@ language: "السنسكريتية، الكانادية"
 active_start: 1200
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فيدانتا", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
 gaps:
   - "نصوص مادهافا (Anuvyākhyāna, Viṣṇu-tattva-viveka) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # دفايتا فيدانتا (Dvaita Vedānta)

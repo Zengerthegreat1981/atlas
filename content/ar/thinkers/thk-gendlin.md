@@ -8,19 +8,25 @@ en: "Eugene Gendlin"
 crumb: "المدرسة الوجودية ← الناس ← يوجين جندلين"
 dates: "النمسا / أمريكا · 1926–2017"
 active_start: 1962
-active_end: 1996
+active_end: 2017
 country: "النمسا / أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
+- id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
+- id: "wrk-focusing", title: "التركيز (Focusing)", type: "عمل / كتاب"
+- id: "tec-four-existential-dimensions-healing", title: "الأبعاد الأربعة للشفاء: الجسدي، النفسي، الاجتماعي، الروحي", type: "تقنية/تدخل علاجي"
+- id: "tec-process-experiential-tasks", title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تقنية التركيز (Focusing) ومفهوم 'الحس المُعاش جسدياً' (Felt Sense) تتطلب إدراجاً في التقنيات (tec-)."
+  - "**ازدواج مؤكَّد**: thk-egendlin يعالج الشخص نفسه (يوجين جيندلين، 1926–2017). الملفّان حيّان معاً بروابط قائمة، والدمج قرار تحريري."
 ---
 
 # يوجين جندلين
@@ -41,4 +47,4 @@ gaps:
 
 ## أهم أعماله
 
-التركيز (Focusing, 1978) · التجربة وخلق المعنى (Experiencing and the Creation of Meaning, 1962) · الفلسفة والتركيز العلاجي (Focusing-Oriented Psychotherapy, 1996).
+الخبرة وخلق المعنى (Experiencing and the Creation of Meaning, 1962) · التركيز (Focusing, 1978) · العلاج الموجَّه بالتركيز (Focusing-Oriented Psychotherapy, 1996) · نموذج العملية (A Process Model, كُتب 1981 ونُشر 1997).

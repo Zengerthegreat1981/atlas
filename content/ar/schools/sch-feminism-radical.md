@@ -13,14 +13,20 @@ language: "الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
-  - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
-  - id: "sch-feminism-marxist", title: "النسوية الماركسية", type: "مدرسة"
-  - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
-  - id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
+- id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
+- id: "sch-feminism-marxist", title: "النسوية الماركسية", type: "مدرسة"
+- id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
+- id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
+- id: "con-patriarchy", title: "النظام الأبوي (البطريركية)", type: "مفهوم"
+- id: "wrk-dialectic-sex", title: "جدلية الجنس (The Dialectic of Sex, 1970)", type: "عمل / كتاب"
+- id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
+- id: "thk-firestone", title: "شولاميث فيرستون", type: "مفكر"
+- id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
 gaps:
   - "نصوص Firestone, Dworkin, MacKinnon, de Beauvoir (المرحلة اللاحقة) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النسوية الراديكالية (Radical Feminism)

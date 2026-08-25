@@ -13,9 +13,11 @@ language: "الإنجليزية"
 active_start: 1955
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الانفعالي ولغة الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الانفعالي ولغة الجسد", target_type: "مدرسة"
 related:
-  - id: "wrk-emotions-revealed", title: "المشاعر المكشوفة", type: "عمل / كتاب"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
+- id: "wrk-emotions-revealed", title: "المشاعر المكشوفة", type: "عمل / كتاب"
+- id: "stu-strack-facial-feedback-pen", title: "تجربة فريتز ستراك للتغذية الراجعة الوجهية وأزمة تكرارها (1988)", type: "دراسة وبحث"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,14 +11,15 @@ dates: "دالاس وزيورخ · منتصف القرن العشرين"
 active_start: 1970
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "جيمس هيلمان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-hillman", target_type: "مفكر"
 related:
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
-  - id: "con-care-for-soul", title: "رعاية النفس", type: "مفهوم"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
+- id: "con-care-for-soul", title: "رعاية النفس", type: "مفهوم"
 gaps:
   - "نقد هيلمان للنزعة العلاجية الطبية (Medicalization of Psyche) يحتاج استشهاداً مباشراً من كتابه 'إعادة تخيل علم النفس' (1975)."
   - "علاقة علم النفس الأركيتايبي بالظاهراتية الوجودية والخيال الشعري تحتاج تحليلاً أعمق."

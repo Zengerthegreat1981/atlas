@@ -13,10 +13,16 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة العقل التحليلية (كمظلة)", target_type: "مظلة"
-  - rel: "split_into", target: "الوظيفية النفسية الآلية", target_type: "مدرسة"
-  - rel: "split_into", target: "الوظيفية المؤقتة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مظلة"
+- rel: "split_into", target: "الوظيفية النفسية الآلية", target_type: "مدرسة"
+- rel: "split_into", target: "الوظيفية المؤقتة", target_type: "مدرسة"
 related:
+- id: "rel-pragmatism-functional-psychology", title: "العلاقة بين البراغماتية الفلسفية والمدرسة الوظيفية في علم النفس", type: "علاقة بين مدرستين"
+- id: "thk-hputnam", title: "هيلاري putnam", type: "مفكر"
+- id: "con-functionalism-mind", title: "الوظيفية في فلسفة العقل", type: "مفهوم"
+- id: "con-functional-contextualism", title: "السياقية الوظيفية", type: "مفهوم"
+- id: "con-body-without-organs", title: "الجسد بلا أعضاء وتدفق الرغبة (Body without Organs)", type: "مفهوم"
+- id: "con-neurosis-historical-framework", title: "العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«هيلاري بوتنام» (thk-putnam) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جيرالد فودور» (thk-fodor) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

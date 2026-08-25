@@ -6,14 +6,26 @@ level: "متوسط"
 title: "المسؤولية"
 en: "Responsibility"
 crumb: "المدرسة الوجودية ← المفاهيم ← المسؤولية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "stu-darley-latane-bystander", title: "دراسات دارلي ولاتانيه حول تأثير المتفرج وتوزيع المسؤولية", type: "دراسة وبحث"
+- id: "stu-good-samaritan-darley-batson", title: "دراسة السامري الصالح لدارلي وباتسون حول ضغط الوقت والمساعدة", type: "دراسة وبحث"
+- id: "stu-hofling-hospital", title: "تجربة هوفلينغ في المستشفى حول طاعة الممرضات", type: "دراسة وبحث"
+- id: "stu-langer-rodin-nursing-home-control", title: "دراسة لانغر ورودين حول التحكم والمسؤولية الشخصية لدى نزلاء دار المسنين", type: "دراسة وبحث"
+- id: "stu-libet-voluntary-action-readiness", title: "تجارب ليبيت حول جهد الاستعداد والوعي بالقرار الإرادي", type: "دراسة وبحث"
+- id: "stu-ringelmann-social-loafing", title: "دراسة رينغلمان عن التراخي الاجتماعي وشد الحبل", type: "دراسة وبحث"
+- id: "stu-walters-social-modeling-inhibition", title: "دراسات والترز وباركي حول النمذجة الاجتماعية وتأثيرها على مقاومة الإغراء", type: "دراسة وبحث"
+- id: "tec-leadership-diamond-koestenbaum", title: "الألماسة القيادية الوجودية (The Leadership Diamond)", type: "تقنية/تدخل علاجي"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # المسؤولية

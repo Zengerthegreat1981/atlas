@@ -11,10 +11,11 @@ active_start: 1988
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-gulf-war", title: "متلازمة حرب الخليج (الاعتلال المناعي العصبي متعدد الأعراض)", type: "متلازمة"
 gaps:
   - "معايير معهد الطب الأمريكي (IOM 2015) ومفهوم التوعك التالي للجهد (PEM)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

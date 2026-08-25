@@ -6,15 +6,19 @@ level: "متوسط"
 title: "العبث"
 en: "The Absurd"
 crumb: "المدرسة الوجودية ← المفاهيم ← العبث"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "met-sisyphus-camus", title: "سيزيف: استعارة العبث والتمرد المستمر", type: "استعارة/مجاز مؤسِّس"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "met-sisyphus-camus", title: "سيزيف: استعارة العبث والتمرد المستمر", type: "استعارة/مجاز مؤسِّس"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 gaps:
   - "لا يوجد بعد أداة قياس (ins-) لمفهوم العبث تحديداً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العبث

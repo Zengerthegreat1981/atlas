@@ -13,13 +13,15 @@ language: "الإنجليزية"
 active_start: 1944
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الليبرالية الكلاسيكية المبكرة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-classical-liberalism-early", target_type: "مدرسة"
 related:
-  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
-  - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
+- id: "wrk-anarchy-state-utopia", title: "اللاإكراه، الدولة، واليوتوبيا (Anarchy, State, and Utopia, 1974)", type: "عمل / كتاب"
 gaps:
   - "نصوص Hayek, Mises, Rothbard, Nozick تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الليبرتارية (Libertarianism)

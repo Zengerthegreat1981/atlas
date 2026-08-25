@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فِرنَر �
 dates: "ألمانيا · [غير مؤكد]"
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
-  - id: "thk-dieckmann", title: "هانس ديكمان", type: "مفكر"
+- id: "thk-ttolksdorf", title: "تيودور تولكسدورف", type: "مفكر"
+- id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
+- id: "thk-dieckmann", title: "هانس ديكمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «Handbuch der Religionen: Grundlagen für die Arbeit in Krankenhaus und Gemeinde» (2000s) أجرى أوّل «كتيب لاهوت تحليلي» للأديان الكبرى (المسيحية، الإسلام، اليهودية، البوذية، الهندوسية) بأدوات يونغ، كأداة عملية للعاملين في المستشفيات والدوائر الرعوية. كذلك كتب عن «C.G. Jung و Thomas Merton» — مقارنة بين التحليلية والتصوف الكاثوليكي.
+في «Handbuch der Religionen: Grundlagen für die Arbeit in Krankenhaus und Gemeinde» (العقد الأول من القرن الحادي والعشرين) أجرى أوّل «كتيب لاهوت تحليلي» للأديان الكبرى (المسيحية، الإسلام، اليهودية، البوذية، الهندوسية) بأدوات يونغ، كأداة عملية للعاملين في المستشفيات والدوائر الرعوية. كذلك كتب عن «C.G. Jung و Thomas Merton» — مقارنة بين التحليلية والتصوف الكاثوليكي.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Handbuch der Religionen (2000s).
+Handbuch der Religionen (العقد الأول من القرن الحادي والعشرين).

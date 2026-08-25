@@ -11,11 +11,13 @@ dates: "من الستينيات والسبعينيات"
 active_start: 1966
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس", type: "تقنية/تدخل علاجي"
-  - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
+- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس", type: "تقنية/تدخل علاجي"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
+- id: "con-exposure-habituation", title: "التعود بالتعرض", type: "مفهوم"
 gaps:
   - "دراسات فيكتور ماير (Victor Meyer 1966) وإدنا فوا في علاج الوسواس القهري (OCD)."
   - "الانتقال من نموذج التعود (Habituation Model) إلى نموذج التعلم التثبيطي (Inhibitory Learning Model) في ERP الحديث."

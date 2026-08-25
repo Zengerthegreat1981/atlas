@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ماري إس�
 dates: "بريطانيا / أمريكا · 1888–1971"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1971
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-  - id: "con-anima-animus", title: "الأنيما", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
+- id: "con-anima-animus", title: "الأنيما", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تفاصيل انتقالها من التحليل الفرويدي إلى يونغ (نتيجة تحليل عند Jung شخصياً) — موضع بحث."

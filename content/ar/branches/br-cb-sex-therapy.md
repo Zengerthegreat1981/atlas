@@ -10,10 +10,15 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
 related:
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+
 gaps:
   - "تاريخ تكامل CBT مع Sex Therapy (McCarthy, Wincze) يستحق مصدراً."
   - "الفرق بين CBST و Sex Therapy الكلاسيكي يستحق توثيقاً."

@@ -10,11 +10,16 @@ dates: "1900 · سيغموند فرويد"
 active_start: 1900
 active_end: 1900
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "سيغموند فرويد", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-freud", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "evt-wednesday-psychological-society-1902", title: "تأسيس جمعية الأربعاء النفسية في فيينا", type: "حدث تاريخي"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الطبعات الأولى (1900) بيع منها 600 نسخة فقط في 6 سنوات؛ الانتشار الواسع بدأ من 1906 — التحقق من الأثر التدريجي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Freud في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

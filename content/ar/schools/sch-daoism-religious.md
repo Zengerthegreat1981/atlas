@@ -14,11 +14,14 @@ active_start: 100
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الداووية (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "الداووية (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
-  - id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
+- id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "con-neidan", title: "التاوية الداخلية (内丹 nèidān)", type: "مفهوم"
+- id: "con-zhenren", title: "الرجل الحقيقي (真人 zhēnrén)", type: "مفهوم"
+- id: "wrk-baopuzi", title: "كتاب باو بو تزو (الأب البسيط)", type: "عمل / كتاب"
 gaps:
   - "التفريق بين الطوائف المتأخرة (كوانغ-جي، كومتيران، شينغ-مو) هنا مجرد خطوط عامة."
   - "العلاقة بين الداووية الدينية والبوذية في الصين (استيعاب الأديرة، فكرة الجَرَدة، التانترا) تحتاج تحليلاً أعمق."

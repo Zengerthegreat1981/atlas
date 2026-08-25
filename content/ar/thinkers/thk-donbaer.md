@@ -11,12 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1958
 active_end: 2002
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
-  - id: "thk-rherrnstein", title: "ريتشارد سيرنشتاين", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
+- id: "thk-rherrnstein", title: "ريتشارد سيرنشتاين", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "تفاصيل مسيرته في جامعة Kansas و جامعة Washington — موضع بحث."

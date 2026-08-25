@@ -11,12 +11,13 @@ active_start: 1940
 active_end: 1947
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-plugge", title: "هربرت بلوغه", type: "مفكر"
-  - id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
-  - id: "thk-hartmann", title: "نيكولاي هارتمان", type: "مفكر"
+- id: "thk-plugge", title: "هربرت بلوغه", type: "مفكر"
+- id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
+- id: "thk-hartmann", title: "نيكولاي هارتمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر من مصدر أولي محقق."
   - "مفهومه المركزي «الدائرة التصويرية» (Der Gestaltkreis, 1940) لم يُراجع بعد من نسخة أصلية — الوصف هنا عام من تاريخ الفكر."

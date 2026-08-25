@@ -9,11 +9,19 @@ crumb: "العصبي الحديث والعلاقاتي ← الإدراك الم
 dates: "تشيلي · 1946–2001"
 country: "تشيلي / فرنسا"
 language: "إسبانية / إنجليزية / فرنسية"
+part: "psychology"
+active_start: null
+active_end: 2001
 edges:
-  - rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "مقاربات الإدراك المتجسد", target_type: "تيار"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "تيار"
+- id: "thk-ethompson", title: "إيفان تومسون", type: "مفكر"
+- id: "thk-sgallagher", title: "شون غالاغر", type: "مفكر"
+- id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
+- id: "wrk-embodied-mind", title: "العقل المتجسد: العلوم المعرفية للإنسان والذات والذاتية", type: "عمل / كتاب"
+- id: "wrk-tree-of-knowledge", title: "شجرة المعرفة: الجذور البيولوجية للفهم البشري", type: "عمل / كتاب"
 gaps:
   - "المسار الفكري من autopoiesis إلى neurophenomenology مُعقّد، يستحق مصدراً أوسع."
   - "تأثيره على Therapy الفعلي أقل مباشرة من تأثيره على الفلسفة."

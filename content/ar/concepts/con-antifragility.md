@@ -11,10 +11,13 @@ crumb: "علم النفس المعرفي وفلسفة المخاطر ← الم�
 active_start: 2012
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي وفلسفة المخاطر", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي وفلسفة المخاطر", target_type: "مدرسة"
 related:
-  - id: "wrk-antifragile", title: "ضد الهشاشة", type: "عمل / كتاب"
-  - id: "thk-nassim-taleb", title: "نسيم نيقولا طالب", type: "مفكر"
+- id: "wrk-antifragile", title: "ضد الهشاشة", type: "عمل / كتاب"
+- id: "thk-nassim-taleb", title: "نسيم نيقولا طالب", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تطبيقات المفهوم في علم نفس الصدمات والنمو ما بعد الصدمة (PTG)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

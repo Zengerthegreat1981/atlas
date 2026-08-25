@@ -13,11 +13,12 @@ language: "العربية"
 active_start: 750
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
+- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
-  - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
-  - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
-  - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "thk-ibn-taymiyya", title: "تقي الدين أبو العباس أحمد ابن تيمية", type: "مفكر"
 gaps:
   - "التمييز بين «الأثرية» كمنهج و«الحنبلية» كمذهب فقهي ليس دائماً واضحاً في المصادر القديمة."
   - "لا يوجد اقتباس مباشر موثوق متاح من أحمد بن حنبل نفسه في المسائل العقدية الكبرى."

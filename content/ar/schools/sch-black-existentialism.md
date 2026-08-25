@@ -13,14 +13,15 @@ language: "الإنجليزية"
 active_start: 1952
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-  - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
-  - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
+- id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 gaps:
   - "نصوص Frantz Fanon, Lewis Gordon, Lewis R. Gordon, William Cross، Jimmy Baldwin need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الوجودية السوداء (Black Existentialism)

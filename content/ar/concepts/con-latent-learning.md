@@ -8,11 +8,15 @@ en: "Latent Learning"
 crumb: "المعرفية السلوكية ← المفاهيم ← التعلم الكامن"
 active_start: 1930
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
-  - id: "con-cognitive-map", title: "الخريطة المعرفية", type: "مفهوم"
+- id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
+- id: "con-cognitive-map", title: "الخريطة المعرفية", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "النقاش حول العلاقة بين Latent Learning و Implicit Memory في علم النفس العصبي — موضع تفصيل."

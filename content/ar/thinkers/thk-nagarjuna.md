@@ -12,10 +12,15 @@ language: "السنسكريتية"
 active_start: 180
 active_end: 250
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← ناغارجونا (مؤسس مادهياماكا)"
 edges:
-  - rel: "belongs_to", target: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
+- id: "thk-vasubandhu", title: "فاسوباندو", type: "مفكر"
+- id: "trm-anatta-shunyata-buddhist", title: "الأناتا والشونياتا: اللا-ذات والفراغ الجوهري في البوذية", type: "مصطلح لغوي متنازع عليه"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
+- id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
 gaps:
   - "تأريخ حياة ناغارجونا موضع خلاف واسع (القرن 2 أو 3 م)."
   - "نسبة بعض المؤلفات (مثل Suhṛllekha, Ratnavali) إليه أو لآخرين موضع نقاش."

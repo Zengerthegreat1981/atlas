@@ -11,9 +11,9 @@ active_start: 1861
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه", type: "متلازمة"
+- id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه", type: "متلازمة"
 gaps:
   - "رابط مقترح لـ«اضطرابات التواصل» (dis-communication-disorders) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث بول بروكا (Paul Broca 1861) ودراسة حالة المريض 'تان' (Tan) وتلف التلفيف الجبهي السفلي الأيسر."

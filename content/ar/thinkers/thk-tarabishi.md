@@ -7,18 +7,19 @@ title: "جورج طرابيشي"
 en: "George Tarabishi"
 crumb: "المدرسة الوجودية ← الناس ← جورج طرابيشي"
 dates: "لبنان / سوريا · 1939–2016"
-active_start: 1981
-active_end: 1981
+active_start: 1964
+active_end: 2016
 country: "لبنان / سوريا"
 language: "العربية / الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "ترجماته لعشرات الكتب الوجودية وكتب سارتر وبوفوار وفرويد وهيغل تمثل رصيداً تأسيسياً للمكتبة العربية."

@@ -9,12 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← أوجين دي لا 
 dates: "فرنسا · القرن العشرين"
 country: "فرنسا"
 language: "الفرنسية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "البيانات البيوغرافية الدقيقة (سنة الميلاد والوفاة) وتاريخ الممارسة الإكلينيكية تحتاج مراجعة في الأرشيف الفرنسي."

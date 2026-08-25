@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1981
 active_end: 1981
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والدراسات النسوية", target_type: "مدرسة"
-  - rel: "written_by", target: "كوليت داولينغ", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والدراسات النسوية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-colette-dowling", target_type: "مفكر"
 related:
-  - id: "thk-colette-dowling", title: "كوليت داولينغ", type: "مفكر"
+- id: "con-cinderella-complex", title: "عقدة سندريلا (الخوف الخفي من الاستقلال والاعتمادية)", type: "مفهوم"
+- id: "thk-colette-dowling", title: "كوليت داولينغ", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

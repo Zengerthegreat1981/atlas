@@ -13,12 +13,15 @@ language: "اليديشية، العبرية"
 active_start: 1730
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "القبّالة اللوريانية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "القبّالة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-kabbalah-lurianic", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-kabbalah", target_type: "مدرسة"
 related:
-  - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
-  - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
-  - id: "sch-judaism-existential", title: "الفلسفة اليهودية الوجودية/الحوارية", type: "مدرسة"
+- id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
+- id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
+- id: "sch-judaism-existential", title: "الفلسفة اليهودية الوجودية/الحوارية", type: "مدرسة"
+- id: "thk-baal-shem-tov", title: "إسرائيل بن إليعزر (بعل شيم طوف)", type: "مفكر"
+- id: "con-devekut", title: "الديفيقوت (الالتصاق الإلهي)", type: "مفهوم"
+- id: "con-emunah", title: "الإيمان (إيمونا) كحالة وجودية", type: "مفهوم"
 gaps:
   - "نصوص يعقوب يوسف من بُلنويه وبرزالاف بالعبرية واليديشية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Tanya' أو 'Toldos Yaakov Yosef' في صياغة أصلية."

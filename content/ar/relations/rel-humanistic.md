@@ -6,14 +6,19 @@ level: ""
 title: "الإنساني — القرابة الملتبسة"
 en: "Humanistic psychology"
 crumb: "المدرسة الوجودية ← الجيران ← الإنساني — القرابة الملتبسة"
+part: "bridge"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "neighbour_of", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "neighbour_of", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # الإنساني — القرابة الملتبسة

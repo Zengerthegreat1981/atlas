@@ -4,26 +4,27 @@ id: "THK-1746"
 type: "مفكر"
 part: "philosophy"
 level: "متوسط"
-title: "جيوفاني بيكو della ميراندولا"
+title: "جيوفاني بيكو ديلا ميراندولا"
 en: "Giovanni Pico della Mirandola"
 crumb: "الإنسانية النهضوية ← الشخصيات المؤثرة ← بيكو ديلا ميراندولا"
-dates: "ميراندولا، فلورنسا، روما · 1463–1494"
+dates: "إيطاليا (ميراندولا، فلورنسا) · 1463–1494"
 country: "إيطاليا"
 language: "اللاتينية"
 active_start: 1486
 active_end: 1494
 edges:
-  - rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الأفلاطونية المحدثة في عصر النهضة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الأفلاطونية المحدثة في عصر النهضة", target_type: "مدرسة"
 related:
-  - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
-  - id: "sch-renaissance-neoplatonism", title: "الأفلاطونية المحدثة في عصر النهضة", type: "مدرسة"
+- id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "sch-renaissance-neoplatonism", title: "الأفلاطونية المحدثة في عصر النهضة", type: "مدرسة"
+- id: "ctx-italian-renaissance-humanism", title: "الإنسانوية في عصر النهضة الإيطالية وإحياء التراث الكلاسيكي", type: "سياق/تقليد"
+- id: "ctx-florence-platonic-academy-medici", title: "أكاديمية فلورنسا الأفلاطونية ورعاية آل ميديتشي وميلاد الإنسانوية", type: "سياق/تقليد"
 gaps:
   - "رابط مقترح لـ«مارسيليو فيتشينو» (thk-ficino) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النص الكامل لـ'900 أطروحة' يحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثوق من 'Oratio de Hominis Dignitate' بعد."
 ---
-
 # جيوفاني بيكو ديلا ميراندولا
 
 فيلسوف إنساني إيطالي، صاحب أشهر نص فلسفي في عصر النهضة «خطاب عن كرامة الإنسان» (Oratio de Hominis Dignitate, 1486)، وُلد في أسرة دوقية صغيرة وحاول في شبابه بناء **مذهب توفيقي** يضم كل الفلسفات والديانات المعروفة.

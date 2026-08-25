@@ -10,13 +10,16 @@ country: "سويسرا"
 language: "الألمانية/الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← بيتر غَسَر"
 edges:
-  - rel: "belongs_to", target: "العلاج بمساعدة MDMA (MAPS)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بمساعدة MDMA (MAPS)", target_type: "مدرسة"
 related:
-  - id: "thk-mithoefer", title: "مايكل ميثوفر", type: "مفكر"
+- id: "thk-amithoefer", title: "آن ميثوفير", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل ميثوفر (thk-mithoefer)."
 ---
 
 # بيتر غَسَر

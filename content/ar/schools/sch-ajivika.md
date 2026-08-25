@@ -13,14 +13,15 @@ language: "السنسكريتية، البالي"
 active_start: -500
 active_end: 1400
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
-  - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
-  - id: "sch-charvaka", title: "شارفاكا", type: "مدرسة"
+- id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
+- id: "sch-charvaka", title: "شارفاكا", type: "مدرسة"
 gaps:
   - "نصوص آجيفيكا الأصلية مفقودة — معرفتنا مستمدة من نقد البوذية والجاينية والميليندا (Milindapañha)."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # آجيفيكا (Ājīvika)

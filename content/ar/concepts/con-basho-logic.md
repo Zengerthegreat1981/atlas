@@ -6,14 +6,17 @@ level: "متقدم"
 title: "منطق المكان (Basho)"
 en: "The Logic of Basho / Topos (Nishida)"
 crumb: "المدرسة الوجودية ← المفاهيم ← منطق المكان (نيشيدا)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-nishitani", title: "كيجي نيشيتاني", type: "مفكر"
-  - id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
+- id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-nishitani", title: "كيجي نيشيتاني", type: "مفكر"
+- id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
 gaps:
   - "النص الأصلي 'Logic of Place' (1945) لنيشيدا يحتاج مراجعة من المصدر الأولي."
   - "العلاقة الدقيقة بين Basho و'Da' (البين) عند هايدجر تستحق توثيقاً مستقلاً."

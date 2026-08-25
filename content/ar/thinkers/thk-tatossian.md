@@ -11,14 +11,15 @@ active_start: 1979
 active_end: 1995
 country: "فرنسا"
 language: "الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
-  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه الأساسي في الفينومينولوجيا النفسية المرضية يحتاج إلى مراجعة مقارنة بين نسخته الأصلية وترجماته."

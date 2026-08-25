@@ -6,18 +6,26 @@ level: ""
 title: "هل نطلب أدلة تجريبية؟"
 en: "The evidence fight"
 crumb: "المدرسة الوجودية ← الخصومات ← الأدلة"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "dbt-school-or-attitude", title: "مدرسة أم موقف", type: "جدل"
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "stu-breitbart-mcp-rct", title: "تجربة معشاة لفعالية العلاج المرتكز على المعنى", type: "دراسة وبحث"
+- id: "dbt-school-or-attitude", title: "مدرسة أم موقف", type: "جدل"
+- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "stu-breitbart-mcp-rct", title: "تجربة معشاة لفعالية العلاج المرتكز على المعنى", type: "دراسة وبحث"
+- id: "crt-postmodern-critique", title: "نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي", type: "نقد خارجي موثَّق"
+- id: "crt-research-ethics-historical", title: "نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس", type: "نقد خارجي موثَّق"
+- id: "crt-scientific-critique-transpersonal", title: "نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات: علم زائف؟", type: "نقد خارجي موثَّق"
+- id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
+- id: "rel-integrative-psychoanalysis-common-factors", title: "التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
-
 # هل نطلب أدلة تجريبية؟
 
 أسخن خصومة اليوم، ولها ثمن وجودي بالمعنى الحرفي: بقاء المدرسة داخل الأنظمة الصحية أو خروجها منها.

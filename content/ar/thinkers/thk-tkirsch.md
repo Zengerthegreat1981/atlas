@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← توماس ب.
 dates: "أمريكا · 1936–2017"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 2017
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jkirsch", title: "جيمس كيرش", type: "مفكر"
-  - id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
-  - id: "con-international-jungian", title: "عولمة التحليلية والمؤسسات الدولية", type: "مفهوم"
+- id: "thk-jkirsch", title: "جيمس كيرش", type: "مفكر"
+- id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
+- id: "con-international-jungian", title: "عولمة التحليلية والمؤسسات الدولية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره في إنشاء جمعيات تحليلية في تشيكيا وشرق أوروبا بعد 1989 — موثّق لكن يستحق ملفاً مخصّصاً."

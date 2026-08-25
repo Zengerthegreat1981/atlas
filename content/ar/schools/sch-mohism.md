@@ -14,12 +14,18 @@ active_start: -470
 active_end: -200
 active_source: "lifespan"
 edges:
-  - rel: "evolved_into", target: "مدرسة المنطقيين (Mingjia)", target_type: "مدرسة"
+- rel: "evolved_into", target: "مدرسة المنطقيين (Mingjia)", target_type: "مدرسة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-utilitarianism", title: "النفعية", type: "مدرسة"
-  - id: "con-bian", title: "بيان (辯) — الجدل والتمييز", type: "مفهوم"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-utilitarianism", title: "النفعية", type: "مدرسة"
+- id: "con-bian", title: "بيان (辯) — الجدل والتمييز", type: "مفهوم"
+- id: "con-fate-mohist", title: "نفي القدر في الموهية", type: "مفهوم"
+- id: "con-jianai", title: "جيان آي (兼愛) — الإحسان الشامل", type: "مفهوم"
+- id: "wrk-mozi-text", title: "كتاب مو زي (مو تزو)", type: "عمل / كتاب"
+- id: "thk-mozi", title: "مو زي (مو دي)", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
 gaps:
   - "النصوص الأصلية لمو زي (Mozi) بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الصيني."
   - "تفاصيل التحوّل اللاحق إلى الفرع «المنطقي» (Later Mohists / Canoneers) لم تُحلّل من المصدر الأولي."

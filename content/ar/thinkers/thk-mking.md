@@ -11,11 +11,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Ho'oponopono (هاواي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
+related:
+- id: "thk-msimeona", title: "مورّنا سيميونّا", type: "مفكر"
+- id: "thk-ihewlen", title: "إِهالِيكالا هيو لين", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إِهالِيكالا هيو لين (thk-ihewlen)."
 ---
 
 # ميليسا كينغ

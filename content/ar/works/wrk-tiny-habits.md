@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2019
 active_end: 2019
 edges:
-  - rel: "belongs_to", target: "تصميم السلوك والتقنية الإقناعية", target_type: "مدرسة"
-  - rel: "written_by", target: "بي جيه فوغ", target_type: "مفكر"
+- rel: "belongs_to", target: "تصميم السلوك والتقنية الإقناعية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-bj-fogg", target_type: "مفكر"
 related:
-  - id: "thk-bj-fogg", title: "بي جيه فوغ", type: "مفكر"
+- id: "thk-bj-fogg", title: "بي جيه فوغ", type: "مفكر"
+- id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -5,19 +5,22 @@ type: "مفكر"
 level: "متوسط"
 title: "ر. كارل هانسون"
 en: "R. Karl Hanson"
-crumb: "br-sotp ← التنبؤ بالخطر وتقييم الانتكاسة ← ر. كارل هانسون"
+crumb: "علاج مرتكبي العنف الجنسي (SOTP) ← التنبؤ بالخطر وتقييم الانتكاسة ← ر. كارل هانسون"
 dates: "كندا · القرن العشرين–الواحد والعشرين"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+- rel: "belongs_to", target: "علاج مرتكبي العنف الجنسي (SOTP)", target_type: "تيار"
 related:
-  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "مفكر"
+- id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
+- id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ويليام مارشال (thk-marshall)."
 ---
 
 # ر. كارل هانسون

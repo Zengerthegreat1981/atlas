@@ -10,11 +10,16 @@ dates: "1999 · دانيال سيغل"
 language: "الإنجليزية"
 active_start: 1999
 active_end: 1999
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
-  - rel: "authored_by", target: "دانيال سيغل", target_type: "مفكر"
+- rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
+- rel: "authored_by", target: "دانيال سيغل", target_type: "مفكر"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Guilford Press) والطبعات اللاحقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

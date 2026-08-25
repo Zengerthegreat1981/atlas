@@ -13,14 +13,15 @@ language: "العربية، التركية، الفارسية، الأوردو،
 active_start: 1928
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "العالم الإسلامي: الإصلاح والحداثة", target_type: "مظلة"
+- rel: "belongs_to", target: "العالم الإسلامي: الإصلاح والحداثة", target_type: "مظلة"
 related:
-  - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
-  - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
-  - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
-  - id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
+- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
+- id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
+- id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
 gaps:
   - "نصوص حسن البنا، سيد قطب، مودودي، خميني، طارق رمضان، وهبة الزحيلي need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإسلام السياسي (كتيار فكري) (Political Islam)

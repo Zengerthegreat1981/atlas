@@ -11,14 +11,15 @@ active_start: 1955
 active_end: 1986
 country: "مصر"
 language: "العربية / الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "حواراته ومناظراته مع جان بول سارتر وسيمون دي بوفوار أثناء زيارتهما لمصر (1967) تستحق توثيقاً كحدث فكري."

@@ -9,12 +9,13 @@ crumb: "العلاج الجدلي السلوكي (DBT) ← مهارات تنظي
 active_start: 2015
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
-  - id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-er-dialectical-thinking", title: "التفكير الجدلي (الديالكتيكي)", type: "تقنية/تدخل علاجي"
-  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-dialectical-thinking", title: "التفكير الجدلي (الديالكتيكي)", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "مصدر الإضافة: Linehan، M. M. (2015). DBT Skills Training Handouts and Worksheets, Second Edition. قد يحتاج تحققاً إضافياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

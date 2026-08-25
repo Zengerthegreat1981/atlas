@@ -13,10 +13,10 @@ language: "البولندية ثم الإنجليزية"
 active_start: 1930
 active_end: 1973
 edges:
-  - rel: "belongs_to", target: "فلسفة اللغة المثالية/الشكلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة اللغة المثالية/الشكلية المعاصرة", target_type: "مدرسة"
 related:
-  - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
-  - id: "sch-phil-mathematics", title: "فلسفة الرياضيات التحليلية", type: "مدرسة"
+- id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
+- id: "sch-phil-mathematics", title: "فلسفة الرياضيات التحليلية", type: "مدرسة"
 gaps:
   - "العلاقة بين تارسكي وكرايبكي في 'الدلالة والمونتاجي' لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'مفهوم الحقيقة في اللغات الرسمية' (1933)."

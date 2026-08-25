@@ -11,15 +11,16 @@ active_start: 1990
 active_end: 2013
 language: "الإنجليزية"
 country: "أمريكا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "thk-mendelowitz", title: "روبرت مينديلويتز", type: "مفكر"
-  - id: "thk-krug", title: "أورا كروغ", type: "مفكر"
-  - id: "thk-hoffman", title: "لويس هوفمان", type: "مفكر"
-  - id: "thk-yang", title: "مارك يانغ", type: "مفكر"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-mendelowitz", title: "روبرت مينديلويتز", type: "مفكر"
+- id: "thk-krug", title: "أورا كروغ", type: "مفكر"
+- id: "thk-hoffman", title: "لويس هوفمان", type: "مفكر"
+- id: "thk-yang", title: "مارك يانغ", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "بيانات أعماله — تحتاج تثبيتاً"

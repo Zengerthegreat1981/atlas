@@ -14,11 +14,12 @@ active_start: -600
 active_end: -500
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الداووية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الداووية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
-  - id: "wrk-daodejing", title: "كتاب الطريق والفضيلة (داو ده جينغ)", type: "عمل / كتاب"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
+- id: "wrk-daodejing", title: "كتاب الطريق والفضيلة (داو ده جينغ)", type: "عمل / كتاب"
+- id: "rel-daoism-systemic", title: "الطاوية الفلسفية والعلاج الأسري/النظامي: من وُو-وِي إلى الدائرية", type: "علاقة بين مدرستين"
 gaps:
   - "وجود لاو تزو التاريخي موضع خلاف جذري في الفلسفة الصينية المعاصرة."
   - "تاريخ تأليف 'Dao De Jing' (نحو 400 ق.م؟) محلّ خلاف."

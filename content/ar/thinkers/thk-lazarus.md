@@ -11,11 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "tec-multimodal-therapy", title: "العلاج متعدد الأنماط", type: "تقنية/تدخل علاجي"
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
+- id: "tec-multimodal-therapy", title: "العلاج متعدد الأنماط", type: "تقنية/تدخل علاجي"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
 gaps:
   - "سنة الميلاد والوفاة 1932–2013 موثّقة، لكن لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

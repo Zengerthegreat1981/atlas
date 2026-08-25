@@ -11,10 +11,10 @@ active_start: 2008
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-fomo", title: "متلازمة الخوف من فوات الشيء", type: "متلازمة"
-  - id: "dis-specific-phobia", title: "الرهاب النوعي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-fomo", title: "متلازمة الخوف من فوات الشيء", type: "متلازمة"
+- id: "dis-specific-phobia", title: "الرهاب النوعي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "دراسات هيئة البريد البريطانية (YouGov 2008) ومقاييس النوموفوبيا السيكومترية (NMP-Q)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,11 +11,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2018
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+related:
+- id: "thk-alvinmahrer", title: "ألفين مارر", type: "مفكر"
+- id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
+- id: "thk-margaretbodkin", title: "مارغريت بودكن", type: "مفكر"
+- id: "thk-markwelch", title: "مارك ويلش", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
+  - "سنة الوفاة المدرجة (2018) تخالف ما تذكره مصادر ثانوية عدة (2013)؛ تحتاج حسماً من نعي رسمي قبل التثبيت، وحقل active_end معلَّق على النتيجة نفسها."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بودكن (thk-margaretbodkin)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارك ويلش (thk-markwelch)."
 ---
 
 # يوجين تيلور
@@ -30,12 +39,13 @@ gaps:
 
 ## موقعه من التيار
 
-يتميّز تيلور بدوره **التأريخي** للحقل، حيث يُظهر أن العلاج بالخبرة ليس تقنية حديثة، بل **امتداد لتراث أمريكي عميق** بدأ مع جيمس وميرتون برنس وعالم النفس التشارلز هولت.
+يتميّز تيلور بدوره **التأريخي** للحقل، حيث يُظهر أن العلاج بالخبرة ليس تقنية حديثة، بل **امتداد لتراث أمريكي عميق** بدأ مع وليم جيمس ومورتون برنس وإدوين هولت.
 
 ## أهم أعماله
 
-- *William James on Exceptional Mental States* (1982).
-- *Healing the Soul: William James and the Beginnings of the Transpersonal* (1996).
+- *William James on Exceptional Mental States: The 1896 Lowell Lectures* (1983) — إعادة بنائه لمحاضرات جيمس الضائعة عن الحالات الذهنية الاستثنائية.
+- *William James on Consciousness Beyond the Margin* (1996).
+- *Shadow Culture: Psychology and Spirituality in America* (1999).
 
 ## اقتباسات مختارة
 

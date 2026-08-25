@@ -1,0 +1,28 @@
+---
+slug: "wrk-the-myth-of-sisyphus-camus"
+id: "WRK-0725"
+type: "عمل / كتاب"
+part: "philosophy"
+level: "متقدم"
+title: "أسطورة سيزيف لألبير كامو"
+en: "The Myth of Sisyphus by Albert Camus"
+crumb: "العبثية ← أمهات الأعمال ← أسطورة سيزيف"
+dates: "باريس · 1942 م"
+language: "الفرنسية"
+active_start: 1942
+active_end: 1942
+edges:
+- rel: "belongs_to", target: "sch-absurdism", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+gaps:
+  - "العبارة الافتتاحية: 'هناك مشكلة فلسفية واحدة حقيقية وجادة حقاً: إنها الانتحار'."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# أسطورة سيزيف لألبير كامو
+
+الأثر الفلسفي الأهم في فلسفة العبث؛ يبدأ بمناقشة سؤال الانتحار وجدوى البقاء في عالم بلا غاية محددة مسبقاً، ويستحضر شخصية سيزيف الإغريقي المدان بدحرجة الصخرة إلى قمة الجبل إلى الأبد، خاتماً بعبارته الشهيرة: «يجب أن نتخيل سيزيف سعيداً».

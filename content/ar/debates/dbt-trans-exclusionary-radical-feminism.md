@@ -10,11 +10,13 @@ crumb: "النسوية الفلسفية ← جدل النسوية الراديك
 active_start: 1979
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
-  - id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
-  - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-  - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
+- id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "النصوص التأسيسية (Raymond 1979, Butler 1990, Stryker 2008) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

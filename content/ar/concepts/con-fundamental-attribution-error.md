@@ -11,15 +11,17 @@ crumb: "علم النفس الاجتماعي التجريبي ← المفاهي
 active_start: 1977
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-  - id: "con-self-serving-bias", title: "انحياز خدمة الذات", type: "مفهوم"
-  - id: "stu-ross-fundamental-attribution-error", title: "دراسة روس عن خطأ الإسناد الأساسي", type: "دراسة / تجربة"
+- id: "con-self-serving-bias", title: "انحياز خدمة الذات", type: "مفهوم"
+- id: "stu-ross-fundamental-attribution-error", title: "دراسة روس عن خطأ الإسناد الأساسي", type: "دراسة وبحث"
+- id: "stu-heider-simmel-apparent-behavior", title: "تجربة فريتز هايدر وماريان سيمل للإدراك السببي والاجتماعي (1944)", type: "دراسة وبحث"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "صياغة لي روس (Lee Ross 1977) للمصطلح وتجارب إدوارد جونز وفيكتور هاريس (1967)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # خطأ العزو الأساسي (عزو تصرفات الآخرين لطباعهم وتصرفاتنا للظروف)
 
 انحياز نفسي اجتماعي شهير يميل فيه الناس إلى عزو سلوكيات وأخطاء الآخرين إلى عيوب في شخصياتهم وطباعهم الفطرية ('هو متهور أو أحمق')، بينما يعزون أخطاءهم وتصرفاتهم المماثلة إلى ضغوط الظروف والمواقف البيئية القاهرة ('كنت في عجلة من أمري').

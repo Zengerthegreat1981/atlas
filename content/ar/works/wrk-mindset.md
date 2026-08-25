@@ -11,10 +11,16 @@ dates: "2006 · كارول دويك"
 language: "الإنجليزية"
 active_start: 2006
 active_end: 2006
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "كارول دويك", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-dweck", target_type: "مفكر"
 related:
+- id: "thk-dweck", title: "كارول دويك", type: "مفكر"
+- id: "con-pygmalion-golem-effect", title: "تأثير بيغماليون وتأثير غوليم (النبوءة المحققة لذاتها للتوقعات)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Random House) لم تُراجع من مصدر أولي."
   - "نقد Yeager et al. (2019) لتأثير تدخلات العقلية على الأداء الأكاديمي لم يُراجع من مصدر أولي."

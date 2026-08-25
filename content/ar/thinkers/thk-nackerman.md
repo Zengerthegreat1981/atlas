@@ -11,11 +11,13 @@ country: "الولايات المتحدة (من أصل روسي)"
 language: "الإنجليزية"
 active_start: 1940
 active_end: 1971
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج الديناميكي للأزواج والأسرة", target_type: "تيار"
 related:
-  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-  - id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:
   - "سنة الميلاد والوفاة تقريبية، تستحق توثيقاً."
   - "عمله في Family Mental Health Clinic بمستشفى Mount Sinai يستحق توثيقاً."

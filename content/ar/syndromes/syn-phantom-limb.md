@@ -11,10 +11,10 @@ active_start: 1866
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-cbt-mind-mindfulness-meditation", title: "العلاج المعرفي القائم على اليقظة الذهنية", type: "تقنية/تدخل علاجي"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-cbt-mind-mindfulness-meditation", title: "العلاج المعرفي القائم على اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 gaps:
   - "صياغة سيلاس وير ميتشل (Silas Weir Mitchell 1866) للمصطلح وتجارب صندوق المرآة لفيلايانور راماشاندران."
   - "لا يوجد اقتباس مباشر موثوق متاح."

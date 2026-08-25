@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1969
 active_end: 1969
 edges:
-  - rel: "belongs_to", target: "الطب النفسي وسيكولوجيا الموت والحداد", target_type: "مدرسة"
-  - rel: "written_by", target: "إليزابيث كوبلر-روس", target_type: "مفكر"
+- rel: "belongs_to", target: "الطب النفسي وسيكولوجيا الموت والحداد", target_type: "مدرسة"
+- rel: "written_by", target: "thk-kubler-ross", target_type: "مفكر"
 related:
-  - id: "thk-kubler-ross", title: "إليزابيث كوبلر-روس", type: "مفكر"
+- id: "con-five-stages-of-grief", title: "مراحل الحزن الخمس (نموذج كوبلر–روس DABDA)", type: "مفهوم"
+- id: "thk-kubler-ross", title: "إليزابيث كوبلر-روس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

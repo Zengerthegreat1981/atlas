@@ -6,14 +6,17 @@ level: "مبتدئ"
 title: "تحقيق الذات (Self-Actualization)"
 en: "Self-Actualization"
 crumb: "الإنسانية ← المفاهيم ← تحقيق الذات"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "أبراهام ماسلو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-maslow", target_type: "مفكر"
 related:
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
-  - id: "con-peak-experience", title: "خبرة الذروة", type: "مفهوم"
-  - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "con-peak-experience", title: "خبرة الذروة", type: "مفهوم"
+- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
 gaps:
   - "التمييز بين تحقيق الذات كحالة (State) وكعملية (Process) يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من ماسلو بعد."

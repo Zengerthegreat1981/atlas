@@ -11,12 +11,15 @@ dates: "من 2003"
 active_start: 2003
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-dtacey", title: "ديفيد تاسّي", type: "مفكر"
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-dtacey", title: "ديفيد تاسّي", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "قراءة ديفيد تاسي لعلم نفس الأركيتيب في المجتمعات العلمانية الحديثة."
   - "البحث عن المعنى والروحانية الوجودية خارج المؤسسات الكنسية التقليدية."

@@ -10,11 +10,12 @@ country: "الولايات المتحدة"
 active_start: 1988
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "NLP النظامي", target_type: "مدرسة"
-  - rel: "developed_by", target: "تاد جيمس", target_type: "مفكر"
+- rel: "belongs_to", target: "tec-systemic-nlp-tad-james", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-tjames", target_type: "مفكر"
 related:
-  - id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
+- id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
 gaps:
   - "الإثبات التجريبي المستقل لآليات خط الزمن خارج نطاق أدبيات NLP لم يُوثّق."
   - "العلاقة بين خط الزمن وأساليب العلاج بالتخيل الموجّه (Guided Imagery) في الأدبيات الأكاديمية لم تُقارن."

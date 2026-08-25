@@ -6,15 +6,20 @@ level: "متوسط"
 title: "سوء الإيمان"
 en: "Bad Faith"
 crumb: "المدرسة الوجودية ← المفاهيم ← سوء الإيمان"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-cannon", title: "بيتي كانون", type: "مفكر"
+- id: "thk-gordon", title: "لويس غوردون", type: "مفكر"
+- id: "met-self-as-prison", title: "الذَّات كَسِجْن: استعارة الانْعِزال الدَّاخلي", type: "استعارة/مجاز مؤسِّس"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # سوء الإيمان

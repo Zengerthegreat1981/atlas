@@ -8,9 +8,15 @@ en: "Creative Block"
 crumb: "الجماعية/التعبيرية/الفنية ← المفاهيم ← الانسداد الإبداعي"
 active_start: 1960
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الفنون التعبيرية التعددية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "مدرسة"
 related:
+- id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
+- id: "dbt-creativity-vs-pathology", title: "الإبداع مقابل المرض النفسي: قرابة حقيقية أم خرافة؟", type: "جدل"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الأساس العصبي للانسداد الإبداعي (دور الفص الجبهي، دوائر المكافأة) لم يُوثّق بدقة في الأبحاث."
   - "لا يوجد اقتباس مباشر موثوق متاح."

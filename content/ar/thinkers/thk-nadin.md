@@ -11,11 +11,13 @@ active_start: 1997
 active_end: 2016
 country: "رومانيا / أمريكا"
 language: "الإنجليزية / الرومانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-time", title: "الزمن", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أبحاثه في السيميائيات الوجودية ونظرية الفعل الاستباقي (Anticipation) تحتاج توثيقاً."

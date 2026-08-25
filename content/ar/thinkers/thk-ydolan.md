@@ -11,8 +11,11 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1991
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج القصير المرتكز على الحل (SFBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج القصير المرتكز على الحل (SFBT)", target_type: "مدرسة"
+related:
+- id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -22,7 +25,7 @@ gaps:
 
 عالمة نفس أمريكية، من أهم ممارسي ومدربي **العلاج القصير المرتكز على الحل (SFBT)**، زميلة سابقة في BRIEF Family Therapy Center (لندن).
 
-## ما أعطت
+## ما أعطته
 
 - **«Beyond Brief Counseling: A Solution-Focused Workbook»**.
 - **«Resolving Sexual Abuse: A Solution-Focused Approach»** (1991، مع مور): تطبيق SFBT على الاعتداء الجنسي.

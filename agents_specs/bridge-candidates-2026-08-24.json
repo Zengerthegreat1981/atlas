@@ -1,0 +1,16 @@
+{
+  "description": "Bridge candidates: thinkers who influence a psychology school but are not primarily psychologists/therapists OR systematic philosophers. This list is for human review.",
+  "current_bridge": [
+    "thk-marx (Karl Marx)"
+  ],
+  "candidates": [
+    {
+      "slug": "thk-roland-barthes",
+      "title_ar": "رولان بارت",
+      "en": "Roland Barthes",
+      "justification": "فيلسوف لغة وناقد أثر في العلاج السردي وما بعد البنيوية",
+      "current_part": "philosophy",
+      "recommendation": "reclassify as bridge"
+    }
+  ]
+}

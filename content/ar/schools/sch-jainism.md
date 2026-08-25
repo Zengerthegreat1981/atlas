@@ -13,14 +13,15 @@ language: "السنسكريتية، البراكريت (Magadhi، Ardhamagadhi)"
 active_start: -599
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
-  - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
 gaps:
   - "نصوص Jain Āgamas (Śvētāmbara) وDigambara Tatvārtha Sūtra تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الجاينية الفلسفية

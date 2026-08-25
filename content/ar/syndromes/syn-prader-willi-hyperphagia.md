@@ -11,10 +11,10 @@ active_start: 1956
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث برادر ولابارت وفيلي (1956) والخلل الجيني في الكروموسوم 15 الأبوي (15q11-q13)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,12 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1984
 active_end: 2020
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ناعيم أكبر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
 related:
-  - id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
+- id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
+- id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "هوية الملف: الـslug `thk-wdowling` يشير إلى Na'im Akbar. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # ناعيم أكبر

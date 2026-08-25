@@ -9,12 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← بيتر شولتز"
 dates: "النمسا · معاصر"
 country: "النمسا"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
+- id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "إسهامه في صياغة الدافع الوجودي الأساسي الرابع (المعنى والمستقبل) مع ألفريد لانغله يستحق توثيقاً دقيقاً."

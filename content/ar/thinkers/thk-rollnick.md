@@ -11,12 +11,18 @@ active_start: 1983
 active_end: "مستمر"
 country: "المملكة المتحدة (ويلز)"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "co-developed", target: "المقابلة التحفيزية", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "co-developed", target: "المقابلة التحفيزية (Motivational Interviewing)", target_type: "تيار"
 related:
-  - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
-  - id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
+- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
+- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
+- id: "thk-dabrowski", title: "كازيمير دابروفسكي", type: "مفكر"
+- id: "thk-farrelly", title: "فرانك فاريلي", type: "مفكر"
+- id: "thk-lieberman", title: "ألسي ليبرمان (باتريسيا)", type: "مفكر"
+- id: "con-motivational-spirit", title: "روح المقابلة التحفيزية (MI Spirit)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ الميلاد الدقيق (1950) تقريبي ولم يُراجع من مصدر أولي."

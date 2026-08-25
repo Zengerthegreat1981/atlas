@@ -8,9 +8,11 @@ en: "Temerlin's Diagnostic Suggestion and Prestige Bias Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة تيميرلين للإيحاء التشخيصي"
 active_start: 1968
 active_end: 1968
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تأثير أنظمة الدعم التشخيصي المعتمدة على الذكاء الاصطناعي على تحيز التأكيد الإكلينيكي يحتاج بحثاً معاصراً"
   - "الفروق في التحيز بين الممارسين المبتدئين والمتمرسين تتطلب مراجعة مقارنة"

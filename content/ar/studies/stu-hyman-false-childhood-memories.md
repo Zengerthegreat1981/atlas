@@ -8,9 +8,11 @@ en: "Hyman & Billings False Childhood Memory Implantation Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات هايمان لزرع ذكريات الطفولة"
 active_start: 1995
 active_end: 1998
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "دور التضخم بالتخيل (Imagination Inflation) في تعزيز اليقين الذاتي بالذكريات الزائفة يحتاج مراجعة"
   - "التطبيقات الإكلينيكية في العلاج النفسي لضحايا الإساءات تتطلب موازنة أخلاقية دقيقة"

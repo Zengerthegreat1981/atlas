@@ -12,11 +12,13 @@ language: "الإنجليزية، التاميلية، السنسكريتية"
 active_start: 1918
 active_end: 1961
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)"
 edges:
-  - rel: "belongs_to", target: "نيو-فيدانتا (الفيدانتا الحديثة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "نيو-فيدانتا (الفيدانتا الحديثة)", target_type: "مدرسة"
 related:
-  - id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
-  - id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "التفاصيل الكاملة لتأثيره على ديكنز، راسل، إيروين (مدرسته) تحتاج مراجعة."
   - "لا ترجمة عربية موحدة لـ«Indian Philosophy» و«An Idealist View of Life»."

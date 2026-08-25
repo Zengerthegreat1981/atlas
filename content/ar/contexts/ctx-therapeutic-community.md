@@ -10,13 +10,14 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1946
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الطب النفسي الاجتماعي والمجتمعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الطب النفسي الاجتماعي والمجتمعي", target_type: "مدرسة"
 related:
-  - id: "thk-mjones", title: "ماكسويل جونز", type: "مفكر"
-  - id: "wrk-therapeutic-community", title: "المجتمع العلاجي", type: "عمل / كتاب"
-  - id: "tec-milieu-therapy", title: "العلاج بالبيئة والمجتمع العلاجي", type: "تقنية/تدخل علاجي"
-  - id: "evt-community-mental-health-act-1963", title: "قانون مراكز الصحة النفسية المجتمعية", type: "حدث تاريخي"
+- id: "thk-mjones", title: "ماكسويل جونز", type: "مفكر"
+- id: "wrk-therapeutic-community", title: "المجتمع العلاجي", type: "عمل / كتاب"
+- id: "tec-milieu-therapy", title: "العلاج بالبيئة والمجتمع العلاجي", type: "تقنية/تدخل علاجي"
+- id: "evt-community-mental-health-act-1963", title: "قانون مراكز الصحة النفسية المجتمعية", type: "حدث تاريخي"
 gaps:
   - "الوثائق الأولية لتجربة مستشفى نورثمور ومستشفى هندرسون تحتاج مراجعة أرشيفية مباشرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

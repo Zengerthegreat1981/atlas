@@ -10,13 +10,16 @@ dates: "1941 · إريك فروم"
 language: "الإنجليزية"
 active_start: 1941
 active_end: 1941
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "إريك فروم", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-fromm", target_type: "مفكر"
 related:
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-  - id: "wrk-ethics-ambiguity", title: "أخلاق الغموض", type: "عمل / كتاب"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "wrk-ethics-ambiguity", title: "أخلاق الغموض", type: "عمل / كتاب"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "الطبعات اللاحقة (1960، 1965) وتوسعة الفصل الخامس («اللاوعي الاجتماعي») لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

@@ -8,9 +8,11 @@ en: "Piaget's A-not-B Error and Sensorimotor Object Permanence Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب خطأ A-not-B لبياجيه"
 active_start: 1937
 active_end: 1954
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تفسير أديل دايموند (Adele Diamond, 1985) العصبي المعرفي لنضج الفص الجبهي يحتاج تفصيلاً نقدياً متكاملاً"
   - "دور الذاكرة المكانية وتنافس الأنظمة الحركية في إحداث الخطأ يتطلب استعراضاً لأبحاث Esther Thelen"

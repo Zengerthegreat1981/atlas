@@ -13,10 +13,13 @@ language: "الإنجليزية، السنسكريتية، الفرنسية"
 active_start: 1910
 active_end: 1950
 edges:
-  - rel: "evolved_from", target: "نيو-فيدانتا", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-neo-vedanta", target_type: "مظلة"
 related:
-  - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "con-supramental", title: "ما فوق الذهن (Supramental)", type: "مفهوم"
+- id: "wrk-life-divine", title: "الحياة الإلهية (The Life Divine)", type: "عمل / كتاب"
+- id: "dbt-aurobindo-vs-vivekananda", title: "أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟", type: "جدل"
 gaps:
   - "رابط مقترح لـ«فيفيكاناندا» (sch-vivekananda) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Sri Aurobindo (The Life Divine, Synthesis of Yoga, Savitri) تحتاج مراجعة من المصدر الأولي."

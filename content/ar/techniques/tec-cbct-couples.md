@@ -11,11 +11,12 @@ dates: "الثمانينيات والتسعينيات"
 active_start: 1986
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج دونالد بوكوم وفرانك داتيليو ونورمان إبستين (Baucom, Dattilio, Epstein) في تقييم التشوهات المعرفية الزوجية."
   - "التدريب على مهارات حل المشكلات والتواصل الإيجابي المنظم وتبادل السلوكيات الإيجابية."

@@ -8,9 +8,15 @@ en: "Recovered Memory Controversy"
 crumb: "حركات مثيرة للجدل ← المفاهيم ← الجدل حول الذاكرة المستعادة"
 active_start: 1980
 active_end: 2000
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج بالذاكرة المُستعادة", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالذاكرة المُستعادة", target_type: "مدرسة"
 related:
+- id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
+- id: "con-past-life-regression", title: "استرجاع ذكريات الحياة السابقة", type: "مفهوم"
+- id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
+- id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "الحجم الحقيقي لقضايا الذاكرة المستعادة في المحاكم لم يُوثّق بدقة."
   - "التمييز بين الذاكرة الحقيقية والمُنشأة عبر الإيحاء لم يُحسم علمياً."

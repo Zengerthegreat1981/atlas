@@ -1,0 +1,39 @@
+---
+slug: "con-das-man-the-they"
+id: "CON-0957"
+type: "مفهوم"
+part: "philosophy"
+level: "متقدم"
+title: "الـ 'هم' والثرثرة الزائفة (Das Man / The They)"
+en: "Das Man The They"
+crumb: "المفاهيم الفلسفية الكبرى ← الـ 'هم' والثرثرة الزائفة (Das Man / The They)"
+active_start: 1927
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
+related:
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+gaps:
+  - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# الـ 'هم' والثرثرة الزائفة (Das Man / The They)
+
+حالة الابتذال والامتثالية التي يضيع فيها الفرد صوته الحقيقي ليصبح مثل الجميع.
+
+## الأبعاد المعرفية والأنطولوجية
+
+يمثل هذا المفهوم لبنة تأسيسية في نسقه الفلسفي، حيث يقدم إطاراً تحليلياً لتفسير جوانب محددة من التجربة الإنسانية والوجود والمعرفة.
+
+## التطور والاستعمال في الفلسفة المعاصرة
+
+حظي هذا المفهوم بمراجعات وتطويرات واسعة في المناهج الفلسفية والعلوم الإنسانية المقارنة.
+
+## اقتباسات مختارة
+
+لا يوجد اقتباس مباشر موثوق متاح.

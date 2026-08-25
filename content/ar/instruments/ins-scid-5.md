@@ -9,10 +9,12 @@ en: "Structured Clinical Interview for DSM-5 (SCID-5)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← المقابلة الإكلينيكية المقننة لتشخيص اضطرابات الدليل الخامس"
 active_start: 1985
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي (DSM) مقابل التشخيص الأبعادي (HiTOP / RDoC)", type: "جدل"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تطوير مايكل فيرست وجانيت ويليامز وروبرت سبيتزر (Michael First et al. 2015) للنسختين الإكلينيكية (SCID-5-CV) والبحثية (SCID-5-RV)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

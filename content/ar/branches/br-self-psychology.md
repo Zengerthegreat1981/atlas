@@ -11,15 +11,16 @@ dates: "شيكاغو · السبعينيات"
 active_start: 1971
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "هاينز كوهوت", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-kohut", target_type: "مفكر"
 related:
-  - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
-  - id: "thk-wolf", title: "إرنست وولف", type: "مفكر"
-  - id: "thk-goldberg", title: "أرنولد غولدبرغ", type: "مفكر"
-  - id: "thk-bacal", title: "هوارد باكال", type: "مفكر"
-  - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
+- id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
+- id: "thk-wolf", title: "إرنست وولف", type: "مفكر"
+- id: "thk-goldberg", title: "أرنولد غولدبرغ", type: "مفكر"
+- id: "thk-bacal", title: "هوارد باكال", type: "مفكر"
+- id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
 gaps:
   - "التحول من النموذج التحليلي الكلاسيكي المدفوع بالصراع إلى نموذج العجز النرجسي (Deficit Model) عند كوهوت."
   - "تطور مفاهيم نقلة موضوع الذات (Selfobject Transferences) في المدارس المتأخرة لعلم نفس الذات."

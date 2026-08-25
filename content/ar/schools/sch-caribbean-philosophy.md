@@ -13,13 +13,14 @@ language: "الفرنسية، الكريولية، الإنجليزية"
 active_start: 1969
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
-  - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
-  - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
-  - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
 gaps:
   - "نصوص Édouard Glissant, Patrick Chamoiseau, Raphaël Confiant, Maryse Condé need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة الكاريبي (الهوية والكريولية)

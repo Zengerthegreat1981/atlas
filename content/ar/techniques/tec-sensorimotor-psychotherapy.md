@@ -11,12 +11,16 @@ dates: "كولورادو · الثمانينيات والتسعينيات"
 active_start: 1981
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "بات أوغدن", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-pogden", target_type: "مفكر"
 related:
-  - id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-functional-neurological-symptom", title: "اضطراب الأعراض العصبية الوظيفية (التحويل)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "دمج بات أوغدن (Pat Ogden) لنموذج المعالجة من أسفل لأعلى (Bottom-Up Processing) مع نظرية الارتباط وعلم الأعصاب الإدراكي."
   - "العمل على إشارات الجسد الدقيقة، الوضعيات، والحركات الدفاعية المبتورة (Incomplete Defensive Actions) لتحقيق الاكتمال العصبي."

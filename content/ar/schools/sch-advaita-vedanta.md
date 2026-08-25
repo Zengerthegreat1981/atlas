@@ -13,16 +13,19 @@ language: "السنسكريتية"
 active_start: 700
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فيدانتا", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
-  - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
-  - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
-  - id: "con-atman", title: "آتْمان (النفس الفردية / الذات الحقيقية)", type: "مفهوم"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
+- id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+- id: "con-atman", title: "آتْمان (النفس الفردية / الذات الحقيقية)", type: "مفهوم"
+- id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
+- id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
 gaps:
   - "نصوص شانكارا الأصلية (Upadeśa Sāhasrī, Brahmasūtra Bhāṣya, Bhagavad Gītā Bhāṣya) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أدفايتا فيدانتا (Advaita Vedānta)

@@ -11,16 +11,16 @@ dates: "1982"
 active_start: 1982
 active_end: "مستمر"
 language: "اليابانية/الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
 related:
-  - id: "con-shinrin-yoku", title: "شينرين-يوكو (الاستحمام بالغابة)", type: "مفكر"
+- id: "con-shinrin-yoku", title: "شينرين-يوكو (الاستحمام بالغابة)", type: "مفهوم"
 gaps:
   - "الجمعية الدولية لطب الغابات (International Society of Nature and Forest Medicine) معترفة بها منذ 2017."
   - "تقنية قابلة للتطبيق في 50+ دولة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # العلاج بالغابات (Forest Therapy)
 
 مقاربة علاجية راسخة في علم النفس البيئي والطب الوقائي، تستند إلى فكرة أن قضاء الوقت المنظَّم في الغابات (وليس مجرد المشي فيها) يُحقق فوائد صحية نفسية وجسدية قابلة للقياس.

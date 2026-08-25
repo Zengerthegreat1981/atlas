@@ -6,15 +6,22 @@ level: ""
 title: "الظاهراتية النفسية المرضية — الحليف"
 en: "Phenomenological psychopathology"
 crumb: "المدرسة الوجودية ← الجيران ← الظاهراتية النفسية المرضية — الحليف"
+part: "bridge"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "neighbour_of", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "neighbour_of", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
-  - id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
+- id: "thk-fahrenberg", title: "يوخن فارنبرغ", type: "مفكر"
+- id: "thk-sass", title: "لويس ساس", type: "مفكر"
+- id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
+- id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
+- id: "rel-cft-compassion", title: "العلاج المركّز على التعاطف (CFT) وGilbert: علم النفس البوذي في العيادة", type: "علاقة بين مدرستين"
+- id: "rel-experimental-phenomenology", title: "الظاهراتية التجريبية: من Husserl إلى Giorgi", type: "علاقة بين مدرستين"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # الظاهراتية النفسية المرضية — الحليف

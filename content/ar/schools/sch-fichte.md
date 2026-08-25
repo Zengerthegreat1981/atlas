@@ -14,13 +14,14 @@ active_start: 1794
 active_end: 1814
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مدرسة"
-  - rel: "superseded_by", target: "الشيلنغية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-schelling", target_type: "مدرسة"
 related:
-  - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-  - id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
-  - id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
+- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 gaps:
   - "نظريات فيشتي السياسية (مثل 'الدولة التجارية المغلقة') لم تُراجع بعد من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

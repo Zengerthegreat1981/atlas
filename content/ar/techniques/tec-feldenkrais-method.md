@@ -11,11 +11,12 @@ dates: "منتصف القرن العشرين"
 active_start: 1949
 active_end: "مستمر"
 language: "الإنجليزية / العبرية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "موشيه فيلدنكرايس", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mfeldenkrais", target_type: "مفكر"
 related:
-  - id: "tec-alexander-technique", title: "تقنية ألكسندر للوعي الحركي والوضعية", type: "تقنية/تدخل علاجي"
+- id: "tec-alexander-technique", title: "تقنية ألكسندر للوعي الحركي والوضعية", type: "تقنية/تدخل علاجي"
 gaps:
   - "الشكلان التطبيقيان لموشيه فيلدنكرايس (Moshé Feldenkrais): 'الوعي من خلال الحركة' (ATM: جلسات جماعية موجهة شفهياً) و'التكامل الوظيفي' (FI: جلسات فردية باللمس الحركي)."
   - "استخدام الحركة اللطيفة غير المجهدة كمدخل لإعادة تنظيم الخرائط الدماغية الحركية (Neuroplasticity)."

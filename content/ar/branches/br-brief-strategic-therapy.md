@@ -10,10 +10,15 @@ country: "إيطاليا / الولايات المتحدة (أصل Palo Alto)"
 language: "إنجليزية / إيطالية"
 active_start: 1960
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"
+- id: "thk-rviaro", title: "روبرتو فيارو", type: "مفكر"
+- id: "thk-ashoham", title: "آرثر شوهام", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "tec-prescription-task", title: "الوصفة العلاجية (Task Prescription)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ Palo Alto Group يستحق توثيقاً."
   - "الفرق بين BST وSolution-Focused Brief Therapy يستحق توضيحاً."

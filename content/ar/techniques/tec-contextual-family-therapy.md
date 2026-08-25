@@ -11,10 +11,11 @@ dates: "بنسلفانيا · السبعينيات"
 active_start: 1973
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-bowen-family-systems", title: "علاج الأنساق الأسرية لبوين والتمايز الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-bowen-family-systems", title: "علاج الأنساق الأسرية لبوين والتمايز الذاتي", type: "تقنية/تدخل علاجي"
 gaps:
   - "كتاب إيفان بوسورميني-ناجي (Iván Böszörményi-Nagy) التأسيسي 'الروابط غير المرئية' (Invisible Loyalties, 1973)."
   - "مفاهيم العدالة العلائقية (Relational Ethics)، وسجل الاستحقاق والديون العاطفية (Ledger of Entitlement)، والولاءات المقسمة."

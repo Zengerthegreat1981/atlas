@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← إدوارد �
 dates: "اسكتلندا / بريطانيا · 1888–1972"
 country: "اسكتلندا / بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1972
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أبحاثه حول 'التقنية التحليلية والتحليل النفسي للجريمة والعدوان' تستحق توثيقاً."

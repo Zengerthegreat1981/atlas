@@ -6,14 +6,17 @@ level: "متوسط"
 title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)"
 en: "Dereflection (Logotherapy)"
 crumb: "الإنسانية ← التقنيات ← تقنية المنعطف الوجودي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "فيكتور فرانكل", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-frankl", target_type: "مفكر"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
-  - id: "con-will-to-meaning", title: "الإرادة في المعنى", type: "مفهوم"
-  - id: "tec-paradoxical-intention", title: "النية المتناقضة", type: "تقنية/تدخل علاجي"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
+- id: "con-will-to-meaning", title: "الإرادة في المعنى", type: "مفهوم"
+- id: "tec-paradoxical-intention", title: "النية المتناقضة", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من فرانكل بعد."
   - "التمييز الدقيق بين 'إزالة التوجيه الذاتي' (Dereflection) و'النية المتناقضة' (Paradoxical Intention) يحتاج تحقق."

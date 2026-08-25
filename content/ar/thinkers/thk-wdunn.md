@@ -5,16 +5,17 @@ type: "مفكر"
 level: "متوسط"
 title: "ويني دون"
 en: "Winnie Dunn"
-crumb: "br-sensory-integration ← أنماط المعالجة الحسّية ← ويني دون"
+crumb: "التكامل الحسي ← أنماط المعالجة الحسّية ← ويني دون"
 dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1999
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
+- rel: "belongs_to", target: "التكامل الحسي", target_type: "تيار"
 related:
-  - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

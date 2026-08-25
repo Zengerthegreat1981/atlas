@@ -6,14 +6,17 @@ level: "متوسط"
 title: "حب الذات الزائف مقابل حب الذات الطبيعي"
 en: "Amour-propre vs Amour de soi"
 crumb: "المدرسة الوجودية ← المفاهيم ← حب الذات الزائف مقابل حب الذات الطبيعي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
+- id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
 gaps:
   - "النص الأصلي 'إميل' (Émile, 1762) لروسو يستحق مراجعة من المصدر الأولي للدلالة الدقيقة."
   - "الامتداد المعاصر لثنائية روسو في فلسفة تشارلز تايلور يستحق توثيقاً مستقلاً."

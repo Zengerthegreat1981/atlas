@@ -11,9 +11,10 @@ active_start: 1874
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-broca-aphasia", title: "متلازمة حبسة بروكا", type: "متلازمة"
+- id: "syn-broca-aphasia", title: "متلازمة حبسة بروكا", type: "متلازمة"
+- id: "syn-conduction-aphasia", title: "متلازمة حبسة التوصيل (عجز التكرار اللفظي المباشر)", type: "متلازمة"
 gaps:
   - "رابط مقترح لـ«اضطرابات التواصل» (dis-communication-disorders) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث كارل فيرنيكه (Carl Wernicke 1874) وتلف باحة فيرنيكه في التلفيف الصدغي العلوي الأيسر."

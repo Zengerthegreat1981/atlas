@@ -11,13 +11,23 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1968
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+- rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
 related:
-  - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
+- id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
+- id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
+- id: "thk-george-thompson", title: "جورج تومبسون", type: "مفكر"
+- id: "thk-gunnel-cederblad", title: "جونيل سيدِربلاد", type: "مفكر"
+- id: "thk-jacqueline-astington", title: "جاكلين أستنغتون", type: "مفكر"
+- id: "thk-mary-stewart", title: "ماري ستيوارت", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورج تومبسون (thk-george-thompson)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جونيل سيدِربلاد (thk-gunnel-cederblad)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاكلين أستنغتون (thk-jacqueline-astington)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماري ستيوارت (thk-mary-stewart)."
 ---
 
 # توني وايت

@@ -11,12 +11,14 @@ dates: "فيلادلفيا · الستينيات والسبعينيات"
 active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "سلفادور مينوشين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-sminuchin", target_type: "مفكر"
 related:
-  - id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
-  - id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
+- id: "thk-nackerman", title: "ناثان أكرمان", type: "مفكر"
 gaps:
   - "كتاب سلفادور مينوشين العمدة 'العائلات والعلاج الأسري' (Families and Family Therapy, 1974)."
   - "خرائط البنية الأسرية (Family Structure Maps) والمحاور الثلاثة: الحدود، التحالفات، والتسلسل الهرمي."

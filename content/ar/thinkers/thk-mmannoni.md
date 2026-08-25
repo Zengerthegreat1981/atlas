@@ -11,13 +11,14 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1964
 active_end: 2016
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
-  - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
 gaps:
   - "دورها في نقد العقلانية المؤسسية في فرنسا في الستينيات والسبعينيات ملخّص، ولم تُراجع مصادر أولية بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -43,4 +44,4 @@ gaps:
 
 ## أهم أعمالها
 
-الطفل المتأخر وأمه (1964) · نقد النقل (1970s) · مذكرات جزائرية (2013).
+الطفل المتأخر وأمه (1964) · نقد النقل (السبعينيات من القرن العشرين) · مذكرات جزائرية (2013).

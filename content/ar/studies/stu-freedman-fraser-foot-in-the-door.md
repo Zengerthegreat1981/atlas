@@ -9,10 +9,11 @@ en: "Freedman & Fraser's Foot-in-the-Door Technique Experiment"
 crumb: "علم النفس الاجتماعي والإقناع ← الدراسات والأبحاث ← تجربة تقنية القدم في الباب"
 active_start: 1966
 active_end: 1966
-edges: []
+edges:
+  []
 related:
-  - id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
-  - id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
+- id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
+- id: "wrk-influence-persuasion", title: "التأثير: علم نفس الإقناع", type: "عمل / كتاب"
 gaps:
   - "تجربة لافتات القيادة الآمنة الكبيرة في بالو ألتو بعد وضع ملصقات صغيرة في النوافذ."
   - "لا يوجد اقتباس مباشر موثوق متاح."

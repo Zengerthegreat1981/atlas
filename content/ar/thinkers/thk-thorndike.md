@@ -9,15 +9,20 @@ crumb: "السلوكية (Behaviorism) ← الناس ← إدوارد ثورن�
 dates: "أمريكا · 1874–1949"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 1949
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-clhull", title: "كلارك هـال", type: "مفكر"
-  - id: "con-law-of-effect", title: "قانون الأثر", type: "مفهوم"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-clhull", title: "كلارك هال", type: "مفكر"
+- id: "con-law-of-effect", title: "قانون الأثر", type: "مفهوم"
+- id: "stu-thorndike-puzzle-box", title: "تجارب ثورندايك لصناديق الألغاز وقانون الأثر", type: "دراسة وبحث"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إدوارد ثورنديك

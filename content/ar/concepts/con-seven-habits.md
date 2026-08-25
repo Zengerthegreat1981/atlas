@@ -11,10 +11,13 @@ crumb: "علم النفس الشعبي والقيادة الشخصية ← ال�
 active_start: 1989
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والقيادة الشخصية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والقيادة الشخصية", target_type: "مدرسة"
 related:
-  - id: "wrk-7-habits", title: "العادات السبع للناس الأكثر فاعلية", type: "عمل / كتاب"
-  - id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
+- id: "wrk-7-habits", title: "العادات السبع للناس الأكثر فاعلية", type: "عمل / كتاب"
+- id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تطبيقات النموذج في القيادة المؤسسية والتعليمية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

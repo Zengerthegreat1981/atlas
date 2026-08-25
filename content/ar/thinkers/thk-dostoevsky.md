@@ -11,19 +11,21 @@ active_start: 1864
 active_end: 1880
 language: "الروسية"
 country: "روسيا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "thk-nietzsche", title: "نيتشه", type: "مفكر"
-  - id: "thk-mahfouz", title: "نجيب محفوظ", type: "مفكر"
-  - id: "thk-ellison", title: "رالف إليسون", type: "مفكر"
-  - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+- id: "exp-dostoevsky-mock-execution-siberia", title: "وقوف دوستويفسكي أمام فرقة الإعدام (1849) وتجربة اللحظة الأخيرة", type: "خبرة معيشة"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "thk-nietzsche", title: "نيتشه", type: "مفكر"
+- id: "thk-mahfouz", title: "نجيب محفوظ", type: "مفكر"
+- id: "thk-ellison", title: "رالف إليسون", type: "مفكر"
+- id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+- id: "ctx-late-tsarist-russia-intelligentsia", title: "روسيا القيصرية المتأخرة وصراع السلافوفيليا والتغريب والعدمية", type: "سياق/تقليد"
 gaps:
   - "لم تُراجع بعد نصوص أصلية مباشرة (الإخوة كارامازوف، الإنسان من تحت الأرض) — الوصف هنا عام من تاريخ الفكر، لا اقتباس محقق."
   - "علاقته بالوجودية غير مباشرة (روائي لا فيلسوف مصرِّح)، ويحتاج توضيحاً منهجياً لحدود إدراجه هنا."
 ---
-
 # فيودور دوستويفسكي
 
 روائي روسي، غالباً ما يُعدّ أحد الأسلاف الأدبيين للوجودية رغم سبقه الزمني لها كحركة فلسفية مسمّاة.

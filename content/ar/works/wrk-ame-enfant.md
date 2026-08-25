@@ -10,11 +10,16 @@ dates: "1909 · ألفريد بينيه"
 active_start: 1909
 active_end: 1909
 language: "الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس الطفل المبكر", target_type: "مدرسة"
-  - rel: "authored_by", target: "ألفريد بينيه", target_type: "مفكر"
+- rel: "belongs_to", target: "علم نفس الطفل المبكر", target_type: "مدرسة"
+- rel: "authored_by", target: "ألفريد بينيه", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب موجّه للأهل والمعلمين، فيقع بين الأدب المهني والأكاديمي — التحقق من أثره على الممارسة التربوية الفعلية لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Binet في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

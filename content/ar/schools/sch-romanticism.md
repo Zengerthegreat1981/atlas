@@ -13,11 +13,13 @@ language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1790
 active_end: 1850
 edges:
-  - rel: "evolved_into", target: "المثالية الألمانية (كمظلة)", target_type: "مظلة"
-  - rel: "evolved_into", target: "فلسفة الحياة (Lebensphilosophie)", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-german-idealism", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-lebensphilosophie", target_type: "مدرسة"
 related:
-  - id: "thk-emerson", title: "رالف والدو إمرسون", type: "مفكر"
-  - id: "sch-lebensphilosophie", title: "فلسفة الحياة (Lebensphilosophie)", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)", type: "مدرسة"
+- id: "sch-nationalism-philosophical", title: "القومية الفلسفية", type: "مدرسة"
+- id: "thk-emerson", title: "رالف والدو إمرسون", type: "مفكر"
+- id: "sch-lebensphilosophie", title: "فلسفة الحياة (Lebensphilosophie)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«يوهان غوتفريد هردر» (thk-herder) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«فيلهلم فون هومبولت» (thk-humboldt) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -9,10 +9,16 @@ crumb: "علم نفس الجسد ← الناس ← Bioenergetics في أمري�
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
+- id: "thk-gferri", title: "جينوفينو فيري", type: "مفكر"
+- id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

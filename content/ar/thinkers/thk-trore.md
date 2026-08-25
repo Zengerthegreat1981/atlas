@@ -11,13 +11,30 @@ country: "نيوزيلندا"
 language: "الماورية / الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Te Whare Tapa Whā (نموذج)", target_type: "مدرسة"
+- rel: "belongs_to", target: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", target_type: "مدرسة"
 related:
+- id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث", type: "مفكر"
+- id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
+- id: "con-te-whare-tapa-wha", title: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", type: "مفهوم"
+- id: "thk-cherylfairbairn", title: "شيريل فيربيرن", type: "مفكر"
+- id: "thk-janicewilliams", title: "جانيس ويليامز", type: "مفكر"
+- id: "thk-michaelsweeting", title: "مايكل سويتنغ", type: "مفكر"
+- id: "thk-pipitea", title: "مايكل بيبيتي", type: "مفكر"
+- id: "thk-salmareading", title: "سالما ريدنغ", type: "مفكر"
+- id: "thk-sharron-hapai", title: "شارون هاپاي", type: "مفكر"
 gaps:
   - "يجب التحقق من تسمية Mason Durie مقابل "Timothy Rore" في بعض المصادر. الأرجح هو Mason Durie."
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي لم يُوثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أنغوس ماكفارلن (thk-angusmacfarlane)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيريل فيربيرن (thk-cherylfairbairn)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جانيس ويليامز (thk-janicewilliams)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل سويتنغ (thk-michaelsweeting)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل بيبيتي (thk-pipitea)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: سالما ريدنغ (thk-salmareading)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شارون هاپاي (thk-sharron-hapai)."
 ---
 
 # ماسون دوري (Te Whare Tapa Whā)
@@ -53,4 +70,4 @@ gaps:
 - *Te Whare Tapa Whā: Māori Health Model* (1982، 1994).
 - *Whaiora: Māori Health Development* (1994).
 - *Mauri Ora: The Dynamics of Māori Health* (2001).
-- *Ngā Matatini: Spaces of Possibility* (2010s).
+- *Ngā Matatini: Spaces of Possibility* (العقد الثاني من القرن الحادي والعشرين).

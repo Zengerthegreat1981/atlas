@@ -10,10 +10,13 @@ crumb: "الفلسفة ← الصين ← الكونفوشية المبكرة �
 active_start: -500
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "con-li", title: "اللي (禮) — الطقس", type: "مفهوم"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "con-li", title: "اللي (禮) — الطقس", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تطبيقات تشنغ مينغ في خطاب منسيوس (مثل 'ملك بالاسم فقط') لم تُقارن بالنص الأصلي."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

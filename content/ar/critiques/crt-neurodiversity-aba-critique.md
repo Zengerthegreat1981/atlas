@@ -8,11 +8,15 @@ en: "Disability/Neurodiversity Rights Critique of ABA: Oppression, Not Therapy"
 crumb: "النقد الخارجي ← حقوق ذوي الإعاقة ← نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA"
 active_start: 1993
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
-related:  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
-  - id: "br-aba-autism", title: "تحليل السلوك التطبيقي للتوحد (ABA)", type: "تيار"
-  - id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل", type: "جدل"gaps:
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
+related:
+- id: "br-aba-autism", title: "تحليل السلوك التطبيقي للتوحد (ABA)", type: "تيار"
+- id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل", type: "جدل"related:
+- id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
+- id: "dbt-medication-children", title: "جِدَل دَوَاء الاضْطِرَابات النَّفْسِيّة لِلْأَطْفَال", type: "جدل"
+gaps:
   - "تفاصيل كتاب Sinclair (1993) — لا اقتباس."
   - "موقف Leaf et al. (2018) ضد نقد Neurodiversity — لا اقتباس."
   - "لا اقتباس مباشر موثوق متاح من Lovaas (توفي 2010) ردّ على هذه الانتقادات."

@@ -11,10 +11,10 @@ active_start: 1941
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-locked-in", title: "متلازمة الانغلاق العصبي", type: "متلازمة"
+- id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-locked-in", title: "متلازمة الانغلاق العصبي", type: "متلازمة"
 gaps:
   - "أبحاث كيرنز (Cairns 1941) وتلف التلفيف الحزامي الأمامي (Anterior Cingulate Cortex)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

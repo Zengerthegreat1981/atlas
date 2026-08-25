@@ -14,9 +14,9 @@ language: "الإنجليزية"
 active_start: 1908
 active_end: 1970
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا النجاح", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا النجاح", target_type: "مدرسة"
 related:
-  - id: "wrk-think-and-grow-rich", title: "فكر وازدد ثراءً", type: "عمل / كتاب"
+- id: "wrk-think-and-grow-rich", title: "فكر وازدد ثراءً", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,13 +11,16 @@ dates: "نيفادا · من الثمانينيات"
 active_start: 1986
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "القبول والالتزام", target_type: "مدرسة"
-  - rel: "developed_by", target: "ستيفن هايز", target_type: "مفكر"
+- rel: "belongs_to", target: "rel-act", target_type: "مدرسة"
+- rel: "developed_by", target: "ستيفن هايز", target_type: "مفكر"
 related:
-  - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
-  - id: "dia-existential-act-encounter", title: "لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)", type: "حوار مع مدرسة مجاورة"
-  - id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية", type: "تقنية/تدخل علاجي"
+- id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
+- id: "dia-existential-act-encounter", title: "لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)", type: "حوار مع مدرسة مجاورة"
+- id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية", type: "تقنية/تدخل علاجي"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "الأساس اللساني والتجريبي لنظرية إطار العلاقات (RFT) حول الاستجابة العلائقية المشتقة (Derived Relational Responding)."
   - "فلسفة البراغماتية الوظيفية وكيف تحل السياقية الوظيفية معضلة الحقيقة والصدق العلمي عبر 'العملية والقابلية للتطبيق'."

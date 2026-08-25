@@ -11,14 +11,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
 related:
-  - id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
-  - id: "br-sport-psychology", title: "علم نفس الرياضة", type: "تيار"
+- id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
+- id: "br-sport-psychology", title: "علم نفس الرياضة", type: "تيار"
+- id: "thk-bobbeck", title: "بوب بيك", type: "مفكر"
+- id: "thk-charlesfaulkner", title: "تشارلز فولكنر", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بوب بيك (thk-bobbeck)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز فولكنر (thk-charlesfaulkner)."
 ---
 
 # دينيس ويتلي
@@ -33,7 +38,7 @@ gaps:
 
 ## موقعه من التيار
 
-ويتموضع ويتلي عند ملتقى **السيبرنتيكا النفسية** مع تيار **علم نفس الأداء** (Performance Psychology) الأوسع، وهو من رواد نقل هذه الأفكار من عيادات الجراحة التجميلية (سياق مالتز الأصلي) إلى ميادين الرياضة والأعمال.
+يقع ويتلي عند ملتقى **السيبرنتيكا النفسية** مع تيار **علم نفس الأداء** (Performance Psychology) الأوسع، وهو من رواد نقل هذه الأفكار من عيادات الجراحة التجميلية (سياق مالتز الأصلي) إلى ميادين الرياضة والأعمال.
 
 ## أهم أعماله
 

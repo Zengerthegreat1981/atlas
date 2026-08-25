@@ -8,12 +8,13 @@ en: "Mesmerism (Animal Magnetism)"
 crumb: "التنويم وNLP ← التقنيات ← الماسمرية"
 active_start: 1775
 active_end: 1850
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
-  - rel: "developed_by", target: "فرانتس أنطون ميسمر", target_type: "مفكر"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-fmesmer", target_type: "مفكر"
 related:
-  - id: "thk-fmesmer", title: "فرانتس ميسمر", type: "مفكر"
-  - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
+- id: "thk-fmesmer", title: "فرانتس ميسمر", type: "مفكر"
+- id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
 gaps:
   - "تفاصيل الممارسة (الباكيه، المسّ) لم تُوثّق بدقة كافية."
   - "العلاقة مع Royal Commission (1784) لم تُحسم."

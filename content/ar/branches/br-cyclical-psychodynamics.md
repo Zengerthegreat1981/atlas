@@ -11,12 +11,16 @@ dates: "نيويورك · السبعينيات"
 active_start: 1977
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "بول واختل", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "بول واختل", target_type: "مفكر"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "كتاب بول واختل التأسيسي 'التحليل النفسي والعلاج السلوكي: نحو التكامل' (1977)."
   - "مفهوم 'التواطؤ البيئي المستمر' واستخدام التدخلات السلوكية التمكينية داخل سياق تحليلي ديناميكي."

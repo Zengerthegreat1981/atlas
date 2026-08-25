@@ -11,14 +11,15 @@ active_start: 1942
 active_end: 1972
 country: "بلجيكا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دراسته الرائدة حول فينومينولوجيا هايدجر (1942) والفصام والتحليل النفسي تستحق توثيقاً."
@@ -42,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-فلسفة مارتن هايدجر (La Philosophie de Martin Heidegger, 1942) · فينومينولوجيا وميرلوبونتي (Une Philosophie de l'ambiguïté, 1951) · الفصام: دراسة فينومينولوجية وتحليلية (La Psychose, 1972).
+فلسفة مارتن هايدجر (La Philosophie de Martin Heidegger, 1942) · فلسفة الالتباس: قراءة في ميرلوبونتي (Une philosophie de l'ambiguïté, 1951) · الفصام: دراسة فينومينولوجية وتحليلية (La Psychose, 1972).

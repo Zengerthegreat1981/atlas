@@ -11,11 +11,12 @@ dates: "بنسلفانيا · السبعينيات والثمانينيات"
 active_start: 1984
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 gaps:
   - "دليل ليستر لوبورسكي المعياري ونظام قياس حلقة الصراع العلائقي المركزي (CCRT Scoring Manual)."
   - "أبحاث الفعالية المقارنة للعلاج الداعم-التعبيري في علاج الإدمان والاكتئاب واضطرابات القلق."

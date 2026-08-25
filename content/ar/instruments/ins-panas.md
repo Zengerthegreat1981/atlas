@@ -8,9 +8,11 @@ en: "Positive and Negative Affect Schedule (PANAS / PANAS-X)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← جدول الانفعال الإيجابي والسلبي PANAS"
 active_start: 1988
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "تطور النسخة الموسعة (PANAS-X) لقياس مشاعر نوعية كالخوف والحزن والذنب يحتاج توثيقاً"
   - "الاستقلال العاملي المتعامد بين الانفعال الإيجابي والسلبي يتطلب استعراضاً نظرياً مقارناً"

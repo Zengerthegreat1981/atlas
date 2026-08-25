@@ -6,11 +6,26 @@ level: "مبتدئ"
 title: "اضطراب الهلع"
 en: "Panic Disorder"
 crumb: "المدرسة الوجودية ← الاضطرابات والحالات الإكلينيكية ← اضطراب الهلع"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
-  - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
+- id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
+- id: "syn-chinese-restaurant", title: "متلازمة المطعم الصيني وغلوتامات الصوديوم (MSG Complex)", type: "متلازمة"
+- id: "syn-effort-syndrome", title: "متلازمة الجهد الحربي والقلب العصبي الحاد (Lewis 1917)", type: "متلازمة"
+- id: "syn-exploding-head", title: "متلازمة الرأس المنفجر (الضوضاء السمعية الحسية أثناء النوم)", type: "متلازمة"
+- id: "syn-hyperventilation", title: "متلازمة فرط التهوية والقلق التنفسي الحاد", type: "متلازمة"
+- id: "syn-khyal-cap", title: "هجمات الرياح والذعر الفينومينولوجي (Khyal Cap في كمبوديا)", type: "متلازمة"
+- id: "syn-sleep-paralysis", title: "متلازمة شلل النوم المعزول (الجاثوم التفارقي)", type: "متلازمة"
+- id: "syn-stendhal", title: "متلازمة ستندال (متلازمة فلورنسا / الانهيار النفسي الجسدي أمام الفن)", type: "متلازمة"
+- id: "syn-wind-illness-trung-gio", title: "متلازمة ترونغ جيو (ضربة الريح والاعتلال الجسدي في فيتنام)", type: "متلازمة"
+- id: "ins-bai", title: "مقياس بيك للقلق", type: "أداة قياس"
+- id: "br-digital-therapeutics", title: "العلاجات الرقمية", type: "تيار"
+- id: "ins-hamilton-hama", title: "مقياس هاملتون للقلق (HAM-A / HARS)", type: "أداة قياس"
 gaps:
   - "لا يوجد بعد ربط موثق بمصادر عربية عن هذا الاضطراب"
   - "التفريق الدقيق بين panic attacks العرضية و panic disorder كاضطراب محدد في DSM-5-TR يحتاج مراجعة المصدر الأولي"

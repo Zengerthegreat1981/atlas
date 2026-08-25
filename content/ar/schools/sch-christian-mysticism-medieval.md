@@ -13,13 +13,15 @@ language: "اللاتينية، الألمانية، الإيطالية، الإ
 active_start: 1100
 active_end: 1600
 edges:
-  - rel: "evolved_from", target: "اللاهوت السلبي / الأبوفاتي", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الآبائية المسيحية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الفيكتورية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-apophatic", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-victorines", target_type: "مدرسة"
 related:
-  - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
-  - id: "sch-victorines", title: "الفيكتورية", type: "مدرسة"
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "sch-victorines", title: "الفيكتورية", type: "مدرسة"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "thk-meister-eckhart", title: "مايستر إيكهارت", type: "مفكر"
+- id: "con-gelassenheit", title: "التسليم (Gelassenheit) — التخلي عن الإرادة", type: "مفهوم"
 gaps:
   - "نصوص ميستر إيكهارت بالألمانية الوسطى تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Liber Divinorum Operum' لهيلغارد أو 'Theologia Germanica'."

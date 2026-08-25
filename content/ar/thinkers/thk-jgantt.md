@@ -11,8 +11,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
+- rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
+related:
+- id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

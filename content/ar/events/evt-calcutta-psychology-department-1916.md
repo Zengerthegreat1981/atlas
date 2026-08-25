@@ -9,8 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1916
 active_end: "مستمر"
 country: "الهند"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "دراسة سينغوبتا في هارفارد تحت إشراف هوغو مونستربرغ وتأثيرها على معمل كلكتا تتطلب تفصيلاً"
   - "تأسيس الجمعية الهندية للتحليل النفسي عام 1922 على يد غيريندرانيث بوس (Girindrasekhar Bose) ومراسلاته مع فرويد تحتاج توثيقاً"

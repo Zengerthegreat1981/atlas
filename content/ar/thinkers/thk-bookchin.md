@@ -7,19 +7,21 @@ level: "متوسط"
 title: "موراي بووكين"
 en: "Murray Bookchin"
 crumb: "الفلسفة ← العابرة ← الإيكولوجيا الاجتماعية ← بووكين"
-dates: "1921–2006 · الولايات المتحدة"
+dates: "الولايات المتحدة · 1921–2006"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1962
 active_end: 2006
 edges:
-  - rel: "belongs_to", target: "الإيكولوجيا الاجتماعية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإيكولوجيا الاجتماعية", target_type: "مدرسة"
 related:
-  - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
-  - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية (The Ecology of Freedom)", type: "عمل / كتاب"
+- id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"
+- id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
+- id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ طبعة Institute for Social Ecology الأصلية لـ *The Ecology of Freedom* (1982)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # موراي بووكين (Murray Bookchin, 1921–2006)

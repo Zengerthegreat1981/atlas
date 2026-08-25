@@ -11,11 +11,12 @@ active_start: 1950
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "syn-tsunami-ghosts", title: "متلازمة أشباح تسونامي والصدمة التفارقية الجمعية", type: "متلازمة"
 gaps:
   - "الدراسات الأنثروبولوجية على قبائل النافاهو واللاكوتا في أمريكا الشمالية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

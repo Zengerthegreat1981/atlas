@@ -11,16 +11,18 @@ icd11_code: "6D30.1"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
-  - id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
+- id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
+- id: "dis-frotteuristic-disorder", title: "اضطراب الفروتيوريزم (Frotteuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6D30.1) لم تُراجع تفصيلياً."
@@ -32,7 +34,6 @@ gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # اضطراب الاستعراء (Exhibitionistic Disorder)
 
 اضطراب من اضطرابات الانحراف (Paraphilia) يتميز بإثارة جنسية متكررة ومكثفة من تعريض الأعضاء التناسلية (عادةً ذكر) لشخص غريب دون موافقته، وتستمر 6+ أشهر. **يُشخَّص فقط عندما يُسبّب ضائقة كبيرة أو ضعف في الأداء أو انتهاك حقوق الآخرين**.
@@ -102,3 +103,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Seto, M. C., & Eke, A. W. (2005). "Predicting Recidivism Among Adult Male Sex Offenders." *Journal of Consulting and Clinical Psychology*.
 - Marshall, W. L., et al. (2011). *The Cognitive Structures and Treatment of Sexual Offenders*. Sage.
+
+## التطور التاريخي في DSM
+
+أُعيدت تسمية الاستعراضية في DSM-5 إلى «اضطراب الاستعراضية» (Exhibitionistic Disorder)، مع اشتراط كشف العورات لشخص غير راغب أو وجود ضائقة شديدة لمنح التشخيص السريري.

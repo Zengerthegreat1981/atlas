@@ -8,17 +8,20 @@ en: "Categorical vs. Dimensional Classification of Mental Disorders"
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية"
 active_start: 1980
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
-  - id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"
-  - id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "تصنيف"
-  - id: "classification-icd-11", title: "التصنيف الدولي للأمراض - الإصدار الحادي عشر (ICD-11)", type: "تصنيف"
+- id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
+- id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-icd-11", title: "التصنيف الدولي للأمراض - الإصدار الحادي عشر (ICD-11)", type: "اضطراب/حالة إكلينيكية"
+- id: "dbt-mental-illness-vs-problem", title: "المرض العقلي: مرض أم مشكلة حياتية؟", type: "جدل"
+- id: "dbt-rdoc-critique", title: "نموذج RDoC كبديل عن DSM: نقد", type: "جدل"
 gaps:
   - "تطبيقات نموذج HiTOP (Hierarchical Taxonomy of Psychopathology) المعاصر في العيادات السريرية تحتاج توثيقاً"
   - "مقارنة مبادرة معايير نطاق البحث (RDoC) للمعهد الوطني للصحة العقلية NIMH مع نظام DSM تتطلب مراجعة نقدية"
 ---
-
 # التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية
 
 الخلاف الجذري المحتدم حول بنية التشخيص النفسي: هل الاضطرابات النفسية كيانات مرضية منفصلة وقاطعة (صندوقي فئوي كما في DSM)، أم أنها انحرافات كمية مستمرة على متصلات وظيفية ونفسية واسعة (أبعادي كـ HiTOP وRDoC)؟

@@ -11,14 +11,17 @@ dates: "من السبعينيات"
 active_start: 1978
 active_end: "مستمر"
 language: "الألمانية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-dieckmann", title: "هانز ديكمان", type: "مفكر"
-  - id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-dieckmann", title: "هانز ديكمان", type: "مفكر"
+- id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "br-medical-model-addiction", title: "النموذج الطبي للإدمان مقابل نموذج المرض المزمن", type: "تيار"
 gaps:
   - "رسالة يونغ لبيل ويلسون (مؤسس مدمني الكحول المجهولين AA) حول الإدمان كتعطش مشوه للاتصال الروحي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإدمان والبحث الروحي المشوه

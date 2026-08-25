@@ -6,20 +6,22 @@ level: "متقدم"
 title: "أوغسطينوس"
 en: "Augustine of Hippo"
 crumb: "المدرسة الوجودية ← الناس ← أوغسطينوس"
-dates: "الجزائر / الإمبراطورية الرومانية · 354–430 م"
+dates: "نوميديا (الجزائر حالياً) / الإمبراطورية الرومانية · 354–430 م"
 active_start: 397
 active_end: 426
 country: "شمال أفريقيا / روما"
 language: "اللاتينية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دراسة هايدجر المبكرة لفينومينولوجيا أوغسطينوس الدينية (1921) تستحق إدراجاً في الأعمال."

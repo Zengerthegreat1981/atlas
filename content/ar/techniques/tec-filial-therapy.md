@@ -11,10 +11,12 @@ dates: "بنسلفانيا · الستينيات"
 active_start: 1964
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-theraplay", title: "علاج ثيرابلاي للتفاعل الأسري والارتباط", type: "تقنية/تدخل علاجي"
+- id: "tec-play-therapy-branches", title: "العلاج باللعب ومداخله المتعددة", type: "تقنية/تدخل علاجي"
+- id: "tec-theraplay", title: "علاج ثيرابلاي للتفاعل الأسري والارتباط", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج برنارد ولويز غيرني (Bernard & Louise Guerney) وتطوير غاري لاندريث (Garry Landreth) للتدريب الوالدي كمعالجين باللعب (CPRT)."
   - "المهارات الأربع: الاستجابة العاكسة، تتبع السلوك، وضع الحدود، وبناء تقدير الذات."

@@ -11,17 +11,18 @@ dates: "فيينا ولندن وباريس · عشرينيات القرن الع
 active_start: 1920
 active_end: "مستمر"
 language: "الألمانية / الإنجليزية / الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "أنا فرويد", target_type: "مفكر"
-  - rel: "developed_by", target: "ميلاني كلاين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-afreud", target_type: "مفكر"
+- rel: "developed_by", target: "thk-klein", target_type: "مفكر"
 related:
-  - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
-  - id: "thk-spitz", title: "رينيه سبيتز", type: "مفكر"
-  - id: "thk-mmahler", title: "مارغريت ماهلر", type: "مفكر"
+- id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
+- id: "thk-spitz", title: "رينيه سبيتز", type: "مفكر"
+- id: "thk-mmahler", title: "مارغريت ماهلر", type: "مفكر"
 gaps:
   - "التباين المنهجي بين أسلوب أنا فرويد التربوي التحليلي وأسلوب كلاين في التفسير المباشر للعب يحتاج توثيقاً إضافياً."
   - "مساهمة فرانسواز دولتو ومفهوم 'الصورة اللاواعية للجسد' في التحليل النفسي الفرنسي للأطفال."

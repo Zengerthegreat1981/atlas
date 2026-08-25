@@ -8,9 +8,12 @@ en: "Bandura's Vicarious Reinforcement and Behavioral Inhibition Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات باندورا للتعزيز غير المباشر"
 active_start: 1965
 active_end: 1965
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "dbt-violent-media-child-aggression", title: "جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال", type: "جدل"
 gaps:
   - "دور التعزيز الذاتي الداخلي والمعايير الأخلاقية في كبح السلوك يحتاج ربطاً بنظرية الانفصال الأخلاقي لباندورا"
   - "التطبيقات في الإعلانات التلفزيونية والتسويق الاجتماعي تتطلب استعراضاً تطبيقياً"

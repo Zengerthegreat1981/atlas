@@ -10,24 +10,31 @@ crumb: "المدرسة الوجودية ← التيارات ← التيار ا
 dates: "الولايات المتحدة · من الخمسينيات"
 active_start: 1950
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "part_of", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "influenced_by", target: "التحليل الوجودي الأوروبي", target_type: "تيار"
-  - rel: "developed_by", target: "ماي وبوجنتال ويالوم", target_type: "مفكرون"
-  - rel: "criticized_by", target: "الوجودي-الظاهراتي البريطاني", target_type: "تيار"
-  - rel: "adjacent_to", target: "التيار الإنساني", target_type: "مدرسة"
+- rel: "part_of", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "influenced_by", target: "التحليل الوجودي الأوروبي", target_type: "تيار"
+- rel: "developed_by", target: "ماي وبوجنتال ويالوم", target_type: "مفكرون"
+- rel: "criticized_by", target: "br-british", target_type: "تيار"
+- rel: "adjacent_to", target: "التيار الإنساني", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "ماي", type: "مفكر"
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
-  - id: "thk-bugental", title: "بوجنتال", type: "مفكر"
-  - id: "dbt-british-yalom", title: "خصومة البريطانيين", type: "جدل"
-  - id: "rel-humanistic", title: "القرابة الملتبسة", type: "علاقة"
-  - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
-  - id: "thk-ecraig", title: "إريك كريك", type: "مفكر"
+- id: "thk-may", title: "ماي", type: "مفكر"
+- id: "thk-yalom", title: "يالوم", type: "مفكر"
+- id: "thk-bugental", title: "بوجنتال", type: "مفكر"
+- id: "dbt-british-yalom", title: "خصومة البريطانيين", type: "جدل"
+- id: "rel-humanistic", title: "القرابة الملتبسة", type: "علاقة بين مدرستين"
+- id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
+- id: "thk-ecraig", title: "إريك كريك", type: "مفكر"
+- id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
+- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
+- id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
+- id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-humanistic", title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي", type: "علاقة بين مدرستين"
+- id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
 gaps:
   - "بيانات الأعمال المرجعية وتواريخها — تحتاج تثبيتاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # الإنساني-الوجودي الأمريكي
 
 أشهر التيارات عالمياً وأكثرها قابلية للتدريس والترجمة — وأكثرها اتهاماً بأنه خفّف الوجودية حتى صارت قابلة للاستهلاك.

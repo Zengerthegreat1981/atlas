@@ -11,14 +11,18 @@ dates: "من 1982"
 active_start: 1982
 active_end: "مستمر"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-kast", title: "فيرينا كاست", type: "مفكر"
-  - id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-kast", title: "فيرينا كاست", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "مراحل الحزن الأربع لفيرينا كاست والفرص التنموية لإعادة بناء العلاقة مع الذات بعد الفقد."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الحزن كمسار للتفريد

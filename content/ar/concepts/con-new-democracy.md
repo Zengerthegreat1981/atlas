@@ -10,14 +10,16 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← الماركسي�
 active_start: 1940
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الماركسية الصينية / الماوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-chinese-marxism", target_type: "مدرسة"
 related:
-  - id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
-  - id: "thk-mao-zedong", title: "ماو تسي تونغ", type: "مفكر"
+- id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
+- id: "thk-mao-zedong", title: "ماو تسي تونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة 1950 الأصلية لـ *On New Democracy*."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # الديمقراطية الجديدة (New Democracy)

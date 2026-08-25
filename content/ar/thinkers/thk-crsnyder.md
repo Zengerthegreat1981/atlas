@@ -11,12 +11,25 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1991
 active_end: 2006
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج القائم على الأمل (Snyder)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج القائم على الأمل (Snyder)", target_type: "مدرسة"
 related:
-  - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
+- id: "thk-david-feldman", title: "ديفيد فيلدمان", type: "مفكر"
+- id: "thk-james-gumpert", title: "جيمس غومپرت", type: "مفكر"
+- id: "thk-jennifer-cheavens", title: "جينيفر تشيڤنز", type: "مفكر"
+- id: "thk-john-friedman", title: "جون فريدمان", type: "مفكر"
+- id: "thk-kevin-sparger", title: "كيفن سپارجر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد فيلدمان (thk-david-feldman)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيمس غومپرت (thk-james-gumpert)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جينيفر تشيڤنز (thk-jennifer-cheavens)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون فريدمان (thk-john-friedman)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيفن سپارجر (thk-kevin-sparger)."
 ---
 
 # تشارلز ريتشارد سنايدر

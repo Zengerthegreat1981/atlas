@@ -1,0 +1,290 @@
+[
+ {
+  "keep": "thk-cesaire",
+  "drop": [
+   "thk-aime-cesaire"
+  ]
+ },
+ {
+  "keep": "thk-macintyre",
+  "drop": [
+   "thk-amacintyre"
+  ]
+ },
+ {
+  "keep": "thk-schutz",
+  "drop": [
+   "thk-aschutz"
+  ]
+ },
+ {
+  "keep": "thk-arne-naess",
+  "drop": [
+   "thk-anaess"
+  ]
+ },
+ {
+  "keep": "thk-comte",
+  "drop": [
+   "thk-auguste-comte"
+  ]
+ },
+ {
+  "keep": "thk-gilligan",
+  "drop": [
+   "thk-cgilligan"
+  ]
+ },
+ {
+  "keep": "thk-mohanty",
+  "drop": [
+   "thk-cmohanty"
+  ]
+ },
+ {
+  "keep": "thk-dsiegel",
+  "drop": [
+   "thk-daniel-siegel"
+  ]
+ },
+ {
+  "keep": "thk-kahneman",
+  "drop": [
+   "thk-rkahneman"
+  ]
+ },
+ {
+  "keep": "thk-dlewis",
+  "drop": [
+   "thk-david-lewis"
+  ]
+ },
+ {
+  "keep": "thk-suarez",
+  "drop": [
+   "thk-francisco-suarez"
+  ]
+ },
+ {
+  "keep": "thk-fanon",
+  "drop": [
+   "thk-frantz-fanon"
+  ]
+ },
+ {
+  "keep": "thk-marcel",
+  "drop": [
+   "thk-gabriel-marcel"
+  ]
+ },
+ {
+  "keep": "thk-gfrege",
+  "drop": [
+   "thk-gottlob-frege"
+  ]
+ },
+ {
+  "keep": "thk-hanfeizi",
+  "drop": [
+   "thk-han-feizi"
+  ]
+ },
+ {
+  "keep": "thk-bergson",
+  "drop": [
+   "thk-henri-bergson"
+  ]
+ },
+ {
+  "keep": "thk-hputnam",
+  "drop": [
+   "thk-hilary-putnam"
+  ]
+ },
+ {
+  "keep": "thk-jaspers",
+  "drop": [
+   "thk-karl-jaspers"
+  ]
+ },
+ {
+  "keep": "thk-wiredu",
+  "drop": [
+   "thk-kwasi-wiredu"
+  ]
+ },
+ {
+  "keep": "thk-irigaray",
+  "drop": [
+   "thk-luce-irigaray"
+  ]
+ },
+ {
+  "keep": "thk-mselvini",
+  "drop": [
+   "thk-mselpalaz"
+  ]
+ },
+ {
+  "keep": "thk-mbuber",
+  "drop": [
+   "thk-buber"
+  ]
+ },
+ {
+  "keep": "thk-heidegger",
+  "drop": [
+   "thk-martin-heidegger"
+  ]
+ },
+ {
+  "keep": "thk-merleau-ponty",
+  "drop": [
+   "thk-maurice-merleau-ponty"
+  ]
+ },
+ {
+  "keep": "thk-stirner",
+  "drop": [
+   "thk-max-stirner"
+  ]
+ },
+ {
+  "keep": "thk-csikszentmihalyi",
+  "drop": [
+   "thk-mcsikszent"
+  ]
+ },
+ {
+  "keep": "thk-maimonides",
+  "drop": [
+   "thk-maimonides-moses"
+  ]
+ },
+ {
+  "keep": "thk-mendelssohn",
+  "drop": [
+   "thk-moses-mendelssohn"
+  ]
+ },
+ {
+  "keep": "thk-nasir-tusi",
+  "drop": [
+   "thk-nasir-al-din-al-tusi"
+  ]
+ },
+ {
+  "keep": "thk-orsigen",
+  "drop": [
+   "thk-origen"
+  ]
+ },
+ {
+  "keep": "thk-pfeyerabend",
+  "drop": [
+   "thk-paul-feyerabend"
+  ]
+ },
+ {
+  "keep": "thk-hountondji",
+  "drop": [
+   "thk-paulin-hountondji"
+  ]
+ },
+ {
+  "keep": "thk-fonagy",
+  "drop": [
+   "thk-pfonel"
+  ]
+ },
+ {
+  "keep": "thk-philo-alexandria",
+  "drop": [
+   "thk-philo-judaeus"
+  ]
+ },
+ {
+  "keep": "thk-tahtawi",
+  "drop": [
+   "thk-rifaa-al-tahtawi"
+  ]
+ },
+ {
+  "keep": "thk-sdeshacer",
+  "drop": [
+   "thk-sdeshazer"
+  ]
+ },
+ {
+  "keep": "thk-ttu",
+  "drop": [
+   "thk-tfwang"
+  ]
+ },
+ {
+  "keep": "thk-dilthey",
+  "drop": [
+   "thk-wilhelm-dilthey"
+  ]
+ },
+ {
+  "keep": "thk-james",
+  "drop": [
+   "thk-william-james"
+  ]
+ },
+ {
+  "keep": "thk-abu-al-hasan-al-amiri",
+  "drop": [
+   "thk-al-amiri"
+  ]
+ },
+ {
+  "keep": "thk-bvdkolk",
+  "drop": [
+   "thk-bessel-van-der-kolk-expanded"
+  ]
+ },
+ {
+  "keep": "thk-winnicott",
+  "drop": [
+   "thk-dwinnicott"
+  ]
+ },
+ {
+  "keep": "thk-jledoux",
+  "drop": [
+   "thk-emotional-brain-j-ledoux"
+  ]
+ },
+ {
+  "keep": "thk-fanon",
+  "drop": [
+   "thk-frantz-fanon-psy"
+  ]
+ },
+ {
+  "keep": "thk-imartinbaro",
+  "drop": [
+   "thk-ignacio-martin-baro"
+  ]
+ },
+ {
+  "keep": "thk-plevine",
+  "drop": [
+   "thk-peter-levine-counseling"
+  ]
+ },
+ {
+  "keep": "thk-sgrof",
+  "drop": [
+   "thk-stanislav-grof"
+  ]
+ },
+ {
+  "keep": "thk-mitchell",
+  "drop": [
+   "thk-smitchell"
+  ]
+ }
+]

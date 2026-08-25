@@ -11,16 +11,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2006
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
-  - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "thk-esaebel", title: "إليزابيث سايبل", type: "مفكر"
+- id: "thk-jrathus", title: "جيل راثوس", type: "مفكر"
+- id: "con-overcontrol", title: "الضبط المفرط (Overcontrol)", type: "مفهوم"
+- id: "evt-dbt-founding-1990s", title: "تأسيس العلاج الجدلي السلوكي (DBT) في التسعينيات", type: "حدث تاريخي"
 gaps:
   - "سنة الميلاد الدقيقة وانتماء لينش لجامعة ديوك لم يُراجعا من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # توماس لينش
 
 عالم نفس سريري أمريكي، أستاذ في جامعة ديوك (Duke University) والمطوّر الرئيسي للعلاج الجدلي السلوكي الراديكالي المفتوح (Radically Open-Dialectical Behavior Therapy, RO-DBT) — وهو امتداد لبروتوكول DBT الموجه لشخصيات نمطية مختلفة عن اضطراب الشخصية الحدية.

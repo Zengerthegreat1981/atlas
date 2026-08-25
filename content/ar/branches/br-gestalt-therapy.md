@@ -11,19 +11,23 @@ dates: "نيويورك وكاليفورنيا · الخمسينيات"
 active_start: 1951
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
-  - rel: "developed_by", target: "فريتز بيرلز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-fperls", target_type: "مفكر"
 related:
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-  - id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
-  - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
-  - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
+- id: "thk-goodman", title: "بول غودمان", type: "مفكر"
+- id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
+- id: "thk-rresnick", title: "روبرت رِسنيك", type: "مفكر"
+- id: "tec-gestalt-bodywork", title: "عمل الجسد الجشطالتي", type: "تقنية/تدخل علاجي"
+- id: "br-gestalt-theoretical-psychotherapy", title: "العلاج النفسي الجشطالتي النظري (GTP)", type: "تيار"
+- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
 gaps:
   - "كتاب 'علاج الجشطالت' التأسيسي (1951) لفريتز بيرلز ولورا بيرلز وبول غودمان ونظرية الذات عند حد الاتصال (Contact Boundary)."
   - "آليات مقاومة الاتصال الخمس: الإسقاط، الانعطاف (Retroflection)، الإدخال (Introjection)، الاندماج (Confluence)، والانحراف (Deflection)."
 ---
-
 # علاج الجشطالت
 
 النموذج الإنساني-الظاهراتي-التجريبي الثوري الذي ابتكره فريتز ولورا بيرلز بالتعاون مع الفيلسوف بول غودمان، معيداً توجيه العلاج النفسي نحو «الوعي الحاضر هنا والآن»، والجسد، والتكامل العضوي للكائن في مجاله البيئي.

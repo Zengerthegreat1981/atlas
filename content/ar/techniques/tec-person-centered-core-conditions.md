@@ -6,14 +6,17 @@ level: "مبتدئ"
 title: "الشروط اللازمة والكافية للعلاج المتمركز حول العميل"
 en: "Person-Centered Core Conditions"
 crumb: "الإنسانية ← التقنيات ← الشروط اللازمة والكافية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
-  - id: "con-unconditional-positive-regard", title: "التقبل الإيجابي غير المشروط", type: "مفهوم"
-  - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "con-unconditional-positive-regard", title: "التقبل الإيجابي غير المشروط", type: "مفهوم"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
 gaps:
   - "التمييز بين 'الشروط' في صياغة روجرز الأولى (1957) وصياغته المتأخرة (1980) يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."

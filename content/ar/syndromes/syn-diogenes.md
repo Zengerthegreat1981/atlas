@@ -11,10 +11,10 @@ active_start: 1975
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-hoarding-disorder", title: "اضطراب الاكتناز", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-hoarding-disorder", title: "اضطراب الاكتناز", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "النقد التاريخي لتسمية المتلازمة نسبة للفيلسوف ديوجين الكلبي يحتاج توثيقاً نقدياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

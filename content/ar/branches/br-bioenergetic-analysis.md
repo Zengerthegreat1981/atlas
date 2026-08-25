@@ -11,12 +11,18 @@ dates: "نيويورك · الخمسينيات"
 active_start: 1956
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
-  - rel: "developed_by", target: "ألكسندر لوين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-lowen", target_type: "مفكر"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة", type: "تقنية/تدخل علاجي"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة", type: "تقنية/تدخل علاجي"
+- id: "tec-gestalt-bodywork", title: "عمل الجسد الجشطالتي", type: "تقنية/تدخل علاجي"
+- id: "tec-rolfing", title: "الرولفينغ والتكامل الهيكلي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"
+- id: "br-bodynamic-analysis", title: "التحليل البودينامي وتطور العضلات", type: "تيار"
+- id: "br-ibp", title: "العلاج النفسي التكاملي للجسد (IBP)", type: "تيار"
 gaps:
   - "كتاب ألكسندر لوين (Alexander Lowen) 'لغة الجسد' (1958) ومفهوم الدروع العضلية وأنماط الشخصية الجسدية الخمسة (الفصامي، الفموي، السايكوباتي، المازوخي، والصارم)."
   - "تمارين التجذير (Grounding) وقوس الطاقة الحيوي والتعبير الصوتي والجسدي لتحرير الشحنات المكبوتة."

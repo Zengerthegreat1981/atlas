@@ -8,8 +8,11 @@ en: "Thematic Apperception Test (TAT)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار تفهم الموضوع لموراي"
 active_start: 1935
 active_end: "مستمر"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "dbt-projective-tests-validity", title: "جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني", type: "جدل"
 gaps:
   - "تطوير ديفيد ماكليلاند (David McClelland) لأنظمة التصحيح الكمي الموضوعي لدافع الإنجاز يحتاج توثيقاً"
   - "غياب نظام تصحيح موحد عالمي ملزم في الممارسة الإكلينيكية اليومية يتطلب إبرازاً نقدياً"

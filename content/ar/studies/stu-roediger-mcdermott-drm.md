@@ -8,9 +8,11 @@ en: "Deese-Roediger-McDermott (DRM) False Memory Paradigm Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب نموذج DRM للذاكرة الزائفة"
 active_start: 1995
 active_end: 1995
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تفسير نظرية الأثر الضبابي (Fuzzy-Trace Theory) لـ Brainerd & Reyna لنتائج DRM يحتاج تفصيلاً"
   - "التطبيقات في تصوير الدماغ بالرنين المغناطيسي الوظيفي أثناء استرجاع الذكريات الزائفة تتطلب ربطاً"

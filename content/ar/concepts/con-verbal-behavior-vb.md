@@ -8,10 +8,15 @@ en: "Verbal Behavior (VB)"
 crumb: "العلاج المتخصص بالإعاقات والاضطرابات النمائية ← ABA المتقدم ← VB"
 active_start: 1982
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-aba-advanced", target_type: "تيار"
+- rel: "belongs_to", target: "br-aba-advanced", target_type: "تيار"
 related:
-  - id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
+- id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "نسبة البرنامج إلى Sundberg وPartington تستحق توثيقاً."
   - "العلاقة بين VB وSkinner (1957) تستحق مراجعة."

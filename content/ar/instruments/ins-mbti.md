@@ -8,10 +8,12 @@ en: "Myers-Briggs Type Indicator (MBTI)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مؤشر مايرز-بريجز للأنماط"
 active_start: 1944
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "الانتقادات السيكومترية الأكاديمية العنيفة لضعف ثبات إعادة التطبيق وانعدام التوزيع ثنائي القطب تحتاج تفصيلاً نقدياً صريحاً"
   - "المقارنة بين نموذج الأنماط القاطعة (MBTI) ونموذج السمات المستمرة (Big Five) تتطلب توضيحاً إبستمولوجياً"

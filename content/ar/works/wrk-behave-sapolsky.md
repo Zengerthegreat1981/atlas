@@ -10,10 +10,16 @@ dates: "2017 · روبرت سابولسكي"
 language: "الإنجليزية"
 active_start: 2017
 active_end: 2017
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "روبرت سابولسكي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-robert-sapolsky", target_type: "مفكر"
 related:
+- id: "thk-robert-sapolsky", title: "روبرت سابولسكي", type: "مفكر"
+- id: "wrk-determined-sapolsky", title: "مُحدَّد: علم الحياة بدون إرادة حرة", type: "عمل / كتاب"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Penguin Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

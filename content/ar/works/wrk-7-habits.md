@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1989
 active_end: 1989
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والقيادة الشخصية", target_type: "مدرسة"
-  - rel: "written_by", target: "ستيفن كوفي", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والقيادة الشخصية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-stephen-covey", target_type: "مفكر"
 related:
-  - id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
+- id: "con-seven-habits", title: "العادات السبع للفاعلية والنمو الشخصي", type: "مفهوم"
+- id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,11 +9,15 @@ crumb: "المدرسة الوجودية ← الناس ← لينا ماينيي
 dates: "البرازيل · معاصرة"
 country: "البرازيل"
 language: "البرتغالية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "حركة الفينومينولوجيا الإكلينيكية والتحليل الوجودي في البرازيل تحتاج توثيقاً موسعاً."

@@ -11,10 +11,11 @@ dates: "أواخر القرن التاسع عشر وأوائل القرن الع
 active_start: 1894
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-feldenkrais-method", title: "طريقة فيلدنكرايس في الوعي بالحركة", type: "تقنية/تدخل علاجي"
+- id: "tec-feldenkrais-method", title: "طريقة فيلدنكرايس في الوعي بالحركة", type: "تقنية/تدخل علاجي"
 gaps:
   - "مفهوم 'التحكم الأولي' (Primary Control) في العلاقة بين الرأس والعنق والعمود الفقري عند إف. إم. ألكسندر."
   - "مبدأ 'التثبيط' (Inhibition) والتوقف الواعي قبل الاستجابة التلقائية للعادة الحركية الخاطئة."

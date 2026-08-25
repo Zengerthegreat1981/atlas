@@ -11,13 +11,16 @@ dates: "من الثمانينيات"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
-  - rel: "developed_by", target: "إرنستو سبينيلّي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "developed_by", target: "إرنستو سبينيلّي", target_type: "مفكر"
 related:
-  - id: "thk-spinelli", title: "إرنستو سبينيلّي", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "thk-spinelli", title: "إرنستو سبينيلّي", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ بدء التيار (1989 تقريبي) يحتاج تحقق من نص Spinelli الأصلي."
   - "الفرق بين 'العلاج الظاهراتي' عند سبينيلّي و'الوجودي-الظاهراتي' عند فان دورزن يحتاج تحليل."

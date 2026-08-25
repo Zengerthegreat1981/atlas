@@ -12,19 +12,22 @@ active_end: -399
 active_source: "lifespan"
 country: "اليونان"
 language: "اليونانية القديمة"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "tec-socratic-existential-dialogue", title: "الحوار السقراطي الوجودي", type: "تقنية/تدخل علاجي"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
-  - id: "thk-kastrinidis", title: "بيريكليس كاسترينيديس", type: "مفكر"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "tec-socratic-existential-dialogue", title: "الحوار السقراطي الوجودي", type: "تقنية/تدخل علاجي"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
+- id: "thk-kastrinidis", title: "بيريكليس كاسترينيديس", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "ctx-ancient-athens-agora", title: "الأغورا الأثينية والحوار السقراطي في الديمقراطية الكلاسيكية", type: "سياق/تقليد"
 gaps:
   - "تحليل كيركيغارد للتهكم السقراطي (The Concept of Irony) يستحق توثيقاً مستقلاً في الأعمال."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سقراط

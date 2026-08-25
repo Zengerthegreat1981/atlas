@@ -14,12 +14,14 @@ active_start: -500
 active_end: 300
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الداووية (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "الداووية (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "con-ziran", title: "الزُو ران (自然) — ما يكون من ذاته", type: "مفهوم"
+- id: "sch-vietnamese-triple", title: "الترادف الثلاثي الفيتنامي (Tam Giáo Đồng Nguyên)", type: "مدرسة"
 gaps:
   - "نصوص لاو تزو و تشوانغ تزو بُحثت هنا بالترجمة الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز اللاحق بين الداووية الفلسفية والدينية لم يُحلّ بشكل قاطع في هذا الملف."

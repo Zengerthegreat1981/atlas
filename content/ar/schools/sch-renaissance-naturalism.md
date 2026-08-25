@@ -13,10 +13,11 @@ language: "اللاتينية، الإيطالية، الفرنسية"
 active_start: 1450
 active_end: 1650
 edges:
-  - rel: "evolved_from", target: "الآبائية المسيحية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الأرسطية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
-  - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "thk-giordano-bruno", title: "جوردانو برونو", type: "مفكر"
+- id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«الهوبزية» (sch-hobbesianism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص تيليزيو وباتريتس بالإيطالية واللاتينية تحتاج مراجعة من المصدر الأولي."

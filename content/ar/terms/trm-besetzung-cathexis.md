@@ -6,11 +6,17 @@ level: "متقدم"
 title: "ترجمة Besetzung: شحن أم استثمار نفسي أم تعيين؟"
 en: "Translating Besetzung: Cathexis vs. Mental Investment"
 crumb: "مدرسة التحليل النفسي ← المصطلحات المتنازع عليها ← ترجمة Besetzung"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
   - "تاريخ صياغة ستراتشي لكلمة Cathexis من الإغريقية ومقارنتها بترجمة Investissement الفرنسية تحتاج فحصاً أرشيفياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

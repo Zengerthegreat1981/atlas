@@ -8,9 +8,13 @@ en: "Miller's Magical Number Seven, Plus or Minus Two"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة ميلر عن الرقم السحري سبعة"
 active_start: 1956
 active_end: 1956
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "ctx-cognitive-revolution-neuroscience", title: "سياق الثورة المعرفية ونشأة علوم الدماغ والأعصاب", type: "سياق/تقليد"
+- id: "stu-baddeley-hitch-working-memory", title: "دراسة آلان باديلي وغراهام هيتش للذاكرة العاملة (1974)", type: "دراسة وبحث"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "مراجعة نيلسون كوان (Nelson Cowan, 2001) التي قلصت سعة الذاكرة العاملة النقية إلى 4 قطع تحتاج مقارنة نقدية"
   - "العلاقة بين التجميع المعرفي ونماذج الذاكرة العاملة لباديلي تتطلب توثيقاً متكاملاً"

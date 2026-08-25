@@ -7,18 +7,22 @@ level: "متوسط"
 title: "جون لوك"
 en: "John Locke"
 crumb: "التجريبية البريطانية ← اللوكية ← لوك"
-dates: "رنغتون، أكسفورد، لندن، هولندا · 1632–1704"
+dates: "إنجلترا (أكسفورد، لندن) / هولندا · 1632–1704"
 country: "إنجلترا"
 language: "الإنجليزية، اللاتينية"
 active_start: 1671
 active_end: 1704
 edges:
-  - rel: "belongs_to", target: "اللوكية (اللوكية التجريبية)", target_type: "مدرسة"
-  - rel: "belongs_to", target: "التجريبية البريطانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "اللوكية (اللوكية التجريبية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجريبية البريطانية (كمظلة)", target_type: "مدرسة"
 related:
-  - id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-  - id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
+- id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
+- id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
+- id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
+- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "met-cartesian-theater", title: "المسرح الكارتيزي: وهم المركز الموحد للوعي", type: "استعارة/مجاز مؤسِّس"
+
 gaps:
   - "رابط مقترح لـ«توماس هوبز» (thk-hobbes) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "دور لوك في استبعاد 'شيشروني' (شيشرون/رأي الجمهور) في 'Two Treatises' يحتاج توضيحاً."

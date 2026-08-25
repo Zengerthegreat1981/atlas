@@ -9,14 +9,15 @@ crumb: "العلاج الجدلي السلوكي (DBT) ← مهارات تنظي
 active_start: 1993
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
-  - id: "tec-dbt-er-building-positive-experiences", title: "بناء تجارب إيجابية قصيرة المدى (A)", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-er-accumulating-positives-build-mastery", title: "تجميع الإيجابيات طويلة المدى وبناء الإتقان (B)", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-er-please", title: "بليز (PLEASE) — خفض الحساسية للمشاعر السلبية", type: "تقنية/تدخل علاجي"
-  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-er-building-positive-experiences", title: "بناء تجارب إيجابية قصيرة المدى (A)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-accumulating-positives-build-mastery", title: "تجميع الإيجابيات طويلة المدى وبناء الإتقان (B)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-please", title: "بليز (PLEASE) — خفض الحساسية للمشاعر السلبية", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

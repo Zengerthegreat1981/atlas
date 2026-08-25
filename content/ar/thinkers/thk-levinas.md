@@ -11,19 +11,21 @@ active_start: 1948
 active_end: 1974
 language: "الفرنسية"
 country: "ليتوانيا / فرنسا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "سارتر", type: "مفكر"
-  - id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-peperzak", title: "أدريان بيبرزاك", type: "مفكر"
-  - id: "thk-blanchot", title: "موريس بلانشو", type: "مفكر"
-  - id: "thk-fondane", title: "بنجامين فوندان", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-peperzak", title: "أدريان بيبرزاك", type: "مفكر"
+- id: "thk-blanchot", title: "موريس بلانشو", type: "مفكر"
+- id: "thk-fondane", title: "بنجامين فوندان", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
 gaps:
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إيمانويل ليفيناس
@@ -32,7 +34,7 @@ gaps:
 
 ## الانقلاب
 
-الفلسفة الوجودية بدأت من الذات وحريتها. ليفيناس يقول إن الأصل هو <b>وجه الآخر</b>: مواجهته تفرض عليّ مسؤولية قبل أن أختارها.
+الفلسفة الوجودية بدأت من الذات وحريتها. ليفيناس يقول إن الأصل هو **وجه الآخر**: مواجهته تفرض عليّ مسؤولية قبل أن أختارها.
 
 ## وجه الآخر
 

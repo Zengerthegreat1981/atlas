@@ -8,9 +8,12 @@ en: "Main & Solomon Disorganized/Disoriented Attachment Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات ماري مين للتعلّق غير المنظم"
 active_start: 1986
 active_end: 1990
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "dbt-attachment-stability", title: "هل أنماط التعلق ثابتة حقاً؟", type: "جدل"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "العلاقة بين التعلّق غير المنظم في الطفولة واضطراب الشخصية الحدية والفصام في الرشد تحتاج ربطاً إكلينيكياً"
   - "بروتوكولات التدخل العلاجي المبكر لعلاج اضطراب التعلّق تتطلب مراجعة من أدبيات العلاج العلائقي"

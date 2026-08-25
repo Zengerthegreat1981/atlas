@@ -5,20 +5,24 @@ type: "مفكر"
 level: "متوسط"
 title: "بول أبلباوم"
 en: "Paul S. Appelbaum"
-crumb: "br-therapeutic-risk-assessment ← الأخلاق والقانون ← بول أبلباوم"
+crumb: "تقييم المخاطر العلاجي ← الأخلاق والقانون ← بول أبلباوم"
 dates: "الولايات المتحدة · 1948–"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1977
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
+- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
 related:
-  - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
-  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "مفكر"
+- id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
+- id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
+- id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Columbia لم تُراجع مباشرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
 ---
 
 # بول أبلباوم

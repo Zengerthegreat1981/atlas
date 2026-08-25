@@ -11,11 +11,17 @@ country: "الولايات المتحدة (هاواي)"
 language: "الإنجليزية/الهاوائية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Ho'oponopono (هاواي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
+related:
+- id: "thk-msimeona", title: "مورّنا سيميونّا", type: "مفكر"
+- id: "thk-ihewlen", title: "إِهالِيكالا هيو لين", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إِهالِيكالا هيو لين (thk-ihewlen)."
+  - "هوية الملف: الـslug `thk-lmorrnah` يشير إلى Abraham Kawai'ae'a. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # أبراهام كاوانيوآ

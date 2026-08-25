@@ -11,19 +11,21 @@ active_start: 1988
 active_end: 2005
 language: "الإنجليزية"
 country: "هولندا / بريطانيا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "dbt-british-yalom", title: "الخصومة", type: "جدل"
-  - id: "dbt-structures", title: "خصومة البنى", type: "جدل"
-  - id: "thk-cohn", title: "هانز كون", type: "مفكر"
-  - id: "thk-duplock", title: "سايمون دو بلوك", type: "مفكر"
-  - id: "thk-tantam", title: "ديغبي تانتام", type: "مفكر"
-  - id: "thk-adams", title: "مارتن آدامز", type: "مفكر"
-  - id: "thk-mojastrasser", title: "لوتشيا مويا-شتراسر", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "dbt-british-yalom", title: "الخصومة", type: "جدل"
+- id: "dbt-structures", title: "خصومة البنى", type: "جدل"
+- id: "thk-cohn", title: "هانز كون", type: "مفكر"
+- id: "thk-duplock", title: "سايمون دو بلوك", type: "مفكر"
+- id: "thk-tantam", title: "ديغبي تانتام", type: "مفكر"
+- id: "thk-adams", title: "مارتن آدامز", type: "مفكر"
+- id: "thk-mojastrasser", title: "لوتشيا مويا-شتراسر", type: "مفكر"
 gaps:
   - "بيانات الأعمال وتواريخ التأسيس — تحتاج تثبيتاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إيمي فان دورزن

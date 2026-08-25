@@ -13,12 +13,12 @@ language: "الألمانية، الفرنسية، الإنجليزية"
 active_start: 1953
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الظاهراتية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الظاهراتية الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-  - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
-  - id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
 gaps:
   - "الفرق بين 'الظاهراتية التأويلية' و'الهرمنيوطيقا الفلسفية' كمدرستين مستقلتين ليس موحّدًا في المراجع؛ بعض المصادر تعتبر غادامير المؤسِّس لمدرسة واحدة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

@@ -13,12 +13,12 @@ language: "الفرنسية، اللاتينية"
 active_start: 1637
 active_end: 1780
 edges:
-  - rel: "belongs_to", target: "العقلانية القارية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مظلة"
 related:
-  - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
-  - id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
-  - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
-  - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
+- id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
+- id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
 gaps:
   - "نصوص ديكارت بالفرنسية واللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Meditationes' أو 'Principia Philosophiae'."

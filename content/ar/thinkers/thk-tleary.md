@@ -11,10 +11,13 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1960
 active_end: 1996
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
 related:
-  - id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
+- id: "thk-rmritchie", title: "رالف ميتزner", type: "مفكر"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
+- id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Harvard وMillbrook لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

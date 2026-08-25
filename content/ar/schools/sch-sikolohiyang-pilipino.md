@@ -14,9 +14,9 @@ active_start: 1975
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الفلبينية (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة الفلبينية (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-pancasila", title: "بانتشاسيلا", type: "مدرسة"
+- id: "sch-pancasila", title: "بانتشاسيلا", type: "مدرسة"
 gaps:
   - "الفصل بين 'Sikolohiyang Pilipino' كحركة علم نفس وحركة فلسفية (Filipino Philosophy proper) غير محسوم."
   - "لا اقتباس مباشر موثوق من Virgilio Enriquez متاح في هذه المسودة."

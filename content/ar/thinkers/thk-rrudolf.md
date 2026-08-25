@@ -11,13 +11,16 @@ country: "ألمانيا"
 language: "الألمانية"
 active_start: 1975
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
 related:
-  - id: "thk-schultz-hencke", title: "هارالد شولتز-هِنكه", type: "مفكر"
+- id: "thk-schultz-hencke", title: "هارالد شولتز-هِنكه", type: "مفكر"
+- id: "thk-jlueger", title: "جون لوغر", type: "مفكر"
 gaps:
   - "المساهمات اللاحقة بعد 2015 لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون لوغر (thk-jlueger)."
 ---
 
 # غرد رودولف

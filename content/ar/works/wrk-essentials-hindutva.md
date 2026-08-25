@@ -12,10 +12,13 @@ language: "الإنجليزية"
 active_start: 1923
 active_end: 1929
 edges:
-  - rel: "belongs_to", target: "الفلسفة الهندوسية القومية (هندوتفا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hindutva", target_type: "مدرسة"
 related:
-  - id: "sch-hindutva", title: "الفلسفة الهندوسية القومية (هندوتفا)", type: "مدرسة"
-  - id: "thk-savarkar", title: "فيناياك دامودار سافاركار", type: "مفكر"
+- id: "sch-hindutva", title: "الفلسفة الهندوسية القومية (هندوتفا)", type: "مدرسة"
+- id: "thk-savarkar", title: "فيناياك دامودار سافاركار", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ الطبعات الأولى من الكتاب (1923، مطبعة K.B. Dhawale، بومباي؛ 1929، S.S. Savarkar)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← بين-ثقافية ← مفهوم
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة بين-الثقافية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-intercultural-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-intercultural-philosophy", title: "الفلسفة بين-ثقافية", type: "مدرسة"
-  - id: "thk-wimmer", title: "فرانتس مارتن فيمر", type: "مفكر"
+- id: "sch-intercultural-philosophy", title: "الفلسفة بين-ثقافية", type: "مدرسة"
+- id: "thk-wimmer", title: "فرانتس مارتن فيمر", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مجلة *Polylog* (المنشورة في فيينا منذ 1998) حيث يَتركز البحث في المصطلح."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # البين-ثقافية (Interkulturalität)

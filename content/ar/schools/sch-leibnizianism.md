@@ -13,14 +13,15 @@ language: "الفرنسية، اللاتينية، الألمانية"
 active_start: 1680
 active_end: 1780
 edges:
-  - rel: "belongs_to", target: "العقلانية القارية", target_type: "مظلة"
-  - rel: "evolved_from", target: "الديكارتية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "السكولاستية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "مدرسة"
 related:
-  - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-  - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
-  - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
-  - id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
+- id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
+- id: "con-monad", title: "المونادات (Monades)", type: "مفهوم"
 gaps:
   - "نصوص لايبنتز بالفرنسية واللاتينية والألمانية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Monadologie' أو 'Théodicée'."

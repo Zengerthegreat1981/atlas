@@ -12,19 +12,26 @@ active_end: 1949
 active_source: "lifespan"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "tec-ipt", title: "العلاج النفسي البيني-الشخصي (IPT)", type: "تقنية/تدخل علاجي"
+- id: "tec-tldp", title: "العلاج الديناميكي المحدد زمنياً (TLDP)", type: "تقنية/تدخل علاجي"
+- id: "br-cyclical-psychodynamics", title: "الديناميات النفسية الدائرية", type: "تيار"
+- id: "br-neo-freudian", title: "الفرويدية الجديدة والتحليل البيني-الشخصي", type: "تيار"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
+- id: "ctx-chestnut-lodge-inpatient-psychoanalysis", title: "مصحة تشستنت لودج والتحليل النفسي الإكلينيكي للحالات الذهانية", type: "سياق/تقليد"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نظريته في القلق كعدوى بين-شخصية وتأثيرها على رولو ماي تستحق التوثيق في المفاهيم."
 ---
-
 # هاري ستاك سوليفان
 
 طبيب نفسي ومحلل نفسي أمريكي رائد، مؤسس «الطب النفسي البين-شخصي» (Interpersonal Psychiatry) ومعهد وايت، وأحد أكبر المؤثرين في علم النفس الأمريكي الحديث.

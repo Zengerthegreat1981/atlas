@@ -13,14 +13,16 @@ language: "اللاتينية (الأصلية)، ثمّ التوماوية ال�
 active_start: 1250
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية)", target_type: "مظلة"
-  - rel: "evolved_from", target: "الآبائية المسيحية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الفلسفة المشائية الإسلامية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
-  - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-  - id: "sch-second-scholasticism", title: "السكولاستية الثانية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
+- id: "sch-second-scholasticism", title: "السكولاستية الثانية", type: "مدرسة"
+- id: "wrk-summa-theologiae", title: "الخلاصة اللاهوتية (Summa Theologiae)", type: "عمل / كتاب"
+- id: "dbt-thomism-vs-scotism", title: "التوماوية في مقابل السكوتية: العقل أم الإرادة؟", type: "جدل"
 gaps:
   - "نصوص توما الأكويني اللاتينية (أكبر من 50 مؤلَّفاً، 8 ملايين كلمة) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Summa Theologica' أو 'De Ente et Essentia'."

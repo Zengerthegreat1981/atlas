@@ -11,13 +11,14 @@ active_start: 1987
 active_end: 2005
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهومه في 'المادية السحرية' ونقد الإرادوية الوجودية المفرطة يحتاج فحصاً في قسم الجدالات."

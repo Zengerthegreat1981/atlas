@@ -6,13 +6,17 @@ level: "مبتدئ"
 title: "سيزيف: استعارة العبث والتمرد المستمر"
 en: "Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
 crumb: "المدرسة الوجودية ← الاستعارات المؤسِّسة ← سيزيف"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 gaps:
   - "لم يُراجع بعد النص الأصلي الكامل لمقالة كامو 'أسطورة سيزيف' من مصدر محقق مباشر"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سيزيف: استعارة العبث والتمرد المستمر

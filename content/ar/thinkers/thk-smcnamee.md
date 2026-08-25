@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← شيلا ماكنامي"
 edges:
-  - rel: "belongs_to", target: "البنائية الاجتماعية (Social Constructionism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "البنائية الاجتماعية (Social Constructionism)", target_type: "مدرسة"
 related:
-  - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
+- id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

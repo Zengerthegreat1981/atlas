@@ -13,11 +13,11 @@ language: "الإنجليزية"
 active_start: 2006
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
 related:
-  - id: "wrk-deep-work", title: "العمل العميق", type: "عمل / كتاب"
-  - id: "wrk-digital-minimalism", title: "البساطة الرقمية", type: "عمل / كتاب"
-  - id: "con-deep-work", title: "العمل العميق", type: "مفهوم"
+- id: "wrk-deep-work", title: "العمل العميق", type: "عمل / كتاب"
+- id: "wrk-digital-minimalism", title: "البساطة الرقمية", type: "عمل / كتاب"
+- id: "con-deep-work", title: "العمل العميق", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

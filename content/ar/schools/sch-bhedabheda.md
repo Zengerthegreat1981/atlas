@@ -13,14 +13,15 @@ language: "السنسكريتية"
 active_start: 1100
 active_end: 1800
 edges:
-  - rel: "belongs_to", target: "فيدانتا", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-acintya-bhedabheda", title: "أتشينتيا بيدا أبيدا", type: "مدرسة"
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-acintya-bhedabheda", title: "أتشينتيا بيدا أبيدا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
 gaps:
   - "نصوص Bhāskara وNimbārka تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بيدابيدا (Bhedābheda)

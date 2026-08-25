@@ -11,12 +11,16 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1992
 active_end: 2018
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
 related:
-  - id: "thk-sporges", title: "ستيفن بورجِس", type: "مفكر"
-  - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
+- id: "thk-dpooleheller", title: "ديان بويل هيلر", type: "مفكر"
+- id: "thk-rmenakem", title: "ريزما ميناكم", type: "مفكر"
+- id: "thk-srosenberg", title: "ستانلي روزنبرغ", type: "مفكر"
 gaps:
+  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
   - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
@@ -38,7 +42,7 @@ gaps:
 
 ## أهم أعماله
 
-- *The Body Bears the Burden: Trauma, Dissociation, and Disease* (2001، مع M. Scaer).
+- *The Body Bears the Burden: Trauma, Dissociation, and Disease* (2001).
 - *The Trauma Spectrum: Hidden Wounds and Human Resiliency* (2005).
 - *Healing the Traumatized Self: Consciousness, Neuroscience, Treatment* (2014).
 - مقالات متعددة في *Traumatology* وسواها.

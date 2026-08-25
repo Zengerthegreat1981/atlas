@@ -13,13 +13,16 @@ language: "اليونانية الدورية"
 active_start: -530
 active_end: -350
 edges:
-  - rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
-  - rel: "evolved_into", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
-  - rel: "superseded_by", target: "الأكاديمية الأفلاطونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
-  - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-  - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-  - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "thk-archytas", title: "أرخيتاس التارنتي", type: "مفكر"
+- id: "thk-pythagoras", title: "فيثاغورس الساموسي", type: "مفكر"
+- id: "thk-philolaus", title: "فيلولاوس الكروتوني", type: "مفكر"
 gaps:
   - "لا نعرف بدقة ما هي أفكار فيثاغورس نفسه مقابل ما أُضيف إلى مدرسته بعده (الإشكالية التقليدية المعروفة بـ 'الصورة التاريخية لفيثاغورس')."
   - "لا توجد اقتباسات مباشرة موثّقة من فيثاغورس؛ معظم ما نعرفه وصلنا عبر فيلو لاوس وفيليستو وأفلاطون وأرسطو وبورفري."

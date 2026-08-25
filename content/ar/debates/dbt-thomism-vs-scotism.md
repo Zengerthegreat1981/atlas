@@ -10,13 +10,14 @@ crumb: "الفلسفة ← المسيحية ← المدرسية ← جدل ال
 active_start: 1270
 country: "أوروبا اللاتينية"
 language: "اللاتينية"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية) — كمظلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 related:
-  - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
-  - id: "thk-duns-scotus", title: "يوحنا دونز سكوتوس (الدكتور سوتيل)", type: "مفكر"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-  - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
+- id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
+- id: "thk-duns-scotus", title: "يوحنا دونز سكوتوس (الدكتور سوتيل)", type: "مفكر"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-scotism", title: "السكوتية", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لموقف كل منهما من الحرية الإنسانية موضع جدل."
   - "لا يوجد اقتباس مباشر موثوق من أي من الطرفين."

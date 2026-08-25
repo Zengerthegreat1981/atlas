@@ -9,11 +9,17 @@ crumb: "علم نفس الجسد ← الناس ← النباتي المبكر 
 dates: "أمريكا · 1902–1954"
 country: "أمريكا"
 language: "الإنجليزية / الألمانية"
+part: "philosophy"
+active_start: null
+active_end: 1954
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
+- id: "thk-gferri", title: "جينوفينو فيري", type: "مفكر"
+- id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سبب وفاته المبكرة (52 سنة) وطبيعة مرضه الأخير شحيح في المصادر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -6,14 +6,18 @@ level: "متوسط"
 title: "مايكل إيغن"
 en: "Michael Eigen"
 crumb: "التحليل النفسي ← الناس ← العلائقي المعاصر (روحاني) ← مايكل إيغن"
-dates: "أمريكا · مواليد 1942"
+dates: "أمريكا · مواليد 1936"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة 1942 وفق ويكيبيديا، تحتاج تأكيداً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

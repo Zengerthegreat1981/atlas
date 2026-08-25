@@ -13,12 +13,19 @@ language: "متعددة"
 active_start: 1924
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "con-parallelism-philosophy", title: "التّوازيات الفلسفية (Philosophical Parallelism)", type: "مفهوم"
+- id: "wrk-chinese-mirror-rosemont", title: "المرآة الصينية (A Chinese Mirror)", type: "عمل / كتاب"
+- id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
+- id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
+- id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
+- id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)", type: "مفكر"
 gaps:
   - "نصوص P.J. Masson-Oursel, Edward Conze, Wing-tsit Chan, Eliot Deutsch need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة المقارنة (Comparative Philosophy)

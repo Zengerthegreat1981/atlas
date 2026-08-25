@@ -13,21 +13,33 @@ language: "اليونانية، اللاتينية"
 active_start: -300
 active_end: 250
 edges:
-  - rel: "belongs_to", target: "فلسفة هلنستية", target_type: "مظلة"
-  - rel: "evolved_into", target: "المشائية / الأرسطية", target_type: "مدرسة"
-  - rel: "absorbed_by", target: "المسيحية", target_type: "مظلة"
+- rel: "belongs_to", target: "فلسفة هلنستية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-aristotelianism", target_type: "مدرسة"
+- rel: "absorbed_by", target: "sch-existentialism-religious", target_type: "مظلة"
 related:
-  - id: "sch-cynicism", title: "الكلبية", type: "مدرسة"
-  - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-  - id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
-  - id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-  - id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
+- id: "sch-cynicism", title: "الكلبية", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
+- id: "wrk-marcus-aurelius-meditations", title: "كتاب التأملات للإمبراطور ماركوس أوريليوس", type: "عمل / كتاب"
+- id: "exp-marcus-aurelius-danube-campaigns", title: "ماركوس أوريليوس على جبهة نهر الدانوب وتدوين التأملات", type: "خبرة معيشة"
+- id: "exp-seneca-forced-suicide-nero", title: "انتحار سينيكا القسري بأمر نيرون والثبات الرواقي الأخير", type: "خبرة معيشة"
+- id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح لغوي متنازع عليه"
+- id: "met-stoic-dog-tied-to-cart", title: "الكلب المربوط بالعربة: استعارة الرواقية للقدر وحرية الاختيار", type: "استعارة/مجاز مؤسِّس"
+- id: "thk-zeno-elea", title: "زينون الإيلي", type: "مفكر"
+- id: "thk-chrysippus", title: "خريسيبوس السولي", type: "مفكر"
+- id: "thk-posidonius", title: "بوسيدونيوس الأفامي", type: "مفكر"
+- id: "thk-panaetius", title: "بانيتيوس الرودسي", type: "مفكر"
+- id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"
+- id: "thk-seneca", title: "لوكيوس أنيوس سينيكا", type: "مفكر"
+- id: "thk-epictetus", title: "إبكتيتوس", type: "مفكر"
+- id: "thk-musonius-rufus", title: "موسونيوس روفوس", type: "مفكر"
 gaps:
   - "من 535 عملاً كتبها الرواقيون (حسب ديوغانس لايرتي 7.39) فُقد 99% منها — وصلتنا شذرات فقط."
   - "الرواقيون 'الجدد' (مثل Posidonius، Seneca، Marcus Aurelius) لم يكونوا جميعاً متّسقين مع المؤسّسين (Zenon, Cleanthes, Chrysippus)."
   - "حدود التأثير الرواقي على لاهوت بولس الرسول والقديس أوغسطينوس موضوع خلاف تاريخي ضخم."
 ---
-
 # الرواقية (Stoicism)
 
 تيار فلسفي-أخلاقي تأسّس في أثينا نحو 300 ق.م على يد **زينون السيتيومي** (Zeno of Citium، نحو 334–262 ق.م)، الذي علّم في «السوق الرخامي» (Στοὰ Ποικίλη) في أثينا — ومنه اشتُقّ اسم «الرواق» (Stoa). هي من أهمّ مدارس العصر الهلنستي، وأكثر الفلسفات اليونانية تأثيراً في الفلسفة الرومانية واللاهوت المسيحي المبكر.

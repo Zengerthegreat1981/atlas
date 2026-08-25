@@ -13,12 +13,14 @@ language: "الفارسية الوسطى (البهلوية)"
 active_start: -400
 active_end: 700
 edges:
-  - rel: "evolved_from", target: "الزرادشتية الفلسفية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "sch-manicheism", title: "المانوية", type: "مدرسة"
+- id: "con-zurvan", title: "زروان (الزمن المطلق / القدر)", type: "مفهوم"
 gaps:
   - "نصوص 'زروان ياشت' و'بوندهش' تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الزروانية

@@ -9,11 +9,18 @@ crumb: "علم النفس الفردي ← الناس ← الكلاسيكيون
 dates: "أمريكا · 1906–1996"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 1996
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "thk-ansbacher", title: "هاينز ل. آنسْباخِر", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-ansbacher", title: "هاينز ل. آنسْباخِر", type: "مفكر"
+- id: "thk-kets", title: "مَنفرِد كِتس دي فريس", type: "مفكر"
+- id: "thk-lazarsfeld", title: "صوفي لازارسفيلد", type: "مفكر"
+- id: "thk-soltz", title: "فيكي سولْتز", type: "مفكر"
+- id: "thk-sperber", title: "مَنِس سپِربر", type: "مفكر"
 gaps:
   - "تفاصيل عملها الفردي (غير المشترك مع هاينز) شحيحة في المصادر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

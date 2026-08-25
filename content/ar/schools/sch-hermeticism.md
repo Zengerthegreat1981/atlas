@@ -13,12 +13,13 @@ language: "اليونانية، اللاتينية"
 active_start: 100
 active_end: 1700
 edges:
-  - rel: "evolved_from", target: "الغنوصية القديمة", target_type: "مدرسة"
-  - rel: "evolved_from", target: "مصر القديمة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-gnosticism", target_type: "مدرسة"
+- rel: "evolved_from", target: "مصر القديمة", target_type: "مدرسة"
 related:
-  - id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
-  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
-  - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
+- id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "wrk-corpus-hermeticum", title: "الكوربوس الهرمسية", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«الروزيكروشيان» (sch-rosicrucianism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص 'Corpus Hermeticum' (كوربس هرميتيكام) و'Asclepius' تحتاج مراجعة من المصدر الأولي."

@@ -13,13 +13,15 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1957
 active_end: 1990
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
-  - id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
-  - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
+- id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "thk-sankara", title: "توماس سانكارا", type: "مفكر"
 gaps:
   - "نصوص Nyerere, Nkrumah, Touré, Senghor, Senghor need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الاشتراكية الأفريقية (African Socialism)

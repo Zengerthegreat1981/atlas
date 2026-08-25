@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← أولغا ف�
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
-  - id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
+- id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطته
 
-في «A Alma Feminina e seus Mitos» (2000s) أجرت «تحليلية نسوية» مع تركيز على «الجسد» (Marion Woodman)، كأداة للتواصل مع «أنماط أنثوية» برازيلية (Baiana، Cigana، Cabocla) في الـ Candomblé. كذلك أشرفت على «برامج تدريب» SBrPA في ساوباولو (2000s). كذلك ترجمت Marion Woodman إلى البرتغالية.
+في «A Alma Feminina e seus Mitos» (العقد الأول من القرن الحادي والعشرين) أجرت «تحليلية نسوية» مع تركيز على «الجسد» (Marion Woodman)، كأداة للتواصل مع «أنماط أنثوية» برازيلية (Baiana، Cigana، Cabocla) في الـ Candomblé. كذلك أشرفت على «برامج تدريب» SBrPA في ساوباولو (العقد الأول من القرن الحادي والعشرين). كذلك ترجمت Marion Woodman إلى البرتغالية.
 
 ## موقعها من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-A Alma Feminina e seus Mitos (2000s).
+A Alma Feminina e seus Mitos (العقد الأول من القرن الحادي والعشرين).

@@ -13,13 +13,14 @@ language: "البالي"
 active_start: -300
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "البوذية المبكرة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
-  - id: "sch-mahasanghika", title: "الماهاسامغيكا", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
+- id: "sch-mahasanghika", title: "الماهاسامغيكا", type: "مدرسة"
 gaps:
   - "نصوص بالي (Tipiṭaka) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ثيرافادا (Theravāda)

@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← الجيل ا�
 dates: "ألمانيا/أمريكا · 1881–1947"
 language: "الألمانية / الإنجليزية"
 country: "ألمانيا / أمريكا"
+part: "philosophy"
+active_start: null
+active_end: 1947
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
-  - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-rank", title: "أوتو رانك", type: "مفكر"
+- id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 gaps:
   - "الفصل الدقيق بين كتابات زاكس المبكرة (تحليل أحلام) وكتاباته المتأخرة (إبداع وثقافة) لم يُوثّق في هذه المسودة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

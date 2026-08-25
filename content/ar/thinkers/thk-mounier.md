@@ -11,14 +11,15 @@ active_start: 1936
 active_end: 1947
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "بيان النزعة الشخصانية وتأسيس مجلة Esprit يمثلان حدثاً فكرياً مركزياً في تاريخ الفلسفة الفرنسية."

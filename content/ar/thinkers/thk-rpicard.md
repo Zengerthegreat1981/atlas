@@ -10,11 +10,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← روزاليند بيكار"
 edges:
-  - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", target_type: "تيار"
 related:
-  - id: "thk-darcy-woebot", title: "أليسون دارسي", type: "مفكر"
-  - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "مفكر"
+- id: "thk-darcy-woebot", title: "أليسون دارسي", type: "مفكر"
+- id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"
+- id: "thk-gschwartz", title: "غاري شوارتز", type: "مفكر"
+- id: "thk-kcolby", title: "كينيث كولبي", type: "مفكر"
+- id: "thk-tbickmore", title: "تيموثي بيكمور", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

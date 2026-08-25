@@ -11,12 +11,13 @@ country: "أمريكا"
 language: "الإنجليزية"
 active_start: 1987
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-dwinnicott", title: "دونالد وِنّيكت", type: "مفكر"
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وِنّيكت", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
   - "مفهوم المعلوم غير المُفكَّر فيه (The Unthought Known) لم يُراجَع بعد بالرجوع إلى مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

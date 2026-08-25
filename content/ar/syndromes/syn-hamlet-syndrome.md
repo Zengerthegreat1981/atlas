@@ -11,10 +11,10 @@ active_start: 1960
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "con-analysis-paralysis", title: "شلل التحليل والتردد المفرط", type: "مفهوم"
-  - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
+- id: "con-analysis-paralysis", title: "شلل التحليل والتردد المفرط", type: "مفهوم"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تحليلات التحليل النفسي لمسرحية شكسبير (إرنست جونز وفرويد) وسيكولوجيا الشلل الوجودي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -1,0 +1,40 @@
+---
+slug: "con-somatic-action-systems"
+id: "CON-1250"
+type: "مفهوم"
+part: "psychology"
+level: "متوسط"
+title: "أنظمة الفعل الحركي والتكامل الدفاعي في السنسوريموتور"
+en: "Action Systems and Defensive Integration in Sensorimotor Psychotherapy"
+crumb: "العلاج النفسي السنسوريموتور ← المفاهيم الأساسية ← أنظمة الفعل الحركي"
+active_start: null
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
+related:
+- id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
+---
+
+# أنظمة الفعل الحركي والتكامل الدفاعي في السنسوريموتور
+
+تعتبر بات أوغدن في العلاج السنسوريموتور (Sensorimotor Psychotherapy) أن الصدمة تُخزن في الجسد كـ «استجابات دفاعية غير مكتملة» (Incomplete Defensive Actions) مثل محاولة صد معطلة أو هروب مجمد.
+
+## أنظمة الفعل التطورية
+
+يتضمن الجهاز العصبي أنظمة حركية بيولوجية موجهة نحو التغذية، والتعلق، والدفاع عن الذات؛ وتتعطل هذه الأنظمة حين يعجز الجسد عن إتمام الفعل الدفاعي الفعال أثناء الحدث الصادم.
+
+## الذاكرة الإجرائية والوضعيات الجسدية
+
+تتجلى الصدمة في انحناء الكتفين، وشد الفك، وتيبس الحوض كأنماط حركية لاواعية تعيد إنتاج العجز القديم في الحاضر.
+
+## إتمام الفعل الحركي (Act of Triumph)
+
+يقود العلاج المسترشد بحركات دقيقة لإكمال الفعل الدفاعي رمزياً بجسده، مما يولد شعوراً بالانتصار والتمكين واستعادة السيطرة.

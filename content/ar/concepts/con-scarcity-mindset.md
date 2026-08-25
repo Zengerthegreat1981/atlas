@@ -11,10 +11,13 @@ crumb: "الاقتصاد السلوكي والعلوم المعرفية ← ال
 active_start: 2013
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الاقتصاد السلوكي والعلوم المعرفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الاقتصاد السلوكي والعلوم المعرفية", target_type: "مدرسة"
 related:
-  - id: "wrk-scarcity-mullainathan", title: "الندرة: لماذا يعني القليل الكثير", type: "عمل / كتاب"
-  - id: "con-loss-aversion", title: "كراهية الخسارة", type: "مفهوم"
+- id: "wrk-scarcity-mullainathan", title: "الندرة: لماذا يعني القليل الكثير", type: "عمل / كتاب"
+- id: "con-loss-aversion", title: "كراهية الخسارة", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تجارب زراعة قصب السكر في الهند وأثر دورة الحصاد والسيولة المالية على الأداء المعرفي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

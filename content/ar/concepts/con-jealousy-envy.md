@@ -6,12 +6,17 @@ level: "مبتدئ"
 title: "الغيرة والحسد"
 en: "Jealousy and Envy"
 crumb: "المدرسة الوجودية ← المفاهيم ← الغيرة والحسد"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-sadness", title: "الحزن", type: "مفهوم"
-  - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
+- id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد ما إذا كان لتصنيف شيفر لهذين الشعورين ضمن 'عائلة الغضب' سند كافٍ أم يحتاج نقاشاً نقدياً منفصلاً"
   - "غياب مصادر عربية عن الحسد تحديداً رغم حضوره القوي في التراث الديني والأدبي العربي (وهي فجوة لافتة تستحق تسجيلاً صريحاً)"

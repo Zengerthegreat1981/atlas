@@ -7,14 +7,16 @@ level: "متقدم"
 title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟"
 en: "Advaita vs. Dvaita Vedanta: Is the World Illusion or Reality?"
 crumb: "الفلسفة ← فيدانتا ← جدل أدفايتا-دفايتا"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فيدانتا (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-  - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
-  - id: "thk-shankara", title: "شانكارا", type: "مفكر"
-  - id: "thk-madhva", title: "مادهافا", type: "مفكر"
-  - id: "con-maya-vedanta", title: "مايا", type: "مفهوم"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "thk-shankara", title: "شانكارا", type: "مفكر"
+- id: "thk-madhva", title: "مادهافا", type: "مفكر"
+- id: "con-maya-vedanta", title: "مايا", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة لموقف راماوجا «الوسط» من هذا الجدل تحتاج مراجعة."
   - "لا اقتباس مباشر من Brahma Sutra Bhashya لشانكارا أو مادهافا متاح بنص معتمد عربي."

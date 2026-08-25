@@ -11,11 +11,13 @@ dates: "أريزونا · منتصف القرن العشرين"
 active_start: 1950
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "ميلتون إريكسون", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-merickson", target_type: "مفكر"
 related:
-  - id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
+- id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
+- id: "tec-metaphor-therapy", title: "العلاج بالاستعارة العلاجية", type: "تقنية/تدخل علاجي"
 gaps:
   - "مبدأ الاستفادة (Utilization Principle) والتنويم غير المباشر عبر القصص والاستعارات المجازية عند ميلتون إريكسون."
   - "التأثير التأسيسي لإريكسون على مدرسة بالو ألتو (MRI) والعلاج الاستراتيجي والعلاج المرتكز على الحلول."

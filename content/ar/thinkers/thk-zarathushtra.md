@@ -12,10 +12,13 @@ language: "الفارسية القديمة (الأفستية)"
 active_start: -1500
 active_end: -1100
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← زرادشت (زَرَتُشْتْرَة)"
 edges:
-  - rel: "belongs_to", target: "الزرادشتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الزرادشتية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "wrk-gathas", title: "الأناشيد الغاثية (Gathas)", type: "عمل / كتاب"
+- id: "con-asha", title: "أشا (الحقيقة-النظام)", type: "مفهوم"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
 gaps:
   - "تأريخ حياة زرادشت غير محسوم بين علماء إيران القديمة: التقليد الفارسي يحدد القرن 6 ق.م (النسخة الأحدث)، والعلماء المعاصرون يطرحون 1500-1100 ق.م."
   - "نسبة الأناشيد الغاثية (Gathas) لزرادشت نفسه موضع نقاش منذ القرن 19."

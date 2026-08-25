@@ -10,10 +10,12 @@ country: "الهند"
 language: "الإنجليزية/الهندية"
 active_start: 2012
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← نيخيل خانا"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإيجابي الشرقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإيجابي الشرقي", target_type: "مدرسة"
 related:
-  - id: "thk-fvanderzee", title: "فرانك فان دير زي", type: "مفكر"
+- id: "thk-fvanderzee", title: "فرانك فان دير زي", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

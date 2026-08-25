@@ -8,9 +8,12 @@ en: "Minnesota Twin Study / Minnesota Study of Twins Reared Apart (MSTRA)"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة مينيسوتا للتوائم"
 active_start: 1979
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "ins-neo-pi-r", title: "قائمة الشخصية المنقحة للخمسة الكبار", type: "أداة قياس"
+- id: "ins-neo-pi-r", title: "قائمة الشخصية المنقحة للخمسة الكبار", type: "أداة قياس"
+- id: "dbt-nature-vs-nurture-intelligence-personality", title: "جدل الطبيعة والتنشئة في الذكاء والشخصية", type: "جدل"
 gaps:
   - "تأثير علم التخلق (Epigenetics) والتفاعل بين الجينات والبيئة المعاصرة على تفسير نسب التوريث يحتاج توثيقاً"
   - "الجدل الإيديولوجي والأخلاقي حول الحتمية الجينية والوراثة السلوكية يتطلب استعراضاً نقدياً متوازناً"

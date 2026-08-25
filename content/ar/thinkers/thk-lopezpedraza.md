@@ -9,11 +9,17 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رافائيل
 dates: "كوبا / فنزويلا · 1920–2011"
 country: "فنزويلا"
 language: "الإسبانية"
+part: "philosophy"
+active_start: null
+active_end: 2011
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-guggenbuhl", title: "أدولف غوغنبوهل-كرايغ", type: "مفكر"
+- id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
+- id: "thk-atobart", title: "آنا تيريزا دي توبار", type: "مفكر"
+- id: "thk-edsch", title: "[مؤسِّسو AAPA / مُنظِّمو SCAP / SVAJ / SOMEJ / SCAJ]", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-guggenbuhl", title: "أدولف غوغنبوهل-كرايغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تفاصيل حياته الكوبية المبكرة (قبل 1962) — قليلة التوثيق في المصادر الإنجليزية."

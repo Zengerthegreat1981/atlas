@@ -10,11 +10,15 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 2010
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخياً، تمييز DTx عن 'mHealth' و'wellness apps' لم يُراجع من مصدر أولي مباشر."
   - "إفلاس Pear Therapeutics في 2023 وحقوقه على reSET — يستحق تحققاً."

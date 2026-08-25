@@ -11,10 +11,12 @@ crumb: "علم النفس الاجتماعي والمعرفي ← المفاهي
 active_start: 1975
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
 related:
-  - id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي", type: "مفهوم"
-  - id: "con-dunning-kruger-effect", title: "تأثير دانينغ–كروغر", type: "مفهوم"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "wrk-fear-of-freedom-1941", title: "الخوف من الحرية (1941)", type: "عمل / كتاب"
+- id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي", type: "مفهوم"
+- id: "con-dunning-kruger-effect", title: "تأثير دانينغ–كروغر", type: "مفهوم"
 gaps:
   - "الأبحاث التجريبية لدايل ميلر وميخائيل روس (Miller & Ross 1975) حول حماية تقدير الذات."
   - "لا يوجد اقتباس مباشر موثوق متاح."

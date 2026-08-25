@@ -3,7 +3,7 @@ slug: "thk-lonan"
 id: "THK-1472"
 type: "مفكر"
 level: "متوسط"
-title: "لورينا أونان"
+title: "لورينا أونيس"
 en: "Lorena Onnis"
 crumb: "العلاج الأسري الميلاني (Milan Systemic) ← العلاج في الصحة ← لورينا أونيس"
 dates: "إيطاليا · القرن العشرين–"
@@ -11,8 +11,11 @@ country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1985
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الأسري الميلاني (Milan Systemic)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري الميلاني (Milan Systemic)", target_type: "مدرسة"
+related:
+- id: "thk-mselvini", title: "مارا سيلفيني بالاتزولي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

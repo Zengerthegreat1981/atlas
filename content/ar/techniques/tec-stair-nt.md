@@ -11,11 +11,15 @@ dates: "نيويورك · بداية الألفية الثالثة"
 active_start: 2002
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-net", title: "العلاج بالتعرض السردي (NET)", type: "تقنية/تدخل علاجي"
+- id: "trm-affect-labeling", title: "تسمية العاطفة (Affect Labeling)", type: "مصطلح لغوي متنازع عليه"
+- id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
+- id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-net", title: "العلاج بالتعرض السردي (NET)", type: "تقنية/تدخل علاجي"
 gaps:
   - "النموذج ثنائي المراحل لماريلين كلواتري (Marylene Cloitre) لعلاج الصدمات المعقدة المتكررة (Complex PTSD)."
   - "المرحلة الأولى: تنظيم الانفعالات والمهارات البينية؛ المرحلة الثانية: معالجة السردية الصادمة (Narrative Therapy)."

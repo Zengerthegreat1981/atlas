@@ -11,11 +11,15 @@ dates: "من الثمانينيات والتسعينيات"
 active_start: 1990
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "أعمال غاري يونتيف وريتشارد هايكنر ولين جاكوبس (Yontef, Hycner, Jacobs) وتأصيل فلسفة الحوار (أنا-أنت) لمارتن بوبر."
   - "الانتقال من المواجهة الصادمة الفردية لبيرلز إلى الحوار البين-ذاتي الدافئ والاعتراف المتبادل والتأطير الميداني."

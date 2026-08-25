@@ -1,0 +1,1755 @@
+{
+ "thk-aalladin": {
+  "title": "آسين علادين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-albertellis-somatic": {
+  "title": "إيمي فونتانا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-alexandra-farkas": {
+  "title": "ألكسندرا فاركاش",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-alicorazon": {
+  "title": "ألي كورازون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-amy-morgan": {
+  "title": "إيمي مورغان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-anajam": {
+  "title": "عادل نجّام",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-andersericson": {
+  "title": "أندرس إريكسون",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-andrew-barnes": {
+  "title": "إيميلي بلاك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-andrew-johnson": {
+  "title": "أندرو جونسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-andrew-schnack": {
+  "title": "أندرو شنك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-angusmacfarlane": {
+  "title": "أنغوس ماكفارلن",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-apert": {
+  "title": "أنا أريتي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-arthurbeckerweidman": {
+  "title": "آرثر بيكر-ويدمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-aulanc": {
+  "title": "[مؤسِّسو ISAP / IIJP / NIJA / Israel Society of Analytical Psychology]",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-bala-jaison": {
+  "title": "بالا جايسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-barlow": {
+  "title": "ديفيد هـ. بارلو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-barry-kramer": {
+  "title": "باري كريمر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-benthall": {
+  "title": "مايكل بينثال",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-beutler": {
+  "title": "لاري بويتلر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-bill-matthews": {
+  "title": "بيل ماثيوز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-bobbeck": {
+  "title": "بوب بيك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-boscolo": {
+  "title": "لويجي بوسكولو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-brapp": {
+  "title": "تشارلز راب",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-brian-aleman": {
+  "title": "براين ألمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-brianhug": {
+  "title": "بريان هيوز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-brosen": {
+  "title": "برنارد روزن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-bruceperkins": {
+  "title": "بروس بيركنز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-campbell-purton": {
+  "title": "كامبيل پيرتون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-carolyn-dalglish": {
+  "title": "كارولين دالجليش",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-cecilehimawan": {
+  "title": "سيسيل هيموان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-cgarrett": {
+  "title": "كولين غاريت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-charles-glisson": {
+  "title": "تشارلز غليسون",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-charlesfaulkner": {
+  "title": "تشارلز فولكنر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-cherylfairbairn": {
+  "title": "شيريل فيربيرن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-connie-rae-anderson": {
+  "title": "كوني ري أندرسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-cwebster": {
+  "title": "كريستوفر ويبستر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-cwhitaker-pt": {
+  "title": "جون مارش",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-daniellevision": {
+  "title": "دانييل ليڤيسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-david-erceg": {
+  "title": "ديفيد إرسغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-david-feldman": {
+  "title": "ديفيد فيلدمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-david-reeve": {
+  "title": "ديفيد ريڤ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-deborah-kremer": {
+  "title": "دبرا كريمر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-deepak-ramsubeik": {
+  "title": "ديپاك رامسوبك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-dfisher": {
+  "title": "دانيال فيشر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-dgrand": {
+  "title": "ديفيد غراند",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-dgray": {
+  "title": "مارتن ديك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-dgreenberger": {
+  "title": "دِنيز د. ديفيد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-diclemente": {
+  "title": "كارل دي كليمنتي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-dmercieca": {
+  "title": "إيفا ميرسيكا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-donaldatkinson": {
+  "title": "دونالد أتكينسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-dpierrakos": {
+  "title": "دورا غوميز بيراكوس",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-dwchen": {
+  "title": "دونغ-وي تشن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-dzurilla": {
+  "title": "توماس ج. دزوريلا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ebosnak": {
+  "title": "[مؤسِّسو رابطة ساندبلاي في أمريكا]",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-ecker": {
+  "title": "بروس إيكر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ecolle": {
+  "title": "إيما كول",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-edsch": {
+  "title": "[مؤسِّسو AAPA / مُنظِّمو SCAP / SVAJ / SOMEJ / SCAJ]",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-eleanor-crisostomo": {
+  "title": "إيلينور كريزوستومو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-elin-rbaek": {
+  "title": "إلين ربيك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-erickson-erl": {
+  "title": "إرنست لورنس روسي",
+  "reasons": [
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-erikpearson": {
+  "title": "إريك پيرسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-fherzog": {
+  "title": "ف. هرتسوغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-fkfu": {
+  "title": "ف. كي. فو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-foa": {
+  "title": "إدنا ب. فوا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-fpeseschkian": {
+  "title": "فريد بيسشكيان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-frankanderson": {
+  "title": "فرانك أندرسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-frederickleong": {
+  "title": "فريديريك ليونغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-freeman": {
+  "title": "دانيال فريمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-gene-ennis": {
+  "title": "جين إينيس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-george-thompson": {
+  "title": "جورج تومبسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-gillian-abbott": {
+  "title": "جيليان أبوت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-gnardone": {
+  "title": "جورجيو ناردوني",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-gold": {
+  "title": "جوزيف غولد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-goldfried": {
+  "title": "مارفين غولدفريد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-greenwald": {
+  "title": "راي غرينوالد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-griffiths": {
+  "title": "رولاند غريفيثز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-gsmith": {
+  "title": "غراهام سميث",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-gunnel-cederblad": {
+  "title": "جونيل سيدِربلاد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-hershman": {
+  "title": "دينا هيرشمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-hkoprulu": {
+  "title": "حازم قبرلو (حازم كوبرولو)",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-hohagen": {
+  "title": "فريدريش هوهاغن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-icheolhong": {
+  "title": "تشو هي-سو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-ieyberg": {
+  "title": "شيرلي إِيبِرغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ihewlen": {
+  "title": "إِهالِيكالا هيو لين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ihilgard": {
+  "title": "إرنست ر. هيلغارد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-isap": {
+  "title": "[جمعية ISAP / إيلينا/آنا فاي-قاردنر]",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-istansky": {
+  "title": "إيروين سترانسكي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-jacqueline-astington": {
+  "title": "جاكلين أستنغتون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jacqueline-peart": {
+  "title": "جاكلين پيرت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jacqueline-tortorella": {
+  "title": "جاكلين تورتوريلا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jacqueline-varner": {
+  "title": "جاكلين فارنر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-james-berman": {
+  "title": "جيمس بيرمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-james-gumpert": {
+  "title": "جيمس غومپرت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-janethelms": {
+  "title": "جانيت هيلمز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-janicewilliams": {
+  "title": "جانيس ويليامز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jarlena-white": {
+  "title": "جارلينا وايت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jayearly": {
+  "title": "جاي إيرلي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-jboss": {
+  "title": "ديفيد بيرسيلي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-jbrowne": {
+  "title": "كاثلين براون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-jcawley": {
+  "title": "جوليا كاولي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jenna-brown": {
+  "title": "جينا براون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jennifer-cheavens": {
+  "title": "جينيفر تشيڤنز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jennifer-olding": {
+  "title": "جينيفر أولدنغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jenniferschwab": {
+  "title": "جينيفر شواب",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jenny-christensen": {
+  "title": "جيني كريستنسن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jgould": {
+  "title": "جيمس ليبشيتز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-jim-ackerman": {
+  "title": "جيم أكرمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jim-loehr": {
+  "title": "جيم لور",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-jjoyce": {
+  "title": "مارغريت بِي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-jkadden": {
+  "title": "كاثلين كاري",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-jlubar": {
+  "title": "جويل لوبار",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-jlueger": {
+  "title": "جون لوغر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jmertz": {
+  "title": "[مؤسِّسو أعمدة Rivista di Psicologia Analitica]",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-jmitchell": {
+  "title": "جوليا ميتشِل",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-jnakamura": {
+  "title": "[مؤسِّسو Sandplay Therapy Japan / JST] - Japanese Sandplay second generation",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-john-friedman": {
+  "title": "جون فريدمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-john-lippmann": {
+  "title": "جون ليبمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-johnshlien": {
+  "title": "جون شلين",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jonathanbaylin": {
+  "title": "جوناثان بايلن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-jose-arsenio": {
+  "title": "خوسيه أرسينيو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jose-salgado": {
+  "title": "خوسيه سالغادو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-jrivett": {
+  "title": "جوردان ريد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-jroddy": {
+  "title": "ج. لوك ويلز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-jspence": {
+  "title": "جو سبنس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-julierawlins": {
+  "title": "جولي رولينز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-kaarlokeranen": {
+  "title": "كارلو كيرانن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-kathylaurenceau": {
+  "title": "كاثي لورنسو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-katie-rae": {
+  "title": "كايتي ري",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-katka-rubin": {
+  "title": "كاتكا روبين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-keiko-hoshino": {
+  "title": "كيكو هوشينو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-kelleycolleen": {
+  "title": "كولين كيلي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-kevin-sparger": {
+  "title": "كيفن سپارجر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-kimkwansung": {
+  "title": "كيم كوان-سونغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-kmithoefer": {
+  "title": "آن ميثوفر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-kmurah": {
+  "title": "[مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA]",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-knoblauch": {
+  "title": "[مؤسِّسو DGAP] DGAP founders (ألمانيا)",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-krischer": {
+  "title": "باري كريشر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-kruger-marielle": {
+  "title": "مارييل كروغر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-kurtz-sherman": {
+  "title": "شيرمان كيرتز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-larrynims": {
+  "title": "لاري نيمز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-lars-johansson": {
+  "title": "لارس يوهانسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-lavinia-shaw": {
+  "title": "لاڤينيا شو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-lfish": {
+  "title": "لورانس فيشباين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-lhecker": {
+  "title": "لويس هِكَر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-lmazza": {
+  "title": "نيكولاس مازا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-lrosenzweig": {
+  "title": "لانا روزنغر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-lroszak": {
+  "title": "ثيرون روزاك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ma-rosario-alfelor": {
+  "title": "ماريا روساريو ألفيلور",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-madeleine-sandberg": {
+  "title": "مادلين ساندبرغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-marciamarx": {
+  "title": "مارسيا ماركس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-margaret-bluestein": {
+  "title": "مارغريت بلوستين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-margaretbodkin": {
+  "title": "مارغريت بودكن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-marian-krcmar": {
+  "title": "ماريان كركمار",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-marianne-strom": {
+  "title": "ماريان ستروم",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-mariannekline": {
+  "title": "ماريان كلاين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-marisaberkouwer": {
+  "title": "ماريسا بيركوور",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mark-santross": {
+  "title": "مارك سانتروس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-markrees": {
+  "title": "مارك ريس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-markwelch": {
+  "title": "مارك ويلش",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-marshall": {
+  "title": "ويليام مارشال",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-mary-elmquist": {
+  "title": "ماري إلمكويست",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mary-guthrie": {
+  "title": "ماري غوثري",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mary-stewart": {
+  "title": "ماري ستيوارت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mary-whitehouse": {
+  "title": "ماري وايتهاوس",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-maryolson": {
+  "title": "ماري أولسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-masaaki-takahashi": {
+  "title": "ماساكي تاكاهاشي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-mccullough": {
+  "title": "جيمس ب. ماكولوغ الابن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-mchace": {
+  "title": "ماريان تشيس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-mcieslak": {
+  "title": "ماريك تشيسلاك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-meckberg": {
+  "title": "ماريانا إيكبيرغ",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-meichenbaum": {
+  "title": "دونالد ميشينباوم",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-melanie-segall": {
+  "title": "ميلاني سيغال",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-melissaschaefer": {
+  "title": "ميليسا شيفر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-michael-derm": {
+  "title": "مايكل ديرمر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-michael-guthrie": {
+  "title": "مايكل غوثري",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-michael-yapko-jr": {
+  "title": "دانيال بيت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-michael-yarp": {
+  "title": "مايكل يارب",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-michaelsweeting": {
+  "title": "مايكل سويتنغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-michio-mizuno": {
+  "title": "ميتشيو ميزونو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mingshengli": {
+  "title": "لي مينغ شنغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-minopaulin": {
+  "title": "مينو بولين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mithoefer": {
+  "title": "مايكل ميثوفر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-mmaley": {
+  "title": "مايكل مالِه",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-morin": {
+  "title": "تشارلز م. مورين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-mperelman": {
+  "title": "مايكل بِرِلمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-mtalmon": {
+  "title": "موشيه تالمون",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mtsai": {
+  "title": "مافيس تساي",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-mtutufurth": {
+  "title": "مافو توتو فان فورث",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-mwagreich": {
+  "title": "موريس هـ. فيغوتش",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-nancy-harness": {
+  "title": "نانسي هارنِس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-nicotole": {
+  "title": "نيكول تول",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-novaco": {
+  "title": "ريموند و. نوفاكو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ottofenichel": {
+  "title": "أوتو فينيشل",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-papaarangireid": {
+  "title": "بابارانغي ريد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-patdeegan": {
+  "title": "بات ديغان",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-patrice-de-marco": {
+  "title": "باتريس دي ماركو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-paul-thorne": {
+  "title": "بول ثورن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-paulholmes": {
+  "title": "بول هولمز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-peg-pender": {
+  "title": "بيغ پيندر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-pekkajokinen": {
+  "title": "بيكا يوكينن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-penelopeeast": {
+  "title": "بينيلوبي إيست",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-peta-stapleton": {
+  "title": "بيتا ستاپلتون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-peter-clough": {
+  "title": "بيتر كلاف",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-peterkellermann": {
+  "title": "بيتر كيلرمان",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-philippe-cunningham": {
+  "title": "فيليب كَننغهام",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-pipitea": {
+  "title": "مايكل بيبيتي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-pogden": {
+  "title": "بات أوغدن",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-pwehman": {
+  "title": "بول ويهَمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-rafaeli-eyth": {
+  "title": "رافائيل إيدث",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-randystabler": {
+  "title": "راندي ستابلر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-resick": {
+  "title": "باتريشيا أ. ريسك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-rick-levy": {
+  "title": "ريك ليفي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-rk-narayan": {
+  "title": "راماكريشنا نارايان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-rkeller": {
+  "title": "روبرت كلارك",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "نص نائب ظاهر للقارئ"
+  ]
+ },
+ "thk-rklenck": {
+  "title": "[مؤسِّسو AJA / BJAA / SAP / IGAP / GAP]",
+  "reasons": [
+   "عنوان بين أقواس معقوفة"
+  ]
+ },
+ "thk-robert-burgess": {
+  "title": "روبرت بَرجِس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-robert-cornelis": {
+  "title": "روبرت كورنليس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-robert-emery": {
+  "title": "روبرت إيميري",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-robert-rotella": {
+  "title": "روبرت روتيلا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-robertduvall": {
+  "title": "روبرت دوفال",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-rohan-gullich": {
+  "title": "روهان غوليتش",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-roland-tolentino": {
+  "title": "رولاند تولنتينو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-rosemaryalara": {
+  "title": "روزماري أَلارا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-rothbaum": {
+  "title": "باربارا أولسبي روثباوم",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-rothschild": {
+  "title": "بابي روتشيلد",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-rreibo": {
+  "title": "ريتشارد ريبو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-rsharma": {
+  "title": "رامشاران شارما",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-ruilinzhou": {
+  "title": "تشو روي-لين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-rupertpriest": {
+  "title": "روبرت بريست",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-russellrazzaque": {
+  "title": "راسل رزّاق",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ryle": {
+  "title": "أنتوني رايل",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-salmareading": {
+  "title": "سالما ريدنغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-sathyanarayana-doreswamy": {
+  "title": "ساتيانارايانا دورِسوامي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-schauer": {
+  "title": "ماغي شاور",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-sharron-hapai": {
+  "title": "شارون هاپاي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-shirley-murray": {
+  "title": "شيرلي موراي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-sothmer": {
+  "title": "سيغفريد أوتمر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-ssterman": {
+  "title": "ماريو ستيرمان",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-stephen-lankton": {
+  "title": "ستيفن لانكتون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-stephen-talley": {
+  "title": "ستيفن تالي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-stephenburgess": {
+  "title": "ستيفن بورغس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-stevenharris-dc": {
+  "title": "ستيفن هاريس",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-stig-rasmussen": {
+  "title": "ستيغ راسموسن",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-stricker": {
+  "title": "جورج ستريكر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-sudhir-kakar": {
+  "title": "سودير كاكار",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-susan-koch": {
+  "title": "سوزان كوخ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-susan-tynes": {
+  "title": "سوزان تاينز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-takeshiyasumaru": {
+  "title": "تاكيشي ياسومارو",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-tekanikingi": {
+  "title": "تيكاني كينغي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-teruo-ohta": {
+  "title": "تيرو أوتا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-theresaglasser": {
+  "title": "تيريزا غلاسر",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-thomas-sells": {
+  "title": "توماس سيلز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-timothyclanton": {
+  "title": "تيموثي كلانتون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-tom-cornwell": {
+  "title": "توم كورنول",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-wbennett": {
+  "title": "وين بينيت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-wells-adrian": {
+  "title": "أدريان ويلز",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-william-hudson": {
+  "title": "وليام هدسون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب",
+   "تعارض هوية slug/en"
+  ]
+ },
+ "thk-wwhite": {
+  "title": "وليام وايت",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-yihuazhu": {
+  "title": "تشو يي-هوا",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-yishin": {
+  "title": "يوشيموتو إيشين",
+  "reasons": [
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-yongjingqi": {
+  "title": "يونغ جينغ تشي",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-yvaniedmon": {
+  "title": "إيڤاني إدمون",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ },
+ "thk-zhangyalin": {
+  "title": "تشانغ يالين",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]"
+  ]
+ },
+ "thk-zhangyongqiang": {
+  "title": "تشانغ يونغ تشيانغ",
+  "reasons": [
+   "علامة [DRAFT-UNKNOWN]",
+   "قسم أعمال نائب"
+  ]
+ }
+}

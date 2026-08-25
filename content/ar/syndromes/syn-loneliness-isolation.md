@@ -9,34 +9,37 @@ crumb: "اضطرابات العلاقات ← العزلة والوحدة"
 active_start: 1970
 active_end: "مستمر"
 language: "متعدد اللغات"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-
-  - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-val-bullseye-exercise", title: "تمرين لوحة الهدف (Bullseye)", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-ca-taking-the-first-step", title: "أخذ الخطوة الأولى", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-ca-tiny-steps-approach", title: "أسلوب الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-ie-dear-man", title: "دير مان (DEAR MAN)", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-ie-give", title: "جيف (GIVE)", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-ie-building-strengthening-ending-relationships", title: "بناء وتقوية وإنهاء العلاقات", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-dependent-personality", title: "اضطراب الشخصية الاعتمادية", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-schizoid-personality", title: "اضطراب الشخصية الفصامية", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-schizotypal-personality", title: "اضطراب الشخصية شبه الفصامية", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-bullseye-exercise", title: "تمرين لوحة الهدف (Bullseye)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-ca-taking-the-first-step", title: "أخذ الخطوة الأولى", type: "تقنية/تدخل علاجي"
+- id: "tec-act-ca-tiny-steps-approach", title: "أسلوب الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-dear-man", title: "دير مان (DEAR MAN)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-give", title: "جيف (GIVE)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-building-strengthening-ending-relationships", title: "بناء وتقوية وإنهاء العلاقات", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-dependent-personality", title: "اضطراب الشخصية الاعتمادية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizoid-personality", title: "اضطراب الشخصية الفصامية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizotypal-personality", title: "اضطراب الشخصية شبه الفصامية", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-empty-nest", title: "متلازمة العش الفارغ (حزن استقلال الأبناء)", type: "متلازمة"
 gaps:
   - "التمييز بين العزلة المختارة (solitude) والعزلة المُعاشة كمعاناة (loneliness) يحتاج تمييزاً دقيقاً."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."---
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
 ---
 # العزلة والوحدة
 

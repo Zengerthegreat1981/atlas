@@ -13,10 +13,13 @@ language: "الإنجليزية"
 active_start: 2016
 active_end: 2016
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
-  - rel: "written_by", target: "كال نيوبورت", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-cal-newport", target_type: "مفكر"
 related:
-  - id: "thk-cal-newport", title: "كال نيوبورت", type: "مفكر"
+- id: "wrk-slow-productivity", title: "الإنتاجية البطيئة: الفقدان الطبيعي للإبداع والإنجاز البشري", type: "عمل / كتاب"
+- id: "con-deep-work", title: "العمل العميق (التركيز المعرفي المكثف في العصر الرقمي)", type: "مفهوم"
+- id: "thk-cal-newport", title: "كال نيوبورت", type: "مفكر"
+- id: "con-parkinsons-law", title: "قانون باركنسون (تمدد العمل ليملأ كامل الوقت المتاح)", type: "مفهوم"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

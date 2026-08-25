@@ -6,14 +6,17 @@ level: "متوسط"
 title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)"
 en: "Emotion-Focused Therapeutic Tasks (Greenberg, Rice)"
 crumb: "الإنسانية ← التقنيات ← المهام العلاجية بالانفعال"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "ليزا فيرلي غرينبرغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "ليزا فيرلي غرينبرغ", target_type: "مفكر"
 related:
-  - id: "thk-greenberg-lisa", title: "ليزا فيرلي غرينبرغ", type: "مفكر"
-  - id: "thk-rice", title: "روبرت رايس", type: "مفكر"
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-greenberg-lisa", title: "ليزا فيرلي غرينبرغ", type: "مفكر"
+- id: "thk-rice", title: "روبرت رايس", type: "مفكر"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:
   - "التمييز بين 'المهام العلاجية بالانفعال' (EFT) و'تقنيات العلاج الانفعالي-التجريبي' (PE) يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من غرينبرغ أو رايس بعد."

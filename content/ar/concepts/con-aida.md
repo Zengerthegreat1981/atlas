@@ -6,13 +6,16 @@ level: "متقدم"
 title: "آيدا (البين-إنساني)"
 en: "Aida (Between-Human)"
 crumb: "المدرسة الوجودية ← المفاهيم ← آيدا (البين-إنساني)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
-  - id: "thk-binswanger", title: "لودوينغ بينسوانغر", type: "مفكر"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
+- id: "thk-binswanger", title: "لودوينغ بينسوانغر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«البين» (con-between) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«اللقاء» (con-encounter) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

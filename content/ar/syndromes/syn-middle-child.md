@@ -11,10 +11,10 @@ active_start: 1927
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "con-inferiority-superiority-complex", title: "عقدة النقص وعقدة التفوق", type: "مفهوم"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "con-inferiority-superiority-complex", title: "عقدة النقص وعقدة التفوق", type: "مفهوم"
 gaps:
   - "نظرية ألفرد أدلر في ترتيب الولادة (Birth Order Theory 1927) والأبحاث السيكولوجية التنموية الحديثة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

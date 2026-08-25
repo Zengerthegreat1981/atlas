@@ -11,10 +11,10 @@ active_start: 1999
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-hikikomori", title: "متلازمة هيكيكوموري", type: "متلازمة"
-  - id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان", type: "مفهوم"
+- id: "syn-hikikomori", title: "متلازمة هيكيكوموري", type: "متلازمة"
+- id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان", type: "مفهوم"
 gaps:
   - "صياغة عالم الاجتماع الياباني ماساهيرو يامادا (Masahiro Yamada 1999) للمصطلح."
   - "لا يوجد اقتباس مباشر موثوق متاح."

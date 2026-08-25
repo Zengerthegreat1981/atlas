@@ -13,15 +13,18 @@ language: "اليونانية"
 active_start: -50
 active_end: 50
 edges:
-  - rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
+- rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
-  - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية", type: "مدرسة"
-  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
-  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
-  - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
+- id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
+- id: "thk-philo-alexandria", title: "فيلون الإسكندري", type: "مفكر"
+- id: "con-logos-philo", title: "اللوغوس (الكلمة الإلهية) عند فيلو", type: "مفهوم"
 gaps:
   - "نصوص فيلو الأصلية (يونانية) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة اليهودية الهلنستية (الإسكندرانية)

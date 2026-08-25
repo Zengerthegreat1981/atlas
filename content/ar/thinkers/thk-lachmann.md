@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرانك ل�
 dates: "أمريكا · 1932–2019"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 2019
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'التحويل في علم نفس الذات' ونماذج التنظيم المشترك للذات يستحقان توثيقاً."
@@ -38,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-الذات في مرحلة التحول (The Self in Transition, 1990) · الأنظمة الدافعية والتحليل النفسي الإكلينيكي (Self and Motivational Systems, 1992 مع Lichtenberg & Fosshage) · إيقاع وتناغم العلاقة التحليلية (Transforming Aggression, 2000).
+الذات في مرحلة التحول (The Self in Transition, 1990) · الأنظمة الدافعية والتحليل النفسي الإكلينيكي (Self and Motivational Systems, 1992 مع Lichtenberg & Fosshage) · تحويل العدوانية (Transforming Aggression, 2000).

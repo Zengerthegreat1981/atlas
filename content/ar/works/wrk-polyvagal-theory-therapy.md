@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2018
 active_end: 2018
 edges:
-  - rel: "belongs_to", target: "العلاج العصبي المبهم وتعديل الصدمات", target_type: "مدرسة"
-  - rel: "written_by", target: "ديب دانا", target_type: "مفكر"
+- rel: "belongs_to", target: "العلاج العصبي المبهم وتعديل الصدمات", target_type: "مدرسة"
+- rel: "written_by", target: "thk-dana", target_type: "مفكر"
 related:
-  - id: "thk-deb-dana", title: "ديب دانا", type: "مفكر"
+- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder)", type: "مفهوم"
+- id: "thk-dana", title: "ديب دانا", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

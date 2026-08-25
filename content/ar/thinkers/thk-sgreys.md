@@ -11,12 +11,26 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج التفاعلي النمائي الثنائي (DDP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج التفاعلي النمائي الثنائي (DDP)", target_type: "مدرسة"
 related:
-  - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
+- id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
+- id: "thk-jbaylin", title: "جون بايلين", type: "مفكر"
+- id: "thk-sdouglas", title: "سو دوغلاس", type: "مفكر"
+- id: "thk-arthurbeckerweidman", title: "آرثر بيكر-ويدمان", type: "مفكر"
+- id: "thk-brianhug", title: "بريان هيوز", type: "مفكر"
+- id: "thk-jonathanbaylin", title: "جوناثان بايلن", type: "مفكر"
+- id: "thk-theresaglasser", title: "تيريزا غلاسر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: آرثر بيكر-ويدمان (thk-arthurbeckerweidman)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بريان هيوز (thk-brianhug)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوناثان بايلن (thk-jonathanbaylin)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تيريزا غلاسر (thk-theresaglasser)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بروس بيركنز (thk-bruceperkins)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كولين كيلي (thk-kelleycolleen)."
 ---
 
 # دانيال هيوز

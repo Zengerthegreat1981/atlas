@@ -11,18 +11,18 @@ icd11_code: "6C01"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-  - id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
-  - id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
-  - id: "tec-bedwetting-alarm", title: "منبّه التبوّل الليلي (Bedwetting Alarm)", type: "تقنية/تدخل علاجي"
-
+- id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+- id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
+- id: "tec-bedwetting-alarm", title: "منبّه التبوّل الليلي (Bedwetting Alarm)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (nocturnal vs diurnal) لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6C01 / 6C00) لم تُراجع تفصيلياً."

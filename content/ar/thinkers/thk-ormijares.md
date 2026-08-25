@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← أوسكار �
 dates: "فنزويلا · [غير مؤكد]"
 country: "فنزويلا"
 language: "الإسبانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «Freud, Jung: Un Diálogo Necesario» (1990s) أجرى «مقارنة نقدية» منهجية بين فرويد ويونغ، كأداة لتدريب التحليلية الفنزويلية. كذلك شارك في «Maestría en Psicoterapia Jungiana» في UCAB. كذلك أشرف على تدريب SVAJ.
+في «Freud, Jung: Un Diálogo Necesario» (التسعينيات من القرن العشرين) أجرى «مقارنة نقدية» منهجية بين فرويد ويونغ، كأداة لتدريب التحليلية الفنزويلية. كذلك شارك في «Maestría en Psicoterapia Jungiana» في UCAB. كذلك أشرف على تدريب SVAJ.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Freud, Jung: Un Diálogo Necesario (1990s).
+Freud, Jung: Un Diálogo Necesario (التسعينيات من القرن العشرين).

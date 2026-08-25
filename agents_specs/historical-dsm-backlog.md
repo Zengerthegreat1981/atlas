@@ -22,20 +22,20 @@
 
 ### المستوى 1 — صفحات `dis-` تاريخية كاملة (قيمة عالية/متوسطة، ~6-7 ملفات متوقعة)
 
-- [ ] **Gender Identity Disorder** (تاريخي، قبل DSM-5) — `dis-gender-identity-disorder-historical` —
+- [x] **Gender Identity Disorder** ✅ **معتمد** (تاريخي، قبل DSM-5) — `dis-gender-identity-disorder-historical` —
   قيمة عالية: تاريخ التحول الجنسي إكلينيكيًا مهم بذاته. اربطه بـ`related`/`classified_in` بـ
   `dis-gender-dysphoria` الموجود بالفعل (البديل الحالي)، ووضّح فرق الإطار (تصنيف كـ"اضطراب هوية"
   مقابل "ضيق نفسي مرتبط بعدم التطابق" — تحوّل جوهري في الموقف الإكلينيكي، مش مجرد تغيير اسم).
-- [ ] **Asperger's Disorder / Asperger's Syndrome** (ادمجهم في ملف واحد — نفس الشيء بصياغتين) —
+- [x] **Asperger's Disorder ✅ **معتمد** / Asperger's Syndrome** (ادمجهم في ملف واحد — نفس الشيء بصياغتين) —
   `dis-aspergers-disorder-historical` — قيمة متوسطة-عالية: لسه مستخدم شعبيًا لحد النهاردة رغم
   الدمج الرسمي. اربطه بـ`dis-autism-spectrum` الموجود.
-- [ ] **Neurosis (الإطار العام)** — **ده مش تشخيص فردي، ده إطار تنظيمي تاريخي كامل** كان يحكم كل
+- [-] **Neurosis (الإطار العام)** ⏭️ مؤجل (خارج نطاق dis-) — **ده مش تشخيص فردي، ده إطار تنظيمي تاريخي كامل** كان يحكم كل
   تصنيف ما قبل DSM-III. الأنسب `مفهوم` (`con-neurosis-historical-framework`) أو `سياق/تقليد`
   (`ctx-`) وليس `dis-` — قرارك وقت الكتابة حسب وزن المحتوى الفعلي. مهم تاريخيًا (فرويد نفسه استخدمه
   كمظلة)، يستاهل معالجة حقيقية مش سطرين.
-- [ ] **Passive-Aggressive Personality Disorder** — `dis-passive-aggressive-personality-historical` —
+- [x] **Passive-Aggressive Personality Disorder** ✅ **معتمد** — `dis-passive-aggressive-personality-historical` —
   قيمة متوسطة: مصطلح شائع الاستخدام الشعبي لحد اليوم رغم إلغاؤه الرسمي من DSM-III appendix.
-- [ ] **Rett's Disorder** — `dis-retts-disorder-historical` — تحقق أولاً: ليه استقلاله؟ (الوحيد من
+- [x] **Rett's Disorder** ✅ **معتمد** — `dis-retts-disorder-historical` — تحقق أولاً: ليه استقلاله؟ (الوحيد من
   الخمسة اضطرابات النمائية الشاملة اللي بقاله تصنيف طبي عصبي منفصل تحت `Rett Syndrome` بعيدًا عن
   طيف التوحد بمعناه النفسي — يستاهل توضيح الفرق ده تحديدًا).
 

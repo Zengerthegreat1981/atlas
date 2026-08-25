@@ -11,11 +11,15 @@ dates: "أواخر السبعينيات"
 active_start: 1978
 active_end: "مستمر"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج الجشطالت (Gestalt Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
-  - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
-  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "إسهامات هانز-يورغن فالتر (Hans-Jürgen Walter) في إعادة ربط العلاج النفسي مباشرة بالنظريات الأصلية لمدرسة برلين وكورت ليفين."
   - "الاعتماد المنهجي على نظرية المجال والظاهراتية النقدية كبديل عن الأسلوب المسرحي الفردي لبيرلز."

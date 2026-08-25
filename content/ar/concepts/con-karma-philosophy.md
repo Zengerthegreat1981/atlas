@@ -12,16 +12,16 @@ language: "السنسكريتية، البالي"
 active_start: -1200
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الأوبانيشادية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-upanishadic", target_type: "مدرسة"
 related:
-  - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
-  - id: "thk-buddha", title: "بوذا", type: "مفكر"
-  - id: "con-samsara", title: "سامسارا (دورة الوجود)", type: "مفهوم"
+- id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
+- id: "thk-buddha", title: "بوذا", type: "مفكر"
+- id: "con-samsara", title: "سامسارا (دورة الوجود)", type: "مفهوم"
+- id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "الفرق بين الكارما في Vedānta، Buddhism، Jainism موضع خلاف فلسفي."
   - "لا يوجد تعريف فلسفي حديث موحد للكارما في الفلسفة العربية."
 ---
-
 # كارما (Karma)
 
 مفهوم مركزي في الفلسفة الهندية والبوذية، يعني «الفعل» وعواقبه. الكلمة السنسكريتية من الجذر «كْرِ» (kṛ)، «يفعل». في الأدب الفيداوي، تعني «الفعل الطقسي». في الفيدانتا والبوذية، تطورت إلى مفهوم «القانون الأخلاقي الكوني».

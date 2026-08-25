@@ -10,11 +10,15 @@ crumb: "الفلسفة ← المسيحية ← الأرسطية ← الجوه�
 active_start: 1250
 country: "أوروبا اللاتينية"
 language: "اللاتينية"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية) — كمظلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 related:
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "تطبيق اللاهوت (التثليث) على الجوهر والعرض موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق."

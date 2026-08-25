@@ -7,17 +7,18 @@ level: "متوسط"
 title: "جون ديوي"
 en: "John Dewey"
 crumb: "البراغماتية الكلاسيكية ← الأعلام ← ديوي"
-dates: "برلنغتون، بالتيمور، شيكاغو، نيويورك، كولومبيا · 1859–1952"
+dates: "الولايات المتحدة (فيرمونت، شيكاغو، نيويورك) · 1859–1952"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1886
 active_end: 1952
 edges:
-  - rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
 related:
-  - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-  - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
+- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
+- id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
+- id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
 gaps:
   - "العلاقة مع 'Institute for Social Research' (فرانكفورت) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Learning by Doing' بعد."

@@ -9,12 +9,15 @@ crumb: "علم النفس الفردي ← الناس ← التربوي الم�
 dates: "النمسا / أمريكا · 1925–2021"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2021
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "thk-blbettner", title: "بيتي لو بيتنر", type: "مفكر"
+- id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-blbettner", title: "بيتي لو بيتنر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة 1925 وفق مصادر متفرقة، تحتاج تأكيداً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

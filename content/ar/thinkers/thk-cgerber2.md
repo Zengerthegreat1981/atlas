@@ -11,10 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
 related:
-  - id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
+- id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
+- id: "thk-hgoolishian", title: "هاري غوليشيان", type: "مفكر"
+- id: "thk-handerson", title: "هارلين أندرسون", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

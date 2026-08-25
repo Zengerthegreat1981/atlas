@@ -11,11 +11,12 @@ crumb: "علم النفس المعرفي والاقتصاد السلوكي ← �
 active_start: 1981
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي والاقتصاد السلوكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي والاقتصاد السلوكي", target_type: "مدرسة"
 related:
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-  - id: "wrk-dont-think-of-an-elephant", title: "لا تفكر في فيل", type: "عمل / كتاب"
-  - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "wrk-dont-think-of-an-elephant", title: "لا تفكر في فيل", type: "عمل / كتاب"
+- id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
+- id: "stu-bransford-johnson-context-memory", title: "دراسة برانسفورد وجونسون لأثر السياق والمعرفة المسبقة على الفهم (1972)", type: "دراسة وبحث"
 gaps:
   - "تجربة المرض الآسيوي الشهيرة لتفيرسكي وكانمان (1981) وصياغة الأطر لدى جورج لاكوف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

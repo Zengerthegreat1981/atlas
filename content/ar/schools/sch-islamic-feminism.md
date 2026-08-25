@@ -13,14 +13,15 @@ language: "العربية، الفارسية، التركية، الإنجليز
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
-  - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
-  - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
-  - id: "sch-wahdat-alwujud", title: "وحدة الوجود", type: "مدرسة"
-  - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
+- id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
+- id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "وحدة الوجود", type: "مدرسة"
+- id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
 gaps:
   - "نصوص مرفت التلاوي، فاطمة المرنيسي، أمينة ودود، أصيلة جلال، أسما بيلهيل need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النسوية الإسلامية (Islamic Feminism)

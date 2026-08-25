@@ -11,16 +11,17 @@ active_start: 1935
 active_end: 1963
 language: "الألمانية / الإنجليزية"
 country: "ألمانيا / أمريكا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
-  - id: "thk-plugge", title: "هربرت بلوغه", type: "مفكر"
-  - id: "thk-buytendijk", title: "فريدريك بايتنديك", type: "مفكر"
-  - id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
-  - id: "thk-vandenberg", title: "يان هندريك فان دن بيرغ", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
+- id: "thk-plugge", title: "هربرت بلوغه", type: "مفكر"
+- id: "thk-buytendijk", title: "فريدريك بايتنديك", type: "مفكر"
+- id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
+- id: "thk-vandenberg", title: "يان هندريك فان دن بيرغ", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "لم تُراجع بعد نصوصه الأصلية (Vom Sinn der Sinne) من نسخة محققة."

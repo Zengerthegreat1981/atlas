@@ -11,13 +11,14 @@ active_start: 1984
 active_end: 1999
 country: "ألمانيا / أمريكا"
 language: "الإنجليزية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوما 'نموذج الجهاز' (Device Paradigm) و'الممارسات المحورية' (Focal Practices) يستحقان إدراجاً مفاهيمياً."
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-التكنولوجيا وتوصيف الحياة المعاصرة (Technology and the Character of Contemporary Life, 1984) · عبور الانقسام ما بعد الحداثي (Crossing the Postmodern Divide, 1992) · الواقع ممسوكاً: حقيقة الوجود في عصر المعلومات (Holding On to Reality, 1999).
+التقنية وطابع الحياة المعاصرة (Technology and the Character of Contemporary Life, 1984) · عبور الانقسام ما بعد الحداثي (Crossing the Postmodern Divide, 1992) · التمسّك بالواقع: طبيعة المعلومات عند مطلع الألفية (Holding On to Reality, 1999).

@@ -11,9 +11,11 @@ active_start: 1924
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-autotopagnosia", title: "متلازمة عمه تموضع أجزاء الجسم", type: "متلازمة"
+- id: "ins-corsi-block-tapping", title: "اختبار كورسي للنقر على المكعبات والذاكرة الفضائية (Corsi Block)", type: "أداة قياس"
 gaps:
   - "رابط مقترح لـ«اضطراب التعلم النوعي» (dis-learning-disorder) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث جوزيف غيرستمان (Josef Gerstmann 1924) ودور التلف في التلفيف الزاوي للفص الجداري الأيسر."

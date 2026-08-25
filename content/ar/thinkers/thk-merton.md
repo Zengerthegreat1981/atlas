@@ -11,13 +11,14 @@ active_start: 1948
 active_end: 1968
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-suzuki", title: "د. ت. سوزوكي", type: "مفكر"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-suzuki", title: "د. ت. سوزوكي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تمييزه الوجودي الحاسم بين 'الذات المزيفة' (The False Self) و'الذات الحقيقية' (The True Self) يستحق إدراجاً مفاهيمياً."

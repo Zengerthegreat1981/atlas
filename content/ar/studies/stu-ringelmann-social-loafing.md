@@ -8,9 +8,11 @@ en: "Ringelmann Effect and Social Loafing Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة رينغلمان للتراخي الاجتماعي"
 active_start: 1913
 active_end: 1913
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "تجارب لاتانيه وهاركينز وويليامز (1979) التي فرقت بين التنسيق الحركي والتراخي الدافعي تحتاج تفصيلاً أوسع"
   - "تأثير تماسك الفريق وأهمية المهمة في القضاء على التراخي الاجتماعي يتطلب ربطاً بالأبحاث التنظيمية"

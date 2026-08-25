@@ -1,0 +1,2676 @@
+{
+  "auto_decision": "L1.3: For slug/identity conflicts, auto-decided to add gaps notes (NOT rename) to preserve all cross-references. Full review list in agents_specs/slug-identity-conflicts-2026-08-24.md",
+  "candidates": [
+    {
+      "file": "thk-stephen-porges.md",
+      "slug": "thk-stephen-porges",
+      "en": "Stephen W. Porges"
+    },
+    {
+      "file": "thk-walter-benjamin.md",
+      "slug": "thk-walter-benjamin",
+      "en": "Walter Benjamin"
+    },
+    {
+      "file": "thk-deborah-kremer.md",
+      "slug": "thk-deborah-kremer",
+      "en": "Deborah K. Kremer"
+    },
+    {
+      "file": "thk-richard-feynman.md",
+      "slug": "thk-richard-feynman",
+      "en": "Richard Feynman"
+    },
+    {
+      "file": "thk-roland-griffiths.md",
+      "slug": "thk-roland-griffiths",
+      "en": "Roland R. Griffiths"
+    },
+    {
+      "file": "thk-sunzi.md",
+      "slug": "thk-sunzi",
+      "en": "Sunzi (Sun Wu, Master Sun)"
+    },
+    {
+      "file": "thk-daniel-gilbert.md",
+      "slug": "thk-daniel-gilbert",
+      "en": "Daniel Gilbert"
+    },
+    {
+      "file": "thk-erickson-erl.md",
+      "slug": "thk-erickson-erl",
+      "en": "Ernest Lawrence Rossi"
+    },
+    {
+      "file": "thk-porphyry.md",
+      "slug": "thk-porphyry",
+      "en": "Porphyry of Tyre"
+    },
+    {
+      "file": "thk-mary-whitehouse.md",
+      "slug": "thk-mary-whitehouse",
+      "en": "Mary Whitehouse"
+    },
+    {
+      "file": "thk-susan-tynes.md",
+      "slug": "thk-susan-tynes",
+      "en": "Susan Tynes"
+    },
+    {
+      "file": "thk-rachel-heller.md",
+      "slug": "thk-rachel-heller",
+      "en": "Rachel S. F. Heller"
+    },
+    {
+      "file": "thk-mgrof.md",
+      "slug": "thk-mgrof",
+      "en": "Stanislav Grof (alternative version)"
+    },
+    {
+      "file": "thk-nicotole.md",
+      "slug": "thk-nicotole",
+      "en": "Nicole Toole"
+    },
+    {
+      "file": "thk-wang-bi.md",
+      "slug": "thk-wang-bi",
+      "en": "Wang Bi (Wang Pi)"
+    },
+    {
+      "file": "thk-bbundy.md",
+      "slug": "thk-bbundy",
+      "en": "Karen Budd"
+    },
+    {
+      "file": "thk-rkaes.md",
+      "slug": "thk-rkaes",
+      "en": "René Kaës"
+    },
+    {
+      "file": "thk-rreibo.md",
+      "slug": "thk-rreibo",
+      "en": "Richard J. Reynolds (T. Taizan Maezumi / Rev. Daitsu Tom Wright)"
+    },
+    {
+      "file": "thk-philon-larissa.md",
+      "slug": "thk-philon-larissa",
+      "en": "Philo of Larissa"
+    },
+    {
+      "file": "thk-robert-thurman.md",
+      "slug": "thk-robert-thurman",
+      "en": "Robert Thurman: Buddhist Psychology in the West"
+    },
+    {
+      "file": "thk-timothy-verduin.md",
+      "slug": "thk-timothy-verduin",
+      "en": "Timothy Verduin: Emotionally Focused Couple Therapy"
+    },
+    {
+      "file": "thk-aulanc.md",
+      "slug": "thk-aulanc",
+      "en": "Founders of Israel Jungian associations"
+    },
+    {
+      "file": "thk-robert-burgess.md",
+      "slug": "thk-robert-burgess",
+      "en": "Robert L. Burgess"
+    },
+    {
+      "file": "thk-wayne-dyer.md",
+      "slug": "thk-wayne-dyer",
+      "en": "Wayne W. Dyer"
+    },
+    {
+      "file": "thk-ahmad-sirhindi.md",
+      "slug": "thk-ahmad-sirhindi",
+      "en": "Imam Rabbani Ahmad Sirhindi (Mujaddid Alf-i Thani)"
+    },
+    {
+      "file": "thk-melanie-harned.md",
+      "slug": "thk-melanie-harned",
+      "en": "Melanie S. Harned"
+    },
+    {
+      "file": "thk-vladimir-jankelevitch.md",
+      "slug": "thk-vladimir-jankelevitch",
+      "en": "Vladimir Jankélévitch"
+    },
+    {
+      "file": "thk-alicorazon.md",
+      "slug": "thk-alicorazon",
+      "en": "Ali B. Coronado"
+    },
+    {
+      "file": "thk-mary-guthrie.md",
+      "slug": "thk-mary-guthrie",
+      "en": "Mary Guthrie"
+    },
+    {
+      "file": "thk-jenny-christensen.md",
+      "slug": "thk-jenny-christensen",
+      "en": "Jenny M. Christensen"
+    },
+    {
+      "file": "thk-muhammad-abduh.md",
+      "slug": "thk-muhammad-abduh",
+      "en": "Muhammad 'Abduh"
+    },
+    {
+      "file": "thk-qadi-abd-al-jabbar.md",
+      "slug": "thk-qadi-abd-al-jabbar",
+      "en": "Al-Qadi Abd al-Jabbar"
+    },
+    {
+      "file": "thk-elin-rbaek.md",
+      "slug": "thk-elin-rbaek",
+      "en": "Elin Rbæk"
+    },
+    {
+      "file": "thk-esther-perel.md",
+      "slug": "thk-esther-perel",
+      "en": "Esther Perel"
+    },
+    {
+      "file": "thk-katie-rae.md",
+      "slug": "thk-katie-rae",
+      "en": "Katie Rae"
+    },
+    {
+      "file": "thk-connie-rae-anderson.md",
+      "slug": "thk-connie-rae-anderson",
+      "en": "Connie Rae Anderson"
+    },
+    {
+      "file": "thk-tayeb-tizini.md",
+      "slug": "thk-tayeb-tizini",
+      "en": "Tayeb Tizini"
+    },
+    {
+      "file": "thk-oliver-burkeman.md",
+      "slug": "thk-oliver-burkeman",
+      "en": "Oliver Burkeman"
+    },
+    {
+      "file": "thk-heidegger-technology.md",
+      "slug": "thk-heidegger-technology",
+      "en": "Martin Heidegger (on Technology)"
+    },
+    {
+      "file": "thk-andersericson.md",
+      "slug": "thk-andersericson",
+      "en": "Anders Ericsson"
+    },
+    {
+      "file": "thk-hypatia.md",
+      "slug": "thk-hypatia",
+      "en": "Hypatia of Alexandria"
+    },
+    {
+      "file": "thk-david-allen.md",
+      "slug": "thk-david-allen",
+      "en": "David Allen"
+    },
+    {
+      "file": "thk-plugge.md",
+      "slug": "thk-plugge",
+      "en": "Herbert Plügge"
+    },
+    {
+      "file": "thk-minsungkil.md",
+      "slug": "thk-minsungkil",
+      "en": "Min Sung-Kil"
+    },
+    {
+      "file": "thk-michael-derm.md",
+      "slug": "thk-michael-derm",
+      "en": "Michael Der Meer"
+    },
+    {
+      "file": "thk-michael-eigen.md",
+      "slug": "thk-michael-eigen",
+      "en": "Michael Eigen"
+    },
+    {
+      "file": "thk-motoori-norinaga.md",
+      "slug": "thk-motoori-norinaga",
+      "en": "Motoori Norinaga"
+    },
+    {
+      "file": "thk-jacqueline-varner.md",
+      "slug": "thk-jacqueline-varner",
+      "en": "Jacqueline M. Varner"
+    },
+    {
+      "file": "thk-kumarila-bhatta.md",
+      "slug": "thk-kumarila-bhatta",
+      "en": "Kumarila Bhatta"
+    },
+    {
+      "file": "thk-john-bradshaw.md",
+      "slug": "thk-john-bradshaw",
+      "en": "John Bradshaw"
+    },
+    {
+      "file": "thk-jose-arsenio.md",
+      "slug": "thk-jose-arsenio",
+      "en": "José Arsenio"
+    },
+    {
+      "file": "thk-susan-forward.md",
+      "slug": "thk-susan-forward",
+      "en": "Susan Forward"
+    },
+    {
+      "file": "thk-shen-buhai.md",
+      "slug": "thk-shen-buhai",
+      "en": "Shen Buhai (Shen Bao)"
+    },
+    {
+      "file": "thk-rick-doblin.md",
+      "slug": "thk-rick-doblin",
+      "en": "Rick Doblin"
+    },
+    {
+      "file": "thk-gabor-mate.md",
+      "slug": "thk-gabor-mate",
+      "en": "Gabor Maté"
+    },
+    {
+      "file": "thk-kristin-buss.md",
+      "slug": "thk-kristin-buss",
+      "en": "Kristin A. Buss"
+    },
+    {
+      "file": "thk-clarissa.md",
+      "slug": "thk-clarissa",
+      "en": "Clarissa Pinkola Estés"
+    },
+    {
+      "file": "thk-henry-odera-oruka.md",
+      "slug": "thk-henry-odera-oruka",
+      "en": "Henry Odera Oruka"
+    },
+    {
+      "file": "thk-hermes-trismegistus.md",
+      "slug": "thk-hermes-trismegistus",
+      "en": "Hermes Trismegistus (Traditional figure)"
+    },
+    {
+      "file": "thk-lindsay-gibson.md",
+      "slug": "thk-lindsay-gibson",
+      "en": "Lindsay C. Gibson"
+    },
+    {
+      "file": "thk-leopoldo-zea.md",
+      "slug": "thk-leopoldo-zea",
+      "en": "Leopoldo Zea"
+    },
+    {
+      "file": "thk-twsalisbury.md",
+      "slug": "thk-twsalisbury",
+      "en": "Toyin Falola (or another key figure in African psychology)"
+    },
+    {
+      "file": "thk-michael-pollan.md",
+      "slug": "thk-michael-pollan",
+      "en": "Michael Pollan"
+    },
+    {
+      "file": "thk-ricoeur.md",
+      "slug": "thk-ricoeur",
+      "en": "Paul Ricœur"
+    },
+    {
+      "file": "thk-steven-haber.md",
+      "slug": "thk-steven-haber",
+      "en": "Steven Haber: AEDP Practitioner and Theorist"
+    },
+    {
+      "file": "thk-zygmunt-bauman.md",
+      "slug": "thk-zygmunt-bauman",
+      "en": "Zygmunt Bauman"
+    },
+    {
+      "file": "thk-martin-luther-king.md",
+      "slug": "thk-martin-luther-king",
+      "en": "Martin Luther King Jr."
+    },
+    {
+      "file": "thk-rhonda-byrne.md",
+      "slug": "thk-rhonda-byrne",
+      "en": "Rhonda Byrne"
+    },
+    {
+      "file": "thk-shang-yang.md",
+      "slug": "thk-shang-yang",
+      "en": "Shang Yang (Gongsun Yang / Wei Yang)"
+    },
+    {
+      "file": "thk-anibal-quijano.md",
+      "slug": "thk-anibal-quijano",
+      "en": "Aníbal Quijano"
+    },
+    {
+      "file": "thk-lmorrnah.md",
+      "slug": "thk-lmorrnah",
+      "en": "Abraham Kawai'ae'a"
+    },
+    {
+      "file": "thk-wdowling.md",
+      "slug": "thk-wdowling",
+      "en": "Na'im Akbar"
+    },
+    {
+      "file": "thk-bernardo-chartres.md",
+      "slug": "thk-bernardo-chartres",
+      "en": "Bernard of Chartres"
+    },
+    {
+      "file": "thk-simplicius.md",
+      "slug": "thk-simplicius",
+      "en": "Simplicius of Cilicia"
+    },
+    {
+      "file": "thk-john-searle.md",
+      "slug": "thk-john-searle",
+      "en": "John Rogers Searle"
+    },
+    {
+      "file": "thk-twolofor.md",
+      "slug": "thk-twolofor",
+      "en": "Toyin Falola"
+    },
+    {
+      "file": "thk-maximus-confessor.md",
+      "slug": "thk-maximus-confessor",
+      "en": "Maximus the Confessor"
+    },
+    {
+      "file": "thk-michael-guthrie.md",
+      "slug": "thk-michael-guthrie",
+      "en": "Michael Guthrie"
+    },
+    {
+      "file": "thk-marisol-montoya.md",
+      "slug": "thk-marisol-montoya",
+      "en": "Marisol Montoya: Liberation Psychology Theorist"
+    },
+    {
+      "file": "thk-nassim-taleb.md",
+      "slug": "thk-nassim-taleb",
+      "en": "Nassim Nicholas Taleb"
+    },
+    {
+      "file": "thk-melissus.md",
+      "slug": "thk-melissus",
+      "en": "Melissus of Samos"
+    },
+    {
+      "file": "thk-patricia-churchland.md",
+      "slug": "thk-patricia-churchland",
+      "en": "Patricia Churchland"
+    },
+    {
+      "file": "thk-tali-sharot.md",
+      "slug": "thk-tali-sharot",
+      "en": "Tali Sharot"
+    },
+    {
+      "file": "thk-nagarjuna.md",
+      "slug": "thk-nagarjuna",
+      "en": "Nagarjuna (Founder of Madhyamaka)"
+    },
+    {
+      "file": "thk-francesharville.md",
+      "slug": "thk-francesharville",
+      "en": "Francine Shapiro (enhanced version)"
+    },
+    {
+      "file": "thk-rlwilliams.md",
+      "slug": "thk-rlwilliams",
+      "en": "Robert L. Williams (enhanced version)"
+    },
+    {
+      "file": "thk-campbell-purton.md",
+      "slug": "thk-campbell-purton",
+      "en": "Campbell Purton"
+    },
+    {
+      "file": "thk-sbooth.md",
+      "slug": "thk-sbooth",
+      "en": "Sandra Lindaman"
+    },
+    {
+      "file": "thk-graham-harman.md",
+      "slug": "thk-graham-harman",
+      "en": "Graham Harman"
+    },
+    {
+      "file": "thk-elifellows.md",
+      "slug": "thk-elifellows",
+      "en": "Joseph A. White Jr."
+    },
+    {
+      "file": "thk-philo.md",
+      "slug": "thk-philo",
+      "en": "Philo of Alexandria (Philo Judaeus)"
+    },
+    {
+      "file": "thk-thomas-reid.md",
+      "slug": "thk-thomas-reid",
+      "en": "Thomas Reid"
+    },
+    {
+      "file": "thk-andrew-barnes.md",
+      "slug": "thk-andrew-barnes",
+      "en": "Emily Black"
+    },
+    {
+      "file": "thk-adud-al-din-al-iji.md",
+      "slug": "thk-adud-al-din-al-iji",
+      "en": "Adud al-Din al-Iji"
+    },
+    {
+      "file": "thk-sharron-hapai.md",
+      "slug": "thk-sharron-hapai",
+      "en": "Sharron Hapai"
+    },
+    {
+      "file": "thk-james-gumpert.md",
+      "slug": "thk-james-gumpert",
+      "en": "James Gumpert"
+    },
+    {
+      "file": "thk-matthew-walker.md",
+      "slug": "thk-matthew-walker",
+      "en": "Matthew Walker"
+    },
+    {
+      "file": "thk-fakhr-razi.md",
+      "slug": "thk-fakhr-razi",
+      "en": "Fakhr al-Din al-Razi"
+    },
+    {
+      "file": "thk-tony-white.md",
+      "slug": "thk-tony-white",
+      "en": "Tony White"
+    },
+    {
+      "file": "thk-ramanuja.md",
+      "slug": "thk-ramanuja",
+      "en": "Ramanuja (Vishishtadvaita)"
+    },
+    {
+      "file": "thk-jerry-fodor.md",
+      "slug": "thk-jerry-fodor",
+      "en": "Jerry Fodor"
+    },
+    {
+      "file": "thk-barry-schwartz.md",
+      "slug": "thk-barry-schwartz",
+      "en": "Barry Schwartz"
+    },
+    {
+      "file": "thk-teruo-ohta.md",
+      "slug": "thk-teruo-ohta",
+      "en": "Teruo Ohta"
+    },
+    {
+      "file": "thk-keiko-hoshino.md",
+      "slug": "thk-keiko-hoshino",
+      "en": "Keiko Hoshino"
+    },
+    {
+      "file": "thk-nancy-harness.md",
+      "slug": "thk-nancy-harness",
+      "en": "Nancy Harness"
+    },
+    {
+      "file": "thk-hippias.md",
+      "slug": "thk-hippias",
+      "en": "Hippias of Elis"
+    },
+    {
+      "file": "thk-eckhart-tolle.md",
+      "slug": "thk-eckhart-tolle",
+      "en": "Eckhart Tolle"
+    },
+    {
+      "file": "thk-mohammed-arkoun.md",
+      "slug": "thk-mohammed-arkoun",
+      "en": "Mohammed Arkoun"
+    },
+    {
+      "file": "thk-daniellevision.md",
+      "slug": "thk-daniellevision",
+      "en": "Danielle Levison"
+    },
+    {
+      "file": "thk-peter-bloom.md",
+      "slug": "thk-peter-bloom",
+      "en": "Peter Bloom: Contemporary Psychedelic Therapy Theorist"
+    },
+    {
+      "file": "thk-xiong-shili.md",
+      "slug": "thk-xiong-shili",
+      "en": "Xiong Shili"
+    },
+    {
+      "file": "thk-gdiaz.md",
+      "slug": "thk-gdiaz",
+      "en": "Gina Díaz"
+    },
+    {
+      "file": "thk-spencer-johnson.md",
+      "slug": "thk-spencer-johnson",
+      "en": "Spencer Johnson"
+    },
+    {
+      "file": "thk-kosik.md",
+      "slug": "thk-kosik",
+      "en": "Karel Kosík"
+    },
+    {
+      "file": "thk-jennifer-olding.md",
+      "slug": "thk-jennifer-olding",
+      "en": "Jennifer Olding"
+    },
+    {
+      "file": "thk-shah-waliullah.md",
+      "slug": "thk-shah-waliullah",
+      "en": "Shah Wali Allah al-Dahlawi"
+    },
+    {
+      "file": "thk-thomas-sells.md",
+      "slug": "thk-thomas-sells",
+      "en": "Thomas Sells"
+    },
+    {
+      "file": "thk-francine-shapiro.md",
+      "slug": "thk-francine-shapiro",
+      "en": "Francine Shapiro"
+    },
+    {
+      "file": "thk-axel-honneth.md",
+      "slug": "thk-axel-honneth",
+      "en": "Axel Honneth"
+    },
+    {
+      "file": "thk-maxwell-maltz.md",
+      "slug": "thk-maxwell-maltz",
+      "en": "Maxwell Maltz"
+    },
+    {
+      "file": "thk-thales.md",
+      "slug": "thk-thales",
+      "en": "Thales of Miletus"
+    },
+    {
+      "file": "thk-joseph-barber.md",
+      "slug": "thk-joseph-barber",
+      "en": "Joseph Barber"
+    },
+    {
+      "file": "thk-robert-rotella.md",
+      "slug": "thk-robert-rotella",
+      "en": "Robert J. Rotella"
+    },
+    {
+      "file": "thk-allen-carr.md",
+      "slug": "thk-allen-carr",
+      "en": "Allen Carr"
+    },
+    {
+      "file": "thk-scott-peck.md",
+      "slug": "thk-scott-peck",
+      "en": "M. Scott Peck"
+    },
+    {
+      "file": "thk-pchodron.md",
+      "slug": "thk-pchodron",
+      "en": "Pema Chödrön"
+    },
+    {
+      "file": "thk-jose-salgado.md",
+      "slug": "thk-jose-salgado",
+      "en": "José Salgado"
+    },
+    {
+      "file": "thk-zeno-elea.md",
+      "slug": "thk-zeno-elea",
+      "en": "Zeno of Elea"
+    },
+    {
+      "file": "thk-jonahlewis.md",
+      "slug": "thk-jonahlewis",
+      "en": "Jonah Lehrer"
+    },
+    {
+      "file": "thk-hugo-saint-victor.md",
+      "slug": "thk-hugo-saint-victor",
+      "en": "Hugh of Saint-Victor"
+    },
+    {
+      "file": "thk-jeberenz.md",
+      "slug": "thk-jeberenz",
+      "en": "Walter James Olweus"
+    },
+    {
+      "file": "thk-wang-yangming.md",
+      "slug": "thk-wang-yangming",
+      "en": "Wang Yangming (Wang Shouren)"
+    },
+    {
+      "file": "thk-gunnel-cederblad.md",
+      "slug": "thk-gunnel-cederblad",
+      "en": "Gunnel Cederblad"
+    },
+    {
+      "file": "thk-shih-chao-hwei.md",
+      "slug": "thk-shih-chao-hwei",
+      "en": "Shih Chao-Hwei: Buddhist Feminist Psychology"
+    },
+    {
+      "file": "thk-epierrakos.md",
+      "slug": "thk-epierrakos",
+      "en": "Eva Pierrakos (Broch)"
+    },
+    {
+      "file": "thk-agarciag.md",
+      "slug": "thk-agarciag",
+      "en": "Alicia García González"
+    },
+    {
+      "file": "thk-fkfu.md",
+      "slug": "thk-fkfu",
+      "en": "F. K. Fu"
+    },
+    {
+      "file": "thk-stephen-covey.md",
+      "slug": "thk-stephen-covey",
+      "en": "Stephen R. Covey"
+    },
+    {
+      "file": "thk-jenna-brown.md",
+      "slug": "thk-jenna-brown",
+      "en": "Jenna Brown"
+    },
+    {
+      "file": "thk-arne-naess.md",
+      "slug": "thk-arne-naess",
+      "en": "Arne Næss"
+    },
+    {
+      "file": "thk-fcaine.md",
+      "slug": "thk-fcaine",
+      "en": "Florence Cane"
+    },
+    {
+      "file": "thk-imre-lakatos.md",
+      "slug": "thk-imre-lakatos",
+      "en": "Imre Lakatos"
+    },
+    {
+      "file": "thk-jrivett.md",
+      "slug": "thk-jrivett",
+      "en": "Jordan Reed"
+    },
+    {
+      "file": "thk-rklenck.md",
+      "slug": "thk-rklenck",
+      "en": "Founders of UK Jungian associations"
+    },
+    {
+      "file": "thk-basil-caesarea.md",
+      "slug": "thk-basil-caesarea",
+      "en": "Basil of Caesarea (Basil the Great)"
+    },
+    {
+      "file": "thk-bill-matthews.md",
+      "slug": "thk-bill-matthews",
+      "en": "Bill Matthews"
+    },
+    {
+      "file": "thk-pierre-gassendi.md",
+      "slug": "thk-pierre-gassendi",
+      "en": "Pierre Gassendi"
+    },
+    {
+      "file": "thk-robin-sharma.md",
+      "slug": "thk-robin-sharma",
+      "en": "Robin Sharma"
+    },
+    {
+      "file": "thk-panaetius.md",
+      "slug": "thk-panaetius",
+      "en": "Panaetius of Rhodes"
+    },
+    {
+      "file": "thk-hajime-tanabe.md",
+      "slug": "thk-hajime-tanabe",
+      "en": "Hajime Tanabe"
+    },
+    {
+      "file": "thk-sohrevardi.md",
+      "slug": "thk-sohrevardi",
+      "en": "Shahab al-Din Suhrawardi (Shaikh al-Ishraq)"
+    },
+    {
+      "file": "thk-laozi.md",
+      "slug": "thk-laozi",
+      "en": "Laozi (Lao Dan)"
+    },
+    {
+      "file": "thk-zarathushtra.md",
+      "slug": "thk-zarathushtra",
+      "en": "Zarathustra (Zoroaster)"
+    },
+    {
+      "file": "thk-louise-hay.md",
+      "slug": "thk-louise-hay",
+      "en": "Louise Hay"
+    },
+    {
+      "file": "thk-morteza-motahhari.md",
+      "slug": "thk-morteza-motahhari",
+      "en": "Morteza Motahhari"
+    },
+    {
+      "file": "thk-kgodel.md",
+      "slug": "thk-kgodel",
+      "en": "Kurt Gödel"
+    },
+    {
+      "file": "thk-paula-penda.md",
+      "slug": "thk-paula-penda",
+      "en": "Paula Penda: Imago Educator and Author"
+    },
+    {
+      "file": "thk-dbob.md",
+      "slug": "thk-dbob",
+      "en": "Dr. Bob (Robert Holbrook Smith)"
+    },
+    {
+      "file": "thk-amishi-jha.md",
+      "slug": "thk-amishi-jha",
+      "en": "Amishi Jha"
+    },
+    {
+      "file": "thk-ecolle.md",
+      "slug": "thk-ecolle",
+      "en": "Emma Cole"
+    },
+    {
+      "file": "thk-rafaeli-eyth.md",
+      "slug": "thk-rafaeli-eyth",
+      "en": "Rafaeli Eyth"
+    },
+    {
+      "file": "thk-democritus.md",
+      "slug": "thk-democritus",
+      "en": "Democritus of Abdera"
+    },
+    {
+      "file": "thk-jboss.md",
+      "slug": "thk-jboss",
+      "en": "David Berceli"
+    },
+    {
+      "file": "thk-rmritchie.md",
+      "slug": "thk-rmritchie",
+      "en": "Ralph Metzner"
+    },
+    {
+      "file": "thk-jeffrey-zeig.md",
+      "slug": "thk-jeffrey-zeig",
+      "en": "Jeffrey K. Zeig"
+    },
+    {
+      "file": "thk-hliddle-clin.md",
+      "slug": "thk-hliddle-clin",
+      "en": "Craig E. Henderson"
+    },
+    {
+      "file": "thk-karl-popper.md",
+      "slug": "thk-karl-popper",
+      "en": "Sir Karl Popper"
+    },
+    {
+      "file": "thk-nasir-tusi.md",
+      "slug": "thk-nasir-tusi",
+      "en": "Nasir al-Din al-Tusi"
+    },
+    {
+      "file": "thk-allameh-tabatabai.md",
+      "slug": "thk-allameh-tabatabai",
+      "en": "Allameh Tabataba'i"
+    },
+    {
+      "file": "thk-hayyim-vital.md",
+      "slug": "thk-hayyim-vital",
+      "en": "Rabbi Hayyim ben Yosef Vital (the Elder)"
+    },
+    {
+      "file": "thk-kaarlokeranen.md",
+      "slug": "thk-kaarlokeranen",
+      "en": "Kaarlo Keränen"
+    },
+    {
+      "file": "thk-crates-thebes.md",
+      "slug": "thk-crates-thebes",
+      "en": "Crates of Thebes"
+    },
+    {
+      "file": "thk-paul-ekman.md",
+      "slug": "thk-paul-ekman",
+      "en": "Paul Ekman"
+    },
+    {
+      "file": "thk-bala-jaison.md",
+      "slug": "thk-bala-jaison",
+      "en": "Bala Jaison"
+    },
+    {
+      "file": "thk-wang-fuzhi.md",
+      "slug": "thk-wang-fuzhi",
+      "en": "Wang Fuzhi"
+    },
+    {
+      "file": "thk-tnhat.md",
+      "slug": "thk-tnhat",
+      "en": "Thich Nhat Hanh"
+    },
+    {
+      "file": "thk-mark-manson.md",
+      "slug": "thk-mark-manson",
+      "en": "Mark Manson"
+    },
+    {
+      "file": "thk-wasil-ibn-ata.md",
+      "slug": "thk-wasil-ibn-ata",
+      "en": "Wasil ibn Ata"
+    },
+    {
+      "file": "thk-quentin-meillassoux.md",
+      "slug": "thk-quentin-meillassoux",
+      "en": "Quentin Meillassoux"
+    },
+    {
+      "file": "thk-ihewlen.md",
+      "slug": "thk-ihewlen",
+      "en": "Ihaleakala Hew Len"
+    },
+    {
+      "file": "thk-jroddy.md",
+      "slug": "thk-jroddy",
+      "en": "J. Luke Wood"
+    },
+    {
+      "file": "thk-diogenes-sinope.md",
+      "slug": "thk-diogenes-sinope",
+      "en": "Diogenes of Sinope"
+    },
+    {
+      "file": "thk-peta-stapleton.md",
+      "slug": "thk-peta-stapleton",
+      "en": "Peta Stapleton"
+    },
+    {
+      "file": "thk-benedict-carey.md",
+      "slug": "thk-benedict-carey",
+      "en": "Benedict Carey"
+    },
+    {
+      "file": "thk-baal-shem-tov.md",
+      "slug": "thk-baal-shem-tov",
+      "en": "Israel ben Eliezer (Baal Shem Tov)"
+    },
+    {
+      "file": "thk-fvanderzee.md",
+      "slug": "thk-fvanderzee",
+      "en": "Frans van der Zee"
+    },
+    {
+      "file": "thk-louise-guerney.md",
+      "slug": "thk-louise-guerney",
+      "en": "Louise F. Guerney"
+    },
+    {
+      "file": "thk-thomas-harris.md",
+      "slug": "thk-thomas-harris",
+      "en": "Thomas A. Harris"
+    },
+    {
+      "file": "thk-marcus-aurelius.md",
+      "slug": "thk-marcus-aurelius",
+      "en": "Marcus Aurelius"
+    },
+    {
+      "file": "thk-seneca.md",
+      "slug": "thk-seneca",
+      "en": "Lucius Annaeus Seneca (Seneca the Younger)"
+    },
+    {
+      "file": "thk-siger-brabant.md",
+      "slug": "thk-siger-brabant",
+      "en": "Siger of Brabant"
+    },
+    {
+      "file": "thk-david-erceg.md",
+      "slug": "thk-david-erceg",
+      "en": "David Erceg"
+    },
+    {
+      "file": "thk-jiva-goswami.md",
+      "slug": "thk-jiva-goswami",
+      "en": "Jiva Goswami"
+    },
+    {
+      "file": "thk-primo-levi.md",
+      "slug": "thk-primo-levi",
+      "en": "Primo Levi"
+    },
+    {
+      "file": "thk-saadia-gaon.md",
+      "slug": "thk-saadia-gaon",
+      "en": "Saadia Gaon"
+    },
+    {
+      "file": "thk-edward-de-bono.md",
+      "slug": "thk-edward-de-bono",
+      "en": "Edward de Bono"
+    },
+    {
+      "file": "thk-andy-clark.md",
+      "slug": "thk-andy-clark",
+      "en": "Andy Clark"
+    },
+    {
+      "file": "thk-augustine.md",
+      "slug": "thk-augustine",
+      "en": "Augustine of Hippo"
+    },
+    {
+      "file": "thk-katie-laperriere.md",
+      "slug": "thk-katie-laperriere",
+      "en": "Katie LaPerriere: EFT Supervisor and Trainer"
+    },
+    {
+      "file": "thk-rick-hanson.md",
+      "slug": "thk-rick-hanson",
+      "en": "Rick Hanson"
+    },
+    {
+      "file": "thk-pyrrho.md",
+      "slug": "thk-pyrrho",
+      "en": "Pyrrho of Elis"
+    },
+    {
+      "file": "thk-fouad-zakariya.md",
+      "slug": "thk-fouad-zakariya",
+      "en": "Fouad Zakariya"
+    },
+    {
+      "file": "thk-proclus.md",
+      "slug": "thk-proclus",
+      "en": "Proclus (The Successor)"
+    },
+    {
+      "file": "thk-albert-einstein.md",
+      "slug": "thk-albert-einstein",
+      "en": "Albert Einstein"
+    },
+    {
+      "file": "thk-murad-wahba.md",
+      "slug": "thk-murad-wahba",
+      "en": "Murad Wahba"
+    },
+    {
+      "file": "thk-ruben-habito.md",
+      "slug": "thk-ruben-habito",
+      "en": "Ruben Habito: Zen Buddhism and Psychology Integration"
+    },
+    {
+      "file": "thk-john-braithwaite.md",
+      "slug": "thk-john-braithwaite",
+      "en": "John Braithwaite"
+    },
+    {
+      "file": "thk-sdesha.md",
+      "slug": "thk-sdesha",
+      "en": "Kamlesh D. Patel (Daaji)"
+    },
+    {
+      "file": "thk-brene-brown.md",
+      "slug": "thk-brene-brown",
+      "en": "Brené Brown"
+    },
+    {
+      "file": "thk-giorgio-agamben.md",
+      "slug": "thk-giorgio-agamben",
+      "en": "Giorgio Agamben"
+    },
+    {
+      "file": "thk-cheng-hao.md",
+      "slug": "thk-cheng-hao",
+      "en": "Cheng Hao"
+    },
+    {
+      "file": "thk-zhang-zai.md",
+      "slug": "thk-zhang-zai",
+      "en": "Zhang Zai"
+    },
+    {
+      "file": "thk-joseph-murphy.md",
+      "slug": "thk-joseph-murphy",
+      "en": "Joseph Murphy"
+    },
+    {
+      "file": "thk-peter-singer.md",
+      "slug": "thk-peter-singer",
+      "en": "Peter Singer"
+    },
+    {
+      "file": "thk-hassan-hanafi.md",
+      "slug": "thk-hassan-hanafi",
+      "en": "Hassan Hanafi"
+    },
+    {
+      "file": "thk-miguel-ruiz.md",
+      "slug": "thk-miguel-ruiz",
+      "en": "Don Miguel Ruiz"
+    },
+    {
+      "file": "thk-oprah-winfrey.md",
+      "slug": "thk-oprah-winfrey",
+      "en": "Oprah Winfrey"
+    },
+    {
+      "file": "thk-katka-rubin.md",
+      "slug": "thk-katka-rubin",
+      "en": "Katka Rubin"
+    },
+    {
+      "file": "thk-cheng-yi.md",
+      "slug": "thk-cheng-yi",
+      "en": "Cheng Yi (Ch'eng I)"
+    },
+    {
+      "file": "thk-malcolm-x.md",
+      "slug": "thk-malcolm-x",
+      "en": "Malcolm X (El-Hajj Malik El-Shabazz)"
+    },
+    {
+      "file": "thk-wade-nobles.md",
+      "slug": "thk-wade-nobles",
+      "en": "Wade W. Nobles (Nana Kwaku Berko I)"
+    },
+    {
+      "file": "thk-jenny-osborn.md",
+      "slug": "thk-jenny-osborn",
+      "en": "Jenny Osborn: AEDP Senior Faculty"
+    },
+    {
+      "file": "thk-john-friedman.md",
+      "slug": "thk-john-friedman",
+      "en": "John Friedman"
+    },
+    {
+      "file": "thk-jnakamura.md",
+      "slug": "thk-jnakamura",
+      "en": "Founders of Japanese Sandplay Therapy Association"
+    },
+    {
+      "file": "thk-sljizek.md",
+      "slug": "thk-sljizek",
+      "en": "Slavoj Žižek"
+    },
+    {
+      "file": "thk-chris-iveson.md",
+      "slug": "thk-chris-iveson",
+      "en": "Chris Iveson: Solution-Focused Therapy Co-Founder"
+    },
+    {
+      "file": "thk-anselm-canterbury.md",
+      "slug": "thk-anselm-canterbury",
+      "en": "Anselm of Canterbury"
+    },
+    {
+      "file": "thk-hadi-sabzawari.md",
+      "slug": "thk-hadi-sabzawari",
+      "en": "Mulla Hadi Sabzawari"
+    },
+    {
+      "file": "thk-nanak.md",
+      "slug": "thk-nanak",
+      "en": "Guru Nanak (Founder of Sikhism)"
+    },
+    {
+      "file": "thk-brueger.md",
+      "slug": "thk-brueger",
+      "en": "Bernd Rüger"
+    },
+    {
+      "file": "thk-jeong-yak-yong-dasan.md",
+      "slug": "thk-jeong-yak-yong-dasan",
+      "en": "Jeong Yak-yong (Dasan)"
+    },
+    {
+      "file": "thk-william-ockham.md",
+      "slug": "thk-william-ockham",
+      "en": "William of Ockham"
+    },
+    {
+      "file": "thk-jingqiyong.md",
+      "slug": "thk-jingqiyong",
+      "en": "Yang Desen (Yang Deshen)"
+    },
+    {
+      "file": "thk-jalal-al-din-dawani.md",
+      "slug": "thk-jalal-al-din-dawani",
+      "en": "Jalal al-Din Dawani"
+    },
+    {
+      "file": "thk-marianne-strom.md",
+      "slug": "thk-marianne-strom",
+      "en": "Marianne Ström"
+    },
+    {
+      "file": "thk-sayf-al-din-al-amidi.md",
+      "slug": "thk-sayf-al-din-al-amidi",
+      "en": "Sayf al-Din al-Amidi"
+    },
+    {
+      "file": "thk-dhook.md",
+      "slug": "thk-dhook",
+      "en": "Dennis Fox"
+    },
+    {
+      "file": "thk-strato-lampsacus.md",
+      "slug": "thk-strato-lampsacus",
+      "en": "Strato of Lampsacus"
+    },
+    {
+      "file": "thk-gene-ennis.md",
+      "slug": "thk-gene-ennis",
+      "en": "Gene Ennis"
+    },
+    {
+      "file": "thk-prodicus.md",
+      "slug": "thk-prodicus",
+      "en": "Prodicus of Ceos"
+    },
+    {
+      "file": "thk-zoroaster.md",
+      "slug": "thk-zoroaster",
+      "en": "Zoroaster (Zarathustra)"
+    },
+    {
+      "file": "thk-leighmccullers.md",
+      "slug": "thk-leighmccullers",
+      "en": "Leigh McCullough"
+    },
+    {
+      "file": "thk-madeleine-sandberg.md",
+      "slug": "thk-madeleine-sandberg",
+      "en": "Madeleine Sandberg"
+    },
+    {
+      "file": "thk-nicholas-of-cusa.md",
+      "slug": "thk-nicholas-of-cusa",
+      "en": "Nicholas of Cusa"
+    },
+    {
+      "file": "thk-ahiqar.md",
+      "slug": "thk-ahiqar",
+      "en": "Ahiqar the Wise"
+    },
+    {
+      "file": "thk-svami-akhilananda.md",
+      "slug": "thk-svami-akhilananda",
+      "en": "Svami Akhilananda"
+    },
+    {
+      "file": "thk-jmertz.md",
+      "slug": "thk-jmertz",
+      "en": "[Editors of Italian Rivista di Psicologia Analitica]"
+    },
+    {
+      "file": "thk-isaac-blind.md",
+      "slug": "thk-isaac-blind",
+      "en": "Isaac Israeli (Isaac of the Blind)"
+    },
+    {
+      "file": "thk-rado.md",
+      "slug": "thk-rado",
+      "en": "Sándor Radó"
+    },
+    {
+      "file": "thk-david-schwartz.md",
+      "slug": "thk-david-schwartz",
+      "en": "David J. Schwartz"
+    },
+    {
+      "file": "thk-jbeker.md",
+      "slug": "thk-jbeker",
+      "en": "Jonathan Becker"
+    },
+    {
+      "file": "thk-elizabeth-loftus.md",
+      "slug": "thk-elizabeth-loftus",
+      "en": "Elizabeth F. Loftus"
+    },
+    {
+      "file": "thk-peter-abelard.md",
+      "slug": "thk-peter-abelard",
+      "en": "Peter Abelard"
+    },
+    {
+      "file": "thk-richard-dawkins.md",
+      "slug": "thk-richard-dawkins",
+      "en": "Richard Dawkins"
+    },
+    {
+      "file": "thk-huishi.md",
+      "slug": "thk-huishi",
+      "en": "Hui Shi (Hui Qi)"
+    },
+    {
+      "file": "thk-david-krauss.md",
+      "slug": "thk-david-krauss",
+      "en": "David A. Krauss"
+    },
+    {
+      "file": "thk-sadr-al-din-al-qunawi.md",
+      "slug": "thk-sadr-al-din-al-qunawi",
+      "en": "Sadr al-Din al-Qunawi"
+    },
+    {
+      "file": "thk-charles-grob.md",
+      "slug": "thk-charles-grob",
+      "en": "Charles S. Grob"
+    },
+    {
+      "file": "thk-susan-anderson.md",
+      "slug": "thk-susan-anderson",
+      "en": "Susan Anderson: Imago and Abandonment Recovery"
+    },
+    {
+      "file": "thk-zhou-dunyi.md",
+      "slug": "thk-zhou-dunyi",
+      "en": "Zhou Dunyi"
+    },
+    {
+      "file": "thk-stephen-jay-gould.md",
+      "slug": "thk-stephen-jay-gould",
+      "en": "Stephen Jay Gould"
+    },
+    {
+      "file": "thk-dogen.md",
+      "slug": "thk-dogen",
+      "en": "Dogen Zenji"
+    },
+    {
+      "file": "thk-charles-glisson.md",
+      "slug": "thk-charles-glisson",
+      "en": "Charles Glisson"
+    },
+    {
+      "file": "thk-rpla.md",
+      "slug": "thk-rpla",
+      "en": "Roberto J. Plá"
+    },
+    {
+      "file": "thk-kapila.md",
+      "slug": "thk-kapila",
+      "en": "Kapila (Founder of Samkhya)"
+    },
+    {
+      "file": "thk-zhuangzi.md",
+      "slug": "thk-zhuangzi",
+      "en": "Zhuangzi (Zhuang Zhou)"
+    },
+    {
+      "file": "thk-bertrand-russell.md",
+      "slug": "thk-bertrand-russell",
+      "en": "Bertrand Russell"
+    },
+    {
+      "file": "thk-sudhir-kakar.md",
+      "slug": "thk-sudhir-kakar",
+      "en": "Sudhir Kakar"
+    },
+    {
+      "file": "thk-pythagoras.md",
+      "slug": "thk-pythagoras",
+      "en": "Pythagoras of Samos"
+    },
+    {
+      "file": "thk-taha-abderrahmane.md",
+      "slug": "thk-taha-abderrahmane",
+      "en": "Taha Abderrahmane"
+    },
+    {
+      "file": "thk-margaret-bluestein.md",
+      "slug": "thk-margaret-bluestein",
+      "en": "Margaret Bluestein"
+    },
+    {
+      "file": "thk-isaac-newton.md",
+      "slug": "thk-isaac-newton",
+      "en": "Sir Isaac Newton"
+    },
+    {
+      "file": "thk-confucius.md",
+      "slug": "thk-confucius",
+      "en": "Confucius (Kongzi / Kong Qiu)"
+    },
+    {
+      "file": "thk-russ-harris.md",
+      "slug": "thk-russ-harris",
+      "en": "Russ Harris"
+    },
+    {
+      "file": "thk-pipitea.md",
+      "slug": "thk-pipitea",
+      "en": "Michael Pīpīte"
+    },
+    {
+      "file": "thk-david-chalmers.md",
+      "slug": "thk-david-chalmers",
+      "en": "David Chalmers"
+    },
+    {
+      "file": "thk-abraham-geiger.md",
+      "slug": "thk-abraham-geiger",
+      "en": "Abraham Geiger"
+    },
+    {
+      "file": "thk-alexander-aphrodisias.md",
+      "slug": "thk-alexander-aphrodisias",
+      "en": "Alexander of Aphrodisias"
+    },
+    {
+      "file": "thk-jean-francois-lyotard.md",
+      "slug": "thk-jean-francois-lyotard",
+      "en": "Jean-François Lyotard"
+    },
+    {
+      "file": "thk-johann-gottfried-herder.md",
+      "slug": "thk-johann-gottfried-herder",
+      "en": "Johann Gottfried von Herder"
+    },
+    {
+      "file": "thk-isaac-luria.md",
+      "slug": "thk-isaac-luria",
+      "en": "Isaac Luria (Ha-Ari)"
+    },
+    {
+      "file": "thk-rollins.md",
+      "slug": "thk-rollins",
+      "en": "Stephen Rollins: Psychedelic-Assisted Therapy Trainer"
+    },
+    {
+      "file": "thk-adam-smith.md",
+      "slug": "thk-adam-smith",
+      "en": "Adam Smith"
+    },
+    {
+      "file": "thk-eengelhardt.md",
+      "slug": "thk-eengelhardt",
+      "en": "H. Tristram Engelhardt Jr."
+    },
+    {
+      "file": "thk-michael-yarp.md",
+      "slug": "thk-michael-yarp",
+      "en": "Michael Yapko"
+    },
+    {
+      "file": "thk-charles-duhigg.md",
+      "slug": "thk-charles-duhigg",
+      "en": "Charles Duhigg"
+    },
+    {
+      "file": "thk-hunayn-ibn-ishaq.md",
+      "slug": "thk-hunayn-ibn-ishaq",
+      "en": "Hunayn ibn Ishaq (Johannitius)"
+    },
+    {
+      "file": "thk-suhrawardi.md",
+      "slug": "thk-suhrawardi",
+      "en": "Shahab al-Din Yahya ibn Habash Suhrawardi (Shaykh al-Ishraq)"
+    },
+    {
+      "file": "thk-ortega.md",
+      "slug": "thk-ortega",
+      "en": "José Ortega y Gasset"
+    },
+    {
+      "file": "thk-jchales.md",
+      "slug": "thk-jchales",
+      "en": "John Charles"
+    },
+    {
+      "file": "thk-heraclitus.md",
+      "slug": "thk-heraclitus",
+      "en": "Heraclitus of Ephesus"
+    },
+    {
+      "file": "thk-suarez.md",
+      "slug": "thk-suarez",
+      "en": "Francisco Suárez"
+    },
+    {
+      "file": "thk-jean-amery.md",
+      "slug": "thk-jean-amery",
+      "en": "Jean Améry"
+    },
+    {
+      "file": "thk-parmenides.md",
+      "slug": "thk-parmenides",
+      "en": "Parmenides of Elea"
+    },
+    {
+      "file": "thk-saberg-abramovitz.md",
+      "slug": "thk-saberg-abramovitz",
+      "en": "D. Abramovitz / A. Berg (SAAJA founders)"
+    },
+    {
+      "file": "thk-hipparchia.md",
+      "slug": "thk-hipparchia",
+      "en": "Hipparchia of Maroneia"
+    },
+    {
+      "file": "thk-stephen-lankton.md",
+      "slug": "thk-stephen-lankton",
+      "en": "Stephen R. Lankton"
+    },
+    {
+      "file": "thk-mencius.md",
+      "slug": "thk-mencius",
+      "en": "Mencius (Mengzi)"
+    },
+    {
+      "file": "thk-mark-santross.md",
+      "slug": "thk-mark-santross",
+      "en": "Mark R. Dombeck"
+    },
+    {
+      "file": "thk-gorgias.md",
+      "slug": "thk-gorgias",
+      "en": "Gorgias of Leontini"
+    },
+    {
+      "file": "thk-thomas-more.md",
+      "slug": "thk-thomas-more",
+      "en": "Sir Thomas More"
+    },
+    {
+      "file": "thk-ghiyath-al-din-dashtaki.md",
+      "slug": "thk-ghiyath-al-din-dashtaki",
+      "en": "Ghiyath al-Din Mansur Dashtaki"
+    },
+    {
+      "file": "thk-roland-tolentino.md",
+      "slug": "thk-roland-tolentino",
+      "en": "Roland B. Tolentino"
+    },
+    {
+      "file": "thk-epaz.md",
+      "slug": "thk-epaz",
+      "en": "Elsa Paz Castillo"
+    },
+    {
+      "file": "thk-jkadden.md",
+      "slug": "thk-jkadden",
+      "en": "Kathleen M. Carroll"
+    },
+    {
+      "file": "thk-mozi.md",
+      "slug": "thk-mozi",
+      "en": "Mozi (Mo Di)"
+    },
+    {
+      "file": "thk-hkrystal.md",
+      "slug": "thk-hkrystal",
+      "en": "Hiroshi Kawashima"
+    },
+    {
+      "file": "thk-alain-de-botton.md",
+      "slug": "thk-alain-de-botton",
+      "en": "Alain de Botton"
+    },
+    {
+      "file": "thk-hlkelly.md",
+      "slug": "thk-hlkelly",
+      "en": "Helen LaKelly Hunt"
+    },
+    {
+      "file": "thk-norman-vincent-peale.md",
+      "slug": "thk-norman-vincent-peale",
+      "en": "Norman Vincent Peale"
+    },
+    {
+      "file": "thk-francisco-de-vitoria.md",
+      "slug": "thk-francisco-de-vitoria",
+      "en": "Francisco de Vitoria"
+    },
+    {
+      "file": "thk-susan-cain.md",
+      "slug": "thk-susan-cain",
+      "en": "Susan Cain"
+    },
+    {
+      "file": "thk-lfish.md",
+      "slug": "thk-lfish",
+      "en": "Lawrence Fischbein"
+    },
+    {
+      "file": "thk-justin-martyr.md",
+      "slug": "thk-justin-martyr",
+      "en": "Justin Martyr"
+    },
+    {
+      "file": "thk-sadreddin-konevi.md",
+      "slug": "thk-sadreddin-konevi",
+      "en": "Sadr al-Din al-Qunawi (Sadruddin Konevi)"
+    },
+    {
+      "file": "thk-gillian-abbott.md",
+      "slug": "thk-gillian-abbott",
+      "en": "Gillian Abbott"
+    },
+    {
+      "file": "thk-dgreenberger.md",
+      "slug": "thk-dgreenberger",
+      "en": "Denise D. Davis"
+    },
+    {
+      "file": "thk-jacqueline-astington.md",
+      "slug": "thk-jacqueline-astington",
+      "en": "Jacqueline A. Astington"
+    },
+    {
+      "file": "thk-judson-brewer.md",
+      "slug": "thk-judson-brewer",
+      "en": "Judson Brewer"
+    },
+    {
+      "file": "thk-enrique-dussel.md",
+      "slug": "thk-enrique-dussel",
+      "en": "Enrique Dussel"
+    },
+    {
+      "file": "thk-lucretius.md",
+      "slug": "thk-lucretius",
+      "en": "Titus Lucretius Carus"
+    },
+    {
+      "file": "thk-john-cacioppo.md",
+      "slug": "thk-john-cacioppo",
+      "en": "John Cacioppo"
+    },
+    {
+      "file": "thk-dayananda.md",
+      "slug": "thk-dayananda",
+      "en": "Swami Dayananda Saraswati"
+    },
+    {
+      "file": "thk-lonan.md",
+      "slug": "thk-lonan",
+      "en": "Lorena Onnis"
+    },
+    {
+      "file": "thk-chaim-perelman.md",
+      "slug": "thk-chaim-perelman",
+      "en": "Chaïm Perelman"
+    },
+    {
+      "file": "thk-jeffrey-rediger.md",
+      "slug": "thk-jeffrey-rediger",
+      "en": "Jeffrey Rediger"
+    },
+    {
+      "file": "thk-wilderson.md",
+      "slug": "thk-wilderson",
+      "en": "Frank B. Wilderson III"
+    },
+    {
+      "file": "thk-jayearly.md",
+      "slug": "thk-jayearly",
+      "en": "Jay Earley"
+    },
+    {
+      "file": "thk-trub.md",
+      "slug": "thk-trub",
+      "en": "Hans Trüb"
+    },
+    {
+      "file": "thk-mccullough.md",
+      "slug": "thk-mccullough",
+      "en": "James P. McCullough Jr."
+    },
+    {
+      "file": "thk-emilecoue.md",
+      "slug": "thk-emilecoue",
+      "en": "Émile Coué"
+    },
+    {
+      "file": "thk-alexandra-farkas.md",
+      "slug": "thk-alexandra-farkas",
+      "en": "Alexandra Farkas"
+    },
+    {
+      "file": "thk-msrosenberg.md",
+      "slug": "thk-msrosenberg",
+      "en": "Marshall B. Rosenberg (Nonviolent Communication)"
+    },
+    {
+      "file": "thk-lindatuhiwai.md",
+      "slug": "thk-lindatuhiwai",
+      "en": "Linda Tuhiwai Smith"
+    },
+    {
+      "file": "thk-steven-pinker.md",
+      "slug": "thk-steven-pinker",
+      "en": "Steven Pinker"
+    },
+    {
+      "file": "thk-cwhitaker-pt.md",
+      "slug": "thk-cwhitaker-pt",
+      "en": "John Marsh"
+    },
+    {
+      "file": "thk-kmurah.md",
+      "slug": "thk-kmurah",
+      "en": "Founders of US Jungian associations and institutes"
+    },
+    {
+      "file": "thk-susan-koch.md",
+      "slug": "thk-susan-koch",
+      "en": "Susan Koch"
+    },
+    {
+      "file": "thk-aristippus.md",
+      "slug": "thk-aristippus",
+      "en": "Aristippus of Cyrene"
+    },
+    {
+      "file": "thk-peter-clough.md",
+      "slug": "thk-peter-clough",
+      "en": "Peter Clough"
+    },
+    {
+      "file": "thk-dhanna.md",
+      "slug": "thk-dhanna",
+      "en": "Frank Goldstein"
+    },
+    {
+      "file": "thk-mitch-albom.md",
+      "slug": "thk-mitch-albom",
+      "en": "Mitch Albom"
+    },
+    {
+      "file": "thk-orsigen.md",
+      "slug": "thk-orsigen",
+      "en": "Origen of Alexandria"
+    },
+    {
+      "file": "thk-maharishi.md",
+      "slug": "thk-maharishi",
+      "en": "Maharishi Mahesh Yogi"
+    },
+    {
+      "file": "thk-sidneyjourdan.md",
+      "slug": "thk-sidneyjourdan",
+      "en": "Sidney M. Jourard"
+    },
+    {
+      "file": "thk-martin-bohus.md",
+      "slug": "thk-martin-bohus",
+      "en": "Martin Bohus"
+    },
+    {
+      "file": "thk-lavinia-shaw.md",
+      "slug": "thk-lavinia-shaw",
+      "en": "Lavinia Shaw"
+    },
+    {
+      "file": "thk-julie-smith.md",
+      "slug": "thk-julie-smith",
+      "en": "Julie Smith"
+    },
+    {
+      "file": "thk-leehyungjun.md",
+      "slug": "thk-leehyungjun",
+      "en": "Lee Hyung-Jun"
+    },
+    {
+      "file": "thk-robert-bolton.md",
+      "slug": "thk-robert-bolton",
+      "en": "Robert Bolton"
+    },
+    {
+      "file": "thk-madhva.md",
+      "slug": "thk-madhva",
+      "en": "Madhvacharya (Dvaita Vedanta)"
+    },
+    {
+      "file": "thk-paul-thorne.md",
+      "slug": "thk-paul-thorne",
+      "en": "Paul Thorne"
+    },
+    {
+      "file": "thk-johann-hari.md",
+      "slug": "thk-johann-hari",
+      "en": "Johann Hari"
+    },
+    {
+      "file": "thk-stoics.md",
+      "slug": "thk-stoics",
+      "en": "The Stoics (Seneca & Epictetus)"
+    },
+    {
+      "file": "thk-william-hudson.md",
+      "slug": "thk-william-hudson",
+      "en": "William Hudson O'Hanlon"
+    },
+    {
+      "file": "thk-sgreys.md",
+      "slug": "thk-sgreys",
+      "en": "Daniel A. Hughes"
+    },
+    {
+      "file": "thk-idmarshall.md",
+      "slug": "thk-idmarshall",
+      "en": "Thomas Hanna"
+    },
+    {
+      "file": "thk-capriles.md",
+      "slug": "thk-capriles",
+      "en": "Axel Capriles M."
+    },
+    {
+      "file": "thk-elaine-aron.md",
+      "slug": "thk-elaine-aron",
+      "en": "Elaine N. Aron"
+    },
+    {
+      "file": "thk-orwell.md",
+      "slug": "thk-orwell",
+      "en": "George Orwell (Eric Blair)"
+    },
+    {
+      "file": "thk-stanley-milgram.md",
+      "slug": "thk-stanley-milgram",
+      "en": "Stanley Milgram"
+    },
+    {
+      "file": "thk-robert-sapolsky.md",
+      "slug": "thk-robert-sapolsky",
+      "en": "Robert Sapolsky"
+    },
+    {
+      "file": "thk-john-makransky.md",
+      "slug": "thk-john-makransky",
+      "en": "John Makransky: Buddhist Contemplative Therapy"
+    },
+    {
+      "file": "thk-pseudo-dionysius.md",
+      "slug": "thk-pseudo-dionysius",
+      "en": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "file": "thk-boethius.md",
+      "slug": "thk-boethius",
+      "en": "Boethius (Anicius Manlius Severinus)"
+    },
+    {
+      "file": "thk-antiochus-ascalon.md",
+      "slug": "thk-antiochus-ascalon",
+      "en": "Antiochus of Ascalon"
+    },
+    {
+      "file": "thk-michael-yapko-jr.md",
+      "slug": "thk-michael-yapko-jr",
+      "en": "Daniel P. Behnke"
+    },
+    {
+      "file": "thk-brian-aleman.md",
+      "slug": "thk-brian-aleman",
+      "en": "Brian M. Alman"
+    },
+    {
+      "file": "thk-stephen-talley.md",
+      "slug": "thk-stephen-talley",
+      "en": "Stephen F. Talley"
+    },
+    {
+      "file": "thk-brian-victoria.md",
+      "slug": "thk-brian-victoria",
+      "en": "Brian Victoria: Zen Buddhism and Social Ethics"
+    },
+    {
+      "file": "thk-yacob.md",
+      "slug": "thk-yacob",
+      "en": "Zera Yacob (Zärʾa Yaʿeqob)"
+    },
+    {
+      "file": "thk-gary-chapman.md",
+      "slug": "thk-gary-chapman",
+      "en": "Gary Chapman"
+    },
+    {
+      "file": "thk-michelle-weiner-davis.md",
+      "slug": "thk-michelle-weiner-davis",
+      "en": "Michele Weiner-Davis: Imago and Solution-Focused"
+    },
+    {
+      "file": "thk-philo-alexandria.md",
+      "slug": "thk-philo-alexandria",
+      "en": "Philo of Alexandria"
+    },
+    {
+      "file": "thk-jgould.md",
+      "slug": "thk-jgould",
+      "en": "James Lubin"
+    },
+    {
+      "file": "thk-jennifer-cheavens.md",
+      "slug": "thk-jennifer-cheavens",
+      "en": "Jennifer S. Cheavens"
+    },
+    {
+      "file": "thk-anna-lembke.md",
+      "slug": "thk-anna-lembke",
+      "en": "Anna Lembke"
+    },
+    {
+      "file": "thk-lsaari.md",
+      "slug": "thk-lsaari",
+      "en": "Lucien Lévy-Bruhl"
+    },
+    {
+      "file": "thk-david-reeve.md",
+      "slug": "thk-david-reeve",
+      "en": "David P. Reeve"
+    },
+    {
+      "file": "thk-parkjongik.md",
+      "slug": "thk-parkjongik",
+      "en": "Park Jong-Ik"
+    },
+    {
+      "file": "thk-rohan-gullich.md",
+      "slug": "thk-rohan-gullich",
+      "en": "Rohan J. Gullich"
+    },
+    {
+      "file": "thk-daniel-dennett.md",
+      "slug": "thk-daniel-dennett",
+      "en": "Daniel Dennett"
+    },
+    {
+      "file": "thk-deepak-ramsubeik.md",
+      "slug": "thk-deepak-ramsubeik",
+      "en": "Deepak Ramsubick"
+    },
+    {
+      "file": "thk-paul-churchland.md",
+      "slug": "thk-paul-churchland",
+      "en": "Paul Churchland"
+    },
+    {
+      "file": "thk-oliver-sacks.md",
+      "slug": "thk-oliver-sacks",
+      "en": "Oliver Sacks"
+    },
+    {
+      "file": "thk-mahavira.md",
+      "slug": "thk-mahavira",
+      "en": "Mahavira (Founder of Jainism)"
+    },
+    {
+      "file": "thk-cora-zanuso.md",
+      "slug": "thk-cora-zanuso",
+      "en": "Cora Zanuso: Latin American Liberation Psychology"
+    },
+    {
+      "file": "thk-john-gray.md",
+      "slug": "thk-john-gray",
+      "en": "John Gray"
+    },
+    {
+      "file": "thk-gotama-kanad.md",
+      "slug": "thk-gotama-kanad",
+      "en": "Aksapada Gautama (Founder of Nyaya)"
+    },
+    {
+      "file": "thk-george-thompson.md",
+      "slug": "thk-george-thompson",
+      "en": "George Thompson"
+    },
+    {
+      "file": "thk-icheolhong.md",
+      "slug": "thk-icheolhong",
+      "en": "Cho Hee-soo / Hesoo Cha"
+    },
+    {
+      "file": "thk-edsch.md",
+      "slug": "thk-edsch",
+      "en": "Founders of Latin American Jungian societies"
+    },
+    {
+      "file": "thk-patanjali.md",
+      "slug": "thk-patanjali",
+      "en": "Patanjali (Founder of Classical Yoga)"
+    },
+    {
+      "file": "thk-fukuzawa.md",
+      "slug": "thk-fukuzawa",
+      "en": "Fukuzawa Yukichi"
+    },
+    {
+      "file": "thk-melanie-segall.md",
+      "slug": "thk-melanie-segall",
+      "en": "Melanie Segall"
+    },
+    {
+      "file": "thk-azriel-of-gerona.md",
+      "slug": "thk-azriel-of-gerona",
+      "en": "Azriel of Gerona"
+    },
+    {
+      "file": "thk-patrice-de-marco.md",
+      "slug": "thk-patrice-de-marco",
+      "en": "Patrice De Marco"
+    },
+    {
+      "file": "thk-ammonius-hermiae.md",
+      "slug": "thk-ammonius-hermiae",
+      "en": "Ammonius Hermiae"
+    },
+    {
+      "file": "thk-stig-rasmussen.md",
+      "slug": "thk-stig-rasmussen",
+      "en": "Stig Rasmussen"
+    },
+    {
+      "file": "thk-robert-kegan.md",
+      "slug": "thk-robert-kegan",
+      "en": "Robert Kegan"
+    },
+    {
+      "file": "thk-jacqueline-tortorella.md",
+      "slug": "thk-jacqueline-tortorella",
+      "en": "Jacqueline Tortorella"
+    },
+    {
+      "file": "thk-alazm.md",
+      "slug": "thk-alazm",
+      "en": "Sadiq Jalal al-Azm"
+    },
+    {
+      "file": "thk-theodor-adorno.md",
+      "slug": "thk-theodor-adorno",
+      "en": "Theodor W. Adorno"
+    },
+    {
+      "file": "thk-kevin-sparger.md",
+      "slug": "thk-kevin-sparger",
+      "en": "Kevin L. Sparger"
+    },
+    {
+      "file": "thk-david-nichols.md",
+      "slug": "thk-david-nichols",
+      "en": "David E. Nichols"
+    },
+    {
+      "file": "thk-carolyn-dalglish.md",
+      "slug": "thk-carolyn-dalglish",
+      "en": "Carolyn Dalglish"
+    },
+    {
+      "file": "thk-jalal-al-din-rumi.md",
+      "slug": "thk-jalal-al-din-rumi",
+      "en": "Jalal al-Din Rumi (Mawlana)"
+    },
+    {
+      "file": "thk-hakuin.md",
+      "slug": "thk-hakuin",
+      "en": "Hakuin Ekaku"
+    },
+    {
+      "file": "thk-eleanor-crisostomo.md",
+      "slug": "thk-eleanor-crisostomo",
+      "en": "Eleanor Crisostomo"
+    },
+    {
+      "file": "thk-nasir-khusraw.md",
+      "slug": "thk-nasir-khusraw",
+      "en": "Nasir Khusraw (Nasir-i Khusraw Qubadyani)"
+    },
+    {
+      "file": "thk-mulla-sadra.md",
+      "slug": "thk-mulla-sadra",
+      "en": "Mulla Sadra (Sadr al-Din Shirazi)"
+    },
+    {
+      "file": "thk-fmodestin.md",
+      "slug": "thk-fmodestin",
+      "en": "Patrick W. Corrigan"
+    },
+    {
+      "file": "thk-david-feldman.md",
+      "slug": "thk-david-feldman",
+      "en": "David B. Feldman"
+    },
+    {
+      "file": "thk-ronald-siegel.md",
+      "slug": "thk-ronald-siegel",
+      "en": "Ronald D. Siegel"
+    },
+    {
+      "file": "thk-shari-manning.md",
+      "slug": "thk-shari-manning",
+      "en": "Shari Manning"
+    },
+    {
+      "file": "thk-matt-haig.md",
+      "slug": "thk-matt-haig",
+      "en": "Matt Haig"
+    },
+    {
+      "file": "thk-xunzi.md",
+      "slug": "thk-xunzi",
+      "en": "Xunzi (Xun Kuang)"
+    },
+    {
+      "file": "thk-trore.md",
+      "slug": "thk-trore",
+      "en": "Sir Mason Durie (Te Whare Tapa Whā creator)"
+    },
+    {
+      "file": "thk-hershman.md",
+      "slug": "thk-hershman",
+      "en": "Dina Wardi"
+    },
+    {
+      "file": "thk-alan-fruzzetti.md",
+      "slug": "thk-alan-fruzzetti",
+      "en": "Alan E. Fruzzetti"
+    },
+    {
+      "file": "thk-mary-elmquist.md",
+      "slug": "thk-mary-elmquist",
+      "en": "Mary Elmquist"
+    },
+    {
+      "file": "thk-aabrer.md",
+      "slug": "thk-aabrer",
+      "en": "Karl Abraham"
+    },
+    {
+      "file": "thk-buddha.md",
+      "slug": "thk-buddha",
+      "en": "The Buddha (Siddhartha Gautama)"
+    },
+    {
+      "file": "thk-lars-johansson.md",
+      "slug": "thk-lars-johansson",
+      "en": "Lars Johansson"
+    },
+    {
+      "file": "thk-gretchen-rubin.md",
+      "slug": "thk-gretchen-rubin",
+      "en": "Gretchen Rubin"
+    },
+    {
+      "file": "thk-kets.md",
+      "slug": "thk-kets",
+      "en": "Manfred F.R. Kets de Vries"
+    },
+    {
+      "file": "thk-ddinste.md",
+      "slug": "thk-ddinste",
+      "en": "Dorothy Dinnerstein"
+    },
+    {
+      "file": "thk-andrew-johnson.md",
+      "slug": "thk-andrew-johnson",
+      "en": "Andrew Johnson"
+    },
+    {
+      "file": "thk-rwilliams.md",
+      "slug": "thk-rwilliams",
+      "en": "Roger T. Ames"
+    },
+    {
+      "file": "thk-john-damascene.md",
+      "slug": "thk-john-damascene",
+      "en": "John of Damascus"
+    },
+    {
+      "file": "thk-john-philoponus.md",
+      "slug": "thk-john-philoponus",
+      "en": "John Philoponus"
+    },
+    {
+      "file": "thk-sathyanarayana-doreswamy.md",
+      "slug": "thk-sathyanarayana-doreswamy",
+      "en": "Sathyanarayana Doreswamy"
+    },
+    {
+      "file": "thk-pico.md",
+      "slug": "thk-pico",
+      "en": "Giovanni Pico della Mirandola"
+    },
+    {
+      "file": "thk-brianhug.md",
+      "slug": "thk-brianhug",
+      "en": "Brian Hug"
+    },
+    {
+      "file": "thk-athanasius.md",
+      "slug": "thk-athanasius",
+      "en": "Athanasius of Alexandria"
+    },
+    {
+      "file": "thk-andrew-schnack.md",
+      "slug": "thk-andrew-schnack",
+      "en": "Andrew Schnack"
+    },
+    {
+      "file": "thk-meister-eckhart.md",
+      "slug": "thk-meister-eckhart",
+      "en": "Meister Eckhart"
+    },
+    {
+      "file": "thk-lukacs.md",
+      "slug": "thk-lukacs",
+      "en": "Georg Lukács"
+    },
+    {
+      "file": "thk-dluo.md",
+      "slug": "thk-dluo",
+      "en": "Dong Liu"
+    },
+    {
+      "file": "thk-liang-shuming.md",
+      "slug": "thk-liang-shuming",
+      "en": "Liang Shuming (Liang Shu-ming)"
+    },
+    {
+      "file": "thk-thomas-kuhn.md",
+      "slug": "thk-thomas-kuhn",
+      "en": "Thomas S. Kuhn"
+    },
+    {
+      "file": "thk-duns-scotus.md",
+      "slug": "thk-duns-scotus",
+      "en": "John Duns Scotus"
+    },
+    {
+      "file": "thk-philip-zimbardo.md",
+      "slug": "thk-philip-zimbardo",
+      "en": "Philip G. Zimbardo"
+    },
+    {
+      "file": "thk-ebosnak.md",
+      "slug": "thk-ebosnak",
+      "en": "Founders of Sandplay Therapists of America (STA)"
+    },
+    {
+      "file": "thk-michio-mizuno.md",
+      "slug": "thk-michio-mizuno",
+      "en": "Michio Mizuno"
+    },
+    {
+      "file": "thk-claude-levi-strauss.md",
+      "slug": "thk-claude-levi-strauss",
+      "en": "Claude Lévi-Strauss"
+    },
+    {
+      "file": "thk-robert-emery.md",
+      "slug": "thk-robert-emery",
+      "en": "Robert Emery"
+    },
+    {
+      "file": "thk-shirley-murray.md",
+      "slug": "thk-shirley-murray",
+      "en": "Shirley Murray"
+    },
+    {
+      "file": "thk-maimonides.md",
+      "slug": "thk-maimonides",
+      "en": "Moses Maimonides (Rambam)"
+    },
+    {
+      "file": "thk-mary-stewart.md",
+      "slug": "thk-mary-stewart",
+      "en": "Mary Stewart"
+    },
+    {
+      "file": "thk-albertellis-somatic.md",
+      "slug": "thk-albertellis-somatic",
+      "en": "Amy E. Fontana"
+    },
+    {
+      "file": "thk-jacqueline-peart.md",
+      "slug": "thk-jacqueline-peart",
+      "en": "Jacqueline Peart"
+    },
+    {
+      "file": "thk-isap.md",
+      "slug": "thk-isap",
+      "en": "ISAP Zurich founders and senior figures"
+    },
+    {
+      "file": "thk-judah-halevi.md",
+      "slug": "thk-judah-halevi",
+      "en": "Judah Halevi"
+    },
+    {
+      "file": "thk-adam-grant.md",
+      "slug": "thk-adam-grant",
+      "en": "Adam Grant"
+    },
+    {
+      "file": "thk-kuki-shuzo.md",
+      "slug": "thk-kuki-shuzo",
+      "en": "Kuki Shuzo"
+    },
+    {
+      "file": "thk-thomas-aquinas.md",
+      "slug": "thk-thomas-aquinas",
+      "en": "Saint Thomas Aquinas (Doctor Angelicus)"
+    },
+    {
+      "file": "thk-jordan-peterson.md",
+      "slug": "thk-jordan-peterson",
+      "en": "Jordan B. Peterson"
+    },
+    {
+      "file": "thk-marshall-rosenberg.md",
+      "slug": "thk-marshall-rosenberg",
+      "en": "Marshall Rosenberg"
+    },
+    {
+      "file": "thk-jarlena-white.md",
+      "slug": "thk-jarlena-white",
+      "en": "Jarlena White"
+    },
+    {
+      "file": "thk-olympiodorus-younger.md",
+      "slug": "thk-olympiodorus-younger",
+      "en": "Olympiodorus the Younger"
+    },
+    {
+      "file": "thk-amos-tversky.md",
+      "slug": "thk-amos-tversky",
+      "en": "Amos Tversky"
+    },
+    {
+      "file": "thk-louis-althusser.md",
+      "slug": "thk-louis-althusser",
+      "en": "Louis Althusser"
+    },
+    {
+      "file": "thk-eduardo-duran.md",
+      "slug": "thk-eduardo-duran",
+      "en": "Eduardo Duran"
+    },
+    {
+      "file": "thk-moritz-schlick.md",
+      "slug": "thk-moritz-schlick",
+      "en": "Moritz Schlick"
+    },
+    {
+      "file": "thk-amir-levine.md",
+      "slug": "thk-amir-levine",
+      "en": "Amir Levine"
+    },
+    {
+      "file": "thk-robert-greene.md",
+      "slug": "thk-robert-greene",
+      "en": "Robert Greene"
+    },
+    {
+      "file": "thk-trudi-schoop.md",
+      "slug": "thk-trudi-schoop",
+      "en": "Trudi Schoop"
+    },
+    {
+      "file": "thk-donald-davidson.md",
+      "slug": "thk-donald-davidson",
+      "en": "Donald Davidson"
+    },
+    {
+      "file": "thk-rene-girard.md",
+      "slug": "thk-rene-girard",
+      "en": "René Girard"
+    },
+    {
+      "file": "thk-rcabrera.md",
+      "slug": "thk-rcabrera",
+      "en": "Akinsola A. Akiwowo"
+    },
+    {
+      "file": "thk-arthur-brooks.md",
+      "slug": "thk-arthur-brooks",
+      "en": "Arthur C. Brooks"
+    },
+    {
+      "file": "thk-stephen-hawking.md",
+      "slug": "thk-stephen-hawking",
+      "en": "Stephen Hawking"
+    },
+    {
+      "file": "thk-david-buss.md",
+      "slug": "thk-david-buss",
+      "en": "David M. Buss"
+    },
+    {
+      "file": "thk-dmercieca.md",
+      "slug": "thk-dmercieca",
+      "en": "Eva Drewek-Mericka"
+    },
+    {
+      "file": "thk-john-lippmann.md",
+      "slug": "thk-john-lippmann",
+      "en": "John W. Lippmann"
+    },
+    {
+      "file": "thk-jean-baudrillard.md",
+      "slug": "thk-jean-baudrillard",
+      "en": "Jean Baudrillard"
+    },
+    {
+      "file": "thk-roland-barthes.md",
+      "slug": "thk-roland-barthes",
+      "en": "Roland Barthes"
+    },
+    {
+      "file": "thk-rick-levy.md",
+      "slug": "thk-rick-levy",
+      "en": "Rick A. Levy"
+    },
+    {
+      "file": "thk-slima.md",
+      "slug": "thk-slima",
+      "en": "Sylvia Lane"
+    },
+    {
+      "file": "thk-abdallah-laroui.md",
+      "slug": "thk-abdallah-laroui",
+      "en": "Abdallah Laroui"
+    },
+    {
+      "file": "thk-sdeshacer.md",
+      "slug": "thk-sdeshacer",
+      "en": "Steve de Shazer"
+    },
+    {
+      "file": "thk-jbiko.md",
+      "slug": "thk-jbiko",
+      "en": "Steve Biko (Psychological Reading)"
+    },
+    {
+      "file": "thk-masaaki-takahashi.md",
+      "slug": "thk-masaaki-takahashi",
+      "en": "Masaaki Takahashi"
+    },
+    {
+      "file": "thk-george-lakoff.md",
+      "slug": "thk-george-lakoff",
+      "en": "George Lakoff"
+    },
+    {
+      "file": "thk-deraldwing-sue.md",
+      "slug": "thk-deraldwing-sue",
+      "en": "Derald Wing Sue"
+    },
+    {
+      "file": "thk-bonaventure.md",
+      "slug": "thk-bonaventure",
+      "en": "Bonaventure (Giovanni di Fidanza)"
+    },
+    {
+      "file": "thk-klima.md",
+      "slug": "thk-klima",
+      "en": "Ladislav Klíma"
+    },
+    {
+      "file": "thk-gangesha.md",
+      "slug": "thk-gangesha",
+      "en": "Gangesha Upadhyaya"
+    },
+    {
+      "file": "thk-jakhan.md",
+      "slug": "thk-jakhan",
+      "en": "Nobles Evans-Hill"
+    },
+    {
+      "file": "thk-penny-lewis.md",
+      "slug": "thk-penny-lewis",
+      "en": "Penny Lewis (Penny Parker Lewis)"
+    },
+    {
+      "file": "thk-eburne.md",
+      "slug": "thk-eburne",
+      "en": "Eric Berne"
+    },
+    {
+      "file": "thk-jjoyce.md",
+      "slug": "thk-jjoyce",
+      "en": "Margaret P. Be"
+    },
+    {
+      "file": "thk-ummasvati.md",
+      "slug": "thk-ummasvati",
+      "en": "Acharya Umaswati"
+    },
+    {
+      "file": "thk-numenius.md",
+      "slug": "thk-numenius",
+      "en": "Numenius of Apamea"
+    },
+    {
+      "file": "thk-kristin-neff.md",
+      "slug": "thk-kristin-neff",
+      "en": "Kristin Neff"
+    },
+    {
+      "file": "thk-rkeller.md",
+      "slug": "thk-rkeller",
+      "en": "Robert M. Clark"
+    },
+    {
+      "file": "thk-napoleon-hill.md",
+      "slug": "thk-napoleon-hill",
+      "en": "Napoleon Hill"
+    },
+    {
+      "file": "thk-mvannoy.md",
+      "slug": "thk-mvannoy",
+      "en": "Michael Vannoy Adams"
+    },
+    {
+      "file": "thk-shao-yong.md",
+      "slug": "thk-shao-yong",
+      "en": "Shao Yong"
+    },
+    {
+      "file": "thk-jkabat.md",
+      "slug": "thk-jkabat",
+      "en": "Jon Kabat-Zinn (enhanced version)"
+    },
+    {
+      "file": "thk-sheena-iyengar.md",
+      "slug": "thk-sheena-iyengar",
+      "en": "Sheena Iyengar"
+    },
+    {
+      "file": "thk-colette-dowling.md",
+      "slug": "thk-colette-dowling",
+      "en": "Colette Dowling"
+    },
+    {
+      "file": "thk-james-clear.md",
+      "slug": "thk-james-clear",
+      "en": "James Clear"
+    },
+    {
+      "file": "thk-mselvini.md",
+      "slug": "thk-mselvini",
+      "en": "Mara Selvini Palazzoli"
+    },
+    {
+      "file": "thk-alasdair-macleod.md",
+      "slug": "thk-alasdair-macleod",
+      "en": "Alasdair MacLeod: Solution-Focused Therapy Theorist"
+    },
+    {
+      "file": "thk-jspence.md",
+      "slug": "thk-jspence",
+      "en": "Judy Weiser"
+    },
+    {
+      "file": "thk-qutb-al-din-al-shirazi.md",
+      "slug": "thk-qutb-al-din-al-shirazi",
+      "en": "Qutb al-Din al-Shirazi"
+    },
+    {
+      "file": "thk-aboller.md",
+      "slug": "thk-aboller",
+      "en": "Armand Volkas"
+    },
+    {
+      "file": "thk-watsuji-tetsuro.md",
+      "slug": "thk-watsuji-tetsuro",
+      "en": "Watsuji Tetsuro"
+    },
+    {
+      "file": "thk-james-berman.md",
+      "slug": "thk-james-berman",
+      "en": "James S. Berman"
+    },
+    {
+      "file": "thk-jramiro.md",
+      "slug": "thk-jramiro",
+      "en": "Jean-Luc Ramaro"
+    },
+    {
+      "file": "thk-mmejia.md",
+      "slug": "thk-mmejia",
+      "en": "Margarita Mejía"
+    },
+    {
+      "file": "thk-nedra-tawwab.md",
+      "slug": "thk-nedra-tawwab",
+      "en": "Nedra Glover Tawwab"
+    },
+    {
+      "file": "thk-marian-krcmar.md",
+      "slug": "thk-marian-krcmar",
+      "en": "Marian Krcmar"
+    },
+    {
+      "file": "thk-yhkim.md",
+      "slug": "thk-yhkim",
+      "en": "Young-Hee Kim"
+    },
+    {
+      "file": "thk-mohammed-abed-al-jabri.md",
+      "slug": "thk-mohammed-abed-al-jabri",
+      "en": "Mohammed Abed al-Jabri"
+    },
+    {
+      "file": "thk-knoblauch.md",
+      "slug": "thk-knoblauch",
+      "en": "DGAP founders (Deutsche Gesellschaft für Analytische Psychologie)"
+    },
+    {
+      "file": "thk-jonathan-haidt.md",
+      "slug": "thk-jonathan-haidt",
+      "en": "Jonathan Haidt"
+    },
+    {
+      "file": "thk-solomon-hebrew.md",
+      "slug": "thk-solomon-hebrew",
+      "en": "Solomon (Biblical tradition)"
+    },
+    {
+      "file": "thk-robert-cornelis.md",
+      "slug": "thk-robert-cornelis",
+      "en": "Robert E. Cornell"
+    },
+    {
+      "file": "thk-barry-kramer.md",
+      "slug": "thk-barry-kramer",
+      "en": "Barry S. Kramer"
+    },
+    {
+      "file": "thk-philippe-cunningham.md",
+      "slug": "thk-philippe-cunningham",
+      "en": "Philippe B. Cunningham"
+    },
+    {
+      "file": "thk-bleuler-jung-assoc.md",
+      "slug": "thk-bleuler-jung-assoc",
+      "en": "Franz Riklin Sr."
+    },
+    {
+      "file": "thk-musonius-rufus.md",
+      "slug": "thk-musonius-rufus",
+      "en": "Musonius Rufus"
+    },
+    {
+      "file": "thk-sextus-empiricus.md",
+      "slug": "thk-sextus-empiricus",
+      "en": "Sextus Empiricus"
+    },
+    {
+      "file": "thk-charles-swenson.md",
+      "slug": "thk-charles-swenson",
+      "en": "Charles R. Swenson"
+    },
+    {
+      "file": "thk-richard-schwartz.md",
+      "slug": "thk-richard-schwartz",
+      "en": "Richard C. Schwartz"
+    },
+    {
+      "file": "thk-albertus-magnus.md",
+      "slug": "thk-albertus-magnus",
+      "en": "Albertus Magnus (Doctor Universalis)"
+    },
+    {
+      "file": "thk-ashari.md",
+      "slug": "thk-ashari",
+      "en": "Abu al-Hasan al-Ash'ari"
+    },
+    {
+      "file": "thk-francis-bacon.md",
+      "slug": "thk-francis-bacon",
+      "en": "Francis Bacon"
+    },
+    {
+      "file": "thk-roger-bacon.md",
+      "slug": "thk-roger-bacon",
+      "en": "Roger Bacon"
+    },
+    {
+      "file": "thk-dkirkland.md",
+      "slug": "thk-dkirkland",
+      "en": "Don Hanlon Johnson"
+    },
+    {
+      "file": "thk-giordano-bruno.md",
+      "slug": "thk-giordano-bruno",
+      "en": "Giordano Bruno"
+    }
+  ],
+  "total_candidates": 534
+}

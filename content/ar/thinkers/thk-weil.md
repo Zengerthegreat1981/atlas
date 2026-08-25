@@ -12,17 +12,19 @@ active_end: 1943
 active_source: "lifespan"
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-  - id: "thk-bespaloff", title: "راشيل بيسبالوف", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-bespaloff", title: "راشيل بيسبالوف", type: "مفكر"
 gaps:
   - "مفاهيم 'الابتلاء والشقاء الوجودي' (Malheur) و'الانتباه المحض' و'استئصال الجذور' تستحق إدراجاً مفاهيمياً."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سيمون فايل

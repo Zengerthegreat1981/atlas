@@ -9,14 +9,18 @@ crumb: "التحليل النفسي ← الناس ← Kleinian (مؤرِّخة)
 dates: "كندا / بريطانيا · 1924–2016"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 2016
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-  - id: "thk-meltzer", title: "دونالد ميلتزر", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-meltzer", title: "دونالد ميلتزر", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إلِزابت بوت سپِليوس

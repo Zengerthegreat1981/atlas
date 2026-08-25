@@ -12,15 +12,16 @@ language: "السنسكريتية"
 active_start: -300
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فيدانتا (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
-  - id: "thk-shankara", title: "شانكارا", type: "مفكر"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
+- id: "thk-shankara", title: "شانكارا", type: "مفكر"
+- id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
+- id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "المفهوم له معانٍ مختلفة في شانكارا، رامانوجا، مادهافا، Vachaspati Mishra، مما يجعل الترجمة الموحدة صعبة."
   - "لا يوجد تعريف فلسفي حديث موحد لمايا في الفلسفة العربية المعاصرة."
 ---
-
 # مايا (Māyā)
 
 مفهوم محوري في الفيدانتا، له معانٍ مختلفة بحسب المدرسة. الكلمة السنسكريتية تعني «السحر» أو «الوهم»، لكنها في الفلسفة الهندية تصف العلاقة بين «الواقع المطلق» (براهمان) و«العالم الظاهر» (Jagat).

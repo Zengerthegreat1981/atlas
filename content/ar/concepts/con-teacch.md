@@ -8,12 +8,18 @@ en: "TEACCH Program"
 crumb: "المفاهيم ← مدارس علاجية متخصصة ← TEACCH"
 active_start: 1972
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "TEACCH", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-teacch", target_type: "مدرسة"
 related:
-  - id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
+- id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # TEACCH

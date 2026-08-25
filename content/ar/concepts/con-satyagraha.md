@@ -10,11 +10,12 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← الغاندية 
 active_start: 1906
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الغاندية (كفلسفة سياسية-أخلاقية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
 related:
-  - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
-  - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
-  - id: "con-ahimsa", title: "أهيمسا (اللاعنف)", type: "مفهوم"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "con-ahimsa", title: "أهيمسا (اللاعنف)", type: "مفهوم"
+- id: "dbt-gandhi-vs-machiavelli", title: "غاندي ضد المكيافيلية: هل السياسة الممكنة تقتضي العنف؟", type: "جدل"
 gaps:
   - "لا تعريف موحَّد عبر كتابات غاندي؛ مفهوم تَطوّر تدريجياً من 1906 إلى 1947."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

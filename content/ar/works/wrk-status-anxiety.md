@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2004
 active_end: 2004
 edges:
-  - rel: "belongs_to", target: "الفلسفة النفسية التطبيقية ومدرسة الحياة", target_type: "مدرسة"
-  - rel: "written_by", target: "آلان دو بوتون", target_type: "مفكر"
+- rel: "belongs_to", target: "الفلسفة النفسية التطبيقية ومدرسة الحياة", target_type: "مدرسة"
+- rel: "written_by", target: "thk-alain-de-botton", target_type: "مفكر"
 related:
-  - id: "thk-alain-de-botton", title: "آلان دو بوتون", type: "مفكر"
+- id: "thk-alain-de-botton", title: "آلان دو بوتون", type: "مفكر"
+- id: "con-status-anxiety-concept", title: "قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

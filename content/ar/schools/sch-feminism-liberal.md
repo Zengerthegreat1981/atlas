@@ -13,15 +13,20 @@ language: "الإنجليزية"
 active_start: 1792
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
-  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "exp-beauvoir-discovery-of-otherness", title: "تجربة سيمون دي بوفوار واكتشاف الآخرية وتأليف الجنس الثاني", type: "خبرة معيشة"
+- id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
+- id: "thk-pateman", title: "كارول بيتمان", type: "مفكر"
+- id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
+- id: "con-subaltern", title: "التابع (Subaltern)", type: "مفهوم"
+- id: "con-tabula-rasa", title: "اللوح الفارغ (Tabula Rasa)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«ماري ولستونكرافت» (sch-wollstonecraft) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«كيت ميلت» (sch-millet) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Wollstonecraft, Mill, Friedan, Okin تحتاج مراجعة من المصدر الأولي."
 ---
-
 # النسوية الليبرالية (Liberal Feminism)
 
 تيار نسوي يسعى لتحقيق المساواة بين الجنسين من داخل الإطار الليبرالي (الحقوق الفردية، العقد الاجتماعي، السوق العادلة).

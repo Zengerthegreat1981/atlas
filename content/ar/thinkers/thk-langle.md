@@ -6,19 +6,21 @@ level: "متقدم"
 title: "ألفريد لانغله"
 en: "Alfried Längle"
 crumb: "المدرسة الوجودية ← الناس ← ألفريد لانغله"
-dates: "النمسا"
+dates: "النمسا · 1951–"
 active_start: 1988
 active_end: 2013
 language: "الألمانية"
 country: "النمسا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "dbt-langle-frankl", title: "الانشقاق", type: "جدل"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "thk-lukas", title: "إليزابيث لوكاس", type: "مفكر"
-  - id: "thk-schulz", title: "بيتر شولتز", type: "مفكر"
+- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "dbt-langle-frankl", title: "الانشقاق", type: "جدل"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-lukas", title: "إليزابيث لوكاس", type: "مفكر"
+- id: "thk-schulz", title: "بيتر شولتز", type: "مفكر"
+- id: "dbt-langle-frankl-meaning", title: "لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟", type: "جدل"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "بيانات أعماله وتفاصيل الانفصال بمصادرها — تحتاج تحقيقاً"

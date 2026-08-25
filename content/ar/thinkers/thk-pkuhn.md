@@ -13,9 +13,9 @@ language: "الإنجليزية"
 active_start: 1957
 active_end: 1991
 edges:
-  - rel: "belongs_to", target: "فلسفة العلم", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
 related:
-  - id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
+- id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
 gaps:
   - "الفرق بين 'النموذج' عند كون 1962 و'النموذج المصفوفي' عند كون 1970 لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'بنية الثورات العلمية' (1962)."

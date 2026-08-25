@@ -8,24 +8,25 @@ en: "CBT and the Third Wave: From Evolution to Quiet Schism"
 crumb: "العلاج المعرفي-السلوكي ← العلاقات ← CBT والموجة الثالثة"
 active_start: 1980
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
-  - rel: "relates_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
-  - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
-  - id: "thk-hayes-steven", title: "ستيفن سي. هايز", type: "مفكر"
-  - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-  - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-  - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-  - id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"
-  - id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل"
+- id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
+- id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"
+- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل / كتاب"
+- id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 gaps:
   - "هل الموجة الثالثة 'تطوّر' CBT أم 'انشقاق' عنها؟ — هايز نفسه يقول الأول، نقّاد كثيرون يقولون الثاني. لا حكم قاطع في الأدبيات."
   - "دور MBSR (كابات-زين 1979) في إعادة إدخال 'الذات المتجسدة' (Embodied Self) في عالم CBT لم يُوثّق بدقة هنا."
   - "لا يوجد اقتباس مباشر موثوق متاح من بيك عن الموجة الثالثة (عرف معارضته لها)."
 ---
-
 # CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ
 
 علاقة الأب والابن المعقّدة. كل الموجة الثالثة (ACT, DBT, MBCT, RO-DBT) **بدأت** من داخل CBT — مؤسّسوها كلهم تدرّبوا فيها، وكلهم حصلوا على نتائج لم تستطع CBT "الكلاسيكية" تفسيرها أو معالجتها (Borderline, الاكتئاب المتكرر، تجنّب الخبرات المؤلمة). لكنهم بنوا نماذج مختلفة جذرياً، مما يجعل العلاقة **انشقاقاً هادئاً** — لا مواجهة صريحة، لكن اختلافاً في الفلسفة.

@@ -11,18 +11,21 @@ active_start: 1947
 active_end: 1966
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "crt-adorno-jargon-authenticity-critique", title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية", type: "نقد خارجي موثَّق"
+- id: "ctx-frankfurt-school-weimar-exile", title: "مدرسة فرانكفورت وصدمة الفاشية وتأسيس النظرية النقدية", type: "سياق/تقليد"
+- id: "ctx-nazi-totalitarianism-shoah", title: "الشمولية النازية والمحرقة والانهيار الأخلاقي للحضارة الغربية", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'رطانة الأصالة' (Jargon der Eigentlichkeit, 1964) ونقده للهايدجرية يستحق إدراجاً في النقد الخارجي (crt-)."
 ---
-
 # ثيودور أدورنو
 
 فيلسوف وعالم اجتماع ومنظّر نقدي وموسيقي ألماني كبير، أحد أقطاب مدرسة فرانكفورت للنظرية النقدية والناقد الأبرز لمفهوم الأصالة والوجودية الهايدجرية.

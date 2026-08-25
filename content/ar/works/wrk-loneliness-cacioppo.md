@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2008
 active_end: 2008
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب الاجتماعي وسيكولوجيا الوحدة", target_type: "مدرسة"
-  - rel: "written_by", target: "جون كاسيوبو", target_type: "مفكر"
+- rel: "belongs_to", target: "علم الأعصاب الاجتماعي وسيكولوجيا الوحدة", target_type: "مدرسة"
+- rel: "written_by", target: "thk-john-cacioppo", target_type: "مفكر"
 related:
-  - id: "thk-john-cacioppo", title: "جون كاسيوبو", type: "مفكر"
+- id: "con-loneliness-solitude", title: "الوحدة القسرية مقابل العزلة الاختيارية", type: "مفهوم"
+- id: "thk-john-cacioppo", title: "جون كاسيوبو", type: "مفكر"
+- id: "con-social-pain", title: "الألم الاجتماعي وتطابق دوائر الألم الجسدي في الدماغ", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

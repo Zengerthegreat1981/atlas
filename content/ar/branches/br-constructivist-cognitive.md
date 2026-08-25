@@ -11,11 +11,15 @@ dates: "السبعينيات والثمانينيات"
 active_start: 1980
 active_end: "مستمر"
 language: "الإنجليزية / الإيطالية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية", type: "تيار"
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ", type: "علاقة بين مدرستين"
+- id: "thk-kelly-george", title: "جورج ألكسندر كيلي", type: "مفكر"
+- id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
+- id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية", type: "تيار"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
   - "أعمال مايكل ماهوني (Michael Mahoney) وفيتوريو غيدانو (Vittorio Guidano) في المعرفية التطورية وما بعد العقلانية."
   - "التركيز على المعنى السردي الذاتي والخبرة المعيشة مقابل التصحيح المنطقي للأفكار التلقائية."

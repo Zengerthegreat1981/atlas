@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← باتريشي
 dates: "أمريكا · 1939–2015"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 2015
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "con-ecstatic-moment", title: "اللحظة النشواتية", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "con-ecstatic-moment", title: "اللحظة النشواتية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تفاصيل تدريبها في الأرشيف — موضع بحث."

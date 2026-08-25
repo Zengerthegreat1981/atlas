@@ -11,11 +11,21 @@ country: "الولايات المتحدة (من أصل روماني)"
 language: "الإنجليزية"
 active_start: 1917
 active_end: 1974
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السيكودراما والسوسيومتري (Moreno)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
 related:
+- id: "thk-adamblatner", title: "آدم بلاتنر", type: "مفكر"
+- id: "thk-marciamarx", title: "مارسيا ماركس", type: "مفكر"
+- id: "thk-paulholmes", title: "بول هولمز", type: "مفكر"
+- id: "thk-peterkellermann", title: "بيتر كيلرمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بيتر كيلرمان (thk-peterkellermann)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارسيا ماركس (thk-marciamarx)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بول هولمز (thk-paulholmes)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بيتر كيلرمان (thk-peterkellermann)."
 ---
 
 # يعقوب ليفي مورينو

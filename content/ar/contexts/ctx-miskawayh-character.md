@@ -6,13 +6,17 @@ level: "متوسط"
 title: "ابن مسكويه وتهذيب الأخلاق"
 en: "Miskawayh and Tahdhib al-Akhlaq"
 crumb: "المدرسة الوجودية ← السياقات ← ابن مسكويه وتهذيب الأخلاق"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
-  - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 gaps:
   - "لم تُراجع بعد نسخة أصلية محققة من تهذيب الأخلاق وتطهير الأعراق ضمن هذا المشروع"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ابن مسكويه وتهذيب الأخلاق

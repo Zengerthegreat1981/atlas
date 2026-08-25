@@ -11,11 +11,12 @@ dates: "كاليفورنيا · 2017"
 active_start: 2017
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "بروتوكول فيليب مانفيلد (Philip Manfield) المعياري لمعالجة الذكريات شديدة الصدمة بدون استثارة انفعالية مؤلمة."
   - "الدراسات المعشاة حول خفض وحدات الضيق (SUD) السريع باستخدام التركيز الإيجابي الممتع والوميض البصري المتكرر."

@@ -11,13 +11,14 @@ active_start: 1971
 active_end: 1971
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "إدارته لدورية علم النفس الإنساني (JHP) لأكثر من 35 عاماً وشعره الوجودي يستحقان توثيقاً."

@@ -11,16 +11,18 @@ dates: "بوسطن · من 2007"
 active_start: 2009
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-barlow", title: "ديفيد بارلو", type: "مفكر"
-  - id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-transdiagnostic-cbt", title: "العلاج المعرفي السلوكي العابر للتشخيص", type: "تقنية/تدخل علاجي"
 gaps:
   - "المواد العلاجية الكاملة المكونة من 8 وحدات علاجية مع دينيس تورك-برونل وروبن كيسليوس."
   - "التطبيق على اضطرابات الأكل والـ OCD والقلق الصحي."
   - "الفرق بين UP و CBT التقليدي."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد بارلو (thk-barlow)."
 ---
 
 # البروتوكول الموحّد للاضطرابات الانفعالية (UP)

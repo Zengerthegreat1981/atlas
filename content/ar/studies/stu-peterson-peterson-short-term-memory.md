@@ -8,9 +8,11 @@ en: "Peterson & Peterson Short-Term Memory Decay Experiment (Brown-Peterson Para
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة بيترسون وبيترسون للذاكرة قصيرة المدى"
 active_start: 1959
 active_end: 1959
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "الجدل بين التلاشي الزمني التلقائي (Decay) مقابل التداخل القبلي والبعدي (Interference) لكيبيل وأندروود يحتاج تفصيلاً"
   - "التطبيقات في تصميم واجهات المستخدم والمهام متعددة الانتباه تتطلب ربطاً بعوامل الهندسة البشرية"

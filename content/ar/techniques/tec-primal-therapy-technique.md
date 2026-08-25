@@ -8,11 +8,12 @@ en: "Primal Therapy Technique"
 crumb: "حركات مثيرة للجدل ← التقنيات ← الصرخة البدائية"
 active_start: 1967
 active_end: 1980
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج البدائي (Primal Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
-  - id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
+- id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
 gaps:
   - "البروتوكول الكامل (3-سنة البرنامج) لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

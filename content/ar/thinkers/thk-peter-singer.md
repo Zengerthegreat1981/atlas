@@ -13,15 +13,17 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "أخلاقيات الحيوان / فلسفة تحرير الحيوان", target_type: "مدرسة"
+- rel: "belongs_to", target: "أخلاقيات الحيوان / فلسفة تحرير الحيوان", target_type: "مدرسة"
 related:
-  - id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
-  - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
+- id: "wrk-animal-liberation-singer", title: "تحرير الحيوان (Animal Liberation)", type: "عمل / كتاب"
+- id: "con-speciesism", title: "تخصيص النوع (Speciesism)", type: "مفهوم"
+- id: "que-animal-consciousness-and-rights", title: "هل تمتلك الكائنات غير البشرية وعياً ذاتياً وحقوقاً أخلاقية ملزمة؟", type: "سؤال توليدي"
+- id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
+- id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
 gaps:
   - "ملاحظة مراجعة: يوجد ملف آخر لنفس الشخص (thk-psinger) — تكرار حي يحتاج قرار بشري صريح لدمج/حذف أحد الملفين."
   - "لم تُراجع بعدُ طبعة New York Review of Books الأصلية لـ *Animal Liberation* (1975، إعادة 1990)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # بيتر سينغر (Peter Singer, 1946–)

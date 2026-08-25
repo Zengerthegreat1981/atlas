@@ -10,11 +10,13 @@ crumb: "النسوية الفلسفية ← مفهوم البطريركية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الراديكالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminism-radical", target_type: "مدرسة"
 related:
-  - id: "thk-firestone", title: "شولاميث فيرستون", type: "مفكر"
-  - id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
-  - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "thk-firestone", title: "شولاميث فيرستون", type: "مفكر"
+- id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
+- id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Firestone 1970, MacKinnon 1989, Millett 1970) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

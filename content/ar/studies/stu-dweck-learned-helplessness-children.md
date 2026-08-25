@@ -8,8 +8,11 @@ en: "Dweck's Learned Helplessness and Mastery Orientation in Children Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة كارول دويك للعجز عند الأطفال"
 active_start: 1975
 active_end: 1975
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "stu-dweck-growth-mindset-praise", title: "دراسة مولر ودويك حول أثر الثناء على الذكاء مقابل الجهد وعقلية النمو", type: "دراسة وبحث"
 gaps:
   - "تطور نظرية عقلية النمو والذكاء المرن مقابل الثابت (Dweck, 2006) يحتاج مراجعة مقارنة"
   - "التدخلات المدرسية واسعة النطاق لتعزيز عقلية النمو وجدل حجم التأثير الإحصائي يتطلب توثيقاً"

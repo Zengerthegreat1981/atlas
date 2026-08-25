@@ -10,14 +10,18 @@ dates: "1991 · فرانسيسكو فاريلا وإيفان طومسون وإي
 language: "الإنجليزية"
 active_start: 1991
 active_end: 1991
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
-  - rel: "authored_by", target: "فرانسيسكو فاريلا", target_type: "مفكر"
-  - rel: "authored_by", target: "إيفان طومسون", target_type: "مفكر"
-  - rel: "authored_by", target: "إيلينور روش", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-varela", target_type: "مفكر"
+- rel: "authored_by", target: "إيفان طومسون", target_type: "مفكر"
+- rel: "authored_by", target: "thk-erosch", target_type: "مفكر"
 related:
-  - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
-  - id: "thk-erosch", title: "إيلينور روش", type: "مفكر"
+- id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
+- id: "thk-erosch", title: "إيلينور روش", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (MIT Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

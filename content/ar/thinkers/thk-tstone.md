@@ -11,14 +11,19 @@ country: "أمريكا"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "مدرسة علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
+- id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
+- id: "thk-rsperry", title: "روبرت سبيري", type: "مفكر"
+- id: "thk-dgray", title: "مارتن ديك", type: "مفكر"
 gaps:
   - "تفاصيل توظيفه الأدلري لتصنيف DSM-5 ملخّصة، ولم يُتحقق من تواريخ الإصدارات الفردية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارتن ديك (thk-dgray)."
 ---
 
 # مارك ستون

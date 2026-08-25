@@ -11,11 +11,13 @@ crumb: "الفلسفة النفسية التطبيقية ← المفاهيم �
 active_start: 2004
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة النفسية التطبيقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة النفسية التطبيقية", target_type: "مدرسة"
 related:
-  - id: "wrk-status-anxiety", title: "قلق السعي إلى المكانة", type: "عمل / كتاب"
-  - id: "thk-alain-de-botton", title: "آلان دو بوتون", type: "مفكر"
-  - id: "syn-duck-syndrome", title: "متلازمة البطة", type: "متلازمة"
+- id: "wrk-status-anxiety", title: "قلق السعي إلى المكانة", type: "عمل / كتاب"
+- id: "thk-alain-de-botton", title: "آلان دو بوتون", type: "مفكر"
+- id: "syn-duck-syndrome", title: "متلازمة البطة", type: "متلازمة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطبيقات المفهوم في عصر المقارنات الرقمية المفرطة على إنستغرام ولينكد إن."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,12 +11,14 @@ active_start: 1965
 active_end: 1976
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتاباته السريرية حول لقاء الشيزوفرينيا وجودياً تحتاج مراجعة في الأدبيات الأمريكية المبكرة."
@@ -40,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-العلاج النفسي الوجودي (Modern Psychotherapeutic Practice, 1965) · لقاء مع الفصام (Encounter: The Theory and Practice of Encounter Groups, 1969) · معايشة العلاج النفسي (What Makes Behavior Change, 1976).
+الممارسة العلاجية الحديثة (Modern Psychotherapeutic Practice, 1965) · اللقاء: نظرية مجموعات اللقاء وممارستها (Encounter, 1969) · ما الذي يُحدث تغيّر السلوك (What Makes Behavior Change Possible?, 1976).

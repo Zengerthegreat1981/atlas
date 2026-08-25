@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← كارلوس �
 dates: "كولومبيا · [غير مؤكد]"
 country: "كولومبيا"
 language: "الإسبانية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-rrestrepo", title: "رودريغو ريستريبو", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-rrestrepo", title: "رودريغو ريستريبو", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -29,7 +33,7 @@ gaps:
 
 ## موقعه من التيار
 
-«الفيلسوف المعرفي» للتحليلية الكولومبية، الجسر بين الفلسفة الأكاديمية (نيوزل) والتحليلية.
+«الفيلسوف المعرفي» للتحليلية الكولومبية، الجسر بين الفلسفة الأكاديمية والتحليلية اليونغية.
 
 ## قيد
 

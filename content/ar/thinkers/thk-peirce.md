@@ -7,18 +7,18 @@ level: "متقدم"
 title: "تشارلز ساندرز بيرس"
 en: "Charles Sanders Peirce"
 crumb: "البراغماتية الكلاسيكية ← المؤسسون ← بيرس"
-dates: "كامبريدج (ماس.)، بالتيمور، ميلفيل (نيويورك) · 1839–1914"
+dates: "الولايات المتحدة (ماساتشوستس، بنسلفانيا) · 1839–1914"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1871
 active_end: 1914
 edges:
-  - rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
-  - rel: "founded", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "founded", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
 related:
-  - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-  - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
+- id: "thk-dewey", title: "جون ديوي", type: "مفكر"
+- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 gaps:
   - "الأعمال المبكرة (1859-1867) لم تُراجع بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق من القاعدة البراغماتية بعد."

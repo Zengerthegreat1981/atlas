@@ -10,10 +10,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← لوسي جين ميلر"
 edges:
-  - rel: "belongs_to", target: "التكامل الحسي (Sensory Integration)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكامل الحسي", target_type: "مدرسة"
 related:
-  - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-rcermak", title: "شارون سيرماك", type: "مفكر"
+- id: "thk-tchampagne", title: "تينا شامبانيا", type: "مفكر"
+- id: "thk-zmailloux", title: "زوي مايو", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

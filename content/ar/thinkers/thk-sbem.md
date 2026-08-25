@@ -11,17 +11,23 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1974
 active_end: 2014
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج النفسي النسوي — الإنسانية وما بعدها", target_type: "مدرسة"
+related:
+- id: "thk-pcaplan", title: "بولا كابلان", type: "مفكر"
+- id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"
+- id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ساندرا بيم
 
 عالمة نفس أمريكية في جامعة كورنيل، مطوّرة نظرية **مخطّط الجندر (Gender Schema Theory)** و**مقياس Bem Sex Role Inventory (BSRI)**.
 
-## ما أعطت
+## ما أعطته
 
 - **مخطّط الجندر**: البنى المعرفية التي تنظّم المعطيات المتعلّقة بالجندر.
 - **BSRI**: مقياس لقياس الذكورة والأنوثة كأبعاد مستقلة.

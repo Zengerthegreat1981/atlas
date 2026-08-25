@@ -13,12 +13,13 @@ language: "العربية، الفارسية، الأردية، الغوجارا
 active_start: 870
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الإسلامية", target_type: "مظلة"
-  - rel: "belongs_to", target: "الباطنية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "الباطنية", target_type: "مظلة"
 related:
-  - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
-  - id: "sch-ikhwan-safa", title: "إخوان الصفا", type: "مدرسة"
-  - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
+- id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
+- id: "sch-ikhwan-safa", title: "إخوان الصفا", type: "مدرسة"
+- id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
+- id: "thk-nasir-khusraw", title: "ناصر خسرو قباديانى", type: "مفكر"
 gaps:
   - "تحديد مؤلفي «رسائل إخوان الصفا» هل هم إسماعيليون فعلياً أم متأثرون بالإسماعيلية فقط لا يزال موضع خلاف."
   - "لا يوجد اقتباس مباشر موثوق متاح من كتب حميد الدين الكرماني أو ناصر خسرو."

@@ -14,9 +14,11 @@ active_start: -280
 active_end: -240
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "مدرسة الين-يانغ (الطبيعيون)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)", target_type: "مدرسة"
 related:
-  - id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
+- id: "con-wuxing", title: "الدورات الخمس (五行 wǔxíng)", type: "مفهوم"
+- id: "con-yin-yang", title: "الين-يانغ (陰陽) — التقابل الكوني", type: "مفهوم"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
 gaps:
   - "لا نصوص كاملة له وصلت. كلّ ما نعرفه من Sima Qian (Shiji 74) و'Liezi' (الملحق)."
   - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."

@@ -10,10 +10,15 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-mgold", title: "مارك غولد", type: "مفكر"
+- id: "thk-fmodestin", title: "باتريك كوريغان", type: "مفكر"
+- id: "thk-wanthony", title: "ويليام أنتوني", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-supported-employment", title: "التوظيف المدعوم (Supported Employment)", type: "مفهوم"
 gaps:
   - "تاريخ IPS في Dartmouth يستحق مصدراً."
   - "الفرق بين 'transitional employment' و'IPS' يستحق توثيقاً."

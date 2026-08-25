@@ -9,11 +9,15 @@ crumb: "التحليل النفسي ← الناس ← Independent Group ← م�
 dates: "بريطانيا · [غير مؤكد]"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,10 +10,13 @@ crumb: "الفلسفة السياسية المعاصرة ← الجمهورية 
 active_start: 1980
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الجمهورية المدنية الجديدة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجمهورية المدنية الجديدة", target_type: "مدرسة"
 related:
-  - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
-  - id: "thk-walzer", title: "مايكل والزر", type: "مفكر"
+- id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
+- id: "thk-walzer", title: "مايكل والزر", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Pettit 1997, Skinner 1998, 2008) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

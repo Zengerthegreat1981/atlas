@@ -7,19 +7,24 @@ level: "متوسط"
 title: "أرنه نايس"
 en: "Arne Næss"
 crumb: "الفلسفة ← العابرة ← الإيكولوجيا العميقة ← أرنه نايس"
-dates: "1912–2009 · النرويج"
+dates: "النرويج · 1912–2009"
 country: "النرويج"
 language: "النرويجية، الإنجليزية"
 active_start: 1973
 active_end: 2009
 edges:
-  - rel: "belongs_to", target: "الإيكولوجيا العميقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإيكولوجيا العميقة", target_type: "مدرسة"
 related:
-  - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-  - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
+- id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
+- id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
+- id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
+- id: "thk-dabram", title: "ديفيد أبرام", type: "مفكر"
+- id: "thk-jmacy", title: "جوانا مايسي", type: "مفكر"
+- id: "thk-rcarson", title: "راشيل كارسون", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ مقالة Næss الأصلية 'The Shallow and the Deep, Long-Range Ecology Movement' (Inquiry, 1973)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "دُمج معه الملف المكرَّر thk-anaess (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # أرنه نايس (Arne Næss, 1912–2009)
@@ -41,7 +46,7 @@ gaps:
   8. تَغيير سكاني طوعي.
 - ألّف *Ecology, Community and Lifestyle* (1989) و*Life's Philosophy* (2002).
 
-## موقعه من التيارات الأخرى
+## موقعه من التيار
 
 - **يَختلف عن الإيكولوجيا الضحلة**: لا تَكفي الإصلاحات التقنية.
 - **يَختلف عن ليوبولد**: ليوبولد يَتَحدث عن «المجتمع البيئي»، نايس يَتَحدث عن «القيمة الذاتية» (Intrinsic Value) لكل كائن.
@@ -50,5 +55,5 @@ gaps:
 ## الأثر
 
 - أسّس **حركة الإيكولوجيا العميقة** الدولية.
-- أثّر في **Earth First!** (تأسست 1980) و**النسوية البيئية** (Naess، *The Ecology of Wisdom*, 2008).
+- أثّر في **Earth First!** (تأسست 1980) وفي النقاش البيئي الفلسفي عموماً؛ وقد جُمعت مختاراته لاحقاً في *The Ecology of Wisdom* (2008).
 - شكّل **أرضية فكرية** لِحركة **الخضر** (Die Grünen) في ألمانيا.

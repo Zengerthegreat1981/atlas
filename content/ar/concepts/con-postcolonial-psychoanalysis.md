@@ -8,15 +8,20 @@ en: "Postcolonial Psychoanalysis"
 crumb: "المفاهيم ← مدارس تحليلية ← التحليل النفسي بعد الكولونيالي"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي بعد الكولونيالي", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-postcolonial-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
+- id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
+- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب", type: "نقد خارجي موثَّق"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-dream-interpretation-technique", title: "تقنية تفسير الأحلام", type: "مفهوم"
 gaps:
   - "أعمال هشام شرابي في 'الجسد الناقص' (1985) لم تُراجع بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # التحليل النفسي بعد الكولونيالي
 
 تيار في التحليل النفسي يطبّق أدوات فرويد ولاكان وفانون لدراسة الأثر النفسي للاستعمار. نشأ في خمسينيات القرن العشرين مع **فرانز فانون** (*Black Skin, White Masks*، 1952)، وتطوّر مع إدوارد سعيد، غياتري سبيفاك، هشام شرابي، وأشيل مبيمبي.

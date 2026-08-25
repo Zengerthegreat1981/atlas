@@ -5,17 +5,18 @@ type: "مفكر"
 level: "متوسط"
 title: "بريندا فيدرهولد"
 en: "Brenda K. Wiederhold"
-crumb: "br-vr-therapy ← النشر الأكاديمي ← بريندا فيدرهولد"
+crumb: "العلاج بالواقع الافتراضي ← النشر الأكاديمي ← بريندا فيدرهولد"
 dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1998
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بالواقع الافتراضي", target_type: "تيار"
 related:
-  - id: "thk-rizzo", title: "ألبرت «سكيب» ريزو", type: "مفكر"
-  - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "مفكر"
+- id: "thk-rizzo", title: "ألبرت «سكيب» ريزو", type: "مفكر"
+- id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "تيار"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -28,9 +29,9 @@ gaps:
 ## ما أعطته
 
 - **"CyberPsychology, Behavior & Social Networking"**: مجلة محورية نشرت مئات الأبحاث في VR العلاجي.
-- **كتب مرجعية**: *Virtual Reality Therapy for Anxiety Disorders* (2005)، *3DV: 3D Virtual Healing* (مع Wiederhold).
+- **كتب مرجعية**: *Virtual Reality Therapy for Anxiety Disorders* (2005)، *3DV: 3D Virtual Healing* (مع مارك فيدرهولد).
 - **"Annual CyberPsychology Conference"** وفعاليات أخرى ضخمة لتأسيس شبكة الباحثين.
-- **بحوث في VR لـcybertherapy, gaming disorder, وpain**.
+- **بحوث في تطبيقات الواقع الافتراضي**: العلاج الرقمي، واضطراب الألعاب، وإدارة الألم.
 
 ## موقعها من التيار
 
@@ -39,7 +40,7 @@ gaps:
 ## أهم أعمالها
 
 - *Virtual Reality Therapy for Anxiety Disorders* (2005).
-- *3DV: 3D Virtual Healing* (مع Wiederhold).
+- *3DV: 3D Virtual Healing* (مع مارك فيدرهولد).
 - مقالات متعددة في CyberPsychology.
 
 ## قيد

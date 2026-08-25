@@ -10,12 +10,16 @@ country: "الهند"
 language: "الإنجليزية، الهندية"
 active_start: 1955
 active_end: 2008
+part: "psychology"
+crumb: "الأطلس ← thinkers ← مهارشي ماهيش يوغي"
 edges:
-  - rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
 related:
-  - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # مهارشي ماهيش يوغي

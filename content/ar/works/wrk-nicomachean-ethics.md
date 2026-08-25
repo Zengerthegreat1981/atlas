@@ -1,0 +1,29 @@
+---
+slug: "wrk-nicomachean-ethics"
+id: "WRK-0647"
+type: "عمل / كتاب"
+part: "philosophy"
+level: "متقدم"
+title: "الأخلاق النيقوماخية لأرسطو"
+en: "Nicomachean Ethics"
+crumb: "الفلسفة الأرسطية ← أمهات الأعمال ← الأخلاق النيقوماخية"
+dates: "أثينا · ق. 340 ق.م"
+language: "الإغريقية القديمة"
+active_start: -340
+active_end: -340
+edges:
+- rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
+- id: "con-virtue-ethics", title: "أخلاق الفضيلة", type: "مفهوم"
+gaps:
+  - "الجدل حول تسمية الكتاب نسبة إلى نيقوماخوس والد أرسطو أم ابنه."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# الأخلاق النيقوماخية لأرسطو
+
+الأثر الأخلاقي الأعظم في الفلسفة القديمة؛ يبحث في الغاية الإنسانية القصوى (اليودايمونيا / السعادة والازدهار)، ويعرّف الفضيلة الأخلاقية بأنها اعتياد السلوك الوسطي بين طرفين مذمومين (الإفراط والتفريط)، مؤكداً دور الحكمة العملية (الفرونيسيس) في اتخاذ القرارات الأخلاقية السليمة.

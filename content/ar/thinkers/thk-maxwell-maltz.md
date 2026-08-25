@@ -14,9 +14,11 @@ language: "الإنجليزية"
 active_start: 1940
 active_end: 1975
 edges:
-  - rel: "belongs_to", target: "السيكوسبرنتيكس وسيكولوجيا الصورة الذاتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "السيكوسبرنتيكس وسيكولوجيا الصورة الذاتية", target_type: "مدرسة"
 related:
-  - id: "wrk-psycho-cybernetics", title: "السايكوسبرنتيكس", type: "عمل / كتاب"
+- id: "thk-charlesfaulkner", title: "تشارلز فولكنر", type: "مفكر"
+- id: "wrk-psycho-cybernetics", title: "السايكوسبرنتيكس", type: "عمل / كتاب"
+- id: "thk-paulgthomas", title: "بول جي. توماس", type: "مفكر"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

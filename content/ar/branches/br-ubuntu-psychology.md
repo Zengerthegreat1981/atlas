@@ -11,17 +11,21 @@ dates: "من 1990s"
 active_start: 1994
 active_end: "مستمر"
 language: "الإنجليزية/الخوسا/الزولو"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "أطر غير غربية", target_type: "مدرسة"
-  - rel: "developed_by", target: "ديزموند توتو", target_type: "مفكر"
-  - rel: "developed_by", target: "مافو توتو فان فورث", target_type: "مفكر"
+- rel: "belongs_to", target: "أطر غير غربية", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-dtutu", target_type: "مفكر"
+- rel: "developed_by", target: "thk-mtutufurth", target_type: "مفكر"
 related:
-  - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
-  - id: "thk-mtutufurth", title: "مافو توتو فان فورث", type: "مفكر"
-  - id: "con-ubuntu", title: "أوبونتو", type: "مفهوم"
+- id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
+- id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
+- id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
+- id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
+- id: "con-ubuntu", title: "أوبونتو", type: "مفهوم"
 gaps:
   - "الامتداد العلاجي لـUbuntu (Ubuntu Therapy, Mpho Tutu) لم يُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مافو توتو فان فورث (thk-mtutufurth)."
 ---
 
 # علم نفس الأوبونتو

@@ -11,10 +11,13 @@ active_start: 1892
 active_end: "مستمر"
 language: "الألمانية"
 edges:
-  - rel: "belongs_to", target: "فلسفة اللغة المثالية/الشكلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-formal-phil-language", target_type: "مدرسة"
 related:
-  - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
-  - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
+- id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
+- id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التفسير الفعلي لـ'Sinn' عند فريغه لا يزال موضع خلاف بين راسل وكواين وديفيدسون."
   - "لا يوجد اقتباس مباشر موثوق من 'حول المعنى والمحمول' (1892)."

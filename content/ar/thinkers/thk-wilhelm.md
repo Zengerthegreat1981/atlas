@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رافائيل
 dates: "ألمانيا · 1887–1965"
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: 1965
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-govinda", title: "لاما أناغاريكا غوفيندا", type: "مفكر"
-  - id: "con-iching", title: "كتاب التحوّلات (I Ching)", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-govinda", title: "لاما أناغاريكا غوفيندا", type: "مفكر"
+- id: "con-iching", title: "كتاب التحوّلات (I Ching)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تفاصيل تأثيره على يونغ قبل الحرب العالمية الثانية — موضع بحث."

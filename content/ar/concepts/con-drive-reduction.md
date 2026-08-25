@@ -8,12 +8,15 @@ en: "Drive Reduction Theory"
 crumb: "المعرفية السلوكية ← المفاهيم ← نظرية خفض الدافع"
 active_start: 1943
 active_end: 1980
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-clhull", title: "كلارك هـال", type: "مفكر"
-  - id: "con-habit-strength", title: "قوة العادة", type: "مفهوم"
-  - id: "thk-kspence", title: "ك. و. سبنس", type: "مفكر"
+- id: "thk-clhull", title: "كلارك هـال", type: "مفكر"
+- id: "con-habit-strength", title: "قوة العادة", type: "مفهوم"
+- id: "thk-kspence", title: "ك. و. سبنس", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التراجع عن نظرية خفض الدافع في علم النفس الإكلينيكي المعاصر — موضع بحث."

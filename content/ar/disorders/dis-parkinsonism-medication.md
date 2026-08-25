@@ -11,12 +11,13 @@ icd11_code: "8A00"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "المقارنة بين مضادات الذهان التقليدية (الجيل الأول) ومضادات الذهان غير النمطية (الجيل الثاني) في معدلات إحداث الأعراض خارج الهرمية تتطلب توثيقاً"
   - "التمايز الدقيق بين الباركنسونية الدوائية والتململ الحركي الحاد (Akathisia) وخلل التوتر (Dystonia) يحتاج تفصيلاً"

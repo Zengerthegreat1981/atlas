@@ -11,13 +11,14 @@ active_start: 1979
 active_end: 1987
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مقاله الفلسفي التأسيسي 'العبث' (The Absurd, 1971) و'ما هو شعور أن تكون خفاشاً؟' يستحقان إدراجاً في الأعمال."

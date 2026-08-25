@@ -13,13 +13,15 @@ language: "الألمانية"
 active_start: 1818
 active_end: 1900
 edges:
-  - rel: "evolved_into", target: "النيتشوية", target_type: "مدرسة"
-  - rel: "evolved_into", target: "الوجودية (كمظلة)", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-nietzscheanism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
 related:
-  - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
-  - id: "thk-hartmann", title: "إدوارد فون هارتمان", type: "مفكر"
-  - id: "thk-zapffe", title: "بيتر ويلف زابف", type: "مفكر"
-  - id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "thk-hartmann", title: "إدوارد فون هارتمان", type: "مفكر"
+- id: "thk-zapffe", title: "بيتر ويلف زابف", type: "مفكر"
+- id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«فيليب ماينلاندر» (thk-mainlander) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتابات إدوارد فون هارتمان 'فلسفة اللاواعي' (1869) لم تُراجع بشكل كامل في هذا الملف."

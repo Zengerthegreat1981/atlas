@@ -8,9 +8,11 @@ en: "Brief Fear of Negative Evaluation Scale (BFNE / BFNE-II)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس الخوف الموجز من التقييم السلبي"
 active_start: 1983
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تعديل BFNE-II بإعادة صياغة البنود العكسية الأربعة لتجنب التحيز المنهجي يحتاج مراجعة سيكومترية"
   - "التطبيقات في قياس الحساسية للرفض الاجتماعي (Rejection Sensitivity) تتطلب ربطاً معرفياً"

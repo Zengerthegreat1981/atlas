@@ -11,10 +11,12 @@ dates: "معهد إيسالن · منتصف السبعينيات"
 active_start: 1975
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
+- id: "thk-mgrof", title: "ستانيسلاف غروف (النسخة المعدلة)", type: "مفكر"
+- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
 gaps:
   - "ابتكار ستانيسلاف وكريستينا غروف (Stanislav & Christina Grof) للتنفس المتسارع المكثف والموسيقى الإيحائية كبديل آمن للعلاج بالسيكوديلك."
   - "مصفوفات الولادة الحيوية الأربع (Basic Perinatal Matrices - BPM) والوصول إلى طبقات الذاكرة الجنينية والتجاوزية."

@@ -10,11 +10,16 @@ dates: "1994 · أنطونيو داماسيو"
 language: "الإنجليزية"
 active_start: 1994
 active_end: 1994
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "أنطونيو داماسيو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-damasio", target_type: "مفكر"
 related:
-  - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
+- id: "con-somatic-marker", title: "العلامة الجسدية (Somatic Marker)", type: "مفهوم"
+- id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Putnam / Penguin) لم تُراجع من مصدر أولي."
   - "تفاصيل تجارب Iowa Gambling Task (Bechara et al., 1994) لم تُراجع من مصدر أولي."

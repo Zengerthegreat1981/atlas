@@ -10,11 +10,15 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1989
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العدالة والمجتمع", target_type: "مدرسة"
+- rel: "belongs_to", target: "العدالة والمجتمع", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
+- id: "thk-kcrenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
+- id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
+- id: "thk-sahmed", title: "سارة أحمد", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 gaps:
   - "مقال Crenshaw الأصلي (1989) في University of Chicago Legal Forum لم يُراجع نصّه."
   - "العلاقة بين 'Black Feminism' و'intersectionality' تستحق توثيقاً."

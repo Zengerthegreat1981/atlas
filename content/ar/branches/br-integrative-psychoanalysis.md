@@ -11,12 +11,15 @@ dates: "فيينا ونيويورك · من أواخر القرن العشرين
 active_start: 1980
 active_end: "مستمر"
 language: "الإنجليزية / الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-  - id: "thk-lfinlay", title: "ليندا فينلاي", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "thk-lfinlay", title: "ليندا فينلاي", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "النماذج التكاملية النمساوية (مثل أعمال إروين رينجل وألويس بريتز في فيينا) ومقارنتها بالتحليل النفسي التكاملي الأمريكي."
   - "الجمع بين التحليل السيكوديناميكي والعلاجات المعرفية والإنسانية والجسدية في إطار متماسك نظرياً."

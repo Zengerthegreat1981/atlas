@@ -11,13 +11,24 @@ country: "إسرائيل"
 language: "الإنجليزية / العبرية / الفرنسية"
 active_start: 1949
 active_end: 1984
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "طريقة فيلدنكرايس", target_type: "مدرسة"
+- rel: "belongs_to", target: "طريقة فيلدنكرايس", target_type: "مدرسة"
 related:
-  - id: "thk-falexander", title: "فريدريك ماتياس ألكسندر", type: "مفكر"
+- id: "thk-falexander", title: "فريدريك ماتياس ألكسندر", type: "مفكر"
+- id: "thk-lavinia-shaw", title: "لاڤينيا شو", type: "مفكر"
+- id: "thk-markrees", title: "مارك ريس", type: "مفكر"
+- id: "thk-rupertpriest", title: "روبرت بريست", type: "مفكر"
+- id: "thk-stephenburgess", title: "ستيفن بورغس", type: "مفكر"
+- id: "thk-yvaniedmon", title: "إيڤاني إدمون", type: "مفكر"
 gaps:
   - "تفاصيل عمله في الفيزياء النووية مع فريديريك جوليو-كوري ودراساته للدفاع عن النفس (Jiu-Jitsu) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لاڤينيا شو (thk-lavinia-shaw)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارك ريس (thk-markrees)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت بريست (thk-rupertpriest)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن بورغس (thk-stephenburgess)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيڤاني إدمون (thk-yvaniedmon)."
 ---
 
 # موشيه فيلدنكرايس

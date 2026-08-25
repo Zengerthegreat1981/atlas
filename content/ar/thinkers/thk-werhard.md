@@ -11,9 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1971
 active_end: 2009
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
+- rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
 related:
+- id: "thk-bmoore", title: "بوب مور", type: "مفكر"
+- id: "thk-hpalmer", title: "هاري بالمر", type: "مفكر"
+- id: "thk-jhouston", title: "جين هيوستن", type: "مفكر"
 gaps:
   - "تفاصيل هجرته من Philadelphia وتغيير اسمه من John Paul Rosenbaum إلى Werner Erhard لم تُوثّق بدقة محايدة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -52,6 +56,6 @@ gaps:
 
 ## أهم أعماله
 
-- *EST: An Introduction* (1970s، نشر ذاتي).
+- *EST: An Introduction* (السبعينيات من القرن العشرين، نشر ذاتي).
 - *Landmark Forum Curriculum Materials* (1991–).
 - *The End of Starvation* (1980).

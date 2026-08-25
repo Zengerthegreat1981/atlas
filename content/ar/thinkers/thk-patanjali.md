@@ -12,11 +12,13 @@ language: "السنسكريتية"
 active_start: -150
 active_end: 400
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← باتانجالي (مؤسس اليوغا الكلاسيكية)"
 edges:
-  - rel: "belongs_to", target: "يوغا الفلسفية (باتانجالي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "يوغا الفلسفية (باتانجالي)", target_type: "مدرسة"
 related:
-  - id: "sch-yoga", title: "يوغا الفلسفية (باتانجالي)", type: "مدرسة"
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "sch-yoga", title: "يوغا الفلسفية (باتانجالي)", type: "مدرسة"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "تأريخ حياة باتانجالي موضع خلاف واسع بين القرن 2 ق.م والقرن 4 م."
   - "نسبة Patanjali yogasutras وMahabhashya (القواعد النحوية) لنفس المؤلف أو لمؤلفين مختلفين محل نقاش."

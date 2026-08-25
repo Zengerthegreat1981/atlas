@@ -6,16 +6,19 @@ level: "متوسط"
 title: "ميك كوبر"
 en: "Mick Cooper"
 crumb: "المدرسة الوجودية ← الناس ← ميك كوبر"
-dates: "بريطانيا"
+dates: "بريطانيا · 1966–"
 active_start: 2003
 active_end: 2015
 language: "الإنجليزية"
 country: "بريطانيا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
-  - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
+- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس", type: "علاقة بين مدرستين"
+- id: "wrk-existential-therapies", title: "العلاجات الوجودية", type: "عمل / كتاب"
+- id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+- id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "بيانات أعماله وطبعاتها — تحتاج تثبيتاً"

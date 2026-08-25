@@ -9,11 +9,14 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرنسيون
 dates: "فرنسا · 1915–2000"
 language: "الفرنسية"
 country: "فرنسا"
+part: "psychology"
+active_start: null
+active_end: 2000
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
-  - id: "thk-fain", title: "ميشيل فان", type: "مفكر"
+- id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
+- id: "thk-fain", title: "ميشيل فان", type: "مفكر"
 gaps:
   - "مفهوم «التفاعل المبكر بين الأم والرضيع» (les interactions précoces) وعلاقتها بأعمال كلاين وبوفيه — تحتاج مراجعة من نص تأسيسي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

@@ -8,17 +8,23 @@ en: "Contexts of Being: The Intersubjective Foundations of Psychological Life"
 crumb: "التحليل النفسي ← الأعمال ← سياقات الوجود"
 dates: "1992"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "روبرت ستولورو", target_type: "مفكر"
-  - rel: "authored_by", target: "جورج أتوود", target_type: "مفكر"
-  - rel: "authored_by", target: "برنارد برندشافت", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-stolorow", target_type: "مفكر"
+- rel: "authored_by", target: "thk-georgeatwood", target_type: "مفكر"
+- rel: "authored_by", target: "برنارد برندشافت", target_type: "مفكر"
 related:
-  - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
-  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
-  - id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
+- id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
+- id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
+- id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سياقات الوجود: المعنى البين-ذاتي للتجربة

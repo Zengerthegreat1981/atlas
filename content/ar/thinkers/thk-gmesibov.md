@@ -5,24 +5,35 @@ type: "مفكر"
 level: "متوسط"
 title: "غاري ميسيبوف"
 en: "Gary B. Mesibov"
-dates: "الولايات المتحدة"
+dates: "الولايات المتحدة · 1945–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1972
 active_end: "مستمر"
+part: "psychology"
+crumb: "TEACCH ← القيادة والتطبيق ← غاري ميسيبوف"
 edges:
-  - rel: "belongs_to", target: "br-teacch", target_type: "تيار"
+- rel: "belongs_to", target: "TEACCH", target_type: "تيار"
 related:
-  - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
-  - id: "br-teacch", title: "TEACCH", type: "مفكر"
+- id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+- id: "br-teacch", title: "TEACCH", type: "تيار"
+- id: "thk-ereichelt", title: "إريك رايشيلت", type: "مفكر"
+- id: "thk-rmosak", title: "روبرت موشارك", type: "مفكر"
+- id: "thk-cwhitaker-pt", title: "جون مارش", type: "مفكر"
+- id: "thk-fkfu", title: "ف. كي. فو", type: "مفكر"
+- id: "thk-jroddy", title: "ج. لوك ويلز", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون مارش (thk-cwhitaker-pt)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ف. كي. فو (thk-fkfu)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ج. لوك ويلز (thk-jroddy)."
+  - "مدخل «روبرت موشارك» (thk-rmosak) المرتبط بهذا الملف لا صلة موثّقة له بـTEACCH ويبدو ربطاً خاطئاً — وهو نفس الربط الخاطئ الوارد في ملف شوبلر؛ يحتاج مراجعة تحريرية."
 ---
 
 # غاري ميسيبوف
 
-عالم نفس أمريكي، مدير تنفيذي لبرنامج TEACCH في جامعة نورث كارولينا (1972–2010).
+عالم نفس أمريكي، التحق ببرنامج TEACCH في جامعة نورث كارولينا عام 1972 وخلف إريك شوبلر في إدارته عام 1992 حتى تقاعده عام 2010.
 
 ## ما أعطاه
 
@@ -37,7 +48,7 @@ gaps:
 
 ## أهم أعماله
 
-- *The TEACCH Approach to Autism Spectrum Disorders* (2010، مع سكوتلر).
+- *The TEACCH Approach to Autism Spectrum Disorders* (2005، مع ڤيكتوريا شيا وإريك شوبلر).
 - *Autism Spectrum Disorders in Adolescence and Beyond* (محرر، 2013).
 
 ## اقتباسات مختارة

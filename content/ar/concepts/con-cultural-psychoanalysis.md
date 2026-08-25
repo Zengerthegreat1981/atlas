@@ -8,10 +8,15 @@ en: "Cultural Psychoanalysis"
 crumb: "المفاهيم ← مدارس تحليلية ← التحليل النفسي الثقافي"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي الثقافي", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-cultural-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
+- id: "con-cross-cultural-psychoanalysis", title: "التحليل النفسي العابر للثقافات", type: "مفهوم"
+- id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
+- id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفاصيل التفصيلية لأعمال ويليام كوهن لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

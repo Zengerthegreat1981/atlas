@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 1949
 active_end: 1949
 edges:
-  - rel: "belongs_to", target: "فلسفة البيئة / الأخلاق البيئية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
-  - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
-  - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press الأصلية (1949)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تقويم مقاطعة الرمال (A Sand County Almanac, 1949)

@@ -4,42 +4,43 @@ id: "THK-0678"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"
-title: "إيف أمداديوم"
+title: "إيفي أماديومي"
 en: "Ifi Amadiume"
-crumb: "الفلسفات الأفريقية ← الفلسفة الأفريقية النسوية ← إيف أمداديوم"
+crumb: "الفلسفات الأفريقية ← الفلسفة الأفريقية النسوية ← إيفي أماديومي"
 dates: "نيجيريا/بريطانيا · 1954–2024"
 country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1987
 active_end: 2024
 edges:
-  - rel: "belongs_to", target: "الفلسفة الأفريقية النسوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الأفريقية النسوية", target_type: "مدرسة"
 related:
-  - id: "sch-afrofeminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"
+- id: "thk-lsaari", title: "لوسيان ليفي-برول", type: "مفكر"
+- id: "sch-afrofeminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«أوغو نانميكا» (thk-nnaemeka) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Amadiume (Male Daughters, Female Husbands) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
-# إيف أمداديوم
+# إيفي أماديومي
 
 أنثروبولوجية نسوية نيجيرية-بريطانية، من أهم منظّرات «النسوية الأفريقية» (African Feminism) المعاصرة ومؤسِّسة «NEGIAT» (نموذج نقدي بديل).
 
-## ما أعطاه
+## ما أعطته
 
-في «بنات ذكور، أزواج إناث» (Male Daughters, Female Husbands: Gender and Sex in an African Society, 1987) قدّمت أمداديوم دراسة إثنوغرافية لمجتمع الـNnegoi (Niger Delta) أظهرت:
+في «بنات ذكور، أزواج إناث» (Male Daughters, Female Husbands: Gender and Sex in an African Society, 1987) قدّمت أماديومي دراسة إثنوغرافية لمجتمع نُّوبي (Nnobi) الإيغبو في جنوب شرق نيجيريا أظهرت:
 - «الجندر» في المجتمع الأفريقي ليس «ثنائياً» (Binary) كما في التصنيف الأوروبي: النساء يكنّ «أزواجاً» للنساء الأخريات في نظام «الزواج بين الإناث» (Female Marriage).
 - «البطريركية» (Patriarchy) ليست «أصلية» في أفريقيا بل «استعمارية» (Colonial Import): البريطان أدخلوا نظاماً أبوياً صارماً على مجتمعات كانت أكثر «مرونة» في الجندر.
 - «النقد النسوي الأفريقي» يجب أن ينبع من «داخل» القيم الأفريقية (NEGIAT = Nigerian Women in the Academy and Transnational) لا من «النسوية الغربية».
 
-## موقعه من التيار
+## موقعها من التيار
 
-مؤسِّسة «النسوية الأفريقية» (African Feminism) مع Ogbuagu Nnaemeka وMolara Ogundipe وBibi Bakare-Yusuf. حواراتها مع Maryse Condé وTsitsi Dangarembga شكّلت جيلاً في «النسوية السوداء» الأفريقية.
+مؤسِّسة «النسوية الأفريقية» (African Feminism) مع Obioma Nnaemeka وMolara Ogundipe وBibi Bakare-Yusuf. حواراتها مع Maryse Condé وTsitsi Dangarembga شكّلت جيلاً في «النسوية السوداء» الأفريقية.
 
 ## قيد
 
-تركيزها على «الجندر» الأفريقي كُثِّف بأنه «مثالي» (Idealized) للماضي الأفريقي، وهو ما ردّت عليه (Our Own Way, 1997).
+وُجِّه إلى تركيزها على «الجندر» الأفريقي نقدٌ بأنه يُمثِّل الماضي الأفريقي تمثيلاً مثالياً (Idealized)، وهو ما ردّت عليه (Our Own Way, 1997).
 
 ## أهم أعمالها
 

@@ -8,9 +8,13 @@ en: "Stanford Prison Experiment"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة سجن ستانفورد"
 active_start: 1971
 active_end: 1971
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
+- id: "con-lucifer-effect", title: "تأثير لوسيفر والشر المؤسسي", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "التحقيقات النقدية لـ Thibault Le Texier (2018) المنشورة في American Psychologist تتطلب مراجعة نقدية دقيقة"
   - "التوثيق المباشر لتدخل الباحثين وتوجيه الحراس لسلوكيات معينة يطعن في الطبيعة العفوية للتجربة"

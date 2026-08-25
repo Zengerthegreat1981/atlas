@@ -13,11 +13,15 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "superseded_by", target: "الواقعية العلمية / اللاواقعية العلمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-scientific-realism", target_type: "مدرسة"
 related:
-  - id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
-  - id: "thk-dlewis", title: "ديفيد لويس", type: "مفكر"
+- id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
+- id: "thk-dlewis", title: "ديفيد لويس", type: "مفكر"
+- id: "wrk-naming-necessity", title: "التسمية والضرورة (Naming and Necessity)", type: "عمل / كتاب"
+- id: "con-verification-principle", title: "مبدأ التحقق", type: "مفهوم"
+- id: "con-wajib-al-wujud-necessary-being", title: "واجب الوجود وممكن الوجود (Necessary vs. Contingent Being)", type: "مفهوم"
+- id: "con-modal-realism-david-lewis", title: "الواقعية المشروطة للعوالم الممكنة (Modal Realism)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«بيتر فان إنواجن» (thk-van-inwagen) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ترين ميريكس» (thk-merricks) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -11,10 +11,11 @@ active_start: 2005
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "con-status-anxiety-concept", title: "قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety)", type: "مفهوم"
 gaps:
   - "صياغة المصطلح في جامعة ستانفورد لدراسة الضغوط الأكاديمية الصامتة لدى الطلاب."
   - "لا يوجد اقتباس مباشر موثوق متاح."

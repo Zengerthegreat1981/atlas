@@ -13,11 +13,12 @@ language: "اللاتينية"
 active_start: 1280
 active_end: 1450
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية)", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
 related:
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-  - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "dbt-thomism-vs-scotism", title: "التوماوية في مقابل السكوتية: العقل أم الإرادة؟", type: "جدل"
 gaps:
   - "نصوص دنز سكوتوس اللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Ordinatio' أو 'Opus Oxoniense'."

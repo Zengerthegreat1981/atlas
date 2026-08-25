@@ -9,10 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1901
 active_end: "مستمر"
 country: "المملكة المتحدة"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "wrk-uber-das-gedachtnis", title: "في الذاكرة", type: "عمل / كتاب"
-  - id: "sch-experimental-philosophy", title: "الفلسفة التجريبية (X-Phi)", type: "مدرسة"
+- id: "wrk-uber-das-gedachtnis", title: "في الذاكرة", type: "عمل / كتاب"
+- id: "sch-experimental-philosophy", title: "الفلسفة التجريبية (X-Phi)", type: "مدرسة"
+- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
+- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
+- id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 gaps:
   - "منح الميثاق الملكي (Royal Charter) لجمعية BPS عام 1965 وأثره القانوني يحتاج توثيقاً"
   - "الدور المبكر للجمعية في تقييم صدمات الحرب العالمية الأولى ومشفى كريغلوكهارت يتطلب تفصيلاً"

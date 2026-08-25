@@ -6,11 +6,23 @@ level: "مبتدئ"
 title: "القلق (المعرفي والعصبي)"
 en: "Anxiety (cognitive-neuroscientific)"
 crumb: "المدرسة الوجودية ← المفاهيم ← القلق (المعرفي والعصبي)"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "stu-ainsworth-strange-situation", title: "دراسة أينسورث حول الموقف الغريب وأنماط التعلّق عند الرضع", type: "دراسة وبحث"
+- id: "stu-baillargeon-object-permanence", title: "دراسات بايارغيون حول ديمومة الشيء عند الرضع ونموذج انتهاك التوقع", type: "دراسة وبحث"
+- id: "stu-garcia-taste-aversion", title: "تجارب جارسيا وكويلينغ في النفور من الطعم والجاهزية البيولوجية", type: "دراسة وبحث"
+- id: "stu-rescorla-wagner-blocking", title: "تجارب ريسكورلا وكامين حول ظاهرة الحجب والاقتران الإشراطي", type: "دراسة وبحث"
+- id: "stu-seligman-maier-learned-helplessness", title: "تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب", type: "دراسة وبحث"
+- id: "ins-eysenck-epq", title: "استبيان آيزنك للشخصية", type: "أداة قياس"
+- id: "ins-panas", title: "جدول الانفعال الإيجابي والسلبي لـ واتسون وكلارك وتيليغن", type: "أداة قياس"
+- id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
+
 gaps:
   - "الفرق الدقيق بين القلق الوجودي والقلق السريري (اضطراب القلق العام) يحتاج مدخل 'اضطراب' منفصل لا يوجد نوع عنصر له بعد في هذا الأطلس"
   - "لا تتوفر مصادر عربية إسلامية تراثية مراجعة لهذا المفهوم"

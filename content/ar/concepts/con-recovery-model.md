@@ -8,18 +8,22 @@ en: "Recovery Model"
 crumb: "الدعم والتأهيل النفسي-الاجتماعي ← الممارسة الموجّهة نحو التعافي ← نموذج التعافي"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
+- rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
-  - id: "thk-wwhite", title: "وليام وايت", type: "مفكر"
-  - id: "thk-dfisher", title: "دانيال فيشر", type: "مفكر"
-  - id: "br-recovery-oriented", title: "الممارسة الموجَّهة نحو التعافي", type: "مفهوم"
+- id: "thk-gene-ennis", title: "جين إينيس", type: "مفكر"
+- id: "thk-kurtz-sherman", title: "شيرمان كيرتز", type: "مفكر"
+- id: "thk-mary-elmquist", title: "ماري إلمكويست", type: "مفكر"
+- id: "br-recovery-oriented", title: "الممارسة الموجَّهة نحو التعافي", type: "تيار"
+- id: "thk-dan-fisher", title: "دان فيشر", type: "مفكر"
 gaps:
   - "نسبة النموذج إلى SAMHSA تستحق مراجعة (10 مبادئ نُشرت 2012)."
   - "التمييز بين «التعافي من المرض» (Clinical Recovery) و«التعافي الشخصي» (Personal Recovery) يستحق تفصيلاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وليام وايت (thk-wwhite)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال فيشر (thk-dfisher)."
 ---
-
 # نموذج التعافي (Recovery Model)
 
 إطار فلسفي وتنظيمي لإعادة تعريف الصحة النفسية، يركّز على قدرة الشخص على **العيش حياة ذات معنى** حتى مع استمرار أعراض الاضطراب، بدلاً من السعي الحصري إلى «إزالة الأعراض». تبنت SAMHSA (إدارة خدمات إدمان المواد والصحة النفسية الأمريكية) 10 مبادئ للتعافي في وثيقة 2012.

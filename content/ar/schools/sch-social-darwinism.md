@@ -13,10 +13,13 @@ language: "الإنجليزية، الألمانية"
 active_start: 1870
 active_end: 1940
 edges:
-  - rel: "belongs_to", target: "الليبرالية الكلاسيكية المبكرة", target_type: "مظلة"
-  - rel: "evolved_into", target: "الإبادة الجماعية والإثنولوجيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-classical-liberalism-early", target_type: "مظلة"
+- rel: "evolved_into", target: "الإبادة الجماعية والإثنولوجيا", target_type: "مدرسة"
 related:
-  - id: "thk-spencer", title: "هربرت سبنسر", type: "مفكر"
+- id: "sch-nationalism-philosophical", title: "القومية الفلسفية", type: "مدرسة"
+- id: "thk-spencer", title: "هربرت سبنسر", type: "مفكر"
+- id: "con-evolutionary-psychoanalysis", title: "التحليل النفسي التطوري/النمائي", type: "مفهوم"
+- id: "con-no-miracle-argument", title: "حجة المعجزة (No-Miracle Argument)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«وليام غراهام سومنر» (thk-summer) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«فريدريش راتزل» (thk-ratzel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

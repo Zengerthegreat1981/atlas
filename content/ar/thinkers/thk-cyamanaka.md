@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← تشيي يا�
 dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
-  - id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-hkawai", title: "هياو كاواي", type: "مفكر"
+- id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطته
 
-في «الجسد الياباني في التحليلية» (2000s) أجرت «تحليلية جسدية» مع تركيز على «الجسد الأنثوي الياباني» (Ma، satori، كي-شي). تابعت Marion Woodman (إدمان الكمال)، مع تكيف في السياق الياباني (انعدام الشهية). كذلك عملت في «عيادة سَن كيو (Sun Clinic)» في طوكيو.
+في «الجسد الياباني في التحليلية» (العقد الأول من القرن الحادي والعشرين) أجرت «تحليلية جسدية» مع تركيز على «الجسد الأنثوي الياباني» (Ma، satori، كي-شي). تابعت Marion Woodman (إدمان الكمال)، مع تكيف في السياق الياباني (انعدام الشهية). كذلك عملت في «عيادة سَن كيو (Sun Clinic)» في طوكيو.
 
 ## موقعها من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-The Japanese Body in Jungian Analysis (2000s).
+The Japanese Body in Jungian Analysis (العقد الأول من القرن الحادي والعشرين).

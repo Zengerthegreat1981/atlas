@@ -11,10 +11,10 @@ active_start: 1969
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو", type: "متلازمة"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو", type: "متلازمة"
 gaps:
   - "الاعتراف القانوني بضحايا الكاروشي في القانون الياباني (1987) وإحصاءات السكتات القلبية والانتحار المهني (Karojisatsu)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

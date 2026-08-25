@@ -10,11 +10,15 @@ country: "الولايات المتحدة / عالمي"
 language: "متعدد"
 active_start: 1973
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-affirmative-therapy", title: "العلاج التأكيدي (Affirmative Therapy)", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-affirmative-therapy", title: "العلاج التأكيدي (Affirmative Therapy)", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "حذف APA من الـhomosexuality كـdisorder (1973) يستحق توثيقاً."
   - "العلاقة بين 'Gay-Affirmative' و'LGBTQ+ Affirmative' يستحق توضيحاً."

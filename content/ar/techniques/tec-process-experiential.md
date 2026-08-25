@@ -11,11 +11,14 @@ dates: "التسعينيات"
 active_start: 1993
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-eft-individual", title: "العلاج المرتكز على العاطفة للأفراد (EFT)", type: "تقنية/تدخل علاجي"
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "thk-rice", title: "روبرت رايس", type: "مفكر"
+- id: "con-two-chair-dialogue", title: "تقنية الكرسيين (حوار الكرسيين)", type: "مفهوم"
+- id: "tec-eft-individual", title: "العلاج المرتكز على العاطفة للأفراد (EFT)", type: "تقنية/تدخل علاجي"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
 gaps:
   - "المهام العلاجية الست المحددة لروبرت إليوت وليزلي غرينبرغ ولورا رايس (Elliott, Greenberg, Rice)."
   - "تقنيات العمل بالكرسيين في الصراعات الانقسامية الداخلية وعمل الكرسي الفارغ مع الأعمال غير المنتهية مع الآخرين المهمين."

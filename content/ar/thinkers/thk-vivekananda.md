@@ -12,11 +12,14 @@ language: "الإنجليزية، البنغالية، السنسكريتية"
 active_start: 1886
 active_end: 1902
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← سوامي فيفيكاناندا (نيو-فيدانتا)"
 edges:
-  - rel: "belongs_to", target: "نيو-فيدانتا (الفيدانتا الحديثة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "نيو-فيدانتا (الفيدانتا الحديثة)", target_type: "مدرسة"
 related:
-  - id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
-  - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
+- id: "dbt-aurobindo-vs-vivekananda", title: "أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟", type: "جدل"
+- id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "التفاصيل الكاملة لمحاضراته في البرلمان الديني (Chicago 1893) وكتاباته تحتاج مراجعة."
   - "لا ترجمة عربية موحدة لأعماله (Raja Yoga, Jnana Yoga, Bhakti Yoga)."

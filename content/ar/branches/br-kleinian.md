@@ -11,16 +11,17 @@ dates: "لندن · ثلاثينيات وأربعينيات القرن العش�
 active_start: 1926
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "ميلاني كلاين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-klein", target_type: "مفكر"
 related:
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-  - id: "thk-segal", title: "حنا سيغال", type: "مفكر"
-  - id: "thk-rosenfeld", title: "هربرت روزنفيلد", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-isaacs", title: "سوزان إيزاكس", type: "مفكر"
-  - id: "thk-heimann", title: "بولا هايمان", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-zsegal", title: "حنا سيغال", type: "مفكر"
+- id: "thk-rosenfeld", title: "هربرت روزنفيلد", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-isaacs", title: "سوزان إيزاكس", type: "مفكر"
+- id: "thk-heimann", title: "بولا هايمان", type: "مفكر"
 gaps:
   - "النقاشات المثيرة للجدل (Controversial Discussions 1941-1945) بين الكلاينيين والأنافرويديين في الجمعية البريطانية تحتاج توثيقاً تاريخياً دقيقاً."
   - "تفاصيل التمييز بين الإسقاط العادي والتماهي الإسقاطي (Projective Identification) في الأدبيات الكلاينية المبكرة."

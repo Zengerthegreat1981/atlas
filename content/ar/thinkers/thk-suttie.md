@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← إيان سو�
 dates: "اسكتلندا / بريطانيا · 1889–1935"
 country: "اسكتلندا / بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1935
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه الرائد 'أصول الحب والكراهية' (The Origins of Love and Hate, 1935) ونقد البطريركية الفرويدية يستحقان توثيقاً."

@@ -13,13 +13,15 @@ language: "السنسكريتية"
 active_start: -200
 active_end: 1400
 edges:
-  - rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
+- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
 related:
-  - id: "sch-nyaya", title: "نيايا", type: "مدرسة"
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-  - id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
+- id: "sch-nyaya", title: "نيايا", type: "مدرسة"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
+- id: "thk-gotama-kanad", title: "أكساپادا غوتاما (مؤسس نيايا)", type: "مفكر"
 gaps:
   - "نصوص Vaisheshika Sutra (للقانا) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فايشيشيكا (Vaiśeṣika)

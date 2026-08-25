@@ -14,11 +14,14 @@ active_start: -475
 active_end: -206
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "con-shu", title: "الشو (術) — التكنيك الإداري", type: "مفهوم"
+- id: "wrk-hanfeizi", title: "كتاب هان في تزو", type: "عمل / كتاب"
 gaps:
   - "نصوص هان فاي (Han Feizi) بُحثت هنا بالترجمة الإنجليزية ولم تُقارن بالنص الأصلي."
   - "النقاش حول مدى وحدة المدرسة وتعدّد اتجاهاتها (شانغ يانغ، شِن بُوهاي، هان فاي) لم يُحلّ في هذه المسودة."

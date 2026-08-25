@@ -11,19 +11,19 @@ icd11_code: "6B88"
 active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-er-mindful-eating", title: "الأكل الواعي (DBT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-pres-mindful-eating", title: "الأكل الواعي (ACT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-  - id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
-  - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-  - id: "tec-fbt-arfid", title: "العلاج الأسري القائم على الأسرة لـ ARFID (FBT-ARFID)", type: "تقنية/تدخل علاجي"
-
+- id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-mindful-eating", title: "الأكل الواعي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-eating", title: "الأكل الواعي (ACT)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+- id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
+- id: "tec-fbt-arfid", title: "العلاج الأسري القائم على الأسرة لـ ARFID (FBT-ARFID)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (3 presentations: sensory, fear of aversive consequences, lack of interest) لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6B88) لم تُراجع تفصيلياً."
@@ -120,3 +120,7 @@ ARFID **اضطراب متعدد المسببات** يتطلب فريقاً مت�
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Thomas, J. J., & Eddy, K. T. (2019). *Cognitive-Behavioral Therapy for Avoidant/Restrictive Food Intake Disorder*. Cambridge University Press.
 - Brigham, K. S., et al. (2018). "Eating Disorders in Children and Adolescents." *Pediatric Clinics*.
+
+## التطور التاريخي في DSM
+
+كان هذا الاضطراب في DSM-IV مقصوراً على الرضع والأطفال الصغار تحت مسمى اضطراب التغذية؛ وقد استُبدل ووُسِّع نطاقه في DSM-5 ليصبح «اضطراب تجنب/تقييد تناول الطعام» (ARFID) شاملاً كافة المراحل العمرية دون حصر النمط في الطفولة المبكرة.

@@ -10,11 +10,13 @@ crumb: "الفلسفة ← الصين ← القانونية ← التكنيك 
 active_start: -350
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الشرعية / القانونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-legalism", target_type: "مدرسة"
 related:
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"
-  - id: "con-fa", title: "الفا (法) — القانون الموضوعي", type: "مفهوم"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"
+- id: "con-fa", title: "الفا (法) — القانون الموضوعي", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتقنيات شين بو هاي (بقيت في شذرات) لم تُحلّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

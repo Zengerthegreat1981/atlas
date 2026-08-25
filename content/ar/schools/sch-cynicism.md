@@ -13,12 +13,15 @@ language: "اليونانية (ثم اللاتينية في العصور الر�
 active_start: -400
 active_end: 500
 edges:
-  - rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
-  - rel: "evolved_into", target: "الرواقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-stoicism", target_type: "مدرسة"
 related:
-  - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-  - id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-  - id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
+- id: "thk-crates-thebes", title: "كراتيس الطيبي", type: "مفكر"
+- id: "thk-diogenes-sinope", title: "ديوجين السينوبي", type: "مفكر"
+- id: "thk-hipparchia", title: "هيبارشيا من مارونيا", type: "مفكر"
 gaps:
   - "نصوص ديوجانس السينوبي مفقودة (وصلتنا رسائل وروايات، كثير منها 'أبيقورية' المصدر). الرسائل المعروفة باسمه قد تكون ملفّقة."
   - "لا نعرف بدقة ما هي أفكار ديوجانس الأصلية وما أُضيف إليه من قصص شعبية حول 'كلبه'."

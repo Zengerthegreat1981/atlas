@@ -8,11 +8,15 @@ en: "Dialectical Abstinence"
 crumb: "الموجة الثالثة ← المفاهيم ← الامتناع الجدلي"
 active_start: 2003
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
-  - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الإسناد التاريخي الدقيق لمفهوم الامتناع الجدلي (ما إذا كان في الأصل فكرةً لـ لينهان أو تطويراً لـ ديفيد بارلو وآخرين) يحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

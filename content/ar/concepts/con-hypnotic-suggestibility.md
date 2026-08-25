@@ -8,15 +8,19 @@ en: "Hypnotic Suggestibility"
 crumb: "التنويم ← المفاهيم ← القابلية للإيحاء"
 active_start: 1930
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
 related:
-  - id: "thk-ihilgard", title: "إرنست هيلغارد", type: "مفكر"
-  - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
-  - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
+- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "المقاييس المعيارية (Stanford Hypnotic Susceptibility Scale) ودرجات القابلية لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست هيلغارد (thk-ihilgard)."
 ---
 
 # القابلية للإيحاء التنويمي

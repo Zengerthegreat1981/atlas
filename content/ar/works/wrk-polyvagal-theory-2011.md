@@ -10,11 +10,16 @@ dates: "2011 · ستيفن بورجيز"
 language: "الإنجليزية"
 active_start: 2011
 active_end: 2011
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ستيفن بورجيز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "ستيفن بورجيز", target_type: "مفكر"
 related:
-  - id: "tec-music-therapy", title: "العلاج بالموسيقى", type: "تقنية/تدخل علاجي"
+- id: "tec-music-therapy", title: "العلاج بالموسيقى", type: "تقنية/تدخل علاجي"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (W. W. Norton) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

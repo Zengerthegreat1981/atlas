@@ -8,13 +8,16 @@ en: "Neurosis: The Historical Organizing Framework in Psychiatry"
 crumb: "التحليل النفسي وتاريخ الطب النفسي ← المفاهيم ← إطار العصاب التاريخي"
 active_start: 1769
 active_end: 1980
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "evt-dsm-3-publication-1980", title: "نشر الدليل التشخيصي والإحصائي الثالث DSM-III", type: "حدث تاريخي"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "dbt-unconscious", title: "هل يوجد لاوعي؟", type: "جدل"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "evt-dsm-3-publication-1980", title: "ثورة DSM-III ونقل الطب النفسي للنموذج التجريبي الوصفي بمعايير سبيتزر", type: "حدث تاريخي"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "dbt-unconscious", title: "هل يوجد لاوعي؟", type: "جدل"
+- id: "syn-historical-neurasthenia", title: "متلازمة الوهن العصبي التاريخية (الإنهاك العصبي الأمريكي)", type: "متلازمة"
+
 gaps:
   - "تتبع التحول التاريخي لمفهوم العصاب بين الطبعة الأولى DSM-I (1952) والطبعة الثانية DSM-II (1968) يحتاج توثيقاً نصياً مقارناً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

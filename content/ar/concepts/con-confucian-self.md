@@ -8,8 +8,15 @@ en: "Confucian Self"
 crumb: "أطر غير غربية ← المفاهيم ← الذات الكونفوشيوسية"
 active_start: -500
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الكونفوشيوسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الكونفوشيوسي", target_type: "مدرسة"
+related:
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Lunyu, Daxue) لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

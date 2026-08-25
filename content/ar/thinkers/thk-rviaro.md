@@ -5,20 +5,25 @@ type: "مفكر"
 level: "متوسط"
 title: "روبرتو فيارو"
 en: "Roberto Viaro"
-crumb: "br-brief-strategic-therapy ← العلاج الاستراتيجي وفوبيا الأطفال ← روبرتو فيارو"
+crumb: "العلاج القصير الاستراتيجي ← العلاج الاستراتيجي وفوبيا الأطفال ← روبرتو فيارو"
 dates: "إيطاليا · القرن العشرين–"
 country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج القصير الاستراتيجي", target_type: "تيار"
 related:
-  - id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
-  - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "مفكر"
+- id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "تيار"
+- id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"
+- id: "thk-ashoham", title: "آرثر شوهام", type: "مفكر"
+- id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورجيو ناردوني (thk-gnardone)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورجيو ناردوني (thk-gnardone)."
 ---
 
 # روبرتو فيارو

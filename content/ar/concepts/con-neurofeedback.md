@@ -1,7 +1,7 @@
 ---
 slug: "con-neurofeedback"
-id: "THK-2162"
-type: "مفكر"
+id: "CON-1261"
+type: "مفهوم"
 level: "مبتدئ"
 title: "التغذية الراجعة العصبية (Neurofeedback)"
 en: "Neurofeedback / EEG Biofeedback"
@@ -10,19 +10,23 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 1967
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التغذية الراجعة العصبية", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-neurofeedback", target_type: "مدرسة"
 related:
-  - id: "thk-ssterman", title: "ماريو ستيرمان", type: "مفكر"
-  - id: "thk-jlubar", title: "جويل لوبار", type: "مفكر"
-  - id: "thk-sothmer", title: "سيغفريد أوتمر", type: "مفكر"
+- id: "thk-jgruzelier", title: "جون غروزولير", type: "مفكر"
+- id: "thk-jkamiya", title: "جو كاميا", type: "مفكر"
+- id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
+- id: "tec-biofeedback", title: "البيوفيتباك (Biofeedback)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بدأ في الستينيات في UCLA مع ماريو ستيرمان على القطط، ثم على البشر في السبعينيات."
   - "يُصنَّف عادةً كـ 'تقنية' وليس كـ 'علاج' في كثير من الأنظمة الصحية."
   - "الأدلة السريرية لا تزال متفاوتة بين اضطراب وآخر، مع أقوى الأدلة في ADHD والصرع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريو ستيرمان (thk-ssterman)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جويل لوبار (thk-jlubar)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: سيغفريد أوتمر (thk-sothmer)."
 ---
-
 # التغذية الراجعة العصبية (Neurofeedback)
 
 تقنية علاجية عصبية تنتمي لحقل «البيوفيتباك» (Biofeedback) الأوسع، تعتمد على قياس النشاط الكهربائي للدماغ في الوقت الفعلي (عبر EEG أو fMRI)، ثم تقديم هذا النشاط للمريض في شكل سهل الإدراك (صوت، رسوم متحركة، لعبة)، بهدف تعديله متعمداً.

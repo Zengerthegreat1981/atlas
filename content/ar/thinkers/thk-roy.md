@@ -7,17 +7,17 @@ level: "متوسط"
 title: "رام موهان روي"
 en: "Raja Ram Mohan Roy"
 crumb: "براهمو ساماج ← المؤسس ← رام موهان روي"
-dates: "بوردوان (البنغال)، باهارامبور، كلكتا، لندن · 1772–1833"
+dates: "الهند (البنغال، كلكتا) / بريطانيا · 1772–1833"
 country: "الهند (البنغال)"
 language: "البنغالية، الإنجليزية، السنسكريتية، الفارسية، العربية"
 active_start: 1815
 active_end: 1833
 edges:
-  - rel: "belongs_to", target: "براهمو ساماج", target_type: "مدرسة"
-  - rel: "founded", target: "براهمو ساماج", target_type: "مدرسة"
+- rel: "belongs_to", target: "براهمو ساماج", target_type: "مدرسة"
+- rel: "founded", target: "براهمو ساماج", target_type: "مدرسة"
 related:
-  - id: "sch-brahmo-samaj", title: "براهمو ساماج", type: "مدرسة"
-  - id: "thk-dayananda", title: "سوامي دياناندا ساراسواتي", type: "مفكر"
+- id: "sch-brahmo-samaj", title: "براهمو ساماج", type: "مدرسة"
+- id: "thk-dayananda", title: "سوامي دياناندا ساراسواتي", type: "مفكر"
 gaps:
   - "مراسلاته مع 'Utilitarian Society' في لندن لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'A Gift to Monotheists' بعد."

@@ -6,17 +6,21 @@ level: "متوسط"
 title: "الحرية"
 en: "Freedom"
 crumb: "المدرسة الوجودية ← المفاهيم ← الحرية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-beauvoir", title: "بوفوار", type: "مفكرة"
-  - id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
-  - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-beauvoir", title: "بوفوار", type: "مفكر"
+- id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
+- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "tec-leadership-diamond-koestenbaum", title: "الألماسة القيادية الوجودية (The Leadership Diamond)", type: "تقنية/تدخل علاجي"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # الحرية
 
 المفهوم الذي يجمع المدرسة كلها ظاهرياً، ويفرّقها فعلياً — لأن كل واحد يضع لها حداً مختلفاً.

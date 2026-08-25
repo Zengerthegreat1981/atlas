@@ -11,12 +11,15 @@ country: "أمريكا"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
-  - rel: "belongs_to", target: "العلائقية", target_type: "تيار"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلائقية", target_type: "تيار"
 related:
-  - id: "thk-smitchell", title: "سْتِيفن مِتْشِل", type: "مفكر"
-  - id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
+- id: "thk-dstern", title: "دونَل ب. سترن", type: "مفكر"
+- id: "thk-jgreenberg", title: "جاي ر. غرينبرغ", type: "مفكر"
+- id: "thk-mitchell", title: "سْتِيفن مِتْشِل", type: "مفكر"
+- id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
 gaps:
   - "تأسيس مركز PRS (Postgraduate Psychoanalytic Society) لم يُراجع بعد تفصيلاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -29,8 +32,8 @@ gaps:
 ## ما أعطاه
 
 - **لقاء عقول** (A Meeting of Minds، 1996) — تأريخ ومحاورة للتيار العلائقي في التحليل النفسي المعاصر، بمشاركة ميتشل وبنجامين وغينت.
-- **مقاربة الذات المنفتحة** (Relational Psychoanalysis، 2000s) — الذات في التحليل العلائقي ليست منغلقة بل منفتحة على الآخر، والتحليل نفسه فضاء لمواجهة متبادلة (Encounter).
-- **سلسلة المنظورات العلائقية** (Relational Perspectives Book Series، 2000s) — سلسلة كتب نظّمت التيار العلائقي بوصفه مدرسة مستقلة.
+- **مقاربة الذات المنفتحة** (Relational Psychoanalysis، العقد الأول من القرن الحادي والعشرين) — الذات في التحليل العلائقي ليست منغلقة بل منفتحة على الآخر، والتحليل نفسه فضاء لمواجهة متبادلة (Encounter).
+- **سلسلة المنظورات العلائقية** (Relational Perspectives Book Series، العقد الأول من القرن الحادي والعشرين) — سلسلة كتب نظّمت التيار العلائقي بوصفه مدرسة مستقلة.
 
 ## موقعه من التيار
 
@@ -42,4 +45,4 @@ gaps:
 
 ## أهم أعماله
 
-لقاء الأنا المتعدد (1996) · العلائقي المعاصر (2000s) · نحو العلائقي الإسلامي (2000s).
+لقاء العقول (A Meeting of Minds, 1996) · العلائقي المعاصر (العقد الأول من القرن الحادي والعشرين) · نحو العلائقي الإسلامي (العقد الأول من القرن الحادي والعشرين).

@@ -13,22 +13,27 @@ language: "اللاتينية"
 active_start: 1050
 active_end: 1650
 edges:
-  - rel: "evolved_from", target: "الآبائية المسيحية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الأوغسطينية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الفلسفة البيزنطية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-augustinianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-byzantine", target_type: "مدرسة"
 related:
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-  - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
-  - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
-  - id: "thk-anselm-canterbury", title: "أنسيلم من كانتربري", type: "مفكر"
-  - id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-scotism", title: "السكوتية", type: "مدرسة"
+- id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "thk-anselm-canterbury", title: "أنسيلم من كانتربري", type: "مفكر"
+- id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
+- id: "con-natural-law", title: "القانون الطبيعي", type: "مفهوم"
+- id: "con-substance-accident", title: "الجوهر والعرض (Substance / Accident)", type: "مفهوم"
+- id: "con-universals-debate", title: "جدل الكليات (مشكلة الكُنْه)", type: "مفهوم"
+- id: "exp-boethius-prison-consolation", title: "عزاء بوثيوس في السجن قبل إعدامه وكتابة عزاء الفلسفة", type: "خبرة معيشة"
+- id: "trm-synderesis-scholastic", title: "السينديريسيس (Synderesis): البصيرة الأخلاقية الفطرية للضمير", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-soul-scholastic", title: "النفس (Psyche / Anima) في الفلسفة المدرسية", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "نصوص أنسيلم وأكوييناس باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Summa Theologica' أو 'Proslogion'."
   - "التمييز بين 'اللاهوت المدرسي' و'فلسفة العصور الوسطى' محلّ خلاف."
 ---
-
 # المدرسية (السكولاستية) — كمظلة
 
 تقليد فلسفي-لاهوتي مسيحي مسيطر في الجامعات الأوروبية من القرن 11 م إلى القرن 17 م. عُرفت باسم «**السكولاستية**» (Scholasticism، من اللاتينية scholastica، «المتعلّمة»)، أو «**المدرسية**» (من المدرسة)، لأنّ ممارستها الرئيسية كانت في **المدارس** (Scholae) الكاتدرائية والجامعية. حاولت تركيباً منهجياً بين **الإيمان المسيحي** (الوحي) و**العقل اليوناني** (أرسطو خاصة، أفلاطون بصورة ثانوية). استلهمت من **الآباء** (أوغسطينوس، بويشيوس) ومن **الفلسفة العربية** (ابن سينا، ابن رشد) عبر الترجمة اللاتينية في **طليطلة**.

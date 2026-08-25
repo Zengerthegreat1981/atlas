@@ -11,10 +11,13 @@ crumb: "علم النفس الشعبي والعلاقات الأسرية ← ا�
 active_start: 1975
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والعلاقات الأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والعلاقات الأسرية", target_type: "مدرسة"
 related:
-  - id: "con-savior-complex", title: "عقدة المخلّص", type: "مفهوم"
-  - id: "con-emotional-blackmail", title: "الابتزاز العاطفي", type: "مفهوم"
+- id: "con-savior-complex", title: "عقدة المخلّص", type: "مفهوم"
+- id: "con-emotional-blackmail", title: "الابتزاز العاطفي", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الديناميات العلائقية لعقدة الضحية في العلاج الأسري النظمي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

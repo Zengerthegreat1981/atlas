@@ -11,11 +11,13 @@ dates: "جامعة كانساس · التسعينيات"
 active_start: 1994
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-  - id: "tec-positive-psychotherapy", title: "العلاج النفسي الإيجابي", type: "تقنية/تدخل علاجي"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "tec-positive-psychotherapy", title: "العلاج النفسي الإيجابي", type: "تقنية/تدخل علاجي"
+- id: "tec-forgiveness-therapy", title: "علاج التسامح والغفران", type: "تقنية/تدخل علاجي"
 gaps:
   - "نظرية الأمل لـ سي. آر. سنايدر (C. R. Snyder) وثنائية 'طاقة الإرادة' (Agency Thinking) و'طاقة المسارات' (Pathways Thinking)."
   - "مقياس الأمل المقنن (The Hope Scale) والتدخلات الموجهة لبناء أهداف واقعية وتجاوز العوائق."

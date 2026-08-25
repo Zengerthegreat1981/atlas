@@ -12,10 +12,11 @@ language: "البنجابية (Gurmukhi)، الفارسية، السنسكريت
 active_start: 1500
 active_end: 1539
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← غورو ناناك (مؤسس السيخية)"
 edges:
-  - rel: "belongs_to", target: "السيخية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "السيخية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-sikh-philosophy", title: "السيخية الفلسفية", type: "مدرسة"
+- id: "sch-sikh-philosophy", title: "السيخية الفلسفية", type: "مدرسة"
 gaps:
   - "التفاصيل التاريخية لرحلاته الأربع (Udasi) موضع خلاف بين العلماء."
   - "لا ترجمة عربية معتمدة لأعماله (Japji Sahib, Asa di Var)."

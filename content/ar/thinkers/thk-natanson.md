@@ -11,14 +11,15 @@ active_start: 1970
 active_end: 1973
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-schutz", title: "ألفريد شوتز", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-schutz", title: "ألفريد شوتز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'سوسيولوجيا العالم الاجتماعي والفينومينولوجيا' (1970) الحائز على الجائزة الوطنية للكتاب يستحق توثيقاً."
@@ -42,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-الفينومينولوجيا والعلوم الاجتماعية (Phenomenology and the Social Sciences, 1973) · السلوك المجهول: دراسة في فلسفة الوجود (The Journeying Self, 1970) · نقد جان بول سارتر للوعي الجدلي (1973).
+الفينومينولوجيا والعلوم الاجتماعية (Phenomenology and the Social Sciences, 1973) · الذات المُسافرة: دراسة في فلسفة الوجود (The Journeying Self, 1970) · نقد جان بول سارتر للوعي الجدلي (1973).

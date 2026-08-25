@@ -9,12 +9,16 @@ crumb: "التحليل النفسي ← الناس ← كلاسيكي في إس�
 dates: "إسرائيل · [غير مؤكد]"
 country: "إسرائيل"
 language: "العبرية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
-  - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
+- id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
+- id: "thk-weisstub", title: "إيلي وايستوب", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة تحتاج تأكيداً من ملفه على ISAP."
   - "لا يوجد اقتباس مباشر موثوق متاح."

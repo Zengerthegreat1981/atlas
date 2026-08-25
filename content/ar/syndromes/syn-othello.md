@@ -11,10 +11,10 @@ active_start: 1955
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-alcohol-use-disorder", title: "اضطراب تعاطي الكحول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-alcohol-use-disorder", title: "اضطراب تعاطي الكحول", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "مراجعة بحث تود وديوهورست (Todd & Dewhurst 1955) في صياغة المصطلح."
   - "لا يوجد اقتباس مباشر موثوق متاح."

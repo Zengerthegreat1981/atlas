@@ -10,24 +10,26 @@ country: "بريطانيا"
 dates: "بريطانيا · من الستينيات"
 active_start: 1960
 language: "الإنجليزية"
+part: "psychology"
+active_end: "مستمر"
 edges:
-  - rel: "part_of", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "developed_by", target: "ر. د. لاينغ", target_type: "مفكر"
-  - rel: "developed_by", target: "ديفيد كوبر", target_type: "مفكر"
+- rel: "part_of", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-laing", target_type: "مفكر"
+- rel: "developed_by", target: "thk-dcooper", target_type: "مفكر"
 related:
-  - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
-  - id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
-  - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
-  - id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
-  - id: "wrk-divided-self", title: "الذات المنقسمة", type: "عمل / كتاب"
-  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
+- id: "thk-szasz", title: "توماس ساس", type: "مفكر"
+- id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
+- id: "wrk-divided-self", title: "الذات المنقسمة", type: "عمل / كتاب"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
 gaps:
   - "تاريخ تأسيس الحركة كتيار منظّم (لا كمواقف فردية متزامنة) ونهايتها الفعلية — لم يُراجَع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق للتيار ذاته بخلاف اقتباس لاينغ الفردي الموجود في صفحته."
   - "مصطلح 'الطب النفسي المضاد' الذي صاغه كوبر يحتاج توثيقاً تاريخياً مستقلاً (نفس الفجوة المسجَّلة في صفحة ديفيد كوبر)."
 ---
-
 # التيار المضاد للطب النفسي
 
 أوسع تيارات المدرسة الوجودية أثراً ثقافياً، وأثقلها ثمناً على سمعتها العلمية. تشكّل في بريطانيا في الستينيات حول قراءة الذهان والاضطراب النفسي بوصفهما استجابة قد تكون مفهومة لوضع أسري أو اجتماعي، لا عطباً بيولوجياً بحتاً يُختزل ويُصنَّف.

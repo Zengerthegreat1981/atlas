@@ -10,14 +10,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ماكسين هاريس"
 edges:
-  - rel: "belongs_to", target: "br-case-management", target_type: "تيار"
+- rel: "belongs_to", target: "إدارة الحالات", target_type: "تيار"
 related:
-  - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
-  - id: "br-case-management", title: "إدارة الحالات", type: "مفكر"
+- id: "br-case-management", title: "إدارة الحالات", type: "تيار"
+- id: "thk-gbond", title: "غاري بوند", type: "مفكر"
+- id: "thk-gshepherd", title: "جيفري شيبرد", type: "مفكر"
+- id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."
 ---
 
 # ماكسين هاريس

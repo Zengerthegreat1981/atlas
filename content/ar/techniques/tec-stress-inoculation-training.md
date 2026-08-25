@@ -11,11 +11,13 @@ dates: "جامعة واترلو · السبعينيات"
 active_start: 1975
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "tec-clinical-stress", title: "علاج الضغط السريري (CST)", type: "تقنية/تدخل علاجي"
 gaps:
   - "مراحل SIT الثلاث عند دونالد ميشينباوم (Donald Meichenbaum): مرحلة إعادة البناء المفاهيمي، مرحلة اكتساب المهارات والبروفة، ومرحلة التطبيق والمواجهة الواقعية."
   - "استخدام التعليمات الذاتية الإيجابية (Self-Instructional Training) في خفض الاندفاعية وإدارة الألم."

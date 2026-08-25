@@ -12,10 +12,13 @@ language: "الألمانية"
 active_start: 1992
 active_end: 1992
 edges:
-  - rel: "belongs_to", target: "الديمقراطية التداولية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deliberative-democracy", target_type: "مدرسة"
 related:
-  - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
-  - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
+- id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
+- id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "النص الأصلي Faktizität und Geltung (1992) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

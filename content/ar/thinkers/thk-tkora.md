@@ -10,12 +10,15 @@ country: "اليابان"
 language: "اليابانية"
 active_start: 1950
 active_end: 1993
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← تاكيهيسا كورّا"
 edges:
-  - rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
 related:
-  - id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
+- id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تاكيهيسا كورّا

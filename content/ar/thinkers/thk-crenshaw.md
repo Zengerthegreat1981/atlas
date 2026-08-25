@@ -13,11 +13,11 @@ language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية التقاطعية", target_type: "مدرسة"
+- rel: "belongs_to", target: "النسوية التقاطعية", target_type: "مدرسة"
 related:
-  - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
-  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
-  - id: "thk-lorde", title: "أودري لورد", type: "مفكر"
+- id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
+- id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
+- id: "thk-lorde", title: "أودري لورد", type: "مفكر"
 gaps:
   - "نصوص Crenshaw (Demarginalizing the Intersection, Mapping the Margins) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -33,12 +33,12 @@ gaps:
 
 ## موقعها من التيار
 
-مؤسِّسة «النسوية التقاطعية» (Intersectional Feminism) ومصدر إلهام لـ«النظرية النقدية للعنصر» (Critical Race Theory). لعبت دوراً محورياً في تأسيس «مركز التقاطع للسياسات النسوية» (African American Policy Forum, 1996) مع Anita Hill.
+مؤسِّسة «النسوية التقاطعية» (Intersectional Feminism) ومصدر إلهام لـ«النظرية النقدية للعِرق» (Critical Race Theory). وشاركت في تأسيس «منتدى سياسات الأمريكيين الأفارقة» (African American Policy Forum, 1996).
 
 ## قيد
 
-مفهوم «التقاطعية» كُثِّف بأنه «كل شيء» ولا شيء — اتُّهمت كرنشو بـ«توسيع» المفهوم إلى درجة فقد دقته. ردّت في أعمال لاحقة («لم نصل بعد»، On Intersectionality, 2015) بتأكيد «الطابع التحليلي» لا «الطابع الوصفي» للمفهوم.
+مفهوم «التقاطعية» نُقِد بأنه «كل شيء» ولا شيء — اتُّهمت كرنشو بـ«توسيع» المفهوم إلى درجة فقد دقته. وردّت في أعمال لاحقة («عن التقاطعية»، On Intersectionality, 2015) بتأكيد «الطابع التحليلي» لا «الوصفي» للمفهوم.
 
 ## أهم أعمالها
 
-إلغاء الهامشية (Demarginalizing the Intersection, 1989) · رسم خرائط الهوامش (Mapping the Margins, 1991) · لماذا لم يصلنا الإصلاح (Race, Reform, and Retrench, 1988) · عن التقاطع (On Intersectionality, 2015، مع Columbia Law).
+إلغاء الهامشية (Demarginalizing the Intersection, 1989) · رسم خرائط الهوامش (Mapping the Margins, 1991) · العِرق والإصلاح والتراجع (Race, Reform, and Retrenchment, 1988) · عن التقاطعية (On Intersectionality: Essential Writings, 2015).

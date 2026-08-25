@@ -10,10 +10,15 @@ country: "متعدد"
 language: "متعدد"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-dknab", title: "دوغلاس كناب", type: "مفكر"
+- id: "thk-dmueser", title: "كيم ميوزر", type: "مفكر"
+- id: "thk-dhanna", title: "فرانك غولدشتاين", type: "مفكر"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "con-psychoeducation", title: "التثقيف النفسي (Psychoeducation)", type: "مفهوم"
 gaps:
   - "الفرق بين 'psychoeducation' كتدخل مستقل ومكون داخل علاجات أخرى يستحق توثيقاً."
   - "تاريخ 'family psychoeducation' (McFarlane، Anderson) يستحق مصدراً."

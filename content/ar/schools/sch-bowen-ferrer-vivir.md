@@ -13,13 +13,14 @@ language: "الكيتشوا، الأيمارا، الإسبانية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفات السكان الأصليين المعاصرة", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مظلة"
 related:
-  - id: "sch-interculturalidad", title: "فلسفة العبور الثقافي", type: "مدرسة"
-  - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
-  - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-interculturalidad", title: "فلسفة العبور الثقافي", type: "مدرسة"
+- id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
 gaps:
   - "نصوص Alberto Acosta, Eduardo Gudynas, Javier Medina, Satya Chávez need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة بوين فيفير / سومَك كاوساي (Buen Vivir / Sumak Kawsay)

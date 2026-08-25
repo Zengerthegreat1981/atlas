@@ -9,9 +9,11 @@ en: "Kurt Lewin's Leadership Climates Experiment"
 crumb: "علم النفس الاجتماعي والتنظيمي ← الدراسات والأبحاث ← دراسة ليفين للأنماط القيادية"
 active_start: 1938
 active_end: 1939
-edges: []
+edges:
+  []
 related:
-  - id: "stu-stanford-prison", title: "تجربة سجن ستانفورد", type: "دراسة وبحث"
+- id: "thk-sasch", title: "سولومون آش", type: "مفكر"
+- id: "stu-stanford-prison", title: "تجربة سجن ستانفورد", type: "دراسة وبحث"
 gaps:
   - "رابط مقترح لـ«كيرت ليفين» (thk-lewin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث ليفين وليبت ووايت (Lewin, Lippitt & White 1939) على نوادي الفتيان لصناعة الأقنعة."

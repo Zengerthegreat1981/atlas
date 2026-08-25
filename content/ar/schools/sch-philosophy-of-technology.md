@@ -13,10 +13,12 @@ language: "الألمانية، الإنجليزية"
 active_start: 1877
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
+- id: "con-gestell", title: "الإطار (Gestell)", type: "مفهوم"
+- id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (Die Frage nach der Technik)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«ميشيل فوكو» (sch-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Ernst Kapp, Lewis Mumford, Jacques Ellul, Martin Heidegger, Gilbert Simondon, Bernard Stiegler, Gilbert Hottois, Don Ihde, Peter-Paul Verbeek need review."

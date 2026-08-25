@@ -6,16 +6,24 @@ level: "مبتدئ"
 title: "المعنى واللامعنى"
 en: "Meaning and meaninglessness"
 crumb: "المدرسة الوجودية ← المفاهيم ← المعنى واللامعنى"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-  - id: "dbt-meaning-found", title: "هل يُكتشَف؟", type: "جدل"
-  - id: "thk-langle", title: "لانغله", type: "مفكر"
+- id: "thk-frankl", title: "فرانكل", type: "مفكر"
+- id: "dbt-meaning-found", title: "هل يُكتشَف؟", type: "جدل"
+- id: "thk-langle", title: "لانغله", type: "مفكر"
+- id: "stu-meaning-making-model-park", title: "نموذج صنع المعنى (Meaning Making Model)", type: "دراسة وبحث"
+- id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
+- id: "ins-sources-of-meaning-some", title: "استبيان مصادر المعنى (SoMe)", type: "أداة قياس"
+- id: "br-psychocoaching", title: "التدريب النفسي / Psy-coaching", type: "تيار"
+- id: "ctx-stoicism", title: "الفلسفة الرواقية", type: "سياق/تقليد"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # المعنى واللامعنى
 
 المفهوم الذي انشقّت عليه المدرسة مؤسسياً، لا نظرياً فقط.

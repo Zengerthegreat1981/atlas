@@ -11,20 +11,20 @@ dates: "Helen Kaplan & Lonnie Barbach · 1970s"
 active_start: 1976
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-  - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "البروتوكولات المكيّفة للنساء ذوات الإعاقة الحركية أو الحسية أو صعوبات التعلّم لم تُفصَّل."
   - "معدلات النجاح المبلَّغة في المراجعات الحديثة مقابل نتائج Kaplan الأصلية لم تُقارَن."
   - "الحساسية الثقافية (تطبيق التقنية في سياقات محافظة) لم تُغطَّ."
   - "الجمع بين Directed Masturbation وعلاج العلائقية (EFT-sexual) في الدراسات لم يُفصَّل."
 ---
-
 # التدريب الموجّه على الاستمناء (Directed Masturbation)
 
 تقنية علاجية طوّرتها Helen Kaplan و Lonnie Barbach في السبعينيات، لعلاج اضطرابات النشوة الأنثوية (anorgasmia)، خاصةً الأنواع الأولية (primary) حيث لم تختبر المرأة النشوة أبداً. تتكون من مراحل متدرّجة تُعلّم المرأة التعرّف على جسدها، استكشاف المناطق الحساسة، بلوغ الإثارة، ثم النشوة، بشكل موجّه من المعالج.

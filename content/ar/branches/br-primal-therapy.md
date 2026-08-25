@@ -11,12 +11,16 @@ dates: "لوس أنجلوس · 1967–1980"
 active_start: 1967
 active_end: 1980
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
-  - rel: "developed_by", target: "آرثر يانوف", target_type: "مفكر"
+- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-ajanov", target_type: "مفكر"
 related:
-  - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
-  - id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
+- id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ انحسار الحركة (1980s) لم يُوثّق بدقة كافية."
   - "ادعاءات يانوف حول نسبة النجاح لم تُحقق تجريبياً."

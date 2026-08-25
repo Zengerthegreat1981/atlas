@@ -13,12 +13,14 @@ language: "العبرية، الآرامية"
 active_start: 1150
 active_end: 1750
 edges:
-  - rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "اللاهوت السلبي / الأبوفاتي", target_type: "مدرسة"
+- rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-apophatic", target_type: "مدرسة"
 related:
-  - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-  - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
-  - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
+- id: "thk-azriel-of-gerona", title: "عزريئيل بن مناحيم من جيرونا", type: "مفكر"
+- id: "con-sefirot", title: "السفيرة (الصفات الإلهية العشر)", type: "مفهوم"
 gaps:
   - "نصوص الزوهار والآراء لا تزال محلّ جدل نقدي (هل الزوهار لإسحاق الأعمى أم لموشيه دي ليون؟)."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'تيكونون' أو 'حياة العالمين'."

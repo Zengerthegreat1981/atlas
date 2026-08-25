@@ -13,17 +13,17 @@ language: "اليونانية (القديمة/الوسطى)، اللاتينية
 active_start: -387
 active_end: 529
 edges:
-  - rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
-  - rel: "evolved_into", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
-  - rel: "evolved_into", target: "الشك الأكاديمي", target_type: "مدرسة"
-  - rel: "evolved_into", target: "الأفلاطونية المحدثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-  - id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
-  - id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-  - id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
-  - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-  - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-  - id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
 gaps:
   - "حوارات أفلاطون (36 حواراً) لم تَعِد المذهب بشكل موحّد — 'الأكاديمية الأولى' فيها تطور واضح."
   - "الكتب التي كُتبت داخل الأكاديمية (Polyclaus, Speusippus) فُقدت؛ وصلتنا عناوينها فقط."

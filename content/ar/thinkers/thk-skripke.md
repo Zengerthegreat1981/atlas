@@ -13,9 +13,11 @@ language: "الإنجليزية"
 active_start: 1959
 active_end: 2020
 edges:
-  - rel: "belongs_to", target: "الميتافيزيقا التحليلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الميتافيزيقا التحليلية المعاصرة", target_type: "مدرسة"
 related:
-  - id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
+- id: "wrk-naming-necessity", title: "التسمية والضرورة (Naming and Necessity)", type: "عمل / كتاب"
+- id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
+- id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
 gaps:
   - "الفرق بين 'الضرورة الميتافيزيقية' و'الضرورة الفيزيائية' لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'التسمية والضرورة' (1980)."

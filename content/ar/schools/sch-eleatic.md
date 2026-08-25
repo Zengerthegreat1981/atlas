@@ -13,14 +13,14 @@ language: "اليونانية"
 active_start: -540
 active_end: -440
 edges:
-  - rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
-  - rel: "superseded_by", target: "الأكاديمية الأفلاطونية", target_type: "مدرسة"
-  - rel: "superseded_by", target: "الشك الأكاديمي", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-academic-skepticism", target_type: "مدرسة"
 related:
-  - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-  - id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
-  - id: "sch-heraclitean", title: "الهيراقليطية", type: "مدرسة"
-  - id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
+- id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
+- id: "sch-heraclitean", title: "الهيراقليطية", type: "مدرسة"
+- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
 gaps:
   - "لا نعرف الكثير عن بارمنيدس نفسه كشخص؛ معلوماتنا عنه متأخرة وفيها كثير من الحشو الأسطوري."
   - "لا توجد نصوص كاملة لزينون الإيلي أو ميليسوس — وصلتنا شذرات فقط."

@@ -13,19 +13,20 @@ active_end: 1624
 country: "إمبراطورية مغول الهند"
 language: "الفارسية (مع العربية)"
 edges:
-  - rel: "belongs_to", target: "وحدة الشهود", target_type: "مدرسة"
+- rel: "belongs_to", target: "وحدة الشهود", target_type: "مدرسة"
 related:
-  - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
-  - id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
-  - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لـ'وحدة الشهود' في 'الرسالة الأشرفية' موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'مكاتب'."
+  - "هوية الملف: الـslug `thk-ahmad-sirhindi` يشير إلى Imam Rabbani Ahmad Sirhindi (Mujaddid Alf-i Thani). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # الشيخ أحمد السرهندي (Imam Rabbani)
 
-«المجدد الثاني» (Mujaddid Alf-i Thani)، أكبر منظّر صوفي في الهند المغولية، ومؤسس «وحدة الشهود» (Wahdat al-Shuhud) كنقد لـ«وحدة الوجود» (Wahdat al-Wujud) عند ابن عربي. وُلد في سرهند (البنجاب)، وتتلمذ على يد أكبر النقشبندية (باي زيد البسطامي).
+«المجدد الثاني» (Mujaddid Alf-i Thani)، أكبر منظّر صوفي في الهند المغولية، ومؤسس «وحدة الشهود» (Wahdat al-Shuhud) كنقد لـ«وحدة الوجود» (Wahdat al-Wujud) عند ابن عربي. وُلد في سرهند (البنجاب)، وتتلمذ على يد شيخ النقشبندية في دلهي خواجه باقي بالله.
 
 ## ما أعطاه
 

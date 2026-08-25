@@ -11,17 +11,28 @@ active_start: 1975
 active_end: "مستمر"
 country: "كندا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed", target: "العلاج بالانفعال المركّز", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج المتمحور حول المشاعر (EFT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "developed", target: "br-emotion-focused-therapy", target_type: "تيار"
 related:
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "tec-process-experiential", title: "العلاج الانفعالي-التجريبي (جرينبرغ، رايس)", type: "تقنية/تدخل علاجي"
+- id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
+- id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
+- id: "thk-lrice", title: "لورا رايس", type: "مفكر"
+- id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "con-two-chair-dialogue", title: "تقنية الكرسيين", type: "مفهوم"
+- id: "con-empty-chair", title: "تقنية الكرسي الفارغ", type: "مفهوم"
+- id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
+- id: "tec-process-experiential-tasks", title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ الميلاد الدقيق لغرينبرغ (1945) تقريبي ولم يُراجع من مصدر أولي."
   - "نسبة «النظرية البنائية للانفعالات» إلى تعاون مع «ستيفن لايفلي» كانت غير موثّقة وأُزيلت؛ تحتاج مصدراً قبل إعادة إدراجها."
+  - "الـslug (greenberg-lisa) أثرٌ باقٍ من الخطأ القديم الذي كان يجعله امرأة اسمها «ليزا»؛ تصحيحه قرار تحريري لأنه يكسر الروابط."
 ---
 
 # ليزلي س. غرينبرغ
@@ -42,15 +53,17 @@ gaps:
 
 ## أهم أعماله
 
-- *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings* (2002، مع رايس ويلسون).
+- *Facilitating Emotional Change: The Moment-by-Moment Process* (1993، مع لورا رايس وروبرت إليوت) — المرجع التقني الأول.
+- *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings* (2002).
 - *Emotion-Focused Therapy of Depression* (2006) — تطبيق النموذج على الاكتئاب.
-- *Changing Emotion with Emotion: Leading Couples to Successful Communication* (2012، مع جونسون) — امتداد للعلاج الزوجي.
+- *Emotionally Focused Therapy for Couples* (1988، مع سو جونسون) — الأصل الذي تفرّع عنه لاحقاً العلاج الزوجي المتمركز حول الانفعال.
+- *Changing Emotion with Emotion: A Practitioner's Guide* (2021) — صياغته المتأخّرة لمبدئه المركزي: لا يُغيَّر الانفعال بالفكر بل بانفعال آخر يُستحضَر مكانه.
 
 ## قيد
 
 يُخلط أحياناً بينه وبين جيف غرينبرغ (Jeff Greenberg) في علم النفس الاجتماعي (نظرية إدارة الرعب)، وكذا جاي غرينبرغ (Jay Greenberg) في التحليل النفسي العلائقي (thk-greenberg في الفهرس)، رغم اختلاف المجالات الثلاثة تماماً.
 
-## أفكار روابط لم تُتحقق
+## اقتراحات ربط (ملاحظة تحريرية)
 
 - "النظرية البنائية للانفعالات" تستحق عنصر `con-` أو `wrk-` مستقل.
 - "مهام علاجية بالانفعال" تستحق عنصر `tec-` مستقل يميّزها عن تقنية الكرسي الفارغ الجشطلتية.

@@ -13,14 +13,14 @@ language: "الإنجليزية، السنسكريتية، البنغالية، 
 active_start: 1815
 active_end: 1947
 edges:
-  - rel: "evolved_into", target: "نيو-فيدانتا (الفيدانتا الحديثة)", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الفلسفة الهندوسية المعاصرة", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-neo-vedanta", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الهندوسية المعاصرة", target_type: "مظلة"
 related:
-  - id: "thk-dayananda", title: "سوامي داياناندا سراسواتي", type: "مفكر"
-  - id: "thk-vivekananda", title: "سوامي فيفكاناندا", type: "مفكر"
-  - id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
-  - id: "thk-tagore", title: "رابندرانات طاغور", type: "مفكر"
-  - id: "thk-gandhi", title: "موهانداس غاندي", type: "مفكر"
+- id: "thk-dayananda", title: "سوامي داياناندا سراسواتي", type: "مفكر"
+- id: "thk-vivekananda", title: "سوامي فيفكاناندا", type: "مفكر"
+- id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
+- id: "thk-tagore", title: "رابندرانات طاغور", type: "مفكر"
+- id: "thk-gandhi", title: "موهانداس غاندي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«رام موهان روي» (thk-rammohanroy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات 'بنارسيداس' (Banarsidas Chintamani) في 'حركة الإصلاح' لم تُغطَ في الملف."

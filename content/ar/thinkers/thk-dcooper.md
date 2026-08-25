@@ -11,14 +11,15 @@ active_start: 1967
 active_end: 1974
 country: "جنوب أفريقيا / بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-basaglia", title: "فرانكو بازاليا", type: "مفكر"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-basaglia", title: "فرانكو بازاليا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مصطلح 'الطب النفسي المضاد' (Anti-Psychiatry) الذي صاغه كوبر يحتاج توثيقاً تاريخياً مستقلاً."
@@ -42,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-الطب النفسي والطب النفسي المضاد (Psychiatry and Anti-Psychiatry, 1967) · موت الأسرة (The Death of the Family, 1971) · قواعد التحرر (The Grammar of Living, 1974).
+الطب النفسي والطب النفسي المضاد (Psychiatry and Anti-Psychiatry, 1967) · موت الأسرة (The Death of the Family, 1971) · نحو العيش (The Grammar of Living, 1974).

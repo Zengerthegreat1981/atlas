@@ -11,10 +11,12 @@ dates: "السبعينيات"
 active_start: 1979
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-psychodrama", title: "السيكودراما (مورينو)", type: "تقنية/تدخل علاجي"
+- id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
+- id: "tec-psychodrama", title: "السيكودراما (مورينو)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التمييز الدقيق بين العلاج بالدراما (استخدام المجاز والقصص والأقنعة الخيالية المسافية) والسيكودراما (تمثيل السيرة الواقعية المباشرة للمريض)."
   - "نموذج الأدوار لروبرت لاندي (Robert Landy's Role Theory) ومفهوم المسافة الجمالية (Aesthetic Distance)."

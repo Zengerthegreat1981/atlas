@@ -10,22 +10,24 @@ crumb: "المدرسة الوجودية ← التيارات ← التحليل 
 dates: "سويسرا وألمانيا · من الثلاثينيات"
 active_start: 1930
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "part_of", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "influenced_by", target: "هايدجر", target_type: "مفكر"
-  - rel: "developed_by", target: "بينسوانغر وبوس", target_type: "مفكرون"
-  - rel: "contrasts_with", target: "الإنساني-الوجودي الأمريكي", target_type: "تيار"
-  - rel: "influenced", target: "الظاهراتية النفسية المرضية", target_type: "حقل"
+- rel: "part_of", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "influenced_by", target: "هايدجر", target_type: "مفكر"
+- rel: "developed_by", target: "بينسوانغر وبوس", target_type: "مفكرون"
+- rel: "contrasts_with", target: "br-humanistic", target_type: "تيار"
+- rel: "influenced", target: "rel-phenopath", target_type: "حقل"
 related:
-  - id: "thk-binswanger", title: "بينسوانغر", type: "مفكر"
-  - id: "thk-boss", title: "بوس", type: "مفكر"
-  - id: "dbt-boss-binswanger", title: "خصومتهما", type: "جدل"
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة"
-  - id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
+- id: "thk-binswanger", title: "بينسوانغر", type: "مفكر"
+- id: "thk-boss", title: "بوس", type: "مفكر"
+- id: "dbt-boss-binswanger", title: "خصومتهما", type: "جدل"
+- id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+- id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
+- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
 gaps:
   - "المصادر الأولية بالألمانية والفرنسية وترجماتها — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # التحليل الوجودي والدازاين
 
 أقدم التيارات وأقربها إلى الفلسفة، وأبعدها عن التقنية. من يقرأ الوجودية من هذا الباب يجدها شيئاً مختلفاً تماماً عمّا يعرفه قارئ يالوم.

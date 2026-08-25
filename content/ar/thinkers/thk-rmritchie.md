@@ -10,13 +10,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية، الألمانية"
 active_start: 1964
 active_end: 2019
+part: "psychology"
+crumb: "الأطلس ← thinkers ← رالف ميتزner"
 edges:
-  - rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
 related:
-  - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
-  - id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
+- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
+- id: "thk-cgrof", title: "كريستينا غروف", type: "مفكر"
+- id: "thk-jlilly", title: "جون لِلي", type: "مفكر"
+- id: "thk-wrichards", title: "وليام ريتشاردز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # رالف ميتزner

@@ -9,11 +9,17 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فيرا بو�
 dates: "جنوب أفريقيا · 1910s–2000s"
 country: "جنوب أفريقيا"
 language: "الإنجليزية / الألمانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
+- id: "thk-lvdpost", title: "لورنز فان دير بوست", type: "مفكر"
+- id: "thk-ramsden", title: "رينيه رامسدن", type: "مفكر"
+- id: "thk-saberg-abramovitz", title: "أَسْترِيد بِرغ وكارول أبراموفيتش", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تواريخ ميلادها ووفاتها الدقيقة — غير مؤكدة في المصادر المتاحة."

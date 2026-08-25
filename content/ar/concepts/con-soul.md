@@ -11,13 +11,15 @@ dates: "من السبعينيات"
 active_start: 1975
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
-  - id: "thk-tmoore", title: "توماس مور", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
+- id: "thk-tmoore", title: "توماس مور", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "br-curanderismo", title: "الشفاء الشعبي (Curanderismo)", type: "تيار"
 gaps:
   - "التمييز بين 'الأنا والروح' و'النفس والعمق' في علم نفس الأركيتيب لهيلمان."
   - "الجدل بين صنع النفس الظاهراتي والتأويل المنطقي الباطني عند غيغيريش."

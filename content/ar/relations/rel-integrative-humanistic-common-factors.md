@@ -8,14 +8,16 @@ en: "Integrative Therapy (Common Factors) and Humanistic: The Original Mother"
 crumb: "التكاملية (العامل المشترك) ← العلاقات ← التكاملية (العامل المشترك) والإنسانية"
 active_start: 1942
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
-  - rel: "relates_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "rel-neuropsychoanalysis", title: "علم النفس العصبي والتحليل النفسي: من Solms إلى Panksepp", type: "علاقة بين مدرستين"
 gaps:
   - "ما إذا كان روجرز قد قرأ Wampold — لا (توفي 1987 قبل Wampold 2001)."
   - "دور الشخصية (Personality) في العلاقة العلاجية — McAdams (1993+) — لم يُحلّل."

@@ -1,7 +1,7 @@
 ---
 slug: "con-complex-ptsd"
-id: "THK-2157"
-type: "مفكر"
+id: "CON-1256"
+type: "مفهوم"
 level: "متوسط"
 title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)"
 en: "Complex Post-Traumatic Stress Disorder (C-PTSD)"
@@ -10,11 +10,15 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 1992
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-stair-nt", title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات (STAIR-NT)", type: "تقنية/تدخل علاجي"
+- id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-depersonalization-derealization", title: "اضطراب تبدّد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-stair-nt", title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات (STAIR-NT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الصياغة الأصلية تعود إلى جوديث هرمان (Judith Herman) في كتابها «الصدمة والتعافي» (1992)."
   - "إدراج C-PTSD رسمياً في ICD-11 (2018) — اضطراب منفصل عن PTSD."

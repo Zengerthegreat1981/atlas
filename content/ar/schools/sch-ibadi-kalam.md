@@ -13,11 +13,11 @@ language: "العربية"
 active_start: 680
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
+- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
-  - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
-  - id: "sch-zaydi-kalam", title: "الكلام الزيدي", type: "مدرسة"
-  - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "sch-zaydi-kalam", title: "الكلام الزيدي", type: "مدرسة"
+- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 gaps:
   - "التفريق بين الإباضية الأوائل (الفرقة الناجية) وبين الإباضية المهيِّئة اللاحقة (الذين شكلوا إمامة عمان) غير واضح في كل المصادر."
   - "لا يوجد اقتباس مباشر موثوق متاح من كتاب «الدعامة» لأبي عبد الله محمد بن بركة الإباضي."

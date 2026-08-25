@@ -8,10 +8,15 @@ en: "Yoga Therapy"
 crumb: "أطر غير غربية ← المفاهيم ← علاج اليوغا"
 active_start: 1960
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج اليوغا (Yoga Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-yoga-therapy-concept", target_type: "مدرسة"
 related:
-  - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "المؤسسون الرئيسيون (B.K.S. Iyengar، Swami Satchidananda) لم تُكتب لهم مسودات."
   - "لا يوجد اقتباس مباشر موثوق متاح."

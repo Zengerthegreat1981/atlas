@@ -14,11 +14,11 @@ active_start: 1641
 active_end: 1862
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الاستيعاب الياباني للغرب (مظلة)", target_type: "مظلة"
-  - rel: "evolved_into", target: "استيعاب معارف ما بعد ميجي", target_type: "مظلة"
+- rel: "belongs_to", target: "الاستيعاب الياباني للغرب (مظلة)", target_type: "مظلة"
+- rel: "evolved_into", target: "استيعاب معارف ما بعد ميجي", target_type: "مظلة"
 related:
-  - id: "sch-kokugaku", title: "كوكوغاكو", type: "مدرسة"
-  - id: "sch-mitogaku", title: "ميتوغاكو", type: "مدرسة"
+- id: "sch-kokugaku", title: "كوكوغاكو", type: "مدرسة"
+- id: "sch-mitogaku", title: "ميتوغاكو", type: "مدرسة"
 gaps:
   - "الفاصل بين رانغاكو كحركة علمية تقنية وكحركة فلسفية معرفية (بعد فوكوزاوا يوكيتشي) يصعب تحديده."
   - "دور الساموراي العلماء (Shijuku / Juku) في نقل رانغاكو لم يُوثّق بشكل كافٍ هنا."

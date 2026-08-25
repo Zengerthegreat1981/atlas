@@ -10,10 +10,14 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-pdeegan", title: "باتريشا ديجان", type: "مفكر"
+- id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-dan-fisher", title: "دان فيشر", type: "مفكر"
 gaps:
   - "SAMHSA 10 Guiding Principles (2011) لم تُراجع نصّها الرسمي."
   - "العلاقة بين 'recovery' في مجال الإدمان و'recovery' في الصحة النفسية تستحق توثيقاً."

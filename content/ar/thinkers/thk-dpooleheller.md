@@ -11,11 +11,13 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1999
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
 related:
-  - id: "thk-sporges", title: "ستيفن بورجِس", type: "مفكر"
+- id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 gaps:
+  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

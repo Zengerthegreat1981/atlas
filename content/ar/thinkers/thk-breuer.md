@@ -9,10 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← الجيل ا�
 dates: "النمسا · 1842–1925"
 language: "الألمانية"
 country: "النمسا"
+part: "philosophy"
+active_start: null
+active_end: 1925
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "crt-research-ethics-historical", title: "نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس", type: "نقد خارجي موثَّق"
+- id: "rel-trauma-psychoanalysis", title: "العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم", type: "علاقة بين مدرستين"
 gaps:
   - "التفاصيل الدقيقة لقصة مريضة «آنا أو.» وعلاقتها بانفصال بروير عن فرويد تحتاج توثيقاً من مصدر تاريخي أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

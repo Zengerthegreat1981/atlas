@@ -11,11 +11,12 @@ dates: "كاليفورنيا · الخمسينيات والستينيات"
 active_start: 1956
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "tec-dance-movement-therapy", title: "العلاج بالرقص والحركة (DMT)", type: "تقنية/تدخل علاجي"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "tec-dance-movement-therapy", title: "العلاج بالرقص والحركة (DMT)", type: "تقنية/تدخل علاجي"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
 gaps:
   - "تطوير ماري ستاركس وايتهاوس (Mary Starks Whitehouse) للمنهج وتسميته الأصلية 'الحركة بعمق' (Movement-in-Depth) كتطبيق جسدي للخيال النشط اليونغي."
   - "ثنائية 'المتحرك' (Mover: مغمض العينين ومستجيب للنبض الداخلي) و'الشاهد الحاضر' (Witness: المحتوي غير الحاكم)."

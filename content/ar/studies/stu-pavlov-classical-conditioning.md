@@ -8,10 +8,13 @@ en: "Pavlov's Original Classical Conditioning and Conditioned Reflex Experiments
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب بافلوف في الإشراط الكلاسيكي"
 active_start: 1897
 active_end: 1927
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-  - id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
+- id: "axm-classical-conditioning", title: "بديهية الإشراط الكلاسيكي", type: "بديهية/مبدأ تأسيسي"
+- id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
+- id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
 gaps:
   - "التفاصيل الفسيولوجية لآليات تثبيط القشرة المخية التي صاغها بافلوف تحتاج مراجعة وفق علم الأعصاب الحديث"
   - "تطبيقات الإشراط التقييمي والإشراط المناعي المعاصرة تتطلب توثيقاً إضافياً"

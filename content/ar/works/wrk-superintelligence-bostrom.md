@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 2014
 active_end: 2014
 edges:
-  - rel: "belongs_to", target: "الإنسانية العابرة (Transhumanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transhumanism", target_type: "مدرسة"
 related:
-  - id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
-  - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
+- id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
+- id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press الأصلية (2014)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الذكاء الخارق (Superintelligence, 2014)

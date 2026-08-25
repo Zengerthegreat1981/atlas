@@ -9,10 +9,11 @@ en: "Positive and Negative Syndrome Scale (PANSS)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس المتلازمة الإيجابية والسلبية لتقييم الفصام"
 active_start: 1987
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
-  - id: "ins-bprs", title: "مقياس التقييم النفسي السريري الموجز", type: "أداة قياس"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-bprs", title: "مقياس التقييم النفسي السريري الموجز", type: "أداة قياس"
 gaps:
   - "أبحاث ستانلي كاي وأولستيد وفيزبين (Stanley Kay et al. 1987) والمقابلة النمطية المقننة (SCI-PANSS)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,10 +9,13 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرويديو
 dates: "أمريكا · 1893–1953"
 language: "الإنجليزية"
 country: "أمريكا"
+part: "psychology"
+active_start: null
+active_end: 1953
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-kardiner", title: "أبرام كاردينر", type: "مفكر"
+- id: "thk-kardiner", title: "أبرام كاردينر", type: "مفكر"
 gaps:
   - "مفهوم «الدور» و«المكانة» (status & role) عند لينتون وعلاقتها بعلم الاجتماع المعاصر (بارسونز، ميرتون) — تحتاج مراجعة متخصصة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

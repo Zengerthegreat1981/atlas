@@ -14,11 +14,12 @@ active_start: 1728
 active_end: 1868
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الدراسات الوطنية (مظلة)", target_type: "مظلة"
-  - rel: "split_into", target: "ميتوغاكو", target_type: "مدرسة"
+- rel: "belongs_to", target: "الدراسات الوطنية (مظلة)", target_type: "مظلة"
+- rel: "split_into", target: "sch-mitogaku", target_type: "مدرسة"
 related:
-  - id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
-  - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
+- id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
+- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
+- id: "sch-rangaku", title: "رانغاكو (التعلم الهولندي)", type: "مدرسة"
 gaps:
   - "الفاصل بين كوكوغاكو بوصفه منهجاً فقهياً لغوياً (إيدو المبكر) وكوكوغاكو بوصفه فلسفة قومية (إيدو المتأخر) غير محدد بدقة في المراجع الثانوية."
   - "لا اقتباس مباشر موثوق من موتوأوري-نو-ميتشي متاح في هذه المسودة."

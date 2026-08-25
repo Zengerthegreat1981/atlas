@@ -6,11 +6,17 @@ level: "مبتدئ"
 title: "الخزي والذنب"
 en: "Shame and Guilt"
 crumb: "المدرسة الوجودية ← المفاهيم ← الخزي والذنب"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "con-sadness", title: "الحزن", type: "مفهوم"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
+- id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد بعد مصدر عربي إسلامي عن مفهومي الخزي والذنب (الغزالي تناول الخوف من الله وليس الخزي الاجتماعي تحديداً — يحتاج بحث دقيق)"
   - "الفرق بين الخزي السليم والخزي السام (toxic shame) غير مستكشف بعد، وقد يحتاج مصدراً إكلينيكياً متخصصاً"

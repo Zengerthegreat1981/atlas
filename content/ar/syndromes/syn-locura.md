@@ -11,11 +11,11 @@ active_start: 1970
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-brief-psychotic", title: "اضطراب الذهان الوجيز", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-ataque-de-nervios", title: "نوبة الأعصاب", type: "متلازمة"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-brief-psychotic", title: "اضطراب الذهان الوجيز", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-ataque-de-nervios", title: "نوبة الأعصاب", type: "متلازمة"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
 gaps:
   - "الدراسات السيكياترية العابرة للثقافات في ملحق DSM-5-TR."
   - "لا يوجد اقتباس مباشر موثوق متاح."

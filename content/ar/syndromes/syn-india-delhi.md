@@ -11,11 +11,11 @@ active_start: 2000
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-jerusalem", title: "متلازمة القدس", type: "متلازمة"
-  - id: "syn-paris", title: "متلازمة باريس", type: "متلازمة"
-  - id: "dis-brief-psychotic", title: "اضطراب الذهان الوجيز", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-jerusalem", title: "متلازمة القدس", type: "متلازمة"
+- id: "syn-paris", title: "متلازمة باريس", type: "متلازمة"
+- id: "dis-brief-psychotic", title: "اضطراب الذهان الوجيز", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث الطبيب النفسي الفرنسي ريجيس إيرولت (Régis Airault 2000) في السفارة الفرنسية بنيودلهي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

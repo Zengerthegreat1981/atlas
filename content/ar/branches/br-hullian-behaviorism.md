@@ -11,11 +11,15 @@ dates: "جامعة ييل · الأربعينيات"
 active_start: 1943
 active_end: 1965
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "النموذج الرياضي المنطقي الصارم لكلارك هَل (Clark Hull) في كتاب 'مبادئ السلوك' (1943)."
   - "دمج نظرية التعلم السلوكي مع مفاهيم الصراع والتحليل النفسي في أعمال تلاميذه (دولارد وميلر)."

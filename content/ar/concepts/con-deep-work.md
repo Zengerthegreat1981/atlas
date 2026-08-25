@@ -11,10 +11,13 @@ crumb: "علم النفس المعرفي والإنتاجية الرقمية ←
 active_start: 2016
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
 related:
-  - id: "wrk-deep-work", title: "العمل العميق", type: "عمل / كتاب"
-  - id: "thk-cal-newport", title: "كال نيوبورت", type: "مفكر"
+- id: "wrk-deep-work", title: "العمل العميق", type: "عمل / كتاب"
+- id: "thk-cal-newport", title: "كال نيوبورت", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "أبحاث المرونة العصبية حول تكوين الميالين أثناء التدريب المتعمد المركز."
   - "لا يوجد اقتباس مباشر موثوق متاح."

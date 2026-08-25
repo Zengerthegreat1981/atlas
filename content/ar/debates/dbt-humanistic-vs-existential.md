@@ -6,23 +6,26 @@ level: "متوسط"
 title: "الإنسانية في مقابل الوجودية: تكامل أم تعارض؟"
 en: "Humanism vs. Existentialism: Complement or Opposition?"
 crumb: "الإنسانية ← الجدالات ← الإنسانية في مقابل الوجودية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
-  - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "rel-psychoanalysis-humanistic", title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي", type: "علاقة بين مدرستين"
 gaps:
   - "المواقف التفصيلية لماسلو من سارتر في عام 1962 تحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من نص الجدل بعد."
 ---
-
 # الإنسانية في مقابل الوجودية: تكامل أم تعارض؟
 
 جدل تاريخي قديم في «القوة الثالثة» لعلم النفس: هل «العلاج الإنساني» (روجرز، ماسلو) و«العلاج الوجودي» (ماي، يالوم، بوجنتال) هما تيار واحد أم تياران مختلفان؟ ومتى يندمجان ومتى يتباعدان؟

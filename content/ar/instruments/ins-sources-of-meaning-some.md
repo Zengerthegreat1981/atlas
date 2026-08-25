@@ -6,16 +6,20 @@ level: "متقدم"
 title: "استبيان مصادر المعنى (SoMe)"
 en: "Sources of Meaning and Meaning in Life Questionnaire (SoMe)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← استبيان مصادر المعنى SoMe"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-schnell", title: "تاتيانا شنيل", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
-  - id: "ins-mlq", title: "استبيان المعنى في الحياة (MLQ)", type: "أداة قياس"
+- id: "thk-schnell", title: "تاتيانا شنيل", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
+- id: "ins-mlq", title: "استبيان المعنى في الحياة (MLQ)", type: "أداة قياس"
 gaps:
   - "الدليل الفني لاستبيان SoMe (2009) يحتاج مراجعة من المصدر الأولي لتفاصيل الأبعاد."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # استبيان مصادر المعنى (SoMe)

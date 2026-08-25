@@ -6,12 +6,17 @@ level: "متقدم"
 title: "الجسد والعالم"
 en: "Body and World (Todes, 2001)"
 crumb: "المدرسة الوجودية ← الأعمال ← الجسد والعالم (صموئيل توديس)"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-todes", title: "صموئيل توديس", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
-  - id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
+- id: "thk-todes", title: "صموئيل توديس", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+- id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«الجسد» (con-body) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«الظواهرية» (con-phenomenology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

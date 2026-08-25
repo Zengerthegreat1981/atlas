@@ -6,13 +6,16 @@ level: "متقدم"
 title: "نموذج الأبعاد الخمسة للعلاقة العلاجية"
 en: "The Five Dimensions of the Therapeutic Relationship (Clarkson)"
 crumb: "المدرسة الوجودية ← التقنيات ← نموذج الأبعاد الخمسة للعلاقة العلاجية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-clarkson", title: "بيتروسكا كلاركسون", type: "مفكر"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-clarkson", title: "بيتروسكا كلاركسون", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«ما وراء الشخصي» (con-transpersonal) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«اللقاء» (con-encounter) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

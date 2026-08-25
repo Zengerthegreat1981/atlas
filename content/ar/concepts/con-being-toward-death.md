@@ -6,18 +6,20 @@ level: "متقدم"
 title: "الكينونة-نحو-الموت"
 en: "Being-Toward-Death (Sein-zum-Tode)"
 crumb: "المدرسة الوجودية ← المفاهيم ← الكينونة-نحو-الموت"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
-  - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح", type: "أداة قياس"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
+- id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح", type: "أداة قياس"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # الكينونة-نحو-الموت

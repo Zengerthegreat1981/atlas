@@ -9,11 +9,15 @@ crumb: "التحليل النفسي ← الناس ← Kleinian / Bionian ← ل
 dates: "بريطانيا · [غير مؤكد]"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

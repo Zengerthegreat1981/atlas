@@ -11,13 +11,14 @@ active_start: 1956
 active_end: 1959
 country: "هولندا"
 language: "الهولندية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "con-time", title: "الزمن", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نظريته في الميتابليتيكا (علم التغير التاريخي للوجود الإنساني) تحتاج توثيقاً أعمق لأثرها الإكلينيكي على العلاج النفسي."

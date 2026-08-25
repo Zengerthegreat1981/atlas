@@ -13,14 +13,14 @@ language: "التبتية، السنسكريتية"
 active_start: 1034
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فاجرايانا / البوذية التانترية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "نينغما", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vajrayana", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-nyingma", target_type: "مدرسة"
 related:
-  - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-  - id: "sch-nyingma", title: "نينغما", type: "مدرسة"
-  - id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
-  - id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
+- id: "sch-nyingma", title: "نينغما", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
+- id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
 gaps:
   - "نصوص Sakya Pandita (Lamdre، Treasury of Logic) وGorampa تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين المنطق السكياي والمنطق المادهياماكي للفلسفة البوذية يستحق بحثاً مستقلاً."

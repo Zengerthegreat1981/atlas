@@ -14,18 +14,22 @@ active_start: 1843
 active_end: 1855
 active_source: "lifespan"
 edges:
-  - rel: "evolved_into", target: "الوجودية (كمظلة)", target_type: "مظلة"
-  - rel: "belongs_to", target: "الهيغلية اليسارية / هيغليو الشباب", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-hegel-left", target_type: "مظلة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "met-kierkegaard-leap-of-faith", title: "قفزة الإيمان لكيركغارد: استعارة الانتقال الوجودي فوق سبعين ألف قامة", type: "استعارة/مجاز مؤسِّس"
+- id: "que-teleological-suspension-of-ethical", title: "هل يجوز تعليق الواجب الأخلاقي استجابة لنداء روحي أو غاية عليا؟", type: "سؤال توليدي"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«هانس لاسن مارتنزن» (thk-martensen) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات مايغرن (Martensen) في 'الأخلاق' (1878) وقصة علاقته بكيركيغارد لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # الكيركغاردية (Kierkegaardianism)
 
 تيار فلسفي مسيحي أسسه سورين كيركيغارد (1813–1855) في كوبنهاغن، وقوامه نقد «النظام» الهيغلي لصالح **الفرد**، ونقد «المسيحية المؤسسة» لصالح **الإيمان الوجودي**. لم تبنِ أكاديمياً في حياة مؤسسها، لكنها تُعتَبر اليوم البذرة الأولى للوجودية الدينية المعاصرة.

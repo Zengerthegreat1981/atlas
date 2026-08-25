@@ -8,9 +8,11 @@ en: "Rosenzweig, Bennett & Diamond Enriched Environment Brain Plasticity Studies
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات روزنزفايج للبيئة الغنية ولدونة الدماغ"
 active_start: 1962
 active_end: 1972
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "التطبيقات المعاصرة للبيئة المعززة في إعادة التأهيل العصبي بعد السكتات الدماغية والشيخوخة تحتاج توثيقاً"
   - "التغيرات في نمو التفرعات الشجيرية والخلايا الدبقية التي وثقتها ماريان دياموند تتطلب تفصيلاً مجهرياً"

@@ -9,11 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← سوني شم�
 dates: "بريطانيا (سنغافوري الأصل) · مواليد 1962"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-jbissel", title: "ج. غاري بيسّل", type: "مفكر"
+- id: "thk-cambray", title: "جوزيف كامبري", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نشر Black Books (2020) — قد يستحق عنصر منفصل في الأطلس (عمل)."

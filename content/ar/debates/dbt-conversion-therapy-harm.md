@@ -8,16 +8,19 @@ en: "Conversion Therapy: Helpful or Harmful?"
 crumb: "حركات مثيرة للجدل ← الجدالات ← العلاج بالتحويل"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالتحويل (Conversion Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-conversion-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
-  - id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
+- id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
+- id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
+- id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "قائمة المستبعدين الكاملة (NARTH، Exodus) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # جدل العلاج بالتحويل: مفيد أم ضار؟
 
 جدل حاد ومتواصل منذ السبعينيات بين **مؤيدي العلاج بالتحويل** (Conversion Therapy / Reparative Therapy) و**معارضيه**.

@@ -8,15 +8,21 @@ en: "Neo-Freudianism"
 crumb: "التحليل النفسي ← المفاهيم ← الفرويدية الجديدة"
 dates: "1930s-اليوم"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "هورني، فروم، سوليفان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "هورني، فروم، سوليفان", target_type: "مفكر"
 related:
-  - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-  - id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
+- id: "thk-khorney", title: "كارين هورني", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفرويدية الجديدة (Neo-Freudian)

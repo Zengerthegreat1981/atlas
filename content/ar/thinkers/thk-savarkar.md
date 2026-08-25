@@ -13,9 +13,12 @@ language: "الهندية، المراثية، الإنجليزية"
 active_start: 1923
 active_end: 1966
 edges:
-  - rel: "belongs_to", target: "الفلسفة الهندوسية القومية (هندوتفا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الهندوسية القومية (هندوتفا)", target_type: "مدرسة"
 related:
-  - id: "sch-hindutva", title: "الفلسفة الهندوسية القومية (هندوتفا)", type: "مدرسة"
+- id: "wrk-essentials-hindutva", title: "أصول الهندوتفا (Essentials of Hindutva)", type: "عمل / كتاب"
+- id: "con-hindutva", title: "هندوتفا (الهندوسية كقومية)", type: "مفهوم"
+- id: "sch-hindutva", title: "الفلسفة الهندوسية القومية (هندوتفا)", type: "مدرسة"
+- id: "dbt-hindutva-vs-secularism-india", title: "هندوتفا ضد العلمانية الهندية: هل العلمانية حياد أم تَغريب ثقافي؟", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة *Essentials of Hindutva* الأصلية (1923) ولا طبعة سافاركار سماراك (2016)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

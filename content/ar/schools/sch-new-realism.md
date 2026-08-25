@@ -13,12 +13,14 @@ language: "الإنجليزية"
 active_start: 1910
 active_end: 1930
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "superseded_by", target: "الذرية المنطقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-logical-atomism", target_type: "مدرسة"
 related:
-  - id: "thk-brussell", title: "برتراند راسل", type: "مفكر"
-  - id: "thk-rperry", title: "رالف بارتون بيرّي", type: "مفكر"
-  - id: "thk-eholt", title: "إدوين هولت", type: "مفكر"
+- id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
+- id: "thk-rperry", title: "رالف بارتون بيرّي", type: "مفكر"
+- id: "thk-eholt", title: "إدوين هولت", type: "مفكر"
+- id: "con-sense-datum", title: "البيانات الحسية (Sense-Datum)", type: "مفهوم"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«جورج سانتيانا» (thk-santayana) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جورج إدوارد مور» (thk-moore) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -13,11 +13,12 @@ language: "الألمانية (مزدوجي اللغة)، العبرية (للن
 active_start: 1740
 active_end: 1880
 edges:
-  - rel: "evolved_from", target: "فلسفة التنوير", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الآبائية اليهودية الوسيطة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
+- rel: "evolved_from", target: "الآبائية اليهودية الوسيطة", target_type: "مدرسة"
 related:
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "sch-judaism-reform", title: "اليهودية الإصلاحية", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-judaism-reform", title: "اليهودية الإصلاحية", type: "مدرسة"
+- id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"
 gaps:
   - "نصوص مندلسون وشولِم ألكسندر بالعبرية والألمانية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Über die bürgerliche Verbesserung der Juden' أو 'Jerusalem'."

@@ -10,11 +10,16 @@ dates: "1896 · إدوارد تيتشنر"
 active_start: 1896
 active_end: 1896
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "البنيوية في علم النفس", target_type: "مدرسة"
-  - rel: "authored_by", target: "إدوارد تيتشنر", target_type: "مفكر"
+- rel: "belongs_to", target: "البنيوية في علم النفس", target_type: "مدرسة"
+- rel: "authored_by", target: "إدوارد تيتشنر", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الكتاب صدر 1896، أي قبل تأسيس Titchener لمختبره في كورنيل (1898) — حدود تأثيره على تأسيس البنيوية الفعلية لم تُراجع بدقة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Titchener في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

@@ -11,10 +11,11 @@ active_start: 1950
 active_end: 1950
 language: "الفرنسية"
 country: "فرنسا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 gaps:
   - "تفاصيل عمله لاحقاً في مدرسة لاكان التحليلية غير مفصّلة هنا — تحتاج مراجعة مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."

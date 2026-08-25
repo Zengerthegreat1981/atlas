@@ -10,11 +10,13 @@ crumb: "الفلسفة ← الصين ← الموهية ← الإحسان ال
 active_start: -430
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الموهية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mohism", target_type: "مدرسة"
 related:
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
-  - id: "thk-mozi", title: "مو زي", type: "مفكر"
-  - id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "thk-mozi", title: "مو زي", type: "مفكر"
+- id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الفرق بين جيان آي في 'Mozi' وفي كتابات 'Later Mohists' لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

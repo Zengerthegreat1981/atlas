@@ -11,10 +11,12 @@ dates: "سياتل · من الثمانينيات"
 active_start: 1986
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
+- id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
+- id: "tec-prep-program", title: "برنامج تعزيز العلاقات والوقاية من التفكك (PREP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "أبحاث 'مختبر الحب' (Love Lab) لجون وجولي غوتمان (John & Julie Gottman) والتنبؤ بالطلاق بدقة 90%."
   - "فرسان الهلاك الأربعة (النقد، الازدراء، الدفاعية، والمماطلة/الجدار العازل Stonewalling) ومضاداتها السلوكية."

@@ -13,27 +13,36 @@ language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة (Third Wave)", target_type: "تيار"
-  - rel: "evolved_from", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "السياقلية الوظيفية (Functional Contextualism)", target_type: "تيار"
-  - rel: "founded_by", target: "ستيفن هايز", target_type: "مفكر"
-  - rel: "founded_by", target: "كليفورد هاريس", target_type: "مفكر"
-edges:
-  - rel: "belongs_to", target: "الموجة الثالثة من الموجات المعرفية-السلوكية (Third Wave)", target_type: "تيار"
-  - rel: "evolved_from", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "السياقلية الوظيفية (Functional Contextualism)", target_type: "تيار"
-  - rel: "founded_by", target: "ستيفن س. هايز", target_type: "مفكر"
-  - rel: "founded_by", target: "كليفورد ن. هاريس", target_type: "مفكر"
+- rel: "belongs_to", target: "الموجة الثالثة (Third Wave)", target_type: "تيار"
+- rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "evolved_from", target: "السياقلية الوظيفية (Functional Contextualism)", target_type: "تيار"
+- rel: "founded_by", target: "ستيفن هايز", target_type: "مفكر"
+- rel: "founded_by", target: "كليفورد هاريس", target_type: "مفكر"
+- rel: "belongs_to", target: "الموجة الثالثة من الموجات المعرفية-السلوكية (Third Wave)", target_type: "تيار"
+- rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "evolved_from", target: "السياقلية الوظيفية (Functional Contextualism)", target_type: "تيار"
+- rel: "founded_by", target: "ستيفن س. هايز", target_type: "مفكر"
+- rel: "founded_by", target: "كليفورد ن. هاريس", target_type: "مفكر"
 related:
-  - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
-  - id: "rel-act", title: "القبول والالتزام — الجار المُحرِج", type: "علاقة بين مدرستين"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+- id: "rel-act", title: "القبول والالتزام — الجار المُحرِج", type: "علاقة بين مدرستين"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-kgwilson", title: "كِلّي غ. ويلسون", type: "مفكر"
+- id: "wrk-liberated-mind", title: "العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك", type: "عمل / كتاب"
+- id: "tec-act-acc-creative-hopelessness", title: "اليأس الخلّاق", type: "تقنية/تدخل علاجي"
+- id: "exp-steven-hayes-panic-carpet-act", title: "نوبة هلع ستيفن هايز على السجادة وميلاد العلاج بالقبول والالتزام (ACT)", type: "خبرة معيشة"
+- id: "met-act-chess-board", title: "رقعة الشطرنج في ACT: استعارة الذات كسياق يتسع لقطع الصراع", type: "استعارة/مجاز مؤسِّس"
+- id: "met-act-finger-trap", title: "المصيدة الصينية للأصابع في ACT: استعارة الاسترخاء والاقتراب بدلاً من الشد", type: "استعارة/مجاز مؤسِّس"
+- id: "met-act-holding-a-heavy-backpack", title: "حقيبة الظهر الثقيلة في ACT: استعارة حمل آلام الماضي أثناء السير نحو القيم", type: "استعارة/مجاز مؤسِّس"
+- id: "met-act-leaves-on-a-stream", title: "أوراق الشجر على مجرى النهر في ACT: استعارة مراقبة الأفكار بفك الاندماج", type: "استعارة/مجاز مؤسِّس"
+- id: "met-act-tug-of-war-monster", title: "شد الحبل مع وحش القلق في ACT: استعارة إفلات الحبل بدلاً من المصارعة", type: "استعارة/مجاز مؤسِّس"
+- id: "que-hope-vs-acceptance-illness", title: "كيف يوازن المريض بين الأمل في الشفاء والتقبل الجذري للواقع الطبي؟", type: "سؤال توليدي"
+- id: "tec-act-defusion-leaves-stream", title: "أوراق الشجر على النهر (Leaves on a Stream) في ACT", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة للنشأة في مختبر هايز في أوائل الثمانينيات لم تُراجع من مذكراته الشخصية."
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "الجدل حول أسبقية هايز/لينيهان في تأسيس الموجة الثالثة لم يُوثَّق هنا."
 ---
-
 # العلاج بالقبول والالتزام (ACT)
 
 العلاج بالقبول والالتزام (ACT، تُلفظ كلمة واحدة "آكت") هو نموذج علاجي ضمن الموجة الثالثة من العلاجات المعرفية-السلوكية، يركّز على تنمية المرونة النفسية عبر ست عمليات أساسية يُرمز لها بالنموذج السداسي (Hexaflex). يتمحور ACT حول فكرة مركزية: المعاناة الإنسانية تنبع أساساً من التجنب الانفعالي (Experiential Avoidance) ومحاولة السيطرة على الأفكار والمشاعر، لا من وجودها بحدّ ذاته.

@@ -6,16 +6,20 @@ level: "متقدم"
 title: "أفيون المثقفين"
 en: "The Opium of the Intellectuals (Aron, 1955)"
 crumb: "المدرسة الوجودية ← الأعمال ← أفيون المثقفين (ريمون آرون)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-aron", title: "ريمون آرون", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-elaine-aron", title: "ريمون آرون", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:
   - "النص الأصلي 'L'Opium des intellectuels' (1955) يحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أفيون المثقفين (1955)

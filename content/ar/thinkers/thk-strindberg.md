@@ -11,13 +11,15 @@ active_start: 1897
 active_end: 1907
 country: "السويد"
 language: "السويدية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أزمة إنفيرنو (Inferno Crisis) وتوثيقها الفينومينولوجي للانهيار والذنب يستحقان إدراجاً."

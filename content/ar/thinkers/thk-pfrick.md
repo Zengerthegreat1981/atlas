@@ -5,20 +5,23 @@ type: "مفكر"
 level: "متوسط"
 title: "بول فريك"
 en: "Paul J. Frick"
-crumb: "br-aggression-treatment ← التقييم والقياس ← بول فريك"
+crumb: "علاج العدوان ← التقييم والقياس ← بول فريك"
 dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
+- rel: "belongs_to", target: "علاج العدوان", target_type: "تيار"
 related:
-  - id: "thk-krischer", title: "باري كريشر", type: "مفكر"
-  - id: "br-aggression-treatment", title: "علاج العدوان", type: "مفكر"
+- id: "br-aggression-treatment", title: "علاج العدوان", type: "تيار"
+- id: "thk-araine", title: "أدريان راين", type: "مفكر"
+- id: "thk-agoldstein", title: "أرنولد غولدشتاين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باري كريشر (thk-krischer)."
 ---
 
 # بول فريك

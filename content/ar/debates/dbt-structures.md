@@ -6,18 +6,20 @@ level: ""
 title: "هل توجد بنى وجودية ثابتة؟"
 en: "Structures or none?"
 crumb: "المدرسة الوجودية ← الخصومات ← البنى والمنهج"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-vandeurzen", title: "فان دورزن", type: "مفكرة"
-  - id: "thk-spinelli", title: "سبينيللي", type: "مفكر"
-  - id: "br-british", title: "التيار", type: "تيار"
+- id: "thk-vandeurzen", title: "فان دورزن", type: "مفكر"
+- id: "thk-spinelli", title: "سبينيللي", type: "مفكر"
+- id: "br-british", title: "التيار", type: "تيار"
+- id: "br-relational", title: "الصيغة العلائقية — الموجودي-الظاهراتي البريطاني (سبينيللي)", type: "تيار"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
-
 # هل توجد بنى وجودية ثابتة؟
 
 خصومة داخل التيار البريطاني نفسه، دقيقة الظاهر عميقة الأثر.

@@ -11,8 +11,11 @@ country: "تونغا"
 language: "التونغية/الإنجليزية"
 active_start: 1970
 active_end: 2000
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Ho'oponopono (هاواي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
+related:
+- id: "thk-msimeona", title: "مورّنا سيميونّا", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

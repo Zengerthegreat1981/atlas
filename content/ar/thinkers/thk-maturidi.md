@@ -13,10 +13,11 @@ active_end: 944
 country: "السامانيون (ما وراء النهر)"
 language: "العربية"
 edges:
-  - rel: "belongs_to", target: "الماتريدية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الماتريدية", target_type: "مدرسة"
 related:
-  - id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"
-  - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "thk-ashari", title: "أبو الحسن الأشعري", type: "مفكر"
+- id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"
+- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 gaps:
   - "كثير من أعماله ضاع، ولا نعرف الماتريدية الكاملة إلا من خلال كتب اللاحقين."
   - "لا يوجد اقتباس مباشر موثوق من 'التوحيد'."

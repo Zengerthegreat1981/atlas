@@ -11,13 +11,14 @@ active_start: 1990
 active_end: 1990
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دراساته حول تطور مفهوم الحرية المتجسدة والانتباه عند سارتر وميرلوبونتي تحتاج توثيقاً."
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-تطور فكر سارتر الفلسفي (The Power of Consciousness and the Force of Circumstances in Sartre's Philosophy, 1990) · الفينومينولوجيا الوجودية والحرية (Circumspective Awareness).
+قوة الوعي وقوة الظروف في فلسفة سارتر (The Power of Consciousness and the Force of Circumstances in Sartre's Philosophy, 1990) · دراسات في الفينومينولوجيا الوجودية الفرنسية (مقالات).

@@ -11,15 +11,16 @@ icd11_code: "7A22"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-imagery-rescripting", title: "إعادة كتابة سردية التخيل (Imagery Rescripting)", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
-  - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-  - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
+- id: "tec-imagery-rescripting", title: "إعادة كتابة سردية التخيل (Imagery Rescripting)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
+- id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
+- id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 gaps:
   - "لا يوجد ملف تقنيات مخصص لـ Image Rehearsal Therapy (IRT) في الأطلس — هذا العلاج المعياري الأول لاضطراب الكوابيس مسجّل كـ gap ولم يُربَط كـ tec- مستقل."
   - "بروتوكول IRT الكامل (خطوات: تسجيل الحلم، إعادة كتابته، التدريب عليه أثناء النهار، تطبيقه قبل النوم) لم يُفصَّل هنا كملف تقنية مستقل."
@@ -94,3 +95,7 @@ ICD-11 (7A22) يصنّف Nightmare disorder كاضطراب مستقل ضمن sle
 - Krakow, B., et al. (2001). Imagery rehearsal therapy for chronic nightmares in sexual assault survivors with PTSD. *JAMA*, 286(5), 537-545.
 - Raskind, M. A., et al. (2013). Prazosin for PTSD-related nightmares. *Lancet Psychiatry*, 1(3), 189-198.
 - Augedal, A. W., et al. (2013). Randomized controlled trials of psychological and pharmacological treatments for nightmares. *Sleep Medicine Reviews*, 17(2), 143-152.
+
+## التطور التاريخي في DSM
+
+أُلغيت فئة «الخطل النومي غير المحدد» في DSM-5 لصالح تفصيل نوعي صارم: خطل نوم حركة العين غير السريعة (NREM) مقابل اضطراب سلوك نوم حركة العين السريعة واضطراب الكوابيس.

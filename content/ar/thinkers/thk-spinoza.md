@@ -7,23 +7,25 @@ level: "متقدم"
 title: "باروخ سبينوزا"
 en: "Baruch Spinoza"
 crumb: "العقلانية القارية ← وحدة الجوهر ← سبينوزا"
-dates: "أمستردام، لاهاي، لاهاي · 1632–1677"
+dates: "هولندا (أمستردام، لاهاي) · 1632–1677"
 country: "هولندا (الجمهورية الهولندية)"
 language: "اللاتينية"
 active_start: 1660
 active_end: 1677
 edges:
-  - rel: "belongs_to", target: "السبينوزية", target_type: "مدرسة"
-  - rel: "belongs_to", target: "العقلانية القارية", target_type: "مدرسة"
+- rel: "belongs_to", target: "السبينوزية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العقلانية القارية (كمظلة)", target_type: "مدرسة"
 related:
-  - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
-  - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
-  - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
+- id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
+- id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
+- id: "wrk-spinoza-ethics", title: "كتاب الأخلاق لباروخ سبينوزا (1677)", type: "عمل / كتاب"
+- id: "wrk-spinoza-tractatus-theologico-politicus", title: "كتاب رسالة في اللاهوت والسياسة لباروخ سبينوزا (1670)", type: "عمل / كتاب"
+- id: "ctx-dutch-golden-age-toleration", title: "العصر الذهبي الهولندي وأمستردام كعاصمة للتسامح والنشر الحر", type: "سياق/تقليد"
 gaps:
   - "العلاقة بين 'Ethics' و'Tractatus Theologico-Politicus' تحتاج مراجعة منهجية."
   - "لا يوجد اقتباس مباشر موثوق من 'Deus sive Natura' بعد."
 ---
-
 # باروخ سبينوزا
 
 فيلسوف هولندي-برتغالي يهودي الأصل، طُرد من الطائفة اليهودية في أمستردام عام 1656 لهرطقته، وعاش حياته **صاقل عدسات** (Lens Grinder) في لاهاي. قدّم في **«الأخلاق»** (Ethica, ordine geometrico demonstrata) نظاماً فلسفياً أكثر صرامة من ديكارت، يتعامل فيه مع **الكون والإنسان والله كجوهر واحد**.

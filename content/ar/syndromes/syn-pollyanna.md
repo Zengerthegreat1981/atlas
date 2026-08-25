@@ -11,10 +11,10 @@ active_start: 1978
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "con-toxic-positivity", title: "الإيجابية السامة", type: "مفهوم"
-  - id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "con-toxic-positivity", title: "الإيجابية السامة", type: "مفهوم"
+- id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث ماتلين وستانغ (Matlin & Stang 1978) حول انحياز بوليانا المعرفي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

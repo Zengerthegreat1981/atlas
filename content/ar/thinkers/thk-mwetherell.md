@@ -11,10 +11,14 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1987
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الخطابي (Discursive Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الخطابي (بوتر وويذرل)", target_type: "مدرسة"
 related:
-  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "thk-ahepburn", title: "ألكسا هِبِرن", type: "مفكر"
+- id: "thk-jpotter", title: "جوناثان بوتر", type: "مفكر"
+- id: "thk-dedwards", title: "ديرِك إدواردز", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

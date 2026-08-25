@@ -11,12 +11,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج النفسي النسوي — الإنسانية وما بعدها", target_type: "مدرسة"
 related:
-  - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
+- id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
+- id: "thk-mpbargreen", title: "ماري بيندر غرين", type: "مفكر"
+- id: "thk-sbem", title: "ساندرا بيم", type: "مفكر"
+- id: "crt-feminist-critique-cbt", title: "النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # لورا س. براون

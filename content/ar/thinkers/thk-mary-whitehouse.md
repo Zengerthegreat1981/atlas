@@ -11,11 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1950
 active_end: 1979
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
 related:
-  - id: "thk-mchace", title: "ماريان تشيس", type: "مفكر"
-  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-mchace", title: "ماريان تشيس", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-trudi-schoop", title: "ترودي شوپ", type: "مفكر"
+- id: "thk-penny-lewis", title: "بيني لويس", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -25,7 +28,7 @@ gaps:
 
 راقِصة وعالِمة نفس أمريكية، من مؤسسي **«الحركة الحقيقية»** (Authentic Movement)، وهي ممارسة علاجية تجمع بين الرقص والعلاج النفسي.
 
-## ما أعطتها
+## ما أعطته
 
 - تأسيس **«Authentic Movement»** في الخمسينيات، وهي ممارسة تأملية يراقب فيها «الشاهد» (Witness) «المتحرّك» (Mover) في حالة حركة إرتجالية.
 - تطوير **«الحوار الجسدي»** (Movement Dialogue) بين المعالج والعميل.

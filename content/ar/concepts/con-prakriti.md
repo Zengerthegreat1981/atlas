@@ -12,11 +12,13 @@ language: "السنسكريتية"
 active_start: -600
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "سامخيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-samkhya", target_type: "مدرسة"
 related:
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-  - id: "thk-kapila", title: "كابيلا", type: "مفكر"
-  - id: "con-purusha", title: "پورُشَا (الوعي/الروح)", type: "مفهوم"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "thk-kapila", title: "كابيلا", type: "مفكر"
+- id: "con-purusha", title: "پورُشَا (الوعي/الروح)", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد تعريف فلسفي حديث موحد لـپرَكْرِتِي في الفلسفة العربية."
   - "مقارنتها بالـMāyā في Vedanta تحتاج مراجعة."

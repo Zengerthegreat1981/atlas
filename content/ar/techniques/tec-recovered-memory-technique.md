@@ -8,10 +8,12 @@ en: "Recovered Memory Technique"
 crumb: "حركات مثيرة للجدل ← التقنيات ← الذاكرة المُستعادة"
 active_start: 1985
 active_end: 1995
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "حركة الذاكرة المُستعادة العلاجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "مدرسة"
 related:
-  - id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
+- id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
 gaps:
   - "البروتوكول (Body Memory، Guided Imagery) لم يُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

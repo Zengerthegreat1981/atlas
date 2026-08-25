@@ -8,16 +8,17 @@ en: "Psychoanalysis and Humanistic Psychology: From Schism to Motivational Conve
 crumb: "التحليل النفسي ← العلاقات ← التحليل النفسي والإنسانية"
 active_start: 1943
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "dbt-humanistic-vs-existential", title: "الإنسانية في مقابل الوجودية", type: "جدل"
+- id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "dbt-humanistic-vs-existential", title: "الإنسانية في مقابل الوجودية", type: "جدل"
 gaps:
   - "تأثير هورني، فروم، سوليفان على روجرز (الأفكار الإنسانية) يحتاج توثيقاً أدق — 'الفرويدية الجديدة' كجسر بين المدرستين لم تُنقَح."
   - "لا يوجد اقتباس مباشر موثوق متاح من روجرز عن فرويد."

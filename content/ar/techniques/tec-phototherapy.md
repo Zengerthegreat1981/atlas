@@ -11,12 +11,15 @@ dates: "السبعينيات والثمانينيات"
 active_start: 1979
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
+- id: "thk-jspence", title: "جو سبنس", type: "مفكر"
 gaps:
   - "تقنيات جودي وايزر (Judy Weiser) الخمس لاستخدام الصور العائلية، والصور الشخصية (Self-Portraits)، والصور الملتقطة في استكشاف الهوية ومسار الحياة."
   - "الصورة كـ'إسقاط بصري فوري' للمشاعر والذكريات اللاواعية."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جو سبنس (thk-jspence)."
 ---
 
 # العلاج بالصور الفوتوغرافية (Phototherapy)

@@ -11,10 +11,13 @@ active_start: 1785
 active_end: "مستمر"
 language: "الألمانية/الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الكانطية الأخلاقية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kantian-ethics-contemporary", target_type: "مدرسة"
 related:
-  - id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
-  - id: "thk-ckorsgaard", title: "كريستين كورسغارد", type: "مفكر"
+- id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
+- id: "thk-ckorsgaard", title: "كريستين كورسغارد", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'الاستقلالية' الكانطية و'الحرية' الوجودية لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'الأسس' (1785)."

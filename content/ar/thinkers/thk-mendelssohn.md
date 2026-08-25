@@ -13,13 +13,14 @@ active_end: 1786
 country: "بروسيا (مملكة فريدريش)"
 language: "الألمانية (والعببرية)"
 edges:
-  - rel: "belongs_to", target: "هَسْكَلاة (التنوير اليهودي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "هَسْكَلاة (التنوير اليهودي)", target_type: "مدرسة"
 related:
-  - id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
-  - id: "sch-judaism-reform", title: "اليهودية الإصلاحية (كتيار فكري)", type: "مدرسة"
+- id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
+- id: "sch-judaism-reform", title: "اليهودية الإصلاحية (كتيار فكري)", type: "مدرسة"
 gaps:
   - "تأثره بمفهوم «الحقوق الطبيعية» عند كانط وكروبتسكياخ يحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من «يهوديت» أو «أور صباح» متاح."
+  - "دُمج معه الملف المكرَّر thk-moses-mendelssohn (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # موسى مندلسون (Moses Mendelssohn)

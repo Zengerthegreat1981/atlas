@@ -11,14 +11,15 @@ active_start: 2009
 active_end: 2020
 country: "أمريكا / آسيا"
 language: "الإنجليزية / الصينية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
-  - id: "thk-hoffman", title: "لويس هوفمان", type: "مفكر"
+- id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-hoffman", title: "لويس هوفمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "حركة نشر العلاج الوجودي-الإنساني في الصين وشرق آسيا تحتاج توثيقاً تاريخياً معاصراً."

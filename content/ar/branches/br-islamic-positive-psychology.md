@@ -11,14 +11,15 @@ dates: "من 1990s"
 active_start: 1990
 active_end: "مستمر"
 language: "العربية/الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإيجابية (Positive)", target_type: "مدرسة"
-  - rel: "developed_by", target: "أمجد عبد الخالق", target_type: "مفكر"
+- rel: "belongs_to", target: "الإيجابية (Positive)", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-aabdelkhalek", target_type: "مفكر"
 related:
-  - id: "thk-aabdelkhalek", title: "أمجد عبد الخالق", type: "مفكر"
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
-  - id: "ctx-avicenna-self", title: "ابن سينا وكتاب النفس", type: "سياق/تقليد"
-  - id: "ctx-ghazali", title: "الغزالي وإحياء علوم الدين", type: "سياق/تقليد"
+- id: "thk-aabdelkhalek", title: "أمجد عبد الخالق", type: "مفكر"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "ctx-avicenna-self", title: "ابن سينا وكتاب النفس", type: "سياق/تقليد"
+- id: "ctx-ghazali", title: "الغزالي وإحياء علوم الدين", type: "سياق/تقليد"
 gaps:
   - "العلاقة بين علم النفس الإيجابي الإسلامي وعلم النفس الإيجابي الغربي (Seligman) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

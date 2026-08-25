@@ -13,13 +13,13 @@ language: "الإنجليزية، اللاتينية"
 active_start: 1630
 active_end: 1800
 edges:
-  - rel: "evolved_from", target: "الإنسانية النهضوية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "السكولاستية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "مدرسة"
 related:
-  - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
-  - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
-  - id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
-  - id: "sch-scottish-common-sense", title: "فلسفة الحس المشترك الاسكتلندية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
+- id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
+- id: "sch-scottish-common-sense", title: "فلسفة الحس المشترك الاسكتلندية", type: "مدرسة"
 gaps:
   - "التمييز بين 'التجريبية' (Empiricism) و'الذرية' (Atomism) معقّد تاريخياً."
   - "نصوص لوك وبيركلي وهيوم بالإنجليزية تحتاج مراجعة من المصدر الأولي."

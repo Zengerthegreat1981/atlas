@@ -9,13 +9,17 @@ crumb: "السلوكية (Behaviorism) ← الناس ← إدوارد تولم�
 dates: "أمريكا · 1886–1959"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 1959
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-clhull", title: "كلارك هـال", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-  - id: "con-cognitive-map", title: "الخريطة المعرفية", type: "مفهوم"
+- id: "thk-clhull", title: "كلارك هال", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "con-cognitive-map", title: "الخريطة المعرفية", type: "مفهوم"
+- id: "stu-tolman-cognitive-maps", title: "دراسة إدوارد تولمان للخرائط المعرفية والتعلم الكامن (1948)", type: "دراسة وبحث"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نقد سكينر (1950) وغوثري (1935) لتولمان — موضع تفصيل مهم."
@@ -39,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-السلوك الغائي (1932) · خرائط معرفية في الفئران والإنسان (1948) · مبادئ الأداء (Principles of Performance، 1955) · أوراق مختارة (1951).
+السلوك الغائي (1932) · خرائط معرفية في الفئران والإنسان (1948) · «مبادئ الأداء» (مقالة في Psychological Review، 1955) · أوراق مختارة (1951).

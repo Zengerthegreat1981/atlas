@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← كارلوس �
 dates: "الأرجنتين · [غير مؤكد]"
 country: "الأرجنتين"
 language: "الإسبانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-adelaserna", title: "أغوستين دي لا سيرنا", type: "مفكر"
-  - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-adelaserna", title: "أغوستين دي لا سيرنا", type: "مفكر"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-بعد تحلّله عند Zoja (إيطاليا)، عاد إلى بوينس آيرس وأدخل «التحليلية للذكورية المعاصرة». أسّس «Grupo de Estudio sobre Masculinidades» (1990s) — أوّل تيار لدراسة الذكورية بأدوات يونغ في أمريكا اللاتينية. كذلك أجرى «تحليلية للحوار بين الأديان» في Argentina (الديانة اليهودية الكاثوليكية، الكاثوليكية الكاثوليكية). كذلك ترجمت أعماله إلى الإيطالية والبرتغالية.
+بعد تحلّله عند Zoja (إيطاليا)، عاد إلى بوينس آيرس وأدخل «التحليلية للذكورية المعاصرة». أسّس «Grupo de Estudio sobre Masculinidades» (التسعينيات من القرن العشرين) — أوّل تيار لدراسة الذكورية بأدوات يونغ في أمريكا اللاتينية. كذلك اشتغل على «الحوار بين الأديان» في الأرجنتين من منظور تحليلي (اليهودية والكاثوليكية). وتُرجمت أعماله إلى الإيطالية والبرتغالية.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Grupo de Estudio sobre Masculinidades (1990s) · مقالات في SBrPA Argentina.
+Grupo de Estudio sobre Masculinidades (التسعينيات من القرن العشرين) · مقالات في SBrPA Argentina.

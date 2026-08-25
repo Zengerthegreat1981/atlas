@@ -11,10 +11,10 @@ active_start: 2004
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-nomophobia", title: "متلازمة نوموفوبيا", type: "متلازمة"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-nomophobia", title: "متلازمة نوموفوبيا", type: "متلازمة"
 gaps:
   - "صياغة باتريك ماكغينيس للمصطلح وأبحاث برزيبيلسكي (Przybylski et al. 2013)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

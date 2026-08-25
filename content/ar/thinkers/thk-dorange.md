@@ -9,11 +9,16 @@ crumb: "التحليل النفسي ← الناس ← النظرية البين
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
-  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
+- id: "wrk-emotional-understanding", title: "الفهم العاطفي: الأخلاقيات البين-ذاتية للعلاج النفسي", type: "عمل / كتاب"
+- id: "con-intersubjectivity", title: "البين-ذاتية (Intersubjectivity)", type: "مفهوم"
+- id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
+- id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

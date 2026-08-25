@@ -11,17 +11,19 @@ active_start: 1849
 active_end: 1854
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-emerson", title: "رالف والدو إمرسون", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-emerson", title: "رالف والدو إمرسون", type: "مفكر"
+- id: "ctx-american-transcendentalism-concord", title: "التعالوية الأمريكية في كونكورد والاعتماد على الذات", type: "سياق/تقليد"
 gaps:
   - "تجربة والدن (Walden) كبحث وجودي عن الحياة الأصيلة بعيداً عن الاستهلاك تستحق إدراجاً."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # هنري ديفيد ثورو
 
 كاتب وفيلسوف وطبيعي أمريكي، رائد الفلسفة المتعالية ومؤلف العمل الكلاسيكي «فالدن: أو الحياة في الغابات» ومقال «العصيان المدني».

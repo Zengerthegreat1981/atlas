@@ -9,9 +9,10 @@ en: "Difficulties in Emotion Regulation Scale (DERS)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس صعوبات التنظيم الانفعالي"
 active_start: 2004
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية", type: "مفهوم"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«اضطراب الشخصية الحدية» (dis-borderline-personality) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث كيم غراتز ولوليزا رومر (Gratz & Roemer 2004) في جامعة ماساتشوستس."

@@ -11,17 +11,19 @@ active_start: 1962
 active_end: 1967
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
+- id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نصوصه وأعماله في الطب النفسجسدي (Psychosomatics) لم تترجم للعربية وتتطلب مراجعة من مصادر ألمانية أصلية."
   - "أثره في المدرسة الوجودية أقل شهرة من رواد التحليل الوجودي المباشرين، ويحتاج تقييماً تحريرياً لمدى استقلالية مساهمته."
+  - "هوية الملف: الـslug `thk-plugge` يشير إلى Herbert Plügge. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # هربرت بلوغه

@@ -10,11 +10,14 @@ crumb: "الديكارتية ← المفاهيم ← الكوجيتو"
 active_start: 1637
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الديكارتية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "رينيه ديكارت", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-descartes", target_type: "مفكر"
 related:
-  - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
-  - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
+- id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الصياغات المختلفة للكوجيتو (Cogito, ergo sum / Sum, ergo cogito / Ego sum, ego existo) تحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثوق من النص الأصلي بعد."

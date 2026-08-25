@@ -9,10 +9,11 @@ en: "Brief Psychiatric Rating Scale (BPRS)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس التقييم النفسي السريري الموجز"
 active_start: 1962
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "ins-panss", title: "مقياس المتلازمة الإيجابية والسلبية", type: "أداة قياس"
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-panss", title: "مقياس المتلازمة الإيجابية والسلبية", type: "أداة قياس"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث جون أوفرهول ودونالد غورهام (Overall & Gorham 1962) وتوسيع المقياس إلى 24 بنداً (BPRS-E)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

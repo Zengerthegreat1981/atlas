@@ -11,13 +11,15 @@ dates: "من الستينيات"
 active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
-  - rel: "developed_by", target: "ويليام غلاسر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-glasser", target_type: "مفكر"
 related:
-  - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
-  - id: "con-choice-theory", title: "نظرية الاختيار", type: "مفهوم"
-  - id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
+- id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
+- id: "con-choice-theory", title: "نظرية الاختيار", type: "مفهوم"
+- id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
+- id: "con-quality-world", title: "العالم النوعي (Quality World)", type: "مفهوم"
 gaps:
   - "تاريخ بدء التيار (1965) متطابق مع نشر كتاب غلاسر الأول، يحتاج تحقق."
   - "العلاقة بين 'نظرية الاختيار' و'علاج الواقع' في تطور غلاسر الفكري تحتاج تحليل."

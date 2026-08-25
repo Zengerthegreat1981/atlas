@@ -6,13 +6,16 @@ level: "متقدم"
 title: "البحث الكشفي / الاستكشافي (Heuristic Research)"
 en: "Heuristic Research (Moustakas)"
 crumb: "المدرسة الوجودية ← الدراسات والبحوث ← البحث الكشفي الاستكشافي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«المنهج الفينومينولوجي» (stu-phenomenological-method-dukes) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«الظواهرية» (con-phenomenology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

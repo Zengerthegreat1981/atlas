@@ -8,14 +8,16 @@ en: "Ilene Serlin"
 crumb: "المدرسة الوجودية ← الناس ← إيلين سيرلين"
 dates: "أمريكا · معاصرة"
 active_start: 2007
-active_end: 2010
+active_end: "مستمر"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تطبيقها للعلاج بالحركة والرقص في الصدمات من منظور وجودي-إنساني يستحق إدراجاً في التقنيات."

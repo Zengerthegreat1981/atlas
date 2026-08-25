@@ -13,13 +13,13 @@ language: "الإنجليزية"
 active_start: 1994
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة القارية", target_type: "مظلة"
-  - rel: "evolved_from", target: "الواقعية المضاربة", target_type: "مدرسة"
-  - rel: "evolved_from", target: "النسوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-speculative-realism", target_type: "مدرسة"
+- rel: "evolved_from", target: "النسوية", target_type: "مدرسة"
 related:
-  - id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
-  - id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (OOO)", type: "مدرسة"
-  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
+- id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (OOO)", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
 gaps:
   - "'المادية الجديدة' تيار متعدد الأقطاب، يُستعمل أحيانًا بشكل فضفاض."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

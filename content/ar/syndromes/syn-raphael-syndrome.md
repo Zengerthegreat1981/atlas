@@ -11,10 +11,10 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "syn-quarter-life-crisis", title: "متلازمة أزمة ربع العمر", type: "متلازمة"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "syn-quarter-life-crisis", title: "متلازمة أزمة ربع العمر", type: "متلازمة"
 gaps:
   - "الدراسات السيكولوجية للمبدعين والأطفال النوابغ الذين حققوا ذروة النجاح في مطلع الشباب."
   - "لا يوجد اقتباس مباشر موثوق متاح."

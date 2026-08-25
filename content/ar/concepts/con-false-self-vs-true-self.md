@@ -6,20 +6,22 @@ level: "متوسط"
 title: "الذات المزيفة مقابل الذات الحقيقية"
 en: "The False Self vs The True Self"
 crumb: "المدرسة الوجودية ← المفاهيم ← الذات المزيفة مقابل الذات الحقيقية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-merton", title: "توماس ميرتون", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفكر"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "thk-merton", title: "توماس ميرتون", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 gaps:
   - "نصوص توماس ميرتون 'الجبل والسبعة' (The Seven Storey Mountain, 1948) و'الزمن الخفي' (No Man Is an Island, 1955) تستحق مراجعة من المصدر الأولي."
   - "الفرق بين مفهوم ميرتون ومفهوم وينيكوت التحليلي يستحق تفصيلاً."
 ---
-
 # الذات المزيفة مقابل الذات الحقيقية
 
 ثنائية طورها توماس ميرتون في سياقه الرهباني-الروحي، متأثراً بعلم النفس التحليلي والوجودية، لكنها متمايزة عن المفاهيم المتشابهة في السياق التحليلي النفسي.

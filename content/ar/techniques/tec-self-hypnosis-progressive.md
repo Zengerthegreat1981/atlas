@@ -8,14 +8,17 @@ en: "Self-Hypnosis (as Therapeutic Framework)"
 crumb: "التنويم وNLP ← التقنيات ← التنويم الذاتي"
 active_start: 1950
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
 related:
-  - id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
-  - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
+- id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
+- id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
+- id: "thk-brian-aleman", title: "براين ألمان", type: "مفكر"
 gaps:
   - "المقارنة بين بروتوكولات (Hartland، Spiegel) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: براين ألمان (thk-brian-aleman)."
 ---
 
 # التنويم الذاتي (كإطار علاجي)

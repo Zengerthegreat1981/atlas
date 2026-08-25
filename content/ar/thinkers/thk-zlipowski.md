@@ -10,12 +10,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية، البولندية"
 active_start: 1967
 active_end: 1997
+part: "psychology"
+crumb: "الأطلس ← thinkers ← زبينيو ليبوفسكي"
 edges:
-  - rel: "belongs_to", target: "علم النفس الطبي النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الطبي النفسي", target_type: "مدرسة"
 related:
-  - id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
+- id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
+- id: "thk-gengel", title: "جورج إنغل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # زبينيو ليبوفسكي

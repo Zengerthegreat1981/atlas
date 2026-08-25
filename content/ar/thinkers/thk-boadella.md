@@ -9,13 +9,17 @@ crumb: "علم نفس الجسد ← الناس ← Biosynthesis ← ديفيد 
 dates: "بريطانيا · 1931–2022"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2022
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-raknes", title: "أولا راكنيس", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-raknes", title: "أولا راكنيس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ديفيد بوعِلّا
@@ -24,11 +28,11 @@ gaps:
 
 ## ما أعطاه
 
-كتب «فيلهلم رايخ: تطوّر عمله» (Wilhelm Reich: The Evolution of His Work, 1973)، وهو العمل المرجعي الأول في تاريخ الفكر الرايخي. أسّس Biosynthesis كنظام علاجي يدمج Reich مع Wilheim Reich، Lowen، وGestalt Therapy. كتابه «الاضطراب الجسدي» (Somatization, 1987) منح Reich أساساً إكلينيكياً جديداً من خلال «الاضطرابات النفسجسمية» المعاصرة.
+كتب «فيلهلم رايخ: تطوّر عمله» (Wilhelm Reich: The Evolution of His Work, 1973)، وهو العمل المرجعي الأول في تاريخ الفكر الرايخي. أسّس Biosynthesis كنظام علاجي يدمج تراث رايخ مع علم الأجنّة، وعمل لوين، وعلاج الجشطالت. كتابه «الاضطراب الجسدي» (Somatization, 1987) منح Reich أساساً إكلينيكياً جديداً من خلال «الاضطرابات النفسجسمية» المعاصرة.
 
 ## موقعه من التيار
 
-من «المؤرّخين-الممارسين» في التراث الرايخي. حلقة الوصل بين Reich (التاريخي) وBiosynthesis (المعاصر). أسّس مركزاً تدريبياً في لندن. ربط Reich بـFritz Perls (Gestalt) وWilhelm Reich بالنسوية التحليلية.
+من «المؤرّخين-الممارسين» في التراث الرايخي. حلقة الوصل بين Reich (التاريخي) وBiosynthesis (المعاصر). أسّس مركزاً تدريبياً في لندن، وربط تراث رايخ بعلاج الجشطالت عند فريتز بيرلز.
 
 ## قيد
 

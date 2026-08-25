@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1974
 active_end: 1974
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
-  - rel: "written_by", target: "ستانلي ميلغرام", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "written_by", target: "thk-stanley-milgram", target_type: "مفكر"
 related:
-  - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
+- id: "con-agentic-state-milgram", title: "الحالة الوكالية والانصياع للسلطة (The Agentic State)", type: "مفهوم"
+- id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

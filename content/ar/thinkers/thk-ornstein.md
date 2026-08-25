@@ -9,10 +9,14 @@ crumb: "التحليل النفسي ← الناس ← Self Psychology ← بو�
 dates: "النمسا / أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
+- id: "thk-ewolf", title: "إرنست س. وولف", type: "مفكر"
+- id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -24,7 +28,7 @@ gaps:
 
 ## ما أعطاه
 
-شارك في «توسعة» Self Psychology نحو العلاج الإكلينيكي اليومي، مع تركيز على «الأشكال البدائية للذات» (Primal Forms of the Self) و«الفجوة النرجسية» (Narcissistic Gap). أَلَّف «الذات والأسلوب الدفاعي» (The Search for the Self, 1990s)، حيث يربط بين Self Psychology وعلاج اضطرابات الشخصية. مع Ernest Wolf، قدّم «مفهوم الثغرة الإيثارية» (Altruistic Surrender) — أي تنازل المعالج عن «نرجسيّته» لصالح المريض.
+شارك في «توسعة» Self Psychology نحو العلاج الإكلينيكي اليومي، مع تركيز على «الأشكال البدائية للذات» (Primal Forms of the Self) و«الفجوة النرجسية» (Narcissistic Gap). أَلَّف «الذات والأسلوب الدفاعي» (The Search for the Self, التسعينيات من القرن العشرين)، حيث يربط بين Self Psychology وعلاج اضطرابات الشخصية. مع Ernest Wolf، قدّم «مفهوم الثغرة الإيثارية» (Altruistic Surrender) — أي تنازل المعالج عن «نرجسيّته» لصالح المريض.
 
 ## موقعه من التيار
 

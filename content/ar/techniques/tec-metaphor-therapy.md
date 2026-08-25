@@ -10,11 +10,12 @@ country: "الولايات المتحدة"
 active_start: 1960
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
-  - rel: "developed_by", target: "ميلتون إريكسون", target_type: "مفكر"
+- rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-merickson", target_type: "مفكر"
 related:
-  - id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"
+- id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"
 gaps:
   - "الأشكال المختلفة للاستعارة (التعويضية، الإيقاعية، التوضيحية، الإحيائية) في كتابات إريكسون لم تُصنّف بشكل محكّم."
   - "لا يوجد اقتباس مباشر موثوق متاح."

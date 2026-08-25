@@ -11,9 +11,15 @@ country: "البرازيل"
 language: "البرتغالية"
 active_start: 1958
 active_end: 1997
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس التحرر", target_type: "مدرسة"
 related:
+- id: "thk-marisol-montoya", title: "ماريسول مونتويا (Marisol Montoya)", type: "مفكر"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "thk-cora-zanuso", title: "كورا زانوسو (Cora Zanuso)", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "wrk-freire-pedagogy-oppressed", title: "تعليم المضطهدين (Pedagogy of the Oppressed)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«فْرَنْتْز فَانُون» (thk-ffanon) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "تفاصيل مشروعه التعليمي في البرازيل لم تُراجع بعد."

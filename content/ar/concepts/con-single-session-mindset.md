@@ -8,16 +8,20 @@ en: "Single-Session Mindset"
 crumb: "العلاج القصير كعائلة مستقلة ← العلاج بجلسة واحدة ← عقلية الجلسة الواحدة"
 active_start: 2010
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
-  - id: "thk-wbennett", title: "وين بينيت", type: "مفكر"
-  - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "مفهوم"
+- id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "نسبة الفكرة الرئيسية إلى Talmon (1990) أو تطورات حديثة تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وين بينيت (thk-wbennett)."
 ---
-
 # عقلية الجلسة الواحدة (Single-Session Mindset)
 
 مفهوم في العلاج القصير يقترح أن **كل جلسة علاجية يجب أن تُعامَل كأنها قد تكون الوحيدة** التي يحضرها العميل، مع تصميمها لتقديم أقصى فائدة ممكنة له، بدل افتراض أنه سيعود. صاغ هذا المفهوم بشكل بارز Michael Talmon (1990) في كتابه *Single-Session Therapy*، وأعاد تطويره فريقه ليشمل العمل مع المراهقين والأطفال.

@@ -8,9 +8,11 @@ en: "Rotter Incomplete Sentences Blank (RISB)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار روتر لتكميل الجمل"
 active_start: 1950
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تحديث المعايير المعيارية لـ RISB-2 ودقة نقطة القطع (Cutoff Score 135) لتحديد سوء التكيف تحتاج مراجعة"
   - "التطبيقات في الإرشاد الجامعي والمدارس الثانوية تتطلب استعراضاً تطبيقياً"

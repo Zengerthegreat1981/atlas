@@ -11,12 +11,13 @@ active_start: 1933
 active_end: 1959
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'الجزر' (Les Îles, 1933) ومقدمة كامو التاريخية له تستحق توثيقاً."
@@ -32,7 +33,7 @@ gaps:
 
 ## موقعه من التيار
 
-الأب الروحي والملهم المباشر لألبير كامو (كتب له كامو في مقدمة كتابه: «لو لم أقرأ الجزر لما كنت الكاتب الذي أصبحت عليه»).
+الأب الروحي والملهم المباشر لألبير كامو، الذي درّسه في ثانوية الجزائر ثم ظلّ مراسلاً له حتى وفاته، وكتب كامو مقدّمة الطبعة الجديدة من «الجزر» عام 1959 معترفاً بأثر الكتاب في تكوينه وهو في العشرين.
 
 ## قيد
 
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-الجزر (Les Îles, 1933 مع مقدمة ألبير كامو في 1959) · في جاذبية الفراغ (Inspirations méditerranéennes, 1941) · وجوديات (Existences, 1945).
+الجزر (Les Îles, 1933 مع مقدمة ألبير كامو في 1959) · إلهامات متوسطية (Inspirations méditerranéennes, 1941) · وجودات (Existences, 1945) · رسائل متبادلة مع ألبير كامو (Correspondance Albert Camus – Jean Grenier, 1932–1960، نُشرت 1981).

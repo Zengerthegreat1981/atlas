@@ -6,20 +6,23 @@ level: "مبتدئ"
 title: "النفس في التراث العربي الإسلامي"
 en: "The self in Arabic-Islamic intellectual heritage"
 crumb: "المدرسة الوجودية ← السياقات ← النفس في التراث العربي الإسلامي"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "con-sadness", title: "الحزن", type: "مفهوم"
-  - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
-  - id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
-  - id: "thk-badawi", title: "عبد الرحمن بدوي", type: "مفكر"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
+- id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
+- id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
+- id: "thk-badawi", title: "عبد الرحمن بدوي", type: "مفكر"
+- id: "ctx-miskawayh-character", title: "ابن مسكويه وتهذيب الأخلاق", type: "سياق/تقليد"
 gaps:
   - "تم إنشاء ربط استكشافي أولي مع أربعة عناصر مشاعر (الخوف، الحزن، الخزي والذنب، الغيرة والحسد)، لكن هذا الربط لا يزال أولياً وغير مبني على مقارنة نصية دقيقة محققة — يحتاج عملاً بحثياً متخصصاً لاحقاً لتعميقه"
   - "لا تتوفر حتى الآن نصوص أولية محققة (لا ترجمات ولا نصوص أصلية مراجعة) لأي من الغزالي أو ابن سينا أو ابن مسكويه ضمن مكتبة المصادر الحالية لهذا المشروع"
   - "هذا المدخل تأسيسي فقط ويحتاج توسيعاً كبيراً قبل الاعتماد عليه"
 ---
-
 # النفس في التراث العربي الإسلامي
 
 سياق تاريخي-فكري متعدد المدارس والحقب، ليس كتلة واحدة ولا ترجمة حرفية لمفاهيم نفسية حديثة عليه.

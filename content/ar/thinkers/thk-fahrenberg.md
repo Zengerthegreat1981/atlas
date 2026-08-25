@@ -11,11 +11,13 @@ active_start: 1983
 active_end: 2013
 country: "ألمانيا"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أبحاثه في الفسيولوجيا النفسية والفلسفة الأنثروبولوجية للشخصية تحتاج مراجعة في الأدبيات الألمانية."
@@ -39,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-الأنثروبولوجيا الفلسفية في علم النفس (Philosophische Anthropologie, 2013) · علم الفسيولوجيا النفسية (Psychophysiologie, 1983).
+قائمة فرايبورغ للشخصية (Freiburger Persönlichkeitsinventar — FPI، 1970 وطبعاته اللاحقة) — أوسع أدوات قياس الشخصية استعمالاً في ألمانيا · الفسيولوجيا النفسية (Psychophysiologie, 1983) · أعمال في الأنثروبولوجيا الفلسفية وتاريخ علم النفس، منها دراساته عن فِشنر ووندت (2011–2013).

@@ -11,15 +11,17 @@ active_start: 1986
 active_end: 1986
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-death", title: "الموت", type: "مفهوم"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "مؤلفها 'الحلم اليقظ في التحليل النفسي الوجودي' يحتاج توثيقاً موسعاً."
+  - "صلة منهجها بـ«الحلم اليقظ الموجَّه» عند روبير ديزوي (Robert Desoille) تحتاج توثيقاً."
 ---
 
 # ماري-مادلين شاتيل
@@ -40,4 +42,4 @@ gaps:
 
 ## أهم أعمالها
 
-الحلم اليقظ الموجه في العلاج النفسي (Le Rêve-éveillé en psychanalyse, 1986) · دراسات في الخيال والوجود.
+الحلم اليقظ في التحليل النفسي (Le Rêve-éveillé en psychanalyse, 1986) · دراسات في الخيال والوجود.

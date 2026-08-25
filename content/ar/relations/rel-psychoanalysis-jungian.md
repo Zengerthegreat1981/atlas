@@ -8,15 +8,16 @@ en: "Psychoanalysis and Jungian Analysis: A Founding Schism"
 crumb: "التحليل النفسي ← العلاقات ← التحليل النفسي والتحليلية اليونغية"
 active_start: 1909
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "التحليلية اليونغية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
 related:
-  - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-  - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-bleuler-jung-assoc", title: "فرانتس ريكـلين", type: "مفكر"
+- id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-bleuler-jung-assoc", title: "فرانتس ريكـلين", type: "مفكر"
 gaps:
   - "الجدول الزمني الدقيق للانشقاق (1909 لقاء كلارك، 1910 انعقاد مؤتمر نورنبرغ، 1911 رحيل يونغ) يحتاج مراجعة تاريخية أولية."
   - "لا يوجد اقتباس مباشر موثوق متاح من فرويد عن يونغ بعد الانشقاق (الحرق الشهير للرسائل)."

@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← المقارنة ← التواز�
 active_start: 1924
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة المقارنة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
-  - id: "thk-masson-oursel", title: "بول-لويس ماسون-أورسيل", type: "مفكر"
+- id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
+- id: "thk-masson-oursel", title: "بول-لويس ماسون-أورسيل", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ دراسات Deutsch (Studies in Comparative Aesthetics) ولا Rosemont (A Chinese Mirror)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # التوازيات الفلسفية (Philosophical Parallelism)

@@ -1,7 +1,7 @@
 ---
 slug: "con-integration-psychedelic"
-id: "THK-2160"
-type: "مفكر"
+id: "CON-1259"
+type: "مفهوم"
 level: "مبتدئ"
 title: "التكامل النفسياني (Integration)"
 en: "Psychedelic Integration"
@@ -10,16 +10,18 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 2015
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
 related:
-  - id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفكر"
-  - id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية", type: "تقنية/تدخل علاجي"
+- id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفهوم"
+- id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية", type: "تقنية/تدخل علاجي"
+- id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
+- id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "الممارسة تستند إلى عمل آي إس إس دي (IASO)، ومجموعات تشيفا (Chacruna Institute)، وأدريان ديبيرنو (Adriana de Berrenguer)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # التكامل النفسياني (Integration)
 
 ممارسة علاجية معاصرة نشأت في العقد الثاني من القرن الحادي والعشرين، تساعد الأشخاص على دمج آثار تجاربهم السيكوديلية (سواء السريرية أو الشخصية) في حياتهم اليومية لتحقيق تحول دائم.

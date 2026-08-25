@@ -11,13 +11,14 @@ icd11_code: "7A21"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-  - id: "syn-emotional-numbing", title: "الخدر الانفعالي", type: "متلازمة"
+- id: "syn-insomnia", title: "الأرق", type: "متلازمة"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "syn-emotional-numbing", title: "الخدر الانفعالي", type: "متلازمة"
 gaps:
   - "النوم القهري من النوع 2 (without cataplexy) في DSM-5-TR vs Narcolepsy types في ICD-11 (7A21.0 type 1, 7A21.1 type 2) — التفاصيل الدقيقة لم تُراجَع من المصدر الأولي."
   - "بروتوكول Sodium oxybate والصيانة طويلة المدى غير مشمول هنا."

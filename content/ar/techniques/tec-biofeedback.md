@@ -1,6 +1,6 @@
 ---
 slug: "tec-biofeedback"
-id: "TEC-0066"
+id: "TEC-0368"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "البيوفيتباك (Biofeedback)"
@@ -10,16 +10,16 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 1960
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التغذية الراجعة العصبية/الحيوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "التغذية الراجعة العصبية/الحيوية", target_type: "مدرسة"
 related:
-  - id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفكر"
+- id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفهوم"
 gaps:
   - "نشأ في خمسينيات وستينيات القرن العشرين مع ماريو ستيرمان ونيال ميلر."
   - "تقنيات أساسية: EMG (الجسم)، HRV (القلب)، GSR (الجلد)، الحرارة (الأطراف)، التنفس."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # البيوفيتباك (Biofeedback)
 
 تقنية علاجية تنتمي لحقل الطب النفس-جسدي (Psychosomatic Medicine)، تتيح للمريض مراقبة وظائف جسدية لا إرادية (مثل معدل ضربات القلب، توتر العضلات، التوصيل الكهربائي للجلد، درجة حرارة الأطراف) في الوقت الفعلي، بهدف تعديلها متعمَّداً.

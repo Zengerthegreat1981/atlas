@@ -13,14 +13,14 @@ language: "الألمانية، الفرنسية، الإيطالية، الإن
 active_start: 1923
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة القارية", target_type: "مظلة"
-  - rel: "split_into", target: "النظرية النقدية / مدرسة فرانكفورت", target_type: "مدرسة"
-  - rel: "split_into", target: "الماركسية البنيوية", target_type: "مدرسة"
-  - rel: "split_into", target: "الماركسية الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "split_into", target: "sch-frankfurt-school", target_type: "مدرسة"
+- rel: "split_into", target: "sch-marxism-structuralist", target_type: "مدرسة"
+- rel: "split_into", target: "sch-marxism-humanist", target_type: "مدرسة"
 related:
-  - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
-  - id: "sch-marxism-structuralist", title: "الماركسية البنيوية", type: "مدرسة"
-  - id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-marxism-structuralist", title: "الماركسية البنيوية", type: "مدرسة"
+- id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
 gaps:
   - "مصطلح 'الماركسية الغربية' يشير في الأصل إلى كتاب Perry Anderson (*Considerations on Western Marxism*, 1976)، ومجاله غير محصور بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

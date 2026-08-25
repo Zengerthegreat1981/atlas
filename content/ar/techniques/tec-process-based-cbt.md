@@ -11,11 +11,13 @@ dates: "من 2018"
 active_start: 2018
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "tec-transdiagnostic-cbt", title: "العلاج المعرفي السلوكي العابر للتشخيص", type: "تقنية/تدخل علاجي"
 gaps:
   - "النموذج الشبكي الشامل لستيفن هايز وستيفان هوفمان (Hayes & Hofmann) وشبكة العمليات الممتدة (EEMM)."
   - "البروتوكول الموحد لعلاج الاضطرابات الانفعالية عابرة التشخيص لديفيد بارلو (David Barlow)."

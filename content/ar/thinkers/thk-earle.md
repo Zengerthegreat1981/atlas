@@ -11,14 +11,15 @@ active_start: 1972
 active_end: 1980
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-edie", title: "جيمس إيدي", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-edie", title: "جيمس إيدي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره في تأسيس الجمعية الأمريكية للفينومينولوجيا والفلسفة الوجودية (SPEP, 1962) يستحق توثيقاً."
@@ -30,7 +31,7 @@ gaps:
 
 ## ما أعطاه
 
-طوّر نسقاً فلسفياً وجودياً مستقلاً في كتابه «تطويبيات السيرة الذاتية الوجودية» (The Autobiographical Consciousness)، مبيّناً أن الفلسفة الحقيقية تبدأ من الوعي الذاتي بالسيرة الحياتية الفردية والحرية والأصالة ومواجهة الموت والسراب الإنساني، مدافعاً عن الذاتية الوجودية ضد الوضعية التحليلية السائدة.
+طوّر نسقاً فلسفياً وجودياً مستقلاً في كتابه «الوعي السِّيَري الذاتي» (The Autobiographical Consciousness، 1972)، مبيّناً أن الفلسفة الحقيقية تبدأ من الوعي الذاتي بالسيرة الحياتية الفردية والحرية والأصالة ومواجهة الموت والسراب الإنساني، مدافعاً عن الذاتية الوجودية ضد الوضعية التحليلية السائدة.
 
 ## موقعه من التيار
 
@@ -42,4 +43,6 @@ gaps:
 
 ## أهم أعماله
 
-الوعي السير-ذاتي (The Autobiographical Consciousness, 1972) · نفي الموت والحرية (Mystical Reason, 1980) · التفكير الفينومينولوجي (Public Sorrows and Private Pleasures, 1976).
+الوعي السِّيَري الذاتي (The Autobiographical Consciousness، 1972) · العقل الصوفي (Mystical Reason، 1980) · أحزان عامّة ومسرّات خاصّة (Public Sorrows and Private Pleasures، 1976) · الوجودية الأمريكية (The Autobiographical Consciousness وما تلاه).
+
+> **تصحيح:** كانت العناوين العربية في هذا الملف لا تطابق أصولها الإنجليزية البتّة («تطويبيات…»، «نفي الموت والحرية»، «التفكير الفينومينولوجي») — فصُحِّحت بالترجمة الفعلية.

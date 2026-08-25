@@ -11,10 +11,12 @@ active_start: 1887
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-hyperthymesia", title: "متلازمة فرط الاسترجاع والتذكر السيري المطلق (HSAM)", type: "متلازمة"
+- id: "syn-synesthesia-ideasthesia", title: "متلازمة الحس المرافق وتداخل الحواس والأفكار (Synesthesia)", type: "متلازمة"
 gaps:
   - "أبحاث جون لانغدون داون (John Langdon Down 1887) ودراسات دارولد تريفيرت (Darold Treffert)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

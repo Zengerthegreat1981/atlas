@@ -11,15 +11,16 @@ dates: "باريس · من خمسينيات القرن العشرين"
 active_start: 1953
 active_end: "مستمر"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-  - rel: "developed_by", target: "جاك لاكان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-lacan", target_type: "مفكر"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
-  - id: "thk-irigaray", title: "لوس إيريغاراي", type: "مفكر"
-  - id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
-  - id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
+- id: "thk-irigaray", title: "لوس إيريغاراي", type: "مفكر"
+- id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
+- id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"
 gaps:
   - "التحول بين لاكان البنيوي (اللغوي في الخمسينيات) ولاكان الطوبولوجي ومفهوم Jouissance والواقعي (السبعينيات)."
   - "ممارسات الجلسة متغيرة الطول (Variable-Length Session) والجدل حول شرعيتها في الرابطة الدولية للتحليل النفسي (IPA)."

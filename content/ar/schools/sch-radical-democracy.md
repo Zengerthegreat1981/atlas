@@ -13,11 +13,13 @@ language: "متعددة"
 active_start: 1982
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
-  - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-  - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
-  - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
+- id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
+- id: "con-agonism", title: "العداوة الديمقراطية (الأغونية)", type: "مفهوم"
+- id: "wrk-hegemony-socialist-strategy", title: "الهيمنة والاستراتيجية الاشتراكية (Hegemony and Socialist Strategy, 1985)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«لاكلو-موف» (sch-laclau-mouffe) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Laclau & Mouffe, Rancière, Žižek, Negri & Hardt تحتاج مراجعة من المصدر الأولي."

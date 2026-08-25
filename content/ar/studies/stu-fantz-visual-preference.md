@@ -9,9 +9,10 @@ en: "Robert Fantz's Infant Visual Preference Study"
 crumb: "علم النفس التنموي والإدراكي ← الدراسات والأبحاث ← تجارب فانتز للتفضيل البصري"
 active_start: 1958
 active_end: 1961
-edges: []
+edges:
+  []
 related:
-  - id: "syn-prosopagnosia", title: "متلازمة عمه تعرف الوجوه", type: "متلازمة"
+- id: "syn-prosopagnosia", title: "متلازمة عمه تعرف الوجوه", type: "متلازمة"
 gaps:
   - "تصميم 'غرفة النظر' (Looking Chamber) وتسجيل مدة تثبيت بصر الرضيع بالثواني."
   - "لا يوجد اقتباس مباشر موثوق متاح."

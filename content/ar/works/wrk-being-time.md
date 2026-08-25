@@ -10,18 +10,20 @@ crumb: "المدرسة الوجودية ← الأعمال ← الوجود وا
 dates: "1927 · هايدجر"
 active_start: 1927
 active_end: 1927
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "هايدجر", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "هايدجر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "wrk-zollikon", title: "ندوات تسوليكون", type: "عمل"
-  - id: "dbt-boss-binswanger", title: "خصومة قراءته", type: "جدل"
+- id: "thk-heidegger", title: "هايدجر", type: "مفكر"
+- id: "wrk-zollikon", title: "ندوات تسوليكون", type: "عمل / كتاب"
+- id: "dbt-boss-binswanger", title: "خصومة قراءته", type: "جدل"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
 ---
-
 # الوجود والزمان
 
 أثقل نص في الخلفية الفلسفية للمدرسة كلها، وأكثرها استشهاداً وأقلّها قراءةً.

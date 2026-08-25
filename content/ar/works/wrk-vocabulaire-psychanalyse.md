@@ -8,15 +8,22 @@ en: "Vocabulaire de la Psychanalyse (The Language of Psycho-Analysis)"
 crumb: "التحليل النفسي ← الأعمال ← معجم التحليل النفسي"
 dates: "1967"
 language: "الفرنسية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جان لابلانش", target_type: "مفكر"
-  - rel: "authored_by", target: "جان-بيرتران بونتالي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-laplanche", target_type: "مفكر"
+- rel: "authored_by", target: "thk-pontalis", target_type: "مفكر"
 related:
-  - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
-  - id: "thk-pontalis", title: "جان-بيرتران بونتالي", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
+- id: "thk-pontalis", title: "جان-بيرتران بونتالي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # معجم التحليل النفسي (Vocabulaire de la Psychanalyse)

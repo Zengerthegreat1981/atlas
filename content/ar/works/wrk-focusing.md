@@ -10,14 +10,15 @@ dates: "1978 · يوجين جندلين"
 language: "الإنجليزية"
 active_start: 1978
 active_end: 1978
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "يوجين جندلين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-gendlin", target_type: "مفكر"
 related:
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "con-felt-sense", title: "الإحساس الجسدي المحسَّس", type: "مفهوم"
-  - id: "con-experiential-focusing", title: "التركيز التجريبي", type: "مفهوم"
-  - id: "tec-focusing-oriented", title: "التركيز الموجّه بالخبرة", type: "تقنية/تدخل علاجي"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "con-felt-sense", title: "الإحساس الجسدي المحسَّس", type: "مفهوم"
+- id: "con-experiential-focusing", title: "التركيز التجريبي", type: "مفهوم"
+- id: "tec-focusing-oriented", title: "التركيز الموجّه بالخبرة", type: "تقنية/تدخل علاجي"
 gaps:
   - "التمييز بين طبعات 1978، 1981، 1985 يحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

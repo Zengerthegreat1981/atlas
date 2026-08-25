@@ -11,17 +11,18 @@ dates: "لندن وميريلاند · من الستينيات"
 active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
-  - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-  - id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
+- id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
+- id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
 gaps:
   - "تأسيس عيادة تافيستوك للعلاقات الزوجية بلندن (Tavistock Relationships) وأعمال هنري ديكس (Henry Dicks) التأسيسية."
   - "تطبيقات نظرية علاقات الموضوع الأسرية عند ديفيد وجيل شارف (David & Jill Scharff)."
 ---
-
 # العلاج التحليلي للأزواج والأسرة
 
 تطبيق مفاهيم التحليل النفسي ونظرية علاقات الموضوع على النسق الزوجي والأسري، يدرس كيف تتشابك الصراعات اللاواعية وإسقاطات الطفولة الفردية لتصنع ديناميات الصراع المشترك والزواج المأزوم.

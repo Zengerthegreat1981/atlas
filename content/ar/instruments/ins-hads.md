@@ -9,10 +9,11 @@ en: "Hospital Anxiety and Depression Scale (HADS)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس قلق واكتئاب المستشفيات"
 active_start: 1983
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب", type: "أداة قياس"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب", type: "أداة قياس"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث ر. ب. زيغموند وسنايث (A.S. Zigmond & R.P. Snaith 1983) في المستشفيات العامة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,10 +13,13 @@ language: "الألمانية"
 active_start: 1921
 active_end: 1921
 edges:
-  - rel: "belongs_to", target: "الذرية المنطقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
 related:
-  - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
-  - id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "العلاقة بين 'الرسالة' وكتاب رمزي نمساوي مبكر لم يُراجع."
   - "لا يوجد اقتباس مباشر موثوق من الطبعة الألمانية الأولى."

@@ -9,12 +9,15 @@ crumb: "التحليل النفسي ← الناس ← الجيل الثاني �
 dates: "بريطانيا · 1885–1967"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1967
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-  - id: "thk-twolff", title: "توني فولف", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
+- id: "thk-twolff", title: "توني فولف", type: "مفكر"
 gaps:
   - "معلومات عن سنوات التدريب في زيورخ (قبل 1945) شحيحة في المصادر الإنجليزية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -38,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-«المرأة العارفة: سيكولوجيا أنثوية» (Knowing Woman: A Feminine Psychology, 1973, posthumous).
+«المرأة العارفة: سيكولوجيا أنثوية» (Knowing Woman: A Feminine Psychology, 1973، نُشر بعد وفاتها).

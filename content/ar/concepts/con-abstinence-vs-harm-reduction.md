@@ -8,12 +8,18 @@ en: "Abstinence-based vs Harm Reduction"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← الامتناع مقابل الحد من الضرر"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الامتناع الكامل مقابل الحد من الضرر (Abstinence-based vs Harm Reduction)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-abstinence-vs-harm-reduction", target_type: "مدرسة"
 related:
-  - id: "con-addiction-model-debate", title: "النموذج الطبي للإدمان", type: "مفهوم"
+- id: "con-addiction-model-debate", title: "النموذج الطبي للإدمان", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الامتناع الكامل مقابل الحد من الضرر

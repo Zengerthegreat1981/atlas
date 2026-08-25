@@ -10,10 +10,13 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← الأمبيدك�
 active_start: 1936
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
-  - id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
+- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
+- id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Maharashtra Government الأصلية لـ Writings and Speeches."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

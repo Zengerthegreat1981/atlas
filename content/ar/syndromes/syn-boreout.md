@@ -11,10 +11,12 @@ active_start: 2007
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-presenteeism-syndrome", title: "متلازمة الحضور الشكلي والإنهاك في بيئة العمل (Presenteeism)", type: "متلازمة"
+- id: "syn-decisional-procrastination", title: "التسويف القرار (Decisional Procrastination)", type: "متلازمة"
 gaps:
   - "أبحاث بيتر فيردر وفيليب روثلين (Peter Werder & Philippe Rothlin 2007)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

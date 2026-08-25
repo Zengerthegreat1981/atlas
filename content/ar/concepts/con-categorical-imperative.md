@@ -10,11 +10,14 @@ crumb: "الكانطية ← الأخلاق ← الأمر المطلق"
 active_start: 1785
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الكانطية النقدية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "إيمانويل كانط", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-kant", target_type: "مفكر"
 related:
-  - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
-  - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز بين الصياغات الأربع للأمر المطلق (Groundwork, 1785) يحتاج مراجعة بيبلوغرافية."
   - "لا يوجد اقتباس مباشر موثوق من Grundlegung بعد."

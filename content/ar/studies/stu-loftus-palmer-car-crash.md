@@ -8,9 +8,13 @@ en: "Loftus & Palmer Automobile Reconstruction Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة لوفتوس وبالمر لتذكر حوادث السيارات"
 active_start: 1974
 active_end: 1974
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
+- id: "con-misinformation-effect-loftus", title: "تأثير التضليل وقابلية الذاكرة للتعديل", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تطبيقات المقابلة الإرشادية المعرفية (Cognitive Interview) للشرطة لتجنب الأسئلة الإيحائية تحتاج توثيقاً"
   - "التطبيقات القضائية في شهادات شهود العيان تتطلب استعراضاً لأدبيات علم النفس الجنائي"

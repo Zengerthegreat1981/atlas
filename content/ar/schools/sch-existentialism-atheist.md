@@ -13,17 +13,24 @@ language: "الفرنسية"
 active_start: 1943
 active_end: 1980
 edges:
-  - rel: "belongs_to", target: "الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-  - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-  - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
-  - id: "sch-absurdism", title: "العبثية", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
+- id: "sch-absurdism", title: "العبثية", type: "مدرسة"
+- id: "exp-camus-algerian-poverty-sun", title: "طفولة كامو في فقر الجزائر وشمس البحر المتوسط ومنبع فلسفة التمرد", type: "خبرة معيشة"
+- id: "exp-nietzsche-sils-maria-eternal-return", title: "إلهام نيتشه بالعود الأبدي بجوار صخرة سيلس ماريا (1881)", type: "خبرة معيشة"
+- id: "trm-mauvaise-foi-bad-faith-sartre", title: "سوء النية (Mauvaise foi): خداع الذات والهروب من مسؤولية الحرية", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-ressentiment-nietzsche", title: "الحقد الوجودي والضغينة (Ressentiment): أخلاق العبيد وتزييف القيم", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-ubermensch-overman-nietzsche", title: "الإنسان المتفوق (Übermensch): تجاوز الذات وتوليد القيم الجديدة", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-wille-zur-macht-nietzsche", title: "إرادة القوة (Wille zur Macht): المحرك الجوهري للحياة والارتقاء", type: "مصطلح لغوي متنازع عليه"
+- id: "met-sartre-paperknife-essence", title: "سكين الورق لسارتر: استعارة أسبقية الوجود على الماهية", type: "استعارة/مجاز مؤسِّس"
+- id: "que-is-nothingness-a-state", title: "هل العدم حالة وجودية قابلة للتصور أم مجرد سلب عقلي لغوي؟", type: "سؤال توليدي"
 gaps:
   - "حدود التأثير المتبادل بين سارتر وكامو في الخمسينيات تحتاج إعادة بناء من رسائلهما المشتركة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع الأناركية الفلسفية (Landauer، Read) لم تُراجع."
 ---
-
 # الوجودية الملحدة (Atheist Existentialism)
 
 تيار في الوجودية يرفض فكرة الله الميتافيزيقي ومعها فكرة «المعنى الموضوعي» الذي يُعطى من خارج. هذا التيار يأخذ شعارات سارتر على محمل الجد: **الإنسان محكوم أن يكون حرًّا**، ولا ملجأ إلا في الفعل. تختلف عن العبثية (Camus) في أنها ترى أن **الحرية ممكنة** رغم غياب الله، بينما ترى العبثية أن المعركة مع اللامعنى تنتهي بـ«**التمرد**» دون وعد بالنصر.

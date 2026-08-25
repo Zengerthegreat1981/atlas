@@ -11,11 +11,12 @@ dates: "كاليفورنيا وإيسالن · الستينيات"
 active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "إيدا رولف", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-irolf", target_type: "مفكر"
 related:
-  - id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
 gaps:
   - "سلسلة الجلسات العشر الكلاسيكية لإيدا رولف (Ida Rolf's Ten-Series) لإعادة محاذاة اللفافة العضلية (Fascia) مع حقل الجاذبية الأرضية."
   - "أثر تحرير الأنسجة الضامة العميقة في تفريغ الصدمات الانفعالية واستعادة التوازن النفس-جسدي."

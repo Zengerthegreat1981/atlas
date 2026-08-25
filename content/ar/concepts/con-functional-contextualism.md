@@ -8,11 +8,15 @@ en: "Functional Contextualism"
 crumb: "المعرفية السلوكية ← المفاهيم ← السياقية الوظيفية"
 active_start: 1987
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
-  - id: "con-relational-frame-theory", title: "نظرية إطار العلاقات", type: "مفهوم"
+- id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
+- id: "con-relational-frame-theory", title: "نظرية إطار العلاقات", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التمييز الفلسفي الدقيق بين Functional Contextualism و Radical Behaviorism و Pragmatism الكلاسيكي — موضع فلسفي معمَّق."

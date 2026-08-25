@@ -11,16 +11,17 @@ active_start: 1997
 active_end: 1997
 country: "إيطاليا / بريطانيا"
 language: "الإيطالية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
-  - id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "con-time", title: "الزمن", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "كتاباتها في العلاج الوجودي الموجز (Time-Limited Existential Therapy) بالتعاون مع أليسون شتراسر تستحق إدراجاً."
+  - "كتاباتها في العلاج الوجودي الموجز (Time-Limited Existential Therapy) بالتعاون مع فريدي وأليسون ستراسر (Freddie and Alison Strasser) تستحق إدراجاً."
 ---
 
 # لوتشيا مويا-شتراسر
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعمالها
 
-العلاج الوجودي محدد الزمان (Time-Limited Existential Therapy, 1997 مع أليسون شتراسر) · مقالات في التحليل الفينومينولوجي والتدريب الإكلينيكي.
+العلاج الوجودي محدد الزمان (Time-Limited Existential Therapy, 1997 مع فريدي وأليسون ستراسر (Freddie and Alison Strasser)) · مقالات في التحليل الفينومينولوجي والتدريب الإكلينيكي.

@@ -6,14 +6,21 @@ level: ""
 title: "القبول والالتزام — الجار المحرِج"
 en: "ACT and the third wave"
 crumb: "المدرسة الوجودية ← الجيران ← القبول والالتزام — الجار المحرِج"
+part: "bridge"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "neighbour_of", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "neighbour_of", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+- id: "dia-existential-act-encounter", title: "لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)", type: "حوار مع مدرسة مجاورة"
+- id: "met-act-passengers-on-the-bus", title: "ركاب الحافلة: استعارة الذات والأفكار في علاج القبول والالتزام", type: "استعارة/مجاز مؤسِّس"
+- id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
+- id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "rel-family-systems-bowen", title: "العلاج الأسري ونظرية Bowen: منظوماتية الأجيال", type: "علاقة بين مدرستين"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # القبول والالتزام — الجار المحرِج

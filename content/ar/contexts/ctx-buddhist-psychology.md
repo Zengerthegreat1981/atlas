@@ -10,13 +10,14 @@ country: "الهند / شرق آسيا"
 language: "السنسكريتية / البالية"
 active_start: -500
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاجات القائمة على اليقظة والقبول (الموجة الثالثة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاجات القائمة على اليقظة والقبول (الموجة الثالثة)", target_type: "مدرسة"
 related:
-  - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-  - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
-  - id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
-  - id: "evt-third-wave-cbt-symposium-2004", title: "ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي", type: "حدث تاريخي"
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
+- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
+- id: "evt-third-wave-cbt-symposium-2004", title: "ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي", type: "حدث تاريخي"
 gaps:
   - "تأصيل الترجمات الدقيقة للمصطلحات البالية (أبهيدارما، ساتيباثانا) يحتاج مراجعة مع متخصصين لغويين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

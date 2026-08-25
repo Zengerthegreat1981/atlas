@@ -8,11 +8,15 @@ en: "Diagnostic Inflation and Concept Creep in Mental Disorders"
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← جدل التمييع التشخيصي وتوسع تصنيفات الطب النفسي"
 active_start: 1994
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
-  - id: "stu-rosenhan-on-being-sane", title: "دراسة روزنهان الشهيرة 'عن كونك سليماً في أماكن غير سليمة' والتشخيص النفسي", type: "دراسة وبحث"
-  - id: "stu-farina-mental-illness-stigma", title: "دراسات فارينا التجريبية حول وصمة المرض النفسي والأثر التفاعلي للتسمية", type: "دراسة وبحث"
+- id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
+- id: "stu-rosenhan-on-being-sane", title: "دراسة روزنهان الشهيرة 'عن كونك سليماً في أماكن غير سليمة' والتشخيص النفسي", type: "دراسة وبحث"
+- id: "stu-farina-mental-illness-stigma", title: "دراسات فارينا التجريبية حول وصمة المرض النفسي والأثر التفاعلي للتسمية", type: "دراسة وبحث"
+- id: "dbt-mental-illness-vs-problem", title: "المرض العقلي: مرض أم مشكلة حياتية؟", type: "جدل"
+- id: "dbt-rdoc-critique", title: "نموذج RDoC كبديل عن DSM: نقد", type: "جدل"
 gaps:
   - "التمييز بين التمدد الرأسي (خفض عتبة الشدة) والتمدد الأفقي (إدخال مشكلات جديدة كإدمان الألعاب) لـ Haslam يحتاج توثيقاً"
   - "أثر التمييع التشخيصي على نزع الصبغة السريرية عن المعاناة الوجودية والأخلاقية يتطلب مراجعة فلسفية نفسية"

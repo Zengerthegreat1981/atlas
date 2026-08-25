@@ -8,8 +8,14 @@ en: "Milgram's Obedience to Authority Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة ميلغرام للطاعة والسلطة"
 active_start: 1961
 active_end: 1963
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
+- id: "que-nature-of-evil-banality-arendt", title: "كيف يرتكب الموظف العادي أبشع الفظائع دون أن يكون شريراً سادياً؟", type: "سؤال توليدي"
+- id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
+- id: "con-agentic-state-milgram", title: "الحالة الوكالية والانصياع للسلطة", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لجميع المتغيرات الثمانية عشر التي اختبرها ميلغرام تحتاج مراجعة مقارنة من كتابه الصادر 1974"
   - "تسجيلات الأرشيف الصوتي في جامعة ييل كشفت لاحقاً عن إلحاح أكبر من المجربين مقارنة بالبروتوكول المعلن"

@@ -9,12 +9,15 @@ crumb: "العلاج الجدلي السلوكي (DBT) ← مهارات اليق
 active_start: 1993
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
-  - id: "tec-dbt-mind-observe", title: "الملاحظة", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-er-dialectical-thinking", title: "التفكير الجدلي (الديالكتيكي)", type: "تقنية/تدخل علاجي"
-  - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-mind-observe", title: "الملاحظة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-dialectical-thinking", title: "التفكير الجدلي (الديالكتيكي)", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "tec-dbt-daily-daily-mindfulness-check-in", title: "تسجيل يقظة يومي", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-storytelling-mind-vs-wise-mind", title: "عقل القصص مقابل العقل الحكيم", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

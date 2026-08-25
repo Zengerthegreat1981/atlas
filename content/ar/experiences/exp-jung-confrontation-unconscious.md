@@ -8,11 +8,15 @@ en: "Jung's First-Person Account of Confrontation with the Unconscious"
 crumb: "علم النفس التحليلي اليونغي ← الخبرات المعيشة ← مواجهة اللاوعي"
 active_start: 1913
 active_end: 1919
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علم النفس التحليلي اليونغي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس التحليلي اليونغي", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "evt-munich-congress-jung-freud-split-1913", title: "مؤتمر ميونخ الرابع للتحليل النفسي والانفصال النهائي بين كارل يونغ وسيغموند فرويد", type: "حدث تاريخي"
+- id: "exp-jung-break-with-freud-solitude", title: "قطيعة يونغ المؤلمة مع فرويد وعزلته في بولينغن لبناء البرج", type: "خبرة معيشة"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "evt-munich-congress-jung-freud-split-1913", title: "مؤتمر ميونخ الرابع للتحليل النفسي والانفصال النهائي بين كارل يونغ وسيغموند فرويد", type: "حدث تاريخي"
 gaps:
   - "ترجمة الاقتباسات الألمانية المباشرة من 'ذكريات وأحلام وتأملات' والكتاب الأحمر تحتاج مطابقة بيبلوغرافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

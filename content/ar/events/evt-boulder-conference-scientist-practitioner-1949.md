@@ -9,8 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1949
 active_end: "مستمر"
 country: "الولايات المتحدة"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "مؤتمر فيل عام 1973 (Vail Conference) وظهور نموذج الممارس-العالم وبديل دكتوراه Psy.D يتطلب مقارنة"
   - "تقرير لجنة شكاو (David Shakow 1947) كمسودة أصلية لوثيقة بولدر يحتاج تفصيلاً"

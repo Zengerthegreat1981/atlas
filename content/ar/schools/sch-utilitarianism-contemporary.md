@@ -13,13 +13,15 @@ language: "الإنجليزية"
 active_start: 1950
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_from", target: "النفعية الكلاسيكية (مل، بنتام)", target_type: "مدرسة"
-  - rel: "superseded_by", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_from", target: "النفعية الكلاسيكية (مل، بنتام)", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-contractualism", target_type: "مدرسة"
 related:
-  - id: "thk-singer", title: "بيتر سينغر", type: "مفكر"
-  - id: "thk-mill", title: "جون ستيوارت مل", type: "مفكر"
-  - id: "thk-dparfit", title: "ديريك بارفيت", type: "مفكر"
+- id: "thk-singer", title: "بيتر سينغر", type: "مفكر"
+- id: "thk-mill", title: "جون ستيوارت مل", type: "مفكر"
+- id: "thk-dparfit", title: "ديريك بارفيت", type: "مفكر"
+- id: "thk-peter-singer", title: "بيتر سنغر", type: "مفكر"
+- id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«ج. ج. س. سمارت» (thk-smart) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هنري سيدجويك» (thk-sidgwick) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

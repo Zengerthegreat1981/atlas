@@ -9,11 +9,15 @@ crumb: "التحليل النفسي ← الناس ← أركيتايبية أك
 dates: "بريطانيا · [غير مؤكد]"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "thk-samuels", title: "أندرو صاموئلز", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-samuels", title: "أندرو صاموئلز", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -33,8 +37,8 @@ gaps:
 
 ## قيد
 
-مُدرجة هنا لأهميتها في تأريخ يونغ أكاديمياً، مع إقرار بأن كتاباتها متخصصة في تاريخ الفكر أكثر من الإكلينيكياً.
+مُدرجة هنا لأهميتها في تأريخ يونغ أكاديمياً، مع إقرار بأن كتاباتها متخصصة في تاريخ الفكر أكثر منها إكلينيكية.
 
 ## أهم أعمالها
 
-«اتصال E.T.A. Hoffmann–Jung» (The E.T.A. Hoffmann–Jung Connection, 2008) · «مقدمة في علم النفس التحليلي» (محرّر مشارك في كتب أكاديمية) · مقالات في JAP وJAP Journal.
+«اتصال E.T.A. Hoffmann–Jung» (The E.T.A. Hoffmann–Jung Connection, 2008) · «مقدمة في علم النفس التحليلي» (محرّر مشارك في كتب أكاديمية) · مقالات في *Journal of Analytical Psychology*.

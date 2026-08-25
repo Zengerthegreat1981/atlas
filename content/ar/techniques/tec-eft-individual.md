@@ -11,12 +11,13 @@ dates: "جامعة يورك · التسعينيات"
 active_start: 1993
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-  - id: "tec-process-experiential", title: "العلاج التجريبي-العملياتي", type: "تقنية/تدخل علاجي"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "tec-process-experiential", title: "العلاج التجريبي-العملياتي", type: "تقنية/تدخل علاجي"
 gaps:
   - "تصنيف الانفعالات الأربعة لليزلي غرينبرغ (الانفعالات الأولية التكيفية، الأولية غير التكيفية، الثانوية التفاعلية، والأداتية/التلاعبية)."
   - "المبدأ الجوهري: 'لا يمكنك مغادرة مكان لم تصله بعد' وتقنية استخدام العاطفة لتغيير العاطفة (Changing Emotion with Emotion)."

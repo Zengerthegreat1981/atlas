@@ -1,0 +1,57 @@
+---
+slug: "dbt-evidence-based-practice-clinical-decision-making"
+id: "DBT-0445"
+type: "جدل"
+part: "psychology"
+level: "متقدم"
+title: "جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ"
+en: "Evidence-Based Practice in Clinical Decision-Making: The Debate"
+crumb: "علم النفس الإكلينيكي ← جَدالات مَنْهَجِيّة ← EBP فِي الْقَرَار السَّرِيرِيّ"
+active_start: 2000
+active_end: "مستمر"
+edges:
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
+gaps:
+  - "رابط مقترح لم يتحقق بعد في الأطلس: أندرو إليس (thk-andrew-ellis)"
+  - "رابط مقترح لم يتحقق بعد في الأطلس: EVT ضد EBP (dbt-evidence-based-vs-empirically-validated)"
+- "لم تُراجع من نسخة أصلية مباشرة بعد (Sackett et al., 1996; APA, 2006)."
+- "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ
+
+## وصف الجَدَل
+
+جَدَل حَوْل: هَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة (Evidence-Based Practice، EBP) «**مُفِيدَة**» (Helpful) لِـ**اتِّخَاذ الْقَرَار السَّرِيرِيّ** (Clinical Decision-Making)؟
+
+## أَطْرَاف الجَدَل
+
+### مَوْقِف «مُفِيد»
+
+(1) Sackett (1996) — EBP = «**أَفْضَل أَدِلَّة**» (Best Evidence) + «**خِبْرَة**» (Expertise) + «**قِيَم**» (Values). (2) APA (2006) — «**تَكَامُل**» (Integration). (3) «**أَدِلَّة**» (Evidence) — «**رَأْس**» (Head) لِـ**اتِّخَاذ الْقَرَار.
+
+### مَوْقِف «مُحَدَّد»
+
+(1) EBP «**لَا**» (Not) «**يَسْتَخْدِم**» (Uses) «**خِبْرَة**» (Expertise) «**كَافِية**». (2) «**مَرِيض**» (Patient) «**لَا**» (Not) «**يَتَطَابَق**» (Match) مَعَ أَدِلَّة «**مُتَوَسِّطَة**» (Average). (3) «**تَكَالِيف**» (Cost) EBP «**عَالِيّة**» (High).
+
+### مَوْقِف «مَشْرُوط»
+
+(1) EBP «**لَا**» (Not) «**تَحْلّ**» (Solves) «**اتِّخَاذ قَرَار**» (Decision-Making) — تَدْعَم «**لَا**» (Not) تُغْنِي.
+
+## أَدِلَّة
+
+(1) Sackett (1996). (2) APA (2006). (3) Ghaemi (2009) — نَقْد EBP كَـ**«**مَفْرِد**» (Single) مَعِيَار.
+
+## أَهمِّيَّة
+
+(1) تَكْوِين. (2) تَقْيِيم جَوْدَة. (3) سِيَاسَة.
+
+## نَقْد
+
+(1) EBP «**رَسْمِيّ**» (Rigid) «**قَد**» (May) «**يُقَصِّر**» (Reduce) «**خِبْرَة**» (Expertise). (2) «**تَجَارِب**» (Trials) «**لَا**» (Not) تُمَثِّل «**مَرَضَى حَقِيقِيّ**» (Real Patients). (3) «**مَوَارد**» (Resources) «**مَحْدُودَة**» (Limited).

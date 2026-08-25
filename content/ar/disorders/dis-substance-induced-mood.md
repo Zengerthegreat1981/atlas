@@ -11,15 +11,16 @@ icd11_code: "6A86"
 active_start: 1994
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
-  - id: "syn-craving-urge", title: "الشهوة والرغبة القهرية", type: "متلازمة"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
+- id: "syn-craving-urge", title: "الشهوة والرغبة القهرية", type: "متلازمة"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 gaps:
   - "التمييز بين اضطراب المزاج الأولي المتزامن مع الإدمان واضطراب المزاج الناتج بيولوجياً عن المادة يتطلب فحوصات متابعة ممتدة بعد الامتناع"
   - "تأثير الأدوية الشائعة كالكورتيكوستيرويدات والإنترفيرون ومضادات الضغط على إحداث نوبات مزاجية يحتاج توثيقاً طبياً"

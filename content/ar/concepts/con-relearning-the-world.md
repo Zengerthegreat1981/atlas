@@ -9,15 +9,16 @@ crumb: "المدرسة الوجودية ← المفاهيم ← إعادة تع
 active_start: 1996
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "coined_by", target: "توماس آتيغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "coined_by", target: "thk-attig", target_type: "مفكر"
 related:
-  - id: "thk-attig", title: "توماس آتيغ", type: "مفكر"
-  - id: "thk-neimeyer", title: "روبرت نيماير", type: "مفكر"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-attig", title: "توماس آتيغ", type: "مفكر"
+- id: "thk-neimeyer", title: "روبرت نيماير", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع بعد من النص الأصلي (How We Grieve: Relearning the World, 1996/2011) مباشرة — هذا الوصف مبني على ما هو موثّق في صفحة آتيغ المعتمدة فقط."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."

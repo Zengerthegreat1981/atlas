@@ -9,12 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← إرنست و�
 dates: "ألمانيا / أمريكا · 1911–2006"
 country: "ألمانيا / أمريكا"
 language: "الإنجليزية / الألمانية"
+part: "psychology"
+active_start: null
+active_end: 2006
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-self-psychology", title: "علم نفس الذات", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'معالجة الذات: الممارسة الإكلينيكية لعلم نفس الذات' (Treating the Self, 1988) يستحق إدراجاً في الأعمال."

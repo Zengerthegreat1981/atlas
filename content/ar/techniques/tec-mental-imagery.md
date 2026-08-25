@@ -8,10 +8,11 @@ en: "Mental Imagery Training"
 crumb: "الأداء والعلاج الرياضي ← علم نفس الأداء ← التصوير الذهني"
 active_start: 1969
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
 related:
-  - id: "con-pre-performance-routine", title: "الطقوس السابقة للأداء", type: "مفهوم"
+- id: "con-pre-performance-routine", title: "الطقوس السابقة للأداء", type: "مفهوم"
 gaps:
   - "تجارب Suinn الأصلية (1969) تستحق مراجعة منهجية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

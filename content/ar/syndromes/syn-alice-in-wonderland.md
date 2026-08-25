@@ -11,10 +11,10 @@ active_start: 1955
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-depersonalization-derealization", title: "اضطراب تبدد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-depersonalization-derealization", title: "اضطراب تبدد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "بحث الطبيب النفسي البريطاني جون تود (John Todd 1955) في صياغة المصطلح."
   - "لا يوجد اقتباس مباشر موثوق متاح."

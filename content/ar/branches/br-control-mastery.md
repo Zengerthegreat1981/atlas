@@ -11,11 +11,15 @@ dates: "سان فرانسيسكو · السبعينيات والثمانينيا
 active_start: 1972
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "مناهج البحث التجريبي لمجموعة سان فرانسيسكو للعلاج النفسي (SFPRG) واختبار خطة المريض (Plan Compatibility)."
   - "الربط المفاهيمي بين المعتقدات المسببة للأمراض في النظرية والمخططات المعرفية المبكرة غير التكيفية."

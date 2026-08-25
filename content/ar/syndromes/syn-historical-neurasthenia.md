@@ -11,10 +11,10 @@ active_start: 1869
 active_end: 1980
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "con-neurosis-historical-framework", title: "العصاب: الإطار التنظيمي التاريخي", type: "مفهوم"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "con-neurosis-historical-framework", title: "العصاب: الإطار التنظيمي التاريخي", type: "مفهوم"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث جورج ميلر بيرد (George Miller Beard 1869) وتسمية ويليام جيمس بـ 'Americanitis'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

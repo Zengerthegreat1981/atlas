@@ -11,9 +11,15 @@ active_start: 1990
 active_end: "مستمر"
 country: "الولايات المتحدة الأمريكية"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المرتكز على التعلق والصدمة النمائية (Attachment-Based Treatment of Developmental Trauma)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المرتكز على التعلق والصدمة النمائية (Attachment-Based Treatment of Developmental Trauma)", target_type: "مدرسة"
 related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "السجل الأصلي صنّف هذا المفكر تحت 'DDP' (العلاج التفاعلي النمائي الثنائي)، وهو نموذج أسسه دان هيوز (Dan Hughes) تحديداً؛ أما دانيال ب. براون فهو باحث ومعالِج مستقل متخصص في التعلق والصدمة النمائية لدى البالغين، له نموذجه الخاص القريب من هذا الحقل لكنه ليس مطابقاً لـ DDP بالضبط، لذا صُحّح تصنيف المدرسة."
   - "لا تتوفر تفاصيل موثقة كافية عن سيرته المبكرة أو تاريخ ميلاده."

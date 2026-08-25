@@ -6,14 +6,17 @@ level: "متوسط"
 title: "النظرية البنائية للعملية (Process Constructivism)"
 en: "Process Constructivism"
 crumb: "الإنسانية ← المفاهيم ← النظرية البنائية للعملية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "يوجين جندلين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-gendlin", target_type: "مفكر"
 related:
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "con-felt-sense", title: "الإحساس الجسدي المحسَّس", type: "مفهوم"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "con-felt-sense", title: "الإحساس الجسدي المحسَّس", type: "مفهوم"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
 gaps:
   - "العلاقة بين 'البنائية' عند جندلين و'البنائية' عند جورج كيلي (Personal Construct Psychology) تحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من جندلين بعد."

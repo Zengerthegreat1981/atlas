@@ -13,10 +13,11 @@ active_end: 1347
 country: "إنجلترا، ألمانيا (الإمبراطورية الرومانية)"
 language: "اللاتينية"
 edges:
-  - rel: "belongs_to", target: "الأوكامية / الاسمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الأوكامية / الاسمية", target_type: "مدرسة"
 related:
-  - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
-  - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
+- id: "con-ockhams-razor", title: "شفرة أوكام", type: "مفهوم"
+- id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "sch-scotism", title: "السكوتية", type: "مدرسة"
 gaps:
   - "علاقته بالفرنسيسكان وتأييده للروحانية الفقرية للقديس فرنسيس تحتاج بحثاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

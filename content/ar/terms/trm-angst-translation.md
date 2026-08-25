@@ -6,16 +6,21 @@ level: "متقدم"
 title: "ترجمة Angst: قلق أم فزع أم دهشة؟"
 en: "Translating Angst: Anxiety, Dread, or Anguish?"
 crumb: "المدرسة الوجودية ← المصطلحات المتنازع عليها ← ترجمة Angst"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-  - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
-  - id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
+- id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+
 gaps:
   - "يحتاج مراجعة مباشرة من نصوص كيركيغارد وهايدجر الأصلية (بالدنماركية والألمانية) بدل الاعتماد على مناقشات الترجمة الثانوية فقط"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ترجمة Angst: قلق أم فزع أم دهشة؟

@@ -10,10 +10,13 @@ crumb: "الفلسفة ← الصين ← مدرسة الدبلوماسيين (�
 active_start: -350
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة الدبلوماسيين (زونغ هنغ جيا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-zonghengjia", target_type: "مدرسة"
 related:
-  - id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (زونغ هنغ جيا)", type: "مدرسة"
-  - id: "thk-su-qin", title: "سو تشين", type: "مفكر"
+- id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (زونغ هنغ جيا)", type: "مدرسة"
+- id: "thk-su-qin", title: "سو تشين", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتطبيق 'الاستراتيجيات' في القرن 21 لم تُغطّ هنا."
   - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."

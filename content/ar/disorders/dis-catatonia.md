@@ -11,13 +11,14 @@ icd11_code: "6A40"
 active_start: 1874
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dbt-ect-efficacy-and-ethics", title: "جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية", type: "جدل"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dbt-ect-efficacy-and-ethics", title: "جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية", type: "جدل"
 gaps:
   - "تطور تصنيف الكاتاتونيا من نمط فرعي للفصام إلى تشخيص مستقل ومحدد عابر لكافة الاضطرابات النفسية والطبية يتطلب توثيقاً"
   - "اختبار تحدي اللورازيبام (Lorazepam Challenge Test) كإجراء تشخيصي وعلاجي فوري يحتاج تفصيلاً"

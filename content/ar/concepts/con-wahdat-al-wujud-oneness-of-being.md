@@ -1,0 +1,27 @@
+---
+slug: "con-wahdat-al-wujud-oneness-of-being"
+id: "CON-1219"
+type: "مفهوم"
+part: "philosophy"
+level: "متقدم"
+title: "وحدة الوجود العرفانية (Wahdat al-Wujud)"
+en: "Oneness of Being (Wahdat al-Wujud)"
+crumb: "العرفان والتصوف الفلسفي ← الميتافيزيقا الأكبرية ← وحدة الوجود"
+active_start: 1200
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-akbari", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-ibn-arabi", title: "ابن عربي", type: "مفكر"
+- id: "con-atman-brahman-vedanta", title: "الأتمان والبراهمان", type: "مفهوم"
+gaps:
+  - "الردود الكلامية والنقد السلفي لابن تيمية والتفريق بين وحدة الوجود والحلول والاتحاد الطبيعي."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# وحدة الوجود العرفانية (Wahdat al-Wujud)
+
+النظرية الميتافيزيقية الكبرى في العرفان النظري؛ تقرر أنه ليس في الوجود الحقيقي المطلق سوى ذات إلهية واحدة، وأن سائر المخلوقات والأكوان ليست وجودات مستقلة بجانب الله (تعدد قدماء أو شرك وجودي)، بل هي «تعينات وتجليات وفيوضات أسمائية» تظهر في مرايا الممكنات كظهور الصورة في المرآة.

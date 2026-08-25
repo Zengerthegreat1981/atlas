@@ -6,13 +6,17 @@ level: "متوسط"
 title: "الشخصية العاملة بكامل طاقتها (Fully Functioning Person)"
 en: "Fully Functioning Person"
 crumb: "الإنسانية ← المفاهيم ← الشخصية العاملة بكامل طاقتها"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "dbt-rogers-vs-may-authenticity", title: "أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة", type: "جدل"
 gaps:
   - "العلاقة بين 'الشخصية العاملة بكامل طاقتها' و'الشخص المحقق لذاته' (ماسلو) تحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."

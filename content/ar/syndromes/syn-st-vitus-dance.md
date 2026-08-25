@@ -11,10 +11,10 @@ active_start: 1374
 active_end: 1700
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-tarantism", title: "متلازمة التارانتيسم", type: "متلازمة"
+- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-tarantism", title: "متلازمة التارانتيسم", type: "متلازمة"
 gaps:
   - "أوبئة الرقص في ستراسبورغ (1518) وأوروبا في القرون الوسطى وتسمم الإرغوت."
   - "لا يوجد اقتباس مباشر موثوق متاح."

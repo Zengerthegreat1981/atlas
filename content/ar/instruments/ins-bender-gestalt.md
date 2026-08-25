@@ -8,9 +8,11 @@ en: "Bender Visual-Motor Gestalt Test (Bender-Gestalt II)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار بندر-غشطالت البصري الحركي"
 active_start: 1938
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تطوير نظام التصحيح النمائي المقنن لإليزابيث كوبيتز (Koppitz Scoring System) للأطفال يحتاج توثيقاً"
   - "الفروق بين اختبار النسخ المباشر واختبار الاسترجاع من الذاكرة تتطلب تفصيلاً إكلينيكياً"

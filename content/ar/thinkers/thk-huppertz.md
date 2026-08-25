@@ -6,17 +6,21 @@ level: "متقدم"
 title: "غيرنوت هوبرتز"
 en: "Gernot Huppertz"
 crumb: "المدرسة الوجودية ← الناس ← غيرنوت هوبرتز"
-dates: "ألمانيا · معاصر"
+dates: "ألمانيا · [غير مؤكد]"
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "التوثيق البيوغرافي والأكاديمي لمؤلفاته في العلاج الوجودي يحتاج استكمالاً."
+  - "**تحذير تحقّق**: لم يُعثر على معالج وجودي ألماني بهذا الاسم الأول. والمعروف في هذا الحقل بالألمانية هو **ميشائيل هوبرتز** (Michael Huppertz)، الطبيب النفسي صاحب المؤلفات في العلاج الوجودي والانتباه اليقظ (*Achtsamkeitsübungen*، *Existenzielle Psychotherapie*). يُرجَّح أن الاسم الأول تحريف، والملف بلا عمل واحد محدَّد؛ مرشّح للنقل إلى المسودات إلى أن تُحسَم الهوية."
 ---
 
 # غيرنوت هوبرتز

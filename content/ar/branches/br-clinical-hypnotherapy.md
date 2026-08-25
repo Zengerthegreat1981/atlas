@@ -11,17 +11,20 @@ dates: "من 1955 تقريباً"
 active_start: 1955
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم والهيبنوثيرابي", target_type: "مدرسة"
-  - rel: "evolved_into", target: "التنويم الإريكسوني (Ericksonian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنويم والهيبنوثيرابي", target_type: "مدرسة"
+- rel: "evolved_into", target: "التنويم الإريكسوني (Ericksonian)", target_type: "مدرسة"
 related:
-  - id: "thk-ihilgard", title: "إرنست هيلغارد", type: "مفكر"
-  - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
-  - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
-  - id: "con-somnambulism-hypnosis", title: "الغشية المنومة (Somnambulism)", type: "مفهوم"
+- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
+- id: "con-somnambulism-hypnosis", title: "الغشية المنومة (Somnambulism)", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ التأسيس المؤسسي (الجمعية الأمريكية للتنويم السريري 1949، والجمعية الدولية 1958) لم يُوثّق بدقة كافية."
   - "العلاقة بين المدرسة السريرية الكلاسيكية ومدرسة إريكسون لم تُحسم توثيقياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست هيلغارد (thk-ihilgard)."
 ---
 
 # التنويم العلاجي السريري

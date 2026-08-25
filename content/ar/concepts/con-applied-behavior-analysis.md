@@ -8,10 +8,15 @@ en: "Applied Behavior Analysis (ABA)"
 crumb: "العلاج المتخصص بالإعاقات والاضطرابات النمائية ← ABA للتوحد ← المفهوم"
 active_start: 1968
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
+- rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
-  - id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "نسبة الإطار إلى Baer, Wolf, Risley (1968) تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

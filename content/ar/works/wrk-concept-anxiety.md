@@ -10,11 +10,17 @@ crumb: "المدرسة الوجودية ← الأعمال ← مفهوم الق
 dates: "1844 · كيركيغارد"
 active_start: 1844
 active_end: 1844
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "كيركيغارد", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "كيركيغارد", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "كيركيغارد", type: "مفكر"
+- id: "trm-angst-translation", title: "ترجمة Angst: قلق أم فزع أم دهشة؟", type: "مصطلح لغوي متنازع عليه"
+- id: "exp-may-sanatorium-anxiety", title: "سرد رولو ماي الذاتي لخبرة العزلة والقلق الوجودي في مصحة السل", type: "خبرة معيشة"
+- id: "wrk-sickness-death", title: "المرض حتى الموت", type: "عمل / كتاب"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

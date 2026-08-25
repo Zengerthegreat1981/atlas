@@ -8,9 +8,13 @@ en: "Revised NEO Personality Inventory (NEO-PI-R / NEO-PI-3)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← قائمة الشخصية المنقحة للخمسة الكبار"
 active_start: 1985
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dbt-nature-vs-nurture-intelligence-personality", title: "جدل الطبيعة والتنشئة في الذكاء والشخصية", type: "جدل"
+- id: "ins-tci-cloninger", title: "استبيان المزاج والطباع البيولوجي النفسي لكلونينغر (TCI)", type: "أداة قياس"
 gaps:
   - "مقارنة النسخة الموسعة (240 بنداً) بالنسخة المختصرة (NEO-FFI المكونة من 60 بنداً) تحتاج توثيقاً"
   - "مدى استقرار سمات الشخصية الخمس عبر دورة الحياة والشيخوخة يتطلب مراجعة من الدراسات الطولية"

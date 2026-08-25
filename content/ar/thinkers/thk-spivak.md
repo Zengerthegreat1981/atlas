@@ -13,9 +13,13 @@ language: "الإنجليزية/البنغالية"
 active_start: 1976
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
+- rel: "belongs_to", target: "النسوية ما بعد الاستعمار", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
+- id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
+- id: "wrk-can-the-subaltern-speak", title: "هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988)", type: "عمل / كتاب"
+- id: "con-subaltern", title: "التابع (Subaltern)", type: "مفهوم"
+- id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
+- id: "dbt-feminist-universalism-vs-particularism", title: "جدل الكونية مقابل الخصوصية في النسوية", type: "جدل"
 gaps:
   - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ميشيل فوكو» (thk-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -37,7 +41,7 @@ gaps:
 
 ## قيد
 
-سؤال «هل يستطيع التابع أن يتكلم؟» كُثِّف بوصفه «تبسيطاً» (Essentialism) للتابع — وهو ما ردّت عليه في «استراتيجية ما بعد الكولونيالي» (Postcolonial Reason, 1999).
+سؤال «هل يستطيع التابع أن يتكلم؟» قُرِئ بوصفه «تبسيطاً» (Essentialism) للتابع — وهو ما ردّت عليه في «استراتيجية ما بعد الكولونيالي» (Postcolonial Reason, 1999).
 
 ## أهم أعمالها
 

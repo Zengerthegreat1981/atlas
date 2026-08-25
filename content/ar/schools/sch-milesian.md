@@ -13,14 +13,14 @@ language: "اليونانية الأيونية"
 active_start: -624
 active_end: -450
 edges:
-  - rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
-  - rel: "evolved_into", target: "الذرية اليونانية", target_type: "مدرسة"
-  - rel: "evolved_into", target: "المدرسة الإيلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-atomism-greek", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-eleatic", target_type: "مدرسة"
 related:
-  - id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
-  - id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
-  - id: "sch-heraclitean", title: "الهيراقليطية", type: "مدرسة"
-  - id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
+- id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
+- id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
+- id: "sch-heraclitean", title: "الهيراقليطية", type: "مدرسة"
+- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد (أرسطو، ميتافيزيقا ألفا، فيلسوف أبونتيا، ثيوفراستوس)."
   - "لا توجد اقتباسات مباشرة موثّقة من ثاليس وأنكسيماندر وأنكسيمينيس؛ الباقي تلخيصات لاحقة."

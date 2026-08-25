@@ -8,12 +8,14 @@ en: "Modeling (Observational Learning)"
 crumb: "المعرفية السلوكية ← المفاهيم ← النمذجة"
 active_start: 1961
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "con-self-efficacy", title: "الكفاءة الذاتية", type: "مفهوم"
-  - id: "con-triadic-reciprocal-determinism", title: "الحتمية التبادلية الثلاثية", type: "مفهوم"
+- id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "con-self-efficacy", title: "الكفاءة الذاتية", type: "مفهوم"
+- id: "con-triadic-reciprocal-determinism", title: "الحتمية التبادلية الثلاثية", type: "مفهوم"
+- id: "con-social-learning", title: "نظرية التعلم الاجتماعي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التمييز بين أنواع النمذجة (حية، رمزية، مُتخيَّلة، مجردة) — موضع تفصيل."

@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← هوارد ب�
 dates: "كندا / أمريكا · 1925–"
 country: "كندا / أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-self-psychology", title: "علم نفس الذات", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوم 'الاستجابة المثلى' (Optimal Responsiveness) كبديل للإحباط الأمثل يستحق إدراجاً مفاهيمياً."
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-الاستجابة المثلى وتغيير التحليل النفسي (Optimal Responsiveness, 1998) · نظريات العلاقات بالموضوع وعلم نفس الذات (Theories of Object Relations, 1990 مع Newman) · التحليل النفسي كعلاقة مشتركة (The Power of Specificity, 2011).
+الاستجابة المثلى وتغيير التحليل النفسي (Optimal Responsiveness, 1998) · نظريات العلاقات بالموضوع وعلم نفس الذات (Theories of Object Relations, 1990 مع Newman) · قوة التخصيص في العلاج النفسي (The Power of Specificity in Psychotherapy, 2011).

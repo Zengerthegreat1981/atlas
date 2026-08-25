@@ -13,11 +13,17 @@ language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "evolved_from", target: "النسوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-  - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
+- id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
+- id: "wrk-different-voice", title: "صوت مختلف (In a Different Voice)", type: "عمل / كتاب"
+- id: "thk-nel-noddings", title: "نيل نودينغز", type: "مفكر"
+- id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
+- id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
+- id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
+- id: "con-speciesism", title: "تخصيص النوع (Speciesism)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الأخلاق النسوية» (sch-feminist-ethics) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Carol Gilligan, Nel Noddings, Virginia Held, Eva Feder Kittay, Michael Slote, Emmanuel Levinas need review."

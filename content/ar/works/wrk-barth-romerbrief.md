@@ -6,16 +6,21 @@ level: "متقدم"
 title: "الرسالة إلى أهل رومية (اللاهوت الجدلي)"
 en: "The Epistle to the Romans (Barth, 1919/1922)"
 crumb: "المدرسة الوجودية ← الأعمال ← الرسالة إلى أهل رومية (كارل بارث)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-barth", title: "كارل بارث", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
+- id: "thk-barth", title: "كارل بارث", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-tillich", title: "بول تيليش", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
+
 gaps:
   - "النص الأصلي 'Der Römerbrief' (1919/1922) لبارث يحتاج مراجعة من المصدر الأولي للحجج الأساسية."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الرسالة إلى أهل رومية (1919/1922)

@@ -9,13 +9,17 @@ crumb: "التحليل النفسي ← الناس ← بيئي-تطوري مع�
 dates: "إيطاليا · مواليد 1960"
 country: "إيطاليا"
 language: "الإيطالية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ستيفانو كارطا
@@ -36,4 +40,4 @@ gaps:
 
 ## أهم أعماله
 
-«السُّلَّم اللانهائي: مقاربة يونغية تطورية» (A Jungian and Evolutionary Approach, 2025) · «علم النفس التحليلي اليوم» (مقابلات ومقالات متعددة) · تحرير «موسوعة أنظمة دعم الحياة» لـ UNESCO (مدخل علم النفس).
+«السُّلَّم اللانهائي: مقاربة يونغية تطورية» (The Infinite Ladder: A Jungian and Evolutionary Approach, 2025) · «علم النفس التحليلي اليوم» (مقابلات ومقالات متعددة) · تحرير «موسوعة أنظمة دعم الحياة» لـ UNESCO (مدخل علم النفس).

@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← مايكل نيكولز"
 edges:
-  - rel: "belongs_to", target: "العلاج الأسري البنيوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري البنيوي", target_type: "مدرسة"
 related:
-  - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
+- id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

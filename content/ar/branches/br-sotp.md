@@ -10,10 +10,19 @@ country: "أمريكا الشمالية / المملكة المتحدة / الد
 language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشرعي/الجنائي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشرعي/الجنائي", target_type: "مدرسة"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-bmaletzky", title: "باري مالتزكي", type: "مفكر"
+- id: "thk-fberlin", title: "فريد برلين", type: "مفكر"
+- id: "thk-gabel", title: "جين أبيل", type: "مفكر"
+- id: "thk-hbarbaree", title: "هوارد بارباري", type: "مفكر"
+- id: "thk-plangevin", title: "روني لانجفان", type: "مفكر"
+- id: "thk-rhanson", title: "ر. كارل هانسون", type: "مفكر"
+- id: "con-relapse-prevention-sexual", title: "منع الانتكاسة الجنسية", type: "مفهوم"
+- id: "ins-static-99", title: "مقياس Static-99 للمخاطرة الجنسية", type: "أداة قياس"
 gaps:
   - "تاريخ التأسيس في Behavioral Sciences Unit (Correctional Service of Canada) يستحق مصدراً."
   - "الفرق بين 'relapse prevention' (Pithers) و'Good Lives Model' (Tony Ward) يستحق توثيقاً."

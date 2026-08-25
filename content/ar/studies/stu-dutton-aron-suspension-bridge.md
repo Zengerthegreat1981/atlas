@@ -9,9 +9,10 @@ en: "Dutton & Aron's Capilano Suspension Bridge Experiment"
 crumb: "علم النفس الاجتماعي والانفعالي ← الدراسات والأبحاث ← تجربة داتون وآرون للجسر المعلق"
 active_start: 1974
 active_end: 1974
-edges: []
+edges:
+  []
 related:
-  - id: "stu-schachter-singer-two-factor-emotion", title: "تجربة شاختر وسينغر للانفعال", type: "دراسة وبحث"
+- id: "stu-schachter-singer-two-factor-emotion", title: "تجربة شاختر وسينغر للانفعال", type: "دراسة وبحث"
 gaps:
   - "المقارنة بين جسر كابيلانو المعلق المهتز (ارتفاع 70 متراً) وجسر خشبي منخفض وثابت."
   - "لا يوجد اقتباس مباشر موثوق متاح."

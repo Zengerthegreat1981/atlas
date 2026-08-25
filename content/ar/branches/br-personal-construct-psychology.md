@@ -11,12 +11,16 @@ dates: "الخمسينيات"
 active_start: 1955
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
-  - rel: "developed_by", target: "جورج كيلي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "developed_by", target: "جورج كيلي", target_type: "مفكر"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"
+- id: "thk-kelly-george", title: "جورج ألكسندر كيلي", type: "مفكر"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "كتاب جورج كيلي العمدة 'سيكولوجيا الأطر الشخصية' (1955) في مجلدين وشبكة التداعيات (Repertory Grid)."
   - "استعارة 'الإنسان كعالم' (Man-the-Scientist) وتطبيقاتها في العلاج النفسي بالدور الثابت (Fixed-Role Therapy)."

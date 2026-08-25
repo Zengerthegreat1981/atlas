@@ -10,10 +10,15 @@ country: "الولايات المتحدة / المملكة المتحدة / ال
 language: "إنجليزية"
 active_start: 2016
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
-  - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+- id: "thk-gschwartz", title: "غاري شوارتز", type: "مفكر"
+- id: "thk-tbickmore", title: "تيموثي بيكمور", type: "مفكر"
+- id: "thk-kcolby", title: "كينيث كولبي", type: "مفكر"
+- id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+- id: "con-chatbot-therapeutic-alliance", title: "التحالف العلاجي مع chatbot", type: "مفهوم"
 gaps:
   - "لا تاريخ نهاية — المجال في تطور سريع."
   - "مفهوم 'التحالف العلاجي مع chatbot' لم يُراجع من مصدر أولي مباشر بعد."

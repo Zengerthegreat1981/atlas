@@ -11,15 +11,17 @@ active_start: 1986
 active_end: 2015
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
-  - id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-greenberg", title: "جيف غرينبرغ", type: "مفكر"
-  - id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
+- id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
+- id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-lgreenberg", title: "ليزلي غرينبرغ", type: "مفكر"
+- id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تجارب بروز الموت (Mortality Salience) المعملية وتطبيقاتها على الدفاع الثقافي تحتاج ربطاً بالدراسات."

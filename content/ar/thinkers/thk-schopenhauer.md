@@ -11,18 +11,21 @@ active_start: 1818
 active_end: 1851
 country: "ألمانيا"
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-zapffe", title: "بيتر فيسيل زابفه", type: "مفكر"
-  - id: "thk-klima", title: "لاديسلاف كليما", type: "مفكر"
-  - id: "sch-pessimism", title: "التشاؤمية الفلسفية", type: "مدرسة"
-  - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-zapffe", title: "بيتر فيسيل زابفه", type: "مفكر"
+- id: "thk-klima", title: "لاديسلاف كليما", type: "مفكر"
+- id: "sch-pessimism", title: "التشاؤمية الفلسفية", type: "مدرسة"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "thk-mikel-dufrenne", title: "ميكائيل دوفرين", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تأثير مفهوم 'إرادة الحياة العمياء' على اللاشعور الفرويدي والقلق الوجودي يستحق إدراجاً مفاهيمياً."

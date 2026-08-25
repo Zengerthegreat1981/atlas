@@ -11,11 +11,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1981
 active_end: 2021
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس النسوي التقاطعي", target_type: "تيار"
 related:
-  - id: "thk-kcrenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
-  - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "مفكر"
+- id: "thk-kcrenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
+- id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "تيار"
+- id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
+- id: "thk-sahmed", title: "سارة أحمد", type: "مفكر"
+- id: "dbt-feminist-universalism-vs-particularism", title: "جدل الكونية مقابل الخصوصية في النسوية", type: "جدل"
+- id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
 gaps:
   - "تفاصيل مسيرتها في Yale وOberlin تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -30,7 +35,7 @@ gaps:
 - **«الأمومة السوداء» (Black Motherhood) والعلاقة بين الأم والابنة** في كتابها *Bone Black* (1996).
 - **مفهوم «الحب كتدخل» (Love as Praxis)**: في كتابها الشهير *All About Love* (2000)، قدّمت تصوراً نسوياً للحب كقوة اجتماعية تتحدى بنى السلطة.
 - **نقد الذكورة السوداء (Black Masculinity)**: في *We Real Cool* (2004)، حلّلت كيف يُعيد بناء الذكورة السوداء في المدارس والأعمال الأدبية إنتاج الأنماط الذكورية المدمّرة.
-- **«الفضاء المنزلي كموقع للمقاومة»**: في *Homeplace* (1990s)، رأت أن البيت يمكن أن يكون «موقعاً للمقاومة» حين يُعاد تعريفه كفضاء للشفاء.
+- **«الفضاء المنزلي كموقع للمقاومة»**: في *Homeplace* (التسعينيات من القرن العشرين)، رأت أن البيت يمكن أن يكون «موقعاً للمقاومة» حين يُعاد تعريفه كفضاء للشفاء.
 
 ## موقعها من التيار
 

@@ -11,10 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1960
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالتحويل (Conversion Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
 related:
-  - id: "dis-gender-dysphoria", title: "اضطراب الهوية الجنسية (Gender Dysphoria)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gender-dysphoria", title: "اضطراب الهوية الجنسية (Gender Dysphoria)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
+- id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:
   - "تفاصيل الفترة المبكرة في الممارسة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

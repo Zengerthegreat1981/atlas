@@ -1,0 +1,47 @@
+---
+slug: "que-why-do-we-suffer"
+id: "QUE-0123"
+type: "سؤال توليدي"
+part: "philosophy"
+level: "متوسط"
+title: "لِمَاذَا نَتَأَلَّم؟"
+en: "Why Do We Suffer?"
+crumb: "الفلسفة وعلم النفس ← الأسئلة المولِّدة ← لماذا نتألم"
+active_start: 1700
+active_end: "مستمر"
+edges:
+- rel: "relates_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-buddha", title: "بوذا", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+gaps:
+  - "رابط مقترح لم يتحقق بعد في الأطلس: المعاناة (con-suffering)"
+  - "رابط مقترح لم يتحقق بعد في الأطلس: مشكلة الشر (con-evil)"
+  - "رابط مقترح لم يتحقق بعد في الأطلس: أيوب (thk-job)"
+- "المصادر الأولية (Buddha، Job، Frankl، Camus) تحتاج مراجعة."
+- "لا يوجد اقتباس مباشر موثوق متاح."
+- "الفرق بين 'الألم الجسدي' و'الألم النفسي' و'الألم الوجودي' يحتاج فصلاً."
+- "العلاقة بـ'الصدمة' (Trauma) في DSM-5 و'المعاناة' (Suffering) في الفلسفة تحتاج توثيقاً."
+---
+# لِمَاذَا نَتَأَلَّم؟
+
+سُؤَال «**أَزَلِيّ**» (Eternal) فِي الدِّين وَالْفَلْسَفَة وَعِلْم النَّفْس: لِمَاذَا «**الْمَعَانَاة**» (Suffering) «**مَوْجُودَة**» (Exists)؟ مِن «**أَيْنَ**» (Where) «**تَأْتِي**» (Come)؟
+
+## الْإِجَابَات الرَّئِيسِيَّة
+
+(1) **الْبُوذِيّ** (Buddhist، *Four Noble Truths*، ~500 ق.م.): (أ) «**الْحَيَاة مَعَانَاة**» (Life is Suffering). (ب) «**سَبَب**» (Cause) = «**رَغْبَة**» (Desire/Tanha). (ج) «**نِهَايَة**» (End) = «**إِطْفَاء**» (Extinguish). (د) «**طَرِيق**» (Path) = «**ثَمَانِيَّة**» (Eightfold Path). (2) **الْيَهُودِيّ-الْمَسِيحِيّ** (Judeo-Christian، *Book of Job*): «**مَعَانَاة**» «**اِخْتِبَار**» (Test) «**إِيمَان**» (Faith) — لَا «**عِقَاب**» (Punishment) «**دَائِمًا**» (Always). (3) **الْأُوغُسْطِينِيّ** (Augustinian، *Confessions*): «**مَعَانَاة**» = «**عَاقِبَة**» (Consequence) «**خَطِيئَة**» (Original Sin). (4) **الْكَانَطِيّ** (Kantian، 1790، *Critique of Judgment*): «**مَعَانَاة**» = «**شُعُور**» (Feeling) «**غَيْر مَرْغُوب**» (Unpleasant) «**مُلْزِم**» (Binding) «**لَوْعْي**» (Consciousness). (5) **الْفَرَانْكِلِيّ** (Frankl، 1946): «**مَعَانَاة**» = «**فُرْصَة**» (Opportunity) لِـ**«**مَعْنَى**» (Meaning) — «**مَوْقِف**» (Attitude) «**أَمَام الْمُصِيبَة**». (6) **الْوُجُودِيّ** (Existentialist، Yalom، 1980): «**مَعَانَاة**» = «**تَذْكِير**» (Reminder) «**مَوْت**» (Death) — «**يَحْفَز**» (Motivates) «**حَيَاة**» (Life).
+
+## أَنْوَاع الْمَعَانَاة
+
+(1) **أَلَم جَسَدِيّ** (Physical Pain): «**أَذَى**» (Injury)، «**مَرَض**» (Disease)، «**جُوع**» (Hunger). (2) **أَلَم نَفْسِيّ** (Psychological Pain): «**حُزْن**» (Grief)، «**اكْتِئَاب**» (Depression)، «**قَلَق**» (Anxiety). (3) **أَلَم وُجُودِيّ** (Existential Pain): «**فَقْدَان مَعْنَى**» (Loss of Meaning)، «**وَحْدَة**» (Loneliness)، «**مَوْت**» (Death). (4) **أَلَم اجْتِمَاعِيّ** (Social Pain): «**تَمْيِيز**» (Discrimination)، «**فَقْر**» (Poverty)، «**حَرْب**» (War). (5) **أَلَم رُوحِيّ** (Spiritual Pain): «**فَقْدَان إِيمَان**» (Loss of Faith)، «**فُرَاغ**» (Vacuum).
+
+## فِي عِلْم النَّفْس
+
+(1) **عِلْم النَّفْس الْإِيجَابِيّ** (Posttraumatic Growth، Tedeschi، 1996): «**مَعَانَاة**» «**تَأْتِي**» (Comes) مَعَ «**نُمُوّ**» (Growth) — «**مَعْنَى**» (Meaning)، «**عَلَاقَات**» (Relationships)، «**تَقْدِير حَيَاة**» (Appreciation). (2) **عِلْم النَّفْس الْاِجْتِمَاعِيّ** (Just World Belief، Lerner، 1965): «**حَاجَة**» (Need) لِـ**«**عَالَم عَادِل**» (Just World) — «**لَا**» (Cannot) «**تَقَبُّل**» (Accept) «**مَعَانَاة غَيْر مُسْتَحَقَّة**» (Undeserved Suffering). (3) **عِلْم النَّفْس التَّطَوُّرِيّ** (Evolutionary، Nesse، 1991): «**مَعَانَاة**» = «**إِشَارَة**» (Signal) «**خَطَر**» (Danger) — «**مُكَيَّف**» (Adaptive).
+
+## الأَهمِّيَّة
+
+(1) **الدِّين** (Religion): «**مَعَانَاة**» «**تَفْسِير**» (Explains) «**وُجُود الله**» أَو «**عَدَم وُجُود**». (2) **الطِّبّ** (Medicine): «**أَلَم**» (Pain) «**خَامِس**» (Fifth) «**عَرَض حَيَوِيّ**» (Vital Sign). (3) **الْأَخْلَاق** (Ethics): «**مَعَانَاة**» «**تَدْعُو**» (Calls) لِـ**«**رَحْمَة**» (Compassion) و«**عَدَالَة**» (Justice).

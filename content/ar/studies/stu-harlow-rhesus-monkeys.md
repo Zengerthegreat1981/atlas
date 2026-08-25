@@ -8,8 +8,12 @@ en: "Harlow's Rhesus Monkey Attachment and Contact Comfort Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات هارلو حول التعلّق في القردة"
 active_start: 1958
 active_end: 1965
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
+- id: "stu-lorenz-imprinting", title: "تجارب لورنز في الطبع الحيوي والارتباط المبكر والفترة الحرجة", type: "دراسة وبحث"
 gaps:
   - "تجارب هارلو اللاحقة في 'حفرة اليأس' (Pit of Despair) والحرمان الحاد أثارت إدانات أخلاقية قاسية تتطلب توثيقاً"
   - "التأثيرات العصبية طويلة المدى على نمو القشرة الجبهية لدى القردة المحرومة تحتاج ربطاً بعلم الأعصاب التطوري"

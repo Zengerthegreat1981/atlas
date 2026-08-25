@@ -8,13 +8,18 @@ en: "Intersubjectivity"
 crumb: "التحليل النفسي ← المفاهيم ← البين-ذاتية"
 dates: "السبعينيات-اليوم"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "ستولورو، أتوود، أورانج", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "ستولورو، أتوود، أورانج", target_type: "مفكر"
 related:
-  - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
-  - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
-  - id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
+- id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
+- id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
+- id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تأثير الفلسفة الظاهراتية (Husserl, Heidegger) على Stolorow و Atwood يحتاج عرضاً أكاديمياً دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

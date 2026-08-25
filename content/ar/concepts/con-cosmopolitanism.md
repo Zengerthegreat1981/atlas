@@ -10,10 +10,12 @@ crumb: "الفلسفة السياسية المعاصرة ← الكوزموبو�
 active_start: -350
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الكوزموبوليتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cosmopolitanism", target_type: "مدرسة"
 related:
-  - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
-  - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
+- id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
+- id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
 gaps:
   - "النصوص التأسيسية الكلاسيكية (Diogenes Laertius, Kant, Stoics) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

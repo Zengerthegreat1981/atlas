@@ -11,12 +11,13 @@ active_start: 1941
 active_end: 1960
 country: "المجر / أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوما 'الاستقلالية' (Autonomy) و'الهومونومي/التناغم مع الكل' (Homonomy) يستحقان توثيقاً مستقلاً."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-أسس علم الشخصية (Foundations for a Science of Personality, 1941) · العصاب والنمو الإنساني: مدخل شمولي (Neurosis and Treatment: A Holistic Theory, 1965).
+أسس علم الشخصية (Foundations for a Science of Personality, 1941) · العصاب وعلاجه: نظرية شمولية (Neurosis and Treatment: A Holistic Theory, 1965).

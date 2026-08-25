@@ -11,11 +11,14 @@ dates: "من أواخر الثمانينيات"
 active_start: 1988
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "thk-resick", title: "باتريشيا أ. ريسك", type: "مفكر"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
   - "دليل باتريشيا ريسيك (Patricia Resick) المعياري (12 جلسة) ومفهوم 'النقاط العالقة' (Stuck Points)."
   - "المجالات المعرفية الخمسة المتأثرة بالصدمة في CPT: الأمان، الثقة، القوة والتحكم، التقدير، والحميمية."

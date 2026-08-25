@@ -7,16 +7,21 @@ title: "إرنستو لاكلاو"
 en: "Ernesto Laclau"
 crumb: "التحليل النفسي ← الناس ← ما بعد لاكان ← إرنستو لاكلاو"
 dates: "الأرجنتين / بريطانيا · 1935–2014"
-country: "بريطانيا"
+country: "الأرجنتين / بريطانيا"
 language: "الإنجليزية / الإسبانية"
+part: "philosophy"
+active_start: null
+active_end: 2014
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
-  - id: "thk-badiou", title: "ألان باديو", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
+- id: "thk-badiou", title: "ألان باديو", type: "مفكر"
+- id: "dbt-deliberative-vs-radical-democracy", title: "جدل التداولية مقابل الراديكالية في الديمقراطية", type: "جدل"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إِرنِستو لاكلاو

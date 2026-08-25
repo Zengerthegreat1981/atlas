@@ -11,12 +11,13 @@ dates: "من منتصف القرن العشرين"
 active_start: 1947
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "tec-filial-therapy", title: "العلاج البنوي والعائلي باللعب", type: "تقنية/تدخل علاجي"
-  - id: "tec-sandplay-therapy", title: "العلاج باللعب في الرمل (يونغي)", type: "تقنية/تدخل علاجي"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "tec-filial-therapy", title: "العلاج البنوي والعائلي باللعب", type: "تقنية/تدخل علاجي"
+- id: "tec-sandplay-therapy", title: "العلاج باللعب في الرمل (يونغي)", type: "تقنية/تدخل علاجي"
 gaps:
   - "مبادئ فيرجينيا أكسلاين الثمانية في العلاج باللعب المتمركز حول الطفل (CCPT)."
   - "التمييز بين المداخل الإنسانية غير الموجهة، والمدخل السلوكي المعرفي (CBPT)، والمدخل الأدري، والمدخل النسقي."

@@ -13,12 +13,14 @@ language: "العربية، الفارسية"
 active_start: 1570
 active_end: 1800
 edges:
-  - rel: "belongs_to", target: "الفلسفة الإسلامية", target_type: "مظلة"
-  - rel: "belongs_to", target: "مدرسة شيراز الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-shiraz", target_type: "مظلة"
 related:
-  - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
-  - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
-  - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
+- id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
+- id: "thk-mir-damad", title: "ميرداماد (محمد باقر الأسترآبادي)", type: "مفكر"
+- id: "thk-nasir-tusi", title: "نصير الدين الطوسي (الخواجة نصير)", type: "مفكر"
 gaps:
   - "دور الميرداماد في تأسيس المدرسة الصفوية غير واضح بدقّة في كثير من المصادر."
   - "لا يوجد اقتباس مباشر موثوق متاح من «القبسات» للميرداماد."

@@ -11,12 +11,14 @@ dates: "شيكاغو · الثمانينيات"
 active_start: 1985
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "ريتشارد شوارتز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-richard-schwartz", target_type: "مفكر"
 related:
-  - id: "tec-ego-state", title: "علاج حالات الأنا (Ego State Therapy)", type: "تقنية/تدخل علاجي"
-  - id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "tec-ego-state", title: "علاج حالات الأنا (Ego State Therapy)", type: "تقنية/تدخل علاجي"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "thk-mariellekruger", title: "ماري كروغر", type: "مفكر"
 gaps:
   - "السمات الثماني لقيادة الذات الحقيقية (Self-Leadership: 8 Cs: الفضول، الهدوء، الوضوح، الشفقة، الثقة، الشجاعة، الإبداع، والترابط)."
   - "أنواع الأجزاء الثلاثة: المنفيون (Exiles)، المديرون (Managers)، ورجال الإطفاء (Firefighters)."

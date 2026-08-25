@@ -13,10 +13,13 @@ language: "الألمانية"
 active_start: 1913
 active_end: 1913
 edges:
-  - rel: "belongs_to", target: "الظاهراتية (Phänomenologie)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لتحول هوسرل من 'البحث المنطقي' (1900–1901) إلى 'الأفكار' (1913) لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من الكتاب الثالث (الفصل 3)."

@@ -13,12 +13,13 @@ language: "اللاتينية"
 active_start: 1050
 active_end: 1400
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية)", target_type: "مظلة"
-  - rel: "evolved_from", target: "الأفلاطونية المحدثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-  - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
+- id: "dbt-realism-vs-nominalism", title: "الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟", type: "جدل"
 gaps:
   - "نصوص أنسيلم والقديس بونافنتورا باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'In Boethium de Trinitate' لبونافنتورا."

@@ -10,11 +10,14 @@ dates: "1986 · إغناثيو مارتن-بارو"
 language: "الإسبانية"
 active_start: 1986
 active_end: 1986
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس التحرير (Liberation Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
 related:
-  - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
-  - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
+- id: "crt-marxist-critique-psychology", title: "النقد الماركسي/الطبقي لعلم النفس: علم نفس السيطرة الاجتماعية", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 gaps:
   - "النسخة المنقحة (1990) بعد اغتيال المؤلف لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,8 +8,13 @@ en: "Spanier Dyadic Adjustment Scale (DAS)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس التوافق الثنائي لسبانير"
 active_start: 1976
 active_end: "مستمر"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "تطور النسخة المختصرة (DAS-7) لـ Sharpley & Cross ودقتها التشخيصية تحتاج توثيقاً"
   - "التكييف الثقافي للبنود المتعلقة بالتعبير العاطفي والجنسي في البيئات العربية يتطلب مراجعة"

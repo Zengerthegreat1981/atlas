@@ -10,10 +10,15 @@ country: "الولايات المتحدة / المملكة المتحدة"
 language: "إنجليزية"
 active_start: 1989
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-jbaylin", title: "جون بايلين", type: "مفكر"
+- id: "thk-sdouglas", title: "سو دوغلاس", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ التطوير في Rhoads Clinic (PA) يستحق مصدراً."
   - "نقد Joe & Graziano لـDDP يستحق توثيقاً."

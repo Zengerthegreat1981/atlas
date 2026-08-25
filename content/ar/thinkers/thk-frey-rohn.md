@@ -9,13 +9,16 @@ crumb: "التحليل النفسي ← الناس ← الجيل الثاني �
 dates: "سويسرا · 1901–1991"
 country: "سويسرا"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: 1991
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
-  - id: "thk-jjacobi", title: "يولاندا ياكوبي", type: "مفكر"
-  - id: "thk-jaffe", title: "أنييلا يافّه", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
+- id: "thk-jjacobi", title: "يولاندا ياكوبي", type: "مفكر"
+- id: "thk-jaffe", title: "أنييلا يافّه", type: "مفكر"
 gaps:
   - "تفاصيل دورها في إدارة المعهد (Curatorium) تحتاج توثيقاً من أرشيف المعهد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

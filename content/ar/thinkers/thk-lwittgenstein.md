@@ -13,11 +13,12 @@ language: "الألمانية ثم الإنجليزية"
 active_start: 1911
 active_end: 1951
 edges:
-  - rel: "belongs_to", target: "الذرية المنطقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الذرية المنطقية", target_type: "مدرسة"
 related:
-  - id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
-  - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
-  - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
+- id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
+- id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لتحول فيتغنشتاين من الذرية (1921) إلى فلسفة اللغة العادية (1953) لم تُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من رسائله المبكرة إلى راسل."

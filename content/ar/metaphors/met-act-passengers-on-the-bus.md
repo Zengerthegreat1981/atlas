@@ -6,13 +6,16 @@ level: "مبتدئ"
 title: "ركاب الحافلة: استعارة الذات والأفكار في علاج القبول والالتزام"
 en: "Passengers on the Bus: The ACT Metaphor for Self and Internal Experiences"
 crumb: "علاج القبول والالتزام (ACT) ← الاستعارات المؤسِّسة ← ركاب الحافلة"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علاج القبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج القبول والالتزام (ACT)", target_type: "مدرسة"
 related:
-  - id: "thk-hayes-steven", title: "ستيفن سي. هايز", type: "مفكر"
-  - id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-cog-thought-defusion", title: "الانفصال عن الأفكار (Defusion)", type: "تقنية/تدخل علاجي"
-  - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-thought-defusion", title: "الانفصال عن الأفكار (Defusion)", type: "تقنية/تدخل علاجي"
+- id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
 gaps:
   - "تطور صياغات الاستعارة في أدلة التدريب الإكلينيكي الأولى لـ ACT (1999 وما بعدها) يحتاج مقارنة نصية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

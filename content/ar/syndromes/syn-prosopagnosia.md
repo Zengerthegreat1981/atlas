@@ -11,10 +11,11 @@ active_start: 1947
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-capgras", title: "متلازمة كابغرا", type: "متلازمة"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-capgras", title: "متلازمة كابغرا", type: "متلازمة"
+- id: "stu-fantz-visual-preference", title: "تجارب روبرت فانتز للتفضيل البصري وإدراك الوجوه لدى الرضع (1961)", type: "دراسة وبحث"
 gaps:
   - "أبحاث يواكيم بودامر (Joachim Bodamer 1947) ودور باحة الوجه المغزلية (FFA)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

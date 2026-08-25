@@ -11,18 +11,21 @@ active_start: 1927
 active_end: 1951
 language: "الفرنسية"
 country: "فرنسا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "سارتر", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "thk-berdyaev", title: "نيكولاي بيردييف", type: "مفكر"
-  - id: "thk-madinier", title: "غابرييل مادينييه", type: "مفكر"
-  - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
-  - id: "thk-mounier", title: "إيمانويل مونييه", type: "مفكر"
+- id: "thk-sartre", title: "سارتر", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-berdyaev", title: "نيكولاي بيردييف", type: "مفكر"
+- id: "thk-madinier", title: "غابرييل مادينييه", type: "مفكر"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "thk-mounier", title: "إيمانويل مونييه", type: "مفكر"
 gaps:
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "دُمج معه الملف المكرَّر thk-gabriel-marcel (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # غابرييل مارسِل

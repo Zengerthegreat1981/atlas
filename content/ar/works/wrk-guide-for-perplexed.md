@@ -10,11 +10,16 @@ crumb: "الفلسفة ← اليهودية ← الأندلسية ← دلال�
 dates: "1190 م · الفيوم/القاهرة"
 country: "مصر الفاطمية"
 language: "العربية (الأصل)"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
-  - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
-  - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
+- id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
+- id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفصول الأصلية باللاتينية والعبرية تختلف في ترتيبها وأبوابها."
   - "الترجمات العربية الحديثة تحتاج تحققاً."

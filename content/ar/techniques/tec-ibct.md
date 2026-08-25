@@ -11,10 +11,13 @@ dates: "واشنطن ولوس أنجلوس · التسعينيات"
 active_start: 1996
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "con-marsha-acceptance-change", title: "جدلية القبول والتغيير في العلاج الزوجي", type: "مفهوم"
+- id: "tec-cbct-couples", title: "العلاج المعرفي السلوكي للأزواج (CBCT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الجمع بين استراتيجيات القبول الانفعالي (Emotional Acceptance) وتقنيات التغيير السلوكي التقليدية عند نيل جاكوبسون وأندرو كريستينسن."
   - "تقنيات التوحيد التعاطفي (Empathetic Joining) والانفصال الموحد عن المشكلة (Unified Detachment)."

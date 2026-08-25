@@ -13,14 +13,16 @@ language: "السنسكريتية"
 active_start: -600
 active_end: 1200
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
-  - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-ajivika", title: "آجيفيكا", type: "مدرسة"
-  - id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
+- id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-ajivika", title: "آجيفيكا", type: "مدرسة"
+- id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
+- id: "thk-charvaka", title: "تشارڤاكا (مؤسس لوكاياتا / المادية الهندية)", type: "مفكر"
 gaps:
   - "نصوص Chārvāka الأصلية مفقودة تماماً — معرفتنا مستمدة من نقد الخصوم (ماداوا في Sarvadarśanasaṅgraha)."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # شارفاكا / لوكاياتا (Chārvāka / Lokāyata)

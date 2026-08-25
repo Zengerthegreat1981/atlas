@@ -9,11 +9,17 @@ crumb: "علم نفس الجسد ← الناس ← Bioenergetics في علاج 
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-meckberg", title: "ماريانا إيكبيرغ", type: "مفكر"
+- id: "thk-hresneck", title: "هيلين رِسنِك-سانّيس", type: "مفكر"
+- id: "thk-sbaum", title: "سكوت بوم", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -25,7 +31,7 @@ gaps:
 
 ## ما أعطاه
 
-كتب «الأساس النفسجسدي للتطور المبكر للأنا» (The Psychosomatic Basis of Premature Ego Development, 1976)، و«العيش على الرمال المتحركة» (Living on Shifting Sands, 2010s)، وهي مقالات حول علاج اضطراب الشخصية الحدّبية (BPD) والصدمات السياسية (ضحايا التعذيب) من منظور Bioenergetics. طوّر «الأساس النفسجسدي» كفرع تطبيقي في Bioenergetics يُركّز على «الصدمة» و«النرجسية» كأساس للاضطرابات المعاصرة.
+كتب «الأساس النفسجسدي للتطور المبكر للأنا» (The Psychosomatic Basis of Premature Ego Development, 1976)، و«العيش على الرمال المتحركة» (Living on Shifting Sands, العقد الثاني من القرن الحادي والعشرين)، وهي مقالات حول علاج اضطراب الشخصية الحدّبية (BPD) والصدمات السياسية (ضحايا التعذيب) من منظور Bioenergetics. طوّر «الأساس النفسجسدي» كفرع تطبيقي في Bioenergetics يُركّز على «الصدمة» و«النرجسية» كأساس للاضطرابات المعاصرة.
 
 ## موقعه من التيار
 

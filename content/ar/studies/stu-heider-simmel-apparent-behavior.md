@@ -9,10 +9,11 @@ en: "Heider & Simmel's Apparent Behavior Experiment"
 crumb: "علم النفس الاجتماعي والمعرفي ← الدراسات والأبحاث ← تجربة هايدر وسيمل للإدراك السببي"
 active_start: 1944
 active_end: 1944
-edges: []
+edges:
+  []
 related:
-  - id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي", type: "مفهوم"
-  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي", type: "مفهوم"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "استخدام الفيلم القصير للرسوم المتحركة الهندسية (المثلث الكبير، المثلث الصغير، والدائرة)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

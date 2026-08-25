@@ -11,13 +11,24 @@ country: "الفلبين"
 language: "التاغالوغية / الإنجليزية"
 active_start: 1975
 active_end: 1994
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Sikolohiyang Pilipino (Filipino Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)", target_type: "مدرسة"
 related:
-  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "thk-alicorazon", title: "ألي كورازون", type: "مفكر"
+- id: "thk-eleanor-crisostomo", title: "إيلينور كريزوستومو", type: "مفكر"
+- id: "thk-jose-arsenio", title: "خوسيه أرسينيو", type: "مفكر"
+- id: "thk-ma-rosario-alfelor", title: "ماريا روساريو ألفيلور", type: "مفكر"
+- id: "thk-roland-tolentino", title: "رولاند تولنتينو", type: "مفكر"
 gaps:
   - "التفاصيل الكاملة لمسيرته في جامعة الفلبين لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ألي كورازون (thk-alicorazon)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيلينور كريزوستومو (thk-eleanor-crisostomo)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: خوسيه أرسينيو (thk-jose-arsenio)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريا روساريو ألفيلور (thk-ma-rosario-alfelor)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رولاند تولنتينو (thk-roland-tolentino)."
 ---
 
 # فيرجوليو إنريكيز

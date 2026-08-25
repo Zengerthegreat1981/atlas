@@ -9,10 +9,11 @@ en: "Spence Children's Anxiety Scale (SCAS)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← مقياس سبنس لقلق الأطفال والمراهقين"
 active_start: 1997
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث سوزان سبنس (Susan H. Spence 1997/1998) والنسختان الذاتية والوالدية المتطابقتان."
   - "لا يوجد اقتباس مباشر موثوق متاح."

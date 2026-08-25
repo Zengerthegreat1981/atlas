@@ -11,10 +11,14 @@ dates: "يوتا · السبعينيات"
 active_start: 1973
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-multisystemic-therapy", title: "العلاج متعدد الأنظمة (MST)", type: "تقنية/تدخل علاجي"
+- id: "dis-conduct-disorder", title: "اضطراب السلوك (Conduct Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-parent-management-training", title: "تدريب إدارة السلوك للوالدين (PMT)", type: "تقنية/تدخل علاجي"
+- id: "tec-fbt-arfid", title: "العلاج الأسري القائم على الأسرة لـ ARFID (FBT-ARFID)", type: "تقنية/تدخل علاجي"
+- id: "tec-multisystemic-therapy", title: "العلاج متعدد الأنظمة (MST)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بروتوكول جيمس ألكسندر وبروس بارسونز (Alexander & Parsons) المعتمد في قضاء الأحداث وعلاج الجنوح والإدمان لدى المراهقين."
   - "المراحل الخمس لـ FFT: المشاركة والتحفيز، تعديل السلوك، وتعميم التعميم عبر الأنظمة."

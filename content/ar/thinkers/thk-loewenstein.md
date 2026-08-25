@@ -9,11 +9,17 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رودولف �
 dates: "بولندا / فرنسا / أمريكا · 1898–1976"
 country: "بولندا / فرنسا / أمريكا"
 language: "الفرنسية / الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1976
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "br-ego-psychology", title: "علم نفس الأنا", type: "تيار"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دوره كمعلم ومحلل لجاك لاكان ودانييل لاغاش في باريس وتأسيس علم نفس الأنا في نيويورك يستحقان توثيقاً."

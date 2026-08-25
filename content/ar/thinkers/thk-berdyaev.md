@@ -11,13 +11,14 @@ active_start: 1916
 active_end: 1939
 language: "الروسية"
 country: "روسيا / فرنسا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
-  - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
-  - id: "thk-karsavin", title: "ليف كارسافين", type: "مفكر"
-  - id: "thk-dostoevsky", title: "فيودور دوستويفسكي", type: "مفكر"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
+- id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+- id: "thk-karsavin", title: "ليف كارسافين", type: "مفكر"
+- id: "thk-dostoevsky", title: "فيودور دوستويفسكي", type: "مفكر"
 gaps:
   - "لم تُراجع بعد نصوصه الأصلية من نسخة محققة."
   - "فيلسوف ديني روسي أقل حضوراً في الأدبيات الغربية المعاصرة عن المدرسة الوجودية، ويحتاج بحثاً إضافياً لتحديد أثره الفعلي على العلاج النفسي تحديداً (بخلاف الفلسفة)."

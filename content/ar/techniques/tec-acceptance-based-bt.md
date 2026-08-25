@@ -11,12 +11,13 @@ dates: "منذ أواخر الألفية الثانية"
 active_start: 2006
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
-  - rel: "developed_by", target: "ستيفن هايز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "developed_by", target: "ستيفن هايز", target_type: "مفكر"
 related:
-  - id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
-  - id: "thk-hayes-steven", title: "ستيفن هايز", type: "مفكر"
+- id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
+- id: "thk-lstevenhayes", title: "ستيفن هايز", type: "مفكر"
 gaps:
   - "الفرق الدقيق بين ABBT و ACT من حيث الإجراء العلاجي والجمهور المُستهدف يحتاج توثيقاً أكاديمياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

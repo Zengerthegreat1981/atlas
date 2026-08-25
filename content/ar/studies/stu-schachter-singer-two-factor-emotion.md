@@ -9,9 +9,11 @@ en: "Schachter & Singer's Two-Factor Theory of Emotion Experiment"
 crumb: "علم النفس الانفعالي والمعرفي ← الدراسات والأبحاث ← تجربة شاختر وسينغر للانفعال"
 active_start: 1962
 active_end: 1962
-edges: []
+edges:
+  []
 related:
-  - id: "stu-dutton-aron-suspension-bridge", title: "تجربة داتون وآرون للجسر المعلق", type: "دراسة وبحث"
+- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "stu-dutton-aron-suspension-bridge", title: "تجربة داتون وآرون للجسر المعلق", type: "دراسة وبحث"
 gaps:
   - "حقن مادة الإبينفرين (Suproxin الوهمي) والتفاعل مع ممثل متفائل ومرح أو ممثل غاضب ومستفز."
   - "لا يوجد اقتباس مباشر موثوق متاح."

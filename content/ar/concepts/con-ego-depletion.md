@@ -11,10 +11,13 @@ crumb: "علم النفس الاجتماعي والتنظيم الذاتي ← �
 active_start: 1998
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي والتنظيم الذاتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الاجتماعي والتنظيم الذاتي", target_type: "مدرسة"
 related:
-  - id: "wrk-willpower-baumeister", title: "قوة الإرادة", type: "عمل / كتاب"
-  - id: "thk-roy-baumeister", title: "روي باوميستر", type: "مفكر"
+- id: "wrk-willpower-baumeister", title: "قوة الإرادة", type: "عمل / كتاب"
+- id: "thk-roy-baumeister", title: "روي باوميستر", type: "مفكر"
+- id: "stu-mischel-marshmallow-test", title: "تجربة المارشميلو وتأجيل الإشباع لوالتر ميشيل", type: "دراسة وبحث"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تجربة رادكليف للبسكويت والفجل لباوميستر (1998) والجدل حول أزمة التكرار وحجم التأثير."
   - "لا يوجد اقتباس مباشر موثوق متاح."

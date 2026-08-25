@@ -10,11 +10,16 @@ dates: "1885 · هرمان إيبنغهاوس"
 active_start: 1885
 active_end: 1885
 language: "الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
-  - rel: "authored_by", target: "هرمان إيبنغهاوس", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
+- rel: "authored_by", target: "هرمان إيبنغهاوس", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "evt-bps-founding-1901", title: "تأسيس جمعية علم النفس البريطانية في كلية لندن الجامعية", type: "حدث تاريخي"
+- id: "stu-craik-lockhart-levels-processing", title: "تجارب كريك وتولفينغ لمستويات معالجة المعلومات في الذاكرة", type: "دراسة وبحث"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "الطبعة الأولى (1885) كانت 99 صفحة فقط؛ التوسعة الكبيرة جاءت في طبعة 1902 — حدود التوسعة الموثّقة بدقّة لم تُراجع بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Ebbinghaus في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

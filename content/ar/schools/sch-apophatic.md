@@ -13,12 +13,14 @@ language: "اليونانية، السريانية، اللاتينية، الع
 active_start: 400
 active_end: 1400
 edges:
-  - rel: "evolved_from", target: "الأفلاطونية المحدثة", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الآبائية المسيحية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 related:
-  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
-  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
-  - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
+- id: "thk-pseudo-dionysius", title: "ديونيسيوس المجهول (المُنتحل / الإله الزائف)", type: "مفكر"
+- id: "con-negative-attributes", title: "الصفات السلبية (Via Negativa)", type: "مفهوم"
 gaps:
   - "نصوص 'الأسماء الإلهية' و'اللاهوت الغامض' المنسوبة للديونيسيوس (Pseudo-Dionysius) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Mystical Theology' أو 'Cloud of Unknowing'."

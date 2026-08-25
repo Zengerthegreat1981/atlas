@@ -8,9 +8,11 @@ en: "Draw-A-Person Test (DAP / DAP:SPED)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار رسم الشخص لماكوفر"
 active_start: 1949
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "التحول نحو نظام ناجليري الكمي المقنن (DAP:SPED) لتجاوز التفسيرات التحليلية الذاتية يحتاج تفصيلاً"
   - "ضعف الصدق التجريبي للعلامات الفردية المعزولة (مثل حذف اليدين كدليل عجز) يتطلب توضيحاً نقدياً"

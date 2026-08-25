@@ -11,11 +11,18 @@ dates: "منتصف القرن العشرين"
 active_start: 1950
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-hartmannheinz", title: "هاينز هارتمان", type: "مفكر"
+- id: "dis-encopresis", title: "التبرّز اللاإرادي (Encopresis)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-enuresis", title: "التبوّل اللاإرادي (Enuresis)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mild-neurocognitive", title: "اضطراب معرفي عصبي خفيف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-pica", title: "اضطراب أكل المواد غير الغذائية (Pica)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizoaffective", title: "الفصام العاطفي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophreniform", title: "الفصاماني", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التمييز الدقيق بين التدخلات الداعمة (Supportive) والتدخلات الكاشفة/التعبيرية (Expressive) في التحليل النفسي."
   - "المعايير الإكلينيكية لاختيار العلاج الداعم في الأزمات الحادة وحالات ضعف وظائف الأنا."

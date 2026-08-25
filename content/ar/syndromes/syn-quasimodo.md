@@ -11,10 +11,10 @@ active_start: 1970
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-dorian-gray", title: "متلازمة دوريان غراي", type: "متلازمة"
+- id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-dorian-gray", title: "متلازمة دوريان غراي", type: "متلازمة"
 gaps:
   - "الأدبيات السيكياترية الروسية والإيطالية المستوحاة من رواية أحدب نوتردام لفيكتور هوغو."
   - "لا يوجد اقتباس مباشر موثوق متاح."

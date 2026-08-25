@@ -11,10 +11,11 @@ active_start: 1995
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "dbt-antidepressants-efficacy-debate", title: "جدل الفاعلية البيولوجية لمضادات الاكتئاب وفرضية السيروتونين", type: "جدل"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "معايير FINISH التشخيصية والتفريق الحاسم بين متلازمة الانقطاع وبين انتكاس الاكتئاب أو الإدمان."
   - "لا يوجد اقتباس مباشر موثوق متاح."

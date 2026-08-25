@@ -11,12 +11,17 @@ country: "الولايات المتحدة"
 language: "إنجليزية وإسبانية"
 active_start: 1975
 active_end: 2022
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
 related:
+- id: "thk-ebordin", title: "إدوارد بوردين", type: "مفكر"
+- id: "thk-mkern", title: "مارك كيرن", type: "مفكر"
+- id: "thk-istansky", title: "إيروين سترانسكي", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة مع جاي هالي لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيروين سترانسكي (thk-istansky)."
 ---
 
 # كلوي مادانس

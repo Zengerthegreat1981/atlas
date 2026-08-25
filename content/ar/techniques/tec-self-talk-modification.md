@@ -8,11 +8,14 @@ en: "Self-Talk Modification"
 crumb: "الأداء والعلاج الرياضي ← علم نفس الأداء ← تعديل الكلام الذاتي"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
 related:
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-pre-performance-routine", title: "الطقوس السابقة للأداء", type: "مفهوم"
+- id: "dis-specific-learning-disorder", title: "اضطراب التعلُّم المحدد", type: "اضطراب/حالة إكلينيكية"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-pre-performance-routine", title: "الطقوس السابقة للأداء", type: "مفهوم"
+
 gaps:
   - "نسبة التأثير الرئيسي إلى Van Raalte (في التنس) تستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

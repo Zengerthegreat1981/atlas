@@ -3,24 +3,25 @@ slug: "thk-mfarkas"
 id: "THK-1559"
 type: "مفكر"
 level: "متوسط"
-title: "مارلي فاركاش"
-en: "Marlley Farkas"
-crumb: "br-psychiatric-rehabilitation ← حركة التعافي ← مارلي فاركاش"
+title: "ماريان فاركاش"
+en: "Marianne Farkas"
+crumb: "التأهيل النفسي-الاجتماعي ← حركة التعافي ← ماريان فاركاش"
 dates: "الولايات المتحدة/هنغاريا · القرن العشرين–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
+- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "تيار"
 related:
-  - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "مفكر"
+- id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
-# مارلي فاركاش
+# ماريان فاركاش
 
 باحثة أمريكية من أصل مجري، اشتُهرت بدورها في تطوير "حركة التعافي" في إعادة التأهيل النفسي. عملت في مركز بوسطن لإعادة التأهيل النفسي.
 

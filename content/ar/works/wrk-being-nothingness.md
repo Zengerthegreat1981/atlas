@@ -10,13 +10,16 @@ crumb: "المدرسة الوجودية ← الأعمال ← الوجود وا
 dates: "1943 · سارتر"
 active_start: 1943
 active_end: 1943
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "سارتر", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "سارتر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "سارتر", type: "مفكر"
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-sartre", title: "سارتر", type: "مفكر"
+- id: "thk-heidegger", title: "هايدجر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

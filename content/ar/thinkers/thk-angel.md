@@ -6,16 +6,18 @@ level: "مبتدئ"
 title: "إرنست أنجل"
 en: "Ernest Angel"
 crumb: "المدرسة الوجودية ← الناس ← إرنست أنجل"
-dates: "النمسا/أمريكا · تحتاج تحقق"
+dates: "النمسا/أمريكا · [غير مؤكد]"
 active_start: 1958
 active_end: 1958
 language: "الألمانية / الإنجليزية"
 country: "النمسا / أمريكا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "wrk-existence", title: "الوجود", type: "عمل / كتاب"
+- id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "wrk-existence", title: "الوجود", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "معلومات السيرة الشخصية محدودة جداً في المصادر المتاحة حالياً، ومحتاج بحثاً مخصصاً."

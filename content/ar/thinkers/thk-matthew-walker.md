@@ -13,10 +13,10 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم الأعصاب وسيكولوجيا النوم", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم الأعصاب وسيكولوجيا النوم", target_type: "مدرسة"
 related:
-  - id: "wrk-why-we-sleep", title: "لماذا ننام", type: "عمل / كتاب"
-  - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-why-we-sleep", title: "لماذا ننام", type: "عمل / كتاب"
+- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

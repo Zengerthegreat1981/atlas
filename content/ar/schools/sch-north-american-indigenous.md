@@ -14,13 +14,14 @@ active_start: -1000
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
-  - id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني", type: "مدرسة"
-  - id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-  - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني", type: "مدرسة"
+- id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
 gaps:
   - "النصوص الأصلية للسكان الأصليين الأمريكيين (متفرقة) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفات السكان الأصليين بأمريكا الشمالية (كمظلة)

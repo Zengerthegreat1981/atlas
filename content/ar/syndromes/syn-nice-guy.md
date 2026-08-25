@@ -11,10 +11,11 @@ active_start: 2000
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-passive-aggressive-personality-historical", title: "اضطراب الشخصية السلبية العدوانية", type: "اضطراب/حالة إكلينيكية"
+- id: "con-savior-complex", title: "عقدة المخلّص ومتلازمة الفارس الأبيض (الإنقاذ القهري للآخرين)", type: "مفهوم"
+- id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-passive-aggressive-personality-historical", title: "اضطراب الشخصية السلبية العدوانية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث روبرت غلوفر (Robert A. Glover 2000) في كتابه 'No More Mr. Nice Guy'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

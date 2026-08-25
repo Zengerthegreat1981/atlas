@@ -13,13 +13,19 @@ language: "الإنجليزية"
 active_start: 1981
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "Aristotelianism (Western)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
-  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
-  - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-  - id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
+- id: "con-communitarian-self", title: "الذات المتجذرة", type: "مفهوم"
+- id: "con-recognition-struggle", title: "الاعتراف (النضال من أجله)", type: "مفهوم"
+- id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
+- id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
+- id: "thk-walzer", title: "مايكل والزر", type: "مفكر"
 gaps:
   - "نصوص MacIntyre, Sandel, Taylor, Walzer, Etzioni تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الجماعاتية (Communitarianism)

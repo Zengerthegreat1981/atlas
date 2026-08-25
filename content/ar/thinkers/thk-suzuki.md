@@ -11,10 +11,13 @@ active_start: 1927
 active_end: 1938
 language: "اليابانية"
 country: "اليابان"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-merton", title: "توماس ميرتون", type: "مفكر"
+- id: "thk-ruben-habito", title: "روبن هابيتو (Ruben Habito)", type: "مفكر"
+- id: "met-mind-as-water-stream", title: "العقل كَماء: استعارة التَّدَفُّق والتَّشَكُّل", type: "استعارة/مجاز مؤسِّس"
+- id: "thk-merton", title: "توماس ميرتون", type: "مفكر"
 gaps:
   - "تعاونه مع إريك فروم (كتاب Zen Buddhism and Psychoanalysis, 1960 مع فروم وريتشارد دي مارتينو) موثّق أكاديمياً لكن غير مربوط هنا بعد — يحتاج اقتراح ربط منفصل مع thk-fromm."
   - "تفاصيل سيرته الأكاديمية الكاملة (جامعة أوتاني، محاضراته في كولومبيا) لم تُراجع من مصدر أولي مباشر."

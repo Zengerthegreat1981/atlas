@@ -8,13 +8,18 @@ en: "Intensive Short-Term Dynamic Psychotherapy (ISTDP)"
 crumb: "التحليل النفسي ← التقنيات ← العلاج الديناميكي المكثف قصير المدى"
 dates: "1980s-اليوم"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "حبيب دَفانلو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-hdavanloo", target_type: "مفكر"
 related:
-  - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
+- id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
+- id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاج الديناميكي المكثف قصير المدى (ISTDP)

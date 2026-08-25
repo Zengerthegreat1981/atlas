@@ -11,12 +11,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
-  - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
-  - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
+- id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
+- id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,12 +10,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← روبرت ديلتس"
 edges:
-  - rel: "belongs_to", target: "NLP النظامي", target_type: "مدرسة"
+- rel: "belongs_to", target: "NLP النظامي (Systemic NLP — تاد جيمس)", target_type: "مدرسة"
 related:
-  - id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
+- id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
+- id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # روبرت ديلتس

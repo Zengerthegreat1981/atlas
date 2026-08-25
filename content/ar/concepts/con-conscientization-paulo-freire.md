@@ -8,11 +8,15 @@ en: "Conscientization (Conscientização)"
 crumb: "أطر غير غربية ← المفاهيم ← الوعي النقدي"
 active_start: 1967
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس التحرير (Liberation Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
 related:
-  - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
-  - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "wrk-freire-pedagogy-oppressed", title: "تعليم المضطهدين (Pedagogy of the Oppressed)", type: "عمل / كتاب"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "العلاقة بين الوعي النقدي والمناهج النسوية اللاحقة (Bell Hooks) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

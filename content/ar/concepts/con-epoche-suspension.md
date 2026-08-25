@@ -1,0 +1,27 @@
+---
+slug: "con-epoche-suspension"
+id: "CON-0983"
+type: "مفهوم"
+part: "philosophy"
+level: "متقدم"
+title: "الإيبوخيه وتعليق الحكم (Epoché)"
+en: "Epoché (Suspension of Judgment)"
+crumb: "الفلسفة الشكوكية والفينومينولوجيا ← المفاهيم المنهجية ← الإيبوخيه"
+active_start: -300
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-pyrrhonism", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-pyrrho", title: "بيرون", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+gaps:
+  - "انتقال مفهوم الإيبوخيه من الشكوكية القديمة إلى المنهج الفينومينولوجي المعاصر عند هوسرل."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# الإيبوخيه وتعليق الحكم (Epoché)
+
+مفهوم إبستمولوجي ومنهجي فارق؛ يعني في الشكوكية القديمة «الامتناع الإرادي عن إصدار أي حكم جازم بالإثبات أو النفي» إزاء القضايا غير المحسومة عقلياً لتحقيق راحة البال؛ وتطور في الفينومينولوجيا المعاصرة مع هوسرل ليصبح «وضع الموقف الطبيعي والعالم الخارجي بين قوسين» لدراسة بنية الوعي والظواهر كما تتجلى بذاتها.

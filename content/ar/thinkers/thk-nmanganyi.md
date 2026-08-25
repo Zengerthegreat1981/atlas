@@ -3,24 +3,28 @@ slug: "thk-nmanganyi"
 id: "THK-1682"
 type: "مفكر"
 level: "متوسط"
-title: "نْيلسون مَغَنْي"
+title: "إن تشاباني مَنغاني"
 en: "N. Chabani Manganyi"
-crumb: "علم نفس الأوبونتو (Ubuntu) ← علم النفس الإفريقي ← نيلسون مانغاني"
+crumb: "علم نفس الأوبونتو (Ubuntu) ← علم النفس الإفريقي ← إن تشاباني مانغاني"
 dates: "إفريقيا الجنوبية · 1940–"
 country: "إفريقيا الجنوبية"
 language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس الأوبونتو (Ubuntu)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
 related:
-  - id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"
+- id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"
+- id: "thk-amncube", title: "ألبرت مْنكوبِي", type: "مفكر"
+- id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
+- id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
-# نيلسون مَغَنْي
+# إن تشاباني مَنغاني
 
 عالم نفس جنوب أفريقي، يُعدّ من أهم من طوّر "علم النفس الإفريقي" في مواجهة علم النفس الأوروبي. عمل أستاذاً في جامعة الشمال (Limpopo).
 

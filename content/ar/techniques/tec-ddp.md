@@ -11,11 +11,12 @@ dates: "من أواخر التسعينيات"
 active_start: 1998
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "موقف PACE العلاجي لدانيال هيوز (Dan Hughes): المرح (Playfulness)، القبول (Acceptance)، الفضول (Curiosity)، والتعاطف (Empathy)."
   - "علاج الصدمات الارتباطية التطورية المزمنة لدى الأطفال بالتبني والرعاية البديلة."

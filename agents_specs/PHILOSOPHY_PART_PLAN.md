@@ -1,0 +1,177 @@
+# Task Checklist: Philosophy Part Master Plan & Execution (160 Tasks)
+
+## Phase 0 — Architectural & Schema Setup (Tasks 0.1 - 0.5)
+- [x] 0.1 Architecture Decision: Define and formalize `philosophical_tradition` & `historical_era` fields in `agents_specs/decision-records.md` and `draft-writer-brief.md`.
+- [x] 0.2 Architecture Decision: Activate and standardize philosophy prefixes (`br-`, `axi-`, `dia-`, `evt-`, `crt-`).
+- [x] 0.3 Architecture Decision: Formalize `cultural_origin` values across non-Western and global traditions.
+- [x] 0.4 Build Philosophy Coverage Matrix Script (`scripts/build_philosophy_matrix.py`) and generate baseline gaps report (`agents_specs/philosophy-coverage-matrix-2026-08-22.md`).
+- [x] 0.5 Document and persist the complete 160-task catalog in `agents_specs/PHILOSOPHY_PART_PLAN.md`.
+
+## Phase 1 — Ancient, Medieval, Classical & Islamic Philosophy (Tasks 1.1 - 1.24)
+- [x] 1.1 Ancient Egyptian & Mesopotamian Wisdom Traditions
+- [x] 1.2 Ancient Persian & Zoroastrian Philosophy (Zoroastrianism, Zurvanism, Mazdakism, Manichaeism)
+- [x] 1.3 Pre-Socratic Philosophy: Milesian & Pythagorean Schools
+- [x] 1.4 Pre-Socratic Philosophy: Eleatic, Heraclitean & Atomist Schools
+- [x] 1.5 Sophism & the Socratic Revolution
+- [x] 1.6 Classical Platonism & The Academy
+- [x] 1.7 Aristotelianism & The Peripatetic School
+- [x] 1.8 Stoicism (Early, Middle, Roman / Epictetus, Seneca, Marcus Aurelius)
+- [x] 1.9 Epicureanism & Cynicism
+- [x] 1.10 Skepticism (Pyrrhonism & Academic Skepticism)
+- [x] 1.11 Middle Platonism & Neo-Platonism (Plotinus, Porphyry, Proclus)
+- [x] 1.12 Early Islamic Philosophy & The Translation Movement (Al-Kindi)
+- [x] 1.13 Classical Islamic Peripatetics (Al-Farabi & Ibn Sina)
+- [x] 1.14 Western Islamic / Andalusian Philosophy (Ibn Bajja, Ibn Tufayl, Ibn Rushd)
+- [x] 1.15 Early Kalam: Mu'tazilite Rational Theology
+- [x] 1.16 Classical Kalam: Ash'arite & Maturidite Theology
+- [x] 1.17 Imami, Zaidi & Ibadi Kalam
+- [x] 1.18 Ishraqi / Illuminationist Philosophy (Suhrawardi & Commentators)
+- [x] 1.19 Hikma Muta'aliya (Mulla Sadra & Transcendent Theosophy)
+- [x] 1.20 Irfan / Theoretical Sufi Metaphysics & The Akbarian School (Ibn Arabi)
+- [x] 1.21 Early Christian Patristics & Augustinianism
+- [x] 1.22 High Scholasticism & Thomism (Thomas Aquinas & Albertus Magnus)
+- [x] 1.23 Franciscan Scholasticism, Scotism & Nominalism (Duns Scotus & William of Ockham)
+- [x] 1.24 Classical & Medieval Jewish Philosophy (Philo, Saadia Gaon, Maimonides, Gersonides)
+
+## Phase 2 — Eastern, Asian & Comparative Philosophy (Tasks 2.1 - 2.20)
+- [x] 2.1 Vedic & Upanishadic Philosophy
+- [x] 2.2 Nyaya & Vaisheshika Schools (Logic & Atomism)
+- [x] 2.3 Samkhya & Classical Yoga (Patanjali)
+- [x] 2.4 Purva Mimamsa School (Hermeneutics & Ritual)
+- [x] 2.5 Advaita Vedanta (Shankara & Non-Dualism)
+- [x] 2.6 Vishishtadvaita & Dvaita Vedanta (Ramanuja & Madhva)
+- [x] 2.7 Indian Materialism & Heterodoxy (Charvaka/Lokayata, Ajivika, Jainism)
+- [x] 2.8 Early Buddhism & Abhidharma Schools
+- [x] 2.9 Madhyamaka Philosophy (Nagarjuna & Emptiness)
+- [x] 2.10 Yogacara / Vijnanavada (Vasubandhu, Asanga & Mind-Only)
+- [x] 2.11 Tibetan Buddhist Traditions (Nyingma, Gelug, Kagyu, Sakya, Jonang)
+- [x] 2.12 East Asian Buddhism (Chan, Zen: Rinzai/Soto, Tiantai, Huayan, Pure Land)
+- [x] 2.13 Classical Early Confucianism (Confucius, Mencius, Xunzi)
+- [x] 2.14 Philosophical Daoism (Laozi, Zhuangzi, Xuanxue)
+- [x] 2.15 Mohism, Legalism (Fajia) & School of Names (Mingjia)
+- [x] 2.16 Neo-Confucianism: School of Principle (Cheng-Zhu / Lixue)
+- [x] 2.17 Neo-Confucianism: School of Mind/Heart (Lu-Wang / Xinxue)
+- [x] 2.18 Kyoto School of Philosophy (Nishida, Tanabe, Nishitani)
+- [x] 2.19 Japanese & Korean National Traditions (Kokugaku, Mitogaku, Silhak, Donghak)
+- [x] 2.20 Southeast Asian & Comparative Philosophies (Pancasila, Adat, Intercultural Philosophy)
+
+## Phase 3 — Renaissance & Early Modern European Philosophy (Tasks 3.1 - 3.24)
+- [x] 3.1 Renaissance Humanism & Civic Republicanism (Erasmus, More, Machiavelli)
+- [x] 3.2 Renaissance Platonism, Hermeticism & Naturalism (Ficino, Pico, Bruno, Telesio)
+- [x] 3.3 Early Scientific Revolution & Scientific Method (Francis Bacon & Galileo)
+- [x] 3.4 Cartesian Rationalism (René Descartes)
+- [x] 3.5 Spinozism & Monism (Baruch Spinoza)
+- [x] 3.6 Leibnizian Metaphysics & Rationalism (Gottfried Wilhelm Leibniz)
+- [x] 3.7 Occasionalism & Post-Cartesian Rationalism (Malebranche, Geulincx, Arnauld)
+- [x] 3.8 British Empiricism: Epistemology & Politics (John Locke)
+- [x] 3.9 Subjective Idealism & Immaterialism (George Berkeley)
+- [x] 3.10 Empirical Skepticism & Naturalism (David Hume)
+- [x] 3.11 Scottish Common Sense Philosophy (Thomas Reid & Dugald Stewart)
+- [x] 3.12 French Enlightenment & Encyclopedism (Voltaire, Diderot, D'Alembert, Montesquieu)
+- [x] 3.13 Social Contract & Counter-Enlightenment (Jean-Jacques Rousseau)
+- [x] 3.14 Kantian Epistemology & Metaphysics (Immanuel Kant - First Critique)
+- [x] 3.15 Kantian Ethics & Aesthetics (Immanuel Kant - Second & Third Critiques)
+- [x] 3.16 Post-Kantian Idealism & Subjective Idealism (J.G. Fichte)
+- [x] 3.17 Philosophy of Nature & Transcendental Idealism (F.W.J. Schelling)
+- [x] 3.18 Absolute Idealism & Phenomenology of Spirit (G.W.F. Hegel)
+- [x] 3.19 Hegelian System: Logic, Nature & Right (G.W.F. Hegel)
+- [x] 3.20 Young Hegelians & Feuerbach's Critique
+- [x] 3.21 Classical Historical & Dialectical Materialism (Karl Marx & Friedrich Engels)
+- [x] 3.22 Philosophical Pessimism (Arthur Schopenhauer)
+- [x] 3.23 Religious Existentialism & Inwardness (Søren Kierkegaard)
+- [x] 3.24 Dionysian Philosophy & Will to Power (Friedrich Nietzsche)
+
+## Phase 4 — 19th & 20th Century Philosophy (Tasks 4.1 - 4.26)
+- [x] 4.1 Classical Positivism (Auguste Comte & Social Evolution)
+- [x] 4.2 Classical Utilitarianism (Jeremy Bentham & John Stuart Mill)
+- [x] 4.3 American Transcendentalism (Ralph Waldo Emerson & Henry David Thoreau)
+- [x] 4.4 Classical American Pragmatism (Charles Sanders Peirce)
+- [x] 4.5 Radical Empiricism & Pragmatism (William James)
+- [x] 4.6 Instrumentalism & Democratic Pragmatism (John Dewey)
+- [x] 4.7 Neo-Kantianism (Marburg & Baden Schools)
+- [x] 4.8 British & American Absolute Idealism (Bradley, Green, Royce)
+- [x] 4.9 Vitalism & Philosophy of Life (Henri Bergson & Wilhelm Dilthey)
+- [x] 4.10 Early Analytic Philosophy & Foundations of Logic (Gottlob Frege & Bertrand Russell)
+- [x] 4.11 Early Analytic Philosophy: Tractatus (Ludwig Wittgenstein)
+- [x] 4.12 Logical Positivism & The Vienna Circle (Schlick, Carnap, Neurath, Ayer)
+- [x] 4.13 Ordinary Language Philosophy & Oxford Realism (Wittgenstein Late, Ryle, Austin, Strawson)
+- [x] 4.14 Analytic Naturalism, Holism & Relativism (W.V.O. Quine & Wilfrid Sellars)
+- [x] 4.15 Analytic Metaphysics, Modal Logic & Essentialism (Saul Kripke, David Lewis, Hilary Putnam)
+- [x] 4.16 Philosophy of Mind & Consciousness (Searle, Dennett, Nagel, Chalmers, Fodor, Churchlands)
+- [x] 4.17 Philosophy of Science: Demarcation & Revolutions (Popper, Kuhn, Lakatos, Feyerabend)
+- [x] 4.18 Pure Phenomenology & Intentionality (Edmund Husserl)
+- [x] 4.19 Fundamental Ontology & Dasein (Martin Heidegger)
+- [x] 4.20 Embodied Phenomenology (Maurice Merleau-Ponty)
+- [x] 4.21 French Atheistic Existentialism (Jean-Paul Sartre & Simone de Beauvoir)
+- [x] 4.22 Absurdism & Revolt (Albert Camus)
+- [x] 4.23 Philosophical & Critical Hermeneutics (Hans-Georg Gadamer & Paul Ricoeur)
+- [x] 4.24 Jewish Existentialism & Dialogical Philosophy (Martin Buber, Franz Rosenzweig, Emmanuel Levinas)
+- [x] 4.25 Frankfurt School First Generation: Critical Theory (Horkheimer, Adorno, Benjamin, Marcuse)
+- [x] 4.26 Frankfurt School Second & Third Generation: Communicative Action & Recognition (Habermas, Honneth)
+
+## Phase 5 — Contemporary Continental, Decolonial, Feminist & Global (Tasks 5.1 - 5.24)
+- [x] 5.1 French Structuralism (Claude Lévi-Strauss, Louis Althusser, Roland Barthes, Jacques Lacan)
+- [x] 5.2 Post-Structuralism & Genealogy of Power (Michel Foucault)
+- [x] 5.3 Deconstruction & Critique of Logocentrism (Jacques Derrida)
+- [x] 5.4 Philosophy of Difference & Rhizome (Gilles Deleuze & Félix Guattari)
+- [x] 5.5 Postmodern Condition & Hyperreality (Jean-François Lyotard & Jean Baudrillard)
+- [x] 5.6 Contemporary Political Philosophy: Liberalism & Justice (John Rawls)
+- [x] 5.7 Libertarianism & Critique of Welfare State (Robert Nozick)
+- [x] 5.8 Communitarian Critique of Liberalism (Michael Sandel, Charles Taylor, Alasdair MacIntyre)
+- [x] 5.9 Deliberative & Radical Democracy (Jürgen Habermas, Chantal Mouffe, Ernesto Laclau)
+- [x] 5.10 Contemporary Italian & Radical Continental Philosophy (Giorgio Agamben, Antonio Negri, Alain Badiou, Slavoj Žižek)
+- [x] 5.11 21st Century Speculative Realism & OOO (Quentin Meillassoux, Graham Harman, Ray Brassier, Timothy Morton)
+- [x] 5.12 Feminist Philosophy & Gender Performative Theory (Simone de Beauvoir, Judith Butler, Luce Irigaray, Hélène Cixous)
+- [x] 5.13 Feminist Ethics of Care & Epistemology (Carol Gilligan, Nel Noddings, Sandra Harding)
+- [x] 5.14 Africana Philosophy & Negritude (Aimé Césaire, Léopold Sédar Senghor, Frantz Fanon)
+- [x] 5.15 Contemporary African Philosophy: Sage, Ethnophilosophy & Ubuntu (Odera Oruka, Kwasi Wiredu, Paulin Hountondji, Achille Mbembe)
+- [x] 5.16 Latin American Philosophy of Liberation (Enrique Dussel, Leopoldo Zea, Arturo Roig)
+- [x] 5.17 Decolonial Theory & Coloniality of Power (Aníbal Quijano, Walter Mignolo, María Lugones, Nelson Maldonado-Torres)
+- [x] 5.18 Indigenous & Environmental Metaphysics (Buen Vivir/Sumak Kawsay, Deep Ecology, Arne Næss)
+- [x] 5.19 Arab Nahda & Rationalist Reform (Rifa'a al-Tahtawi, Jamal al-Din al-Afghani, Muhammad Abduh, Abd al-Rahman al-Kawakibi)
+- [x] 5.20 20th Century Arab Philosophy: Critique of Heritage (Zaki Naguib Mahmoud, Murad Wahba, Fouad Zakariya)
+- [x] 5.21 Contemporary Arab Epistemological Projects (Mohammed Abed al-Jabri, Mohammed Arkoun, Hassan Hanafi)
+- [x] 5.22 Contemporary Arab Ethical & Critical Projects (Taha Abderrahmane, Abdallah Laroui, Tayeb Tizini, Sadiq Jalal al-Azm)
+- [x] 5.23 Philosophy of Technology, AI & Posthumanism (Nick Bostrom, Donna Haraway, Bernard Stiegler, Luciano Floridi)
+- [x] 5.24 Philosophy of Disability & Neuroethics
+
+## Phase 6 — Core Philosophical Debates, Axioms, Critiques, Encounters & Events (Tasks 6.1 - 6.22)
+- [x] 6.1 Fundamental Metaphysical Debates: Mind-Body, Free Will, Problem of Universals
+- [x] 6.2 Fundamental Epistemological Debates: Realism vs Anti-Realism, Foundationalism vs Coherentism, Skepticism
+- [x] 6.3 Fundamental Ethical Debates: Deontology vs Consequentialism vs Virtue Ethics, Moral Relativism vs Universalism
+- [x] 6.4 Applied Ethics Dilemmas: Trolley Problem, Heinz Dilemma, Ship of Theseus, Brain in a Vat
+- [x] 6.5 Political & Social Debates: Individual vs Community, Equality vs Liberty, Just War Theory
+- [x] 6.6 Philosophy of Science Debates: Scientific Realism vs Instrumentalism, Reductionism vs Holism
+- [x] 6.7 Classical Logical & Metaphysical Axioms (`axi-`): Non-Contradiction, Identity, Excluded Middle, Sufficient Reason
+- [x] 6.8 Epistemological & Methodological Axioms (`axi-`): Occam's Razor, Cogito, Verification Principle, Falsification
+- [x] 6.9 Ethical & Political Axioms (`axi-`): Categorical Imperative, Harm Principle, Difference Principle, Veil of Ignorance
+- [x] 6.10 Landmark Systemic Critiques (`crt-`): Kant's Critique of Metaphysics, Nietzsche's Critique of Morality
+- [x] 6.11 Social & Political Critiques (`crt-`): Marx's Critique of Ideology, Adorno's Critique of Enlightenment
+- [x] 6.12 Linguistic & Postmodern Critiques (`crt-`): Derrida's Critique of Logocentrism, Heidegger's Critique of Technology
+- [x] 6.13 Decolonial & Feminist Critiques (`crt-`): Decolonial Critique of Eurocentrism, Feminist Critique of Patriarchal Reason
+- [x] 6.14 Classical Philosophical Encounters & Dialogues (`dia-`): Socrates & Euthyphro, Al-Ghazali & Ibn Rushd
+- [x] 6.15 Modern & 20th Century Encounters (`dia-`): Davos Encounter (Cassirer-Heidegger), Russell-Copleston Debate
+- [x] 6.16 Contemporary Encounters (`dia-`): Foucault-Chomsky Debate, Gadamer-Derrida Encounter, Habermas-Ratzinger Dialogue
+- [x] 6.17 Ancient & Medieval Philosophical Events (`evt-`): Trial of Socrates (399 BC), Founding of Plato's Academy (387 BC)
+- [x] 6.18 Islamic & Medieval Events (`evt-`): House of Wisdom Translations in Baghdad, Condemnations of 1277 in Paris
+- [x] 6.19 Early Modern Events (`evt-`): Burning of Giordano Bruno (1600), Trial of Galileo (1633), Publication of the Encyclopédie (1751)
+- [x] 6.20 20th Century Philosophical Events (`evt-`): Vienna Circle Manifesto (1929), May 1968 Student Uprising in Paris
+- [x] 6.21 Landmark Philosophical Works Catalog Tier 1: Antiquity to Early Modern (40 works)
+- [x] 6.22 Landmark Philosophical Works Catalog Tier 2: Modern to Contemporary (60 works)
+
+## Phase 7 — The Bridge (Philosophy ↔ Psychology), Full Verification & Release (Tasks 7.1 - 7.15)
+- [x] 7.1 Bridge Matrix: Stoicism ↔ Cognitive Behavioral Therapy (CBT & REBT)
+- [x] 7.2 Bridge Matrix: Phenomenology ↔ Existential Therapy & Daseinsanalysis
+- [x] 7.3 Bridge Matrix: Buddhist Philosophy ↔ Third-Wave CBT (ACT, DBT, MBSR, MBCT)
+- [x] 7.4 Bridge Matrix: Kierkegaardianism & Nietzscheanism ↔ Logotherapy & Existential Psychotherapy
+- [x] 7.5 Bridge Matrix: British Empiricism & Tabula Rasa ↔ Classical & Radical Behaviorism
+- [x] 7.6 Bridge Matrix: Hegelian Dialectics ↔ Psychoanalysis & Critical Theory (Lacan, Fromm)
+- [x] 7.7 Bridge Matrix: American Pragmatism ↔ Functional Psychology & Humanistic Therapy
+- [x] 7.8 Bridge Matrix: Post-Structuralism ↔ Anti-Psychiatry & Narrative Therapy
+- [x] 7.9 Bridge Matrix: Marxist Philosophy ↔ Critical Psychology & Liberation Psychology
+- [x] 7.10 Bridge Matrix: Philosophy of Mind ↔ Cognitive Science & Neuropsychology
+- [x] 7.11 Atlas-Wide Orphan Audit on Philosophy Elements & Structural Link Resolution
+- [x] 7.12 Phantom Slug Audit & Global Cross-Link Validation
+- [x] 7.13 Draft Promotion to Approved Content Folders & Slug Index Generation
+- [x] 7.14 Site Build (`python3 scripts/build_atlas.py ar`) & Artifact Integrity Check
+- [x] 7.15 Editorial Release Documentation & Progress Log Update (`agents_specs/PHILOSOPHY-RELEASE-NOTES-2026.md`)

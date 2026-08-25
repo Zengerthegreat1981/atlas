@@ -13,20 +13,27 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1966
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة القارية", target_type: "مظلة"
-  - rel: "evolved_from", target: "البنيوية", target_type: "مدرسة"
-  - rel: "split_into", target: "التفكيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-structuralism", target_type: "مدرسة"
+- rel: "split_into", target: "sch-deconstruction", target_type: "مدرسة"
 related:
-  - id: "sch-structuralism", title: "البنيوية", type: "مدرسة"
-  - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
-  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
-  - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-structuralism", title: "البنيوية", type: "مدرسة"
+- id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "thk-jflax", title: "جين فلاكس", type: "مفكر"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
+- id: "wrk-foucault-order-of-things", title: "كتاب الكلمات والأشياء لميشيل فوكو (1966)", type: "عمل / كتاب"
+- id: "exp-foucault-tunisia-revolt", title: "تجربة فوكو في تونس وانتفاضة الطلاب (1968) واكتشاف الممارسة السياسية", type: "خبرة معيشة"
+- id: "trm-dispositif-foucault", title: "الجهاز أو المنظومة الإجرائية (Dispositif): شبكة علاقات السلطة والمعرفة", type: "مصطلح لغوي متنازع عليه"
+- id: "met-deleuze-rhizome", title: "الجذمور (Rhizome) لجيل دولوز: استعارة التفكير الشبكي والتعددية", type: "استعارة/مجاز مؤسِّس"
+- id: "met-foucault-ship-of-fools", title: "سفينة الحمقى لميشيل فوكو: استعارة عزل ونفي الجنون عبر التاريخ", type: "استعارة/مجاز مؤسِّس"
+- id: "que-biopolitics-power-over-life", title: "كيف تحولت السلطة من حق القتل إلى إدارة الحياة والجسد (البيوبوليتيك)؟", type: "سؤال توليدي"
 gaps:
   - "الحدود بين 'ما بعد البنيوية' و'التفكيكية' و'ما بعد الحداثة' غير موحّدة في المراجع الفلسفية."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع الفلسفة النسوية (Cixous، Kristeva، Irigaray) تحتاج توسعة."
 ---
-
 # ما بعد البنيوية (Post-structuralisme)
 
 تيار فلسفي يتفق مع البنيوية على مركزية **اللغة** و**العلاقات** في تشكيل الواقع، لكنّه يرفض فكرة **البنية المغلقة** التي تحكم كل الظواهر. في حين رأت البنيوية أن «**الكلام الفردي**» (parole) هامشي مقابل «**اللغة كنظام**» (langue)، رأت ما بعد البنيوية أن **هذا التمييز نفسه** يقع تحت تأثيرات إيديولوجية. التحوّل الأكبر: رفض **ميتافيزيقا الحضور** (logocentrism)، أي الافتراض بأن لكلّ شيء أصلًا ثابتًا يمكن الوصول إليه.

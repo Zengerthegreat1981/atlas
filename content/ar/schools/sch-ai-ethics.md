@@ -13,11 +13,13 @@ language: "متعددة"
 active_start: 2014
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
-  - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
-  - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
+- id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
+- id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
+- id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
+- id: "con-algorithmic-bias", title: "التحيز الخوارزمي (Algorithmic Bias)", type: "مفهوم"
+- id: "wrk-atlas-of-ai-crawford", title: "أطلس الذكاء الاصطناعي (Atlas of AI)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«أخلاق الواجب» (sch-deontology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Luciano Floridi, Nick Bostrom, Kate Crawford, Timnit Gebru need review."

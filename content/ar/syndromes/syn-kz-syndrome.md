@@ -11,11 +11,11 @@ active_start: 1964
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-survivor-guilt-syndrome", title: "متلازمة ذنب الناجي", type: "متلازمة"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-survivor-guilt-syndrome", title: "متلازمة ذنب الناجي", type: "متلازمة"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 gaps:
   - "أبحاث الطبيب النفسي النرويجي ليو إيتنغر (Leo Eitinger 1964) والطب النفسي لما بعد الهولوكوست."
   - "لا يوجد اقتباس مباشر موثوق متاح."

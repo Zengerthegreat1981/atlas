@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2007
 active_end: 2007
 edges:
-  - rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
-  - rel: "written_by", target: "روس هاريس", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
+- rel: "written_by", target: "thk-russ-harris", target_type: "مفكر"
 related:
-  - id: "thk-russ-harris", title: "روس هاريس", type: "مفكر"
+- id: "thk-russ-harris", title: "روس هاريس", type: "مفكر"
+- id: "con-ironic-process-theory", title: "نظرية المعالجة الارتدادية (تأثير الدب الأبيض وقمع الأفكار)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,12 +9,13 @@ crumb: "العلاج بالقبول والالتزام (ACT) ← الانفصا�
 active_start: 1999
 active_end: "مستمر"
 language: "English"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-  - id: "tec-act-def-the-hands-as-thoughts-metaphor", title: "استعارة اليدين كأفكار", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-def-carrying-a-card-with-your-thought", title: "حمل بطاقة بالفكرة", type: "تقنية/تدخل علاجي"
-  - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "tec-act-def-the-hands-as-thoughts-metaphor", title: "استعارة اليدين كأفكار", type: "تقنية/تدخل علاجي"
+- id: "tec-act-def-carrying-a-card-with-your-thought", title: "حمل بطاقة بالفكرة", type: "تقنية/تدخل علاجي"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

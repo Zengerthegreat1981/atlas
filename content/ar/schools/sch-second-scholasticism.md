@@ -13,13 +13,14 @@ language: "اللاتينية (معلّقة)، الإسبانية، البرتغ
 active_start: 1550
 active_end: 1750
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية)", target_type: "مظلة"
-  - rel: "evolved_from", target: "التوماوية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الإصلاح البروتستانتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-thomism", target_type: "مدرسة"
+- rel: "evolved_from", target: "الإصلاح البروتستانتي", target_type: "مدرسة"
 related:
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-  - id: "sch-deism", title: "الربوبية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-deism", title: "الربوبية", type: "مدرسة"
+- id: "thk-suarez", title: "فرانسيسكو سواريز", type: "مفكر"
 gaps:
   - "نصوص فرانسيسكو دي فيتوريا وفرانسيسكو سواريس بالإسبانية واللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'De Iure Belli' أو 'Disputationes Metaphysicae'."

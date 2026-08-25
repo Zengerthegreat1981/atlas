@@ -10,10 +10,15 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1967
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "تاريخ التطوير مع Ann Jernberg وPhyllis Booth يستحق مصدراً."
   - "الفرق بين Theraplay وDIR/Floortime يستحق توثيقاً."

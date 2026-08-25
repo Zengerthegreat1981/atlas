@@ -6,14 +6,18 @@ level: "متقدم"
 title: "أليس هولتسهي-كونتس"
 en: "Alice Holzhey-Kunz"
 crumb: "المدرسة الوجودية ← الناس ← أليس هولتسهي-كونتس"
-dates: "سويسرا"
+dates: "سويسرا · 1943–"
 language: "الألمانية"
 country: "سويسرا"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
-  - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
+- id: "wrk-sickness-death", title: "المرض حتى الموت", type: "عمل / كتاب"
+- id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
+- id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "بيانات أعمالها وترجماتها — لم تُدخل"
@@ -41,4 +45,4 @@ gaps:
 
 ## أهم أعمالها
 
-المعاناة من الوجود: التحليل الوجودي (الدازاين) ومهمته العلاجية (Leiden am Dasein, ألمانية (يحتاج تحقق من السنة)) · التحليل الوجودي (الدازاين) — ترجمة إنجليزية (Daseinsanalysis, دار Free Association Books)
+المعاناة من الوجود: التحليل الدازايني ومهمته التأويلية (Leiden am Dasein: Die Daseinsanalyse und die Aufgabe einer Hermeneutik psychopathologischer Phänomene, 1994) · التحليل الدازايني (Daseinsanalysis، الترجمة الإنجليزية، Free Association Books, 2014) · التحليل الدازايني اليوم (Daseinsanalyse heute, 2008، تحرير).

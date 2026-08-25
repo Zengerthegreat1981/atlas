@@ -1,0 +1,38 @@
+---
+slug: "trm-vorhanden-vs-zuhanden-heidegger"
+id: "TRM-0100"
+type: "مصطلح لغوي متنازع عليه"
+part: "philosophy"
+level: "متقدم"
+title: "الحاضر أمام النظر والمعروض في اليد (Vorhandenheit vs. Zuhandenheit)"
+en: "Translating Vorhandenheit and Zuhandenheit: Present-at-Hand vs. Ready-to-Hand in Heidegger"
+crumb: "الأنطولوجيا الهايدجرية وفلسفة الأداة ← مصطلحات ونزاعات الترجمة ← الحاضر والمعروض في اليد"
+active_start: null
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "met-heidegger-hammer-ready-to-hand", title: "مطرقة هايدجر", type: "استعارة/مجاز مؤسِّس"
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+---
+# الحاضر أمام النظر والمعروض في اليد (Vorhandenheit vs. Zuhandenheit)
+
+التمييز الثوري لمارتن هايدجر في نمطي حضور الأشياء للدازاين: 1. المعروض في اليد (Zuhandenheit / Ready-to-hand): التعامل العملي التلقائي مع الأداة المفيدة (كالمطرقة أثناء الطرق) حيث تختفي الأداة في الفعل؛ 2. الحاضر أمام النظر (Vorhandenheit / Present-at-hand): التأمل النظري المحايد للشيء كموضوع فيزيائي مجرد (حين تنكسر المطرقة فنقف لنتأملها).
+
+## نزاع الترجمة العربية والمصطلحات المنحوتة
+
+ترجمها عبد الرحمن بدوي ومحمود رجب بـ «الجاهز في اليد / الماثل أمام النظر»، وعبد الغفار مكاوي بـ «الموجود في متناول اليد / الحاضر في العيان».
+
+## أسبقية الممارسة العملية على التنظير
+
+أثبت هايدجر أن انخراطنا العملي في العالم أسبق وجودياً وأعمق من المعرفة النظرية والتأمل العلمي الجاف.
+
+## الأثر في الذكاء الاصطناعي والعلوم المعرفية المتجسدة
+
+إثبات فشل برامج الذكاء الاصطناعي الرمزية الكلاسيكية لعجزها عن امتلاك الخبرة المتجسدة في اليد.

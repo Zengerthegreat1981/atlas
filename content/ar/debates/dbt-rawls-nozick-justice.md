@@ -10,11 +10,13 @@ crumb: "الفلسفة السياسية المعاصرة ← جدل رولز-ن�
 active_start: 1974
 active_end: 2002
 edges:
-  - rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
-  - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-  - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
-  - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "thk-rawls", title: "جون رولز", type: "مفكر"
+- id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "الحوارات المباشرة (Rawls 1975, Nozick 1974) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

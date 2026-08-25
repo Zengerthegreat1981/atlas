@@ -11,10 +11,11 @@ country: "بريطانيا"
 language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التغذية الراجعة العصبية", target_type: "مدرسة"
+- rel: "belongs_to", target: "التغذية الراجعة العصبية (Neurofeedback)", target_type: "مدرسة"
 related:
-  - id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفكر"
+- id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -24,7 +25,7 @@ gaps:
 
 عالم نفس بريطاني في Imperial College London، من أهم الباحثين في **التغذية الراجعة العصبية للأداء** (الفنانون، الرياضيون، الطيارون).
 
-## ما أعطت
+## ما أعطاه
 
 - **«تغذية راجعة عصبية لتحسين الأداء»** في الموسيقيين.
 - **دلتا/ثيتا protocols** في علاج اضطراب فرط الحركة والتوحد.

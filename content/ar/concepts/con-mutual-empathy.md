@@ -6,12 +6,17 @@ level: "متوسط"
 title: "التمكين والتعاطف المتبادل (Mutual Empathy)"
 en: "Mutual Empathy and Empowerment"
 crumb: "الإنسانية ← المفاهيم ← التمكين والتعاطف المتبادل"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "جين بيكر ميلر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-jbmiller", target_type: "مفكر"
 related:
-  - id: "thk-jordan", title: "جوديث جوردان", type: "مفكر"
-  - id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "thk-msrosenberg", title: "مارشال روزنبرغ (التواصل اللاعنفي)", type: "مفكر"
+- id: "con-buddhist-compassion-karuna", title: "الكَرُونَا / الرَّحْمَة البُوذِيَّة (Karunā)", type: "مفهوم"
+- id: "thk-jordan", title: "جوديث جوردان", type: "مفكر"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
 gaps:
   - "جين بيكر ميلر (المؤسسة الأولى، 1927-2006) لا تزال بدون عنصر thk-jbmiller في الفهرس."
   - "لا يوجد اقتباس مباشر موثوق من بيكر ميلر أو جوردان بعد."

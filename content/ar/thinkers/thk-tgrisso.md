@@ -5,20 +5,22 @@ type: "مفكر"
 level: "متوسط"
 title: "توماس غريسو"
 en: "Thomas Grisso"
-crumb: "br-therapeutic-risk-assessment ← الأهلية القانونية ← توماس غريسو"
+crumb: "تقييم المخاطر العلاجي ← الأهلية القانونية ← توماس غريسو"
 dates: "الولايات المتحدة · 1940–"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
+- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
 related:
-  - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
-  - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "مفكر"
+- id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
+- id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في UMass لم تُراجع مباشرة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
 ---
 
 # توماس غريسو

@@ -11,15 +11,19 @@ dates: "أواخر التسعينيات"
 active_start: 2010
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-  - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
-  - id: "thk-lhecker", title: "لوريل هولي", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "الأطروحة الأساسية لـ كارل ليبتون (Bruce Ecker) وريجل أورك في أن الصدمة تُعدَّل بـ 'إلغاء التعلم' (Unlearning) وليس بـ 'التعلم الجديد'."
   - "تقنية 'مطابقة' (Match-Cue) لاستحضار الذكرى بالظروف الأصلية قبل إدخال معلومات متناقضة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بروس إيكر (thk-ecker)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لوريل هولي (thk-lhecker)."
 ---
 
 # العلاج بإعادة توحيد الذاكرة (Memory Reconsolidation Therapy)

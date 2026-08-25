@@ -9,10 +9,11 @@ en: "Implicit Association Test (IAT)"
 crumb: "علم النفس الاجتماعي والمعرفي ← أدوات القياس ← اختبار الارتباط الضمني"
 active_start: 1998
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "con-confirmation-bias", title: "انحياز التأكيد", type: "مفهوم"
-  - id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
+- id: "con-confirmation-bias", title: "انحياز التأكيد", type: "مفهوم"
+- id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
 gaps:
   - "أبحاث أنتوني غرينوالد ومحزارين باناجي (Greenwald et al. 1998) في هارفارد والجدل السيكومتري حول ثبات الاختبار وإعادة الاختبار (Test-Retest Reliability)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

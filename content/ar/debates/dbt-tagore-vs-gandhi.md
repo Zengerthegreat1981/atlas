@@ -10,12 +10,12 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← جدل طاغور
 active_start: 1915
 active_end: 1941
 edges:
-  - rel: "belongs_to", target: "الفلسفة الطاغورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-tagore-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
-  - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
-  - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
-  - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ المراسلات الكاملة بين طاغور وغاندي (المحفوظة في مكتبة Tagore International، كلكتا)."
   - "لا اقتباس مباشر موثّق في هذا الملف."

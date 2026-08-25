@@ -9,10 +9,12 @@ en: "Autism Diagnostic Observation Schedule, Second Edition (ADOS-2)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← جدول الملاحظة التشخيصية للتوحد - الإصدار الثاني"
 active_start: 2000
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
-  - id: "ins-adi-r", title: "المقابلة التشخيصية للتوحد المنقحة", type: "أداة قياس"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-adi-r", title: "المقابلة التشخيصية للتوحد المنقحة", type: "أداة قياس"
+- id: "ins-m-chat-r-autism", title: "القائمة المعدلة للتوحد لدى الأطفال الصغار مع المتابعة (M-CHAT-R/F)", type: "أداة قياس"
 gaps:
   - "تطوير كاثرين لورد (Catherine Lord et al. 2012) للوحدات الخمس بحسب العمر والمستوى اللغوي التعبيري."
   - "لا يوجد اقتباس مباشر موثوق متاح."

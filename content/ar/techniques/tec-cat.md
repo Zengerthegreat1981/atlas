@@ -11,11 +11,13 @@ dates: "لندن · الثمانينيات"
 active_start: 1984
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"
+- id: "thk-ryle", title: "أنتوني رايل", type: "مفكر"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"
 gaps:
   - "الدمج بين نظرية بياجيه ونظرية فيغوتسكي ونظرية علاقات الموضوع عند أنتوني رايل (Anthony Ryle)."
   - "أدوات CAT البصرية: الخريطة التسلسلية الإجرائية (Sequential Diagrammatic Reformulation) وخطاب إعادة الصياغة (Reformulation Letter)."

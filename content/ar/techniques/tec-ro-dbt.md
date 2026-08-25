@@ -11,10 +11,13 @@ dates: "من 2018"
 active_start: 2018
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
+- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "con-overcontrol", title: "الضبط المفرط (Overcontrol)", type: "مفهوم"
 gaps:
   - "التمييز بين اضطرابات ضعف الضبط (Undercontrol كالشخصية الحدية) واضطرابات فرط الضبط (Overcontrol كالقهم العصابي والشخصية الوسواسية) عند توماس لينش (Thomas Lynch)."
   - "ركائز الانفتاح الراديكالي الثلاث: التقبل المرن، الانفتاح على المجهول، والإشارات الاجتماعية الواضحة (Social Signaling)."

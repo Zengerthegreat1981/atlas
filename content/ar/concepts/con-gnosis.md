@@ -12,11 +12,13 @@ language: "اليونانية"
 active_start: 130
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الغنوصية القديمة (بفروعها)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gnosticism", target_type: "مدرسة"
 related:
-  - id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
-  - id: "thk-valentinus", title: "فالنتينوس", type: "مفكر"
-  - id: "con-demirge", title: "الديميرجوس", type: "مفهوم"
+- id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
+- id: "thk-valentinus", title: "فالنتينوس", type: "مفكر"
+- id: "con-demirge", title: "الديميرجوس", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد تعريف فلسفي حديث موحَّد للغنوصية في الأدب العربي المعاصر."
   - "التمييز بين «الغنوصية» كحركة تاريخية و«الغنوصية» كظاهرة فكرية أوسع محل نقاش."

@@ -11,9 +11,10 @@ active_start: 1991
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-wind-turbine-infrasound", title: "متلازمة توربينات الرياح والأصوات دون السمعية", type: "متلازمة"
 gaps:
   - "رابط مقترح لـ«اضطراب قلق المرض» (dis-illness-anxiety-disorder) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "تجارب التعمية المزدوجة الاستفزازية لمنظمة الصحة العالمية وأبحاث جيمس روبن."

@@ -11,11 +11,15 @@ dates: "واشنطن · أواخر العقد الأول من الألفية"
 active_start: 2009
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-mbsr", title: "برنامج خفض الضغوط باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
-  - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
+- id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
+- id: "thk-kwitkiewitz", title: "كايتي ويتكيفيتش", type: "مفكر"
+- id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
   - "دمج نموذج الوقاية من الانتكاس لـ ج. ألان مارلات (G. Alan Marlatt) مع ممارسات اليقظة الذهنية لكاتي ويتكويتز."
   - "تقنية 'ركوب موجة الرغبة الملحة' (Urge Surfing) ووقفة SOBER في مواجهة محفزات التعاطي."

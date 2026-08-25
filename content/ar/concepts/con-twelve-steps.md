@@ -1,7 +1,7 @@
 ---
 slug: "con-twelve-steps"
-id: "THK-2166"
-type: "مفكر"
+id: "CON-1235"
+type: "مفهوم"
 level: "مبتدئ"
 title: "برنامج الاثنتي عشرة خطوة (12-Step)"
 en: "Twelve-Step Program"
@@ -10,11 +10,15 @@ country: "الولايات المتحدة"
 active_start: 1935
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
 related:
-  - id: "thk-bwilson", title: "بيل ويلسون", type: "مفكر"
-  - id: "thk-dbob", title: "د. بوب (روبرت سميث)", type: "مفكر"
+- id: "rel-addiction-cbt", title: "الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي: المقابلة التحفيزية ومنع الانتكاس", type: "علاقة بين مدرستين"
+- id: "thk-bwilson", title: "بيل ويلسون", type: "مفكر"
+- id: "thk-dbob", title: "د. بوب (روبرت سميث)", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "صاغه بيل ويلسون في 'الكتاب الأزرق' (1939) مع د. بوب."
   - "نشأ في أكيرون (أوهايو) في 1935، وتوسّع إلى NA في 1953."

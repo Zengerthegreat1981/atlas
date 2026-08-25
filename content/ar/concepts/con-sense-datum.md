@@ -11,10 +11,13 @@ active_start: 1912
 active_end: "مستمر"
 language: "الإنجليزية"
 edges:
-  - rel: "belongs_to", target: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-new-realism", target_type: "مدرسة"
 related:
-  - id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"
-  - id: "sch-critical-realism", title: "الواقعية النقدية", type: "مدرسة"
+- id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"
+- id: "sch-critical-realism", title: "الواقعية النقدية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "التمييز بين 'sense-data' بمعنى مور و'sense-data' بمعنى راسل لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

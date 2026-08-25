@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← كينيث ف�
 dates: "أمريكا · 1942–"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: 1975
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نموذجه التكاملي بين 'العلاج النفسي الحركي / السلوكي والتحليل النفسي العلائقي' يستحق توثيقاً."
@@ -37,4 +41,6 @@ gaps:
 
 ## أهم أعماله
 
-التحليل النفسي التكاملي في الممارسة السريرية (Psychoanalytic Participation: Action, Interaction, and Integration, 1999) · العلاج النفسي التكاملي (Integrating Psychotherapies, 2005).
+المشاركة التحليلية: الفعل والتفاعل والتكامل (Psychoanalytic Participation: Action, Interaction, and Integration، 1999) · أوراق في *Psychoanalytic Dialogues* عن إدخال التدخّلات النشطة إلى الإطار التحليلي.
+
+> **ملاحظة:** كان عنوان كتاب 1999 مترجَماً «التحليل النفسي التكاملي في الممارسة السريرية» وهو لا يطابق العنوان الأصلي؛ كما نُسب إليه كتاب *Integrating Psychotherapies* (2005) ولم يُعثر له على أثر.

@@ -8,11 +8,15 @@ en: "Queer Psychoanalysis"
 crumb: "المفاهيم ← مدارس تحليلية ← التحليل النفسي الكويري"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي الكويري", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-queer-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
-  - id: "con-real-symbolic-imaginary", title: "الواقعي والرمزي والمتخيل", type: "مفهوم"
+- id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
+- id: "con-real-symbolic-imaginary", title: "الواقعي والرمزي والمتخيل", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع كتابات باري كول ويل كيويدج بشكل منفصل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

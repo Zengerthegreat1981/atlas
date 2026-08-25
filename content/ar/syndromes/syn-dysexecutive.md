@@ -11,10 +11,11 @@ active_start: 1986
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-dkefs-executive", title: "نظام دليس–كابلان لتقييم الوظائف التنفيذية (D-KEFS)", type: "أداة قياس"
 gaps:
   - "أبحاث آلان بادلي وبوب ويلسون (Baddeley & Wilson 1986) وبطارية BADS لتقييم الوظائف التنفيذية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -14,11 +14,14 @@ active_start: -350
 active_end: -150
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "con-bian", title: "بيان (辯) — الجدل والتمييز", type: "مفهوم"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "con-bian", title: "بيان (辯) — الجدل والتمييز", type: "مفهوم"
+- id: "thk-huishi", title: "هوي شي (هوي تشي)", type: "مفكر"
+- id: "wrk-gongsunlongzi", title: "كتاب غونغسون لونغ (غونغسون لونغ تزو)", type: "عمل / كتاب"
 gaps:
   - "نصوص Hui Shi وGongsun Long بُحثت هنا بالترجمة الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين 'المذهب المُسمّي' (Mingjia) و'المناطقة اللاحقون' (Later Mohists) ليس حاسماً في هذا الملف."

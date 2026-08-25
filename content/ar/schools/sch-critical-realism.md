@@ -13,12 +13,16 @@ language: "الإنجليزية"
 active_start: 1916
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_from", target: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", target_type: "مدرسة"
-  - rel: "split_into", target: "الواقعية النقدية الأنجلو-أمريكية (دعايت ورفاقه)", target_type: "تيار"
-  - rel: "split_into", target: "الواقعية النقدية المعاصرة (Bhaskar)", target_type: "تيار"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-new-realism", target_type: "مدرسة"
+- rel: "split_into", target: "الواقعية النقدية الأنجلو-أمريكية (دعايت ورفاقه)", target_type: "تيار"
+- rel: "split_into", target: "الواقعية النقدية المعاصرة (Bhaskar)", target_type: "تيار"
 related:
-  - id: "thk-rogers", title: "أرثر ك. روجرز", type: "مفكر"
+- id: "thk-jmcdowell", title: "جون ماكدوويل", type: "مفكر"
+- id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
+- id: "con-sense-datum", title: "البيانات الحسية (Sense-Datum)", type: "مفهوم"
+- id: "thk-rogers", title: "أرثر ك. روجرز", type: "مفكر"
+- id: "con-myth-of-given", title: "خرافة المعطيات (Myth of the Given)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«آرثر كين دريايت» (thk-drayt) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«راي بهاسكار» (thk-bhaskar) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

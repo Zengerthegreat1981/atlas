@@ -9,10 +9,11 @@ en: "Lawrence Kohlberg's Moral Development Study (Heinz Dilemma)"
 crumb: "علم النفس التنموي والأخلاقي ← الدراسات والأبحاث ← دراسة كولبرغ للنمو الأخلاقي"
 active_start: 1958
 active_end: 1963
-edges: []
+edges:
+  []
 related:
-  - id: "wrk-righteous-mind", title: "العقل الصالح", type: "عمل / كتاب"
-  - id: "thk-jonathan-haidt", title: "جوناثان هايدت", type: "مفكر"
+- id: "wrk-righteous-mind", title: "العقل الصالح", type: "عمل / كتاب"
+- id: "thk-jonathan-haidt", title: "جوناثان هايدت", type: "مفكر"
 gaps:
   - "النقد النسوي لكارول غيليغان (Carol Gilligan 1982) وأخلاق الرعاية مقابل أخلاق العدالة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

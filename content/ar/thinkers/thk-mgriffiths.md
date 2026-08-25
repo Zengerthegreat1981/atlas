@@ -11,14 +11,18 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
 related:
-  - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-  - id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
+- id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
+- id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
+- id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
+- id: "thk-jkadden", title: "كاثلين كاري", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة (1962) تقريبية ولم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثلين كاري (thk-jkadden)."
 ---
 
 # مارك غريفيثز

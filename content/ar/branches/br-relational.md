@@ -11,13 +11,16 @@ dates: "بريطانيا · من 1989"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "part_of", target: "الوجودي-الظاهراتي البريطاني", target_type: "تيار"
-  - rel: "developed_by", target: "إرنستو سبينيللي", target_type: "مفكر"
+- rel: "part_of", target: "br-british", target_type: "تيار"
+- rel: "developed_by", target: "thk-spinelli", target_type: "مفكر"
 related:
-  - id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "dbt-structures", title: "هل توجد بنى وجودية ثابتة؟", type: "جدل"
+- id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "dbt-structures", title: "هل توجد بنى وجودية ثابتة؟", type: "جدل"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "تاريخ تبلور الصيغة كموقف منهجي متمايز (لا كموقف فردي لسبينيللي وحده) — لم يُراجَع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."

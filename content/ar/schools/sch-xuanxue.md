@@ -14,10 +14,17 @@ active_start: 220
 active_end: 420
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
+- id: "thk-wang-bi", title: "وانغ بي", type: "مفكر"
+- id: "thk-he-yan", title: "هي يان", type: "مفكر"
+- id: "thk-guo-xiang", title: "قوه شيانغ", type: "مفكر"
+- id: "con-dao", title: "الداو (道) — المبدأ الكوني", type: "مفهوم"
+- id: "con-zhenren", title: "الرجل الحقيقي (真人 zhēnrén)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 gaps:
   - "نصوص Wang Bi وPei Songzhi وGuo Xiang بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "تحديد 'الأصل' (You / Wu) و'اللاعمل' (Wu-wei) في نصوص Wang Bi يستحقّ تحليلاً أعمق."

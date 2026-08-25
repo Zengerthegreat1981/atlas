@@ -13,12 +13,16 @@ language: "العربية، الفارسية"
 active_start: 1250
 active_end: 1650
 edges:
-  - rel: "belongs_to", target: "الفلسفة الإسلامية", target_type: "مظلة"
-  - rel: "belongs_to", target: "مدرسة أصفهان الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-isfahan", target_type: "مظلة"
 related:
-  - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
-  - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-  - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
+- id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "thk-ghiyath-al-din-dashtaki", title: "غياث الدين منصور الدشتكي الشيرازي", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "استمرارية المدرسة من القرن 7 هـ إلى ظهور الملا صدرا (القرن 11 هـ) تحتاج بحثاً أرشيفاً."
   - "لا يوجد اقتباس مباشر موثوق متاح من «شرح حكمته الإشراق» لقطب الدين الشيرازي."

@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← إريك ني�
 dates: "ألمانيا / فلسطين · 1905–1960"
 country: "إسرائيل"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: 1960
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "con-great-mother", title: "الأم الكبرى (الأركيتيب)", type: "مفهوم"
-  - id: "con-ego-self", title: "محور الأنا–الذات", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "con-great-mother", title: "الأم الكبرى (الأركيتيب)", type: "مفهوم"
+- id: "con-ego-self", title: "محور الأنا–الذات", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "حجم إسهامه الأصلي (هل طوّر مفاهيمه مستقلاً عن يونغ أم وسّعها منه؟) موضع نقاش في مدرسة تل أبيب المعاصرة."

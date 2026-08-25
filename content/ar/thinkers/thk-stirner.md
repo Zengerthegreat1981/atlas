@@ -7,20 +7,22 @@ title: "ماكس شتيرنر"
 en: "Max Stirner"
 crumb: "المدرسة الوجودية ← الناس ← ماكس شتيرنر"
 dates: "ألمانيا · 1806–1856"
-active_start: 1844
-active_end: 1844
+active_start: 1842
+active_end: 1856
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه 'الأوحد وملكيته' ونقده للأصنام الفكرية والمجردات يمثل نصاً تأسيسياً للفردانية الوجودية."
+  - "دُمج معه الملف المكرَّر thk-max-stirner (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # ماكس شتيرنر

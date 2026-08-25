@@ -10,11 +10,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2007
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ماري هيلين إيموردينو-يانغ"
 edges:
-  - rel: "belongs_to", target: "br-affective-neuroscience-informed", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج المستنير بعلم الأعصاب الوجداني", target_type: "تيار"
 related:
-  - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
-  - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

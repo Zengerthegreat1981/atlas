@@ -11,15 +11,16 @@ dates: "باريس · منتصف القرن العشرين"
 active_start: 1950
 active_end: "مستمر"
 language: "الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
-  - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
-  - id: "thk-pontalis", title: "جان-باتيست بونتاليس", type: "مفكر"
-  - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
-  - id: "thk-aulagnier", title: "بيرا أولانييه", type: "مفكر"
-  - id: "thk-fain", title: "ميشيل فان", type: "مفكر"
+- id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
+- id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
+- id: "thk-pontalis", title: "جان-باتيست بونتاليس", type: "مفكر"
+- id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
+- id: "thk-aulagnier", title: "بيرا أولانييه", type: "مفكر"
+- id: "thk-fain", title: "ميشيل فان", type: "مفكر"
 gaps:
   - "التمييز بين تيار رابطة التحليل النفسي الفرنسية (APF) وجمعية باريس للتحليل النفسي (SPP) والتيار اللاكاني."
   - "نظرية الإغواء المعممة عند لابلانش وتأثيرها في فهم النشأة البين-ذاتية للاشعور."

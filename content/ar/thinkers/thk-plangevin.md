@@ -5,16 +5,17 @@ type: "مفكر"
 level: "متوسط"
 title: "روني لانجفان"
 en: "Roni L. Langevin"
-crumb: "br-sotp ← التنوع في أنماط المعتدين ← روني لانجفان"
+crumb: "علاج مرتكبي العنف الجنسي (SOTP) ← التنوع في أنماط المعتدين ← روني لانجفان"
 dates: "كندا · القرن العشرين–"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1983
 active_end: 2005
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+- rel: "belongs_to", target: "علاج مرتكبي العنف الجنسي (SOTP)", target_type: "تيار"
 related:
-  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "مفكر"
+- id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

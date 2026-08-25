@@ -11,14 +11,15 @@ dates: "آلان كازدين · جامعة ييل · السبعينيات"
 active_start: 1970
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-pcit", title: "العلاج التفاعلي بين الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-multisystemic-therapy", title: "العلاج متعدد الأنظمة (MST)", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
-  - id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+- id: "tec-pcit", title: "العلاج التفاعلي بين الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
+- id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
+- id: "tec-multisystemic-therapy", title: "العلاج متعدد الأنظمة (MST)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
 gaps:
   - "النماذج المختلفة لـ PMT (Kazantzakis, Webster-Stratton, Forehand & McMahon, Triple-P, Incredible Years) — التفاصيل التقنية والفروق لم تُقارن جنباً إلى جنب في هذا المسودة."
   - "الفعالية في السياقات الثقافية غير الغربية (العربية، الإفريقية، الآسيوية) غير موثّقة بأرقام دقيقة."

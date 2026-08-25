@@ -8,8 +8,15 @@ en: "Link's Modified Labeling Theory Empirical Studies"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسات بروس لينك لنظرية الوصمة المعدلة"
 active_start: 1987
 active_end: 1989
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التطبيقات المعاصرة في تقليل الوصمة الهيكلية في التأمين الصحي تتطلب مراجعة سوسيولوجية"
   - "التفاعل بين الوصمة والتعافي الإكلينيكي في برامج دعم الأقران يحتاج توثيقاً موسعاً"

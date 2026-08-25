@@ -11,16 +11,19 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1968
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
-  - rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
+- id: "br-group-psychoanalysis", title: "التحليل النفسي الجماعي وتحليل المجموعات", type: "تيار"
 gaps:
   - "مفهوم الروابط (Les liens) يحتاج مراجعة مفصّلة لتطبيقاته في العقد الأول من الألفية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "هوية الملف: الـslug `thk-rkaes` يشير إلى René Kaës. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # رينيه كايه

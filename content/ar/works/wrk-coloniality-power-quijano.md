@@ -12,13 +12,16 @@ language: "الإنجليزية (ترجمة) / الإسبانية (أصلية)"
 active_start: 2000
 active_end: 2000
 edges:
-  - rel: "belongs_to", target: "الفلسفة الديكولونيالية (كمظلة عالمية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
-  - id: "thk-mignolo", title: "والتر مينيولو", type: "مفكر"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
+- id: "thk-mignolo", title: "والتر مينيولو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ النص الإسباني الأصلي 'Colonialidad del poder, eurocentrismo y América Latina' (2000)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # كولونيالية السلطة (Coloniality of Power, 2000)

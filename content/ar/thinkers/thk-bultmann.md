@@ -11,17 +11,19 @@ active_start: 1941
 active_end: 1960
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-macquarrie", title: "جون ماكواري", type: "مفكر"
-  - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
-  - id: "thk-barth", title: "كارل بارث", type: "مفكر"
-  - id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-macquarrie", title: "جون ماكواري", type: "مفكر"
+- id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
+- id: "thk-barth", title: "كارل بارث", type: "مفكر"
+- id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مشروعه في 'نزع الأسطورة' (Demythologization) وقراءة النصوص بأنطولوجيا هايدجر يستحق توثيقاً."

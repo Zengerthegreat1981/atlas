@@ -13,11 +13,14 @@ active_start: -400
 active_end: -300
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الداووية الفلسفية", target_type: "مدرسة"
-  - rel: "authored_by", target: "لاو تزو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-laozi", target_type: "مفكر"
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«كتاب تشوانغ تزو» (wrk-zhuangzi-text) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "تاريخ تأليف النصّ النهائي موضع خلاف جذري."

@@ -9,13 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو
 dates: "بريطانيا · [غير مؤكد]"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "عنصر placeholder — كلّ جمعية بريطانية تستحق ملفاً مستقلاً."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # مؤسِّسو الجمعيات التحليلية في المملكة المتحدة (placeholder)
@@ -24,15 +29,15 @@ gaps:
 تأسّست 1946، أقدم جمعية يونغية في بريطانيا. مؤسِّسوها: Michael Fordham, Frieda Fordham, M. Brierley, M. Philipp-Sattler.
 
 ## IGAP (Independent Group of Analytical Psychologists) — لندن
-تأسّست 1960s، انشقاق عن SAP. من أبرز أعضائها: W. Kraemer, A. Plaut.
+تأسّست الستينيات من القرن العشرين، انشقاق عن SAP. من أبرز أعضائها: W. Kraemer, A. Plaut.
 
 ## BJAA (British Jungian Analytic Association)
-تأسّست 1970s، نتيجة انشقاق آخر عن SAP.
+تأسّست السبعينيات من القرن العشرين، نتيجة انشقاق آخر عن SAP.
 
 ## AJA (Association of Jungian Analysts)
-تأسّست 1990s.
+تأسّست التسعينيات من القرن العشرين.
 
 ## GAP (Guild of Analytical Psychologists)
-تأسّست 2000s، خامس جمعية بريطانية.
+تأسّست العقد الأول من القرن الحادي والعشرين، خامس جمعية بريطانية.
 
 ملف placeholder موحَّد، يجب فصله لوصف كلّ واحد.

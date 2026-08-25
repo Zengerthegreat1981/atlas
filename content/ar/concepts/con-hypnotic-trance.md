@@ -8,15 +8,19 @@ en: "Hypnotic Trance"
 crumb: "التنويم والهيبنوثيرابي ← المفاهيم ← الغشية التنويمية"
 active_start: 1843
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
 related:
-  - id: "thk-ihilgard", title: "إرنست هيلغارد", type: "مفكر"
+- id: "con-hypnotic-suggestibility", title: "القابلية للإيحاء التنويمي", type: "مفهوم"
+- id: "tec-mesmerism-historical", title: "الماسمرية (Mesmerism)", type: "تقنية/تدخل علاجي"
+- id: "br-clinical-hypnotherapy", title: "التنويم العلاجي السريري", type: "تيار"
+- id: "rel-hypnosis-psychoanalysis", title: "التنويم والتحليل النفسي: انفصال وتباعد تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "النزاع الفلسفي-العلمي حول ماهية الغشية (حالة خاصة، دور اجتماعي، تأثير إيحاء) لم يُحسم."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست هيلغارد (thk-ihilgard)."
 ---
-
 # الغشية التنويمية
 
 حالة من التغيّر المُنظَّم في الوعي، يتراوح بين اليقظة المُعدَّلة والاسترخاء العميق، تتميز بـ:

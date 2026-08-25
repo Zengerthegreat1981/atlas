@@ -5,15 +5,19 @@ type: "مفكر"
 level: "متوسط"
 title: "كريستينا غروف"
 en: "Christina Grof"
-dates: "الولايات المتحدة · وُلدت 1941"
+dates: "الولايات المتحدة · 1941–2014"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
-active_end: "مستمر"
+active_end: 2014
+part: "psychology"
+crumb: "الأطلس ← thinkers ← كريستينا غروف"
 edges:
-  - rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
 related:
-  - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "thk-rmritchie", title: "رالف ميتزner", type: "مفكر"
+- id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطته
 
-- **"الخبرة الروحية الطارئة"** (Spiritual Emergence): مصطلح نشرته لوصف الأزمات النفسية الناتجة عن تجارب روحانية غير معالجة.
+- **"الانبثاق الروحي" و"الطوارئ الروحية"** (Spiritual Emergence / Spiritual Emergency): تمييز نشرته بين نموّ روحي تدريجي وبين أزمة حادة تنشأ حين يتعذّر استيعاب التجربة الروحية.
 - **دعم الحالات الطارئة** (Spiritual Emergence Network): شبكة دعم لـ "الولادة الروحية" كبديل عن التشخيص المرضي.
 - **الشراكة البحثية**: أبحاث مشتركة مع غروف حول أثر التنفس الهولوتروبي على الاضطرابات النفسية.
 
@@ -35,9 +39,9 @@ gaps:
 
 ## أهم أعمالها
 
-- *The Holotropic Mind* (مع ستانيسلاف غروف، 1992).
+- *The Stormy Search for the Self* (1990، مع ستانيسلاف غروف).
 - *Spiritual Emergency* (محرر، 1989).
-- *When the Impossible Happens* (2006).
+- *The Thirst for Wholeness: Attachment, Addiction, and the Spiritual Path* (1993).
 
 ## اقتباسات مختارة
 

@@ -11,11 +11,14 @@ dates: "الخمسينيات"
 active_start: 1958
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-  - id: "tec-erp", title: "التعرض ومنع الاستجابة", type: "تقنية/تدخل علاجي"
+- id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
+- id: "con-reciprocal-inhibition", title: "التثبيط المتبادل", type: "مفهوم"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "tec-erp", title: "التعرض ومنع الاستجابة", type: "تقنية/تدخل علاجي"
 gaps:
   - "كتاب جوزيف وولب التأسيسي 'العلاج النفسي بالإشراط المضاد' (Psychotherapy by Reciprocal Inhibition, 1958)."
   - "هرم القلق ومقياس وحدات الضيق الذاتية (Subjective Units of Distress Scale - SUDS)."

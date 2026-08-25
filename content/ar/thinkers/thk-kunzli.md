@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فريتز ك�
 dates: "ألمانيا / سويسرا · 1909–1998"
 country: "ألمانيا / سويسرا"
 language: "الألمانية"
+part: "psychology"
+active_start: null
+active_end: 1998
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "التوثيق البيوغرافي والأكاديمي لأبحاثه في معهد يونغ يحتاج استكمالاً."

@@ -13,11 +13,11 @@ active_end: 1635
 country: "إيران الصفوية"
 language: "العربية (مع الفارسية)"
 edges:
-  - rel: "belongs_to", target: "الحكمة المتعالية (الملا صدرا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الحكمة المتعالية (الملا صدرا)", target_type: "مدرسة"
 related:
-  - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
-  - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
-  - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
+- id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
+- id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 gaps:
   - "لا يزال ترتيب أعماله الأخيرة (الشواهد الربوبية) موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'الأسفار'."

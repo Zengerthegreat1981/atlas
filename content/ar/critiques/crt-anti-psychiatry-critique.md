@@ -8,19 +8,25 @@ en: "Anti-Psychiatry Critique: DSM as Tool of Control"
 crumb: "النقد الخارجي ← مناهضة الطب النفسي ← نقد مناهضة الطب النفسي المؤسسي"
 active_start: 1961
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
-  - rel: "relates_to", target: "التحليل النفسي", target_type: "مدرسة"
-related:  - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
-  - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
-  - id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي", type: "جدل"
-  - id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"gaps:
+- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
+- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي", type: "جدل"
+- id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"related:
+- id: "crt-adhd-overdiagnosis", title: "ADHD: تشخيص مُفرط", type: "نقد خارجي موثَّق"
+- id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
+- id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
+- id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
+- id: "dbt-mental-illness-social-construction", title: "جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ", type: "جدل"
+gaps:
   - "تفاصيل Szasz (1974) *The Age of Madness* — لا اقتباس مباشر."
   - "موقف Szasz من 'Troubled Persons Industry' — لا اقتباس."
   - "لا اقتباس مباشر موثوق متاح من APA ردّ على مناهضة الطب النفسي."
 ---
-
 # نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة
 
 نقد من خارج الإطار الطبي-النفسي السائد، يطعن في افتراض أن **"الاضطرابات النفسية" موجودة** كحالات مرضية، بل إنها **بناء اجتماعي** يستخدمه **المؤسسيون** (المستشفيات، الشركات، المحاكم) للسيطرة على الأفراد. النتيجة: DSM = "أداة هيمنة"، لا "علم".

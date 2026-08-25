@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← نانسي ك�
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
-  - id: "con-sacred-prostitute", title: "البغي المقدّسة", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
+- id: "con-sacred-prostitute", title: "البغي المقدّسة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "سيرة محدودة في المصادر المتاحة."

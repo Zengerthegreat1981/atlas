@@ -6,14 +6,17 @@ level: "متقدم"
 title: "الدوافع الوجودية الأربعة الأساسية"
 en: "The Four Fundamental Existential Motivations"
 crumb: "المدرسة الوجودية ← المفاهيم ← الدوافع الوجودية الأربعة الأساسية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-schulz", title: "بيتر شولتز", type: "مفكر"
-  - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "con-will-to-meaning", title: "الإرادة في المعنى (Will to Meaning)", type: "مفهوم"
-  - id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
+- id: "thk-schulz", title: "بيتر شولتز", type: "مفكر"
+- id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-will-to-meaning", title: "الإرادة في المعنى (Will to Meaning)", type: "مفهوم"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
 gaps:
   - "النصوص الأصلية لشولتز ولانغله بالألمانية تستحق مراجعة من المصدر الأولي."
   - "الفرق بين هذا النموذج ونموذج الدوافع الثلاثة (المتعة، القوة، المعنى) يستحق توثيقاً مستقلاً."

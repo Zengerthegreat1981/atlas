@@ -13,14 +13,18 @@ language: "الإنجليزية، الفرنسية، العربية"
 active_start: 1986
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "ما بعد الاستعمار الفلسفي", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-  - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
-  - id: "sch-islamic-feminism", title: "النسوية الإسلامية", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
+- id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
+- id: "sch-islamic-feminism", title: "النسوية الإسلامية", type: "مدرسة"
+- id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
+- id: "con-subaltern", title: "التابع (Subaltern)", type: "مفهوم"
+- id: "wrk-can-the-subaltern-speak", title: "هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988)", type: "عمل / كتاب"
 gaps:
   - "نصوص Spivak, Mohanty, Abu-Lughod, hooks, Mama, Lazreg تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النسوية ما بعد الاستعمار (Postcolonial Feminism)

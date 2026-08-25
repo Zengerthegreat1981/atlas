@@ -13,13 +13,15 @@ language: "الإيطالية، اللاتينية، الإنجليزية، ال
 active_start: 1400
 active_end: 1900
 edges:
-  - rel: "evolved_from", target: "الإنسانية النهضوية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "فلسفة التنوير", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
 related:
-  - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
-  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "thk-montesquieu", title: "مونتسكيو", type: "مفكر"
+- id: "sch-conservatism-philosophical", title: "المحافظية الفلسفية", type: "مدرسة"
 gaps:
   - "نصوص ماكيافيلي وبيكون وهارنغتون بالإيطالية والإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Il Principe' لماكيافيلي."

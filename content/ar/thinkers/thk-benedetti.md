@@ -11,12 +11,13 @@ active_start: 1975
 active_end: 1980
 country: "إيطاليا / سويسرا"
 language: "الإيطالية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أعماله الرائدة في العلاج النفسي الفينومينولوجي لمرضى الفصام تحتاج إلى ترجمة ودراسة أعمق بالعربية."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-العلاج النفسي للفصام (Psychotherapie der Schizophrenie, 1975) · التحليل الوجودي والفصام (Klinische Psychotherapie, 1980).
+العلاج النفسي للفصام (Psychotherapie der Schizophrenie, 1975) · العلاج النفسي الإكلينيكي (Klinische Psychotherapie, 1980).

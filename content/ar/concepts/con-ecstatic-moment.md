@@ -11,13 +11,18 @@ dates: "من السبعينيات"
 active_start: 1978
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-pberry", title: "باتريشيا بيري", type: "مفكر"
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "con-inner-experience", title: "الخبرة الباطنية القصوى", type: "مفهوم"
+- id: "thk-pberry", title: "باتريشيا بيري", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "جماليات الجسد والظل وتأويل الصور التخيلية في علم نفس الأركيتيب لباتريشيا بيري."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # اللحظة النشواتية وجماليات الأركيتيب

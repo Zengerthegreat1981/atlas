@@ -11,12 +11,13 @@ active_start: 1979
 active_end: 1995
 country: "ألمانيا / أمريكا"
 language: "الإنجليزية / الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-kastenbaum", title: "روبرت كاستنباوم", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-kastenbaum", title: "روبرت كاستنباوم", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تأسيسها لمجلة دراسات الموت (Death Studies) وبرامج التربية من أجل الموت (Death Education) يستحق توثيقاً."

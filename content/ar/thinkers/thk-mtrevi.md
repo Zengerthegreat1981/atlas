@@ -9,13 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ماريو ت�
 dates: "إيطاليا · 1920–2008"
 country: "إيطاليا"
 language: "الإيطالية"
+part: "psychology"
+active_start: null
+active_end: 2008
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-rpimenta", title: "ريكاردو بيمينتا", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ماريو تريفي

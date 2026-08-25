@@ -11,19 +11,20 @@ active_start: 1762
 active_end: 1778
 country: "سويسرا / فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "ctx-french-revolution-terror-rights", title: "الثورة الفرنسية ووثيقة حقوق الإنسان وصدمة عهد الإرهاب", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تحليله لأصالة المشاعر الباطنية ونقد النفاق الاجتماعي (Amour-propre) يستحق إدراجاً في تاريخ الأصالة."
 ---
-
 # جان جاك روسو
 
 فيلسوف وكاتب سويسري-فرنسي، رائد الحركة الرومانسية وأحد أوائل من أسسوا لمفهوم «الأصالة الذاتية» ونقد الاغتراب الاجتماعي في العصر الحديث.

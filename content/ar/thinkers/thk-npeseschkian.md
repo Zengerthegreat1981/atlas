@@ -11,11 +11,17 @@ country: "ألمانيا (من أصل إيراني)"
 language: "الألمانية/الفارسية"
 active_start: 1968
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج الإيجابي عبر-الثقافي (Peseschkian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الإيجابي عبر-الثقافي (Peseschkian)", target_type: "مدرسة"
 related:
+- id: "thk-brueger", title: "بيرند رويغر", type: "مفكر"
+- id: "thk-mcierpka", title: "مانفريد شيربكا", type: "مفكر"
+- id: "thk-fpeseschkian", title: "فريد بيسشكيان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فريد بيسشكيان (thk-fpeseschkian)."
 ---
 
 # نصرت بيسشكيان

@@ -10,12 +10,16 @@ dates: "1937 · غوردون ألبورت"
 language: "الإنجليزية"
 active_start: 1937
 active_end: 1937
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس الشخصية", target_type: "مدرسة"
-  - rel: "authored_by", target: "غوردون ألبورت", target_type: "مفكر"
+- rel: "belongs_to", target: "علم نفس الشخصية", target_type: "مدرسة"
+- rel: "authored_by", target: "غوردون ألبورت", target_type: "مفكر"
 related:
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-  - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفرق بين الطبعات (1937، 1950، 1961 «النسخة المنقّحة» تحت عنوان «أنماط الشخصية») لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

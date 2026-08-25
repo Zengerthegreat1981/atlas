@@ -11,12 +11,13 @@ dates: "أواخر الثمانينيات"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
-  - id: "tec-relapse-prevention", title: "منع الانتكاس", type: "تقنية/تدخل علاجي"
-  - id: "tec-motivational-interviewing", title: "المقابلة التحفيزية (MI)", type: "تقنية/تدخل علاجي"
+- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "منع الانتكاس", type: "تقنية/تدخل علاجي"
+- id: "tec-motivational-interviewing", title: "المقابلة التحفيزية (MI)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التمييز التاريخي الدقيق بين CBT-SUD و«الوقاية من الانتكاس» (Relapse Prevention) لمارلات و«العلاج المعزز التحفيزي» (MET) يحتاج توثيقاً إضافياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

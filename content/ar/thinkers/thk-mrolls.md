@@ -10,11 +10,13 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1974
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← إدموند رولز"
 edges:
-  - rel: "belongs_to", target: "br-affective-neuroscience-informed", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج المستنير بعلم الأعصاب الوجداني", target_type: "تيار"
 related:
-  - id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
-  - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
+- id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
+- id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,16 +8,17 @@ en: "Thomas Flynn"
 crumb: "المدرسة الوجودية ← الناس ← توماس فلين"
 dates: "أمريكا · 1936–"
 active_start: 1984
-active_end: 2006
+active_end: 2014
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مرجعه 'الوجودية: مقدمة قصيرة جداً' (Oxford) ودراسته عن الخيال السياسي عند سارتر يستحقان توثيقاً."
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-الوجودية: مقدمة قصيرة جداً (Existentialism: A Very Short Introduction, 2006) · سارتر والحرية والتاريخ (Sartre and Marxist Existentialism, 1984) · سارتر وفلسفة الخيال (Sartre, Foucault, and Historical Reason, 1997/2005).
+الوجودية: مقدمة قصيرة جداً (Existentialism: A Very Short Introduction, 2006) · سارتر والوجودية الماركسية (Sartre and Marxist Existentialism, 1984) · سارتر وفوكو والعقل التاريخي (Sartre, Foucault, and Historical Reason، مجلدان، 1997 و2005) · سارتر: سيرة فلسفية (Sartre: A Philosophical Biography, 2014).

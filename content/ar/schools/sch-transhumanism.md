@@ -13,13 +13,16 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
-  - id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
-  - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
+- id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
+- id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
+- id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
+- id: "con-existential-risk", title: "الخطر الوجودي (Existential Risk)", type: "مفهوم"
+- id: "wrk-superintelligence-bostrom", title: "الذكاء الخارق (Superintelligence)", type: "عمل / كتاب"
 gaps:
   - "نصوص Nick Bostrom, Max More, Ray Kurzweil, Nick Land need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإنسانية العابرة (Transhumanism)

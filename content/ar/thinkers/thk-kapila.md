@@ -6,16 +6,18 @@ part: "philosophy"
 level: "متوسط"
 title: "كابيلا (مؤسس سامخيا)"
 en: "Kapila (Founder of Samkhya)"
-dates: "الهند · القرن 6 ق.م (تقليدي) / 2 ق.م (المؤرخون المعاصرون)"
+dates: "الهند · القرن 6 ق.م (تقليدي) / 2 م (المؤرخون المعاصرون)"
 country: "الهند"
 language: "السنسكريتية"
 active_start: -600
 active_end: -500
 active_source: "lifespan"
+crumb: "الأطلس ← thinkers ← كابيلا (مؤسس سامخيا)"
 edges:
-  - rel: "belongs_to", target: "سامخيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "سامخيا", target_type: "مدرسة"
 related:
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "con-prakriti", title: "پرَكْرِتِي (الطبيعة / الجوهر المادي الأول)", type: "مفهوم"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
 gaps:
   - "الشخصية التاريخية لكابيلا موضع خلاف واسع: بعض المؤرخين يضعونه القرن 6 ق.م (الأسطورة)، وبعضهم القرن 2 م (مؤلف Samkhya Sutra)."
   - "لا توجد نصوص معاصرة له مؤكدة."

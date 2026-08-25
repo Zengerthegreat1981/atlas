@@ -8,9 +8,13 @@ en: "Werner & Smith Kauai Longitudinal Study on Resilience"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة كاواي للمرونة النفسية"
 active_start: 1955
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "stu-bucharest-early-intervention-project", title: "مشروع بوخارست للتدخل المبكر ودراسة أيتام المؤسسات الرومانية", type: "دراسة وبحث"
+- id: "thk-matt-haig", title: "مات هيغ", type: "مفكر"
+- id: "wrk-comfort-book", title: "كتاب العزاء: مجموعة تأملات في الأمل", type: "عمل / كتاب"
+- id: "stu-bucharest-early-intervention-project", title: "مشروع بوخارست للتدخل المبكر ودراسة أيتام المؤسسات الرومانية", type: "دراسة وبحث"
 gaps:
   - "تطور نموذج عوامل الحماية الداخلية والخارجية لـ Ann Masten (المرونة العادية - Ordinary Magic) يحتاج توثيقاً"
   - "التطبيقات في برامج التدخل المبكر للأسر المعرضة للفقر والإدمان تتطلب استعراضاً تطبيقياً"

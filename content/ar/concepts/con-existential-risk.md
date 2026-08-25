@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← الإنسانية العابرة 
 active_start: 2002
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية العابرة (Transhumanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transhumanism", target_type: "مدرسة"
 related:
-  - id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
-  - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
+- id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
+- id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مقالة Bostrom الأصلية 'Existential Risks' (Journal of Evolution and Technology, 2002)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الخطر الوجودي (Existential Risk)

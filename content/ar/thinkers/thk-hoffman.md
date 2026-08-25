@@ -6,19 +6,20 @@ level: "متقدم"
 title: "لويس هوفمان"
 en: "Louis Hoffman"
 crumb: "المدرسة الوجودية ← الناس ← لويس هوفمان"
-dates: "أمريكا · معاصر"
+dates: "الولايات المتحدة · 1975–"
 active_start: 2009
 active_end: 2020
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-yang", title: "مارك يانغ", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-schneider", title: "كيرك شنايدر", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-yang", title: "مارك يانغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مشروعه في علم النفس الوجودي العابر للثقافات والعدالة الاجتماعية يستحق إبرازاً."

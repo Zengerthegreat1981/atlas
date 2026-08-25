@@ -12,10 +12,13 @@ language: "الإنجليزية"
 active_start: 1909
 active_end: 1909
 edges:
-  - rel: "belongs_to", target: "الغاندية (كفلسفة سياسية-أخلاقية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
 related:
-  - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
-  - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لا مراجعة بعدُ للطبعة الهندية الأصلية (1910، دار نشر IJ Joshi، بومباي) ولا للترجمة الغوجاراتية الأصلية (Navajivan)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

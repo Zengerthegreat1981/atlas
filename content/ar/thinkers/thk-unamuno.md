@@ -11,17 +11,19 @@ active_start: 1905
 active_end: 1925
 language: "الإسبانية"
 country: "إسبانيا"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "con-meaning", title: "المعنى", type: "مفهوم"
-  - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
-  - id: "thk-zambrano", title: "ماريا ثامبرانو", type: "مفكر"
-  - id: "thk-machado", title: "أنطونيو ماتشادو", type: "مفكر"
-  - id: "thk-pascal", title: "بليز باسكال", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "thk-zambrano", title: "ماريا ثامبرانو", type: "مفكر"
+- id: "thk-machado", title: "أنطونيو ماتشادو", type: "مفكر"
+- id: "thk-pascal", title: "بليز باسكال", type: "مفكر"
 gaps:
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ميغيل دي أونامونو

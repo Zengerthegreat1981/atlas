@@ -12,10 +12,12 @@ language: "المصرية القديمة (الهيروغليفية)"
 active_start: -3000
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة المصرية (ماعت)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
-  - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
-  - id: "thk-ptahhotep", title: "بتاح حتب", type: "مفكر"
+- id: "wrk-instructions-ptahhotep", title: "تعاليم بتاح حتب", type: "عمل / كتاب"
+- id: "con-isfet", title: "إسفت (الفوضى / اللا-تناغم)", type: "مفهوم"
+- id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
+- id: "thk-ptahhotep", title: "بتاح حتب", type: "مفكر"
 gaps:
   - "نطاق دلالة «ماعت» في النصوص المصرية متعدد الاستعمالات، ولم يرد تعريف فلسفي موحد لها في الأدب المصري نفسه."
   - "لا توجد ترجمة معتمدة واسعة النطاق للمصطلح في الفلسفة العربية المعاصرة."

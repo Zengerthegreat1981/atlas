@@ -1,0 +1,32 @@
+---
+slug: "con-five-principles-mutazila"
+id: "CON-0997"
+type: "مفهوم"
+part: "philosophy"
+level: "متقدم"
+title: "الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism)"
+en: "Five Principles of Mu'tazilism"
+crumb: "علم الكلام الإسلامي ← المعتزلة ← الأصول الخمسة"
+active_start: 750
+active_end: 1100
+edges:
+- rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
+related:
+- id: "thk-wasil-ibn-ata", title: "واصل بن عطاء", type: "مفكر"
+- id: "thk-qadi-abd-al-jabbar", title: "القاضي عبد الجبار", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+gaps:
+  - "تحليل الفرق بين العدل المعتزلي ونظرية الكسب الأشعرية في حرية الإرادة."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+
+# الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism)
+
+الأركان الكلامية الخمسة التي تحدد الهوية العقلية للمذهب المعتزلي:
+1. **التوحيد:** نفي التشبيه والتجسيم ونفي زيادة الصفات على الذات.
+2. **العدل الإلهي:** تأكيد حرية الإنسان الكاملة ومسؤوليته عن أفعاله وخيرها وشرها وتنزيه الله عن الظلم والقبيح.
+3. **الوعد والوعيد:** حتمية إنفاذ الثواب والعقاب الإلهي بالعدل.
+4. **المنزلة بين المنزلتين:** الحكم على مرتكب الكبيرة بأنه فاسق لا مؤمن ولا كافر في الدنيا.
+5. **الأمر بالمعروف والنهي عن المنكر:** المسؤولية الاجتماعية والسياسية لحماية القيم.

@@ -9,19 +9,23 @@ crumb: "التحليل النفسي ← الناس ← ما بعد لاكان �
 dates: "فرنسا · مواليد 1937"
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-ccastoriadis", title: "كورنليوس كاستوريادس", type: "مفكر"
-  - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-ccastoriadis", title: "كورنليوس كاستوريادس", type: "مفكر"
+- id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ألان باديو
 
-فيلسوف فرنسي، وأستاذ في جامعة Paris VIII، وأحد أبرز «التطبيقين» المعاصرين لـ Lacan على الفلسفة السياسية.
+فيلسوف فرنسي، وأستاذ في جامعة Paris VIII، وأحد أبرز من طبّقوا لاكان على الفلسفة السياسية المعاصرة.
 
 ## ما أعطاه
 
@@ -29,7 +33,7 @@ gaps:
 
 ## موقعه من التيار
 
-من «اليسار اللاكاني» (Lacanian Left)، حلقة وصل بين Lacan، Marx، Mao (اللاكان-ماوية)، وفلسفة «الحدث» (Hölderlin، Heidegger). أسّس «حركة 22 فبراير» وشارك في تأسيس «الحزب الشيوعي الفرنسي» (PCF) في 1969.
+من «اليسار اللاكاني» (Lacanian Left)، حلقة وصل بين Lacan، Marx، Mao (اللاكان-ماوية)، وفلسفة «الحدث» (Hölderlin، Heidegger). شارك في تأسيس «الاتحاد الشيوعي الفرنسي الماركسي-اللينيني» (UCFML) عام 1969 بعد أحداث 1968.
 
 ## قيد
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-«الأخلاق: مقال في فهم الشر» (L'Éthique, 1993) · «الوجود والحدث» (L'Être et l'événement, 1988) · «الحقيقة: الجدلية» (La Dialectique de la vérité, 2014).
+«الأخلاق: مقال في فهم الشر» (L'Éthique, 1993) · «الوجود والحدث» (L'Être et l'événement, 1988) · «منطق العوالم» (Logiques des mondes, 2006).

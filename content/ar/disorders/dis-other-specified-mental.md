@@ -11,18 +11,18 @@ icd11_code: "6E60"
 active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "تصنيف"
-  - id: "classification-icd-11", title: "التصنيف الدولي للأمراض - الإصدار الحادي عشر (ICD-11)", type: "تصنيف"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-icd-11", title: "التصنيف الدولي للأمراض - الإصدار الحادي عشر (ICD-11)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تطبيقات صياغة 'السبب النوعي' (Specific Reason) في التقارير الطبية والمستشفيات تتطلب توثيقاً"
   - "انتقال التصنيف من نظام 'غير محدد في موضع آخر NOS' في DSM-IV إلى نظام 'محدد آخر' في DSM-5 يحتاج تفصيلاً"
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # اضطراب نفسي آخر محدد
 
 فئة تشخيصية سريرية تُستخدم عندما تنطبق أعراض مميزة لاضطراب نفسي تسبب ضيقاً أو خللاً وظيفياً ملحوظاً، لكنها لا تستوفي المعايير الكاملة لأي اضطراب نفسي نوعي محدد، ويختار الطبيب الإكلينيكي توثيق السبب النوعي المحدد لعدم استيفاء المعايير.

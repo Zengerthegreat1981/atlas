@@ -8,14 +8,15 @@ en: "Dietrich von Engelhardt"
 crumb: "المدرسة الوجودية ← الناس ← ديتريش فون إنغلهاردت"
 dates: "ألمانيا · 1941–"
 active_start: 1990
-active_end: 1999
+active_end: "مستمر"
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "con-death", title: "الموت", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتاباته حول البعد الوجودي والأخلاقي للمرض في تاريخ الطب تحتاج إلى مراجعة وتوثيق."
@@ -39,4 +40,4 @@ gaps:
 
 ## أهم أعماله
 
-المرض في الفلسفة والفن (Krankheit und Heilkunst, 1990) · أخلاقيات الطب وتاريخه (Ethik im Alltag der Medizin, 1999).
+المرض وفنّ الشفاء (Krankheit und Heilkunst, 1990) · الأخلاق في يوميّات الطب (Ethik im Alltag der Medizin, 1989) · إسهامات في موسوعات تاريخ الطب والأخلاقيات الطبية الألمانية.

@@ -13,15 +13,19 @@ language: "الإنجليزية"
 active_start: 1929
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الأنجلوساكسونية المعاصرة", target_type: "مظلة"
-  - rel: "evolved_from", target: "المثالية المطلقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الأنجلوساكسونية المعاصرة", target_type: "مظلة"
+- rel: "evolved_from", target: "المثالية المطلقة", target_type: "مدرسة"
 related:
-  - id: "sch-british-idealism", title: "المثالية البريطانية", type: "مدرسة"
-  - id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
+- id: "sch-british-idealism", title: "المثالية البريطانية", type: "مدرسة"
+- id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
+- id: "thk-campbell-purton", title: "كامبيل پيرتون", type: "مفكر"
+- id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
+- id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 gaps:
   - "العلاقة الدقيقة مع فلسفة برگسون (Évolution créatrice, 1907) لم تُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع ميتافيزيقا العلم المعاصر (النسبية، الكمّ) تحتاج ربطًا."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كامبيل پيرتون (thk-campbell-purton)."
 ---
 
 # فلسفة العملية (Process Philosophy)

@@ -8,12 +8,15 @@ en: "Cognitive Decentering"
 crumb: "الموجة الثالثة ← المفاهيم ← اللامركزية المعرفية"
 active_start: 1995
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
-  - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-  - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
+- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
+- id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التمييز الدقيق بين اللامركزية المعرفية و«الاستبطان الذهني» (Mindfulness) و«التأمل الميتا-معرفي» (Metacognitive Awareness) يحتاج توثيقاً أكاديمياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,9 +8,13 @@ en: "Minnesota Multiphasic Personality Inventory (MMPI-2 / MMPI-3)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار مينيسوتا للشخصية"
 active_start: 1943
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dbt-projective-tests-validity", title: "جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني", type: "جدل"
 gaps:
   - "التحول الهيكلي بين MMPI-2 (567 بنداً) وMMPI-3 الحديث (335 بنداً) يحتاج مقارنة سيكومترية"
   - "التكييف والتقنين العربي لمقاييس الصدق وإعادة ضبط الدرجات التائية (T-scores) تتطلب توثيقاً"

@@ -9,9 +9,10 @@ en: "Abraham Luchins' Water Jar Experiment (Einstellung Effect)"
 crumb: "علم النفس المعرفي والإدراكي ← الدراسات والأبحاث ← تجربة لوشينز لأوعية الماء"
 active_start: 1942
 active_end: 1942
-edges: []
+edges:
+  []
 related:
-  - id: "stu-duncker-candle-problem", title: "تجربة كارل دونكر لمشكلة الشمعة", type: "دراسة وبحث"
+- id: "stu-duncker-candle-problem", title: "تجربة كارل دونكر لمشكلة الشمعة", type: "دراسة وبحث"
 gaps:
   - "صيغة الحساب المتكررة (B - A - 2C) وعجز المشاركين عن رؤية الحل المباشر البسيط (A - C)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

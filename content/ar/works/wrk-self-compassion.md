@@ -10,11 +10,16 @@ dates: "2011 · كريستين نيف"
 language: "الإنجليزية"
 active_start: 2011
 active_end: 2011
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
-  - rel: "authored_by", target: "كريستين نيف", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-kristin-neff", target_type: "مفكر"
 related:
-  - id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
+- id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (William Morrow) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

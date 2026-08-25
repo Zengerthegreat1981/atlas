@@ -11,9 +11,9 @@ active_start: 1985
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث ريتشارد غاردنر (Richard Gardner 1985) والجدل القانوني والسيكياتري حول اعتمادها كتشخيص مستقل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

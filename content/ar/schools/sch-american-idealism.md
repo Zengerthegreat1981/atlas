@@ -13,12 +13,13 @@ language: "الإنجليزية"
 active_start: 1870
 active_end: 1930
 edges:
-  - rel: "belongs_to", target: "المثالية البريطانية", target_type: "مظلة"
-  - rel: "superseded_by", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-british-idealism", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
-related:
-  - id: "sch-personalism", title: "الفلسفة الشخصية (الشخصانية المبكرة)", type: "مدرسة"
-
+- id: "sch-personalism", title: "الفلسفة الشخصية (الشخصانية المبكرة)", type: "مدرسة"
+- id: "sch-process-philosophy", title: "فلسفة العملية (Process Philosophy)", type: "مدرسة"
+- id: "thk-rperry", title: "رالف بارتون بيرّي", type: "مفكر"
+- id: "thk-russ-harris", title: "أدريان هاريس", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«براند بلانشارد» (thk-blanshard) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جيمس إدوارد كريغتون» (thk-creighton) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

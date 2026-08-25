@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2007
 active_end: 2007
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي القائم على اليقظة الذهنية", target_type: "مدرسة"
-  - rel: "written_by", target: "مارك ويليامز", target_type: "مفكر"
+- rel: "belongs_to", target: "tec-mbct", target_type: "مدرسة"
+- rel: "written_by", target: "thk-mwilliams", target_type: "مفكر"
 related:
-  - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
+- id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
+- id: "ins-ffmq-five-facet-mindfulness", title: "استبيان أبعاد اليقظة الذهنية الخمسة المقنن (FFMQ)", type: "أداة قياس"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

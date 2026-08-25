@@ -11,11 +11,14 @@ dates: "بالو ألتو وميريلاند · الستينيات والسبع�
 active_start: 1967
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
-  - id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"
+- id: "thk-mkern", title: "مارك كيرن", type: "مفكر"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"
 gaps:
   - "أعمال معهد الأبحاث العقلية في بالو ألتو (MRI) لبول واتزلاويك وكتاب 'البراغماتية في التواصل الإنساني' (1967)."
   - "تقنيات التدخل المتناقض (Paradoxical Injunctions) ووصف العرض وإعادة التأطير الاستراتيجي عند جاي هيلي وكلوي مدانيس."

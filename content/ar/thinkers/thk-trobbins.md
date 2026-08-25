@@ -11,8 +11,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "مدرسة"
+related:
+- id: "thk-jdelozier", title: "جوديث دِلوزييه", type: "مفكر"
+- id: "thk-sgilligan", title: "ستيف جِليغَن", type: "مفكر"
+- id: "thk-tandreas", title: "تيريزا أندرِآس", type: "مفكر"
+- id: "thk-wwood", title: "وايات وودسمول", type: "مفكر"
+- id: "wrk-awaken-giant-within", title: "أيقظ العملاق الذي بداخلك", type: "عمل / كتاب"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

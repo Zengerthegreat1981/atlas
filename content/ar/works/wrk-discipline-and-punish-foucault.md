@@ -1,0 +1,37 @@
+---
+slug: "wrk-discipline-and-punish-foucault"
+id: "WRK-0571"
+type: "عمل / كتاب"
+part: "philosophy"
+level: "متقدم"
+title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)"
+en: "Discipline And Punish Foucault"
+crumb: "المكتبة الفلسفية ← أمهات الأعمال والمصادر ← المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)"
+active_start: 1975
+active_end: 1975
+edges:
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "ctx-surveillance-capitalism-big-data", title: "رأسمالية المراقبة وخوارزميات تعدين السلوك وتوجيه الانتباه", type: "سياق/تقليد"
+gaps:
+  - "المخطوطات والترجمات النقدية المعاصرة وتاريخ تلقي العمل."
+  - "لا يوجد اقتباس مباشر موثوق متاح."
+---
+# المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)
+
+تاريخ ولادة السجن والانضباط وتقنيات البانوبتيكون وسلطة الجسد.
+
+## البنية والأطروحة المركزية
+
+يقدم هذا العمل أطروحة فلسفية فارقة شكلت إضافة نوعية إلى مباحث الوجود والمعرفة والأخلاق والسياسة.
+
+## الأثر التاريخي والنقدي
+
+حظي الكتاب بدراسات وشروح وترجمات واسعة وصار مرجعاً لا غنى عنه في تاريخ الفلسفة الإنسانية.
+
+## اقتباسات مختارة
+
+لا يوجد اقتباس مباشر موثوق متاح.

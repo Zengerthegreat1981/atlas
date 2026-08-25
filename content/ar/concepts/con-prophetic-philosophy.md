@@ -10,11 +10,15 @@ crumb: "الفلسفة ← اليهودية ← الأندلسية ← الفل�
 active_start: 1140
 country: "الأندلس"
 language: "العربية والعبرية"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
-  - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
-  - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
+- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق بين يهوذا اللاوي (Kuzari) وابن ميمون (Guide) في هذا الموضوع يحتاج بحثاً معمّقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

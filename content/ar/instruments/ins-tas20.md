@@ -6,11 +6,15 @@ level: "متوسط"
 title: "مقياس تورنتو للألكسيثيميا (TAS-20)"
 en: "Toronto Alexithymia Scale (TAS-20)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس تورنتو للألكسيثيميا (TAS-20)"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة وبحث"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
+- id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة وبحث"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "يحتاج ربطاً أدق بنظرية باريت الموجودة في مكتبة المصادر (كتاب How Emotions Are Made) لكن لم يُراجع نص محدد بعد يدعم هذا الربط مباشرة"
   - "لا يوجد بعد عنصر dbt- مستقل يوثق جدل طبيعة المشاعر (فطرية أم مبنية) رغم أن الجدل مذكور ضمن sections عنصر con-fear"

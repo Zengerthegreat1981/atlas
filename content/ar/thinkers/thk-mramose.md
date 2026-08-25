@@ -11,8 +11,15 @@ country: "إفريقيا الجنوبية"
 language: "الإنجليزية/السوتوية"
 active_start: 1995
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علم نفس الأوبونتو (Ubuntu)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
+related:
+- id: "thk-amncube", title: "ألبرت مْنكوبِي", type: "مفكر"
+- id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
+- id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
+- id: "thk-nmanganyi", title: "نْيلسون مَغَنْي", type: "مفكر"
+- id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

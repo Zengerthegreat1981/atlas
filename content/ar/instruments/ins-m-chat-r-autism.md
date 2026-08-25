@@ -9,10 +9,11 @@ en: "Modified Checklist for Autism in Toddlers, Revised with Follow-Up (M-CHAT-R
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← القائمة المعدلة للتوحد لدى الأطفال الصغار مع المتابعة"
 active_start: 2001
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
-  - id: "ins-ados-2", title: "جدول الملاحظة التشخيصية للتوحد", type: "أداة قياس"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-ados-2", title: "جدول الملاحظة التشخيصية للتوحد", type: "أداة قياس"
 gaps:
   - "تطوير د. ديانا روبنز وماريان بارتون وديبورا فاين (Robins et al. 2001/2014) لفرز الأطفال بين 16 و30 شهراً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

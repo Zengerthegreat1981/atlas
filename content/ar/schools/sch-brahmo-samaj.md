@@ -13,10 +13,11 @@ language: "البنغالية، الإنجليزية، السنسكريتية"
 active_start: 1828
 active_end: 1900
 edges:
-  - rel: "belongs_to", target: "الهندوسية الجديدة (إصلاح القرن 19)", target_type: "مظلة"
-  - rel: "superseded_by", target: "آريا ساماج", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neohinduism", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-arya-samaj", target_type: "مدرسة"
 related:
-  - id: "thk-tagore", title: "رابندرانات طاغور", type: "مفكر"
+- id: "thk-roy", title: "رام موهان روي", type: "مفكر"
+- id: "thk-tagore", title: "رابندرانات طاغور", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«كيشوب تشاندرا سين» (thk-keshab) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«رام موهان روي» (thk-rammohanroy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

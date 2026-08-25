@@ -6,17 +6,19 @@ level: ""
 title: "هل المعنى يُكتشَف أم يُصنَع؟"
 en: "Discovered or created?"
 crumb: "المدرسة الوجودية ← الخصومات ← طبيعة المعنى"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-  - id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
-  - id: "thk-socrates", title: "سقراط", type: "مفكر"
+- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "thk-frankl", title: "فرانكل", type: "مفكر"
+- id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+- id: "thk-socrates", title: "سقراط", type: "مفكر"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # هل المعنى يُكتشَف أم يُصنَع؟

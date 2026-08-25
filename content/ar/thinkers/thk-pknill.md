@@ -11,10 +11,11 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1978
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الفنون التعبيرية التعددية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
 related:
-  - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
+- id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في ISMETA وLesley لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -38,7 +39,7 @@ gaps:
 ## أهم أعماله
 
 - *Principles and Practice of Expressive Arts Therapy* (2005).
-- "The Therapeutic Value of the Arts" (محرر، 1990s).
+- "The Therapeutic Value of the Arts" (محرر، التسعينيات من القرن العشرين).
 - أبحاث حول "Intermodal Approach".
 
 ## قيد

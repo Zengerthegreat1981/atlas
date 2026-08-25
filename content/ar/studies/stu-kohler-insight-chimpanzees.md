@@ -9,10 +9,11 @@ en: "Wolfgang Köhler's Insight Learning Experiments in Apes"
 crumb: "علم النفس الجشطالتي والمعرفي ← الدراسات والأبحاث ← تجارب كوهلر للاستبصار لدى الشمبانزي"
 active_start: 1913
 active_end: 1925
-edges: []
+edges:
+  []
 related:
-  - id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق", type: "مفهوم"
-  - id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
+- id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق", type: "مفهوم"
+- id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
 gaps:
   - "أبحاث كوهلر في جزيرة تينيريف (1913–1917) ودراسة الشمبانزي الشهير 'سلطان'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

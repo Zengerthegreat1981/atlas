@@ -11,14 +11,15 @@ active_start: 1939
 active_end: 1977
 country: "إسبانيا"
 language: "الإسبانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
-  - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "thk-machado", title: "أنطونيو ماتشادو", type: "مفكر"
+- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-machado", title: "أنطونيو ماتشادو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "مفهوم 'العقل الشعري' (Razón poética) وتجربة المنفى الوجودي يستحقان إدراجاً مفاهيمياً."

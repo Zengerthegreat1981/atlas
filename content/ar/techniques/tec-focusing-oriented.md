@@ -11,13 +11,16 @@ dates: "شيكاغو · من السبعينيات"
 active_start: 1978
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "يوجين جندلين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-gendlin", target_type: "مفكر"
 related:
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
+- id: "wrk-focusing", title: "التركيز (Focusing)", type: "عمل / كتاب"
+- id: "tec-hakomi", title: "طريقة هاكومي التجريبية المرتكزة على الجسد", type: "تقنية/تدخل علاجي"
 gaps:
   - "الخطوات الست لعملية التركيز ليوجين جيندلين: إفساح مساحة، استشعار الإحساس المعيش (Felt Sense)، إيجاد المقبض/المسمى (Handle)، الرنين، الاستفسار، والاستقبال."
   - "التحول الجسدي (Felt Shift) والشعور بالانفراج وتدفق المعنى الجديد."

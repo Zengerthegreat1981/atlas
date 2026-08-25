@@ -10,9 +10,14 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1975
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشرعي/الجنائي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشرعي/الجنائي", target_type: "مدرسة"
 related:
+- id: "thk-jcgibbs", title: "جون سي. غيبز", type: "مفكر"
+- id: "thk-araine", title: "أدريان راين", type: "مفكر"
+- id: "thk-agoldstein", title: "أرنولد غولدشتاين", type: "مفكر"
+- id: "thk-pfrick", title: "بول فريك", type: "مفكر"
 gaps:
   - "تاريخ Anger Management التقليدي يستحق توثيقاً."
   - "ART (Aggression Replacement Training) لـArnold Goldstein يستحق تفصيلاً."

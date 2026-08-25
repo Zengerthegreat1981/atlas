@@ -9,11 +9,17 @@ crumb: "علم النفس الفردي ← الناس ← التربوي الت�
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-hstein", title: "هنري ت. ستاين", type: "مفكر"
+- id: "thk-amuller", title: "ألكسندر مولر", type: "مفكر"
+- id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -9,14 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← إيمانوي
 dates: "إسرائيل · 1941–"
 country: "إسرائيل"
 language: "العبرية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'المغامرة المشتركة المستحيلة: التبادلية في التحليل النفسي' (Impossible Training, 2004) يستحق توثيقاً."
+  - "أثر قراءته لفيرنتزي في النقاش المعاصر حول سلطة التدريب التحليلي يستحق توثيقاً مستقلاً."
 ---
 
 # إيمانويل بيرمان

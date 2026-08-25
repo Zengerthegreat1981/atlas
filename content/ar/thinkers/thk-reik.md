@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← الجيل ا�
 dates: "النمسا/أمريكا · 1888–1969"
 language: "الألمانية / الإنجليزية"
 country: "النمسا / أمريكا"
+part: "philosophy"
+active_start: null
+active_end: 1969
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:
   - "مفهوم «المسمع الثالث» (third ear) وعلاقته بمفهوم «الحدس العلاجي» (clinical intuition) في أعمال رايك يحتاج مراجعة من نص تأسيسي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

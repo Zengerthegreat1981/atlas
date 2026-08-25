@@ -10,11 +10,15 @@ crumb: "الفلسفة ← اليهودية ← القبّالة ← السفي�
 active_start: 1170
 country: "إسبانيا/الأندلس"
 language: "العبرية"
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "القبّالة (كتيار فلسفي-رمزي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kabbalah", target_type: "مدرسة"
 related:
-  - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
-  - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
+- id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
+- id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "ترتيب الـSefirot العشر وتفسيراتها يختلف بين مدارس جيرونا، وطليطلة، وصفد — لا يوجد تسلسل مرجعي موحد."
   - "لا يوجد اقتباس مباشر موثوق من «زوهَر» متاح."

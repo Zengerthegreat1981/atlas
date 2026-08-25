@@ -14,11 +14,11 @@ active_start: 1694
 active_end: 1885
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الأخلاقية اليابانية (مظلة)", target_type: "مظلة"
-  - rel: "evolved_into", target: "حركة الإصلاح الشعبية (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة الأخلاقية اليابانية (مظلة)", target_type: "مظلة"
+- rel: "evolved_into", target: "حركة الإصلاح الشعبية (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-kogaku", title: "كوغاكو", type: "مدرسة"
-  - id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
+- id: "sch-kogaku", title: "كوغاكو", type: "مدرسة"
+- id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
 gaps:
   - "التمييز بين شينغاكو الأصلي (إشيدا بايجان) وشينغاكو الشعبي (ناكايمَ) غير محسوم."
   - "لا اقتباس مباشر موثوق من 'توكورُو-غوتُوكو' متاح في هذه المسودة."

@@ -10,11 +10,13 @@ crumb: "الماركسية ← المفاهيم ← الاغتراب"
 active_start: 1844
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل ماركس", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-marx", target_type: "مفكر"
 related:
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التمييز بين 'الاغتراب' (Entfremdung) و'الموضوعية' (Vergegenständlichung) في 'المخطوطات 1844' لم يُوثّق بدقة."

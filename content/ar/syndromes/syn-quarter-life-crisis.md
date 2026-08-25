@@ -11,11 +11,12 @@ active_start: 2001
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
+- id: "dis-adjustment-disorders", title: "اضطرابات التكيف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
+- id: "syn-raphael-syndrome", title: "متلازمة رافائيل وعبء الشهرة والتفوق المبكر", type: "متلازمة"
 gaps:
   - "أبحاث أوليفر روبنسون (Oliver Robinson) حول المراحل الأربع لأزمة ربع العمر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

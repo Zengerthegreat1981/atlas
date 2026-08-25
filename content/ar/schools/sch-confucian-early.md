@@ -14,12 +14,15 @@ active_start: -551
 active_end: -221
 active_source: "lifespan"
 edges:
-  - rel: "evolved_into", target: "الكونفوشية الجديدة", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
-  - id: "con-confucian-self", title: "الذات الكونفوشيوسية", type: "مفهوم"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "con-confucian-self", title: "الذات الكونفوشيوسية", type: "مفهوم"
+- id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل / كتاب"
+- id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"
+- id: "sch-vietnamese-triple", title: "الترادف الثلاثي الفيتنامي (Tam Giáo Đồng Nguyên)", type: "مدرسة"
 gaps:
   - "لم يُراجع من نص صيني كلاسيكي أصلي (المتون الأربعة، تشونغ تشيو) بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

@@ -11,11 +11,12 @@ crumb: "علم النفس الشعبي والمعاصر ← المفاهيم ←
 active_start: 2015
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والمعاصر", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والمعاصر", target_type: "مدرسة"
 related:
-  - id: "wrk-subtle-art", title: "فن اللامبالاة", type: "عمل / كتاب"
-  - id: "thk-mark-manson", title: "مارك مانسون", type: "مفكر"
-  - id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
+- id: "wrk-subtle-art", title: "فن اللامبالاة", type: "عمل / كتاب"
+- id: "thk-mark-manson", title: "مارك مانسون", type: "مفكر"
+- id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
+- id: "syn-pollyanna", title: "متلازمة بوليانا (الإيجابية القهرية وإنكار الواقع)", type: "متلازمة"
 gaps:
   - "الأبحاث الإكلينيكية حول أثر كبت الانفعالات السلبية على التنشيط العصبي الذاتي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

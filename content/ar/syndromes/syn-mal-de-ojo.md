@@ -11,10 +11,11 @@ active_start: 1950
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب العرض الجسدي", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "syn-bebes-enchilados", title: "متلازمة الأطفال الملسوعين في الطب الشعبي المكسيكي", type: "متلازمة"
 gaps:
   - "الانتشار العابر للثقافات في حوض البحر الأبيض المتوسط والشرق الأوسط وأمريكا اللاتينية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

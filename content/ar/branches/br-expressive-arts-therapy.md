@@ -11,15 +11,16 @@ dates: "بوسطن/ليستر · من 1974"
 active_start: 1974
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الجماعي/التعبيري/الفني", target_type: "مدرسة"
-  - rel: "developed_by", target: "شون ماكنيف", target_type: "مفكر"
+- rel: "belongs_to", target: "العلاج الجماعي/التعبيري/الفني", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-smcniff", target_type: "مفكر"
 related:
-  - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
-  - id: "con-creative-block", title: "الانسداد الإبداعي", type: "مفهوم"
-  - id: "tec-music-therapy", title: "العلاج بالموسيقى", type: "تقنية/تدخل علاجي"
-  - id: "tec-drama-therapy", title: "العلاج بالدراما", type: "تقنية/تدخل علاجي"
-  - id: "tec-poetry-therapy", title: "الشعر العلاجي", type: "تقنية/تدخل علاجي"
+- id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
+- id: "con-creative-block", title: "الانسداد الإبداعي", type: "مفهوم"
+- id: "tec-music-therapy", title: "العلاج بالموسيقى", type: "تقنية/تدخل علاجي"
+- id: "tec-drama-therapy", title: "العلاج بالدراما", type: "تقنية/تدخل علاجي"
+- id: "tec-poetry-therapy", title: "الشعر العلاجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ التأسيس المؤسسي (Lesley College) لم يُوثّق بدقة كافية."
   - "العلاقة بين Intermodal Expressive Arts وExpressive Arts Therapy (Knill) لم تُحسم توثيقياً."

@@ -6,13 +6,17 @@ level: "مبتدئ"
 title: "مقياس اضطراب القلق العام (GAD-7)"
 en: "Generalized Anxiety Disorder 7-item Scale (GAD-7)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس اضطراب القلق العام (GAD-7)"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # مقياس اضطراب القلق العام (GAD-7)

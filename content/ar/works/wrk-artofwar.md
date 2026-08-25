@@ -13,11 +13,14 @@ active_start: -500
 active_end: -400
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "المدرسة العسكرية الصينية", target_type: "مدرسة"
-  - rel: "authored_by", target: "سون تزو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-military-chinese", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-sunzi", target_type: "مفكر"
 related:
-  - id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
-  - id: "thk-sunzi", title: "سون تزو", type: "مفكر"
+- id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
+- id: "thk-sunzi", title: "سون تزو", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "تاريخ تأليف النصّ النهائي موضع خلاف (القرن 6 أم 4 ق.م؟)."
   - "الفرق بين طبعات 'Yinzhou' (1972) و'النسخة المنقوشة على الخيزران' (1984) لم يُحلّ هنا."

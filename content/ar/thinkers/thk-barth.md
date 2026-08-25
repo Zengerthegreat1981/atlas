@@ -11,17 +11,19 @@ active_start: 1919
 active_end: 1967
 country: "سويسرا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-tillich", title: "بول تيليش", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "تفسيره لرسالة بولس إلى أهل رومية (1919/1922) وتأثير كيركيغارد في اللاهوت الجدلي يستحق توثيقاً."
+  - "أثر كيركيغارد في «اللاهوت الجدلي» عند بارث يستحق عنصراً مفاهيمياً مستقلاً."
 ---
 
 # كارل بارث

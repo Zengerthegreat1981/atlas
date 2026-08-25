@@ -11,13 +11,15 @@ dates: "من أربعينيات القرن العشرين"
 active_start: 1940
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
-  - rel: "developed_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "tec-person-centered-core-conditions", title: "الشروط اللازمة والكافية للعلاج المتمركز حول العميل", type: "تقنية/تدخل علاجي"
 gaps:
   - "شروط روجرز الستة الضرورية والكافية للتغير العلاجي (التقبل الإيجابي غير المشروط، التطابق، والفهم التعاطفي الدقيق)."
   - "التحول من 'العلاج غير الموجه' (Nondirective) إلى 'العلاج المتمركز حول العميل' ثم 'المقاربة المرتكزة على الشخص'."

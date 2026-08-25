@@ -11,10 +11,11 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1975
 active_end: 2015
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الفنون التعبيرية التعددية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
 related:
-  - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
+- id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Person-Centered Expressive Therapy Institute لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -38,7 +39,7 @@ gaps:
 ## أهم أعمالها
 
 - *The Creative Connection: Expressive Arts as Healing* (1993).
-- "Person-Centered Expressive Therapy" (1990s).
+- "Person-Centered Expressive Therapy" (التسعينيات من القرن العشرين).
 - دروس تدريبية ومؤتمرات في الحقل.
 
 ## قيد

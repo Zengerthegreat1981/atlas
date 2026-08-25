@@ -12,13 +12,17 @@ language: "السنسكريتية"
 active_start: -200
 active_end: -100
 edges:
-  - rel: "belongs_to", target: "فيدانتا (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
-  - id: "thk-shankara", title: "شانكارا", type: "مفكر"
+- id: "thk-rsharma", title: "رامشاران شارما", type: "مفكر"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
+- id: "thk-shankara", title: "شانكارا", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بنص سنسكريتي معتمد مع ترجمة عربية."
   - "تأريخ الغيتا بين القرن 5 ق.م والقرن 2 م موضع خلاف."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رامشاران شارما (thk-rsharma)."
 ---
 
 # البهاغافاد غيتا (Bhagavad Gītā)

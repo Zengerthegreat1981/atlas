@@ -10,13 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← شون غالاغر"
 edges:
-  - rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "مقاربات الإدراك المتجسد", target_type: "تيار"
 related:
-  - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
-  - id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "مفكر"
+- id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
+- id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "تيار"
+- id: "thk-erosch", title: "إيلينور روش", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # شون غالاغر

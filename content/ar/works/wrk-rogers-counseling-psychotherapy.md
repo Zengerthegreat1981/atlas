@@ -10,13 +10,15 @@ dates: "1942 · كارل روجرز"
 language: "الإنجليزية"
 active_start: 1942
 active_end: 1942
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "wrk-becoming-person", title: "أن نصير أشخاصاً", type: "عمل / كتاب"
-  - id: "wrk-motivation-personality", title: "الدافعية والشخصية", type: "عمل / كتاب"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "wrk-becoming-person", title: "أن نصير أشخاصاً", type: "عمل / كتاب"
+- id: "wrk-motivation-personality", title: "الدافعية والشخصية", type: "عمل / كتاب"
+- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل (Client-Centered Therapy)", type: "عمل / كتاب"
 gaps:
   - "تفاصيل التحوّل من «العلاج غير الموجَّه» إلى «العلاج المتمركز حول العميل» بين 1942 و1951 لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

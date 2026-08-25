@@ -10,11 +10,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← تشارلز شيفر"
 edges:
-  - rel: "belongs_to", target: "Filial Therapy (العلاج العلائقي الوالد-الطفل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج البنوي والعائلي باللعب", target_type: "مدرسة"
 related:
-  - id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"
-  - id: "thk-glandreth", title: "غاري لاندريث", type: "مفكر"
+- id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"
+- id: "thk-glandreth", title: "غاري لاندريث", type: "مفكر"
+- id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -26,8 +29,8 @@ gaps:
 
 ## ما أعطاه
 
-- **"العلاج باللعب التكميلي"** (Filial Therapy): تطوير وتعميم العلاج العلائقي في البيوت.
-- **"العلاج باللعب في المهد"** (Toddler-Parent Psychotherapy): تكييف العلاج باللعب لأعمار مبكرة.
+- **"العلاج الوالدي باللعب"** (Filial Therapy): تطوير وتعميم العلاج العلائقي داخل البيت.
+- **"العلاج النفسي للطفل الدارج ووالده"** (Toddler-Parent Psychotherapy): تكييف العلاج باللعب لأعمار مبكرة.
 - **"العلاج باللعب عالي الكثافة"** (Intensive Short-Term Play Therapy): نموذج مكثف قصير المدى.
 - **مؤلفات تجميعية**: تحرير عشرات الكتب عن العلاج باللعب.
 

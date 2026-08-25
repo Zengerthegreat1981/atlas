@@ -11,13 +11,23 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+- rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
 related:
-  - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "con-utilization-principle", title: "مبدأ الاستفادة", type: "مفهوم"
+- id: "thk-erickson-erl", title: "إرنست لورنس روسي", type: "مفكر"
+- id: "thk-michael-yapko-jr", title: "دانيال بيت", type: "مفكر"
+- id: "thk-stephen-lankton", title: "ستيفن لانكتون", type: "مفكر"
+- id: "thk-william-hudson", title: "وليام هدسون", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست لورنس روسي (thk-erickson-erl)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال بيت (thk-michael-yapko-jr)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن لانكتون (thk-stephen-lankton)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وليام هدسون (thk-william-hudson)."
 ---
 
 # جيفري زايغ
@@ -28,7 +38,7 @@ gaps:
 
 - تأسيس **مؤسسة ميلتون إريكسون** (Milton H. Erickson Foundation) عام 1979 مع إريكسون نفسه.
 - تحرير *Ericksonian Methods: The Essence of the Story* (1994).
-- مساهمات في **«مؤتمرات إريكسون»** السنوية، التي تجمع أهم ممارسي التنويم عالمياً.
+- **مؤتمرات «تطوّر العلاج النفسي»** (The Evolution of Psychotherapy): أنشأها عام 1985، وهي أكبر تجمّع في تاريخ الحقل — جمعت على منصّة واحدة كارل روجرز وبرونو بتلهايم وسلفادور مينوشين وآرون بيك وڤيكتور فرانكل وآخرين، وسمّتها *New York Times* «وودستوك العلاج النفسي». وأهمّ ما فعلته أنها أجبرت مدارس متخاصمة على الحديث في القاعة نفسها.
 - تطوير **«تقنيات الميتافور»** (Metaphor Techniques) في العلاج الإريكسوني.
 
 ## موقعه من التيار
@@ -38,8 +48,9 @@ gaps:
 ## أهم أعماله
 
 - *Ericksonian Methods* (1994، محرر).
-- *A Teaching Seminar with Milton H. Erickson* (1980، مع جيلبرغ).
-- *The Induction of Hypnosis* (2014، مع لين).
+- *A Teaching Seminar with Milton H. Erickson* (1980، تحرير وتعليق) — نسخة حرفية لأسبوع تدريب مع إريكسون مع شرح لما يفعله في كل لحظة، وهي أقرب ما وصلنا إلى إريكسون وهو يعمل.
+- *The Induction of Hypnosis: An Ericksonian Elicitation Approach* (2014).
+- *Ericksonian Methods: The Essence of the Story* (1994، تحرير).
 
 ## اقتباسات مختارة
 

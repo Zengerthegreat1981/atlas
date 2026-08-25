@@ -9,10 +9,14 @@ crumb: "مدرسة التحليل النفسي ← الناس ← فرنسيون
 dates: "فرنسا · 1923–2016"
 language: "الفرنسية"
 country: "فرنسا"
+part: "philosophy"
+active_start: null
+active_end: 2016
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
   - "مفهوم «المصير الكارثي» (un destin si funeste) وعلاقته بقراءة لاكان في كتاب «مصير بهذا الشؤم» — تحتاج مراجعة من نص تأسيسي."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← فلسفات السكان الأص
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 related:
-  - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
-  - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مقالات Kuokkanen الأصلية ولا Deloria Jr. *God Is Red* (1972)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاقية (Relationality)

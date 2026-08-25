@@ -11,10 +11,11 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1976
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "علاج إيماغو العلائقي (Imago)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج إيماغو العلائقي (Imago)", target_type: "مدرسة"
 related:
-  - id: "thk-hhendrix", title: "هارفي هندرِكس", type: "مفكر"
+- id: "thk-hhendrix", title: "هارفي هندرِكس", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "صلة عمله المباشرة بإيماغو تستحق توثيقاً."

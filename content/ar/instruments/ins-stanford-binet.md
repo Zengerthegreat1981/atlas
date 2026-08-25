@@ -8,9 +8,13 @@ en: "Stanford-Binet Intelligence Scales (SB5)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس ستانفورد-بينيه للذكاء"
 active_start: 1916
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "stu-terman-gifted-longitudinal", title: "دراسة تيرمان الطولية للعبقرية والموهبة عبر دورة الحياة", type: "دراسة وبحث"
 gaps:
   - "تقنين النسخة العربية الخامسة (SB5) في البيئات العربية ومعايير الدقة المعيارية تتطلب مراجعة مقارنة"
   - "التاريخ المثير للجدل لاستخدام النسخ المبكرة في حركة تحسين النسل (Eugenics) يحتاج توثيقاً نقدياً"

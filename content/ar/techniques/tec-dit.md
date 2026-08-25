@@ -11,13 +11,14 @@ dates: "لندن · 2011"
 active_start: 2011
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "بيتر فوناجي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "بيتر فوناجي", target_type: "مفكر"
 related:
-  - id: "thk-pfonel", title: "بيتر فوناجي", type: "مفكر"
-  - id: "thk-bateman", title: "أنتوني بيتمان", type: "مفكر"
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-fonagy", title: "بيتر فوناجي", type: "مفكر"
+- id: "thk-bateman", title: "أنتوني بيتمان", type: "مفكر"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "بروتوكول DIT المعتمد في نظام الخدمة الصحية الوطنية البريطانية (NHS IAPT) المكوّن من 16 جلسة للاكتئاب والقلق."
   - "أداة صياغة النمط العلائقي البيني المتكرر اللاواعي (IPSR) في جلسات DIT."

@@ -11,8 +11,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+related:
+- id: "thk-iparker", title: "إيان باركر", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

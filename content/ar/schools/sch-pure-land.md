@@ -13,13 +13,13 @@ language: "السنسسكريتية، الصينية الكلاسيكية، ال
 active_start: 150
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
+- rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-  - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-  - id: "sch-jodo-shinshu", title: "جودو شينشو", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
+- id: "sch-jodo-shinshu", title: "جودو شينشو", type: "مدرسة"
 gaps:
   - "نصوص Tanluan، Daochuo، Shandao (الصين) وHōnen (اليابان) تحتاج مراجعة من المصدر الأولي."
   - "السوترات الكبرى (Sukhāvatīvyūha، Amitābha Sūtra، Amitāyurdhyāna Sūtra) معقّدة وتنقسم إلى إصدارات."

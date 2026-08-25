@@ -11,15 +11,16 @@ icd11_code: "6A04"
 active_start: 1987
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-behavioral-rehearsal", title: "التكرار السلوكي (Behavioral Rehearsal)", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-pres-mindful-breathing", title: "التنفس اليقظ", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-  - id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-behavioral-rehearsal", title: "التكرار السلوكي (Behavioral Rehearsal)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-breathing", title: "التنفس اليقظ", type: "تقنية/تدخل علاجي"
+- id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
+- id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
 gaps:
   - "اضطراب التنسيق التنموي حالة نمائية عصبية؛ التدخل الأساسي هو علاج وظيفي (OT) وتأهيل حركي، لا علاج نفسي."
   - "لا توجد أدوية معتمدة لاضطراب التنسيق التنموي. العلاج النفسي دوره ثانوي (تدني تقدير الذات، القلق الاجتماعي)."

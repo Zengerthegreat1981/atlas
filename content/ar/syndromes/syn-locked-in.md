@@ -11,10 +11,11 @@ active_start: 1966
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-apathetic-frontal", title: "متلازمة الفص الجبهي اللامبالية والخرس الحركي (Akinetic Mutism)", type: "متلازمة"
 gaps:
   - "أبحاث فريد بلام وجيروم بوزنر (Plum & Posner 1966) واحتشاء جسر الدماغ البطني."
   - "لا يوجد اقتباس مباشر موثوق متاح."

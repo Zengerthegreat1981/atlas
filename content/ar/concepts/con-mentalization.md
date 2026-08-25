@@ -8,15 +8,21 @@ en: "Mentalization"
 crumb: "التحليل النفسي ← المفاهيم ← الانعكاس الذهني"
 dates: "2000s-اليوم"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "بيتر فوناغي وأنطوني باتمن", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "بيتر فوناغي وأنطوني باتمن", target_type: "مفكر"
 related:
-  - id: "thk-pfonel", title: "بيتر فوناغي", type: "مفكر"
-  - id: "thk-bateman", title: "أنطوني باتمن", type: "مفكر"
-  - id: "thk-pfonel", title: "بيتر فوناغي", type: "مفكر"
+- id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
+- id: "thk-bateman", title: "أنطوني باتمن", type: "مفكر"
+- id: "tec-mbt", title: "العلاج بالانعكاس الذهني (MBT)", type: "تقنية/تدخل علاجي"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الانعكاس الذهني (Mentalization)

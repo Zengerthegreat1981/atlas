@@ -6,18 +6,21 @@ level: "متوسط"
 title: "جيمس بوجنتال"
 en: "James Bugental"
 crumb: "المدرسة الوجودية ← الناس ← جيمس بوجنتال"
-dates: "الولايات المتحدة"
+dates: "الولايات المتحدة · 1915–2008"
 active_start: 1961
 active_end: 2008
 language: "الإنجليزية"
 country: "أمريكا"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "thk-rgreening", title: "ريتشارد إ. غرينينغ", type: "مفكر"
-  - id: "thk-krug", title: "أورا كروغ", type: "مفكر"
-  - id: "thk-tgreening", title: "توماس غرينينغ", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-rgreening", title: "ريتشارد إ. غرينينغ", type: "مفكر"
+- id: "thk-krug", title: "أورا كروغ", type: "مفكر"
+- id: "thk-tgreening", title: "توماس غرينينغ", type: "مفكر"
+- id: "wrk-search-authenticity", title: "البحث عن الأصالة (The Search for Authenticity)", type: "عمل / كتاب"
+- id: "dbt-rogers-vs-may-authenticity", title: "أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة", type: "جدل"
 gaps:
   - "بيانات أعماله — تحتاج تثبيتاً"
   - "active_start/active_end صُحّحا من 1965/1990 إلى 1961/2008 بعد تعارض مع نسخة مسودة: بحث خارجي أكّد وفاته 2008 وتأسيسه المشارك لجمعية علم النفس الإنساني عام 1961 (Wikipedia)."

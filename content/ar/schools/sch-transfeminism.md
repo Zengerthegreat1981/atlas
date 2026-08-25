@@ -13,14 +13,15 @@ language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية الراديكالية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "النظرية الكويرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-queer-theory", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-  - id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
-  - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
+- id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
+- id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
 gaps:
   - "نصوص Stryker, Halberstam, Whittle, Feinberg تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الترانسفيمينية (Transfeminism)

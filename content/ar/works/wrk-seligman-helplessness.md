@@ -10,11 +10,16 @@ dates: "1975 · مارتن سليغمان"
 language: "الإنجليزية"
 active_start: 1975
 active_end: 1975
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
 related:
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "stu-hirotto-seligman-human-helplessness", title: "دراسة هيروتو وسليجمان حول العجز المُتعلَّم لدى البشر وتأثير غياب التحكم", type: "دراسة وبحث"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "العلاقة بين «العجز المكتسب» (1975) و«التفاؤل المكتسب» (1990) و«علم النفس الإيجابي» (1998) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

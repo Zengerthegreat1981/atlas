@@ -13,17 +13,16 @@ language: "التبتية"
 active_start: -1000
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
-  - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مظلة"
-  - id: "sch-nyingma", title: "نينغما", type: "مدرسة"
-  - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-  - id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
+- id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
+- id: "sch-nyingma", title: "نينغما", type: "مدرسة"
+- id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
+- id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
 gaps:
   - "النصوص الأصلية لـBön (mDo 'dus، Gzer Myig، gZi brjid) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Bön القديمة وBön التانترية المعاصرة يستحق بحثاً نقدياً."
 ---
-
 # البون (Bön، التقليد الديني التبت الأصلي)
 
 تقليد ديني وفلسفي تبتي ما قبل بوذي، شفهي في الأصل، تمّ تنصيره بدءاً من القرن 10 م. تنوّع بين شكل «مادهياماكا شفهي» (Bön القديم) و«Bön التانتري» الذي تشكّل تحت تأثير Vajrayāna.

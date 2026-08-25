@@ -11,11 +11,16 @@ dates: "ماساتشوستس · 1979"
 active_start: 1979
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "developed_by", target: "جون كابات-زين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-jkabat", target_type: "مفكر"
 related:
-  - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
+- id: "dis-illness-anxiety", title: "قلق المرض", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-psychological-factors-medical", title: "العوامل النفسية المؤثرة في حالات طبية أخرى", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "البروتوكول الطبي العلماني لمركز اليقظة الذهنية بجامعة ماساتشوستس (8 أسابيع ويوم صمت كامل)."
   - "تمارين مسح الجسد (Body Scan)، وحركات اليوغا الواعية، والتأمل الجالس في إدارة الألم المزمن والضغط النفسي."

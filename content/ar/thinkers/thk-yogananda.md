@@ -10,12 +10,16 @@ country: "الهند، الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1920
 active_end: 1952
+part: "psychology"
+crumb: "الأطلس ← thinkers ← باراماهانزا يوغاناندا"
 edges:
-  - rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
 related:
-  - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
+- id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # باراماهانزا يوغاناندا

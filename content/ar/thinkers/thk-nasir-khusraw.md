@@ -13,9 +13,9 @@ active_end: 1077
 country: "السلاجقة، الفاطميون (مصر)"
 language: "الفارسية (مع العربية)"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الإسماعيلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الإسماعيلية", target_type: "مدرسة"
 related:
-  - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
+- id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
 gaps:
   - "بعض أعماله (جامع الحكماين) موضع شك في النسبة."
   - "لا يوجد اقتباس مباشر موثوق من 'زاد المسافرين'."

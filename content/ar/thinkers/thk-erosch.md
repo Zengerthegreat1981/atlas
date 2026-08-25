@@ -5,18 +5,24 @@ type: "مفكر"
 level: "متوسط"
 title: "إيلينور روش"
 en: "Eleanor Rosch"
-dates: "الولايات المتحدة · وُلد 1938"
+dates: "الولايات المتحدة · وُلدت 1938"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← إيلينور روش"
 edges:
-  - rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "مقاربات الإدراك المتجسد", target_type: "تيار"
 related:
-  - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
-  - id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "مفكر"
+- id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
+- id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "تيار"
+- id: "thk-ethompson", title: "إيفان تومسون", type: "مفكر"
+- id: "thk-sgallagher", title: "شون غالاغر", type: "مفكر"
+- id: "wrk-embodied-mind", title: "العقل المتجسد: العلوم المعرفية للإنسان والذات والذاتية", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # إيلينور روش

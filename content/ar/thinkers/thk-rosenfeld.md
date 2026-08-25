@@ -9,11 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← هربرت ر�
 dates: "ألمانيا / بريطانيا · 1909–1986"
 country: "ألمانيا / بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1986
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "التمييز بين 'النرجسية الليبيدية' و'النرجسية التدميرية' (Destructive Narcissism) يستحق إدراجاً مفاهيمياً."

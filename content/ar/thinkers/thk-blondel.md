@@ -11,17 +11,18 @@ active_start: 1893
 active_end: 1935
 country: "فرنسا"
 language: "الفرنسية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-madinier", title: "غابرييل مادينييه", type: "مفكر"
-  - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-madinier", title: "غابرييل مادينييه", type: "مفكر"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "أطروحته الخالدة 'الفعل' (L'Action, 1893) ومنهج الباطنية والضرورة الوجودية تستحق إدراجاً في الأعمال."
+  - "منهج «الباطنية» (méthode d'immanence) عند بلونديل يستحق عنصراً مفاهيمياً مستقلاً."
 ---
 
 # موريس بلونديل

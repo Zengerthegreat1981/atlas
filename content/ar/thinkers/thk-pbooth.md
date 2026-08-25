@@ -3,17 +3,19 @@ slug: "thk-pbooth"
 id: "THK-1717"
 type: "مفكر"
 level: "متوسط"
-title: "فيلس بوث"
+title: "فيليس بوث"
 en: "Phyllis B. Booth"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← فيلس بوث"
 edges:
-  - rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "مدرسة"
 related:
-  - id: "thk-ajernberg", title: "آن جِرنبرغ", type: "مفكر"
+- id: "thk-ajernberg", title: "آن جِرنبرغ", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

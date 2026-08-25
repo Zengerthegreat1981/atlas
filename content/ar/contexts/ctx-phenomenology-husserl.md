@@ -6,11 +6,19 @@ level: "متقدم"
 title: "الفينومينولوجيا الهوسرلية"
 en: "Husserlian Phenomenology"
 crumb: "المدرسة الوجودية ← السياقات ← الفينومينولوجيا الهوسرلية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "exp-frankl-lived-experience", title: "وصف فرانكل الذاتي لخبرة المعنى داخل المعسكر", type: "خبرة معيشة"
+- id: "tec-phenomenological-exploration", title: "الاستكشاف الفينومينولوجي", type: "تقنية/تدخل علاجي"
+- id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---
 
 # الفينومينولوجيا الهوسرلية

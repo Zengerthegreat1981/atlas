@@ -14,12 +14,13 @@ active_start: 1781
 active_end: 1880
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مدرسة"
-  - rel: "split_into", target: "الكانطية الجديدة (ماربورغ وبادن)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
+- rel: "split_into", target: "sch-neokantian", target_type: "مدرسة"
 related:
-  - id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
-  - id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
-  - id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
+- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
+- id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«فريدريش هاينريش ياكوبي» (thk-jakobi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«يوهان فريدريش هربارت» (thk-herbart) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

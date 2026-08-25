@@ -13,10 +13,16 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الظاهراتية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
 related:
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-  - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
+- id: "thk-langer", title: "سوزان لانغر", type: "مفكر"
+- id: "thk-mlanger", title: "ماري لانغر", type: "مفكر"
+- id: "thk-young", title: "سارة يونغ", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«النسوية الفلسفية» (sch-feminist-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص de Beauvoir, Young, Bartky, Ahmed, Alcoff تحتاج مراجعة من المصدر الأولي."

@@ -11,10 +11,11 @@ active_start: 1885
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-oliver-sacks", title: "أوليفر ساكس", type: "مفكر"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث جورج جيل دو لا توريت وتلميذه لشاركو في مستشفى السالبتريير (1885)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

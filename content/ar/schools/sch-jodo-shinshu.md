@@ -13,11 +13,11 @@ language: "اليابانية"
 active_start: 1224
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الأرض الطاهرة (جينغتو / جودو)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-pure-land", target_type: "مدرسة"
 related:
-  - id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
-  - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
+- id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«شينران (سياسياً)» (sch-shinran) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Shinran (Kyōgyōshinshō، Tannishō) وRennyo (Ofumi) تحتاج مراجعة من المصدر الأولي."

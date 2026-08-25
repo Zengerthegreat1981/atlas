@@ -14,15 +14,17 @@ active_start: -360
 active_end: -337
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الشرعية / القانونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الشرعية / القانونية (Fajia)", target_type: "مدرسة"
 related:
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "thk-shang-yang", title: "شانغ يانغ", type: "مفكر"
-  - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "thk-shang-yang", title: "شانغ يانغ", type: "مفكر"
+- id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
+- id: "con-shu", title: "الشو (術) — التكنيك الإداري", type: "مفهوم"
 gaps:
   - "لا نصوص كاملة لشين بو هاي وصلت إلينا. كلّ ما نعرفه من شذرات وردت في Han Feizi وHan Shu."
   - "التفاصيل الدقيقة لتقنياته الإدارية ('fa shu') موضع خلاف واسع بين المعاصرين."
   - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."
+  - "هوية الملف: الـslug `thk-shen-buhai` يشير إلى Shen Buhai (Shen Bao). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # شين بو هاي (申不害، نحو 400–337 ق.م)

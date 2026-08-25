@@ -5,16 +5,17 @@ type: "مفكر"
 level: "متوسط"
 title: "هوارد بارباري"
 en: "Howard E. Barbaree"
-crumb: "br-sotp ← النموذج المعرفي-السلوكي ← هوارد بارباري"
-dates: "كندا · القرن العشرين–الواحد والعشرين"
+crumb: "علاج مرتكبي العنف الجنسي (SOTP) ← النموذج المعرفي-السلوكي ← هوارد بارباري"
+dates: "كندا · 1946–"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2015
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+- rel: "belongs_to", target: "علاج مرتكبي العنف الجنسي (SOTP)", target_type: "تيار"
 related:
-  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "مفكر"
+- id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -36,7 +37,9 @@ gaps:
 
 ## أهم أعماله
 
-- Barbaree, H. E., & Marshall, W. L. (eds.), *The Juvenile Sex Offender* (2006).
+- *Handbook of Sexual Assault: Issues, Theories, and Treatment of the Offender* (1990، تحرير مع وليام مارشال ودونالد لوز) — المرجع المؤسِّس للحقل.
+- *The Juvenile Sex Offender* (الطبعة الثانية 2006، تحرير مع وليام مارشال).
+- *The Causes of Rape: Understanding Individual Differences* (1991، مع مارشال ولوز).
 
 ## اقتباسات مختارة
 

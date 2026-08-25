@@ -11,10 +11,10 @@ active_start: 2006
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
-  - id: "con-lady-macbeth-effect", title: "تأثير الليدي ماكبث", type: "مفهوم"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
+- id: "con-lady-macbeth-effect", title: "تأثير الليدي ماكبث", type: "مفهوم"
 gaps:
   - "تجارب تشين-بو تشونغ وميدوز (Zhong & Liljenquist 2006) في مجلة Science."
   - "لا يوجد اقتباس مباشر موثوق متاح."

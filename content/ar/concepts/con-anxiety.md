@@ -6,18 +6,26 @@ level: "مبتدئ"
 title: "القلق"
 en: "Anxiety"
 crumb: "المدرسة الوجودية ← المفاهيم ← القلق"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
-  - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
-  - id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-tillich", title: "بول تيليش", type: "مفكر"
+- id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+- id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
+- id: "crt-adorno-jargon-authenticity-critique", title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية", type: "نقد خارجي موثَّق"
+- id: "stu-meaning-making-model-park", title: "نموذج صنع المعنى (Meaning Making Model)", type: "دراسة وبحث"
+- id: "tec-leadership-diamond-koestenbaum", title: "الألماسة القيادية الوجودية (The Leadership Diamond)", type: "تقنية/تدخل علاجي"
+- id: "br-affective-neuroscience-informed", title: "العلاج المستنير بعلم الأعصاب الوجداني", type: "تيار"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # القلق
 
 المفهوم الذي بدأت منه المدرسة، وأكثرها اتفاقاً في المبدأ واختلافاً في التفصيل.

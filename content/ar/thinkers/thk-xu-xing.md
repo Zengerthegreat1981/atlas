@@ -14,10 +14,10 @@ active_start: -350
 active_end: -319
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "المدرسة الزراعية", target_type: "مدرسة"
+- rel: "belongs_to", target: "المدرسة الزراعية (Nongjia)", target_type: "مدرسة"
 related:
-  - id: "sch-nongjia", title: "المدرسة الزراعية", type: "مدرسة"
-  - id: "thk-mencius", title: "منسيوس", type: "مفكر"
+- id: "sch-nongjia", title: "المدرسة الزراعية", type: "مدرسة"
+- id: "thk-mencius", title: "منسيوس", type: "مفكر"
 gaps:
   - "لا نصوص كاملة له وصلت. كلّ ما نعرفه من Mengzi 5A4 (الحوار مع منسيوس)."
   - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."

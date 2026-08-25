@@ -10,11 +10,16 @@ crumb: "الفلسفة ← المسيحية ← بوئيثيوس ← عزاء ا
 dates: "524 م · بافيا (السجن)"
 country: "المملكة الأودو-قوطية (إيطاليا)"
 language: "اللاتينية"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الآبائية المسيحية (Patristics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:
-  - id: "thk-boethius", title: "بوئيثيوس (أنيسيوس مانليوس سيفيرينوس)", type: "مفكر"
-  - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
+- id: "thk-boethius", title: "بوئيثيوس (أنيسيوس مانليوس سيفيرينوس)", type: "مفكر"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الترجمات العربية والإنجليزية لها تباينات في الفهم (Alfred the Great, Chaucer, King Alfred)."
   - "لا يوجد اقتباس مباشر موثوق."

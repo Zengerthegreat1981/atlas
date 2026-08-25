@@ -6,15 +6,20 @@ level: ""
 title: "التحليل النفسي — الانفصال والاحتفاظ"
 en: "Psychoanalysis"
 crumb: "المدرسة الوجودية ← الجيران ← التحليل النفسي — الانفصال والاحتفاظ"
+part: "bridge"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "neighbour_of", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "neighbour_of", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "dbt-unconscious", title: "خصومة اللاوعي", type: "جدل"
-  - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
+- id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
+- id: "thk-meltzer", title: "دونالد ميلتزر", type: "مفكر"
+- id: "thk-dimen", title: "موريل ديمن", type: "مفكر"
+- id: "dbt-unconscious", title: "خصومة اللاوعي", type: "جدل"
+- id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # التحليل النفسي — الانفصال والاحتفاظ

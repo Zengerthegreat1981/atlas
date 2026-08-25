@@ -10,10 +10,13 @@ crumb: "الفلسفة السياسية المعاصرة ← الديمقراط�
 active_start: 1993
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الديمقراطية الراديكالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-radical-democracy", target_type: "مدرسة"
 related:
-  - id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
-  - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
+- id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
+- id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
+- id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "النصوص التأسيسية (Mouffe 1993, 2005; Schmitt 1932) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

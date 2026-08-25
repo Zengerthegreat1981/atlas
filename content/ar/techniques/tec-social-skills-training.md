@@ -11,13 +11,15 @@ dates: "من الستينيات"
 active_start: 1964
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-jcurran", title: "جوزيف كورّان", type: "مفكر"
-  - id: "thk-rlindsl", title: "أورغن ليندزلي", type: "مفكر"
-  - id: "con-social-skills", title: "المهارات الاجتماعية (مفهوم)", type: "مفهوم"
-  - id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "thk-jcurran", title: "جوزيف كورّان", type: "مفكر"
+- id: "thk-rlindsl", title: "أورغن ليندزلي", type: "مفكر"
+- id: "con-social-skills", title: "المهارات الاجتماعية (مفهوم)", type: "مفهوم"
+- id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "dis-developmental-coordination", title: "اضطراب التنسيق التنموي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "بروتوكول PEERS لـ Frankel لتدريب المهارات الاجتماعية للمراهقين المصابين بالتوحد — موضع بحث."

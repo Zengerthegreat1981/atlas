@@ -13,12 +13,12 @@ language: "اليابانية، الصينية الكلاسيكية"
 active_start: 1168
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تشان (الصينية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-chan", target_type: "مدرسة"
 related:
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
-  - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+- id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
 gaps:
   - "نصوص Hakuin Ekaku (Wild Ivy، Yasen Kanna)، وأطروحات Eisai، وDōgen (Shōbōgenzō) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Rinzai و Sōtō في السياق الياباني يستحق بحثاً نقدياً."

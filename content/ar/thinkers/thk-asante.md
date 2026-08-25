@@ -13,9 +13,11 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "أفريقية المركز (Afrocentrism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "أفريقية المركز (Afrocentrism)", target_type: "مدرسة"
 related:
-  - id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
+- id: "thk-twolofor", title: "تويين فالولا", type: "مفكر"
+- id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"
+- id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«ثيوفيل أوبينغا» (thk-obenga) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Asante (The Afrocentric Idea, Afrocentricity) تحتاج مراجعة من المصدر الأولي."
@@ -36,12 +38,12 @@ gaps:
 
 ## موقعه من التيار
 
-مؤسّس «أفريقية المركز» المعاصرة (Afrocentricity) في أمريكا وأفريقيا. حواراته مع Théophile Obenga (السنغال) وAyi Kwei Armah (غانا) شكّلت جيلاً في «النقد الثقافي الأفريقي».
+مؤسّس «أفريقية المركز» المعاصرة (Afrocentricity) في أمريكا وأفريقيا. حواراته مع Théophile Obenga (الكونغو) وAyi Kwei Armah (غانا) شكّلت جيلاً في «النقد الثقافي الأفريقي».
 
 ## قيد
 
-أطروحته عن «الديون» (Debts) الحضارية لمصر لليونان كُثِّفت بأنها «تبسيط» — وهو ما ردّ عليه في «مصر ضد اليونان» (Egypt vs. Greece, 2000).
+وُجِّه إلى أطروحته عن «الديون» (Debts) الحضارية لليونان تجاه مصر نقدٌ بأنها «تبسيط» — وهو ما ردّ عليه في «مصر ضد اليونان» (Egypt vs. Greece, 2000).
 
 ## أهم أعماله
 
-أفريقية المركز (Afrocentricity, 1988) · أطلس العالم الأفريقي (The African-American Atlas, 1998) · مصر ضد اليونان (Egypt vs. Greece, 2000) · الانتقال الكبير (The History of Africa, 2000).
+أفريقية المركز (Afrocentricity, 1988) · أطلس الأمريكيين الأفارقة (The African-American Atlas, 1998) · مصر ضد اليونان (Egypt vs. Greece, 2000) · تاريخ أفريقيا (The History of Africa, 2007).

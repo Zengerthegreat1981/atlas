@@ -11,10 +11,13 @@ crumb: "علم النفس الشعبي والعلاقات ← المفاهيم �
 active_start: 1997
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والعلاقات", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي والعلاقات", target_type: "مدرسة"
 related:
-  - id: "wrk-emotional-blackmail", title: "الابتزاز العاطفي", type: "عمل / كتاب"
-  - id: "thk-susan-forward", title: "سوزان فوروارد", type: "مفكر"
+- id: "con-martyr-complex", title: "عقدة الشهيد والضحية المزمنة (استثمار المعاناة لفرض السيطرة)", type: "مفهوم"
+- id: "wrk-emotional-blackmail", title: "الابتزاز العاطفي", type: "عمل / كتاب"
+- id: "thk-susan-forward", title: "سوزان فوروارد", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "ديناميات الابتزاز العاطفي في العلاقات النرجسية والاعتمادية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

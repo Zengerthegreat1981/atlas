@@ -10,13 +10,16 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← جدل الهوي
 active_start: 1885
 active_end: "1945"
 edges:
-  - rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
 related:
-  - id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
+- id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
+- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
+- id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
   - "رابط مقترح لـ«الليبرالية اليابانية الحديثة» (sch-japanese-liberalism-modern) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ مقالة Fukuzawa الأصلية في *Jiji Shinpō* (27 مارس 1885)، ولا ردود Asianists."
-
 ---
 
 # جدل الانضمام إلى الحضارة الغربية ضد مساندة آسيا

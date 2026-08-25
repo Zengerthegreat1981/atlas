@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1982
 active_end: 1982
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي والقيادة الإدارية", target_type: "مدرسة"
-  - rel: "written_by", target: "كين بلانشارد", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي والقيادة الإدارية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-ken-blanchard", target_type: "مفكر"
 related:
-  - id: "thk-ken-blanchard", title: "كين بلانشارد", type: "مفكر"
+- id: "thk-spencer-johnson", title: "سبنسر جونسون", type: "مفكر"
+- id: "thk-ken-blanchard", title: "كين بلانشارد", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

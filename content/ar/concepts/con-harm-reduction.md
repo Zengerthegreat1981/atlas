@@ -1,7 +1,7 @@
 ---
 slug: "con-harm-reduction"
-id: "THK-2159"
-type: "مفكر"
+id: "CON-1258"
+type: "مفهوم"
 level: "متوسط"
 title: "الحد من الضرر (Harm Reduction)"
 en: "Harm Reduction
@@ -10,11 +10,15 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 1926
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
 related:
-  - id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
-  - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
+- id: "rel-addiction-cbt", title: "الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي: المقابلة التحفيزية ومنع الانتكاس", type: "علاقة بين مدرستين"
+- id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
+- id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "نشأ مفهوم الحد من الضرر في سياق 'عصر الكحول المنتهي' (Prohibition Era) في ثلاثينيات القرن العشرين في بريطانيا."
   - "توسّع في ثمانينيات القرن العشرين مع أزمة الهيروين وبرنامج الحقن الخاضع للإشراف (Supervised Injection Sites) في هولندا."

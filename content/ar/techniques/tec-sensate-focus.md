@@ -8,16 +8,23 @@ en: "Sensate Focus"
 crumb: "الجنس والهوية ← العلاج الجنسي ← التركيز الحسي"
 active_start: 1970
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
-  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
+- id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
+- id: "dis-delayed-ejaculation", title: "تأخر القذف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-erectile-disorder", title: "اضطراب الانتصاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-female-orgasmic", title: "اضطراب النشوة الأنثوية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-female-sexual-interest-arousal", title: "اضطراب الاهتمام/الإثارة الجنسية الأنثوية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-genito-pelvic-pain", title: "اضطراب الألم التناسلي الحوضي / الاختراق", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-male-hypoactive-sexual-desire", title: "اضطراب الرغبة الجنسية المنخفضة عند الذكور", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-premature-ejaculation", title: "سرعة القذف (القذف المبكر)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "نسبة الفكرة إلى Masters-Johnson مباشرة تستحق توثيقاً (1970، في Human Sexual Inadequacy)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # التركيز الحسي (Sensate Focus)
 
 تقنية أساسية في العلاج الجنسي، طوّرها William Masters وVirginia Johnson في كتابهم *Human Sexual Inadequacy* (1970). تتكون من سلسلة تدريبات لمس غير جنسية (ثم جنسية لاحقاً) بين الشريكين، بهدف تقليل القلق، تحسين التواصل، وتركيز الانتباه على الإحساس بدل الأداء.

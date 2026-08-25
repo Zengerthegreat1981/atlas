@@ -7,15 +7,18 @@ title: "كيمو تاكانن"
 en: "Kimmo Takanen"
 crumb: "المدرسة الوجودية ← الناس ← كيمو تاكانن"
 dates: "فنلندا · معاصر"
-active_start: 2011
-active_end: 2011
+active_start: 2000
+active_end: "مستمر"
 country: "فنلندا"
 language: "الفنلندية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تكييفه للعلاج بالمخططات والعلاج الوجودي في السياق النوردي يحتاج توثيقاً."

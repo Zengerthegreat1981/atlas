@@ -11,11 +11,14 @@ active_start: 1990
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-prolonged-grief", title: "اضطراب الحزن المطول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-holiday-heart", title: "متلازمة قلب العطلات الحادة (اضطراب النظم النفسي الكحولي)", type: "متلازمة"
+- id: "syn-karoshi-overwork", title: "متلازمة كاروشي (الموت المفاجئ من فرط العمل في اليابان)", type: "متلازمة"
+- id: "syn-psychogenic-death-cannon", title: "متلازمة الموت النفسي بالاستسلام واليأس الصدمي (Voodoo Death)", type: "متلازمة"
 gaps:
   - "أبحاث سابو وساتو وزملائهم في اليابان (1990) في توصيف شكل جرة الأخطبوط (Takotsubo)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

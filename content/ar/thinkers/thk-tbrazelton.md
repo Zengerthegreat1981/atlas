@@ -10,13 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1955
 active_end: 2018
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← تي. بيري برازيلتون"
 edges:
-  - rel: "belongs_to", target: "علم نفس الطفل", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس الطفل", target_type: "مدرسة"
 related:
-  - id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
-  - id: "thk-jkagan", title: "جيروم كاغان", type: "مفكر"
+- id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
+- id: "thk-jkagan", title: "جيروم كاغان", type: "مفكر"
+- id: "thk-amiller", title: "أليس ميلر", type: "مفكر"
+- id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تي. بيري برازيلتون

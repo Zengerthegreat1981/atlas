@@ -9,12 +9,13 @@ crumb: "الاضطرابات والحالات الإكلينيكية ← الت�
 active_start: 1994
 active_end: 2013
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
 related:
-  - id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر (Dysthymia)", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "evt-dsm-4-publication-1994", title: "نشر الدليل التشخيصي والإحصائي الرابع DSM-IV", type: "حدث تاريخي"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر (Dysthymia)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-dsm-4-publication-1994", title: "نشر الدليل التشخيصي والإحصائي الرابع DSM-IV", type: "حدث تاريخي"
 gaps:
   - "دراسات المتابعة الطولية المقارنة بين الشخصية الاكتئابية وعسر المزاج المزمن (Dysthymia) تحتاج مراجعة بيبلوغرافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

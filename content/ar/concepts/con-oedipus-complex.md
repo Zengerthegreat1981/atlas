@@ -11,16 +11,17 @@ crumb: "مدرسة التحليل النفسي ← المفاهيم ← عقدة
 active_start: 1899
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "con-electra-complex", title: "عقدة إلكترا", type: "مفهوم"
-  - id: "trm-trieb-instinct-drive", title: "مفهوم الغريزة والدافع", type: "مصطلح"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "con-electra-complex", title: "عقدة إلكترا", type: "مفهوم"
+- id: "trm-trieb-instinct-drive", title: "مفهوم الغريزة والدافع", type: "مصطلح لغوي متنازع عليه"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أول صياغة للمفهوم في كتاب 'تفسير الأحلام' (1899) وتطوره في 'ثلاث مقالات في النظرية الجنسية' (1905)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي)
 
 المفهوم المحوري في نظرية التحليل النفسي الفرويدي؛ يصف الرغبة اللاواعية لدى الطفل الذكر (في المرحلة القضيبية بين سن 3 و5 سنوات) في الاستحواذ العاطفي والجنسي على أمه، مصحوبة بمشاعر غيرة وعداء وتنافس تجاه أبيه، وخوف لاواعٍ من عقاب الأب (قلق الإخصاء Castration Anxiety).

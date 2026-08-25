@@ -8,9 +8,11 @@ en: "Social Phobia Inventory (SPIN / Mini-SPIN)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس الرهاب الاجتماعي SPIN"
 active_start: 2000
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "دقة النسخة الفائقة الإيجاز (Mini-SPIN المكونة من 3 بنود فقط) في الفرز الأولي بالرعاية الصحية تحتاج توثيقاً"
   - "التطبيقات المقارنة مع مقياس LSAS الأطول تتطلب مراجعة إكلينيكية"

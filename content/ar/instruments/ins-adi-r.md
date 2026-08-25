@@ -9,10 +9,11 @@ en: "Autism Diagnostic Interview-Revised (ADI-R)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← المقابلة التشخيصية للتوحد المنقحة"
 active_start: 1994
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
-  - id: "ins-ados-2", title: "جدول الملاحظة التشخيصية للتوحد", type: "أداة قياس"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-ados-2", title: "جدول الملاحظة التشخيصية للتوحد", type: "أداة قياس"
 gaps:
   - "تطوير لوتير ورودر ولوكاس ومايكل روتر (Rutter et al. 1994) لـ 93 بنداً تاريخياً نمائياً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

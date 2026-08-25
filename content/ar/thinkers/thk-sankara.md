@@ -13,10 +13,10 @@ language: "الفرنسية"
 active_start: 1983
 active_end: 1987
 edges:
-  - rel: "belongs_to", target: "الاشتراكية الأفريقية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الاشتراكية الأفريقية", target_type: "مدرسة"
 related:
-  - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
-  - id: "thk-nkrumah", title: "كوامي نكروما", type: "مفكر"
+- id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
+- id: "thk-nkrumah", title: "كوامي نكروما", type: "مفكر"
 gaps:
   - "خطب وأقوال Sankara (1983-1987) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,15 +10,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← مارك غولد"
 edges:
-  - rel: "belongs_to", target: "br-psychiatric-vocational-rehab", target_type: "تيار"
+- rel: "belongs_to", target: "التأهيل المهني النفسي", target_type: "تيار"
 related:
-  - id: "thk-pwehman", title: "بول ويهَمان", type: "مفكر"
-  - id: "thk-wanthony", title: "ويليام أنتوني", type: "مفكر"
-  - id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "مفكر"
+- id: "thk-lfish", title: "لورانس فيشباين", type: "مفكر"
+- id: "thk-wanthony", title: "ويليام أنتوني", type: "مفكر"
+- id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "تيار"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بول ويهَمان (thk-pwehman)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لورانس فيشباين (thk-lfish)."
 ---
 
 # مارك غولد

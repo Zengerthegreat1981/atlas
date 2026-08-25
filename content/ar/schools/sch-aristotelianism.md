@@ -13,19 +13,33 @@ language: "اليونانية، اللاتينية، السريانية، الع
 active_start: -335
 active_end: 1650
 edges:
-  - rel: "belongs_to", target: "فلسفة كلاسيكية", target_type: "مظلة"
-  - rel: "evolved_into", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
-  - rel: "evolved_into", target: "الأفلاطونية المحدثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة كلاسيكية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-  - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-  - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-  - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "wrk-aristotle-nicomachean-ethics", title: "كتاب الأخلاق النيقوماخية لأرسطو", type: "عمل / كتاب"
+- id: "dbt-virtue-ethics-vs-consequentialism-ai", title: "أخلاق الفضيلة مقابل العواقبية في حوكمة الذكاء الاصطناعي", type: "جدل"
+- id: "trm-akrasia-weakness-of-will", title: "الأكراسيا أو ضعف الإرادة (Akrasia): التصرف بعكس ما يمليه العقل", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-arete-virtue-excellence", title: "الأريتي (Arete): الفضيلة والكمال الإنساني وتحقيق الغاية", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-entelechy-aristotle", title: "الإنتيلخيا (Entelecheia): تحقق الكمال بالفعل وانبعاث الغاية", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-episteme-vs-techne", title: "الإبستيمي والتقنية (Episteme vs. Techne): المعرفة النظرية والمهارة العملية", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-hamartia-tragedy", title: "الهامارتيا (Hamartia): الخطيئة التراجيدية والخطأ القاتل للبطل", type: "مصطلح لغوي متنازع عليه"
+- id: "met-aristotle-unmoved-mover", title: "المحرك الذي لا يتحرك لأرسطو: استعارة العلة الغائية وجاذبية الكمال", type: "استعارة/مجاز مؤسِّس"
+- id: "que-algorithmic-governance-justice", title: "هل يمكن للذكاء الاصطناعي إصدار أحكام قضائية خالية من الانحياز البشري؟", type: "سؤال توليدي"
+- id: "que-is-the-universe-teleological", title: "هل للكون غاية وقصد كلي أم صيرورة عمياء محكومة بقوانين المادة؟", type: "سؤال توليدي"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
+- id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"
 gaps:
   - "حوالي 31 عملاً من أصل 200 عملاً لأرسطو فُقدت (ما يُسمى 'الأرسطية الفاسدة'، Theophrastus, Protrepticus, Eudemus). 31 عملاً فقط هي 'الكوربوس' المعتمد."
   - "نصوص الأرسطية المنقولة إلى العربية (عبر السريانية) تختلف عن النصوص اليونانية (Athenian Edition) في كثير من المواضع."
   - "هل أرسطو 'مؤسّس' مذهب أم 'معلّم متأرجح'؟ خلاف فيلسوفي معاصر متجدد (Terence Irwin vs Martha Nussbaum vs Myles Burnyeat)."
 ---
-
 # المشائية / الأرسطية (Aristotelianism)
 
 تيار فلسفي تأسّس في أثينا عام 335 ق.م عندما أسّس **أرسطو** (Aristotle، 384–322 ق.م) مدرسته في معبد «أبولو ليكيوس» (Λύκειον)، فأصبحت تُسمّى «المشائية» (Peripatos) نسبة إلى «الرواق» (περίπατος) الذي كانوا يدرّسون فيه. ظلت الأرسطية الفلسفة المهيمنة في العالم القديم (300 ق.م – 600 م)، ثم عادت في القرن 12 في أوروبا المسيحية والعالم الإسلامي معاً.

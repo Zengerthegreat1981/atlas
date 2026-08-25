@@ -4,21 +4,22 @@ id: "THK-0448"
 type: "مفكر"
 level: "متقدم"
 title: "نيكولاي هارتمان"
-en: "Nikolaus Hartmann"
+en: "Nicolai Hartmann"
 crumb: "المدرسة الوجودية ← الناس ← نيكولاي هارتمان"
 dates: "ألمانيا / لاتفيا · 1882–1950"
 active_start: 1926
-active_end: 1935
+active_end: 1950
 country: "ألمانيا / لاتفيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
-  - id: "thk-scheler", title: "ماكس شيلر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
+- id: "thk-scheler", title: "ماكس شيلر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نظريته في أنطولوجيا طبقات الواقع والحرية الإنسانية تستحق توثيقاً مقارناً مع هايدجر."
@@ -42,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-أسس الأنطولوجيا (Grundlegung der Ontologie, 1935) · الأخلاق (Ethik, 1926) · المشكلة الأنطولوجية للحرية الإنسانية (Das Problem des geistigen Seins, 1932).
+الأخلاق (Ethik, 1926) · مشكلة الوجود الروحي (Das Problem des geistigen Seins, 1932) · تأسيس الأنطولوجيا (Zur Grundlegung der Ontologie, 1935) · الإمكان والفعل (Möglichkeit und Wirklichkeit, 1938) · سبل جديدة في الأنطولوجيا (Neue Wege der Ontologie, 1949) · الجماليات (Ästhetik, 1953، بعد وفاته).

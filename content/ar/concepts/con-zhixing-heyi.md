@@ -10,11 +10,13 @@ crumb: "الفلسفة ← الصين ← مدرسة العقل/القلب (زي
 active_start: 1500
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة العقل/القلب (زين شوي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 related:
-  - id: "sch-xinxue", title: "مدرسة العقل/القلب (زين شوي)", type: "مدرسة"
-  - id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
-  - id: "con-liangzhi", title: "الحدس الأخلاقي (良知)", type: "مفهوم"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (زين شوي)", type: "مدرسة"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "con-liangzhi", title: "الحدس الأخلاقي (良知)", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لمفهومي 'المعرفة' (تشي) و'الفعل' (سينغ) في انتفاضة نيان لم تُغطّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

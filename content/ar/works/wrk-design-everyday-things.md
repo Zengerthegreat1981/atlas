@@ -10,11 +10,16 @@ dates: "1988 · دونالد نورمان"
 language: "الإنجليزية"
 active_start: 1988
 active_end: 1988
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "دونالد نورمان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "دونالد نورمان", target_type: "مفكر"
 related:
-  - id: "wrk-principles-psychology", title: "مبادئ علم النفس", type: "عمل / كتاب"
+- id: "wrk-principles-psychology", title: "مبادئ علم النفس", type: "عمل / كتاب"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
+- id: "wrk-daodejing", title: "كتاب الطريق والفضيلة (داو ده جينغ)", type: "عمل / كتاب"
 gaps:
   - "الكتاب صدر أوّلاً بعنوان The Psychology of Everyday Things (1988)، ثم أعيد بعنوان The Design of Everyday Things (1990). الفارق بين الإصدارين لم يُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

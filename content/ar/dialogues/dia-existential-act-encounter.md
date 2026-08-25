@@ -6,12 +6,20 @@ level: "متقدم"
 title: "لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)"
 en: "A Point of Encounter: Existential Therapy and ACT"
 crumb: "المدرسة الوجودية ← الحوارات مع مدارس مجاورة ← لحظة تقاطع مع ACT"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
+- id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
+- id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
+- id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
+- id: "dia-buber-rogers-dialogue-1957", title: "حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة", type: "حوار مع مدرسة مجاورة"
+- id: "dia-rawls-habermas-debate-1995", title: "مناظرة جون رولز ويورغن هابرماس 1995 حول العدالة", type: "حوار مع مدرسة مجاورة"
 gaps:
   - "لم تُراجع بعد مصادر أولية دقيقة تقارن ACT والعلاج الوجودي أكاديمياً بدل الوصف العام الحالي المبني على معرفة عامة"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)

@@ -6,14 +6,17 @@ level: "متقدم"
 title: "أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة"
 en: "Rogers' vs. May's Authenticity: Same Word, Different Meanings"
 crumb: "الإنسانية ← الجدالات ← أصالة روجرز في مقابل أصالة ماي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-fully-functioning-person", title: "الشخصية العاملة بكامل طاقتها", type: "مفهوم"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-fully-functioning-person", title: "الشخصية العاملة بكامل طاقتها", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من نص الجدل بعد."
   - "التفاصيل الكاملة لموقف تيليش من الأصالة (Paul Tillich) تحتاج تحقق."

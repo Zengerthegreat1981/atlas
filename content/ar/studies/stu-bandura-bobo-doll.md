@@ -8,10 +8,14 @@ en: "Bandura's Bobo Doll Experiments on Observational Learning and Aggression"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب دمية بوبو لباندورا"
 active_start: 1961
 active_end: 1963
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-modeling", title: "النمذجة والتعلم بالملاحظة", type: "مفهوم"
+- id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "dbt-violent-media-child-aggression", title: "جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال", type: "جدل"
 gaps:
   - "تأثير العنف في ألعاب الفيديو والإعلام الرقمي المعاصر على السلوك العدواني يحتاج مراجعة من دراسات أندرسون"
   - "التباين في محاكاة النماذج باختلاف جنس الطفل وجنس النموذج يتطلب تحليلاً مقارناً"

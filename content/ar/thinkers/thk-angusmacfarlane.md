@@ -11,11 +11,13 @@ country: "نيوزيلندا"
 language: "الإنجليزية (مع الماورية)"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
 related:
-  - id: "thk-masondurie", title: "ماسون دوري", type: "مفكر"
-  - id: "con-kaupapa-maori", title: "كاوبابا ماوري (Kaupapa Māori)", type: "مفهوم"
+- id: "thk-trore", title: "ماسون دوري", type: "مفكر"
+- id: "con-kaupapa-maori", title: "كاوبابا ماوري (Kaupapa Māori)", type: "مفهوم"
+- id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -27,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-- تأسيس **نموذج «أُكاي أوتوماتا»** (Ako Whakatere) في تعليم الماوري، وهو نموذج تربوي يجمع بين تعلّم المعلم وتعلّم المتعلّم.
+- تأسيس **نموذج «أكو فاكاتيري»** (Ako Whakatere) في تعليم الماوري، وهو نموذج تربوي يجمع بين تعلّم المعلم وتعلّم المتعلّم.
 - تطوير **مناهج علم النفس** التي تأخذ في الحسبان السياق الثقافي الماوري، مع نقد للنماذج الغربية السائدة.
 - أبحاث حول **التمييز والصحة النفسية** للطلبة الماوري في النظام التعليمي.
 - مساهمات في **بناء القدرات البحثية** لجيل من الباحثين الماوريين.
@@ -39,7 +41,7 @@ gaps:
 ## أهم أعماله
 
 - *Toe Fo'a Lima: The Smoke-Eaters of Tokelau* (1990).
-- *Ako Whakatere: Culturally Responsive Teaching and Learning* (مع Macfarlane، 2015).
+- *Ako Whakatere: Culturally Responsive Teaching and Learning* (2015، مع سونيا ماكفارلن).
 - فصول في كتب عن علم نفس الشعوب الأصلية.
 
 ## اقتباسات مختارة

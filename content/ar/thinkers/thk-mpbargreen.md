@@ -11,10 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج النفسي النسوي — الإنسانية وما بعدها", target_type: "مدرسة"
 related:
-  - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
+- id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
+- id: "thk-pcaplan", title: "بولا كابلان", type: "مفكر"
+- id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"
+- id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق غير موثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

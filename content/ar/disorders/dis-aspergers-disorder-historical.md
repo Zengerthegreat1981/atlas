@@ -9,12 +9,13 @@ crumb: "الاضطرابات والحالات الإكلينيكية ← الت�
 active_start: 1994
 active_end: 2013
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
 related:
-  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد (ASD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي والإحصائي الخامس DSM-5", type: "حدث تاريخي"
-  - id: "crt-neurodiversity-aba-critique", title: "نقد التنوع العصبي لـ ABA", type: "نقد خارجي موثَّق"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد (ASD)", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي والإحصائي الخامس DSM-5", type: "حدث تاريخي"
+- id: "crt-neurodiversity-aba-critique", title: "نقد التنوع العصبي لـ ABA", type: "نقد خارجي موثَّق"
 gaps:
   - "المقارنة الإحصائية لدراسات الثبات التشخيصي (Diagnostic Reliability) بين مراكز التوحد قبل 2013 تحتاج مراجعة إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

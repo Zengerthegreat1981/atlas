@@ -11,13 +11,14 @@ active_start: 1907
 active_end: 1936
 country: "إسبانيا"
 language: "الإسبانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
-  - id: "con-time", title: "الزمن", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
+- id: "con-time", title: "الزمن", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أبياته الشهيرة 'أيها السائر لا يوجد طريق، الطريق يُصنع بالسير' كبيان وجودي للحرية والزمان تستحق إدراجاً."

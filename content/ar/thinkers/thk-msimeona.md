@@ -11,9 +11,16 @@ country: "الولايات المتحدة (هاواي)"
 language: "الهاوائية / الإنجليزية"
 active_start: 1976
 active_end: 1992
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Ho'oponopono (هاواي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
 related:
+- id: "thk-jramiro", title: "جي رامييرو", type: "مفكر"
+- id: "thk-lmorrnah", title: "إبراهام كاوانيوآ", type: "مفكر"
+- id: "thk-mking", title: "ميليسا كينغ", type: "مفكر"
+- id: "thk-niosepa", title: "نانا إيوسيبا", type: "مفكر"
+- id: "thk-skalama", title: "سام كالاما", type: "مفكر"
+- id: "con-ho-oponopono", title: "هو-أوبونوبونو (Ho'oponopono)", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة لمسيرتها كمعالجة Kahuna لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -35,7 +42,7 @@ gaps:
 - **"أنا-المعالج" (I-Healer)**: مفهوم سيميونّا يؤكد أن الشفاء الذاتي (Self) هو جوهر الشفاء بين الآخرين. هذا يربط Ho'oponopono بنظرية "أنا-لأن-نحن" في Ubuntu.
 - **التدريب الدولي**: منذ 1980، درّبت سيميونّا معالجين على Ho'oponopono في هاواي وأوروبا وآسيا.
 
-## موقعه من المدرسة
+## موقعها من المدرسة
 
 سيميونّا تُعدّ من أهمّ من نقل Ho'oponopono من سياق هاواي التقليدي إلى تطبيق عالمي. تأثيرها امتد إلى:
 - تأسيس **Foundation of I"** (مؤسستها).

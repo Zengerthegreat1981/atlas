@@ -11,14 +11,15 @@ dates: "نيويورك/بِفدالي · من 1921"
 active_start: 1921
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج الجماعي/التعبيري/الفني", target_type: "مدرسة"
-  - rel: "developed_by", target: "ياكوب ل. مورينو", target_type: "مفكر"
+- rel: "belongs_to", target: "العلاج الجماعي/التعبيري/الفني", target_type: "مدرسة"
+- rel: "developed_by", target: "ياكوب ل. مورينو", target_type: "مفكر"
 related:
-  - id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
-  - id: "thk-zmoreno", title: "زيركا مورينو", type: "مفكر"
-  - id: "tec-psychodrama", title: "السيكودراما", type: "تقنية/تدخل علاجي"
-  - id: "con-catharsis-integration", title: "التطهير/الكاثارسيس التكاملي", type: "مفهوم"
+- id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
+- id: "thk-zmoreno", title: "زيركا مورينو", type: "مفكر"
+- id: "tec-psychodrama", title: "السيكودراما", type: "تقنية/تدخل علاجي"
+- id: "con-catharsis-integration", title: "التطهير/الكاثارسيس التكاملي", type: "مفهوم"
 gaps:
   - "تاريخ التأسيس المؤسسي (مسرح مورينو التلقائي، Beacon، 1934) لم يُوثّق بدقة كافية."
   - "العلاقة بين السيكودراما والعلاج بالدراما (Landy) لم تُحسم توثيقياً."

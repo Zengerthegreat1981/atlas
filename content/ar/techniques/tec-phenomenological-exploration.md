@@ -6,14 +6,18 @@ level: "متوسط"
 title: "الاستكشاف الفينومينولوجي"
 en: "Phenomenological Exploration"
 crumb: "المدرسة الوجودية ← التقنيات والتدخلات ← الاستكشاف الفينومينولوجي"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "ctx-phenomenology-husserl", title: "الفينومينولوجيا الهوسرلية", type: "سياق/تقليد"
-  - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
+- id: "tec-socratic-existential-dialogue", title: "الحوار السقراطي الوجودي", type: "تقنية/تدخل علاجي"
+- id: "ctx-phenomenology-husserl", title: "الفينومينولوجيا الهوسرلية", type: "سياق/تقليد"
+- id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # الاستكشاف الفينومينولوجي

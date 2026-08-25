@@ -9,10 +9,12 @@ en: "Strack's Facial Feedback (Pen in Teeth) Experiment"
 crumb: "علم النفس الانفعالي والمعرفي ← الدراسات والأبحاث ← تجربة ستراك للتغذية الراجعة الوجهية"
 active_start: 1988
 active_end: 2016
-edges: []
+edges:
+  []
 related:
-  - id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
-  - id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
+- id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
+- id: "crt-replication-crisis", title: "أزمة التكرار في علم النفس", type: "نقد خارجي موثَّق"
+- id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
 gaps:
   - "مشروع إعادة التكرار المسجل (RRR Wagenmakers et al. 2016) في 17 مختبراً حول العالم."
   - "لا يوجد اقتباس مباشر موثوق متاح."

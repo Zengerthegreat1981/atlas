@@ -10,10 +10,15 @@ country: "الولايات المتحدة (North Carolina)"
 language: "إنجليزية"
 active_start: 1972
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
 related:
-  - id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
+- id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+- id: "thk-ereichelt", title: "روبرت جاي رايشلر", type: "مفكر"
+- id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
+- id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
+- id: "con-structured-teaching-teacch", title: "التدريس المنظم (Structured Teaching)", type: "مفهوم"
 gaps:
   - "تاريخ TEACCH Program في UNC Chapel Hill يستحق توثيقاً."
   - "العلاقة بين TEACCH وABA تستحق توضيحاً."

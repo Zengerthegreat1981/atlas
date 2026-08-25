@@ -8,9 +8,13 @@ en: "Mueller & Dweck Study on Praise for Intelligence vs. Effort and Growth Mind
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة مولر ودويك لأثر الثناء"
 active_start: 1998
 active_end: 1998
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "stu-dweck-learned-helplessness-children", title: "دراسة دويك حول العجز المُتعلَّم والتوجه نحو الإتقان لدى أطفال المدارس", type: "دراسة وبحث"
+- id: "thk-dweck", title: "كارول دويك", type: "مفكر"
+- id: "wrk-hidden-potential", title: "إمكانات خفية: العلم الذي يكتشف ما بداخلك", type: "عمل / كتاب"
+- id: "stu-dweck-learned-helplessness-children", title: "دراسة دويك حول العجز المُتعلَّم والتوجه نحو الإتقان لدى أطفال المدارس", type: "دراسة وبحث"
 gaps:
   - "التكرارات واسعة النطاق لتدخلات عقلية النمو في المدارس الوطنية وجدل حجم الأثر الإحصائي لـ Sisk et al. (2018) تحتاج مراجعة"
   - "التطبيقات التربوية في أساليب التقييم والتدريس بالفصول المدرسية تتطلب توثيقاً متكاملاً"

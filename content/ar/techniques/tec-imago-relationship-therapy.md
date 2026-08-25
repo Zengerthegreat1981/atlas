@@ -11,10 +11,12 @@ dates: "نيويورك · 1988"
 active_start: 1988
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
+- id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
+- id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "كتاب هارفيل هندريكس وهيلين لاكيلي هانت (Harville Hendrix & Helen LaKelly Hunt) 'الحصول على الحب الذي تريده' (1988)."
   - "خطوات حوار إيماغو الثلاث: المرآتية (Mirroring)، المصادقة (Validation)، والتعاطف (Empathy)."

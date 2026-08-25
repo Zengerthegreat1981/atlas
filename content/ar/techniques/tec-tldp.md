@@ -11,11 +11,12 @@ dates: "فاندربيلت · الثمانينيات والتسعينيات"
 active_start: 1984
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "دليل فاندربيلت للعلاج النفسي والدراسات التجريبية لهانز ستروب (Hans Strupp) وجيفري بيندر (Jeffrey Binder)."
   - "أداة صياغة الحالة بالنمط العلائقي الدوري غير التكيفي (Cyclical Maladaptive Pattern - CMP)."

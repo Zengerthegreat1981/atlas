@@ -6,13 +6,16 @@ level: "متقدم"
 title: "الأبعاد الثمانية للارتباط والصلة الإنسانية"
 en: "The Eight Dimensions of Relatedness (Josselson)"
 crumb: "المدرسة الوجودية ← التقنيات ← الأبعاد الثمانية للارتباط"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-josselson", title: "روثلين جوسلسون", type: "مفكر"
-  - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-josselson", title: "روثلين جوسلسون", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«اللقاء» (con-encounter) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتاب جوسلسون 'المساحة بيننا' (1992) يستحق مراجعة من المصدر الأولي لتفاصيل الأبعاد الثمانية."

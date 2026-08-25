@@ -11,11 +11,19 @@ dates: "من السبعينيات"
 active_start: 1977
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "con-behavioral-medicine", title: "الطب السلوكي (مفهوم)", type: "مفهوم"
-  - id: "con-stimulus-control", title: "التحكم بالمنبّهات", type: "مفهوم"
+- id: "con-behavioral-medicine", title: "الطب السلوكي (مفهوم)", type: "مفهوم"
+- id: "con-stimulus-control", title: "التحكم بالمنبّهات", type: "مفهوم"
+- id: "dis-delayed-ejaculation", title: "تأخر القذف", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-erectile-disorder", title: "اضطراب الانتصاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-female-orgasmic", title: "اضطراب النشوة الأنثوية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-female-sexual-interest-arousal", title: "اضطراب الاهتمام/الإثارة الجنسية الأنثوية", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-genito-pelvic-pain", title: "اضطراب الألم التناسلي الحوضي / الاختراق", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-pica", title: "اضطراب أكل المواد غير الغذائية (Pica)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-rumination", title: "اضطراب الاجترار (Rumination Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "برامج إعادة التأهيل القلبي (Cardiac Rehabilitation) وبروتوكولات إدارة الألم المزمن — موضع تفصيل سريري."

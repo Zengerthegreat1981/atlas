@@ -13,13 +13,13 @@ language: "اليونانية، القبطية، السريانية"
 active_start: 50
 active_end: 400
 edges:
-  - rel: "belongs_to", target: "تقاليد فلسفية شرقية-غربية", target_type: "مظلة"
+- rel: "belongs_to", target: "تقاليد فلسفية شرقية-غربية", target_type: "مظلة"
 related:
-  - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
-  - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
-  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
-  - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
+- id: "sch-manicheism", title: "المانوية", type: "مدرسة"
+- id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
 gaps:
   - "النصوص الغنوصية مكتشفة في نجع حمادي (1945) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين 'الغنوصية' كحركة و'الغنوصية' كظاهرة أوسع لا يزال محل نقاش."

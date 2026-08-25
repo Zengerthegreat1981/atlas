@@ -10,12 +10,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1962
 active_end: 2011
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← كلايف روبنز"
 edges:
-  - rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
 related:
-  - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
+- id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # كلايف روبنز
@@ -24,4 +27,4 @@ gaps:
 
 ## ما أعطاه
 
-اشتغل روبنز على الجلسات الموسيقية الإبداعية (Free Improvisation) كأداة علاجية. طوّر «القياس الموسيائي» لتقييم استجابة الأطفال، وألّف مع نوردوف *Music Therapy in Special Education* (1971) و*Creative Music Therapy* (1977). أسّس مراكز تدريب في نيويورك ولندن وسيدني.
+اشتغل روبنز على الجلسات الموسيقية الإبداعية (Free Improvisation) كأداة علاجية. طوّر مقاييس موسيقية لتقييم استجابة الأطفال، وألّف مع نوردوف *Music Therapy in Special Education* (1971) و*Creative Music Therapy* (1977). أسّس مراكز تدريب في نيويورك ولندن وسيدني.

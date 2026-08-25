@@ -9,11 +9,16 @@ crumb: "مدرسة التحليل النفسي ← الناس ← توماس م�
 dates: "أمريكا · 1946–"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-  - id: "con-soul", title: "النفس", type: "مفهوم"
+- id: "thk-gparis", title: "جانيت باريس", type: "مفكر"
+- id: "thk-erasmus", title: "دسيديريوس إراسموس", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "con-soul", title: "النفس", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دقّة النسب الفكري بين Moore و Hillman — موضع نقاش في الأطلسات المعاصرة."

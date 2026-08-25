@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: 1984
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي التجريبي", target_type: "مدرسة"
-  - rel: "written_by", target: "روبرت تشالديني", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "written_by", target: "thk-cialdini", target_type: "مفكر"
 related:
-  - id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
+- id: "thk-cialdini", title: "روبرت تشالديني", type: "مفكر"
+- id: "con-mere-exposure-effect", title: "تأثير التعرض المحض (الألفة والانجذاب عبر التكرار)", type: "مفهوم"
+- id: "stu-cialdini-door-in-the-face", title: "تجربة روبرت تشالديني لتقنية 'الباب في الوجه' والمقايضة التنازلية (1975)", type: "دراسة وبحث"
+- id: "stu-freedman-fraser-foot-in-the-door", title: "تجربة جوناثان فريدمان وسكوت فريزر لتقنية 'القدم في الباب' (1966)", type: "دراسة وبحث"
+- id: "stu-langer-mindlessness-copy-machine", title: "دراسة إلين لانغر لآلة النسخ وقوة التبرير الشكلي (1978)", type: "دراسة وبحث"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,17 +11,19 @@ active_start: 1936
 active_end: 1944
 country: "رومانيا / فرنسا"
 language: "الفرنسية / الرومانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
+- id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'الوعي التعيس' (La Conscience malheureuse, 1936) يستحق إدراجاً في الأعمال."
+  - "مقالاته الفلسفية المتفرّقة، وخاصة «الاثنين الوجودي» (Le Lundi existentiel, 1945) الذي نُشر بعد موته، تستحق إدراجاً مستقلاً."
 ---
 
 # بنجامين فوندان
@@ -42,4 +44,4 @@ gaps:
 
 ## أهم أعماله
 
-الوعي التعيس (La Conscience malheureuse, 1936) · نيتشه والظاهراتية (Nietzsche et l'expérience de l'abîme) · بودلير وتجربة الهاوية (Baudelaire et l'expérience du gouffre, 1947).
+الوعي التعيس (La Conscience malheureuse, 1936) · رامبو الشقيّ (Rimbaud le voyou, 1933) · بحث زائف في الجماليات (Faux traité d'esthétique, 1938) · بودلير وتجربة الهاوية (Baudelaire et l'expérience du gouffre, 1947، بعد وفاته) · الاثنين الوجودي (Le Lundi existentiel, 1945).

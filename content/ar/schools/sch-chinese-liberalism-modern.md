@@ -13,13 +13,17 @@ language: "الصينية"
 active_start: 1915
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "الكونفوشية الجديدة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-  - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة", type: "مدرسة"
-  - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-  - id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
+- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة", type: "مدرسة"
+- id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
+- id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
+- id: "con-chinese-verification-ism", title: "الشك المنهجي (Doubting-ism / 怀疑主义)", type: "مفهوم"
+- id: "wrk-outline-chinese-philosophy", title: "مخطط تاريخ الفلسفة الصينية (Outline of the History of Chinese Philosophy)", type: "عمل / كتاب"
+- id: "dbt-hu-shi-vs-liang-shuming", title: "هو شي ضد ليانغ شومنغ: عولمة أم هوية كونفوشية؟", type: "جدل"
 gaps:
   - "نصوص Hu Shih, Liang Qichao, Hu Shi, Liang Shuming need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الليبرالية الصينية الحديثة (Modern Chinese Liberalism)

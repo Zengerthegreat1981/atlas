@@ -8,12 +8,15 @@ en: "Cultural Bias Debate in Standardized Intelligence Testing"
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← جدل التحيز الثقافي في اختبارات الذكاء"
 active_start: 1916
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "ins-stanford-binet", title: "مقياس ستانفورد-بينيه للذكاء", type: "أداة قياس"
-  - id: "ins-raven-progressive-matrices", title: "مصفوفات رافن التتابعية المعيارية والمتقدمة", type: "أداة قياس"
-  - id: "ins-wisc", title: "مقياس وكسلر لذكاء الأطفال", type: "أداة قياس"
-  - id: "ins-wais", title: "مقياس وكسلر لذكاء البالغين", type: "أداة قياس"
+- id: "ins-stanford-binet", title: "مقياس ستانفورد-بينيه للذكاء", type: "أداة قياس"
+- id: "ins-raven-progressive-matrices", title: "مصفوفات رافن التتابعية المعيارية والمتقدمة", type: "أداة قياس"
+- id: "ins-wisc", title: "مقياس وكسلر لذكاء الأطفال", type: "أداة قياس"
+- id: "ins-wais", title: "مقياس وكسلر لذكاء البالغين", type: "أداة قياس"
+- id: "evt-immigration-act-iq-testing-1924", title: "استخدام اختبارات الذكاء في إقرار قانون الهجرة الأمريكي لعام 1924", type: "حدث تاريخي"
 gaps:
   - "الجدل حول أثر 'تهديد الصورة النمطية' (Stereotype Threat) لـ Claude Steele على أداء الأقليات في اختبارات IQ يتطلب توثيقاً"
   - "تقنين اختبارات الذكاء المتحررة من أثر الثقافة في العالم العربي والبيئات النامية يحتاج مراجعة سيكومترية مقارنة"

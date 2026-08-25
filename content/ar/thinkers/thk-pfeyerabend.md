@@ -13,12 +13,16 @@ language: "الألمانية ثم الإنجليزية"
 active_start: 1955
 active_end: 1993
 edges:
-  - rel: "belongs_to", target: "فلسفة العلم", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة العلم (كمظلة)", target_type: "مدرسة"
 related:
-  - id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لتطور موقف فايرابند من بوبر لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'ضد المنهج' (1975)."
+  - "دُمج معه الملف المكرَّر thk-paul-feyerabend (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # بول فايرابند (Paul Feyerabend)

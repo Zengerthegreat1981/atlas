@@ -8,10 +8,13 @@ en: "Overmier, Seligman & Maier Original Learned Helplessness Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب العجز المُتعلَّم لسليجمان وماير"
 active_start: 1967
 active_end: 1967
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-learned-helplessness", title: "العجز المتعلم", type: "مفهوم"
+- id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "إعادة صياغة ستيفن ماير ومارتن سليجمان (Maier & Seligman, 2016) للأساس العصبي بالعجز كاستجابة افتراضية والتحكم ككفاءة مكتسبة تحتاج توثيقاً"
   - "التطبيقات الإكلينيكية للعجز في نموذج الاكتئاب المعرفي لآرون بيك تتطلب مقارنة متكاملة"

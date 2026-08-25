@@ -11,12 +11,16 @@ country: "فرنسا (من أصل فيتنامي)"
 language: "الفيتنامية/الإنجليزية"
 active_start: 1960
 active_end: 2022
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج النفسي التأملي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج النفسي التأملي (جامعة ناروبا)", target_type: "مدرسة"
 related:
-  - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
+- id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
+- id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تِك نات هان

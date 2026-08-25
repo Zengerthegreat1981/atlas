@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1963
 active_end: 1963
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا العقل الباطن", target_type: "مدرسة"
-  - rel: "written_by", target: "جوزيف ميرفي", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا العقل الباطن", target_type: "مدرسة"
+- rel: "written_by", target: "thk-joseph-murphy", target_type: "مفكر"
 related:
-  - id: "thk-joseph-murphy", title: "جوزيف ميرفي", type: "مفكر"
+- id: "thk-joseph-murphy", title: "جوزيف ميرفي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

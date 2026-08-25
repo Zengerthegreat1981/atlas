@@ -13,10 +13,11 @@ language: "الإنجليزية، السنسكريتية، الفرنسية"
 active_start: 1910
 active_end: 1950
 edges:
-  - rel: "belongs_to", target: "فلسفة أوروبندو (اليوغا التكاملية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة أوروبندو (اليوغا التكاملية)", target_type: "مدرسة"
 related:
-  - id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
-  - id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "dbt-aurobindo-vs-vivekananda", title: "أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة Arya المنشورة على دفعات (1914–1921)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

@@ -1,0 +1,126 @@
+{
+  "description": "Cycle 6 H2 — Bridge candidates comprehensive list.",
+  "auto_decision_rule": "For each candidate already in the atlas, document current part and reclassification recommendation. Auto-decision: reclassify to bridge if currently philosophy AND meets the bridge criteria.",
+  "current_bridge": [
+    "thk-marx (Karl Marx)"
+  ],
+  "candidates": [
+    {
+      "slug": "thk-roland-barthes",
+      "title_ar": "رولان بارت",
+      "en": "Roland Barthes",
+      "justification": "فيلسوف لغة وناقد أثر في العلاج السردي وما بعد البنيوية",
+      "current_part": "philosophy",
+      "auto_decision": "reclassify to bridge",
+      "file": "thinkers/thk-roland-barthes.md"
+    },
+    {
+      "slug": "thk-william-james",
+      "title_ar": "وليام جيمس",
+      "en": "William James",
+      "justification": "مؤسس علم النفس الأمريكي وفيلسوف براغماتي — جسر كلاسيكي",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-eric-kandel",
+      "title_ar": "إريك كاندل",
+      "en": "Eric R. Kandel",
+      "justification": "عالم أعصاب حائز نوبل يربط بين علم النفس والبيولوجيا العصبية",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-antonio-damasio",
+      "title_ar": "أنطونيو داماسيو",
+      "en": "Antonio R. Damásio",
+      "justification": "ععلم أعصاب يربط بين الوعي والذات — جسر بين علم الأعصاب وعلم النفس",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-pierre-bourdieu",
+      "title_ar": "بيير بورديو",
+      "en": "Pierre Bourdieu",
+      "justification": "سوسيولوجي ربط بين علم الاجتماع وعلم النفس الاجتماعي",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-susan-sontag",
+      "title_ar": "سوزان سونتاغ",
+      "en": "Susan Sontag",
+      "justification": "مفكرة ربطت بين المرض بوصفه استعارة والممارسة السريرية",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-evans-pritchard",
+      "title_ar": "إيفانز-بريتشارد",
+      "en": "E. E. Evans-Pritchard",
+      "justification": "أنثروبولوجي أثر في المنهج الظاهراتي",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-bourdieu",
+      "title_ar": "بيير بورديو",
+      "en": "Pierre Bourdieu",
+      "justification": "سوسيولوجي",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-martha-bernstein",
+      "title_ar": "مارثا برنشتاين",
+      "en": "Martha E. Bernstein",
+      "justification": "فيلسوفة معاصرة تربط بين علم النفس المعرفي وفلسفة اللغة",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-frankfurt",
+      "title_ar": "هاري فرانكفورت",
+      "en": "Harry G. Frankfurt",
+      "justification": "فيلسوف أخلاقي ربط بين فلسفة الفعل والإرادة",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-cs-peirce",
+      "title_ar": "تشارلز ساندرز بيرس",
+      "en": "Charles Sanders Peirce",
+      "justification": "مؤسس البراغماتية وفيلسوف علم العلامات",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-dennett",
+      "title_ar": "دانيال دينيت",
+      "en": "Daniel C. Dennett",
+      "justification": "فيلسوف وعالم نفس نظري — جسر بين فلسفة العقل وعلم النفس",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    },
+    {
+      "slug": "thk-evola",
+      "title_ar": "جوليوس إيفولا",
+      "en": "Julius Evola",
+      "justification": "مفكر تأملي أثر في الفلسفة السياسية",
+      "current_part": "NOT IN ATLAS",
+      "auto_decision": "create as bridge",
+      "file": null
+    }
+  ]
+}

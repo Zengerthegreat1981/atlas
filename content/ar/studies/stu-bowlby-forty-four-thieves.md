@@ -8,9 +8,11 @@ en: "Bowlby's 44 Juvenile Thieves Study on Maternal Deprivation"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة بولبي لـ 44 لصاً"
 active_start: 1944
 active_end: 1951
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "الانتقادات المنهجية لـ مايكل روتر (Michael Rutter) حول الخلط بين الحرمان (Privation) والانفصال تحتاج توضيحاً"
   - "أثر التحيز الاسترجاعي في تقارير الأمهات عن فترات الانفصال المبكرة يتطلب تدقيقاً نقدياً"

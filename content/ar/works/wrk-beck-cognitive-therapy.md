@@ -10,17 +10,20 @@ dates: "1976 · آرون بيك"
 language: "الإنجليزية"
 active_start: 1976
 active_end: 1976
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
 related:
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "rel-stoicism-cbt", title: "الرواقية والعلاج المعرفي السلوكي: من إبكتيتوس إلى بيك", type: "علاقة بين مدرستين"
+- id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ", type: "علاقة بين مدرستين"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"
 gaps:
   - "العلاقة بين بيك التحليلي (دكتوراه في التحليل النفسي) و«العلاج المعرفي» لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."
   - "تطور العلاج المعرفي في طبعات لاحقة (1979، 1995) لم يُراجع من مصدر أولي."
 ---
-
 # العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders)
 
 الكتاب التأسيسي لـ **آرون تيموتي بيك** (Aaron T. Beck)، نُشر عام 1976 عن دار International Universities Press في نيويورك. يُعدّ النص الذي **أسّس العلاج المعرفي** (Cognitive Therapy) كمنظومة علاجية مستقلة، وأحد أكثر كتب علم النفس الإكلينيكي تأثيراً في النصف الثاني من القرن العشرين.

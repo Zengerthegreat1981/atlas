@@ -8,16 +8,17 @@ en: "Amedeo Giorgi"
 crumb: "المدرسة الوجودية ← الناس ← أميديو جيورجي"
 dates: "أمريكا · 1931–2021"
 active_start: 1970
-active_end: 2009
+active_end: 2021
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "منهج دوكين الفينومينولوجي للبحث النوعي يستحق التوثيق في المناهج والأدوات."
@@ -25,7 +26,7 @@ gaps:
 
 # أميديو جيورجي
 
-عالم نفس وظاهراتي أمريكي رائد، مؤسس مدرسة دوكين (Duquesne University) لعلم النفس الفينومينولوجي ومبتكر «المنهج الفينومينولوجي الوصفي في علم النفس» (Descriptive Phenomenological Method).
+عالم نفس وظاهراتي أمريكي، أبرز منظّري «مدرسة دوكين» لعلم النفس الفينومينولوجي — التي أسّسها أدريان ڤان كام في مطلع الستينيات والتحق بها جيورجي عام 1965 فصار واضع منهجها — ومبتكر «المنهج الفينومينولوجي الوصفي في علم النفس» (Descriptive Phenomenological Method).
 
 ## ما أعطاه
 

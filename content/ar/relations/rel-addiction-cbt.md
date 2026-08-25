@@ -8,21 +8,22 @@ en: "Addiction Treatment and CBT: Motivational Interviewing and Relapse Preventi
 crumb: "الإدمان وتغيير السلوك ← العلاقات ← الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي"
 active_start: 1983
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "الإدمان وتغيير السلوك", target_type: "مدرسة"
-  - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الإدمان وتغيير السلوك", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-dmiller", title: "ديفيد ل. ميلر", type: "مفكر"
-  - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
-  - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
-  - id: "thk-diclemente", title: "كارل دي كليمنتي", type: "مفكر"
-  - id: "thk-nazrin", title: "ناثان أزرين", type: "مفكر"
-  - id: "con-harm-reduction", title: "الحد من الضرر (Harm Reduction)", type: "مفهوم"
-  - id: "con-twelve-steps", title: "برنامج الاثنتي عشرة خطوة (12-Step)", type: "مفهوم"
+- id: "thk-dmiller", title: "ديفيد ل. ميلر", type: "مفكر"
+- id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
+- id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
+- id: "thk-nazrin", title: "ناثان أزرين", type: "مفكر"
+- id: "con-harm-reduction", title: "الحد من الضرر (Harm Reduction)", type: "مفهوم"
+- id: "con-twelve-steps", title: "برنامج الاثنتي عشرة خطوة (12-Step)", type: "مفهوم"
 gaps:
   - "الجدل التاريخي بين 'نموذج المرض المزمن' (Jellinek، Alcoholics Anonymous) و'نموذج التعلم' (Bandura، Marlatt) لم يُحلّ."
   - "علاقة المقابلة التحفيزية (MI) بـ 'العلاج المتمركز على العميل' (Rogers) مذكورة لكن تفاصيلها الفلسفية تحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح من ميلر عن روجرز (رغم أنه استلهم منه)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كارل دي كليمنتي (thk-diclemente)."
 ---
 
 # الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي: المقابلة التحفيزية ومنع الانتكاس

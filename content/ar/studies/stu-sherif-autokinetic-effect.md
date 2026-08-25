@@ -9,10 +9,11 @@ en: "Muzafer Sherif's Autokinetic Effect Experiment"
 crumb: "علم النفس الاجتماعي التجريبي ← الدراسات والأبحاث ← تجربة مظفر شريف للحركة الذاتية"
 active_start: 1935
 active_end: 1935
-edges: []
+edges:
+  []
 related:
-  - id: "stu-asch-conformity", title: "تجربة آش للامتثال والضغط الجماعي", type: "دراسة وبحث"
-  - id: "stu-robbers-cave", title: "تجربة كهف اللصوص لمظفر شريف", type: "دراسة وبحث"
+- id: "stu-asch-conformity", title: "تجربة آش للامتثال والضغط الجماعي", type: "دراسة وبحث"
+- id: "stu-robbers-cave", title: "تجربة كهف اللصوص لمظفر شريف", type: "دراسة وبحث"
 gaps:
   - "استخدام الخداع البصري للحركة الذاتية لنقطة ضوء ثابتة في غرفة مظلمة تماماً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

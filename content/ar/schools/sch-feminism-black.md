@@ -13,15 +13,17 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "النسوية الراديكالية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الفلسفة الأفريقية الما بعد الكولونيالية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
+- rel: "evolved_from", target: "الفلسفة الأفريقية الما بعد الكولونيالية", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-  - id: "sch-afrofeminism", title: "النسوية الأفريقية", type: "مدرسة"
-  - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
+- id: "sch-afrofeminism", title: "النسوية الأفريقية", type: "مدرسة"
+- id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "con-standpoint-epistemology", title: "إبستمولوجيا الموقع (الموقف)", type: "مفهوم"
 gaps:
   - "نصوص Lorde, hooks, Hill Collins, Combahee River Collective تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النسوية السوداء (Black Feminism)

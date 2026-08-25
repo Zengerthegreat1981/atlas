@@ -9,10 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← الجيل ا�
 dates: "النمسا · 1879–1919"
 language: "الألمانية"
 country: "النمسا"
+part: "philosophy"
+active_start: null
+active_end: 1919
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "تفاصيل العلاقة الشخصية بين توسك وفرويد (ومن بينها ماري بونابرت) وعلاقتها بانتحاره — قصة موثّقة جزئياً ومتنازع عليها جزئياً — تحتاج مراجعة متخصصة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."

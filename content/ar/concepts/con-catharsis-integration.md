@@ -8,10 +8,19 @@ en: "Catharsis of Integration"
 crumb: "الجماعية/التعبيرية/الفنية ← المفاهيم ← التطهير الاندماجي"
 active_start: 1921
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
 related:
-  - id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
+- id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
+- id: "thk-jgantt", title: "جوزيف غانت", type: "مفكر"
+- id: "thk-mchen", title: "مارفن تشِن", type: "مفكر"
+- id: "thk-mclayton", title: "ماكس كلايتون", type: "مفكر"
+- id: "thk-nbustos", title: "نوربيرتو بوستوس", type: "مفكر"
+- id: "thk-rbauer", title: "روبرت باور", type: "مفكر"
+- id: "thk-tkellermann", title: "توماس كِلِرمان", type: "مفكر"
+- id: "wrk-morena-who-shall-survive", title: "من سيبقى على قيد الحياة؟ (Who Shall Survive?)", type: "عمل / كتاب"
+- id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"
 gaps:
   - "الفرق بين Catharsis of Integration و Catharsis of Abreaction (الفرويدية) لم يُقارن بشكل محكّم."
   - "لا يوجد اقتباس مباشر موثوق متاح."

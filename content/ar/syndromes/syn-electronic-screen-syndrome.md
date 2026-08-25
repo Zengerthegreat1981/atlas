@@ -11,10 +11,10 @@ active_start: 2012
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
-  - id: "wrk-anxious-generation", title: "الجيل القلق", type: "عمل / كتاب"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط النشاط", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-anxious-generation", title: "الجيل القلق", type: "عمل / كتاب"
 gaps:
   - "أبحاث د. فيكتوريا دانكلي (Victoria Dunckley 2012) في الطب النفسي العصبي للأطفال."
   - "لا يوجد اقتباس مباشر موثوق متاح."

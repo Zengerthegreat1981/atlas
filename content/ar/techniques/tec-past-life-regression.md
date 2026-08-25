@@ -8,10 +8,11 @@ en: "Past Life Regression Therapy"
 crumb: "حركات مثيرة للجدل ← التقنيات ← استرجاع الحياة السابقة"
 active_start: 1955
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
+- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
 related:
-  - id: "con-past-life-regression", title: "استرجاع ذكريات الحياة السابقة", type: "مفهوم"
+- id: "con-past-life-regression", title: "استرجاع ذكريات الحياة السابقة", type: "مفهوم"
 gaps:
   - "البروتوكول الدقيق (Wambach) لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

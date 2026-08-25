@@ -11,10 +11,10 @@ active_start: 1995
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-  - id: "syn-boreout", title: "متلازمة الملل الوظيفي", type: "متلازمة"
+- id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
+- id: "syn-boreout", title: "متلازمة الملل الوظيفي", type: "متلازمة"
 gaps:
   - "أبحاث كاري كوبر (Cary Cooper 1995) في علم النفس التنظيمي وتكلفة الإنتاجية المفقودة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

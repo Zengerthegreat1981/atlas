@@ -13,10 +13,16 @@ language: "الإنجليزية"
 active_start: 1789
 active_end: 1900
 edges:
-  - rel: "evolved_into", target: "النفعية المعاصرة", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الوضعية / الكومتية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-utilitarianism-contemporary", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comtian-positivism", target_type: "مظلة"
 related:
-  - id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
+- id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
+- id: "que-animal-consciousness-and-rights", title: "هل تمتلك الكائنات غير البشرية وعياً ذاتياً وحقوقاً أخلاقية ملزمة؟", type: "سؤال توليدي"
+- id: "que-free-speech-hate-speech-boundary", title: "أين تنتهي حرية التعبير المشروعة وأين يبدأ خطاب الكراهية والتحريض؟", type: "سؤال توليدي"
+- id: "que-intergenerational-justice-climate", title: "ما هي الواجبات الأخلاقية للجيل الحاضر تجاه الأجيال القادمة غير المولودة؟", type: "سؤال توليدي"
+- id: "que-privacy-vs-security-dilemma", title: "كم من الحرية والخصوصية الفردية يجب أن نضحي بها مقابل الأمان العام؟", type: "سؤال توليدي"
+- id: "que-trolley-problem-utilitarian-vs-deontological", title: "معضلة العربة: هل نضحي بالفرد لإنقاذ الجماعة أم الأرواح لا تقايض؟", type: "سؤال توليدي"
+- id: "que-what-is-a-person", title: "ما الذي يميز «الشخص» الأخلاقي عن مجرد الكائن الحي البيولوجي؟", type: "سؤال توليدي"
 gaps:
   - "رابط مقترح لـ«هنري سيدجويك» (thk-henry-sidgwick) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جيمس مل» (thk-james-mill) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -25,7 +31,6 @@ gaps:
   - "العلاقة بين بنثام وجيمس مل في تأسيس 'فيلوسفيك راديكال' لم تُراجع في ملف 'الاستعارة (أطلس)'."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # النفعية (Utilitarianism)
 
 تيار أخلاقي وسياسي نشأ في بريطانيا في أواخر القرن 18 ومطلع القرن 19، قوامه مبدأ «أكبر سعادة لأكبر عدد» (greatest happiness of the greatest number). تأثّر بالوضعية الكومتية (في كتابات بنثام) وبحركة «الراديكالية الفلسفية» (Philosophical Radicals) في بريطانيا.

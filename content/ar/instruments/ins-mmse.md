@@ -8,9 +8,12 @@ en: "Mini-Mental State Examination (MMSE / MMSE-2)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← فحص الحالة العقلية المصغر MMSE"
 active_start: 1975
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "القيود المفروضة على حقوق الملكية الفكرية للاختبار وانتقال العيادات لبدائل مجانية كـ MoCA وMini-Cog"
   - "أثر السقف الإحصائي (Ceiling Effect) وعجزه عن كشف الاختلال المعرفي الخفيف يتطلب توثيقاً نقدياً"

@@ -12,19 +12,16 @@ active_end: 200
 country: "اليونان القديمة / روما"
 language: "اليونانية / اللاتينية"
 edges:
-  - rel: "relates_to", target: "sch-academy-platonic", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
-  - rel: "relates_to", target: "sch-atomism-greek", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-academy-platonic", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
-  - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
+- id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 gaps:
   - "التفريق بين مفهوم الـPsyche اليوناني (نفس-روح) والمفاهيم الحديثة للنفس (Mind, Self, Personality) غير محسوم فلسفياً — هذه الفجوة مسجّلة عمداً."
   - "مدارس ما قبل سقراط (Thales, Heraclitus, Democritus) تحتاج توثيقاً مستقلاً."
   - "لا توجد اقتباسات مباشرة موثقة في هذا الملف."
   - "الربط مع المدارس الشرقية (الهندوسية والبوذية) التي ظهرت في الفترة نفسها قائم على القرابة التاريخية فقط دون مقارنة نصية."
-
-## أفكار روابط لم تُتحقق
-
 - **thk-plato** (أفلاطون) و**thk-aristotle** (أرسطو): المؤسسان الفعليان لهذا التقليد، لكنهما غير موجودين في الفهرس الحالي (شذوذ ينبغي فحصه — هل هناك slug مختلف؟).
 - **con-soul** (النفس / Psyche): المفهوم المؤسّس للكلمة، غير موجود.
 - **con-virtue-ethics** (أخلاقيات الفضيلة): تقاليد أخلاقي يونغي (Plato, Aristotle, Stoics) مهمّ لهذا السياق.

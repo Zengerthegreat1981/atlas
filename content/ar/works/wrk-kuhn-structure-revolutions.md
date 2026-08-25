@@ -10,11 +10,16 @@ dates: "1962 · توماس كون"
 language: "الإنجليزية"
 active_start: 1962
 active_end: 1962
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "فلسفة العلم", target_type: "مدرسة"
-  - rel: "authored_by", target: "توماس كون", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-pkuhn", target_type: "مفكر"
 related:
-  - id: "thk-kuhn", title: "رولاند كون", type: "مفكر"
+- id: "thk-kuhn", title: "رولاند كون", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "المنشورات المبكرة لكون (1957، «الطاقة الخلاقة» في «الاستدلال التجريبي» لـAyer) وتأثيرها على الكتاب لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

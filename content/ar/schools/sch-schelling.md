@@ -14,13 +14,15 @@ active_start: 1797
 active_end: 1854
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "المثالية الألمانية (كمظلة)", target_type: "مدرسة"
-  - rel: "superseded_by", target: "الهيغلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-hegelianism", target_type: "مدرسة"
 related:
-  - id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
-  - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-  - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
+- id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 gaps:
   - "فلسفة شيلنغ الإيجابية (الإلهية) و'فلسفة الأسطورة' بحاجة إلى مراجعة نقدية من نص 'فلسفة الدين' (1842–1854)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

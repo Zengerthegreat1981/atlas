@@ -10,13 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1953
 active_end: 2008
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ألكسندر لوين"
 edges:
-  - rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل الحيوي (Bioenergetic Analysis)", target_type: "مدرسة"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
+- id: "thk-dboyden", title: "ديان بوييدن", type: "مفكر"
+- id: "thk-ekeleman", title: "ستانلي كِلمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ألكسندر لوين

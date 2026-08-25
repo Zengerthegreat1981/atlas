@@ -1,0 +1,39 @@
+---
+slug: "dbt-memory-reconsolidation-vs-extinction"
+id: "DBT-0432"
+type: "جدل"
+part: "philosophy"
+level: "متقدم"
+title: "إعادة توطيد ومحو الذاكرة الصادمة مقابل الإخماد والتثبيط السلوكي"
+en: "Memory Reconsolidation vs. Behavioral Extinction in Trauma Therapy"
+crumb: "العلوم العصبية وعلاج الصدمات ← الجدالات الكبرى ← إعادة التوطيد مقابل الإخماد"
+active_start: null
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
+related:
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
+- id: "thk-ekandel", title: "إريك كاندل", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
+- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
+gaps:
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+---
+
+# إعادة توطيد ومحو الذاكرة الصادمة مقابل الإخماد والتثبيط السلوكي
+
+جدال عصبي وسريري فائق الأهمية حول مصير ذكريات الصدمة بعد العلاج: هل يتم محوها وتعديل شحنتها الانفعالية نهائياً عبر إعادة التوطيد (Reconsolidation)، أم مجرد كبتها وتثبيطها بتعلم جديد يظل عرضة للانتكاس (Extinction)؟
+
+## آلية الإخماد السلوكي الكلاسيكي (Extinction)
+
+ينشئ الدماغ مساراً تثبيطياً جديداً فوق الذكرى الصادمة، لكن الذكرى الأصلية تظل حية وقد تنشط فجأة عند التعرض لضغوط حادة (Spontaneous Recovery).
+
+## آلية إعادة التوطيد ومحو الأثر (Reconsolidation)
+
+عند استدعاء الذكرى الصادمة مع تقديم خبرة تناقض شعورية حية في نافذة زمنية محددة (5 ساعات)، تصبح الذكرى مرنة ويعاد تخزينها بدون شحنتها الصادمة نهائياً.
+
+## الأثر في تصميم العلاجات السريعة
+
+تعتمد علاجات EMDR و Coherence Therapy و IFS على فتح نافذة إعادة التوطيد لتحقيق شفاء دائم.

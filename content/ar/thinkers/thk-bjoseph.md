@@ -9,18 +9,23 @@ crumb: "التحليل النفسي ← الناس ← Kleinian ← بيتي ج�
 dates: "بريطانيا · 1917–2013"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2013
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-  - id: "thk-segal", title: "حنا سيغال", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-zsegal", title: "حنا سيغال", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بيتي جوزف
 
-محلّلة نفسية بريطانية، من أبرز أعضاء المدرسة الكلاينية في جيل ما بعد Klein، ومتخصصة في «تحليل التغيير المخيف» (Fear of Breakdown) في غرفة العلاج.
+محلّلة نفسية بريطانية، من أبرز أعضاء المدرسة الكلاينية في جيل ما بعد Klein، ومتخصصة في تحليل «الخوف من التغيّر» (Fear of Change) داخل غرفة العلاج.
 
 ## ما أعطته
 

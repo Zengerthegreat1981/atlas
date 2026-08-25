@@ -9,10 +9,12 @@ en: "Simons & Chabris' Invisible Gorilla Experiment (Inattentional Blindness)"
 crumb: "علم النفس المعرفي والانتباه البصري ← الدراسات والأبحاث ← تجربة الغوريلا غير المرئية"
 active_start: 1999
 active_end: 1999
-edges: []
+edges:
+  []
 related:
-  - id: "con-spotlight-effect", title: "تأثير بقعة الضوء", type: "مفهوم"
-  - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "con-attention", title: "الانتباه", type: "مفهوم"
+- id: "con-spotlight-effect", title: "تأثير بقعة الضوء", type: "مفهوم"
+- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
 gaps:
   - "دراسة أولريك نايسر الأصلية (1975) ومعدل غياب رؤية الغوريلا (50% من المشاركين)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

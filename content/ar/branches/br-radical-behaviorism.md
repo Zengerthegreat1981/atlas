@@ -11,17 +11,23 @@ dates: "من ثلاثينيات القرن العشرين"
 active_start: 1938
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
-  - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-  - id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
+- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
+- id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
+- id: "wrk-bandura-principles-modification", title: "مبادئ تعديل السلوك (Principles of Behavior Modification)", type: "عمل / كتاب"
+- id: "wrk-lewin-resolving-social-conflicts", title: "حلّ الصراعات الاجتماعية (Resolving Social Conflicts)", type: "عمل / كتاب"
+- id: "wrk-skinner-behavior-organisms", title: "سلوك الكائن الحي (The Behavior of Organisms)", type: "عمل / كتاب"
+- id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
+- id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
+- id: "rel-systemic-behavioral", title: "النظامية الأسرية والسلوكية: تكامل صامت", type: "علاقة بين مدرستين"
 gaps:
   - "فلسفة ب. ف. سكينر في كتاب 'سلوك الكائنات' (1938) و'ما وراء الحرية والكرامة' (1971)."
   - "التحليل الوظيفي للسلوك الثلاثي (السوابق ABC: Antecedent, Behavior, Consequence) في التدخلات العلاجية."
 ---
-
 # السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)
 
 الفلسفة السلوكية الشاملة التي صاغها ب. ف. سكينر، مؤسساً لمنهج الإشراط الإجرائي (Operant Conditioning) وتطبيقاته الإكلينيكية والتربوية الواسعة في تحليل السلوك التطبيقي (ABA).

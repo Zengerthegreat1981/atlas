@@ -14,10 +14,12 @@ active_start: -350
 active_end: -221
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
-  - id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "con-hezong", title: "الاستراتيجيات الدبلوماسية (合纵-连横)", type: "مفهوم"
 gaps:
   - "نصوص Su Qin وZhang Yi الأصلية لم تصلنا، وما نعرفه من 'Strategies of the Warring States' (Zhan Guo Ce)."
   - "التمييز بين 'Diplomacy' بمعنى 'فن التفاوض' و'Realpolitik' في السياق الغربي الحديث لم يُحلّ هنا."

@@ -13,13 +13,16 @@ language: "متعددة"
 active_start: 1962
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-  - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
-  - id: "sch-ecofeminism", title: "النسوية البيئية", type: "مدرسة"
+- id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
+- id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
+- id: "sch-ecofeminism", title: "النسوية البيئية", type: "مدرسة"
+- id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
+- id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"
 gaps:
   - "نصوص Aldo Leopold, Rachel Carson, Arne Næss, Holmes Rolston III, Bryan Norton need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة البيئة / الأخلاق البيئية (Environmental Philosophy / Ethics)

@@ -8,9 +8,11 @@ en: "Kamin's Blocking and Rescorla-Wagner Model Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب ريسكورلا وكامين للحجب"
 active_start: 1968
 active_end: 1972
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
   - "النمذجة الرياضية لمعادلة ريسكورلا-واغنر وتطبيقاتها في علم الأعصاب الحسابي تحتاج مراجعة متخصصة"
   - "تطبيقات خطأ التنبؤ بالدوبامين لـ Wolfram Schultz المستندة لهذا النموذج تتطلب ربطاً بالعلوم العصبية"

@@ -13,14 +13,35 @@ language: "متعددة (الألمانية، الإنجليزية)"
 active_start: 1920
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "split_into", target: "البوبرية", target_type: "تيار"
-  - rel: "split_into", target: "الكوهنية", target_type: "تيار"
-  - rel: "split_into", target: "اللاكاتوشية", target_type: "تيار"
-  - rel: "split_into", target: "الفاير آباندية", target_type: "تيار"
-  - rel: "split_into", target: "الواقعية العلمية / اللاواقعية العلمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "split_into", target: "البوبرية", target_type: "تيار"
+- rel: "split_into", target: "الكوهنية", target_type: "تيار"
+- rel: "split_into", target: "اللاكاتوشية", target_type: "تيار"
+- rel: "split_into", target: "الفاير آباندية", target_type: "تيار"
+- rel: "split_into", target: "sch-scientific-realism", target_type: "مدرسة"
 related:
-  - id: "thk-kuhn", title: "توماس كون", type: "مفكر"
+- id: "thk-kuhn", title: "توماس كون", type: "مفكر"
+- id: "thk-pfeyerabend", title: "بول فايرابند", type: "مفكر"
+- id: "thk-pkuhn", title: "توماس كون", type: "مفكر"
+- id: "dbt-verification-vs-falsification", title: "التحقق أم التفنيد: أيهما معيار العلمية؟", type: "جدل"
+- id: "dbt-qualitative-vs-quantitative-psychology", title: "البحث الكيفي الظاهراتي مقابل القياس الكمي الإحصائي في علم النفس", type: "جدل"
+- id: "dia-einstein-tagore-1930", title: "حوار أينشتاين وطاغور 1930: حقيقة الكون المستقلة والوعي الإنساني", type: "حوار مع مدرسة مجاورة"
+- id: "exp-carl-sagan-pale-blue-dot-awe", title: "تأمل كارل ساغان في صورة «النقطة الزرقاء الباهتة» والرهبة الكونية", type: "خبرة معيشة"
+- id: "trm-falsifiability-popper", title: "القابلية للتكذيب والخطأ (Falsifiability): معيار العلم التجريبي الصارم", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-parsimony-occam-razor", title: "الاقتصاد المعرفي ونصل أوكام (Lex Parsimoniae): تفضيل التفسير الأبسط", type: "مصطلح لغوي متنازع عليه"
+- id: "met-kuhn-gestalt-switch-science", title: "انقلاب الجشطالت في العلم لتوماس كون: استعارة التحول الثوري في البارادايم", type: "استعارة/مجاز مؤسِّس"
+- id: "met-popper-searchlight-theory", title: "كشاف الضوء لكارل بوبر: استعارة العلم كفرضية موجهة لا كوعاء سلبي", type: "استعارة/مجاز مؤسِّس"
+- id: "met-russell-inductivist-turkey", title: "ديك راسل الاستقرائي: استعارة حدود الاستقراء ومفاجآت التجربة", type: "استعارة/مجاز مؤسِّس"
+- id: "que-anthropic-principle-fine-tuning", title: "لماذا خُلق الكون مضبوطاً بدقة متناهية تسمح بنشوء الحياة الواعية؟", type: "سؤال توليدي"
+- id: "que-does-quantum-mechanics-save-free-will", title: "هل تنقذ العشوائية واللاحتمية الكمومية الإرادة الحرة للإنسان؟", type: "سؤال توليدي"
+- id: "que-grounding-problem-metaphysics", title: "ما هو الأساس الأنطولوجي الأعمق الذي تستند عليه كافة حقائق العالم؟", type: "سؤال توليدي"
+- id: "que-is-complexity-inevitable-in-universe", title: "هل نزوع الكون نحو التعقيد ونشوء الحياة قانون حتمي أم مصادفة نادرة؟", type: "سؤال توليدي"
+- id: "que-is-math-discovered-or-invented", title: "هل الرياضيات اكتشاف لحقائق موضوعية أم اختراع لعقل الإنسان؟", type: "سؤال توليدي"
+- id: "que-is-past-fixed-and-future-open", title: "هل الماضي ثابت محفور للأبد والمستقبل فضاء مفتوح من الإمكانات؟", type: "سؤال توليدي"
+- id: "que-is-scientific-progress-cumulative", title: "هل المعرفة العلمية تراكم خطي للحقائق أم قفزات ثورية في البارادايم؟", type: "سؤال توليدي"
+- id: "que-is-space-discrete-or-continuous", title: "هل نسيج الفضاء والزمان متصل أملس أم يتألف من حبيبات كمومية منتهية؟", type: "سؤال توليدي"
+- id: "que-presentism-vs-eternalism-time", title: "هل الحاضر وحده موجود حقيقة أم أن الماضي والمستقبل كينونات قائمة؟", type: "سؤال توليدي"
+- id: "que-underdetermination-of-theory", title: "هل تحدد المعطيات التجريبية نظرية علمية واحدة أم تتسع لنظريات متناقضة؟", type: "سؤال توليدي"
 gaps:
   - "رابط مقترح لـ«إيمري لاكاتوش» (thk-lakatos) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«بول فايرابنذ» (thk-feyerabend) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -30,7 +51,6 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح من لاكاتوش 'إدانة ونمو برامج بحثية' في صياغته المنقحة (1978)."
   - "علاقة فلسفة العلم بـ'تاريخ العلم' (History of Science) كحقل مستقل لم تُراجع."
 ---
-
 # فلسفة العلم (Philosophy of Science)
 
 مظلة فلسفية نشطة منذ عشرينيات القرن العشرين، تجمع كل التيارات المعنية بطبيعة العلم ومنهجه وتطوره: المنطق الاستقرائي، التزوير، البرامج البحثية، الثورات العلمية، اللاواقعية. تشمل أبرز مدارسها: البوبرية (Popper)، الكوهنية (Kuhn)، اللاكاتوشية (Lakatos)، الفاير آباندية (Feyerabend)، الواقعية العلمية (Scientific Realism)، والظواهرية العلمية (Scientific Phenomenology).

@@ -12,10 +12,13 @@ language: "الصينية (المندرين)"
 active_start: 1919
 active_end: 1919
 edges:
-  - rel: "belongs_to", target: "الليبرالية الصينية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:
-  - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
-  - id: "thk-hu-shi", title: "هو شي", type: "مفكر"
+- id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
+- id: "thk-hu-shi", title: "هو شي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة The Commercial Press (商务印书馆) الأصلية، 1919."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

@@ -14,11 +14,11 @@ active_start: 1662
 active_end: 1868
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "النيوكونفوشية اليابانية (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "النيوكونفوشية اليابانية (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
-  - id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
-  - id: "sch-shingaku", title: "شينغاكو", type: "مدرسة"
+- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
+- id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
+- id: "sch-shingaku", title: "شينغاكو", type: "مدرسة"
 gaps:
   - "الفاصل بين 'كوغاكو' و'إيتو جينساي' الفرعي و'أوغَتا تَتسُو' الفرعي و'كَماتَ مَتسُتَ' غير واضح بين المراجع."
   - "لا اقتباس مباشر موثوق من 'رُو' أو 'يِ مِه دِيكسيه' متاح في هذه المسودة."

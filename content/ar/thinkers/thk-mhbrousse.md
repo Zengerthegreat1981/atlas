@@ -9,11 +9,15 @@ crumb: "التحليل النفسي ← الناس ← اللاكانية ← م
 dates: "فرنسا · [غير مؤكد]"
 country: "فرنسا"
 language: "الفرنسية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-jamiller", title: "جاك-أَلان ميلِّر", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-jamiller", title: "جاك-أَلان ميلِّر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

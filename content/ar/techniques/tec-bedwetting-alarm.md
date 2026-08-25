@@ -11,12 +11,13 @@ dates: "مجهول · تطوير الستينيات"
 active_start: 1960
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج السلوكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج السلوكي", target_type: "مدرسة"
 related:
-  - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-prob-behavioral-contracting", title: "التعاقد السلوكي", type: "تقنية/تدخل علاجي"
-  - id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-behavioral-contracting", title: "التعاقد السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
 gaps:
   - "المقارنة بين الأنواع المختلفة لأجهزة المنبّه (bell-and-pad, body-worn, wireless) من حيث الفعالية لم تُراجع في دراسات مباشرة."
   - "معدلات النجاح في السياقات منخفضة الموارد (وأساليب بديلة بدون جهاز) غير موثّقة بدقة."

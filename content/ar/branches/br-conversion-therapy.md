@@ -11,12 +11,16 @@ dates: "من 1970s"
 active_start: 1973
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
-  - rel: "developed_by", target: "جوزيف نيكولوسي", target_type: "مفكر"
+- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-jnicolosi", target_type: "مفكر"
 related:
-  - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
-  - id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
+- id: "thk-csocarides", title: "تشارلز سوكرايدِس", type: "مفكر"
+- id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
+- id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
 gaps:
   - "السياق التاريخي الكامل (NARTH 1992، Exodus International) لم يُوثّق بدقة كافية."
   - "التشريعات المناهضة (عدد الدول، السنوات) لم تُحصر بدقة."

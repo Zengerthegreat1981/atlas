@@ -11,16 +11,17 @@ icd11_code: "6C41.1"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-motivational-interviewing", title: "المقابلة التحفيزية", type: "تقنية/تدخل علاجي"
-  - id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
-  - id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
-  - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
+- id: "tec-motivational-interviewing", title: "المقابلة التحفيزية", type: "تقنية/تدخل علاجي"
+- id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
+- id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "تفاصيل معايير الشدة (mild/moderate/severe) في DSM-5-TR لم تُراجع نصاً بنص من المصدر الأولي."
   - "الانتشار العالمي حسب المنطقة الجغرافية والوضع القانوني للحشيش لم يُراجع من مسح وبائي أولي مباشر."
@@ -70,3 +71,7 @@ gaps:
 ## ملاحظات ثقافية وسياقية
 
 معدلات الاستخدام أعلى في الشباب والمراهقين، والدماغ في طور النمو (حتى ≈25 سنة) أكثر عرضةً للآثار السلبية طويلة الأمد على الإدراك والانتباه. العلاج الأسري والوالدي الفعّال يختلف باختلاف الثقافة والسياق القانوني.
+
+## التطور التاريخي في DSM
+
+كان DSM-IV يفصل بين «إساءة استخدام الحشيش» و«الاعتماد على الحشيش»؛ وقد دمجهما DSM-5 في تشخيص متصل واحد هو «اضطراب تعاطي القنب» (Cannabis Use Disorder - CUD) محدد بدرجات شدة.

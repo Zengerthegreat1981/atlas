@@ -11,10 +11,10 @@ active_start: 2006
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-savant", title: "متلازمة العبقري / سافانت", type: "متلازمة"
-  - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-savant", title: "متلازمة العبقري / سافانت", type: "متلازمة"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "دراسة الحالة الشهيرة (AJ / جيل برايس) بواسطة إليزابيث لوفتوس وجيمس ماكغو (2006)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

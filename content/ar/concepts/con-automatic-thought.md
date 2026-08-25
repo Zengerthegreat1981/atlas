@@ -8,12 +8,14 @@ en: "Automatic Thoughts"
 crumb: "المعرفية السلوكية ← المفاهيم ← الأفكار التلقائية"
 active_start: 1976
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-  - id: "thk-beck", title: "آرون بيك", type: "مفكر"
-  - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
+- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
 gaps:
   - "التمييز الدقيق بين الأفكار التلقائية والمعتقدات الأساسية."
   - "دور الأفكار التلقائية في نموذج بيك ثلاثي الطبقات (أفكار تلقائية ← معتقدات وسيطة ← مخططات)."

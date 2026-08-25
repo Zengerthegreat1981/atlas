@@ -9,10 +9,11 @@ en: "Delis-Kaplan Executive Function System (D-KEFS)"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← نظام دليس–كابلان لتقييم الوظائف التنفيذية"
 active_start: 2001
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي", type: "متلازمة"
-  - id: "ins-wisconsin-card-sorting", title: "اختبار ويسكونسن لتصنيف البطاقات", type: "أداة قياس"
+- id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي", type: "متلازمة"
+- id: "ins-wisconsin-card-sorting", title: "اختبار ويسكونسن لتصنيف البطاقات", type: "أداة قياس"
 gaps:
   - "تطوير دين دليس وإديث كابلان وجويل شيروود (2001) للاختبارات الفرعية التسعة المقننة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

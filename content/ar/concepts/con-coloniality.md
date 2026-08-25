@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← الديكولونيالية ← �
 active_start: 2000
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الديكولونيالية (كمظلة عالمية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مدرسة"
 related:
-  - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
-  - id: "thk-mignolo", title: "والتر مينيولو", type: "مفكر"
+- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
+- id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
+- id: "thk-mignolo", title: "والتر مينيولو", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ مقالة Quijano الأصلية 'Coloniality of Power' (2000) ولا Mignolo *The Idea of Latin America* (2005)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الكولونيالية (Coloniality)

@@ -13,10 +13,12 @@ language: "العربية (مع التركية، الفارسية، الأردو
 active_start: 1820
 active_end: 1960
 edges:
-  - rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
+- rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
 related:
-  - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
-  - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
+- id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
+- id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
+- id: "thk-shah-waliullah", title: "شاه ولي الله الدهلوي", type: "مفكر"
+- id: "sch-political-islam", title: "الإسلام السياسي (كتيار فكري)", type: "مدرسة"
 gaps:
   - "مفهوم «النهضة» كمصطلح تاريخي شامل: هل يصدق على كل الإصلاحية أم على المحاولات المصرية-التونسية فحسب؟"
   - "لا يوجد اقتباس مباشر موثوق متاح من «إسلام والنصرانية» لمحمد عبده."

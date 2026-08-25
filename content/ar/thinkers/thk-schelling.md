@@ -11,21 +11,24 @@ active_start: 1809
 active_end: 1854
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "sch-schelling", title: "الشيلنغية", type: "مدرسة"
-  - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-  - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "sch-schelling", title: "الشيلنغية", type: "مدرسة"
+- id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
+- id: "ctx-german-romanticism-jena-circle", title: "حلقة يينا والرومانسية الألمانية وتأليه الخيال والفن", type: "سياق/تقليد"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "محاضرات برلين الفلسفية (1841) التي حضرها كيركيغارد وإنجلز وباكونين تمثل حدثاً تاريخياً مفصلياً."
 ---
-
 # فريدريش شيلينغ
 
 فيلسوف ألماني بارز، أحد أقطاب المثالية الألمانية والمنظر الأول لـ «الفلسفة الإيجابية/الوجودية للحرية» والأساس اللاعقلاني للوجود.

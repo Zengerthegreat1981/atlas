@@ -11,10 +11,10 @@ active_start: 2016
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-functional-neurological-symptom", title: "الاضطراب العصبي الوظيفي", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-functional-neurological-symptom", title: "الاضطراب العصبي الوظيفي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تقارير الاستخبارات الأمريكية والأكاديمية الوطنية للعلوم حول الطاقة النبضية الموجهة مقابل الهستيريا الجماعية والاضطراب الوظيفي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

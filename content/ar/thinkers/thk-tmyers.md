@@ -11,10 +11,11 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1998
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
 related:
-  - id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
+- id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Kinesis Inc لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

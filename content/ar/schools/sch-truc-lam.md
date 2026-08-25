@@ -13,12 +13,12 @@ language: "الفيتنامية، الصينية الكلاسيكية"
 active_start: 1069
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تشان (الصينية)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تيانتاي (الصينية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-chan", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
 related:
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 gaps:
   - "نصوص Trần Nhân Tông (Cư trần lạc đạo، Đắc thú lâm tuyền thành đạo ca) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Trúc Lâm ومدرسة Thiền الفيتنامية الحديثة يستحق بحثاً نقدياً."

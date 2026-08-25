@@ -13,14 +13,20 @@ language: "متعددة"
 active_start: 2000
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
-  - rel: "belongs_to", target: "الفلسفة الديكولونيالية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-  - id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
+- id: "thk-cabral", title: "أميليكار كابرال", type: "مفكر"
+- id: "thk-mbembe", title: "أشيل مبيمبي", type: "مفكر"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "نصوص Sabelo J. Ndlovu-Gatsheni, Lewis Gordon, Maldonado-Torres need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة الأفريقية الديكولونيالية (African Decolonial Philosophy)

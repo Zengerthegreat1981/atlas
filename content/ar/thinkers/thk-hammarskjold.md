@@ -12,13 +12,14 @@ active_end: 1961
 active_source: "lifespan"
 country: "السويد"
 language: "السويدية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مذكراته الروحية 'علامات على الطريق' (Vägmärken / Markings, 1963) وترجمته لكتاب 'أنا وأنت' لمارتن بوبر تستحقان توثيقاً."

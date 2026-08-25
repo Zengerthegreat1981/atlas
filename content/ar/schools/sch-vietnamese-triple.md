@@ -14,10 +14,10 @@ active_start: 200
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الفلسفة الفيتنامية (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "الفلسفة الفيتنامية (مظلة)", target_type: "مظلة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 gaps:
   - "الفصل بين 'Tam Giáo' كوحدة (Hợp nhất) وكترابط (Hòa hợp) وكتعايش (Đồng tồn) يختلف بين المراجع."
   - "لا اقتباس مباشر موثوق من 'Sơn Tinh Thủy Tinh' (ديوان تراي كوكون) متاح في هذه المسودة."

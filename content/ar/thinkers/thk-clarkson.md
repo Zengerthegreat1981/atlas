@@ -11,12 +11,14 @@ active_start: 1989
 active_end: 1996
 country: "جنوب أفريقيا / بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "tec-five-dimensions-therapeutic-relationship", title: "نموذج الأبعاد الخمسة للعلاقة العلاجية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "نموذجها للعلاقات العلاجية الخمس (The Therapeutic Relationship) يستحق إدراجاً في التقنيات."
@@ -36,8 +38,8 @@ gaps:
 
 ## قيد
 
-طبيعة نموذجها التكاملي الواسع الذي يجمع بين الغشتالت والتحليل المعاملي والتحليل النفسي يجعله متجاوزاً لحدود المدرسة الوجودية الحصرية.
+طبيعة نموذجها التكاملي الواسع الذي يجمع بين الجشطالت والتحليل المعاملي والتحليل النفسي يجعله متجاوزاً لحدود المدرسة الوجودية الحصرية.
 
 ## أهم أعمالها
 
-العلاقة العلاجية (The Therapeutic Relationship, 1995) · علاج الغشتالت التكاملي (Gestalt Counselling in Action, 1989) · التفاعل الشبيه بالمارّة (The Bystander, 1996).
+العلاقة العلاجية (The Therapeutic Relationship, 1995) · الإرشاد الجشطلتي في الممارسة (Gestalt Counselling in Action, 1989) · المتفرِّج (The Bystander, 1996).

@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
 edges:
-  - rel: "belongs_to", target: "أخلاقيات الذكاء الاصطناعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ai-ethics", target_type: "مدرسة"
 related:
-  - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
-  - id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"
+- id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
+- id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Yale University Press الأصلية (2021)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أطلس الذكاء الاصطناعي (Atlas of AI, 2021)

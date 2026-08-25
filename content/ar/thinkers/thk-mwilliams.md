@@ -11,17 +11,18 @@ country: "بريطانيا"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الموجة الثالثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
-  - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-  - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
+- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
+- id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
+- id: "ctx-mindfulness-mbsr-medical-integration", title: "دمج اليقظة الذهنية في الطب المعاصر مع جون كابات زين", type: "سياق/تقليد"
 gaps:
   - "سنة الميلاد الدقيقة ومسيرته في جامعة أكسفورد لم تُراجعا من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # مارك ويليامز
 
 عالم نفس سريري بريطاني، أستاذ في جامعة أكسفورد (University of Oxford) وأحد المؤسسين الثلاثة لـ MBCT، ومؤسس مركز «أكسفورد لليقظة الذهنية» (Oxford Mindfulness Centre).

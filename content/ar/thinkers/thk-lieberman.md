@@ -3,28 +3,32 @@ slug: "thk-lieberman"
 id: "THK-1456"
 type: "مفكر"
 level: "متوسط"
-title: "ألسي ليبرمان (باتريسيا)"
+title: "أليسيا ليبرمان"
 en: "Alicia F. Lieberman"
-crumb: "الإنسانية ← الناس ← ألسي ليبرمان"
+crumb: "الإنسانية ← الناس ← أليسيا ليبرمان"
 dates: "الأرجنتين / الولايات المتحدة · 1944–"
 active_start: 1978
 active_end: "مستمر"
 country: "الولايات المتحدة (الأرجنتين الأصل)"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed", target: "علاج الوالد-الطفل", target_type: "تيار"
+- rel: "belongs_to", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "developed", target: "علاج الوالد-الطفل", target_type: "تيار"
 related:
-  - id: "tec-child-parent-psychotherapy", title: "علاج الوالد والطفل (CPP)", type: "تقنية/تدخل علاجي"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "tec-child-parent-psychotherapy", title: "علاج الوالد والطفل (CPP)", type: "تقنية/تدخل علاجي"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
+- id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
+- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ الميلاد الدقيق (1944) تقريبي ولم يُراجع من مصدر أولي."
   - "موقع 'باتريسيا فان هورن' (Patricia Van Horn) المشاركة في تأسيس CPP يحتاج تحقق من مصدر أولي."
 ---
 
-# ألسي ليبرمان (باتريسيا)
+# أليسيا ليبرمان
 
 عالمة نفس سريرية أرجنتينية-أمريكية ومتخصصة في طب نفس الرضع والأطفال الصغار، مؤسسة مشاركة في «علاج الوالد-الطفل» (Child-Parent Psychotherapy, CPP) مع باتريسيا فان هورن عام 1991.
 

@@ -5,17 +5,17 @@ type: "مفكر"
 level: "متوسط"
 title: "باري مالتزكي"
 en: "Barry M. Maletzky"
-crumb: "br-sotp ← العلاج السلوكي المتخصص ← باري مالتزكي"
+crumb: "علاج مرتكبي العنف الجنسي (SOTP) ← العلاج السلوكي المتخصص ← باري مالتزكي"
 dates: "الولايات المتحدة · القرن العشرين–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+- rel: "belongs_to", target: "علاج مرتكبي العنف الجنسي (SOTP)", target_type: "تيار"
 related:
-related:
-  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "مفكر"
+- id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

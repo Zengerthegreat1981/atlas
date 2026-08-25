@@ -11,10 +11,10 @@ active_start: 1914
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-depersonalization-derealization", title: "اضطراب تبدد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا", type: "متلازمة"
+- id: "dis-depersonalization-derealization", title: "اضطراب تبدد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا", type: "متلازمة"
 gaps:
   - "أبحاث جوزيف بابينسكي (1914) ودور القشرة الجدارية الصدغية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

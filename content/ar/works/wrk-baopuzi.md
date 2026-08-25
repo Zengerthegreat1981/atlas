@@ -12,11 +12,14 @@ language: "الصينية الكلاسيكية"
 active_start: 320
 active_end: 320
 edges:
-  - rel: "belongs_to", target: "الداووية الدينية", target_type: "مدرسة"
-  - rel: "authored_by", target: "غي هونغ", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-daoism-religious", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-ge-hong", target_type: "مفكر"
 related:
-  - id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
-  - id: "thk-ge-hong", title: "غي هونغ", type: "مفكر"
+- id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
+- id: "thk-ge-hong", title: "غي هونغ", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفرق بين الأجزاء 'الداخلية' (20 فصلاً) و'الخارجية' (50 فصلاً) في التأليف لم يُحلّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

@@ -10,10 +10,15 @@ country: "الولايات المتحدة / عالمي"
 language: "إنجليزية"
 active_start: 1784
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
-  - id: "con-addiction", title: "الإدمان", type: "مفهوم"
+- id: "con-addiction", title: "الإدمان", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "تاريخ 'Medical Model' من Benjamin Rush (1784) إلى 1930s يستحق توثيقاً."
   - "العلاقة بين 'chronic disease model' (ASAM, NIDA) و'brain disease model' (Leshner 1997) تستحق توضيحاً."

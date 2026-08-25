@@ -13,11 +13,12 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الكوزموبوليتية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الكوزموبوليتية الفلسفية", target_type: "مدرسة"
 related:
-  - id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
-  - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
-  - id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
+- id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
+- id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
+- id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
+- id: "dbt-cosmopolitanism-vs-nationalism", title: "جدل الكوزموبوليتية مقابل القومية", type: "جدل"
 gaps:
   - "نص Frontiers of Justice (2006) وCreating Capabilities (2011) يحتاجان مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

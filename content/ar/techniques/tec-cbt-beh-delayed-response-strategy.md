@@ -11,13 +11,18 @@ dates: "من الثمانينيات"
 active_start: 1985
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
-  - id: "tec-dbt-dt-stop", title: "تقنية STOP (DBT)", type: "تقنية/تدخل علاجي"
-  - id: "sch-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-stop", title: "تقنية STOP (DBT)", type: "تقنية/تدخل علاجي"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "dis-bulimia-nervosa", title: "النهام العصبي (بوليميا)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-exhibitionistic", title: "اضطراب الاستعراء (Exhibitionistic Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-fetishistic", title: "اضطراب الفيتشية (Fetishistic Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-voyeuristic", title: "اضطراب الاستطلاع (Voyeuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← أخلاقيات الذكاء ال
 active_start: 2016
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "أخلاقيات الذكاء الاصطناعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ai-ethics", target_type: "مدرسة"
 related:
-  - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
-  - id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"
+- id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
+- id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ دراسات Buolamwini & Gebru (Gender Shades, 2018) ولا Noble (Algorithms of Oppression, 2018)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # التحيز الخوارزمي (Algorithmic Bias)

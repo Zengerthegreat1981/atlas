@@ -14,10 +14,12 @@ active_start: -250
 active_end: -50
 active_source: "lifespan"
 edges:
+  []
 related:
-  - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-  - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-  - id: "sch-yinyang", title: "مدرسة الين-يانغ", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ", type: "مدرسة"
+- id: "wrk-huanglao-texts", title: "نصوص هوانغ-لاو (مجموعة)", type: "عمل / كتاب"
 gaps:
   - "النصوص الكاملة (Huainanzi، Taipingjing) نُقلت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "تحديد 'مؤسِّس' المدرسة ليس حاسماً: الاسم يشير إلى هوانغ دي ولاو تزو بوصفهما مرجعَين."

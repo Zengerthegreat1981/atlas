@@ -9,18 +9,25 @@ crumb: "مدرسة التحليل النفسي ← الناس ← دونالد �
 dates: "بريطانيا · 1896–1971"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1971
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
+- id: "thk-mbalint", title: "مايكل بالِنت", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفاهيم الموضوع الانتقالي والأم الجيدة بما يكفي والذات الحقيقية والمزيفة تستحق بطاقات مفاهيمية مستقلة."
+  - "دُمج معه الملف المكرَّر thk-dwinnicott (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
-
 # دونالد وينيكوت
 
 طبيب أطفال ومحلل نفسي بريطاني عظيم، رئيس الجمعية البريطانية للتحليل النفسي وزعيم «المجموعة المستقلة»، وأحد أكثر المحللين النفسيين إشراقاً وأصالة في التاريخ.

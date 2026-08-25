@@ -11,11 +11,12 @@ dates: "بوسطن · 2012"
 active_start: 2012
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "البروتوكول القصير المكون من 5 جلسات فقط لدينيس سلون وبريان ماركس (Denise Sloan & Brian Marx)."
   - "انخفاض معدلات التسرب من العلاج مقارنة بالتعرض المطول وCPT مع تكافؤ الفعالية الإكلينيكية في التجارب المعشاة."

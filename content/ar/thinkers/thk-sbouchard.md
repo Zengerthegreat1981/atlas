@@ -5,17 +5,18 @@ type: "مفكر"
 level: "متوسط"
 title: "ستيفان بوشار"
 en: "Stéphane Bouchard"
-crumb: "br-vr-therapy ← العلاج بالواقع الافتراضي في كندا ← ستيفان بوشار"
+crumb: "العلاج بالواقع الافتراضي ← العلاج بالواقع الافتراضي في كندا ← ستيفان بوشار"
 dates: "كندا · القرن العشرين"
 country: "كندا"
 language: "إنجليزية وفرنسية"
 active_start: 2003
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بالواقع الافتراضي", target_type: "تيار"
 related:
-  - id: "thk-rizzo", title: "ألبرت «سكيب» ريزو", type: "مفكر"
-  - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "مفكر"
+- id: "thk-rizzo", title: "ألبرت «سكيب» ريزو", type: "مفكر"
+- id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "تيار"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

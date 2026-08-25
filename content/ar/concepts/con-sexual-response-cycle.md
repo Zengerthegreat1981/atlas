@@ -8,16 +8,19 @@ en: "Sexual Response Cycle"
 crumb: "الجنس والهوية ← العلاج الجنسي ← دورة الاستجابة الجنسية"
 active_start: 1966
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
-  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "مفهوم"
+- id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين نموذج Masters-Johnson الأصلي (1966) ونموذج Kaplan المعدل (1979) يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # دورة الاستجابة الجنسية
 
 نموذج وصفي للمراحل الفسيولوجية والنفسية للاستجابة الجنسية، طوّره ويليام ماسترز وفيرجينيا جونسون عام 1966 في كتابهم *Human Sexual Response*، ثم عدّله هيلين كابلان عام 1979 في *Disorders of Sexual Desire*.

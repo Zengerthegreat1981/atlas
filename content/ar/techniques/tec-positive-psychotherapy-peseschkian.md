@@ -11,11 +11,12 @@ dates: "فيسبادن · 1977"
 active_start: 1977
 active_end: "مستمر"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "نصرت بيسشكيان", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-npeseschkian", target_type: "مفكر"
 related:
-  - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 gaps:
   - "نموذج التوازن رباعي الأبعاد لنصرت بيسشكيان (Nossrat Peseschkian): الجسد/الصحة، الإنجاز/العمل، العلاقات، والمستقبل/المعنى."
   - "استخدام الحكايات والقصص الشرقية والاستعارات الثقافية العابرة كوسائط لإعادة التأطير الإيجابي للأعراض."

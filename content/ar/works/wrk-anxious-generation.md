@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2024
 active_end: 2024
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي والنمائي", target_type: "مدرسة"
-  - rel: "written_by", target: "جوناثان هايدت", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الاجتماعي والنمائي", target_type: "مدرسة"
+- rel: "written_by", target: "thk-jonathan-haidt", target_type: "مفكر"
 related:
-  - id: "thk-jonathan-haidt", title: "جوناثان هايدت", type: "مفكر"
+- id: "wrk-stolen-focus", title: "انتباه مسروق: لماذا لا تستطيع التركيز", type: "عمل / كتاب"
+- id: "thk-jonathan-haidt", title: "جوناثان هايدت", type: "مفكر"
+- id: "syn-electronic-screen-syndrome", title: "متلازمة الشاشات الإلكترونية وفرط الاستثارة لدى الأطفال (ESS)", type: "متلازمة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -8,22 +8,22 @@ en: "Psychoanalysis and CBT: From Reaction to Hybrid"
 crumb: "التحليل النفسي ← العلاقات ← التحليل النفسي والعلاج المعرفي-السلوكي"
 active_start: 1955
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "العلاج المعرفي-السلوكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-beck", title: "أَرون ت. بِك", type: "مفكر"
-  - id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
-  - id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل"
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+- id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-beck", title: "أَرون ت. بِك", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
+- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل / كتاب"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
 gaps:
   - "بيك وإيليس كلاهما مدرّب أصلا في التحليل النفسي قبل أن يبتكرا CBT — تفاصيل السيرة الدقيقة في سنوات التدريب 1950s تحتاج توثيقاً أولياً."
   - "نقطة التحوّل من 'الخصومة' إلى 'التكامل' غير مؤرخة بدقة — رُبما في تسعينيات القرن العشرين مع نشأة 'العلاج النفسي الديناميكي المعرفي'."
   - "لا يوجد اقتباس مباشر موثوق متاح من بيك عن التحليل النفسي."
 ---
-
 # التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين
 
 خصومة أخرى من القرن العشرين، لكن بشكل مختلف: هذه المرة الـ"ولد" لم يخرج ليُنكر الأب فحسب، بل خرج وهو يحمل أدواته، ثم عاد في الثمانينيات ليقول إن "كل ما هو مفيد في الـ CBT، كان في التحليل النفسي أصلاً، لكن بدون نظرية واضحة للآلية".

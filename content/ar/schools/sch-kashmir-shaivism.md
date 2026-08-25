@@ -13,10 +13,11 @@ language: "السنسكريتية"
 active_start: 800
 active_end: 1400
 edges:
-  - rel: "belongs_to", target: "التقاليد الشايفية", target_type: "مظلة"
+- rel: "belongs_to", target: "التقاليد الشايفية", target_type: "مظلة"
 related:
-  - id: "sch-shaiva-siddhanta", title: "شايفا سيدهانتا", type: "مدرسة"
-  - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-shakta-tantra", title: "الشاكتية والتانترا الفلسفية", type: "مدرسة"
+- id: "sch-shaiva-siddhanta", title: "شايفا سيدهانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«التانترا الفلسفية» (sch-tantra) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص فياسا (Vasugupta) وAbhinavagupta تحتاج مراجعة من المصدر الأولي."

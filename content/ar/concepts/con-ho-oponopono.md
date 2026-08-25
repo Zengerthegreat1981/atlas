@@ -8,10 +8,15 @@ en: "Ho'oponopono"
 crumb: "أطر غير غربية ← المفاهيم ← هو-أوبونوبونو"
 active_start: 1976
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الشفاء الهاوائي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الشفاء الهاوائي", target_type: "مدرسة"
 related:
-  - id: "thk-msimeona", title: "مورانا سيميونا", type: "مفكر"
+- id: "thk-msimeona", title: "مورانا سيميونا", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الفرق بين Ho'oponopono التقليدي (1976) والمُعدَّل (Ihaleakala Hew Len) لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

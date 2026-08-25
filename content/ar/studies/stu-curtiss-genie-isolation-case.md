@@ -8,8 +8,11 @@ en: "Curtiss's Case Study of Genie and Severe Deprivation"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة سوزان كيرتس للحالة جيني"
 active_start: 1971
 active_end: 1977
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
   - "النزاعات الأخلاقية الحادة بين رعاية الطفلة الإنسانية والبحث اللغوي التنافسي الذي أدى لإنهاء التمويل وسحب جيني تحتاج مراجعة نقدية"
   - "التشريح العصبي لعدم تماثل نصفي المخ واستخدام جيني للنصف الأيمن لمعالجة اللغة يتطلب تفصيلاً"

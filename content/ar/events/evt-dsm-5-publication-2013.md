@@ -9,14 +9,21 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 2013
 active_end: "مستمر"
 country: "الولايات المتحدة"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "تصنيف"
+- id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gender-identity-disorder-historical", title: "اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "بيان توماس إنسل مدير NIMH بسحب تمويل أبحاث DSM-5 والتحول لمشروع RDoC البيولوجي يحتاج توثيقاً"
   - "حملة المقاطعة الدولية من جمعيات علم النفس الإنساني والبريطانية لـ DSM-5 تتطلب تفصيلاً"
 ---
-
 # نشر الدليل التشخيصي الخامس والجدل حول التضخم وإلغاء المحاور
 
 نشر DSM-5 في مايو 2013 في خضم عاصفة من الجدل العلمي، إثر إلغاء المحاور الخمسة وإعادة دمج اضطرابات التوحد وإلغاء استثناء الفقد والحزن في تشخيص الاكتئاب.

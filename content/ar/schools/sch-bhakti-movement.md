@@ -13,11 +13,11 @@ language: "السنسكريتية، التاميلية، الهندية، الب
 active_start: 500
 active_end: 1700
 edges:
-  - rel: "belongs_to", target: "حركة البهاكتي الهندوسية", target_type: "مظلة"
+- rel: "belongs_to", target: "حركة البهاكتي الهندوسية", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-sikh-philosophy", title: "السيخية الفلسفية", type: "مدرسة"
-  - id: "sch-acintya-bhedabheda", title: "أتشينتيا بيدا أبيدا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-sikh-philosophy", title: "السيخية الفلسفية", type: "مدرسة"
+- id: "sch-acintya-bhedabheda", title: "أتشينتيا بيدا أبيدا", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«التصوف الإسلامي» (sch-sufism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أشعار Alvars وNayanars تحتاج مراجعة من المصدر الأولي."

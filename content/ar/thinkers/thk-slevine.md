@@ -11,10 +11,11 @@ country: "كندا"
 language: "إنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "الفنون التعبيرية التعددية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
 related:
-  - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
+- id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

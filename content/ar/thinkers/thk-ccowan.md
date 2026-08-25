@@ -11,10 +11,11 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1979
 active_end: 2015
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "PREP (برنامج تعزيز العلاقة والوقاية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "PREP (برنامج تعزيز العلاقة والوقاية)", target_type: "مدرسة"
 related:
-  - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
+- id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:
   - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

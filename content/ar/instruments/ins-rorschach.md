@@ -8,9 +8,13 @@ en: "Rorschach Inkblot Test (Exner Comprehensive System / R-PAS)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← اختبار بقع الحبر لرورشاخ"
 active_start: 1921
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dbt-projective-tests-validity", title: "جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني", type: "جدل"
 gaps:
   - "التحول المعاصر من نظام إكسنر الشامل (CS) إلى نظام R-PAS الأدائي القائم على الأدلة يحتاج توثيقاً دقيقاً"
   - "السجال المنهجي العنيف حول الصدق الإكلينيكي في المحاكم لـ Wood, Nezworski, & Lilienfeld (2003) يتطلب عرضاً نقدياً متوازناً"

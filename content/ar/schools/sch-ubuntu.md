@@ -13,13 +13,17 @@ language: "الإنجليزية، الزولوية، الزولو"
 active_start: 1995
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "فلسفة أوبونتو التقليدية", target_type: "مدرسة"
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-ubuntu-traditional", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
-  - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
+- id: "thk-ashutte", title: "أوغسطين شَتّ", type: "مفكر"
+- id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
+- id: "sch-sage-philosophy", title: "فلسفة الحكيم (Sage Philosophy)", type: "مدرسة"
+- id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
 gaps:
   - "نصوص Desmond Tutu (No Future Without Forgiveness, 1999) وMbigi وBroodryk وRamose تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة أوبونتو المعاصرة (Contemporary Ubuntu)

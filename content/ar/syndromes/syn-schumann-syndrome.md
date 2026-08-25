@@ -11,10 +11,10 @@ active_start: 1970
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-bipolar-ii", title: "الاضطراب ثنائي القطب من النوع الثاني", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-ii", title: "الاضطراب ثنائي القطب من النوع الثاني", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث كاي ريدفيلد جيمسون (Kay Redfield Jamison 1993) في كتاب 'Touched with Fire' وسيرة الموسيقار روبرت شومان."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -10,18 +10,20 @@ crumb: "المدرسة الوجودية ← الأعمال ← المرض حتى
 dates: "1849 · كيركيغارد"
 active_start: 1849
 active_end: 1849
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "كيركيغارد", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "كيركيغارد", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "كيركيغارد", type: "مفكر"
-  - id: "thk-holzhey", title: "هولتسهي-كونتس", type: "مفكرة"
-  - id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+- id: "thk-kierkegaard", title: "كيركيغارد", type: "مفكر"
+- id: "thk-holzhey", title: "هولتسهي-كونتس", type: "مفكر"
+- id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
 ---
-
 # المرض حتى الموت
 
 أدقّ تحليل لليأس كُتب في أي تقليد، وأقلّها حضوراً في الكتابة النفسية.

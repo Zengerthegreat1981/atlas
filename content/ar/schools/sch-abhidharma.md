@@ -13,13 +13,14 @@ language: "السنسكريتية"
 active_start: -150
 active_end: 700
 edges:
-  - rel: "evolved_from", target: "ثيرافادا", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-theravada", target_type: "مدرسة"
 related:
-  - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
-  - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
 gaps:
   - "نصوص Abhidharmakośa (لفاسوباندو) وSautrāntika الأصلية تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # مدارس الأبيدارما (Abhidharma Schools)

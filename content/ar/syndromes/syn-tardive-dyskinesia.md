@@ -11,10 +11,11 @@ active_start: 1957
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-neuroleptic-malignant", title: "المتلازمة الخبيثة لمضادات الذهان", type: "متلازمة"
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-neuroleptic-malignant", title: "المتلازمة الخبيثة لمضادات الذهان", type: "متلازمة"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-aims-involuntary-movement", title: "مقياس الحركات اللاإرادية غير الطبيعية (AIMS)", type: "أداة قياس"
 gaps:
   - "أبحاث سشونيغر وجورجينسن (Schönecker 1957) والآلية العصبية لفرط حساسية مستقبلات الدوبامين D2 في العقد القاعدية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

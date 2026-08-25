@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 1989
 active_end: 1989
 edges:
-  - rel: "belongs_to", target: "الإيكولوجيا العميقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"
 related:
-  - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-  - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
+- id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Cambridge University Press الأصلية (1989)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإيكولوجيا والمجتمع ونمط الحياة (Ecology, Community and Lifestyle, 1989)

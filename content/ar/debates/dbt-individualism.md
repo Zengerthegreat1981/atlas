@@ -6,18 +6,21 @@ level: ""
 title: "الفردانية والعمى عن السلطة"
 en: "Individualism critique"
 crumb: "المدرسة الوجودية ← الخصومات ← الفردانية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-beauvoir", title: "بوفوار", type: "مفكرة"
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
-  - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
+- id: "thk-beauvoir", title: "بوفوار", type: "مفكر"
+- id: "br-british", title: "التيار البريطاني", type: "تيار"
+- id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
-
 # الفردانية والعمى عن السلطة
 
 أقوى نقد معاصر، ومصدره داخلي بقدر ما هو خارجي.

@@ -13,10 +13,11 @@ language: "الإنجليزية"
 active_start: 1974
 active_end: 2001
 edges:
-  - rel: "belongs_to", target: "الليبرتارية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الليبرتارية", target_type: "مدرسة"
 related:
-  - id: "sch-libertarianism", title: "الليبرتارية", type: "مدرسة"
-  - id: "thk-rawls", title: "جون رولز", type: "مفكر"
+- id: "sch-libertarianism", title: "الليبرتارية", type: "مدرسة"
+- id: "thk-rawls", title: "جون رولز", type: "مفكر"
+- id: "dbt-rawls-nozick-justice", title: "جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق", type: "جدل"
 gaps:
   - "نص Anarchy, State, and Utopia (1974) يحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

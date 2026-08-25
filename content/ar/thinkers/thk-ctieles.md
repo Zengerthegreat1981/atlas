@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← سيسليو �
 dates: "فنزويلا · [غير مؤكد]"
 country: "فنزويلا"
 language: "الإسبانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
-  - id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
+- id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «Mitos y Máscaras de la Cultura Venezolana» (1990s) أجرى «تحليلية» لـ«الظِلّ الجماعي» الفنزويلي — مع تركيز على «Las máscaras de María Lionza» (الظاهرة الفولكلورية الفنزويلية) كـ«أركيتيب مركّب» (L. Wolff). كذلك شارك في تحرير «Revista Venezolana de Psicología de los Arquetipos» مع Capriles.
+في «Mitos y Máscaras de la Cultura Venezolana» (التسعينيات من القرن العشرين) أجرى «تحليلية» لـ«الظِلّ الجماعي» الفنزويلي — مع تركيز على «Las máscaras de María Lionza» (الظاهرة الفولكلورية الفنزويلية) بوصفها «مركّباً ثقافياً». كذلك شارك في تحرير «Revista Venezolana de Psicología de los Arquetipos» مع Capriles.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Mitos y Máscaras de la Cultura Venezolana (1990s).
+Mitos y Máscaras de la Cultura Venezolana (التسعينيات من القرن العشرين).

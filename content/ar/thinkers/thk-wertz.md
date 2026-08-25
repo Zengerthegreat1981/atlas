@@ -11,13 +11,14 @@ active_start: 2011
 active_end: 2011
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
+- id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه المرجعي 'خمس طرق للتحليل الفينومينولوجي' يستحق إدراجاً في مناهج البحث."

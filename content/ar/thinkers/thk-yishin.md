@@ -11,10 +11,16 @@ country: "اليابان"
 language: "اليابانية"
 active_start: 1950
 active_end: 2000
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علاج نايكان", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج نايكان", target_type: "مدرسة"
 related:
-  - id: "tec-naikan-therapy", title: "علاج نايكان", type: "تقنية/تدخل علاجي"
+- id: "tec-naikan-therapy", title: "علاج نايكان", type: "تقنية/تدخل علاجي"
+- id: "thk-keiko-hoshino", title: "كيكو هوشينو", type: "مفكر"
+- id: "thk-masaaki-takahashi", title: "ماساكي تاكاهاشي", type: "مفكر"
+- id: "thk-michio-mizuno", title: "ميتشيو ميزونو", type: "مفكر"
+- id: "thk-takeshiyasumaru", title: "تاكيشي ياسومارو", type: "مفكر"
+- id: "thk-teruo-ohta", title: "تيرو أوتا", type: "مفكر"
 gaps:
   - "التفاصيل الكاملة لمسيرته في Gandai Yakushi-ji Temple لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -42,5 +48,5 @@ gaps:
 ## أهم أعماله
 
 - أشرطة وكتب في اللغة اليابانية.
-- "Naikan: The Method of Self-Reflection" (1980s) — ترجمة إنجليزية مبسّطة.
+- "Naikan: The Method of Self-Reflection" (الثمانينيات من القرن العشرين) — ترجمة إنجليزية مبسّطة.
 - أبحاث منشورة في *Japanese Journal of Psychiatry and Neurology*.

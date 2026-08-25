@@ -11,8 +11,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "مدرسة"
+related:
+- id: "thk-trobbins", title: "توني روبنز", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

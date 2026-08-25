@@ -11,8 +11,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Body-Mind Centering", target_type: "مدرسة"
+- rel: "belongs_to", target: "تركيز الجسد والعقل (Body-Mind Centering, BMC)", target_type: "مدرسة"
+related:
+- id: "thk-bbcohen", title: "بوني بينبريدج كوهن", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

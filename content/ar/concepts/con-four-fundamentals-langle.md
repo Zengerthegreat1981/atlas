@@ -6,13 +6,17 @@ level: "متقدم"
 title: "الشروط الأربعة الأساسية للتحليل الوجودي (لانغله)"
 en: "Four Fundamental Conditions (Längle's Existential Analysis)"
 crumb: "الإنسانية ← المفاهيم ← الشروط الأربعة الأساسية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "ألفريد لانغله", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-langle", target_type: "مفكر"
 related:
-  - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "dbt-langle-frankl", title: "لانغله ضد فرانكل", type: "جدل"
+- id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "dbt-langle-frankl", title: "لانغله ضد فرانكل", type: "جدل"
+- id: "dbt-langle-frankl-meaning", title: "لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟", type: "جدل"
 gaps:
   - "العلاقة بين 'الشروط الأربعة' و'الشروط اللازمة والكافية' (روجرز) تحتاج تحليل مقارن."
   - "لا يوجد اقتباس مباشر موثوق من لانغله بعد."

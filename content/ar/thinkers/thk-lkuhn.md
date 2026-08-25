@@ -11,8 +11,12 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
+- rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
+related:
+- id: "thk-kcooper", title: "كينيث كوبر", type: "مفكر"
+- id: "thk-rmarvin", title: "روبرت مارفن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -22,7 +26,7 @@ gaps:
 
 محللة نفسية وعالمة نفس أطفال أمريكية، من أهم الباحثين في **إثبات فعالية COS** في دراسات مراقبة معشّاة.
 
-## ما أعطت
+## ما أعطته
 
 - **RCTs على Circle of Security-Parenting (COS-P)** تُظهر فعالية في خفض تعلق القلق.
 - **«Disorganized Attachment in Children»** مع كوبر وسبايكر.

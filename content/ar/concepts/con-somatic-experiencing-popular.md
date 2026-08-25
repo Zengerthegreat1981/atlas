@@ -11,11 +11,13 @@ crumb: "العلاج الجسدي للصدمات ← المفاهيم ← الت
 active_start: 1997
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "العلاج الجسدي للصدمات", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الجسدي للصدمات", target_type: "مدرسة"
 related:
-  - id: "wrk-waking-the-tiger", title: "إيقاظ النمر", type: "عمل / كتاب"
-  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-waking-the-tiger", title: "إيقاظ النمر", type: "عمل / كتاب"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تطبيقات الاستشعار الجسدي (Felt Sense) في علاج الألم العضلي والصدمات المعقدة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

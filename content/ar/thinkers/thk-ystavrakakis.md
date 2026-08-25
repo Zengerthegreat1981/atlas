@@ -9,12 +9,15 @@ crumb: "التحليل النفسي ← الناس ← ما بعد لاكان �
 dates: "اليونان · [غير مؤكد]"
 country: "اليونان"
 language: "الإنجليزية / اليونانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
-  - id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
-  - id: "thk-sljizek", title: "سلافوي جيجك", type: "مفكر"
+- id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
+- id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
+- id: "thk-sljizek", title: "سلافوي جيجك", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

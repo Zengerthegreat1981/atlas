@@ -6,9 +6,14 @@ level: "مبتدئ"
 title: "مقياس القلق كحالة وسمة"
 en: "State-Trait Anxiety Inventory (STAI)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس القلق كحالة وسمة"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "ins-staxi-2", title: "مقياس سبيلبرغر لتقييم حالة وسمة التعبير عن الغضب (STAXI-2)", type: "أداة قياس"
 gaps:
   - "لا تتوفر تفاصيل دقيقة عن التعريب والتقنين العربي لهذا المقياس في مكتبة المصادر الحالية"
   - "لم تُضَف بعد أدوات قياس لبقية المشاعر (الخوف، الحزن، الخزي، الغيرة) رغم وجودها الفعلي في الأدبيات العلمية"

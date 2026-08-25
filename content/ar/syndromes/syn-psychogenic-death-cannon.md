@@ -11,10 +11,10 @@ active_start: 1942
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو", type: "متلازمة"
-  - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو", type: "متلازمة"
+- id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث والتر كانون (Walter Cannon 1942) في مجلة American Anthropologist وتجارب كيرت ريختر (1957) حول اليأس."
   - "لا يوجد اقتباس مباشر موثوق متاح."

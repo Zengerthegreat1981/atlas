@@ -14,12 +14,15 @@ active_start: 1000
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
-  - id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
-  - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
+- id: "sch-nahua-aztec", title: "فلسفة الناهوا/الأزتك (مفهوم تيوتل)", type: "مدرسة"
+- id: "sch-maya-philosophy", title: "الفلسفة الماياوية", type: "مدرسة"
+- id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
+- id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
 gaps:
   - "النصوص الكيتشوا والأيمارا الأصلية تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة الأنديزية (Andean Philosophy)

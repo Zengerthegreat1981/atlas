@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← باميلا �
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
-  - id: "thk-jsandoval", title: "جنيفر ساندوفال", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
+- id: "thk-jsandoval", title: "جنيفر ساندوفال", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "السيرة الكاملة بحاجة لتحديد."

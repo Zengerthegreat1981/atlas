@@ -13,10 +13,13 @@ language: "الإنجليزية"
 active_start: 1962
 active_end: 1962
 edges:
-  - rel: "belongs_to", target: "فلسفة اللغة العادية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
-  - id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
-  - id: "thk-aryle", title: "جيلبرت ريل", type: "مفكر"
+- id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
+- id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
+- id: "thk-aryle", title: "جيلبرت ريل", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "نص محاضرات أوستن الأصلية (1947–1949) قبل نشر الكتاب 1962 يحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثوق من الفصل 7 (حول الوهم)."

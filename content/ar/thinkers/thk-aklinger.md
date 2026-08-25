@@ -11,8 +11,16 @@ country: "إسرائيل"
 language: "العبرية/الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+related:
+- id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
+- id: "thk-fvolkmar", title: "فريد فولكمار", type: "مفكر"
+- id: "thk-jconstantino", title: "جون كونستانتينو", type: "مفكر"
+- id: "thk-jgreenspan", title: "جايك غرينسبان", type: "مفكر"
+- id: "thk-mbauman", title: "مارغريت باومان", type: "مفكر"
+- id: "thk-swieder", title: "سيرينا ويدِر", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -30,7 +38,7 @@ gaps:
 
 ## موقعها من التيار
 
-تتميّز كلاينغر بتوسيع DIR/Floortime خارج النموذج الطبي الأمريكي ليشمل سياقات ثقافية وأسرية متعددة، وهو امتداد مهم لم يغطّه غرينسبان وويـدِر بعمق.
+تتميّز كلاينغر بتوسيع DIR/Floortime خارج النموذج الطبي الأمريكي ليشمل سياقات ثقافية وأسرية متعددة، وهو امتداد مهم لم يغطّه غرينسبان وويدر بعمق.
 
 ## أهم أعمالها
 

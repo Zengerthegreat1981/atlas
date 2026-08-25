@@ -13,12 +13,14 @@ language: "السنسكريتية"
 active_start: 1300
 active_end: 1800
 edges:
-  - rel: "evolved_from", target: "نيايا", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-nyaya", target_type: "مدرسة"
 related:
-  - id: "sch-nyaya", title: "نيايا", type: "مدرسة"
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
+- id: "sch-nyaya", title: "نيايا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
 gaps:
   - "نصوص غانغيشا وغادادهارا تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نيايا الجديدة (Navya-Nyāya)

@@ -14,11 +14,11 @@ active_start: 1600
 active_end: 1894
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "النيوكونفوشية الكورية", target_type: "مدرسة"
-  - rel: "split_into", target: "دونغهاك", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-korean-neoconfucian", target_type: "مدرسة"
+- rel: "split_into", target: "sch-donghak", target_type: "مدرسة"
 related:
-  - id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
-  - id: "sch-donghak", title: "دونغهاك", type: "مدرسة"
+- id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
+- id: "sch-donghak", title: "دونغهاك", type: "مدرسة"
 gaps:
   - "تفاصيل كتابات بي يَئونغ-إيل (Pak T'ae-wŏn) و(Chŏng Yag-yong) باللغات الكورية الأصلية لم تُراجع هنا."
   - "العلاقة الدقيقة بين سيلهاك وحركة 'الإصلاح' في نهاية جوسون (1880-1894) تحتاج تحقيقاً أعمق."

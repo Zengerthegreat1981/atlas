@@ -11,11 +11,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1972
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
 related:
+- id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
+- id: "thk-fvolkmar", title: "فريد فولكمار", type: "مفكر"
+- id: "thk-jconstantino", title: "جون كونستانتينو", type: "مفكر"
+- id: "thk-jgreenspan", title: "جايك غرينسبان", type: "مفكر"
+- id: "thk-mbauman", title: "مارغريت باومان", type: "مفكر"
+- id: "thk-swieder", title: "سيرينا ويدِر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ستانلي غرينسبان

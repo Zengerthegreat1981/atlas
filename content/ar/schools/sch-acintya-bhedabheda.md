@@ -13,14 +13,15 @@ language: "السنسكريتية، البنغالية"
 active_start: 1486
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فيدانتا", target_type: "مظلة"
-  - rel: "belongs_to", target: "حركة البهاكتي الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-bhakti-movement", target_type: "مظلة"
 related:
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
-  - id: "sch-bhedabheda", title: "بيدابيدا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
+- id: "sch-bhedabheda", title: "بيدابيدا", type: "مدرسة"
 gaps:
   - "نصوص Chaitanya Charitamrita (لـ Kṛṣṇadāsa Kavirāja Gosvāmī) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أتشينتيا بيدا أبيدا (Acintya Bhedābheda)

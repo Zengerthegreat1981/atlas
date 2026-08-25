@@ -13,13 +13,15 @@ language: "الإنجليزية"
 active_start: 2013
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-  - id: "sch-black-existentialism", title: "الوجودية السوداء", type: "مدرسة"
-  - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
-  - id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
+- id: "sch-black-existentialism", title: "الوجودية السوداء", type: "مدرسة"
+- id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
+- id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
+- id: "thk-wilderson", title: "فرانك وايلدرسون", type: "مفكر"
 gaps:
   - "نصوص Frank Wilderson III, Jared Sexton, Hortense Spillers need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الأفروبيسيميزم (Afropessimism)

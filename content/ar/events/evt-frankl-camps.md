@@ -8,14 +8,18 @@ en: "Frankl's Concentration Camp Experience"
 crumb: "المدرسة الوجودية ← الأحداث التاريخية ← تجربة فرانكل في معسكرات الاعتقال"
 active_start: 1942
 active_end: 1945
+part: "philosophy"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "ctx-post-war-europe", title: "السياق التاريخي الأوروبي بعد الحربين العالميتين", type: "سياق/تقليد"
-  - id: "tec-meaning-centered-psychotherapy", title: "العلاج النفسي المرتكز على المعنى", type: "تقنية/تدخل علاجي"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "ctx-post-war-europe", title: "السياق التاريخي الأوروبي بعد الحربين العالميتين", type: "سياق/تقليد"
+- id: "tec-meaning-centered-psychotherapy", title: "العلاج النفسي المرتكز على المعنى", type: "تقنية/تدخل علاجي"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
+- id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 gaps:
   - "لم يُراجع بعد نص تاريخي أولي محقق (سيرة ذاتية أو مصدر تاريخي مباشر) يوثق التفاصيل الدقيقة بدل الاعتماد على السرد العام المتكرر في الأدبيات الثانوية"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # تجربة فرانكل في معسكرات الاعتقال النازية

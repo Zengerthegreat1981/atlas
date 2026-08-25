@@ -8,23 +8,24 @@ en: "Neuroscience Critique of Classical Theories: The Neuroscience Evidence Gap"
 crumb: "النقد الخارجي ← النقد العصبي-العلمي ← النقد العصبي-العلمي للنظريات الكلاسيكية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "السلوكية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-  - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-  - id: "thk-adamasio", title: "أنطونيو داماسيو", type: "مفكر"
-  - id: "br-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "تيار"
-  - id: "con-neurofeedback", title: "التغذية الراجعة العصبية", type: "مفهوم"
-  - id: "con-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "مفهوم"
-  - id: "con-neuroplasticity-trauma", title: "المرونة العصبية في سياق الصدمة", type: "مفهوم"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
+- id: "br-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "تيار"
+- id: "con-neurofeedback", title: "التغذية الراجعة العصبية", type: "مفهوم"
+- id: "con-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "مفهوم"
+- id: "con-neuroplasticity-trauma", title: "المرونة العصبية في سياق الصدمة", type: "مفهوم"
+- id: "crt-critique-of-somatic-experiencing", title: "نقد Somatic Experiencing: نَظَرِيَّة «الطَّاقَة الْمَحْبُوسَة» لَيْسَتْ مُوَضَّحَة", type: "نقد خارجي موثَّق"
 gaps:
   - "تفاصيل Damasio's *Descartes' Error* (1994) — لا مراجعة نصية دقيقة."
   - "تفاصيل 'Decade of the Brain' (1990s) — أرقام الإنفاق الفيدرالي على أبحاث الدماغ — غير محسومة."
   - "موقف LeDoux (1996، 2002) من 'اللاوعي الفرويدي' — لا اقتباس مباشر."
 ---
-
 # النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي
 
 نقد من خارج الإطار النظري الكلاسيكي، يطعن في افتراض أن **النظريات الكبرى** في علم النفس (التحليل النفسي، السلوكية المبكرة) **تتوافق مع الأدلة العصبية الحديثة**. النتيجة: كثير من الافتراضات الأساسية لهذه المدارس **قد لا تصمد** أمام تقنيات التصوير العصبي.

@@ -6,21 +6,23 @@ level: "متقدم"
 title: "ميدارد بوس"
 en: "Medard Boss"
 crumb: "المدرسة الوجودية ← الناس ← ميدارد بوس"
-dates: "سويسرا"
+dates: "سويسرا · 1903–1990"
 active_start: 1947
 active_end: 1987
 language: "الألمانية"
 country: "سويسرا"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "br-daseins", title: "التيار", type: "تيار"
-  - id: "thk-condrau", title: "غيون كوندراو", type: "مفكر"
-  - id: "thk-benedetti", title: "غايتانو بينيديتي", type: "مفكر"
-  - id: "thk-ecraig", title: "إريك كريك", type: "مفكر"
-  - id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "thk-condrau", title: "غيون كوندراو", type: "مفكر"
+- id: "thk-benedetti", title: "غايتانو بينيديتي", type: "مفكر"
+- id: "thk-ecraig", title: "إريك كريك", type: "مفكر"
+- id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
+- id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "تواريخ الندوات وطبعاتها — تحتاج تثبيتاً"
@@ -48,4 +50,4 @@ gaps:
 
 ## أهم أعماله
 
-معنى الانحرافات الجنسية ومحتواها (Sinn und Gehalt der sexuellen Perversionen, 1947) · التحليل النفسي والتحليل الوجودي (الدازاين) (Psychoanalyse und Daseinsanalytik, 1957) · أسس الطب وعلم النفس (Grundriss der Medizin und der Psychologie, 1971) · ندوات تسوليكون (مع هايدجر) (Zollikoner Seminare, 1987 (نُشرت بعد وفاته))
+معنى الانحرافات الجنسية ومحتواها (Sinn und Gehalt der sexuellen Perversionen, 1947) · التحليل النفسي والتحليل الوجودي (الدازاين) (Psychoanalyse und Daseinsanalytik, 1957) · أسس الطب وعلم النفس (Grundriss der Medizin und der Psychologie, 1971) · ندوات تسوليكون (Zollikoner Seminare, 1987 — حرّرها بوس بعد وفاة هايدجر)

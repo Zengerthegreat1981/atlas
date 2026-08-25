@@ -8,8 +8,15 @@ en: "Kenneth & Mamie Clark Doll Test Studies on Racial Identity and Self-Esteem"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة اختبار الدمى للزوجين كلارك"
 active_start: 1939
 active_end: 1950
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التحليلات التاريخية لاستخدام الدراسة في الحكم التاريخي Brown v. Board of Education تحتاج توثيقاً قانونياً ونفسياً"
   - "التكرارات الحديثة لاختبار الدمى في مجتمعات متعددة الأعراق تتطلب مراجعة مقارنة"

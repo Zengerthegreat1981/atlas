@@ -8,9 +8,11 @@ en: "Hubel & Wiesel Visual Cortex Feature Detection Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب هوبل وفيزل في القشرة البصرية"
 active_start: 1959
 active_end: 1968
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تجارب الحرمان البصري أحادي العين في الفترات الحرجة للنمو لدى القطط تحتاج تفصيلاً نقدياً"
   - "التطبيقات المعاصرة في الشبكات العصبية الالتفافية (CNN) في الذكاء الاصطناعي المستلهمة من النموذج تتطلب ربطاً"

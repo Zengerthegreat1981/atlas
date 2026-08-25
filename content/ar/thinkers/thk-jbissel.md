@@ -9,13 +9,18 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ج. غاري �
 dates: "أمريكا · [غير مؤكد]"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-shamdasani", title: "سوني شمداساني", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-shamdasani", title: "سوني شمداساني", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "**تحذير تحقّق**: لم يُعثر على محلّل أو محرّر بهذا الاسم في سجلّات *Jung Journal: Culture & Psyche*؛ ومحرّرتها المؤسِّسة عام 2007 هي **ديان شيروود**. الملف مرشّح للنقل إلى المسودات ما لم يُوثَّق من مصدر أوّلي."
 ---
 
 # ج. غاري بيسّل
@@ -24,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-أسّس Jung Journal مع شركاء IASPT/Philadelphia (NY)، كأوّل «مجلّة ثقافية» (لا سريرية بالكامل) للتحليلية، تدمج علم النفس، الأدب، الفن، الفلسفة. كذلك شارك في «A Lecture Tour by Sonu Shamdasani» (2009) لترويج الكتاب الأحمر في أمريكا. كذلك أشرف على «البرنامج التدريبي» في Philadelphia Association of Jungian Analysts (PAJA).
+المنسوب إليه في هذا الملف مشاركةٌ في تأسيس *Jung Journal: Culture & Psyche* عام 2007 — وهي أوّل دورية يونغية ثقافية لا سريرية، تجمع علم النفس بالأدب والفن والفلسفة — وإشرافٌ على التدريب في «رابطة فيلادلفيا للمحلّلين اليونغيين» (PAJA)، ومشاركةٌ في جولة سونو شمداساني التعريفية بـ«الكتاب الأحمر» عام 2009.
 
 ## موقعه من التيار
 

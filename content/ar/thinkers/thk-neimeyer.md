@@ -11,14 +11,15 @@ active_start: 2001
 active_end: 2016
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"
-  - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
-  - id: "thk-attig", title: "توماس آتيغ", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"
+- id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
+- id: "thk-attig", title: "توماس آتيغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تقنيات إعادة بناء المعنى في علاج الفقد (Meaning Reconstruction) تستحق توثيقاً إكلينيكياً في التقنيات (tec-)."

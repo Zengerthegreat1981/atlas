@@ -6,10 +6,17 @@ level: "مبتدئ"
 title: "الخوف"
 en: "Fear"
 crumb: "المدرسة الوجودية ← المفاهيم ← الخوف"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة وبحث"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+- id: "ins-tas20", title: "مقياس تورنتو للألكسيثيميا (TAS-20)", type: "أداة قياس"
 gaps:
   - "لا تتوفر حالياً مصادر عربية إسلامية تراثية (الغزالي، ابن سينا) مراجعة لهذا العنصر"
   - "لم يُراجع نص كتاب Atlas of the Heart الأصلي بعد؛ النسخة المتاحة على القرص تالفة (محتوى غير ذي صلة)"

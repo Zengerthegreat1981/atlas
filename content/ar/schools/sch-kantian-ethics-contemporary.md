@@ -13,13 +13,14 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_from", target: "الكانطية النقدية", target_type: "مدرسة"
-  - rel: "superseded_by", target: "التعاقدية/التعاقدانية الأخلاقية الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-kant-critical", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-contractualism", target_type: "مدرسة"
 related:
-  - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-  - id: "thk-ckorsgaard", title: "كريستين كورسغارد", type: "مفكر"
-  - id: "thk-sullivan", title: "روجر سوليفان", type: "مفكر"
+- id: "thk-rawls", title: "جون رولز", type: "مفكر"
+- id: "thk-ckorsgaard", title: "كريستين كورسغارد", type: "مفكر"
+- id: "thk-sullivan", title: "روجر سوليفان", type: "مفكر"
+- id: "con-autonomy-kantian", title: "الاستقلالية (Autonomy) في الكانطية الأخلاقية", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«أونورا أونيل» (thk-onora-oneill) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «الكانطية الأخلاقية» عند رولز (1971) و«الكانطية الأخلاقية» عند كورسغارد (1996) لم يُحلّل بدقة في المصادر الأولية."

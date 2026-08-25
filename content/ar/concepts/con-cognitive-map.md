@@ -8,12 +8,15 @@ en: "Cognitive Map"
 crumb: "المعرفية السلوكية ← المفاهيم ← الخريطة المعرفية"
 active_start: 1948
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
-  - id: "con-latent-learning", title: "التعلم الكامن", type: "مفهوم"
-  - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
+- id: "con-latent-learning", title: "التعلم الكامن", type: "مفهوم"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الاستخدام العصبي الحديث (Place Cells, Grid Cells في hippocampus) — يحتاج توثيقاً متخصصاً."

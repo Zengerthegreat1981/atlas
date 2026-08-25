@@ -11,13 +11,17 @@ dates: "من السبعينيات"
 active_start: 1979
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-cbt-mind-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
-  - id: "tec-mbsr", title: "الحد من الضغط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
-  - id: "sch-cbt", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "الحد من الضغط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "thk-ronald-siegel", title: "رونالد د. سيغل", type: "مفكر"
+- id: "syn-phantom-limb", title: "متلازمة الطرف الشبحي (ألم وإحساس الطرف المبتور)", type: "متلازمة"
+- id: "ins-ffmq-five-facet-mindfulness", title: "استبيان أبعاد اليقظة الذهنية الخمسة المقنن (FFMQ)", type: "أداة قياس"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

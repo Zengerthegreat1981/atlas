@@ -13,12 +13,13 @@ language: "الألمانية، الفرنسية"
 active_start: 1870
 active_end: 1920
 edges:
-  - rel: "evolved_into", target: "الظاهراتية (كمظلة)", target_type: "مظلة"
-  - rel: "belongs_to", target: "الرومانسية الفلسفية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-phenomenology", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-romanticism", target_type: "مظلة"
 related:
-  - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
-  - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
+- id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«جورج زيمل» (thk-simmel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتب دلتاي عن 'أنواع فلسفة العالم' (1911) لم تُقارن مع برغسون في 'التفكير والمتحرك' (1934)."

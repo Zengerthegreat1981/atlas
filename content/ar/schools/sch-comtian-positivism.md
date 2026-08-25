@@ -13,10 +13,14 @@ language: "الفرنسية"
 active_start: 1830
 active_end: 1900
 edges:
-  - rel: "evolved_into", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
-  - rel: "evolved_into", target: "النفعية", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-vienna-circle", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-utilitarianism", target_type: "مدرسة"
 related:
-  - id: "thk-comte", title: "أوغست كونت", type: "مفكر"
+- id: "sch-positivism-latin", title: "الوضعية اللاتينية (في أمريكا اللاتينية)", type: "مدرسة"
+- id: "thk-comte", title: "أوغست كونت", type: "مفكر"
+- id: "con-verification-principle", title: "مبدأ التحقق", type: "مفهوم"
+- id: "con-existence-existentialism", title: "الوجودية (Existence) في الفلسفة الوجودية", type: "مفهوم"
+- id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«إميل ليتر» (thk-littré) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«أن روبرت جاك تورغو» (thk-turgot) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -12,17 +12,20 @@ active_end: 270
 active_source: "lifespan"
 country: "مصر / روما القديمة"
 language: "اليونانية القديمة"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
+- id: "ctx-greek-philosophy-of-psyche", title: "فلسفة النفس في التراث اليوناني", type: "سياق/تقليد"
+- id: "ctx-miskawayh-character", title: "ابن مسكويه وتهذيب الأخلاق", type: "سياق/تقليد"
+- id: "ctx-alexandria-library-hellenism", title: "مدرسة الإسكندرية ومكتبتها الكبرى وتلاقي الثقافات الهيلينستية", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أثر الأفلاطونية المحدثة والأفلوطينية في تشكيل مفهوم النفس الداخلية في الفكر الوجودي والروحي يحتاج توثيقاً."
 ---
-
 # أفلوطين
 
 فيلسوف هيلينستي من أصول مصرية، مؤسس «الأفلاطونية المحدثة» وصاحب «التاسوعات»، أحد أعمق من حللوا الخبرة الباطنية للذات وعودة النفس إلى أصلها الأسمى.

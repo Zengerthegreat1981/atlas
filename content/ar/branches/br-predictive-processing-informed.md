@@ -10,10 +10,15 @@ country: "عالمي (متعدد المراكز)"
 language: "إنجليزية"
 active_start: 2015
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العصبي الحديث والعلاقاتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "العصبي الحديث والعلاقاتي", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "تيار وليد، لا تاريخ نهاية، وكتاباته العملية محدودة."
   - "هل يُعتبر تياراً علاجياً مستقلاً أم مجرد 'إطار فهم'؟ خلاف مفتوح."

@@ -11,11 +11,13 @@ dates: "كاليفورنيا · الستينيات والسبعينيات"
 active_start: 1964
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
-  - rel: "developed_by", target: "فيرجينيا ساتير", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-vsatir", target_type: "مفكر"
 related:
-  - id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "tec-experiential-symbolic-family", title: "العلاج الأسري الرمزي التجريبي (ويتاكر)", type: "تقنية/تدخل علاجي"
 gaps:
   - "أنماط التواصل غير المتوافقة الأربعة لفيرجينيا ساتير (المسترضي Placater، اللائم Blamer، العقلاني المفرط Super-Reasonable، والمشتت Irrelevant) مقابل النمط المتطابق (Congruent)."
   - "تقنية النحت الأسري (Family Sculpting) وجبل الجليد التحويلي لسواتير (Satir Iceberg Model)."

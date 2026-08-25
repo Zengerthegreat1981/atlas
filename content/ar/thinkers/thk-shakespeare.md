@@ -13,13 +13,14 @@ language: "الإنجليزية"
 active_start: 1996
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة الإعاقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة الإعاقة", target_type: "مدرسة"
 related:
-  - id: "sch-philosophy-of-disability", title: "فلسفة الإعاقة", type: "مدرسة"
+- id: "wrk-disability-rights-wrongs", title: "حقوق وأخطاء الإعاقة (Disability Rights and Wrongs)", type: "عمل / كتاب"
+- id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
+- id: "sch-philosophy-of-disability", title: "فلسفة الإعاقة", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ كتابه *The Social Model of Disability* (2006) ولا Disability Rights and Wrongs (2006)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # توم شكسبير (Tom Shakespeare, 1966–)

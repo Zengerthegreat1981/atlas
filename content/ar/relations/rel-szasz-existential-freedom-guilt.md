@@ -6,20 +6,24 @@ level: "متقدم"
 title: "سازس والوجودية: الحرية والمسؤولية الأخلاقية"
 en: "Szasz and Existentialism: Freedom and Moral Responsibility"
 crumb: "المدرسة الوجودية ← العلاقات بين المدارس ← سازس والوجودية: الحرية والمسؤولية"
+part: "bridge"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "thk-szasz", title: "توماس ساس", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
+- id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
+- id: "rel-existential-phenomenology", title: "الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج", type: "علاقة بين مدرستين"
 gaps:
   - "المواجهة المباشرة بين سازس ويايوم/فرانكل في مؤتمرات الستينيات تستحق توثيقاً."
   - "الفرق الدقيق بين المسؤولية الوجودية والمسؤولية الليبرالية الكلاسيكية يستحق توثيقاً مستقلاً."
 ---
-
 # سازس والوجودية: الحرية والمسؤولية الأخلاقية
 
 مقارنة نقدية بين توماس سازس والوجودية حول الحرية والمسؤولية الأخلاقية في سياق الطب النفسي.

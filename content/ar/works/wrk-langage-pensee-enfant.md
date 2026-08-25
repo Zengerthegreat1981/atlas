@@ -10,11 +10,16 @@ dates: "1923 · جان بياجيه"
 active_start: 1923
 active_end: 1923
 language: "الفرنسية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس النمو المعرفي", target_type: "مدرسة"
-  - rel: "authored_by", target: "جان بياجيه", target_type: "مفكر"
+- rel: "belongs_to", target: "علم نفس النمو المعرفي", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-piaget", target_type: "مفكر"
 related:
-  - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الترجمة الإنجليزية الأولى (1926) أجراها Margaret Woo — التحقق من دقّتها للنصّ الفرنسي الأصلي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Piaget في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."

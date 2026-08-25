@@ -6,30 +6,35 @@ level: "متقدم"
 title: "ديفيد إبستون"
 en: "David Epston"
 crumb: "العلاج السردي (Narrative Therapy) ← مؤسس مشارك ← ديفيد إبستون"
-dates: "نيوزيلندا/كندا · وُلد 1944"
+dates: "كندا/نيوزيلندا · وُلد 1944"
 country: "نيوزيلندا"
 language: "الإنجليزية"
 active_start: 1988
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج السردي (Narrative Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
+- id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
+- id: "thk-gcombs", title: "جين كومبز", type: "مفكر"
+- id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ديفيد إبستون
 
-معالج أسري ومنظِّر أنثروبولوجي، وُلد في نيوزيلندا ويعمل في كندا. شارك مايكل وايت في تأسيس **العلاج السردي**، مع اهتمام خاص بـ"الأنثروبولوجيا المُتطلّعة" (Hopeful Anthropology) كأداة للعلاج.
+معالج أسري ومنظِّر ذو خلفية أنثروبولوجية، وُلد في كندا ويعمل في نيوزيلندا. شارك مايكل وايت في تأسيس **العلاج السردي**، مع اهتمام خاص بـ"الأنثروبولوجيا المُتطلّعة" (Hopeful Anthropology) كأداة للعلاج.
 
 ## ما أعطاه
 
-- **"كتب التجربة"** (Therapy Documents): رسائل ووثائق تُحرر في ختام العلاج لتخليد التغيير.
+- **"وثائق العلاج"** (Therapeutic Documents): رسائل وشهادات تُكتب في ختام العلاج لتثبيت التغيير.
 - **مفهوم "الكُتَّاب المُتعاونين"** (Co-Authoring): العميل والمعالج شريكان في كتابة قصة جديدة.
 - **"الأنثروبولوجيا المُتطلّعة"** (Hopeful Anthropology): طريقة لسرد تاريخ العميل بوصفه إنساناً قادراً على التحوّل.
 - **العلاج السردي في اضطرابات الأكل** وعلاج الأطفال.
-- **"رواية سكانية"** و"النقد الهادف للمشكلات" (Naming the Problem).
+- **"تسمية المشكلة"** (Naming the Problem) و**"إخراج المشكلة من الذات"** (Externalizing).
 
 ## موقعه من التيار
 
@@ -38,7 +43,7 @@ gaps:
 ## أهم أعماله
 
 - *Narrative Means to Therapeutic Ends* (1990، مع وايت).
-- *Re-Authoring Lives* (1994، مع وايت).
+- *Re-Authoring Lives* (1995، لمايكل وايت — عمل موازٍ لمشروعهما المشترك).
 - *Eating Behavior and Eating Disorders* (1989، مع إريكسون).
 - *Catching Up With David Epston* (2016، هانتر، محرر).
 

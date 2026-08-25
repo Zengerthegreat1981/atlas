@@ -10,14 +10,15 @@ dates: "1965 · جيمس بوجنتال"
 language: "الإنجليزية"
 active_start: 1965
 active_end: 1965
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "جيمس بوجنتال", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-bugental", target_type: "مفكر"
 related:
-  - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "br-psychodynamic-humanistic", title: "التيار الإنساني-الوجودي (رولو ماي)", type: "تيار"
+- id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "br-psychodynamic-humanistic", title: "التيار الإنساني-الوجودي (رولو ماي)", type: "تيار"
 gaps:
   - "التفاصيل الكاملة لمحتوى الكتاب لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

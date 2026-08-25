@@ -6,12 +6,16 @@ level: "متقدم"
 title: "رعاية النفس"
 en: "Care for the Soul"
 crumb: "المدرسة الوجودية ← المفاهيم ← رعاية النفس"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-patocka", title: "يان باتوتشكا", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-aron", title: "ريمون آرون", type: "مفكر"
+- id: "thk-patocka", title: "يان باتوتشكا", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-elaine-aron", title: "ريمون آرون", type: "مفكر"
+- id: "br-archetypal", title: "علم النفس الأركيتايبي", type: "تيار"
 gaps:
   - "رابط مقترح لـ«فاتسلاف هافيل» (thk-havel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«تضامن المصدومين» (con-solidarity-of-the-shaken) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

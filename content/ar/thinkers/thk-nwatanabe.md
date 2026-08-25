@@ -10,10 +10,12 @@ country: "اليابان"
 language: "اليابانية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← نوبو واتانابي"
 edges:
-  - rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
 related:
-  - id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
+- id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

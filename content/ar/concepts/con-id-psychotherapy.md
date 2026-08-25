@@ -8,12 +8,18 @@ en: "Psychotherapy for Intellectual Disability"
 crumb: "المفاهيم ← مدارس علاجية متخصصة ← العلاج النفسي للإعاقات الذهنية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج النفسي للإعاقات الذهنية", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-id-psychotherapy", target_type: "مدرسة"
 related:
-  - id: "con-sensory-integration", title: "التكامل الحسي", type: "مفهوم"
+- id: "con-sensory-integration", title: "التكامل الحسي", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاج النفسي للإعاقات الذهنية

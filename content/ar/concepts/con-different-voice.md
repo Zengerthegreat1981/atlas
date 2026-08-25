@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← أخلاقيات الرعاية �
 active_start: 1982
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "أخلاقيات الرعاية (Care Ethics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:
-  - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
-  - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
+- id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Harvard University Press الأصلية (1982)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الصوت المختلف (In a Different Voice)

@@ -13,9 +13,10 @@ language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الليبرالية", target_type: "مدرسة"
+- rel: "belongs_to", target: "النسوية الليبرالية", target_type: "مدرسة"
 related:
-  - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
+- id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
+- id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
 gaps:
   - "نصوص Pateman (The Sexual Contract, The Disorder of Women) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

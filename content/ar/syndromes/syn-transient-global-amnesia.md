@@ -11,10 +11,10 @@ active_start: 1958
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث فيشر وآدامز (Fisher & Adams 1958) في توصيف نوبات فقدان الذاكرة التقدمي والرجعي المفاجئ."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -5,20 +5,25 @@ type: "مفكر"
 level: "متوسط"
 title: "لاري ديفيدسون"
 en: "Larry Davidson"
-crumb: "br-peer-support ← البحث الأكاديمي ← لاري ديفيدسون"
+crumb: "الدعم النظير ← البحث الأكاديمي ← لاري ديفيدسون"
 dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
+- rel: "belongs_to", target: "الدعم النظير", target_type: "تيار"
 related:
-  - id: "thk-dfisher", title: "دانيال فيشر", type: "مفكر"
-  - id: "br-peer-support", title: "الدعم النظير", type: "مفكر"
+- id: "br-peer-support", title: "الدعم النظير", type: "تيار"
+- id: "thk-jchamberlin", title: "جودي تشامبرلين", type: "مفكر"
+- id: "thk-mcopeland", title: "ماري إيلين كوبلاند", type: "مفكر"
+- id: "thk-pdeegan", title: "باتريشا ديجان", type: "مفكر"
+- id: "thk-smead", title: "شيري ميد", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال فيشر (thk-dfisher)."
 ---
 
 # لاري ديفيدسون

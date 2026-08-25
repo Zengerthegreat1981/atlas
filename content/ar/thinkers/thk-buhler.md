@@ -11,13 +11,15 @@ active_start: 1933
 active_end: 1968
 country: "النمسا / ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "evt-ahp-founding-1961", title: "تأسيس جمعية علم النفس الإنساني وإطلاق القوة الثالثة", type: "حدث تاريخي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "دراساتها الرائدة حول مسار الحياة والتحقيق الذاتي للأهداف تحتاج إبرازاً في سياق الأطلس."
@@ -41,4 +43,4 @@ gaps:
 
 ## أهم أعمالها
 
-مسار الحياة الإنسانية كمعضلة سيكولوجية (Der menschliche Lebenslauf als psychologisches Problem, 1933) · علم النفس الإنساني في الممارسة (Psychology for Contemporary Living, 1968).
+مسار الحياة الإنسانية كمعضلة سيكولوجية (Der menschliche Lebenslauf als psychologisches Problem, 1933) · علم النفس للحياة المعاصرة (Psychology for Contemporary Living, 1968).

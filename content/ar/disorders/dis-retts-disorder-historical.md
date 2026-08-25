@@ -9,11 +9,12 @@ crumb: "الاضطرابات والحالات الإكلينيكية ← الت�
 active_start: 1994
 active_end: 2013
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
 related:
-  - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد (ASD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي والإحصائي الخامس DSM-5", type: "حدث تاريخي"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد (ASD)", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي والإحصائي الخامس DSM-5", type: "حدث تاريخي"
 gaps:
   - "تاريخ اكتشاف طفرة جين MECP2 عام 1999 وأثرها على صياغة مسودة DSM-5 يحتاج توثيقاً علمياً دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

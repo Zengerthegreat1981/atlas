@@ -9,13 +9,18 @@ crumb: "التحليل النفسي ← الناس ← اللاكانية (تط�
 dates: "سلوفينيا · مواليد 1949"
 country: "سلوفينيا"
 language: "الإنجليزية / السلوفينية / الفرنسية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-  - id: "thk-hegel", title: "هيغل", type: "مفكر"
+- id: "thk-ystavrakakis", title: "يانيس ستافراكاكيس", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-hegel", title: "هيغل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سلافوي جيجك

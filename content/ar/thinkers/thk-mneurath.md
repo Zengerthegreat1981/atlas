@@ -13,9 +13,9 @@ language: "الألمانية"
 active_start: 1919
 active_end: 1945
 edges:
-  - rel: "belongs_to", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
 related:
-  - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
 gaps:
   - "الفرق بين موقف نورات من 'الإجماع العلمي' وموقف الوضعيين الآخرين لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,10 +13,13 @@ language: "الفرنسية"
 active_start: 1942
 active_end: 1942
 edges:
-  - rel: "belongs_to", target: "العبثية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-absurdism", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "sch-absurdism", title: "العبثية", type: "مدرسة"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "sch-absurdism", title: "العبثية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لعلاقة كامو بسارتر قبل القطيعة 1952 لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من النسخة الأولى 1942."

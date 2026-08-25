@@ -11,17 +11,18 @@ active_start: 1956
 active_end: 1997
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-  - id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "ترجمتها الإنجليزية لكتاب 'الوجود والعدم' (1956) وكتابها 'أخلاق وجودية' يستحقان توثيقاً."
+  - "أثر ترجمتها لـ«الوجود والعدم» في تشكّل المفردات الوجودية الإنجليزية يستحق دراسة مستقلة."
 ---
 
 # هازل بارنز
@@ -42,4 +43,4 @@ gaps:
 
 ## أهم أعمالها
 
-أخلاق وجودية (An Existentialist Ethics, 1967) · الوجودية الإنسانية: فلسفة سارتر (Humanistic Existentialism, 1959) · ترجمة الوجود والعدم لسارتر (Being and Nothingness, 1956) · قصة سيرة وجودية (The Story I Tell Myself, 1997).
+أخلاق وجودية (An Existentialist Ethics, 1967) · الوجودية الإنسانية: فلسفة سارتر (Humanistic Existentialism, 1959) · ترجمة الوجود والعدم لسارتر (Being and Nothingness, 1956) · القصة التي أرويها لنفسي (The Story I Tell Myself, 1997).

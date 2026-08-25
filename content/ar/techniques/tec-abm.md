@@ -11,11 +11,12 @@ dates: "من أوائل الألفية الثالثة"
 active_start: 2002
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-cbt-psychosis", title: "العلاج المعرفي السلوكي للذهان (CBTp)", type: "تقنية/تدخل علاجي"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-cbt-psychosis", title: "العلاج المعرفي السلوكي للذهان (CBTp)", type: "تقنية/تدخل علاجي"
 gaps:
   - "كلير ماكليود (Colin MacLeod) ودانييل ويزمان (Daniel Wegner) كرواد نظريين."
   - "مهام dot-probe وvisual search كأدوات تعديل."

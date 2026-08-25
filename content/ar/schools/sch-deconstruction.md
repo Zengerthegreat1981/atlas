@@ -13,17 +13,20 @@ language: "الفرنسية، الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "ما بعد البنيوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-  - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-  - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
-  - id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية", type: "مدرسة"
+- id: "dia-derrida-searle-1977", title: "سجال دريدا وسيرل 1977: أفعال الكلام والتفكيك والقصدية", type: "حوار مع مدرسة مجاورة"
+- id: "dia-levinas-derrida-hospitality", title: "سجال ليفيناس ودريدا: أخلاق الغيرية والضيافة اللانهائية المستحيلة", type: "حوار مع مدرسة مجاورة"
+- id: "exp-derrida-algerian-jewish-exclusion", title: "تجربة دريدا وطرده من المدرسة في الجزائر وفقدان الهوية الأحادية", type: "خبرة معيشة"
+- id: "trm-differance-derrida", title: "الاختلاف المرجأ (Différance): تباعد المعنى وتأجيله اللانهائي", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "الجدل بين دريدا وسيرل (John Searle, 1977) حول 'أفعال الكلام' يحتاج مراجعة دقيقة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "الفرق بين 'تفكيكية' دريدا و'نقد لايديولوجيا' مدرسة فرانكفورت (مقارنة مع Paul de Man) لم يُحلّل."
 ---
-
 # التفكيكية (Déconstruction)
 
 منهج فلسفي ونقدي أسّسه **جاك دريدا** (1930–2004)، يهدف إلى **تفكيك** الثنائيات الميتافيزيقية التي تشكّل النصّ الفلسفي أو الأدبي، وكشف **ما هو مهمَّش** فيها. التفكيك ليس منهجًا تحليليًا محايدًا، بل **تدخّل** في النصّ يهدف إلى إظهار أن **كل بنية** تحمل في داخلها بذور انهيارها.

@@ -10,14 +10,19 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← كارين بَد"
 edges:
-  - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بتفاعل الوالد-الطفل (PCIT)", target_type: "تيار"
 related:
-  - id: "thk-ieyberg", title: "شيلا إيبيرغ", type: "مفكر"
-  - id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "مفكر"
+- id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "تيار"
+- id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
+- id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيلا إيبيرغ (thk-ieyberg)."
+  - "هوية الملف: الـslug `thk-bbundy` يشير إلى Karen Budd. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
 # كارين بَد

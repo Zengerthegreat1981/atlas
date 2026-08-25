@@ -5,20 +5,28 @@ type: "مفكر"
 level: "متقدم"
 title: "دان فيشر"
 en: "Dan B. Fisher"
-crumb: "br-recovery-oriented (التعافي) ← تطوير ← دان فيشر"
+crumb: "الممارسة الموجَّهة نحو التعافي ← تطوير ← دان فيشر"
 dates: "الولايات المتحدة · 1955–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-recovery-oriented", target_type: "مدرسة"
+- rel: "belongs_to", target: "الممارسة الموجَّهة نحو التعافي", target_type: "مدرسة"
 related:
-  - id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
-  - id: "br-recovery-oriented", title: "الممارسة الموجَّهة نحو التعافي", type: "مفكر"
+- id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
+- id: "thk-gene-ennis", title: "جين إينيس", type: "مفكر"
+- id: "thk-kurtz-sherman", title: "شيرمان كيرتز", type: "مفكر"
+- id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
+- id: "br-recovery-oriented", title: "الممارسة الموجَّهة نحو التعافي", type: "تيار"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جين إينيس (thk-gene-ennis)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرمان كيرتز (thk-kurtz-sherman)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماري إلمكويست (thk-mary-elmquist)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات ديغان (thk-patdeegan)."
 ---
 
 # دان فيشر
@@ -27,10 +35,10 @@ gaps:
 
 ## ما أعطاه
 
-- تأسيس **مركز «البصيرة النفسية»** (Center for Psychiatric Rehabilitation) في جامعة بوسطن.
+- تأسيس **«المركز الوطني للتمكين»** (National Empowerment Center) بوصفه منظمة يقودها ذوو التجربة أنفسهم.
 - تطوير **نموذج التعافي** بوصفه إطاراً شاملاً للصحة النفسية يشمل كل جوانب الحياة.
 - مساهمات في **«الإصلاح المؤسسي»** للمؤسسات النفسية الأمريكية.
-- تأثيره في **سياسات الصحة النفسية** الأمريكية (SAMHSA) عبر مشروع «الخطوة 10» (Stepping Up).
+- تأثيره في **سياسات الصحة النفسية** الأمريكية عبر عضويته في اللجنة الرئاسية الجديدة للصحة النفسية (2002–2003).
 
 ## موقعه من التيار
 
@@ -38,7 +46,7 @@ gaps:
 
 ## أهم أعماله
 
-- *Recovery from Mental Illness: The Guiding Vision of the Mental Health Service System* (أبحاث تأسيسية).
+- كتابات ومقالات في التعافي بقيادة ذوي التجربة، ومساهمات في وثائق SAMHSA.
 - مساهمات في سياسات SAMHSA.
 
 ## اقتباسات مختارة

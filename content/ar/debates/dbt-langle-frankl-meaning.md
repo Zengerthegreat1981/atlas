@@ -6,13 +6,16 @@ level: "متقدم"
 title: "لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟"
 en: "Längle vs. Frankl: Expanding or Critiquing the Will to Meaning?"
 crumb: "الإنسانية ← الجدالات ← لانغله ضد فرانكل"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "con-will-to-meaning", title: "الإرادة في المعنى", type: "مفهوم"
-  - id: "con-four-fundamentals-langle", title: "الشروط الأربعة الأساسية للتحليل الوجودي (لانغله)", type: "مفهوم"
+- id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-will-to-meaning", title: "الإرادة في المعنى", type: "مفهوم"
+- id: "con-four-fundamentals-langle", title: "الشروط الأربعة الأساسية للتحليل الوجودي (لانغله)", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة للخلاف بين لانغله وفرانكل (هل شاهد فرانكل عمل لانغله قبل وفاته 1997؟) تحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من نص الجدل بعد."

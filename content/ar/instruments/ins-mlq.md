@@ -6,11 +6,19 @@ level: "مبتدئ"
 title: "استبيان المعنى في الحياة (MLQ)"
 en: "Meaning in Life Questionnaire (MLQ)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← استبيان المعنى في الحياة (MLQ)"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-schnell", title: "تاتيانا شنيل", type: "مفكر"
+- id: "tec-meaning-centered-psychotherapy", title: "العلاج النفسي المرتكز على المعنى", type: "تقنية/تدخل علاجي"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "ins-sources-of-meaning-some", title: "استبيان مصادر المعنى (SoMe)", type: "أداة قياس"
 gaps:
   - "لا تتوفر بيانات تقنين عربي موثقة لهذه الأداة ضمن مصادر هذا المشروع"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # استبيان المعنى في الحياة (MLQ)

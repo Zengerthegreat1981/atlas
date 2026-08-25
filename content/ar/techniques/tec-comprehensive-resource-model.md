@@ -11,11 +11,12 @@ dates: "من 2012"
 active_start: 2012
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج ليزا شوارتز (Lisa Schwarz) متعدد المستويات للتمكين العصبي والأمان الجسدي قبل معالجة الصدمات التطورية الشديدة."
   - "الموارد السبعة المتراكبة: التنفس الجذري، نقاط البصر في الدماغ، اتصال الأجداد، والارتباط السليم."

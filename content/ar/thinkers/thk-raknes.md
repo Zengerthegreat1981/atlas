@@ -9,12 +9,15 @@ crumb: "علم نفس الجسد ← الناس ← الكلاسيكيون ال�
 dates: "النرويج · 1887–1975"
 country: "النرويج"
 language: "النرويجية / الألمانية / الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1975
 edges:
-  - rel: "belongs_to", target: "علم نفس الجسد", target_type: "مدرسة"
+- rel: "belongs_to", target: "التجربة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
 related:
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-boadella", title: "ديفيد بوعِلّا", type: "مفكر"
-  - id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-boadella", title: "ديفيد بوعِلّا", type: "مفكر"
+- id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
 gaps:
   - "التفاصيل المتأخرة لحياته (بعد 1960) شحيحة في المصادر الإنجليزية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

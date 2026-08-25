@@ -13,12 +13,13 @@ language: "اللاتينية"
 active_start: 1240
 active_end: 1530
 edges:
-  - rel: "evolved_from", target: "الفلسفة الأندلسية (الرشدية الإسلامية)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "المدرسية (السكولاستية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-andalusian-philosophy", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-scholasticism", target_type: "مدرسة"
 related:
-  - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "thk-siger-brabant", title: "سيجير دي برابانت", type: "مفكر"
 gaps:
   - "نصوص سيجر دي برابان وجون بيكون ثامبيكو باللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'De Intellectu' لسيجر."

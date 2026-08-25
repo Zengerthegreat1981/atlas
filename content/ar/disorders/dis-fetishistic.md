@@ -11,16 +11,19 @@ icd11_code: "6D30.2"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-  - id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
+- id: "dis-pedophilic-disorder", title: "اضطراب البيدوفيليا (Pedophilic Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-frotteuristic-disorder", title: "اضطراب الفروتيوريزم (Frotteuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (sexual arousal from non-living objects) لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6D30.2) لم تُراجع تفصيلياً."
@@ -31,7 +34,6 @@ gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # اضطراب الفيتشية (Fetishistic Disorder)
 
 اضطراب من اضطرابات الانحراف (Paraphilia) يتميز بإثارة جنسية متكررة ومكثفة من أشياء غير حيّة (أحذية، ملابس، أقمشة) أو تركيز شديد على جزء من الجسم (أقدام، شعر) أو كليهما، تستمر 6+ أشهر. **يُشخَّص فقط عندما تُسبّب ضائقة كبيرة أو ضعف في الأداء**.
@@ -102,3 +104,7 @@ Fetishistic Disorder **ليس اضطراباً شائعاً في العيادا�
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Sprott, R. A. (2016). "The Intersection of Kink and Mental Health." *Sexual and Relationship Therapy*.
 - Joyal, C. C., et al. (2015). "What Exactly Is an Unusual Sexual Fantasy?" *Journal of Sexual Medicine*.
+
+## التطور التاريخي في DSM
+
+أُعيدت تسمية «الفيتيشية» (Fetishism) في DSM-5 إلى «اضطراب الفيتيشية» (Fetishistic Disorder)، مع التأكيد الصارم على أن الانجذاب للأشياء غير الحية لا يعد اضطراباً إلا إذا اقترن بضيق نفسي ملحوظ أو ضرر وظيفي واجتماعي.

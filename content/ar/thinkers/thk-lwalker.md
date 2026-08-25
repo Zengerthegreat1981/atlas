@@ -11,8 +11,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 2010
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج بالتحويل (Conversion Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
+related:
+- id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
+- id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:
   - "تفاصيل السيرة الذاتية لم تُوثّق بشكل مستقل."
   - "لا يوجد اقتباس مباشر موثوق متاح."

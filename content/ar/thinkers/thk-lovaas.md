@@ -11,12 +11,15 @@ active_start: 1961
 active_end: 2010
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "تحليل السلوك التطبيقي للتوحد (br-aba-autism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "تحليل السلوك التطبيقي للتوحد (ABA)", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
-  - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
+- id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
+- id: "con-prt-pivotal-response", title: "علاج المحاور (PRT)", type: "مفهوم"
+- id: "con-verbal-behavior-vb", title: "السلوك اللفظي (Verbal Behavior / VB)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "ملاحظة مراجعة: يوجد ملف آخر لنفس الشخص بعنوان مختلف قليلاً (thk-ilovaas، id THK-1196) — تكرار حي يحتاج قرار بشري صريح لدمج/حذف أحد الملفين، لم يُلمس هذا القرار هنا."

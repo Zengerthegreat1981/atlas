@@ -13,14 +13,14 @@ language: "التبتية"
 active_start: 1050
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فاجرايانا / البوذية التانترية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "نينغما", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vajrayana", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-nyingma", target_type: "مدرسة"
 related:
-  - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-  - id: "sch-nyingma", title: "نينغما", type: "مدرسة"
-  - id: "sch-sakya", title: "ساكيا", type: "مدرسة"
-  - id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
-  - id: "sch-shakta-tantra", title: "الشاكتية والتانترا الفلسفية", type: "مدرسة"
+- id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
+- id: "sch-nyingma", title: "نينغما", type: "مدرسة"
+- id: "sch-sakya", title: "ساكيا", type: "مدرسة"
+- id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
+- id: "sch-shakta-tantra", title: "الشاكتية والتانترا الفلسفية", type: "مدرسة"
 gaps:
   - "نصوص Marpa وMilarepa وGampopa وطبيعة انتقال الـMahāmudrā في Kagyu تستحق مراجعة من المصدر الأولي."
   - "التفريق بين Kagyu الرئيسية وفروعها (Karma، Tsalpa، Drukpa، Shangpa) متشعّب."

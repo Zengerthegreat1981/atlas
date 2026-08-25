@@ -9,10 +9,11 @@ en: "Tversky & Kahneman's Linda Problem (Conjunction Fallacy Study)"
 crumb: "علم النفس المعرفي والاقتصاد السلوكي ← الدراسات والأبحاث ← تجربة مشكلة ليندا ومغالطة الاقتران"
 active_start: 1982
 active_end: 1983
-edges: []
+edges:
+  []
 related:
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-  - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
 gaps:
   - "وصف شخصية ليندا (فلسفة، عدالة اجتماعية، مناهضة نووية) ووقوع 85% من المشاركين في المغالطة الرياضية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

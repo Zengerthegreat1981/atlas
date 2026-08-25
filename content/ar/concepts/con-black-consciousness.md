@@ -10,16 +10,17 @@ active_start: 1978
 active_end: 1978
 country: "جنوب أفريقيا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "coined_by", target: "ستيف بيكو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "coined_by", target: "thk-biko", target_type: "مفكر"
 related:
-  - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-  - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد من النص الأصلي (I Write What I Like, 1978) بالكامل — هذا الوصف مبني على ما هو موثّق في صفحة بيكو المعتمدة فقط."
   - "علاقتها الدقيقة (امتداد أم تمايز) بمفهومي الاغتراب والأصالة الوجوديين الكلاسيكيين تحتاج توسيعاً."

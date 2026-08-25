@@ -8,14 +8,21 @@ en: "Neuropsychoanalysis"
 crumb: "التحليل النفسي ← المفاهيم ← التحليل النفسي العصبي"
 dates: "1999-اليوم"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "مارك سولمز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-msolms", target_type: "مفكر"
 related:
-  - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "wrk-neuroscience-psychotherapy", title: "علم أعصاب العلاج النفسي: بناء وإعادة بناء الدماغ البشري", type: "عمل / كتاب"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # التحليل النفسي العصبي (Neuropsychoanalysis)

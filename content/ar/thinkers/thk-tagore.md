@@ -13,10 +13,11 @@ language: "البنغالية، الإنجليزية"
 active_start: 1890
 active_end: 1941
 edges:
-  - rel: "belongs_to", target: "الفلسفة الطاغورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الفلسفة الطاغورية", target_type: "مدرسة"
 related:
-  - id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
-  - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "dbt-tagore-vs-gandhi", title: "طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعات Macmillan الأصلية لـ Sadhana (1913) وThe Religion of Man (1931)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

@@ -6,14 +6,30 @@ level: "متقدم"
 title: "العلاقة واللقاء"
 en: "Relation and encounter"
 crumb: "المدرسة الوجودية ← المفاهيم ← العلاقة واللقاء"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "thk-bugental", title: "بوجنتال", type: "مفكر"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-bugental", title: "بوجنتال", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "con-chatbot-therapeutic-alliance", title: "التحالف العلاجي مع chatbot", type: "مفهوم"
+- id: "wrk-affect-regulation-mentalization", title: "تنظيم الوجدان والذهنية وتطور الذات", type: "عمل / كتاب"
+- id: "wrk-developing-mind", title: "العقل النامي: نحو علم نفس عصبي للعلاقات الشخصية", type: "عمل / كتاب"
+- id: "wrk-interpersonal-world-infant", title: "العالم بين-شخصي للرضيع", type: "عمل / كتاب"
+- id: "tec-eight-dimensions-of-relatedness", title: "الأبعاد الثمانية للارتباط والصلة الإنسانية", type: "تقنية/تدخل علاجي"
+- id: "tec-five-dimensions-therapeutic-relationship", title: "نموذج الأبعاد الخمسة للعلاقة العلاجية", type: "تقنية/تدخل علاجي"
+- id: "br-abft", title: "العلاج الأسري المرتكز على التعلق (ABFT)", type: "تيار"
+- id: "br-fft", title: "العلاج الأسري الوظيفي (FFT)", type: "تيار"
+- id: "br-psychotherapy-intellectual-disability", title: "العلاج النفسي للإعاقة الذهنية", type: "تيار"
+- id: "br-teletherapy", title: "العلاج عن بُعد / العلاج عبر الإنترنت", type: "تيار"
+- id: "br-theraplay", title: "Theraplay (العلاج بالألعاب العلائقي)", type: "تيار"
+- id: "br-ultra-brief-psychotherapy", title: "العلاج فائق القصر", type: "تيار"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاقة واللقاء

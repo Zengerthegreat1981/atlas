@@ -13,14 +13,14 @@ language: "الصينية الكلاسيكية"
 active_start: 660
 active_end: 1900
 edges:
-  - rel: "evolved_from", target: "تيانتاي (الصينية)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-  - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
 gaps:
   - "نصوص Fazang (Huayan Wujiao Zhang، Gold Lion) وChengguan (Xinxin Ming) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Huayan في الصين واليابان وكوريا يستحق بحثاً مستقلاً."

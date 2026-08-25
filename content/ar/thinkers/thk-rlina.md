@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← ريك لين�
 dates: "هولندا · [غير مؤكد]"
 country: "هولندا"
 language: "الهولندية / الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-بعد تحليله في زيورخ (1970s)، عاد إلى أمستردام. مع Giegerich، أسّس «الخطّ الجدلي» للتحليلية في هولندا. كذلك في مقالاته في «Spring Journal» و«Journal of Analytical Psychology» قدّم قراءات «للنفس كحركة منطقية» في تجربته السريرية. كذلك شارك في مؤتمرات IAAP.
+بعد تحليله في زيورخ (السبعينيات من القرن العشرين)، عاد إلى أمستردام. مع Giegerich، أسّس «الخطّ الجدلي» للتحليلية في هولندا. كذلك في مقالاته في «Spring Journal» و«Journal of Analytical Psychology» قدّم قراءات «للنفس كحركة منطقية» في تجربته السريرية. كذلك شارك في مؤتمرات IAAP.
 
 ## موقعه من التيار
 

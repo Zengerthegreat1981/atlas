@@ -13,22 +13,36 @@ language: "الألمانية، الإنجليزية"
 active_start: 1908
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "علم نفس الجشطلت (Wertheimer، Köhler)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "علم نفس الجشطلت التطبيقي (Lewin)", target_type: "تيار"
-  - rel: "evolved_from", target: "السلوكية (Watson، Skinner)", target_type: "مدرسة"
-  - rel: "split_into", target: "التعلم الاجتماعي (Bandura)", type: "تيار"
-  - rel: "split_into", target: "علم النفس الاجتماعي التمييزي", type: "تيار"
-  - rel: "split_into", target: "علم النفس الاجتماعي العابر للثقافات", type: "تيار"
+- rel: "evolved_from", target: "علم نفس الجشطلت (Wertheimer، Köhler)", target_type: "مدرسة"
+- rel: "evolved_from", target: "علم نفس الجشطلت التطبيقي (Lewin)", target_type: "تيار"
+- rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "split_into", target: "التعلم الاجتماعي (Bandura)", target_type: "تيار"
+- rel: "split_into", target: "علم النفس الاجتماعي التمييزي", target_type: "تيار"
+- rel: "split_into", target: "علم النفس الاجتماعي العابر للثقافات", target_type: "تيار"
 related:
-  - id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
-  - id: "sch-developmental", title: "علم النفس التطوري", type: "مدرسة"
-  - id: "con-barnum-forer-effect", title: "تأثير بارنوم / فورير (سيكولوجيا تصديق التوصيفات الفضفاضة والأبراج)", type: "مفهوم"
+- id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
+- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
+- id: "con-barnum-forer-effect", title: "تأثير بارنوم / فورير (سيكولوجيا تصديق التوصيفات الفضفاضة والأبراج)", type: "مفهوم"
+- id: "thk-venriquez", title: "فيرجوليو إنريكيز", type: "مفكر"
+- id: "wrk-insight-lieberman", title: "البصيرة: الحقيقة المفاجئة عن كيف يرانا الآخرون، وكيف نرى أنفسنا، ولماذا الإجابات تهم أكثر مما نعتقد", type: "عمل / كتاب"
+- id: "wrk-prisoners-of-hate", title: "أسرى الكراهية: الأساس المعرفي للغضب والعدوانية والعنف", type: "عمل / كتاب"
+- id: "stu-tajfel-minimal-group", title: "دراسات تاجفيل لنموذج الجماعة الصغرى والهوية الاجتماعية", type: "دراسة وبحث"
+- id: "stu-triplett-social-facilitation", title: "دراسة تريبليت للتيسير الاجتماعي والتنافس", type: "دراسة وبحث"
+- id: "ins-ecr", title: "مقياس الخبرات في العلاقات الحميمة", type: "أداة قياس"
+- id: "ins-oxford-happiness-inventory", title: "قائمة أكسفورد للسعادة", type: "أداة قياس"
+- id: "ins-relationship-questionnaire-bartholomew", title: "استبيان العلاقات لبارثولوميو وهوروفيتز لأنماط التعلّق الأربعة", type: "أداة قياس"
+- id: "dbt-medical-model-vs-social-model-mental", title: "النموذج الطبي الحيوي مقابل النموذج الاجتماعي والسياقي للاضطراب النفسي", type: "جدل"
+- id: "dbt-moral-foundations-pluralism", title: "التعددية الأخلاقية الفطرية (هايدت) مقابل العقلانية الكانطية والنفعية", type: "جدل"
+- id: "exp-fanon-martinique-french-racism", title: "صدمة فرانتز فانون في ليون الفرنسية وصرخة «انظر، إنه زنجي!»", type: "خبرة معيشة"
+- id: "trm-epistemic-bubble-echo-chamber", title: "الفقاعة الإبستمولوجية وغرفة الصدى (Epistemic Bubble vs. Echo Chamber)", type: "مصطلح لغوي متنازع عليه"
+- id: "que-are-human-rights-universal", title: "هل حقوق الإنسان كونية ومطلقة أم اختراع إمبريالي غربي مفروض؟", type: "سؤال توليدي"
+- id: "que-epistemic-injustice-fricker", title: "كيف يسلب التمييز الطبقي والعنصري مصداقية شهادة المظلومين (الظلم المعرفي)؟", type: "سؤال توليدي"
+- id: "que-is-altruism-genuinely-possible", title: "هل الإيثار الخالص ممكن في الطبيعة البشرية أم كل تضحية تخفي مصلحة ذاتية؟", type: "سؤال توليدي"
 gaps:
   - "التمييز بين 'علم النفس الاجتماعي' (social psychology) و'علم النفس المجتمعي' (community psychology) و'السوسيولوجيا' ليس موحّداً في المراجع العربية."
   - "تاريخ موجة 'الأزمة' (Crisis in Social Psychology، 1970s) التي هاجمت المنهجية التجريبية موثّقة لكن تفاصيل تأثيرها على الانقسام بين علم النفس الاجتماعي النفسي والسوسيولوجيا غير مفصّلة."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
-
 # علم النفس الاجتماعي (Social Psychology)
 
 علم النفس الاجتماعي هو الدراسة العلمية لـ**كيفية إدراك الفرد للآخرين، وتأثيره فيهم، وتأثيرهم فيه**، في سياقات اجتماعية حقيقية. يدرس كيف تشكّل المواقف (Situations) السلوك، وكيف تتشكّل المواقف بفعل الأفراد، وكيف ينتج التفاعل بين الاثنين ظواهر نفسية اجتماعية: الامتثال، الطاعة، التحيز، التمييز، التعاون، العدوان، القيادة، الانتماء، الهوية. هو «العلم الذي يقف بين علم النفس وعلم الاجتماع»، لكن منهجياً أقرب لعلم النفس التجريبي.

@@ -8,14 +8,15 @@ en: "Operant Conditioning (Skinnerian Conditioning)"
 crumb: "المعرفية السلوكية ← المفاهيم ← الإشتراط الإجرائي"
 active_start: 1938
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
-  - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
-  - id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
-  - id: "con-reinforcement-schedule", title: "جداول التعزيز", type: "مفهوم"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
+- id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
+- id: "con-reinforcement-schedule", title: "جداول التعزيز", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "النقاش الفلسفي حول «حرية الإرادة» مقابل «التحديد السلوكي» (Skinner vs Chomsky 1959) — موضع بحث."

@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← فلسفة التكنولوجيا 
 active_start: 1953
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة التكنولوجيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-technology", target_type: "مدرسة"
 related:
-  - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
-  - id: "thk-heidegger-technology", title: "مارتن هايدجر", type: "مفكر"
+- id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
+- id: "thk-heidegger-technology", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Vorträge und Aufsätze (1954)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الإطار (Gestell)

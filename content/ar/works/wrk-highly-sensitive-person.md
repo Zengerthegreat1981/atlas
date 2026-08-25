@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 1996
 active_end: 1996
 edges:
-  - rel: "belongs_to", target: "علم النفس الإكلينيكي وحساسية المعالجة الحسية", target_type: "مدرسة"
-  - rel: "written_by", target: "إيلين آرون", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الإكلينيكي وحساسية المعالجة الحسية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-elaine-aron", target_type: "مفكر"
 related:
-  - id: "thk-elaine-aron", title: "إيلين آرون", type: "مفكر"
+- id: "con-highly-sensitive-person", title: "الشخص عالي الحساسية (حساسية المعالجة الحسية HSP)", type: "مفهوم"
+- id: "thk-elaine-aron", title: "إيلين آرون", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

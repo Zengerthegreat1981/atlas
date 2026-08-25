@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← توني فو�
 dates: "سويسرا · 1888–1953"
 country: "سويسرا"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: 1953
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-  - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
+- id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "سيرتها الكاملة وموقعها الدقيق من نظرية الأنماط النفسية مقارنة بيونغ وفون فرانتس تحتاج تحقيقاً معمّقاً."

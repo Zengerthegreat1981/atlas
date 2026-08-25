@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 2013
 active_end: 2013
 edges:
-  - rel: "belongs_to", target: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 related:
-  - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
-  - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Milkweed Editions الأصلية (2013)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ضفائر العشب الحلو (Braiding Sweetgrass, 2013)

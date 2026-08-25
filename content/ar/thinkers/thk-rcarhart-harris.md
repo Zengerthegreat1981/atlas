@@ -10,14 +10,18 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2009
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← روبن كارهارت-هاريس"
 edges:
-  - rel: "belongs_to", target: "العلاج بمساعدة النفسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بمساعدة النفسانية", target_type: "مدرسة"
 related:
-  - id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
-  - id: "thk-cgrob", title: "تشارلز غروب", type: "مفكر"
+- id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
+- id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
+- id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رولاند غريفيثز (thk-griffiths)."
 ---
 
 # روبن كارهارت-هاريس

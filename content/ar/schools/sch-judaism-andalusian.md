@@ -13,12 +13,19 @@ language: "العربية، العبرية"
 active_start: 1000
 active_end: 1300
 edges:
-  - rel: "evolved_from", target: "الفلسفة اليهودية الهلنستية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الفلسفة الإسلامية المشائية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-judaism-hellenistic", target_type: "مدرسة"
+- rel: "evolved_from", target: "الفلسفة الإسلامية المشائية", target_type: "مدرسة"
 related:
-  - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-  - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-  - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
+- id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية", type: "مدرسة"
+- id: "thk-saadia-gaon", title: "سعديا بن يوسف الفيومي (رأس جاؤون)", type: "مفكر"
+- id: "con-negative-attributes", title: "الصفات السلبية (Via Negativa)", type: "مفهوم"
+- id: "con-prophetic-philosophy", title: "الفلسفة النبوية (نقد العقل الفلسفي لصالح الوحي)", type: "مفهوم"
+- id: "wrk-fons-vitae", title: "ينبوع الحياة (Fons Vitae)", type: "عمل / كتاب"
+- id: "wrk-guide-for-perplexed", title: "دلالة الحائرين (Moreh Nevukhim)", type: "عمل / كتاب"
+- id: "wrk-kuzari", title: "الكتاب الحجازي (Kuzari)", type: "عمل / كتاب"
+- id: "dbt-ibn-maymun-vs-halevi", title: "ابن ميمون ضد يهوذا اللاوي: العقل الفلسفي أم الوحي التاريخي؟", type: "جدل"
 gaps:
   - "نصوص ابن جابيرول ويهودا اللاوي بالعبرية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'دلالة الحائرين' أو 'ينكار' أو 'العسقلاني'."

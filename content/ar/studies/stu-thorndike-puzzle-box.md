@@ -8,10 +8,12 @@ en: "Thorndike's Puzzle Box Experiments and Law of Effect"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب ثورندايك لصناديق الألغاز"
 active_start: 1898
 active_end: 1911
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "مقارنة التعلّم بالمحاولة والخطأ لثورندايك بالتعلّم بالاستبصار لكوهلر (Köhler) تتطلب توثيقاً نقدياً"
   - "تعديل ثورندايك لقانون الأثر عام 1932 بتقليص دور العقاب يحتاج مراجعة تاريخية"

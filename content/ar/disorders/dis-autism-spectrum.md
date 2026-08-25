@@ -11,16 +11,24 @@ icd11_code: "6A02"
 active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-  - rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-  - id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-behavioral-rehearsal", title: "التكرار السلوكي (Behavioral Rehearsal)", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة (Habit Reversal Training)", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-pres-mindful-breathing", title: "التنفس اليقظ", type: "تقنية/تدخل علاجي"
-  - id: "tec-sandplay-therapy", title: "العلاج بالرمل", type: "تقنية/تدخل علاجي"
-  - id: "con-aba-autism", title: "تحليل السلوك التطبيقي (ABA) والتوحد", type: "مفهوم"
+- id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-behavioral-rehearsal", title: "التكرار السلوكي (Behavioral Rehearsal)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة (Habit Reversal Training)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-breathing", title: "التنفس اليقظ", type: "تقنية/تدخل علاجي"
+- id: "tec-sandplay-therapy", title: "العلاج بالرمل", type: "تقنية/تدخل علاجي"
+- id: "con-aba-autism", title: "تحليل السلوك التطبيقي (ABA) والتوحد", type: "مفهوم"
+- id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-fragile-x-behavioral", title: "متلازمة الصبغي X الهش السلوكية المعرفية", type: "متلازمة"
+- id: "syn-landau-kleffner", title: "متلازمة لانداو–كليفنر (الحبسة الصرعية المكتسبة)", type: "متلازمة"
+- id: "syn-williams-behavioral", title: "متلازمة ويليامز السلوكية المعرفية (فرط الاجتماعية والطلاقة اللفظية)", type: "متلازمة"
+- id: "stu-heider-simmel-apparent-behavior", title: "تجربة فريتز هايدر وماريان سيمل للإدراك السببي والاجتماعي (1944)", type: "دراسة وبحث"
+- id: "ins-m-chat-r-autism", title: "القائمة المعدلة للتوحد لدى الأطفال الصغار مع المتابعة (M-CHAT-R/F)", type: "أداة قياس"
 gaps:
   - "اضطراب طيف التوحد اضطراب نمائي عصبي؛ التدخل الدوائي يستهدف الأعراض المُصاحبة فقط (التهيّج، الاكتئاب، النوبات)، ولا توجد أدوية تعالج جوهر الطيف."
   - "الأساس العلاجي هو التعليم المُهيكَل (ABA)، النطق، العلاج الوظيفي، التدخل المُبكِّر — لا CBT/ACT/DBT كعلاجات مستقلة."
@@ -79,3 +87,7 @@ ICD-11 يستخدم تسمية "اضطراب طيف التوحد" مع تقسي�
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - National Institute for Health and Care Excellence (NICE). *Autism spectrum disorder in under 19s: support and management*.
 - Volkmar, F. R., et al. *Handbook of Autism and Pervasive Developmental Disorders*.
+
+## التطور التاريخي في DSM
+
+كان «الاضطراب النمائي الشامل غير المحدد» (PDD-NOS) ومتلازمة هيلر فئتين شائعتين في DSM-IV للحالات غير النمطية؛ وقد أُلغي استقلالهما في DSM-5 ودُمجا كلياً ضمن «اضطراب طيف التوحد» (ASD) مع تحديد شدة الدعم المطلوبة.

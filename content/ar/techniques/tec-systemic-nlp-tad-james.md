@@ -8,12 +8,13 @@ en: "Systemic NLP (Tad James)"
 crumb: "التنويم وNLP ← التقنيات ← NLP النظامي"
 active_start: 1989
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "NLP النظامي", target_type: "مدرسة"
-  - rel: "developed_by", target: "تاد جيمس", target_type: "مفكر"
+- rel: "belongs_to", target: "tec-systemic-nlp-tad-james", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-tjames", target_type: "مفكر"
 related:
-  - id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
-  - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
+- id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
+- id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 gaps:
   - "تاريخ تأسيس Time Line Therapy™ Association لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

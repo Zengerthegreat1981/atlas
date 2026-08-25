@@ -9,12 +9,13 @@ crumb: "الاضطرابات والحالات الإكلينيكية ← الت�
 active_start: 1980
 active_end: 2013
 language: "متعدد اللغات"
+part: "psychology"
 edges:
-  - rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
+- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
 related:
-  - id: "dis-gender-dysphoria", title: "اضطراب الهوية الجنسية (Gender Dysphoria)", type: "اضطراب/حالة إكلينيكية"
-  - id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي والإحصائي الخامس DSM-5", type: "حدث تاريخي"
-  - id: "tec-affirmative-therapy", title: "العلاج التأكيدي", type: "تقنية/تدخل علاجي"
+- id: "dis-gender-dysphoria", title: "اضطراب الهوية الجنسية (Gender Dysphoria)", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي والإحصائي الخامس DSM-5", type: "حدث تاريخي"
+- id: "tec-affirmative-therapy", title: "العلاج التأكيدي", type: "تقنية/تدخل علاجي"
 gaps:
   - "المقارنة النصية الدقيقة لمعايير DSM-III (1980) مقابل DSM-IV (1994) تحتاج مراجعة أرشيفية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

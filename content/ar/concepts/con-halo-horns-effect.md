@@ -11,10 +11,13 @@ crumb: "علم النفس الاجتماعي والمعرفي ← المفاهي
 active_start: 1920
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
 related:
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-  - id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "أبحاث إدوارد ثورندايك (Edward Thorndike 1920) الأصلية على تقييمات الضباط للجنود."
   - "لا يوجد اقتباس مباشر موثوق متاح."

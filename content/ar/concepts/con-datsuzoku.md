@@ -10,14 +10,17 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← الليبرال�
 active_start: 1906
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
 related:
-  - id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
+- id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الليبرالية اليابانية الحديثة» (sch-japanese-liberalism-modern) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "المفهوم متداخل بين عدة مفكرين يابانيين (Nishida، Tanizaki، Yoshida)، يحتاج تمييز دقيق."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
-
 ---
 
 # الانفصال عن السلطة (Datsuzoku 脱俗)

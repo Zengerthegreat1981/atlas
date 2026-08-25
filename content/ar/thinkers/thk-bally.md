@@ -11,12 +11,13 @@ active_start: 1945
 active_end: 1945
 country: "سويسرا"
 language: "الألمانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-  - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتاباته حول اللعب والحرية والتحليل النفسي لم تُترجم بشكل كافٍ للعربية وتتطلب بحثاً في الأدبيات السويسرية الأولية."
@@ -40,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-من مجال حرية اللعب (Vom Ursprung und von den Grenzen der Freiheit: Eine Deutung des Spiels bei Tier und Mensch, 1945).
+في أصل الحرية وحدودها: تأويل للّعب عند الحيوان والإنسان (Vom Ursprung und von den Grenzen der Freiheit, 1945).

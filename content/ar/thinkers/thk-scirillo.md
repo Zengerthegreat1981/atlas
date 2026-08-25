@@ -10,13 +10,16 @@ country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← ستيفانو تشيريلو"
 edges:
-  - rel: "belongs_to", target: "العلاج الأسري الميلاني", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري الميلاني", target_type: "مدرسة"
 related:
-  - id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لويجي بوسكولو (thk-boscolo)."
 ---
 
 # ستيفانو تشيريلو

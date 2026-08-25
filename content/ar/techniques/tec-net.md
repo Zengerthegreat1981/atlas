@@ -11,11 +11,14 @@ dates: "جامعة كونستانز · بداية الألفية الثالثة"
 active_start: 2005
 active_end: "مستمر"
 language: "الإنجليزية / الألمانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
+- id: "thk-schauer", title: "ماغي شاور", type: "مفكر"
+- id: "tec-stair-nt", title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات للصدمة (STAIR-NT)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بروتوكول خط الحياة (Lifeline) المزين بالزهور والأحجار في كتاب ماغي شاور وتوماس إلبيرت وفرانك نويز (Schauer, Neuner, Elbert)."
   - "تطبيقات NET الميدانية في مناطق النزاعات والحروب ومعسكرات اللاجئين وضحايا التعذيب المنظم."

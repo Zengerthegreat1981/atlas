@@ -8,9 +8,13 @@ en: "Ross's Fundamental Attribution Error Quiz Show Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة خطأ الإسناد الأساسي لروس"
 active_start: 1977
 active_end: 1977
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي (عزو تصرفات الآخرين لطباعهم وتصرفاتنا للظروف)", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 gaps:
   - "تباين حجم خطأ الإسناد في المجتمعات الشرق آسيوية مقارنة بالمجتمعات الغربية يحتاج توثيقاً من دراسات نيسبيت"
   - "التفاعل بين الإسناد السببي والتحيز لخدمة الذات يتطلب فحصاً في سياقات القيادة والمؤسسات"

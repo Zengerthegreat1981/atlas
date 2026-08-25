@@ -6,16 +6,20 @@ level: "متقدم"
 title: "سوسيولوجيا الحياة اليومية (هيلر)"
 en: "Everyday Life (Heller, 1970/1984)"
 crumb: "المدرسة الوجودية ← الأعمال ← سوسيولوجيا الحياة اليومية (هيلر)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
-  - id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-heller", title: "أغنيس هيلر", type: "مفكر"
+- id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "كتاب هيلر 'Everyday Life' (1970/1984) يحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # سوسيولوجيا الحياة اليومية (1970/1984)

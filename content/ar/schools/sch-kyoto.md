@@ -14,10 +14,15 @@ active_start: 1913
 active_end: 1945
 active_source: "lifespan"
 edges:
-  - rel: "split_into", target: "ما بعد مدرسة كيوتو", target_type: "مدرسة"
+- rel: "split_into", target: "sch-post-kyoto", target_type: "مدرسة"
 related:
-  - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
-  - id: "con-basho-logic", title: "منطق المكان (Basho)", type: "مفهوم"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
+- id: "con-basho-logic", title: "منطق المكان (Basho)", type: "مفهوم"
+- id: "sch-post-kyoto", title: "ما بعد مدرسة كيوتو", type: "مدرسة"
+- id: "thk-hajime-tanabe", title: "هاجيمي تانيبي", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«البوذية اليابانية» (sch-buddhism-japanese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«البوذية الصينية» (sch-buddhism-chinese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

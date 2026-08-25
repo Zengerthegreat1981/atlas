@@ -9,10 +9,12 @@ en: "Baddeley & Hitch Working Memory Study"
 crumb: "علم النفس المعرفي والذاكرة ← الدراسات والأبحاث ← دراسة باديلي وهيتش للذاكرة العاملة"
 active_start: 1974
 active_end: 1974
-edges: []
+edges:
+  []
 related:
-  - id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي", type: "متلازمة"
-  - id: "stu-miller-magical-number-seven", title: "دراسة ميلر والرقم السحري سبعة", type: "دراسة وبحث"
+- id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي", type: "متلازمة"
+- id: "stu-miller-magical-number-seven", title: "دراسة ميلر والرقم السحري سبعة", type: "دراسة وبحث"
+- id: "ins-corsi-block-tapping", title: "اختبار كورسي للنقر على المكعبات والذاكرة الفضائية (Corsi Block)", type: "أداة قياس"
 gaps:
   - "إضافة 'الخابية العرضية' (Episodic Buffer) للنموذج بواسطة باديلي عام 2000."
   - "لا يوجد اقتباس مباشر موثوق متاح."

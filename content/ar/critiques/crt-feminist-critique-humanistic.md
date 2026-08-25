@@ -8,23 +8,24 @@ en: "Feminist Critique of Humanistic Therapy: Self-Actualization as an Androcent
 crumb: "النقد الخارجي ← النقد النسوي ← النقد النسوي للعلاج الإنساني"
 active_start: 1972
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "relates_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
-  - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
-  - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات (ماسلو)", type: "تيار"
-  - id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
+- id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
+- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات (ماسلو)", type: "تيار"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "crt-critique-of-humanistic-therapy", title: "نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟", type: "نقد خارجي موثَّق"
 gaps:
   - "تفاصيل نقد Chesler (1972) لروجرز تحديداً — لا اقتباس مباشر."
   - "موقف ماسلو نفسه من النساء كـ'ذوات نفس' (نادراً ما ناقش) — لا مراجعة نصية."
   - "موقف Relational-Cultural Theory (Miller، 1976) كنموذج بديل — ما إذا كان 'إصلاح' أو 'استبدال' للعلاج الإنساني — غير محسوم."
 ---
-
 # النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري
 
 نقد نسوي من خارج الإطار الإنساني-الوجودي، يطعن في افتراض أن "تحقيق الذات" (Self-Actualization) **محايد جنسانياً**، بل إنها في صياغة ماسلو (1943) **ترسم صورة "للإنسان الكامل" مأخوذة من النموذج الذكوري** (المستقل، الفردي، المبدع، المنتج)، وتُهمل النموذج **العلائقي** الأنثوي. النتيجة: "تحقيق الذات" = "أن تصبح رجلاً" تحت قناع "إنسان".

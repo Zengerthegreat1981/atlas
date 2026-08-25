@@ -10,15 +10,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← كارول أندرسون"
 edges:
-  - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
+- rel: "belongs_to", target: "التثقيف النفسي", target_type: "تيار"
 related:
-  - id: "thk-jcawley", title: "جوليا كاولي", type: "مفكر"
-  - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
-  - id: "br-psychoeducation", title: "التثقيف النفسي", type: "مفكر"
+- id: "br-psychoeducation", title: "التثقيف النفسي", type: "تيار"
+- id: "thk-dhanna", title: "فرانك غولدشتاين", type: "مفكر"
+- id: "thk-dknab", title: "دوغلاس كناب", type: "مفكر"
+- id: "thk-dmueser", title: "كيم ميوزر", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا كاولي (thk-jcawley)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."
 ---
 
 # كارول أندرسون
@@ -28,7 +33,7 @@ gaps:
 ## ما أعطته
 
 - **"التثقيف النفسي للأسرة"** (Family Psychoeducation, 1980): تطوير برامج تثقيفية للأسر ذات الأطفال ذوي الاضطرابات النفسية.
-- **"PROACT"** (Program for Assertive Community Treatment): تطوير برامج العلاج المجتمعي الفعّال.
+- **"العلاج المجتمعي الحازم"** (Assertive Community Treatment — ACT): إسهام في تطوير برامج المتابعة المجتمعية المكثّفة.
 - **"التعليم الأسري"** (Family Education): دراسات حول أثر البرامج التثقيفية على جودة حياة الأسر.
 - **"تدريب المهنيين"**: تطوير برامج تدريب للمهنيين الصحيين على التثقيف النفسي.
 

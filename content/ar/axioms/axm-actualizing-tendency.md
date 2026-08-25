@@ -6,14 +6,17 @@ level: "مبتدئ"
 title: "مبدأ نزعة التحقق الذاتي"
 en: "Axiom of the Actualizing Tendency"
 crumb: "الإنسانية ← البديهيات ← مبدأ نزعة التحقق الذاتي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "formulated_by", target: "كارل روجرز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-rogers", target_type: "مفكر"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-  - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
-  - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."
   - "الفرق بين 'البديهية' و'الفرضية' في نظرية روجرز يحتاج تحليل فلسفي."

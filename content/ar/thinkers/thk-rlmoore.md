@@ -9,10 +9,15 @@ crumb: "التحليل النفسي ← الناس ← كلاسيكي-ذكوري
 dates: "أمريكا · 1942–2016"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 2016
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "التفاصيل المتأخرة لحياته (العنف الأسري، 2016) تحتاج عرضاً حساساً ومؤرشفاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

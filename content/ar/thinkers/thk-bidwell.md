@@ -11,11 +11,13 @@ active_start: 2011
 active_end: 2018
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "أعماله في الإرشاد الرعائي الوجودي والتعددية الدينية والروحية تحتاج توثيقاً."
@@ -39,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-عندما تلتقي البوذية بالمسيحية في الإرشاد (When One Religion Isn't Enough, 2018) · الإرشاد الروحي الوجودي (Spirituality and Healthcare, 2011).
+حين لا يكفي دينٌ واحد (When One Religion Isn't Enough, 2018) · الروحانية والرعاية الصحية (Spirituality and Healthcare, 2011).

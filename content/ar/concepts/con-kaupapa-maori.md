@@ -8,13 +8,19 @@ en: "Kaupapa Māori"
 crumb: "أطر غير غربية ← المفاهيم ← كاوبابا ماوري"
 active_start: 1980
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
 related:
-  - id: "thk-gsmith", title: "غراهام سميث", type: "مفكر"
+- id: "thk-angusmacfarlane", title: "أنغوس ماكفارلن", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "العلاقة بين Kaupapa Māori والمناهج النسوية-ماورية (Feminist Kaupapa) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: غراهام سميث (thk-gsmith)."
 ---
 
 # كاوبابا ماوري (Kaupapa Māori)

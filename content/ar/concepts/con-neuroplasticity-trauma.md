@@ -1,7 +1,7 @@
 ---
 slug: "con-neuroplasticity-trauma"
-id: "THK-2163"
-type: "مفكر"
+id: "CON-1262"
+type: "مفهوم"
 level: "متوسط"
 title: "المرونة العصبية في سياق الصدمة"
 en: "Neuroplasticity in Trauma Context
@@ -10,17 +10,20 @@ country: "[DRAFT-UNKNOWN]"
 active_start: 2000
 active_end: "مستمر"
 language: "[DRAFT-UNKNOWN]"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "العلاج المتمركز حول الصدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-  - id: "con-trauma", title: "الصدمة", type: "مفكر"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-robert-sapolsky", title: "روبرت سابولسكي", type: "مفكر"
+- id: "wrk-emdr-1995", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (1995)", type: "عمل / كتاب"
+- id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
+- id: "con-trauma", title: "الصدمة", type: "مفهوم"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "المفهوم في سياق الصدمة صاغه بيسيل فان دير كولك في كتابه 'الجسد يحتفظ بالأرقام' (2014)."
   - "التجارب المعشاة تُظهر تغيرات هيكلية في الحُصين (Hippocampus) واللوزة الدماغية بعد العلاج النفسي الفعال."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
-
 # المرونة العصبية في سياق الصدمة
 
 مفهوم في علم الأعصاب المعاصر يصف قدرة الدماغ على إعادة الهيكلة الوظيفية والهيكلية استجابةً للتجارب، وهو الأساس النظري لمعظم علاجات الصدمات الحديثة.

@@ -11,16 +11,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي السلوكي (CBT)", target_type: "مدرسة"
 related:
-  - id: "thk-mtsai", title: "مافيس تساي", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-  - id: "tec-fap", title: "العلاج النفسي التحليلي الوظيفي (FAP)", type: "تقنية/تدخل علاجي"
+- id: "thk-mtsai", title: "مافيس تساي", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "tec-fap", title: "العلاج النفسي التحليلي الوظيفي (FAP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."
   - "سيرته المهنية الكاملة وأدواره في جامعة واشنطن — موضع بحث."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مافيس تساي (thk-mtsai)."
 ---
 
 # روبرت ج. كولنبرغ

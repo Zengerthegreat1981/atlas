@@ -13,13 +13,13 @@ language: "العربية"
 active_start: 720
 active_end: 1000
 edges:
-  - rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
-  - rel: "superseded_by", target: "الأشعرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-ashariyya", target_type: "مدرسة"
 related:
-  - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
-  - id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"
-  - id: "sch-ibadi-kalam", title: "الكلام الإباضي", type: "مدرسة"
-  - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
+- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
+- id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"
+- id: "sch-ibadi-kalam", title: "الكلام الإباضي", type: "مدرسة"
+- id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
 gaps:
   - "تاريخ التأسيس الدقيق (حوالي 720م مع واصل بن عطاء) يحتاج توثيقاً من مصدر أولي."
   - "كثير من مؤلفاتهم الكبرى فقد ولم يبق منها إلا مقتطفات في كتب الطبري وابن النديم."

@@ -10,12 +10,18 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1954
 active_end: 2004
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← بيتر سليد"
 edges:
-  - rel: "belongs_to", target: "علاج الدراما", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج الدراما", target_type: "مدرسة"
 related:
-  - id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
+- id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
+- id: "thk-aboal", title: "أوغوستو بوال", type: "مفكر"
+- id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
+- id: "thk-zmoreno", title: "زيركا مورينو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # بيتر سليد

@@ -10,12 +10,16 @@ crumb: "المدرسة الوجودية ← الأعمال ← العلاجات 
 dates: "2003 · 2017 · ميك كوبر"
 active_start: 2003
 active_end: 2017
+part: "philosophy"
 edges:
-  - rel: "written_by", target: "ميك كوبر", target_type: "مفكر"
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-cooper", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-cooper", title: "كوبر", type: "مفكر"
-  - id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "thk-cooper", title: "كوبر", type: "مفكر"
+- id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

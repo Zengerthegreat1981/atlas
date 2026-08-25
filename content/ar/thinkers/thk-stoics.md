@@ -9,16 +9,21 @@ crumb: "المدرسة الوجودية ← الناس ← الرواقيون"
 dates: "اليونان / روما · القرن الرابع ق.م – القرن الثاني الميلادي"
 country: "اليونان / روما القديمة"
 language: "اليونانية / اللاتينية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "ctx-stoicism", title: "الفلسفة الرواقية", type: "سياق/تقليد"
 gaps:
   - "مفهوم 'ثنائية التحكم' (Dichotomy of Control) عند إبيكتيتوس وأثره على الحرية الداخلية يستحق إدراجاً مفاهيمياً."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الرواقيون (سينيكا وإبيكتيتوس)

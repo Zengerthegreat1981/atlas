@@ -13,13 +13,14 @@ language: "الإسبانية، البرتغالية"
 active_start: 1965
 active_end: 1980
 edges:
-  - rel: "evolved_from", target: "الماركسية الكلاسيكية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-marxism", target_type: "مدرسة"
 related:
-  - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
-  - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
-  - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 gaps:
   - "نصوص Prebisch, Furtado, Cardoso & Faletto, Andre Gunder Frank, Samir Amin need review."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # نظرية التبعية (Dependency Theory)

@@ -8,22 +8,23 @@ en: "Psychoanalysis and Somatic Therapy: Reich as Schism, Levine as Bridge"
 crumb: "التحليل النفسي ← العلاقات ← التحليل النفسي والجسدية"
 active_start: 1933
 active_end: "مستمر"
+part: "bridge"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "relates_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "relates_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
 related:
-  - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
-  - id: "br-vegetotherapy-orgonomy", title: "العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية)", type: "تيار"
-  - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-  - id: "thk-reich", title: "فيلهلم رايش", type: "مفكر"
-  - id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
-  - id: "thk-pogden-hakomi", title: "بات أوغدن", type: "مفكر"
-  - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
-  - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
+- id: "br-vegetotherapy-orgonomy", title: "العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية)", type: "تيار"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "rel-positive-humanistic", title: "علم النفس الإيجابي والإنسانية: من Maslow إلى Seligman", type: "علاقة بين مدرستين"
 gaps:
   - "ما إذا كان رايخ قد طُرد فعلاً من IPA بسبب 'الانحرافات السياسية' أم بسبب 'الجنون' الأكاديمي — يحتاج توثيقاً تاريخياً (Sharaf، 1983، *Fury on Earth*)."
   - "تفاصيل مغادرة رايخ في 1934 من فيينا — التواريخ الدقيقة، الظروف الشخصية (شخصيته كانت تتفكك)."
   - "لا يوجد اقتباس مباشر موثوق متاح من فرويد عن رايخ بعد الانشقاق."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
 
 # التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر

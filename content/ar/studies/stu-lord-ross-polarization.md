@@ -8,9 +8,11 @@ en: "Lord, Ross & Lepper Attitude Polarization Study"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة استقطاب المواقف للورد وروس"
 active_start: 1979
 active_end: 1979
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "تأثير الظاهرة في بيئات الخوارزميات وفقاعات الترشيح على منصات التواصل يحتاج مقارنة تجريبية"
   - "استراتيجيات إزالة التحيز المعرفي وتقليل الاستقطاب تحتاج استعراضاً للأدبيات التطبيقية اللاحقة"

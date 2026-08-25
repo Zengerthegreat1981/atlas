@@ -10,11 +10,16 @@ dates: "1945 · كارين هورناي"
 language: "الإنجليزية"
 active_start: 1945
 active_end: 1945
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "authored_by", target: "كارين هورناي", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "authored_by", target: "كارين هورناي", target_type: "مفكر"
 related:
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "الفرق بين نظرية هورناي في «صراعاتنا الداخلية» ونظرية الصراع الكلاسيكية (فرويد، أدلر) لم يُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

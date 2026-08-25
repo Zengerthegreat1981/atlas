@@ -7,17 +7,18 @@ title: "دونالد سنيغ"
 en: "Donald Snygg"
 crumb: "المدرسة الوجودية ← الناس ← دونالد سنيغ"
 dates: "أمريكا · 1904–1967"
-active_start: 1949
-active_end: 1949
+active_start: 1941
+active_end: 1967
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-  - id: "thk-combs", title: "آرثر كومبس", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-combs", title: "آرثر كومبس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "كتابه المشترك مع كومبس 'السلوك الفردي: مدخل فينومينولوجي' (1949) يمثل حجر زاوية يستحق إدراجه في الأعمال."

@@ -11,10 +11,10 @@ active_start: 1977
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا", type: "متلازمة"
+- id: "dis-body-dysmorphic-disorder", title: "اضطراب تشوه الجسد", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا", type: "متلازمة"
 gaps:
   - "أبحاث جون ماني (John Money 1977) ومايكل فيرست (Michael First 2005) ودراسات التصوير العصبي للقشرة الجدارية العليا."
   - "لا يوجد اقتباس مباشر موثوق متاح."

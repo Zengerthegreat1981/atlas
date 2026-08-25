@@ -13,19 +13,24 @@ language: "الإنجليزية"
 active_start: 1930
 active_end: 1970
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_from", target: "الذرية المنطقية", target_type: "مدرسة"
-  - rel: "superseded_by", target: "فلسفة اللغة المثالية/الشكلية المعاصرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-logical-atomism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-formal-phil-language", target_type: "مدرسة"
 related:
-  - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
-  - id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
-  - id: "thk-ryle", title: "جيلبرت رايل", type: "مفكر"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
+- id: "thk-pgrice", title: "هربرت باول غرايس", type: "مفكر"
+- id: "wrk-sense-and-sensibilia", title: "الإحساس والبيانات الحسية (Sense and Sensibilia)", type: "عمل / كتاب"
+- id: "thk-ge-moore", title: "جورج إدوارد مور", type: "مفكر"
+- id: "thk-rlmoore", title: "روبرت ل. مور", type: "مفكر"
+- id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«بيتر فريدريك ستراوسن» (thk-strawson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هربرت بول غرايس» (thk-grice) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «فلسفة اللغة العادية» عند أوستن وفلسفة اللغة العادية عند فيتغنشتاين المتأخر لم يُحلّل بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح من محاضرات أوستن حول «أفعال الكلام» (1955)."
   - "علاقة ستراوسن بـ«الوصفية» (Descriptivism) في فلسفة اللغة المعاصرة لم تُراجع."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيلبرت رايل (thk-ryle)."
 ---
 
 # فلسفة اللغة العادية (Ordinary Language Philosophy)

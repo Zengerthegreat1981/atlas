@@ -10,14 +10,14 @@ crumb: "الطاوية الفلسفية ← العلاقات عبر-القسمي
 active_start: 1970
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "الداووية الفلسفية", target_type: "مدرسة"
-  - rel: "relates_to", target: "العلاج الأسري والنظامي (Systemic/Family Therapy)", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
-  - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
-  - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
-  - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
-  - id: "thk-jseikkula", title: "جااككو سيكولا", type: "مفكر"
+- id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
+- id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
+- id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
+- id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
+- id: "thk-jseikkula", title: "جااككو سيكولا", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«غريغوري بيتسون» (thk-bateson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لا توجد إشارات صريحة من مؤسسي العلاج الأسري (Minuchin، Bowen، Whitaker) إلى الطاوية في أعمالهم المنشورة. التوثيق الأكاديمي للجسر الطاوي-النظامي يعتمد على المقارنات الفلسفية (McTaggart 2002، Papp 2008) لا على استشهاد مباشر."

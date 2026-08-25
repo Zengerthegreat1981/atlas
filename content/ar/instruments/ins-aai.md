@@ -8,9 +8,12 @@ en: "Adult Attachment Interview (AAI)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقابلة التعلّق للبالغين AAI"
 active_start: 1985
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "dbt-attachment-stability", title: "هل أنماط التعلق ثابتة حقاً؟", type: "جدل"
 gaps:
   - "قواعد غرايس للتخاطب (Grice's Conversational Maxims) وتطبيقاتها في تحليل نصوص AAI تحتاج توثيقاً لغوياً"
   - "التدريب المكثف والاعتماد الإلزامي لترميز المقابلة (AAI Reliability Coding) يتطلب تفصيلاً"

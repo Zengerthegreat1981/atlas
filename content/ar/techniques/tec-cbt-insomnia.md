@@ -11,10 +11,13 @@ dates: "الثمانينيات والتسعينيات"
 active_start: 1987
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "thk-morin", title: "تشارلز م. مورين", type: "مفكر"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "tec-ccbt", title: "العلاج المعرفي السلوكي المحوسب (cCBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج 3P للأرق المزمن لآرثر سبيلمان (Predisposing, Precipitating, Perpetuating factors)."
   - "بروتوكول تقييد النوم (Sleep Restriction Therapy) والتحكم في المثيرات (Stimulus Control)."

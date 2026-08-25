@@ -11,12 +11,14 @@ active_start: 2007
 active_end: 2014
 country: "بلجيكا"
 language: "الهولندية / الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "tec-four-existential-dimensions-healing", title: "الأبعاد الأربعة للشفاء: الجسدي، النفسي، الاجتماعي، الروحي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "نموذجها الرباعي للأبعاد الوجودية والروحية والجسدية للشفاء يستحق توثيقاً."

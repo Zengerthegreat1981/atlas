@@ -8,11 +8,15 @@ en: "Debate on Violent Video Games and Media Impact on Aggression"
 crumb: "المدرسة الوجودية ← الجدل والخلافات ← جدل تأثير الألعاب والشاشات العنيفة على العدوان"
 active_start: 1970
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-  - id: "stu-bandura-bobo-doll", title: "تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ", type: "دراسة وبحث"
-  - id: "stu-bandura-vicarious-reinforcement", title: "دراسات باندورا حول التعزيز غير المباشر وتثبيط السلوك بالملاحظة", type: "دراسة وبحث"
+- id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "stu-bandura-bobo-doll", title: "تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ", type: "دراسة وبحث"
+- id: "stu-bandura-vicarious-reinforcement", title: "دراسات باندورا حول التعزيز غير المباشر وتثبيط السلوك بالملاحظة", type: "دراسة وبحث"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "البيان الرسمي لجمعية علم النفس الأمريكية (APA 2020 Resolution) الذي فصل بين العدوان المعملي الطفيف والجريمة العنيفة يحتاج توثيقاً"
   - "أثر العوامل الأسرية والبيئية كمتغيرات وسيطة تفوق أثر المحتوى الرقمي يتطلب مراجعة مقارنة"

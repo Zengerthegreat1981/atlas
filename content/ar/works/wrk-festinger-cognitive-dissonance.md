@@ -10,11 +10,16 @@ dates: "1957 · ليون فيستنغر"
 language: "الإنجليزية"
 active_start: 1957
 active_end: 1957
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم النفس الاجتماعي", target_type: "مدرسة"
-  - rel: "authored_by", target: "ليون فيستنغر", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "authored_by", target: "ليون فيستنغر", target_type: "مفكر"
 related:
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "تجربة «الطائفة المنتحرة» (When Prophecy Fails, 1956) وتأثيرها على صياغة نظرية التنافر لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

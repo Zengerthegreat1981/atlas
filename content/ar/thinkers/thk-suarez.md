@@ -13,13 +13,14 @@ active_end: 1617
 country: "إسبانيا الفيليبية، روما"
 language: "اللاتينية"
 edges:
-  - rel: "belongs_to", target: "السكولاستية الثانية (إسبانيا، عصر النهضة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السكولاستية الثانية (إسبانيا، عصر النهضة)", target_type: "مدرسة"
 related:
-  - id: "sch-second-scholasticism", title: "السكولاستية الثانية (إسبانيا، عصر النهضة)", type: "مدرسة"
-  - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "sch-second-scholasticism", title: "السكولاستية الثانية (إسبانيا، عصر النهضة)", type: "مدرسة"
+- id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 gaps:
   - "تفاصيل موقفه من حق الملوك الإلهي (De Defensore Fidei) في خلافه مع الملك الإنجليزي جيمس الأول موضع بحث."
   - "لا يوجد اقتباس مباشر موثوق من 'Disputationes Metaphysicae'."
+  - "دُمج معه الملف المكرَّر thk-francisco-suarez (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
 # فرانسيسكو سواريز (Doctor Eximius)

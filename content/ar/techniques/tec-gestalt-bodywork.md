@@ -11,12 +11,13 @@ dates: "إيسالن · السبعينيات"
 active_start: 1972
 active_end: "مستمر"
 language: "الإنجليزية / الإسبانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "كلوديو نارانخو", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "كلوديو نارانخو", target_type: "مفكر"
 related:
-  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
-  - id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
 gaps:
   - "دمج كلوديو نارانخو (Claudio Naranjo) بين تقنيات الجشطالت والتدليك البنائي والوعي الحسي في معهد إيسالن."
   - "قراءة التوترات العضلية وإشارات الجسد اللاواعية وتجسيدها في تجارب حوارية حية."

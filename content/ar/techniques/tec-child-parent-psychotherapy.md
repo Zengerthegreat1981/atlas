@@ -11,11 +11,14 @@ dates: "سان فرانسيسكو · التسعينيات"
 active_start: 1995
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-lieberman", title: "ألسي ليبرمان (باتريسيا)", type: "مفكر"
+- id: "dis-reactive-attachment", title: "اضطراب التعلق التفاعلي", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "نموذج أليسيا ليبرمان وسيلما فرايبرغ (Lieberman & Fraiberg) في معالجة صدمات الطفولة المبكرة والعنف المنزلي للأطفال دون سن الخامسة."
   - "استعارة 'أشباح في غرفة الأطفال' (Ghosts in the Nursery) ومفهوم 'ملائكة في غرفة الأطفال' لدعم الأمان والترابط."

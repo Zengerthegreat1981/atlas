@@ -11,14 +11,18 @@ dates: "من 1981"
 active_start: 1981
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-downing", title: "كريستين داونينغ", type: "مفكر"
-  - id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
-  - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-downing", title: "كريستين داونينغ", type: "مفكر"
+- id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "استكشاف أساطير الإلهات اليونانيات كأنماط حية في الوعي الأنثوي المعاصر."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أركيتيبات الإلهات والصور الداخلية

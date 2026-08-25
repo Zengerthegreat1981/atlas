@@ -10,11 +10,13 @@ crumb: "النسوية الفلسفية ← جدل الكونية-الخصوصي
 active_start: 1981
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
-  - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
-  - id: "thk-cmohanty", title: "شاندرا موهانتي", type: "مفكر"
-  - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
+- id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
+- id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
+- id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "النصوص التأسيسية (hooks 1981, Mohanty 1984, Spivak 1988) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,14 +13,16 @@ language: "اللاتينية"
 active_start: 354
 active_end: 430
 edges:
-  - rel: "evolved_from", target: "الآبائية المسيحية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
-  - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
-  - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
-  - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
+- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
+- id: "con-divine-illumination", title: "الإشراق الإلهي (نظرية المعرفة الأوغسطينية)", type: "مفهوم"
+- id: "wrk-city-of-god", title: "مدينة الله (De Civitate Dei)", type: "عمل / كتاب"
 gaps:
   - "نصوص أوغسطينوس اللاتينية الـ 100+ تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'De Trinitate' أو 'De Civitate Dei'."

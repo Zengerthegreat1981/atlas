@@ -13,11 +13,14 @@ active_start: -475
 active_end: -221
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
-  - rel: "authored_by", target: "كونفوشيوس", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-confucius", target_type: "مفكر"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«كتاب منسيوس» (wrk-mengzi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«كتاب شون تزو» (wrk-xunzi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

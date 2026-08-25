@@ -11,10 +11,13 @@ crumb: "علم النفس المعرفي وسيكولوجيا الذاكرة ←
 active_start: 1979
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا الذاكرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا الذاكرة", target_type: "مدرسة"
 related:
-  - id: "wrk-eyewitness-testimony", title: "شهادة شهود العيان", type: "عمل / كتاب"
-  - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
+- id: "stu-loftus-palmer-car-crash", title: "تجربة لوفتوس وبالمر حول تأثير صياغة الأسئلة على تذكر حوادث السيارات", type: "دراسة وبحث"
+- id: "wrk-eyewitness-testimony", title: "شهادة شهود العيان", type: "عمل / كتاب"
+- id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تجارب زرع الذكريات الزائفة (Lost in the Mall Technique) لإليزابيث لوفتوس."
   - "لا يوجد اقتباس مباشر موثوق متاح."

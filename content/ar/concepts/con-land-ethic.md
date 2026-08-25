@@ -10,13 +10,16 @@ crumb: "الفلسفة ← العابرة ← فلسفة البيئة ← أخل
 active_start: 1949
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "فلسفة البيئة / الأخلاق البيئية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
-  - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
-  - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press الأصلية (1949)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أخلاق الأرض (Land Ethic)

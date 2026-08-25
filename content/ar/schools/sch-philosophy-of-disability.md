@@ -13,10 +13,15 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفات العابرة للمناطق", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-  - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
-  - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
+- id: "wrk-disability-rights-wrongs", title: "حقوق وأخطاء الإعاقة (Disability Rights and Wrongs)", type: "عمل / كتاب"
+- id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«النسوية» (sch-feminism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Eva Kittay, Lennard Davis, Tom Shakespeare, Michael Bérubé, Sunaura Taylor, Rosemarie Garland-Thomson need review."

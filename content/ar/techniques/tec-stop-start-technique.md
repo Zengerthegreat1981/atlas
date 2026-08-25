@@ -11,19 +11,19 @@ dates: "James Semans · 1956"
 active_start: 1956
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-  - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
-  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "معدّلات النجاح المبلَّغة في Semans الأصلية (1956) مقابل الدراسات اللاحقة لم تُقارَن في هذا المسودة."
   - "البروتوكولات المكيّفة للرجال المثليين والرجال الذين يمارسون الجنس مع رجال لم تُفصَّل."
   - "التطبيق مع الحالات المكتسبة (acquired) مقابل الأولية (lifelong) — الفروق في الاستجابة لم تُراجَع."
   - "لا توجد دراسات عشوائية محكَّمة حديثة كافية الحجم لتقارن Stop-Start وحده مع التوليفات الدوائية."
 ---
-
 # تقنية التوقف والبدء (Stop-Start)
 
 تقنية سلوكية لعلاج سرعة القذف (premature ejaculation) ابتكرها طبيب المسالك البولية James Semans في عام 1956. تتألف من تعلُّم الرجل التعرّف على لحظة "لا يمكن العودة منها" (point of no return) قبل القذف، ثم التوقّف مؤقتاً عن التحفيز الجنسي حتى تنخفض الإثارة، ثم الاستئناف، مع تكرار الدورة لتمديد الزمن قبل القذف.

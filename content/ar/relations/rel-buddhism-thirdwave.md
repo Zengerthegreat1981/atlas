@@ -10,17 +10,17 @@ crumb: "البوذية المبكرة ← العلاقات عبر-القسمية
 active_start: 1979
 active_end: "مستمر"
 edges:
-  - rel: "relates_to", target: "البوذية المبكرة", target_type: "مدرسة"
-  - rel: "relates_to", target: "الموجة الثالثة من العلاجات المعرفية-السلوكية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-buddhism-early", target_type: "مدرسة"
+- rel: "relates_to", target: "الموجة الثالثة من العلاجات المعرفية-السلوكية", target_type: "مدرسة"
 related:
-  - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-  - id: "thk-hayes-steven", title: "ستيفن سي. هايز", type: "مفكر"
-  - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-  - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-  - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
-  - id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"
-  - id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة", type: "علاقة بين مدرستين"
-  - id: "rel-cbt-nonwestern", title: "المعرفية-السلوكية والأطر غير الغربية", type: "علاقة بين مدرستين"
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
+- id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
+- id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"
+- id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة", type: "علاقة بين مدرستين"
+- id: "rel-cbt-nonwestern", title: "المعرفية-السلوكية والأطر غير الغربية", type: "علاقة بين مدرستين"
 gaps:
   - "الفجوة بين 'البوذية كأثر فلسفي' على المؤسسين (كابات-زين، لينهان) و'البوذية كمرجعية' في كتبهم — تحتاج قراءة نقدية لمصادرهم."
   - "علاقة كابات-زين بتيك نات هان (Thich Nhat Hanh) — التقى به في الثمانينيات، لكنه ينفي أن يكون 'لاهثاً صوفياً'، يؤكد 'تدريباً ذهنياً'. التوثيق الدقيق مفقود."

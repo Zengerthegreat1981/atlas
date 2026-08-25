@@ -11,11 +11,12 @@ dates: "التسعينيات"
 active_start: 1993
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-  - id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
-  - id: "br-liberation-psychology", title: "علم نفس التحرير", type: "تيار"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
+- id: "br-liberation-psychology", title: "علم نفس التحرير", type: "تيار"
 gaps:
   - "نموذج لينا دومينيلي (Lena Dominelli) ونيل طومسون (Neil Thompson) لنموذج PCS لتحليل القهر (الشخصي، الثقافي، والهيكلي)."
   - "التطبيق الإكلينيكي في العمل الاجتماعي والعلاج النفسي لمواجهة العنصرية والطبقية وتهميش الفئات المستضعفة."

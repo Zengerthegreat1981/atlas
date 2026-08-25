@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← لورنز ف�
 dates: "جنوب أفريقيا / بريطانيا · 1906–1996"
 country: "بريطانيا (بالتبنّي)"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: 1996
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
-  - id: "thk-iplayer", title: "إيان بلاير", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
+- id: "thk-iplayer", title: "إيان بلاير", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "علاقته الشخصية مع الأمير تشارلز (صديق مقرب) و تأثيره على العائلة المالكة — موضع بحث."

@@ -6,21 +6,22 @@ level: "متقدم"
 title: "لويس غوردون"
 en: "Lewis Gordon"
 crumb: "المدرسة الوجودية ← الناس ← لويس غوردون"
-dates: "أمريكا · معاصر"
+dates: "جامايكا / الولايات المتحدة · 1962–"
 active_start: 1995
 active_end: 2022
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-  - id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'سوء الإيمان والوجودية السوداء' (Bad Faith and Antiblack Racism, 1995) يستحق توثيقاً."
+  - "مفهومه عن «الإلهيات الاستعمارية» (Theodicy of Coloniality) وقراءته لفانون بوصفه فيلسوفاً لا طبيباً نفسياً وحده يستحقّان ملفّ مفهوم مستقلاً."
 ---
 
 # لويس غوردون
@@ -41,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-سوء الإيمان والعنصرية ضد السود (Bad Faith and Antiblack Racism, 1995) · الوجودية الأفريكانية (Existentia Africana, 2000) · ما قاله فانون (What Fanon Said, 2015) · الخوف من الحرية السوداء (Fear of Black Consciousness, 2022).
+سوء الإيمان والعنصرية ضد السود (Bad Faith and Antiblack Racism, 1995) · الوجودية الأفريكانية (Existentia Africana, 2000) · ما قاله فانون (What Fanon Said, 2015) · الخوف من الوعي الأسود (Fear of Black Consciousness, 2022).

@@ -11,10 +11,10 @@ active_start: 2008
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delusional", title: "اضطراب التوهم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث الأخوين إيان وجويل غولد (Ian & Joel Gold 2008) في الطب النفسي العصبي المعاصر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

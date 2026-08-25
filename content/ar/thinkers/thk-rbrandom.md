@@ -13,10 +13,10 @@ language: "الإنجليزية"
 active_start: 1976
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "البراغماتية الجديدة (Neopragmatism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "البراغماتية الجديدة", target_type: "مدرسة"
 related:
-  - id: "sch-neopragmatism", title: "البراغماتية الجديدة (Neopragmatism)", type: "مدرسة"
-  - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
+- id: "sch-neopragmatism", title: "البراغماتية الجديدة (Neopragmatism)", type: "مدرسة"
+- id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لعلاقة 'الاستدلالية' (inferentialism) بـ'المذهب الاجتماعي' عند براندوم لم تُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'بناء الفهم' (1994)."

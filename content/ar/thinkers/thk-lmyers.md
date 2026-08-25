@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ليندا جيمس مايرز"
 edges:
-  - rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
 related:
-  - id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
+- id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

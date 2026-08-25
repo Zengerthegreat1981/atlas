@@ -8,9 +8,11 @@ en: "Craik & Tulving Levels of Processing Experiments"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب مستويات المعالجة لكريك وتولفينغ"
 active_start: 1972
 active_end: 1975
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "wrk-uber-das-gedachtnis", title: "في الذاكرة", type: "عمل / كتاب"
+- id: "wrk-uber-das-gedachtnis", title: "في الذاكرة", type: "عمل / كتاب"
 gaps:
   - "الانتقاد الدائري (Circularity) لتعريف العمق المعرفي الذي وجهه بادلي (Baddeley) يحتاج استعراضاً نقدياً"
   - "تأثير التشفير المناسب للنقل (Transfer-Appropriate Processing) لموريس يضيف بعداً تصحيحياً مهماً"

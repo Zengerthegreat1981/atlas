@@ -11,11 +11,12 @@ dates: "كولورادو · السبعينيات"
 active_start: 1977
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "رون كورتز", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-rkurtz", target_type: "مفكر"
 related:
-  - id: "tec-focusing-oriented", title: "العلاج الموجه بالتركيز والإحساس المعيش", type: "تقنية/تدخل علاجي"
+- id: "tec-focusing-oriented", title: "العلاج الموجه بالتركيز والإحساس المعيش", type: "تقنية/تدخل علاجي"
 gaps:
   - "المبادئ الخمسة لهاكومي لرون كورتز (Ron Kurtz): اليقظة الذهنية، اللاعنف، تكامل الجسد والعقل، الوحدانية، والوعي العضوي للشفاء."
   - "تقنية 'التجارب في اليقظة الذهنية الصغرى' (Little Experiments in Mindfulness) واستكشاف المعتقدات الجوهرية المنظمة للذات."

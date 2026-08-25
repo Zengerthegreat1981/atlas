@@ -14,11 +14,12 @@ active_start: 1600
 active_end: 1900
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية الجديدة (مظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-  - id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
-  - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "thk-dai-zhen", title: "داي تشن", type: "مفكر"
 gaps:
   - "نصوص Gu Yanwu وDai Zhen الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين 'Han Learning' (Hanxue) و'Kaozheng' و'Song Learning' (Songxue) في الأدبيات الحديثة ليس حاسماً."

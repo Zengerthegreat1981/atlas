@@ -12,11 +12,14 @@ language: "الأكدية، السومرية"
 active_start: -2100
 active_end: -1200
 edges:
-  - rel: "belongs_to", target: "تقليد الحكمة الرافدية", target_type: "مدرسة"
-  - rel: "authored_by", target: "جلجامش (شخصية ملحمة)", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-mesopotamian-wisdom", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-gilgamesh", target_type: "مفكر"
 related:
-  - id: "thk-gilgamesh", title: "جلجامش", type: "مفكر"
-  - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
+- id: "thk-gilgamesh", title: "جلجامش", type: "مفكر"
+- id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لا يوجد مؤلف بعينه للنص، فالمعزّاة (نسخة سين-ليقي-أوننوي حوالي 1200 ق.م) مجهولة الهوية."
   - "لا اقتباس مباشر موثوق متاح بالنص الأكادي في طبعة عربية معتمدة."

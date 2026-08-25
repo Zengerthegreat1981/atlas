@@ -5,19 +5,24 @@ type: "مفكر"
 level: "مبتدئ"
 title: "آرثر شوهام"
 en: "Arthur Shoham"
-crumb: "br-brief-strategic-therapy ← العلاج الاستراتيجي المتعدّد ← آرثر شوهام"
+crumb: "العلاج القصير الاستراتيجي ← العلاج الاستراتيجي المتعدّد ← آرثر شوهام"
 dates: "الولايات المتحدة/إسرائيل · القرن العشرين–"
 country: "إسرائيل"
 language: "الإنجليزية/العبرية"
 active_start: 1980
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج القصير الاستراتيجي", target_type: "تيار"
 related:
-  - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "مفكر"
+- id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "تيار"
+- id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"
+- id: "thk-rviaro", title: "روبرتو فيارو", type: "مفكر"
+- id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورجيو ناردوني (thk-gnardone)."
 ---
 
 # آرثر شوهام

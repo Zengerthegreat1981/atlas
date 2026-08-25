@@ -10,12 +10,17 @@ country: "النرويج"
 language: "السويدية/الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← دان أولِس"
 edges:
-  - rel: "belongs_to", target: "علاج التنمر والعدوان", target_type: "مدرسة"
+- rel: "belongs_to", target: "علاج التنمر والعدوان", target_type: "مدرسة"
 related:
-  - id: "thk-jeberenz", title: "وولتر جِيمس أَولِس", type: "مفكر"
+- id: "thk-jeberenz", title: "وولتر جِيمس أَولِس", type: "مفكر"
+- id: "thk-krigby", title: "كن رِجباي", type: "مفكر"
+- id: "thk-petersmith", title: "بيتر سميث", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # دان أولِس

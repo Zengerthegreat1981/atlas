@@ -6,14 +6,17 @@ level: "متقدم"
 title: "الاغتراب — الماركسي مقابل الوجودي"
 en: "Alienation — Marxist vs Existentialist"
 crumb: "المدرسة الوجودية ← المفاهيم ← الاغتراب الماركسي مقابل الوجودي"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-  - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-  - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«لوس إريغاراي» (thk-luce-irigaray) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التحليل المقارن الدقيق بين ماركس في 'الخطوط الاقتصادية والفلسفية 1844' والوجوديين يستحق توثيقاً موسعاً في ملف مستقل."

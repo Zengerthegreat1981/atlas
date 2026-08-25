@@ -13,12 +13,14 @@ language: "اللاتينية"
 active_start: 1310
 active_end: 1500
 edges:
-  - rel: "belongs_to", target: "المدرسية (السكولاستية)", target_type: "مظلة"
-  - rel: "evolved_from", target: "السكوتّية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "evolved_from", target: "السكوتّية", target_type: "مدرسة"
 related:
-  - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-  - id: "sch-scotism", title: "السكوتّية", type: "مدرسة"
-  - id: "sch-conceptualism", title: "التصورية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scotism", title: "السكوتّية", type: "مدرسة"
+- id: "sch-conceptualism", title: "التصورية", type: "مدرسة"
+- id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
+- id: "dbt-realism-vs-nominalism", title: "الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟", type: "جدل"
 gaps:
   - "نصوص وليام أوكام اللاتينية تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق متاح من 'Summa Logicae' أو 'Quodlibeta'."

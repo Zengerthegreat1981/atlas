@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← جين هيوستن"
 edges:
-  - rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
+- rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
 related:
-  - id: "thk-werhard", title: "ويرنر إيرهارد", type: "مفكر"
+- id: "thk-werhard", title: "ويرنر إيرهارد", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

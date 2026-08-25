@@ -10,11 +10,16 @@ dates: "1969 · ألبرت باندورا"
 language: "الإنجليزية"
 active_start: 1969
 active_end: 1969
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "السلوكية", target_type: "مدرسة"
-  - rel: "authored_by", target: "ألبرت باندورا", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-abandura", target_type: "مفكر"
 related:
-  - id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
+- id: "wrk-power-of-habit", title: "قوة العادة: لماذا نفعل ما نفعل في الحياة والعمل", type: "عمل / كتاب"
 gaps:
   - "الفرق بين «التعلّم بالملاحظة» (1969) و«التعلّم الاجتماعي» (1977) من حيث الأطر النظرية لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

@@ -11,13 +11,15 @@ active_start: 1992
 active_end: 2000
 country: "كندا"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-wong", title: "بول وونغ", type: "مفكر"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
+- id: "thk-wong", title: "بول وونغ", type: "مفكر"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
+- id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مقياس الموقف من الحياة (Life Attitude Profile - LAP-R) يستحق إدراجاً في أدوات القياس."

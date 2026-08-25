@@ -13,17 +13,17 @@ language: "الصينية الكلاسيكية"
 active_start: 600
 active_end: 1300
 edges:
-  - rel: "evolved_from", target: "تاثاغاتاغاربها", target_type: "مدرسة"
-  - rel: "evolved_from", target: "تيانتاي (الصينية)", target_type: "مدرسة"
-  - rel: "evolved_from", target: "هوايان (الصينية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-huayan", target_type: "مدرسة"
 related:
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-  - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-  - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-  - id: "sch-huayan", title: "هوايان (الصينية)", type: "مدرسة"
-  - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
-  - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
-  - id: "sch-seon", title: "سيون الكورية", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
+- id: "sch-huayan", title: "هوايان (الصينية)", type: "مدرسة"
+- id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
+- id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
+- id: "sch-seon", title: "سيون الكورية", type: "مدرسة"
 gaps:
   - "نصوص Bodhidharma، Huineng (Platform Sutra)، Zhaozhou Congshen (Blue Cliff Record) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين الأسطورة والتاريخ في تأريخ Chan يستحق بحثاً نقدياً."

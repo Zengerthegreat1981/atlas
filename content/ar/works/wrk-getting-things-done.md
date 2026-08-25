@@ -13,10 +13,14 @@ language: "الإنجليزية"
 active_start: 2001
 active_end: 2001
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
-  - rel: "written_by", target: "ديفيد ألين", target_type: "مفكر"
+- rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
+- rel: "written_by", target: "thk-david-allen", target_type: "مفكر"
 related:
-  - id: "thk-david-allen", title: "ديفيد ألين", type: "مفكر"
+- id: "thk-david-allen", title: "ديفيد ألين", type: "مفكر"
+- id: "con-parkinsons-law", title: "قانون باركنسون (تمدد العمل ليملأ كامل الوقت المتاح)", type: "مفهوم"
+- id: "con-zeigarnik-effect", title: "تأثير زيغارنيك (قوة تذكر المهام المفتوحة وغير المنجزة)", type: "مفهوم"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

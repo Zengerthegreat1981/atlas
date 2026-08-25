@@ -10,10 +10,13 @@ crumb: "الفلسفة ← التحليلية ← الجدالات ← التح�
 active_start: 1934
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الوضعية المنطقية (حلقة فيينا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 related:
-  - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
-  - id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
+- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
+- id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
+- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "المواقف التفصيلية لأعضاء حلقة فيينا من كتاب بوبر 1934 لم تُراجع من رسائلهم."
   - "لا يوجد اقتباس مباشر موثوق من رسائل شليك-بوبر."

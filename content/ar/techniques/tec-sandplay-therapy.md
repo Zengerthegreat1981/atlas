@@ -11,11 +11,15 @@ dates: "زيورخ ولندن · الخمسينيات"
 active_start: 1955
 active_end: "مستمر"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "developed_by", target: "دورا كالف", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-kalff", target_type: "مفكر"
 related:
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-play-therapy-branches", title: "العلاج باللعب ومداخله المتعددة", type: "تقنية/تدخل علاجي"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-family-sandplay", title: "علاج الأسر الرملية", type: "مفهوم"
 gaps:
   - "ابتكار دورا كالف (Dora Kalff) المعتمد على تقنية العالم لمارغريت لوينفيلد والنظرية اليونغية للأركيتايبات."
   - "صينية الرمل ذات الأبعاد المحددة والقعر الأزرق، ومفهوم 'المساحة الحرة والمحمية' (Free and Protected Space) لتجسيد اللاوعي الجمعي."

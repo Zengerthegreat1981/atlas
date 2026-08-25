@@ -9,12 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← أندرو ص�
 dates: "بريطانيا · مواليد 1949"
 country: "بريطانيا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-  - id: "con-political-psyche", title: "النفس السياسية", type: "مفهوم"
+- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "con-political-psyche", title: "النفس السياسية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "موقعه الأخلاقي من كتابه «Jung and the 'Africans'» — موضع جدل مستمرّ في الأطلسات المعاصرة."

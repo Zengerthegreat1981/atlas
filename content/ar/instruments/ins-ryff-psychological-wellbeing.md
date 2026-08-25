@@ -8,9 +8,11 @@ en: "Ryff's Scales of Psychological Well-Being (SPWB)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقاييس ريف للرفاه النفسي"
 active_start: 1989
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "الجدل العاملي الإحصائي حول التمايز بين الأبعاد الستة في النسخ المختصرة (18 و42 بنداً) مقابل النسخة الأصلية (84 بنداً)"
   - "الروابط العصبية الحيوية بين الدرجات العالية في الرفاه ومستويات الكورتيزول والالتهاب تتطلب ربطاً"

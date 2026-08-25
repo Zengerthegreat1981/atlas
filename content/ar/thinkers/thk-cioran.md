@@ -11,21 +11,23 @@ active_start: 1934
 active_end: 1973
 country: "رومانيا / فرنسا"
 language: "الفرنسية / الرومانية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
-  - id: "con-absurd", title: "العبث", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "thk-nionescu", title: "ناي يونسكو", type: "مفكر"
-  - id: "thk-zapffe", title: "بيتر فيسيل زابفه", type: "مفكر"
-  - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+- id: "con-absurd", title: "العبث", type: "مفهوم"
+- id: "con-death", title: "الموت", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-nionescu", title: "ناي يونسكو", type: "مفكر"
+- id: "thk-zapffe", title: "بيتر فيسيل زابفه", type: "مفكر"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'على مرتفعات اليأس' (1934) وشذرات 'مثالب الولادة' تستحق إدراجاً في الأعمال."
+  - "الترجمات العربية لشذراته وتواريخ صدورها لم تُوثَّق بعد."
 ---
 
 # إميل سيوران

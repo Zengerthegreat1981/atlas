@@ -13,15 +13,16 @@ language: "البالي، السنسكريتية (مزيج)"
 active_start: -500
 active_end: -350
 edges:
-  - rel: "evolved_from", target: "المدارس الشرامنية المبكرة", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
-  - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
-  - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-  - id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
-  - id: "sch-mahasanghika", title: "الماهاسامغيكا", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
+- id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
+- id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
+- id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
+- id: "sch-mahasanghika", title: "الماهاسامغيكا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
 gaps:
   - "نصوص Sutta Pitaka وVinaya Pitaka تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # البوذية المبكرة (Early Buddhism)

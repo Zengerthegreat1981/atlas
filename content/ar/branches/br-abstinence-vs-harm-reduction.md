@@ -10,10 +10,15 @@ country: "عالمي"
 language: "متعدد"
 active_start: 1935
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
-  - id: "con-addiction", title: "الإدمان", type: "مفهوم"
+- id: "con-addiction", title: "الإدمان", type: "مفهوم"
+- id: "con-rat-park", title: "تجربة Rat Park", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ صدام 12-Step مع النموذج الأوروبي يستحق توثيقاً."
   - "العلاقة بين harm reduction و'modulation' و'abstinence' تستحق توضيحاً."

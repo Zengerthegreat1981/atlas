@@ -3,20 +3,21 @@ slug: "thk-grose"
 id: "THK-1115"
 type: "مفكر"
 level: "متوسط"
-title: "غيليس روز"
+title: "غليس روز"
 en: "Giles M. Rose"
-crumb: "br-psychiatric-rehabilitation ← الإصلاح المؤسسي ← غليس روز"
+crumb: "التأهيل النفسي-الاجتماعي ← الإصلاح المؤسسي ← غليس روز"
 dates: "كندا/بريطانيا · القرن العشرين–"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1985
 active_end: 2010
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
+- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "تيار"
 related:
-  - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "مفكر"
+- id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
+  - "**تحذير تحقّق**: لم يُعثر على أي أثر لباحث بهذا الاسم في أدبيات التأهيل النفسي-الاجتماعي الكندية أو البريطانية، ولا على عمل منشور منسوب إليه سوى إحالة عامة إلى دورية. كل بنود «ما أعطاه» في هذا الملف صيغ عامة بلا مضمون قابل للتحقق. الملف مرشّح للنقل إلى المسودات ما لم يُوثَّق من مصدر أوّلي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 

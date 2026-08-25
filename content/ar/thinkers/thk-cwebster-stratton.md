@@ -10,14 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← كارولين ويبستر-ستراتون"
 edges:
-  - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
+- rel: "belongs_to", target: "العلاج بتفاعل الوالد-الطفل (PCIT)", target_type: "تيار"
 related:
-  - id: "thk-ieyberg", title: "شيلا إيبيرغ", type: "مفكر"
-  - id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "مفكر"
+- id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "تيار"
+- id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
+- id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيلا إيبيرغ (thk-ieyberg)."
 ---
 
 # كارولين ويبستر-ستراتون

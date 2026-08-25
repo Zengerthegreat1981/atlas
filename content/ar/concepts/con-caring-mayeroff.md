@@ -6,14 +6,17 @@ level: "متوسط"
 title: "الرعاية (Caring) عند مايروف"
 en: "Caring (Mayeroff)"
 crumb: "المدرسة الوجودية ← المفاهيم ← الرعاية (مايروف)"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-mayeroff", title: "ميلتون مايروف", type: "مفكر"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-mayeroff", title: "ميلتون مايروف", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الرعاية (Sorge)» (con-care) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتاب مايروف 'On Caring' (1971) يحتاج مراجعة من المصدر الأولي للتفاصيل الدقيقة لمكونات الرعاية."

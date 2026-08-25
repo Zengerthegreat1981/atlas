@@ -11,10 +11,11 @@ active_start: 1979
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "syn-codependency", title: "الاعتمادية المرضية (Codependency)", type: "متلازمة"
 gaps:
   - "أبحاث عالمة النفس الإكلينيكي لينور ووكر (Lenore Walker 1979) ونظرية دورة العنف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

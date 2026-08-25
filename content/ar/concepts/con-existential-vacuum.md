@@ -6,16 +6,19 @@ level: "مبتدئ"
 title: "الفراغ الوجودي"
 en: "Existential Vacuum"
 crumb: "المدرسة الوجودية ← المفاهيم ← الفراغ الوجودي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "con-sadness", title: "الحزن", type: "مفهوم"
-  - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "ins-sources-of-meaning-some", title: "استبيان مصادر المعنى (SoMe)", type: "أداة قياس"
 gaps:
   - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
-
 ---
 
 # الفراغ الوجودي

@@ -13,12 +13,12 @@ language: "اليونانية"
 active_start: -410
 active_end: -320
 edges:
-  - rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
-  - rel: "superseded_by", target: "الأبيقورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
+- rel: "superseded_by", target: "sch-epicureanism", target_type: "مدرسة"
 related:
-  - id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
-  - id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-  - id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
 gaps:
   - "لا نعرف شيئاً عن فيلسوف قورينائي واحد بقدر تفصيلنا عن مؤسسي المدارس الكبرى (حتى أريستيب نفسه مصادره متأخرة)."
   - "نص أريستيب 'On Ancient Luxury' مفقود، ولا نعرف محتواه الحقيقي."

@@ -11,10 +11,11 @@ active_start: 1880
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
-  - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة الانشقاقي", type: "اضطراب/حالة إكلينيكية"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي للطب النفسي وDSM", type: "نقد خارجي موثَّق"
+- id: "syn-jumping-frenchmen", title: "متلازمة قفز رجال ولاية مين (فرط الإجفال والمحاكاة القهرية)", type: "متلازمة"
 gaps:
   - "التوثيق الطبي المبكر في جزر الهند الشرقية الهولندية وماليزيا."
   - "لا يوجد اقتباس مباشر موثوق متاح."

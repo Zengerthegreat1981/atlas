@@ -8,10 +8,13 @@ en: "Watson & Rayner Little Albert Conditioned Emotional Reaction Experiment"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة ألبرت الصغير لواطسون"
 active_start: 1920
 active_end: 1920
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "evt-little-albert-ethical-controversy-1970", title: "المراجعة الأخلاقية لتجربة ليتل ألبرت وصياغة ميثاق حماية المشاركين في الأبحاث", type: "حدث تاريخي"
 gaps:
   - "التحقيقات التاريخية لهوية 'ألبرت الصغير' الحقيقية (Douglas Merritte مقابل Albert Barger) وحالته الصحية لا تزال محل جدل"
   - "عدم إجراء مرحلة إزالة الإشراط أو العلاج للرضيع يمثل خرقاً أخلاقياً جسيماً مسجلاً في تاريخ العلم"

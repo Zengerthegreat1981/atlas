@@ -11,11 +11,13 @@ dates: "طوكيو · 1919"
 active_start: 1919
 active_end: "مستمر"
 language: "اليابانية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المعرفية السلوكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "tec-naikan-therapy", title: "علاج نايكان والتأمل الاستبطاني", type: "تقنية/تدخل علاجي"
-  - id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية", type: "تقنية/تدخل علاجي"
+- id: "tec-naikan-therapy", title: "علاج نايكان والتأمل الاستبطاني", type: "تقنية/تدخل علاجي"
+- id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية", type: "تقنية/تدخل علاجي"
+- id: "con-makoto-naka-ima", title: "ماكوتو / ناكا-إيما", type: "مفهوم"
 gaps:
   - "مفهوم 'أروغاماماما' (Arugamama / قبول الأمور كما هي في الواقع) عند الطبيب الياباني شوما موريتا (Shoma Morita)."
   - "المراحل السريرية الأربع لعلاج موريتا الداخلي: الراحة التامة في الفراش، العمل اليدوي الخفيف، العمل البدني الشاق، والعودة للحياة الاجتماعية."

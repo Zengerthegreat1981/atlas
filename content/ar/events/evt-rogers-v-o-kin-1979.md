@@ -9,8 +9,15 @@ crumb: "المدرسة الوجودية ← الأحداث التاريخية �
 active_start: 1979
 active_end: "مستمر"
 country: "الولايات المتحدة"
-edges: []
-related: []
+part: "psychology"
+edges:
+  []
+related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "استثناء حالات الطوارئ الوشيكة (خطر العنف الفوري) وإجراءات جلسات استماع روجرز (Rogers Hearings) تتطلب تفصيلاً"
   - "أثر الحكم على زيادة وعي المرضى بآثار خلل الحركة المتأخر (Tardive Dyskinesia) يحتاج توثيقاً"

@@ -9,11 +9,14 @@ crumb: "علم النفس الفردي ← الناس ← الكلاسيكيون
 dates: "النمسا / أمريكا · 1889–1957"
 country: "أمريكا"
 language: "الألمانية / الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 1957
 edges:
-  - rel: "belongs_to", target: "علم النفس الفردي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
 related:
-  - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-  - id: "thk-furtmuller", title: "كارل فورتمولر", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-furtmuller", title: "كارل فورتمولر", type: "مفكر"
 gaps:
   - "تفاصيل حياته في أمريكا (نيو أورليانز) شحيحة في المصادر الإنجليزية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

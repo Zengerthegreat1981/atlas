@@ -11,10 +11,10 @@ active_start: 1909
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-charles-bonnet", title: "متلازمة تشارلز بونيه", type: "متلازمة"
+- id: "dis-major-neurocognitive", title: "الاضطراب العصبي المعرفي الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-charles-bonnet", title: "متلازمة تشارلز بونيه", type: "متلازمة"
 gaps:
   - "أبحاث ريزسو بالينت (Rezső Bálint 1909) المجرية وتلف القشرة الجدارية القذالية الثنائية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

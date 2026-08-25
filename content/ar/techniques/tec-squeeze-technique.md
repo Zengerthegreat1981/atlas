@@ -11,20 +11,20 @@ dates: "Masters & Johnson · 1970"
 active_start: 1970
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "tec-stop-start-technique", title: "تقنية التوقف والبدء", type: "تقنية/تدخل علاجي"
-  - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-  - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
-  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
+- id: "tec-stop-start-technique", title: "تقنية التوقف والبدء", type: "تقنية/تدخل علاجي"
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "المقارنة المباشرة في فعالية Squeeze مقابل Stop-Start في دراسات عشوائية حديثة لم تُنشَر بشكل قاطع."
   - "فعالية التقنية مع الرجال ذوي الإعاقة الحركية (الذين لا يستطيعون تطبيق الضغط على أنفسهم) غير موثّقة."
   - "بروتوكولات استخدامها المسبق للإيلاج (في وضعيات محددة) لم تُفصَّل."
   - "معدلات النجاح على المدى الطويل (بعد 6 أشهر) أقل وضوحاً من النتائج قصيرة الأمد."
 ---
-
 # تقنية الضغط (Squeeze Technique)
 
 تقنية سلوكية لعلاج سرعة القذف وصفها Masters & Johnson في كتابهم *Human Sexual Inadequacy* (1970). تتألف من تطبيق ضغط قوي على حشفة القضيب (أو قاعدته في نسخ معدّلة) قبل لحظة القذف، مما يخفض مستوى الإثارة بسرعة ويؤخّر الانبعاث. تُستخدم عادةً مع تقنية Stop-Start ضمن بروتوكول علاجي متكامل.

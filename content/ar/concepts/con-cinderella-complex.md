@@ -11,11 +11,13 @@ crumb: "علم النفس الشعبي ← المفاهيم ← عقدة سند�
 active_start: 1981
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس الشعبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس الشعبي", target_type: "مدرسة"
 related:
-  - id: "wrk-cinderella-complex", title: "عقدة سندريلا", type: "عمل / كتاب"
-  - id: "thk-colette-dowling", title: "كوليت داولينغ", type: "مفكر"
-  - id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان", type: "مفهوم"
+- id: "wrk-cinderella-complex", title: "عقدة سندريلا", type: "عمل / كتاب"
+- id: "thk-colette-dowling", title: "كوليت داولينغ", type: "مفكر"
+- id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان", type: "مفهوم"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "الدراسات النفسية النسوية الناقدة للمفهوم واعتباره لوم للضحية في سياق بنيوي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

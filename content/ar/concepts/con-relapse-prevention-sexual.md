@@ -8,16 +8,20 @@ en: "Sexual Relapse Prevention"
 crumb: "علم النفس الشرعي/الجنائي ← علاج مرتكبي العنف الجنسي ← منع الانتكاسة الجنسية"
 active_start: 1985
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
+- rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
-  - id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
-  - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "مفهوم"
+- id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الفصل الدقيق بين نموذج Marlatt الأصلي (1985) وتطبيقاته على الجريمة الجنسية يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ويليام مارشال (thk-marshall)."
 ---
-
 # منع الانتكاسة الجنسية (Sexual Relapse Prevention)
 
 تكييف لنموذج منع الانتكاسة الأصلي (Marlatt وGordon، 1985) طُبِّق على مرتكبي الجرائم الجنسية من قبل William Marshall وفريقه في كندا. يركّز على منع العودة إلى السلوك الإجرامي عبر تعلّم الفرد تعرّف «سلسلة الانتكاسة» (Relapse Chain) مبكراً.

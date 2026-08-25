@@ -11,11 +11,14 @@ active_start: 1990
 active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "تيار"
+- rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "تيار"
 related:
+- id: "thk-ajernberg", title: "آن جِرنبرغ", type: "مفكر"
 gaps:
   - "لا تتوفر تفاصيل موثقة عن تاريخ ميلادها أو مسارها الأكاديمي الكامل قبل انضمامها لمعهد Theraplay."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # ساندرا لينداما

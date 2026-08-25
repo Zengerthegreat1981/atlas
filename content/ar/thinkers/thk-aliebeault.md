@@ -10,13 +10,17 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1860
 active_end: 1904
+part: "psychology"
+crumb: "الأطلس ← thinkers ← أمبرواز ليبو"
 edges:
-  - rel: "belongs_to", target: "الماسمرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الماسمرية (Mesmerism)", target_type: "مدرسة"
 related:
-  - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
-  - id: "thk-hbernheim", title: "هيبوليت برنهايم", type: "مفكر"
+- id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
+- id: "thk-hbernheim", title: "هيبوليت برنهايم", type: "مفكر"
+- id: "thk-puysgur", title: "ماركيز دي بويزيغور", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # أمبرواز ليبو

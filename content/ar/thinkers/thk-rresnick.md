@@ -11,13 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
 related:
-  - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-  - id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
-  - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
-  - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

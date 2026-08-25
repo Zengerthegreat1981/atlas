@@ -8,15 +8,19 @@ en: "Mentalization-Based Treatment (MBT)"
 crumb: "التحليل النفسي ← التقنيات ← العلاج بالانعكاس الذهني"
 dates: "2000s-اليوم"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "بيتر فوناغي وأنطوني باتمن", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "بيتر فوناغي وأنطوني باتمن", target_type: "مفكر"
 related:
-  - id: "thk-pfonel", title: "بيتر فوناغي", type: "مفكر"
-  - id: "thk-bateman", title: "أنطوني باتمن", type: "مفكر"
-  - id: "con-mentalization", title: "الانعكاس الذهني", type: "مفهوم"
+- id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
+- id: "thk-bateman", title: "أنطوني باتمن", type: "مفكر"
+- id: "con-mentalization", title: "الانعكاس الذهني", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاج بالانعكاس الذهني (MBT)

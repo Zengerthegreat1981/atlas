@@ -12,13 +12,16 @@ language: "الإنجليزية"
 active_start: 2006
 active_end: 2006
 edges:
-  - rel: "belongs_to", target: "فلسفة الإعاقة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-disability", target_type: "مدرسة"
 related:
-  - id: "sch-philosophy-of-disability", title: "فلسفة الإعاقة", type: "مدرسة"
-  - id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
+- id: "sch-philosophy-of-disability", title: "فلسفة الإعاقة", type: "مدرسة"
+- id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
+- id: "wrk-design-everyday-things", title: "تصميم الأشياء اليومية", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة Routledge الأصلية (2006)."
-
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # حقوق وأخطاء الإعاقة (Disability Rights and Wrongs, 2006)

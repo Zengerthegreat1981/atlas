@@ -6,12 +6,20 @@ level: "متوسط"
 title: "النية المتناقضة"
 en: "Paradoxical Intention"
 crumb: "المدرسة الوجودية ← التقنيات والتدخلات ← النية المتناقضة"
-edges:[]
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges:
+  []
 related:
-  - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
-  - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-meaning-technique-socratic", title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)", type: "تقنية/تدخل علاجي"
+- id: "tec-meaning-technique-socratic", title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)", type: "تقنية/تدخل علاجي"
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-meaning-technique-socratic", title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم تُراجع بعد دراسات فعالية حديثة ومحددة لهذه التقنية من مصدر أولي محقق"
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النية المتناقضة

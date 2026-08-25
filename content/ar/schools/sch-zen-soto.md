@@ -13,12 +13,12 @@ language: "اليابانية، الصينية الكلاسيكية"
 active_start: 1227
 active_end: "مستمر"
 edges:
-  - rel: "evolved_from", target: "تشان (الصينية)", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-chan", target_type: "مدرسة"
 related:
-  - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
-  - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
-  - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-  - id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
+- id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
+- id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
 gaps:
   - "نصوص Dōgen (Shōbōgenzō، 75 مجلد)، Keizan Jōkin (Denkōroku) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Sōtō في اليابان و Caodong في الصين يستحق بحثاً نقدياً."

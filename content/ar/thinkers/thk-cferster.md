@@ -6,16 +6,23 @@ level: "متوسط"
 title: "تشارلز فيرستر"
 en: "Charles Ferster"
 crumb: "السلوكية (Behaviorism) ← الناس ← تشارلز فيرستر"
-dates: "أمريكا · 1922–2007"
+dates: "أمريكا · 1922–1981"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: 1981
 edges:
-  - rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
 related:
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-rlindsl", title: "أورغن ر. ليندزلي", type: "مفكر"
+- id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
+- id: "thk-acatania", title: "أ. تشارلز كاتانيا", type: "مفكر"
+- id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
+- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "وفاته (2007) — تفصيل."
+  - "سنة الوفاة (1981) لم تُراجع من مصدر أولي."
 ---
 
 # تشارلز فيرستر
@@ -24,7 +31,7 @@ gaps:
 
 ## ما أعطاه
 
-مع Skinner، وضع «جداول التعزيز» (Schedules of Reinforcement، 1957) — العمل الكلاسيكي الذي يَصِف أنماط التعزيز (ثابت النسبة، متغيّر النسبة، ثابت الفترة، متغيّر الفترة) وسلوكها. كذلك عمل مع I. Lovaas على «تعليم الأطفال التوحديّين» (1960s)، فأثّر في «UCLA Young Autism Project». كذلك أَلّف «علم النفس المبدئي» (A Primer of Psychology، 1960s) الذي عرّف Skinnerian بـ「لغة عامّة」 للجمهور.
+مع Skinner، وضع «جداول التعزيز» (Schedules of Reinforcement، 1957) — العمل الكلاسيكي الذي يَصِف أنماط التعزيز (ثابت النسبة، متغيّر النسبة، ثابت الفترة، متغيّر الفترة) وسلوكها. كذلك عمل مع I. Lovaas على «تعليم الأطفال التوحديّين» (الستينيات من القرن العشرين)، فأثّر في «UCLA Young Autism Project». كذلك شارك في تأليف «مبادئ السلوك» (Behavior Principles, 1968، مع بيرّوت) الذي قدّم السلوكية السكينرية بلغة عامة للجمهور.
 
 ## موقعه من التيار
 
@@ -36,4 +43,4 @@ gaps:
 
 ## أهم أعماله
 
-جداول التعزيز (1957، مع Skinner) · أطلس علم النفس المبدئي (1960s) · (مقالات في J. Exp. Anal. Behav.).
+جداول التعزيز (Schedules of Reinforcement, 1957، مع سكينر) · مبادئ السلوك (Behavior Principles, 1968، مع بيرّوت) · مقالات في *J. Exp. Anal. Behav.*

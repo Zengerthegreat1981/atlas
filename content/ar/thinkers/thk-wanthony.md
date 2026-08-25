@@ -10,13 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1974
 active_end: 2017
+part: "psychology"
+crumb: "الأطلس ← thinkers ← ويليام أنتوني"
 edges:
-  - rel: "belongs_to", target: "br-psychiatric-vocational-rehab", target_type: "تيار"
+- rel: "belongs_to", target: "التأهيل المهني النفسي", target_type: "تيار"
 related:
-  - id: "thk-pwehman", title: "بول ويهَمان", type: "مفكر"
-  - id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "مفكر"
+- id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "تيار"
+- id: "thk-fmodestin", title: "ماري كورنين", type: "مفكر"
+- id: "thk-mgold", title: "مارك غولد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بول ويهَمان (thk-pwehman)."
 ---
 
 # ويليام أنتوني

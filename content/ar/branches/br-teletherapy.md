@@ -10,10 +10,15 @@ country: "عالمي"
 language: "متعدد اللغات"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
+- id: "br-recovered-memory-movement", title: "حركة الذاكرة المُستعادة العلاجية", type: "تيار"
+- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "نشأة مفهوم 'e-therapy' في التسعينيات (مثل خدمات Therapytimes) لم تُراجع من مصدر أولي."
   - "الفرق بين 'Teletherapy' و'Telehealth' و'e-therapy' غير محسوم تاريخياً."

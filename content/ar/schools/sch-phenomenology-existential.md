@@ -13,13 +13,20 @@ language: "الألمانية، الفرنسية"
 active_start: 1927
 active_end: 1981
 edges:
-  - rel: "belongs_to", target: "الظاهراتية", target_type: "مدرسة"
-  - rel: "split_into", target: "الظاهراتية الجسدية", target_type: "مدرسة"
-  - rel: "split_into", target: "الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "split_into", target: "sch-phenomenology-somatic", target_type: "مدرسة"
+- rel: "split_into", target: "sch-existentialism", target_type: "مدرسة"
 related:
-  - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-  - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-  - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
+- id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 gaps:
   - "الفجوة بين 'الوجودية' و'الظاهراتية الوجودية' (كعلامتين متمايزتين) ليست موحّدة في المراجع الفلسفية."
   - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."

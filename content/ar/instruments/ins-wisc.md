@@ -8,9 +8,13 @@ en: "Wechsler Intelligence Scale for Children (WISC-V)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← مقياس وكسلر لذكاء الأطفال"
 active_start: 1949
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "dis-intellectual-disability", title: "الإعاقة الفكرية", type: "اضطراب/حالة إكلينيكية"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "ins-wasi-ii", title: "مقياس وكسلر المختصر للذكاء - الإصدار الثاني (WASI-II)", type: "أداة قياس"
 gaps:
   - "التطبيقات الرقمية التفاعلية على أجهزة الآيباد (Q-interactive) وأثرها على دقة التقييم تحتاج مراجعة"
   - "الفروق التشخيصية بين WISC-V وبطاريات التشخيص النمائي الأخرى تتطلب مقارنة إكلينيكية"

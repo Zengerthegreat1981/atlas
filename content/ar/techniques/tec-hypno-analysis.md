@@ -8,13 +8,17 @@ en: "Hypno-analysis"
 crumb: "التنويم وNLP ← التقنيات ← التنويم التحليلي"
 active_start: 1949
 active_end: "مستمر"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
 related:
-  - id: "thk-mwagreich", title: "موريس فيغوتش", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "البروتوكول (Wagreich، Brenman) لم يُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موريس فيغوتش (thk-mwagreich)."
 ---
 
 # التنويم التحليلي (Hypno-analysis)

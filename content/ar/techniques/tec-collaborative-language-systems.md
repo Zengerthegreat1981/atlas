@@ -11,11 +11,15 @@ dates: "تكساس · أواخر الثمانينيات"
 active_start: 1988
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "النَّسَقية والأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-  - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
-  - id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
+- id: "thk-ppenn", title: "بيغي بِن", type: "مفكر"
+- id: "thk-cgerber2", title: "تشارلز جيربر", type: "مفكر"
+- id: "thk-cdello", title: "كارمن دِل أورو", type: "مفكر"
+- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
 gaps:
   - "نموذج هارلين أندرسون وهارولد غوليشيان (Harlene Anderson & Harold Goolishian) في معهد هيوستن-غالفيستون."
   - "مفهوم 'المشكلات تنشئ الأنظمة' (Problem-Determined Systems) وموقف 'اللا-معرفة' الحواري (Not-Knowing Stance)."

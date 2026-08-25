@@ -13,12 +13,14 @@ language: "الألمانية ثم الإنجليزية"
 active_start: 1924
 active_end: 1936
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_into", target: "الطبيعانية التحليلية (الكواينية)", target_type: "مدرسة"
-  - rel: "superseded_by", target: "فلسفة اللغة العادية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-quinean-naturalism", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
-  - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
-  - id: "thk-mneurath", title: "أوتو نورات", type: "مفكر"
+- id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
+- id: "thk-mneurath", title: "أوتو نورات", type: "مفكر"
+- id: "con-verification-principle", title: "مبدأ التحقق", type: "مفهوم"
+- id: "dbt-verification-vs-falsification", title: "التحقق أم التفنيد: أيهما معيار العلمية؟", type: "جدل"
 gaps:
   - "رابط مقترح لـ«مورتيس شليك» (thk-schlick) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«فريدريش فايسمان» (thk-waismann) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

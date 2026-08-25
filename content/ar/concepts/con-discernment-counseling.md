@@ -8,12 +8,24 @@ en: "Discernment Counseling"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← الاستشارة التمييزية"
 active_start: 2010
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "Discernment Counseling", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-discernment-counseling", target_type: "مدرسة"
 related:
-  - id: "thk-wdoherty", title: "بيل دوهيرتي", type: "مفكر"
+- id: "thk-wdoherty", title: "بيل دوهيرتي", type: "مفكر"
+- id: "thk-andrew-schnack", title: "أندرو شنك", type: "مفكر"
+- id: "thk-carolyn-dalglish", title: "كارولين دالجليش", type: "مفكر"
+- id: "thk-jenna-brown", title: "جينا براون", type: "مفكر"
+- id: "thk-stephen-talley", title: "ستيفن تالي", type: "مفكر"
+- id: "thk-thomas-sells", title: "توماس سيلز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أندرو شنك (thk-andrew-schnack)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كارولين دالجليش (thk-carolyn-dalglish)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جينا براون (thk-jenna-brown)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن تالي (thk-stephen-talley)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: توماس سيلز (thk-thomas-sells)."
 ---
 
 # الاستشارة التمييزية (Discernment Counseling)

@@ -11,11 +11,13 @@ active_start: 1973
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
-  - id: "syn-survivor-guilt-syndrome", title: "متلازمة ذنب الناجي", type: "متلازمة"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-survivor-guilt-syndrome", title: "متلازمة ذنب الناجي", type: "متلازمة"
+- id: "con-gaslighting-popular", title: "التلاعب بالعقول والتضليل النفسي في الثقافة الشعبية (Gaslighting)", type: "مفهوم"
+- id: "syn-lima", title: "متلازمة ليما (تعاطف الخاطفين النفسي مع الرهائن)", type: "متلازمة"
 gaps:
   - "التوثيق الأرشيفي لحادثة سرقة بنك كريديت بانكين في ستوكهولم عام 1973 وصياغة نيلس بيجيروت للمصطلح."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -13,11 +13,16 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الفلسفة التحليلية (القرن 20–21)", target_type: "مظلة"
-  - rel: "evolved_from", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
-  - rel: "evolved_from", target: "الطبيعة التحليلية (الكواينية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-pragmatism-classical", target_type: "مدرسة"
+- rel: "evolved_from", target: "الطبيعة التحليلية (الكواينية)", target_type: "مدرسة"
 related:
-  - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
+- id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
+- id: "thk-rbrandom", title: "روبرت براندوم", type: "مفكر"
+- id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
+- id: "con-existence-existentialism", title: "الوجودية (Existence) في الفلسفة الوجودية", type: "مفهوم"
+- id: "con-functional-contextualism", title: "السياقية الوظيفية", type: "مفهوم"
+- id: "con-cogito", title: "الكوجيتو: أنا أفكر إذن أنا موجود", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«سيدني بريس (Sidney Brice) — خانة تحقّق» (thk-brice) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ريتشارد برنشتاين» (thk-bernstein) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

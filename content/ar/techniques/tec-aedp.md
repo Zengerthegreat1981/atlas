@@ -8,13 +8,17 @@ en: "Accelerated Experiential Dynamic Psychotherapy (AEDP)"
 crumb: "التحليل النفسي ← التقنيات ← AEDP"
 dates: "2000s-اليوم"
 language: "الإنجليزية"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
-  - rel: "developed_by", target: "ديانا فوشا", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-fosha", target_type: "مفكر"
 related:
-  - id: "thk-dfosha", title: "ديانا فوشا", type: "مفكر"
+- id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # العلاج الديناميكي التجريبي المتسارع (AEDP)

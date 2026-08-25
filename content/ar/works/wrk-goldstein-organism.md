@@ -10,12 +10,16 @@ dates: "1934 (ألمانية) / 1939 (إنجليزية) · كورت غولدشت
 language: "الألمانية (الأصلية)"
 active_start: 1934
 active_end: 1939
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "الإنسانية", target_type: "مدرسة"
-  - rel: "authored_by", target: "كورت غولدشتاين", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-goldstein", target_type: "مفكر"
 related:
-  - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
-  - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "wrk-tree-of-knowledge", title: "شجرة المعرفة: الجذور البيولوجية للفهم البشري", type: "عمل / كتاب"
+- id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"
+- id: "wrk-12-rules-for-life", title: "12 قاعدة للحياة: ترياق للفوضى", type: "عمل / كتاب"
 gaps:
   - "الفرق بين الطبعة الألمانية (Der Aufbau des Organismus, 1934) والنسخة الإنجليزية المنقّحة (1939) لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

@@ -14,12 +14,13 @@ active_start: -300
 active_end: -238
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "الكونفوشية المبكرة", target_type: "مدرسة"
 related:
-  - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-  - id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
-  - id: "thk-mencius", title: "منسيوس", type: "مفكر"
-  - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس", type: "مفكر"
+- id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
+- id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"
 gaps:
   - "سجلّ تلاميذه (الأبرز لي سي وهان في تزو) لم يُراجع من سجلّات هان هنا."
   - "الفصل الدقيق بين فصوله الأصلية والفصول المنسوبة إليه في Xunzi لم يُحلّ."

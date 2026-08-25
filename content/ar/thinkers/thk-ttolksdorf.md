@@ -9,11 +9,15 @@ crumb: "مدرسة التحليل النفسي ← الناس ← تيودور �
 dates: "ألمانيا · [غير مؤكد]"
 country: "ألمانيا"
 language: "الألمانية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "مدرسة التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-wmuller", title: "فِرنَر مولَر", type: "مفكر"
-  - id: "thk-dieckmann", title: "هانس ديكمان", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-wmuller", title: "فِرنَر مولَر", type: "مفكر"
+- id: "thk-dieckmann", title: "هانس ديكمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الكاملة بحاجة لتحديد."
@@ -25,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-في «Das Bild im Sehen des Kindes» (الصورة في رؤى الطفل، 1980s) أجرى «تحليلية» لـ«مخيال الطفل» — كيف تتشكّل الصور في الألعاب والرسم، مع ربط بأركيتيبات يونغ. كذلك أشرف على «تحليل الأطفال» في عيادة C.G. Jung Institut München. كذلك ترجم «Sandplay» لـ Kalff إلى الألمانية.
+في «Das Bild im Sehen des Kindes» (الصورة في رؤى الطفل، الثمانينيات من القرن العشرين) أجرى «تحليلية» لـ«مخيال الطفل» — كيف تتشكّل الصور في الألعاب والرسم، مع ربط بأركيتيبات يونغ. كذلك أشرف على «تحليل الأطفال» في عيادة C.G. Jung Institut München. كذلك ترجم «Sandplay» لـ Kalff إلى الألمانية.
 
 ## موقعه من التيار
 
@@ -37,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-Das Bild im Sehen des Kindes (1980s).
+Das Bild im Sehen des Kindes (الثمانينيات من القرن العشرين).

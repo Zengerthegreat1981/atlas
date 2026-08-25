@@ -11,20 +11,25 @@ country: "البرازيل"
 language: "برتغالية"
 active_start: 1980
 active_end: 1996
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "علم نفس التحرير (Liberation Psychology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس التحرير (مارتين-بارو)", target_type: "مدرسة"
 related:
-  - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
-  - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
+- id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
+- id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "thk-icheolhong", title: "تشو هي-سو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشو هي-سو (thk-icheolhong)."
 ---
 
 # سيلفيا ليما
 
 محللة نفسية برازيلية، مؤسسة **الفرع البرازيلي لعلم نفس التحرير** مع باولو فريري ومارتن-بارّو.
 
-## ما أعطت
+## ما أعطته
 
 - **نقد علم النفس الأكاديمي اللاتيني** لصالح علم نفس ملتزم اجتماعياً.
 - **«النفس البرازيلية»: الكولونيالية، العنصرية، الفقر** كمواضيع علاجية.

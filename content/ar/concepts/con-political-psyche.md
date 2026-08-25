@@ -11,14 +11,18 @@ dates: "من 1989"
 active_start: 1989
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-  - id: "thk-samuels", title: "أندرو صاموئلز", type: "مفكر"
-  - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
-  - id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-samuels", title: "أندرو صاموئلز", type: "مفكر"
+- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
+- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "تحليل الظلال السياسية والعداء الاجتماعي والتعامل مع التحيزات التاريخية في الفكر التحليلي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # النفس السياسية والنفس التعددية

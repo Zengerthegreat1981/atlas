@@ -14,11 +14,12 @@ active_start: 1160
 active_end: 1200
 active_source: "lifespan"
 edges:
-  - rel: "belongs_to", target: "مدرسة المبدأ (لي شوي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "مدرسة المبدأ (Lixue / Cheng-Zhu)", target_type: "مدرسة"
 related:
-  - id: "sch-lixue", title: "مدرسة المبدأ (لي شوي)", type: "مدرسة"
-  - id: "thk-cheng-yi", title: "تشنغ يي", type: "مفكر"
-  - id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "sch-lixue", title: "مدرسة المبدأ (لي شوي)", type: "مدرسة"
+- id: "thk-cheng-yi", title: "تشنغ يي", type: "مفكر"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "thk-dai-zhen", title: "داي تشن", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لـ'مذهب لي شوي' (Lixue) في المراحل الأولى من حياته لم تُراجع من طبعة محقّقة هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

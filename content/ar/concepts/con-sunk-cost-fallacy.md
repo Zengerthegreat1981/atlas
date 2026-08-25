@@ -11,10 +11,13 @@ crumb: "الاقتصاد السلوكي وعلم النفس المعرفي ← �
 active_start: 1979
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
 related:
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-  - id: "wrk-predictably-irrational", title: "اللامنطقية المتوقعة", type: "عمل / كتاب"
+- id: "con-loss-aversion", title: "كراهية الخسارة وتفضيل تجنب الألم على كسب المكاسب", type: "مفهوم"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "wrk-predictably-irrational", title: "اللامنطقية المتوقعة", type: "عمل / كتاب"
+- id: "con-set-and-setting", title: "الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة", type: "مفهوم"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 gaps:
   - "أبحاث عاموس تفيرسكي ودانيال كانمان في نظرية الآفاق (Prospect Theory) ودراسات هال أركيس (Hal Arkes 1985)."
   - "لا يوجد اقتباس مباشر موثوق متاح."

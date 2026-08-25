@@ -10,10 +10,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1976
 active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← روبرت ليفنسون"
 edges:
-  - rel: "belongs_to", target: "طريقة غوتمان الزوجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "طريقة غوتمان الزوجية", target_type: "مدرسة"
 related:
-  - id: "thk-jgottman", title: "جون غوتمان", type: "مفكر"
+- id: "thk-jgottman", title: "جون غوتمان", type: "مفكر"
+- id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

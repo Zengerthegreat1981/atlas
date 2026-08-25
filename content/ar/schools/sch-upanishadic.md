@@ -13,15 +13,17 @@ language: "السنسكريتية"
 active_start: -800
 active_end: -300
 edges:
-  - rel: "evolved_from", target: "الفكر الفيدي الطقسي", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-vedic", target_type: "مدرسة"
 related:
-  - id: "sch-vedic", title: "الفكر الفيدي الطقسي", type: "مدرسة"
-  - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-  - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-  - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-  - id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
+- id: "sch-vedic", title: "الفكر الفيدي الطقسي", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
+- id: "wrk-upanishads", title: "الأوبانيشاد الرئيسية", type: "عمل / كتاب"
 gaps:
   - "النصوص الأوبانيشادية (108 منها) تحتاج مراجعة من المصدر الأولي."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # الفلسفة الأوبانيشادية

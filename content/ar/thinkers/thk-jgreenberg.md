@@ -9,12 +9,15 @@ crumb: "التحليل النفسي ← الناس ← العلائقي المع
 dates: "أمريكا · مواليد 1942"
 country: "أمريكا"
 language: "الإنجليزية"
+part: "philosophy"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "التحليل النفسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
 related:
-  - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-  - id: "thk-laron", title: "لويس آرون", type: "مفكر"
-  - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
+- id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
+- id: "thk-laron", title: "لويس آرون", type: "مفكر"
+- id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة 1942 وفق ويكيبيديا، تحتاج تأكيداً."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -26,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-شارك Stephen Mitchell في تأليف «العلاقات بالموضوع في النظرية التحليلية» (Object Relations in Psychoanalytic Theory, 1983)، وهو الكتاب الذي يُعدّ «البيان التأسيسي» للتحليل العلائقي: قارن فيه بين النظرية الغريزية (Drive Theory) فرويد و بين النظريات العلائقية (British Object Relations + Kohut + Sullivan)، وخلص إلى أن «العلاقات» (Relations) تسبق «الغريزة» (Drive) في الأهمية السريرية. كتب «الحياة الذهنية وتغييرها» (The Process of Psychoanalytic Change, 1996) مع Sandler و Rosenblatt، الذي يُعدّ من أهم الكتب في «نظرية التغيير» (Theory of Change) في التحليل.
+شارك Stephen Mitchell في تأليف «العلاقات بالموضوع في النظرية التحليلية» (Object Relations in Psychoanalytic Theory, 1983)، وهو الكتاب الذي يُعدّ «البيان التأسيسي» للتحليل العلائقي: قارن فيه بين النظرية الغريزية (Drive Theory) فرويد و بين النظريات العلائقية (British Object Relations + Kohut + Sullivan)، وخلص إلى أن «العلاقات» (Relations) تسبق «الغريزة» (Drive) في الأهمية السريرية. ثم انفرد بـ«أوديب وما بعده: نظرية إكلينيكية» (Oedipus and Beyond: A Clinical Theory، 1991)، وفيه راجع موقفه: لا يكفي أن تُستبدل بالغريزة العلاقةُ، بل ثمّة **توتّر بنيوي دائم** بين حاجتين لا تُختزل إحداهما في الأخرى — الحاجة إلى **الأمان** (الحفاظ على الرابطة) والحاجة إلى **الفاعلية** (تأكيد الذات ولو على حساب الرابطة). وكل اختيار في العلاقة تسويةٌ بينهما.
 
 ## موقعه من التيار
 
@@ -38,4 +41,6 @@ gaps:
 
 ## أهم أعماله
 
-«العلاقات بالموضوع في النظرية التحليلية» (Object Relations in Psychoanalytic Theory, 1983، مع Mitchell) · «عملية التغيير التحليلي» (The Process of Psychoanalytic Change, 1996، مع Sandler و Rosenblatt).
+«العلاقات بالموضوع في النظرية التحليلية» (Object Relations in Psychoanalytic Theory، 1983، مع ستيفن ميتشل) · «أوديب وما بعده: نظرية إكلينيكية» (Oedipus and Beyond، 1991).
+
+> **تصحيح:** كان يُنسب إليه كتاب «The Process of Psychoanalytic Change (1996) مع Sandler وRosenblatt» — ولم يُعثر له على وجود؛ وساندلر وروزنبلات مؤلّفا نصّ آخر مختلف تماماً هو «مفهوم عالم التمثيل» (1962).

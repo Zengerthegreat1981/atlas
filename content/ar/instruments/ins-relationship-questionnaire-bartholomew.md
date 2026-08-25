@@ -8,9 +8,11 @@ en: "Bartholomew & Horowitz Relationship Questionnaire (RQ)"
 crumb: "المدرسة الوجودية ← أدوات القياس ← استبيان العلاقات لبارثولوميو وهوروفيتز"
 active_start: 1991
 active_end: "مستمر"
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "المقارنة بين نموذج الفقرات السردية الفردية ونموذج المقاييس المستمرة لـ RSQ تحتاج توضيحاً"
   - "التطبيقات الإكلينيكية في اضطرابات الشخصية تتطلب استعراضاً مقارناً"

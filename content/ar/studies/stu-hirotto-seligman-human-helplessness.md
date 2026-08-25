@@ -8,9 +8,11 @@ en: "Hiroto & Seligman Human Learned Helplessness and Instrumental Control Study
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة هيروتو وسليجمان للعجز البشري"
 active_start: 1974
 active_end: 1975
-edges: []
+part: "psychology"
+edges:
+  []
 related:
-  - id: "wrk-seligman-helplessness", title: "العجز المكتسب (Helplessness)", type: "عمل / كتاب"
+- id: "wrk-seligman-helplessness", title: "العجز المكتسب (Helplessness)", type: "عمل / كتاب"
 gaps:
   - "تأثير مركز الضبط (Locus of Control) لروتر كمتغير معدل في التجربة يحتاج تفصيلاً نقدياً"
   - "الفروق في استجابة العجز بين المهام المعرفية والمهام الحركية تتطلب مراجعة مقارنة"

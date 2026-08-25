@@ -11,13 +11,22 @@ active_start: 2001
 active_end: 2015
 country: "أمريكا"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
 related:
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-  - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-  - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "dbt-psychodynamic-vs-cbt-effectiveness", title: "العلاج النفسي الديناميكي مقابل العلاج المعرفي السلوكي: مقارنة الفعالية", type: "جدل"
+- id: "tec-supportive-expressive", title: "العلاج الداعم-التعبيري", type: "تقنية/تدخل علاجي"
+- id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
+- id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
+- id: "rel-integrative-psychoanalysis-common-factors", title: "التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم", type: "علاقة بين مدرستين"
+- id: "dbt-empirically-validated-vs-evidence-based", title: "جِدَل الْعِلَاج بِالْأَدِلَّة التَّجْرِيبِيَّة ضِد الْعِلَاج بِالْأَدِلَّة الْعِلْمِيَّة", type: "جدل"
+- id: "dbt-psychodynamic-evidence", title: "جِدَل فَعَّالِيَّة الْعِلَاج النَّفْسَحَرَكِيّ: هَل يَعْمَل؟", type: "جدل"
+- id: "dbt-therapist-effects-treatment-effects", title: "جِدَل تَأْثِيرَات الْمُعَالِج ضِد تَأْثِيرَات الْعِلَاج", type: "جدل"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "النموذج السياقي (Contextual Model) وأبحاث العوامل المشتركة (Common Factors) تستحق إدراجاً في الدراسات والبحوث."

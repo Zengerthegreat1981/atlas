@@ -9,10 +9,11 @@ en: "Corsi Block-Tapping Test"
 crumb: "القياس النفسي والتقييم الإكلينيكي ← أدوات القياس ← اختبار كورسي للنقر على المكعبات والذاكرة الفضائية"
 active_start: 1972
 active_end: "مستمر"
-edges: []
+edges:
+  []
 related:
-  - id: "stu-baddeley-hitch-working-memory", title: "دراسة باديلي وهيتش للذاكرة العاملة", type: "دراسة وبحث"
-  - id: "syn-gerstmann", title: "متلازمة غيرستمان", type: "متلازمة"
+- id: "stu-baddeley-hitch-working-memory", title: "دراسة باديلي وهيتش للذاكرة العاملة", type: "دراسة وبحث"
+- id: "syn-gerstmann", title: "متلازمة غيرستمان", type: "متلازمة"
 gaps:
   - "أطروحة فيليب كورسي (Philip Corsi 1972) في جامعة ماكجيل بإشراف بريندا ميلنر واختبار سعة الذاكرة البصرية المكانية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

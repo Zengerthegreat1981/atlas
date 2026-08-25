@@ -5,14 +5,18 @@ type: "مفكر"
 level: "متقدم"
 title: "بات ديغان"
 en: "Patricia E. Deegan"
-crumb: "br-recovery-oriented (التعافي) ← تأسيس ← بات ديغان"
+crumb: "الممارسة الموجَّهة نحو التعافي ← تأسيس ← بات ديغان"
 dates: "الولايات المتحدة · 1955–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+part: "philosophy"
 edges:
-  - rel: "belongs_to", target: "br-recovery-oriented", target_type: "مدرسة"
+- rel: "belongs_to", target: "الممارسة الموجَّهة نحو التعافي", target_type: "مدرسة"
+related:
+- id: "thk-dan-fisher", title: "دان فيشر", type: "مفكر"
+- id: "thk-wwhite", title: "وليام وايت", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -22,7 +26,7 @@ gaps:
 
 ناشطة وطبيبة نفسية أمريكية، من أهم **مؤسسي حركة «التعافي»** (Recovery Movement) في الصحة النفسية، وهي نفسها من ذوي تجربة شخصية مع الفصام.
 
-## ما أعطتها
+## ما أعطته
 
 - تأسيس **«البرنامج التعاوني للتعافي»** (Common Ground Program) في أمريكا، وهو من أهم نماذج التعافي من الفصام.
 - تطوير **مفهوم «الشخص بدلاً من المريض»** في حقل الصحة النفسية، من منظور «ذوي الخبرة» (Peer Specialists).

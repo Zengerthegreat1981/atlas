@@ -13,14 +13,14 @@ language: "اليونانية، اللاتينية"
 active_start: -80
 active_end: 270
 edges:
-  - rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
-  - rel: "evolved_into", target: "الأفلاطونية المحدثة", target_type: "مدرسة"
-  - rel: "evolved_into", target: "الأفلاطونية الوسطى", target_type: "مدرسة"
+- rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
-  - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-  - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
-  - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-  - id: "sch-eclecticism", title: "الانتقائية الهلنستية-الرومانية (Hellenistic-Roman Eclecticism)", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-eclecticism", title: "الانتقائية الهلنستية-الرومانية (Hellenistic-Roman Eclecticism)", type: "مدرسة"
 gaps:
   - "مصطلح 'الأفلاطونية الوسطى' وضعه الفيلسوف الفرنسي Paul Shorey (1903)، ولم يُستخدم في المصادر القديمة."
   - "أعمال الأفلاطونيين المتوسطين (خاصة Anticous، Alcimus، Severus) فُقدت بالكامل."

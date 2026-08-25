@@ -11,10 +11,12 @@ crumb: "علم النفس المعرفي والاجتماعي ← المفاهي
 active_start: 1999
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "علم النفس المعرفي والاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم النفس المعرفي والاجتماعي", target_type: "مدرسة"
 related:
-  - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-  - id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
+- id: "con-self-serving-bias", title: "انحياز خدمة الذات وتبرير الفشل (Self-Serving Bias)", type: "مفهوم"
+- id: "con-barnum-forer-effect", title: "تأثير بارنوم / فورير (سيكولوجيا تصديق التوصيفات الفضفاضة والأبراج)", type: "مفهوم"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
+- id: "syn-impostor", title: "ظاهرة / متلازمة المحتال", type: "متلازمة"
 gaps:
   - "ورقة ديفيد دانينغ وجاستن كروغر الأصلية (1999) 'Unskilled and Unaware of It'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

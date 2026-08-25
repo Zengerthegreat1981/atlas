@@ -7,19 +7,19 @@ level: "مبتدئ"
 title: "مونتسكيو"
 en: "Charles-Louis de Secondat, Baron de La Brède et de Montesquieu"
 crumb: "الجمهورية المدنية ← المؤسسون ← مونتسكيو"
-dates: "لا بريد (بوردو)، باريس، إنجلترا، إيطاليا، هولندا، فيينا، هنغاريا · 1689–1755"
+dates: "فرنسا (بوردو، باريس) · 1689–1755"
 country: "فرنسا"
 language: "الفرنسية، اللاتينية"
 active_start: 1721
 active_end: 1755
 edges:
-  - rel: "belongs_to", target: "الجمهورية المدنية (Civic Republicanism)", target_type: "مدرسة"
-  - rel: "belongs_to", target: "فلسفة التنوير", target_type: "مدرسة"
+- rel: "belongs_to", target: "الجمهورية المدنية (Civic Republicanism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "فلسفة التنوير (كمظلة عامة)", target_type: "مدرسة"
 related:
-  - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
-  - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-  - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
-  - id: "thk-locke", title: "جون لوك", type: "مفكر"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
+- id: "thk-locke", title: "جون لوك", type: "مفكر"
 gaps:
   - "الجلسات البرلمانية في بوردو (1714-1726) لم تُوثّق بدقة كافية."
   - "لا يوجد اقتباس مباشر موثوق من 'Esprit des Lois' بعد."

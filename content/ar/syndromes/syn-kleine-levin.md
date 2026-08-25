@@ -11,10 +11,10 @@ active_start: 1925
 active_end: "مستمر"
 language: "متعدد اللغات"
 edges:
-  - rel: "belongs_to", target: "الاضطرابات والمتلازمات الإكلينيكية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-  - id: "dis-hypersomnolence", title: "اضطراب فرط النوم", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-hypersomnolence", title: "اضطراب فرط النوم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث ويلي كلاين وماكس ليفين ومسارات الخلل الوطائي الحوفي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

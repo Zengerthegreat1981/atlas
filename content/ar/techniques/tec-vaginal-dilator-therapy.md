@@ -11,20 +11,20 @@ dates: "Margaret Ransom · 1970s · تطويرات لاحقة متعددة"
 active_start: 1970
 active_end: "مستمر"
 language: "الإنجليزية"
+part: "psychology"
 edges:
-  - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-  - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-  - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء هرم التعرّض", type: "تقنية/تدخل علاجي"
-  - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
-  - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تقنية/تدخل علاجي"
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء هرم التعرّض", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "المقارنة بين الموسّعات البلاستيكية والسيليكون والـ Vibrator-assisted dilation في الفعالية لم تُراجَع في دراسات حديثة كبيرة."
   - "البروتوكولات المكيّفة للناجيات من الاعتداء الجنسي (PTSD-associated dyspareunia) مع العلاج بالصدمة (EMDR أو Somatic Experiencing) لم تُفصَّل."
   - "معدلات النجاح على المدى الطويل (بعد 12 شهراً) أقل وضوحاً من النتائج الفورية (6 أشهر)."
   - "البروتوكولات مع النساء في فترة ما بعد انقطاع الطمث (GSM) واحتياجاتهن الخاصة (استخدام الإستروجين المهبلي) لم تُغطَّ."
 ---
-
 # علاج موسّعات المهبل (Vaginal Dilator Therapy)
 
 تقنية علاجية تستخدم سلسلة من الموسّعات (dilators) بأحجام متدرّجة، تُدخَل في المهبل تدريجياً لإعادة بناء التقبّل الجسدي وتقليل الألم والخوف المرتبط بالإيلاج. تُستخدم في علاج عسر الإيلاج (dyspareunia)، vaginismus، الألم التناسلي الحوضي، وكذلك بعد العلاجات الطبية (استئصال، إشعاع) أو في سياق المتحولين جنسياً (post-vaginoplasty rehabilitation).

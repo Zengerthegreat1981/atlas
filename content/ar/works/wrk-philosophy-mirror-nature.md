@@ -13,14 +13,14 @@ language: "الإنجليزية"
 active_start: 1979
 active_end: 1979
 edges:
-  - rel: "belongs_to", target: "البراغماتية الجديدة (Neopragmatism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neopragmatism", target_type: "مدرسة"
 related:
-  - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
-  - id: "sch-neopragmatism", title: "البراغماتية الجديدة (Neopragmatism)", type: "مدرسة"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-  - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-  - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
-  - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
+- id: "sch-neopragmatism", title: "البراغماتية الجديدة (Neopragmatism)", type: "مدرسة"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-dewey", title: "جون ديوي", type: "مفكر"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "النص الأول (1979) لم يُقارن بالمراجعات اللاحقة لرورتي في 'البراغماتية' (1982)."
   - "لا يوجد اقتباس مباشر موثوق من الفصل 3."

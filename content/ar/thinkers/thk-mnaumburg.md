@@ -10,13 +10,20 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1927
 active_end: 1983
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← مارغريت نومبورغ"
 edges:
-  - rel: "belongs_to", target: "العلاج بالفن", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج بالفن", target_type: "مدرسة"
 related:
-  - id: "thk-ekramer", title: "إديث كرامر", type: "مفكر"
-  - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-ekramer", title: "إديث كرامر", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-ahill", title: "أدريان هيل", type: "مفكر"
+- id: "thk-cmalchiodi", title: "كاثي مالكيودي", type: "مفكر"
+- id: "thk-fcaine", title: "فلورنس كاني", type: "مفكر"
+- id: "thk-hkwiatkowska", title: "هانا كفياتكوفسكا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # مارغريت نومبورغ

@@ -6,16 +6,20 @@ level: "متقدم"
 title: "خمس طرق للتحليل الفينومينولوجي"
 en: "Five Ways of Doing Phenomenological Analysis (Wertz, 2011)"
 crumb: "المدرسة الوجودية ← الأعمال ← خمس طرق للتحليل الفينومينولوجي"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-  - id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
-  - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
-  - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
-  - id: "stu-descriptive-phenomenological-method-giorgi", title: "المنهج الفينومينولوجي الوصفي (جيورجي)", type: "دراسة وبحث"
-  - id: "stu-heuristic-research", title: "البحث الكشفي / الاستكشافي (Heuristic Research)", type: "دراسة وبحث"
+- id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
+- id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
+- id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
+- id: "stu-descriptive-phenomenological-method-giorgi", title: "المنهج الفينومينولوجي الوصفي (جيورجي)", type: "دراسة وبحث"
+- id: "stu-heuristic-research", title: "البحث الكشفي / الاستكشافي (Heuristic Research)", type: "دراسة وبحث"
 gaps:
   - "النص الأصلي 'Five Ways of Doing Phenomenological Analysis' (2011) لفيرتز يحتاج مراجعة من المصدر الأولي للتفاصيل."
+  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # خمس طرق للتحليل الفينومينولوجي (2011)
