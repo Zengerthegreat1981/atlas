@@ -19,8 +19,7 @@ related:
 - id: "thk-dbaumrind", title: "ديانا باومرند", type: "مفكر"
 - id: "thk-tbrazelton", title: "تي. بيري برازيلتون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *The Psychology of Moral Development* (1984) بترجمة عربية معتمدة."
 ---
 
 # لورنس كولبرغ
@@ -43,7 +42,3 @@ gaps:
 - *The Philosophy of Moral Development* (1981).
 - *The Psychology of Moral Development* (1984).
 - *Moral Education* (مساهم، 1970).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -19,7 +19,7 @@ related:
 - id: "thk-wmischel", title: "والتَر ميشيل", type: "مفكر"
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *Social Learning and Clinical Psychology* (1954) بترجمة عربية معتمدة."
   - "سيرة شخصية بعد 1980 — موضع بحث."
 ---
 

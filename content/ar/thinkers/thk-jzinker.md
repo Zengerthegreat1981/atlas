@@ -21,7 +21,7 @@ related:
 - id: "thk-rfrank", title: "رويلا فرانك", type: "مفكر"
 gaps:
   - "التفاصيل الكاملة عن حياته المبكرة لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Creative Process in Gestalt Therapy* (1977) بترجمة عربية معتمدة."
   - "صُنّف الملف سابقاً تحت «الجشطالت الجسدي (نارانخو)» وارتبط بـ`thk-dchamberlain` (ديفيد تشامبرلين، وهو من حقل علم نفس ما قبل الولادة) — ولا صلة له بأيّهما؛ وموقعه **معهد كليفلاند للجشطالت**."
 ---
 
@@ -47,7 +47,3 @@ gaps:
 - *Creative Process in Gestalt Therapy* (1977).
 - *In Search of Good Form: Gestalt Therapy with Couples and Families* (1994).
 - *Sketches: An Anthology of Essays, Art and Poetry* (2001).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

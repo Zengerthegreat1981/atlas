@@ -19,7 +19,7 @@ related:
 - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
 - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *The Psychology of Death* (1972) بترجمة عربية معتمدة."
   - "تأسيسه لدورية أوميغا (Omega: Journal of Death and Dying) ومفهوم 'المنظومة الاجتماعية للموت' (Death System) يستحقان توثيقاً."
 ---
 

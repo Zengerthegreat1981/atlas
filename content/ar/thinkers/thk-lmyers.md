@@ -18,7 +18,7 @@ related:
 - id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
 gaps:
   - "سنة الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Understanding the African-American Experience* (2001) بترجمة عربية معتمدة."
   - "تحقّق: كتابها التأسيسي Understanding an Afrocentric World View: Introduction to an Optimal Psychology صدر عام 1988 (ط2 1993)، فعُدِّل تاريخ active_start إلى 1988 (مصدر: Google Books، ResearchGate)."
 ---
 
@@ -41,7 +41,3 @@ gaps:
 
 - *Understanding the African-American Experience* (2001).
 - *The Deepest Well* (مساهم، 2018).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

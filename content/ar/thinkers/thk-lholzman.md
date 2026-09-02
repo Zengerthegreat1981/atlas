@@ -18,8 +18,7 @@ related:
 - id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
 - id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Performing Psychology* (1999) بترجمة عربية معتمدة."
 ---
 
 # لويز هولزمان
@@ -43,7 +42,3 @@ gaps:
 - *Performing Psychology: A Postmodern Culture of the Mind* (1999).
 - *Revolutionizing Counseling: Lessons from the Social Therapy Project* (2012).
 - *Vygotsky at Work and Play* (2009).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

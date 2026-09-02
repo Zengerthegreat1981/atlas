@@ -19,7 +19,7 @@ related:
 - id: "wrk-essay-on-man-cassirer", title: "مقال عن الإنسان (An Essay on Man) - كاسيرر", type: "عمل / كتاب"
 - id: "wrk-symbolic-forms-cassirer", title: "فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر", type: "عمل / كتاب"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من *Philosophy in a New Key* (1942) بترجمة عربية معتمدة."
   - "كتابها 'فلسفة في مفتاح جديد' (1942) ونظرية 'الشكل الحي والرمزية العاطفية' تستحق توثيقاً."
 ---
 

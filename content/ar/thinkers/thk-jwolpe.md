@@ -20,7 +20,7 @@ related:
 - id: "thk-mc-jones", title: "ماري كوفر جونز", type: "مفكر"
 - id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *Psychotherapy by Reciprocal Inhibition* (1958) بترجمة عربية معتمدة."
   - "تفاصيل حياته في جنوب أفريقيا قبل انتقاله لأمريكا — موضع بحث."
 ---
 

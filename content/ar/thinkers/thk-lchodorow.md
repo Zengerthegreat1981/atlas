@@ -18,8 +18,7 @@ related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *The Reproduction of Mothering* (1978) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
   - "edges.belongs_to كان نصاً حراً 'التحليل النفسي النسوي' بدل slug — لا يوجد sch- معتمد بهذا الاسم، فاستُبدل بالمفهوم المطابق con-feminist-psychoanalysis الموجود فعلاً في related."
 ---
@@ -45,7 +44,3 @@ gaps:
 - *Feminism and Psychoanalytic Theory* (1989).
 - *The Power of Feelings* (1999).
 - *Individualizing Gender and Sexuality* (2012).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

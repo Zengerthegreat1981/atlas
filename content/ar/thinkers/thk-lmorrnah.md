@@ -19,7 +19,7 @@ related:
 - id: "thk-ihewlen", title: "إِهالِيكالا هيو لين", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إِهالِيكالا هيو لين (thk-ihewlen)."
   - "هوية الملف: الـslug `thk-lmorrnah` يشير إلى Abraham Kawai'ae'a. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
@@ -41,7 +41,3 @@ gaps:
 ## أهم أعماله
 
 - مقالات في *Hawaiian Journal of History* و*Journal of the Polynesian Society*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

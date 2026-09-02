@@ -20,7 +20,7 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من *Existential-Humanistic Therapy* (2010) بترجمة عربية معتمدة."
   - "برامج التدريب على العلاج الوجودي-التكاملي (Existential-Integrative Therapy) تستحق إدراجاً في التيارات والتقنيات."
 ---
 

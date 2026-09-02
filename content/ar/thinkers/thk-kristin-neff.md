@@ -20,7 +20,7 @@ related:
 - id: "wrk-self-compassion", title: "الذات المتعاطفة: القوة المثبتة للطف مع نفسك", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Self-Compassion: The Proven Power of Being Kind to Yourself* (2011) بترجمة عربية معتمدة."
 ---
 
 # كريستين نيف
@@ -52,7 +52,3 @@ gaps:
 - *The Mindful Self-Compassion Workbook* (2018، مع كريستوفر جيرمر).
 - *Fierce Self-Compassion* (2021).
 - *Development and Validation of a Scale to Measure Self-Compassion* (2003).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

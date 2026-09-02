@@ -20,7 +20,7 @@ related:
 - id: "con-emotional-immaturity-parents", title: "اللاتنضج العاطفي الوالدي", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Adult Children of Emotionally Immature Parents* (2015) بترجمة عربية معتمدة."
 ---
 
 # ليندسي جيبسون
@@ -52,7 +52,3 @@ gaps:
 - *Recovering from Emotionally Immature Parents* (2019).
 - *Self-Care for Adult Children of Emotionally Immature Parents* (2021).
 - *Disentangling from Emotionally Immature People* (2023).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

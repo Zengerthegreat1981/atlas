@@ -23,8 +23,7 @@ related:
 - id: "thk-rrackoff", title: "راسل أكوف", type: "مفكر"
 - id: "thk-sbeer", title: "ستافورد بير", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *General System Theory* (1968) بترجمة عربية معتمدة."
 ---
 
 # لودفيغ فون برتالانفي
@@ -48,7 +47,3 @@ gaps:
 - *Theoretische Biologie* (1932).
 - *An Outline of General Systems Theory* (1950).
 - *General System Theory* (1968).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

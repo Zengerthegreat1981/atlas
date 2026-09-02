@@ -19,8 +19,7 @@ related:
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 - id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Trauern: Phasen und Chancen des psychischen Prozesses* (1982) بترجمة عربية معتمدة."
 ---
 
 # فيرينا كاست

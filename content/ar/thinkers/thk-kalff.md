@@ -19,7 +19,7 @@ related:
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "br-family-sandplay", title: "علاج الأسر الرملية", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من *Sandplay: A Psychotherapeutic Approach to the Psyche* (1966) بترجمة عربية معتمدة."
   - "تقنية العلاج بصندوق الرمل (Sandplay Therapy) ومساحة الحرية والحماية تتطلب توثيقاً إكلينيكياً."
 ---
 

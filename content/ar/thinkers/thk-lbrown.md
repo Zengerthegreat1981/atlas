@@ -21,8 +21,7 @@ related:
 - id: "crt-feminist-critique-cbt", title: "النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Subversive Dialogues* (1994) بترجمة عربية معتمدة."
 ---
 
 # لورا س. براون
@@ -46,7 +45,3 @@ gaps:
 - *Subversive Dialogues: Theory in Feminist Therapy* (1994).
 - *Lesbian Identities* (1996).
 - *Cultural Competence in Trauma Therapy* (2008).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

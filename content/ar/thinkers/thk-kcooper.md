@@ -22,7 +22,7 @@ related:
 gaps:
   - "تاريخ الميلاد الدقيق غير موثّق."
   - "كان الملف يسمّيه **«كينيث كوبر»** في العنوان الرئيسي وفي المسار، والصواب **غلين كوبر** (Glen Cooper) كما في حقل `en`؛ وكان يسمّي شريكه **«غلين هوفمان»** والصواب **كِنت هوفمان** (Kent Hoffman)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Raising a Secure Child* (2017) بترجمة عربية معتمدة."
 ---
 
 # غلين كوبر
@@ -50,7 +50,3 @@ gaps:
 
 - *Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore* (2017، مع كِنت هوفمان وبرت باول).
 - "The Circle of Security project: Attachment-based intervention with caregiver–pre-school child dyads" (2002، مع مارفن وهوفمان وباول)، *Attachment & Human Development*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

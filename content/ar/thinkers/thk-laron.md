@@ -22,7 +22,7 @@ related:
 - id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
 gaps:
   - "تأسيس مركز PRS (Postgraduate Psychoanalytic Society) لم يُراجع بعد تفصيلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *A Meeting of Minds* (1996) بترجمة عربية معتمدة."
 ---
 
 # لويس آرون

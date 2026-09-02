@@ -21,7 +21,7 @@ related:
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *Death in Life: Survivors of Hiroshima* (1967) بترجمة عربية معتمدة."
   - "نظرية 'الخلود الرمزي' (Symbolic Immortality) تستحق إدراجاً كمفهوم وجودي مستقل في مواجهة فناء الجسد."
 ---
 

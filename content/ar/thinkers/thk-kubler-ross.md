@@ -17,6 +17,7 @@ related:
 - id: "wrk-on-death-and-dying", title: "عن الموت والاحتضار", type: "عمل / كتاب"
 - id: "con-five-stages-of-grief", title: "مراحل الحزن الخمس", type: "مفهوم"
 gaps:
+  - "لا يوجد اقتباس مباشر موثوق من *On Death and Dying* (1969) بترجمة عربية معتمدة."
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد slug معتمد لمدرسة/فرع 'الطب النفسي وسيكولوجيا الموت والحداد' — كان edges.belongs_to نصاً حراً فأُفرغ الحقل بدل اختلاق slug."
 ---
@@ -48,7 +49,3 @@ gaps:
 - *Questions and Answers on Death and Dying* (1974).
 - *Living with Death and Dying* (1981).
 - *On Grief and Grieving* (2005، مع ديفيد كيسلر).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

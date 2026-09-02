@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-liberation-philosophy", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *América en la historia* (1957) بترجمة عربية معتمدة."
 ---
 
 # ليوبولدو زيا
@@ -42,7 +42,3 @@ gaps:
 - *América en la historia* (1957).
 - *La filosofía americana como filosofía sin más* (1969).
 - *Filosofía de la historia americana* (1978).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

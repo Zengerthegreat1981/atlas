@@ -22,7 +22,7 @@ related:
 - id: "tec-mbct-three-minute-breathing", title: "مساحة التنفس الثلاث دقائق (Three Minute Breathing Space) في MBCT", type: "تقنية/تدخل علاجي"
 gaps:
   - "نظرية «الشبكات المعرفية التفاعلية» (Interactive Cognitive Subsystems) التي صاغها تيزديل في 1983 وأثرها العميق على تطوير MBCT تحتاج توثيقاً إضافياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Mindfulness-Based Cognitive Therapy for Depression* (2002) بترجمة عربية معتمدة."
 ---
 # جون تيزديل
 

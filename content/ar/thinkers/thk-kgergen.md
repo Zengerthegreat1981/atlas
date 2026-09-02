@@ -23,8 +23,7 @@ related:
 - id: "crt-postmodern-critique", title: "نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي", type: "نقد خارجي موثَّق"
 - id: "rel-postmodern-systemic", title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة", type: "علاقة بين مدرستين"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *The Saturated Self* (1991) بترجمة عربية معتمدة."
 ---
 
 # كينيث جيرغن
@@ -58,6 +57,3 @@ gaps:
 - *Relational Being: Beyond Self and Community* (2009).
 - "Social Psychology as History" (1973)، *Journal of Personality and Social Psychology*.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

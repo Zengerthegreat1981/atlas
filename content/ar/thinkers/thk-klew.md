@@ -21,8 +21,7 @@ related:
 - id: "thk-dcartwright", title: "دوروين كارترايت", type: "مفكر"
 - id: "thk-eschein", title: "إدغار شين", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Field Theory in Social Science* (1951) بترجمة عربية معتمدة."
 ---
 
 # كورت لوين
@@ -61,7 +60,3 @@ gaps:
 - *Field Theory in Social Science* (1951، بعد وفاته).
 - *Resolving Social Conflicts* (1948، بعد وفاته).
 - "Patterns of aggressive behavior in experimentally created social climates" (1939، مع ليبيت ووايت)، *Journal of Social Psychology*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

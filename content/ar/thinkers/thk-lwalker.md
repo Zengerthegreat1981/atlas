@@ -19,7 +19,7 @@ related:
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:
   - "تفاصيل السيرة الذاتية لم تُوثّق بشكل مستقل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Surviving Sexual Ambiguity* (1991) بترجمة عربية معتمدة."
 ---
 
 # لورا ووكر
@@ -40,7 +40,3 @@ gaps:
 
 - *Surviving Sexual Ambiguity* (1991).
 - مقالات عدة في *Journal of the National Association of Research and Therapy of Homosexuality (NARTH)*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

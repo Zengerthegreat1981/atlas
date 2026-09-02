@@ -17,7 +17,7 @@ edges:
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *Psychotherapy and Buddhism: Toward an Integration* (1996) بترجمة عربية معتمدة."
   - "نموذجه في 'العلاج النفسي التأملي والتكاملي' (Meditative Psychotherapy) يحتاج توثيقاً."
   - "edges.belongs_to.target كان نصاً حراً 'التحليل النفسي والبوذية' بدل slug حقيقي — استُبدل بـ sch-psychoanalysis (مدرسته الأصلية حسب المتن: محلّل نفسي علائقي اشتغل على البوذية)."
   - "رابطا br-humanistic وcon-meaning أُزيلا من related: القيد في المتن ينصّ صراحةً أن روبين ليس ضمن الوجودية العلاجية، وهو ما يناقض تصنيفه سابقاً تحت br-humanistic."

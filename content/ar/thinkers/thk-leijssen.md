@@ -20,7 +20,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "tec-four-existential-dimensions-healing", title: "الأبعاد الأربعة للشفاء: الجسدي، النفسي، الاجتماعي، الروحي", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من *Time for Quality: A Guide to Experiential Psychotherapy* (2007) بترجمة عربية معتمدة."
   - "نموذجها الرباعي للأبعاد الوجودية والروحية والجسدية للشفاء يستحق توثيقاً."
 ---
 

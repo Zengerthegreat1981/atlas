@@ -19,7 +19,7 @@ related:
 - id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
 - id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *The Therapeutic Relationship: Transference, Countertransference, and the Making of Meaning* (2009) بترجمة عربية معتمدة."
   - "تفاصيل مسيرتها قبل مشروع روسيا — موضع بحث."
   - "كان الملف يستعمل صيغة المذكّر في كلّ مواضعه، و**جان وينر محلّلة** (Jan Wiener)؛ صُحّحت الصيغة."
 ---
