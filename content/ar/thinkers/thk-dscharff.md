@@ -15,11 +15,18 @@ edges:
   []
 related:
 - id: "con-interpersonal-unconscious", title: "اللاوعي بين الأشخاص", type: "مفهوم"
+- id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-guntrip", title: "هاري غانترب", type: "مفكر"
+- id: "sch-object-relations", title: "نظرية العلاقات الموضوعية (Object Relations Theory)", type: "مدرسة"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من *Object Relations Family Therapy* (1987) بترجمة عربية معتمدة."
-  - "دوره في تأسيس Institute for Object Relations يستحق توثيقاً."
-  - "الـphantom slug thk-jscharff (thk-jscharff) أُزيل من related — لا يوجد ملف مطابق في الأطلس."
+  - "سنة تأسيس المعهد في تشيفي تشيس (ميريلاند) واسمه الأول قبل التحول إلى International Psychotherapy Institute غير موثّقين هنا."
+  - "الـphantom slug thk-jscharff أُزيل من related — لا يوجد ملف مطابق في الأطلس لجِل سافيج شارف، وهي شريكة التأليف في أغلب أعماله؛ الطلب سُجّل لإنشائه."
+  - "توزيع الإسهام بين ديفيد شارف وجِل سافيج شارف في المجلدات المشتركة (1987، 1991، 2011) غير قابل للفصل من نصوصها، فلا يُنسب في هذا الملف مفهوم لأحدهما منفرداً."
+  - "لا تُعرف ترجمة عربية لأي من كتبه؛ ولا يوجد مسح لعدد المجلدات المحرَّرة المنسوبة له."
 ---
 
 # ديفيد شارف
@@ -38,9 +45,28 @@ gaps:
 
 ديفيد شارف امتداد للمدرسة البريطانية المستقلّة — **فيربيرن** و**ونيكوت** و**غنتريب** و**بيون** — في سياق أمريكي كانت تهيمن عليه سيكولوجيا الأنا ثم سيكولوجيا الذات. وموقعه في هذا الأطلس أنه الحلقة التي انتقل عبرها **تحليل علاقات الموضوع من الفرد إلى النسق العلائقي**، فالتقى بذلك مع العلاج الأسري النَّسَقي من جهة أخرى تماماً: هذا يأتي من التحليل ويصل إلى النسق، وذاك يأتي من نظرية الأنساق ويصل إلى العلاقة.
 
+## عمله التحريري على فيربيرن
+
+مصدر أطروحته النصّي منشور بقلمه: حرّر مع **إلينور فيربيرن بيرتلز** *From Instinct to Self: Selected Papers of W. R. D. Fairbairn* في مجلّدين (1994)، ثم *Fairbairn and Relational Theory* (2005). أي أن نقله للبنية الفيربيرنية إلى النسق الزوجي جاء من عملٍ مباشر على نصوص فيربيرن نفسها لا من وسائط.
+
+## القيد
+
+إسهام شارف تطبيقي-تقني في المقام الأول: لا يقدّم بنية نظرية جديدة تُضاف إلى فيربيرن، بل يمدّ نموذجه إلى الزوجين والأسرة — والمفاهيم الأساسية (الموضوع المثير والرافض، الحاوي، الهوية الإسقاطية) مأخوذة عن فيربيرن وونيكوت وبيون وكلاين لا مصوغة عنده. وأعماله لا تستند إلى تجارب مضبوطة: قاعدتها التجريبية دراسات حالة سريرية من ممارسته وممارسة متدرّبي المعهد، ومصطلح «اللاوعي بين الأشخاص» (2011) نظري لا مقيس.
+
 ## أهم أعماله
 
+- *The Sexual Relationship: An Object Relations View of Sex and the Family* (1982).
 - *Object Relations Family Therapy* (1987، مع جِل سافيج شارف).
 - *Object Relations Couple Therapy* (1991، معها).
-- *The Sexual Relationship: An Object Relations View of Sex and the Family* (1982).
 - *Refinding the Object and Reclaiming the Self* (1992).
+- *From Instinct to Self: Selected Papers of W. R. D. Fairbairn* (1994، تحريراً مع إلينور فيربيرن بيرتلز).
+- *Fairbairn and Relational Theory* (2005، تحريراً مع بيرتلز).
+- *The Interpersonal Unconscious* (2011، مع جِل سافيج شارف).
+
+## المصادر
+
+- Scharff, David E. *The Sexual Relationship: An Object Relations View of Sex and the Family*. London: Routledge, 1982.
+- Scharff, David E., and Jill Savege Scharff. *Object Relations Family Therapy*. Northvale, NJ: Jason Aronson, 1987.
+- Scharff, David E. *Refinding the Object and Reclaiming the Self*. Northvale, NJ: Jason Aronson, 1992.
+- Scharff, David E., and Ellinor Fairbairn Birtles (eds.). *From Instinct to Self: Selected Papers of W. R. D. Fairbairn*. Northvale, NJ: Jason Aronson, 1994.
+- Scharff, David E., and Jill Savege Scharff. *The Interpersonal Unconscious*. Lanham, MD: Jason Aronson, 2011.

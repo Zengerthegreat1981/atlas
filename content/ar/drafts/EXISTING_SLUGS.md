@@ -2,14 +2,14 @@
 
 **ملف مولَّد تلقائياً — لا تعدّله يدوياً.** يُعاد بناؤه بـ `python3 scripts/build_slug_index.py`.
 
-الإجمالي: **7111** عنصراً (**6630** معتمد + **481** مسودة).
+الإجمالي: **7114** عنصراً (**6633** معتمد + **481** مسودة).
 استخدم هذا الفهرس دايماً قبل ما تضيف أي عنصر جديد — لا تخترع slug ولا تفترض إنه غير موجود
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
 ⚠️ **22 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-cmadanes, thk-kimkwansung, thk-bobbeck, thk-kaarlokeranen, thk-jdelozier, thk-louise-guerney, thk-cyamanaka, thk-caruso-amedeo, thk-edward-de-bono, thk-kfeeney, thk-john-friedman, thk-jabra, thk-jchales, thk-jcawley, thk-akelman, thk-johann-hari, thk-dwchen, thk-jgone, thk-kunzli, thk-lwalker, thk-deng-yuanhai, thk-alasdair-macleod
 
-## مفكر (2505)
+## مفكر (2508)
 
 - `thk-aabdelkhalek` — أمجد عبد الخالق — ✅ معتمد
 - `thk-aabrer` — كارل أبراهام — ✅ معتمد
@@ -226,6 +226,7 @@
 - `thk-bennabi` — مالك بن نبي — 🕓 مسودة
 - `thk-benso` — سيلفيو بينسو — ✅ معتمد
 - `thk-bentall` — ريتشارد بنتال — 🕓 مسودة
+- `thk-benthall` — جوناثان بينثال — ✅ معتمد
 - `thk-bentham` — جيريمي بنثام — ✅ معتمد
 - `thk-berdyaev` — نيكولاي بيردييف — ✅ معتمد
 - `thk-bergson` — هنري برغسون — ✅ معتمد
@@ -268,6 +269,7 @@
 - `thk-bmontalvo` — براوليو مونتالفو — ✅ معتمد
 - `thk-bmoore` — بوب مور — ✅ معتمد
 - `thk-boadella` — ديفيد بوعِلّا — ✅ معتمد
+- `thk-bob-proctor` — بوب بروكتور — ✅ معتمد
 - `thk-bobbeck` — بوب بيك — ✅ معتمد
 - `thk-bodhidharma` — بوديدارما (داروما) — ✅ معتمد
 - `thk-bodunrin` — بيتر أولوَمبي بَودُنرن — ✅ معتمد
@@ -847,6 +849,7 @@
 - `thk-hadi-sabzawari` — ملا هادي بن مهدي السبزواري — ✅ معتمد
 - `thk-hajime-tanabe` — هاجيمي تانيبي — ✅ معتمد
 - `thk-hakuin` — هاكوين إيكاكو — ✅ معتمد
+- `thk-halim-barakat` — حليم بركات — ✅ معتمد
 - `thk-halling` — ستين هالينغ — ✅ معتمد
 - `thk-hamann` — يوهان غيورغ هامان — 🕓 مسودة
 - `thk-hammarskjold` — داغ همرشولد — ✅ معتمد

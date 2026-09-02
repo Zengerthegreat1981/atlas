@@ -15,28 +15,50 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
+- id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
+- id: "con-harm-reduction", title: "الحد من الضرر (Harm Reduction)", type: "مفهوم"
+- id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-kwitkiewitz", title: "كايتي ويتكيفيتش", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:
-  - "مفهوم مارلات لـ«تأثير انتهاك الامتناع» (Abstinence Violation Effect, AVE) في 1973 وتأثيره على نظرية الانتكاس في الإدمان يستحق توثيقاً خاصاً."
-  - "لا يوجد اقتباس مباشر موثوق من *Mindfulness-Based Relapse Prevention for Addictive Behaviors* (2011) بترجمة عربية معتمدة."
+  - "لا يوجد في الأطلس ملف لجوديث غوردون (Judith R. Gordon) شريكته في تأليف *Relapse Prevention* (1985)، ولا لسارة بوين (Sarah Bowen) الشريكة في دليل MBRP (2011) — كلاهما مطلوب في requests-spark.md."
+  - "ألبرت باندورا غائب عن الأطلس، ومارلات بنى شرط «الكفاءة الذاتية» في نموذج منع الانتكاس على نظريته — الرابط مفقود لغياب الملف لا لغياب الصلة."
+  - "تاريخ أول صياغة صريحة لـ«تأثير انتهاك الامتناع» غير محسوم: النص السابق كان ينسبه إلى 1973 بلا مرجع، والمصدر المتاح هنا هو فصل 1980 مع غوردون."
+  - "لا تُعرف ترجمة عربية معتمدة لأي من كتب مارلات، ولذلك لا يُقتبس منه هنا نصاً."
 ---
 
 # ألان مارلات
 
-عالم نفس إكلينيكي أمريكي، أستاذ في جامعة واشنطن (University of Washington) ومن أبرز باحثي علم النفس الإدماني ومنع الانتكاس، المؤسس المشارك لـ MBRP (Mindfulness-Based Relapse Prevention).
+عالم نفس إكلينيكي أمريكي (1941–2011)، أستاذ في جامعة واشنطن (University of Washington) ومدير مركز أبحاث السلوكيات الإدمانية فيها، وصاحب نموذج **منع الانتكاس** في علاج الإدمان.
 
 ## ما أعطاه
 
-صاغ مارلات في 1973 مفهوم **«تأثير انتهاك الامتناع»** (Abstinence Violation Effect, AVE)، وهو التفسير المعرفي الذي يجعل تعاطي جرعة صغيرة بعد فترة امتناع سبباً لانتكاسة كاملة. هذا المفهوم غيّر فهم الإدمان في السبعينيات والثمانينيات. طوّر نموذج «الوقاية من الانتكاس القائم على اليقظة الذهنية» (MBRP) مع كايتي ويتكيفيتش وسارة بوين (Sarah Bowen)، وظهر في 2004 كأحد امتدادات MBSR الأساسية في سياق الإدمان.
+في فصل نشره مع **جوديث غوردون** عام 1980 عن «محدّدات الانتكاس»، ثم في كتابهما *Relapse Prevention* (1985)، فصل مارلات بين **الزلّة** (lapse: تعاطٍ منفرد) و**الانتكاسة** (relapse: عودة كاملة إلى النمط السابق) — وهو تمييز لم يكن قائماً في نماذج الإدمان قبله. وصاغ داخل النموذج نفسه مفهوم **«تأثير انتهاك الامتناع»** (Abstinence Violation Effect): الزلّة الواحدة تُقرأ من صاحبها كبرهان على فشله الكامل، فيتحوّل التفسير المعرفي نفسه إلى محرّك الانتكاسة. النموذج يقوم على ثلاثة عناصر: تحديد **المواقف عالية الخطورة**، تدريب **استجابة التعامل**، وأثر النتيجة على **الكفاءة الذاتية** — وهو الشرط الذي استعاره مارلات من نظرية ألبرت باندورا.
 
-## الأثر المباشر
+## الحدّ من الضرر
 
-يُعدّ مارلات من أهم الشخصيات المؤسِّسة لعلم النفس الإدماني المعاصر، وكتبه — لا سيما «إدمان الكحول: تطوير البديل المعتمد على الكفاءة» (Alcoholism: The Development of the Self-Confidence Approach) — غيّرت النمذجة الإكلينيكية للانتكاس من فشل أخلاقي إلى عملية نفسية قابلة للتدخّل العلاجي. كتابه المشترك مع ويتكيفيتش «منع الانتكاس القائم على اليقظة الذهنية للإدمان» (Mindfulness-Based Relapse Prevention for Addictive Behaviors, 2011) غدا المرجع المعتمد في الممارسة.
+حرّر مارلات *Harm Reduction: Pragmatic Strategies for Managing High-Risk Behaviors* (1998)، وهو الكتاب الذي أدخل مقاربة الحدّ من الضرر إلى علم النفس الإكلينيكي الأمريكي في مواجهة أرثوذكسية الامتناع الكامل السائدة في نظام العلاج الأمريكي وتقليد الخطوات الاثنتي عشرة. وفي *BASICS* (1999) — مع ليندا ديميف وجون بير ودانيال كيفلاهان — طبّق المقاربة على شرب الجامعيين في تدخّل قصير من جلستين لا يشترط الامتناع.
 
 ## أهم أعماله
 
-- «إدمان الكحول: تطوير البديل المعتمد على الكفاءة» (Alcoholism, 1978).
-- «تقييم علاج الإدمان: طرق البحث» (Treatment of Addictions, 1983).
-- «منع الانتكاس القائم على اليقظة الذهنية للإدمان: دليل سريري» (Mindfulness-Based Relapse Prevention for Addictive Behaviors: A Clinician's Guide, 2011) — مع ويتكيفيتش وآخرين.
+- *Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors* (1985) — مع جوديث غوردون؛ طبعة ثانية 2005.
+- *Harm Reduction: Pragmatic Strategies for Managing High-Risk Behaviors* (1998) — محرِّراً.
+- *Brief Alcohol Screening and Intervention for College Students (BASICS)* (1999) — مع ديميف وبير وكيفلاهان.
+- "Relapse prevention for alcohol and drug problems: That was Zen, this is Tao" (2004) — مع كايتي ويتكيفيتش، في *American Psychologist*.
+- *Mindfulness-Based Relapse Prevention for Addictive Behaviors: A Clinician's Guide* (2011) — مع سارة بوين ونيها تشاولا.
+
+## الأثر المباشر
+
+من نموذج 1985 خرج بروتوكول `tec-relapse-prevention` الذي دخل الدليل الإكلينيكي لاضطراب استخدام الكحول. وفي أواخر مسيرته دمج مارلات تدريب اليقظة الذهنية المستمَدّ من برنامج جون كابات-زين مع بنية منع الانتكاس، فأنتج **MBRP** مع سارة بوين وكايتي ويتكيفيتش؛ اختُبر البرنامج في تجربة تجريبية بقيادة بوين عام 2009 وصدر دليله السريري في 2011، سنة وفاة مارلات.
+
+## القيد
+
+تصنيف «محدّدات الانتكاس» في نموذج 1985 واجه نقداً على ضعف موثوقية تحكيمه: المُقيِّمون لا يتفقون على تصنيف الموقف نفسه، وهو أحد أسباب إعادة صياغة مارلات وويتكيفيتش للنموذج في 2004 كنسق دينامي غير خطي بدل تصنيف ثابت للأسباب. وفي التقييم الكمّي، وجدت ميتا-تحليلة إرفين وزملائه (1999) لـ26 دراسة أن أثر منع الانتكاس معتدل لا كبير، وأقوى في الكحول وتعدّد المواد منه في التدخين.
+
+## المصادر
+
+- Marlatt, G. A., & Gordon, J. R. (1985). *Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors*. Guilford Press.
+- Marlatt, G. A. (Ed.). (1998). *Harm Reduction: Pragmatic Strategies for Managing High-Risk Behaviors*. Guilford Press.
+- Witkiewitz, K., & Marlatt, G. A. (2004). "Relapse prevention for alcohol and drug problems: That was Zen, this is Tao." *American Psychologist*, 59(4), 224–235.
+- Bowen, S., Chawla, N., & Marlatt, G. A. (2011). *Mindfulness-Based Relapse Prevention for Addictive Behaviors: A Clinician's Guide*. Guilford Press.
