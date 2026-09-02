@@ -19,7 +19,7 @@ related:
 - id: "thk-jwiener", title: "جان وينر", type: "مفكر"
 - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من *Jungian Analysts Working Across Cultures: From Tradition to Innovation* (2015/2021) بترجمة عربية معتمدة."
   - "تأكَّد عبر البحث أنها محلّلة يونغية بريطانية، عضو في الجمعية البريطانية للتحليل النفسي التحليلي (SAP) والرابطة الدولية لعلم النفس التحليلي (IAAP)، وشاركت مع جان وينر في نشر أعمال حول التحليل النفسي عبر الثقافات (منها فصل مشترك في *Jungian Analysts working across Cultures*, Routledge 2021/Spring Journal 2015) — يدعم روايتها كمدرِّبة في مشروع روسيا لا كـ'أستاذة فخرية بجامعة East London'."
 ---
 

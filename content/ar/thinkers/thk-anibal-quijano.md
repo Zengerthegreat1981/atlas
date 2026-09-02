@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-decolonial-latin", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Colonialidad del poder, eurocentrismo y América Latina* (2000) بترجمة عربية معتمدة."
 ---
 
 # أنيبال كويخانو
@@ -42,6 +42,3 @@ gaps:
 - *Americanity as a Concept* (1992، مع إيمانويل والرشتاين).
 - *Dominación y cultura* (1980).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

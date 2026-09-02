@@ -22,7 +22,7 @@ related:
 - id: "thk-nepstein", title: "نِكولاس إبستين", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Brief Therapy for Couple Distress* (2001) بترجمة عربية معتمدة."
 ---
 
 # و. كيم هالفورد
@@ -43,7 +43,3 @@ gaps:
 
 - Halford, W. K., *Brief Therapy for Couple Distress* (2001).
 - مقالات في *Journal of Family Psychology*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -20,7 +20,7 @@ related:
 - id: "thk-jrivett", title: "جوردان ريد", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Collaborative Therapy with Multi-Stressed Families* (1997) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيما كول (thk-ecolle)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوردان ريد (thk-jrivett)."
 ---
@@ -45,6 +45,3 @@ gaps:
 - *Collaborative Therapy with Multi-Stressed Families* (1997).
 - *The Skills of Collaborative Counseling* (2018).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -18,7 +18,7 @@ related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "تفاصيل الفترة المبكرة في RAND لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Systems Approach* (1968) بترجمة عربية معتمدة."
 ---
 
 # سي. ويست تشرتشمان
@@ -40,7 +40,3 @@ gaps:
 - *Introduction to Operations Research* (1957).
 - *The Systems Approach* (1968).
 - *The Design of Inquiring Systems* (1971).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

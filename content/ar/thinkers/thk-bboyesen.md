@@ -19,7 +19,7 @@ related:
 - id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"
 gaps:
   - "سنة الميلاد الدقيقة قد تكون 1938 — لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Biodynamic Psychology* (1987) بترجمة عربية معتمدة."
 ---
 
 # غاستون بوييسن
@@ -42,7 +42,3 @@ gaps:
 - *The Collected Papers of Gerda Boyesen* (محرر، 1981).
 - *Biodynamic Psychology* (1987).
 - *The Psychopermeability of the Body* (2011).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -48,6 +48,3 @@ gaps:
 - *The Transformation of Intimacy* (1992) — تحوّل الألفة.
 - *Modernity and Self-Identity* (1991) — الحداثة وهوية الذات.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح بالعربية.

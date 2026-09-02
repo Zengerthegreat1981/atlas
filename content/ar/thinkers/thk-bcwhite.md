@@ -18,7 +18,7 @@ related:
 - id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Compassionate Therapy* (2006) بترجمة عربية معتمدة."
 ---
 
 # برنارد وايت
@@ -39,7 +39,3 @@ gaps:
 
 - *Compassionate Therapy* (2006).
 - مقالات في *Australian and New Zealand Journal of Family Therapy*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

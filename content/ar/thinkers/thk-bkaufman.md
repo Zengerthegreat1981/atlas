@@ -19,7 +19,7 @@ related:
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:
   - "التفاصيل الشخصية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Homosexuality: The Psychology of the Creative Process* (1980) بترجمة عربية معتمدة."
 ---
 
 # بِنْيامين كوفمان
@@ -39,7 +39,3 @@ gaps:
 ## أهم أعماله
 
 - *Homosexuality: The Psychology of the Creative Process* (1980).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

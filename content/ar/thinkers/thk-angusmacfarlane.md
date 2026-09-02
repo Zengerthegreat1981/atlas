@@ -20,7 +20,7 @@ related:
 - id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Ako Whakatere: Culturally Responsive Teaching and Learning* (2015) بترجمة عربية معتمدة."
 ---
 
 # أنغوس ماكفارلن
@@ -44,6 +44,3 @@ gaps:
 - *Ako Whakatere: Culturally Responsive Teaching and Learning* (2015، مع سونيا ماكفارلن).
 - فصول في كتب عن علم نفس الشعوب الأصلية.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

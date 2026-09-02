@@ -18,8 +18,7 @@ related:
 - id: "thk-cschaefer", title: "تشارلز شيفر", type: "مفكر"
 - id: "thk-louise-guerney", title: "لويس غيرني", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Filial Therapy: Description and Rationale* (1964) بترجمة عربية معتمدة."
 ---
 
 # برنارد غيرني
@@ -47,7 +46,3 @@ gaps:
 
 - *Filial Therapy: Description and Rationale* (1964).
 - *Filial Therapy: Strengthening Parent-Child Relationships Through Play* لريز فان فليت (Risë VanFleet, 1994)، العمل المرجعي اللاحق الذي بنى على منهج غيرني ووسّعه.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

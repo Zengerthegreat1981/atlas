@@ -19,8 +19,8 @@ related:
 - id: "thk-pbooth", title: "فيليس بوث", type: "مفكر"
 - id: "thk-sbooth", title: "ساندرا لينداما", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Theraplay: Child-Parent Relationship Therapy* (1987) بترجمة عربية معتمدة."
+  - "سنة تأسيس Theraplay بدقة غير محدَّدة (المتن يقول «الستينيات» فقط)."
 ---
 
 # آن جِرنبرغ
@@ -47,7 +47,3 @@ gaps:
 
 - *Theraplay: Child-Parent Relationship Therapy* (مع بوث، 1987).
 - *Theraplay: A Relationship-Based Play Therapy* (مع ماكليود، 2010).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

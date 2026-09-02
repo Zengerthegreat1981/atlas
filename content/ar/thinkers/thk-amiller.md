@@ -19,8 +19,7 @@ related:
 - id: "thk-dbaumrind", title: "ديانا باومرند", type: "مفكر"
 - id: "thk-tbrazelton", title: "تي. بيري برازيلتون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *The Drama of the Gifted Child* (1979) بترجمة عربية معتمدة."
 ---
 
 # أليس ميلر
@@ -43,7 +42,3 @@ gaps:
 - *The Drama of the Gifted Child* (1979).
 - *For Your Own Good* (1980).
 - *The Body Never Lies* (2005).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

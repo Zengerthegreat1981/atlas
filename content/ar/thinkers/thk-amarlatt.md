@@ -20,7 +20,7 @@ related:
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:
   - "مفهوم مارلات لـ«تأثير انتهاك الامتناع» (Abstinence Violation Effect, AVE) في 1973 وتأثيره على نظرية الانتكاس في الإدمان يستحق توثيقاً خاصاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Mindfulness-Based Relapse Prevention for Addictive Behaviors* (2011) بترجمة عربية معتمدة."
 ---
 
 # ألان مارلات

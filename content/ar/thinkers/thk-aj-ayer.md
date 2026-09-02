@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الاقتباس المنقول في المتن («أنه كان كلّه خاطئاً تقريباً») غير منسوب إلى مقابلة بعنوان وسنة."
 ---
 
 # ألفرد جولز آير
@@ -42,7 +42,3 @@ gaps:
 - *The Foundations of Empirical Knowledge* (1940).
 - *The Problem of Knowledge* (1956).
 - *The Central Questions of Philosophy* (1973).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

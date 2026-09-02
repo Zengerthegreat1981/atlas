@@ -20,8 +20,7 @@ related:
 - id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
 - id: "thk-pslade", title: "بيتر سليد", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Theatre of the Oppressed* (1974) بترجمة عربية معتمدة."
 ---
 
 # أوغوستو بوال
@@ -44,7 +43,3 @@ gaps:
 - *Theatre of the Oppressed* (1974).
 - *Games for Actors and Non-Actors* (1992).
 - *The Rainbow of Desire* (1995).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

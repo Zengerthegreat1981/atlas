@@ -39,7 +39,3 @@ gaps:
 - *De la justice* (1945).
 - *L'empire rhétorique* (1977).
 - *Logique juridique: Nouvelle rhétorique* (1976).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

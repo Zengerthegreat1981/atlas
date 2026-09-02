@@ -19,7 +19,7 @@ related:
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Presence: Bringing Your Boldest Self to Your Biggest Challenges* (2015) بترجمة عربية معتمدة."
 ---
 
 # إيمي كادي
@@ -52,7 +52,3 @@ gaps:
 - *Power Posing: Brief Nonverbal Displays Affect Neuroendocrine Levels and Risk Tolerance* (2010، مع كارني ويَب).
 - *Universal Dimensions of Social Cognition: Warmth and Competence* (2007، مع فيسك وغليك).
 - *Presence: Bringing Your Boldest Self to Your Biggest Challenges* (2015).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

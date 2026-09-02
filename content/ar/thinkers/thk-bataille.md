@@ -21,7 +21,6 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-blanchot", title: "موريس بلانشو", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوم 'الخبرة القصوى/الحدية' (Inner Experience / Expérience intérieure) والنفقات اللامجدية يستحق إدراجاً مفاهيمياً."
 ---
 

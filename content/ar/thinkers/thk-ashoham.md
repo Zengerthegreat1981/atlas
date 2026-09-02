@@ -21,7 +21,7 @@ related:
 - id: "thk-gnardone", title: "جورجيو ناردوني", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Marital Couple in the Midst of the Family* (1991) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورجيو ناردوني (thk-gnardone)."
 ---
 
@@ -44,6 +44,3 @@ gaps:
 - *The Marital Couple in the Midst of the Family* (1991).
 - *Models of Practice in Marriage Counseling* (تحرير).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -18,7 +18,7 @@ related:
 - id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Tiny Habits* (2019) بترجمة عربية معتمدة."
 ---
 
 # بي جيه فوغ
@@ -42,7 +42,3 @@ gaps:
 - *Persuasive Technology: Using Computers to Change What We Think and Do* (2002).
 - *Tiny Habits: The Small Changes That Change Everything* (2019).
 - نموذج فوغ السلوكي (FBM) — أوراق محكّمة منذ 2009.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

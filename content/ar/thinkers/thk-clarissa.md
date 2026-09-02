@@ -20,7 +20,7 @@ related:
 - id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
 gaps:
   - "العلاقة المؤسسية بين إِسْتِس ومعاهد التدريب اليونغية الرسمية (لا تحمل شهادة دبلوم من C. G. Jung Institute) تحتاج توضيحاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من «النساء اللواتي يركضن مع الذئاب» (Women Who Run with the Wolves, 1992) بترجمة عربية معتمدة."
   - "هوية الملف: الـslug `thk-clarissa` يشير إلى Clarissa Pinkola Estés. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 

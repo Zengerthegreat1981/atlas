@@ -20,7 +20,7 @@ related:
 - id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من «البحث العاصف عن الذات» (The Stormy Search for the Self, 1990) بترجمة عربية معتمدة."
 ---
 
 # كريستينا غروف
@@ -42,7 +42,3 @@ gaps:
 - *The Stormy Search for the Self* (1990، مع ستانيسلاف غروف).
 - *Spiritual Emergency* (محرر، 1989).
 - *The Thirst for Wholeness: Attachment, Addiction, and the Spiritual Path* (1993).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

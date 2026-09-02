@@ -19,7 +19,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من *Individualizing Psychological Assessment* (1985) بترجمة عربية معتمدة."
   - "نموذجها في 'التقييم النفسي التعاوني والتشاركي' (Collaborative Assessment) يحتاج ربطاً بالتقنيات الإكلينيكية."
 ---
 

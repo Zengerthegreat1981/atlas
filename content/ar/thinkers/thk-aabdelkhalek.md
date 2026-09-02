@@ -19,8 +19,7 @@ related:
 - id: "thk-saathar", title: "شاهيد أثير", type: "مفكر"
 - id: "thk-ymohamed", title: "ياسين محمد", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
 # أمجد عبد الخالق
@@ -44,7 +43,3 @@ gaps:
 - (مساهمات متعددة في *International Journal of Psychology* و*Journal of Happiness Studies*).
 - (محرر *Arab Journal of Positive Psychology*).
 - *The Development and Validation of the Arabic Happiness Scale* (العقد الأول من القرن الحادي والعشرين).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

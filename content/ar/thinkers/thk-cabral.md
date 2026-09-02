@@ -20,7 +20,7 @@ related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 gaps:
   - "نصوص Cabral (Return to the Source, The Weapon of Theory) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Weapon of Theory* بترجمة عربية معتمدة."
 ---
 
 # أميليكار كابرال

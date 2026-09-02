@@ -25,7 +25,7 @@ related:
 - id: "thk-michael-guthrie", title: "مايكل غوثري", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Dynamic Interpersonal Therapy (DIT)* (2011) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيليان أبوت (thk-gillian-abbott)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دينا هيرشمان (thk-hershman)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيني كريستنسن (thk-jenny-christensen)."
@@ -50,7 +50,3 @@ gaps:
 ## أهم أعمالها
 
 - *Dynamic Interpersonal Therapy (DIT): A Time-limited Integration of psychodynamic and interpersonal psychotherapy* (2011، مع تارغت وفوناغي).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

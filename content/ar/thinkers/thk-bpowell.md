@@ -19,7 +19,7 @@ related:
 - id: "thk-rmarvin", title: "روبرت مارفن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من «Circle of Security: Facilitator’s Manual» بمصدر وسنة."
 ---
 
 # برت باول

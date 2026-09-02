@@ -20,7 +20,7 @@ related:
 - id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Goal of Counseling and Psychotherapy* (1972) بترجمة عربية معتمدة."
 ---
 
 # ألفين مارر
@@ -42,7 +42,3 @@ gaps:
 - *The Goal of Counseling and Psychotherapy* (1972).
 - *Feeling-Focused Therapy* (مع بومر، 1978).
 - *How to Do Experiential Psychotherapy* (مع بومر، 1994).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

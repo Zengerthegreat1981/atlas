@@ -20,7 +20,7 @@ related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "tec-five-dimensions-therapeutic-relationship", title: "نموذج الأبعاد الخمسة للعلاقة العلاجية", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من «العلاقة العلاجية» (The Therapeutic Relationship, 1995) بترجمة عربية معتمدة."
   - "نموذجها للعلاقات العلاجية الخمس (The Therapeutic Relationship) يستحق إدراجاً في التقنيات."
 ---
 

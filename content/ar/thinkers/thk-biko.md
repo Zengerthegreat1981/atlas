@@ -23,7 +23,6 @@ related:
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 - id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهوم 'الوعي الأسود' (Black Consciousness) كتحرر نفسي ووجودي من الاستعمار الداخلي يستحق إدراجاً."
 ---
 

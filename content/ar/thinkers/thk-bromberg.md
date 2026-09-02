@@ -19,7 +19,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "مفهوما 'تعدد حالات الذات' (Multiplicity of Self-States) و'الوقوف في المسافات البينية' (Standing in the Spaces) يستحقان توثيقاً."
 ---
 

@@ -18,7 +18,7 @@ related:
 - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Sex Offender Treatment Program* (1991) بترجمة عربية معتمدة."
 ---
 
 # باري مالتزكي
@@ -39,7 +39,3 @@ gaps:
 
 - Maletzky, B. M., *The Sex Offender Treatment Program* (1991).
 - Maletzky, B. M., & McGovern, K., *Treating the Sexual Offender* (1991).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -20,7 +20,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *An Empirical Phenomenological Study of Being Habitually Bored* (2000) بترجمة عربية معتمدة."
   - "دراساته الفينومينولوجية التجريبية حول ظاهرة الملل الوجودي العادي والمزمن (Boredom) تستحق إدراجاً في المفاهيم."
 ---
 

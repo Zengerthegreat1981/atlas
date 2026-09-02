@@ -23,7 +23,7 @@ related:
 - id: "br-primal-therapy", title: "العلاج البدائي / صرخة الولادة", type: "تيار"
 gaps:
   - "تطور نظريته من Primal Therapy إلى Primal Integration لم يُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Primal Scream* (1970) بترجمة عربية معتمدة."
 ---
 
 # آرثر يانوف

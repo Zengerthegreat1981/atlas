@@ -18,8 +18,8 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *From Biology to Psychology in Jungian and Evolutionary Theory: The Infinite Ladder* (2025) بترجمة عربية معتمدة."
+  - "سنة بداية النشاط (active_start) غير محددة في المصادر المتاحة."
 ---
 
 # ستيفانو كارطا

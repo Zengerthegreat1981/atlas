@@ -20,7 +20,7 @@ related:
 - id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Dialectical Behavior Therapy with Suicidal Adolescents* (2007) بترجمة عربية معتمدة."
 ---
 
 # أليك ميلر
@@ -45,7 +45,3 @@ gaps:
 
 - *Dialectical Behavior Therapy with Suicidal Adolescents* (2007، مع جيل راثوس ومارشا لينهان).
 - *DBT Skills Manual for Adolescents* (2014، مع جيل راثوس).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

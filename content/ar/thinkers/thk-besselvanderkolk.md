@@ -20,7 +20,7 @@ related:
 - id: "thk-mariannekline", title: "ماريان كلاين", type: "مفكر"
 gaps:
   - "بعض التواريخ الإضافية لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Body Keeps the Score* (2014) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيمي فونتانا (thk-albertellis-somatic)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريان كلاين (thk-mariannekline)."
 ---
@@ -43,7 +43,3 @@ gaps:
 
 - *Traumatic Stress: The Effects of Overwhelming Experience on Mind, Body, and Society* (1996، مع ماكفارلين وويزيث).
 - *The Body Keeps the Score* (2014).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

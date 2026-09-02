@@ -22,7 +22,7 @@ related:
 - id: "stu-langer-mindlessness-copy-machine", title: "دراسة إلين لانغر لآلة النسخ وقوة التبرير الشكلي (1978)", type: "دراسة وبحث"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من «التأثير: علم نفس الإقناع» (Influence: The Psychology of Persuasion, 1984) بترجمة عربية معتمدة."
 ---
 
 # روبرت تشالديني
@@ -56,7 +56,3 @@ gaps:
 - *Influence: The Psychology of Persuasion* (1984، وطبعات موسَّعة).
 - *Yes! 50 Scientifically Proven Ways to Be Persuasive* (2008).
 - *Pre-Suasion: A Revolutionary Way to Influence and Persuade* (2016).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

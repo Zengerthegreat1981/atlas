@@ -20,7 +20,7 @@ related:
 - id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Peak: Secrets from the New Science of Expertise* (2016) بترجمة عربية معتمدة."
   - "هوية الملف: الـslug `thk-andersericson` يشير إلى Anders Ericsson. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
@@ -44,7 +44,3 @@ gaps:
 - *The Cambridge Handbook of Expertise and Expert Performance* (2006، بالاشتراك في التحرير مع تشارنس وفلتوفيتش وهوفمان).
 - *Peak: Secrets from the New Science of Expertise* (2016، مع روبرت بول).
 - أبحاث منشورة في *Psychological Review* و*Current Directions in Psychological Science*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
