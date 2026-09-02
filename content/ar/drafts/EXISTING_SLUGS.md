@@ -11,7 +11,7 @@
 
 ## مفكر (2508)
 
-- `thk-aabdelkhalek` — أمجد عبد الخالق — ✅ معتمد
+- `thk-aabdelkhalek` — أحمد محمد عبد الخالق — ✅ معتمد
 - `thk-aabrer` — كارل أبراهام — ✅ معتمد
 - `thk-aalladin` — آسين علادين — ✅ معتمد
 - `thk-aalvarez` — آن ألفاريز — ✅ معتمد
@@ -120,7 +120,7 @@
 - `thk-anaxagoras` — أنكساغوراس الكلازوميني — ✅ معتمد
 - `thk-anaximander` — أنكسمندر الميليسي — ✅ معتمد
 - `thk-anaximenes` — أنكسمانس الميليسي — ✅ معتمد
-- `thk-andersericson` — أندرس إريكسون — ✅ معتمد
+- `thk-andersericson` — ك. أندرس إريكسون — ✅ معتمد
 - `thk-andre-gorz` — أندريه غورز — ✅ معتمد
 - `thk-andrew-barnes` — إيميلي بلاك — ✅ معتمد
 - `thk-andrew-j-barnes` — أندرو بارنز — 🕓 مسودة
