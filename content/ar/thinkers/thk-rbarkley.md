@@ -18,7 +18,7 @@ related:
 - id: "thk-bbundy", title: "كارين بَد", type: "مفكر"
 - id: "thk-cwebster-stratton", title: "كارولين ويبستر-ستراتون", type: "مفكر"
 - id: "thk-czeanah", title: "تشارلز زيناه", type: "مفكر"
-- id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+- id: "thk-ieyberg", title: "شيلا إم. إيبِرغ", type: "مفكر"
 - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة (ADHD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "كتاب 'Taking Charge of ADHD' (1995، Guilford) يُعدّ المرجع الكلاسيكي للأهل."
@@ -50,7 +50,7 @@ gaps:
 
 ## علاقته بالمفاهيم والمدارس
 
-يرتبط [باضطراب ADHD](dis-adhd) بالتنظيم الذاتي وبالوظائف التنفيذية كمفاهيم مركزية. يلتقي مع [شيرلي إِيبِرغ](thk-ieyberg) في تطوير PCIT.
+يرتبط [باضطراب ADHD](dis-adhd) بالتنظيم الذاتي وبالوظائف التنفيذية كمفاهيم مركزية. يلتقي مع [شيلا إم. إيبِرغ](thk-ieyberg) في تطوير PCIT.
 
 ## أهم أعماله
 

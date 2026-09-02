@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "تيار"
-- id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+- id: "thk-ieyberg", title: "شيلا إم. إيبِرغ", type: "مفكر"
 - id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
 - id: "dis-conduct-disorder", title: "اضطراب السلوك (Conduct Disorder)", type: "اضطراب"
 - id: "dis-odd", title: "اضطراب العناد المعارض (ODD)", type: "اضطراب"

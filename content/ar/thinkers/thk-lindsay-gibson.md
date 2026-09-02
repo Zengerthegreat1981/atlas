@@ -19,8 +19,9 @@ related:
 - id: "wrk-emotionally-immature-parents", title: "أبناء الآباء غير الناضجين عاطفياً", type: "عمل / كتاب"
 - id: "con-emotional-immaturity-parents", title: "اللاتنضج العاطفي الوالدي", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق من *Adult Children of Emotionally Immature Parents* (2015) بترجمة عربية معتمدة."
+  - "سنة الميلاد المسجَّلة في `dates` (1952) غير مسندة إلى مصدر منشور؛ ولا تُعرف جامعة الدكتوراه ولا سنتها."
+  - "لا يُعرف رقم مبيعات موثَّق للكتب، ولا هل صدرت ترجمة عربية معتمدة لأيٍّ منها ومن ناشرها."
+  - "لا توجد أداة قياس منشورة لـ«عدم النضج الانفعالي» ولا ورقة محكَّمة تختبر الأنماط الأربعة، فلا مصدر بحثي يمكن إضافته إلى `## المصادر` بجانب كتبها هي."
 ---
 
 # ليندسي جيبسون
@@ -44,7 +45,7 @@ gaps:
 
 ## موقعها من التيار
 
-ليندسي غيبسون عالمة نفس إكلينيكية أمريكية. وموقعها في هذا الأطلس أنها **صاغت لغةً** لظاهرة موجودة في الأدبيات بأسماء أخرى: **الإهمال الانفعالي في الطفولة** (جونيس ويب)، و**التعلّق غير الآمن** (بولبي وإينسورث)، و**التمايز عن الأسرة** (موراي بوين)، و**النرجسية الوالدية** (أليس ميلر في «مأساة الطفل الموهوب»). وقيمتها في **إتاحة المفهوم** لمن لا يقرأ الأدبيات — وثمنها أن التبسيط يجعل الإطار قابلاً لسوء الاستعمال بوصفه تشخيصاً جاهزاً.
+ليندسي غيبسون عالمة نفس إكلينيكية أمريكية. وموقعها في هذا الأطلس أنها **صاغت لغةً** لظاهرة موجودة في الأدبيات بأسماء أخرى: **الإهمال الانفعالي في الطفولة** (جونيس ويب، *Running on Empty*، 2012)، و**التعلّق غير الآمن** (بولبي وإينسورث)، و**التمايز عن الذات** (موراي بوين، نظرية أنظمة الأسرة، 1978)، و**النرجسية الوالدية** (أليس ميلر، «مأساة الطفل الموهوب»، 1979). وقيمتها في **إتاحة المفهوم** لمن لا يقرأ الأدبيات — وثمنها أن التبسيط يجعل الإطار قابلاً لسوء الاستعمال بوصفه تشخيصاً جاهزاً.
 
 ## أهم أعمالها
 
@@ -52,3 +53,9 @@ gaps:
 - *Recovering from Emotionally Immature Parents* (2019).
 - *Self-Care for Adult Children of Emotionally Immature Parents* (2021).
 - *Disentangling from Emotionally Immature People* (2023).
+
+## المصادر
+
+- Lindsay C. Gibson, *Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents*, New Harbinger Publications, 2015 — كتابها الأصلي ومصدر الإطار كلّه.
+- Lindsay C. Gibson, *Recovering from Emotionally Immature Parents: Practical Tools to Establish Boundaries and Reclaim Your Emotional Autonomy*, New Harbinger Publications, 2019 — بقلمها، وفيه الجانب التطبيقي.
+- Lindsay C. Gibson, *Disentangling from Emotionally Immature People: Avoid Emotional Traps, Stand Up for Your Self, and Transform Your Relationships as an Adult Child of Emotionally Immature Parents*, New Harbinger Publications, 2023 — بقلمها، وأحدث صياغة للإطار.

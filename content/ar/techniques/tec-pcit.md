@@ -21,7 +21,7 @@ related:
 - id: "dis-disruptive-mood-dysregulation", title: "اضطراب عدم التنظيم الانفعالي", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-parent-management-training", title: "تدريب إدارة السلوك للوالدين (PMT)", type: "تقنية/تدخل علاجي"
 - id: "tec-circle-of-security", title: "برنامج دائرة الأمان في الارتباط الوالدي (COS)", type: "تقنية/تدخل علاجي"
-- id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+- id: "thk-ieyberg", title: "شيلا إم. إيبِرغ", type: "مفكر"
 gaps:
   - "بروتوكول شيلا إيبرغ (Sheila Eyberg) المعتمد بالتدريب المباشر عبر سماعة الأذن (Bug-in-the-Ear Coaching) خلف المرآة العاكسة."
   - "المرحلتان: مرحلة التفاعل الموجه بالطفل (CDI: مهارات PRIDE) ومرحلة التفاعل الموجه بالوالد (PDI: مهارات الانضباط الفعال والمهلة Time-Out)."

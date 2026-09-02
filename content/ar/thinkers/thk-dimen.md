@@ -16,32 +16,53 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "br-relational-psychoanalysis", title: "التحليل النفسي العلائقي الأمريكي", type: "تيار"
+- id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
+- id: "thk-harris", title: "أدريان هاريس", type: "مفكر"
+- id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
+- id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 gaps:
-  - "بعض المصادر الثانوية تذكر 1943 بدل 1942 كسنة ميلاد بديلة؛ نيويورك تايمز والمصادر الأكاديمية الرئيسية تعتمد 1942."
-  - "تفاصيل تكوينها الأكاديمي الأول في الأنثروبولوجيا (الجامعة، سنة الدكتوراه) غير موثقة هنا."
-  - "لا يوجد اقتباس مباشر موثوق من *Surviving Sexual Contradictions* (1986) بترجمة عربية معتمدة."
+  - "بعض المصادر الثانوية تذكر 1943 بدل 1942 كسنة ميلاد بديلة."
+  - "تفاصيل تكوينها الأول في الأنثروبولوجيا (الجامعة المانحة، سنة الدكتوراه، عنوان الأطروحة) غير موثقة هنا."
+  - "لم يُتحقّق من موقعها التحريري في *Studies in Gender and Sexuality* بدقّة الصفة (محرِّرة مؤسِّسة أم رئيسة تحرير) ولا بسنوات توليها، فوُصفت في المتن بالعضوية في هيئة التحرير المؤسِّسة فقط."
+  - "لا يوجد في الأطلس slug لفيرجينيا غولدنر، مشاركتها في تحرير *Gender in Psychoanalytic Space* (2002) — سُجِّل الطلب في `agents_specs/requests-spark.md`."
+  - "أثرها في مؤلِّفين لاحقين بالاسم غير موثّق هنا: لم يُعثر على دراسة تتبّع تلقّي أعمالها."
 ---
 
 # موريل ديمن
 
-أنثروبولوجية ثقافية ومحللة نفسية أمريكية (1942–2016)، عملت أستاذة سريرية للعلم النفس في برنامج نيويورك للدراسات العليا في العلاج النفسي والتحليل النفسي (NYU Postdoctoral Program in Psychotherapy and Psychoanalysis)، ومن الأصوات المؤسِّسة لتيار التحليل النفسي العلائقي النسوي.
+أنثروبولوجية ثقافية ومحللة نفسية أمريكية (1942–2016)، أستاذة سريرية في برنامج نيويورك للدراسات العليا في العلاج النفسي والتحليل النفسي (NYU Postdoctoral Program in Psychotherapy and Psychoanalysis)، ومن أصوات التحليل النفسي العلائقي النسوي.
 
 ## ما أعطته
 
-- طرحت في كتابها *Sexuality, Intimacy, Power* (2003) تحليلاً نقدياً لتابوهات الجنس والحدود الإكلينيكية، مستندة إلى خلفيتها الأنثروبولوجية لبيان كيف تتشكّل الرغبة والعار عبر البنى الثقافية والاجتماعية.
-- كانت من المحررات المؤسِّسات لمجلة **دراسات في النوع والجنسانية** (Studies in Gender and Sexuality)، المنبر الأكاديمي الذي جمع بين التحليل النفسي والنظرية النسوية والدراسات الثقافية.
-- ألّفت أيضاً *Surviving Sexual Contradictions: A Startling and Different Look at a Day in the Life of a Contemporary Professional Woman* (1986)، وحررت مع فيرجينيا غولدنر وآخرين مختارات في التحليل النفسي العلائقي والجندر.
+**«الجنسانية موضعُ تناقض» (1986).** في *Surviving Sexual Contradictions: A Startling and Different Look at a Day in the Life of a Contemporary Professional Woman* (1986) قرأت يوماً واحداً في حياة امرأة مهنية معاصرة بوصفه سلسلة تناقضات بنيوية بين العمل والرغبة والرعاية — لا صراعات داخلية تُحَلّ، بل تناقضات تُعاش.
+
+**«تفكيك الفرق» (1991).** في مقالتها "Deconstructing Difference: Gender, Splitting, and Transitional Space" المنشورة في دورية *Psychoanalytic Dialogues* عام 1991، أعادت وصف الجندر لا كهويّة ثابتة بل كـ**انشقاق** (splitting) يُنتَج ويُصان اجتماعياً، واقترحت قراءته في «الفضاء الانتقالي» — أي كمنطقة لعب لا كتصنيف. وهي مقالتها الأكثر تداولاً في الأدبيات العلائقية.
+
+**«الجنسانية والحميمية والسلطة» (2003).** في *Sexuality, Intimacy, Power* (2003) نقلت النقاش عن «الحدود» الإكلينيكية من لغة اللوائح إلى لغة السلطة: العلاقة التحليلية غير متكافئة بنيوياً، ومحاولة الحياد تُخفي هذا اللاتكافؤ بدل أن تعالجه. وفيه أيضاً نقدها لصنف «الشذوذ» (perversion) بوصفه تصنيفاً معيارياً-ثقافياً تسلّل إلى التصنيف الإكلينيكي. وهذا موضع الخلاف الأشهر حول عملها: أنها تحوّل مسألة أخلاقيات المهنة من قواعد قابلة للتطبيق إلى تحليل نقديّ للسلطة.
+
+**التحرير بوصفه عملاً نظرياً.** حرّرت مع **أدريان هاريس** *Storms in Her Head: Freud and the Construction of Hysteria* (2002)، ومع فيرجينيا غولدنر *Gender in Psychoanalytic Space: Between Clinic and Culture* (2002)، ثم *With Culture in Mind: Psychoanalytic Stories* (2011) — والثلاثة يشتغلون على الفرضية نفسها: أن العيادة موضع ثقافي، وأن ما يظهر فيها أعراضاً أثرٌ لبنى اجتماعية.
 
 ## موقعها من التيار
 
-رمز للتحليل النفسي العلائقي النسوي الراديكالي، وجسر بين الأنثروبولوجيا الثقافية والتحليل النفسي المعاصر، إذ عاملت الجنسانية والجندر كبنى اجتماعية-ثقافية متغيّرة لا كمعطى بيولوجي ثابت.
+خلفيتها في الأنثروبولوجيا الثقافية هي ما يميّزها داخل الحركة العلائقية: عاملت الجنسانية والجندر كبنى اجتماعية-ثقافية متغيّرة لا كمعطى بيولوجي. وموقعها من جيلها موقع مجاورة لا اشتقاق: **ستيفن ميتشل** صاغ إطار «المنعطف العلائقي» في *Relational Concepts in Psychoanalysis* (1988) الذي كتبت داخله، و**جيسيكا بِنْجامِين** طرحت أطروحة **البين-ذاتية** والاعتراف في *The Bonds of Love* (1988) — وهي أطروحة بنجامين لا ديمن؛ إسهام ديمن المتمايز: **الثقافة والسلطة** في العيادة، وقراءة الجندر كانشقاق.
 
 ## القيد
 
-أسلوبها المائل إلى الأنثروبولوجيا الثقافية والنقد ما بعد البنيوي، مع اعتماد كبير على التنظير أكثر من الدراسات التجريبية.
+نظريّة أكثر من كونها باحثة: لا تستند إلى دراسات تجريبية ولا إلى قياس، ومادّتها التفسيرية أنثروبولوجية وما-بعد-بنيوية. كما أن قدراً كبيراً من أثرها موزّع في مختارات حرّرتها لا في كتاب واحد جامع لنظريتها.
 
 ## أهم أعمالها
 
 - *Surviving Sexual Contradictions* (1986).
+- "Deconstructing Difference: Gender, Splitting, and Transitional Space"، *Psychoanalytic Dialogues* (1991).
+- *Storms in Her Head: Freud and the Construction of Hysteria* (2002، محرِّرة مع أدريان هاريس).
+- *Gender in Psychoanalytic Space: Between Clinic and Culture* (2002، محرِّرة مع فيرجينيا غولدنر).
 - *Sexuality, Intimacy, Power* (2003).
 - *With Culture in Mind: Psychoanalytic Stories* (2011، محرِّرة).
+
+## المصادر
+
+- Dimen, Muriel. *Surviving Sexual Contradictions*. New York: Macmillan, 1986.
+- Dimen, Muriel. "Deconstructing Difference: Gender, Splitting, and Transitional Space." *Psychoanalytic Dialogues*, 1991.
+- Dimen, Muriel. *Sexuality, Intimacy, Power*. Hillsdale, NJ: The Analytic Press, 2003.
+- Dimen, Muriel (ed.). *With Culture in Mind: Psychoanalytic Stories*. New York: Routledge, 2011.
