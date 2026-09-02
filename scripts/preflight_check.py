@@ -95,6 +95,37 @@ def resolve_path_for_slug(slug):
     return None
 
 
+# تطبيع عربي خفيف قبل مقارنة العناوين: تشكيل، صور الألف والياء والتاء المربوطة، التطويل،
+# والشروح بين قوسين وعلامات الترقيم. الغرض: أن يتوقّف الفحص عن الإبلاغ عن فروق **إملائية**
+# بين عنوان مكتوب وعنوان حقيقي لنفس الكيان (مثل «نِكولاس» مقابل «نيكولاس»، أو شرح بين قوسين
+# بلغة مختلفة) — وهي 81% من ضجيج هذا الفحص حسب تحليل 2026-09-02
+# (agents_specs/reports/spark/REVISION/title-mismatch-analysis-2026-09-02.md).
+# ما يبقى مُبلَّغاً عنه هو الاختلاف الحقيقي في الاسم، وهو وحده ما تقصده القاعدة 6.
+_HARAKAT_RE = re.compile(r"[\u064B-\u0652\u0670]")
+_PARENS_RE = re.compile(r"\([^)]*\)")
+_PUNCT_RE = re.compile(r"[«»\"'\[\]،,\.\:\;\-\u2013\u2014\u2026/]")
+
+
+def normalize_title(s):
+    s = _HARAKAT_RE.sub("", s or "")
+    for a, b in (("أ", "ا"), ("إ", "ا"), ("آ", "ا"), ("ى", "ي"), ("ة", "ه"), ("ـ", "")):
+        s = s.replace(a, b)
+    s = _PARENS_RE.sub(" ", s)
+    s = _PUNCT_RE.sub(" ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def titles_conflict(written, real):
+    """True فقط لو العنوانان مختلفان فعلاً بعد التطبيع — لا مجرد اختصار أو فرق إملائي."""
+    w, r = (written or "").strip(), (real or "").strip()
+    if not r or w == r or w in r or r in w:
+        return False
+    nw, nr = normalize_title(w), normalize_title(r)
+    if not nw or not nr:
+        return False
+    return not (nw == nr or nw in nr or nr in nw)
+
+
 def check_related_mismatch(node, file_path, issues):
     for rel_id, rel_title, _rel_type in node.get("related", []):
         target_path = resolve_path_for_slug(rel_id)
@@ -105,7 +136,7 @@ def check_related_mismatch(node, file_path, issues):
         if not target:
             continue
         real_title = (target.get("title") or "").strip()
-        if real_title and rel_title.strip() != real_title and rel_title.strip() not in real_title and real_title not in rel_title.strip():
+        if titles_conflict(rel_title, real_title):
             issues.append(
                 f"related: id \"{rel_id}\" title المكتوب \"{rel_title}\" != عنوان الملف الحقيقي \"{real_title}\""
             )
