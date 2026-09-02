@@ -981,3 +981,43 @@ preflight_check.py على الملفات الثلاثة بعد التعميق: �
 
 - `thk-geraldine-spark` — **جيرالدين م. سبارك** (Geraldine M. Spark) — مشاركة إيفان بوسورميني-ناجي تأليف *Invisible Loyalties: Reciprocity in Intergenerational Family Therapy* (1973)، النصّ التأسيسي للعلاج السياقي. بحثت عن `thk-spark` و`thk-gspark` و`thk-geraldine-spark` و`spark` في `content/ar/thinkers` — غير موجود.
 - `thk-barbara-krasner` — **باربرا ر. كراسنر** (Barbara R. Krasner) — مشاركة بوسورميني-ناجي تأليف *Between Give and Take: A Clinical Guide to Contextual Therapy* (1986). بحثت عن `thk-krasner` و`thk-bkrasner` و`thk-barbara-krasner` — غير موجود.
+
+## Task 4 — دفعة h_aj (2026-09-02)
+
+- **قرار محرر مطلوب — تعارض slug/هوية في `thk-andrew-barnes`**: الـslug يسمّي «أندرو بارنز» وحقل `en` في الملف يقول «Emily Black». الشخص الحقيقي Andrew J. Barnes (طب الأطفال النمائي والسلوكي، جامعة مينيسوتا) له بالفعل مسودة بـslug صحيح: `content/ar/drafts/spark/thinkers/thk-andrew-j-barnes.md` — فإعادة تدوير `thk-andrew-barnes` له ستُنشئ ازدواجاً. و«Emily Black» غير موثّقة (تفاصيل البحث في `agents_specs/quarantine-spark.md`). لم يُحذف الملف ولم يُعد تسميته (القاعدة 6). بحثت عن `thk-eblack` و`thk-emily-black` و`thk-black` و`thk-abarnes` و`thk-andrew-barnes` و`thk-barnes` (= هازل بارنز، شخص آخر) — لا ملف لـEmily Black تحت أي صيغة.
+- `thk-galit-atlas` — **غاليت أطلس** (Galit Atlas) — مشاركة لويس آرون تأليف *Dramatic Dialogue: Contemporary Clinical Practice* (2018). بحثت عن `thk-atlas` و`thk-gatlas` و`thk-galit-atlas` — غير موجود.
+- `thk-karen-starr` — **كارن ستار** (Karen Starr) — مشاركة لويس آرون تأليف *A Psychotherapy for the People: Toward a Progressive Psychoanalysis* (2013). بحثت عن `thk-starr` و`thk-kstarr` و`thk-karen-starr` — غير موجود.
+- `thk-adrienne-harris` — **أدريان هاريس** (Adrienne Harris) — محرِّرة مشاركة لـRelational Perspectives Book Series مع آرون بعد ميتشل. بحثت عن `thk-harris` و`thk-aharris` و`thk-adrienne-harris` — غير موجود.
+- `thk-rhefferline` — **رالف هيفرلاين** (Ralph Hefferline) — أحد المؤلِّفين الثلاثة لـ*Gestalt Therapy: Excitement and Growth in the Human Personality* (1951)، النص الذي تُنسب إليه أسُس علاج الجشطالت المذكورة في `thk-epolster` و`thk-mpolster` و`thk-jzinker`. بحثت عن `thk-hefferline` و`thk-rhefferline` — غير موجود. وكذلك **بول غودمان** (`thk-pgoodman` / `thk-goodman`) — غير موجود، وملف `thk-mpolster` يسجّل غيابه أصلاً.
+- **تعارض سنة لم يُغيَّر**: تأسيس Gestalt Training Center في سان دييغو مكتوب 1973 في `thk-epolster` (سابقاً) و1976 في `thk-mpolster`. يحتاج حسماً من مصدر مؤسسي.
+
+## Task 4 — دفعة h_af (2026-09-02)
+
+- **قرار محرر مطلوب — ازدواج حيّ**: `thk-ibrenner` و`thk-cbrenner` كلاهما **تشارلز برينر** (Charles Brenner, 1913–2008)، بنفس العنوان العربي ونفس `en`. المادة الموثّقة (نظرية التسوية، كتاب 1955، كتاب 1964 مع أرلو، انقلاب 1982) موجودة في `thk-ibrenner`؛ و`thk-cbrenner` أقصر (1,547 حرفاً) ويصفه بـ«المراجِعين» ويجعله حلقة وصل إلى كيرنبرغ. لم يُدمج ولم يُحذف أيّهما (القاعدة 6). ملاحظة إضافية: الـslug `thk-ibrenner` يوحي بـ«إيرفينغ برينر» وهو اسم لا وجود له.
+- `thk-arlow` — **جاكوب أ. أرلو** (Jacob A. Arlow) — مشارك تشارلز برينر تأليف *Psychoanalytic Concepts and the Structural Theory* (1964). بحثت عن `thk-arlow` و`thk-jarlow` و`thk-jacob-arlow` — غير موجود.
+- `thk-ekris` — **إرنست كريس** (Ernst Kris) — الثالث في ثلاثي مؤسّسي علم نفس الأنا مع هاينز هارتمان (`thk-hartmannheinz`) ورودولف لوفينشتاين (`thk-loewenstein`)، وكلاهما له ملف. بحثت عن `thk-kris` و`thk-akris` و`thk-ekris` و`thk-ernst-kris` — غير موجود.
+- `thk-hsearles` — **هارولد سيرلز** (Harold F. Searles) و`thk-owill` — **أوتو ألن ويل** (Otto Allen Will Jr.): معالجا الذهان في تشِستنَت لودج المذكوران في `thk-fromm-reichmann`. بحثت عن `thk-searles` و`thk-hsearles` و`thk-will` و`thk-owill` — غير موجودين.
+- `thk-jgreenberg` **مأخوذ لشخص آخر** (جاي ر. غرينبرغ / Jay R. Greenberg). المطلوب slug مستقل لـ**جوان غرينبرغ** (Joanne Greenberg)، مؤلّفة *I Never Promised You a Rose Garden* (1964) ومريضة فروم-رايخمان — مثلاً `thk-joanne-greenberg`. غير موجود تحت أي صيغة بحثت عنها.
+
+## Task 4 — دفعة h_ai (2026-09-02)
+
+- **تعارض slug/هوية جديد**: `thk-elifellows` (الـslug يقرأ «إيلاي فيلوز») يحمل فعلاً سيرة **Joseph L. White Jr.** (1932–2017) — حقل `en` والمتن كلاهما عنه. المطلوب slug صحيح له، مثلاً `thk-joseph-white`. تحقّقت من الاصطلاحات الثلاثة (`thk-white`, `thk-jwhite`, `thk-joseph-white`) فلا ملف آخر له، أي **لا ازدواج** ولا خطر إنشاء نسخة ثانية عند التصحيح. لم يُعَد التسمية ولم يُحذف (القاعدة 6). ملاحظة: `sch-indigenous-psychology` يربط إليه بـ`thk-elifellows` وسيلزم تحديث الرابط عند التصحيح.
+- **تأكيد للقائمة المعلّقة**: `thk-jakhan` حقل `en` فيه **Wade W. Nobles** وهو نفس شخص `thk-wade-nobles` — تعارض هوية ثانٍ في محيط علم النفس الأسود.
+- `thk-kclark` — **كينيث ب. كلارك** (Kenneth B. Clark)، أول رئيس أفريقي أمريكي للجمعية الأمريكية لعلم النفس، وصاحب دراسات الدمية مع مامي كلارك — غير موجود تحت `thk-clark` ولا `thk-kclark` ولا `thk-kenneth-clark`؛ لذلك ذُكر في متن `thk-elifellows` سابقاً بلا رابط، وقد أُسقط الذكر بدل اختراع slug. وكذلك **روبرت ل. وليامز** (`thk-rwilliams`/`thk-robert-williams`) و**نعيم أكبر** و**أ. وايد بويكِن** — غير موجودين.
+- `thk-krapf` (إدواردو كرابف، 1901–1963): موثَّق الوجود لكن بلا مراجع كافية بقلمه أو عنه تحديداً — أُسقط `## المصادر` بحسب الشرط 3، والسبب في `gaps`. يحتاج مراجعة من أرشيف منظمة الصحة العالمية أو نعوة الجمعية النفسانية الدولية.
+
+## Task 4 — دفعة h_ae (2026-09-02)
+
+- **تصحيح لسطر سابق في هذا الملف (دفعة h_af)**: مكتوب هناك أن **بول غودمان** (`thk-pgoodman`/`thk-goodman`) «غير موجود». الملف موجود فعلاً: `content/ar/thinkers/thk-goodman.md` (THK-0353، `title: "بول غودمان"`، `en: "Paul Goodman"`، 1911–1972) وهو الشخص الصحيح، ومرتبط من `thk-fperls`. الطلب القائم الوحيد في ذلك السطر هو `thk-rhefferline` (رالف هيفرلاين) وهو ما زال صحيحاً — لا ملف له تحت أي من `thk-hefferline`/`thk-rhefferline`.
+
+- **عنقود إدوارد دي بونو — ثلاثة ملفات لرجل واحد، لم يُدمج ولم يُحذف منها شيء (القاعدة 6)**. تنبيه: صياغة التاسك التي وصلتني كانت مقلوبة (قالت إن `thk-de-bono` هو المحجور)، والواقع في المستودع عكسها:
+  1. `content/ar/thinkers/thk-de-bono.md` (THK-6228) — **هو الملف القانوني المعتمد**، بقرار رئيس التحرير 2026-08-27، وهو **غير محجور**. وهو الملف الذي عُمّق في هذه الدفعة.
+  2. `content/ar/thinkers/thk-edward-de-bono.md` (THK-0981) — **هو المحجور**: مُحوَّل إلى ملف إحالة دائمة (`edges: []`، رابط واحد إلى `thk-de-bono`)، والنسخة الأصلية في `agents_specs/quarantine-spark-archive/thk-edward-de-bono.md.archived.2026-08-27`. سبب الحجر المسجَّل في `quarantine-spark.md` سطر 90: **ازدواج تام لا اختلاق** — نفس الشخص ونفس التواريخ 1933–2021 في الملفين.
+  3. `content/ar/drafts/spark/thinkers/thk-edward-de-bono.md` — **بقيّة غير مُصفّاة**: مسودة كاملة بسيرة حيّة تحت الـslug المحجور، و`gaps` فيها ما زال يطلب «قرار دمج من رئيس التحرير» — وهو قرار صدر ونُفِّذ في 2026-08-27. المسودة تُناقض حالة المستودع الحالية. **لم أعدّلها ولم أحذفها**؛ تحتاج قراراً تحريرياً.
+  - **الروابط الواردة سليمة**: `stu-duncker-candle-problem.md` و`wrk-six-thinking-hats.md` و`con-six-thinking-hats.md` و`sch-popular-psychology.md` كلها تشير إلى `thk-de-bono` (القانوني)، ولا يشير أيّ ملف معتمد إلى الـslug المحجور إلا ملف الإحالة نفسه و`EXISTING_SLUGS.md`. أي أن تنفيذ 2026-08-27 صحيح، والمتبقّي هو المسودة فقط.
+  - **تصحيح آخر**: `gaps` مسودة `thk-edward-de-bono` تقول إنه «لا يوجد `sch-popular-psychology` معتمد بعد». الملف موجود: `content/ar/schools/sch-popular-psychology.md`، فـ`belongs_to` في `thk-de-bono` صحيح ولا يحتاج تفريغاً.
+
+- **`thk-jaspers` — نموذج لقرار `sch-existential-therapy` المعلَّق**: `belongs_to` يشاور على `sch-existential-therapy` وكارل ياسبرز ليس معالجاً نفسياً ولم يُنشئ منهجاً علاجياً؛ حضوره في العلاج الوجودي غير مباشر (عبر التقاط يالوم للمواقف الحدّية). لم يُعدَّل `edges` (كما أُمرت) وسُجّل في `gaps`.
+- **`thk-jaspers` — روابط بلا سند في المتن**: `thk-savodnik`, `thk-earle`, `thk-engelhardt`, `thk-pareyson`, `thk-copleston`, `thk-wahl` موروثة عن نسخة سابقة ولا يوجد ما يوثّق صلتها بياسبرز. لم تُحذف، وسُجّلت في `gaps`.
+- **`thk-de-bono` — روابط بلا سند في المتن**: `thk-dewey`, `thk-lwittgenstein`, `thk-goleman` — لا مادة موثّقة تربط دي بونو بهم. لم تُحذف، وسُجّلت في `gaps`.
+- `thk-kschneider` — **كورت شنايدر** (Kurt Schneider) — من بنى على معيار ياسبرز في «عدم قابلية فهم» الهذاء الأوّلي وصاغ أعراض الرتبة الأولى. مذكور في متن `thk-jaspers` بلا رابط. بحثت عن `thk-schneider` و`thk-kschneider` و`thk-kurt-schneider` — غير موجود.

@@ -19,8 +19,11 @@ related:
 - id: "thk-heysenck", title: "هَانز آيسنك", type: "مفكر"
 - id: "thk-mc-jones", title: "ماري كوفر جونز", type: "مفكر"
 - id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من *Psychotherapy by Reciprocal Inhibition* (1958) بترجمة عربية معتمدة."
+  - "*Psychotherapy by Reciprocal Inhibition* (1958) لا تُعرف له ترجمة عربية منشورة، ولم تُراجع أرقام صفحات الطبعة الأصلية."
+  - "الناقص عددياً: عدد قطط تجارب جوهانسبرغ (1948–1956) وتفاصيل بروتوكولها غير مذكورة في هذا الملف."
+  - "دراسات التفكيك التي أسقطت شرط الاسترخاء لم تُسمَّ هنا بمؤلّفيها وسنواتها بالإفراد."
   - "تفاصيل حياته في جنوب أفريقيا قبل انتقاله لأمريكا — موضع بحث."
 ---
 
@@ -55,3 +58,10 @@ gaps:
 ## أهم أعماله
 
 *Psychotherapy by Reciprocal Inhibition* (1958) — أوّل نصّ منهجي في العلاج السلوكي · *The Practice of Behavior Therapy* (1969؛ أربع طبعات) · *Behavior Therapy Techniques* (1966، مع أرنولد لازاروس) · أوراق في *Behaviour Research and Therapy*.
+
+## المصادر
+
+- Wolpe, J. (1958). *Psychotherapy by Reciprocal Inhibition*. Stanford University Press.
+- Wolpe, J., & Lazarus, A. A. (1966). *Behavior Therapy Techniques: A Guide to the Treatment of Neuroses*. Pergamon Press.
+- Wolpe, J. (1969). *The Practice of Behavior Therapy*. Pergamon Press.
+- Wolpe, J. (1961). "The systematic desensitization treatment of neuroses." *Journal of Nervous and Mental Disease*, 132.

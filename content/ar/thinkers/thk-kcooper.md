@@ -22,7 +22,9 @@ related:
 gaps:
   - "تاريخ الميلاد ناقص في المدخل: السِيَر المهنية العامة لا تذكره بإسناد أوّلي."
   - "كان الملف يسمّيه **«كينيث كوبر»** في العنوان الرئيسي وفي المسار، والصواب **غلين كوبر** (Glen Cooper) كما في حقل `en`؛ وكان يسمّي شريكه **«غلين هوفمان»** والصواب **كِنت هوفمان** (Kent Hoffman)."
-  - "لا يوجد اقتباس مباشر موثوق من *Raising a Secure Child* (2017) بترجمة عربية معتمدة."
+  - "*Raising a Secure Child* (2017) لا تُعرف له ترجمة عربية منشورة، ولم تُراجع أرقام الصفحات لأيّ من عباراته الواردة هنا."
+  - "الأطلس يحمل الشريك كِنت هوفمان تحت الـslug `thk-ghoffman` (الحرف الأول لا يطابق اسمه الأول) — شذوذ مُبلَّغ لا مُصحَّح هنا."
+  - "الناقص عددياً: أحجام عيّنات تجارب COS-P العشوائية وسنواتها غير مذكورة في هذا الملف."
 ---
 
 # غلين كوبر
@@ -50,3 +52,9 @@ gaps:
 
 - *Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore* (2017، مع كِنت هوفمان وبرت باول).
 - "The Circle of Security project: Attachment-based intervention with caregiver–pre-school child dyads" (2002، مع مارفن وهوفمان وباول)، *Attachment & Human Development*.
+
+## المصادر
+
+- Hoffman, K., Cooper, G., & Powell, B. (2017). *Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore*. Guilford Press.
+- Marvin, R., Cooper, G., Hoffman, K., & Powell, B. (2002). "The Circle of Security project: Attachment-based intervention with caregiver–pre-school child dyads." *Attachment & Human Development*, 4(1).
+- Powell, B., Cooper, G., Hoffman, K., & Marvin, R. (2014). *The Circle of Security Intervention: Enhancing Attachment in Early Parent–Child Relationships*. Guilford Press.
