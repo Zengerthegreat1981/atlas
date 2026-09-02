@@ -42,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-الرجل الخفي (Invisible Man, 1952) · الظل والفعل (Shadow and Act, 1964) · جونيتينث (Juneteenth, 1999).
+الرجل الخفي (Invisible Man, 1952) · الظل والفعل (Shadow and Act, 1964) · جونيتينث (Juneteenth) الصادر بعد وفاته عام 1999.

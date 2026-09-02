@@ -11,7 +11,7 @@ dates: "الولايات المتحدة · 1913–2007"
 country: "الولايات المتحدة الأمريكية (نيويورك)"
 language: "الإنجليزية"
 active_start: 1955
-active_end: 2006
+active_end: 2007
 edges:
 - rel: "belongs_to", target: "sch-rebt", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
@@ -81,7 +81,7 @@ gaps:
 - "Reason and Emotion in Psychotherapy" (1962) — الكتاب التأسيسي النظري.
 - "The Albert Ellis Reader" (1998).
 - "The Intelligent Woman's Guide to Dating and Marriage" (1963).
-- "The Philosophy of REBT" (2013) — نُشر بعد وفاته.
+- "The Philosophy of REBT" — نُشر بعد وفاته عام 2013.
 
 ## القيد
 نظراً لانتشاره في الأدبيات الشعبية، كثيراً ما يُختزل إليس في صورة «واعظ بالعقلانية». لكن إسهامه الفعلي أعمق، وقدَّم تقنيات تفنيد تفصيلية. كما أن التأثير المتبادل بينه وبين بيك أعقد من رواية "إليس السابق وبيك اللاحق".

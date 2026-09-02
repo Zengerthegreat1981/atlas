@@ -41,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-السعي نحو الكلّية (Striving Towards Wholeness, 1971) — دراستها في الأركيتيبات الأنثوية عبر أخوات برونتي وروبرت لويس ستيفنسون وغيرهم · يونغ: حياته وعمله، شهادة سيرية (Jung: His Life and Work, A Biographical Memoir, 1976) · لقاءات مع النفس: التخيّل الفعّال كما طوّره ك. غ. يونغ (Encounters with the Soul: Active Imagination, 1981) · محاضرات القطّ والكلب والحصان (The Cat, Dog and Horse Lectures, 1992، بعد وفاتها).
+السعي نحو الكلّية (Striving Towards Wholeness, 1971) — دراستها في الأركيتيبات الأنثوية عبر أخوات برونتي وروبرت لويس ستيفنسون وغيرهم · يونغ: حياته وعمله، شهادة سيرية (Jung: His Life and Work, A Biographical Memoir, 1976) · لقاءات مع النفس: التخيّل الفعّال كما طوّره ك. غ. يونغ (Encounters with the Soul: Active Imagination, 1981) · محاضرات القطّ والكلب والحصان (The Cat, Dog and Horse Lectures، صدرت بعد وفاتها عام 1992).

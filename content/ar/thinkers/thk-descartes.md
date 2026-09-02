@@ -56,4 +56,4 @@ gaps:
 - **Meditationes de Prima Philosophia** (1641): تأملات في الفلسفة الأولى.
 - **Principia Philosophiae** (1644): مبادئ الفلسفة.
 - **Passiones Animae** (1649): انفعالات النفس.
-- **Le Monde** (نُشر 1664): العالم (لم ينشره في حياته).
+- **Le Monde** (نُشر بعد وفاته عام 1664): العالم (لم ينشره في حياته).

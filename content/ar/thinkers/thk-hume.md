@@ -61,4 +61,4 @@ gaps:
 - تفحّص في الفهم البشري (An Enquiry Concerning Human Understanding، 1748).
 - تفحّص في مبادئ الأخلاق (An Enquiry Concerning the Principles of Morals، 1751).
 - التاريخ الطبيعي للدين (The Natural History of Religion، 1757).
-- حوارات في الدين الطبيعي (Dialogues Concerning Natural Religion، 1779، نُشر بعد وفاته).
+- حوارات في الدين الطبيعي (Dialogues Concerning Natural Religion، نُشر بعد وفاته عام 1779).

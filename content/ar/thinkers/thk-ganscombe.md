@@ -11,7 +11,7 @@ dates: "المملكة المتحدة · 1919–2001"
 country: "المملكة المتحدة (أكسفورد)"
 language: "الإنجليزية"
 active_start: 1948
-active_end: 1990
+active_end: 2001
 edges:
 - rel: "belongs_to", target: "sch-virtue-ethics", target_type: "مدرسة"
 related:
@@ -38,7 +38,7 @@ gaps:
 - «Modern Moral Philosophy» (1958, Philosophy).
 - *An Introduction to Wittgenstein's Tractatus* (1959).
 - *Ethics, Religion and Politics* (1981).
-- *Human Life, Action and Ethics* (2005، مع Geach).
+- *Human Life, Action and Ethics* — مجموعة صدرت بعد وفاتها 2005 (مع Geach).
 
 ## الأثر
 

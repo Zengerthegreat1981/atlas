@@ -56,4 +56,4 @@ gaps:
 
 ## أهم أعماله
 
-الغنوص والروح في أواخر العصر القديم (Gnosis und spätantiker Geist، 1934–1954) · الدين الغنوصي (The Gnostic Religion، 1958) · ظاهرة الحياة: نحو بيولوجيا فلسفية (The Phenomenon of Life، 1966) · **مبدأ المسؤولية: بحث في أخلاقٍ لعصر التقنية** (Das Prinzip Verantwortung، 1979) · التقنية والطبّ والأخلاق (Technik, Medizin und Ethik، 1985) · الفناء والأخلاق (Mortality and Morality، 1996، بعد وفاته).
+الغنوص والروح في أواخر العصر القديم (Gnosis und spätantiker Geist، 1934–1954) · الدين الغنوصي (The Gnostic Religion، 1958) · ظاهرة الحياة: نحو بيولوجيا فلسفية (The Phenomenon of Life، 1966) · **مبدأ المسؤولية: بحث في أخلاقٍ لعصر التقنية** (Das Prinzip Verantwortung، 1979) · التقنية والطبّ والأخلاق (Technik, Medizin und Ethik، 1985) · الفناء والأخلاق (Mortality and Morality، نُشر بعد وفاته عام 1996).

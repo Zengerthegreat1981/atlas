@@ -40,4 +40,4 @@ gaps:
 
 ## أهم أعمالها
 
-«المرأة العارفة: سيكولوجيا أنثوية» (Knowing Woman: A Feminine Psychology, 1973، نُشر بعد وفاتها).
+«المرأة العارفة: سيكولوجيا أنثوية» (Knowing Woman: A Feminine Psychology، نُشر بعد وفاتها عام 1973).

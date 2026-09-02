@@ -46,4 +46,4 @@ gaps:
 ## أهم أعمالها
 
 - *Theraplay: Child-Parent Relationship Therapy* (مع بوث، 1987).
-- *Theraplay: A Relationship-Based Play Therapy* (مع ماكليود، 2010).
+- *Theraplay: A Relationship-Based Play Therapy* (مع ماكليود، طبعة صدرت بعد وفاتها عام 2010).

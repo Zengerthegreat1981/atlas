@@ -41,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-اللعب كرمز للعالم (Spiel als Weltsymbol, 1960) · الظواهر الأساسية للوجود الإنساني (Grundphänomene des menschlichen Daseins, 1979) · فلسفة نيتشه (Nietzsches Philosophie, 1960).
+اللعب كرمز للعالم (Spiel als Weltsymbol, 1960) · الظواهر الأساسية للوجود الإنساني (Grundphänomene des menschlichen Daseins، صدر بعد وفاته عام 1979) · فلسفة نيتشه (Nietzsches Philosophie, 1960).

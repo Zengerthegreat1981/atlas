@@ -41,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-نحو فلسفة للتصوير الفوتوغرافي (Für eine Philosophie der Fotografie, 1983) · بلا أرض: سيرة ذاتية فلسفية (Bodenlos: Eine philosophische Autobiographie, 1992) · أشياء ولا-أشياء (Dinge und Undinge, 1993) · كتابة الحروف: هل للكتابة مستقبل؟ (Die Schrift, 1987).
+نحو فلسفة للتصوير الفوتوغرافي (Für eine Philosophie der Fotografie, 1983) · بلا أرض: سيرة ذاتية فلسفية (Bodenlos: Eine philosophische Autobiographie، صدر بعد وفاته عام 1992) · أشياء ولا-أشياء (Dinge und Undinge، صدر بعد وفاته عام 1993) · كتابة الحروف: هل للكتابة مستقبل؟ (Die Schrift, 1987).

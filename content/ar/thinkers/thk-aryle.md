@@ -37,7 +37,7 @@ gaps:
 
 - *The Concept of Mind* (1949).
 - *Dilemmas* (1954).
-- *On Thinking* (1979).
+- *On Thinking* (صدر بعد وفاته 1979).
 
 ## الأثر
 

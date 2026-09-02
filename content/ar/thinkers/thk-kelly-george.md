@@ -60,4 +60,4 @@ gaps:
 
 - *The Psychology of Personal Constructs* (مجلّدان، 1955) — المجلّد الأول في النظرية، والثاني في التشخيص والعلاج.
 - "Man's Construction of His Alternatives" (1958)، في *Assessment of Human Motives* — عرضه المختصر الأشهر.
-- *Clinical Psychology and Personality: The Selected Papers of George Kelly* (1969، تحرير برندان ماهر، بعد وفاته).
+- *Clinical Psychology and Personality: The Selected Papers of George Kelly* (تحرير برندان ماهر، نُشر بعد وفاته عام 1969).

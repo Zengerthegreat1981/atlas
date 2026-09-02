@@ -38,4 +38,4 @@ gaps:
 
 ## أهم أعماله
 
-العلاج النفسي الجماعي: المقاربة التحليلية (Group Psychotherapy: The Psychoanalytic Approach, 1957، مع إ. ج. أنتوني) · التحليل الجماعي العلاجي (Therapeutic Group Analysis, 1964) · العلاج النفسي التحليلي الجماعي: المنهج والمبادئ (Group-Analytic Psychotherapy: Method and Principles, 1975) · أوراق مختارة (Selected Papers, 1990، تحرير إليزابيث فولكس بعد وفاته).
+العلاج النفسي الجماعي: المقاربة التحليلية (Group Psychotherapy: The Psychoanalytic Approach, 1957، مع إ. ج. أنتوني) · التحليل الجماعي العلاجي (Therapeutic Group Analysis, 1964) · العلاج النفسي التحليلي الجماعي: المنهج والمبادئ (Group-Analytic Psychotherapy: Method and Principles, 1975) · أوراق مختارة (Selected Papers، حرّرتها إليزابيث فولكس بعد وفاته 1990).

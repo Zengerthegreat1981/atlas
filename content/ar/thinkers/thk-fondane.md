@@ -42,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-الوعي التعيس (La Conscience malheureuse, 1936) · رامبو الشقيّ (Rimbaud le voyou, 1933) · بحث زائف في الجماليات (Faux traité d'esthétique, 1938) · بودلير وتجربة الهاوية (Baudelaire et l'expérience du gouffre, 1947، بعد وفاته) · الاثنين الوجودي (Le Lundi existentiel, 1945).
+الوعي التعيس (La Conscience malheureuse, 1936) · رامبو الشقيّ (Rimbaud le voyou, 1933) · بحث زائف في الجماليات (Faux traité d'esthétique, 1938) · بودلير وتجربة الهاوية (Baudelaire et l'expérience du gouffre، نُشر بعد وفاته 1947) · الاثنين الوجودي (Le Lundi existentiel، نُشر بعد وفاته 1945).

@@ -40,4 +40,4 @@ gaps:
 
 ## أهم أعمالها
 
-«التحليل النفسي: تطوّره ونموّه» (Psychoanalysis: Evolution and Development, 1950) · «التحليل النفسي البيني-الشخصي» (Interpersonal Psychoanalysis: Selected Papers, 1964، نُشر بعد وفاتها) · مساهمات في *Psychiatry*.
+«التحليل النفسي: تطوّره ونموّه» (Psychoanalysis: Evolution and Development, 1950) · «التحليل النفسي البيني-الشخصي» (Interpersonal Psychoanalysis: Selected Papers، نُشر بعد وفاتها عام 1964) · مساهمات في *Psychiatry*.

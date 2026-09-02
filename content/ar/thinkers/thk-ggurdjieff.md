@@ -39,7 +39,7 @@ gaps:
 
 ## أهم أعماله
 
-- *Beelzebub's Tales to His Grandson* (1950).
-- *Meetings with Remarkable Men* (1963).
-- *The Fourth Way* (1957) — وهو في الحقيقة تدوين لمحاضرات تلميذه بيوتر أوسبنسكي نُشر بعد وفاة الاثنين، لا من تأليف غورجييف.
-- *Life Is Real Only Then, When 'I Am'* (1975، بعد وفاته).
+- *Beelzebub's Tales to His Grandson* — نُشر بعد وفاته 1950.
+- *Meetings with Remarkable Men* — نُشر بعد وفاته 1963.
+- *The Fourth Way* — تدوين لمحاضرات تلميذه بيوتر أوسبنسكي، نُشر بعد وفاته 1957، لا من تأليف غورجييف.
+- *Life Is Real Only Then, When 'I Am'* — نُشر بعد وفاته 1975.

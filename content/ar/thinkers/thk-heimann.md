@@ -40,4 +40,4 @@ gaps:
 
 ## أهم أعمالها
 
-حول التحويل المقابل (On Counter-Transference, 1950) · أوراق ومقالات إكلينيكية مجموعة في (About Children and Children-No-Longer, 1989).
+حول التحويل المقابل (On Counter-Transference, 1950) · أوراق ومقالات إكلينيكية مجموعة في (About Children and Children-No-Longer، صدرت بعد وفاتها عام 1989).

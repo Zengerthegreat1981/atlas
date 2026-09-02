@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
-  - "سنة الميلاد غير موثّقة."
+  - "تاريخ الميلاد غير مؤكَّد من مصدر أولي (السِيَر الأكاديمية المنشورة لا تذكره بإسناد)."
   - "لا يوجد اقتباس مباشر من *Network: A Framework for the Description of Human Interaction* (1975) بترجمة عربية معتمدة."
 ---
 

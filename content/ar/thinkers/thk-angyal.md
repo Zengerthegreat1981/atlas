@@ -40,4 +40,4 @@ gaps:
 
 ## أهم أعماله
 
-أسس علم الشخصية (Foundations for a Science of Personality, 1941) · العصاب وعلاجه: نظرية شمولية (Neurosis and Treatment: A Holistic Theory, 1965).
+أسس علم الشخصية (Foundations for a Science of Personality, 1941) · العصاب وعلاجه: نظرية شمولية (Neurosis and Treatment: A Holistic Theory، صدر بعد وفاته 1965).

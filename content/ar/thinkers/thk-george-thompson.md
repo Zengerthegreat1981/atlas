@@ -36,7 +36,7 @@ gaps:
 
 ## أهم أعماله
 
-- *Verbal Judo: The Gentle Art of Persuasion* (مع جيري جينكينز، William Morrow, 1993؛ نسخة محدثة 2013).
+- *Verbal Judo: The Gentle Art of Persuasion* (مع جيري جينكينز، William Morrow, 1993؛ نسخة محدَّثة صدرت بعد وفاته 2013).
 
 ## المصادر
 

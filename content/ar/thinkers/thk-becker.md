@@ -56,7 +56,7 @@ gaps:
 
 ## أهم أعماله
 
-مولد المعنى وموته (The Birth and Death of Meaning, 1962) · إنكار الموت (The Denial of Death, 1973) · الهروب من الشر (Escape from Evil, 1975، نُشر بعد وفاته)
+مولد المعنى وموته (The Birth and Death of Meaning, 1962) · إنكار الموت (The Denial of Death, 1973) · الهروب من الشر (Escape from Evil، نُشر بعد وفاته عام 1975)
 
 ## اقتباسات مختارة
 

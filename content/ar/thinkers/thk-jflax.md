@@ -19,7 +19,6 @@ related:
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "thk-jmitchell", title: "جولييت ميتشل", type: "مفكر"
 gaps:
-  - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق من *Thinking Fragments* (1990) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
 ---

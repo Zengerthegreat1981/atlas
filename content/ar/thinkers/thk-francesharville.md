@@ -62,7 +62,7 @@ gaps:
 
 ### 4. مؤسسة EMDRIA
 
-أسّست شابيرو **رابطة EMDRIA** (EMDR International Association) عام 1995، التي تقدم التدريب والاعتماد في EMDR. اعتباراً من 2020، أكثر من 100,000 معالج معتمد في EMDR عالمياً.
+أسّست شابيرو **رابطة EMDRIA** (EMDR International Association) عام 1995، التي تقدم التدريب والاعتماد في EMDR. واستمرّت الرابطة بعد وفاتها؛ ففي إحصاء 2020 تجاوز عدد المعالجين المعتمدين في EMDR مئة ألف عالمياً.
 
 ## موقعها من التيار
 
@@ -110,7 +110,7 @@ gaps:
 - Shapiro, F. (1995). *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures*. Guilford Press.
 - Shapiro, F. (2001/2018). *Eye Movement Desensitization and Reprocessing* (2nd & 3rd eds.). Guilford Press.
 - Shapiro, F. (2012). *Getting Past Your Past: Take Control of Your Life with Self-Help Techniques from EMDR Therapy*. Rodale.
-- EMDR International Association (2020). *EMDR Therapy Practice Guidelines*. EMDRIA.
+- EMDR International Association — صدر بعد وفاتها 2020: *EMDR Therapy Practice Guidelines*. EMDRIA.
 - Maxfield, L., & Hyer, L. A. (2002). The relationship between efficacy and methodology in studies investigating EMDR treatment of PTSD. *Journal of Clinical Psychology*, 58(1), 23-41.
 
 

@@ -42,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-الأخلاق (Ethik, 1926) · مشكلة الوجود الروحي (Das Problem des geistigen Seins, 1932) · تأسيس الأنطولوجيا (Zur Grundlegung der Ontologie, 1935) · الإمكان والفعل (Möglichkeit und Wirklichkeit, 1938) · سبل جديدة في الأنطولوجيا (Neue Wege der Ontologie, 1949) · الجماليات (Ästhetik, 1953، بعد وفاته).
+الأخلاق (Ethik, 1926) · مشكلة الوجود الروحي (Das Problem des geistigen Seins, 1932) · تأسيس الأنطولوجيا (Zur Grundlegung der Ontologie, 1935) · الإمكان والفعل (Möglichkeit und Wirklichkeit, 1938) · سبل جديدة في الأنطولوجيا (Neue Wege der Ontologie, 1949) · الجماليات (Ästhetik، صدر بعد وفاته عام 1953).

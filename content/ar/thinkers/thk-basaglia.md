@@ -44,4 +44,4 @@ gaps:
 
 ## أهم أعماله
 
-المؤسسة المنفيَّة (L'istituzione negata, 1968) · أن تموت بحكم طبقتك (Morire di classe, 1969) · كتابات بازاليا (Scritti, 1981–1982).
+المؤسسة المنفيَّة (L'istituzione negata, 1968) · أن تموت بحكم طبقتك (Morire di classe, 1969) · كتابات بازاليا (Scritti، نُشرت بعد وفاته 1981–1982).

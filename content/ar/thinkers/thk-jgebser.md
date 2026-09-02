@@ -37,4 +37,4 @@ gaps:
 ## أهم أعماله
 
 - *The Ever-Present Origin* (1949، بالألمانية).
-- *The Foundations of the Aperspectival World* (1978، بعد وفاته).
+- *The Foundations of the Aperspectival World* (نُشر بعد وفاته عام 1978).

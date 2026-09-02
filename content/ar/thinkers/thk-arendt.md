@@ -42,7 +42,7 @@ gaps:
 
 ## أهم أعمالها
 
-الوضع البشري (The Human Condition, 1958) · أصول التوتاليتارية (The Origins of Totalitarianism, 1951) · إيخمان في القدس: تقرير حول تفاهة الشر (Eichmann in Jerusalem, 1963) · حياة العقل (The Life of the Mind, 1978).
+الوضع البشري (The Human Condition, 1958) · أصول التوتاليتارية (The Origins of Totalitarianism, 1951) · إيخمان في القدس: تقرير حول تفاهة الشر (Eichmann in Jerusalem, 1963) · حياة العقل (The Life of the Mind، صدر بعد وفاتها 1978).
 
 ## اقتباسات مختارة
 

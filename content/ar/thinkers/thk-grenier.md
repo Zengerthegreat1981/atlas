@@ -8,7 +8,7 @@ en: "Jean Grenier"
 crumb: "المدرسة الوجودية ← الناس ← جان غرينييه"
 dates: "فرنسا · 1898–1971"
 active_start: 1933
-active_end: 1959
+active_end: 1960
 country: "فرنسا"
 language: "الفرنسية"
 part: "philosophy"
@@ -40,4 +40,4 @@ gaps:
 
 ## أهم أعماله
 
-الجزر (Les Îles, 1933 مع مقدمة ألبير كامو في 1959) · إلهامات متوسطية (Inspirations méditerranéennes, 1941) · وجودات (Existences, 1945) · رسائل متبادلة مع ألبير كامو (Correspondance Albert Camus – Jean Grenier, 1932–1960، نُشرت 1981).
+الجزر (Les Îles, 1933 مع مقدمة ألبير كامو في 1959) · إلهامات متوسطية (Inspirations méditerranéennes, 1941) · وجودات (Existences, 1945) · رسائل متبادلة مع ألبير كامو (Correspondance Albert Camus – Jean Grenier, 1932–1960، نُشرت بعد وفاته عام 1981).

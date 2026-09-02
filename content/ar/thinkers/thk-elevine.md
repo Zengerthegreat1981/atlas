@@ -18,7 +18,7 @@ related:
 - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
-  - "سنة الميلاد غير موثّقة."
+  - "سنة الميلاد غير مُثبَتة من مصدر أولي (السِيَر المهنية العامة لا تذكرها بإسناد)."
   - "لا يوجد اقتباس مباشر موثوق من *Principles and Practice of Expressive Arts Therapy* (2005) بترجمة عربية معتمدة."
   - "edges.belongs_to كان نصاً حراً بدل slug حقيقي؛ صُحِّح إلى br-expressive-arts-therapy المطابق لعنصر related الموجود بالفعل."
 ---

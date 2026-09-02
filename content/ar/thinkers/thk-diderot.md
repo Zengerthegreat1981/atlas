@@ -40,6 +40,6 @@ gaps:
 
 - *Lettre sur les aveugles* (1749) — رسالة في العميان.
 - *Encyclopédie* (1751–1772، بالاشتراك مع دالمبير).
-- *Le Rêve de d'Alembert* (1769، نُشر 1830) — حلم دالمبير.
-- *Le Neveu de Rameau* (نُشر 1805) — ابن أخي رامو.
-- *Paradoxe sur le comédien* (1773، نُشر 1830) — مفارقة الممثّل.
+- *Le Rêve de d'Alembert* (1769، نُشر بعد وفاته عام 1830) — حلم دالمبير.
+- *Le Neveu de Rameau* (نُشر بعد وفاته عام 1805) — ابن أخي رامو.
+- *Paradoxe sur le comédien* (1773، نُشر بعد وفاته عام 1830) — مفارقة الممثّل.

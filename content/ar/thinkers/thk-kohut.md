@@ -60,4 +60,4 @@ gaps:
 
 ## أهم أعماله
 
-"Introspection, Empathy, and Psychoanalysis" (1959) · تحليل الذات (The Analysis of the Self، 1971) · "Thoughts on Narcissism and Narcissistic Rage" (1972) · ترميم الذات (The Restoration of the Self، 1977) · "The Two Analyses of Mr Z" (1979) · كيف يشفي التحليل؟ (How Does Analysis Cure?، 1984، بعد وفاته).
+"Introspection, Empathy, and Psychoanalysis" (1959) · تحليل الذات (The Analysis of the Self، 1971) · "Thoughts on Narcissism and Narcissistic Rage" (1972) · ترميم الذات (The Restoration of the Self، 1977) · "The Two Analyses of Mr Z" (1979) · كيف يشفي التحليل؟ (How Does Analysis Cure?، نُشر بعد وفاته عام 1984).

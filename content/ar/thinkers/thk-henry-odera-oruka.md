@@ -39,5 +39,5 @@ gaps:
 
 - *Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy* (1990).
 - *Trends in Contemporary African Philosophy* (1990).
-- *Practical Philosophy: In Search of an Ethical Minimum* (1997).
+- *Practical Philosophy: In Search of an Ethical Minimum* (صدر بعد وفاته عام 1997).
 - *Punishment and Terrorism in Africa* (1985).

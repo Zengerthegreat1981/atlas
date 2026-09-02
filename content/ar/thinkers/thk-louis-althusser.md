@@ -40,7 +40,7 @@ gaps:
 - *Pour Marx* (من أجل ماركس، 1965).
 - *Lire le Capital* (قراءة رأس المال، 1965، مع باليبار وآخرين).
 - *Idéologie et appareils idéologiques d'État* (1970).
-- *L'avenir dure longtemps* (المستقبل يدوم طويلاً، 1992، بعد وفاته).
+- *L'avenir dure longtemps* (المستقبل يدوم طويلاً — نُشر بعد وفاته عام 1992).
 
 ## اقتباسات مختارة
 

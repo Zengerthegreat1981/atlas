@@ -83,7 +83,22 @@ BLACKLIST_SENTENCES = [
 CONFIRMED_GAP_SUFFIX_RE = re.compile(r"(موثّق|موثّقة|موثّقتان|موثّقون)\s*[\.\!]?\s*$")
 BROKEN_RELATED_EQ_RE = re.compile(r'(?:id|title|type)\s*=\s*"')
 YEAR_RE = re.compile(r"(?<!\d)(1[5-9]\d{2}|20\d{2})(?!\d)")
-POSTHUMOUS_HINT_RE = re.compile(r"بعد\s+وفات")
+# يقبل «بعد وفاته/وفاتها» و«بعد وفاة <اسم>». الصيغة الأخيرة ضرورية: عندما يكون العمل لمؤلف
+# آخر (أثر بعد الوفاة)، فإن «بعد وفاته» يعود نحوياً إلى أقرب مذكور — أي إلى المؤلف الحيّ لا إلى
+# صاحب الملف — فتصير الجملة خاطئة. تسمية المتوفَّى صراحةً هي الصياغة الصحيحة، فيجب ألا يرفضها
+# الفحص. (رُصد في thk-heidegger-technology بتاريخ 2026-09-02.)
+POSTHUMOUS_HINT_RE = re.compile(r"بعد\s+وفا(?:ت|ة)")
+# سنة داخل طابع زمني كامل بصيغة YYYY-MM-DD ليست سنة بيوغرافية: في هذا المشروع تُكتب السنوات
+# البيوغرافية مجرّدة («عام 1949»)، أما الصيغة الكاملة فهي دائماً طابع إداري — تاريخ حجْر أو
+# تدقيق، أو جزء من مسار أرشيف مثل
+# `agents_specs/quarantine-minimax-archive/thk-x.md.archived.2026-08-26`.
+# رُصد هذا في thk-jlubar (2026-09-02): الفحص أبلغ عن «2026» وهي طابع «حُجر 2026-08-26»
+# ونفس الطابع داخل أربعة مسارات أرشيف — وأي إعادة صياغة كانت ستكسر المسارات نفسها.
+_DATESTAMP_RE = re.compile(r"(?<!\d)(1[5-9]\d{2}|20\d{2})-\d{2}-\d{2}(?!\d)")
+
+
+def _datestamp_spans(prose):
+    return [(m.start(), m.end()) for m in _DATESTAMP_RE.finditer(prose)]
 
 
 def resolve_path_for_slug(slug):
@@ -221,9 +236,12 @@ def check_dates_vs_body(node, raw_text, issues):
         # (زي "طبعة 1903") مش حدث في حياة الشخص، فالفحص ده مش مفيد هنا.
         return
     prose = _prose_body_only(raw_text)
+    _stamps = _datestamp_spans(prose)
     for m in YEAR_RE.finditer(prose):
         year = int(m.group(1))
         if year <= active_end:
+            continue
+        if any(s <= m.start() < e for s, e in _stamps):
             continue
         window = prose[max(0, m.start() - 30):m.start()]
         if POSTHUMOUS_HINT_RE.search(window):

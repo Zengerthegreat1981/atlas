@@ -44,6 +44,6 @@ gaps:
 
 - *La escena contemporánea* (1925) — المشهد المعاصر.
 - *7 ensayos de interpretación de la realidad peruana* (1928) — سبع مقالات في تفسير الواقع البيروفي.
-- *Defensa del marxismo* (1934، نُشر بعد وفاته) — الدفاع عن الماركسية.
+- *Defensa del marxismo* (نُشر بعد وفاته عام 1934) — الدفاع عن الماركسية.
 - *Cartas de Italia* (مقالات صحفية، 1919–1924) — رسائل من إيطاليا.
-- *El alma matinal y otras estaciones del hombre de hoy* (1950، جمع بعد وفاته).
+- *El alma matinal y otras estaciones del hombre de hoy* (جُمع بعد وفاته عام 1950).

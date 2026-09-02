@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: 1962
-active_end: 2005
+active_end: 2015
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:

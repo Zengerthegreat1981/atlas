@@ -42,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-هرمس وأبناؤه (Hermes and His Children, 1977) · قراءات بطيئة عن النفس (Slowly Read Images) · الأعمال المجمّعة (Obra reunida, 2022).
+هرمس وأبناؤه (Hermes and His Children, 1977) · قراءات بطيئة عن النفس (Slowly Read Images) · الأعمال المجمّعة (Obra reunida — صدرت بعد وفاته عام 2022).

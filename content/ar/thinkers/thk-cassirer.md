@@ -53,4 +53,4 @@ gaps:
 
 ## أهم أعماله
 
-الذات ومجموع الأشكال الرمزية (Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit, 1906-1957، أربعة مجلدات) · فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen, 1923-1929) · الدولة الجمهورية (Die Idee der republikanischen Verfassung, 1928) · مقال عن الإنسان (An Essay on Man, 1944) · منطق العلوم الثقافية (Zur Logik der Kulturwissenschaften, 1942).
+الذات ومجموع الأشكال الرمزية (Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit, 1906-1920؛ والمجلد الرابع نُشر بعد وفاته عام 1957) · فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen, 1923-1929) · الدولة الجمهورية (Die Idee der republikanischen Verfassung, 1928) · مقال عن الإنسان (An Essay on Man, 1944) · منطق العلوم الثقافية (Zur Logik der Kulturwissenschaften, 1942).

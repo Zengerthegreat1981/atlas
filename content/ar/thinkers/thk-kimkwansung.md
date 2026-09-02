@@ -10,7 +10,7 @@ dates: "كوريا الجنوبية · [DRAFT-UNKNOWN]"
 country: "كوريا الجنوبية"
 language: "الكورية"
 active_start: 1977
-active_end: 2000
+active_end: 2013
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "علاج الهوابيونغ (Hwabyung)", target_type: "مدرسة"

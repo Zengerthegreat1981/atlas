@@ -58,4 +58,4 @@ gaps:
 
 ## أهم أعماله
 
-بشرة سوداء، أقنعة بيضاء (Peau noire, masques blancs, 1952) · معذبو الأرض (Les Damnés de la Terre, 1961) · العام الخامس للثورة الجزائرية (L'An V de la révolution algérienne, 1959 — صدر لاحقاً بعنوان «سوسيولوجيا ثورة») · من أجل الثورة الأفريقية (Pour la révolution africaine, 1964، مقالات جُمعت بعد وفاته).
+بشرة سوداء، أقنعة بيضاء (Peau noire, masques blancs, 1952) · معذبو الأرض (Les Damnés de la Terre, 1961) · العام الخامس للثورة الجزائرية (L'An V de la révolution algérienne, 1959 — صدر لاحقاً بعنوان «سوسيولوجيا ثورة») · من أجل الثورة الأفريقية (Pour la révolution africaine، مقالات جُمعت بعد وفاته عام 1964).

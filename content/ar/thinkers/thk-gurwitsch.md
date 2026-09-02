@@ -41,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-مجال الوعي (Théorie du champ de la conscience, 1957؛ بالإنجليزية The Field of Consciousness, 1964) · دراسات في الفينومينولوجيا وعلم النفس (Studies in Phenomenology and Psychology, 1966) · الفينومينولوجيا ونظرية العلم (Phenomenology and the Theory of Science, 1974، بعد وفاته).
+مجال الوعي (Théorie du champ de la conscience, 1957؛ بالإنجليزية The Field of Consciousness, 1964) · دراسات في الفينومينولوجيا وعلم النفس (Studies in Phenomenology and Psychology, 1966) · الفينومينولوجيا ونظرية العلم (Phenomenology and the Theory of Science، صدر بعد وفاته عام 1974).

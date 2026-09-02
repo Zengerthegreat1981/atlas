@@ -11,7 +11,7 @@ dates: "الولايات المتحدة · 1873–1946"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1910
-active_end: 1930
+active_end: 1931
 edges:
 - rel: "belongs_to", target: "sch-new-realism", target_type: "مدرسة"
 related:

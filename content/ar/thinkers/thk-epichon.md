@@ -45,4 +45,4 @@ gaps:
 
 ## أهم أعماله
 
-من التحليل النفسي إلى علم النفس الاجتماعي (Del psicoanálisis a la psicología social, 1970–1971) · نظرية الرابط (Teoría del vínculo، محاضرات 1956–1957، نُشرت 1979) · العملية الإبداعية (El proceso creador).
+من التحليل النفسي إلى علم النفس الاجتماعي (Del psicoanálisis a la psicología social, 1970–1971) · نظرية الرابط (Teoría del vínculo، محاضرات 1956–1957، نُشرت بعد وفاته عام 1979) · العملية الإبداعية (El proceso creador).

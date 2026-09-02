@@ -24,7 +24,7 @@ related:
 - id: "sch-fichte", title: "مدرسة فيشته", type: "مدرسة"
 - id: "con-categorical-imperative-kant", title: "الأمر القطعي (كانط)", type: "مفهوم"
 gaps:
-  - "علاقته الشخصية مع Fichte في ينا (1790s) لم تُوثَّق في رسائل متبادلة موثّقة."
+  - "علاقته الشخصية مع Fichte في ينا (1790s) تنقصها مراسلات متبادلة منشورة تسندها."
   - "تحوّله من 'الكانطية' إلى 'Fenelonian Mysticism' في حياته اللاحقة لم يُحلَّل."
   - "لا توجد ترجمة عربية لـVersuch einer neuen Theorie des menschlichen Vorstellungsvermögens (1789)."
 ---

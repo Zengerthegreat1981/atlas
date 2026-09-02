@@ -41,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-الأطفال كأفراد (Children as Individuals, 1969) · تطوّرات جديدة في التحليلية (New Developments in Analytical Psychology, 1957) · الذات في التحوّل (The Self in Transformation، تحرير 2007 لسولومون).
+الأطفال كأفراد (Children as Individuals, 1969) · تطوّرات جديدة في التحليلية (New Developments in Analytical Psychology, 1957) · الذات في التحوّل (The Self in Transformation، حرّره سولومون بعد وفاته 2007).

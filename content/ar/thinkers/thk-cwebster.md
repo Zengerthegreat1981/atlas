@@ -10,7 +10,7 @@ dates: "كندا · [DRAFT-UNKNOWN]"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1984
-active_end: 2010
+active_end: 2013
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"

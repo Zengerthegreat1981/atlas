@@ -22,7 +22,6 @@ related:
 - id: "thk-tgrisso", title: "توماس غريسو", type: "مفكر"
 - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق من *Predicting Violent Behavior: An Assessment of the Clinical Techniques* (1981) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."

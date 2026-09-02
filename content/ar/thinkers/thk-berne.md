@@ -35,7 +35,7 @@ gaps:
 
 - **"التحليل التفاعلي في العلاج النفسي" (Transactional Analysis in Psychotherapy, 1961)**: كتابه الأبرز الذي حدّد فيه النموذج الكلاسيكي: (1) "الوُلد" (Child) بثلاث حالات (الطبيعي، المتحرّر، المتكيّف)، (2) "الوالد" (Parent) بـ"المُسيطِر" و"المُغذّي"، (3) "الراشد" (Adult) بوصفه "مُعالجاً للواقع". "المعاملة" (Transaction) هي وحدة التفاعل بين شخصين.
 - **"الألعاب الناس يلعبونها" (Games People Play, 1964)**: كتابه الأكثر شعبية، يصف "الألعاب النفسية" (Psychological Games) بوصفها "حركات سُلوكية متكرّرة ذات نهاية مُفاجئة" (AHT – Awful Hidden Trap). صاغ فيها ألعاباً مثل "Rapo" (Now I've Got You, You Son of a Bitch)، "NIGYYSOB" (Now I Got You, You Son of a Bitch) و"Why Don't You, Yes But" (لمَ لا، نعم، لكن).
-- **"الحياة في المصارعة" (What Do You Say After You Say Hello?, 1972)**: الكتاب الذي يُكمل فيه نموذج "الـ' Scripts'" (المخطوطات الحياتية) — وهي "قصة غير واعية" تحدّد مسار حياة الفرد.
+- **"الحياة في المصارعة" (What Do You Say After You Say Hello?، نُشر بعد وفاته عام 1972)**: الكتاب الذي يُكمل فيه نموذج "الـ' Scripts'" (المخطوطات الحياتية) — وهي "قصة غير واعية" تحدّد مسار حياة الفرد.
 - **"حالات الـ'Ego'": تبنّى "حالات الأنا" الثلاث (الوالد/الراشد/الوُلد) بوصفها "حالات ظاهرية" (Phenomenological) لا "مُتعارَض عليها" في علم النفس.
 - **"التصويت (Strokes)": مفهوم "التربيتة" (Stroke) بوصفها الوحدة الأساسية للتواصل البشري. صاغ "The Five Hunger" (الجوع الخمسة): (1) الاعتراف (Recognition)، (2) التحفيز (Stimulation)، (3) الهيكل (Structure)، (4) التضمين (Inclusion)، (5) الحبّ (Love).
 - **"تقنية OK Corral": "الجدار الذي يَحكم" كلّ علاقة: "أنا موافق، أنت موافق" (I'm OK, You're OK)، وهو عنوان كتابه اللاحق.
@@ -55,5 +55,5 @@ gaps:
 - *Principles of Group Treatment* (1966).
 - *A Layman's Guide to Psychiatry and Psychoanalysis* (محرر مع Holt، 1967).
 - *Sex in Human Loving* (1970).
-- *What Do You Say After You Say Hello?* (1972، نُشر بعد وفاته).
-- *Beyond Games and Scripts* (محرر مع Steiner، 1972، بعد وفاته).
+- *What Do You Say After You Say Hello?* (نُشر بعد وفاته عام 1972).
+- *Beyond Games and Scripts* (محرر مع Steiner، صدر بعد وفاته عام 1972).

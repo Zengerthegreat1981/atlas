@@ -43,7 +43,7 @@ gaps:
 - *Über die Vollständigkeit der Logikkalküle* (1929، أطروحة الدكتوراه).
 - «Über formal unentscheidbare Sätze der Principia Mathematica» (1931).
 - *Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory* (1940).
-- *Collected Works* (1986–2003، في 4 مجلدات).
+- *Collected Works* (صدرت بعد وفاته، 1986–2003، في 4 مجلدات).
 
 ## الأثر
 

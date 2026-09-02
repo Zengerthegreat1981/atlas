@@ -119,5 +119,5 @@ IPT يركّز على **أربعة أنواع من المشاكل**:
 - Weissman, M. M., et al. (1989). "Depressive symptoms, social support and social network." *Social Psychiatry and Psychiatric Epidemiology*, 25(2), 63-68.
 - Klerman, G. L., et al. (1992). "Maintenance therapy for recurrent depression." *Archives of General Psychiatry*, 49(10), 769-773.
 - Frank, E., et al. (1990). "Three-year outcomes for maintenance therapies in recurrent depression." *Archives of General Psychiatry*, 47(12), 1093-1099.
-- Weissman, M. M., & Markowitz, J. C. (1998). *Comprehensive Guide to Interpersonal Psychotherapy*. Basic Books.
+- Weissman, M. M., & Markowitz, J. C. *Comprehensive Guide to Interpersonal Psychotherapy* — صدر بعد وفاته عام 1998. Basic Books.
 

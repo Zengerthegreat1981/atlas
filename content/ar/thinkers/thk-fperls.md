@@ -58,7 +58,7 @@ gaps:
 - *Gestalt Therapy: Excitement and Growth in the Human Personality* (1951) — مع بول غودمان ولورا بيرلز.
 - *Gestalt Therapy Verbatim* (1969) — مُحرَّر من تسجيلات جلسات في معاهد مختلفة.
 - *In and Out the Garbage Pail* (1969) — سيرته الذاتية.
-- *The Gestalt Approach & Eye Witness to Therapy* (1973) — منشور بعد وفاته.
+- *The Gestalt Approach & Eye Witness to Therapy* — نُشر بعد وفاته 1973.
 
 ## لماذا يُذكر هنا
 

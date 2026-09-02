@@ -9,7 +9,7 @@ en: "Mihaly Csikszentmihalyi"
 crumb: "علم النفس الإيجابي ← مؤسس مشارك ← ميهاي تشيكسنتميهاي"
 dates: "الولايات المتحدة (المجر أصلاً) · 1934–2021"
 active_start: 1970
-active_end: 2020
+active_end: 2021
 country: "الولايات المتحدة"
 language: "الإنجليزية، المجرية"
 register: "academic"

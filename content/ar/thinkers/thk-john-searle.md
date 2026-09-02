@@ -11,7 +11,7 @@ dates: "دنفر (كولورادو) / بيركلي · 1932–2025 م"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1969
-active_end: 2019
+active_end: 2025
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
