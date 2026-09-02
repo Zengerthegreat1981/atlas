@@ -976,3 +976,8 @@ preflight_check.py على الملفات الثلاثة بعد التعميق: �
 - `thk-salazar-bondy` — **أوغوستو سالازار بوندي** (Augusto Salazar Bondy، بيرو، 1925–1974) — صاحب *¿Existe una filosofía de nuestra América?* (1968)، وطرف المناظرة الموثقة مع زيا حول إمكان فلسفة لاتينية-أمريكية أصيلة. بحثت عن `thk-bondy` و`thk-asalazar` و`thk-salazar-bondy` و`salazar` — غير موجود.
 - `thk-virginia-goldner` — **فيرجينيا غولدنر** (Virginia Goldner) — محرِّرة مع موريل ديمن لـ*Gender in Psychoanalytic Space: Between Clinic and Culture* (2002). بحثت عن `thk-goldner` و`thk-vgoldner` و`thk-virginia-goldner` — غير موجود.
 - مفهوم مطلوب: **«الخبرة غير المصوغة» (Unformulated Experience)** لدونَل ب. سترن. الموجود حالياً `con-unrepresented-experience` بمقابل إنجليزي خاطئ (Unrepresented Experience = مصطلح أندريه غرين)، وما يزال ينسب لسترن كتاب *The Present Moment* (2004) وهو لدانيال إن. ستيرن. `concepts/` ليست من نطاق كتابتي.
+
+## Task 4 — دفعة g_aa (2026-09-02)
+
+- `thk-geraldine-spark` — **جيرالدين م. سبارك** (Geraldine M. Spark) — مشاركة إيفان بوسورميني-ناجي تأليف *Invisible Loyalties: Reciprocity in Intergenerational Family Therapy* (1973)، النصّ التأسيسي للعلاج السياقي. بحثت عن `thk-spark` و`thk-gspark` و`thk-geraldine-spark` و`spark` في `content/ar/thinkers` — غير موجود.
+- `thk-barbara-krasner` — **باربرا ر. كراسنر** (Barbara R. Krasner) — مشاركة بوسورميني-ناجي تأليف *Between Give and Take: A Clinical Guide to Contextual Therapy* (1986). بحثت عن `thk-krasner` و`thk-bkrasner` و`thk-barbara-krasner` — غير موجود.

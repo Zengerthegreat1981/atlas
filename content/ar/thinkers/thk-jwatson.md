@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
+- id: "thk-mc-jones", title: "ماري كوفر جونز", type: "مفكر"
 - id: "evt-little-albert-ethical-controversy-1970", title: "المراجعة الأخلاقية لتجربة ليتل ألبرت وصياغة ميثاق حماية المشاركين في الأبحاث", type: "حدث تاريخي"
 - id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
 - id: "crt-research-ethics-historical", title: "نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس", type: "نقد خارجي موثَّق"
@@ -25,8 +26,10 @@ related:
 - id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من *Behaviorism* (1925) بترجمة عربية معتمدة."
-  - "تفاصيل فصله من جامعة جونز هوبكنز (1920) بسبب «قضية روزالي رينر» — موضع بحث."
+  - "لا توجد ترجمة عربية معتمدة لـ*Behaviorism* (1925)، فالنصّ المقتبس هنا مترجَم في هذا المدخل ولم يُقابَل بطبعة عربية منشورة."
+  - "رقم صفحة عبارة «اثني عشر رضيعاً» يختلف بين طبعتَي *Behaviorism* (1925 و1930) ولم يُثبَت هنا أيّ منهما."
+  - "قرار جامعة جونز هوبكنز بفصله سنة 1920 لم يُقابَل بنصّ المحضر الجامعي، فسبب الفصل المعلَن رسمياً غير محدَّد هنا."
+  - "الرابط `crt-neuroscience-critique-classic-theories` مسجَّل في `related` ولم يُشرَح في المتن؛ تُرك كما هو في انتظار قرار تحرير أعلى."
 ---
 
 # جون ب. واتسون
@@ -42,7 +45,9 @@ gaps:
 
 ## موقعه من التيار
 
-مؤسِّس «السلوكية الأكاديمية»، «الجدّ» للـ Skinner (راديكالية)، Wolpe (علاج)، Eysenck (علاج/حركة)، Bandura (اجتماعية).
+قام بيانه 1913 على أساسين سابقين له: قانون الأثر عند **إدوارد ثورنديك** (1898)، والمنعكس الشرطي عند **إيفان بافلوف** الذي عرفه الوسط الأمريكي على نطاق واسع بعد ترجمة *Conditioned Reflexes* سنة 1927. ومنه أخذ **ب. ف. سكينر** برنامج «علم السلوك» ودفعه إلى السلوكية الراديكالية في *The Behavior of Organisms* (1938).
+
+ويُنسب إلى واتسون كثيراً ما ليس له: **إزالة إشراط الخوف** عند الطفل «بيتر» عملُ **ماري كوفر جونز**، نشرته سنة 1924 في *Pedagogical Seminary* بعنوان "A Laboratory Study of Fear: The Case of Peter"، وهي كانت طالبةً عند واتسون لا مساعدةً في تجربة ألبرت.
 
 ## القيد
 **تجربة ألبرت الصغير لا تصلح دليلاً**، وهذا أهمّ ما يجب أن يُقال عنها:
@@ -59,3 +64,11 @@ gaps:
 ## أهم أعماله
 
 "Psychology as the Behaviorist Views It" (1913)، *Psychological Review* — البيان السلوكي · *Behavior: An Introduction to Comparative Psychology* (1914) · "Conditioned Emotional Reactions" (1920، مع روزالي راينر) — ورقة ألبرت الصغير · *Behaviorism* (1925) · *Psychological Care of Infant and Child* (1928، مع روزالي راينر واتسون).
+
+## المصادر
+
+- Watson, J. B. "Psychology as the Behaviorist Views It." *Psychological Review* 20(2), 1913, 158–177.
+- Watson, J. B., & Rayner, R. "Conditioned Emotional Reactions." *Journal of Experimental Psychology* 3(1), 1920, 1–14.
+- Watson, J. B. *Behaviorism*. New York: People's Institute Publishing, 1925.
+- Buckley, K. W. *Mechanical Man: John Broadus Watson and the Beginnings of Behaviorism*. New York: Guilford Press, 1989.
+- Harris, B. "Whatever Happened to Little Albert?" *American Psychologist* 34(2), 1979, 151–160.
