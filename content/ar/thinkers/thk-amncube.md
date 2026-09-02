@@ -19,7 +19,7 @@ related:
 - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
 - id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
 - id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
-- id: "thk-nmanganyi", title: "نْيلسون مَغَنْي", type: "مفكر"
+- id: "thk-nmanganyi", title: "إن تشاباني مَنغاني", type: "مفكر"
 - id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
 - id: "thk-mtutufurth", title: "مافو توتو فان فورث", type: "مفكر"
 gaps:

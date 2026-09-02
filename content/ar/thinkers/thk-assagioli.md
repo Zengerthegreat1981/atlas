@@ -21,7 +21,7 @@ related:
 - id: "br-psychosynthesis", title: "التركيب النفسي (أساجيولي)", type: "تيار"
 - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-- id: "thk-rice", title: "روبرت رايس", type: "مفكر"
+- id: "thk-rice", title: "لورا إن. رايس", type: "مفكر"
 - id: "thk-dabrowski", title: "كازيمير دابروفسكي", type: "مفكر"
 - id: "thk-farrelly", title: "فرانك فاريلي", type: "مفكر"
 - id: "thk-lieberman", title: "ألسي ليبرمان (باتريسيا)", type: "مفكر"

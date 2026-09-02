@@ -15,7 +15,7 @@ crumb: "الأطلس ← thinkers ← دان أولِس"
 edges:
 - rel: "belongs_to", target: "علاج التنمر والعدوان", target_type: "مدرسة"
 related:
-- id: "thk-jeberenz", title: "وولتر جِيمس أَولِس", type: "مفكر"
+- id: "thk-jeberenz", title: "دان أولڤيوس", type: "مفكر"
 - id: "thk-krigby", title: "كن رِجباي", type: "مفكر"
 - id: "thk-petersmith", title: "بيتر سميث", type: "مفكر"
 gaps:

@@ -15,7 +15,7 @@ crumb: "الأطلس ← thinkers ← ليندا جيمس مايرز"
 edges:
 - rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
 related:
-- id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
+- id: "thk-jakhan", title: "ويد نوبلز", type: "مفكر"
 gaps:
   - "سنة الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Understanding the African-American Experience* (2001) بترجمة عربية معتمدة."
