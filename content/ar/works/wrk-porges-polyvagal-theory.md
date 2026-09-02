@@ -7,31 +7,54 @@ level: "متوسط"
 title: "كتاب النظرية العصبية المبهمية لستيفن بورغس (2011)"
 en: "The Polyvagal Theory: Neurophysiological Foundations of Emotions by Stephen Porges"
 crumb: "العلوم العصبية والفسيولوجيا ← أمهات الأعمال ← النظرية العصبية المبهمية"
-active_start: null
+active_start: 1995
 active_end: "مستمر"
+author: "ستيفن بورجِس"
+author_slug: "thk-stephen-porges"
+publication_year: 2011
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
-- id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 - id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
+- id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 - id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
+- id: "con-neuroception-polyvagal", title: "النيوروسبشن (Neuroception) والحالات العصبية المبهمية", type: "مفهوم"
+- id: "con-polyvagal-states", title: "حالات الجهاز العصبي المتعدّد (Polyvagal States)", type: "مفهوم"
+- id: "tec-polyvagal-ladder-mapping", title: "تقنية رسم خريطة السلم العصبي والمحفزات المبهمية", type: "تقنية"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا تُذكر ترجمة عربية لأن الأطلس لم يثبت طبعة عربية للكتاب بمترجم وناشر وسنة."
+  - "لم يُثبت هنا أي ردّ منشور لبورغس على ورقة غروسمان 2023، ولا موقع الدوريات المتخصصة منه."
+  - "لم تُراجَع قائمة فصول الكتاب فصلاً فصلاً مقابل الأوراق الأصلية التي أُعيد نشرها فيه."
 ---
 
 # كتاب النظرية العصبية المبهمية لستيفن بورغس (2011)
 
-يجمع كتاب «The Polyvagal Theory» الأبحاث الرائدة لعالم الأعصاب ستيفن بورغس حول التطور الفيلوجيني للعصب المبهم (Vagus Nerve) ودوره في تنظيم المشاعر والتواصل الاجتماعي واستجابات الصدمة.
+*The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, Self-Regulation*، نيويورك: W. W. Norton، 2011.
 
-## المنظور التطوري للعصب المبهم
+## الأطروحة المركزية
 
-يكشف بورغس عن وجود فرعين متباينين وظيفياً وتطورياً للعصب المبهم العاشر: الفرع الظهري القديم غير المياليني المسؤول عن الشلل والانغلاق، والفرع البطني الثديي الحديث المياليني المسؤول عن نبرة الصوت وتعبيرات الوجه والترابط الآمن.
+الجهاز العصبي الذاتي عند الثدييات ليس ثنائياً (سمبثاوي/باراسمبثاوي) بل ثلاثي المستويات، مرتّب فيلوجينياً: فرع مبهم ظهري غير مياليني قديم يُنتج التثبيت والانهيار، وجهاز سمبثاوي للتعبئة والقتال أو الهروب، وفرع مبهم بطني مياليني — تقول النظرية إنه خاص بالثدييات — يرتبط بأعصاب الوجه والحنجرة والأذن الوسطى فيكوّن **نظام الانخراط الاجتماعي**. ويضيف بورغس مفهوم **الاستشعار العصبي** (Neuroception): تقدير الخطر أو الأمان قبل الوعي.
 
-## نظام الانخراط الاجتماعي (Social Engagement System)
+## بنية العمل
 
-يوضح الكتاب كيف يرتبط العصب المبهم البطني بأعصاب الوجه والسمع والحنجرة لتكوين نظام متكامل للتهدئة المشتركة.
+الكتاب ليس مؤلَّفاً متّصلاً بل **تجميعة لأوراق بورغس المنشورة** عبر نحو عقدين، مرتّبة في أقسام موضوعية مع مقدمات ربط. النواة النظرية سبقت الكتاب بستّة عشر عاماً: خطاب رئاسته للجمعية في دورية *Psychophysiology* عام 1995 بعنوان «Orienting in a defensive world».
 
-## الأثر في الطب النفسي المعاصر
+## السياق التاريخي للنشر
 
-أحدثت النظرية تحولاً جذرياً في فهم التوحد، واضطراب ما بعد الصدمة، واضطرابات القلق الحادة.
+صدر عام 2011 داخل سلسلة Norton للعلوم العصبية الشخصية، في اللحظة التي كان فيها حقل الصدمة يبحث عن أساس فسيولوجي لممارساته الجسدية. وقد وفّرت النظرية لغةً مشتركة تبنّاها هذا الحقل سريعاً، وامتدّ عمل بورغس بعده إلى *Polyvagal Safety* (2021).
+
+## الاستقبال والنقد — وضعه الأدلّي
+
+**الوضع منقسم، ويجب ألا يُعرض الكتاب بوصفه علماً مستقراً.** فمن جهة تبنّته أوساط العلاج بالصدمة والعلاجات الجسدية تبنّياً واسعاً حتى صار مفرداتٍ عاملة فيها. ومن جهة أخرى تواجه دعاواه التشريحية-المقارنة اعتراضاً قائماً: نشر **پول غروسمان** مع **ياب تايلر** في *Biological Psychology* عام 2007 نقداً لاستخدام **اضطراب الجيب التنفسي** (RSA) مؤشراً مباشراً على «النغمة المبهمية»، ثم وسّع غروسمان النقد في *Biological Psychology* عام 2023 في ورقة تتصدّى لمقدّمات النظرية الخمس، ومنها أن المبهم المياليني خاص بالثدييات — وهي دعوى يقول غروسمان إن التشريح المقارن للفقاريات لا يحتملها. أي أن ما هو مستقرّ عملياً في العيادة ليس هو نفسه ما هو مثبت في علم الأعصاب التطوري.
+
+## ليه مذكور في الأطلس
+
+لأنه المرجع الذي تستند إليه مداخل العلاج الجسدي في هذا الأطلس (`sch-polyvagal-informed-therapy`، `tec-polyvagal-ladder-mapping`، `con-neuroception-polyvagal`)؛ فتحديد وضعه الأدلّي هنا يحكم كيف تُقرأ تلك المداخل جميعاً.
+
+## المصادر
+
+- Porges, Stephen W. *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, Self-Regulation*. New York: W. W. Norton, 2011.
+- Porges, Stephen W. "Orienting in a Defensive World: Mammalian Modifications of Our Evolutionary Heritage. A Polyvagal Theory." *Psychophysiology* 32 (1995): 301–318.
+- Grossman, Paul, and Edwin W. Taylor. "Toward Understanding Respiratory Sinus Arrhythmia: Relations to Cardiac Vagal Tone, Evolution and Biobehavioral Functions." *Biological Psychology* 74, no. 2 (2007): 263–285.
+- Grossman, Paul. "Fundamental Challenges and Likely Refutations of the Five Basic Premises of the Polyvagal Theory." *Biological Psychology* (2023).

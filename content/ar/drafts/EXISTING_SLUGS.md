@@ -3537,7 +3537,7 @@
 - `wrk-bowlby-separation` — الانفصال: القلق والغضب (Separation: Anxiety and Anger) — ✅ معتمد
 - `wrk-brahma-sutra-bhashya-shankara` — شرح البراهما سوترا لشانكارا — ✅ معتمد
 - `wrk-braiding-sweetgrass` — ضفائر العشب الحلو (Braiding Sweetgrass) — ✅ معتمد
-- `wrk-buddhas-brain` — مخ بوذا: علم الأعصاب العملي للسعادة والحكمة وراحة البال — ✅ معتمد
+- `wrk-buddhas-brain` — مخ بوذا: علم الأعصاب العملي للسعادة والحب والحكمة — ✅ معتمد
 - `wrk-build-life-you-want` — ابنِ الحياة التي تريدها: فن العلم للسعادة — ✅ معتمد
 - `wrk-bunyat-al-aql-al-arabi-jabri` — بنية العقل العربي لمحمد عابد الجابري — ✅ معتمد
 - `wrk-can-the-subaltern-speak` — هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988) — ✅ معتمد
