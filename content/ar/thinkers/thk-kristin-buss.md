@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "thk-barry-kramer", title: "باري كريمر", type: "مفكر"
-- id: "thk-mark-santross", title: "مارك سانتروس", type: "مفكر"
 - id: "thk-rick-levy", title: "ريك ليفي", type: "مفكر"
 - id: "thk-robert-burgess", title: "روبرت بَرجِس", type: "مفكر"
 gaps:

@@ -15,11 +15,11 @@ crumb: "الأطلس ← thinkers ← لويس كوتزولينو"
 edges:
 - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:
-- id: "thk-rkeller", title: "روبرت كيلر", type: "مفكر"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "thk-aschore", title: "ألان شور", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Neuroscience of Psychotherapy* (2002) بترجمة عربية معتمدة."
+  - "رابط أُزيل: «روبرت كيلر» (thk-rkeller) لا ملف له في الأطلس ولا ذكر له في متن هذا الملف — slug وهمي لا وجود له."
 ---
 
 # لويس كوتزولينو

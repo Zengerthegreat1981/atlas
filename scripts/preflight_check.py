@@ -102,12 +102,25 @@ def _datestamp_spans(prose):
 
 
 def resolve_path_for_slug(slug):
+    """يُفضّل المعتمد، ويقبل المسودات كملاذ ثانٍ.
+
+    قبل 2026-09-02 كان هذا يستثني `drafts/` تماماً، فكان كل رابط إلى مسودة يُبلَّغ كـ«id مش
+    بيشاور لأي ملف موجود» — وهي ضجّة هائلة لا عيوب: تشغيل الفحص على `drafts/spark/` أعطى 205
+    من 244 مخالفة من هذا النوع، وفُحصت الـ108 معرّفات المتفرّدة فكانت **108/108 موجودة فعلاً**.
+    والربط بمسودة اصطلاح قائم لا خطأ (106 ملفاً معتمداً يفعله بانتظار الترقية)، وهو ما يقبله
+    فحص `edges` أيضاً. يبقى المعتمد أولاً حتى تُقارَن العناوين بالنسخة المعتمدة عند وجودها.
+    """
+    fname = slug + ".md"
+    draft_hit = None
     for root, dirs, files in os.walk(CONTENT_AR):
-        dirs[:] = [d for d in dirs if not d.startswith(".") and d != "drafts"]
-        fname = slug + ".md"
+        dirs[:] = [d for d in dirs if not d.startswith(".")]
         if fname in files:
-            return os.path.join(root, fname)
-    return None
+            path = os.path.join(root, fname)
+            if os.sep + "drafts" + os.sep in path + os.sep:
+                draft_hit = draft_hit or path
+            else:
+                return path
+    return draft_hit
 
 
 # تطبيع عربي خفيف قبل مقارنة العناوين: تشكيل، صور الألف والياء والتاء المربوطة، التطويل،
