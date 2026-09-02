@@ -17,8 +17,8 @@ related:
 - id: "thk-batkinson", title: "برنت أتكينسون", type: "مفكر"
 - id: "thk-bohanlon", title: "بيل أوهَنلون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Couple Therapy: A Nontraditional Approach* (1981) بترجمة عربية معتمدة."
+  - "لم تُراجَع كتبه الثلاثة (1981، 1988، 1993) من نسخها الأصلية."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيما كول (thk-ecolle)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوردان ريد (thk-jrivett)."
 ---
@@ -44,7 +44,3 @@ gaps:
 - *Couple Therapy: A Nontraditional Approach* (1981).
 - *After the Honeymoon* (1988).
 - *After the Fight: Using Your Disagreements to Build a Stronger Relationship* (1993).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -20,7 +20,7 @@ related:
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Becoming a Therapist* (2005) بترجمة عربية معتمدة."
 ---
 
 # ديفيد واليس
@@ -41,7 +41,3 @@ gaps:
 
 - *Becoming a Therapist* (2005).
 - مقالات في *International Journal of Narrative Therapy and Community Work*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

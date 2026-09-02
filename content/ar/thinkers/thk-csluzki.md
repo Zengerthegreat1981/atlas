@@ -18,7 +18,7 @@ related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر من *Network: A Framework for the Description of Human Interaction* (1975) بترجمة عربية معتمدة."
 ---
 
 # كارلوس سلوزكي

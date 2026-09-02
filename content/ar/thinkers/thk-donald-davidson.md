@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-quinean-naturalism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
 # دونالد ديفيدسون
@@ -41,7 +41,3 @@ gaps:
 - *Mental Events* (1970) — نصّ الأحادية الشاذّة.
 - *Essays on Actions and Events* (1980).
 - *Inquiries into Truth and Interpretation* (1984).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

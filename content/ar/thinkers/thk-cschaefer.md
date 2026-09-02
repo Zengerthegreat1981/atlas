@@ -20,7 +20,7 @@ related:
 - id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر من *Therapist's Guide to Play Therapy* (2003) بترجمة عربية معتمدة."
 ---
 
 # تشارلز شيفر
@@ -42,7 +42,3 @@ gaps:
 
 - *Therapist's Guide to Play Therapy* (محرر، 2003).
 - *The Therapeutic Use of Child's Play* (مع أورينج، 1993).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

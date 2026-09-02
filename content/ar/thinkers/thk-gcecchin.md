@@ -18,8 +18,7 @@ related:
 - id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Irreverence: A Strategy for Therapists' Survival* (1992) بترجمة عربية معتمدة."
 ---
 
 # جيانفرانكو تشيكين

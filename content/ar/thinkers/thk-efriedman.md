@@ -18,7 +18,7 @@ related:
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 gaps:
   - "تفاصيل سنوات التدريب مع موراي بوين لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Generation to Generation: Family Process in Church and Synagogue* (1985) بترجمة عربية معتمدة."
 ---
 
 # إدوين فريدمان
@@ -41,7 +41,3 @@ gaps:
 - *Generation to Generation: Family Process in Church and Synagogue* (1985).
 - *Friedman's Fables* (1990).
 - *A Failure of Nerve: Leadership in the Age of the Quick Fix* (نُشر بعد وفاته، 1999).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

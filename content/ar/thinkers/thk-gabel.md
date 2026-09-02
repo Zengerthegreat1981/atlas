@@ -19,7 +19,7 @@ related:
 - id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Self-reported sex crimes of nonincarcerated paraphiliacs* (1987) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ويليام مارشال (thk-marshall)."
 ---
 
@@ -45,7 +45,3 @@ gaps:
 - Abel, G. G., & Becker, J. V., مقياس أبيل-بيكر للتشوّهات المعرفية (Abel–Becker Cognition Scale, 1984) — من أوائل أدوات قياس المعتقدات المسوِّغة للاعتداء.
 - Abel, G. G., et al., "Self-reported sex crimes of nonincarcerated paraphiliacs" (1987).
 - تأسيس Behavioral Medicine Institute.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

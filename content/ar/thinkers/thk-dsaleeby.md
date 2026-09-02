@@ -21,7 +21,7 @@ related:
 - id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
 gaps:
   - "تاريخ الميلاد الدقيق غير موثّق."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Strengths Perspective in Social Work Practice* (1992) بترجمة عربية معتمدة."
 ---
 
 # دينس ساليبي
@@ -45,7 +45,3 @@ gaps:
 - *The Strengths Perspective in Social Work Practice* (1992، 2006، 2014).
 - *Pathways to Power* (1997، محرر).
 - *People with Disabilities* (2004).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

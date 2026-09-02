@@ -19,8 +19,8 @@ related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *The Experience of the Skin in Early Object-Relations* (1968) بترجمة عربية معتمدة."
+  - "لم يُراجَع نصّ *The Experience of the Skin in Early Object-Relations* (1968) من مصدره الأصلي."
 ---
 
 # إستر بيك

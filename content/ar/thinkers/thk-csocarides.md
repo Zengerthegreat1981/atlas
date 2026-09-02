@@ -19,7 +19,7 @@ related:
 - id: "br-conversion-therapy", title: "العلاج بالتحويل (Reparative Therapy)", type: "تيار"
 gaps:
   - "تفاصيل ممارسته الإكلينيكية اليومية لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر من *The Overt Homosexual* (1968) بترجمة عربية معتمدة."
 ---
 
 # تشارلز سوكرايدِس
@@ -40,7 +40,3 @@ gaps:
 
 - *The Overt Homosexual* (1968).
 - *Homosexuality: A Freedom Too Far* (1995).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

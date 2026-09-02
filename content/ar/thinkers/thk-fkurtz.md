@@ -20,7 +20,7 @@ related:
 - id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:
   - "تفصيل فكرة الجسد بوصفه معالجاً (Body as Healer) لم يُراجَع بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Body-Centered Psychotherapy: The Hakomi Method* (1990) بترجمة عربية معتمدة."
 ---
 
 # رونالد كورتز

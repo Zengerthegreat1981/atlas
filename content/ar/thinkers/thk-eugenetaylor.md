@@ -19,6 +19,7 @@ gaps:
   - "روابط thk-alvinmahrer وthk-robertelliott حُذفت: لا ذكر لهما في متن الملف، فلا سبب موثّق للربط."
   - "رابط thk-margaretbodkin حُذف: الملف محجور في quarantine-minimax."
   - "رابط thk-markwelch حُذف: هوية الشخص غير موثقة."
+  - "لا يوجد اقتباس مباشر موثوق من *William James on Exceptional Mental States: The 1896 Lowell Lectures* (1983) بترجمة عربية معتمدة."
 ---
 
 # يوجين تيلور
@@ -40,7 +41,3 @@ gaps:
 - *William James on Exceptional Mental States: The 1896 Lowell Lectures* (1983) — إعادة بنائه لمحاضرات جيمس الضائعة عن الحالات الذهنية الاستثنائية.
 - *William James on Consciousness Beyond the Margin* (1996).
 - *Shadow Culture: Psychology and Spirituality in America* (1999).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

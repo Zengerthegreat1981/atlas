@@ -20,7 +20,7 @@ related:
 - id: "thk-lorde", title: "أودري لورد", type: "مفكر"
 gaps:
   - "نصوص Crenshaw (Demarginalizing the Intersection, Mapping the Margins) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر من *Mapping the Margins* (1991) بترجمة عربية معتمدة."
 ---
 
 # كيمبرلي كرنشو

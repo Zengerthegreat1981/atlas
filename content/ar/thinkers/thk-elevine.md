@@ -19,7 +19,7 @@ related:
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Principles and Practice of Expressive Arts Therapy* (2005) بترجمة عربية معتمدة."
   - "edges.belongs_to كان نصاً حراً بدل slug حقيقي؛ صُحِّح إلى br-expressive-arts-therapy المطابق لعنصر related الموجود بالفعل."
 ---
 

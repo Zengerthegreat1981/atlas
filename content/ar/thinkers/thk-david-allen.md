@@ -20,7 +20,7 @@ related:
 - id: "con-getting-things-done-gtd", title: "منهجية إنجاز المهام وتفريغ العقل (GTD Methodology)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Getting Things Done* (2001) بترجمة عربية معتمدة."
 ---
 
 # ديفيد ألين
@@ -36,7 +36,3 @@ gaps:
 - *Getting Things Done: The Art of Stress-Free Productivity (2001)*
 - *Ready for Anything (2003)*
 - *Making It All Work (2008)*
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

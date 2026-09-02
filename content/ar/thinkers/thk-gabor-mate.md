@@ -21,7 +21,7 @@ related:
 - id: "wrk-realm-hungry-ghosts", title: "في عالم الأشباح الجائعة", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "هوية الملف: الـslug `thk-gabor-mate` يشير إلى Gabor Maté. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
@@ -57,7 +57,3 @@ gaps:
 - *In the Realm of Hungry Ghosts: Close Encounters with Addiction* (2008).
 - *Scattered Minds* (1999).
 - *The Myth of Normal* (2022، مع دانييل ماتيه).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

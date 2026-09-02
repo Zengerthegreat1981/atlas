@@ -18,7 +18,7 @@ related:
 - id: "thk-iparker", title: "إيان باركر", type: "مفكر"
 gaps:
   - "تفاصيل نشاطها في جامعة هامبورغ لم تُوثّق بشكل مستقل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Sexualisierung der Körper* (1983) بترجمة عربية معتمدة."
 ---
 
 # فريغا هاوُغ
@@ -42,7 +42,3 @@ gaps:
 - *Erinnerungsarbeit* (1990) — عرض المنهج.
 - *Die Vier-in-einem-Perspektive* (2008).
 - تحرير مجلة *Das Argument* وموسوعة *Historisch-Kritisches Wörterbuch des Marxismus*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

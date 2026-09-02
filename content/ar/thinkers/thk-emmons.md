@@ -21,7 +21,7 @@ related:
 - id: "crt-critique-of-gratitude-research", title: "نقد بحوث الامتنان: هل «اكتب ثلاثة أشياء تشكر عليها» يغيّر شيئاً؟", type: "نقد خارجي موثَّق"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Thanks! How the New Science of Gratitude Can Make You Happier* (2007) بترجمة عربية معتمدة."
 ---
 
 # روبرت إيمونز
@@ -44,7 +44,3 @@ gaps:
 - "Counting Blessings Versus Burdens" (2003، مع مايكل ماكولوف) — الدراسة المرجعية في الحقل.
 - *Thanks! How the New Science of Gratitude Can Make You Happier* (2007).
 - *The Little Book of Gratitude* (2016).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

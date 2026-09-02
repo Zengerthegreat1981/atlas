@@ -18,7 +18,7 @@ related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "تفاصيل الفترة المبكرة في Tavistock Institute لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من "The Causal Texture of Organizational Environments" (1965) بترجمة عربية معتمدة."
 ---
 
 # فريد إيمري
@@ -42,7 +42,3 @@ gaps:
 - *Systems Thinking* (1969، تحرير) — المختارات التي عرّفت جيلاً كاملاً بتفكير النظم.
 - *Towards a Social Ecology* (1973، مع تريست).
 - *Participative Design for Participative Democracy* (1989، مع ميرفين إيمري).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

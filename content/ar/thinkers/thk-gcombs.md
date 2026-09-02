@@ -20,7 +20,7 @@ related:
 - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Narrative Therapy: The Social Construction of Preferred Realities* (1996) بترجمة عربية معتمدة."
   - "تحقّق: انتسابه الأكاديمي هو جامعة شيكاغو (أستاذ مشارك سريري سابق)، وليس جامعة نورث وسترن كما كان مثبتاً سابقاً — مؤكَّد من Taos Institute وMotivo Learning وUS News Doctors. لم يُعثر على مصدر يثبت صلة بإفريقيا الجنوبية."
 ---
 
@@ -42,7 +42,3 @@ gaps:
 
 - *Narrative Therapy: The Social Construction of Preferred Realities* (1996، مع جيل فريدمان) — المرجع التمهيدي الأوسع انتشاراً في الحقل.
 - *Narrative Therapy with Couples… and a Whole Lot More!* (2002، مع جيل فريدمان).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

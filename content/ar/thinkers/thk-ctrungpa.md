@@ -24,8 +24,8 @@ related:
 - id: "thk-tnhat", title: "تِك نات هان", type: "مفكر"
 - id: "con-cross-cultural-meditation", title: "التأمل العلاجي عبر-الثقافي", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر من *Cutting Through Spiritual Materialism* (1973) بترجمة عربية معتمدة."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
 ---
 
 # تشوغيام ترونغبا
@@ -49,7 +49,3 @@ gaps:
 - *Cutting Through Spiritual Materialism* (1973).
 - *Shambhala: The Sacred Path of the Warrior* (1984).
 - *The Myth of Freedom* (1976).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

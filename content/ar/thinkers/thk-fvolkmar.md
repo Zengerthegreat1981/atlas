@@ -19,7 +19,7 @@ related:
 - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
 gaps:
   - "تصنيفه هنا تحت «العلاج التكاملي-النمائي (DIR/Floortime)» موضع نظر: عمل فولكمار تشخيصي ووبائي، وموقفه من قاعدة الأدلة في DIR كان نقدياً لا منتمياً. يحتاج التصنيف قراراً تحريرياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *A Practical Guide to Autism* (2009) بترجمة عربية معتمدة."
 ---
 
 # فريد فولكمار
@@ -40,7 +40,3 @@ gaps:
 
 - *Handbook of Autism and Pervasive Developmental Disorders* (co-ed.).
 - *A Practical Guide to Autism: What Every Parent, Family Member, and Teacher Needs to Know* (2009، مع لیزا ويزنر).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

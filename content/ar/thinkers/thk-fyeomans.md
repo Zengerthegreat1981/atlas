@@ -19,7 +19,7 @@ related:
 - id: "tec-tfp", title: "العلاج المرتكز على النقل (TFP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Transference-Focused Psychotherapy for Borderline Personality Disorder* (2015) بترجمة عربية معتمدة."
 ---
 
 # فرانك يومانز

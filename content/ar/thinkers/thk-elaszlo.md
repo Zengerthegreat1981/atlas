@@ -18,7 +18,7 @@ related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Systems View of the World* (1972) بترجمة عربية معتمدة."
 ---
 
 # إرفين لازلو
@@ -40,7 +40,3 @@ gaps:
 - *Introduction to Systems Philosophy* (1972).
 - *The Systems View of the World* (1972).
 - *The Connectivity Hypothesis* (2003).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

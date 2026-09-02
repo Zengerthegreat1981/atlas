@@ -19,8 +19,8 @@ related:
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Psychoanalytic Studies of the Personality* (1952) بترجمة عربية معتمدة."
+  - "لم تُراجع طبعة 1952 الأصلية من *Psychoanalytic Studies of the Personality* مباشرة."
 ---
 # رونالد فَيرْبيرن
 

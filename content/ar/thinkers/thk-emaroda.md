@@ -18,7 +18,7 @@ related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 gaps:
   - "سنة الميلاد وتفاصيل التدريب المبكر لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Power of Countertransference: Innovations in Analytic Technique* (1991) بترجمة عربية معتمدة."
 ---
 
 # كارِن مارودا
@@ -40,7 +40,3 @@ gaps:
 - *The Power of Countertransference: Innovations in Analytic Technique* (1991).
 - *Seduction, Surrender, and Transformation: Emotional Engagement in the Analytic Process* (1999).
 - *Psychodynamic Techniques: Working with Emotion in the Therapeutic Relationship* (2010).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

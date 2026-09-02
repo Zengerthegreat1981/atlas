@@ -16,8 +16,8 @@ edges: []
 related:
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Organizational Culture and Leadership* (1985) بترجمة عربية معتمدة."
+  - "الطبعات المتعددة لـ*Organizational Culture and Leadership* لم تُراجع من مصدر أوّلي."
 ---
 
 # إدغار شين

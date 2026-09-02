@@ -19,7 +19,7 @@ related:
 - id: "thk-jeffrey-zeig", title: "جيفري زايغ", type: "مفكر"
 gaps:
   - "سنة الميلاد وسنة التوقف عن العمل غير موثقة في هذا المسوّد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Psychobiology of Mind-Body Healing* (1986) بترجمة عربية معتمدة."
   - "تعارض هوية: الـslug (thk-erickson-erl) يشير إلى شخص، وحقل en يقول «Ernest Lawrence Rossi». يحتاج تحقيقاً وقراراً بإعادة التسمية أو تصحيح المحتوى — لا تُصلَح آلياً لأن إعادة تسمية الـslug تكسر الروابط."
   - "هوية الملف: الـslug `thk-erickson-erl` يشير إلى Ernest Lawrence Rossi. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
@@ -44,7 +44,3 @@ gaps:
 - *The Psychobiology of Mind-Body Healing* (1986، وطبعات لاحقة).
 - *A Semiotic Approach to Mind-Body Healing* (مع ريتشموند، 2014).
 - أبحاث منشورة في *American Journal of Clinical Hypnosis*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

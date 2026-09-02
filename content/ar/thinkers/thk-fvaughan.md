@@ -18,8 +18,7 @@ related:
 - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Paths Beyond Ego: The Transpersonal Vision* (1993) بترجمة عربية معتمدة."
 ---
 
 # فرانسيس فوغان
@@ -44,7 +43,3 @@ gaps:
 - *The Inward Arc: Healing and Wholeness in Psychotherapy and Spirituality* (1985).
 - *Paths Beyond Ego: The Transpersonal Vision* (1993، تحرير مع زوجها روجر والش) — المختارات التي عرّفت الحقل لجيل كامل.
 - *Shadows of the Sacred: Seeing Through Spiritual Illusions* (1995).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

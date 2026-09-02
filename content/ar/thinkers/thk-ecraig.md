@@ -20,7 +20,7 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لا يوجد اقتباس مباشر موثوق من *Psychotherapy for Freedom: The Daseinsanalytic Way in Psychology and Psychoanalysis* (1988) بترجمة عربية معتمدة."
   - "أعماله في فينومينولوجيا الأحلام الهايدجرية والتحليل الوجودي الأمريكي تحتاج توثيقاً إضافياً."
 ---
 

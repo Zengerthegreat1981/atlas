@@ -20,7 +20,7 @@ related:
 - id: "ctx-latin-american-coloniality", title: "السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير", type: "سياق/تقليد"
 gaps:
   - "نقد مركزية الذات الأوروبية وصياغة أخلاقيات التحرير من موقع الضحية والمهمش في الجنوب العالمي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Filosofía de la liberación* (1977) بترجمة عربية معتمدة."
 ---
 
 # إنريكي دوسيل
@@ -47,7 +47,3 @@ gaps:
 - *Ética de la liberación en la edad de la globalización y de la exclusión* (1998).
 - *Política de la liberación* (2007–2009).
 - *La producción teórica de Marx* (1985).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

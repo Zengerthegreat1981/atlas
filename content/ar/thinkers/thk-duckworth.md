@@ -19,7 +19,7 @@ related:
 - id: "wrk-grit-2016", title: "المثابرة", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Grit: The Power of Passion and Perseverance* (2016) بترجمة عربية معتمدة."
 ---
 
 # أنجيلا دَكوورث
@@ -53,7 +53,3 @@ gaps:
 - *Grit: Perseverance and Passion for Long-Term Goals* (Journal of Personality and Social Psychology، 2007).
 - *Grit: The Power of Passion and Perseverance* (2016).
 - *Development and Validation of the Short Grit Scale* (2009).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

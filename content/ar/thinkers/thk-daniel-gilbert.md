@@ -19,7 +19,7 @@ related:
 - id: "con-hedonic-treadmill", title: "جهاز المشي اللذائذي والتكيف مع السعادة (Hedonic Treadmill)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Stumbling on Happiness* (2006) بترجمة عربية معتمدة."
 ---
 
 # دانيال جيلبرت
@@ -49,7 +49,3 @@ gaps:
 - *Stumbling on Happiness* (2006).
 - *Immune Neglect: A Source of Durability Bias in Affective Forecasting* (1998، مع ويلسون وآخرين).
 - *A Wandering Mind Is an Unhappy Mind* (2010، مع كيلينغزوورث).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

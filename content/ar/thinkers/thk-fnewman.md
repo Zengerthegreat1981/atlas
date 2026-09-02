@@ -20,8 +20,7 @@ related:
 - id: "thk-jtolman", title: "جينيفر تولمان", type: "مفكر"
 - id: "thk-mrothery", title: "مارك روتشرِي", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Lev Vygotsky: Revolutionary Scientist* (1993) بترجمة عربية معتمدة."
 ---
 
 # فريد نيومان
@@ -48,7 +47,3 @@ gaps:
 - *Lev Vygotsky: Revolutionary Scientist* (1993، مع لويز هولزمان) — أشهر أعماله وأوسعها أثراً خارج دائرته.
 - *The End of Knowing: A New Developmental Way of Learning* (1997، مع هولزمان).
 - *Let's Develop! A Guide to Continuous Personal Growth* (1994).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

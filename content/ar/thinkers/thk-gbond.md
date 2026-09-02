@@ -21,7 +21,7 @@ related:
 - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Individual Placement and Support* (2012) بترجمة عربية معتمدة."
   - "edges.belongs_to صُحِّح من نص حرّ 'إدارة الحالات' إلى slug موجود فعلياً (br-case-management)."
 ---
 
@@ -43,7 +43,3 @@ gaps:
 
 - Bond, G. R., Drake, R. E., & Becker, D. R., "An update on randomized controlled trials of evidence-based supported employment" (2008).
 - *Individual Placement and Support: An Evidence-Based Approach to Supported Employment* (2012، مع دريك وبيكر).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -18,7 +18,7 @@ related:
 - id: "thk-gdiamond", title: "غي دايموند", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Attachment-Based Family Therapy for Adolescents* (2015) بترجمة عربية معتمدة."
 ---
 
 # ديان رابين
@@ -39,7 +39,3 @@ gaps:
 ## أهم أعمالها
 
 - *Attachment-Based Family Therapy for Adolescents* (مساهم، 2015).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

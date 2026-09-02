@@ -18,7 +18,7 @@ related:
 - id: "wrk-mating-in-captivity", title: "التزاوج في الأسر", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Mating in Captivity: Unlocking Erotic Intelligence* (2006) بترجمة عربية معتمدة."
 ---
 
 # إستر بيريل
@@ -39,7 +39,3 @@ gaps:
 
 - *Mating in Captivity: Unlocking Erotic Intelligence (2006)*
 - *The State of Affairs: Rethinking Infidelity (2017)*
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -20,8 +20,8 @@ related:
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
 - id: "thk-jkagan", title: "جيروم كاغان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Effects of Authoritative Parental Control on Child Behavior* (1966) بترجمة عربية معتمدة."
+  - "مقالات باومرند الأصلية في دوريات علم نفس النمو لم تُراجع من طبعاتها الأولى."
 ---
 
 # ديانا باومرند
@@ -43,7 +43,3 @@ gaps:
 
 - "Effects of Authoritative Parental Control on Child Behavior" (1966).
 - *Handbook of Child Psychology* (مساهم، 1971).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

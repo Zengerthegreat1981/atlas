@@ -17,6 +17,7 @@ related:
 - id: "con-interpersonal-unconscious", title: "اللاوعي بين الأشخاص", type: "مفهوم"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً."
+  - "لا يوجد اقتباس مباشر موثوق من *Object Relations Family Therapy* (1987) بترجمة عربية معتمدة."
   - "دوره في تأسيس Institute for Object Relations يستحق توثيقاً."
   - "الـphantom slug thk-jscharff (thk-jscharff) أُزيل من related — لا يوجد ملف مطابق في الأطلس."
 ---
@@ -43,7 +44,3 @@ gaps:
 - *Object Relations Couple Therapy* (1991، معها).
 - *The Sexual Relationship: An Object Relations View of Sex and the Family* (1982).
 - *Refinding the Object and Reclaiming the Self* (1992).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

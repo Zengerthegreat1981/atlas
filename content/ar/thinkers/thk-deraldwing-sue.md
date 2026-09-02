@@ -20,7 +20,7 @@ related:
 - id: "thk-janethelms", title: "جانيت هيلمز", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Counseling the Culturally Different* (1981) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دونالد أتكينسون (thk-donaldatkinson)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فريديريك ليونغ (thk-frederickleong)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جانيت هيلمز (thk-janethelms)."
@@ -45,7 +45,3 @@ gaps:
 - *Counseling the Culturally Different* (1981 وطبعات لاحقة، مع ديفيد سو).
 - *Microaggressions in Everyday Life* (2010).
 - *Race Talk and the Conspiracy of Silence* (2015).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

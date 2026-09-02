@@ -20,8 +20,7 @@ related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Narrative Means to Therapeutic Ends* (1990) بترجمة عربية معتمدة."
   - "تحقّق: 'Re-Authoring Lives' (1995) من تأليف مايكل وايت وحده (Dulwich Centre Publications)، وليس عملاً مشتركاً مع إبستون — مؤكَّد من قوائم النشر (Amazon/Oxford Encyclopedia of Social Work)."
 ---
 
@@ -47,7 +46,3 @@ gaps:
 - *Re-Authoring Lives* (1995، لمايكل وايت — عمل موازٍ لمشروعهما المشترك).
 - *Eating Behavior and Eating Disorders* (1989، مع إريكسون).
 - *Catching Up With David Epston* (2016، هانتر، محرر).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

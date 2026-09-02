@@ -19,7 +19,7 @@ related:
 - id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ويليام مارشال (thk-marshall)."
 ---
 
@@ -44,7 +44,3 @@ gaps:
 
 - Berlin, F. S., & Malin, H. M., "Media distortion of the public's perception of recidivism and psychiatric rehabilitation", *American Journal of Psychiatry* (1991).
 - تأسيس Johns Hopkins Sexual Behavior Consultation Service.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

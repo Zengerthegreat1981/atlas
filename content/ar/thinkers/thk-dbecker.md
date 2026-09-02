@@ -19,7 +19,7 @@ related:
 - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
 # ديبورا بيكر
@@ -40,7 +40,3 @@ gaps:
 
 - Drake, R. E., & Becker, D. R., *The Successes and Challenges of Implementing Integrated Treatment* (تحرير).
 - مقالات في *Psychiatric Rehabilitation Journal*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
