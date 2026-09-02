@@ -23,7 +23,7 @@ related:
 - id: "dis-premature-ejaculation", title: "سرعة القذف (القذف المبكر)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "نسبة الفكرة إلى Masters-Johnson مباشرة تستحق توثيقاً (1970، في Human Sexual Inadequacy)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Human Sexual Inadequacy* (1970) بترجمة عربية معتمدة."
 ---
 # التركيز الحسي
 
