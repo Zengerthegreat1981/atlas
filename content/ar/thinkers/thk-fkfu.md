@@ -13,7 +13,7 @@ active_end: 2021
 part: "psychology"
 crumb: "الأطلس ← المفكرون ← فرانك هـ. فو"
 edges:
-- rel: "belongs_to", target: "علم النفس الرياضي والتربية الخاصة", target_type: "تيار"
+- rel: "belongs_to", target: "br-sport-psychology", target_type: "تيار"
 related:
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
 - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"

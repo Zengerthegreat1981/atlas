@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 2020
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "thk-jeffrey-zeig", title: "جيفري زايغ", type: "مفكر"

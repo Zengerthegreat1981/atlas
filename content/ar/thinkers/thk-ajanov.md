@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1967
 active_end: 2017
 edges:
-- rel: "belongs_to", target: "العلاج البدائي / صرخة الولادة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "تيار"
 related:
 - id: "thk-flake", title: "فرانك ليك", type: "مفكر"
 - id: "thk-rhooton", title: "راندي هوتون", type: "مفكر"

@@ -13,7 +13,7 @@ active_start: 1990
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
 - id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"
 - id: "thk-dparker", title: "ديفيد باركر", type: "مفكر"

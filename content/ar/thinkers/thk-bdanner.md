@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ubuntu-psychology", target_type: "تيار"
 related:
 - id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"
 - id: "thk-amncube", title: "ألبرت مْنكوبِي", type: "مفكر"

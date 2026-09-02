@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "PCIT", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "thk-tsexton", title: "توني سيكستون", type: "مفكر"
 - id: "thk-seyberg", title: "ستيفن إيبِرغ", type: "مفكر"

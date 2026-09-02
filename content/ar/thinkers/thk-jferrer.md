@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "علم النفس عبر الشخصي ← المنعطف التشاركي ← خورخي فيرير"
 edges:
-- rel: "belongs_to", target: "علم النفس التكاملي (Integral)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 gaps:

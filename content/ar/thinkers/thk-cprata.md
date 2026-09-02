@@ -13,7 +13,7 @@ active_start: 1990
 active_end: 2015
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الميلاني (Milan Systemic)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-mselvini", title: "مارا سيلفيني بالاتزولي", type: "مفكر"
 gaps:

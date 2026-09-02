@@ -13,7 +13,7 @@ active_start: 2005
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-te-whare-tapa-wha", target_type: "مفهوم"
 related:
 - id: "thk-trore", title: "ماسون دوري", type: "مفكر"
 gaps:

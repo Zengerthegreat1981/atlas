@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "العلاج المعرفي ← التدريب والتقنين ← جوديث بِك"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي الكلاسيكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-jburns", title: "ديفيد بيرنز", type: "مفكر"

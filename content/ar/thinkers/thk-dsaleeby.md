@@ -13,7 +13,7 @@ active_start: 1992
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج القائم على القوة (Strengths-Based)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-strengths-based-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
 - id: "thk-alinley", title: "أليكس لينلي", type: "مفكر"

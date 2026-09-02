@@ -13,7 +13,7 @@ active_start: 1955
 active_end: 1997
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "النظرية العامة للأنظمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:

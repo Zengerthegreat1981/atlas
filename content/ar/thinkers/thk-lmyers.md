@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← ليندا جيمس مايرز"
 edges:
-- rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
 - id: "thk-jakhan", title: "ويد نوبلز", type: "مفكر"
 gaps:

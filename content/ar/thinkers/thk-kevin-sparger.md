@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج القائم على الأمل (Snyder)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-hope-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "thk-crsnyder", title: "تشارلز ريتشارد سنايدر", type: "مفكر"

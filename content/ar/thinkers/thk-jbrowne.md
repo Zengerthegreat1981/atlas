@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← كاثلين براون"
 edges:
-- rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-writing-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
 - id: "thk-iprogoff", title: "إيرا بروغوف", type: "مفكر"

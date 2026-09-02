@@ -12,8 +12,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "philosophy"
 crumb: "تشكيلات الأسرة ← التقنين والانفصال عن هلنغر ← غونتهارد فيبر"
-edges:
-- rel: "belongs_to", target: "تشكيلات الأسرة (Family Constellations)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-bhellinger", title: "بيرت هلنغر", type: "مفكر"
 - id: "thk-hbeaumont", title: "هانتر بومون", type: "مفكر"
@@ -23,6 +22,7 @@ gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Zweierlei Glück* (1993) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بِي (thk-jjoyce)."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«تشكيلات الأسرة (Family Constellations)» في content/ar/schools أو branches."
 ---
 
 # غونتهارد فيبر

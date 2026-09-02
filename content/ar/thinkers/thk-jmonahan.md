@@ -13,7 +13,7 @@ active_start: 1973
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
+- rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
 - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
 - id: "thk-hsteadman", title: "هنري ستيدمان", type: "مفكر"

@@ -12,14 +12,14 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 crumb: "علاجات حقل الفكر (TFT) ← تقنية الحرية العاطفية (EFT) ← غاري كريغ"
-edges:
-- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *EFT Manual* (2001) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علاج حقل الفكر (Thought Field Therapy — TFT)» في content/ar/schools أو branches."
 ---
 
 # غاري كريغ

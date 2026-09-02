@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← آن ميثوفير"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة MDMA (MAPS)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "con-mdma-ptsd", title: "MDMA (إكستاسي) في علاج PTSD", type: "مفهوم"
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"

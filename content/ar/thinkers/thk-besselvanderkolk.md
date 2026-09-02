@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الخبرة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
 - id: "thk-albertellis-somatic", title: "إيمي فونتانا", type: "مفكر"

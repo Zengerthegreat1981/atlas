@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed", target: "علاج الوالد-الطفل", target_type: "تيار"
+- rel: "developed", target: "tec-child-parent-psychotherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-child-parent-psychotherapy", title: "علاج الوالد والطفل (CPP)", type: "تقنية/تدخل علاجي"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"

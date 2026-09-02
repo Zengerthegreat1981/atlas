@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: 2006
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وإعادة الهيكلة المعرفية للإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-easy-way-stop-smoking", title: "الطريقة السهلة للإقلاع عن التدخين", type: "عمل / كتاب"
 gaps:

@@ -13,7 +13,7 @@ active_start: 1985
 active_end: 2010
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
 - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:

@@ -13,7 +13,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد تم تقديرها من سياقات السيرة، يرجى التحقق من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من «العلاج الأسري الاستراتيجي» (Strategic Family Therapy, 1981) بترجمة عربية معتمدة."

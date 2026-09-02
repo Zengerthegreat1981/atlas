@@ -13,7 +13,7 @@ active_start: 2005
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "فرق العكس العاكسة (Reflecting Teams)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-reflecting-teams", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "هاكومي (Hakomi) ← الجيل الثاني ← غريغوري جوهانسون"
 edges:
-- rel: "belongs_to", target: "هاكومي (Hakomi)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-hakomi", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"

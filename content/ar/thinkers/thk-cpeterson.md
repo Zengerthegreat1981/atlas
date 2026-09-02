@@ -13,7 +13,7 @@ active_end: 2012
 part: "psychology"
 crumb: "الأطلس ← thinkers ← كريستوفر بيترسون"
 edges:
-- rel: "belongs_to", target: "العلاج القائم على القوة (Strengths-Based)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-strengths-based-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-dsaleeby", title: "دينس ساليبي", type: "مفكر"
 - id: "thk-alinley", title: "أليكس لينلي", type: "مفكر"

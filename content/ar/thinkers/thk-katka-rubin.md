@@ -13,7 +13,7 @@ active_start: 2012
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التركيز (Focusing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-focusing-oriented", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

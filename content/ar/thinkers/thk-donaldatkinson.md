@@ -13,7 +13,7 @@ active_start: 1972
 active_end: 2002
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الاستشارات متعددة الثقافات", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-multicultural-counseling", target_type: "مدرسة"
 related:
 - id: "thk-josephtrimble", title: "جوزيف ترايمبل", type: "مفكر"
 - id: "thk-ptedeschi", title: "رافائيل تيدِسكي", type: "مفكر"

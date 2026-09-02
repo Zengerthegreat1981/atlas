@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 1987
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي التأملي (جامعة ناروبا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-mricard", title: "ماتيو ريكار", type: "مفكر"

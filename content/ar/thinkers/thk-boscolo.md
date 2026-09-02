@@ -13,14 +13,14 @@ active_start: 1967
 active_end: 2013
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
-- rel: "belongs_to", target: "العلاج الأسري الميلاني", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-milan-systemic", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-milan-systemic", title: "العلاج الأسري الميلاني", type: "تقنية/تدخل علاجي"
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
 - id: "thk-stricker", title: "جورج ستريكر", type: "مفكر"
 - id: "thk-gold", title: "جوزيف غولد", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to محذوف: لا يوجد slug مقابل لـ«التكاملية/الانتقائية» في العلاج النفسي داخل content/ar/schools أو branches."
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي بعد."
   - "سنة وفاة سلفيانو برلين (Selvini Palazzoli) وزوجته مارتا لم تُوثَّق بدقة."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

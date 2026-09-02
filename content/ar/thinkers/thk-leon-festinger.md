@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1945
 active_end: 1989
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "thk-daniel-gilbert", title: "دانيال جيلبرت", type: "مفكر"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"

@@ -12,13 +12,13 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← مارغريت بِي"
-edges:
-- rel: "belongs_to", target: "تشكيلات الأسرة (Family Constellations)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-bhellinger", title: "بيرت هلنغر", type: "مفكر"
 - id: "thk-hbeaumont", title: "هانتر بومون", type: "مفكر"
 - id: "thk-gweber", title: "غونتهارد فيبر", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«تشكيلات الأسرة (Family Constellations)» في content/ar/schools أو branches."
   - "هذا الاسم مُتَرجَم — الهوية الدقيقة لم تُتأكد."
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

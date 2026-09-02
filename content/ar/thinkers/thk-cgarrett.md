@@ -12,14 +12,14 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← كولين غاريت"
-edges:
-- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "تيار"
+edges: []
 related:
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
 - id: "thk-gcraig", title: "غاري كريغ", type: "مفكر"
 - id: "thk-dfeinstein", title: "ديفيد فاينشتاين", type: "مفكر"
 - id: "thk-dchurch", title: "داوسون تشيرش", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«Thought Field Therapy (TFT)» في content/ar/schools أو branches."
   - "هذا الاسم مُتَرجَم — الهوية الدقيقة لم تُتأكد."
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

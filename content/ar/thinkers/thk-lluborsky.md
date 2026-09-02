@@ -13,7 +13,7 @@ active_start: 1950
 active_end: 2005
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "تيار"
 related:
 - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
 gaps:

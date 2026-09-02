@@ -13,7 +13,7 @@ active_start: 2001
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-amithoefer", title: "آن ميثوفير", type: "مفكر"
 - id: "thk-mmithoefer", title: "مايكل ميثوفير", type: "مفكر"

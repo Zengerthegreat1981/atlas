@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "[DRAFT-UNKNOWN]"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-schultz-hencke", target_type: "تيار"
 related:
 - id: "thk-schultz-hencke", title: "هارالد شولتز-هِنكه", type: "مفكر"
 - id: "thk-rrudolf", title: "غرد رودولف", type: "مفكر"

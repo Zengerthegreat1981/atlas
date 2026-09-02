@@ -13,7 +13,7 @@ active_start: 1976
 active_end: 1992
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مفهوم"
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 - id: "thk-jmitchell", title: "جوليا ميتشِل", type: "مفكر"

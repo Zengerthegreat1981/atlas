@@ -14,7 +14,7 @@ language: "الإيطالية، الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed", target: "التركيب النفسي (أساجيولي)", target_type: "تيار"
+- rel: "developed", target: "br-psychosynthesis", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-angyal", title: "أندراس أنجيال", type: "مفكر"

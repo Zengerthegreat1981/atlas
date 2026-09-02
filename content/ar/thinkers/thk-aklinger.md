@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dir-floortime", target_type: "مدرسة"
 related:
 - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
 - id: "thk-fvolkmar", title: "فريد فولكمار", type: "مفكر"

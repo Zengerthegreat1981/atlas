@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "التعافي وإدارة الحالات ← ImROC ← جيفري شيبرد"
 edges:
-- rel: "belongs_to", target: "إدارة الحالات", target_type: "تيار"
+- rel: "belongs_to", target: "br-case-management", target_type: "تيار"
 related:
 - id: "br-case-management", title: "إدارة الحالات", type: "تيار"
 - id: "thk-mharris", title: "ماكسين هاريس", type: "مفكر"

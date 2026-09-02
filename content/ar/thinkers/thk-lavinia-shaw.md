@@ -13,7 +13,7 @@ active_start: 2005
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "طريقة فيلدنكرايس", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:

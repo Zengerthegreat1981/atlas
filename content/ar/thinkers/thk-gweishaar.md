@@ -13,7 +13,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
 - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"

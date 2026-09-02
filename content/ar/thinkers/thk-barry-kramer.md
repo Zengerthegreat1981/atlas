@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "PCIT (العلاج التفاعلي بين الوالد والطفل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "thk-kristin-buss", title: "كريستين بَس", type: "مفكر"
 gaps:

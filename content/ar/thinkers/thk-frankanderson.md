@@ -13,7 +13,7 @@ active_start: 1994
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الأنساق الأسرية الداخلية (IFS)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 gaps:

@@ -13,7 +13,7 @@ active_start: 1998
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-embodied-relational-therapy", target_type: "تيار"
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 gaps:

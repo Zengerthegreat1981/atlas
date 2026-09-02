@@ -13,7 +13,7 @@ country: "الولايات المتحدة (أصلاً من إنجلترا)"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
 - id: "thk-jhaley", title: "جاي هالي", type: "مفكر"

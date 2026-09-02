@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الممارسة الموجَّهة نحو التعافي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
 - id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
 - id: "thk-gene-ennis", title: "جين إينيس", type: "مفكر"

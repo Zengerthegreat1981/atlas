@@ -12,14 +12,14 @@ active_start: 1970
 active_end: 2002
 part: "psychology"
 crumb: "الطب النفسي-الجسدي ← البيولوجيا النفسية ← هربرت فاينر"
-edges:
-- rel: "belongs_to", target: "علم النفس الطبي النفسي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
 - id: "thk-gengel", title: "جورج إنغل", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Psychobiology and Human Disease* (1977) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الطبي النفسي» في content/ar/schools أو branches."
 ---
 
 # هربرت فاينر

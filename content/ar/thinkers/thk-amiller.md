@@ -13,7 +13,7 @@ active_end: 2010
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← أليس ميلر"
 edges:
-- rel: "belongs_to", target: "علم نفس الطفل", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
 - id: "thk-dbaumrind", title: "ديانا باومرند", type: "مفكر"

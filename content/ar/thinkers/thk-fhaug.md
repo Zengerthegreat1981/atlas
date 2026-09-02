@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-critical-psychology", target_type: "مدرسة"
 related:
 - id: "thk-iparker", title: "إيان باركر", type: "مفكر"
 gaps:

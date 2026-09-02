@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العدالة التصالحية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
 - id: "thk-zehr", title: "هوارد زير", type: "مفكر"
 - id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"

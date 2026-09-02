@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "علم الأعصاب الوجداني ← دوائر البقاء الدفاعية ← جوزيف لودوكس"
 edges:
-- rel: "belongs_to", target: "العلاج المستنير بعلم الأعصاب الوجداني", target_type: "تيار"
+- rel: "belongs_to", target: "br-affective-neuroscience-informed", target_type: "تيار"
 related:
 - id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"

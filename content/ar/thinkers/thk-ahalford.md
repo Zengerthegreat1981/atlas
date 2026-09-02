@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "CBCT (العلاج الزوجي المعرفي-السلوكي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-cbct-couples", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-nbepstein", title: "نورمان إبستين", type: "مفكر"
 - id: "thk-dbaucom", title: "دونالد بِيكوم", type: "مفكر"

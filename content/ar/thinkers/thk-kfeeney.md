@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "PREP (برنامج تعزيز العلاقة والوقاية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-prep-program", target_type: "تقنية/تدخل علاجي"
 related:
 gaps:
   - "تاريخ الميلاد غير مذكور في أي سيرة مهنية عامة، ولم يُعثر على إسناد أوّلي له."

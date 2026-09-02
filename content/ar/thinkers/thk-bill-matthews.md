@@ -13,7 +13,7 @@ active_start: 2015
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "إرشاد التمييز والبت الزوجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-discernment-counseling", target_type: "تيار"
 related:
 - id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
 - id: "thk-wdoherty", title: "بيل دوهرتي", type: "مفكر"

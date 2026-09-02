@@ -13,7 +13,7 @@ active_start: 1935
 active_end: 1950
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-addiction-psychology", target_type: "مدرسة"
 related:
 - id: "con-twelve-steps", title: "برنامج الاثنتي عشرة خطوة (12-Step)", type: "مفهوم"
 - id: "thk-bwilson", title: "بيل ويلسون", type: "مفكر"

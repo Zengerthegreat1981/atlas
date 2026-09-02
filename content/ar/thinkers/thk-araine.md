@@ -13,7 +13,7 @@ active_start: 1982
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج العدوان", target_type: "تيار"
+- rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
 related:
 - id: "br-aggression-treatment", title: "علاج العدوان", type: "تيار"
 - id: "thk-agoldstein", title: "أرنولد غولدشتاين", type: "مفكر"

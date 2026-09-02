@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "TEACCH ← المؤسسون المشاركون ← روبرت جاي رايشلر"
 edges:
-- rel: "belongs_to", target: "TEACCH", target_type: "تيار"
+- rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
 - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"

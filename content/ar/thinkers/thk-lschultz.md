@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-rolfing", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
 gaps:

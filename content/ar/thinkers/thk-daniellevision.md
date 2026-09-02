@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mchace", title: "ماريان تشيس", type: "مفكر"
 - id: "thk-trudi-schoop", title: "ترودي شوپ", type: "مفكر"

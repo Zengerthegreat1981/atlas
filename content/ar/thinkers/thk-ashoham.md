@@ -13,7 +13,7 @@ active_start: 1980
 active_end: 2010
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج القصير الاستراتيجي", target_type: "تيار"
+- rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
 - id: "br-brief-strategic-therapy", title: "العلاج القصير الاستراتيجي", type: "تيار"
 - id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"

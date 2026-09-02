@@ -13,7 +13,7 @@ active_start: 1987
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-ayurveda-psychology", target_type: "مفهوم"
 related:
 - id: "thk-ggurdjieff", title: "غي. آي. غورجييف", type: "مفكر"
 - id: "thk-sheena-iyengar", title: "بي. كيه. إس. آيَنغَر", type: "مفكر"

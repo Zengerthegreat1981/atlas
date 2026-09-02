@@ -12,7 +12,7 @@ country: "إسرائيل / الولايات المتحدة"
 active_start: 1969
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "علم النفس المعرفي ونظرية القرار", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "dia-kahneman-gigerenzer-heuristics", title: "سجال كانيمان وغيغرنزر: الانحيازات المعرفية مقابل الحدس التكيفي", type: "حوار مع مدرسة مجاورة"
 - id: "trm-heuristics-and-biases-kahneman", title: "الاستدلالات التقريبية والانحيازات المعرفية (Heuristics & Biases)", type: "مصطلح لغوي متنازع عليه"

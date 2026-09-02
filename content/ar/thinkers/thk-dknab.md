@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← دوغلاس كناب"
 edges:
-- rel: "belongs_to", target: "التثقيف النفسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
 - id: "br-psychoeducation", title: "التثقيف النفسي", type: "تيار"
 - id: "thk-canderson", title: "كارول أندرسون", type: "مفكر"

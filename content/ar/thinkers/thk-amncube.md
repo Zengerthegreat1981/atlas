@@ -13,7 +13,7 @@ active_start: 1995
 active_end: 2010
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ubuntu-psychology", target_type: "تيار"
 related:
 - id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
 - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"

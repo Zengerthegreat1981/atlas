@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التركيز (Focusing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-focusing-oriented", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "sch-process-philosophy", title: "فلسفة العملية (Process Philosophy)", type: "مدرسة"

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← جون مارش"
 edges:
-- rel: "belongs_to", target: "TEACCH", target_type: "تيار"
+- rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
 - id: "thk-ereichelt", title: "إريك رايشيلت", type: "مفكر"

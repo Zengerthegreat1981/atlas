@@ -13,7 +13,7 @@ country: "روسيا / ليتوانيا"
 language: "الروسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الفلسفة الدينية الروسية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-berdyaev", title: "نيكولاي بيردييف", type: "مفكر"
 - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"

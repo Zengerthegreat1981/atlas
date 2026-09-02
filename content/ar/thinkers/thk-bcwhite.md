@@ -13,7 +13,7 @@ active_start: 1980
 active_end: 2010
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الديناميكي للأزواج والأسرة", target_type: "تيار"
+- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
 - id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:

@@ -12,12 +12,12 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: 2024
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "تقنيات الحرية الانفعالية (EFT)", target_type: "مدرسة"
+edges: []
 gaps:
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Tapping Into Your Best Self* (2014) بترجمة عربية معتمدة."
   - "تحقّق: لاري نيمز (Larry Phillip Nims) وُلد 11 سبتمبر 1934 وتُوفي 20 ديسمبر 2024 عن عمر 90 عاماً (مصدر: صفحة تأبين رسمية، virtualmemorialgatherings.com)، فعُدِّلت الحقول dates وactive_end بناءً عليه."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«تقنيات الحرية الانفعالية (EFT)» في content/ar/schools أو branches أو techniques."
 ---
 
 # لاري نيمز

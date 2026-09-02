@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed", target: "العلاج الاستفزازي", target_type: "تيار"
+- rel: "developed", target: "tec-provocative-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-provocative-therapy", title: "العلاج الاستفزازي", type: "تقنية/تدخل علاجي"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"

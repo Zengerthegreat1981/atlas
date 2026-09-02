@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا الذاكرة الجنائية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-eyewitness-testimony", title: "شهادة شهود العيان", type: "عمل / كتاب"
 - id: "con-misinformation-effect-loftus", title: "تأثير التضليل والذاكرة الزائفة", type: "مفهوم"

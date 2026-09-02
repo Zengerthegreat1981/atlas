@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-stricker", title: "جورج ستريكر", type: "مفكر"
 - id: "thk-beutler", title: "لاري بويتلر", type: "مفكر"
@@ -24,6 +23,7 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «العلاج النفسي المتكامل: دليل للتكامل الاستيعابي» (1993)."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«التكاملية/الانتقائية» في content/ar/schools أو branches."
 ---
 
 # جيرولد ر. غولد

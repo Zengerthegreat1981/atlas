@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-collaborative-language-systems", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
 - id: "thk-hgoolishian", title: "هاري غوليشيان", type: "مفكر"

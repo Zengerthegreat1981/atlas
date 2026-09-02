@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "علم النفس الإيجابي ← السياقات الآسيوية ← كيران عاشان"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي الشرقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-fvanderzee", title: "فرانك فان دير زي", type: "مفكر"
 gaps:

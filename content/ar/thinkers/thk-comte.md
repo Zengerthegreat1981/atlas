@@ -14,7 +14,7 @@ active_start: 1830
 active_end: 1857
 edges:
 - rel: "belongs_to", target: "sch-comtian-positivism", target_type: "مدرسة"
-- rel: "founded", target: "الوضعية / الكومتية", target_type: "مدرسة"
+- rel: "founded", target: "sch-comtian-positivism", target_type: "مدرسة"
 related:
 - id: "sch-comtian-positivism", title: "الوضعية / الكومتية", type: "مدرسة"
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"

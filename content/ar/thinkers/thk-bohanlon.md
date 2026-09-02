@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← بيل أوهَنلون"
 edges:
-- rel: "belongs_to", target: "العلاج المرتكز على الحل", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
 - id: "thk-ecolle", title: "إيما كول", type: "مفكر"
 - id: "thk-dwile", title: "دانيال وايل", type: "مفكر"

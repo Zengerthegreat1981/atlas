@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي النسوي — الإنسانية وما بعدها", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-feminist-therapy", target_type: "تيار"
 related:
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "thk-mpbargreen", title: "ماري بيندر غرين", type: "مفكر"

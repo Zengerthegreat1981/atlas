@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "Theraplay ← التدريب والإشراف ← إيفانجلين مانس"
 edges:
-- rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-theraplay", target_type: "تيار"
 related:
 - id: "thk-ajernberg", title: "آن جِرنبرغ", type: "مفكر"
 gaps:

@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تحليل السلوك التطبيقي للتوحد (ABA)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
 - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"

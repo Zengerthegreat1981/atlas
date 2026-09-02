@@ -13,7 +13,7 @@ active_start: 1975
 active_end: 1991
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-collaborative-language-systems", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-handerson", title: "هارلين أندرسون", type: "مفكر"
 - id: "thk-cdello", title: "كارمن دِل أورو", type: "مفكر"

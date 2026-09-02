@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الخبرة الجسدية (Somatic Experiencing)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"

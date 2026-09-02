@@ -15,7 +15,7 @@ active_end: 2007
 edges:
 - rel: "belongs_to", target: "sch-rebt", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
-- rel: "influenced_by", target: "الرواقية (Stoicism)", target_type: "مدرسة"
+- rel: "influenced_by", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"

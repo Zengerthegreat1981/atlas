@@ -13,7 +13,7 @@ active_end: 2011
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← كلايف روبنز"
 edges:
-- rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-music-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
 gaps:

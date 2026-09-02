@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← المفكرون ← جيمس ليبشيتز"
 edges:
-- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-mst", target_type: "تيار"
 related:
 - id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
 - id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"

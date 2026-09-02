@@ -13,7 +13,7 @@ active_end: 2020
 part: "psychology"
 crumb: "العلاج باللعب ← الرواد المؤسسون ← تشارلز شيفر"
 edges:
-- rel: "belongs_to", target: "العلاج البنوي والعائلي باللعب", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-filial-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"
 - id: "thk-glandreth", title: "غاري لاندريث", type: "مفكر"

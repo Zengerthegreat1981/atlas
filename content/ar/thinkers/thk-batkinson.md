@@ -12,13 +12,13 @@ active_start: 1985
 active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← برنت أتكينسون"
-edges:
-- rel: "belongs_to", target: "العلاج الزوجي التعاوني (Collaborative Couple Therapy)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dwile", title: "دانيال وايل", type: "مفكر"
 - id: "thk-ecolle", title: "إيما كول", type: "مفكر"
 - id: "thk-jrivett", title: "جوردان ريد", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to محذوف: لا يوجد slug مقابل لـ«العلاج الزوجي التعاوني (Collaborative Couple Therapy)» في content/ar/schools أو branches."
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Collaborative Therapy with Multi-Stressed Families* (1997) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيما كول (thk-ecolle)."

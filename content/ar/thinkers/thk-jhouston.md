@@ -12,11 +12,11 @@ active_start: 1971
 active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← جين هيوستن"
-edges:
-- rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-werhard", title: "ويرنر إيرهارد", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«EST / Landmark Forum» في content/ar/schools أو branches."
   - "سنة الميلاد الدقيقة لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق من *The Possible Human* (1982) بترجمة عربية معتمدة."
   - "خطأ في تذكير الفعل ('وُلد'، 'ما أعطاه') صُحِّح إلى المؤنث ('وُلدت'، 'ما أعطته') لأن جين هيوستن امرأة."

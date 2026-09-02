@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← لويس كوتزولينو"
 edges:
-- rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:
 - id: "thk-rkeller", title: "روبرت كيلر", type: "مفكر"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"

@@ -13,7 +13,7 @@ active_end: 2014
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← براوليو مونتالفو"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري البنيوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-structural-family", target_type: "تيار"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:

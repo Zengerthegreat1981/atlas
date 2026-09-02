@@ -13,7 +13,7 @@ active_start: 2005
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"

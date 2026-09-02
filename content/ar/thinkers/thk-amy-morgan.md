@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم نفس الرياضة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sport-psychology", target_type: "تيار"
 related:
 - id: "thk-ogilvie", title: "بروس أوكيف", type: "مفكر"
 ---

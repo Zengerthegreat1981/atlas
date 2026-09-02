@@ -13,7 +13,7 @@ active_end: 2018
 part: "psychology"
 crumb: "العلاج بالكتابة والسرد الأدبي ← لويز دي سالفو"
 edges:
-- rel: "belongs_to", target: "العلاج بالكتابة والسرد التعبيري", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-writing-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
 - id: "thk-iprogoff", title: "إيرا بروغوف", type: "مفكر"

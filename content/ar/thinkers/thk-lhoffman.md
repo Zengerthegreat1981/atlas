@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:

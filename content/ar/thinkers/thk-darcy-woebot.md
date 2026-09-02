@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", target_type: "تيار"
+- rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:
 - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
 - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"

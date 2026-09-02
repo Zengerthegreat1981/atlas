@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "[DRAFT-UNKNOWN]"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الحوار المفتوح", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-open-dialogue", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد وسنة التوقف عن العمل غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

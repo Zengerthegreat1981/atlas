@@ -13,8 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2015
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفة النفسية ونقد الإنتاجية السامة", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-oliver-burkeman", title: "أوليفر بوركمان", type: "مفكر"
 - id: "wrk-four-thousand-weeks", title: "أربعة آلاف أسبوع", type: "عمل / كتاب"
@@ -22,6 +21,7 @@ related:
 - id: "con-toxic-positivity", title: "الإيجابية السامة (إنكار المشاعر الصعبة)", type: "مفهوم"
 - id: "con-deep-work", title: "العمل العميق (التركيز المعرفي المكثف)", type: "مفهوم"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«الفلسفة النفسية ونقد الإنتاجية السامة» في content/ar/schools أو branches."
   - "تاريخ الميلاد الدقيق (1985 أو 1986) يحتاج مراجعة."
   - "تأثيرها على حركات المناخ (Extinction Rebellion) في أمريكا يحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثّق من 'كيف لا تفعل شيئاً' (2019)."

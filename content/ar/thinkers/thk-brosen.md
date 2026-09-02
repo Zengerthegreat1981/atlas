@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← برنارد روزن"
 edges:
-- rel: "belongs_to", target: "MDFT (العلاج الأسري متعدد الأبعاد)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-hliddle", title: "هوارد ليدل", type: "مفكر"
 - id: "thk-hliddle-clin", title: "كريغ هندرسون", type: "مفكر"

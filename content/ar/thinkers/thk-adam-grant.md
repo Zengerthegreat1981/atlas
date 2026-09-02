@@ -12,8 +12,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2007
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس التنظيمي والدافعية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-hidden-potential", title: "إمكانات خفية: العلم الذي يكتشف ما بداخلك", type: "عمل / كتاب"
 - id: "wrk-think-again", title: "فكر مرة أخرى", type: "عمل / كتاب"
@@ -21,6 +20,7 @@ related:
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *Give and Take* (2013) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس التنظيمي والدافعية» في content/ar/schools أو branches."
 ---
 
 # آدم غرانت

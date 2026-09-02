@@ -13,7 +13,7 @@ active_start: 1975
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenological-research-methodology", target_type: "مدرسة"
 related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 - id: "thk-eengelhardt", title: "هـ. تريسترام إنغلهارت الابن", type: "مفكر"

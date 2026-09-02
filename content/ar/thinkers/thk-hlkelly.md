@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علاج إيماغو العلائقي (Imago)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
 - id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
 gaps:

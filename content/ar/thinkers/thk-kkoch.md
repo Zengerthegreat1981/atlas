@@ -14,7 +14,7 @@ part: "philosophy"
 register: "literary"
 crumb: "الشعر العلاجي ← تعليم الشعر ← كينيث كوخ"
 edges:
-- rel: "belongs_to", target: "الشعر العلاجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-poetry-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-lmazza", title: "نيكولاس مازا", type: "مفكر"
 gaps:

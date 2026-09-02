@@ -13,7 +13,7 @@ active_start: 1958
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التغذية الراجعة العصبية (Neurofeedback)", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-neurofeedback", target_type: "مفهوم"
 related:
 - id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفهوم"
 gaps:

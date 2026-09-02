@@ -12,8 +12,7 @@ language: "اليابانية"
 active_start: 1980
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-kmorita", title: "ماساتاكي موريتا", type: "مفكر"
 - id: "thk-tisoma", title: "تاكيشي إيسومه", type: "مفكر"
@@ -22,6 +21,7 @@ gaps:
   - "تاريخ الميلاد الدقيق غير متاح؛ السِيَر المهنية المنشورة تكتفي بالإشارة إلى القرن العشرين دون إسناد."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ريتشارد ريبو (thk-rreibo)."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«Constructive Living» في content/ar/schools أو branches."
 ---
 
 # كويتشي ناكامورا

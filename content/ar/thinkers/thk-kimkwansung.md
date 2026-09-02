@@ -12,8 +12,7 @@ language: "الكورية"
 active_start: 1977
 active_end: 2013
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علاج الهوابيونغ (Hwabyung)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-minsungkil", title: "مين سونغ-كيل", type: "مفكر"
 - id: "thk-leehyungjun", title: "لي هيونغ-جون", type: "مفكر"
@@ -21,6 +20,7 @@ related:
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي لم يُوثّق."
   - "لا يوجد اقتباس مباشر موثوق من "Psychiatric Understanding of Hwabyung" (1986) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد ملف للslug sch-hwabyung المقابل لـ«علاج الهوابيونغ (Hwabyung)» في content/ar/schools أو branches."
 ---
 
 # كيم كوان-سونغ

@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "صحافة علمية / علم الأعصاب الشعبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 gaps:
   - "**الـslug مضلِّل**: `thk-jonahlewis` يوحي باسم Lewis، والشخص هو **Jonah Lehrer**. تغيير الـslug قرار تحريري لأنه يكسر الروابط القائمة."

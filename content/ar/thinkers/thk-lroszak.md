@@ -12,13 +12,13 @@ language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-jmacy", title: "جوانا مايسي", type: "مفكر"
 - id: "thk-rcarson", title: "راشيل كارسون", type: "مفكر"
 - id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس البيئي/العلاج البيئي (Ecopsychology)» في content/ar/schools أو branches."
   - "سنة الميلاد الدقيقة (1933) تقريبية ولم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *The Voice of the Earth* (1992) بترجمة عربية معتمدة."
 ---

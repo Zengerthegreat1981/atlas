@@ -12,11 +12,11 @@ active_start: 1971
 active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← بوب مور"
-edges:
-- rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-werhard", title: "ويرنر إيرهارد", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to محذوف: لا يوجد slug معتمد مقابل لـ«EST / Landmark Forum» في content/ar/schools أو branches (يوجد sch-est-landmark في content/ar/drafts/minimax فقط، غير معتمد)."
   - "السيرة الكاملة لم تُوثّق بدقة."
   - "لا يوجد نص أصلي منشور له يمكن الاقتباس منه."
 ---

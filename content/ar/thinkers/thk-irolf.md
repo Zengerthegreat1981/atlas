@@ -13,7 +13,7 @@ active_start: 1960
 active_end: 1979
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-rolfing", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-ehutchins", title: "إيميت هاتشنز", type: "مفكر"

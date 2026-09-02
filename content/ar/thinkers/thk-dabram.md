@@ -13,7 +13,7 @@ active_start: 1996
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"
 related:
 - id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
 - id: "thk-arne-naess", title: "أرنه نيس", type: "مفكر"

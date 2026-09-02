@@ -13,7 +13,7 @@ country: "ألمانيا"
 language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الظاهراتية النفسية المرضية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"

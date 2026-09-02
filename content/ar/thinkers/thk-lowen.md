@@ -13,7 +13,7 @@ active_end: 2008
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← ألكسندر لوين"
 edges:
-- rel: "belongs_to", target: "التحليل الحيوي (Bioenergetic Analysis)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-bioenergetic-analysis", target_type: "تيار"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"

@@ -12,13 +12,13 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الاستشارات متعددة الثقافات", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-donaldatkinson", title: "دونالد أتكينسون", type: "مفكر"
 - id: "thk-frederickleong", title: "فريديريك ليونغ", type: "مفكر"
 - id: "thk-janethelms", title: "جانيت هيلمز", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«الاستشارات متعددة الثقافات» في content/ar/schools أو branches."
   - "لا تتوفر تفاصيل عن حياته الشخصية المبكرة أو تكوينه الأكاديمي الأول."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دونالد أتكينسون (thk-donaldatkinson)."

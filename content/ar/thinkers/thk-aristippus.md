@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -405
 active_end: -356
 edges:
-- rel: "belongs_to", target: "المدرسة القورينية (Cyrenaics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cyrenaic", target_type: "مدرسة"
 related:
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."

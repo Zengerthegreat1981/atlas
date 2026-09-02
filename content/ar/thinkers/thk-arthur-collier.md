@@ -15,7 +15,7 @@ active_start: 1704
 active_end: 1732
 edges:
 - rel: "belongs_to", target: "sch-berkeleianism", target_type: "مدرسة"
-- rel: "developed", target: "المثالية الذاتية البركلية", target_type: "مدرسة"
+- rel: "developed", target: "sch-berkeleianism", target_type: "مدرسة"
 related:
 - id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
 - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"

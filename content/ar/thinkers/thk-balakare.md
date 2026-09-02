@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← بيرجيتّا ألاكارِ"
 edges:
-- rel: "belongs_to", target: "الحوار المفتوح (Open Dialogue)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-open-dialogue", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jseikkula", title: "ياكو سيكولا", type: "مفكر"
 - id: "thk-tandersen", title: "توم أندرسن", type: "مفكر"

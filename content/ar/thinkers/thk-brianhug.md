@@ -13,7 +13,7 @@ active_start: 2012
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج التفاعلي النمائي الثنائي (DDP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ddp", target_type: "تيار"
 related:
 - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 gaps:

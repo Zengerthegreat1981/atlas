@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي وعلاج الصدمات التطورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-emotionally-immature-parents", title: "أبناء الآباء غير الناضجين عاطفياً", type: "عمل / كتاب"
 - id: "con-emotional-immaturity-parents", title: "اللاتنضج العاطفي الوالدي", type: "مفهوم"

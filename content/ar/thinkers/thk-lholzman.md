@@ -12,12 +12,12 @@ language: "الإنجليزية"
 active_start: 1978
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
 - id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج الاجتماعي (Social Therapy)» في content/ar/schools أو branches."
   - "لا يوجد اقتباس مباشر موثوق من *Performing Psychology* (1999) بترجمة عربية معتمدة."
 ---
 

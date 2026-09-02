@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التثقيف النفسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
 - id: "thk-dknab", title: "دوغلاس كناب", type: "مفكر"
 - id: "thk-dmueser", title: "كيم ميوزر", type: "مفكر"

@@ -12,11 +12,11 @@ language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج التكاملي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج التكاملي» في content/ar/schools أو branches."
   - "السيرة الذاتية الكاملة في Scranton لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق من *Changing for Good* (1994) بترجمة عربية معتمدة."
 ---

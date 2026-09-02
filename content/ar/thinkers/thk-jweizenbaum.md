@@ -13,7 +13,7 @@ active_end: 2008
 part: "philosophy"
 crumb: "العلاج بمساعدة الذكاء الاصطناعي ← النقد المؤسِّس ← جوزيف فايزنباوم"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", target_type: "تيار"
+- rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:
 - id: "thk-kcolby", title: "كينيث كولبي", type: "مفكر"
 - id: "thk-darcy-woebot", title: "أليسون دارسي", type: "مفكر"

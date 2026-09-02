@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← المفكرون ← لورانس فيشباين"
 edges:
-- rel: "belongs_to", target: "التأهيل المهني النفسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychiatric-vocational-rehab", target_type: "تيار"
 related: []
 gaps:
   - "تاريخ وسنة الميلاد الدقيقة غير محددة بدقة في الأدبيات المتخصصة المتاحة."

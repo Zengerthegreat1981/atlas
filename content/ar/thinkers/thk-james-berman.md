@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الزوجي المرتكز على الانفعال (EFT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

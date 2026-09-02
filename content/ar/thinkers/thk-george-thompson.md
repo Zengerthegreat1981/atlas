@@ -13,7 +13,7 @@ active_start: 1983
 active_end: 2011
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
 - id: "thk-eburne", title: "إريك بيرن", type: "مفكر"

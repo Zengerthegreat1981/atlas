@@ -12,8 +12,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← لي هيونغ-جون"
-edges:
-- rel: "belongs_to", target: "علاج الهوابيونغ (Hwabyung)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"
 gaps:
@@ -21,6 +20,7 @@ gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيم كوان-سونغ (thk-kimkwansung)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيم كوان-سونغ (thk-kimkwansung)."
+  - "حقل edges.belongs_to فارغ: لا يوجد ملف للslug sch-hwabyung المقابل لـ«علاج الهوابيونغ (Hwabyung)» في content/ar/schools أو branches."
 ---
 
 # لي هيونغ-جون

@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التنويم المعرفي (Cognitive Hypnotherapy — سيلفستر)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-cognitive-hypnotherapy-silvester", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-tsilvester", title: "تريفور سيلفستر", type: "مفكر"
 - id: "thk-aalladin", title: "آسين علادين", type: "مفكر"

@@ -13,7 +13,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-rryan", title: "ريتشارد راين", type: "مفكر"
 - id: "thk-csikszentmihalyi", title: "ميهاي سيكسنتميهالي", type: "مفكر"

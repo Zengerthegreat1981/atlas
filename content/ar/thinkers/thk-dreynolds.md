@@ -12,13 +12,13 @@ language: "إنجليزية"
 active_start: 1976
 active_end: 2010
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-kmorita", title: "ماساتاكي موريتا", type: "مفكر"
 - id: "thk-tisoma", title: "تاكيشي إيسومه", type: "مفكر"
 - id: "thk-rreibo", title: "ريتشارد ريبو", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«Constructive Living» في content/ar/schools أو branches."
   - "السيرة الذاتية الكاملة في جامعة هونولولو لم تُراجع مباشرة."
   - "لا يوجد اقتباس مباشر موثوق من *Constructive Living* (1984) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ريتشارد ريبو (thk-rreibo)."

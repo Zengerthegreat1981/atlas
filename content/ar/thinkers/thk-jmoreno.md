@@ -13,7 +13,7 @@ active_end: 1974
 part: "psychology"
 crumb: "السيكودراما ← المؤسس ← جاكوب ليفي مورينو"
 edges:
-- rel: "belongs_to", target: "علاج الدراما", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
 - id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
 - id: "thk-moreno", title: "يعقوب ليفي مورينو", type: "مفكر"

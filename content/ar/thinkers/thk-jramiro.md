@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-ho-oponopono", target_type: "مفهوم"
 related:
 - id: "thk-msimeona", title: "مورّنا سيميونّا", type: "مفكر"
 gaps:

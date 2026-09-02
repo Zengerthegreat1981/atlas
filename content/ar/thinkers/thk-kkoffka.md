@@ -13,7 +13,7 @@ active_start: 1910
 active_end: 1941
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الجشطالتي (مدرسة برلين)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-gestalt-berlin", target_type: "تيار"
 related:
 - id: "thk-wkohler", title: "فولفغانغ كولَر", type: "مفكر"
 - id: "thk-wmetzger", title: "فولفغانغ ميتزغر", type: "مفكر"

@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: 2010
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
 - id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
@@ -21,6 +20,7 @@ related:
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق من *The Goal of Counseling and Psychotherapy* (1972) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج بالخبرة/التجريبي» في content/ar/schools أو branches."
 ---
 
 # ألفين مارر

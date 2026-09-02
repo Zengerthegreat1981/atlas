@@ -13,7 +13,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الديناميكي البيني القصير (DIT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-dit", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-alemma", title: "أليساندرا لِمّا", type: "مفكر"
 gaps:

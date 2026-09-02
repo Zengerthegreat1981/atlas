@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-getting-things-done", title: "إنجاز المهام", type: "عمل / كتاب"
 - id: "con-getting-things-done-gtd", title: "منهجية إنجاز المهام وتفريغ العقل (GTD Methodology)", type: "مفهوم"

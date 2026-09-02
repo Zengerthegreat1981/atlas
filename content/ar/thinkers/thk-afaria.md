@@ -13,7 +13,7 @@ active_end: 1819
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← أبِي فاريا"
 edges:
-- rel: "belongs_to", target: "الماسمرية (Mesmerism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-mesmerism-historical", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
 - id: "thk-puysgur", title: "ماركيز دي بويزيغور", type: "مفكر"

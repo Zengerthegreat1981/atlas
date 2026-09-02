@@ -14,8 +14,7 @@ language: "الإيطالية"
 active_start: 1911
 active_end: 1937
 edges:
-- rel: "belongs_to", target: "الفلسفة الإيطالية المعاصرة", target_type: "مدرسة"
-- rel: "developed", target: "الماركسية الغربية (Western Marxism)", target_type: "مدرسة"
+- rel: "developed", target: "sch-western-marxism", target_type: "مدرسة"
 related:
 - id: "thk-giorgio-agamben", title: "جورجيو أغامبين", type: "مفكر"
 - id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
@@ -27,6 +26,7 @@ gaps:
   - "علاقته بالمستشرق الإيطالي بونانوتّي-كاستلانا (الفلسفة الصوفية) لم تُدرس كافية."
   - "ترجمة «دفاتر السجن» كاملةً إلى العربية لم تُنشر بعد."
   - "مقارنة فلسفته بالفيلسوف المعاصر لوي ألتوسير (الإيديولوجيا كأجهزة) لم تُحلل عربياً."
+  - "حقل edges.belongs_to محذوف: لا يوجد slug مقابل لـ«الفلسفة الإيطالية المعاصرة» في content/ar/schools أو branches."
 ---
 
 # أنطونيو غرامشي

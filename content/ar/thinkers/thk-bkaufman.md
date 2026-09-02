@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 1995
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-conversion-therapy", target_type: "تيار"
 related:
 - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"

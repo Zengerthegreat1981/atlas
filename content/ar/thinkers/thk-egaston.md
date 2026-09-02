@@ -13,7 +13,7 @@ active_start: 1945
 active_end: 1970
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بالموسيقى", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-music-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-music-therapy", title: "العلاج بالموسيقى", type: "تقنية/تدخل علاجي"
 - id: "thk-crobbins", title: "كلايف روبنز", type: "مفكر"

@@ -12,12 +12,12 @@ language: "إنجليزية"
 active_start: 1943
 active_end: 1981
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
+edges: []
 related: []
 gaps:
   - "صلة عمله بتيار SAR بالذات لم تُوثّق بشكل واضح."
   - "روابط جاي هالي وكلوي مادانس وإيروين سترانسكي أُزيلت من related لعدم ورود أي ذكر لهم في متن الملف ولا صلة موثّقة بينهم وبين بوردين."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علاج التبعية-السلطة (SAR)» في content/ar/schools أو branches."
 ---
 
 # إدوارد بوردين

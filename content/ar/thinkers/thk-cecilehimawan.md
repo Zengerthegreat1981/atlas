@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الأنساق الأسرية الداخلية (IFS)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

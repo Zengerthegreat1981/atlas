@@ -13,7 +13,7 @@ active_end: 1977
 part: "psychology"
 crumb: "الأطلس ← thinkers ← أدريان هيل"
 edges:
-- rel: "belongs_to", target: "العلاج بالفن", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-art-therapy", target_type: "مدرسة"
 related:
 - id: "thk-ekramer", title: "إديث كرامر", type: "مفكر"
 - id: "thk-mnaumburg", title: "مارغريت نومبورغ", type: "مفكر"

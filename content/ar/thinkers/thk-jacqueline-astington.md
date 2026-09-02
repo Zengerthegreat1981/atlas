@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
 - id: "wrk-emotional-intelligence", title: "الذكاء العاطفي", type: "عمل / كتاب"
 - id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "التكامل الحسي والاضطرابات النمائية ← لوسي جين ميلر"
 edges:
-- rel: "belongs_to", target: "التكامل الحسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 - id: "thk-rcermak", title: "شارون سيرماك", type: "مفكر"

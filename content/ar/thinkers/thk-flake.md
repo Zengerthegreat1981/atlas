@@ -13,7 +13,7 @@ active_end: 1982
 part: "psychology"
 crumb: "العلاج البدائي ← اللاهوت الإكلينيكي ← فرانك ليك"
 edges:
-- rel: "belongs_to", target: "العلاج البدائي / صرخة الولادة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "تيار"
 related:
 - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
 gaps:

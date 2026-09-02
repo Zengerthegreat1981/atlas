@@ -12,8 +12,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← إيما كول"
-edges:
-- rel: "belongs_to", target: "العلاج الزوجي التعاوني (Collaborative Couple Therapy)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dwile", title: "دانيال وايل", type: "مفكر"
 - id: "thk-bohanlon", title: "بيل أوهَنلون", type: "مفكر"
@@ -22,6 +21,7 @@ gaps:
   - "هذا الاسم مُتَرجَم — الهوية الدقيقة لم تُتأكد."
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج الزوجي التعاوني (Collaborative Couple Therapy)» في content/ar/schools أو branches."
 ---
 
 # إيما كول

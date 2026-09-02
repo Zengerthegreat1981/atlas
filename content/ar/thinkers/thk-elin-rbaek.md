@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "فرق العكس العاكسة (Reflecting Teams)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-reflecting-teams", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-tandersen", title: "توم أندرسن", type: "مفكر"
 gaps:

@@ -12,14 +12,14 @@ active_start: 1936
 active_end: 2014
 part: "psychology"
 crumb: "اليوغا الحديثة ← يوغا آيَنغَر ← ب. ك. س. آيَنغَر"
-edges:
-- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
 - id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
 - id: "thk-krishnamurti", title: "جيدو كريشنامورتي", type: "مفكر"
 - id: "thk-ggurdjieff", title: "غي. آي. غورجييف", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الأيورفيدي/الهندي التقليدي» في content/ar/schools أو branches."
   - "لا يوجد اقتباس مباشر موثوق من *Light on Yoga* (1966) بترجمة عربية معتمدة."
 ---
 

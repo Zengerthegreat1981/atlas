@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← جوليا غوتمان"
 edges:
-- rel: "belongs_to", target: "طريقة غوتمان الزوجية", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-gottman-method", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jgottman", title: "جون غوتمان", type: "مفكر"
 - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"

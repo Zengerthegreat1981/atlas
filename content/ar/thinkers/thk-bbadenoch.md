@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← بوني بادنوك"
 edges:
-- rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "thk-aschore", title: "ألان شور", type: "مفكر"

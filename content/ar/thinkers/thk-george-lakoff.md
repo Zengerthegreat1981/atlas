@@ -12,8 +12,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1968
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "اللسانيات المعرفية وعلم النفس السياسي", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-embodied-cognition", title: "الإدراك المتجسد (Embodied Cognition): العقل يَتمدّد في الجسد", type: "مفهوم"
 - id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي (Framing Effect)", type: "مفهوم"
@@ -21,6 +20,7 @@ related:
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *Metaphors We Live By* (1980) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«اللسانيات المعرفية وعلم النفس السياسي» في content/ar/schools أو branches."
 ---
 
 # جورج لاكوف

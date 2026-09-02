@@ -14,7 +14,7 @@ active_start: 1776
 active_end: 1832
 edges:
 - rel: "belongs_to", target: "sch-utilitarianism", target_type: "مدرسة"
-- rel: "founded", target: "النفعية", target_type: "مدرسة"
+- rel: "founded", target: "sch-utilitarianism", target_type: "مدرسة"
 related:
 - id: "sch-utilitarianism", title: "النفعية", type: "مدرسة"
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"

@@ -13,7 +13,7 @@ active_start: 1975
 active_end: 2022
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-ebordin", title: "إدوارد بوردين", type: "مفكر"
 - id: "thk-mkern", title: "مارك كيرن", type: "مفكر"

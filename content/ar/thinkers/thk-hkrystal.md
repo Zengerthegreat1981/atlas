@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "علاج موريتا ← الجيل المعاصر ← هيروشي كاواشيما"
 edges:
-- rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-morita-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-smorita", title: "شوما موريتا", type: "مفكر"
 gaps:

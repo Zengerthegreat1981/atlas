@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← جوناثان بِكر"
 edges:
-- rel: "belongs_to", target: "DDP (العلاج التفاعلي النمائي الثنائي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ddp", target_type: "تيار"
 related:
 - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"

@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي الشرقي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-dluo", title: "دونغ ليو", type: "مفكر"
 - id: "thk-kashan", title: "كيران عاشان", type: "مفكر"

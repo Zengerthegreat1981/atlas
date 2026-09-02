@@ -12,8 +12,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 crumb: "MDFT (العلاج الأسري متعدد الأبعاد) ← البحث والتقييم ← كريغ هندرسون"
-edges:
-- rel: "belongs_to", target: "MDFT (العلاج الأسري متعدد الأبعاد)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-hliddle", title: "هوارد ليدل", type: "مفكر"
 - id: "thk-brosen", title: "برنارد روزن", type: "مفكر"
@@ -22,6 +21,7 @@ gaps:
   - "الـslug (thk-hliddle-clin) مشتقّ من اسم هوارد ليدل بينما صاحب الملف شخص آخر هو كريغ هندرسون — وهو نمط متكرّر في المجلد (thk-cwhitaker-pt = «جون مارش»، thk-jjoyce = «مارغريت بِي»، thk-jroddy = «ج. لوك ويلز»). يحتاج قراراً تحريرياً موحَّداً لأن إعادة التسمية تكسر الروابط."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: برنارد روزن (thk-brosen)."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«MDFT (العلاج الأسري متعدد الأبعاد)» في content/ar/schools أو branches."
 ---
 
 # كريغ هندرسون

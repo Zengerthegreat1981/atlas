@@ -12,13 +12,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2006
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-deep-work", title: "العمل العميق", type: "عمل / كتاب"
 - id: "wrk-digital-minimalism", title: "البساطة الرقمية", type: "عمل / كتاب"
 - id: "con-deep-work", title: "العمل العميق", type: "مفهوم"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس المعرفي والإنتاجية الرقمية» في content/ar/schools أو branches."
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *Deep Work* (2016) بترجمة عربية معتمدة."
 ---

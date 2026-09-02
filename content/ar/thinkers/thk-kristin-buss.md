@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "PCIT (العلاج التفاعلي بين الوالد والطفل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "thk-barry-kramer", title: "باري كريمر", type: "مفكر"
 - id: "thk-mark-santross", title: "مارك سانتروس", type: "مفكر"

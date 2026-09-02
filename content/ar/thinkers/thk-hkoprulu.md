@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الإسلامي/العلاج النفسي الصوفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-psychology", target_type: "مدرسة"
 related:
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"
 - id: "thk-sshaikh", title: "سعدية شيخ", type: "مفكر"

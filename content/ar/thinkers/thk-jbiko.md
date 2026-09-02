@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 1977
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ubuntu-psychology", target_type: "تيار"
 related:
 - id: "con-black-consciousness", title: "الوعي الأسود", type: "مفهوم"
 - id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"

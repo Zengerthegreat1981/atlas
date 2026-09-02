@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي والاقتصاد السلوكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "met-buridan-ass", title: "حمار بوريدان: استعارة عجز الإرادة أمام الخيارات المتطابقة", type: "استعارة/مجاز مؤسِّس"

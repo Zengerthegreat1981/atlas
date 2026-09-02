@@ -15,7 +15,7 @@ active_start: -300
 active_end: -250
 edges:
 - rel: "belongs_to", target: "sch-mingjia", target_type: "مدرسة"
-- rel: "developed", target: "مدرسة الأسماء / المنطقيون (Mingjia)", target_type: "مدرسة"
+- rel: "developed", target: "sch-mingjia", target_type: "مدرسة"
 related:
 - id: "thk-huishi", title: "هوي شي (مؤسّس المنطقيّين)", type: "مفكر"
 - id: "sch-mohism", title: "الموهية (Mohism)", type: "مدرسة"

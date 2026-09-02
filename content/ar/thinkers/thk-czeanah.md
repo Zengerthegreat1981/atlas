@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بتفاعل الوالد-الطفل (PCIT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
 - id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"

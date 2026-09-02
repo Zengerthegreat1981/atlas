@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-circle-of-security", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-kcooper", title: "غلين كوبر", type: "مفكر"
 - id: "thk-rmarvin", title: "روبرت مارفن", type: "مفكر"

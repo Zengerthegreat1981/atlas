@@ -12,11 +12,11 @@ country: "روما / البندقية"
 language: "الإيطالية"
 active_start: 1972
 active_end: 2024
-edges:
-- rel: "belongs_to", target: "الفلسفة الإيطالية المعاصرة", target_type: "مدرسة"
+edges: []
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق من *Homo Sacer: Il potere sovrano e la nuda vita* (1995) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«الفلسفة الإيطالية المعاصرة» في content/ar/schools أو branches."
 ---
 
 # جورجو أغامبين

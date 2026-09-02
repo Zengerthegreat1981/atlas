@@ -13,7 +13,7 @@ language: "الدنماركية"
 country: "الدنمارك"
 part: "philosophy"
 edges:
-- rel: "influenced", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "influenced", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"

@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: 1769
 active_end: 1794
 edges:
-- rel: "belongs_to", target: "عصر التنوير", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
 related:
 - id: "thk-voltaire", title: "فولتير", type: "مفكر"
 - id: "thk-diderot", title: "دنيس ديدرو", type: "مفكر"

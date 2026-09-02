@@ -13,7 +13,7 @@ active_start: 2005
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
 - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 - id: "thk-kelleycolleen", title: "كولين كيلي", type: "مفكر"

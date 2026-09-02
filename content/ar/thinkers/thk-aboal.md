@@ -13,7 +13,7 @@ active_end: 2009
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← أوغوستو بوال"
 edges:
-- rel: "belongs_to", target: "علاج الدراما", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-drama-therapy", target_type: "مدرسة"
 related:
 - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
 - id: "thk-zmoreno", title: "زيركا مورينو", type: "مفكر"

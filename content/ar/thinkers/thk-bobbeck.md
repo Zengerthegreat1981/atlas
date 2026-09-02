@@ -13,7 +13,7 @@ active_start: 1980
 active_end: 2014
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-robertfritz", title: "روبرت فريتز", type: "مفكر"
 - id: "thk-deniswaitley", title: "دينيس ويتلي", type: "مفكر"

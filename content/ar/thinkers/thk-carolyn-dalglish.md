@@ -13,7 +13,7 @@ active_start: 2012
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الإرشاد التمييزي (Discernment Counseling)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-discernment-counseling", target_type: "تيار"
 related:
 - id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
 gaps:

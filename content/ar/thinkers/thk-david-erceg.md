@@ -13,7 +13,7 @@ active_start: 2005
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-mst", target_type: "تيار"
 related:
 - id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
 - id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"

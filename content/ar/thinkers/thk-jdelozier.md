@@ -13,7 +13,7 @@ active_start: 1975
 active_end: 2015
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:
 - id: "thk-jgrind", title: "جون غريندر", type: "مفكر"
 - id: "thk-trobbins", title: "توني روبنز", type: "مفكر"

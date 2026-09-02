@@ -13,13 +13,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي والنظافة العاطفية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-emotional-first-aid", title: "الإسعافات الأولية العاطفية", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *The Squeaky Wheel* (2011) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الإكلينيكي والنظافة العاطفية» في content/ar/schools أو branches."
 ---
 
 # غاي وينش

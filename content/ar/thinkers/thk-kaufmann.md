@@ -13,7 +13,7 @@ country: "ألمانيا / أمريكا"
 language: "الألمانية / الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "influenced", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "influenced", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"

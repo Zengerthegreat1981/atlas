@@ -12,11 +12,11 @@ language: "الإنجليزية"
 active_start: 2012
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم نفس الباطنية (PDI)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-gaps: []
+gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم نفس الباطنية (PDI)» في content/ar/schools أو branches."
 ---
 
 # كولين البيجاني

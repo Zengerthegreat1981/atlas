@@ -12,13 +12,13 @@ language: "الإنجليزية/السنسكريتية"
 active_start: 1980
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم النفس الفيدي (المستند إلى الفيد)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-svami-akhilananda", title: "سوامي أخيلاناندا", type: "مفكر"
 ---
 
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الفيدي (المستند إلى الفيد)» في content/ar/schools أو branches."
   - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
   - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
   - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-deepak-ramsubeik.md.archived.2026-08-26"

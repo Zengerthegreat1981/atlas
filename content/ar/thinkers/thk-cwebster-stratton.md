@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← كارولين ويبستر-ستراتون"
 edges:
-- rel: "belongs_to", target: "العلاج بتفاعل الوالد-الطفل (PCIT)", target_type: "تيار"
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "تيار"
 - id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"

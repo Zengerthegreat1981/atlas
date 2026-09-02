@@ -12,14 +12,14 @@ active_start: 1953
 active_end: 1999
 part: "psychology"
 crumb: "الطب النفسي-الجسدي ← النموذج البيولوجي-النفسي-الاجتماعي ← جورج إنغل"
-edges:
-- rel: "belongs_to", target: "علم النفس الطبي النفسي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
 - id: "thk-hweiner", title: "هربرت فاينر", type: "مفكر"
 - id: "thk-zlipowski", title: "زبينيو ليبوفسكي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Need for a New Medical Model: A Challenge for Biomedicine* (1977) بترجمة عربية معتمدة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الطبي النفسي» في content/ar/schools أو branches."
 ---
 
 # جورج إنغل

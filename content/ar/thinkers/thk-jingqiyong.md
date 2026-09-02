@@ -13,7 +13,7 @@ country: "الصين"
 language: "الصينية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الطاوية المعرفية (Chinese Taoist Cognitive Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-taoist-cognitive-therapy-concept", target_type: "مفهوم"
 related:
 - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
 gaps:

@@ -11,14 +11,14 @@ language: "السنسكريتية / البالية"
 active_start: -500
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاجات القائمة على اليقظة والقبول (الموجة الثالثة)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 - id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
 - id: "evt-third-wave-cbt-symposium-2004", title: "ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي", type: "حدث تاريخي"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاجات القائمة على اليقظة والقبول (الموجة الثالثة)» في content/ar/schools أو branches."
   - "الترجمة الدقيقة لمصطلحات الأبهيدارما البالية (مثل Cetasika) تحتاج مراجعة متخصص في اللغويات البوذية."
   - "تاريخ تأسيس عيادة الحد من الضغط MBSR بجامعة ماساتشوستس على يد جون كابات-زين (1979) مذكور في المتن لكن يحتاج توثيقاً بمصدر أولي يفصّل بنية البرنامج الأصلية."
 ---

@@ -13,7 +13,7 @@ active_end: 1986
 part: "philosophy"
 crumb: "حركة اللقاء الجماعي ← مجموعات الماراثون ← جورج بَخ"
 edges:
-- rel: "belongs_to", target: "حركة اللقاء الجماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-encounter-groups", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-wschutz", title: "ويليام شوتز", type: "مفكر"
 gaps:

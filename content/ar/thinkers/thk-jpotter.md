@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الخطابي (بوتر وويذرل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-discursive-psychology", target_type: "تيار"
 related:
 - id: "thk-dedwards", title: "ديرِك إدواردز", type: "مفكر"
 - id: "thk-ahepburn", title: "ألكسا هِبِرن", type: "مفكر"

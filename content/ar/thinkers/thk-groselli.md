@@ -12,11 +12,11 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج المعرفي والتأهيل من الإدمان", target_type: "مدرسة"
+edges: []
 related: []
 gaps:
   - "تاريخ الميلاد الدقيق غير منشور في بطاقات تعريف مؤسسة Hazelden Publishing."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج المعرفي والتأهيل من الإدمان» في content/ar/schools أو branches."
 ---
 
 # غيل روزيليني

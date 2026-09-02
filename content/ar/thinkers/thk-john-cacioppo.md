@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "علم الأعصاب الاجتماعي وسيكولوجيا الوحدة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية", type: "عمل / كتاب"
 - id: "con-social-pain", title: "الألم الاجتماعي وتطابق دوائر الألم الجسدي في الدماغ", type: "مفهوم"

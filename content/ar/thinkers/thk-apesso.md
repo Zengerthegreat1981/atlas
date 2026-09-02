@@ -13,7 +13,7 @@ active_start: 1966
 active_end: 2016
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-pbsp", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-dboyden", title: "ديان بوييدن", type: "مفكر"

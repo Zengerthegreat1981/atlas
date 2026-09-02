@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة التحليلية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
 gaps:

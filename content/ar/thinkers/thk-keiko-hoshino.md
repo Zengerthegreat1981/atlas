@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج نايكان", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-naikan-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-yishin", title: "يوشيموتو إيشين", type: "مفكر"
 gaps:

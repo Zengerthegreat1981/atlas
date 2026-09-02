@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "ABFT (العلاج الأسري المرتكز على التعلق)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-abft", target_type: "تيار"
 related:
 - id: "thk-ddiamond", title: "غاري م. دايموند", type: "مفكر"
 - id: "thk-drabin", title: "ديان رابين", type: "مفكر"

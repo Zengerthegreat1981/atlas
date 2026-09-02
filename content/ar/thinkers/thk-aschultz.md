@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
 - id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
 - id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"

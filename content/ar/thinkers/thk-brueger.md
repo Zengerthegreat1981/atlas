@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← المفكرون ← بيرند رويغر"
 edges:
-- rel: "belongs_to", target: "العلاج الإيجابي عبر-الثقافي (Peseschkian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-positive-psychotherapy-peseschkian", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
 - id: "thk-fpeseschkian", title: "فريد بيسشكيان", type: "مفكر"

@@ -13,7 +13,7 @@ active_start: 1965
 active_end: 2005
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-schultz-hencke", target_type: "تيار"
 related:
 - id: "thk-schultz-hencke", title: "هارالد شولتز-هِنكه", type: "مفكر"
 gaps:

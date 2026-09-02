@@ -13,7 +13,7 @@ active_start: 2015
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "أسلوب إلمان في التنويم", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-elman-hypnosis", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

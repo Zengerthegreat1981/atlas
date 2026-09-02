@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1955
 active_end: 1987
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتحفيز القيادي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-magic-of-thinking-big", title: "سحر التفكير بصورة أكبر", type: "عمل / كتاب"
 gaps:

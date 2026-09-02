@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -450
 active_end: -420
 edges:
-- rel: "belongs_to", target: "المدرسة الذرية القديمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."

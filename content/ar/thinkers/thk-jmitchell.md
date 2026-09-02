@@ -13,7 +13,7 @@ active_start: 1974
 active_end: "[DRAFT-UNKNOWN]"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مفهوم"
 related:
 - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
 - id: "thk-lchodorow", title: "نانسي تشودوروف", type: "مفكر"

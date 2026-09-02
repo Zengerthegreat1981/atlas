@@ -13,7 +13,7 @@ active_end: 2008
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← دوروين كارترايت"
 edges:
-- rel: "belongs_to", target: "الحقل الظاهراتي (Lewin)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
 gaps:

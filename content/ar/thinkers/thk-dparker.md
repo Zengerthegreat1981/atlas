@@ -13,7 +13,7 @@ active_start: 1995
 active_end: 2015
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"

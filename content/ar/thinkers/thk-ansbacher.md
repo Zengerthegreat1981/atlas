@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 2006
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"

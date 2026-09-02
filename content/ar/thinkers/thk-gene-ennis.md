@@ -13,7 +13,7 @@ active_start: 2015
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الممارسة الموجَّهة نحو التعافي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
 - id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
 - id: "thk-dan-fisher", title: "دان فيشر", type: "مفكر"

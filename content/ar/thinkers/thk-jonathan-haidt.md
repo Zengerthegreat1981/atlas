@@ -13,7 +13,7 @@ language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الأخلاقي والاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-righteous-mind", title: "العقل الصالح", type: "عمل / كتاب"
 - id: "wrk-anxious-generation", title: "الجيل القلق", type: "عمل / كتاب"

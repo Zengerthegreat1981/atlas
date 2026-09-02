@@ -13,7 +13,7 @@ active_start: 1986
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-writing-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jcameron", title: "جوليا كاميرون", type: "مفكر"
 - id: "thk-ldesalvo", title: "لويز دي سالفو", type: "مفكر"

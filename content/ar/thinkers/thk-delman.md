@@ -13,7 +13,7 @@ active_end: 1967
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← ديف إلمان"
 edges:
-- rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "thk-jkihnstrom", title: "جون كينستروم", type: "مفكر"

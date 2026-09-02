@@ -13,7 +13,7 @@ language: "الإغريقية القديمة"
 active_start: -367
 active_end: -322
 edges:
-- rel: "belongs_to", target: "المشائية الأرسطية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"

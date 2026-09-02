@@ -12,8 +12,7 @@ active_start: 1995
 active_end: 2020
 part: "philosophy"
 crumb: "تشكيلات الأسرة ← النقل إلى الإنجليزية ← هانتر بومون"
-edges:
-- rel: "belongs_to", target: "تشكيلات الأسرة (Family Constellations)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-bhellinger", title: "بيرت هلنغر", type: "مفكر"
 - id: "thk-gweber", title: "غونتهارد فيبر", type: "مفكر"
@@ -21,6 +20,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Toward a Spiritual Psychotherapy: Soul as a Dimension of Experience* (2012) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بِي (thk-jjoyce)."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«تشكيلات الأسرة (Family Constellations)» في content/ar/schools أو branches."
 ---
 
 # هانتر بومون

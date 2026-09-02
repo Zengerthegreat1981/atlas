@@ -13,7 +13,7 @@ active_end: 2001
 part: "psychology"
 crumb: "العلاج بمساعدة الذكاء الاصطناعي ← النمذجة الحاسوبية للاضطراب ← كينيث كولبي"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", target_type: "تيار"
+- rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:
 - id: "thk-jweizenbaum", title: "جوزيف فايزنباوم", type: "مفكر"
 - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"

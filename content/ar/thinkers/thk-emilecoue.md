@@ -13,7 +13,7 @@ active_start: 1910
 active_end: 1926
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التنويم الذاتي (كإطار علاجي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-self-hypnosis-progressive", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"

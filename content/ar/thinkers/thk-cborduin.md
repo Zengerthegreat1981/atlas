@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← تشارلز بوردوين"
 edges:
-- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-mst", target_type: "تيار"
 related:
 - id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
 - id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"

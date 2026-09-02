@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 2015
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "إعادة الولادة", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-brianweiss", title: "برايان وايس", type: "مفكر"
 - id: "thk-lorr", title: "ليونارد أور", type: "مفكر"
@@ -21,6 +20,7 @@ gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«إعادة الولادة (Rebirthing-Breathwork)» في content/ar/schools أو branches."
 ---
 
 # كايتي ري

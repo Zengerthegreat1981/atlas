@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج النفسي النمائي الثنائي (DDP) ← الأساس العصبي ← جون بايلين"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي النمائي الثنائي (DDP)", target_type: "تيار"
+- rel: "belongs_to", target: "br-ddp", target_type: "تيار"
 related:
 - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 - id: "br-ddp", title: "العلاج النفسي النمائي الثنائي (DDP)", type: "تيار"

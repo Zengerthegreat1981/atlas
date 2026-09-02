@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تقنية ألكسندر", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-alexander-technique", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-falexander", title: "فريدريك ماتياس ألكسندر", type: "مفكر"
 gaps:

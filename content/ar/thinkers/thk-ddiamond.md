@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← دانيال دايموند"
 edges:
-- rel: "belongs_to", target: "ABFT (العلاج الأسري المرتكز على التعلق)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-abft", target_type: "تيار"
 related:
 - id: "thk-gdiamond", title: "غي دايموند", type: "مفكر"
 gaps:

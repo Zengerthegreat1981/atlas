@@ -13,7 +13,7 @@ active_start: 1995
 active_end: 2015
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-collaborative-language-systems", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-hgoolishian", title: "هاري غوليشيان", type: "مفكر"
 - id: "thk-handerson", title: "هارلين أندرسون", type: "مفكر"

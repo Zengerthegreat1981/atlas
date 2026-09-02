@@ -14,7 +14,6 @@ active_end: 1993
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "belongs_to", target: "علم النفس التحليلي اللاتيني", target_type: "تيار"
 related:
 - id: "thk-mlanger", title: "ماري لانغر", type: "مفكر"
 - id: "thk-epichon", title: "إنريكيه بيتشون-ريفيير", type: "مفكر"
@@ -119,6 +118,7 @@ related:
 - id: "thk-judy-weiser", title: "جودي وايزر (مؤسِّسة العلاج بالصور الفوتوغرافية)", type: "مفكر"
 - id: "thk-vinoba-bhave", title: "فينوبا بهاف («غاندي الثاني»)", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to محذوف: لا يوجد slug مقابل لـ«علم النفس التحليلي اللاتيني» (التحليل النفسي في أمريكا اللاتينية) في content/ar/schools أو branches."
   - "تأسيس مؤسسة الكلمة (Institución Palabra) لم يُراجَع بعد تفصيلاً."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---

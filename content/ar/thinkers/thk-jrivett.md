@@ -12,12 +12,12 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← المفكرون ← جوردان ريد"
-edges:
-- rel: "belongs_to", target: "العلاج الزوجي التعاوني (Collaborative Couple Therapy)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dwile", title: "دانيال وايل", type: "مفكر"
 - id: "thk-batkinson", title: "برنت أتكينسون", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج الزوجي التعاوني (Collaborative Couple Therapy)» في content/ar/schools أو branches."
   - "تاريخ وسنة الميلاد الدقيقة غير محددة بدقة في الأدبيات المتخصصة المتاحة."
 ---
 

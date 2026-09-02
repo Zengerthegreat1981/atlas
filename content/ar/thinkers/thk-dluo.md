@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← المفكرون ← دونغ ليو"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي والمؤسسي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related: []
 gaps:
   - "تحقّق (بحث ويب، صفحة Georgia Tech/Scheller وGoogle Scholar): دونغ ليو أستاذ كرسي Thomas R. Williams في الإدارة وأستاذ السلوك التنظيمي في كلية شيلر للأعمال بمعهد جورجيا التقني، نال الدكتوراه من جامعة واشنطن (Foster School of Business) سنة 2011، وله أبحاث منشورة في Academy of Management Journal وJournal of Applied Psychology حول القيادة التمكينية والإبداع في فرق العمل."

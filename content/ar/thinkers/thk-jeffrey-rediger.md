@@ -12,14 +12,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الصحي", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-cured-rediger", title: "شفاء: تقوية جهاز المناعة وعلاج حياتك", type: "عمل / كتاب"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "con-homeostasis", title: "الاستتباب", type: "مفهوم"
 - id: "thk-besselvanderkolk", title: "بيسيل فان دير كولك", type: "مفكر"
 gaps:
+  - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الصحي» في content/ar/schools أو branches."
   - "سنة وتفاصيل السيرة الأكاديمية الأولى تحتاج مراجعة بيبليوغرافية من سجلات كلية الطب بهارفارد."
   - "الأبحاث الجارية حول البيولوجيا الجزيئية للشفاء التلقائي تتطلب فصلاً مستقلاً."
 ---
