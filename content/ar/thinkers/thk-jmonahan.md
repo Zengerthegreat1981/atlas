@@ -22,9 +22,10 @@ related:
 - id: "thk-tgrisso", title: "توماس غريسو", type: "مفكر"
 - id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من *Predicting Violent Behavior: An Assessment of the Clinical Techniques* (1981) بترجمة عربية معتمدة."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
+  - "لا ترجمة عربية منشورة لـ*Predicting Violent Behavior* (1981) ولا لـ*Rethinking Risk Assessment* (2001)، فلا اقتباس حرفي في هذا المدخل — النقل كله بصياغة عربية عن الأصل الإنجليزي."
+  - "حجم عيّنة دراسة ماك آرثر مكتوب في المتن تقريباً («نحو ألف مريض»)؛ الرقم الدقيق وعدد مواقع التجميع يحتاجان ضبطاً من تقرير الدراسة الأصلي."
+  - "سنة صدور نسخة COVR التجارية ودار نشرها غير مُدرَجتين، ولا بيانات التقنين العربي للأداة إن وُجد."
+  - "شهادات موناهان الأكاديمية (سنة الدكتوراه وجهة منحها) وتاريخ انتقاله إلى كلية القانون بجامعة فرجينيا غير مُدرَجة."
 ---
 
 # جون موناهان
@@ -41,14 +42,21 @@ gaps:
 
 ## موقعه من التيار
 
-يقف موناهان عند ملتقى علم النفس القانوني، علم النفس السريري، والعدالة الجنائية. يُعدّ من أهم الأصوات التي أرست أسس تقييم الخطر في حقل الطب النفسي الحديث.
+يقف موناهان عند ملتقى علم النفس القانوني والإكلينيكي والعدالة الجنائية. شغّل دراسة ماك آرثر مع **هنري ستيدمان** (شريكه في تحرير *Violence and Mental Disorder*، 1994، وفي *Rethinking Risk Assessment*، 2001) و**بول أبلباوم** في الشقّ الأخلاقي-القانوني؛ وتقاطع عمله مع **توماس غريسو** في تقييم الكفاءة القانونية، ومع **كريستوفر ويبستر** و**راندي بوروم** في حقل أدوات الخطر المهيكَلة — HCR-20 (ويبستر وآخرون، 1997) وSAVRY (بوروم وآخرون، 2002).
 
 ## أهم أعماله
 
-- *Predicting Violent Behavior: An Assessment of the Clinical Techniques* (1981).
+- *Predicting Violent Behavior: An Assessment of Clinical Techniques* (1981).
 - *Rethinking Risk Assessment: The MacArthur Study of Mental Disorder and Violence* (2001، مع H. J. Steadman).
 - مقالات محورية في *American Psychologist* و*Law and Human Behavior*.
 
 ## القيد
 - **الإيجابيات الكاذبة** تبقى المشكلة البنيوية: العنف الشديد حدثٌ **نادر**، وكلّ أداة تتنبّأ بحدث نادر تُنتج بالضرورة عدداً كبيراً من الإنذارات الخاطئة مهما بلغت دقّتها. وثمن الخطأ هنا ليس إحصائياً: حرمان شخص من حرّيته بناءً على ما **قد** يفعله.
 - **الأداة والقاضي**: توسّع استعمال أدوات الخطر الاكتوارية في المحاكم الأمريكية — في الكفالة والحكم والإفراج المشروط — أثار سؤالاً لم يكن في حساب موناهان الأصلي: أن الأداة تتنبّأ بالاعتقال لا بالجريمة، فتَرِث ما في الشرطة من تحيّز وتُخرجه في صورة رقم محايد. وقد كتب موناهان نفسه لاحقاً في حدود ما يجوز استعماله من هذه الأدوات قضائياً.
+
+## المصادر
+
+- Monahan, J. (1981). *Predicting Violent Behavior: An Assessment of Clinical Techniques*. Beverly Hills: Sage. (بقلمه)
+- Monahan, J., & Steadman, H. J. (eds.) (1994). *Violence and Mental Disorder: Developments in Risk Assessment*. University of Chicago Press. (بتحريره)
+- Monahan, J., Steadman, H. J., Silver, E., Appelbaum, P. S., et al. (2001). *Rethinking Risk Assessment: The MacArthur Study of Mental Disorder and Violence*. Oxford University Press. (بقلمه، وهو التقرير المرجعي لدراسة ماك آرثر)
+- Steadman, H. J., Mulvey, E. P., Monahan, J., et al. (1998). «Violence by people discharged from acute psychiatric inpatient facilities and by others in the same neighborhoods», *Archives of General Psychiatry*, 55(5), 393–401. (الورقة التي فيها نتيجة الجيرة المذكورة في المتن، بمشاركته)
