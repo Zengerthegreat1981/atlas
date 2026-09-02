@@ -3770,7 +3770,7 @@
 - `wrk-life-divine` — الحياة الإلهية (The Life Divine) — ✅ معتمد
 - `wrk-linehan-dbt-skills-manual` — دليل تدريب مهارات DBT لمارشا لينهان (1993) — ✅ معتمد
 - `wrk-liquid-love` — الحب السائل: عن هشاشة الروابط الإنسانية — ✅ معتمد
-- `wrk-listening-projective-identification` — الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون) — ✅ معتمد
+- `wrk-listening-projective-identification` — الانتباه والتأويل: مقاربة علمية للاستبصار في التحليل النفسي والجماعات (بيون) — ✅ معتمد
 - `wrk-lived-time` — الزمن المُعاش — ✅ معتمد
 - `wrk-logical-investigations-husserl` — أبحاث منطقية لإدموند هوسرل (Logische Untersuchungen) — ✅ معتمد
 - `wrk-loneliness-cacioppo` — الوحدة: الطبيعة البشرية والحاجة للترابط الاجتماعي — ✅ معتمد
