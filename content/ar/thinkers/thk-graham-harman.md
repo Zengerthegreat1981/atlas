@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-ooo", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Tool-Being: Heidegger and the Metaphysics of Objects* (2002) بترجمة عربية معتمدة."
 ---
 
 # غراهام هارمان
@@ -42,7 +42,3 @@ gaps:
 - *Guerrilla Metaphysics* (2005).
 - *The Quadruple Object* (2011).
 - *Object-Oriented Ontology: A New Theory of Everything* (2018).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

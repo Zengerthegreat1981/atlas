@@ -20,7 +20,7 @@ related:
 gaps:
   - "تاريخ الميلاد الدقيق غير موثّق."
   - "كان هذا الملف يحمل اسم «غلين هوفمان / Glen T. Hoffman» — وهو خلطٌ بين اسمَي مؤسِّسَين اثنين: غلين كوبر وكِنت هوفمان. صُحِّح الاسم، ويبقى تعديل الـslug قراراً تحريرياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Circle of Security Intervention* (2013) بترجمة عربية معتمدة."
 ---
 
 # كِنت هوفمان
@@ -44,7 +44,3 @@ gaps:
 
 - *Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore* (2017، مع غلين كوبر وبيرت باول).
 - *The Circle of Security Intervention: Enhancing Attachment in Early Parent–Child Relationships* (2013، مع باول وكوبر ومارفن).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

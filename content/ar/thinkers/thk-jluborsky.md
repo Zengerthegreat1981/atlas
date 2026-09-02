@@ -17,8 +17,7 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Principles of Psychoanalytic Psychotherapy: A Manual for Supportive-Expressive Treatment* (1984) بترجمة عربية معتمدة."
 ---
 
 # لِستر لوبورسكي

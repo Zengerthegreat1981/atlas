@@ -21,7 +21,7 @@ related:
 - id: "thk-lrosenzweig", title: "لانا روزنغر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "تم التحقق عبر ويكيبيديا (Ricky Greenwald) وموقع Trauma Institute & Child Trauma Institute من أن الاسم الصحيح هو 'ريكي غرينوالد' (وليس 'راي')، وأنه عالم نفس إكلينيكي (part: psychology) مؤسِّس ومدير معهد الصدمات (Trauma Institute & Child Trauma Institute)."
 ---
 

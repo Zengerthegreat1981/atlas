@@ -21,7 +21,6 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "شروحات هايدجر لشعر هولدرلين (Erläuterungen zu Hölderlins Dichtung) تمثل نصاً أنطولوجياً مركزياً في فهم الشعر والوجود."
 ---
 

@@ -19,7 +19,7 @@ related:
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:
   - "تفاصيل تأثيره على السياسات العامة في الستينيات لم تُوثّق بشكل مستقل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Homosexuality: A Psychoanalytic Study* (1962) بترجمة عربية معتمدة."
 ---
 
 # إرفنغ بيبر
@@ -45,7 +45,3 @@ gaps:
 
 - *Homosexuality: A Psychoanalytic Study* (1962).
 - *Homosexuality: A Psychoanalytic Study of Male Homosexuals* (1962، مع فريق من تسعة محلّلين).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

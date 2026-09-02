@@ -20,7 +20,7 @@ related:
 - id: "thk-dgreenberger", title: "دِنيز د. ديفيد", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Cognitive Behavior Therapy: Basics and Beyond* (1995) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دِنيز د. ديفيد (thk-dgreenberger)."
 ---
 
@@ -44,7 +44,3 @@ gaps:
 - *Cognitive Behavior Therapy: Basics and Beyond* (1995؛ الطبعة الثالثة 2020) — الكتاب المقرّر الأول في تدريس العلاج المعرفي-السلوكي في العالم، تُرجم إلى أكثر من عشرين لغة، وهو الذي حوّل منهج أبيها من نظرية إلى إجراء يُعلَّم خطوةً خطوة.
 - *Cognitive Therapy for Challenging Problems: What to Do When the Basics Don't Work* (2005).
 - *Cognitive Behavior Therapy Worksheet Packet* — أدوات العمل المعتمدة في التدريب.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

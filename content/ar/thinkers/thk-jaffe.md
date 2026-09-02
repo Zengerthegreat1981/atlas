@@ -19,7 +19,7 @@ related:
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
 - id: "con-parapsychology", title: "ما وراء علم النفس", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لا يوجد اقتباس مباشر موثوق من *The Myth of Meaning* (1970) بترجمة عربية معتمدة."
   - "نشرها لمحادثات Jung–Jaffé الكاملة ('Jung's Life and Work') تأخّر حتى 2025 عبر Princeton — تستحق مراجعة مباشرة."
 ---
 

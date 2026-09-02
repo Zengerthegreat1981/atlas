@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Modularity of Mind* (1983) بترجمة عربية معتمدة."
 ---
 
 # جيري فودور
@@ -43,7 +43,3 @@ gaps:
 - *Psychosemantics* (1987).
 - *Concepts: Where Cognitive Science Went Wrong* (1998).
 - *The Mind Doesn't Work That Way* (2000).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

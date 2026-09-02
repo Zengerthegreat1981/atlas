@@ -19,7 +19,7 @@ related:
 - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Ten Lessons to Transform Your Marriage* (2006) بترجمة عربية معتمدة."
 ---
 
 # جولي شوارتز غوتمان
@@ -41,7 +41,3 @@ gaps:
 
 - *Ten Lessons to Transform Your Marriage* (مع جون، 2006).
 - *And Baby Makes Three* (مع جون، 2007).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

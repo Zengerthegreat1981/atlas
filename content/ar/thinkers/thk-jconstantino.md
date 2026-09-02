@@ -44,7 +44,3 @@ gaps:
 
 - *Social Responsiveness Scale* (SRS، 2005؛ والنسخة الثانية SRS-2، 2012).
 - مقالات في *Journal of the American Academy of Child and Adolescent Psychiatry*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

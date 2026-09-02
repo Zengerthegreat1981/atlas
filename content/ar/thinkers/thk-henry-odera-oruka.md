@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-sage-philosophy", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy* (1990) بترجمة عربية معتمدة."
 ---
 
 # هنري أوديرا أوروكا
@@ -41,7 +41,3 @@ gaps:
 - *Trends in Contemporary African Philosophy* (1990).
 - *Practical Philosophy: In Search of an Ethical Minimum* (1997).
 - *Punishment and Terrorism in Africa* (1985).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

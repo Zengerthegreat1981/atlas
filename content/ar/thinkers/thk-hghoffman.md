@@ -19,7 +19,7 @@ related:
 - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "تيار"
 gaps:
   - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Virtual Reality as an Adjunctive Non-pharmacologic Analgesic* (2004) بترجمة عربية معتمدة."
 ---
 
 # هنتر هوفمان

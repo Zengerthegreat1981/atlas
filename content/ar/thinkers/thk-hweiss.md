@@ -40,7 +40,3 @@ gaps:
 ## أهم أعماله
 
 - *Hakomi Mindfulness-Centered Somatic Psychotherapy: A Comprehensive Guide to Theory and Practice* (2015، تحرير مع غريغوري جوهانسون ولورينا موندا).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

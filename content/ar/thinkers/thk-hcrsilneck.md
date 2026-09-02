@@ -16,8 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "فرع"
 related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Clinical Hypnosis: Principles and Applications* (1975) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: آسين علادين (thk-aalladin)."
   - "رابط أُزيل: تريفور سيلفستر (thk-tsilvester) — كان مرتبطاً بالتصنيف الخاطئ الذي صُحِّح أدناه."
 ---

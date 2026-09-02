@@ -19,8 +19,8 @@ related:
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 - id: "con-psychological-type", title: "الأنماط النفسية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Integrity in Depth* (1992) بترجمة عربية معتمدة."
+  - "لم تُراجع الطبعة الأصلية من *Energies and Patterns in Psychological Type* (2017)."
 ---
 
 # جون بيب

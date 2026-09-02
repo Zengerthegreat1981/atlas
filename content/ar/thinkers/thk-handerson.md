@@ -22,8 +22,7 @@ related:
 - id: "thk-ppenn", title: "بيغي بِن", type: "مفكر"
 - id: "rel-postmodern-systemic", title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة", type: "علاقة بين مدرستين"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Conversation, Language, and Possibilities* (1997) بترجمة عربية معتمدة."
 ---
 
 # هارلين أندرسون
@@ -49,7 +48,3 @@ gaps:
 
 - *Conversation, Language, and Possibilities* (1997).
 - *Collaborative Therapy: Relationships and Conversations That Make a Difference* (2007، تحرير مع ديان غيهارت).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

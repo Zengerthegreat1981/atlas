@@ -17,8 +17,7 @@ related:
 - id: "thk-hliddle-clin", title: "كريغ هندرسون", type: "مفكر"
 - id: "thk-jpatterson", title: "جيرالد باترسون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Multidimensional Family Therapy for Adolescent Drug Abuse: Clinical Manual* (2009) بترجمة عربية معتمدة."
   - "لا سلطة معتمدة (sch-/br-) لـ«MDFT» في فهرس الأطلس حالياً؛ أُفرغت edges بدل استخدام النص الحر السابق."
   - "الرابط السابق إلى thk-brosen (برنارد روزن) حُذف — الشخص محجور، لا مؤلَّف أو بحث مستقل موثَّق باسمه."
 ---
@@ -47,7 +46,3 @@ gaps:
 - *Multidimensional Family Therapy for Adolescent Cannabis Users* (2002) — الدليل المقنَّن ضمن سلسلة CYT التابعة لـSAMHSA.
 - *Multidimensional Family Therapy for Adolescent Drug Abuse: Clinical Manual* (2009).
 - سلسلة تجارب عشوائية مضبوطة منذ التسعينيات هي أساس إدراج MDFT في السجلّات الدولية للبرامج القائمة على الأدلة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -19,7 +19,7 @@ related:
 - id: "thk-iprogoff", title: "إيرا بروغوف", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Artist's Way: A Spiritual Path to Higher Creativity* (1992) بترجمة عربية معتمدة."
 ---
 
 # جوليا كاميرون
@@ -43,7 +43,3 @@ gaps:
 - *The Right to Write* (1998).
 - *Walking in This World* (2002).
 - *It's Never Too Late to Begin Again* (2016).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

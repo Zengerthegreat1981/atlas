@@ -21,7 +21,7 @@ related:
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Narrative Therapy: The Social Construction of Preferred Realities* (1996) بترجمة عربية معتمدة."
 ---
 
 # جيل فريدمان
@@ -42,7 +42,3 @@ gaps:
 
 - *Narrative Therapy: The Social Construction of Preferred Realities* (1996، مع جين كومبز) — عملهما المرجعي.
 - *Narrative Therapy with Couples… and a Whole Lot More!* (2002، معه).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

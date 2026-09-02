@@ -20,7 +20,7 @@ related:
 - id: "con-sexual-difference", title: "الاختلاف الجنسي", type: "مفهوم"
 gaps:
   - "نصوص Irigaray (Speculum of the Other Woman, This Sex Which Is Not One) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Speculum de l'autre femme* (1974) بترجمة عربية معتمدة."
   - "دُمج معه الملف المكرَّر thk-luce-irigaray (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 

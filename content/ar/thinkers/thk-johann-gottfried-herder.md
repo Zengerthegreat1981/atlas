@@ -17,7 +17,7 @@ edges:
 related:
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Abhandlung über den Ursprung der Sprache* (1772) بترجمة عربية معتمدة."
 ---
 
 # يوهان غوتفريد فون هردر
@@ -42,7 +42,3 @@ gaps:
 - *Auch eine Philosophie der Geschichte* (1774).
 - *Volkslieder* (الأغاني الشعبية، 1778–79).
 - *Ideen zur Philosophie der Geschichte der Menschheit* (أفكار في فلسفة تاريخ الإنسانية، 1784–91).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

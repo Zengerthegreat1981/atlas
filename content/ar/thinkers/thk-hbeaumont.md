@@ -19,8 +19,7 @@ related:
 - id: "thk-gweber", title: "غونتهارد فيبر", type: "مفكر"
 - id: "thk-jjoyce", title: "مارغريت بِي", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Toward a Spiritual Psychotherapy: Soul as a Dimension of Experience* (2012) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بِي (thk-jjoyce)."
 ---
 
@@ -46,7 +45,3 @@ gaps:
 
 - *Love's Hidden Symmetry: What Makes Love Work in Relationships* (1998، مع بيرت هلنغر وغونتهارد فيبر).
 - *Toward a Spiritual Psychotherapy: Soul as a Dimension of Experience* (2012).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

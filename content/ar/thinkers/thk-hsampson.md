@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-jweiss", title: "جوزيف وايس", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Psychoanalytic Process: Theory, Clinical Observation, and Empirical Research* (1986) بترجمة عربية معتمدة."
   - "تفاصيل مسيرته المبكرة قبل مجموعة ماونت زايون لم تُراجع من مصدر أولي."
 ---
 
@@ -44,7 +44,3 @@ gaps:
 
 - *The Psychoanalytic Process: Theory, Clinical Observation, and Empirical Research* (1986، مع جوزيف وايس ومجموعة ماونت زايون).
 - أوراق منهجية في صياغة الخطّة وتشفير الجلسات، منشورة في *Psychotherapy Research* و*Journal of Consulting and Clinical Psychology*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

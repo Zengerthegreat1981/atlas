@@ -18,7 +18,7 @@ related:
 - id: "con-modern-conflict", title: "نظرية الصراع الحديث (Modern Conflict Theory)", type: "مفهوم"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *An Elementary Textbook of Psychoanalysis* (1955) بترجمة عربية معتمدة."
 ---
 
 # تشارلز برينر

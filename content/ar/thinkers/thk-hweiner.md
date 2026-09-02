@@ -19,7 +19,7 @@ related:
 - id: "thk-gengel", title: "جورج إنغل", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Psychobiology and Human Disease* (1977) بترجمة عربية معتمدة."
 ---
 
 # هربرت فاينر
@@ -41,7 +41,3 @@ gaps:
 
 - *Psychobiology and Human Disease* (1977).
 - *Perturbing the Organism: The Biology of Stressful Experience* (1992).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

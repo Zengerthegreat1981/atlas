@@ -19,7 +19,7 @@ related:
 - id: "thk-seyberg", title: "ستيفن إيبِرغ", type: "مفكر"
 gaps:
   - "بيانات السيرة الكاملة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Parent-Child Interaction Therapy* (1999) بترجمة عربية معتمدة."
 ---
 
 # شيرلي إِيبِرغ
@@ -43,7 +43,3 @@ gaps:
 - *Eyberg Child Behavior Inventory* (1980).
 - *Parent-Child Interaction Therapy* (1999، مع كالب).
 - *Research Updates on PCIT* (متعدد السنوات).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

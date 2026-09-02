@@ -19,8 +19,7 @@ related:
 - id: "thk-tpichot", title: "تيري بيشو", type: "مفكر"
 - id: "thk-ydolan", title: "يفون دولان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Interviewing for Solutions* (1997) بترجمة عربية معتمدة."
 ---
 
 # إنسو كيم بيرغ
@@ -45,7 +44,3 @@ gaps:
 - *Interviewing for Solutions* (1997، مع بيتر دي يونغ) — الكتاب المقرّر الأوسع استعمالاً في تدريس المنهج، وقد صدرت منه طبعات متعاقبة.
 - *Tales of Solutions: A Collection of Hope-Inspiring Stories* (2001، مع إيڤون دولان).
 - *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy* (2007، مع ستيف دي شيزر وإيڤون دولان، صدر بعد وفاتهما).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

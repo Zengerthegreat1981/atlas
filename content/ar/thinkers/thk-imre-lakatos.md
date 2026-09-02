@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Proofs and Refutations* (1976) بترجمة عربية معتمدة."
 ---
 
 # إيمري لاكاتوش
@@ -44,7 +44,3 @@ gaps:
 - *Proofs and Refutations* (براهين وتفنيدات، 1963–64، كتاباً 1976).
 - *Falsification and the Methodology of Scientific Research Programmes* (1970).
 - *The Methodology of Scientific Research Programmes* (أوراق فلسفية، 1978).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

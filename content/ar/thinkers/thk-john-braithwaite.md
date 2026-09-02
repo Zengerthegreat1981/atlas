@@ -24,7 +24,7 @@ related:
 - id: "thk-tom-cornwell", title: "توم كورنول", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Crime, Shame and Reintegration* (1989) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إريك پيرسون (thk-erikpearson)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاكلين پيرت (thk-jacqueline-peart)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: نانسي هارنِس (thk-nancy-harness)."
@@ -57,7 +57,3 @@ gaps:
 - *Responsive Regulation: Transcending the Deregulation Debate* (1992، مع إيان أيرز).
 - *Not Just Deserts: A Republican Theory of Criminal Justice* (1990، مع فيليب بيتيت).
 - *Restorative Justice and Responsive Regulation* (2002).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

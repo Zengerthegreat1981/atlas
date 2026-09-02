@@ -24,7 +24,7 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ديفيد مالان (thk-malan)"
   - "سنة الميلاد الدقيقة 1927 مؤرَّخة من مصادر ثانوية ولم تُراجع من سيرة ذاتية منشورة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Unlocking the Unconscious* (1990) بترجمة عربية معتمدة."
   - "تاريخ الوفاة كان مثبَّتاً خطأً في نسخة سابقة على 2016 (ومصادر أخرى ذكرت 2018)؛ المصادر المتاحة (تأبين كلية الطب النفسي بجامعة ماكغيل في American Journal of Psychotherapy، 2024) تذكر وفاته في نوفمبر 2023 عن عمر 96 عاماً."
 ---
 
@@ -50,7 +50,3 @@ gaps:
 - «العلاج النفسي الديناميكي قصير المدى» (Short-Term Dynamic Psychotherapy, 1980).
 - «**فتح اللاوعي: منظوم علاجي متكامل**» (Unlocking the Unconscious: A Foundational Clinical and Theoretical Framework for the Psychotherapy of Resistance, 1990).
 - «**العلاج المكثف قصير المدى: النظرية والتقنية**» (Intensive Short-Term Dynamic Psychotherapy: Theory and Technique, 2001).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

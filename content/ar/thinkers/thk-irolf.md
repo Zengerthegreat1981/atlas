@@ -22,7 +22,7 @@ related:
 - id: "thk-tmyers", title: "توماس مايرز", type: "مفكر"
 gaps:
   - "تفاصيل عملها المبكر في مؤسسة روكفلر وأبحاثها في الكيمياء الحيوية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Rolfing: The Integration of Human Structures* (1977) بترجمة عربية معتمدة."
 ---
 
 # إيدا رولف
@@ -48,6 +48,3 @@ gaps:
 - *Rolfing: The Integration of Human Structures* (1977).
 - *Rolfing and Physical Reality* (1978).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -18,7 +18,7 @@ related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Bread & Spirit: Therapy with the New Poor* (1994) بترجمة عربية معتمدة."
 ---
 
 # هاري أبونت
@@ -40,7 +40,3 @@ gaps:
 
 - *Bread & Spirit: Therapy with the New Poor — Diversity of Race, Culture, and Values* (1994) — أهم كتبه، وفيه يجادل بأن علاج الأسر الفقيرة لا يُفهم دون إدخال الحرمان المادي والثقافة والدين في التكوين العلاجي نفسه.
 - *The Person of the Therapist Training Model: Mastering the Use of Self* (2016، مع كارني كيسيل / Karni Kissil).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

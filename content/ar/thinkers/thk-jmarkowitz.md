@@ -20,7 +20,7 @@ related:
 - id: "thk-lhecker", title: "لويس هِكَر", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Learning IPT: A Time-Limited Psychotherapy* (2010) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لويس هِكَر (thk-lhecker)."
 ---
 
@@ -47,7 +47,3 @@ gaps:
 - *Comprehensive Guide to Interpersonal Psychotherapy* (2000، مع وايسمان وكليرمان).
 - *Casebook of Interpersonal Psychotherapy* (2012، تحرير مع وايسمان).
 - "Is Exposure Necessary? A Randomized Clinical Trial of Interpersonal Psychotherapy for PTSD" (2015)، *American Journal of Psychiatry*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -17,8 +17,7 @@ edges:
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Revisioning Transpersonal Theory* (2002) بترجمة عربية معتمدة."
 ---
 
 # خورخي فيرير
@@ -43,7 +42,3 @@ gaps:
 - *Revisioning Transpersonal Theory: A Participatory Vision of Human Spirituality* (2002).
 - *The Participatory Turn: Spirituality, Mysticism, Religious Studies* (2008، تحرير مع جيكوب شيرمان).
 - *Participation and the Mystery: Transpersonal Essays in Psychology, Education, and Religion* (2017).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

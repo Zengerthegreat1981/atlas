@@ -19,7 +19,7 @@ related:
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "edges.belongs_to كان نصاً حراً بدل slug حقيقي؛ صُحِّح إلى br-sotp."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Handbook of Sexual Assault* (1990) بترجمة عربية معتمدة."
 ---
 
 # هوارد بارباري
@@ -41,7 +41,3 @@ gaps:
 - *Handbook of Sexual Assault: Issues, Theories, and Treatment of the Offender* (1990، تحرير مع وليام مارشال ودونالد لوز) — المرجع المؤسِّس للحقل.
 - *The Juvenile Sex Offender* (الطبعة الثانية 2006، تحرير مع وليام مارشال).
 - *The Causes of Rape: Understanding Individual Differences* (1991، مع مارشال ولوز).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

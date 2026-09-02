@@ -19,8 +19,8 @@ related:
 - id: "thk-mnaumburg", title: "مارغريت نومبورغ", type: "مفكر"
 - id: "thk-ahill", title: "أدريان هيل", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Family Therapy and Evaluation Through Art* (1978) بترجمة عربية معتمدة."
+  - "سنة نشر *The Use of Art in Evaluation and Therapy* لم تُوثّق."
 ---
 
 # هانا كفياتكوفسكا
@@ -43,7 +43,3 @@ gaps:
 - "Family art therapy" (1967, *Family Process*) — الورقة التي أدخلت الفن إلى العلاج الأسري.
 - *Family Therapy and Evaluation Through Art* (1978) — كتابها المرجعي.
 - *The Use of Art in Evaluation and Therapy* — من عملها في المعهد الوطني للصحة النفسية (NIMH) حيث طوّرت الطريقة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

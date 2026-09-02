@@ -21,7 +21,7 @@ related:
 - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Making Recovery a Reality* (2008) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."
 ---
 
@@ -44,7 +44,3 @@ gaps:
 
 - *Making Recovery a Reality* (2008، مع جِد بوردمان ومايك سليد).
 - *Implementing Recovery through Organisational Change: A Methodology for Organisational Change* (2010، مع بوردمان وبيرتش).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

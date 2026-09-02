@@ -18,7 +18,7 @@ related:
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
 - id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Verbal Judo: The Gentle Art of Persuasion* (1993) بترجمة عربية معتمدة."
   - "تم التحقق عبر Condor Security وPolice1 وVerbaljudo.com من أنه وُلد سنة 1942 (وليس 1943 كما ورد في مسوّدة سابقة) وتوفي في 7 يونيو 2011؛ مؤسس معهد الجودو اللفظي (Verbal Judo Institute) وضابط شرطة سابق وأستاذ بلاغة."
 ---
 

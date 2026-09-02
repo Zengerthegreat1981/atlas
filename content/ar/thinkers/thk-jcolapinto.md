@@ -19,7 +19,7 @@ related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Intersubjective Mirror in Family Therapy* (2017) بترجمة عربية معتمدة."
 ---
 
 # خورخي كولابينتو
@@ -41,7 +41,3 @@ gaps:
 
 - *Structural Family Therapy in Child Psychiatry* (مساهم، 1983).
 - *The Intersubjective Mirror in Family Therapy* (2017).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

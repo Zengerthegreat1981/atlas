@@ -19,8 +19,7 @@ related:
 - id: "thk-rmritchie", title: "رالف ميتزنر", type: "مفكر"
 - id: "stu-lilly-sensory-deprivation-tank", title: "دراسات جون ليلي الأولى في الحرمان الحسي وخزانات الطفو", type: "دراسة وبحث"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *The Center of the Cyclone* (1972) بترجمة عربية معتمدة."
 ---
 
 # جون لِلي
@@ -48,7 +47,3 @@ gaps:
 - *The Center of the Cyclone* (1972).
 - *Programming and Metaprogramming in the Human Biocomputer* (1968).
 - *The Dyadic Cyclone* (1976).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

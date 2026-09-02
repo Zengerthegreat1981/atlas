@@ -18,7 +18,7 @@ related:
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Black and White Racial Identity* (1990) بترجمة عربية معتمدة."
 ---
 
 # جانيت هيلمز
@@ -39,7 +39,3 @@ gaps:
 
 - *Black and White Racial Identity* (1990).
 - *A Race Is a Nice Thing to Have* (2007).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

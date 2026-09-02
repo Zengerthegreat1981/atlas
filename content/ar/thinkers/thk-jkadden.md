@@ -17,7 +17,7 @@ related:
 - id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *A Cognitive-Behavioral Approach: Treating Cocaine Addiction* (1998) بترجمة عربية معتمدة."
 ---
 
 # كاثلين كاري

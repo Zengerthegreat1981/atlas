@@ -22,7 +22,7 @@ related:
 - id: "con-somatic-memory", title: "الذاكرة الجسدية", type: "مفهوم"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Anxious: Using the Brain to Understand and Treat Fear and Anxiety* (2015) بترجمة عربية معتمدة."
   - "دُمج معه الملف المكرَّر thk-emotional-brain-j-ledoux (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -47,7 +47,3 @@ gaps:
 - *Anxious: Using the Brain to Understand and Treat Fear and Anxiety* (2015) — وفيه أوضح صياغة لتصحيحه المتأخّر.
 - *The Deep History of Ourselves* (2019).
 - *The Four Realms of Existence* (2023).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -24,7 +24,7 @@ related:
 - id: "thk-jroddy", title: "ج. لوك ويلز", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The TEACCH Approach to Autism Spectrum Disorders* (2005) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون مارش (thk-cwhitaker-pt)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ف. كي. فو (thk-fkfu)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ج. لوك ويلز (thk-jroddy)."
@@ -50,7 +50,3 @@ gaps:
 
 - *The TEACCH Approach to Autism Spectrum Disorders* (2005، مع ڤيكتوريا شيا وإريك شوبلر).
 - *Autism Spectrum Disorders in Adolescence and Beyond* (محرر، 2013).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

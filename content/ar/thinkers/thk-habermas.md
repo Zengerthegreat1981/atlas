@@ -25,7 +25,7 @@ related:
 - id: "ctx-frankfurt-school-weimar-exile", title: "مدرسة فرانكفورت وصدمة الفاشية وتأسيس النظرية النقدية", type: "سياق/تقليد"
 gaps:
   - "نصوص Habermas (Theorie des kommunikativen Handelns, Faktizität und Geltung) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
 # يورغن هابرماس

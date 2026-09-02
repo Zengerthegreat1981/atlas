@@ -15,8 +15,8 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Sensory Integration and the Child* (1979) بترجمة عربية معتمدة."
+  - "لم تُراجع الطبعة الأصلية من *Sensory Integration and Learning Disorders* (1972)."
 ---
 
 # جين أَيرس
@@ -44,7 +44,3 @@ gaps:
 
 - *Sensory Integration and Learning Disorders* (1972).
 - *Sensory Integration and the Child* (1979).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

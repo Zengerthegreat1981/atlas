@@ -17,7 +17,7 @@ related:
 - id: "thk-johnmcintosh", title: "جون ماكنتوش", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Grief After Suicide: Understanding the Consequences and Caring for the Survivors* (2011) بترجمة عربية معتمدة."
 ---
 
 # جون آر. جوردان
@@ -42,7 +42,3 @@ gaps:
 - *Grief After Suicide: Understanding the Consequences and Caring for the Survivors* (2011، تحرير مشترك مع جون ماكنتوش).
 - \"Is Suicide Bereavement Different? A Reassessment of the Literature\" (2001)، *Suicide and Life-Threatening Behavior*.
 - *Devastating Losses: How Parents Cope with the Death of a Child to Suicide or Drugs* (2012، مع ويليام فيغل وآخرين).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

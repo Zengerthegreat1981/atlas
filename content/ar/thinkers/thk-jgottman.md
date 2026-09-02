@@ -21,8 +21,7 @@ related:
 - id: "wrk-seven-principles-marriage", title: "المبادئ السبعة لنجاح الزواج", type: "عمل / كتاب"
 gaps:
   - "edges أُفرغت: target السابق \"طريقة غوتمان الزوجية\" نص حرّ لا يقابله slug معتمد في content/ar/schools أو content/ar/branches."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *Why Marriages Succeed or Fail* (1994) بترجمة عربية معتمدة."
   - "تصحيح عنوان الرابط: id thk-jgottman-sr يخصّ فعلياً جولي شوارتز غوتمان (زوجته) لا 'جوليا غوتمان' كما كان مكتوباً."
 ---
 
@@ -52,7 +51,3 @@ gaps:
 - *The Relationship Cure* (2001).
 - *And Baby Makes Three* (2007).
 - *The Science of Trust* (2011).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

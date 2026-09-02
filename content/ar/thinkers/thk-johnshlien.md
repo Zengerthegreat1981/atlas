@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-person-centered", target_type: "تيار"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
 # جون شلين
@@ -38,7 +38,3 @@ gaps:
 
 - *Client-Centered Therapy* (فصول في كتب جماعية).
 - أبحاث في *Journal of Counseling Psychology* و*Person-Centered Review*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

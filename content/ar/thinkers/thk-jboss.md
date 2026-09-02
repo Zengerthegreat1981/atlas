@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "tec-tre", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *The Revolutionary Trauma Release Process* (2008) بترجمة عربية معتمدة."
   - "تعارض هوية: الـslug (thk-jboss) يشير إلى شخص، وحقل en يقول «David Berceli». يحتاج تحقيقاً وقراراً بإعادة التسمية أو تصحيح المحتوى — لا تُصلَح آلياً لأن إعادة تسمية الـslug تكسر الروابط."
 ---
 
@@ -41,7 +41,4 @@ gaps:
 - *Shaking &amp; Stretching* (2012).
 - *The Revolutionary Trauma Release Process* (2008).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
 ---

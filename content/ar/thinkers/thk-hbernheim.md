@@ -19,8 +19,7 @@ related:
 - id: "thk-afaria", title: "أبِي فاريا", type: "مفكر"
 - id: "thk-aliebeault", title: "أمبرواز ليبو", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد اقتباس مباشر موثوق من *De la suggestion dans l'état hypnotique et dans l'état de veille* (1884) بترجمة عربية معتمدة."
 ---
 
 # هيبوليت برنهايم
@@ -46,7 +45,3 @@ gaps:
 
 - *De la suggestion dans l'état hypnotique et dans l'état de veille* (1884).
 - *Hypnotisme, suggestion, psychothérapie* (1891).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

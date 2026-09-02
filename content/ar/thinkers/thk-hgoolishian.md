@@ -23,7 +23,7 @@ related:
 - id: "thk-ppenn", title: "بيغي بِن", type: "مفكر"
 gaps:
   - "تفاصيل الفترة في مركز Galveston لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق من *Human Systems as Linguistic Systems* (1988) بترجمة عربية معتمدة."
 ---
 
 # هاري غوليشيان
@@ -46,7 +46,3 @@ gaps:
 
 - "Human Systems as Linguistic Systems: Preliminary and Evolving Ideas about the Implications for Clinical Theory" (1988, *Family Process*، مع هارلين أندرسون) — الورقة التي عرّفت التيار.
 - "Beyond Cybernetics: Comments on Atkinson and Heath's Further Thoughts on Second-Order Family Therapy" (1990، مع أندرسون).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
