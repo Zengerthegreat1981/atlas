@@ -10,7 +10,7 @@ crumb: "عصر التنوير والفلسفة الفرنسية ← السياق
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-european-enlightenment", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
 related:
 - id: "thk-diderot", title: "دنيس ديدرو", type: "مفكر"
 - id: "thk-voltaire", title: "فولتير", type: "مفكر"

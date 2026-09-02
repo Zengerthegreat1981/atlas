@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← الأعمال ← فلس�
 active_start: 1923
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-philosophy-symbolic-forms", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-neokantian", target_type: "مدرسة"
 related:
 - id: "thk-cassirer", title: "إرنست كاسيرر", type: "مفكر"
 - id: "thk-langer", title: "سوزان لانغر", type: "مفكر"

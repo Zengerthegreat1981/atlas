@@ -10,7 +10,7 @@ crumb: "الفلسفة الأخلاقية والنظرية النقدية ← ا
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-critical-theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-frankfurt-school", target_type: "مدرسة"
 related:
 - id: "thk-arendt", title: "حنة أرندت", type: "مفكر"
 - id: "thk-adorno", title: "تيودور أدورنو", type: "مفكر"

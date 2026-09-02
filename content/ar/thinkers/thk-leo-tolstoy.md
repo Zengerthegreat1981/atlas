@@ -12,7 +12,7 @@ crumb: "الفلسفة الوجودية والأدب الروسي ← رواد �
 active_start: 1852
 active_end: 1910
 edges:
-- rel: "belongs_to", target: "sch-existentialism-theistic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
 related:
 - id: "exp-tolstoy-midlife-crisis", title: "أزمة منتصف العمر عند تولستوي", type: "خبرة معيشة"
 - id: "ctx-late-tsarist-russia-intelligentsia", title: "روسيا القيصرية المتأخرة وصراع السلافوفيليا والتغريب والعدمية", type: "سياق/تقليد"

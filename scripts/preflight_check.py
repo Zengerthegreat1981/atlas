@@ -163,6 +163,23 @@ def check_broken_yaml(raw_text, issues):
             issues.append(f"سطر {i}: صيغة YAML مكسورة (= بدل :) — \"{line.strip()}\"")
 
 
+_ALL_SLUGS_CACHE = None
+
+
+def _slug_exists_anywhere(slug):
+    """هل للslug ملف فعلي؟ يشمل `drafts/` عن قصد: الربط بـslug في المسودات اعتماد بانتظار
+    الترقية (106 حالة قائمة في المعتمد)، لا خطأ. المرفوض هو الاسم الذي لا ملف له إطلاقاً."""
+    global _ALL_SLUGS_CACHE
+    if _ALL_SLUGS_CACHE is None:
+        _ALL_SLUGS_CACHE = set()
+        for root, dirs, files in os.walk(CONTENT_AR):
+            dirs[:] = [d for d in dirs if not d.startswith(".")]
+            for fn in files:
+                if fn.endswith(".md"):
+                    _ALL_SLUGS_CACHE.add(fn[:-3])
+    return slug in _ALL_SLUGS_CACHE
+
+
 EDGES_TARGET_RE = re.compile(r'target:\s*"([^"]+)"')
 SLUG_SHAPE_RE = re.compile(r'^[a-z]{2,5}-[a-z0-9-]+$')
 
@@ -180,6 +197,14 @@ def check_edges_target(raw_text, issues):
         target = tm.group(1)
         if not SLUG_SHAPE_RE.match(target):
             issues.append(f'edges: target "{target}" مش شكله slug حقيقي (زي sch-x أو br-x) — يُحذف الرابط أو يُستبدل بslug موجود فعلاً، ما يُتركش نصاً حراً')
+        elif not _slug_exists_anywhere(target):
+            # فحص الوجود، لا الشكل فقط. قبل 2026-09-02 كان الفحص يتحقق من **شكل** الهدف وحده،
+            # فيمرّ أي slug مكتوب صحيحاً لكن لا ملف له — رابط معلَّق صامت. القياس وقتها: 37 إشارة
+            # إلى 26 slug غير موجود، وأكثرها أخطاء كتابة قريبة من slug حقيقي (br-aba مقابل
+            # br-aba-autism، sch-developmental-psychology مقابل sch-developmental، br-feldenkrais
+            # مقابل sch-feldenkrais). المسودات مقبولة كهدف: 106 ملفاً معتمداً يشاور على slugs في
+            # المسودات بانتظار الترقية، وهو اصطلاح قائم لا خطأ.
+            issues.append(f'edges: target "{target}" شكله slug صحيح لكن لا يوجد ملف بهذا الاسم في content/ar (رابط معلَّق) — صحّح الاسم أو احذف الرابط')
 
 
 def check_gender_headers(raw_text, node, issues):

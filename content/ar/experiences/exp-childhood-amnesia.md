@@ -11,7 +11,7 @@ active_start: 1899
 active_start_estimate: true
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-developmental-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
