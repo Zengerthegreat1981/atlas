@@ -19,8 +19,7 @@ related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-hegel", title: "هيغل", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "قائمة مؤلفاته تتجاوز 60 عنواناً؛ لم يُثبَّت هنا سوى الأبرز، وتواريخ الترجمات العربية غير مثبتة."
 ---
 
 # سلافوي جيجك
@@ -40,4 +39,10 @@ gaps:
 
 ## أهم أعماله
 
-«الشيء الأسمى في الأيديولوجيا» (The Sublime Object of Ideology, 1989) · «كل ما كنتَ تريد دائماً معرفته عن Lacan (لكنك كنتَ خائفاً من أن تسأل هيتشكوك)» (Everything You Always Wanted to Know about Lacan, 1992) · «الفوضى، الحضارة، البروليتاريا» (In Defense of Lost Causes, 2008).
+«الشيء الأسمى في الأيديولوجيا» (The Sublime Object of Ideology, 1989) · «كل ما كنتَ تريد دائماً معرفته عن لاكان (لكنك كنتَ خائفاً من أن تسأل هيتشكوك)» (Everything You Always Wanted to Know About Lacan (But Were Afraid to Ask Hitchcock), 1992، تحرير جيجك) · «دفاعاً عن قضايا خاسرة» (In Defense of Lost Causes, 2008).
+
+## المصادر
+
+- Žižek, Slavoj. *The Sublime Object of Ideology*. Verso, 1989.
+- Žižek, Slavoj (ed.). *Everything You Always Wanted to Know About Lacan (But Were Afraid to Ask Hitchcock)*. Verso, 1992.
+- Žižek, Slavoj. *In Defense of Lost Causes*. Verso, 2008.

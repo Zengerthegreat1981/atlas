@@ -16,11 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
 - id: "thk-reker", title: "غاري ريكر", type: "مفكر"
 - id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
 ---
 
@@ -50,4 +49,10 @@ gaps:
 
 ## أهم أعماله
 
-بحث الإنسان عن المعنى: دليل في البحث النفسي والتطبيقات الإكلينيكية (The Human Quest for Meaning, 1998 (ط٢ بعنوان معدَّل 2012)) · دليل المنظورات متعددة الثقافات في الضغط النفسي والمواجهة (مع وونغ) (Handbook of Multicultural Perspectives on Stress and Coping, 2006) · علم النفس الإيجابي للمعنى والروحانية (مع فراي) (The Positive Psychology of Meaning and Spirituality, 1998)
+بحث الإنسان عن المعنى: دليل في البحث النفسي والتطبيقات الإكلينيكية (The Human Quest for Meaning, 1998 (ط٢ بعنوان معدَّل 2012)) · دليل المنظورات متعددة الثقافات في الضغط النفسي والمواجهة (محرراً، Handbook of Multicultural Perspectives on Stress and Coping, 2006) · علم النفس الإيجابي للمعنى والروحانية (مع بول فراي، The Positive Psychology of Meaning and Spirituality, 1998)
+
+## المصادر
+
+- Wong, P. T. P. (Ed.) (2012). *The Human Quest for Meaning: Theories, Research, and Applications* (2nd ed.). Routledge.
+- Wong, P. T. P., & Fry, P. S. (Eds.) (1998). *The Human Quest for Meaning: A Handbook of Psychological Research and Clinical Applications*. Lawrence Erlbaum.
+- Trent University / International Network on Personal Meaning — صفحة السيرة الأكاديمية الرسمية.

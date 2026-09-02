@@ -26,8 +26,7 @@ related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "ctx-ancient-athens-agora", title: "الأغورا الأثينية والحوار السقراطي في الديمقراطية الكلاسيكية", type: "سياق/تقليد"
 gaps:
-  - "تحليل كيركيغارد للتهكم السقراطي (The Concept of Irony) يستحق توثيقاً مستقلاً في الأعمال."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد نص كتبه سقراط نفسه (مسألة سقراط - Socratic Problem)؛ كل ما نعرفه منقول عن أفلاطون وإكسينوفون وأرسطوفانيس، وتتفاوت هذه المصادر في تصويرها له."
 ---
 
 # سقراط
@@ -52,3 +51,10 @@ gaps:
 ## اقتباسات مختارة
 
 «الحياة التي لا تُفحص لا تستحق أن تُعاش.» — الدفاع (نقلاً عن أفلاطون)، ح. 399 ق.م
+
+## المصادر
+
+- أفلاطون، *محاورة الدفاع (Apology)*، ترجمات متعددة.
+- Vlastos, G., *Socrates: Ironist and Moral Philosopher*, Cambridge: Cambridge University Press, 1991.
+- Kierkegaard, S., *The Concept of Irony, with Continual Reference to Socrates*, 1841 (أطروحته حول التهكم السقراطي).
+- "Socrates," *The Stanford Encyclopedia of Philosophy*, plato.stanford.edu.

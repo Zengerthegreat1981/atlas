@@ -13,11 +13,11 @@ language: "الدوجونية، الفرنسية"
 active_start: 900
 active_end: "مستمر"
 active_source: "lifespan"
+cultural_origin: "african"
 edges:
-- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
-- id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
-- id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
+- id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
+- id: "sch-akan", title: "فلسفة الأكان (غانا)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«Marcel Griaule» (sch-gramel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Dogon الأصلية (Griaule وDieterlen) تحتاج مراجعة من المصدر الأولي."
@@ -53,3 +53,9 @@ gaps:
 
 - تفسيرات Griaule (عن نجوم Sirius B) انتُقدت من قبل بعض الأنثروبولوجيين المعاصرين.
 - ترجمة شفهية دائماً عرضة للتشويش.
+
+## المصادر
+
+- Griaule, M. (1948). *Dieu d'eau: entretiens avec Ogotemmêli*. Éditions du Chêne.
+- Griaule, M., & Dieterlen, G. (1965). *Le Renard pâle*. Institut d'Ethnologie.
+- Van Beek, W. E. A. (1991). "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule". *Current Anthropology*, 32(2).

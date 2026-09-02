@@ -10,19 +10,17 @@ active_start: 1992
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
-- id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
 gaps:
   - "ما إذا كان وامبولد قد قرأ Wampold & Imel (2015، *The Great Psychotherapy Debate*) — بالطبع نعم، لكن التطور الداخلي لرأيه في Common Factors لم يُوثّق بدقة."
   - "حجة 'Dodo Bird Verdict' (Rosenzweig، 1936) — التفاصيل الأصلية والتطور التاريخي."
   - "لا يوجد اقتباس مباشر موثوق متاح من بيك عن نظرية العامل المشترك."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كارل دي كليمنتي (thk-diclemente)."
 ---
 
 # التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة

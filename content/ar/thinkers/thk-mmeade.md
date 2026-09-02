@@ -18,7 +18,6 @@ related:
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الـphantom slug thk-campbell (جوزيف كامبل) أُزيل من related — لا يوجد ملف مطابق في الأطلس؛ الملف الوحيد القريب هو thk-campbell-purton، وهو شخص مختلف (كامبل پيرتون، ليس جوزيف كامبل)."
 ---
 
@@ -39,4 +38,10 @@ gaps:
 
 ## أهم أعماله
 
-«القدر والمصير» (Fate and Destiny, 2010) · «الذكاء والموت» (The Genius of Women, 2013) · «لماذا العالم لا ينتهي» (The World Doesn't End, 2010).
+«القدر والمصير» (Fate and Destiny, 2010) · «عبقرية النساء» (The Genius of Women, 2013) · «لماذا العالم لا ينتهي» (The World Doesn't End, 2010).
+
+## المصادر
+
+- Meade, M. (2010). *Fate and Destiny: The Two Agreements of the Soul*.
+- Meade, M. (2010). *The World Behind the World: Living at the Ends of Time* (نُشر أيضاً بعنوان The World Doesn't End).
+- Mosaic Multicultural Foundation — صفحة السيرة الرسمية (مؤسِّس ومدير).

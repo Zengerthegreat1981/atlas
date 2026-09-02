@@ -5,42 +5,45 @@ type: "مفكر"
 level: "متوسط"
 title: "لي مينغ شنغ"
 en: "Li Mingsheng"
-crumb: "الطاوية المعرفية ← تطوير ← لي مينغ شنغ"
-dates: "الصين · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← لي مينغ شنغ"
+dates: "الصين · [غير مؤكد]"
 country: "الصين"
 language: "الصينية"
-active_start: 2010
-active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
-related:
-- id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
-- id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-mingshengli.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # لي مينغ شنغ
 
-باحث صيني في علم النفس، شارك في أبحاث تطبيقية حول **العلاج المعرفي الطاوي** كأداة للتعامل مع اضطرابات القلق لدى طلبة الجامعات الصينية.
+(Li Mingsheng)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-mingshengli.md.archived.2026-08-26`
 
-- مساهمات في **دراسات ميدانية** عن فعالية العلاج المعرفي الطاوي في بيئات طلابية.
-- أبحاث مقارنة بين **العلاج المعرفي الطاوي** و**العلاج المعرفي السلوكي** في علاج القلق.
-- محاضرات عن **تأصيل علم النفس** في السياق الصيني.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-يتميّز لي مينغ شنغ بمحاولته تقديم **أدلة تجريبية معشاة** للعلاج المعرفي الطاوي، وهو ما يُعدّ من أهم التحدّيات المنهجية التي تواجه المدرسة في سياق البحث الأكاديمي الدولي.
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## أهم أعماله
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-- أبحاث منشورة في دوريات صينية مثل *Psychological Science* (الصين).
+## للمتابعة
 
-## اقتباسات مختارة
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-mingshengli.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-mingshengli.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

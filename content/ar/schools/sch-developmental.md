@@ -14,9 +14,8 @@ active_start: 1882
 active_end: "مستمر"
 register: "academic"
 evidence_level: "well-established"
+cultural_origin: "anglo-american"
 edges:
-- rel: "evolved_from", target: "علم النفس الفيزيولوجي", target_type: "مدرسة"
-- rel: "evolved_from", target: "البنائية (Constructivism)", target_type: "مدرسة"
 - rel: "split_into", target: "br-attachment-theory", target_type: "تيار"
 - rel: "split_into", target: "br-cognitive-development", target_type: "تيار"
 - rel: "split_into", target: "br-psychosocial-development", target_type: "تيار"
@@ -50,7 +49,6 @@ gaps:
   - "بعض الأسماء المتخصصة في النمو المبكر (مثل: Andrew Meltzoff، Patricia Kuhl) تحتاج فصولاً مستقلة."
   - "التفريق بين 'علم النفس النمائي' (developmental) و'علم النفس عبر العمري' (lifespan) في الأدبيات الحديثة غير موحَّد."
   - "التقسيمات الفرعية للتطور (نفسي-اجتماعي، أخلاقي، معرفي، لغوي) تحتاج فصلاً مستقلاً في `br-`."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 # علم النفس النمائي (Developmental Psychology)
 
@@ -116,7 +114,7 @@ gaps:
 - التطور الأخلاقي ↔ العلاج الأخلاقي، العلاج القائم على القيم.
 - التطور النفسي-اجتماعي ↔ الأزمات المتوقعة (mid-life crisis، التقاعد).
 
-## المرجع الأساسي
+## المصادر
 
 - Berger, K. S. (2020). *The Developing Person Through the Life Span*. Worth Publishers.
 - Siegler, R., DeLoache, J., & Eisenberg, N. (2011). *How Children Develop*. Worth Publishers.

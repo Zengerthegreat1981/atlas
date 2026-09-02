@@ -13,37 +13,36 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
 - id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"
 - id: "thk-moreno", title: "يعقوب ليفي مورينو", type: "مفكر"
 - id: "thk-adamblatner", title: "آدم بلاتنر", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لبول هولمز."
 ---
 
 # بول هولمز
 
-محاضر وممارس بريطاني في **السيكودراما والسوسيومتري**، من أهم الشخصيات في تطوير الحقل في المملكة المتحدة وأوروبا خلال الثمانينيات والتسعينيات.
+طبيب نفسي بريطاني ومعالج نفسي، تدرّب في التحليل النفسي والسيكودراما، وشغل منصب استشاري في طب نفسي الأطفال والمراهقين. كان أول رئيس لـ«الرابطة البريطانية للسيكودراما» (British Psychodrama Association)، وزميل في «الجمعية الأمريكية للعلاج الجماعي والسيكودراما» (ASGPP) وحائز على جائزتها David A. Kipper's Scholar's Award.
 
 ## ما أعطاه
 
-- تأليف **كتب تمهيدية** عن السيكودراما، منها *The Inner World Outside* (1992).
-- مساهمات في **تطوير تطبيقات السيكودراما** في مجال الإدمان والصحة النفسية السريرية.
-- تدريب أجيال من الممارسين عبر **منظمة سيكودراما المملكة المتحدة**.
-- مقارنات بين السيكودراما وتيارات علاجية أخرى مثل العلاج بالمسرح، وعلاج الجشطلت.
+- تأليف *The Inner World Outside: Object Relations Theory and Psychodrama* (1993)، أول عرض موحَّد يربط أساليب السيكودراما الإكلينيكية بنظرية علاقات الموضوع في التحليل النفسي، ويستكشف الصلة بين مورينو وفرويد.
+- عمل لسنوات في فرق الصحة النفسية المجتمعية للأطفال والمراهقين، باهتمام خاص بخدمات الأطفال بالتبني والحضانة (fostering and adoption).
+- ترؤسه الأول للرابطة البريطانية للسيكودراما ساهم في تأسيس معايير تدريب السيكودراما في بريطانيا.
 
 ## موقعه من التيار
 
-هولمز من أهم **الجسور بين مورينو الأمريكي** والجمهور الأوروبي. وفي كتاباته أكّد أن السيكودراما ليست مجرد تقنية مسرحية، بل **منهج علاجي معمّق** قائم على فلسفة العلاقات (Tele) عند مورينو.
+هولمز من أهم من ربط بين نظرية مورينو للسيكودراما ونظرية علاقات الموضوع التحليلية النفسية في السياق البريطاني.
 
 ## أهم أعماله
 
-- *The Inner World Outside: Object Relations Theory and Psychodrama* (1992).
-- *Psychodrama: Inspiration and Technique* (مع كينغ).
-- مقالات في *British Journal of Psychotherapy*.
+- *The Inner World Outside: Object Relations Theory and Psychodrama* (1993، Routledge).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Routledge / Taylor & Francis، صفحة الكتاب *The Inner World Outside: Object Relations Theory and Psychodrama*.
+- *The British Journal of Psychiatry*، مراجعة كتاب *The Inner World Outside* (1993).
+- American Society of Group Psychotherapy and Psychodrama (ASGPP)، سجل الزمالة وجائزة David A. Kipper's Scholar's Award لبول هولمز.

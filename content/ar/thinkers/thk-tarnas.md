@@ -18,8 +18,7 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "منهجه في ربط أنماط علم الفلك التاريخي بالتحولات الثقافية (Archetypal Astrology) موضع جدل أكاديمي حاد لم يُوثَّق نقاشه هنا بالتفصيل."
 ---
 
 # ريتشارد تارناس
@@ -40,3 +39,9 @@ gaps:
 ## أهم أعماله
 
 «عشق العقل الغربي» (The Passion of the Western Mind, 1991) · «الكسموس والنفس» (Cosmos and Psyche, 2006) · «الإفاقة من الحلم» (Waking Up, 2015، محرر).
+
+## المصادر
+
+- Tarnas, R. (1991). *The Passion of the Western Mind: Understanding the Ideas That Have Shaped Our World View*. Ballantine Books.
+- Tarnas, R. (2006). *Cosmos and Psyche: Intimations of a New World View*. Viking.
+- سجل California Institute of Integral Studies (CIIS) — منصبه الأكاديمي ومؤسّس برنامج الفلسفة والكونية والوعي.

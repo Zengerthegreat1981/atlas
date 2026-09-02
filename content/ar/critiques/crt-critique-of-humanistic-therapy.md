@@ -14,11 +14,10 @@ edges:
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "crt-feminist-critique-humanistic", title: "نقد نسوي للإنسانية", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Cushman, 1990; Braxton, 1999)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "الفرق بين هذا النقد ونقد علم النفس الإيجابي يحتاج فصلاً."
 ---
 # نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟

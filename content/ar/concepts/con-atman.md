@@ -15,11 +15,17 @@ edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
-- id: "thk-shankara", title: "شانكارا", type: "مفكر"
-- id: "con-brahman", title: "براهمان", type: "مفهوم"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
+- id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
+- id: "con-brahman", title: "براهمان (المطلق / الحقيقة الكونية)", type: "مفهوم"
+- id: "con-purusha-prakriti-dualism", title: "ثنائية البوروشا والبراكريتي في السامخيا (Purusha & Prakriti)", type: "مفهوم"
+- id: "con-anatta-non-self-concept", title: "الأناتا ونفي الذات الثابتة في البوذية (Anatta)", type: "مفهوم"
+- id: "dbt-anatta-vs-atman-brahman", title: "اللا-ذات البوذية (Anatta) مقابل الذات الكونية الأتمان في الهندوسية", type: "جدل"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "التمييز بين «آتمان» الجاين، «آتمان» الأدفايتا، و«آتمان» في Sāṃkhya يحتاج مراجعة."
   - "لا يوجد تعريف فلسفي حديث موحد لآتْمان في الأدب العربي."
+  - "المتن يذكر مفهوم Jiva عند الجاينية لكن لا يوجد ملف con- مخصص له بعد للربط."
 ---
 
 # آتْمان (النفس الفردية / الذات الحقيقية)

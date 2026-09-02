@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← المدرسة المي
 dates: "ميغارا (يونان) · من نحو 430 ق.م إلى نحو 280 ق.م"
 country: "يونان (ميغارا، شمال أثينا)"
 language: "اليونانية"
+cultural_origin: "greek"
 active_start: -430
 active_end: -280
 edges:
-- rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-pyrrhonism", target_type: "مدرسة"
 related:
@@ -74,3 +74,10 @@ gaps:
 - المدرسة «الميغارية» تتضمّن تيارات مختلفة جداً (الجدلية، الشكية، الفلسفية-الأخلاقية)، والربط بينها كتيار واحد تبسيط.
 - غياب النصوص الأصلية يجعل تصنيف أفكارهم صعباً؛ نعتمد بشكل كبير على خصومهم.
 - دورهم في «تأسيس المنطق الصوري» (بالمعارس الذي يتّسق مع أرسطو) موضع نقاش؛ ريتشارد سورابجي (1980) قدّم قراءة «شكّاكة» واضحة.
+
+## المصادر
+
+- Diogenes Laertius. *Lives of the Eminent Philosophers*, Book II (على إقليدس الميغاري وخلفائه).
+- Sedley, David. "Diodorus Cronus and Hellenistic Philosophy." *Proceedings of the Cambridge Philological Society*, vol. 23, 1977.
+- Kerferd, G. B. "The Origin of Megarian Dialectic." *Archiv für Geschichte der Philosophie*, 1981.
+- Döring, Klaus. *Die Megariker: Kommentierte Sammlung der Testimonien*. Grüner, 1972.

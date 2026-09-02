@@ -10,6 +10,7 @@ crumb: "الفلسفة ← التحليلية ← فلسفة اللغة الشك
 dates: "من 1950 إلى الآن"
 country: "متعددة (الولايات المتحدة، المملكة المتحدة، ثم عالمياً)"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1950
 active_end: "مستمر"
 edges:
@@ -20,7 +21,7 @@ related:
 - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
 - id: "thk-ttarski", title: "ألفرد تارسكي", type: "مفكر"
 - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
-- id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
+- id: "thk-skripke", title: "سول كريبكي", type: "مفكر"
 - id: "con-sense-vs-reference", title: "المعنى مقابل المحمول (Sinn vs. Bedeutung)", type: "مفهوم"
 - id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
@@ -28,7 +29,6 @@ gaps:
   - "رابط مقترح لـ«ريتشارد مونتاغيو» (thk-montague) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«دونالد ديفيدسون» (thk-davidson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «الشكلية المنطقية» و«الدلالات الرسمية» (formal semantics) لم يُحلّل في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من كريبكه 'التسمية والضرورة' (Naming and Necessity, 1980) في صيغته المنقحة."
   - "علاقة هذا التيار بعلم اللغة الحاسوبي وعلم الدلالة الإدراكي المعاصر لم تُراجع."
 ---
 
@@ -59,3 +59,11 @@ gaps:
 
 - يستحق التمييز بين «الشكلية المنطقية» (المنطق الرمزي) و«الدلالات الرسمية» (دلالات اللغات الطبيعية) توثيقاً أوضح.
 - الانتقال من «الشكلية» الصارمة إلى «الدلالات المعقولة» (Rationalist Semantics) يستحق فصلاً مستقلاً.
+
+## المصادر
+
+- Frege, Gottlob. *Die Grundlagen der Arithmetik*. Wilhelm Koebner, 1884.
+- Tarski, Alfred. "The Concept of Truth in Formalized Languages." 1933 (English translation in *Logic, Semantics, Metamathematics*, Oxford University Press, 1956).
+- Kripke, Saul. *Naming and Necessity*. Harvard University Press, 1980.
+- Davidson, Donald. "Truth and Meaning." *Synthese*, 1967.
+- Montague, Richard. "Universal Grammar." *Theoria*, 1970.

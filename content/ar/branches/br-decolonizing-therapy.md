@@ -15,8 +15,8 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-liberation-psychology", title: "علم نفس التحرير", type: "تيار"
-- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
   - "أعمال إدواردو دوران ومايكل يلو بيرد (Eduardo Duran & Michael Yellow Bird) ومفهوم 'جرح الروح' (Soul Wound) لدى الشعوب الأصلية (الأمريكيين الأصليين)."

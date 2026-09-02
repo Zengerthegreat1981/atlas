@@ -6,11 +6,11 @@ level: "متقدم"
 title: "جون تيزديل"
 en: "John D. Teasdale"
 crumb: "الموجة الثالثة ← الناس ← جون تيزديل"
-dates: "بريطانيا · 1942–2023"
+dates: "بريطانيا · 1942–"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
-active_end: 2023
+active_end: "مستمر"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"

@@ -12,10 +12,14 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1981
 active_end: 1981
+author: "ألاسدير ماكنتاير"
+author_slug: "thk-macintyre"
+publication_year: 1981
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-virtue-ethics", target_type: "مدرسة"
 related:
-- id: "thk-macintyre", title: "ألسدير ماكنتاير", type: "مفكر"
+- id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
 - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
 gaps:
   - "الطبعة الثالثة 2007 مع 'استجابة لاندرر وكرانينغتون' لم تُحلّل."

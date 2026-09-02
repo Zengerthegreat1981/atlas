@@ -12,15 +12,14 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
 - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا ملف مدرسة مستقل لـDIR/Floortime بعد؛ سُجِّلت سيرينا ويدِر ضمن أعضائها اليتامى في agents_specs/missing-schools.md (مع thk-mbauman)."
 ---
 
 # سيرينا ويدِر
@@ -42,6 +41,8 @@ gaps:
 - *Engaging Autism* (2006، مع غرينسبان وبالس).
 - *The Child with Special Needs* (1998، مع غرينسبان).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Greenspan, S.I. & Wieder, S. (2006). *Engaging Autism: Using the Floortime Approach to Help Children Relate, Communicate, and Think*. Da Capo Press.
+- Greenspan, S.I. & Wieder, S. (1998). *The Child with Special Needs: Encouraging Intellectual and Emotional Growth*. Da Capo Press.
+- Wieder, S. & Greenspan, S.I. (2003). "Climbing the symbolic ladder in the DIR model." *Autism*, 7(4).

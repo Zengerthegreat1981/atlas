@@ -12,6 +12,10 @@ country: "الأندلس"
 language: "العربية (الأصل)"
 active_start: null
 active_end: "مستمر"
+author: "يهوذا اللاوي (أبو الحسن)"
+author_slug: "thk-judah-halevi"
+publication_year: 1140
+original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
@@ -19,7 +23,6 @@ related:
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 gaps:
   - "الترجمة العبرية ليهودا بن يوسف ابن تيبون (الفاسي) قد تكون غير مكتملة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الكتاب الحجازي (Kuzari)

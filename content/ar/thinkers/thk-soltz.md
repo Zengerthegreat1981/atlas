@@ -12,8 +12,7 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
@@ -22,7 +21,6 @@ related:
 - id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # فيكي سولْتز
@@ -43,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 «الأطفال: التحدي» (Children: The Challenge, 1964، مع Dreikurs) · «تحدي الزواج» (Challenge of Marriage, 1968، مع Dreikurs) · «القرارات الفوضوية» (Chaotic Decisions, 1983، مع Dreikurs).
+
+## المصادر
+
+- Dreikurs, Rudolf, and Vicki Soltz. *Children: The Challenge*. Duell, Sloan & Pearce, 1964.
+- سجلّ الكتاب في Internet Archive (نسخة رقمية كاملة، تؤكد اسمي المؤلفَين والناشر والسنة).
+- Dreikurs, Rudolf, and Vicki Soltz. *Children: The Challenge*. Plume (ط. معاد طبعها)، 1990/1992.

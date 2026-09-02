@@ -23,12 +23,12 @@ related:
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
-- id: "con-ren", title: "الإنسانية (仁)", type: "مفهوم"
+- id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
 - id: "con-xiao-filial-piety", title: "بر الوالدين", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: وانغ يانغ-مينغ (thk-wangyangming)"
   - "السنة الدقيقة لميلاد توي وي-مينغ (1940 أو 1941 في بعض المراجع) لم تُحسم بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
+  - "لم يُعثر على اقتباس مباشر قابل للتوثيق بمصدر وصفحة محددة."
   - "دُمج معه الملف المكرَّر thk-tfwang (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -59,7 +59,7 @@ gaps:
 - *Neo-Confucian Thought in Action: Wang Yang-ming's Youth (1472–1509)* (1976).
 - *Humanity and Self-Cultivation: Essays in Confucian Thought* (1979).
 - *Confucian Thought: Selfhood as Creative Transformation* (1985).
-- *The Way, Learning, and Politics in Early Confucianism* (1989، مع{He(thk-mencius) أشار إليه}).
+- *The Way, Learning, and Politics in Early Confucianism* (1989).
 - *Centrality and Commonality: An Essay on Confucian Religiousness* (1989).
 - *New Confucianism: A Critical Examination* (2003، محرّر مع John Makeham).
 
@@ -74,3 +74,10 @@ gaps:
 ## لماذا يُذكر هنا
 
 في كل مرة يُستدعى «علم النفس الكونفوشي» بوصفه حقلاً يجمع بين الفلسفة والتجريب النفسي، يكون توي وي-مينغ ضمن المفاصل المؤسسية لذلك الجسر. لا يُختزل علم النفس الكونفوشي في أعماله، لكنها بلا أعماله تظل «أرضاً فلسفية» بلا «جسر تجريبي».
+
+## المصادر
+
+- Tu, W. (1976). *Neo-Confucian Thought in Action: Wang Yang-ming's Youth (1472–1509)*. University of California Press.
+- Tu, W. (1985). *Confucian Thought: Selfhood as Creative Transformation*. State University of New York Press.
+- Tu, W. (1989). *Centrality and Commonality: An Essay on Confucian Religiousness*. State University of New York Press.
+- Tu, W., & Makeham, J. (Eds.) (2003). *New Confucianism: A Critical Examination*. Palgrave Macmillan.

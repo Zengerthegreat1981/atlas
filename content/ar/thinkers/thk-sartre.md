@@ -8,7 +8,7 @@ en: "Jean-Paul Sartre"
 crumb: "المدرسة الوجودية ← الناس ← جان بول سارتر"
 dates: "فرنسا · 1905–1980"
 active_start: 1938
-active_end: 1946
+active_end: 1980
 language: "الفرنسية"
 country: "فرنسا"
 part: "philosophy"
@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-- id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
+- id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
@@ -63,8 +63,7 @@ related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "ctx-post-ww2-existential-angst", title: "أوروبا ما بعد الحرب العالمية الثانية وسيادة القلق الوجودي والعبث", type: "سياق/تقليد"
 gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "الترجمات العربية المعتمدة لعناوين أعماله (دور نشر وسنوات نشر عربية محددة) غير مثبتة."
 ---
 
 # جان بول سارتر
@@ -102,3 +101,9 @@ gaps:
 ## اقتباسات مختارة
 
 «الوجود يسبق الماهية.» — الوجود والعدم، 1943<br>«الجحيم هو الآخرون.» — لا مخرج، 1944<br>«الإنسان محكوم عليه أن يكون حراً.» — الوجودية مذهب إنساني، 1946
+
+## المصادر
+
+- Sartre, Jean-Paul. *Being and Nothingness* (ترجمة Hazel E. Barnes). Washington Square Press, 1956.
+- Sartre, Jean-Paul. *Existentialism Is a Humanism* (ترجمة Carol Macomber). Yale University Press, 2007 [1946].
+- Stanford Encyclopedia of Philosophy, "Jean-Paul Sartre".

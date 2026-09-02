@@ -19,8 +19,7 @@ related:
 - id: "thk-meltzer", title: "دونالد ميلتزر", type: "مفكر"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "السنة الدقيقة لبدء تدريبها التحليلي مع Lois Munro، وتفاصيل انتقالها من الأنثروبولوجيا الاجتماعية إلى التحليل النفسي، تحتاج توثيقاً من مصدر أولي."
 ---
 
 # إلِزابت بوت سپِليوس
@@ -29,7 +28,7 @@ gaps:
 
 ## ما أعطته
 
-قبل أن تصبح محلّلة، كانت أُنثروبولوجية اجتماعية مشهورة (باسم Elizabeth Bott)، معروفة بكتابها «العائلة والصداقة» (Family and Social Network, 1957) الذي يُعدّ من الكلاسيكيات في علم الاجتماع العائلي. بعد أن بدأت تدريبها التحليلي مع Lois Munro (كلينية) في 1956، أمضت حياتها المهنية الثانية في تحرير «الأرشيف الكلايني» — أي تجميع وتوثيق أعمال Klein و Bion و Meltzer و Joseph و Segal. تحريرها لـ *Melanie Klein Today* و*New Dictionary of Kleinian Thought* هو المرجع «المعياري» لفهم المدرسة الكلاينية.
+قبل أن تصبح محلّلة، كانت أُنثروبولوجية اجتماعية مشهورة (باسم Elizabeth Bott)، معروفة بكتابها «العائلة والصداقة» (Family and Social Network, 1957) الذي يُعدّ من الكلاسيكيات في علم الاجتماع العائلي. بعد أن بدأت تدريبها التحليلي مع Lois Munro (كلينية) في 1956، أمضت حياتها المهنية الثانية في تحرير «الأرشيف الكلايني» — أي تجميع وتوثيق أعمال Klein و Bion و Meltzer و Joseph و Segal. تحريرها لـ *Melanie Klein Today* و*New Dictionary of Kleinian Thought* يُعدّ المرجع «المعياري» لفهم المدرسة الكلاينية.
 
 ## موقعها من التيار
 
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعمالها
 
 «ميلاني كلاين اليوم، الجزء 1 و 2» (Melanie Klein Today, Vols 1-2, 1988) · «القاموس الجديد للفكر الكلايني» (The New Dictionary of Kleinian Thought, 2010).
+
+## المصادر
+
+- Bott, Elizabeth. *Family and Social Network*. London: Tavistock Publications, 1957.
+- Spillius, Elizabeth Bott, ed. *Melanie Klein Today: Developments in Theory and Practice*, 2 vols. London: Routledge, 1988.
+- Spillius, Elizabeth Bott, et al., eds. *The New Dictionary of Kleinian Thought*. London: Routledge, 2011.

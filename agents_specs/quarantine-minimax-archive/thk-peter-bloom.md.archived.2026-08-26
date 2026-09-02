@@ -1,0 +1,68 @@
+---
+slug: "thk-peter-bloom"
+id: "THK-2830"
+type: "مفكر"
+part: "psychology"
+level: "متقدم"
+title: "بيتر بلوم"
+en: "Peter Bloom"
+crumb: "علاج بمساعدة المخدرات المخدرة ← مؤسِّسون ← بيتر بلوم"
+dates: "الولايات المتحدة"
+active_start: 2000
+active_end: "مستمر"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+edges:
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
+related:
+- id: "thk-rmdoblin", title: "ريكاردو دوبلين", type: "مفكر"
+- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "thk-rgriffiths", title: "رولينز غريفيثز", type: "مفكر"
+- id: "thk-mjohnson", title: "ماثيو جونسون", type: "مفكر"
+- id: "con-psilocybin-depression", title: "العلاج بسيليكيوين للاكتئاب", type: "مفهوم"
+- id: "con-meq30", title: "مقياس التجربة الصوفية (MEQ-30)", type: "مفهوم"
+- id: "thk-wapahnke", title: "والتر باهنكه", type: "مفكر"
+- id: "thk-wrichards", title: "وليام ريتشاردز", type: "مفكر"
+gaps:
+  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "الاسم 'Peter Bloom' في العلاج بمساعدة الـ psychedelics شائع، ولا أستطيع الجزم بأن صاحب هذا المسوّد هو باحث محدد في Johns Hopkins. أشهر 'Peter Bloom' في السياق الأكاديمي هو Peter M. Bloom في دراسات التنظيم والأعمال في جامعة روتشستر/Rice."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# بيتر بلوم
+
+اسم يظهر في سياق **العلاج بمساعدة المهلوسات** (*Psychedelic-Assisted Therapy*) في الجامعات والمستشفيات الأمريكية.
+
+## محاولة التوثيق
+
+العلاج بمساعدة الـ psychedelics تعرّض لنكسة قانونية كبيرة في السبعينيات ثم عاد في العقد الأول من القرن الحادي والعشرين. أبرز الشخصيات:
+- **ستانيسلاف غروف** (Stanislav Grof) — رائد LSD في الستينيات.
+- **ريكاردو دوبلين** (Rick Doblin) — مؤسس MAPS.
+- **رولينز غريفيثز** (Roland Griffiths) — رئيس فريق Johns Hopkins.
+- **ماثيو جونسون** (Matthew Johnson) — في Johns Hopkins.
+
+**MEQ-30** (Mystical Experience Questionnaire) أداة قياس طوّرها [و. باهنكه](thk-wapahnke) ثم عدّلها [رولينز غريفيثز](thk-rgriffiths) وآخرون في Johns Hopkins، لقياس عمق «التجربة الصوفية» في الجلسات العلاجية.
+
+بالبحث عن اسم «Peter Bloom» في هذا السياق:
+- أشهر «Peter Bloom» في الأدبيات الأكاديمية هو **Peter M. Bloom** (أستاذ في جامعة رايس Rice University، دراسات التنظيم والإدارة)، وهو **ليس** في الـ psychedelics.
+- لا يوجد ملف أكاديمي مستقل لـ«Peter Bloom» في Johns Hopkins أو في أدبيات MEQ-30.
+- من المرجح أن الاسم وُضع في هذا المسوّد بناءً على اقتباس أو فصل كتابي في كتاب جماعي.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون بلوم من المساهمين في **«إعادة الإحياء»** الحديثة للعلاج بمساعدة الـ psychedelics في الألفية الثالثة.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالعلاج بسيليكيوين للاكتئاب](con-psilocybin-depression) و[بمقياس التجربة الصوفية MEQ-30](con-meq30) كمفاهيم مركزية. يلتقي مع [غروف](thk-sgrof) و[دوبلين](thk-rmdoblin) و[غريفيثز](thk-rgriffiths) و[جونسون](thk-mjohnson) في تيار إعادة الإحياء.
+
+## المصادر
+
+- Griffiths, R. R., et al. (2006). "Psilocybin can occasion mystical-type experiences." *Psychopharmacology*, 187(3), 268–283.
+- Pahnke, W. N. (1963). "Drugs and Mysticism." Harvard University (PhD Thesis).
+- Richards, W. A. (1975). *The Mystical and the Scientific*. Harper & Row.
+- Johns Hopkins Psychedelic Research Unit — Faculty and Publications.
+- MAPS (Multidisciplinary Association for Psychedelic Studies) — Clinical Trials Database.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

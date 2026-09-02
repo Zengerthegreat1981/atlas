@@ -13,12 +13,8 @@ active_start: 1950
 active_end: 2014
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج بالفن", target_type: "مدرسة"
-related:
-- id: "thk-ahill", title: "أدريان هيل", type: "مفكر"
-- id: "thk-cmalchiodi", title: "كاثي مالكيودي", type: "مفكر"
-- id: "thk-fcaine", title: "فلورنس كاني", type: "مفكر"
-- id: "thk-hkwiatkowska", title: "هانا كفياتكوفسكا", type: "مفكر"
+- rel: "belongs_to", target: "sch-art-therapy", target_type: "مدرسة"
+related: []
 gaps:
   - "تفاصيل سنواتها في براغ بين مغادرتها فيينا (1938) ووصولها نيويورك (1938) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

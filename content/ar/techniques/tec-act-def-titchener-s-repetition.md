@@ -10,16 +10,21 @@ active_start: 1989
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "tec-act-def-singing-thoughts", title: "غناء الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "thk-titchener", title: "إدوارد بردجِس تيتشنر", type: "مفكر"
+- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "إسناد التأثير المعرفي الصوتي إلى تجارب إدوارد تيتشنر الكلاسيكية (أواخر القرن 19) غير موثَّق بدقّة في سياق ACT."
+  - "إسناد التأثير المعرفي الصوتي إلى تجارب إدوارد تيتشنر الكلاسيكية (أواخر القرن 19) غير موثَّق بدقّة تاريخياً — التقنية سُمّيت تيمّناً بملاحظته لا بتصميم مباشر منه، والاسم شائع في أدبيات ACT دون إسناد أولي محدد."
 ---
 
 # تكرار تيتشنر
@@ -45,3 +50,20 @@ gaps:
 ## حدود ومخاطر
 
 قد يحتملها بعض العملاء بشكل صعب لأنها تُعيد إنتاج الكلمات المؤلمة بوعي ساطع. لا يُستخدم في حالات الأفكار الانتحارية الحادّة أو مع عملاء لا يملكون مسافة تنظيم انفعالي كافية. يجب أن يتزامن مع شرح واضح أن «فقدان المعنى» في التمرين ظاهرة طبيعية وصحية، وليست دليلاً على «كبت» الفكرة.
+
+## المدرسة والمبتكر
+
+التقنية أدرجها **ستيفن سي. هايز** ضمن حزمة تمارين فك الاندماج المعرفي في **العلاج بالقبول والالتزام (ACT)**، مستعيراً اسم **إدوارد بردجِس تيتشنر** — عالم النفس البنيوي الذي وصف في أواخر القرن التاسع عشر ظاهرة فقدان الكلمة معناها الحرفي مع التكرار المتواصل (semantic satiation).
+
+## التقنية المنافسة
+
+بخلاف **إعادة الهيكلة المعرفية** في CBT الكلاسيكي التي تستبدل الفكرة المشوّهة بأخرى أكثر توازناً، لا تسعى تقنية التكرار إلى تغيير محتوى الكلمة، بل إضعاف تأثيرها الحرفي صوتياً فقط.
+
+## الدراسة الداعمة
+
+اختبر **ماسودا وهايز وساكيت وتووهيغ (Masuda, Hayes, Sackett, & Twohig, 2004)** في دراستهم *"Cognitive defusion and self-relevant negative thoughts: Examining the impact of a ninety year old technique"* المنشورة في *Behaviour Research and Therapy* هذه التقنية تحديداً (تكرار كلمة سلبية ذاتية الصلة بصوت عالٍ لمدة 30 ثانية)، ووجدوا انخفاضاً دالّاً في مدى تصديق المشاركين للفكرة ودرجة الانزعاج منها مقارنة بمجموعة ضابطة — وهو ما يسند التصنيف هنا كتقنية **probably-efficacious** لا well-established، إذ الأدلة محدودة بدراسات مخبرية صغيرة العينة على عينات غير إكلينيكية بالأساس.
+
+## المصادر
+
+- Masuda, A., Hayes, S. C., Sackett, C. F., & Twohig, M. P. (2004). Cognitive defusion and self-relevant negative thoughts: Examining the impact of a ninety year old technique. *Behaviour Research and Therapy*, 42(4), 477–485.
+- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*.

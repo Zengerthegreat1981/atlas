@@ -10,17 +10,19 @@ en: "Getting the Love You Want"
 crumb: "علاج العلاقات بإيماجو وعلم النفس الشعبي ← الأعمال ← الحصول على الحب الذي تريده"
 dates: "1988 · هارفيل هندريكس"
 language: "الإنجليزية"
+author: "هارفيل هندريكس"
+author_slug: "thk-hhendrix"
+publication_year: 1988
+original_language: "الإنجليزية"
 active_start: 1988
 active_end: 1988
 edges:
-- rel: "belongs_to", target: "علاج العلاقات بإيماجو وعلم النفس الشعبي", target_type: "مدرسة"
-- rel: "written_by", target: "هارفي هندرِكس", target_type: "مفكر"
+- rel: "written_by", target: "thk-hhendrix", target_type: "مفكر"
 related:
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
-- id: "thk-hhendrix", title: "هارفي هندرِكس", type: "مفكر"
+- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الحصول على الحب الذي تريده: دليل الأزواج
@@ -34,7 +36,3 @@ gaps:
 ## حوار إيماجو الثلاثي (Imago Dialogue)
 
 المرآة (Mirroring)، التحقق من صحة المشاعر (Validation)، والتعاطف (Empathy).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

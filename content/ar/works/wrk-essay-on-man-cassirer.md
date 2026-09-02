@@ -9,6 +9,10 @@ en: "An Essay on Man - Ernst Cassirer"
 crumb: "الجسر (فلسفة ↔ علم نفس) ← الأعمال ← مقال عن الإنسان"
 active_start: 1944
 active_end: "مستمر"
+author: "إرنست كاسيرر"
+author_slug: "thk-cassirer"
+publication_year: 1944
+original_language: "الإنجليزية"
 edges:
 - rel: "relates_to", target: "sch-philosophy-symbolic-forms", target_type: "مدرسة"
 related:
@@ -19,7 +23,6 @@ related:
 - id: "con-symbol", title: "الرمز", type: "مفهوم"
 gaps:
   - "لم تُراجع بعد من نسخة أصلية مباشرة (1944، Yale University Press)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "العلاقة بـ'فلسفة الأشكال الرمزية' (1923-29) و'مقال عن الإنسان' (1944) تحتاج فصلاً."
   - "الاستقبال النقدي في الفلسفة التحليلية (Carnap، Reichenbach) يحتاج توثيقاً."
 ---

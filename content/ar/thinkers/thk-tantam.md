@@ -19,8 +19,7 @@ related:
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "نظريته في 'الاتصال اللاواعي بين الأشخاص عبر الحاسة البين-شخصية' (The Interbrain) تستحق توثيقاً موسعاً."
+  - "لم أعثر على اقتباس مباشر منسوب بصفحة محددة من The Interbrain (2018)."
 ---
 
 # ديغبي تانتام
@@ -41,3 +40,10 @@ gaps:
 ## أهم أعماله
 
 العلاج النفسي الوجودي في الممارسة (Can Warmth be Taught?, 2002) · الطبيعة البشرية والعلاج الوجودي (Human Existence and Psychotherapy, 2014) · الذكاء البيني (The Interbrain, 2018).
+
+## المصادر
+
+- Tantam, D., *The Interbrain: Embodied Social Cognition and Communication*, London: Routledge, 2018.
+- Tantam, D., *Psychotherapy and Counselling in Practice: A Narrative Approach*, Cambridge: Cambridge University Press, 2002.
+- صفحة السيرة الأكاديمية الرسمية، جامعة شيفيلد، قسم علم النفس السريري والوجودي.
+- New School of Psychotherapy and Counselling (NSPC)، لندن — صفحة التأسيس والهيئة الأكاديمية.

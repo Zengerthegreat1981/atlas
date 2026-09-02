@@ -10,16 +10,18 @@ en: "Four Thousand Weeks: Time Management for Mortals"
 crumb: "الفلسفة النفسية ونقد الإنتاجية السامة ← الأعمال ← أربعة آلاف أسبوع"
 dates: "2021 · أوليفر بوركمان"
 language: "الإنجليزية"
+author: "أوليفر بوركمان"
+author_slug: "thk-oliver-burkeman"
+publication_year: 2021
+original_language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
 edges:
-- rel: "belongs_to", target: "الفلسفة النفسية ونقد الإنتاجية السامة", target_type: "مدرسة"
 - rel: "written_by", target: "thk-oliver-burkeman", target_type: "مفكر"
 related:
 - id: "thk-oliver-burkeman", title: "أوليفر بوركمان", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أربعة آلاف أسبوع: إدارة الوقت للفانين
@@ -33,7 +35,3 @@ gaps:
 ## بهجة التخلي عن السيطرة المطلقة
 
 الاعتراف بأننا لا نملك الوقت بل نحن الوقت نفسه، والتركيز على الحضور الكامل في المهام الحالية.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

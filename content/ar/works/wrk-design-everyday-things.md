@@ -9,11 +9,13 @@ crumb: "علم النفس المعرفي ← الأعمال ← تصميم ال�
 dates: "1988 · دونالد نورمان"
 language: "الإنجليزية"
 active_start: 1988
-active_end: 1988
+active_end: 1990
 part: "psychology"
+author: "دونالد نورمان"
+publication_year: 1988
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "دونالد نورمان", target_type: "مفكر"
 related:
 - id: "wrk-principles-psychology", title: "مبادئ علم النفس", type: "عمل / كتاب"
 - id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"

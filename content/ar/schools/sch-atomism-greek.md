@@ -9,11 +9,11 @@ en: "Greek Atomism"
 crumb: "الفلسفة ← اليونان وروما ← الذرية اليونانية"
 dates: "أبديرا (تراقيا) · من نحو 460 ق.م إلى نحو 270 ق.م"
 country: "يونان (أبديرا، تراقيا - على الحدود الشمالية للنفوذ اليوناني)"
+cultural_origin: "greek"
 language: "اليونانية"
 active_start: -460
 active_end: -270
 edges:
-- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-epicureanism", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
@@ -72,3 +72,10 @@ gaps:
 - الذرية ديمقريطية **ليست** نظرية علمية قابلة للاختبار بالمعنى الحديث، بل هي «ميتافيزيقا طبيعية» — تفسير عقلي للواقع.
 - النصوص الأصلية فُقدت؛ معظم معرفتنا بذرية ديمقريطس تأتي من خلال أرسطو ونقّاده (تعرض لها عبر نقاشهم معه).
 - إشكالية «الحرية» الذرية (إذا كان كل شيء ضروري، فهل يوجد فرق أخلاقي؟) لم تحسم بشكل مقنع من ديمقريطس نفسه.
+
+## المصادر
+
+- C.C.W. Taylor, *The Atomists: Leucippus and Democritus: Fragments, a Text and Translation with a Commentary* (University of Toronto Press, 1999).
+- Jonathan Barnes, *The Presocratic Philosophers* (Routledge, 1982).
+- Diogenes Laërtius, *Lives of Eminent Philosophers*, Book IX.
+- Lucretius, *De Rerum Natura* (نحو 55 ق.م).

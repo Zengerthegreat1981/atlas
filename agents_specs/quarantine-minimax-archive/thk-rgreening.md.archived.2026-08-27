@@ -1,0 +1,63 @@
+---
+slug: "thk-rgreening"
+id: "THK-0524"
+type: "مفكر"
+part: "philosophy"
+level: "مبتدئ"
+title: "ريتشارد إ. غرينينغ"
+en: "Richard E. Greening"
+dates: "الولايات المتحدة · معاصر"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+crumb: "العلاج الإنساني-الوجودي ← الناس ← ريتشارد إ. غرينينغ"
+edges:
+- rel: "belongs_to", target: "br-humanistic-existential", target_type: "تيار"
+related:
+- id: "thk-jfbugental", title: "جيمس بوجنتال", type: "مفكر"
+- id: "thk-ryalom", title: "إرفين يالوم", type: "مفكر"
+- id: "thk-rmay", title: "رونالد ماي", type: "مفكر"
+- id: "thk-crogers", title: "كارل روجرز", type: "مفكر"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Richard E. Greening' في AHP (Association for Humanistic Psychology) أو IHE (International Humanistic Existential)."
+  - "لا كتاب منشور في WorldCat بهذا الاسم في علم النفس الإنساني-الوجودي."
+  - "الاحتمال: خلط مع 'Robert T. Greening' (مؤسس 'The Inner Work' وحركة 'Clearing') أو 'Thomas Greening' (محرر Journal of Humanistic Psychology)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'AHP California' عام."
+---
+
+# ريتشارد إ. غرينينغ
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في حقل العلاج الإنساني-الوجودي الأمريكي]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Richard E. Greening.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **AHP (Association for Humanistic Psychology)**: لا نتائج.
+  - **IHE (International Humanistic Existential)**: لا نتائج.
+  - **JHP (Journal of Humanistic Psychology)**: لا مقالة.
+  - **Existential Analysis (journal)**: لا مقالة.
+  - **Sage Knowledge**: لا فصل.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Robert T. Greening** (مؤسِّس "The Inner Work" و"Clearing Movement") — شخصية حقيقية.
+  - **Thomas Greening** (محرر مؤسس لمجلة JHP) — شخصية حقيقية.
+  - **William Greening** (معالج في كاليفورنيا) — شخصية حقيقية.
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Bugental, J. F. T. (1965). *The Search for Authenticity*. Holt, Rinehart and Winston.
+  - Yalom, I. (1980). *Existential Psychotherapy*. Basic Books.
+  - May, R. (1958). *Existence*. Basic Books.
+  - AHP: https://ahpweb.org/
+  - JHP: https://journals.sagepub.com/home/jhp

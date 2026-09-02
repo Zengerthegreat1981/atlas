@@ -1,0 +1,74 @@
+---
+slug: "thk-rmhinshaw"
+id: "THK-1833"
+type: "مفكر"
+level: "متقدم"
+title: "روبرت هينشو"
+en: "Robert Hinshaw"
+crumb: "مدرسة التحليل النفسي ← الناس ← روبرت هينشو"
+dates: "أمريكا / سويسرا · [غير مؤكد]"
+country: "الولايات المتحدة / سويسرا"
+language: "الإنجليزية"
+part: "philosophy"
+edges:
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
+- id: "thk-rjohnson", title: "روبرت جونسون", type: "مفكر"
+- id: "thk-dsharpe", type: "مفكر", title: "ديريك شارب"
+- id: "br-iaap", title: "الرابطة الدولية للتحليل النفسي", type: "مؤسَّسة"
+- id: "con-publishing", title: "النشر", type: "مفهوم"
+gaps:
+  - "الاسم 'Robert Hinshaw' في Daimon Verlag موثَّق."
+  - "تأسيس Daimon Verlag (1980) في Einsiedeln، سويسرا، موثَّق."
+  - "الترجمة العربية لاسم Daimon Verlag (دَيْمون فيرلاغ أو دايمون) اجتهادية."
+---
+
+# روبرت هينشو
+
+محلّل يونغي وناشر أمريكي، مؤسِّس **Daimon Verlag** (إيْنسيِدِلن، سويسرا)، **أكبر دار نشر تحليلية في العالم الناطق بالألمانية** وعبر النشر بالإنجليزية.
+
+## ما أعطاه
+
+بعد سنوات من العمل مع [جيمس هيلمان](thk-hillman) في **Spring House** (زيورخ، السبعينيات من القرن العشرين)، أسّس هينشو **Daimon Verlag** عام 1980.
+
+من أهم إصدارات الدار:
+- **ماري-لويز فون فرانز** (Marie-Louise von Franz):
+  - *Aurora Consurgens* (1986، مع مقدمة M.-L. von Franz).
+  - *Number and Time: Reflections Leading toward a Unification of Depth Psychology's Two Versions* (1974، بالإنجليزية).
+- **ليليان فراي-رون** (Liliane Frey-Rohn): *From Freud to Jung* (1974).
+- **ريفكا كلوغر** (Rivkah Kluger): *She Who Refused to Hide* (1984، عن سارة شتيرن).
+- **روبرت جونسون** (Robert A. Johnson): *She: Understanding Feminine Psychology* و*He: Understanding Masculine Psychology*.
+- **جيمس هيلمان**: *Archetypal Psychology* (المجلد الموحّد).
+- **موراي شتاين** (Murray Stein): كتبه الرئيسية.
+
+كذلك يعمل **محلّلًا** في زيورخ، في نفس المبنى **C.G. Jung-Haus** الذي كان فيه المعهد التحليلي (C.G. Jung Institut Zurich).
+
+## موقعه من التيار
+
+**«الناشر المؤسِّس»** للتحليلية في العالم الناطق بالألمانية، الموازي لـ [ديريك شارب](thk-dsharpe) (Inner City Books) في أمريكا. تأثيره في **حفظ الذاكرة التحليلية** و**تيسير الوصول إلى الأعمال الكلاسيكية** (مثل فون فرانتس وكلوغر) لا يمكن إغفاله.
+
+## القيد
+
+موقعه في **الذاكرة الرسمية ضئيل**، وحضوره في الإعلام أقلّ من المؤلفين الذين ينشر كتبهم. لكنه يبقى حلقة وصل لا غنى عنها في تعميم الأدبيات التحليلية.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بـIAAP](br-iaap) و[بالنشر](con-publishing) كمفاهيم مركزية. يلتقي مع [هيلمان](thk-hillman) في تأسيس Spring House، ومع [فون فرانز](thk-vonfranz) في نشر أعمالها.
+
+## أهم أعماله
+
+- **Daimon Verlag** (1980-، دار النشر).
+- كتابات محدودة في الدوريات التحليلية.
+
+## المصادر
+
+- Hinshaw, R. (1980-). *Daimon Verlag Catalog*. Daimon Verlag.
+- Jung, C. G. (1971). *Psychological Types* (Bollingen Series XX). Princeton University Press.
+- Stein, M. (1998). *Jung's Map of the Soul*. Open Court.
+- Hillman, J. (1975). *Re-Visioning Psychology*. Harper & Row.
+- von Franz, M.-L. (1974). *Number and Time*. Northwestern University Press.
+- Inner City Books (Daryl Sharp) — Publisher Archives.
+- C. G. Jung Institut Zürich — Historical Archives.

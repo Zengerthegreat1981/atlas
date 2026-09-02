@@ -12,11 +12,10 @@ country: "كاليفورنيا (الولايات المتحدة)"
 language: "الإنجليزية"
 active_start: 1973
 active_end: 2024
-edges:
-- rel: "belongs_to", target: "المادية الإقصائية", target_type: "مدرسة"
+edges: []
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة sch- مستقل لـ«المادية الإقصائية» (Eliminative Materialism) في الأطلس بعد؛ سُجّلت في agents_specs/missing-schools.md، فحُذف رابط belongs_to السابق (كان نصاً حراً بدل slug)."
+  - "تفاصيل نشأتها الأكاديمية المبكرة قبل عملها المشترك مع بول تشيرشلاند غير موثقة هنا."
 ---
 
 # باتريشيا تشيرشلاند
@@ -43,6 +42,8 @@ gaps:
 - *Braintrust: What Neuroscience Tells Us about Morality* (2011).
 - *Touching a Nerve* (2013)، *Conscience* (2019).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Churchland, P. S. (1986). *Neurophilosophy: Toward a Unified Science of the Mind-Brain*. MIT Press.
+- Churchland, P. S. (2011). *Braintrust: What Neuroscience Tells Us about Morality*. Princeton University Press.
+- Stanford Encyclopedia of Philosophy, "Eliminative Materialism": https://plato.stanford.edu/entries/materialism-eliminative/

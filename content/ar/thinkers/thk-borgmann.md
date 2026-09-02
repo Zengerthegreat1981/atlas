@@ -8,7 +8,7 @@ en: "Albert Borgmann"
 crumb: "المدرسة الوجودية ← الناس ← ألبرت بورغمان"
 dates: "ألمانيا / أمريكا · 1937–2023"
 active_start: 1984
-active_end: 1999
+active_end: 2023
 country: "ألمانيا / أمريكا"
 language: "الإنجليزية / الألمانية"
 part: "philosophy"

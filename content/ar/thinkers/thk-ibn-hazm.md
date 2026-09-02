@@ -12,8 +12,7 @@ country: "قرطبة (الأندلس)"
 language: "العربية"
 active_start: 1024
 active_end: 1064
-edges:
-- rel: "belongs_to", target: "الظاهرية", target_type: "مدرسة"
+edges: []
 related:
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."

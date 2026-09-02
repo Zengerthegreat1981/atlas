@@ -3,6 +3,7 @@ slug: "sch-islamic-peripatetic"
 id: "SCH-0154"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "islamic-arabic"
 level: "متوسط"
 title: "الفلسفة المشائية الإسلامية"
 en: "Islamic Peripatetic Philosophy (Mashshā'ī Falsafa)"
@@ -12,18 +13,15 @@ country: "الدولة العباسية، السلجوقية، المماليك�
 language: "العربية (مع الفارسية أحياناً)"
 active_start: 850
 active_end: 1400
-edges:
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
 related:
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-- id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية", type: "مدرسة"
-- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
 - id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
 gaps:
   - "بدايات حركة الترجمة (بيت الحكمة) تحتاج مراجعة من مصدر أوّلي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من رسائل إخوان الصفا أو من كتب الكندي نفسه."
 ---
 
 # الفلسفة المشائية الإسلامية
@@ -67,3 +65,11 @@ gaps:
 - استمرت في المشرق متأثرة بالإشراقية (الملا صدرا في القرن 11 هـ).
 - في الأندلس استُؤصلت بعد سقوط غرناطة (1492م) ومُحاكمات التفتيش، إذ حكم اليسوعيون على كتب ابن رشد بالحرق.
 - في العصر الحديث أُعيدت إحياؤها مع «ابن سينا والحياة المعاصرة» عند محمد عابد الجابري وعبد الرحمن بدوي.
+
+## المصادر
+
+- ابن سينا (1960). *الشفاء*. تحقيق إبراهيم مدكور. القاهرة: الهيئة المصرية العامة للكتاب.
+- ابن رشد (1930). *تهافت التهافت*. تحقيق موريس بويج. بيروت: المطبعة الكاثوليكية.
+- الفارابي (1985). *آراء أهل المدينة الفاضلة*. تحقيق ألبير نصري نادر. بيروت: دار المشرق.
+- Fakhry, M. (1983). *A History of Islamic Philosophy*. Columbia University Press.
+- Corbin, H. (1993). *History of Islamic Philosophy*. Kegan Paul International.

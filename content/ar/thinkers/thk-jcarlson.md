@@ -13,7 +13,7 @@ active_start: 1985
 active_end: 2017
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-rmanaster", title: "رايتشل ماناستر", type: "مفكر"
 - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"

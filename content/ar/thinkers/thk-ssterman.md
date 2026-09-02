@@ -3,33 +3,38 @@ slug: "thk-ssterman"
 id: "THK-2773"
 type: "مفكر"
 level: "متقدم"
-title: "ماريو ستيرمان"
-en: "M. Barry Sterman"
-crumb: "التغذية الراجعة العصبية ← الناس ← Neurofeedback تاريخي ← ماريو ستيرمان"
-dates: "الولايات المتحدة · 1941–[DRAFT-UNKNOWN]"
+title: "م. باري ستيرمان"
+en: "Maurice B. (Barry) Sterman"
+crumb: "التغذية الراجعة العصبية ← الناس ← Neurofeedback تاريخي ← م. باري ستيرمان"
+dates: "الولايات المتحدة · 1935–2023"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1967
-active_end: 2010
+active_start: 1965
+active_end: 2023
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التغذية الراجعة العصبية (Neurofeedback)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-biofeedback", target_type: "مدرسة"
 related:
 - id: "thk-sothmer", title: "سيغفريد أوتمر", type: "مفكر"
 - id: "thk-jlubar", title: "جويل لوبار", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تفاصيل مسيرته بعد التقاعد من UCLA (أستاذ فخري) لم تُراجع بدقة."
 ---
 
-# ماريو ستيرمان
+# م. باري ستيرمان
 
-عالم نفس أعصابي أمريكي وأستاذ في جامعة كاليفورنيا في لوس أنجلوس (UCLA)، أب أبحاث «التغذية الراجعة العصبية» (Neurofeedback) في الغرب، والباحث الذي اكتشف ظاهرياً التأثير السريري للتدريب على SMR (إيقاع الحس-الحركة).
+عالم نفس أعصابي أمريكي، أستاذ فخري في قسمي علم الأعصاب السلوكي والطب النفسي بجامعة كاليفورنيا في لوس أنجلوس (UCLA)، والباحث الذي اكتشف التأثير السريري للتدريب على SMR (إيقاع الحس-الحركة)، والمؤسس الفعلي لأبحاث «التغذية الراجعة العصبية» (Neurofeedback) الحديثة. حصل على الدكتوراه في علم النفس والأعصاب من UCLA عام 1963، وتوفي في 2023.
 
 ## ما أعطاه
 
-في 1967، اكتشف بالصدفة أن القطط التي دُرّبت على زيادة SMR (12-15 Hz) في قشرتها الحسية-الحركية أصبحت أكثر مقاومة للنوبات التجريبية. قاد سلسلة من التجارب على البشر أثبتت أن التدريب على SMR يمكن أن يُقلل من نوبات الصرع المقاومة للأدوية. في 1972، نشر دراسته المؤسِّسة، وأنشأ «مختبر علم النفس العصبي» في UCLA. كتابه «أساسيات أبحاث تخطيط الدماغ» (Basic Concepts and Clinical Findings in the Treatment of Seizure Disorders with EEG Operant Conditioning, 2000) مرجع رئيسي.
+في 1965، لاحظ أثناء تسجيل تخطيط دماغ قطط نائمة أن نشاطها الكهربائي فوق القشرة الحسية-الحركية يُظهر إيقاعاً مميزاً بتردد 12–15 هرتز أطلق عليه «إيقاع الحس-الحركة» (Sensorimotor Rhythm، SMR)، وأن القطط المدرَّبة على زيادته أصبحت أكثر مقاومة للنوبات التجريبية. نشر نتائجه المؤسِّسة في مجلة *Science* عام 1970، ثم في 1972 (مع Fairchild) طبَّق التدريب على مرضى الصرع البشري، محققاً انخفاضاً بنسبة تصل إلى 65% في نوبات الصرع الكبير المقاوِمة للأدوية لدى بعض الحالات. أدار «مختبر النوم وعلم النفس العصبي» في UCLA لعقود.
 
 ## موقعه من التيار
 
-يعدّ ستيرمان المؤسس الفعلي لـ Neurofeedback الإكلينيكي، وأثّر في كل الأجيال اللاحقة، بمن فيهم لوبار وروسيغان وأوتر. أبحاثه حول SMR وظّفت الواجهة العلمية لـ EEG Operant Conditioning وأخرجتها من التجريب على الحيوان إلى الممارسة السريرية على الإنسان.
+يُعدّ ستيرمان المؤسس الفعلي لـ Neurofeedback الإكلينيكي، وأثّر في الأجيال اللاحقة، بمن فيهم لوبار وأوتمر. أبحاثه حول SMR انتقلت بالتكييف الإجرائي لتخطيط الدماغ (EEG Operant Conditioning) من التجريب على الحيوان إلى الممارسة السريرية على الإنسان.
+
+## المصادر
+
+- "In Memoriam: Maurice B. (Barry) Sterman (1935–2023), Pioneer of SMR Neurofeedback." *Applied Psychophysiology and Biofeedback*, Springer, 2024.
+- Sterman, M.B., and W. Wyrwicka. "EEG correlates of sleep: evidence for separate forebrain substrates." *Brain Research*, 1967.
+- Sterman, M.B., and L. Friar. "Suppression of seizures in an epileptic following sensorimotor EEG feedback training." *Electroencephalography and Clinical Neurophysiology*, 1972.

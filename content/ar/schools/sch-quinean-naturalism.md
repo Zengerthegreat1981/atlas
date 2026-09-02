@@ -12,20 +12,19 @@ country: "الولايات المتحدة (هارفارد)"
 language: "الإنجليزية"
 active_start: 1951
 active_end: 2000
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-vienna-circle", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-neopragmatism", target_type: "مدرسة"
 related:
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
-- id: "thk-goodman", title: "نيلسون غودمان", type: "مفكر"
 - id: "thk-jgoodman", title: "نلسون غودمان", type: "مفكر"
 - id: "wrk-two-dogmas", title: "نقدان من الوضعية المنطقية (Two Dogmas of Empiricism)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«ألفريد نورث وايتهيد» (thk-whitehead) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«دونالد ديفيدسون» (thk-davidson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نقد كواين لـ«القضايا الأنطولوجية» (On What There Is, 1948) وعلاقتها بمفهوم «الالتزام الأنطولوجي» لم يُراجع من نص 'كلمة والكشف الأنطولوجي' (Word and Object, 1960)."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'نظرية الأنظمة الكواينية' في الصياغة اللاحقة (1970s)."
   - "الفارق بين 'الطبيعانية الكواينية' و'الطبيعانية' عند ديوي لم يُحلّل بدقة."
 ---
 
@@ -56,3 +55,10 @@ gaps:
 
 - يستحق التمييز بين «الطبيعانية الكواينية» و«الطبيعانية البوتنامية» فصلاً مستقلاً.
 - علاقة كواين ببراغماتية جيمس لم تُحلّل بدقة كافية.
+
+## المصادر
+
+- W. V. O. Quine, "Two Dogmas of Empiricism", *The Philosophical Review*, 60 (1951).
+- W. V. O. Quine, *Word and Object*, MIT Press, 1960.
+- Nelson Goodman, *The Structure of Appearance*, Harvard University Press, 1951.
+- Saul Kripke, *Naming and Necessity*, Harvard University Press, 1980.

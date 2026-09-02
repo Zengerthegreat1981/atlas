@@ -20,14 +20,14 @@ related:
 - id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 - id: "tec-acceptance-based-bt", title: "العلاج السلوكي القائم على القبول (ABBT)", type: "تقنية/تدخل علاجي"
-- id: "tec-act-hexaflex", title: "العلاج بالقبول والالتزام (ACT) — هيكسافلكس", type: "تقنية/تدخل علاجي"
+- id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
 - id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
 - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
 - id: "sch-act", title: "العلاج بالقبول والالتزام", type: "مدرسة"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
-- id: "con-relational-frame-theory", title: "نظرية الإطار العلائقي", type: "مفهوم"
-- id: "tec-cbt-cog-thought-defusion", title: "الفصل المعرفي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-ca-behavioral-commitment-exercises", title: "الفعل الملتزم", type: "تقنية/تدخل علاجي"
+- id: "con-relational-frame-theory", title: "نظرية إطار العلاقات (RFT)", type: "مفهوم"
+- id: "tec-cbt-cog-thought-defusion", title: "الانفصال عن الأفكار (Defusion)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-ca-behavioral-commitment-exercises", title: "تمارين الالتزام السلوكي", type: "تقنية/تدخل علاجي"
 - id: "dbt-cbt-third-wave-vs-second-wave", title: "جِدَل الْمَوْجَة الثَّالِثَة لِـ**CBT** ضِد الثَّانِيّة: تَطَوُّر أَم انْفِصَال؟", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: كيلي ستودارد (thk-kstoddard)"
@@ -42,11 +42,11 @@ gaps:
 
 # ستيفن سي. هايز
 
-عالم نفس أمريكي، مؤسّس **العلاج بالقبول والالتزام** (Acceptance and Commitment Therapy, ACT) في الثمانينيات، ومطوّر **نظرية الإطار العلائقي** (Relational Frame Theory, RFT)، الأسس النظرية لـ ACT. أستاذ جامعي ومنتج (50+ كتاب، 600+ مقال).
+عالم نفس أمريكي، مؤسّس **العلاج بالقبول والالتزام** (Acceptance and Commitment Therapy, ACT) في الثمانينيات، ومطوّر **نظرية إطار العلاقات** (Relational Frame Theory, RFT)، الأسس النظرية لـ ACT. أستاذ جامعي ومنتج غزير (عشرات الكتب ومئات المقالات).
 
 ## ما أعطاه
 
-### 1. نظرية الإطار العلائقي (Relational Frame Theory, RFT)
+### 1. نظرية إطار العلاقات (Relational Frame Theory, RFT)
 
 طوّر هايز RFT ك**نظرية للغة والإدراك البشري**:
 - **"الإطار العلائقي"** (Relational Framing): قدرة الإنسان على ربط أي شيء بأي شيء (مثل: "السحابة تشبه البطانية").
@@ -91,15 +91,15 @@ gaps:
 ## أهم أعماله
 
 - **"العلاج بالقبول والالتزام" (Acceptance and Commitment Therapy, 1999)** — مع Strosahl & Wilson.
-- **"نظرية الإطار العلائقي: نهج سلوكي للغة البشرية" (Relational Frame Theory, 2001)** — مع Dymond.
-- **"هدم جدار العار" (Liberating the Life of Buddha, 2010)** — مع McCurry.
-- **"ACT Made Simple" (2009, 2019)** — مع Forsyth.
+- **"نظرية إطار العلاقات: نهج سلوكي-فوق-سكينري للغة والإدراك البشري" (Relational Frame Theory, 2001)** — مع Barnes-Holmes & Roche.
+- **"اخرج من عقلك وادخل حياتك" (Get Out of Your Mind and Into Your Life, 2005)** — مع Spencer Smith.
+- **"ACT Made Simple" (2009, 2019)** — مع Russ Harris (مؤلف مستقل عن هايز، وليس تأليفاً مشتركاً معه).
 - **"العقل المحرَّر" (A Liberated Mind, 2019)** — كتاب شعبي.
 
 ## الأبحاث
 
 - **Hayes et al. (1999)**: "العلاج بالقبول والالتزام: نموذج تجريبي للاضطرابات السلوكية."
-- **Hayes et al. (2006)**: "نظرية الإطار العلائقي: نظرية للغة والسلوك."
+- **Hayes et al. (2006)**: "نظرية إطار العلاقات: نظرية للغة والسلوك."
 - **A-Tjak et al. (2015)**: تحليل ميتا-تحليلي لـ ACT، فعالية متوسطة.
 - **Powers et al. (2009)**: ACT لـ الاكتئاب.
 
@@ -128,4 +128,5 @@ gaps:
 
 ## ملاحظة معمارية
 
-هذا الملف يحل محل ملف thk-stevenhayes (THK-...) الموجود في `content/ar/thinkers/` — الهدف ترقية المسودة للموضع المعتمد بعد مراجعة وكيل 4.
+- هذا الملف يحل محل ملف thk-stevenhayes (THK-...) الموجود سابقاً في `content/ar/thinkers/` — الهدف ترقية المسودة للموضع المعتمد بعد مراجعة وكيل 4. (ملاحظة: لا وجود لملف `thk-stevenhayes` مستقل في الأطلس حالياً، فلا تعارض فعلياً.)
+- تصحيح تدقيق (Task 3.28): (1) صُحِّحت أربعة عناوين `related` (`tec-act-hexaflex`، `con-relational-frame-theory`، `tec-cbt-cog-thought-defusion`، `tec-act-ca-behavioral-commitment-exercises`) لتطابق العناوين الفعلية المعتمدة في ملفاتها. (2) حُذف الكتاب المذكور سابقاً «هدم جدار العار» (Liberating the Life of Buddha, 2010, مع McCurry) — لم يُعثر على أي دليل لوجوده؛ يبدو أنه خلط مع "Steve McCurry" المصوّر الفوتوغرافي المؤلف لكتاب "The Path to Buddha" (لا علاقة له بستيفن هايز). استُبدل في القائمة بعمل موثّق فعلاً (Get Out of Your Mind and Into Your Life, 2005). (3) صُحِّح اسم مؤلف "ACT Made Simple" — المؤلف الفعلي هو Russ Harris، وليس تأليفاً مشتركاً مع هايز (أُضيفت ملاحظة توضيحية بدل الإبقاء على الانطباع الخاطئ بالتأليف المشترك). (4) صُحِّحت الترجمة "نظرية الإطار العلائقي" إلى "نظرية إطار العلاقات" اتساقاً مع عنوان الملف المعتمد `con-relational-frame-theory`.

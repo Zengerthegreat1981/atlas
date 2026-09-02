@@ -21,8 +21,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "مفهوم 'رعاية النفس' (Care for the Soul) و'تضامن المصدومين' (Solidarity of the Shaken) يستحقان إدراجاً مفاهيمياً."
+  - "مفهوم 'رعاية النفس' (Care for the Soul) و'تضامن المصدومين' (Solidarity of the Shaken) يستحقان إدراجاً مفاهيمياً مستقلاً كملفات con-."
 ---
 
 # يان باتوتشكا
@@ -42,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-دراسات هرمنيوطيقية في فلسفة التاريخ (Kacířské eseje o filosofii dějin, 1975) · الفينومينولوجيا اللاذاتية (Aspekt der Bewegung, 1965) · أفلاطون وأوروبا (Platón a Evropa, 1973).
+مقالات هرطوقية في فلسفة التاريخ (Kacířské eseje o filosofii dějin, 1975) · أفلاطون وأوروبا (Platón a Evropa, محاضرات 1973).
+
+## المصادر
+
+- Wikipedia (Jan Patočka): https://en.wikipedia.org/wiki/Jan_Pato%C4%8Dka
+- Patočka, J. (1975/1996). *Heretical Essays in the Philosophy of History*. Open Court.
+- Chvatík, I. (ed.). *The Selected Writings of Jan Patočka: Care for the Soul*.

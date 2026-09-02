@@ -15,8 +15,7 @@ active_end: 1531
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا تتوفر ترجمة عربية موثّقة لأي مقطع من نصوص فالابهاشاريا السنسكريتية الأصلية لاستخراج اقتباس مباشر منها."
 ---
 
 # فالابهاشاريا
@@ -41,6 +40,8 @@ gaps:
 - *Tattvārtha-dīpa-nibandha*.
 - *Ṣoḍaśa-grantha* (الرسائل الستّ عشرة) — نصوصه العملية القصيرة.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- James D. Redington, *Vallabhācārya on the Love Games of Kṛṣṇa* (Motilal Banarsidass, 1990).
+- Richard Barz, *The Bhakti Sect of Vallabhācārya* (Thomson Press, 1976).
+- Daniel Gold, "Guru's Body, Guru's Abode," in *Religious Reflections on the Human Body* (1995) — عن ممارسة السيفا وبوشتي مارغا.

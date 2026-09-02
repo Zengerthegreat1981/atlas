@@ -10,17 +10,19 @@ en: "The Myth of Normal: Trauma, Illness and Healing in a Toxic Culture"
 crumb: "الطب النفسي الجسدي وعلاج الصدمات ← الأعمال ← أسطورة الطبيعي"
 dates: "2022 · غابور ماتيه"
 language: "الإنجليزية"
+author: "غابور ماتيه"
+author_slug: "thk-gabor-mate"
+publication_year: 2022
+original_language: "الإنجليزية"
 active_start: 2022
 active_end: 2022
 edges:
-- rel: "belongs_to", target: "الطب النفسي الجسدي وعلاج الصدمات", target_type: "مدرسة"
 - rel: "written_by", target: "thk-gabor-mate", target_type: "مفكر"
 related:
 - id: "dbt-concept-creep-psychiatry", title: "جدل التمييع التشخيصي وتوسع تصنيفات الاضطرابات النفسية", type: "جدل"
 - id: "thk-gabor-mate", title: "غابور ماتيه", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أسطورة الطبيعي: الصدمة والمرض والشفاء في ثقافة مسمومة
@@ -34,7 +36,3 @@ gaps:
 ## مسارات الشفاء والتكامل
 
 استعادة الاتصال بالجسد، والتعبير الصادق عن الغضب المكبوت، وتطوير الرحمة بالذات وتفكيك الصدمات المتوارثة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

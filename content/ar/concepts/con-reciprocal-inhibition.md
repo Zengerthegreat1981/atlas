@@ -12,9 +12,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
+- id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
+- id: "sch-cognitive-behavioral", title: "المعرفية السلوكية", type: "مدرسة"
 - id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
-- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي", type: "تقنية/تدخل علاجي"
+- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس المنهجي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
+- id: "con-exposure-habituation", title: "التعود بالتعرض", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "النقد الحديث (Bouton 2002) الذي أظهر أن آلية التثبيط المتبادل ليست التفسير الوحيد — موضع تفصيل."
@@ -22,7 +25,7 @@ gaps:
 
 # التثبيط المتبادل
 
-المبدأ العلاجي الأساسي الذي وضعه جوزيف وولب (1958)، والمؤسِّس النظري لإزالة التحسس المنهجي (Systematic Desensitization) والعلاج السلوكي عموماً.
+المبدأ العلاجي الأساسي الذي وضعه جوزيف وولب (1958)، والمؤسِّس النظري لإزالة التحسس المنهجي (Systematic Desensitization) والعلاج السلوكي عموماً، وهو من المبادئ التأسيسية لمدرسة المعرفية السلوكية.
 
 ## التعريف
 

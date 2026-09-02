@@ -13,6 +13,8 @@ edges:
 - rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
 related:
 - id: "trm-fana-baqa-sufism", title: "الفناء والبقاء", type: "مصطلح لغوي متنازع عليه"
+- id: "thk-al-hallaj", title: "الحسين بن منصور الحلاج", type: "مفكر"
+- id: "sch-islamic-sufism", title: "التصوف الإسلامي الكلاسيكي (التصوف)", type: "مدرسة"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

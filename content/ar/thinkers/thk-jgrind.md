@@ -13,13 +13,9 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← جون غريندر"
 edges:
-- rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "تيار"
+- rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:
 - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
-- id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"
-- id: "thk-gschwartz", title: "غاري شوارتز", type: "مفكر"
-- id: "thk-kcolby", title: "كينيث كولبي", type: "مفكر"
-- id: "thk-tbickmore", title: "تيموثي بيكمور", type: "مفكر"
 - id: "br-nlp-systemic", title: "البرمجة اللغوية العصبية (NLP)", type: "تيار"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."

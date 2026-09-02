@@ -16,9 +16,10 @@ related:
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
 - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
 gaps:
   - "النصوص التأسيسية الكلاسيكية (Diogenes Laertius, Kant, Stoics) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الناقد ما بعد الكولونيالي المذكور في المتن (Chakrabarty) لا يقابله ملف مفكر موجود في content/ar/، فلم يُدرج في related."
 ---
 
 # المواطنة الكونية (الكوزموبوليتية)

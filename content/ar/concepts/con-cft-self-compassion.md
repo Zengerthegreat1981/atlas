@@ -13,16 +13,15 @@ language: "الإنجليزية (الأصل)"
 edges:
 - rel: "belongs_to", target: "sch-cft", target_type: "مدرسة"
 related:
+- id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
+- id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
+- id: "sch-cft", title: "العلاج المتمحور حول التعاطف (CFT)", type: "مدرسة"
 - id: "con-cft-compassion-systems", title: "الأنظمة الثلاثة لتنظيم الانفعال (CFT)", type: "مفهوم"
 - id: "con-shame-self-criticism", title: "الخزي ونقد الذات", type: "مفهوم"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
-- id: "con-self-efficacy", title: "الكفاءة الذاتية (الذاتية المدركة)", type: "مفهوم"
-- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
-- id: "con-unconditional-positive-regard", title: "التقبل الإيجابي غير المشروط (Unconditional Positive Regard)", type: "مفهوم"
-- id: "con-differentiation-self", title: "التفرّد (Differentiation of Self)", type: "مفهوم"
 gaps:
   - "التمييز العملي بين 'الرحمة بالذات' و'الشفقة بالذات' في الترجمات العربية لا يزال غير موحَّد في الأدبيات."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مستقل في الأطلس للمقال التأسيسي لنيف (Self and Identity، 2003) أو لبرنامج Mindful Self-Compassion وكريستوفر جيرمر، رغم ذكرهما في المتن."
 ---
 
 # التعاطف مع الذات (Self-Compassion, CFT)

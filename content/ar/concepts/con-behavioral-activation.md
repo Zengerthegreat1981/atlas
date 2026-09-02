@@ -12,14 +12,13 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-njacobson", title: "نيل جاكوبسون", type: "مفكر"
-- id: "thk-cmartell", title: "كريستوفر مارتل", type: "مفكر"
-- id: "thk-maddis", title: "مايكل آديس", type: "مفكر"
-- id: "tec-behavioral-activation", title: "التنشيط السلوكي (تقنية)", type: "تقنية/تدخل علاجي"
-- id: "br-advanced-aba-prt-vb", title: "ABA المتقدم (PRT و Verbal Behavior)", type: "تيار"
+- id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
+- id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
+- id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "نموذج Lewinsohn (1974) و Jacobson (2001) و Martell (2001) — موضع بحث للتمييز التاريخي."
+  - "لا يوجد ملف مفكر لـ Peter Lewinsohn (صاحب نظرية التعزيز للاكتئاب 1974) ولا لـ Sona Dimidjian (دراسة 2006) في قاعدة البيانات؛ لم يُدرَجا في related لعدم وجود slug فعلي لهما."
 ---
 
 # التنشيط السلوكي (مفهوم علاجي)

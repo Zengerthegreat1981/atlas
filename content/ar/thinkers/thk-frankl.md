@@ -15,7 +15,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
 - id: "dbt-meaning-found", title: "هل المعنى يُكتشَف أم يُصنَع؟", type: "جدل"
 - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
 - id: "thk-lukas", title: "إليزابيث لوكاس", type: "مفكر"
@@ -73,7 +73,7 @@ gaps:
 
 ## أهم أعماله
 
-الإنسان يبحث عن المعنى (…trotzdem Ja zum Leben sagen / Man's Search for Meaning, 1946) · الطبيب ورعاية النفس (Ärztliche Seelsorge, 1946) · الإرادة نحو المعنى (Der Wille zum Sinn, 1969) · الله اللاواعي (Der unbewusste Gott, 1948)
+الإنسان يبحث عن المعنى (…trotzdem Ja zum Leben sagen / Man's Search for Meaning, 1946) · الطبيب ورعاية النفس (Ärztliche Seelsorge, 1946) · الإرادة نحو المعنى (Der Wille zum Sinn, 1972) · الله اللاواعي (Der unbewusste Gott, 1949)
 
 ## اقتباسات مختارة
 

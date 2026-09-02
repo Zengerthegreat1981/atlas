@@ -12,11 +12,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-shiggins", title: "ستيفن هيغينز", type: "مفكر"
-- id: "thk-npetry", title: "نانسي بيتري", type: "مفكر"
-- id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
+- id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
+- id: "thk-npetry", title: "نانسي م. بيتري", type: "مفكر"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس منسوب مباشرة لهيغينز أو بيتري في المصادر المتاحة لهذا الملف."
   - "الجدل الأخلاقي حول «دفع المرضى» مقابل السلوك الصحي — موضع فلسفي."
 ---
 

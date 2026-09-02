@@ -12,13 +12,16 @@ active_start: 1986
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
+- id: "thk-dbaucom", title: "دونالد بِيكوم", type: "مفكر"
+- id: "thk-nbepstein", title: "نورمان إبستين", type: "مفكر"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 - id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "نموذج دونالد بوكوم وفرانك داتيليو ونورمان إبستين (Baucom, Dattilio, Epstein) في تقييم التشوهات المعرفية الزوجية."
+  - "فرانك داتيليو (Frank Dattilio)، شريك ماكولوغ وإبستين في تأليف أدبيات CBCT اللاحقة، غير موجود بملف مستقل في الأطلس — لم يُعثر له على slug في EXISTING_SLUGS.md."
   - "التدريب على مهارات حل المشكلات والتواصل الإيجابي المنظم وتبادل السلوكيات الإيجابية."
 ---
 
@@ -32,3 +35,12 @@ gaps:
 - سلوكيات سلبية متبادلة ونقص في التبادلات الإيجابية.
 - أخطاء وتفسيرات معرفية مشوهة ومتحيزة (مثل عزو النوايا السيئة للشريك، والتوقعات غير الواقعية).
 يركز العلاج على تعديل المعتقدات المشوهة، وتدريب الزوجين على مهارات الاستماع والتواصل التعبيري، وحل النزاعات الواقعية.
+
+## الأدلة والتقنية المنافسة
+
+اختبر بوكوم وسايرز وشير (Baucom, Sayers & Sher, 1990) في تجربة على 60 زوجاً إضافةَ إعادة البنية المعرفية (CR) والتدريب على التعبير الانفعالي (EET) للعلاج السلوكي الزوجي القياسي (BMT)؛ النتيجة أن المكونات الثلاثة تحسّن التوافق الزوجي بدرجة متقاربة دون فروق دالة إحصائياً بينها فيما يخص التحسن العام — أي أن الإضافة المعرفية لم تُثبت تفوقاً حاسماً على BMT وحده في تلك التجربة، رغم أنها أثّرت في أنماط تفكير الزوجين تجاه بعضهما. هذا يضع CBCT في منافسة مباشرة مع العلاج السلوكي التكاملي للأزواج (IBCT، `tec-ibct`) الذي طوّره جاكوبسون وكريستنسن لاحقاً كبديل يتجاوز التركيز المعرفي نحو التقبّل العاطفي للفروق غير القابلة للتغيير بين الشريكين.
+
+## المصادر
+
+- Baucom, D. H., Sayers, S. L., & Sher, T. G. (1990). *Supplementing Behavioral Marital Therapy with Cognitive Restructuring and Emotional Expressiveness Training: An Outcome Investigation*. Journal of Consulting and Clinical Psychology, 58(5), 636–645.
+- Baucom, D. H., & Epstein, N. (1990). *Cognitive-Behavioral Marital Therapy*. Brunner/Mazel.

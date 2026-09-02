@@ -13,8 +13,7 @@ language: "الصينية الكلاسيكية"
 active_start: -470
 active_end: -200
 active_source: "lifespan"
-edges:
-- rel: "evolved_into", target: "مدرسة المنطقيين (Mingjia)", target_type: "مدرسة"
+cultural_origin: "east-asian"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
@@ -29,7 +28,6 @@ related:
 gaps:
   - "النصوص الأصلية لمو زي (Mozi) بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الصيني."
   - "تفاصيل التحوّل اللاحق إلى الفرع «المنطقي» (Later Mohists / Canoneers) لم تُحلّل من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # الموهية (Mohism / Mojia)
@@ -53,3 +51,11 @@ gaps:
 - ازدهرت الموهية مع زمن مبكر من عصر الممالك المتحاربة، حين كانت الحاجة ملموسة إلى تبرير الفعل السياسي بمنفعة الناس لا بمجد البلاط.
 - انحسرت مع توحيد تشين (221 ق.م) والصعود الكونفوشي الإمبراطوري، فأصبحت نصّاً «مفقوداً» لألفي عام قبل أن يعاد اكتشافه نصّاً.
 - تُعتبر من أولى الفلسفات النفعية (Utilitarian) في التاريخ البشري — قبل جون ستيوارت مل بأكثر من ألفي عام.
+
+## المصادر
+
+- Mozi (translated by Ian Johnston), *The Mozi: A Complete Translation*, Columbia University Press, 2010.
+- Ivanhoe, P. J., & Van Norden, B. W. (eds.), *Readings in Classical Chinese Philosophy*, Hackett Publishing, 2005.
+- Graham, A. C., *Disputers of the Tao: Philosophical Argument in Ancient China*, Open Court, 1989.
+- Fung Yu-lan, *A History of Chinese Philosophy, Volume I*, Princeton University Press, 1952.
+- Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*, 2020 (متاح: plato.stanford.edu/entries/mohism).

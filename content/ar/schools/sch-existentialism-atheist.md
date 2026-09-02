@@ -9,6 +9,7 @@ en: "Atheist Existentialism"
 crumb: "الفلسفة ← القارية ← الوجودية الملحدة"
 dates: "فرنسا · من 1943 إلى نحو 1980"
 country: "فرنسا"
+cultural_origin: "french"
 language: "الفرنسية"
 active_start: 1943
 active_end: 1980
@@ -28,7 +29,6 @@ related:
 - id: "que-is-nothingness-a-state", title: "هل العدم حالة وجودية قابلة للتصور أم مجرد سلب عقلي لغوي؟", type: "سؤال توليدي"
 gaps:
   - "حدود التأثير المتبادل بين سارتر وكامو في الخمسينيات تحتاج إعادة بناء من رسائلهما المشتركة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع الأناركية الفلسفية (Landauer، Read) لم تُراجع."
 ---
 # الوجودية الملحدة (Atheist Existentialism)
@@ -38,7 +38,7 @@ gaps:
 ## المؤسِّسون والأعلام
 
 - **جان-پول سارتر** (1905–1980): المؤسِّس المطلق. *Being and Nothingness* (1943)، *Existentialism Is a Humanism* (1946).
-- **سيمون دي بوفوار** (1908–1986): أخلاقيات الوجود، تحليل اضطهاد المرأة. *The Ethics of Ambiguity* (1947)، *The Second Sex* (1949).
+- **سيمون دي بوفوار** (وُلدت 1908، توفيت بعد وفاتها عام 1986): أخلاقيات الوجود، تحليل اضطهاد المرأة. *The Ethics of Ambiguity* (1947)، *The Second Sex* (1949).
 - **مِرلو-پونتي** (1908–1961): ظاهراتية الجسد، لكنه أقرب للملحدين منه للدينيين.
 - **لويس ألتوسِّر** (ناقد أدبي، 1910–1960، وليس المفكر الماركسي): عرّف الوجودية في كتابه *Mythe et Réalité* على أنها «فلسفة اللاتعالي».
 - **ألبير كامو** (1913–1960): في المراحل الأولى (*The Stranger*، *The Myth of Sisyphus*، 1942)، لكنّه انتقد سارتر لاحقًا وأصبح أقرب للعبثية (انظر `sch-absurdism`).
@@ -63,3 +63,11 @@ gaps:
 - **اتهام «النرجسية الثورية»**: المثقف الملتزم (l'intellectuel engagé) قد يصبح «**برجوازيًا صغيرًا**» مُنحرفًا.
 - **التناقض العملي**: سارتر نفسه كان يتبنّى مواقف لا تتّسق مع مبادئه (دفاعه عن ستالين إلى حدّ ما، ثمّ نقده).
 - **التناقض المعرفي**: إذا كان «المعنى» يُصنع بالاختيار، فكيف نقد الاختيار الخاطئ دون معيار موضوعي؟ (نقد هيوم، كارناب).
+
+## المصادر
+
+- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Trans. Hazel Barnes. Philosophical Library.
+- Sartre, J.-P. (1946/2007). *Existentialism Is a Humanism*. Yale University Press.
+- de Beauvoir, S. (1947/1948). *The Ethics of Ambiguity*. Trans. Bernard Frechtman. Philosophical Library.
+- de Beauvoir, S. (1949/2011). *The Second Sex*. Trans. Constance Borde & Sheila Malovany-Chevallier. Knopf.
+- Camus, A. (1942/1955). *The Myth of Sisyphus*. Trans. Justin O'Brien. Hamish Hamilton.

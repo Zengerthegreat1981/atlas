@@ -6,14 +6,14 @@ level: "متقدم"
 title: "جورجيو ناردوني"
 en: "Giorgio Nardone"
 crumb: "العلاج القصير كعائلة مستقلة ← العلاج القصير الاستراتيجي ← جورجيو ناردوني"
-dates: "إيطاليا · [DRAFT-UNKNOWN]"
+dates: "إيطاليا · مواليد 13 سبتمبر 1958"
 country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1987
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج القصير الاستراتيجي", target_type: "تيار"
+- rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 - id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"
@@ -27,7 +27,7 @@ gaps:
 
 # جورجيو ناردوني
 
-معالج نفسي إيطالي ومؤسس مشارك لـ**مركز العلاج القصير** (Centro di Terapia Strategica) في أريتسو، إيطاليا، مع Paul Watzlawick، ويُعتبر حالياً من أهم المنظرين والممارسين للعلاج القصير الاستراتيجي في أوروبا.
+معالج نفسي إيطالي، وُلد في 13 سبتمبر 1958، ومؤسس مشارك لـ**مركز العلاج القصير** (Centro di Terapia Strategica) في أريتسو، إيطاليا، مع Paul Watzlawick، ويُعتبر حالياً من أهم المنظرين والممارسين للعلاج القصير الاستراتيجي في أوروبا.
 
 ## ما أعطاه
 

@@ -13,14 +13,12 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التأهيل المهني النفسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychiatric-vocational-rehab", target_type: "تيار"
 related:
 - id: "thk-wanthony", title: "ويليام أنتوني", type: "مفكر"
-- id: "thk-lfish", title: "لورانس فيشباين", type: "مفكر"
 gaps:
-  - "سنة الميلاد تقريبية، تستحق توثيقاً."
-  - "عمله في Virginia Commonwealth University (VCU) يستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد الدقيقة لويهَمان غير موثّقة؛ الموثّق أنه عضو هيئة تدريس دائم بجامعة فيرجينيا كومنولث منذ 1976."
+  - "رابط سابق لـ«لورانس فيشباين» (thk-lfish) أُزيل — لم تُراجع صلته المباشرة بويهَمان من مصدر أولي."
 ---
 
 # بول ويهَمان
@@ -48,3 +46,9 @@ gaps:
 
 - IPS يفترض بنية تحتية مجتمعية قد لا تتوفر في كل البيئات.
 - الفعالية تتفاوت حسب نوع الاضطراب النفسي ومستوى الدعم المجتمعي.
+
+## المصادر
+
+- Wehman, P., & Moon, M. S. (Eds.) (1988). *Vocational Rehabilitation and Supported Employment*. Paul H. Brookes.
+- صفحة ويهَمان في College of Health Professions، جامعة فيرجينيا كومنولث (chp.vcu.edu/about/team/wehman-paul.html).
+- VCU News (2025). "School of Education professor Paul Wehman receives national award for career impact through rehabilitation research".

@@ -12,6 +12,7 @@ country: "فرنسا (باريس)"
 language: "اللاتينية"
 active_start: 1108
 active_end: 1230
+cultural_origin: "european"
 edges:
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-augustinianism", target_type: "مدرسة"
@@ -22,7 +23,7 @@ related:
 - id: "thk-hugo-saint-victor", title: "هوغو من سانت فيكتور", type: "مفكر"
 gaps:
   - "نصوص أوغسطينوس الريمسي وأوغسطينوس الفيكتوري باللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'De Sacramentis Christianae Fidei' أو 'De Scriptura Sacra'."
+  - "اقتباسات 'De Sacramentis Christianae Fidei' و'De Scriptura Sacra' تحتاج مراجعة من المصدر الأولي."
   - "العلاقة بين الفيكتورية ومدرسة الدومينيكان (مع توما الأكويني) كانت تنافسية."
 ---
 
@@ -143,3 +144,10 @@ gaps:
 - **اللاهوت الإيجابي** vs. **اللاهوت الطبيعي**: الفيكتورية قالت: «**الوحي أعلى**»، لكنّ توما الأكويني قال: «**العقل أعلى**» (لأنّ العقل يَفهم الوحي). هذا نقاش طويل.
 - **الأنطولوجيا (الوجود)**: الفيكتورية لم تَقترح «**نظرية وجود**» (Ontologia) منظمة كما فعلت التوماوية. هذا تَرك فراغاً ملأه **أوغسطين** (Bonaventure، Duns Scotus).
 - **التأثير على الكنيسة**: الفيكتورية **مَهَدت** لكنّها لم تَبنِ «**نظاماً**» (Systema) كما بنى **توما الأكويني**. لذلك تَضاءل تأثيرها في القرن 14 م لصالح **السكولاستية الأرسطية**.
+
+## المصادر
+
+- Chase, S. (2003). *Angelic Wisdom: The Cherubim and the Grace of Contemplation in Richard of St Victor*. University of Notre Dame Press.
+- Coulter, D. M. (2006). *Per Visibilia ad Invisibilia: Theological Method in Richard of St. Victor*. Brepols.
+- Southern, R. W. (1995). *Scholastic Humanism and the Unification of Europe, Vol. I: Foundations*. Blackwell.
+- Ehlers, J. (1973). *Hugo von St. Viktor: Studien zum Geschichtsdenken und zur Geschichtsschreibung des 12. Jahrhunderts*. Franz Steiner Verlag.

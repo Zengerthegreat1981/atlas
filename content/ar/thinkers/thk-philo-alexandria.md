@@ -19,7 +19,6 @@ related:
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 gaps:
   - "تواريخ الميلاد والوفاة غير مؤكدة بالضبط، ومُستنبطة من شهادة إيوسابيوس القيصري."
-  - "لا يوجد اقتباس مباشر موثوق من نص فيلون نفسه متاح بعد."
   - "دُمج معه الملف المكرَّر thk-philo-judaeus (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -45,3 +44,9 @@ gaps:
 - في الأحلام (De Somniis)
 - في Specialibus Legibus (القوانين الخاصة)
 - Vita Mosis (حياة موسى)
+
+## المصادر
+
+- Runia, David T. *Philo of Alexandria and the Timaeus of Plato*. Leiden: Brill, 1986.
+- Sterling, Gregory E., ed. *The Studia Philonica Annual*. Society of Biblical Literature (دورية متخصصة في دراسة فيلون).
+- Kamesar, Adam, ed. *The Cambridge Companion to Philo*. Cambridge: Cambridge University Press, 2009.

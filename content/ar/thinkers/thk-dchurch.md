@@ -10,17 +10,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "الأطلس ← thinkers ← داوسون تشيرش"
-edges:
-- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
-- id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كولين غاريت (thk-cgarrett)."
+  - "لا يوجد slug مدرسة معتمد لـ«علم نفس الطاقة وتقنيات النقر» في الأطلس؛ رابط edges.belongs_to حُذف بدل اختراع slug."
+  - "رابط thk-cgarrett (كولين غاريت) حُذف: الشخص غير موثّق الوجود المستقل."
 ---
 
 # داوسون تشيرش

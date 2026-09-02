@@ -13,13 +13,13 @@ part: "psychology"
 active_start: 1912
 active_end: 1955
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتنمية الذاتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-napoleon-hill", title: "نابليون هيل", type: "مفكر"
 - id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
 - id: "thk-louise-hay", title: "لويز هاي", type: "مفكر"
 - id: "thk-shakti-gawain", title: "شَكتي غَوَين", type: "مفكر"
-- id: "con-emotional-intelligence", title: "الذكاء الانفعالي", type: "مفهوم"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
 gaps:
   - "لا توجد دراسات سريرية محكّمة على منهجه في إدارة العلاقات في مجلة محكّمة."
   - "أصل مصطلح 'How to Win Friends' يحتاج تحقيقاً في خلفيّته التجارية."
@@ -51,7 +51,7 @@ gaps:
 - *How to Win Friends and Influence People* (1936، طبعات لاحقة).
 - *How to Stop Worrying and Start Living* (1948).
 - *Dale Carnegie's Biographical Round-up* (محرر، الخمسينيات من القرن العشرين).
-- *The Quick and Easy Way to Effective Speaking* (1962، نشر بعد وفاته).
+- *The Quick and Easy Way to Effective Speaking* (نُشر بعد وفاته عام 1962).
 
 ## اقتباسات مختارة
 

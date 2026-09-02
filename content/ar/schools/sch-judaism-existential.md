@@ -10,19 +10,19 @@ crumb: "الفلسفة ← اليهودية ← الفلسفة اليهودية 
 dates: "أوروبا الوسطى، الولايات المتحدة، إسرائيل · من القرن 20 م إلى اليوم"
 country: "ألمانيا، النمسا، بولندا، الولايات المتحدة، إسرائيل"
 language: "الألمانية، الإنجليزية، العبرية، الفرنسية"
+cultural_origin: "european"
 active_start: 1920
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "الظواهرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-hasidic", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology-existential", title: "الظواهرية الوجودية", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"
 - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
 - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 gaps:
   - "نصوص مارتن بوبر وفرانز روزنزفايج بالألمانية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Ich und Du' أو 'Der Stern der Erlösung' أو 'Urvaterhaus'."
   - "العلاقة بين فلسفة بوبر وفلسفة ليفيناس معقّدة (نشر بوبر 'Ich und Du' 1923، في حين أن أعمال ليفيناس الأولى ظهرت في الأربعينيات)."
 ---
 
@@ -113,3 +113,10 @@ gaps:
 4. **الصهيونية**: بوبر دعمها، لكنّ روزنزفايج كان حذراً، وليفيناس ناقدها بشدّة.
 
 ردّ بوبر بـ«التعدّدية الحوارية» (dialogical pluralism): الحوار يعترف بالاختلاف دون نسفه.
+
+## المصادر
+
+- Buber, Martin. *I and Thou* (Ich und Du), trans. Walter Kaufmann, Scribner, 1970 [1923].
+- Rosenzweig, Franz. *The Star of Redemption* (Der Stern der Erlösung), trans. Barbara E. Galli, University of Wisconsin Press, 2005 [1921].
+- Levinas, Emmanuel. *Totality and Infinity: An Essay on Exteriority* (Totalité et Infini), trans. Alphonso Lingis, Duquesne University Press, 1969 [1961].
+- Stanford Encyclopedia of Philosophy — مداخل "Martin Buber" و"Franz Rosenzweig" و"Emmanuel Levinas".

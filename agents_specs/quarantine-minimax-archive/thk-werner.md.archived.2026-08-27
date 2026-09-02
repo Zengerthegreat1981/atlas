@@ -1,0 +1,64 @@
+---
+slug: "thk-werner"
+id: "THK-0562"
+type: "مفكر"
+part: "philosophy"
+level: "مبتدئ"
+title: "هيلموت فيرنر"
+en: "Helmut Werner"
+dates: "ألمانيا · معاصر"
+country: "ألمانيا"
+language: "الألمانية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+crumb: "التحليل الوجودي والدازاين ← الناس ← هيلموت فيرنر"
+edges:
+- rel: "belongs_to", target: "br-daseins-analysis", target_type: "تيار"
+related:
+- id: "thk-mboss", title: "ميدارد بوس", type: "مفكر"
+- id: "thk-gcondrau", title: "غيسو كوندرو", type: "مفكر"
+- id: "thk-heidegger", type: "مفكر", title: "مارتن هايدجر"
+- id: "sch-developmental", type: "مدرسة", title: "علم النفس النمائي"
+- id: "con-meaning", type: "مفهوم", title: "المعنى واللامعنى"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Helmut Werner' في حقل Daseinsanalyse."
+  - "لا كتاب منشور في DNB أو GVK بهذا الاسم في علم النفس الوجودي."
+  - "الاحتمال: الاسم يختلط مع 'Helmut Werner Heisenberg' (فيزيائي)، أو 'Helmut Werner' (مؤرخ الفن في جامعة هومبولت)."
+  - "الاحتمال الأقوى: الاسم مُدخل من بيانات الندوة في دوسلدورف أو هايدلبرغ."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'GSE Berlin' عام."
+---
+
+# هيلموت فيرنر
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في حقل التحليل الدازايني]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Helmut Werner.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **GVK**: لا كتاب منشور.
+  - **DNB**: لا سيرة ذاتية.
+  - **IGD (Internationale Gesellschaft für Daseinsanalyse)**: لا نتائج.
+  - **DGAP (Deutsche Gesellschaft für Analytische Psychologie)**: لا نتائج.
+  - **مجلات Daseinsanalyse وPsychotherapie**: لا مقالة منشورة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع الأسماء التالية:
+  - **Helmut Werner Heisenberg** (فيزيائي، 1976–): بحثياً في كولومبيا.
+  - **Helmut Werner** (مؤرخ فن، جامعة Humboldt): 1990s+، مصادره عن القرن 18.
+  - **Helmut Werner** (لاعب كرة قدم ألماني، 1958–).
+- احتمال **خطأ إملائي** في الاسم.
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Boss, M. (1957). *Daseinsanalyse und Psychotherapie*. Psyche.
+  - Condrau, G. (2017). *Daseinsanalyse* (3rd ed.). Springer.
+  - IGD: https://www.daseinsanalyse.de/

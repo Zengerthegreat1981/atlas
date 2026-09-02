@@ -12,8 +12,6 @@ active_start: 1987
 active_end: 1987
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
-- rel: "authored_by", target: "هومبرتو ماتورانا", target_type: "مفكر"
 - rel: "authored_by", target: "thk-varela", target_type: "مفكر"
 related:
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"

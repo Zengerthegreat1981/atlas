@@ -21,8 +21,7 @@ related:
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "thk-hoffman", title: "لويس هوفمان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "حركة نشر العلاج الوجودي-الإنساني في الصين وشرق آسيا تحتاج توثيقاً تاريخياً معاصراً."
+  - "سنة ميلاده وتفاصيل تكوينه الأكاديمي (جامعة الدكتوراه PsyD) غير موثّقة في هذا الملف."
 ---
 
 # مارك يانغ
@@ -42,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-العلاج النفسي الوجودي-الإنساني في آسيا (Existential Psychology East-West, 2009/2020) · فصول وأوراق تدريبية في العلاج النفسي العابر للثقافات.
+Existential Psychology East-West (تحرير مشترك، المجلد الأول 2009، الطبعة الموسّعة 2010) · Existential Psychology and the Way of the Tao: Meditations on the Writings of Zhuangzi (تحرير، 2018) · مشارك في تنظيم المؤتمر الدولي الأول لعلم النفس الوجودي في الصين (2010) بحضور كيرك شنايدر.
+
+## المصادر
+
+- Mark Yang, Louis Hoffman & Jason Dias (eds.), *Existential Psychology East-West* (Colorado Springs: University of the Rockies Press, 2009).
+- Mark Yang (ed.), *Existential Psychology and the Way of the Tao: Meditations on the Writings of Zhuangzi* (Routledge, 2018).
+- International Institute of Existential-Humanistic Psychology (IIEHP), صفحة السيرة الرسمية والمؤتمرات (iiehp.org).

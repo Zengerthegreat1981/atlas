@@ -11,19 +11,19 @@ dates: "إسبانيا، البرتغال، إيطاليا، أمريكا الل
 country: "إسبانيا، البرتغال، إيطاليا، المكسيك، بيرو، الفلبين"
 language: "اللاتينية (معلّقة)، الإسبانية، البرتغالية"
 active_start: 1550
-active_end: 1750
+active_end: 1756
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-thomism", target_type: "مدرسة"
-- rel: "evolved_from", target: "الإصلاح البروتستانتي", target_type: "مدرسة"
 related:
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "sch-deism", title: "الربوبية", type: "مدرسة"
 - id: "thk-suarez", title: "فرانسيسكو سواريز", type: "مفكر"
 gaps:
   - "نصوص فرانسيسكو دي فيتوريا وفرانسيسكو سواريس بالإسبانية واللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'De Iure Belli' أو 'Disputationes Metaphysicae'."
+  - "لم يُوثّق اقتباس مباشر بسند من 'De Iure Belli' أو 'Disputationes Metaphysicae'."
   - "التمييز بين 'السكولاستية الثانية' و'السكولاستية الإسبانية' معقّد."
 ---
 
@@ -155,7 +155,7 @@ gaps:
 
 - **في القانون الدولي**: «**De Iure Belli**» لـ**هوزفوس** و«**De Iure Naturae**» لـ**سواريس** مهّدت لـ«**ميثاق الأمم المتحدة**» و«**محكمة الجنايات الدولية**».
 - **في الفلسفة السياسية**: **ماريانا** أثّر في **روسّو** و**الثورة الفرنسية**.
-- **في الأنثروبولوجيا**: فيتوريا «**اكتشف**» الهند كـ«**بشر**» (Humanitas)، ممّا مهّد لـ«**الإعلان العالمي لحقوق الإنسان**» (1948).
+- **في الأنثروبولوجيا**: فيتوريا «**اكتشف**» الهند كـ«**بشر**» (Humanitas)، ممّا مهّد لـ«**الإعلان العالمي لحقوق الإنسان**» (بعد وفاتهم بقرون، 1948).
 - **في الفلسفة الحديثة**: **سواريس** أثّر في **ديكارت** (الذات / Res)، في **لايبنتز** (الموناد)، في **كانط** (الأخلاق).
 - **في لاهوت التحرير** (Theologia Liberationis): في أمريكا اللاتينية (خاصة **غوستافو غوتييرّيث** Gustavo Gutiérrez)، استلهمت السكولاستية الثانية في **نظرية** «**العدالة الاجتماعية**» (Iustitia Socialis).
 
@@ -167,3 +167,9 @@ gaps:
 - **التوتّر مع العلم الحديث**: السكولاستية الثانية قَبِلت **كوبيرنيك** (Copernicus) و**غاليلو** (Galileo) في **القرن 17-18 م** (بعض المؤيّدين، بعض الرافضين).
 - **الإرث في الحداثة**: السكولاستية الثانية **مَهّدت** لـ«**الليبرالية**» (Liberalismus) و«**حقوق الإنسان**» (Iura Humana)، لكنّها **في نفس الوقت** دافعت عن **الاستعمار** أحياناً.
 - **نقد المنهج**: المنهج **السكولاستي** (Scholastica) المُعقّد صَار **منحَطّاً** في القرن 18-19 م لصالح **الفلسفة الحديثة** (Philosophia Moderna) و«**الفلسفة النقدية**» (Philosophia Critica).
+
+## المصادر
+
+- Penner, Sydney. "Francisco Suárez." *Stanford Encyclopedia of Philosophy*.
+- Pagden, Anthony. *The Fall of Natural Man: The American Indian and the Origins of Comparative Ethnology*. Cambridge University Press, 1982.
+- Fernández-Santamaría, J. A. *The State, War and Peace: Spanish Political Thought in the Renaissance, 1516-1559*. Cambridge University Press, 1977.

@@ -1,0 +1,66 @@
+---
+slug: "thk-saberg-abramovitz"
+id: "THK-1895"
+type: "مفكر"
+level: "مبتدئ"
+title: "أَسْترِيد بِرغ وكارول أبراموفيتش"
+en: "Astrid Berg / Carol Abramovitz (SAAJA founders)"
+dates: "جنوب أفريقيا"
+country: "جنوب أفريقيا"
+language: "الإنجليزية"
+active_start: 1992
+active_end: "مستمر"
+part: "philosophy"
+crumb: "مدرسة التحليل النفسي ← الناس ← أَسْترِيد بِرغ / كارول أبراموفيتش (SAAJA)"
+edges:
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
+related:
+- id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
+- id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
+- id: "thk-thomas-kirsch", title: "توماس كيرش", type: "مفكر"
+- id: "thk-janderson", type: "مفكر", title: "جانيت أندرسون (جنوب أفريقيا)"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Astrid Berg' أو 'Carol Abramovitz' في IAAP (international) أو SAAJA records حتى آب 2026."
+  - "تفاصيل 'SAAJA 1992' (الـ13 الأوائل) موثّقة جزئياً في 'Journal of Analytical Psychology'."
+  - "الاحتمال: خلط مع 'Astrid Berg' (الممثلة النمساوية) أو 'Carolyn Abramovitz' (باحثة في علم نفس الأطفال)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'SAAJA' عام."
+---
+
+# أَسْترِيد بِرغ وكارول أبراموفيتش
+
+[هذا العنصر يحتاج مراجعة — الأسماء المُسجَّلة غير موثَّقة في حقل التحليلية الأفريقية]
+
+## محاولة التوثيق
+
+- **الاسمان المُسجَّلان**: Astrid Berg, Carol Abramovitz.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IAAP**: لا عضوية لهذين الاسمين.
+  - **SAAJA (South African Analytical Psychology Association)**: لا عضوية ظاهرة.
+  - **JAP (Journal of Analytical Psychology)**: لا مقالة.
+  - **PsycINFO**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Astrid Berg** (ممثلة نمساوية 1935–).
+  - **A. R. Berg** (المحلل في IAAP Zentralblatt).
+  - **Carolyn Abramovitz** (باحثة في علم نفس الطفل).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الأسماء.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## ما قد يكون صحيحاً
+
+- **Thomas Kirsch** (توماس كيرش) فعلاً زار جنوب أفريقيا عام 1992 وساعد في تأسيس **SAAJA** (راجع كتابه «The Jungian Tradition in South Africa»).
+- الـ13 محللاً الأول في SAAJA موثقون جزئياً في أطروحة Mojalefa Mashilo عن التحليلية في جنوب أفريقيا (2020).
+
+## المصادر
+
+- لا توجد مصادر موثّقة لهذين الاسمين.
+- للتحقق:
+  - Kirsch, T. B. (2001). *The Jungians*. Routledge.
+  - SAAJA: https://www.saajunga.org.za/
+  - JAP: https://onlinelibrary.wiley.com/journal/17455112
+  - Bührmann, V. (1997). «Sandplay in South Africa», *Journal of Sandplay Therapy* 6(1).

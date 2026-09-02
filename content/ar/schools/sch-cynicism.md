@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← الكلبية"
 dates: "أثينا واليونان · من نحو 400 ق.م إلى القرن 5 م"
 country: "يونان (أثينا)، انتشرت في الإسكندرية وروما وفلسطين"
 language: "اليونانية (ثم اللاتينية في العصور الرومانية)"
+cultural_origin: "greek"
 active_start: -400
 active_end: 500
 edges:
-- rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
@@ -86,3 +86,11 @@ gaps:
 - كثير من قصص ديوجانس ملفّقة أو مزيّنة لأغراض تربوية (الروايات الهيلينستية) — فيلسوف «البرميل» هو أقرب إلى رمز أدبي.
 - لا إنتاج نظري منهجي. الكلبية اكتسبت بنيتها الفلسفية من خصومها أو من وراثيها (الرواقية).
 - الأخلاق الكلبية، كما هي، إشكالية: «التنكّر» الكلبية يقترب من السلوك المعادي للمجتمع، وهو ما رأى فيه أوريجانس «خطيئة» (تستحق اللوم).
+
+## المصادر
+
+- Diogenes Laërtius. *Lives of Eminent Philosophers*, Book VI (Antisthenes, Diogenes, Crates).
+- Dudley, D. R. (1937). *A History of Cynicism: From Diogenes to the 6th Century A.D.* Methuen.
+- Navia, L. E. (1996). *Classical Cynicism: A Critical Study*. Greenwood Press.
+- Sloterdijk, P. (1983). *Kritik der zynischen Vernunft* [نقد العقل الكلبي]. Suhrkamp.
+- Branham, R. B., & Goulet-Cazé, M.-O. (Eds.). (1996). *The Cynics: The Cynic Movement in Antiquity and Its Legacy*. University of California Press.

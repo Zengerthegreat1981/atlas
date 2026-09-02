@@ -13,7 +13,7 @@ active_start: 1965
 active_end: 2000
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري السياقي متعدد الأجيال", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-contextual-family-therapy", target_type: "تقنية"
 related:
 - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"

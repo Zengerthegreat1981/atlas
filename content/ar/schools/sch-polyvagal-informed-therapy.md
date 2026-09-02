@@ -12,21 +12,22 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 register: "clinical"
 evidence_level: "controversial"
 edges:
 - rel: "evolved_from", target: "sch-phenomenology-somatic", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-sporges", target_type: "مفكر"
-- rel: "influenced_by", target: "تجربة جسد بيتر ليفين (SE)", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-stephen-porges", target_type: "مفكر"
+- rel: "influenced_by", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
-- id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor)", type: "مدرسة"
+- id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
-- id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS)", type: "مدرسة"
+- id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", type: "مدرسة"
 - id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
 - id: "thk-dana", title: "ديب دانا", type: "مفكر"
 - id: "con-neuroception-polyvagal", title: "النيوروسبشن (Neuroception) والحالات العصبية المبهمية", type: "مفهوم"
@@ -39,7 +40,6 @@ gaps:
   - "نظرية البوليفاجال ما زالت موضع خلاف في علم الأعصاب (انتقادات Grossman 2023)."
   - "لا يوجد 'دليل علاجي' رسمي (Treatment Manual) معتمد لـ Polyvagal-Informed Therapy بمعنى صارم — هو إطار نظري أكثر منه بروتوكول منظَّم."
   - "التمييز بين 'العلاج المستنير بالبوليفاجال' و'تطبيقات نظرية البوليفاجال' غير محسوم في الأدبيات."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 # العلاج المستنير بنظرية البوليفاجال
 
@@ -107,7 +107,7 @@ gaps:
 - **ردّ بورجِس**: ردّ بنشر دفوعات (2018، 2023) وأصرّ على سلامة نظريته.
 - **مشكلة المانوال**: لا يوجد "Treatment Manual" معتمد لـ "Polyvagal-Informed Therapy" بمعنى صارم، مما يجعل "العلاج" أقرب إلى تطبيق الإطار في علاجات أخرى.
 
-## المطبوعات التأسيسية الرئيسية
+## المصادر
 
 - Porges, S. W. (1995). Orienting in a defensive world: Mammalian modifications of our evolutionary heritage. A Polyvagal Theory. *Psychophysiology*, 32(4), 301-318.
 - Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. Norton.

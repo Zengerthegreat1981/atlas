@@ -12,7 +12,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العدالة والمجتمع", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"

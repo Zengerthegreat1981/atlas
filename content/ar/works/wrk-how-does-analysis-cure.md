@@ -11,6 +11,10 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: 1984
 part: "philosophy"
+author: "هاينز كوهوت"
+author_slug: "thk-kohut"
+publication_year: 1984
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-kohut", target_type: "مفكر"

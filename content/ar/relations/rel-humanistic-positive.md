@@ -18,7 +18,7 @@ related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي (سليجمان)", type: "تيار"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
-- id: "thk-crsnyder", title: "تشارلز سنايدر", type: "مفكر"
+- id: "thk-crsnyder", title: "تشارلز ريتشارد سنايدر", type: "مفكر"
 - id: "thk-dsaleeby", title: "دينس ساليبي", type: "مفكر"
 gaps:
   - "سليجمان نفسه (1999, 2011) لم يعترف بماسلو كمصدر رئيسي إلا بشكل جزئي — التقييم الدقيق للعلاقة التاريخية محتاج مراجعة نصية لـ 'Flourish' (2011)."

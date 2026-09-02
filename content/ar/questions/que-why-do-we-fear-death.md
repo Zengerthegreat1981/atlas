@@ -12,16 +12,14 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "con-being-toward-death", title: "الوجود نحو الموت", type: "مفهوم"
-- id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "con-being-toward-death", title: "الكينونة-نحو-الموت", type: "مفهوم"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الخوف من الموت (con-fear-of-death)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: إبيقور (thk-epicurus)"
-- "المصادر الأولية (Epicurus، Heidegger، Yalom، Becker) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الخوف من الموت' (Fear of Death) و'قلق الموت' (Death Anxiety) و'رهبة الموت' (Thanatophobia) يحتاج فصلاً."
-- "العلاقة بـ'فقدان شخص عزيز' (Bereavement) و'الحزن' (Grief) تحتاج توثيقاً."
+  - "الفرق بين 'الخوف من الموت' (Fear of Death) و'قلق الموت' (Death Anxiety) و'رهبة الموت' (Thanatophobia) يحتاج فصلاً."
+  - "العلاقة بـ'فقدان شخص عزيز' (Bereavement) و'الحزن' (Grief) تحتاج توثيقاً."
 ---
 # لِمَاذَا نَخَاف الْمَوْت؟
 
@@ -42,3 +40,11 @@ gaps:
 ## الأَهمِّيَّة
 
 (1) **الدِّين** (Religion): «**مَوْت**» (Death) = «**اِنْتِقَال**» (Transition) لِـ**«**عَالَم آخَر**» (Afterlife). (2) **الطِّبّ** (Medicine): «**رِعَايَة**» (Care) «**مَلَطِفَة**» (Palliative) «**تُسَاعِد**» (Helps) لِـ**«**خَوْف**» (Fear). (3) **الْأَخْلَاق** (Ethics): «**خَوْف**» (Fear) «**مَوْت**» (Death) «**يَقُود**» (Drives) «**سُلُوك**» (Behavior) «**أَخْلَاقِيّ**» (Moral).
+
+## المصادر
+
+- Epicurus, *Letter to Menoeceus*, ~300 ق.م. — حجة "الموت لا شيء".
+- Plato, *Phaedo*, ~380 ق.م. — الموت كتحرر للروح.
+- Martin Heidegger, *Sein und Zeit*, 1927 — الوجود-نحو-الموت.
+- Ernest Becker, *The Denial of Death*, 1973 — نظرية إدارة الرعب.
+- Irvin Yalom, *Staring at the Sun*, 2008 — قلق الموت الوجودي.

@@ -12,14 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-act", target_type: "مدرسة"
 related:
-- id: "thk-lstevenhayes", title: "ستيفن هايز", type: "مفكر"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
-- id: "crt-commodification-critique", title: "نقد التسليع", type: "نقد خارجي موثَّق"
+- id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
 - id: "dbt-cbt-third-wave-vs-second-wave", title: "جِدَل الْمَوْجَة الثَّالِثَة لِـ**CBT** ضِد الثَّانِيّة: تَطَوُّر أَم انْفِصَال؟", type: "جدل"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "لم تُراجع من نسخة أصلية مباشرة بعد؛ اقتباس Baardseth et al. (2013) و Hoffman et al. (2015) غير موثَّق بنص مباشر."
 - "الفرق بين هذا النقد والنقد المعرفي العميق (Hayes على فلسفة اللغة) يحتاج فصلاً."
 ---
 # نقد ACT وَ DBT: مَفَاهِيم «**الْمَوْجَة الثَّالِثَة**» كَانْتِهَازِيَّة

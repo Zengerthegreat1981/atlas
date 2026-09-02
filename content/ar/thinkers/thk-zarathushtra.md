@@ -46,3 +46,8 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - **الأناشيد الغاثية (Gathas)**: 17 نشيداً موزعة على خمس مجموعات، من اصل 72 قسم من «الأفستا» (Yasna 28-34، 43-51، 53).
+
+## المصادر
+
+- الأناشيد الغاثية (Gathas)، يسنا 28-34، 43-51، 53.
+- Mary Boyce, *Zoroastrians: Their Religious Beliefs and Practices*, Routledge & Kegan Paul, 1979.

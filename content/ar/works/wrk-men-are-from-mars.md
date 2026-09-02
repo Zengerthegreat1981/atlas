@@ -10,10 +10,13 @@ en: "Men Are from Mars, Women Are from Venus"
 crumb: "علم النفس الشعبي والعلاقات الأسرية ← الأعمال ← الرجال من المريخ والنساء من الزهرة"
 dates: "1992 · جون غراي"
 language: "الإنجليزية"
+author: "جون غراي"
+author_slug: "thk-john-gray"
+publication_year: 1992
+original_language: "الإنجليزية"
 active_start: 1992
 active_end: 1992
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعلاقات الأسرية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-john-gray", target_type: "مفكر"
 related:
 - id: "thk-john-gray", title: "جون غراي", type: "مفكر"
@@ -44,7 +47,6 @@ related:
 - id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (The Structure of Scientific Revolutions)", type: "عمل / كتاب"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الرجال من المريخ والنساء من الزهرة
@@ -62,7 +64,3 @@ gaps:
 ## النقد السوسيولوجي والأكاديمي
 
 تعرض لانتقادات أكاديمية لتعزيزه الصور النمطية الجندرية الثنائية وتبسيطه للديناميات المعقدة للعلاقات.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

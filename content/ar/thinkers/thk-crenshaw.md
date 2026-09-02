@@ -36,8 +36,8 @@ gaps:
 مؤسِّسة «النسوية التقاطعية» (Intersectional Feminism) ومصدر إلهام لـ«النظرية النقدية للعِرق» (Critical Race Theory). وشاركت في تأسيس «منتدى سياسات الأمريكيين الأفارقة» (African American Policy Forum, 1996).
 
 ## القيد
-مفهوم «التقاطعية» نُقِد بأنه «كل شيء» ولا شيء — اتُّهمت كرنشو بـ«توسيع» المفهوم إلى درجة فقد دقته. وردّت في أعمال لاحقة («عن التقاطعية»، On Intersectionality, 2015) بتأكيد «الطابع التحليلي» لا «الوصفي» للمفهوم.
+مفهوم «التقاطعية» نُقِد بأنه «كل شيء» ولا شيء — اتُّهمت كرنشو بـ«توسيع» المفهوم إلى درجة فقد دقته. وردّت في أعمال لاحقة («عن التقاطعية»، On Intersectionality, 2017) بتأكيد «الطابع التحليلي» لا «الوصفي» للمفهوم.
 
 ## أهم أعمالها
 
-إلغاء الهامشية (Demarginalizing the Intersection, 1989) · رسم خرائط الهوامش (Mapping the Margins, 1991) · العِرق والإصلاح والتراجع (Race, Reform, and Retrenchment, 1988) · عن التقاطعية (On Intersectionality: Essential Writings, 2015).
+إلغاء الهامشية (Demarginalizing the Intersection, 1989) · رسم خرائط الهوامش (Mapping the Margins, 1991) · العِرق والإصلاح والتراجع (Race, Reform, and Retrenchment, 1988) · عن التقاطعية (On Intersectionality: Essential Writings, 2017).

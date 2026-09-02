@@ -12,14 +12,16 @@ dates: "2021 · آدم غرانت"
 language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
+author: "آدم غرانت"
+author_slug: "thk-adam-grant"
+publication_year: 2021
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس التنظيمي والدافعية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-adam-grant", target_type: "مفكر"
 related:
 - id: "thk-adam-grant", title: "آدم غرانت", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # فكر مرة أخرى: قوة معرفة ما لا تعرفه
@@ -34,6 +36,3 @@ gaps:
 
 تحرير الثقة بالنفس من الارتباط بالأفكار المؤقتة وجعلها مرتبطة بالقيم والقدرة على التعلم المستمر.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

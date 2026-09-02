@@ -12,8 +12,7 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1734
 active_end: 1778
-edges:
-- rel: "belongs_to", target: "عصر التنوير", target_type: "مدرسة"
+edges: []
 related:
 - id: "ctx-european-enlightenment", title: "سياق عصر التنوير الأوروبي", type: "سياق/تقليد"
 - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
@@ -48,3 +47,9 @@ gaps:
 - *Candide, ou l'Optimisme* (1759)
 - *Traité sur la tolérance* (1763)
 - *Dictionnaire philosophique* (1764)
+
+## المصادر
+
+- Voltaire, *Lettres philosophiques*, 1734.
+- Voltaire, *Candide, ou l'Optimisme*, 1759.
+- Voltaire, *Traité sur la tolérance*, 1763.

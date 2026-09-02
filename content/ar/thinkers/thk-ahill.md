@@ -8,9 +8,9 @@ en: "Adrian Hill"
 dates: "المملكة المتحدة · 1895–1977"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-active_start: 1939
+active_start: 1938
 active_end: 1977
-part: "philosophy"
+part: "psychology"
 crumb: "الأطلس ← thinkers ← أدريان هيل"
 edges:
 - rel: "belongs_to", target: "العلاج بالفن", target_type: "مدرسة"

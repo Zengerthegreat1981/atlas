@@ -13,7 +13,7 @@ active_end: 1980
 part: "psychology"
 crumb: "الأطلس ← thinkers ← ميلتون إريكسون"
 edges:
-- rel: "belongs_to", target: "التنويم العلاجي السريري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
 - id: "thk-jkihnstrom", title: "جون كينستروم", type: "مفكر"
 - id: "thk-tbarber", title: "ثيودور باربر", type: "مفكر"
@@ -24,8 +24,6 @@ related:
 - id: "br-nlp-systemic", title: "البرمجة اللغوية العصبية (NLP)", type: "تيار"
 - id: "rel-hypnosis-psychoanalysis", title: "التنويم والتحليل النفسي: انفصال وتباعد تاريخي", type: "علاقة بين مدرستين"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست ر. هيلغارد (thk-ihilgard)."
 ---
 
@@ -46,10 +44,12 @@ gaps:
 
 ## أهم أعماله
 
-- *My Voice Will Go with You* (ساحر، 1982).
+- *My Voice Will Go with You* (ساحر، نُشر بعد وفاته عام 1982).
 - *Uncommon Therapy* (هالي، 1973).
 - *The Collected Works of Milton H. Erickson* (16 مجلداً).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Haley, J. (1973). *Uncommon Therapy: The Psychiatric Techniques of Milton H. Erickson, M.D.* W. W. Norton.
+- Rossi, E. L. (Ed.) (1980). *The Collected Papers of Milton H. Erickson on Hypnosis* (4 vols.). Irvington.
+- Zeig, J. K. (Ed.) (1982). *Ericksonian Approaches to Hypnosis and Psychotherapy*. Brunner/Mazel.

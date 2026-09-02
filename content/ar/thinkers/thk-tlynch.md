@@ -23,7 +23,6 @@ related:
 - id: "evt-dbt-founding-1990s", title: "تأسيس العلاج الجدلي السلوكي (DBT) في التسعينيات", type: "حدث تاريخي"
 gaps:
   - "سنة الميلاد الدقيقة وانتماء لينش لجامعة ديوك لم يُراجعا من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # توماس لينش
 
@@ -41,3 +40,8 @@ gaps:
 
 - «العلاج الجدلي السلوكي الراديكالي المفتوح: نظرية وممارسة علاج الضبط المفرط» (Radically Open-Dialectical Behavior Therapy: Theory and Practice for Treating Overcontrol, 2018).
 - «العلاج الجدلي السلوكي الموجه للضبط المفرط: بروتوكول معيّن» (R01: The Radically Open-DBT Treatment Manual, 2014).
+
+## المصادر
+
+- Thomas R. Lynch, *Radically Open Dialectical Behavior Therapy: Theory and Practice for Treating Disorders of Overcontrol*, New Harbinger, 2018.
+- Lynch, T. R. et al., "Radically open-dialectical behavior therapy for adult anorexia nervosa", *British Journal of Psychiatry*, 2013.

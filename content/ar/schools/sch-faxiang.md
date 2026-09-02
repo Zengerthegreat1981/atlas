@@ -10,13 +10,14 @@ crumb: "الفلسفة ← البوذية ← فاشيانغ (يوغاكارا �
 dates: "الصين، اليابان، كوريا · من القرن 7 م إلى القرن 14 م"
 country: "الصين، اليابان (Hossō)، كوريا (Pŏpsang)"
 language: "الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: 659
 active_end: 1400
 edges:
 - rel: "evolved_from", target: "sch-yogacara", target_type: "مدرسة"
 related:
-- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-sanlun", title: "سانلون (مادهياماكا الصينية)", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 gaps:
@@ -76,3 +77,9 @@ gaps:
 - **تفسير Xuanzang مختلف عن Vasubandhu**: Xuanzang يخالف Vasubandhu في بعض النقاط (لذلك أشهر شروحه Cheng Weishi Lun ليست مطابقة للنص الهندي).
 - **النقد الداخلي**: شانغ‌نگ تشوي 禅宗 反对 (Zen يعارض Weishi بوصفها «وعياً آخر» يخرج عن الوعي).
 - **التقليد النصّي**: ضاعت أطروحات Xuanzang بعد القرن 9، حُفظت في اليابان وكوريا.
+
+## المصادر
+
+- Lusthaus, D. (2002). *Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Buddhism and the Ch'eng Wei-shih Lun*. RoutledgeCurzon.
+- Wei Tat (trans.). (1973). *Ch'eng Wei-shih Lun: The Doctrine of Mere-Consciousness*. Ch'eng Wei-shih Lun Publishing Committee.
+- Cook, F. H. (trans.). (1999). *Three Texts on Consciousness Only*. Numata Center for Buddhist Translation and Research.

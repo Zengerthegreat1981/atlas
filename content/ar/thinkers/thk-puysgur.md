@@ -13,14 +13,13 @@ active_end: 1825
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← ماركيز دي بويزيغور"
 edges:
-- rel: "belongs_to", target: "الماسمرية (Mesmerism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-mesmerism-historical", target_type: "تقنية"
 related:
 - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
-- id: "thk-afaria", title: "أبِي فاريا", type: "مفكر"
+- id: "thk-afaria", title: "أبّي فاريا (جوزيه كوستوديو دي فاريا)", type: "مفكر"
 - id: "thk-aliebeault", title: "أمبرواز ليبو", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تفاصيل حياته العسكرية الكاملة (رتبته النهائية ومساره قبل لقائه ميسمر عام 1784) غير موثّقة في هذا الملف."
 ---
 
 # ماركيز دي بويزيغور
@@ -42,6 +41,8 @@ gaps:
 
 - *Mémoires pour servir à l'histoire et à l'établissement du magnétisme animal* (1784).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Armand-Marie-Jacques de Chastenet, Marquis de Puységur, *Mémoires pour servir à l'histoire et à l'établissement du magnétisme animal* (Paris, 1784).
+- Adam Crabtree, *From Mesmer to Freud: Magnetic Sleep and the Roots of Psychological Healing* (New Haven: Yale University Press, 1993).
+- Henri F. Ellenberger, *The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry* (New York: Basic Books, 1970).

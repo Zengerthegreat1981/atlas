@@ -15,15 +15,16 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-eft", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-greenberg-lisa", target_type: "مفكر"
-- rel: "developed_by", target: "thk-jsafran", target_type: "مفكر"
+- rel: "developed_by", target: "thk-ssafran", target_type: "مفكر"
 related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
-- id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
+- id: "thk-ssafran", title: "جيريمي د. سافران", type: "مفكر"
+- id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: جيريمي سايفران (thk-jsafran)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الانفعالات الثانوية (con-secondary-emotion)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: المعالجة الانفعالية-الخطاطية (con-emotional-schematic-processing)"
+  - "الاسم الصحيح للمفكر هو thk-ssafran (جيريمي د. سافران)، لا thk-jsafran كما كان مقترحاً سابقاً؛ تم تصحيح الرابط."
+  - "لا يوجد ملف بعنوان 'الانفعالات الثانوية' بالـslug المقترح con-secondary-emotion في الأطلس؛ لم يُضَف رابط."
+  - "لا يوجد ملف بعنوان 'المعالجة الانفعالية-الخطاطية' بالـslug المقترح con-emotional-schematic-processing في الأطلس؛ لم يُضَف رابط."
   - "التمييز بين 'الانفعالات المُحوَّلة' (Maladaptive) و'الانفعالات غير التكيفية' (Dysfunctional) و'الانفعالات المُشكِّلة للأعراض' (Symptom-Forming) ليس موحَّداً في الأدبيات."
   - "الأساس التجريبي للتمييز بين 'المحوَّلة' و'الأولية' (Greenberg & Safran 1987) يحتاج مراجعة منهجية مُحدَّثة."
 ---
@@ -113,8 +114,8 @@ gaps:
 - Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change*. Guilford Press.
 - Leahy, R. L. (2002). «A model of emotional schemas». *Cognitive and Behavioral Practice*, 9(1), 50-59.
 
-## ملاحظة معمارية
+## الروابط والسياق
 
 - ينتمي إلى **sch-eft** كمفهوم نظري مؤسِّس.
-- مرتبط بـ**con-primary-emotion** (الانفعالات الأولية) و**con-secondary-emotion** (الانفعالات الثانوية) كمكمِّلات.
-- مُكمِّل لـ**con-emotional-schematic-processing** (المعالجة الانفعالية-الخطاطية) في CBT الموجة الثالثة.
+- صاغه **thk-greenberg-lisa** بالاشتراك مع **thk-ssafran** في 1987 كتمييز نظري داخل EFT.
+- مرتبط بـ**con-primary-emotion** (الانفعالات الأولية) بوصفه الطرف المقابل الذي يُخفيه الانفعال المُحوَّل.

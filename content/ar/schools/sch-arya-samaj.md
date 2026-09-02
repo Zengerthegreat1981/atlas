@@ -9,18 +9,19 @@ en: "Arya Samaj"
 crumb: "الفلسفة ← القرن 19 ← إصلاح الهندوسية ← آريا ساماج"
 dates: "الهند · من 1875 إلى 1947"
 country: "الهند (بومباي، البنغال، البنجاب)"
+cultural_origin: "indian"
 language: "الهندية، السنسكريتية، الأردية"
 active_start: 1875
 active_end: 1947
 edges:
 - rel: "belongs_to", target: "sch-neohinduism", target_type: "مظلة"
-- rel: "superseded_by", target: "الهندوتفا (حركة قومية هندوسية)", target_type: "مدرسة"
+- rel: "superseded_by", target: "sch-hindutva", target_type: "مدرسة"
 related:
-- id: "thk-dayananda", title: "سوامي داياناندا سراسواتي", type: "مفكر"
+- id: "thk-dayananda", title: "سوامي دياناندا ساراسواتي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«مفهوم الإيمان النفعي (S'raddhā)» (thk-shraddha) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات 'لاكشمي نارايانا تيواري' (Lakshmi Narayan Tiwari) في 'الآريا ساماج' لم تُغطَ."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس منسوب بدقة يمكن التحقق من مصدره ضمن المتن الحالي."
 ---
 
 # آريا ساماج
@@ -58,7 +59,7 @@ gaps:
 ## الإرث
 
 - **حركة الاستقلال الهندية**: في كتابات «Tilak» و«Lala Lajpat Rai».
-- **حركة هندوتفا (Hindutva)**: في كتابات «V.D. Savarkar» (1883-1966) «Hindutva: Who Is a Hindu?» (1923).
+- **حركة هندوتفا (Hindutva)**: في كتابات «V.D. Savarkar» (وُلد 1883، توفي بعد وفاة آريا سماج المنظمة، بعد وفاته عام 1966) «Hindutva: Who Is a Hindu?» (1923).
 - **الإصلاح الديني في الباكستان وبنغلاديش**: في كتابات «Muhammad Iqbal».
 
 ## القيد
@@ -66,3 +67,9 @@ gaps:
 - تهمة «الانغلاق الديني» (نقد من آريا) تستحق مراجعة.
 - «التمييز» (Dalits) من «الهندوسية» (في كتابات «Ambedkar» 1936) موضع بحث نقدي.
 - العلاقة مع «براهمو ساماج» موضع خصومة تاريخية.
+
+## المصادر
+
+- Dayananda Saraswati, *Satyarth Prakash* (1875).
+- Kenneth W. Jones, *Socio-Religious Reform Movements in British India* (Cambridge University Press, 1989).
+- J.T.F. Jordens, *Dayananda Sarasvati: His Life and Ideas* (Oxford University Press, 1978).

@@ -12,16 +12,14 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-- id: "tec-motivational-interviewing", title: "المقابلة التحفيزية", type: "تقنية/تدخل علاجي"
+- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
+- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
-- id: "tec-relapse-prevention", title: "الوقاية من الانتكاس", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "ins-sogs", title: "مقياس فرز إدمان القمار في ساوث أوكس", type: "أداة قياس"
 - id: "ins-young-iat", title: "مقياس يونغ لإدمان الإنترنت", type: "أداة قياس"
@@ -30,12 +28,19 @@ gaps:
   - "الفرق بين gambling disorder وhazardous gambling في ICD-11 6C50 / QE21 لم يُقارن نصاً بنص."
   - "الأدلة على naltrexone / nalmefene لـGD في DSM-5-TR guidance لم تُغطَّ نصاً."
   - "الفرق بين GD وbehavioral addictions (internet gaming disorder) في DSM-5-TR لم يُناقَش نصاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب القمار
 
 اضطراب سلوكي يتمحور حول نمط مُتكرِّر من سلوك القمار (gambling) يؤدي إلى ضائقة أو ضعف إكلينيكي ملحوظ، يتميّز بفقدان السيطرة، والاستمرار رغم العواقب المالية والشخصية، والرغبة الشديدة. اعترفت به DSM-5 (2013) كأول **إدمان سلوكي غير مرتبط بمادة**، وأكَّد عليه DSM-5-TR وICD-11 (تحت فئة "Disorders due to addictive behaviours").
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11 دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب القمار كفئة تشخيصية سريرية (نمط سلوكي مُعرَّف بعشرة معايير في DSM-5-TR، فقدان سيطرة قابل للقياس وعواقب وظيفية) وبين con-blind-will-to-life (إرادة الحياة العمياء عند شوبنهاور) كطرح فلسفي عن استمرار الرغبة والسعي دون إشباع نهائي كخاصية بنيوية للوجود الإنساني ذاته — الأول حالة سريرية محدَّدة الأعراض قابلة للتشخيص والعلاج، والثاني تصوّر ميتافيزيقي عام عن طبيعة الإرادة لا يفترض بذاته أي اضطراب.
 
 ## ملاحظات على المعايير التشخيصية
 

@@ -7,8 +7,8 @@ title: "جون دانييل وايلد"
 en: "John Daniel Wild"
 crumb: "المدرسة الوجودية ← الناس ← جون دانييل وايلد"
 dates: "أمريكا · 1902–1972"
-active_start: 1955
-active_end: 1969
+active_start: 1927
+active_end: 1972
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
@@ -21,13 +21,12 @@ related:
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'تحدي الوجودية' (The Challenge of Existentialism, 1955) و'عالم الحياة' يستحقان إدراجاً في الأعمال."
+  - "لم يُعثر على اقتباس منسوب مباشرة لوايلد أثناء البحث المتاح."
 ---
 
 # جون دانييل وايلد
 
-فيلسوف وجودي وظاهراتي أمريكي كبير، أستاذ الفلسفة في جامعة هارفارد ونورث وسترن وييل، المؤسس الرئيسي لـ «الجمعية الأمريكية للفينومينولوجيا والفلسفة الوجودية» (SPEP).
+فيلسوف وجودي وظاهراتي أمريكي (1902–1972)، درّس الفلسفة في جامعة هارفارد (1927–1961) ثم ترأس قسم الفلسفة في جامعة نورث وسترن (1961–1963) ثم جامعة ييل (1963–1969) وأخيراً جامعة فلوريدا (1969–1972). أحد المؤسسين الرئيسيين لـ «جمعية الفينومينولوجيا والفلسفة الوجودية» (Society for Phenomenology and Existential Philosophy، SPEP) عام 1962، إلى جانب كالفن شراغ وجيمس إيدي وويليام إيرل وجورج شريدر.
 
 ## ما أعطاه
 
@@ -42,4 +41,11 @@ gaps:
 
 ## أهم أعماله
 
-تحدي الوجودية (The Challenge of Existentialism, 1955) · الوجود وعالم الحياة (Existence and the World of Freedom, 1963) · الفينومينولوجيا الراديكالية (The Radical Empiricism of William James, 1969).
+تحدي الوجودية (The Challenge of Existentialism, 1955) · الوجود وعالم الحياة (Existence and the World of Freedom, 1963) · التجريبية الراديكالية عند وليام جيمس (The Radical Empiricism of William James, 1969).
+
+## المصادر
+
+- Yale Archives, "Collection: John Daniel Wild papers": https://archives.yale.edu/repositories/11/resources/869
+- SPEP, "History": https://www.spep.org/about/history/
+- Wild, J. (1955). *The Challenge of Existentialism*. Indiana University Press.
+- Wild, J. (1969). *The Radical Empiricism of William James*. Doubleday.

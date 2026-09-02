@@ -14,10 +14,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cft", target_type: "مدرسة"
 related:
-- id: "sch-cft", title: "العلاج المتمحور حول التعاطف", type: "مدرسة"
+- id: "sch-cft", title: "العلاج المتمحور حول التعاطف (CFT)", type: "مدرسة"
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
-- id: "con-cft-self-compassion", title: "التعاطف (Compassion)", type: "مفهوم"
-- id: "con-shame-self-criticism", title: "الخجل والنقد الذاتي", type: "مفهوم"
+- id: "con-cft-self-compassion", title: "التعاطف مع الذات (Self-Compassion, CFT)", type: "مفهوم"
+- id: "con-shame-self-criticism", title: "الخزي ونقد الذات", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظام التهديد (con-threat-system)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظام السعي (con-drive-system)"

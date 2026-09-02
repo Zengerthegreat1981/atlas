@@ -6,9 +6,9 @@ level: "متوسط"
 title: "يانغ ديشن"
 en: "Yang Desen (Yang Deshen)"
 crumb: "الطاوية المعرفية (Chinese Taoist Cognitive Therapy) ← الناس ← يانغ ديشن"
-dates: "الصين · معاصر"
+dates: "الصين · وُلد 1932"
 active_start: 1980
-active_end: 2010
+active_end: 2012
 country: "الصين"
 language: "الصينية"
 part: "psychology"
@@ -18,7 +18,6 @@ related:
 - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
 gaps:
   - "الاسم الوارد أصلاً في التصنيف ('يونغ جينغ تشي' / Yong Jingqi) لا يطابق اسماً موثقاً؛ المؤسس الموثق لهذه المدرسة هو الطبيب النفسي الصيني يانغ ديشن (Yang Desen) بالاشتراك مع تشانغ يالين (Zhang Yalin)."
-  - "سنة الميلاد الدقيقة غير متوفرة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشانغ يالين (thk-zhangyalin)."
 ---
 

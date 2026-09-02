@@ -10,7 +10,7 @@ crumb: "المدارس الفلسفية الكبرى ← الفروع والتي
 active_start: 1570
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "القبالة اللوريانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kabbalah-lurianic", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية لتاريخ وتطور هذا التيار الفرعي وعلاقته بالمدرسة الأم."
   - "لا يوجد اقتباس مباشر موثوق متاح."

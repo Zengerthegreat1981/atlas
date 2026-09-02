@@ -12,19 +12,20 @@ active_end: "مستمر"
 edges:
 - rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "con-death", title: "الموت", type: "مفهوم"
-- id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
-- id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
-- id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
-- id: "crt-adorno-jargon-authenticity-critique", title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية", type: "نقد خارجي موثَّق"
-- id: "stu-meaning-making-model-park", title: "نموذج صنع المعنى (Meaning Making Model)", type: "دراسة وبحث"
-- id: "tec-leadership-diamond-koestenbaum", title: "الألماسة القيادية الوجودية (The Leadership Diamond)", type: "تقنية/تدخل علاجي"
-- id: "br-affective-neuroscience-informed", title: "العلاج المستنير بعلم الأعصاب الوجداني", type: "تيار"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد ربط موثّق لأعمال مكتوبة بعينها (مثل كتب كيركيغارد أو تيليش) لأن المتن لا يسمّي عنوان عمل محدد بصياغة يمكن التحقق من ملفه."
+  - "علاقة القلق بمفهوم الموت (con-death) واردة فقط كإشارة عابرة ضمن تصنيف تيليش الثلاثي، وليست معالجة مستقلة تكفي لتبرير ربط قائم بذاته."
+  - "لا يوجد تفصيل كافٍ في المتن عن موقف ميدارد بوس من استهداف القلق علاجياً لبناء رابط مستقل موثّق به."
 ---
 # القلق
 

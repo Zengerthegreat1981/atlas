@@ -6,6 +6,10 @@ part: "psychology"
 level: "متوسط"
 title: "كتاب العلاج بنظام الأسرة الداخلية لريتشارد شوارتز (1995)"
 en: "Internal Family Systems Therapy by Richard C. Schwartz"
+author: "ريتشارد شوارتز"
+author_slug: "thk-richard-schwartz"
+publication_year: 1995
+original_language: "الإنجليزية"
 crumb: "كتب العلاج النفسي ونظام الأجزاء ← أمهات الأعمال ← العلاج بنظام الأسرة الداخلية"
 active_start: null
 active_end: "مستمر"

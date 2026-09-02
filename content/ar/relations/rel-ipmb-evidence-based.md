@@ -12,8 +12,8 @@ edges:
 - rel: "connects", target: "", target_type: "مدرسة"
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
-- id: "dbt-evidence-based-practice-clinical-decision-making", title: "", type: "مدرسة"
-- id: "rel-integrative-cbt-common-factors", title: "", type: "مدرسة"
+- id: "dbt-evidence-based-practice-clinical-decision-making", title: "جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ", type: "جدل"
+- id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
 - id: "rel-somatic-trauma", title: "الجسدية وعلاج الصدمة: من Levine إلى van der Kolk", type: "علاقة بين مدرستين"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"

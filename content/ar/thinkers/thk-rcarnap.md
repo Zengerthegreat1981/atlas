@@ -11,7 +11,7 @@ dates: "ألمانيا ثم الولايات المتحدة · 1891–1970"
 country: "ألمانيا ثم الولايات المتحدة"
 language: "الألمانية ثم الإنجليزية"
 active_start: 1926
-active_end: 1961
+active_end: 1970
 edges:
 - rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 related:
@@ -21,7 +21,6 @@ related:
 - id: "sch-quinean-naturalism", title: "الطبيعانية التحليلية (الكواينية)", type: "مدرسة"
 gaps:
   - "تحول كارناب من 'البنية المنطقية للعالم' (1928) إلى 'البنية اللغوية' (1935) لم يُحلّل في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق من 'الأسئلة الإجبارية' (1937)."
 ---
 
 # رودولف كارناب
@@ -46,3 +45,10 @@ gaps:
 ## الأثر
 
 يعدّ كارناب الجسر الأهم بين الوضعية المنطقية الأوروبية والطبيعانية الكواينية الأمريكية. كواين نفسه كان تلميذه.
+
+## المصادر
+
+- Carnap, R. (1928). *Der logische Aufbau der Welt*. Berlin: Weltkreis-Verlag.
+- Carnap, R. (1934). *Logische Syntax der Sprache*. Vienna: Springer.
+- Carnap, R. (1950). *Logical Foundations of Probability*. Chicago: University of Chicago Press.
+- Creath, R. (ed.) "Carnap, Rudolf". *Stanford Encyclopedia of Philosophy*.

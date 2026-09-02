@@ -11,6 +11,12 @@ active_start: -500
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
+related:
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل"
+- id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
+- id: "con-junzi-exemplary-person", title: "الجونزي — الإنسان النبيل والقدوة الأخلاقية (Junzi)", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -12,24 +12,22 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-gold", title: "جوزيف غولد", type: "مفكر"
+- id: "thk-gold", title: "جيرولد ر. غولد", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-beutler", title: "لاري بويتلر", type: "مفكر"
 - id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
-- id: "thk-diclemente", title: "كارل دي كليمنتي", type: "مفكر"
+- id: "thk-diclemente", title: "كارلو دي كليمنتي", type: "مفكر"
 - id: "thk-goldfried", title: "مارفين غولدفريد", type: "مفكر"
 - id: "thk-hohagen", title: "فريدريش هوهاغن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جورج ستريكر
 
-عالم نفس إكلينيكي أمريكي وأستاذ في جامعة أرجوسي (Adelphi University)، المؤسس المشارك مع جوزيف غولد لـ«التكامل الاستيعابي» (Assimilative Integration) في التسعينيات، والمحرر المؤسس لمجلة «Journal of Psychotherapy Integration».
+عالم نفس إكلينيكي أمريكي، قضى معظم مسيرته الأكاديمية في معهد ديرنر (Derner Institute) بجامعة أدلفي قبل انتقاله لاحقاً إلى جامعة أرجوسي (فرع واشنطن العاصمة)، والمؤسس المشارك مع جوزيف غولد لـ«التكامل الاستيعابي» (Assimilative Integration) في التسعينيات، والمحرر المؤسس لمجلة «Journal of Psychotherapy Integration».
 
 ## ما أعطاه
 
@@ -38,3 +36,9 @@ gaps:
 ## موقعه من التيار
 
 يعدّ ستريكر منظراً جوهرياً في التمييز بين «التكامل الاستيعابي» و«التكامل التقني» و«التكامل النظري المتكافئ» (Equilibrium Integration) و«التكامل الطموح» (Aspirational Integration)، وأثّر في صياغة المعايير الرسمية للجمعيات النفسية.
+
+## المصادر
+
+- Stricker, G. & Gold, J. (eds.) (1993). *Comprehensive Handbook of Psychotherapy Integration*. Plenum Press.
+- Stricker, G. & Gold, J. (1996). "Comprehensive psychotherapy integration: An assimilative, psychodynamic approach." *Journal of Psychotherapy Integration*.
+- American Psychological Association, Division 29 — George Stricker biographical profile.

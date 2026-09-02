@@ -12,6 +12,7 @@ country: "الهند (الأصلية)، سيلان، بورما، تايلاند
 language: "البالي"
 active_start: -300
 active_end: "مستمر"
+cultural_origin: "south-asian"
 edges:
 - rel: "evolved_from", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
@@ -60,3 +61,10 @@ gaps:
 ## القيد
 
 - التأكيد على النفس الأثاثية (Arahant) مقابل البوديساتفا في الماهايانا.
+
+## المصادر
+
+- Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
+- Rahula, W. (1959). *What the Buddha Taught*. Grove Press.
+- Buddhaghosa (تر. Ñāṇamoli, 1975). *The Path of Purification (Visuddhimagga)*. Buddhist Publication Society.
+- Gombrich, R. (1988). *Theravada Buddhism: A Social History from Ancient Benares to Modern Colombo*. Routledge.

@@ -17,9 +17,21 @@ related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
+- id: "thk-antonio-gramsci", title: "أنطونيو غرامشي", type: "مفكر"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
+- id: "thk-louis-althusser", title: "لويس ألتوسير", type: "مفكر"
+- id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
+- id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
+- id: "thk-badiou", title: "ألان باديو", type: "مفكر"
+- id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 gaps:
-  - "دور 'Anti-Dühring' لإنغلز في تبسيط المادية التاريخية لم يُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق من 'Vorwort zu Zur Kritik' بعد."
+  - "دور 'Anti-Dühring' لإنغلز (1878) في تبسيط المادية التاريخية بحاجة لمراجعة نسخة ألمانية أصلية مقارنة بالترجمات."
+  - "طبعة 'Vorwort zu Zur Kritik der Politischen Ökonomie' (1859) الأصلية لم تُراجع مباشرة، والاقتباس المذكور معتمد على ترجمات ثانوية."
 ---
 
 # المادية التاريخية (Historischer Materialismus)

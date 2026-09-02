@@ -12,15 +12,15 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: 2009
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-bmoore", title: "بوب مور", type: "مفكر"
 - id: "thk-hpalmer", title: "هاري بالمر", type: "مفكر"
 - id: "thk-jhouston", title: "جين هيوستن", type: "مفكر"
 gaps:
   - "تفاصيل هجرته من Philadelphia وتغيير اسمه من John Paul Rosenbaum إلى Werner Erhard لم تُوثّق بدقة محايدة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد مدرسة `sch-` موثّقة في الأطلس لحركة EST / Landmark Forum — سُجّلت في agents_specs/missing-schools.md، وحُذف رابط belongs_to (كان يشير لنص حر لا slug)."
+  - "تاريخ active_end (2009) غير مؤكَّد بمصدر أولي — Landmark Forum لا يزال نشطاً حتى اليوم وإيرهارد على قيد الحياة."
 ---
 
 # ويرنر إيرهارد
@@ -58,3 +58,8 @@ gaps:
 - *EST: An Introduction* (السبعينيات من القرن العشرين، نشر ذاتي).
 - *Landmark Forum Curriculum Materials* (1991–).
 - *The End of Starvation* (1980).
+
+## المصادر
+
+- Pressman, S. (1993). *Outrageous Betrayal: The Dark Journey of Werner Erhard from Est to Exile*. St. Martin's Press.
+- تقرير قناة CBS "60 Minutes" (1991) عن التحقيقات الضريبية ومزاعم الإساءة العائلية.

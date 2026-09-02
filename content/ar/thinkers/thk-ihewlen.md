@@ -6,19 +6,15 @@ level: "مبتدئ"
 title: "إِهالِيكالا هيو لين"
 en: "Ihaleakala Hew Len"
 crumb: "أطر غير غربية ← المفكرون ← إِهالِيكالا هيو لين"
-dates: "هاواي · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة (هاواي) · 1939–2022"
 country: "الولايات المتحدة (هاواي)"
 language: "الإنجليزية / الهاوائية"
-active_start: 1991
-active_end: "مستمر"
+active_start: 1982
+active_end: 2022
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-msimeona", title: "مورّنا سيميونّا", type: "مفكر"
-- id: "thk-skalama", title: "سام كالاما", type: "مفكر"
-- id: "thk-mking", title: "ميليسا كينغ", type: "مفكر"
-- id: "thk-lmorrnah", title: "إبراهام كاوانيوآ", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الجغرافي الحالي لم يُوثّق."
   - "لا يوجد اقتباس مباشر موثوق متاح."

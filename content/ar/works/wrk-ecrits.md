@@ -8,6 +8,10 @@ en: "Écrits — Jacques Lacan"
 crumb: "التحليل النفسي ← الأعمال ← الكتابات"
 dates: "1966"
 language: "الفرنسية"
+author: "جاك لاكان"
+author_slug: "thk-lacan"
+publication_year: 1966
+original_language: "الفرنسية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
@@ -15,10 +19,9 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "wrk-ecrits", target_type: "مفكر"
 related:
-- id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

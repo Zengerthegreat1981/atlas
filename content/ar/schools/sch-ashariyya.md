@@ -9,11 +9,11 @@ en: "Ash'ariyya"
 crumb: "الفلسفة ← الإسلام ← علم الكلام ← الأشعرية"
 dates: "العراق ومصر والأندلس · من القرن 9 م إلى اليوم"
 country: "الدولة العباسية، الخلافة الفاطمية (معارضة)، الأندلس"
+cultural_origin: "islamic-arabic"
 language: "العربية"
 active_start: 900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-mutazila", target_type: "مدرسة"
 related:
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
@@ -25,7 +25,7 @@ related:
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "تاريخ تحوّل أبي الحسن الأشعري من معتزلي إلى ناقدهم (سنة 300 هـ الأكثر شيوعاً) يحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من كتب الأشعري نفسها (كـ«الإبانة» و«مقالات الإسلاميين»)."
+  - "لم يُعثر على اقتباس منسوب بدقة يمكن التحقق منه من كتب الأشعري نفسها (كـ«الإبانة» و«مقالات الإسلاميين»)."
 ---
 
 # الأشعرية
@@ -69,3 +69,9 @@ gaps:
 ## الموقف من الفلسفة
 
 مزجت بين الهجوم على الفلاسفة (مع الغزالي) والاقتباس منهم (مع الرازي). قَبِلت المنطق الأرسطي كأداة، لكن رفضت نتائجهم في قدم العالم ونفي الصفات.
+
+## المصادر
+
+- أبو الحسن الأشعري، *الإبانة عن أصول الديانة*.
+- Richard M. Frank, *Al-Ghazali and the Ash'arite School* (Duke University Press, 1994).
+- W. Montgomery Watt, *Islamic Philosophy and Theology* (Edinburgh University Press, 1962).

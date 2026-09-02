@@ -18,8 +18,7 @@ related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "أطروحته حول الرؤى التراجيدية والكوميدية والرومانسية في العلاج النفسي تحتاج توثيقاً تحريرياً."
+  - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
 ---
 
 # ستانلي ميسر
@@ -39,4 +38,10 @@ gaps:
 
 ## أهم أعماله
 
-الرؤى التأويلية في العلاج النفسي (Hermeneutics and Psychological Theory, 1988) · نماذج العلاج النفسي الموجز (Essential Psychotherapies, 1995/2019).
+مؤلف مشارك في *Hermeneutics and Psychological Theory* (مع Louis Sass وRoyce Woolfolk، 1988) ومحرر مشارك لسلسلة *Essential Psychotherapies* (طبعات متعددة حتى 2019) التي يقارن فيها بين النماذج العلاجية الكبرى بمنهج تأويلي-نقدي.
+
+## المصادر
+
+- Louis A. Sass, Robert Woolfolk, Stanley B. Messer (eds.), *Hermeneutics and Psychological Theory*, Rutgers University Press, 1988.
+- Stanley B. Messer, Alan S. Gurman (eds.), *Essential Psychotherapies: Theory and Practice*, Guilford Press, editions through 2019.
+- Rutgers University, Graduate School of Applied and Professional Psychology — سجل عمادة ستانلي ميسر.

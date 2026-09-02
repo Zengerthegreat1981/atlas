@@ -8,6 +8,11 @@ en: "Lepper, Greene & Nisbett Overjustification Effect Study on Drawing and Rewa
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة ليبر لفرط التبرير"
 active_start: 1973
 active_end: 1973
+study_year: 1973
+design: "تجربة معملية بتصميم بين-المجموعات (between-subjects experimental design)، 3 مجموعات عشوائية"
+sample_size: 51
+main_finding: "أطفال مجموعة 'الجائزة المتوقعة' قضوا 8.6% فقط من وقت الفراغ في الرسم، مقابل 18% (جائزة مفاجئة) و17% (ضابطة) — فرط التبرير خفّض الدافع الداخلي"
+replication_status: "replicated"
 part: "psychology"
 related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"

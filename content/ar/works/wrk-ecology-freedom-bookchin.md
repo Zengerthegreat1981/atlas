@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← الإيكولوجيا الاجت�
 dates: "1982 · موراي بووكين"
 language: "الإنجليزية"
 active_start: 1982
-active_end: 1982
+active_end: 1996
+author: "موراي بووكين"
+author_slug: "thk-bookchin"
+publication_year: 1982
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-ecology", target_type: "مدرسة"
 related:

@@ -13,8 +13,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2016
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي واليقظة الذهنية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-think-like-a-monk", title: "فكر كراهب", type: "عمل / كتاب"
 gaps:

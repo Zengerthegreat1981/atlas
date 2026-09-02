@@ -12,15 +12,14 @@ language: "الألمانية/الفارسية"
 active_start: 1968
 active_end: 2010
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج الإيجابي عبر-الثقافي (Peseschkian)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-brueger", title: "بيرند رويغر", type: "مفكر"
 - id: "thk-mcierpka", title: "مانفريد شيربكا", type: "مفكر"
 - id: "thk-fpeseschkian", title: "فريد بيسشكيان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
+  - "مدرسة العلاج الإيجابي عبر-الثقافي التي أسسها غير موجودة كملف slug مستقل في الأطلس — تحتاج تسجيلاً في missing-schools.md."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فريد بيسشكيان (thk-fpeseschkian)."
 ---
 
@@ -48,6 +47,7 @@ gaps:
 - *Positive Family Therapy* (1986) — امتداد أسري.
 - *Positive Psychotherapy of Everyday Life* (1994).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Peseschkian, N. *Positive Psychotherapy: Theory and Practice of a New Method* (Springer, 1977/1987).
+- World Association for Positive and Transcultural Psychotherapy (WAPP) — الأرشيف المؤسسي.

@@ -13,7 +13,7 @@ language: "اللاتينية"
 active_start: 1270
 active_end: 1280
 edges:
-- rel: "belongs_to", target: "المشائية الأرسطية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"

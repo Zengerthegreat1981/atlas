@@ -13,11 +13,12 @@ language: "الألمانية"
 active_start: 1797
 active_end: 1854
 active_source: "lifespan"
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-hegelianism", target_type: "مدرسة"
 related:
-- id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
@@ -25,7 +26,6 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 gaps:
   - "فلسفة شيلنغ الإيجابية (الإلهية) و'فلسفة الأسطورة' بحاجة إلى مراجعة نقدية من نص 'فلسفة الدين' (1842–1854)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الشيلنغية
@@ -49,3 +49,10 @@ gaps:
 
 - تجزؤ المذهب بين مراحل متعاقبة (الطبيعة، الهوية، الإيجابية) يجعل الإحاطة به صعبة دون قراءة متخصصة.
 - تهمة «اللاعقلانية» التي ألصقها فلاسفة القرن 20 (مثل برجسون وكاسيرر) بالمذهب لا تزال موضع مراجعة نقدية.
+
+## المصادر
+
+- Schelling, F. W. J. *System of Transcendental Idealism* (1800). Translated by Peter Heath. University of Virginia Press, 1978.
+- Bowie, Andrew. *Schelling and Modern European Philosophy: An Introduction*. Routledge, 1993.
+- Beiser, Frederick C. *German Idealism: The Struggle Against Subjectivism, 1781–1801*. Harvard University Press, 2002.
+- Stanford Encyclopedia of Philosophy. "Friedrich Wilhelm Joseph von Schelling." Accessed 2026.

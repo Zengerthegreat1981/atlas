@@ -9,6 +9,7 @@ en: "Xuanxue (Dark Learning / Neo-Daoism)"
 crumb: "الفلسفة ← الصين ← شوان شيويه (التعلم الغامض)"
 dates: "الصين · من القرن 3 م إلى القرن 4 م تقريباً"
 country: "الصين"
+cultural_origin: "east-asian"
 language: "الصينية الكلاسيكية"
 active_start: 220
 active_end: 420
@@ -26,7 +27,6 @@ related:
 gaps:
   - "نصوص Wang Bi وPei Songzhi وGuo Xiang بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "تحديد 'الأصل' (You / Wu) و'اللاعمل' (Wu-wei) في نصوص Wang Bi يستحقّ تحليلاً أعمق."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # شوان شيويه (التعلم الغامض)
@@ -55,3 +55,10 @@ gaps:
 ## الإرث الفكري
 
 ميّز ديفيد هال وباحثون آخرون قراءتها بوصفها ظهوراً فلسفياً مبكراً لموضوعية أفلاطونية جديدة (بالنسبة للداو) في سياق صيني. وقد فتحت شوان شيويه الباب أمام استيعاب البوذية في الصين بإعادة تأطير الداو مبدأً متعالياً، وهو ما سهّل ترجمة مصطلحي "سوترا" و"بوديتشيتا" بلغة صينية.
+
+## المصادر
+
+- Chan, Wing-tsit. *A Source Book in Chinese Philosophy*. Princeton University Press, 1963.
+- Ziporyn, Brook. *The Penumbra Unbound: The Neo-Taoist Philosophy of Guo Xiang*. State University of New York Press, 2003.
+- Wagner, Rudolf G. *The Craft of a Chinese Commentator: Wang Bi on the Laozi*. State University of New York Press, 2000.
+- Mather, Richard B. "The Controversy over Conformity and Naturalness during the Six Dynasties." *History of Religions*, 9(2/3), 1969.

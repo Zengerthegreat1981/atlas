@@ -8,18 +8,16 @@ en: "Studien über Hysterie"
 crumb: "التحليل النفسي ← الأعمال ← دراسات في الهستيريا"
 dates: "1895 · جوزيف بروير وسيغموند فرويد"
 active_start: 1895
-active_end: 1895
+active_end: 2000
 language: "الألمانية"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "authored_by", target: "جوزيف بروير", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب يحوي فصولاً من تأليف Freud وفصولاً من Breuer — النسبة الدقيقة لم تُراجع من المصدر الأولي بعد."
   - "لا يوجد ملفّا مفكر (thk-) لـ Freud أو Breuer في الفهرس بعد — مُدرجان في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # دراسات في الهستيريا

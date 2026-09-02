@@ -12,23 +12,12 @@ language: "الإنجليزية / العبرية / الفرنسية"
 active_start: 1949
 active_end: 1984
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "طريقة فيلدنكرايس", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-falexander", title: "فريدريك ماتياس ألكسندر", type: "مفكر"
-- id: "thk-lavinia-shaw", title: "لاڤينيا شو", type: "مفكر"
-- id: "thk-markrees", title: "مارك ريس", type: "مفكر"
-- id: "thk-rupertpriest", title: "روبرت بريست", type: "مفكر"
-- id: "thk-stephenburgess", title: "ستيفن بورغس", type: "مفكر"
-- id: "thk-yvaniedmon", title: "إيڤاني إدمون", type: "مفكر"
 gaps:
   - "تفاصيل عمله في الفيزياء النووية مع فريديريك جوليو-كوري ودراساته للدفاع عن النفس (Jiu-Jitsu) لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لاڤينيا شو (thk-lavinia-shaw)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارك ريس (thk-markrees)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت بريست (thk-rupertpriest)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن بورغس (thk-stephenburgess)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيڤاني إدمون (thk-yvaniedmon)."
+  - "لا يوجد ملف مدرسة/تيار مستقل حالياً لـ«طريقة فيلدنكرايس» في المحتوى المعتمد (يوجد فقط tec-feldenkrais-method كتقنية) — سُجّلت في missing-schools.md."
 ---
 
 # موشيه فيلدنكرايس
@@ -54,6 +43,8 @@ gaps:
 - *The Case of Nora* (1977).
 - *The Elusive Obvious* (1981).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Feldenkrais, Moshé. *Body and Mature Behavior: A Study of Anxiety, Sex, Gravitation and Learning*. New York: International Universities Press, 1949.
+- Feldenkrais, Moshé. *Awareness Through Movement*. New York: Harper & Row, 1972.
+- Feldenkrais Guild of North America — أرشيف السيرة الرسمية لموشيه فيلدنكرايس.

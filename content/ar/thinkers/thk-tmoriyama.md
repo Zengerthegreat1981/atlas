@@ -2,41 +2,53 @@
 slug: "thk-tmoriyama"
 id: "THK-2049"
 type: "مفكر"
-level: "متوسط"
-title: "تِتسومي موريياما"
-en: "Tetsumi Moriyama"
-crumb: "السلوكية (Behaviorism) ← الناس ← تِتسومي موريياما"
-dates: "اليابان · [غير مؤكد]"
+level: "مبتدئ"
+title: "تِتسومو موريياما"
+en: "Tetsuo Moriyama"
+dates: "اليابان"
 country: "اليابان"
 language: "اليابانية"
-part: "psychology"
-active_start: null
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
+part: "psychology"
+crumb: "السلوكية (Behaviorism) ← الناس ← تِتسومو موريياما"
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-nsugiyama", title: "نَأوكو سُوگييامَا", type: "مفكر"
+- id: "thk-hjguilhardi", type: "مفكر", title: "هيليو جيلاردي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "اسم 'Tetsumi Moriyama' (الاسم الأول 'Tetsumi' بالأنثوي، الصحيح هو 'Tetsuo' — الاسم الذكوري) يوحي بنسخة مغلوطة من الاسم الياباني."
+  - "لا توجد سيرة ذاتية منشورة لهذا الاسم في Tokiwa University أو J-ABA."
+  - "لا توجد أطروحة منشورة بهذا الاسم في CiNii (قاعدة البيانات الأكاديمية اليابانية) أو J-STAGE."
+  - "الاحتمال الأقوى: خطأ إملائي في الحرف 'o' بدلاً من 'u' في 'Tetsumi' بدلاً من 'Tetsuo'."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح الاسم (Tetsuo Moriyama؟)، أو دمج في ملف ABA الياباني عام."
 ---
 
-# تِتسومي موريياما
+# تِتسومو موريياما
 
-عالم نفس ياباني، أستاذ في Tokiwa University في Mito، رئيس تحرير سابق لمجلة «Japanese Journal of Behavior Analysis» (J-JBA، 2012–2015)، نائب رئيس جامعة 2008–2011.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في قواعد بيانات علم النفس الياباني]
 
-## ما أعطاه
+## محاولة التوثيق
 
-رئيس تحرير J-JBA (2012–2015)، فأَشرف على تراكم الأبحاث اليابانية في تحليل السلوك. كذلك أَلَّف مقالات في تعليم علم النفس التحليلي السلوكي في الجامعات اليابانية.
+- **الاسم المُسجَّل**: Tetsumi Moriyama (بالأنثوي / تي + س + م + ي).
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **J-STAGE** (قاعدة المجلات اليابانية): لا مقالة بهذا الاسم.
+  - **CiNii** (الأبحاث اليابانية): لا نتائج في علم النفس السلوكي.
+  - **Tokiwa University** (المذكور في frontmatter): لا يوجد أستاذ بهذا الاسم.
+  - **J-ABA (Japanese Association for Behavior Analysis)**: لا عضوية.
+  - **APA PsycINFO**: لا مقالة منشورة.
+- **الاسم الأقرب**: **تِتسو موريياما** (Tetsuo Moriyama) — قد يكون خطأً إملائياً. لكن لا يوجد شخصية بهذا الاسم تعمل في ABA الياباني أيضاً.
 
-## موقعه من التيار
+## ما يحتاجه هذا العنصر
 
-«المُحرِّر المُؤسِّس» للـ J-JBA، الذي يربط Skinner EAB باليابان.
+- **إما**: تصحيح الاسم إلى «Tetsuo Moriyama» إذا كان هناك شخصية حقيقية.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## القيد
-سيرة شخصية محدودة في المصادر الإنجليزية.
+## المصادر
 
-## أهم أعماله
-
-رئاسة تحرير J-JBA (2012–2015).
+- لا توجد مصادر موثّقة بهذا الاسم.
+- J-ABA: https://www.j-aba.jp/
+- Tokiwa University: https://www.tokiwa.ac.jp/
+- Skinner, B. F. (1953). *Science and Human Behavior*. Free Press.

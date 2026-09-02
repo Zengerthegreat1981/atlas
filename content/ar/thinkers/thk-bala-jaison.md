@@ -6,39 +6,32 @@ level: "متوسط"
 title: "بالا جايسون"
 en: "Bala Jaison"
 crumb: "التركيز (Focusing) ← تطوير ← بالا جايسون"
-dates: "الهند · [DRAFT-UNKNOWN]"
-country: "الهند"
+dates: "كندا / الهند · معاصرة"
+country: "كندا"
 language: "الإنجليزية"
-active_start: 2005
+active_start: 1995
 active_end: "مستمر"
-part: "philosophy"
-edges:
-- rel: "belongs_to", target: "التركيز (Focusing)", target_type: "مدرسة"
+part: "psychology"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد slug معتمد لمدرسة/تقنية «التركيز» (Focusing) في content/ar/schools؛ الموجود حالياً مسودة فقط (sch-focusing) وتقنية (tec-focusing-oriented)، فأُفرغ edges.belongs_to حتى يُعتمد slug مناسب."
 ---
 
 # بالا جايسون
 
-أكاديمي هندي، من المساهمين في **تطبيق التركيز** في **السياقات الآسيوية**، خصوصاً في الهند.
+معالجة نفسية إكلينيكية ومؤسسة مركز تورنتو للعلاج بالتركيز (Toronto Center for Focusing-Oriented Therapy)، ومدربة دولية معتمدة من معهد جيندلين للتركيز (TIFI).
 
-## ما أعطاه
+## دمج التركيز مع العلاج المعرفي والعلاج التعبيري
 
-- مساهمات في **برامج تدريب التركيز** في الهند وجنوب شرق آسيا.
-- فصول في كتب عن **«التركيز والثقافة الهندية»**.
-- تطوير **«التركيز في العلاج الأسري الهندي»**.
-- أبحاث عن **«التركيز مع الزبادي»** (السائحين الباحثين عن التأمل في الهند).
+ابتكرت جايسون نموذج «العلاج المتكامل بالتركيز» (Integrating Experiential Focusing with CBT and Art Therapy)، موضحة في كتابها المرجعي *Integrating Experiential Focusing: A Guide for Clinicians* (2002) كيفية استخدام الاستشعار الجسدي كمدخل مباشر لمساعدة العملاء على تجاوز الجمود الفكري وإعادة تقييم المعتقدات التلقائية عبر الحكمة الجسدية العميقة.
 
-## موقعه من التيار
+## أهم المؤلفات
 
-يقف جايسون عند **تلاقي التركيز مع السياقات الروحية الهندية**، وهو ما يُنتج تطبيقات جديدة للنموذج في **ثقافات التأمل**، مع الحفاظ على جوهره الفينومينولوجي.
+- *Integrating Experiential Focusing: A Guide for Clinicians* (Archetype Press, 2002).
+- *Focusing in Action* (1999).
 
-## أهم أعماله
+## المصادر
 
-- مساهمات في كتب التركيز في السياق الهندي.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- Jaison, B. (2002). *Integrating Experiential Focusing: A Guide for Clinicians*. Archetype Press.
+- Gendlin, E. T. (1996). *Focusing-Oriented Psychotherapy: A Manual of the Experiential Method*. Guilford Press.

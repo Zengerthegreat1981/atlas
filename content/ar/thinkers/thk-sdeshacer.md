@@ -75,14 +75,14 @@ SFBT أسس فلسفة براغماتية:
 
 - **"مفاتيح الحل في العلاج المختصر" (Keys to Solution in Brief Therapy, 1985)** — عمله المؤسِّس.
 - **"وضع الفرق للعمل" (Putting Difference to Work, 1991)** — فلسفة الاختلاف.
-- **"أكثر من المعجزات" (More Than Miracles, 2007, posthumous)** — مع جولدنبرغ، وآخرين.
+- **"أكثر من المعجزات" (More Than Miracles, بعد وفاته، 2007)** — مع جولدنبرغ، وآخرين.
 - **"الحبكة في العمل" (Clues, 1988)**.
 
-## الأبحاث
+## الأبحاث (لاحقة، بعضها بعد وفاته)
 
 - **Gingerich & Eisengart (2000)**: تحليل ميتا-تحليلي أظهر فعالية SFBT.
-- **Franklin (2012, 2015)**: دراسات عن SFBT في سياقات العمل الاجتماعي.
-- **Cockburn (2011)**: تقييم شامل لـ SFBT.
+- **Franklin، بعد وفاته (2012، 2015)**: دراسات عن SFBT في سياقات العمل الاجتماعي.
+- **Cockburn، بعد وفاته (2011)**: تقييم شامل لـ SFBT.
 
 ## التطبيقات
 
@@ -107,16 +107,10 @@ SFBT من أهم المقاربات التي:
 - أثبتت أن **جلسات قليلة** قد تكون كافية لكثير من الحالات.
 - أنتجت **تقنيات قابلة للتطبيق** خارج العيادة (في التعليم، العمل، العلاقات).
 
-## المرجع الأساسي
+## المصادر
 
 - de Shazer, S. (1985). *Keys to Solution in Brief Therapy*. W. W. Norton.
 - de Shazer, S. (1991). *Putting Difference to Work*. W. W. Norton.
-- de Shazer, S., et al. (2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. Routledge.
+- de Shazer, S., et al. (بعد وفاته، 2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. Routledge.
 - Berg, I. K., & Szabo, P. (2005). *Brief Coaching for Lasting Solutions*. W. W. Norton.
 - O'Hanlon, W. H., & Weiner-Davis, M. (2003). *In Search of Solutions*. W. W. Norton.
-
----
-
-## ملاحظة معمارية
-
-هذا الملف يحل محل أي ملف بنفس الـslug في المسودات — الهدف الترقية بعد مراجعة وكيل 4.

@@ -74,3 +74,8 @@ gaps:
 - *Qawl fi al-Kawn* (كلام في الكون، أنطولوجيا تجريبية).
 - *Hall Shukuk fi Kitab Uqlidis* (حل شكوك في كتاب أقليدس).
 - *Jami' al-'Ulum* (جوامع العلوم، موسوعة فلسفية، فُقدت).
+
+## المصادر
+
+- A.I. Sabra (trans. & ed.), *The Optics of Ibn al-Haytham, Books I–III: On Direct Vision* (Warburg Institute, 1989).
+- Roshdi Rashed, *Geometry and Dioptrics in Classical Islam* (Al-Furqan Islamic Heritage Foundation, 2005).

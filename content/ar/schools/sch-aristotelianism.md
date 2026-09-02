@@ -12,8 +12,8 @@ country: "يونان (أثينا)، انتشرت في الشرق (روما، ا�
 language: "اليونانية، اللاتينية، السريانية، العربية (في التراث اللاحق)"
 active_start: -335
 active_end: 1650
+cultural_origin: "greek"
 edges:
-- rel: "belongs_to", target: "فلسفة كلاسيكية", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
@@ -92,3 +92,10 @@ gaps:
 - نصوص أرسطو تحتاج فهماً «خارجياً» (interline) لأن أرسطو لا يشرح «ما يعنيه» — يكتفي بعرض الحجج.
 - الأرسطية المنقولة تختلف عن الأرسطية الأصلية. ترجمة «ما بعد الطبيعة» (اللاتينية: Metaphysica) ناقصة في مواضع حرجة.
 - «التوماوية» (Thomism) فرع من الأرسطية، لكنها «أرسطية مع الكدّس الديني»، وليست أرسطية بحتة.
+
+## المصادر
+
+- Jonathan Barnes (ed.), *The Cambridge Companion to Aristotle*, Cambridge University Press, 1995.
+- Richard Sorabji, *Aristotle Transformed: The Ancient Commentators and Their Influence*, Cornell University Press, 1990.
+- Dimitri Gutas, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbasid Society*, Routledge, 1998.
+- Anthony Kenny, *Ancient Philosophy: A New History of Western Philosophy, Volume 1*, Oxford University Press, 2004.

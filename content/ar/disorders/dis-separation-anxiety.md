@@ -12,35 +12,41 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحيّرات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-assertiveness-training", title: "تدريب الحزم", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "تكليف المهام المتدرّجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-mindful-breathing", title: "التنفس الذهنـي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-cope-ahead", title: "المواجهة المسبقة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 gaps:
   - "الفروقات الدقيقة بين DSM-5-TR و ICD-11 في تعريف قلق الانفصال عند البالغين لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُدرَج بعد اقتباس نصي مباشر من DSM-5-TR أو ICD-11 لتعريف الاضطراب بلغته الرسمية."
   - "انتشار الاضطراب في البالغين في السياقات العربية غير موثّق بمراجع أوسع."
 ---
 
 # اضطراب قلق الانفصال
 
 اضطراب قلق الانفصال يتميز بخوف مفرط وغير مناسب لمرحلة النمو من الانفصال عن شخص مرتبط به ارتباطاً وثيقاً (عادة أحد الوالدين أو مقدم الرعاية الأساسي). يظهر القلق بصورة أعراض جسدية (آلام معدة، صداع، غثيان) وسلوكية (تشبّث، رفض الذهاب للمدرسة/العمل)، ومعرفية (مخاوف متكررة من فقدان الشخص أو موته). كان يُعتبر في السابق اضطراباً خاصاً بالطفولة، لكن DSM-5-TR أتاح تشخيصه في البالغين أيضاً.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب قلق الانفصال كفئة تشخيصية رسمية وبين مفهوم 'أساليب التعلّق' (con-attachment-styles) كإطار نظري وصفي عام لأنماط الارتباط العاطفي عبر الحياة — الأخير مفهوم نمائي/نظري عن طبيعة الروابط الإنسانية، لا فئة مرضية بحد ذاته؛ أسلوب تعلّق قلق أو متجنّب لا يعني بالضرورة استيفاء معايير الاضطراب.
 
 ## ملاحظات على المعايير التشخيصية
 

@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الصين ← هوانغ-لاو (التركيب ال
 dates: "الصين · من القرن 3 ق.م إلى القرن 1 ق.م تقريباً"
 country: "الصين"
 language: "الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: -250
 active_end: -50
 active_source: "lifespan"
@@ -21,7 +22,7 @@ related:
 gaps:
   - "النصوص الكاملة (Huainanzi، Taipingjing) نُقلت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "تحديد 'مؤسِّس' المدرسة ليس حاسماً: الاسم يشير إلى هوانغ دي ولاو تزو بوصفهما مرجعَين."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
+  - "لم تُدرَج في هذه المسودة مقارنة سطرية بين ترجمة Huainanzi الإنجليزية والنص الصيني الأصلي."
 ---
 
 # هوانغ-لاو (Huang-Lao)
@@ -46,3 +47,9 @@ gaps:
 - كانت الفلسفة الرسمية لإمبراطورية هان المبكرة، حتى صعود الدوغتشونغ (Dong Zhongshu) في عهد الإمبراطور وو، حين حلّت كونفوشية الين-يانغ محلّها.
 - انقرضت كتيار مدرسي، لكن رواسبها باقية في: الفلسفة الطبية (الصينية الكلاسيكية)، في الممارسة الإدارية الإمبراطورية، وفي «الفن العسكري» (الذي يصرّ على أن «أفضل قائد هو الذي لا يُحارب»).
 - في التسعينيات القرن العشرين، أعاد روبن آر. وآخرون قراءتها كـ«ليبرالية صينية مبكرة» (مع تحفّظ)، فاستعادوا فكرة «الحاكم المحدود» من التراث الصيني.
+
+## المصادر
+
+- Peerenboom, R. P. (1993). *Law and Morality in Ancient China: The Silk Manuscripts of Huang-Lao*. State University of New York Press.
+- Chang, Leo S., & Feng, Yu (1998). *The Four Political Treatises of the Yellow Emperor*. University of Hawai'i Press.
+- Major, J. S., Queen, S., Meyer, A., & Roth, H. D. (2010). *The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China*. Columbia University Press.

@@ -13,7 +13,7 @@ active_end: 2018
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← ديانا باومرند"
 edges:
-- rel: "belongs_to", target: "علم نفس الطفل", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
 - id: "thk-amiller", title: "أليس ميلر", type: "مفكر"

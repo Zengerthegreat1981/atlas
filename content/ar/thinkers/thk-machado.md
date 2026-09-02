@@ -20,8 +20,7 @@ related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "أبياته الشهيرة 'أيها السائر لا يوجد طريق، الطريق يُصنع بالسير' كبيان وجودي للحرية والزمان تستحق إدراجاً."
+  - "لا توجد مراسلات أو شهادات مباشرة موثّقة عن علاقته الفكرية بأونامونو تتجاوز الانتماء لجيل 98 المشترك."
 ---
 
 # أنطونيو ماتشادو
@@ -46,3 +45,9 @@ gaps:
 ## اقتباسات مختارة
 
 «أيها السائر، لا يوجد طريق، الطريق يُصنع بالسير.» — حقول قشتالة، 1912
+
+## المصادر
+
+- Antonio Machado, *Campos de Castilla* (Madrid: 1912).
+- Antonio Machado, *Juan de Mairena: sentencias, donaires, apuntes y recuerdos de un profesor apócrifo* (Madrid: 1936).
+- Ian Gibson, *Ligero de equipaje: la vida de Antonio Machado* (Madrid: Aguilar, 2006).

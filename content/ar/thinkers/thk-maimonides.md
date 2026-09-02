@@ -18,8 +18,8 @@ related:
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "dbt-ibn-maymun-vs-halevi", title: "ابن ميمون ضد يهوذا اللاوي: العقل الفلسفي أم الوحي التاريخي؟", type: "جدل"
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
-- id: "thk-al-farabi", title: "الفارابي", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 gaps:
   - "علاقته الدقيقة بتيارات الأشعرية المتأخرة في مصر غير موثّقة في مرجع أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق من «دلالة الحائرين» بالعربية متاح."
@@ -53,3 +53,9 @@ gaps:
 - رسالة إلى اليمن (1172، رسالة لاهوتية عن المسيح المنتظر)
 - شرح فصول أبقراط (بالعربية)
 - كتاب السموم (بالعربية)
+
+## المصادر
+
+- ابن ميمون. *دلالة الحائرين* (Moreh Nevukhim)، ترجمة حسين أتاي، الهيئة المصرية العامة للكتاب.
+- Kraemer, J. L. (2008). *Maimonides: The Life and World of One of Civilization's Greatest Minds*. Doubleday.
+- Stanford Encyclopedia of Philosophy، مدخل "Maimonides" (plato.stanford.edu/entries/maimonides).

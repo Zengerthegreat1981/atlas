@@ -13,10 +13,10 @@ active_start: 1980
 active_end: "[DRAFT-UNKNOWN]"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج البيني-الشخصي (IPT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
 - id: "thk-jweiss", title: "جوزيف وايس", type: "مفكر"
-- id: "thk-jmarkowitz", title: "جيمس ماركويتز", type: "مفكر"
+- id: "thk-jmarkowitz", title: "جون ماركويتز", type: "مفكر"
 gaps:
   - "بيانات السيرة الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

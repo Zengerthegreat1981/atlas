@@ -9,6 +9,7 @@ en: "Abhidharma Schools (Sarvāstivāda, Vaibhāṣika, Sautrāntika)"
 crumb: "الفلسفة ← البوذية ← مدارس الأبيدارما"
 dates: "الهند، آسيا الوسطى · من القرن 2 ق.م إلى القرن 7 م"
 country: "الهند (ماغادا، كشمير)، آسيا الوسطى"
+cultural_origin: "indian"
 language: "السنسكريتية"
 active_start: -150
 active_end: 700
@@ -58,3 +59,10 @@ gaps:
 ## القيد
 
 - التحليل الذري للـdharmas يُبقي على ميتافيزيقا غامضة.
+
+## المصادر
+
+- Frauwallner, Erich. *Studies in Abhidharma Literature and the Origins of Buddhist Philosophical Systems*. State University of New York Press, 1995.
+- Cox, Collett. *Disputed Dharmas: Early Buddhist Theories on Existence*. International Institute for Buddhist Studies, 1995.
+- Willemen, Charles, Dessein, Bart & Cox, Collett. *Sarvāstivāda Buddhist Scholasticism*. Brill, 1998.
+- Vasubandhu (trans. Leo M. Pruden). *Abhidharmakośabhāṣyam*. Asian Humanities Press, 1988–1990.

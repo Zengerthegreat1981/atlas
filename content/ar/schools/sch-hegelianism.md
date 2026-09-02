@@ -12,6 +12,7 @@ country: "ألمانيا، المملكة المتحدة، فرنسا، إيطا
 language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1807
 active_end: 1900
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 - rel: "split_into", target: "sch-hegel-right", target_type: "مدرسة"
@@ -31,7 +32,6 @@ gaps:
   - "رابط مقترح لـ«فرانسيس هربرت برادلي» (thk-bradley) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جوزياه رويس» (thk-royce) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الطبعات المختلفة من مؤلفات هيغل (وفا، هولدرلين، لاسون، مولدرمان-زورك) لم تُقارن في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # الهيغلية
 
@@ -57,3 +57,10 @@ gaps:
 
 - «الهيغلية» كمظلة تشمل تيارات متناقضة (يمين ويسار ووسط وبريطانية وإيطالية).
 - الجدل الدائر حول ما إذا كان هيغل «مثالياً مطلقاً» أم «نسبياً تاريخياً» لا يزال حياً.
+
+## المصادر
+
+- G.W.F. Hegel, *Phenomenology of Spirit / Phänomenologie des Geistes* (1807).
+- Frederick C. Beiser, *Hegel* (Routledge, 2005).
+- Terry Pinkard, *Hegel: A Biography* (Cambridge University Press, 2000).
+- "Hegel", "Hegel's Dialectics", *Stanford Encyclopedia of Philosophy*.

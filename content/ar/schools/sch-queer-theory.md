@@ -12,6 +12,7 @@ country: "الولايات المتحدة، المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
@@ -59,3 +60,11 @@ gaps:
 
 - تواجه انتقادات من النسويات لتخفيف التركيز على النوع الاجتماعي.
 - تواجه انتقادات من السياسات اليسارية لـ«Antisocial Thesis».
+
+## المصادر
+
+- Judith Butler, *Gender Trouble: Feminism and the Subversion of Identity*, Routledge, 1990.
+- Eve Kosofsky Sedgwick, *Epistemology of the Closet*, University of California Press, 1990.
+- David Halperin, *One Hundred Years of Homosexuality*, Routledge, 1990.
+- Michel Foucault, *The History of Sexuality, Vol. 1: An Introduction*, 1976 (ترجمة إنجليزية 1978).
+- Lee Edelman, *No Future: Queer Theory and the Death Drive*, Duke University Press, 2004.

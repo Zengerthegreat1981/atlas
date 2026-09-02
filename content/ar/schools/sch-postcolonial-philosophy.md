@@ -9,21 +9,23 @@ en: "Postcolonial Philosophy"
 crumb: "الفلسفة ← المقارنة والعابرة ← ما بعد الاستعمار"
 dates: "الهند، الشرق الأوسط، أمريكا اللاتينية · من 1980s إلى اليوم"
 country: "متعددة"
+cultural_origin: "south-asian"
 language: "الإنجليزية، الفرنسية"
 active_start: 1985
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
-- id: "sch-cosmopolitanism", title: "الكوزموبوليتية", type: "مدرسة"
+- id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
 - id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"
 - id: "con-orientalism", title: "الاستشراق (Orientalism)", type: "مفهوم"
 - id: "wrk-orientalism-said", title: "الاستشراق (Orientalism)", type: "عمل / كتاب"
 gaps:
   - "نصوص Edward Said, Homi Bhabha, Gayatri Spivak, Dipesh Chakrabarty need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "cultural_origin وُضع كـ south-asian نسبةً لتأسيس دراسات التابع (Subaltern Studies) في الهند، مع أن التيار يضمّ أصولاً عربية (سعيد) وأفريقية-كاريبية (فانون، مبيمبي) — يحتاج نقاشاً حول تصنيف أدق."
 ---
 
 # ما بعد الاستعمار الفلسفي
@@ -57,3 +59,11 @@ gaps:
 
 - تواجه انتقادات بسبب التوطين المفرط (parochialism) في التجربة الهندية.
 - تواجه انتقادات من الديكولونياليين.
+
+## المصادر
+
+- Said, Edward W. *Orientalism*. Pantheon Books, 1978.
+- Bhabha, Homi K. *The Location of Culture*. Routledge, 1994.
+- Spivak, Gayatri Chakravorty. *A Critique of Postcolonial Reason: Toward a History of the Vanishing Present*. Harvard University Press, 1999.
+- Chakrabarty, Dipesh. *Provincializing Europe: Postcolonial Thought and Historical Difference*. Princeton University Press, 2000.
+- Fanon, Frantz. *The Wretched of the Earth*. Grove Press, 1963 (originally *Les Damnés de la Terre*, 1961).

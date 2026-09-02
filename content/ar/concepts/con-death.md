@@ -12,15 +12,20 @@ active_end: "مستمر"
 edges:
 - rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
+- id: "thk-tillich", title: "بول تيليش", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-- id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
 
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا رابط موثّق نصياً بكيركيغارد أو رولو ماي أو فرويد كمفكرين مستقلين في related رغم ورودهم في جدول المقارنة، لتفادي تضخيم القائمة عن الحد المسترشد به؛ يمكن إضافتهم لاحقاً إن استُخرجت فقرات تحليل مستقلة لكل منهم."
 ---
 
 # الموت

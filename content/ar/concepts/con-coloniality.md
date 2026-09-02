@@ -12,14 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مدرسة"
 related:
-- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
-- id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
-- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
+- id: "thk-anibal-quijano", title: "أنيبال كويخانو", type: "مفكر"
 - id: "thk-mignolo", title: "والتر مينيولو", type: "مفكر"
+- id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
+- id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+- id: "con-coloniality-of-power-quijano", title: "استعمارية السلطة والمعرفة (Coloniality of Power)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مقالة Quijano الأصلية 'Coloniality of Power' (2000) ولا Mignolo *The Idea of Latin America* (2005)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "المتن يذكر لينين وهومي بابا كمرجعين للمقارنة، لكن لا يوجد لهما ملف مفكر (thk-) في الأطلس — طُلب slug في requests-minimax.md."
 ---
 
 # الكولونيالية (Coloniality)

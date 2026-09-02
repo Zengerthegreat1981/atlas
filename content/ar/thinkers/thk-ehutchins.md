@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 2010
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-rolfing", target_type: "تقنية"
 related:
 - id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
 gaps:

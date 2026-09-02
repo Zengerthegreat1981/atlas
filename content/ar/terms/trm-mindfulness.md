@@ -10,16 +10,15 @@ crumb: "العلاج باليقظة الذهنية ← المصطلحات ← ا
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-mindfulness-based-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-clinical-mindfulness", target_type: "مدرسة"
 related:
-- id: "thk-buddha", title: "بوذا", type: "مفكر"
+- id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جون كابات-زين (thk-kabat-zinn)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ثِيش نات هانْه (thk-hanh)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحُضور (con-presence)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّأمُّل (con-meditation)"
   - "الفرق بين 'اليقظة' في البوذية الأصلية و'Mindfulness' في كابات-زين (Secularized) يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'اليقظة' و'التأمل' (Meditation) و'التركيز' (Concentration) في البوذية يحتاج فصلاً."
   - "الفرق بين 'اليقظة' و'التأمل الذاتي' (Reflection) في علم النفس المعرفي يحتاج توثيقاً."
 ---
@@ -38,3 +37,9 @@ gaps:
 ## الفَرق عَن «التَّأَمُّل» و«التَّركِيز»
 
 (1) **اليَقَظَة** (Mindfulness): «**انْتِبَاه مَفْتوح**» (Open Monitoring) — «**مُلاحَظَة**» «**كُلّ**» مَا يَظْهَر. (2) **التَّركِيز** (Concentration، Samadhi): «**انْتِبَاه مُوَجَّه**» (Focused Attention) — عَلَى «**مَوْضُوع وَاحِد**». (3) **التَّأَمُّل** (Meditation): «**عَمَلِيَّة**» (Practice) «**شَامِلَة**» (Comprehensive) تَشْمَل «**كُلَيْهِمَا**».
+
+## المصادر
+
+- Kabat-Zinn, J. (1982). "An Outpatient Program in Behavioral Medicine for Chronic Pain Patients Based on the Practice of Mindfulness Meditation: Theoretical Considerations and Preliminary Results." *General Hospital Psychiatry*, 4(1), 33–47.
+- Kabat-Zinn, J. (1990). *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. Delta.
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-Based Cognitive Therapy for Depression*. Guilford Press.

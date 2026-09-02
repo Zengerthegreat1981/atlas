@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-fmesmer", title: "فرانتز ميسمر", type: "مفكر"
+- id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"

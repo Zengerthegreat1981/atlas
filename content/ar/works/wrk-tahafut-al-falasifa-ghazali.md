@@ -14,12 +14,15 @@ active_end: 1095
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
-- id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
+author: "أبو حامد الغزالي"
+author_slug: "thk-al-ghazali"
+publication_year: 1095
+original_language: "العربية"
 gaps:
   - "تحليل المسألة السابعة عشرة في نفي السببية الضرورية وتأسيس مذهب المناسبة العرضية (Occasionalism)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تهافت الفلاسفة لأبي حامد الغزالي

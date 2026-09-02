@@ -15,11 +15,12 @@ edges:
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
-- id: "con-differentiation-self", title: "التمايز عن الذات", type: "مفهوم"
-- id: "con-triangulation", title: "التثليث", type: "مفهوم"
+- id: "con-differentiation-self", title: "التمايز عن الذات (Differentiation of Self)", type: "مفهوم"
+- id: "con-multigenerational-transmission", title: "النقل متعدد الأجيال (Multigenerational Transmission Process)", type: "مفهوم"
+- id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري (Enmeshment & Disengagement)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: نقل عبر الأجيال (con-multigenerational)"
   - "التمييز بين 'القطع التكيفي' (المؤقت، كحماية) و'القطع المرضي' موثّق جزئياً في كتابات كير."
+  - "رابط con-triangulation أُزيل: لا يوجد في متن الملف ما يبرر الصلة بمفهوم التثليث."
 ---
 
 # القطع العاطفي (Emotional Cutoff)
@@ -50,6 +51,10 @@ gaps:
 | قطع جسدي أو عاطفي | تواصل مع حدود واضحة |
 | مظهره "استقلالية" | مظهره "نضج" |
 | لا يحل النمط | يحرر الفرد من النمط |
+
+## القطع كقطب مقابل للانغماس
+
+في نظرية بوين، يقع القطع العاطفي على الطرف المقابل لطيف واحد من طيفي الانغماس/الانفصال الأسري: الأسرة الشديدة الانغماس (Enmeshment) قد تدفع أحد أفرادها للانفصال (Disengagement) الحاد بديلاً عن التمايز الصحي، فيكون القطع رد فعل على فرط الاندماج لا نقيضه الصحي.
 
 ## إعادة الاتصال (Reconnection)
 

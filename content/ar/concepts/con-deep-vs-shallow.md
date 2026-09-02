@@ -14,6 +14,8 @@ edges:
 related:
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)", type: "مفهوم"
+- id: "sch-ecofeminism", title: "النسوية البيئية (Ecofeminism)", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ مقالة Næss الأصلية (Inquiry, 1973)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -18,7 +18,7 @@ edges:
 related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
-- id: "thk-irigaray", title: "لوس إيريغاراي", type: "مفكر"
+- id: "thk-irigaray", title: "لوس إريغاري", type: "مفكر"
 - id: "thk-kristeva", title: "جوليا كريستيفا", type: "مفكر"
 - id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"
 gaps:

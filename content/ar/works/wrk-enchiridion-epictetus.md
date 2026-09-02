@@ -11,6 +11,10 @@ dates: "اليونان القديمة · ق. 125 م"
 language: "الإغريقية القديمة"
 active_start: 125
 active_end: 125
+author: "إبكتيتوس"
+author_slug: "thk-epictetus"
+publication_year: 125
+original_language: "الإغريقية القديمة"
 edges:
 - rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "con-dichotomy-of-control", title: "ثنائية التحكم", type: "مفهوم"
 gaps:
   - "تجميع آريان للنص كدليل محمول للجيب للتدريب اليومي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # المختصر في الرواقية لإبكتيتوس (Enchiridion)

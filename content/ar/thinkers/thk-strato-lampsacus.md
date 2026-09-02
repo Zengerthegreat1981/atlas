@@ -15,8 +15,7 @@ active_end: -269
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "كتبه كلها مفقودة، فتقدير حجم ابتعاده الفعلي عن أرسطو يعتمد كلياً على نقول متأخرة (شيشرون، بلوتارخس) قد لا تعكس دقّة مذهبه الأصلي."
 ---
 
 # ستراتون اللامبساكي
@@ -40,6 +39,8 @@ gaps:
 - كتبه كلها مفقودة؛ شذرات عند شيشرون وبلوتارخس وسمبليكيوس وديوجينس اللائرتي.
 - *في الحركة*، *في الخلاء*، *في الإدراك الحسّي*، *في النوم*، *في الأحلام* — عناوين محفوظة.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Cicero, *De Natura Deorum* — يوثّق طبيعانيته ونفيه للعناية الإلهية.
+- Sharples, R. W. (2011). "Strato of Lampsacus: The Sources, Texts and Translations." في *Strato of Lampsacus: Text, Translation, and Discussion*, Rutgers University Studies in Classical Humanities.
+- Furley, D. (1999). "Cosmology" في *The Cambridge History of Hellenistic Philosophy* — عن الخلاء المتخلّل عنده.

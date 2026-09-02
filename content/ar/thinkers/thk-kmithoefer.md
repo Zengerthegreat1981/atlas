@@ -3,33 +3,32 @@ slug: "thk-kmithoefer"
 id: "THK-2683"
 type: "مفكر"
 level: "متوسط"
-title: "آن ميثوفر"
-en: "Annie Mithoefer"
-crumb: "العلاج بمساعدة السيكوديلك ← الناس ← MAPS-أبحاث ← آن ميثوفر"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+title: "آن ميثوفر (إحالة)"
+en: "Annie Mithoefer (Referral)"
+crumb: "العلاج بمساعدة السيكوديلك ← الناس ← آن ميثوفر"
+dates: "الولايات المتحدة · معاصرة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2001
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
 related:
-- id: "thk-mithoefer", title: "مايكل ميثوفر", type: "مفكر"
+- id: "thk-amithoefer", title: "آن ميثوفير", type: "مفكر"
+- id: "thk-mmithoefer", title: "مايكل ميثوفير", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "تعمل مع زوجها مايكل ميثوفر كمعالجة نفسية مرافقة في تجارب MDMA/PTSD."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تم التحقق (أيلول 2026): هذا سجل مكرر لنفس الشخص الموثّق في الملف المعتمد thk-amithoefer؛ تحوّل إلى قيد إحالة."
 ---
 
-# آن ميثوفر
+# آن ميثوفر (إحالة إلى thk-amithoefer)
 
-معالجة نفسية أمريكية متخصصة في علاج الصدمات، تعمل مع زوجها مايكل ميثوفر كمعالجة نفسية مرافقة في تجارب MAPS السريرية لـ MDMA في علاج PTSD.
+قيد إحالي للملف الرئيسي المعتمد للباحثة والمعالجة النفسية الأمريكية آن ميثوفير (thk-amithoefer)، المشاركة في أبحاث بروتوكول MDMA لعلاج الصدمات في إطار منظمة MAPS بالتعاون مع الدكتور مايكل ميثوفير (thk-mmithoefer).
 
-## ما أعطته
+## الملف الرئيسي المعتمد
 
-قادت تطوير الجانب «النفسي المرافق» (Co-therapy) في تجارب MDMA-Assisted Psychotherapy، وهو المكوّن الذي يضمن أن الجلسات السيكوديلية لا تكون مجرد تجربة كيميائية بل تجربة علاجية متكاملة. ألفت «دليل التدريب على MAPS» وبروتوكولات «الإعداد-الجلسة-التكامل» المعتمدة في التجارب السريرية.
+يُرجى مراجعة المدخل الرئيسي: **[آن ميثوفير (thk-amithoefer)](thk-amithoefer)** للاطلاع على السيرة المفصلة والأوراق البحثية المنشورة في *Journal of Psychopharmacology*.
 
-## موقعها من التيار
+## المصادر
 
-تُعدّ آن ميثوفر من أهم المعالجات النفسيات في «الجيل الجديد» من المعالجين السيكوديليين، وأثّرت في صياغة معايير MAPS لجودة الرعاية النفسية المرافقة.
+- Mithoefer, M. C., Wagner, M. T., Mithoefer, A. T., et al. (2011). The safety and efficacy of ±3,4-methylenedioxymethamphetamine-assisted psychotherapy in subjects with chronic, treatment-resistant PTSD. *Journal of Psychopharmacology*, 25(4), 439–452.

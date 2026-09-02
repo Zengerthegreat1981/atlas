@@ -13,7 +13,7 @@ active_start: 1973
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "IBP (العلاج التكاملي للجسد)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ibp", target_type: "تيار"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"

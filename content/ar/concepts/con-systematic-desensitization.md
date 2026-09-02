@@ -12,13 +12,13 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
+- id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
 - id: "con-reciprocal-inhibition", title: "التثبيط المتبادل", type: "مفهوم"
-- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
-- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي", type: "تقنية/تدخل علاجي"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي (الإشراط البافلوفي)", type: "مفهوم"
+- id: "con-exposure-hierarchy", title: "الهرّم التدرّجي للتعرّض (Exposure Hierarchy)", type: "مفهوم"
+- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس المنهجي", type: "تقنية/تدخل علاجي"
 - id: "stu-pavlov-classical-conditioning", title: "تجارب بافلوف الأصلية في الإشراط الكلاسيكي والمنعكس الشرطي", type: "دراسة وبحث"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "البروتوكولات الحديثة مقابل التقليدية (إزالة التحسس داخل الجلسة مقابل تخيلية) — موضع تفصيل."
 ---
 
@@ -35,6 +35,8 @@ gaps:
 1. **بناء هرم القلق (Anxiety Hierarchy Construction)**: يُعدّ المعالج مع المريض قائمة بـ 10-15 موقفاً مُرتباً من الأقل إلى الأكثر إثارة للقلق، مع تقييم كل منها على مقياس وحدات الضيق الذاتية (Subjective Units of Distress Scale - SUDS) من 0 إلى 100.
 2. **التدريب على الاسترخاء (Relaxation Training)**: يُدرَّب المريض على الاسترخاء العضلي التدريجي (Jacobson Progressive Relaxation) بحيث يستطيع إحداث الاسترخاء العميق بإشارة ذاتية.
 3. **التعرض التدريجي (Graduated Exposure)**: في الخيال أولاً (Imaginal Desensitization)، ثم واقعياً (In Vivo Desensitization)، يُطلب من المريض تخيُّل كل بند من الهرم مع البقاء مسترخياً تماماً — الانتقال للبند التالي فقط عندما يَستطيع تخيُّل البند الحالي بقلق SUDS < 20-30.
+
+تعتمد المرحلة الأولى من البروتوكول على بناء «هرم التعرض» (con-exposure-hierarchy)، وهي الأداة نفسها التي طوّرها وولب لترتيب المثيرات المخيفة تصاعدياً قبل إخضاعها للتثبيط المتبادل.
 
 ## التمييز عن العلاج بالتعرض
 
@@ -55,3 +57,8 @@ gaps:
 ## الأهمية التاريخية
 
 كانت إزالة التحسس المنهجي «المعركة الفاصلة» في تأسيس العلاج السلوكي كحقل مستقل (سنوات الستينيات). أثبتت لأول مرة أن الفوبيات يمكن علاجها بطرق علمية صارمة وقابلة للقياس — نقضاً لمفهوم التحليل النفسي القائل بأن الفوبيات «رمزية» تحتاج سنوات من التحليل. كانت أيضاً نقطة البداية لكل من: العلاج بالتعرض، ERP، العلاجات الموجِّهة للقلق المعاصر.
+
+## المصادر
+
+- Wolpe, J. (1958). *Psychotherapy by Reciprocal Inhibition*. Stanford University Press.
+- Wolpe, J. (1969). *The Practice of Behavior Therapy*. Pergamon Press.

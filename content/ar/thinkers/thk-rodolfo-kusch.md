@@ -19,12 +19,11 @@ related:
 - id: "thk-enrique-dussel", title: "إنريكي دوسيل", type: "مفكر"
 - id: "ctx-latin-american-coloniality", title: "السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير", type: "سياق/تقليد"
 - id: "sch-mestizaje", title: "فلسفة الهجنة / المِستيساخي", type: "مدرسة"
-- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
-- id: "con-coloniality", title: "الكولونيالية", type: "مفهوم"
+- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية (كيتشوا-أيمارا؛ آيني، سومَك كاوساي)", type: "مدرسة"
+- id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"
 gaps:
   - "مفهومه 'الكون كشيء هناك' (estar) لم يُترجَم إلى العربية ولا يوجد تغطية كافية في المصادر الفلسفية العربية."
   - "الفرق بين 'estar' و 'ser' عنده يلتقي مع الفلسفة الوجودية الأوروبية (Heidegger) دون أن يقدّره الباحثون الأكاديميون العرب."
-  - "لا يوجد اقتباس مباشر موثوق من أعماله بالعربية."
 ---
 
 # رودولفو كوش
@@ -51,6 +50,8 @@ gaps:
 - *Geocultura del hombre americano* (1976) — الجيو-ثقافة للإنسان الأمريكي.
 - *El absurdo y la existencia* (مقالات فلسفية متفرّقة، جمعها نيكولاس كاسولو بعد وفاته).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح بالعربية.
+- Kusch, R. (1962). *América Profunda*. Editorial Hachette.
+- Kusch, R. (1976). *Geocultura del hombre americano*. Fernando García Cambeiro.
+- Mignolo, W. D. (2000). *Local Histories/Global Designs: Coloniality, Subaltern Knowledges, and Border Thinking*. Princeton University Press. (يناقش فكر كوش ضمن التفكير الحدودي.)

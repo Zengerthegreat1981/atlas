@@ -12,8 +12,7 @@ active_start: 1860
 active_end: 1904
 part: "psychology"
 crumb: "الأطلس ← thinkers ← أمبرواز ليبو"
-edges:
-- rel: "belongs_to", target: "الماسمرية (Mesmerism)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
 - id: "thk-hbernheim", title: "هيبوليت برنهايم", type: "مفكر"

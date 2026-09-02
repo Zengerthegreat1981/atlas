@@ -10,18 +10,15 @@ crumb: "الأخلاق الطبية ← البديهيات التأسيسية �
 active_start: -500
 active_end: "مستمر"
 language: "لاتينية (مع تراث إغريقي)"
-edges:
-- rel: "belongs_to", target: "الأخلاق الطبية", target_type: "مدرسة"
-- rel: "related_to", target: "أخلاقيات الطب النفسي", target_type: "مدرسة"
 related:
-- id: "axi-harm-principle-rule", title: "مبدأ الضرر (Mill)", type: "بديهية/مبدأ تأسيسي"
-- id: "axi-categorical-imperative-universal", title: "الأمر المطلق عند كانط", type: "بديهية/مبدأ تأسيسي"
-- id: "axi-natural-law-first-precept", title: "القانون الطبيعي: الوصية الأولى", type: "بديهية/مبدأ تأسيسي"
-- id: "crt-anti-psychiatry-critique", title: "نقد الطب النفسي المناهض", type: "نقد خارجي موثَّق"
-- id: "thk-mill", title: "جون ستيوارت مل", type: "مفكر"
+- id: "axi-harm-principle-rule", title: "مبدأ الضرر لمل (Harm Principle)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-categorical-imperative-universal", title: "قاعدة التعميم الأخلاقي المطلق (Universal Law)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-natural-law-first-precept", title: "القاعدة الأولى للقانون الطبيعي (Natural Law)", type: "بديهية/مبدأ تأسيسي"
+- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد خارجي موثَّق"
+- id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: أبقراط (thk-hippocrates)"
-  - "لا يوجد اقتباس مباشر موثوق من أبقراط بهذه الصياغة اللاتينية، والصياغة تعود في الغالب إلى القرن التاسع عشر."
+  - "لا يوجد ربط في الأطلس حتى الآن بمدخل مستقل لأبقراط (thk-hippocrates)."
+  - "الصياغة اللاتينية 'Primum non nocere' لا تظهر في النصوص الأبقراطية المسندة، وتاريخ ظهورها الأول موضع خلاف بين الباحثين (يُرجَّح القرن التاسع عشر عند Smith 2005)."
   - "التمييز بين 'لا تضر' كقاعدة سلبية و'فعل الخير' كقاعدة إيجابية لم يُحسم فلسفياً."
   - "تطبيق المبدأ في العلاج النفسي المعاصر يختلف عن تطبيقه في الجراحة، وما إذا كان صالحاً في كل السياقات يحتاج مراجعة مستقلة."
 ---
@@ -64,7 +61,7 @@ gaps:
 
 لا يزال "Primum non nocere" يُدرَّس في كل كليات الطب وعلم النفس، ويحتل مكاناً مركزياً في مدونات الأخلاق المهنية (AMA، APA).
 
-## المرجعيات
+## المصادر
 
 - Beauchamp, T. L., & Childress, J. F. (2019). *Principles of Biomedical Ethics* (8th ed.). Oxford University Press.
 - Gillon, R. (1985). "Primum non nocere" and the principle of non-maleficence. *BMJ*, 291.

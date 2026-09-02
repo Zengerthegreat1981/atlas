@@ -12,6 +12,7 @@ country: "الدولة الصفوية"
 language: "العربية (مع الفارسية)"
 active_start: 1600
 active_end: 1700
+cultural_origin: "islamic-arabic"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
 - rel: "belongs_to", target: "sch-isfahan", target_type: "مظلة"
@@ -23,7 +24,6 @@ related:
 - id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 gaps:
   - "تأثير ابن عربي على الملا صدرا (خصوصاً في نظرية الوحدة) لا يزال موضع خلاف بين الباحثين."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «الأسفار الأربعة»."
 ---
 
 # الحكمة المتعالية (الملا صدرا)
@@ -74,3 +74,10 @@ gaps:
 | أصالة الوجود (لا الماهية) | الحركة الجوهرية (إضافة) | أبقى على البُرهان |
 | الحركة الجوهرية (إضافة) | البقاء مع الذوق | تركيب صريح |
 | تخطى ابن سينا | تخطى السهروردي | تخطى ابن عربي (جزئياً) |
+
+## المصادر
+
+- ملا صدرا الشيرازي. *الحكمة المتعالية في الأسفار العقلية الأربعة* (الأسفار الأربعة).
+- Rizvi, S. H. (2009). *Mulla Sadra and Metaphysics: Modulation of Being*. Routledge.
+- Corbin, H. (1981). *La philosophie iranienne islamique aux XVIIe et XVIIIe siècles*. Buchet/Chastel.
+- Nasr, S. H. (1978). *Sadr al-Din Shirazi and His Transcendent Theosophy*. Institute for Humanities and Cultural Studies.

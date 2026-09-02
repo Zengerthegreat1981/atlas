@@ -2,41 +2,41 @@
 slug: "thk-rklenck"
 id: "THK-1819"
 type: "مفكر"
-level: "متوسط"
-title: "[مؤسِّسو AJA / BJAA / SAP / IGAP / GAP]"
+level: "مبتدئ"
+title: "[مؤسِّسو الجمعيات التحليلية البريطانية]"
 en: "Founders of UK Jungian associations"
-crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو الجمعيات التحليلية في المملكة المتحدة"
-dates: "بريطانيا · [غير مؤكد]"
-country: "المملكة المتحدة"
-language: "الإنجليزية"
-part: "philosophy"
-active_start: null
-active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-fordham", title: "مايكل فوردام", type: "مفكر"
-- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+part: "psychology"
 gaps:
-  - "عنصر placeholder — كلّ جمعية بريطانية تستحق ملفاً مستقلاً."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rklenck.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
+  - "**تصحيح T3.4 (2026-08-27):** الـfrontmatter الأصلي لهذا الملف كان يحتوي بالخطأ على كتلتي YAML متتاليتين (frontmatter مكسور) أبقت edges وrelated القديمة غير المحجورة نشطة آلياً رغم أن جسم الملف يعلن الحجر بوضوح؛ أُعيدت كتابة الـfrontmatter ككتلة واحدة نظيفة متسقة مع حالة الحجر الفعلية."
 ---
 
-# [مؤسِّسو AJA / BJAA / SAP / IGAP / GAP]
+# [مؤسِّسو الجمعيات التحليلية البريطانية]
 
-## SAP (Society of Analytical Psychology) — لندن
-تأسّست 1946، أقدم جمعية يونغية في بريطانيا. مؤسِّسوها: Michael Fordham, Frieda Fordham, M. Brierley, M. Philipp-Sattler.
+(Founders of UK Jungian associations)
 
-## IGAP (Independent Group of Analytical Psychologists) — لندن
-تأسّست الستينيات من القرن العشرين، انشقاق عن SAP. من أبرز أعضائها: W. Kraemer, A. Plaut.
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rklenck.md.archived.2026-08-26`
 
-## BJAA (British Jungian Analytic Association)
-تأسّست السبعينيات من القرن العشرين، نتيجة انشقاق آخر عن SAP.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## AJA (Association of Jungian Analysts)
-تأسّست التسعينيات من القرن العشرين.
+## ملخص
 
-## GAP (Guild of Analytical Psychologists)
-تأسّست العقد الأول من القرن الحادي والعشرين، خامس جمعية بريطانية.
+هذا المفكر ورد في مسار MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-ملف placeholder موحَّد، يجب فصله لوصف كلّ واحد.
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
+
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rklenck.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rklenck.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

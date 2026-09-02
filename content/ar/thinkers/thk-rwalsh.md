@@ -18,8 +18,7 @@ related:
 - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تاريخ دقيق لبداية تدريسه في جامعة كاليفورنيا-إرفين وتفاصيل تخصصه الأول (طب نفسي أم فلسفة) تحتاج توثيقاً من سيرته الرسمية."
 ---
 
 # روجر والش
@@ -44,6 +43,8 @@ gaps:
 - *Essential Spirituality* (1999).
 - *Paths Beyond Ego: The Transpersonal Vision* (محرر، 1993).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Walsh, Roger, and Frances Vaughan, eds. *Paths Beyond Ego: The Transpersonal Vision*. New York: Jeremy P. Tarcher/Putnam, 1993.
+- Walsh, Roger. *Essential Spirituality: The 7 Central Practices*. New York: John Wiley & Sons, 1999.
+- University of California, Irvine — صفحة السيرة الأكاديمية الرسمية لروجر والش، كلية الطب.

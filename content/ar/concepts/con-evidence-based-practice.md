@@ -12,19 +12,25 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "thk-goldfried", title: "مارفين غولدفريد", type: "مفكر"
-- id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
-- id: "con-therapeutic-alliance-bordin", title: "التحالف العلاجي عند بورديـن", type: "مفهوم"
-- id: "con-transference", title: "التحويل في العلاقة العلاجية", type: "مفهوم"
-- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية", type: "مفهوم"
-- id: "con-free-association", title: "التداعي الحرّ", type: "مفهوم"
+- id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
+- id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
+- id: "con-therapeutic-alliance-bordin", title: "التحالف العلاجي عند بورديـن (Bordin's Therapeutic Alliance)", type: "مفهوم"
+- id: "dbt-evidence-based-practice-clinical-decision-making", title: "جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ", type: "جدل"
 gaps:
   - "ديفيد ساكيت (David Sackett) وغوردون غوايات (Gordon Guyatt) ليسا في الأطلس بعد رغم أن مساهمتهما تأسيسية."
   - "لا يوجد اقتباس مباشر موثوق من Sackett et al. (1996) بعد."
   - "الجدل حول 'الهرّم الكلاسيكي للأدلة' في مقابل 'الشبكة القائمة على الأدلة' (Evidence Network) لم يُوثَّق."
   - "تطبيقات EBP في السياقات العربية وقصور قاعدة البيانات العربية لم تُوثَّق."
+  - "مارفين غولدفريد وبيتر فوناغي كانا في related السابق دون أن يرد ذكرهما في المتن؛ حُذفا لعدم وجود تبرير نصي، ويحتاج إثبات صلتهما الفعلية بـEBP إلى مصدر."
 ---
 
 # الممارسة المبنية على الأدلة (Evidence-Based Practice)

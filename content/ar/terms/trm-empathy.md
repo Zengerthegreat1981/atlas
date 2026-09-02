@@ -10,19 +10,16 @@ crumb: "علم النفس الإنساني وعلم الأعصاب الاجتم�
 active_start: 1909
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-person-centered-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "con-rogers-person-centered-therapy", target_type: "مفهوم"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-titchener", title: "إدوارد بردجِس تيتشنر", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: تيودور لِپْس (thk-lipps)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: إدوارد تِتْشِنر (thk-titchener)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: فريد دِيزِكورتينز (thk-dezecurtins)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: التَّوَافُق (con-attunement)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الخَلايا العَصَبيَّة المِرآتيَّة (con-mirror-neurons)"
-  - "التمييز بين التعاطف المعرفي (Cognitive Empathy) والتعاطف العاطفي (Affective Empathy) يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الفرق بين 'التعاطف' (Empathy) و'الشفقة' (Sympathy/Compassion) في الفلسفة البوذية يحتاج فصلاً."
-  - "الفرق بين 'التعاطف' و'الاحتواء' (Containment) في نظرية بion يحتاج توثيقاً."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: تيودور لِپْس (thk-lipps)، صاحب مصطلح Einfühlung الألماني الأصلي — لا يوجد له ملف مستقل بعد."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: مفهوم التَّوَافُق (con-attunement) — لا يوجد له ملف مستقل بعد."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: الخَلايا العَصَبيَّة المِرآتيَّة (con-mirror-neurons) — لا يوجد لها ملف مستقل بعد."
+  - "الفرق بين التعاطف والشفقة (Sympathy/Compassion) في الفلسفة البوذية غير مُفصَّل هنا؛ يحتاج ربطاً بمصدر أولي بوذي بالاسم والسنة."
+  - "الفرق بين التعاطف والاحتواء (Containment) عند ويلفريد بيون غير موثق بمرجع أولي محدد بعد."
 ---
 # التَّعَاطُف (Empathy): فَهْم الآخَر مِن دَاخِله
 
@@ -43,3 +40,10 @@ gaps:
 ## الفَرق عن «التَّوَاطُؤ»
 
 (1) **التَّعَاطُف** (Empathy): فَهْم «**مُؤلِم**» (Painful) + «**مَحَافَظَة**» عَلَى «**الذَّات**». (2) **التَّوَاطُؤ** (Sympathy): «**مُوَاسَاة**» (Comfort) + «**تَحَوُّل**» (Transform) مِن «**ذَات**» لـ«**ذَات مُوَحَّدَة**» (Merged Self). (3) **التَّحَزُّب** (Bias): «**تَحَيُّز**» لِـ**جَانِب** (Side) بِدون «**فَهْم**».
+
+## المصادر
+
+- Titchener, Edward B. *Lectures on the Experimental Psychology of the Thought-Processes*. Macmillan, 1909.
+- Rogers, Carl R. "Empathic: An Unappreciated Way of Being." *The Counseling Psychologist*, 5(2), 1975.
+- Rizzolatti, Giacomo & Craighero, Laila. "The Mirror-Neuron System." *Annual Review of Neuroscience*, 27, 2004.
+- Gilbert, Paul. *Compassion Focused Therapy*. Routledge, 2010.

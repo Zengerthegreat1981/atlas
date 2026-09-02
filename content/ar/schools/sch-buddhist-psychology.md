@@ -15,16 +15,15 @@ active_start: 1980
 active_end: "مستمر"
 register: "academic"
 evidence_level: "well-established"
-edges:
-- rel: "belongs_to", target: "sch-mindfulness-traditions", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة (MBCT)", type: "مدرسة"
+- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
-- id: "thk-lcwallace", title: "ب. ألان والاس", type: "مفكر"
+- id: "thk-lcwallace", title: "ب. ألن والاس", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
-- id: "sch-buddhism-early", title: "المسار الثماني", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "thk-mkwee", title: "م. ج. ت. كوي", type: "مفكر"
 - id: "thk-svami-akhilananda", title: "سوامي أخيلاناندا", type: "مفكر"
 - id: "thk-brian-victoria", title: "براين فيكتوريا (Brian Victoria)", type: "مفكر"
@@ -41,6 +40,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحقائق الأربع النبيلة (con-four-noble-truths)"
   - "الترجمة العربية لمصطلحات بوذية تختلف ('Dukkha' = 'المعاناة' أو 'الألم' أو 'الضيق'، 'Anatta' = 'اللاذات' أو 'عدم الذات')."
   - "الفرق بين 'علم النفس البوذي' كحقل أكاديمي و'التأمل' كمارسة موثّق جزئياً."
+  - "حُذف رابط 'belongs_to sch-mindfulness-traditions': لا يوجد ملف مستقل في الأطلس لمظلة تجمع تقاليد التأمل عبر الثقافات (البوذية، اليوغية، التأملية المسيحية) كوحدة واحدة تنتمي إليها الممارسات الإكلينيكية الحديثة (MBCT، ACT، DBT)؛ سُجّل طلب إنشاء هذه المظلة في agents_specs/missing-schools.md بدل اختراع الرابط."
 ---
 # علم النفس البوذي (Buddhist Psychology)
 
@@ -139,7 +139,7 @@ gaps:
 - **الثقافي**: الترجمة من البوذية الآسيوية للثقافة الغربية قد تفقد الجوهر.
 - **الأدلة**: بعض الدراسات تبالغ في فعالية mindfulness، مع تحديات منهجية (آثار البلاسيبو، غياب مجموعات ضابطة قوية).
 
-## المرجع الأساسي
+## المصادر
 
 - Dalai Lama (2003). *The Universe in a Single Atom: The Convergence of Science and Spirituality*. Broadway Books.
 - Wallace, B. A. (2006). *The Attention Revolution: Unlocking the Power of the Focused Mind*. Wisdom Publications.

@@ -12,13 +12,12 @@ active_start: 1955
 active_end: 2008
 part: "psychology"
 crumb: "الأطلس ← thinkers ← مهارشي ماهيش يوغي"
-edges:
-- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
 - id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـمهارشي ماهيش يوغي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
@@ -41,7 +40,3 @@ gaps:
 
 - *The Science of Being and Art of Living* (1963).
 - *Transcendental Meditation* (1968).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

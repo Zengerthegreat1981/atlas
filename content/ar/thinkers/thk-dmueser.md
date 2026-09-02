@@ -13,15 +13,13 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← كيم ميوزر"
 edges:
-- rel: "belongs_to", target: "التثقيف النفسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
 - id: "br-psychoeducation", title: "التثقيف النفسي", type: "تيار"
 - id: "thk-canderson", title: "كارول أندرسون", type: "مفكر"
-- id: "thk-jcawley", title: "جوليا كاولي", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا كاولي (thk-jcawley)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا كاولي (thk-jcawley)."
 ---
 
@@ -43,7 +41,6 @@ gaps:
 ## أهم أعماله
 
 - *Family Psychoeducation Workbook* (مساهم، 2003).
-- *The爽Habits of Recovery* (مساهم، 2014).
 
 ## اقتباسات مختارة
 

@@ -10,13 +10,13 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الطب النفسي الثقافي الياباني", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "dis-taijin-kyofusho", title: "تاي جين كيو فوشو (اضطراب)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-taijin-kyofusho", title: "تاي جين كيو فوشو (Taijin Kyofusho)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "الدراسات المقارنة بين TKS والقلق الاجتماعي الغربي لم تُوثّق بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "النص الياباني الأول الذي صاغ المصطلح إكلينيكياً لم يُراجَع من مصدر أولي مترجم، فقط من عروض ثانوية."
 ---
 
 # تاي جين كيو فوشو (مفهوم ثقافي)
@@ -44,3 +44,14 @@ gaps:
 - مرتبط بـ"**مفهوم الوجه**" (Kao/Tsura).
 - مرتبط بـ"**الخزي**" (Haji).
 - من أهم **المتلازمات المرتبطة بالثقافة** التي درسها DSM-IV.
+- يجعل هذا الإطار الثقافي TKS حالة اختبار حادة لتوتر **الاستقلالية والهومونومي**: خوف المصاب ليس من فقدان استقلاليته الفردية، بل من كسر الانسجام الجمعي (Wa) بجسده نفسه — أي أولوية الاندماج بالجماعة (الهومونومي) على حساب حدود الذات الفردية.
+
+## العلاقة بالمدخل الإكلينيكي والعلاج
+
+هذا المدخل يوثّق الإطار الثقافي (القيم والمفاهيم المحلية) الذي يجعل النمط السلوكي ذا معنى، في مقابل ملف `dis-taijin-kyofusho` الذي يصف نفس النمط كفئة إكلينيكية للوصف لا للتشخيص المباشر. أما الربط بـ`sch-cognitive-behavioral` فمصدره أن العلاج القياسي الموثَّق لهذه الحالة هو **CBT معدّل ثقافياً** يستهدف مباشرة معتقدات "إزعاج الآخرين" لا معتقدات تقييم الذات كما في القلق الاجتماعي الغربي.
+
+## المصادر
+
+- Kirmayer, Laurence J. "The Place of Culture in Psychiatric Nosology: Taijin Kyofusho and DSM-III-R." *Journal of Nervous and Mental Disease*, 1991.
+- Suzuki, Kenji, et al. "Taijin Kyofusho and Social Anxiety and Their Relationship: A Cross-Cultural Study." *BMC Psychiatry*, 2003.
+- American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders (DSM-IV)*, Glossary of Culture-Bound Syndromes. 1994.

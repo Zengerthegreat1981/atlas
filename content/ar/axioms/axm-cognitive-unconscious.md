@@ -11,7 +11,7 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "formulated_by", target: "جون كيلستروم", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-jkihnstrom", target_type: "مفكر"
 related:
 - id: "thk-jkihnstrom", title: "جون كينستروم", type: "مفكر"
 - id: "axm-the-unconscious", title: "بديهية اللاوعي", type: "بديهية/مبدأ تأسيسي"
@@ -34,7 +34,7 @@ gaps:
 
 - **فرويد** (1900): اللاوعي كصراع نفسي (الإرث).
 - **جورج ماركر** و**فيلوسوف** (Marcel 1983): العمليات المُسبقة لمقارنة (Pre-conscious processing).
-- **جون كيلستروم** (Kihlstrom 1987): مصطلح "اللاوعي المعرفي" الحديث.
+- **جون كينستروم** (Kihlstrom 1987): مصطلح "اللاوعي المعرفي" الحديث.
 - **دانيل ويغنر** (Wegner 2002): الإرادة الواعية كـ"عقلاني مُختلَق" (Confabulated).
 
 ## الخصائص
@@ -74,3 +74,10 @@ gaps:
 - **التوسع المُفرط**: خطر تحويل كل السلوك إلى "لاوعي".
 - **الفقدان العلمي**: قد يُصبح مفهوماً لا يُقاس بدقة.
 - **التوازن**: كثير من السلوك واعٍ أيضاً.
+
+## المصادر
+
+- Kihlstrom, J.F. (1987). "The Cognitive Unconscious." *Science*, 237(4821), 1445-1452.
+- Greenwald, A.G., & Banaji, M.R. (1995). "Implicit Social Cognition: Attitudes, Self-Esteem, and Stereotypes." *Psychological Review*, 102(1), 4-27.
+- Bargh, J.A., Chen, M., & Burrows, L. (1996). "Automaticity of Social Behavior." *Journal of Personality and Social Psychology*, 71(2), 230-244.
+- Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.

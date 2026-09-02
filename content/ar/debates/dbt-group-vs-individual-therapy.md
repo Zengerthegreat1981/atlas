@@ -12,14 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-group-therapy", target_type: "مدرسة"
 related:
-- id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
-- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-- id: "dbt-couples-therapy-vs-individual-depression", title: "جِدَل عِلَاج اِكْتِئَاب زَوْج ضِد فَرْدِيّ", type: "جدل"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: العوامل العلاجية في الجماعة (con-group-therapeutic-factors)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الضيق الكوني (con-universal-distress)"
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Yalom, 1995; McDermut et al., 2001)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جِدَل الْعِلَاج الْجَمَاعِيّ ضِد الْفَرْدِيّ: أَيُّهُمَا أَفْضَل؟
@@ -53,3 +50,9 @@ gaps:
 ## نَقْد
 
 (1) **دِرَاسَات** (Studies) «**مَحْدُودَة**» (Limited) تُقَارِن مُبَاشَرَة بَيْن الْاِثْنَيْن. (2) **عَوَامِل** (Factors) «**خَاصَّة**» (Specific) بِـ**كُلّ** نَوْع «**صَعْب**» (Hard) لِـ**فَصْل** مِن «**عَوَامِل مُشْتَرَكَة**». (3) **تَأْثِير** (Effect) «**مُعَالِج**» (Therapist) «**قَد**» (May) يَكُون أَكْبَر مِن تَأْثِير نَوْع.
+
+## المصادر
+
+- Yalom, Irvin D. & Leszcz, Molyn. *The Theory and Practice of Group Psychotherapy* (2005) — العوامل العلاجية الجماعية (الأُلفة، الرحمة، التعلم الاجتماعي).
+- McDermut, Wilson; Miller, Ivan W.; Brown, Richard A. "The Efficacy of Group Psychotherapy for Depression: A Meta-analysis and Review of the Empirical Research." *Clinical Psychology: Science and Practice*, 2001.
+- Linehan, Marsha M. *Cognitive-Behavioral Treatment of Borderline Personality Disorder* (1993) — بنية DBT الجامعة بين العلاج الفردي والجماعي.

@@ -12,8 +12,6 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 evidence_level: "متوسط"
-edges:
-- rel: "belongs_to", target: "فلسفة الطب النفسي", target_type: "مدرسة"
 related:
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
@@ -23,8 +21,9 @@ related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-depressive-personality-historical", title: "اضطراب الشخصية الاكتئابية التاريخي", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "النقاشات المعاصرة (2020+) حول 'مفهوم الخلل الضار' (Harmful Dysfunction) في فلسفة الطب النفسي تحتاج توثيقاً مستقلاً."
+  - "لا مدرسة باسم 'فلسفة الطب النفسي' موجودة حالياً في schools/ ليُربط بها هذا الملف عبر edges؛ رابط belongs_to سابق كان يشير لنص حر بلا slug حقيقي وحُذف — يحتاج تسجيل طلب slug جديد."
+  - "النقاشات المعاصرة (2020+) حول تطوير مفهوم 'الخلل الضار' (Harmful Dysfunction) بعد واكفيلد لم تُراجع بعد."
+  - "نص خطاب سبيتزر الدفاعي عن معايير DSM-III (1980) ضد نقد ساس لم يُراجع من مصدر أولي مباشر."
 ---
 
 # المرض العقلي: مرض أم مشكلة حياتية؟
@@ -56,3 +55,10 @@ gaps:
 ## الحالة الراهنة والاتجاهات المستقبلية
 
 اليوم يميل الميدان إلى حل وسط: يُسلم الطب النفسي بأن أغلب الاضطرابات الكبرى لها أساس بيولوجي حقيقي، لكنه يعترف بأن "الاضطرابات النفسية" كتصنيفات مبنية على معايير سلوكية ظرفية قابلة للنقد والتوسيع المرضي. الجدل احتدم مجدداً مع توسّع DSM-5 (اضطرابات مثل "اضطراب الشراهة" Binge Eating واضطرابات المزاج ما حول الطمث)، ومع ازدياد إعلانات الأدوية النفسية المباشرة للمستهلك. التوجهات المستقبلية تدفع نحو نماذج "طيف الأبعاد" (Spectrum Models) ومؤشرات حيوية (Biomarkers) لتضييق التعريف، أو نحو تعريفات وظيفيّة تُحرر التشخيص من وصمة "المرض" لصالح "الخلل الوظيفي المُعطِّل".
+
+## المصادر
+
+- Szasz, T. (1961). *The Myth of Mental Illness: Foundations of a Theory of Personal Conduct*. Harper & Row.
+- Wakefield, J. C. (1992). "The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values." *American Psychologist*, 47(3), 373-388.
+- Frances, A. (2013). *Saving Normal: An Insider's Revolt Against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life*. William Morrow.
+- American Psychiatric Association (1980). *Diagnostic and Statistical Manual of Mental Disorders* (3rd ed.). (لجنة سبيتزر ونقاش المعايير الطبية).

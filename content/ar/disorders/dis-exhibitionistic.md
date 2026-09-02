@@ -12,17 +12,15 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
 - id: "dis-frotteuristic-disorder", title: "اضطراب الفروتيوريزم (Frotteuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "con-jouissance", title: "اللذّة (Jouissance)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6D30.1) لم تُراجع تفصيلياً."
@@ -32,7 +30,6 @@ gaps:
   - "التداخل مع Voyeurism كاضطراب paraphilic مُصاحب."
   - "معدلات الانتكاسة في دراسات المتابعة الطويلة غير موثقة بدقة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # اضطراب الاستعراء (Exhibitionistic Disorder)
 
@@ -86,6 +83,14 @@ gaps:
 
 - **برامج متخصصة لمرتكبي الجرائم الجنسية** غير مغطاة.
 - **العلاج الدوائي** كأداة غير مغطى (طبيعي).
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الاستعراء كفئة تشخيصية إكلينيكية وبين مفهوم «اللذّة» (Jouissance) عند Jacques Lacan (con-jouissance) — الأخير مفهوم تحليلي-فلسفي عن اللذة المتجاوزة لمبدأ اللذة كبنية نفسية عامة في الذات الإنسانية، بينما اضطراب الاستعراء فئة سلوكية-إكلينيكية محددة بمعايير مدة وضائقة وانتهاك موافقة الآخر، لا تنطبق على أي شكل من أشكال اللذة الجنسية.
 
 ## الحدود والمخاطر
 

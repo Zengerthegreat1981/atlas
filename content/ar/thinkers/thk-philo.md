@@ -53,3 +53,9 @@ gaps:
 - *De Legatione ad Gaium* (سفارة إلى كايوس/كالِيغُولا).
 - *Quod Deus sit Immutabilis* (في ثبات الله).
 - *De Specialibus Legibus* (في الشرائع الخاصة).
+
+## المصادر
+
+- Runia, David T. "Philo of Alexandria." *Stanford Encyclopedia of Philosophy*.
+- Sterling, Gregory E. "Philo of Alexandria." *Oxford Research Encyclopedia of Religion*.
+- Colson, F. H., and G. H. Whitaker (trans.). *Philo*, Loeb Classical Library, 10 vols., Harvard University Press.

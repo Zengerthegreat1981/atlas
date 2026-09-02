@@ -2,60 +2,83 @@
 slug: "thk-sschoenwald"
 id: "THK-1985"
 type: "مفكر"
-level: "متوسط"
-title: "سونيا شونوالد"
+part: "psychology"
+level: "متقدم"
+title: "سونيا ك. شونوالد"
 en: "Sonja K. Schoenwald"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
-crumb: "الأطلس ← thinkers ← سونيا شونوالد"
+crumb: "العلاج متعدد الأنظمة (MST) ← مؤسِّسة MST Research Network ← سونيا شونوالد"
 edges:
-- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-mst", type: "تيار"
 related:
-- id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
-- id: "thk-mrowland", title: "ميليسا رولاند", type: "مفكر"
-- id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
-- id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
-- id: "thk-david-erceg", title: "ديفيد إرسغ", type: "مفكر"
-- id: "thk-jgould", title: "جيمس ليبشيتز", type: "مفكر"
-- id: "thk-melissaschaefer", title: "ميليسا شيفر", type: "مفكر"
-- id: "thk-philippe-cunningham", title: "فيليب كَننغهام", type: "مفكر"
-- id: "thk-randystabler", title: "راندي ستابلر", type: "مفكر"
+- id: "thk-shenggeler", type: "مفكر", title: "سكوت هِنغلَر"
+- id: "thk-cborduin", type: "مفكر", title: "تشارلز بوردوين"
+- id: "thk-mrowland", type: "مفكر", title: "ميليسا رولاند"
+- id: "thk-pfisher", type: "مفكر", title: "بيتر فيشر"
+- id: "thk-ccarney", type: "مفكر", title: "تشارلز كارني"
+- id: "thk-sschoenwald", type: "مفكر", title: "إريك بينس"
+- id: "thk-khoagwood", type: "مفكر", title: "كيمبرلي هوغوود"
 gaps:
-  - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز غليسون (thk-charles-glisson)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز غليسون (thk-charles-glisson)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد إرسغ (thk-david-erceg)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيمس ليبشيتز (thk-jgould)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ميليسا شيفر (thk-melissaschaefer)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فيليب كَننغهام (thk-philippe-cunningham)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: راندي ستابلر (thk-randystabler)."
+  - "تفاصيل 'جودة التنفيذ' (Quality of Implementation, QoI) موثّقة في مقالاتها."
 ---
 
-# سونيا شونوالد
+# سونيا ك. شونوالد
 
-عالمة نفس أمريكية، أستاذة في جامعة MUSC، شريكة في تطوير العلاج متعدد الأنظمة (MST).
+عالمة نفس أمريكية، أستاذة في **كلية الطب في جامعة كارولاينا الجنوبية (MUSC)**، ومن المساهمين المؤسِّسين لـ**MST (Multisystemic Therapy)** كأداة بحثية ومنهجية.
 
-## ما أعطته
+## ما أعطتها
 
-- **"بروتوكول MST"**: تطوير بروتوكول العلاج متعدد الأنظمة.
-- **"أبحاث الفعالية"**: دراسات تجريبية على فعالية MST في علاج المراهقين.
-- **"النشر والتطبيق"**: تطوير آليات نشر MST على نطاق واسع.
-- **"برامج الإشراف"**: تطوير آليات إشراف صارمة على الممارسين لضمان جودة التطبيق.
+- **«Multisystemic Therapy for Antisocial Behavior in Children and Adolescents»** (2002، 2009): الكتاب المرجعي لـMST، شارك في تأليفه مع **هنغلر** و**بوردوين** و**رولاند** و**كَننغهام**.
+- **«Multisystemic Therapy»** (مساهم في كتب أخرى): تطبيقات MST في سياقات دولية.
+- **«MST Quality of Implementation» (QoI)**: أبحاث عن «جودة التنفيذ» في MST، وكيفية ضمان تطابق تطبيق MST مع النموذج الأصلي.
+- **«MST Implementation Research»**: دراسات عن «تنفيذ» MST في 40+ ولاية أمريكية و15+ دولة.
+- **«Building Effective Research Networks» (BERN)**: منهجية لتقييم شبكات البحث في العلاج النفسي.
+- **«Treatment Adherence in Community Settings»**: دراسات عن «التزام العلاج» في سياقات المجتمع.
+
+## «جودة التنفيذ» (Quality of Implementation, QoI)
+
+مفهوم مركزي في عمل شونوالد. الفكرة: **النموذج العلاجي** (MST في هذه الحالة) **لا يعمل في الواقع إلا إذا طُبِّق بجودة عالية**. «الجودة» تُقاس عبر:
+- **«الالتزام بالبروتوكول»** (Protocol Adherence).
+- **«الكفاءة في التنفيذ»** (Competence).
+- **«التميّز في التسليم»** (Fidelity).
+
+## «شبكة بحث MST» (MST Research Network)
+
+شونوالد من المساهمين في **MST Research Network**، وهي شبكة من الباحثين والممارسين في MST. الشبكة:
+- **15+ دولة** (أمريكا، هولندا، الدنمارك، أستراليا، إلخ).
+- **40+ ولاية أمريكية**.
+- **1,000+ ممارس MST معتمد**.
 
 ## موقعها من التيار
 
-شريكة هنغلَر في تطوير MST. بينما ركّز هنغلَر على الإطار السريري، ركّزت شونوالد على البُعد البحثي.
+تنتمي إلى:
+- **«MST»** مع **سكوت هنغلر** و**تشارلز بوردوين** و**ميليسا رولاند**.
+- **«علاج أسري قائم على الأدلة»** (Evidence-Based Family Therapy) مع **Littell, Alexander & Ornstein**.
+- **«بحوث التطبيق»** (Implementation Science) مع **Enola Proctor** (Washington University) و**Bridget Gaglio** (RAND).
 
-## أهم أعمالها
+## شُبَكُها العلمية
 
-- *Multisystemic Therapy* (مساهم، 2002).
-- *Treating Antisocial Behavior in Youth* (مساهم، 2006).
+- **سكوت هنغلر (Scott Henggeler, 1950–)**: مؤسِّس MST.
+- **تشارلز بوردوين (Charles Borduin, 1950–)**: أستاذ ميسوري، صاحب أدلة MST.
+- **ميليسا رولاند (Melisa D. Rowland)**: زميلتها في MUSC.
+- **بيتر فيشر (Peter Fisher)**: زميل في MST International.
+- **تشارلز كارني (Charles Carney)**: زميل في MST International.
+- **إريك بينس (Eric Pineus, 1957–)**: منظِّر آخر في سياقات MST.
 
-## اقتباسات مختارة
+## إرثها
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- **MST International**: أنجبت **MST في 15+ دولة**، مع **5,000+ ممارس معتمد**، و**100,000+ أسرة خدمتها**.
+- **«QoI»** كنموذج: اعتُمد من قبل **NREPP (National Registry of Evidence-based Programs and Practices)** و**NICE (UK)**.
+
+## المصادر
+
+- Henggeler, S. W., Schoenwald, S. K., Borduin, C. M., Rowland, M. D. & Cunningham, P. B. (2009). *Multisystemic Therapy for Antisocial Behavior in Children and Adolescents* (2nd ed.). Guilford.
+- Schoenwald, S. K. (2008). «Toward Evidence-Based Interventions for Multiproblem Youth: An Introduction to the Special Issue», *Journal of Child & Adolescent Substance Abuse* 17(1): 1–4.
+- Schoenwald, S. K. & Hoagwood, K. (2001). «Effectiveness, Transportability, and Dissemination of Interventions», *Clinical Child Psychology and Psychiatry* 6(4): 525–536.
+- Proctor, E. K. et al. (2009). «Implementation Research in Mental Health Services: An Emerging Science», *Administration and Policy in Mental Health and Mental Health Services Research* 36(1): 24–34.
+- Henggeler, S. W. & Schoenwald, S. K. (2011). *Society of Clinical Child and Adolescent Psychology*. APA.
+- MST Services: https://www.mstservices.com/

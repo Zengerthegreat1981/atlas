@@ -1,0 +1,60 @@
+---
+slug: "thk-margaretbodkin"
+id: "THK-2699"
+type: "مفكر"
+level: "متوسط"
+title: "مارغريت بودكن"
+en: "Margaret L. Bodkin"
+crumb: "العلاج بالخبرة/التجريبي ← تطوير ← مارغريت بودكن"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+related:
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
+- id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
+- id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
+- id: "thk-cmarsh", title: "كليفور مارش", type: "مفكر"
+- id: "tec-experiential", title: "تقنية العلاج بالخبرة", type: "تقنية"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "اسم 'Margaret L. Bodkin' في العلاج بالخبرة (Experiential Therapy) لا يظهر في Google Scholar كمحور مستقل بارز. أقرب نتيجة هي 'A. Bodkin' أو 'M. Bodkin' ككاتبة مشاركة في فصول عن اضطرابات القلق."
+  - "العلاج بالخبرة (Experiential Therapy) تيار روج له روجرز و جنسن و إليوت و ستيفان فرانزن، ولا أجد اسم بودكن ضمن المراجع الرئيسية."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو نقل المحتوى إلى ملف [tec-experiential](tec-experiential) أو [thk-robertelliott](thk-robertelliott)."
+---
+
+# مارغريت بودكن
+
+اسم يظهر في سياق العلاج بالخبرة (Experiential Therapy) في الأدبيات الأمريكية، دون توثيق مستقل كافٍ لبناء سيرة ذاتية كاملة.
+
+## محاولة التوثيق
+
+العلاج بالخبرة (Experiential Therapy) مقاربة تؤكد على أهمية التجربة العاطفية الحية في الجلسة العلاجية، وترتبط تاريخياً بأعمال كارل روجرز وموريس ناتانسون، ثم طوّرها [روبرت إليوت](thk-robertelliott) و[كلايف مِلنر](thk-mmilner) (نجلة ماريون مِلنر) في إطار أكاديمي صارم.
+
+بالبحث عن اسم «Margaret L. Bodkin» في Google Scholar:
+- ظهرت نتائج متفرقة لـ«A. Bodkin» و«M. Bodkin» في فصول عن اضطرابات القلق، لا في كتب مستقلة.
+- لا يوجد ملف أكاديمي مستقل يُثبت أن بودكن قائدة في تطوير العلاج بالخبرة مع اضطرابات الهلع والقلق الاجتماعي.
+- من المرجح أن الاسم وُضع في هذا المسوّد بناءً على قائمة المراجع في أحد كتب فرانزن أو إليوت، أو من ورشة تدريبية في Experiential Therapy، أو من قراءات تأسيسية غير موثّقة.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون بودكن من الجيل المعاصر في **العلاج بالخبرة**، وتركّز على **التطبيقات السريرية الدقيقة** للنموذج في اضطرابات محددة، وهو ما يُعدّ تطويراً ضرورياً لربط الحقل بمناهج العلاج القائمة على الأدلة. هذا التقاطع مهم لأنه يعالج نقداً مركزياً للعلاج بالخبرة: أنه تيار غني فلسفياً لكنه ضعيف في الدراسات السريرية العشوائية المضبوطة (RCTs).
+
+## علاقتها بالتقنية والمفاهيم
+
+ترتبط مباشرة بـ[تقنية العلاج بالخبرة](tec-experiential)، وتتقاطع مع [اضطراب الهلع](dis-panic-disorder) كحقل تطبيقي. تستند في عملها المفترض إلى أعمال [روبرت إليوت](thk-robertelliott) و[يوجين تيلور](thk-eugenetaylor) و[كلايف مِلنر](thk-cmarsh) في تطوير المفاهيم الأساسية للعلاج بالخبرة.
+
+## المصادر
+
+- Elliott, R., & Greenberg, L. S. (2002). *Process-Experiential Therapy*. SAGE.
+- Mahrer, A. R. (1983). *Experiential Psychotherapy: Basic Practices*. Brunner/Mazel.
+- Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change: The Moment-by-Moment Process*. Guilford Press.
+- Google Scholar — بحث بالاسم (نتائج ضئيلة، لا ملف أكاديمي مستقل).
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

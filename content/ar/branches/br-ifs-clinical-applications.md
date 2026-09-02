@@ -10,13 +10,13 @@ crumb: "علم النفس ← مدارس العلاج ← IFS ← التطبيق
 active_start: 1995
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-internal-family-systems", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 related:
-- id: "tec-ifs-parts-mapping", title: "تخطيط الأجزاء في IFS", type: "تقنية/تدخل علاجي"
+- id: "tec-ifs-parts-mapping", title: "تخطيط الأجزاء (Parts Mapping) في IFS", type: "تقنية/تدخل علاجي"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
+- id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ريتشارد شوارتز (thk-rschwartz)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظام الأسرة الداخلية (IFS) (con-ifs)"
   - "نتائج التجارب السريرية العشوائية على IFS محدودة نسبياً."
 ---

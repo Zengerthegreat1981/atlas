@@ -14,17 +14,15 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-mbct", target_type: "مدرسة"
 related:
-- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة", type: "مدرسة"
-- id: "sch-act", title: "العلاج بالقبول والالتزام", type: "مدرسة"
-- id: "sch-dbt", title: "العلاج الجدلي السلوكي", type: "مدرسة"
+- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 - id: "con-cognitive-decentering", title: "اللامركزية المعرفية", type: "مفهوم"
-- id: "dis-mdd", title: "الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-- id: "con-exposure-hierarchy", title: "الهرّم التدريجي للتعرّض", type: "مفهوم"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: اجترار الأفكار (con-rumination)"
   - "دراسات الفعالية (Efficacy Studies) الخاصة بمساحة التنفس الثلاث دقائق موثّقة جزئياً، معظمها كجزء من برنامج MBCT الكامل."
+  - "الروابط السابقة إلى sch-act وsch-dbt وcon-exposure-hierarchy حُذفت لأن متن المقالة لا يذكر ACT أو DBT أو هرم التعرّض إطلاقاً."
 ---
 # مساحة التنفس الثلاث دقائق (MBCT)
 

@@ -15,8 +15,7 @@ active_end: 1077
 edges:
 - rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "درجة أصالة تمييزه بين 'طبيعة السماء والأرض' و'طبيعة التشي والمزاج' مقابل تطوير تلاميذه له لاحقاً موضع خلاف بين الدارسين."
 ---
 
 # تشانغ تساي
@@ -42,3 +41,9 @@ gaps:
 ## اقتباسات مختارة
 
 «الناس جميعاً إخوتي وأخواتي، والأشياء كلها رفاقي.» (النقش الغربي)
+
+## المصادر
+
+- Zhang Zai, *Ximing* [Western Inscription]، مع شرح تشو شي.
+- Kasoff, I. E. (1984). *The Thought of Chang Tsai (1020-1077)*. Cambridge University Press.
+- Chan, W. (trans., 1963). *A Source Book in Chinese Philosophy* — يتضمن ترجمة للنقش الغربي وشذرات من Zhengmeng.

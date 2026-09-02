@@ -13,11 +13,11 @@ part: "psychology"
 active_start: 1941
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "التحليل التفاعلي وعلم النفس الشعبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-erikson", title: "إريك إريكسون", type: "مفكر"
-- id: "thk-fromm", title: "إيريك فروم", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 - id: "sch-ipt", title: "العلاج النفسي بين الأشخاص (IPT)", type: "مدرسة"
@@ -29,7 +29,7 @@ gaps:
 
 # إريك بيرن
 
-طبيب نفسي أمريكي-كندي يُعدّ مؤسِّس "التحليل التفاعلي" (Transactional Analysis, TA) ونظرية "الألعاب النفسية" (Games People Play). درّس الطبّ النفسي في Yale ثم عمل في تاهوما سيتي (Mount Zion Hospital) في سان فرانسيسكو. طوّر منهج "التحليل التفاعلي" بوصفه أداةً للعلاج النفسي تخرج عن "الغرفة المغلقة" إلى "الجمهور العام" — وهو ما جعله "أب التحليل التفاعلي" ومؤسِّس "علم النفس الشعبي للعلاقات".
+طبيب نفسي أمريكي-كندي يُعدّ مؤسِّس "التحليل التفاعلي" (Transactional Analysis, TA) ونظرية "الألعاب النفسية" (Games People Play). درّس الطبّ النفسي في Yale ثم عمل لاحقاً في Mount Zion Hospital بسان فرانسيسكو. طوّر منهج "التحليل التفاعلي" بوصفه أداةً للعلاج النفسي تخرج عن "الغرفة المغلقة" إلى "الجمهور العام" — وهو ما جعله "أب التحليل التفاعلي" ومؤسِّس "علم النفس الشعبي للعلاقات".
 
 ## ما أعطاه
 
@@ -48,7 +48,7 @@ gaps:
 
 ## أهم أعماله
 
-- *The Mind in Action* (1947، باسمه الأصلي Bernstein).
+- *The Mind in Action* (1947).
 - *Transactional Analysis in Psychotherapy* (1961).
 - *Games People Play: The Psychology of Human Relationships* (1964).
 - *The Happy Valley* (مذكرات، 1965).
@@ -57,8 +57,3 @@ gaps:
 - *Sex in Human Loving* (1970).
 - *What Do You Say After You Say Hello?* (1972، نُشر بعد وفاته).
 - *Beyond Games and Scripts* (محرر مع Steiner، 1972، بعد وفاته).
-
-## اقتباسات مختارة
-
-> "إنّ كلّ إنسان وُلد لِيكون نَجْلاً (Prince)، وكلّ أمّ تَوَدّ أن يكون وَلَدُها أمّيراً."
-> *(A Layman's Guide to Psychiatry and Psychoanalysis, 1967، ترجمة تقريبية)*

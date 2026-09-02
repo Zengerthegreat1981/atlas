@@ -12,6 +12,7 @@ country: "اليابان"
 language: "اليابانية، الصينية الكلاسيكية"
 active_start: 805
 active_end: "مستمر"
+cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
 related:
@@ -19,9 +20,9 @@ related:
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
 - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
-- id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
+- id: "sch-pure-land", title: "الأرض الطاهرة (جينغتو / جودو)", type: "مدرسة"
 - id: "sch-nichiren", title: "نيتشيرن", type: "مدرسة"
-- id: "sch-shingon", title: "شينگون", type: "مدرسة"
+- id: "sch-shingon", title: "شينغون (البوذية التانترية اليابانية)", type: "مدرسة"
 gaps:
   - "نصوص Saichō (Hokke shūku fukki，Benkenmitsu nijūgo ryakushō) و Ennin و Genshin (Ōjō yōshū) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Tendai الأم في Mount Hiei و Tendai فرعية (Jimon vs Sanmon) يستحق بحثاً نقدياً."
@@ -89,3 +90,9 @@ gaps:
 - **صراع Saichō-Kūkai**: Saichō أراد أخذ Shingon داخلياً، Kūkai رفض. النتيجة: Shingon صار مستقلاً.
 - **Jimon vs Sanmon**: الانقسام ما بين أديرة Miidera (Jimon) و Hiei (Sanmon)، مستمر لقرون.
 - **Meiji**: فقد Tendai بعض أتباعها بعد إصلاح 1872.
+
+## المصادر
+
+- Groner, P. (2000). *Saichō: The Establishment of the Japanese Tendai School*. University of Hawai'i Press.
+- Stone, J. I. (1999). *Original Enlightenment and the Transformation of Medieval Japanese Buddhism*. University of Hawai'i Press.
+- Rhodes, R. F. (2017). *Genshin's Ōjōyōshū and the Construction of Pure Land Discourse in Heian Japan*. University of Hawai'i Press.

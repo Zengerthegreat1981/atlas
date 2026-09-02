@@ -12,36 +12,40 @@ active_start: 1994
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-behavioral-rehearsal", title: "إعادة السلوك بالتمرين", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "تكليف المهام المتدرّجة", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-assertiveness-training", title: "تدريب الحزم", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفاعل", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-role-playing", title: "لعب الأدوار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-role-playing", title: "تمثيل الأدوار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-mindful-breathing", title: "التنفس الذهنـي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-bullseye-exercise", title: "تمرين عين الثور (القيم)", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-cope-ahead", title: "المواجهة المسبقة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-bullseye-exercise", title: "تمرين لوحة الهدف (Bullseye)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-dear-man", title: "DEAR MAN", type: "تقنية/تدخل علاجي"
-- id: "syn-loneliness-isolation", title: "الوحدة والعزلة", type: "متلازمة"
+- id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تعريف الصمت الانتقائي لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "نسبة الانتشار في السياقات العربية غير موثّقة بمراجع دقيقة."
 ---
 
 # ال صمت الانتقائي
 
 اضطراب قلق يظهر عادة في مرحلة الطفولة المبكرة (2-5 سنوات)، يتميز بعدم قدرة الطفل على الكلام في مواقف اجتماعية محددة (مثل المدرسة) رغم قدرته على الكلام طبيعياً في مواقف أخرى مألوفة (مثل البيت). لا يعود الصمت إلى نقص في اللغة أو اضطراب في النطق، بل إلى قلق اجتماعي شديد مرتبط بسياقات معيّنة.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل بقية عناصر نوع 'الاضطراب/الحالة الإكلينيكية'، يلتزم بوصف فئة الصمت الانتقائي معرفياً وفق معايير DSM-5-TR (312.23) وICD-11 (6B06) المذكورة أعلاه، دون تقديم أي تقييم تشخيصي مباشر لحالة طفل بعينه أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين الصمت الانتقائي كفئة تشخيصية إكلينيكية (عجز لاإرادي عن الكلام في سياقات محددة رغم قدرة لغوية سليمة) وبين مفهوم 'القول الصريح والشجاعة الحوارية' (Parrhesia) عند فوكو (con-parrhesia-fearless-speech، 1983) — الأخير فضيلة إرادية تتعلق باختيار قول الحقيقة الخطيرة أمام السلطة، بينما الصمت الانتقائي عجز قسري غير مُختار يمنع الطفل من الكلام حتى في مواقف لا تنطوي على أي مخاطرة أو مواجهة.
 
 ## ملاحظات على المعايير التشخيصية
 

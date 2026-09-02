@@ -10,15 +10,18 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "traditional"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
 - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-give", title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "tec-person-centered-core-conditions", title: "الشروط اللازمة والكافية للعلاج المتمركز حول العميل", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد دراسة منفصلة تختبر التصديق الصامت بمعزل عن وحدة الفعالية البينية الكاملة؛ الدليل المتاح غير مباشر عبر تجارب DBT ككل."
 ---
 
 # التصديق الصامت
@@ -53,7 +56,16 @@ gaps:
 
 هي «المستوى الأول» من مستويات التصديق الستة. تشترك مع GIVE في الحفاظ على العلاقة، لكنها تخص **الإشارة الصامتة** لا الكلام. هي الأكثر «عالمية» بين المهارات (لا تحتاج معرفة لغوية).
 
+وحدة مهارات الفعالية البينية (Interpersonal Effectiveness) — التي تنتمي إليها هذه المهارة — وضعتها مارشا لينهان (Marsha Linehan) ضمن العلاج الجدلي السلوكي (DBT) في كتابها المرجعي *Cognitive-Behavioral Treatment of Borderline Personality Disorder* (1993)، أي منذ نشأة DBT كعلاج موجّه أصلاً لاضطراب الشخصية الحدية — وهو الاضطراب الذي صُممت التقنية أصلاً لمعالجة صعوباته العلائقية الحادة.
+
+تتقاطع وظيفياً مع «الشروط اللازمة والكافية» عند كارل روجرز في العلاج المتمركز حول العميل، والتي تفترض أن التقبل غير المشروط (Unconditional Positive Regard) يُنقَل جزئياً عبر الحضور والانتباه غير اللفظي لا عبر التقنية اللفظية وحدها؛ يختلف الإطاران في أن روجرز يعتبر هذا الحضور شرطاً علاجياً كافياً في ذاته، بينما تُدرَّب مهارة التصديق الصامت في DBT كخطوة تكميلية منفصلة داخل بروتوكول متسلسل ومُدرَّس صراحة.
+
 ## حدود ومخاطر
 
 - قد تسيء تفسيرها ثقافياً (بعض الثقافات ترى التواصل البصري المستمر وقاحة).
 - في حالات الإساءة، اللمس قد يكون مسيئاً.
+
+## المصادر
+
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.

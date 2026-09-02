@@ -23,7 +23,6 @@ related:
 - id: "thk-kelley", title: "تشارلز كيلي", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مايكل مالِه
@@ -44,3 +43,7 @@ gaps:
 ## أهم أعماله
 
 مقالات في IIBA Journal حول «الموافقة في Bioenergetics» · مساهمات في كتب Bioenergetics والصدمة.
+
+## المصادر
+
+- Maley, M. (2006). "Shock, Trauma and Polarization: Finding Unity in a World of Polarities" (محاضرة افتتاحية، مؤتمر IIBA، كيب كود 2005). *Bioenergetic Analysis: The Clinical Journal of the IIBA*.

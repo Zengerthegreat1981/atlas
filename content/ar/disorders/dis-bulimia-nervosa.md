@@ -12,40 +12,45 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-- id: "tec-cbt-beh-graded-task-assignment", title: "إسناد المهام المتدرّجة", type: "تقنية/تدخل علاجي"
+- id: "con-pleasure", title: "اللذة", type: "مفهوم"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحوّفات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي الداخلي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمّل الضائقة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-mindful-eating", title: "الأكل الواعي", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-eating", title: "الأكل بيقظة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بـ ACCEPTS", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-check-the-facts", title: "التحقق من الحقائق", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة لعتبة شدة DSM-5-TR (مقابل تكرار السلوكيات التعويضية) لم تُراجع من نص تشخيصي أولي."
   - "الفروقات بين النهام العصبي واضطراب نهم الطعام (BED) في ICD-11 vs DSM-5-TR لم تُقارن نصاً بنص."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # النهام العصبي (بوليميا)
 
 اضطراب أكل يتميّز بنوبات متكررة من الإفراط في الأكل (binge eating) يليها سلوكيات تعويضية غير مناسبة لمنع زيادة الوزن (إقياء ذاتي، ملينات، مدرّات، صيام، أو إفراط في الرياضة). يميّزه عن القهم العصبي أن الوزن يبقى عادةً في المدى الطبيعي أو أعلى منه. يستحوذ تقييم الذات بشكل مفرط على شكل الجسم والوزن، وتحدث النوبات غالباً في سرية مع شعور بالعار.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين النهام العصبي كفئة تشخيصية تتمحور حول حلقة الإفراط ثم السلوك التعويضي وبين 'اللذة' (con-pleasure) كمفهوم فلسفي/تحليلي عام عن الخبرة الوجدانية الإيجابية المرتبطة بالإشباع. في النهام العصبي، فعل الأكل لا يرتبط عادة بلذة مُختبرة أو متقبَّلة، بل يحدث في سياق فقدان سيطرة وشعور بالعار يعقبه سلوك تعويضي قسري؛ أي أن العلاقة بالطعام هنا أعراضية إكلينيكية، لا تعبيراً عن سعي فلسفي نحو اللذة أو تحقيقها.
 
 ## ملاحظات على المعايير التشخيصية
 

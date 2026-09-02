@@ -15,8 +15,7 @@ active_end: 570
 edges:
 - rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نسبة Prolegomena إليه شخصياً أو إلى مدرسته عموماً مسألة خلافية بين الباحثين."
 ---
 
 # أولمبيودوروس الأصغر
@@ -41,6 +40,8 @@ gaps:
 - شروح على *المقولات* و*الأرصاد الجوّية* لأرسطو.
 - *مقدّمة إلى فلسفة أفلاطون* (Prolegomena) — تُنسب إليه أو إلى مدرسته.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Westerink, L. G. (ed.). *Olympiodorus: Commentary on the First Alcibiades of Plato*. North-Holland, 1956.
+- Jackson, R., Lycos, K. & Tarrant, H. (trans.). *Olympiodorus: Commentary on Plato's Gorgias*. Brill, 1998.
+- Sorabji, Richard (ed.). *The Philosophy of the Commentators, 200–600 AD*, vol. 1. Cornell University Press, 2004.

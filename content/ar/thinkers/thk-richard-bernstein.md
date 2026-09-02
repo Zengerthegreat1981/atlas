@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-hermeneutics-critical", target_type: "مدرسة"
 related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
-- id: "thk-gadamer", title: "هانس-غورغ غادامير", type: "مفكر"
+- id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
-- id: "thk-oapel", title: "كارل-أوتو أبل", type: "مفكر"
+- id: "thk-oapel", title: "كارل-أوتو آبل", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
@@ -59,6 +59,8 @@ gaps:
 - *The Pragmatic Turn* (محرر، 2010).
 - *Violence: Thinking without Banisters* (2013).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثّق في هذا الملف.
+- Bernstein, R. J. (1983). *Beyond Objectivism and Relativism*. University of Pennsylvania Press.
+- Bernstein, R. J. (2010). *The Pragmatic Turn*. Polity Press.
+- Rosenthal, S. B. (ed.) — مقالات تناقش موقع برنشتاين بين البراغماتية والهرمنيوطيقا النقدية.

@@ -14,10 +14,15 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-christian-mysticism-medieval", target_type: "مدرسة"
 related:
+- id: "thk-meister-eckhart", title: "مايستر إيكهارت", type: "مفكر"
 - id: "sch-christian-mysticism-medieval", title: "التصوّف المسيحي الوسيط", type: "مدرسة"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "con-negative-theology-via-negativa", title: "اللاهوت السلبي والتنزيه المطلق (Apophatic Theology / Via Negativa)", type: "مفهوم"
+- id: "con-gestell", title: "الإطار (Gestell)", type: "مفهوم"
+- id: "thk-pseudo-dionysius", title: "ديونيسيوس المجهول (المُنتحل / الإله الزائف)", type: "مفكر"
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 gaps:
-  - "الفرق الدقيق بين Gelassenheit عند إيكهارت وعند تاولر موضع نقاش."
+  - "الفرق الدقيق بين Gelassenheit عند إيكهارت وعند تاولر موضع نقاش، ولا يوجد ملف مستقل عن تاولر أو سوسو حالياً في الأطلس لتوثيق هذا التفريع."
   - "لا يوجد اقتباس مباشر موثوق من 'Buch der göttlichen Tröstung'."
 ---
 

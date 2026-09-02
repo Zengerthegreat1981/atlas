@@ -15,15 +15,13 @@ active_start: 1990
 active_end: "مستمر"
 register: "academic"
 evidence_level: "experimental"
-edges:
-- rel: "belongs_to", target: "sch-islamic-psychology-tradition", target_type: "مظلة"
 related:
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"
-- id: "thk-maburaiya", title: "محمد محمود أبو ريا", type: "مفكر"
-- id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
-- id: "con-tawakkul", title: "التوكل", type: "مفهوم"
-- id: "con-taqwa", title: "التقوى", type: "مفهوم"
-- id: "que-nature-vs-nurture", title: "الفطرة", type: "سؤال توليدي"
+- id: "thk-maburaiya", title: "هشام أبو ريا", type: "مفكر"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
+- id: "con-tawakkul", title: "التوكل (Tawakkul)", type: "مفهوم"
+- id: "con-taqwa", title: "التقوى (Taqwa)", type: "مفهوم"
+- id: "que-nature-vs-nurture", title: "ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟", type: "سؤال توليدي"
 - id: "con-fitrah-nafs-qalb-model", title: "نموذج الفطرة والنفس والقلب في علم النفس الإسلامي", type: "مفهوم"
 - id: "wrk-malik-badri-dilemma-muslim-psychologists", title: "كتاب أزمة علماء النفس المسلمين لمالك بدري (1979)", type: "عمل / كتاب"
 - id: "tec-tawakkul-cognitive-reframing", title: "إعادة التأطير المعرفي عبر التوكل والتسليم الإيماني", type: "تقنية/تدخل علاجي"
@@ -112,7 +110,7 @@ gaps:
 - **التسييس**: قد يُستخدم الحقل لتبرير موقف أيديولوجي.
 - **التوافق مع DSM**: التصنيفات DSM/ICD لا تعكس المفاهيم الإسلامية.
 
-## المرجع الأساسي
+## المصادر
 
 - Badri, M. (2000). *Contemporary Psychotherapy and the Muslim Patient*. International Institute of Islamic Thought.
 - Abu Raiya, M. A. (2012). *The Routledge International Encyclopedia of Islam and Psychology*. Routledge.

@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"

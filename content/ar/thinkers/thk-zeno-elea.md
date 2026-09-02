@@ -17,10 +17,9 @@ edges:
 related:
 - id: "met-zeno-achilles-tortoise", title: "أخيل والسلحفاة لزينون: مفارقة الحركة وتجزئة اللانهاية", type: "استعارة/مجاز مؤسِّس"
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
-- id: "thk-parmenides", title: "بارمنيدس", type: "مفكر"
+- id: "thk-parmenides", title: "بارمنيدس الإيلي", type: "مفكر"
 gaps:
-  - "مفارقات الحركة المكانية (أخيل والسلحفاة، السهم الطائر، والملعب)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الترتيب الزمني الدقيق لتأليف مفارقات الحركة المكانية (أخيل والسلحفاة، السهم الطائر، والملعب) داخل الكتاب المفقود لم يُحسم."
 ---
 
 # زينون الإيلي
@@ -46,6 +45,8 @@ gaps:
 
 - كتاب واحد مفقود، وصلنا عبر نقول أرسطو («الطبيعة»، الكتاب السادس) وسمبليكيوس وأفلاطون.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Palmer, John. "Zeno of Elea." *Stanford Encyclopedia of Philosophy*.
+- Barnes, Jonathan. *The Presocratic Philosophers*. Routledge, 1982.
+- Vlastos, Gregory. "Zeno of Elea." *Encyclopedia of Philosophy*, ed. Paul Edwards, Macmillan, 1967.

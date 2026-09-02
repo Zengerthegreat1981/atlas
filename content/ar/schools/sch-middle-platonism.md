@@ -10,12 +10,11 @@ crumb: "الفلسفة ← اليونان وروما ← الأفلاطونية 
 dates: "الإسكندرية، روما، أثينا · من نحو 80 ق.م إلى القرن 3 م"
 country: "روما (إيطاليا)، الإسكندرية (مصر)، أثينا (يونان)"
 language: "اليونانية، اللاتينية"
+cultural_origin: "greek"
 active_start: -80
 active_end: 270
 edges:
-- rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
-- rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
 - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
@@ -88,3 +87,10 @@ gaps:
 - الفلاسفة الذين يصفهم الباحثون هنا «أفلاطونيون متوسطون» لم يكونوا يعرفون أنفسهم كتيار واحد.
 - كثير من أعمالهم فُقدت، نعتمد على Plutarch و Apuleius و Alcinous (المحفوظ في Pre-Socraticorum philosophorum fontes).
 - التمييز عن «الأفلاطونية المحدثة» أقل حدة في المصادر القديمة.
+
+## المصادر
+
+- Dillon, John. *The Middle Platonists: 80 B.C. to A.D. 220*. Cornell University Press, 1996.
+- Alcinous. *The Handbook of Platonism* (trans. John Dillon). Oxford: Clarendon Press, 1993.
+- Frede, Michael. "Numenius." *Aufstieg und Niedergang der römischen Welt* II.36.2, 1987.
+- Boys-Stones, George. *Post-Hellenistic Philosophy: A Study of its Development from the Stoics to Origen*. Oxford University Press, 2001.

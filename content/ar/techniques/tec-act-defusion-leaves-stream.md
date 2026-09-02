@@ -9,17 +9,22 @@ en: "ACT Leaves on a Stream"
 crumb: "علم النفس ← مدارس العلاج ← ACT ← فصل الأفكار (Defusion)"
 active_start: 2000
 active_end: "مستمر"
+evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-- id: "tec-cbt-cog-thought-defusion", title: "فصل الأفكار (Cognitive Defusion) في ACT", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-thought-defusion", title: "الانفصال عن الأفكار (Defusion)", type: "تقنية/تدخل علاجي"
 - id: "con-cognitive-defusion", title: "فصل الأفكار (Cognitive Defusion) في ACT", type: "مفهوم"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن هايز (thk-shayes)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: فصل الأفكار (Defusion) في ACT (con-act-cognitive-defusion)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: القبول في ACT (con-act-acceptance)"
-  - "الفرق بين Leaves on a Stream وRiver of Thoughts في MBSR موثّق لكن غير مفصّل."
+  - "تكرار محتمل مع الملف tec-act-def-leaves-on-a-stream.md (TEC-0026) — نفس التقنية بعنوان وslug مختلفين. هذا الملف (TEC-0379) الأكثر اكتمالاً؛ الدمج/التحويل يحتاج صلاحية تعديل الملف الآخر وهو خارج نطاق هذه المهمة، فتُرك القرار لمرحلة مراجعة لاحقة."
+  - "قسم الدراسات السريرية السابق كان يحمل عبارات عامة بلا اسم باحث أو سنة أو نتيجة رقمية (غير مطابقة لمعيار القبول) فحُذف. لا توجد في الأطلس دراسة (stu-) موثّقة تختبر استعارة Leaves on a Stream تحديداً بالاسم — الأدلة المتاحة عامة عن فك الاندماج المعرفي ككل (راجع tec-act-def-titchener-s-repetition.md للدراسة المحدَّدة الموازية)."
+  - "الفرق بين Leaves on a Stream وRiver of Thoughts في MBSR موثّق مفاهيمياً لكن بلا مصدر أولي محدد بالاسم والسنة."
 ---
 # أوراق الشجر على النهر (Leaves on a Stream) في ACT
 
@@ -74,9 +79,9 @@ gaps:
 
 ## التطبيقات
 
-- **القلق** المعمم.
+- **اضطراب القلق العام** (Generalized Anxiety Disorder).
 - **الاكتئاب** المتكرر.
-- **الأفكار الوسواسية**.
+- **اضطراب الوسواس القهري** (الأفكار الاقتحامية).
 - **الأرق** (الأفكار المتكررة).
 - **القلق من الانتكاسة**.
 
@@ -94,11 +99,9 @@ gaps:
 - **تأمل جماعي** مع مشاركة التجربة.
 - مناسب في **المجموعات العلاجية**.
 
-## الدراسات السريرية
+## المدرسة والمبتكر
 
-- أثبت فعاليته في **تقليل** الاجترار (Rumination).
-- أظهر **تأثيرات** على القلق والاكتئاب.
-- **أداة** في مجموعات ACT العلاجية.
+التقنية جزء من حزمة تمارين **فك الاندماج المعرفي (Cognitive Defusion)** التي أدرجها **ستيفن سي. هايز** ضمن **العلاج بالقبول والالتزام (ACT)** في كتابه المؤسس مع ستروسال وويلسون (1999)، وتُدرَّس اليوم كأحد أشهر أمثلة **فصل الأفكار (Cognitive Defusion) في ACT** التطبيقية.
 
 ## المؤلفات
 

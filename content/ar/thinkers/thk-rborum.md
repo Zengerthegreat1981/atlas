@@ -12,14 +12,12 @@ language: "إنجليزية"
 active_start: 1996
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
+edges: []
 related:
 - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
 - id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على سنة ميلاد راندي بورم في مصدر أولي أو ثانوي متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
 ---
 
@@ -46,3 +44,9 @@ gaps:
 
 ## القيد
 - **تقييم خطر التطرف** حقل حديث، وكثير من أدواته ما زالت قيد التحقق.
+
+## المصادر
+
+- Borum, R. (2001). *Stalking and Domestic Violence: Report to Congress*. U.S. Department of Justice.
+- Borum, R., & Sidner, J. (2011). *The Science of Terrorism: How Real is the Threat?*.
+- Borum, R. Editorial work, *Journal of Threat Assessment and Management*, American Psychological Association.

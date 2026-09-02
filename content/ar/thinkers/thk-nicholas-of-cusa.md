@@ -15,8 +15,7 @@ active_end: 1464
 edges:
 - rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الترجمة العربية الكاملة والنقدية لـDe docta ignorantia غير متوفرة، والاعتماد هنا على شروح ثانوية بالإنجليزية."
 ---
 
 # نيكولاس الكوزاني
@@ -46,3 +45,9 @@ gaps:
 ## اقتباسات مختارة
 
 «دينٌ واحد في تنوّع الشعائر.» (في السلام بين الأديان)
+
+## المصادر
+
+- Nicholas of Cusa, *De Docta Ignorantia*, trans. Jasper Hopkins, *Nicholas of Cusa on Learned Ignorance* (Arthur J. Banning Press, 1985).
+- Ernst Cassirer, *The Individual and the Cosmos in Renaissance Philosophy* (1927; trans. Mario Domandi, 1963) — الفصل التأسيسي عن الكوزاني.
+- Karsten Harries, *Infinity and Perspective* (MIT Press, 2001) — عن تصوره للامتناهي وأثره على برونو وديكارت.

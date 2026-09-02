@@ -12,11 +12,10 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-- id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
+- id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "الفرق الدقيق بين نموذج Masters-Johnson الأصلي (1966) ونموذج Kaplan المعدل (1979) يستحق مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # دورة الاستجابة الجنسية
 
@@ -47,3 +46,9 @@ gaps:
 
 - النموذج الأول ركّز على البعد الفسيولوجي وتجاهل السياق العلائقي والثقافي.
 - النماذج النسوية (Basson) تتحدى عالمية النموذج الخطي.
+
+## المصادر
+
+- Masters, W. H., & Johnson, V. E. (1966). *Human Sexual Response*. Little, Brown.
+- Kaplan, H. S. (1979). *Disorders of Sexual Desire*. Brunner/Mazel.
+- Basson, R. (2001). "Using a Different Model for Female Sexual Response to Address Women's Problematic Low Sexual Desire." *Journal of Sex & Marital Therapy*, 27(5).

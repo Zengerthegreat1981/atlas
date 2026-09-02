@@ -13,7 +13,7 @@ edges:
   []
 related:
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
-- id: "thk-fanon", title: "فرانز فانون", type: "مفكر"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"

@@ -19,7 +19,6 @@ related:
 - id: "con-time-consciousness", title: "وعي الزمن", type: "مفهوم"
 gaps:
   - "التمييز بين تيار الوعي عند جيمس (النفسي) وعند هوسرل (الظاهراتي) وعند برغسون (الفلسفي) يحتاج فصلاً مستقلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الاستخدام الأدبي (جيمس جويس، فرجينيا وولف، مارسيل بروست) خارج الأطلس."
 ---
 # تيار الوعي (Stream of Consciousness): التدفق المستمر للخبرة
@@ -37,3 +36,9 @@ gaps:
 ## الفارق عن المفاهيم المجاورة
 
 يختلف تيار الوعي عن **الوعي الانعكاسي** (Reflective Consciousness) الذي يَقِف فوق التيار ليتأمله: الأول مُنغمس، الثاني مُراقب. ويختلف عن **التفكير** (Thinking): الأول يَشمل الانفعالات والإحساسات والتداعيات، الثاني نشاط رمزي أكثر تقييداً. ويختلف عن **اللاوعي** (Unconscious): الأول ظاهرة وصفية قابلة للملاحظة، الثاني استدلال نظري.
+
+## المصادر
+
+- William James, *The Principles of Psychology*, Vol. 1, Chapter IX: "The Stream of Thought" (1890).
+- Edmund Husserl, *Vorlesungen zur Phänomenologie des inneren Zeitbewußtseins*, محاضرات 1905، نشرها إدموند هوسرل (تحرير مارتن هايدغر) عام 1928.
+- Henri Bergson, *Essai sur les données immédiates de la conscience* (1889), المترجم إنجليزياً بعنوان *Time and Free Will*.

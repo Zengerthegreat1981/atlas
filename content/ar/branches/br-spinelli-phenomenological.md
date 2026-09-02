@@ -14,9 +14,9 @@ language: "الإنجليزية"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
-- rel: "developed_by", target: "إرنستو سبينيلّي", target_type: "مفكر"
+- rel: "developed_by", target: "thk-spinelli", target_type: "مفكر"
 related:
-- id: "thk-spinelli", title: "إرنستو سبينيلّي", type: "مفكر"
+- id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:

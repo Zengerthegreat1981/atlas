@@ -15,11 +15,11 @@ active_end: 420
 edges:
 - rel: "belongs_to", target: "sch-yogacara", target_type: "مدرسة"
 related:
-- id: "sch-yogacara", title: "مدرسة يوغاكارا", type: "مدرسة"
-- id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
+- id: "thk-nagarjuna", title: "ناغارجونا (مؤسس مادهياماكا)", type: "مفكر"
 gaps:
   - "صياغة بنية الوعي المخزني (Alayavijnana) ونظرية المعرفة القائمة على تمثلات الوعي فقط."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب مباشرة إليه بنصّه الأصلي (لا ترجمة عربية موثّقة) قابل للإيراد هنا."
 ---
 
 # فاسوباندو
@@ -45,6 +45,8 @@ gaps:
 - *Trisvabhāvanirdeśa* (بيان الطبائع الثلاث).
 - *Vādavidhi* (منهج الجدل).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Erich Frauwallner, *On the Date of the Buddhist Master of the Law, Vasubandhu* (Rome: Istituto Italiano per il Medio ed Estremo Oriente, 1951).
+- Stefan Anacker, *Seven Works of Vasubandhu* (Motilal Banarsidass, 1984).
+- SEP، مدخل "Yogācāra".

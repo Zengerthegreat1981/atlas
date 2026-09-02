@@ -15,11 +15,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-eft", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed", target: "br-emotion-focused-therapy", target_type: "تيار"
+- rel: "developed", target: "sch-eft", target_type: "مدرسة"
 related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
 - id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر", type: "مدرسة"
-- id: "thk-lrice", title: "لورا رايس", type: "مفكر"
+- id: "thk-lrice", title: "لورا نورين رايس", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
@@ -28,7 +28,6 @@ related:
 - id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
 - id: "tec-process-experiential-tasks", title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ الميلاد الدقيق لغرينبرغ (1945) تقريبي ولم يُراجع من مصدر أولي."
   - "نسبة «النظرية البنائية للانفعالات» إلى تعاون مع «ستيفن لايفلي» كانت غير موثّقة وأُزيلت؛ تحتاج مصدراً قبل إعادة إدراجها."
   - "الـslug (greenberg-lisa) أثرٌ باقٍ من الخطأ القديم الذي كان يجعله امرأة اسمها «ليزا»؛ تصحيحه قرار تحريري لأنه يكسر الروابط."

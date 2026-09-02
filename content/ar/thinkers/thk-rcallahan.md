@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: 2013
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dchurch", title: "داوسون تشيرش", type: "مفكر"
 - id: "thk-dfeinstein", title: "ديفيد فاينشتاين", type: "مفكر"
@@ -21,7 +20,6 @@ related:
 - id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"
 gaps:
   - "أسس TFT النظرية (نظرية الحقول الفكرية) لم تُختبَر تجريبياً بشكل محايد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كولين غاريت (thk-cgarrett)."
 ---
 
@@ -51,3 +49,8 @@ gaps:
 - *Why Do I Eat When I'm Not Hungry?* (1991).
 - *The Rapid Treatment Technique* (1993).
 - *Tapping the Healer Within* (2000).
+
+## المصادر
+
+- Roger Callahan, *Tapping the Healer Within*, McGraw-Hill, 2001.
+- Monica Pignotti & Bruce Thyer, "Some notes on the validity of thought field therapy", *Journal of Clinical Psychology*, 2009 (مراجعة نقدية مستقلة).

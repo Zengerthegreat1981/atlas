@@ -12,16 +12,13 @@ language: "الإنجليزية"
 active_start: 1940
 active_end: 1970
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج بالحركة والرقص", target_type: "مدرسة"
+edges: []
 related:
 - id: "tec-dance-movement-therapy", title: "العلاج بالرقص والحركة (DMT)", type: "تقنية/تدخل علاجي"
-- id: "thk-daniellevision", title: "دانييل ليڤيسون", type: "مفكر"
-- id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
-- id: "thk-susan-koch", title: "سوزان كوخ", type: "مفكر"
 gaps:
-  - "التدريب الأولي مع Mary Wigman في Dresden لم يُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التدريب الأولي مع Mary Wigman في درسدن مذكور في مصادر ثانوية لكنه لم يُوثّق من سيرة أولية بقلمها."
+  - "لا توجد مدرسة/تيار مستقل بصيغة slug في الأطلس لـ«العلاج بالحركة والرقص» — سُجّلت في agents_specs/missing-schools.md؛ لذلك أُفرغ edges.belongs_to بدل تخمين هدف غير موجود."
+  - "روابط سابقة لثلاثة أسماء (دانييل ليڤيسون، ماري وايتهاوس، سوزان كوخ) أُزيلت من related — لم تُراجع صلتهم المباشرة بتشيس من مصدر أولي في هذه الدفعة."
 ---
 
 # ماريان تشيس
@@ -42,5 +39,10 @@ gaps:
 ## أهم أعمالها
 
 - مقالات في مجلة ADTA.
-- كتابات عن "العلاج بالحركة كأسلوب للتواصل مع الذات" (الستينيات من القرن العشرين) [بيانات غير متاحة — للمراجعة].
 - أرشيفاتها في مؤسسة Laban/Bartenieff Institute of Movement Studies.
+
+## المصادر
+
+- American Dance Therapy Association، "Marian Chace Biography" (adta.org/marian-chace-biography).
+- Encyclopedia.com, "Chace, Marian (1896–1970)".
+- Dance Teacher magazine, "Marian Chace: America's First Professional Dance Therapist".

@@ -12,11 +12,10 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
-- id: "thk-jwolpe", title: "جوزيف وولب", type: "مفكر"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي (الإشراط البافلوفي)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التطبيقات المعاصرة المحدودة (التوقف عن قضم الأظافر، علاج التوحد، علاج البارافيليا) — موضع بحث."
   - "الجدل الأخلاقي المعاصر حول استخدام العقاب في العلاج — موضع أخلاقي مهمّ."
 ---

@@ -12,8 +12,7 @@ country: "شبه القارة الهندية"
 language: "السنسكريتية، التاميلية، الهندية، البنغالية، الكانادية"
 active_start: 500
 active_end: 1700
-edges:
-- rel: "belongs_to", target: "حركة البهاكتي الهندوسية", target_type: "مظلة"
+cultural_origin: "indian"
 related:
 - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
 - id: "sch-sikh-philosophy", title: "السيخية الفلسفية", type: "مدرسة"
@@ -21,6 +20,7 @@ related:
 gaps:
   - "رابط مقترح لـ«التصوف الإسلامي» (sch-sufism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أشعار Alvars وNayanars تحتاج مراجعة من المصدر الأولي."
+  - "رابط belongs_to لـ«حركة البهاكتي الهندوسية» أُزيل — لا يوجد slug معتمد يطابقه في الأطلس حالياً."
 ---
 
 # حركة البهاكتي الفلسفية
@@ -60,3 +60,9 @@ gaps:
 
 - «التسليم الكامل» قد يُفقد الحافز للعمل الخلاق.
 - «التقوى الشخصية» قد لا تُجدي في الإصلاح الاجتماعي الواسع.
+
+## المصادر
+
+- Hawley, John Stratton. *A Storm of Songs: India and the Idea of the Bhakti Movement*. Harvard University Press, 2015.
+- Pechilis, Karen (ed.). *The Embodiment of Bhakti*. Oxford University Press, 1999.
+- Ramanujan, A. K. *Speaking of Śiva*. Penguin Classics, 1973.

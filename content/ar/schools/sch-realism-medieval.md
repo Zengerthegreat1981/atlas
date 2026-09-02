@@ -12,17 +12,18 @@ country: "فرنسا، إنجلترا، ألمانيا، إسبانيا"
 language: "اللاتينية"
 active_start: 1050
 active_end: 1400
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
 - id: "dbt-realism-vs-nominalism", title: "الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟", type: "جدل"
 gaps:
   - "نصوص أنسيلم والقديس بونافنتورا باللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'In Boethium de Trinitate' لبونافنتورا."
+  - "نص 'In Boethium de Trinitate' لبونافنتورا يحتاج طبعة نقدية لاتينية-عربية موازية لتوثيق مقاطعه هنا بدقة."
   - "التمييز بين 'الواقعية المعتدلة' (Toma، Bonaventure) و'الواقعية المتطرّفة' (Wyclif) معقّد."
 ---
 
@@ -132,3 +133,10 @@ gaps:
 - **التمييز بين الجوهر والعرض**: في الفيزياء الحديثة، هذا التمييز غير بدهي (مثلاً: هل الكتلة «**جوهر**» أم «**عرض**»؟).
 - **العلاقة مع العلم**: إذا كانت «**الحقائق الكليّة**» (Universalia Veritates) موضوع العلم، فهل العلم ممكن أصلاً (إذا كانت الكليّات مجرّدة)؟
 - **نقد الاسميّين**: إذا كانت الكليّات أسماء فقط، فكيف يَعرف الإنسان؟ (الإجابة الأوكامية: بالحدس والبرهنة).
+
+## المصادر
+
+- Marenbon, John. *Medieval Philosophy: An Historical and Philosophical Introduction*. Routledge, 2007.
+- Copleston, Frederick. *A History of Philosophy, Vol. 2: Medieval Philosophy*. Image Books, 1993.
+- Spade, Paul Vincent (ed.). *The Cambridge Companion to Ockham*. Cambridge University Press, 1999.
+- Gracia, Jorge J. E. *Introduction to the Problem of Individuation in the Early Middle Ages*. Philosophia Verlag, 1984.

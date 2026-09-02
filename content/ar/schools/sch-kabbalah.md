@@ -9,21 +9,21 @@ en: "Kabbalistic Philosophy"
 crumb: "الفلسفة ← اليهودية ← القبّالة (كتيار فلسفي-رمزي)"
 dates: "إشبيلية، جيرونا، صفد، ميغنيسيا · من القرن 12 م إلى القرن 18 م"
 country: "الأندلس، فرنسا، إيطاليا، فلسطين (صفد)، بولندا، ميغنيسيا (الأناضول)"
+cultural_origin: "islamic-arabic"
 language: "العبرية، الآرامية"
 active_start: 1150
 active_end: 1750
 edges:
-- rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-apophatic", target_type: "مدرسة"
 related:
-- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
 - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
 - id: "thk-azriel-of-gerona", title: "عزريئيل بن مناحيم من جيرونا", type: "مفكر"
 - id: "con-sefirot", title: "السفيرة (الصفات الإلهية العشر)", type: "مفهوم"
 gaps:
   - "نصوص الزوهار والآراء لا تزال محلّ جدل نقدي (هل الزوهار لإسحاق الأعمى أم لموشيه دي ليون؟)."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'تيكونون' أو 'حياة العالمين'."
   - "العلاقة بين الفلسفة الأرسطية اليهودية (ميمون) والقبّالة (غاماتسيلا) محلّ نقاش مستمرّ."
 ---
 
@@ -75,4 +75,11 @@ gaps:
 - في اليهودية: شكّلت القبّالة مع الحسيدية (انظر sch-hasidic) ركيزة الروحية اليهودية الحديثة.
 - في المسيحية: تأثّر بها بعض لاهوتيي القرن 17 (Knorr von Rosenroth، صاحب «Kabbala Denudata»).
 - في الفلسفة المثالية الألمانية: استلهم فريدريش شلينغ وهيغل من «Kabbala Denudata».
-- في العصر الحديث: أعاد جيرشوم شوليم (1941) قراءة تاريخها أكاديمياً.
+- في العصر الحديث: أعاد جيرشوم شوليم (بعد وفاته عام 1941) قراءة تاريخها أكاديمياً.
+
+## المصادر
+
+- Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken Books, 1941.
+- Idel, Moshe. *Kabbalah: New Perspectives*. Yale University Press, 1988.
+- Matt, Daniel C. (trans.). *The Zohar: Pritzker Edition*. Stanford University Press, 2004–2017.
+- Dan, Joseph. *Kabbalah: A Very Short Introduction*. Oxford University Press, 2006.

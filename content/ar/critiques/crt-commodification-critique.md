@@ -54,23 +54,17 @@ gaps:
 ### 1. باربرا إهرنرايش (Barbara Ehrenreich، 2009، 2014): *Bright-Sided*
 - **الأطروحة**: "ثقافة الإيجابية = 'لوم الضحية'".
 
-### 2. فليكس مارتون (Felix Marton، 2014)
-- **الأثر**: "نقد".
-
-### 3. ستيف سيدرستروم (Flemming Norrgren، 2015): *The Wellness Syndrome*
+### 2. كارل سيدرستروم (Carl Cederström، وأندريه سبايسر، 2015): *The Wellness Syndrome*
 - **الأطروحة**: "العافية = إجبار".
 
-### 4. مارك فيشر (Mark Fisher، 2009): *Capitalist Realism*
+### 3. مارك فيشر (Mark Fisher، 2009): *Capitalist Realism*
 - **الأطروحة**: "'التفاؤل' = أيديولوجيا رأسمالية".
 
-### 5. ويل ديفيز (Will Davies، 2015): *The Happiness Industry*
+### 4. ويل ديفيز (Will Davies، 2015): *The Happiness Industry*
 - **الأطروحة**: "السعادة = سوق".
 
-### 6. تشارلز إيزنشتاين (Charles Eisenstein، 2011)
-- **الأثر**: "نقد ثقافي".
-
-### 7. رونيت بيرج (Ronen Berg، 2014)
-- **الأثر**: "نقد علم النفس الإيجابي".
+### 5. تشارلز إيزنشتاين (Charles Eisenstein، 2011): *Sacred Economics*
+- **الأثر**: "نقد اقتصادي-ثقافي للسوق كإطار وحيد للقيمة، مرتبط بنقد تسليع 'الرفاه'".
 
 ## ردود الفعل من داخل علم النفس الإيجابي
 

@@ -1,0 +1,59 @@
+---
+slug: "thk-margaret-bluestein"
+id: "THK-2698"
+type: "مفكر"
+level: "متوسط"
+title: "مارغريت بلوستين"
+en: "Margaret Bluestein"
+crumb: "الأنساق الأسرية الداخلية (IFS) ← تطوير ← مارغريت بلوستين"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2010
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "الأنساق الأسرية الداخلية (IFS)", target_type: "مدرسة"
+related:
+- id: "thk-rschwartz", title: "ريتشارد شوارتز", type: "مفكر"
+- id: "thk-mross", title: "مارتي روز", type: "مفكر"
+- id: "thk-jpopp", title: "ج. بوب", type: "مفكر"
+- id: "con-ifs", title: "الأنساق الأسرية الداخلية (IFS)", type: "مفهوم"
+- id: "con-conscient-parenting", title: "التربية الواعية", type: "مفهوم"
+- id: "con-parts-work", title: "عمل الأجزاء", type: "مفهوم"
+- id: "dis-addiction", title: "الإدمان", type: "اضطراب/حالة إكلينيكية"
+---
+
+gaps:
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-margaret-bluestein.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
+---
+
+# مارغريت بلوستين
+
+(Margaret Bluestein)
+
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-margaret-bluestein.md.archived.2026-08-26`
+
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
+
+## ملخص
+
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
+
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
+
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-margaret-bluestein.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-margaret-bluestein.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

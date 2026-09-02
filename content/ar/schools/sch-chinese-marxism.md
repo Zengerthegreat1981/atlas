@@ -12,6 +12,7 @@ country: "الصين"
 language: "الصينية"
 active_start: 1921
 active_end: "مستمر"
+cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-marxism", target_type: "مدرسة"
 related:
@@ -57,3 +58,9 @@ gaps:
 - تتهم «بالاستبداد الثوري».
 - تواجه انتقادات بسبب الثروة الثقافية (الثورة الثقافية).
 - تواجه انتقادات بسبب «الـCult of Personality».
+
+## المصادر
+
+- Mao Zedong, *On Practice* and *On Contradiction*, in *Selected Works of Mao Tse-tung*, Vol. 1 (Foreign Languages Press, 1965).
+- Stuart R. Schram, *The Political Thought of Mao Tse-tung* (Praeger, 1963/rev. 1969).
+- Maurice Meisner, *Mao's China and After: A History of the People's Republic* (Free Press, 1986).

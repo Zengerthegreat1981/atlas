@@ -11,7 +11,7 @@ dates: "أزمور / الرباط · 1933–... م"
 country: "أزمور / الرباط"
 language: "العربية والفرنسية"
 active_start: 1963
-active_end: 2024
+active_end: null
 edges:
 - rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 gaps:

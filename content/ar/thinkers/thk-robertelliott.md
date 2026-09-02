@@ -13,18 +13,16 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
 - id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
-- id: "thk-alvinmahrer", title: "ألفين مارر", type: "مفكر"
+- id: "thk-alvinmahrer", title: "ألفين ماهرر", type: "مفكر"
 - id: "thk-margaretbodkin", title: "مارغريت بودكن", type: "مفكر"
 - id: "thk-markwelch", title: "مارك ويلش", type: "مفكر"
 gaps:
   - "سنة الميلاد تم تقديرها تقريبياً من سياقات السيرة، يرجى التحقق من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بودكن (thk-margaretbodkin)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارك ويلش (thk-markwelch)."
+  - "مارغريت بودكن (thk-margaretbodkin) ومارك ويلش (thk-markwelch) ملفان محجوران بذاتهما (غير موثَّقين أكاديمياً) — الرابط هنا يشير لهما كأشخاص مذكورين في سياق حياة إليوت المهنية لا كمصدر توثيق."
 ---
 
 # روبرت إليوت
@@ -48,6 +46,8 @@ gaps:
 - *Facilitating Emotional Change* (مع واتسون وبلاتنر، 2011).
 - تحرير *Handbook of Experiential Psychotherapy* (2004).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning Emotion-Focused Therapy*. American Psychological Association.
+- Greenberg, L. S., Elliott, R., & Lietaer, G. (Eds.) (1998). *Handbook of Experiential Psychotherapy*. Guilford Press.
+- Elliott, R., Bohart, A. C., Watson, J. C., & Greenberg, L. S. (2011). "Empathy." *Psychotherapy*, 48(1), 43–49.

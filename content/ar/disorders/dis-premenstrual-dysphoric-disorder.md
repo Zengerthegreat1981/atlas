@@ -12,29 +12,27 @@ active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة ميزان القرار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "اليوميات التأملية", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-mindful-breathing", title: "التنفس اليقظ", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-pain-vs-suffering", title: "الألم مقابل المعاناة", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-please", title: "PLEASE", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-daily-dbt-diary-card", title: "بطاقة يوميات DBT", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-daily-dbt-diary-card", title: "بطاقة اليوميات (Diary Card)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "syn-anger", title: "نوبة الغضب", type: "متلازمة"
@@ -43,7 +41,6 @@ gaps:
   - "التفاصيل الدقيقة لموقع PMDD في ICD-11 (تحت 6A73 أو في موقع آخر) لم تُراجع من المصدر الأولي."
   - "الفرق بين PMDD والأشكال الشديدة من PMS (متلازمة ما قبل الطمث) لا يزال موضع خلاف في الأدبيات."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب ما قبل الطمث الاكتئابي
@@ -157,6 +154,14 @@ ICD-11 يصنّف PMDD تحت 6A73 (نوع من الاكتئاب المتكرر 
 - التفاعل بين SSRIs وموانع الحمل الهرمونية يحتاج متابعة طبية.
 - PMDD حالة مزمنة (تستمر طوال سنوات النشاط الهرموني)، ما يستلزم خطة طويلة الأمد، لا علاجاً قصيراً.
 - الإفراط في ربط أي انفعال أو سلوك شهري بـ PMDD يُهمل الأسباب الأخرى ويؤخّر التشخيص الصحيح.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11، دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب ما قبل الطمث الاكتئابي كفئة تشخيصية دورية معايرة بمعايير DSM-5-TR وبين الانفعالات الأولية (con-primary-emotion) كظاهرة إنسانية عامة للتنظيم الانفعالي التكيّفي — الأول نمط عرضي مرتبط بآلية هرمونية-دورية محددة (المرحلة الأصفرية) يُشخَّص بتتبع كمّي عبر دورتين حيض على الأقل، بينما الثاني وصف عام لوظيفة الانفعال بحد ذاته لا يفترض أي اضطراب أو دورية بيولوجية.
 
 ## مرجع
 

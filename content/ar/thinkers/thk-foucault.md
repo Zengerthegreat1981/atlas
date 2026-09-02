@@ -15,11 +15,10 @@ active_end: 1984
 edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "rel-poststructuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي", type: "علاقة بين مدرستين"
+- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي", type: "علاقة بين مدرستين"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
 - id: "ctx-postmodern-critical-tradition", title: "سياق ما بعد الحداثة والنقد التفكيكي والتحرري", type: "سياق/تقليد"
-- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي", type: "علاقة بين مدرستين"
 - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
@@ -30,7 +29,6 @@ related:
 gaps:
   - "التطورات المتأخرة في مفهوم 'العناية بالذات' (Le souci de soi) تحتاج مزيداً من التوثيق المقارن مع العلاجات الوجودية المعاصرة."
   - "المصادر الأولية لمحاضرات الكوليج دو فرانس (1970–1984) تتطلب جرداً بيبليوغرافياً تفصيلياً."
-  - "مدخلان في related يحملان العنوان نفسه بـslugين مختلفين (rel-poststructuralism-antipsychiatry و rel-post-structuralism-antipsychiatry) — أحدهما زائد ويحتاج حسماً تحريرياً."
 ---
 # ميشيل فوكو
 

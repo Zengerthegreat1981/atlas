@@ -15,10 +15,9 @@ active_end: 210
 edges:
 - rel: "belongs_to", target: "sch-pyrrhonism", target_type: "مدرسة"
 related:
-- id: "thk-pyrrho", title: "بيرون", type: "مفكر"
+- id: "thk-pyrrho", title: "بيرون الإليسي", type: "مفكر"
 gaps:
   - "الجمع بين ممارسة الطب التجريبي (Empiric School of Medicine) والمنهج الشكوكي الفلسفي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # سكستوس إمبيريكوس
@@ -46,3 +45,9 @@ gaps:
 ## اقتباسات مختارة
 
 «تَتبع الطمأنينةُ تعليقَ الحكم كما يتبع الظلُّ الجسمَ.» (مخطّطات بيرونية، 1.29)
+
+## المصادر
+
+- Sextus Empiricus, *Outlines of Scepticism*, trans. Julia Annas & Jonathan Barnes (Cambridge University Press, 2000).
+- Richard Bett (ed.), *The Cambridge Companion to Ancient Scepticism* (Cambridge University Press, 2010).
+- SEP، مدخل "Sextus Empiricus".

@@ -12,13 +12,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 register: "clinical"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-pogden", target_type: "مفكر"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "influenced_by", target: "تجربة جسد بيتر ليفين (SE)", target_type: "مدرسة"
+- rel: "influenced_by", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
@@ -31,7 +32,7 @@ related:
 - id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
 - id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)", type: "مفهوم"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
-- id: "thk-jledoux", title: "جوزيف لودوكس (Joseph LeDoux)", type: "مفكر"
+- id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
 - id: "con-somatic-action-systems", title: "أنظمة الفعل الحركي والتكامل الدفاعي في السنسوريموتور", type: "مفهوم"
 - id: "tec-sensorimotor-somatic-resourcing", title: "تقنية بناء الموارد الجسدية وتثبيت الاتزان السنسوريموتور", type: "تقنية/تدخل علاجي"
 - id: "exp-pat-ogden-body-movement-sensorimotor", title: "ملاحظات بات أوغدن الحركية في المصحات وميلاد السنسوريموتور", type: "خبرة معيشة"
@@ -39,8 +40,6 @@ related:
 gaps:
   - "العلاقة بين SP وHakomi (المقاربة الجسدية السابقة لـ Ogden) موثّقة جزئياً في الأدبيات."
   - "الأدلة التجريبية لـ SP ما تزال في طور النمو، مع تجارب محدودة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
 # العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)
 
@@ -104,7 +103,7 @@ SP يستخدم الحركة كقناة علاجية: ملاحظة نزعة لل
 - **مراجعة ميتا-تحليلية (2015)**: SP وSE كلاهما في طور "تراكم الأدلة"، مع حاجة لتجارب أكبر.
 - **دراسات الحالة**: أظهرت تحسناً في الوظائف الجسدية (الألم المزمن، اضطرابات الجهاز الهضمي المصاحبة للصدمة).
 
-## المطبوعات التأسيسية الرئيسية
+## المصادر
 
 - Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body: A Sensorimotor Approach to Psychotherapy*. Norton.
 - Ogden, P., & Fisher, J. (2015). *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment*. Norton.

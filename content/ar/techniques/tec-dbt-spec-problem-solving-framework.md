@@ -10,15 +10,16 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-effectiveness", title: "الفعالية", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نسبة تحسّن المرضى بعد تطبيق الإطار كمهارة منفصلة عن حزمة DBT الكاملة لم تُدرس بمعزل عنها."
 ---
 
 # إطار حل المشكلات
@@ -55,4 +56,9 @@ DBT تتبنى إطار حل المشكلات المعرفي السلوكي (CBT
 ## حدود ومخاطر
 
 - قد تستخدم كتجنب للتعامل مع الانفعالات («سأحل المشكلة بدلاً من الشعور بها»).
-- بعض المشاكل لا حل لها، وتحتاج «التقبل» بدلاً من «الحل».
+- بعض المشاكل لا حل لها، وتحتاج «التقبل الجذري» بدلاً من «الحل» — وهنا يتقاطع الإطار مع حدود مهارة «التقبل الجذري» في نفس الحزمة.
+
+## المصادر
+
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
+- D'Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behavior modification. *Journal of Abnormal Psychology*, 78(1), 107–126.

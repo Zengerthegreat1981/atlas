@@ -33,8 +33,7 @@ related:
 - id: "crt-critique-of-humanistic-therapy", title: "نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟", type: "نقد خارجي موثَّق"
 - id: "ctx-esalen-institute-human-potential", title: "معهد إيسالن وميلاد حركة الإمكانات البشرية والنيو-إيدج", type: "سياق/تقليد"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "مفاهيم 'قيم الكينونة' (Being-Values) و'تجارب الذروة' (Peak Experiences) وعلاقتها بالوجودية تحتاج إدراجاً كمفاهيم."
+  - "مفاهيم 'قيم الكينونة' (Being-Values) و'تجارب الذروة' (Peak Experiences) وعلاقتها بالوجودية تحتاج إدراجاً كمفاهيم مستقلة في الأطلس."
 ---
 # أبراهام ماسلو
 
@@ -58,3 +57,9 @@ gaps:
 ## اقتباسات مختارة
 
 «ما يمكن للإنسان أن يكونه، يجب أن يكونه — وهذا ما نسمّيه تحقيق الذات.» — الدافعية والشخصية، 1954
+
+## المصادر
+
+- Maslow, Abraham H. *Motivation and Personality*. New York: Harper & Row, 1954.
+- Maslow, Abraham H. *Toward a Psychology of Being*. Princeton: Van Nostrand, 1962.
+- Hoffman, Edward. *The Right to Be Human: A Biography of Abraham Maslow*. Los Angeles: Jeremy P. Tarcher, 1988.

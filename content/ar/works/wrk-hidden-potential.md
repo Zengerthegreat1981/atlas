@@ -10,6 +10,10 @@ en: "Hidden Potential: The Science of Achieving Greater Things"
 crumb: "علم النفس الإيجابي ← الأعمال ← إمكانات خفية"
 dates: "2023 · آدم غرانت"
 language: "الإنجليزية"
+author: "آدم غرانت"
+author_slug: "thk-adam-grant"
+publication_year: 2023
+original_language: "الإنجليزية"
 active_start: 2023
 active_end: 2023
 edges:

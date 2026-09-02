@@ -12,18 +12,16 @@ country: "فرنسا (باريس)، هولندا (لايدن)"
 language: "الفرنسية، اللاتينية"
 active_start: 1660
 active_end: 1740
+cultural_origin: "french"
 edges:
 - rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
 - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
-- id: "sch-political-islam", title: "الإسلام السياسي (كتيار فكري)", type: "مدرسة"
 - id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
 - id: "con-occasionalism-malebranche-concept", title: "الأوكازيونية ورؤية الأشياء في الله (Vision in God)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لـ«مالبرانش» (sch-malebranche) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص مالبرانش بالفرنسية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'De la Recherche de la Vérité'."
   - "التمييز بين 'الأوكازيونيالية الجزئية' (Causa Occasionalis) و'الكلّية' (Totalis) معقّد."
 ---
 
@@ -121,3 +119,10 @@ gaps:
 - **التوتّر مع «**السببية الكافية**» (Causa Sufficiens)**: **لايبنتز** (Leibniz) «**رَفَضَ**» (Renuit) «**الأوكازيونيالية**» (Occasionalismus) لـ«**مبدأ**» (Principium) «**السبب الكافي**» (Causa Sufficiens): «**لكلّ حادثة**» (Cuique Eventui) «**سبب**» (Causa) «**كافٍ**» (Sufficiens).
 - **الإرث المعاصر**: «**الأوكازيونيالية**» (Occasionalismus) «**مازالت**» (Adhuc) «**نموذجاً**» (Exemplar) لـ«**المناقشة**» (Disputatio) «**العلاقة**» (Relatio) بين «**الله**» (Deus) و«**العالم**» (Mundus). **بولكينغهورن** (Polkinghorne) و«**باربور**» (Barbour) في «**اللاهوت والعلم**» (Theologia et Scientia) «**يَستخدمونها**» (Usurpant) في «**المناقشة**» (Disputatio) «**الإله الخفيّ**» (Deus Absconditus).
 - **التوتّر مع الفيزياء الحديثة**: «**السببية النّادرة**» (Causa Occasionalis) «**تَتناقض**» (Opponitur) مع «**السببية الفيزيائية**» (Causa Physica). «**الكمّ**» (Quantum) و«**النسبية**» (Relativitas) «**أَخْرَجَت**» (Eiecerunt) «**السببية**» (Causa) «**الكلاسيكية**» (Classica) لكن «**لم تُعِد**» (Non Reddidit) «**السببية النّادرة**».
+
+## المصادر
+
+- Nadler, Steven. *Malebranche and Ideas*. Oxford University Press, 1992.
+- Nadler, Steven (ed.). *The Cambridge Companion to Malebranche*. Cambridge University Press, 2000.
+- Lee, Sukjae. "Occasionalism." *Stanford Encyclopedia of Philosophy*, plato.stanford.edu.
+- Ott, Walter. *Causation and Laws of Nature in Early Modern Philosophy*. Oxford University Press, 2009.

@@ -12,6 +12,10 @@ country: "المملكة الأودو-قوطية (إيطاليا)"
 language: "اللاتينية"
 active_start: null
 active_end: "مستمر"
+author: "بوئيثيوس (أنيسيوس مانليوس سيفيرينوس)"
+author_slug: "thk-boethius"
+publication_year: 524
+original_language: "اللاتينية"
 edges:
 - rel: "belongs_to", target: "sch-patristics", target_type: "مدرسة"
 related:

@@ -13,13 +13,16 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "دونَل سترن", target_type: "مفكر"
+- rel: "developed_by", target: "thk-dstern", target_type: "مفكر"
 related:
-- id: "thk-dstern", title: "دونَل سترن", type: "مفكر"
+- id: "thk-dstern", title: "دونَل ب. سترن", type: "مفكر"
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
+- id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم يُراجَع نص الفصل الأول من Unformulated Experience (1997) مباشرة في هذا الملف؛ الوصف يعتمد على ملخصات ثانوية للمفهوم لا على اقتباس محدد الصفحة."
+  - "لا يوثّق هذا الملف السنة التي التقى فيها Stern بـ Stephen Mitchell داخل حركة التحليل العلائقي، ولا العمل المشترك الذي جمعهما إن وُجد."
 ---
 
 # الخبرة غير المُمثّلة (Unrepresented Experience)
@@ -43,6 +46,6 @@ gaps:
 ## القيد
 المفهوم «مُتخصّص» جداً، يحتاج تكييفاً لغوياً وثقافياً للترجمة العربية.
 
-## أهم المراجع
+## المصادر
 
 «الخبرة غير المُمثّلة» (Unformulated Experience, 1997) · «الحاضر الحيّ» (The Present Moment, 2004) · «شركاء في الفكر» (Partners in Thought, 2010).

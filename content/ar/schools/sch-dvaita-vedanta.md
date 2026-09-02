@@ -12,6 +12,7 @@ country: "الهند (كارناتاكا)"
 language: "السنسكريتية، الكانادية"
 active_start: 1200
 active_end: "مستمر"
+cultural_origin: "indian"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
@@ -61,3 +62,9 @@ gaps:
 ## القيد
 
 - التثنية الصارمة قد تبدو متطرفة في سياق الفلسفة الهندية.
+
+## المصادر
+
+- B.N.K. Sharma, *History of the Dvaita School of Vedānta and Its Literature* (Motilal Banarsidass, 1961).
+- Surendranath Dasgupta, *A History of Indian Philosophy*, Vol. IV (Cambridge University Press, 1949).
+- Jayatīrtha, *Nyāya-sudhā* (تعليق على *Anuvyākhyāna* لمادهافا).

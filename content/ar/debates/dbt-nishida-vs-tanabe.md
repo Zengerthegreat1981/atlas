@@ -10,14 +10,12 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← جدل مدرسة
 active_start: 1930
 active_end: 1945
 edges:
-- rel: "belongs_to", target: "القومية اليابانية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
 related:
-- id: "thk-nishida", title: "نيشيدا كيتارو", type: "مفكر"
-- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
-- id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
+- id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
+- id: "thk-tanabe-hajime", title: "تَنَابه هاجيمي", type: "مفكر"
+- id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
 gaps:
-  - "رابط مقترح لـ«تانابه هاچيمي» (thk-tanabe) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "رابط مقترح لـ«القومية اليابانية الفلسفية» (sch-japanese-philosophical-nationalism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ مراسلات Nishida-Tanabe الكاملة، ولا Tanabe's *Logic of Species* الأصلية (1937)."
   - "لا اقتباس مباشر موثّق في هذا الملف."
 ---

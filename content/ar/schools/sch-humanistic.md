@@ -10,6 +10,7 @@ crumb: "علم النفس ← المدارس الإنسانية-الوجودية
 dates: "الولايات المتحدة، أوروبا · من 1950s إلى اليوم"
 country: "الولايات المتحدة (شيكاغو، ماديسون، لاهويا)"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1954
 active_end: "مستمر"
 edges:
@@ -17,10 +18,9 @@ edges:
 - rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "founded_by", target: "thk-maslow", target_type: "مفكر"
 - rel: "founded_by", target: "thk-rogers", target_type: "مفكر"
-- rel: "founded_by", target: "كلوديا لوث", target_type: "مفكر"
 - rel: "split_into", target: "br-person-centered", target_type: "تيار"
 - rel: "split_into", target: "sch-positive-psychology", target_type: "مدرسة"
-- rel: "split_into", target: "علم نفس القمة والذات", target_type: "تيار"
+- rel: "split_into", target: "br-self-actualization-maslow", target_type: "تيار"
 - rel: "split_into", target: "br-psychodynamic-humanistic", target_type: "تيار"
 related:
 - id: "exp-temple-grandin-autism-squeeze-machine", title: "تجربة تيمبل غراندين مع التوحد وابتكار آلة الاحتضان", type: "خبرة معيشة"
@@ -28,7 +28,7 @@ related:
 - id: "exp-martin-luther-king-birmingham-jail", title: "سجن مارتن لوثر كينغ في برمنغهام وكتابة رسالته الخالدة", type: "خبرة معيشة"
 - id: "exp-mandela-robben-island-quarry", title: "سنوات نيلسون مانديلا في سجن جزيرة روبن وتحويل المحنة لمدرسة", type: "خبرة معيشة"
 - id: "exp-helen-keller-water-pump-breakthrough", title: "لحظة هيلين كيلر عند مضخة الماء مع آن سوليفان وميلاد الوعي باللغة", type: "خبرة معيشة"
-- id: "exp-gandhi-pietermaritzburg-train-ejection", title: "طرد غاندي من قطار جنوب أفريقيا وميلاد فلسفة الساتياغراها", type: "خبرة معيشة"
+- id: "exp-gandhi-pietermaritzburg-train-ejection", title: "طرد غاندي من قطار بيترماريتزبرغ (1893) وميلاد فلسفة الساتياغراها", type: "خبرة معيشة"
 - id: "exp-ernest-shackleton-endurance-survival", title: "ملحمة شاكلتون وسفينة إندورانس والنجاة في جليد القطب الجنوبي", type: "خبرة معيشة"
 - id: "exp-clara-barton-civil-war-nursing", title: "تجربة كلارا بارتون في ميادين الحرب وتأسيس الصليب الأحمر", type: "خبرة معيشة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
@@ -36,7 +36,7 @@ related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "br-existential-humanistic-american", title: "الإنسانية-الوجودية الأمريكية", type: "تيار"
+- id: "br-existential-humanistic-american", title: "الإنساني-الوجودي الأمريكي (شنايدر، كريك)", type: "تيار"
 - id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
 - id: "sch-positive-psychology", title: "علم النفس الإيجابي", type: "مدرسة"
@@ -77,7 +77,7 @@ related:
 - id: "thk-ptedeschi", title: "رافائيل تيدِسكي", type: "مفكر"
 - id: "thk-rhassan", title: "رفة حسن", type: "مفكر"
 - id: "thk-robertfritz", title: "روبرت فريتز", type: "مفكر"
-- id: "thk-seyberg", title: "ستيفن إيبِرغ", type: "مفكر"
+- id: "thk-seyberg", title: "شيلا إيبِرغ", type: "مفكر"
 - id: "thk-sross", title: "ستيفن روس", type: "مفكر"
 - id: "thk-sshaikh", title: "سعدية شيخ", type: "مفكر"
 - id: "thk-tsexton", title: "توني سيكستون", type: "مفكر"
@@ -136,7 +136,7 @@ related:
 gaps:
   - "العلاقة بين علم النفس الإنساني و'حركة الإمكانات البشرية' (Human Potential Movement، 1960s) — هل هي نفسها أم متمايزة؟"
   - "التواريخ الدقيقة لمؤتمر 'وحدة التعلم' (Old Saybrook، 1964) الذي أسّس الحركة كمؤسسة أكاديمية موثّقة لكن تفاصيل تأثيرها على برنامج الدبلومة في كليات أمريكا اللاتينية ما زالت ناقصة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم يُدرَج في هذا الملف اقتباس مباشر مُراجَع من نصوص روجرز أو ماسلو الأصلية."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون شلين (thk-johnshlien)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات ديغان (thk-patdeegan)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت إيميري (thk-robert-emery)."
@@ -218,7 +218,7 @@ gaps:
 - **تحويلها إلى «Self-Help»**: الانزلاق من علم نفس أكاديمي إلى تطوير ذات شعبي.
 - **التطبيق على الحالات الشديدة**: أقل تنظيماً من DBT، CBT.
 
-## المرجع الموصى
+## المصادر
 
 - Rogers, C. R. (1951). *Client-Centered Therapy*. Houghton Mifflin.
 - Rogers, C. R. (1961). *On Becoming a Person*. Houghton Mifflin.

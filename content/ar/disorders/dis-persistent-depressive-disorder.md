@@ -12,30 +12,28 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
 - id: "dis-depressive-personality-historical", title: "اضطراب الشخصية الاكتئابية التاريخي (Depressive Personality Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "اليوميات التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-bullseye-exercise", title: "تمرين نقطة الهدف", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-bullseye-exercise", title: "تمرين لوحة الهدف (Bullseye)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-please", title: "PLEASE", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-abc-please", title: "ايه بي سي بليز (ABC PLEASE)", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-daily-dbt-diary-card", title: "بطاقة يوميات DBT", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-daily-dbt-diary-card", title: "بطاقة اليوميات (Diary Card)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
@@ -47,12 +45,19 @@ gaps:
   - "التفاصيل الدقيقة لدمج DSM-5-TR بين عسر المزاج القديم والاكتئاب الشديد المزمن في فئة 'الاكتئاب المستمر' الموحَّد لم تُراجع من المصدر الأوّلي."
   - "الفروقات الدقيقة بين تسميات ICD-11 (6A72) وDSM-5-TR (300.4) في تعريف الشدة والمدة لم تُوثَّق من المصدرين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الاكتئاب المستمر (عسر المزاج)
 
 اضطراب مزاجي يتميز بمزاج اكتئابي مستمر يستمر سنتين على الأقل في البالغين (سنة واحدة في الأطفال والمراهقين)، دون أن يكون بالضرورة شديداً بالقدر الذي يفي بمعايير نوبة اكتئاب كبرى. كثير من المرضى يصفون الحالة بأنها "الحالة الطبيعية"، لأن المزاج المكتئب يصبح هو الخط الأساسي للحياة اليومية. قد تتخلّله فترات من نوبات اكتئاب كبرى (يُسمى عندها "اكتئاب مستمر متناوب").
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الاكتئاب المستمر كفئة تشخيصية رسمية (لها عتبة مدة سنتين ومعايير أعراض محددة) وبين 'الحزن' (con-sadness) كخبرة إنسانية وجدانية عابرة قد تطول أو تقصر دون أن تصل لعتبة اضطراب — الأول تصنيف سريري بمعايير مدة وشدة وتأثير وظيفي، والثاني انفعال إنساني طبيعي لا يفترض بالضرورة خللاً وظيفياً أو حاجة للتدخل.
 
 ## ملاحظات على المعايير التشخيصية
 

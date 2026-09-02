@@ -14,6 +14,11 @@ edges:
 related:
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
 - id: "thk-bookchin", title: "موراي بووكين", type: "مفكر"
+- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)", type: "مفهوم"
+- id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
+- id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "wrk-dialectics-of-nature-engels", title: "ديالكتيك الطبيعة لفريدريش إنجلز", type: "عمل"
+- id: "sch-ecofeminism", title: "النسوية البيئية (Ecofeminism)", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ طبعة Institute for Social Ecology الأصلية (1982) ولا طبعة AK Press (2005)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

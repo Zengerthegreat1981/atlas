@@ -12,15 +12,17 @@ dates: "2012 · جوناثان هايدت"
 language: "الإنجليزية"
 active_start: 2012
 active_end: 2012
+author: "جوناثان هايدت"
+author_slug: "thk-jonathan-haidt"
+publication_year: 2012
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الأخلاقي والاجتماعي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-jonathan-haidt", target_type: "مفكر"
 related:
 - id: "thk-jonathan-haidt", title: "جوناثان هايدت", type: "مفكر"
 - id: "stu-kohlberg-moral-development", title: "دراسة لورنس كولبرغ لمراحل النمو الأخلاقي ومعضلة هاينز", type: "دراسة وبحث"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # العقل الصالح: لماذا ينقسم الأخيار حول السياسة والدين
@@ -34,7 +36,3 @@ gaps:
 ## أثر الكتاب
 
 فتح آفاقاً جديدة في فهم الاستقطاب السياسي وعلم النفس الانتخابي.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

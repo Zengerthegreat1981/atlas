@@ -11,9 +11,13 @@ language: "الإنجليزية"
 active_start: 1983
 active_end: 1983
 part: "psychology"
+author: "هوارد غاردنر"
+author_slug: "thk-gardner"
+publication_year: 1983
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "هوارد غاردنر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-gardner", target_type: "مفكر"
 gaps:
   - "أدلة التجريبية اللاحقة (نقد Willingham 2004) لم تُراجع بعمق."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

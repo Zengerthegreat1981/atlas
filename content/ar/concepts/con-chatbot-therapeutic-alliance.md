@@ -12,11 +12,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:
-- id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"
+- id: "con-therapeutic-alliance-bordin", title: "التحالف العلاجي عند بورديـن (Bordin's Therapeutic Alliance)", type: "مفهوم"
+- id: "thk-ebordin", title: "إدوارد بوردين", type: "مفكر"
+- id: "thk-darcy-woebot", title: "أليسون دارسي", type: "مفكر"
 gaps:
   - "مفهوم 'Working Alliance Inventory' المعدّل لـchatbot لم يُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # التحالف العلاجي مع chatbot
 
@@ -34,4 +35,4 @@ gaps:
 
 ## الجدل البحثي
 
-دراسة في 2023 (PLOS Digital Health) وجدت أن المستخدمين يُبلغون عن درجة alliance مع Woebot مماثلة للتحالف مع معالج بشري في مقياس WAI-SR، لكن مع تحفّظات منهجية (self-report، غياب مُعمّى).
+دراسة في 2023 (PLOS Digital Health) وجدت أن المستخدمين يُبلغون عن درجة alliance مع Woebot — الذي طورته عالمة النفس أليسون دارسي — مماثلة للتحالف مع معالج بشري في مقياس WAI-SR، لكن مع تحفّظات منهجية (self-report، غياب مُعمّى).

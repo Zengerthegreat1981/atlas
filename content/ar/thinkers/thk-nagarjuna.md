@@ -56,3 +56,9 @@ gaps:
 - *Yuktiṣaṣṭikā* (الستون مقطعاً بالعقل).
 - *Suhṛllekha* (رسالة إلى صديق، ربما لآخر).
 - *Ratnāvalī* (العقد اللؤلؤي، ربما لآخر).
+
+## المصادر
+
+- Westerhoff, Jan. "Nāgārjuna." *Stanford Encyclopedia of Philosophy*.
+- Garfield, Jay L. *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press, 1995.
+- Ruegg, David Seyfort. *The Literature of the Madhyamaka School of Philosophy in India*. Harrassowitz, 1981.

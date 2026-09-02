@@ -17,8 +17,8 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
-- id: "thk-xunzi", title: "شون تزو", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو (شون كوانغ)", type: "مفكر"
 - id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"
 gaps:
   - "التواريخ الدقيقة لرحلاته بين الدول لم تُراجع من سجلّات هان التاريخية هنا."
@@ -49,3 +49,8 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Mengzi* (孟子، «كتاب منسيوس»، 7 فصول، أحد الأربعة كتب منذ القرن 12 الميلادي).
+
+## المصادر
+
+- Van Norden, B. W. (ترجمة، 2008). *Mengzi: With Selections from Traditional Commentaries*. Hackett.
+- Nivison, D. S. (1996). *The Ways of Confucianism: Investigations in Chinese Philosophy*. Open Court.

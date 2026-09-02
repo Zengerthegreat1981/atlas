@@ -12,10 +12,8 @@ language: "الإنجليزية"
 active_start: 1979
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-mahoney", title: "مايكل ماهوني", type: "مفكر"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
 - id: "thk-stricker", title: "جورج ستريكر", type: "مفكر"
@@ -23,6 +21,8 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط thk-mahoney (بعنوان «مايكل ماهوني») حُذف: الـslug thk-mahoney في الأطلس يخص شخصاً مختلفاً هو ماريان ماهونِي (Marian J. Mahoney) — تعارض هوية."
+  - "edges.belongs_to الأصلي كان نصاً حراً («التكاملية/الانتقائية») لا يقابل slug حقيقياً؛ أُفرغ الحقل لحين تحديد slug مناسب."
 ---
 
 # لاري بويتلر

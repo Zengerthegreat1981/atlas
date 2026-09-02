@@ -12,15 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-object-relations", target_type: "مدرسة"
 related:
-- id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
-- id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
-- id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
+- id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّوَحُّد (con-identification)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: النَّمُوذَج العَمَلِيّ الدَّاخِلِيّ (con-internal-working-model)"
   - "الفرق بين 'الاستدخال' في فيربيرن (Object Relations) و'الاستدخال' في فيغوتسكي (Cultural Psychology) يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس نصي مباشر (رقم صفحة) من فيربيرن 1952 أو فيغوتسكي 1934 يميّز استعمال كل منهما لكلمة Internalization بدقة — الفصل الحالي بينهما مبني على عناوين الأعمال لا على نص مقتبس."
   - "العلاقة بـ'التطبع الاجتماعي' (Socialization) في علم الاجتماع تحتاج فصلاً."
   - "النقد الفلسفي (Butler، 1997) لـ'الاستدخال' كـ'تطبيع' (Normalizing) يحتاج توثيقاً."
 ---
@@ -43,3 +43,9 @@ gaps:
 ## فِي الْعِلَاج
 
 (1) **الْعِلَاج التَّفْسِيّ** (Psychotherapy، Wachtel، 2008): «**تَغْيِير**» «**اسْتِدْخَال**» «**نَمَاذِج**» (Patterns) «**مَوْضُوع**» (Object) «**غَيْر مُكَيَّف**» (Maladaptive). (2) **الْعِلَاج السُّلُوكِيّ** (CBT): «**اسْتِدْخَال**» «**أَفْكَار**» (Thoughts) «**تَكَيُّفِيَّة**» (Adaptive). (3) **الْعِلَاج الْوَالِدِيّ** (Parent Training): «**تَغْيِير**» «**اسْتِدْخَال**» «**أَنْمَاط**» (Patterns) «**وَالِد-طِفْل**».
+
+## المصادر
+
+- Fairbairn, W. R. D. (1952). *Psychoanalytic Studies of the Personality*. Routledge.
+- Winnicott, D. W. (1965). *The Maturational Processes and the Facilitating Environment*. International Universities Press.
+- Vygotsky, L. S. (1934/1986). *Thought and Language*. MIT Press.

@@ -11,6 +11,10 @@ dates: "روما / حوض الدانوب · ق. 170–180 م"
 language: "الإغريقية القديمة"
 active_start: 180
 active_end: 180
+author: "ماركوس أوريليوس"
+author_slug: "thk-marcus-aurelius"
+publication_year: 180
+original_language: "الإغريقية القديمة"
 edges:
 - rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"
 gaps:
   - "تاريخ اكتشاف المخطوطة ونشرها لأول مرة في عصر النهضة عام 1558."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التأملات لماركوس أوريليوس

@@ -10,14 +10,16 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-anti-oppressive", target_type: "تيار"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
 related:
+- id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
 - id: "con-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "مفهوم"
 - id: "con-intersectional-feminism", title: "علم النفس النسوي التقاطعي", type: "مفهوم"
 gaps:
-  - "نسبة الإطار إلى Dalrymple وBurke الكنديين تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نسبة الإطار إلى Dalrymple وBurke الكنديين تستحق توثيقاً من مصدر أولي."
+  - "لا يوجد اقتباس موثّق منسوب لمؤسسي الإطار."
+  - "رابط edges.belongs_to صُحّح من slug غير موجود (br-anti-oppressive) إلى br-liberation-psychology، وهو التيار الذي يذكر هذا الملف فعلاً (tec-anti-oppressive-practice) في related الخاص به."
 ---
 
 # الممارسة المناهضة للقمع
@@ -46,3 +48,7 @@ gaps:
 
 - يبقى أكثر إطاراً نقدياً منه تطبيقاً سريرياً واضحاً.
 - في بعض السياقات، يختلط مع النشاط السياسي، وهو ما يثير تساؤلات حدود المهنة.
+
+## الصلة بمفاهيم مجاورة
+
+يعتمد تحليل بنى القمع المتقاطعة (الطبقة والعرق والجندر معاً) على منطق التقاطعية في تفكيك التمييزات المتراكبة بدل معالجتها منفصلة. كما يتقاطع الإطار مع العلاج النقدي-التحرري في ربط الممارسة السريرية بتحرر اجتماعي أوسع، ومع علم النفس النسوي التقاطعي في تطبيق التحليل البنيوي على تجارب النساء المهمَّشات تحديداً.

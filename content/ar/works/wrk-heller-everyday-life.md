@@ -7,6 +7,10 @@ title: "سوسيولوجيا الحياة اليومية (هيلر)"
 en: "Everyday Life (Heller, 1970/1984)"
 crumb: "المدرسة الوجودية ← الأعمال ← سوسيولوجيا الحياة اليومية (هيلر)"
 part: "philosophy"
+author: "أغنيس هيلر"
+author_slug: "thk-heller"
+publication_year: 1970
+original_language: "المجرية"
 active_start: null
 active_end: "مستمر"
 edges:

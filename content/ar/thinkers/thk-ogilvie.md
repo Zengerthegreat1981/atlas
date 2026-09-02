@@ -13,9 +13,8 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم نفس الرياضة", target_type: "تيار"
+- rel: "belongs_to", target: "br-sport-psychology", target_type: "تيار"
 related:
-- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
 - id: "thk-amy-morgan", title: "إيمي مورغان", type: "مفكر"
 - id: "thk-david-reeve", title: "ديفيد ريڤ", type: "مفكر"
@@ -25,11 +24,6 @@ related:
 gaps:
   - "سنة الميلاد 1927 تقريبية، وسنة الوفاة (إن وُجدت) لم تُراجع."
   - "مسيرته في San Jose State University تستحق توثيقاً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيمي مورغان (thk-amy-morgan)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد ريڤ (thk-david-reeve)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاكلين فارنر (thk-jacqueline-varner)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت روتيلا (thk-robert-rotella)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روهان غوليتش (thk-rohan-gullich)."
 ---
 
 # بروس أوكيف
@@ -39,9 +33,9 @@ gaps:
 ## ما أعطاه
 
 - **الأسس الأكاديمية لعلم نفس الرياضة** في أمريكا الشمالية، قبل اعتراف APA الرسمي.
-- **Problem Athletes and How to Handle Them» (1966، مع Thomas Tutko): الكتاب التأسيسي.
+- **«Problem Athletes and How to Handle Them»** (1966، مع Thomas Tutko): الكتاب التأسيسي.
 - **Athletic Motivation Inventory (AMI)**: أداة تقييم الشخصية الرياضية (مع Tutko).
-- **بحوث عن قلق المنافسة، الشخصية الرياضية، وأخلاقيات المنشطات».
+- **بحوث عن قلق المنافسة، الشخصية الرياضية، وأخلاقيات المنشطات**.
 
 ## موقعه من التيار
 
@@ -59,4 +53,9 @@ gaps:
 ## القيد
 - عمل أوكيف تركّز على المرحلة المبكرة من التخصص، قبل الثورة الإحصائية في علم النفس.
 - أبحاثه (الأداة AMI) أصبحت أقل استخداماً مقارنة بأدوات أحدث.
-- لا يزال حياً (أو افترض ذلك — لم أتحقق).
+
+## المصادر
+
+- Ogilvie, B. C., & Tutko, T. A. (1966). *Problem Athletes and How to Handle Them*. Pelham Books.
+- Ogilvie, B. C. (Ed.) (1985). *The Psychology of the Olympic Athlete*. Human Kinetics.
+- Ogilvie, B. C., & Hackfort, D. (Eds.) (1990). *Competitive Anxiety in Sport*. Human Kinetics.

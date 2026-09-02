@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← فلسفة البيئة ← تقو
 dates: "1949 (بعد وفاة ليوبولد 1948) · ألدو ليوبولد"
 language: "الإنجليزية"
 active_start: 1949
-active_end: 1949
+active_end: 1962
+author: "ألدو ليوبولد"
+author_slug: "thk-leopold"
+publication_year: 1949
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:

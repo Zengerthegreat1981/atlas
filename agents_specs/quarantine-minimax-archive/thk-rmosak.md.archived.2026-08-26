@@ -1,0 +1,59 @@
+---
+slug: "thk-rmosak"
+id: "THK-1834"
+type: "مفكر"
+level: "متوسط"
+title: "روبرت موشارك"
+en: "Robert Mosak"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1970
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+related:
+- id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+- id: "br-teacch", title: "TEACCH", type: "تيار"
+- id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
+- id: "thk-sharon", title: "مارجريت شاتون", type: "مفكر"
+- id: "thk-rmanchev", title: "روبرت مانكيف", type: "مفكر"
+- id: "dis-autism", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
+- id: "con-adlerian", title: "العلاج الفردي الأدلري", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Robert Mosak' في سياق TEACCH غير مألوف. ر. موشارك معروف أكثر في سياق العلاج الفردي الأدلري (Adlerian Individual Psychology). قد يكون هذا الـslug خلطاً بين شخصين مختلفين."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو فصل المعلومات."
+---
+
+# روبرت موشارك
+
+معالج نفسي أمريكي، يظهر في السياقين المتداخلين للعلاج الفردي الأدلري (Adlerian Individual Psychology) وتطوير برامج **TEACCH** للتوحد.
+
+## محاولة التوثيق
+
+**TEACCH** (*Treatment and Education of Autistic and related Communication-handicapped Children*) برنامج تعليمي للتوحد طوّره [إريك شوبلر](thk-eschopler) و[غاري ميسيبوف](thk-gmesibov) في جامعة نورث كارولينا منذ السبعينيات.
+
+بالبحث عن اسم «Robert Mosak» في سياق TEACCH:
+- الاسم **غير مألوف** في أدبيات TEACCH الرئيسية.
+- الأشهر في العلاج الفردي الأدلري هو **Harold Mosak** (هارولد موساك)، وهو صاحب كتاب Adlerian Psychotherapy وكتيّب «Psychology of the Adlerian».
+- من المرجح أن هذا الـslug يخلط بين Harold Mosak وروبرت آخر، أو أنه اسم محرَّف في الفهرسة الأولية.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون موشارك عند **تلاقي العلاج الفردي الأدلري** مع **TEACCH** في تطوير الجانب التطبيقي والمجتمعي للتوحد. لكن الربط بين هذين الحقلين ضعيف في الأدبيات، مما يُرجّح فرضية الخلط في الاسم.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالعلاج الفردي الأدلري](con-adlerian) و[باضطراب طيف التوحد](dis-autism) كحقلين تطبيقيين.
+
+## المصادر
+
+- Mosak, H. H. (2012). *Adlerian Psychotherapy*. Routledge (الكتاب المرجعي للعلاج الأدلري، للمؤلف هارولد موساك).
+- Schopler, E., & Mesibov, G. B. (eds.) (1995). *Learning and Cognition in Autism*. Springer.
+- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH Approach to Autism Spectrum Disorders*. Springer.
+- Mosak, H. H., & Maniacci, M. P. (1999). *A Primer of Adlerian Psychology*. Routledge.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` أو إعادة تسمية الملف لتمييزه عن Harold Mosak.

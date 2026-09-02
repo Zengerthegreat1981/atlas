@@ -15,11 +15,13 @@ edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
-- id: "br-attachment-theory", title: "نظرية التعلق", type: "تيار"
+- id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "تيار"
 - id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-marymain", title: "ماري مين", type: "مفكر"
-- id: "con-attachment-styles", title: "أنماط التعلق", type: "مفهوم"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
+- id: "wrk-attachment-loss-volume1", title: "التعلق (المجلد الأول، 1969)", type: "عمل / كتاب"
+- id: "dbt-attachment-stability", title: "هل أنماط التعلق ثابتة حقاً؟", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق القلق (con-anxious-attachment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق التجنبي (con-avoidant-attachment)"
@@ -83,6 +85,8 @@ gaps:
 - **Mary Main (1991)**: AAI لقياس التعلق في البلوغ.
 - **Verhage et al. (2016)**: تحليل ميتا-تحليلي لاستقرار التعلق.
 - **Fraley (2002)**: دراسات على الإنترنت تظهر استقرار التعلق في البلوغ.
+- **Bowlby (1969)**، المجلد الأول من ثلاثية *Attachment and Loss*، أرسى الإطار النظري الأول الذي بُني عليه تصنيف إينسورث للتعلق الآمن كنمط سلوكي تطوري.
+- نظراً لأن 25% من الأطفال يتغيّر نمطهم عن أمهاتهم (أعلاه)، لا يزال هناك جدل قائم حول مدى استقرار نمط التعلق الآمن عبر مراحل الحياة.
 
 ## التطبيقات
 

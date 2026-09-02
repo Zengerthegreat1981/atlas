@@ -14,8 +14,7 @@ edges:
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لم تُراجَع بعد المصادر العربية المتخصصة في نزاع تعريب Gestalt (مقالات المجلة العربية لعلم النفس)؛ الاعتماد هنا على المصطلح الشائع فقط دون تتبع أول من استخدم لفظ «الجشطالت» بالعربية وتاريخه بالضبط."
 ---
 
 # الجشطالت (Gestalt): الشكل والصورة الكلية غير القابلة للتجزئة
@@ -33,3 +32,10 @@ gaps:
 ## التطبيقات العلاجية
 
 في علاج الجشطالت لبيرلز، يركز العمل على إكمال «الجشطالت غير المكتمل» (Unfinished Business) واستعادة تكامل الشخصية في الحاضر (Here and Now).
+
+## المصادر
+
+- Max Wertheimer, "Experimentelle Studien über das Sehen von Bewegung," *Zeitschrift für Psychologie* 61 (1912) — الدراسة التأسيسية لعلم نفس الجشطالت.
+- Wolfgang Köhler, *Gestalt Psychology* (New York: Liveright, 1929).
+- Kurt Koffka, *Principles of Gestalt Psychology* (New York: Harcourt, Brace, 1935).
+- Fritz Perls, Ralph Hefferline, and Paul Goodman, *Gestalt Therapy: Excitement and Growth in the Human Personality* (New York: Julian Press, 1951).

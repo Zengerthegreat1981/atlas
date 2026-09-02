@@ -13,14 +13,14 @@ edges:
 - rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-- id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
-- id: "thk-shankara", title: "شانكارا", type: "مفكر"
-- id: "con-shunyata", title: "شُونْياتا", type: "مفهوم"
-- id: "con-brahman", title: "براهمان", type: "مفهوم"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
+- id: "thk-nagarjuna", title: "ناغارجونا (مؤسس مادهياماكا)", type: "مفكر"
+- id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
+- id: "con-brahman", title: "براهمان (المطلق / الحقيقة الكونية)", type: "مفهوم"
 gaps:
-  - "الحوارات اللاحقة بين Dalai Lama وRambachcha، B. K. Matilal، Daya Krishna تحتاج مراجعة."
-  - "لا اقتباس مباشر من Mukyamaka Sutras متاح بنص معتمد."
+  - "موقف دايا كريشنا (Daya Krishna) النقدي من مقارنات التوفيق بين شونياتا وبراهمان مذكور بالاسم فقط هنا دون مصدر ومحتوى محدد — يحتاج توثيقاً."
+  - "لا اقتباس مباشر مترجم من Mūlamadhyamakakārikā أو Brahma Sūtra Bhāṣya بنص عربي معتمد متاح بعد."
 ---
 
 # شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر

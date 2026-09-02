@@ -69,5 +69,11 @@ gaps:
 - *Essentiale Fragen* (الأسئلة الجوهرية، 1925، أطروحة دكتوراه).
 - *Studia z estetyki* (دراسات جمالية، 1957-1966، 3 مجلدات).
 - *Vom Erkennen des literarischen Kunstwerks* (عن معرفة العمل الأدبي، 1968).
-- *Über die Verantwortung* (عن المسؤولية، أطروحته الأخلاقية، 1970، نشرت بعد وفاته).
-- *Man and Value* (الإنسان والقيمة، 1983، إنجليزية).
+- *Über die Verantwortung* (عن المسؤولية، أطروحته الأخلاقية، نُشرت بعد وفاته سنة 1970).
+- *Man and Value* (الإنسان والقيمة، مجموعة نُشرت بعد وفاته سنة 1983، إنجليزية).
+
+## المصادر
+
+- Ingarden, R. (1931). *Das literarische Kunstwerk*. Max Niemeyer Verlag.
+- Ingarden, R. (1973). *The Cognition of the Literary Work of Art* (ترجمة إنجليزية لـVom Erkennen des literarischen Kunstwerks, 1968). Northwestern University Press.
+- Ingarden, R. (1964–1965). *Der Streit um die Existenz der Welt* (المجلدان الأول والثاني). Max Niemeyer Verlag.

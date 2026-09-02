@@ -16,7 +16,7 @@ crumb: "الأطلس ← thinkers ← ألكسيس كاغامي (مؤسِّس ف
 edges:
 - rel: "belongs_to", target: "sch-sage-philosophy", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-african-professional-philosophy", target_type: "مدرسة"
-- rel: "founded", target: "فلسفة الحكيم (Sage Philosophy)", target_type: "مدرسة"
+- rel: "founded", target: "sch-sage-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-sage-philosophy", title: "فلسفة الحكيم (Sage Philosophy)", type: "مدرسة"
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"

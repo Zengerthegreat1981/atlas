@@ -14,16 +14,17 @@ edges:
 - rel: "formulated_by", target: "thk-jwolpe", target_type: "مفكر"
 related:
 - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "thk-foa", title: "إدوارد فوا", type: "مفكر"
-- id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
-- id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
-- id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء الهرّم التدرّجي للتعرّض (تقنية)", type: "تقنية/تدخل علاجي"
-- id: "con-exposure-habituation", title: "التعرّض والتعوّد", type: "مفهوم"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"
+- id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
+- id: "con-exposure-habituation", title: "التعود بالتعرض", type: "مفهوم"
+- id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
+- id: "con-reciprocal-inhibition", title: "التثبيط المتبادل", type: "مفهوم"
 gaps:
   - "التمييز بين التعرّض المتخيّل (Imaginal Exposure) والتعرّض الحي (In Vivo) في كتيبات Foa & Kozak لم يُوثَّق بعد."
   - "لا يوجد اقتباس مباشر موثوق من Wolpe (1958) بعد."
   - "استخدام الهرّم في اضطرابات الوسواس القهري مع مراعاة OCD-loop يحتاج تحقق."
+  - "لم يُعثر على ملف مفكّر موثّق لميشيل كوزاك (Kozak) ولا لفريق Bouton/Craske المذكورين في الجدل الإكلينيكي."
 ---
 
 # الهرّم التدرّجي للتعرّض (Exposure Hierarchy)
@@ -44,6 +45,8 @@ gaps:
 2. **ترتيب تصاعدي** حسب شدّة القلق المُتوقَّع (مقياس SUDs من 0 إلى 100).
 3. **تصميم التدرّج** بحيث ينتقل المريض من الموقف الأقل إلى الأكثر صعوبة عبر جلسات متتالية.
 4. **تكرار التعرّض** لكل مستوى حتى ينخفض القلق إلى ما دون 50% من الحدّ الأقصى، قبل الانتقال للمستوى التالي.
+
+تُعرف هذه الخطوات الأربع إكلينيكياً باسم **بناء سلّم التعرض التدريجي**، وهي التقنية العلاجية التي يطبّقها المعالج فعلياً مع المريض في الجلسات.
 
 ## التطبيقات السريرية
 

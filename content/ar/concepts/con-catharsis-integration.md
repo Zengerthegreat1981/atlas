@@ -12,18 +12,13 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
 related:
-- id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
-- id: "thk-jgantt", title: "جوزيف غانت", type: "مفكر"
-- id: "thk-mchen", title: "مارفن تشِن", type: "مفكر"
-- id: "thk-mclayton", title: "ماكس كلايتون", type: "مفكر"
-- id: "thk-nbustos", title: "نوربيرتو بوستوس", type: "مفكر"
-- id: "thk-rbauer", title: "روبرت باور", type: "مفكر"
-- id: "thk-tkellermann", title: "توماس كِلِرمان", type: "مفكر"
-- id: "wrk-morena-who-shall-survive", title: "من سيبقى على قيد الحياة؟ (Who Shall Survive?)", type: "عمل / كتاب"
+- id: "thk-moreno", title: "يعقوب ليفي مورينو", type: "مفكر"
 - id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
-  - "الفرق بين Catharsis of Integration و Catharsis of Abreaction (الفرويدية) لم يُقارن بشكل محكّم."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد مصدر أو اقتباس موثّق يقارن بشكل محكّم بين Catharsis of Integration وCatharsis of Abreaction الفرويدية."
+  - "الروابط السابقة إلى مفكرين آخرين في حقل السيكودراما (مثل غانت، تشِن، كلايتون، بوستوس، باور، كِلرمان) وإلى كتاب مورينو 'من سيبقى على قيد الحياة؟' حُذفت لأن متن المقالة لا يذكرهم ولا يشرح صلتهم بمفهوم التطهير الاندماجي تحديداً."
 ---
 
 # التطهير الاندماجي (كاتارسيس مورينو)

@@ -8,18 +8,20 @@ en: "Animal Intelligence: Experimental Studies"
 crumb: "علم النفس المقارن المبكر ← الأعمال ← ذكاء الحيوان"
 dates: "1911 · إدوارد ثورندايك"
 active_start: 1911
-active_end: 1911
+active_end: 1960
 language: "الإنجليزية"
 part: "psychology"
+author: "إدوارد ثورندايك"
+author_slug: "thk-thorndike"
+publication_year: 1911
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس المقارن المبكر", target_type: "مدرسة"
-- rel: "authored_by", target: "إدوارد ثورندايك", target_type: "مفكر"
+- rel: "authored_by", target: "thk-thorndike", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب مكمّل لأطروحة دكتوراه Thorndike (1898) — حدود الفرق بين الأطروحة والكتاب المنهجي لم تُراجع بدقة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Thorndike في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ذكاء الحيوان

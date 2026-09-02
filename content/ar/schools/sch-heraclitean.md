@@ -12,8 +12,8 @@ country: "يونان (مدينة أفسس، الساحل الأيوني)"
 language: "اليونانية الأيونية"
 active_start: -535
 active_end: -475
+cultural_origin: "greek"
 edges:
-- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-academy-platonic", target_type: "مظلة"
 related:
 - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
@@ -67,3 +67,11 @@ gaps:
 - ليس «مدرسة» بالمعنى التنظيمي — هرقليطس فيلسوف فردي صار له تيار.
 - النص الأصلي مفقود؛ ما نعرفه وصلنا عبر شذرات اقتبسها خصومه غالباً (أفلاطون، أرسطو، ديمقريطس، شيشرون).
 - شذرات كثيرة (مثلاً: «الإله: ليل ونهار، شتاء وصيف، حرب وسلام، شبع وجوع» — DK 22 B 67) قابلة لتأويلات متضاربة بحسب الترجمة والقراءة الفلسفية.
+
+## المصادر
+
+- Hermann Diels & Walther Kranz, *Die Fragmente der Vorsokratiker* (DK 22).
+- Charles H. Kahn, *The Art and Thought of Heraclitus* (Cambridge University Press, 1979).
+- G.S. Kirk, J.E. Raven, M. Schofield, *The Presocratic Philosophers* (Cambridge University Press, 2nd ed. 1983).
+- "Heraclitus", *Stanford Encyclopedia of Philosophy*.
+- Bertrand Russell, *The Problems of Philosophy* (1912).

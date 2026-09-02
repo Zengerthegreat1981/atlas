@@ -4,13 +4,13 @@ id: "THK-0700"
 type: "مفكر"
 level: "متوسط"
 title: "ماغي أنتوني"
-en: "Maggie Anthony"
+en: "Maggy Anthony"
 crumb: "مدرسة التحليل النفسي ← الناس ← ماغي أنتوني"
-dates: "بريطانيا · [غير مؤكد]"
+dates: "المملكة المتحدة · معاصرة"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1985
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"

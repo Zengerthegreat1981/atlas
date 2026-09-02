@@ -9,6 +9,7 @@ en: "Trúc Lâm (竹林، Vietnamese Buddhism)"
 crumb: "الفلسفة ← البوذية ← تروك لام (البوذية الفيتنامية)"
 dates: "فيتنام · من القرن 11 م إلى اليوم"
 country: "فيتنام"
+cultural_origin: "southeast-asian"
 language: "الفيتنامية، الصينية الكلاسيكية"
 active_start: 1069
 active_end: "مستمر"
@@ -79,3 +80,10 @@ gaps:
 - **Nguyễn Minh Tiến**: المناصر المعاصر.
 - **الجدل حول مَن مؤسّس Trúc Lâm**: Venerable Thiện Tâm (19th century) استعاد العمل، لكن المؤسس الكلاسيكي يبقى Trần Nhân Tông.
 - **حركة التوحيد**: Bhikkhuni-tantra، مؤسسة Sunyata (ثونگ Nhat Hanh).
+
+## المصادر
+
+- Nguyen, Cuong Tu. *Zen in Medieval Vietnam: A Study and Translation of the Thiền Uyển Tập Anh*. University of Hawai'i Press, 1997.
+- Nguyen, Tai Thu, ed. *The History of Buddhism in Vietnam*. Institute of Philosophy, Vietnam Academy of Social Sciences / Council for Research in Values and Philosophy, 2008.
+- Cuong, Thich Nhat Tu, and Thich Duc Thien, eds. *Buddhist Approach to Global Education in Ethics*. Vietnam Buddhist University, 2019.
+- Dumoulin, Heinrich. *Zen Buddhism: A History, Volume 2: Japan* (يتضمن فصلاً مقارناً عن Thiền الفيتنامية). World Wisdom, 2005.

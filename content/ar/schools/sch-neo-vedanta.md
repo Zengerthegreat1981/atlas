@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الهند ← المدارس الأرثوذكسية 
 dates: "الهند · من القرن 19 إلى اليوم"
 country: "شبه القارة الهندية"
 language: "الإنجليزية، السنسكريتية"
+cultural_origin: "indian"
 active_start: 1893
 active_end: "مستمر"
 edges:
@@ -64,3 +65,10 @@ gaps:
 ## القيد
 
 - «تسطيح» الأديان في «جوهر واحد» يلقى انتقاداً من التقليديين.
+
+## المصادر
+
+- Swami Vivekananda, *Raja Yoga* (1896).
+- Swami Vivekananda, خطاب "Response to Welcome" أمام Parliament of the World's Religions، شيكاغو 1893.
+- Sarvepalli Radhakrishnan, *An Idealist View of Life* (1932).
+- Paramahansa Yogananda, *Autobiography of a Yogi* (1946).

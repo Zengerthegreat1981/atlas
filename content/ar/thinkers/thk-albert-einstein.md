@@ -2,13 +2,14 @@
 slug: "thk-albert-einstein"
 id: "THK-2799"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "ألبرت أينشتاين"
 en: "Albert Einstein"
 crumb: "فلسفة الفيزياء ونظرية المعرفة ← مؤسسون ← ألبرت أينشتاين"
-dates: "ألمانيا / الولايات المتحدة · 1879–1955"
-country: "ألمانيا / الولايات المتحدة"
+dates: "ألمانيا / سويسرا / الولايات المتحدة · 1879–1955"
+country: "الولايات المتحدة"
+language: "الألمانية / الإنجليزية"
 active_start: 1905
 active_end: 1955
 edges:

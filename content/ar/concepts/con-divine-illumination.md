@@ -15,10 +15,19 @@ edges:
 - rel: "belongs_to", target: "sch-augustinianism", target_type: "مدرسة"
 related:
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
-- id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
+- id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
+- id: "wrk-de-trinitate-augustine", title: "في الثالوث للقديس أوغسطينوس (De Trinitate)", type: "عمل"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
+- id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
+- id: "thk-anselm-canterbury", title: "أنسيلم من كانتربري", type: "مفكر"
+- id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
+- id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
+- id: "con-divine-illumination-augustine", title: "الإشراق الإلهي ونظرية المعرفة عند أوغسطينوس (Illumination)", type: "مفهوم"
 gaps:
   - "تطور موقف أوغسطينوس نفسه من الإشراق (هل هو استعار أم نظرية كاملة؟) موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'De Magistro'."
+  - "الملف يبدو نسخة مكررة من con-divine-illumination-augustine.md بنفس الموضوع؛ لم يُدمَجا بناءً على تعليمات المهمة، لكن يلزم تحقيق لاحق لتحديد أيهما يُبقى أو كيف يُميَّزان."
+  - "sch-apophatic كان مدرجاً سابقاً في related دون أي إشارة له في المتن؛ حُذف لعدم وجود تبرير نصي."
 ---
 
 # الإشراق الإلهي (نظرية المعرفة الأوغسطينية)

@@ -10,11 +10,10 @@ crumb: "الفلسفة ← الشرق الأدنى القديم ← تقليد �
 dates: "بلاد الرافدين · من الألفية الثالثة ق.م إلى القرن الأول ق.م"
 country: "بلاد الرافدين (سومر، بابل، آشور)"
 language: "السومرية، الأكدية"
+cultural_origin: "islamic-arabic"
 active_start: -3000
 active_end: -100
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
 - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
@@ -24,7 +23,6 @@ related:
 gaps:
   - "رابط مقترح لـ«ما قبل سقراط» (sch-presocratic-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص 'ملحمة جلجامش' الأصلية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تقليد الحكمة الرافدية
@@ -49,3 +47,10 @@ gaps:
 ## القيد
 
 النصوص متفرقة وغير منهجية بالمعنى الفلسفي الصارم.
+
+## المصادر
+
+- Jacobsen, Thorkild. *The Treasures of Darkness: A History of Mesopotamian Religion*. Yale University Press, 1976.
+- Lambert, W. G. *Babylonian Wisdom Literature*. Oxford: Clarendon Press, 1960.
+- Bottéro, Jean. *Mesopotamia: Writing, Reasoning, and the Gods*. University of Chicago Press, 1992.
+- George, Andrew (trans.). *The Epic of Gilgamesh*. Penguin Classics, 1999.

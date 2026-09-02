@@ -11,10 +11,14 @@ dates: "2002 · مارتن سليغمان"
 language: "الإنجليزية"
 active_start: 2002
 active_end: 2002
+author: "مارتن سليغمان"
+author_slug: "thk-mseligman"
+publication_year: 2002
+original_language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
+- rel: "authored_by", target: "thk-mseligman", target_type: "مفكر"
 related:
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "wrk-build-life-you-want", title: "ابنِ الحياة التي تريدها: فن العلم للسعادة", type: "عمل / كتاب"

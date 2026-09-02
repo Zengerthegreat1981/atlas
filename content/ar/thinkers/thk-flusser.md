@@ -13,7 +13,7 @@ country: "التشيك / البرازيل"
 language: "التشيكية / البرتغالية / الألمانية / الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"

@@ -21,8 +21,7 @@ related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "اقتباس مباشر منسوب لبيراكوس نفسه بمصدر وصفحة محددة لم يُراجع بعد."
 ---
 
 # جون س. بيراكوس
@@ -42,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-«Core Energetics» (1987) · «تطور القوة» (The Evolution of Power, 1990) · «الطاقة الأساسية في العلاج النفسي» (Core Energetics in Psychotherapy, 2003).
+«Core Energetics» (1987) · «تطور القوة» (The Evolution of Power, 1990) · وكتابه الصادر بعد وفاته سنة 2003، «الطاقة الأساسية في العلاج النفسي» (Core Energetics in Psychotherapy).
+
+## المصادر
+
+- Pierrakos, John C. *Core Energetics: Developing the Capacity to Love and Heal*. LifeRhythm, 1987.
+- "Pierrakos, John C. (1921–2001)." Encyclopedia.com.
+- Institute of Core Energetics, صفحة "History" (سيرة المؤسس ونشأة المعهد 1973–2001).

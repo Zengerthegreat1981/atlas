@@ -13,17 +13,14 @@ active_start: 1998
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الممارسة الموجَّهة نحو التعافي", target_type: "تيار"
+- rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
 - id: "thk-wanthony", title: "ويليام أنتوني", type: "مفكر"
-- id: "thk-gene-ennis", title: "جين إينيس", type: "مفكر"
 - id: "thk-kurtz-sherman", title: "شيرمان كيرتز", type: "مفكر"
-- id: "thk-mary-elmquist", title: "ماري إلمكويست", type: "مفكر"
 - id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
 gaps:
-  - "سنة الميلاد تقريبية، تستحق توثيقاً."
-  - "عمله في Chestnut Health Systems يستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد تقريبية، تستحق توثيقاً من سيرته الرسمية."
+  - "تفاصيل بداية عمله في Chestnut Health Systems (السنة الدقيقة) تستحق توثيقاً."
 ---
 
 # وليام وايت
@@ -46,3 +43,9 @@ gaps:
 - *Slaying the Dragon: The History of Addiction Treatment and Recovery in America* (1998، 2014).
 - *Recovery Management / Recovery-Oriented Systems of Care* (2008، مع Kelly).
 - *Peer-Based Addiction Recovery Support: History, Theory, Practice, and Scientific Evaluation* (2010).
+
+## المصادر
+
+- White, William L. *Slaying the Dragon: The History of Addiction Treatment and Recovery in America*. Bloomington, IL: Chestnut Health Systems, 1998.
+- White, William L., and John F. Kelly. *Recovery Management and Recovery-Oriented Systems of Care*. Chestnut Health Systems, 2008.
+- Chestnut Health Systems — أرشيف وليام وايت الرسمي لتاريخ الإدمان والتعافي (williamwhitepapers.com).

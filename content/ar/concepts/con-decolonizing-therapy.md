@@ -16,18 +16,17 @@ edges:
 - rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
 - id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
-- id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
-- id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
-- id: "thk-imartinbaro", title: "إجناسيو مارتين-بارو", type: "مفكر"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
-- id: "con-coloniality", title: "الكولونيالية", type: "مفهوم"
-- id: "con-pluriverse-decolonial", title: "النسوية اللااستعمارية", type: "مفهوم"
-- id: "con-eje-transversal", title: "الْمِحْوَر الْعَرَضِيّ (Eje Transversal): تَحْوِيل الظُّلْم مَحَوْر مُسْتَمِر", type: "مفهوم"
+- id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"
+- id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
+- id: "con-decolonizing-pedagogy", title: "الْبِيدَاغُوجْيَا اللَّااسْتِعْمَارِيَّة: تَحْرِير الذَّات الْمُسْتَعْمَرَة", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: مارتا أنتشويزكيتا (thk-ianchoizqueta)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس الحيوي الثقافي (con-cultural-biopsychology)"
   - "النقاشات الحديثة (Adams, Tuck) حول 'الاستعمار المُستمر' و'مناهضة الاستعمار' موثّقة جزئياً."
   - "التطبيقات العملية للعلاج اللااستعماري في أمريكا اللاتينية وأمريكا الشمالية موثّقة جزئياً."
+  - "علم النفس الأفريقي (sch-african-psychology) غير مذكور في المتن رغم وروده سابقاً في related؛ حُذف لعدم وجود تبرير نصي."
 ---
 
 # العلاج اللااستعماري (Decolonizing Therapy)

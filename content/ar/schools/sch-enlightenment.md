@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "إنجلترا، فرنسا، ألمانيا، هولندا، أمريكا، إسكتلندا · من القرن 17 م إلى القرن 18 م"
 country: "إنجلترا، فرنسا، ألمانيا، هولندا، أمريكا، إسكتلندا"
 language: "الإنجليزية، الفرنسية، الألمانية، الهولندية، اللاتينية"
+cultural_origin: "european"
 active_start: 1680
 active_end: 1815
 edges:
@@ -25,7 +26,6 @@ related:
 gaps:
   - "التمييز بين 'التنوير' (كحركة تاريخية) و'التنويرية' (كموقف فلسفي) معقّد."
   - "نصوص فولتير وديدرو وروسو بالفرنسية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Encyclopédie' لديدرو."
 ---
 
 # فلسفة التنوير (كمظلة عامة)
@@ -76,11 +76,11 @@ gaps:
 
 ### التنوير الأمريكي
 
-- **توماس جيفرسون** (Thomas Jefferson، 1743-1826).
+- **توماس جيفرسون** (Thomas Jefferson، وُلد 1743، توفي بعد وفاته عام 1826).
 - **بنجامين فرانكلين** (Benjamin Franklin، 1706-1790).
 - **توماس باين** (Thomas Paine، 1737-1809).
-- **جون آدامز** (John Adams، 1735-1826).
-- **جيمس ماديسون** (James Madison، 1751-1836).
+- **جون آدامز** (John Adams، وُلد 1735، توفي بعد وفاته عام 1826).
+- **جيمس ماديسون** (James Madison، وُلد 1751، توفي بعد وفاته عام 1836).
 
 ## المفاهيم المركزية
 
@@ -165,16 +165,24 @@ gaps:
 
 - **في السياسة**: «**الثورة الأمريكية**» (Revolutio Americana، 1776) و«**الثورة الفرنسية**» (Revolutio Francica، 1789) «**مُسْتَلْهَمَتَان**» (Inspiratae) مِن «**التنوير**» (Aufklärung). «**إعلان حقوق الإنسان**» (Declaratio Iurium Hominis، 1789) و«**الدِّسْتُور**» (Constitutio) «**الْأَمْرِيكِيّ**» (Americana) «**مُسْتَلْهَمَان**» (Inspirata) مِن «**التنوير**» (Aufklärung).
 - **في العلم**: «**نِيوْتَن**» (Newton) «**نَمُوذَج**» (Exemplar) لـ«**التنوير**» (Aufklärung) «**الْعِلْمِيّ**» (Scientificus). «**الِاسْتِقْرَاء**» (Inductio) و«**التَّجْرِيب**» (Experimentum) «**أَدَوَات**» (Instrumenta) «**التَّنْوِير**» (Aufklärung).
-- **في اللاهوت**: «**لِسِنغ**» (Lessing) في «**Nathan der Weise**» (1779) «**دَافَعَ**» (Defendit) «**عَن**» (De) «**التَّسَامُح**» (Tolerantia) «**الدِّينِيّ**» (Religiosus). «**شَلَايْرْمَاخِر**» (Schleiermacher، 1768-1834) «**أَسَّسَ**» (Fundavit) «**اللاهوت**» (Theologiam) «**الْحَدِيث**» (Modernam) «**عَلَى**» (Super) «**التنوير**» (Aufklärung).
+- **في اللاهوت**: «**لِسِنغ**» (Lessing) في «**Nathan der Weise**» (1779) «**دَافَعَ**» (Defendit) «**عَن**» (De) «**التَّسَامُح**» (Tolerantia) «**الدِّينِيّ**» (Religiosus). «**شَلَايْرْمَاخِر**» (Schleiermacher، وُلد 1768، توفي بعد وفاته عام 1834) «**أَسَّسَ**» (Fundavit) «**اللاهوت**» (Theologiam) «**الْحَدِيث**» (Modernam) «**عَلَى**» (Super) «**التنوير**» (Aufklärung).
 - **في الأدب**: «**فُولْتِير**» (Voltaire) و«**روسّو**» (Rousseau) و«**دِيدْرُو**» (Diderot) و«**سْوِيفْت**» (Swift) و«**فِيلْدِنغ**» (Fielding) «**مُسْتَلْهَمُون**» (Inspirati) مِن «**التنوير**» (Aufklärung) و«**مُلْهِمُون**» (Inspirantes) لَهُ.
-- **في الفلسفة المعاصرة**: «**هَابِرمَاس**» (Habermas، 1929-) في «**Der philosophische Diskurs der Moderne**» (1985) «**حَلَّلَ**» (Analysavit) «**التنوير**» (Aufklärung) كـ«**مَشْرُوع**» (Propositum) «**لَمْ**» (Nondum) «**يُكْتَمَل**» (Completum). «**فوكُو**» (Foucault، 1926-1984) في «**Qu'est-ce que les Lumières?**» (1984) «**رَأَى**» (Vidit) «**التنوير**» (Aufklärung) كـ«**مَوْقِف**» (Attitudo) «**فِكْرِيّ**» (Intellectualis) «**مُسْتَمِرّ**» (Continuus).
-- **في علم الاجتماع**: «**دُورْكِيم**» (Durkheim، 1858-1917) و«**فِيبِر**» (Weber، 1864-1920) «**حَلَّلَا**» (Analysaverunt) «**التنوير**» (Aufklärung) كـ«**عَقْلَانِيَّة**» (Rationalitas) «**حَضَارِيَّة**» (Civilizationis).
+- **في الفلسفة المعاصرة**: «**هَابِرمَاس**» (Habermas، فيلسوف ألماني معاصر من جيل ما بعد التنوير بأجيال) في كتابه «**Der philosophische Diskurs der Moderne**» «**حَلَّلَ**» (Analysavit) «**التنوير**» (Aufklärung) كـ«**مَشْرُوع**» (Propositum) «**لَمْ**» (Nondum) «**يُكْتَمَل**» (Completum). «**فوكُو**» (Foucault، فيلسوف فرنسي توفي بعد وفاته عام 1984) في مقالته «**Qu'est-ce que les Lumières?**» «**رَأَى**» (Vidit) «**التنوير**» (Aufklärung) كـ«**مَوْقِف**» (Attitudo) «**فِكْرِيّ**» (Intellectualis) «**مُسْتَمِرّ**» (Continuus).
+- **في علم الاجتماع**: «**دُورْكِيم**» (Durkheim، عالم اجتماع فرنسي توفي بعد وفاته عام 1917) و«**فِيبِر**» (Weber، عالم اجتماع ألماني توفي بعد وفاته عام 1920) «**حَلَّلَا**» (Analysaverunt) «**التنوير**» (Aufklärung) كـ«**عَقْلَانِيَّة**» (Rationalitas) «**حَضَارِيَّة**» (Civilizationis).
 
 ## المأزق الفلسفي
 
 - **التوتّر مع الدين**: «**التنوير**» (Aufklärung) «**اِنْتَقَدَ**» (Censuit) «**الْكَنِيسَة**» (Ecclesiam) و«**الدِّين**» (Religionem) «**الْمُؤَسَّسِيّ**» (Institutionalem). «**اللاهوت**» (Theologia) «**رَدَّ**» (Respondit) بـ«**شَلَايْرْمَاخِر**» (Schleiermacher) و«**كَارْل بَارْث**» (Karl Barth) و«**إِمَانُولَ تِيلِيش**» (Paul Tillich).
 - **التوتّر مع الرومانسية**: «**الرومانسية**» (Romanticismus) في «**الْقَرْن**» (Saeculo) «**19 م**» (XIX) «**نَقَدَتْ**» (Censuit) «**التنوير**» (Aufklärung) لـ«**تَجَافِيه**» (Carentia) «**الْعَاطِفَة**» (Affectus) و«**التَّارِيخ**» (Historiae). «**هَرْدَر**» (Herder) و«**الرُّومَانْسِيُّونَ**» (Romantici) «**رَدُّوا**» (Responderunt).
-- **التوتّر مع ما بعد الحداثة**: «**مَا بَعْد الْحَدَاثَة**» (Postmodernitas) في «**الْقَرْن**» (Saeculo) «**20 م**» (XX) «**نَقَدَتْ**» (Censuit) «**التنوير**» (Aufklärung) لـ«**وَثَاقَتِهِ**» (Confidentia) «**الْعَقْلَانِيَّة**» (Rationalitatis). «**لِيُوتَار**» (Lyotard، 1924-1998) و«**فُوكُو**» (Foucault) و«**دِرِيدَا**» (Derrida) و«**هَابِرمَاس**» (Habermas) «**تَنَاوَشُوا**» (Disputaverunt) «**حَوْل**» (Circa) «**التنوير**» (Aufklärung).
+- **التوتّر مع ما بعد الحداثة**: «**مَا بَعْد الْحَدَاثَة**» (Postmodernitas) في «**الْقَرْن**» (Saeculo) «**20 م**» (XX) «**نَقَدَتْ**» (Censuit) «**التنوير**» (Aufklärung) لـ«**وَثَاقَتِهِ**» (Confidentia) «**الْعَقْلَانِيَّة**» (Rationalitatis). «**لِيُوتَار**» (Lyotard، فيلسوف فرنسي توفي بعد وفاته عام 1998) و«**فُوكُو**» (Foucault) و«**دِرِيدَا**» (Derrida) و«**هَابِرمَاس**» (Habermas) «**تَنَاوَشُوا**» (Disputaverunt) «**حَوْل**» (Circa) «**التنوير**» (Aufklärung).
 - **التوتّر مع الاستعمار**: «**التنوير**» (Aufklärung) «**أَدَّى**» (Duxit) «**إِلَى**» (Ad) «**الِاسْتِعْمَار**» (Colonialismum) «**الْأُورُوبِّيّ**» (Europaeum) في «**الْقَرْن**» (Saeculo) «**19 م**» (XIX). «**مَنْفْرِد**» (Manning) و«**كَاسَان**» (Césaire) في «**الْقَرْن**» (Saeculo) «**20 م**» (XX) «**نَقَدَا**» (Censuerunt) «**التنوير**» (Aufklärung) لـ«**تَرَافُقِهِ**» (Coniunctio) «**مَعَ**» (Cum) «**الِاسْتِعْمَار**» (Colonialismo).
 - **التوتّر مع الإرادة**: «**التنوير**» (Aufklärung) «**تَطْلُبُ**» (Postulat) «**الْعَقْل**» (Rationem)، «**لَكِنَّ**» (Sed) «**الشُّعُوب**» (Populi) «**لَا**» (Non) «**دَائِمًا**» (Semper) «**عَقْلَانِيَّة**» (Rationales). «**مَاكْيَافِيلِّي**» (Machiavelli) و«**هِتْلَر**» (Hitler) و«**تْرَامْب**» (Trump) «**اِسْتَغَلُّوا**» (Expleverunt) «**الْعَاطِفَة**» (Affectum) «**لِلتَّأْثِير**» (Ad Movendum) «**عَلَى**» (Super) «**الْجَمَاهِير**» (Multitudines).
 - **الإرث المعاصر**: «**التنوير**» (Aufklärung) «**مَازَالَ**» (Adhuc) «**يُلْهِم**» (Inspirans) «**الْحَرَكَات**» (Motiones) «**الدِّيمُقْرَاطِيَّة**» (Democraticas) و«**الْحُقُوقَ**» (Iura) «**الْمَدَنِيَّة**» (Civilia) و«**الْعَلْمَ**» (Scientiam) «**الْمُسْتَقِلّ**» (Independentem) في «**الْعَالَم**» (Mundo) «**الْمَعَاصِر**» (Contemporaneo) — وَ«**اِنْتِقَادَهُ**» (Critica) «**أَيْضًا**» (Etiam) «**مُسْتَمِرّ**» (Continuus) في «**الْفَلْسَفَة**» (Philosophia) «**الْمُعَاصِرَة**» (Contemporanea).
+
+## المصادر
+
+- Kant, Immanuel. *An Answer to the Question: What is Enlightenment?* (1784).
+- Cassirer, Ernst. *The Philosophy of the Enlightenment*. Princeton University Press, 1951.
+- Israel, Jonathan. *Radical Enlightenment: Philosophy and the Making of Modernity 1650-1750*. Oxford University Press, 2001.
+- Habermas, Jürgen. *Der philosophische Diskurs der Moderne*. Suhrkamp, 1985.
+- Foucault, Michel. "Qu'est-ce que les Lumières?" (1984).

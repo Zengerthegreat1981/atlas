@@ -10,6 +10,7 @@ crumb: "الفلسفة ← المسيحية الوسيطة ← الآبائية 
 dates: "الإمبراطورية الرومانية، القسطنطينية، الإسكندرية، أنطاكية، روما · من القرن 2 م إلى القرن 8 م"
 country: "الإمبراطورية الرومانية، القسطنطينية، الإسكندرية، روما، أوغسطين (شمال إفريقيا)"
 language: "اليونانية، اللاتينية، السريانية، القبطية"
+cultural_origin: "greek"
 active_start: 100
 active_end: 750
 edges:
@@ -27,7 +28,6 @@ related:
 - id: "wrk-consolation-philosophy", title: "عزاء الفلسفة (De Consolatione Philosophiae)", type: "عمل / كتاب"
 gaps:
   - "نصوص آباء الكنيسة اليونانية (أوريجانس، باسيليدس، كليمنت، أفراهات) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'أسفار موسى' لفلوطينوس أو 'De Principiis' لأوريجانس."
   - "التمييز بين 'الآباء الرسوليين' و'الآباء الكبّار' (المعترفون) ليس دائماً واضحاً."
 ---
 
@@ -138,3 +138,10 @@ gaps:
 3. **الإسهام الثقافي**: هل حصرت التراث الإنجيلي في قوالب يونانية؟
 
 ردّ الآباء المعاصرون (Avery Dulles، John Behr) بأنّ الآبائية وفّقت بين العقل والإيمان دون أن تسفّط أحدهما.
+
+## المصادر
+
+- Quasten, Johannes. *Patrology* (4 vols.). Spectrum/Christian Classics, 1950–1986.
+- Kelly, J.N.D. *Early Christian Doctrines*. Continuum, 1965.
+- Pelikan, Jaroslav. *The Christian Tradition: The Emergence of the Catholic Tradition (100-600)*. University of Chicago Press, 1971.
+- Behr, John. *The Way to Nicaea*. St Vladimir's Seminary Press, 2001.

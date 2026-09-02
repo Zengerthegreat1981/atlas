@@ -13,10 +13,10 @@ active_start: 1992
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الدعم النظير", target_type: "تيار"
+- rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
 - id: "thk-wwhite", title: "وليام وايت", type: "مفكر"
-- id: "thk-pdeegan", title: "باتريشا ديجان", type: "مفكر"
+- id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
 - id: "thk-smead", title: "شيري ميد", type: "مفكر"
 - id: "thk-jchamberlin", title: "جودي تشامبرلين", type: "مفكر"
 gaps:

@@ -22,7 +22,6 @@ gaps:
   - "رابط مقترح لـ«تانغ جون يي» (thk-tang-junyi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هسو فو غوان» (thk-xu-fuguan) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التفاصيل الدقيقة لمذهب الأخلاق العقلية (دي شينغ) في Xinti yu Xingti لم تُراجع هنا."
-  - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."
 ---
 
 # مو تسونغ سان
@@ -57,3 +56,9 @@ gaps:
 - *Xinti yu Xingti* (心体与性体، "جوهر العقل وجوهر الطبيعة")، أربعة مجلدات.
 - *Zhi de Zhijue yu Zhongguo Zhexue* (智的直觉与中国哲学، "الحدس الفكري والفلسفة الصينية").
 - *Fazhan de Chongguo* (发展的中国، "الصين المتطورة")، مقال فلسفي.
+
+## المصادر
+
+- Mou Zongsan, *Xinti yu Xingti* [Mind and Human Nature] (1968-69).
+- Billioud, S. (2012). *Thinking through Confucian Modernity: A Study of Mou Zongsan's Moral Metaphysics*. Brill.
+- Angle, S. C. (2018). "Mou Zongsan." *Stanford Encyclopedia of Philosophy*.

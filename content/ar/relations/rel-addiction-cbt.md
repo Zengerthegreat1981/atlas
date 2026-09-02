@@ -10,13 +10,12 @@ active_start: 1983
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "الإدمان وتغيير السلوك", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-dmiller", title: "ديفيد ل. ميلر", type: "مفكر"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
-- id: "thk-nazrin", title: "ناثان أزرين", type: "مفكر"
+- id: "thk-nazrin", title: "نَثَان هـ. أزّرين", type: "مفكر"
 - id: "con-harm-reduction", title: "الحد من الضرر (Harm Reduction)", type: "مفهوم"
 - id: "con-twelve-steps", title: "برنامج الاثنتي عشرة خطوة (12-Step)", type: "مفهوم"
 gaps:

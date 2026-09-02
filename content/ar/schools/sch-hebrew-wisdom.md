@@ -10,10 +10,9 @@ crumb: "الفلسفة ← الشرق الأدنى القديم ← تقليد �
 dates: "فلسطين / المنفى البابلي · من القرن 10 ق.م إلى القرن 2 ق.م"
 country: "إسرائيل القديمة، بابل"
 language: "العبرية، الآرامية"
+cultural_origin: "greek"
 active_start: -1000
 active_end: -100
-edges:
-- rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
 - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
@@ -25,6 +24,7 @@ related:
 gaps:
   - "نصوص 'سفر الأمثال' و'الجامعة' (Ecclesiastes) و'أيوب' تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "cultural_origin مضبوط على 'greek' كأقرب قيمة متاحة في الاتفاقية المعتمدة — لا يوجد slug مخصص لـ'الشرق الأدنى القديم/إسرائيل القديمة' في الأطلس حالياً، وهذا تقليد عبري قديم (فلسطين القديمة) لا يوناني ولا إسلامي-عربي بدقة."
 ---
 
 # تقليد الحكمة العبرية القديمة
@@ -60,3 +60,10 @@ gaps:
 - سليمان (الملك، القرن 10 ق.م، التاريخية محل نقاش).
 - يشوع بن سيراخ (القرن 2 ق.م).
 - الحاخامات التلموديين.
+
+## المصادر
+
+- Gerhard von Rad, *Wisdom in Israel* (1972).
+- James L. Crenshaw, *Old Testament Wisdom: An Introduction* (1981).
+- Roland E. Murphy, *The Tree of Life: An Exploration of Biblical Wisdom Literature* (1990).
+- Michael V. Fox, *Proverbs 1–9* (Anchor Bible commentary, 2000).

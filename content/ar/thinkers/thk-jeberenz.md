@@ -12,8 +12,7 @@ language: "السويدية/الإنجليزية"
 active_start: 1970
 active_end: 2020
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "علاج التنمر والعدوان", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dolweus", title: "دان أولڤيوس", type: "مفكر"
 - id: "thk-krigby", title: "كن رِجباي", type: "مفكر"

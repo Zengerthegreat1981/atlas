@@ -14,14 +14,13 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "belongs_to", target: "علم النفس العصبي التحليلي", target_type: "تيار"
+- rel: "belongs_to", target: "br-neuropsychoanalysis", target_type: "تيار"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 gaps:
   - "ترجمة علم النفس العصبي للأحلام (1997) لم تُراجع بعد تفصيلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مارك سولمز
@@ -45,3 +44,9 @@ gaps:
 ## أهم أعماله
 
 علم النفس العصبي للأحلام (1997) · منفعة التحليل النفسي (العقد الأول من القرن الحادي والعشرين) · منفعة جديدة للتحليل النفسي (2021).
+
+## المصادر
+
+- Solms, M., & Turnbull, O. (2002). *The Brain and the Inner World: An Introduction to the Neuroscience of Subjective Experience*. Other Press.
+- Solms, M. (1997). *The Neuropsychology of Dreams: A Clinico-Anatomical Study*. Lawrence Erlbaum.
+- Solms, M. (2021). *The Hidden Spring: A Journey to the Source of Consciousness*. W. W. Norton.

@@ -19,12 +19,10 @@ related:
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
 - id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
 - id: "con-different-voice", title: "الصوت المختلف (In a Different Voice)", type: "مفهوم"
-- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "ctx-me-too-movement-gender-accountability", title: "حركة MeToo وتفكيك ثقافة الإفلات من العقاب والعنف الجندري", type: "سياق/تقليد"
 gaps:
   - "لم تُراجع بعدُ طبعة Harvard University Press الأصلية لـ *In a Different Voice* (1982)."
-  - "لا اقتباس مباشر موثّق منه في هذا الملف."
+  - "لا اقتباس مباشر موثّق منها في هذا الملف."
   - "دُمج معه الملف المكرَّر thk-cgilligan (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 # كارول غيليغان

@@ -14,20 +14,20 @@ active_start: 1987
 active_end: "مستمر"
 register: "clinical"
 evidence_level: "controversial"
+cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "sch-trauma-focused", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
-- rel: "developed_by", target: "francine-shapiro", target_type: "مفكر"
+- rel: "developed_by", target: "thk-francine-shapiro", target_type: "مفكر"
 related:
-- id: "thk-besselvanderkolk", title: "بسل فان دير كولك", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب ما بعد الصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-acute-stress-disorder", title: "اضطراب الضغط الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "con-trauma", title: "الصدمة", type: "مفهوم"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو (EMDR)", type: "مفكر"
 - id: "wrk-emdr-1995", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (1995)", type: "عمل / كتاب"
 - id: "br-emdr-protocol", title: "بروتوكول EMDR القياسي", type: "تيار"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
-- id: "thk-francesharville", title: "فرانسيس شارفيل (المُحسَّن)", type: "مفكر"
 - id: "con-aip-model-emdr", title: "نموذج المعالجة التكيفية للمعلومات (AIP) في EMDR", type: "مفهوم"
 - id: "wrk-shapiro-emdr-principles", title: "كتاب علاج EMDR: المبادئ والبروتوكولات لفرانسين شابيرو (2001)", type: "عمل / كتاب"
 - id: "tec-emdr-eight-phase-protocol", title: "بروتوكول المراحل الثمانية والتحفيز الثنائي لـ EMDR", type: "تقنية/تدخل علاجي"
@@ -99,7 +99,7 @@ gaps:
 - **الحزن المعقد**: فقدان الأحباء.
 - **الإدمان**: خاصة في حالات الصدمة المشتركة.
 
-## المرجع الأساسي
+## المصادر
 
 - Shapiro, F. (1995). *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures*. Guilford Press.
 - Shapiro, F. (2001/2018). *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures* (3rd ed.). Guilford Press.

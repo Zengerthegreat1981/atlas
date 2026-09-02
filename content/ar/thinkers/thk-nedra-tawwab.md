@@ -13,14 +13,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2007
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعلاقات الأسرية", target_type: "مدرسة"
+edges: []
 related:
-- id: "wrk-set-boundaries-find-peace", title: "ضع حدوداً، تجد سلاماً", type: "عمل / كتاب"
-- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية", type: "مفهوم"
+- id: "wrk-set-boundaries-find-peace", title: "ضع حدوداً، تجد سلاماً: دليل لاستعادة ذاتك", type: "عمل / كتاب"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة (sch-) مستقل في الأطلس لـ«علم النفس الشعبي والعلاقات الأسرية»، فحُذف رابط belongs_to وسُجِّلت المدرسة الغائبة في missing-schools.md."
+  - "تاريخ حصولها على ترخيص LCSW وتفاصيل تكوينها الأكاديمي المبكر لم تُراجع من مصدر أولي."
 ---
 
 # نيدرا غلوفر تواب
@@ -53,6 +52,7 @@ gaps:
 - *Drama Free: A Guide to Managing Unhealthy Family Relationships* (2023).
 - *Consider This* (2024).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Tawwab, N. G. (2021). *Set Boundaries, Find Peace: A Guide to Reclaiming Yourself*. TarcherPerigee.
+- Tawwab, N. G. (2023). *Drama Free: A Guide to Managing Unhealthy Family Relationships*. TarcherPerigee.

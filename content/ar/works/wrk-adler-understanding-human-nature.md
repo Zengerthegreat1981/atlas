@@ -9,8 +9,12 @@ en: "Understanding Human Nature (Menschenkenntnis) by Alfred Adler"
 crumb: "علم النفس الفردي ← أمهات الأعمال ← فهم الطبيعة البشرية"
 active_start: null
 active_end: "مستمر"
+author: "ألفرد أدلر"
+author_slug: "thk-adler"
+publication_year: 1927
+original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "sch-individual-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-adlerian", target_type: "مدرسة"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 gaps:

@@ -13,7 +13,7 @@ active_start: 1974
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي التأملي (جامعة ناروبا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-contemplative-psychotherapy", target_type: "مدرسة"
 related:
 - id: "thk-mricard", title: "ماتيو ريكار", type: "مفكر"
 - id: "thk-pchodron", title: "بيما تشُدرُن", type: "مفكر"

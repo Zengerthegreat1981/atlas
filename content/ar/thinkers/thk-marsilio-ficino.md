@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-hermeticism", target_type: "مدرسة"
 related:
 - id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة (شخصية تقليدية)", type: "مفكر"
-- id: "thk-pico", title: "جيوفاني بيكو della ميراندولا", type: "مفكر"
+- id: "thk-pico", title: "جيوفاني بيكو ديلا ميراندولا", type: "مفكر"
 - id: "thk-giordano-bruno", title: "جوردانو برونو", type: "مفكر"
 - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
 - id: "wrk-corpus-hermeticum", title: "الكوربوس الهرمسية", type: "عمل / كتاب"
@@ -51,6 +51,8 @@ gaps:
 - *De Christiana religione* (1474) — في الديانة المسيحية.
 - ترجمة كاملة لـ: أفلاطون، أفلوطين، Proclus، Dionysius the Areopagite، Hermes Trismegistus.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح بالعربية.
+- Ficino, M. (1474). *Theologia Platonica de immortalitate animae*. فلورنسا.
+- Ficino, M. (1489). *De Vita Coelitus Comparanda* (الكتاب الثالث من *De Triplici Vita*). فلورنسا.
+- Ficino, M. (1484). *Commentarium in Convivium Platonis, de Amore*. فلورنسا.

@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1960
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"

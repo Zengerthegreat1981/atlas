@@ -9,6 +9,11 @@ crumb: "المدرسة الوجودية ← الدراسات والأبحاث �
 active_start: 1944
 active_end: 1951
 part: "psychology"
+study_year: 1944
+design: "أثر رجعي / حالة-ضابطة (ليست تجربة معشاة)"
+sample_size: "44 لصاً حدثاً + 44 مجموعة ضابطة"
+main_finding: "14 من الـ44 لصاً صُنّفوا كـ\"عديمي المودة\"، ومن بينهم 12 تعرضوا لانفصال أمومي مبكر مطوّل (أكثر من 6 أشهر)، مقابل 2 فقط في المجموعة الضابطة"
+replication_status: "contested"
 related:
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:

@@ -15,14 +15,13 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
-- id: "thk-jmarkowitz", title: "جيمس ماركويتز", type: "مفكر"
+- id: "thk-jmarkowitz", title: "جون ماركويتز", type: "مفكر"
 - id: "con-ipt-problem-areas", title: "المشاكل الأربعة في العلاج بين الأشخاص (IPT): الفجيعة، الخلافات الأدائية، التحولات الأدائية، والعجز الأدائي", type: "مفهوم"
 - id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
-- id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
+- id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
 - id: "thk-alemma", title: "أليساندرا لِمّا", type: "مفكر"
 gaps:
   - "المساهمات اللاحقة بعد 2015 لم تُراجع بشكل منفصل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ميري وايسمان
@@ -47,6 +46,8 @@ gaps:
 - *Interpersonal Psychotherapy for Depressed Older Adults* (2000، مع كاركين، براون، بوتس).
 - *Treating Depression* (مع ماركويتز).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Klerman, G. L., Weissman, M. M., Rounsaville, B. J., & Chevron, E. S. (1984). *Interpersonal Psychotherapy of Depression*. Basic Books.
+- Weissman, M. M., Markowitz, J. C., & Klerman, G. L. (2000). *Comprehensive Guide to Interpersonal Psychotherapy*. Basic Books.
+- Columbia University Department of Psychiatry — صفحة السيرة الأكاديمية الرسمية.

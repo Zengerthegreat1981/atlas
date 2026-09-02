@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← الشك البيرون
 dates: "من نحو 360 ق.م إلى القرن 3 م"
 country: "يونان (إليس، أثينا)"
 language: "اليونانية"
+cultural_origin: "greek"
 active_start: -360
 active_end: 250
 edges:
-- rel: "belongs_to", target: "تقليد شكّي", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
 related:
 - id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
@@ -97,3 +97,10 @@ gaps:
 - كتب تيمون (الشكوك) فُقدت، لا نملك إلاّ «شذرات» جمعها H. Diels في «شذرات ما قبل سقراط» (1903).
 - هل كان بيرون «شكّاكاً كاملاً» أم «عملياً»؟ خلاف فيلسوفي حديث (Brennan 2003، Perin 2005).
 - وصف «الشكّاك» في مصادر الفلاسفة الآخرين (أرسطو، شيشرون) كثيراً ما يكون متحيّزاً.
+
+## المصادر
+
+- Sextus Empiricus. *Outlines of Pyrrhonism* (trans. R. G. Bury). Loeb Classical Library, Harvard University Press.
+- Bett, Richard (2000). *Pyrrho, His Antecedents, and His Legacy*. Oxford University Press.
+- Annas, Julia, & Barnes, Jonathan (1985). *The Modes of Scepticism: Ancient Texts and Modern Interpretations*. Cambridge University Press.
+- Diels, H. (1903). *Die Fragmente der Vorsokratiker*.

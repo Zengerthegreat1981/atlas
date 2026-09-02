@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "هولندا (لايدن، أمستردام، لاهاي) · القرن 17 م"
 country: "هولندا، ألمانيا، فرنسا، إنجلترا"
 language: "اللاتينية"
+cultural_origin: "european"
 active_start: 1660
 active_end: 1750
 edges:
@@ -22,7 +23,7 @@ related:
 - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 gaps:
   - "نصوص سبينوزا اللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Éthique'."
+  - "لم تُدرَج في هذا الملف اقتباسات مباشرة من نصّ 'Éthique' اللاتيني؛ يحتاج ذلك مراجعة من المصدر الأولي."
   - "التمييز بين 'سبينوزا' (الفيلسوف) و'السبينوزية' (المذهب اللاحق) محلّ نقاش مستمرّ."
 ---
 
@@ -131,3 +132,10 @@ gaps:
 - **التوتّر مع الميتافيزيقا**: «**الله**» (Deus) «**مُساوٍ**» (Aequalis) «**للطبيعة**» (Naturae) — «**لا فرق**» (Sine Differentia) بين «**الخالق**» (Creator) و«**المخلوق**» (Creatura). «**بان-إنئيزم**» (Panentheismus) «**متطرّف**» (Extremus).
 - **التوتّر مع الحرية**: «**الإرادة الحرّة**» (Liberum Arbitrium) «**وهم**» (Illusio). «**الحتميّة**» (Determinismus) «**مُطلقة**» (Absolutus). «**ردّ**» (Responsio) «**اللاهوت**» (Theologia) و«**أخلاقيات**» (Ethica) «**الحديثة**» (Moderna).
 - **الإرث المعاصر**: «**السبينوزية**» (Spinozismus) «**مازالت**» (Adhuc) «**نَموذجاً**» (Exemplar) لـ«**الفلسفة**» (Philosophia) «**المعاصرة**» (Contemporanea) في «**إطار**» (Forma) «**ما بعد الإنسانية**» (Post-Humanitas) و«**ما بعد الحداثة**» (Post-Modernitas).
+
+## المصادر
+
+- Baruch Spinoza, *Ethica, Ordine Geometrico Demonstrata*, 1677 (نُشرت بعد وفاته).
+- Jonathan Israel, *Radical Enlightenment: Philosophy and the Making of Modernity 1650–1750*, Oxford University Press, 2001.
+- Steven Nadler, *Spinoza: A Life*, Cambridge University Press, 1999.
+- Gilles Deleuze, *Spinoza: Philosophie pratique*, Éditions de Minuit, 1970.

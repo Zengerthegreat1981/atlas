@@ -23,7 +23,6 @@ related:
 gaps:
   - "لا نصوص كاملة لشين بو هاي وصلت إلينا. كلّ ما نعرفه من شذرات وردت في Han Feizi وHan Shu."
   - "التفاصيل الدقيقة لتقنياته الإدارية ('fa shu') موضع خلاف واسع بين المعاصرين."
-  - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."
   - "هوية الملف: الـslug `thk-shen-buhai` يشير إلى Shen Buhai (Shen Bao). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
@@ -47,3 +46,8 @@ gaps:
 - لا نصوص كاملة لشين بو هاي وصلت. كل ما نعرفه من شذرات وردت في Han Feizi وHan Shu وShuoyuan.
 - كثير من «أفكاره» التي تُنسب إليه في الأدبيات الحديثة قد تكون إعادة بناء (reconstruction) من القرن 20.
 - حياته الخاصة (نشأته، تربيته، خبرته قبل هان) شبه مجهولة.
+
+## المصادر
+
+- Herrlee G. Creel, *Shen Pu-hai: A Chinese Political Philosopher of the Fourth Century B.C.*, University of Chicago Press, 1974.
+- هان في تزو (Han Feizi)، الفصل 30، 5 — الشواهد المنقولة عن شين بو هاي.

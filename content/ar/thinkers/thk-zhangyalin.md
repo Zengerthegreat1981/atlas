@@ -12,8 +12,7 @@ language: "الصينية / الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
 - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
@@ -24,7 +23,6 @@ related:
 - id: "thk-zhangyongqiang", title: "تشانغ يونغ تشيانغ", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي (Hunan Normal University) لم يُوثّق."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تشانغ يالين
@@ -61,3 +59,7 @@ gaps:
 
 - *Taoist Cognitive Therapy* (2015).
 - مقالات في *Journal of Affective Disorders* و *Cognitive Therapy and Research*.
+
+## المصادر
+
+- Yalin Zhang, Derson Young, Sing Lee, et al., "Chinese Taoist Cognitive Psychotherapy in the Treatment of Generalized Anxiety Disorder in Contemporary China", *Transcultural Psychiatry*, 2002.

@@ -1,0 +1,63 @@
+---
+slug: "thk-pcarducci"
+id: "THK-1718"
+type: "مفكر"
+level: "مبتدئ"
+title: "باولا كاردوتشي"
+en: "Paola Carducci"
+dates: "إيطاليا"
+country: "إيطاليا"
+language: "الإيطالية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "مدرسة التحليل النفسي ← الناس ← باولا كاردوتشي"
+edges:
+- rel: "belongs_to", target: "sch-sandplay-therapy", target_type: "مدرسة"
+related:
+- id: "thk-dkalff", title: "دورا كالف", type: "مفكر"
+- id: "thk-cgj", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-jmenuhin", type: "مفكر", title: "ج. مينوهين"
+- id: "thk-kbradway", type: "مفكر", title: "كيت برادواي"
+- id: "thk-hkawai", type: "مفكر", title: "هيدي كاواي"
+- id: "thk-lweiss", type: "مفكر", title: "لورانس وايس"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Paola Carducci' في ISST (International Society for Sandplay Therapy) حتى آب 2026."
+  - "لا كتاب منشور بهذا الاسم في SBN الإيطالية (Biblioteca Nazionale)."
+  - "العمل المشار إليه ('Centro di Ricerca sul Gioco della Sabbia') لا يظهر في قوائم مراكز ISST."
+  - "الاحتمال الأقوى: خلط مع 'Paola Cardella' (محلِّلة يونغية في روما) أو 'Paola Cardona' (Sandplay practitioner)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'ISST Italia' عام."
+---
+
+# باولا كاردوتشي
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في ISST]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Paola Carducci.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **ISST (International Society for Sandplay Therapy)**: لا عضوية.
+  - **SBN (Biblioteca Nazionale Italiana)**: لا كتاب منشور.
+  - **AIPA (Associazione Italiana di Psicologia Analitica)**: لا عضوية.
+  - **JSPT (Journal of Sandplay Therapy)**: لا مقالة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Paola Cardella** (محلِّلة يونغية في روما، Sandplay practitioner).
+  - **Paola Cardona** (ISST practitioner في إيطاليا).
+  - **Roberta Cardaci** (محلِّلة يونغية في فلورنسا).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Kalff, D. M. (1966). *Sandspiel: Seine therapeutische Wirkung auf die Psyche*. Ernst Klett.
+  - ISST: https://www.sandplay.org/
+  - Bradway, K. (2013). «Sandplay Therapy: Origins and Development», in *Sandplay Therapy*. Routledge.

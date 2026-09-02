@@ -12,12 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
+- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
+  - "توسيع شبكة العلاقات مع المدارس المجاورة (العلاج بالتجربة الجسدية عند بيتر لڤين مثلاً) قيد المتابعة التحريرية."
 ---
 
 # أنظمة الفعل الحركي والتكامل الدفاعي في السنسوريموتور

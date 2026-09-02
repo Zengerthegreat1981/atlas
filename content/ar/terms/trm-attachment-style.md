@@ -10,19 +10,18 @@ crumb: "علم النفس التَّنْمَوِيّ ← المصطلحات ← 
 active_start: 1969
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-attachment-theory", target_type: "مدرسة"
+- rel: "relates_to", target: "br-attachment-theory", target_type: "تيار"
 related:
-- id: "thk-bowlby", title: "جون بُولْبِي", type: "مفكر"
-- id: "thk-ainsworth", title: "ماري أينزوَرْث", type: "مفكر"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ماري مَين (thk-main)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: فيبي شَايَر (thk-hazan)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: التَّعَلُّق (con-attachment)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: النَّمُوذَج العَمَلِيّ الدَّاخِلِيّ (con-internal-working-model)"
-  - "الفرق بين 'نمط التعلق' في مرحلة الطفولة وفي مرحلة البلوغ (Hazan & Shaver) يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "العلاقة بـ'اضطرابات التعلق' (Attachment Disorders) في DSM-5 تحتاج فصلاً."
-  - "النقد النسوي (Chodorow، 1978) لأنماط التعلق كـ'فئة ذكورية' يحتاج توثيقاً."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: ماري مَين (thk-main) — صاحبة النمط الرابع 'مشوش' مع سولومون 1986."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: فيليب شيفر (thk-hazan/thk-shaver) — صاحبا نموذج التعلق الرومانسي البالغ 1987."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: النَّمُوذَج العَمَلِيّ الدَّاخِلِيّ (con-internal-working-model)."
+  - "الفرق بين 'نمط التعلق' في مرحلة الطفولة (Strange Situation) وفي مرحلة البلوغ (Hazan & Shaver 1987) يحتاج فصلاً منهجياً مستقلاً — الأداتان مختلفتان (ملاحظة سلوكية مقابل استبيان ذاتي)."
+  - "العلاقة بـ'اضطرابات التعلق' (Reactive Attachment Disorder) في DSM-5 تحتاج فصلاً — RAD تشخيص إكلينيكي لسياق حرمان شديد، لا يعادل 'التجنبي' أو 'القلق' كسمات شخصية عادية."
+  - "النقد النسوي لأنماط التعلق كإطار يحمّل الأم مسؤولية استجابة الطفل (نانسي تشودورو، إعادة الإنتاج الأمومي، 1978) غير موثق بمصدر أولي في هذا الملف."
 ---
 # أَنْمَاط التَّعَلُّق (Attachment Styles)
 
@@ -43,3 +42,11 @@ gaps:
 ## فِي الْعِلَاج
 
 (1) **الْعِلَاج بِالْتَّعَلُّق** (Attachment-Based Therapy، Fonagy، 2001): «**تَكَامُل**» «**نَمُوذَج**» (Model) «**ارْتِبَاط**» «**مُشَوَّش**». (2) **الْعِلَاج الزَّوْجِيّ** (Couples Therapy، Johnson، 2008): «**إِعَادَة**» «**ارْتِبَاط**» «**آمِن**» (Secure Attachment Repair). (3) **الْعِلَاج الْوَالِدِيّ** (Parent-Child Therapy، Dozier، 2002): «**تَغْيِير**» «**ارْتِبَاط**» «**وَالِد-طِفْل**» (Parent-Child) «**مُشَوَّش**».
+
+## المصادر
+
+- Bowlby, John. *Attachment and Loss, Vol. 1: Attachment*. Basic Books, 1969.
+- Ainsworth, Mary D. S., Blehar, Mary C., Waters, Everett, and Wall, Sally. *Patterns of Attachment: A Psychological Study of the Strange Situation*. Lawrence Erlbaum, 1978.
+- Main, Mary, and Solomon, Judith. "Discovery of an Insecure-Disorganized/Disoriented Attachment Pattern." In *Affective Development in Infancy*, edited by T. B. Brazelton and M. Yogman, Ablex, 1986.
+- Hazan, Cindy, and Shaver, Phillip. "Romantic Love Conceptualized as an Attachment Process." *Journal of Personality and Social Psychology*, vol. 52, no. 3, 1987, pp. 511–524.
+- Johnson, Susan M. *Hold Me Tight: Seven Conversations for a Lifetime of Love*. Little, Brown, 2008.

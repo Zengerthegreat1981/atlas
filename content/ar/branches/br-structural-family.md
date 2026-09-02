@@ -16,9 +16,10 @@ edges:
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
+- id: "thk-mnichols", title: "مايكل نيكولز", type: "مفكر"
 - id: "con-family-structure", title: "البنية الأسرية", type: "مفهوم"
 - id: "con-subsystems", title: "الأنظمة الفرعية", type: "مفهوم"
-- id: "con-boundaries-psychological", title: "الحدود الأسرية", type: "مفهوم"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 - id: "con-enmeshment-disengagement", title: "الانغماس والانفصال", type: "مفهوم"
 - id: "con-joining", title: "الانضمام العلاجي", type: "مفهوم"
 gaps:

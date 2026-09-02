@@ -12,17 +12,14 @@ active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوّهات المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القراري", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
@@ -30,17 +27,16 @@ related:
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تقنية TIPP", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
-- id: "syn-craving-urge", title: "متلازمة الرغبة الشديدة والاندفاع", type: "متلازمة"
+- id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "syn-obsessive-thoughts", title: "متلازمة الأفكار الوسواسية", type: "متلازمة"
 gaps:
   - "البيانات الوبائية لانتشار Excoriation Disorder في المنطقة العربية غير متاحة في المصادر الأولية المراجعة."
   - "التمييز الدقيق بين 'نتف الجلد' المُحرَّض ميكانيكياً (MDPsychodermatology) و Excoriation Disorder يحتاج مراجعة طبية متخصصة."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُراجع من مصدر أولي مباشر بعد؛ لا يوجد بعد اقتباس منسوب لمصدر أولي محدد داخل هذا الملف."
 ---
 
 # اضطراب نتف الجلد (Skin-Picking Disorder)
@@ -52,6 +48,14 @@ gaps:
 يتطلب DSM-5-TR نتفاً متكرراً للجلد ينتج عنه آفات جلدية، مع محاولات متكررة لتقليل النتف، وأن يسبب ضائقة أو خللاً وظيفياً ملحوظاً. يجب استبعاد الحالات الطبية الجلدية المُسبِّبة للحكة (الأكزيما، الصدفية، إلخ) والإصابات الجلدية الذاتية المُحدَّدة (مثل Dermatitis artefacta).
 
 أُدرج اضطراب نتف الجلد رسمياً في DSM-5 (2013) ثم في DSM-5-TR (2022)، وهو من أوائل الإضافات الرسمية في فئة BFRBs. ICD-11 يصنّفه تحت 6B25.1 ضمن نفس فئة اضطرابات السلوك المتكرر المركّز على الجسم (BFRBs).
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية'، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. سرد الأعراض والمراحل العلاجية هنا وصف لما تحدده الأدلة التشخيصية والبروتوكولات المنشورة، وليس أداة لتشخيص فرد بعينه.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب نتف الجلد كحالة سريرية (نمط سلوكي متكرر قهري له معايير تشخيصية محددة ومساراً علاجياً مثل HRT) وبين con-blind-will-to-life (إرادة الحياة العمياء عند شوبنهاور) كمفهوم فلسفي عن دافع لا-عقلاني كامن خلف كل فعل إنساني — الأخير تصور ميتافيزيقي عام عن طبيعة الإرادة في الوجود بأسره، بينما النتف القهري في هذا الاضطراب سلوك محدد له مسار سريري وتدخلات فعّالة موثّقة تجريبياً، لا تجسيداً حرفياً لمبدأ فلسفي.
 
 ## الأعراض الجوهرية
 

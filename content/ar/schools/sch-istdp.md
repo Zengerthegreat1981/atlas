@@ -10,20 +10,20 @@ crumb: "علم النفس ← المدارس التحليلية ← العلاج
 dates: "كندا (مونتريال) · من 1970s إلى اليوم"
 country: "كندا (مونتريال)، مع انتشار دولي لاحق"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1970
 active_end: "مستمر"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "habib-davanloo", target_type: "مفكر"
-- rel: "split_into", target: "التحليل النفسي للدفاع (MAP)", target_type: "تيار"
+- rel: "developed_by", target: "thk-hdavanloo", target_type: "مفكر"
 related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
 - id: "con-repression", title: "الكبت والآليات الدفاعية الأولية", type: "مفهوم"
-- id: "con-transference", title: "التحويل في العلاقة العلاجية", type: "مفهوم"
+- id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
-- id: "tec-istdp", title: "العلاج الديناميكي المكثف قصير المدى — تقنية", type: "تقنية/تدخل علاجي"
-- id: "con-unconscious", title: "اللاشعور الكلاسيكي", type: "مفهوم"
+- id: "tec-istdp", title: "العلاج الديناميكي المكثف قصير المدى (ISTDP)", type: "تقنية/تدخل علاجي"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
 - id: "con-istdp-key-techniques", title: "التقنيات الأساسية في ISTDP: تحدّي الدفاع، تحمّل القلق، تحليل الأنا الأعلى، والتخلّل العلاجي", type: "مفهوم"
 - id: "br-istdp-core-techniques", title: "تقنيات ISTDP الجوهرية", type: "تيار"
@@ -74,14 +74,6 @@ gaps:
 
 صنّفت الجمعية الأمريكية للطب النفسي (APA) في 2010 في تقرير "Psychodynamic Interventions for Mental Disorders" المساهمات القريبة من ISTDP ضمن فئة "**Probably Efficacious**" — أي أن الأدلة أقوى من "Possibly Efficacious" لكن دون أن تصل إلى "Well-Established". توجد تجارب عشوائية مضبوطة (RCTs) على الاكتئاب، اضطرابات الشخصية، والألم الجسدي النفسي المنشأ. ويبقى أحد الانتقادات المتكرّرة أن تصميم التجارب يُصعب دراسة علاج يعتمد على حدس المعالج ومهاراته الشخصية.
 
-## المطبوعات التأسيسية والمرجعيات
-
-- Davanloo, H. (Ed.). (1980). *Short-Term Dynamic Psychotherapy*. Jason Aronson.
-- Davanloo, H. (1990). *Unlocking the Unconscious: Selected Papers of Habib Davanloo*. Wiley.
-- Davanloo, H. (1995). "Intensive Short-Term Dynamic Psychotherapy: Technique and Process." *International Journal of Short-Term Psychotherapy*.
-- Abbass, A. A., et al. (2010). "Psychodynamic Psychotherapy for Mental Disorders: A Systematic Review and Meta-Analysis." *World Psychiatry*.
-- McCullough, L., et al. (2003). *Treating Affect Phobia: The Use of Intensive Short-Term Dynamic Psychotherapy*. Guilford Press.
-
 ## العلاقى بالمدارس المجاورة
 
 تتقاطع ISTDP مع التحليل النفسي الكلاسيكي (Freudian) في الإطار اللاشعوري والتحويل، لكنها تبتعد عنه جذرياً في المدة والأسلوب: جلسات عالية التردّد، مواجهة نشطة بدل الحياد، ضغط زمني بدل الترقّب. مع العلاجات الديناميكية القصيرة الأخرى (مثل TFP من كلاين وFonagy، وDynamic Deconstructive Psychotherapy من McCullough) العلاقة قرابة عائلية. مع الموجة الثالثة من CBT، يمكن عدّ بعض التقنيات (كالمواجهة السريعة للتجنّب الدفاعي) متوازية ظاهرياً، لكن الاختلاف الجوهري في أن الهدف ليس تعديل المعتقد السطحي بل **اختراق الدفاعات للوصول إلى القلق اللاشعوري** باقٍ.
@@ -97,8 +89,11 @@ gaps:
 
 أثّرت ISTDP في: (1) فرع "التحليل النفسي للدفاع" (MAP) في إيطاليا مع صياغة كاتي ليبراتشي وفريديريك ليشيتي؛ (2) تبنّي مبدأ "مواجهة الدفاعات" في بعض مدارس العلاج الجدلي السلوكي (DBT) وفي علاج اضطرابات الشخصية؛ (3) تيار "التجربة العلاجية" الحادّة المُعتمد في علاج الألم الجسدي النفسي المنشأ. تبقى المدرسة، رغم صغر حجمها، مرجعاً لكل من يسأل: هل يمكن علاج ديناميكي فعّال في 20-40 جلسة، لا في 5 سنوات؟
 
-## مرجعيات للقراءة المُعمَّقة
+## المصادر
 
-- Davanloo, H. (1990). *Unlocking the Unconscious*. Wiley. — الكتاب التأسيسي.
+- Davanloo, H. (Ed.). (1980). *Short-Term Dynamic Psychotherapy*. Jason Aronson.
+- Davanloo, H. (1990). *Unlocking the Unconscious: Selected Papers of Habib Davanloo*. Wiley.
+- Davanloo, H. (1995). "Intensive Short-Term Dynamic Psychotherapy: Technique and Process." *International Journal of Short-Term Psychotherapy*.
+- Abbass, A. A., et al. (2010). "Psychodynamic Psychotherapy for Mental Disorders: A Systematic Review and Meta-Analysis." *World Psychiatry*.
+- McCullough, L., et al. (2003). *Treating Affect Phobia: The Use of Intensive Short-Term Dynamic Psychotherapy*. Guilford Press.
 - Abbass, A. A., & Town, J. M. (2013). "Intensive Short-Term Dynamic Psychotherapy: Applications to Common Clinical Presentations." *Journal of Clinical Psychology*.
-- Rice, A. K., & McCullough, L. (2010). "ISTDP and the Treatment of Affect Phobia." *American Journal of Psychotherapy*.

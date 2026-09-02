@@ -12,8 +12,7 @@ active_end: 1982
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "فلسفة الرمز والجماليات", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-time", title: "الزمن", type: "مفهوم"

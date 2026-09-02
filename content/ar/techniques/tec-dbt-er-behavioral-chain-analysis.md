@@ -10,15 +10,17 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
 - id: "tec-dbt-er-model-for-describing-emotions", title: "نموذج وصف المشاعر", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد في الأطلس دراسة منفصلة تعزل أثر تحليل السلسلة السلوكية عن باقي حزمة DBT؛ فعاليتها موثقة ضمن تجارب DBT الكلية على السلوك الانتحاري وليس كمكوّن مستقل."
 ---
 
 # تحليل السلسلة السلوكية
@@ -27,7 +29,7 @@ gaps:
 
 ## ماهية التقنية
 
-تحليل السلسلة السلوكية (Behavioral Chain Analysis / BCA) هو تطبيق مبدئي لـ«تحليل السلوك التطبيقي» (ABA) في DBT. يتضمن:
+تحليل السلسلة السلوكية (Behavioral Chain Analysis / BCA) هو تطبيق مبدئي لـ«تحليل السلوك التطبيقي» (ABA) في DBT، أدرجته **مارشا لينهان** (thk-mlinehan) عام 1993 كأداة تشخيصية-علاجية أساسية عند علاج **اضطراب الشخصية الحدية** (dis-borderline-personality) والسلوك الانتحاري المتكرر. يتضمن:
 
 - **تحديد السلوك المستهدف** (إيذاء الذات، انفجار غضب، انسحاب، إلخ).
 - **تتبع الأحداث السابقة** للسلوك خطوة بخطوة (Prompting Event → Vulnerability Factors → Chain of Events → Behavior → Consequences).

@@ -16,10 +16,14 @@ edges:
 related:
 - id: "con-as-above-so-below", title: "كما في الأعلى كذلك في الأسفل", type: "مفهوم"
 - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
-- id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة", type: "مفكر"
+- id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة (شخصية تقليدية)", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "thk-marsilio-ficino", title: "مارسيليو فيتشينو", type: "مفكر"
+- id: "thk-isaac-newton", title: "إسحاق نيوتن", type: "مفكر"
 gaps:
   - "تأريخ النص الأصلي قبل القرن 6 م غير ممكن."
   - "الترجمات العربية (ابن وحشية، جابر بن حيان) وفكرة «الطلسمات» تنتظر مراجعة نصية."
+  - "جابر بن حيان وباراسيلسوس مذكوران في المتن لكن لا يوجد لهما ملف مفكر (thk-) في الأطلس بعد."
 ---
 
 # لوح الزمرد (Tabula Smaragdina)

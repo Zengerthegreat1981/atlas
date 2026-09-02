@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري والزوجي الدينامي (br-dynamic-couples-family-therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "مدرسة"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:

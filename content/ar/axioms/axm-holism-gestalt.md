@@ -10,16 +10,16 @@ crumb: "الجشطلتية ← البديهيات التأسيسية ← مبد�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "الجشطلتية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-mwertheimer", target_type: "مفكر"
 related:
 - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
-- id: "thk-wkohler", title: "فولفجانج كولر", type: "مفكر"
-- id: "thk-kkoffka", title: "كيرت كوفكا", type: "مفكر"
-- id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
+- id: "thk-wkohler", title: "فولفغانغ كولَر", type: "مفكر"
+- id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 gaps:
   - "الفرق بين 'الكلية' عند الجشطلتيين و'النظرية الأنظمة' (Bertalanffy) اللاحقة يحتاج تمييزاً."
-  - "قوانين الإدراك الجشطلتية (النقش/الخلفية، الإغلاق، الاستمرارية، التشابه) تحتاج توثيقاً في ملف منفصل."
+  - "لا يوجد في الأطلس حتى الآن ملف مدرسة مستقل لعلم النفس الجشطلتي الإدراكي التأسيسي (فيرتهايمر-كولر-كوفكا، برلين) متمايز عن sch-gestalt-therapy (علاج الجشطلت لبيرلز، مدرسة مختلفة زمنياً ومنهجياً) — لذا edges أعلاه يشير مؤقتاً لأقرب مدرسة موجودة فعلياً."
 ---
 
 # مبدأ الكلية (Gestalt)
@@ -61,3 +61,9 @@ gaps:
 - **صعوبة القياس**: البنية الكلية يصعب تفكيكها لقياسها تجريبياً.
 - **النظريات الذرية مقابل الكلية**: علم النفس المعرفي أعاد أجزاء من التحليل العنصري.
 - **التوسع في علم النفس العلاجي**: الجشطلت كلعلاج (بيرلز) مختلف عن الجشطلت كعلم نفس (فيرتهايمر).
+
+## المصادر
+
+- Max Wertheimer, "Experimentelle Studien über das Sehen von Bewegung" [دراسات تجريبية في إدراك الحركة], *Zeitschrift für Psychologie* 61 (1912): 161–265.
+- Wolfgang Köhler, *Intelligenzprüfungen an Menschenaffen* (Berlin: Springer, 1917) — نُشر بالإنجليزية بعنوان *The Mentality of Apes* (1925).
+- Kurt Koffka, *Principles of Gestalt Psychology* (New York: Harcourt, Brace, 1935).

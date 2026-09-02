@@ -10,14 +10,13 @@ crumb: "النسوية الفلسفية ← جدل الكونية-الخصوصي
 active_start: 1981
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-feminism-postcolonial", target_type: "مدرسة"
 related:
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
 - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
 gaps:
-  - "النصوص التأسيسية (hooks 1981, Mohanty 1984, Spivak 1988) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "موقف نسباوم التفصيلي في 'خلق القدرات' (Creating Capabilities, 2011) وردود موهانتي عليه بعد 2000 غير موثقين هنا."
 ---
 
 # جدل الكونية مقابل الخصوصية في النسوية
@@ -43,3 +42,10 @@ gaps:
 - «النسوية التقاطعية» (Crenshaw, 1989) حاولت الجمع بين الكونية والخصوصية.
 - «النسوية الكونية» (Mohanty, 2003) أعادت تعريف «التحالف» عبر الحدود.
 - «النسوية الإسلامية» (Wadud, Barlas) قدّمت «خصوصية» مضادة في سياق العالم الإسلامي.
+
+## المصادر
+
+- Nussbaum, Martha. *Women and Human Development: The Capabilities Approach* (2000).
+- hooks, bell. *Ain't I a Woman: Black Women and Feminism* (1981).
+- Mohanty, Chandra Talpade. "Under Western Eyes: Feminist Scholarship and Colonial Discourses," *Boundary 2* (1984).
+- Spivak, Gayatri Chakravorty. "Can the Subaltern Speak?" in *Marxism and the Interpretation of Culture* (1988).

@@ -13,11 +13,10 @@ edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
-- id: "thk-stephen-porges", title: "ستيفن بورغس", type: "مفكر"
+- id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
 - id: "thk-dana", title: "ديب دانا", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا توجد ترجمة عربية معتمدة موحدة لمصطلح Neuroception بعد؛ الأشكال المتداولة (النيوروسبشن، الإدراك العصبي) غير موحدة في الأدبيات العربية المترجمة."
 ---
 # الإدراك العصبي اللاواعي للأمان (Neuroception): استشعار الخطر قبل التفكير
 
@@ -34,3 +33,9 @@ gaps:
 ## الأثر في فهم صدمات الطفولة واضطراب الهلع
 
 تفسير فرط التحفز العصبي للمصدومين كخلل في دقة النيوروسبشن يجعلهم يستشعرون خطراً مميتاً في مواقف آمنة محايدة.
+
+## المصادر
+
+- Porges, S. W. (2004). "Neuroception: A Subconscious System for Detecting Threats and Safety." *Zero to Three*, 24(5), 19–24.
+- Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. Norton.
+- Dana, D. (2018). *The Polyvagal Theory in Therapy: Engaging the Rhythm of Regulation*. Norton.

@@ -12,15 +12,17 @@ dates: "1981 · كوليت داولينغ"
 language: "الإنجليزية"
 active_start: 1981
 active_end: 1981
+author: "كوليت داولينغ"
+author_slug: "thk-colette-dowling"
+publication_year: 1981
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والدراسات النسوية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-colette-dowling", target_type: "مفكر"
 related:
 - id: "con-cinderella-complex", title: "عقدة سندريلا (الخوف الخفي من الاستقلال والاعتمادية)", type: "مفهوم"
 - id: "thk-colette-dowling", title: "كوليت داولينغ", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # عقدة سندريلا: خوف النساء الخفي من الاستقلال
@@ -34,7 +36,3 @@ gaps:
 ## مسارات التمكين الذاتي
 
 تشجيع النساء على مواجهة الخوف من النجاح وتحمل المسؤولية العاطفية والمالية الكاملة عن حياتهن.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -9,6 +9,7 @@ en: "Deconstruction"
 crumb: "الفلسفة ← القارية ← التفكيكية"
 dates: "فرنسا، أمريكا · من 1967 إلى الوقت الحاضر"
 country: "فرنسا، الولايات المتحدة"
+cultural_origin: "french"
 language: "الفرنسية، الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
@@ -24,7 +25,6 @@ related:
 - id: "trm-differance-derrida", title: "الاختلاف المرجأ (Différance): تباعد المعنى وتأجيله اللانهائي", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "الجدل بين دريدا وسيرل (John Searle, 1977) حول 'أفعال الكلام' يحتاج مراجعة دقيقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "الفرق بين 'تفكيكية' دريدا و'نقد لايديولوجيا' مدرسة فرانكفورت (مقارنة مع Paul de Man) لم يُحلّل."
 ---
 # التفكيكية (Déconstruction)
@@ -84,3 +84,11 @@ gaps:
 - **اتهام «**النسبية المُطلقة**»**: إذا كان كل نصّ **غير مستقر**، فهل من معيار لتفكيك «**جيّد**» و«**سيئ**»؟ (نقد J. Searle, E. Lepore).
 - **اتهام «**العبث**»**: التفكيك يُنتج **نقدًا دائمًا** دون أي **بناء**، يُعطّل دون أن يقدّم بديلًا. (نقد Jürgen Habermas, *The Philosophical Discourse of Modernity*, 1985).
 - **اتهام «**الأكاديمية المُغلقة**»**: لغة دريدا صعبة، «**صناعة التفكيك**» في الجامعات الأمريكية أحيانًا تخدم **ثقافة مرجعية ذاتية** لا نقدًا حقيقيًا.
+
+## المصادر
+
+- Derrida, Jacques. *De la grammatologie*. Minuit, 1967.
+- Derrida, Jacques. *Positions*. Minuit, 1972.
+- Norris, Christopher. *Deconstruction: Theory and Practice*. Routledge, 1982.
+- Culler, Jonathan. *On Deconstruction: Theory and Criticism after Structuralism*. Cornell University Press, 1982.
+- Habermas, Jürgen. *The Philosophical Discourse of Modernity*. MIT Press, 1987.

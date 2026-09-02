@@ -7,21 +7,20 @@ level: "متقدم"
 title: "كواي وايردو"
 en: "Kwasi Wiredu"
 crumb: "الفلسفات الأفريقية ← الفلسفة الأفريقية التأويلية/المهنية ← كواي وايردو"
-dates: "غانا · 1931–2024"
+dates: "غانا · 1931–2022"
 country: "غانا/الولايات المتحدة"
 language: "الإنجليزية/الأكانية (Twi)"
 active_start: 1977
-active_end: 2024
+active_end: 2022
 edges:
 - rel: "belongs_to", target: "sch-african-hermeneutical", target_type: "مدرسة"
 related:
 - id: "thk-ashutte", title: "أوغسطين شَتّ", type: "مفكر"
-- id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"
 - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:
-  - "نصوص Wiredu (Philosophy and an African Culture, Cultural Universals and Particulars) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تفاصيل حواراته المباشرة مع Kwame Gyekye وIfeanyi Menkiti (مناسبات ونصوص محددة) لم تُراجع بدقة كافية للاستشهاد."
+  - "رابط لـ'أكينسولا أكيووو' (thk-rcabrera) أُزيل — الـslug تحت الحجر لعدم مطابقة اسمه (انظر quarantine-minimax.md)."
   - "دُمج معه الملف المكرَّر thk-kwasi-wiredu (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -46,3 +45,9 @@ gaps:
 ## أهم أعماله
 
 الفلسفة والثقافة الأفريقية (Philosophy and an African Culture, 1980) · الكونيات الثقافية والخصوصيات (Cultural Universals and Particulars, 1996) · رفقة في الفلسفة الأفريقية (A Companion to African Philosophy, 2004، مع Gyekye).
+
+## المصادر
+
+- Wiredu, K. (1980). *Philosophy and an African Culture*. Cambridge University Press.
+- Wiredu, K. (1996). *Cultural Universals and Particulars: An African Perspective*. Indiana University Press.
+- Wiredu, K. (ed., 2004). *A Companion to African Philosophy*. Blackwell (مع Gyekye في فصول مشتركة).

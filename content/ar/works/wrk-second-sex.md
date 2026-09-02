@@ -11,6 +11,10 @@ dates: "1949 · سيمون دي بوفوار"
 language: "الفرنسية"
 active_start: 1949
 active_end: 1949
+author: "سيمون دي بوفوار"
+author_slug: "thk-beauvoir"
+publication_year: 1949
+original_language: "الفرنسية"
 edges:
 - rel: "belongs_to", target: "sch-feminism-existential", target_type: "مدرسة"
 related:
@@ -19,7 +23,6 @@ related:
 - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
 gaps:
   - "النص الأصلي Le Deuxième Sexe (1949) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الجنس الثاني (Le Deuxième Sexe, 1949)

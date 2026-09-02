@@ -9,6 +9,7 @@ en: "Somatic Phenomenology"
 crumb: "الفلسفة ← القارية ← الظاهراتية الجسدية"
 dates: "فرنسا، بلجيكا، أمريكا الشمالية · من 1945 إلى الوقت الحاضر"
 country: "فرنسا، بلجيكا"
+cultural_origin: "european"
 language: "الفرنسية، الإنجليزية"
 active_start: 1945
 active_end: "مستمر"
@@ -23,7 +24,6 @@ related:
 gaps:
   - "لا يوجد تعريف 'رسمي' واحد للظاهراتية الجسدية كمدرسة مستقلة؛ المؤلفون يتداخلون مع ظاهراتية الجسد عند مِرلو-پونتي."
   - "العلاقة مع الجسدانية الأنثروبولوجية (Marcel Mauss، Mary Douglas) لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 
 # الظاهراتية الجسدية (Somatic Phenomenology)
@@ -66,3 +66,10 @@ gaps:
 
 - قد تنزلق نحو **مثالية الجسد** معاكسة لمثالية العقل، مع إهمال البُنى الاجتماعية والرمزية.
 - العلاقة مع علم الأعصاب الإدراكي لا تزال في طور التشكّل.
+
+## المصادر
+
+- Merleau-Ponty, Maurice. *Phénoménologie de la perception*. Gallimard, 1945.
+- Henry, Michel. *Incarnation: Une philosophie de la chair*. Seuil, 2000.
+- Gallagher, Shaun. *How the Body Shapes the Mind*. Oxford University Press, 2005.
+- Young, Iris Marion. *Throwing Like a Girl and Other Essays in Feminist Philosophy and Social Theory*. Indiana University Press, 1990.

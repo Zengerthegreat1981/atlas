@@ -12,19 +12,19 @@ country: "فرنسا، الولايات المتحدة"
 language: "الفرنسية، الإنجليزية"
 active_start: 1979
 active_end: "مستمر"
+cultural_origin: "french"
 edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-- id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
-- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+- id: "sch-deconstruction", title: "التفكيكية (Déconstruction)", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 gaps:
   - "ما بعد الحداثة ليست 'مدرسة' بمعنى صارم، بل طيف من المواقف؛ تمييزها عن ما بعد البنيوية صعب."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع فلسفة ريتشارد رورتي (1949+) وتحالفه مع ما بعد الحداثة تحتاج توسعة."
 ---
 
@@ -76,3 +76,11 @@ gaps:
 - **اتهام «**اللامبالاة السياسية**»**: ليوتار (في أعماله اللاحقة) وُصف بـ«**سياسة اللامبالاة**» تجاه الفقر.
 - **اتهام «**عدم الكفاءة المُؤسِّسة**»**: لا يمكن تأسيس **أي شيء** على النقد (نقد Charles Taylor).
 - **مشكلة الواقع**: إذا كان «**الواقع**» نسقًا لغويًا، فكيف نواجه الانفجارات والأوبئة والحروب؟ (نقد Object-Oriented Ontology، Speculative Realism).
+
+## المصادر
+
+- Lyotard, Jean-François. *La Condition postmoderne* (Éditions de Minuit, 1979).
+- Jameson, Fredric. *Postmodernism, or, The Cultural Logic of Late Capitalism* (Duke University Press, 1991).
+- Baudrillard, Jean. *Simulacres et Simulation* (Galilée, 1981).
+- Butler, Judith. *Gender Trouble* (Routledge, 1990).
+- Habermas, Jürgen. *The Philosophical Discourse of Modernity* (MIT Press, 1985).

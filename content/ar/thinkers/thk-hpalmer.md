@@ -12,13 +12,13 @@ active_start: 1986
 active_end: "مستمر"
 part: "philosophy"
 crumb: "تدريبات الوعي الجماهيرية ← أفاتار ← هاري بالمر"
-edges:
-- rel: "belongs_to", target: "EST / Landmark Forum", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-werhard", title: "ويرنر إيرهارد", type: "مفكر"
 gaps:
   - "سنة الميلاد لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد slug مدرسة معتمد في الأطلس لـEST/Landmark Forum؛ حُذف رابط edges.belongs_to بدل استهداف نص حر."
 ---
 
 # هاري بالمر

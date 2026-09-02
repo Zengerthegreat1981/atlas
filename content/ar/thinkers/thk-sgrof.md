@@ -18,18 +18,18 @@ related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-ctart", title: "تشارلز تارت", type: "مفكر"
 - id: "thk-cgrof", title: "كريستينا غروف", type: "مفكر"
-- id: "thk-eugenetaylor", title: "يوجين تايلور", type: "مفكر"
+- id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
 - id: "thk-ahofmann", title: "ألبرت هوفمان", type: "مفكر"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
 - id: "thk-lorr", title: "ليونارد أور", type: "مفكر"
 - id: "crt-scientific-critique-transpersonal", title: "نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات: علم زائف؟", type: "نقد خارجي موثَّق"
 - id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 - id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
-- id: "thk-rmdoblin", title: "ريكاردو دوبلين", type: "مفكر"
+- id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
 gaps:
   - "التفاصيل المتعلقة بالخلاف مع المؤسسة النفسية الأمريكية حول LSD لم تُراجع من مصدر أولي في هذا الملف."
   - "الفصل بين ملاحظاته الإكلينيكية المبكرة وتفسيراته اللاحقة الأكثر ميتافيزيقية يحتاج معالجة مستقلة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر من نصوص غروف قابل للتوثيق بمصدر وصفحة."
   - "دُمج معه الملف المكرَّر thk-stanislav-grof (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -71,3 +71,10 @@ gaps:
 ## مسألة المكانة المؤسسية
 
 ظلّ غروف طوال مسيرته الأكاديمية في وضع هشّ مؤسسياً. بعد تصنيف LSD كمادة محظورة عام 1970، أُنهيت أبحاثه السريرية في الولايات المتحدة، فانتقل إلى العمل في معهد إسيalen وفي مؤسسات خاصة. أسّس عام 2000 مركزاً متخصصاً في أبحاث الوعي تحت مسمى *Holos Institute*. حتى كتابة هذا الملف، لم يُعاد إدراج أبحاثه في القنوات الأكاديمية الرئيسية بالرغم من عودة الاهتمام العلمي بـpsilocybin وMDMA في الألفية الثالثة. تبقى مساهمته أقرب إلى تاريخ الفكر منها إلى الممارسة السريرية اليومية، لكنها مع ذلك مرجع لا غنى عنه لمن يحاول فهم البُعد التجريبي الأول لعلم النفس عبر الشخصي.
+
+## المصادر
+
+- Grof, S. (1975). *Realms of the Human Unconscious: Observations from LSD Research*. Viking Press.
+- Grof, S. (1980). *LSD Psychotherapy*. Hunter House.
+- Grof, S., & Grof, C. (Eds.) (1989). *Spiritual Emergency: When Personal Transformation Becomes a Crisis*. Tarcher.
+- Grof, S. (2000). *Psychology of the Future: Lessons from Modern Consciousness Research*. SUNY Press.

@@ -12,13 +12,17 @@ dates: "2023 · آرثر بروكس، أوپرا وينفري"
 language: "الإنجليزية"
 active_start: 2023
 active_end: 2023
+author: "آرثر بروكس وأوپرا وينفري"
+author_slug: "thk-arthur-brooks"
+publication_year: 2023
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 - rel: "written_by", target: "thk-arthur-brooks", target_type: "مفكر"
 related:
 - id: "thk-arthur-brooks", title: "آرثر بروكس", type: "مفكر"
-- id: "thk-oprah-winfrey", title: "أوپرا وينفري", type: "مفكر"
-- id: "wrk-authentic-happiness", title: "السعادة الحقيقية (سيليجمان)", type: "عمل / كتاب"
+- id: "thk-oprah-winfrey", title: "أوبرا وينفري", type: "مفكر"
+- id: "wrk-authentic-happiness", title: "السعادة الحقيقية: استخدام علم النفس الإيجابي الجديد", type: "عمل / كتاب"
 gaps:
   - "الجذور العلمية (الأبحاث الأصلية لبروكس عن السعادة في Harvard) لم تُوثَّق بدقة في هذا الملف."
   - "الفرق بين 'السعادة المُدركة' و'الرضا الوجودي' كبناءين نفسيين متميزين لم يُحلَّل."

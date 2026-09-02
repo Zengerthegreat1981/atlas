@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← البوذية الحداثية"
 dates: "آسيا، الغرب · من القرن 19 م إلى اليوم"
 country: "سريلانكا، بورما، الهند، أوروبا، أمريكا"
 language: "الإنجليزية، البالي، السنسكريتية"
+cultural_origin: "south-asian"
 active_start: 1860
 active_end: "مستمر"
 edges:
@@ -17,7 +18,7 @@ edges:
 related:
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
 - id: "sch-navayana", title: "بوذية نافايانا", type: "مدرسة"
 - id: "sch-navya-nyaya", title: "نيايا الجديدة (نافيا-نيايا)", type: "مدرسة"
@@ -88,3 +89,9 @@ gaps:
 - **التسطيح**: Anatta لا تعني مجرد «لا هوية»، بل «لا ذات حتى على المستوى الأنطولوجي».
 - **Christianization**: تشبيه بين «Meditation» و «الصلاة» تاريخياً.
 - **Henry Steel Olcott**: ماسوني، Theosophist، الالتحاق بالبوذية كان سياسياً في سياق معاداة التبشير.
+
+## المصادر
+
+- McMahan, D.L. (2008). *The Making of Buddhist Modernism*. Oxford University Press.
+- Lopez, D.S. (2002). *A Modern Buddhist Bible: Essential Readings from East and West*. Beacon Press.
+- Batchelor, S. (1997). *Buddhism Without Beliefs: A Contemporary Guide to Awakening*. Riverhead Books.

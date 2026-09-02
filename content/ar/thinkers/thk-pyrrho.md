@@ -20,8 +20,7 @@ related:
 - id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
 - id: "thk-sextus-empiricus", title: "سكستوس إمبيريكوس", type: "مفكر"
 gaps:
-  - "رحلته مع جيش الإسكندر الأكبر إلى الهند ولقائه بالحكماء العراة (Gymnosophists) وأثرهم على شكه الجذري."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "درجة تأثّر بيرون الفعلية بالحكماء العراة في الهند مسألة موضع نقاش أكاديمي غير محسوم (بيكويذ مقابل منتقديه)."
 ---
 
 # بيرون الإليسي
@@ -44,6 +43,8 @@ gaps:
 
 - لم يكتب شيئاً. مذهبه محفوظ عبر أشعار تلميذه **تيمون الفليوسي** الساخرة، وعند ديوجينس اللائرتي (الكتاب التاسع)، وسكستوس إمبيريقوس، وأوسابيوس نقلاً عن أرستوكليس.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح — لم يكتب بيرون شيئاً.
+- Diogenes Laertius, *Lives of Eminent Philosophers*, Book IX (السيرة والفقرات الحاسمة، بما فيها البرهان الثلاثي عن أرستوكليس).
+- Richard Bett, *Pyrrho, His Antecedents, and His Legacy* (Oxford University Press, 2000).
+- Christopher I. Beckwith, *Greek Buddha: Pyrrho's Encounter with Early Buddhism in Central Asia* (Princeton University Press, 2015).

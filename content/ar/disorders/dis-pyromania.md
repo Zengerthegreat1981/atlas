@@ -12,32 +12,30 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-identifying-core-beliefs-schemas", title: "تحديد المعتقدات الجوهرية والمخططات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوّهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة المُمتعة", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "تدوين اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-crisis-survival-planning", title: "تخطيط البقاء في الأزمات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-crisis-survival-planning", title: "خطة النجاة من الأزمات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
@@ -54,12 +52,19 @@ gaps:
   - "الفاعلية المحدودة للعلاجات النفسية لـ Pyromania (الأبحاث نادرة جداً) لم تُقارَن بدقة من مصدر أولي."
   - "الانتشار الحقيقي لـ Pyromania (يُعتقد أنه نادر جداً) لم يُوثَّق بدقة بسبب وصمة العار."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # هوس إشعال الحرائق
 
 اضطراب في التحكم في الانفعالات يتميز باندفاعية متكررة لإشعال الحرائق، مع شعور بتوتر قبل الفعل وارتياح أثناءه أو بعده. يختلف عن الحرائق المتعمدة الإجرامية (Arson) في غياب الدافع المادي أو الانتقامي أو التخريبي.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين هوس إشعال الحرائق كفئة تشخيصية (فشل متكرر في مقاومة اندفاعية محددة، مع توتر قبلها وارتياح أثناءها) وبين مفهوم 'الحرية' (con-freedom) كما يُطرح في الفلسفة الوجودية، أي القدرة على الاختيار الواعي المسؤول. الاندفاعية القهرية في هذا الاضطراب تُوصف إكلينيكياً بأنها تجربة ذاتية لفقدان التحكم، وهذا مختلف جوهرياً عن السؤال الفلسفي عن حدود الحرية الإنسانية ومسؤوليتها — الأول وصف لعرض سريري، والثاني تأمل في شرط الإنسان ذاته.
 
 ## ملاحظات على المعايير التشخيصية
 

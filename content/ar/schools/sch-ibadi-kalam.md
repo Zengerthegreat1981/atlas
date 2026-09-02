@@ -10,17 +10,16 @@ crumb: "الفلسفة ← الإسلام ← علم الكلام ← الكلا
 dates: "عمان (مظان) وشمال إفريقيا · من القرن 7 م إلى اليوم"
 country: "إمامة عُمان (مازالت قائمة)، ومجموعات في ليبيا وتونس والجزائر وزنجبار"
 language: "العربية"
+cultural_origin: "islamic-arabic"
 active_start: 680
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "sch-zaydi-kalam", title: "الكلام الزيدي", type: "مدرسة"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 gaps:
   - "التفريق بين الإباضية الأوائل (الفرقة الناجية) وبين الإباضية المهيِّئة اللاحقة (الذين شكلوا إمامة عمان) غير واضح في كل المصادر."
-  - "لا يوجد اقتباس مباشر موثوق متاح من كتاب «الدعامة» لأبي عبد الله محمد بن بركة الإباضي."
+  - "لم يُعثر بعد على اقتباس منسوب بدقة من كتاب «الدعامة» لأبي عبد الله محمد بن بركة الإباضي يمكن التحقق منه في هذه المراجعة."
 ---
 
 # الكلام الإباضي
@@ -72,3 +71,10 @@ gaps:
 - **عُمان**: المركز الأساسي، تحوّلوا مع المذهب الحنفي في الفقه في القرن 13 هـ تقريباً، واحتفظوا بأصولهم الكلامية.
 - **شمال إفريقيا**: في جربة (تونس)، غرداية (الجزائر)، غات (ليبيا)، زوارة (ليبيا)، جيوب صغيرة.
 - **زنجبار**: تأثرت بالإباضية العُمانية قديماً، لكنها تكاد تنقرض اليوم.
+
+## المصادر
+
+- Ennami, Amr Khalifa. *Studies in Ibāḍism (Al-Ibāḍiyah)*. Ministry of Turath, Sultanate of Oman, 1972.
+- Wilkinson, John C. *Ibâdism: Origins and Early Development in Oman*. Oxford: Oxford University Press, 2010.
+- Hoffman, Valerie J. *The Essentials of Ibāḍī Islam*. Syracuse: Syracuse University Press, 2012.
+- Ghubash, Hussein. *Oman: The Islamic Democratic Tradition*. New York: Routledge, 2006.

@@ -52,3 +52,8 @@ gaps:
 - رسالة الأنوار
 - كتاب التدبيرات الإلهية
 - مشكاة الأنوار (في الحديث القدسي)
+
+## المصادر
+
+- William C. Chittick, *The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination* (State University of New York Press, 1989).
+- Claude Addas, *Quest for the Red Sulphur: The Life of Ibn 'Arabi* (Islamic Texts Society, 1993).

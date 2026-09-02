@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← فلسفة التكنولوجيا 
 dates: "1953 · مارتن هايدجر"
 language: "الألمانية"
 active_start: 1953
-active_end: 1953
+active_end: 1954
+author: "مارتن هايدجر"
+author_slug: "thk-heidegger-technology"
+publication_year: 1953
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-philosophy-of-technology", target_type: "مدرسة"
 related:

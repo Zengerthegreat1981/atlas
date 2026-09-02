@@ -19,14 +19,13 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
-- id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
 - id: "thk-mbalint", title: "مايكل بالِنت", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفاهيم الموضوع الانتقالي والأم الجيدة بما يكفي والذات الحقيقية والمزيفة تستحق بطاقات مفاهيمية مستقلة."
   - "دُمج معه الملف المكرَّر thk-dwinnicott (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "حُذف رابط related سابق لعمل wrk-listening-projective-identification (عمل لبيون، غير مرتبط بوينيكوت في المتن) — كان تطابقاً خاطئاً."
 ---
 # دونالد وينيكوت
 
@@ -46,3 +45,9 @@ gaps:
 ## أهم أعماله
 
 اللعب والواقع (Playing and Reality, 1971) · عمليات النضج والبيئة الميسرة (The Maturational Processes and the Facilitating Environment, 1965) · الطفل، الأسرة، والعالم الخارجي (The Child, the Family, and the Outside World, 1964).
+
+## المصادر
+
+- Winnicott, D.W. *Playing and Reality*. Tavistock Publications, 1971.
+- Winnicott, D.W. *The Maturational Processes and the Facilitating Environment*. Hogarth Press, 1965.
+- Winnicott, D.W. *The Child, the Family, and the Outside World*. Penguin Books, 1964.

@@ -9,6 +9,10 @@ en: "The Prince by Niccolò Machiavelli"
 crumb: "الفلسفة السياسية الحديثة ← أمهات الأعمال ← الأمير"
 dates: "فلورنسا · 1513 م"
 language: "الإيطالية"
+author: "نيكولو مكيافيلي"
+author_slug: "thk-machiavelli"
+publication_year: 1513
+original_language: "الإيطالية"
 active_start: 1513
 active_end: 1513
 edges:
@@ -17,7 +21,6 @@ related:
 - id: "thk-machiavelli", title: "نيكولو مكيافيلي", type: "مفكر"
 gaps:
   - "تأثير الكتاب في ولادة مفهوم 'مصلحة الدولة العليا' (Raison d'État) في السياسة الأوروبية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الأمير لنيكولو مكيافيلي

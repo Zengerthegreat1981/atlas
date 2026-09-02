@@ -16,7 +16,7 @@ register: "academic"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
-- rel: "developed", target: "نظرية التعلق (Attachment Theory)", target_type: "تيار"
+- rel: "developed", target: "br-attachment-theory", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "تيار"

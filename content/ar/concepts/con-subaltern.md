@@ -16,8 +16,10 @@ related:
 - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
 - id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
 gaps:
-  - "النص التأسيسي Gramsci (Quaderni del Carcere) وSpivak (1988) يحتاجان مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "النص التأسيسي Gramsci (Quaderni del Carcere) وSpivak (1988) يحتاجان مراجعة من المصدر الأولي
+    (الترجمة العربية المتاحة لمقال سبيفاك جزئية وغير موحّدة المصطلحات)."
+  - "لا يوجد ملف con-sati مستقل يوثّق حالة الساتي الهندية المذكورة كنموذج تطبيقي — يستحق مفهوماً
+    منفصلاً بدل الاكتفاء بالإشارة العابرة هنا."
 ---
 
 # التابع (Subaltern)
@@ -39,3 +41,10 @@ gaps:
 - **الماركسي (Guha)**: «التابع» أعمّ من طبقة، ولا يحلّ محل «الصراع الطبقي».
 - **النسوي الكويري (Butler)**: «التابع» ليس «هوية ثابتة» بل «موقع متغير».
 - **ما بعد الحداث (Chakrabarty)**: «التابع» في السياق الهندي يختلف عن «التابع» في السياق الأفريقي.
+
+## المصادر
+
+- Gramsci, Antonio. *Quaderni del Carcere* [كراسات السجن] (كُتبت 1929-1935، نُشرت 1948-1951).
+- Spivak, Gayatri Chakravorty. "Can the Subaltern Speak?" in *Marxism and the Interpretation of Culture* (1988).
+- Guha, Ranajit (ed.). *Subaltern Studies I* (1982).
+- Chakrabarty, Dipesh. *Provincializing Europe* (2000).

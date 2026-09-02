@@ -12,6 +12,7 @@ country: "الصين (جمهورية الصين، تايوان، هونغ كون
 language: "الصينية"
 active_start: 1915
 active_end: "مستمر"
+cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
@@ -56,3 +57,9 @@ gaps:
 
 - تواجه انتقادات من قبل الماوية والشيوعية.
 - تواجه انتقادات بسبب «الليبرالية غير الناضجة» (حقبة سريعة).
+
+## المصادر
+
+- Hu Shih, *The Outline of the History of Chinese Philosophy* (中國哲學史大綱, 1919).
+- Jerome B. Grieder, *Hu Shih and the Chinese Renaissance: Liberalism in the Chinese Revolution, 1917-1937* (Harvard University Press, 1970).
+- Carsun Chang, *The Third Force in China* (Bookman Associates, 1952).

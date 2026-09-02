@@ -16,9 +16,12 @@ edges:
 related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
+- id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
+- id: "con-substance-and-accident", title: "الجوهر والعرض (Substance and Accident)", type: "مفهوم"
 gaps:
   - "تطبيق اللاهوت (التثليث) على الجوهر والعرض موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق."
+  - "هذا الملف مكرر مضموناً مع con-substance-and-accident (الأصل الأرسطي)، يحتاج دمج بشري."
 ---
 
 # الجوهر والعرض (Substance / Accident)
@@ -49,3 +52,9 @@ gaps:
 - **هوبز**: «الجوهر» = الجسم المادي (Materialism).
 - **سبينوزا**: «الجوهر الواحد» = الله، والصفات (Attributes) والأعراض (Modes) ليست إلا تجلياته.
 - **هوسرل**: في «الأفكار» (Ideen I, 1913)، أعاد تعريف الجوهر عبر الـHylé والـMorphé (المادة والصورة عند أرسطو).
+
+## المصادر
+
+- Aquinas, Thomas. *Summa Theologiae*, III, q. 75-77 (على العشاء الرباني والتغيير الجوهري).
+- Fourth Lateran Council (1215), canon 1, on transubstantiation.
+- Descartes, René. *Meditations on First Philosophy* (1641), Meditation III.

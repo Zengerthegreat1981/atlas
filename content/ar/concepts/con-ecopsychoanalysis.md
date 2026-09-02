@@ -10,13 +10,13 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "con-ecopsychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "con-death-instinct", title: "غريزة الموت والدافع التدميري للتحول", type: "مفهوم"
+- id: "syn-eco-anxiety", title: "قلق المناخ (Eco-Anxiety)", type: "متلازمة"
 gaps:
-  - "الأعمال التأسيسية لميغان ماكليلاند وآنِّيت هيلر لم تُراجع بشكل منفصل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الهوية العلمية الدقيقة لكل من فيرنون رينولدز وسوزان سكيدلسكي وتيموثي ويذرز (الخطوط الثلاثة المذكورة في المتن) لم تُراجع أو تُوثَّق بمصدر مؤكد."
 ---
 
 # التحليل النفسي البيئي
@@ -40,6 +40,3 @@ gaps:
 
 يقع بين التحليل النفسي، الفلسفة البيئية، وعلم النفس المناخي (climate psychology).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -58,3 +58,9 @@ gaps:
 - *Bhakti Yoga* (1896).
 - *Jnana Yoga* (1899).
 - *The Complete Works of Swami Vivekananda* (8 مجلدات).
+
+## المصادر
+
+- Swami Nikhilananda, *Vivekananda: A Biography* (Ramakrishna-Vivekananda Center, 1953).
+- Swami Vivekananda, *Complete Works of Swami Vivekananda*, 9 vols. (Advaita Ashrama, 1907–1997).
+- Amiya P. Sen, *Swami Vivekananda* (Oxford University Press, 2000).

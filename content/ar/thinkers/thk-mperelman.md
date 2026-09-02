@@ -13,15 +13,13 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الجنسي (Sex Therapy)", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
 - id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 - id: "thk-vjohnson", title: "فرجينيا جونسون", type: "مفكر"
 - id: "thk-wmasters", title: "وليام ماسترز", type: "مفكر"
 gaps:
-  - "سنة الميلاد تقريبية، تستحق توثيقاً."
-  - "عمله في NY-Presbyterian Hospital وWeill Cornell Medical College يستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد الدقيقة لبيرلمان غير موثّقة في المصادر المتاحة."
 ---
 
 # مايكل بِرِلمان
@@ -54,4 +52,9 @@ gaps:
 ## نقد
 
 - بعض الأوساط النسوية تنتقده على التركيز في إشكاليات الرغبة على الفرد بدلاً من النسق الزوجي/الثقافي.
-- كتاباته أقل انتشاراً بالعربية والإنجليزية منه بالإيطالية في أوقات سابقة.
+
+## المصادر
+
+- Perelman, M. A. (2003). "Sex coaching for physicians: Combination treatment for patient and partner". *International Journal of Impotence Research*, 15(S5).
+- صفحة بيرلمان في NewYork-Presbyterian/Weill Cornell Medicine (doctors.nyp.org/michael-a-perelman-phd).
+- MAP Education & Research Foundation، السيرة المهنية الرسمية (mapedfund.org).

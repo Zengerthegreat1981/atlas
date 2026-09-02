@@ -10,17 +10,18 @@ crumb: "الفلسفة ← الإسلام ← فلسفة ← إخوان الصف
 dates: "البصرة (القرن 10 م)"
 country: "الدولة العباسية (البصرة)"
 language: "العربية"
+cultural_origin: "islamic-arabic"
 active_start: 940
 active_end: 1050
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
-- rel: "belongs_to", target: "الباطنية الإسماعيلية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-ismaili", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
 gaps:
   - "الهوية الحقيقية لمؤلفي رسائل إخوان الصفا لا تزال موضع جدل تاريخي، والفرضية الإسماعيلية هي الأوسع انتشاراً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من الرسائل نفسها."
+  - "لم يُعثر بعد على اقتباس منسوب بدقة من الرسائل نفسها يمكن التحقق منه في هذه المراجعة."
 ---
 
 # إخوان الصفا
@@ -65,3 +66,10 @@ gaps:
 ## الإرث
 
 تُعدّ رسائل إخوان الصفا من أهم نتاج الحضارة العربية الإسلامية، إذ قدّمت موسوعة فلسفية-علمية كاملة قبل أن يُنشر «الشفاء» لابن سينا. أثّرت في الفكر الإسماعيلي والعرفاني والمقاربات الباطنية في الفلسفة الإسلامية.
+
+## المصادر
+
+- Netton, Ian Richard. *Muslim Neoplatonists: An Introduction to the Thought of the Brethren of Purity*. London: George Allen & Unwin, 1982.
+- El-Bizri, Nader (ed.). *Epistles of the Brethren of Purity: The Ikhwān al-Ṣafā' and Their Rasā'il*. Oxford: Oxford University Press, 2008.
+- de Callataÿ, Godefroid. *Ikhwan al-Safa': A Brotherhood of Idealists on the Fringe of Orthodox Islam*. Oxford: Oneworld, 2005.
+- Marquet, Yves. *La philosophie des Ihwan al-Safa'*. Alger: SNED, 1975.

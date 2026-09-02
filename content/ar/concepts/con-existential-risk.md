@@ -12,16 +12,17 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-transhumanism", target_type: "مدرسة"
 related:
-- id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
 - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
+- id: "sch-transhumanism", title: "الإنسانية العابرة (Transhumanism)", type: "مدرسة"
+- id: "wrk-superintelligence-bostrom", title: "الذكاء الخارق (Superintelligence)", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ مقالة Bostrom الأصلية 'Existential Risks' (Journal of Evolution and Technology, 2002)."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد ملف con- أو dbt- موثّق حالياً لمبدأ الحيطة (Precautionary Principle) رغم التقاطع المذكور في المتن."
 ---
 
 # الخطر الوجودي (Existential Risk)
 
-مفهومٌ محوري في فلسفة بوستروم: خطر يَهدد **انقراض الجنس البشري** أو **تدميره الجذري** بشكل لا رجعة فيه.
+مفهومٌ محوري في فلسفة نيك بوستروم، أحد أبرز مفكري **الإنسانية العابرة (Transhumanism)**: خطر يَهدد **انقراض الجنس البشري** أو **تدميره الجذري** بشكل لا رجعة فيه. طوّر بوستروم هذا التحليل بالتفصيل في كتابه **«الذكاء الخارق» (Superintelligence, 2014)**، الذي خصّص فصولاً منه لسيناريوهات الخطر الوجودي الناتج عن الذكاء الاصطناعي الخارق.
 
 ## التمييز النظري
 

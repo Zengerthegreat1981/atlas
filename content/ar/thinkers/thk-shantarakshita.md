@@ -15,8 +15,7 @@ active_end: 788
 edges:
 - rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التسلسل الدقيق لأحداث دعوته إلى التبت مقابل رواية استدعاء بادماسامبهافا يختلف بين المصادر التبتية التاريخية والأسطورية."
 ---
 
 # شانتاراكشيتا
@@ -43,3 +42,9 @@ gaps:
 ## اقتباسات مختارة
 
 «كما يقبل الحكماء الذهب بعد إحراقه وقطعه وحكّه، فكذلك ينبغي أن يُقبل قولي — بالفحص لا بالتوقير.» (منسوب إليه في التقليد التبتي، *تاتفاسامغراها*)
+
+## المصادر
+
+- Shantarakshita, *Tattvasaṃgraha* with Kamalaśīla's *Pañjikā* (trans. Ganganatha Jha, 1937-39). Motilal Banarsidass.
+- Blumenthal, J. (2004). *The Ornament of the Middle Way: A Study of the Madhyamaka Thought of Śāntarakṣita*. Snow Lion.
+- Davidson, R. M. (2005). *Tibetan Renaissance* — على تأسيس دير سامْيِه.

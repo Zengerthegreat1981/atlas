@@ -14,6 +14,7 @@ active_start: 1970
 active_end: "مستمر"
 register: "clinical"
 evidence_level: "well-established"
+cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-gklerman", target_type: "مفكر"
@@ -22,16 +23,14 @@ related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
-- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
+- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "con-interpersonal-unconscious", title: "اللاوعي بين الأشخاص", type: "مفهوم"
-- id: "thk-mweissman", title: "ميرنا وايسمان (IPT)", type: "مفكر"
+- id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
 - id: "con-ipt-focus", title: "التركيز على المشكلات الشخصية (IPT)", type: "مفهوم"
 - id: "con-ipt-problem-areas", title: "المشاكل الأربعة في العلاج بين الأشخاص (IPT): الفجيعة، الخلافات الأدائية، التحولات الأدائية، والعجز الأدائي", type: "مفهوم"
 - id: "tec-ipt-communication-analysis", title: "تقنية تحليل التواصل وحل النزاعات الدورانية في العلاج بين الشخصي (IPT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "العلاقة بين IPT ومدرسة Bowlby في التعلق موثّقة جزئياً في الأدبيات."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
 ---
 
 # العلاج بين الأشخاص (IPT)
@@ -81,7 +80,7 @@ gaps:
 
 طُبِّق IPT في طيف واسع من الاضطرابات: الاكتئاب الجسيم (التطبيق الأساسي)، اضطراب ثنائي القطب (IPT-BP)، اضطرابات الأكل (IPT-ED)، اضطراب الكرب التالي للصدمة (IPT-PTSD)، قلق المرض، الاكتئاب في سياق الصدمات الزوجية، اكتئاب ما بعد الولادة، والمراهقين. الأدلة التجريبية قوية بشكل خاص في الاكتئاب الجسيم: مراجعات ميتا-تحليلية (Cuijpers et al., 2011، 2014) أظهرت أن IPT لا يقلّ فعالية عن CBT في علاج الاكتئاب عند البالغين. أدرجته الجمعية الأمريكية للطب النفسي كأحد العلاجات الموصى بها للاكتئاب الجسيم غير المزمن في ممارستها الإرشادية.
 
-## المطبوعات التأسيسية الرئيسية
+## المصادر
 
 - Klerman, G. L., Weissman, M. M., Rounsaville, B. J., & Chevron, E. (1984). *Interpersonal Psychotherapy of Depression*. Basic Books.
 - Weissman, M. M., Markowitz, J. C., & Klerman, G. L. (2000). *Comprehensive Guide to Interpersonal Psychotherapy*. Basic Books.

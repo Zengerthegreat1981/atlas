@@ -21,8 +21,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'اللامنتمي' (The Outsider, 1956) ومشروع 'الوجودية الجديدة' (New Existentialism) يستحقان إدراجاً في الأعمال."
+  - "لم يُراجَع تفصيل خلافه الفكري مع سارتر وكامو حول مفهوم 'الإرادة' من مصدر أولي بالإنجليزية."
 ---
 
 # كولن ويلسون
@@ -43,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 اللامنتمي (The Outsider, 1956) · الوجودية الجديدة (Introduction to the New Existentialism, 1966) · ما وراء اللامنتمي (Beyond the Outsider, 1965) · عصر الهزيمة (The Age of Defeat, 1959).
+
+## المصادر
+
+- Wilson, C. (1956). *The Outsider*. London: Victor Gollancz.
+- Wilson, C. (1966). *Introduction to the New Existentialism*. London: Hutchinson.
+- Lachman, G. (2016). *Beyond the Robot: The Life and Work of Colin Wilson*. New York: Tarcher Perigee.

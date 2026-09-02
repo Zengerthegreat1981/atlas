@@ -10,16 +10,18 @@ en: "The Magic of Thinking Big"
 crumb: "علم النفس الشعبي والتحفيز القيادي ← الأعمال ← سحر التفكير بصورة أكبر"
 dates: "1959 · ديفيد ج. شوارتز"
 language: "الإنجليزية"
+author: "ديفيد ج. شوارتز"
+author_slug: "thk-david-schwartz"
+publication_year: 1959
+original_language: "الإنجليزية"
 active_start: 1959
 active_end: 1959
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتحفيز القيادي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-david-schwartz", target_type: "مفكر"
 related:
 - id: "thk-david-schwartz", title: "ديفيد ج. شوارتز", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # سحر التفكير بصورة أكبر
@@ -33,7 +35,3 @@ gaps:
 ## بناء الثقة وهزيمة الخوف بالعمل
 
 التأكيد على أن الفعل والحركة هما الترياق الوحيد لهزيمة القلق والتردد.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -15,10 +15,9 @@ active_end: 2010
 edges:
 - rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 related:
-- id: "thk-mohammed-abed-al-jabri", title: "الجابري", type: "مفكر"
+- id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
 gaps:
-  - "مشروع الإسلاميات التطبيقية (Applied Islamics) ونقد العقل الإسلامي وتفكيك 'اللامفكر فيه'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب مباشرة إليه بنصّه الأصلي (لا ترجمة عربية موثّقة) قابل للإيراد هنا."
 ---
 
 # محمد أركون
@@ -45,6 +44,8 @@ gaps:
 - *تاريخية الفكر العربي الإسلامي*.
 - *قضايا في نقد العقل الديني*.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Robert D. Lee, *Overcoming Tradition and Modernity: The Search for Islamic Authenticity* (Westview Press, 1997), الفصل الخاص بأركون.
+- محمد أركون، *الفكر الإسلامي: قراءة علمية*، ترجمة هاشم صالح (بيروت: مركز الإنماء القومي، 1987).
+- Ursula Günther, "Mohammed Arkoun: Towards a Radical Rethinking of Islamic Thought," in *Modern Muslim Intellectuals and the Qur'an*, ed. Suha Taji-Farouki (Oxford University Press, 2004).

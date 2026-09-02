@@ -7,6 +7,10 @@ level: "متقدم"
 title: "كتاب الدافعية والشخصية لأبراهام ماسلو (1954)"
 en: "Motivation and Personality by Abraham H. Maslow"
 crumb: "علم النفس الإنساني والدافعية ← أمهات الأعمال ← الدافعية والشخصية"
+author: "أبراهام ماسلو"
+author_slug: "thk-maslow"
+publication_year: 1954
+original_language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
 edges:

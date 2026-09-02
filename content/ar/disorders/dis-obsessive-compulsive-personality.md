@@ -12,10 +12,9 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "نظام تصنيف"
+- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "نظام تصنيف"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-identifying-core-beliefs-schemas", title: "تحديد المعتقدات الجوهرية والمخططات المعرفية", type: "تقنية/تدخل علاجي"
@@ -25,7 +24,7 @@ related:
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
@@ -34,7 +33,7 @@ related:
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-values-vs-goals-distinction", title: "التمييز بين القيم والأهداف", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-practicing-imperfection", title: "ممارسة اللاتمام", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-practicing-imperfection", title: "ممارسة عدم الكمال", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-mindfulness-of-current-emotion", title: "اليقظة تجاه الانفعال الحالي", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-pros-and-cons", title: "الإيجابيات والسلبيات", type: "تقنية/تدخل علاجي"
@@ -44,13 +43,19 @@ gaps:
   - "التفاصيل الدقيقة للنموذج البُعدي لـ ICD-11 في OCPD (وخصوصاً تمييزه عن OCD كاضطراب منفصل) لم تُراجع من المصدر الأولي."
   - "التداخل بين OCPD وOCD وتداعياته العلاجية لم يُوثَّق بدقة."
   - "الفاعلية النسبية لـ CBT مقابل Short-Term Dynamic Psychotherapy في OCPD لم تُقارَن من مصدر أولي."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الشخصية الوسواسية
 
 اضطراب شخصية يتميز بنمط منتشر من الانشغال بالنظام، الكمالية، الضبط، والترتيب، مع تصلّب في الأداء، وانفتاح محدود على المرونة أو التجريب. يختلف عن OCD في أن الشخص بـOCPD يرى تصرفاته كمناسبة وفعّالة، بينما مريض OCD يرى وساوسه كتدخّلية وغير مرغوبة. يقع تحت Cluster C في DSM-5-TR.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11، دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين الانشغال بالضبط والكمالية في OCPD وبين 'ثنائية التحكم' كما صاغها إبكتيتوس في *الخلاصات* (Enchiridion) (راجع con-dichotomy-of-control) — ثنائية التحكم الرواقية دعوة إلى التمييز الواعي بين ما يخضع لإرادتنا وما لا يخضع لها بغرض تحرير النفس من القلق، بينما OCPD نمط شخصية متصلّب يمتد إلى كل مناحي الحياة (النظام، الكمالية، التخزين، الإنفاق) ويُعيق الإنجاز والعلاقات، وصاحبه غالباً لا يرى فيه مشكلة بل طريقة "صحيحة" للعيش.
 
 ## ملاحظات على المعايير التشخيصية
 

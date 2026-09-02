@@ -16,6 +16,10 @@ edges:
 related:
 - id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
+- id: "thk-athanasius", title: "أثناسيوس الإسكندري", type: "مفكر"
+- id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
+- id: "thk-pseudo-dionysius", title: "ديونيسيوس المجهول (المُنتحل / الإله الزائف)", type: "مفكر"
+- id: "con-ontological-argument-anselm", title: "البرهان الأنطولوجي لوجود الله (Ontological Argument)", type: "مفهوم"
 gaps:
   - "الفرق بين homoousios وhomoiousios (حرف واحد) فتح جدلاً استمر 50 سنة."
   - "لا يوجد اقتباس مباشر موثوق من 'Athanasian Creed'."
@@ -55,3 +59,9 @@ gaps:
 - **النسطورية**: «شخصان» في المسيح (الله والإنسان) — مُنعت في مجمع أفسس.
 - **اليعاقبة**: «طبيعة واحدة» (Monophysitism) — مُنعت في خلقيدونية.
 - **البروتستانت**: احتفظوا بالثالوث، لكن أضافوا «Filioque» الذي يميز الكاثوليك عن الأرثوذكس.
+
+## المصادر
+
+- قانون الإيمان النيقاوي القسطنطيني، 325 م و381 م.
+- توما الأكويني، Summa Theologiae I, qq. 27-43.
+- الشهرستاني، الملل والنحل (نقد الجدل الإسلامي للثالوث).

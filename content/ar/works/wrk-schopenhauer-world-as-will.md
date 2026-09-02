@@ -6,6 +6,10 @@ part: "philosophy"
 level: "متقدم"
 title: "كتاب العالم كإرادة وتمثل لآرثر شوبنهاور (1818)"
 en: "The World as Will and Representation by Arthur Schopenhauer"
+author: "آرثر شوبنهاور"
+author_slug: "thk-schopenhauer"
+publication_year: 1818
+original_language: "الألمانية"
 crumb: "الفلسفة التشاؤمية ← أمهات الأعمال ← العالم كإرادة وتمثل"
 active_start: null
 active_end: "مستمر"
@@ -13,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-pessimism", target_type: "مدرسة"
 related:
 - id: "exp-schopenhauer-frankfurt-isolation", title: "عزلة شوبنهاور في فرانكفورت وصحبته لكلبه وفلسفة الإرادة", type: "خبرة معيشة"
-- id: "thk-schopenhauer", title: "آرثر شوبنهاور", type: "مفكر"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

@@ -9,34 +9,34 @@ crumb: "مدرسة التحليل النفسي ← الناس ← مارغريت
 dates: "كولومبيا · [غير مؤكد]"
 country: "كولومبيا"
 language: "الإسبانية"
-part: "philosophy"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-rrestrepo", title: "رودريغو ريستريبو", type: "مفكر"
-- id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
+part: "psychology"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "**حُجر (سابق، مسجَّل في quarantine-minimax.md):** لا يمكن توثيق هذا المفكر من مصادر أكاديمية رصينة."
 ---
 
-# مارغريتا ميخيا
+# حُجر
 
-محلّلة يونغية كولومبية من ميديلين، رائدة التحليلية «الفنّ–والجنون» في أمريكا اللاتينية.
+**هذا الملف في الحجر.** لا يمكن توثيقه من مصادر أكاديمية رصينة (تم التحقق آب 2026).
 
-## ما أعطته
+**السبب:** الاسم في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-في «Fernando Botero: la gordura como imagen arquetípica» (1995) أجرت «تحليلية أركيتيبية» لفنّ بوتيرو الكولومبي — كيف يصبح «الضخامة» (gordura) تعبيراً عن أركيتيب «الأمّ الكبرى» (نيومان) في سياق أمريكا اللاتينية ما بعد الكولونيالية. كذلك في دراساتها عن «مرسم دومينغو أورتيز» (Medellín، التسعينيات من القرن العشرين) أجرت تحليلية للفنانين المحليين «غير الأكاديميين» (المهووسين) وكيف يخلقون أركيتيبات بديلة.
+**النسخة الأصلية** (ما قبل الحجر، 2026-08-26) محفوظة في:
+`agents_specs/quarantine-minimax-archive/thk-mmejia.md.archived.2026-08-26`
 
-## موقعها من التيار
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل.
 
-«النصف الفنّي» للتحليلية في كولومبيا، مع ر. ريستريبو (الإداري) وC. Vasco (الفلسفي).
+## للمتابعة
 
-## القيد
-موقعها في الذاكرة الدولية ضئيل.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-mmejia.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## أهم أعمالها
+## المصادر
 
-Fernando Botero: la gordura como imagen arquetípica (1995).
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-mmejia.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

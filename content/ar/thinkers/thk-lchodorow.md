@@ -13,7 +13,7 @@ active_start: 1978
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي النسوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مفهوم"
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 
@@ -21,7 +21,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
+  - "edges.belongs_to كان نصاً حراً 'التحليل النفسي النسوي' بدل slug — لا يوجد sch- معتمد بهذا الاسم، فاستُبدل بالمفهوم المطابق con-feminist-psychoanalysis الموجود فعلاً في related."
 ---
 
 # نانسي تشودوروف

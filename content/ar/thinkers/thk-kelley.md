@@ -13,7 +13,7 @@ part: "psychology"
 active_start: 1950
 active_end: 2005
 edges:
-- rel: "belongs_to", target: "العلاج النفسي الجسدي (النيو-رايخي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-vegetotherapy-orgonomy", target_type: "تيار"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"

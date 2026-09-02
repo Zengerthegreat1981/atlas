@@ -15,12 +15,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-gparis", title: "جانيت باريس", type: "مفكر"
+- id: "thk-gparis", title: "جينيت باريس", type: "مفكر"
 - id: "thk-erasmus", title: "دسيديريوس إراسموس", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 - id: "con-soul", title: "النفس", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "دقّة النسب الفكري بين Moore و Hillman — موضع نقاش في الأطلسات المعاصرة."
 ---
 
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 الاعتناء بالنفس (Care of the Soul, 1992) · نفوس مظلمة (Dark Nights of the Soul, 2004) · النفس الخالدة (Ageless Soul, 2016).
+
+## المصادر
+
+- Moore, T. (1992). *Care of the Soul: A Guide for Cultivating Depth and Sacredness in Everyday Life*. HarperCollins.
+- Moore, T. (2004). *Dark Nights of the Soul: A Guide to Finding Your Way Through Life's Ordeals*. Gotham Books.
+- Moore, T. (2016). *Ageless Soul: The Lifelong Journey Toward Meaning and Joy*. St. Martin's Press.

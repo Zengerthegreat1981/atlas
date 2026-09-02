@@ -8,6 +8,8 @@ en: "Freud's Clark University Lectures and the Introduction of Psychoanalysis to
 crumb: "المدرسة الوجودية ← الأحداث التاريخية ← محاضرات فرويد في جامعة كلارك 1909"
 active_start: 1909
 active_end: 1909
+event_date: "1909-09-07"
+event_place: "ورسستر، ماساتشوستس"
 country: "الولايات المتحدة"
 part: "psychology"
 related:

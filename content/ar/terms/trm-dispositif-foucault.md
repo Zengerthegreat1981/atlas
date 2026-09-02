@@ -16,8 +16,8 @@ related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "met-bentham-panopticon", title: "البانوبتيكون", type: "استعارة/مجاز مؤسِّس"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "قراءة أغامبين النقدية لتوسيع فوكو (في «ما الجهاز؟» 2006) — كيف يمدّ المفهوم ليشمل اللغة نفسها كجهاز — غير مفصّلة."
+  - "الفرق الدقيق بين dispositif عند فوكو وassemblage عند دولوز-غواتاري (رغم الترجمة المتقاربة أحياناً) يحتاج فقرة مستقلة."
 ---
 # الجهاز أو المنظومة الإجرائية (Dispositif): شبكة علاقات السلطة والمعرفة
 
@@ -34,3 +34,9 @@ gaps:
 ## الأثر في علم الاجتماع النقدي والطب النفسي
 
 تحليل كيفية تشكل «المريض النفسي» و«المجرم» كمنتجات لأجهزة التشخيص والمراقبة المؤسسية.
+
+## المصادر
+
+- Foucault, Michel. "Le jeu de Michel Foucault" (حوار 1977)، منشور لاحقاً بعنوان "The Confession of the Flesh" في *Power/Knowledge: Selected Interviews and Other Writings 1972-1977*, ed. Colin Gordon, Pantheon, 1980 — التعريف الأشهر للمصطلح بصوت فوكو نفسه.
+- Foucault, Michel. *Surveiller et punir: Naissance de la prison* (المراقبة والعقاب)، 1975 — تطبيق المفهوم على السجن والمستشفى والمدرسة.
+- Agamben, Giorgio. *Che cos'è un dispositivo?* (ما الجهاز؟)، 2006، ترجمة إنجليزية *What Is an Apparatus? And Other Essays*, Stanford University Press, 2009.

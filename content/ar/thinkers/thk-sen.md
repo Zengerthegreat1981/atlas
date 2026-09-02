@@ -21,8 +21,8 @@ related:
 - id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
 - id: "dbt-cosmopolitanism-vs-nationalism", title: "جدل الكوزموبوليتية مقابل القومية", type: "جدل"
 gaps:
-  - "نص The Idea of Justice (2009) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الطبعة الأولى المحددة لنص The Idea of Justice (2009) التي بُني عليها هذا الملخص لم تُثبَّت رقمياً بالصفحة."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
 ---
 
 # أمارتيا سين
@@ -43,3 +43,9 @@ gaps:
 ## أهم أعماله
 
 الاختيار والقياس في رفاهية الفقراء (Choice and Measurement of Poverty, 1981) · الجوع والفعل العام (Poverty and Famines, 1981) · عدم المساواة المعاد فحصها (Inequality Reexamined, 1992) · فكرة العدالة (The Idea of Justice, 2009).
+
+## المصادر
+
+- Sen, A. *Poverty and Famines: An Essay on Entitlement and Deprivation* (1981).
+- Sen, A. *The Idea of Justice* (2009).
+- الأكاديمية السويدية الملكية للعلوم — بيان جائزة نوبل في الاقتصاد 1998.

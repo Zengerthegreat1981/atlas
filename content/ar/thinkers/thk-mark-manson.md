@@ -13,14 +13,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2011
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتنمية الذاتية", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-toxic-positivity", title: "الإيجابية السامة (إنكار المشاعر الصعبة والإلزام بالتفاؤل)", type: "مفهوم"
-- id: "wrk-subtle-art", title: "فن اللامبالاة", type: "عمل / كتاب"
+- id: "wrk-subtle-art", title: "فن اللامبالاة: لعيش حياة تخالف المألوف", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة (sch-) مستقل في الأطلس لـ«علم النفس الشعبي والتنمية الذاتية» يطابق تصنيفه؛ سُجّل في missing-schools.md بدل اختراع رابط belongs_to."
 ---
 
 # مارك مانسون
@@ -52,6 +50,8 @@ gaps:
 - *Everything Is F*cked: A Book About Hope* (2019).
 - *Models: Attract Women Through Honesty* (2011).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Mark Manson, *The Subtle Art of Not Giving a F*ck* (HarperOne, 2016).
+- Mark Manson, *Everything Is F*cked: A Book About Hope* (HarperOne, 2019).
+- السيرة الرسمية على markmanson.net.

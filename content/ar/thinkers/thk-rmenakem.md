@@ -13,13 +13,12 @@ active_start: 2015
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط مقترح إلى ستيفن بورجِس (مؤسس نظرية البولفاغال) لم يُضَف — لا يوجد بعد ملف thk- مستقل له في الأطلس، يحتاج كتابة عبر مسار المسودات."
+  - "سنة ميلاد ميناكم بالتحديد لم تُعثر عليها في المصادر المفحوصة حتى الآن — تحتاج بحثاً إضافياً في سيرته الذاتية أو مقابلاته."
 ---
 
 # ريزما ميناكم
@@ -46,3 +45,9 @@ gaps:
 
 ## القيد
 - **مفهوم "Somatic Abolitionism"** موضع نقاش في الأدبيات الأكاديمية — بين من يراه إسهاماً نظرياً ضرورياً، ومن يراه مثالاً على الخلط بين الخطاب العلاجي والنشاط السياسي.
+
+## المصادر
+
+- Menakem, R. (2017). *My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies*. Central Recovery Press.
+- Menakem, R. (2022). *The Quaking of America: An Embodied Guide to Navigating Our Nation's Upheaval*. Central Recovery Press.
+- صفحة ريزما ميناكم الرسمية (resmaa.com) — السيرة المهنية والبرامج التدريبية.

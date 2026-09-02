@@ -9,6 +9,7 @@ en: "African Decolonial Philosophy"
 crumb: "الفلسفة ← الأفريقية ← الديكولونيالية"
 dates: "أفريقيا، الـDiaspora · من 2000s إلى اليوم"
 country: "متعددة"
+cultural_origin: "african"
 language: "متعددة"
 active_start: 2000
 active_end: "مستمر"
@@ -16,9 +17,9 @@ edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 - rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مظلة"
 related:
-- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-- id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
+- id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
 - id: "thk-cabral", title: "أميليكار كابرال", type: "مفكر"
 - id: "thk-mbembe", title: "أشيل مبيمبي", type: "مفكر"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
@@ -57,3 +58,10 @@ gaps:
 
 - تواجه انتقيدات من الحداثيين (تقليص المعرفة للعرق).
 - تواجه صعوبة في التمييز عن الما بعد الكولونيالية.
+
+## المصادر
+
+- Quijano, A. (2000). "Coloniality of Power, Eurocentrism, and Latin America." *Nepantla: Views from South*, 1(3), 533–580.
+- Mignolo, W. D. (2011). *The Darker Side of Western Modernity: Global Futures, Decolonial Options*. Duke University Press.
+- Maldonado-Torres, N. (2007). "On the Coloniality of Being: Contributions to the Development of a Concept." *Cultural Studies*, 21(2–3), 240–270.
+- Ndlovu-Gatsheni, S. J. (2013). *Coloniality of Power in Postcolonial Africa: Myths of Decolonization*. CODESRIA.

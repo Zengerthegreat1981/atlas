@@ -8,7 +8,7 @@ en: "Simone de Beauvoir"
 crumb: "المدرسة الوجودية ← الناس ← سيمون دي بوفوار"
 dates: "فرنسا · 1908–1986"
 active_start: 1947
-active_end: 1970
+active_end: 1986
 language: "الفرنسية"
 country: "فرنسا"
 part: "philosophy"
@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-- id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
+- id: "dbt-individualism", title: "الفردانية والعمى عن السلطة", type: "جدل"
 - id: "thk-bakewell", title: "سارة بيكويل", type: "مفكر"
 - id: "thk-tarabishi", title: "جورج طرابيشي", type: "مفكر"
 - id: "thk-buytendijk", title: "فريدريك بايتنديك", type: "مفكر"

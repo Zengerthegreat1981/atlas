@@ -8,18 +8,20 @@ en: "Intelligenzprüfungen an Menschenaffen"
 crumb: "علم نفس الـ Gestalt ← الأعمال ← اختبارات ذكاء القردة العليا"
 dates: "1917 · ولفغانغ كوهلر"
 active_start: 1917
-active_end: 1917
+active_end: 1950
 language: "الألمانية"
 part: "psychology"
+author: "فولفغانغ كولَر"
+author_slug: "thk-wkohler"
+publication_year: 1917
+original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "wrk-gestalt-psychology-kohler", target_type: "مدرسة"
-- rel: "authored_by", target: "ولفغانغ كوهلر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-wkohler", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الترجمة الإنجليزية الأولى (1925، Yerkes) هي الأكثر قراءة أكاديمياً — التحقق من دقّتها للنسخة الألمانية الأصلية لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Köhler في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اختبارات ذكاء القردة العليا

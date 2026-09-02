@@ -16,11 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "مسيرتها في جامعة Connecticut Health Center — موضع بحث."
 ---
 
@@ -42,3 +41,8 @@ gaps:
 ## أهم أعمالها
 
 «بروتوكول إدارة الطوارئ المعتمد على الجوائز» (Prize-Based CM, 2000, 2005) · «إدارة الطوارئ في علاج تعاطي المواد» (Contingency Management in Substance Abuse Treatment, 2012) · «إدارة الطوارئ والوقاية من فيروس نقص المناعة البشرية» (HIV CM studies) · «القمار المرضي» (Pathological Gambling, 2005).
+
+## المصادر
+
+- Nancy M. Petry et al., "Give them prizes and they will come: Contingency management for treatment of alcohol dependence", *Journal of Consulting and Clinical Psychology*, 2000.
+- Nancy M. Petry, *Contingency Management for Substance Abuse Treatment: A Guide to Implementing This Evidence-Based Practice*, Routledge, 2012.

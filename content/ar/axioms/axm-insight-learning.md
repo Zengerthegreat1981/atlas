@@ -10,14 +10,12 @@ crumb: "الجشطلتية ← البديهيات التأسيسية ← الت�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "الجشطلتية", target_type: "مدرسة"
-- rel: "formulated_by", target: "فولفجانج كولر", target_type: "مفكر"
+- rel: "relates_to", target: "br-gestalt-berlin", target_type: "فرع"
+- rel: "formulated_by", target: "thk-wkohler", target_type: "مفكر"
 related:
-- id: "thk-wkohler", title: "فولفجانج كولر", type: "مفكر"
+- id: "thk-wkohler", title: "فولفغانغ كولَر", type: "مفكر"
 - id: "axm-holism-gestalt", title: "مبدأ الكلية (Gestalt)", type: "بديهية/مبدأ تأسيسي"
 - id: "tec-problem-solving-therapy", title: "العلاج بحل المشكلات", type: "تقنية/تدخل علاجي"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "نقد 'التعلم بالاستبصار' كظاهرة خاصة بالكلام (Premack) في علم النفس المقارن لم يُمثَّل بعمق."
   - "التمييز بين 'الاستبصار' و'التفكير المنطقي' في علم النفس المعرفي الحديث يحتاج ربطاً."
@@ -25,7 +23,7 @@ gaps:
 
 # التعلم بالاستبصار
 
-البديهية المؤسِّسة في علم النفس المقارن عند كولر: التعلم الحقيقي يحدث عندما يعيد الفرد تنظيم إدراك الموقف ككل فجأة، وليس بالتكرار التدريجي كما تقول السلوكية.
+البديهية المؤسِّسة في علم النفس المقارن عند كولر، وهو أحد مؤسسي مدرسة برلين الجشطالتية (Gestalt، مع فرتهايمر وكوفكا): التعلم الحقيقي يحدث عندما يعيد الفرد تنظيم إدراك الموقف **ككل** فجأة (تطبيقاً لمبدأ الكلية الجشطالتي)، وليس بالتكرار التدريجي كما تقول السلوكية.
 
 ## التعريف
 
@@ -67,3 +65,9 @@ gaps:
 - **صعوبة القياس**: كيف نقيس "إعادة الهيكلة" موضوعياً؟
 - **الحدود اللغوية**: كثير من الباحثين يرون أن الاستبصار مُتدرِّج وليس فجائياً.
 - **القابلية للتعميم**: هل ينطبق فقط على الكلام العليا؟
+
+## المصادر
+
+- Köhler, W. (1917). *Intelligenzprüfungen an Menschenaffen* [منشور بالإنجليزية لاحقاً كـ*The Mentality of Apes*, 1925]. Springer.
+- Köhler, W. (1929). *Gestalt Psychology*. Liveright Publishing.
+- Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. Macmillan. (المرجع المضاد — التعلم بالتجربة والخطأ)

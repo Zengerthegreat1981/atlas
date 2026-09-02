@@ -12,16 +12,14 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-szasz", title: "توماس سازس", type: "مفكر"
+- id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
-- id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المرض النفسي (con-mental-illness)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: دليل DSM (con-dsm)"
-- "المصادر الأولية (Szasz 1961، Foucault 1961، DSM-5 2013) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'المرض النفسي' و'الاختلاف العصبي' (Neurodivergence) في الحركات الحديثة يحتاج فصلاً."
-- "العلاقة بـ'المعايير الثقافية' (Cultural Norms) في تعريف المرض تحتاج توثيقاً."
+  - "المصادر الأولية (Szasz 1961، Foucault 1961، DSM-5 2013) تحتاج مراجعة إضافية للاقتباسات المباشرة."
+  - "الفرق بين 'المرض النفسي' و'الاختلاف العصبي' (Neurodivergence) في الحركات الحديثة يحتاج فصلاً."
+  - "العلاقة بـ'المعايير الثقافية' (Cultural Norms) في تعريف المرض تحتاج توثيقاً."
 ---
 # ما الْمَرَض النَّفْسِيّ؟
 
@@ -38,3 +36,11 @@ gaps:
 ## الِانْتِقَادَات
 
 (1) **حَرَكَة مُنَاصَرَة الْحُقُوق** (Consumer/Survivor Movement، 1970s+): «**مَرَض نَفْسِيّ**» «**وَصْم**» (Stigma). (2) **الِاخْتِلَاف الْعَصَبِيّ** (Neurodiversity، Singer، 1998): «**طِيف**» (Spectrum) «**طَبِيعِيّ**» (Normal) لِـ**«**دِمَاغ**». (3) **النَّقْد النِّسَوِيّ** (Ussher، 1991): «**مَرَض نَفْسِيّ**» «**تَصْنِيف ذُكُورِيّ**» (Male-Coded). (4) **النَّقْد الثَّقَافِيّ** (Kleinman، 1988): «**مَرَض**» «**مُخْتَلِف**» «**ثَقَافِيًّا**» (Culturally Different).
+
+## المصادر
+
+- Szasz, T. *The Myth of Mental Illness*. Harper & Row (1961).
+- Foucault, M. *Folie et Déraison: Histoire de la folie à l'âge classique* (1961).
+- Engel, G. L. "The Need for a New Medical Model: A Challenge for Biomedicine." *Science* 196(4286) (1977).
+- Kleinman, A. *Rethinking Psychiatry: From Cultural Category to Personal Experience*. Free Press (1988).
+- Ussher, J. M. *Women's Madness: Misogyny or Mental Illness?* University of Massachusetts Press (1991).

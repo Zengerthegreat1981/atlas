@@ -11,7 +11,7 @@ dates: "فرنسا · 1922–2002"
 country: "فرنسا"
 language: "الفرنسية"
 active_start: 1960
-active_end: 2000
+active_end: 2002
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
@@ -44,3 +44,9 @@ gaps:
 ## الأثر
 
 أثّر هنري على لوران (Jean-Luc Marion)، على بول ريكور في مرحلته الأخيرة، وعلى فلسفة الدين.
+
+## المصادر
+
+- Henry, M. (1965). *Philosophie et phénoménologie du corps*. Presses Universitaires de France.
+- Henry, M. (1996). *C'est moi la vérité: Pour une philosophie du christianisme*. Seuil.
+- Janicaud, D. (1991). *Le tournant théologique de la phénoménologie française* (يناقش هنري ضمن "المنعطف اللاهوتي" للظاهراتية الفرنسية).

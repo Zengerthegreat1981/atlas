@@ -15,7 +15,6 @@ active_start: 1323
 active_end: 1358
 edges:
 - rel: "belongs_to", target: "sch-ockhamism", target_type: "مدرسة"
-- rel: "developed", target: "الأوكامية / الاسمية", target_type: "مدرسة"
 related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
@@ -41,7 +40,7 @@ gaps:
 
 ### المرحلة الثانية — المعلم في باريس (1340–1351)
 
-درّس غريغوري في **جامعة باريس** كـLecturarius Sententiarum (معلّق على «الجُمل» (Sentences) لِأَمبروزيوس). في 1342 تقريباً، بدأ تأليف **«تعليقاته على الجمل (Lectura super primum et secundum Sententiarum)** — عمله الرئيسي. هنا صاغ موقفه المعرفي (epistemology) وأطروحته حول النعمة.
+درّس غريغوري في **جامعة باريس** كـLecturarius Sententiarum (معلّق على «الجُمل» (Sentences) لبطرس اللومباردي (Peter Lombard)). في 1342 تقريباً، بدأ تأليف **«تعليقاته على الجمل (Lectura super primum et secundum Sententiarum)** — عمله الرئيسي. هنا صاغ موقفه المعرفي (epistemology) وأطروحته حول النعمة.
 
 ### المرحلة الثالثة — العودة إلى إيطاليا (1351–1358)
 

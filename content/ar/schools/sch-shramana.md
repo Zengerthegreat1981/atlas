@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الهند ← المدارس الشرامنية ال
 dates: "الهند · من القرن 6 ق.م إلى القرن 2 ق.م"
 country: "شبه القارة الهندية"
 language: "السنسكريتية، البالي، البراكريت"
+cultural_origin: "indian"
 active_start: -600
 active_end: -200
 edges:
@@ -66,3 +67,10 @@ gaps:
 - مَكْخالِيبوتا (المؤسس الأسطوري للآجيفيكا).
 - مَكَكالي (قائد الشكية في البوذية).
 - براسرافاتا (نسبة البوذية المبكرة).
+
+## المصادر
+
+- Bronkhorst, Johannes. *The Two Traditions of Meditation in Ancient India*. Motilal Banarsidass, 1993.
+- Basham, A. L. *History and Doctrines of the Ājīvikas*. Motilal Banarsidass, 1951.
+- Jaini, Padmanabh S. *The Jaina Path of Purification*. University of California Press, 1979.
+- Warder, A. K. *Indian Buddhism*. Motilal Banarsidass, 1970.

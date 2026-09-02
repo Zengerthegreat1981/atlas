@@ -7,13 +7,13 @@ title: "خوسيه غاوس"
 en: "José Gaos"
 crumb: "المدرسة الوجودية ← الناس ← خوسيه غاوس"
 dates: "إسبانيا / المكسيك · 1900–1969"
-active_start: 1947
+active_start: 1936
 active_end: 1969
 country: "إسبانيا / المكسيك"
 language: "الإسبانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"

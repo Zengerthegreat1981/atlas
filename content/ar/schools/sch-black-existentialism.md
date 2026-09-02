@@ -12,6 +12,7 @@ country: "الولايات المتحدة، الكاريبي"
 language: "الإنجليزية"
 active_start: 1952
 active_end: "مستمر"
+cultural_origin: "african"
 edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
@@ -55,3 +56,10 @@ gaps:
 
 - تواجه انتقادات بسبب التعميم (Fanon أفرز، Gordon حاور).
 - تواجه صعوبة في التحقق التجريبي.
+
+## المصادر
+
+- Fanon, Frantz. *Black Skin, White Masks*. Éditions du Seuil, 1952 (English translation: Grove Press, 1967).
+- Gordon, Lewis R. *Bad Faith and Antiblack Racism*. Humanity Books, 1995.
+- Gordon, Lewis R. *An Introduction to Africana Philosophy*. Cambridge University Press, 2008.
+- West, Cornel. *Race Matters*. Beacon Press, 1993.

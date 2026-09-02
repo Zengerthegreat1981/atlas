@@ -12,18 +12,16 @@ active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-- id: "tec-affirmative-therapy", title: "العلاج التأكيدي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-perspective-taking", title: "أخذ المنظور", type: "تقنية/تدخل علاجي"
+- id: "con-gender-performativity", title: "أداء النوع (الجنوسة الأدائية)", type: "مفهوم"
+- id: "tec-affirmative-therapy", title: "العلاج النفسي التوكيدي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-- id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
-- id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+- id: "tec-supportive-psychotherapy", title: "العلاج النفسي الديناميكي الداعم", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "العلاج الأسري التثقيفي النفسي", type: "تقنية/تدخل علاجي"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-- id: "syn-loneliness-isolation", title: "الوحدة والعزلة", type: "متلازمة"
+- id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
 - id: "dis-gender-identity-disorder-historical", title: "اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (separate criteria for children, adolescents, adults) لم تُراجع من المصدر الأولي."
@@ -34,12 +32,19 @@ gaps:
   - "التداخل مع اضطرابات التوحد النمائي (autism spectrum) في الهوية الجنسية لم يُشرح."
   - "الفئات الثقافية: ثنائية الجنس (intersex)، non-binary، genderqueer في الأطلس."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الهوية الجنسية (Gender Dysphoria)
 
 اضطراب يتميز بتباين ملحوظ بين الهوية الجنسية المُدركة للشخص (gender identity) والجنس المُسنَد له عند الولادة (assigned sex)، مما يؤدي إلى ضائقة كبيرة وضعف في الأداء. تغيير مهم: تم نقله من "الاضطرابات الجنسية" في DSM-IV إلى فصل مستقل في DSM-5 (2013) و DSM-5-TR، لتمييزه عن الميول الجنسية.
+
+## السقف الإكلينيكي
+
+هذا المدخل يلتزم بوصف الفئة التشخيصية `dis-gender-dysphoria` (DSM-5-TR: 302.85 / ICD-11: HA60) معرفياً — تعريفها، معاييرها المعلنة، تاريخ تصنيفها — دون تقديم أي تقييم تشخيصي لحالة فرد بعينه أو توجيه علاجي مباشر. الفصل بين وصف الفئة وتشخيص شخص محدد هو حد هذا المدخل الصارم، وأي قرار إكلينيكي يستلزم تقييماً متخصصاً وجهاً لوجه وفق WPATH SOC v8 (2022).
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين "خلل الهوية الجندرية" كفئة تشخيصية إكلينيكية (ضائقة سريرية موثّقة بمعايير مدة وشدة في DSM-5-TR/ICD-11) وبين con-gender-performativity — مفهوم جوديث بتلر عن الجندر كأداء متكرر يُنتِج تأثير الهوية بدل أن يعبّر عن جوهر سابق له (Gender Trouble، 1990). الأول تصنيف طبي-نفسي عن ضائقة قابلة للقياس، والثاني أطروحة فلسفية-نقدية عن كيفية تشكّل الجندر اجتماعياً وخطابياً بصرف النظر عن وجود أي ضائقة إكلينيكية من عدمه؛ استدعاء بتلر لتفسير أو تبرير أو نفي التشخيص الإكلينيكي خلط بين مستويين مختلفين من التحليل.
 
 ## ملاحظات على المعايير التشخيصية
 

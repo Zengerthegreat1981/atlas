@@ -2,41 +2,41 @@
 slug: "thk-rcasals"
 id: "THK-1792"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "راميرو كاسالس"
 en: "Ramiro Casals"
-crumb: "مدرسة التحليل النفسي ← الناس ← راميرو كاسالس"
-dates: "المكسيك · [غير مؤكد]"
-country: "المكسيك"
-language: "الإسبانية"
-part: "philosophy"
-active_start: null
-active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-dgbarrera", title: "دييغو غارسيا بارّيرا", type: "مفكر"
-- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+part: "psychology"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rcasals.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
+  - "**تصحيح T3.4 (2026-08-27):** الـfrontmatter الأصلي لهذا الملف كان يحتوي بالخطأ على كتلتي YAML متتاليتين (frontmatter مكسور) أبقت edges وrelated القديمة غير المحجورة نشطة آلياً رغم أن جسم الملف يعلن الحجر بوضوح؛ أُعيدت كتابة الـfrontmatter ككتلة واحدة نظيفة متسقة مع حالة الحجر الفعلية."
 ---
 
 # راميرو كاسالس
 
-محلّل يونغي مكسيكي، متخصّص في «تاريخ الطبّ النفسي» في المكسيك وإسبانيا.
+(Ramiro Casals)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rcasals.md.archived.2026-08-26`
 
-في «Mente, Cerebro y Psiquiatría en el México Antiguo» (1990) أجرى أوّل سرد يونغي لتاريخ الطبّ النفسي في أمريكا الوسطى ما قبل الكولومبية (الآزتك، المايا، الزابوتيك)، مع تحليل أركيتيبي للشامانات المحليين (يعرفون بـ Nahual). كذلك أجرى «تحليلية كولونيالية» في دراساته عن «إسحاق بوينافنتورا»، الطبيب النفسي المكسيكي الأوّل (الثلاثينيات من القرن العشرين)، وكيف تعامل مع «الواقع المكسيكي» بأدوات أوروبية. كذلك ألقى محاضرات في IAAP.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-«مؤرِّخ الطبّ النفسي» في سياق أمريكا الوسطى.
+هذا المفكر ورد في مسار MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## القيد
-موقعه في الذاكرة الرسمية ضعيف.
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-## أهم أعماله
+## للمتابعة
 
-Mente, Cerebro y Psiquiatría en el México Antiguo (1990) · دراسات في إسحاق بوينافنتورا.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rcasals.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rcasals.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

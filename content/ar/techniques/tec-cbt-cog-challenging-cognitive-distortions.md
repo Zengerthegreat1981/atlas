@@ -12,18 +12,18 @@ active_start: 1962
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
-- id: "dis-anorexia-nervosa", title: "القهم العصبي (أنوريكسيا)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-premenstrual-dysphoric-disorder", title: "اضطراب ما قبل الطمث الاكتئابي", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "thk-jburns", title: "ديفيد بيرنز", type: "مفكر"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "قائمة التشوهات المعرفية الكاملة لبورنز (2003) وعناوينها الدقيقة تحتاج تحققاً من المصدر الأصلي."
+  - "قائمة التشوهات المعرفية الكاملة لبيرنز (Feeling Good, 1980؛ طبعة منقحة 1999) وعناوينها الإنجليزية الدقيقة لكل بند لم تُراجَع من الطبعة الأصلية هنا."
+  - "المتن يذكر «اضطرابات الأكل» عموماً فقط دون تخصيص أي اضطراب أكل بعينه بالاسم؛ الربط بحالة إكلينيكية محددة (مثل القهم أو النهام) يحتاج شاهداً نصياً أدق قبل إضافته إلى related."
 ---
 
 # تحدّي التشوهات المعرفية

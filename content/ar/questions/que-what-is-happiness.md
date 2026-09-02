@@ -12,16 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "con-hedonic-treadmill", title: "سير اللذة", type: "مفهوم"
-- id: "thk-mseligman", title: "مارتن سِليغْمَن", type: "مفكر"
+- id: "con-hedonic-treadmill", title: "جهاز المشي اللذائذي والتكيف مع السعادة (Hedonic Treadmill)", type: "مفهوم"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: السعادة (con-happiness)"
-- "المصادر الأولية (Aristotle، Mill، Seligman) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'السعادة' (Happiness) و'الرضا' (Satisfaction) و'الاستمتاع' (Enjoyment) يحتاج فصلاً."
-- "العلاقة بين 'السعادة الذاتية' (Subjective Well-Being) و'الازدهار' (Flourishing) تحتاج توثيقاً."
+  - "المصادر الأولية (Aristotle، Mill، Seligman) تحتاج مراجعة."
+  - "الفرق بين 'السعادة' (Happiness) و'الرضا' (Satisfaction) و'الاستمتاع' (Enjoyment) يحتاج فصلاً."
+  - "العلاقة بين 'السعادة الذاتية' (Subjective Well-Being) و'الازدهار' (Flourishing) تحتاج توثيقاً."
 ---
 # ما السَّعَادَة؟
 

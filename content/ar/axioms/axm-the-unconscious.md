@@ -14,10 +14,8 @@ edges:
 - rel: "formulated_by", target: "thk-freud", target_type: "مفكر"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "التمييز بين اللاوعي التحليلي واللاوعي المعرفي العصبي لم يُمثَّل بعمق كافٍ."
   - "نقد فرويد للوعي الزائف (consciousness as epiphenomenon) يحتاج تفصيلاً فلسفياً."
@@ -65,3 +63,11 @@ gaps:
 - **95%** من قرارات الشراء تحدث قبل الوعي (Zaltman 2003).
 - **المعالجة التلقائية** (Automatic Processing) للوجوه والكلمات والأصوات خارج الوعي.
 - **الذاكرة الضمنية** (Implicit Memory): تُؤثِّر في السلوك دون وعي.
+
+## المصادر
+
+- Sigmund Freud, *Die Traumdeutung* (The Interpretation of Dreams), 1900.
+- Sigmund Freud, *Das Ich und das Es* (The Ego and the Id), 1923.
+- Carl Gustav Jung, *The Archetypes and the Collective Unconscious*, 1959 (مجموعة مقالات مبكرة من عشرينيات القرن العشرين).
+- John F. Kihlstrom, "The Cognitive Unconscious", *Science*, 237(4821), 1987.
+- Gerald Zaltman, *How Customers Think: Essential Insights into the Mind of the Market*, Harvard Business School Press, 2003.

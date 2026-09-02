@@ -13,7 +13,7 @@ active_start: 1982
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-te-whare-tapa-wha", target_type: "مفهوم"
 related:
 - id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث", type: "مفكر"
 - id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
@@ -26,7 +26,6 @@ related:
 - id: "thk-sharron-hapai", title: "شارون هاپاي", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي لم يُوثّق."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أنغوس ماكفارلن (thk-angusmacfarlane)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيريل فيربيرن (thk-cherylfairbairn)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جانيس ويليامز (thk-janicewilliams)."
@@ -70,3 +69,8 @@ gaps:
 - *Whaiora: Māori Health Development* (1994).
 - *Mauri Ora: The Dynamics of Māori Health* (2001).
 - *Ngā Matatini: Spaces of Possibility* (العقد الثاني من القرن الحادي والعشرين).
+
+## المصادر
+
+- Mason Durie, "A Maori perspective of health", *Social Science & Medicine*, 1985.
+- Mason Durie, *Whaiora: Maori Health Development*, Oxford University Press, 1994.

@@ -13,13 +13,14 @@ active_start: 1962
 active_end: 2006
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري السياقي متعدد الأجيال", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-contextual-family-therapy", target_type: "تقنية"
 related:
 - id: "thk-boszormenyi", title: "إيفان بوسورميني-ناجي", type: "مفكر"
-- id: "thk-mkerr", title: "مايكل كير", type: "مفكر"
+- id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية"
 gaps:
-  - "السيرة الذاتية الكاملة في Temple وAAMFT لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "السيرة الذاتية الكاملة في Temple وAAMFT لم تُراجع من مصدر أولي."
+  - "لم يُعثر حتى الآن على اقتباس منسوب له موثّق بمصدر وسنة محدَّدين."
+  - "رابط أُزيل: مايكل كير (thk-mkerr) — وريث نظرية بوين، ولا صلة موثّقة له بفرامو مذكورة في متن هذا الملف."
 ---
 
 # جيمس فرامو

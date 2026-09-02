@@ -2,38 +2,45 @@
 slug: "thk-peter-bloom"
 id: "THK-2830"
 type: "مفكر"
-part: "psychology"
-level: "متقدم"
-title: "بيتر بلوم (Peter Bloom)"
-en: "Peter Bloom: Contemporary Psychedelic Therapy Theorist"
-crumb: "علاج بمساعدة المخدرات المخدرة ← مؤسِّسون ← بيتر بلوم"
-dates: "الولايات المتحدة"
-active_start: 2000
-active_end: "مستمر"
+level: "مبتدئ"
+title: "بيتر بلوم"
+en: "Peter Bloom"
+crumb: "الأطلس ← thinkers ← بيتر بلوم"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
-related:
-- id: "thk-rmdoblin", title: "ريكاردو دوبلين", type: "مفكر"
-- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
-- id: "con-psilocybin-depression", title: "العلاج بسيليكيوين للاكتئاب", type: "مفهوم"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "لم تُراجع من نسخة أصلية مباشرة بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الفرق بينه وبين Grof وDoblin يحتاج فصلاً."
+  - "**حُجر 2026-08-26:** لا يمكن توثيق هذا الشخص من مصادر أكاديمية رصينة (تم التحقق آب 2026). النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 1)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-peter-bloom.md.archived.2026-08-26"
 ---
 
-# بيتر بلوم (Peter Bloom)
+# بيتر بلوم
 
-عالم نفس أمريكي معاصر، من أهم المساهمين في «الانعاش» الحديث للعلاج بالمساعدة النفسية (Psychedelic-Assisted Therapy) في الجامعات والمستشفيات الأمريكية في العقد الأول من القرن الحادي والعشرين-العشرينيات من القرن الحادي والعشرين.
+(Peter Bloom)
 
-## الإسهام
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-peter-bloom.md.archived.2026-08-26`
 
-- **تجارب سليكوبين** (Psilocybin Trials، Johns Hopkins، 2006-): مساهم رئيسي في تجارب «سليكوبين» ل«اكتئاب» و«نهاية الحياة» في Johns Hopkins.
-- **Mystical Experience** (2006، Pahnke & Richards & Grof): توثيق تجربي ل«التجارب الصوفية» ك«آلية» تحول في العلاج بالمساعدة النفسية.
-- **Mystical Experience Questionnaire (MEQ30)** (2006): أداة قياس ل«التجارب الصوفية» مساعدة التشخيص.
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل.
 
-## الأهمية
+## ملخص
 
-بلوم مساهم رئيسي في «إعادة» العلاج بالمساعدة النفسية في الألفية الثالثة، بعد دهر من التحريم.
+الاسم في frontmatter الأصلي لا يطابق شخصية أكاديمية حقيقية موثّقة في حقل العلاج بمساعدة المؤثرات العقلية (Psychedelic-Assisted Therapy)، ولا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
+
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-peter-bloom.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-peter-bloom.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

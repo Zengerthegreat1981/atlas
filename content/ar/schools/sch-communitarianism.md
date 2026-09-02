@@ -10,6 +10,7 @@ crumb: "الفلسفة ← السياسية المعاصرة ← الجماعا�
 dates: "أمريكا، بريطانيا، كندا · من 1980s إلى اليوم"
 country: "الولايات المتحدة، بريطانيا، كندا"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1981
 active_end: "مستمر"
 edges:
@@ -17,7 +18,7 @@ edges:
 related:
 - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-- id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
 - id: "con-communitarian-self", title: "الذات المتجذرة", type: "مفهوم"
 - id: "con-recognition-struggle", title: "الاعتراف (النضال من أجله)", type: "مفهوم"
 - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
@@ -59,3 +60,11 @@ gaps:
 
 - انتقاد بأنها تبرر القمع باسم المجتمع.
 - صعوبة تعريف «المجتمع» بشكل ملموس.
+
+## المصادر
+
+- MacIntyre, Alasdair. *After Virtue: A Study in Moral Theory*. University of Notre Dame Press, 1981.
+- Sandel, Michael. *Liberalism and the Limits of Justice*. Cambridge University Press, 1982.
+- Taylor, Charles. *Sources of the Self: The Making of the Modern Identity*. Harvard University Press, 1989.
+- Walzer, Michael. *Spheres of Justice: A Defense of Pluralism and Equality*. Basic Books, 1983.
+- Etzioni, Amitai. *The Spirit of Community: Rights, Responsibilities, and the Communitarian Agenda*. Crown Publishers, 1993.

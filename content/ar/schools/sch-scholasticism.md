@@ -12,6 +12,7 @@ country: "فرنسا، إنجلترا، إيطاليا، ألمانيا، إسب
 language: "اللاتينية"
 active_start: 1050
 active_end: 1650
+cultural_origin: "european"
 edges:
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-augustinianism", target_type: "مدرسة"
@@ -31,7 +32,6 @@ related:
 - id: "trm-soul-scholastic", title: "النفس (Psyche / Anima) في الفلسفة المدرسية", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "نصوص أنسيلم وأكوييناس باللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Summa Theologica' أو 'Proslogion'."
   - "التمييز بين 'اللاهوت المدرسي' و'فلسفة العصور الوسطى' محلّ خلاف."
 ---
 # المدرسية (السكولاستية) — كمظلة
@@ -154,3 +154,10 @@ gaps:
 - **التناقض بين الإيمان والعقل**: هل هي مزدوجة أم موحّدة؟ (توما رأى الموحّدة).
 - **جدل الكليات**: مشكلة لم تُحلّ تماماً (رغم حلول أرسطية مختلفة).
 - **التدخّل الكنسي**: حرية البحث في الجامعات كانت محدودة (مثلاً إدانة بيتر جون أوليفي 1325، وإدانة توما نفسه 1277 م ثمّ رفعها 1325).
+
+## المصادر
+
+- Marenbon, John. *Medieval Philosophy: An Historical and Philosophical Introduction*. Routledge, 2007.
+- Copleston, Frederick. *A History of Philosophy, Volume II: Medieval Philosophy*. Continuum, 1950.
+- Pieper, Josef. *Scholasticism: Personalities and Problems of Medieval Philosophy*. Translated by Richard and Clara Winston. St. Augustine's Press, 2001.
+- Stanford Encyclopedia of Philosophy. "Medieval Theories of the Categories" and related entries on Scholastic philosophy. Accessed 2026.

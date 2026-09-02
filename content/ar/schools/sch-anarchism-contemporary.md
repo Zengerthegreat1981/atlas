@@ -12,6 +12,7 @@ country: "متعددة"
 language: "متعددة"
 active_start: 1968
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "sch-anarchism", target_type: "مدرسة"
 related:
@@ -55,3 +56,10 @@ gaps:
 ## القيد
 
 - تواجه صعوبة في التسيير واسع النطاق، تتهم بـ«الطوباوية».
+
+## المصادر
+
+- Murray Bookchin, *Post-Scarcity Anarchism* (Ramparts Press, 1971).
+- David Graeber, *Fragments of an Anarchist Anthropology* (Prickly Paradigm Press, 2004).
+- Silvia Federici, *Caliban and the Witch: Women, the Body and Primitive Accumulation* (Autonomedia, 2004).
+- David Graeber, *Debt: The First 5,000 Years* (Melville House, 2011).

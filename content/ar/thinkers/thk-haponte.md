@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج الأسري البنيوي ← شخص المعالج ← هاري أبونت"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري البنيوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:
@@ -39,7 +39,7 @@ gaps:
 ## أهم أعماله
 
 - *Bread & Spirit: Therapy with the New Poor — Diversity of Race, Culture, and Values* (1994) — أهم كتبه، وفيه يجادل بأن علاج الأسر الفقيرة لا يُفهم دون إدخال الحرمان المادي والثقافة والدين في التكوين العلاجي نفسه.
-- *The Person of the Therapist Training Model: Mastering the Use of Self* (2016، مع كارين ك. كارلسن).
+- *The Person of the Therapist Training Model: Mastering the Use of Self* (2016، مع كارني كيسيل / Karni Kissil).
 
 ## اقتباسات مختارة
 

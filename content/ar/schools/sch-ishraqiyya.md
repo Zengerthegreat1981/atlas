@@ -12,16 +12,16 @@ country: "الدولة السلجوقية، الإيلخانية، التيمو�
 language: "الفارسية (مع العربية)"
 active_start: 1170
 active_end: 1450
+cultural_origin: "islamic-arabic"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
-- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "thk-sohrevardi", title: "شهاب الدين يحيى السهروردي (شيخ الإشراق)", type: "مفكر"
 gaps:
   - "ما إذا كان ابن سبعين (ت 669 هـ) من الإشراقيين أو منفصلاً عنهم لا يزال موضع جدل."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «حكمة الإشراق»."
 ---
 
 # الإشراقية
@@ -72,3 +72,10 @@ gaps:
 | المراتب | الجوهر والعرض | الأنوار الظلمانية والنورانية |
 | عالم المثال | لا وجود له | حقيقة وجودية |
 | مصدر المعرفة | العقل | الذوق والكشف |
+
+## المصادر
+
+- Ziai, Hossein. *Knowledge and Illumination: A Study of Suhrawardi's Ḥikmat al-Ishrāq*. Scholars Press, 1990.
+- Walbridge, John. *The Science of Mystic Lights: Qutb al-Din Shirazi and the Illuminationist Tradition in Islamic Philosophy*. Harvard University Press, 1992.
+- Walbridge, John. *The Leaven of the Ancients: Suhrawardī and the Heritage of the Greeks*. State University of New York Press, 2000.
+- Corbin, Henry. *En Islam iranien: aspects spirituels et philosophiques*, tome II (Sohrawardî et les Platoniciens de Perse). Gallimard, 1971.

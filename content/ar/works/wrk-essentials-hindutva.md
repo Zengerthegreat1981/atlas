@@ -10,7 +10,11 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← هندوتفا �
 dates: "1923 (ثم طبعة منقّحة 1929) · سافاركار"
 language: "الإنجليزية"
 active_start: 1923
-active_end: 1929
+active_end: 2022
+author: "فيناياك دامودار سافاركار"
+author_slug: "thk-savarkar"
+publication_year: 1923
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-hindutva", target_type: "مدرسة"
 related:

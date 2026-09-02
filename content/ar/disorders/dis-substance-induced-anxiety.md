@@ -12,17 +12,15 @@ active_start: 1987
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي البدني الداخلي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوّهات المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "التكليف المتدرّج بالمهام", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-sac-safe-place", title: "المكان الآمن", type: "تقنية/تدخل علاجي"
@@ -30,20 +28,27 @@ related:
 - id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "متلازمة القلق الحاد", type: "متلازمة"
-- id: "syn-panic", title: "متلازمة الهلع", type: "متلازمة"
+- id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
 - id: "syn-insomnia", title: "متلازمة الأرق", type: "متلازمة"
-- id: "syn-craving-urge", title: "متلازمة الرغبة الشديدة والاندفاع", type: "متلازمة"
+- id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "الفروقات الدقيقة بين DSM-5-TR و ICD-11 في تعريف اضطراب القلق المُحفَّز لم تُراجع من المصدرين الأوليين."
   - "قائمة المواد المُحفِّزة الكاملة في ICD-11 (الفئة 6C4G) لم تُراجع تفصيلياً."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب القلق المُحفَّز بالمواد/الأدوية
 
 اضطراب يتميز بأعراض قلقية شديدة (قلق مفرط، نوبات هلع، قلق مفرط النشاط الجسدي) تنشأ كنتيجة مباشرة لتعاطي مادة نفسية التأثير، أو التسمم بها، أو الانسحاب منها، أو التعرض لدواء علاجي. يميّز هذا التشخيص القلق الذي لا يمكن تفسيره باضطراب قلق مستقل، ويكون فيه التوقيت السببي بين المادة والعرض واضحاً نسبياً.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. ما ورد هنا من مراحل معالجة وتقنيات هو تنظيم معرفي للأدبيات الإكلينيكية، وليس بديلاً عن تقييم طبي/نفسي مؤهَّل لحالة فردية.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب القلق المُحفَّز بالمواد كفئة تشخيصية سببها فسيولوجي محدد (مادة أو دواء) وبين 'القلق' كمفهوم معرفي وعصبي عام (con-anxiety-existential) أو كخبرة إنسانية عابرة — الأول حالة سريرية مشروطة بعلاقة سببية زمنية موثّقة مع مادة بعينها، بينما الثاني وصف أوسع لظاهرة القلق ذاتها بمعزل عن أي سبب دوائي أو مادي.
 
 ## ملاحظات على المعايير التشخيصية
 

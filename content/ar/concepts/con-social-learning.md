@@ -16,7 +16,6 @@ related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
 - id: "con-modeling", title: "النمذجة", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق الدقيق بين نظرية Miller-Dollard الأصلية (1941) ونظرية Bandura المُوسَّعة (1963) — يحتاج تدقيقاً."
 ---
 
@@ -59,3 +58,11 @@ gaps:
 - **علاج الإدمان**: نموذج «الانتكاس كنزاع داخلي» بين الرغبة والمخاطر.
 - **العلاج الأسري**: «الصراع بين الأدوار الاجتماعية» في الأنظمة الأسرية.
 - **البرامج المدرسية**: تعزيز السلوك الاجتماعي الإيجابي عبر النمذجة والعواقب الواضحة.
+
+## المصادر
+
+- Miller, N. E., & Dollard, J. (1941). *Social Learning and Imitation*. Yale University Press.
+- Dollard, J., Miller, N. E., et al. (1939). *Frustration and Aggression*. Yale University Press.
+- Dollard, J., & Miller, N. E. (1950). *Personality and Psychotherapy: An Analysis in Terms of Learning, Thinking, and Culture*. McGraw-Hill.
+- Bandura, A. (1963). *Social Learning and Personality Development*. Holt, Rinehart & Winston.
+- Bandura, A. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Prentice-Hall.

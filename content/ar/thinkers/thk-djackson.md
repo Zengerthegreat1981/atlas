@@ -9,11 +9,11 @@ crumb: "العلاج الأسري الاستراتيجي (Palo Alto/MRI) ← ا�
 dates: "الولايات المتحدة · 1920–1968"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-active_start: 1963
+active_start: 1956
 active_end: 1968
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-strategic-family", target_type: "مدرسة"
 related:
 - id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
@@ -30,7 +30,6 @@ gaps:
 
 - **"قواعد الأسرة"** (Family Rules): الآليات الضمنية التي تحكم التواصل الأسري، وقد طوّرها لاحقاً واتزلاويك وزملاؤه في MRI.
 - **"Conjoint Family Therapy"**: إطار علاج الأسرة معاً.
-- **"The Eternal Triangle"** (مقالات): عن أنماط التفاعل الأسري المستعصية.
 - **تأسيس "Family Process"** كمنبر رئيسي للحقل.
 
 ## موقعه من التيار

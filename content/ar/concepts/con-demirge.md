@@ -15,11 +15,16 @@ edges:
 - rel: "belongs_to", target: "sch-gnosticism", target_type: "مدرسة"
 related:
 - id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
-- id: "thk-valentinus", title: "فالنتينوس", type: "مفكر"
+- id: "thk-valentinus", title: "فالنتينوس (مؤسس الفالنتينية)", type: "مفكر"
 - id: "con-gnosis", title: "الغنوصية (المعرفة الخلاصية)", type: "مفهوم"
+- id: "thk-plato", title: "أفلاطون", type: "مفكر"
+- id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
+- id: "thk-athanasius", title: "أثناسيوس الإسكندري", type: "مفكر"
+- id: "sch-manicheism", title: "المانوية", type: "مدرسة"
 gaps:
   - "مدى تجريد المفهوم في الفلسفة العربية المعاصرة محدود."
   - "لا يوجد تعريف فلسفي حديث موحَّد للديميرجوس في الأدب العربي."
+  - "رفض إيريناوس تطابق الديميرجوس بإله العهد القديم مذكور في المتن، لكن لا يقابله ملف مفكر (thk-irenaeus) في الأطلس؛ لم يُربط."
 ---
 
 # الديميرجوس (صانع العالم المادي)

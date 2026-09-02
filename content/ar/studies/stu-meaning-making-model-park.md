@@ -9,6 +9,11 @@ crumb: "المدرسة الوجودية ← الدراسات والبحوث ← 
 part: "psychology"
 active_start: null
 active_end: "مستمر"
+study_year: 2010
+design: "مراجعة نظرية/تكاملية (integrative review) — ليست دراسة تجريبية مفردة"
+sample_size: ""
+main_finding: "المعنى الكلي (Global Meaning) والمعنى الموقفي (Situational Meaning) يتفاعلان؛ التناقض بينهما يفسّر شدة الضغط النفسي، وعملية 'صنع المعنى' اللاحقة تتنبأ بالتكيّف والنمو ما بعد الصدمة."
+replication_status: "untested"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
@@ -21,6 +26,7 @@ related:
 gaps:
   - "النصوص الأصلية لبارك وأولسون وفولكمن تستحق مراجعة من المصدر الأولي للتفاصيل التجريبية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "sample_size غير قابل للتحديد: النموذج مراجعة نظرية تكاملية تجمع عشرات الدراسات المستقلة ذات العينات المتباينة، وليس دراسة واحدة بعينة محددة."
 ---
 
 # نموذج صنع المعنى (Meaning Making Model)

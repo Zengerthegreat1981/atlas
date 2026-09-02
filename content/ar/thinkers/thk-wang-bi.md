@@ -18,10 +18,10 @@ edges:
 related:
 - id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
 - id: "thk-he-yan", title: "هي يان", type: "مفكر"
+- id: "thk-guo-xiang", title: "قوه شيانغ", type: "مفكر"
 gaps:
-  - "رابط مقترح لـ«غوو شيانغ» (thk-guo-xiang) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التفاصيل الدقيقة لإسهاماته في تفسير 'Yi Jing' (كتاب التحولات) لم تُراجع من طبعة محقّقة هنا."
-  - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "لا نصّ باقٍ بخط وانغ بي نفسه؛ التعليقات المتداولة نُقلت عبر نسخ لاحقة، وتحقيقها النصي محل نقاش بين محققي Wagner وLynn."
   - "هوية الملف: الـslug `thk-wang-bi` يشير إلى Wang Bi (Wang Pi). المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
@@ -51,3 +51,9 @@ gaps:
 - *Laozi Zhu* (老子注، «تعليق على لاو تزو»)، تَفسيره لـ«Dao De Jing».
 - *Zhou Yi Zhu* (周易注، «تعليق على Zhou Yi»)، تَفسيره لـ«Yi Jing» (كتاب التحولات).
 - *Lunyu Shiyi* (论语释疑، «حلّ الشكوك في Lunyu»)، تَفسيره لـ«المحاورات».
+
+## المصادر
+
+- Rudolf G. Wagner, *The Craft of a Chinese Commentator: Wang Bi on the Laozi* (State University of New York Press, 1999).
+- Richard John Lynn (trans.), *The Classic of the Way and Virtue: A New Translation of the Tao-te ching of Laozi as Interpreted by Wang Bi* (Columbia University Press, 1999).
+- Alan K. L. Chan, *Two Visions of the Way: A Study of the Wang Pi and the Ho-shang Kung Commentaries on the Lao-tzu* (State University of New York Press, 1991).

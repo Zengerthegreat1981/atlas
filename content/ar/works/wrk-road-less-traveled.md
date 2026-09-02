@@ -12,14 +12,16 @@ dates: "1978 · م. سكوت بيك"
 language: "الإنجليزية"
 active_start: 1978
 active_end: 1978
+author: "م. سكوت بيك"
+author_slug: "thk-scott-peck"
+publication_year: 1978
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والروحي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-scott-peck", target_type: "مفكر"
 related:
 - id: "thk-scott-peck", title: "م. سكوت بيك", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الطريق الأقل ارتياداً
@@ -37,7 +39,3 @@ gaps:
 ## الأثر الإكلينيكي والشعبي
 
 جمع الكتاب بين صرامة التحليل النفسي الإكلينيكي وعمق الفلسفة الروحية الوجودية.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

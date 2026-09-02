@@ -15,13 +15,12 @@ active_end: 2024
 edges:
 - rel: "belongs_to", target: "sch-african-professional-philosophy", target_type: "مدرسة"
 related:
-- id: "thk-twolofor", title: "تويين فالولا", type: "مفكر"
-- id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
 gaps:
   - "نصوص Hountondji (Sur la philosophie africaine, The Struggle for Meaning) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط لـ'أكينسولا أكيووو' لا يزال مؤجلاً — الـslug الأصلي (thk-rcabrera) تحت الحجر لعدم مطابقة اسمه (انظر quarantine-minimax.md وطلب R-008)."
+  - "رابط لـ'تويين فالولا' (thk-twolofor) أُزيل — الملف المستهدف هوية غير محدَّدة قيد المراجعة (انظر requests-minimax.md R-006)."
   - "دُمج معه الملف المكرَّر thk-paulin-hountondji (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 

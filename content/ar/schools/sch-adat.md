@@ -13,10 +13,10 @@ language: "الجاوية (الأصلية)، الملايوية/الإندوني
 active_start: 1300
 active_end: "مستمر"
 active_source: "lifespan"
+cultural_origin: "southeast-asian"
 edges:
-- rel: "belongs_to", target: "الفلسفة العرفية لجنوب شرق آسيا (مظلة)", target_type: "مظلة"
 related:
-- id: "sch-pancasila", title: "بانتشاسيلا", type: "مدرسة"
+- id: "sch-pancasila", title: "بانتشاسيلا (الفلسفة السياسية الإندونيسية)", type: "مدرسة"
 gaps:
   - "توثيق النصوص الكلاسيكية (Babad Tanah Jawi، Sejarah Melayu) في ضوء الفلسفة العرفية يحتاج مراجعة."
   - "الفصل بين 'أدات' كقانون عرفي وكفلسفة أصيلة (terutama) يستحق بحثاً أعمق."
@@ -74,3 +74,9 @@ gaps:
 - مهدّت لـ**بانتشاسيلا** (1945) في صياغتها الرسمية.
 - تُدرَّس في أقسام «الأنثروبولوجيا القانونية» و«الفلسفة المقارنة» في جامعات جنوب شرق آسيا.
 - في 2000s، أعاد **مستشرقون** (مثل **Brenner** و**Forshee**) و**أكاديميون محليون** (مثل **M. Dawam Rahardjo**) تأطير أدات كـ«فلسفة ما بعد إسلامية» في السياق المعولم.
+
+## المصادر
+
+- Holleman, J. F. (ed.). *Van Vollenhoven on Indonesian Adat Law*. Martinus Nijhoff, 1981 (ترجمة وتلخيص إنجليزي لأعمال Cornelis van Vollenhoven التأسيسية).
+- Ter Haar, B. (trans. E. A. Hoebel & A. A. Schiller). *Adat Law in Indonesia*. Institute of Pacific Relations, 1948.
+- Hooker, M. B. (ed.). *Adat Law in Modern Indonesia*. Oxford University Press, 1978.

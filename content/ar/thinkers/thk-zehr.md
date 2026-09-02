@@ -13,21 +13,13 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العدالة التصالحية", target_type: "تيار"
+- rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
-- id: "thk-erikpearson", title: "إريك پيرسون", type: "مفكر"
-- id: "thk-jacqueline-peart", title: "جاكلين پيرت", type: "مفكر"
-- id: "thk-nancy-harness", title: "نانسي هارنِس", type: "مفكر"
-- id: "thk-tom-cornwell", title: "توم كورنول", type: "مفكر"
 gaps:
-  - "سنة الميلاد تقريبية، لم تُراجع من مصدر أولي."
-  - "مسيرته في Eastern Mennonite University تستحق توثيقاً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إريك پيرسون (thk-erikpearson)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاكلين پيرت (thk-jacqueline-peart)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: نانسي هارنِس (thk-nancy-harness)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: توم كورنول (thk-tom-cornwell)."
+  - "سنة الميلاد (1944) تقريبية، لم تُراجع من مصدر أولي."
+  - "روابط سابقة لثلاثة أسماء (إريك پيرسون، جاكلين پيرت، نانسي هارنِس، توم كورنول) أُزيلت من related — لم تُراجع صلتهم المباشرة بزير من مصدر أولي في هذه الدفعة."
 ---
 
 # هوارد زير
@@ -61,3 +53,9 @@ gaps:
 ## القيد
 - زير ليس عالماً نفسياً، إسهامه في **إطار العدالة** أكثر منه في علم النفس السريري.
 - تطبيق RJ على بعض الجرائم الشديدة يبقى موضع نقاش.
+
+## المصادر
+
+- Zehr, H. (2002). *The Little Book of Restorative Justice*. Good Books.
+- Zehr, H. (1990). *Changing Lenses: A New Focus for Crime and Justice*. Herald Press.
+- صفحة Zehr Institute for Restorative Justice، جامعة Eastern Mennonite (emu.edu/cjp/restorative-justice).

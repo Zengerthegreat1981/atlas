@@ -8,15 +8,19 @@ en: "Existence: A New Dimension in Psychiatry and Psychology"
 language: "الإنجليزية"
 crumb: "المدرسة الوجودية ← الأعمال ← الوجود"
 dates: "1958 · ماي وأنجل وإلنبرغر"
+author: "رولو ماي وإرنست أنجل وهنري إلينبرجر"
+author_slug: "thk-may"
+publication_year: 1958
+original_language: "الإنجليزية"
 active_start: 1958
 active_end: 1958
 part: "philosophy"
 edges:
-- rel: "written_by", target: "ماي وأنجل وإلنبرغر", target_type: "مفكر"
+- rel: "written_by", target: "thk-may", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "thk-angel", title: "إرنست أنجل", type: "مفكر"
 - id: "thk-ellenberger", title: "هنري إلينبرجر", type: "مفكر"
 gaps:

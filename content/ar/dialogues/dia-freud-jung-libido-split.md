@@ -12,12 +12,11 @@ active_end: 1913
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "br-jungian", title: "التحليل النفسي اليونغي", type: "تيار"
+- id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا يوجد اقتباس مباشر من رسائل مؤتمر ميونيخ 1913 (الجلسة الأخيرة التي غادر فيها فرويد) مُدرَج هنا؛ الاعتماد على وصف السياق كما ورد في مراسلات فرويد-يونغ المنشورة."
 ---
 
 # حوار فرويد ويونج: طبيعة الليبيدو وتأسيس علم النفس التحليلي
@@ -35,3 +34,10 @@ gaps:
 ## النتائج المعمارية والتطبيقات اللاحقة
 
 أدت هذه القطيعة في مؤتمر ميونيخ 1913 إلى ولادة «علم النفس التحليلي» المستقل ليونغ، وتعميق فرويد لنظريته الهيكلية (الهو والأنا والأنا الأعلى) وغريزة الموت (ثاناتوس).
+
+## المصادر
+
+- Freud, Sigmund, "On the History of the Psycho-Analytic Movement" (1914), *Standard Edition*, vol. XIV.
+- Jung, Carl G., *Wandlungen und Symbole der Libido* (لاحقاً *Symbols of Transformation*), Franz Deuticke, Wien, 1912.
+- McGuire, William (ed.), *The Freud/Jung Letters*, Princeton University Press, 1974.
+- Jones, Ernest, *The Life and Work of Sigmund Freud*, vol. 2, Basic Books, 1955.

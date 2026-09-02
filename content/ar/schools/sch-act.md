@@ -12,20 +12,13 @@ country: "الولايات المتحدة الأمريكية (جامعة نيف�
 language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "الموجة الثالثة (Third Wave)", target_type: "تيار"
 - rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "evolved_from", target: "السياقلية الوظيفية (Functional Contextualism)", target_type: "تيار"
-- rel: "founded_by", target: "ستيفن هايز", target_type: "مفكر"
-- rel: "founded_by", target: "كليفورد هاريس", target_type: "مفكر"
-- rel: "belongs_to", target: "الموجة الثالثة من الموجات المعرفية-السلوكية (Third Wave)", target_type: "تيار"
-- rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "evolved_from", target: "السياقلية الوظيفية (Functional Contextualism)", target_type: "تيار"
-- rel: "founded_by", target: "ستيفن س. هايز", target_type: "مفكر"
-- rel: "founded_by", target: "كليفورد ن. هاريس", target_type: "مفكر"
+- rel: "founded_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
-- id: "rel-act", title: "القبول والالتزام — الجار المُحرِج", type: "علاقة بين مدرستين"
+- id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-kgwilson", title: "كِلّي غ. ويلسون", type: "مفكر"
 - id: "wrk-liberated-mind", title: "العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك", type: "عمل / كتاب"
@@ -41,6 +34,7 @@ related:
 gaps:
   - "التفاصيل الدقيقة للنشأة في مختبر هايز في أوائل الثمانينيات لم تُراجع من مذكراته الشخصية."
   - "لم يُراجع من مصدر أولي مباشر بعد."
+  - "هوية «كليفورد ن. هاريس» (Clifford N. Harris) كأحد مؤسّسي ACT غير مؤكدة — لا يوجد ملف مفكر له في الأطلس، ولا يظهر هذا الاسم بين المؤسسين المعروفين لـACT (هايز، ستروسال، ويلسون). يحتاج تحققاً من مصدر أولي قبل أي بناء عليه."
   - "الجدل حول أسبقية هايز/لينيهان في تأسيس الموجة الثالثة لم يُوثَّق هنا."
 ---
 # العلاج بالقبول والالتزام (ACT)
@@ -159,3 +153,11 @@ ACT من أكثر علاجات الموجة الثالثة دعماً بالأد
 - Harris, R. (2009). *ACT Made Simple*. New Harbinger. — للبدء.
 - McHugh, L., & Stewart, I. (2012). *The Self and Perspective Taking*. New Harbinger. — للعمق الفلسفي.
 - Törneke, N. (2010). *Learning RFT*. New Harbinger. — لتعلّم RFT.
+
+## المصادر
+
+- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2011). *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change* (2nd ed.). Guilford Press.
+- Hayes, S. C., Follette, V. M., & Linehan, M. M. (Eds.). (2004). *Mindfulness and Acceptance: Expanding the Cognitive-Behavioral Tradition*. Guilford Press.
+- Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). "Acceptance and Commitment Therapy: Model, Processes and Outcomes." *Behaviour Research and Therapy*, 44(1), 1-25.
+- Harris, R. (2009). *ACT Made Simple*. New Harbinger.
+- Association for Contextual Behavioral Science (ACBS) — الموقع الرسمي والمواد التاريخية عن نشأة ACT وRFT.

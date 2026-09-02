@@ -20,10 +20,8 @@ related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-- id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "نظريته في 'العواطف كأحكام وجودية واختيارات مسؤولة' (The Passions, 1976) تستحق إدراجاً مفاهيمياً."
+  - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
 ---
 
 # روبرت سولومون
@@ -43,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-الانفعالات: المشاعر ومعنى الحياة (The Passions, 1976/1993) · من عقلانية إلى وجودية (From Rationalism to Existentialism, 1972) · في حب نيتشه والحكمة الوجودية (Living with Nietzsche, 2003).
+الانفعالات: المشاعر ومعنى الحياة (The Passions: The Myth and Nature of Human Emotion, 1976، أعيدت طبعته 1993) · من عقلانية إلى وجودية (From Rationalism to Existentialism, 1972) · في حب نيتشه والحكمة الوجودية (Living with Nietzsche: What Nietzsche Really Said, 2003).
+
+## المصادر
+
+- Robert C. Solomon, *The Passions: The Myth and Nature of Human Emotion*, Doubleday, 1976 (طبعة منقحة 1993).
+- Robert C. Solomon, *From Rationalism to Existentialism*, Harper & Row, 1972.
+- Robert C. Solomon, *Living with Nietzsche: What Nietzsche Really Said*, Oxford University Press, 2003.

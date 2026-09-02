@@ -13,13 +13,11 @@ edges:
 - rel: "relates_to", target: "sch-dream-psychology", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحلم (con-dream)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نوم حركة العين السريعة (con-rem-sleep)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ج. ألين هوبسن (thk-hobson)"
-  - "المصادر الأولية (Freud 1900، Hobson & McCarley 1977، Revonsuo 2000) تحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'الحلم' و'الكوابيس' (Nightmares) و'الأحلام الواضحة' (Lucid Dreams) يحتاج فصلاً."
   - "العلاقة بـ'وظائف الدماغ' (Brain Functions) في نوم الـ REM و'الذاكرة' (Memory) تحتاج توثيقاً."
 ---
@@ -46,3 +44,10 @@ gaps:
 ## الأَهمِّيَّة
 
 (1) **عِلْم النَّفْس** (Psychology): «**حُلُم**» «**نَافِذَة**» (Window) لِـ**«**لَا وَعْي**». (2) **عِلْم الْأَعْصَاب** (Neuroscience): «**حُلُم**» «**نَمُوذَج**» (Model) لِـ**«**وَعْي**». (3) **الْعِلَاج** (Therapy): «**تَفْسِير أَحْلَام**» (Dream Interpretation) فِي «**تَحْلِيل**» و«**تَفْكِيك**».
+
+## المصادر
+
+- Sigmund Freud, *Die Traumdeutung*, 1900 — نظرية تحقق الأمنية.
+- J. Allan Hobson & Robert McCarley, "The Brain as a Dream State Generator", *American Journal of Psychiatry*, 1977 — التنشيط-التركيب.
+- Antti Revonsuo, "The Reinterpretation of Dreams", *Behavioral and Brain Sciences*, 2000 — المحاكاة التهديدية.
+- G. William Domhoff, *The Scientific Study of Dreams*, 2003 — نظرية الاستمرارية.

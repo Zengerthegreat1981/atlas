@@ -15,18 +15,18 @@ active_end: 1982
 edges:
 - rel: "belongs_to", target: "sch-african-hermeneutical", target_type: "مدرسة"
 related:
-- id: "thk-wiredu", title: "كوسي واويردو", type: "مفكر"
-- id: "thk-hountondji", title: "بولين جنتيل هونتوندي", type: "مفكر"
-- id: "thk-alexis-kagame", title: "ألكسي كاغامِه", type: "مفكر"
-- id: "thk-rcabrera", title: "روبن روميرو كابريرا", type: "مفكر"
+- id: "thk-wiredu", title: "كواي وايردو", type: "مفكر"
+- id: "thk-hountondji", title: "بولين هينتونجي", type: "مفكر"
+- id: "thk-alexis-kagame", title: "ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي)", type: "مفكر"
 - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
-- id: "sch-african-decolonial", title: "الفلسفة الأفريقية ما بعد الاستعمار", type: "مدرسة"
-- id: "con-ubuntu-african-humanism", title: "أوبونتو (الإنسانية الأفريقية)", type: "مفهوم"
+- id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
+- id: "con-ubuntu-african-humanism", title: "أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)", type: "مفهوم"
 gaps:
   - "كتاب 'Decolonizing African Religion' (1990s) صدر بعد وفاته ولم يُنقَّح."
   - "لا توجد ترجمة عربية لـSong of Lawino أو Hare and Hornbill."
   - "علاقته بـWiredu في جامعة لاغوس لم تُوثَّق أكاديمياً."
+  - "رابط سابق لـ'روبن روميرو كابريرا' (thk-rcabrera) أُزيل — الملف المستهدف تحت هذا الـslug يوثّق شخصاً مختلفاً تماماً (أكينسولا أكيووو)، فكان ربطاً خاطئاً من نسخ ولصق."
 ---
 
 # أوكوت بِتِك
@@ -51,12 +51,19 @@ gaps:
 
 - *Song of Lawino* (1966، أكولي 1971).
 - *Hare and Hornbill* (1978).
-- *African Religions in Western Scholarship* (1970، طبعة منقّحة 1991).
+- *African Religions in Western Scholarship* (1970، طبعة منقّحة بعد وفاته صدرت 1991).
 - *Cultural Nationalism in East Africa* (1971).
 - *Decolonizing African Religion: A Short History of African Religions in Western Scholarship* (مخطوط نشر بعد وفاته).
-- *Artist, the Ruler: Essays on Art, Culture, and Values* (1986، نشر بعد وفاته).
+- *Artist, the Ruler: Essays on Art, Culture, and Values* (نشر بعد وفاته سنة 1986).
 
 ## اقتباسات مختارة
 
 > "إنّ الدين الأفريقي لم يَنقُصْه الفلاسفة بل كان الفلاسفة الأفارقة هم من أُقصوا."
 > *(African Religions in Western Scholarship, 1970، ترجمة تقريبية)*
+
+## المصادر
+
+- p'Bitek, O., *Song of Lawino and Song of Ocol* (1966/1970 combined ed.), Heinemann African Writers Series.
+- p'Bitek, O., *African Religions in Western Scholarship* (1970), East African Literature Bureau.
+- Heron, G. A., *The Poetry of Okot p'Bitek* (1976), Heinemann — الدراسة النقدية المرجعية.
+- wa Thiong'o, N., *Decolonising the Mind*, James Currey (نُشر بعد وفاته بسنوات، 1986) — يناقش موقع أوكوت في أدب ما بعد الاستعمار.

@@ -49,3 +49,8 @@ gaps:
 - *Letter to Florina* (شذرات في إيريناوس).
 - *Psalm of the Naassenes* (نشيد الناصينيين، في Hippolytus).
 - *The Valentinian Exposition* (في نجع حمادي أيضاً).
+
+## المصادر
+
+- Irenaeus of Lyon, *Adversus Haereses*, الكتاب الأول (المصدر الرئيسي لتعاليم فالنتينوس).
+- Bentley Layton, *The Gnostic Scriptures*, Doubleday, 1987.

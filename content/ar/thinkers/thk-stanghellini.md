@@ -20,8 +20,7 @@ related:
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "أعماله المعاصرة في الفينومينولوجيا التفسيرية (Hermeneutic Phenomenology) والتشخيص التشاركي تحتاج متابعة مستمرة."
+  - "أعماله بعد 2019 في الفينومينولوجيا التفسيرية (Hermeneutic Phenomenology) والتشخيص التشاركي لم تُدرج بعد بعناوين وسنوات محددة."
 ---
 
 # جوفاني ستانغليني
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 طبيعة غير مجسدة: الفينومينولوجيا والشيزوفرينيا (Disembodied Spirits and Deanimated Bodies, 2004) · الفينومينولوجيا والفلسفة الإكلينيكية (The Oxford Handbook of Phenomenological Psychopathology, 2019) · الجسد المفقود (Lost in Dialogue, 2016).
+
+## المصادر
+
+- Stanghellini, G. (2004). *Disembodied Spirits and Deanimated Bodies: The Psychopathology of Common Sense*. Oxford University Press.
+- Stanghellini, G., Broome, M., Raballo, A. et al. (eds.) (2019). *The Oxford Handbook of Phenomenological Psychopathology*. Oxford University Press.
+- Stanghellini, G. & Rosfort, R. (2013). *Emotions and Personhood: Exploring Fragility, Making Sense of Vulnerability*. Oxford University Press.

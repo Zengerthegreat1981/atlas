@@ -10,10 +10,9 @@ crumb: "الفلسفة ← السياسية المعاصرة ← المحافظ�
 dates: "بريطانيا، أمريكا، أوروبا · من 1790s إلى اليوم"
 country: "بريطانيا، ألمانيا، أمريكا"
 language: "الإنجليزية، الألمانية، الفرنسية"
+cultural_origin: "anglo-american"
 active_start: 1790
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
 - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
 gaps:
@@ -59,3 +58,11 @@ gaps:
 ## القيد
 
 - تواجه انتقادات للتبرير اللاحق للامساواة القائمة.
+
+## المصادر
+
+- Burke, Edmund. *Reflections on the Revolution in France*. 1790.
+- Oakeshott, Michael. *Rationalism in Politics and Other Essays*. Methuen, 1962.
+- Scruton, Roger. *The Meaning of Conservatism*. Penguin, 1980.
+- Strauss, Leo. *Natural Right and History*. University of Chicago Press, 1953.
+- Hayek, Friedrich A. *The Constitution of Liberty*. University of Chicago Press, 1960.

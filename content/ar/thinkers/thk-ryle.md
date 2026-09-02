@@ -17,13 +17,9 @@ edges:
 related:
 - id: "tec-cat", title: "العلاج المعرفي التحليلي (CAT)", type: "تقنية/تدخل علاجي"
 - id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"
-- id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
   - "سنة الميلاد والسنوات الدقيقة لعمله في مستشفى غايز (Guy's Hospital) وفي تطوير CAT لم تُراجع من مصدر أولي."
   - "علاقته الشخصية والفكرية مع المعالج النفسي الأمريكي روبرت ليبورسكي تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أنتوني رايل
@@ -43,3 +39,9 @@ gaps:
 - العلاج المعرفي التحليلي: المنهج النشط (Cognitive Analytic Therapy: Active Methodology, 1990).
 - مقدمة في CAT: التطوير والتطبيق (Introducing CAT, 1995) مع ماري بارنز.
 - مذكرات CAT (CAT Practitioner, 2001) —مجلة رسمية للجمعية.
+
+## المصادر
+
+- Ryle, Anthony. *Cognitive Analytic Therapy: Active Participation in Change*. Chichester: John Wiley & Sons, 1990.
+- Ryle, Anthony, and Ian B. Kerr. *Introducing Cognitive Analytic Therapy: Principles and Practice*. Chichester: John Wiley & Sons, 2002.
+- Association for Cognitive Analytic Therapy (ACAT) — سجل تأسيس الجمعية والسيرة المهنية لأنتوني رايل.

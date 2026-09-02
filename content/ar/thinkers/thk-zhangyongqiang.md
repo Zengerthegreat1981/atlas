@@ -2,45 +2,44 @@
 slug: "thk-zhangyongqiang"
 id: "THK-2797"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "تشانغ يونغ تشيانغ"
 en: "Zhang Yongqiang"
-crumb: "الطاوية المعرفية ← تطوير ← تشانغ يونغ تشيانغ"
-dates: "الصين · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← تشانغ يونغ تشيانغ"
+dates: "الصين · [غير مؤكد]"
 country: "الصين"
 language: "الصينية"
-active_start: 2000
-active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
-related:
-- id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
-- id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** لا يمكن توثيق هذا الاسم من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 1)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-zhangyongqiang.md.archived.2026-08-26"
 ---
 
 # تشانغ يونغ تشيانغ
 
-عالم نفس صيني وُصف بأنه من أهم المساهمين في **العلاج المعرفي الطاوي** (Taoist Cognitive Therapy) إلى جانب تشانغ يالين.
+(Zhang Yongqiang)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-zhangyongqiang.md.archived.2026-08-26`
 
-- تطوير **بروتوكولات تطبيقية** للعلاج المعرفي الطاوي في علاج الاكتئاب والقلق في السياقات الصينية.
-- مساهمات في **التجارب المعشاة** التي اختبرت فعالية النهج الطاوي في علاج اضطرابات المزاج.
-- أبحاث في **التقارب الفلسفي** بين الطاوية والعلاج المعرفي السلوكي.
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-يقع تشانغ يونغ تشيانغ في **القلب الأكاديمي** لمدرسة العلاج المعرفي الطاوي، إذ يتعاون مع مؤسِّسها تشانغ يالين في تطوير الأطر النظرية والتطبيقية، ويُسهم في ترويج النموذج دولياً.
+لم يُعثر على توثيق أكاديمي مستقل يطابق الاسم في frontmatter عند مراجعة 2026-08-26.
 
-## أهم أعماله
+## للمتابعة
 
-- أبحاث منشورة في مجلات مثل *Journal of Affective Disorders* و*Frontiers in Psychology*.
-- فصول في كتب عن العلاج النفسي الصيني.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-zhangyongqiang.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-zhangyongqiang.md.archived.2026-08-26`

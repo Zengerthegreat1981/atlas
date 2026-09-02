@@ -11,17 +11,20 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: null
 active_end: "مستمر"
+author: "روبرت ستولورو، جورج أتوود، وبرنارد براندشافت"
+author_slug: "thk-stolorow"
+publication_year: 1992
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-stolorow", target_type: "مفكر"
 - rel: "authored_by", target: "thk-georgeatwood", target_type: "مفكر"
-- rel: "authored_by", target: "برنارد برندشافت", target_type: "مفكر"
+- rel: "authored_by", target: "thk-brandchaft", target_type: "مفكر"
 related:
 - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
 - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
 - id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

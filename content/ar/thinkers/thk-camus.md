@@ -8,7 +8,7 @@ en: "Albert Camus"
 crumb: "المدرسة الوجودية ← الناس ← ألبير كامو"
 dates: "فرنسا · 1913–1960"
 active_start: 1942
-active_end: 1951
+active_end: 1960
 language: "الفرنسية"
 country: "فرنسا"
 part: "philosophy"

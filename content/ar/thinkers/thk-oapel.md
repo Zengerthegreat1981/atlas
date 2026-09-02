@@ -11,20 +11,20 @@ dates: "ألمانيا · 1922–2017"
 country: "ألمانيا"
 language: "الألمانية"
 active_start: 1960
-active_end: 2015
+active_end: 2017
 edges:
 - rel: "belongs_to", target: "sch-hermeneutics-critical", target_type: "مدرسة"
 related:
-- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
+- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", type: "مدرسة"
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة للعلاقة بين آبل وهابرماس (تحالف ثم انقسام) لم تُحلّل."
-  - "لا يوجد اقتباس مباشر موثوق من 'تحوّل الفلسفة' (1973)."
+  - "عنوان 'Fukushima und die Ethik des Diskurses' (2016) المذكور ضمن أعماله لم يُتحقق منه من نسخة أولية مباشرة."
 ---
 
 # كارل-أوتو آبل
 
-فيلسوف ألماني، أستاذ في جامعة كيبيلنتس في فرانكفورت، من أهم ممثلي «الهرمنيوطيقا النقدية» ومنظّري «أخلاقيات الخطاب».
+فيلسوف ألماني، أستاذ في جامعة غوته بفرانكفورت (منذ 1972، بعد أن درّس سابقاً في جامعة زارلاند)، من أهم ممثلي «الهرمنيوطيقا النقدية» ومنظّري «أخلاقيات الخطاب».
 
 ## ما أعطاه
 
@@ -44,3 +44,9 @@ gaps:
 ## الأثر
 
 أثّر آبل على هابرماس (موقف أساسي لأخلاقيات الخطاب)، وعلى بيبر (Klaus Günter) وعلى نقاشات ما بعد الحداثة في ألمانيا.
+
+## المصادر
+
+- Apel, Karl-Otto. *Transformation der Philosophie*. 2 Bde. Suhrkamp, 1973؛ ترجمة إنجليزية جزئية *Towards a Transformation of Philosophy*، Routledge, 1980.
+- Apel, Karl-Otto. *Diskurs und Verantwortung: Das Problem des Übergangs zur postkonventionellen Moral*. Suhrkamp, 1988.
+- Stanford Encyclopedia of Philosophy, "Karl-Otto Apel".

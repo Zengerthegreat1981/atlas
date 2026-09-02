@@ -12,8 +12,7 @@ active_start: 1882
 active_end: 1919
 part: "philosophy"
 crumb: "التنويم والإيحاء ← مدرسة نانسي ← هيبوليت برنهايم"
-edges:
-- rel: "belongs_to", target: "الماسمرية (Mesmerism)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
 - id: "thk-charcot", title: "جان مارتان شاركو", type: "مفكر"

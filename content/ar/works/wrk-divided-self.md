@@ -11,12 +11,16 @@ dates: "1960 · لاينغ"
 active_start: 1960
 active_end: 1960
 part: "philosophy"
+author: "ر. د. لاينغ"
+author_slug: "thk-laing"
+publication_year: 1960
+original_language: "الإنجليزية"
 edges:
-- rel: "written_by", target: "لاينغ", target_type: "مفكر"
+- rel: "written_by", target: "thk-laing", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-laing", title: "لاينغ", type: "مفكر"
-- id: "dbt-laing", title: "خصومة الذهان", type: "جدل"
+- id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"

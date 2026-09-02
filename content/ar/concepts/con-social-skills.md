@@ -12,13 +12,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-jcurran", title: "جوزيف كورّان", type: "مفكر"
-- id: "thk-rlindsl", title: "أورغن ليندزلي", type: "مفكر"
-- id: "con-modeling", title: "النمذجة", type: "مفهوم"
-- id: "tec-animal-assisted-therapy", title: "العلاج بمساعدة الحيوانات (AAT)", type: "تقنية/تدخل علاجي"
+- id: "thk-jcurran", title: "جوزيف ب. كورّان", type: "مفكر"
+- id: "thk-rlindsl", title: "أورغن ر. ليندزلي", type: "مفكر"
+- id: "con-modeling", title: "النمذجة (التعلم بالملاحظة)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الفرق بين Social Skills و Assertiveness و Communication Skills — موضع بحث."
+  - "الفرق الدقيق بين Social Skills وAssertiveness وCommunication Skills كتصنيفات متداخلة — موضع بحث."
 ---
 
 # المهارات الاجتماعية (تدريب)

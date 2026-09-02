@@ -7,8 +7,8 @@ title: "هنري إلينبرجر"
 en: "Henri F. Ellenberger"
 crumb: "المدرسة الوجودية ← الناس ← هنري إلينبرجر"
 dates: "كندا (أصل سويسري) · 1905–1993"
-active_start: 1970
-active_end: 1970
+active_start: 1950
+active_end: 1993
 language: "الفرنسية"
 country: "سويسرا / كندا"
 part: "philosophy"

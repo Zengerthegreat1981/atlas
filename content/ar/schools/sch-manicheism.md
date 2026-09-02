@@ -10,11 +10,11 @@ crumb: "الفلسفة ← الشرق الأدنى القديم ← المانو
 dates: "إيران / بلاد فارس ← امتد عالمي · من القرن 3 م إلى القرن 14 م"
 country: "إيران الساسانية، امتدت إلى الشام ومصر وشمال أفريقيا وأوروبا وآسيا الوسطى والصين"
 language: "البهلوية، السريانية، اللاتينية، القبطية، الفارسية الوسطى، التركية، الصينية"
+cultural_origin: "islamic-arabic"
 active_start: 240
 active_end: 1400
 edges:
 - rel: "evolved_from", target: "sch-zurvanism", target_type: "مدرسة"
-- rel: "evolved_from", target: "المسيحية السريانية", target_type: "مدرسة"
 related:
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
 - id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
@@ -60,3 +60,10 @@ gaps:
 - أثّرت في: الغنوصية، الباطنية الإسلامية، البوجوميل، الكاثارية، بعض تيارات البوذية في الصين.
 - اضطُهدت كهرطقة من المسيحية، وطُردت من بلاد فارس، لكن استمرت لقرون.
 - مثّلت أقدم محاولة لصياغة ديانة عالمية صريحة.
+
+## المصادر
+
+- Lieu, Samuel N. C. *Manichaeism in the Later Roman Empire and Medieval China* (1985).
+- Gardner, Iain and Lieu, Samuel N. C. (eds.). *Manichaean Texts from the Roman Empire* (2004).
+- Augustine of Hippo. *Confessions* (397-400 م) — شهادة أوغسطين على تجربته المانوية.
+- BeDuhn, Jason David. *The Manichaean Body: In Discipline and Ritual* (2000).

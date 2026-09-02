@@ -12,8 +12,7 @@ country: "الدولة العباسية (فارس / العراق)"
 language: "العربية"
 active_start: 890
 active_end: 925
-edges:
-- rel: "belongs_to", target: "الفلسفة الطبيعية والطب النفسي الإسلامي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
 - id: "thk-al-kindi", title: "الكندي", type: "مفكر"

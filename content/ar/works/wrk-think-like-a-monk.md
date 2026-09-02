@@ -12,14 +12,16 @@ dates: "2020 · جاي شيتي"
 language: "الإنجليزية"
 active_start: 2020
 active_end: 2020
+author: "جاي شيتي"
+author_slug: "thk-jay-shetty"
+publication_year: 2020
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي واليقظة الذهنية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-jay-shetty", target_type: "مفكر"
 related:
 - id: "thk-jay-shetty", title: "جاي شيتي", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # فكر كراهب: درب عقلك على السلام والهدف كل يوم
@@ -34,6 +36,3 @@ gaps:
 
 تمارين التنفس الواعي وتفكيك انتفاخ الأنا النرجسي.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

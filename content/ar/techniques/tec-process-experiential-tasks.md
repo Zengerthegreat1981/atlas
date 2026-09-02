@@ -9,26 +9,29 @@ crumb: "الإنسانية ← التقنيات ← المهام العلاجي�
 part: "psychology"
 active_start: null
 active_end: "مستمر"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "formulated_by", target: "ليزا فيرلي غرينبرغ", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-lgreenberg", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-lrice", target_type: "مفكر"
 related:
-- id: "thk-greenberg-lisa", title: "ليزا فيرلي غرينبرغ", type: "مفكر"
-- id: "thk-rice", title: "روبرت رايس", type: "مفكر"
+- id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
+- id: "thk-lrice", title: "لورا نورين رايس", type: "مفكر"
 - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "wrk-greenberg-emotion-focused-therapy", title: "كتاب العلاج الموجه بالانفعال لليزلي غرينبرغ (2002)", type: "عمل"
 gaps:
-  - "التمييز بين 'المهام العلاجية بالانفعال' (EFT) و'تقنيات العلاج الانفعالي-التجريبي' (PE) يحتاج تحقق."
-  - "لا يوجد اقتباس مباشر موثوق من غرينبرغ أو رايس بعد."
+  - "الملف يحمل نوعين مختلفين من الرابط لنفس الشخص (thk-greenberg-lisa وthk-lgreenberg) — كلاهما معتمد في الأطلس تحت نفس الاسم ليزلي س. غرينبرغ (كندا، 1945)؛ هذا ازدواج slug في الأطلس نفسه يحتاج مراجعة من المشرف على thinkers لدمج أو حذف أحدهما، وليس خطأ في هذا الملف تحديداً."
+  - "دراسة محكمة بالاسم والسنة تقارن فعالية 'كرسي الفارغ' أو 'حوار الكرسيين' مقابل ضبط نشط لم تُراجع من مصدر أولي."
 ---
 
 # المهام العلاجية بالانفعال (Emotion-Focused Tasks)
 
-مجموعة من التدخلات العلاجية النوعية طوّرتها ليزا غرينبرغ وروبرت رايس في سياق «العلاج الانفعالي-التجريبي» (Process-Experiential Therapy)، تقوم على استخدام الانفعال كقوة محركة للتغيير بدلاً من معالجته أو تفسيره.
+مجموعة من التدخلات العلاجية النوعية طوّرتها **ليزلي س. غرينبرغ** و**لورا نورين رايس** في سياق «العلاج الانفعالي-التجريبي» (Process-Experiential Therapy)، تقوم على استخدام الانفعال كقوة محركة للتغيير بدلاً من معالجته أو تفسيره.
 
 ## التعريف
 
-طوّرت غرينبرغ ورايس هذه «المهام» (Tasks) في كتاب *Changing Emotion with Emotion* (2002)، انطلاقاً من ملاحظة أن العملاء في العلاج المتمركز حول العميل لا يتحركون دائماً «بوتيرتهم الطبيعية» دون تدخلات نوعية. المهام تقدم تدخلات منظمة تنشيطية.
+طوّرت غرينبرغ ورايس هذه «المهام» (Tasks) في كتاب *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings* (2002)، انطلاقاً من ملاحظة أن العملاء في العلاج المتمركز حول العميل لا يتحركون دائماً «بوتيرتهم الطبيعية» دون تدخلات نوعية. المهام تقدم تدخلات منظمة تنشيطية.
 
 ## أهم المهام
 
@@ -45,7 +48,7 @@ gaps:
 - مثال: «ما أتمنى لو قلته لك هو...»، «الجزء مني الذي يخفي...».
 
 ### 4. التركيز التجريبي (Experiential Focusing)
-- تطبيق تقنية جندلين داخل الجلسة.
+- تطبيق تقنية **يوجين جندلين** داخل الجلسة، مستمدة من كتابه *Focusing* (1978).
 - الانتباه للإحساس المحسَّس.
 
 ### 5. التعاطف مع الذات المنقسمة (Self-Empathy)
@@ -58,14 +61,16 @@ gaps:
 
 - **الانفعال كمصدر للمعنى**: ليس عائقاً يجب تخطيه.
 - **التنشيط** (Activation): الانفعالات المهمة تُستثار أولاً قبل معالجتها.
-- **التنظيم** (Regulation): بعد التنشيط، يأتي التنظيم (Regulation).
+- **التنظيم** (Regulation): بعد التنشيط، يأتي التنظيم.
 - **التحول** (Transformation): الانفعال المُعالج يتحول إلى «انفعال تحويلي» (Transformational Emotion).
 
-## الفرق عن العلاج المتمركز حول العميل (الكلاسيكي)
+## الفرق عن العلاج المتمركز حول العميل الكلاسيكي
 
-- روجرز (1951): المعالج يتبع العميل، قليل التدخل المباشر.
-- غرينبرغ/رايس (2002): المعالج يقدم تدخلات نوعية نشطة.
+- **كارل روجرز** (1951): المعالج يتبع العميل، قليل التدخل المباشر.
+- غرينبرغ ورايس (2002): المعالج يقدم تدخلات نوعية نشطة، وهو ما يميّز المهام هذه عن أصلها الروجرزي رغم اشتراكهما في المدرسة الإنسانية.
 
-## المصدر
+## المصادر
 
-العرض المنهجي: *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings* (2002). التطويرات اللاحقة: *Emotion-Focused Therapy of Depression* (2006) و*Emotion-Focused Therapy* (2015).
+- Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change: The Moment-by-Moment Process*. Guilford Press.
+- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning Emotion-Focused Therapy: The Process-Experiential Approach to Change*. American Psychological Association.
+- Greenberg, L. S. (2002). *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings*. American Psychological Association.

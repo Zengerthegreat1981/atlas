@@ -9,6 +9,7 @@ en: "Renaissance Neoplatonism"
 crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبية ← الأفلاطونية المحدثة في عصر النهضة"
 dates: "فلورنسا، روما، البندقية، فيينا، باريس، أكسفورد · من القرن 15 م إلى القرن 16 م"
 country: "إيطاليا، ألمانيا، فرنسا، إنجلترا"
+cultural_origin: "european"
 language: "اللاتينية، اليونانية، الإيطالية"
 active_start: 1450
 active_end: 1600
@@ -16,13 +17,13 @@ edges:
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
-- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
-- id: "thk-pico", title: "جيوفاني بيكو della ميراندولا", type: "مفكر"
+- id: "thk-pico", title: "جيوفاني بيكو ديلا ميراندولا", type: "مفكر"
 gaps:
-  - "نصوص فيتشينو وبيكو ديلا ميراندولا باللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Commentarium in Convivium Platonis' لفيتشينو."
-  - "التمييز بين 'الأفلاطونية النهضوية' و'الأفلاطونية المحدثة القديمة' (Plotinus, Proclus) غير واضح دائماً."
+  - "لا توجد نسخة عربية موثّقة من 'Theologia Platonica de Immortalitate Animae' (1474) لفيتشينو تتيح مقابلة النصوص المقتبسة عنه."
+  - "لا توجد نسخة عربية موثّقة من 'Commentarium in Convivium Platonis' (1469) لفيتشينو تتيح استخراج اقتباس منسوب بدقة."
+  - "معيار التمييز النصي بين ترجمات فيتشينو للأفلاطونية المحدثة القديمة (أفلوطين، بروكلوس) وإضافاته الخاصة عليها لم يُحدَّد بعد في هذا الملف."
 ---
 
 # الأفلاطونية المحدثة في عصر النهضة
@@ -57,9 +58,9 @@ gaps:
 - **يوهانس رويخلين** (Johann Reuchlin، 1455-1522): «**De Arte Cabbalistica**» (1517).
 - **فرانسيسكو باتريتس** (Francesco Patrizi، 1529-1597): «**Nova de Universis Philosophia**» (1591).
 - **يوحنا دييي** (Jean de Serres).
-- **يوسف بانسّوب** (Joseph Justus Scaliger، 1540-1609).
-- **روبرت فلود** (Robert Fludd، 1574-1637): «**Utriusque Cosmi**» (1617-1621).
-- **جاكوب بومه** (Jacob Böhme، 1575-1624): «**Aurora**» (1612).
+- **يوسف بانسّوب** (Joseph Justus Scaliger، وُلد 1540، توفي بعد وفاتها عام 1609).
+- **روبرت فلود** (Robert Fludd، وُلد 1574، توفي بعد وفاتها عام 1637): «**Utriusque Cosmi**» نُشر بعد وفاتها (1617-1621).
+- **جاكوب بومه** (Jacob Böhme، وُلد 1575، توفي بعد وفاتها عام 1624): «**Aurora**» نُشر بعد وفاتها عام 1612.
 
 ## المفاهيم المركزية
 
@@ -115,8 +116,8 @@ gaps:
 
 - **الأكاديمية الفلورنتينية** (Accademia Florentina): فيتشينو، بيمبو، لاندّينو، بوليتزيانو.
 - **الأفلاطونية الإنجليزية** (Neoplatonismus Anglicus): **John Colet** (1467-1519)، **Thomas More** (1478-1535)، **Thomas Elyot** (1490-1546).
-- **الأفلاطونية الفرنسية** (Neoplatonismus Gallicus): **Marguerite de Navarre** (1492-1549)، **Pontus de Tyard** (1521-1605)، **Jean de Serres** (1540-1598).
-- **الأفلاطونية الكامبريدجية** (Cantabrigiensis): **Ralph Cudworth** (1617-1688)، **Henry More** (1614-1687)، **Anne Conway** (1631-1679).
+- **الأفلاطونية الفرنسية** (Neoplatonismus Gallicus): **Marguerite de Navarre** (1492-1549)، **Pontus de Tyard** توفي بعد وفاتها عام 1605 (وُلد 1521)، **Jean de Serres** (1540-1598).
+- **الأفلاطونية الكامبريدجية** (Cantabrigiensis، مدرسة لاحقة بعد وفاتها الأم بعقود): **Ralph Cudworth** توفي بعد وفاتها عام 1688 (وُلد 1617)، **Henry More** توفي بعد وفاتها عام 1687 (وُلد 1614)، **Anne Conway** توفيت بعد وفاتها عام 1679 (وُلدت 1631).
 - **الأفلاطونية الألمانية** (Theosophia Germanica): **بومه** (Böhme)، **أغريبا**، **فون فرانكنبرغ** (Valentine Weigel، 1533-1588).
 
 ## العلاقة مع المدارس الأخرى
@@ -139,8 +140,15 @@ gaps:
 ## المأزق الفلسفي
 
 - **التوتّر مع الكنيسة**: «**900 أطروحة**» لـ**بيمبو** (1486) قُوبِلت بـ«**الإدانة**» (Censura). **برونو** أُحرق. **باتريتس** واجه **رقابة**.
-- **التوتّر مع الهرمسية**: «**Corpus Hermeticum**» كُشف في 1614 م على يد **إسحاق كاسوبون** (Casaubon) أنّه **مزيَّف** (Pseudepigraphum) يعود إلى **القرن 2-3 م**، لا **قبل** عصر **بطليموس** (Ptolemy). هذا «**صَدَم**» الأفلاطونية النهضوية.
+- **التوتّر مع الهرمسية**: «**Corpus Hermeticum**» كُشف زيفه بعد وفاتها عام 1614 م على يد **إسحاق كاسوبون** (Casaubon) أنّه **مزيَّف** (Pseudepigraphum) يعود إلى **القرن 2-3 م**، لا **قبل** عصر **بطليموس** (Ptolemy). هذا «**صَدَم**» الأفلاطونية النهضوية.
 - **التوتّر مع السكولاستية**: فيتشينو «**استبدل**» (Substituit) أرسطو بأفلاطون. هذا **أزعج** (Commovit) السكولاستيين.
 - **التوتّر مع العلم**: «**الهرمسية**» و«**السحر**» (Magia) اعتبرا «**لا-علميّين**» (Pseudo-Scientiae) في القرن 17 م. **بيكون** (Bacon) و«**ديكارت**» (Descartes) نَقدا «**الهرمسية**».
 - **الإرث في الحداثة**: «**الوحدة**» (Unitas) و«**الكوسمولوجيا**» (Cosmologia) عند **أفلاطون** و«**الأفلاطونية**» (Neoplatonismus) أَلْهَمَتا «**المثالية**» (Idealismus) في القرن 19-20 م، لكن **أيضاً** «**الباطنية**» (Esoterica) و«**اللاهوت**» (Theologia).
 - **نقد الحداثة**: «**ما بعد الحداثة**» (Postmodernitas) في القرن 20 م استلهمت **الأفلاطونية** في **نقد** (Critica) «**الميتافيزيقا**» (Metaphysica)، لكنّها **أيضاً** «**نَسفَتْ**» (Subvertit) «**نظام المثل**» (Systema Idearum).
+
+## المصادر
+
+- Kristeller, Paul Oskar. *The Philosophy of Marsilio Ficino*. Columbia University Press, 1943.
+- Allen, Michael J. B. *Marsilio Ficino and the Phaedran Charioteer*. University of California Press, 1981.
+- Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
+- Copenhaver, Brian P. & Schmitt, Charles B. *Renaissance Philosophy*. Oxford University Press, 1992.

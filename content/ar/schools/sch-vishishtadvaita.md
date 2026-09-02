@@ -12,6 +12,7 @@ country: "الهند (تاميل نادو بشكل رئيسي)"
 language: "السنسكريتية، التاميلية"
 active_start: 1000
 active_end: "مستمر"
+cultural_origin: "indian"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
@@ -54,3 +55,10 @@ gaps:
 ## القيد
 
 - تتوسط بين أدفايتا ودفايتا، وقد تبدو ترقيعية للبعض.
+
+## المصادر
+
+- Carman, J. B. (1974). *The Theology of Rāmānuja: An Essay in Interreligious Understanding*. Yale University Press.
+- Lipner, J. (1986). *The Face of Truth: A Study of Meaning and Metaphysics in the Vedāntic Theology of Rāmānuja*. State University of New York Press.
+- Nayar, N. A. (1992). *Poetry as Theology: The Śrīvaiṣṇava Stotra in the Age of Rāmānuja*. Franz Steiner Verlag.
+- Bartley, C. (2002). *The Theology of Rāmānuja: Realism and Religion*. RoutledgeCurzon.

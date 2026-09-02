@@ -46,3 +46,9 @@ gaps:
 - Mystagogia (تفسير ليتورجي)
 - Capita de Caritate (فصول في المحبة)
 - Centuries on Theology and the Incarnate Dispensation
+
+## المصادر
+
+- Louth, A. (1996). *Maximus the Confessor*. Routledge (ترجمة مختارات من Ambigua وMystagogia).
+- Blowers, P. M. (2016). *Maximus the Confessor: Jesus Christ and the Transfiguration of the World*. Oxford University Press.
+- Stanford Encyclopedia of Philosophy، مدخل "Maximus the Confessor" (plato.stanford.edu/entries/maximus-confessor).

@@ -12,20 +12,19 @@ active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-premature-ejaculation", title: "سرعة القذف (القذف المبكر)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-premenstrual-dysphoric-disorder", title: "اضطراب ما قبل الطمث الاكتئابي", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-tic-disorders", title: "اضطرابات العرات (Tics)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الجذور التاريخية (يوغا، بوديساتفا) تستحق توثيقاً منفصلاً."
+  - "لا يوجد ملف دراسة (stu-) في الأطلس لتجربة تختبر تقنيات التنفس العميق منفردة عن حزمة علاجية أوسع، فلا يمكن ربطها بدراسة محددة تثبتها أو تنفيها."
+  - "التسلسل التاريخي الدقيق لدمج تنفس 4-7-8 واليوغا في بروتوكولات CBT الأمريكية (تواريخ ومؤلفون) غير مثبت في الملف الحالي."
 ---
 
 # تقنيات التنفس العميق

@@ -9,6 +9,10 @@ en: "Hegemony and Socialist Strategy: Towards a Radical Democratic Politics"
 crumb: "الفلسفة السياسية المعاصرة ← الديمقراطية الراديكالية ← الهيمنة والاستراتيجية الاشتراكية (لاكلاو وموف)"
 dates: "1985 · إرنستو لاكلاو وشانتال موف"
 language: "الإنجليزية"
+author: "إرنستو لاكلاو وشانتال موف"
+author_slug: "thk-laclau"
+publication_year: 1985
+original_language: "الإنجليزية"
 active_start: 1985
 active_end: 1985
 edges:
@@ -19,7 +23,6 @@ related:
 - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
 gaps:
   - "النص الأصلي Hegemony and Socialist Strategy (1985) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الهيمنة والاستراتيجية الاشتراكية (Hegemony and Socialist Strategy, 1985)

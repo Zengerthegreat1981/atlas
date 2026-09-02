@@ -3,6 +3,7 @@ slug: "sch-gnosticism"
 id: "SCH-0124"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "greek"
 level: "متوسط"
 title: "الغنوصية القديمة (بفروعها)"
 en: "Ancient Gnosticism (Sethian, Valentinian, Hermetic, etc.)"
@@ -13,13 +14,12 @@ language: "اليونانية، القبطية، السريانية"
 active_start: 50
 active_end: 400
 edges:
-- rel: "belongs_to", target: "تقاليد فلسفية شرقية-غربية", target_type: "مظلة"
 related:
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
 - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
 - id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (نيوأفلاطونية)", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 gaps:
   - "النصوص الغنوصية مكتشفة في نجع حمادي (1945) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين 'الغنوصية' كحركة و'الغنوصية' كظاهرة أوسع لا يزال محل نقاش."
@@ -59,3 +59,10 @@ gaps:
 - سيمين (صموئيل)، يوفستوس، فالنتينوس.
 - إيريناوس خصمها (كتب ضد الهرطقات).
 - أوريجانس في بعض تفسيراته.
+
+## المصادر
+
+- Rudolph, K. (1987). *Gnosis: The Nature and History of Gnosticism*. Harper & Row.
+- Robinson, J. M. (Ed.). (1988). *The Nag Hammadi Library in English*. HarperSanFrancisco.
+- Jonas, H. (1958). *The Gnostic Religion: The Message of the Alien God and the Beginnings of Christianity*. Beacon Press.
+- Pagels, E. (1979). *The Gnostic Gospels*. Random House.

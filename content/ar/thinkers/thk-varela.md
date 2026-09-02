@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 2001
 edges:
-- rel: "belongs_to", target: "مقاربات الإدراك المتجسد", target_type: "تيار"
+- rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "تيار"
@@ -56,3 +56,9 @@ gaps:
 
 ## القيد
 فاريلا لم يقدّم «نظرية علاجية» بالمعنى المباشر. تأثيره على العلاج يأتي عبر: (1) therapists يجدون في enactivism لغة لوصف ما يفعلونه (التركيز على الجسد، التفاعل الحيّ)، (2) منظّرون مثل Shaun Gallagher وEvan Thompson طوّروا تطبيقات سريرية.
+
+## المصادر
+
+- Francisco J. Varela, Evan Thompson, Eleanor Rosch, *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press, 1991.
+- Humberto Maturana & Francisco Varela, *Autopoiesis and Cognition: The Realization of the Living*, 1980.
+- Francisco Varela & Jonathan Shear (eds.), "First-person methodologies", *Journal of Consciousness Studies*, 1999.

@@ -10,7 +10,7 @@ dates: "الصين (خنان) · 1895-1990"
 country: "الصين"
 language: "الصينية (ماندارين)"
 active_start: 1923
-active_end: 1946
+active_end: 1990
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← فنغ يو-لان (الفلسوف المؤسِّس للنيوكونفوشية الحديثة)"
 edges:

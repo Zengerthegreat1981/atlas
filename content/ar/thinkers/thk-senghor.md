@@ -19,8 +19,7 @@ related:
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 gaps:
-  - "نصوص Senghor (Liberté I-III, Hosties noires) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نصوص سنغور (Liberté I-III, Hosties noires) تحتاج مراجعة من طبعاتها الأصلية بدل الاعتماد على ملخصات ثانوية."
 ---
 
 # ليوبولد سيدار سنغور
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 مضائف سوداء (Hosties noires, 1948) · أناشيد الظل (Chants d'ombre, 1945) · الزنوجة والروح الأفريقية (La Négritude et l'âme africaine, 1948) · الحرية I-III (Liberté, 1964-1970).
+
+## المصادر
+
+- Senghor, L. S. (1964–1970). *Liberté I–III*. Éditions du Seuil.
+- Vaillant, J. G. (1990). *Black, French, and African: A Life of Léopold Sédar Senghor*. Harvard University Press.
+- Towa, M. (1973). *Léopold Sédar Senghor: Négritude ou servitude?*. Éditions CLE.

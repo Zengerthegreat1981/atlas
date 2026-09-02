@@ -10,16 +10,15 @@ crumb: "الفلسفة ← أفريقيا وأمريكا الأصلية ← Kaup
 dates: "نيوزيلندا · من القرن 13 إلى اليوم"
 country: "نيوزيلندا (Aotearoa)"
 language: "الماورية، الإنجليزية"
+cultural_origin: "indigenous"
 active_start: 1200
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
 - id: "thk-trore", title: "ماسون دوري", type: "مفكر"
 - id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني/الإيروكوا", type: "مدرسة"
-- id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-dreamtime", title: "Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 gaps:
   - "نصوص Graham Hingangaroa Smith وLinda Tuhiwai Smith (دائماً) need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -58,3 +57,9 @@ gaps:
 
 - مَركزية في التجربة الماورية.
 - تنازع قانوني مستمر مع السلطات النيوزيلندية.
+
+## المصادر
+
+- Smith, Graham Hingangaroa. *Kaupapa Maori: Theories of Maori Education*. University of Auckland, 1997.
+- Smith, Linda Tuhiwai. *Decolonizing Methodologies: Research and Indigenous Peoples*. Zed Books, 1999.
+- Durie, Mason. *Te Mana, Te Kāwanatanga: The Politics of Māori Self-Determination*. Oxford University Press, 1998.

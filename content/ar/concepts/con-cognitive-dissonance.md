@@ -12,11 +12,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "axm-cognitive-consistency", title: "بديهية الاستواء المعرفي", type: "بديهية/مبدأ تأسيسي"
 - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "axm-cognitive-consistency", title: "بديهية الاستواء المعرفي", type: "بديهية/مبدأ تأسيسي"
+- id: "wrk-festinger-cognitive-dissonance", title: "نظرية التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
 - id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي", type: "دراسة وبحث"
-- id: "wrk-festinger-cognitive-dissonance", title: "نظرية في التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
-- id: "con-anxiety", title: "القلق", type: "مفهوم"
 gaps:
   - "التطورات العصبية المعاصرة لدراسة التنافر المعرفي عبر الرنين المغناطيسي الوظيفي (fMRI) في القشرة الحزامية الأمامية تحتاج توثيقاً."
   - "التطبيقات العيادية للتنافر المعرفي في المقابلات الدافعية (Motivational Interviewing) لعلاج الإدمان تتطلب فصلاً مستقلاً."

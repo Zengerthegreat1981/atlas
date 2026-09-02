@@ -9,20 +9,21 @@ en: "Latin Averroism"
 crumb: "الفلسفة ← المسيحية الوسيطة ← الرشدية اللاتينية"
 dates: "باريس، بادوا، أكسفورد · من القرن 13 م إلى القرن 16 م"
 country: "فرنسا، إيطاليا، إنجلترا"
+cultural_origin: "european"
 language: "اللاتينية"
 active_start: 1240
-active_end: 1530
+active_end: 1603
 edges:
 - rel: "evolved_from", target: "sch-andalusian-philosophy", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-scholasticism", target_type: "مدرسة"
 related:
 - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "thk-siger-brabant", title: "سيجير دي برابانت", type: "مفكر"
 gaps:
   - "نصوص سيجر دي برابان وجون بيكون ثامبيكو باللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'De Intellectu' لسيجر."
+  - "لا توجد في هذه المسودة نسخة نصية أو ترجمة لـ'De Intellectu' لسيجر دي برابان يمكن الاقتباس منها مباشرة."
   - "التمييز بين 'الرشدية اللاتينية' الصارمة والمعتدلة معقّد."
 ---
 
@@ -113,7 +114,7 @@ gaps:
 
 - **في الفلسفة العلمانية**: الرشدية مهّدت لـ**بومبوناتزي** (1462-1525)، الذي أثّر في **سيبنوزا** (Spinoza) و**ملبرانش** (Malebranche).
 - **في فلسفة الطبيعة** (Naturphilosophie): في القرن 17-18 م، «**فلسفة الطبيعة**» (Naturphilosophie) عند **شيلنغ** (Schelling) و**هيغل** (Hegel) استلهمت الرشدية.
-- **في العلم الحديث**: «**الاستقلال العقلاني**» (InDependentia Rationalis) للرشديّين مهّد لـ**غاليلو** (Galileo، 1564-1642) و**ديكارت** (Descartes، 1596-1650).
+- **في العلم الحديث**: «**الاستقلال العقلاني**» (InDependentia Rationalis) للرشديّين مهّد لـ**غاليلو** (Galileo، وُلد 1564، بعد وفاته عام 1642) و**ديكارت** (Descartes، وُلد 1596، بعد وفاته عام 1650).
 - **في الفلسفة السياسية**: «**Defensor Pacis**» لـ**مارسيليوس** مهّد لـ**هوبز** (Hobbes) و**لوك** (Locke).
 - **في التعدّدية الدينية**: «**حقيقة مزدوجة**» مهّدت لـ**فلسفة التنوير** (Enlightenment) و**كانط** (Kant).
 - **في الفلسفة المعاصرة**: في **التحليلية** (Analytic) و**ما بعد الحداثة** (Postmodern)، مبدأ «**حقيقة مزدوجة**» يعود في **فلسفة اللغة** (Philosophy of Language) وفي **التعدّدية** (Pluralism).
@@ -126,3 +127,10 @@ gaps:
 - **الإرث السياسي**: «**Defensor Pacis**» لـ**مارسيليوس** مهّد لـ**الليبرالية الحديثة** (Liberalism Modernum)، لكنّها في وقتها اعتبرت **هرطقة** (Haeresis).
 - **نقد توما**: توما ردّ بأنّ العقل والوحي **مُتّحِدان** (Unitas)، لأنّ الله «**مصدر**» (Fons) كليهما. الرشديّون فصلوا، فأنتجوا «**عِلْمَنة**» (Secularizatio) مُبكّرة.
 - **الإرث في الحداثة**: في القرن 19-20 م، «**التجريبية**» (Empiricism) و«**الوضعية المنطقية**» (Logical Positivism) استلهمتا «**الرشدية اللاتينية**» في **فصل** العقل عن الميتافيزيقا.
+
+## المصادر
+
+- Van Steenberghen, Fernand. *Maître Siger de Brabant*. Publications Universitaires de Louvain, 1977.
+- Dales, Richard C. "The Origin of the Doctrine of the Double Truth." *Viator*, vol. 15, 1984.
+- Pine, Martin L. *Pietro Pomponazzi: Radical Philosopher of the Renaissance*. Antenore, 1986.
+- Bianchi, Luca. "1277: A Turning Point in Medieval Philosophy?" in *Was ist Philosophie im Mittelalter?*, De Gruyter, 1998.

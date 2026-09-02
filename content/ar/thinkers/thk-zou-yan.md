@@ -18,7 +18,7 @@ edges:
 related:
 - id: "con-wuxing", title: "الدورات الخمس (五行 wǔxíng)", type: "مفهوم"
 - id: "con-yin-yang", title: "الين-يانغ (陰陽) — التقابل الكوني", type: "مفهوم"
-- id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)", type: "مدرسة"
 gaps:
   - "لا نصوص كاملة له وصلت. كلّ ما نعرفه من Sima Qian (Shiji 74) و'Liezi' (الملحق)."
   - "لا يوجد اقتباس مباشر موثّق في هذه المسودة."
@@ -44,3 +44,8 @@ gaps:
 - لا نصوص كاملة له وصلت. كلّ ما نعرفه من Sima Qian (Shiji 74)، و«ملحق Liezi» (الملحق 4 من Liezi)، و«Bamboo Annals».
 - كثير من «أفكاره» التي تُنسب إليه في التقليد اللاحق قد تكون إعادة بناء (reconstruction) من القرن 1 ق.م وما بعده.
 - حياته الخاصة (نشأته، تلاميذه، أعماله المفقودة) شبه مجهولة.
+
+## المصادر
+
+- سيما تشيان (Sima Qian). *سجلات المؤرخ الكبير* (Shiji، الفصل 74 — سيرة زو يان)، القرن 1 ق.م.
+- Needham, J. (1956). *Science and Civilisation in China, Vol. 2: History of Scientific Thought*. Cambridge University Press. (فصل عن مدرسة الين-يانغ والدورات الخمس)

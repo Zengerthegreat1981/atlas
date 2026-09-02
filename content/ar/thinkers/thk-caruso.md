@@ -7,8 +7,8 @@ title: "إيغور كاروسو"
 en: "Igor Caruso"
 crumb: "المدرسة الوجودية ← الناس ← إيغور كاروسو"
 dates: "النمسا · 1914–1981"
-active_start: 1952
-active_end: 1972
+active_start: 1947
+active_end: 1981
 country: "النمسا"
 language: "الألمانية"
 part: "philosophy"
@@ -25,7 +25,7 @@ gaps:
 
 # إيغور كاروسو
 
-طبيب نفسي ومحلل نفسي نمساوي، مؤسس تيار «التحليل النفسي الشخصاني» (Personal Synthesis) ومؤسس مجموعة العمل الفيينية للتحليل النفسي (ÖAGG).
+طبيب نفسي ومحلل نفسي نمساوي، مؤسس تيار «التحليل النفسي الشخصاني» (Personale Synthese) ومؤسس «حلقة عمل فيينا لعلم النفس العميق» (Wiener Arbeitskreis für Tiefenpsychologie) عام 1947.
 
 ## ما أعطاه
 

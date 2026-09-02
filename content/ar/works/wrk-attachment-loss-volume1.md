@@ -10,17 +10,21 @@ crumb: "نظرية التعلق ← الأعمال ← التعلق (المجل�
 dates: "1969 · جون باولبي"
 language: "الإنجليزية"
 active_start: 1969
-active_end: 1969
+active_end: 2019
 country: "المملكة المتحدة"
+author: "جون باولبي"
+author_slug: "thk-bowlby"
+publication_year: 1969
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "br-attachment-theory", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-bowlby", target_type: "مفكر"
 related:
-- id: "thk-bowlby", title: "جون باولبي", type: "مفكر"
-- id: "wrk-bowlby-maternal-care", title: "رعاية الأمومة والصحة العقلية (1951)", type: "عمل / كتاب"
-- id: "wrk-bowlby-separation", title: "الانفصال: القلق والغضب (1973)", type: "عمل / كتاب"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "wrk-bowlby-maternal-care", title: "الرعاية الأمومية والصحة النفسية (Maternal Care and Mental Health)", type: "عمل / كتاب"
+- id: "wrk-bowlby-separation", title: "الانفصال: القلق والغضب (Separation: Anxiety and Anger)", type: "عمل / كتاب"
 - id: "con-attachment-styles", title: "أساليب التعلق", type: "مفهوم"
-- id: "con-attachment-styles-popular", title: "أساليب التعلق (الشائعة)", type: "مفهوم"
+- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "dis-separation-anxiety", title: "اضطراب قلق الانفصال", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التفاصيل الدقيقة لتقسيم باولبي للمراحل الأربع (0–3، 3–6، 6+ شهر) والفجوات بينها لم تُراجع من الطبعة الأولى (Basic Books, 1969) مباشرة."

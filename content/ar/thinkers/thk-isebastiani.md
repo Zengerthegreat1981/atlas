@@ -26,7 +26,7 @@ gaps:
 
 # إيفان سيباستياني
 
-محلّل نفسي إيطالي، ومدير Istituto Italiano Core Energetica، ومدرّب في عدة معاهد لـ Core Energetics في أوروبا وأمريكا اللاتينية.
+محلّل نفسي إيطالي، ومدير Istituto Italiano di Core Energetica، ومدرّب في عدة معاهد لـ Core Energetics في أوروبا وأمريكا اللاتينية.
 
 ## ما أعطاه
 

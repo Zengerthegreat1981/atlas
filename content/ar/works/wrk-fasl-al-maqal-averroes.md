@@ -9,15 +9,18 @@ en: "Fasl al-Maqal (Decisive Treatise) by Averroes"
 crumb: "الفلسفة الأندلسية ← أمهات الأعمال ← فصل المقال"
 dates: "قرطبة · 1179 م"
 language: "العربية"
+author: "ابن رشد"
+author_slug: "thk-ibn-rushd"
+publication_year: 1179
+original_language: "العربية"
 active_start: 1179
 active_end: 1179
 edges:
 - rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
 related:
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 gaps:
   - "قواعد التأويل البرهاني للنصوص الدينية الظاهرة المخالفة للعقل البرهاني."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # فصل المقال لابن رشد

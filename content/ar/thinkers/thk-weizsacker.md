@@ -19,7 +19,6 @@ related:
 - id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
 - id: "thk-hartmann", title: "نيكولاي هارتمان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر من مصدر أولي محقق."
   - "مفهومه المركزي «الدائرة التصويرية» (Der Gestaltkreis, 1940) لم يُراجع بعد من نسخة أصلية — الوصف هنا عام من تاريخ الفكر."
   - "أُضيف بعد مراجعة `/atlas-review` لأنه مذكور صراحة بالاسم في نص thk-plugge كأحد مؤسسي مدرسة هايدلبرغ، رغم غياب عنصر مستقل له قبل ذلك."
 ---
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 الدائرة التصويرية (Der Gestaltkreis, 1940) · حالات المرض (Fälle und Probleme, 1947).
+
+## المصادر
+
+- von Weizsäcker, V. (1940). *Der Gestaltkreis: Theorie der Einheit von Wahrnehmen und Bewegen*. Thieme.
+- von Weizsäcker, V. (1947). *Fälle und Probleme: Anthropologische Vorlesungen in der Medizin*.
+- Achilles, P. et al. (Eds.) (2005). *Viktor von Weizsäcker: Gesammelte Schriften*. Suhrkamp.

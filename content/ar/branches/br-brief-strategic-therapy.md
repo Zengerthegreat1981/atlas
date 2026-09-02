@@ -11,8 +11,6 @@ language: "إنجليزية / إيطالية"
 active_start: 1960
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
 related:
 - id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"
 - id: "thk-rviaro", title: "روبرتو فيارو", type: "مفكر"

@@ -12,10 +12,8 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
@@ -23,22 +21,22 @@ related:
 - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "المهام المتدرجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل ذات المراقب", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "تهدئة الذات بالحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل الذات المُلاحِظة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-observe", title: "لاحظة", type: "تقنية/تدخل علاجي"
-- id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحسي-الحركي", type: "تقنية/تدخل علاجي"
+- id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحركي الحسي", type: "تقنية/تدخل علاجي"
 - id: "tec-somatic-experiencing", title: "تجربة الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-emdr", title: "إعادة المعالجة عبر حركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
 - id: "syn-briquet", title: "متلازمة بريكيه (السلف التاريخي للاضطراب الجسدي متعدد الأعراض)", type: "متلازمة"
 - id: "syn-foreign-accent", title: "متلازمة اللهجة الأجنبية (تغير النطق النمطي بعد أذية دماغية)", type: "متلازمة"
@@ -47,12 +45,19 @@ related:
 gaps:
   - "الجدل حول ما إذا كانت الأعراض العصبية الوظيفية 'حقيقية' عضوياً أم لا لم يُحسم في الأدبيات العلمية."
   - "معدّل الاستجابة للعلاج متغير بشكل كبير، يحتاج مراجعة منهجية حديثة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الأعراض العصبية الوظيفية (التحويل)
 
 اضطراب يتجلّى في أعراض عصبية (ضعف، رعشة، نوبات، فقدان الإحساس، صعوبة في المشي، فقدان الوعي) لا تُفسَّر بمرض عصبي عضوي، ويرتبط ارتباطاً وثيقاً بعوامل نفسية أو صدمية، ولا يمكن تفسيره بالتمثيل المتعمد.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11 دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الأعراض العصبية الوظيفية كفئة تشخيصية سريرية (أعراض حركية أو حسية غير متوافقة مع مرض عصبي عضوي، تُشخَّص بمعايير DSM-5-TR/ICD-11) وبين con-mind-body (مشكلة العقل والجسد) كطرح فلسفي منذ ديكارت (1641) عن طبيعة العلاقة بين الذهني والمادي — الأول حالة إكلينيكية محدَّدة الأعراض والمسار، والثاني سؤال ميتافيزيقي عام عن العلاقة بين العقل والجسد لا يفترض بذاته أي خلل وظيفي.
 
 ## ملاحظات على المعايير التشخيصية
 

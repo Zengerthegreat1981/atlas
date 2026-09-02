@@ -41,4 +41,4 @@ gaps:
 
 ## أهم أعمالها
 
-الإرشاد الروحي والوجودي (Time for Quality: A Guide to Experiential Psychotherapy, 2007) · الجسد والروح في العلاج النفسي (Focusing and Spirituality, 2014).
+الإرشاد الروحي والوجودي (Time for Quality: A Guide to Experiential Psychotherapy, 2007).

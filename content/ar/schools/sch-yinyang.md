@@ -9,6 +9,7 @@ en: "Yin-Yang School (Yinyangjia / Naturalists)"
 crumb: "الفلسفة ← الصين ← مدرسة الين-يانغ"
 dates: "الصين · من القرن 4 ق.م إلى القرن 1 ق.م"
 country: "الصين"
+cultural_origin: "east-asian"
 language: "الصينية الكلاسيكية"
 active_start: -350
 active_end: -100
@@ -16,12 +17,11 @@ active_source: "lifespan"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "sch-huang-lao", title: "هوانغ-لاو (Huang-Lao)", type: "مدرسة"
 - id: "thk-zou-yan", title: "زو يان", type: "مفكر"
 gaps:
   - "نصوص Zou Yan الأصلية لم تصلنا، وما نعرفه عنه عبر اقتباسات متأخرة."
   - "التمييز بين 'مدرسة الين-يانغ' الفلسفية و'الخيمياء الكونية' التي استهلكت لاحقاً رموزها لم يُحلّ في هذه المسودة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # مدرسة الين-يانغ (Naturalists / Yin-Yangjia)
@@ -46,3 +46,9 @@ gaps:
 
 - تتشارك مع الداووية في افتراضها وجود نظام طبيعي كوني، لكنها تختلف في كونها تفسيراً تراتبياً تاريخياً (دورة السيادة)، بينما الداووية الفلسفية ترفض غالباً التدخلات البشرية في ترتيب الأشياء.
 - هاجمت «شانغ يانغ» الفلسفية الين-يانغ لاحقاً لكونها فلسفة بلاط، لكنها استمرّت في إطار كوني-طقسي حتى القرن العشرين.
+
+## المصادر
+
+- Needham, Joseph. *Science and Civilisation in China, Vol. 2: History of Scientific Thought*. Cambridge University Press, 1956.
+- Fung Yu-lan (馮友蘭). *A History of Chinese Philosophy*, trans. Derk Bodde. Princeton University Press, 1952.
+- Sivin, Nathan. "State, Cosmos, and Body in the Last Three Centuries B.C." *Harvard Journal of Asiatic Studies* 55, no. 1 (1995).

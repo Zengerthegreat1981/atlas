@@ -9,18 +9,22 @@ en: "Book of Proverbs (Mishlei)"
 crumb: "الفلسفة ← الحكمة العبرية ← سفر الأمثال"
 dates: "إسرائيل · القرن 10-5 ق.م (تجميع)"
 language: "العبرية"
+author: "سليمان (نسبة تقليدية)"
+author_slug: "thk-solomon-hebrew"
+publication_year: null
+original_language: "العبرية"
 active_start: -950
 active_end: -400
 edges:
 - rel: "belongs_to", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-solomon-hebrew", target_type: "مفكر"
 related:
-- id: "thk-solomon", title: "سليمان", type: "مفكر"
+- id: "thk-solomon-hebrew", title: "سليمان", type: "مفكر"
 - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
 - id: "con-chokmah-hebrew", title: "حُخْمَة (الحكمة العبرية)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح في طبعة عربية أكاديمية معتمدة من النص العبري."
   - "التمييز بين الأقسام السليمانية (1-9، 10-22) والكتّاب اللاحقين يحتاج مراجعة."
+  - "لا توجد سنة نشر/تجميع نهائية واحدة موثقة — السفر تجميع متعدد الطبقات عبر قرون (القرن 10 حتى القرن 5 ق.م تقريباً)، فتُرك publication_year فارغاً."
 ---
 
 # سفر الأمثال (مِشْلاي)

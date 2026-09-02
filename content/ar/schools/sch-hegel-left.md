@@ -12,6 +12,7 @@ country: "ألمانيا، فرنسا"
 language: "الألمانية"
 active_start: 1835
 active_end: 1848
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-marxism", target_type: "مدرسة"
@@ -29,7 +30,6 @@ gaps:
   - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerrbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«أرنولد روجه» (thk-range) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التمييز بين 'الشباب الهيغلي' بمعنى مجازي و'الشباب الهيغلي' بمعنى عضوي (دوغدن شتيتن) يستحق مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # الهيغلية اليسارية / هيغليو الشباب
 
@@ -61,3 +61,11 @@ gaps:
 
 - ليس تنظيماً موحداً، بل شبكة من المجلات والحلقات في برلين وبون وهاله.
 - تهمة «الانتقاص من المؤسسية الدينية» من اليمين الهيغلي وممثلي الدولة البروسيانية.
+
+## المصادر
+
+- Warren Breckman, *Marx, the Young Hegelians, and the Origins of Radical Social Theory* (Cambridge University Press, 1999).
+- David McLellan, *The Young Hegelians and Karl Marx* (Macmillan, 1969).
+- Karl Marx, *Theses on Feuerbach* (1845).
+- Ludwig Feuerbach, *The Essence of Christianity / Das Wesen des Christentums* (1841).
+- "Young Hegelians", *Stanford Encyclopedia of Philosophy*.

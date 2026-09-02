@@ -20,11 +20,11 @@ related:
 - id: "thk-marymain", title: "ماري مين", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "ins-aai", title: "مقابلة التعلّق للبالغين", type: "أداة قياس"
-- id: "con-attachment-styles", title: "أنماط التعلق (Attachment Styles)", type: "مفهوم"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "stu-main-disorganized-attachment", title: "دراسات ماري مين وسولومون حول التعلّق غير المنظم", type: "دراسة وبحث"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "اقتباس مباشر موثّق من نصوص بولبي أو مين أو فوناغي الأصلية لم يُراجع بعد من المصدر الأولي."
   - "العوامل السببية المحددة لاستقرار أو تغيّر أنماط التعلق (علاج مقابل خبرات حياتية) لم تُفصَّل في تحليلات تلوية حديثة."
 ---
 

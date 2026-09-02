@@ -8,18 +8,18 @@ en: "The Measurement of Intelligence: An Explanation of and a Complete Guide for
 crumb: "علم النفس التربوي ← الأعمال ← قياس الذكاء"
 dates: "1916 · لويس تيرمان"
 active_start: 1916
-active_end: 1916
+active_end: 1955
 language: "الإنجليزية"
 part: "psychology"
+author: "لويس تيرمان"
+publication_year: 1916
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس التربوي", target_type: "مدرسة"
-- rel: "authored_by", target: "لويس تيرمان", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الطبعات اللاحقة (1937 و1960) أعادت تنقيح المقياس — التحقق من الفروقات الجوهرية بينها لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Terman في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # قياس الذكاء

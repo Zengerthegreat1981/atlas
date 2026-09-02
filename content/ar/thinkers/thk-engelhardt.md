@@ -6,9 +6,9 @@ level: "متقدم"
 title: "ديتريش فون إنغلهاردت"
 en: "Dietrich von Engelhardt"
 crumb: "المدرسة الوجودية ← الناس ← ديتريش فون إنغلهاردت"
-dates: "ألمانيا · 1941–"
-active_start: 1990
-active_end: "مستمر"
+dates: "ألمانيا · 1941–2024"
+active_start: 1976
+active_end: 2018
 country: "ألمانيا"
 language: "الألمانية"
 part: "philosophy"

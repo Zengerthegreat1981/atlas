@@ -10,7 +10,11 @@ crumb: "الفلسفة السياسية المعاصرة ← الليبرالي�
 dates: "1971 · جون رولز"
 language: "الإنجليزية"
 active_start: 1971
-active_end: 1971
+active_end: 1999
+author: "جون رولز"
+author_slug: "thk-rawls"
+publication_year: 1971
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-rawlsianism", target_type: "مدرسة"
 related:
@@ -19,7 +23,6 @@ related:
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 gaps:
   - "النص الأصلي A Theory of Justice (1971) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # نظرية العدالة (A Theory of Justice, 1971)

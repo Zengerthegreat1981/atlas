@@ -19,8 +19,7 @@ related:
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 - id: "thk-carta", title: "ستيفانو كارطا", type: "مفكر"
 gaps:
-  - "قائمة أعماله الكاملة ضخمة وتحتاج إحصاء دقيقاً من كتبه المُنشورة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "قائمة أعماله الكاملة ضخمة (أكثر من 15 كتاباً بلغات متعددة) وتحتاج إحصاء دقيقاً من فهرس ناشريه."
 ---
 
 # لويجي تسويا
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 «العنف في العالم المعاصر» (Violence in the Modern World, 2001) · «زراعة الروح» (Cultivating the Soul, 1995) · «البارانويا: الجنون الذي يصنع التاريخ» (Paranoia: The Madness That Makes History, 2017).
+
+## المصادر
+
+- Zoja, Luigi. *Cultivating the Soul*. London: Free Association Books, 2005 (ترجمة إنجليزية).
+- Zoja, Luigi. *The Father: Historical, Psychological and Cultural Perspectives*. London: Routledge, 2001.
+- International Association for Analytical Psychology (IAAP) — سجل رؤساء الرابطة، 1998–2001.

@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-- id: "dbt-british-yalom", title: "الخصومة البريطانية", type: "جدل"
-- id: "thk-mendelowitz", title: "روبرت مينديلويتز", type: "مفكر"
+- id: "dbt-british-yalom", title: "البريطانيون ضد التيار الأمريكي", type: "جدل"
+- id: "thk-mendelowitz", title: "إدوارد مينديلويتز", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "thk-josselson", title: "روثلين جوسلسون", type: "مفكر"
 - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
@@ -63,3 +63,9 @@ gaps:
 ## اقتباسات مختارة
 
 «الجسد المادي يتحلل، لكن الأثر المتموّج الذي يخلّفه المرء في الحياة يستمر في التموّج إلى الأمام عبر الزمن.» — التحديق في الشمس، 2008<br>«العلاقة نفسها هي التي تشفي.» — هدية العلاج، 2002<br>«رغم أن جسدية الموت تدمّرنا، فإن فكرة الموت تُنقذنا.» — التحديق في الشمس، 2008
+
+## المصادر
+
+- Yalom, I.D. *Existential Psychotherapy* (Basic Books, 1980).
+- Yalom, I.D. *Staring at the Sun: Overcoming the Terror of Death* (2008).
+- Yalom, I.D. *Becoming Myself: A Psychiatrist's Memoir* (2017).

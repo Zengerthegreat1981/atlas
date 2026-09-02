@@ -10,15 +10,14 @@ crumb: "الفلسفة السياسية المعاصرة ← جدل الليبر
 active_start: 1982
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-rawlsianism", target_type: "مدرسة"
 related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
 - id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
 - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
 - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
 gaps:
-  - "النصوص التأسيسية (Sandel 1982, MacIntyre 1981, Taylor 1989) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُدرج صفحات محددة من Sandel, Liberalism and the Limits of Justice (1982)، وMacIntyre, After Virtue (1981)، وTaylor, Sources of the Self (1989) لأن المتن يعتمد على الحجج العامة الموثقة في المصادر الثانوية عن هذه الأعمال لا على اقتباس حرفي مسند لصفحة."
 ---
 
 # جدل الليبرالية مقابل الجماعاتية

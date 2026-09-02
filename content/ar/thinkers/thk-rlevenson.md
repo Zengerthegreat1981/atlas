@@ -12,14 +12,12 @@ active_start: 1976
 active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← روبرت ليفنسون"
-edges:
-- rel: "belongs_to", target: "طريقة غوتمان الزوجية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-jgottman", title: "جون غوتمان", type: "مفكر"
 - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # روبرت ليفنسون
@@ -42,6 +40,8 @@ gaps:
 - *Marital Interaction: Physiological Linkage and Affective Exchange* (مساهم، 1984).
 - *Emotion in the Writing of Literary Fiction* (مساهم، 2015).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Levenson, R. W., & Gottman, J. M. (1983). Marital interaction: Physiological linkage and affective exchange. *Journal of Personality and Social Psychology*, 45(3), 587–597.
+- Levenson, R. W., & Gottman, J. M. (1985). Physiological and affective predictors of change in relationship satisfaction. *Journal of Personality and Social Psychology*, 49(1), 85–94.
+- Carstensen, L. L., Gottman, J. M., & Levenson, R. W. (1995). Emotional behavior in long-term marriage. *Psychology and Aging*, 10(1), 140–149.

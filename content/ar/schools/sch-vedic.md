@@ -9,18 +9,16 @@ en: "Vedic Ritual Thought"
 crumb: "الفلسفة ← الهند ← الفكر الفيدي الطقسي"
 dates: "الهند · من الألفية الثانية ق.م إلى القرن 8 ق.م"
 country: "شبه القارة الهندية"
+cultural_origin: "indian"
 language: "السنسكريتية الفيدية"
 active_start: -1500
 active_end: -800
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "الفكر الهندي القديم", target_type: "مظلة"
 related:
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
 - id: "sch-mimamsa", title: "ميمامسا", type: "مدرسة"
 gaps:
   - "النصوص الفيدية (Rg, Yajur, Sama, Atharva) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الفكر الفيدي الطقسي
@@ -53,3 +51,9 @@ gaps:
 ## القيد
 
 لا يرقى لفسفة بالمعنى اليوناني، بل هو طبقة تأسيسية قبل الفلسفة المنهجية.
+
+## المصادر
+
+- Witzel, Michael. "Vedas and Upaniṣads." In *The Blackwell Companion to Hinduism*, edited by Gavin Flood. Blackwell, 2003.
+- Jamison, Stephanie W. & Brereton, Joel P. (trans.). *The Rigveda: The Earliest Religious Poetry of India*. Oxford University Press, 2014.
+- Gonda, Jan. *Vedic Literature (Saṃhitās and Brāhmaṇas)*. Otto Harrassowitz, 1975.

@@ -19,7 +19,6 @@ related:
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 gaps:
   - "تأثير شجرة فرفوريوس المنطقية وكتاب الإيساغوجي في تدشين جدل الكليات الوسيط في اللاتينية والعربية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "هوية الملف: الـslug `thk-porphyry` يشير إلى Porphyry of Tyre. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
@@ -51,3 +50,9 @@ gaps:
 ## اقتباسات مختارة
 
 «باطلٌ قولُ الفيلسوف الذي لا يُشفى به وجعٌ إنساني.» (رسالة إلى مرقلّة، 31)
+
+## المصادر
+
+- Andrew Smith (ed.), *Porphyrii Philosophi Fragmenta* (Teubner, 1993).
+- SEP، مدخل "Porphyry".
+- Porphyry, *Isagoge*, trans. Edward W. Warren (Pontifical Institute of Mediaeval Studies, 1975).

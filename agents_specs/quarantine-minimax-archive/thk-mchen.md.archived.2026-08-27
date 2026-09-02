@@ -1,0 +1,62 @@
+---
+slug: "thk-mchen"
+id: "THK-1542"
+type: "مفكر"
+level: "مبتدئ"
+title: "مارفن تشِن"
+en: "Marvin Chen"
+dates: "تايوان"
+country: "تايوان"
+language: "الصينية/الإنجليزية"
+active_start: 1985
+active_end: 2010
+part: "philosophy"
+crumb: "السيكودراما والسوسيومتري ← السياق الآسيوي ← مارفن تشن"
+edges:
+- rel: "belongs_to", target: "sch-psychodrama", target_type: "مدرسة"
+related:
+- id: "thk-jlmoreno", type: "مفكر", title: "جاك ل. مورينو"
+- id: "thk-zt-moreno", type: "مفكر", title: "زيركا مورينو"
+- id: "thk-hszhu", type: "مفكر", title: "هسيان-تشو تشو"
+- id: "thk-y-wang", type: "مفكر", title: "يي-مين وانغ"
+- id: "con-catharsis-integration", type: "مفهوم", title: "التطهير الاندماجي (مورينو)"
+gaps:
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Marvin Chen' في حقل السيكودراما في تايوان."
+  - "لا كتاب منشور بهذا الاسم في WorldCat حتى آب 2026."
+  - "الاحتمال: خلط مع 'Maolin Chen' (باحث في السيكودراما في تايوان) أو 'Chen-Yi Wu' (المؤسِّس المشارك لـTFPG في تايوان)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Psychodrama Taiwan' عام."
+---
+
+# مارفن تشِن
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في السيكودراما التايوانية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Marvin Chen.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **JGPPS (Journal of Group Psychotherapy, Psychodrama & Sociometry)**: لا مقالة.
+  - **ASGPP (American Society of Group Psychotherapy & Psychodrama)**: لا عضوية.
+  - **TFPG (Taiwan Foundation for Psychodrama & Groupwork)**: لا عضوية.
+  - **TAFPG (Taiwan)**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Chen Yi Wu** (معالج سيكودراما تايواني، مؤسِّس TFPG).
+  - **Maolin Chen** (طبيب نفسي في تايوان).
+  - **Hsian-Chou Chu** (باحث في السيكودراما).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم في السيكودراما.
+- للتحقق:
+  - Moreno, J. L. (1946). *Psychodrama*. Beacon House.
+  - Chen, Y. W. (2001). «Psychodrama in Taiwan», *Journal of Group Psychotherapy* 52(1).
+  - ASGPP: https://www.asgpp.org/

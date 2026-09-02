@@ -12,14 +12,11 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-multisystemic-therapy", title: "العلاج متعدد الأنظمة (MST)", type: "تقنية/تدخل علاجي"
 - id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي", type: "تقنية/تدخل علاجي"
-- id: "tec-pcit", title: "علاج تفاعل الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
-- id: "tec-psychoeducational-family", title: "التثقيف النفسي للأسرة", type: "تقنية/تدخل علاجي"
+- id: "tec-pcit", title: "العلاج التفاعلي بين الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
+- id: "tec-psychoeducational-family", title: "العلاج الأسري التثقيفي النفسي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
@@ -27,6 +24,7 @@ related:
 - id: "tec-parent-management-training", title: "تدريب إدارة السلوك للوالدين (PMT)", type: "تقنية/تدخل علاجي"
 - id: "ins-cbcl", title: "قائمة سلوك الطفل لنظام أشنباخ للتقييم المبني تجريبياً", type: "أداة قياس"
 - id: "ins-sdq", title: "استبيان نقاط القوة والصعوبات للأطفال والمراهقين", type: "أداة قياس"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (4 فئات: aggression to people/animals, destruction of property, deceitfulness/theft, serious rule violations) لم تُراجع من المصدر الأولي."
   - "تفاصيل specifier 'with limited prosocial emotions' لم تُراجع بدقة."
@@ -35,8 +33,6 @@ gaps:
   - "مقاربة Multisystemic Therapy (MST) موجودة كصفحة تقنية لكن تفاصيلها الكاملة غير مغطاة هنا."
   - "التفريق بين childhood-onset و adolescent-onset في الإنذار غير مشروح."
   - "التداخل مع ADHD و ODD في التشخيص والعلاج غير مغطى بالتفصيل."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب السلوك (Conduct Disorder)
@@ -141,3 +137,11 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Henggeler, S. W., & Schaeffer, C. M. (2016). "Multisystemic Therapy®: Clinical Overview, Outcomes, and Implementation Research." *Family Process*.
 - Frick, P. J. (2016). "Early Identification and Treatment of Antisocial Behavior." *Pediatric Clinics*.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج، خصوصاً أن التطبيق على طفل أو مراهق بعينه يتطلب تقييماً إكلينيكياً متخصصاً يراعي السياق التطوري والأسري.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب السلوك كفئة تشخيصية سريرية وبين 'المسؤولية' (con-responsibility) كمفهوم فلسفي عن قدرة الفاعل الأخلاقي على تحمّل تبعات أفعاله بإرادة حرة — الأول وصف طبي نفسي لنمط سلوكي متكرر ينشأ من تفاعل عوامل نمائية وبيئية ووراثية، بينما الثاني سؤال فلسفي عن شروط إسناد الفعل واستحقاق اللوم أو المدح، وأحد أهم نقاشاته الإكلينيكية بالضبط هو إلى أي مدى يُضعف الاضطراب من هذه المسؤولية الأخلاقية نفسها دون أن يلغيها.

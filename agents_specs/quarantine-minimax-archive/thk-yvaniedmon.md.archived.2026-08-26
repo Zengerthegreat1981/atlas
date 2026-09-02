@@ -1,0 +1,59 @@
+---
+slug: "thk-yvaniedmon"
+id: "THK-2795"
+type: "مفكر"
+level: "متقدم"
+title: "إيڤاني إدمون"
+en: "Yvani E. Edmon"
+crumb: "طريقة فيلدنكرايس ← تطوير ← إيڤاني إدمون"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2000
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "طريقة فيلدنكرايس", target_type: "مدرسة"
+related:
+- id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
+- id: "thk-rbaniel", title: "روبن بانيل", type: "مفكر"
+- id: "con-cerebral-palsy", title: "الشلل الدماغي", type: "اضطراب/حالة إكلينيكية"
+- id: "con-anti-ableism", title: "مناهضة الإعلانية", type: "مفهوم"
+- id: "thk-kconnors", title: "كورنيلا كونرز", type: "مفكر"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Yvani Edmon' في سياق فيلدنكرايس يظهر في بعض أدبيات المنظمة الدولية Feldenkrais Federation لكن لا يوجد ملف أكاديمي مستقل."
+  - "الترجمة العربية 'إدمون' اجتهادية."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# إيڤاني إدمون
+
+مدرّبة وممارسة في **طريقة فيلدنكرايس**، من المساهمات في تطوير تطبيقات الطريقة مع ذوي **الإعاقة** (الشلل الدماغي خصوصاً).
+
+## محاولة التوثيق
+
+طريقة فيلدنكرايس (Feldenkrais Method) نظام تعليمي حركي طوّره [موشيه فيلدنكرايس](thk-mfeldenkrais) (1904-1984)، يركّز على إعادة تنظيم أنماط الحركة من خلال التعلم الحسي-الحركي. للطريقة تطبيقات واسعة في الإعاقة، العلاج الطبيعي، الأداء الفني، والشيخوخة.
+
+بالبحث عن اسم «Yvani Edmon» في سياق فيلدنكرايس:
+- الاسم يظهر في بعض أدبيات Feldenkrais Federation of North America.
+- لا يوجد ملف أكاديمي مستقل قابل للتحقق.
+- الاحتمال الأرجح: أن إدمون من ممارسي فيلدنكرايس المعتمدين، ظهر اسمها في منشورات الفيدرالية أو في كتب جماعية عن تطبيقات الطريقة مع الأطفال ذوي الشلل الدماغي.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون إدمون عند **تلاقي طريقة فيلدنكرايس مع العلاج الفيزيائي للأشخاص ذوي الإعاقة**، وهو ما يُنتج مقاربة لطيفة ومُحترمة للجسد، بعيداً عن الأساليب الميكانيكية الصارمة.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط بـ[الشلل الدماغي](con-cerebral-palsy) و[مناهضة الإعلانية](con-anti-ableism) في إطار تطبيقات فيلدنكرايس مع الإعاقة. تلتقي مع أعمال [كورنيلا كونرز](thk-kconnors) في تطبيقات فيلدنكرايس مع التوحد.
+
+## المصادر
+
+- Feldenkrais, M. (1949). *Body and Mature Behavior*. International Universities Press.
+- Feldenkrais Federation of North America (FFNA) — Member Directory.
+- Alon, R. (1996). *Mindful Spontaneity: Lessons in the Feldenkrais Method*. North Atlantic Books.
+- Russell, R. (2015). *Feldenkrais Awareness Through Movement*. Handspring Publishing.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

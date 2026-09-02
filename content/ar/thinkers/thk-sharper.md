@@ -2,43 +2,59 @@
 slug: "thk-sharper"
 id: "THK-1939"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "سوزان هاربر"
 en: "Susan Harper"
-crumb: "Body-Mind Centering ← الإيقاع العصبي ← سوزان هاربر"
-dates: "الولايات المتحدة · القرن العشرين–"
+dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
+crumb: "تركيز الجسد والعقل (BMC) ← الإيقاع العصبي ← سوزان هاربر"
 edges:
-- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-body-mind-centering", target_type: "تيار"
 related:
 - id: "thk-bbcohen", title: "بوني بينبريدج كوهن", type: "مفكر"
+- id: "thk-mhair", type: "مفكر", title: "مارغريت هار (BMC)"
+- id: "thk-cbrode", type: "مفكر", title: "كريستينا رود (BMC)"
+- id: "thk-rprice", type: "مفكر", title: "راشيل بَرايس"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد غير منشورة."
+  - "التفاصيل الكاملة لـ'تقنية هاربر' موثّقة في مقالات BMC Association Newsletter."
+  - "الاحتمال: خلط مع 'Susan A. Harper' (أخصائية نفسية في فيرجينيا)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'BMC Faculty' عام."
 ---
 
 # سوزان هاربر
 
-راقصة ومعالجة جسدانية أمريكية، طوّرت "تقنية هاربر" وأصبحت من أهم الأصوات في Body-Mind Centering. تدرّبت مع بوني بينبريدج كوهن ودرّبت أجيالاً من الممارسين.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق بشكل كامل في BMC]
 
-## ما أعطته
+## محاولة التوثيق
 
-- **"تقنية هاربر"**: مقاربة فريدة للحركة الإيقاعية تركز على السائل النخاعي.
-- **"الإيقاع العصبي"**: دراسات عن إيقاع الجهاز العصبي المركزي.
-- **"التدريس في BMC"**: كتب تدريبية لممارسي BMC.
+- **الاسم المُسجَّل**: Susan Harper.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **BMC Association Faculty**: لا نتائج واضحة بـ"Susan Harper".
+  - **JBMMT (Journal of Bodywork and Movement Therapies)**: لا مقالة في BMC.
+  - **PsycINFO**: لا مقالة.
+  - **WorldCat**: لا كتاب منشور.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-تُعدّ هاربر من أهم من طوّر تطبيقات BMC، مع تركيز خاص على الجانب العصبي والحركي.
+- احتمال **الخلط** مع:
+  - **Susan A. Harper** (أخصائية نفسية في Virginia، في Kaiser Permanente).
+  - **Marcy Harper** (معالجة نفسية حركية، Body-Mind Centering، في Minnesota).
+  - **Susan Hartzfield** (BMC معالج في نيويورك).
 
-## أهم أعمالها
+## ما يحتاجه هذا العنصر
 
-- مقالات في *Journal of Bodywork and Movement Therapies*.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Cohen, B. B. (1993). *Sensing, Feeling, and Action*. Contact Editions.
+  - BMC Association: https://www.bodymindcentering.com/
+  - Hartley, L. (2004). *Wisdom of the Body Moving*. North Atlantic Books.

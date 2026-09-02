@@ -17,7 +17,6 @@ related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
   - "مقارنة نقدية بين ترجمة ستراتشي الإنجليزية وترجمة جان لابلانش الفرنسية والترجمات العربية (مصطفى صفوان، سامي علي) تحتاج تدقيقاً بيبلوغرافياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ترجمة Trieb عند فرويد: غريزة أم دافع؟
@@ -37,6 +36,9 @@ gaps:
 
 في الأدبيات النفسية العربية، تتأرجح الترجمة بين \"الغريزة\" (الشائعة في الكتب المدرسية الطبية) و\"الدافع\" أو \"النزوة / النزوع\" (لدى مترجمي التحليل النفسي كجورج طرابيشي ومصطفى صفوان)، مما يغير بشكل مباشر تموضع القارئ بين الفهم البيولوجي والفهم الفينومينولوجي واللساني للنفس.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Laplanche, J. & Pontalis, J.-B. (1967/1973). *The Language of Psycho-Analysis* (trans. D. Nicholson-Smith), entry "Instinct (or Drive)". Norton.
+- Strachey, J. (1953–1974). "Editor's Preface" and translator's notes, *The Standard Edition of the Complete Psychological Works of Sigmund Freud*.
+- Freud, S. (1915). "Triebe und Triebschicksale" ["Instincts and their Vicissitudes"]. Standard Edition, Vol. 14.
+- Lacan, J. (1964). *Le Séminaire, Livre XI: Les quatre concepts fondamentaux de la psychanalyse*, chapitre sur la pulsion.

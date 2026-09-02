@@ -12,9 +12,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-mohism", target_type: "مدرسة"
 related:
-- id: "sch-mohism", title: "الموهية", type: "مدرسة"
-- id: "thk-mozi", title: "مو زي", type: "مفكر"
-- id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
+- id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
+- id: "thk-mozi", title: "مو زي (مو دي)", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 gaps:
   - "الفرق بين جيان آي في 'Mozi' وفي كتابات 'Later Mohists' لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

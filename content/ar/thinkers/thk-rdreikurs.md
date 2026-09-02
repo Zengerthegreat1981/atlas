@@ -13,21 +13,19 @@ active_start: 1920
 active_end: 1972
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-fkurtz", title: "رونالد كورتز", type: "مفكر"
 - id: "thk-gweishaar", title: "إريك وايشار", type: "مفكر"
 - id: "thk-rcorsini", title: "راي كورسيني", type: "مفكر"
-- id: "thk-rmanaster", title: "رايتشل ماناستر", type: "مفكر"
 - id: "thk-rwatts", title: "ريتشارد واتس", type: "مفكر"
 - id: "thk-tstone", title: "مارك ستون", type: "مفكر"
-- id: "thk-dgray", title: "مارتن ديك", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«هَينز أَنْسْبَاخِر» (thk-hansbacher) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "العلاقة مع مدرسة شيكاغو الأدلرية ملخّصة، وتحتاج تفصيلاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارتن ديك (thk-dgray)."
+  - "رابط لـthk-dgray أُزيل — الـslug له نسختان متعارضتان في العنوان بين المعتمد (مارتن ديك) ومسودة Spark (مارتن غراي)، مسجَّل ضمن 464 تعارض slug في EXISTING_SLUGS.md؛ يحتاج حسماً قبل إعادة الربط."
+  - "رابط لـthk-rmanaster (رايتشل ماناستر) أُزيل — الملف حُجر في 2026-08-27 (Task 2.25) لعدم توثيق الشخص، انظر quarantine-minimax.md."
 ---
 
 # رودولف درايكورس
@@ -48,3 +46,9 @@ gaps:
 ## أهم أعماله
 
 تحدي الطفولة (1964) · الإرشاد الجماعي (خمسينيات القرن العشرين) · علم النفس في الفصل الدراسي (1968) · التربية المدرسية (1968، مع Grunwald وPepper).
+
+## المصادر
+
+- Dreikurs, R. (1964). *Children: The Challenge*. Hawthorn Books.
+- Dreikurs, R. (1944). *Parents Without Fear* (لاحقاً The Challenge of Parenthood).
+- Dreikurs, R., Grunwald, B., & Pepper, F. (1968). *Maintaining Sanity in the Classroom*.

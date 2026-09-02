@@ -13,7 +13,7 @@ active_end: 2014
 part: "psychology"
 crumb: "الأطلس ← thinkers ← كريستينا غروف"
 edges:
-- rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-rmritchie", title: "رالف ميتزner", type: "مفكر"

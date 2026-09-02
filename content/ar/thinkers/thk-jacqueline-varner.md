@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "علم نفس الرياضة", target_type: "مدرسة"
 related:
-- id: "thk-ogilvie", title: "بروس أوكيف", type: "مفكر"
+- id: "thk-ogilvie", title: "بروس أوغيلفي", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

@@ -13,7 +13,7 @@ language: "الإنجليزية / العبرية"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم الأعصاب وسيكولوجيا التعلق البالغ", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
 - id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"

@@ -22,7 +22,7 @@ related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد الدقيقة غير موثقة."
-  - "تفاصيل تطور DBT-FT قبل نشره الرسمي تحتاج مصادر إضافية."
+  - "عنوان وسنة عمله المشترك مع بيري هوفمان حول بروتوكول DBT للعائلات كان مذكوراً خطأً كـ'كتاب DBT for Families'؛ المصدر الموثَّق المتاح هو برنامج «Family Connections» (Hoffman & Fruzzetti، 2005)."
 ---
 
 # آلان فروزّيتي
@@ -35,9 +35,9 @@ gaps:
 
 ## المساهمات الكبرى
 
-### 1. تطوير DBT-FT (DBT for Families)
+### 1. برنامج «Family Connections» (مع بيري هوفمان، 2005)
 
-طوّر فروزّيتي **بروتوكول DBT للعائلات** (Fruzzetti & Hoffman, 2005) الذي:
+طوّر فروزّيتي مع **بيري د. هوفمان** برنامج «Family Connections» التثقيفي لأسر مرضى اضطراب الشخصية الحدّية (Fruzzetti & Hoffman, 2005)، والذي:
 - يُعلّم أفراد الأسرة **مهارات DBT** للانتباه الذهني، تحمل الضيق، التنظيم الانفعالي.
 - يساعد الأهل على **تقليل السلوك المسهّل للبشاعة** (BPD-enabling behaviors).
 - يُركّز على **بناء بيئة أسرية داعمة** للتعافي.
@@ -58,8 +58,8 @@ gaps:
 
 ## المؤلفات
 
-- *The High-Conflict Couple* (مع Fruzzetti، 2006) — كتاب للأزواج.
-- *DBT for Families* (مع Hoffman، 2005).
+- *The High-Conflict Couple: A Dialectical Behavior Therapy Guide to Finding Peace, Intimacy, and Validation* (2006).
+- برنامج «Family Connections» (مع بيري هوفمان، 2005) — منهج تثقيفي لأسر مرضى اضطراب الشخصية الحدّية، وليس كتاباً بعنوان "DBT for Families" كما ورد سابقاً خطأً.
 - *The Dialectical Behavior Therapy Skills Workbook for Families* (2015).
 - مقالات متعددة عن **الانفعالات الأسرية** و**الصحة النفسية للأبناء**.
 

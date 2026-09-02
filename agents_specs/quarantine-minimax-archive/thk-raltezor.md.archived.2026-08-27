@@ -1,0 +1,63 @@
+---
+slug: "thk-raltezor"
+id: "THK-1776"
+type: "مفكر"
+level: "مبتدئ"
+title: "روبرتو آلتِزور"
+en: "Roberto Altezor"
+dates: "أوروغواي"
+country: "أوروغواي"
+language: "الإسبانية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "مدرسة التحليل النفسي ← الناس ← روبرتو آلتِزور"
+edges:
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
+related:
+- id: "thk-adelaserna", title: "أغوستين دي لا سيرنا", type: "مفكر"
+- id: "thk-wbion", title: "ويلفريد بيون", type: "مفكر"
+- id: "thk-cgj", type: "مفكر", title: "كارل غوستاف يونغ"
+- id: "thk-fklein", type: "مفكر", title: "ملك كلاين"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Roberto Altezor' في IAAP أو APU (Asociación Psicoanalítica del Uruguay)."
+  - "لا كتاب منشور بهذا الاسم في WorldCat (حتى آب 2026)."
+  - "العمل المشار إليه ('Bion y Jung: Una Comparación Clínica') غير موثَّق في قواعد البيانات."
+  - "الاحتمال: خُلط مع 'Roberto Altman'، 'Roberto L. Altezur'، أو محلل آخر في SUAPA."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Jungian Uruguay' عام."
+---
+
+# روبرتو آلتِزور
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في حقل التحليلية الأوروغويانية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Roberto Altezor.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IAAP**: لا عضوية.
+  - **APU (Asociación Psicoanalítica del Uruguay)**: لا عضوية ظاهرة في السجلات الإلكترونية.
+  - **JAP (Journal of Analytical Psychology)**: لا مقالة.
+  - **WorldCat**: لا كتاب منشور.
+  - **SciELO Uruguay**: لا مقالة في التحليلية.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Roberto de la Fuente** (محلل يونغي في بوينس آيرس).
+  - **Carlos Gutiérrez Altezuri** (معالج في مونتفيديو).
+  - **Ricardo Bernardi** (معالج في مونتفيديو، في SUAPA).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم.
+- للتحقق:
+  - APU: https://www.apuruguay.org.uy/
+  - SUAPA: https://www.suapa.org/
+  - Bion, W. R. (1962). *Learning from Experience*. Heinemann.
+  - Jung, C. G. (1953). *Two Essays on Analytical Psychology*. Princeton UP.

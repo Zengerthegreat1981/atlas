@@ -13,12 +13,11 @@ active_start: 1973
 active_end: 2015
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-conversion-therapy", target_type: "تيار"
 related:
 - id: "thk-bkaufman", title: "بِنْيامين كوفمان", type: "مفكر"
 - id: "thk-csocarides", title: "تشارلز سوكرايدِس", type: "مفكر"
 - id: "thk-ibieber", title: "إرفنغ بيبر", type: "مفكر"
-- id: "thk-lbarrett", title: "لورا بارِت", type: "مفكر"
 - id: "thk-lwalker", title: "لورا ووكر", type: "مفكر"
 - id: "thk-nlehrman", title: "ناثانئيل لِرمان", type: "مفكر"
 - id: "evt-dsm-homosexuality-removal-1973", title: "تصويت الجمعية الأمريكية للطب النفسي على إزالة المثلية الجنسية من تصنيف الأمراض", type: "حدث تاريخي"
@@ -26,7 +25,6 @@ related:
 - id: "evt-vietnam-veterans-ptsd-advocacy-1980", title: "حركة قدامى محاربي فيتنام وإقرار اضطراب كرب ما بعد الصدمة رسمياً في DSM-III", type: "حدث تاريخي"
 gaps:
   - "تفاصيل التعاون المبكر مع نيكولوسي لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # روبرت سبيتزر
@@ -48,6 +46,8 @@ gaps:
 - *Scientific Basis of the Diagnostic Classification of Mental Disorders* (co-ed.).
 - أشرف على تحرير DSM-III (1980).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Spitzer, R.L. "Can Some Gay Men and Lesbians Change Their Sexual Orientation? 200 Participants Reporting a Change from Homosexual to Heterosexual Orientation." *Archives of Sexual Behavior*, 32(5), 2003.
+- Spitzer, R.L. "Spitzer Reassesses His 2003 Study of Reparative Therapy of Homosexuality" (خطاب اعتذار وتراجع). *Archives of Sexual Behavior*, 41(4), 2012.
+- Carey, B. "Psychiatry Giant Sorry for Backing Gay 'Cure'." *The New York Times*, May 18, 2012.

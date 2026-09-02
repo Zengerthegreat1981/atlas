@@ -10,15 +10,17 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
 - id: "tec-dbt-er-abc-please", title: "ايه بي سي بليز (ABC PLEASE) — خفض الهشاشة الانفعالية", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-accumulating-positives-build-mastery", title: "تجميع الإيجابيات طويلة المدى وبناء الإتقان (B)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد في الأطلس دراسة منفصلة تعزل أثر «A» عن حزمة ABC PLEASE أو عن حزمة DBT الشاملة؛ فعاليتها موثقة ضمن تجارب DBT الكلية لا كمكوّن مستقل."
 ---
 
 # بناء تجارب إيجابية قصيرة المدى (A)
@@ -27,7 +29,7 @@ gaps:
 
 ## ماهية التقنية
 
-«A» في ABC PLEASE تعني **Accumulate Positive Emotions**، وتقوم على:
+المهارة جزء من حزمة تنظيم الانفعالات التي طوّرتها **مارشا لينهان** (thk-mlinehan) عام 1993 ضمن العلاج الجدلي السلوكي، أصلاً لعلاج **اضطراب الشخصية الحدية** (dis-borderline-personality). «A» في ABC PLEASE تعني **Accumulate Positive Emotions**، وتقوم على:
 
 - تخصيص وقت يومي لأنشطة ممتعة (ولو 10-15 دقيقة).
 - الانخراط في النشاط **بيقظة** كاملة، لا بشكل آلي.

@@ -8,6 +8,10 @@ en: "The Evolving Self: A Psychology for the Third Wave"
 crumb: "الإنسانية ← الأعمال ← الذات المتطورة"
 dates: "1982 · روبرت كيغان"
 language: "الإنجليزية"
+author: "روبرت كيغان"
+author_slug: "thk-robert-kegan"
+publication_year: 1982
+original_language: "الإنجليزية"
 active_start: 1982
 active_end: 1982
 part: "psychology"

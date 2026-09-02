@@ -7,8 +7,13 @@ title: "تجربة فستنجر وكارلسميث للتنافر المعرفي
 en: "Festinger & Carlsmith Cognitive Dissonance Experiment (1$ vs 20$)"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجربة فستنجر للتنافر المعرفي"
 active_start: 1959
-active_end: 1959
+active_end: 1967
 part: "psychology"
+study_year: 1959
+design: "تجريبي مخبري (بين المجموعات)"
+sample_size: "71 طالباً جامعياً (موزعين على مجموعتي دولار/عشرين دولاراً ومجموعة ضابطة)"
+main_finding: "من حصلوا على دولار واحد فقط لقاء الكذب على متعة المهمة قيّموها فعلياً بأنها أكثر متعة من الذين حصلوا على 20 دولاراً أو المجموعة الضابطة."
+replication_status: "replicated"
 related:
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
 - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"

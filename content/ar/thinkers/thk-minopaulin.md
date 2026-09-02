@@ -5,44 +5,45 @@ type: "مفكر"
 level: "متوسط"
 title: "مينو بولين"
 en: "Mino Paulin"
-crumb: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy) ← تطوير ← مينو بولين"
-dates: "ألمانيا/الولايات المتحدة · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← مينو بولين"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 2000
-active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
-related:
-- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
-- id: "thk-alexandra-farkas", title: "ألكسندرا فاركاش", type: "مفكر"
-- id: "thk-bruceperkins", title: "بروس بيركنز", type: "مفكر"
-- id: "thk-marisaberkouwer", title: "ماريسا بيركوور", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-minopaulin.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # مينو بولين
 
-معالج نفسي ألماني-أمريكي، من الممارسين البارزين في **العلاج الحسي-الحركي**، ومتخصّص في تكامله مع **التنويم** (Hypnosis) في علاج الصدمة.
+(Mino Paulin)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-minopaulin.md.archived.2026-08-26`
 
-- تطوير **بروتوكولات الدمج** بين العلاج الحسي-الحركي والتنويم الإريكسوني.
-- مساهمات في **تطبيقات Sensorimotor** على اضطرابات الانفصال (Dissociation) والأعراض الجسدية للصدمة.
-- كتابات عن **«النافذة العلاجية»** (Window of Tolerance) في علاج الصدمة وكيفية توسيعها حسّياً.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-يقف بولين عند **تلاقي ثلاث تيارات**: علاج بات أوغدن، وتنويم إريكسون، وعلم أعصاب الصدمة. وهو ما يُنتج **مقاربة تكاملية** متطورة في حقل علاج الصدمة المعاصر.
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## أهم أعماله
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-- مساهمات في كتب عن Sensorimotor Psychotherapy والتنويم.
+## للمتابعة
 
-## اقتباسات مختارة
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-minopaulin.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-minopaulin.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

@@ -11,10 +11,13 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: 1980
 part: "psychology"
+author: "جورج لايكوف ومارك جونسون"
+author_slug: "thk-george-lakoff"
+publication_year: 1980
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "جورج لايكوف", target_type: "مفكر"
-- rel: "authored_by", target: "مارك جونسون", target_type: "مفكر"
+- rel: "authored_by", target: "thk-george-lakoff", target_type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (University of Chicago Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."

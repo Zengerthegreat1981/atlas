@@ -21,7 +21,6 @@ related:
 - id: "ctx-latin-american-coloniality", title: "السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير", type: "سياق/تقليد"
 gaps:
   - "لم تُراجع بعدُ طبعة Duke University Press لـ *The Darker Side of Western Modernity* (2011)."
-  - "لا اقتباس مباشر موثّق منه في هذا الملف."
 ---
 
 # والتر مينيولو
@@ -44,5 +43,10 @@ gaps:
 ## الأثر
 
 - أسّس مع **Aníbal Quijano** مفهوم **«مصفوفة الكولونيالية»** (Colonial Matrix of Power).
-- أثّر في حركات **BDS** ودراسات ما بعد الكولونيالية في أمريكا اللاتينية.
 - شكّل **أرضية فلسفية** لمشروع «**التحرر**» (Liberation) في أمريكا اللاتينية.
+
+## المصادر
+
+- Mignolo, W. D. (2011). *The Darker Side of Western Modernity: Global Futures, Decolonial Options*. Duke University Press.
+- Quijano, A., & Mignolo, W. (2000). "Coloniality of Power, Eurocentrism, and Latin America". *Nepantla: Views from South*, 1(3).
+- صفحة مينيولو الأكاديمية في جامعة Duke (romancestudies.duke.edu).

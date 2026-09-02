@@ -11,6 +11,10 @@ dates: "1974 · روبرت نوزيك"
 language: "الإنجليزية"
 active_start: 1974
 active_end: 1974
+author: "روبرت نوزيك"
+author_slug: "thk-nozick"
+publication_year: 1974
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-libertarianism", target_type: "مدرسة"
 related:
@@ -19,7 +23,6 @@ related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
 gaps:
   - "النص الأصلي Anarchy, State, and Utopia (1974) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اللاإكراه، الدولة، واليوتوبيا (Anarchy, State, and Utopia, 1974)

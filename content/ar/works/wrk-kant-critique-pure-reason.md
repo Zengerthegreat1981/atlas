@@ -9,6 +9,10 @@ en: "Critique of Pure Reason (Kritik der reinen Vernunft) by Immanuel Kant"
 crumb: "الفلسفة النقدية الكانطية ← أمهات الأعمال ← نقد العقل الخالص"
 active_start: null
 active_end: "مستمر"
+author: "إيمانويل كانط"
+author_slug: "thk-kant"
+publication_year: 1781
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:

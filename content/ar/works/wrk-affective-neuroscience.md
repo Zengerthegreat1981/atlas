@@ -6,21 +6,24 @@ level: "متقدم"
 title: "علم الأعصاب الوجداني: الأسس العصبية للعواطف الإنسانية والحيوانية"
 en: "Affective Neuroscience: The Foundations of Human and Animal Emotions"
 crumb: "علم النفس المعرفي ← الأعمال ← علم الأعصاب الوجداني"
-dates: "1998 · جاك بانكسيب"
+dates: "1998 · ياكوب بانكسيب"
 language: "الإنجليزية"
 active_start: 1998
 active_end: 1998
+author: "ياكوب بانكسيب"
+author_slug: "thk-panksepp"
+publication_year: 1998
+original_language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "جاك بانكسيب", target_type: "مفكر"
+- rel: "authored_by", target: "thk-panksepp", target_type: "مفكر"
 related:
-- id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Oxford University Press) والطبعات اللاحقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."
-  - "المؤلف جاك بانكسيب (Jaak Panksepp) ليس له ملف مفكر مستقل في الأطلس بعد."
 ---
 
 # علم الأعصاب الوجداني: الأسس العصبية للعواطف الإنسانية والحيوانية

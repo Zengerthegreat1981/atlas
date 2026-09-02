@@ -28,8 +28,7 @@ related:
 - id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "ctx-chestnut-lodge-inpatient-psychoanalysis", title: "مصحة تشستنت لودج والتحليل النفسي الإكلينيكي للحالات الذهانية", type: "سياق/تقليد"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "نظريته في القلق كعدوى بين-شخصية وتأثيرها على رولو ماي تستحق التوثيق في المفاهيم."
+  - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
 ---
 # هاري ستاك سوليفان
 
@@ -48,4 +47,10 @@ gaps:
 
 ## أهم أعماله
 
-النظرية البين-شخصية في الطب النفسي (The Interpersonal Theory of Psychiatry, 1953) · المقابلة النفسية (The Psychiatric Interview, 1954).
+توفي سوليفان عام 1949 قبل نشر أهم كتبه، وصدرا بعد وفاته: The Interpersonal Theory of Psychiatry بعد وفاته عام 1953، وThe Psychiatric Interview بعد وفاته عام 1954، وكلاهما جُمع وحُرِّر من محاضراته بمعرفة تلاميذه.
+
+## المصادر
+
+- Harry Stack Sullivan, *The Interpersonal Theory of Psychiatry*, W. W. Norton, 1953 (نُشر بعد وفاته، تحرير Helen Swick Perry وMary Ladd Gawel).
+- Harry Stack Sullivan, *The Psychiatric Interview*, W. W. Norton, 1954.
+- Helen Swick Perry, *Psychiatrist of America: The Life of Harry Stack Sullivan*, Harvard University Press, 1982.

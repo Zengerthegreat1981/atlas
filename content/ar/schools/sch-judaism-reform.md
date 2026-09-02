@@ -9,6 +9,7 @@ en: "Reform Judaism (as an intellectual movement)"
 crumb: "الفلسفة ← اليهودية ← اليهودية الإصلاحية"
 dates: "برلين، فرانكفورت، فيلنا، الولايات المتحدة · من القرن 19 م إلى اليوم"
 country: "ألمانيا، النمسا، الولايات المتحدة، المملكة المتحدة، إسرائيل"
+cultural_origin: "european"
 language: "الألمانية (لاحقاً الإنجليزية، العبرية)"
 active_start: 1810
 active_end: "مستمر"
@@ -16,14 +17,13 @@ edges:
 - rel: "evolved_from", target: "sch-haskalah", target_type: "مدرسة"
 related:
 - id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
 - id: "thk-abraham-geiger", title: "أبراهام جيغر", type: "مفكر"
 - id: "con-tzimtzum", title: "القبض الإلهي (تيمتسوم)", type: "مفهوم"
 - id: "con-prophetic-philosophy", title: "الفلسفة النبوية (نقد العقل الفلسفي لصالح الوحي)", type: "مفهوم"
 - id: "con-melammu", title: "ميلمو (البهاء الإلهي)", type: "مفهوم"
 gaps:
   - "نصوص أبراهام جايجر وصموئيل هولدهايم بالألمانية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Wissenschaft des Judentums' أو 'Pittsburgh Platform'."
   - "العلاقة بين الإصلاح الألماني والإصلاح الأمريكي (فروقات لاهوتية عملية) معقّدة."
 ---
 
@@ -113,3 +113,10 @@ gaps:
 - هل التعاطي مع الإلحاد أو اللاأدرية ضمن المعبد ممكن؟
 
 ردّ الإصلاح المعاصر بأنّ اليهودية «حضارة دينية» متجدّدة، قادرة على احتواء التنوّع.
+
+## المصادر
+
+- Meyer, Michael A. *Response to Modernity: A History of the Reform Movement in Judaism*. Oxford University Press, 1988.
+- Plaut, W. Gunther. *The Rise of Reform Judaism: A Sourcebook of Its European Origins*. World Union for Progressive Judaism, 1963.
+- Ellenson, David. *After Emancipation: Jewish Religious Responses to Modernity*. Hebrew Union College Press, 2004.
+- Borowitz, Eugene B. *Reform Judaism Today*. Behrman House, 1978.

@@ -10,6 +10,7 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
@@ -17,9 +18,11 @@ related:
 - id: "tec-dbt-ie-give", title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-avoiding-unnecessary-apologies", title: "تجنب الاعتذار غير الضروري", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على تجربة معشاة تعزل أثر FAST وحدها عن باقي وحدة العلاقات الفعالة؛ الدليل التجريبي متاح على مستوى حزمة DBT الكاملة لا المهارة منفردة."
 ---
 
 # فاست (FAST) — توكيد واحترام الذات
@@ -57,3 +60,12 @@ FAST هو اختصار لأربعة عناصر تحمي احترام الذات:
 
 - قد تستخدم كقشرة لـ«الأنانية» (Selfishness) إذا لم يقترن بـ GIVE.
 - التمسك بالقيم قد يصبح عناداً غير مرن.
+
+## الأصل والدليل التجريبي
+
+صاغت مارشا لينهان (Marsha Linehan) وحدة العلاقات الفعالة، ومنها FAST، ضمن حزمة DBT التي نشرتها في كتابها «العلاج المعرفي السلوكي لاضطراب الشخصية الحدية» (1993) استجابةً لنمط سريري لاحظته عند مريضات اضطراب الشخصية الحدية: التنازل المفرط عن احترام الذات خوفاً من رفض الآخر. الدليل التجريبي الأقوى يأتي من تجارب معشاة أجرتها لينهان وزملاؤها بدءاً من 1991 على حزمة المهارات الأربع مجتمعة، لا على FAST بمفردها. تتقاطع FAST مع تدريب التوكيدية من المدرسة المعرفية السلوكية في حماية حق الفرد في التعبير عن رأيه، لكنها تركّز بالتحديد على البعد الداخلي (القيم والصدق مع الذات) بينما ينصبّ تدريب التوكيدية على السلوك الخارجي المُلاحَظ في الموقف.
+
+## المصادر
+
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.

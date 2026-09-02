@@ -12,6 +12,7 @@ country: "شبه القارة الهندية"
 language: "السنسكريتية"
 active_start: 1100
 active_end: 1800
+cultural_origin: "indian"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
@@ -57,3 +58,8 @@ gaps:
 ## القيد
 
 - قد تبدو ترقيعاً أفلاطونياً بين أدفايتا ودفايتا.
+
+## المصادر
+
+- Dasgupta, Surendranath. *A History of Indian Philosophy*, Vol. III. Cambridge University Press, 1940.
+- Nicholson, Andrew J. *Unifying Hinduism: Philosophy and Identity in Indian Intellectual History*. Columbia University Press, 2010.

@@ -8,23 +8,48 @@ en: "Phyllis B. Booth"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1970
+active_start: 1967
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← فيلس بوث"
+crumb: "الأطلس ← thinkers ← فيليس بوث"
 edges:
-- rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-theraplay", target_type: "تيار"
 related:
 - id: "thk-ajernberg", title: "آن جِرنبرغ", type: "مفكر"
 gaps:
-  - "السيرة الكاملة لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-tlsachs، thk-ebowlby، thk-pcrittenden)."
+  - "السيرة الذاتية الكاملة (نشأتها، دراستها) غير منشورة على الإنترنت."
 ---
 
 # فيليس بوث
 
-معالجة نفسية للأطفال، شريكة تأسيس Theraplay مع آن جيرنبرغ، وأحد الأصوات المؤسسة للمنهاج.
+معالجة نفسية أمريكية (LCPC, LMFT, RPT-S)، المديرة السريرية الفخرية لمعهد Theraplay في إيفانستون (إلينوي). بدأت مسيرتها في 1967 ضمن «أوّل مجموعة من المستشارين النفسيين لبرنامج Head Start» في شيكاغو.
 
-## ما أعطته
+## ما أعطتها
 
-تعاونت بوث مع جيرنبرغ في تطوير «الجلسات المنظمة» (Structured Sessions) في Theraplay منذ السبعينيات. أشرفت على تأسيس «Theraplay Institute» في شيكاغو ونشرت الأدلة التدريبية المعتمدة للعلاج بالألعاب العلائقي. ركّزت على تطبيقات المنهج مع الأطفال المتبنَّين والمشرَّدين.
+- **«Theraplay: Helping Parents and Children Build Better Relationships Through Attachment-Based Play»** (الطبعة الثالثة، مع آن جِرنبرغ، Norton): الكتاب المرجعي للحقل. يقدّم نظرية Theraplay وأبعاده الأربعة (التنظيم، الانخراط، الرعاية، التحدي).
+- **«Marschak Interaction Method (MIM)»** (Booth et al., 2005): أداة التقييم التفاعلي للعلاقة بين الطفل ووالديه. تستخدم في التشخيص الأولي في Theraplay.
+- **«الجلسات المنظمة» (Structured Sessions) في Theraplay**: الإطار السريري المعتمد للحقل (مقدمة، استكشاف، قبول مبدئي، مقاومة، نمو وثقة، نهاية).
+- **«برامج Theraplay للأطفال المتبنَّين والمشرَّدين»**: تطبيقات متخصصة مع الفئات الأكثر هشاشة.
+- **«مناهج تدريب Theraplay ومعايير الاعتماد»**: وضعت مع Jernberg الإطار التدريبي المهني للمعالجين المعتمدين.
+
+## موقعها من التيار
+
+شريكة تأسيس Theraplay مع آن جِرنبرغ. تربط Theraplay بين:
+- **النظرية التعلُّقية** (بولبي، آنسورث، كريتندن).
+- **اللعب العلاجي** (Axline، Klein).
+- **النهج القصير المُنظَّم** (Brief Structured Therapy).
+
+## شُبَكُها العلمية
+
+- **آن جِرنبرغ (Ann M. Jernberg, 1933–1993)**: المؤسسة المشاركة لمعهد Theraplay، والمديرة السريرية الأولى (1969–1993).
+- **تيودور ليبس (Theodor Lipps, 1851–1914)**: الفيلسوف الألماني صاحب مفهوم «الإحساس بالتوحد» (Einfühlung)، أحد المصادر النظرية لـTheraplay.
+- **جون بولبي (John Bowlby, 1907–1990)**: مؤسِّس نظرية التعلُّق، المرجعية الأساسية للحقل.
+- **باتريشيا كريتندن (Patricia Crittenden)**: طوَّرت «نموذج التعلُّق الديناميكي-النضجي» (DMM)، الذي تبنّته Theraplay لاحقاً.
+
+## المصادر
+
+- Theraplay Institute: https://theraplay.org/team/phyllis-booth/
+- Booth, P. & Jernberg, A. (2009/2018). *Theraplay: Helping Parents and Children Build Better Relationships Through Attachment-Based Play*. Guilford (الطبعة الثالثة).
+- Theraplay book excerpt: https://cdn.oujdalibrary.com/books/500/500-theraplay-helping-parents-and-children-build-better-relationships-through-attachment-based-play-(www.tawcer.com).pdf
+- Booth, P. et al. (2005). *Marschak Interaction Method (MIM)*. Theraplay Institute Press.

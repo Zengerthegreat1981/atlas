@@ -12,8 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-intercultural-philosophy", target_type: "مدرسة"
 related:
-- id: "sch-intercultural-philosophy", title: "الفلسفة بين-ثقافية", type: "مدرسة"
+- id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"
 - id: "thk-wimmer", title: "فرانتس مارتن فيمر", type: "مفكر"
+- id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مجلة *Polylog* (المنشورة في فيينا منذ 1998) حيث يَتركز البحث في المصطلح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

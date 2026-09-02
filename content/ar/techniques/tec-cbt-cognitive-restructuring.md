@@ -11,14 +11,16 @@ active_start: 1960
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+evidence_level: "well-established"
 related:
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "con-cognitive-distortion", title: "التشوه المعرفي", type: "مفهوم"
-- id: "con-automatic-thought", title: "الفكرة التلقائية", type: "مفهوم"
+- id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
+- id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
 gaps:
   - "الفرق بين إعادة الهيكلة المعرفية وDetached Mindfulness في ACT غير مفصّل."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "هذا الملف يغطي نفس موضوع tec-cbt-cog-cognitive-restructuring.md (slug مختلف لنفس التقنية) — الملفان لم يُدمَجا هنا؛ المسألة مسجّلة لمراجعة رئيس التحرير بشأن أيهما يبقى مرجعاً وحيداً."
+  - "رقم 'أكثر من 500 تجربة' في قسم الدراسات السريرية غير منسوب لمصدر محدد بعنوان وسنة."
 ---
 # إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT
 

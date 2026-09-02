@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي", type: "تيار"
+- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي (دوران ويلو بيرد)", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 gaps:

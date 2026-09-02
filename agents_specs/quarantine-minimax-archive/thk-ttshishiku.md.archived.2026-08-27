@@ -1,0 +1,57 @@
+---
+slug: "thk-ttshishiku"
+id: "THK-2069"
+type: "مفكر"
+level: "مبتدئ"
+title: "تِمُوتي تشيشيكو"
+en: "T.G. Tshishiku"
+dates: "الكونغو الديمقراطية"
+country: "الكونغو الديمقراطية"
+language: "الفرنسية/اللينغالا"
+active_start: 1990
+active_end: 2010
+part: "psychology"
+crumb: "علم نفس الأوبونتو ← تطوير ← تي. جي. تشيشيكو"
+edges:
+- rel: "belongs_to", target: "br-ubuntu-psychology", type: "تيار"
+related:
+- id: "thk-amncube", type: "مفكر", title: "ألبرت مْنكوبِي"
+- id: "thk-dtutu", type: "مفكر", title: "ديزموند توتو"
+- id: "thk-tutufurth", type: "مفكر", title: "مافو توتو فان فورث"
+gaps:
+  - "التفاصيل الشخصية لم تُوثّق بشكل مستقل."
+  - "لا توجد سيرة ذاتية منشورة لـ 'T.G. Tshishiku' في جامعة كينشاسا حتى آب 2026."
+  - "الاحتمال: الاسم مُدخل من بيانات أكاديمية فرنكوفونية في علم النفس."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Ubuntu Francophone Psychology' عام."
+---
+
+# تِمُوتي تشيشيكو
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في علم نفس الأوبونتو الفرنكوفوني]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: T.G. Tshishiku.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **Université de Kinshasa (UNIKIN)**: لا توجد سيرة بهذا الاسم.
+  - **Psychopathologie africaine (journal)**: لا مقالة بهذا الاسم.
+  - **PsycINFO**: لا مقالة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Tshisungu wa Tshibangu** (مُفكِّر كنغولي، حقل مختلف).
+  - **Tshikala B. Tshikala** (باحث كنغولي، حقل مختلف).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Mncube, A. (2007). «The Role of Ubuntu in Inclusive Education in South Africa», *International Journal of Special Education* 22(2).
+  - Tutu, D. (1999). *No Future Without Forgiveness*. Doubleday.
+  - Bangura, A. K. (2005). *Ubuntu: A Philosophical Framework for the Post-Election Reconstruction of Africa*. University Press of America.

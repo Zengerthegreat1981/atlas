@@ -2,47 +2,60 @@
 slug: "thk-mary-stewart"
 id: "THK-2710"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "ماري ستيوارت"
 en: "Mary Stewart"
-crumb: "تحليل المعاملات (TA) ← تطوير ← ماري ستيوارت"
-dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+dates: "المملكة المتحدة"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
+crumb: "تحليل المعاملات (TA) ← تطوير ← ماري ستيوارت"
 edges:
-- rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
-- id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
-- id: "thk-tony-white", title: "توني وايت", type: "مفكر"
 - id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
+- id: "thk-tstonge", type: "مفكر", title: "توماس هاريس (TA)"
+- id: "thk-twhite", type: "مفكر", title: "توني وايت"
+- id: "thk-ckertész", type: "مفكر", title: "كورنيليا كيرتيز"
+- id: "br-transactional-analysis", type: "تيار", title: "تحليل المعاملات (TA)"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Mary Stewart' في ITA (International Transactional Analysis Association) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Mary Stewart' (كاتبة رومانسية، 1916–2014) أو 'Mary Stewart-Merriman' (صحفية)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'TA UK Couples' عام."
 ---
 
 # ماري ستيوارت
 
-معالجة نفسية بريطانية، من المساهمين في **تطبيقات تحليل المعاملات** (TA) في **العلاج الزوجي والأسري**.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في TA]
 
-## ما أعطته
+## محاولة التوثيق
 
-- تطوير **بروتوكولات TA** للعلاج الزوجي، خصوصاً مع الأزواج في حالات الصراع المزمن.
-- فصول في كتب عن **«TA في العلاقات الزوجية»**.
-- مساهمات في **«تدريب المعالجين»** على TA في المملكة المتحدة.
-- أبحاث عن **«فعالية TA في العلاج الأسري»**.
+- **الاسم المُسجَّل**: Mary Stewart.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **ITA (International Transactional Analysis Association)**: لا عضوية.
+  - **PubMed**: لا مقالة في TA + Mary Stewart.
+  - **Amazon**: لا كتاب منشور في TA.
+  - **WorldCat**: لا كتاب منشور.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-تقف ستيوارت عند **تلاقي TA مع العلاج الأسري**، وهو ما يُنتج تطبيقات جديدة للنموذج في **السياقات العلائقية**، مع الحفاظ على جوهره التحليلي.
+- احتمال **الخلط** مع:
+  - **Mary Stewart** (كاتبة رومانسية 1916–2014، أشهر أعمالها سلسلة «Arthurian Saga»).
+  - **Mary Stewart-Merriman** (صحفية).
+  - **Mary R. Stewart** (محلِّلة سلوكية، حقل مختلف).
 
-## أهم أعمالها
+## ما يحتاجه هذا العنصر
 
-- مساهمات في كتب TA والعلاج الأسري.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة في TA.
+- للتحقق:
+  - Berne, E. (1961). *Transactional Analysis in Psychotherapy*. Grove Press.
+  - Stewart, I. & Joines, V. (1987). *TA Today*. Lifespace Publishing.
+  - ITA: https://www.itaaworld.com/

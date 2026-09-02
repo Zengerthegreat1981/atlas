@@ -18,8 +18,7 @@ related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "ورقته التاريخية 'طبيعة الفعل العلاجي في التحليل النفسي' (1934) ومفهوم 'التأويل الطافر' تستحق إدراجاً."
+  - "تفاصيل منهجه في الترجمة (اختياراته المصطلحية المثيرة للجدل مثل 'id/ego' مقابل الألمانية 'Es/Ich') لم تُراجع من مصدر أولي."
 ---
 
 # جيمس ستراشي
@@ -39,4 +38,10 @@ gaps:
 
 ## أهم أعماله
 
-طبيعة الفعل العلاجي في التحليل النفسي (The Nature of the Therapeutic Action of Psychoanalysis, 1934) · النسخة المعيارية للأعمال الكاملة لسيغموند فرويد (Standard Edition في 24 مجلداً، 1953–1974).
+طبيعة الفعل العلاجي في التحليل النفسي (The Nature of the Therapeutic Action of Psychoanalysis, 1934) · النسخة المعيارية للأعمال الكاملة لسيغموند فرويد (Standard Edition في 24 مجلداً، بدأها 1953 وأُكملت بعد وفاته 1967 حتى 1974 على يد زوجته أليكس ستراتشي وأنجيلا ريتشاردز).
+
+## المصادر
+
+- Strachey, J. (1934). The nature of the therapeutic action of psycho-analysis. *International Journal of Psycho-Analysis*, 15, 127–159.
+- Strachey, J. (ed. & trans.) (1953–1974). *The Standard Edition of the Complete Psychological Works of Sigmund Freud* (24 vols.). London: Hogarth Press.
+- Meisel, P., & Kendrick, W. (eds.) (1985). *Bloomsbury/Freud: The Letters of James and Alix Strachey, 1924–1925*. New York: Basic Books.

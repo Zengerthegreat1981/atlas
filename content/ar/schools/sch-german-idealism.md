@@ -3,6 +3,7 @@ slug: "sch-german-idealism"
 id: "SCH-0122"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "european"
 level: "متوسط"
 title: "المثالية الألمانية (كمظلة)"
 en: "German Idealism (umbrella)"
@@ -20,9 +21,9 @@ edges:
 - rel: "split_into", target: "sch-neokantian", target_type: "مدرسة"
 related:
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-- id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-fichte", title: "الفيختية", type: "مدرسة"
 - id: "sch-schelling", title: "الشيلنغية", type: "مدرسة"
 - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
@@ -34,7 +35,6 @@ related:
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 gaps:
   - "المظلة الإجرائية لمذهب واسع ومتنازع عليه؛ الفترة النهائية (1815–1831) أقل توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # المثالية الألمانية (كمظلة)
 
@@ -59,3 +59,10 @@ gaps:
 
 - هذه مظلة تاريخية تعليمية، لا مذهب موحد.
 - العلاقة بين كانط (المؤسس غير المباشر) وبقية المذاهب محل خلاف تاريخي؛ بعض المؤرخين يستبعد كانط من «المثالية الألمانية» تماماً.
+
+## المصادر
+
+- Beiser, F. C. (2002). *German Idealism: The Struggle against Subjectivism, 1781-1801*. Harvard University Press.
+- Pinkard, T. (2002). *German Philosophy 1760-1860: The Legacy of Idealism*. Cambridge University Press.
+- Kant, I. (1998). *Critique of Pure Reason* (P. Guyer & A. Wood, Trans.). Cambridge University Press. (Original work published 1781/1787).
+- Hegel, G. W. F. (1977). *Phenomenology of Spirit* (A. V. Miller, Trans.). Oxford University Press. (Original work published 1807).

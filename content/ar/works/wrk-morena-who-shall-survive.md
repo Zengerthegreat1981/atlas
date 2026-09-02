@@ -11,14 +11,18 @@ language: "الإنجليزية"
 active_start: 1934
 active_end: 1934
 part: "psychology"
+author: "جاكوب مورينو"
+author_slug: "thk-jmoreno"
+publication_year: 1934
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-jmoreno", target_type: "مفكر"
 related:
-- id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
-- id: "con-catharsis-integration", title: "الكاثارسيس التكاملي", type: "مفهوم"
+- id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
+- id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
 gaps:
   - "الطبعات اللاحقة (1953، 1978) لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # من سيبقى على قيد الحياة؟ (Who Shall Survive?)

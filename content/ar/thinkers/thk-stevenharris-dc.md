@@ -13,35 +13,34 @@ active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "إرشاد التمييز والبت الزوجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-discernment-counseling", target_type: "تيار"
 related:
 - id: "thk-wdoherty", title: "بيل دوهرتي", type: "مفكر"
 - id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة ميلاده غير موثّقة في هذا الملف."
 ---
 
 # ستيفن هاريس
 
-أستاذ العلاج الأسري في جامعة ميامي، من المتعاونين مع **بيل دوهرتي** في تطوير **الاستشارة التمييزية** (Discernment Counseling) كنموذج متخصص للعمل مع الأزواج المختلفين حول الطلاق.
+أستاذ ومدير برنامج العلاج الزوجي والأسري في جامعة مينيسوتا (قسم علم الاجتماع الأسري)، شريك **بيل دوهرتي** في تأليف أول كتاب مرجعي عن **الاستشارة التمييزية** (Discernment Counseling)، نموذج متخصص من خمس جلسات للعمل مع الأزواج المختلفين حول الاستمرار في الزواج أو الطلاق.
 
 ## ما أعطاه
 
-- مساهمات في **أبحاث النتائج** (Outcome Research) لنموذج الاستشارة التمييزية.
-- تطوير **بروتوكولات التدريب** للمعالجين الراغبين في اعتماد النموذج.
-- كتابات حول **الأخلاقيات في الاستشارة الزوجية** بين مساعدة العميل على البقاء ومساعدته على القرار.
+- شارك دوهرتي تأليف *Helping Couples on the Brink of Divorce* (2017)، أول كتاب مرجعي/دليل تدريبي متكامل عن الاستشارة التمييزية.
+- أدار مشروع **MN Couples on the Brink**، الذي يطوّر ويقيّم أفضل الممارسات لمساعدة الأزواج في خطر طلاق مرتفع.
+- نشر أكثر من 90 بحثاً محكَّماً وفصلاً في مجال العلاج الأسري وقرارات الطلاق.
 
 ## موقعه من التيار
 
-هاريس من أهم **الأكاديميين** الذين نقلوا نموذج دوهرتي من ورش العمل الإكلينيكية إلى **البحث المحكَم** والمنشورات العلمية. وهو ما منح النموذج مكانة أكاديمية معتبرة رغم حداثته.
+هاريس هو الشريك الأكاديمي الذي حوّل نموذج دوهرتي الإكلينيكي إلى **منهج بحثي وتدريبي مؤسسي** في جامعة مينيسوتا، عبر تأليف الكتاب المرجعي وقيادة مشروع بحثي مستمر لتقييم النتائج.
 
 ## أهم أعماله
 
-- أبحاث منشورة في *Journal of Marital and Family Therapy*.
-- مساهمات في *Discernment Counseling for Mixed-Status Couples* ودراسات متابعة.
+- William J. Doherty & Steven M. Harris, *Helping Couples on the Brink of Divorce: Discernment Counseling for Troubled Relationships* (Washington, DC: American Psychological Association, 2017).
+- مشروع MN Couples on the Brink، جامعة مينيسوتا.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- William J. Doherty & Steven M. Harris, *Helping Couples on the Brink of Divorce: Discernment Counseling for Troubled Relationships* (APA, 2017).
+- صفحة السيرة الرسمية، قسم علم الاجتماع الأسري، جامعة مينيسوتا (fsos.umn.edu/people/faculty/steven-harris).

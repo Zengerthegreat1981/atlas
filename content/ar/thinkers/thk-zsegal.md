@@ -27,7 +27,6 @@ related:
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 gaps:
   - "سنة الميلاد الدقيقة (1950) وارد في بعض المراجع الثانوية وتحتاج تحققاً من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 
 # زيندل سيغال
@@ -69,6 +68,8 @@ gaps:
 - التدريب في MBCT طويل ويتطلَّب ممارسة شخصية لليقظة من المعالج، وهو ما يحدّ من توفّر الممارسين.
 - بعض التفسيرات النظرية (لا سيما «نظرية الأنظمة التفاعلية المعرفية» لتيزديل) ما تزال قيد البحث التجريبي.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح في هذا الملف. يلزم التحقق من نصوص سيغال الأصلية قبل اعتماد أي اقتباس.
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-Based Cognitive Therapy for Depression: A New Approach to Preventing Relapse*. Guilford Press.
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013). *Mindfulness-Based Cognitive Therapy for Depression* (2nd ed.). Guilford Press.
+- Williams, J. M. G., Teasdale, J. D., Segal, Z. V., & Kabat-Zinn, J. (2007). *The Mindful Way through Depression*. Guilford Press.

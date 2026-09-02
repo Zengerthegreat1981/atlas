@@ -13,7 +13,7 @@ active_start: 1984
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
+- rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
 - id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
 - id: "thk-pappelbaum", title: "بول أبلباوم", type: "مفكر"
@@ -40,8 +40,7 @@ gaps:
 
 ## أهم أعماله
 
-- *The HCR-20: Assessing Risk for Violence, Version 2* (2003، مع Hart وDouglas).
-- *Risk Assessment and Management with Violent Patients* (1997).
+- *HCR-20: Assessing Risk for Violence, Version 2* (1997، مع Hart وDouglas وEaves) — الإصدار الثاني الذي أصبح المرجع الأوسع استخداماً قبل أن يراجعه زملاؤه لاحقاً كإصدار ثالث.
 
 ## نقد
 

@@ -19,8 +19,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "مفهوم 'الذاتية التي لا مفر منها للمعالج' (Irreducible Subjectivity) والتحليل البراغماتي يستحقان توثيقاً."
+  - "لم أعثر على اقتباس مباشر منسوب بصفحة محددة من ورقته 'Analytic Interaction' (1993)."
 ---
 
 # أوين رينيك
@@ -40,4 +39,10 @@ gaps:
 
 ## أهم أعماله
 
-التحليل النفسي البراغماتي: أفكار وتجارب إكلينيكية (Practical Psychoanalysis, 2006) · الذاتية غير القابلة للاختزال للمعالج في الموقف الإكلينيكي (1993).
+التحليل النفسي البراغماتي: أفكار وتجارب إكلينيكية (Practical Psychoanalysis for Therapists and Patients, 2006) · «التفاعل التحليلي: التلبّق وذاتية المحلل غير القابلة للاختزال» (Analytic Interaction: Conceptualizing Tact and the Analyst's Irreducible Subjectivity, Psychoanalytic Quarterly 62, 1993).
+
+## المصادر
+
+- Renik, O., "Analytic Interaction: Conceptualizing Tact and the Analyst's Irreducible Subjectivity," *Psychoanalytic Quarterly* 62(4), 1993.
+- Renik, O., *Practical Psychoanalysis for Therapists and Patients*, New York: Other Press, 2006.
+- de Mijolla, A. (ed.), *International Dictionary of Psychoanalysis*, Detroit: Macmillan Reference USA, 2005.

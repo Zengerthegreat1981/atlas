@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "إنجلترا، فرنسا، هولندا، أمريكا، إسكتلندا · من القرن 17 م إلى القرن 19 م"
 country: "إنجلترا، فرنسا، هولندا، أمريكا، إسكتلندا"
 language: "الإنجليزية، الفرنسية، الهولندية، اللاتينية"
+cultural_origin: "european"
 active_start: 1690
 active_end: 1870
 edges:
@@ -23,7 +24,7 @@ related:
 - id: "sch-deism", title: "الربوبية", type: "مدرسة"
 gaps:
   - "نصوص آدم سميث وبنتام وماديسون بالإنجليزية والفرنسية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'The Wealth of Nations' لآدم سميث."
+  - "الاقتباسات من 'The Wealth of Nations' لآدم سميث تحتاج مراجعة إضافية من المصدر الإنجليزي الأصلي."
   - "التمييز بين 'الليبرالية الكلاسيكية' و'الليبرالية الحديثة' (Modern Liberalism) معقّد تاريخياً."
 ---
 
@@ -172,3 +173,9 @@ gaps:
 - **التوتّر مع الفقر**: «**الليبرالية**» (Liberalismus) «**الْكَلَاسِيكِيَّة**» (Classica) «**لَا**» (Non) «**تَهْتَمّ**» (Curat) بِ«**الْفَقْر**» (Paupertate) — «**السُّوق**» (Mercatus) «**يَتْرُكُ**» (Relinquit) «**الْفُقَرَاء**» (Pauperes) «**لِحَالِهِمْ**» (Sui Sibi). «**مِيل**» (Mill) وَ«**التُّوسُعِيُّون**» (Progressistae) «**نَقَدُوا**» (Censuerunt) هَذَا. «**مَارْكْس**» (Marx) «**اِنْتَقَدَ**» (Censuit) «**لَا**» (Non) «**لِأَنَّ**» (Quia) «**تَهْتَمّ**» (Curat) «**بِالْفُقَرَاء**» (Pauperibus) بَلْ «**لِأَنَّهَا**» (Quia) «**لَا**» (Non) «**تَهْتَمّ**» (Curat) بِهِمْ أَصْلاً.
 - **التوتّر مع الاستعمار**: «**الليبرالية**» (Liberalismus) «**الْكَلَاسِيكِيَّة**» (Classica) «**اِسْتَخْدَمَتْ**» (Usurpavit) «**فِي**» (In) «**تَبْرِير**» (Iustificationem) «**الِاسْتِعْمَار**» (Colonialismi) («**السُّوق**» (Mercatus) «**الْحُرّ**» (Liber) يَحْتَاج «**مَوَادّ**» (Materias) «**خَام**» (Crudas) مِنَ «**الْمُسْتَعْمَرَات**» (Colonias)). «**سِيسَايْر**» (Césaire) وَ«**فان**» (Fanon) «**نَقَدَا**» (Censuerunt) هَذَا.
 - **الإرث المعاصر**: «**الليبرالية**» (Liberalismus) «**الْكَلَاسِيكِيَّة**» (Classica) «**مَازَالَتْ**» (Adhuc) «**أَسَاس**» (Basis) «**الدِّيمُقْرَاطِيَّات**» (Democratiarum) «**الْغَرْبِيَّة**» (Occidentalium) «**الْمُعَاصِرَة**» (Contemporanearum) — وَ«**اِنْتِقَادُهَا**» (Critica) «**أَيْضًا**» (Etiam) «**مُسْتَمِرّ**» (Continuus) فِي «**الْفَلْسَفَة**» (Philosophia) «**الْمُعَاصِرَة**» (Contemporanea) («**رولز**» (Rawls)، «**هَابِرمَاس**» (Habermas)، «**سَنْدِل**» (Sandel)، «**يولْ**» (Young)).
+
+## المصادر
+
+- Rawls, John. *A Theory of Justice*. Harvard University Press (Belknap Press), 1971.
+- Hayek, Friedrich A. *The Constitution of Liberty*. University of Chicago Press, 1960.
+- Manent, Pierre. *An Intellectual History of Liberalism*. Princeton University Press, 1994.

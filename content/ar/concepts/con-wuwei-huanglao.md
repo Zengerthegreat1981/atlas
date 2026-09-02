@@ -12,8 +12,8 @@ active_end: 100
 edges:
 - rel: "belongs_to", target: "sch-huang-lao", target_type: "مدرسة"
 related:
-- id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
-- id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل", type: "مفهوم"
+- id: "sch-huang-lao", title: "هوانغ-لاو (Huang-Lao)", type: "مدرسة"
+- id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل الإجباري", type: "مفهوم"
 - id: "con-fa", title: "الفا (法) — القانون الموضوعي", type: "مفهوم"
 - id: "wrk-huanglao-texts", title: "نصوص هوانغ-لاو (مجموعة)", type: "عمل / كتاب"
 gaps:

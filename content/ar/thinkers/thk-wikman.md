@@ -19,7 +19,6 @@ related:
 - id: "thk-schwartzsalant", title: "ناثان شوارتز-سالانت", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مونيكا ويكمان
@@ -39,4 +38,9 @@ gaps:
 
 ## أهم أعمالها
 
-«الظلام الحامل» (Pregnant Darkness, 2005) · «العيش مع النار: العمل الخيميائي الرؤيوي لناثان شوارتز-سالانت» (Living with Fire, تحرير ومشاركة) · أبحاث في أحلام الاحتضار (UCSD).
+«الظلام الحامل: الخيمياء وولادة الوعي من جديد» (Pregnant Darkness: Alchemy and the Rebirth of Consciousness, 2004).
+
+## المصادر
+
+- Center for Alchemical Studies (سيرة مونيكا ويكمان): https://centerforalchemicalstudies.com/about-monika-wikman/
+- Wikman, M. (2004). *Pregnant Darkness: Alchemy and the Rebirth of Consciousness*. Nicolas-Hays.

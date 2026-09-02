@@ -12,20 +12,19 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: 2014
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وإدارة الإنتاجية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-david-allen", title: "ديفيد ألين", type: "مفكر"
 - id: "thk-cal-newport", title: "كال نيوبورت", type: "مفكر"
 - id: "thk-bj-fogg", title: "بي جيه فوغ", type: "مفكر"
 - id: "thk-charles-duhigg", title: "تشارلز دوهيغ", type: "مفكر"
-- id: "con-deep-work", title: "العمل العميق", type: "مفهوم"
+- id: "con-deep-work", title: "العمل العميق (التركيز المعرفي المكثف في العصر الرقمي)", type: "مفهوم"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 - id: "wrk-deep-work", title: "العمل العميق: قواعد للنجاح المركز في عالم مشتت", type: "عمل / كتاب"
 gaps:
   - "نظريته عن «الخطاف» (Hook Model) مستوحاة من دراسات تجريبية على تطبيقات الهواتف الذكية، لكنها لم تُختبر تجريبياً بشكل مستقل في سياقات تعليمية أو إنتاجية غير ربحية."
   - "مفهوم «الوقت المخصّص» (Time Boxing) عنده يستعير أدوات العلاج المعرفي دون الرجوع إلى الأدبيات العلاجية الأصلية."
-  - "لا يوجد اقتباس مباشر موثوق متاح بالعربية عن كتاباته."
+  - "لا يوجد ملف مدرسة (sch-) معتمد لـ«علم النفس الشعبي وإدارة الإنتاجية الرقمية»؛ رابط belongs_to السابق كان نصاً حراً بدل slug فحُذف — سُجّل في missing-schools.md."
 ---
 
 # نير إيال
@@ -48,6 +47,7 @@ gaps:
 - *Hooked: How to Build Habit-Forming Products* (2014) — الخطاف.
 - *Indistractable: How to Control Your Attention and Choose Your Life* (2019) — لا يُلهي.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح بالعربية.
+- Eyal, Nir. *Hooked: How to Build Habit-Forming Products*. Portfolio/Penguin, 2014.
+- Eyal, Nir. *Indistractable: How to Control Your Attention and Choose Your Life*. BenBella Books, 2019.

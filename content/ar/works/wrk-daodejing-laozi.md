@@ -11,13 +11,16 @@ dates: "الصين القديمة · ق. 500 ق.م"
 language: "الصينية الكلاسيكية"
 active_start: -500
 active_end: -500
+author: "لاوتسو"
+author_slug: "thk-laozi"
+publication_year: -500
+original_language: "الصينية الكلاسيكية"
 edges:
 - rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
-- id: "thk-laozi", title: "لاوتسو", type: "مفكر"
+- id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
 gaps:
   - "اكتشافات مخطوطات غوديان وماوانغدوي وتأثيرها على نص الفصول الـ81."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # داوديجينغ للاوتسو (كتاب الطريق والفضيلة)

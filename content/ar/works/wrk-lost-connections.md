@@ -8,6 +8,10 @@ en: "Lost Connections: Unlocking the Real Causes of Depression — and the Unexp
 crumb: "المعرفية السلوكية ← الأعمال ← الروابط المفقودة"
 dates: "2018 · يوهان هاري"
 language: "الإنجليزية"
+author: "يوهان هاري"
+author_slug: "thk-johann-hari"
+publication_year: 2018
+original_language: "الإنجليزية"
 active_start: 2018
 active_end: 2018
 part: "psychology"

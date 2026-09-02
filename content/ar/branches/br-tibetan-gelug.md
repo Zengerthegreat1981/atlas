@@ -10,7 +10,7 @@ crumb: "المدارس الفلسفية الكبرى ← الفروع والتي
 active_start: 1400
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "البوذية التبتية: غيلوغ", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gelug", target_type: "مدرسة"
 gaps:
   - "المصادر الأولية لتاريخ وتطور هذا التيار الفرعي وعلاقته بالمدرسة الأم."
   - "لا يوجد اقتباس مباشر موثوق متاح."

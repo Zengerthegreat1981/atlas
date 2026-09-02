@@ -1,0 +1,64 @@
+---
+slug: "thk-schulz"
+id: "THK-0533"
+type: "مفكر"
+level: "متقدم"
+title: "بيتر شولتز"
+en: "Peter Schulz"
+crumb: "المدرسة الوجودية ← الناس ← بيتر شولتز"
+dates: "النمسا · معاصر"
+country: "النمسا"
+language: "الألمانية"
+active_start: null
+active_end: "مستمر"
+part: "philosophy"
+edges:
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+related:
+- id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
+- id: "thk-mheidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-rmay", title: "رولو ماي", type: "مفكر"
+- id: "con-existential-motivation", title: "الدوافع الوجودية الأساسية", type: "مفهوم"
+- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+gaps:
+  - "الاسم 'Peter Schulz' في التحليل الوجودي النمساوي: لم أعثر على ملف أكاديمي مستقل قابل للتحقق. الأشهر في GLE (Gesellschaft für Logotherapie und Existenzanalyse) هو Alexander Batthyány و Lukas Kurasz و Christoph Lermen."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# بيتر شولتز
+
+اسم يظهر في سياق التحليل الوجودي النمساوي، يدّعي المسوّدة أنه رفيق أبحاث [ألفريد لانغله](thk-langle) ومؤسس مشارك لـ GLE-International.
+
+## محاولة التوثيق
+
+**GLE** (*Gesellschaft für Logotherapie und Existenzanalyse*، الجمعية النمساوية للعلاج بالمعنى والتحليل الوجودي) أُعيد تأسيسها بعد وفاة فرانكل (1997) في فيينا. أبرز أعضائها:
+- **ألكسندر باثياني** (Alexander Batthyány، نجل شقيق فرانكل).
+- **لوكاس كوراز** (Lukas Kurasz، رئيس GLE).
+- **كريستوف ليرمن** (Christoph Lermen، أستاذ التحليل الوجودي).
+
+بالبحث عن اسم «Peter Schulz» في هذا السياق:
+- الاسم شائع في ألمانيا والنمسا.
+- لا يوجد ملف أكاديمي مستقل في التحليل الوجودي النمساوي.
+- قد يكون الاسم وُضع في هذا المسوّد بناءً على فصل كتابي في كتاب جماعي.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون شولتز في **الجيل التأسيسي** للتحليل الوجودي الفييناوي المعاصر، مساهماً في نقل التحليل الوجودي من مرحلة فرانكل الأولى إلى نسق علاجي نفسي متكامل.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالدوافع الوجودية الأساسية](con-existential-motivation) و[بالمعنى](con-meaning) و[بالأصالة](con-authenticity) و[بـLogotherapy](br-logotherapy) كمفاهيم مركزية.
+
+## المصادر
+
+- Frankl, V. E. (1946). *Ärztliche Seelsorge*. Deuticke.
+- Längle, A. (2003). *Existenzanalyse und Logotherapie*. LIT.
+- Batthyány, A. (2016). *Logotherapy and Existential Analysis*. Springer.
+- GLE (Gesellschaft für Logotherapie und Existenzanalyse) — Member Directory.
+- Viktor Frankl Institut (Vienna) — Archives.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

@@ -15,18 +15,18 @@ active_end: 650
 edges:
 - rel: "belongs_to", target: "sch-vaisheshika", target_type: "مدرسة"
 related:
-- id: "thk-kanada", title: "كَنَادا (Kanada)", type: "مفكر"
-- id: "thk-gotama-kanad", title: "غوتاما كَنَاد", type: "مفكر"
-- id: "thk-shankara", title: "شَانكَرا", type: "مفكر"
-- id: "thk-udayana", title: "أُدَيانا", type: "مفكر"
+- id: "thk-kanada", title: "كاشيابا كانادا", type: "مفكر"
+- id: "thk-gotama-kanad", title: "أكساپادا غوتاما (مؤسس نيايا)", type: "مفكر"
+- id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
+- id: "thk-udayana", title: "أوديانا (مؤسس الجدل الإلهي في النيايا)", type: "مفكر"
 - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
-- id: "sch-nyaya", title: "نيايا", type: "مدرسة"
-- id: "sch-samkhya", title: "سانكهيا", type: "مدرسة"
-- id: "con-jawhar-fard-atomic-monad", title: "الجوهر الفرد", type: "مفهوم"
+- id: "sch-nyaya", title: "نيايا (المنطق الكلاسيكي الهندي)", type: "مدرسة"
+- id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
+- id: "con-jawhar-fard-atomic-monad", title: "الجوهر الفرد والجزء الذي لا يتجزأ (Atomism in Kalam)", type: "مفهوم"
 gaps:
-  - "تاريخ حياته الحقيقي (نحو القرن 6 م) تقديري، ولا توجد مصادر معاصرة موثّقة."
-  - "علاقته بِUdayana (Nyaya) في القرن العاشر لم تُحلَّل أكاديمياً."
-  - "لا توجد طبعة نقدية حديثة شاملة لـPadarthadharmasangraha."
+  - "لا إجماع بين الباحثين على تأريخ دقيق لحياته؛ التقديرات تتراوح بين القرن الرابع والقرن السادس الميلادي، ولا مصدر معاصر (نقش أو وثيقة من عصره) يحسم الأمر."
+  - "علاقته الدقيقة بِUdayana (القرن العاشر) — هل استعمل أوديانا نصّه مباشرة أم عبر وسيط — لم تُحلَّل أكاديمياً بما يكفي."
+  - "لا توجد طبعة نقدية عربية لـPadārthadharmasaṃgraha؛ الاعتماد هنا على ترجمات إنجليزية."
 ---
 
 # براساستابادا (Prasastapada)

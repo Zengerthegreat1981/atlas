@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "con-aedp-emotion", title: "العاطفة في AEDP", type: "مفهوم"
+- id: "con-aedp-emotion", title: "الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ", type: "مفهوم"
 - id: "tec-aedp-emotion-to-emotion-processing", title: "المعالجة من عاطفة إلى عاطفة", type: "تقنية/تدخل علاجي"
 gaps:
   - "تفاصيل تكييف AEDP للسجون والمؤسسات محدودة في المصادر العربية."

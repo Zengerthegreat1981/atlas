@@ -19,8 +19,7 @@ related:
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
 - id: "con-anima-animus", title: "الأنيما", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "تفاصيل انتقالها من التحليل الفرويدي إلى يونغ (نتيجة تحليل عند Jung شخصياً) — موضع بحث."
+  - "تفاصيل انتقالها من التحليل الفرويدي إلى يونغ (نتيجة تحليل عند يونغ شخصياً) — تحتاج توثيقاً دقيقاً بالسنة من مصدر أولي."
 ---
 
 # ماري إستر هاردينغ
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعمالها
 
 طريق كلّ النساء (The Way of All Women, 1933) · أسرار المرأة (Woman's Mysteries, 1935) · الطاقة النفسية (Psychic Energy, 1947) · الأبوة: إصابتها وإعادة بنائها (The Parental Image, 1965).
+
+## المصادر
+
+- Harding, M. Esther. *The Way of All Women*. New York: Longmans, Green and Co., 1933.
+- Harding, M. Esther. *Woman's Mysteries, Ancient and Modern*. New York: Longmans, Green and Co., 1935.
+- C. G. Jung Institute of New York — سجل تأسيس Analytical Psychology Club of New York (1936).

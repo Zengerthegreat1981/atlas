@@ -15,8 +15,8 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 gaps:
-  - "تاريخ صياغة ستراتشي لكلمة Cathexis من الإغريقية ومقارنتها بترجمة Investissement الفرنسية تحتاج فحصاً أرشيفياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تاريخ صياغة ستراتشي لكلمة Cathexis من الإغريقية ومراسلاته مع فرويد أو محرري الطبعة القياسية حول هذا الاختيار بالذات لم تُراجَع من مصدر أرشيفي أولي هنا — الاعتماد على نقد بيتلهايم الثانوي فقط."
+  - "لا يوجد في هذا الملف مقابل عربي واحد مستقر موثّق من مترجم عربي بالاسم لأعمال فرويد الكاملة (مثل ترجمة جورج طرابيشي) — المقارنة هنا إنجليزية-فرنسية فقط."
 ---
 
 # ترجمة Besetzung: شحن أم استثمار نفسي أم تعيين؟
@@ -36,6 +36,13 @@ gaps:
 
 التمييز بين \"شحن طاقي ميكانيكي\" و\"استثمار وجداني شخصي\" يحدد كيفية فهم المعالج لتعلق المريض بموضوعاته الداخلية وفقدان الطاقة (Decathexis / سحب الاستثمار) في حالات الاكتئاب والحداد.
 
-## اقتباسات مختارة
+## نقد ستراتشي والترجمة القياسية
 
-لا يوجد اقتباس مباشر موثوق متاح.
+انتقد الطبيب النفسي والمحلل النفسي برونو بيتلهايم في كتابه *فرويد وروح الإنسان* (1983) الطبعة الإنجليزية القياسية (Standard Edition) التي أشرف عليها ستراتشي بوصفها ككل، لا `Cathexis` وحدها، تحوّل لغة فرويد اليومية والوجدانية (Seele/نفس، بدل Mind/عقل، مثلاً) إلى مصطلحات يونانية-لاتينية جافة توحي بعلم دقيق آلي، فتُفقِد القارئ الإنجليزي الإحساس بأن فرويد كان يكتب عن تجربة إنسانية معيشة لا عن ميكانيكا هيدروليكية للطاقة.
+
+## المصادر
+
+- Freud, Sigmund. "Instincts and Their Vicissitudes." 1915. In *The Standard Edition of the Complete Psychological Works*, translated by James Strachey, Hogarth Press, 1957.
+- Laplanche, Jean, and Pontalis, Jean-Bertrand. *The Language of Psychoanalysis*. Translated by Donald Nicholson-Smith, W. W. Norton, 1973. (مدخل "Cathexis")
+- Bettelheim, Bruno. *Freud and Man's Soul*. Alfred A. Knopf, 1983.
+- Strachey, James. "General Preface." In *The Standard Edition of the Complete Psychological Works of Sigmund Freud*, vol. 1, Hogarth Press, 1966.

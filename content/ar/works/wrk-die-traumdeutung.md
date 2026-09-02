@@ -8,9 +8,13 @@ en: "Die Traumdeutung"
 crumb: "التحليل النفسي ← الأعمال ← تفسير الأحلام"
 dates: "1900 · سيغموند فرويد"
 active_start: 1900
-active_end: 1900
+active_end: 1902
 language: "الألمانية"
 part: "psychology"
+author: "سيغموند فرويد"
+author_slug: "thk-freud"
+publication_year: 1900
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-freud", target_type: "مفكر"
@@ -20,7 +24,6 @@ related:
 gaps:
   - "الطبعات الأولى (1900) بيع منها 600 نسخة فقط في 6 سنوات؛ الانتشار الواسع بدأ من 1906 — التحقق من الأثر التدريجي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Freud في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تفسير الأحلام

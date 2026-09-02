@@ -11,15 +11,18 @@ language: "الإنجليزية"
 active_start: 1999
 active_end: 1999
 part: "psychology"
+author: "آرون تيموثي بيك"
+author_slug: "thk-beck"
+publication_year: 1999
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
+- rel: "authored_by", target: "thk-beck", target_type: "مفكر"
 related:
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (HarperCollins) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."
-  - "المؤلف آرون بيك (Aaron Beck) ليس له ملف مفكر مستقل في الأطلس بعد."
 ---
 
 # أسرى الكراهية: الأساس المعرفي للغضب والعدوانية والعنف

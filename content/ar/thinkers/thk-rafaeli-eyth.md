@@ -2,47 +2,58 @@
 slug: "thk-rafaeli-eyth"
 id: "THK-2747"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "رافائيل إيدث"
 en: "Rafaeli Eyth"
-crumb: "علم نفس الأداء (علم نفس الأداء) ← تطوير ← رافائيل إيدث"
-dates: "الولايات المتحدة/إسرائيل · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة/إسرائيل"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 2000
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
 part: "philosophy"
+crumb: "علم نفس الأداء (Performance Psychology) ← تطوير ← رافائيل إيدث"
 edges:
-- rel: "belongs_to", target: "علم نفس الأداء", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-performance-psychology", type: "تيار"
 related:
-- id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
-- id: "br-sport-psychology", title: "علم نفس الرياضة", type: "تيار"
-- id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
+- id: "thk-rsuinn", type: "مفكر", title: "ريتشارد سوين"
+- id: "thk-khabegger", type: "مفكر", title: "كارين هابغر"
+- id: "thk-jloehr", type: "مفكر", title: "جيم لور"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Rafaeli Eyth' في ISSP (International Society of Sport Psychology) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Rafaeli Eytan' (منظمة دروس يوغا إسرائيلية) أو 'Rafael Eyth' (لاعب تنس قديم)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Performance Psychology' عام."
 ---
 
 # رافائيل إيدث
 
-ممارس ومدرب في **علم نفس الأداء الرياضي**، من المساهمين في **تدريب الفرق الأولمبية الأمريكية والإسرائيلية** على تقنيات الأداء الذروي.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في علم نفس الأداء]
 
-## ما أعطاه
+## محاولة التوثيق
 
-- تطوير **بروتوكولات الإعداد الذهني** للرياضيين الأولمبيين.
-- مساهمات في **علم نفس الرياضة** عبر تقنيات التصوّر الذهني والحوار الداخلي.
-- فصول في كتب عن **«علم نفس الأداء في الرياضة الأولمبية»**.
-- مساهمات في **«علم نفس القيادة»** للمدربين والقادة الرياضيين.
+- **الاسم المُسجَّل**: Rafaeli Eyth.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **ISSP (International Society of Sport Psychology)**: لا عضوية.
+  - **AASP (Association for Applied Sport Psychology)**: لا عضوية.
+  - **FEPSM (Federation of European Psychophysiology Societies)**: لا نتائج.
+  - **PubMed**: لا مقالة.
 
-## موقعه من التيار
+## السبب المحتمل للإدراج
 
-يتميّز إيدث بممارسته المباشرة مع **الرياضيين على أعلى مستوى**، وهو ما يُنتج تطبيقات عملية لعلم نفس الأداء بعيداً عن المختبر.
+- احتمال **الخلط** مع:
+  - **Rafaeli Eytan** (منظمة دروس يوغا إسرائيلية).
+  - **Rafael Eyth** (لاعب تنس قديم).
+  - **Raül Eyth** (اسم مركَّب مختلف).
 
-## أهم أعماله
+## ما يحتاجه هذا العنصر
 
-- مساهمات في كتب علم نفس الرياضة.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Sween, R. (1991). *Peak Performance: Mental Skills for Results in Sport*. Croton-on-Hudson: Peak Performance Publishing.
+  - AASP: https://appliedsportpsych.org/
+  - Loehr, J. (1993). *The New Toughness Training for Sports*. Dutton.

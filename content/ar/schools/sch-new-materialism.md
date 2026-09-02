@@ -10,19 +10,19 @@ crumb: "الفلسفة ← القارية ← المادية الجديدة"
 dates: "أمريكا، أوروبا، العالم · من 1994 إلى الوقت الحاضر"
 country: "الولايات المتحدة، المملكة المتحدة، هولندا"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1994
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-speculative-realism", target_type: "مدرسة"
-- rel: "evolved_from", target: "النسوية", target_type: "مدرسة"
 related:
 - id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
-- id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (OOO)", type: "مدرسة"
+- id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (Object-Oriented Ontology)", type: "مدرسة"
 - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
 gaps:
   - "'المادية الجديدة' تيار متعدد الأقطاب، يُستعمل أحيانًا بشكل فضفاض."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "الاقتباسات المباشرة من مؤلّفي المادية الجديدة لم تُراجَع بعد من نصوصها الأصلية في هذا الملف."
   - "العلاقة مع 'النسوية المادية' (Stacy Alaimo، Susan Hekman) تحتاج توسعة."
 ---
 
@@ -88,3 +88,11 @@ gaps:
 - **اتهام «**إهمال الإنسان**»**: التركيز على **المادة** قد يُضعف **الفاعل البشري** والعدالة الاجتماعية.
 - **مشكلة المعرفة**: كيف نعرف «**المادة**» بدون «**اللغة**» و«**الذات**»؟ (نقد ميتافيزيقي).
 - **صعوبة التمييز**: ما الذي «**تنتجه**» المادية الجديدة **جوهريًا** عن الماركسية الغربية أو الظاهراتية الجسدية؟
+
+## المصادر
+
+- Barad, Karen (2007). *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*. Duke University Press.
+- Bennett, Jane (2010). *Vibrant Matter: A Political Ecology of Things*. Duke University Press.
+- Braidotti, Rosi (2013). *The Posthuman*. Polity Press.
+- Latour, Bruno (1991). *We Have Never Been Modern* (trans. Catherine Porter, 1993). Harvard University Press.
+- Haraway, Donna (2016). *Staying with the Trouble: Making Kin in the Chthulucene*. Duke University Press.

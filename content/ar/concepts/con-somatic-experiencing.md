@@ -13,13 +13,13 @@ edges:
 - rel: "relates_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "thk-bvdkolk", title: "بسل فان دير كولك", type: "مفكر"
-- id: "con-titration-pendulation", title: "التقطير والتأرجح", type: "مفهوم"
-- id: "con-felt-sense-tracking", title: "تتبع الإحساس المحسوس", type: "مفهوم"
+- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "con-titration-pendulation", title: "التقطير والبندلة في العلاج الجسدي للصدمات", type: "مفهوم"
+- id: "con-felt-sense-tracking", title: "التتبع الحسي للإحساس المستبطن (Felt Sense)", type: "مفهوم"
 - id: "tec-somatic-experiencing-tracking", title: "تتبع الإحساس الجسدي (Sensation Tracking) في SE", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Levine, 1997, 2010)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد في هذا الملف مقتطفات منقولة حرفياً من نصوص ليفين الأصلية."
   - "الفعالية في التجارب السريرية المعشّاة (RCTs) محدودة حتى الآن."
 ---
 

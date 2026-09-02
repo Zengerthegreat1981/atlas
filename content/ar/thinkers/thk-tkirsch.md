@@ -19,7 +19,7 @@ related:
 - id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
 - id: "con-international-jungian", title: "عولمة التحليلية والمؤسسات الدولية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي بعد."
   - "دوره في إنشاء جمعيات تحليلية في تشيكيا وشرق أوروبا بعد 1989 — موثّق لكن يستحق ملفاً مخصّصاً."
 ---
 
@@ -40,4 +40,12 @@ gaps:
 
 ## أهم أعماله
 
-الحياة اليونغية (The Jungian Life: An Interview with Thomas B. Kirsch) · مراسلات C.G. Jung–James Kirsch (إعداد)، Routledge 2017.
+- *The Jungians: A Comparative and Historical Perspective* (2000، Routledge) — تاريخ مقارن لتطور الحركة اليونغية عالمياً.
+- *A Jungian Life* (2017، Fisher King Press) — سيرته الذاتية.
+- تحرير مراسلات C. G. Jung–James Kirsch.
+
+## المصادر
+
+- Kirsch, T. B. (2000). *The Jungians: A Comparative and Historical Perspective*. Routledge.
+- Kirsch, T. B. (2017). *A Jungian Life*. Fisher King Press.
+- International Association for Analytical Psychology (IAAP) — سجل رؤساء الجمعية (1989–1995) ونعي توماس ب. كيرش (1936–2017).

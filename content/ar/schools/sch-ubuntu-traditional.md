@@ -13,8 +13,9 @@ language: "الزولوية، الزولو، الكوسية، السواتوية
 active_start: 1700
 active_end: "مستمر"
 active_source: "lifespan"
+cultural_origin: "african"
 edges:
-- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
 - id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
 - id: "sch-ifa", title: "تقاليد اليوروبا الفلسفية (Ifá)", type: "مدرسة"
@@ -54,3 +55,8 @@ gaps:
 
 - طبيعة شفهية، لا نصوص تأسيسية موثّقة.
 - أحياناً مَتخيَّلة من قبل الأفارقة المعاصرين كـ«أيديولوجيا» موحدة.
+
+## المصادر
+
+- Mogobe B. Ramose, *African Philosophy through Ubuntu*, Mond Books, 1999 (يوثّق الجذور التقليدية الشفوية قبل إعادة التأويل المعاصر).
+- Johann Broodryk, *Ubuntu: Life Lessons from Africa*, Ubuntu School of Philosophy, 2002.

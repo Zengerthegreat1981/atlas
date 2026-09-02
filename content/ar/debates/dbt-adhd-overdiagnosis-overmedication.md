@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: "psychology"
 related:
 - id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
-- id: "dis-adhd", title: "اضطراب نقص الانتباه مع فرط النشاط", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة", type: "اضطراب/حالة إكلينيكية"
 - id: "ins-conners-rating-scales", title: "مقاييس كونرز لتقييم اضطراب فرط الحركة وتشتت الانتباه", type: "أداة قياس"
 - id: "crt-adhd-overdiagnosis", title: "ADHD: تشخيص مُفرط", type: "نقد خارجي موثَّق"
 gaps:
@@ -33,3 +33,10 @@ gaps:
 ## لماذا يهم هذا الخلاف إكلينيكياً وعلمياً
 
 يقع المعالج والأخصائي في قلب هذا الجدل؛ حيث يفرض الخلاف التزاماً صارماً بعدم التسرع في التشخيص بناء على استبيان معلمين سريع، واستنفاد التدخلات السلوكية والتربوية وتعديل البيئة الصفية والمنزلية قبل اللجوء للتدخل الدوائي، مع احترام المعاناة الحقيقية للأطفال المصابين بالحالات الشديدة الأصيلة.
+
+## المصادر
+
+- MTA Cooperative Group (1999). *A 14-Month Randomized Clinical Trial of Treatment Strategies for Attention-Deficit/Hyperactivity Disorder*. Archives of General Psychiatry.
+- Barkley, R. A. (2006). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment*. Guilford Press.
+- Breggin, P. (2001). *Talking Back to Ritalin: What Doctors Aren't Telling You About Stimulant Drugs for Kids*. Perseus.
+- Frances, A. (2013). *Saving Normal*. William Morrow.

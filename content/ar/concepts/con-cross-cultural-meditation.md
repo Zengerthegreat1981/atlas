@@ -9,14 +9,14 @@ crumb: "أطر غير غربية ← المفاهيم ← التأمل العل�
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاج التأملي (Contemplative Psychotherapy)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
+- id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "حقل edges.belongs_to كان يحمل نصاً حراً ('العلاج التأملي / Contemplative Psychotherapy') بدل معرّف slug فعلي؛ لا يوجد ملف مدرسة منشور بهذا الاسم في content/ar/schools (يوجد فقط مسودة غير منشورة drafts/minimax/schools/sch-contemplative-psychotherapy.md)، فحُذف الرابط بانتظار نشر المدرسة رسمياً."
+  - "المصادر الأولية عن Vipassana وZazen وTonglen وDhikr وKundalini تحتاج مراجعة وتوثيقاً إضافياً (لا رابط مفهوم مستقل لكل تقليد بعد)."
 ---
 
 # التأمل العلاجي عبر-الثقافي

@@ -10,12 +10,13 @@ crumb: "الفلسفة ← البوذية ← جودو شينشو"
 dates: "اليابان · من القرن 13 م إلى اليوم"
 country: "اليابان"
 language: "اليابانية"
+cultural_origin: "east-asian"
 active_start: 1224
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-pure-land", target_type: "مدرسة"
 related:
-- id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
+- id: "sch-pure-land", title: "الأرض الطاهرة (جينغتو / جودو)", type: "مدرسة"
 - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 gaps:
@@ -78,3 +79,10 @@ gaps:
 - **الفقرات العائلية**: تمرّر القيادة وراثياً في Honganji، فمفهوم «شينكو» صار مائعاً.
 - **الصراع التاريخي**: 16 سنة حرب بين Honganji و Nobunaga ثم Tokugawa (Ikkō-ikki).
 - **تأثير Takahashi Shōtei**: تيارات «اليسار» في Shinshū الحديثة (البوذية المُنخرطة، Shinran وC.T. Suzuki).
+
+## المصادر
+
+- Bloom, Alfred. *Shinran's Gospel of Pure Grace*. University of Arizona Press, 1965.
+- Dobbins, James C. *Jōdo Shinshū: Shin Buddhism in Medieval Japan*. Indiana University Press, 1989.
+- Ama, Michihiro. *Immigrants to the Pure Land: The Modernization, Acculturation, and Globalization of Shin Buddhism*. University of Hawai'i Press, 2011.
+- Bloom, Alfred (ed.). *The Essential Shinran: A Buddhist Path of True Entrusting*. World Wisdom, 2007.

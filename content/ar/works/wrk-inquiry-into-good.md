@@ -10,11 +10,14 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← القومية ا
 dates: "1911 · نيشيدا كيتارو"
 language: "اليابانية"
 active_start: 1911
-active_end: 1911
+active_end: 1927
+author: "كيتارو نيشيدا"
+author_slug: "thk-nishida"
+publication_year: 1911
+original_language: "اليابانية"
 edges:
-- rel: "belongs_to", target: "القومية اليابانية الفلسفية", target_type: "مدرسة"
 related:
-- id: "thk-nishida", title: "نيشيدا كيتارو", type: "مفكر"
+- id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«القومية اليابانية الفلسفية» (sch-japanese-philosophical-nationalism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ طبعة 1911 الأصلية (Tetsugaku Shoin، طوكيو) ولا الترجمة الإنجليزية الكاملة (Yoshinori Takeuchi et al., 1990)."

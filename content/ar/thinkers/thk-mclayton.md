@@ -2,44 +2,34 @@
 slug: "thk-mclayton"
 id: "THK-1545"
 type: "مفكر"
-level: "متوسط"
-title: "ماكس كلايتون"
+level: "مبتدئ"
+title: "جي. ماكس كلايتون"
 en: "G. Max Clayton"
-crumb: "السيكودراما والسوسيومتري ← الممارسة الإكلينيكية ← ماكس كلايتون"
-dates: "الولايات المتحدة · القرن العشرين–"
+crumb: "الأطلس ← thinkers ← جي. ماكس كلايتون"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1970
-active_end: 2010
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
-related:
-- id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم G. Max Clayton في السيكودراما (لا عضوية في ASGPP، لا مقالة في JGPPS، لا كتاب في WorldCat أو Amazon حتى آب 2026). الاحتمال الأقوى خلط مع Max Clayton (مؤلِّف مسرحي) أو Max Clayton (معالج نفسي في ماريلاند). النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-mclayton.md.archived.2026-08-27"
 ---
 
-# ماكس كلايتون
+# جي. ماكس كلايتون
 
-معالج نفسي أمريكي وأحد أبرز الممارسين في السيكودراما بعد مورينو مباشرة. يُعدّ من أهم من نقل السيكودراما من أمريكا اللاتينية إلى أمريكا الشمالية.
+(G. Max Clayton)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-mclayton.md.archived.2026-08-27`
 
-- **"السيكودراما المنهجي"**: إطار منظّم لممارسة السيكودراما الإكلينيكية.
-- **"مسرح الإجراء"**: تطوير لتقنيات المسرح في السيكودراما.
-- **"إعداد السيكودراما"**: كتب تدريبية للممارسين الجدد.
+لم يُعثر على توثيق مستقل لوجود هذا الشخص في السيكودراما. راجع `agents_specs/quarantine-minimax.md` للتفاصيل.
 
-## موقعه من التيار
+## المصادر
 
-يتميّز كلايتون بكونه من الجيل الثاني لمورينو، مع تطبيقات سريرية دقيقة للسيكودراما.
-
-## أهم أعماله
-
-- *Drama of Life: A Psychodramatic Demonstration* (1986).
-- *Healing через Drama* (1996).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-mclayton.md.archived.2026-08-27`

@@ -10,16 +10,18 @@ en: "The Monk Who Sold His Ferrari"
 crumb: "علم النفس الشعبي وتطوير القيادة ← الأعمال ← الراهب الذي باع سيارته الفيراري"
 dates: "1997 · روبين شارما"
 language: "الإنجليزية"
+author: "روبن شارما"
+author_slug: "thk-robin-sharma"
+publication_year: 1997
+original_language: "الإنجليزية"
 active_start: 1997
 active_end: 1997
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وتطوير القيادة", target_type: "مدرسة"
 - rel: "written_by", target: "thk-robin-sharma", target_type: "مفكر"
 related:
-- id: "thk-robin-sharma", title: "روبين شارما", type: "مفكر"
+- id: "thk-robin-sharma", title: "روبن شارما", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الراهب الذي باع سيارته الفيراري: حكاية خيالية عن تحقيق الرغبات
@@ -33,7 +35,3 @@ gaps:
 ## الأثر الجماهيري
 
 تحول إلى أحد أكثر الكتب التحفيزية انتشاراً وتأثيراً في ثقافة الأعمال المعاصرة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

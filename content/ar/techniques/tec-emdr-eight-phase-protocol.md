@@ -9,15 +9,18 @@ en: "The Standard Eight-Phase Protocol and Bilateral Stimulation in EMDR"
 crumb: "علاج EMDR للصدمات ← التقنيات والتدخلات ← بروتوكول المراحل الثمانية"
 active_start: null
 active_end: "مستمر"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-emdr", target_type: "مدرسة"
 related:
 - id: "exp-francine-shapiro-park-walk-emdr", title: "نزهة فرانسين شابيرو في الحديقة وحركات العين وميلاد EMDR", type: "خبرة معيشة"
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا يوجد ملف مستقل في الأطلس للتجارب العشوائية المحكّمة الأصلية لشابيرو (1989، 1995) أو للتحليلات التلوية اللاحقة — التصنيف well-established مبني على تصنيف APA وWHO لـEMDR كعلاج قائم على الأدلة لـPTSD لدى البالغين دون رجوع لملف دراسة مستقل."
+  - "دور آلية BLS نفسها (حركة العين تحديداً مقابل أي تحفيز ثنائي إيقاعي) في إحداث الأثر ما يزال موضع خلاف منهجي غير مفصّل هنا."
 ---
 
 # بروتوكول المراحل الثمانية والتحفيز الثنائي لـ EMDR

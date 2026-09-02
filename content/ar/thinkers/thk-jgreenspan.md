@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-dir-floortime", target_type: "تقنية"
 related:
 - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
 - id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"

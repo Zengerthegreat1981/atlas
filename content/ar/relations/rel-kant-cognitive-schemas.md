@@ -15,7 +15,7 @@ edges:
 related:
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -14,14 +14,14 @@ language: "الإنجليزية"
 active_start: 1913
 active_end: 1964
 edges:
-- rel: "belongs_to", target: "السيبرنتيكا النفسية", target_type: "مدرسة"
-- rel: "founded", target: "نظرية الأنساق العامة والسيبرنطيقا", target_type: "تيار"
+- rel: "founded", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
-- id: "thk-paulgthomas", title: "باول توماس (مؤسس السايكوسبرنتيكس)", type: "مفكر"
+- id: "thk-paulgthomas", title: "بول جي. توماس", type: "مفكر"
 - id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
-- id: "con-homeostasis", title: "الاتّزان الداخلي (Homeostasis)", type: "مفهوم"
-- id: "con-neurofeedback", title: "التغذية الراجعة العصبية", type: "مفهوم"
+- id: "con-homeostasis", title: "الاستتباب", type: "مفهوم"
+- id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفهوم"
 gaps:
+  - "لا مدرسة موثّقة باسم «السيبرنتيكا النفسية» في الأطلس؛ عُلّقت رابطة belongs_to لحين تسجيلها في missing-schools.md."
   - "مساهمته المبكرة في الرياضيات البحتة (نظرية التوزيعات) موثّقة جزئياً في الأطلس."
   - "علاقته مع عالم الأحياء أرتورو روزنبلوث في صياغة «السيبرنتيكا» لم تُحلّل كافية."
   - "تأثيره في فلسفة العقل (دوغلاس هوفشتاتر، دانيال دينيت) موثّق جزئياً."
@@ -74,6 +74,9 @@ gaps:
 - **«أنا عالم رياضيات طفل»** (1956) — سيرة ذاتية.
 - **«الله والغوليم»** (1964) — أسئلة الآلة والحرية.
 
-## اقتباس مختار
+## المصادر
 
-«السيبرنتيكا هي علم الضبط والاتصال. ونحن نعيشها كلّ يوم، من حركة يدنا وهي ترسم خطّاً مستقيماً إلى تواصلنا مع الأشخاص الذين نحبّهم.»
+- Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+- Wiener, N. (1950). *The Human Use of Human Beings: Cybernetics and Society*. Houghton Mifflin.
+- Wiener, N. (1956). *I Am a Mathematician: The Later Life of a Prodigy*. MIT Press.
+- Conway, F., & Siegelman, J. (2005). *Dark Hero of the Information Age: In Search of Norbert Wiener*. Basic Books.

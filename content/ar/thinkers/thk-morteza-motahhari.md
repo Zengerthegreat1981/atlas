@@ -15,8 +15,7 @@ active_end: 1979
 edges:
 - rel: "belongs_to", target: "sch-transcendent-theosophy", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تفاصيل محاكمته أو الجهة التي نفّذت اغتياله (جماعة فرقان) موثّقة جزئياً فقط في المصادر المتاحة هنا."
 ---
 
 # الشهيد مرتضى مطهري
@@ -43,6 +42,8 @@ gaps:
 - *مقدّمة على رؤية الإسلام الكونية* (سلسلة).
 - *فطرت* (الفطرة).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Encyclopaedia Iranica, "Motahhari, Mortaza": https://iranicaonline.org/articles/motahhari-mortaza
+- مطهري، مرتضى. *أصول الفلسفة والمذهب الواقعي* (تعليقاً على الطباطبائي).
+- Rizvi, S. (2019). "Mulla Sadra". *Stanford Encyclopedia of Philosophy* (لسياق الحكمة المتعالية التي ينتمي إليها مطهري): https://plato.stanford.edu/entries/mulla-sadra/

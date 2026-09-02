@@ -10,8 +10,12 @@ crumb: "التحليل النفسي ← الأعمال ← الخوف من ال�
 dates: "1941 · إريك فروم"
 language: "الإنجليزية"
 active_start: 1941
-active_end: 1941
+active_end: 1950
 country: "بريطانيا (المنفى)"
+author: "إريك فروم"
+author_slug: "thk-fromm"
+publication_year: 1941
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-fromm", target_type: "مفكر"
@@ -20,7 +24,7 @@ related:
 - id: "wrk-fromm-escape-freedom", title: "الهروب من الحرية (Escape from Freedom)", type: "عمل / كتاب"
 - id: "wrk-ethics-ambiguity", title: "أخلاق الغموض", type: "عمل / كتاب"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "con-self-serving-bias", title: "تحيّز خدمة الذات", type: "مفهوم"
+- id: "con-self-serving-bias", title: "انحياز خدمة الذات وتبرير الفشل (Self-Serving Bias)", type: "مفهوم"
 - id: "con-self-ownership", title: "ملكية الذات", type: "مفهوم"
 gaps:
   - "الفروقات الدقيقة بين الطبعات الإنجليزية والأمريكية للكتاب (Routledge & Kegan Paul, 1942 مقابل Farrar & Rinehart, 1941) لم تُراجع بعد."

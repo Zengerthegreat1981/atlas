@@ -9,18 +9,21 @@ en: "Time and Free Will: An Essay on the Immediate Data of Consciousness - Bergs
 crumb: "الفلسفة الفرنسية ← الأعمال ← مقالة في المعطيات الفورية للوعي"
 active_start: 1889
 active_end: "مستمر"
+author: "هنري برغسون"
+author_slug: "thk-bergson"
+publication_year: 1889
+original_language: "الفرنسية"
 edges:
 - rel: "relates_to", target: "sch-bergsonism", target_type: "مدرسة"
 related:
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المدة (con-duration)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الإرادة الحرة (con-free-will)"
   - "لم تُراجع بعد من نسخة أصلية مباشرة (1889)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الترجمات الإنجليزية المتعددة (1910، 1913، 2001) تحتاج فصلاً."
   - "العلاقة بنظرية الزمكان عند آينشتاين (1905) تحتاج توثيقاً."
 ---

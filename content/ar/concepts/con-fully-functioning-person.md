@@ -13,18 +13,20 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-rogers", target_type: "مفكر"
 related:
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
 - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
-- id: "dbt-rogers-vs-may-authenticity", title: "أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة", type: "جدل"
 gaps:
-  - "العلاقة بين 'الشخصية العاملة بكامل طاقتها' و'الشخص المحقق لذاته' (ماسلو) تحتاج تحقق."
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."
+  - "عمل روجرز *On Becoming a Person* (1961) — المرجع الأساسي لهذا المفهوم — لا يقابله ملف wrk- في الأطلس؛ طُلب slug جديد له في requests-minimax.md بدل اختراعه."
+  - "con-actualizing-tendency وdbt-rogers-vs-may-authenticity أُزيلا من related لأن نزعة التحقق الذاتي وأصالة ماي غير مذكورتين في المتن."
 ---
 
 # الشخصية العاملة بكامل طاقتها (Fully Functioning Person)
 
-مفهوم وصفي عند روجرز، يصف الشخص الذي يتجه نحو تحقيق إمكاناته الكاملة في عملية مستمرة، وليس حالة نهائية ثابتة.
+مفهوم وصفي عند روجرز، أحد مؤسسي **علم النفس الإنساني** (sch-humanistic)، يصف الشخص الذي يتجه نحو تحقيق إمكاناته الكاملة في عملية مستمرة، وليس حالة نهائية ثابتة.
 
 ## التعريف
 

@@ -12,13 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
-- id: "thk-bvdkolk", title: "بسل فان دير كولك", type: "مفكر"
-- id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي لـ Sensorimotor", type: "مفهوم"
-- id: "con-felt-sense-tracking", title: "تتبع الإحساس المحسوس", type: "مفهوم"
+- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)", type: "مفهوم"
+- id: "con-felt-sense-tracking", title: "التتبع الحسي للإحساس المستبطن (Felt Sense)", type: "مفهوم"
 gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
   - "لم تُراجع من نسخة أصلية مباشرة بعد (van der Kolk, 1994, 2014; Ogden et al., 2006)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين الذاكرة الجسدية والذاكرة الضمنية (Implicit Memory) يحتاج فصلاً."
   - "الأساس العصبي (الذاكرة الجسدية في العضلات والأحشاء) يحتاج فصلاً."
 ---

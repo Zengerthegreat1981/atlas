@@ -14,10 +14,10 @@ language: "الألمانية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "ألفريد أدلر", target_type: "مفكر"
+- rel: "developed_by", target: "thk-adler", target_type: "مفكر"
 related:
-- id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
-- id: "thk-rdreikurs", title: "رودولف درايكرز", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
+- id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-hstein", title: "هنري ت. ستاين", type: "مفكر"
 gaps:

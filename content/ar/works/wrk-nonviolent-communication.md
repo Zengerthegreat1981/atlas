@@ -10,17 +10,19 @@ en: "Nonviolent Communication: A Language of Life"
 crumb: "علم النفس الإنساني والتواصل اللاعنفي ← الأعمال ← التواصل غير العنيف"
 dates: "1999 · مارشال روزنبرغ"
 language: "الإنجليزية"
+author: "مارشال روزنبرغ"
+author_slug: "thk-marshall-rosenberg"
+publication_year: 1999
+original_language: "الإنجليزية"
 active_start: 1999
 active_end: 1999
 edges:
-- rel: "belongs_to", target: "علم النفس الإنساني والتواصل اللاعنفي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-marshall-rosenberg", target_type: "مفكر"
 related:
 - id: "con-nonviolent-communication", title: "التواصل غير العنيف (لغة التعاطف وفض النزاعات NVC)", type: "مفهوم"
 - id: "thk-marshall-rosenberg", title: "مارشال روزنبرغ", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التواصل غير العنيف: لغة الحياة
@@ -34,7 +36,3 @@ gaps:
 ## لغة الزرافة ولغة ابن آوى الرمزية
 
 استعارة 'ابن آوى' للغة اللوم والسيطرة واستعارة 'الزرافة' (صاحبة أكبر قلب) للغة التعاطف والتفهم.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

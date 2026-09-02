@@ -46,3 +46,8 @@ gaps:
 - أثّر في **WHO** (التصنيف الدولي لِوظائف الإعاقة والصحة، ICF).
 - أثّر في **حركة حقوق الإعاقة** (Disability Rights Movement) الدولية.
 - أثّر في **Feminist, Queer, Crip** (Alison Kafer, 2013) و**Crip Theory** (McRuer, 2006).
+
+## المصادر
+
+- Shakespeare, T. *Disability Rights and Wrongs* (Routledge, 2006).
+- London School of Hygiene and Tropical Medicine — الصفحة المؤسسية لتوم شكسبير.

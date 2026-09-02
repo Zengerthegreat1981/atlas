@@ -14,9 +14,13 @@ active_start: 1997
 active_end: 2024
 edges:
 - rel: "belongs_to", target: "sch-speculative-realism", target_type: "مدرسة"
+related:
+- id: "thk-graham-harman", title: "غراهام هارمان", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "sch-speculative-realism", title: "الواقعية المضاربة (Speculative Realism)", type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "كتابه *L'Immanence des mondes* (2019)، امتداده اللاحق لأطروحة «بعد التناهي»، لم يُترجم كاملاً إلى العربية أو الإنجليزية بعد."
+  - "لا يوجد اقتباس مباشر منسوب بدقة إلى نص محدد وصفحة؛ فحُذف قسم الاقتباسات."
 ---
 
 # كونتين ميياسو
@@ -41,6 +45,7 @@ gaps:
 - *Le Nombre et la sirène* (2011) — دراسة عن مالارميه.
 - *Métaphysique et fiction des mondes hors-science* (2013).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Meillassoux, Q. (2008). *After Finitude: An Essay on the Necessity of Contingency* (R. Brassier, Trans.). Continuum.
+- Harman, G. (2011). *Quentin Meillassoux: Philosophy in the Making*. Edinburgh University Press.

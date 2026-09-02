@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← البون"
 dates: "التبت · من ما قبل القرن 7 م إلى اليوم"
 country: "التبت، نيبال، الهند"
 language: "التبتية"
+cultural_origin: "south-asian"
 active_start: -1000
 active_end: "مستمر"
 edges:
@@ -70,3 +71,9 @@ gaps:
 - **الهوية والتمييز**: يصعب التمييز بين Bön التانترية وVajrayāna من الناحية الشكلية، فكثير من طقوسها متطابقة.
 - **التأريخ**: يُحتمل أن Bön التانترية «تأثّرت» من Vajrayāna، لكنّ المؤرخين يشكّكون في أن كثيراً من «النصوص» كُتبت في القرن 10 وما بعده.
 - **فلسفياً**: لا يوجد تقاليد فلسفي نظري موحّد، فهي منظومة من المعارف والسرديات.
+
+## المصادر
+
+- Kvaerne, Per. *The Bon Religion of Tibet: The Iconography of a Living Tradition*. Serindia Publications, 1995.
+- Karmay, Samten G. *The Treasury of Good Sayings: A Tibetan History of Bon*. Oxford University Press, 1972.
+- Snellgrove, David L. *The Nine Ways of Bon: Excerpts from gZi-brjid*. Oxford University Press, 1967.

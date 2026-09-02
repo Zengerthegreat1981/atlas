@@ -7,6 +7,10 @@ level: "متقدم"
 title: "كتاب التأملات للإمبراطور ماركوس أوريليوس"
 en: "Meditations (Ta Eis Heauton) by Marcus Aurelius"
 crumb: "الفلسفة الرواقية المتأخرة ← أمهات الأعمال ← تأملات ماركوس أوريليوس"
+author: "ماركوس أوريليوس"
+author_slug: "thk-marcus-aurelius"
+publication_year: 180
+original_language: "اليونانية"
 active_start: null
 active_end: "مستمر"
 edges:

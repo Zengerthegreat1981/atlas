@@ -9,11 +9,10 @@ en: "Athariyya (Traditionalist Theology)"
 crumb: "الفلسفة ← الإسلام ← علم الكلام ← الأثرية"
 dates: "الحجاز والعراق والشام · من القرن 8 م إلى اليوم"
 country: "الدولة الأموية ثم العباسية، ثم الحنابلة في الشام ومصر"
+cultural_origin: "islamic-arabic"
 language: "العربية"
 active_start: 750
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
@@ -21,7 +20,7 @@ related:
 - id: "thk-ibn-taymiyya", title: "تقي الدين أبو العباس أحمد ابن تيمية", type: "مفكر"
 gaps:
   - "التمييز بين «الأثرية» كمنهج و«الحنبلية» كمذهب فقهي ليس دائماً واضحاً في المصادر القديمة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من أحمد بن حنبل نفسه في المسائل العقدية الكبرى."
+  - "لم يُعثر على اقتباس منسوب بدقة يمكن التحقق منه من أحمد بن حنبل نفسه في المسائل العقدية الكبرى."
 ---
 
 # الأثرية الكلامية
@@ -71,3 +70,9 @@ gaps:
 | الحرفية | أعلى | وسط |
 | علم الكلام | بدعة مرفوضة | مقبول كأداة |
 | تفسير المتشابه | إيقاف أو تفويض | تأويل أو تفويض |
+
+## المصادر
+
+- Binyamin Abrahamov, *Islamic Theology: Traditionalism and Rationalism* (Edinburgh University Press, 1998).
+- W. Montgomery Watt, *Islamic Philosophy and Theology* (Edinburgh University Press, 1962).
+- ابن القيم الجوزية، *الصواعق المرسلة على الجهمية والمعطلة*.

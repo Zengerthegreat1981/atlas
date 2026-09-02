@@ -1,0 +1,63 @@
+---
+slug: "thk-robertduvall"
+id: "THK-2756"
+type: "مفكر"
+level: "متوسط"
+title: "روبرت دوفال"
+en: "Robert Duvall"
+crumb: "الديانيتكس / السيانتولوجيا ← تطوير ← روبرت دوفال"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1970
+active_end: 2000
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "الديانيتكس / السيانتولوجيا", target_type: "مدرسة"
+related:
+- id: "thk-lhubbard", title: "ل. رون هوبارد", type: "مفكر"
+- id: "thk-jrmelton", title: "ج. غوردون ملتون", type: "مفكر"
+- id: "thk-ehassan", title: "إ. حسن", type: "مفكر"
+- id: "br-new-religious-movements", title: "الحركات الدينية الجديدة (NRMs)", type: "تيار"
+- id: "con-scientology", title: "السيانتولوجيا", type: "مفهوم"
+- id: "con-cults", title: "الطوائف", type: "مفهوم"
+gaps:
+  - "سنة الميلاد وسنة التوقف عن العمل غير موثقة."
+  - "الاسم 'Robert Duvall' في دراسة السيانتولوجيا: الاسم الأكثر شهرة هو الممثل الأمريكي روبرت دوفال (1931-2023)، وهو **ليس** هذا الشخص. لا يوجد ملف أكاديمي مستقل لـ'Robert Duvall' في دراسات الحركات الدينية."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو فصل المعلومات."
+---
+
+# روبرت دوفال
+
+اسم يظهر في سياق **دراسة حركة السيانتولوجيا** من منظور أكاديمي-اجتماعي، دون توثيق مستقل كافٍ لبناء سيرة ذاتية كاملة.
+
+## محاولة التوثيق
+
+حركة السيانتولوجيا أُسست على يد [ل. رون هوبارد](thk-lhubbard) عام 1953، وأصبحت موضوعاً لدراسات أكاديمية في علم اجتماع الدين منذ السبعينيات. من أهم الباحثين في هذا الحقل:
+- **ج. غوردون ملتون** (J. Gordon Melton) — موسوعي الحركات الدينية الجديدة.
+- **إ. بِرڤ** (E. Barker) — المتخصصة في حركات ما بعد الحداثة.
+- **ب. ويلسون** (B. Wilson) — في تصنيف الحركات.
+
+بالبحث عن اسم «Robert Duvall» في هذا السياق:
+- لا يوجد ملف أكاديمي مستقل لـ«Robert Duvall» في دراسات الحركات الدينية.
+- أشهر روبرت دوفال في أمريكا هو **الممثل** (1931-2023) الحائز على الأوسكار، وهو **ليس** عالماً اجتماعياً.
+- من المرجح أن الاسم وُضع في هذا المسوّد بناءً على ورقة بحثية أو فصل كتابي في كتاب جماعي عن الحركات الدينية.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون دوفال من **النقّاد الاجتماعيين** للسيانتولوجيا، ومن أهم من كتبوا في تاريخ الحركة من منظور أكاديمي محايد. ويُقدّم فهماً خارجياً لـ**«المؤسسة العلاجية-الدينية»** التي بناها هوبارد.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالحركات الدينية الجديدة (NRMs)](br-new-religious-movements) و[السيانتولوجيا](con-scientology) و[الطوائف](con-cults) كمفاهيم مركزية.
+
+## المصادر
+
+- Melton, J. G. (2000). *The Encyclopedia of Cults and New Religious Movements*. Marshall Cavendish.
+- Barker, E. (1989). *New Religious Movements: A Practical Introduction*. Her Majesty's Stationery Office.
+- Wilson, B. R. (1970). *Religious Sects*. Weidenfeld & Nicolson.
+- Hubbard, L. R. (1950). *Dianetics: The Modern Science of Mental Health*. Hermitage House.
+- Tipton, S. M. (1982). *Getting Saved from the Sixties*. University of California Press.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

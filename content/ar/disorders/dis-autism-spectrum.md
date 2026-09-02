@@ -12,16 +12,15 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-behavioral-rehearsal", title: "التكرار السلوكي (Behavioral Rehearsal)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة (Habit Reversal Training)", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-mindful-breathing", title: "التنفس اليقظ", type: "تقنية/تدخل علاجي"
-- id: "tec-sandplay-therapy", title: "العلاج بالرمل", type: "تقنية/تدخل علاجي"
-- id: "con-aba-autism", title: "تحليل السلوك التطبيقي (ABA) والتوحد", type: "مفهوم"
+- id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
+- id: "tec-sandplay-therapy", title: "العلاج باللعب في الرمل (يونغي)", type: "تقنية/تدخل علاجي"
+- id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
+- id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
+- id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
 - id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-fragile-x-behavioral", title: "متلازمة الصبغي X الهش السلوكية المعرفية", type: "متلازمة"
@@ -35,12 +34,19 @@ gaps:
   - "التفريق الدقيق بين المستوى 1/2/3 في DSM-5-TR لم يُراجَع من المصدر الأولي في هذه المسودة."
   - "معدلات الانتشار المُحدَّثة عربياً وفي السياق الثقافي لم تُوثَّق بعد."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب طيف التوحد
 
 اضطراب نمائي عصبي يتمحور حول فروقات في التواصل الاجتماعي والتفاعل، مع أنماط سلوكية واهتمامات محدودة ومتكررة، تبدأ في مرحلة النمو المبكرة (عادة قبل سن 3 سنوات). يصف DSM-5-TR اضطراب طيف التوحد ضمن "اضطرابات النمو العصبي"، ويعكس مبدأ الطيف (Spectrum) — أي تفاوت الشدة والاحتياجات من شخص لآخر.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب طيف التوحد كفئة تشخيصية طبية (بمعايير قصور وشدة كما يحددها DSM-5-TR/ICD-11) وبين النموذج الاجتماعي للإعاقة (con-social-model-disability) كإطار فلسفي — الأخير يضع الإعاقة في العائق البيئي/الاجتماعي لا في القصور الفردي، بينما التصنيف الإكلينيكي هنا معياري تشخيصي يستهدف تحديد الحاجة للدعم والتدخل، لا موقفاً فلسفياً من طبيعة الإعاقة أو الاختلاف العصبي.
 
 ## ملاحظات على المعايير التشخيصية
 

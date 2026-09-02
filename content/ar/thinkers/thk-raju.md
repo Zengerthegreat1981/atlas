@@ -15,12 +15,12 @@ active_end: 1990
 edges:
 - rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مدرسة"
 related:
-- id: "thk-masson-oursel", title: "ماسون أورسيل", type: "مفكر"
+- id: "thk-masson-oursel", title: "بول-لويس ماسون-أورسيل", type: "مفكر"
 - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
 - id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان", type: "مفكر"
 - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
 - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-- id: "thk-sri-aurobindo", title: "سري أوروبندو", type: "مفكر"
+- id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
 gaps:
   - "أعماله عن Gadamer لم تُراجَع منهجياً في سياق المقارنة مع Shankara."
   - "مفهوم 'Spatiality' (1954) في كتاباته المبكرة غير مفهرس في دراسات لغوية مقارنة حديثة."
@@ -55,6 +55,9 @@ gaps:
 - *Towards a New Metaphysics* (1987).
 - *Idealistic Thought in India* (1953).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثّق في هذا الملف.
+- Raju, P. T. (1962). *Introduction to Comparative Philosophy*. Southern Illinois University Press.
+- Raju, P. T. (1971). *The Philosophical Traditions of India*. University of Pittsburgh Press.
+- Riepe, D. (1970). "P. T. Raju's Contribution to Comparative Philosophy." *Philosophy East and West*, 20(1).
+- *Philosophy East and West* (مجلة نشر فيها راجو معظم أبحاثه المقارنة).

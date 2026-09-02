@@ -18,12 +18,8 @@ related:
 - id: "tec-metacognitive-therapy", title: "العلاج ما وراء المعرفي (MCT)", type: "تقنية/تدخل علاجي"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
   - "سنة الميلاد وسنوات عمله في جامعة مانشستر (التي كان يرأس فيها سابقاً مركز MCT) تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أدريان ويلز
@@ -43,3 +39,9 @@ gaps:
 - العلاج ما وراء المعرفي لاضطرابات القلق والاكتئاب (Metacognitive Therapy for Anxiety and Depression, 2009).
 - السيطرة على العقل: كيف تتحكم في قلقك واجترارك ووسواسك (Controlling Your Mind, 2007).
 - تحرير الذات من الاجترار (Detached Mindfulness, 2020) مع سايمون شيبارد.
+
+## المصادر
+
+- Wells, Adrian. *Emotional Disorders and Metacognition: Innovative Cognitive Therapy*. Chichester: John Wiley & Sons, 2000.
+- Wells, Adrian. *Metacognitive Therapy for Anxiety and Depression*. New York: Guilford Press, 2009.
+- University of Manchester — صفحة السيرة الأكاديمية الرسمية لأدريان ويلز، قسم علم النفس.

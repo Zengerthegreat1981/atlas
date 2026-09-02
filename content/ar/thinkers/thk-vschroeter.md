@@ -22,7 +22,7 @@ related:
 - id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا مصدر ثانوي مستقل (غير موقع IIBA وسِيَر الناشر) يوثّق تفاصيل مسيرتها التحريرية بدقة أكبر."
 ---
 
 # فينسينتيا شرودر
@@ -43,3 +43,9 @@ gaps:
 ## أهم أعمالها
 
 «الاختراق في التواصل» (Communication Breakthrough, 2018) · «الميلان» (Tilt, 2021) · «الانحناء للشكل» (Bend Into Shape, 2011، مع Thomson).
+
+## المصادر
+
+- Schroeter, V., & Thomson, B. (2011). *Bend Into Shape: Techniques for Bioenergetic Therapists*.
+- Schroeter, V. (2018). *Communication Breakthrough: How Using Brain Science and Listening to Body Cues Can Transform Your Relationships*.
+- International Institute for Bioenergetic Analysis (IIBA) — صفحة السيرة والمجلة (IIBA Journal، رئاسة التحرير 2008–2018).

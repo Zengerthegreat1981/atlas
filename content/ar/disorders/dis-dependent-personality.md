@@ -12,9 +12,6 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
@@ -26,13 +23,13 @@ related:
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-smart-goal-setting", title: "وضع أهداف SMART", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-prioritization-time-management", title: "تحديد الأولويات وإدارة الوقت", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "تبنّي المنظور", type: "تقنية/تدخل علاجي"
-- id: "tec-act-ca-tiny-steps-approach", title: "مقاربة الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
+- id: "tec-act-ca-tiny-steps-approach", title: "أسلوب الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-dear-man", title: "دير مان (DEAR MAN)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-fast", title: "فاست (FAST)", type: "تقنية/تدخل علاجي"
@@ -40,17 +37,25 @@ related:
 - id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "wrk-cognitive-therapy-personality", title: "العلاج المعرفي لاضطرابات الشخصية", type: "عمل / كتاب"
+- id: "con-autonomy-kantian", title: "الاستقلالية (Autonomy) في الكانطية الأخلاقية", type: "مفهوم"
 gaps:
   - "النموذج البُعدي لـ ICD-11 في سياق DPD لم يُراجع من المصدر الأولي."
   - "التداخل بين DPD و AvPD في Cluster C لم يُوثَّق بدقة."
   - "الفاعلية النسبية لـ CBT مقابل Interpersonal Therapy في DPD لم تُقارَن من مصدر أولي."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الشخصية الاعتمادية
 
 اضطراب شخصية يتميز بحاجة مفرطة ومزمنة للرعاية، تؤدي إلى سلوك تعلُّقي وخضوعي، وخوف من الانفصال. يصعب على الشخص اتخاذ القرارات اليومية دون نصيحة مفرطة من الآخرين. يبدأ في مرحلة البلوغ المبكر ويظهر في سياقات متعددة، ويقع تحت Cluster C (القلق/الخوف) في التصنيف التقليدي.
+
+## السقف الإكلينيكي
+
+هذا المدخل يصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11 — بمعاييرها ومسارها العلاجي المُوثّق — دون تقديم أي تقييم تشخيصي مباشر لفرد بعينه أو توجيه علاجي شخصي؛ التمييز بين نمط سلوكي والتشخيص الرسمي يتطلب تقييماً إكلينيكياً متخصصاً.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الشخصية الاعتمادية كفئة سريرية وبين مفهوم **الاستقلالية (Autonomy)** كما طرحه كانط في *أسس ميتافيزيقا الأخلاق* (1785) (con-autonomy-kantian) — عند كانط الاستقلالية مبدأ أخلاقي معياري: قدرة الإرادة العاقلة على تشريع قانونها الأخلاقي لذاتها بمعزل عن الميل أو السلطة الخارجية، وهو شرط للفاعلية الأخلاقية لدى كل إنسان عاقل. أما DPD فحالة إكلينيكية تصف عجزاً وظيفياً فعلياً عن اتخاذ القرار اليومي دون طمأنة مفرطة من الآخرين، يسبب ضائقة أو خللاً وظيفياً موثقاً وفق معايير الفصل C — أي فشل ملموس في ممارسة الاستقلالية العملية، لا موقفاً فلسفياً من مصدر الإلزام الأخلاقي.
 
 ## ملاحظات على المعايير التشخيصية
 

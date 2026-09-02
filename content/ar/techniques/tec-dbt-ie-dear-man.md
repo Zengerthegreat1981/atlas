@@ -10,6 +10,7 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
@@ -17,9 +18,11 @@ related:
 - id: "tec-dbt-ie-fast", title: "فاست (FAST) — توكيد واحترام الذات", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-checking-intentions-in-communication", title: "التحقق من الهدف قبل التواصل", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على تجربة معشاة تعزل أثر DEAR MAN وحدها عن باقي وحدة العلاقات الفعالة؛ الدليل التجريبي متاح على مستوى حزمة DBT الكاملة لا المهارة منفردة."
 ---
 
 # دير مان (DEAR MAN) — مهارة شدة الطلب والرفض
@@ -61,3 +64,12 @@ DEAR MAN هو اختصار لثمانية مكونات لطلب فعّال:
 
 - قد تستخدم بعدوانية («أنا أطالب بحقي!») إذا لم يقترن بنبرة هادئة.
 - في سياقات ثقافية معينة (مثلا: مع الوالدين أو الرؤساء في بعض الثقافات)، قد تبدو مباشرة أكثر من اللازم.
+
+## الأصل والدليل التجريبي
+
+طوّرت مارشا لينهان (Marsha Linehan) وحدة مهارات العلاقات الفعالة، ومنها DEAR MAN، ضمن حزمة العلاج الجدلي السلوكي (DBT) التي نشرتها بتفصيل في كتابها «العلاج المعرفي السلوكي لاضطراب الشخصية الحدية» (1993). صُممت أصلاً للنساء اللاتي يعانين من اضطراب الشخصية الحدية والسلوك الانتحاري المتكرر، والدليل الأقوى على فعالية الحزمة يأتي من تجارب معشاة أجرتها لينهان وزملاؤها بدءاً من 1991 على هذه الفئة تحديداً — لكن الدراسات قيّمت وحدة المهارات الأربع مجتمعة لا DEAR MAN بمفردها. تتقاطع DEAR MAN مع تدريب التوكيدية (Assertiveness Training) من المدرسة المعرفية السلوكية في هدف التعبير المباشر عن الاحتياجات، لكنها تختلف عنه بإدراجها ضمن إطار جدلي يوازن الطلب بالقبول والتفاوض بدل الاكتفاء بالتدريب السلوكي على التوكيد.
+
+## المصادر
+
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.

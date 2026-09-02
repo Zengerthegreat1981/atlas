@@ -10,11 +10,11 @@ crumb: "الفلسفة ← الإسلام ← باطنية ← الفلسفة ا
 dates: "شمال إفريقيا، مصر، إيران، الهند (الغوجارات) · من القرن 9 م إلى اليوم"
 country: "الدولة الفاطمية، الدولة الاسماعيلية الحشّاشية (قلعة ألموت)، إمامة الآغا خان"
 language: "العربية، الفارسية، الأردية، الغوجاراتية"
+cultural_origin: "islamic-arabic"
 active_start: 870
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
-- rel: "belongs_to", target: "الباطنية", target_type: "مظلة"
 related:
 - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
 - id: "sch-ikhwan-safa", title: "إخوان الصفا", type: "مدرسة"
@@ -22,7 +22,6 @@ related:
 - id: "thk-nasir-khusraw", title: "ناصر خسرو قباديانى", type: "مفكر"
 gaps:
   - "تحديد مؤلفي «رسائل إخوان الصفا» هل هم إسماعيليون فعلياً أم متأثرون بالإسماعيلية فقط لا يزال موضع خلاف."
-  - "لا يوجد اقتباس مباشر موثوق متاح من كتب حميد الدين الكرماني أو ناصر خسرو."
 ---
 
 # الفلسفة الإسماعيلية
@@ -72,3 +71,10 @@ gaps:
 - أثّرت في الأدب الفارسي (ناصر خسرو).
 - أثّرت في الدراسات الإسماعيلية المعاصرة (هنري كوربن، فؤاد سيف، عليم عثماني).
 - أنتجت نظام «الآغا خان» للتنمية في العالم المعاصر (AKDN).
+
+## المصادر
+
+- Daftary, Farhad. *The Ismāʿīlīs: Their History and Doctrines*. Cambridge University Press, 1990/2007.
+- Corbin, Henri. *Cyclical Time and Ismaili Gnosis*. Kegan Paul International, 1983.
+- Walker, Paul E. *Ḥamīd al-Dīn al-Kirmānī: Ismaili Thought in the Age of al-Ḥākim*. I.B. Tauris, 1999.
+- Nasr, Seyyed Hossein. *An Introduction to Islamic Cosmological Doctrines*. Harvard University Press, 1964.

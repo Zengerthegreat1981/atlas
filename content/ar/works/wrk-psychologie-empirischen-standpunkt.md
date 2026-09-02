@@ -8,17 +8,19 @@ en: "Psychologie vom empirischen Standpunkte"
 crumb: "علم النفس الفينومينولوجي ← الأعمال ← علم النفس من المنظور التجريبي"
 dates: "1874 · فرانتس برنتانو"
 active_start: 1874
-active_end: 1874
+active_end: 1995
 language: "الألمانية"
 part: "psychology"
+author: "فرانتس برنتانو"
+author_slug: "thk-brentano"
+publication_year: 1874
+original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "علم النفس الفينومينولوجي", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-brentano", target_type: "مفكر"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 gaps:
   - "الكتاب صدر في مجلّد واحد عام 1874؛ مخطوطة الجزء الثاني لم تكتمل — تحقق من أي ملاحق أو إصدارات لاحقة لم يُنجز بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # علم النفس من المنظور التجريبي

@@ -10,13 +10,12 @@ crumb: "فلسفة العقل ← البديهيات التأسيسية ← إش
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "فلسفة العقل", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-descartes", target_type: "مفكر"
 related:
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
-- id: "thk-merleau-ponty", title: "موريس ميرلو-بونتي", type: "مفكر"
-- id: "con-mind-body", title: "عقل-جسم", type: "مفهوم"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
   - "النماذج الحديثة (نظرية المعلومات المتكاملة IIT، نظرية مساحة العمل العالمية GWT) كحلول ممكنة للمشكلة الصعبة للوعي لم تُمثَّل بعمق."
   - "العلاقة بين الإشكالية الفلسفية والأبحاث العصبية المُعاصرة (Libet 1983) تحتاج ربطاً."
@@ -68,3 +67,10 @@ gaps:
 
 - **مُعضلة لا حل لها**: الإشكالية تتحدى كل حل.
 - **مُشكلة لا مُعطى**: ربما تكون صياغتها مغلوطة (Dennett).
+
+## المصادر
+
+- Descartes, R. (1641). *Meditations on First Philosophy* (طرح الازدواجية الجوهرية).
+- Chalmers, D. (1995). "Facing Up to the Problem of Consciousness". *Journal of Consciousness Studies*.
+- Dennett, D. (1991). *Consciousness Explained*.
+- Spinoza, B. (1677). *Ethics* (الازدواجية السمة).

@@ -12,14 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-epistemology", target_type: "مدرسة"
 related:
-- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
-- id: "thk-leibniz", title: "غوتفريد لايبنتز", type: "مفكر"
+- id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المَعْرفة (con-knowledge)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التَّحْلِيلِيّ والتَّرْكِيبِيّ (con-analytic-synthetic)"
   - "التمييز بين المعنى السَّابق/اللاحِق عند كانط والمعنى عند هيوم يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'السابق' في الفلسفة و'الفطري' (Innate) في علم النفس التطوري يحتاج فصلاً."
   - "العلاقة بالـ 'Prior' في الاحتمالات البايزية (Bayesian) تحتاج توثيقاً."
 ---
@@ -42,3 +41,9 @@ gaps:
 ## النَّقْد
 
 (1) **نَقْد تَجْرِيبِيّ** (Quine، 1951): «**تَقْسِيم**» (A Priori / A Posteriori) «**وَهْم**» (Myth). (2) **نَقْد مَا بَعد حَدَاثِيّ** (Rorty، 1979): «**مَعْرفة**» «**تَارِيخِيَّة**» (Historical)، «**لَا سَابِقَة**» (No A Priori).
+
+## المصادر
+
+- Kant, Immanuel. *Critique of Pure Reason* (1781/1787).
+- Hume, David. *An Enquiry Concerning Human Understanding* (1748).
+- Quine, W. V. O. "Two Dogmas of Empiricism." *The Philosophical Review* (1951).

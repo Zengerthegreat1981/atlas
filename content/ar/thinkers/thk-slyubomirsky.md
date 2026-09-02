@@ -15,10 +15,10 @@ crumb: "الأطلس ← thinkers ← سونيا ليوبوميرسكي"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـسونيا ليوبوميرسكي."
 ---
 
 # سونيا ليوبوميرسكي
@@ -42,6 +42,8 @@ gaps:
 - *The Myths of Happiness* (2013).
 - *Rediscovering Happiness* (2010).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Lyubomirsky, S. (2007). *The How of Happiness: A Scientific Approach to Getting the Life You Want*. Penguin Press.
+- Lyubomirsky, S., Sheldon, K. M., & Schkade, D. (2005). Pursuing happiness: The architecture of sustainable change. *Review of General Psychology*, 9(2), 111–131.
+- University of California, Riverside — صفحة أستاذية سونيا ليوبوميرسكي بقسم علم النفس.

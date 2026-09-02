@@ -6,57 +6,64 @@ level: "متوسط"
 title: "اضطراب الكرب الحاد"
 en: "Acute Stress Disorder (ASD)"
 crumb: "الاضطرابات والحالات الإكلينيكية ← اضطرابات الكرب والصدمة ← اضطراب الكرب الحاد"
-dsm5tr_code: "308.3"
-icd11_code: "6B41"
+dsm5tr_code: "F43.0"
+icd11_code: "QE84"
 active_start: 1994
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل الذهن", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-crisis-survival-planning", title: "تخطيط البقاء في الأزمات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-behavioral-contracting", title: "التعاقد السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-crisis-survival-planning", title: "خطة النجاة من الأزمات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-behavioral-contracting", title: "العقد السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-anchoring-in-the-five-senses", title: "الرسو في الحواس الخمس", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبّل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "تهدئة الذات بالحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-improve-the-moment", title: "تحسين اللحظة (IMPROVE)", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-spec-cope-ahead-for-trauma-triggers", title: "المواجهة المسبقة لمحفّزات الصدمة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-spec-cope-ahead-for-trauma-triggers", title: "الاستعداد المسبق لمحفزات الصدمة", type: "تقنية/تدخل علاجي"
 - id: "syn-dissociation", title: "الانفصال", type: "متلازمة"
-- id: "syn-hypervigilance", title: "اليقظة المفرطة", type: "متلازمة"
-- id: "syn-emotional-numbing", title: "الخدر العاطفي", type: "متلازمة"
+- id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
+- id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 - id: "syn-psychogenic-death-cannon", title: "متلازمة الموت النفسي بالاستسلام واليأس الصدمي (Voodoo Death)", type: "متلازمة"
 - id: "syn-sleep-paralysis", title: "متلازمة شلل النوم المعزول (الجاثوم التفارقي)", type: "متلازمة"
 - id: "syn-susto", title: "متلازمة سوستو (مرض الفقدان الروحي الناجم عن الفزع في أمريكا اللاتينية)", type: "متلازمة"
 - id: "ins-ies-r", title: "مقياس أثر الحدث المنقح", type: "أداة قياس"
+- id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 gaps:
-  - "الفروقات بين DSM-5-TR و ICD-11 في تعريف اضطراب الكرب الحاد (لا سيما الفترة الزمنية والمفهوم) لم تُراجع من المصدرين الأوليين."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "مدى فعالية التدخلات المبكرة في خفض معدّل تطوّر PTSD في السياقات منخفضة الموارد غير موثّق بشكل كافٍ."
+  - "نسبة 50-65% لتقليل خطر تطوّر PTSD بالتدخل المبكّر مذكورة في المتن بلا استشهاد بدراسة أو ميتا-تحليل محدد بالاسم والسنة."
+  - "لم تُحدَّد الدراسة أو المصدر الأولي الذي استند إليه رقم 20-50% لنسبة تطوّر PTSD من حالات ASD."
+  - "لا يوجد بعد تفصيل لكيفية تسجيل ICD-11 لتصنيف QE84 خارج الفصل السادس رسمياً في وثيقة WHO الأولية المتاحة للمراجعة المباشرة هنا."
 ---
 
 # اضطراب الكرب الحاد
 
 اضطراب نفسي يظهر عند التعرّض لحدث صادم أو مهدِّد للحياة (سواء بالتجربة المباشرة أو كشاهد أو بعلم بوقوعه لشخص قريب). يتميز بمجموعة من الأعراض: استرجاع الحدث (flashbacks)، تجنّب، فرط يقظة، خدر عاطفي، وانفصال (dissociation). يستمر الاضطراب لمدة 3 أيام إلى شهر واحد بعد الحدث.
 
+## السقف الإكلينيكي
+
+هذا المدخل، مثل بقية عناصر نوع 'اضطراب/حالة إكلينيكية' في هذا الأطلس، يصف الفئة التشخيصية الرسمية كما وردت في DSM-5-TR وICD-11 معرفياً فقط — لا يقدّم تقييماً تشخيصياً لأي فرد، ولا بديلاً عن تقييم إكلينيكي مباشر يجريه مختص مؤهل يتحقق من معايير المدة والشدة والتأثير الوظيفي.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الكرب الحاد كفئة تشخيصية بمعايير مدة صارمة (3 أيام–شهر) وبين 'الصدمة النفسية' كما تناولها دونالد كَلشد في التحليل النفسي التطوري (con-trauma) — الأخير مفهوم عن انقسام النفس دفاعياً عند تجاوز الصدمة لقدرة الأنا الطفلة على التحمل، بلا حدود زمنية أو معايير أعراض عددية، بينما ASD فئة إكلينيكية إجرائية محددة بعتبات تشخيصية.
+
 ## ملاحظات على المعايير التشخيصية
 
 يتطلب DSM-5-TR التعرّض لحدث صادم فعلي أو مهدِّد (مع معيار A)، مع ظهور 9 أعراض أو أكثر من 5 فئات (استرجاع، كوابيس، فلاشباك، تجنّب، خدر، يقظة مفرطة، تركيز ضعيف، قلق، اضطراب نوم). تظهر الأعراض بين 3 أيام وشهر واحد بعد الصدمة. ASD مُقدَّم كاضطراب وسيط بين استجابة الكرب الطبيعية و PTSD.
 
-ICD-11 يصنّف اضطراب الكرب الحاد تحت 6B41، مع تأكيد على الأعراض المشابهة لـPTSD لكن في الفترة المبكّرة بعد الصدمة. ICD-11 يختلف عن DSM-5-TR في أنه يُركّز على مجموعة من الأعراض دون النمذجة الصارمة بالفئات الخمس. لا يقدّم ICD-11 اضطراب الكرب الحاد كتسمية منفصلة بنفس الطريقة، ويُفضّل مفهوم "Reaction to severe stress" الأوسع (6B43).
+ICD-11 لا يصنّف "Acute stress reaction" ضمن الفصل السادس (الاضطرابات النفسية) أصلاً، بل يضعه تحت الكود QE84 في فصل "العوامل المؤثرة على الحالة الصحية" — قرار متعمّد من WHO باعتباره استجابة طبيعية متوقعة لحدث كارثي لا اضطراباً نفسياً بحد ذاته، بخلاف DSM-5-TR الذي يعامله كتشخيص رسمي (F43.0) ضمن فصل Trauma- and Stressor-Related Disorders. هذا الفارق التصنيفي نفسه — لا فارق فترة زمنية فقط — هو جوهر الاختلاف بين النظامين هنا.
 
 ## الأعراض الجوهرية
 

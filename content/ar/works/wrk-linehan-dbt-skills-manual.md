@@ -9,6 +9,10 @@ en: "Skills Training Manual for Treating Borderline Personality Disorder by Mars
 crumb: "العلاج السلوكي الجدلي ← أمهات الأعمال ← دليل مهارات DBT"
 active_start: null
 active_end: "مستمر"
+author: "مارشا لينهان"
+author_slug: "thk-mlinehan"
+publication_year: 1993
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:

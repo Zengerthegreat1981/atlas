@@ -17,13 +17,9 @@ edges:
 related:
 - id: "tec-net", title: "العلاج بالتعرض السردي (NET)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-- id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل فترة عملها المبكر في جامعة كونستانز مع فرانك نويز تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ماغي شاور
@@ -42,3 +38,9 @@ gaps:
 
 - العلاج بالتعرض السردي: دليل علاجي قصير المدى (Narrative Exposure Therapy, 2011، 2017) مع فرانك نويز وتوماس إلبيرت.
 - دراسة كفاءة NET في علاج لاجئي جنوب السودان وأوغندا (JAMA Psychiatry 2012).
+
+## المصادر
+
+- Schauer, Maggie, Frank Neuner, and Thomas Elbert. *Narrative Exposure Therapy: A Short-Term Treatment for Traumatic Stress Disorders*. Cambridge, MA: Hogrefe Publishing, 2011.
+- Neuner, Frank, Maggie Schauer, et al. "A Comparison of Narrative Exposure Therapy, Supportive Counseling, and Psychoeducation for Treating Posttraumatic Stress Disorder in an African Refugee Settlement." *Journal of Consulting and Clinical Psychology* 72, no. 4 (2004): 579–587.
+- University of Konstanz — صفحة مركز فيفو (vivo international) الذي شاركت شاور في تأسيسه.

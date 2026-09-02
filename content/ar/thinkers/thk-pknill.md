@@ -6,24 +6,23 @@ level: "متوسط"
 title: "باولو نيل"
 en: "Paolo J. Knill"
 crumb: "الفنون التعبيرية التعددية ← المؤسس المشارك ← باولو نيل"
-dates: "إيطاليا/الولايات المتحدة · 1938–"
+dates: "سويسرا/الولايات المتحدة · 1932–2020"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-active_start: 1978
-active_end: "مستمر"
+active_start: 1976
+active_end: 2020
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "مدرسة"
 related:
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
-  - "السيرة الذاتية الكاملة في ISMETA وLesley لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تفاصيل تكوينه الأكاديمي المبكر في سويسرا قبل الانتقال لأمريكا لم تُراجع بدقة."
 ---
 
 # باولو نيل
 
-معالج بالفنون التعبيرية ومؤسس مشارك لمدرسة "Lesley University" في هذا الحقل. اشتُهر مع شون ماكنيف وستيفن ليفين في بناء إطار "Expressive Arts Therapy" كنهج أكاديمي.
+عالم ومعالج بالفنون التعبيرية سويسري-أمريكي (1932–2020)، أستاذ في جامعة "Lesley" بكامبريدج، ماساتشوستس، حيث ساهم مع شون ماكنيف في تأسيس برنامج الدراسات العليا في "Expressive Arts Therapy" أوائل السبعينيات. عاد إلى سويسرا في منتصف التسعينيات ليؤسس "The European Graduate School" (EGS) في Saas-Fee عام 1994 مع إلين وستيفن ليفين.
 
 ## ما أعطاه
 
@@ -44,3 +43,9 @@ gaps:
 
 ## القيد
 - **صعوبة القياس الكمي** للعلاج بالفن تبقى تحدياً بنيوياً لمجال نيل.
+
+## المصادر
+
+- Knill, Paolo J., Ellen G. Levine, and Stephen K. Levine. *Principles and Practice of Expressive Arts Therapy: Toward a Therapeutic Aesthetics*. Jessica Kingsley Publishers, 2005.
+- European Graduate School (EGS), صفحة السيرة الرسمية "Prof. Dr. h.c. Paolo J. Knill, Ph.D."
+- "History of Expressive Arts Therapy." The CREATE Institute (تؤرِّخ تأسيسه المشترك مع McNiff في Lesley University أوائل السبعينيات).

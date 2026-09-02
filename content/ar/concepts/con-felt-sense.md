@@ -15,11 +15,10 @@ edges:
 related:
 - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "tec-focusing-oriented", title: "التركيز الموجّه بالخبرة", type: "تقنية/تدخل علاجي"
+- id: "tec-focusing-oriented", title: "العلاج الموجه بالتركيز والإحساس المعيش", type: "تقنية/تدخل علاجي"
 - id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
 - id: "wrk-focusing", title: "التركيز (Focusing)", type: "عمل / كتاب"
-- id: "tec-four-existential-dimensions-healing", title: "الأبعاد الأربعة للشفاء: الجسدي، النفسي، الاجتماعي، الروحي", type: "تقنية/تدخل علاجي"
-- id: "tec-somatic-experiencing-tracking", title: "تتبع الإحساس الجسدي (Sensation Tracking) في SE", type: "تقنية/تدخل علاجي"
+- id: "con-felt-sense-tracking", title: "التتبع الحسي للإحساس المستبطن (Felt Sense)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من جندلين بعد."
   - "التمييز الدقيق بين 'الإحساس المحسَّس' و'الحدس الجسدي' (Body Intuition) يحتاج تحقق."
@@ -60,4 +59,8 @@ gaps:
 
 ## المصدر
 
-صاغه جندلين في كتابه *Experiencing and the Creation of Meaning* (1962) وعرضه تفصيلياً في *Focusing* (1978، طبعات لاحقة 1981، 1985).
+صاغه جندلين في كتابه *Experiencing and the Creation of Meaning* (1962) وعرضه تفصيلياً في *Focusing* (1978، طبعات لاحقة 1981، 1985) (wrk-focusing).
+
+## نشأته ضمن مدرسة روجرز وتطوره اللاحق
+
+توصّل جندلين إلى المفهوم أثناء عمله باحثاً في فريق كارل روجرز بمركز الإرشاد بجامعة شيكاغو في الخمسينيات، حين درس ما الذي يجعل جلسات العلاج المتمركز حول العميل ناجحة، فوجد أن العملاء الناجحين يتوقفون ليلاحظوا إحساساً جسدياً مبهماً قبل الكلام. حوّل جندلين هذا الرصد إلى تقنية «التركيز» (tec-focusing-oriented)، ثم عمّمه لاحقاً إلى نظرية فلسفية أشمل في «النظرية البنائية للعملية» (con-process-constructivism). وتبنّى بيتر ليفين وبات أوغدن المفهوم نفسه في العلاجات الجسدية تحت اسم «التتبع الحسي للإحساس المستبطن» (con-felt-sense-tracking).

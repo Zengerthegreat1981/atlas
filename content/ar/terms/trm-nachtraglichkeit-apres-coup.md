@@ -15,8 +15,7 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "الإحالة الدقيقة لأول استخدام فرويدي موثق للمصطلح (رسالة إلى فليس 1896 مقابل حالة رجل الذئاب 1918) تحتاج تحديداً نصياً أدق."
 ---
 # الأثر الرجعي وتأخر المعنى الصادم (Nachträglichkeit / Après-coup)
 
@@ -33,3 +32,9 @@ gaps:
 ## الأثر في علاج الصدمات النفسية المعقدة (C-PTSD)
 
 يمنح الأمل في إمكانية تفكيك القوة التدميرية لذكريات الماضي عبر إعادة تأويلها في بيئة علاجية آمنة.
+
+## المصادر
+
+- Freud, S. (1918). *From the History of an Infantile Neurosis* [Wolf Man Case]. Standard Edition, Vol. 17.
+- Laplanche, J., & Pontalis, J.-B. (1973). *The Language of Psycho-Analysis* (D. Nicholson-Smith, Trans.). Norton. (entry: "Deferred Action / Après-coup").
+- Laplanche, J. (1999). "Notes on Afterwardsness." In *Essays on Otherness*. Routledge.

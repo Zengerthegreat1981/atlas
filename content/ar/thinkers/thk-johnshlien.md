@@ -6,14 +6,14 @@ level: "متوسط"
 title: "جون شلين"
 en: "John M. Shlien"
 crumb: "علم النفس الإنساني ← تطوير ← جون شلين"
-dates: "الولايات المتحدة · 1928–"
+dates: "الولايات المتحدة · 1918–2002 م"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1963
-active_end: 2005
+active_start: 1957
+active_end: 2002
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-person-centered", target_type: "تيار"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

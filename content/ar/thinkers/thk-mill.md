@@ -48,6 +48,8 @@ gaps:
 
 نص مؤسِّس **للنسوية الليبرالية**: «**العلاقة بين الجنسين في المجتمع** هي **سيادة** (Dominatio) ... لا **شراكة** (Socio)». دافع عن المساواة الكاملة بين المرأة والرجل في القانون، والتعليم، والعمل.
 
+راجع ميل طبعات كتابه «مبادئ الاقتصاد السياسي» (1848) في ضوء **ثورات 1848 الأوروبية** («ربيع الشعوب»)، فأضاف فصلاً عن «مستقبل الطبقة العاملة» متعاطفاً مع مطالب الاشتراكيين التعاونيين رغم رفضه الثورة العنيفة.
+
 ### «التمثيل الحكومي» (Considerations on Representative Government, 1861)
 
 نظرية **الديمقراطية التمثيلية**: «**الأفضل**» هو تمثيل الجميع، لا الأغلبية وحدها. **حقوق الأقليات** مهمّة. **اقتراع نسبي** و**اقتراع تعدّدي** (Plural Voting) — للأعلى تعليماً عدة أصوات.
@@ -67,5 +69,12 @@ gaps:
 - **Considerations on Representative Government** (1861): في التمثيل الحكومي.
 - **Utilitarianism** (1863): النفعية.
 - **The Subjection of Women** (1869): خضوع المرأة.
-- **Three Essays on Religion** (1874): ثلاث مقالات في الدين.
+- **Three Essays on Religion**: نُشرت بعد وفاته (1874)، جمعتها زوجة ابنه هيلين تايلور من مخطوطات كتبها في أواخر حياته.
 - **An Examination of Sir William Hamilton's Philosophy** (1865): فحص فلسفة هاميلتون.
+
+## المصادر
+
+- Mill, J. S., *Autobiography* (1873), London: Longmans, Green, Reader, and Dyer.
+- Mill, J. S., *On Liberty* (1859) و*Utilitarianism* (1863)، طبعات نقدية ضمن *Collected Works of John Stuart Mill*, ed. J. M. Robson, University of Toronto Press (1963–1991).
+- Reeves, R., *John Stuart Mill: Victorian Firebrand* (2007), Atlantic Books.
+- Skorupski, J., *John Stuart Mill* (1989), Routledge — دراسة فلسفية مرجعية.

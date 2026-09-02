@@ -9,11 +9,10 @@ en: "Nyāya (Classical Indian Logic and Epistemology)"
 crumb: "الفلسفة ← الهند ← المدارس الأرثوذكسية ← نيايا"
 dates: "الهند · من القرن 2 ق.م إلى القرن 18 م"
 country: "شبه القارة الهندية"
+cultural_origin: "indian"
 language: "السنسكريتية"
 active_start: -200
 active_end: 1800
-edges:
-- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
 related:
 - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
 - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
@@ -57,3 +56,9 @@ gaps:
 ## القيد
 
 - بقيت رهينة ربطها بالميتافيزيقا الفيدية (خلاف Nyāya الحديثة).
+
+## المصادر
+
+- Matilal, Bimal Krishna. *The Character of Logic in India*. State University of New York Press, 1998.
+- Potter, Karl H. (ed.). *Encyclopedia of Indian Philosophies*, Vol. 2: *Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*. Princeton University Press, 1977.
+- Gaṅgeśa (trans. Stephen H. Phillips). *Epistemology of Perception: Gaṅgeśa's Tattvacintāmaṇi*. American Institute of Buddhist Studies, 2004.

@@ -10,12 +10,12 @@ crumb: "الفينومينولوجيا ← البديهيات التأسيسية
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "الفينومينولوجيا", target_type: "مدرسة"
-- rel: "formulated_by", target: "فرانز برينتانو", target_type: "مفكر"
+- rel: "relates_to", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-brentano", target_type: "مفكر"
 related:
-- id: "thk-brentano", title: "فرانز برينتانو", type: "مفكر"
+- id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "thk-merleau-ponty", title: "موريس ميرلو-بونتي", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "con-phenomenology", title: "الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى", type: "مفهوم"
 gaps:
   - "التمييز بين القصدية عند برينتانو وعند هوسرل وعند سيرل يحتاج تحليلاً فينومينولوجياً معمارياً."
@@ -64,3 +64,11 @@ gaps:
 - **السلوكية**: مُفارقة لا يمكن ملاحظتها.
 - **ما بعد البنيوية** (Derrida): "القصدية" تفترض ذاتاً موحَّدة، بينما الهوية مُشتَّتة.
 - **بعض الفلاسفة المعرفيين** (Dennett): القصدية موضع نظر كـ"موقف تفسيري" (Intentional Stance) لا كحقيقة.
+
+## المصادر
+
+- Brentano, F. (1874). *Psychologie vom empirischen Standpunkt* [منشور بالإنجليزية كـ*Psychology from an Empirical Standpoint*]. Duncker & Humblot.
+- Husserl, E. (1900–1901). *Logische Untersuchungen* [*Logical Investigations*]. Max Niemeyer.
+- Merleau-Ponty, M. (1945). *Phénoménologie de la perception* [*Phenomenology of Perception*]. Gallimard.
+- Searle, J. R. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
+- Dennett, D. C. (1987). *The Intentional Stance*. MIT Press.

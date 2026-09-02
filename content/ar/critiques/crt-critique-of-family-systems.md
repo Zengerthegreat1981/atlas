@@ -13,14 +13,14 @@ edges:
 - rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
-- id: "crt-feminist-critique-behaviorism", title: "نقد نسوي", type: "نقد خارجي موثَّق"
-- id: "crt-foucault-critique-of-asylum", title: "نقد فوكو", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
+- id: "crt-foucault-critique-of-asylum", title: "نقد فوكو للمصحة النفسية والطبنة السيكياترية", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
+- "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
 - "لم تُراجع من نسخة أصلية مباشرة بعد (MacKinnon, 1989; White, 1991)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "عنوان نص MacKinnon 1989 وWhite 1991 غير مؤكد؛ اكتُفي بذكرهما بالاسم والسنة في المتن دون ضمهما لقسم المصادر."
 ---
 # نقد الْعِلَاج الْأُسَريّ النِّظَامِيّ: مَنْ يَحْدِّد مَا هُوَ «صِحِّيّ»؟
 
@@ -39,3 +39,7 @@ gaps:
 ## أَهمِّيَّة
 
 النَّقْد «**مُهِمّ**» (Important) لِـ**«**اِحْتِرَام**» (Respect) التَّنَوُّع الثَّقَافِيّ، لَكِنَّ «**رَفْض**» (Rejection) الْأُسَريّ «**لَا**** (Not) مُبَرِّر.
+
+## المصادر
+
+- Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.

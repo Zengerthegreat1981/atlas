@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1999
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الطب النفسي الجسدي وعلاج الصدمات", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
 - id: "thk-johann-hari", title: "يوهان هاري", type: "مفكر"
 - id: "wrk-myth-of-normal", title: "أسطورة الطبيعي", type: "عمل / كتاب"

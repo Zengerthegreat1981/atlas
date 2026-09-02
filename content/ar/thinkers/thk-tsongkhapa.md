@@ -13,11 +13,11 @@ language: "التبتية"
 active_start: 1387
 active_end: 1419
 edges:
-- rel: "belongs_to", target: "البوذية التبتية: غيلوغ", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد في الأطلس ملف مدرسة مستقل لـ'غيلوغ' التبتية كمؤسسة، فرُبط الملف بمدرسة المادهياماكا الفلسفية الأمّ بدلاً منها."
 ---
 
 # جي تسونغكابا
@@ -43,6 +43,8 @@ gaps:
 - *Legs bshad snying po* (جوهر البيان الحسن) — في تمييز المعنى الصريح من المؤوَّل.
 - *Rtsa she tik chen* — شرحه الكبير على ناغارجونا.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Tsongkhapa, *The Great Treatise on the Stages of the Path to Enlightenment* (trans. Lamrim Chenmo Translation Committee, 2000-04). Snow Lion.
+- Thurman, R. A. F. (1984). *Tsong Khapa's Speech of Gold in the Essence of True Eloquence*. Princeton University Press.
+- Hopkins, J. (2008). *Tsong-kha-pa's Final Exposition of Wisdom*. Snow Lion.

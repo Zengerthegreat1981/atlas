@@ -9,6 +9,7 @@ en: "Philosophy of Disability"
 crumb: "الفلسفة ← المقارنة والعابرة ← فلسفة الإعاقة"
 dates: "أمريكا، بريطانيا، عالمية · من 1990s إلى اليوم"
 country: "الولايات المتحدة، المملكة المتحدة"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
@@ -58,3 +59,11 @@ gaps:
 
 - تواجه انتقادات بسبب التعميم بين الإعاقات المختلفة.
 - تواجه انتقادات بسبب أحياناً إهمال البُعد الطبي.
+
+## المصادر
+
+- Kittay, Eva Feder. *Love's Labor: Essays on Women, Equality, and Dependency*. New York: Routledge, 1999.
+- Davis, Lennard J. *Enforcing Normalcy: Disability, Deafness, and the Body*. London: Verso, 1995.
+- Shakespeare, Tom. *Disability Rights and Wrongs*. London: Routledge, 2006.
+- Garland-Thomson, Rosemarie. *Staring: How We Look*. Oxford: Oxford University Press, 2009.
+- McRuer, Robert. *Crip Theory: Cultural Signs of Queerness and Disability*. New York: New York University Press, 2006.

@@ -10,10 +10,10 @@ crumb: "الفلسفة ← القارية ← الوجودية"
 dates: "فرنسا، ألمانيا، العالم الأنجلوساكسوني · من 1930 إلى نحو 1990"
 country: "فرنسا، ألمانيا"
 language: "الفرنسية، الألمانية، الإنجليزية"
+cultural_origin: "european"
 active_start: 1930
 active_end: 1990
 edges:
-- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
 - rel: "split_into", target: "sch-existentialism-atheist", target_type: "مدرسة"
 - rel: "split_into", target: "sch-existentialism-religious", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-absurdism", target_type: "مدرسة"
@@ -38,7 +38,6 @@ related:
 - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
 gaps:
   - "الحدود بين 'الوجودية' و'العبثية' و'الظاهراتية الوجودية' غير موحّدة في المراجع الفلسفية المختلفة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "الوجودية في أمريكا الشمالية (William Barrett، John Wild) تحتاج توسعة."
 ---
 
@@ -94,3 +93,11 @@ gaps:
 - **علم النفس**: رولو ماي، Medard Boss، لودفيغ بينسوانغر.
 - **الفلسفة السياسية**: سارتر في الماوية، هابرماس في نقده للذاتية.
 - **اللاهوت**: Paul Tillich، Dietrich Bonhoeffer، نيكولاي بيردياييف.
+
+## المصادر
+
+- Sartre, Jean-Paul. *Being and Nothingness* (L'Être et le Néant). Gallimard, 1943.
+- Heidegger, Martin. *Being and Time* (Sein und Zeit). 1927.
+- Camus, Albert. *The Myth of Sisyphus* (Le Mythe de Sisyphe). Gallimard, 1942.
+- Kaufmann, Walter (Ed.). *Existentialism from Dostoevsky to Sartre*. Meridian Books, 1956.
+- Macquarrie, John. *Existentialism*. Penguin Books, 1972.

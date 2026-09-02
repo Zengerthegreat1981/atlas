@@ -1,0 +1,59 @@
+---
+slug: "thk-teruo-ohta"
+id: "THK-2784"
+type: "مفكر"
+level: "مبتدئ"
+title: "تيرو أوتا"
+en: "Teruo Ohta"
+dates: "اليابان"
+country: "اليابان"
+language: "اليابانية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "علاج نايكان ← تطوير ← تيرو أوتا"
+edges:
+- rel: "belongs_to", target: "sch-naikan-therapy", target_type: "مدرسة"
+related:
+- id: "thk-yishin", title: "يوشيموتو إيشين", type: "مفكر"
+- id: "thk-ttakeo", title: "تاكيشي كونو", type: "مفكر"
+- id: "thk-y-mizuhara", type: "مفكر", title: "ياسوكي ميزوهارا"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Teruo Ohta' في قواعد بيانات العلاج الياباني."
+  - "لا كتاب منشور بهذا الاسم في J-STAGE (قاعدة الأبحاث اليابانية) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Teruo Ohta' (مؤرخ في جامعة توهوكو، اليابان) أو 'Teruo Ueda' (معالج نايكان في كيوتو)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Naikan Kyoto' عام."
+---
+
+# تيرو أوتا
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في علاج نايكان]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Teruo Ohta.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **J-STAGE (Japan)**: لا مقالة في «Naikan Therapy».
+  - **CiNii**: لا نتائج.
+  - **Japan Naikan Counseling Association**: لا نتائج.
+  - **Naikan Research Society**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Teruo Ohta** (مؤرخ في جامعة Tohoku، متخصص في تاريخ العلاقات اليابانية الأمريكية).
+  - **Teruo Ueda** (معالج نايكان في كيوتو، جامعة ريتسوميكان).
+  - **Osamu Noda** (مؤسِّس «Naikan Ring-Chart»).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة في علاج نايكان.
+- للتحقق:
+  - Reynolds, D. K. (1983). *Naikan Psychotherapy*. University of Chicago Press.
+  - Ishiyama, F. I. (1990). «A Naikan Approach to Mental Health», *Journal of Mental Health Counseling* 12(1).
+  - Murase, T. (2002). «A Naikan Approach for Group Counseling», *Journal for Specialists in Group Work* 27(2).

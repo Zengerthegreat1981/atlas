@@ -10,13 +10,14 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-critical-liberation", target_type: "تيار"
+- rel: "belongs_to", target: "br-critical-liberation-therapy", target_type: "تيار"
 related:
-- id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
-- id: "con-anti-oppressive-practice", title: "الممارسة المناهضة للقمع", type: "مفهوم"
+- id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 gaps:
-  - "نسبة الإطار إلى Watkins وShulman يستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نسبة الإطار إلى Mary Watkins وKenneth Shulman موجودة في المتن لكن دون توثيق ببليوغرافي كامل (طبعة، ناشر)، ولا توجد صفحة مفكر مستقلة لأي منهما لربطها."
+  - "الرابطان السابقان (con-intersectionality وcon-anti-oppressive-practice) حُذفا لعدم ورود إشارة فعلية لهما في متن المقال."
+  - "لا يوجد اقتباس موثّق مباشر لـ Watkins أو Shulman يمكن نسبته لهما بدقة."
 ---
 
 # العلاج النقدي-التحرري

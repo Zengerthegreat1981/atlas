@@ -20,7 +20,6 @@ related:
 - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
 gaps:
   - "علاقته بالفرنسيسكان وتأييده للروحانية الفقرية للقديس فرنسيس تحتاج بحثاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # وليم الأوكامي
@@ -48,3 +47,8 @@ gaps:
 - Quodlibeta Septem
 - Tractatus de Praedestinatione et Praescientia
 - Dialogus (نقد السلطة البابوية)
+
+## المصادر
+
+- William of Ockham, *Summa Logicae*, c. 1323.
+- Marilyn McCord Adams, *William Ockham*, University of Notre Dame Press, 1987.

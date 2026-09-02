@@ -13,8 +13,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية / الفرنسية"
 active_start: 1993
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفة النفسية التطبيقية ومدرسة الحياة", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-status-anxiety", title: "قلق السعي إلى المكانة", type: "عمل / كتاب"
 - id: "con-status-anxiety-concept", title: "قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety)", type: "مفهوم"

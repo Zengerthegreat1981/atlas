@@ -12,16 +12,15 @@ language: "الإنجليزية"
 active_start: 1974
 active_end: 2011
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "هاكومي (Hakomi)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-gjohanson", title: "غريغوري جوهانسون", type: "مفكر"
-- id: "thk-hweiss", title: "هارييت وايس", type: "مفكر"
+- id: "thk-hweiss", title: "هالكو ڤايس", type: "مفكر"
 - id: "thk-tgillingham", title: "تيري غيلنغهام", type: "مفكر"
 - id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 gaps:
   - "تفاصيل العلاقة مع البوذية (تأثير في باين، كابات-زين) لم تُراجع بشكل منفصل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة/تيار حقيقي بعنوان 'هاكومي (Hakomi)' في الأطلس — edges.belongs_to حُذف؛ سُجّلت المدرسة الغائبة في agents_specs/missing-schools.md."
 ---
 
 # رون كورتز
@@ -47,6 +46,8 @@ gaps:
 - *Body-Centered Psychotherapy* (1990).
 - *Grace Unfolding* (1992، مع هربرت بيندلر).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Kurtz, R. (1990). *Body-Centered Psychotherapy: The Hakomi Method*. LifeRhythm.
+- Kurtz, R., & Prestera, H. (1976). *The Body Reveals*. Harper & Row.
+- Weiss, H., Johanson, G., & Monda, L. (Eds.) (2015). *Hakomi Mindfulness-Centered Somatic Psychotherapy*. W. W. Norton.

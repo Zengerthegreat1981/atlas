@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الإسلام ← فلسفة ← مدرسة شيرا
 dates: "شيراز (فارس) · من القرن 13 م إلى القرن 17 م"
 country: "الدولة الإيلخانية، المظفّرية، الأتابكية، الصفوية المبكرة"
 language: "العربية، الفارسية"
+cultural_origin: "islamic-arabic"
 active_start: 1250
 active_end: 1650
 edges:
@@ -22,7 +23,7 @@ related:
 - id: "thk-ghiyath-al-din-dashtaki", title: "غياث الدين منصور الدشتكي الشيرازي", type: "مفكر"
 gaps:
   - "استمرارية المدرسة من القرن 7 هـ إلى ظهور الملا صدرا (القرن 11 هـ) تحتاج بحثاً أرشيفاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «شرح حكمته الإشراق» لقطب الدين الشيرازي."
+  - "«شرح حكمة الإشراق» لقطب الدين الشيرازي غير مراجَع في هذه المسودة من نص أولي مترجم، والاقتباس منه غير مذكور."
 ---
 
 # مدرسة شيراز الفلسفية
@@ -77,3 +78,10 @@ gaps:
 | إشراق صوفي بالدرجة الأولى | نسق مع الفقه الإمامي |
 | شيراز | أصفهان |
 | المعرفة ذوق + برهان | برهان + ذوق + فقه |
+
+## المصادر
+
+- Ziai, Hossein. "Shihāb al-Dīn Suhrawardī and the Illuminationist School." In *History of Islamic Philosophy*, ed. Nasr & Leaman. Routledge, 1996.
+- Rizvi, Sajjad. *Mulla Sadra and Metaphysics: Modulation of Being*. Routledge, 2009.
+- Pourjavady, Reza & Schmidtke, Sabine. "Studies on Sadr al-Dīn Dashtakī and Ghiyāth al-Dīn Manṣūr Dashtakī." Brill/Iranian Studies journal articles.
+- Walbridge, John. *The Science of Mystic Lights: Quṭb al-Dīn Shīrāzī and the Illuminationist Tradition in Islamic Philosophy*. Harvard University Press, 1992.

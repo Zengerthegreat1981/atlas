@@ -14,13 +14,13 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: 2016
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وعلاج صدمات الأسرة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-homecoming-inner-child", title: "العودة إلى الوطن: استعادة طفلك الداخلي", type: "عمل / كتاب"
 - id: "con-inner-child-popular", title: "الطفل الداخلي في علم النفس الشعبي", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـجون برادشو في الأدبيات المتاحة."
 ---
 
 # جون برادشو
@@ -53,6 +53,3 @@ gaps:
 - *Homecoming: Reclaiming and Championing Your Inner Child* (1990).
 - *Creating Love* (1992).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -1,6 +1,6 @@
 ---
 slug: "sch-zen-soto"
-id: "SCH-0336"
+id: "SCH-0905"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
@@ -12,13 +12,14 @@ country: "اليابان"
 language: "اليابانية، الصينية الكلاسيكية"
 active_start: 1227
 active_end: "مستمر"
+cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-chan", target_type: "مدرسة"
 related:
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-zen-rinzai", title: "زن: رينزاي", type: "مدرسة"
 - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "نصوص Dōgen (Shōbōgenzō، 75 مجلد)، Keizan Jōkin (Denkōroku) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Sōtō في اليابان و Caodong في الصين يستحق بحثاً نقدياً."
@@ -78,3 +79,11 @@ gaps:
 - **لغة Dōgen**: Dōgen كتب بـ صينية كلاسيكية ثقيلة، ترجمتها معقدة.
 - **جدلية Dōgen-Kōzen**: Jōdō Shinshū تنتقد Dōgen على «فقدان الأنا» المرتبط بممارستهم.
 - **الانقسام بين خط بيرل-تويلي** في Sōtō أمريكا، حول «مدينة Zen العظمى» في كاليفورنيا.
+
+## المصادر
+
+- Kasulis, T. P. *Zen Action/Zen Person*. University of Hawaii Press, 1981.
+- Heine, Steven. *Dōgen and Sōtō Zen*. Oxford University Press, 2015.
+- Dōgen. *Shōbōgenzō*, translated by Gudo Nishijima and Chodo Cross. BDK America, 1994–1999.
+- Kim, Hee-Jin. *Eihei Dōgen: Mystical Realist*. Wisdom Publications, 2004.
+- "Sōtō", *Encyclopædia Britannica*.

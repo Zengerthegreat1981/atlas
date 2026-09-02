@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← غاستون بوييسن"
 edges:
-- rel: "belongs_to", target: "علم النفس البيودينامي والتدليك الحركي (بويسن)", target_type: "تيار"
+- rel: "belongs_to", target: "br-biodynamic-psychology", target_type: "تيار"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"

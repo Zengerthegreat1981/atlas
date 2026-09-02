@@ -1,0 +1,65 @@
+---
+slug: "thk-struchhold"
+id: "THK-0548"
+type: "مفكر"
+level: "مبتدئ"
+title: "هوبيرتوس شتروخهولد"
+en: "Hubertus Struchhold"
+dates: "ألمانيا · معاصر"
+country: "ألمانيا"
+language: "الألمانية"
+active_start: 1990
+active_end: "مستمر"
+part: "philosophy"
+crumb: "المدرسة الوجودية ← الناس ← هوبيرتوس شتروخهولد"
+edges:
+- rel: "belongs_to", target: "br-existential-therapy", target_type: "تيار"
+related:
+- id: "thk-skierkegaard", title: "سورين كيركغارد", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-jpsartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-irvin-yalom", type: "مفكر", title: "إرفين يالوم"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Hubertus Struchhold' في قواعد البيانات الأوروبية."
+  - "لا كتاب منشور بهذا الاسم في GVK أو DNB (مكتبة ألمانيا الوطنية) حتى آب 2026."
+  - "تفاصيل شبكته في ECP (European Confederation of Psychoanalytic Psychotherapies) مجهولة."
+  - "الاحتمال: الاسم مقلوب (Struchhold) أو خطأ إملائي (Struchold, Struholdt)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'GSE' عام."
+---
+
+# هوبيرتوس شتروخهولد
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في قواعد بيانات العلاج الوجودي الأوروبية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Hubertus Struchhold.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **GVK** (Gemeinsamer Verbundkatalog): لا كتاب منشور.
+  - **DNB** (Deutsche Nationalbibliothek): لا سيرة ذاتية.
+  - **ECP (European Confederation)**: لا عضوية.
+  - **Existential Analysis Society**: لا نتائج.
+  - **IGD (International Gesellschaft für Daseinsanalyse)**: لا عضوية.
+  - **DAH (Deutsche Arbeitsgemeinschaft für Humanistische Psychotherapie)**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **خطأ إملائي** في الاسم (Struchhold → Struchold؟ Struethhold؟ Strugholdt؟).
+- احتمال **الخلط** مع «Hubertus Czermak» أو «Dietrich Struchhold» (مدرِّب في فيينا).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم إذا كان هناك شخصية حقيقية.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم.
+- للتحقق:
+  - Existenzanalyse (العلاج الوجودي في السياق الأوروبي): https://www.existenzanalyse.org/
+  - IGD: https://www.daseinsanalyse.de/
+  - Boss, M. (1957). *Daseinsanalyse und Psychotherapie*. Psyche.
+  - Yalom, I. (1980). *Existential Psychotherapy*. Basic Books.

@@ -10,7 +10,6 @@ active_start: 1960
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"

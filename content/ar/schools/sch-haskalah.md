@@ -10,18 +10,18 @@ crumb: "الفلسفة ← اليهودية ← هَسْكَلاة (التنوي
 dates: "برلين، فيلنا، غاليسيا، النمسا · من القرن 18 م إلى القرن 19 م"
 country: "بروسيا (ألمانيا)، النمسا، غاليسيا، الإمبراطورية الروسية"
 language: "الألمانية (مزدوجي اللغة)، العبرية (للنصوص الأدبية)"
+cultural_origin: "european"
 active_start: 1740
 active_end: 1880
 edges:
 - rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
-- rel: "evolved_from", target: "الآبائية اليهودية الوسيطة", target_type: "مدرسة"
 related:
 - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
 - id: "sch-judaism-reform", title: "اليهودية الإصلاحية", type: "مدرسة"
 - id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"
 gaps:
   - "نصوص مندلسون وشولِم ألكسندر بالعبرية والألمانية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Über die bürgerliche Verbesserung der Juden' أو 'Jerusalem'."
+  - "اقتباسات 'Über die bürgerliche Verbesserung der Juden' و'Jerusalem' في هذا الملف تحتاج تحقيقاً في صياغتها الأصلية."
   - "العلاقة بين هَسْكَلاة برلين وفيلنا (المعاكسة) معقّدة تاريخياً ولم تُحلّ نهائياً."
 ---
 
@@ -99,3 +99,10 @@ gaps:
 3. **إسكات الحاخامات**: انتقدها سولوم رِينَخ (1823) لكونها «تنازل عن القانون».
 
 ردّ مندلسون وتلاميذه بأنّ الهَسْكَلاة «تحديث لا نسف» (Erneuerung، nicht Zerstörung).
+
+## المصادر
+
+- Shmuel Feiner, *The Jewish Enlightenment* (2004).
+- David Sorkin, *The Berlin Haskalah and German Religious Thought: Orphans of Knowledge* (2000).
+- Moses Mendelssohn, *Jerusalem, or on Religious Power and Judaism* (1783).
+- Michael A. Meyer, *Response to Modernity: A History of the Reform Movement in Judaism* (1988).

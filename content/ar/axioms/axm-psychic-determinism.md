@@ -15,9 +15,7 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "axm-the-unconscious", title: "بديهية اللاوعي", type: "بديهية/مبدأ تأسيسي"
-- id: "wrk-determined-sapolsky", title: "مُحدَّد (سابولسكي)", type: "عمل / كتاب"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
+- id: "wrk-determined-sapolsky", title: "مُحدَّد: علم الحياة بدون إرادة حرة", type: "عمل / كتاب"
 gaps:
   - "الفرق بين الحتمية النفسية الفرويدية والحتمية العصبية المُعاصرة (سابولسكي 2023) يحتاج تحليلاً معمارياً."
   - "التوافق بين الحتمية والمسؤولية الأخلاقية والقانونية لا يزال موضع جدل فلسفي."
@@ -56,3 +54,10 @@ gaps:
 - **فرويد بالغ** في تعميم الحتمية: كثير من السلوك فعلاً عشوائي أو غير مُسبَّب بماضٍ بعيد.
 - **علم النفس المعرفي** أظهر أن بعض السلوك نتاج **إجراءات معالجة معلومات** فورية، لا صراعات مكبوتة.
 - **مشكلة قابلية الدحض**: ادعاء أن كل سلوك له سبب نفسي يجعل النظرية **غير قابلة للتكذيب** (Falsifiability Problem, Popper).
+
+## المصادر
+
+- Freud, S. (1901). *The Psychopathology of Everyday Life*. (زلات اللسان والنسيان كأدلة على الحتمية النفسية.)
+- Freud, S. (1900). *The Interpretation of Dreams*.
+- Sapolsky, R. (2023). *Determined: A Science of Life Without Free Will*. Penguin Press.
+- Popper, K. (1963). *Conjectures and Refutations*. (نقد قابلية التكذيب الموجَّه للتحليل النفسي.)

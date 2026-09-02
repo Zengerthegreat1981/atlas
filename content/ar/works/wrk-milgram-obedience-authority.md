@@ -9,8 +9,12 @@ crumb: "علم النفس الاجتماعي ← الأعمال ← الطاعة
 dates: "1974 · ستانلي ميلغرام"
 language: "الإنجليزية"
 active_start: 1974
-active_end: 1974
+active_end: 2008
 part: "psychology"
+author: "ستانلي ميلغرام"
+author_slug: "thk-stanley-milgram"
+publication_year: 1974
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-stanley-milgram", target_type: "مفكر"

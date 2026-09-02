@@ -20,7 +20,6 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نشر Black Books (2020) — قد يستحق عنصر منفصل في الأطلس (عمل)."
 ---
 
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 الكتاب الأحمر (The Red Book, تحرير 2009) · Cult Fictions (1998) · Jung and the Making of Modern Psychology (2003) · The Black Books (تحرير 2020).
+
+## المصادر
+
+- Jung, C. G. *The Red Book: Liber Novus*. Edited by Sonu Shamdasani. New York: W. W. Norton, 2009.
+- Shamdasani, Sonu. *Cult Fictions: C. G. Jung and the Founding of Analytical Psychology*. London: Routledge, 1998.
+- University College London (UCL) — صفحة السيرة الأكاديمية الرسمية لسوني شمداساني، كرسي Philemon لتاريخ يونغ.

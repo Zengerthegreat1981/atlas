@@ -11,9 +11,11 @@ language: "الإنجليزية"
 active_start: 2013
 active_end: 2013
 part: "psychology"
+author: "ماثيو ليبرمان"
+publication_year: 2013
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "ماثيو ليبرمان", target_type: "مفكر"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"

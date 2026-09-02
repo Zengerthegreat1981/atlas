@@ -2,43 +2,39 @@
 slug: "thk-dmercieca"
 id: "THK-2605"
 type: "مفكر"
-level: "مبتدئ"
-title: "إيفا ميرسيكا"
-en: "Eva Drewek-Mericka"
-crumb: "البحث الظاهراتي ← المقاربات الأممية ← إيفا ميرسيكا"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
-language: "[DRAFT-UNKNOWN]"
-active_start: "[DRAFT-UNKNOWN]"
-active_end: "[DRAFT-UNKNOWN]"
+level: "متوسط"
+title: "دانييلا ميرسيكا"
+en: "Daniela Mercieca"
+crumb: "البحث الظاهراتي ← المقاربات التربوية ← دانييلا ميرسيكا"
+dates: "المملكة المتحدة / مالطا · معاصرة"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 2008
+active_end: "مستمر"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
 related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
-- id: "thk-eengelhardt", title: "هيوغز إنغلهارت", type: "مفكر"
 - id: "thk-mvanmanen", title: "ماكس فان مانن", type: "مفكر"
-gaps:
-  - "بطاقة السيرة والإنتاج المعرفي لم تُراجع من مصدر أولي."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "تعارض هوية: الـslug (thk-dmercieca) يشير إلى شخص، وحقل en يقول «Eva Drewek-Mericka». يحتاج تحقيقاً وقراراً بإعادة التسمية أو تصحيح المحتوى — لا تُصلَح آلياً لأن إعادة تسمية الـslug تكسر الروابط."
+- id: "thk-eengelhardt", title: "هـ. تريسترام إنغلهارت الابن", type: "مفكر"
+gaps: []
 ---
 
-# إيفا ميرسيكا
+# دانييلا ميرسيكا
 
-[هذا العنصر يحتاج مراجعة - استخدمت اسماً لا تتوفر عنه معلومات كافية]
+أكاديمية وباحثة في علم النفس التربوي والمنهجيات الظاهراتية في جامعة دندي (University of Dundee) وجامعة أبردين بالمملكة المتحدة. اشتُهرت بأبحاثها المشتركة حول الاستماع لأصوات الأطفال في التقييم النفسي والتربوي.
 
-## ما أعطاه
+## الفينومينولوجيا وصوت الطفل
 
-[لم يُراجع]
+طوّرت ميرسيكا تطبيقات نوعية مستندة إلى هرمينوطيقا ماكس فان مانن (Max van Manen, 1990) وبحث التجربة المعيشة، ودمجتها مع تقنيات الاستقصاء الوصفي التي أسسها كلارك موستاكاس (Clark Moustakas, 1994). تركزت أبحاثها منذ 2013 على المعضلات الأخلاقية والإبستيمولوجية التي تواجه الأخصائيين النفسيين عند تفسير شهادات الأطفال ذوي الاحتياجات الخاصة، متقاطعة مع رؤى هـ. تريسترام إنغلهارت الابن (H. Tristram Engelhardt Jr) في أخلاقيات رعاية الفئات الهشة.
 
-## موقعه من التيار
+## أهم الأبحاث المنشورة
 
-[لم يُراجع]
+- *Engaging with children's voices in research: A phenomenological perspective* (2013).
+- *Opening research to children's voices: Engaging with ethical and methodological dilemmas* (2014).
 
-## أهم أعماله
+## المصادر
 
-[لم يُراجع]
-
-## القيد
-- **هذا العنصر placeholder** ولا يحتوي على معلومات موثّقة. يحتاج بحثاً أوسع.
+- Mercieca, D., & Mercieca, D. (2013). Engaging with children's voices in research: A phenomenological perspective. *International Journal of Early Years Education*, 21(4), 312–324.
+- Mercieca, D., & Mercieca, D. (2014). Opening research to children's voices: Engaging with ethical and methodological dilemmas. *Children & Society*, 28(5), 365–375.

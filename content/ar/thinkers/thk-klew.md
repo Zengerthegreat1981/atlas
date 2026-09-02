@@ -13,7 +13,7 @@ active_start: 1920
 active_end: 1947
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الحقل الظاهراتي (Lewin)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
 - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"

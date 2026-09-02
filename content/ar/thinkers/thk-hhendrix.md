@@ -14,10 +14,10 @@ active_start: 1980
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
-- rel: "belongs_to", target: "النسقية والأسرية", target_type: "تيار"
-- rel: "co_founded_by", target: "هيلين لاكيلي هانت", target_type: "مفكر"
-- rel: "influenced_by", target: "التحليل النفسي (Psychoanalysis)", target_type: "مدرسة"
-- rel: "influenced_by", target: "نظرية التعلق (Attachment Theory)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "co_founded_by", target: "thk-hlkelly", target_type: "مفكر"
+- rel: "influenced_by", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "influenced_by", target: "br-attachment-theory", target_type: "تيار"
 related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

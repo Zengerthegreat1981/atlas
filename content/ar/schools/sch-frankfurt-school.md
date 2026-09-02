@@ -10,6 +10,7 @@ crumb: "الفلسفة ← القارية ← النظرية النقدية"
 dates: "ألمانيا، الولايات المتحدة · من 1923 إلى الوقت الحاضر"
 country: "ألمانيا، الولايات المتحدة"
 language: "الألمانية، الإنجليزية"
+cultural_origin: "european"
 active_start: 1923
 active_end: "مستمر"
 edges:
@@ -24,7 +25,6 @@ related:
 gaps:
   - "الجيل الثاني (Adorno، Horkheimer، Marcuse) والجيل الثالث (Habermas) — التمايز غير محصور في هذا الملف."
   - "العلاقة مع ماركس اللاحق (Lenin، Lukacs) تحتاج توسعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 # النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)
 
@@ -99,3 +99,11 @@ gaps:
 - **اتهام «**أوروباوية المركز**»**: في *Eurocentricism* (Aijaz Ahmad, 1992)، نقد التيار لـ**إهمال الإمبراطورية** في تحليلاتها.
 - **اتهام «**استحالة الممارسة**»**: إذا كان كل شيء «**مهيمن**»، فكيف يخرج التغيير؟ (نقد منظّري ما بعد الحداثة).
 - **اتهام «**البينوية المتأخرة**»**: هابرماس اتّهم بـ«**التوفيقية المُفرطة**» بين الحداثة وما بعدها.
+
+## المصادر
+
+- Horkheimer, Max & Adorno, Theodor W. *Dialectic of Enlightenment*. 1944 (English translation: Stanford University Press, 2002).
+- Marcuse, Herbert. *One-Dimensional Man*. Beacon Press, 1964.
+- Habermas, Jürgen. *The Theory of Communicative Action*. Beacon Press, 1984 (German original: *Theorie des kommunikativen Handelns*, 1981).
+- Fromm, Erich. *Escape from Freedom*. Farrar & Rinehart, 1941 (published in the UK as *The Fear of Freedom*).
+- Honneth, Axel. *The Struggle for Recognition*. Polity Press, 1995 (German original: *Kampf um Anerkennung*, 1992).

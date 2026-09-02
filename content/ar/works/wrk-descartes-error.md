@@ -8,6 +8,10 @@ en: "Descartes' Error: Emotion, Reason, and the Human Brain"
 crumb: "علم النفس المعرفي ← الأعمال ← خطأ ديكارت"
 dates: "1994 · أنطونيو داماسيو"
 language: "الإنجليزية"
+author: "أنطونيو داماسيو"
+author_slug: "thk-damasio"
+publication_year: 1994
+original_language: "الإنجليزية"
 active_start: 1994
 active_end: 1994
 part: "psychology"

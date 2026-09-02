@@ -14,8 +14,8 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علاج إيماغو العلائقي", target_type: "مدرسة"
-- rel: "developed", target: "العلاج بالـ Imago", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
+- rel: "developed", target: "sch-imago", target_type: "مدرسة"
 related:
 - id: "thk-mworden", title: "مارك ووردن", type: "مفكر"
 - id: "sch-imago", title: "علاج إيماغو العلائقي", type: "مدرسة"
@@ -109,7 +109,3 @@ gaps:
 - **«Imago Dialogue»** (أوراق عمل، التسعينيات من القرن العشرين-العقد الأول من القرن الحادي والعشرين).
 - **«Faith of a Woman»** (2003).
 - **«Giving the Love That Heals»** (2007) — مع هارفيل.
-
-## اقتباس مختار
-
-> «الزواج ليس مُنافسة على مَن يَحق. الزواج هو تَحويل الجُرح إلى صِحّة. الحوار ليس وَسيلة لإقناع الآخر. الحوار هو وَسيلة لِفَهم الآخر، ولِفَهم نَفسك من خِلال عَينه.»

@@ -5,13 +5,13 @@ type: "مفكر"
 level: "متوسط"
 title: "جاي بيرنبراونر"
 en: "Jay Birnbrauer"
-crumb: "السلوكية (Behaviorism) ← الناس ← جاي بيرنبراونر"
-dates: "أمريكا · [غير مؤكد]"
+crumb: "السلوكية وتحليل السلوك التطبيقي ← جاي بيرنبراونر"
+dates: "الولايات المتحدة / أستراليا · 1933–2015"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
-active_end: "مستمر"
+active_start: 1962
+active_end: 2005
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
@@ -19,13 +19,12 @@ related:
 - id: "thk-mwolf", title: "مونتروز م. وولف", type: "مفكر"
 - id: "thk-lovaas", title: "أو. إيفار لوفاس", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "بعض تفاصيل سيرته اللاحقة في أستراليا (Murdoch Early Intervention Program) بحاجة لتوثيق إضافي."
 ---
 
 # جاي بيرنبراونر
 
-عالم نفس أمريكي، من «مجموعة واشنطن» المؤسِّسة لـ ABA في الستينيّات، وأحد المتخصِّصين في «تعليم الأطفال المتأخِّرين».
+عالم نفس أمريكي (1933–2015)، من «مجموعة واشنطن» المؤسِّسة لـ ABA في الستينيّات، وأحد المتخصِّصين في «تعليم الأطفال المتأخِّرين».
 
 ## ما أعطاه
 
@@ -35,9 +34,12 @@ gaps:
 
 المتخصّص في تعليم ذوي الإعاقة الذهنية ضمن الجيل الأول لتحليل السلوك التطبيقي.
 
-## القيد
-سيرة شخصية محدودة في المصادر المتاحة.
-
 ## أهم أعماله
 
-مقالات في JABA (1968).
+- *Classroom Behavior of Retarded Pupils with Token Reinforcement* (1965).
+- أوراق تأسيسية في دورية *Journal of Applied Behavior Analysis* (1968–1980).
+
+## المصادر
+
+- Birnbrauer, J. S., Wolf, M. M., Kidder, J. D., & Tague, C. E. (1965). Classroom behavior of retarded pupils with token reinforcement. In L. P. Ullmann & L. Krasner (Eds.), *Case Studies in Behavior Modification* (pp. 358–363). Holt, Rinehart & Winston.
+- Birnbrauer, J. S., & Leach, D. J. (1993). The Murdoch Early Intervention Program after 2 years. *Behaviour Change*, 10(2), 63–74.

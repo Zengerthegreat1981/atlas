@@ -10,14 +10,12 @@ crumb: "علم النفس الاجتماعي المعرفي ← البديهيا
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم النفس الاجتماعي المعرفي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-social-psychology", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-abandura", target_type: "مفكر"
 related:
 - id: "axm-reciprocal-determinism", title: "الحتمية المتبادلة", type: "بديهية/مبدأ تأسيسي"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "stu-bandura-bobo-doll", title: "تجربة دمى بوبو لباندورا", type: "دراسة وبحث"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
+- id: "stu-bandura-bobo-doll", title: "تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ", type: "دراسة وبحث"
 gaps:
   - "الفرق بين التعلم بالملاحظة عند باندورا والتقليد عند أطفال ما قبل اللغة (Meltzoff 1977) لم يُمثَّل بدقة."
   - "التأثيرات العصبية لمرايا الخلايا العصبية (Rizzolatti 1990s) على النظرية لم تُربط."
@@ -69,3 +67,9 @@ gaps:
 - **صعوبة الفصل** بين تأثير الملاحظة وتأثير التعزيز.
 - **الاختلافات الفردية**: ليس كل المتعلمين يستفيدون من الملاحظة بالتساوي.
 - **الإشكالية الأخلاقية**: استخدام الملاحظة في الدعاية والإعلام.
+
+## المصادر
+
+- Bandura, A. (1977). *Social Learning Theory*. Prentice-Hall.
+- Bandura, A., Ross, D., & Ross, S. A. (1961). "Transmission of aggression through imitation of aggressive models." *Journal of Abnormal and Social Psychology*, 63(3), 575–582.
+- Bandura, A. (1965). "Influence of models' reinforcement contingencies on the acquisition of imitative responses." *Journal of Personality and Social Psychology*, 1(6), 589–595.

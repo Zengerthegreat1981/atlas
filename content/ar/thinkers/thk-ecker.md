@@ -16,18 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "tec-coherence-therapy", title: "علاج التماسك وإعادة توحيد الذاكرة", type: "تقنية/تدخل علاجي"
-- id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"
-- id: "thk-dzurilla", title: "توماس ج. دزوريلا", type: "مفكر"
-- id: "thk-freeman", title: "دانيال فريمان", type: "مفكر"
-- id: "thk-mccullough", title: "جيمس ب. ماكولوغ الابن", type: "مفكر"
-- id: "thk-meichenbaum", title: "دونالد ميشينباوم", type: "مفكر"
-- id: "thk-morin", title: "تشارلز م. مورين", type: "مفكر"
-- id: "thk-mtsai", title: "مافيس تساي", type: "مفكر"
-- id: "thk-rothbaum", title: "باربارا أولسبي روثباوم", type: "مفكر"
-- id: "thk-ryle", title: "أنتوني رايل", type: "مفكر"
-- id: "thk-schauer", title: "ماغي شاور", type: "مفكر"
-- id: "thk-wells-adrian", title: "أدريان ويلز", type: "مفكر"
-- id: "thk-resick", title: "باتريشيا أ. ريسك", type: "مفكر"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل عمله المبكر في التحليل النفسي للعلاقات (TAP) مع ستيوارت وأنا روبرت ليفنسون تستحق توثيقاً."
@@ -36,7 +24,7 @@ gaps:
 
 # بروس إيكر
 
-المعالج النفسي والمعالج النفسي التحليلي (Psychoanalyst) الأمريكي، المطور المشارك (مع لوريل هولي وريبيكو سليغلوف) لـ «علاج التماسك» (Coherence Therapy) المعروف أيضاً بـ«علاج إعادة توحيد الذاكرة»، وعضو هيئة تدريس في مركز IPTAR في نيويورك.
+المعالج النفسي والمعالج النفسي التحليلي (Psychoanalyst) الأمريكي، المطور المشارك (مع لوريل هولي) لـ «علاج التماسك» (Coherence Therapy) المعروف أيضاً بـ«علاج إعادة توحيد الذاكرة»، وعضو هيئة تدريس في مركز IPTAR في نيويورك.
 
 ## ما أعطاه
 

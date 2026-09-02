@@ -6,38 +6,43 @@ level: "متوسط"
 title: "باتريشيا بيري"
 en: "Patricia Berry"
 crumb: "مدرسة التحليل النفسي ← الناس ← باتريشيا بيري"
-dates: "أمريكا · 1939–2015"
+dates: "أمريكا · القرن العشرون–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
-active_start: null
-active_end: 2015
+active_start: 1975
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-- id: "con-ecstatic-moment", title: "اللحظة النشواتية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "تفاصيل تدريبها في الأرشيف — موضع بحث."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لباتريشيا بيري."
+  - "سنة الميلاد الدقيقة لم تُعثر عليها في مصادر أولية متاحة."
 ---
 
 # باتريشيا بيري
 
-محلّلة يونغية أمريكية، من الجيل المؤسِّس لـ «Jungian Psychoanalytic Association» (JPA)، وأستاذة في «Inter-Regional Society of Jungian Analysts».
+محلّلة يونغية أمريكية، تخرّجت من معهد يونغ في زيورخ عام 1975، وحصلت على الماجستير من St. John's College والدكتوراه في علم النفس من جامعة دالاس. من مؤسِّسي «علم النفس الأركيتيبي» (Archetypal Psychology) إلى جانب جيمس هيلمان، وشغلت رئاسة «New England Society of Jungian Analysts» و«Inter-Regional Society of Jungian Analysts»، وكانت أول Scholar in Residence في معهد باسيفيكا (Pacifica Graduate Institute) عام 1992.
 
 ## ما أعطته
 
-في «Echo's Subtle Body» (1982، مع Curtis Smith) قدّمت أوّل قراءة تحليلية مُعمَّقة لـ«إيكو ونارسيزوس» (Echo and Narcissus myth) كـ«قصة» لإسقاط الحبّ على الذات. كذلك أعادت قراءة مفهوم «العلاقة المنقوصة» (the unlived life) عند هيلمان في «الجسد اللامرئي» (The Invisible Body, 1980). اشتهرت بمحاضرتها «اللحظة النشواتية» (The Ecstatic Moment) — اللحظة التي تختفي فيها الحدود بين الذات والآخر، وتتحقق فيها «تجربة التفريد الحقيقي». ظهرت كمتحدثة في مؤتمرات IAAP Buenos Aires 2022.
+في «Echo's Subtle Body: A Contribution to Archetypal Psychology» (1982) قدّمت قراءة تحليلية أركيتيبية لأسطورة «إيكو ونارسيسوس» بوصفها نموذجاً لإسقاط الحب على الذات. عملت لعقود مدرّسةً ومحاضِرة في معهد باسيفيكا وجامعة Meridian وCalifornia Institute of Integral Studies، وعضواً في اللجنة التنفيذية للرابطة الدولية لعلم النفس التحليلي (IAAP).
 
 ## موقعها من التيار
 
-«صوت نسوي» في تيار علم نفس الأركيتيب، تنبيه من الأركيتيب الذكوري التقليدي.
+من الجيل المؤسِّس لعلم النفس الأركيتيبي مع جيمس هيلمان، ومن أبرز مَن طوّر قراءات نسوية للأساطير الإغريقية داخل هذا التيار.
 
 ## القيد
-موقعها الأدبي «أكثر من الأكلينيكي»، فلم تصل إلى جمهور واسع كـC. Downing أو J. Bolen.
+موقعها الأدبي المرتبط بالتحليل الأسطوري أقرب إلى الأكاديميا والتدريب التحليلي منه إلى الممارسة الإكلينيكية الواسعة الجمهور.
 
 ## أهم أعمالها
 
-Echo's Subtle Body (1982، مع Curtis Smith) · «اللحظة النشواتية» (محاضرة، 2002).
+Echo's Subtle Body: A Contribution to Archetypal Psychology (1982).
+
+## المصادر
+
+- Jung Platform (jungplatform.com)، السيرة الرسمية لباتريشيا بيري.
+- Pacifica Graduate Institute، صفحة أعضاء هيئة التدريس — باتريشيا بيري.
+- Spring Publications (springpublications.com/berry.html)، سيرة ومؤلفات باتريشيا بيري.

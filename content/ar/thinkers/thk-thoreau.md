@@ -46,3 +46,9 @@ gaps:
 ## اقتباسات مختارة
 
 «ذهبت إلى الغابة لأنني أردت أن أعيش بوعي وعمق، وأستخلص نخاع الحياة كله.» — فالدن، 1854
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Henry David Thoreau."
+- Thoreau, H. D. *Walden; or, Life in the Woods*. Ticknor and Fields, 1854.
+- Thoreau, H. D. "Resistance to Civil Government" (Civil Disobedience). 1849.

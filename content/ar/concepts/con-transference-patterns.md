@@ -18,7 +18,7 @@ related:
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-- id: "con-transference", title: "التحويل في العلاقة العلاجية", type: "مفهوم"
+- id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 - id: "con-free-association", title: "التداعي الحرّ", type: "مفهوم"
 - id: "con-analytic-neutrality", title: "الحياد التحليلي", type: "مفهوم"
 gaps:
@@ -82,3 +82,9 @@ gaps:
 ## الإرث
 
 أصبح التحويل مفهوماً معيارياً يمتدّ إلى **CBT عبر تاريخي** (Transference-Focused Psychotherapy, Kernberg)، وإلى **علاج الأنماط العلائقية** (Schema Therapy) لـ **جيفري يونغ** (Jeffrey Young)، ولا يزال مرجعاً في مناقشة **العلاقة العلاجية** في جميع المدارس.
+
+## المصادر
+
+- Freud, S. (1912). *Zur Dynamik der Übertragung* (The Dynamics of Transference).
+- Kohut, H. (1971). *The Analysis of the Self*. International Universities Press.
+- Mitchell, S. A. (1988). *Relational Concepts in Psychoanalysis: An Integration*. Harvard University Press.

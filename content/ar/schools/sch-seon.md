@@ -12,6 +12,7 @@ country: "كوريا (Silla، Goryeo، Joseon، Korea الحديثة)"
 language: "الكورية"
 active_start: 660
 active_end: "مستمر"
+cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-chan", target_type: "مدرسة"
 related:
@@ -76,3 +77,9 @@ gaps:
 - **Ganhwa vs Kanhwa**: ممارسات Seon اليوم تمزج بين الاثنين.
 - **التوتر مع البوذية الاجتماعية**: Manhae (한용운) «حركة الاستقلال»، ثم Jogye-Order، والسياسة الكورية.
 - **حقبة المعبد المظلم**: Banya Jinin قتل في 1009، إضعاف لفترة.
+
+## المصادر
+
+- Robert E. Buswell Jr., *The Zen Monastic Experience: Buddhist Practice in Contemporary Korea* (Princeton University Press, 1992).
+- Robert E. Buswell Jr., *Tracing Back the Radiance: Chinul's Korean Way of Zen* (University of Hawaii Press, 1991).
+- Sung Bae Park, *Buddhist Faith and Sudden Enlightenment* (State University of New York Press, 1983).

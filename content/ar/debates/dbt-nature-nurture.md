@@ -9,17 +9,15 @@ en: "Nature vs. Nurture: Who Shapes Behavior?"
 crumb: "علم النفس ← جَدالات أساسية ← جِدَل الطَّبِيعَة وَالتَّرْبِيَة"
 active_start: 1869
 active_end: "مستمر"
-edges:
-- rel: "relates_to", target: "sch-behavioral-genetics", target_type: "مدرسة"
 related:
-- id: "thk-fskinner", title: "ب.ف. سكينر", type: "مفكر"
-- id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
-- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: فرانسيس جالتون (thk-galton)"
+  - "رابط مقترح لم يتحقق بعد في الأطلس: فرانسيس جالتون (thk-galton، صاحب مصطلح nature vs. nurture نفسه، 1869)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: علم الوراثة (con-genetics)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلم (con-learning)"
-  - "لم تُراجع من نسخة أصلية مباشرة بعد (Moore, 2002). لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة لعلم الوراثة السلوكية (Behavioral Genetics) في الأطلس رغم مركزيته لهذا الجدل — لذلك حُذف رابط edges الذي كان يشاور على sch-behavioral-genetics غير الموجود"
+  - "توماس بوشار (Bouchard) وأفشالوم كاسبي (Caspi) وتيري موفيت (Moffitt) ومايكل ميني (Meaney) ومايكل سيزيف (Szyf) مذكورون بالاسم في المتن، لكن لا ملفات مفكرين لهم في الأطلس — طُلبوا في requests-minimax.md"
+  - "هذا الملف عام/تمهيدي داخل عنقود جدل الطبيعة والتربية (6 ملفات)؛ زاويته الاستعراض التاريخي العام لموقفي الطبيعة والتربية وموقف التفاعل، بينما dbt-nature-nurture-gene-environment-interaction يتعمق تحديداً في آلية GxE الجينية-البيئية وdbt-nature-nurture-cognitive-modules-vs-domain-general يتعمق في نقاش الوحدات المعرفية الفطرية — تداخل موضوعي متوقع بدون دمج الملفات"
   - "الفرق بين الطبيعة/التربية و الوراثة/البيئة في الأدبيات الحديثة يحتاج فصلاً مستقلاً."
   - "الفرق بين Nature/Nurture و Innate/Learned (ليس دائماً مترادفين) يحتاج فصلاً."
 ---
@@ -42,7 +40,7 @@ gaps:
 
 ### مَوْقِف «التَّفَاعُل» (Gene-Environment Interaction)
 
-مَوْقِف وَسَط (Caspi & Moffitt، 2002): «**جِينَات**» وَ«**بِيئَة**» «**لَا**» (Don't) تَعْمَل بِـ**«**اِسْتِقْلَال**» (Independence) — بَل «**تَتَفَاعَل**» (Interact). مَثَلاً: «**جِين**» (Gene) «**5-HTTLPR**» (Serotonin Transporter) «**لَا**» (Doesn't) «**يَزِيد**» (Increase) «**اِكْتِئَاب**» (Depression) «**مُبَاشَرَة**» (Directly) — بَل «**فَقَط**» (Only) عِنْدَمَا «**يُصَادِف**» (Meets) «**صَدْمَة**» (Trauma). «**اِسْتِعْرَاض**» (Resilience) «**لَا**» (Not) «**جِينِيّ**» (Genetic) بَل «**سُلُوكِيّ**» (Behavioral).
+مَوْقِف وَسَط (Caspi، Sugden، Moffitt وَآخَرُون، 2003): «**جِينَات**» وَ«**بِيئَة**» «**لَا**» (Don't) تَعْمَل بِـ**«**اِسْتِقْلَال**» (Independence) — بَل «**تَتَفَاعَل**» (Interact). مَثَلاً: «**جِين**» (Gene) «**5-HTTLPR**» (Serotonin Transporter) «**لَا**» (Doesn't) «**يَزِيد**» (Increase) «**اِكْتِئَاب**» (Depression) «**مُبَاشَرَة**» (Directly) — بَل «**فَقَط**» (Only) عِنْدَمَا «**يُصَادِف**» (Meets) «**صَدْمَة**» (Trauma). «**اِسْتِعْرَاض**» (Resilience) «**لَا**» (Not) «**جِينِيّ**» (Genetic) بَل «**سُلُوكِيّ**» (Behavioral).
 
 ## الْحُجَج الْأَخِيرَة
 
@@ -50,7 +48,7 @@ gaps:
 
 ## الْمَوَاقِف الْحَدِيثَة
 
-(1) **عِلْم الْوِرَاثَة السُّلُوكِيّ** (Behavioral Genetics، Plomin): دِرَاسَات حَدِيثَة تُؤَكِّد أَنَّ «**جِينَات**» (Genes) «**تُسَاهِم**» (Contribute) «**50-80%**» في «**مَقَايِيس**» (Measurements) لِـ**ذَكَاء، شَخْصِيّة، 50% لِـ**اِضْطِرَابات نَفْسِيّة**. (2) **Epigenetics** (Meaney & Szyf، 2004): «**الْبِيئَة**» (Environment) «**تُسَاعِد**» (Helps) فِي «**تَشْغِيل / تَعْطِيل**» (Switch On/Off) «**الْجِينَات**» (Genes) «**بِدُون**» (Without) تَغْيِير «**تَسْلْسُل**» (Sequence) «**الْحَمْض النَّوَوِيّ**» (DNA). (3) **Epigenetic inheritance**: «**تَجَارِب**» (Experiences) «**مَوْرُوثَة**» (Inherited) «**بَيُولُوجِيًّا**» (Biologically) «**عَبْر**» (Through) أَجْيَال — «**تَرْبِيَة**» «**تُؤَثِّر**» فِي «**جِينَات**» «**الْأَبْنَاء**» (Offspring). (4) **Plasticity**: «**دِمَاغ**» (Brain) «**لَا**» (Doesn't) يَتَحَدَّد «**بِالنِّهَايَة**» (Finally) في «**طُفُولَة**» (Childhood) — «**نَشَاط**» (Activity) «**مُسْتَمِرّ**» (Continues) «**طَوَال**» (Throughout) الْحَيَاة.
+(1) **عِلْم الْوِرَاثَة السُّلُوكِيّ** (Behavioral Genetics، Plomin): دِرَاسَات حَدِيثَة تُؤَكِّد أَنَّ «**جِينَات**» (Genes) «**تُسَاهِم**» (Contribute) «**50-80%**» في «**مَقَايِيس**» (Measurements) لِـ**ذَكَاء، شَخْصِيّة، 50% لِـ**اِضْطِرَابات نَفْسِيّة**. (2) **Epigenetics** (Meaney & Szyf، 2005): «**الْبِيئَة**» (Environment) «**تُسَاعِد**» (Helps) فِي «**تَشْغِيل / تَعْطِيل**» (Switch On/Off) «**الْجِينَات**» (Genes) «**بِدُون**» (Without) تَغْيِير «**تَسْلْسُل**» (Sequence) «**الْحَمْض النَّوَوِيّ**» (DNA). (3) **Epigenetic inheritance**: «**تَجَارِب**» (Experiences) «**مَوْرُوثَة**» (Inherited) «**بَيُولُوجِيًّا**» (Biologically) «**عَبْر**» (Through) أَجْيَال — «**تَرْبِيَة**» «**تُؤَثِّر**» فِي «**جِينَات**» «**الْأَبْنَاء**» (Offspring). (4) **Plasticity**: «**دِمَاغ**» (Brain) «**لَا**» (Doesn't) يَتَحَدَّد «**بِالنِّهَايَة**» (Finally) في «**طُفُولَة**» (Childhood) — «**نَشَاط**» (Activity) «**مُسْتَمِرّ**» (Continues) «**طَوَال**» (Throughout) الْحَيَاة.
 
 ## نَقْد الْجَدَل
 
@@ -59,3 +57,9 @@ gaps:
 ## الأَهمِّيَّة السَّرِيرِيّة
 
 (1) **لِاِخْتِيَار عِلَاج**: إِذَا «**اِضْطِرَاب**» (Disorder) «**جِينِيّ**» (Genetic)، «**دَوَاء**» (Medication) قَد يَكُون «**أَفْضَل**» (Better) مِن عِلَاج نَفْسِيّ. إِذَا «**بِيئِيّ**» (Environmental)، «**تَغْيِير بِيئَة**» (Environmental Change) قَد يَكُون «**أَفْضَل**». (2) **لِتَقْدِير «**اِسْتِعْرَاض**» (Resilience)**: «**اِسْتِعْرَاض**» (Resilience) «**لَا**» (Not) «**جِينِيّ**» (Genetic) — بَل «**مَهَارَة**» (Skill) «**قَابِلَة لِلتَّعْلِيم**» (Teachable). (3) **لِتَوْقُّع «**نِسْبَة**» (Proportion)**: «**نِسْبَة**» (Proportion) «**جِينَات / بِيئَة**» (Genes / Environment) «**تُسَاعِد**» (Helps) فِي «**تَوَقُّع**» (Predict) «**اِسْتِجَابَة**» (Response) لِـ**«**عِلَاج**».
+
+## المصادر
+
+- Bouchard, T. J. Jr., Lykken, D. T., McGue, M., Segal, N. L., & Tellegen, A. (1990). "Sources of Human Psychological Differences: The Minnesota Study of Twins Reared Apart." *Science*, 250(4978), 223–228.
+- Caspi, A., Sugden, K., Moffitt, T. E., et al. (2003). "Influence of Life Stress on Depression: Moderation by a Polymorphism in the 5-HTTLPR Gene." *Science*, 301(5631), 386–389.
+- Meaney, M. J., & Szyf, M. (2005). "Environmental Programming of Stress Responses through DNA Methylation: Life at the Interface between a Dynamic Environment and a Fixed Genome." *Dialogues in Clinical Neuroscience*, 7(2), 103–123.

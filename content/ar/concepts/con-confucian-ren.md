@@ -13,8 +13,10 @@ language: "الصينية الكلاسيكية (الأصل)"
 edges:
 - rel: "belongs_to", target: "sch-confucian-psychology", target_type: "مدرسة"
 related:
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
 - id: "con-confucian-self", title: "الذات الكونفوشيوسية", type: "مفهوم"
-- id: "con-li", title: "اللي — اللياقة والطقوس والآداب الاجتماعية (Li)", type: "مفهوم"
+- id: "con-li", title: "اللي (禮) — الطقس والأدب", type: "مفهوم"
 - id: "con-liangzhi", title: "الحدس الأخلاقي (良知 liángzhī)", type: "مفهوم"
 - id: "con-shame-asian", title: "الخزي/الخجل في الثقافات الآسيوية", type: "مفهوم"
 - id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
@@ -22,7 +24,6 @@ related:
 gaps:
   - "الترجمات العربية لمصطلح 仁 (ren) متعدّدة (إنسانية، رحمانية، إنسانية رحيمة، لياقة)، ولا اتفاق معجمي موحَّد."
   - "التمييز بين رن كملكة فطرية (منسيوس) ورن كملكة مكتسبة (كونفوشيوس) لا يزال موضع جدل في الفلسفة الصينية المقارنة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الإنسانية (Ren 仁, Confucianism)

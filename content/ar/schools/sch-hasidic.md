@@ -10,6 +10,7 @@ crumb: "الفلسفة ← اليهودية ← الحسيدية الفلسفي�
 dates: "أوكرانيا، بولندا، المجر · من القرن 18 م إلى اليوم"
 country: "أوكرانيا، بولندا، روسيا، المجر، الولايات المتحدة، إسرائيل"
 language: "اليديشية، العبرية"
+cultural_origin: "european"
 active_start: 1730
 active_end: "مستمر"
 edges:
@@ -24,7 +25,7 @@ related:
 - id: "con-emunah", title: "الإيمان (إيمونا) كحالة وجودية", type: "مفهوم"
 gaps:
   - "نصوص يعقوب يوسف من بُلنويه وبرزالاف بالعبرية واليديشية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Tanya' أو 'Toldos Yaakov Yosef' في صياغة أصلية."
+  - "اقتباسات 'Tanya' و'Toldos Yaakov Yosef' في هذا الملف تحتاج تحقيقاً في صياغتها الأصلية."
   - "العلاقة بين المناهضة (Mitnagdim) والحسيدية كانت أكثر من مجرّد خلاف لاهوتي — أبعاد اجتماعية واقتصادية."
 ---
 
@@ -102,3 +103,11 @@ gaps:
 ## المأزق الفلسفي
 
 انتقد بعض الفلاسفة المعاصرين (يهوذا ليب بلومنبرغ) مفهوم «الكلّية الإلهية» (Divine Omnipresence) الحسيدي لأنه يقرب من «بان-إنئيزم» (Panentheism) الذي يذوّب الاستقلالية الإنسانية. لكنّ المريدين ردّوا بأنّ الحسيدية تؤكّد حرية الإنسان، لأنّ «التيقون» عمل إنساني.
+
+## المصادر
+
+- Gershom Scholem, *Major Trends in Jewish Mysticism* (1941).
+- Martin Buber, *Tales of the Hasidim* (1947).
+- Moshe Idel, *Hasidism: Between Ecstasy and Magic* (1995).
+- Arthur Green, *Tormented Master: A Life of Rabbi Nahman of Bratslav* (1979).
+- Rachel Elior, *The Mystical Origins of Hasidism* (2006).

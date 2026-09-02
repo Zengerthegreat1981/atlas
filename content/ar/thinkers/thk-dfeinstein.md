@@ -12,8 +12,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← ديفيد فاينشتاين"
-edges:
-- rel: "belongs_to", target: "Thought Field Therapy (TFT)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
 - id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"

@@ -10,13 +10,12 @@ crumb: "الفلسفة ← القرن 19 ← الكانطية الجديدة"
 dates: "ألمانيا · من 1860 تقريباً إلى 1930"
 country: "ألمانيا"
 language: "الألمانية"
+cultural_origin: "european"
 active_start: 1860
 active_end: 1930
 edges:
 - rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
-- rel: "split_into", target: "مدرسة ماربورغ", target_type: "تيار"
-- rel: "split_into", target: "مدرسة بادن (فرايبورغ، سودويست)", target_type: "تيار"
 related:
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
@@ -27,7 +26,6 @@ gaps:
   - "رابط مقترح لـ«فيلهلم فندلباند» (thk-windelband) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هاينريش ريكيرت» (thk-rickert) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النقاشات الداخلية بين ماربورغ وبادن في مسألة 'القيم' لم تُراجع بعد من المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الكانطية الجديدة (ماربورغ وبادن)
@@ -57,3 +55,9 @@ gaps:
 
 - رغم وضوح الانتماء، تختلف ماربورغ وبادن اختلافات عميقة حول مكانة القيم وحدود العلم الطبيعي.
 - «الكانطية الجديدة» مصطلح وصفي أكثر منه مذهب موحد، ويصعب إيجاد نص مؤسِّس واحد.
+
+## المصادر
+
+- Frederick Beiser، *The Genesis of Neo-Kantianism, 1796-1880*، Oxford University Press، 2014.
+- Klaus Christian Köhnke، *The Rise of Neo-Kantianism*، Cambridge University Press، 1991.
+- Stanford Encyclopedia of Philosophy، مدخل "Neo-Kantianism".

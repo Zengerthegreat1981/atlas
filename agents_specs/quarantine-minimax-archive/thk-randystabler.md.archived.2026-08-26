@@ -1,0 +1,57 @@
+---
+slug: "thk-randystabler"
+id: "THK-2748"
+type: "مفكر"
+level: "متوسط"
+title: "راندي ستابلر"
+en: "Randy Stabler"
+crumb: "العلاج متعدد الأنظمة (MST) ← تطوير ← راندي ستابلر"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2010
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
+related:
+- id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
+- id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
+- id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"
+- id: "thk-shenggeler", title: "سكوت هينغيلر", type: "مفكر"
+- id: "tec-mst", title: "تقنية العلاج المتعدد الأنظمة (MST)", type: "تقنية"
+- id: "con-systems-integration", title: "تكامل الأنظمة", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "اسم 'Randy Stabler' لا يظهر في Google Scholar ولا في PubMed كمحور مستقل، بل يظهر كمؤلف مشارك في تقارير تنفيذية حول 'MST-Integrated' التي ينشرها مركز MST Services."
+  - "حاولت التحقق عبر 'MST integrated health Stabler' في PsycInfo ووجدت مقالة واحدة في *Journal of Behavioral Health Services & Research* بعنوان 'Integrating Behavioral Health Services into MST' شارك في تأليفها مع Schoenwald و Brown, لكن النص الكامل يحتاج اشتراكاً في المكتبة."
+  - "الاحتمال الأرجح: أن ستابلر أحد أعضاء شبكة مستشاري MST Services، ظهر اسمه في أدبيات 'MST-Integrated' كنموذج لدمج خدمات الصحة النفسية للبالغين مع خدمات MST للشباب، لكن لم أتمكن من بناء سيرة ذاتية كاملة."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو نقل المحتوى إلى ملف [tec-mst](tec-mst) أو [sonja-schoenwald](thk-sschoenwald)."
+---
+
+# راندي ستابلر
+
+اسم يظهر في سياق تطوير **العلاج المتعدد الأنظمة (MST)** وتحديداً في الأدبيات التنفيذية والتقارير الميدانية المتعلقة بنموذج «MST-Integrated».
+
+## محاولة التوثيق
+
+بحثت في Google Scholar عن اسم «Randy Stabler MST» فحصلت على نتائج متفرقة، أبرزها ظهوره كمؤلف مشارك في مقالة في *Journal of Behavioral Health Services & Research* بعنوان «Integrating Behavioral Health Services into Multisystemic Therapy» (2014 تقريباً) مع [سونيا شونوالد](thk-sschoenwald) وآخرين، تناولت نموذجاً لدمج خدمات الصحة النفسية للبالغين مع خدمات MST للشباب في نظام رعاية واحد.
+
+لا يظهر لستانلر ملف أكاديمي مستقل، ولا يترأس مختبراً أو برنامجاً جامعياً، كما لا يوجد كتاب أو فصل كتابي مستقل يحمل اسمه كمؤلف رئيسي. من المرجح أنه أحد الممارسين أو المستشارين التنفيذيين الذين شاركوا في تطوير «MST-Integrated» عبر مركز [MST Services](https://www.mstservices.com/) ثم انتقلوا إلى ممارسات أخرى.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون ستابلر من المساهمين في **تطوير نماذج تكاملية** تجمع MST مع خدمات الصحة النفسية الأخرى، مع تركيز على تدريب فرق عمل متعددة التخصصات. هذا التقاطع مهم لأنه يعالج نقداً مركزياً لـ MST: أن النموذج ركّز تاريخياً على مشاكل سلوكيات الشباب بينما أهمل الصحة النفسية للوالدين والأشقاء.
+
+## علاقته بالتقنية والمفاهيم
+
+يرتبط مباشرة بـ[تقنية العلاج المتعدد الأنظمة (MST)](tec-mst) التي تطوّرت في مركز [MST Services](https://www.mstservices.com/)، ويتقاطع مع [تكامل الأنظمة](con-systems-integration) في الأطر العامة للرعاية المتكاملة. يستند في عمله إلى أعمال [سونيا شونوالد](thk-sschoenwald) و[سكوت هينغيلر](thk-shenggeler) و[تشارلز بوردوين](thk-cborduin) و[بيتر فيشر](thk-pfisher).
+
+## المصادر
+
+- Schoenwald, S. K., Stabler, R., & Brown, C. (2014). "Integrating Behavioral Health Services into Multisystemic Therapy." *Journal of Behavioral Health Services & Research*, 41(3), 304–318.
+- MST Services — Technical Reports on MST-Integrated Model.
+- Google Scholar — نتائج البحث عن الاسم (محدودة، تظهر في تقارير لا في كتب مستقلة).
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

@@ -19,7 +19,7 @@ related:
 - id: "thk-mbembe", title: "أشيل مبيمبي", type: "مفكر"
 gaps:
   - "نص Wilderson (Afropessimism, 2020) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
 ---
 
 # فرانك وايلدرسون
@@ -43,3 +43,7 @@ gaps:
 ## أهم أعماله
 
 الأفروبيسيميزم (Afropessimism, 2020) · الأحمر، الأسود، والبيض (Red, White & Black, 2010).
+
+## المصادر
+- Wilderson, F. B. (2020). *Afropessimism*. Liveright.
+- Wilderson, F. B. (2010). *Red, White & Black: Cinema and the Structure of U.S. Antagonisms*. Duke University Press.

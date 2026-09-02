@@ -15,16 +15,15 @@ active_end: 1962
 edges:
 - rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
 related:
-- id: "thk-nishida", title: "كيتيكارو نيشيدا", type: "مفكر"
-- id: "thk-nishitani", title: "كيتسوجي نيشيتاني", type: "مفكر"
+- id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
+- id: "thk-nishitani", title: "كيجي نيشيتاني", type: "مفكر"
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
-- id: "sch-hegelianism", title: "الهغيلية", type: "مدرسة"
-- id: "sch-marxism", title: "الماركسية", type: "مدرسة"
-- id: "con-absolute-nothingness-zettai-mu", title: "اللاشيء المطلق (زيتَّاي-مو)", type: "مفهوم"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "con-absolute-nothingness-zettai-mu", title: "العدم المطلق الإيجابي في مدرسة كيوتو (Zettai Mu)", type: "مفهوم"
 gaps:
   - "كتاباته اللاحقة (1945-1962) عن \"فلسفة الميتاتيك\" (Metanoetics) لم تُترجم كاملة إلى الألمانية."
   - "علاقته الشخصية المتوترة مع نيشيدا تحتاج إعادة قراءة من رسائله الخاصة."
-  - "لا اقتباس مباشر موثّق في هذا الملف."
 ---
 
 # تَنَابه هاجيمي
@@ -50,9 +49,11 @@ gaps:
 - *Shi no Tetsugaku* (فلسفة الموت، 1932–1933).
 - *Zettai Benshōhō* (المنهج الديالكتيكي المطلق، 1934).
 - *Sūrya Siddhānta* (تأثير الهند، دراسات، 1943).
-- *Metanoetik* (Metanoetics, 1946، ألمانية 1966).
+- *Metanoetik* (Metanoetics, 1946، ترجمة ألمانية بعد وفاته 1966).
 - *Hōyū no Tetsugaku* (فلسفة المتعة، طُبعت بعد وفاته 1980).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثّق في هذا الملف.
+- Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.). *Japanese Philosophy: A Sourcebook*. University of Hawai'i Press, 2011.
+- Heisig, James W. *Philosophers of Nothingness: An Essay on the Kyoto School*. University of Hawai'i Press, 2001.
+- Tanabe, Hajime. *Philosophy as Metanoetics*, trans. Takeuchi Yoshinori et al. University of California Press, 1986.

@@ -13,11 +13,12 @@ language: "اليابانية"
 active_start: 1760
 active_end: 1801
 edges:
-- rel: "belongs_to", target: "الفلسفة اليابانية (التقليدية والحديثة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kokugaku", target_type: "مدرسة"
 related:
+- id: "sch-kokugaku", title: "كوكوغاكو (الدراسات الوطنية اليابانية)", type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "ترجمات كاملة موثوقة لـKojiki-den وIsonokami sasamegoto للعربية غير متوفرة؛ المتاح دراسات ثانوية بالإنجليزية بالأساس."
+  - "تفاصيل استعمال خلفائه (وبخاصة هيراتا أتسوتانه) لمفهوم «القلب الياباني الأصيل» في خطاب القومية لاحقاً تحتاج مصدراً تاريخياً متخصصاً لتوثيقها بدقة."
 ---
 
 # موتوري نوريناغا
@@ -43,6 +44,8 @@ gaps:
 - *Isonokami sasamegoto* (همسات، في نظرية الشعر).
 - *Tamakatsuma* (سلّة الجواهر) — مقالاته المتفرّقة.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Motoori, N. (تر. Marra, M., 2007). *The Poetics of Motoori Norinaga: A Hermeneutical Journey*. University of Hawaii Press.
+- Nosco, P. (1990). *Remembering Paradise: Nativism and Nostalgia in Eighteenth-Century Japan*. Harvard University Press.
+- Flueckiger, P. "Motoori Norinaga". *Stanford Encyclopedia of Philosophy*.

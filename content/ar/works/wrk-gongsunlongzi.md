@@ -12,11 +12,15 @@ language: "الصينية الكلاسيكية"
 active_start: -284
 active_end: -259
 active_source: "lifespan"
+author: "غونغسون لونغ"
+author_slug: "thk-gongsun-long"
+publication_year: -284
+original_language: "الصينية الكلاسيكية"
 edges:
 - rel: "belongs_to", target: "sch-mingjia", target_type: "مدرسة"
-- rel: "authored_by", target: "غونغسون لونغ", target_type: "مفكر"
+- rel: "authored_by", target: "thk-gongsun-long", target_type: "مفكر"
 related:
-- id: "sch-mingjia", title: "مدرسة الأسماء (المنطقيون)", type: "مدرسة"
+- id: "sch-mingjia", title: "مدرسة الأسماء / المنطقيون (Mingjia)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«غونغسون لونغ» (thk-gongsun-long) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أصالة الفصول الست المنسوبة لغونغسون لونغ في 'Gongsun Longzi' موضع خلاف."

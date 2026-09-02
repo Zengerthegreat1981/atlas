@@ -14,9 +14,13 @@ edges:
 - rel: "formulated_by", target: "thk-rollnick", target_type: "مفكر"
 related:
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-- id: "tec-motivational-interviewing", title: "المقابلة التحفيزية (MI)", type: "تقنية/تدخل علاجي"
+- id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
+- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
+- id: "con-motivational-interviewing-oars", title: "تقنية OARS في المقابلة التحفيزية", type: "مفهوم"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "con-unconditional-positive-regard", title: "التقبل الإيجابي غير المشروط (Unconditional Positive Regard)", type: "مفهوم"
 gaps:
-  - "ويليام ميلر (المؤسس المشارك لـ MI) لا يزال بدون عنصر thk-wmiller في الفهرس."
   - "لا يوجد اقتباس مباشر موثوق من ميلر/رولنيك بعد."
 ---
 
@@ -55,4 +59,4 @@ gaps:
 
 ## المصدر
 
-صاغها ميلر ورولنيك في *Motivational Interviewing: Preparing People for Change* (الطبعة الثانية، 2002) وعرضاها في *Motivational Interviewing: Helping People Change* (الطبعة الثالثة، 2013).
+صاغها ميلر ورولنيك في *Motivational Interviewing: Preparing People for Change* (الطبعة الثانية، 2002) وعرضاها في *Motivational Interviewing: Helping People Change* (الطبعة الثالثة، 2013)، ضمن مدرسة المقابلة التحفيزية (Motivational Interviewing) التي أسّساها معاً. الروح هي الإطار القيمي الذي تُمارَس داخله أدوات OARS (تقنية OARS في المقابلة التحفيزية) عملياً في الجلسة، وهي بذلك الأساس الذي تقوم عليه تقنية المقابلات الدافعية (MI) بوصفها التدخل الإكلينيكي المطبَّق لهذه الروح لا العكس.

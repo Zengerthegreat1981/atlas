@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1978
 active_end: 2011
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-lholzman", title: "لويز هولزمان", type: "مفكر"
 - id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"

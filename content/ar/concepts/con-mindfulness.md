@@ -20,21 +20,15 @@ related:
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي", type: "مدرسة"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-- id: "con-cbt-mbt-mindfulness-3min-breathing-space", title: "مساحة التنفس الثلاث دقائق", type: "مفهوم"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "con-cognitive-decentering", title: "اللامركزية المعرفية", type: "مفهوم"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "ins-oxford-happiness-inventory", title: "قائمة أكسفورد للسعادة", type: "أداة قياس"
-- id: "ctx-buddhist-psychology", title: "علم النفس البوذي والتقاليد التأملية الشرقية", type: "سياق/تقليد"
-- id: "dbt-mindfulness-clinical-vs-spiritual", title: "جِدَل الْيَقَظَة كَأَدَاة عِلَاجِيّة ضِد كَمَارَسَة رُوحِيّة", type: "جدل"
-- id: "tec-mbct-three-minute-breathing", title: "مساحة التنفس الثلاث دقائق (Three Minute Breathing Space) في MBCT", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-thought-defusion", title: "فصل الأفكار (Cognitive Defusion) في ACT", type: "تقنية/تدخل علاجي"
 - id: "con-cognitive-defusion", title: "فصل الأفكار (Cognitive Defusion) في ACT", type: "مفهوم"
+- id: "dbt-mindfulness-clinical-vs-spiritual", title: "جِدَل الْيَقَظَة كَأَدَاة عِلَاجِيّة ضِد كَمَارَسَة رُوحِيّة", type: "جدل"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن هايز (thk-stevenhayes)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: مارشا لينهان (thk-marsham)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: العيش مع الكارثة الكاملة (wrk-full-catastrophe-living)"
   - "الترجمة العربية لـ 'mindfulness' تختلف ('اليقظة الذهنية'، 'الانتباه'، 'الوعي الحاضر') — اعتمدنا 'اليقظة الذهنية' الأكثر شيوعاً."
   - "نقد McMindfulness (التسويق العصبي) موثّق جزئياً."
+  - "لا يوجد ملف عمل (wrk-) موثّق لكتاب 'العيش مع الكارثة الكاملة' لكابات-زين في الأطلس بعد؛ يُطلب إنشاؤه لاحقاً."
 ---
 # اليقظة الذهنية (Mindfulness)
 
@@ -121,3 +115,7 @@ gaps:
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy*. Guilford Press.
 - Goyal, M., et al. (2014). Meditation programs for psychological stress and well-being. *JAMA Internal Medicine*, 174(3), 357-368.
 - Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. Repeater Books.
+
+## الروابط والسياق
+
+يرتبط المفهوم بجذوره في **علم النفس البوذي** (sch-buddhist-psychology)، وبتطبيقاته العلاجية الثلاثة الكبرى: **العلاج المعرفي القائم على اليقظة** (sch-mbct)، و**العلاج بالقبول والالتزام** (sch-act)، و**العلاج الجدلي السلوكي** (sch-dbt). نقل **جون كابات-زين** (thk-jkabat-zinn) الممارسة إلى الطب الغربي عبر MBSR، وطوّر **زيندل سيغال** (thk-zsegal) برنامج MBCT، بينما أسّس **ستيفن سي. هايز** (thk-lstevenhayes) نظرية ACT التي تتبنى اليقظة كأحد عملياتها الست، وأدمجت **مارشا لينهان** (thk-mlinehan) اليقظة كمهارة جوهرية في DBT. يرتبط المفهوم بآليتيه المعرفيتين **اللامركزية المعرفية** (con-cognitive-decentering) و**فصل الأفكار** (con-cognitive-defusion)، ويتقاطع مع **جدل اليقظة كأداة علاجية ضد ممارسة روحية** (dbt-mindfulness-clinical-vs-spiritual) الذي يناقش إشكالية علمنة الممارسة البوذية.

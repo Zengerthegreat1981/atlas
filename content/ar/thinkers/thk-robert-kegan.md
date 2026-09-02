@@ -12,13 +12,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس التنموي للبالغين والقيادة التكيفية", target_type: "مدرسة"
+edges: []
 related:
-- id: "wrk-immunity-to-change", title: "المناعة ضد التغيير", type: "عمل / كتاب"
+- id: "wrk-immunity-to-change", title: "المناعة ضد التغيير: كيف نتغلب على الحواجز اللاواعية لتحقيق أهدافنا", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة sch- مستقل لـ«علم النفس التنموي للبالغين والقيادة التكيفية» في الأطلس بعد؛ سُجّلت في agents_specs/missing-schools.md، فحُذف رابط belongs_to السابق (كان نصاً حراً بدل slug)."
 ---
 
 # روبرت كيغان
@@ -46,6 +44,8 @@ gaps:
 - *Immunity to Change* (2009، مع ليزا لاسكو لاهي).
 - *An Everyone Culture* (2016).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Kegan, R. (1982). *The Evolving Self: Problem and Process in Human Development*. Harvard University Press.
+- Kegan, R. (1994). *In Over Our Heads: The Mental Demands of Modern Life*. Harvard University Press.
+- Kegan, R., & Lahey, L. L. (2009). *Immunity to Change: How to Overcome It and Unlock the Potential in Yourself and Your Organization*. Harvard Business Press.

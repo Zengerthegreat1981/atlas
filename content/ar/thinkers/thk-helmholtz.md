@@ -12,8 +12,7 @@ active_start: 1842
 active_end: 1894
 country: "ألمانيا (بروسيا)"
 language: "الألمانية"
-edges:
-- rel: "belongs_to", target: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
 - id: "thk-fechner", title: "غوستاف فيخنر", type: "مفكر"
@@ -40,7 +39,7 @@ gaps:
 - *Handbuch der physiologischen Optik* (1856-1867) — عن البصريات الفسيولوجية.
 - *Die Lehre von den Tonempfindungen* (1863) — عن الإدراك السمسي.
 - *Über die Thatsachen, die der Geometrie zum Grunde liegen* (1868) — أطروحة فلسفية في هندسة ريمان.
-- *Treatise on Physiological Optics* (3 مجلدات، الطبعة المنقّحة 1909-1911).
+- *Treatise on Physiological Optics* (3 مجلدات، طبعة إنجليزية منقّحة بعد وفاته، 1909-1911).
 
 ## المساهمات الكبرى
 

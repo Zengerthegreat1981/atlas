@@ -14,8 +14,8 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لم تُراجَع مقالة إرنست ينتش «Zur Psychologie des Unheimlichen» (1906) نفسها؛ يُذكر أن فرويد يناقشها في مقالته لكن الاستشهاد هنا اعتماداً على مقالة فرويد فقط لا على نص ينتش الأصلي."
+  - "الفقرة عن وادي الغرابة في الروبوتات (Uncanny Valley، موري 1970) غير مُسندة بمصدر مؤرَّخ داخل هذا الملف."
 ---
 
 # الغريب المألوف (Das Unheimliche): قلق الألفة المسترجعة
@@ -32,4 +32,10 @@ gaps:
 
 ## الأثر في النقد والفن والروبوتات
 
-أثر المفهوم على دراسات وادي الغرابة (Uncanny Valley) في الروبوتات والذكاء الاصطناعي والأدب الفانتازي.
+استعار عالم الروبوتات الياباني مساهيرو موري مفهوم فرويد سنة 1970 في مقالته «Bukimi no Tani» ليصف انزعاج البشر من الروبوتات شبه البشرية الدقيقة الشبه (Uncanny Valley)، وامتد الأثر لاحقاً إلى النقد الأدبي للفنتازيا والرعب.
+
+## المصادر
+
+- Freud, Sigmund. "Das Unheimliche." *Imago* 5, no. 5–6 (1919): 297–324.
+- Jentsch, Ernst. "Zur Psychologie des Unheimlichen." *Psychiatrisch-Neurologische Wochenschrift* (1906) — النص الذي يناقشه فرويد صراحة في افتتاحية مقالته.
+- Masschelein, Anneleen. *The Unconcept: The Freudian Uncanny in Late-Twentieth-Century Theory*. State University of New York Press, 2011.

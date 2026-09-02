@@ -44,7 +44,6 @@ related:
 - id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
 gaps:
   - "لم يُراجع بعد كتابه الأساسي (Phénoménologie de la perception, 1945) من نسخة أصلية — الوصف هنا عام من تاريخ الفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد من مصدر أولي محقق."
   - "أُضيف بعد مراجعة `/atlas-review` لدفعة مسودات — كان مذكوراً بالاسم في ثلاثة ملفات (thk-eckartsberg, thk-giorgi, thk-keen) وفي بيانات الشبكة الرسومية القديمة من غير عنصر مستقل، رغم مكانته المؤسِّسة لفينومينولوجيا الجسد."
   - "دُمج معه الملف المكرَّر thk-maurice-merleau-ponty (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
@@ -71,3 +70,8 @@ gaps:
 ## اقتباسات مختارة
 
 «العالم موجود بالفعل قبل أي تحليل يمكنني أن أجريه عليه» — فينومينولوجيا الإدراك (Phénoménologie de la perception)، 1945
+
+## المصادر
+
+- Maurice Merleau-Ponty, *Phénoménologie de la perception*, Gallimard, 1945.
+- Maurice Merleau-Ponty, *La Structure du comportement*, PUF, 1942.

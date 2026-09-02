@@ -20,7 +20,7 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "stu-meaning-making-model-park", title: "نموذج صنع المعنى (Meaning Making Model)", type: "دراسة وبحث"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى بارك بمصدر وسنة."
   - "نموذجها الشامل لصنع المعنى (Meaning Making Model) يستحق إدراجاً في الدراسات والبحوث."
 ---
 
@@ -42,3 +42,9 @@ gaps:
 ## أهم أعمالها
 
 صنع المعنى في مواجهة الضغوط الصادمة (Making Sense of the Meaning Making Approach, 2010) · علم نفس المعنى (The Psychology of Meaning, 2013).
+
+## المصادر
+
+- Park, Crystal L. "Making Sense of the Meaning Literature: An Integrative Review of Meaning Making and Its Effects on Adjustment to Stressful Life Events." *Psychological Bulletin*, 136(2), 2010.
+- Park, Crystal L., & Folkman, Susan. "Meaning in the Context of Stress and Coping." *Review of General Psychology*, 1(2), 1997.
+- ملف كريستال بارك الرسمي، جامعة كونيتيكت، قسم العلوم النفسية.

@@ -9,13 +9,17 @@ crumb: "السلوكية المعرفية ← الأعمال ← مبادئ تع
 dates: "1969 · ألبرت باندورا"
 language: "الإنجليزية"
 active_start: 1969
-active_end: 1969
+active_end: 2021
+author: "ألبرت باندورا"
+author_slug: "thk-abandura"
+publication_year: 1969
+original_language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-abandura", target_type: "مفكر"
 related:
-- id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 gaps:
   - "الفرق بين «التعلّم بالملاحظة» (1969) و«التعلّم الاجتماعي» (1977) من حيث الأطر النظرية لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

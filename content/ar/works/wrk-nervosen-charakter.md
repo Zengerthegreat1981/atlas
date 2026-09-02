@@ -8,18 +8,21 @@ en: "Über den nervösen Charakter"
 crumb: "علم النفس الفردي ← الأعمال ← في الشخصية العصابية"
 dates: "1912 · ألفريد أدلر"
 active_start: 1912
-active_end: 1912
+active_end: 1921
 language: "الألمانية"
 part: "psychology"
+author: "ألفريد أدلر"
+author_slug: "thk-adler"
+publication_year: 1912
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
-- rel: "authored_by", target: "ألفريد أدلر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-adler", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الطبعات اللاحقة (1921 و1928) غيّرت بعض المصطلحات — التحقق من الأثر الفعلي لكل طبعة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Adler في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # في الشخصية العصابية

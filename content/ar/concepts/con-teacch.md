@@ -14,9 +14,11 @@ edges:
 related:
 - id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "con-structured-teaching-teacch", title: "التدريس المنظم (Structured Teaching)", type: "مفهوم"
+- id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
+- id: "br-teacch", title: "TEACCH", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "التمييز بين خط Schopler-Mesibov الكلاسيكي وTEACCH-for-Schools من حيث درجة الالتزام بالبروتوكول الأصلي يحتاج مصدراً منشوراً يقارن بينهما مباشرة."
 ---
 
 # TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)
@@ -39,8 +41,13 @@ gaps:
 
 ## موقعه
 
-يقع في قلب "التربية الخاصة" و"تدخل التوحد" مع تقاطع مع "النمو العصبي المتنوع" (Neurodiversity).
+يقع في قلب "التربية الخاصة" و"تدخل التوحد" مع تقاطع مع "النمو العصبي المتنوع" (Neurodiversity). يتقاطع مع [ABA للتوحد](con-aba-autism) بوصفه بديلاً سلوكياً أقل اعتماداً على التعزيز الإجرائي المباشر، ومع [الاستقلالية والهومونومي](con-autonomy-homonomy) لأن هدفه المعلن هو بناء استقلالية وظيفية عبر تنظيم خارجي مؤقت لا تدريب امتثالي دائم. ركيزته التطبيقية الأساسية هي [التدريس المنظم](con-structured-teaching-teacch) بمكوناته الأربعة (التنظيم المادي، الجداول، نظام العمل، البنية البصرية)، والبرنامج نفسه من تأسيس [إريك شوبلر](thk-eschopler) وينتظم اليوم تحت [TEACCH](br-teacch) كتيار علاجي-تربوي مستقل.
 
 ## اقتباسات مختارة
 
-لا يوجد اقتباس مباشر موثوق متاح.
+لا توجد اقتباسات مباشرة من شوبلر أو مِسيبوف موثّقة بإسناد نصي دقيق في المصادر المتاحة هنا؛ الوصف أعلاه مبني على المصدرين التاليين.
+
+## المصادر
+
+- Eric Schopler & Gary B. Mesibov (eds.), *Individualized Assessment and Treatment for Autistic and Developmentally Disabled Children*, Vol. I–III (1979–1980), جامعة نورث كارولاينا في تشابل هيل — الأساس المؤسِّس لبرنامج TEACCH وأدوات التقييم النمائي (PEP/AAPEP) المشار إليها.
+- Gary B. Mesibov, Victoria Shea & Eric Schopler, *The TEACCH Approach to Autism Spectrum Disorders* (Springer, 2004) — المرجع المعاصر لخطوط TEACCH الثلاثة (الجامعي الكلاسيكي، التطبيق المدرسي، البالغون).

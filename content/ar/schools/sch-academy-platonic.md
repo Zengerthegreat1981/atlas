@@ -9,11 +9,11 @@ en: "Platonic Academy (Old / Middle / New Skeptical)"
 crumb: "الفلسفة ← اليونان وروما ← الأكاديمية الأفلاطونية"
 dates: "أثينا (حديقة الأكاديموس) · من 387 ق.م إلى 529 م"
 country: "يونان (أثينا)"
+cultural_origin: "greek"
 language: "اليونانية (القديمة/الوسطى)، اللاتينية (الجديدة الرومانية)"
 active_start: -387
 active_end: 529
 edges:
-- rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
@@ -81,3 +81,10 @@ gaps:
 - «الأكاديمية» ليست مدرسة ذات مذهب ثابت — فيلولوجياً، مرّت بكل أنواع التحولات.
 - الحوارات الأفلاطونية ليست «نصوصاً مدرسية» بالمعنى الذي نعرفه في الفلسفة العربية أو الحديثة — يجب قراءتها بصفتها حوارات أدبية-فلسفية.
 - مصطلح «الأكاديمية» (Academy / Académie) في اللغات الحديثة استُعمل للإشارة إلى أي مؤسسة تعليمية أو علمية لاحقة.
+
+## المصادر
+
+- Dillon, John. *The Heirs of Plato: A Study of the Old Academy (347–274 BC)*. Oxford University Press, 2003.
+- Cherniss, Harold. *The Riddle of the Early Academy*. University of California Press, 1945.
+- Dillon, John. *The Middle Platonists, 80 B.C. to A.D. 220*. Duckworth, 1977.
+- Long, A. A. & Sedley, D. N. *The Hellenistic Philosophers*. Cambridge University Press, 1987.

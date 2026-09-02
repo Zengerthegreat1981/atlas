@@ -9,18 +9,22 @@ crumb: "التحليل النفسي ← الأعمال ← العلاقات با
 dates: "1983"
 language: "الإنجليزية"
 part: "philosophy"
+author: "جاي ر. غرينبرغ وستيفن ميتشل"
+author_slug: "thk-jgreenberg"
+author_slug_2: "thk-mitchell"
+publication_year: 1983
+original_language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "authored_by", target: "جاي غرينبرغ", target_type: "مفكر"
+- rel: "authored_by", target: "thk-jgreenberg", target_type: "مفكر"
 - rel: "authored_by", target: "thk-mitchell", target_type: "مفكر"
 related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-- id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
+- id: "thk-jgreenberg", title: "جاي ر. غرينبرغ", type: "مفكر"
 - id: "con-relational-matrix", title: "المصفوفة العلائقية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

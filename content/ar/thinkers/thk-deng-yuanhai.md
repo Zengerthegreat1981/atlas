@@ -14,10 +14,10 @@ language: "الصينية (الماندرين)"
 active_start: 1980
 active_end: 2007
 edges:
-- rel: "belongs_to", target: "الطاوية المعرفية (Chinese Taoist Cognitive Therapy)", target_type: "مدرسة"
-- rel: "developed", target: "sch-taoist-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-taoist-cognitive-therapy", target_type: "مدرسة"
 related:
-- id: "thk-jingqiyong", title: "جينغ تشي-يونغ (المؤسس المشارك)", type: "مفكر"
+- id: "sch-taoist-cognitive-therapy", title: "الطاوية المعرفية", type: "مدرسة"
+- id: "thk-jingqiyong", title: "يانغ ديشن", type: "مفكر"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 - id: "con-dialectics", title: "الجدل", type: "مفهوم"

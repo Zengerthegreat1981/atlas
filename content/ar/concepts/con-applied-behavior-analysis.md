@@ -13,11 +13,13 @@ edges:
 - rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
-- id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
+- id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
+- id: "con-verbal-behavior-vb", title: "السلوك اللفظي (Verbal Behavior / VB)", type: "مفهوم"
+- id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
 gaps:
   - "نسبة الإطار إلى Baer, Wolf, Risley (1968) تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الرابط إلى السلوكية الكلاسيكية (Watson) حُذف لأن المتن لا يذكرها؛ الموجود فعلياً هو ذكر Skinner والإشراط الإجرائي فقط."
 ---
 
 # تحليل السلوك التطبيقي (ABA)

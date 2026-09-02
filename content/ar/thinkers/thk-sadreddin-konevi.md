@@ -49,3 +49,8 @@ gaps:
 - الفكوك (Al-Fukuk)
 - إجازة الشيخ الأكبر
 - تفسير الفاتحة
+
+## المصادر
+
+- Chittick, W.C. "The Last Will and Testament of Ibn 'Arabi's Foremost Disciple." *Sophia Perennis*, 1978 (دراسة عن القونوي ووصيته).
+- Todd, R. *The Sufi Doctrine of Man: Ṣadr al-Dīn al-Qūnawī's Metaphysical Anthropology* (Brill, 2014).

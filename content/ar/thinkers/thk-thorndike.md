@@ -16,13 +16,13 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"
 - id: "con-law-of-effect", title: "قانون الأثر", type: "مفهوم"
 - id: "stu-thorndike-puzzle-box", title: "تجارب ثورندايك لصناديق الألغاز وقانون الأثر", type: "دراسة وبحث"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لإدوارد ثورندايك من نص أطروحته الأصلي 1898."
+  - "نُسب للمتن سابقاً تطوير 'القياس العقلي' بالاشتراك مع Alfred Binet — غير صحيح؛ بينيه طوّر مقياسه في فرنسا مستقلاً، وحُذفت النسبة الخاطئة من المتن."
 ---
 
 # إدوارد ثورنديك
@@ -33,7 +33,7 @@ gaps:
 
 في «ذكاء الحيوان» (Animal Intelligence، 1911) أجرى تجارب «الأقفاص المشكلة» (Puzzle Boxes) على القطط: تعلّم القطّ أن يَسحب الحبل ليفتح الباب عبر «المحاولة والخطأ»، لكن «مُتدرِّج» (قانون الأثر): السلوك الذي يُعزَّز (يفتح الباب) يَستقرّ، السلوك غير المعزَّز يَضمحلّ. هذا القانون هو أوّل صياغة رسمية لـ«التعلّم بالعواقب»، الأساس لـ Skinner (Operant Conditioning) وثورة علم النفس التعليمي لاحقاً.
 
-كذلك طوّر «القياس العقلي» (Mental Measurement، Intelligence Quotient) مع Alfred Binet، ودراسات «تعلّم الإنسان» (Human Learning، 1931).
+كذلك طوّر مقاييس مستقلة للقياس العقلي (Mental Measurement)، من بينها اختبار CAVD للذكاء، ودراسات «تعلّم الإنسان» (Human Learning، 1931).
 
 ## موقعه من التيار
 
@@ -44,4 +44,10 @@ gaps:
 
 ## أهم أعماله
 
-ذكاء الحيوان (1911) · علم النفس التعليمي (Educational Psychology، 3 مجلّدات، 1913–14) · تعلّم الإنسان (Human Learning، 1931) · قياس الذكاء (Intelligence Quotient).
+ذكاء الحيوان (Animal Intelligence، 1911) · علم النفس التعليمي (Educational Psychology، 3 مجلّدات، 1913–14) · تعلّم الإنسان (Human Learning، 1931).
+
+## المصادر
+
+- Thorndike, Edward L. *Animal Intelligence: Experimental Studies*. Macmillan, 1911.
+- Thorndike, Edward L. *Educational Psychology*. 3 vols. Teachers College, Columbia University, 1913–1914.
+- Thorndike, Edward L. *Human Learning*. The Century Co., 1931.

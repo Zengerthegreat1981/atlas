@@ -12,6 +12,10 @@ language: "الصينية الكلاسيكية"
 active_start: -400
 active_end: -200
 active_source: "lifespan"
+author: "مو زي"
+author_slug: "thk-mozi"
+publication_year: -400
+original_language: "الصينية الكلاسيكية"
 edges:
 - rel: "belongs_to", target: "sch-mohism", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-mozi", target_type: "مفكر"

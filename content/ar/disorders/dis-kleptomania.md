@@ -12,9 +12,6 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
@@ -23,18 +20,18 @@ related:
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "تدوين اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-smart-goal-setting", title: "وضع أهداف SMART", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-crisis-survival-planning", title: "تخطيط البقاء في الأزمات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-crisis-survival-planning", title: "خطة النجاة من الأزمات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
@@ -44,12 +41,11 @@ related:
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
+- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتمييز Kleptomania عن السرقة العادية (في DSM-5-TR و ICD-11) لم تُراجع من المصدر الأولي."
   - "الفاعلية المحدودة لـ Naltrexone و SSRIs في Kleptomania لم تُقارَن بدقة من مصدر أولي."
   - "الانتشار الحقيقي لـ Kleptomania (يُعتقد أنه نادر جداً، مع نقص في الدراسات الوبائية) لم يُوثَّق بدقة."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # هوس السرقة
@@ -202,6 +198,14 @@ gaps:
 - **النكس**: شائع، خاصة تحت الضغط.
 - **مخاطر قانونية**: الاعتقال قد يكون مدخلاً للعلاج لكنه يضيف عبئاً.
 - **العلاج الدوائي**: فعّال لكن الأدلة محدودة.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. ما ورد أعلاه من معايير DSM-5-TR وICD-11 ومراحل معالجة إكلينيكية هو خريطة معرفية عن الفئة، وليس أداة لتقييم حالة بعينها.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين هوس السرقة كفئة تشخيصية إكلينيكية محددة بمعايير مدة وتكرار وضائقة وظيفية (DSM-5-TR/ICD-11)، وبين 'إرادة الحياة العمياء' (con-blind-will-to-life) كما صاغها شوبنهاور — قوة ميتافيزيقية عمياء تُحرّك كل الكائنات دون علاقة بأي تشخيص فردي. الفارق الأساسي: الأول وصف سريري لسلوك اندفاعي متكرر يمكن تمييزه إكلينيكياً عن السرقة العادية بمعايير محددة، بينما الثاني تأمل فلسفي عام في طبيعة الإرادة والدافع الإنساني ذاته، لا يخص اضطراباً بعينه ولا يقدّم معياراً تشخيصياً.
 
 ## مرجع
 

@@ -2,45 +2,27 @@
 slug: "thk-rohan-gullich"
 id: "THK-2757"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "روهان غوليتش"
 en: "Rohan J. Gullich"
 crumb: "علم نفس الرياضة (علم النفس الرياضي) ← تطوير ← روهان غوليتش"
-dates: "أستراليا · [DRAFT-UNKNOWN]"
+dates: "أستراليا · [غير مؤكد]"
 country: "أستراليا"
 language: "الإنجليزية"
-active_start: 2005
-active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم نفس الرياضة", target_type: "مدرسة"
-related:
-- id: "thk-ogilvie", title: "بروس أوكيف", type: "مفكر"
+active_start: null
+active_end: "مستمر"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Rohan Gullich في علم النفس الرياضي. 'نموذج 5Cs' (Commitment, Communication, Concentration, Control, Confidence) موثّق تاريخياً كعمل Dr. Chris Harwood (جامعة Loughborough، 2008) لا هذا الاسم. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rohan-gullich.md.archived.2026-08-27"
 ---
 
 # روهان غوليتش
 
-أكاديمي أسترالي، من أهم الباحثين في **علم النفس الرياضي**، ومتخصّص في **«نموذج 5Cs»** الذي يجمع بين عدة عوامل نفسية في الأداء الرياضي.
+(Rohan J. Gullich)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rohan-gullich.md.archived.2026-08-27`
 
-- تطوير **«نموذج 5Cs»** (Commitment، Communication، Concentration، Control، Confidence) كأداة لتقييم الجاهزية النفسية للرياضيين.
-- مساهمات في **«أبحاث المسار الرياضي»** (Sport Career Research) عبر دراسات طولية.
-- فصول في كتب عن **«الحياة المهنية للرياضيين»** والانتقال بعد التقاعد.
-- أبحاث منشورة في **دوريات علم النفس الرياضي** العالمية.
-
-## موقعه من التيار
-
-غوليتش من أهم **الأكاديميين العالميين** في علم النفس الرياضي، وله تأثير واسع في **أوروبا وأستراليا**. وتُستخدم أبحاثه في **تطوير برامج الإعداد النفسي** للرياضيين الأولمبيين.
-
-## أهم أعماله
-
-- أبحاث منشورة في *Journal of Sports Sciences* و*Psychology of Sport and Exercise*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+لم يُعثر على توثيق مستقل لوجود هذا الشخص. راجع `agents_specs/quarantine-minimax.md` للتفاصيل.

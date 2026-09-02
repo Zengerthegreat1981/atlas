@@ -12,13 +12,12 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: 2011
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-- id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
-- id: "thk-rsperry", title: "روبرت سبيري", type: "مفكر"
-- id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
+- id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:
   - "تفصيل فكرة الجسد بوصفه معالجاً (Body as Healer) لم يُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."

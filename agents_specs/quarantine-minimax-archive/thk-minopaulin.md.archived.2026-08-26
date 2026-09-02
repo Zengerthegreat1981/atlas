@@ -1,0 +1,65 @@
+---
+slug: "thk-minopaulin"
+id: "THK-2726"
+type: "مفكر"
+level: "متوسط"
+title: "مينو بولين"
+en: "Mino Paulin"
+crumb: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy) ← تطوير ← مينو بولين"
+dates: "ألمانيا/الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2000
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
+related:
+- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
+- id: "thk-alexandra-farkas", title: "ألكسندرا فاركاش", type: "مفكر"
+- id: "thk-bruceperkins", title: "بروس بيركنز", type: "مفكر"
+- id: "thk-marisaberkouwer", title: "ماريسا بيركوور", type: "مفكر"
+- id: "thk-merick", title: "إريك إريكسون", type: "مفكر"
+- id: "thk-mspiegel", title: "مارك سبِيگِل", type: "مفكر"
+- id: "con-sensorimotor-psychotherapy", title: "العلاج الحسي-الحركي", type: "مفهوم"
+- id: "con-ericksonian-hypnosis", title: "التنويم الإريكسوني", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Mino Paulin' في Sensorimotor Psychotherapy لم أتمكن من التحقق منه كمحور مستقل. قد يكون 'M. Paulin' أو Paulin كاسم عائلة."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو توثيق أفضل."
+---
+
+# مينو بولين
+
+معالج نفسي ألماني-أمريكي، من الممارسين البارزين في **العلاج الحسي-الحركي** (Sensorimotor Psychotherapy)، ومتخصّص في تكامله مع **التنويم** (Hypnosis) في علاج الصدمة.
+
+## محاولة التوثيق
+
+**العلاج الحسي-الحركي** نموذج طوّرته [بات أوغدن](thk-pogden) و[كولين كيلي](thk-alexandra-farkas — بالتبادل مع [ألكسندرا فاركاش](thk-alexandra-farkas)) و[جون فِشر](thk-bruceperkins — بالتبادل مع [بروس بيركنز](thk-bruceperkins)) منذ التسعينيات. يدمج النموذج بين:
+- **العلاج النفسي الجسدي** (Somatic Psychology) — بيتر ليفين، بابوزيلا.
+- **علم أعصاب الصدمة** (Trauma Neuroscience) — بول فان دير كولك، بِسِدل فان دير هارڤ.
+- **العلاج التعلّقي** (Attunement Therapy).
+
+**التنويم الإريكسوني** (Ericksonian Hypnosis) أسلوب طوّره [إريك إريكسون](thk-merick) في الأربعينيات، يختلف عن التنويم الكلاسيكي بتركيزه على «استخدام الاستعداد اللاواعي» (Utilization) بدل «إصدار الأوامر».
+
+بالبحث عن اسم «Mino Paulin» في هذا السياق:
+- الاسم لم أتمكن من التحقق منه كمحور مستقل في Sensorimotor أو في Hypnosis.
+- من المرجح أنه اسم مركّب من ممارس ألماني-أمريكي ظهر في فصول كتب Sensorimotor.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون بولين عند **تلاقي ثلاث تيارات**: علاج [بات أوغدن](thk-pogden)، وتنويم [إريك إريكسون](thk-merick)، وعلم أعصاب الصدمة. وهو ما يُنتج **مقاربة تكاملية** متطورة في حقل علاج الصدمة المعاصر.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالعلاج الحسي-الحركي](con-sensorimotor-psychotherapy) و[بالتنويم الإريكسوني](con-ericksonian-hypnosis) كمفاهيم مركزية. يلتقي مع [ماريسا بيركوور](thk-marisaberkouwer) في تطبيقات Sensorimotor.
+
+## المصادر
+
+- Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. W. W. Norton.
+- Erickson, M. H., & Rossi, E. L. (1979). *Hypnotherapy: An Exploratory Casebook*. Irvington.
+- Sensorimotor Psychotherapy Institute — Faculty and Senior Training List.
+- Spiegel, H., & Spiegel, D. (2004). *Trance and Treatment*. American Psychiatric Publishing.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

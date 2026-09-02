@@ -14,17 +14,16 @@ edges:
 - rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
 - id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
-- id: "con-grief", title: "الفجيعة", type: "مفهوم"
-- id: "con-five-stages-of-grief", title: "مراحل الفجيعة الخمس", type: "مفهوم"
-- id: "thk-gklerman", title: "جيرالد كليerman", type: "مفكر"
-- id: "thk-mweissman", title: "ميراندي وايزمان", type: "مفكر"
-- id: "dis-mdd", title: "الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
+- id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
+- id: "con-five-stages-of-grief", title: "مراحل الحزن الخمس (نموذج كوبلر–روس DABDA)", type: "مفهوم"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الدور الاجتماعي في علم النفس (con-role)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العلاقة (con-relationship)"
   - "الترجمات العربية للمصطلحات الإنجليزية («role disputes/transitions/deficits») غير موحّدة في الأدبيات النفسية العربية."
   - "الإضافة المعتمدة في أدبيات IPT الأخيرة (interpersonal sensitivities) لم تُدرج ضمن هذه البنية الرباعية بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر حتى الآن على اقتباس مباشر مسنَد بمصدر أولي لهذا المفهوم."
 ---
 # المشاكل الأربعة في العلاج بين الأشخاص (IPT): الفجيعة، الخلافات الأدائية، التحولات الأدائية، والعجز الأدائي
 

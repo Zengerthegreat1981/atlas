@@ -23,7 +23,6 @@ related:
 gaps:
   - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ميشيل فوكو» (thk-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # غاياتري سبيفاك
@@ -36,11 +35,18 @@ gaps:
 
 ## موقعها من التيار
 
-مؤسِّسة بارزة لـ«النسوية ما بعد الاستعمارية» (Postcolonial Feminism) مع Chandra Mohanty وAnne McClintock. ترجمتها لديكارت (Of Grammatology, 1976) «أدخلت» دريدا إلى أمريكا. كتابها «نقد العقل ما بعد الكولونيالي» (A Critique of Postcolonial Reason, 1999) أعاد قراءة «التاريخ الأوروبي» من منظور ما بعد استعماري.
+مؤسِّسة بارزة لـ«النسوية ما بعد الاستعمارية» (Postcolonial Feminism) مع Chandra Mohanty وAnne McClintock. ترجمتها لكتاب دريدا (Of Grammatology, 1976، مع مقدمة نقدية طويلة لها) «أدخلت» دريدا إلى أمريكا. كتابها «نقد العقل ما بعد الكولونيالي» (A Critique of Postcolonial Reason, 1999) أعاد قراءة «التاريخ الأوروبي» من منظور ما بعد استعماري.
 
 ## القيد
 سؤال «هل يستطيع التابع أن يتكلم؟» قُرِئ بوصفه «تبسيطاً» (Essentialism) للتابع — وهو ما ردّت عليه في «استراتيجية ما بعد الكولونيالي» (Postcolonial Reason, 1999).
 
 ## أهم أعمالها
 
-نقد العقل ما بعد الكولونيالي (A Critique of Postcolonial Reason, 1999) · أبعد من الآلة (Outside in the Teaching Machine, 1993) · ترجمة Of Grammatology لديكارت (1976) · محادثات أخرى (Other Asias, 2008).
+نقد العقل ما بعد الكولونيالي (A Critique of Postcolonial Reason, 1999) · أبعد من الآلة (Outside in the Teaching Machine, 1993) · ترجمة Of Grammatology لدريدا مع مقدمة نقدية (1976) · محادثات أخرى (Other Asias, 2008).
+
+## المصادر
+
+- Spivak, G. C. (1988). "Can the Subaltern Speak?" في Marxism and the Interpretation of Culture (تحرير Nelson & Grossberg). University of Illinois Press.
+- Spivak, G. C. (1999). *A Critique of Postcolonial Reason*. Harvard University Press.
+- Spivak, G. C. (1993). *Outside in the Teaching Machine*. Routledge.
+- Derrida, J. (1976). *Of Grammatology* (ترجمة ومقدمة G. C. Spivak). Johns Hopkins University Press.

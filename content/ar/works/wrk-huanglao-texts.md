@@ -12,6 +12,8 @@ language: "الصينية الكلاسيكية"
 active_start: -400
 active_end: -200
 active_source: "lifespan"
+author: "مجهول (تجميع جماعي — مخطوطات Mawangdui وGuodian)"
+original_language: "الصينية الكلاسيكية"
 edges:
 - rel: "belongs_to", target: "sch-huang-lao", target_type: "مدرسة"
 related:
@@ -20,6 +22,7 @@ related:
 gaps:
   - "الفصل بين النصوص 'الأصلية' و'اللاحقة' في مجموعة Mawangdui لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "publication_year غير مُدرَج: النصوص مجموعة جماعية مؤلَّفة عبر قرون (القرن 4 إلى القرن 2 ق.م، انظر active_start/active_end)، فلا يوجد عام نشر واحد يمكن ذكره دون اختراع. author_slug غير مُدرَج لعدم وجود مؤلف فرد."
 ---
 
 # نصوص هوانغ-لاو (مجموعة)

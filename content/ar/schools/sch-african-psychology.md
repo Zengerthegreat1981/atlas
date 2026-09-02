@@ -16,8 +16,6 @@ evidence_level: "experimental"
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس عبر الثقافي", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-ubuntu-traditional", target_type: "مدرسة"
 related:
 - id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
@@ -29,14 +27,13 @@ related:
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 - id: "thk-senghor", title: "ليوبولد سيدار سنغور", type: "مفكر"
 - id: "thk-ashutte", title: "أوغسطين شَتّ", type: "مفكر"
-- id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"
-- id: "thk-twolofor", title: "تويين فالولا", type: "مفكر"
-- id: "thk-rlwilliams", title: "روبرت ل. ويليامز (مُحسَّن)", type: "مفكر"
-- id: "thk-twsalisbury", title: "توبيوس كاسيتو (فيليبس سالزبوري أو تايو سالزبوري)", type: "مفكر"
+- id: "thk-rlwilliams", title: "روبرت لي ويليامز الثاني", type: "مفكر"
+- id: "thk-tfalola", title: "تويين فالولا", type: "مفكر"
 gaps:
   - "لا تاريخ نهاية موثّق — حقل بحثي نشط في توسعة مع تأثره بحركة DDecoloniality."
   - "التمييز الدقيق بين «علم النفس الأفريقي» بوصفه تخصصاً أكاديمياً و«السيكولوجيا السوداء» (Black Psychology) في السياق الأمريكي لم يُحلّ هنا."
-  - "لا يوجد اقتباس مباشر موثوق في هذه المسودة."
+  - "رابط لـ'أكينسولا أكيووو' لا يزال مؤجلاً — الـslug الأصلي (thk-rcabrera) تحت الحجر لعدم مطابقة اسمه (انظر quarantine-minimax.md وطلب R-008)."
+  - "رابط لـ'توبيوس كاسيتو' (thk-twsalisbury) أُزيل — الملف المستهدف تحت الحجر بلا اسم واحد موثَّق."
 ---
 
 # علم النفس الأفريقي
@@ -78,3 +75,10 @@ gaps:
 ## اقتباسات مختارة
 
 «الأوبونتو ليس فضيلة يمكن أن أتدرب عليها، بل هو ما يجعلني إنساناً أصلاً — أنا إنسان بقدر ما أعترف بإنسانية الآخرين.» — Mogobe B. Ramose، *African Philosophy via Ubuntu* (1999) — مُعاد صياغته من الإنجليزية.
+
+## المصادر
+
+- Mbiti, John S. *African Religions and Philosophy*. London: Heinemann, 1969.
+- Ramose, Mogobe B. *African Philosophy through Ubuntu*. Harare: Mond Books, 1999.
+- Mbigi, Lovemore, and Jenny Maree. *Ubuntu: The Spirit of African Transformation Management*. Randburg: Knowledge Resources, 1997.
+- Nwoye, Augustine. *Psychology: An African Perspective*. Salt Lake City: American University Studies, 2006.

@@ -13,13 +13,12 @@ edges:
 - rel: "relates_to", target: "sch-eft-couples", target_type: "مدرسة"
 related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "crt-feminist-critique-psychoanalysis", title: "نقد نسوي للتحليل النفسي", type: "نقد خارجي موثَّق"
-- id: "crt-critique-of-couples-therapy", title: "نقد العلاج الزوجي", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-psychoanalysis", title: "النقد النسوي للتحليل النفسي: الذكورية البنيوية والازدواجية المعيارية", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-couples-therapy", title: "نقد الْعِلَاج الزَّوْجِيّ: «الزَّوَاج كَـعِلَاج» كَـ«سُلْطَة طَبِّيَّة»", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Erskine, 2012; Markman, 2014)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "لم تُراجع من نسخة أصلية مباشرة بعد (Erskine, 2012; Markman, 2014). Erskine, 2012 غير مذكور في المتن — يحتاج تحقق قبل الاستشهاد به."
 ---
 # نقد الْعِلَاج بِالْمَشَاعِر (EFT) لِلْأَزْوَاج: «اِرْتِبَاط» أَمْ «اِعْتِمَادِيَّة»؟
 

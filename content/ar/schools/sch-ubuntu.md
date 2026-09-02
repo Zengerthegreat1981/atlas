@@ -12,6 +12,7 @@ country: "أفريقيا الجنوبية، أوغندا"
 language: "الإنجليزية، الزولوية، الزولو"
 active_start: 1995
 active_end: "مستمر"
+cultural_origin: "african"
 edges:
 - rel: "evolved_from", target: "sch-ubuntu-traditional", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
@@ -56,3 +57,9 @@ gaps:
 
 - تُهمل أحياناً الجوانب القمعية للتقاليد.
 - تواجه انتقيدات بسبب الترويج الحكومي.
+
+## المصادر
+
+- Desmond Tutu, *No Future Without Forgiveness*, Doubleday, 1999.
+- Mogobe B. Ramose, *African Philosophy through Ubuntu*, Mond Books, 1999.
+- Lovemore Mbigi & Jenny Maree, *Ubuntu: The Spirit of African Transformation Management*, Knowledge Resources, 1995 (وطبعة موسّعة 1997).

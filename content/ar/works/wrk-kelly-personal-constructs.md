@@ -8,12 +8,15 @@ en: "The Psychology of Personal Constructs"
 crumb: "علم النفس المعرفي البنائي ← الأعمال ← سيكولوجية البنى الشخصية"
 dates: "1955 · جورج كيلي"
 language: "الإنجليزية"
+author: "جورج كيلي"
+author_slug: "thk-kelly-george"
+publication_year: 1955
+original_language: "الإنجليزية"
 active_start: 1955
-active_end: 1955
+active_end: 1991
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
-- rel: "authored_by", target: "جورج كيلي", target_type: "مفكر"
+- rel: "authored_by", target: "thk-kelly-george", target_type: "مفكر"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:

@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1977
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعلاج الزواجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
 - id: "con-imago", title: "الإيماجو (Imago)", type: "مفهوم"

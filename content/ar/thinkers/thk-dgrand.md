@@ -11,9 +11,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2003
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"

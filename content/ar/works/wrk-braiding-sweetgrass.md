@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← فلسفات السكان الأص
 dates: "2013 · روبن وال كيميرير"
 language: "الإنجليزية"
 active_start: 2013
-active_end: 2013
+active_end: 2020
+author: "روبن وال كيميرير"
+author_slug: "thk-kimmerer"
+publication_year: 2013
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 related:

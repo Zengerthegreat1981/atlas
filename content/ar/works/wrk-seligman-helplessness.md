@@ -9,11 +9,10 @@ crumb: "علم النفس الإيجابي ← الأعمال ← العجز ا�
 dates: "1975 · مارتن سليغمان"
 language: "الإنجليزية"
 active_start: 1975
-active_end: 1975
+active_end: 2000
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "مارتن سليغمان", target_type: "مفكر"
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "stu-hirotto-seligman-human-helplessness", title: "دراسة هيروتو وسليجمان حول العجز المُتعلَّم لدى البشر وتأثير غياب التحكم", type: "دراسة وبحث"

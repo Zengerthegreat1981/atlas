@@ -21,7 +21,7 @@ related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "con-empty-chair", title: "تقنية الكرسي الفارغ", type: "مفهوم"
 - id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
-- id: "tec-process-experiential", title: "العلاج الانفعالي-التجريبي", type: "تقنية/تدخل علاجي"
+- id: "tec-process-experiential", title: "العلاج التجريبي-العملياتي", type: "تقنية/تدخل علاجي"
 gaps:
   - "الأدلة التجريبية RCT على فعالية حوار الكرسيين موجودة في دراسات Greenberg et al. (1990s–2000s)؛ لم تُراجع منهجياً في هذه المسودة."
   - "التمييز بين حوار الكرسيين والكرسي الفارغ موثَّق في أدبيات EFT، لكن التطبيقات السريرية تتداخل أحياناً."
@@ -85,8 +85,3 @@ gaps:
 - Greenberg, L. S., Watson, J. C., & Lietaer, G. (1998). *Handbook of Experiential Psychotherapy*. Guilford Press.
 - Paivio, S. C., & Greenberg, L. S. (1995). «Resolving ”Unfinished Business”». *Journal of Consulting and Clinical Psychology*, 63(3), 397-406.
 
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-eft** (EFT الفردي).
-- مرتبط بـ**con-empty-chair** (الكرسي الفارغ) كمفهوم مُتمِّم.
-- مُستوحى من **tec-process-experiential** (العلاج الانفعالي-التجريبي) كتطبيق عملي.

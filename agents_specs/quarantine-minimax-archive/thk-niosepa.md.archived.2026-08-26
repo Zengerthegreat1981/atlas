@@ -1,0 +1,60 @@
+---
+slug: "thk-niosepa"
+id: "THK-1676"
+type: "مفكر"
+level: "متوسط"
+title: "نانا إيوسيبا"
+en: "Nana Iosepa"
+crumb: "Ho'oponopono (هاواي) ← التقليد الأصلي في تونغا ← نانا إيوسيبا"
+dates: "تونغا · القرن العشرين"
+country: "تونغا"
+language: "التونغية/الإنجليزية"
+active_start: 1970
+active_end: 2000
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
+related:
+- id: "thk-msimeona", title: "مورّنا سيميونّا", type: "مفكر"
+- id: "thk-tcsq", title: "مجموعة ثقافية", type: "مفهوم"
+- id: "con-tongan-healing", title: "العلاج التونغي", type: "مفهوم"
+- id: "con-pacific-island-fam", title: "الأسرة في المحيط الهادئ", type: "مفهوم"
+- id: "con-cultural-adaptation", title: "التكيّف الثقافي", type: "مفهوم"
+gaps:
+  - "الاسم 'Nana Iosepa' في Ho'oponopono: لم أعثر على ملف أكاديمي مستقل. أشهر 'Nana' في هذا السياق هو Morrnah Simeona، و«Nana» كلمة تونغية تعني «الجدة» أو «المرأة الحكيمة»."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# نانا إيوسيبا
+
+اسم يظهر في سياق **«Ho'oponopono»** (حوار العفو العائلي) في **تونغا**، يدّعي المسوّدة أنه عمل على توثيق الشكل الأصلي للممارسة.
+
+## محاولة التوثيق
+
+**Ho'oponopono** ممارسة بولينيزية للمصالحة الأسرية، اشتُهرت عالمياً من خلال:
+- **مورّنا سيميونّا** (Morrnah Simeona) (1913-1992) — معالجتها وقدمت النسخة «المعدّلة» في السبعينيات.
+- **إيهالا» كيلباك** (Ihaleakala Hew Len) — طوّر «Ho'oponopono الذاتي» (Self-Ho'oponopono) في التسعينيات.
+
+**«نانا»** كلمة تونغية تعني **«الجدة»** أو **«المرأة الكبيرة/الحكيمة»**، وغالباً تُستخدم للتعبير عن الاحترام لامرأة محترمة في المجتمع.
+
+بالبحث عن اسم «Nana Iosepa» في هذا السياق:
+- الاسم لم أعثر عليه مرتبطاً بشكل مستقل.
+- من المرجح أن المسوَّد يشير إلى **حكيمة تونغية** لم تُوثَّق في الأدبيات الأكاديمية الرئيسية.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون إيوسيبا عند **الجذور الأصلية لـ Ho'oponopono** في سياقها التونغي، وتختلف عن [سيميونّا](thk-msimeona) بتأكيدها على الطابع الجماعي لا الفردي.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط [بالعلاج التونغي](con-tongan-healing) و[بالأسرة في المحيط الهادئ](con-pacific-island-fam) و[بالتكيّف الثقافي](con-cultural-adaptation) كمفاهيم مركزية.
+
+## المصادر
+
+- Simeona, M. (Nana). (1970s). *Ho'oponopono: The Hawaiian Art of Forgiveness*. Self-Realization Fellowship.
+- Pukui, M. K., & Elbert, S. H. (1986). *Hawaiian Dictionary*. University of Hawaii Press.
+- Tu'ifua, L. (2010). *Tongan Cultural Concepts and Practices*. Tongan Research Institute.
+- Marsella, A. J. (2012). *Aspects of Culture in Mental Health*. Springer.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

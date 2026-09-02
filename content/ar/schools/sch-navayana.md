@@ -12,6 +12,7 @@ country: "الهند (Maharashtra) — Ấn Độ"
 language: "الماراثية، الهندية، الإنجليزية"
 active_start: 1956
 active_end: "مستمر"
+cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-buddhism-early", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-buddhist-modernism", target_type: "مدرسة"
@@ -20,7 +21,7 @@ related:
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "نصوص B.R. Ambedkar (The Buddha and His Dhamma، Annihilation of Caste) و D.N. Ambedkar وBhagat Singh Lalan تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Navayāna و Theravāda الهندية المعاصرة يستحق بحثاً نقدياً."
@@ -96,3 +97,11 @@ gaps:
 - **النسق اللاهوتي**: رفض الإله يميّز عن Theravāda الأصلية.
 - **نسبة إلى Ambedkar**: يستحق دقّة في تشخيص «فلسفته»، هل تتطابق مع Buddhisms الأخرى؟
 - **Kranti (الثورة) وMarx**: تأثّر نقدي بـMarx، لكن الفروقات الفلسفية واضحة.
+
+## المصادر
+
+- Ambedkar, B.R. (1957). *The Buddha and His Dhamma*. Siddharth College Publication.
+- Ambedkar, B.R. (1936). *Annihilation of Caste*.
+- Queen, C.S., & King, S.B. (Eds.). (1996). *Engaged Buddhism: Buddhist Liberation Movements in Asia*. State University of New York Press.
+- Yengde, S. (2019). *Caste Matters*. Penguin Random House India.
+- Omvedt, G. (2003). *Buddhism in India: Challenging Brahmanism and Caste*. Sage Publications.

@@ -14,11 +14,11 @@ active_end: "مستمر"
 language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-istdp", target_type: "مدرسة"
-- rel: "developed_by", target: "habib-davanloo", target_type: "مفكر"
+- rel: "developed_by", target: "thk-hdavanloo", target_type: "مفكر"
 related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
-- id: "con-repression", title: "الكبت والآليات الدفاعية الأولية", type: "مفهوم"
-- id: "con-transference", title: "التحويل في العلاقة العلاجية", type: "مفهوم"
+- id: "con-repression", title: "الكبت والآليات الدفاعية الأولية (Repression)", type: "مفهوم"
+- id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
 gaps:

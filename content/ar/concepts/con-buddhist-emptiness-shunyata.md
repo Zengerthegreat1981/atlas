@@ -13,14 +13,18 @@ edges:
 - rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
-- id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
+- id: "thk-nagarjuna", title: "ناغارجونا (مؤسس مادهياماكا)", type: "مفكر"
+- id: "thk-tsongkhapa", title: "جي تسونغكابا", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "thk-lcwallace", title: "ب. ألن والاس", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق (con-attachment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: أنا-lessness (con-anatta)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: المعاناة (con-suffering)"
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Nāgārjuna's Mūlamadhyamakakārikā، 200 CE)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الفرق بين الشنياتي في البراجنافادا (Yogācāra) والمادياماكا (Madhyamaka) يحتاج فصلاً."
+  - "هوية 'G. Watson' المشار إليها في فقرة الاكتئاب (2015) غير مؤكدة — لا يوجد ملف مفكر مطابق بثقة في الأطلس، فلم تُدرج كرابط."
+  - "الفرق بين الشنياتي في اليوغاتشارا (Yogācāra) والمادياماكا (Madhyamaka) يحتاج فصلاً."
   - "تطبيقاتها في العلاج المعرفي (Beck's Empty Self) تحتاج فصلاً."
 ---
 

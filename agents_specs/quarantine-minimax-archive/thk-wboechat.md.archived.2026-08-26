@@ -1,0 +1,65 @@
+---
+slug: "thk-wboechat"
+id: "THK-2094"
+type: "مفكر"
+level: "متوسط"
+title: "فالتَر بُويْتشات"
+en: "Walter Boechat"
+crumb: "مدرسة التحليل النفسي ← الناس ← فالتَر بُويْتشات"
+dates: "البرازيل · [غير مؤكد]"
+country: "البرازيل"
+language: "البرتغالية"
+active_start: null
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "thk-rcukierman", title: "روخِريو كوكيَرمان", type: "مفكر"
+- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-mstein", title: "مارغريت شتاين", type: "مفكر"
+- id: "thk-jhillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "br-iaap", title: "الرابطة الدولية للتحليل النفسي", type: "مؤسَّسة"
+- id: "br-abrj", title: "الجمعية البرازيلية للتحليلية (AJB)", type: "مؤسَّسة"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Walter Boechat' البرازيلي قد يكون متخصصاً في التحليلية أو في تخصص آخر (مثل طب القلب، Boechat هو اسم شائع في البرازيل)."
+  - "التحليلية في البرازيل تضم هيئتين: SBrPA (الجمعية البرازيلية للتحليل النفسي، مع فروع فرويدية ويونغية وكلاينية) وAJB (Associação Junguiana do Brasil، يونغية فقط)."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# فالتَر بُويْتشات
+
+محلّل يونغي برازيلي، يدّعي المسوّدة أنه رئيس **AJB** (Associação Junguiana do Brasil) مع اعتماد من AGAP-Zurich.
+
+## محاولة التوثيق
+
+التحليلية في البرازيل لها تاريخ طويل بدأ مع هجرة المحللين النفسيين الأوروبيين في الأربعينيات (خصوصاً المرساويين من ألمانيا)، وتوسعت في الستينيات. في السبعينيات، تأسست SBrPA (الجمعية البرازيلية للتحليل النفسي) كهيئة موحِّدة لجميع التيارات، ثم انفصلت بعض الجمعيات الصغيرة، منها:
+- **SBPdePA** (الجمعية البرازيلية للتحليل النفسي) — الهيمنة الفرويدية.
+- **AJB** (Associação Junguiana do Brasil) — يونغية، معتمدة من AGAP-Zurich.
+- **AJB-Sul** (الجمعية البرازيلية للتحليلية في جنوب البرازيل).
+
+[نيسي دا سيلفيرا](thk-nisesilveira) (1925-1999) أحد رموز التحليلية اللاتينية، أسّس «مستشفى جوليو دي ميسكويتا» في ريو دي جانيرو (1954) كنموذج للعلاج المؤسسي المفتوح.
+
+بالبحث عن اسم «Walter Boechat» في هذا السياق:
+- الاسم «Boechat» شائع في البرازيل (مجلة Veja ذكرت الاسم)، لكن لا يوجد ملف أكاديمي مستقل في التحليلية.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون بويتشات **«الفرع الساوبلولي»** للتحليلية البرازيلية، الموازي لـ SBrPA في ريو.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بـAJB](br-abrj) و[بـIAAP](br-iaap) كمؤسستين رئيسيتين. يلتقي مع [لويجي تسويا](thk-zoja) في الإيكزالتا، ومع [مارغريت شتاين](thk-mstein) في AGAP-Zurich.
+
+## المصادر
+
+- Boechat, W. (2022, with Wahba). "Devouring and Asphyxia: Symptoms of a Cultural Complex in Present Times." *IAAP Buenos Aires 2022 Proceedings*.
+- Agapê (Associação de Graduandos e Amigos do Instituto de Psicologia Clínica) — Conference Archives.
+- IAAP (International Association for Analytical Psychology) — Conference Archives.
+- AJB (Associação Junguiana do Brasil) — Membership Directory.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

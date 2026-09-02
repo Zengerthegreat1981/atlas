@@ -9,14 +9,18 @@ en: "IFS Self Leadership"
 crumb: "علم النفس ← مدارس العلاج ← IFS ← قيادة الذات"
 active_start: 1990
 active_end: "مستمر"
+evidence_level: "probably-efficacious"
 edges:
-- rel: "belongs_to", target: "sch-internal-family-systems", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-richard-schwartz", target_type: "مفكر"
+related:
+- id: "tec-ifs", title: "علاج منظومة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
+- id: "tec-ifs-unblending-protectors", title: "بروتوكول فك الاندماج والتحاور مع الحماة في IFS", type: "تقنية/تدخل علاجي"
+- id: "con-ifs-parts-self-leadership", title: "نموذج الأجزاء والذات القائدة في نظام الأسرة الداخلية (IFS)", type: "مفهوم"
+- id: "tec-empty-chair-dialogue-eft", title: "تقنية الكرسي الفارغ لحسم الأعمال غير المكتملة في EFT", type: "تقنية/تدخل علاجي"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ريتشارد شوارتز (thk-rschwartz)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: نظام الأسرة الداخلية (IFS) (con-ifs)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الذات في IFS (con-ifs-self)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الأجزاء في IFS (con-ifs-parts)"
-  - "الفرق بين Self-Leadership وSelf-Energy في المراحل المتقدمة غير مفصّل."
+  - "الفرق بين Self-Leadership وSelf-Energy في المراحل المتقدمة غير مفصّل في المصادر المتاحة."
+  - "لا تتوفر دراسة تحقق (validation study) منشورة بعينة محددة لمقياس Self-Energy (SESI) المذكور في المتن."
 ---
 # قيادة الذات (Self Leadership) في IFS
 
@@ -86,8 +90,7 @@ gaps:
 ## القياس
 
 ### مقياس IFS للقيادة الذاتية
-- **مقياس Self-Energy** (SESI): يقيس سمات الذات الثمانية.
-- **مقياس Internal Family Systems** (IFS-IFS): يقيس التكامل الداخلي.
+- **مقياس Self-Energy** (Self-Energy Scale/Inventory, SESI): أداة تقييم ذاتي طُوّرت في أبحاث IFS لقياس مدى حضور سمات الذات الثمانية لدى المسترشد أثناء الجلسة.
 
 ## التطبيقات
 
@@ -97,11 +100,15 @@ gaps:
 - **الإدمان**.
 - **القلق** والاكتئاب.
 
-## المؤلفات
+## المصادر
 
-- Schwartz, R. (1995). *Internal Family Systems Therapy*.
-- Schwartz, R. (2021). *No Bad Parts*.
-- Holmes, T. (2007). *Parts Work: An Illustrated Guide*.
+- Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford Press.
+- Schwartz, R. C. (2021). *No Bad Parts*. Sounds True.
+- Holmes, T. (2007). *Parts Work: An Illustrated Guide to Your Inner Life*. GestaltPress.
+
+## العلاقة بتقنيات IFS الأخرى والتقنية المنافسة
+
+بلوغ قيادة الذات يفترض مسبقاً تطبيق **بروتوكول فك الاندماج والتحاور مع الحماة في IFS**، إذ لا يمكن للذات أن تقود الأجزاء قبل أن تنفصل طاقتها عنها أولاً؛ والحالتان معاً تجسيد إكلينيكي لـ**نموذج الأجزاء والذات القائدة في نظام الأسرة الداخلية (IFS)** الذي وضع شوارتز أساسه النظري. تتقاطع تقنية «مقعد الشاهد» هنا مع **تقنية الكرسي الفارغ لحسم الأعمال غير المكتملة في EFT** التي وضعها فريتز بيرلز ضمن العلاج الجشطالتي: كلتاهما تُجلس جزءاً من الذات في موقع منفصل للحوار معه، لكن الكرسي الفارغ يُدار غالباً كتقنية جلسة واحدة موجّهة نحو إنهاء موقف محدد، بينما قيادة الذات في IFS عملية تراكمية عبر جلسات متعددة هدفها إعادة تنظيم المنظومة الداخلية كلها.
 
 ## الإرث
 

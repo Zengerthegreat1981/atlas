@@ -13,18 +13,14 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج بجلسة واحدة", target_type: "تيار"
+- rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
 - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
 - id: "thk-wdryden", title: "ويندي دريدن", type: "مفكر"
 - id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"
 - id: "thk-wbennett", title: "وين بينيت", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موشيه تالمون (thk-mtalmon)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موشيه تالمون (thk-mtalmon)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وين بينيت (thk-wbennett)."
+  - "سنة ميلاده لم تظهر في أي من المصادر المتاحة (سيرته المهنية توثّق نشاطه من التسعينيات فقط)."
 ---
 
 # مايكل ف. هويت
@@ -50,3 +46,8 @@ gaps:
 
 ## القيد
 - **نموذج SST** يحتاج تكيفاً دقيقاً مع الحالات الأكثر تعقيداً، ولا يصلح كنموذج موحّد للجميع.
+
+## المصادر
+- Guilford Press، صفحة المؤلف الرسمية (guilford.com/author/Michael-F-Hoyt)
+- Psychotherapy Networker، سيرة ومقالات هويت
+- ResearchGate، أعمال مايكل ف. هويت (Kaiser Permanente)

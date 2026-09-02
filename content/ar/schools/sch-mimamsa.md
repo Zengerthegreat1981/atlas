@@ -10,10 +10,9 @@ crumb: "الفلسفة ← الهند ← المدارس الأرثوذكسية 
 dates: "الهند · من القرن 2 ق.م إلى القرن 9 م"
 country: "شبه القارة الهندية"
 language: "السنسكريتية"
+cultural_origin: "indian"
 active_start: -200
 active_end: 900
-edges:
-- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
 related:
 - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
 - id: "sch-vedic", title: "الفكر الفيدي الطقسي", type: "مدرسة"
@@ -61,3 +60,10 @@ gaps:
 ## القيد
 
 - تأخرت في الإجابة عن السؤال الميتافيزيقي (هل الكون حقيقة أم مظهر؟)، وهو ما تبنته فيدانتا لاحقاً.
+
+## المصادر
+
+- Francis X. Clooney, *Thinking Ritually: Rediscovering the Pūrva Mīmāṃsā of Jaimini* (De Nobili Research Library, 1990).
+- Ganganatha Jha (trans.), *Śābara-Bhāṣya* (Oriental Institute Baroda, 1933–1936).
+- Surendranath Dasgupta, *A History of Indian Philosophy*, vol. 5 (Cambridge University Press, 1955).
+- John Taber, *A Hindu Critique of Buddhist Epistemology: Kumārila on Perception* (RoutledgeCurzon, 2005).

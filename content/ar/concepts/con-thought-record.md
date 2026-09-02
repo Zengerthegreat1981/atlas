@@ -13,12 +13,12 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-beck", target_type: "مفكر"
 related:
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
 - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
-- id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجلّ أفكار CBT (تقنية)", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من Burns (1980) بعد."
   - "الفرق بين سجل الأفكار الكلاسيكي لبيك (3 أعمدة) والنسخة المُوسّعة (7 أعمدة) لـ بيرنز يحتاج تحقق."
@@ -71,3 +71,9 @@ gaps:
 ## الإرث
 
 بات السجلّ الفكري رمزاً للعلاج المعرفي السلوكي، وأثّر في تصميم تطبيقات الصحة النفسية الرقمية (مثل MoodGYM وMoodKit)، ولا يزال الإطار المرجعي لتعليم CBT ذاتياً ومهنياً.
+
+## المصادر
+
+- Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press.
+- Burns, D. D. (1980). *Feeling Good: The New Mood Therapy*. William Morrow.
+- Smyth, J. M., & Greenberg, M. A. (1993). "Expressive Writing and Health." *Journal of Consulting and Clinical Psychology*.

@@ -12,32 +12,27 @@ active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-- id: "tec-cbt-beh-graded-task-assignment", title: "تكليف المهام المتدرّجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة ميزان القرار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-smart-goal-setting", title: "تحديد أهداف SMART", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-prioritization-time-management", title: "ترتيب الأولويات وإدارة الوقت", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبّل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-ca-tiny-steps-approach", title: "نهج الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-ca-tiny-steps-approach", title: "أسلوب الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-pros-and-cons", title: "الإيجابيات والسلبيات", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "syn-obsessive-thoughts", title: "الأفكار الوسواسية", type: "متلازمة"
 - id: "syn-diogenes", title: "متلازمة ديوجين (الإهمال الذاتي الشديد والاكتناز القهري لدى المسنين)", type: "متلازمة"
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تعريف الاكتناز لم تُراجع من المصدرين الأوليين."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "العلاقة بين الاكتناز والصدمات أو الفقر في السياقات منخفضة الدخل تحتاج بحثاً إضافياً."
 ---
 
@@ -126,6 +121,14 @@ ICD-11 يصنّف الاكتناز تحت 6B24، مع التركيز على صع
 - **اضطرابات الشخصية**: الشخصية التجنبية، الاعتمادية.
 - **الإعاقة الذهنية** أو صعوبات التعلّم.
 - **الصدمات والظروف المعيشية الصعبة**: خاصة في السياقات منخفضة الدخل.
+
+## السقف الإكلينيكي
+
+هذا المدخل يلتزم بوصف فئة "اضطراب الاكتناز" كما تحدّها معايير DSM-5-TR (300.3) وICD-11 (6B24) معرفياً فقط — الصعوبة المستمرة في التخلص من الممتلكات، التراكم المُعطِّل للمساحات، الضائقة الوظيفية — دون تقديم أي تقييم تشخيصي مباشر لفرد بعينه أو توجيه علاجي شخصي. الوصف هنا معرفي لا تشخيصي ولا علاجي.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الاكتناز كفئة إكلينيكية (صعوبة قهرية في التخلص من الممتلكات تسبب ضائقة أو خللاً وظيفياً وفق DSM-5-TR/ICD-11) وبين con-self-ownership ("الحق الذاتي/ملكية الذات"، مفهوم فلسفي سياسي ليبرتاري بلورته أطروحات نوزيك 1974 حول حق الفرد المطلق في ذاته وما يملكه) — الأخير أطروحة معيارية عن مشروعية حيازة الممتلكات والسيطرة عليها، بينما اضطراب الاكتناز ظاهرة إكلينيكية وظيفية لا تتعلق بشرعية الملكية بل بعجز عن اتخاذ قرار التخلص منها رغم معرفة الفرد أحياناً بضررها.
 
 ## ملاحظات ثقافية
 

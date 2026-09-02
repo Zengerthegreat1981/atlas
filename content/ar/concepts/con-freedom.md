@@ -12,18 +12,26 @@ active_end: "مستمر"
 edges:
 - rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-- id: "thk-beauvoir", title: "بوفوار", type: "مفكر"
-- id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
-- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
-- id: "tec-leadership-diamond-koestenbaum", title: "الألماسة القيادية الوجودية (The Leadership Diamond)", type: "تقنية/تدخل علاجي"
+- id: "con-facticity", title: "الفعلانية (Facticité): واقع المَوْجود الذي لا يُمكن تَغييره", type: "مفهوم"
+- id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "المواضع النصية الدقيقة (أرقام الصفحات) لكل صياغة في الجدول المقارن — لم تُدخل."
+  - "خصومة الفردانية (dbt-individualism) وأورتيغا إي غاسيت أُزيلا من related لأنهما غير مذكورين في المتن، ولأن العنوان المسجَّل لأورتيغا سابقاً (خوسيه أورتيجا إي جاسيت) لا يطابق عنوان ملفه الفعلي (خوسيه أورتيغا إي غاسيت)."
 ---
 # الحرية
 
-المفهوم الذي يجمع المدرسة كلها ظاهرياً، ويفرّقها فعلياً — لأن كل واحد يضع لها حداً مختلفاً.
+المفهوم الذي يجمع **الوجودية العلاجية** (sch-existential-therapy) كلها ظاهرياً، ويفرّقها فعلياً — لأن كل واحد يضع لها حداً مختلفاً.
 
 ## تحرير المفهوم
 

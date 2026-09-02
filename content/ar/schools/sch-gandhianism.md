@@ -10,10 +10,11 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← الغاندية"
 dates: "الهند · من 1915 إلى 1948"
 country: "الهند"
 language: "الإنجليزية، الهندية، الغوجاراتية"
+cultural_origin: "indian"
 active_start: 1915
 active_end: 1948
 edges:
-- rel: "evolved_from", target: "Bhakti", target_type: "تيار"
+- rel: "evolved_from", target: "sch-bhakti-movement", target_type: "مدرسة"
 related:
 - id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
 - id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
@@ -57,3 +58,9 @@ gaps:
 
 - تواجه انتقادات بسبب «طوباوية» اللاعنف.
 - تواجه انتقادات بسبب تجاهل التهميش الطبقي.
+
+## المصادر
+
+- Gandhi, Mohandas K. *Hind Swaraj or Indian Home Rule*. 1909.
+- Gandhi, Mohandas K. *An Autobiography: The Story of My Experiments with Truth*. Navajivan Publishing House, 1927.
+- Bondurant, Joan V. *Conquest of Violence: The Gandhian Philosophy of Conflict*. Princeton University Press, 1958.

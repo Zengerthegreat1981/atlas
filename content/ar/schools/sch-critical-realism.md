@@ -10,25 +10,24 @@ crumb: "الفلسفة ← التحليلية ← الواقعية النقدي�
 dates: "الولايات المتحدة ثم المملكة المتحدة · من 1916 إلى الآن"
 country: "الولايات المتحدة ثم المملكة المتحدة"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1916
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-new-realism", target_type: "مدرسة"
-- rel: "split_into", target: "الواقعية النقدية الأنجلو-أمريكية (دعايت ورفاقه)", target_type: "تيار"
-- rel: "split_into", target: "الواقعية النقدية المعاصرة (Bhaskar)", target_type: "تيار"
 related:
 - id: "thk-jmcdowell", title: "جون ماكدوويل", type: "مفكر"
 - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
 - id: "con-sense-datum", title: "البيانات الحسية (Sense-Datum)", type: "مفهوم"
-- id: "thk-rogers", title: "أرثر ك. روجرز", type: "مفكر"
 - id: "con-myth-of-given", title: "خرافة المعطيات (Myth of the Given)", type: "مفهوم"
 gaps:
+  - "رابط مقترح لـ«أرثر ك. روجرز» (Arthur K. Rogers، أحد مؤلفي Essays in Critical Realism 1920) أُزيل — لا يوجد له ملف مفكر في الأطلس؛ الـslug thk-rogers مُستخدم بالفعل لكارل روجرز (Carl Rogers) شخص مختلف تماماً، ولا يصح استخدامه له."
   - "رابط مقترح لـ«آرثر كين دريايت» (thk-drayt) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«راي بهاسكار» (thk-bhaskar) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«راي بهاسكار» (thk-bhaskkar) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفرق الدقيق بين «الواقعية النقدية الأنجلو-أمريكية» (1916–1927) و«الواقعية النقدية المعاصرة» عند بهاسكار (1975) في 'الواقعية العلمية الممكنة' لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من بهاسكار 'الواقعية العلمية الممكنة' (A Realist Theory of Science, 1975) في صياغته المنقحة."
+  - "اقتباس بهاسكار من 'الواقعية العلمية الممكنة' (A Realist Theory of Science, 1975) في صياغته المنقحة لم يُراجع من نسخة الكتاب الأصلية بعد."
   - "علاقة الحركة بعلم الاجتماع العلمي المعاصر (Latour, 1987) لم تُراجع."
 ---
 
@@ -74,3 +73,11 @@ gaps:
 
 - يستحق التمييز بين «الواقعية النقدية الأنجلو-أمريكية» و«الواقعية النقدية المعاصرة» فصلاً مستقلاً.
 - علاقة بهاسكار بالماركسية التحليلية (Analytical Marxism) تستحق توسعاً موثّقاً.
+
+## المصادر
+
+- Drake, D., Lovejoy, A. O., Pratt, J. B., Rogers, A. K., Santayana, G., Sellars, R. W., & Strong, C. A. (1920). *Essays in Critical Realism: A Co-operative Study of the Problem of Knowledge*. Macmillan.
+- Sellars, R. W. (1916). *Critical Realism: A Study of the Nature and Conditions of Knowledge*. Rand McNally.
+- Bhaskar, R. (1975). *A Realist Theory of Science*. Leeds Books.
+- Bhaskar, R. (1979). *The Possibility of Naturalism: A Philosophical Critique of the Contemporary Human Sciences*. Harvester Press.
+- Sayer, A. (1992). *Method in Social Science: A Realist Approach*. Routledge.

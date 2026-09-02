@@ -10,10 +10,13 @@ en: "Mating in Captivity"
 crumb: "علم النفس الشعبي والعلاج الزواجي ← الأعمال ← التزاوج في الأسر"
 dates: "2006 · إستر بيريل"
 language: "الإنجليزية"
+author: "إستر بيريل"
+author_slug: "thk-esther-perel"
+publication_year: 2006
+original_language: "الإنجليزية"
 active_start: 2006
 active_end: 2006
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعلاج الزواجي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-esther-perel", target_type: "مفكر"
 related:
 - id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
@@ -21,7 +24,6 @@ related:
 - id: "syn-hypoactive-sexual-desire", title: "متلازمة نقص الرغبة الجنسية التثبيطية (HSDD)", type: "متلازمة"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التزاوج في الأسر: سيكولوجيا الرغبة في العلاقات الطويلة
@@ -35,7 +37,3 @@ gaps:
 ## إعادة تعريف الإيروسية في الزواج
 
 الانتقال من لوم الذات إلى فهم الديناميات النفسية الطبيعية للحب طويل الأمد.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

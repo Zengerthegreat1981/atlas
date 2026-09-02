@@ -12,16 +12,14 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس المعرفي والاقتصاد السلوكي", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-kahneman", title: "دانيال كانمن", type: "مفكر"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "thk-rherrnstein", title: "ريتشارد سيرنشتاين", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "wrk-nudge", title: "سقزة: تحسين القرارات المتعلقة بالصحة والثروة والسعادة", type: "عمل / كتاب"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد ملف مدرسة sch- مستقل لـ'الاقتصاد السلوكي' في الأطلس بعد؛ سُجّلت في agents_specs/missing-schools.md، فلم يُكتب رابط belongs_to له."
 ---
 
 # ريتشارد هـ. ثالر
@@ -43,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-«النَوْش» (2008) · مقالات في J. Economic Perspectives.
+«النَوْش» (Nudge: Improving Decisions About Health, Wealth, and Happiness, 2008، مع كاس صنستاين).
+
+## المصادر
+
+- Wikipedia (Richard Thaler): https://en.wikipedia.org/wiki/Richard_Thaler
+- Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
+- The Nobel Prize (2017), Richard H. Thaler: https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/

@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: "psychology"
 related:
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "ins-ham-d", title: "مقياس هاملتون لتقييم الاكتئاب", type: "أداة قياس"
 - id: "dis-catatonia", title: "الكاتاتونيا أو متلازمة الجمود الحركي", type: "اضطراب/حالة إكلينيكية"
 - id: "evt-cerletti-bini-first-ect-1938", title: "أول تطبيق سريري للعلاج بالصدمة الكهربائية بواسطة سيرليتي وبيني في روما", type: "حدث تاريخي"

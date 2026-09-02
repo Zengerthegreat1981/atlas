@@ -13,7 +13,7 @@ language: "الإسبانية"
 active_start: 1942
 active_end: 2004
 edges:
-- rel: "belongs_to", target: "فلسفة أمريكا اللاتينية (الفلسفة الإيبيرية-الأمريكية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-liberation-philosophy", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

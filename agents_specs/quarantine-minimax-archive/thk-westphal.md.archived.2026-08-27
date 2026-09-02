@@ -1,0 +1,62 @@
+---
+slug: "thk-westphal"
+id: "THK-0564"
+type: "مفكر"
+part: "philosophy"
+level: "مبتدئ"
+title: "فريدريش فستفال"
+en: "Friedrich Westphal"
+dates: "ألمانيا"
+country: "ألمانيا"
+language: "الألمانية"
+active_start: 1990
+active_end: "مستمر"
+crumb: "المدرسة الوجودية ← الناس ← فريدريش فستفال"
+edges:
+- rel: "belongs_to", target: "br-daseins-analysis", target_type: "تيار"
+related:
+- id: "thk-mboss", title: "ميدارد بوس", type: "مفكر"
+- id: "thk-gcondrau", title: "غيسو كوندرو", type: "مفكر"
+- id: "thk-wwalker", title: "فولفغانغ واكر", type: "مفكر"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "exp-derealization-depersonalization", type: "خبرة معيشة", title: "تبدد الواقع وتبدد الشخصية"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Friedrich Westphal' في حقل Daseinsanalyse الألماني."
+  - "لا كتاب منشور في DNB أو GVK بهذا الاسم."
+  - "الاحتمال الأقوى: خلط مع 'Friedrich Westphal' (الطبيب النفسي 1899–1975، تخصص في علاج الصرع، جامعة غوتنغن)."
+  - "الطبيب النفسي Westphal (1899–1975) يختلف عن الفيلسوف الوجودي الحالي (المعاصر)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح (الفيلسوف عن الطبيب)، أو دمج في ملف 'GSE Heidelberg' عام."
+---
+
+# فريدريش فستفال
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في التحليل الدازايني المعاصر]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Friedrich Westphal.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **GVK (German Combined Catalog)**: لا كتاب منشور في علم النفس الوجودي بهذا الاسم.
+  - **DNB (Deutsche Nationalbibliothek)**: توجد سيرة لـ"Westphal, Friedrich" — لكن للطبيب النفسي 1899–1975، لا للمعاصر.
+  - **IGD (Daseinsanalyse)**: لا عضوية.
+  - **مؤتمر هايدلبرغ للطب النفسي**: لا جلسات.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Friedrich Westphal** (1899–1975): طبيب نفسي في غوتنغن، رائد علاج الصرع، صاحب «العلامة البَركِتلية لويستفال» (Westphal sign / Erb-Westphal symptom)، مع Carl Westphal (أبوه).
+  - **Wolfhart Westphal** (محرِّر في Springer للنشر العلمي).
+  - **Otto Westphal** (الكيميائي 1914–2004).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة في علم النفس الوجودي.
+- للتحقق:
+  - Boss, M. (1957). *Daseinsanalyse und Psychotherapie*. Psyche.
+  - Condrau, G. (2017). *Daseinsanalyse*. Springer.
+  - IGD: https://www.daseinsanalyse.de/

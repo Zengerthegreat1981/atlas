@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kaupapa-maori", target_type: "مدرسة"
 related:
 - id: "thk-trore", title: "ماسون دوري", type: "مفكر"
 - id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث", type: "مفكر"

@@ -12,15 +12,17 @@ dates: "1990 · ميهالي تشيكسينتميهالي"
 language: "الإنجليزية"
 active_start: 1990
 active_end: 1990
+author: "ميهاي تشيكسنتميهاي"
+author_slug: "thk-csikszentmihalyi"
+publication_year: 1990
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي وعلم نفس الإبداع", target_type: "مدرسة"
-- rel: "written_by", target: "ميهالي تشيكسينتميهالي", target_type: "مفكر"
+- rel: "written_by", target: "thk-csikszentmihalyi", target_type: "مفكر"
 related:
 - id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق (Flow State)", type: "مفهوم"
-- id: "thk-csikszentmihalyi", title: "ميهالي تشيكسينتميهالي", type: "مفكر"
+- id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التدفق: سيكولوجيا التجربة المثلى
@@ -34,7 +36,3 @@ gaps:
 ## الأثر في العمل والرياضة والفن
 
 إعادة هيكلة بيئات التعلم وتدريب الرياضيين المحترفين لتوليد حالات الأداء الأقصى.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -13,7 +13,7 @@ active_start: 1921
 active_end: 1970
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الفرويدية الجديدة/التحليل البيني الثقافي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ego-psychology", target_type: "تيار"
 related:
 - id: "br-control-mastery", title: "نظرية السيطرة والإتقان", type: "تيار"
 - id: "br-modern-conflict", title: "نظرية الصراع الحديثة — التحليل النفسي", type: "تيار"

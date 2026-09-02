@@ -11,13 +11,16 @@ crumb: "علم النفس الصحي ← الأعمال ← شفاء"
 dates: "2020 · جيفري ريديجر"
 language: "الإنجليزية"
 active_start: 2020
-active_end: 2020
+active_end: 2023
+author: "جيفري ريديجر"
+author_slug: "thk-jeffrey-rediger"
+publication_year: 2020
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الصحي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-jeffrey-rediger", target_type: "مفكر"
 related:
 - id: "thk-jeffrey-rediger", title: "جيفري ريديجر", type: "مفكر"
-- id: "con-mind-body", title: "عقل-جسم", type: "مفهوم"
+- id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
   - "الجذور اللاهوتية-المسيحية للكاتبة (راعي كنيسة معمدانية) لم تُربط بمواقفه العلمية."
   - "النقد المعرفي لدراسات 'الشفاء التلقائي' (Spontaneous Remission) لم يُمثَّل بعمق."

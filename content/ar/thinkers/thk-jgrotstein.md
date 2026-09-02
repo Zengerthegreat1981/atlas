@@ -14,7 +14,7 @@ active_end: 2015
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "belongs_to", target: "مدرسة Bion", target_type: "تيار"
+- rel: "belongs_to", target: "br-bionian", target_type: "تيار"
 related:
 - id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "تيار"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
@@ -32,7 +32,7 @@ gaps:
 
 - **بُعدية التجربة التحليلية النفسية** (The Dimensionality of the Psychoanalytic Experience، 1977) — طرح مفهوم البُعدية بوصفه مفهوماً محورياً في التحليل النفسي المعاصر: للتجربة التحليلية أبعاد متعددة تشمل الزمان والمكان والمعنى.
 - **بيون والتجربة التحليلية النفسية** (Bion and the Psychoanalytic Experience، 1981) — تطبيق مفاهيم بيون على التجربة التحليلية المعاصرة.
-- **لكن في الوقت نفسه...** (But at the Same Time…، 1981) — طرح مفهوم "المعروف غير المُفكَّر فيه" (The Unthought Known) بوصفه مفهوماً محورياً في التحليل النفسي المعاصر، بشكل مستقل عن بولاس.
+- **لكن في الوقت نفسه...** (But at the Same Time…، 1981) — تناول فيه أفكاراً قريبة من مفهوم «المعروف غير المُفكَّر فيه»؛ نسبة صياغة المفهوم إليه بشكل مستقل عن كريستوفر بولاس غير موثّقة.
 
 ## موقعه من التيار
 

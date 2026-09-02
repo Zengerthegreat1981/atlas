@@ -10,10 +10,10 @@ dates: "ألمانيا/الولايات المتحدة · 1921–2006"
 country: "الولايات المتحدة"
 language: "إنجليزية وألمانية"
 active_start: 1955
-active_end: 2000
+active_end: 2006
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "تيار"
 related:
 - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
 gaps:

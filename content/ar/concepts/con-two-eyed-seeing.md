@@ -101,8 +101,3 @@ gaps:
 - Marshall, A. (2010). «Two-Eyed Seeing: An Indigenous approach to environmental education». *Green Teacher*, 91, 24-29.
 - Bartlett, C., Marshall, M., & Marshall, A. (2004). «Two-Eyed Seeing: Research and pedagogy». Conference paper.
 
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-indigenous-psychology** (علم نفس الشعوب الأصلية) كمفهوم مؤسِّس.
-- مرتبط بـ**con-emic-etic** (الإيميتيك والإتيك) كإطار نظري أوسع.
-- يستحق عناصر `thk-cbartlett` و`thk-amarshall` كمفكِّرين مؤسِّسين.

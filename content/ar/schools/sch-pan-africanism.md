@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الأفريقية ← عموم أفريقيا"
 dates: "أفريقيا، الكاريبي، أمريكا · من 1900 إلى اليوم"
 country: "متعددة"
 language: "الإنجليزية، الفرنسية"
+cultural_origin: "african"
 active_start: 1900
 active_end: "مستمر"
 edges:
@@ -55,3 +56,10 @@ gaps:
 ## القيد
 
 - تُهمل أحياناً التعددية داخل القارة (الانقسامات العرقية).
+
+## المصادر
+
+- Du Bois, W.E.B. *The Souls of Black Folk*. 1903.
+- Padmore, George. *Pan-Africanism or Communism?*. Dennis Dobson, 1956.
+- Nkrumah, Kwame. *Consciencism: Philosophy and Ideology for De-Colonization*. 1964.
+- Diop, Cheikh Anta. *The African Origin of Civilization: Myth or Reality*. Lawrence Hill, 1974.

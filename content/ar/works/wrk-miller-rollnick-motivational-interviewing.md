@@ -9,6 +9,10 @@ en: "Motivational Interviewing: Helping People Change by William R. Miller and S
 crumb: "كتب علم النفس السلوكي والدافعية ← أمهات الأعمال ← المقابلة التحفيزية"
 active_start: null
 active_end: "مستمر"
+author: "ويليام ميلر وستيفن رولنيك"
+author_slug: "thk-wmiller"
+publication_year: 1991
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-motivational-interviewing", target_type: "مدرسة"
 related:

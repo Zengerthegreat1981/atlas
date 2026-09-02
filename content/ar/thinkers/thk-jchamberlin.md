@@ -13,7 +13,7 @@ active_start: 1975
 active_end: 2010
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الدعم النظير", target_type: "تيار"
+- rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
 - id: "br-peer-support", title: "الدعم النظير", type: "تيار"
 - id: "thk-ldavidson", title: "لاري ديفيدسون", type: "مفكر"

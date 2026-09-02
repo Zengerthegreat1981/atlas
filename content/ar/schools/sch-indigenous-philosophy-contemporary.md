@@ -12,8 +12,7 @@ country: "متعددة (أمريكا اللاتينية، أوقيانوسيا،
 language: "متعددة"
 active_start: 1970
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "فلسفات السكان الأصليين", target_type: "مظلة"
+cultural_origin: "indigenous"
 related:
 - id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
 - id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
@@ -58,3 +57,10 @@ gaps:
 
 - تواجه انتقادات بسبب التعميم (تنوع السكان الأصليين).
 - تواجه انتقادات بسبب «رومانسية» الماضي.
+
+## المصادر
+
+- Vine Deloria Jr., *God Is Red: A Native View of Religion* (New York: Grosset & Dunlap, 1972).
+- Linda Tuhiwai Smith, *Decolonizing Methodologies: Research and Indigenous Peoples* (London: Zed Books, 1999).
+- Rauna Kuokkanen, *Reshaping the University: Responsibility, Indigenous Epistemes, and the Logic of the Gift* (Vancouver: UBC Press, 2007).
+- Robin Wall Kimmerer, *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Milkweed Editions, 2013).

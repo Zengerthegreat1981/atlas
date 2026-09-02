@@ -7,6 +7,10 @@ title: "مفهوم التهكم (مع إشارة خاصة لسقراط)"
 en: "The Concept of Irony (Kierkegaard, 1841)"
 crumb: "المدرسة الوجودية ← الأعمال ← مفهوم التهكم (كيركيغارد)"
 part: "psychology"
+author: "سورين كيركيغارد"
+author_slug: "thk-kierkegaard"
+publication_year: 1841
+original_language: "الدنماركية"
 active_start: null
 active_end: "مستمر"
 edges:

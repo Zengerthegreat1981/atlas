@@ -12,11 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
-- id: "thk-dsiegel", title: "دانيال سيغل", type: "مفكر"
-- id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة", type: "مفهوم"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
+- id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورغس (thk-sporges)"
-  - "الفرق بين Window of Tolerance وZone of Optimal Functioning في الأبحاث الرياضية موثّق."
+  - "الفرق بين Window of Tolerance وZone of Optimal Functioning في الأبحاث الرياضية غير موثّق هنا."
 ---
 
 # نافذة التحمل (Window of Tolerance)
@@ -139,6 +139,7 @@ gaps:
 - **التعلق** غير الآمن = نافذة ضيقة.
 
 ### 2. نظرية Polyvagal
+نظرية **ستيفن بورجِس** (Stephen Porges) هي الإطار الفسيولوجي الذي يفسّر تنقّل الفرد بين حالات النافذة:
 - **المُبهَم** المُغلف يوسع النافذة.
 - **الودّي** يضيّقها.
 - **غير المُغلف** يخفضها.

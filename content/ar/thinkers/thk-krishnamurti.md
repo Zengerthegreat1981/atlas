@@ -12,8 +12,7 @@ active_start: 1922
 active_end: 1986
 part: "psychology"
 crumb: "الفكر الهندي المعاصر ← خارج التقاليد ← جيدو كريشنامورتي"
-edges:
-- rel: "influenced", target: "الفكر الهندي المعاصر", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
 - id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"

@@ -11,32 +11,68 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-edeci", title: "إدوارد ديسي", type: "مفكر"
-- id: "thk-csikszentmihalyi", title: "ميهاي سيكسنتميهالي", type: "مفكر"
+- id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:
-  - "تفاصيل تطبيق النظرية (SDT) في مجال الصحة لم تُراجع بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد (1950s) تقريبية. وُلد راين في خمسينيات القرن العشرين."
+  - "مقالة 1985 الأصلية مع ديسي في *Journal of Personality and Social Psychology*."
+  - "رابط لفرانك رِك أُزيل لعدم وجود ملف thk-frick فعلاً في الأطلس."
+  - "روابط لمفاهيم نظرية تقرير المصير الذاتي والاستقلالية والدافعية الجوهرية أُزيلت لعدم وجود ملفات con- مقابلة فعلاً في الأطلس."
 ---
 
 # ريتشارد راين
 
-عالم نفس أمريكي، مؤسس مشارك لنظرية تقرير المصير الذاتي (Self-Determination Theory، SDT).
+عالم نفس أمريكي معاصر، أستاذ في **جامعة روتشستر** (University of Rochester)، **مؤسِّس مشارك** لـ **«نظرية تقرير المصير الذاتي»** (*Self-Determination Theory, SDT*).
 
 ## ما أعطاه
 
-طوّر مع إدوارد ديسي عام 1985 نظرية تقرير المصير الذاتي، التي تقوم على ثلاث حاجات أساسية تشكّل أساس التحفيز (Motivation) والصحة النفسية (Well-being). ووسّع في مقالاته اللاحقة (أوائل الألفية) تطبيق النظرية على الصحة النفسية والعلاقات، ثم طبّقها في العقد التالي على التعليم في أعماله عن دعم الاستقلالية في التعليم (Autonomy Support in Education، عقد 2010).
+طوّر مع [إدوارد ديسي](thk-edeci) عام **1985** في مقالة «Intrinsic Motivation and Self-Determination in Human Behavior» في *Journal of Personality and Social Psychology*، SDT، التي تقوم على **ثلاث حاجات أساسية** تشكّل أساس التحفيز (Motivation) والصحة النفسية (Well-being):
+
+- **الاستقلالية** (Autonomy): حاجة الإنسان لأن يشعر أنه يختار أفعاله.
+- **الكفاءة** (Competence): حاجة الإنسان لأن يشعر أنه ينجح.
+- **الانتماء/التواصل** (Relatedness): حاجة الإنسان للارتباط بالآخرين.
+
+وسّع في مقالاته اللاحقة (أوائل الألفية) تطبيق النظرية على **الصحة النفسية** و**العلاقات**، ثم طَبَّقها في العقد التالي (2010s) على **التعليم** في أعماله عن **دعم الاستقلالية في التعليم** (Autonomy Support in Teaching).
 
 ## موقعه من التيار
 
-مؤسس مشارك لنظرية تقرير المصير الذاتي، متأثر بديسي وماسلو.
+مؤسِّس مشارك لـ SDT، متأثر بـ[إدوارد ديسي](thk-edeci) و[أبراهام ماسلو](thk-maslow) في التقليد الإنساني. أثر SDT في:
+- علم النفس التحفيزي المعاصر.
+- علم النفس الإيجابي (مع [سيكسنتميهالي](thk-csikszentmihalyi)).
+- علم النفس التربوي (دعم الاستقلالية).
+- علم النفس الصحي (التزام المريض بالعلاج).
 
 ## القيد
-تأثر بإدوارد ديسي، وطوّر معه نظرية تجريبية للتحفيز والصحة النفسية.
+
+نظرية SDT معروفة جيداً في الأوساط الأكاديمية الأمريكية والأوروبية، لكنها **أقل حضوراً** في الأدبيات العربية-الإسلامية. تطبيقاتها العملية في العلاج النفسي (Supportive Motivational Interviewing) تحتاج إلى نشر أوسع.
+
+## علاقته بالمفاهيم والمدارس
+
+يرتبط بنظرية تقرير المصير الذاتي والاستقلالية والدافعية الجوهرية والدافعية الخارجية و[بعلم النفس الإنساني](sch-humanistic) و[بعلم النفس الإيجابي](br-positive-psychology) كمفاهيم مركزية.
 
 ## أهم أعماله
 
-نظرية تقرير المصير الذاتي (1985، مع إدوارد ديسي) · Self-Determination Theory and the Facilitation of Intrinsic Motivation (أوائل الألفية) · Autonomy Support in Education (عقد 2010).
+- Ryan, R. M., & Deci, E. L. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.
+- Ryan, R. M., & Deci, E. L. (2000). "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being." *American Psychologist*, 55(1), 68–78.
+- Deci, E. L., & Ryan, R. M. (eds.) (2002). *Handbook of Self-Determination Research*. University of Rochester Press.
+- Reeve, J. (2009). "Why Teachers Adopt a Controlling Motivating Style Toward Students?" *Educational Psychology Review*, 21(2), 119–152.
+- Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.
+- مقالات في *Motivation and Emotion* و *Journal of Personality* و *Personality and Social Psychology Review*.
+
+## المصادر
+
+- Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory*. Guilford Press.
+- Ryan, R. M., & Deci, E. L. (2000). "Self-Determination Theory." *American Psychologist*, 55(1), 68–78.
+- Csikszentmihalyi, M. (1990). *Flow*. Harper & Row.
+- Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.
+- Maslow, A. H. (1943). "A Theory of Human Motivation." *Psychological Review*, 50(4), 370–396.
+- Rogers, C. R. (1951). *Client-Centered Therapy*. Houghton Mifflin.
+- *Motivation and Emotion* (Springer) — Editorial Board.
+- University of Rochester, Department of Psychology — Faculty Archives.
+- International Self-Determination Theory Conference — Archives.

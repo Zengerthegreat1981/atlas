@@ -54,3 +54,8 @@ gaps:
 - *نشيد الأنشاد (Shir HaShirim)*.
 - *سفر الحكمة* (Wisdom of Solomon، في التراث اليوناني، القرن 1 ق.م).
 - *حكمة يشوع بن سيراخ* (Sirach، القرن 2 ق.م).
+
+## المصادر
+
+- سفر الأمثال، سفر الجامعة، نشيد الأنشاد (العهد القديم).
+- James L. Crenshaw, *Old Testament Wisdom: An Introduction*, Westminster John Knox Press, 1998.

@@ -11,12 +11,16 @@ dates: "2003 · 2017 · ميك كوبر"
 active_start: 2003
 active_end: 2017
 part: "philosophy"
+author: "ميك كوبر"
+author_slug: "thk-cooper"
+publication_year: 2003
+original_language: "الإنجليزية"
 edges:
 - rel: "written_by", target: "thk-cooper", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-cooper", title: "كوبر", type: "مفكر"
-- id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+- id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

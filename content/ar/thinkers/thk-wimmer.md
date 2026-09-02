@@ -20,7 +20,7 @@ related:
 - id: "wrk-intercultural-philosophy-wimmer", title: "الفلسفة البين-ثقافية (Interkulturelle Philosophie)", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ طبعة IKO الأصلية لـ *Interkulturelle Philosophie* (2004) ولا المجلدات اللاحقة."
-  - "لا اقتباس مباشر موثّق منه في هذا الملف."
+  - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
 ---
 
 # فرانتس مارتن فيمر
@@ -44,3 +44,6 @@ gaps:
 - أثّر في **Raúl Fornet-Betancourt** (كوبا-ألمانيا) و**Ram Adhar Mall** (الهند-ألمانيا).
 - شكّل **الإطار الأكاديمي** لمجلات الفلسفة البين-ثقافية في أوروبا وأمريكا اللاتينية.
 - أثّر في فلسفة **Interculturalidad** في أمريكا اللاتينية.
+
+## المصادر
+- Wimmer, F. M. (2004). *Interkulturelle Philosophie*. IKO Verlag.

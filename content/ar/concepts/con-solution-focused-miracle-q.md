@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
-- id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل", type: "مدرسة"
+- id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل (SFBT)", type: "مدرسة"
 - id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 - id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"
 gaps:

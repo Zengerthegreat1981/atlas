@@ -9,6 +9,7 @@ en: "Existentialist Feminism"
 crumb: "الفلسفة ← النسوية ← الوجودية"
 dates: "فرنسا، أمريكا · من 1949 إلى اليوم"
 country: "فرنسا، الولايات المتحدة"
+cultural_origin: "french"
 language: "الفرنسية، الإنجليزية"
 active_start: 1949
 active_end: "مستمر"
@@ -16,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
 related:
-- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية (Existentialism)", type: "مدرسة"
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
 - id: "sch-feminism-phenomenological", title: "النسوية الظاهراتية", type: "مدرسة"
 - id: "wrk-second-sex", title: "الجنس الثاني (Le Deuxième Sexe, 1949)", type: "عمل / كتاب"
@@ -54,3 +55,10 @@ gaps:
 ## القيد
 
 - تواجه انتقادات بسبب أسبقيتها على «الآخر» الماركسية والما بعد الكولونيالية.
+
+## المصادر
+
+- de Beauvoir, Simone. *The Second Sex* (Le Deuxième Sexe). Gallimard, 1949 (trans. Constance Borde & Sheila Malovany-Chevallier, Vintage, 2011).
+- Young, Iris Marion. *On Female Body Experience: "Throwing Like a Girl" and Other Essays*. Oxford University Press, 2005.
+- Bartky, Sandra Lee. *Femininity and Domination: Studies in the Phenomenology of Oppression*. Routledge, 1990.
+- Irigaray, Luce. *Speculum of the Other Woman*. Cornell University Press, 1985 (trans. of *Speculum de l'autre femme*, 1974).

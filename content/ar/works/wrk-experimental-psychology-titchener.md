@@ -8,18 +8,20 @@ en: "Experimental Psychology: A Manual of Laboratory Practice"
 crumb: "البنيوية في علم النفس ← الأعمال ← علم النفس التجريبي: دليل للممارسة المخبرية"
 dates: "1901–1905 · إدوارد تيتشنر"
 active_start: 1901
-active_end: 1905
+active_end: 1913
 language: "الإنجليزية"
 part: "psychology"
+author: "إدوارد بردجِس تيتشنر"
+author_slug: "thk-titchener"
+publication_year: 1901
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "البنيوية في علم النفس", target_type: "مدرسة"
-- rel: "authored_by", target: "إدوارد تيتشنر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-titchener", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب صدر في 4 مجلّدات (1901، 1901، 1905، 1905) — التحقق من الاستشهادات لكل مجلد على حدة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Titchener في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # علم النفس التجريبي: دليل للممارسة المخبرية

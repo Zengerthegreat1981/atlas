@@ -13,10 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "trm-sorge-care-heidegger", title: "الهم والعناية", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-sorge-care-heidegger", title: "الهم والعناية (Sorge): التحديد الأنطولوجي للدازاين", type: "مصطلح لغوي متنازع عليه"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "الترجمة العربية المعتمدة لـ*Sein und Zeit* (فتحي المسكيني، 2012) لم تُراجَع نصياً هنا لمقارنة صياغة الفقرة §38 بالضبط."
 ---
 # السقوط والتهافت (Verfallenheit): تشتت الدازاين في شواغل اليومي
 
@@ -33,3 +32,13 @@ gaps:
 ## الأثر في الإرشاد النفسي الوجودي
 
 تنبيه المسترشد للحظات التهافت اليومي كفرصة لاستعادة الأصالة والتركيز على ما يمنح الحياة المعنى الحقيقي.
+
+## البنية الثلاثية للسقوط في *الكينونة والزمان* (1927)
+
+عالج هايدجر Verfallenheit ضمن الفقرات 35-38 من *Sein und Zeit* بوصفها مرتبطة ببنيتين أخريين: «الثرثرة» (Gerede) و«الفضول» (Neugier)، وكلتاهما شكلان من أشكال هروب الدازاين من مواجهة نفسه إلى انشغال زائف بالعالم العام (Das Man).
+
+## المصادر
+
+- Heidegger, M. (1927). *Sein und Zeit*. §§35-38.
+- Heidegger, M. (1962). *Being and Time* (Macquarrie, J. & Robinson, E., Trans.). Harper & Row.
+- Dreyfus, H. L. (1991). *Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I*. MIT Press.

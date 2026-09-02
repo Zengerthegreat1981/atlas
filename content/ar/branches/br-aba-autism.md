@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1960
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
 related:
 - id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
 - id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"

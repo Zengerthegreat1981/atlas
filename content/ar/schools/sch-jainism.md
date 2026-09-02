@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الهند ← المدارس غير الأرثوذك
 dates: "الهند · من القرن 6 ق.م إلى اليوم"
 country: "شبه القارة الهندية"
 language: "السنسكريتية، البراكريت (Magadhi، Ardhamagadhi)"
+cultural_origin: "indian"
 active_start: -599
 active_end: "مستمر"
 edges:
@@ -65,3 +66,10 @@ gaps:
 ## القيد
 
 - اللاعنف المطلق قد يبدو متطرفاً في السياقات العملية.
+
+## المصادر
+
+- Jaini, Padmanabh S. *The Jaina Path of Purification*. University of California Press, 1979.
+- Dundas, Paul. *The Jains*. Routledge, 2nd ed., 2002.
+- Matilal, Bimal Krishna. *The Central Philosophy of Jainism (Anekānta-vāda)*. L.D. Institute of Indology, 1981.
+- Cort, John E. *Jains in the World: Religious Values and Ideology in India*. Oxford University Press, 2001.

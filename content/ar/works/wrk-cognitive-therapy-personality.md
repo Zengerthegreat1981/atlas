@@ -11,10 +11,13 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: 1990
 part: "psychology"
+author: "آرون بيك وأرثر فريمان"
+author_slug: "thk-beck"
+publication_year: 1990
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
-- rel: "authored_by", target: "أرثر فريمان", target_type: "مفكر"
+- rel: "authored_by", target: "thk-beck", target_type: "مفكر"
 related:
 - id: "dis-dependent-personality", title: "اضطراب الشخصية الاعتمادية", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"

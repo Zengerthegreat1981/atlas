@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 2010
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"

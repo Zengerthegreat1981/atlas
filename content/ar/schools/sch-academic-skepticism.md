@@ -9,13 +9,14 @@ en: "Academic Skepticism"
 crumb: "الفلسفة ← اليونان وروما ← الشك الأكاديمي"
 dates: "أثينا (الأكاديمية) · من نحو 265 ق.م إلى 80 ق.م"
 country: "يونان (أثينا)"
+cultural_origin: "greek"
 language: "اليونانية، اللاتينية"
 active_start: -265
 active_end: -80
 edges:
 - rel: "belongs_to", target: "sch-academy-platonic", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-academy-platonic", target_type: "مدرسة"
-- rel: "evolved_into", target: "الانتقائية الهلنستية-الرومانية", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-eclecticism", target_type: "مدرسة"
 related:
 - id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
@@ -87,3 +88,10 @@ gaps:
 - لا نملك نصاً أصلياً «للأكاديمية الشكية» نفسها، فقط ما يقوله عنها الآخرون.
 - تمييز «الاحتمال الأكاديمي» (نظام كارنئادس) عن «نسبية سقراط» (القرن 5 ق.م) غير محسوم.
 - «الشك الأكاديمي» ليس «شكاً راديكالياً» — هو «احتمالية» عمليّة، أقرب إلى «البراغماتية» قبل أوانها.
+
+## المصادر
+
+- Cicero. *Academica* (trans. H. Rackham, Loeb Classical Library).
+- Long, A. A. & Sedley, D. N. *The Hellenistic Philosophers*. Cambridge University Press, 1987.
+- Sextus Empiricus. *Outlines of Pyrrhonism* (trans. R. G. Bury, Loeb Classical Library).
+- Thorsrud, Harald. *Ancient Scepticism*. Acumen, 2009.

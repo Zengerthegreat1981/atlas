@@ -10,8 +10,12 @@ en: "The Primal Scream (Janov, 1970)"
 crumb: "حركات مثيرة للجدل ← الأعمال ← الصرخة البدائية"
 dates: "1970 · آرثر يانوف"
 language: "الإنجليزية"
+author: "آرثر يانوف"
+author_slug: "thk-ajanov"
+publication_year: 1970
+original_language: "الإنجليزية"
 active_start: 1970
-active_end: 1970
+active_end: 1980
 edges:
 - rel: "belongs_to", target: "br-primal-therapy", target_type: "مدرسة"
 related:
@@ -19,7 +23,6 @@ related:
 - id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
 gaps:
   - "أرقام المبيعات (ملايين النسخ) لم تُوثّق بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الصرخة البدائية (The Primal Scream)

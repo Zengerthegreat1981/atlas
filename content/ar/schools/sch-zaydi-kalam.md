@@ -9,18 +9,17 @@ en: "Zaydi Kalām"
 crumb: "الفلسفة ← الإسلام ← علم الكلام ← الكلام الزيدي"
 dates: "العراق (الكوفة) ثم اليمن وطبرستان · من القرن 8 م إلى اليوم"
 country: "إمامة زيدية في اليمن وطبرستان والديلم"
+cultural_origin: "islamic-arabic"
 language: "العربية"
 active_start: 740
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 related:
 - id: "sch-ibadi-kalam", title: "الكلام الإباضي", type: "مدرسة"
 - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 gaps:
   - "المواقف الأولى لزيد بن علي (ت 122 هـ) في مسائل الإمامة العقدية تحتاج توثيقاً أوّلياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «الأزهار» للهادي إلى الحق أو «شرح الأزهار» لابن مفلح."
+  - "اقتباسات مباشرة موثقة من «الأزهار» للهادي إلى الحق أو «شرح الأزهار» لابن مفلح غير مراجَعة بعد من المصدر الأولي."
 ---
 
 # الكلام الزيدي
@@ -65,3 +64,9 @@ gaps:
 - الإمامة الزيدية في اليمن استمرت حتى انقلاب 1962 (ثورة سبتمبر) الذي أطاح بالملكية الزيدية وألغى نظام الإمامة.
 - لا تزال الزيدية من المذاهب الفاعلة في اليمن، ولها كتابات حديثة في الفكر السياسي الشيعي.
 - في طبرستان والديلم اختفت الإمامة الزيدية بعد القرن التاسع الهجري مع سيطرة العلويين السنّة والأتابكة.
+
+## المصادر
+
+- Madelung, Wilferd. *Der Imam al-Qāsim ibn Ibrāhīm und die Glaubenslehre der Zaiditen*. De Gruyter, 1965.
+- van Ess, Josef. *Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra*, Bd. 1. De Gruyter, 1991.
+- Haykel, Bernard. *Revival and Reform in Islam: The Legacy of Muhammad al-Shawkani*. Cambridge University Press, 2003.

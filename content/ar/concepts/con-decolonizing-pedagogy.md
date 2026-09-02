@@ -13,13 +13,13 @@ edges:
 - rel: "relates_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
-- id: "thk-imartinbaro", title: "إغناثيو مارتين-بارو", type: "مفكر"
-- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
-- id: "con-eje-transversal", title: "الْمِحْوَر الْعَرَضِيّ (Eje Transversal): تَحْوِيل الظُّلْم مَحَوْر مُسْتَمِر", type: "مفهوم"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "con-conscientization-paulo-freire", title: "الوعي النقدي (Conscientização)", type: "مفهوم"
+- id: "con-praxis", title: "البراكسيس (Praxis): الفعل المتأمل الذي يَغيّر العالم", type: "مفهوم"
+- id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
+- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الوعي (con-conscientization)"
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Freire, 1970)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين البيداغوجيا اللااستعمارية والنسوية المناهضة للاستعمار (Postcolonial Feminism) يحتاج فصلاً."
 ---
 
@@ -33,7 +33,7 @@ gaps:
 
 ## فِي عِلْم النَّفْس
 
-(1) **«**الْاِسْتِيقَاظ**»** (Conscientização، في Martín-Baró): «**اِسْتِيقَاظ**» (Consciousness-Raising) لِـ**«**تَحْرِير**» (Liberate) الشُّعُوب مِن «**اِسْتِعْمَار دَاخِلِيّ**» (Internal Colonialism). (2) **«**الْحُوَار**»** (Dialogue، في فْرِير): «**حُوَار**» (Dialogue) «**حَقِيقِيّ**» (True) «**مُسَاوَاة**» (Equality) لَا «**مُسَاءلَة**» (Interrogation). (3) **الْاِقْتِصَاد السَّلْطَوِيّ** (Power Economics): «**الْمُعَالِج**» (Therapist) «**لَا**» (Not) «**يَتَحَكَّم**» (Controls) بَل «**يَسْهَّل**» (Facilitates) «**تَحْرِير**» (Liberation).
+(1) **«**الْاِسْتِيقَاظ**»** (Conscientização، في Martín-Baró): «**اِسْتِيقَاظ**» (Consciousness-Raising) لِـ**«**تَحْرِير**» (Liberate) الشُّعُوب مِن «**اِسْتِعْمَار دَاخِلِيّ**» (Internal Colonialism) — وَهُوَ نَفْس الْأَطْرُوحَة الَّتِي بَنَى عَلَيْهَا مَارْتِن-بَارُو **مَدْرَسَة عِلْم نَفْس التَّحَرُّر** (sch-liberation-psychology). (2) **«**الْحُوَار**»** (Dialogue، في فْرِير): «**حُوَار**» (Dialogue) «**حَقِيقِيّ**» (True) «**مُسَاوَاة**» (Equality) لَا «**مُسَاءلَة**» (Interrogation). (3) **الْاِقْتِصَاد السَّلْطَوِيّ** (Power Economics): «**الْمُعَالِج**» (Therapist) «**لَا**» (Not) «**يَتَحَكَّم**» (Controls) بَل «**يَسْهَّل**» (Facilitates) «**تَحْرِير**» (Liberation) — وَهُوَ نَفْس مَبْدَأ **الْعِلَاج اللَّااسْتِعْمَارِيّ** (con-decolonizing-therapy) الَّذِي يَنْقُل الْبِيدَاغُوجْيَا مِن قَاعَة الدَّرْس إِلَى غُرْفَة الْعِلَاج.
 
 ## الأَهمِّيَّة
 

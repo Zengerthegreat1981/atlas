@@ -11,8 +11,6 @@ language: "متعدد"
 active_start: 1991
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العصبي الحديث والعلاقاتي", target_type: "مدرسة"
 related:
 - id: "thk-ethompson", title: "إيفان تومسون", type: "مفكر"
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
@@ -21,7 +19,6 @@ related:
 - id: "con-thrownness", title: "القذف / الإلقاء (Geworfenheit)", type: "مفهوم"
 gaps:
   - "الإطار النظري أعمق بكثير من تطبيقاته العلاجية، ما يجعل 'تيار علاجي' وصفاً متفائلاً."
-  - "لا تاريخ نهاية موثّق."
 ---
 
 # مقاربات الإدراك المتجسد

@@ -13,11 +13,10 @@ edges:
 - rel: "belongs_to", target: "br-conversion-therapy", target_type: "مدرسة"
 related:
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
-- id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
-- id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
+- id: "con-conversion-therapy-harm", title: "ضرر العلاج بالتحويل", type: "مفهوم"
 gaps:
-  - "قائمة المستبعدين الكاملة (NARTH، Exodus) لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "قائمة الأعضاء الكاملة لمجلس إدارة NARTH والفروع الوطنية لـExodus International عبر مراحلها."
+  - "نص اعتذار Exodus International الرسمي (2013) وتصريح رئيسها آلان تشامبرز بالكامل."
 ---
 # جدل العلاج بالتحويل: مفيد أم ضار؟
 
@@ -53,3 +52,9 @@ gaps:
 
 - **محظور في**: 20+ دولة، أكثر من نصف الولايات الأمريكية.
 - **باقي**: في بعض المناطق، خاصة في ظل الجماعات الدينية المحافظة.
+
+## المصادر
+
+- American Psychiatric Association, "Position Statement on Therapies Focused on Attempts to Change Sexual Orientation" (2000, مُحدَّث).
+- American Psychological Association, *Report of the APA Task Force on Appropriate Therapeutic Responses to Sexual Orientation* (2009).
+- Joseph Nicolosi, *Reparative Therapy of Male Homosexuality* (1991).

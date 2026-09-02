@@ -76,3 +76,9 @@ gaps:
 ## اقتباسات مختارة
 
 «ما لا يقتلني يجعلني أقوى.» — أفول الأصنام، 1889<br>«الله مات.» — العلم المرح، 1882<br>«من كان له لماذا يعيش يتحمّل كلَّ كيف تقريباً.» — أفول الأصنام، 1889
+
+## المصادر
+
+- Nietzsche, F. *Also sprach Zarathustra* (1883–1885).
+- Nietzsche, F. *Jenseits von Gut und Böse* (1886).
+- Kaufmann, W. *Nietzsche: Philosopher, Psychologist, Antichrist* (1950).

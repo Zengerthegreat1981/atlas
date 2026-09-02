@@ -12,6 +12,10 @@ language: "الإنجليزية"
 active_start: 2011
 active_end: 2011
 part: "psychology"
+author: "دانيال كانمان"
+author_slug: "thk-kahneman"
+publication_year: 2011
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-kahneman", target_type: "مفكر"

@@ -20,8 +20,7 @@ related:
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "أطروحته المبكرة حول فينومينولوجيا هايدجر والماركسية (Heideggerian Marxism, 1928) وكتاب 'الإنسان ذو البعد الواحد' تستحق توثيقاً."
+  - "أطروحته المبكرة حول فينومينولوجيا هايدجر والماركسية (Heideggerian Marxism, 1928) لم تُراجع من نسخة أصلية."
 ---
 
 # هربرت ماركوزه
@@ -46,3 +45,9 @@ gaps:
 ## اقتباسات مختارة
 
 «يتعرف الناس على أنفسهم في سلعهم؛ يجدون روحهم في سيارتهم، وجهاز التسجيل، ومنزلهم، وتجهيزات مطبخهم.» — الإنسان ذو البعد الواحد، 1964
+
+## المصادر
+
+- Marcuse, H. (1955). *Eros and Civilization: A Philosophical Inquiry into Freud*. Beacon Press.
+- Marcuse, H. (1964). *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society*. Beacon Press.
+- Marcuse, H. (1932). *Hegels Ontologie und die Theorie der Geschichtlichkeit*. Klostermann.

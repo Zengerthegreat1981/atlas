@@ -13,15 +13,11 @@ active_start: 1972
 active_end: 2006
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "TEACCH", target_type: "تيار"
+- rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
 - id: "br-teacch", title: "TEACCH", type: "تيار"
-- id: "thk-ereichelt", title: "إريك رايشيلت", type: "مفكر"
-- id: "thk-rmosak", title: "روبرت موشارك", type: "مفكر"
+- id: "thk-ereichelt", title: "روبرت جاي رايشلر", type: "مفكر"
 - id: "con-structured-teaching-teacch", title: "التدريس المنظم (Structured Teaching)", type: "مفهوم"
-- id: "thk-cwhitaker-pt", title: "جون مارش", type: "مفكر"
-- id: "thk-fkfu", title: "ف. كي. فو", type: "مفكر"
-- id: "thk-jroddy", title: "ج. لوك ويلز", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة تقريبية، تستحق توثيقاً."
   - "مدخل «روبرت موشارك» (thk-rmosak) المرتبط بهذا الملف لا صلة موثّقة له بـTEACCH ويبدو ربطاً خاطئاً؛ يحتاج مراجعة تحريرية."
@@ -38,7 +34,7 @@ gaps:
 
 ## ما أعطاه
 
-- **برنامج TEACCH**: نظام منظم للتدخل التعليمي والعلاجي يركّز على نقاط القوة لدى الشخص المصاب بالتوحد، بدلاً من «تطبيعه». تأسس عام 1972 وامتد في ولايات عديدة وعبر عدة دول.
+- **برنامج TEACCH**: نظام منظم للتدخل التعليمي والعلاجي يركّز على نقاط القوة لدى الشخص المصاب بالتوحد، بدلاً من «تطبيعه». تأسس عام 1971 وامتد في ولايات عديدة وعبر عدة دول.
 - **«التدريس المنظم» (Structured Teaching)**: نموذج بيئي وتعليمي يركّز على:
   - **التنظيم المادي**: مساحات واضحة، مناطق نشاط محددة.
   - **الجداول الزمنية البصرية**: تسلسل المهام بصرياً.

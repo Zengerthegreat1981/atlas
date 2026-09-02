@@ -13,22 +13,13 @@ active_start: 2011
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "إرشاد التمييز والبت الزوجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-discernment-counseling", target_type: "تيار"
 related:
 - id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
-- id: "thk-bill-matthews", title: "بيل ماثيوز", type: "مفكر"
-- id: "thk-jenniferschwab", title: "جينيفر شواب", type: "مفكر"
-- id: "thk-kathylaurenceau", title: "كاثي لورنسو", type: "مفكر"
 - id: "thk-stevenharris-dc", title: "ستيفن هاريس", type: "مفكر"
-- id: "thk-timothyclanton", title: "تيموثي كلانتون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بيل ماثيوز (thk-bill-matthews)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جينيفر شواب (thk-jenniferschwab)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثي لورنسو (thk-kathylaurenceau)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن هاريس (thk-stevenharris-dc)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تيموثي كلانتون (thk-timothyclanton)."
+  - "سنة ميلاده الدقيقة (1952 هنا تقريبية) تحتاج توثيقاً من مصدر أولي."
+  - "روابط سابقة لأربعة أسماء (بيل ماثيوز، جينيفر شواب، كاثي لورنسو، تيموثي كلانتون) أُزيلت من related لعدم توثيق صلتهم المباشرة بتأسيس Discernment Counseling في المصادر المتاحة، رغم وجود ملفاتهم في الأطلس."
 ---
 
 # بيل دوهرتي
@@ -51,9 +42,11 @@ gaps:
 
 ## أهم أعماله
 
-- *Discernment Counseling for Mixed Ambivalence* (2011).
 - *Take Back Your Marriage* (2001).
+- *Helping Couples on the Brink of Divorce: Discernment Counseling for Troubled Relationships* (2016، مع Steven M. Harris).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Doherty, W. J., & Harris, S. M. (2016). *Helping Couples on the Brink of Divorce: Discernment Counseling for Troubled Relationships*. American Psychological Association.
+- Doherty, W. J., Harris, S. M., & Wilde, J. L. (2016). "Discernment Counseling for 'Mixed-Agenda' Couples". *Journal of Marital and Family Therapy*, 42(2).
+- صفحة دوهرتي في قسم Family Social Science بجامعة مينيسوتا (fsos.umn.edu/people/emeriti-faculty/william-doherty).

@@ -18,8 +18,7 @@ related:
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد الدقيقة وحالته (حي/متوفى) غير مؤكدتين في المصادر المتاحة — `active_end: مستمر` غير مثبت."
 ---
 
 # رونالد بِرِتن
@@ -39,4 +38,9 @@ gaps:
 
 ## أهم أعماله
 
-«الإيمان والخيال» (Belief and Imagination, 1998) · «ماذا يفعل التحليل النفسي» (What Do Psycho-Analysts Want?, 2010) · مقالات في *International Journal of Psycho-Analysis*.
+«الإيمان والخيال» (Belief and Imagination, 1998) · «الرابط المفقود: الجنسانية الأبوية في عقدة أوديب» (The Missing Link: Parental Sexuality in the Oedipus Complex, 1989، ضمن كتاب The Oedipus Complex Today الذي حرره John Steiner) — وفيه صاغ مفهوم «المثلث الأوديبي».
+
+## المصادر
+
+- Britton, Ronald. *Belief and Imagination: Explorations in Psychoanalysis*. Routledge, 1998.
+- Britton, Ronald. "The Missing Link: Parental Sexuality in the Oedipus Complex", in Steiner, J. (ed.), *The Oedipus Complex Today: Clinical Implications*. Karnac, 1989.

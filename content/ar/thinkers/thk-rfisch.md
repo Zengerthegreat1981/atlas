@@ -13,12 +13,12 @@ active_end: 2011
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← ريتشارد فيش"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "مدرسة"
 related:
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 - id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـريتشارد فيش."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
@@ -41,7 +41,3 @@ gaps:
 
 - *Change: Principles of Problem Formation and Problem Resolution* (1974).
 - *Brief Therapy with Individuals and Couples* (1985، مع شنايدر).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

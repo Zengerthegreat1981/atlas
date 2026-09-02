@@ -12,13 +12,14 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "tec-behavioral-medicine", title: "الطب السلوكي/الصحة السلوكية (تدخل)", type: "تقنية/تدخل علاجي"
 - id: "tec-stimulus-control", title: "العلاج بالتحكم بالمنبّهات", type: "تقنية/تدخل علاجي"
-- id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
-- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
+- id: "con-operant-conditioning", title: "الإشتراط الإجرائي (الإشراط السكينري)", type: "مفهوم"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي (الإشراط البافلوفي)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "تطبيقات التحكم بالمنبهات في إدارة الوزن والأرق — موضع تفصيل."
+  - "تفاصيل التجارب الأصلية لـ Bootzin (1972) وRichardson & Roth (1976) (حجم العينة، مدة المتابعة) لم تُراجَع هنا من المصدر الأولي."
 ---
 
 # التحكم بالمنبّهات (علاج)

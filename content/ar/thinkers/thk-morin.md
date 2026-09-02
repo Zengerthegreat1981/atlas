@@ -16,13 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "tec-cbt-insomnia", title: "العلاج المعرفي السلوكي للأرق (CBT-I)", type: "تقنية/تدخل علاجي"
-- id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل عمله في جامعة لافال (Laval University) وأبحاثه عن الأرق تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تشارلز م. مورين
@@ -42,3 +38,9 @@ gaps:
 - علاج الأرق: نهج معرفي-سلوكي (Insomnia: Psychological Assessment and Management, 1993).
 - الأرق: نهج إكلينيكي (Insomnia: A Clinical Guide, 2016) مع إسباي.
 - أبحاث في مجلة SLEEP والـ Annals of Behavioral Medicine في الثمانينيات والتسعينيات.
+
+## المصادر
+
+- Morin, Charles M. *Insomnia: Psychological Assessment and Management*. New York: Guilford Press, 1993.
+- Morin, Charles M., and Colin A. Espie. *Insomnia: A Clinical Guide to Assessment and Treatment*. New York: Springer, 2003.
+- Université Laval — صفحة السيرة الأكاديمية الرسمية لتشارلز مورين، مركز أبحاث النوم.

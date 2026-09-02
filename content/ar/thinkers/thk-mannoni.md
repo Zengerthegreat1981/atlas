@@ -8,7 +8,7 @@ en: "Octave Mannoni"
 crumb: "المدرسة الوجودية ← الناس ← أوكتاف مانوني"
 dates: "فرنسا · 1899–1989"
 active_start: 1950
-active_end: 1950
+active_end: 1989
 language: "الفرنسية"
 country: "فرنسا"
 part: "philosophy"
@@ -17,8 +17,7 @@ edges:
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 gaps:
-  - "تفاصيل عمله لاحقاً في مدرسة لاكان التحليلية غير مفصّلة هنا — تحتاج مراجعة مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد."
+  - "تفاصيل عمله لاحقاً كمحلل في المدرسة الفرويدية بباريس (École freudienne de Paris) مع لاكان بعد 1953 غير مفصّلة هنا — تحتاج مراجعة مصدر أولي."
 ---
 
 # أوكتاف مانوني
@@ -39,3 +38,8 @@ gaps:
 ## أهم أعماله
 
 بروسبيرو وكاليبان: سيكولوجية الاستعمار (Psychologie de la colonisation, 1950)
+
+## المصادر
+
+- Mannoni, Octave. *Psychologie de la colonisation*. Éditions du Seuil, 1950؛ ترجمة إنجليزية *Prospero and Caliban: The Psychology of Colonization* (Pamela Powesland)، Praeger, 1956.
+- Fanon, Frantz. *Peau noire, masques blancs*. Éditions du Seuil, 1952؛ ترجمة إنجليزية *Black Skin, White Masks* (Charles Lam Markmann)، Grove Press, 1967.

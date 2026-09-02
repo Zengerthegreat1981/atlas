@@ -12,43 +12,48 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
+- id: "con-intersubjectivity", title: "البين-ذاتية (Intersubjectivity)", type: "مفهوم"
 - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 - id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
-- id: "tec-cbt-beh-graded-task-assignment", title: "المهام المتدرجة", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-active-listening-skills", title: "مهارات الاستماع الفعّال", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-emotion-focused-coping", title: "المواجهة المركّزة على الانفعال", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المرتكز على الانفعال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-anchoring-in-the-five-senses", title: "الارتكاز على الحواس الخمس", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل ذات المراقب", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-bullseye-exercise", title: "تمرين نقطة الهدف", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-anchoring-in-the-five-senses", title: "الرسو في الحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل الذات المُلاحِظة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-bullseye-exercise", title: "تمرين لوحة الهدف (Bullseye)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "تهدئة الذات بالحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-abc-please", title: "ABC PLEASE", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-mind-therapist-s-acceptance-skills", title: "مهارات القبول العلاجية", type: "تقنية/تدخل علاجي"
-- id: "tec-cft", title: "العلاج المركّز على التعاطف", type: "تقنية/تدخل علاجي"
-- id: "tec-child-parent-psychotherapy", title: "العلاج النفسي بين الطفل والوالدين", type: "تقنية/تدخل علاجي"
-- id: "tec-circle-of-security", title: "حلقة الأمان", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-mind-therapist-s-acceptance-skills", title: "مهارات التقبل الخاصة بالمعالج", type: "تقنية/تدخل علاجي"
+- id: "tec-cft", title: "العلاج المرتكز على الشفقة (CFT)", type: "تقنية/تدخل علاجي"
+- id: "tec-child-parent-psychotherapy", title: "العلاج النفسي المشترك بين الطفل والوالد (CPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-circle-of-security", title: "برنامج دائرة الأمان في الارتباط الوالدي (COS)", type: "تقنية/تدخل علاجي"
 - id: "tec-play-therapy-branches", title: "العلاج باللعب", type: "تقنية/تدخل علاجي"
 - id: "syn-kaspar-hauser", title: "متلازمة كاسبار هاوزر والتقزم النفسي الاجتماعي (Psychosocial Dwarfism)", type: "متلازمة"
 - id: "syn-mowgli", title: "متلازمة ماوكلي والحرمان الاجتماعي المبكر (الأطفال المتوحشون)", type: "متلازمة"
 gaps:
   - "نسبة الانتشار الدقيقة حسب الفئة العمرية لم تُراجع من مصدر أولي مباشر."
   - "الفروقات الدقيقة بين DSM-5-TR و ICD-11 في تعريف RAD لم تُراجع من المصدرين الأوليين."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب التعلق التفاعلي
 
 اضطراب يظهر في الطفولة نتيجة إهمال أو حرمان مزمن من الرعاية الثابتة والمتجاوبة، ويتجلّى في أنماط سلوكية متّسقة من الانسحاب الانفعالي غير الطبيعي تجاه مقدّمي الرعاية، مع ضعف التفاعل الاجتماعي وعدم استجابة واضحة للتقدّم العاطفي.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب التعلق التفاعلي كفئة تشخيصية سريرية محددة الأعراض والعمر (انسحاب انفعالي غير طبيعي ناتج عن حرمان موثّق) وبين مفهوم 'البين-ذاتية' (con-intersubjectivity) الفلسفي والتحليل-نفسي، وهو تأمل أوسع في كيفية تشكّل الذات أصلاً عبر علاقتها بذات أخرى — الأول وصف لخلل نمائي محدد النطاق في سياق رعاية بعينها، والثاني إطار مفاهيمي عن بنية العلاقة الإنسانية بحد ذاتها، لا يفترض حرماناً أو خللاً.
 
 ## ملاحظات على المعايير التشخيصية
 

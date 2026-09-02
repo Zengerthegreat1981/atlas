@@ -3,6 +3,7 @@ slug: "sch-gestalt-therapy"
 id: "SCH-0123"
 type: "مدرسة"
 part: "psychology"
+cultural_origin: "anglo-american"
 level: "متوسط"
 title: "علاج الجشطالت (Gestalt Therapy)"
 en: "Gestalt Therapy"
@@ -17,15 +18,14 @@ edges:
 - rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "belongs_to", target: "العلاج المتمركز حول الخبرة (Experiential)", target_type: "مظلة"
 related:
 - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
 - id: "br-gestalt-therapy", title: "علاج الجشطالت (بيرلز وغودمان)", type: "تيار"
 - id: "br-relational-gestalt", title: "الجشطالت العلائقي المعاصر", type: "تيار"
-- id: "thk-fperls", title: "فريدريك (فريتز) بيرلز", type: "مفكر"
+- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
 - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
-- id: "thk-kkoffka", title: "كارل كوفكا", type: "مفكر"
+- id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
 - id: "con-two-chair-dialogue", title: "تقنية الكرسيين", type: "مفهوم"
 - id: "con-empty-chair", title: "تقنية الكرسي الفارغ", type: "مفهوم"
 - id: "thk-ifrom", title: "إيزادور فروم", type: "مفكر"
@@ -35,7 +35,6 @@ gaps:
   - "رابط مقترح لـ«فولفغانغ كوهلر» (thk-kohler) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التمييز الدقيق بين 'علم النفس الجشطالتي' (مدرسة برلين، 1912-1940) و'علاج الجشطالت' (بيرلز وغودمان، 1951) ليس موحّداً في المراجع."
   - "العلاقة بين الجشطالت ومدرسة فرانكفورت (Adorno، Fromm) في الأربعينيات موثّقة جزئياً (بيرلز كان محلّلاً في معهد فرانكفورت) لكن لم تُحلّل في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 # علاج الجشطالت (Gestalt Therapy)
 
@@ -108,7 +107,7 @@ gaps:
 - **التطبيق على الحالات الشديدة**: أقل تنظيماً من DBT.
 - **خطر الإكراه العلاجي**: أسلوب «كرسي الحارة» (Hot Seat) قد يُساء استخدامه.
 
-## المرجع الموصى
+## المصادر
 
 - Perls, F., Hefferline, R. F., & Goodman, P. (1951). *Gestalt Therapy*. Julian Press.
 - Perls, F. (1969). *Ego, Hunger and Aggression*. Souvenir Press.

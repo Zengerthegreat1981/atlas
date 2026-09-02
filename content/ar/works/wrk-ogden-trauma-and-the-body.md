@@ -9,6 +9,10 @@ en: "Trauma and the Body: A Sensorimotor Approach to Psychotherapy by Pat Ogden"
 crumb: "كتب العلاج النفسي العصبي ← أمهات الأعمال ← الصدمة والجسد"
 active_start: null
 active_end: "مستمر"
+author: "بات أوغدن"
+author_slug: "thk-pogden"
+publication_year: 2006
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:

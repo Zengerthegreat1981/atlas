@@ -9,10 +9,10 @@ crumb: "العلاقات بين المدارس ←  × "
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "", target_type: "مدرسة"
-- rel: "connects", target: "", target_type: "مدرسة"
+- rel: "connects", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "connects", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "con-neuroplasticity", title: "", type: "مدرسة"
+- id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
 - id: "rel-cultural-feminist", title: "علم النفس النسوي والثقافي: من Gilligan إلى hooks", type: "علاقة بين مدرستين"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"

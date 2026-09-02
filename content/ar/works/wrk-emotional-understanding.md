@@ -8,17 +8,19 @@ en: "Emotional Understanding: The Intersubjective Ethics of Therapeutic Practice
 crumb: "التحليل النفسي ← الأعمال ← الفهم العاطفي"
 dates: "1995"
 language: "الإنجليزية"
+author: "دونا أورانج"
+author_slug: "thk-lorange"
+publication_year: 1995
+original_language: "الإنجليزية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "authored_by", target: "دومينيك أَورَنج", target_type: "مفكر"
 related:
-- id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
+- id: "thk-dorange", title: "دونا م. أورانج", type: "مفكر"
 - id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

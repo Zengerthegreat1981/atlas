@@ -15,8 +15,8 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "موقف ميل التعديلي على نفعية بنثام (جودة اللذة مقابل كميتها في Utilitarianism، 1863) لم يُفصّل بعد."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: جون ستيوارت ميل (thk-mill)."
 ---
 # الأخلاق الواجبية والتبعية (Deontology vs. Consequentialism)
 
@@ -33,3 +33,9 @@ gaps:
 ## التطبيقات في المعضلات الأخلاقية العامة
 
 الجدال حول العدالة، والحرب، والذكاء الاصطناعي، وتوزيع الموارد الطبية المحدودة.
+
+## المصادر
+
+- Kant, I. (1785). *Grundlegung zur Metaphysik der Sitten* (Groundwork of the Metaphysics of Morals).
+- Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*.
+- Mill, J. S. (1863). *Utilitarianism*.

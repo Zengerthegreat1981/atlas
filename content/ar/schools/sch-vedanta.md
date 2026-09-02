@@ -9,6 +9,7 @@ en: "Vedānta (umbrella)"
 crumb: "الفلسفة ← الهند ← المدارس الأرثوذكسية ← فيدانتا"
 dates: "الهند · من القرن 1 م إلى اليوم"
 country: "شبه القارة الهندية"
+cultural_origin: "indian"
 language: "السنسكريتية"
 active_start: 0
 active_end: "مستمر"
@@ -67,3 +68,9 @@ gaps:
 ## القيد
 
 - تعدد المدارس الفرعية يربك المبتدئ، ويحتاج إطاراً تنظيمياً لفهم.
+
+## المصادر
+
+- Deutsch, Eliot & Dalvi, Rohit (eds.). *The Essential Vedānta: A New Source Book of Advaita Vedānta*. World Wisdom, 2004.
+- Potter, Karl H. (ed.). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṃkara and His Pupils*. Princeton University Press, 1981.
+- Lipner, Julius. *The Face of Truth: A Study of Meaning and Metaphysics in the Vedāntic Theology of Rāmānuja*. State University of New York Press, 1986.

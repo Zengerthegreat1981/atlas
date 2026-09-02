@@ -13,7 +13,7 @@ country: "سويسرا"
 language: "الألمانية / الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس التحليلي (اليونغي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"

@@ -13,38 +13,39 @@ active_start: 1988
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الخطابي (بوتر وويذرل)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-discursive-psychology", target_type: "تيار"
 related:
 - id: "br-discursive-psychology", title: "علم النفس الخطابي (بوتر وويذرل)", type: "تيار"
 - id: "thk-ahepburn", title: "ألكسا هِبِرن", type: "مفكر"
 - id: "thk-jpotter", title: "جوناثان بوتر", type: "مفكر"
 - id: "thk-dedwards", title: "ديرِك إدواردز", type: "مفكر"
 gaps:
-  - "تفاصيل الفترة المبكرة في جامعة برمنغهام لم تُوثّق."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثوق منسوب له بنص وسنة."
 ---
 
 # مايكل بيليغ
 
-عالم نفس اجتماعي بريطاني وأستاذ في جامعة لوفبرا. اشتُهر بأعماله حول "الأيديولوجيا والتفكير اليومي"، وبتطوير تحليل بلاغي للغة اليومية يربط بين فوكو وفلسفة اللغة.
+عالم نفس اجتماعي بريطاني، أستاذ العلوم الاجتماعية في جامعة لوفبرا منذ 1985. تدرّب في بريستول على يد هنري تاجفل كعالم نفس تجريبي، وشارك في تصميم «تجارب الجماعة الأدنى» (Minimal Group Experiments) التي أسّست لنظرية الهوية الاجتماعية، قبل أن يتحوّل لاحقاً لنقد المنهج التجريبي نفسه ولتأسيس المقاربة الخطابية.
 
 ## ما أعطاه
 
-- **"تحليل الحجج"** (Argumentation Analysis): كيف يتفاوض الناس على الحجج في الكلام اليومي.
-- **"الأيديولوجيا المُتخفّية"**: الحجج التي تبدو محايدة لكنها تحمل أيديولوجيا ضمنية.
-- **"الشَّعبوية اليومية"**: كيف يمارس التمييز في الكلام العادي.
-- **مفهوم "الذاكرة المنسية"** (Forgotten Memory): الذكريات التي تُستدعى في السياق الاجتماعي لا الفرد.
+- **علم النفس البلاغي** (Rhetorical Psychology): في *Arguing and Thinking: A Rhetorical Approach to Social Psychology* (1987)، جادل بأن المواقف ليست مواضع فردية ثابتة بل مواقف بلاغية داخل سياقات جدلية، مستعيداً الخطابة الكلاسيكية لتفسير التفكير الاجتماعي.
+- أحد الأعضاء المؤسسين لـ«مجموعة الخطاب والبلاغة» (Discourse and Rhetoric Group) في لوفبرا، إلى جانب ديريك إدواردز وجوناثان بوتر، وهي الجماعة التي أسست علم النفس الخطابي.
+- **"القومية المبتذلة"** (Banal Nationalism، 1995): مفهوم للأشكال اليومية غير الاستعراضية لإعادة إنتاج الهوية القومية (الأعلام على المباني الرسمية، الضمير "نحن" في نشرات الطقس).
 
 ## موقعه من التيار
 
-يتميّز بيليغ عن بوتر بإيلائه عناية خاصة للأيديولوجيا والحجج، وهو ما يربط علم النفس الخطابي بالدراسات الثقافية.
+بيليغ من مؤسسي التحوّل الخطابي في علم النفس الاجتماعي البريطاني، وميّز نفسه عن بوتر وويذرل بربط التحليل البلاغي بالأيديولوجيا والسلطة أكثر من التركيز المحض على البناء اللغوي.
 
 ## أهم أعماله
 
-- *Ideological Dilemmas* (1988).
+- *Arguing and Thinking: A Rhetorical Approach to Social Psychology* (1987).
+- *Ideological Dilemmas: A Social Psychology of Everyday Thinking* (1988، مع كوندور وإدواردز وغِين وميدلتون وريدلي).
 - *Talking of the Royal Family* (1992).
-- *Laughter and Ridicule* (2005).
+- *Banal Nationalism* (1995).
+- *Laughter and Ridicule: Towards a Social Critique of Humour* (2005).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+- Michael Billig, Wikipedia: en.wikipedia.org/wiki/Michael_Billig
+- "Arguing and Thinking: A Rhetorical Approach to Social Psychology", Internet Archive: archive.org/details/arguingthinkingr0000bill
+- Prof. Michael Billig — الصفحة الشخصية: billig.socialpsychology.org

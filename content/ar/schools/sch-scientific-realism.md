@@ -12,26 +12,21 @@ country: "متعددة (الولايات المتحدة، المملكة الم�
 language: "الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
-- id: "thk-hputnam", title: "هيلاري putnam", type: "مفكر"
-- id: "thk-bvanfraassen", title: "باس فان فراسن", type: "مفكر"
+- id: "thk-hputnam", title: "هيلاري بوتنام", type: "مفكر"
 - id: "con-no-miracle-argument", title: "حجة المعجزة (No-Miracle Argument)", type: "مفهوم"
 - id: "thk-bas-van-fraassen", title: "باس فان فراسين (Bas C. van Fraassen)", type: "مفكر"
-- id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
-- id: "con-modal-realism-david-lewis", title: "الواقعية المشروطة للعوالم الممكنة (Modal Realism)", type: "مفهوم"
-- id: "con-tawakkul-psychology", title: "التوكل واليقين والسكينة النفسية (Tawakkul in Islamic Psychology)", type: "مفهوم"
+- id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
 gaps:
-  - "رابط مقترح لـ«باس فان فراسان» (thk-vanfraassen) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "رابط مقترح لـ«ريتشارد بويد» (thk-boyd) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "رابط مقترح لـ«ستافروس بسيوس» (thk-psillos) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "رابط مقترح لـ«جارrett ليبلين» (thk-leplin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "رابط مقترح لـ«كارل بوبر» (thk-popper) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "الفارق بين «الواقعية العلمية» (Boyd) و«الواقعية البنائية» (Constructive Empiricism) عند فان فراسان لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من فان فراسان 'الصورة العلمية للعلم' (The Scientific Image, 1980) في صياغته المنقحة."
-  - "نقد 'نظرية اللاواقعية' (Entity Realism) عند فان فراسان لم يُراجع من نص 'البنية' (Structure, 2006)."
+  - "ريتشارد بويد (thk-boyd) غير موجود في الأطلس — لا ملف معتمد ولا مسودة."
+  - "ستافروس بسيلوس (thk-psillos) غير موجود في الأطلس — لا ملف معتمد ولا مسودة."
+  - "جاريت ليبلين (thk-leplin) غير موجود في الأطلس — لا ملف معتمد ولا مسودة."
+  - "الفارق بين الواقعية العلمية عند بويد والتجريبية البنائية عند فان فراسن لم يُحلّل بدقة في المصادر الأولية المتاحة."
+  - "نقد الواقعية الكيانية (Entity Realism) عند فان فراسن لم يُراجع من نص 'البنية' (Structure, 2006)."
 ---
 
 # الواقعية العلمية / اللاواقعية العلمية
@@ -79,3 +74,10 @@ gaps:
 ## القيد
 
 يستحق التمييز بين الواقعية العلمية والواقعية الميتافيزيقية فصلاً مستقلاً، كما يستحق الفارق بين الواقعية الانتقائية عند بويد وواقعية البنية عند ورال معالجة أوسع.
+
+## المصادر
+
+- Psillos, Stathis. *Scientific Realism: How Science Tracks Truth*. Routledge, 1999.
+- van Fraassen, Bas C. *The Scientific Image*. Oxford University Press, 1980.
+- Worrall, John. "Structural Realism: The Best of Both Worlds?" *Dialectica* 43, no. 1–2 (1989): 99–124.
+- Chakravartty, Anjan. Stanford Encyclopedia of Philosophy, "Scientific Realism." Accessed 2026.

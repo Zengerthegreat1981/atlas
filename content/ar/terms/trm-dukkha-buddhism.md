@@ -13,11 +13,10 @@ edges:
 - rel: "belongs_to", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
 - id: "exp-buddha-four-sights-renunciation", title: "الرؤى الأربع لسيدهارتا بوذا والهروب الكبير من القصر نحو الاستنارة", type: "خبرة معيشة"
-- id: "thk-buddha", title: "سيدهارتا غوتاما بوذا", type: "مفكر"
-- id: "met-buddhist-second-arrow", title: "السهم الثاني في البوذية", type: "استعارة/مجاز مؤسِّس"
+- id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
+- id: "met-buddhist-second-arrow", title: "السهم الثاني في البوذية: استعارة المعاناة النفسية المضافة فوق الألم الحتمي", type: "استعارة/مجاز مؤسِّس"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا يوجد اقتباس مباشر مترجم من الخُطبة الأولى (Dhammacakkappavattana Sutta) في المتن؛ الوصف معتمد على شروح ثانوية لا على نص السوتا نفسه."
 ---
 # الدوكا (Dukkha): المعاناة وانعدام الرضا الجوهري في الوجود
 
@@ -33,4 +32,11 @@ gaps:
 
 ## الأثر في برامج اليقظة المعاصرة (MBSR)
 
-فهم حتمية الألم الدنيوي وتدريب النفس على فك التعلق والتشبث لإنهاء المعاناة.
+فهم حتمية الألم الدنيوي وتدريب النفس على فك التعلق والتشبث لإنهاء المعاناة. برنامج جون كابات-زن (Jon Kabat-Zinn) للحد من التوتر بالتأمل الذهني (MBSR)، الذي أسسه عام 1979 في مركز الطب بجامعة ماساتشوستس، استعار بنية دوكا-التعلق-الانطفاء من الحقائق الأربع لصياغة بروتوكول علاجي علماني بلا مضمون عقدي.
+
+## المصادر
+
+- Rahula, Walpola. *What the Buddha Taught*. Grove Press, 1959.
+- Gethin, Rupert. *The Foundations of Buddhism*. Oxford University Press, 1998.
+- Bodhi, Bhikkhu (trans.). *In the Buddha's Words: An Anthology of Discourses from the Pali Canon*. Wisdom Publications, 2005.
+- Kabat-Zinn, Jon. *Full Catastrophe Living*. Delta, 1990.

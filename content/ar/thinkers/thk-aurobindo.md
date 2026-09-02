@@ -13,11 +13,11 @@ active_end: 1950
 part: "psychology"
 crumb: "الأطلس ← thinkers ← سري أوروبندو"
 edges:
-- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:
 - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
 - id: "thk-ggurdjieff", title: "غي. آي. غورجييف", type: "مفكر"
-- id: "thk-sheena-iyengar", title: "بي. كيه. إس. آيَنغَر", type: "مفكر"
+- id: "thk-iyengar", title: "بي. كيه. إس. آيَنغَر", type: "مفكر"
 - id: "thk-krishnamurti", title: "جيدو كريشنامورتي", type: "مفكر"
 - id: "thk-maharishi", title: "مهارشي ماهيش يوغي", type: "مفكر"
 - id: "thk-yogananda", title: "باراماهانزا يوغاناندا", type: "مفكر"

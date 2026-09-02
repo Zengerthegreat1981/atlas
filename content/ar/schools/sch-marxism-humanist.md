@@ -9,6 +9,7 @@ en: "Humanist Marxism"
 crumb: "الفلسفة ← القارية ← الماركسية الإنسانية"
 dates: "أوروبا، أمريكا اللاتينية، العالم · من 1932 إلى الوقت الحاضر"
 country: "أوروبا، أمريكا اللاتينية"
+cultural_origin: "european"
 language: "الألمانية، الإيطالية، الفرنسية، الإسبانية، الإنجليزية"
 active_start: 1932
 active_end: "مستمر"
@@ -20,7 +21,6 @@ related:
 - id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
 gaps:
   - "حدود 'الإنسانية' في الماركسية الإنسانية (مقابل 'الوضعية الماركسية') غير محصورة بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع الماركسية اللاتينية (Hélder Câmara، Ignacio Ellacuría) في لاهوت التحرير تحتاج ربطًا منفصلاً."
 ---
 
@@ -89,3 +89,11 @@ gaps:
   - **ما بعد الاستعمار**: أعمال **فرانز فانون** (*The Wretched of the Earth*, 1961).
 - **الفلسفة السياسية**: أعمال **چوزيبي فاكارو**، **إرنستو لاكلو** (في المراحل الأولى).
 - **الأدب**: أعمال **تيري إيگلتون** (*Marxism and Literary Criticism*، 1976).
+
+## المصادر
+
+- Lukács, Georg. *History and Class Consciousness*. Merlin Press, 1971 (orig. 1923).
+- Gramsci, Antonio. *Selections from the Prison Notebooks*. Lawrence & Wishart, 1971.
+- Marcuse, Herbert. *One-Dimensional Man*. Beacon Press, 1964.
+- Fromm, Erich. *The Sane Society*. Rinehart, 1955.
+- Fanon, Frantz. *The Wretched of the Earth*. Grove Press, 1963 (orig. 1961).

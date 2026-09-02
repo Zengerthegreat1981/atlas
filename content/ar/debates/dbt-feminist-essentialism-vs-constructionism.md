@@ -10,17 +10,12 @@ crumb: "النسوية الفلسفية ← جدل الجوهرية-البنائ
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-feminism-radical", target_type: "مدرسة"
 related:
 - id: "thk-firestone", title: "شولاميث فيرستون", type: "مفكر"
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-- id: "dbt-mao-maoism-vs-deng-ism", title: "ماوية ضد الدنغزية: الثورة المستمرة أم الإصلاح الاقتصادي؟", type: "جدل"
-- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
-- id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
-- id: "dbt-nature-nurture-cognitive-modules-vs-domain-general", title: "جِدَل الْوِحَدَات الْمَعْرِفِيَّة الْفِطْرِيَّة ضِدّ التَّعَلُّم الْعَامّ الْبِيئِيّ: أَيّ تَفْسِير لِـ**سُلُوك** الْإِنْسَان؟", type: "جدل"
 gaps:
-  - "النصوص التأسيسية (Firestone 1970, Butler 1990, MacKinnon 1989) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "موقف Haraway وSpivak في «الموقف الثاني» يحتاج توثيقاً منفصلاً بالاسم والنص؛ ذُكرا هنا كسياق فكري لبتلر فقط."
 ---
 
 # جدل الجوهرية مقابل البنائية في النسوية
@@ -46,3 +41,10 @@ gaps:
 - «النسوية التقاطعية» (Crenshaw, 1989) حاولت الجمع بين الجوهرية والبنائية.
 - «النسوية الكونية» (Mohanty, 2003) تجاوزت الثنائية بطرح «تحالف» عبر الحدود.
 - «ما بعد النسوية» (Postfeminism) المعاصرة أعادت فتح الجدل.
+
+## المصادر
+
+- Shulamith Firestone, *The Dialectic of Sex: The Case for Feminist Revolution*, 1970.
+- Catharine MacKinnon, *Toward a Feminist Theory of the State*, Harvard University Press, 1989.
+- Judith Butler, *Gender Trouble: Feminism and the Subversion of Identity*, Routledge, 1990.
+- Kimberlé Crenshaw, "Demarginalizing the Intersection of Race and Sex", *University of Chicago Legal Forum*, 1989.

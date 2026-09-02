@@ -21,8 +21,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "thk-scheler", title: "ماكس شيلر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "أطروحتها التأسيسية حول فينومينولوجيا التعاطف (On the Problem of Empathy, 1917) تستحق إدراجاً في الأعمال."
+  - "نصوصها اللاهوتية المتأخرة (بعد دخولها الرهبنة الكرملية 1933) لم تُراجع بعمق مقارَن مع أعمالها الفينومينولوجية المبكرة."
 ---
 
 # إديث شتاين
@@ -42,4 +41,10 @@ gaps:
 
 ## أهم أعمالها
 
-عن مشكلة التعاطف (Zum Problem der Einfühlung, 1917) · الكينونة المحدودة والأزلية (Endliches und ewiges Sein, 1937/1950) · بنية الشخص الإنساني (Der Aufbau der menschlichen Person).
+عن مشكلة التعاطف (Zum Problem der Einfühlung, 1917) · الكينونة المحدودة والأزلية (Endliches und ewiges Sein, كُتب 1937 ونُشر بعد وفاتها عام 1950) · بنية الشخص الإنساني (Der Aufbau der menschlichen Person).
+
+## المصادر
+
+- Stein, E. (1989 [1917]). *On the Problem of Empathy* (W. Stein, Trans.). ICS Publications.
+- Stein, E. (2002 [1950]). *Finite and Eternal Being: An Attempt at an Ascent to the Meaning of Being* (K. F. Reinhardt, Trans.). ICS Publications.
+- Borden, S. (2003). *Edith Stein*. Routledge (Outstanding Christian Thinkers series).

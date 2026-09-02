@@ -13,7 +13,7 @@ active_end: 1996
 part: "philosophy"
 crumb: "العلاج الأسري بالأنساق (بوين) ← الجيل الثاني ← إدوين فريدمان"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري بالأنساق (Bowen Family Systems)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-bowen-systems", target_type: "فرع"
 related:
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 gaps:

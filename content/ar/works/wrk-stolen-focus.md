@@ -11,12 +11,11 @@ crumb: "علم النفس الإكلينيكي ← الأعمال ← انتبا
 dates: "2022 · جوهان هاري"
 language: "الإنجليزية"
 active_start: 2022
-active_end: 2022
+active_end: 2024
 edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي", target_type: "مدرسة"
-- rel: "written_by", target: "جوهان هاري", target_type: "مفكر"
+- rel: "written_by", target: "thk-johann-hari", target_type: "مفكر"
 related:
-- id: "thk-johann-hari", title: "جوهان هاري", type: "مفكر"
+- id: "thk-johann-hari", title: "يوهان هاري", type: "مفكر"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 - id: "wrk-anxious-generation", title: "الجيل القلق", type: "عمل / كتاب"
 gaps:

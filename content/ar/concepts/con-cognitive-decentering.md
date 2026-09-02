@@ -12,12 +12,16 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي", type: "مدرسة"
 - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
+- id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
+- id: "con-cognitive-defusion", title: "فصل الأفكار (Cognitive Defusion) في ACT", type: "مفهوم"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 gaps:
   - "التمييز الدقيق بين اللامركزية المعرفية و«الاستبطان الذهني» (Mindfulness) و«التأمل الميتا-معرفي» (Metacognitive Awareness) يحتاج توثيقاً أكاديمياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اللامركزية المعرفية

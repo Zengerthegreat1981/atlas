@@ -13,19 +13,20 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 evidence_level: "probably-efficacious"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
-- rel: "developed_by", target: "michael-white", target_type: "مفكر"
-- rel: "developed_by", target: "david-epston", target_type: "مفكر"
+- rel: "developed_by", target: "thk-mwhite", target_type: "مفكر"
+- rel: "developed_by", target: "thk-depston", target_type: "مفكر"
 related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "thk-depston", title: "ديفيد إبستون", type: "مفكر"
-- id: "sch-systemic-family", title: "العلاج الأسري النظامي", type: "مدرسة"
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
 - id: "tec-narrative-therapy", title: "العلاج السردي — تقنيات", type: "تقنية/تدخل علاجي"
 - id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
-- id: "con-relationality-indigenous", title: "العلاقية (Indigenous)", type: "مفهوم"
+- id: "con-relationality-indigenous", title: "العلاقية (Relationality)", type: "مفهوم"
 - id: "thk-cdenborough", title: "كريس دِنْبَره", type: "مفكر"
 - id: "thk-dwallis", title: "ديفيد واليس", type: "مفكر"
 - id: "thk-jfreedman", title: "جيل فريدمان", type: "مفكر"
@@ -100,17 +101,14 @@ gaps:
 - دراسات Effectiveness (خاصة في أستراليا ونيوزيلندا) أظهرت فعالية إكلينيكية في خدمات الصحة العامة.
 - هناك نقاش مستمرّ بين أنصاره (الذين يرون أن **عدم ملاءمته لـ RCTs** هو دليل على أصالته) ومنتقديه (الذين يعتبرون ذلك نقطة ضعف).
 
-## المطبوعات التأسيسية والمرجعيات
+## المصادر
 
 - White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. Norton.
 - White, M. (1995). *Re-authoring Lives: Interviews and Essays*. Dulwich Centre Publications.
-- White, M. (1997). *Maps of Narrative Practice*. Norton.
-- White, M. (2000). *Reflections on Narrative Practice: Essays and Interviews*. Dulwich Centre Publications.
 - White, M. (2007). *Maps of Narrative Practice*. Norton.
-- Epston, D., & White, M. (1992). "Experience, Contradiction, Narrative and Imagination." *Journal of Marital and Family Therapy*.
 - Freedman, J., & Combs, G. (1996). *Narrative Therapy: The Social Construction of Preferred Realities*. Norton.
 - Denborough, D. (2014). *Retelling the Stories of Our Lives: Everyday Narrative Therapy to Draw Inspiration and Transform Experience*. Norton.
-- Winslade, J., & Monk, G. (2007). *Narrative Counseling in Schools: Powerful and Brief*. Corwin Press.
+- Monk, G., Winslade, J., Crocket, K., & Epston, D. (Eds.). (1997). *Narrative Therapy in Practice: The Archaeology of Hope*. Jossey-Bass.
 
 ## العلاقى بالمدارس المجاورة
 
@@ -131,9 +129,3 @@ gaps:
 
 أثّرت المقاربة السردية في: (1) **العدالة الإصلاحية** (Restorative Justice) في نيوزيلندا وأستراليا، خاصة في مجتمعات الماوري؛ (2) **التعليم** عبر "Pedagogy of Narration"؛ (3) **العمل مع المجتمعات المهمّشة** (اللاجئون، السكان الأصليون)؛ (4) **تأطير حالات الصدمات** كنزاع بين السِّير المُهيمنة وتجارب الفرد المضادّة؛ (5) **حركة الـ "Voice" في الصحة النفسية** التي تؤكّد سردية الفرد المُعاني كسلاح للتعافي.
 
-## مرجعيات للقراءة المُعمَّقة
-
-- White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. Norton.
-- White, M. (2007). *Maps of Narrative Practice*. Norton.
-- Denborough, D. (2014). *Retelling the Stories of Our Lives*. Norton.
-- Monk, G., Winslade, J., Crocket, K., & Epston, D. (Eds.). (1997). *Narrative Therapy in Practice: The Archaeology of Hope*. Jossey-Bass.

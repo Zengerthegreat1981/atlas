@@ -12,6 +12,10 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 1980
+author: "سول كريبكي"
+author_slug: "thk-skripke"
+publication_year: 1980
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:

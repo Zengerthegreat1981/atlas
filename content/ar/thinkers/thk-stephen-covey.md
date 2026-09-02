@@ -13,14 +13,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: 2012
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والقيادة الشخصية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-7-habits", title: "العادات السبع للناس الأكثر فاعلية", type: "عمل / كتاب"
-- id: "con-seven-habits", title: "العادات السبع للفاعلية", type: "مفهوم"
+- id: "con-seven-habits", title: "العادات السبع للفاعلية والنمو الشخصي", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة (sch-) مستقل في الأطلس لـ«علم النفس الشعبي وتطوير القيادة الشخصية»، فحُذف رابط belongs_to وسُجِّلت المدرسة الغائبة في missing-schools.md."
+  - "الإطار الديني (كنيسة المورمون) وأثره في تكوين مفردات كوفي لم يُراجع من مصدر سيرة ذاتية أولي."
 ---
 
 # ستيفن كوفي
@@ -54,6 +53,8 @@ gaps:
 - *Principle-Centered Leadership* (1991).
 - *The 8th Habit* (2004).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Covey, S. R. (1989). *The 7 Habits of Highly Effective People*. Free Press.
+- Covey, S. R. (1994). *First Things First*. Simon & Schuster.
+- Covey, S. R. (1991). *Principle-Centered Leadership*. Free Press.

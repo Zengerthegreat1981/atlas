@@ -13,11 +13,13 @@ language: "السنسكريتية"
 active_start: 730
 active_end: 750
 edges:
-- rel: "belongs_to", target: "ميمامسا (بورفا ميمامسا) — بفرعيها بهاتا وبرابهاكرا", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-purva-mimamsa-prabhakara", target_type: "فرع مدرسة"
 related:
+- id: "sch-mimamsa", title: "ميمامسا (بورفا ميمامسا)", type: "مدرسة"
+- id: "br-purva-mimamsa-prabhakara", title: "الميمامسا البرابهاكرية — مدرسة الميمامسا", type: "فرع مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "مذهبه محفوظ عبر تلميذه شاليكاناتا ميشرا لا عبر نصّ أصلي كامل متداول بترجمة نقدية عربية؛ لا يوجد نص كامل يمكن الاقتباس منه مباشرة."
+  - "التواريخ الدقيقة لميلاده ووفاته غير مؤكَّدة (يُقدَّرها الباحثون تقريباً في النصف الأول من القرن الثامن الميلادي، معاصراً لكوماريلا بهاتا)."
 ---
 
 # برابهاكرا ميشرا
@@ -42,6 +44,8 @@ gaps:
 - *Laghvī* — شرحه الأصغر.
 - مذهبه محفوظ في *Prakaraṇapañcikā* لتلميذه شاليكاناتا ميشرا.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Kumar, R. (2001). *Bhāṭṭa and Prābhākara Mīmāṃsā: A Comparative Study*. Delhi.
+- Sinha, J. (1958). *Indian Epistemology of Perception*. Calcutta: Sinha Publishing House — تحليل نظرية "عدم التمييز" (akhyāti).
+- Bilimoria, P. "Prābhākara Mīmāṃsā". *Stanford Encyclopedia of Philosophy* / موسوعات الفلسفة الهندية الأكاديمية.

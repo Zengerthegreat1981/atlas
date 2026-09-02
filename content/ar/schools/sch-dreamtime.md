@@ -13,8 +13,7 @@ language: "متعددة (350+ لغة من لغات السكان الأصليين
 active_start: -50000
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+cultural_origin: "indigenous"
 related:
 - id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
 - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
@@ -56,3 +55,9 @@ gaps:
 - شديدة الخصوصية لكل قبيلة.
 - تختلف عن مفهوم «الحلم» في علم النفس الغربي.
 - صعوبة الترجمة.
+
+## المصادر
+
+- W.E.H. Stanner, *The Dreaming and Other Essays* (Black Inc., 1979).
+- A.P. Elkin, *The Australian Aborigines: How to Understand Them* (Angus & Robertson, 1938).
+- Deborah Bird Rose, *Nourishing Terrains: Australian Aboriginal Views of Landscape and Wilderness* (Australian Heritage Commission, 1996).

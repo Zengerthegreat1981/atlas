@@ -19,7 +19,6 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: بول ريكور (thk-ricœur)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: روبرت إنرايت (thk-enright)"
   - "المصادر الأولية (Augustine، Konstan، Enright) تحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'المغفرة' (Forgiveness) و'المصالحة' (Reconciliation) و'العفو' (Pardon) يحتاج فصلاً."
   - "العلاقة بـ'العدالة الانتقالية' (Transitional Justice) و'لجان الحقيقة والمصالحة' (Truth and Reconciliation Commissions) تحتاج توثيقاً."
 ---

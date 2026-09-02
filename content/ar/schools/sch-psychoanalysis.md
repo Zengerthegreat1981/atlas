@@ -10,6 +10,7 @@ crumb: "علم النفس ← المدارس الديناميكية/التحلي
 dates: "النمسا، سويسرا، المملكة المتحدة، الولايات المتحدة، فرنسا · من 1896 إلى اليوم"
 country: "النمسا، سويسرا، المملكة المتحدة، الولايات المتحدة، فرنسا"
 language: "الألمانية، الإنجليزية، الفرنسية"
+cultural_origin: "european"
 active_start: 1896
 active_end: "مستمر"
 edges:
@@ -23,25 +24,23 @@ edges:
 - rel: "split_into", target: "br-child-psychoanalysis", target_type: "تيار"
 related:
 - id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
-- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
-- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-- id: "thk-winnicott", title: " دونالد وينيكوت", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 - id: "wrk-fear-of-freedom-1941", title: "الخوف من الحرية (1941)", type: "عمل / كتاب"
 - id: "br-ego-psychology", title: "علم نفس الأنا", type: "تيار"
-- id: "br-bionian", title: "مدرسة بيون", type: "تيار"
-- id: "br-lacanian", title: "التحليل النفسي اللاكاني", type: "تيار"
-- id: "br-relational-psychoanalysis", title: "التحليل النفسي العلائقي", type: "تيار"
+- id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "تيار"
+- id: "br-lacanian", title: "التحليل النفسي اللاكاني وما بعد لاكان", type: "تيار"
+- id: "br-relational-psychoanalysis", title: "التحليل النفسي العلائقي الأمريكي", type: "تيار"
 - id: "thk-csoler", title: "كوليت سولر", type: "مفكر"
 - id: "thk-gadamoli", title: "غلاديس آدامولي", type: "مفكر"
 - id: "trm-besetzung-cathexis", title: "ترجمة Besetzung: شحن أم استثمار نفسي أم تعيين؟", type: "مصطلح لغوي متنازع عليه"
@@ -50,7 +49,6 @@ related:
 gaps:
   - "التواريخ الدقيقة لانشقاقات التيارات الفرعية (يونغ 1913، أدلر 1911، رانك 1926، لاكان 1953) موثّقة تاريخياً لكن لم تُقارن في هذا الملف."
   - "حجم واتجاه تأثير التحليل النفسي على الأدب والثقافة الشعبية يحتاج توسعة (لوسيان فرويد، سلفادور دالي، وودي آلن كحالات شائعة)."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: [مؤسِّسو ISAP / IIJP / NIJA / Israel Society of Analytical Psychology] (thk-aulanc)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: [مؤسِّسو رابطة ساندبلاي في أمريكا] (thk-ebosnak)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: [مؤسِّسو AAPA / مُنظِّمو SCAP / SVAJ / SOMEJ / SCAJ] (thk-edsch)."
@@ -140,7 +138,7 @@ gaps:
 - **التاريخ الأسود**: نظرية الغريزة الجنسية عند فرويد تتناقض مع المعايير الأخلاقية المعاصرة (لا سيما حول «هستيريا» الأنثوية، «غريزة الموت»، و«دوافع جنسية طفلية»).
 - **الاستمرارية مع المراجعة**: التيارات ما بعد فرويدية (علم نفس الذات، العلائقية، البين-ذاتية) عدّلت جوهر النظرية بحيث لم تعد «فرويدية» بالمعنى الحرفي.
 
-## المرجع الموصى
+## المصادر
 
 - Freud, S. (1900). *The Interpretation of Dreams*. Standard Edition 4-5.
 - Freud, S. (1915-1917). *Introductory Lectures on Psycho-Analysis*. Standard Edition 15-16.

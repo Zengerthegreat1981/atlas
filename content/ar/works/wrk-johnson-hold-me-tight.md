@@ -9,6 +9,10 @@ en: "Hold Me Tight: Seven Conversations for a Lifetime of Love by Sue Johnson"
 crumb: "كتب العلاقات الزوجية والتعلق ← أمهات الأعمال ← أمسك بي بقوة"
 active_start: null
 active_end: "مستمر"
+author: "سو جونسون"
+author_slug: "thk-sjohnson"
+publication_year: 2008
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 related:

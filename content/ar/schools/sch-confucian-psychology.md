@@ -16,7 +16,6 @@ evidence_level: "experimental"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس عبر الثقافي", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-confucian-early", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-newconfucianism-modern", target_type: "مدرسة"
 related:
@@ -72,3 +71,10 @@ gaps:
 
 «إن جوهر الرن ليس في فعل الإحسان، بل في القدرة على وضع النفس في موضع الآخر، وفي إدراك أن تحقيق الإنسانية شرط لا ينفصل عن إدراك إنسانية الآخرين.» — Roger T. Ames، *Role Ethics: A Confucian Alternative to Liberalism* (2010) — مُعاد صياغته من الإنجليزية.<br>
 «اعرف ما تعرف، وافعل ما يجب أن تفعل، وكن وفيّاً لما تتأمله في وحدتك.» — كونفوشيوس، *المختارات (Lunyu)*، الكتاب الثاني — ترجمة عن الصينية الكلاسيكية، الفقرة 4.6.
+
+## المصادر
+
+- Ames, Roger T., and Rosemont, Henry Jr. *The Analects of Confucius: A Philosophical Translation*. Ballantine Books, 1998.
+- Ames, Roger T. *Confucian Role Ethics: A Vocabulary*. University of Hawaii Press, 2011.
+- Kim, Uichol, and Berry, John W. (Eds.). *Indigenous Psychologies: Research and Experience in Cultural Context*. Sage Publications, 1993.
+- Tu, Weiming. *Confucian Thought: Selfhood as Creative Transformation*. State University of New York Press, 1985.

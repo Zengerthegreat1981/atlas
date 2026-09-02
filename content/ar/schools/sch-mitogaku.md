@@ -10,12 +10,10 @@ crumb: "الفلسفة ← اليابان ← ميتوغاكو"
 dates: "اليابان · من القرن 17 إلى القرن 19 م تقريباً"
 country: "اليابان"
 language: "اليابانية (بالإضافة إلى الصينية الكلاسيكية)"
+cultural_origin: "east-asian"
 active_start: 1657
 active_end: 1873
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "النيوكونفوشية اليابانية (مظلة)", target_type: "مظلة"
-- rel: "split_into", target: "الحركة الإصلاحية الميجية", target_type: "مظلة"
 related:
 - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
 - id: "sch-kokugaku", title: "كوكوغاكو", type: "مدرسة"
@@ -56,3 +54,10 @@ gaps:
 - بعد ميجي، استوعبت الدولة الجديدة الرموز الميتوغاكوية، لكن الميتوغاكو نفسها فقدت استقلالها كتيار فلسفي.
 - في القرن 20، أُعيدت قراءتها في إطار «القومية اللاهوتية» (State Shintō) ثم نُقدت في إطار «أيديولوجيا المَسّ» (Ivan Morris، *The Nobility of Failure*).
 - ميتوغاكو تُعدّ اليوم من أهمّ المسارات المؤسِّسة لمفهوم «الشرعية المزدوجة» في تاريخ الفكر السياسي الياباني (شرعية الإمبراطور + شرعية الشوغون).
+
+## المصادر
+
+- Bob Tadashi Wakabayashi, *Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825* (Harvard University Asia Center, 1986).
+- J. Victor Koschmann, *The Mito Ideology: Discourse, Reform, and Insurrection in Late Tokugawa Japan, 1790–1864* (University of California Press, 1987).
+- H.D. Harootunian, *Toward Restoration: The Growth of Political Consciousness in Tokugawa Japan* (University of California Press, 1970).
+- Ivan Morris, *The Nobility of Failure: Tragic Heroes in the History of Japan* (Holt, Rinehart and Winston, 1975).

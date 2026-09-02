@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1954
 active_end: 1998
 edges:
-- rel: "belongs_to", target: "ما بعد الحداثة (الفلسفية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-postmodernism-philosophical", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."

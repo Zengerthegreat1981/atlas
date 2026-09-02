@@ -13,7 +13,7 @@ active_start: 1938
 active_end: 1988
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "المدرسة الإنسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-gallport", title: "جوردون ألبورت", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"

@@ -15,6 +15,9 @@ edges:
 related:
 - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
 - id: "sch-critical-realism", title: "الواقعية النقدية", type: "مدرسة"
+- id: "thk-jmcdowell", title: "جون ماكدوويل", type: "مفكر"
+- id: "thk-rbrandom", title: "روبرت براندوم", type: "مفكر"
+- id: "thk-donald-davidson", title: "دونالد ديفيدسون", type: "مفكر"
 gaps:
   - "الفرق بين 'المعطى' عند سيلارز و'الإحساس الخام' عند كواين لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من المقال الأصلي (1956)."

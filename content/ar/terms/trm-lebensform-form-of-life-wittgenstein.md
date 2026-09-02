@@ -10,12 +10,13 @@ crumb: "فلسفة اللغة والأنثروبولوجيا الفلسفية �
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا توجد ترجمة عربية معيارية متفق عليها لمصطلح Lebensform يمكن الإحالة إليها؛ الترجمات الثلاث المذكورة كلها مستخدمة في الأدبيات العربية المتفرقة دون حسم."
+  - "علاقة المفهوم بنقاش الأنثروبولوجيا الفلسفية (بلسنر، غيلن) غير مغطاة هنا وتحتاج ملفاً مستقلاً."
 ---
 # شكل الحياة (Lebensform): الإطار الثقافي الحاكم للغة
 
@@ -32,3 +33,9 @@ gaps:
 ## الأثر في النسبوية الثقافية وعلم النفس الثقافي
 
 التأكيد على أن فهم الفرد يقتضي الغوص في نسيج تقاليده وشكل حياته المشترك.
+
+## المصادر
+
+- Wittgenstein, Ludwig. *Philosophische Untersuchungen* (Philosophical Investigations), 1953, §§19, 23, 241 — المواضع التي يرد فيها مصطلح Lebensform ذاته، ومنها عبارة «لو استطاع الأسد أن يتكلم...» في الملحق الثاني.
+- Cavell, Stanley. *The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy*, Oxford University Press, 1979 — قراءة مؤثرة لدور شكل الحياة كأساس أخير للتبرير عند فيتغنشتاين المتأخر.
+- Hunter, J. F. M. "'Forms of Life' in Wittgenstein's Philosophical Investigations", *American Philosophical Quarterly*, vol. 5, no. 4, 1968 — أول مسح تحليلي منهجي لاستخدامات المصطلح في النص وتعدد قراءاته.

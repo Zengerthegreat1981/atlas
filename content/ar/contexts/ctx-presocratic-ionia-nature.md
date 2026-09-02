@@ -10,10 +10,10 @@ crumb: "الفلسفة اليونانية المبكرة ← السياقات و
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-pre-socratics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pre-socratic", target_type: "مدرسة"
 related:
 - id: "trm-logos-heraclitus-stoic", title: "اللوغوس", type: "مصطلح لغوي متنازع عليه"
-- id: "thk-anaximander", title: "أنكسماندر", type: "مفكر"
+- id: "thk-anaximander", title: "أنكسمندر الميليسي", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

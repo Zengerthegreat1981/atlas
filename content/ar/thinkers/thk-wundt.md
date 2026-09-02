@@ -12,8 +12,7 @@ active_start: 1874
 active_end: 1920
 country: "ألمانيا"
 language: "الألمانية"
-edges:
-- rel: "belongs_to", target: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
@@ -27,7 +26,6 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس التجريبي (sch-experimental-psychology)"
 - "لم تُراجع بعد من نسخة أصلية مباشرة (Grundzüge der physiologischen Psychologie, 1874)."
-- "لا يوجد اقتباس مباشر موثوق متاح بعد."
 - "التمييز بين علم النفس التجريبي و«الفلسفة الرسمية» (Logik, 1880; Ethik, 1886) عند فونت يحتاج مراجعة موسعة."
 ---
 
@@ -49,3 +47,9 @@ gaps:
 ## أهم أعماله
 
 خطوط علم النفس الفسيولوجي (Grundzüge der physiologischen Psychologie, 1874) · المنطق (Logik, 1880-83) · أخلاقيات (Ethik, 1886) · نظام الفلسفة (System der Philosophie, 1889) · علم النفس الشعبي (Völkerpsychologie, 1900-1920، عشرة مجلدات).
+
+## المصادر
+
+- Wilhelm Wundt, *Grundzüge der physiologischen Psychologie*, 1874.
+- Arthur L. Blumenthal, "A Reappraisal of Wilhelm Wundt", *American Psychologist*, 1975.
+- Wilhelm Wundt, *System der Philosophie*, 1889.

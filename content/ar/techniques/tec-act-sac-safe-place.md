@@ -10,20 +10,20 @@ active_start: 1990
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "traditional"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "tec-act-sac-the-sky-and-weather-metaphor", title: "استعارة السماء والطقس", type: "تقنية/تدخل علاجي"
 - id: "tec-act-sac-noticing-who-is-noticing", title: "ملاحظة 'مين اللي بيلاحظ'", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "الفروقات بين المكان الآمن ACT والـgrounding في CBT تحتاج تمييزاً أكاديمياً أوضح."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد دراسة محددة بالاسم والسنة تثبت فعالية 'المكان الآمن' كتقنية مستقلة؛ الأدلة المتاحة عن imagery rescripting وsafe place visualization عموماً في العلاج بالتنويم، لا عن هذا الشكل تحديداً ضمن ACT."
+  - "لا يوجد اقتباس مباشر من هايز أو زملائه يربط هذا التمرين تحديداً بحزمة الذات كسياق في كتابهم المرجعي 1999."
 ---
 
 # المكان الآمن (تأمل)
@@ -32,9 +32,10 @@ gaps:
 
 ## السياق النظري
 
-- **الفئة في ACT**: الذات كسياق (Self-as-Context) — الممارسة تعزّز "أنا" الثابتة التي تلاحظ الخبرة.
-- **الفرق عن التأريض (Grounding) في CBT**: التأريض يعيد للحاضر (الحسّي)، المكان الآمن يبني "قاعدة" داخلية للاستقرار.
-- **الجذر العلاجي**: من تقنيات imagery rescripting، hypnotherapy، والـsafe place visualization المعروفة منذ عقود.
+- **مدرستها**: العلاج بالقبول والالتزام (ACT)، الذي أسّسه ستيفن سي. هايز (Steven C. Hayes) مطلع التسعينيات وصاغ إطاره الشامل في كتابه *Acceptance and Commitment Therapy* (1999) مع كيلي ويلسون وكيرك ستروساهل.
+- **الفئة في ACT**: الذات كسياق (Self-as-Context) — الممارسة تعزّز "أنا" الثابتة التي تلاحظ الخبرة، بالتوازي مع تقنيات "السماء والطقس" و"ملاحظة مين اللي بيلاحظ" في نفس الحزمة.
+- **الفرق عن التأريض (Grounding) في CBT**: التأريض يعيد للحاضر (الحسّي)، المكان الآمن يبني "قاعدة" داخلية للاستقرار — التقنية المنافسة الأقرب هي تِيب (TIPP) في DBT، التي تعتمد على تنظيم فسيولوجي سريع بدل التخيّل الموجّه.
+- **الجذر العلاجي**: من تقنيات imagery rescripting وhypnotherapy وsafe place visualization المستخدمة منذ عقود في علاج الصدمة، وتبنّتها ACT كأداة مساعدة ضمن حزمة الذات كسياق دون أن تكون ابتكاراً أصيلاً لهايز نفسه.
 
 ## الآلية والتطبيق العملي
 

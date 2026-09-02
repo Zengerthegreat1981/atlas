@@ -12,15 +12,15 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-bpowell", title: "برت باول", type: "مفكر"
-- id: "thk-ghoffman", title: "غلين هوفمان", type: "مفكر"
+- id: "thk-ghoffman", title: "كِنت هوفمان", type: "مفكر"
 - id: "thk-lkuhn", title: "ليندا كون", type: "مفكر"
 gaps:
-  - "تاريخ الميلاد الدقيق غير موثّق."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على تاريخ ميلاده الدقيق في المصادر المتاحة لنا."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
+  - "برنامج دائرة الأمان (Circle of Security) غير موجود كملف مدرسة/تيار مستقل في الأطلس — يحتاج تسجيلاً في missing-schools.md."
 ---
 
 # روبرت مارفن
@@ -48,6 +48,7 @@ gaps:
 - *Circle of Security* (DVD ومواد تدريبية، 2000).
 - *Shame and Early Adversity* (أبحاث متعددة).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Marvin, R., Cooper, G., Hoffman, K., & Powell, B. "The Circle of Security project: Attachment-based intervention with caregiver-pre-school child dyads." *Attachment & Human Development*, 2002.
+- موقع Circle of Security International — الصفحة المؤسسية للمؤسسين.

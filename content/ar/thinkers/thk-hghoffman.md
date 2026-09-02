@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بالواقع الافتراضي", target_type: "تيار"
+- rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
 related:
 - id: "thk-rizzo", title: "ألبرت «سكيب» ريزو", type: "مفكر"
 - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "تيار"

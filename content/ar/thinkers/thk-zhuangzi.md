@@ -50,3 +50,9 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Zhuangzi* (莊子، 33 فصلاً، 7 منها «داخلية» و15 «خارجية» و11 «مختلطة»).
+
+## المصادر
+
+- Watson, B. (trans., 1968). *The Complete Works of Chuang Tzu*. Columbia University Press.
+- Graham, A. C. (trans., 1981). *Chuang-tzu: The Inner Chapters*. Allen & Unwin.
+- Ziporyn, B. (trans., 2009). *Zhuangzi: The Essential Writings*. Hackett.

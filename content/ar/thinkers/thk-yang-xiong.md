@@ -12,21 +12,19 @@ language: "الصينية الكلاسيكية (Wenyan)"
 part: "philosophy"
 active_start: -30
 active_end: 18
-edges:
-- rel: "belongs_to", target: "الكونفوشية الهانية", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-dong-zhongshu", title: "دونغ تشونغ-شو", type: "مفكر"
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
-- id: "thk-mencius", title: "منسيوس", type: "مفكر"
-- id: "thk-xunzi", title: "شيون تسي", type: "مفكر"
-- id: "sch-confucian-early", title: "الكونفوشيوسية المبكرة", type: "مدرسة"
-- id: "sch-yinyang", title: "اليين-يانغ", type: "مدرسة"
-- id: "sch-legalism", title: "الشرعوية (Legalism)", type: "مدرسة"
-- id: "con-yin-yang", title: "اليين-يانغ", type: "مفهوم"
+- id: "thk-dong-zhongshu", title: "دونغ تشونغ شو", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو (شون كوانغ)", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "con-yin-yang", title: "الين-يانغ (陰陽) — التقابل الكوني", type: "مفهوم"
 gaps:
-  - "كتاب 'Taixuan' (القصور الكبير) ما زال يحتاج تحقيقاً لغويّاً حديثاً."
-  - "لا توجد ترجمة عربية لـFayan أو Taixuanjing."
-  - "علاقته بـBan Gu وSima Qian في بلاط هان تحتاج إعادة تقييم."
+  - "لا يوجد ملف مدرسة معتمد باسم 'الكونفوشية الهانية' (Han Confucianism) في الأطلس — كان هذا نصاً حراً في edges.belongs_to بلا slug فعلي؛ الأقرب هو sch-confucian-early لكنه يغطي المرحلة المبكرة لا مرحلة هان تحديداً، فأُزيل الرابط وسُجّل في missing-schools.md بدل التخمين."
+  - "كتاب 'Taixuanjing' (القصور الكبير) ما زال يحتاج تحقيقاً لغويّاً حديثاً بالعربية؛ لا توجد ترجمة عربية لا لـFayan ولا لـTaixuanjing."
 ---
 
 # يانغ شيونغ
@@ -44,7 +42,7 @@ gaps:
 - **"نظرية المعرفة" (Epistemology)": تمييز بين "الظنّ" (Yi)، "الاعتقاد" (Xin)، و"المعرفة" (Zhi)، مع تشديد على "التحقّق التجريبي" (Yan-zheng).
 - **"اللغة والواقع"**: تفسيره لـ"العلامة" (Ming) و"الواقع" (Shi)، معتبراً اللغة "أداة تشخيص" لا "مرآة طبيعية".
 
-## موقعه منتيار
+## موقعه من التيار
 
 يقع يانغ شيونغ عند "مفترق" الكونفوشيوسية في أوائل هان. خلافاً لـDong Zhongshu (الذي طوّر "الكونفوشيوسية الرسمية" بإدخال عناصر كوسمولوجية من اليين/يانغ و"النجوم الخمسة")، يانغ شيونغ يركّز على "النصّ" و"المنطق". خلافاً لـZhu Xi (القرن 12 م، الذي سيُعيد قراءة الكونفوشيوسية بعمق أكبر)، يانغ شيونغ يحتفظ بـ"الإرث الديني" لكن مع "الحدّ" من الميتافيزيقا. تأثّر بـXunzi (العلمية الواقعية) وConfucius (اللياقة). كثيراً ما يُوضع في "حركة التحديث" في هان، إلى جانب Wang Chong (الذي كتب "Lunheng" بعده بمئة عام).
 
@@ -57,7 +55,9 @@ gaps:
 - *Shenjian* (مرآة الإله، مفقود، نُقل شذرات).
 - *Jiaoshi* (تعليق على Yijing، مفقود).
 
-## اقتباسات مختارة
+## المصادر
 
-> "التعلّم ليس مجرّد قراءة الكتب، بل قراءة الكتب والعالم معاً."
-> *(Fayan، الكتاب 5، '问道'، ترجمة: مايكل ليو)*
+- Nylan, M. (trans.), *Exemplary Figures / Fayan* (2013), University of Washington Press — الترجمة الإنجليزية النقدية المرجعية.
+- Nylan, M. & Csikszentmihalyi, M. (eds.), *China's Early Empires: A Re-appraisal* (2010), Cambridge University Press — فصل عن يانغ شيونغ في بلاط هان.
+- Knechtges, D. R., *The Han Rhapsody: A Study of the Fu of Yang Hsiung* (1976), Cambridge University Press.
+- Ban Gu, *Hanshu (漢書)*, "سيرة يانغ شيونغ" — المصدر الصيني الكلاسيكي الأقدم لسيرته.

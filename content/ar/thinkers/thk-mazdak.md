@@ -10,7 +10,7 @@ dates: "إيران الساسانية · القرن 6 م"
 country: "إيران"
 language: "البهلوية (الفارسية الوسطى)"
 active_start: 488
-active_end: 524
+active_end: 528
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← مزدك"
 edges:
@@ -39,3 +39,9 @@ gaps:
 ## القيد
 
 كل ما نعرفه عن مزدك وصلنا عبر أعدائه: كتابات الزرادشتي الساساني «بندهش»، والنص الكرماني «أوسطاي» (Zand-i Wahman Yasn)، والروايات العربية-الإسلامية. الانطباع الحالي ربما يكون منقوصاً بقدر تحامل هذه المصادر.
+
+## المصادر
+
+- الطبري، تاريخ الرسل والملوك (رواية قباد ومزدك).
+- Yarshater, E. (Ed.) (1983). *The Cambridge History of Iran, Vol. 3: The Seleucid, Parthian and Sasanid Periods*. Cambridge University Press (فصل الحركة المزدكية).
+- Crone, P. (1991). "Kavād's Heresy and Mazdak's Revolt." *Iran*, 29, 21–42.

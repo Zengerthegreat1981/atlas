@@ -12,15 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-- id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
+- id: "con-anxiety", title: "القلق", type: "مفهوم"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
 - id: "wrk-concept-anxiety", title: "مفهوم القلق", type: "عمل / كتاب"
 
 gaps:
-  - "يحتاج مراجعة مباشرة من نصوص كيركيغارد وهايدجر الأصلية (بالدنماركية والألمانية) بدل الاعتماد على مناقشات الترجمة الثانوية فقط"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا مقارنة منشورة موثّقة بين مقابلات 'قلق'/'رهبة'/'دهشة' في ترجمات عربية فعلية لـ'مفهوم القلق' و'الوجود والزمان' — المتن يصف نزاع الترجمة الإنجليزية أساساً، لا وجود مترجمين عرب بالاسم بعد."
 ---
 
 # ترجمة Angst: قلق أم فزع أم دهشة؟
@@ -41,4 +39,10 @@ gaps:
 
 ## ملاحظة منهجية
 
-هذا العنصر لا يحسم أي ترجمة هي 'الصحيحة'، بل يوثق الخلاف نفسه بوصفه معرفة مهمة يحتاجها القارئ العربي تحديداً.
+هذا العنصر لا يحسم أي ترجمة هي 'الصحيحة'، بل يوثق الخلاف نفسه بوصفه معرفة مهمة يحتاجها القارئ العربي تحديداً. مترجم كيركيغارد الأمريكي رايدار ثومتي غيّر عنوان الكتاب في نسخة 1980 من 'The Concept of Dread' (ترجمة والتر لاوري 1944) إلى 'The Concept of Anxiety' تحديداً لهذا الخلاف، بينما التزم مترجما هايدجر ماكواري وروبنسون بكلمة 'Anxiety' في نسختهما الإنجليزية لـ'الوجود والزمان' (1962).
+
+## المصادر
+
+- Kierkegaard, Søren. *The Concept of Anxiety*. Translated by Reidar Thomte, Princeton University Press, 1980.
+- Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Robinson, Blackwell, 1962.
+- Sartre, Jean-Paul. *Being and Nothingness*. Translated by Hazel E. Barnes, Philosophical Library, 1956.

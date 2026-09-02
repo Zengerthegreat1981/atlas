@@ -17,15 +17,13 @@ edges:
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-- id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
 - id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
 - id: "wrk-focusing", title: "التركيز (Focusing)", type: "عمل / كتاب"
-- id: "tec-four-existential-dimensions-healing", title: "الأبعاد الأربعة للشفاء: الجسدي، النفسي، الاجتماعي، الروحي", type: "تقنية/تدخل علاجي"
-- id: "tec-process-experiential-tasks", title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)", type: "تقنية/تدخل علاجي"
+- id: "thk-leijssen", title: "ميا لايسن", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تقنية التركيز (Focusing) ومفهوم 'الحس المُعاش جسدياً' (Felt Sense) تتطلب إدراجاً في التقنيات (tec-)."
+  - "رابطا 'الأبعاد الأربعة للشفاء' و'المهام العلاجية بالانفعال' حُذفا: الأول أقرب لتصنيف إيمي فان ديورزن لا لعمل جندلين، والثاني تقنية غرينبرغ وآيسي (العلاج الانفعالي المركَّز) لا ابتكار جندلين نفسه — إدراجهما هنا كان نسبة غير دقيقة لصاحبها الحقيقي."
   - "**ازدواج مؤكَّد**: thk-egendlin يعالج الشخص نفسه (يوجين جيندلين، 1926–2017). الملفّان حيّان معاً بروابط قائمة، والدمج قرار تحريري."
 ---
 

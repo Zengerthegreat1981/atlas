@@ -13,20 +13,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1976
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعمل الاجتماعي", target_type: "مدرسة"
-- rel: "influenced", target: "علم النفس الاجتماعي (Social Psychology)", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-brene-brown", title: "برينيه براون", type: "مفكر"
-- id: "sch-social-psychology", title: "علم النفس الاجتماعي", type: "مدرسة"
-- id: "con-relationality-indigenous", title: "العلائقية في فلسفات الشعوب الأصلية", type: "مفهوم"
-- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
-  - "موقف تركل من «الذكاء الاصطناعي العاطفي» (2019-) يحتاج متابعة لأحدث أعمالها."
-  - "مقارنة منهجها الإثنوغرافي بمنهج إيف غودمان في «الذكاء الاصطناعي العاطفي» لم تُنشر بعد."
-  - "ترجمة أعمالها للعربية محدودة جداً، خاصة «Reclaiming Conversation» (2015)."
-  - "استقبالها النقدي من علماء الاجتماع الرقمي المختلفين معها (تيرنر، بنكل) موثّق جزئياً."
-  - "علاقتها بمعهد ماساتشوستس للتكنولوجيا وأبحاثها في روبوتات الدعم الاجتماعي لم تُلخّص بعد."
+  - "موقف تركل من «الذكاء الاصطناعي العاطفي» بعد 2019 يحتاج متابعة لأحدث أعمالها."
+  - "ترجمة أعمالها للعربية محدودة جداً، خاصة Reclaiming Conversation (2015)."
+  - "استقبالها النقدي من علماء الاجتماع الرقمي المختلفين معها موثّق جزئياً فقط."
+  - "لا توجد في الأطلس حالياً مدرسة موثّقة باسم «علم النفس الشعبي والعمل الاجتماعي» يمكن ربطها بها كـbelongs_to؛ حُذف الرابط بدل اختراع slug."
 ---
 
 # شيري تركل
@@ -70,6 +64,9 @@ gaps:
 - **«وحدنا معاً»** (2011) — الاتصال والوحدة.
 - **«استعادة المحادثة»** (2015) — فنّ المحادثة المهدَّد.
 
-## اقتباس مختار
+## المصادر
 
-«نتحدّث في ما يخصّ الكمبيوتر، لكنّنا ننسى كيف نتحدّث في ما يخصّ الأمل، والخوف، والملل، والغيرة. هذه ليست أموراً تخصّ الخوارزميات. هذه أمور تخصّ البشر.»
+- Turkle, S. (1984). *The Second Self: Computers and the Human Spirit*. Simon & Schuster.
+- Turkle, S. (1995). *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster.
+- Turkle, S. (2011). *Alone Together: Why We Expect More from Technology and Less from Each Other*. Basic Books.
+- Turkle, S. (2015). *Reclaiming Conversation: The Power of Talk in a Digital Age*. Penguin Press.

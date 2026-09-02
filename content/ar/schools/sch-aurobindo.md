@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← أوروبندو"
 dates: "الهند · من 1910 إلى 1950"
 country: "الهند (بوندشيري)"
 language: "الإنجليزية، السنسكريتية، الفرنسية"
+cultural_origin: "indian"
 active_start: 1910
 active_end: 1950
 edges:
@@ -52,3 +53,10 @@ gaps:
 
 - تواجه انتقادات بسبب «الجوهرية» الروحية.
 - تهمل أحياناً البُعد الاجتماعي.
+
+## المصادر
+
+- Aurobindo, Sri. *The Life Divine*. Sri Aurobindo Ashram Press, 1939-1940 (revised ed. 1955).
+- Aurobindo, Sri. *The Synthesis of Yoga*. Sri Aurobindo Ashram Press, 1948.
+- Heehs, Peter. *The Lives of Sri Aurobindo*. Columbia University Press, 2008.
+- Chaudhuri, Haridas, & Spiegelberg, Frederic (Eds.). *The Integral Philosophy of Sri Aurobindo*. George Allen & Unwin, 1960.

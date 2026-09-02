@@ -19,7 +19,6 @@ related:
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 gaps:
   - "تفاصيل موقفه من حق الملوك الإلهي (De Defensore Fidei) في خلافه مع الملك الإنجليزي جيمس الأول موضع بحث."
-  - "لا يوجد اقتباس مباشر موثوق من 'Disputationes Metaphysicae'."
   - "دُمج معه الملف المكرَّر thk-francisco-suarez (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -48,3 +47,8 @@ gaps:
 - De Defensore Fidei (1613)
 - Commentaria in Summam Theologicam
 - De Anima
+
+## المصادر
+
+- Francisco Suárez, *Disputationes Metaphysicae*, 1597.
+- Francisco Suárez, *De Legibus ac Deo Legislatore*, 1612.

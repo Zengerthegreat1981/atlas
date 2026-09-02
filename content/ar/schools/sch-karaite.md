@@ -12,14 +12,15 @@ country: "العراق العباسي، فلسطين، مصر الفاطمية،
 language: "العربية، العبرية"
 active_start: 750
 active_end: 1240
+cultural_origin: "islamic-arabic"
 edges:
-- rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 related:
-- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 - id: "thk-isaac-blind", title: "إسحاق العميان (إسحاق بن سليمان الإسرائيلي)", type: "مفكر"
 gaps:
   - "نصوص عنان بن داود ويوسف البصيري بالعربية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'كتاب المناظرات' أو 'كتاب الأصول'."
+  - "اقتباس مباشر موثّق بالصفحة من 'كتاب المناظرات' أو 'كتاب الأصول' لم يُدرَج بعد في هذه المسودة."
   - "العلاقة بين القرائيين وعلم الكلام المعتزلي المبكر لا تزال موضع نقاش."
 ---
 
@@ -64,3 +65,10 @@ gaps:
 - في يهودية القرون الوسطى: أثّرت في مقاربة ابن ميمون (القرّائيّ يقرأ النصّ فقط، والفيلسوف المشّائي يقرأ النصّ ويؤوله فلسفياً، فكان لابن ميمون ميل إلى العقل التفسيري دون أن يصل إلى رفض التلمود).
 - في علم الكلام الإسلامي: تأثّر القرّائيّون بأسلوب المعتزلة، فكانوا ضمن «نقل» علم الكلام الإسلامي إلى التراث اليهودي.
 - في الإصلاح البروتستانتي: يرى بعض الباحثين تشابهاً بنيوياً بين موقف القرّائيين من التلمود وموقف لوثر من التقليد الكنسي (كلاهما نصّ مقابل تقليد).
+
+## المصادر
+
+- Daniel J. Lasker, *From Judah Hadassi to Elijah Bashyatchi: Studies in Late Medieval Karaite Philosophy* (Brill, 2008).
+- Haggai Ben-Shammai, "Kalam in Medieval Jewish Philosophy," in *History of Jewish Philosophy*, ed. Daniel H. Frank and Oliver Leaman (Routledge, 1997).
+- Leon Nemoy (ed. & trans.), *Karaite Anthology: Excerpts from the Early Literature* (Yale University Press, 1952).
+- Meira Polliack (ed.), *Karaite Judaism: A Guide to Its History and Literary Sources* (Brill, 2003).

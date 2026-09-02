@@ -13,15 +13,12 @@ active_start: 1935
 active_end: 1971
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الإدمان", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-addiction-psychology", target_type: "مدرسة"
 related:
 - id: "thk-dbob", title: "د. بوب (روبرت هولبروك سميث)", type: "مفكر"
-- id: "tec-matrix-model", title: "نموذج المصفوفة (Matrix Model)", type: "تقنية/تدخل علاجي"
-- id: "thk-jkadden", title: "كاثلين كاري", type: "مفكر"
 gaps:
   - "علاقة صياغة الخطوات بتجربته الشخصية وبإشراف الطبيب ويليام دنكان سيلكوورث (William Duncan Silkworth) تحتاج توثيقاً من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثلين كاري (thk-jkadden)."
+  - "روابط 'نموذج المصفوفة' (tec-matrix-model) و'كاثلين كاري' (thk-jkadden) حُذفت: لا صلة موثقة أو مذكورة في متن الملف بين بيل ويلسون وأيٍّ منهما."
 ---
 
 # بيل ويلسون (مؤسس AA)

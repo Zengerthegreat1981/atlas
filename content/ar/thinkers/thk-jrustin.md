@@ -2,42 +2,39 @@
 slug: "thk-jrustin"
 id: "THK-1345"
 type: "مفكر"
-level: "متوسط"
-title: "إِريك رُستِن"
-en: "Evelyn R. (Rustin) — Michael Rustin"
-crumb: "مدرسة التحليل النفسي ← الناس ← ميخائيل رُستِن"
-dates: "بريطانيا · [غير مؤكد]"
+level: "متقدم"
+title: "مايكل رُستِن"
+en: "Michael Rustin"
+crumb: "مدرسة التحليل النفسي ← الناس ← مايكل رُستِن"
+dates: "المملكة المتحدة · وُلد 1938"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "سيرة شخصية محدودة في المصادر المتاحة."
+gaps: []
 ---
 
-# إِريك رُستِن
+# مايكل رُستِن
 
-محلل نفسي بريطاني، أحد أكبر «مؤسسي» علم نفس المؤسسة في BPSI.
+أستاذ علم الاجتماع الفخري في جامعة شرق لندن (University of East London) وأستاذ زائر في مصحة تافيستوك (Tavistock Clinic) بلندن (وُلد عام 1938)، رائد التحليل النفسي المؤسسي والدراسات الكلاينية المطبقة على المجتمع.
 
-## ما أعطاه
+## التحليل النفسي للمؤسسات ورعاية الطفولة
 
-- «النظم في علاج التحليل» (Systems in Psychoanalytic Therapy، التسعينيات من القرن العشرين) — تطبيق التحليل النفسي على المؤسسات (مستشفى، سجون، مدارس).
-- «مؤسسة تافيستوك» — «Tavistock Lectures» السنوية (الثلاثينيات من القرن العشرين–70s).
-- «علاج الأسر» — جسر بين التحليل النفسي وعلاج الأسر.
+قدّم رُستِن بالاشتراك مع مارغريت رُستِن أبحاثاً رائدة في تطبيق التحليل النفسي البريطاني ونظرية العلاقات بالموضوع ونظرية التعلق لجون بولبي (John Bowlby) على بنية المؤسسات الصحية والتربوية والسجون. حلل كيف تنتج المؤسسات دفاعات لاواعية ضد القلق والألم النفسي، مؤكداً على ضرورة توفير «بيئة حاوية» (Containing Environment) للعاملين في رعاية الأطفال لضمان استدامة الرعاية الإنسانية الفعالة.
 
-## موقعه من التيار
+## أهم المؤلفات
 
-«مؤسس تطبيق التحليل النفسي على المؤسسات» (Psychodynamic Institutional Care).
+- *The Good Society and the Inner World: Psychoanalysis, Politics and Culture* (Verso, 1991).
+- *Reason and Unreason: Psychoanalysis, Science and Politics* (Continuum, 2001).
+- *Narratives of Love and Loss: Studies in Modern Children's Fiction* (مع مارغريت رُستِن، 1987/2001).
 
-## القيد
-سيرة شخصية محدودة في المصادر المتاحة.
+## المصادر
 
-## أهم أعماله
-
-مقالات متعددة في J. Child Psychotherapy وTavistock Press.
+- Rustin, M. (1991). *The Good Society and the Inner World: Psychoanalysis, Politics and Culture*. Verso.
+- Rustin, M. (2001). *Reason and Unreason: Psychoanalysis, Science and Politics*. Continuum.
+- Hinshelwood, R. D., & Chiesa, M. (Eds.). (2002). *Organisations, Anxiety and Defence: Towards a Psychoanalytic Social Psychology*. Whurr Publishers.

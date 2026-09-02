@@ -12,20 +12,14 @@ active_start: 1920
 active_end: 1972
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-cassirer", title: "إرنست كاسيرر", type: "مفكر"
-- id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "thk-dewey", title: "جون ديوي", type: "مفكر"
-- id: "thk-calkins", title: "ماري ويتون كالكينز", type: "مفكر"
-- id: "thk-fc-schiller", title: "ف. س. س. شيلر", type: "مفكر"
-- id: "thk-munsterberg", title: "هوغو مونستربرغ", type: "مفكر"
-- id: "thk-titchener", title: "إدوارد بردجِس تيتشنر", type: "مفكر"
 - id: "con-world-hypotheses-pepper", title: "فروض العالم (World Hypotheses) عند بِبِر", type: "مفهوم"
 gaps:
   - "نسب أعماله إلى الفلسفة الجمالية تحديداً يحتاج تدقيقاً إضافياً."
   - "تأثيره على علم النفس التطبيقي محدود التوثيق في المصادر العربية."
+  - "رابط belongs_to السابق كان يشير خطأً إلى مدرسة الظاهراتية الوجودية (هوسرل/بينسفانغر/بوس) رغم أن بِبِر لا صلة مباشرة موثّقة له بها — حُذف الرابط. لا توجد مدرسة `sch-` للسياقية الفلسفية الأمريكية (Contextualism) في الأطلس؛ سُجّلت في agents_specs/missing-schools.md."
+  - "روابط `thk-cassirer`، `thk-james`، `thk-dewey`، `thk-calkins`، `thk-fc-schiller`، `thk-munsterberg`، `thk-titchener` أُزيلت — العلاقة المباشرة بينها وبِبِر لم تُشرَح أو تُوثَّق في المتن."
 ---
 
 # ستيفن كول بِبِر
@@ -60,3 +54,8 @@ gaps:
 - *أسس النقد الأخلاقي* (1935).
 - *أسس النقد الفني* (1945).
 - *عمل العلم* (1946).
+
+## المصادر
+
+- Pepper, S. C. (1942). *World Hypotheses: A Study in Evidence*. University of California Press.
+- Pepper, S. C. (1945). *The Basis of Criticism in the Arts*. Harvard University Press.

@@ -10,10 +10,11 @@ crumb: "الفلسفة ← الهند ← المدارس غير الأرثوذك
 dates: "الهند (البنجاب) · من القرن 15 م إلى اليوم"
 country: "الهند (البنجاب)"
 language: "البنجابية (الجرخي مكتوبة بالأرابيك)، الفارسية"
+cultural_origin: "indian"
 active_start: 1469
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "Bhakti", target_type: "تيار"
+- rel: "evolved_from", target: "sch-bhakti-movement", target_type: "مدرسة"
 related:
 - id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
 - id: "thk-nanak", title: "غورو ناناك (مؤسس السيخية)", type: "مفكر"
@@ -60,3 +61,11 @@ gaps:
 ## القيد
 
 - الخلط بين العقيدة الفلسفية والعقيدة الدينية لا يزال محل نقاش.
+
+## المصادر
+
+- Singh, Nirbhai. *Philosophy of Sikhism: Reality and Its Manifestations*. New Delhi: Atlantic Publishers, 1990.
+- McLeod, W.H. *Sikhism*. London: Penguin Books, 1997.
+- Cole, W. Owen & Sambhi, Piara Singh. *The Sikhs: Their Religious Beliefs and Practices*. London: Routledge & Kegan Paul, 1978.
+- Singh, Pashaura. *The Guru Granth Sahib: Canon, Meaning and Authority*. New Delhi: Oxford University Press, 2000.
+- Grewal, J.S. *The Sikhs of the Punjab*. Cambridge: Cambridge University Press, 1990.

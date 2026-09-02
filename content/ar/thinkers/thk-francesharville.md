@@ -6,7 +6,7 @@ part: "psychology"
 level: "متقدم"
 title: "فرانسين شابيرو (ملف مكرّر)"
 en: "Francine Shapiro"
-crumb: "علم النفس ← العلاج بمساعدة حركات العين ← مؤسس ← فرانسيس شابيرو"
+crumb: "علم النفس ← العلاج بمساعدة حركات العين ← مؤسس ← فرانسين شابيرو"
 dates: "الولايات المتحدة · 1948–2019"
 active_start: 1987
 active_end: 2019
@@ -17,7 +17,6 @@ edges:
 - rel: "belongs_to", target: "sch-emdr", target_type: "مدرسة"
 related:
 - id: "sch-emdr", title: "EMDR", type: "مدرسة"
-- id: "thk-besselvanderkolk", title: "بسل فان دير كولك", type: "مفكر"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب ما بعد الصدمة", type: "اضطراب/حالة إكلينيكية"
 gaps:

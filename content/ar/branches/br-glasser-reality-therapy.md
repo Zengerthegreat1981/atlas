@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-glasser", target_type: "مفكر"
 related:
 - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
-- id: "con-choice-theory", title: "نظرية الاختيار", type: "مفهوم"
+- id: "con-choice-theory", title: "نظرية الاختيار (Choice Theory)", type: "مفهوم"
 - id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
 - id: "con-quality-world", title: "العالم النوعي (Quality World)", type: "مفهوم"
 gaps:

@@ -10,21 +10,20 @@ crumb: "الفلسفة ← القرن 19 ← إصلاح الهندوسية ← �
 dates: "الهند · من 1815 إلى 1947"
 country: "الهند"
 language: "الإنجليزية، السنسكريتية، البنغالية، التاميلية"
+cultural_origin: "indian"
 active_start: 1815
 active_end: 1947
 edges:
 - rel: "evolved_into", target: "sch-neo-vedanta", target_type: "مدرسة"
-- rel: "belongs_to", target: "الفلسفة الهندوسية المعاصرة", target_type: "مظلة"
 related:
-- id: "thk-dayananda", title: "سوامي داياناندا سراسواتي", type: "مفكر"
-- id: "thk-vivekananda", title: "سوامي فيفكاناندا", type: "مفكر"
+- id: "thk-dayananda", title: "سوامي دياناندا ساراسواتي", type: "مفكر"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا (نيو-فيدانتا)", type: "مفكر"
 - id: "thk-aurobindo", title: "سري أوروبندو", type: "مفكر"
-- id: "thk-tagore", title: "رابندرانات طاغور", type: "مفكر"
-- id: "thk-gandhi", title: "موهانداس غاندي", type: "مفكر"
+- id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«رام موهان روي» (thk-rammohanroy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات 'بنارسيداس' (Banarsidas Chintamani) في 'حركة الإصلاح' لم تُغطَ في الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الهندوسية الجديدة (إصلاح القرن 19)
@@ -61,3 +60,10 @@ gaps:
 - ليست «مذهباً موحداً»، بل مظلة لتيارات متعددة (راماكريشنا، آريا، براهمو، فيشنو، شيفا).
 - تهمة «الغربية» (نقد) تستحق مراجعة مع كتابات طاغور وغاندي.
 - صلة «الهندوسية الجديدة» بـ«النيو-فيدانتا» تحتاج إلى تمييز دقيق.
+
+## المصادر
+
+- Swami Vivekananda, خطاب "Response to Welcome" أمام Parliament of the World's Religions، شيكاغو 1893.
+- Rabindranath Tagore, *The Religion of Man* (1931).
+- Mohandas Gandhi, *An Autobiography: The Story of My Experiments with Truth* (1927).
+- Rammohan Roy وتأسيس Brahmo Samaj (1828) — وثائق الحركة.

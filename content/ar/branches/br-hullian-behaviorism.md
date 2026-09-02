@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 gaps:
   - "النموذج الرياضي المنطقي الصارم لكلارك هَل (Clark Hull) في كتاب 'مبادئ السلوك' (1943)."
   - "دمج نظرية التعلم السلوكي مع مفاهيم الصراع والتحليل النفسي في أعمال تلاميذه (دولارد وميلر)."

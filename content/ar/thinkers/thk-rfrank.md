@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+edges: []
 related:
 - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
@@ -21,7 +20,7 @@ related:
 - id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـرويلا فرانك."
 ---
 
 # رويلا فرانك
@@ -42,7 +41,3 @@ gaps:
 
 - *The First Idea* (2001).
 - *Tales of a Body Traveler* (2014).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

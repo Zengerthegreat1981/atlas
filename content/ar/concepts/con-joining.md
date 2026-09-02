@@ -17,14 +17,12 @@ related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
-- id: "con-family-structure", title: "البنية الأسرية", type: "مفهوم"
-- id: "con-boundaries-psychological", title: "الحدود النفسية", type: "مفهوم"
-- id: "con-subsystems", title: "الأنظمة الفرعية الأسرية", type: "مفهوم"
-- id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري", type: "مفهوم"
+- id: "con-family-structure", title: "البنية الأسرية (Family Structure)", type: "مفهوم"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 gaps:
   - "التمييز بين 'الانضمام' و'التقليد' (Mimesis) و'التعقب' (Tracking) يختلف بين المراجع؛ يحتاج توحيد مصطلحي."
   - "لا توجد تجارب عشوائية مضبوطة (RCT) معزولة تقيس الانضمام كتقنية مستقلة، مع أن كفاءته السريرية مدعومة بخبرة إكلينيكية واسعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم يُدرَج اقتباس أولي موثّق في هذا الملف."
 ---
 # الانضمام العلاجي (Joining)
 

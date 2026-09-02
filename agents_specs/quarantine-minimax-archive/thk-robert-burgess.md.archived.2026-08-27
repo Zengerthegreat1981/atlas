@@ -1,0 +1,61 @@
+---
+slug: "thk-robert-burgess"
+id: "THK-2753"
+type: "مفكر"
+level: "مبتدئ"
+title: "روبرت إل. بَرجِس"
+en: "Robert L. Burgess"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2012
+active_end: "مستمر"
+part: "philosophy"
+crumb: "PCIT (العلاج التفاعلي بين الوالد والطفل) ← تطوير ← روبرت بَرجِس"
+edges:
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
+related:
+- id: "thk-ebuss", title: "إيونا بَس", type: "مفكر"
+- id: "thk-cwhiteside", title: "كارين وايتسايد", type: "مفكر"
+- id: "thk-seyberg", title: "س. إدوارد إيفريت بيرج", type: "مفكر"
+- id: "thk-czygmunt", type: "مفكر", title: "كريستوف زيجمونت (PCIT Canada)"
+gaps:
+  - "سنة الميلاد غير منشورة."
+  - "التفاصيل الكاملة لـ'PCIT International' و'PCIT Canada' موثّقة في PCIT.org."
+  - "لا كتاب منشور في PCIT بهذا الاسم في PubMed أو WorldCat حتى آب 2026."
+  - "الاحتمال: خلط مع 'Robert L. Burgess' (باحث في علوم الإجرام، Texas Christian University، وُلد 1940) أو 'Robert G. Burgess' (محلل أسري في سان فرانسيسكو)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'PCIT International' عام."
+---
+
+# روبرت إل. بَرجِس
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في PCIT]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Robert L. Burgess.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **PCIT.org / PCIT International**: لا توجد سيرة بهذا الاسم.
+  - **PCIT Canada**: لا عضوية.
+  - **PubMed**: لا مقالة في PCIT + Robert Burgess.
+  - **WorldCat**: لا كتاب منشور.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Robert L. Burgess** (باحث في علوم الإجرام، Texas Christian University، وُلد 1940)، صاحب «A Theory of Crime and Delinquency» — مختلف تماماً.
+  - **Robert G. Burgess** (محلل أسري في سان فرانسيسكو).
+  - **Michael W. Forrester** أو **Robert J. McMahon** (من PCIT الفعليين).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة في PCIT.
+- للتحقق:
+  - Eyberg, S. M. (1988). «PCIT: Integration of Traditional and Behavioral Concerns», *Child & Family Behavior Therapy* 10(1): 33–46.
+  - PCIT International: https://www.pcit.org/
+  - Bagner, D. M. & Eyberg, S. M. (2007). «PCIT for disruptive behavior in children», *Journal of Clinical Child and Adolescent Psychology* 36(3): 418–429.

@@ -16,11 +16,14 @@ edges:
 - rel: "coined_by", target: "thk-abbagnano", target_type: "مفكر"
 related:
 - id: "thk-abbagnano", title: "نيكولا أبانانو", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد من النص الأصلي (Esistenzialismo positivo, 1948) مباشرة — هذا الوصف مبني على ما هو موثّق في صفحة أبانانو المعتمدة فقط."
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد."
+  - "لم يُعثر بعد على اقتباس مباشر موثوق يمكن نسبته للمصدر الأولي."
   - "مقارنتها الدقيقة بمواقف الوجودية 'السلبية' (هايدجر، سارتر) تحتاج توسيعاً من مصدر أولي."
 ---
 

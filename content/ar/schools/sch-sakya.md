@@ -12,15 +12,16 @@ country: "التبت، الهند (دَرامسالا)، نيبال"
 language: "التبتية، السنسكريتية"
 active_start: 1034
 active_end: "مستمر"
+cultural_origin: "south-asian"
 edges:
 - rel: "belongs_to", target: "sch-vajrayana", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-nyingma", target_type: "مدرسة"
 related:
 - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-- id: "sch-nyingma", title: "نينغما", type: "مدرسة"
-- id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
-- id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-nyingma", title: "نينغما (البوذية التبتية القديمة)", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو (البوذية التبتية)", type: "مدرسة"
+- id: "sch-gelug", title: "غيلوغ (البوذية التبتية)", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "نصوص Sakya Pandita (Lamdre، Treasury of Logic) وGorampa تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين المنطق السكياي والمنطق المادهياماكي للفلسفة البوذية يستحق بحثاً مستقلاً."
@@ -69,3 +70,9 @@ gaps:
 - الجبر السياسي للسلالة مع مغول يوان أثّر على نزاهة الممارسة الروحية (ادّعاءات النقاد).
 - المنطق الساكياي الصارم (Pramāṇa) يخالف Dzogchen البسيطة لـNyingma.
 - لا يوجد نص جامع «للحكمة الساكياوية»، بل تقاليد متفرقة تتطلب مدرساً.
+
+## المصادر
+
+- Cyrus Stearns, *Luminous Lives: The Story of the Early Masters of the Lam 'bras Tradition in Tibet*, Wisdom Publications, 2001.
+- David P. Jackson, *The Entrance Gate for the Wise (Section III): Sa-skya Paṇḍita on Indian and Tibetan Traditions of Pramāṇa*, Arbeitskreis für Tibetische und Buddhistische Studien, 1987.
+- Leonard van der Kuijp, *Contributions to the Development of Tibetan Buddhist Epistemology*, Franz Steiner Verlag, 1983.

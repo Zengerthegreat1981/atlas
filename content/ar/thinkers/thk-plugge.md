@@ -20,10 +20,8 @@ related:
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "thk-weizsacker", title: "فيكتور فون فايتسزيكر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نصوصه وأعماله في الطب النفسجسدي (Psychosomatics) لم تترجم للعربية وتتطلب مراجعة من مصادر ألمانية أصلية."
-  - "أثره في المدرسة الوجودية أقل شهرة من رواد التحليل الوجودي المباشرين، ويحتاج تقييماً تحريرياً لمدى استقلالية مساهمته."
-  - "هوية الملف: الـslug `thk-plugge` يشير إلى Herbert Plügge. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
+  - "سنة ميلاده ووفاته في هذا الملف (1903–1992) تحتاج تدقيقاً — مصادر ألمانية أولية (Thieme, DMW) تذكر 1906–1972؛ هذا خارج نطاق هذا التاسك (توثيق الهوية) ويُترك لتدقيق التواريخ."
 ---
 
 # هربرت بلوغه
@@ -44,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 الراحة والأمل: دراسات في الأنثروبولوجيا الطبية (Wohlbefinden und Mißbefinden, 1962) · الإنسان المريض (Der kranke Mensch, 1967).
+
+## المصادر
+
+- Plügge, H. (1962). *Wohlbefinden und Mißbefinden: Beiträge zu einer medizinischen Anthropologie*. Tübingen: Niemeyer.
+- Plügge, H. (1967). *Der Mensch und sein Leib*. Tübingen: Niemeyer.
+- "Herbert Plügge – vergessenes ärztliches Vorbild". *Deutsche Medizinische Wochenschrift*, Thieme (2002).

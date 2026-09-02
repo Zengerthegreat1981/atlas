@@ -6,25 +6,19 @@ level: "متقدم"
 title: "يوجين تيلور"
 en: "Eugene Taylor"
 crumb: "العلاج بالخبرة/التجريبي ← تطوير ← يوجين تيلور"
-dates: "الولايات المتحدة · 1946–2018"
+dates: "الولايات المتحدة · 1946–2013"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
-active_end: 2018
+active_end: 2013
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
-related:
-- id: "thk-alvinmahrer", title: "ألفين مارر", type: "مفكر"
-- id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
-- id: "thk-margaretbodkin", title: "مارغريت بودكن", type: "مفكر"
-- id: "thk-markwelch", title: "مارك ويلش", type: "مفكر"
+edges: []
+related: []
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "سنة الوفاة المدرجة (2018) تخالف ما تذكره مصادر ثانوية عدة (2013)؛ تحتاج حسماً من نعي رسمي قبل التثبيت، وحقل active_end معلَّق على النتيجة نفسها."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بودكن (thk-margaretbodkin)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارك ويلش (thk-markwelch)."
+  - "روابط thk-alvinmahrer وthk-robertelliott حُذفت: لا ذكر لهما في متن الملف، فلا سبب موثّق للربط."
+  - "رابط thk-margaretbodkin حُذف: الملف محجور في quarantine-minimax."
+  - "رابط thk-markwelch حُذف: هوية الشخص غير موثقة."
 ---
 
 # يوجين تيلور

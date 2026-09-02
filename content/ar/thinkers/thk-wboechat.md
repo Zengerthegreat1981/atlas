@@ -2,42 +2,45 @@
 slug: "thk-wboechat"
 id: "THK-2094"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "فالتَر بُويْتشات"
 en: "Walter Boechat"
-crumb: "مدرسة التحليل النفسي ← الناس ← فالتَر بُويْتشات"
+crumb: "الأطلس ← thinkers ← فالتَر بُويْتشات"
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-rcukierman", title: "روخِريو كوكيَرمان", type: "مفكر"
-- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
-- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "**حُجر 2026-08-26:** لا يمكن توثيق هذا الاسم من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 1)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-wboechat.md.archived.2026-08-26"
 ---
 
 # فالتَر بُويْتشات
 
-محلّل يونغي برازيلي، رئيس Associação Junguiana do Brasil (AJB)، مع «إعتماد AGAP-Zurich» (جمعية خرّيجي زيورخ).
+(Walter Boechat)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-wboechat.md.archived.2026-08-26`
 
-تدرّب في زيورخ (AGAP، تحت إشراف Murray Stein)، وعاد إلى ساوباولو ليؤسّس AJB كهيئة تحليلية منفصلة عن SBrPA، أكثر انفتاحاً على «علم نفس الأركيتيب» (Hillman). كذلك شارك في تأليف «Devouring and Asphyxia: Symptoms of a Cultural Complex in Present Times» (2022، مع L. Wahba)، الذي قُدّم في IAAP Buenos Aires 2022. كذلك يشرف على «الجمعية البرازيلية للتحليلية في جنوب البرازيل» (العقد الأول من القرن الحادي والعشرين).
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-«الفرع الساوبلولي» للتحليلية البرازيلية، الموازي لـ SBrPA.
+لم يُعثر على توثيق أكاديمي مستقل يطابق الاسم في frontmatter عند مراجعة 2026-08-26.
 
-## القيد
-موقعه في الذاكرة الدولية ضئيل.
+## للمتابعة
 
-## أهم أعماله
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-wboechat.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-Devouring and Asphyxia (2022، مع Wahba) · محاضرات في AJB.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-wboechat.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

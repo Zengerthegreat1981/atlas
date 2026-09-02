@@ -21,10 +21,9 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
-- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل / كتاب"
 - id: "thk-hussein", title: "طه حسين", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "علاقة 'الزمان الوجودي' (1943) بقراءته لهايدجر وابن عربي تستحق عنصراً مفاهيمياً مستقلاً."
 ---
 

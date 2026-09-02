@@ -15,9 +15,8 @@ active_start: 770
 active_end: 795
 edges:
 - rel: "belongs_to", target: "sch-karaite", target_type: "مدرسة"
-- rel: "founded", target: "القرائية الفلسفية", target_type: "مدرسة"
+- rel: "founded", target: "sch-karaite", target_type: "مدرسة"
 related:
-- id: "thk-isaac-blind", title: "إسحاق الأعمى (القرّائي الأندلسي)", type: "مفكر"
 - id: "sch-karaite", title: "القرائية الفلسفية", type: "مدرسة"
 - id: "con-hermeneutics", title: "الهرمنيوطيقا (التأويل)", type: "مفهوم"
 - id: "con-dream-interpretation", title: "تفسير الأحلام", type: "مفهوم"

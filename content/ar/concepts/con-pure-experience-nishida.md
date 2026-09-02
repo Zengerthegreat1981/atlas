@@ -10,19 +10,24 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← القومية ا
 active_start: 1911
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "القومية اليابانية الفلسفية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
 related:
-- id: "thk-nishida", title: "نيشيدا كيتارو", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
+- id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
+- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل"
+- id: "thk-locke", title: "جون لوك", type: "مفكر"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«القومية اليابانية الفلسفية» (sch-japanese-philosophical-nationalism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ طبعة 1911 الأصلية لـ *Zen no Kenkyū* (An Inquiry into the Good)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
+  - "رابط con-autonomy-homonomy (مفهوم أنجيال) أُزيل: لا صلة موثقة في المتن بمفهوم أنجيال، وكان مدرجاً سابقاً بلا تبرير نصي."
 ---
 
 # التجربة الخالصة (Pure Experience)
 
-مفهومٌ مؤسِّس في فلسفة نيشيدا كيتارو: المستوى ما-قبل-الانعكاسي من الخبرة، حيث لا تَنفصل الذات عن الموضوع بعد، العالم يَجري كتيار واحد.
+مفهومٌ مؤسِّس في فلسفة **كيتارو نيشيدا** (thk-nishida)، مؤسس **مدرسة كيوتو** (sch-kyoto)، طرحه في باكورة أعماله *بحث في الخير* (wrk-an-inquiry-into-the-good-nishida، 1911): المستوى ما-قبل-الانعكاسي من الخبرة، حيث لا تَنفصل الذات عن الموضوع بعد، العالم يَجري كتيار واحد.
 
 ## التمييز النظري
 

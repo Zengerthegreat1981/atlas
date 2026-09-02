@@ -16,15 +16,14 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-- id: "br-daseins", title: "التيار", type: "تيار"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
 - id: "thk-gebsattel", title: "فيكتور فون غيبساتل", type: "مفكر"
 - id: "thk-tatossian", title: "أرتور تاتوسيان", type: "مفكر"
 - id: "thk-ey", title: "هنري إي", type: "مفكر"
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
-  - "أعماله وترجماتها — لم تُدخل"
+  - "تفاصيل تلمذته على بليولر ويوجين بلويلر في زيورخ (1914–1915) والتي شكّلت خلفيته الإكلينيكية المبكرة تحتاج توثيقاً أدق بالتواريخ."
 ---
 
 # أوجين مينكوفسكي
@@ -50,3 +49,9 @@ gaps:
 ## أهم أعماله
 
 الفصام: سيكوباثولوجيا الشيزوئيديين والفصاميين (La Schizophrénie, 1927) · الزمن المُعاش: دراسات ظاهراتية وسيكوباثولوجية (Le Temps vécu, 1933) · نحو كوزمولوجيا (Vers une cosmologie, 1936) · رسالة في علم النفس المرضي (Traité de psychopathologie, 1966)
+
+## المصادر
+
+- Eugène Minkowski, *La Schizophrénie: psychopathologie des schizoïdes et des schizophrènes* (Paris: Payot, 1927).
+- Eugène Minkowski, *Le Temps vécu: études phénoménologiques et psychopathologiques* (Paris: J.L.L. d'Artrey, 1933).
+- Eugène Minkowski, *Traité de psychopathologie* (Paris: Presses Universitaires de France, 1966).

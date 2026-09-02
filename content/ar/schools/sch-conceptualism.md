@@ -10,6 +10,7 @@ crumb: "الفلسفة ← المسيحية الوسيطة ← التصورية 
 dates: "أكسفورد، باريس، أكسفورد الجديدة · من القرن 13 م إلى القرن 17 م"
 country: "إنجلترا، فرنسا، ألمانيا"
 language: "اللاتينية"
+cultural_origin: "european"
 active_start: 1280
 active_end: 1700
 edges:
@@ -21,7 +22,7 @@ related:
 - id: "dbt-realism-vs-nominalism", title: "الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟", type: "جدل"
 gaps:
   - "نصوص دنز سكوتوس وأبيلارد باللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Quaestiones super Universalia' لأبيلارد."
+  - "لم يُعثر بعد على اقتباس مباشر موثّق من 'Quaestiones super Universalia' لأبيلارد."
   - "التمييز بين 'التصورية' و'الواقعية المعتدلة' محلّ خلاف تاريخي."
 ---
 
@@ -129,3 +130,10 @@ gaps:
 - **المفاهيم الزائفة**: إذا كان المفهوم «**ذهنياً**»، فهل «**الحرّية**» (Libertas) «**مفهوم زائف**» (Falsa Conceptus)؟ (نقد نيتشه).
 - **الإسهام في التجريبية**: التصورية مهّدت لـ**لوك** و**هيوم**، فصارت أساساً للتجريبية.
 - **نقد فلسفة اللغة**: فلاسفة اللغة الحديثة (فريجه، راسل، فتجنشتاين) قالوا إنّ «**المفاهيم**» يجب تحليلها منطقياً، لا سيكولوجياً.
+
+## المصادر
+
+- Marenbon, John. *Medieval Philosophy: An Historical and Philosophical Introduction*. Routledge, 2007.
+- Spade, Paul Vincent. *Thoughts, Words, and Things: An Introduction to Late Mediaeval Logic and Semantic Theory*. Indiana University, 2002 (online manuscript).
+- King, Peter. "Peter Abelard." *Stanford Encyclopedia of Philosophy*, 2015.
+- Klima, Gyula. "The Medieval Problem of Universals." *Stanford Encyclopedia of Philosophy*, 2017.

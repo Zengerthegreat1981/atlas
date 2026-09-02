@@ -2,47 +2,47 @@
 slug: "thk-margaretbodkin"
 id: "THK-2699"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "مارغريت بودكن"
 en: "Margaret L. Bodkin"
-crumb: "العلاج بالخبرة/التجريبي ← تطوير ← مارغريت بودكن"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← مارغريت بودكن"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1990
-active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
-related:
-- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
-- id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
-- id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
-- id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-margaretbodkin.md.archived.2026-08-26"
 ---
 
 # مارغريت بودكن
 
-معالجة نفسية أمريكية، من الممارسين المتخصّصين في **العلاج بالخبرة** (Experiential Therapy) والمؤلّفين المعاصرين في هذا الحقل.
+(Margaret L. Bodkin)
 
-## ما أعطته
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-margaretbodkin.md.archived.2026-08-26`
 
-- مساهمات في **تطبيقات العلاج بالخبرة** على اضطرابات القلق، خصوصاً الرهاب الاجتماعي واضطراب الهلع.
-- تطوير **بروتوكولات** لجلسات العلاج بالخبرة القصيرة.
-- كتابات تدريبية في مقاربة «اللحظة العلاجية» (Therapeutic Moment).
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## موقعها من التيار
+## ملخص
 
-بودكن من الجيل المعاصر في **العلاج بالخبرة**، وتركّز على **التطبيقات السريرية الدقيقة** للنموذج في اضطرابات محددة، وهو ما يُعدّ تطويراً ضرورياً لربط الحقل بمناهج العلاج القائمة على الأدلة.
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## أهم أعمالها
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-- مساهمات في كتب عن العلاج بالخبرة واضطرابات القلق.
+## للمتابعة
 
-## اقتباسات مختارة
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-margaretbodkin.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-margaretbodkin.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

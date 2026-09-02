@@ -1,0 +1,58 @@
+---
+slug: "thk-michaelsweeting"
+id: "THK-2723"
+type: "مفكر"
+level: "متقدم"
+title: "مايكل سويتنغ"
+en: "Michael Sweeting"
+crumb: "Te Whare Tapa Whā (نموذج) ← تطوير ← مايكل سويتنغ"
+dates: "نيوزيلندا/أستراليا · [DRAFT-UNKNOWN]"
+country: "أستراليا"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", target_type: "مدرسة"
+related:
+- id: "thk-mdurie", title: "ماسون دوري (Sir Mason Durie)", type: "مفكر"
+- id: "thk-sharron-hapai", title: "شارون هاپاي", type: "مفكر"
+- id: "con-te-whare-tapa-wha", title: "Te Whare Tapa Whā", type: "مفهوم"
+- id: "con-maori-health", title: "صحة الماوري", type: "مفهوم"
+- id: "con-pacific-health", title: "صحة جزر المحيط الهادئ", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Michael Sweeting' في Te Whare Tapa Whā والسياق الأسترالي غير مألوف. الأكثر شهرة في دراسات صحة الماوري/الأوقيانوسية هم Mason Durie وSarah Derrett وPapaarangi Reid."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# مايكل سويتنغ
+
+اسم يظهر في سياق **تأطير Te Whare Tapa Whā** كنموذج قابل للاستخدام في **سياقات متعددة الثقافات**.
+
+## محاولة التوثيق
+
+نموذج **Te Whare Tapa Whā** (المنزل الصحي ذو الجدران الأربعة) طوّره السير [ماسون دوري](thk-mdurie) (Sir Mason Durie) في عام 1984 لوصف الصحة والرفاه في السياق الماوري. اعتمد رسمياً في السياسة الصحية النيوزيلندية. التطبيق في سياقات أخرى (أستراليا، كندا، الولايات المتحدة) يتطلب تكييفاً ثقافياً.
+
+بالبحث عن اسم «Michael Sweeting» في هذا السياق:
+- الاسم لم أعثر عليه مرتبطاً بـ Te Whare Tapa Whā في الأدبيات الأكاديمية الرئيسية.
+- في دراسات صحة الشباب الأسترالية، قد يظهر الاسم في مجالات الصحة العامة.
+- من المرجح أن الاسم وُضع في هذا المسوّد بناءً على تقرير جامعي أو ورقة بحثية محدودة.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون سويتنغ من المساهمين في **تأطير Te Whare Tapa Whā** كنموذج قابل للاستخدام في **سياقات متعددة الثقافات**، مع التركيز على **الشباب** في أستراليا وكندا.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بـTe Whare Tapa Whā](con-te-whare-tapa-wha) و[بصحة الماوري](con-maori-health) و[بصحة جزر المحيط الهادئ](con-pacific-health) كمفاهيم مركزية.
+
+## المصادر
+
+- Durie, M. (1994). *Whaiora: Māori Health Development*. Oxford University Press.
+- Durie, M. (2001). *Mauri Ora*. Oxford University Press.
+- Pitama, S., et al. (2017). *A Māori Health Framework for Clinicians*. Huia Publishers.
+- New Zealand Medical Journal — مقالات في Te Whare Tapa Whā.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

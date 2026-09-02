@@ -11,15 +11,17 @@ active_start: 1909
 active_end: 1909
 language: "الفرنسية"
 part: "psychology"
+author: "بيير جانيه"
+author_slug: "thk-janet"
+publication_year: 1909
+original_language: "الفرنسية"
 edges:
-- rel: "belongs_to", target: "علم النفس المرضي الفرنسي المبكر", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-janet", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب يجمع أعمال Janet السابقة (*Les obsessions et la psychasthénie* 1903) — حدود الإضافة الفعلية لم تُراجع بدقة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Janet في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الأعصاب والقلق

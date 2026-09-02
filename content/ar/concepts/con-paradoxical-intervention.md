@@ -15,12 +15,13 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
-- id: "thk-mtselvini", title: "ماتيو سيلفيني (Selvini Palazzoli)", type: "مفكر"
-- id: "tec-milan-systemic", title: "مدرسة ميلانو النظامية", type: "تقنية/تدخل علاجي"
-- id: "con-circular-questioning", title: "الأسئلة الدائرية", type: "مفهوم"
-- id: "con-family-structure", title: "البنية الأسرية", type: "مفهوم"
-- id: "con-homeostasis", title: "الاستتباب (Homeostasis)", type: "مفهوم"
-- id: "con-boundaries-psychological", title: "الحدود النفسية", type: "مفهوم"
+- id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"
+- id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
+- id: "tec-milan-systemic", title: "مدرسة ميلان النظامية", type: "تقنية/تدخل علاجي"
+- id: "con-homeostasis", title: "الاستتباب", type: "مفهوم"
+- id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
+- id: "con-circular-questioning", title: "الأسئلة الدائرية (Circular Questioning)", type: "مفهوم"
+- id: "con-family-structure", title: "البنية الأسرية (Family Structure)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'وصف العرض' و'الوصفة المتناقضة' (Paradoxical Prescription) و'الإعادة الإطارية' (Reframing) ليس دائماً واضحاً في الأدبيات."
   - "لا يوجد اقتباس مباشر موثوق من نص سيلفيني بالاتزولي نفسه في هذا الملف."
@@ -51,6 +52,8 @@ gaps:
 6. **نَسَب المسؤولية للنظام**: العَرَض لم يعد مشكلة الفرد، بل هو وظيفة داخل نظام الأسرة. الوصفة تظهر هذه الوظيفة علناً.
 
 تختلف الوصفة المتناقضة عن «التحدّي» (Confrontation)؛ فالتحدي يواجه العميل بعَرَضه، أمّا المتناقض فيحتويه ويحوّله.
+
+استخدم فريق ميلانو التدخل المتناقض غالباً بالتوازي مع الأسئلة الدائرية لرسم خريطة العلاقات قبل صياغة الوصفة، ولاستهداف موضعه داخل البنية الأسرية التي تحدد من يحمل العَرَض ولماذا.
 
 ## الأهمية السريرية
 

@@ -12,15 +12,17 @@ dates: "2004 · جورج لاكوف"
 language: "الإنجليزية"
 active_start: 2004
 active_end: 2004
+author: "جورج لاكوف"
+author_slug: "thk-george-lakoff"
+publication_year: 2004
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "اللسانيات المعرفية وعلم النفس السياسي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-george-lakoff", target_type: "مفكر"
 related:
 - id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي (Framing Effect)", type: "مفهوم"
 - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # لا تفكر في فيل: الأطر اللغوية والمعرفية في السياسة والفكر
@@ -34,7 +36,3 @@ gaps:
 ## قواعد صياغة الأطر المستقلة
 
 بناء لغة إيجابية تعبر عن قيمك الخاصة بدلاً من الرد الدائم داخل أطر المنافسين.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

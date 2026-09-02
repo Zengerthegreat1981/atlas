@@ -12,29 +12,20 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
+- id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-rollins", title: "رولنز", type: "مفكر"
-- id: "con-psilocybin-depression", title: "العلاج بسيليكيوين للاكتئاب", type: "مفهوم"
-- id: "con-mdma-ptsd", title: "العلاج بـMDMA للـPTSD", type: "مفهوم"
-- id: "con-tabula-rasa", title: "اللوح الفارغ (Tabula Rasa)", type: "مفهوم"
-- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
-- id: "con-free-association", title: "التداعي الحرّ (Free Association)", type: "مفهوم"
-- id: "con-safety-behavior", title: "سلوك الأمان (Safety Behavior)", type: "مفهوم"
-- id: "con-thought-record", title: "سجلّ الأفكار (Thought Record)", type: "مفهوم"
-- id: "con-transference-patterns", title: "أنماط التحويل", type: "مفهوم"
-- id: "con-rogers-person-centered-therapy", title: "العلاج المتمركز حول العميل لروجرز (Rogers' Person-Centered Therapy)", type: "مفهوم"
-- id: "con-window-of-tolerance-detailed", title: "نافذة التحمل — مفصَّل (Window of Tolerance — Detailed)", type: "مفهوم"
-- id: "con-polyvagal-states", title: "حالات الجهاز العصبي المتعدّد (Polyvagal States)", type: "مفهوم"
-- id: "con-neuroception-safety-detection", title: "الإدراك العصبي اللاواعي للأمان (Neuroception of Safety)", type: "مفهوم"
-- id: "con-therapeutic-alliance-bordin", title: "التحالف العلاجي عند بورديـن (Bordin's Therapeutic Alliance)", type: "مفهوم"
+- id: "sch-psychedelic-assisted-therapy", title: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", type: "مدرسة"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Hartogsohn, 2017)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد نسخة موثقة بمصدر وسنة من اقتباس مباشر يمكن إدراجها هنا."
   - "الفرق بين Set و Setting وMindfulness-Based Stress Reduction يحتاج فصلاً."
   - "الفرق بين 'inner set' و 'outer set' يحتاج فصلاً."
 ---
 
 # الْإِطَار وَالْمَحِيط (Set and Setting): الْحَالَة الذِّهْنِيَّة وَالْبِيئَة
+
+صاغ **تيموثي ليري** (`thk-tleary`) المصطلح ونشره مع ريتشارد ألبرت ورالف ميتزنر في كتاب *التجربة السيكيدلية* (*The Psychedelic Experience*، 1964)، مستنداً إلى تجاربه في مشروع هارفارد للسيلوسايبين أوائل الستينيات. استعمله لاحقاً **ستانيسلاف غروف** (`thk-sgrof`) في تأطير التنفس الهولوتروبي، وصار عنصراً معيارياً في بروتوكولات **العلاج بمساعدة نفسية** (`sch-psychedelic-assisted-therapy`) كما وثّقها **رولنز** (`thk-rollins`).
 
 «**Set and Setting**» مَفْهُوم أَسَاسِيّ فِي الْعِلَاج بِالْمُسَاعَدَة النَّفْسِيَّة: «**Set**» = «**الْحَالَة الذِّهْنِيَّة لِلْمَرِيض**» (Mindset of the Patient) — «**تَوَقُّع**» (Expectation)، «**دَافِع**» (Motivation)، «**خَوْف**» (Fear)، «**رَجَاء**» (Hope). «**Setting**» = «**الْبِيئَة**» (Environment) — «**غُرْفَة**» (Room)، «**مُعَالِج**» (Therapist)، «**مُسْتَوَى الرَّاحَة**» (Comfort)، «**الضَّوْء**» (Light)، «**الصَّوْت**» (Sound). «**Set and Setting**» «**يُحَدِّدَان**» (Determine) «**نَوْعِيَّة**» (Quality) «**التَّجْرِبَة**» (Experience) «**مُغَيِّرَة الْوَعْي**» (Altered State) وَ**«**نَتَائِج**» (Outcomes) الْعِلَاج.
 
@@ -49,3 +40,8 @@ gaps:
 ## نَقْد
 
 (1) **نَقْد ثَقَافِيّ** (Cultural، 2017): «**Set and Setting**» «**مَفْهُوم غَرْبِيّ**» (Western) — ثَقَافَات غَيْر غَرْبِيَّة تَسْتَخْدِم «**Set and Setting**» مُخْتَلِف (مَثَلاً، «**ceremonial set**» فِي الثَّقَافَات الْأَصْلِيَّة). (2) **نَقْد تَجْرِيبِيّ** (Empirical، 2019): «**Set and Setting**» «**صَعْب الْقِيَاس**» (Hard to Measure) — «**مُتَغَيِّرَات**» (Variables) «**مُتَعَدِّدَة**» (Multiple). (3) **نَقْد أَخْلَاقِيّ** (Ethical، 2020): «**Set and Setting**» «**قَد يَسْتَخْدِم**» (Can Be Used) كَـ**«**تَحَكِيم**» (Control) — «**الْمَرِيض**» (Patient) «**لَا**» (Not) «**حُرّ**» (Free).
+
+## المصادر
+
+- Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead*. University Books.
+- Hartogsohn, I. (2017). Constructing drug effects: A history of set and setting. *Drug Science, Policy and Law*, 3.

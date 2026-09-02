@@ -12,11 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-posthumanism", target_type: "مدرسة"
 related:
-- id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
+- id: "sch-posthumanism", title: "ما بعد الإنسانية (Posthumanism)", type: "مدرسة"
 - id: "thk-haraway", title: "دونا هاراواي", type: "مفكر"
+- id: "sch-transhumanism", title: "الإنسانية العابرة (Transhumanism)", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ طبعة Routledge الأصلية (1991)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد ملف con- لمفهومي 'الروبوت' و'الأنطولوجيا المسطحة' (Latour) المذكورين في المتن للمقارنة؛ لم يُضافا كروابط related."
 ---
 
 # الكائن الهجين (Cyborg)

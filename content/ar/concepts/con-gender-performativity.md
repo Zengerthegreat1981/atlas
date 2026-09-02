@@ -13,15 +13,21 @@ edges:
 - rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
+- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
+- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل"
+- id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
+- id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
+- id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
+- id: "thk-firestone", title: "شولاميث فيرستون", type: "مفكر"
 gaps:
-  - "النص التأسيسي Gender Trouble (Butler 1990) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "النص التأسيسي Gender Trouble (Butler 1990) يحتاج مراجعة من المصدر الأولي بالإنجليزية."
 ---
 
 # أداء النوع (الجنوسة الأدائية)
 
-مفهوم محوري في فلسفة جوديث بتلر، مفاده أن «النوع الاجتماعي» (Gender) ليس «حقيقة بيولوجية» (Sex) ولا «بناء اجتماعي» (Social Construction) بمعنى ثنائي، بل «أداء متكرر» (Repeated Performance) ينتجه الخطاب والممارسة.
+مفهوم محوري في فلسفة جوديث بتلر (thk-butler)، صاغته في كتابها *Gender Trouble* (1990، wrk-gender-trouble)، مفاده أن «النوع الاجتماعي» (Gender) ليس «حقيقة بيولوجية» (Sex) ولا «بناء اجتماعي» (Social Construction) بمعنى ثنائي، بل «أداء متكرر» (Repeated Performance) ينتجه الخطاب والممارسة. صار هذا الطرح لاحقاً أحد الأعمدة النظرية لمدرسة النظرية الكويرية (sch-queer-theory).
 
 ## التعريف
 
@@ -38,3 +44,7 @@ gaps:
 - **النسوي المادي (MacKinnon)**: «الأداء» يحجب «البنية» (Structure) المادية للقمع.
 - **النسوية البيولوجية (Firestone)**: «البيولوجيا» هي المرجع، لا «الخطاب».
 - **النقد النسوي الجديد (Halberstam)**: «الأداء» يهمل «الزمن» (Time) و«التجربة المعاشة».
+
+## ملاحظة تحريرية
+
+ملف con-gender-performativity-concept يتناول نفس المفهوم بصياغة أخرى ولم يُدمج بعد مع هذا الملف؛ الاثنان يحتاجان مراجعة تحريرية لحسم أيهما يُعتمد.

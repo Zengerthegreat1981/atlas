@@ -18,8 +18,7 @@ related:
 - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
 - id: "sch-phil-mathematics", title: "فلسفة الرياضيات التحليلية", type: "مدرسة"
 gaps:
-  - "العلاقة بين تارسكي وكرايبكي في 'الدلالة والمونتاجي' لم تُحلّل."
-  - "لا يوجد اقتباس مباشر موثوق من 'مفهوم الحقيقة في اللغات الرسمية' (1933)."
+  - "العلاقة بين تارسكي وكرايبكي حول نظرية الحقيقة لم تُحلّل بالتفصيل."
 ---
 
 # ألفرد تارسكي
@@ -43,3 +42,9 @@ gaps:
 ## الأثر
 
 أثّر تارسكي على ديفيدسون (نظرية الحقيقة للمعنى، 1967)، وعلى كارناب وكواين في فلسفة اللغة، وعلى المنطق المعاصر.
+
+## المصادر
+
+- Tarski, Alfred. "Pojęcie prawdy w językach nauk dedukcyjnych" [مفهوم الحقيقة في لغات العلوم الاستنباطية]. Warsaw, 1933؛ الترجمة الإنجليزية في *Logic, Semantics, Metamathematics*, Oxford University Press, 1956.
+- Tarski, Alfred. "The Semantic Conception of Truth and the Foundations of Semantics." *Philosophy and Phenomenological Research*, vol. 4, no. 3, 1944.
+- Feferman, Anita Burdman, and Solomon Feferman. *Alfred Tarski: Life and Logic*. Cambridge University Press, 2004.

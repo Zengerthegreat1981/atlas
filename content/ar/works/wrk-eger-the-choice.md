@@ -7,6 +7,9 @@ level: "متقدم"
 title: "الخيار: تقبل ما لا يمكن تغييره"
 en: "The Choice: Embrace the Possible by Edith Eger"
 crumb: "علم النفس الإكلينيكي وعلاج الصدمات ← أمهات الكتب ← الخيار"
+author: "إديث إيجر"
+publication_year: 2017
+original_language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
 edges:

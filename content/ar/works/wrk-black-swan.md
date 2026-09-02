@@ -12,15 +12,17 @@ dates: "2007 · نسيم نيقولا طالب"
 language: "الإنجليزية"
 active_start: 2007
 active_end: 2007
+author: "نسيم نيقولا طالب"
+author_slug: "thk-nassim-taleb"
+publication_year: 2007
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس المعرفي واللايقين وفلسفة المخاطر", target_type: "مدرسة"
 - rel: "written_by", target: "thk-nassim-taleb", target_type: "مفكر"
 related:
 - id: "con-hindsight-bias", title: "انحياز الإدراك المتأخر (وهم 'كنت أعلم ذلك طوال الوقت')", type: "مفهوم"
 - id: "thk-nassim-taleb", title: "نسيم نيقولا طالب", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # البجعة السوداء: تداعيات الأحداث غير المحتملة
@@ -34,7 +36,3 @@ gaps:
 ## عالم التوسط مقابل عالم التطرف
 
 التمييز بين النظم الخطية المتوقعة (Mediocristan) ونظم التعقيد الشبكية التي تحكمها البجعات السوداء (Extremistan).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

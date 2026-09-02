@@ -10,6 +10,7 @@ crumb: "الفلسفة ← القرن 19 ← المثالية ← الكيركغ
 dates: "الدنمارك، أوروبا · من 1843 إلى 1855"
 country: "الدنمارك"
 language: "الدنماركية"
+cultural_origin: "european"
 active_start: 1843
 active_end: 1855
 active_source: "lifespan"
@@ -28,7 +29,6 @@ related:
 gaps:
   - "رابط مقترح لـ«هانس لاسن مارتنزن» (thk-martensen) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات مايغرن (Martensen) في 'الأخلاق' (1878) وقصة علاقته بكيركيغارد لم تُراجع بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # الكيركغاردية (الوجودية المبكرة الدينية)
 
@@ -52,7 +52,7 @@ gaps:
 
 ## الإرث
 
-- **الوجودية المسيحية المعاصرة**: ياسبرز (1920s)، مارسيل، تيلليش، بوبر.
+- **الوجودية المسيحية المعاصرة**: ياسبرز (بعد وفاته عام 1920s)، مارسيل، تيلليش، بوبر.
 - **اللاهوت المعاصر**: بارت، بولتمان، بوبر.
 - **الفلاسفة المعاصرون**: هايدجر يستعمل مفهوم القلق («الوجود هناك»، Dasein)، سارتر يصف القلق بـ«الغثيان» (La Nausée).
 
@@ -61,3 +61,10 @@ gaps:
 - ليست «مدرسة» بمعنى مؤسسي، بل أثر كيركيغارد في فلسفة وعلم لاهوت القرن 20.
 - تهمة «الذاتية المفرطة» (هيجلي) يستحق مراجعة مع كتابات كيركيغارد اللاحقة.
 - تصنيف «موجود» أو «غير موجود» ضمن «الهيغليين الشباب» يستحق دراسة خاصة.
+
+## المصادر
+
+- Kierkegaard, Søren. *The Concept of Anxiety* (1844), trans. Reidar Thomte. Princeton University Press, 1980.
+- Kierkegaard, Søren. *The Sickness Unto Death* (1849), trans. Alastair Hannay. Penguin Classics, 1989.
+- Kierkegaard, Søren. *Either/Or* (1843), trans. Howard V. Hong & Edna H. Hong. Princeton University Press, 1987.
+- Hannay, Alastair & Marino, Gordon D. (eds.). *The Cambridge Companion to Kierkegaard*. Cambridge University Press, 1998.

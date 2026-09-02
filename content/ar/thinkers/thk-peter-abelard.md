@@ -15,8 +15,7 @@ active_end: 1142
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التفاصيل الدقيقة لواقعة إخصائه (1117) والجهة المنفِّذة موثّقة في سيرته الذاتية «تاريخ مصائبي» بصيغته الخاصة، ولم تُقابَل هنا بمصدر مستقل معاصر."
 ---
 
 # بيتر أبيلار
@@ -45,3 +44,9 @@ gaps:
 ## اقتباسات مختارة
 
 «بالشكّ نصل إلى البحث، وبالبحث ندرك الحقيقة.» (مقدّمة «نعم ولا»)
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Peter Abelard": https://plato.stanford.edu/entries/abelard/
+- Clanchy, M. T. (1997). *Abelard: A Medieval Life*. Blackwell.
+- Abelard, P. *Historia Calamitatum* (تاريخ مصائبي).

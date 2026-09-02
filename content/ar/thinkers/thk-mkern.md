@@ -12,15 +12,14 @@ language: "إنجليزية"
 active_start: 2010
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علاج التبعية-السلطة (SAR)", target_type: "مدرسة"
+edges: []
 related:
 - id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
 - id: "thk-jhaley", title: "جاي هالي", type: "مفكر"
 - id: "thk-cmadanes", title: "كلوي مادانس", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على سنة ميلاد مارك كيرن في مصدر أولي أو ثانوي متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـمارك كيرن."
   - "تفاصيل الإطار SAR المحدّدة لم تُراجع من مصدر أولي."
 ---
 

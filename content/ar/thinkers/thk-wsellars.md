@@ -21,7 +21,7 @@ related:
 - id: "con-myth-of-given", title: "خرافة المعطيات (Myth of the Given)", type: "مفهوم"
 gaps:
   - "تفاصيل 'العرضية الكانطية' (Kantian aspect) في فلسفة سيلارز المتأخرة لم تُحلّل."
-  - "لا يوجد اقتباس مباشر موثوق من 'نقد المذهب التجريبي وأساطير الإسمية' (1956)."
+  - "كتاب منسوب سابقاً لسيلارز بعنوان 'The Foundations of Science' (1981، مع Delaney) لم يُتحقق من وجوده من مصدر أولي وحُذف من المتن؛ إن كان له وجود فعلي فمحتاج توثيقاً ببليوغرافياً مستقلاً."
 ---
 
 # ويلفريد سيلارز
@@ -37,11 +37,18 @@ gaps:
 
 ## أهم أعماله
 
+- *Empiricism and the Philosophy of Mind* (1956).
 - *Science, Perception and Reality* (1963).
 - *Science and Metaphysics* (1968).
-- *The Foundations of Science* (1981، مع Delaney).
-- *Naturalism and Ontology* (1997، مع Delaney).
+- *Naturalism and Ontology* (1979، محاضرات جون ديوي 1974).
 
 ## الأثر
 
 أثّر سيلارز على رورتي (تلمذ له)، وماكدوويل (McDowell)، وبراندوم (Brandom)، وعلى فلسفة العقل التحليلية المعاصرة.
+
+## المصادر
+
+- Sellars, Wilfrid. *Empiricism and the Philosophy of Mind*. University of Minnesota Press, 1956.
+- Sellars, Wilfrid. *Science, Perception and Reality*. Routledge & Kegan Paul, 1963.
+- Sellars, Wilfrid. *Naturalism and Ontology*. Ridgeview Publishing, 1979 (نسخة مطوَّرة من محاضرات جون ديوي التي ألقاها 1974).
+- Stanford Encyclopedia of Philosophy, "Wilfrid Sellars".

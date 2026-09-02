@@ -13,14 +13,14 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-beck", target_type: "مفكر"
 related:
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
-- id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
-- id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية (تقنية)", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
+- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من بيك (Beck et al., 1979) بعد."
   - "التمييز الدقيق بين 'التجربة السلوكية' و'اختبار الواقع' (Reality Testing) في أدبيات بيك يحتاج تحقق."
   - "الجدل حول استخدام التجارب السلوكية في اضطرابات الشخصية (Coviello et al.) لم يوثَّق بعد."
 ---

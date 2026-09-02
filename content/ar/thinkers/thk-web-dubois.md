@@ -24,7 +24,6 @@ related:
 gaps:
   - "مفهوم 'الوعي المضاعف' (Double Consciousness) عنده يحتاج ربطاً أوثق بعلم النفس المعاصر وعلم الاجتماع النفسي."
   - "علاقته مع القومية الأفريقية لـ Nkrumah تظلّ موضع جدل (هو 'أممي' أكثر منه 'قومي')."
-  - "لا يوجد اقتباس مباشر موثوق من أعماله بالعربية."
 ---
 
 # دبليو. إي. بي. دو بوا
@@ -53,8 +52,10 @@ gaps:
 - *Black Reconstruction in America* (1935) — إعادة البناء السوداء في أمريكا.
 - *Dusk of Dawn* (1940) — شفق الفجر.
 - *The World and Africa* (1947) — العالم وأفريقيا.
-- *The Autobiography of W. E. B. Du Bois* (1968، نشرت بعد وفاته) — السيرة الذاتية.
+- *The Autobiography of W. E. B. Du Bois* — نشرت بعد وفاته، عام 1968 — السيرة الذاتية.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح بالعربية.
+- Du Bois, W. E. B. (1903). *The Souls of Black Folk*. A. C. McClurg & Co.
+- Lewis, D. L. (1993). *W. E. B. Du Bois: Biography of a Race, 1868–1919*. Henry Holt.
+- Lewis, D. L. (2000). *W. E. B. Du Bois: The Fight for Equality and the American Century, 1919–1963*. Henry Holt.

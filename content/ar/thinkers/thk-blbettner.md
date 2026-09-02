@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
 - id: "thk-edferguson", title: "إيفا درايكرز فيرغوسون", type: "مفكر"

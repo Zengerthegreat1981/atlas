@@ -2,58 +2,44 @@
 slug: "thk-pfisher"
 id: "THK-1732"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "بيتر فيشر"
 en: "Peter Fisher"
-dates: "الولايات المتحدة"
+crumb: "الأطلس ← thinkers ← بيتر فيشر"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 2000
-active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← بيتر فيشر"
-edges:
-- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
-related:
-- id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
-- id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
-- id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"
-- id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
-- id: "thk-david-erceg", title: "ديفيد إرسغ", type: "مفكر"
-- id: "thk-jgould", title: "جيمس ليبشيتز", type: "مفكر"
-- id: "thk-melissaschaefer", title: "ميليسا شيفر", type: "مفكر"
-- id: "thk-philippe-cunningham", title: "فيليب كَننغهام", type: "مفكر"
-- id: "thk-randystabler", title: "راندي ستابلر", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز غليسون (thk-charles-glisson)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد إرسغ (thk-david-erceg)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيمس ليبشيتز (thk-jgould)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ميليسا شيفر (thk-melissaschaefer)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فيليب كَننغهام (thk-philippe-cunningham)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: راندي ستابلر (thk-randystabler)."
+  - "**حُجر 2026-08-27:** لم يُعثر على سيرة ذاتية لـ Peter Fisher في MST Services ولا PubMed ولا Journal of Emotional and Behavioral Disorders في حقل العلاج متعدد الأنظمة (MST). النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-pfisher.md.archived.2026-08-27"
 ---
 
 # بيتر فيشر
 
-عالم نفس أمريكي، من المساهمين في تطوير العلاج متعدد الأنظمة وتطبيقاته الدولية.
+(Peter Fisher)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-pfisher.md.archived.2026-08-27`
 
-- **"MST في الدول النامية"**: تطوير تطبيقات MST في خدمات الصحة النفسية في الدول منخفضة الدخل.
-- **"برامج الإشراف"**: تطوير آليات الإشراف على ممارسي MST في بيئات متنوعة.
-- **"أبحاث الفعالية"**: دراسات على فعالية MST عبر السياقات.
-- **"تكييف ثقافي"**: دراسات حول تكييف MST مع الثقافات المختلفة.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-من المساهمين في توسيع نطاق MST عالمياً. تكامل مع هنغلَر في تطوير الشبكة العالمية.
+الملف الأصلي وصف "بيتر فيشر" كمساهم في حقل العلاج متعدد الأنظمة (MST)، لكنه أقرّ صراحة في متنه وفي `gaps` بعدم وجود أي سيرة له في MST Services أو PubMed أو Journal of Emotional and Behavioral Disorders، واقترح احتمال الخلط مع شخصيات أخرى مختلفة تماماً (طبيب الملكة في بريطانيا، أو كاتب في الصحة العامة). هذا التناقض بين العنوان الواثق والاعتراف الصريح بعدم التوثيق هو النمط الذي تقتضي القاعدة 11 حسمه بحجر.
 
-## أهم أعماله
+## للمتابعة
 
-- *MST International Adaptation* (مساهم، 2014).
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-pfisher.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-pfisher.md.archived.2026-08-27`

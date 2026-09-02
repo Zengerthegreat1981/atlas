@@ -12,30 +12,28 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "إسناد المهام المتدرّجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الميزان القرار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-coping-statements", title: "بيانات التأقلم", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمّل الضائقة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب الموجة (الرغبة)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بـ ACCEPTS", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-pros-and-cons", title: "الإيجابيات والسلبيات", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-cope-ahead", title: "التخطيط المسبق", type: "تقنية/تدخل علاجي"
-- id: "tec-motivational-interviewing", title: "المقابلة التحفيزية", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
+- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "dis-substance-induced-mood", title: "اضطراب المزاج المحدث بالمواد أو الأدوية", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-holiday-heart", title: "متلازمة قلب العطلات الحادة (اضطراب النظم النفسي الكحولي)", type: "متلازمة"
@@ -46,12 +44,20 @@ related:
 gaps:
   - "تفاصيل شدة DSM-5-TR (mild: 2-3 / moderate: 4-5 / severe: 6+) وأوجه المقارنة مع ICD-11 'hazardous use' vs 'harmful use' vs 'dependence' لم تُراجع نصاً بنص من المصدرين."
   - "الانتشار العالمي والفروقات الجغرافية والثقافية في AUD لم تُراجع من مسح وبائي أولي مباشر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على اقتباس أولي موثَّق منسوب مباشرة لهذا الاضطراب في مصادر التصنيف المرجعية."
 ---
 
 # اضطراب استخدام الكحول
 
 اضطراب مزمن يتميّز بنمط من استخدام الكحول يسبب ضائقة أو ضعفاً سريرياً ملحوظاً. يتدرج من الخفيف إلى الشديد، ويشمل في تعريفه الموحد ما كان يُسمّى سابقاً "إدمان الكحول" و"سوء استخدام الكحول". يتمحور حول فقدان السيطرة على الاستخدام، والرغبة الشديدة (Craving)، والاستمرار رغم العواقب، وظهور أعراض الانسحاب. يختلف عن "الاستخدام المحفوف بالمخاطر" في أنه يتجاوز الضرر ليصل إلى الاعتماد الإكلينيكي.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع "اضطراب/حالة إكلينيكية" في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً — معاييرها الرسمية، تطورها في أدلة التصنيف، وتقنيات التدخل الموثقة عنها — دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي. الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب استخدام الكحول كفئة تشخيصية سريرية وبين con-addiction ("الإدمان والبحث الروحي المشوه") كمفهوم تحليلي نفسي/فلسفي يقرأ الإدمان كتعبير مشوَّه عن بحث روحي عن الاكتمال. الأول معيار إكلينيكي قابل للقياس (عدد معايير DSM-5-TR المتحققة، شدة، مسار)، بينما الثاني تأويل معنوي لدافع الإدمان لا يُستخدم كأداة تشخيص ولا كبديل عنه.
 
 ## ملاحظات على المعايير التشخيصية
 

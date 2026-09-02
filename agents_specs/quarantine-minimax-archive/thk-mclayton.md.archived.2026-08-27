@@ -1,0 +1,59 @@
+---
+slug: "thk-mclayton"
+id: "THK-1545"
+type: "مفكر"
+level: "مبتدئ"
+title: "جي. ماكس كلايتون"
+en: "G. Max Clayton"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1970
+active_end: 2010
+part: "philosophy"
+crumb: "السيكودراما والسوسيومتري ← الممارسة الإكلينيكية ← ماكس كلايتون"
+edges:
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
+related:
+- id: "thk-jlmoreno", type: "مفكر", title: "جاك ل. مورينو"
+- id: "thk-zt-moreno", type: "مفكر", title: "زيركا مورينو"
+- id: "thk-jfox", type: "مفكر", title: "جوناثان فوكس"
+- id: "con-catharsis-integration", type: "مفهوم", title: "التطهير الاندماجي (مورينو)"
+gaps:
+  - "سنة الميلاد غير منشورة."
+  - "الكتاب المشار إليه ('Drama of Life', 1986) لا يظهر في WorldCat (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'G. Max Clayton' (معالج نفسي في ماريلاند) أو 'Max Clayton' (مؤلِّف مسرحي)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'ASGPP' عام."
+---
+
+# جي. ماكس كلايتون
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في السيكودراما]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: G. Max Clayton.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **ASGPP (American Society of Group Psychotherapy & Psychodrama)**: لا عضوية.
+  - **JGPPS**: لا مقالة.
+  - **WorldCat**: لا كتاب منشور.
+  - **Amazon**: لا كتاب منشور.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Max Clayton** (مؤلِّف مسرحي، New York University).
+  - **Max Clayton** (معالج نفسي في Maryland).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Moreno, J. L. (1946). *Psychodrama*. Beacon House.
+  - Fox, J. (1987). *Moreno's Theater of Spontaneity*. Gestalt Journal Press.
+  - ASGPP: https://www.asgpp.org/

@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "إنجلترا، إسكتلندا، أيرلندا · من القرن 17 م إلى القرن 18 م"
 country: "إنجلترا، إسكتلندا، أيرلندا"
 language: "الإنجليزية، اللاتينية"
+cultural_origin: "anglo-american"
 active_start: 1630
 active_end: 1800
 edges:
@@ -23,7 +24,7 @@ related:
 gaps:
   - "التمييز بين 'التجريبية' (Empiricism) و'الذرية' (Atomism) معقّد تاريخياً."
   - "نصوص لوك وبيركلي وهيوم بالإنجليزية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'An Essay Concerning Human Understanding'."
+  - "لم يُعثر بعد على اقتباس مباشر قابل للتوثيق من 'An Essay Concerning Human Understanding'."
 ---
 
 # التجريبية البريطانية (كمظلة)
@@ -135,3 +136,9 @@ gaps:
 - **التوتّر مع «**اللاهوت**» (Theologia)**: «**التجريبية**» (Empiricism) «**تَميل**» (Proclivis) إلى «**الشكّ**» (Dubitatio) «**الديني**» (Religiosa) أو «**الإلحاد**» (Atheismus). «**بيركلي**» (Berkeley) «**دافع**» (Defendit) «**عن**» (De) «**الله**» (Deus) بـ«**المثالية**» (Idealismus).
 - **التوتّر مع «**الشكّ**» (Dubitatio)**: «**هيوم**» (Hume) «**أَدَّى**» (Duxit) إلى «**الشكّ**» (Dubitatio) «**الكامل**» (Absolutus) في «**العلاقة**» (Relatio) و«**السببية**» (Causa). «**كانط**» (Kant) «**اِسْتَيْقَظَ**» (Expergefactus Est) من «**نوم**» (Somno) «**الكلبيّ**» (Dogmatico) بـ«**هيوم**».
 - **الإرث المعاصر**: «**التجريبية**» (Empiricism) «**مازالتْ**» (Adhuc) «**التيار**» (Fluxus) «**الأقوى**» (Fortissimus) في «**الفلسفة**» (Philosophia) «**المعاصرة**» (Contemporanea)، «**خاصةً**» (Praesertim) في «**علوم**» (Scientiae) «**الإدراك**» (Cognitionis) و«**الذكاء**» (Intelligentia) «**الاصطناعي**» (Artificialis).
+
+## المصادر
+
+- Copleston, Frederick. *A History of Philosophy, Volume V: Hobbes to Hume*. Continuum, 1959.
+- Ayers, Michael. *Locke: Epistemology and Ontology*. Routledge, 1991.
+- Stroud, Barry. *Hume*. Routledge & Kegan Paul, 1977.

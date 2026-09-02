@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 2009
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وعلم نفس السعادة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 - id: "wrk-happiness-project", title: "مشروع السعادة", type: "عمل / كتاب"

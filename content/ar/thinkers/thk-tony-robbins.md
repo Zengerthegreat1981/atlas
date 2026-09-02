@@ -13,19 +13,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتحفيز القيادي", target_type: "مدرسة"
-- rel: "developed", target: "sch-popular-psychology", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-david-schwartz", title: "ديفيد شوارتز", type: "مفكر"
-- id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
-- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية", type: "مفهوم"
+- id: "thk-david-schwartz", title: "ديفيد ج. شوارتز", type: "مفكر"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
+- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
 gaps:
-  - "تفاصيل طفولته في غلنديل (كاليفورنيا) مع أمّ «غير مستقرّة عاطفياً» موثّقة جزئياً."
-  - "مقارنة أسلوبه في «NLP» (برمجة اللغة العصبية) بـ«John Grinder» و«Richard Bandler» لم تُنشر كافية."
-  - "ترجمة كتبه للعربية متوفّرة، لكن تختلف في الجودة."
-  - "موقعه من «الحركة السايبرنتية» (فيجوت سترترن، Tony Buzan) موثّق جزئياً."
-  - "نقد «Bessel van der Kolk» و«Paul Conti» لجسدية و«الحركة العالية» (The Tony Robbins Method) في حالات الصدمة موثّق في الإعلام لكن لم يُدرس أكاديمياً."
+  - "تفاصيل طفولته في غلنديل (كاليفورنيا) مع أمّ «غير مستقرّة عاطفياً» موثّقة جزئياً فقط في مصادر إعلامية، لا في سيرة أكاديمية محكّمة."
+  - "مقارنة أسلوبه في «NLP» (برمجة اللغة العصبية) بجون غريندر وريتشارد باندلر لم تُنشر في دراسة أكاديمية مقارنة."
+  - "نقد Bessel van der Kolk وPaul Conti لأسلوبه الجسدي في حالات الصدمة موثّق في الإعلام، لكن لم يُدرس في دراسة محكّمة."
+  - "لا يوجد اقتباس مباشر موثَّق بمصدر وسنة محدَّدين — الجملة المتداولة إعلامياً عنه («قراراتك تُشكِّل مصيرك») حُذفت لعدم توفر إسناد أولي."
 ---
 
 # أنتوني (توني) روبنز
@@ -99,6 +96,8 @@ gaps:
 - **«Money: Master the Game»** (2014)
 - **«The Path»** (2016)
 
-## اقتباس مختار
+## المصادر
 
-«قراراتك تُشكِّل مصيرك. ستُعوَّض. ما لا يمكنك تعويضه هو عدم اتّخاذ القرار. قف، اتّخذ قراراً، وفِّره. إذا سقطت، قِف واتّخذ قراراً جديداً.»
+- Robbins, A. (1986). *Unlimited Power: The New Science of Personal Achievement*. Simon & Schuster.
+- Robbins, A. (1991). *Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical, and Financial Destiny*. Simon & Schuster.
+- Robbins, A. (2014). *Money: Master the Game: 7 Simple Steps to Financial Freedom*. Simon & Schuster.

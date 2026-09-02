@@ -9,15 +9,17 @@ en: "AEDP Relational Reflectiveness"
 crumb: "علم النفس ← مدارس العلاج ← AEDP ← الانعكاسية العلائقية"
 active_start: 2000
 active_end: "مستمر"
+evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "con-aedp-emotion", title: "العاطفة في AEDP", type: "مفهوم"
-- id: "con-aedp-transformance", title: "التحوّل في AEDP", type: "مفهوم"
+- id: "con-aedp-emotion", title: "الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ", type: "مفهوم"
+- id: "con-aedp-transformance", title: "الْتَحَوُّلية في AEDP: التَّحَوُّل مِن عَاطِفَة تَكَيُّفِيَّة", type: "مفهوم"
+- id: "tec-eft-individual", title: "العلاج المرتكز على العاطفة للأفراد (EFT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "نسبت المساهمات بين Fosha وكتابها اللاحقين (Yeung, Marlock) غير مفصّلة."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا توجد دراسة ضبطت أثر هذه التقنية الفرعية بمفردها؛ الدليل المتاح على AEDP ككل (Iwakabe et al., 2020) دراسة فعالية طبيعية بلا مجموعة ضابطة."
 ---
 # الانعكاسية العلائقية (Relational Reflectiveness) في AEDP
 

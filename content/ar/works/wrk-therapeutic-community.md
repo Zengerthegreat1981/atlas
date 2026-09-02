@@ -9,14 +9,18 @@ crumb: "الإنسانية ← الأعمال ← المجتمع العلاجي"
 dates: "1953 · ماكسويل جونز"
 language: "الإنجليزية"
 active_start: 1953
-active_end: 1953
+active_end: 1990
 part: "philosophy"
+author: "ماكسويل جونز"
+author_slug: "thk-mjones"
+publication_year: 1953
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-mjones", target_type: "مفكر"
 related:
 - id: "thk-mjones", title: "ماكسويل جونز", type: "مفكر"
-- id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"
+- id: "tec-milieu-therapy", title: "العلاج بالبيئة والمجتمع العلاجي", type: "تقنية/تدخل علاجي"
 - id: "ctx-therapeutic-community", title: "تقليد المجتمع العلاجي والديمقراطية المؤسسية", type: "سياق/تقليد"
 gaps:
   - "التفاصيل الكاملة لمحتوى الكتاب لم تُراجع من مصدر أولي."

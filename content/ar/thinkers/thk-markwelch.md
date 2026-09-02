@@ -2,47 +2,34 @@
 slug: "thk-markwelch"
 id: "THK-2706"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "مارك ويلش"
 en: "Mark Welch"
-crumb: "العلاج بالخبرة/التجريبي ← تطوير ← مارك ويلش"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← مارك ويلش"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 2000
-active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاج بالخبرة/التجريبي", target_type: "مدرسة"
-related:
-- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
-- id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
-- id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
-- id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-27:** لم يُعثر على توثيق مستقل لشخص باسم Mark Welch منشور في أدبيات العلاج بالخبرة (Experiential Therapy) أو الجشطلت. الاسم شائع جداً بالإنجليزية، ما يصعّب التمييز بين شخص هامشي غير موثَّق رقمياً وخلط في التسمية. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-markwelch.md.archived.2026-08-27"
 ---
 
 # مارك ويلش
 
-معالج نفسي أمريكي، من المتخصّصين في **العلاج بالخبرة والعلاج الجشطلتي** (Gestalt Therapy) وممارسيهما معاً.
+(Mark Welch)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-markwelch.md.archived.2026-08-27`
 
-- تطوير **تكامل العلاج بالخبرة مع العلاج الجشطلتي** في الممارسة الإكلينيكية.
-- مساهمات في **تأطير «العملية الشعورية»** (Emotional Process) كهدف علاجي مشترك بين التيارين.
-- كتابات عن **العلاقة بين الخبرة واليقظة الذهنية** في العلاج النفسي.
+لم يُعثر على توثيق مستقل لوجود هذا الشخص مرتبطاً بالعلاج بالخبرة أو الجشطلت. راجع `agents_specs/quarantine-minimax.md` للتفاصيل.
 
-## موقعه من التيار
+## المصادر
 
-يقف ويلش عند **تلاقي تجريبي مهمّ** بين العلاج بالخبرة (جيندلين، مارر) والعلاج الجشطلتي (بيرلز)، ويُظهر أن الجذر الفينومينولوجي واحد رغم اختلاف الصياغة التقنية.
-
-## أهم أعماله
-
-- مساهمات في مجلات مثل *Journal of Humanistic Psychology*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-markwelch.md.archived.2026-08-27`

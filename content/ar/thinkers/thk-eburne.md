@@ -13,22 +13,15 @@ active_start: 1956
 active_end: 1970
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "تحليل المعاملات (TA)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transactional-analysis", target_type: "مدرسة"
 related:
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
-- id: "thk-george-thompson", title: "جورج تومبسون", type: "مفكر"
-- id: "thk-gunnel-cederblad", title: "جونيل سيدِربلاد", type: "مفكر"
-- id: "thk-jacqueline-astington", title: "جاكلين أستنغتون", type: "مفكر"
-- id: "thk-mary-stewart", title: "ماري ستيوارت", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورج تومبسون (thk-george-thompson)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جونيل سيدِربلاد (thk-gunnel-cederblad)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاكلين أستنغتون (thk-jacqueline-astington)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماري ستيوارت (thk-mary-stewart)."
+  - "روابط أُزيلت بعد تحقّق بالبحث الخارجي: لم يُعثر على أي مصدر مستقل (سيرة أكاديمية، منشورات، عضوية ITAA) يربط 'جورج تومبسون' (thk-george-thompson)، 'جونيل سيدِربلاد' (thk-gunnel-cederblad)، أو 'جاكلين أستنغتون' (thk-jacqueline-astington) بإريك بيرن أو بتحليل المعاملات فعلياً؛ الاسمان الأقرب فعلياً في حقول مجاورة (ماريان سيدِربلاد، طبيبة نفس أطفال سويدية بجامعة لوند؛ وجانيت وايلد أستنغتون، أكاديمية كندية في نظرية العقل بجامعة تورنتو) لا صلة لهما بـTA بحسب سيرهما المنشورة.\"\n  - \"رابط أُزيل: thk-mary-stewart (ماري ستيوارت) — الملف نفسه يقرّ بعدم وجود أي سيرة موثّقة لها في جمعية ITA حتى 2026 ويحتمل الخلط مع كاتبة روايات بالاسم نفسه.\"\n  - \"روابط thk-aabrer (كارل أبراهام) وthk-sferenczi (ساندور فيرينتسي) وthk-tony-white (توني وايت) لا يوجد في المتن سبب صريح بالاسم يربطهم ببيرن — يحتاج قرار رئيس التحرير: إما توثيق الصلة في المتن أو إزالتهم أيضاً.
 ---
 
 # إريك بيرن
@@ -53,8 +46,4 @@ gaps:
 - *Transactional Analysis in Psychotherapy* (1961) — الأطروحة التأسيسية.
 - *The Structure and Dynamics of Organizations and Groups* (1963).
 - *Games People Play* (1964) — الكتاب الأشهر.
-- *What Do You Say After You Say Hello?* (1972، نشر بعد وفاته) — عن المصائر.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- *What Do You Say After You Say Hello?* (نُشر بعد وفاته عام 1972) — عن المصائر.

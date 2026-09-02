@@ -13,11 +13,10 @@ edges:
 - rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-laing", title: "لاينغ", type: "مفكر"
-- id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
 - id: "wrk-divided-self", title: "الذات المنقسمة", type: "عمل / كتاب"
 gaps:
-  - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
-  - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
+  - "لا توجد مراجعة شاملة لمذكرات أو أرشيف كينغزلي هول من مصدر أولي بعد."
 ---
 # هل الذهان رحلة ذات معنى؟
 

@@ -1,0 +1,59 @@
+---
+slug: "thk-ppower"
+id: "THK-1758"
+type: "مفكر"
+level: "مبتدئ"
+title: "باميلا ج. باور"
+en: "Pamela J. Power"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "مدرسة التحليل النفسي ← الناس ← باميلا ج. باور"
+edges:
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
+related:
+- id: "thk-wgiegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
+- id: "thk-jsandoval", title: "جنيفر ساندوفال", type: "مفكر"
+- id: "thk-melkaim-dror", type: "مفكر", title: "ماثيو الكيم-درو"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Pamela J. Power' في حقل التحليلية الأمريكية."
+  - "لا كتاب منشور بهذا الاسم في WorldCat (حتى آب 2026)."
+  - "العمل المشار إليه ('Psychology as the Discipline of Interiority', 2013، Routledge) مُحرَّر من 'El-Bejjani & Sandoval'، لا Power."
+  - "الاحتمال: الاسم مُدخل من موقع 'Studies in Jungian Psychology' أو محرّر مشارك في مطبوعة غيغيريش."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Jungian America' عام."
+---
+
+# باميلا ج. باور
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في حقل التحليلية الأمريكية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Pamela J. Power.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IAAP**: لا عضوية.
+  - **JAP (Journal of Analytical Psychology)**: لا مقالة.
+  - **Spring Journal**: لا مقالة.
+  - **Routledge (Publisher)**: لا كتاب منشور لـ"Power" في حقل التحليلية.
+  - **WorldCat**: لا كتاب منشور.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع Pamela J. Power as a researcher (different field).
+- احتمال **خطأ إملائي** في الاسم.
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Giegerich, W. (2012). *The Soul's Logical Life*. Routledge.
+  - El-Bejjani, D. & Sandoval, J. (eds.) (2013). *Psychology as the Discipline of Interiority*. Routledge (الكتاب المُشار إليه في الـfrontmatter الأصلي، لا يحتوي على Power كمؤلِّف).
+  - JAP: https://onlinelibrary.wiley.com/journal/17455112

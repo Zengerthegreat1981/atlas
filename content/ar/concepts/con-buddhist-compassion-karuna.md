@@ -12,15 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
-- id: "con-cft-self-compassion", title: "الشفقة", type: "مفهوم"
-- id: "con-mutual-empathy", title: "التعاطف", type: "مفهوم"
-- id: "con-bodhicitta", title: "بوذَيتَّا", type: "مفهوم"
+- id: "con-cft-self-compassion", title: "التعاطف مع الذات (Self-Compassion, CFT)", type: "مفهوم"
+- id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
+- id: "wrk-gilbert-compassionate-mind", title: "كتاب العقل العطوف: نهج جديد لتحديات الحياة لبول غيلبرت (2009)", type: "عمل"
+- id: "thk-ssalzberg", title: "شارون سالزبرغ", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الدالاي لاما (thk-bstan-dzin)"
-  - "لم تُراجع من نسخة أصلية مباشرة بعد (Śāntideva's Bodhicaryāvatāra، 700 CE)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الفرق بين Karuna (الرحمة) وMaitri (الحب اللطيف) يحتاج فصلاً."
-  - "التطبيق العلاجي (CFT, Paul Gilbert) يحتاج فصلاً."
+  - "الدالاي لاما مذكور في المتن (Ethics for the New Millennium، 2001) لكن لا يوجد ملف مفكر مقابل له في الأطلس بعد."
+  - "غازان (Gazan، 2015) مذكور في المتن دون ملف مفكر أو مصدر مقابل في الأطلس."
+  - "لا يوجد ملف مفهوم لـBodhicitta يستدعي الربط رغم صلته الموضوعية بالكرونا، لأن المتن لا يذكره أصلاً."
+  - "لا يوجد مصدر نصي بوذي أصلي (سنسكريتي أو بالي) يوثق التمييز بين Karuna وMaitri."
 ---
 
 # الكَرُونَا / الرَّحْمَة البُوذِيَّة (Karunā)

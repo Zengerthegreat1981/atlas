@@ -15,9 +15,11 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-ibrenner", target_type: "مفكر"
 related:
-- id: "thk-ibrenner", title: "إيرفينغ برينر", type: "مفكر"
+- id: "thk-ibrenner", title: "تشارلز برينر", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
@@ -50,3 +52,7 @@ gaps:
 ## أهم المراجع
 
 «أنماط الصراع النفسي» (Patterns of Psychic Conflict, 1966).
+
+## الروابط والسياق
+
+طوّر تشارلز برينر (Charles Brenner) نظرية الصراع الحديث بوصفها إعادة صياغة لأسس التحليل النفسي (Psychoanalysis) بعيداً عن ثنائية الغريزة/الدفاع. تتموضع النظرية في حوار نقدي مع سيغموند فرويد (Sigmund Freud) الذي نسبت إليه فكرة غريزة الموت التي استغنى عنها برينر، ومع أنا فرويد (Anna Freud) التي ركّزت على آليات الدفاع بوصفها استجابة أحادية للصراع بدل تعدديته.

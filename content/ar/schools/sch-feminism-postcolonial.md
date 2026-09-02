@@ -10,6 +10,7 @@ crumb: "الفلسفة ← النسوية ← ما بعد الاستعمار"
 dates: "الهند، الشرق الأوسط، أمريكا اللاتينية · من 1980s إلى اليوم"
 country: "متعددة (الهند، مصر، إيران، الجزائر)"
 language: "الإنجليزية، الفرنسية، العربية"
+cultural_origin: "south-asian"
 active_start: 1986
 active_end: "مستمر"
 edges:
@@ -57,3 +58,11 @@ gaps:
 ## القيد
 
 - تواجه انتقادات من النسويات العربيات (لإسقاط صوت المرأة العربية كـSubaltern).
+
+## المصادر
+
+- Spivak, G. C. (1988). Can the Subaltern Speak? In C. Nelson & L. Grossberg (Eds.), *Marxism and the Interpretation of Culture* (pp. 271-313). University of Illinois Press.
+- Mohanty, C. T. (1984). Under Western Eyes: Feminist Scholarship and Colonial Discourses. *boundary 2*, 12(3), 333-358.
+- Ahmed, L. (1992). *Women and Gender in Islam: Historical Roots of a Modern Debate*. Yale University Press.
+- Abu-Lughod, L. (2013). *Do Muslim Women Need Saving?*. Harvard University Press.
+- Lazreg, M. (1994). *The Eloquence of Silence: Algerian Women in Question*. Routledge.

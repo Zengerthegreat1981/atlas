@@ -11,10 +11,13 @@ language: "الإنجليزية"
 active_start: 1991
 active_end: 1991
 part: "psychology"
+author: "فرانسيسكو فاريلا، إيفان طومسون، إيلينور روش"
+author_slug: "thk-varela"
+publication_year: 1991
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس البنائي", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-varela", target_type: "مفكر"
-- rel: "authored_by", target: "إيفان طومسون", target_type: "مفكر"
+- rel: "authored_by", target: "thk-ethompson", target_type: "مفكر"
 - rel: "authored_by", target: "thk-erosch", target_type: "مفكر"
 related:
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"

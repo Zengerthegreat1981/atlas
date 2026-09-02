@@ -16,11 +16,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-- id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "wrk-happiness-trap", title: "فخ السعادة", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر من نصوص هاريس قابل للتوثيق بمصدر وصفحة، فحُذف قسم الاقتباسات."
 ---
 
 # روس هاريس
@@ -53,6 +53,8 @@ gaps:
 - *ACT with Love* (2009).
 - *Trauma-Focused ACT* (2021).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Harris, R. (2007). *The Happiness Trap: How to Stop Struggling and Start Living*. Exisle Publishing.
+- Harris, R. (2009). *ACT Made Simple: An Easy-to-Read Primer on Acceptance and Commitment Therapy*. New Harbinger.
+- World Health Organization & Harris, R. (2020). *Doing What Matters in Times of Stress: An Illustrated Guide*. WHO.

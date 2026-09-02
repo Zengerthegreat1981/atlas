@@ -10,16 +10,18 @@ en: "Give and Take: A Revolutionary Approach to Success"
 crumb: "علم النفس التنظيمي والدافعية ← الأعمال ← الأخذ والعطاء"
 dates: "2013 · آدم غرانت"
 language: "الإنجليزية"
+author: "آدم غرانت"
+author_slug: "thk-adam-grant"
+publication_year: 2013
+original_language: "الإنجليزية"
 active_start: 2013
 active_end: 2013
 edges:
-- rel: "belongs_to", target: "علم النفس التنظيمي والدافعية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-adam-grant", target_type: "مفكر"
 related:
 - id: "thk-adam-grant", title: "آدم غرانت", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الأخذ والعطاء: نهج ثوري للنجاح
@@ -33,7 +35,3 @@ gaps:
 ## تأثير بيئات العطاء على إنتاجية المؤسسات
 
 كيف ترفع ثقافة العطاء والتعاون من أرباح وإبداع المؤسسات مقارنة ببيئات التنافس الأناني.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -13,11 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
 - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
-- id: "con-exposure-habituation", title: "التعرّض والتعوّد", type: "مفهوم"
-- id: "con-exposure-hierarchy", title: "الهرّم التدرّجي للتعرّض", type: "مفهوم"
+- id: "con-exposure-habituation", title: "التعود بالتعرض", type: "مفهوم"
+- id: "con-exposure-hierarchy", title: "الهرّم التدرّجي للتعرّض (Exposure Hierarchy)", type: "مفهوم"
 gaps:
   - "ديفيد كلارك (David Clark) وبول سالكوفسكس (Paul Salkovskis) ليسا في الأطلس بعد، رغم أن أعمالهما في هذا المفهوم محورية."
   - "التمييز بين سلوك الأمان الظاهر (Overt) والخفي (Covert) في أدبيات اضطرابات القلق يحتاج تحقق."
@@ -72,3 +72,8 @@ gaps:
 ## الإرث والجدل
 
 أحدث مفهوم سلوك الأمان **ثورة في علاج القلق** في تسعينيات القرن العشرين، إذ كشف أن مجرد «دعم» المريض أثناء التعرّض قد يُبقي اضطرابه. مع ذلك، ينتقد بعض المعالجين **التمييز المُطلق** بين سلوك الأمان والاستراتيجية التأقلمية المفيدة، خاصة في بعض اضطرابات الصحة الجسدية المزمنة حيث قد يكون السلوك وقائياً ضرورياً.
+
+## المصادر
+
+- Salkovskis, P. M. (1991). "The importance of behaviour in the maintenance of anxiety and panic: A cognitive account." *Behavioural Psychotherapy*, 19(1).
+- Clark, D. M., & Wells, A. (1995). "A cognitive model of social phobia." In *Social Phobia: Diagnosis, Assessment, and Treatment*.

@@ -7,20 +7,18 @@ register: "popular"
 level: "متوسط"
 title: "روندا بايرن"
 en: "Rhonda Byrne"
-crumb: "علم النفس الشعبي وقانون الجذب ← الناس ← روندا بايرن"
+crumb: "أعلام علم النفس الشعبي ← روندا بايرن"
 dates: "أستراليا · 1951–"
 country: "أستراليا"
 language: "الإنجليزية"
 active_start: 2006
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وقانون الجذب", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-the-secret", title: "السر: قانون الجذب", type: "عمل / كتاب"
 - id: "con-law-of-attraction-popular", title: "قانون الجذب (الشبيه يجذب شبيهه في علم النفس الشعبي)", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا تتوفر ترجمة عربية موثّقة لمقتطف من The Secret يصلح للاقتباس المباشر."
 ---
 
 # روندا بايرن
@@ -44,6 +42,8 @@ gaps:
 - *The Secret* (فيلم 2006، كتاب 2006).
 - *The Power* (2010)، *The Magic* (2012)، *Hero* (2013)، *The Greatest Secret* (2020).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Rhonda Byrne, *The Secret* (Atria Books/Beyond Words, 2006).
+- Barbara Held, "The Negative Side of Positive Psychology", *Journal of Humanistic Psychology* 44(1), 2004 — نقد بنية اللوم الذاتي في أدبيات التفكير الإيجابي.
+- Micki McGee, *Self-Help, Inc.: Makeover Culture in American Life* (Oxford University Press, 2005) — سياق صناعة المساعدة الذاتية.

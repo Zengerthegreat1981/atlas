@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: 1984
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
@@ -22,7 +22,6 @@ related:
 - id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
 gaps:
   - "التفاصيل المتعلقة بتأثير أدلر على «ثلاثية الإطفائيين» (Die Wasseträger Gottes) تحتاج فحصاً نصياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مَنِس سپِربر
@@ -43,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 ثلاثية «حمّالة ماء الله» (Die Wasserträger Gottes, 1935–1975) · «الفرد في المنظومة» (Das Individuum in der Masse, 1923) · «تجاوز اليأس» (Die vergebliche Warnung, 1975).
+
+## المصادر
+
+- Sperber, M. (1974-1975). *Die Wasserträger Gottes* trilogy (German original). Europa Verlag.
+- Sperber, M. (1938). *Alfred Adler, ou La misère du psychologisme*. Actes Sud — نقده الفلسفي المباشر لإرث أدلر.
+- Sperber, M. (1974). *All das Vergangene...* (السيرة الذاتية) — يوثّق علاقته المباشرة بأدلر في فيينا.

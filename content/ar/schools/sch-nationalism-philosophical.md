@@ -12,8 +12,8 @@ country: "متعددة"
 language: "متعددة"
 active_start: 1808
 active_end: "مستمر"
+cultural_origin: "european"
 edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
 - id: "sch-romanticism", title: "الرومانسية الفلسفية", type: "مدرسة"
 - id: "sch-fichte", title: "الفيختية", type: "مدرسة"
@@ -55,3 +55,12 @@ gaps:
 
 - تُنتج إقصاءً عرقياً وصراعات حدود.
 - في بعض الحالات قادت لنزاعات إبادة.
+
+## المصادر
+
+- Fichte, J.G. (1808). *Reden an die deutsche Nation*.
+- Herder, J.G. (1784-1791). *Ideen zur Philosophie der Geschichte der Menschheit*.
+- Renan, E. (1882). *Qu'est-ce qu'une nation?*
+- Gellner, E. (1983). *Nations and Nationalism*. Cornell University Press.
+- Anderson, B. (1983). *Imagined Communities*. Verso.
+- Hobsbawm, E. (1983). *The Invention of Tradition*. Cambridge University Press.

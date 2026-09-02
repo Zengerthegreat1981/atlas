@@ -26,7 +26,7 @@ related:
 gaps:
   - "قائمة المنشورات الأكاديمية الأصلية الكاملة تحتاج مراجعة بيبلوغرافية دقيقة."
   - "التفاصيل الببليوغرافية للطبعات اللاحقة من «لماذا لا تصاب الحمر الوحشية بالقرحة» تحتاج تحققاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح بنصه الأصلي."
+  - "لم يُعثر على اقتباس مباشر قابل للتوثيق بمصدر وصفحة محددة، فحُذف قسم الاقتباسات."
 ---
 
 # روبرت سابولسكي
@@ -55,10 +55,13 @@ gaps:
 - *A Primate's Memoir: A Neuroscientist's Unconventional Life Among the Baboons* (2001): سيرة شبه-علمية عن سنواته في كينيا، يمزج فيها بين البحث والأدب.
 - *Behave: The Biology of Humans at Our Best and Worst* (2017): ذروة عمله التأليفي، وعرض بانورامي للسلوك البشري عبر طبقاته البيولوجية والنفسية والاجتماعية والثقافية.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح بنصه الأصلي.
-
 ## أثره في علم النفس المعاصر
 
 يظهر أثر سابولسكي في ثلاثة مسارات: (1) إعادة تأطير الفجوات الصحية بين الطبقات الاجتماعية بوصفها «كلل استتبابي» متراكم وليس مجرد «اختيارات نمط حياة»؛ (2) إدخال مفهوم «السياق الاجتماعي» كمتغيّر مستقل في بحوث الإجهاد الحيوانية والبشرية؛ (3) التشكيك في الفكرة الوراثية الصلبة لسلوكيات مثل العدوانية، من خلال إظهار كيف يمكن للبيئة الجنينية والاجتماعية تعديلها. هذه الأفكار صارت جزءاً من المناهج الجامعية في علم النفس الصحي وعلم النفس المجتمعي.
+
+## المصادر
+
+- Sapolsky, R. M. (1994). *Why Zebras Don't Get Ulcers: An Updated Guide to Stress, Stress-Related Diseases, and Coping*. W. H. Freeman.
+- Sapolsky, R. M. (2017). *Behave: The Biology of Humans at Our Best and Worst*. Penguin Press.
+- Sapolsky, R. M. (2001). *A Primate's Memoir: A Neuroscientist's Unconventional Life Among the Baboons*. Scribner.
+- Sapolsky, R. M. (1997). *The Trouble with Testosterone and Other Essays on the Biology of the Human Predicament*. Scribner.

@@ -13,12 +13,11 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-jnicolosi", target_type: "مفكر"
 related:
 - id: "thk-csocarides", title: "تشارلز سوكرايدِس", type: "مفكر"
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
-- id: "con-conversion-therapy-harm", title: "أضرار العلاج بالتحويل", type: "مفهوم"
+- id: "con-conversion-therapy-harm", title: "ضرر العلاج بالتحويل", type: "مفهوم"
 gaps:
   - "السياق التاريخي الكامل (NARTH 1992، Exodus International) لم يُوثّق بدقة كافية."
   - "التشريعات المناهضة (عدد الدول، السنوات) لم تُحصر بدقة."

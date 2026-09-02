@@ -2,42 +2,45 @@
 slug: "thk-rkovarsky"
 id: "THK-1821"
 type: "مفكر"
-level: "متقدم"
-title: "رِكُورْدو كوفارسكي"
+level: "مبتدئ"
+title: "ريكاردو كوفارسكي"
 en: "Riccardo Kovarsky"
-crumb: "مدرسة التحليل النفسي ← الناس ← رِكُورْدو كوفارسكي"
-dates: "إيطاليا · [غير مؤكد]"
-country: "إيطاليا"
-language: "الإيطالية"
 part: "philosophy"
-active_start: null
-active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-jmertz", title: "[مؤسِّسو أعمدة Rivista di Psicologia Analitica]", type: "مفكر"
-- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
-- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "سيرة محدودة."
+  - "**حُجر 2026-08-27:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة — الملف نفسه اعترف بعدم العثور على سيرة مستقلة موثّقة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rkovarsky.md.archived.2026-08-27"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
-# رِكُورْدو كوفارسكي
+# ريكاردو كوفارسكي
 
-محلّل يونغي إيطالي، رئيس «ARPA» (Associazione per la Ricerca in Psicologia Analitica) في ميلانو، ومؤسِّس مجلة «Atti di ARPA».
+(Riccardo Kovarsky)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rkovarsky.md.archived.2026-08-27`
 
-أجرى «تحليلية للمؤسّسة» (Analytical Approach to Institutions) — تطبيق يونغ لـ«الأركيتيب المؤسّسي» و«المركّب المؤسّسي» على المدارس، المستشفيات، والجامعات الإيطالية. كذلك ساهم في تطوير «التحليلية الجنائية» — دراسة علم نفس الإجرام، والقتل، والانحراف في إطار أركييبي.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-«المؤسِّس المؤسسي» لتحليلية المؤسّسة في إيطاليا.
+هذا المفكر ورد في دفعة تدقيق قرائي T3 لـMiniMax، والملف نفسه — قبل الحجر — كان
+نصاً يعترف صراحةً بعدم العثور على سيرة أكاديمية مستقلة موثّقة لهذا الاسم في
+قواعد البيانات الأكاديمية ذات الصلة (حتى آب 2026)، رغم اقتراح عدة احتمالات لبس
+مع أشخاص آخرين. طبقاً للقاعدة 11 في MINIMAX.md، الشك المعترف به في المتن يحسم
+القرار: حجر، لا نشر سيرة واثقة الشكل.
 
-## القيد
-موقعه في الذاكرة الأطلسية الرسمية ضعيف.
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة
+بشكل مستقل، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-## أهم أعماله
+## للمتابعة
 
-Atti di ARPA (مقالات متعدّدة).
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rkovarsky.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rkovarsky.md.archived.2026-08-27`
+- طلبات البحث: `agents_specs/requests-minimax.md`

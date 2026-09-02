@@ -12,18 +12,14 @@ active_end: "مستمر"
 related:
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
-- id: "thk-dewey", title: "جون ديوي", type: "مفكر"
-- id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
-- id: "thk-locke", title: "جون لوك", type: "مفكر"
-- id: "thk-spencer", title: "هربرت سبنسر", type: "مفكر"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
-- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي الأربع (Piaget)", type: "مفهوم"
 - id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة", type: "جدل"
 gaps:
-  - "نظرية العقل المتعدد (Theory of Multiple Intelligences) لغاردنر (Gardner) تحتاج مراجعة نقدية مُعمّقة"
-  - "نظرية الوحدات النمطية لكارل فودور (Fodor, *The Modularity of Mind*, 1983) تحتاج تحليلاً عربياً متاحاً"
-  - "مساهمات عالم النفس الأفريقي مانغوسو أوكافور (Nwoye) في بدائل للنمذجة الفطرية مفقودة من الفهرس"
+  - "نظرية الوحدات النمطية لكارل فودور (Fodor, *The Modularity of Mind*, 1983) — أحد الطرفين الأصليين لهذا الجدل — لا ملف مفكر له في الأطلس (thk-fodor غير موجود)؛ طُلب في requests-minimax.md"
+  - "الطرف الفطري في هذا الملف يستند بالاسم إلى تشومسكي وبنكر وكوزميدس وتووبي، والطرف البيئي يستند إلى رومِلهارت وماكليلاند وسبِلكه وإلمان وكارميلوف-سميث وجيري — لا يوجد ملف مفكر واحد لأي منهم في الأطلس (thk-chomsky، thk-pinker، thk-cosmides، thk-tooby، thk-rumelhart، thk-mcclelland، thk-spelke، thk-elman، thk-karmiloff-smith، thk-geary كلها غير موجودة)؛ طُلبوا في requests-minimax.md"
+  - "أُزيلت من related الروابط إلى thk-dewey وthk-wundt وthk-locke وthk-spencer وsch-developmental لأن المتن لا يذكرهم إطلاقاً — كانت روابط غير مبرَّرة"
+  - "تداخل موضوعي متوقع مع dbt-nature-nurture (الملف الأعم) ومع dbt-nature-nurture-gene-environment-interaction (يتعمق في آلية GxE الجينية بدل نقاش الوحدات المعرفية) — لا دمج، زاوية هذا الملف مستقلة: الفطرة المعرفية المتخصصة (لغة، وجوه، نظرية العقل) مقابل التعلم العام"
 ---
 
 # جِدَل الْوِحَدَات الْمَعْرِفِيَّة الْفِطْرِيَّة ضِدّ التَّعَلُّم الْعَامّ الْبِيئِيّ: أَيّ تَفْسِير لِـ**سُلُوك** الْإِنْسَان؟
@@ -81,3 +77,10 @@ gaps:
 ## نَقْد الْجَدَل
 
 (1) **«**وِحْدَة**» (Module)** — تَعْرِيف غَيْر مُتَّفَق عَلَيْه: مَنَاطِق دِمَاغِيَّة؟ وُحَدَات مَعْرِفِيَّة؟ نَوَاة مَفَاهِيم؟ (2) **«**فِطْرَة**» (Innate)** = «**مَوْجُود عِنْد الْوِلَادَة**»، لَكِنَّ الْجِين «**مَوْجُود**» أَيْضًا. (3) **أَخْطَار الْاِسْتِعْمَال الْإِيدِيُولُوجِيّ**: «**وِحَدَات فِطْرِيَّة**» تُسْتَخْدَم أَحْيَانًا لِتَبْرِير «**اخْتِلَافَات اجْتِمَاعِيَّة**» (مثل «**لِسَانِيَّة أَفْضَل**» لِبَعْض الثَّقَافَات).
+
+## المصادر
+
+- Cosmides, L., & Tooby, J. (1994). "Origins of Domain Specificity: The Evolution of Functional Organization." In L. Hirschfeld & S. Gelman (Eds.), *Mapping the Mind: Domain Specificity in Cognition and Culture*. Cambridge University Press.
+- Wimmer, H., & Perner, J. (1983). "Beliefs about Beliefs: Representation and Constraining Function of Wrong Beliefs in Young Children's Understanding of Deception." *Cognition*, 13(1), 103–128.
+- Saffran, J. R., Aslin, R. N., & Newport, E. L. (1996). "Statistical Learning by 8-Month-Old Infants." *Science*, 274(5294), 1926–1928.
+- Karmiloff-Smith, A. (1992). *Beyond Modularity: A Developmental Perspective on Cognitive Science*. MIT Press.

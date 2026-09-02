@@ -11,9 +11,13 @@ language: "الإنجليزية"
 active_start: 2019
 active_end: 2019
 part: "psychology"
+author: "ستيفن سي. هايز"
+author_slug: "thk-lstevenhayes"
+publication_year: 2019
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "ستيفن هايز", target_type: "مفكر"
+- rel: "authored_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "con-experiential-avoidance", title: "التجنب التجريبي", type: "مفهوم"
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"

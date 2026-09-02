@@ -14,12 +14,9 @@ edges:
 related:
 - id: "sch-deconstruction", title: "التفكيكية (Déconstruction)", type: "مدرسة"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
-- id: "thk-john-searle", title: "جون سيرل", type: "مفكر"
-- id: "dia-buber-rogers-dialogue-1957", title: "حوار مارتن بوبر وكارل روجرز 1957 حول العلاج والعلاقة", type: "حوار مع مدرسة مجاورة"
-- id: "dia-rawls-habermas-debate-1995", title: "مناظرة جون رولز ويورغن هابرماس 1995 حول العدالة", type: "حوار مع مدرسة مجاورة"
+- id: "thk-john-searle", title: "جون روجرز سيرل", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "نص رد سيرل الأصلي «إعادة صياغة الاختلافات» (Reiterating the Differences) لم يُنشر رسمياً في مجلة Glyph نفسها إلا كترجمة موجزة؛ نسخته الكاملة محفوظة ضمن أرشيفه ولم تُراجع هنا مباشرة."
 ---
 
 # سجال دريدا وسيرل 1977: أفعال الكلام والتفكيك والقصدية
@@ -41,3 +38,9 @@ gaps:
 ## الأثر في القطيعة بين التقليدين القاري والتحليلي
 
 كرست المناظرة الفجوة المنهجية بين الفلسفة التحليلية الأنجلو-أمريكية والتفكيك الفرنسي.
+
+## المصادر
+
+- Derrida, Jacques. "Signature Event Context," *Glyph* 1 (1977): 172–197.
+- Searle, John R. "Reiterating the Differences: A Reply to Derrida," *Glyph* 1 (1977): 198–208.
+- Derrida, Jacques. *Limited Inc a b c...*, *Glyph* 2 (1977): 162–254; مجمّعة لاحقاً في كتاب *Limited Inc* (Northwestern University Press, 1988).

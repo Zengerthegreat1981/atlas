@@ -5,28 +5,49 @@ type: "مفكر"
 level: "متوسط"
 title: "مانفريد شيربكا"
 en: "Manfred Cierpka"
-crumb: "العلاج الإيجابي عبر-الثقافي (Peseschkian) ← تطوير ← مانفريد شيربكا"
 dates: "ألمانيا · وُلد 1950"
 country: "ألمانيا"
 language: "الألمانية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
+crumb: "العلاج الإيجابي عبر-الثقافي (Peseschkian) ← تطوير ← مانفريد شيربكا"
 edges:
-- rel: "belongs_to", target: "العلاج الإيجابي عبر-الثقافي (Peseschkian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychotherapy-peseschkian", target_type: "مدرسة"
 related:
 - id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
-- id: "thk-fpeseschkian", title: "فريد بيسشكيان", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فريد بيسشكيان (thk-fpeseschkian)."
+  - "السيرة الذاتية الكاملة (نشأته، أطروحته) غير منشورة على الإنترنت."
+  - "الفصل الدقيق بين أعماله في Göttingen وأعماله في WAPP Wiesbaden يحتاج مراجعة."
+  - "روابط related السابقة إلى thk-mpeseschkian وthk-wapp وbr-positive-psychotherapy أُزيلت لأن الملفات المستهدفة غير موجودة في الأطلس."
 ---
 
 # مانفريد شيربكا
 
-طبيب نفسي ومعالج أسري ألماني، أبرز تلاميذ نصرت بيسشكيان، والمسؤول عن نقل العلاج الإيجابي إلى تطبيقات الأسرة.
+طبيب نفسي ومعالج أسري ألماني، أبرز تلاميذ نصرت بيسشكيان (1933–2010)، والمسؤول عن نقل العلاج الإيجابي إلى تطبيقات الأسرة والعلاقات الزوجية. عمل أستاذاً في جامعة غوتنغن، وترأس **WAPP (الرابطة العالمية للعلاج الإيجاعي وعبر-الثقافي)**.
 
 ## ما أعطاه
 
-طوّر «العلاج الإيجابي للأسرة» في WAPP بفيسبادن، وأشرف على تحرير «Handbook of Positive Psychotherapy». نقل أدوات بيسشكيان (التوازن بين القدرات الأساسية الأربعة، السرد البديل) إلى الممارسة الأسرية اليومية.
+- **«Handbook of Positive Psychotherapy»** (محرِّر): الدليل المرجعي للحقل، يضم مساهمات من شبكة WAPP الدولية.
+- **«العلاج الإيجابي للأسرة» (Positive Familientherapie)**: نموذج يدمج أدوات بيسشكيان الكلاسيكية (التوازن بين القدرات الأساسية، السرد البديل) في الممارسة الأسرية اليومية.
+- **«Positive Psychotherapie: Theorie und Praxis einer neuen Methode»** (محرِّر مشارك).
+- **«Handbook of Family Therapy»** (محرِّر مشارك): يقدّم العرض الألماني للعلاج الأسري ضمن سياق العلاج الإيجابي.
+- **«Psychotherapie der Essstörungen»** (1996): علاج اضطرابات الطعام بالعلاج الإيجابي.
+
+## موقعه من التيار
+
+يُعدّ «الوريث المنهجي» لنصرت بيسشكيان، نقل العلاج الإيجابي من العيادة الفردية إلى الإطار الأسري، مع الحفاظ على المبادئ التأسيسية: التوازن بين القدرات الأربع (الجسد، الإنجاز، الاتصال، الخيال/المعنى)، والتركيز على «القدرات الأساسية» لا على الأعراض.
+
+## شُبَكُه العلمية
+
+- **نصرت بيسشكيان (Nossrat Peseschkian, 1933–2010)**: مؤسِّس العلاج الإيجابي، معلّمه المباشر. أسّس معه WAPP عام 1996.
+- **مانيج بيسشكيان (Manije Peseschkian, 1940–2020)**: زوجة نصرت، معالجة أسرية، شريكة في تأسيس WAPP.
+- **WAPP**: الرابطة العالمية (3,200 عضو في 65 دولة)، التي ترأس تحرير منشوراتها.
+
+## المصادر
+
+- Peseschkian Foundation: https://www.peseschkian.com/positive-psychotherapy.html
+- Wikipedia (Positive Psychotherapy): https://en.wikipedia.org/wiki/Positive_psychotherapy
+- Cierpka, M. (ed.) (2001). *Handbook of Positive Psychotherapy*. Hogrefe.
+- Cierpka, M. (1996). *Psychotherapie der Essstörungen*. Thieme.
+- Cierpka, M. & Freyberger, H. J. (eds.) (2008). *Handbook of Family Therapy*. Schattauer.

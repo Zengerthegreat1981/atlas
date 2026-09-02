@@ -20,9 +20,9 @@ related:
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: البوديساتفا (con-bodhisattva)"
-  - "لم تُراجع من نسخة أصلية مباشرة بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "إسهاماته في 'Contemplative Studies' في Boston College تحتاج فصلاً."
+  - "تحقّق: هو أستاذ مشارك (Associate Professor) في قسم اللاهوت (Theology) بجامعة بوسطن كوليدج، ورئيس جمعية الدراسات البوذية-المسيحية الدولية — مؤكَّد من صفحة بوسطن كوليدج الرسمية. مؤلفاته الرئيسية المؤكَّدة: Buddhahood Embodied (1997) وAwakening Through Love (2007) وBuddhist Theology."
+  - "سنة الميلاد (1953 أو 1955؟) غير مؤكَّدة من أي مصدر متاح — تُركت كما وردت في النسخة الأصلية دون تعديل لعدم توفر دليل حاسم."
 ---
 
 # جون ماكرانسكي (John Makransky)
@@ -38,3 +38,12 @@ gaps:
 ## الأهمية
 
 ماكرانسكي من أهم الأصوات التي تمنع «البوذبة المستوردة» في علم النفس، عبر التمسك ب**التقليد البوذي** لا استخدامه ك**تقنية** وحسب.
+
+## أهم المؤلفات
+
+- *Buddhahood Embodied: Sources of Controversy in India and Tibet* (SUNY Press, 1997).
+- *Awakening Through Love: Unveiling Your Deepest Goodness* (Wisdom Publications, 2007).
+
+## المصادر
+
+- صفحة جون ماكرانسكي الرسمية على موقع بوسطن كوليدج.

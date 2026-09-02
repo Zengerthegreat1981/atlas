@@ -10,16 +10,18 @@ en: "The Laws of Human Nature"
 crumb: "علم النفس الشعبي والشخصية ← الأعمال ← قوانين الطبيعة البشرية"
 dates: "2018 · روبرت غرين"
 language: "الإنجليزية"
+author: "روبرت غرين"
+author_slug: "thk-robert-greene"
+publication_year: 2018
+original_language: "الإنجليزية"
 active_start: 2018
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والشخصية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-robert-greene", target_type: "مفكر"
 related:
 - id: "thk-robert-greene", title: "روبرت غرين", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # قوانين الطبيعة البشرية
@@ -33,7 +35,3 @@ gaps:
 ## تطوير التعاطف والوعي بالظل
 
 مواجهة الجوانب المظلمة في الذات لتحويلها إلى طاقة إبداعية وتواصل ناضج.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

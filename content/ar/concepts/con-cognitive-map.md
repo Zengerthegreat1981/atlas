@@ -13,10 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "con-latent-learning", title: "التعلم الكامن", type: "مفهوم"
-- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
+- id: "thk-clhull", title: "كلارك هال", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الاستخدام العصبي الحديث (Place Cells, Grid Cells في hippocampus) — يحتاج توثيقاً متخصصاً."
 ---
 

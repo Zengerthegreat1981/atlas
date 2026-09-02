@@ -22,7 +22,7 @@ related:
 - id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 - id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى سوتيتش بمصدر وسنة."
   - "دوره التأسيسي في إطلاق دورية علم النفس الإنساني (JHP) ودورية علم النفس عبر الشخصي (JTP) يحتاج توثيقاً تاريخياً."
 ---
 
@@ -44,3 +44,9 @@ gaps:
 ## أهم أعماله
 
 تأسيس ورئاسة تحرير دورية علم النفس الإنساني (1961–1976) ودورية علم النفس عبر الشخصي (1969–1976).
+
+## المصادر
+
+- Vich, Miles A. "Anthony J. Sutich: An Appreciation." *Journal of Transpersonal Psychology*, 1988.
+- Sutich, Anthony J. "Some Considerations Regarding Transpersonal Psychology." *Journal of Transpersonal Psychology*, 1(1), 1969.
+- "Journal of Humanistic Psychology." Sage Publications — سجل التأسيس، 1961.

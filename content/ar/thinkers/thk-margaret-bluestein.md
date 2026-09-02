@@ -11,35 +11,32 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الأنساق الأسرية الداخلية (IFS)", target_type: "مدرسة"
+part: "psychology"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** الاسم لا يطابق شخصية أكاديمية موثّقة مستقلة. النسخة الأصلية محفوظة في archive."
 ---
 
-# مارغريت بلوستين
+# حُجر
 
-معالجة نفسية أمريكية، من المساهمين البارزين في **مجال تطبيق IFS** مع **الأطفال والمراهقين**.
+**هذا الملف في الحجر.** لا يمكن توثيقه من مصادر أكاديمية رصينة (تم التحقق آب 2026).
 
-## ما أعطته
+**السبب:** الاسم في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-- تأليف *Telling the Truth to Your Kids: Turning Conflict into Cooperation with IFS* (محرر، 2018).
-- مساهمات في **تطوير بروتوكولات IFS** المكيّفة للأطفال، مع الحفاظ على روح النموذج.
-- كتابات عن **«التربية الواعية»** (Conscious Parenting) وعلاقتها بـ IFS.
-- مساهمات في **دورات تدريبية** للآباء والمعلمين على مبادئ IFS.
+**النسخة الأصلية** (ما قبل الحجر، 2026-08-26) محفوظة في:
+`agents_specs/quarantine-minimax-archive/thk-margaret-bluestein.md.archived.2026-08-26`
 
-## موقعها من التيار
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل.
 
-تقف بلوستين عند **تلاقي IFS مع التربية والعلاقات الأسرية**، وهو ما يُنتج تطبيقات عملية للنموذج في **البيت والصفّ** لا العيادة فحسب.
+## للمتابعة
 
-## أهم أعمالها
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-margaret-bluestein.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-- *Telling the Truth to Your Kids* (2018، محرر).
-- مقالات في *Psychotherapy Networker* ومجلات مهنية.
+## المصادر
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-margaret-bluestein.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

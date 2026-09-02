@@ -15,12 +15,9 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "con-pleasure", title: "اللذة", type: "مفهوم"
-- id: "con-social-pain", title: "الألم الاجتماعي", type: "مفهوم"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "الفرق بين المبدأ الهيدوني الفرويدي والمذهب النفعي (Bentham) يحتاج تحليلاً فلسفياً معمارياً."
-  - "نظرية 'دائرة المكافأة' (Reward Circuitry) المُعاصرة توسّع المبدأ بأساس عصبي."
+  - "نص الاقتباس الافتتاحي منسوب لفرويد بصياغة عامة دون إحالة لصفحة أو طبعة محددة؛ يحتاج تحقيقاً من نص أولي بعينه."
 ---
 
 # المبدأ الهيدوني (مبدأ اللذة-الألم)
@@ -63,3 +60,10 @@ gaps:
 - **اختزال مُفرط**: السلوك البشري لا يُفسَّر كله باللذة/الألم.
 - **التضحية والألم** (في الرياضة، الأمومة، الإصلاح الاجتماعي) قيم إنسانية عالية.
 - **اختلافات ثقافية**: بعض الثقافات (اللاواقعية، الماوية، الرهبانية) تُقدِّم ألماً مُختاراً كقيمة.
+
+## المصادر
+
+- Sigmund Freud, "Formulations on the Two Principles of Mental Functioning" (1911), in *The Standard Edition of the Complete Psychological Works of Sigmund Freud*, vol. 12.
+- Sigmund Freud, *Beyond the Pleasure Principle* (*Jenseits des Lustprinzips*, 1920).
+- Wolfram Schultz, Peter Dayan, P. Read Montague, "A Neural Substrate of Prediction and Reward", *Science* 275 (1997): 1593–1599.
+- Carol D. Ryff, "Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being", *Journal of Personality and Social Psychology* 57, no. 6 (1989): 1069–1081.

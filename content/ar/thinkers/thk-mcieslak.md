@@ -5,39 +5,38 @@ type: "مفكر"
 level: "مبتدئ"
 title: "ماريك تشيسلاك"
 en: "Marek Cieslak"
-crumb: "البحث الظاهراتي ← الأبحاث المعاصرة ← ماريك تشيسلاك"
 dates: "[DRAFT-UNKNOWN]"
 country: "[DRAFT-UNKNOWN]"
 language: "[DRAFT-UNKNOWN]"
 active_start: "[DRAFT-UNKNOWN]"
 active_end: "[DRAFT-UNKNOWN]"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
-related:
-- id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
-- id: "thk-eengelhardt", title: "هيوغز إنغلهارت", type: "مفكر"
-- id: "thk-mvanmanen", title: "ماكس فان مانن", type: "مفكر"
+crumb: "البحث الظاهراتي ← الأبحاث المعاصرة ← ماريك تشيسلاك"
+edges: []
+related: []
 gaps:
-  - "بطاقة السيرة والإنتاج المعرفي لم تُراجع من مصدر أولي."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**حُجر 2026-08-26:** الاسم لا يطابق شخصية أكاديمية موثّقة مستقلة. النسخة الأصلية محفوظة في archive."
 ---
 
-# ماريك تشيسلاك
+# حُجر
 
-[هذا العنصر يحتاج مراجعة - استخدمت اسماً لا تتوفر عنه معلومات كافية]
+**هذا الملف في الحجر.** لا يمكن توثيقه من مصادر أكاديمية رصينة (تم التحقق آب 2026).
 
-## ما أعطاه
+**السبب:** الاسم في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-[لم يُراجع]
+**النسخة الأصلية** (ما قبل الحجر، 2026-08-26) محفوظة في:
+`agents_specs/quarantine-minimax-archive/thk-mcieslak.md.archived.2026-08-26`
 
-## موقعه من التيار
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل.
 
-[لم يُراجع]
+## للمتابعة
 
-## أهم أعماله
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-mcieslak.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-[لم يُراجع]
+## المصادر
 
-## القيد
-- **هذا العنصر placeholder** ولا يحتوي على معلومات موثّقة. يحتاج بحثاً أوسع.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-mcieslak.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

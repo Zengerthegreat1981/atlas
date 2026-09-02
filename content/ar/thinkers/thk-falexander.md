@@ -13,20 +13,12 @@ active_start: 1894
 active_end: 1955
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تقنية ألكسندر", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-alexander-technique", target_type: "تقنية"
 related:
 - id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
-- id: "thk-julierawlins", title: "جولي رولينز", type: "مفكر"
-- id: "thk-michael-derm", title: "مايكل ديرمر", type: "مفكر"
-- id: "thk-penelopeeast", title: "بينيلوبي إيست", type: "مفكر"
-- id: "thk-shirley-murray", title: "شيرلي موراي", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جولي رولينز (thk-julierawlins)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل ديرمر (thk-michael-derm)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بينيلوبي إيست (thk-penelopeeast)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرلي موراي (thk-shirley-murray)."
+  - "لم يُعثر على اقتباس مباشر موثّق بمصدر وسنة لهذا المفكر حتى الآن."
+  - "أُزيلت أربعة روابط related غير موثّقة الوجود المستقل: جولي رولينز (thk-julierawlins)، مايكل ديرمر (thk-michael-der-meer)، شيرلي موراي (thk-shirley-murray)، وبينيلوبي إيست (thk-penelopeeast) — لا يوجد ذكر مستقل موثّق لها كممارِسة أو باحثة في تقنية ألكسندر."
 ---
 
 # فريدريك ماتياس ألكسندر

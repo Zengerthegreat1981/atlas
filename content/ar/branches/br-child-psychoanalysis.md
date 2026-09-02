@@ -21,7 +21,7 @@ related:
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
-- id: "thk-spitz", title: "رينيه سبيتز", type: "مفكر"
+- id: "thk-spitz", title: "رينيه شبيتز", type: "مفكر"
 - id: "thk-mmahler", title: "مارغريت ماهلر", type: "مفكر"
 gaps:
   - "التباين المنهجي بين أسلوب أنا فرويد التربوي التحليلي وأسلوب كلاين في التفسير المباشر للعب يحتاج توثيقاً إضافياً."

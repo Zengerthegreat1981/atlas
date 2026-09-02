@@ -13,12 +13,16 @@ edges:
 - rel: "belongs_to", target: "sch-ockhamism", target_type: "مدرسة"
 related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "wrk-summa-logicae-ockham", title: "خلاصة المنطق لوليم الأوكامي (Summa Logicae)", type: "عمل"
+- id: "con-ockhams-razor-parsimony", title: "شفرة أوكام والاقتصاد الأنطولوجي (Lex Parsimoniae)", type: "مفهوم"
+- id: "con-falsificationism-popper", title: "معيار القابلية للتكذيب والحد المعرفي (Falsificationism)", type: "مفهوم"
 gaps:
   - "تطبيقات شفرة أوكام في المنهج العلمي الحديث والذكاء الاصطناعي ونظرية التعلم الإحصائي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # شفرة أوكام — مبدأ الاقتصاد المعرفي (Ockham's Razor)
 
-القاعدة المنهجية الأكثر شهرة في تاريخ الفلسفة والعلوم: «لا ينبغي مضاعفة الكيانات والافتراضات دون ضرورة» (Entia non sunt multiplicanda praeter necessitatem)؛ تقضي بأنه عند وجود عدة تفسيرات أو فرضيات متنافسة لظاهرة واحدة، يجب تفضيل الفرضية الأبسط والأقل تعقيداً وافتراضاً.
+القاعدة المنهجية الأكثر شهرة في تاريخ الفلسفة والعلوم: «لا ينبغي مضاعفة الكيانات والافتراضات دون ضرورة» (Entia non sunt multiplicanda praeter necessitatem)؛ تقضي بأنه عند وجود عدة تفسيرات أو فرضيات متنافسة لظاهرة واحدة، يجب تفضيل الفرضية الأبسط والأقل تعقيداً وافتراضاً، كما صاغها وليم الأوكامي (thk-william-ockham) في مؤلَّفه خلاصة المنطق (wrk-summa-logicae-ockham) ضمن مدرسته الأوكامية (sch-ockhamism)، وهو مبدأ يتقاطع مع معيار القابلية للتكذيب عند بوبر (con-falsificationism-popper) في تفضيل الفرضيات الأبسط والأكثر قابلية للاختبار.
+
+يوثّق هذا الملف الصياغة المنهجية المختصرة للمبدأ، بينما يفصّل ملف con-ockhams-razor-parsimony بعده الأنطولوجي (الاقتصاد في الكيانات) من زاوية موازية دون أن يُدمَجا.

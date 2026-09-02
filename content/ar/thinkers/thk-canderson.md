@@ -13,14 +13,13 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← كارول أندرسون"
 edges:
-- rel: "belongs_to", target: "التثقيف النفسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:
 - id: "br-psychoeducation", title: "التثقيف النفسي", type: "تيار"
-- id: "thk-dhanna", title: "فرانك غولدشتاين", type: "مفكر"
-- id: "thk-dknab", title: "دوغلاس كناب", type: "مفكر"
 - id: "thk-dmueser", title: "كيم ميوزر", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
+  - "لا يوجد تأكيد مستقل لهوية 'فرانك غولدشتاين' و'دوغلاس كناب' كمتعاونين مباشرين معها؛ لذلك حُذف الرابطان بهما من هذه النسخة بدل الإبقاء عليهما بلا توثيق."
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا كاولي (thk-jcawley)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."

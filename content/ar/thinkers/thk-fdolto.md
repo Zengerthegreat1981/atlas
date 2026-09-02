@@ -14,7 +14,7 @@ active_end: 1988
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
+- rel: "belongs_to", target: "br-lacanian", target_type: "تيار"
 related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

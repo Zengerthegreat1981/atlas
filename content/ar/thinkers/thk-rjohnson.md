@@ -18,7 +18,6 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-kunkel", title: "فريتز كونكل", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "نسبه الفكري (Kunkel، Emma Jung، تدريب Zurich) — موثّق لكن يحتاج تحققاً معمارياً."
 ---
 
@@ -40,3 +39,9 @@ gaps:
 ## أهم أعماله
 
 هو (He, 1974) · هي (She, 1976) · نحن (We, 1983) · العمل الداخلي (Inner Work, 1986) · حيازة ظلّك (Owning Your Own Shadow, 1991).
+
+## المصادر
+
+- Johnson, R. A. (1974). *He: Understanding Masculine Psychology*. Harper & Row.
+- Johnson, R. A. (1986). *Inner Work: Using Dreams and Active Imagination for Personal Growth*. Harper & Row.
+- Johnson, R. A. (1998). *Balancing Heaven and Earth: A Memoir*. Harper San Francisco.

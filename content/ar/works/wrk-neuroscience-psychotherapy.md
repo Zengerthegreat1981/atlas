@@ -11,9 +11,13 @@ language: "الإنجليزية"
 active_start: 2002
 active_end: 2002
 part: "psychology"
+author: "لويس كوزولينو"
+author_slug: "thk-lcozolino"
+publication_year: 2002
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "لويس كوزولينو", target_type: "مفكر"
+- rel: "authored_by", target: "thk-lcozolino", target_type: "مفكر"
 related:
 - id: "con-neuropsychoanalysis", title: "التحليل النفسي العصبي (Neuropsychoanalysis)", type: "مفهوم"
 - id: "br-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "تيار"

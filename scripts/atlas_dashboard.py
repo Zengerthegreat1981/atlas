@@ -27,6 +27,32 @@ BASE = {'files':6618,'stamped':1268,'filler':1615,'scaffold':532,'noquote':4502,
 TARGET = {'stamped':0,'filler':0,'scaffold':0,'noquote':0,'sources':5000,
           'bt_name':0,'blacklist':0,'u600':300}
 
+# تجميعات "المسبح المشترك" — كل مجموعة تاسكات بتستهلك نفس رصيد الملفات مع بعض (نفس منطق
+# _candidates/claimed في task.py: ملف اتاخد تحت أي تاسك في المجموعة بيبقى مش متاح لباقي
+# تاسكات نفس المجموعة). المجموع مقابل حجم المسبح ده هو المقياس الصادق للتقدّم، مش عدّ التاسكات
+# "المكتملة" شكلياً — تاسك بحجم 908 ملف (concepts) ومفروض ما يتحسبش زي تاسك بحجم 30.
+POOLS = {
+    'spark': [
+        {'tasks': [1, 2, 3, 4], 'kind': 'thinkers', 'range': ('a', 'l')},
+        {'tasks': [5, 6], 'kind': 'folder', 'folders': ['works']},
+        {'tasks': [7], 'kind': 'folder', 'folders': ['studies']},
+        {'tasks': [8], 'kind': 'folder', 'folders': ['instruments']},
+        {'tasks': [9], 'kind': 'folder', 'folders': ['techniques']},
+        {'tasks': [10], 'kind': 'folder', 'folders': ['disorders', 'syndromes']},
+        {'tasks': [11], 'kind': 'folder', 'folders': ['events']},
+        {'tasks': [12], 'kind': 'folder', 'folders': ['contexts', 'experiences', 'metaphors']},
+    ],
+    'minimax': [
+        {'tasks': [1, 2, 3, 4], 'kind': 'thinkers', 'range': ('m', 'z')},
+        {'tasks': [5, 6, 7, 8], 'kind': 'folder', 'folders': ['schools', 'branches', 'relations']},
+        {'tasks': [9, 10], 'kind': 'folder', 'folders': ['concepts']},
+        {'tasks': [11], 'kind': 'folder', 'folders': ['debates', 'critiques']},
+        {'tasks': [12], 'kind': 'folder', 'folders': ['dialogues', 'questions', 'terms', 'axioms']},
+    ],
+}
+# Tasks 13-17 (مرحلة الإنشاء) مستبعدة من المقام عمداً — مفيش سقف ملفات ثابت لمحتوى جديد
+# بيُخترع، فأي رقم مئوي ليها هيبقى تقديرياً مضلِّل. بتتعرض كعدّاد نشاط منفصل بدل نسبة.
+
 # خريطة المراحل: (مرحلة, تاسك, عنوان, مسار)
 TASKS = {
  'spark': [('م1',1,'التراث العربي-الإسلامي'),('م1',2,'الملفات المشكوك فيها'),
@@ -82,6 +108,55 @@ def scan():
             for mm in re.finditer(r'rel: "belongs_to", target: "([^"]+)"', t):
                 if not re.match(r'^[a-z]+-', mm.group(1)): m['bt_name'] += 1
     return m, lens
+
+
+def _thinker_letter(slug):
+    return slug[4:5].lower() if slug.startswith('thk-') else ''
+
+
+def pool_size(spec):
+    """عدد الملفات الفعلي في مسبح تاسكات معيّنة — نفس منطق _candidates في task.py."""
+    if spec['kind'] == 'thinkers':
+        lo, hi = spec['range']
+        base = os.path.join(AR, 'thinkers')
+        if not os.path.isdir(base):
+            return 0
+        return sum(1 for f in os.listdir(base)
+                   if f.endswith('.md') and lo <= _thinker_letter(f[:-3]) <= hi)
+    n = 0
+    for folder in spec['folders']:
+        base = os.path.join(AR, folder)
+        if os.path.isdir(base):
+            n += sum(1 for f in os.listdir(base) if f.endswith('.md'))
+    return n
+
+
+def global_progress(tracks):
+    """نسبة إنجاز حقيقية = مجموع الملفات المُنجَزة ÷ مجموع أحجام المسابح (Tasks 1-12 بس،
+    Tasks 13-17 مرحلة إنشاء بلا سقف ثابت فمستبعدة من المقام عمداً)."""
+    done_total = 0
+    pool_total = 0
+    for tr in ('spark', 'minimax'):
+        idx_done = {t['no']: t['sub'] for t in tracks[tr]['tasks']}
+        for spec in POOLS[tr]:
+            size = pool_size(spec)
+            pool_total += size
+            done_total += min(size, sum(
+                next((t['files'] for t in tracks[tr]['tasks'] if t['no'] == n), 0)
+                for n in spec['tasks']
+            ))
+    pct = round(100 * done_total / pool_total) if pool_total else 0
+    return {'done': done_total, 'total': pool_total, 'pct': pct}
+
+
+def creative_activity(tracks):
+    """عدّاد نشاط بس (مش نسبة) لتاسكات 13-17 — مفيش سقف ثابت لمحتوى جديد بيُخترع."""
+    out = {}
+    for tr in ('spark', 'minimax'):
+        subs = sum(t['sub'] for t in tracks[tr]['tasks'] if t['no'] >= 13)
+        files = sum(t['files'] for t in tracks[tr]['tasks'] if t['no'] >= 13)
+        out[tr] = {'subs': subs, 'files': files}
+    return out
 
 
 def read_index(track):
@@ -171,11 +246,13 @@ def main():
             'files':m.get('files',0),'base_files':BASE['files'],
             'git':{'h':gh,'d':gd,'s':gs,'dirty':dirty},
             'metrics':rows,'tracks':tracks,'median':med,
-            'phase0':[{'no':n,'t':t} for n,t in PHASE0],'p0':p0done}
+            'phase0':[{'no':n,'t':t} for n,t in PHASE0],'p0':p0done,
+            'global':global_progress(tracks),'creative':creative_activity(tracks)}
 
     open(OUT,'w',encoding='utf-8').write(TPL.replace('__DATA__', json.dumps(data, ensure_ascii=False)))
     print(f"✅ {OUT}")
     print(f"   ملفات: {m.get('files',0)} | Spark: {tracks['spark']['subs']} sub-task | MiniMax: {tracks['minimax']['subs']} sub-task")
+    print(f"   التقدّم الكلي (Tasks 1-12): {data['global']['done']}/{data['global']['total']} ({data['global']['pct']}%)")
 
 
 TPL = r'''<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8">
@@ -222,11 +299,21 @@ h2{font-size:15px;font-weight:700;margin:26px 0 12px;color:var(--dim)}
 .p0 span.on{background:var(--ok);color:#fff}
 .rec{font-size:12px;color:var(--dim);padding:5px 0;border-bottom:1px solid var(--line)}
 .rec:last-child{border:0}
+.gp{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:18px}
+.gp .row{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:10px}
+.gp .pct{font-size:30px;font-weight:800}
+.gp .cap{font-size:12.5px;color:var(--dim)}
+.gp .track{width:100%;height:14px;background:var(--bar);border-radius:8px;overflow:hidden}
+.gp .track i{display:block;height:100%;border-radius:8px;
+  background:linear-gradient(90deg,var(--accent),var(--accent2))}
+.gp .note{font-size:11px;color:var(--dim);margin-top:8px}
+.gp .creative{display:flex;gap:16px;margin-top:10px;font-size:11.5px;color:var(--dim)}
 .foot{margin-top:28px;color:var(--dim);font-size:11.5px;text-align:center;line-height:1.9}
 code{background:var(--bar);padding:2px 7px;border-radius:5px;font-size:11px;font-family:ui-monospace,monospace;direction:ltr;display:inline-block}
 </style></head><body><div class="wrap">
 <h1>أطلس النفس البشرية</h1>
 <div class="sub" id="sub"></div>
+<div class="gp" id="gp"></div>
 <div class="grid g4" id="kpis"></div>
 <h2>المرحلة 0 — البنية التحتية والتنظيف الميكانيكي</h2>
 <div class="card"><div class="p0" id="p0"></div></div>
@@ -242,6 +329,21 @@ const el = (h)=>{const d=document.createElement('div');d.innerHTML=h;return d.fi
 
 document.getElementById('sub').textContent =
   `آخر تحديث ${D.gen} · لقطة ${D.git.h} (${D.git.d})` + (D.git.dirty? ` · ${D.git.dirty} تغيير غير محفوظ` : ' · المستودع محفوظ');
+
+const G=document.getElementById('gp');
+const cr = D.creative;
+G.innerHTML = `
+  <div class="row"><div><span class="pct">${D.global.pct}%</span>
+    <span class="cap"> — ${D.global.done.toLocaleString('en')} من ${D.global.total.toLocaleString('en')} ملف</span></div>
+    <span class="cap">التقدّم الكلي — Tasks 1-12 (كل الملفات الموجودة)</span></div>
+  <div class="track"><i style="width:${D.global.pct}%"></i></div>
+  <div class="note">النسبة محسوبة على أساس «مسابح» الملفات المشتركة بين التاسكات (زي منطق task.py نفسه) —
+    مش عدّ تاسكات مكتملة شكلياً. Tasks 13-17 (مرحلة الإنشاء) مستبعدة من النسبة عمداً لأنها محتوى
+    جديد بلا سقف ثابت.</div>
+  <div class="creative">
+    <span>🆕 Spark (إنشاء 13-17): ${cr.spark.subs} دفعة · ${cr.spark.files} ملف جديد</span>
+    <span>🆕 MiniMax (إنشاء 13-17): ${cr.minimax.subs} دفعة · ${cr.minimax.files} ملف جديد</span>
+  </div>`;
 
 const sp=D.tracks.spark, mm=D.tracks.minimax;
 const kp=[

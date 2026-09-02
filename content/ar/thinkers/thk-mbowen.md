@@ -16,10 +16,10 @@ register: "clinical"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "developed", target: "العلاج الأسري بالأنساق (Bowen Family Systems)", target_type: "تيار"
+- rel: "developed", target: "br-bowen-systems", target_type: "تيار"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
-- id: "br-bowen-systems", title: "العلاج الأسري بالأنساق (Bowen)", type: "تيار"
+- id: "br-bowen-systems", title: "العلاج الأسري بالأنساق (Bowen Family Systems)", type: "تيار"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 - id: "thk-cwhitaker", title: "كارل ويتاكر", type: "مفكر"
@@ -32,7 +32,7 @@ related:
 - id: "con-multigenerational-transmission", title: "النقل متعدد الأجيال", type: "مفهوم"
 - id: "thk-efriedman", title: "إدوين فريدمان", type: "مفكر"
 - id: "thk-pguerin", title: "فيليب غيرين", type: "مفكر"
-- id: "thk-tfogarty", title: "توماس فوغارتي", type: "مفكر"
+- id: "thk-tfogarty", title: "توماس ف. فوغارتي", type: "مفكر"
 - id: "evt-aamft-founding-1942", title: "تأسيس الجمعية الأمريكية للعلاج الزواجي والأسري وتأطير العلاج الأسري", type: "حدث تاريخي"
 - id: "rel-daoism-systemic", title: "الطاوية الفلسفية والعلاج الأسري/النظامي: من وُو-وِي إلى الدائرية", type: "علاقة بين مدرستين"
 - id: "rel-systemic-behavioral", title: "النظامية الأسرية والسلوكية: تكامل صامت", type: "علاقة بين مدرستين"
@@ -46,6 +46,7 @@ gaps:
   - "توثيق 'مشروع بوين للبحث' (Bowen Research Project) في NIMH خلال 1950s-60s متاح جزئياً، تفاصيل التأثير على نظرية الأنساق غير مكتملة."
   - "استخدام نموذج بوين في دراسات التوائم والتبني (لاختبار نسبة التوريث مقابل البيئة) موثّق بأبحاث محدودة، يحتاج توثيقاً موسّعاً."
   - "موقف بوين من المساواة بين الجنسين (مقابل النموذج الذكوري 'القديم') موثّق جزئياً، يحتاج توضيحاً في علاقته بنظرية التمايز."
+  - "الاقتباسان المنسوبان لبوين في مسودة سابقة من هذا الملف حُذفا لعدم توفر مصدر ونص أصلي (كتاب وصفحة) لهما."
 ---
 
 # موراي بوين
@@ -85,11 +86,11 @@ gaps:
 - **العلاج الأسري: الثمانين نظرة (85 Articles on Family Therapy, الثمانينيات من القرن العشرين)** — مقالات مجمّعة.
 - **تطبيق نظرية الأنساق على التوائم (المشروع)**: مشروع بحثي في NIMH الخمسينيات من القرن العشرين-60s لاحظ تفاعل التوائم المُربّين منفصلين vs معاً.
 
-## اقتباسات مختارة
+## المصادر
 
-«إذا كان أحد أفراد الأسرة يتقدم، يتفاعل معه كل أعضاء الأسرة الآخرين. الفرد الذي يسعى للتمايز يحتاج إلى تحديد مبدأه الخاص، وقبول مبدأ الآخر، وليس إصلاح الآخر.»
-
-«العلاج الأسري ليس عن حل المشكلات. هو عن تمايز الفرد بحيث يصبح أقل تفاعلاً مع العملية العاطفية للأسرة وأكثر قدرة على تقرير مساره.»
+- Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
+- Kerr, M. E., & Bowen, M. (1988). *Family Evaluation: An Approach Based on Bowen Theory*. Norton.
+- Friedman, E. H. (1985). *Generation to Generation: Family Process in Church and Synagogue*. Guilford Press.
 
 ---
 

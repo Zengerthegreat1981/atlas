@@ -12,12 +12,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensory-integration", target_type: "مدرسة"
 related:
-- id: "thk-lhatch", title: "ليندا هاتش", type: "مفكر"
+- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "br-sensory-integration", title: "التكامل الحسي", type: "تيار"
 - id: "con-id-psychotherapy", title: "العلاج النفسي للإعاقات الذهنية", type: "مفهوم"
-- id: "thk-eblanche", title: "إرنا بلانش", type: "مفكر"
 gaps:
-  - "التفاصيل التفصيلية لأعمال جان عيرز لم تُراجع بشكل منفصل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التفاصيل التفصيلية لأعمال جان أيرز (مثل مقالاتها المؤسسة في الستينيات والسبعينيات) لم تُراجع بشكل منفصل."
+  - "لا توجد نسخة موثقة بمصدر وسنة من اقتباس مباشر لجين أيرز يمكن إدراجها هنا."
 ---
 
 # التكامل الحسي (نظرية عيرز)
@@ -41,8 +41,9 @@ gaps:
 
 ## موقعه
 
-يقع في قلب "العلاج المهني" (Occupational Therapy) و"الاضطرابات النمائية"، مع تقاطع مع "علاج التوحد" و"صعوبات التعلم".
+يقع في قلب "العلاج المهني" (Occupational Therapy) و"الاضطرابات النمائية"، مع تقاطع مع "علاج التوحد" و"صعوبات التعلم" (`br-sensory-integration`)، وترتبط نظرياً بمقاربات العلاج النفسي للإعاقات الذهنية (`con-id-psychotherapy`) من حيث اعتمادها على المعالج (جين أيرز `thk-jayres`) لا على اللغة كوسيط علاجي رئيسي.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Ayres, A. J. (1972). *Sensory Integration and Learning Disorders*. Western Psychological Services.
+- Ayres, A. J. (1979). *Sensory Integration and the Child*. Western Psychological Services.

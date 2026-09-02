@@ -12,6 +12,7 @@ country: "إمبراطورية مغول الهند"
 language: "الفارسية (مع العربية والأوردو)"
 active_start: 1580
 active_end: 1750
+cultural_origin: "indian"
 edges:
 - rel: "belongs_to", target: "br-irfan-shuhudi-sirhindi", target_type: "مظلة"
 related:
@@ -20,12 +21,9 @@ related:
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 - id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"
 - id: "thk-sadr-al-din-al-qunawi", title: "صدر الدين محمد بن إسحاق القونوي", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
-- id: "con-nature-deficit", title: "متلازمة عجز الطبيعة", type: "مفهوم"
-- id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
 gaps:
   - "الفرق بين الأكبرية والصديقية في إطار «وحدة الشهود» (هل هما مدرستان منفصلتان أم تيار واحد) يحتاج بحثاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «أسرار الذات الإلهية» للشيخ أحمد السرهندي."
+  - "اقتباسات «أسرار الذات الإلهية» للشيخ أحمد السرهندي تحتاج تحققاً ومراجعة من المصدر الأولي قبل الاستشهاد المباشر بها."
 ---
 
 # المدرسة الأكبرية
@@ -76,3 +74,9 @@ gaps:
 - أثّرت في الحركات البهائية (بهاء الله تأثّر بالأكبرية) والقاديانية.
 - أثّرت في المقاربات الحداثية للإسلام (إقبال).
 - أثّرت في مفهوم «الهندية الإسلامية» (Ganga-Jamuni tehzeeb).
+
+## المصادر
+
+- S. A. A. Rizvi, *Religious and Intellectual History of the Muslims in Akbar's Reign, with Special Reference to Abu'l Fazl (1556-1605)* (New Delhi: Munshiram Manoharlal, 1975).
+- Yohanan Friedmann, *Shaykh Ahmad Sirhindī: An Outline of His Thought and a Study of His Image in the Eyes of Posterity* (Montreal: McGill-Queen's University Press, 1971).
+- Annemarie Schimmel, *Islam in the Indian Subcontinent* (Leiden: E. J. Brill, 1980).

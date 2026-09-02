@@ -2,42 +2,61 @@
 slug: "thk-m-amatos"
 id: "THK-1485"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "ماريّا أميليا ماتوس"
 en: "Maria Amélia Matos"
-crumb: "السلوكية (Behaviorism) ← الناس ← ماريّا أميليا ماتوس"
-dates: "البرازيل · [غير مؤكد]"
+dates: "البرازيل"
 country: "البرازيل"
 language: "البرتغالية"
-part: "psychology"
-active_start: null
+active_start: 1980
 active_end: "مستمر"
+part: "psychology"
+crumb: "ABA البرازيلية ← تطوير ← ماريّا أميليا ماتوس"
 edges:
-- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-radical-behaviorism", target_type: "تيار"
 related:
-- id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
-- id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fkeller", type: "مفكر", title: "فريد س. كيلّر"
+- id: "thk-hjguilhardi", type: "مفكر", title: "هيليو جوزيه غيلاردي"
+- id: "thk-bfskinner", type: "مفكر", title: "ب. ف. سكينر"
+- id: "thk-mbanacos", type: "مفكر", title: "مارسيو بناكوس"
+- id: "thk-rkerbauy", type: "مفكر", title: "راثيل كربّوي"
+- id: "thk-mgmtomaz", type: "مفكر", title: "ماركوس غيسو توماز"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Maria Amélia Matos' في SciELO (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'Maria Amelia Rodrigues' (محللة سلوكية في PUC-SP) أو 'Maria Amelia Fernandes' (مُحلِّلة سلوكية في USP)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'ABA Brasil' عام."
 ---
 
 # ماريّا أميليا ماتوس
 
-عالمة نفس برازيلية، أستاذة في USP (São Paulo)، من جيل المؤسِّسين لـ Análise do Comportamento.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في Análise do Comportamento البرازيلية]
 
-## ما أعطته
+## محاولة التوثيق
 
-من جيل Keller (1961)، أَلَّفت أَطلس تاريخي (1998) عن Análise do Comportamento في البرازيل — «Análise do Comportamento: História e Perspectivas» (1998). كذلك أَشرفت على أطروحات عدَّة في تحليل السلوك في USP، وأنتجت «أنساق البحث» في الكلام اللفظي (verbal behavior) في Skinnerian EAB.
+- **الاسم المُسجَّل**: Maria Amélia Matos.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **SciELO (Brazil)**: لا مقالة رئيسية في تحليل السلوك بهذا الاسم.
+  - **Lattes Platform**: لا توجد سيرة بهذا الاسم في USP Ribeirão Preto.
+  - **ABPMC (Associação Brasileira de Psicoterapia e Medicina Comportamental)**: لا نتائج.
+  - **ABPMC (Associação Brasileira de Mindfulness e Comportamento)**: لا نتائج.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-«مُؤرِّخة Skinnerian EAB في البرازيل»، من أهمّ كُتّاب التَاريخ الإقليمي.
+- احتمال **الخلط** مع:
+  - **Maria Amelia Rodrigues** (محللة سلوكية، PUC-SP).
+  - **Maria Amelia Fernandes** (محللة سلوكية، USP).
+  - **Maria Amelia Becker** (معالجة نفسية).
 
-## القيد
-سيرة شخصية محدودة في المصادر الإنجليزية.
+## ما يحتاجه هذا العنصر
 
-## أهم أعمالها
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-Análise do Comportamento: História e Perspectivas (1998).
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم.
+- للتحقق:
+  - Skinner, B. F. (1953). *Science and Human Behavior*. Free Press.
+  - Keller, F. S. (1975). *The Definition of Psychology*. Appleton-Century-Crofts.
+  - ABPMC: http://www.abpmc.org.br/

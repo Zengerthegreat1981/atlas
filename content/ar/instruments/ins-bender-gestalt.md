@@ -9,6 +9,11 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← اختب
 active_start: 1938
 active_end: "مستمر"
 part: "psychology"
+items_count: 16
+target_population: "أطفال وبالغون في الفحص العصبي النفسي والنمائي (الاستخدام الأوسع مع الأطفال من عمر 4 سنوات فأكثر)"
+reliability: "ثبات بين المقيّمين مرتفع (>0.90) في نظام التصحيح الكمي، خصوصاً نظام كوبيتز عند الأطفال"
+validity_note: "صدق تلازمي مقبول مع اختبارات النضج البصري الحركي الأخرى؛ صدق تشخيصي محدود كأداة منفردة للكشف عن التلف العصبي"
+evidence_level: "probably-efficacious"
 related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:

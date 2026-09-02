@@ -12,17 +12,18 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "طريقة غوتمان الزوجية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "thk-jgottman-sr", title: "جوليا غوتمان", type: "مفكر"
+- id: "thk-jgottman-sr", title: "جولي شوارتز غوتمان", type: "مفكر"
 - id: "thk-rlevenson", title: "روبرت ليفنسون", type: "مفكر"
 - id: "thk-sstanley", title: "سكوت ستانلي", type: "مفكر"
 - id: "wrk-seven-principles-marriage", title: "المبادئ السبعة لنجاح الزواج", type: "عمل / كتاب"
 gaps:
+  - "edges أُفرغت: target السابق \"طريقة غوتمان الزوجية\" نص حرّ لا يقابله slug معتمد في content/ar/schools أو content/ar/branches."
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تصحيح عنوان الرابط: id thk-jgottman-sr يخصّ فعلياً جولي شوارتز غوتمان (زوجته) لا 'جوليا غوتمان' كما كان مكتوباً."
 ---
 
 # جون غوتمان

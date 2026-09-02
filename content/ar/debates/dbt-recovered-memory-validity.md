@@ -13,11 +13,10 @@ edges:
 - rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "مدرسة"
 related:
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
-- id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"
 - id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
 gaps:
-  - "قائمة المستبعدين الكاملة لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "عدد القضايا القانونية الفعلي المرفوع بدعوى الذاكرة المُستعادة في الولايات المتحدة خلال 1990–1995 غير موثَّق برقم دقيق في هذا الملف."
 ---
 
 # جدل الذاكرة المُستعادة: حقيقية أم زائفة؟

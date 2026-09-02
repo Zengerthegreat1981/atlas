@@ -9,6 +9,7 @@ en: "Afrocentrism"
 crumb: "الفلسفة ← الأفريقية ← أفريقية المركز"
 dates: "أمريكا، الكاريبي، أفريقيا · من 1980s إلى اليوم"
 country: "الولايات المتحدة، الكاريبي"
+cultural_origin: "african"
 language: "الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
@@ -17,10 +18,9 @@ edges:
 related:
 - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
 - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
-- id: "sch-afrofeminism", title: "النسوية الأفريقية", type: "مدرسة"
+- id: "sch-afrofeminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"
 - id: "thk-asante", title: "موليفي أسانتي", type: "مفكر"
 - id: "thk-cheikh-anta-diop", title: "شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم)", type: "مفكر"
-- id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
 - id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
 - id: "con-sage-philosophy-methodology", title: "منهجية فلسفة الحكيم لأوروكا (Sage Philosophy)", type: "مفهوم"
 gaps:
@@ -58,3 +58,10 @@ gaps:
 
 - تواجه انتقادات من قبل المؤرخين (تبسيط الأدلة الأثرية).
 - تواجه انتقيدات من قبل السوداء أنفسهم (Asante أبعد Black Studies عن التيار العام).
+
+## المصادر
+
+- Molefi Kete Asante, *Afrocentricity: The Theory of Social Change* (Africa World Press, 1988; ed. أولى 1980).
+- Cheikh Anta Diop, *The African Origin of Civilization: Myth or Reality* (Lawrence Hill Books, 1974).
+- Stephen Howe, *Afrocentrism: Mythical Pasts and Imagined Homes* (Verso, 1998).
+- Mary Lefkowitz, *Not Out of Africa: How Afrocentrism Became an Excuse to Teach Myth as History* (Basic Books, 1996).

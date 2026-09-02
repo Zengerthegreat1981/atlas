@@ -9,10 +9,14 @@ en: "Deliverance from Error (Al-Munqidh min al-Dalal) by Al-Ghazali"
 crumb: "الفلسفة والتصوف الإسلامي ← أمهات الأعمال ← المنقذ من الضلال"
 active_start: null
 active_end: "مستمر"
+author: "أبو حامد الغزالي"
+author_slug: "thk-al-ghazali"
+publication_year: 1108
+original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

@@ -2,42 +2,45 @@
 slug: "thk-rkerbauy"
 id: "THK-1818"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "راثيل كربّوي"
 en: "Rachel Rodrigues Kerbauy"
-crumb: "السلوكية (Behaviorism) ← الناس ← راثيل كربّوي"
-dates: "البرازيل · [غير مؤكد]"
-country: "البرازيل"
-language: "البرتغالية"
 part: "psychology"
-active_start: null
-active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
-related:
-- id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
-- id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "**حُجر 2026-08-27:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة — الملف نفسه اعترف بعدم العثور على سيرة مستقلة موثّقة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rkerbauy.md.archived.2026-08-27"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # راثيل كربّوي
 
-عالمة نفس برازيلية، أستاذة في USP Ribeirão Preto، من جيل المؤسِّسين لـ ABA في أمريكا اللاتينية.
+(Rachel Rodrigues Kerbauy)
 
-## ما أعطته
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rkerbauy.md.archived.2026-08-27`
 
-من جيل Keller، أَسَّسَت أبحاثاً في ABA في Ribeirão Preto. ركَّزت على تطبيق Skinnerian EAB على الفئات السريرية (اضطرابات التعلُّم، الذهان، التوحُّد). كذلك أَشرفت على تدريب محللِّي السلوك في USP.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## موقعها من التيار
+## ملخص
 
-«النصف السريري» لـ Análise do Comportamento في البرازيل.
+هذا المفكر ورد في دفعة تدقيق قرائي T3 لـMiniMax، والملف نفسه — قبل الحجر — كان
+نصاً يعترف صراحةً بعدم العثور على سيرة أكاديمية مستقلة موثّقة لهذا الاسم في
+قواعد البيانات الأكاديمية ذات الصلة (حتى آب 2026)، رغم اقتراح عدة احتمالات لبس
+مع أشخاص آخرين. طبقاً للقاعدة 11 في MINIMAX.md، الشك المعترف به في المتن يحسم
+القرار: حجر، لا نشر سيرة واثقة الشكل.
 
-## القيد
-سيرة شخصية محدودة في المصادر الإنجليزية.
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة
+بشكل مستقل، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-## أهم أعمالها
+## للمتابعة
 
-مقالات في «Psicologia: Teoria e Pesquisa» (USP).
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rkerbauy.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rkerbauy.md.archived.2026-08-27`
+- طلبات البحث: `agents_specs/requests-minimax.md`

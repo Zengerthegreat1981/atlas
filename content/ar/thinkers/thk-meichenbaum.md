@@ -24,7 +24,7 @@ related:
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل علاقته مع فيتوريو دي لورينزو في تطوير العلاج المهيكّل للناجين من الصدمة تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
 ---
 # دونالد ميشينباوم
 
@@ -44,3 +44,8 @@ gaps:
 - تدريب التلقيح ضد الضغط: نهج علاجي (Stress Inoculation Training, 1985).
 - طرق الوقاية من الاضطرابات السلوكية عند الأطفال (Preventing Maladjustment in Children, 1971).
 - طرق في التفكير العلاجي (Methods of Self-Change, 1977).
+
+## المصادر
+
+- Meichenbaum, D. *Cognitive-Behavior Modification: An Integrative Approach* (1977).
+- Meichenbaum, D. *Stress Inoculation Training* (1985).

@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← المدرسة المي
 dates: "حوض إيجه · من القرن 6 ق.م إلى نحو 450 ق.م"
 country: "يونان (مدينة miletus على الساحل الأناضولي)"
 language: "اليونانية الأيونية"
+cultural_origin: "greek"
 active_start: -624
 active_end: -450
 edges:
-- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-atomism-greek", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-eleatic", target_type: "مدرسة"
 related:
@@ -57,3 +57,10 @@ gaps:
 - لم تصلنا نصوصهم مباشرة؛ ما نعرفه وصلنا عبر أرسطو، ثيوفراستوس (تاريخ الفلسفة)، بلوتارخ، وديوجانس اللايرتي. لذا يصعب التمييز بين «ما قالوه فعلاً» و«ما أُريد قراءته فيهم لاحقاً».
 - ثاليس وأنكسيماندر وأنكسيمينيس لم يقدّموا نظرية معرفية متماسكة كما نعرفها في أفلاطون أو أرسطو — محاولاتهم أقرب إلى «حدوس كونية» مسهبة في قصائد قصيرة.
 - وصفهم بـ«الفلاسفة الطبيعيين» مشروع: لكن تمييز «ما قبل سقراط» عن «اللاهوت الطبيعي» الشرقي ليس دائماً حاداً كما يبدو.
+
+## المصادر
+
+- Kirk, G. S., Raven, J. E., and Schofield, M. *The Presocratic Philosophers*. 2nd ed. Cambridge University Press, 1983.
+- Barnes, Jonathan. *The Presocratic Philosophers*. Routledge, 1982.
+- Graham, Daniel W. *Explaining the Cosmos: The Ionian Tradition of Scientific Philosophy*. Princeton University Press, 2006.
+- Aristotle. *Metaphysics*, Book Alpha (Α), 983b–984a.

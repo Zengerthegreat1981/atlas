@@ -10,15 +10,18 @@ crumb: "فلسفة العقل والطب النفسي ← المفاهيم ال�
 active_start: 1641
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "فلسفة العقل", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
-- id: "axm-mind-body-problem", title: "بديهية مشكلة العقل والجسد", type: "بديهية/مبدأ تأسيسي"
+- id: "axm-mind-body-problem", title: "إشكالية العقل والجسم", type: "بديهية/مبدأ تأسيسي"
 - id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
-- id: "thk-merleau-ponty", title: "موريس ميرلو-بونتي", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
+- id: "thk-david-chalmers", title: "ديفيد تشالمرز", type: "مفكر"
 - id: "wrk-cured-rediger", title: "شفاء: تقوية جهاز المناعة وعلاج حياتك", type: "عمل / كتاب"
 - id: "con-emergence", title: "النشوء (Emergence): خصائص لا تُختزل في أجزائها", type: "مفهوم"
+- id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي والكواليا (The Hard Problem of Consciousness)", type: "مفهوم"
+- id: "dbt-mind-body-dualism-vs-physicalism", title: "جدل مشكلة العقل والجسد: الثنائية مقابل الفيزيائية والمادية", type: "جدل"
 gaps:
   - "الجدل المعاصر حول 'المشكلة الصعبة للوعي' (The Hard Problem of Consciousness) لديفيد تشالمرز يحتاج ربطاً بالعلوم العصبية."
   - "التطبيقات العيادية في علم النفس الجسدي (Somatic Psychology) ونظرية التجسيد تتطلب مراجعة إكلينيكية أوسع."
@@ -43,3 +46,7 @@ gaps:
 ## الفارق عن المفاهيم المجاورة
 
 تختلف مشكلة العقل والجسد عن **مشكلة الوعي الذاتي**؛ فالأولى تبحث في كيفية تفاعل اللامادي مع المادي أو كيفية توليد المادة للتجربة، بينما تبحث مسألة الوعي في الكيفية النوعية للشعور الذاتي ('الكواليا' Qualia).
+
+## الروابط والسياق
+
+تستند المسألة إلى **بديهيتها التأسيسية** (axm-mind-body-problem) وتندرج ضمن مظلة **فلسفة العقل التحليلية** (sch-phil-mind-analytic). صاغ **رينيه ديكارت** (thk-descartes) صياغتها الحديثة الثنائية، بينما طرح **باروخ سبينوزا** (thk-spinoza) البديل الأحادي المتوازي، وقدّم **موريس مرلو-بونتي** (thk-merleau-ponty) مقاربة التجسيد الفينومينولوجية. طوّر **ديفيد تشالمرز** (thk-david-chalmers) صياغة معاصرة حاسمة عبر تمييزه بين المشكلة السهلة والمشكلة الصعبة للوعي (con-hard-problem-of-consciousness). يرتبط المفهوم بكتاب **شفاء** (wrk-cured-rediger) بوصفه تطبيقاً معاصراً لأثر الحالة العقلية على المناعة الجسدية، وبمفهوم **النشوء** (con-emergence) بوصفه إطاراً بديلاً لتفسير علاقة الوعي بالمادة دون اختزال. ويتقاطع مع **جدل الثنائية مقابل الفيزيائية والمادية** (dbt-mind-body-dualism-vs-physicalism) الذي يلخص المواقف الفلسفية المتنافسة حول المسألة.

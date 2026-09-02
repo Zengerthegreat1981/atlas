@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← المدرسة القو
 dates: "قورينا (شمال أفريقيا) · من نحو 410 ق.م إلى نحو 320 ق.م"
 country: "مستعمرة يونانية في ليبيا الحالية (قورينا / Cyrene)"
 language: "اليونانية"
+cultural_origin: "greek"
 active_start: -410
 active_end: -320
 edges:
-- rel: "belongs_to", target: "تقاليد سقراطية-متفرعة", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-epicureanism", target_type: "مدرسة"
 related:
 - id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
@@ -83,3 +83,11 @@ gaps:
 - مصادرنا الأساسية هي ديوجانس اللايرتي (القرن 3 م)، شيشرون، شيشرون، شيشرون. كلّها متأخرة، وكثير منها ينقل أخباراً ساخرة عن «حياة المترفين».
 - الانقسام الداخلي («القورينائيون» vs «المتشائمون» vs «ثيودوروس») يجعل التيار الموحّد مجرّد تجميع.
 - القورينائية تشبه الأبيقورية في الشكل، لكن روحها أقرب للسفسطائية (فردية، بلاغية، لذّية).
+
+## المصادر
+
+- Diogenes Laërtius. *Lives of Eminent Philosophers*, Book II (Aristippus).
+- Cicero. *De Finibus Bonorum et Malorum* [حول أسمى الخير والشر].
+- Zilioli, U. (2012). *The Cyrenaics*. Routledge.
+- Tsouna, V. (1998). *The Epistemology of the Cyrenaic School*. Cambridge University Press.
+- O'Keefe, T. (2002). "The Cyrenaics on Pleasure, Happiness, and Future-Concern." *Phronesis*, 47(4), 395-416.

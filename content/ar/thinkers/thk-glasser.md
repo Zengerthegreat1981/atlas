@@ -14,14 +14,10 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed", target: "علاج الواقع", target_type: "تيار"
+- rel: "developed", target: "br-glasser-reality-therapy", target_type: "تيار"
 related:
 - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
 - id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
-- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
-- id: "thk-dabrowski", title: "كازيمير دابروفسكي", type: "مفكر"
-- id: "thk-farrelly", title: "فرانك فاريلي", type: "مفكر"
-- id: "thk-lieberman", title: "ألسي ليبرمان (باتريسيا)", type: "مفكر"
 - id: "con-quality-world", title: "العالم النوعي (Quality World)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

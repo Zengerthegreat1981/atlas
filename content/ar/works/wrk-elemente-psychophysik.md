@@ -8,18 +8,20 @@ en: "Elemente der Psychophysik"
 crumb: "علم النفس التجريبي المبكر ← الأعمال ← عناصر السيكوفيزياء"
 dates: "1860 · غوستاف فيخنر"
 active_start: 1860
-active_end: 1860
+active_end: 1910
 language: "الألمانية"
+author: "غوستاف فيخنر"
+author_slug: "thk-fechner"
+publication_year: 1860
+original_language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-fechner", target_type: "مفكر"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 gaps:
   - "لم يُراجع من الطبعة الأولى الألمانية مباشرة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Fechner في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # عناصر السيكوفيزياء

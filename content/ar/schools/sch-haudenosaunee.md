@@ -10,11 +10,10 @@ crumb: "الفلسفة ← أفريقيا وأمريكا الأصلية ← فل
 dates: "شمال شرق أمريكا · من القرن 12 إلى اليوم"
 country: "الولايات المتحدة، كندا (نيويورك، أونتاريو)"
 language: "الإيروكوية (الموهوك، أونيدا، أونونداغا، سينيكا، كايوغا)"
+cultural_origin: "indigenous"
 active_start: 1100
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
 - id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
 - id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
@@ -55,3 +54,10 @@ gaps:
 
 - تقليد شفهي، وثائق متأخرة.
 - صعوبة الترجمة الدقيقة للمصطلحات الإيروكوية.
+
+## المصادر
+
+- William N. Fenton, *The Great Law and the Longhouse: A Political History of the Iroquois Confederacy* (1998).
+- Bruce E. Johansen, *Forgotten Founders: How the American Indian Helped Shape Democracy* (1982).
+- Barbara Alice Mann, *Iroquoian Women: The Gantowisas* (2000).
+- John Mohawk, *Utopian Legacies: A History of Conquest and Oppression in the Western World* (2000).

@@ -15,16 +15,15 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-sartre", title: "سارتر", type: "مفكر"
+- id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "thk-berdyaev", title: "نيكولاي بيردييف", type: "مفكر"
 - id: "thk-madinier", title: "غابرييل مادينييه", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "thk-mounier", title: "إيمانويل مونييه", type: "مفكر"
 gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "ترجمات أعماله إلى العربية (إن وُجدت) لم تُحصر هنا."
   - "دُمج معه الملف المكرَّر thk-gabriel-marcel (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -63,3 +62,7 @@ gaps:
 ## اقتباسات مختارة
 
 «الحياة ليست مشكلة يجب حلّها، بل سرّ يُعاش.» — الكينونة والامتلاك، 1935<br>«الأمل هو ذاكرة المستقبل.» — الإنسان المسافر، 1945
+
+## المصادر
+- Marcel, G. (1935). *Être et Avoir*. Aubier.
+- Marcel, G. (1945). *Homo Viator: Prolégomènes à une métaphysique de l'espérance*. Aubier.

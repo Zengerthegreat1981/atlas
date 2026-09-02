@@ -11,6 +11,10 @@ dates: "1975 (إعادة 1990) · بيتر سينغر"
 language: "الإنجليزية"
 active_start: 1975
 active_end: 1990
+author: "بيتر سينغر"
+author_slug: "thk-peter-singer"
+publication_year: 1975
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-animal-liberation", target_type: "مدرسة"
 related:

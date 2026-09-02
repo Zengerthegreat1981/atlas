@@ -12,18 +12,14 @@ active_start: 1887
 active_end: 1916
 country: "الولايات المتحدة (مهاجر من ألمانيا)"
 language: "الألمانية، الإنجليزية"
-edges:
-- rel: "belongs_to", target: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
-- id: "thk-bachelard", title: "غاستون باشلار", type: "مفكر"
-- id: "thk-cassirer", title: "إرنست كاسيرر", type: "مفكر"
-- id: "thk-pepper", title: "ستيفن كول بِبِر", type: "مفكر"
 gaps:
   - "تفاصيل تأثيره المباشر على إدوارد ثورندايك تحتاج مصادر إضافية."
-  - "موقفه من الإبادة الثقافية الألمانية (خلال الحرب العالمية الأولى) جدلي."
+  - "لا يوجد ملف مدرسة (sch-) معتمد لعلم النفس التطبيقي المبكر (فروعه القانوني والصناعي والتعليمي)؛ رابط belongs_to السابق كان نصاً حراً بدل slug فحُذف — سُجّل في missing-schools.md."
+  - "تفاصيل موقفه السياسي المؤيد لألمانيا خلال الحرب العالمية الأولى والاتهامات التي واجهها في هارفارد تحتاج مصدراً أولياً موثّقاً في هذه المسودة."
 ---
 
 # هوغو مونستربرغ
@@ -72,4 +68,10 @@ gaps:
 - يُعدّ مونستربرغ المؤسس الفعلي لعلم النفس التنظيمي.
 - أثّر في إدوارد ثورندايك وفي مدرسة جون واطسون السلوكية المبكرة.
 - اقتبس منه والتر ديل سكوت في تطوير علم النفس الإعلاني.
-- ألهم سلسة تجارب في علم النفس القانوني لا تزال موضع نقاش (تجربة لويد وتيت عام 1984 عن دقة الشهود العرقية).
+- أثّر في تأسيس تقاليد بحثية في علم النفس القانوني والصناعي واصلت التطور بعد وفاته على يد باحثين آخرين.
+
+## المصادر
+
+- Münsterberg, Hugo. *On the Witness Stand: Essays on Psychology and Crime*. Doubleday, Page & Co., 1908.
+- Münsterberg, Hugo. *Psychology and Industrial Efficiency*. Houghton Mifflin, 1913.
+- Hale, Matthew Jr. *Human Science and Social Order: Hugo Münsterberg and the Origins of Applied Psychology*. Temple University Press, 1980.

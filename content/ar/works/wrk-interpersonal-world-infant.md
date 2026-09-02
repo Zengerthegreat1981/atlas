@@ -8,12 +8,15 @@ en: "The Interpersonal World of the Infant"
 crumb: "التحليل النفسي النمائي/التطوري ← الأعمال ← العالم بين-شخصي للرضيع"
 dates: "1985 · دانيال ستيرن"
 language: "الإنجليزية"
+author: "دانيال ستيرن"
+author_slug: "thk-daniel-stern"
+publication_year: 1985
+original_language: "الإنجليزية"
 active_start: 1985
 active_end: 1985
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
-- rel: "authored_by", target: "دانيال ستيرن", target_type: "مفكر"
+- rel: "authored_by", target: "thk-daniel-stern", target_type: "مفكر"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:

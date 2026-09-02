@@ -12,12 +12,13 @@ country: "متعددة (المملكة المتحدة، الولايات الم�
 language: "الإنجليزية"
 active_start: 1958
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-utilitarianism-contemporary", target_type: "مدرسة"
 related:
-- id: "thk-ganscombe", title: "جيرترود إليزابيث مارجريت أنسكومبي", type: "مفكر"
-- id: "thk-macintyre", title: "آلاسدير ماكنتاير", type: "مفكر"
+- id: "thk-ganscombe", title: "جيرترود إليونور ماري أنسكومب", type: "مفكر"
+- id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
 - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
 - id: "wrk-after-virtue", title: "بعد الفضيلة (After Virtue)", type: "عمل / كتاب"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
@@ -25,7 +26,7 @@ gaps:
   - "رابط مقترح لـ«فيليبا فوت» (thk-foot) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«روزاليند هورسثوس» (thk-hursthouse) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «أخلاقيات الفضيلة عند أنسكومبي» (1958) و«أخلاقيات الفضيلة عند هورسثوس» (1999) لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من ماكنتاير 'ما وراء الفضيلة' (After Virtue, 1981) في صياغته المنقحة."
+  - "اقتباس ماكنتاير من 'ما وراء الفضيلة' (After Virtue, 1981) في صياغته المنقحة يحتاج مراجعة من المصدر الأولي."
   - "علاقة أخلاقيات الفضيلة بأخلاقيات الرعاية (Care Ethics) لم تُراجع."
 ---
 
@@ -65,3 +66,11 @@ gaps:
 
 - يستحق التمييز بين «أخلاقيات الفضيلة» و«أخلاقيات الرعاية» (Care Ethics) فصلاً مستقلاً.
 - علاقة أخلاقيات الفضيلة بفلسفة التربية المعاصرة تستحق توسعاً موثّقاً.
+
+## المصادر
+
+- Anscombe, G. E. M. (1958). "Modern Moral Philosophy". *Philosophy*, 33(124).
+- MacIntyre, A. (1981). *After Virtue: A Study in Moral Theory*. University of Notre Dame Press.
+- Foot, P. (2001). *Natural Goodness*. Oxford University Press.
+- Hursthouse, R. (1999). *On Virtue Ethics*. Oxford University Press.
+- Nussbaum, M. (2006). *Frontiers of Justice: Disability, Nationality, Species Membership*. Harvard University Press.

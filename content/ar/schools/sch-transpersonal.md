@@ -9,29 +9,25 @@ en: "Transpersonal Psychology"
 crumb: "علم النفس ← علم النفس عبر الشخصي والروحاني"
 dates: "الولايات المتحدة، أوروبا، العالم · من 1969 إلى اليوم"
 country: "الولايات المتحدة (ميدلبيري، معهد إسبرينغ غروف)"
+cultural_origin: "anglo-american"
 language: "الإنجليزية، الألمانية"
 active_start: 1969
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-buddhist-psychology", target_type: "تيار"
-- rel: "evolved_from", target: "علم النفس التحليلي (يونغ)", target_type: "مدرسة"
-- rel: "evolved_from", target: "الأدفايتا فيدانتا", target_type: "مدرسة"
-- rel: "evolved_from", target: "الصوفية", target_type: "تيار"
-- rel: "evolved_from", target: "الأنثروبولوجيا الروحية (Eliade، Campbell)", target_type: "تيار"
+- rel: "evolved_from", target: "sch-advaita-vedanta", target_type: "مدرسة"
 - rel: "split_into", target: "tec-holotropic-breathwork", target_type: "تيار"
-- rel: "split_into", target: "علم النفس اليقظ (Mindfulness)", target_type: "تيار"
-- rel: "split_into", target: "علم النفس الشاماني", target_type: "تيار"
-- rel: "split_into", target: "العلاج النفساني بمساعدة (Psychedelic-Assisted)", target_type: "تيار"
+- rel: "split_into", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "thk-sutich", title: "أندرو سوتيتش", type: "مفكر"
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (تيار)", type: "تيار"
+- id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
+- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
 - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
 - id: "thk-rwalsh", title: "روجر والش", type: "مفكر"
 - id: "thk-rmwashburn", title: "مايكل واشبورن", type: "مفكر"
-- id: "thk-mgrof", title: "ستانيسلاف غروف (النسخة المعدلة)", type: "مفكر"
+- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "exp-anthony-de-mello-awareness-retreat", title: "ورشات أنتوني دي ميلو التأملية والاستيقاظ من نوم الغفلة", type: "خبرة معيشة"
 - id: "exp-chogyam-trungpa-crazy-wisdom", title: "رحلة شوجيام ترونغبا عبر الهيمالايا ونقل الفاجرايانا إلى الغرب", type: "خبرة معيشة"
 - id: "exp-eckhart-tolle-night-transformation", title: "الليلة التي انهار فيها إيكهارت تول في لندن وتلاشت أناه المكتئبة", type: "خبرة معيشة"
@@ -42,7 +38,7 @@ gaps:
   - "رابط مقترح لـ«ستانislav غروف» (thk-kgrof) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "العلاقة بين علم النفس عبر الشخصي وعلم النفس البوذي و'الموجة الثالثة' (ACT، DBT) ليست موحّدة في المراجع."
   - "نقد Wilber للنظريات النفسية الأخرى (Wilber-Combs lattice) موثّق جزئياً في كتبه لكن لم يُحلّل في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "روابط evolved_from/split_into لـ'علم النفس التحليلي (يونغ)'، 'الصوفية'، 'الأنثروبولوجيا الروحية'، 'علم النفس اليقظ'، 'علم النفس الشاماني' أُزيلت — لا يوجد لها ملف sch-/br- فعلي في الأطلس بعد، رغم ذكرها في المتن كسياق فكري ومراحل تاريخية."
 ---
 # علم النفس عبر الشخصي (Transpersonal Psychology)
 
@@ -132,7 +128,7 @@ gaps:
 - **إشكالية الشمولية**: ادعاء شمولية الطيف (Wilber) مُثيرة للجدل.
 - **التيار الرئيسي في علم النفس**: في APS وAPA لا يزال هامشياً.
 
-## المرجع الموصى
+## المصادر
 
 - Maslow, A. H. (1964). *Religions, Values, and Peak-Experiences*. Ohio State University Press.
 - Maslow, A. H. (1968). *Toward a Psychology of Being* (2nd ed.). Van Nostrand.

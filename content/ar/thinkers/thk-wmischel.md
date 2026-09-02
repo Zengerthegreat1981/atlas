@@ -20,8 +20,7 @@ related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
 - id: "thk-jrotter", title: "جوليان ب. روتّر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "نص الاقتباس المباشر من كتابات ميشيل نفسه لم يُراجع من نسخة أصلية بعد؛ الاعتماد الحالي على وصف نتائج تجربة المارشميلو وCAPS من مصادر ثانوية."
 ---
 
 # والتَر ميشيل
@@ -44,3 +43,9 @@ gaps:
 ## أهم أعماله
 
 «الشخصية والتقييم» (Personality and Assessment، 1968) · «مقدمة في الشخصية» (Introduction to Personality، 1971) · Marshmallow Test (السبعينيات من القرن العشرين) · CAPS (1995).
+
+## المصادر
+
+- Mischel, W. (1968). *Personality and Assessment*. Wiley.
+- Mischel, W., & Shoda, Y. (1995). "A cognitive-affective system theory of personality." *Psychological Review*, 102(2).
+- Mischel, W. (2014). *The Marshmallow Test: Mastering Self-Control*. Little, Brown.

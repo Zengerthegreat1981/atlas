@@ -13,7 +13,7 @@ active_start: 1973
 active_end: 2002
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج العدوان", target_type: "تيار"
+- rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
 related:
 - id: "br-aggression-treatment", title: "علاج العدوان", type: "تيار"
 - id: "thk-araine", title: "أدريان راين", type: "مفكر"

@@ -9,15 +9,12 @@ en: "Analytic Philosophy of Mathematics"
 crumb: "الفلسفة ← التحليلية ← فلسفة الرياضيات التحليلية"
 dates: "من 1879 إلى الآن"
 country: "متعددة (ألمانيا، المملكة المتحدة، الولايات المتحدة)"
+cultural_origin: "european"
 language: "متعددة (الألمانية، الإنجليزية)"
 active_start: 1879
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
-- rel: "split_into", target: "المنطقية", target_type: "تيار"
-- rel: "split_into", target: "الشكلية", target_type: "تيار"
-- rel: "split_into", target: "الحدسية", target_type: "تيار"
-- rel: "split_into", target: "البنائية", target_type: "تيار"
 related:
 - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
 - id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
@@ -28,7 +25,7 @@ gaps:
   - "رابط مقترح لـ«ديفيد هيلبرت» (thk-hilbert) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«لويزن براور» (thk-brouwer) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين 'الشكلية' و'الحدسية' في تفسير 'الوجود الرياضي' لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من غودل 'حول الإفادات غير القابلة للحسم في مبدأات' (1931) في الصياغة الأصلية."
+  - "النص الأصلي لبرهان غودل 'حول القضايا غير القابلة للحسم رسمياً' (1931) بالألمانية لم يُراجع مباشرة، والاعتماد على ترجمات ثانوية فقط."
   - "العلاقة بين 'فلسفة الرياضيات' و'المنطق الرياضي' كحقلين مستقلين لم تُراجع."
 ---
 
@@ -90,3 +87,11 @@ gaps:
 
 - يستحق التمييز بين «البنائية» (Bishop) و«الحدسية» (Brouwer) فصلاً مستقلاً.
 - علاقة فلسفة الرياضيات بـ«المنطق الرياضي» كحقل أكاديمي مستقل تستحق فصلاً مفصلاً.
+
+## المصادر
+
+- Frege, Gottlob. *Die Grundlagen der Arithmetik* [أسس الحساب]. Breslau: Wilhelm Koebner, 1884.
+- Whitehead, Alfred North, and Bertrand Russell. *Principia Mathematica*. Cambridge: Cambridge University Press, 1910–1913.
+- Hilbert, David. *Grundlagen der Geometrie* [أسس الهندسة]. Leipzig: B.G. Teubner, 1899.
+- Gödel, Kurt. "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 1931.
+- Benacerraf, Paul, and Hilary Putnam (eds.). *Philosophy of Mathematics: Selected Readings*. Cambridge: Cambridge University Press, 1983.

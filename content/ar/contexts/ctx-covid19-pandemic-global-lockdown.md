@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "dis-major-depressive", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

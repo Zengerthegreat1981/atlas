@@ -13,7 +13,7 @@ active_start: 1913
 active_end: 1967
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الجشطالتي (مدرسة برلين)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-gestalt-berlin", target_type: "تيار"
 related:
 - id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
 - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
@@ -21,7 +21,7 @@ related:
 - id: "stu-wertheimer-gestalt", title: "تجارب Wertheimer للإدراك الجشطلتي: حركة الفانتوم (1912)", type: "دراسة وبحث"
 gaps:
   - "تفاصيل الفترة في محطة Anthropoid (تينيريفي) لم تُراجع بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى كولر بمصدر وسنة."
 ---
 
 # فولفغانغ كولَر
@@ -44,6 +44,8 @@ gaps:
 - *Die physischen Gestalten in Ruhe und im stationären Zustand* (1920).
 - *Gestalt Psychology* (1929).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Köhler, Wolfgang. *The Mentality of Apes* (ترجمة إنجليزية لـ*Intelligenzprüfungen an Menschenaffen*, 1917). Harcourt, Brace, 1925.
+- Köhler, Wolfgang. *Gestalt Psychology*. Liveright, 1929.
+- "Wolfgang Köhler." *Encyclopædia Britannica*.

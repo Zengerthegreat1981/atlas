@@ -9,6 +9,10 @@ en: "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom"
 crumb: "المعرفية السلوكية ← الأعمال ← فرضية السعادة"
 dates: "2006 · جوناثان هايدت"
 language: "الإنجليزية"
+author: "جوناثان هايدت"
+author_slug: "thk-jonathan-haidt"
+publication_year: 2006
+original_language: "الإنجليزية"
 active_start: 2006
 active_end: 2006
 part: "psychology"

@@ -65,5 +65,5 @@ gaps:
 - *The Present and the Future* (الحاضر والمستقبل، 1909).
 - *Social Psychology as Counterpart to Physiological Psychology* (علم النفس الاجتماعي مقابل علم النفس الفسيولوجي، 1909).
 - *The Objective Reality of Perspectives* (الواقع الموضوعي للمنظورات، 1924).
-- *Fragments on Ethics* (شظايا في الأخلاق، نُشر 1963، محرّر من محاضرات).
+- *Fragments on Ethics* (شظايا في الأخلاق، ملحق رابع ضمن *Mind, Self, and Society* نُشر 1934 بعد وفاته، مبني على ملاحظات طلابه من مساق ألقاه عام 1927، وليس كتاباً مستقلاً نُشر 1963).
 - *Movements of Thought in the Nineteenth Century* (حركات الفكر في القرن التاسع عشر، نُشر 1936، محاضرات العشرينيات من القرن العشرين).

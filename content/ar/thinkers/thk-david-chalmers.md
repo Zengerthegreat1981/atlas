@@ -11,7 +11,7 @@ dates: "أستراليا / نيويورك · 1966–... م"
 country: "أستراليا / نيويورك"
 language: "الإنجليزية"
 active_start: 1996
-active_end: 2024
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
@@ -21,8 +21,8 @@ related:
 - id: "ctx-dot-com-bubble-internet-revolution", title: "ثورة الإنترنت وفقاعة الدوت كوم وميلاد المجتمع الشبكي الرقمي", type: "سياق/تقليد"
 - id: "ctx-rise-of-ai-generative-revolution", title: "ثورة الذكاء الاصطناعي التوليدي ومسألة وعي الآلة وإعادة تعريف الإنسان", type: "سياق/تقليد"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد ترجمة عربية معتمدة موثّقة هنا لكتابه The Conscious Mind (1996) أو لمقاله المؤسِّس Facing Up to the Problem of Consciousness (1995)."
+  - "لم يُعثر على اقتباس مباشر منسوب له بمصدر ثابت وسنة؛ قسم الاقتباسات حُذف بدل ملئه بجملة عامة."
 ---
 # ديفيد تشالمرز
 
@@ -47,7 +47,3 @@ gaps:
 - *The Extended Mind* (1998، مع أندي كلارك).
 - *Constructing the World* (2012).
 - *Reality+: Virtual Worlds and the Problems of Philosophy* (2022).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

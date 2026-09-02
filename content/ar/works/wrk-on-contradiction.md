@@ -9,8 +9,12 @@ en: "On Contradiction"
 crumb: "الفلسفة ← الآسيوية الحديثة ← الماركسية الصينية / الماوية ← حول التناقض"
 dates: "1937 · ماو تسي تونغ"
 language: "الصينية (المندرين)"
+author: "ماو تسي تونغ"
+author_slug: "thk-mao-zedong"
+publication_year: 1937
+original_language: "الصينية (المندرين)"
 active_start: 1937
-active_end: 1937
+active_end: 1976
 edges:
 - rel: "belongs_to", target: "sch-chinese-marxism", target_type: "مدرسة"
 related:

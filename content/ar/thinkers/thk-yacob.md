@@ -14,12 +14,12 @@ active_start: 1632
 active_end: 1692
 edges:
 - rel: "belongs_to", target: "sch-ethiopian-hataata", target_type: "مدرسة"
-- rel: "founded", target: "الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا)", target_type: "مدرسة"
+- rel: "founded", target: "sch-ethiopian-hataata", target_type: "مدرسة"
 related:
 - id: "sch-ethiopian-hataata", title: "الحكمة الإثيوبية الفلسفية (تقليد الهاتاتا)", type: "مدرسة"
 gaps:
   - "التواريخ الدقيقة لحياة زارا يعقوب (1599 أو 1605؟) موضع خلاف بين المصادر."
-  - "لا يوجد اقتباس مباشر موثوق من 'Hatata' بعد."
+  - "أصالة نسبة نصّ 'Hatata' لزارا يعقوب نفسه محل خلاف أكاديمي جدّي: كلود سامرتر (Claude Sumner) يثبّت النسبة التقليدية للقرن 17، بينما ترى Anaïs Wion وباحثون آخرون احتمالاً أن يكون النصّ من تأليف المبشّر الإيطالي Giusto d'Urbino في القرن 19. هذا الملف يتبنّى النسبة التقليدية دون حسم الجدل."
 ---
 
 # زارا يعقوب
@@ -49,7 +49,7 @@ gaps:
 ## الأثر
 
 - **الفلسفة الإثيوبية**: **والدا هايلت** (Walda Haylät) تَلمذ لزارا يعقوب، ونَشر **نقد الألكازياروس** (Tractate in defense of the Hatata) عام 1677.
-- **إعادة الاكتشاف** (الستينيات من القرن العشرين): **كلود سامرتر** (Claude Sumner) في «**الفلسفة الإثيوبية**» (Ethiopian Philosophy, 1974-1978) أعاد اكتشاف النصوص.
+- **إعادة الاكتشاف**: نشر **كلود سامرتر** (Claude Sumner) سلسلة «**الفلسفة الإثيوبية**» (Ethiopian Philosophy) بعد وفاته بقرون، في 1974-1978، أعادت تحرير النصوص وترجمتها ونشر الجدل الأكاديمي حولها.
 - **الفلسفة الأفريقية المعاصرة**: **بوناميتي موكونكو** و**أ. م. جودل** و**كوايسي ويلبرغ** و**ك. أسانتي** أعادوا قراءة زارا يعقوب.
 - **الفلسفة العالمية**: إدراج **الهاتاتا** في **أطالس الفلسفة** المعاصرة.
 
@@ -58,3 +58,9 @@ gaps:
 - **መጽሐፈ ሓታታ** (1667): كتاب الهاتاتا.
 - **Treatise** (1681): الخطاب.
 - (نصوصا فلسفيّان فقط، مَعَ المخطوط الأصلي محفوظ في مكتبة جامعة لندن SOAS).
+
+## المصادر
+
+- Claude Sumner, *Ethiopian Philosophy, vol. II: The Treatise of Zär'a Ya'ecob and of Walda Heywat* (Commercial Printing Press, Addis Ababa, 1976).
+- Anaïs Wion, "On a Recent Bibliography of Zär'a Ya'eqob and Related Literature", *Aethiopica*, vol. 15 (2012) — يمثّل الطرف الشكّي في جدل الأصالة.
+- Teodros Kiros (ed.), *Zara Yacob: Rationality of the Human Heart* (Red Sea Press, 2005).

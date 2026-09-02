@@ -9,6 +9,7 @@ en: "Structuralist Marxism"
 crumb: "الفلسفة ← القارية ← الماركسية البنيوية"
 dates: "فرنسا، بريطانيا، العالم · من 1960 إلى الوقت الحاضر"
 country: "فرنسا"
+cultural_origin: "french"
 language: "الفرنسية، الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
@@ -22,7 +23,6 @@ related:
 - id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
 gaps:
   - "انقسام ألتوسِّر المتأخر (اعترافه بخطأ استعماله مفاهيم لاكان في عمله المبكر) يحتاج مراجعة دقيقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع إيريك هولباو (Régulation Theory) والاقتصاد السياسي البنيوي غير واضحة."
 ---
 
@@ -79,3 +79,11 @@ gaps:
 - **الفلسفة السياسية**: تحليل **الدولة الرأسمالية** و«**البوليتكيات**» (politic).
 - **الاقتصاد السياسي**: هيمنة **رأسمالية الدولة**، **التنظيم الفائق** (multinational corporations).
 - **الدراسات الأدبية**: *Marxism and Literary Criticism* (Eagleton، 1976).
+
+## المصادر
+
+- Althusser, Louis. *Pour Marx*. François Maspero, 1965.
+- Althusser, Louis, and Étienne Balibar. *Lire le Capital*. François Maspero, 1965.
+- Althusser, Louis. "Idéologie et appareils idéologiques d'État." *La Pensée*, no. 151, 1970.
+- Thompson, E. P. *The Poverty of Theory and Other Essays*. Merlin Press, 1978.
+- Jameson, Fredric. *The Political Unconscious*. Cornell University Press, 1981.

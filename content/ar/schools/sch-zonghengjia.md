@@ -13,6 +13,7 @@ language: "الصينية الكلاسيكية"
 active_start: -350
 active_end: -221
 active_source: "lifespan"
+cultural_origin: "east-asian"
 related:
 - id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
 - id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
@@ -21,7 +22,6 @@ related:
 gaps:
   - "نصوص Su Qin وZhang Yi الأصلية لم تصلنا، وما نعرفه من 'Strategies of the Warring States' (Zhan Guo Ce)."
   - "التمييز بين 'Diplomacy' بمعنى 'فن التفاوض' و'Realpolitik' في السياق الغربي الحديث لم يُحلّ هنا."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # مدرسة الدبلوماسيين (Zonghengjia)
@@ -46,3 +46,10 @@ gaps:
 - مع توحيد تشين (221 ق.م) لم يعد للتحالفات المتعددة معنى. تُرجم المفاوضون إلى بيروقراطية ثانوية، أو أُعدموا.
 - في التراث الكونفوشي اللاحق، عُدّت «براغماتية» (تشو جيا) تحقّراً أخلاقياً: لا فضيلة في مفاوض لا يتّقي الله. هذا التنفير شوّه إرثها، لكن كتاب «خطط الممالك المتحاربة» ظلّ محفوظاً كمصدر تاريخي.
 - القرن العشرون أعاد قراءتها كـ«دبلوماسية كلاسيكية» — ولعلّ ماو تسي تونغ نفسه استقى منها أساليب المفاوضة الثورية (التحالف المتغيّر، الانتظار، الاحتواء، ثمّ الضربة).
+
+## المصادر
+
+- *Zhan Guo Ce (战国策، خطط الممالك المتحاربة)*، ترجمة James I. Crump تحت عنوان *Chan-kuo Ts'e*. Clarendon Press, 1970.
+- Sima Qian. *Shiji (سجلات المؤرخ الكبير)*، سِيَر Su Qin وZhang Yi، ترجمة Burton Watson.
+- Watson, Burton (محرر ومترجم). *Records of the Grand Historian: Han Dynasty*. Columbia University Press.
+- "Zonghengjia", *Encyclopedia of Chinese Philosophy*, Routledge.

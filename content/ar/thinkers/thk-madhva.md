@@ -60,3 +60,8 @@ gaps:
 - *Tattva Viveka* (تمييز الحقائق).
 - *Dvadasha Stotra* (12 نشيد).
 - *Karma Nirnaya* (تقرير الكرمة).
+
+## المصادر
+
+- Sharma, B. N. K. (1962). *Philosophy of Śrī Madhvācārya*. Motilal Banarsidass.
+- Buchta, D. (2014). Dvaita Vedānta. In *The Oxford Handbook of Indian Philosophy*. Oxford University Press.

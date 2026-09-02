@@ -10,17 +10,19 @@ en: "The 7 Habits of Highly Effective People"
 crumb: "علم النفس الشعبي والقيادة الشخصية ← الأعمال ← العادات السبع للناس الأكثر فاعلية"
 dates: "1989 · ستيفن كوفي"
 language: "الإنجليزية"
+author: "ستيفن كوفي"
+author_slug: "thk-stephen-covey"
+publication_year: 1989
+original_language: "الإنجليزية"
 active_start: 1989
 active_end: 1989
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والقيادة الشخصية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-stephen-covey", target_type: "مفكر"
 related:
 - id: "con-seven-habits", title: "العادات السبع للفاعلية والنمو الشخصي", type: "مفهوم"
 - id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # العادات السبع للناس الأكثر فاعلية
@@ -34,7 +36,3 @@ gaps:
 ## أخلاق الشخصية مقابل أخلاق المظهر
 
 نقد كوفي لثقافة الحيل السطحية والتركيز على غرس الفضائل الأصيلة (النزاهة والعدالة).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

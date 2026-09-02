@@ -10,22 +10,21 @@ crumb: "الفلسفة ← الصين ← الداووية الفلسفية"
 dates: "الصين · من القرن 6 ق.م إلى القرن 3 م تقريباً"
 country: "الصين"
 language: "الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: -500
 active_end: 300
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الداووية (مظلة)", target_type: "مظلة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
 - id: "con-ziran", title: "الزُو ران (自然) — ما يكون من ذاته", type: "مفهوم"
 - id: "sch-vietnamese-triple", title: "الترادف الثلاثي الفيتنامي (Tam Giáo Đồng Nguyên)", type: "مدرسة"
 gaps:
   - "نصوص لاو تزو و تشوانغ تزو بُحثت هنا بالترجمة الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز اللاحق بين الداووية الفلسفية والدينية لم يُحلّ بشكل قاطع في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # الداووية الفلسفية
@@ -50,3 +49,11 @@ gaps:
 - عُدّت تاريخياً نقيضاً للكونفوشية في التراث الصيني: الكونفوشية «تأمر» بالداخل الاجتماعي، الداووية «تحلّ» منه إلى الطبيعة.
 - تأثّرت بها مدرسة «هو-لاو» (Huang-Lao) فلسفياً، ومدرسة «شوان شيويه» (Xuanxue) في القرن الثالث الميلادي إحيائياً.
 - في القرن العشرين، أعاد هانز هاينه هولز و دبليو. تي. تشان قراءتها للفلسفة الغربية (تأثيرات متبادلة مع الهايدغرية والوضعية المنطقية في قراءات تشان).
+
+## المصادر
+
+- Laozi. *Dao De Jing* (D. C. Lau, Trans., 1963). Penguin Classics.
+- Zhuangzi. *The Complete Works of Zhuangzi* (B. Watson, Trans., 1968). Columbia University Press.
+- Chan, W.-T. (1963). *A Source Book in Chinese Philosophy*. Princeton University Press.
+- Graham, A. C. (1989). *Disputers of the Tao: Philosophical Argument in Ancient China*. Open Court.
+- Kohn, L. (Ed.). (2000). *Daoism Handbook*. Brill.

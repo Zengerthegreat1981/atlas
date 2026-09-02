@@ -4,9 +4,9 @@ id: "THK-2227"
 type: "مفكر"
 part: "psychology"
 level: "متوسط"
-title: "جوزيف أ. وايت جونيور"
-en: "Joseph A. White Jr."
-crumb: "علم النفس الأفريقي الأمريكي ← الناس ← جوزيف أ. وايت جونيور"
+title: "جوزيف ل. وايت جونيور"
+en: "Joseph L. White Jr."
+crumb: "علم النفس الأفريقي الأمريكي ← الناس ← جوزيف ل. وايت جونيور"
 dates: "الولايات المتحدة · 1932–2017"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
@@ -14,7 +14,7 @@ active_start: 1970
 active_end: 2010
 edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
-- rel: "related_to", target: "علم نفس الشعوب الأصلية", target_type: "مدرسة"
+- rel: "related_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
@@ -30,7 +30,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
-# جوزيف أ. وايت جونيور
+# جوزيف ل. وايت جونيور
 
 عالم نفس أمريكي، يُنسب إليه النصّ المؤسِّس لحقل «علم النفس الأسود»: مقالته «نحو علم نفس أسود» (Toward a Black Psychology) المنشورة في مجلة *Ebony* عام 1970، والتي وسّعها لاحقاً في كتاب *The Psychology of Blacks: An Afro-American Perspective* (1984، مع توماس بارهام).
 

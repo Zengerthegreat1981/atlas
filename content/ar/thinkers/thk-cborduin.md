@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "الأطلس ← thinkers ← تشارلز بوردوين"
 edges:
 - rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"

@@ -11,7 +11,6 @@ active_start: 1500
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-akan", target_type: "مدرسة"
-- rel: "formulated_by", target: "كهنة وفلاسفة الأكان (تقليد شفهي)", target_type: "مفكر"
 related:
 - id: "sch-akan", title: "فلسفة الأكان (غانا)", type: "مدرسة"
 - id: "thk-amo", title: "أنطون فلهيلم أمو", type: "مفكر"

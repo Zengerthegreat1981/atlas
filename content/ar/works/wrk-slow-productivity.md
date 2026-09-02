@@ -13,7 +13,6 @@ language: "الإنجليزية"
 active_start: 2024
 active_end: 2024
 edges:
-- rel: "belongs_to", target: "علم النفس التنظيمي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-cal-newport", target_type: "مفكر"
 related:
 - id: "thk-cal-newport", title: "كال نيوبورت", type: "مفكر"

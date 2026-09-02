@@ -13,16 +13,11 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التنويم المعرفي (Cognitive Hypnotherapy — سيلفستر)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
-- id: "tec-cognitive-hypnotherapy", title: "التنويم الإيحائي المعرفي", type: "تقنية/تدخل علاجي"
-- id: "thk-dspiegel", title: "ديفيد سبيجل", type: "مفكر"
-- id: "thk-hcrsilneck", title: "هارولد كراسيلنيك", type: "مفكر"
-- id: "thk-wkroger", title: "وليام كروغر", type: "مفكر"
 - id: "tec-cognitive-hypnotherapy-silvester", title: "التنويم المعرفي (Cognitive Hypnotherapy — سيلفستر)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "تاريخ التأسيس الدقيق لمدرسة Hypnotherapy London لم يُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تاريخ التأسيس الدقيق لمدرسة Hypnotherapy London لم يُراجع من مصدر أولي."
 ---
 
 # تريفور سيلفستر
@@ -45,3 +40,8 @@ gaps:
 - *Quit Smoking Today: Without Gaining Weight* (2009).
 - *How to Quit Smoking Without Putting on Weight* (2014).
 - *The Truth About Hypnosis* (2017).
+
+## المصادر
+
+- Silvester, Trevor. *Cognitive Hypnotherapy: An Integrated Approach to the Treatment of Emotional Disorders*. Chichester: John Wiley & Sons, 2009.
+- Hypnotherapy London — الصفحة الرسمية لمدرسة التدريب التي أسّسها تريفور سيلفستر.

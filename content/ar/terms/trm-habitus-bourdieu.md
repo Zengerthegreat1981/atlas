@@ -12,15 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-sociology", target_type: "مدرسة"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: بيير بورديو (thk-bourdieu)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: مارسيل موس (thk-mauss)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: إميل دوركهايم (thk-durkheim)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الْبِنْيَة الاجْتِمَاعِيَّة (con-social-structure)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: رَأْس المَال (con-capital)"
-  - "الفرق بين Habitus عند بورديو وHabitus عند أرسطو (Aisthesis) يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "العلاقة بـ'البرامج المعرفية الضمنية' (Implicit Cognitive Programs) في علم النفس الاجتماعي تحتاج فصلاً."
-  - "النقد النسوي (McCall، 1992) لـ'Habitus' كـ'فئة ذكورية' يحتاج توثيقاً."
+  - "لا يوجد ملف thk-bourdieu معتمد في الأطلس بعد (طُلب slug جديد في agents_specs/requests-minimax.md، Task 9، 2026-09-01) — لذا لا يمكن ربط هذا الملف بصاحب المفهوم مباشرة حتى يُعتمد."
+  - "الملف يتداخل مع con-habitus-bourdieu.md (مفهوم منفصل بنفس الموضوع) دون إحالة أو تمييز واضح بين الملفين — يحتاج قراراً تحريرياً (دمج أو تمييز نطاق)."
 ---
 # الهَابِيتُوس (Habitus) عند بورديو: البِنْيَة المُنْتَجَة للعادات
 
@@ -41,3 +34,10 @@ gaps:
 ## النَّقْد
 
 (1) **نَقْد نَسَوِيّ** (McCall، 1992): «**Habitus**» «**فِئَة ذَكَوْرِيَّة**» (Masculine Category)، «**تَتْجَاهَل**» «**تَجَارِب نِسَائِيَّة**» (Women's Experiences). (2) **نَقْد مَا بَعد بِنْيُوِيّ** (Deleuze & Guattari، 1980): «**Habitus**» «**بِنْيَة**» (Structure)، «**لَا رِيزُوم**» (Rhizome). (3) **نَقْد اجْتِمَاعِيّ** (Sayer، 2005): «**Habitus**» «**تَفْسِير**» (Explanation)، «**لَا وَصْف**» (Description).
+
+## المصادر
+
+- Bourdieu, P. (1972). *Esquisse d'une théorie de la pratique*. Genève: Droz.
+- Bourdieu, P. (1980). *Le Sens pratique*. Paris: Éditions de Minuit.
+- McCall, L. (1992). "Does Gender Fit? Bourdieu, Feminism, and Conceptions of Social Order." *Theory and Society*, 21(6): 837–867.
+- Sayer, A. (2005). *The Moral Significance of Class*. Cambridge: Cambridge University Press.

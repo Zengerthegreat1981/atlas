@@ -10,6 +10,10 @@ crumb: "الفلسفة ← اليهودية ← الأندلسية ← دلال�
 dates: "1190 م · الفيوم/القاهرة"
 country: "مصر الفاطمية"
 language: "العربية (الأصل)"
+author: "موسى بن ميمون (رمبام)"
+author_slug: "thk-maimonides"
+publication_year: 1190
+original_language: "العربية"
 active_start: null
 active_end: "مستمر"
 edges:

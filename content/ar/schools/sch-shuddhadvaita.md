@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الهند ← المدارس الأرثوذكسية 
 dates: "الهند · من القرن 15 إلى اليوم"
 country: "شبه القارة الهندية (غوجارات)"
 language: "السنسكريتية"
+cultural_origin: "indian"
 active_start: 1479
 active_end: "مستمر"
 edges:
@@ -53,3 +54,10 @@ gaps:
 ## القيد
 
 - تأكيدها على «العالم مظهر حقيقي» يميّزها عن أدفايتا لكن قد يُفقد التمييز.
+
+## المصادر
+
+- Barz, Richard. *The Bhakti Sect of Vallabhācārya*. Faridabad: Thomson Press, 1976.
+- Chaudhuri, Roma. *The Doctrine of Śuddhādvaita*. Calcutta: Pracyavani, 1954.
+- Redington, James D. *Vallabhācārya on the Love Games of Kṛṣṇa*. Delhi: Motilal Banarsidass, 1990.
+- Bryant, Edwin F. (ed.). *Krishna: A Sourcebook*. Oxford: Oxford University Press, 2007.

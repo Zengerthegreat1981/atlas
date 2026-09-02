@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "بول واختل", target_type: "مفكر"
+- rel: "developed_by", target: "thk-rwachtel", target_type: "مفكر"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"

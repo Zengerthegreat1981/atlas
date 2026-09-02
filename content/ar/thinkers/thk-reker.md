@@ -21,7 +21,7 @@ related:
 - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
 - id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـغاري ريكر."
   - "مقياس الموقف من الحياة (Life Attitude Profile - LAP-R) يستحق إدراجاً في أدوات القياس."
 ---
 
@@ -43,3 +43,9 @@ gaps:
 ## أهم أعماله
 
 بروفيل الموقف من الموت المُنقَّح (DAP-R, 1994) · مقياس المواقف من الحياة (LAP-R, 1992) · البحث عن المعنى الوجودي والشيخوخة (Existential Meaning: Optimizing Human Development, 2000).
+
+## المصادر
+
+- Wong, P. T. P., & Reker, G. T. (1994). Development and validation of the Death Attitude Profile-Revised. In R. A. Neimeyer (Ed.), *Death Anxiety Handbook*. Taylor & Francis.
+- Reker, G. T., & Peacock, E. J. (1981). The Life Attitude Profile (LAP): A multidimensional instrument for assessing attitudes toward life. *Canadian Journal of Behavioural Science*, 13(3).
+- Wong, P. T. P., & Fry, P. S. (Eds.) (1998). *The Human Quest for Meaning: A Handbook of Psychological Research and Clinical Applications*. Lawrence Erlbaum (يضم فصولاً بمشاركة ريكر).

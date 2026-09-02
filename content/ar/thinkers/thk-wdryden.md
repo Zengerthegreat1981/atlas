@@ -13,40 +13,42 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بجلسة واحدة", target_type: "تيار"
+- rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
 - id: "thk-mhoyt", title: "مايكل ف. هويت", type: "مفكر"
-- id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"
-- id: "thk-wbennett", title: "وين بينيت", type: "مفكر"
 gaps:
-  - "السيرة الذاتية الكاملة في University of London لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موشيه تالمون (thk-mtalmon)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وين بينيت (thk-wbennett)."
+  - "سنة الميلاد الدقيقة (بعد 1950) لم تُراجع من مصدر أولي."
+  - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي."
 ---
 
 # ويندي دريدن
 
-أستاذ استشاري في العلاج المعرفي السلوكي في University of London، وأحد أكثر الممارسين تأثيراً في حقل العلاج قصير الأجل وSST في السياق البريطاني.
+أستاذ فخري للدراسات العلاجية النفسية في Goldsmiths، جامعة لندن، ومرجع دولي في العلاج المعرفي السلوكي والعلاج العقلاني الانفعالي السلوكي (REBT)، وأحد أغزر الكتّاب في الحقل (أكثر من 225 كتاباً).
 
 ## ما أعطاه
 
-- **كتب متعددة في CBT**: منها *Single-Session Therapy* (2002، مع A. Dowden).
-- **"Key Themes in Counselling"** سلسلة: مراجع تثقيفية في الحقل.
-- **"Rational Emotive Behaviour Therapy"**: تطوير لإطار ألبرت إليس الكلاسيكي.
-- **دور محرر** في سلسلة "Brief Therapies Series".
+- **تطوير REBT بعد إليس**: عمل لسنوات طويلة مع ألبرت إليس مؤسس REBT، وساهم في نشر الإطار وتبسيطه أكاديمياً وسريرياً في بريطانيا.
+- **سلسلة كتب في العلاج بجلسة واحدة (SST)**: منها *Single-Session Therapy: Distinctive Features* و*Single-Session Therapy (SST): 100 Key Points and Techniques*.
+- **حوار مع قادة الحقل**: كتابه *Single-Session Therapy and Its Future: What SST Leaders Think* يضم مقابلة مع مايكل هويت، أحد مؤسسي حركة SST المعاصرة.
 
 ## موقعه من التيار
 
-يقف دريدن عند ملتقى CBT، العلاج العقلاني الانفعالي (REBT)، والعلاج قصير الأجل. تأثيره في BST في العالم الإنجليزي كبير، ولا سيما في التأكيد على أهمية الجلسة الواحدة.
+يقف دريدن عند ملتقى REBT (كامتداد مباشر لعمل إليس) والعلاج بجلسة واحدة، وهو من أكثر من نقل نموذج SST من أمريكا (هويت وتالمون) إلى السياق الأكاديمي البريطاني.
 
 ## أهم أعماله
 
-- *Single-Session Therapy* (2002، مع A. Dowden).
-- *Key Themes in Counselling and Psychotherapy* (سلسلة).
-- *The Distinctive Features of REBT* (مع M. Bernard).
+- *Single-Session Therapy: Distinctive Features*. Routledge.
+- *Single-Session Therapy (SST): 100 Key Points and Techniques*. Routledge.
+- *Single-Session Therapy and Its Future: What SST Leaders Think*. Routledge.
 
 ## القيد
-- **"Single-Session Therapy"** مع Dowden يختلف في الروح عن هويت، ويركّز على CBT أكثر.
+
+إنتاجه الغزير موزّع على مؤلفات تطبيقية قصيرة موجّهة للممارسين أكثر من أعمال نظرية كبرى مفردة.
+
+## المصادر
+
+- Dryden, W. *Single-Session Therapy: Distinctive Features*. Routledge.
+- Dryden, W. *Single-Session Therapy and Its Future: What SST Leaders Think*. Routledge.
+- Goldsmiths, University of London — الملف الأكاديمي الرسمي لويندي دريدن (أستاذ فخري، قسم علم النفس).

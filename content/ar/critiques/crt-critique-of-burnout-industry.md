@@ -12,16 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "crt-commodification-critique", title: "نقد التسليع", type: "نقد خارجي موثَّق"
-- id: "crt-medicalization-of-poverty", title: "تطبيب الفقر", type: "نقد خارجي موثَّق"
+- id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
+- id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Cederström & Spicer, 2015; Schor, 2020)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين هذا النقد ونقد العمل المعاصر (Marx) يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Cederström & Spicer, 2015; Schor, 2020)."
+  - "الفرق بين هذا النقد ونقد العمل المعاصر (Marx) يحتاج فصلاً."
 ---
 # نقد صِنَاعَة الاحتِرَاق الْمِهَنِيّ (Burnout): تَطْبِيب الْفَشَل النِّظَامِيّ
 

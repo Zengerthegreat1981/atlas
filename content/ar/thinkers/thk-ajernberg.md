@@ -6,17 +6,17 @@ level: "متوسط"
 title: "آن جِرنبرغ"
 en: "Ann M. Jernberg"
 crumb: "Theraplay ← مؤسسة ← آن جِرنبرغ"
-dates: "الولايات المتحدة · 1920–2013"
+dates: "الولايات المتحدة · 1928–1993"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1967
-active_end: 2013
+active_end: 1993
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "Theraplay (العلاج بالألعاب العلائقي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-theraplay", target_type: "تيار"
 related:
 - id: "thk-evmunns", title: "إيفانجلين مانس", type: "مفكر"
-- id: "thk-pbooth", title: "فيلس بوث", type: "مفكر"
+- id: "thk-pbooth", title: "فيليس بوث", type: "مفكر"
 - id: "thk-sbooth", title: "ساندرا لينداما", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -12,6 +12,7 @@ country: "متعددة (الولايات المتحدة، المملكة الم�
 language: "الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-kant-critical", target_type: "مدرسة"
@@ -19,13 +20,13 @@ edges:
 related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
 - id: "thk-ckorsgaard", title: "كريستين كورسغارد", type: "مفكر"
-- id: "thk-sullivan", title: "روجر سوليفان", type: "مفكر"
 - id: "con-autonomy-kantian", title: "الاستقلالية (Autonomy) في الكانطية الأخلاقية", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«أونورا أونيل» (thk-onora-oneill) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «الكانطية الأخلاقية» عند رولز (1971) و«الكانطية الأخلاقية» عند كورسغارد (1996) لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من رولز 'نظرية العدالة' (A Theory of Justice, 1971) في صياغته المنقحة."
+  - "اقتباس مباشر من نسخة رولز المنقحة لـ'نظرية العدالة' (A Theory of Justice, 1971) لم يُوثَّق بعد بالصفحة والطبعة."
   - "العلاقة بين 'الكانطية الأخلاقية' و'الكانطية الجديدة' (مدرسة ماربورغ) لم تُراجع."
+  - "رابط related لروجر سوليفان (Roger Sullivan، مؤلف Immanuel Kant's Moral Theory، 1989) أُزيل — الـslug الوحيد المتاح thk-sullivan يشير فعلياً لهاري ستاك سوليفان (طبيب نفسي مختلف)، ولا يوجد slug صحيح لروجر سوليفان بعد في الأطلس."
 ---
 
 # الكانطية الأخلاقية المعاصرة
@@ -64,3 +65,10 @@ gaps:
 
 - يستحق التمييز بين «الكانطية الأخلاقية» و«الكانطية الفلسفية» (نظرية المعرفة) فصلاً مستقلاً.
 - علاقة الكانطية المعاصرة بنظرية العقد الاجتماعي تستحق توسعاً موثّقاً.
+
+## المصادر
+
+- John Rawls, *A Theory of Justice* (Harvard University Press, 1971).
+- Christine M. Korsgaard, *The Sources of Normativity* (Cambridge University Press, 1996).
+- Onora O'Neill, *Constructions of Reason: Explorations of Kant's Practical Philosophy* (Cambridge University Press, 1989).
+- Bernard Williams, *Ethics and the Limits of Philosophy* (Harvard University Press, 1985).

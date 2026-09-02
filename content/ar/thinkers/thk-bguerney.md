@@ -6,18 +6,17 @@ level: "متوسط"
 title: "برنارد غيرني"
 en: "Bernard Guerney"
 crumb: "Filial Therapy (العلاج العلائقي الوالد-الطفل) ← المؤسس ← برنارد غيرني"
-dates: "الولايات المتحدة · وُلد 1926"
+dates: "الولايات المتحدة · 1926–2015"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1964
-active_end: "مستمر"
+active_end: 2015
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج البنوي والعائلي باللعب", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-filial-therapy", target_type: "تقنية"
 related:
 - id: "thk-cschaefer", title: "تشارلز شيفر", type: "مفكر"
 - id: "thk-louise-guerney", title: "لويس غيرني", type: "مفكر"
-- id: "thk-mahoney", title: "ماريان ماهونِي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -47,7 +46,7 @@ gaps:
 ## أهم أعماله
 
 - *Filial Therapy: Description and Rationale* (1964).
-- *Handbook of Filial Therapy* (1994، مع ريزولسكي).
+- *Filial Therapy: Strengthening Parent-Child Relationships Through Play* لريز فان فليت (Risë VanFleet, 1994)، العمل المرجعي اللاحق الذي بنى على منهج غيرني ووسّعه.
 
 ## اقتباسات مختارة
 

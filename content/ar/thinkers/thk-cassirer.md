@@ -13,7 +13,7 @@ active_end: 1944
 country: "ألمانيا، السويد، الولايات المتحدة، إنجلترا"
 language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-neokantian", target_type: "مدرسة"
 related:
 - id: "thk-langer", title: "سوزان لانغر", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"

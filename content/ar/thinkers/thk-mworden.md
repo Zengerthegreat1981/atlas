@@ -2,31 +2,48 @@
 slug: "thk-mworden"
 id: "THK-0613"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "مارك ووردن"
 en: "Mark Worden"
-crumb: "علاج إيماغو العلائقي ← الناس ← مارك ووردن"
-dates: "الولايات المتحدة · القرن العشرين"
-active_start: 1990
-active_end: 2005
+crumb: "الأطلس ← thinkers ← مارك ووردن"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "علاج إيماغو العلائقي", target_type: "مدرسة"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "تفاصيل سيرته الشخصية (تواريخ الميلاد والوفاة، الخلفية المهنية الكاملة) غير متوفرة في المصادر المتاحة."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-mworden.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # مارك ووردن
 
-معالج زواجي وأسري أمريكي، مؤلف مشارك (مع باربرا دراهوس ووردن) لعدد من الكتب حول العلاج الزواجي القائم على نموذج إيماغو العلائقي (Imago Relationship Therapy).
+(Mark Worden)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-mworden.md.archived.2026-08-26`
 
-ساهم في تطبيق وتوسيع أفكار نموذج إيماغو (الذي أسسه هارفيل هندريكس) عبر كتابات تربط بين الفروق الجندرية وديناميكيات العلاقة الزوجية، وقدّم أدوات عملية لمعالجي الأزواج لفهم أنماط التفاعل المتكررة بين الشريكين.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## أهم أعماله
+## ملخص
 
-رقصة النوع الاجتماعي في علاج الأزواج (The Gender Dance in Couples Therapy، بالاشتراك مع باربرا دراهوس).
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
+
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
+
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-mworden.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-mworden.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

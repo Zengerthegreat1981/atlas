@@ -9,6 +9,7 @@ en: "Ethnophilosophy"
 crumb: "الفلسفة ← الأفريقية ← الإثنوفلسفة"
 dates: "أفريقيا · من 1940s إلى 1990s"
 country: "أفريقيا جنوب الصحراء"
+cultural_origin: "african"
 language: "الفرنسية، الإنجليزية"
 active_start: 1945
 active_end: 1990
@@ -16,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
 - id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
-- id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
+- id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:
   - "نصوص Placide Tempels (Bantu Philosophy, 1945) وMbiti وp'Bitek تحتاج مراجعة من المصدر الأولي."
@@ -56,3 +57,10 @@ gaps:
 
 - انتُقدت بشدة من الحركات الاحترافية (Bodunrin، Hountondji) لتحويل الفلسفة إلى «إثنوغرافيا».
 - تنتقد تعميم الثقافة الأفريقية ككتلة واحدة.
+
+## المصادر
+
+- Tempels, P. (1945/1959). *Bantu Philosophy*. Présence Africaine.
+- Mbiti, J. S. (1969). *African Religions and Philosophy*. Heinemann.
+- Hountondji, P. J. (1976/1983). *African Philosophy: Myth and Reality*. Indiana University Press.
+- p'Bitek, O. (1971). *African Religions in Western Scholarship*. East African Literature Bureau.

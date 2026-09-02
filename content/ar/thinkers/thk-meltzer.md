@@ -20,8 +20,7 @@ related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "مفاهيم 'الصراع الجمالي' (Aesthetic Conflict) وتفكيك الذاتية التوحدية (Dismantling) تستحق توثيقاً."
+  - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
 ---
 
 # دونالد ميلتزر
@@ -41,4 +40,10 @@ gaps:
 
 ## أهم أعماله
 
-العملية التحليلية (The Psycho-Analytical Process, 1967) · استكشافات في التوحد (Explorations in Autism, 1975) · الصراع الجمالي (The Apprehension of Beauty, 1988) · حياة الحلم (Dream Life, 1983).
+العملية التحليلية (The Psycho-Analytical Process, 1967) · استكشافات في التوحد (Explorations in Autism, 1975، بالاشتراك مع فريق أكسفورد) · الصراع الجمالي (The Apprehension of Beauty, 1988، بالاشتراك مع Meg Harris Williams) · حياة الحلم (Dream-Life, 1983).
+
+## المصادر
+
+- Donald Meltzer, *Explorations in Autism: A Psycho-Analytical Study*, Clunie Press, 1975.
+- Donald Meltzer, Meg Harris Williams, *The Apprehension of Beauty*, Clunie Press, 1988.
+- Donald Meltzer, *Dream-Life: A Re-Examination of the Psycho-Analytical Theory and Technique*, Clunie Press, 1983.

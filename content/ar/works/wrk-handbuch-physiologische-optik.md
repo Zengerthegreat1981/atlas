@@ -10,16 +10,18 @@ dates: "1856–1867 · هرمان فون هلمهولتس"
 active_start: 1856
 active_end: 1867
 language: "الألمانية"
+author: "هرمان فون هلمهولتز"
+author_slug: "thk-helmholtz"
+publication_year: 1856
+original_language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
-- rel: "authored_by", target: "هرمان فون هلمهولتس", target_type: "مفكر"
+- rel: "authored_by", target: "thk-helmholtz", target_type: "مفكر"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 gaps:
   - "الكتاب صدر على ثلاث دفعات بين 1856 و1867، تأثير كل دفعة متفاوت — التحقق من حدود الأثر حسب الدفعة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Helmholtz في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # كتاب الفسيولوجيا البصرية

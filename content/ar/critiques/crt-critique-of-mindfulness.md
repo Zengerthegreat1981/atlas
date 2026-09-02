@@ -10,9 +10,9 @@ crumb: "نقد ← الْيَقَظَة الذِّهْنِيَّة"
 active_start: 2013
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-mindfulness-based-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-clinical-mindfulness", target_type: "مدرسة"
 related:
-- id: "crt-commodification-critique", title: "نقد التسليع", type: "نقد خارجي موثَّق"
+- id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
 - id: "dbt-mindfulness-clinical-vs-spiritual", title: "جِدَل الْيَقَظَة كَأَدَاة عِلَاجِيّة ضِد كَمَارَسَة رُوحِيّة", type: "جدل"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
@@ -22,7 +22,6 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: مايكل بَنْتِنْغ (thk-bunting)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Purser, 2019; Forbes, 2019)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين هذا النقد والنقد العلماني للبوذية يحتاج فصلاً."
 ---
 # نقد تَجْرِيد الْيَقَظَة مِن الْبُوذِيَّة: «Mcmindfulness»

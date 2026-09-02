@@ -14,12 +14,17 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-ecker", target_type: "مفكر"
+evidence_level: "experimental"
+related:
+- id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
+- id: "thk-ekandel", title: "إريك كاندِل", type: "مفكر"
+- id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية"
 gaps:
-  - "الأطروحة الأساسية لـ كارل ليبتون (Bruce Ecker) وريجل أورك في أن الصدمة تُعدَّل بـ 'إلغاء التعلم' (Unlearning) وليس بـ 'التعلم الجديد'."
-  - "تقنية 'مطابقة' (Match-Cue) لاستحضار الذكرى بالظروف الأصلية قبل إدخال معلومات متناقضة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بروس إيكر (thk-ecker)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لوريل هولي (thk-lhecker)."
+  - "تقنية 'مطابقة' (Match-Cue) لاستحضار الذكرى بالظروف الأصلية قبل إدخال معلومات متناقضة تحتاج مصدراً أولياً (كتاب إيكر وأورك 2012 غير متاح للمراجعة هنا)."
+  - "دور ريجل أورك (Robin Ecker/Hulley) كمطوّر مشارك للنموذج (علاج التماسك — Coherence Therapy) غير موثّق بـslug صحيح؛ لم يُدرج رابطه تجنباً لاختراع تطابق id/title."
 ---
 
 # العلاج بإعادة توحيد الذاكرة (Memory Reconsolidation Therapy)

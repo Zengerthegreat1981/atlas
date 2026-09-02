@@ -13,7 +13,7 @@ active_start: 1989
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس النسوي التقاطعي", target_type: "تيار"
+- rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
 related:
 - id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "تيار"
 - id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"

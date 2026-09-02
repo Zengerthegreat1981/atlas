@@ -13,11 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
-- id: "thk-thomas-aquinas", title: "توما الأكويني", type: "مفكر"
+- id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"
 - id: "ctx-medieval-paris-sorbonne-scholasticism", title: "جامعة باريس في القرن 13 والسكولاستية الكبرى لتوما الأكويني", type: "سياق/تقليد"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا يوجد اقتباس مباشر مسند لنص الأكويني الأصلي (Summa Theologiae I, q.79, a.12-13) — الاعتماد حالياً على شرح ثانوي."
+  - "أصل المصطلح عند جيروم (synteresis في تعليقه على حزقيال) لم يُوثَّق بمرجع أولي."
 ---
 # السينديريسيس (Synderesis): البصيرة الأخلاقية الفطرية للضمير
 
@@ -34,3 +34,8 @@ gaps:
 ## الأثر في علم النفس الأخلاقي وفلسفة القانون الطبيعي
 
 تأكيد امتلاك كل إنسان لبوصلة باطنية فطرية للخير والعدالة تتجاوز التلقين الثقافي.
+
+## المصادر
+- Thomas Aquinas, *Summa Theologiae*, I, q. 79, a. 12–13 (المصدر الأصلي لتمييز السينديريسيس عن الضمير).
+- Jerome, *Commentariorum in Hiezechielem* (تعليق على حزقيال 1:6 — أول ورود لمصطلح synteresis).
+- Timothy C. Potts, *Conscience in Medieval Philosophy* (Cambridge University Press, 1980).

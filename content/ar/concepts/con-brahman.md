@@ -14,9 +14,14 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
-- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
-- id: "thk-shankara", title: "شانكارا", type: "مفكر"
-- id: "con-maya-vedanta", title: "مايا", type: "مفهوم"
+- id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
+- id: "con-maya-vedanta", title: "مايا (الوهم الفلسفي / الظهور الكوني)", type: "مفهوم"
+- id: "con-brahman-nirguna-saguna", title: "البراهمان الموصوف والمتجرد (Nirguna vs. Saguna Brahman)", type: "مفهوم"
+- id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
+- id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
+- id: "wrk-daodejing", title: "كتاب الطريق والفضيلة (داو ده جينغ)", type: "عمل"
+- id: "wrk-upanishads", title: "الأوبانيشاد الرئيسية", type: "عمل"
 gaps:
   - "التمييز بين براهمان الإلهي وبراهمان المطلق غير محسوم في كل المدارس."
   - "لا يوجد تعريف فلسفي حديث موحد لبراهمان في الأدب العربي."

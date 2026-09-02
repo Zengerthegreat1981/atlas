@@ -14,12 +14,13 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
-- id: "br-structural-family", title: "العلاج الأسري البنيوي", type: "تيار"
+- id: "br-structural-family", title: "العلاج الأسري البنيوي (Structural Family Therapy)", type: "تيار"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
-- id: "con-family-structure", title: "البنية الأسرية", type: "مفهوم"
-- id: "con-boundaries-psychological", title: "الحدود الأسرية", type: "مفهوم"
-- id: "con-differentiation-self", title: "التمايز عن الذات", type: "مفهوم"
+- id: "con-family-structure", title: "البنية الأسرية (Family Structure)", type: "مفهوم"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
+- id: "con-differentiation-self", title: "التمايز عن الذات (Differentiation of Self)", type: "مفهوم"
 gaps:
+  - "wrk- لأعمال مينوشين المرجعية (Families and Family Therapy 1974، Psychosomatic Families 1978) — لا يوجد ملف عمل موثّق لهما، طلب slug في requests-minimax.md."
   - "التطبيق على ثقافات غير غربية (مثل: الأسر الممتدة في الثقافات العربية) يحتاج فصلاً مستقلاً."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

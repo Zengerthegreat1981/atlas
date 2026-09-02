@@ -10,6 +10,7 @@ crumb: "الفلسفة ← أمريكا اللاتينية ← بوين فيفي
 dates: "أمريكا اللاتينية (الأنديز) · من 1990s إلى اليوم"
 country: "الإكوادور، بوليفيا"
 language: "الكيتشوا، الأيمارا، الإسبانية"
+cultural_origin: "indigenous"
 active_start: 1990
 active_end: "مستمر"
 edges:
@@ -53,3 +54,9 @@ gaps:
 
 - تواجه انتقادات بسبب «التوافقية» (الاستيعاب في النظام الرأسمالي).
 - تواجه انتقادات بسبب تعقيد الممارسة السياسية.
+
+## المصادر
+
+- Gudynas, Eduardo. "Buen Vivir: Today's Tomorrow." *Development*, 54(4), 2011, pp. 441-447.
+- Acosta, Alberto. *El Buen Vivir: Sumak Kawsay, una oportunidad para imaginar otros mundos*. Icaria Editorial, 2013.
+- Rivera Cusicanqui, Silvia. *Ch'ixinakax utxiwa: Una reflexión sobre prácticas y discursos descolonizadores*. Tinta Limón, 2010.

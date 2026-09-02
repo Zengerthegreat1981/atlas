@@ -19,7 +19,6 @@ related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ طبعة人民出版社 لـ *Selected Works of Mao Tse-tung* (المجلدات 1–5)."
-  - "لا اقتباس مباشر موثّق منه في هذا الملف."
 ---
 
 # ماو تسي تونغ
@@ -44,3 +43,10 @@ gaps:
 - أنشأ **جمهورية الصين الشعبية** (1949) وحَكمها حتى وفاته.
 - أثّر في **الثورات التحررية في العالم الثالث** (كمبوديا، لاوس، بيرو).
 - شكّل **مدرسة ماوية** تَستمر في حركات ما بعد الحداثة الصينية المعاصرة (منظّري New Left).
+
+## المصادر
+
+- Mao Zedong, *Selected Works of Mao Tse-tung*, Foreign Languages Press, Beijing (5 مجلدات).
+- ماو تسي تونغ، «حول التناقض» (On Contradiction)، 1937.
+- ماو تسي تونغ، «حول الممارسة» (On Practice)، 1937.
+- Stuart R. Schram, *The Political Thought of Mao Tse-tung*, 1969.

@@ -12,38 +12,44 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
-- id: "tec-cbt-beh-graded-task-assignment", title: "إسناد المهام المتدرّجة", type: "تقنية/تدخل علاجي"
+- id: "con-ascetic-denial-of-will", title: "الزهد ونفي الإرادة والشفقة الكونية (Denial of the Will)", type: "مفهوم"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحوّفات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي الداخلي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "المسح الجسدي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-mindful-eating", title: "الأكل الواعي", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بـ ACCEPTS", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-mindful-eating", title: "الأكل بيقظة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-distract-with-accepts", title: "التشتيت بمهارة ACCEPTS", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-check-the-facts", title: "التحقق من الحقائق", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
 - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 gaps:
   - "نسب الانتشار بحسب الجنس/العمر/المنطقة الجغرافية لم تُراجع من مسح وبائي أولي مباشر."
   - "الفروقات الدقيقة بين عتبات شدة DSM-5-TR (mild/moderate/severe/extreme) وعلامات ICD-11 السريرية لم تُقارن نصاً بنص."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على اقتباس أولي موثَّق منسوب مباشرة لهذا الاضطراب في مصادر التصنيف المرجعية."
 ---
 
 # القهم العصبي (أنوريكسيا)
 
 اضطراب أكل يتميّز بتقييد شديد في تناول الطاقة الغذائية، مما يؤدي إلى وزن منخفض بشكل ملحوظ بالنسبة للعمر والجنس ومسار النمو. ينشأ خوف شديد من اكتساب الوزن أو من البدانة، ويُكرَّس سلوك متعمّد للحؤول دون ذلك. تشوّه صورة الجسم وعدم الاعتراف بخطورة الوضع الطبي من السمات الجوهرية. وهو من الاضطرابات ذات أعلى معدلات المراضة والوفيات ضمن فئة اضطرابات الأكل.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع "اضطراب/حالة إكلينيكية" في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً — معاييرها الرسمية، تطورها في أدلة التصنيف، وتقنيات التدخل الموثقة عنها — دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي. الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين القهم العصبي كفئة تشخيصية سريرية وبين con-ascetic-denial-of-will ("الزهد ونفي الإرادة") كما طرحه شوبنهاور — تجاوزٌ إرادي واعٍ للرغبات الجسدية يُعقَد كمسار فلسفي/روحي للتحرر من الألم والإرادة العمياء للحياة. القهم العصبي، على العكس، اضطراب إكلينيكي يترافق مع تشوّه إدراكي في صورة الجسم وخطر طبي جسيم على الوظيفة والحياة، لا فعل تحرري متعمَّد؛ الخلط بين الاثنين يُخاطر بتأطير مرض خطير كفضيلة زهد.
 
 ## ملاحظات على المعايير التشخيصية
 

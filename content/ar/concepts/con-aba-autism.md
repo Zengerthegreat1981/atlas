@@ -12,17 +12,21 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "con-aba-autism", target_type: "مدرسة"
 related:
+- id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
+- id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
-- id: "con-behavioral-epilepsy", title: "العلاج السلوكي للصرع", type: "مفهوم"
-- id: "con-teacch", title: "TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)", type: "مفهوم"
+- id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
+- id: "con-prt-pivotal-response", title: "علاج المحاور (PRT)", type: "مفهوم"
+- id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"
+- id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
 gaps:
   - "أعمال Lovaas الكاملة لم تُراجع بشكل منفصل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ABA للتوحد
 
-**تحليل السلوك التطبيقي** (Applied Behavior Analysis - ABA) هو المنهج العلاجي الأكثر استخداماً في علاج اضطراب طيف التوحد (ASD). نشأ في ستينيات القرن العشرين مع أعمال إيفار لوفاس (Ivar Lovaas) في UCLA.
+**تحليل السلوك التطبيقي** (Applied Behavior Analysis - ABA) هو المنهج العلاجي الأكثر استخداماً في علاج اضطراب طيف التوحد (ASD). نشأ في ستينيات القرن العشرين مع أعمال إيفار لوفاس (Ivar Lovaas) في UCLA، وهو تطبيق مباشر للمبادئ السلوكية (المدرسة السلوكية) على حالة إكلينيكية محدَّدة، بخلاف مفهوم تحليل السلوك التطبيقي (ABA) العام الذي يصف المبدأ بمعزل عن التوحد.
 
 ## ما الذي يميّزه
 
@@ -43,6 +47,3 @@ gaps:
 
 يقع في قلب "علم النفس السلوكي التطبيقي" مع تقاطع مع "التربية الخاصة" و"حركة Neurodiversity".
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

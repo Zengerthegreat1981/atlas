@@ -10,10 +10,10 @@ dates: "1995 · دانيال ستيرن (بالتعاون مع المحررين)
 language: "الإنجليزية"
 active_start: 1995
 active_end: 1995
+original_language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "authored_by", target: "دانيال ستيرن", target_type: "مفكر"
 related:
 - id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
@@ -22,6 +22,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."
   - "المؤلف دانيال ستيرن (Daniel Stern) ليس له ملف مفكر مستقل في الأطلس بعد."
   - "الدور التحريري لـ Robert Beichler لم يُراجع من مصدر أولي."
+  - "تعارض في هوية المؤلف: العنوان الإنجليزي المسجل هنا يطابق حرفياً كتاب Jerome Bruner الشهير \"Acts of Meaning\" (Harvard University Press، 1990)، بينما الملف ينسب الكتاب لـ Daniel Stern (1995). لم أستطع التأكد أيهما الصحيح من مصدر أولي، فتُرك حقل author/author_slug/publication_year فارغاً لحين مراجعة تحريرية."
 ---
 
 # أفعال المعنى: علم النفس السردي للتجربة الإنسانية

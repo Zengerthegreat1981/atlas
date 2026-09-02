@@ -12,8 +12,7 @@ country: "الدولة البويهية، الصفوية، الجمهورية ا
 language: "العربية، الفارسية"
 active_start: 850
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
+cultural_origin: "islamic-arabic"
 related:
 - id: "sch-zaydi-kalam", title: "الكلام الزيدي", type: "مدرسة"
 - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
@@ -21,7 +20,7 @@ related:
 - id: "thk-fakhr-razi", title: "فخر الدين محمد بن عمر الرازي", type: "مفكر"
 gaps:
   - "التفريق بين المعتزلة البغداديين والشيعة الإمامية في فترة ما قبل ابن بابويه يحتاج تدقيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «الاعتقادات» للصدوق (وهو أوّل نص كلامي إمامي منظَّم)."
+  - "نص «الاعتقادات» للصدوق (وهو أوّل نص كلامي إمامي منظَّم) يحتاج مراجعة نسخة موثوقة قبل أي اقتباس حرفي."
 ---
 
 # الكلام الإمامي الاثنا عشري
@@ -66,3 +65,10 @@ gaps:
 - المرجع العقدي الأساسي للشيعة الاثني عشرية، وهم أكبر طائفة شيعية (إيران، العراق، لبنان، البحرين، أذربيجان، الباكستان، الهند).
 - جمعت بين ميراث المعتزلة (العدل) وميراث الفلاسفة (التأويل) وعلم الأصول.
 - تأثرت بشكل واضح بمدرسة إصفهان الفلسفية، وامتدادها إلى الجمهورية الإسلامية.
+
+## المصادر
+
+- Wilferd Madelung, "Imamism and Mu'tazilite Theology," in *Le Shi'isme Imamite* (Paris: PUF, 1970).
+- Hossein Modarressi, *Crisis and Consolidation in the Formative Period of Shi'ite Islam* (Princeton: Darwin Press, 1993).
+- Etan Kohlberg, *Belief and Law in Imami Shi'ism* (Aldershot: Variorum, 1991).
+- Sabine Schmidtke, *The Theology of al-'Allāma al-Ḥillī* (Berlin: Klaus Schwarz Verlag, 1991).

@@ -12,8 +12,7 @@ country: "هاييتي، جوادلوب، مارتينيك، ترينيداد"
 language: "الفرنسية، الكريولية، الإنجليزية"
 active_start: 1969
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
+cultural_origin: "latin-american"
 related:
 - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
 - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
@@ -54,3 +53,9 @@ gaps:
 
 - تواجه انتقادات بسبب التماثل بين الكاريبي كله (التنوع الداخلي).
 - تواجه انتقادات بسبب «التجميلي» للاختلاط.
+
+## المصادر
+
+- Glissant, Édouard. *Poétique de la Relation*. Gallimard, 1990.
+- Bernabé, Jean; Chamoiseau, Patrick; Confiant, Raphaël. *Éloge de la créolité*. Gallimard, 1989.
+- Glissant, Édouard. *Le Discours antillais*. Éditions du Seuil, 1981.

@@ -17,7 +17,6 @@ edges:
 related:
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
-- id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 gaps:
   - "مدى تأثره المباشر بكتب المعتزلة (أبو الهذيل، النظّام) يحتاج بحثاً نصياً."
   - "لا يوجد اقتباس مباشر موثوق من «الأمانات والعقائد» متاح."
@@ -41,3 +40,10 @@ gaps:
 - ترجمة وتفسير التوراة (ترجمة سعدية، Tafsir)
 - كتاب المنطق
 - نقائض حِير بن زليقة الأنور (نقاش ضد الكرامية)
+
+## المصادر
+
+- سعديا الفيومي (933). *الأمانات والعقائد* (Kitab al-Amanat wal-I'tiqadat)، ترجمة صموئيل روزنبلات بعنوان *The Book of Beliefs and Opinions*، Yale University Press، 1948.
+- Malter, H. (1921). *Saadia Gaon: His Life and Works*. Jewish Publication Society of America.
+- Stanford Encyclopedia of Philosophy — مدخل "Saadya [Saadiah] ben Joseph al-Fayyumi".
+- Encyclopaedia Judaica — مدخل "Saadiah Gaon".

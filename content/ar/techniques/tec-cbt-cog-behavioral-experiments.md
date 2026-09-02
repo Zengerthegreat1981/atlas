@@ -12,16 +12,17 @@ active_start: 1966
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "نسب التقنية إلى بكتون وآخرين (Becktom et al.) يستحق توثيقاً أعمق."
+  - "لا يوجد إسناد مباشر لأول من صاغ مصطلح «التجارب السلوكية» بصيغته المعرفية داخل بروتوكولات بيك المبكرة (1970s)؛ المرجع القياسي المُتداول هو Bennett-Levy et al., Oxford Guide to Behavioural Experiments in Cognitive Therapy (2004) ولم يُراجَع نصه الأصلي هنا."
+  - "لا توجد دراسة مفردة محددة بالاسم والسنة تقارن هذه التقنية بالتجربة السلوكية العامة (tec-cbt-beh-behavioral-experiments) من حيث الحجم الأثري؛ التمييز بينهما في المتن نظري لا تجريبي."
 ---
 
 # التجارب السلوكية لاختبار الأفكار

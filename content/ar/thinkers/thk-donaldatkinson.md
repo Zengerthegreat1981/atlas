@@ -3,14 +3,14 @@ slug: "thk-donaldatkinson"
 id: "THK-2606"
 type: "مفكر"
 level: "متقدم"
-title: "دونالد أتكينسون"
+title: "دونالد ر. أتكينسون"
 en: "Donald R. Atkinson"
 crumb: "الاستشارات متعددة الثقافات ← تطوير ← دونالد أتكينسون"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · 1940–2008"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1970
-active_end: 2010
+active_start: 1972
+active_end: 2002
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "الاستشارات متعددة الثقافات", target_type: "مدرسة"
@@ -19,8 +19,8 @@ related:
 - id: "thk-ptedeschi", title: "رافائيل تيدِسكي", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 gaps:
-  - "سنة الميلاد وسنة التوقف غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تم التحقق عبر ويكيبيديا وصحيفتي Santa Barbara Independent وMail Tribune (نعي 2008) من أنه وُلد في 10 فبراير 1940 وتوفي في 11 يناير 2008 بسانتا باربارا؛ عُيِّن في UCSB سنة 1972 وتقاعد أستاذاً فخرياً سنة 2002. نسخة المسودة السابقة (1940–2017) كانت خاطئة في سنة الوفاة."
 ---
 
 # دونالد أتكينسون

@@ -12,8 +12,7 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "البحث السردي ودراسات الهوية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"

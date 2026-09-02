@@ -12,18 +12,15 @@ active_start: 1994
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي البدني الداخلي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوّهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "التكليف المتدرّج بالمهام", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-sac-safe-place", title: "المكان الآمن", type: "تقنية/تدخل علاجي"
@@ -31,20 +28,27 @@ related:
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "متلازمة القلق الحاد", type: "متلازمة"
-- id: "syn-panic", title: "متلازمة الهلع", type: "متلازمة"
-- id: "syn-hypervigilance", title: "متلازمة اليقظة المفرطة", type: "متلازمة"
+- id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
+- id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 - id: "syn-insomnia", title: "متلازمة الأرق", type: "متلازمة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "القائمة الكاملة للحالات الطبية المُسبّبة للقلق في ICD-11 (الفئة 6B08 والمراجع) لم تُراجع تفصيلياً."
   - "العلاقة السببية بين الحالات الطبية (الغدة الدرقية، القلب، الجهاز العصبي) والقلق تحتاج مراجعة طبية متخصصة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب القلق بسبب حالة طبية أخرى
 
 اضطراب يتميز بأعراض قلقية شديدة (قلق مفرط، نوبات هلع، قلق جسدي مستمر) تنشأ كنتيجة مباشرة لآثار حالة طبية معروفة، ولا تُفسَّر بشكل أفضل باضطراب قلق مستقل أو باضطراب مُحفَّز بمواد. يجب أن يكون القلق سريرياً شديداً وأن يستحق انتباهاً مستقلاً عن الحالة الطبية الأساسية.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع «اضطراب/حالة إكلينيكية» في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. تحديد ما إذا كان قلق شخص بعينه ناتجاً فسيولوجياً عن حالة طبية يتطلب فحصاً سريرياً وتاريخاً مرضياً ونتائج مخبرية موثّقة، ولا يمكن استنتاجه من قراءة هذا الوصف.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب القلق بسبب حالة طبية أخرى كفئة تشخيصية سببية محدَّدة إجرائياً (علاقة فسيولوجية موثَّقة بين حالة طبية وأعراض قلق) وبين con-mind-body («مشكلة العقل والجسد») كسؤال فلسفي عن طبيعة العلاقة بين الحالات الذهنية والحالات الجسدية بوجه عام. الأول افتراض عملي إكلينيكي يفترض ضمناً سببية جسدية-ذهنية في حالة فردية دون الالتزام بأي حل فلسفي لمشكلة العقل والجسد، بينما الثاني سؤال ميتافيزيقي عام لا يُحسم بفحص طبي أو معيار تشخيصي.
 
 ## ملاحظات على المعايير التشخيصية
 

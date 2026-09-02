@@ -13,16 +13,12 @@ active_start: 1977
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
+- rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
 - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
 - id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
-- id: "thk-cwebster", title: "كريستوفر ويبستر", type: "مفكر"
 gaps:
-  - "السيرة الذاتية الكاملة في Columbia لم تُراجع مباشرة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
+  - "تفاصيل مسيرته المبكرة في هارفارد قبل الانتقال إلى Columbia تحتاج توثيقاً من سيرته الرسمية."
 ---
 
 # بول أبلباوم
@@ -48,3 +44,9 @@ gaps:
 
 ## القيد
 - **Tarasoff Warning** يثير توتراً مستمراً بين واجب السرية العلاجية وواجب التحذير من الخطر.
+
+## المصادر
+
+- Appelbaum, Paul S., and Thomas Grisso. "Assessing Patients' Capacities to Consent to Treatment." *New England Journal of Medicine* 319, no. 25 (1988): 1635–1638.
+- Appelbaum, Paul S. *Almost a Revolution: Mental Health Law and the Limits of Change*. New York: Oxford University Press, 1994.
+- Columbia University Department of Psychiatry — صفحة السيرة الأكاديمية الرسمية لبول أبلباوم.

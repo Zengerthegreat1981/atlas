@@ -12,15 +12,13 @@ active_start: 1963
 active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← وليام ريتشاردز"
-edges:
-- rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-mmithoefer", title: "مايكل ميثوفير", type: "مفكر"
+- id: "thk-mmithoefer", title: "مايكل ميثوفير (نفس مايكل ميثوفر)", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
-- id: "thk-rmritchie", title: "رالف ميتزner", type: "مفكر"
+- id: "thk-rmritchie", title: "رالف ميتزنر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # وليام ريتشاردز
@@ -39,9 +37,10 @@ gaps:
 
 ## أهم أعماله
 
-- *Sacred Knowledge* (2015).
+- *Sacred Knowledge: Psychedelics and Religious Experiences* (2015).
 - *Psychedelic Intersections* (محرر، 2023).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Richards, W. A. (2015). *Sacred Knowledge: Psychedelics and Religious Experiences*. Columbia University Press.
+- Johns Hopkins Center for Psychedelic and Consciousness Research — الصفحة الرسمية.

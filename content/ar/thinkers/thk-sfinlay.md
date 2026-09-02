@@ -2,41 +2,57 @@
 slug: "thk-sfinlay"
 id: "THK-0369"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "ستيفن فينلاي"
 en: "Steven Finlay"
-crumb: "المدرسة الوجودية ← الناس ← ستيفن فينلاي"
 dates: "بريطانيا · معاصر"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
+part: "philosophy"
+crumb: "المدرسة الوجودية ← تطوير ← ستيفن فينلاي"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-british-existential", type: "تيار"
 related:
-- id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+- id: "br-british-existential", type: "تيار", title: "الوجودي-الظاهراتي البريطاني"
+- id: "thk-evandeurzen", type: "مفكر", title: "إيريكا فان دورزن"
+- id: "thk-mcooper", type: "مفكر", title: "مايك كوبر"
+- id: "con-authenticity", type: "مفهوم", title: "الأصالة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "التوثيق البيوغرافي والأكاديمي الدقيق ومؤلفاته الإكلينيكية تتطلب فحصاً في أرشيف الجمعية البريطانية للعلاج الوجودي (SEA)."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Steven Finlay' في SEA (Society of Existential Analysis) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Steven Finlay' (ممارس PCA — Predictive Customer Analytics، في المبيعات والتسويق، حقل مختلف تماماً) أو 'Steven Finlay' (أكاديمي في علوم الكمبيوتر)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'SEA' عام."
 ---
 
 # ستيفن فينلاي
 
-معالج نفسي وظاهراتي بريطاني معاصر، من المساهمين في تدريس وتطوير الممارسة الإكلينيكية الفينومينولوجية في بريطانيا.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في العلاج الوجودي البريطاني]
 
-## ما أعطاه
+## محاولة التوثيق
 
-ساهم في تعميق الرؤية الفينومينولوجية في الإرشاد والعلاج النفسي، والتركيز على الإنصات الفينومينولوجي غير المشروط للتجربة الذاتية للعميل، واستكشاف التحديات الوجودية في الحياة اليومية.
+- **الاسم المُسجَّل**: Steven Finlay.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **SEA (Society of Existential Analysis)**: لا عضوية.
+  - **BACP (British Association for Counselling and Psychotherapy)**: لا نتائج.
+  - **Sage Pub (Journal of Phenomenological Psychology)**: لا مقالة.
 
-## موقعه من التيار
+## السبب المحتمل للإدراج
 
-ينتمي إلى التيار الوجودي-الفينومينولوجي البريطاني المعاصر النشط في الجمعية البريطانية للعلاج الوجودي والتحليل الفينومينولوجي.
+- احتمال **الخلط** مع:
+  - **Steven Finlay** (ممارس PCA — Predictive Customer Analytics، في المبيعات والتسويق).
+  - **Steven Finlay** (أكاديمي في علوم الكمبيوتر، حقل مختلف).
+  - **Steven Finlay** (معالج نفسي في Cambridge، في NHS).
 
-## القيد
-تركز نشاطه في التدريب والإشراف الإكلينيكي والمقالات المتفرقة يجعل إنتاجه النظري المستقل في الكتب محدوداً.
+## ما يحتاجه هذا العنصر
 
-## أهم أعماله
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-مقالات وأوراق بحثية في الدوريات البريطانية للعلاج النفسي والتحليل الوجودي.
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - van Deurzen, E. & Adams, M. (2016). *Skills in Existential Counselling*. Sage.
+  - Cooper, M. (2016). *Existential Therapies*. Sage.
+  - Spinelli, E. (2014). *Practising Existential Psychotherapy*. Sage.

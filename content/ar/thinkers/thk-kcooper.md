@@ -13,7 +13,7 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-circle-of-security", target_type: "تقنية"
 related:
 - id: "thk-rmarvin", title: "روبرت مارفن", type: "مفكر"
 - id: "thk-bpowell", title: "برت باول", type: "مفكر"

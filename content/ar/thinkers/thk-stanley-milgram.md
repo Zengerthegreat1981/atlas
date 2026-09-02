@@ -26,7 +26,6 @@ related:
 - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
 gaps:
   - "تفاصيل نشأته في نيويورك قبل دراسته الجامعية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ستانلي ميلغرام
@@ -61,9 +60,11 @@ gaps:
 - **درجات التباعد الست (Six Degrees of Separation)** — مع ترافِرس.
 - **الحلقة السادسة من تجارب الانصياع** (Six Conditions of Obedience).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Milgram, S. (1963). "Behavioral Study of Obedience." *Journal of Abnormal and Social Psychology*, 67(4), 371–378.
+- Milgram, S. (1974). *Obedience to Authority: An Experimental View*. Harper & Row.
+- Milgram, S., & Travers, J. (1969). "An Experimental Study of the Small World Problem." *Sociometry*, 32(4), 425–443.
 
 ## القيد
 ميلغرام شخصية محورية داخل علم النفس الاجتماعي التجريبي الأكاديمي؛ ولا تُذكر هنا إلا في سياقه العلمي الأصلي، لا ضمن تيارات الشعبية المعاصرة.

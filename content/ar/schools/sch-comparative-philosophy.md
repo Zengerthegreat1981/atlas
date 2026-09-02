@@ -10,6 +10,7 @@ crumb: "الفلسفة ← المقارنة والعابرة ← الفلسفة 
 dates: "عالمية · من 1920s إلى اليوم"
 country: "متعددة"
 language: "متعددة"
+cultural_origin: "european"
 active_start: 1924
 active_end: "مستمر"
 edges:
@@ -60,3 +61,10 @@ gaps:
 
 - تواجه انتقادات بسبب «الشمولية» (Universalism).
 - تواجه انتقادات بسبب Eurocentrism أحياناً.
+
+## المصادر
+
+- Masson-Oursel, Paul. *La philosophie comparée*. Félix Alcan, 1924.
+- Chan, Wing-tsit. *A Source Book in Chinese Philosophy*. Princeton University Press, 1963.
+- Graham, A.C. *Disputers of the Tao: Philosophical Argument in Ancient China*. Open Court, 1989.
+- Rosemont, Henry Jr. *A Chinese Mirror: Moral Reflections on Political Economy and Society*. Open Court, 1991.

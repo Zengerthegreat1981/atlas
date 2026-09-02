@@ -13,13 +13,14 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "تيار"
 related:
 - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "edges.belongs_to كان نصاً حراً بدل slug حقيقي؛ صُحِّح إلى br-expressive-arts-therapy المطابق لعنصر related الموجود بالفعل."
 ---
 
 # إيلين ليفين

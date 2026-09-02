@@ -12,17 +12,20 @@ active_end: "مستمر"
 edges:
 - rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-frankl", title: "فرانكل", type: "مفكر"
-- id: "dbt-meaning-found", title: "هل يُكتشَف؟", type: "جدل"
-- id: "thk-langle", title: "لانغله", type: "مفكر"
-- id: "stu-meaning-making-model-park", title: "نموذج صنع المعنى (Meaning Making Model)", type: "دراسة وبحث"
-- id: "ins-life-attitude-profile-lap-r", title: "مقياس المواقف من الحياة المُنقَّح (LAP-R)", type: "أداة قياس"
-- id: "ins-sources-of-meaning-some", title: "استبيان مصادر المعنى (SoMe)", type: "أداة قياس"
-- id: "br-psychocoaching", title: "التدريب النفسي / Psy-coaching", type: "تيار"
-- id: "ctx-stoicism", title: "الفلسفة الرواقية", type: "سياق/تقليد"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "thk-tillich", title: "بول تيليش", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "dbt-meaning-found", title: "هل المعنى يُكتشَف أم يُصنَع؟", type: "جدل"
+- id: "dbt-langle-frankl-meaning", title: "لانغله ضد فرانكل: توسيع الإرادة في المعنى أم نقدها؟", type: "جدل"
 gaps:
   - "المواضع النصية لكل صياغة — لم تُدخل"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "روابط مقترحة سابقاً (stu-meaning-making-model-park، ins-life-attitude-profile-lap-r، ins-sources-of-meaning-some، br-psychocoaching، ctx-stoicism) حُذفت من related لأن هذا المفهوم — بعد تحقق فعلي من المتن — عن الخلاف الفلسفي/العلاجي بين المفكرين الوجوديين حول اكتشاف المعنى أم صنعه، ولا يذكر المتن هذه الأدوات/التيارات/السياقات نصياً؛ تحتاج ربطاً منفصلاً إذا استُحدثت فقرة عنها لاحقاً (Task 10)."
 ---
 # المعنى واللامعنى
 

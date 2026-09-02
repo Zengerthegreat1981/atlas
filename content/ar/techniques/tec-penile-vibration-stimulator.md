@@ -12,10 +12,11 @@ active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
@@ -63,6 +64,6 @@ gaps:
 ## نقد
 
 - أقل فعالية عند الرجال الذين يعانون من إصابات منخفضة المستوى (تحت T10).
-- لا يعالج الأسباب النفسية لتأخر القذف (قلق، صراعات نفسية).
+- لا يعالج الأسباب النفسية لتأخر القذف (قلق، صراعات نفسية) — للحالات ذات المنشأ النفسي يُفضَّل التركيز الحسي (tec-sensate-focus)، وهو تقنية منافسة ضمن نفس تيار العلاج الجنسي (br-sex-therapy) تعمل بالتدرج السلوكي بدل التحفيز الميكانيكي المباشر.
 - استخدام ميكانيكي بحت قد يخلق "اعتماداً" على الجهاز في بعض الحالات.
 - تكلفة الجهاز مرتفعة نسبياً (500-2000 دولار).

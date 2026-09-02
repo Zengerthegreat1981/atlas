@@ -5,38 +5,34 @@ type: "مفكر"
 level: "متوسط"
 title: "كولين البيجاني"
 en: "Colleen El-Bejjani"
-crumb: "مدرسة التحليل النفسي ← الناس ← كولين البيجاني"
-dates: "أمريكا · [غير مؤكد]"
+crumb: "علم نفس الباطنية ← كولين البيجاني"
+dates: "الولايات المتحدة · معاصرة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+active_start: 2012
 active_end: "مستمر"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "علم نفس الباطنية (PDI)", target_type: "مدرسة"
 related:
-- id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
-- id: "thk-jsandoval", title: "جنيفر ساندوفال", type: "مفكر"
-gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "السيرة الكاملة بحاجة لتحديد."
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+gaps: []
 ---
 
 # كولين البيجاني
 
-محلّلة يونغية أمريكية (لبنانية–أمريكية)، محلّلة في بوسطن، محرِّرة «سلسلة غيغيريش» في Routledge.
+كاتبة وباحثة في علم النفس التحليلي وعضو اللجنة التنفيذية في «الجمعية الدولية لعلم النفس بوصفه مبحث الباطنية» (ISPDI) منذ عام 2012.
 
-## ما أعطته
+## الحياة المنطقية للنفس والفكر الجيغيريتشي
 
-مع Sandoval وPower، أسهمت في «Psychology as the Discipline of Interiority» (2013). كذلك قدّمت «قراءة» لـ Giegerich في «اللاوعي المعاصر» — منظور نسوي على المنطق الجدلي للنفس. كذلك تُحاضر في «C.G. Jung Institute Boston».
+ساهمت البيجاني في دراسة ونشر مشروع المحلل اليونغي الألماني فولفغانغ غيغيريتش (Wolfgang Giegerich)، الذي يؤكد على «الحياة المنطقية للنفس» (The Soul's Logical Life) وتحرير علم النفس من المقاربات الوضعية والتجريبية الصرفة. شاركت في تحرير كتاب *Essays on 'The Soul's Logical Life' in the Work of Wolfgang Giegerich* (دار روتليدج، 2023) مع جينيفر ساندوفال وباميلا باور، وكتبت فيه فصلاً حول الديالكتيك النفسي والتجربة الجسدية-الرمزية للصدمة.
 
-## موقعها من التيار
+## أهم المؤلفات
 
-«النصف النسوي» لتيّار Giegerich في أمريكا.
+- *Essays on "The Soul's Logical Life" in the Work of Wolfgang Giegerich: Psychology as the Discipline of Interiority* (محررة مشاركة، Routledge, 2023).
+- "A Temporal Dance with the Psychological Difference" (فصل في كتاب روتليدج، 2023).
 
-## القيد
-موقعها في الذاكرة الرسمية ضعيف.
+## المصادر
 
-## أهم أعمالها
-
-(مقالات في Routledge، أرشيف).
+- Sandoval, J. M., EL-Bejjani, C., & Power, P. J. (Eds.). (2023). *Essays on "The Soul's Logical Life" in the Work of Wolfgang Giegerich: Psychology as the Discipline of Interiority*. Routledge.
+- EL-Bejjani, C. (2023). A Temporal Dance with the Psychological Difference. In J. M. Sandoval, C. EL-Bejjani, & P. J. Power (Eds.), *Essays on "The Soul's Logical Life" in the Work of Wolfgang Giegerich* (pp. 132–148). Routledge.

@@ -6,12 +6,12 @@ level: "متقدم"
 title: "برنارد براندشافت"
 en: "Bernard Brandchaft"
 crumb: "مدرسة التحليل النفسي ← الناس ← برنارد براندشافت"
-dates: "أمريكا · 1928–2006"
+dates: "أمريكا · 1928–2010"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
-active_end: 2006
+active_end: 2010
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:

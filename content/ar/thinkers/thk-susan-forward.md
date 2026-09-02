@@ -13,15 +13,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: 2020
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعلاج الأسري", target_type: "مدرسة"
+edges: []
 related:
-- id: "wrk-toxic-parents", title: "الآباء السامون", type: "عمل / كتاب"
-- id: "wrk-emotional-blackmail", title: "الابتزاز العاطفي", type: "عمل / كتاب"
-- id: "con-emotional-blackmail", title: "الابتزاز العاطفي", type: "مفهوم"
+- id: "wrk-toxic-parents", title: "الآباء السامون: التغلب على إرثهم المؤلم واستعادة حياتك", type: "عمل / كتاب"
+- id: "wrk-emotional-blackmail", title: "الابتزاز العاطفي: عندما يستغل المحبون الخوف والالتزام والشعور بالذنب للسيطرة عليك", type: "عمل / كتاب"
+- id: "con-emotional-blackmail", title: "الابتزاز العاطفي وثالوث الضباب (FOG: الخوف والالتزام والذنب)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر في الأطلس على ملف مدرسة (sch-) مطابق لعملها؛ يلزم تسجيله في missing-schools.md قبل ربط belongs_to."
 ---
 
 # سوزان فوروارد
@@ -54,7 +53,3 @@ gaps:
 - *Obsessive Love* (1991).
 - *Emotional Blackmail* (1997).
 - *Mothers Who Can't Love* (2013).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

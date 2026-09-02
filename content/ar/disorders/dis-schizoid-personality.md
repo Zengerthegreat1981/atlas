@@ -12,9 +12,6 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
@@ -26,33 +23,41 @@ related:
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة المُمتعة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "تبنّي المنظور", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-observe", title: "الملاحظة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-participate", title: "المشاركة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-labeling-emotions", title: "تسمية المشاعر", type: "تقنية/تدخل علاجي"
 - id: "syn-emotional-numbing", title: "الخمول الانفعالي", type: "متلازمة"
 - id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
+- id: "con-loneliness-solitude", title: "الوحدة القسرية مقابل العزلة الاختيارية", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة للنموذج البُعدي لـ ICD-11 في SzPD (سمة Detachment) لم تُراجع من المصدر الأولي."
   - "التداخل بين SzPD والتوحد/Asperger في الأدبيات الحديثة (التشابه الظاهري مقابل الفوارق الجوهرية) لم يُوثَّق بدقة."
   - "الفاعلية النسبية للعلاجات النفسية لـ SzPD (الأدلة محدودة) لم تُقارَن من مصدر أولي."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الشخصية الفصامية
 
 اضطراب شخصية يتميز بنمط منتشر من الانفصال عن العلاقات الاجتماعية، ومدى محدود من التعبير الانفعالي في المواقف التفاعلية. يختلف عن اضطراب الشخصية شبه الفصامية (Schizotypal) في غياب السلوكيات المعرفية والإدراكية الغريبة. يقع تحت Cluster A (الغريب/شبه الذهاني) في DSM-5-TR.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'اضطراب/حالة إكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11 دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الشخصية الفصامية (SzPD) كنمط سريري ثابت من الانسحاب الاجتماعي غير الاختياري، وبين 'العزلة الاختيارية' (con-loneliness-solitude) كما تُطرح في الأدبيات الوجودية — الأخيرة قدرة إيجابية على اختيار الانفراد دون معاناة، بينما SzPD نمط شخصية تصنيفي ثابت لا يتضمن بالضرورة قدرة على التحول بين العزلة والاتصال بحسب الإرادة.
 
 ## ملاحظات على المعايير التشخيصية
 

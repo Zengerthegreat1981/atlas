@@ -14,13 +14,11 @@ active_start: 1815
 active_end: 1833
 edges:
 - rel: "belongs_to", target: "sch-brahmo-samaj", target_type: "مدرسة"
-- rel: "founded", target: "براهمو ساماج", target_type: "مدرسة"
 related:
 - id: "sch-brahmo-samaj", title: "براهمو ساماج", type: "مدرسة"
 - id: "thk-dayananda", title: "سوامي دياناندا ساراسواتي", type: "مفكر"
 gaps:
   - "مراسلاته مع 'Utilitarian Society' في لندن لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق من 'A Gift to Monotheists' بعد."
 ---
 
 # رام موهان روي
@@ -57,7 +55,7 @@ gaps:
 
 ## الأثر
 
-- **كيشوب تشاندرا** (Keshub Chunder Sen، 1838-1884): أعاد **تحويل** براهمو ساماج.
+- **كيشوب تشاندرا** (Keshub Chunder Sen، بعد وفاته، 1838-1884): أعاد **تحويل** براهمو ساماج.
 - **سوامي دياناندا ساراسواتي** (Dayananda Saraswati): أسّس **آريا ساماج** استجابةً لـ **براهمو ساماج**.
 - **مهاتما غاندي** و**نيلسون مانديلا** و**مارتن لوثر كينغ** استلهموا روي.
 - **الصحافة الهندية**: **Bengal Gazette** (1780) أوّل جريدة، و**Sambad Kaumudi** (1821) لـ روي.
@@ -68,4 +66,10 @@ gaps:
 - **The Precepts of Jesus** (1820): تعاليم يسوع.
 - **Sambad Kaumudi** (مجلة، 1821): منبر الحقيقة.
 - **Brahmo Samaj Manifesto** (1828).
-- **The English Works of Raja Rammohun Roy** (14 مجلد، 1901-1914): الأعمال الإنجليزية.
+- **The English Works of Raja Rammohun Roy** (14 مجلد، صدرت بعد وفاته، 1901-1914): الأعمال الإنجليزية.
+
+## المصادر
+
+- Robertson, Bruce Carlisle. *Raja Rammohan Ray: The Father of Modern India*. Oxford University Press, 1995.
+- Killingley, Dermot. *Rammohun Roy in Hindu and Christian Tradition*. Grevatt & Grevatt, 1993.
+- Zastoupil, Lynn. *Rammohun Roy and the Making of Victorian Britain*. Palgrave Macmillan, 2010.

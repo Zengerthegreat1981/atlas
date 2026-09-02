@@ -12,21 +12,19 @@ country: "الولايات المتحدة (بنسلفانيا، ميشيغان)"
 language: "الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-developmental", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-social-psychology", target_type: "مدرسة"
-- rel: "split_into", target: "علم النفس الإيجابي العابر للثقافات", target_type: "تيار"
-- rel: "split_into", target: "العلاج بالفضائل والقوة", target_type: "تيار"
-- rel: "split_into", target: "علم نفس الرفاهية (Well-Being)", target_type: "تيار"
 related:
 - id: "exp-stephen-hawking-als-diagnosis", title: "تشخيص ستيفن هوكينغ بالتصلب الجانبي في سن 21 وتحدي الفناء", type: "خبرة معيشة"
 - id: "exp-nelson-mandela-inauguration-forgiveness", title: "لحظة تنصيب مانديلا رئيساً ودعوة سجانه لحضور الحفل", type: "خبرة معيشة"
 - id: "exp-helen-keller-water-pump-breakthrough", title: "لحظة هيلين كيلر عند مضخة الماء مع آن سوليفان وميلاد الوعي باللغة", type: "خبرة معيشة"
 - id: "exp-ernest-shackleton-endurance-survival", title: "ملحمة شاكلتون وسفينة إندورانس والنجاة في جليد القطب الجنوبي", type: "خبرة معيشة"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
-- id: "thk-crsnyder", title: "تشارلز سنايدر", type: "مفكر"
-- id: "thk-dsaleeby", title: "دونالد سالييبي", type: "مفكر"
+- id: "thk-crsnyder", title: "تشارلز ريتشارد سنايدر", type: "مفكر"
+- id: "thk-dsaleeby", title: "دينس ساليبي", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "br-positive-psychology", title: "علم النفس الإيجابي (تيار)", type: "تيار"
@@ -74,7 +72,7 @@ related:
 - id: "thk-ptedeschi", title: "رافائيل تيدِسكي", type: "مفكر"
 - id: "thk-rhassan", title: "رفة حسن", type: "مفكر"
 - id: "thk-robertfritz", title: "روبرت فريتز", type: "مفكر"
-- id: "thk-seyberg", title: "ستيفن إيبِرغ", type: "مفكر"
+- id: "thk-seyberg", title: "شيلا إيبِرغ", type: "مفكر"
 - id: "thk-sross", title: "ستيفن روس", type: "مفكر"
 - id: "thk-sshaikh", title: "سعدية شيخ", type: "مفكر"
 - id: "thk-tsexton", title: "توني سيكستون", type: "مفكر"
@@ -123,8 +121,7 @@ related:
 gaps:
   - "رابط مقترح لـ«نصو بيسشيكيان» (thk-peseschkian) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الجذور التاريخية لعلم النفس الإيجابي قبل Seligman (Maslow، Erikson، Rogers، Jahoda 1958) موثّقة لكن لم تُحلّل في هذا الملف."
-  - "نقد 'الحركة الإيجابية' (Barbara Ehrenreich، *Bright-Sided*، 2009) في السياق الأكاديمي الموثّق."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "استقبال نقد Ehrenreich أكاديمياً (مؤيدون ومعارضون بالاسم) لم يُوثَّق بعد في هذا الملف."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رامشاران شارما (thk-rsharma)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات ديغان (thk-patdeegan)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت إيميري (thk-robert-emery)."
@@ -177,7 +174,7 @@ gaps:
 - **تشارلز سنايدر** (1944-): نظرية الأمل.
 - **باربرا فريدريكسون** (1964-): *Broaden-and-Build* (توسيع المشاعر الإيجابية يبني الموارد).
 - **ديفيد ليكر** (1944-): الحياة الجيدة، التقدم نحو الأهداف.
-- **دونالد سالييبي** (1954-): العلاج القائم على القوة (Solution-Focused Brief Therapy).
+- **دينس ساليبي**: العلاج القائم على القوة (Strengths-Based Practice).
 - **إدوارد ديكي** (1944-): العافية الكاملة.
 - **كارول راف** (1949-): النموذج السداسي للصحة النفسية الإيجابية.
 - **أمجد عبد الخالق** (1947-): علم النفس الإيجابي الإسلامي.
@@ -224,7 +221,7 @@ gaps:
 - **التطبيق التجاري**: تأثرت بـ«الصناعة الإيجابية» (كتب Self-Help، تطبيقاتها).
 - **إشكاليات منهجية**: في بعض الدراسات المبكرة (إعادة تحليل 2010s).
 
-## المرجع الموصى
+## المصادر
 
 - Seligman, M. E. P. (1991). *Learned Optimism*. Knopf.
 - Seligman, M. E. P. (2002). *Authentic Happiness*. Free Press.

@@ -2,44 +2,45 @@
 slug: "thk-teruo-ohta"
 id: "THK-2784"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "تيرو أوتا"
 en: "Teruo Ohta"
 crumb: "علاج نايكان ← تطوير ← تيرو أوتا"
-dates: "اليابان · [DRAFT-UNKNOWN]"
+dates: "اليابان"
 country: "اليابان"
 language: "اليابانية"
-active_start: 1970
-active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "علاج نايكان", target_type: "مدرسة"
-related:
-- id: "thk-yishin", title: "يوشيموتو إيشين", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Teruo Ohta كمعالج/منظّر في نايكان في قواعد البيانات اليابانية (J-STAGE وCiNii وJapan Naikan Counseling Association وNaikan Research Society). النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-teruo-ohta.md.archived.2026-08-27"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # تيرو أوتا
 
-معالج ياباني من الجيل الذي طوّر **تطبيقات علاج نايكان** في السياق الأسري الياباني المعاصر.
+(Teruo Ohta)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-teruo-ohta.md.archived.2026-08-27`
 
-- مساهمات في **تكييف النايكان** مع الحياة الأسرية الحضرية في اليابان الحديثة.
-- أبحاث عن **تأثير النايكان على العلاقات الزوجية** وإعادة بناء الوصال بين الأزواج.
-- تطوير **مواد تدريبية** للمعالجين المبتدئين.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-يمثّل أوتا **الحلقة الجيلية الثالثة** في علاج نايكان، حيث ينقل النموذج من كبار السن في المعابد إلى **جيل جديد** من الممارسين في المدن اليابانية.
+الملف الأصلي كان بصيغة "محاولة توثيق" تعترف صراحة بعدم وجود أي أثر لهذا الاسم في قواعد بيانات العلاج الياباني (J-STAGE، CiNii، Japan Naikan Counseling Association، Naikan Research Society)، مع احتمال خلط مع شخصيات أخرى تحمل أسماء مشابهة (Teruo Ueda، Osamu Noda). هذا نمط الاعتراف الصريح بعدم التوثيق المستقل الذي تقتضي القاعدة 11 حسمه بحجر.
 
-## أهم أعماله
+## للمتابعة
 
-- مساهمات في كتب عن نايكان والعلاقات الأسرية.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-teruo-ohta.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-teruo-ohta.md.archived.2026-08-27`

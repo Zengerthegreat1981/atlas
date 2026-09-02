@@ -12,6 +12,7 @@ active_start: 1963
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
@@ -20,9 +21,7 @@ related:
 - id: "tec-cbt-beh-role-playing", title: "تمثيل الأدوار", type: "تقنية/تدخل علاجي"
 - id: "dis-bulimia-nervosa", title: "النهام العصبي (بوليميا)", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "التمييز الدقيق بين التجارب السلوكية الكلاسيكية (Watson & Rayner) والتجارب السلوكية المعرفية يحتاج توثيقاً أعمق."
+  - "تاريخ نشأة التقنية بالاسم داخل أدبيات CBT (أول من صاغ المصطلح تحديداً بصيغته الحالية) غير موثق هنا بمصدر أولي؛ المصدر المرجعي أدناه (Bennett-Levy et al., 2004) هو أول تقنين منهجي شامل لها لا نقطة نشأتها."
 ---
 
 # التجارب السلوكية
@@ -56,3 +55,7 @@ gaps:
 - **الاستنتاجات الخاطئة**: قد يعمم العميل من تجربة واحدة، أو يُسيء تفسير النتيجة.
 - **الاستخدام المبكر**: تحتاج لحد أدنى من الألفة العلاجية والمهارات المعرفية.
 - **الإغراء بالاستنتاج التلقائي**: بعض العملاء يبحثون فقط عن أدلة تؤيد معتقدهم الأصلي.
+
+## المصادر
+
+- Bennett-Levy, J., Butler, G., Fennell, M., Hackmann, A., Mueller, M., & Westbrook, D. (2004). *Oxford Guide to Behavioural Experiments in Cognitive Therapy*. Oxford University Press.

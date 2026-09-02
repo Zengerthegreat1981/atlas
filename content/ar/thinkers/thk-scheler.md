@@ -8,7 +8,7 @@ en: "Max Scheler"
 crumb: "المدرسة الوجودية ← الناس ← ماكس شيلر"
 dates: "ألمانيا · 1874–1928"
 active_start: 1913
-active_end: 1916
+active_end: 1928
 country: "ألمانيا"
 language: "الألمانية"
 part: "philosophy"
@@ -23,8 +23,6 @@ related:
 - id: "thk-hartmann", title: "نيكولاي هارتمان", type: "مفكر"
 gaps:
   - "لم يُراجع بعد من نسخة أصلية مباشرة (طبيعة التعاطف، 1913 · صياغة القيمة الأخلاقية، 1916)."
-  - "أُضيف بعد ملاحظة المستخدم إن اسمه مذكور في «خط تطوّر المدرسة» من غير رابط فعلي."
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
 ---
 
 # ماكس شيلر
@@ -45,3 +43,9 @@ gaps:
 ## أهم أعماله
 
 طبيعة التعاطف (Wesen und Formen der Sympathie, 1913) · صياغة القيمة الأخلاقية الشكلية والأخلاق المادية للقيم (Der Formalismus in der Ethik und die materiale Wertethik, 1916).
+
+## المصادر
+
+- Scheler, Max. *Der Formalismus in der Ethik und die materiale Wertethik*. Max Niemeyer, 1916؛ ترجمة إنجليزية *Formalism in Ethics and Non-Formal Ethics of Values*، Northwestern University Press, 1973.
+- Scheler, Max. *Wesen und Formen der Sympathie*. Cohen, 1923 [1913]؛ ترجمة إنجليزية *The Nature of Sympathy*، Routledge & Kegan Paul, 1954.
+- Stanford Encyclopedia of Philosophy, "Max Scheler".

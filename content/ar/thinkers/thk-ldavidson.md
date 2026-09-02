@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الدعم النظير", target_type: "تيار"
+- rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
 - id: "br-peer-support", title: "الدعم النظير", type: "تيار"
 - id: "thk-jchamberlin", title: "جودي تشامبرلين", type: "مفكر"

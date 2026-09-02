@@ -28,7 +28,6 @@ related:
 - id: "dbt-nishida-vs-tanabe", title: "نيشيدا ضد تانابه: الذات المطلقة أم المنطق التَفارقى؟", type: "جدل"
 - id: "ctx-kyoto-school-zen-modernity", title: "مدرسة كيوتو وتلاقي الزن البوذي مع الفلسفة القارية", type: "سياق/تقليد"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "منطق المكان (Logic of Basho) والتجربة المحضة (Pure Experience) يستحقان توثيقاً مفاهيمياً."
 ---
 
@@ -50,3 +49,9 @@ gaps:
 ## أهم أعماله
 
 بحث في الخير (An Inquiry into the Good / Zen no kenkyū, 1911) · من الفاعل إلى الرائي (From the Acting to the Seeing, 1927) · المنطق والمكان (The Logic of Place, 1945).
+
+## المصادر
+
+- Nishida, K. (1990 [1911]). *An Inquiry into the Good* (M. Abe & C. Ives, Trans.). Yale University Press.
+- Heisig, J. W., Kasulis, T. P., & Maraldo, J. C. (Eds.) (2011). *Japanese Philosophy: A Sourcebook*. University of Hawaiʻi Press.
+- Maraldo, J. C. (2019). "Nishida Kitarō." *Stanford Encyclopedia of Philosophy*.

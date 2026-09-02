@@ -12,14 +12,14 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
-- id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
-- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
+- id: "con-schema", title: "المخطط المعرفي", type: "مفهوم"
+- id: "con-thought-record", title: "سجلّ الأفكار (Thought Record)", type: "مفهوم"
 gaps:
   - "التمييز الدقيق بين الأفكار التلقائية والمعتقدات الأساسية."
-  - "دور الأفكار التلقائية في نموذج بيك ثلاثي الطبقات (أفكار تلقائية ← معتقدات وسيطة ← مخططات)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "دور الأفكار التلقائية في نموذج بيك ثلاثي الطبقات (أفكار تلقائية ← معتقدات وسيطة ← مخططات) — المتن يذكر الطبقات الثلاث لكن دون تتبع نصي دقيق لمصدرها عند بيك."
 ---
 
 # الأفكار التلقائية

@@ -63,4 +63,10 @@ gaps:
 
 ## الأثر
 
-أثر بُبَر على فلسفة الحوار (Levinas، Theunissen)، وعلى علم النفس بين-الشخصي (Buber في اجتماع فيكينلاند، 1957).
+أثر بُبَر على فلسفة الحوار عند إيمانويل ليفيناس، وعلى علم النفس الإنساني عبر حواره الشهير مع كارل روجرز في جامعة ميشيغان عام 1957 حول طبيعة العلاقة العلاجية.
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Martin Buber."
+- Buber, M. *Ich und Du*. Insel Verlag, 1923 (ترجمة إنجليزية: *I and Thou*, Scribner, 1937).
+- Encyclopaedia Britannica, "Martin Buber."

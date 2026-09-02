@@ -13,9 +13,9 @@ active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
-- id: "thk-rdrake", title: "روبرت دريك", type: "مفكر"
+- id: "thk-rdrake", title: "روبرت إي. دريك", type: "مفكر"
 - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."

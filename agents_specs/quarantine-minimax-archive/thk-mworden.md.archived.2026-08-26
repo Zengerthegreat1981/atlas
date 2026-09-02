@@ -1,0 +1,59 @@
+---
+slug: "thk-mworden"
+id: "THK-0613"
+type: "مفكر"
+level: "مبتدئ"
+title: "مارك ووردن"
+en: "Mark Worden"
+dates: "[DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+part: "philosophy"
+crumb: "علاج إيماغو العلائقي ← الناس ← مارك ووردن"
+edges:
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
+related:
+- id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
+- id: "thk-hlhunt", title: "هيلين لاكيلي هانت", type: "مفكر"
+- id: "thk-bdrahausworden", type: "مفكر", title: "باربرا دراهوس ووردن"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Mark Worden' في Imago Relationships International."
+  - "لا كتاب منشور لـ 'Mark Worden' في Amazon أو WorldCat (حتى آب 2026) في موضوع Imago."
+  - "الكتب المشار إليها في الـfrontmatter: 'The Gender Dance in Couples Therapy' (1998) مؤلفها الفعلي Barbara Drahgus-Worden (المعالجة الزوجية المعتمدة) — لا توجد بصمة لـ 'Mark'."
+  - "الاحتمال الأقوى: الاسم أُخطئ في الإدراج، أو خُلط مع شخص آخر في الميدان."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح اسم، أو دمج في ملف 'Imago Educators' عام."
+---
+
+# مارك ووردن
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر كشخصية مستقلة في حقل Imago]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Mark Worden — بدون اسم أوسط.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **ITI**: لا توجد سيرة لـ "Mark Worden" في Imago Relationships International.
+  - **WorldCat / Library of Congress**: لا كتاب منشور لـ "Mark Worden" في موضوع Imago.
+  - **Amazon**: لا كتاب منشور.
+  - **APA PsycINFO**: لا مقالة منشورة.
+  - **Google Scholar**: لا نتائج ذات صلة.
+
+## اكتشاف مهم
+
+- **«The Gender Dance in Couples Therapy»** (1998)، الكتاب المشار إليه في frontmatter، مؤلفه الفعلي هو **Barbara Drahgus-Worden** (المعالجة الزوجية المعتمدة في Imago Therapy)، وليس «Mark Worden».
+- **«Raising an Emotionally Intelligent Child»** هو كتاب **John Gottman**، لا علاقة له بـ Worden.
+- وجود اسم «Mark Worden» في الـfrontmatter ربما نشأ من **خطأ إملائي** في حقل title/en.
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: دمجه في ملف `thk-bdrahausworden` (المعالجة الزوجية الفعلية).
+- **أو**: الحجر في `quarantine-minimax.md` لأن الاسم المُسجَّل غير موثَّق.
+
+## المصادر
+
+- لا توجد مصادر موثّقة لـ "Mark Worden" في حقل Imago.
+- للتحقق:
+  - Drahgus, B. & Worden, M. (1998). *The Gender Dance in Couples Therapy*. Brunner/Mazel (الكتاب الأصلي لكبارر).
+  - Hendrix, H. & Hunt, H. L. (1988/2007). *Getting the Love You Want*. Holt.

@@ -12,13 +12,14 @@ country: "شبه القارة الهندية (البنغال، أوديشا)"
 language: "السنسكريتية، البنغالية"
 active_start: 1486
 active_end: "مستمر"
+cultural_origin: "indian"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 - rel: "belongs_to", target: "sch-bhakti-movement", target_type: "مظلة"
 related:
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
-- id: "sch-bhedabheda", title: "بيدابيدا", type: "مدرسة"
+- id: "sch-bhedabheda", title: "بيدابيدا (دفايتادفايتا)", type: "مدرسة"
 gaps:
   - "نصوص Chaitanya Charitamrita (لـ Kṛṣṇadāsa Kavirāja Gosvāmī) تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -57,3 +58,11 @@ gaps:
 ## القيد
 
 - البُعد العاطفي الجمالي قد يبدو «غير فلسفي» للبعض.
+
+## المصادر
+
+- Dasa, Satyanarayana (Babaji), *Six Sandarbhas of Śrīla Jīva Gosvāmī* (English translations/commentary series), Jiva Institute.
+- De, Sushil Kumar. *Early History of the Vaishnava Faith and Movement in Bengal*. Firma K.L. Mukhopadhyay, 1961.
+- Kapoor, O. B. L. *The Philosophy and Religion of Śrī Caitanya*. Munshiram Manoharlal, 1976.
+- Sharma, Chandradhar. *A Critical Survey of Indian Philosophy*. Motilal Banarsidass, 1960 (باب Bhedābheda وGauḍīya Vedanta).
+- Klostermaier, Klaus K. *A Survey of Hinduism*. State University of New York Press, 1994 (فصل عن Caitanya وGauḍīya Vaiṣṇavism).

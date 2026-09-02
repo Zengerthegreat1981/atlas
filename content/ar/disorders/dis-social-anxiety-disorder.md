@@ -12,30 +12,28 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-status-anxiety-concept", title: "قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety)", type: "مفهوم"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحيّرات المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-assertiveness-training", title: "تدريب الحزم", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفاعل", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-role-playing", title: "تمثيل الأدوار", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-behavioral-rehearsal", title: "إعادة السلوك بالتمرين", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساسات الجسدية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "اتخاذ المنظور", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-dear-man", title: "DEAR MAN", type: "تقنية/تدخل علاجي"
-- id: "syn-loneliness-isolation", title: "الوحدة والعزلة", type: "متلازمة"
-- id: "syn-taijin-kyofusho", title: "متلازمة تايجين كيوفوشو (رهاب إحراج الآخرين وإزعاجهم في الثقافة اليابانية)", type: "متلازمة"
+- id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
+- id: "dis-taijin-kyofusho", title: "تاي جين كيو فوشو (Taijin Kyofusho)", type: "متلازمة"
 - id: "syn-tall-poppy", title: "متلازمة الخشخاش الطويل (استهداف المتفوقين وقص الرؤوس)", type: "متلازمة"
 - id: "ins-bfne", title: "مقياس الخوف الموجز من التقييم السلبي", type: "أداة قياس"
 - id: "ins-lsas", title: "مقياس ليبوفيتز للقلق الاجتماعي", type: "أداة قياس"
@@ -45,13 +43,21 @@ related:
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تعريف القلق الاجتماعي (خاصة البُعد المُعتم "performance only") لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُدرَج بعد اقتباس نصي مباشر من DSM-5-TR أو ICD-11 لتعريف الاضطراب بلغته الرسمية."
   - "معدّلات الانتشار في السياقات العربية تختلف بشكل كبير حسب الدراسات."
 ---
 
 # اضطراب القلق الاجتماعي
 
 اضطراب قلق يتميز بخوف مفرط ومستمر من المواقف الاجتماعية التي قد يتعرّض فيها الشخص لتقييم الآخرين (سواء مواقف تفاعلية مثل المحادثات أو مواقف أداء مثل إلقاء كلمة). يخشى الشخص التصرّف بطريقة مُحرجة أو الظهور بمظهر القلق. في الأطفال، يظهر القلق في تفاعلات مع البالغين والأقران على حدّ سواء.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب القلق الاجتماعي كفئة تشخيصية رسمية وبين مفهوم 'قلق المكانة الاجتماعية' (con-status-anxiety-concept) كتحليل اجتماعي-فلسفي للتوتر الناتج عن المقارنة الطبقية والخوف من فقدان المكانة — الأخير حالة إنسانية واسعة الانتشار مرتبطة ببنية المجتمع ذاتها، لا فئة مرضية فردية؛ الخوف من التقييم الاجتماعي شيء، واستيفاء معايير اضطراب يسبب ضائقة إكلينيكية شيء آخر.
 
 ## ملاحظات على المعايير التشخيصية
 

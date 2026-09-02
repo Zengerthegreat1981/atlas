@@ -12,8 +12,7 @@ country: "تونس / فاس / القاهرة"
 language: "العربية"
 active_start: 1362
 active_end: 1406
-edges:
-- rel: "belongs_to", target: "علم العمران وفلسفة التاريخ", target_type: "مدرسة"
+edges: []
 related:
 - id: "ctx-cairo-al-azhar-fatimid-mamluk", title: "القاهرة الفاطمية والمملوكية والأزهر كمركز إشعاع للعلوم", type: "سياق/تقليد"
 gaps:

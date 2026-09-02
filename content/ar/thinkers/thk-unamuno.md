@@ -17,13 +17,12 @@ edges:
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "con-meaning", title: "المعنى", type: "مفهوم"
-- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "thk-ortega", title: "خوسيه أورتيغا إي غاسيت", type: "مفكر"
 - id: "thk-zambrano", title: "ماريا ثامبرانو", type: "مفكر"
 - id: "thk-machado", title: "أنطونيو ماتشادو", type: "مفكر"
 - id: "thk-pascal", title: "بليز باسكال", type: "مفكر"
 gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "الترجمات العربية المعتمدة لـ«الشعور المأساوي بالحياة» (إن وُجدت طبعة عربية موثوقة) تحتاج تحديداً بالناشر والسنة."
 ---
 
 # ميغيل دي أونامونو
@@ -56,3 +55,9 @@ gaps:
 ## اقتباسات مختارة
 
 «العقل والإيمان عدوّان لا يستطيع أحدهما العيش من دون الآخر.» — الإحساس المأساوي بالحياة، 1913<br>«يجب أن نبحث عن الحقيقة في الحياة لا في المنطق.» — الإحساس المأساوي بالحياة، 1913
+
+## المصادر
+
+- Unamuno, Miguel de. *Del sentimiento trágico de la vida*. Madrid: Renacimiento, 1913.
+- Unamuno, Miguel de. *Niebla*. Madrid: Renacimiento, 1914.
+- Nozick, Martin. *Miguel de Unamuno: The Agony of Belief*. Princeton: Princeton University Press, 1982.

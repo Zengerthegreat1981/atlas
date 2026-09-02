@@ -2,45 +2,54 @@
 slug: "thk-stephenburgess"
 id: "THK-2776"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "ستيفن بورغس"
 en: "Stephen Burgess"
-crumb: "طريقة فيلدنكرايس ← تطوير ← ستيفن بورغس"
-dates: "أستراليا/الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "أستراليا"
 country: "أستراليا"
 language: "الإنجليزية"
-active_start: 2015
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
+crumb: "طريقة فيلدنكرايس ← تطوير ← ستيفن بورغس"
 edges:
-- rel: "belongs_to", target: "طريقة فيلدنكرايس", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-feldenkrais", type: "تيار"
 related:
-- id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
+- id: "thk-mfeldenkrais", type: "مفكر", title: "موشيه فيلدنكرايس"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Stephen Burgess' في IFF (International Feldenkrais Federation) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Stephen Burgess' (محاضر في علم الإحصاء الحيوي، جامعة ساوثهامبتون) أو 'Stephen Burgess' (ممثل أسترالي، حقل مختلف)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Feldenkrais Australasia' عام."
 ---
 
 # ستيفن بورغس
 
-ممارس أسترالي في **طريقة فيلدنكرايس**، من المساهمين في **تدويل الطريقة** وتطويرها في **السياقات التعليمية**.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في فيلدنكرايس]
 
-## ما أعطاه
+## محاولة التوثيق
 
-- مساهمات في **«Awareness Through Movement»** في الفصول الدراسية، خصوصاً مع الأطفال الذين يعانون من صعوبات تعلّم.
-- فصول في كتب عن **«فيلدنكرايس في المدارس»**.
-- مساهمات في **تدريب المعلمين** على مبادئ فيلدنكرايس.
-- أبحاث في **التطبيقات التعليمية** للطريقة.
+- **الاسم المُسجَّل**: Stephen Burgess.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IFF (International Feldenkrais Federation)**: لا عضوية.
+  - **FGNA (Feldenkrais Guild of North America)**: لا نتائج.
+  - **AFG (Australian Feldenkrais Guild)**: لا نتائج.
 
-## موقعه من التيار
+## السبب المحتمل للإدراج
 
-يقف بورغس عند **تلاقي طريقة فيلدنكرايس مع التعليم**، وهو ما يربط **«إعادة التعلّم الحركي»** بعمليات **«إعادة التعلّم المعرفي»** في الفصول الدراسية.
+- احتمال **الخلط** مع:
+  - **Stephen Burgess** (محاضر في علم الإحصاء الحيوي، جامعة ساوثهامبتون).
+  - **Stephen Burgess** (ممثل أسترالي، حقل مختلف).
 
-## أهم أعماله
+## ما يحتاجه هذا العنصر
 
-- مساهمات في كتب فيلدنكرايس والتعليم.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Feldenkrais, M. (1972). *Awareness Through Movement*. Harper & Row.
+  - IFF: https://www.feldenkrais-method.org/
+  - Cohen, B. B. (1993). *Sensing, Feeling, and Action*. Contact Editions.

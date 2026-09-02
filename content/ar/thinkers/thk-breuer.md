@@ -9,7 +9,7 @@ crumb: "مدرسة التحليل النفسي ← الناس ← الجيل ا�
 dates: "النمسا · 1842–1925"
 language: "الألمانية"
 country: "النمسا"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: 1925
 edges:

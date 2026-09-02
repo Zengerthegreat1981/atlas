@@ -13,7 +13,7 @@ language: "التبتية"
 active_start: 1338
 active_end: 1364
 edges:
-- rel: "belongs_to", target: "البوذية التبتية: نينغما", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nyingma", target_type: "مدرسة"
 related:
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الحركة الأصيلة ← الجيل الثاني ← جانيت أدلر"
 edges:
-- rel: "belongs_to", target: "الحركة الأصيلة", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية"
 related:
 - id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
 gaps:

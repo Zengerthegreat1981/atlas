@@ -9,8 +9,12 @@ crumb: "فلسفة العلم ← الأعمال ← بنية الثورات ا�
 dates: "1962 · توماس كون"
 language: "الإنجليزية"
 active_start: 1962
-active_end: 1962
+active_end: 1996
 part: "psychology"
+author: "توماس كون"
+author_slug: "thk-pkuhn"
+publication_year: 1962
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-pkuhn", target_type: "مفكر"

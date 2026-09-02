@@ -11,12 +11,12 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
-- rel: "formulated_by", target: "بوريس فريدريك سكينر", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-fskinner", target_type: "مفكر"
 related:
-- id: "thk-fskinner", title: "بوريس فريدريك سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-- id: "thk-thorndike", title: "إدوارد ثورندايك", type: "مفكر"
-- id: "axm-operant-conditioning", title: "الإشراط الفعال", type: "بديهية/مبدأ تأسيسي"
+- id: "thk-thorndike", title: "إدوارد ثورنديك", type: "مفكر"
+- id: "axm-operant-conditioning", title: "الإشراط الفعال (سكينر)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "التمييز بين التعزيز الإيجابي والسلبي في الممارسة الإكلينيكية الحديثة يحتاج تفصيلاً."
   - "نظرية التعلم الاجتماعي لباندورا (التعلم بالملاحظة بدون تعزيز مباشر) تعدّ توسيعاً للنظرية السلوكية."
@@ -37,7 +37,7 @@ gaps:
 
 - **إدوارد ثورندايك** (1911): **قانون الأثر** (Law of Effect) — السلوك المُتْبَع بنتيجة مُرضية يتقوى.
 - **بافلوف** (1903): التكييف الكلاسيكي (المُحفِّزات قبل السلوك).
-- **سكينر** (1938، 1953): **الإشراط الفعال** كنظرية مُعمَّمة، بصياغة الجدول المُتغيِّر/الثابت.
+- **بورهوس فريدريك سكينر** في *The Behavior of Organisms* (1938) و*Science and Human Behavior* (1953): صاغ **الإشراط الفعال** كنظرية مُعمَّمة، وحدد جداول التعزيز المُتغيِّرة/الثابتة بالتعاون مع فرستر في *Schedules of Reinforcement* (1957).
 
 ## جداول التعزيز (Schedules)
 
@@ -58,3 +58,10 @@ gaps:
 - **تجاهل العمليات الداخلية** (الأفكار، المشاعر): السلوكيون المتأخرون حاولوا تفسيرها سلوكياً.
 - **عدم مراعاة التوقعات** (Expectancies): باندورا وكوهلمان أضافا أن الإنسان يتعلم من مراقبة النتائج المتوقعة.
 - **فقدان التعقيد الإنساني**: السلوك البشري لا يخضع دائماً للتعزيز/العقاب المادي.
+
+## المصادر
+
+- Skinner, B. F. (1938). *The Behavior of Organisms: An Experimental Analysis*. Appleton-Century.
+- Skinner, B. F. (1953). *Science and Human Behavior*. Macmillan.
+- Ferster, C. B., & Skinner, B. F. (1957). *Schedules of Reinforcement*. Appleton-Century-Crofts.
+- Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. Macmillan.

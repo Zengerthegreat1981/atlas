@@ -16,15 +16,14 @@ edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-bperry", title: "بروس د. بيري", type: "مفكر"
-- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي لـ Sensorimotor", type: "مفهوم"
-- id: "dis-ptsd", title: "اضطراب ما بعد الصدمة", type: "اضطراب/حالة إكلينيكية"
-- id: "con-three-way-model-sensorimotor", title: "النَّمُوذَج الثُّلاثِيّ لِـ Sensorimotor: اِنْتِبَاه، تَأْثِير، فِكْر", type: "مفهوم"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
   - "دُمج معه الملف المكرَّر thk-bessel-van-der-kolk-expanded (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "رابط «بيتر ليفين» (thk-plevine) أُزيل — الاسم غير مذكور في المتن؛ لا واقعة أو نص مشترك موثّق يربطه بفان دير كولك هنا."
+  - "رابطا «النموذج الثلاثي لـ Sensorimotor» (con-sensorimotor-three-way-model وcon-three-way-model-sensorimotor) أُزيلا — المفهوم غير مذكور إطلاقاً في المتن، وهما أصلاً يبدوان مدخلين مكرَّرين لنفس المفهوم بعنوانين مختلفين."
+  - "تكرار محتمل: يوجد أيضاً ملف thk-besselvanderkolk معتمد في content/ar/thinkers/ لنفس الشخص على الأرجح (بِسِل فان دير كولك) — لم يُدمج أو يُحذف أي ملف هنا، هذا قرار يحتاج مراجعة رئيس التحرير."
 ---
 
 # بِسِل فان دير كولك
@@ -47,7 +46,3 @@ gaps:
 - *The Body Keeps the Score* (2014).
 - *Posttraumatic Stress Disorder* (محرر، 1984).
 - *Traumatic Stress* (محرر، 1996).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

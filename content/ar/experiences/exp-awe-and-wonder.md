@@ -17,8 +17,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الانفعال (con-emotion)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: حالة الفيض (con-flow-state)"
   - "الفرق بين الروعة (Awe) والانفعال الديني (Religious Emotion) يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الدراسات المَعْملية (Piff، Keltner) حديثة ومحدودة."
+  - "دراسة بيف وكلتنر 2015 اعتمدت عينات جامعية أمريكية محدودة الحجم، ولم تُختبر بعد عبر ثقافات متعددة بالقدر الكافي."
   - "التمييز بين الروعة الإيجابية (Positive Awe) والروعة السلبية (Threat Awe) يحتاج توثيقاً."
 ---
 
@@ -37,3 +36,10 @@ gaps:
 ## التطبيقات
 
 في العلاج النفسي، «**علاج الروعة**» (Awe Therapy) مُقترح لِعلاج الاكتئاب والقلق: تَعريض المريض لمَشاهد طبيعية، أعمال فنية، تجارب روحية، تَزيد من تَواضعه، تَخفف من «**التمركز الذاتي**» (Self-Centeredness) المُصاحب للاكتئاب. في تَعليم القيم، الروعة تَلعب دوراً في بناء «**الفضائل التَّرانسندنتالية**» (Transcendent Virtues) في علم النفس الإيجابي الثاني (Peterson، Seligman).
+
+## المصادر
+
+- Dacher Keltner & Jonathan Haidt، "Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion"، Cognition and Emotion، 2003.
+- Paul K. Piff, Pia Dietze, Matthew Feinberg, Daniel M. Stancato & Dacher Keltner، "Awe, the Small Self, and Prosocial Behavior"، Journal of Personality and Social Psychology، 2015.
+- Edmund Burke، A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful، 1757.
+- Dacher Keltner، Awe: The New Science of Everyday Wonder and How It Can Transform Your Life، Penguin Press، 2023.

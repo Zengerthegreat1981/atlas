@@ -9,14 +9,13 @@ crumb: "أطر غير غربية ← المفاهيم ← علم النفس ال
 active_start: -1500
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم النفس الأيورفيدي/الهندي التقليدي", target_type: "مدرسة"
 related:
 - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-maharishi", title: "مهارشي ماهيش يوغي", type: "مفكر"
+- id: "con-qi-vital-energy", title: "التشي — الطاقة الحيوية والمادة السارية (Qi)", type: "مفهوم"
 gaps:
-  - "النصوص التأسيسية (Charaka Samhita، Sushruta Samhita) ومعاييرها لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة (sch-) مخصص لعلم النفس الأيورفيدي/الهندي التقليدي في الأطلس حالياً؛ رابط belongs_to الأصلي كان نصاً حراً غير مطابق لأي slug فعلي فحُذف بدل اختراع مدرسة."
+  - "النصوص التأسيسية (Charaka Samhita، Sushruta Samhita) ومؤلفوها وتواريخها الدقيقة لم تُوثّق بملفات wrk- أو thk- مستقلة في الأطلس."
 ---
 
 # علم النفس الأيورفيدي

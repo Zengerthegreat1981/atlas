@@ -9,11 +9,15 @@ crumb: "علم الاجتماع النفسي ← الأعمال ← تقديم �
 dates: "1959 · إرفينغ غوفمان"
 language: "الإنجليزية"
 active_start: 1959
-active_end: 1959
+active_end: 1982
 part: "psychology"
+author: "إرفينغ غوفمان"
+author_slug: "thk-goffman"
+publication_year: 1959
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
-- rel: "authored_by", target: "إرفينغ غوفمان", target_type: "مفكر"
+- rel: "authored_by", target: "thk-goffman", target_type: "مفكر"
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:

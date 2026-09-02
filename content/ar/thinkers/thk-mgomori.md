@@ -13,12 +13,11 @@ active_start: 1980
 active_end: 2012
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "نموذج ساتير للنمو", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 gaps:
-  - "سنة الميلاد/الوفاة موثّقة من سجلات الشبكة الساتيرية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسي مستقل لـ'نموذج ساتير للنمو' في الأطلس؛ رُبطت غوموري بـsch-systemic-family (المدرسة الأم الفعلية لفيرجينيا ساتير نفسها) بدلاً من اسم حر."
 ---
 
 # ماريا غوموري
@@ -44,3 +43,8 @@ gaps:
 
 ## القيد
 - **عمل غوموري على الصدمة الجماعية** يبقى مرجعاً، لكنه لم يُوسَّع أكاديمياً بنفس درجة إصدارات ساتير المباشرة.
+
+## المصادر
+
+- Satir, V., Banmen, J., Gerber, J., & Gomori, M. (1991). *The Satir Model: Family Therapy and Beyond*. Science and Behavior Books.
+- Gomori, M., & Adaskin, E. (2008). *Personal Alchemy: The Art of Satir Family Reconstruction*. Hong Kong Satir Center for Human Development.

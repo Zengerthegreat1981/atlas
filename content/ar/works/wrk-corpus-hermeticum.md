@@ -11,6 +11,10 @@ dates: "الإسكندرية، مصر · القرن 2-3 م"
 language: "اليونانية (الأصل)"
 active_start: 150
 active_end: 300
+author: "هرمس ثلاثي العظمة"
+author_slug: "thk-hermes-trismegistus"
+publication_year: 200
+original_language: "اليونانية"
 edges:
 - rel: "belongs_to", target: "sch-hermeticism", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-hermes-trismegistus", target_type: "مفكر"

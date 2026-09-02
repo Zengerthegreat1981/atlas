@@ -12,12 +12,18 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
+- id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 - id: "tec-act-defusion-leaves-stream", title: "أوراق الشجر على النهر", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "sch-cft", title: "العلاج المتمحور حول التعاطف (CFT)", type: "مدرسة"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن هايز (thk-shayes)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: القبول في ACT (con-act-acceptance)"
   - "الفرق بين Defusion و Mindfulness في الأبحاث الحديثة موثّق لكن غير مفصّل."
+  - "نظرية الأطر العلائقية (Relational Frame Theory) مذكورة في المتن بلا slug موثَّق في الأطلس بعد."
 ---
 
 # فصل الأفكار (Cognitive Defusion) في ACT

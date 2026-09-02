@@ -17,11 +17,11 @@ edges:
 - rel: "developed_by", target: "thk-richard-schwartz", target_type: "مفكر"
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
-- id: "con-dissociation", title: "التفكك (Dissociation)", type: "مفهوم"
-- id: "con-trauma", title: "الصدمة النفسية", type: "مفهوم"
-- id: "con-false-self-vs-true-self", title: "الذات الزائفة مقابل الذات الحقيقية", type: "مفهوم"
-- id: "con-primary-self", title: "الذات الأولية", type: "مفهوم"
-- id: "con-ego-self", title: "الأنا والذات", type: "مفهوم"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
+- id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
+- id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
+- id: "con-primary-self", title: "الذات الأولية والتفكك التكاملي", type: "مفهوم"
+- id: "con-ego-self", title: "محور الأنا–الذات", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتقنية Unburdening (تحرير الجزء من «عبئه») وأشكالها المتعددة (إطلاق، نار، أرض، ماء، حجر) لم تُراجع من المصدر الأصلي بعد."
   - "لا يوجد اقتباس مباشر موثوق من كتاب Schwartz & Sweezy (2021) في هذه المسودة."

@@ -13,9 +13,6 @@ edges:
 - rel: "relates_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"
-- id: "axm-scientific-objectivity", title: "بديهية الموضوعية العلمية", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 - id: "axi-verification-criterion", title: "مبدأ التحقق الوضعي (Verification Criterion)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "التمييز بين الاختزالية الأنطولوجية (الكل مُكوَّن من الأجزاء) والمنهجية (ندرس الأجزاء أولاً) لم يُمثَّل."
@@ -25,6 +22,8 @@ gaps:
 # بديهية الاختزالية
 
 البديهية المؤسِّسة لعلم النفس العصبي المعرفي والعلم الطبيعي: **الظواهر المعقدة (النفسية، السلوكية) قابلة للتفسير بمكوناتها الأبسط** (بيولوجية، كيميائية، فيزيائية). فهم الدماغ والهرمونات والجينات أساسي لفهم النفس.
+
+صاغ الفيلسوفان **بول أوبنهايم وهيلاري بوتنام** الصورة المعاصرة للبرنامج الاختزالي في مقالهما "Unity of Science as a Working Hypothesis" (1958)، إذ اقترحا سُلماً من ست طبقات اختزالية (اجتماعية ← نفسية ← بيولوجية ← خلوية ← جزيئية ← ذرية). و**إرنست ناجل** قدَّم النموذج المنطقي الكلاسيكي للاختزال بين النظريات في *The Structure of Science* (1961)، بينما وضعت **حلقة فيينا** المنطقية (شليك وكارناب، أواخر العشرينيات) شرط **التحقق الوضعي** (Verification Criterion) كمعيار لصلاحية القضايا العلمية، وهو ما يستدعي مباشرة الاختزال إلى معطيات حسية أولية.
 
 ## التعريف
 
@@ -66,3 +65,9 @@ gaps:
 - **هوية النوع** (Type Identity Theory): كل حالة ذهنية = حالة دماغية.
 - **الذرية** (Token Identity): كل حالة ذهنية فردية = حالة دماغية فردية.
 - **الوظيفية** (Functionalism): الحالة الذهنية = وظيفتها السلوكية، لا مُكوِّنها المادي.
+
+## المصادر
+
+- Oppenheim, P., & Putnam, H. (1958). "Unity of Science as a Working Hypothesis." In *Minnesota Studies in the Philosophy of Science*, Vol. 2.
+- Nagel, E. (1961). *The Structure of Science: Problems in the Logic of Scientific Explanation*. Harcourt, Brace & World.
+- Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.

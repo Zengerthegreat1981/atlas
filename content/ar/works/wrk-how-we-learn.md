@@ -12,15 +12,17 @@ dates: "2014 · بينيديكت كاري"
 language: "الإنجليزية"
 active_start: 2014
 active_end: 2014
+author: "بينيديكت كاري"
+author_slug: "thk-benedict-carey"
+publication_year: 2014
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "الصحافة العلمية وسيكولوجيا التعلم", target_type: "مدرسة"
 - rel: "written_by", target: "thk-benedict-carey", target_type: "مفكر"
 related:
 - id: "thk-benedict-carey", title: "بينيديكت كاري", type: "مفكر"
 - id: "stu-bransford-johnson-context-memory", title: "دراسة برانسفورد وجونسون لأثر السياق والمعرفة المسبقة على الفهم (1972)", type: "دراسة وبحث"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # كيف نتعلم: الحقيقة المدهشة عن وقت ومكان وكيفية حدوث التعلم
@@ -34,7 +36,3 @@ gaps:
 ## تأثير الاختبار والمزج بين المواد (Interleaving)
 
 تفوق الاختبار الذاتي المستمر على مجرد إعادة القراءة السلبية للكتب.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

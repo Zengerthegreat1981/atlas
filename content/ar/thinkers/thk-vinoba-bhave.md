@@ -15,18 +15,18 @@ active_start: 1916
 active_end: 1982
 edges:
 - rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
-- rel: "developed", target: "الغاندية (كفلسفة سياسية-أخلاقية)", target_type: "مدرسة"
 related:
 - id: "thk-gandhi", title: "غاندي", type: "مفكر"
 - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
-- id: "con-ahimsa-non-violence", title: "اللاّعنف (الأهيمسا)", type: "مفهوم"
-- id: "con-satyagraha", title: "ساتياگراها (التشبّث بالحقّ)", type: "مفهوم"
+- id: "con-ahimsa-non-violence", title: "الأهيمسا واللا-عنف الشامل في الفكر الهندي (Ahimsa)", type: "مفهوم"
+- id: "con-satyagraha", title: "ساتياغراها (قوة الحقيقة)", type: "مفهوم"
 gaps:
   - "تفاصيل طفولته في غاغود (Kolaba district) مع عائلته البراهمة موثّقة جزئياً."
   - "علاقته المبكرة بـ«أشتاغا مَها فيديابيت» (Ashrama) في أغرا موثّقة جزئياً."
   - "ترجمة «Geetai» و«Sthitaprajna Darshan» للعربية متفرّقة، لكن في طبعات قديمة."
   - "تأثير «Bhoodan Movement» (حركة الأرض) في الهند بعد وفاة غاندي (1948) موثّق جزئياً."
   - "مقارنة فلسفته بـ«J.C. Kumarappa» (ناقد التصنيع) و«J.P. Narayan» (ناقد الدولة) لم تُنشر كافية."
+  - "اقتباس كان منسوباً لفينوبا حول ملكية الأرض ('الأرض لا يملكها أحد...') متداول بصيغ مختلفة في مصادر ثانوية دون توثيق بنص أصلي وصفحة، فحُذف من الملف."
 ---
 
 # فينوبا بهاف («غاندي الثاني»)
@@ -98,6 +98,8 @@ gaps:
 - **«Geetai»** (الغيّتا المُبسَّطة) (الثمانينيات من القرن العشرين).
 - **«Swarajya Shastra»** (علم الحكم الذاتي) (الخمسينيات من القرن العشرين).
 
-## اقتباس مختار
+## المصادر
 
-> «الأرض لا يَملِكها أحد. الأرض هي أمّنا. من يَملِك أكثر من قُوت يومه يَسرق. مَن يَتَبرَّع بالأرض لِفَقير، يَكتشف أنّه وَهَبَ شيئاً أكبر مِمّا يَملِك.»
+- Bhave, V. (1958). *Bhoodan Yajna: Land-Gifts Mission*. Akhil Bharat Sarv Seva Sangh.
+- Bhave, V. (1970). *Talks on the Gita* (Geetai، ترجمة إنجليزية). Sarva Seva Sangh Prakashan.
+- Tandon, V. (1965). *Bhoodan Movement: Study in Political Assimilation*. Institute of Economic Growth (نيودلهي) — عن حركة Bhoodan ونتائجها.

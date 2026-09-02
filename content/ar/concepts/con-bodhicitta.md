@@ -12,14 +12,17 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
-- id: "thk-shantideva", title: "شانْتِيدِيفَا", type: "مفكر"
-- id: "con-buddhist-compassion-karuna", title: "الكرونا (الرحمة)", type: "مفهوم"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
+- id: "con-buddhist-compassion-karuna", title: "الكَرُونَا / الرَّحْمَة البُوذِيَّة (Karunā)", type: "مفهوم"
+- id: "sch-cft", title: "العلاج المتمحور حول التعاطف (CFT)", type: "مدرسة"
+- id: "thk-richard-davidson", title: "ريتشارد ديفيدسون", type: "مفكر"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Śāntideva's Bodhicaryāvatāra، 700 CE)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط شانتيديفا (thk-shantideva) حُذف من related لعدم وجود ذكر صريح له في متن المقالة رغم صلته التاريخية بالمفهوم؛ يحتاج فصلاً يربط النص بمصدره."
+  - "رابط اليقظة الذهنية (con-mindfulness) حُذف من related لعدم ورود المصطلح في متن المقالة."
   - "الفرق بين Bodhicitta المُؤَسَّس (Conventional) وBodhicitta الأَصْلِي (Ultimate) يحتاج فصلاً."
   - "التطبيق في علاج الاكتئاب والقلق (Krageloh، 2019) يحتاج فصلاً."
+  - "ملاحظة تكرار محتمل: يوجد ملف آخر con-bodhicitta-compassion (CON-0926، part: philosophy) بنفس الموضوع تقريباً (Bodhicitta) بعنوان وتصنيف مختلفين؛ لم يُدمج هنا لعدم التكليف بالدمج — يحتاج مراجعة تحريرية منفصلة لتقرير الدمج أو الفصل."
 ---
 
 # البُوذِيتَسَّا (Bodhicitta): ذِهْن الْيَقَظَة

@@ -6,12 +6,12 @@ level: "متوسط"
 title: "دَريل شارب"
 en: "Daryl Sharp"
 crumb: "مدرسة التحليل النفسي ← الناس ← دَريل شارب"
-dates: "كندا · [غير مؤكد]"
+dates: "كندا · 1936–2019"
 country: "كندا"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: null
-active_end: "مستمر"
+active_end: 2019
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:

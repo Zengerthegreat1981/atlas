@@ -9,8 +9,8 @@ crumb: "العلاقات بين المدارس ← العلاج المعرفي �
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", target_type: "مدرسة"
-- rel: "connects", target: "العلاج المعرفي السلوكي", target_type: "مدرسة"
+- rel: "connects", target: "sch-mbct", target_type: "مدرسة"
+- rel: "connects", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"

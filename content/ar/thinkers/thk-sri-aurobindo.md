@@ -16,11 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:
 - id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
-- id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا (نيو-فيدانتا)", type: "مفكر"
 - id: "dbt-aurobindo-vs-vivekananda", title: "أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة Arya المنشورة على دفعات (1914–1921)."
-  - "لا اقتباس مباشر موثّق منه في هذا الملف."
 ---
 
 # شري أوروبندو غوش
@@ -32,7 +31,7 @@ gaps:
 - صاغ نظرية **تطور الوعي** (Evolution of Consciousness): الكون ليس ثابتاً في مستوى العقل، بل يَتدرّج نحو وعي أعلى هو **ما فوق الذهن** (Supramental).
 - طوّر **اليوغا التكاملية** (Integral Yoga) كمنهج شامل يَجمع بين يوغا المعرفة ويوغا العمل ويوغا المحبة ويوغا الكمال — بدلاً من اقتصار اليوغا على تأملات الانفصال.
 - نظّر لـ**التحوّل الثلاثي** (Triple Transformation): تَحويل النفس، تَحويل الطبيعة الداخلية، ثم تَحويل الجسد الفوقي.
-- كتب *The Life Divine* (1939–1947)، *The Synthesis of Yoga* (1948)، *Savitri: A Legend and a Symbol* (ملحمة شعرية، 1950–1951).
+- كتب *The Life Divine* (1939–1947)، *The Synthesis of Yoga* (1948)، *Savitri: A Legend and a Symbol* (ملحمة شعرية أُكملت 1950 ونُشرت كاملة بعد وفاته عام 1951).
 
 ## موقعه من التيارات الأخرى
 
@@ -42,6 +41,12 @@ gaps:
 
 ## الأثر
 
-- أسّس **أوروفيل** (Auroville) عام 1968، المدينة الكونية في بوندشيري، كمشروع تجريبي لتطبيق أفكاره.
+- أسّست شريكته الروحية ميرا ألفاسا («الأم») **أوروفيل** (Auroville) بعد وفاته عام 1968، المدينة الكونية في بوندشيري، كمشروع تجريبي لتطبيق أفكاره.
 - أثّر في علم النفس ما وراء الشخصي (Ken Wilber، Stanislav Grof).
 - أثّر في الحركات الروحية الجديدة في السبعينيات والثمانينيات.
+
+## المصادر
+
+- Sri Aurobindo (1939–1947). *The Life Divine*. Sri Aurobindo Ashram Press.
+- Heehs, P. (2008). *The Lives of Sri Aurobindo*. Columbia University Press.
+- Sri Aurobindo Ashram، الأرشيف الرسمي (sriaurobindoashram.org).

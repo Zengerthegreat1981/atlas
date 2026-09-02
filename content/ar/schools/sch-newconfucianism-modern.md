@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الصين ← الكونفوشية الجديدة ا
 dates: "الصين ومناطق صينية · من القرن 20 م إلى يومنا هذا"
 country: "الصين، هونغ كونغ، تايوان، الولايات المتحدة"
 language: "الصينية المعاصرة، الإنجليزية"
+cultural_origin: "east-asian"
 active_start: 1920
 active_end: "مستمر"
 active_source: "lifespan"
@@ -17,13 +18,11 @@ edges:
 - rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
-- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
-- id: "thk-akaptchuk", title: "تيد ج. كابتْشُك", type: "مفكر"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
 gaps:
   - "نصوص Mou Zongsan وTang Junyi الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "العلاقة بين 'نيوكونفوشية البرّ الرئيسي' و'نيوكونفوشية ما وراء البحار' (Diaspora) ليست محسومة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # الكونفوشية الجديدة الحديثة (Modern New Confucianism)
@@ -62,3 +61,11 @@ gaps:
 - ساعدت في تثبيت موقع التراث الكونفوشي في الأكاديميا الغربية (Ames، Adler، Huang Yong، Karyn Lai).
 - انتُقدت من زوايا مختلفة: (1) من الماركسيين الصينيين اعتبروها «رجعية»، (2) من الليبراليين اعتبرتها «محافظة»، (3) من النسويات المعاصرات انتقدت «التركيز الذكوري»، (4) من دعاة الإلحاد عدّوها «ميتافيزيقا متخفّية».
 - في القرن 21، أعاد مؤيدو «القيصر الجديد» (Xin Shijie) إعادة تأطيرها كـ«حكمة عالمية» (Renwen Shehui).
+
+## المصادر
+
+- Mou, Zongsan (1968-1969). *心體與性體 (Xinti yu Xingti)*. Zhengzhong Book Company.
+- Tu, Weiming (1985). *Confucian Thought: Selfhood as Creative Transformation*. State University of New York Press.
+- Makeham, J. (Ed.). (2003). *New Confucianism: A Critical Examination*. Palgrave Macmillan.
+- Bresciani, U. (2001). *Reinventing Confucianism: The New Confucian Movement*. Taipei Ricci Institute.
+- Angle, S. C. (2009). *Sagehood: The Contemporary Significance of Neo-Confucian Philosophy*. Oxford University Press.

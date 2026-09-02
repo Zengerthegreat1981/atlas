@@ -5,13 +5,13 @@ type: "مفكر"
 level: "متوسط"
 title: "تشارلز شيفر"
 en: "Charles E. Schaefer"
-dates: "الولايات المتحدة · وُلد 1939"
+dates: "الولايات المتحدة · 1933–2020"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
-active_end: "مستمر"
-part: "philosophy"
-crumb: "الأطلس ← thinkers ← تشارلز شيفر"
+active_end: 2020
+part: "psychology"
+crumb: "العلاج باللعب ← الرواد المؤسسون ← تشارلز شيفر"
 edges:
 - rel: "belongs_to", target: "العلاج البنوي والعائلي باللعب", target_type: "مدرسة"
 related:
@@ -25,7 +25,7 @@ gaps:
 
 # تشارلز شيفر
 
-عالم نفس أمريكي، من أبرز الباحثين في العلاج باللعب والعلاج الأسري في الطفولة.
+أستاذ علم النفس الإكلينيكي في جامعة فيرلي ديكنسون (Fairleigh Dickinson University) من عام 1974 حتى وفاته (1933–2020)، يُلقب بـ«أبو العلاج باللعب الحديث»، ومؤسس الرابطة الدولية للعلاج باللعب (Association for Play Therapy) عام 1982.
 
 ## ما أعطاه
 

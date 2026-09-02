@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← الأعمال ← اللعب والوا
 dates: "1971 · دونالد وينيكوت"
 language: "الإنجليزية"
 active_start: 1971
-active_end: 1971
+active_end: 2008
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"

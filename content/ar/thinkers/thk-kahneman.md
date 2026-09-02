@@ -12,8 +12,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية / العبرية"
 active_start: 1971
 active_end: 2024
-edges:
-- rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-rkthaler", title: "ريتشارد هـ. ثالر", type: "مفكر"
 - id: "thk-barry-schwartz", title: "باري شوارتز", type: "مفكر"
@@ -26,7 +25,6 @@ related:
 - id: "stu-kahneman-tversky-heuristics-biases", title: "دراسة كانمان وتفيرسكي للحدس الاستدلالي والانحيازات (1974)", type: "دراسة وبحث"
 - id: "stu-kahneman-tversky-prospect-theory", title: "دراسة كانمان وتفيرسكي لتقييم المخاطر ونظرية الآفاق (1979)", type: "دراسة وبحث"
 - id: "stu-tversky-kahneman-conjunction-fallacy-linda", title: "تجربة كانمان وتفيرسكي لمشكلة ليندا ومغالطة الاقتران (1983)", type: "دراسة وبحث"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بنصه الأصلي."
   - "قائمة المساهمات في الفترة المبكرة (ما قبل 1971) تحتاج تحققاً من السيرة الرسمية."

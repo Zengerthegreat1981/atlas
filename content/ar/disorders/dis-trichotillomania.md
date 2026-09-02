@@ -12,32 +12,29 @@ active_start: 1987
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوّهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تقنية TIPP", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "syn-craving-urge", title: "متلازمة الرغبة الشديدة والاندفاع", type: "متلازمة"
+- id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "syn-obsessive-thoughts", title: "متلازمة الأفكار الوسواسية", type: "متلازمة"
 gaps:
   - "البيانات الوبائية الدقيقة لانتشار Trichotillomania في المنطقة العربية غير متاحة في المصادر الأولية المراجعة."
   - "التمييز بين DSM-5-TR و ICD-11 في معايير 'BFRB' (Body-Focused Repetitive Behavior) لم يُراجع تفصيلياً."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # هوس نتف الشعر (Trichotillomania)
@@ -153,6 +150,14 @@ ICD-11 يصنّف Trichotillomania تحت 6B25.0 ضمن فئة "اضطرابات
 - الحالات المزمنة لسنوات قد تستجيب ببطء.
 - trichophagia قد تسبب bezoar (كتلة شعر في المعدة) — تستدعي تقييماً طبياً.
 - قد لا يستجيب المرضى الذين ينتفون في حالة نصف وعي للتنبيه البصري وحده.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'اضطراب/حالة إكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً — معاييرها في DSM-5-TR وICD-11، وأنماط النتف الانتباهي والاندفاعي، وخيارات العلاج المُعتمَدة بالأدلة — دون تقديم أي تقييم تشخيصي مباشر لحالة فردية أو توجيه علاجي شخصي. الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين هوس نتف الشعر كفئة تشخيصية سريرية (سلوك متكرر مركّز على الجسم، مُصنَّف بمعايير محدَّدة في DSM-5-TR وICD-11) وبين con-blind-will-to-life (إرادة الحياة العمياء عند شوبنهاور) كمفهوم فلسفي عن دافع كوني أعمى يحرّك كل الكائنات الحية دون وعي أو غاية عقلانية. التشابه الظاهري بين النتف الانتباهي (الذي يحدث دون وعي كامل) وفكرة "الإرادة العمياء" لا يجعل الاضطراب تجسيداً سريرياً لمفهوم فلسفي ميتافيزيقي شامل عن الوجود — الأول حالة إكلينيكية محدَّدة قابلة للعلاج بتقنيات سلوكية موثَّقة الفعالية، والثاني تصوّر فلسفي عام عن طبيعة الوجود لا يخصّ سلوكاً بعينه ولا يقدّم معايير تشخيصية أو علاجية.
 
 ## مرجع
 

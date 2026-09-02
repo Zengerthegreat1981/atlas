@@ -14,15 +14,22 @@ edges:
 - rel: "belongs_to", target: "sch-functionalism", target_type: "مدرسة"
 related:
 - id: "sch-functionalism", title: "الوظيفية (فلسفة العقل)", type: "مدرسة"
-- id: "thk-hputnam", title: "هيلاري putnam", type: "مفكر"
+- id: "thk-hputnam", title: "هيلاري بوتنام", type: "مفكر"
+- id: "thk-jerry-fodor", title: "جيري فودور", type: "مفكر"
+- id: "thk-daniel-dennett", title: "دانيال دينيت", type: "مفكر"
+- id: "thk-john-searle", title: "جون روجرز سيرل", type: "مفكر"
+- id: "con-functionalism-mind-putnam", title: "الوظيفية وفلسفة العقل والبرمجيات (Functionalism)", type: "مفهوم"
+- id: "con-multiple-realizability-mind", title: "قابلية التحقق المتعدد للحالات العقلية (Multiple Realizability)", type: "مفهوم"
+- id: "con-chinese-room-argument-searle", title: "تجربة الغرفة الصينية ودحض الذكاء الاصطناعي القوي (Chinese Room)", type: "مفهوم"
 gaps:
+  - "هذا الملف يتشابه بشدة مع con-functionalism-mind-putnam (نفس المدرسة، نفس الموضوع) — يحتاج مراجعة دمج لاحقة خارج نطاق هذا التاسك."
   - "الفرق الدقيق بين 'الوظيفية النفسية' (Fodor) و'الوظيفية السلوكية' (Dennett) لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'العقل وآلة تورنغ' (1960)."
 ---
 
 # الوظيفية في فلسفة العقل
 
-النظرية السائدة في فلسفة العقل التحليلية منذ الستينيات، وترى أن **الحالات العقلية تُعرَّف بوظيفتها** — أي بالعلاقات السببية بين المدخلات (inputs)، والمخرجات (outputs)، والحالات العقلية الأخرى — لا بمادتها المكونة.
+النظرية السائدة في فلسفة العقل التحليلية منذ الستينيات، وترى أن **الحالات العقلية تُعرَّف بوظيفتها** — أي بالعلاقات السببية بين المدخلات (inputs)، والمخرجات (outputs)، والحالات العقلية الأخرى — لا بمادتها المكونة. هذه هي المدرسة الفكرية `sch-functionalism`، وصيغتها المؤسِّسة الأولى (الوظيفية الآلية عند بوتنام 1967) مفصَّلة في `con-functionalism-mind-putnam`.
 
 ## التعريف
 

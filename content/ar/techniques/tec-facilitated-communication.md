@@ -11,18 +11,22 @@ active_start: 1990
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "discredited"
 edges:
-- rel: "belongs_to", target: "tec-facilitated-communication", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "con-facilitated-communication-failure", title: "فشل التواصل المُسهَّل", type: "مفهوم"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "التفاصيل الكاملة للتجارب المحكّمة (التجارب العمياء) لم تُوثّق بدقة في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نص بيان ASHA (American Speech-Language-Hearing Association) الرسمي لعام 2018 ضد FC لم يُقتبس مباشرة في هذا الملف."
+  - "تفاصيل منهجية تجربة Ganz et al. (2012) (بروتوكول التعمية الدقيق لكل معالج) لم تُراجَع من المصدر الأولي."
 ---
 
 # التواصل المُسهَّل
 
 تقنية تواصل أُطلقت في أستراليا عام 1990 على يد روزماري كروسلي (Rosemary Crossley)، ثم روّج لها في أمريكا دوغاس بيلكن (Douglas Biklen) في جامعة سيراكيوز، مع تطبيقات في أوساط التوحد.
+
+FC تنتمي فكرياً لا إلى مدرسة سلوكية أو تحليلية بل إلى تيار الشمول الإنساني (humanistic inclusion) الذي أسّسه بيلكن في سيراكيوز: افتراضها الجوهري هو أن كل شخص، مهما بدا عاجزاً حركياً أو لفظياً، يملك كفاءة داخلية كاملة تنتظر "تحريراً" — وهو افتراض إنساني-وجودي عن الكرامة والقدرة الكامنة أقرب لمنطلقات المدرسة الإنسانية منه لأي نموذج سلوكي أو تحليلي مبني على أدلة قابلة للاختبار. المستهدف الأساسي بها هو الأفراد غير اللفظيين ضمن اضطراب طيف التوحد.
 
 ## الآلية
 
@@ -51,8 +55,12 @@ gaps:
 - **استنزاف الموارد**: أُنفقت ملايين الدولارات في تدريب معالجين على تقنية لا أساس لها.
 - **تأخير التدخلات الفعّقة**: الأطفال الذين قُدّم لهم FC تأخروا في الوصول إلى تدخلات سلوكية فعّقة.
 
+## التصنيف
+
+`evidence_level: discredited` — أقوى تصنيف رفض متاح في هذا الأطلس. السبب ليس ضعف الأدلة المؤيدة فحسب بل وجود تجارب معشّاة محكّمة متعددة (Mostert 2001، Ganz et al. 2012) دحضت الادعاء المركزي نفسه: أن الفرد لا المعالج هو مصدر الرسائل. هذا يفرّقها عن تقنيات "تجريبية" (experimental) قليلة الأدلة فقط، أو "مثيرة للجدل" (controversial) ذات أدلة متضاربة — FC اختُبرت واختُبرت وسقطت في كل مرة.
+
 ## الوضع الحالي
 
-- **مرفوضة من المنظمات المهنية**: AAC (Augmentative and Alternative Communication) وISAAC (International Society for Augmentative and Alternative Communication) أعلنتا رفضها.
+- **مرفوضة من المنظمات المهنية**: جمعية ASHA (American Speech-Language-Hearing Association) وAPA (American Psychological Association) وAAC (Augmentative and Alternative Communication) وISAAC (International Society for Augmentative and Alternative Communication) أعلنت رفضها.
 - **التطبيق المتبقي**: في بعض المدارس والجمعيات الأهلية، لا يزال FC يُستخدم رغم الرفض العلمي.
 - **القضايا القانونية**: حالات محاكم مرتبطة بـFC (مثل Anna Stubblefield في نيوجيرسي 2015) أدت إلى إدانات.

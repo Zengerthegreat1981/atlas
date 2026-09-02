@@ -18,8 +18,8 @@ related:
 - id: "con-parallelism-philosophy", title: "التّوازيات الفلسفية (Philosophical Parallelism)", type: "مفهوم"
 - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
 gaps:
-  - "لم تُراجع بعدُ طبعة Payot الأصلية لـ *La philosophie comparée* (1924، إعادة نشر 1931)."
-  - "لا اقتباس مباشر موثّق منه في هذا الملف."
+  - "لم تُراجع بعدُ طبعة Payot الأصلية لـ *La philosophie comparée* (1924، إعادة نشر 1931) للتحقق من تفاصيل الإهداء والمقدمة."
+  - "تفاصيل دوره في تأسيس *Revue de l'histoire des religions* (تاريخ انضمامه بالضبط) تحتاج توثيقاً من أرشيف المجلة."
 ---
 
 # بول-لويس ماسون-أورسيل
@@ -43,3 +43,9 @@ gaps:
 - أسّس **المجلة الدولية للفلسفة المقارنة** (*Revue de l'histoire des religions* شارك في تأسيسها).
 - أثّر في **Eliot Deutsch** و**Thomas Kasulis** و**Henry Rosemont** في الأجيال اللاحقة.
 - شكّل **الأرضية المنهجية** لكل فلسفة مقارنة حديثة.
+
+## المصادر
+
+- Masson-Oursel, Paul. *La philosophie comparée*. Paris: Félix Alcan, 1923.
+- Masson-Oursel, Paul. *La philosophie en Orient*. Paris: Presses Universitaires de France, 1938.
+- Halbfass, Wilhelm. *India and Europe: An Essay in Understanding*. Albany: SUNY Press, 1988 (يناقش مشروع ماسون-أورسيل التأسيسي للفلسفة المقارنة).

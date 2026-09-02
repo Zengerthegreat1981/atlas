@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-bioenergetic-analysis", target_type: "تيار"
 related:
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 - id: "thk-rlewis", title: "روبرت أ. لويس", type: "مفكر"
@@ -22,7 +22,7 @@ related:
 - id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "تصنيفها هنا تحت «التجربة الجسدية (Somatic Experiencing)» خطأ: انتماؤها إلى «التحليل الطاقي» (IIBA) في خطّ لوين، لا إلى منهج بيتر ليفين. يحتاج التصنيف قراراً تحريرياً."
+  - "edges.belongs_to صُحِّح: كان يشير إلى «التجربة الجسدية» (sch-somatic-experiencing، منهج بيتر ليفين) رغم أن المتن والـcrumb نفسيهما يؤكدان انتماءها إلى «التحليل الطاقي» (Bioenergetic Analysis، IIBA، خطّ رايخ–لوين) — صُحِّح الرابط إلى br-bioenergetic-analysis."
   - "كان الملف ينسب إليها كتاب *The Embodied Mind* — وهو لفاريلا وتومسون وروش — فأُسقط."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---

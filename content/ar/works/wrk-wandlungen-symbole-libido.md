@@ -8,18 +8,15 @@ en: "Wandlungen und Symbole der Libido"
 crumb: "علم النفس التحليلي ← الأعمال ← تحوّلات ورموز الليبيدو"
 dates: "1912 · كارل يونغ"
 active_start: 1912
-active_end: 1912
+active_end: 1955
 language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس التحليلي", target_type: "مدرسة"
-- rel: "authored_by", target: "كارل يونغ", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الطبعة المنقّحة عام 1952 (Zurich) أضافت فصلاً كاملاً عن خبرة Jung الشخصية — حدود التغيّرات بين 1912 و1952 لم تُراجع بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Jung في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تحوّلات ورموز الليبيدو

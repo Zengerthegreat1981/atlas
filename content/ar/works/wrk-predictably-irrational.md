@@ -13,15 +13,17 @@ language: "الإنجليزية"
 active_start: 2008
 active_end: 2008
 edges:
-- rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-dan-ariely", target_type: "مفكر"
+author: "دان آرييلي"
+author_slug: "thk-dan-ariely"
+publication_year: 2008
+original_language: "الإنجليزية"
 related:
 - id: "con-sunk-cost-fallacy", title: "مغالطة التكلفة الغارقة (التمسك بالخسائر والخيارات الفاشلة)", type: "مفهوم"
 - id: "thk-dan-ariely", title: "دان آرييلي", type: "مفكر"
 - id: "thk-uri-gneezy", title: "أوري غنيزي", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اللامنطقية المتوقعة: القوى الخفية التي تشكل قراراتنا
@@ -35,7 +37,3 @@ gaps:
 ## الأثر في السياسات العامة والتسويق
 
 إعادة هيكلة تصميم الخيارات التسعيرية والمصرفية لحماية المستهلكين.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

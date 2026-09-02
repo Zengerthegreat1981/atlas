@@ -13,14 +13,17 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "بيتر فوناغي وأنطوني باتمن", target_type: "مفكر"
+- rel: "developed_by", target: "thk-fonagy", target_type: "مفكر"
+- rel: "developed_by", target: "thk-bateman", target_type: "مفكر"
 related:
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
-- id: "thk-bateman", title: "أنطوني باتمن", type: "مفكر"
+- id: "thk-bateman", title: "أنتوني بيتمان", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "tec-mbt", title: "العلاج بالانعكاس الذهني (MBT)", type: "تقنية/تدخل علاجي"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد رابط con- مخصص لنظرية العقل (Theory of Mind) عند Baron-Cohen رغم أن المتن يميّز بينها وبين الانعكاس الذهني صراحة؛ لم يُضف لأن الأطلس لا يملك حالياً ملف مفهوم أو مفكر بهذا الـslug."
 ---
 
 # الانعكاس الذهني (Mentalization)
@@ -44,6 +47,7 @@ gaps:
 ## القيد
 مفهوم «حديث»، يحتاج دراسات طويلة الأمد لتأكيد فعاليته.
 
-## أهم المراجع
+## المصادر
 
-«العلاج بالانعكاس الذهني للشخصية الحدّبية» (Bateman & Fonagy, 2006) · «العقل والمرآة» (Fonagy, Target, 2007).
+- Bateman, A. & Fonagy, P. (2006). *Mentalization-Based Treatment for Borderline Personality Disorder: A Practical Guide*.
+- Fonagy, P. & Target, M. (2007). "The rooting of the mind in the body: New links between attachment theory and psychoanalytic thought". *Journal of the American Psychoanalytic Association*.

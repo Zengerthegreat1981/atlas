@@ -12,6 +12,7 @@ country: "الولايات المتحدة (كونكورد، ماساتشوستس
 language: "الإنجليزية"
 active_start: 1836
 active_end: 1860
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-romanticism", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-pragmatism-classical", target_type: "مدرسة"
@@ -25,7 +26,6 @@ gaps:
   - "رابط مقترح لـ«برونسون ألكوت» (thk-alcott) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ثيودور باركر» (thk-parker) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات أورسون فولر (Orestes Brownson) في 'المذهب المتعالي' لم تُغطَ."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التجاوزية الأمريكية
@@ -61,3 +61,10 @@ gaps:
 - ليست «مدرسة» بالمعنى الفلسفي الموحد، بل «حركة فكرية» محلية مرتبطة.
 - تهمة «الفردية المفرطة» تستحق مراجعة نقدية مع كتابات فولر وريبلي.
 - التأثير على «ما بعد الحداثة» الأمريكية (ديفيدسن، سوليفان) في إعادة قراءة الذاتية.
+
+## المصادر
+
+- Emerson, R. W. (1836). *Nature*. James Munroe and Company.
+- Thoreau, H. D. (1854). *Walden; or, Life in the Woods*. Ticknor and Fields.
+- Fuller, M. (1845). *Woman in the Nineteenth Century*. Greeley & McElrath.
+- Buell, L. (2003). *Emerson*. Harvard University Press.

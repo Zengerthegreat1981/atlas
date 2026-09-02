@@ -13,8 +13,8 @@ language: "الكورية (مخلوطة بالمصطلحات الصينية)"
 active_start: 1860
 active_end: "مستمر"
 active_source: "lifespan"
+cultural_origin: "east-asian"
 edges:
-- rel: "belongs_to", target: "الحركات الكورية الدينية-الفلسفية (مظلة)", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-donghak", target_type: "مظلة"
 related:
 - id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
@@ -57,3 +57,9 @@ gaps:
 ## الإرث
 
 لا تزال تشوندوغيو موجودة حركة دينية-اجتماعية في كوريا (أكثر من 170 فرعاً وأكثر من 30,000 عضو حتى 2024). شكّلت خلفية فكرية لحركة العمال الكورية (1920-1980) ولحركة الاستقلال الكورية، وتُدرَّس حقلاً بحثياً مستقلاً في جامعة سونغكيونكوان (성균관) وقسم الفلسفة في جامعة كوريا. وتُعدّ مرجعياً واحدة من أندر الفلسفات الوطنية التي نجحت في تشكيل حركة سياسية ثورية، إذ تأثرت الشيوعية الكورية في بداياتها بتشوندوغيو.
+
+## المصادر
+
+- Weems, B. B. (1964). *Reform, Rebellion, and the Heavenly Way*. University of Arizona Press.
+- Kallander, G. L. (2013). *Salvation Through Dissent: Tonghak Heterodoxy and Early Modern Korea*. University of Hawai'i Press.
+- Lew, Y. I. (1990). "Tonghak Rebellion". In *Korean Studies*, University of Hawai'i Press.

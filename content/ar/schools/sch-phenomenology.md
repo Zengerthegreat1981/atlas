@@ -9,6 +9,7 @@ en: "Phenomenology"
 crumb: "الفلسفة ← القارية ← الظاهراتية"
 dates: "ألمانيا، فرنسا، العالم الأنجلوساكسوني · من 1900 إلى الوقت الحاضر"
 country: "ألمانيا، فرنسا"
+cultural_origin: "european"
 language: "الألمانية، الفرنسية، الإنجليزية"
 active_start: 1900
 active_end: "مستمر"
@@ -23,8 +24,8 @@ related:
 - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
 - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
 - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
-- id: "thk-schutz", title: "ألفرد شوتز", type: "مفكر"
-- id: "axm-intentionality", title: "القصدية (Intentionalität)", type: "بديهية/مبدأ تأسيسي"
+- id: "thk-schutz", title: "ألفريد شوتز", type: "مفكر"
+- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 - id: "wrk-ideen-i", title: "أفكار نحو ظاهراتية وصفية (Ideen I)", type: "عمل / كتاب"
 - id: "dia-sartre-merleau-ponty-break", title: "انشقاق سارتر وميرلوبونتي: الحرية السياسية، الجسد، والماركسية", type: "حوار مع مدرسة مجاورة"
 - id: "trm-corporeite-merleau-ponty", title: "الجسدانية والإدراك المتجسد (Corporéité): لحمة العالم وتجسد الوعي", type: "مصطلح لغوي متنازع عليه"
@@ -43,7 +44,6 @@ related:
 gaps:
   - "الفجوة بين الظاهراتية 'المثالية' (هوسرل) و'الواقعية' (فيندلباندت، ريناخ) في المراحل الأولى لم تُحلّل في هذا الملف."
   - "العلاقة الدقيقة مع الوضعية المنطقية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 # الظاهراتية (Phänomenologie)
 
@@ -82,3 +82,11 @@ gaps:
 - **اتهام «الأنانية المنهجية»** (methodische Solipsismus): حتى مع التعالي، تبقى الأنا المتعالية نقطة الانطلاق، مما يجعل الوصول إلى الآخرين إشكاليًا.
 - **تعقيد المصطلحات** يجعل الظاهراتية أقل وصولاً من الوجودية في الثقافة الشعبية.
 - لم تنتج مدرسة ظاهراتية «مؤسسية» مماثلة لمدرسة فرانكفورت، مما جعل تأثيرها أكاديميًا بحتًا لأجيال.
+
+## المصادر
+
+- Husserl, Edmund. *Ideas: General Introduction to Pure Phenomenology (Ideen I)*. 1913.
+- Husserl, Edmund. *The Crisis of European Sciences and Transcendental Phenomenology*. 1936.
+- Moran, Dermot. *Introduction to Phenomenology*. Routledge, 2000.
+- Zahavi, Dan. *Husserl's Phenomenology*. Stanford University Press, 2003.
+- Spiegelberg, Herbert. *The Phenomenological Movement: A Historical Introduction*. Martinus Nijhoff, 1960.

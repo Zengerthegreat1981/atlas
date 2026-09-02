@@ -9,13 +9,12 @@ crumb: "السلوكية ← الأعمال ← سلوك الكائن الحي"
 dates: "1938 · ب. ف. سكينر"
 language: "الإنجليزية"
 active_start: 1938
-active_end: 1938
+active_end: 1990
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
-- rel: "authored_by", target: "ب. ف. سكينر", target_type: "مفكر"
 related:
-- id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:
   - "تفاصيل المنهجية التجريبية لقفص سكينر (Skinner box) لم تُراجع من مصدر أولي بعد."

@@ -21,8 +21,7 @@ related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'الفلسفة ومرآة الطبيعة' (1979) و'الصدفة والمفارقة والتضامن' (1989) يمثلان تحولاً براغماتياً-وجودياً يستحق توثيقاً."
+  - "علاقته الفكرية بديوي وجيمس (البراغماتية الكلاسيكية) لم تُفصَّل بعد."
 ---
 
 # ريتشارد رورتي
@@ -43,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature, 1979) · الصدفة والمفارقة والتضامن (Contingency, Irony, and Solidarity, 1989) · عواقب البراغماتية (Consequences of Pragmatism, 1982).
+
+## المصادر
+
+- Wikipedia (Richard Rorty): https://en.wikipedia.org/wiki/Richard_Rorty
+- Rorty, R. (1979). *Philosophy and the Mirror of Nature*. Princeton University Press.
+- Rorty, R. (1989). *Contingency, Irony, and Solidarity*. Cambridge University Press.

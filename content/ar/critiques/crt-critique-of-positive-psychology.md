@@ -13,15 +13,14 @@ edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
-- id: "crt-commodification-critique", title: "نقد التسليع", type: "نقد خارجي موثَّق"
-- id: "crt-medicalization-of-poverty", title: "تطبيب الفقر", type: "نقد خارجي موثَّق"
+- id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
+- id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
 - id: "dbt-positivity-mandate-critique", title: "جِدَل الْإِيجَابِيّة كَوَاجِب: عِلْم النَّفْس الْإِيجَابِيّ ضِد نَقْد الْوَاجِب", type: "جدل"
 - id: "crt-critique-of-gratitude-research", title: "نقد بحوث الامتنان: هل «اكتب ثلاثة أشياء تشكر عليها» يغيّر شيئاً؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-resilience-training", title: "نقد تَدْرِيب «الْمَرونة»: مَن يَتَحَمَّل مَسْؤُولِيَّة الْفَشَل النِّظَامِيّ؟", type: "نقد خارجي موثَّق"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جوان باوير (thk-bauer)"
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Ehrenreich, 2009; Cederström & Spicer, 2015)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "النقد يشمل علوماً متعددة (علم نفس، اقتصاد، سياسة)."
 ---
 # نقد عِلْم النَّفْس الْإِيجَابِيّ مِن مَنْظُور السِّيَاسَة الاجْتِمَاعِيَّة

@@ -12,16 +12,15 @@ country: "المملكة العربية السعودية، جمهورية مصر
 language: "العربية"
 active_start: 1925
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
+cultural_origin: "islamic-arabic"
 related:
 - id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"
 - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
-- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
+- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
 - id: "sch-political-islam", title: "الإسلام السياسي (كتيار فكري)", type: "مدرسة"
 gaps:
   - "التفريق بين «السلفية العلمية» (الألباني) و«السلفية الجهادية» (القاعدة) و«السلفية الحركية» (الإخوان) يحتاج تدقيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «تفسير ابن كثير» (المعاد طباعته) أو من كتب محمد بن عبد الوهاب."
+  - "اقتباسات مباشرة من «تفسير ابن كثير» (المعاد طباعته) أو من كتب محمد بن عبد الوهاب لم تُراجَع من المصدر الأولي."
 ---
 
 # السلفية الكلامية الحديثة
@@ -89,3 +88,10 @@ gaps:
 - أثّرت في التشريع (تطبيق الحدود في السعودية والسودان وأفغانستان).
 - في الفكر المعاصر: أصبحت «السلفية» تياراً مركزياً في الدراسات الإسلامية (الجزيرة نت، إسلام أون لاين).
 - تواجه تحديات في العصر الحديث (تحدي داعش، تحدي الربيع العربي، تحدي الاستشراق).
+
+## المصادر
+
+- Henri Lauzière, *The Making of Salafism: Islamic Reform in the Twentieth Century*, Columbia University Press, 2016.
+- Roel Meijer (ed.), *Global Salafism: Islam's New Religious Movement*, Columbia University Press, 2009.
+- Bernard Haykel, "On the Nature of Salafi Thought and Action", in *Global Salafism*, 2009.
+- Quintan Wiktorowicz, "Anatomy of the Salafi Movement", *Studies in Conflict & Terrorism*, 29(3), 2006.

@@ -9,6 +9,10 @@ en: "Nicomachean Ethics by Aristotle"
 crumb: "الأخلاق الأرسطية وفلسفة الفضيلة ← أمهات الأعمال ← الأخلاق النيقوماخية"
 active_start: null
 active_end: "مستمر"
+author: "أرسطو"
+author_slug: "thk-aristotle"
+publication_year: -340
+original_language: "اليونانية"
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:

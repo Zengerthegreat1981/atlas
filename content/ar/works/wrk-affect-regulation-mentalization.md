@@ -10,19 +10,20 @@ dates: "2002 · بيتر فوناغي وغيورغي غيرغيلي وإليوت
 language: "الإنجليزية"
 active_start: 2002
 active_end: 2002
+author: "بيتر فوناغي، غيورغي غيرغيلي، إليوت جوريست، ماري تارغت"
+author_slug: "thk-fonagy"
+publication_year: 2002
+original_language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-fonagy", target_type: "مفكر"
-- rel: "authored_by", target: "غيورغي غيرغيلي", target_type: "مفكر"
-- rel: "authored_by", target: "إليوت جوريست", target_type: "مفكر"
-- rel: "authored_by", target: "ماري تارغت", target_type: "مفكر"
+- rel: "authored_by", target: "thk-mtarget", target_type: "مفكر"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Other Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."
-  - "المؤلفون الأربعة (Peter Fonagy، Gyorgy Gergely، Elliot Jurist، Mary Target) ليس لهم ملفات مفكرين مستقلين في الأطلس بعد."
+  - "المؤلفون الأربعة (Peter Fonagy، Gyorgy Gergely، Elliot Jurist، Mary Target): بيتر فوناغي (thk-fonagy) وماري تارجت (thk-mtarget) لهما ملفات معتمدة في الأطلس؛ غيورغي غيرغيلي وإليوت جوريست ليس لهما ملف مفكر بعد. حقل author_slug في الـfrontmatter يشير للمؤلف الأول (thk-fonagy) فقط لأن الصيغة تدعم قيمة واحدة."
 ---
 
 # تنظيم الوجدان والذهنية وتطور الذات

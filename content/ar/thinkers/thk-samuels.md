@@ -19,8 +19,7 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "con-political-psyche", title: "النفس السياسية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "موقعه الأخلاقي من كتابه «Jung and the 'Africans'» — موضع جدل مستمرّ في الأطلسات المعاصرة."
+  - "موقعه من نقاش «Jung and the 'Africans'» — موضع جدل مستمرّ في الأدبيات المعاصرة، يحتاج مصدراً أولياً محدداً بالصفحة."
 ---
 
 # أندرو صاموئلز
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 النفس التعدّدية (The Plural Psyche, 1989) · النفس السياسية (The Political Psyche, 1993) · سياسة على الأريكة (Politics on the Couch, 2001) · تأمّل نقدي في النفس السياسية (2025).
+
+## المصادر
+
+- Samuels, Andrew. *The Plural Psyche: Personality, Morality and the Father*. London: Routledge, 1989.
+- Samuels, Andrew. *The Political Psyche*. London: Routledge, 1993.
+- University of Essex — صفحة السيرة الأكاديمية الرسمية لأندرو صاموئلز، قسم علم النفس.

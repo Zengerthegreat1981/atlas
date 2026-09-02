@@ -12,16 +12,17 @@ active_start: 1991
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-def-labeling-thoughts", title: "وسم الأفكار (ACT)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "نسب المصطلح إلى ستيفن هايز يستحق توثيقاً أعمق."
+  - "لا يوجد مصدر أولي (عنوان كتاب/مقالة وسنة نشر) يمكن توثيقه بثقة هنا لإدراج قسم ## المصادر، لذا حُذف القسم."
+  - "الأدلة المقارنة بين الانفصال عن الأفكار وإعادة الصياغة المعرفية الكلاسيكية غير محسومة بدراسة بعينها في المتن، ما يبرر تصنيفها probably-efficacious لا well-established."
 ---
 
 # الانفصال عن الأفكار (Defusion)

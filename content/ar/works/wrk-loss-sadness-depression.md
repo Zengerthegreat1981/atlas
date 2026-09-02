@@ -8,11 +8,14 @@ en: "Loss: Sadness and Depression (Attachment and Loss, Vol. 3)"
 crumb: "التحليل النفسي النمائي/التطوري ← الأعمال ← الفقدان: الحزن والاكتئاب"
 dates: "1980 · جون بولبي"
 language: "الإنجليزية"
+author: "جون بولبي"
+author_slug: "thk-bowlby"
+publication_year: 1980
+original_language: "الإنجليزية"
 active_start: 1980
 active_end: 1980
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-bowlby", target_type: "مفكر"
 related:
 - id: "con-sadness", title: "الحزن", type: "مفهوم"

@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-hillman", target_type: "مفكر"
 related:
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "كتاب جيمس هيلمان (James Hillman) العمدة 'علم النفس الألكيميائي' (2014) وتحويل المواد الألكيميائية (السواد Nigredo، البياض Albedo، والحمرة Rubedo) إلى استعارات للتحول النفسي."

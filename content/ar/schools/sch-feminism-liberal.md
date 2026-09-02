@@ -9,11 +9,10 @@ en: "Liberal Feminism"
 crumb: "الفلسفة ← النسوية ← الليبرالية"
 dates: "بريطانيا، أمريكا · من القرن 18 إلى اليوم"
 country: "بريطانيا، الولايات المتحدة"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1792
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
 - id: "exp-beauvoir-discovery-of-otherness", title: "تجربة سيمون دي بوفوار واكتشاف الآخرية وتأليف الجنس الثاني", type: "خبرة معيشة"
@@ -58,3 +57,11 @@ gaps:
 
 - تُهمل أحياناً اختلافات النوع الاجتماعي.
 - تواجه انتقادات من النسوية الراديكالية: الإصلاح القانوني لا يغير البنية الأبوية.
+
+## المصادر
+
+- Wollstonecraft, Mary. *A Vindication of the Rights of Woman*. Joseph Johnson, 1792.
+- Mill, John Stuart. *The Subjection of Women*. Longmans, Green, Reader & Dyer, 1869.
+- Friedan, Betty. *The Feminine Mystique*. W. W. Norton & Company, 1963.
+- Okin, Susan Moller. *Justice, Gender, and the Family*. Basic Books, 1989.
+- Nussbaum, Martha. *Women and Human Development: The Capabilities Approach*. Cambridge University Press, 2000.

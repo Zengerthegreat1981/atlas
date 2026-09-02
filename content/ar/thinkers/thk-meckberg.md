@@ -23,7 +23,6 @@ related:
 - id: "thk-kelley", title: "تشارلز كيلي", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ماريانا إيكبيرغ
@@ -44,3 +43,7 @@ gaps:
 ## أهم أعمالها
 
 «دراسة حالة ناجٍ من التعذيب السياسي» (Case Study of a Survivor of Political Torture, مقالات في IIBA Journal) · مساهمات في كتب عن Bioenergetics والصدمة.
+
+## المصادر
+
+- Eckberg, M. (2000). *Victims of Cruelty: Somatic Psychotherapy in the Treatment of Posttraumatic Stress Disorder* (Foreword by P. A. Levine). North Atlantic Books.

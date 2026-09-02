@@ -24,7 +24,6 @@ related:
 - id: "ctx-dutch-golden-age-toleration", title: "العصر الذهبي الهولندي وأمستردام كعاصمة للتسامح والنشر الحر", type: "سياق/تقليد"
 gaps:
   - "العلاقة بين 'Ethics' و'Tractatus Theologico-Politicus' تحتاج مراجعة منهجية."
-  - "لا يوجد اقتباس مباشر موثوق من 'Deus sive Natura' بعد."
 ---
 # باروخ سبينوزا
 
@@ -58,3 +57,9 @@ gaps:
 - **Tractatus Theologico-Politicus** (1670): رسالة في اللاهوت والسياسة.
 - **Ethica, ordine geometrico demonstrata** (نُشر 1677): الأخلاق.
 - **Tractatus Politicus** (نُشر 1677): رسالة سياسية.
+
+## المصادر
+
+- Nadler, Steven. *Spinoza: A Life*. Cambridge University Press, 1999.
+- Della Rocca, Michael. *Spinoza*. Routledge, 2008.
+- Curley, Edwin (ed. and trans.). *The Collected Works of Spinoza*, 2 vols., Princeton University Press, 1985–2016.

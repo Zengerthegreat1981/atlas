@@ -9,6 +9,7 @@ en: "Waḥdat al-Wujūd (Mystical Monism)"
 crumb: "الفلسفة ← الإسلام ← تصوف فلسفي ← وحدة الوجود"
 dates: "الأندلس والمشرق · من القرن 12 م إلى القرن 14 م"
 country: "الدولة الموحدية (الأندلس)، الدولة المملوكية، السلطنة العثمانية"
+cultural_origin: "islamic-arabic"
 language: "العربية (مع الفارسية)"
 active_start: 1160
 active_end: 1400
@@ -24,7 +25,6 @@ related:
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 gaps:
   - "مسألة نسبة تعبير «وحدة الوجود» لابن عربي نفسه: هل استعمله أم ابتدعه من بعده الفارابي الطوسي؟"
-  - "لا يوجد اقتباس مباشر موثوق متاح من «الفتوحات المكية»."
 ---
 
 # العرفان النظري (وحدة الوجود)
@@ -78,3 +78,10 @@ gaps:
 - رفضها كثير من الماتريدية والأشعرية.
 - اعتُبرت «حلولية اتحادية» عند بعض المتأخرين.
 - في الفقه الشيعي: قَبِلَها الملا صدرا، واعتبرها بعض المراجع قريبة من التجسيم.
+
+## المصادر
+
+- Chittick, William C. *The Sufi Path of Knowledge: Ibn al-ʿArabī's Metaphysics of Imagination*. State University of New York Press, 1989.
+- Chodkiewicz, Michel. *Seal of the Saints: Prophethood and Sainthood in the Doctrine of Ibn ʿArabī*. Islamic Texts Society, 1993.
+- Izutsu, Toshihiko. *Sufism and Taoism: A Comparative Study of Key Philosophical Concepts*. University of California Press, 1983.
+- Knysh, Alexander. *Ibn ʿArabi in the Later Islamic Tradition: The Making of a Polemical Image in Medieval Islam*. State University of New York Press, 1999.

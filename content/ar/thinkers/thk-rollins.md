@@ -3,36 +3,40 @@ slug: "thk-rollins"
 id: "THK-2833"
 type: "مفكر"
 part: "psychology"
-level: "متقدم"
+level: "مبتدئ"
 title: "رولنز (Stephen Rollins)"
-en: "Stephen Rollins: Psychedelic-Assisted Therapy Trainer"
-crumb: "علاج بمساعدة المخدرات المخدرة ← مؤسِّسون ← رولنز"
-dates: "الولايات المتحدة"
-active_start: 2005
-active_end: "مستمر"
+en: "Stephen Rollins"
+crumb: "علاج بمساعدة نفسية ← مؤسِّسون ← رولنز"
+dates: "[DRAFT-UNKNOWN]"
+active_start: null
+active_end: null
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
-related:
-- id: "thk-rmdoblin", title: "ريكاردو دوبلين", type: "مفكر"
-- id: "thk-peter-bloom", title: "بيتر بلوم", type: "مفكر"
 gaps:
-  - "لم تُراجع من نسخة أصلية مباشرة بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الفرق بين MAPS و CIIS في تدريب المعالجين يحتاج فصلاً."
+  - "**حُجر 2026-08-27:** لا يمكن توثيق وجود Stephen Rollins كمدرب في العلاج بمساعدة نفسية لـMAPS أو CIIS. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rollins.md.archived.2026-08-27"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # رولنز (Stephen Rollins)
 
-مدرب وممارس في العلاج بالمساعدة النفسية، من المساهمين في تطوير برامج تدريب المعالجين ل**MAPS** (Multidisciplinary Association for Psychedelic Studies) و**CIIS** (California Institute of Integral Studies).
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rollins.md.archived.2026-08-27`
 
-## الإسهام
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-- **برامج تدريب المعالجين** (Therapist Training Programs، MAPS، العقد الثاني من القرن الحادي والعشرين+): تطوير مناهج تدريب ل«معالجين» في العلاج بالمساعدة النفسية، تشمل: (أ) «اختيار المعالج»، (ب) «تحضير المريض»، (ج) «إدارة الجلسة»، (د) «الدمج».
-- **Set and Setting** (إطار ومحيط): تطبيق «Set and Setting» (Hartogsohn، 2017) — «الحالة الذهنية» + «البيئة» ك«أساس» ل«أمان» الجلسة.
-- **تكامل بين الثقافات** (Cross-Cultural Integration): تطبيق المساعدة النفسية في ثقافات غير غربية (الأمازون، آسيا).
+## ملخص
 
-## الأهمية
+هذا المدخل يزعم أن "Stephen Rollins" مدرب في برامج تدريب المعالجين لدى MAPS وCIIS في العلاج بالمساعدة النفسية (psychedelic-assisted therapy). **لم يُعثر على أي دليل مستقل على وجوده** في هذا السياق: بحث مباشر عن الاسم مع MAPS وCIIS لم يُظهر أي نتيجة، والشخص الوحيد المطابق للاسم القريب (Steven Rollins) هو مدرب تنويم مغناطيسي عسكري متقاعد بلا صلة بالعلاج النفسي بمساعدة نفسية. المتن الأصلي نفسه كان صياغة عامة قالبية (عبارات بين علامات اقتباس بلا واقعة أو مرجع محدد)، وهو نمط نموذجي لملف مختلَق.
 
-رولنز من أصوار تدريب المعالجين في العلاج بالمساعدة النفسية، يساهم في «مؤسسة» المجال.
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rollins.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rollins.md.archived.2026-08-27`

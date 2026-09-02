@@ -9,6 +9,7 @@ en: "African Socialism"
 crumb: "الفلسفة ← الأفريقية ← الاشتراكية الأفريقية"
 dates: "أفريقيا · من 1950s إلى 1980s"
 country: "أفريقيا (السنغال، تنزانيا، غينيا)"
+cultural_origin: "african"
 language: "الإنجليزية، الفرنسية"
 active_start: 1957
 active_end: 1990
@@ -54,3 +55,9 @@ gaps:
 
 - بعد وفاة Nyerere، فشلت المشاريع في معظم الدول.
 - صعوبات في تسيير الاقتصاد المختلط.
+
+## المصادر
+
+- Nyerere, Julius K. *Ujamaa: Essays on Socialism*. Dar es Salaam / Oxford: Oxford University Press, 1968.
+- Nkrumah, Kwame. *Consciencism: Philosophy and Ideology for De-Colonization*. London: Panaf Books, 1964.
+- Friedland, William H., and Carl G. Rosberg Jr. (eds.). *African Socialism*. Stanford: Stanford University Press, 1964.

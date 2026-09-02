@@ -1,0 +1,60 @@
+---
+slug: "thk-ormijares"
+id: "THK-1698"
+type: "مفكر"
+level: "مبتدئ"
+title: "أوسكار رودريغيث ميجاريس"
+en: "Oscar Rodríguez Mijares"
+dates: "فنزويلا"
+country: "فنزويلا"
+language: "الإسبانية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "مدرسة التحليل النفسي ← الناس ← أوسكار رودريغيث ميجاريس"
+edges:
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
+related:
+- id: "thk-rlopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
+- id: "thk-sfreud", type: "مفكر", title: "سيغموند فرويد"
+- id: "thk-cgj", type: "مفكر", title: "كارل غوستاف يونغ"
+- id: "thk-de-tobar", type: "مفكر", title: "A. T. de Tobar"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Oscar Rodríguez Mijares' في IAAP أو SVAP (Sociedad Venezolana de Análisis Jungiano)."
+  - "لا كتاب منشور بهذا الاسم في WorldCat (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'Oscar Rodríguez' (صحفي فنزويلي) أو 'Oscar Mijares' (طبيب في كراكاس)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'SVAJ Venezuela' عام."
+---
+
+# أوسكار رودريغيث ميجاريس
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في التحليلية الفنزويلية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Oscar Rodríguez Mijares.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IAAP**: لا عضوية.
+  - **SVAP (Sociedad Venezolana de Análisis Jungiano)**: لا نتائج.
+  - **UCV (Universidad Central de Venezuela)**: لا توجد سيرة بهذا الاسم.
+  - **SciELO Venezuela**: لا مقالة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Rafael López-Pedraza** (محلل يونغي فنزويلي، 1932–2000، من أهم محللّي أمريكا اللاتينية) — شخصية حقيقية.
+  - **Alberto T. de Tobar** (محلل يونغي فنزويلي، من الجيل المؤسِّس SVAP).
+  - **Oscar Mijares** (طبيب في كراكاس، حقل مختلف).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم في التحليلية الفنزويلية.
+- للتحقق:
+  - López-Pedraza, R. (2000). *Cultural Hermeneutics*. Daimon.
+  - SVAP: غير مفهرسة في WorldCat.
+  - JAP: https://onlinelibrary.wiley.com/journal/17455112

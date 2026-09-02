@@ -14,8 +14,7 @@ language: "الإنجليزية"
 active_start: 1973
 active_end: 2016
 edges:
-- rel: "belongs_to", target: "العلاج بالتصوير الضوئي (PhotoTherapy)", target_type: "مدرسة"
-- rel: "developed", target: "sch-phototherapy", target_type: "مدرسة"
+- rel: "developed", target: "tec-phototherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-david-krauss", title: "ديفيد كراوس", type: "مفكر"
 - id: "sch-narrative-therapy", title: "العلاج السردي", type: "مدرسة"
@@ -104,7 +103,3 @@ gaps:
 - **«PhotoTherapy Techniques»** (1999) — الكتاب التأسيسي.
 - **«Person-Snapshot Snapshots»** (مقالات الثمانينيات من القرن العشرين-العقد الثاني من القرن الحادي والعشرين).
 - **«Phototherapy in the Treatment of Trauma»** (العقد الثاني من القرن الحادي والعشرين).
-
-## اقتباس مختار
-
-> «الصورة الفوتوغرافية تَعمل كَمِفتاح يفتح باباً في الذاكرة. لا يَهمّ ما في الصورة، بل ما تَستدعيه في المريض. أحياناً صورة تَحتوي على زهرة في وعاء، تَستدعي ذِكرى الجَدّة التي رَفَضت أن تأكل من الزهر في مرضها الأخير. هذه ليست مُبالغة، هذه حقيقة العلاج بالصور.»

@@ -12,8 +12,7 @@ country: "اليابان"
 language: "اليابانية"
 active_start: 1872
 active_end: 1901
-edges:
-- rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-datsuzoku", title: "الانفصال عن السلطة (Datsuzoku 脱俗)", type: "مفهوم"
 - id: "wrk-fukuzawa-civilization", title: "مخطط نظرية الحضارة (An Outline of a Theory of Civilization)", type: "عمل / كتاب"

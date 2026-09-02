@@ -48,3 +48,9 @@ gaps:
 ## اقتباسات مختارة
 
 «الشجاعة هي التأكيد الأخلاقي للذات في مواجهة قوى العدم.» — شجاعة الكينونة، 1952
+
+## المصادر
+
+- Tillich, P. (1952). *The Courage to Be*. Yale University Press.
+- Tillich, P. (1951–1963). *Systematic Theology* (3 vols). University of Chicago Press.
+- May, R. (1977). *The Meaning of Anxiety* (revised ed.). Norton — يوثّق تأثير تيليش المباشر على رولو ماي.

@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي (Actualizing Tendency)", type: "مفهوم"
 - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."
@@ -53,13 +53,13 @@ gaps:
 |---|---|
 | روجرز | Actualizing Tendency (نزعة التحقق الذاتي) |
 | ماسلو | Self-Actualization (تحقيق الذات) |
-| أنجل | Actualization of the Organism (تحقق الكائن) |
-| أنجيال | Intentional Growth (النمو القَصدي) |
+| كورت غولدشتاين | Self-Actualization of the Organism (تحقق الكائن) — في *Der Aufbau des Organismus* (1934، ترجمته الإنجليزية *The Organism*، 1939)، وهو أول من صاغ مصطلح "Self-Actualization" قبل روجرز وماسلو |
+| أندراس أنجيال | Trend Toward Increased Autonomy (النزعة نحو استقلالية متزايدة) — في *Foundations for a Science of Personality* (1941) |
 
 كلهم يتبنون المبدأ مع اختلافات في التأكيد:
 - روجرز يؤكد **العملية** (Process).
 - ماسلو يؤكد **الحالة** (State).
-- أنجل يؤكد **البُعد الديناميكي** (Dynamic).
+- غولدشتاين يؤكد **البُعد العصبي-الفسيولوجي** (Neuro-organismic)، إذ صاغ المبدأ أصلاً من عمله مع مرضى إصابات الدماغ في الحرب العالمية الأولى.
 - أنجيال يؤكد **البُعد القصدي** (Intentional).
 
 ## المبدأ في العلاج
@@ -75,6 +75,10 @@ gaps:
 2. **صعوبة التمييز**: متى يكون السلوك «تحققاً ذاتياً» ومتى يكون «إشباعاً للنقص»؟
 3. **الإسقاط الأيديولوجي**: البديهية تعكس قيماً ديمقراطية أمريكية، لا حقيقة كونية.
 
-## المصدر
+## المصادر
 
-صاغها روجرز في *Client-Centered Therapy* (1951) وعرضها منهجياً في *On Becoming a Person* (1961).
+- Rogers, C. R. (1951). *Client-Centered Therapy: Its Current Practice, Implications, and Theory*. Houghton Mifflin.
+- Rogers, C. R. (1961). *On Becoming a Person: A Therapist's View of Psychotherapy*. Houghton Mifflin.
+- Rogers, C. R. (1959). "A Theory of Therapy, Personality, and Interpersonal Relationships, as Developed in the Client-Centered Framework." In S. Koch (Ed.), *Psychology: A Study of a Science*, Vol. 3. McGraw-Hill.
+- Maslow, A. H. (1954). *Motivation and Personality*. Harper & Row.
+- Goldstein, K. (1939). *The Organism: A Holistic Approach to Biology Derived from Pathological Data in Man*. American Book Company.

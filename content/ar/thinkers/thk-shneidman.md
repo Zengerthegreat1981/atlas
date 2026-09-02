@@ -19,7 +19,7 @@ related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي بعد."
   - "مفهوم 'الألم النفسي الوجودي غير المحتمل' (Psychache) يستحق إفراد عنصر مفاهيمي مستقل."
 ---
 
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 صوت الانتحار (The Suicidal Mind, 1996) · تشريح الانتحار (Autopsy of a Suicidal Mind, 2004) · تعريفات الانتحار (Definition of Suicide, 1985).
+
+## المصادر
+
+- Shneidman, E. S. (1985). *Definition of Suicide*. John Wiley & Sons.
+- Shneidman, E. S. (1996). *The Suicidal Mind*. Oxford University Press.
+- Shneidman, E. S. (2004). *Autopsy of a Suicidal Mind*. Oxford University Press.
+- American Association of Suicidology — سجل التأسيس (1968) وأرشيف مؤسسها.

@@ -11,8 +11,12 @@ dates: "1844 · كيركيغارد"
 active_start: 1844
 active_end: 1844
 part: "philosophy"
+author: "سورين كيركيغارد"
+author_slug: "thk-kierkegaard"
+publication_year: 1844
+original_language: "الدنماركية"
 edges:
-- rel: "written_by", target: "كيركيغارد", target_type: "مفكر"
+- rel: "written_by", target: "thk-kierkegaard", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "trm-angst-translation", title: "ترجمة Angst: قلق أم فزع أم دهشة؟", type: "مصطلح لغوي متنازع عليه"

@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 2006
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 gaps:
   - "تاريخ Doherty في University of Minnesota يستحق توثيقاً."
   - "العلاقة بين Discernment و'Mediation' تستحق توثيقاً."

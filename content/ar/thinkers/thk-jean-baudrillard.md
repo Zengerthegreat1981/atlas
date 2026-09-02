@@ -13,7 +13,7 @@ language: "الفرنسية"
 active_start: 1959
 active_end: 2007
 edges:
-- rel: "belongs_to", target: "ما بعد الحداثة (الفلسفية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-postmodernism-philosophical", target_type: "مدرسة"
 related:
 - id: "trm-simulacra-baudrillard", title: "الأيقونة الشبيهة والمحاكاة الفائقة (Simulacra & Simulation)", type: "مصطلح لغوي متنازع عليه"
 - id: "met-baudrillard-desert-of-the-real", title: "صحراء الواقع لجان بودريار: استعارة المحاكاة الفائقة واختفاء الأصل", type: "استعارة/مجاز مؤسِّس"

@@ -12,6 +12,7 @@ country: "ألمانيا، هولندا، أمريكا"
 language: "الألمانية، الإنجليزية"
 active_start: 1877
 active_end: "مستمر"
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
@@ -60,3 +61,11 @@ gaps:
 
 - تواجه انتقادات بسبب «التشاؤمية».
 - تواجه انتقادات بسبب إهمال الفاعل البشري.
+
+## المصادر
+
+- Kapp, E. (1877). *Grundlinien einer Philosophie der Technik*. Braunschweig: Westermann.
+- Mumford, L. (1934). *Technics and Civilization*. New York: Harcourt, Brace.
+- Ellul, J. (1954). *La Technique ou l'Enjeu du siècle* [The Technological Society]. Paris: Armand Colin.
+- Heidegger, M. (1954). *Die Frage nach der Technik* [The Question Concerning Technology]. In *Vorträge und Aufsätze*. Pfullingen: Neske.
+- Verbeek, P.-P. (2005). *What Things Do: Philosophical Reflections on Technology, Agency, and Design*. University Park: Penn State University Press.

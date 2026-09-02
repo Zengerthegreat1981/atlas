@@ -5,21 +5,21 @@ type: "مفكر"
 level: "متقدم"
 title: "سيريل هول"
 en: "Cyril O. Houle"
-crumb: "المدرسة الوجودية ← الناس ← سيريل هول"
+crumb: "تعليم الكبار ← الناس ← سيريل هول"
 dates: "أمريكا · 1913–1998"
 active_start: 1961
 active_end: 1980
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تصنيفه الشهير لأنماط التعلم المستمر كمسعى وجودي لتحقيق المعنى يحتاج مراجعة تربوية."
+  - "crumb وedges.belongs_to صُحِّحا: كانا يصنفانه ضمن «المدرسة الوجودية»/sch-existential-therapy رغم أنه منظّر في تعليم الكبار لا في العلاج النفسي، وهو ما يوضحه قسم «القيد» في الملف نفسه."
 ---
 
 # سيريل هول

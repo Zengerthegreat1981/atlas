@@ -16,13 +16,13 @@ edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-young-jeffrey", title: "جيفري يونغ", type: "مفكر"
+- id: "thk-wells-adrian", title: "أدريان ويلز", type: "مفكر"
 - id: "dis-nightmare-disorder", title: "اضطراب الكوابيس", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+evidence_level: "probably-efficacious"
 gaps:
-  - "أصلها الرئيسي عند أدريان ويلز (Adrian Wells) في MCT ومن ثم طوّرها ميرا أرتنيس (Mera Arntz) في هولندا."
-  - "تُستخدم في علاج الكوابيس، والذكريات الصادمة، والصدمات المبكرة."
-  - "الفرق عن 'إعادة المعالجة من خلال حركات العين' (EMDR) في أن IR تعمل على مستوى السرد التخيلي الواعي."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا فوا (thk-foa)."
+  - "دور ميرا أرتنيس (Merel Kindt / Arnoud Arntz، جامعة أمستردام) في توسيع IR لاضطرابات الشخصية مذكور في المتن لكن ملفه الشخصي غير موجود بعد في الأطلس — لا slug متاح للربط."
+  - "حجم أثر IR في التجارب العشوائية المقارنة بـ CPT أو EMDR لعلاج PTSD غير موثّق برقم محدد هنا."
 ---
 
 # إعادة كتابة سردية التخيل (Imagery Rescripting)
@@ -46,3 +46,8 @@ gaps:
 ## موقعها في مشهد علاج الصدمات
 
 تختلف عن EMDR في أنها تعمل على المستوى السَّردي الواعي، وعن CPT في أنها تتعامل مع «النقاط الحاسمة» في الذكرى لا مع المحتوى المعرفي بأكمله. تكاملها مع تقنيات مثل «مواجهة القطة المخيفة» (Facing the Frightening Cat) يجعلها مرنة في علاج الأطفال والمراهقين.
+
+## المصادر
+
+- Arntz, A., & Weertman, A. (1999). Treatment of childhood memories: theory and practice. *Behaviour Research and Therapy*, 37(11).
+- Wells, A. (1997). *Cognitive Therapy of Anxiety Disorders: A Practice Manual and Conceptual Guide*.

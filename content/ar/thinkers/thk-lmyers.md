@@ -8,7 +8,7 @@ en: "Linda James Myers"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1985
+active_start: 1988
 active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← ليندا جيمس مايرز"
@@ -17,8 +17,9 @@ edges:
 related:
 - id: "thk-jakhan", title: "نوربلز إيفانز-هيل", type: "مفكر"
 gaps:
-  - "سنوات الميلاد لم تُراجع من مصدر أولي."
+  - "سنة الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تحقّق: كتابها التأسيسي Understanding an Afrocentric World View: Introduction to an Optimal Psychology صدر عام 1988 (ط2 1993)، فعُدِّل تاريخ active_start إلى 1988 (مصدر: Google Books، ResearchGate)."
 ---
 
 # ليندا جيمس مايرز

@@ -15,8 +15,7 @@ active_end: -420
 edges:
 - rel: "belongs_to", target: "sch-eleatic", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تاريخ المعركة البحرية ضد أثينا (441 ق.م) منسوب لأدميرال ساموس المسمّى ميليسوس في المصادر القديمة، لكن الربط الدقيق بينه وبين المؤلف الفيلسوف نفسه غير مؤكد قطعياً في الدراسات الحديثة."
 ---
 
 # ميليسوس الساموسي
@@ -39,6 +38,8 @@ gaps:
 
 - *في الطبيعة أو في الوجود* — شذرات نثرية محفوظة عند سمبليكيوس.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Harriman, Benjamin. "Melissus." *Stanford Encyclopedia of Philosophy*.
+- Barnes, Jonathan. *The Presocratic Philosophers*. Routledge, 1982.
+- Palmer, John. "Melissus." in *A Companion to Ancient Philosophy*, ed. Mary Louise Gill and Pierre Pellegrin, Blackwell, 2006.

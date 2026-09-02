@@ -17,17 +17,15 @@ edges:
 related:
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "thk-dsiegel", title: "دانيال ج. سيغل", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-amir-levine", title: "أمير ليفين", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي", type: "مفهوم"
+- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder)", type: "مفهوم"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
-- id: "thk-cindy-hazan", title: "سيندي هازان", type: "مفكر"
+- id: "thk-cindy-hazan", title: "سيندي هازان (Cindy Hazan)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة (1945) وارد في بعض المراجع الثانوية وتحتاج تحققاً من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
 
 # ستيفن بورجِس
@@ -59,14 +57,16 @@ gaps:
 - *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation* (2011). الكتاب التأسيسي.
 - *The Pocket Guide to the Polyvagal Theory: The Transformative Power of Feeling Safe* (2017، مع لين كيرتيس). نص ميسَّر.
 - *Polyvagal Safety: Attachment, Communication, and Self-regulation* (2021، مع سينتيا بوريل سكاي).
-- مقالات تأسيسية في مجلات *Psychophysiology* و*Biological Psychiatry* و*Neuroscience & Biobehavioral Reviews*.
+
+## المصادر
+
+- Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. W. W. Norton.
+- Porges, S. W., & Dana, D. (2018). *Clinical Applications of the Polyvagal Theory*. W. W. Norton.
+- Porges, S. W., & Kolacz, J. (2021). *Polyvagal Safety: Attachment, Communication, and Self-regulation*. W. W. Norton.
+- van der Kolk, B. (2014). *The Body Keeps the Score*. Viking. (يستشهد بنظرية بورجِس مباشرةً.)
 
 ## حدود الإدراج والنقد
 
 - بعض الباحثين في الفسيولوجيا العصبية يرون أن التمييز التشريحي-الوظيفي بين نوى المبهم البَطْنية والظهرية يحتاج دعماً تجريبياً أقوى.
 - خطر «الانجراف الشعبي»: المصطلحات البسيطة («سلم بولي فاغال» على سبيل المثال) انتشرت في ثقافة pop psychology أحياناً بأشكال تبسّطية.
 - سيرة بورجِس الأكاديمية غنية، لكن بعض المصادر الشعبية تخلط بينه وبين أسماء مشابهة (مثلاً Stephen Porges مقابل Steven Pinker)، فينبغي التحقق عند النقل.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح في هذا الملف. يلزم التحقق من نصوص بورجِس الأصلية قبل اعتماد أي اقتباس.

@@ -14,15 +14,15 @@ language: "الإنجليزية"
 active_start: 2015
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والصحافة العلمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-stolen-focus", title: "انتباه مسروق: لماذا لا تستطيع التركيز", type: "عمل / كتاب"
-- id: "wrk-lost-connections", title: "روابط مفقودة: الكشف عن الأسباب الحقيقية للاكتئاب", type: "عمل / كتاب"
+- id: "wrk-lost-connections", title: "الروابط المفقودة: كشف الأسباب الحقيقية غير المُخبَّرة للاكتئاب - وما الذي يساعد حقاً", type: "عمل / كتاب"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 - id: "thk-gabor-mate", title: "غابور ماتيه", type: "مفكر"
 gaps:
   - "الجدل المنهجي حول تبسيط أسباب الاكتئاب البيولوجية في Lost Connections يحتاج توثيقاً نقدياً أوسع."
-  - "لا يوجد اقتباس مباشر موثوق متاح في سياق الأطلس الأكاديمي."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـيوهان هاري في الأدبيات المتاحة."
 ---
 
 # يوهان هاري

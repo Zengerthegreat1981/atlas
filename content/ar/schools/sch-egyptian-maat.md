@@ -13,8 +13,8 @@ language: "المصرية القديمة (الهيروغليفية)"
 active_start: -2700
 active_end: -300
 active_source: "lifespan"
+cultural_origin: "african"
 edges:
-- rel: "belongs_to", target: "تقاليد الحكمة القديمة", target_type: "مظلة"
 related:
 - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
 - id: "thk-amenemope", title: "أمِنْمُوپ (آمنمحات)", type: "مفكر"
@@ -24,7 +24,6 @@ gaps:
   - "رابط مقترح لـ«النظام الكوني» (con-cosmological-order) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ما قبل سقراط» (sch-presocratic-philosophy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "مفهوم 'ماعت' (Ma'at) يحتاج مراجعة من المصدر الأولي (نصوص الأهرام، كتاب الموتى)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تقليد الحكمة المصرية (ماعت)
@@ -53,3 +52,11 @@ gaps:
 
 ## القيد
 عدم وجود نصوص فلسفية منهجية بالمعنى اليوناني يجعل تصنيفه «فلسفة» محل نقاش أكاديمي.
+
+## المصادر
+
+- Assmann, J. (1990/2006). *Ma'at: Gerechtigkeit und Unsterblichkeit im alten Ägypten*. C.H. Beck.
+- Lichtheim, M. (1973–1980). *Ancient Egyptian Literature: A Book of Readings* (3 vols). University of California Press.
+- Faulkner, R. O. (1969). *The Ancient Egyptian Pyramid Texts*. Oxford University Press.
+- Faulkner, R. O. (1972). *The Ancient Egyptian Book of the Dead*. British Museum Press.
+- Simpson, W. K. (Ed.) (2003). *The Literature of Ancient Egypt* (incl. Instructions of Ptahhotep and Amenemope). Yale University Press.

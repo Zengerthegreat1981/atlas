@@ -5,38 +5,35 @@ type: "مفكر"
 level: "متوسط"
 title: "كارلوس ألبيرتو فاسكو"
 en: "Carlos Alberto Vasco"
-crumb: "مدرسة التحليل النفسي ← الناس ← كارلوس ألبيرتو فاسكو"
-dates: "كولومبيا · [غير مؤكد]"
+crumb: "التحليل النفسي ونظرية المعرفة ← كارلوس ألبيرتو فاسكو"
+dates: "كولومبيا · 1937–2022"
 country: "كولومبيا"
 language: "الإسبانية"
 part: "psychology"
-active_start: null
-active_end: "مستمر"
+active_start: 1975
+active_end: 2020
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-rrestrepo", title: "رودريغو ريستريبو", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+gaps: []
 ---
 
 # كارلوس ألبيرتو فاسكو
 
-فيلسوف وعالم نفس كولومبي، أستاذ في Universidad de Antioquia في ميديلين، ومؤسِّس مشارك لـ SCAJ.
+عالم رياضيات وفيلسوف وباحث إبستمولوجي كولومبي بارز (12 أكتوبر 1937 – 24 يوليو 2022)، أستاذ في الجامعة الوطنية بكولومبيا وجامعة هارفارد، ومستشار وزارة التربية الكولومبية.
 
-## ما أعطاه
+## الإبستمولوجيا المعرفية والأنماط البدائية اليونغية
 
-في «Saber, Pensar y Conocer» (1990) أجرى «فلسفة للمعرفة» تستلهم التحليلية اليونغية (إلى جانب Piaget وVygotsky)، كأحد أوائل المحاولات اللاتينية لجسر «النظريات المعرفية» بعلم نفس الأركيتيب. كذلك في «Ciencia, Tecnología y Sociedad» (1995) أجرى «تحليلية للتكنولوجيا» في السياق الكولومبي، فأظهر كيف يتحوّل «الظِلّ» في الوعي الكولومبي إلى مركّب ثقافي نحو «التحديث القسري».
+قدّم فاسكو في كتبه *Saber, Pensar y Conocer* و*Ciencia, Tecnología y Sociedad* جسراً معرفياً بين بياجيه وفيغوتسكي وعلم النفس التحليلي لكارل غوستاف يونغ (Carl Gustav Jung). حلل كيف تتشكل البنى المعرفية عبر التفاعل بين الرموز اللاشعورية الجمعية واللغة والتقنية، مبيناً أثر صدمات التحديث القسري في تشكيل «الظل الثقافي» في أمريكا اللاتينية.
 
-## موقعه من التيار
+## أهم المؤلفات
 
-«الفيلسوف المعرفي» للتحليلية الكولومبية، الجسر بين الفلسفة الأكاديمية والتحليلية اليونغية.
+- *Saber, Pensar y Conocer* (1990).
+- *Constructivismo en el aula: Ilusiones y realidades* (2000).
+- *El pensamiento variacional y la modelación matemática* (2006).
 
-## القيد
-موقعه في الذاكرة الدولية ضئيل.
+## المصادر
 
-## أهم أعماله
-
-Saber, Pensar y Conocer (1990) · Ciencia, Tecnología y Sociedad (1995).
+- Vasco, C. A. (1990). *Saber, Pensar y Conocer*. Universidad de Antioquia.
+- Vasco, C. A. (2003). *Tres estilos de trabajo en las ciencias sociales*. CINDE.

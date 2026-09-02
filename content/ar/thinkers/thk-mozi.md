@@ -17,14 +17,13 @@ edges:
 - rel: "belongs_to", target: "sch-mohism", target_type: "مدرسة"
 related:
 - id: "sch-mohism", title: "الموهية", type: "مدرسة"
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "con-fate-mohist", title: "نفي القدر في الموهية", type: "مفهوم"
 - id: "con-jianai", title: "جيان آي (兼愛) — الإحسان الشامل", type: "مفهوم"
 - id: "wrk-mozi-text", title: "كتاب مو زي (مو تزو)", type: "عمل / كتاب"
 gaps:
   - "تفاصيل السيرة الذاتية الأصلية (مكان الميلاد، الحرفة، الفترة الأولى من حياته) لا تزال موضع خلاف."
   - "النصوص المنسوبة إليه في *Mozi* تحتاج مراجعة من طبعة محقّقة."
-  - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
 ---
 
 # مو زي (مو دي)
@@ -51,3 +50,9 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Mozi* (墨子، 71 فصلاً، معظمها من القرن 4–3 ق.م، خلط بين مو زي وتلاميذه «اللاحقين»).
+
+## المصادر
+
+- Fraser, Chris. "Mohism." *Stanford Encyclopedia of Philosophy*.
+- Johnston, Ian (trans.). *The Mozi: A Complete Translation*. Columbia University Press, 2010.
+- Graham, A. C. *Disputers of the Tao: Philosophical Argument in Ancient China*. Open Court, 1989.

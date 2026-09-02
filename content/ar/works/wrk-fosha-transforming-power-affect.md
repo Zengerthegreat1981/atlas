@@ -6,6 +6,10 @@ part: "psychology"
 level: "متوسط"
 title: "كتاب القوة التحويلية للانفعال لديانا فوشا (2000)"
 en: "The Transforming Power of Affect: A Model for Accelerated Change by Diana Fosha"
+author: "ديانا فوشا"
+author_slug: "thk-fosha"
+publication_year: 2000
+original_language: "الإنجليزية"
 crumb: "كتب العلاج الوجداني التحويلي ← أمهات الأعمال ← القوة التحويلية للانفعال"
 active_start: null
 active_end: "مستمر"

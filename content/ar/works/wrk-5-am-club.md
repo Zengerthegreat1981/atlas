@@ -8,18 +8,20 @@ level: "متوسط"
 title: "نادي الخامسة صباحاً: امتلك صباحك وارتقِ بحياتك"
 en: "The 5 AM Club: Own Your Morning, Elevate Your Life"
 crumb: "علم النفس الشعبي وتطوير القيادة ← الأعمال ← نادي الخامسة صباحاً"
-dates: "2018 · روبين شارما"
+dates: "2018 · روبن شارما"
 language: "الإنجليزية"
+author: "روبن شارما"
+author_slug: "thk-robin-sharma"
+publication_year: 2018
+original_language: "الإنجليزية"
 active_start: 2018
 active_end: 2018
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وتطوير القيادة", target_type: "مدرسة"
 - rel: "written_by", target: "thk-robin-sharma", target_type: "مفكر"
 related:
-- id: "thk-robin-sharma", title: "روبين شارما", type: "مفكر"
+- id: "thk-robin-sharma", title: "روبن شارما", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # نادي الخامسة صباحاً: امتلك صباحك وارتقِ بحياتك
@@ -33,7 +35,3 @@ gaps:
 ## قاعدة الـ 66 يوماً لترسيخ العادات
 
 مراحل بناء المسار العصبي الجديد: التفكيك، التثبيت، والدمج التلقائي.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

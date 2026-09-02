@@ -12,14 +12,14 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
-- id: "thk-may", title: "روللو ماي", type: "مفكر"
-- id: "crt-popper-critique-of-historicism", title: "نقد بوبر", type: "نقد خارجي موثَّق"
-- id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "crt-popper-critique-of-historicism", title: "نقد بوبر للنزعة التاريخية والشمولية في الفلسفة", type: "نقد خارجي موثَّق"
+- id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Cushman, 1990; Pedersen, 2011)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "الفرق بين هذا النقد والنقد الهرمنيوطيقي (Packer) يحتاج فصلاً."
+- "عنوان نص Pedersen 2011 وPillari 2011 غير مؤكد؛ اكتُفي بذكرهما بالاسم والسنة في المتن دون ضمهما لقسم المصادر."
 ---
 # نقد الْعِلَاج الْوُجُودِيّ: فَلْسَفَة لَا عِلَاج
 
@@ -38,3 +38,7 @@ gaps:
 ## أَهمِّيَّة
 
 النَّقْد «**مُهِمّ**» (Important) لِـ**«**اِخْتِيَار**» (Choice) عِلَاج مُسْتَنِد إِلَى أَدِلَّة، لَكِنَّ «**رَفْض**» (Rejection) الْوُجُودِيّ «**لَا**** (Not) مُبَرِّر «**دَائِمًا**» (Always).
+
+## المصادر
+
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

@@ -9,12 +9,16 @@ en: "Interkulturelle Philosophie"
 crumb: "الفلسفة ← العابرة ← بين-ثقافية ← كتاب فيمر"
 dates: "2004 · فرانتس مارتن فيمر"
 language: "الألمانية"
+author: "فرانتس مارتن فيمر"
+author_slug: "thk-wimmer"
+publication_year: 2004
+original_language: "الألمانية"
 active_start: 2004
 active_end: 2004
 edges:
-- rel: "belongs_to", target: "الفلسفة بين-ثقافية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-intercultural-philosophy", target_type: "مدرسة"
 related:
-- id: "sch-intercultural-philosophy", title: "الفلسفة بين-ثقافية", type: "مدرسة"
+- id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"
 - id: "thk-wimmer", title: "فرانتس مارتن فيمر", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ طبعة IKO الأصلية (2004) ولا الترجمات الإنجليزية الجزئية."

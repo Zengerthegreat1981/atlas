@@ -12,12 +12,12 @@ active_start: 1970
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "TIPP (استجابة الطوارئ للقلق الشديد)", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "النماذج المختلفة للعلاج الجنسي (Masters & Johnson, Kaplan, EFT-sexual, Narrative-sex) — التفاصيل التقنية والفروق لم تُقارَن جنباً إلى جنب."

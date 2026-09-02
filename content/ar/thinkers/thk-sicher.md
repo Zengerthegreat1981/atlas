@@ -13,15 +13,14 @@ part: "psychology"
 active_start: null
 active_end: 1962
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-hstein", title: "هنري ت. ستاين", type: "مفكر"
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-amuller", title: "ألكسندر مولر", type: "مفكر"
 gaps:
   - "الترجمة الإنجليزية الكاملة لأعمالها لم تكتمل بعد (Paul Brodsky وBernard Shulman من إكمال بعض المقالات)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "ألكسندرا أدلر (Alexandra Adler) — كانت مربوطة بالخطأ بمعرّف ألفريد أدلر (thk-adler)؛ لا عنصر مستقل لها في الأطلس بعد."
+  - "ألكسندرا أدلر (Alexandra Adler) — ابنة ألفرد أدلر ومحللة نفسية بحقها، مذكورة أحياناً في سياق سيشر دون ملف thk- مستقل لها بعد في الأطلس."
 ---
 
 # ليديا سيشر
@@ -41,4 +40,10 @@ gaps:
 
 ## أهم أعمالها
 
-«أعمال ليديا سيشر المجمّعة» (Collected Works of Lydia Sicher, 1998، بعد وفاتها) · مقالات في *Individual Psychology* و*American Journal of Individual Psychology*.
+«أعمال ليديا سيشر المجمّعة» (Collected Works of Lydia Sicher, نُشرت بعد وفاتها 1998) · مقالات في *Individual Psychology* و*American Journal of Individual Psychology*.
+
+## المصادر
+
+- Sicher, L. (1998). *Collected Works of Lydia Sicher: An Adlerian Perspective* (Adele Davidson, ed.). QED Press.
+- Stein, H.T. (مقدمات وتحرير أرشيف الفرع الأمريكي لعلم النفس الفردي — Alfred Adler Institute of San Francisco).
+- *American Journal of Individual Psychology* / *Individual Psychology* (سجلات مقالاتها).

@@ -7,13 +7,19 @@ title: "نظرية المرشح الواسعة لـ برودبنت (1958)"
 en: "Broadbent's Filter Theory of Attention"
 crumb: "علم النفس المعرفي ← الدراسات والأبحاث ← نظرية المرشح"
 active_start: 1954
-active_end: 1958
+active_end: 2000
 part: "psychology"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
+study_year: 1958
+design: "تجريبي معملي (فردي التصميم، Dichotic Listening)"
+sample_size:
+main_finding: "المعلومات غير المنتبَه إليها تُحجب في مرحلة مبكرة قبل المعالجة الدلالية، فيما بعد نُقض هذا الحصر الصارم"
+replication_status: "contested"
 gaps:
+  - "sample_size غير مؤكد: برودبنت اعتمد على سلسلة تجارب معملية صغيرة متفرقة (منها تجربة Cherry وتجارب برودبنت نفسه) دون رقم عينة موحّد منشور يمكن الجزم به هنا."
   - "التمييز الدقيق بين نظرية برودبنت المبكرة 1954 وتعديلاتها اللاحقة (1958) يحتاج توثيقاً أعمق."
   - "نظرية التراجع (Attenuation Theory, Treisman 1964) وما تلاها من مراجعات لم تُربط في هذا الملف."
 ---

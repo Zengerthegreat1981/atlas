@@ -13,11 +13,13 @@ edges:
 - rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
 - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
+- id: "thk-marshall", title: "ويليام مارشال", type: "مفكر"
+- id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "الفصل الدقيق بين نموذج Marlatt الأصلي (1985) وتطبيقاته على الجريمة الجنسية يستحق مراجعة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ويليام مارشال (thk-marshall)."
 ---
 # منع الانتكاسة الجنسية
 

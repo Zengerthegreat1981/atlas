@@ -8,9 +8,13 @@ en: "Zur Psychopathologie des Alltagslebens"
 crumb: "التحليل النفسي ← الأعمال ← سيكوباتولوجيا الحياة اليومية"
 dates: "1901 · سيغموند فرويد"
 active_start: 1901
-active_end: 1901
+active_end: 1995
 language: "الألمانية"
 part: "psychology"
+author: "سيغموند فرويد"
+author_slug: "thk-freud"
+publication_year: 1901
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-freud", target_type: "مفكر"
@@ -19,7 +23,6 @@ related:
 gaps:
   - "الطبعة الأولى (1901) نُشرت تحت عنوان *Zur Psychopathologie des Alltagslebens* — حدود الفروقات بين الطبعات اللاحقة لم تُراجع بدقة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Freud في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # سيكوباتولوجيا الحياة اليومية

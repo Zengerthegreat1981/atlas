@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← السفسطائية"
 dates: "من نحو 450 ق.م إلى نحو 380 ق.م"
 country: "يونان (أثينا ومحيطها)"
 language: "اليونانية الأتيكية"
+cultural_origin: "greek"
 active_start: -450
 active_end: -380
 edges:
-- rel: "belongs_to", target: "تقاليد يونانية كلاسيكية", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
@@ -72,3 +72,10 @@ gaps:
 - السفسطائية ليست مدرسة، بل حركة. «برنامج موحّد» غير موجود.
 - كثير من «أطروحات السفسطائيين» نقلها أفلاطون بأسلوب جدلي، حيث تبدو متهالكة بنيوياً — وهو ما دفع هيغل لاحقاً إلى الشكّ في عدالة أفلاطون.
 - بعض السفسطائيين (خصوصاً في القرن 4 ق.م) انحرفوا إلى محترفي جدلية ضيّعين (eristics)، وهو ما أعطى السفسطة سمعتها السيئة.
+
+## المصادر
+
+- Plato, *Protagoras* and *Gorgias* (dialogues).
+- G. B. Kerferd, *The Sophistic Movement*, Cambridge University Press, 1981.
+- W. K. C. Guthrie, *A History of Greek Philosophy*, Vol. III: *The Fifth-Century Enlightenment*, Cambridge University Press, 1971.
+- Hermann Diels & Walther Kranz, *Die Fragmente der Vorsokratiker*.

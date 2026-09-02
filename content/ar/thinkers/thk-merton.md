@@ -20,8 +20,7 @@ related:
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "thk-suzuki", title: "د. ت. سوزوكي", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "تمييزه الوجودي الحاسم بين 'الذات المزيفة' (The False Self) و'الذات الحقيقية' (The True Self) يستحق إدراجاً مفاهيمياً."
+  - "اقتباس مباشر منسوب لميرتون بمصدر وصفحة محددة (خارج عناوين الكتب) لم يُراجع بعد."
 ---
 
 # توماس ميرتون
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 الجبل ذو الدرجات السبع (The Seven Storey Mountain, 1948) · بذور التأمل (Seeds of Contemplation, 1949) · أفكار في العزلة (Thoughts in Solitude, 1958) · الزن وطيور الشهية (Zen and the Birds of Appetite, 1968).
+
+## المصادر
+
+- Merton, Thomas. *The Seven Storey Mountain*. Harcourt, Brace and Company, 1948.
+- Merton, Thomas. *New Seeds of Contemplation*. New Directions, 1961 (نسخة موسّعة من *Seeds of Contemplation*, 1949).
+- Mott, Michael. *The Seven Mountains of Thomas Merton*. Houghton Mifflin, 1984 (السيرة الرسمية المعتمدة).

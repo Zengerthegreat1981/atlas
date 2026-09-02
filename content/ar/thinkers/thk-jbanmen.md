@@ -13,7 +13,7 @@ active_start: 1975
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "نموذج ساتير للنمو", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 gaps:

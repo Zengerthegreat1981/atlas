@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-istdp", target_type: "مدرسة"
 related:
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
-- id: "thk-hdavanloo", title: "حبيب دافانلو", type: "مفكر"
+- id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

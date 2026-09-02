@@ -10,13 +10,14 @@ crumb: "الفلسفة ← القارية ← الواقعية المضاربة"
 dates: "فرنسا، أمريكا، العالم · من 2007 إلى الوقت الحاضر"
 country: "فرنسا، المملكة المتحدة، الولايات المتحدة، النرويج"
 language: "الإنجليزية، الفرنسية"
+cultural_origin: "french"
 active_start: 2007
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
 - rel: "split_into", target: "sch-ooo", target_type: "مدرسة"
 related:
-- id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (OOO)", type: "مدرسة"
+- id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (Object-Oriented Ontology)", type: "مدرسة"
 - id: "sch-new-materialism", title: "المادية الجديدة", type: "مدرسة"
 - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
 - id: "thk-quentin-meillassoux", title: "كونتين ميياسو", type: "مفكر"
@@ -25,7 +26,7 @@ related:
 - id: "con-tawakkul-psychology", title: "التوكل واليقين والسكينة النفسية (Tawakkul in Islamic Psychology)", type: "مفهوم"
 gaps:
   - "الواقعية المضاربة ليست 'مدرسة' بمعنى صارم، بل 'إطار' متعدد المواقف يضمّ أربع شخصيات متمايزة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم تُدرَج في هذا الملف اقتباسات مباشرة من نصوص ميّاسّو أو هارمان أو برَسْن؛ يحتاج ذلك مراجعة من المصادر الأولية."
   - "العلاقة مع حركة 'Accelerationism' لم تُحلّل."
 ---
 
@@ -102,3 +103,10 @@ gaps:
 - **التحليل الاجتماعي**: «**نظرية المُحوَّر**» (DeLanda) في الجغرافيا، الأنثروبولوجيا.
 - **الفلسفة البيئية**: «**واقعية مناخية**» (Timothy Morton، *Hyperobjects*, 2013).
 - **الفلسفة الرقمية**: البيانات بوصفها **أشياء** مستقلة.
+
+## المصادر
+
+- Quentin Meillassoux, *Après la finitude: Essai sur la nécessité de la contingence*, Seuil, 2006 (English trans. *After Finitude*, 2008).
+- Graham Harman, *The Quadruple Object*, Zero Books, 2011.
+- Ray Brassier, *Nihil Unbound: Enlightenment and Extinction*, Palgrave Macmillan, 2007.
+- Levi Bryant, Nick Srnicek & Graham Harman (eds.), *The Speculative Turn: Continental Materialism and Realism*, re.press, 2011.

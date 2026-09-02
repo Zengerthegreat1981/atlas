@@ -2,43 +2,34 @@
 slug: "thk-mchen"
 id: "THK-1542"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "مارفن تشِن"
 en: "Marvin Chen"
-crumb: "السيكودراما والسوسيومتري ← السياق الآسيوي ← مارفن تشن"
-dates: "تايوان · القرن العشرين–"
+crumb: "الأطلس ← thinkers ← مارفن تشِن"
+dates: "تايوان · [غير مؤكد]"
 country: "تايوان"
 language: "الصينية/الإنجليزية"
-active_start: 1985
-active_end: 2010
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
-related:
-- id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Marvin Chen في حقل السيكودراما بتايوان (لا مقالة في JGPPS، لا عضوية في ASGPP أو TFPG أو TAFPG، لا كتاب في WorldCat حتى آب 2026). الاحتمال الأقوى خلط مع Chen Yi Wu (المؤسِّس المشارك لـTFPG) أو Maolin Chen أو Hsian-Chou Chu. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-mchen.md.archived.2026-08-27"
 ---
 
 # مارفن تشِن
 
-معالج نفسي تايواني، يُعدّ من أهم من طوّر السيكودراما في السياق الصيني الآسيوي.
+(Marvin Chen)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-mchen.md.archived.2026-08-27`
 
-- **"السيكودراما في السياق الصيني"**: تكييف الممارسة مع البنى الأسرية الصينية.
-- **"المسرح والثقافة"**: دراسات عن الكيفية التي يعمل بها المسرحي في ثقافة محافظة.
-- **"العلاج الجماعي في تايوان"**: تطبيقات على العمل الجماعي في المؤسسات التايوانية.
+لم يُعثر على توثيق مستقل لوجود هذا الشخص في السيكودراما التايوانية. راجع `agents_specs/quarantine-minimax.md` للتفاصيل.
 
-## موقعه من التيار
+## المصادر
 
-يقف تشِن عند تقاطع السيكودراما الكلاسيكي والموروث الثقافي الصيني، وهو امتداد مهم للسيكودراما.
-
-## أهم أعماله
-
-- مقالات في *Journal of Group Psychotherapy, Psychodrama and Sociometry*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-mchen.md.archived.2026-08-27`

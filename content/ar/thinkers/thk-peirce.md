@@ -14,10 +14,10 @@ active_start: 1871
 active_end: 1914
 edges:
 - rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
-- rel: "founded", target: "البراغماتية الكلاسيكية", target_type: "مدرسة"
+- rel: "founded", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 gaps:
   - "الأعمال المبكرة (1859-1867) لم تُراجع بدقة كافية."
@@ -44,4 +44,9 @@ gaps:
 
 ## أهم أعماله
 
-On a New List of Categories (1868) · Description of a Notation for the Logic of Relatives (1870) · The Fixation of Belief (1877) · How to Make Our Ideas Clear (1878) · The Logic of Mathematics in Relation to Education (1898) · The Harvard Lectures on Pragmatism (1903) · Collected Papers of Charles Sanders Peirce (1931-1958، ثمانية مجلدات، تحرير هارتسهورن وفايس).
+On a New List of Categories (1868) · Description of a Notation for the Logic of Relatives (1870) · The Fixation of Belief (1877) · How to Make Our Ideas Clear (1878) · The Logic of Mathematics in Relation to Education (1898) · The Harvard Lectures on Pragmatism (1903) · Collected Papers of Charles Sanders Peirce، نُشرت بعد وفاته (1931-1958، ثمانية مجلدات، تحرير هارتسهورن وفايس).
+
+## المصادر
+
+- Peirce, C. S. (1931-1958). *Collected Papers of Charles Sanders Peirce* (8 مجلدات، تحرير: Hartshorne, C., Weiss, P., & Burks, A. W.). Harvard University Press.
+- Brent, J. (1993). *Charles Sanders Peirce: A Life*. Indiana University Press.

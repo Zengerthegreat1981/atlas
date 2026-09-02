@@ -13,13 +13,14 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
 register: "academic"
+cultural_origin: "anglo-canadian"
 evidence_level: "راسخ (Well-Established) للعلاج الزوجي وفق تقييم الدليل العلاجي لـAPA Division 12"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "evolved_from", target: "نظرية التعلّق (Attachment Theory)", target_type: "سياق"
+- rel: "evolved_from", target: "br-attachment-theory", target_type: "تيار"
 - rel: "evolved_from", target: "sch-eft", target_type: "تيار"
 - rel: "founded_by", target: "thk-sjohnson", target_type: "مفكر"
-- rel: "founded_by", target: "ليز غرينبرغ (Leslie Greenberg)", target_type: "مفكر"
+- rel: "founded_by", target: "thk-greenberg-lisa", target_type: "مفكر"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
@@ -135,3 +136,10 @@ EFT هي اليوم إحدى أكثر مناهج العلاج الزوجي دع�
 - Johnson, S. M. (2008). *Hold Me Tight*. Little, Brown Spark.
 - Johnson, S. M. (2019). *Attachment Theory in Practice*. Guilford Press.
 - Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change: The Moment-by-Moment Process*. Guilford Press.
+
+## المصادر
+
+- Johnson, S. M. (1996). *The Practice of Emotionally Focused Marital Therapy: Creating Connection*. Brunner/Mazel.
+- Johnson, S. M., & Greenberg, L. S. (1988). *Relating Process to Outcome in Marital and Family Therapy*. Guilford Press.
+- Johnson, S. M. (2008). *Hold Me Tight: Seven Conversations for a Lifetime of Love*. Little, Brown Spark.
+- Johnson, S. M. (2019). *Attachment Theory in Practice: Emotionally Focused Therapy (EFT) with Individuals, Couples, and Families*. Guilford Press.

@@ -8,6 +8,8 @@ en: "Old Saybrook Conference and the Founding Manifesto of Humanistic Psychology
 crumb: "علم النفس الإنساني ← تاريخ الحركة ← مؤتمر أولد سايبروك 1964"
 active_start: "1964-05-18"
 active_end: "1964-05-23"
+event_date: "1964-05-18"
+event_place: "أولد سايبروك، كونيتيكت، الولايات المتحدة"
 country: "الولايات المتحدة"
 part: "psychology"
 related:

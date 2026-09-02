@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم النفس الشرعي/الجنائي", target_type: "مدرسة"
 related:
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "con-risk-need-responsivity", title: "مبدأ المخاطرة والحاجة والاستجابة", type: "مفهوم"

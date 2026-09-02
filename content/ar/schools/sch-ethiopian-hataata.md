@@ -10,11 +10,11 @@ crumb: "الفلسفة ← أفريقيا وأمريكا الأصلية ← ال
 dates: "إثيوبيا · من القرن 4 إلى اليوم"
 country: "إثيوبيا، إريتريا"
 language: "الغيئزية، الأمهرية، العفرية"
+cultural_origin: "african"
 active_start: 300
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
 - id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
 - id: "thk-yacob", title: "زارا يعقوب", type: "مفكر"
@@ -56,3 +56,9 @@ gaps:
 
 - الخلط بين الهاتاتا (الحكمة) والفلسفة الأكاديمية الحديثة.
 - ترجمة الأدب الإثيوبي القديم محدودة.
+
+## المصادر
+
+- Sumner, Claude. *Ethiopian Philosophy, Volume II: The Treatise of Zera Yacob and of Walda Heywat*. Commercial Printing Press, Addis Ababa, 1976.
+- Teodros Kiros. *Zara Yacob: Rationality of the Human Heart*. Red Sea Press, 2005.
+- Wiredu, Kwasi (ed.). *A Companion to African Philosophy*. Blackwell, 2004.

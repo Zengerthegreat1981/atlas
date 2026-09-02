@@ -12,28 +12,26 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-identifying-core-beliefs-schemas", title: "تحديد المعتقدات الجوهرية والمخططات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-role-playing", title: "لعب الأدوار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-role-playing", title: "تمثيل الأدوار", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "تبنّي المنظور", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
+- id: "con-the-look-of-the-other-sartre", title: "نظرة الآخر وتشييء الوعي (The Look of the Other)", type: "مفهوم"
 - id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "wrk-cognitive-therapy-personality", title: "العلاج المعرفي لاضطرابات الشخصية", type: "عمل / كتاب"
@@ -42,12 +40,19 @@ gaps:
   - "النموذج البُعدي لـ ICD-11 (الشدة + السمات البارزة) في سياق AvPD لم يُراجع من المصدر الأولي."
   - "التداخل بين AvPD والقلق الاجتماعي اضطراب منفصل في بعض الدراسات لم يُوثَّق بدقة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الشخصية التجنبية
 
 اضطراب شخصية يتميز بنمط منتشر من الخوف من النقد والرفض الاجتماعي، وتجنّب المواقف التي تنطوي على تواصل بين الأشخاص، والشعور بانعدام الكفاءة الشخصية. يبدأ في مرحلة البلوغ المبكر ويظهر في سياقات متعددة. يتداخل إكلينيكياً مع اضطراب القلق الاجتماعي (Social Anxiety Disorder) لكنه يتميز بطابع الشخصية المنتشر (عبر المواقف) ومستوى أعمق من عدم الكفاءة المُدركة.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الشخصية التجنبية كفئة تشخيصية سريرية (نمط منتشر من تجنّب مواقف التواصل بمعايير مدة وشدة محددة) وبين 'نظرة الآخر' كما حللها سارتر (con-the-look-of-the-other-sartre) — الأخير بنية وجودية عامة تصف كيف يُشيِّئ وعي الآخر ذاتي بالنظر إليّ، وهي خبرة إنسانية بنيوية يشترك فيها الجميع بدرجات، لا فئة مرضية تخص أفراداً بعينهم فقط.
 
 ## ملاحظات على المعايير التشخيصية
 

@@ -10,15 +10,16 @@ crumb: "الفلسفة ← اليهودية ← الفلسفة اليهودية 
 dates: "الإسكندرية · من القرن 1 ق.م إلى القرن 1 م"
 country: "مصر (الإسكندرية)"
 language: "اليونانية"
+cultural_origin: "greek"
 active_start: -50
 active_end: 50
 edges:
-- rel: "evolved_from", target: "تقليد الحكمة العبرية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
-- id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية", type: "مدرسة"
-- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
-- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "thk-philo-alexandria", title: "فيلون الإسكندري", type: "مفكر"
 - id: "con-logos-philo", title: "اللوغوس (الكلمة الإلهية) عند فيلو", type: "مفهوم"
@@ -57,3 +58,10 @@ gaps:
 - فيلو (المؤسس).
 - يوسيفوس (Josephus) في المقابل.
 - يهودا اللاوي (ناقد الفلسفة) في مرحلة لاحقة.
+
+## المصادر
+
+- Wolfson, Harry Austryn. *Philo: Foundations of Religious Philosophy in Judaism, Christianity, and Islam*, Harvard University Press, 1947.
+- Runia, David T. *Philo of Alexandria and the Timaeus of Plato*, Brill, 1986.
+- Philo of Alexandria. *The Works of Philo*, trans. C. D. Yonge, Hendrickson, 1993.
+- Stanford Encyclopedia of Philosophy — مدخل "Philo of Alexandria".

@@ -12,13 +12,16 @@ dates: "2021 · آنا ليمبكي"
 language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
+author: "آنا ليمبكي"
+author_slug: "thk-anna-lembke"
+publication_year: 2021
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-anna-lembke", target_type: "مفكر"
 related:
 - id: "thk-anna-lembke", title: "آنا ليمبكي", type: "مفكر"
 - id: "con-pleasure", title: "اللذة", type: "مفهوم"
-- id: "syn-craving-urge", title: "الرغبة الشديدة والإلحاح الإدماني", type: "متلازمة"
+- id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "التفريق العلمي بين 'الإدمان السلوكي' و'الإدمان الكيميائي' في الفهم المُعاصر لا يزال موضع نقاش DSM-5-TR."
   - "توثيق 'توازن الدوبامين' كنظرية عصبية-كيميائية يحتاج تفصيلاً إضافياً."

@@ -9,14 +9,13 @@ crumb: "أطر غير غربية ← المفاهيم ← هو-أوبونوبو�
 active_start: 1976
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الشفاء الهاوائي", target_type: "مدرسة"
 related:
-- id: "thk-msimeona", title: "مورانا سيميونا", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-msimeona", title: "مورّنا سيميونّا", type: "مفكر"
+- id: "thk-ihewlen", title: "إِهالِيكالا هيو لين", type: "مفكر"
 gaps:
   - "الفرق بين Ho'oponopono التقليدي (1976) والمُعدَّل (Ihaleakala Hew Len) لم يُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "هدف الرابط 'con-autonomy-homonomy' (الاستقلالية والهومونومي) أُزيل من related لعدم وجود جملة في المتن تبرر الصلة بينه وبين هذا المفهوم."
+  - "edges.belongs_to السابقة كانت 'الشفاء الهاوائي' — نص حر وليس slug لملف sch- موجود؛ حُذف الرابط لعدم وجود ملف مدرسة موثّق تحت هذا الاسم في الأطلس."
 ---
 
 # هو-أوبونوبونو (Ho'oponopono)

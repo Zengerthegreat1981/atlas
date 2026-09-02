@@ -10,17 +10,18 @@ crumb: "علم النفس ← المدارس النسقية والأسرية ←
 dates: "الولايات المتحدة · من 1980 إلى اليوم"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسقية والأسرية", target_type: "تيار"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "founded_by", target: "thk-hhendrix", target_type: "مفكر"
 - rel: "co_founded_by", target: "thk-hlkelly", target_type: "مفكر"
 - rel: "influenced_by", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "influenced_by", target: "br-attachment-theory", target_type: "مدرسة"
 related:
 - id: "tec-imago-relationship-therapy", title: "علاج العلاقات إيماغو", type: "تقنية/تدخل علاجي"
-- id: "thk-hhendrix", title: "هارفي هندرِكس", type: "مفكر"
+- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
@@ -64,7 +65,7 @@ gaps:
 
 أثر Imago في جيل كامل من المعالجين الزوجيين، وأصبحت تقنياته الحوارية معياراً مرجعياً. الكتاب التأسيسي من أكثر الكتب مبيعاً عالمياً في العلاقات الزوجية. امتدّ التأثير لاحقاً إلى "الإيماغو التربوي" الذي يطبّق الحوار المنظّم على علاقة المعلم بالتلميذ والأب بالابن.
 
-## أهم المرجعيات
+## المصادر
 
 - Hendrix, H. (1988). *Getting the Love You Want: A Guide for Couples*. Harper & Row.
 - Hendrix, H., & Hunt, H. L. (1992). *Keeping the Love You Find*. Pocket Books.

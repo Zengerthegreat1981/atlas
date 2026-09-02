@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "جنيفر ساندوفال"
 en: "Jennifer M. Sandoval"
-crumb: "مدرسة التحليل النفسي ← الناس ← جنيفر ساندوفال"
+crumb: "التحليلية اليونغية ← الناس ← جنيفر ساندوفال"
 dates: "أمريكا · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
@@ -13,15 +13,17 @@ part: "psychology"
 active_start: 2010
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-cel-bejjani", title: "كولين البيجاني", type: "مفكر"
-- id: "thk-ppower", title: "باميلا باور", type: "مفكر"
+- id: "thk-ppower", title: "باميلا ج. باور", type: "مفكر"
 - id: "thk-giegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "**تحذير تحقّق**: نسبة تحرير كتاب *Psychology as the Discipline of Interiority* (2013) وسلسلة دراسات غيغيريش وانتماؤها إلى Florida Gulf Coast University لم يُتحقّق منها من مصدر أوّلي؛ وأكثر من كتب عن غيغيريش بالإنجليزية هو **غريغ موغنسون**. الملف يحتاج توثيقاً قبل الاعتماد عليه."
+  - "edges.belongs_to.target كان sch-psychoanalysis رغم أن كل مادة الملف عن غيغيريش واليونغية النقدية؛ استُبدل بـ br-jungian (التحليلية اليونغية) وهو الأنسب لمحتوى المتن الفعلي."
+  - "عنوان رابط thk-ppower كان 'باميلا باور' بينما العنوان الحقيقي للملف 'باميلا ج. باور' — صُحِّح للمطابقة."
 ---
 
 # جنيفر ساندوفال

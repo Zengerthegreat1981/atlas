@@ -20,7 +20,6 @@ related:
 - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
 gaps:
   - "بعض تفاصيل حياته الشخصية المتأخرة (الممارسة الخاصة في Maine) شحيحة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ناثان شوارتز-سالانت
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 «النرجسية وتحول الشخصية» (Narcissism and Character Transformation, 1982) · «الشخصية الحدّية: الرؤية والشفاء» (The Borderline Personality, 1989) · «مفارقة النظام والاضطراب» (The Order-Disorder Paradox, 2019).
+
+## المصادر
+
+- Schwartz-Salant, N. (1982). *Narcissism and Character Transformation*. Toronto: Inner City Books.
+- Schwartz-Salant, N. (1989). *The Borderline Personality: Vision and Healing*. Chiron Publications.
+- Schwartz-Salant, N. (2019). *The Order-Disorder Paradox*. Chiron Publications.

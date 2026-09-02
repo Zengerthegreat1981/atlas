@@ -19,7 +19,6 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مايكل فونوي آدامز
@@ -40,3 +39,9 @@ gaps:
 ## أهم أعماله
 
 «اللاوعي الأسطوري» (The Mythological Unconscious, 2001) · «مبدأ الخيال» (The Fantasy Principle, 2004) · «من أجل حبّ الخيال» (For Love of the Imagination, 2014).
+
+## المصادر
+
+- Adams, Michael Vannoy. *The Multicultural Imagination: "Race", Color, and the Unconscious*. Routledge, 1996.
+- Adams, Michael Vannoy. *The Mythological Unconscious*. Karnac Books, 2001.
+- Adams, Michael Vannoy. *The Fantasy Principle: Psychoanalysis of the Imagination*. Brunner-Routledge, 2004.

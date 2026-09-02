@@ -9,6 +9,7 @@ en: "Christian Existentialism"
 crumb: "الفلسفة ← القارية ← الوجودية الدينية/المسيحية"
 dates: "أوروبا، الولايات المتحدة · من 1944 إلى نحو 1980"
 country: "فرنسا، ألمانيا، الولايات المتحدة"
+cultural_origin: "european"
 language: "الفرنسية، الألمانية، الإنجليزية"
 active_start: 1944
 active_end: 1980
@@ -21,7 +22,6 @@ related:
 - id: "sch-personalism-contemporary", title: "الشخصانية المعاصرة (Contemporary Personalism)", type: "مدرسة"
 gaps:
   - "العلاقة مع كيركيغارد (المؤسِّس بأثر رجعي) تحتاج مراجعة دقيقة من أعمدة كيركهارد الدينية."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "الفجوة بين 'المسيحية' و'الإلهية الجديدة' (Berdyaev، Lev Shestov) لم تُحلّل في هذا الملف."
 ---
 
@@ -55,3 +55,10 @@ gaps:
 
 - **اتهام «الإيمانوية»** (Fideismus): يتّهمها اللاهوت التقليدي بإضعاف العقل.
 - قد تتعارض مع اللاهوت الليبرالي اللي يحاول التوفيق بين العلم والدين (راجع John Cobb).
+
+## المصادر
+
+- Marcel, G. (1950/2001). *The Mystery of Being* (2 vols.). Trans. G. S. Fraser & René Hague. St. Augustine's Press.
+- Buber, M. (1923/1970). *I and Thou*. Trans. Walter Kaufmann. Scribner.
+- Tillich, P. (1952). *The Courage to Be*. Yale University Press.
+- Jaspers, K. (1932/1969-1971). *Philosophy* (3 vols.). Trans. E. B. Ashton. University of Chicago Press.

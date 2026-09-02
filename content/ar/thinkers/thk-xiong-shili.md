@@ -13,10 +13,12 @@ language: "الصينية"
 active_start: 1915
 active_end: 1968
 edges:
-- rel: "belongs_to", target: "الكونفوشية الجديدة المعاصرة (القرن 20)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-newconfucianism-modern", target_type: "مدرسة"
+related:
+- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
+- id: "thk-mou-zongsan", title: "مو تسونغ سان", type: "مفكر"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا تتوفر ترجمة عربية لِـXin weishi lun (الوعي-فقط الجديد، 1932)."
 ---
 
 # شيونغ شي لي
@@ -41,6 +43,8 @@ gaps:
 - *Yuan ru* (في أصل الكونفوشية).
 - *Ti yong lun* (في الأصل والوظيفة).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Xiong Shili, *Xin weishi lun* [New Treatise on the Uniqueness of Consciousness] (1932/1944).
+- Makeham, J. (ed., 2018). *Transforming Consciousness: Yogācāra Thought in Modern China*. Oxford University Press.
+- Tu, W. (1976). "Subjectivity in Liang Shu-ming's Philosophy" وفصول عن خيونغ شي لي في تاريخ الكونفوشية الجديدة الحديثة.

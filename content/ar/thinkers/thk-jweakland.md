@@ -12,8 +12,7 @@ active_end: 1995
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 - id: "thk-jhaley", title: "جاي هالي", type: "مفكر"

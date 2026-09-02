@@ -15,12 +15,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
-- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 - id: "con-gender-performativity", title: "أداء النوع (الجنوسة الأدائية)", type: "مفهوم"
 - id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
-- id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
 gaps:
   - "رابط مقترح لـ«جاك دريدا» (thk-derrida) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«ميشيل فوكو» (thk-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -13,13 +13,10 @@ edges:
 - rel: "relates_to", target: "sch-psychology-of-love", target_type: "مدرسة"
 related:
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-- id: "qst-mind-body-interaction-problem", title: "كيف يؤثر غير المادي في المادي؟ معضلة التفاعل بين النفس والجسد", type: "سؤال"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحب (con-love)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق (con-attachment)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: آرثر شوپنهاور (thk-arthur)"
-  - "المصادر الأولية (Plato، Augustine، Fromm، Sternberg) تحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'الحب' (Love) و'التعلق' (Attachment) و'الإعجاب' (Admiration) يحتاج فصلاً."
   - "العلاقة بين 'الحب الرومانسي' و'الحب الأفلاطوني' و'الحب الأخوي' (Philia) و'حب الذات' (Philautia) تحتاج توثيقاً."
 ---
@@ -42,3 +39,12 @@ gaps:
 ## الأَهمِّيَّة
 
 (1) **الْعَلَاقَات** (Relationships): «**حُبّ**» «**أَسَاس**» (Basis) «**عَلَاقَات بَشَرِيَّة**». (2) **الصِّحَّة** (Health): «**حُبّ**» «**مُرْتَبِط**» (Linked) بِـ**«**صِحَّة أَفْضَل**» (Better Health). (3) **الْأَدَب** (Literature): «**حُبّ**» «**مَوْضُوع**» (Subject) «**أَدَب**» (Literature) «**عَالَمِيّ**» (Universal).
+
+## المصادر
+
+- Plato, *Symposium* (~380 ق.م.).
+- Aristotle, *Nicomachean Ethics*, Books VIII–IX.
+- Augustine, *Confessions* (~400).
+- Schopenhauer, A. (1851). "Metaphysics of the Love of the Sexes." In *Parerga and Paralipomena*.
+- Fromm, E. (1956). *The Art of Loving*.
+- Sternberg, R. J. (1986). "A Triangular Theory of Love." *Psychological Review*.

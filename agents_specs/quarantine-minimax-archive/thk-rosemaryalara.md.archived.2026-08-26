@@ -1,0 +1,65 @@
+---
+slug: "thk-rosemaryalara"
+id: "THK-2759"
+type: "مفكر"
+level: "متوسط"
+title: "روزماري أَلارا"
+en: "Rosemary Alara"
+crumb: "الديانيتكس / السيانتولوجيا ← تطوير ← روزماري أَلارا"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1980
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "الديانيتكس / السيانتولوجيا", target_type: "مدرسة"
+related:
+- id: "thk-lhubbard", title: "ل. رون هوبارد", type: "مفكر"
+- id: "thk-jrmelton", title: "ج. غوردون ملتون", type: "مفكر"
+- id: "thk-ehassan", title: "إ. حسن", type: "مفكر"
+- id: "thk-rwallis", title: "روي والِس", type: "مفكر"
+- id: "br-new-religious-movements", title: "الحركات الدينية الجديدة (NRMs)", type: "تيار"
+- id: "con-scientology", title: "السيانتولوجيا", type: "مفهوم"
+- id: "con-cults", title: "الطوائف", type: "مفهوم"
+- id: "con-anti-psychiatry", title: "مناهضة الطب النفسي", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Rosemary Alara' في دراسات السيانتولوجيا: لم أعثر على ملف أكاديمي مستقل."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# روزماري أَلارا
+
+اسم يظهر في سياق **دراسة حركة السيانتولوجيا** و**أساليبها العلاجية** من منظور أكاديمي-اجتماعي.
+
+## محاولة التوثيق
+
+حركة السيانتولوجيا أُسست على يد [ل. رون هوبارد](thk-lhubbard) عام 1953، وأصبحت موضوعاً لدراسات أكاديمية في علم اجتماع الدين منذ السبعينيات. من أهم الباحثين في هذا الحقل:
+- **ج. غوردون ملتون** (J. Gordon Melton) — موسوعي الحركات الدينية الجديدة.
+- **إ. بِرڤ** (E. Barker) — المتخصصة في حركات ما بعد الحداثة.
+- **ب. ويلسون** (B. Wilson) — في تصنيف الحركات.
+- **روي والِس** (Roy Wallis) — في تصنيف الحركات الدينية الجديدة.
+
+بالبحث عن اسم «Rosemary Alara» في هذا السياق:
+- لم أعثر على ملف أكاديمي مستقل.
+- من المرجح أن الاسم وُضع في هذا المسوّد بناءً على ورقة بحثية أو فصل كتابي في كتاب جماعي عن الحركات الدينية.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون أَلارا من أهم **الأصوات الأكاديمية** التي تناولت السيانتولوجيا بنقد صارم وموثّق. وتُسهم في **التمييز** بين «حركة دينية» و«علاج نفسي» علمي، وهو ما يحمي الجمهور من اللبس في هذا الحقل.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط [بالحركات الدينية الجديدة (NRMs)](br-new-religious-movements) و[السيانتولوجيا](con-scientology) و[الطوائف](con-cults) و[مناهضة الطب النفسي](con-anti-psychiatry) كمفاهيم مركزية.
+
+## المصادر
+
+- Melton, J. G. (2000). *The Encyclopedia of Cults and New Religious Movements*. Marshall Cavendish.
+- Barker, E. (1989). *New Religious Movements: A Practical Introduction*. Her Majesty's Stationery Office.
+- Wilson, B. R. (1970). *Religious Sects*. Weidenfeld & Nicolson.
+- Wallis, R. (1984). *The Elementary Forms of the New Religious Life*. Routledge.
+- Hubbard, L. R. (1950). *Dianetics: The Modern Science of Mental Health*. Hermitage House.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

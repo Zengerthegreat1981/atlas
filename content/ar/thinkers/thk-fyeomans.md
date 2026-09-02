@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← الناس ← العلاج المرتك
 dates: "أمريكا · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:

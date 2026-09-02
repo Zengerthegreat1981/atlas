@@ -2,41 +2,45 @@
 slug: "thk-pekkajokinen"
 id: "THK-2740"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "بيكا يوكينن"
 en: "Pekka Jokinen"
-crumb: "الحوار المفتوح ← تطوير ← بيكا يوكينن"
-dates: "فنلندا · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← بيكا يوكينن"
+dates: "فنلندا · [غير مؤكد]"
 country: "فنلندا"
 language: "الفنلندية"
-active_start: 1990
+part: "psychology"
+active_start: null
 active_end: "مستمر"
-part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الحوار المفتوح", target_type: "مدرسة"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** لا يمكن توثيق هذا الشخص من مصادر أكاديمية رصينة (تم التحقق آب 2026). النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 1)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-pekkajokinen.md.archived.2026-08-26"
 ---
 
 # بيكا يوكينن
 
-معالج نفسي فنلندي، ساهم في تطوير **منهج الحوار المفتوح** وتطبيقه في سياقات متنوعة، بما في ذلك الخدمات النفسية للأطفال والمراهقين.
+(Pekka Jokinen)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-pekkajokinen.md.archived.2026-08-26`
 
-- تطوير تطبيقات **الحوار المفتوح للعمل مع الأطفال والمراهقين** وأسرهم، وهي من أكثر الفئات التي استفاد بها النموذج الفنلندي.
-- مساهمات في تأطير **الحوار المفتوح بوصفه ممارسة مؤسسية** وليس فقط تقنية علاجية فردية.
-- خبرات في تدريب فرق العلاج في عدة دول من بينها المملكة المتحدة وإيطاليا.
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل.
 
-## موقعه من التيار
+## ملخص
 
-يوكينن من الجيل الثاني من ممارسي الحوار المفتوح، ويمثّل توسعة تطبيق النموذج خارج الإطار الأصلي للبالغين في طوارئ الذهان، نحو فئات عمرية وإكلينيكية أوسع.
+الاسم في frontmatter الأصلي لا يطابق شخصية أكاديمية حقيقية موثّقة في حقل الحوار المفتوح (Open Dialogue)، ولا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-## أهم أعماله
+## للمتابعة
 
-- فصول في كتب جماعية عن الحوار المفتوح للأطفال والمراهقين.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-pekkajokinen.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-pekkajokinen.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

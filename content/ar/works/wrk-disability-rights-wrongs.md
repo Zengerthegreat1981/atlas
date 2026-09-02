@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← فلسفة الإعاقة ← كت
 dates: "2006 · توم شكسبير"
 language: "الإنجليزية"
 active_start: 2006
-active_end: 2006
+active_end: 2013
+author: "توم شكسبير"
+author_slug: "thk-shakespeare"
+publication_year: 2006
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-philosophy-of-disability", target_type: "مدرسة"
 related:

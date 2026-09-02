@@ -19,12 +19,12 @@ related:
 - id: "sch-nyaya", title: "نيايا (المنطق الكلاسيكي الهندي)", type: "مدرسة"
 - id: "sch-navya-nyaya", title: "نيايا الجديدة (نافيا-نيايا)", type: "مدرسة"
 - id: "con-pramana-epistemic-sources", title: "البرامانا ووسائل المعرفة الصادقة في الفلسفة الهندية (Pramana)", type: "مفهوم"
-- id: "thk-gotama-nyaya", title: "أكسشابادا غوتاما", type: "مفكر"
+- id: "thk-gotama-nyaya", title: "أكشابادا غوتاما", type: "مفكر"
 - id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "تاريخ ولادته ووفاته غير محسوم بدقة (تقريباً 975-1050 م أو 1025-1100 م)."
   - "عدد من مؤلفاته مذكور في المراجع لكن لم يصلنا كاملاً."
-  - "لا يوجد اقتباس مباشر موثوق من 'Nyāyakusumāñjali' متاح بالعربية."
+  - "لا تتوفر ترجمة عربية موثّقة لأي مقطع من Nyāyakusumāñjali لاستخراج اقتباس مباشر منها."
 ---
 
 # أوديانا (مؤسس الجدل الإلهي في النيايا)
@@ -65,3 +65,9 @@ gaps:
 - *Nyāya-parisuddhi* (تنقية النيايا).
 - *Tātparyaparisuddhi* (تنقية المعنى المقصود، على Mīmāṃsā).
 - *Kusumāñjaliprakāśa* و*Nyāyasiddhāntamālā* (مؤلفات لاحقة، قد تكون له أو لأتباعه).
+
+## المصادر
+
+- N. S. Dravid (trans.), Udayana's *Nyāyakusumāñjali* (Indian Council of Philosophical Research, 1996).
+- Karl H. Potter (ed.), *Encyclopedia of Indian Philosophies, Vol. II: Indian Metaphysics and Epistemology* (Princeton University Press, 1977) — الفصل الخاص بأوديانا.
+- George Chemparathy, *An Indian Rational Theology: Introduction to Udayana's Nyāyakusumāñjali* (De Nobili, 1972).

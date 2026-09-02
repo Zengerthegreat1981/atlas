@@ -12,15 +12,13 @@ language: "الإنجليزية"
 active_start: 1957
 active_end: 2002
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "حركة اللقاء الجماعي", target_type: "مدرسة"
+edges: []
 related:
-- id: "tec-encounter-groups", title: "حركة اللقاء الجماعي", type: "تقنية/تدخل علاجي"
-- id: "thk-gbach", title: "جورج بَخ", type: "مفكر"
-- id: "thk-gleonard", title: "جورج ليونارد", type: "مفكر"
+- id: "tec-encounter-groups", title: "مجموعات التلاقي الإنسانية (Encounter Groups)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تفاصيل استقالته من Esalen Institute في أواخر الستينيات لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "روابط `thk-gbach` و`thk-gleonard` أُزيلت لعدم القدرة على التحقق من مطابقة الـid/title لملفات فعلية موجودة."
+  - "لا توجد مدرسة `sch-` موثّقة لحركة اللقاء الجماعي في الأطلس — سُجّلت في agents_specs/missing-schools.md، وحُذف رابط belongs_to (كان يشير لنص حر لا slug)."
 ---
 
 # ويليام شوتز
@@ -57,3 +55,8 @@ gaps:
 - *Profound Simplicity* (1979).
 - *The Truth Option* (1984).
 - *Joy: Expanding Human Awareness* (1967).
+
+## المصادر
+
+- Schutz, W. C. (1958). *FIRO: A Three-Dimensional Theory of Interpersonal Behavior*. Rinehart.
+- Schutz, W. C. (1967). *Joy: Expanding Human Awareness*. Grove Press.

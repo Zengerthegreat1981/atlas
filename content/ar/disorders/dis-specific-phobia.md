@@ -12,32 +12,30 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-fear", title: "الخوف", type: "مفهوم"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-flooding", title: "الإغراق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساسات الجسدية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحيّرات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
-- id: "syn-panic", title: "الذعر", type: "متلازمة"
+- id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
 - id: "syn-frigophobia", title: "فوبيا البرد وفقدان طاقة اليانغ (Pa-leng / Frigophobia)", type: "متلازمة"
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تصنيف أنواع الرهاب المحدد لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على اقتباس مباشر مؤكد من طبعة DSM-5-TR أو ICD-11 الأصلية لهذا العنصر."
   - "مدى فعالية العلاج عن بُعد (VR exposure) في السياقات منخفضة الموارد غير موثّق بشكل كافٍ."
 ---
 
@@ -50,6 +48,14 @@ gaps:
 يصنّف DSM-5-TR الرهاب المحدد إلى خمس فئات: **حيواني** (حيوانات، حشرات)، **بيئي** (مرتفعات، عواصف، ماء)، **دموي-إبر-إصابات** (رؤية الدم، الحقن، الإصابات)، **مواقفي** (طيران، مصاعد، أماكن مغلقة)، و**أخرى** (مثل الخوف من القيء، الخوف من الأصوات العالية). يستمر الخوف لمدة 6 أشهر على الأقل، ويكون مفرطاً وغير عقلاني بالنسبة للسياق.
 
 ICD-11 يصنّف الرهاب المحدد تحت 6B03، ويعترف بأشكال متعددة (حيواني، طبيعي-بيئي، دموي-إبر، مواقفي، أخرى) بترميز أبسط. يميّز ICD-11 بين الرهاب المعزول الذي يقتصر على موقف محدد، والاضطراب الأكثر انتشاراً.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين الرهاب المحدد كفئة تشخيصية وبين «الخوف» (con-fear) كخبرة انفعالية إنسانية عامة عند مواجهة تهديد مباشر وملموس (بالمعنى الوجودي والمعرفي عند لازاروس وبانكسيب). الخوف استجابة تكيّفية طبيعية متناسبة مع خطر حقيقي، بينما الرهاب المحدد استجابة قلق مفرطة وغير متناسبة مع الخطر الفعلي للموضوع أو الموقف، تستمر 6 أشهر على الأقل وتُنتج تجنّباً وضائقة وظيفية واضحة.
 
 ## الأعراض الجوهرية
 

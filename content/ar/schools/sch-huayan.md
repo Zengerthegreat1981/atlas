@@ -10,13 +10,14 @@ crumb: "الفلسفة ← البوذية ← هوايان (الصينية)"
 dates: "الصين، اليابان، كوريا · من القرن 7 م إلى القرن 14 م"
 country: "الصين"
 language: "الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: 660
 active_end: 1900
 edges:
 - rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
@@ -80,3 +81,10 @@ gaps:
 - الأدبيات الضخمة (Avataṃsaka Sūtra) تتطلب سياقاً تأملياً محدداً، لا مجرد قراءة أكاديمية.
 - العلاقة بين Huayan وTiantai: خلاف تاريخي (هل الإمكان أصل «فطري» أو «مُكتسب»).
 - التراث النصّي (Zongmi، Chengguang) في القرن 9 معقّد.
+
+## المصادر
+
+- Cook, F. H. (1977). *Hua-yen Buddhism: The Jewel Net of Indra*. Pennsylvania State University Press.
+- Cleary, T. (Trans.). (1993). *The Flower Ornament Scripture: A Translation of the Avatamsaka Sutra*. Shambhala.
+- Chang, G. C. C. (1971). *The Buddhist Teaching of Totality: The Philosophy of Hwa Yen Buddhism*. Pennsylvania State University Press.
+- Gimello, R. M., & Gregory, P. N. (Eds.). (1983). *Studies in Ch'an and Hua-yen*. University of Hawai'i Press.

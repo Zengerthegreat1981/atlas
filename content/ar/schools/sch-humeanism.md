@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "إسكتلندا، إنجلترا، فرنسا · من القرن 18 م إلى القرن 18 م"
 country: "إسكتلندا (إدنبرة، غلاسكو)، إنجلترا، فرنسا"
 language: "الإنجليزية، الفرنسية"
+cultural_origin: "anglo-american"
 active_start: 1739
 active_end: 1790
 edges:
@@ -22,7 +23,7 @@ related:
 - id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 gaps:
   - "نصوص هيوم بالإنجليزية والفرنسية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'A Treatise of Human Nature'."
+  - "لم يُدرَج في هذه المسودة اقتباس مباشر مُراجَع نصياً من 'A Treatise of Human Nature'."
   - "التمييز بين 'هيوم الفيلسوف' و'الهيومية' (كتيار لاحق) معقّد."
 ---
 # الهيومية (الشكّ التجريبي)
@@ -129,6 +130,13 @@ gaps:
 - **في اللاهوت**: «**شلايرماخر**» (Schleiermacher) و«**رِيتْشِل**» (Ritschl) و«**تِليخ**» (Tillich) «**رَدُّوا**» (Respondebant) على «**الشكّ**» (Dubitatio) «**الهيومي**» (Humeana) في «**الدين**» (Religio).
 - **في الفلسفة المعاصرة**: «**سِرل**» (Searle) و«**دِنِّت**» (Dennett) و«**فودور**» (Fodor) في «**فلسفة**» (Philosophia) «**العقل**» (Menti) «**المعاصرة**» (Contemporanea) «**يَتَحَاوَرُونَ**» (Conversantur) مع «**هيوم**» (Hume) في «**الإحساس**» (Sensus) و«**السببية**» (Causa).
 - **في الذكاء الاصطناعي**: «**نَظَرِيَّة**» (Theoria) «**المعلومات**» (Informationis) «**اِسْتَلْهَمَتْ**» (Inspiravit) «**النَّسَخ**» (Ideas) و«**الانطباعات**» (Impressiones) «**الهيومية**» (Humeana).
+
+## المصادر
+
+- Stroud, B. (1977). *Hume*. Routledge.
+- Norton, D. F., & Norton, M. J. (Eds.). (2000). *David Hume: A Treatise of Human Nature*. Oxford University Press.
+- Garrett, D. (2015). *Hume*. Routledge.
+- Fogelin, R. J. (1985). *Hume's Skepticism in the Treatise of Human Nature*. Routledge.
 
 ## المأزق الفلسفي
 

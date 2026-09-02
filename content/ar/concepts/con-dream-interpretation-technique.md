@@ -14,16 +14,20 @@ edges:
 - rel: "formulated_by", target: "thk-freud", target_type: "مفكر"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-- id: "con-dream-interpretation", title: "تفسير الأحلام", type: "مفهوم"
-- id: "con-free-association", title: "التداعي الحرّ", type: "مفهوم"
-- id: "con-transference", title: "التحويل في العلاقة العلاجية", type: "مفهوم"
-- id: "con-transference-patterns", title: "أنماط التحويل العلاجي", type: "مفهوم"
+- id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "wrk-die-traumdeutung", title: "تفسير الأحلام", type: "عمل"
+- id: "con-free-association", title: "التداعي الحرّ (Free Association)", type: "مفهوم"
+- id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من Freud (1900, *Die Traumdeutung*, ch. 7) بعد."
+  - "لا يوجد اقتباس مباشر موثوق من فرويد (1900، *Die Traumdeutung*، الفصل 7) بعد."
   - "التمييز بين 'المحتوى الظاهر' (Manifest) و'المحتوى الكامن' (Latent) في النص الأصلي يحتاج تحقيقاً."
-  - "الجدل بين منهج فرويد ومنهج يونغ في تفسير الأحلام (Freud vs. Jung) لم يُفصَّل في الأطلس."
+  - "الجدل بين منهج فرويد ومنهج يونغ في تفسير الأحلام لم يُفصَّل بملف جدل مستقل في الأطلس."
+  - "هذا الملف وملف con-dream-interpretation.md يتقاطعان موضوعياً (كلاهما عن تفسير الأحلام)، لكنهما يغطيان زوايا مختلفة (المنهج الفرويدي/الكلاسيكي مقابل التضخيم اليونغي)؛ لم يُدمَجا هنا وتحتاج المراجعة البشرية لتقرير إبقائهما منفصلين أو دمجهما."
 ---
 
 # تقنية تفسير الأحلام (Dream Interpretation Technique)

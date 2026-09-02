@@ -20,15 +20,13 @@ edges:
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
-- id: "thk-jgone", title: "جوزيف غون", type: "مفكر"
-- id: "con-historical-trauma", title: "الصدمة التاريخية", type: "مفهوم"
-- id: "con-grief", title: "الحزن التاريخي غير المُعالَج", type: "مفهوم"
+- id: "thk-jgone", title: "جوزيف ب. غون", type: "مفكر"
+- id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
 - id: "ctx-transgenerational-epigenetics-trauma", title: "ثورة علم الوراثة اللاجينية وإثبات انتقال الصدمات عبر الأجيال", type: "سياق/تقليد"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: كاري ولتيرز (thk-walters)"
-  - "سنة الميلاد الدقيقة (تقدَّر في الخمسينيات أو الستينيات) غير موثّقة من مصدر أولي متاح بعد."
-  - "التمييز بين 'الصدمة التاريخية' (Historical Trauma) و'الصدمة الجماعية' (Collective Trauma) و'الصدمة العابرة للأجيال' (Intergenerational Trauma) يحتاج فصلاً منهجياً أوضح في الأدبيات."
-  - "لا يوجد اقتباس مباشر موثوق في هذه المسودة."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: كاري ولترز (Karina Walters)، شريكتها في تطوير الإطار."
+  - "سنة الميلاد الدقيقة غير موثّقة من مصدر أولي متاح؛ نشاطها الأكاديمي المنشور موثَّق من 1995."
+  - "رابط con-grief كان في مسودة سابقة يشير إلى مفهوم 'الحزن كمسار للتفريد' وهو مفهوم مختلف تماماً عن 'الحزن التاريخي غير المُعالَج' عند بريف هارت؛ حُذف الرابط لعدم تطابق العنوان مع المحتوى."
 ---
 # ماريا يلوهورس بريف هارت
 
@@ -74,10 +72,16 @@ gaps:
 
 ## أهم أعمالها
 
-- Brave Heart, M. Y. H. (1995). «Cherokee Historical Trauma». *American Indian Culture and Research Journal*, 19(2), 97-100.
-- Brave Heart, M. Y. H. (1998). «The return to the sacred path: Healing the historical trauma and historical unresolved grief response among the Lakota through a psychoeducational group intervention». *Smith College Studies in Social Work*, 68(3), 287-305.
-- Brave Heart, M. Y. H. (2003). «The historical trauma response among Natives and its relationship with substance abuse». *Journal of Psychoactive Drugs*, 35(1), 7-13.
-- Brave Heart, M. Y. H., & DeBruyn, L. M. (1998). «The American Indian Holocaust: Healing historical unresolved grief». *American Indian and Alaska Native Mental Health Research*, 8(2), 56-78.
+- «Cherokee Historical Trauma» (1995).
+- «The return to the sacred path: Healing the historical trauma and historical unresolved grief response among the Lakota through a psychoeducational group intervention» (1998).
+- «The historical trauma response among Natives and its relationship with substance abuse» (2003).
+- «The American Indian Holocaust: Healing historical unresolved grief» (مع L. M. DeBruyn، 1998).
+
+## المصادر
+
+- Brave Heart, M. Y. H. (1998). "The return to the sacred path: Healing the historical trauma and historical unresolved grief response among the Lakota through a psychoeducational group intervention." *Smith College Studies in Social Work*, 68(3), 287–305.
+- Brave Heart, M. Y. H. (2003). "The historical trauma response among Natives and its relationship with substance abuse: A Lakota illustration." *Journal of Psychoactive Drugs*, 35(1), 7–13.
+- Brave Heart, M. Y. H., & DeBruyn, L. M. (1998). "The American Indian Holocaust: Healing historical unresolved grief." *American Indian and Alaska Native Mental Health Research*, 8(2), 56–78.
 
 ## ملاحظة معمارية
 

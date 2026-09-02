@@ -11,6 +11,9 @@ dates: "1991 · هنري روزمونت"
 language: "الإنجليزية"
 active_start: 1991
 active_end: 1991
+author: "هنري روزمونت الابن"
+publication_year: 1991
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مدرسة"
 related:

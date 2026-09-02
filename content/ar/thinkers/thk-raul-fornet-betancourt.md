@@ -19,7 +19,7 @@ related:
 - id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"
 - id: "con-interculturality", title: "البين-ثقافية (Interkulturalität)", type: "مفهوم"
 - id: "wrk-intercultural-philosophy-wimmer", title: "الفلسفة البين-ثقافية (Interkulturelle Philosophie)", type: "عمل / كتاب"
-- id: "sch-decolonial-philosophy", title: "الفلسفة اللااستعمارية (Decolonial Philosophy)", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
 gaps:
   - "تفاصيل أطروحته للدكتوراه عن 'الشخص الآخر في الفلسفة' (1978) تحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثّق من كتابه 'تحويل الفلسفة اللاتينية-أمريكية' (2001)."
@@ -63,3 +63,9 @@ gaps:
 - منهجه في «التواصل بين-ثقافي» صار النموذج المعياري للفلسفة البين-ثقافية في الجامعات الألمانية.
 - عمله أعاد وصل اللاهوت المسيحي بالتقاليد الفلسفية غير الأوروبية في صياغة لاهوتية بين-ثقافية.
 - كتاباته عن أمريكا اللاتينية أسّست لقراءة فلسفية ذاتية لتلك المنطقة.
+
+## المصادر
+
+- Fornet-Betancourt, R. (1994). *Filosofía intercultural*. Universidad Pontificia de México.
+- Fornet-Betancourt, R. (2001). *Filosofía latinoamericana en contexto*. Consejo Superior de Investigaciones Científicas.
+- Fornet-Betancourt, R. (2002). *Grundlagen einer interkulturellen Ethik*. Concordia-Reihe Monographien.

@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← البوذية المبكرة"
 dates: "الهند · من القرن 5 ق.م إلى القرن 4 ق.م"
 country: "شبه القارة الهندية (ماغادا، كوسالا)"
 language: "البالي، السنسكريتية (مزيج)"
+cultural_origin: "indian"
 active_start: -500
 active_end: -350
 edges:
@@ -68,3 +69,9 @@ gaps:
 ## القيد
 
 - عدم وجود نصوص مكتوبة في حياة بوذا، فما نعرفه وصل عبر التقليد الشفهي.
+
+## المصادر
+
+- Rahula, W. (1959). *What the Buddha Taught*. Grove Press.
+- Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
+- Warder, A.K. (1970). *Indian Buddhism*. Motilal Banarsidass.

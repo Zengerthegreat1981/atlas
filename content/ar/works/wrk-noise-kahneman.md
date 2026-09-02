@@ -12,13 +12,17 @@ dates: "2021 · دانيال كانيمان، أوليڤيه سيبوني، كا
 language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
+author: "دانيال كانيمان، أوليڤيه سيبوني، كاس سونشتاين"
+author_slug: "thk-kahneman"
+publication_year: 2021
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "written_by", target: "دانيال كانيمان", target_type: "مفكر"
+- rel: "written_by", target: "thk-kahneman", target_type: "مفكر"
 related:
-- id: "thk-kahneman", title: "دانيال كانيمان", type: "مفكر"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "wrk-thinking-fast-slow", title: "التفكير، السريع والبطيء", type: "عمل / كتاب"
-- id: "stu-kahneman-tversky-heuristics-biases", title: "دراسة كانمان وتفيرسكي للحدس والانحيازات المعرفية واستدلال التوافر والتثبيت", type: "دراسة وبحث"
+- id: "stu-kahneman-tversky-heuristics-biases", title: "دراسة كانمان وتفيرسكي للحدس الاستدلالي والانحيازات (1974)", type: "دراسة وبحث"
 gaps:
   - "التفريق المنهجي بين 'الضوضاء' و'التحيز' في نموذج كانيمان يحتاج توضيحاً أكثر دقة."
   - "البروتوكولات المؤسسية 'لقمع الضوضاء' (Decision-Making Hygiene) تحتاج توثيقاً لدراسات الحالة."

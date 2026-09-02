@@ -15,8 +15,7 @@ related:
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "thk-pierre-gassendi", title: "بيير غاسندي", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "نص الاعتراضات الخامسة الكامل بلاتينية غاسندي الأصلية لم يُراجع هنا مباشرة؛ الاعتماد على الترجمات الإنجليزية القياسية (Cottingham et al.)."
 ---
 
 # اعتراضات غاسندي على تأملات ديكارت: صراع المادة والعقل
@@ -34,3 +33,9 @@ gaps:
 ## الأثر في نشأة المادية والعلوم الحديثة
 
 مهد نقد غاسندي لظهور المادية العلمية والفسيولوجيا التجريبية الحديثة.
+
+## المصادر
+
+- Descartes, René. *Meditationes de Prima Philosophia* (1641), مع "Objectiones Quintae" لبيير غاسندي و"Responsiones Autoris" لديكارت.
+- Cottingham, J., Stoothoff, R., Murdoch, D. (trans.). *The Philosophical Writings of Descartes*, vol. II (Cambridge University Press, 1984) — يتضمن ترجمة الاعتراضات الخامسة والردود.
+- Gassendi, Pierre. *Disquisitio Metaphysica* (1644) — التوسعة اللاحقة لغاسندي على اعتراضاته.

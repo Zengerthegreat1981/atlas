@@ -12,8 +12,7 @@ active_end: 2020
 country: "ألمانيا"
 language: "الألمانية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "تشكيلات الأسرة (Family Constellations)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-gweber", title: "غونتهارد فيبر", type: "مفكر"
 - id: "thk-bhellinger", title: "بيرت هلنغر", type: "مفكر"

@@ -9,6 +9,7 @@ en: "Somatic Experiencing (SE)"
 crumb: "علم النفس ← المدارس العلاجية المعاصرة ← علاجات الصدمة الجسدية ← التجربة الجسدية"
 dates: "الولايات المتحدة · من 1990s إلى اليوم"
 country: "الولايات المتحدة"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
@@ -16,7 +17,6 @@ register: "clinical"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
-- rel: "developed_by", target: "Peter Levine", target_type: "مفكر"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة", type: "مفهوم"
@@ -24,7 +24,7 @@ related:
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
-- id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS)", type: "مدرسة"
+- id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", type: "مدرسة"
 - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية (Somatic Phenomenology)", type: "مدرسة"
 - id: "thk-plevine", title: "بيتر ليفين (Somatic Experiencing)", type: "مفكر"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
@@ -36,7 +36,7 @@ related:
 gaps:
   - "الأدلة التجريبية لـ SE ما تزال في نمو، مع تجارب عشوائية مضبوطة محدودة."
   - "النموذج الآلي العصبي (كيف تكمل استجابة البقاء المُعلَّقة) موثَّق جزئياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم يُدرَج اقتباس مباشر من مصدر أولي في هذه المسودة."
 ---
 # التجربة الجسدية (Somatic Experiencing)
 
@@ -108,3 +108,10 @@ gaps:
 ## الإرث والتأثير
 
 أثَّر SE في فتح حقل "علاجات الصدمة الجسدية" كحقل مستقل، وألهم تطوير مقاربات أخرى (Sensorimotor Psychotherapy، EMDR، TRE). أعاد الاعتبار للجسد في علاج الصدمة بعد عقود من التركيز على المعالجة المعرفية فقط. اليوم يُدرَّب ويُطبَّق في أكثر من خمسين دولة، خاصة في أمريكا الشمالية وأوروبا الغربية وأمريكا اللاتينية.
+
+## المصادر
+
+- Levine, P. A. (1997). *Waking the Tiger: Healing Trauma*. North Atlantic Books.
+- Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). "Somatic Experiencing: using interoception and proprioception as core elements of trauma therapy." *Frontiers in Psychology*, 6, 123.
+- Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. Norton.
+- van der Kolk, B. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking.

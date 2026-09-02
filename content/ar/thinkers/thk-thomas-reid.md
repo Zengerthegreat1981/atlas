@@ -15,8 +15,7 @@ active_end: 1796
 edges:
 - rel: "belongs_to", target: "sch-scottish-common-sense", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التسلسل الزمني الدقيق لتطور موقفه من نظرية الأفكار قبل نشر 'Inquiry' (1764) غير موثق في هذا الملف."
 ---
 
 # توماس ريد
@@ -40,7 +39,3 @@ gaps:
 - *An Inquiry into the Human Mind on the Principles of Common Sense* (1764).
 - *Essays on the Intellectual Powers of Man* (1785).
 - *Essays on the Active Powers of Man* (1788).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

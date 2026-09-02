@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "غرد رودولف"
 en: "Gerd Rudolf"
-crumb: "علم النفس المرضي للعلاقات الموضوعية ← ألمانيا ← غرد رودولف"
+crumb: "علم النفس النفسي-الجسدي ← ألمانيا ← غرد رودولف"
 dates: "ألمانيا · وُلد 1942"
 country: "ألمانيا"
 language: "الألمانية"
@@ -13,37 +13,36 @@ active_start: 1975
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-schultz-hencke", target_type: "تيار"
 related:
 - id: "thk-schultz-hencke", title: "هارالد شولتز-هِنكه", type: "مفكر"
-- id: "thk-jlueger", title: "جون لوغر", type: "مفكر"
 gaps:
   - "المساهمات اللاحقة بعد 2015 لم تُراجع بشكل منفصل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون لوغر (thk-jlueger)."
+  - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "رابط thk-jlueger أُزيل: الـslug فيه تعارض بين ملف معتمد (John Lueger) وملف مسودة Spark (Robert J. Lueger) — راجع agents_specs/quarantine-minimax.md أو نبّه Spark لحسم التعارض قبل إعادة الربط."
 ---
 
 # غرد رودولف
 
-طبيب نفسي ومحلل نفسي ألماني، أستاذ في جامعة هايدلبرغ، يُعَدّ أبرز من يرفع راية **"علم النفس المرضي للعلاقات الموضوعية"** (Psychopathologie der Objektbeziehungen) في ألمانيا المعاصرة. كتابه *Psychopathologie des Ich* من أهم المراجع الجامعية الألمانية في التشخيص النفسي.
+طبيب نفسي ومحلل نفسي ألماني، أستاذ الطب النفسي-الجسدي والعلاج النفسي في جامعة هايدلبرغ، وكان مديراً طبياً للعيادة الجامعية للطب النفسي-الجسدي في هايدلبرغ حتى 2004.
 
 ## ما أعطاه
 
-- **مفهوم "الاضطرابات في العلاقات الموضوعية"** كأرضية مشتركة بين التحليل النفسي وعلم النفس المرضي.
-- **نظرية بنية الأنا** المبنية على أنساق الفعل (Handlungsregulation) والتسلسلات التطورية.
-- **تنظير الديناميكيات العلاجية** في ضوء مفهوم "العلاقة المُسبَّبة بالأعراض" (symptomatogenic relationship).
-- **إعادة صياغة مفهوم "البنية"** (Struktur) في ضوء الإيكولوجيا النفسية.
+- **العلاج الموجَّه للبنية** (Strukturbezogene Psychotherapie): نهج علاجي طوّره للتعامل مع اضطرابات البنية النفسية الناتجة عن صدمات مبكرة، حين تصل التحليلية الكلاسيكية لحدودها (كما في اضطراب الشخصية الحدّية).
+- **مؤسِّس مشارك ومتحدث سابق عن محور "البنية"** في أداة **OPD** (Operationalized Psychodynamic Diagnosis — التشخيص النفسي-الديناميكي المُعمْلَن)، المنشورة أول مرة 1996، أداة تشخيصية معيارية في ألمانيا لتقييم الصراع والبنية والعلاقة الموضوعية معاً.
+- عمل على **قياس فعالية العلاج النفسي-الديناميكي طويل الأمد** ضمن أبحاث ضمان الجودة في العلاج النفسي-الديناميكي.
 
 ## موقعه من التيار
 
-يقف رودولف عند تقاطع المدرسة الألمانية التاريخية (شولتز-هِنكه، فينيش)، وعلم نفس الشخصية الحديث، والتحليل النفسي للعلاقات الموضوعية. استضاف مجلة *Psychotherapeut* سنوات طويلة.
+يقف رودولف عند تقاطع المدرسة الألمانية التاريخية للتحليل النفسي (هارالد شولتز-هِنكه) وعلم النفس-الجسدي الأكاديمي المعاصر في هايدلبرغ.
 
 ## أهم أعماله
 
-- *Psychopathologie des Ich* (2004).
-- *Psychopathologie der Objektbeziehungen* (2012).
-- *Struktur und Konflikt* (1995).
+- *Strukturbezogene Psychotherapie: Leitfaden zur psychodynamischen Therapie struktureller Störungen* (Schattauer، طبعة أولى 2004).
+- *Psychodynamische Psychotherapie: Die Arbeit an Konflikt, Struktur und Trauma* (Schattauer، 2010/2013).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Rudolf, G. *Strukturbezogene Psychotherapie: Leitfaden zur psychodynamischen Therapie struktureller Störungen*. Schattauer, 2004.
+- Rudolf, G. *Psychodynamische Psychotherapie: Die Arbeit an Konflikt, Struktur und Trauma*. Schattauer, 2010.
+- OPD Task Force (ed.). *Operationalized Psychodynamic Diagnosis OPD-2: Manual of Diagnosis and Treatment Planning*. Hogrefe, 2008.

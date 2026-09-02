@@ -17,8 +17,7 @@ edges:
 related:
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نصّ Peri tou kathēkontos مفقود بالكامل؛ ما وصلنا منه مُستخلَص عبر De Officiis لشيشرون لا عبر نقل مباشر."
 ---
 
 # بانيتيوس الرودسي
@@ -46,6 +45,8 @@ gaps:
 - *Peri tou kathēkontos* (في الواجب) — مفقود، مضمونه محفوظ في *De Officiis* لشيشرون (الكتابان الأول والثاني).
 - *في رباطة الجأش*، *في المدارس الفلسفية* — شذرات.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Cicero, Marcus Tullius. *De Officiis* (الكتابان الأول والثاني، مبنيّان على بانيتيوس).
+- Pomeroy, Arthur J. (trans.). *Panaetius: Fragments*. Text and commentary. Scholars Press, 1999.
+- Long, A. A. & Sedley, D. N. *The Hellenistic Philosophers*. Cambridge University Press, 1987.

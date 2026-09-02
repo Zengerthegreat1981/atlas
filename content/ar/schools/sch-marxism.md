@@ -9,13 +9,13 @@ en: "Classical Marxism"
 crumb: "الفلسفة ← القرن 19 ← السياسة ← الماركسية الكلاسيكية"
 dates: "ألمانيا، المملكة المتحدة، أوروبا · من 1844 إلى 1895"
 country: "ألمانيا، المملكة المتحدة"
+cultural_origin: "european"
 language: "الألمانية، الإنجليزية"
 active_start: 1844
 active_end: 1895
 edges:
 - rel: "evolved_into", target: "sch-western-marxism", target_type: "مظلة"
 - rel: "belongs_to", target: "sch-hegel-left", target_type: "مظلة"
-- rel: "belongs_to", target: "الاشتراكية الطوباوية", target_type: "مظلة"
 related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
@@ -31,7 +31,6 @@ gaps:
   - "رابط مقترح لـ«فلاديمير لينين» (thk-lenin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "علاقة ماركس بـ'نقد البرنامج الغوثي' (1875) والمراسلات مع بارت لم تُراجع في الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # الماركسية الكلاسيكية
 
@@ -63,3 +62,11 @@ gaps:
 
 - الماركسية في التطبيق «الكلاسيكي» تنتهي بانتهاء ماركس وإنغلز؛ ما بعدها «مدرسة» فرعية أو «تطبيق» مختلف.
 - قراءة «ماركس الشاب» (الأخلاق، الاغتراب) تختلف عن «ماركس الناضج» (الاقتصاد، الصراع) في فلسفة القرن 20.
+
+## المصادر
+
+- Marx, Karl. *Das Kapital, Band I*. Verlag von Otto Meissner, 1867.
+- Marx, Karl, and Friedrich Engels. *Manifest der Kommunistischen Partei*. 1848.
+- Marx, Karl. *Ökonomisch-philosophische Manuskripte aus dem Jahre 1844*. (published 1932).
+- Marx, Karl, and Friedrich Engels. *Die deutsche Ideologie*. (written 1845-46, published 1932).
+- McLellan, David. *Karl Marx: His Life and Thought*. Harper & Row, 1973.

@@ -9,13 +9,14 @@ crumb: "المفاهيم ← مدارس علاجية متخصصة ← العلا
 active_start: 1970
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "con-behavioral-epilepsy", target_type: "مدرسة"
 related:
-- id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
+- id: "con-behavioral-medicine", title: "الطب السلوكي والصحة السلوكية", type: "مفهوم"
+- id: "tec-behavioral-medicine", title: "الطب السلوكي/الصحة السلوكية (تدخل)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "قيمة belongs_to الأصلية كانت تشير إلى الملف نفسه (con-behavioral-epilepsy) بدل مدرسة فعلية، فحُذفت لعدم وجود انتماء مدرسي موثّق في المتن."
+  - "لا توجد ملفات مفكرين موثقة لأصحاب الخطوط المذكورة في المتن (Appolonio, Streltzer, Dodrill, Thompson, Nagai) في قاعدة البيانات؛ لم تُدرَج روابط لهم لتفادي الخلط مع مفكرين آخرين يحملون اسم Thompson."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
@@ -42,6 +43,3 @@ gaps:
 
 يقع في قلب "علم النفس العصبي" و"الطب السلوكي"، مع تقاطع مع "علاج القلق" و"علاج الاكتئاب".
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

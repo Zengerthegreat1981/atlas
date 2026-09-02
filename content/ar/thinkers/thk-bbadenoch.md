@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "الأطلس ← thinkers ← بوني بادنوك"
 edges:
 - rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"

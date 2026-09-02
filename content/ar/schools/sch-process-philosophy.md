@@ -12,20 +12,18 @@ country: "إنجلترا، الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1929
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "الفلسفة الأنجلوساكسونية المعاصرة", target_type: "مظلة"
-- rel: "evolved_from", target: "المثالية المطلقة", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-british-idealism", target_type: "مدرسة"
 related:
 - id: "sch-british-idealism", title: "المثالية البريطانية", type: "مدرسة"
 - id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
-- id: "thk-campbell-purton", title: "كامبيل پيرتون", type: "مفكر"
 - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 gaps:
   - "العلاقة الدقيقة مع فلسفة برگسون (Évolution créatrice, 1907) لم تُحلّل في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع ميتافيزيقا العلم المعاصر (النسبية، الكمّ) تحتاج ربطًا."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كامبيل پيرتون (thk-campbell-purton)."
+  - "رابط أُزيل: كامبيل پيرتون (thk-campbell-purton) موضوعه التركيز (Focusing) لا فلسفة العملية — خلط هوية، لا صلة موثقة."
 ---
 
 # فلسفة العملية (Process Philosophy)
@@ -76,3 +74,8 @@ gaps:
 - **اتهام «**لغة مبهمة**»**: «**الكينونة المتحقّقة**»، «**الموضوع المتعالٍ**»، «**الجدلية القرية**» (concrescence) مصطلحات صعبة.
 - **نقد لاهوتي**: التقليديون يرفضون «**الله الذي يتألّم**» (process theodicy)، يعتبرونه **ابتعادًا** عن إله الكتاب المقدّس.
 - **نسبية الحقيقة**: في فلسفة العملية، الحقيقة **تتشكّل**، مما قد يُضعف **الموضوعية** العلمية التقليدية.
+
+## المصادر
+
+- Whitehead, Alfred North. *Process and Reality: An Essay in Cosmology* (Macmillan, 1929).
+- Hartshorne, Charles. *The Metaphysics of Whitehead* (1941).

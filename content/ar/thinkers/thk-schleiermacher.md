@@ -18,8 +18,8 @@ related:
 - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
 - id: "con-hermeneutics", title: "الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم", type: "مفهوم"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد ترجمة عربية كاملة معتمدة لـ'Hermeneutik und Kritik' (محاضراته 1805–1833)، ما يحدّ من دقة نقل مصطلحاته التقنية (Verstehen، Auslegung) في هذا الملف."
+  - "علاقته المباشرة بشلايرماخر الشاب في حلقة الرومانسية الألمانية (شليغل، نوفاليس) وأثرها على 'خطابات في الدين' لم تُفصَّل هنا."
 ---
 
 # فريدريش شلايرماخر
@@ -41,10 +41,17 @@ gaps:
 ## أهم الأعمال
 
 - *Über die Religion: Reden an die Gebildeten unter ihren Verächtern* (1799) — خطابات في الدين.
-- *Hermeneutik und Kritik* (محاضرات 1805–1833، نُشرت 1838).
+- *Hermeneutik und Kritik* (محاضرات 1805–1833، جُمعت من مخطوطاته ونُشرت بعد وفاته سنة 1838).
 - *Der christliche Glaube* (1821–22) — الإيمان المسيحي.
 - ترجمة محاورات أفلاطون إلى الألمانية (1804–1828).
 
 ## اقتباسات مختارة
 
 «يجب أن نفهم الخطاب أولاً بمثل ما فهمه صاحبه، ثم أفضل مما فهمه.» (الهرمنيوطيقا)
+
+## المصادر
+
+- Schleiermacher, F., *Hermeneutics and Criticism*, trans. Andrew Bowie (1998), Cambridge University Press.
+- Schleiermacher, F., *On Religion: Speeches to Its Cultured Despisers*, trans. Richard Crouter (1996), Cambridge University Press.
+- Dilthey, W., *Leben Schleiermachers* (1870) — أول سيرة نقدية معتمدة.
+- Grondin, J., *Introduction to Philosophical Hermeneutics* (1994), Yale University Press — الفصل الخاص بشلايرماخر.

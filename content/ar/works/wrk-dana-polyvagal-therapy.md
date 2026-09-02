@@ -9,6 +9,10 @@ en: "The Polyvagal Theory in Therapy by Deb Dana"
 crumb: "العلاج النفسي التطبيقي ← أمهات الأعمال ← العلاج الموجه بالمبهمية"
 active_start: null
 active_end: "مستمر"
+author: "ديب دانا"
+author_slug: "thk-dana"
+publication_year: 2018
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:

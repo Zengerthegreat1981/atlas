@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "TRE (تمارين إطلاق الصدمة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-tre", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

@@ -11,13 +11,16 @@ dates: "حلب · 1186 م"
 language: "العربية"
 active_start: 1186
 active_end: 1186
+author: "شهاب الدين يحيى السهروردي"
+author_slug: "thk-suhrawardi"
+publication_year: 1186
+original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
 - id: "thk-suhrawardi", title: "السهروردي", type: "مفكر"
 gaps:
   - "شروح قطب الدين الشيرازي وشمس الدين الشهرزوري وملا صدرا على المتن."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # حكمة الإشراق للسهروردي

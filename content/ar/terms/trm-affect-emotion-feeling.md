@@ -19,7 +19,6 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: سيلفان تومكنز (thk-tomkins)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: العاطفة (con-emotion)"
   - "التمييز بين 'الانفعال' (Affect) في علم النفس التحليلي و'Affect' في علم النفس العام يحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'الشعور' (Feeling) في داماسيو و'الشعور' (Gefühl) في هوسرل يحتاج فصلاً."
   - "العلاقة بالـ 'Affect' في أنظمة DSM-5 (Flat Affect, Labile Affect) تحتاج توثيقاً."
 ---
@@ -42,3 +41,9 @@ gaps:
 ## الفَرق فِي عِلْم النَّفْس
 
 (1) **الانْفِعَال** (Affect): «**حَالَة**» (State) «**لَاوَاعِيَّة**» (Unconscious)، «**كَمِّيَّة**» (Quantitative). (2) **العَاطِفَة** (Emotion): «**تَجْرِبَة**» (Experience) «**واعِيَة**» (Conscious)، «**نَوْعِيَّة**» (Qualitative). (3) **الشُّعُور** (Feeling): «**وَعْي**» (Consciousness) بِـ**«**حَالَة جَسَدِيَّة**» (Somatic State). الـ**فَرْق** (Difference) رَقِيق، وَتَسْتَخْدَم بَدَائِلًا.
+
+## المصادر
+
+- James, William. "What Is an Emotion?" *Mind* 9, no. 34 (1884): 188–205.
+- Damasio, Antonio. *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. New York: Harcourt Brace, 1999.
+- Ekman, Paul. "Universals and Cultural Differences in Facial Expressions of Emotion." In *Nebraska Symposium on Motivation*, 1971.

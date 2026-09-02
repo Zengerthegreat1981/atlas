@@ -12,38 +12,42 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساسات الجسدية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحيّرات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساسات الجسدية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "تكليف المهام المتدرّجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
-- id: "syn-panic", title: "الذعر", type: "متلازمة"
-- id: "syn-loneliness-isolation", title: "الوحدة والعزلة", type: "متلازمة"
+- id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
+- id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تعريف الرهاب من الأماكن المكشوفة (ولا سيما استقلاله عن اضطراب الهلع) لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "معدّلات الانتشار في السياقات العربية غير موثّقة بشكل دقيق."
 ---
 
 # الرهاب من الأماكن المكشوفة
 
 اضطراب قلق يتميز بخوف أو قلق شديد من مواقف يكون فيها الشخص في أماكن أو مواقف قد يكون فيها الهروب صعباً أو المساعدة غير متاحة في حالة ظهور أعراض الهلع أو أعراض جسدية أو سواها. تشمل المواقف النموذجية: استخدام وسائل النقل العام، التواجد في أماكن مفتوحة، التواجد في أماكن مغلقة (محلات، مسارح)، الوقوف في طابور، التواجد في حشود، أو الخروج وحيداً خارج البيت.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين الرهاب من الأماكن المكشوفة كفئة تشخيصية إكلينيكية وبين 'الخوف' (العنصر con-fear الموجود مسبقاً في هذا الأطلس) كمفهوم عام عن الانفعال الإنساني الطبيعي أمام تهديد مُدرَك. الأخير استجابة انفعالية عابرة ووظيفية تحمي الكائن الحي، بينما الرهاب من الأماكن المكشوفة فئة مرضية تصف نمطاً ثابتاً من الخوف والتجنّب يستوفي معايير مدة وشدة وتأثير وظيفي محددة في أدلة تشخيصية معتمدة، ويستمر حتى في غياب تهديد فعلي مباشر.
 
 ## ملاحظات على المعايير التشخيصية
 

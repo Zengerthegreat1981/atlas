@@ -8,7 +8,7 @@ en: "Dave Elman"
 dates: "الولايات المتحدة · 1900–1967"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1947
+active_start: 1949
 active_end: 1967
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← ديف إلمان"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تحقّق: بدأ إلمان تعليم التنويم للأطباء عام 1949 (لا 1947)، ودرّب نحو 7500–10000 طبيب وطبيب أسنان بين 1949–1962 (مصدر: elmanhypnosis.com / Dave Elman Hypnosis Institute)."
 ---
 
 # ديف إلمان

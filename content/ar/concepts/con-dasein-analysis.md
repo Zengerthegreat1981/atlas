@@ -11,15 +11,20 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "formulated_by", target: "لودفيغ بنسوانغر", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-binswanger", target_type: "مفكر"
 related:
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "dbt-boss-binswanger", title: "بينسوانغر أم بوس؟", type: "جدل"
+- id: "con-dasein-being-in-the-world", title: "الدازاين والوجود-في-العالم (Dasein)", type: "مفهوم"
 gaps:
   - "الفرق التفصيلي بين 'تحليل الدازاين' (بنسوانغر) و'التحليل الوجودي' (بوس) يحتاج تحقق."
-  - "لا يوجد اقتباس مباشر موثوق من بنسوانغر أو بوس بعد."
+  - "أرقام الصفحات/الطبعات الدقيقة للاقتباسات من Grundformen und Erkenntnis menschlichen Daseins وGrundriss der Medizin und der Psychologie غير مثبتة بعد."
+  - "هذا الملف وcon-dasein-being-in-the-world.md وcon-dasein-being-there.md قد تكون معالجات متداخلة لنفس عائلة المفاهيم؛ يلزم تحقق من الفريق لتحديد ما إذا كانت تستهدف زوايا مختلفة أم تكراراً يجب توحيده لاحقاً (لم تُدمَج هنا)."
 ---
 
 # تحليل الدازاين (Daseinsanalysis)

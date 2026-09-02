@@ -20,7 +20,6 @@ related:
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل عمله في جامعة كاليفورنيا (Irvine) ودراساته عن الغضب والعدوان تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ريموند و. نوفاكو
@@ -40,3 +39,9 @@ gaps:
 - علاج الغضب: التطور والتطبيق (Anger Treatment, 1975).
 - الإطار المعرفي للضغط السريري (The Cognitive-Behavioral Framework for Stress Management, 1994).
 - علاج الضغط السريري (CST Manual, 2010).
+
+## المصادر
+
+- Novaco, R. W. (1975). *Anger Control: The Development and Evaluation of an Experimental Treatment*. D.C. Heath.
+- Novaco, R. W. (1994). "Anger as a risk factor for violence among the mentally disordered." في Monahan & Steadman (Eds.), *Violence and Mental Disorder*.
+- University of California, Irvine — صفحة السيرة الأكاديمية الرسمية لقسم علم النفس الاجتماعي والبيئي.

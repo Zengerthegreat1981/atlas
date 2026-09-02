@@ -9,6 +9,7 @@ en: "French (Post-Structuralist) Feminism"
 crumb: "الفلسفة ← النسوية ← الفرنسية (ما بعد بنيوية)"
 dates: "فرنسا، أمريكا · من 1970s إلى اليوم"
 country: "فرنسا، الولايات المتحدة"
+cultural_origin: "french"
 language: "الفرنسية، الإنجليزية"
 active_start: 1969
 active_end: "مستمر"
@@ -56,3 +57,10 @@ gaps:
 
 - تُتهم بـ«التعميم» و«التفاؤل المفرط» في شأن الاختلاف.
 - نقد من قبل النسوية السوداء (Hooks) لكونها بيضاء وأوروبية المركز.
+
+## المصادر
+
+- Kristeva, Julia. *Revolution in Poetic Language*. Columbia University Press, 1984 (trans. of *La révolution du langage poétique*, 1974).
+- Irigaray, Luce. *Speculum of the Other Woman*. Cornell University Press, 1985 (trans. of *Speculum de l'autre femme*, 1974).
+- Cixous, Hélène. "The Laugh of the Medusa." *Signs*, vol. 1, no. 4, 1976 (trans. of "Le Rire de la Méduse", 1975).
+- Wittig, Monique. *The Straight Mind and Other Essays*. Beacon Press, 1992.

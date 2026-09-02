@@ -10,6 +10,7 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
@@ -17,9 +18,11 @@ related:
 - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "tec-dbt-mind-mindfulness-of-others", title: "اليقظة تجاه الآخرين", type: "تقنية/تدخل علاجي"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على تجربة معشاة تعزل أثر GIVE وحدها عن باقي وحدة العلاقات الفعالة؛ الدليل التجريبي متاح على مستوى حزمة DBT الكاملة لا المهارة منفردة."
 ---
 
 # جيف (GIVE) — الحفاظ على العلاقة بفعالية
@@ -57,3 +60,12 @@ GIVE هو اختصار لأربعة عناصر ضرورية للحفاظ على 
 
 - قد تستخدم كـ«تنعيم» (People-Pleasing) لتجنب الصراع تماماً.
 - الإفراط في الود قد يبدو ضعيفاً أو غير صادق.
+
+## الأصل والدليل التجريبي
+
+طوّرت مارشا لينهان (Marsha Linehan) GIVE ضمن وحدة العلاقات الفعالة في كتابها «العلاج المعرفي السلوكي لاضطراب الشخصية الحدية» (1993)، لمعالجة نمط شائع لدى مريضات اضطراب الشخصية الحدية: إما التضحية بالعلاقة بالكامل من أجل تحقيق الطلب، أو التضحية بالطلب بالكامل خوفاً من فقدان العلاقة. الدليل التجريبي على فعاليتها يأتي من تجارب معشاة أجرتها لينهان وزملاؤها بدءاً من 1991 على حزمة مهارات DBT الأربع مجتمعة لا على GIVE بمفردها. تتقاطع GIVE مع تدريب التوكيدية من المدرسة المعرفية السلوكية في تنظيم أسلوب التواصل، لكنها تختلف عنه بتركيزها الصريح على جودة العلاقة كهدف مستقل عن تحقيق المطلب، عبر التصديق (Validation) الذي لا يظهر بالاسم في بروتوكولات التوكيدية التقليدية.
+
+## المصادر
+
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.

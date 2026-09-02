@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-vegetotherapy-orgonomy", target_type: "تيار"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
@@ -36,7 +36,6 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريانا إيكبيرغ (thk-meckberg)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل مالِه (thk-mmaley)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دورا غوميز بيراكوس (thk-dpierrakos)."
-  - "تصنيفه هنا تحت «التجربة الجسدية (Somatic Experiencing)» خطأ: مدرسة فيري رايخية-نباتية (Vegetotherapy) ولا صلة لها بمنهج بيتر ليفين. يُقترح نقل belongs_to إلى علم نفس الجسد/التحليل الرايخي كما يقول crumb."
 ---
 
 # جينوفينو فيري

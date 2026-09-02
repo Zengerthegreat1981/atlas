@@ -2,45 +2,34 @@
 slug: "thk-michaelsweeting"
 id: "THK-2723"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "مايكل سويتنغ"
 en: "Michael Sweeting"
-crumb: "Te Whare Tapa Whā (نموذج) ← تطوير ← مايكل سويتنغ"
-dates: "نيوزيلندا/أستراليا · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← مايكل سويتنغ"
+dates: "نيوزيلندا/أستراليا · [غير مؤكد]"
 country: "أستراليا"
 language: "الإنجليزية"
-active_start: 1990
-active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", target_type: "مدرسة"
-related:
-- id: "thk-trore", title: "ماسون دوري", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-27:** لم يُعثر على توثيق مستقل لشخص باسم Michael Sweeting كباحث مساهم في تأطير Te Whare Tapa Whā عبر السياقات متعددة الثقافات — لا سنة ميلاد، ولا اقتباس مباشر موثَّق، ولا كتاب أو مقالة محكّمة يمكن التحقق منها بمصدر أولي. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-michaelsweeting.md.archived.2026-08-27"
 ---
 
 # مايكل سويتنغ
 
-باحث في **علم نفس الصحة** و**الشباب**، من المساهمين في تأطير **Te Whare Tapa Whā** كنموذج قابل للاستخدام في **سياقات متعددة الثقافات**، بما في ذلك أستراليا وكندا.
+(Michael Sweeting)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-michaelsweeting.md.archived.2026-08-27`
 
-- تطوير **أدوات بحثية** لتقييم أبعاد Te Whare Tapa Whā الأربعة في الشباب.
-- مساهمات في **مقارنة Te Whare Tapa Whā بنماذج الصحة للشعوب الأصلية** في أستراليا وكندا.
-- فصول في كتب عن **«الصحة النفسية للشباب في جزر المحيط الهادئ»**.
+لم يُعثر على توثيق مستقل لوجود هذا الشخص كباحث مرتبط بنموذج Te Whare Tapa Whā. راجع `agents_specs/quarantine-minimax.md` للتفاصيل.
 
-## موقعه من التيار
+## المصادر
 
-يتميّز سويتنغ بمقاربته **المقارنة الدولية** التي تضع Te Whare Tapa Whā في سياق النماذج الصحية للشعوب الأصلية الأوسع، وهو ما يُغني فهمنا للنموذج النيوزيلندي.
-
-## أهم أعماله
-
-- فصول في كتب عن صحة الشباب الأصلية.
-- أبحاث منشورة في *Social Science & Medicine*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-michaelsweeting.md.archived.2026-08-27`

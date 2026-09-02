@@ -8,16 +8,16 @@ en: "Inquiries into Human Faculty and Its Development"
 crumb: "علم النفس الفروق الفردية ← الأعمال ← تحقيقات في القدرات الإنسانية"
 dates: "1883 · فرانسيس غالتون"
 active_start: 1883
-active_end: 1883
+active_end: 1900
 language: "الإنجليزية"
 part: "psychology"
+author: "فرانسيس غالتون"
+publication_year: 1883
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الفروق الفردية", target_type: "مدرسة"
-- rel: "authored_by", target: "فرانسيس غالتون", target_type: "مفكر"
 gaps:
   - "لا يوجد ملفّ مفكر (thk-) لـ Galton في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
   - "الكتاب يحوي أيضاً أطروحات عن تحسين النسل (eugenics) — التحقق من الأثر الفعلي لهذا الجانب على السياسات اللاحقة لم يُنجز بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تحقيقات في القدرات الإنسانية

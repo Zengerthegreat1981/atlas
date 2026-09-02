@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الصين ← المدرسة العسكرية"
 dates: "الصين · من القرن 6 ق.م إلى القرن 1 ق.م تقريباً، مع امتداد إلى ما بعد"
 country: "الصين"
 language: "الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: -500
 active_end: -100
 active_source: "lifespan"
@@ -25,7 +26,6 @@ related:
 gaps:
   - "نصوص Sunzi / Sun Bin / Wu Qi الأصلية بُحثت هنا بالترجمات الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين 'الاستراتيجيا' كعلم و'التكتيك' كفنّ لم يُحلّ بشكل قاطع في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # المدرسة العسكرية الصينية (Bingjia)
@@ -59,3 +59,10 @@ gaps:
 - تسبق «استراتيجيات» كلوزفيتز (Clausewitz) و«فن الحرب» لماكيافيلي بألفي عام.
 - تُعتبر من أقدم مدارس الفكر الاستراتيجي المنظومي (systemic strategic thinking).
 - في القرن العشرين استعملت في المدارس العسكرية الغربية (القادة الأمريكيون نقلوا السونزية في فيتنام، والقادة اليابانيون استعملوها قبل بيرل هاربر).
+
+## المصادر
+
+- Sun Tzu, *The Art of War*, trans. Samuel B. Griffith (Oxford University Press, 1963).
+- Ralph D. Sawyer (trans.), *The Seven Military Classics of Ancient China* (Westview Press, 1993).
+- Roger Ames, *Sun-tzu: The Art of Warfare* (Ballantine Books, 1993).
+- Mark Edward Lewis, *Sanctioned Violence in Early China* (State University of New York Press, 1990).

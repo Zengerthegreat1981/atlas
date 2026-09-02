@@ -18,10 +18,10 @@ edges:
 - rel: "refined_by", target: "thk-greenberg-lisa", target_type: "مفكر"
 related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
-- id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
-- id: "con-two-chair-dialogue", title: "تقنية الكرسيين", type: "مفهوم"
+- id: "con-two-chair-dialogue", title: "تقنية الكرسيين (حوار الكرسيين)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المسائل العالقة (con-unfinished-business)"
   - "الأدلة التجريبية على الكرسي الفارغ أقل من حوار الكرسيين (Greenberg et al. 1990s ركّزت على حوار الكرسيين)؛ الفعالية موثّقة سريرياً أكثر منها تجريبياً."
@@ -89,9 +89,3 @@ gaps:
 - Perls, F. (1969). *Gestalt Therapy Verbatim*. Real People Press.
 - Paivio, S. C., & Greenberg, L. S. (1995). «Resolving ”Unfinished Business”». *Journal of Consulting and Clinical Psychology*, 63(3), 397-406.
 - Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change*. Guilford Press.
-
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-eft** و**sch-gestalt-therapy** (تاريخياً).
-- مُكمِّل لـ**con-two-chair-dialogue** (الكرسيين).
-- مرتبط بـ**con-unfinished-business** (المسائل العالقة) كإطار نظري.

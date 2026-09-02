@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الشرق الأدنى القديم ← المزدك
 dates: "إيران · القرن 5-6 م"
 country: "إيران الساسانية"
 language: "البهلوية"
+cultural_origin: "islamic-arabic"
 active_start: 470
 active_end: 530
 edges:
@@ -43,3 +44,10 @@ gaps:
 - المانوية (تشاركها في البُعد الاشتراكي).
 - حركات الإصلاح الاجتماعي اللاحقة في الإسلام (القرامطة، الباطنية).
 - الفكر السياسي الفارسي الحديث.
+
+## المصادر
+
+- Crone, Patricia. "Kavad's Heresy and Mazdak's Revolt." *Iran*, vol. 29, 1991.
+- Yarshater, Ehsan (ed.). *The Cambridge History of Iran, Vol. 3: The Seleucid, Parthian and Sasanid Periods*. Cambridge University Press, 1983.
+- Klíma, Otakar. *Mazdak: Geschichte einer sozialen Bewegung im sassanidischen Persien*. Czechoslovak Academy of Sciences, 1957.
+- Zaehner, R. C. *Zurvan: A Zoroastrian Dilemma*. Oxford University Press, 1955.

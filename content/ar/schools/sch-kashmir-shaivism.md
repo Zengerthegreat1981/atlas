@@ -10,17 +10,17 @@ crumb: "الفلسفة ← الهند ← المدارس غير الأرثوذك
 dates: "الهند (كشمير) · من القرن 9 م إلى القرن 14 م"
 country: "الهند (كشمير)"
 language: "السنسكريتية"
+cultural_origin: "indian"
 active_start: 800
 active_end: 1400
-edges:
-- rel: "belongs_to", target: "التقاليد الشايفية", target_type: "مظلة"
 related:
 - id: "sch-shakta-tantra", title: "الشاكتية والتانترا الفلسفية", type: "مدرسة"
 - id: "sch-shaiva-siddhanta", title: "شايفا سيدهانتا", type: "مدرسة"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«التانترا الفلسفية» (sch-tantra) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص فياسا (Vasugupta) وAbhinavagupta تحتاج مراجعة من المصدر الأولي."
+  - "رابط belongs_to لـ«التقاليد الشايفية» (مظلة) أُزيل — لا يوجد ملف مدرسة مستقل لها بعد؛ سُجّلت في agents_specs/missing-schools.md."
 ---
 
 # الشايفية الكشميرية (ترِكا)
@@ -59,3 +59,10 @@ gaps:
 ## القيد
 
 - بُعدها الطقسي/التانتري يصعّب على البعض فهمها فلسفياً.
+
+## المصادر
+
+- Dyczkowski, Mark S. G. *The Doctrine of Vibration: An Analysis of the Doctrines and Practices of Kashmir Shaivism*. State University of New York Press, 1987.
+- Muller-Ortega, Paul E. *The Triadic Heart of Śiva: Kaula Tantricism of Abhinavagupta in the Non-Dual Shaivism of Kashmir*. State University of New York Press, 1989.
+- Singh, Jaideva (trans.). *Śiva Sūtras: The Yoga of Supreme Identity*. Motilal Banarsidass, 1979.
+- Sanderson, Alexis. "The Śaiva Age: The Rise and Dominance of Śaivism during the Early Medieval Period." In *Genesis and Development of Tantrism*, University of Tokyo, 2009.

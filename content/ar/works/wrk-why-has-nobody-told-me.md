@@ -13,7 +13,6 @@ language: "الإنجليزية"
 active_start: 2022
 active_end: 2022
 edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-julie-smith", target_type: "مفكر"
 related:
 - id: "thk-julie-smith", title: "جولي سميث", type: "مفكر"

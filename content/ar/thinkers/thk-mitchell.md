@@ -25,8 +25,6 @@ related:
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه التأسيسي 'المفاهيم العلائقية في التحليل النفسي' (1988) ومصفوفة العلاقات تستحق إدراجاً في الأعمال."
   - "دُمج معه الملف المكرَّر thk-smitchell (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -47,4 +45,10 @@ gaps:
 
 ## أهم أعماله
 
-المفاهيم العلائقية في التحليل النفسي (Relational Concepts in Psychoanalysis, 1988) · الأمل والرهبة في التحليل النفسي (Hope and Dread in Psychoanalysis, 1993) · هل يمكن للحب أن يدوم؟ (Can Love Last?, 2002) · التحليل النفسي العلائقي: نشأة التقليد (1999 مع Lewis Aron).
+المفاهيم العلائقية في التحليل النفسي: تكامل جديد (Relational Concepts in Psychoanalysis: An Integration, 1988) · الأمل والرهبة في التحليل النفسي (Hope and Dread in Psychoanalysis, 1993) · هل يمكن للحب أن يدوم؟ (Can Love Last?، نُشر بعد وفاته عام 2002) · التحليل النفسي العلائقي: نشأة التقليد (Relational Psychoanalysis: The Emergence of a Tradition, 1999، بالاشتراك مع Lewis Aron).
+
+## المصادر
+
+- Mitchell, Stephen A. *Relational Concepts in Psychoanalysis: An Integration*. Harvard University Press, 1988.
+- Mitchell, Stephen A. *Hope and Dread in Psychoanalysis*. Basic Books, 1993.
+- Mitchell, Stephen A., and Aron, Lewis (eds.). *Relational Psychoanalysis: The Emergence of a Tradition*. The Analytic Press, 1999.

@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← البوذية التبتية ← 
 dates: "التبت · من القرن 12 م إلى اليوم"
 country: "التبت، الهند (المنفى)"
 language: "التبتية"
+cultural_origin: "south-asian"
 active_start: 1150
 active_end: "مستمر"
 edges:
@@ -17,10 +18,10 @@ edges:
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
 - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-- id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
-- id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
+- id: "sch-gelug", title: "غيلوغ (البوذية التبتية)", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو (البوذية التبتية)", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "نصوص Dolpopa Sherab Gyaltsen (Mountain Dharma، Zhönnang Kā-lān) تحتاج مراجعة من المصدر الأولي."
   - "الوضع الحالي لـ Jonang في التبت بعد حظر القرن 17 يستحق بحثاً مستقلاً."
@@ -72,3 +73,10 @@ gaps:
 - الجدل بين Jonang وGelug قد يصل إلى تبادل الاتهامات: Gelug تعتبر Shentong «شيئية» (الذاتية العكسية)، Jonang تعتبر Prāsaṅgika «فراغ مفرط».
 - حظر القرن 17 له دوافع سياسية (نظام Dalai Lama) أكثر من كونه نتيجة نقاش فلسفي محسوم.
 - لا يوجد نص Shentong كنسيقي مرجعي واحد.
+
+## المصادر
+
+- Ruegg, David Seyfort. *The Jo naṅ pas: A School of Buddhist Ontology According to the Grub mtha' śel gyi me loṅ*, Journal of the American Oriental Society, 1963.
+- Stearns, Cyrus. *The Buddha from Dolpo: A Study of the Life and Thought of the Tibetan Master Dölpopa Sherab Gyaltsen*, SUNY Press, 1999.
+- Hookham, S. K. *The Buddha Within: Tathagatagarbha Doctrine According to the Shentong Interpretation of the Ratnagotravibhaga*, SUNY Press, 1991.
+- Treasury of Lives (treasuryoflives.org) — مداخل Dolpopa Sherab Gyaltsen وTaranatha.

@@ -20,7 +20,6 @@ related:
 - id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
 gaps:
   - "التفاصيل المتأخرة لحياته (بعد 1960) شحيحة في المصادر الإنجليزية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أولا راكنيس
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 «فيلهلم رايخ وعلم نفس الأورغون» (Wilhelm Reich and Orgonomy, 1970) · «التحليل النباتي التحليلي للشخصية» (Character-Analytical Vegetotherapy، ترجمة إنكليزية 1970).
+
+## المصادر
+
+- Raknes, Ola. *Wilhelm Reich and Orgonomy*. Penguin Books, 1970.
+- Boadella, David. *Wilhelm Reich: The Evolution of His Work*. Vision Press, 1973 (يوثّق دور راكنيس في الحفاظ على الخط الأوروبي للتحليل النباتي).
+- Sharaf, Myron. *Fury on Earth: A Biography of Wilhelm Reich*. St. Martin's Press, 1983.

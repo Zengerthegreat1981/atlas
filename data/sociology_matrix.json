@@ -4,26 +4,27 @@
     "completed_backlog_items": 0,
     "in_progress_backlog_items": 0,
     "pending_backlog_items": 159,
-    "approved_sociology_nodes": 14,
-    "draft_sociology_nodes": 0,
-    "total_sociology_nodes": 14
+    "approved_sociology_nodes": 15,
+    "draft_sociology_nodes": 6,
+    "total_sociology_nodes": 21
   },
   "type_breakdown": {
     "حوار مع مدرسة مجاورة": 1,
     "بديهية/مبدأ تأسيسي": 1,
     "سياق/تقليد": 2,
-    "مفكر": 3,
+    "مفكر": 7,
     "مصطلح لغوي متنازع عليه": 2,
     "استعارة/مجاز مؤسِّس": 1,
-    "عمل / كتاب": 2,
+    "عمل / كتاب": 3,
     "مفهوم": 1,
-    "تيار": 1
+    "تيار": 1,
+    "مدرسة": 2
   },
   "tradition_breakdown": {
-    "عام / غير مصنف": 14
+    "عام / غير مصنف": 21
   },
   "paradigm_breakdown": {
-    "غير محدد": 14
+    "غير محدد": 21
   },
   "backlog": [
     {

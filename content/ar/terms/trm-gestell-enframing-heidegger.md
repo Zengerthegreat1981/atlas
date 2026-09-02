@@ -14,8 +14,7 @@ edges:
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "المصادر أدناه إنجليزية/ألمانية فقط؛ لم تُراجَع ترجمة عربية معتمدة لمقالة «السؤال عن التقنية» لضبط المقابل العربي الشائع لـ Bestand."
 ---
 # الغشتيل أو الإطار التقني (Gestell): حصار التقنية للوجود وتحويله لمورد
 
@@ -32,3 +31,9 @@ gaps:
 ## الخطر الأكبر وبذرة النجاة (Hölderlin)
 
 «حيثما يكمن الخطر، تنمو أيضاً بذرة النجاة» عبر الاستفاقة الروحية والفن والتأمل الفلسفي المهدئ.
+
+## المصادر
+
+- Martin Heidegger, "Die Frage nach der Technik," محاضرة أُلقيت في ميونخ في ١٨ نوفمبر ١٩٥٣، نُشرت ضمن *Vorträge und Aufsätze* (Pfullingen: Neske, 1954).
+- Martin Heidegger, *The Question Concerning Technology and Other Essays*, trans. William Lovitt (New York: Harper & Row, 1977).
+- Michael E. Zimmerman, *Heidegger's Confrontation with Modernity: Technology, Politics, Art* (Bloomington: Indiana University Press, 1990).

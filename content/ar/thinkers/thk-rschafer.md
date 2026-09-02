@@ -6,20 +6,19 @@ level: "متقدم"
 title: "روي شَيفِر"
 en: "Roy Schafer"
 crumb: "التحليل النفسي ← الناس ← التحليل التكاملي ← روي شَيفِر"
-dates: "أمريكا · مواليد 1922"
+dates: "أمريكا · 1922–2018"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: null
-active_end: 2014
+active_end: 2018
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تاريخ وفاته 5 أغسطس 2018 مؤكد من مصادر متعددة (Sigourney Award، مجلة Contemporary Psychoanalysis)، لكن تفاصيل مراسلاته الشخصية مع دونالد سبنس وجورج كلاين غير موثقة أولياً في هذا الملف."
 ---
 
 # روي شَيفِر

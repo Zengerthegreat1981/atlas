@@ -11,13 +11,17 @@ dates: "الهند القديمة · ق. 200 ق.م"
 language: "السنسكريتية"
 active_start: -150
 active_end: -150
+author: "باتانجالي"
+author_slug: "thk-patanjali"
+publication_year: -150
+original_language: "السنسكريتية"
 edges:
 - rel: "belongs_to", target: "sch-yoga", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-patanjali", target_type: "مفكر"
 related:
 - id: "thk-patanjali", title: "باتانجالي", type: "مفكر"
 gaps:
   - "الفصول الأربعة: الصمادي، الممارسة، القوى، والتحرر الروحي التام."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # يوغا سوترا لباتانجالي

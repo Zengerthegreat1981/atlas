@@ -11,13 +11,15 @@ active_start: 1997
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+evidence_level: "experimental"
 related:
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "con-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مفهوم"
-- id: "con-felt-sense", title: "الإحساس المستبطن (Felt Sense)", type: "مفهوم"
+- id: "con-somatic-experiencing", title: "التَّجْرِبَة الْجِسَدِيَّة (Somatic Experiencing): مَنَهَج لِـ**شِفَاء الصَّدْمَة**", type: "مفهوم"
+- id: "con-felt-sense", title: "الإحساس الجسدي المُحسَّس (Felt Sense)", type: "مفهوم"
+- id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 gaps:
-  - "التفاصيل العصبية لآلية تتبع الإحساس غير مكتملة في الأدبيات."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا توجد دراسة محكّمة موثّقة تفحص تتبع الإحساس الجسدي كتقنية منفصلة عن بروتوكول SE ككل — التقييمات الموجودة تختبر SE كحزمة علاجية متكاملة لا هذا المكوّن بمفرده."
+  - "الآلية العصبية الدقيقة (أي المسارات العصبية المسؤولة عن \"التفريغ\" أثناء التتبع) غير محددة بأرقام أو تصوير عصبي في مصادر ليفين المتاحة."
 ---
 # تتبع الإحساس الجسدي (Sensation Tracking) في SE
 

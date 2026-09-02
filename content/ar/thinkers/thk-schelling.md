@@ -25,7 +25,7 @@ related:
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 - id: "ctx-german-romanticism-jena-circle", title: "حلقة يينا والرومانسية الألمانية وتأليه الخيال والفن", type: "سياق/تقليد"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي بعد."
   - "محاضرات برلين الفلسفية (1841) التي حضرها كيركيغارد وإنجلز وباكونين تمثل حدثاً تاريخياً مفصلياً."
 ---
 # فريدريش شيلينغ
@@ -46,3 +46,10 @@ gaps:
 ## أهم أعماله
 
 بحوث فلسفية في جوهر الحرية الإنسانية (Philosophische Untersuchungen über das Wesen der menschlichen Freiheit, 1809) · فلسفة الأساطير والوحي (1841–1854).
+
+## المصادر
+
+- Schelling, F. W. J. (1809). *Philosophische Untersuchungen über das Wesen der menschlichen Freiheit*.
+- Stanford Encyclopedia of Philosophy — مدخل "Friedrich Wilhelm Joseph von Schelling".
+- Heidegger, M. (1936). *Schellings Abhandlung über das Wesen der menschlichen Freiheit* (محاضرات 1936، نُشرت 1971) — دراسة هايدجر المباشرة لأطروحة الحرية.
+- Kierkegaard, S. — رسائله ودفاتره من برلين (1841–1842) التي تسجّل حضوره محاضرات شيلينغ.

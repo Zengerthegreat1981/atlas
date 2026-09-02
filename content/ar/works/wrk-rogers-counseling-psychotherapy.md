@@ -9,8 +9,12 @@ crumb: "الإنسانية ← الأعمال ← الإرشاد والعلاج 
 dates: "1942 · كارل روجرز"
 language: "الإنجليزية"
 active_start: 1942
-active_end: 1942
+active_end: 1987
 part: "psychology"
+author: "كارل روجرز"
+author_slug: "thk-rogers"
+publication_year: 1942
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-rogers", target_type: "مفكر"

@@ -10,22 +10,21 @@ crumb: "الفلسفة ← الصين ← الداووية الدينية"
 dates: "الصين · من نحو القرن 1 م إلى يومنا هذا"
 country: "الصين"
 language: "الصينية الكلاسيكية؛ الصينية العامية لاحقاً"
+cultural_origin: "east-asian"
 active_start: 100
 active_end: "مستمر"
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الداووية (مظلة)", target_type: "مظلة"
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "sch-xuanxue", title: "شوان شيويه (التعلم الغامض)", type: "مدرسة"
-- id: "sch-huang-lao", title: "هوانغ-لاو", type: "مدرسة"
+- id: "sch-huang-lao", title: "هوانغ-لاو (Huang-Lao)", type: "مدرسة"
 - id: "con-neidan", title: "التاوية الداخلية (内丹 nèidān)", type: "مفهوم"
 - id: "con-zhenren", title: "الرجل الحقيقي (真人 zhēnrén)", type: "مفهوم"
 - id: "wrk-baopuzi", title: "كتاب باو بو تزو (الأب البسيط)", type: "عمل / كتاب"
 gaps:
   - "التفريق بين الطوائف المتأخرة (كوانغ-جي، كومتيران، شينغ-مو) هنا مجرد خطوط عامة."
   - "العلاقة بين الداووية الدينية والبوذية في الصين (استيعاب الأديرة، فكرة الجَرَدة، التانترا) تحتاج تحليلاً أعمق."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # الداووية الدينية
@@ -56,3 +55,10 @@ gaps:
 ## العلاقة بالداووية الفلسفية
 
 العلاقة ليست تبعية بسيطة: الداووية الفلسفية (لاو تزو، تشوانغ تزو) تسبق الداووية الدينية بخمسة قرون على الأقل، لكن الأخيرة «وظّفت» النصوص الفلسفية في تراثها المقدّس — فأصبح لاو تزو ربّاً، والـDao De Jing نصّاً يُستظهَر في الطقس. الداووية الفلسفية تظلّ تياراً فلسفياً مستقلاً، لكن لا يمكن فهم الداووية الدينية دون الاستعارة المتعمّدة من الأولى.
+
+## المصادر
+
+- Kohn, Livia (ed.). *Daoism Handbook*. Brill, 2000.
+- Robinet, Isabelle. *Taoism: Growth of a Religion*. Stanford University Press, 1997.
+- Bokenkamp, Stephen R. *Early Daoist Scriptures*. University of California Press, 1997.
+- Kirkland, Russell. *Taoism: The Enduring Tradition*. Routledge, 2004.

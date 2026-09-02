@@ -12,15 +12,17 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة السيكوديلك", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
+- id: "sch-psychedelic-assisted-therapy", title: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", type: "مدرسة"
 - id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفهوم"
-- id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية", type: "تقنية/تدخل علاجي"
+- id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية (PAP)", type: "تقنية/تدخل علاجي"
 - id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
+- id: "con-mdma-ptsd", title: "MDMA (إكستاسي) في علاج PTSD", type: "مفهوم"
+- id: "tec-holotropic-breathwork", title: "التنفس الهولوتروبي", type: "تقنية/تدخل علاجي"
 - id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "الممارسة تستند إلى عمل آي إس إس دي (IASO)، ومجموعات تشيفا (Chacruna Institute)، وأدريان ديبيرنو (Adriana de Berrenguer)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # التكامل النفسياني (Integration)
 
@@ -40,3 +42,7 @@ gaps:
 - **معهد Chacruna**: يقود تطوير بروتوكولات التكامل.
 - **MAPS Integration**: البروتوكول المعتمد في التجارب السريرية الرسمية.
 - **مدرسة Inner Trek**: نموذج تكاملي تجاري في هولندا.
+
+## الجذور والمواد
+
+معظم بروتوكولات التكامل السريرية (مثل بروتوكول MAPS) طُبّقت أساساً على مواد بعينها كالسيلوسيبين والـ MDMA، بوصفها الجلسات التي تُنتج المحتوى النفسي الذي يحتاج إلى دمج لاحق. كما تنبع ممارسة التكامل المعاصرة من الجذور المشتركة تاريخياً بين حركة العلاج بمساعدة المواد النفسانية وعلم النفس عبر الشخصي (Transpersonal)، حيث استعارت بروتوكولات التكامل الحالية أدوات من ممارسات التنفس الشامل (Holotropic Breathwork) وغيرها من تقنيات هذا التراث المشترك.

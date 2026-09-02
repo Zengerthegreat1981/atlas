@@ -10,18 +10,18 @@ crumb: "علم النفس ← المدارس الناشئة ← العلاج ب�
 dates: "متعدد المراكز · من ستينيات القرن العشرين إلى اليوم (موجة إحياء منذ 2000)"
 country: "الولايات المتحدة وأوروبا (بشكل أساسي)، مع برامج ناشئة عالمياً"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1960
 active_end: "مستمر"
 register: "academic"
 evidence_level: "تجريبي (Experimental) — مع توسّع سريع في التجارب السريرية العشوائية وتصنيفات اختراق من FDA"
 edges:
-- rel: "belongs_to", target: "العلاج النفساني (Psychopharmacology-Assisted Psychotherapy)", target_type: "تيار"
-- rel: "evolved_from", target: "العلاج النفسي التقليدي في الخمسينيات والستينيات", target_type: "سياق"
 - rel: "intersects_with", target: "sch-biological-neuro", target_type: "مدرسة"
 - rel: "intersects_with", target: "con-mindfulness", target_type: "مفهوم"
-- rel: "founded_by", target: "تيموثي ليري / هومر هاردي / ستانيسلاف جروف / ريتشارد ياتس (الجيل الأول)", target_type: "مفكر"
-- rel: "revived_by", target: "ريك دوبان (MAPS) / رولاند غريفز / روبرت كارثيرز (الجيل المعاصر)", target_type: "مفكر"
+- rel: "founded_by", target: "thk-tleary", target_type: "مفكر"
+- rel: "revived_by", target: "thk-rick-doblin", target_type: "مفكر"
 related:
+- id: "thk-mjohnson", title: "ماثيو جونسون", type: "مفكر"
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
@@ -36,7 +36,6 @@ related:
 - id: "thk-david-nichols", title: "ديفيد نيكولز", type: "مفكر"
 - id: "thk-michael-pollan", title: "مايكل بولان", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: رولاند غريفثز (thk-rgriffiths)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: روبرت مالّيت (thk-rmaple)"
   - "التفاصيل الدقيقة لبروتوكولات الـMDMA مع الـPTSD بعد نتائج المرحلة الثالثة (Mitchell et al. 2021) لم تُراجع من مصدرها الأولي."
   - "لا يوجد تاريخ نهاية محدد للنموذج كتيار سريري مستمر — التطور السريع منذ 2020 يصعب توثيقه بدقة في الأطلس."
@@ -120,7 +119,7 @@ gaps:
 
 أسّست هذه الموجة من الأبحاث حقلاً أكاديمياً جديداً اسمه "علم النفس السايكدليكي" (Psychedelic Science)، مع برامج دراسات عليا مخصصة في جامعات كبرى. تُعقد سنوياً مؤتمرات (MAPS Psychedelic Science, INSIGHT Conference) ويُتوقع أن يُعاد تقنين عدة مواد في العقد القادم.
 
-## المرجع الموصى للقراءة المعمَّقة
+## المصادر
 
 - Pollan, M. (2018). *How to Change Your Mind*. Penguin Press.
 - Carhart-Harris, R., & Goodwin, G. M. (2017). "The Therapeutic Potential of Psychedelic Drugs." *Neuropsychopharmacology*.

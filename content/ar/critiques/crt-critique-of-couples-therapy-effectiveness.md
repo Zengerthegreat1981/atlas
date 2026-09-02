@@ -13,13 +13,12 @@ edges:
 - rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "crt-critique-of-couples-therapy", title: "نقد العلاج الزوجي", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-couples-therapy", title: "نقد الْعِلَاج الزَّوْجِيّ: «الزَّوَاج كَـعِلَاج» كَـ«سُلْطَة طَبِّيَّة»", type: "نقد خارجي موثَّق"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Tilden & Wampold, 2010; Christensen & Heavey, 1990)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "الفرق بين هذا النقد ونقد العلاج الزوجي الفوريات يحتاج فصلاً."
 ---
 # نقد فَعَّالِيَّة الْعِلَاج الزَّوْجِيّ: «مَشَاكِل الْأَزْوَاج» هَل تُحُلّ؟

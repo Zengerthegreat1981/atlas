@@ -11,13 +11,14 @@ active_start: -65000
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-dreamtime", target_type: "مدرسة"
-- rel: "formulated_by", target: "كبار السن وقصّاصو أساطير السكان الأصليين (تقليد شفهي)", target_type: "مفكر"
 related:
-- id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "sch-dreamtime", title: "Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)", type: "مدرسة"
+- id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 gaps:
   - "الأسماء الأصلية لمفهوم 'Tjukurrpa' قبل التبسيط الإنجليزي موضع جدل."
   - "لا يوجد اقتباس مباشر موثوق من الممارسات الشفهية بعد."
+  - "حقل formulated_by كان يشير إلى نص حر ('كبار السن وقصّاصو أساطير السكان الأصليين') وليس إلى slug فعلي؛ حُذف الرابط لعدم وجود ملف مفكر مقابل للتقليد الشفهي الجماعي."
+  - "لا توجد ملفات مفكرين في الأطلس لفيليب شارب، سيرج موسكوفيتشي، فال بلمود، ماري غراهام، أو بروس تشاتوين رغم ذكرهم في المتن، فتعذّر ربطهم."
 ---
 
 # زمن الأحلام (Dreamtime / Tjukurrpa)

@@ -13,14 +13,12 @@ language: "الإنجليزية"
 active_start: 1997
 active_end: 1997
 edges:
-- rel: "belongs_to", target: "العلاج الجسدي للصدمات (Somatic Experiencing)", target_type: "مدرسة"
 - rel: "written_by", target: "thk-plevine", target_type: "مفكر"
 related:
 - id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)", type: "مفهوم"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # إيقاظ النمر: شفاء الصدمة
@@ -34,7 +32,3 @@ gaps:
 ## المعايرة والتأرجح العلاجي (Titration & Pendulation)
 
 معالجة الصدمة عبر جرعات جسدية دقيقة والانتقال المتدرج بين الشعور بالأمان واستدعاء مشاعر الصدمة لتفريغها بسلام.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

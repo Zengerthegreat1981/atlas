@@ -15,13 +15,13 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-winnicott", target_type: "مفكر"
-- rel: "developed_by", target: "رونالد فيربيرن", target_type: "مفكر"
+- rel: "developed_by", target: "thk-fairbairn", target_type: "مفكر"
 related:
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-- id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
-- id: "thk-mbalint", title: "مايكل بالينت", type: "مفكر"
-- id: "thk-guntrip", title: "هاري غونتريب", type: "مفكر"
-- id: "thk-mmilner", title: "ماريون ميلنر", type: "مفكر"
+- id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
+- id: "thk-mbalint", title: "مايكل بالِنت", type: "مفكر"
+- id: "thk-guntrip", title: "هاري غانترب", type: "مفكر"
+- id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
 - id: "thk-suttie", title: "إيان سوتي", type: "مفكر"
 - id: "tec-cat", title: "العلاج المعرفي التحليلي (CAT)", type: "تقنية/تدخل علاجي"
 gaps:

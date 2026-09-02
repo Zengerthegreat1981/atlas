@@ -10,6 +10,7 @@ crumb: "الفلسفة ← القرن 19 ← إصلاح الهندوسية ← �
 dates: "الهند (البنغال) · من 1828 إلى 1900"
 country: "الهند (البنغال، كلكتا)"
 language: "البنغالية، الإنجليزية، السنسكريتية"
+cultural_origin: "indian"
 active_start: 1828
 active_end: 1900
 edges:
@@ -17,12 +18,12 @@ edges:
 - rel: "superseded_by", target: "sch-arya-samaj", target_type: "مدرسة"
 related:
 - id: "thk-roy", title: "رام موهان روي", type: "مفكر"
-- id: "thk-tagore", title: "رابندرانات طاغور", type: "مفكر"
+- id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«كيشوب تشاندرا سين» (thk-keshab) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«رام موهان روي» (thk-rammohanroy) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات 'أجايا كومار ديبي' (Akshay Kumar Datta) في 'إصلاحات القرن 19' لم تُغطَ."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على اقتباس مباشر قابل للتوثيق من مصدر أولي."
 ---
 
 # براهمو ساماج
@@ -63,3 +64,9 @@ gaps:
 - الانقسام الداخلي بين «براهمو ساماج» و«آريا ساماج» (1875) أضعف الحركة.
 - تهمة «التغريب» (نقد) تستحق مراجعة مع كتابات سين.
 - التأثير اللاحق على طاغور في «ديانة الإنسان» (1930).
+
+## المصادر
+
+- Kopf, David. *The Brahmo Samaj and the Shaping of the Modern Indian Mind*. Princeton University Press, 1979.
+- Hatcher, Brian A. *Bourgeois Hinduism, or the Faith of the Modern Vedantists: Rare Discourses from Early Colonial Bengal*. Oxford University Press, 2008.
+- Sen, Amiya P. *Rammohun Roy: A Critical Biography*. Penguin Books, 2012.

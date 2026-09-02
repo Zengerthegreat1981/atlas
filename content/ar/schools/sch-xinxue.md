@@ -9,6 +9,7 @@ en: "School of Mind-Heart (Xinxue / Lu-Wang)"
 crumb: "الفلسفة ← الصين ← مدرسة العقل/القلب (لو-وانغ / شين شوي)"
 dates: "الصين · من القرن 12 م إلى القرن 16 م (الذروة)"
 country: "الصين"
+cultural_origin: "east-asian"
 language: "الصينية الكلاسيكية"
 active_start: 1100
 active_end: 1600
@@ -19,13 +20,12 @@ related:
 - id: "thk-wang-yangming", title: "وانغ يانغ مينغ (وانغ شو رن)", type: "مفكر"
 - id: "thk-lu-jiuyuan", title: "لو جيو يوان", type: "مفكر"
 - id: "con-zhixing-heyi", title: "الوحدة بين المعرفة والفعل (知行合一)", type: "مفهوم"
-- id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«البوذية الصينية» (sch-buddhism-chinese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Lu Jiuyuan وWang Yangming الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين Lu Jiuyuan وWang Yangming (وبين Lu المدرسة الأولى وLu المدرسة الأخيرة) لم يُحلّ في هذه المسودة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # مدرسة العقل/القلب (Xinxue / Lu-Wang)
@@ -58,3 +58,10 @@ gaps:
 - في القرن العشرين، استلهم منها تانغ جون يي (Tang Junyi) ومو زونغ شان وآخرون في حركة «New Confucianism».
 - في اليابان، استُلهمت في «أوشيو-هاجيمي ياماغوتشي» وفي شينغاكو (Kumazawa، Ishida Baigan).
 - في كوريا، تأثر بها «Yi Hwang (Toegye)» في قراءته عن «أربعة أمور» و«سبعة عواطف» (الجدل مع Ki Kobong).
+
+## المصادر
+
+- Ivanhoe, Philip J. *Ethics in the Confucian Tradition: The Thought of Mengzi and Wang Yangming*. Hackett Publishing, 2002.
+- Tu, Wei-ming. *Neo-Confucian Thought in Action: Wang Yang-ming's Youth (1472–1509)*. University of California Press, 1976.
+- Ching, Julia. *To Acquire Wisdom: The Way of Wang Yang-ming*. Columbia University Press, 1976.
+- Mou, Bo (ed.). *History of Chinese Philosophy*. Routledge, 2009.

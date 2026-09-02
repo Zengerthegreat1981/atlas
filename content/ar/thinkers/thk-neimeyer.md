@@ -21,8 +21,8 @@ related:
 - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح (DAP-R)", type: "أداة قياس"
 - id: "thk-attig", title: "توماس آتيغ", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "تقنيات إعادة بناء المعنى في علاج الفقد (Meaning Reconstruction) تستحق توثيقاً إكلينيكياً في التقنيات (tec-)."
+  - "لم أعثر على اقتباس مباشر منسوب بصفحة محددة من أعماله."
+  - "تقنيات إعادة بناء المعنى في علاج الفقد (Meaning Reconstruction) لا يوجد لها ملف تقنية (tec-) مستقل بعد في الأطلس."
 ---
 
 # روبرت نيماير
@@ -42,4 +42,10 @@ gaps:
 
 ## أهم أعماله
 
-الدروس المستفادة من الفقد: دليل لإعادة بناء المعنى (Lessons of Loss, 2001) · علاج الحزن وتقنيات إعادة بناء المعنى (Techniques of Grief Therapy, 2012/2016) · الحزن وتجديد المعنى (Meaning Reconstruction and the Experience of Loss, 2001).
+الدروس المستفادة من الفقد: دليل لإعادة بناء المعنى (Lessons of Loss: A Guide to Coping, 1998) · علاج الحزن وتقنيات إعادة بناء المعنى (Techniques of Grief Therapy: Creative Practices for Counseling the Bereaved, 2012) · الحزن وتجديد المعنى (Meaning Reconstruction and the Experience of Loss, محرر، 2001).
+
+## المصادر
+
+- Neimeyer, R. A. (ed.), *Meaning Reconstruction and the Experience of Loss*, Washington, DC: American Psychological Association, 2001.
+- Neimeyer, R. A., *Techniques of Grief Therapy: Creative Practices for Counseling the Bereaved*, New York: Routledge, 2012.
+- Portland Institute for Loss and Transition — صفحة السيرة والمنشورات الرسمية لروبرت نيماير.

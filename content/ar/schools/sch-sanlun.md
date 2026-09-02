@@ -12,12 +12,13 @@ country: "الصين، اليابان (Sanron)، كوريا"
 language: "الصينية الكلاسيكية"
 active_start: 580
 active_end: 1400
+cultural_origin: "east-asian"
 edges:
-- rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-yogacara", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
 - id: "sch-faxiang", title: "فاشيانغ (يوغاكارا الصينية)", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 gaps:
@@ -82,3 +83,10 @@ gaps:
 - الترجمة الصينية للأطروحات الثلاث معقدة، ومصطلحات Jizang صعبة الترجمة.
 - العلاقة مع Huayan وTiantai: Jizang ينتقد تأكيدهما على Buddha-nature.
 - التقليد النصّي في القرن 9 ضعيف بسبب اضطهاد Wuzong.
+
+## المصادر
+
+- Robinson, Richard H. *Early Mādhyamika in India and China*. University of Wisconsin Press, 1967.
+- Liu, Ming-Wood. *Madhyamaka Thought in China*. E. J. Brill, 1994.
+- Koseki, Aaron K. "Prajñāpāramitā and the Buddhahood of the Non-Sentient World: The San-lun Assimilation of Buddha-nature and Middle Path Doctrine." *Journal of the International Association of Buddhist Studies* 3, no. 1 (1980).
+- Chan, Wing-tsit. *A Source Book in Chinese Philosophy*. Princeton University Press, 1963.

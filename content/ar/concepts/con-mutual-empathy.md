@@ -13,17 +13,17 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-jbmiller", target_type: "مفكر"
 related:
-- id: "thk-msrosenberg", title: "مارشال روزنبرغ (التواصل اللاعنفي)", type: "مفكر"
-- id: "con-buddhist-compassion-karuna", title: "الكَرُونَا / الرَّحْمَة البُوذِيَّة (Karunā)", type: "مفهوم"
+- id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"
 - id: "thk-jordan", title: "جوديث جوردان", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 gaps:
-  - "جين بيكر ميلر (المؤسسة الأولى، 1927-2006) لا تزال بدون عنصر thk-jbmiller في الفهرس."
   - "لا يوجد اقتباس مباشر موثوق من بيكر ميلر أو جوردان بعد."
 ---
 
 # التمكين والتعاطف المتبادل (Mutual Empathy)
 
-مفهوم مركزي في «النظرية العلائقية الثقافية» (RCT)، يصف الحالة المثالية للعلاقات الصحية حيث يتبادل الأطراف الأربعة: طاقة حيوية (Vitality)، قيمة (Valuing)، معرفة (Knowing)، مشاركة (Mutuality)، ومسؤولية (Responsibility).
+مفهوم مركزي في «النظرية العلائقية الثقافية» (RCT)، أحد فروع علم النفس الإنساني (Humanistic Psychology)، يصف الحالة المثالية للعلاقات الصحية حيث يتبادل الأطراف الأربعة: طاقة حيوية (Vitality)، قيمة (Valuing)، معرفة (Knowing)، مشاركة (Mutuality)، ومسؤولية (Responsibility).
 
 ## التعريف
 

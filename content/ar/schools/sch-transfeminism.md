@@ -12,6 +12,7 @@ country: "الولايات المتحدة، المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-queer-theory", target_type: "مدرسة"
@@ -55,3 +56,10 @@ gaps:
 
 - تواجه انتقادات من النسويات الراديكاليات (بخصوص تعريف المرأة).
 - تواجه انتقادات من بعض الأديان والمؤسسات التقليدية.
+
+## المصادر
+
+- Stryker, S. (1994). "My Words to Victor Frankenstein Above the Village of Chamounix." *GLQ*, 1(3).
+- Serano, J. (2007). *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity*. Seal Press.
+- Feinberg, L. (1996). *Transgender Warriors: Making History from Joan of Arc to RuPaul*. Beacon Press.
+- Stryker, S. & Whittle, S. (Eds.) (2006). *The Transgender Studies Reader*. Routledge.

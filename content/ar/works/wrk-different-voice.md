@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← أخلاقيات الرعاية �
 dates: "1982 · كارول غيليغان"
 language: "الإنجليزية"
 active_start: 1982
-active_end: 1982
+active_end: 2006
+author: "كارول غيليغان"
+author_slug: "thk-gilligan"
+publication_year: 1982
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:

@@ -11,6 +11,10 @@ language: "الإنجليزية"
 active_start: 2017
 active_end: 2017
 part: "psychology"
+author: "روبرت سابولسكي"
+author_slug: "thk-robert-sapolsky"
+publication_year: 2017
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-robert-sapolsky", target_type: "مفكر"
@@ -20,7 +24,6 @@ related:
 gaps:
   - "التفاصيل الدقيقة لإصدارات الكتاب (Penguin Press) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب."
-  - "المؤلف روبرت سابولسكي (Robert Sapolsky) ليس له ملف مفكر مستقل في الأطلس بعد."
 ---
 
 # تصرّف: بيولوجيا الإنسان في أفضل حالاته وأسوأها

@@ -18,9 +18,14 @@ related:
 - id: "sch-realism-medieval", title: "الواقعية (في جدل الكليات الوسيط)", type: "مدرسة"
 - id: "sch-conceptualism", title: "التصورية (Conceptualism)", type: "مدرسة"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
+- id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
+- id: "thk-bonaventure", title: "بونافنتورا", type: "مفكر"
+- id: "thk-peter-abelard", title: "بيتر أبيلار", type: "مفكر"
+- id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
+- id: "con-univocity-of-being-scotus", title: "التواطؤ الوجودي للفظ والمعنى (Univocity of Being)", type: "مفهوم"
 gaps:
   - "المواقف الثلاثة قد تتداخل في كتابات المفكرين، والتصنيف الصارم موضع نقاش."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جدل الكليات (مشكلة الكُنْه)
@@ -50,6 +55,10 @@ gaps:
 - **الكليات ليست إلا أسماء** (Universalia sunt nomina): «الإنسانية» ليست كياناً حقيقياً، بل كلمة نستخدمها لجمع أفراد.
 - **ممثلو اللاهوت**: وليم الأوكامي، Roscelin of Compiègne.
 - **الأثر**: مهد للتجريبية الحديثة (هوبز، لوك).
+
+## موقف خامس: التواطؤ الاسكوتي
+
+يوحنا دونز سكوتوس طرح حلاً مختلفاً لا يصنَّف بسهولة ضمن المواقف الأربعة: مفهوم "الوجود" نفسه لفظ واحد المعنى (univocity of being، انظر con-univocity-of-being-scotus) يُحمل بنفس الدلالة على الكليات وعلى الأفراد معاً، وما يميز الفرد هو "الهذّية" (Haecceitas) لا اشتراكه في كلي مجرد.
 
 ## لماذا يهم الجدل؟
 

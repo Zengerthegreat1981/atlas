@@ -12,11 +12,12 @@ country: "متعددة (الولايات المتحدة، المملكة الم�
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-scientific-realism", target_type: "مدرسة"
 related:
-- id: "thk-skripke", title: "سول كريبكه", type: "مفكر"
+- id: "thk-skripke", title: "سول كريبكي", type: "مفكر"
 - id: "thk-dlewis", title: "ديفيد لويس", type: "مفكر"
 - id: "wrk-naming-necessity", title: "التسمية والضرورة (Naming and Necessity)", type: "عمل / كتاب"
 - id: "con-verification-principle", title: "مبدأ التحقق", type: "مفهوم"
@@ -27,7 +28,7 @@ gaps:
   - "رابط مقترح لـ«ترين ميريكس» (thk-merricks) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«مايكل كريمنز» (thk-crimmins) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين 'الميتافيزيقا التحليلية' عند كريبكه وليويس لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من لويس 'في تعدد العوالم' (On the Plurality of Worlds, 1986) في صياغته المنقحة."
+  - "اقتباس لويس من 'في تعدد العوالم' (On the Plurality of Worlds, 1986) بصياغته المنقحة يحتاج مراجعة وتوثيقاً من المصدر الأولي."
   - "نقد 'الواقعية الأنطولوجية' (Carnap, 1956) وموقعه من الميتافيزيقا التحليلية المعاصرة لم يُراجع."
 ---
 
@@ -68,3 +69,10 @@ gaps:
 
 - يستحق التمييز بين «الميتافيزيقا التحليلية» و«الميتافيزيقا القارية المعاصرة» فصلاً مستقلاً.
 - الفارق الدقيق بين «الواقعية الميتافيزيقية» و«الواقعية العلمية» غير موثّق هنا.
+
+## المصادر
+
+- Saul Kripke, *Naming and Necessity* (Harvard University Press, 1980).
+- David Lewis, *On the Plurality of Worlds* (Basil Blackwell, 1986).
+- Peter van Inwagen, *Material Beings* (Cornell University Press, 1990).
+- Theodore Sider, *Four-Dimensionalism: An Ontology of Persistence and Time* (Oxford University Press, 2001).

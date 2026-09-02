@@ -10,17 +10,19 @@ en: "The 5 Love Languages"
 crumb: "علم النفس الشعبي والإرشاد الزواجي ← الأعمال ← لغات الحب الخمس"
 dates: "1992 · غاري تشابمان"
 language: "الإنجليزية"
+author: "غاري تشابمان"
+author_slug: "thk-gary-chapman"
+publication_year: 1992
+original_language: "الإنجليزية"
 active_start: 1992
 active_end: 1992
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والإرشاد الزواجي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-gary-chapman", target_type: "مفكر"
 related:
 - id: "con-five-love-languages", title: "لغات الحب الخمس (الأطر التعبيرية في العلاقات)", type: "مفهوم"
 - id: "thk-gary-chapman", title: "غاري تشابمان", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # لغات الحب الخمس: سر الحب الذي يدوم
@@ -34,7 +36,3 @@ gaps:
 ## التطبيق الزواجي
 
 تعلم التحدث باللغة العاطفية الأساسية للشريك لملء 'خزان الحب' العاطفي وتجنب سوء الفهم المزمن.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

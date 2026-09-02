@@ -9,12 +9,8 @@ en: "Datsu-A Nyū-Ō (Leave Asia, Join Europe) vs. Asian Solidarity"
 crumb: "الفلسفة ← الآسيوية الحديثة ← جدل الهوية الحضارية اليابانية"
 active_start: 1885
 active_end: "1945"
-edges:
-- rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
 related:
 - id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
-- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
-- id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
   - "رابط مقترح لـ«الليبرالية اليابانية الحديثة» (sch-japanese-liberalism-modern) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ مقالة Fukuzawa الأصلية في *Jiji Shinpō* (27 مارس 1885)، ولا ردود Asianists."

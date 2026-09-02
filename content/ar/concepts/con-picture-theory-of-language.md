@@ -11,9 +11,17 @@ active_start: 1921
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
+related:
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
+- id: "wrk-tractatus", title: "رسالة منطقية-فلسفية (Tractatus Logico-Philosophicus)", type: "عمل"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "con-verification-principle-vienna", title: "مبدأ التحقق الوضعي التجريبي (Verification Principle)", type: "مفهوم"
+- id: "con-language-games-late-wittgenstein", title: "ألعاب اللغة وسياقات الحياة (Language-Games / Sprachspiele)", type: "مفهوم"
+- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُرصد بعد اقتباس مباشر موثّق من نص التراكتاتوس الأصلي لهذا الملف."
 ---
 
 # النظرية التصويرية للغة في التراكتاتوس (Picture Theory)
@@ -22,12 +30,12 @@ gaps:
 
 ## البعد المعرفي والتحليلي
 
-يمثل هذا المفهوم لبنة تأسيسية في صرح الفلسفة الإنسانية، حيث يوفر أداة دقيقة لتفسير قضايا الوجود والمعرفة والأخلاق والسياسة.
+صاغ لودفيغ فيتغنشتاين (thk-lwittgenstein) هذه النظرية في رسالته المنطقية-الفلسفية (wrk-tractatus)، وهي العمل التأسيسي لمدرسة الذرية المنطقية (sch-logical-atomism) التي تنتمي إليها. تبنّت حلقة فيينا (sch-vienna-circle) هذه النظرية التصويرية وبنت عليها مبدأ التحقق الوضعي التجريبي (con-verification-principle-vienna) بوصفه معياراً لتمييز القضايا ذات المعنى عن الميتافيزيقا.
 
 ## الاستعمال والأثر في الفكر المعاصر
 
-شكل هذا المفهوم منطلقاً لحوارات ومقاربات نقدية متجددة في الفلسفة الحديثة والعلوم الإنسانية المقارنة.
+تراجع فيتغنشتاين نفسه لاحقاً عن هذه النظرية في كتابه بحوث فلسفية (wrk-philosophical-investigations-wittgenstein)، مستبدلاً إياها بفكرة ألعاب اللغة (con-language-games-late-wittgenstein) التي ترى المعنى في الاستعمال لا في التطابق التصويري مع الوقائع، فشكّل هذا الانتقال أحد أبرز التحولات الذاتية في تاريخ الفلسفة التحليلية.
 
 ## اقتباسات مختارة
 
-لا يوجد اقتباس مباشر موثوق متاح.
+لم يُرصد بعد اقتباس مباشر موثّق من مصدر أولي.

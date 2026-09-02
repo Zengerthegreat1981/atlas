@@ -12,8 +12,8 @@ country: "الولايات المتحدة (هارفارد، برينستون)"
 language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-social-contract", target_type: "مدرسة"
 related:
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
@@ -57,3 +57,10 @@ gaps:
 ## القيد
 
 - صعوبة التطبيق على التعددية الثقافية المعاصرة (موقف Rawls اللاحق في Political Liberalism محاولة للإصلاح).
+
+## المصادر
+
+- Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.
+- Rawls, John. *Political Liberalism*. Columbia University Press, 1993.
+- Freeman, Samuel. *Rawls*. Routledge, 2007.
+- Pogge, Thomas. *John Rawls: His Life and Theory of Justice*. Oxford University Press, 2007.

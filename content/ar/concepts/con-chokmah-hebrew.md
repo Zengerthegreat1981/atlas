@@ -14,12 +14,14 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 related:
-- id: "wrk-book-of-proverbs", title: "سفر الأمثال (مِشْلاي)", type: "عمل / كتاب"
 - id: "sch-hebrew-wisdom", title: "تقليد الحكمة العبرية القديمة", type: "مدرسة"
-- id: "thk-solomon", title: "سليمان", type: "مفكر"
+- id: "wrk-book-of-proverbs", title: "سفر الأمثال (مِشْلاي)", type: "عمل / كتاب"
+- id: "con-maat", title: "ماعت (التناغم الكوني)", type: "مفهوم"
+- id: "thk-philo-alexandria", title: "فيلون الإسكندري", type: "مفكر"
 gaps:
   - "التمييز بين الحكمة في الأدب التوراتي والحكمة في الفلسفة اللاحقة محل بحث."
   - "لا يوجد تعريف فلسفي حديث موحد للحكمة العبرية في الأدب العربي."
+  - "لا يوجد رابط صاحب مفهوم مؤكد لسليمان الملك التوراتي؛ ملف thk-solomon المتاح في content/ar/thinkers يشير إلى الفيلسوف المعاصر روبرت سولومون وليس شخصية سفر الأمثال، فحُذف الرابط."
 ---
 
 # حُخْمَة (الحكمة العبرية)

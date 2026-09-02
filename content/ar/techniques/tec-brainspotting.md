@@ -11,12 +11,14 @@ active_start: 2003
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+evidence_level: "experimental"
 related:
 - id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 - id: "thk-dgrand", title: "ديفيد غراند", type: "مفكر"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: إعادة المعالجة عبر حركات العين (EMDR) (con-emdr)"
-  - "النظرية العصبية لـ Brainspotting ما زالت قيد التطوير."
+  - "دراسة هيلدبراند 2014 عن المحاربين القدامى مذكورة في المتن بلا مدخل مستقل من نوع stu- في الأطلس — لم يُتحقق من صحة عزوها (سنة/عيّنة) من مصدر أولي."
+  - "النظرية العصبية لـ Brainspotting (ربط موضع العين بمواقع تخزين عصبية للصدمة) لم تُختبر بتصوير عصبي مباشر بعد."
 ---
 # براين سبوتِنغ (Brainspotting)
 
@@ -104,7 +106,7 @@ gaps:
 - **دراسة 2012** (Hildebrand et al.): BSP يقلل PTSD عند المحاربين القدامى.
 - **دراسات أخرى** (2018-2022): فعّال في **تقليل القلق** و**الإجهاد**.
 
-## المؤلفات
+## المصادر
 
 - Grand, D. (2013). *Brainspotting: The Revolutionary New Therapy*.
 - Grand, D. (2018). *Brainspotting Training Manual*.

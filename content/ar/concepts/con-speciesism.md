@@ -12,11 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-animal-liberation", target_type: "مدرسة"
 related:
-- id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
+- id: "sch-animal-liberation", title: "أخلاقيات الحيوان / فلسفة تحرير الحيوان", type: "مدرسة"
 - id: "thk-peter-singer", title: "بيتر سينغر", type: "مفكر"
+- id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
 gaps:
-  - "لم تُراجع بعدُ طبعة New York Review of Books (1990) ولا ردود فعل النسويين (الأختشاق، 1990)."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم تُراجع بعدُ طبعة New York Review of Books الموسّعة لـ*تحرير الحيوان* (1990) ولا رد الأختشاق النسوي عليها (1990)."
 ---
 
 # تخصيص النوع (Speciesism)
@@ -34,3 +34,9 @@ gaps:
 - **يَختلف عن حقوق الحيوان** (Regan): حقوق الحيوان تَدّعي قيمة ذاتية، تخصيص النوع يَنتقد تَمييزاً أخلاقياً.
 - **يَختلف عن النفعية الكلاسيكية** (Bentham، Mill): سينغر يَعتبر الحساسية (Sentience) معياراً، لا السعادة.
 - **يَتقاطع مع النسوية** (الأختشاق، Spivak): تَمييز على أساس النوع البيولوجي كنموذج لِتَمييزات أخرى.
+- **يَختلف عن أخلاق الأرض** (Leopold, 1949): أخلاق الأرض تُقيّم الأنواع والنظم البيئية ككل، بينما تخصيص النوع يُركّز حصراً على الفرد الحسّاس (Sentient)، وهو ما جعل النقاد الإيكولوجيين يصفون موقف سينغر بـ«الفردانية الأخلاقية».
+
+## المصادر
+
+- Singer, Peter. *Animal Liberation*. New York Review/Random House, 1975.
+- Regan, Tom. *The Case for Animal Rights*. University of California Press, 1983.

@@ -12,6 +12,7 @@ active_start: 1967
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "traditional"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
@@ -19,9 +20,8 @@ related:
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-conflict-resolution-training", title: "تدريب حل النزاعات", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "نسبة التقنية إلى نموذج SBI (Situation-Behavior-Impact) تستحق توثيقاً."
+  - "نموذج SBI (Situation-Behavior-Impact) المذكور شائع في أدبيات التدريب المؤسسي (تطويره يُنسب عادة لمركز Center for Creative Leadership)، ولا يوجد في الأطلس لا ملف مفكر ولا ملف عمل يوثّق هذا الانتساب بدقة، فتُرك الاسم دون رابط."
+  - "لا توجد في الأطلس دراسة مسندة (stu-) تقيس فعالية تدريب إعطاء/تلقّي الملاحظات بالتحديد بأرقام أو تصميم بحثي؛ التوثيق الحالي وصفي إجرائي فقط."
 ---
 
 # إعطاء وتلقّي الملاحظات

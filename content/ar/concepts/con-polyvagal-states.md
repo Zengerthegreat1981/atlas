@@ -13,16 +13,15 @@ edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-stephen-porges", target_type: "مفكر"
 related:
-- id: "thk-stephen-porges", title: "ستيفن بورغس", type: "مفكر"
-- id: "thk-dsiegel", title: "دانيال سيغل", type: "مفكر"
+- id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة", type: "مفهوم"
-- id: "con-polyvagal-theory-popular", title: "النظرية المتعددة في الخطاب الشعبي", type: "مفهوم"
-- id: "con-window-of-tolerance", title: "نافذة التحمل", type: "مفهوم"
-- id: "con-window-of-tolerance-detailed", title: "نافذة التحمل (مفصَّل)", type: "مفهوم"
-- id: "con-neuroception-polyvagal", title: "الإدراك العصبي اللاواعي في النظرية المتعددة", type: "مفهوم"
-- id: "con-neuroception-polyvagal", title: "الإدراك العصبي اللاواعي للأمان", type: "مفهوم"
-- id: "con-attachment-styles", title: "أنماط التعلّق", type: "مفهوم"
+- id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
+- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder)", type: "مفهوم"
+- id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
+- id: "con-window-of-tolerance-detailed", title: "نافذة التحمل — مفصَّل (Window of Tolerance — Detailed)", type: "مفهوم"
+- id: "con-neuroception-polyvagal", title: "النيوروسبشن (Neuroception) والحالات العصبية المبهمية", type: "مفهوم"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من Porges (2011, *The Polyvagal Theory*) بعد."
   - "التمييز بين الحالات الثلاث في الأدلة التجريبية المتعلّقة بالأطفال والمراهقين لم يُوثَّق."
@@ -31,7 +30,7 @@ gaps:
 
 # حالات الجهاز العصبي المتعدّد (Polyvagal States)
 
-مفهوم مركزي في **النظرية العصبية المبهمية المتعددة** (Polyvagal Theory) لـ **ستيفن بورغس** (Stephen Porges)، يصف **ثلاثة أنماط** من النشاط الذاتي للجهاز العصبي اللاإرادي التي تحدّد **استجابة الفرد** للمواقف المختلفة: الأمان، الخطر، أو التهديد للحياة. هذا الملفُّ يكمّل صفحتي `con-polyvagal-theory` و`con-polyvagal-theory-popular` بمزيد من التفصيل على المستوى السريري.
+مفهوم مركزي في **النظرية العصبية المبهمية المتعددة** (Polyvagal Theory) لـ **ستيفن بورغس** (Stephen Porges)، يصف **ثلاثة أنماط** من النشاط الذاتي للجهاز العصبي اللاإرادي التي تحدّد **استجابة الفرد** للمواقف المختلفة: الأمان، الخطر، أو التهديد للحياة. هذا الملفُّ يكمّل صفحتي `con-polyvagal-theory` (الصياغة النظرية الأكاديمية للنظرية نفسها) و`con-polyvagal-theory-popular` (صياغتها الشعبية كسلّم Polyvagal Ladder) بمزيد من التفصيل السريري على الحالات الثلاث نفسها؛ الملفات الثلاثة تتناول ظاهرة واحدة من زوايا متمايزة ولا تُدمَج. الانتقال بين هذه الحالات يُحدَّده أولاً عبر **النيوروسبشن** (Neuroception)، الإدراك العصبي اللاواعي للأمان أو الخطر الذي يسبق أي تقييم واعٍ، وترتبط الحالة الثالثة (الأمان) مباشرة باتساع **نافذة التحمل** (Window of Tolerance) عند الفرد.
 
 ## الثلاثي الأساسي
 
@@ -134,7 +133,7 @@ gaps:
 
 ## الإرث
 
-- **علاج الصدمة** (Trauma Therapy): حجر الزاوية لـ **Sensorimotor Psychotherapy** و**Somatic Experiencing**.
+- **علاج الصدمة** (Trauma Therapy): حجر الزاوية لمنهج **بيتر ليفين** (Peter Levine) في **Somatic Experiencing**، ولمفهوم **نافذة التحمل** (Window of Tolerance) عند **دان سيغل** (Daniel Siegel) الذي يصف اتساع أو ضيق حالة الأمان الفاغالي نفسها التي يفصّلها هذا الملفّ.
 - **العلاج الأسري والزوجي** (Sue Johnson, EFT): تنشيط **Safe & Social** من خلال العلاقة.
 - **علاج الأطفال**: تنظيم الطفل من خلال **Co-Regulation** مع البالغ.
 - **إدارة**: تطبيقات لقياس Stress عبر **HRV**.

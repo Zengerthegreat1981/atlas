@@ -2,47 +2,61 @@
 slug: "thk-melanie-segall"
 id: "THK-2717"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "ميلاني سيغال"
 en: "Melanie Segall"
-crumb: "التنويم الذاتي ← تطوير ← ميلاني سيغال"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
 part: "psychology"
+crumb: "التنويم الذاتي ← تطوير ← ميلاني سيغال"
 edges:
-- rel: "belongs_to", target: "التنويم الذاتي (كإطار علاجي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-self-hypnosis", target_type: "تيار"
 related:
-- id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
-- id: "thk-emilecoue", title: "إميل كوي", type: "مفكر"
-- id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
+- id: "thk-ecoue", type: "مفكر", title: "إميل كوي"
+- id: "thk-ovogt", type: "مفكر", title: "أوسكار فوغت"
+- id: "thk-fschultz", type: "مفكر", title: "يوهانز شولتز"
+- id: "thk-gjacobs", type: "مفكر", title: "غوردون جاكوبز"
+- id: "thk-harvey-stein", type: "مفكر", title: "هارفي شتاين"
+- id: "tec-self-hypnosis-progressive", type: "تقنية", title: "التنويم الذاتي (كإطار علاجي)"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Melanie Segall' في PubMed أو APA PsycINFO (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'Melanie Segall' (فنانة بصرية) أو 'Melanie Segal' (كاتبة في العلاقات)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Hypnotherapy Insomnia' عام."
 ---
 
 # ميلاني سيغال
 
-معالجة نفسية أمريكية، من المساهمين في **تطبيقات التنويم الذاتي** مع **اضطرابات النوم والأرق**.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في التنويم الذاتي العلاجي]
 
-## ما أعطته
+## محاولة التوثيق
 
-- تطوير **بروتوكولات التنويم الذاتي** للأرق المزمن.
-- فصول في كتب عن **«التنويم الذاتي والنوم الصحي»**.
-- مساهمات في **«العلاج المعرفي للأرق»** (CBT-I) مع تقنيات التنويم.
-- أبحاث عن **«فعالية التنويم الذاتي في تحسين النوم»**.
+- **الاسم المُسجَّل**: Melanie Segall.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **PubMed**: لا مقالة في Self-Hypnosis + Insomnia.
+  - **APA PsycINFO**: لا مقالة.
+  - **JCSM (Journal of Clinical Sleep Medicine)**: لا مقالة.
+  - **Society of Behavioral Sleep Medicine**: لا نتائج.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-تقف سيغال عند **تلاقي التنويم الذاتي مع طب النوم**، وهو ما يُنتج تطبيقات جديدة للتنويم الذاتي في **علاج اضطرابات النوم الشائعة**، مع أسس علمية قوية.
+- احتمال **الخلط** مع:
+  - **Melanie Segall** (فنانة بصرية، حقل مختلف).
+  - **Melanie Segal** (كاتبة في العلاقات، حقل مختلف).
+  - **Michele D. Jonas** (معالجة نفسية في Insomnia, J. W. Nidich).
 
-## أهم أعمالها
+## ما يحتاجه هذا العنصر
 
-- مساهمات في كتب التنويم الذاتي والأرق.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Carney, C. E. (2017). *Quiet Your Mind and Get to Sleep*. New Harbinger.
+  - JCSM: https://jcsm.aasm.org/
+  - Irwin, M. R. (2015). «Why Sleep Is Important for Health», *Annual Review of Psychology* 66: 143–172.

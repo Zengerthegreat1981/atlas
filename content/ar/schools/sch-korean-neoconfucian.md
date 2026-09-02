@@ -9,6 +9,7 @@ en: "Korean Neo-Confucianism"
 crumb: "الفلسفة ← كوريا ← النيوكونفوشية الكورية"
 dates: "كوريا (سلالة جوسون) · من القرن 14 إلى القرن 19 م"
 country: "كوريا"
+cultural_origin: "east-asian"
 language: "الصينية الكلاسيكية (بإضافة Hangul في الفترات اللاحقة)"
 active_start: 1350
 active_end: 1910
@@ -20,7 +21,7 @@ related:
 - id: "sch-donghak", title: "دونغهاك / تشوندوغيو", type: "مدرسة"
 - id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
 - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
-- id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
+- id: "sch-silhak", title: "سيلهاك (التعلم العملي الكوري)", type: "مدرسة"
 gaps:
   - "تفاصيل الصلة بين مدرسة يي (Yi) ومدرسة نَكيم (Nak) تحتاج إعادة تحقق."
   - "العلاقة بين 'الوَسُن' الكورية و 'Yangming' الصينية (Wang Yangming) محل نزاع."
@@ -60,7 +61,7 @@ gaps:
 ## الإرث
 
 - شكّلت النيوكونفوشية الكورية الخلفية الفلسفية للقرارات الكبرى في تاريخ كوريا الحديث: رفض التبشير الكاثوليكي (1780-1860)، و«سيلهاك» (التعلُّم العملي) في القرن 18-19.
-- صمدت ضد الغزو الياباني (1910-1945) بصفتها جزءاً من الهوية الوطنية الكورية.
+- صمدت كهوية ثقافية خلال فترة الاحتلال الياباني التي بدأت 1910، حتى انتهاء الاحتلال، بصفتها جزءاً من الهوية الوطنية الكورية.
 - في كوريا المعاصرة، أعيدت قراءتها في أعمال **Park Chong-hong (박종홍)** و**Yi Chŏng-sŏk (이정석)** و**Yi Mu-hyŏn (이무현)**.
 
 ## الموقع الفلسفي
@@ -69,3 +70,10 @@ gaps:
   - **Van Norden & Taber** اعتبراه نقاشاً في «الأخلاق الفلسفية» بين «الخيرية الخلقية» و«الخيرية الطبيعية».
   - **배종봉 (Bae Jong-bong)** و**정회 (Chung Hoe)** اعتبراه نقاشاً أنطولوجياً لا أخلاقياً.
 - هذا التباين التفسيري هو ذاته علامة على دقّة النصّ الأصلي.
+
+## المصادر
+
+- Kalton, Michael C. (trans.). *To Become a Sage: The Ten Diagrams on Sage Learning by Yi T'oegye*. Columbia University Press, 1988.
+- Chung, Edward Y. J. *The Korean Neo-Confucianism of Yi Toegye and Yi Yulgok*. State University of New York Press, 1995.
+- Tu, Wei-ming & de Bary, Wm. Theodore (eds.). *Confucianism and Human Rights*. Columbia University Press, 1998.
+- Setton, Mark. *Chong Yagyong: Korea's Challenge to Orthodox Neo-Confucianism*. State University of New York Press, 1997.

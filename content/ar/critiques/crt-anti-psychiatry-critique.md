@@ -10,7 +10,6 @@ active_start: 1961
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:

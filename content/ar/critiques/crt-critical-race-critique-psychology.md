@@ -10,9 +10,7 @@ active_start: 1969
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
-- rel: "relates_to", target: "علم النفس", target_type: "مدرسة"
 related:
 - id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
 - id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"

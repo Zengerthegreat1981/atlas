@@ -11,11 +11,9 @@ language: "متعدد"
 active_start: 1980
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
 - id: "thk-kalff", title: "دورا كالف", type: "مفكر"
-- id: "con-archetype", title: "النمط الأصلي", type: "مفهوم"
+- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ Family Sandplay (Kalff) يستحق توثيقاً."

@@ -15,7 +15,7 @@ active_end: -380
 edges:
 - rel: "belongs_to", target: "sch-sophistry", target_type: "مدرسة"
 related:
-- id: "thk-protagoras", title: "برروتاغوراس", type: "مفكر"
+- id: "thk-protagoras", title: "بروتاغوراس الأبديري", type: "مفكر"
 gaps:
   - "أطروحته العدمية الثلاثية في كتابه المفقود 'عن اللاوجود أو في الطبيعة'."
   - "لا يوجد اقتباس مباشر موثوق متاح."

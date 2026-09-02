@@ -14,14 +14,10 @@ language: "البولندية، الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed", target: "نظرية التفكك الإيجابي (دابروفسكي)", target_type: "تيار"
+- rel: "developed", target: "br-positive-disintegration", target_type: "تيار"
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "br-positive-disintegration", title: "نظرية التفكك الإيجابي (دابروفسكي)", type: "تيار"
-- id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
-- id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "السيرة الذاتية التفصيلية خلال فترة الحرب العالمية الثانية (عمله السري مع المقاومة البولندية ثم هروبه لكندا) لم تُراجع من مصدر أولي."

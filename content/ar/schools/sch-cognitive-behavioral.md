@@ -12,19 +12,14 @@ country: "الولايات المتحدة الأمريكية (فيلادلفيا
 language: "الإنجليزية"
 active_start: 1955
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-rebt", target_type: "مدرسة"
 - rel: "split_into", target: "sch-act", target_type: "مدرسة"
 - rel: "split_into", target: "sch-dbt", target_type: "مدرسة"
-- rel: "split_into", target: "CBT القائم على العمليات (Process-Based CBT)", target_type: "مدرسة"
-- rel: "founded_by", target: "آرون بيك", target_type: "مفكر"
+- rel: "founded_by", target: "thk-beck", target_type: "مفكر"
 - rel: "founded_by", target: "thk-ellis", target_type: "مفكر"
-- rel: "belongs_to", target: "الموجة الثانية من الموجات المعرفية-السلوكية", target_type: "تيار"
-- rel: "evolved_from", target: "العلاج السلوكي (Behavior Therapy)", target_type: "مدرسة"
-- rel: "evolved_from", target: "العلاج العقلاني الانفعالي (REBT)", target_type: "مدرسة"
-- rel: "split_into", target: "sch-act", target_type: "مدرسة"
-- rel: "split_into", target: "sch-dbt", target_type: "مدرسة"
-- rel: "split_into", target: "CBT القائم على العمليات (Process-Based CBT)", target_type: "مدرسة"
 related:
 - id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
 - id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
@@ -48,9 +43,9 @@ related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
-- id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "axm-intentionality", title: "القصدية (Intentionalität)", type: "بديهية/مبدأ تأسيسي"
+- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "تفاصيل التطورات المبكرة في فيلادلفيا ونيويورك لم تُراجع من مصدر أولي بعد."
   - "لم يُراجع من مصدر أولي مباشر بعد."
@@ -58,6 +53,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات ديغان (thk-patdeegan)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت إيميري (thk-robert-emery)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: آسين علادين (thk-aalladin)."
+  - "لا يوجد ملف slug مستقل لـ'CBT القائم على العمليات' ولا لـ'الموجة الثانية من CBT' في الأطلس حالياً — رابطا split_into/belongs_to المرتبطان بهما حُذفا من edges لحين إنشاء الملفين (راجع requests-minimax.md)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيمي فونتانا (thk-albertellis-somatic)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ألكسندرا فاركاش (thk-alexandra-farkas)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ألي كورازون (thk-alicorazon)."
@@ -175,3 +171,11 @@ gaps:
 - Hofmann, S. G. (2016). *Cognitive Behavior Therapy*. Wiley. — مرجع تدريسي شامل وحديث.
 - Beck, J. S. (2011). *Cognitive Behavioral Therapy: Basics and Beyond* (2nd ed.). Guilford Press. — كتاب تدريسي دولي.
 - Leahy, R. L., Tirch, D. D., & Napolitano, L. A. (2011). *Emotion Regulation in Psychotherapy*. Guilford Press. — ردم الفجوة بين CBT والموجة الثالثة.
+
+## المصادر
+
+- Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press.
+- Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
+- Ellis, A. (1962). *Reason and Emotion in Psychotherapy*. Lyle Stuart.
+- Dobson, K. S. (Ed.). (2009). *Handbook of Cognitive-Behavioral Therapies* (3rd ed.). Guilford Press.
+- Hofmann, S. G. (2016). *Cognitive Behavior Therapy*. Wiley.

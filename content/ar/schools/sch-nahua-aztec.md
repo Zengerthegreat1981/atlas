@@ -13,8 +13,7 @@ language: "النَاهَوالية (نَوايَه) / الإسبانية"
 active_start: 1100
 active_end: 1521
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+cultural_origin: "indigenous"
 related:
 - id: "sch-maya-philosophy", title: "الفلسفة الماياوية", type: "مدرسة"
 - id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
@@ -54,3 +53,10 @@ gaps:
 
 - ترجمة شفوية (مدونات الكاهنة) عرضة للتشويش.
 - الخسارة الهائلة بسبب الاستعمار (1960 كتاب).
+
+## المصادر
+
+- de Sahagún, Bernardino, *Historia General de las Cosas de Nueva España* (Florentine Codex), ~1575-1577.
+- León-Portilla, Miguel, *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*, University of Oklahoma Press, 1963.
+- León-Portilla, Miguel, *La Filosofía Náhuatl Estudiada en sus Fuentes*, UNAM, 1956.
+- Maffie, James, *Aztec Philosophy: Understanding a World in Motion*, University Press of Colorado, 2014.

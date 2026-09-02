@@ -13,12 +13,12 @@ active_start: 1976
 active_end: 2021
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-ubuntu-psychology", target_type: "تيار"
 related:
 - id: "thk-amncube", title: "ألبرت مْنكوبِي", type: "مفكر"
 - id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
 - id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
-- id: "thk-nmanganyi", title: "نْيلسون مَغَنْي", type: "مفكر"
+- id: "thk-nmanganyi", title: "إن تشاباني مَنغاني", type: "مفكر"
 - id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لمسيرته اللاهوتية في لندن لم تُوثّق."

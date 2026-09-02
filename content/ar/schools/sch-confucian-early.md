@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الصين ← الكونفوشية المبكرة"
 dates: "الصين · من القرن 6 ق.م إلى القرن 3 ق.م تقريباً"
 country: "الصين"
 language: "الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: -551
 active_end: -221
 active_source: "lifespan"
@@ -25,7 +26,7 @@ related:
 - id: "sch-vietnamese-triple", title: "الترادف الثلاثي الفيتنامي (Tam Giáo Đồng Nguyên)", type: "مدرسة"
 gaps:
   - "لم يُراجع من نص صيني كلاسيكي أصلي (المتون الأربعة، تشونغ تشيو) بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
+  - "لم يُعثر بعد على اقتباس مباشر موثّق في هذه المسودة."
   - "التمييز الدقيق بين كونفوشيوس التاريخي والمَثَل الذي بناه عنه من جاءوا بعده لم يُحلّ هنا."
 ---
 
@@ -49,3 +50,10 @@ gaps:
 ## الموقع من المدارس المعاصرة
 
 الكونفوشية المبكرة تنافس الداووية الفلسفية والموهية والشرعية داخل «عصر المئة مدرسة» (Zhuzi Baina Jia). ميزتها النسبية: أنها لم تطرح منظومة كوسمولوجية كاملة، بل بنت فلسفتها على **العلاقات المعيشة** — الأسرة، القرابة، السلطة، الطقس — مما جعلها قابلة للتكيّف مع تحولات لاحقة، لكنه جعلها في الوقت نفسه عرضة لتوظيفات سلطوية منكرة أحياناً.
+
+## المصادر
+
+- Ivanhoe, Philip J., and Van Norden, Bryan W. (Eds.). *Readings in Classical Chinese Philosophy*. Hackett Publishing, 2005.
+- Nivison, David S. *The Ways of Confucianism: Investigations in Chinese Philosophy*. Open Court, 1996.
+- Schwartz, Benjamin I. *The World of Thought in Ancient China*. Harvard University Press, 1985.
+- Slingerland, Edward. *Confucius Analects: With Selections from Traditional Commentaries*. Hackett Publishing, 2003.

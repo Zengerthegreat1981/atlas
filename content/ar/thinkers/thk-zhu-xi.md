@@ -16,13 +16,12 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 related:
-- id: "sch-lixue", title: "مدرسة المبدأ (لي شوي)", type: "مدرسة"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"
 - id: "thk-cheng-yi", title: "تشنغ يي", type: "مفكر"
 - id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
 - id: "thk-dai-zhen", title: "داي تشن", type: "مفكر"
 gaps:
-  - "التفاصيل الدقيقة لـ'مذهب لي شوي' (Lixue) في المراحل الأولى من حياته لم تُراجع من طبعة محقّقة هنا."
-  - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "التفاصيل الدقيقة لتطوّر فكره في المراحل الأولى من حياته (قبل 1160) لم تُراجَع من طبعة محقّقة هنا."
 ---
 
 # تشو هسي
@@ -52,3 +51,9 @@ gaps:
 - *Sishu Zhangju Jizhu* (四书章句集注، «تعليق مُجمَّع على الأربعة كتب»).
 - *Yixue Qimeng* (易学启蒙، «مُقدّمة لدراسة كتاب التحولات»).
 - *Zhuzi Yulei* (朱子语类، «تصنيفات أقوال سيّد تشو»)، تسجيل أقواله من قِبل تلاميذه.
+
+## المصادر
+
+- Chan, Wing-tsit (trans.). *A Source Book in Chinese Philosophy*. Princeton University Press, 1963.
+- Gardner, Daniel K. *Zhu Xi's Reading of the Analects: Canon, Commentary, and the Classical Tradition*. Columbia University Press, 2003.
+- Fung Yu-lan. *A History of Chinese Philosophy, Vol. II: The Period of Classical Learning*. Princeton University Press, 1953.

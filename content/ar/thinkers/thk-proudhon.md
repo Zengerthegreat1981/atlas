@@ -20,7 +20,6 @@ related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:
   - "مراسلات برودون-ماركس (1846) لم تُراجع بدقة."
-  - "لا يوجد اقتباس مباشر موثوق من 'La propriété, c'est le vol' بعد."
 ---
 
 # بيير جوزيف برودون
@@ -65,3 +64,9 @@ gaps:
 - **De la Justice dans la Révolution et dans l'Église** (1858): العدالة في الثورة والكنيسة.
 - **Du Principe fédératif** (1863): مبدأ الفيدرالية.
 - **La Guerre et la Paix** (1861): الحرب والسلام.
+
+## المصادر
+
+- Proudhon, P.-J. (1840). *Qu'est-ce que la propriété?* Garnier.
+- Marx, K. (1847). *Misère de la Philosophie* (ردّه على برودون).
+- McKay, I. (ed., 2011). *Property Is Theft! A Pierre-Joseph Proudhon Anthology*. AK Press.

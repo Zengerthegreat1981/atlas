@@ -13,17 +13,14 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← توماس أشنباخ"
 edges:
-- rel: "belongs_to", target: "العلاج بتفاعل الوالد-الطفل (PCIT)", target_type: "تيار"
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:
 - id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "تيار"
-- id: "thk-bbundy", title: "كارين بَد", type: "مفكر"
-- id: "thk-cwebster-stratton", title: "كارولين ويبستر-ستراتون", type: "مفكر"
-- id: "thk-czeanah", title: "تشارلز زيناه", type: "مفكر"
 - id: "ins-cbcl", title: "قائمة سلوك الطفل لنظام أشنباخ للتقييم المبني تجريبياً", type: "أداة قياس"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيلا إيبيرغ (thk-ieyberg)."
+  - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي."
+  - "طبيعة علاقته المباشرة (تعاون بحثي أم استخدام مشترك للأدوات فقط) بمنظّري PCIT مثل شيلا إيبيرغ تحتاج توثيقاً نصياً أدق."
 ---
 
 # توماس أشنباخ
@@ -46,6 +43,8 @@ gaps:
 - *Manual for the Child Behavior Checklist* (1991).
 - *Empirically Based Assessment of Child and Adolescent Psychopathology* (1997).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Achenbach, T. M. (1991). *Manual for the Child Behavior Checklist/4-18 and 1991 Profile*. University of Vermont, Department of Psychiatry.
+- Achenbach, T. M., & McConaughy, S. H. (1997). *Empirically Based Assessment of Child and Adolescent Psychopathology*. Sage.
+- University of Vermont — الملف الأكاديمي الرسمي لتوماس أشنباخ ونظام ASEBA.

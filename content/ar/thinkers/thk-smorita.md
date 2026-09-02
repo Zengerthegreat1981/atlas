@@ -12,18 +12,13 @@ language: "اليابانية"
 active_start: 1920
 active_end: 1938
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علاج موريتا", target_type: "مدرسة"
+edges: []
 related:
 - id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
-- id: "thk-hkrystal", title: "هيروشي كاواشيما", type: "مفكر"
-- id: "thk-mhosokawa", title: "ميتشيو هوسوكاوا", type: "مفكر"
-- id: "thk-nwatanabe", title: "نوبو واتانابي", type: "مفكر"
-- id: "thk-tkora", title: "تاكيهيسا كورّا", type: "مفكر"
-- id: "evt-tokyo-psychological-laboratory-1903", title: "تأسيس أول معمل تجريبي لعلم النفس في جامعة طوكيو باليابان بواسطة موتورا", type: "حدث تاريخي"
 gaps:
   - "تفاصيل مسيرته الأكاديمية في جامعة Nippon Medical School لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "روابط `thk-hkrystal`، `thk-mhosokawa`، `thk-nwatanabe`، `thk-tkora`، و`evt-tokyo-psychological-laboratory-1903` أُزيلت لعدم القدرة على التحقق من مطابقة الـid/title لملفات فعلية موجودة."
+  - "لا توجد مدرسة `sch-` موثّقة لعلاج موريتا في الأطلس — سُجّلت في agents_specs/missing-schools.md، وحُذف رابط belongs_to (كان يشير لنص حر لا slug)."
 ---
 
 # شوما موريتا
@@ -53,3 +48,8 @@ gaps:
 - "طبيعة الإنسان" (Hito no Shōrai، 1921) — في الأصل سلسلة محاضرات.
 - "طبيعة الأعصاب" (Shinkeishitsu no Honshitsu، 1928) — في الأصل سلسلة محاضرات.
 - أعيد نشر أعماله في كتاب "Shoma Morita: Selected Works" بعد وفاته.
+
+## المصادر
+
+- Morita, S. (1998). *Morita Therapy and the True Nature of Anxiety-Based Disorders (Shinkeishitsu)* (Kondo, A., مترجم). State University of New York Press.
+- Reynolds, D. K. (1976). *Morita Psychotherapy*. University of California Press.

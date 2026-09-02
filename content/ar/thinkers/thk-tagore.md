@@ -19,8 +19,7 @@ related:
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 - id: "dbt-tagore-vs-gandhi", title: "طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟", type: "جدل"
 gaps:
-  - "لم تُراجع بعدُ طبعات Macmillan الأصلية لـ Sadhana (1913) وThe Religion of Man (1931)."
-  - "لا اقتباس مباشر موثّق منه في هذا الملف."
+  - "لم تُراجع بعدُ طبعات Macmillan الأصلية لـ Sadhana (1913) وThe Religion of Man (1931) لتوثيق أرقام الصفحات بدقة."
 ---
 
 # رابندراناث طاغور
@@ -39,3 +38,9 @@ gaps:
 - **يَختلف جذرياً عن غاندي** في الموقف من التصنيع: طاغور رَأى في مصنع «محراث» لا يرحم، بينما اعتقد غاندي بالاقتصاد القروي القائم على الغزل اليدوي.
 - **يَتقاطع مع فيفيكاناندا** في الإيمان بأن الشرق يمكنه تقديم «الروحانية» للعالم، لكنه أقل اعتماداً على البنية الفيدانتية التقليدية.
 - **يَنقد المركزية الأوروبية** دون أن يقع في الانغلاق: المنهج عنده كوني لا قومي.
+
+## المصادر
+
+- Tagore, Rabindranath. *Sadhana: The Realisation of Life*. London: Macmillan, 1913.
+- Tagore, Rabindranath. *Nationalism*. London: Macmillan, 1917.
+- Dutta, Krishna, and Andrew Robinson. *Rabindranath Tagore: The Myriad-Minded Man*. New York: St. Martin's Press, 1995.

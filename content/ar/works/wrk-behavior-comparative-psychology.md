@@ -8,18 +8,19 @@ en: "Behavior: An Introduction to Comparative Psychology"
 crumb: "السلوكية المبكرة ← الأعمال ← السلوك: مقدمة في علم النفس المقارن"
 dates: "1914 · جون ب. واطسون"
 active_start: 1914
-active_end: 1914
+active_end: 1990
 language: "الإنجليزية"
 part: "psychology"
+author: "جون ب. واطسون"
+author_slug: "thk-jwatson"
+publication_year: 1914
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "السلوكية المبكرة", target_type: "مدرسة"
-- rel: "authored_by", target: "جون ب. واطسون", target_type: "مفكر"
+- rel: "authored_by", target: "thk-jwatson", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب صودر وأعيد طبعه عدة مرات — التحقق من الاختلافات الجوهرية بين الطبعات لم يُنجز بعد."
-  - "لا يوجد ملفّ مفكر (thk-) لـ Watson في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # السلوك: مقدمة في علم النفس المقارن

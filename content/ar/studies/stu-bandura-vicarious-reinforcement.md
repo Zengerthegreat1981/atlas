@@ -9,6 +9,11 @@ crumb: "المدرسة الوجودية ← الدراسات والأبحاث �
 active_start: 1965
 active_end: 1965
 part: "psychology"
+study_year: 1965
+design: "تجربة معملية بتصميم بين-مجموعات (Between-Subjects)"
+sample_size: 66
+main_finding: "التعلم بالملاحظة يحدث بغض النظر عن عواقب النموذج، لكن الأداء الفعلي للسلوك يتأثر بالتعزيز أو العقاب الذي تلقاه"
+replication_status: "replicated"
 related:
 - id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
 - id: "dbt-violent-media-child-aggression", title: "جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال", type: "جدل"

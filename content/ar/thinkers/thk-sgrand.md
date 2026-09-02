@@ -13,12 +13,13 @@ active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "عنوان (The Body in Psychoanalysis and Psychoanalytic Treatment, 2001) لم يُتحقق منه في فهرس ناشر موثوق؛ العمل الموثّق فعلياً هو The Reproduction of Evil (2000)."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـسو غراند."
 ---
 
 # سو غراند
@@ -28,7 +29,7 @@ gaps:
 ## ما أعطته
 
 - **"الجسد في العلاقة العلاجية"**: التأكيد على أن الجسد ليس مُلحقاً بالكلام، بل شريك في إنتاجه.
-- **مفهوم "الحضور العاطفي المشترك"**: كيف يخلق المعالج والعميل حالة جسدية-علائقية جديدة.
+- **مفهوم "الحضور العاطفي المشترك"**: كيف تخلق العلاقة العلاجية بين الطرفين حالة جسدية-علائقية جديدة.
 - **"الصدمة في الجسد"**: كيف تتشكّل التجارب الصادمة في الجسد قبل أن تتشكّل في القصة.
 
 ## موقعها من التيار
@@ -37,9 +38,11 @@ gaps:
 
 ## أهم أعمالها
 
-- *The Body in Psychoanalysis and Psychoanalytic Treatment* (2001).
-- *The Hero in the Mirror* (2009).
+- *The Reproduction of Evil: A Clinical and Cultural Perspective* (2000).
+- *The Hero in the Mirror: From Fear to Fortitude* (2009).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Grand, S. (2000). *The Reproduction of Evil: A Clinical and Cultural Perspective*. The Analytic Press.
+- Grand, S. (2009). *The Hero in the Mirror: From Fear to Fortitude*. Routledge.
+- NYU Postdoctoral Program in Psychotherapy and Psychoanalysis — سجل هيئة التدريس (غراند من أعضاء هيئة التدريس فيه ضمن التيار العلائقي).

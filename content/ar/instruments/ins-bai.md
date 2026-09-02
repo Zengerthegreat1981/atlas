@@ -9,6 +9,11 @@ crumb: "المدرسة الوجودية ← أدوات القياس ← مقيا
 active_start: 1988
 active_end: "مستمر"
 part: "psychology"
+items_count: 21
+target_population: "مراهقون وبالغون (13 سنة فأكثر) لديهم أعراض قلق إكلينيكي أو نوبات هلع"
+reliability: "ثبات اتساق داخلي مرتفع جداً (ألفا كرونباخ ≈0.92)؛ ثبات إعادة التطبيق ≈0.75 (بيك وزملاؤه، 1988)"
+validity_note: "صدق تلازمي جيد مع مقاييس القلق الأخرى، وصدق تمييزي جزئي عن الاكتئاب أفضل من مقاييس القلق الأقدم كـ STAI"
+evidence_level: "well-established"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"

@@ -9,11 +9,10 @@ en: "Hindutva Philosophy (Hindu Nationalism)"
 crumb: "الفلسفة ← الآسيوية الحديثة ← هندوتفا"
 dates: "الهند · من 1920s إلى اليوم"
 country: "الهند"
+cultural_origin: "indian"
 language: "الهندية، الإنجليزية، السنسكريتية"
 active_start: 1923
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفات الآسيوية الحديثة", target_type: "مظلة"
 related:
 - id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
 - id: "sch-nationalism-philosophical", title: "القومية الفلسفية", type: "مدرسة"
@@ -56,3 +55,10 @@ gaps:
 - تواجه انتقادات بسبب الإلحاح القومية الواحدة.
 - تواجه انتقادات بسبب تجاهل الأقليات.
 - تواجه انتقادات بسبب استيعاب البوذية في «الهندوسية».
+
+## المصادر
+
+- Savarkar, Vinayak Damodar. *Hindutva: Who Is a Hindu?*. 1923.
+- Golwalkar, Madhav Sadashiv. *We, or Our Nationhood Defined*. Bharat Publications, 1939.
+- Jaffrelot, Christophe. *The Hindu Nationalist Movement in India*. Columbia University Press, 1996.
+- Upadhyaya, Deendayal. *Integral Humanism*. Bharatiya Jana Sangh, 1965.

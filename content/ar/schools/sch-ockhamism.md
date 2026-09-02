@@ -12,18 +12,18 @@ country: "إنجلترا، فرنسا، ألمانيا، سويسرا"
 language: "اللاتينية"
 active_start: 1310
 active_end: 1500
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
-- rel: "evolved_from", target: "السكوتّية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-scotism", target_type: "مدرسة"
 related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
-- id: "sch-scotism", title: "السكوتّية", type: "مدرسة"
+- id: "sch-scotism", title: "السكوتية", type: "مدرسة"
 - id: "sch-conceptualism", title: "التصورية", type: "مدرسة"
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "dbt-realism-vs-nominalism", title: "الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟", type: "جدل"
 gaps:
-  - "نصوص وليام أوكام اللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Summa Logicae' أو 'Quodlibeta'."
+  - "نسخة نقدية محقّقة موحّدة من 'Summa Logicae' و'Quodlibeta' بترجمة عربية مباشرة غير متوفرة للمراجعة هنا."
   - "التمييز بين 'أوكامية' و'اسمية' معقّد (مصطلح 'الاسمية' اكتسب دلالات لاحقة)."
 ---
 
@@ -128,3 +128,10 @@ gaps:
 - **العلاقات الخارجية**: في العلم، العلاقات (Relatio) بين الأشياء (العلّية مثلاً) كيف تُفسَّر إذا لم تكن «**كيانات**» (Entia)؟ أوكام قال: العلاقات **مفاهيم**، لا «**أشياء**». لكن هذا يقود إلى **هيوم** (شكّ في السببية).
 - **نهاية السكولاستية**: الأوكامية مهّدت لانهيار السكولاستية نفسها، لصالح **النزعة الإنسانية** (Humanism) و**الإصلاح البروتستانتي** في القرن 16.
 - **التهمة السياسية**: البابا لعن أوكام بسبب آرائه السياسية حول «**السلطة العلمانية**»، فهرب إلى ميونخ، واعتبر في نظر البابا «**هرطوقيّاً**».
+
+## المصادر
+
+- Spade, Paul Vincent (ed.). *The Cambridge Companion to Ockham*. Cambridge University Press, 1999.
+- Adams, Marilyn McCord. *William Ockham*. University of Notre Dame Press, 1987.
+- Spade, Paul Vincent, and Claude Panaccio. "William of Ockham." *Stanford Encyclopedia of Philosophy*, plato.stanford.edu.
+- Boehner, Philotheus (ed.). *Ockham: Philosophical Writings, A Selection*. Nelson, 1957.

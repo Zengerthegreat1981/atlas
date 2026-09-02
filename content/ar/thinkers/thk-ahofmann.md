@@ -13,7 +13,7 @@ active_start: 1938
 active_end: 2008
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"

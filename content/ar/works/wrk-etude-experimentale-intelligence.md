@@ -8,18 +8,18 @@ en: "L'étude expérimentale de l'intelligence"
 crumb: "علم النفس الفروق الفردية ← الأعمال ← دراسة تجريبية للذكاء"
 dates: "1903 · ألفريد بينيه"
 active_start: 1903
-active_end: 1903
+active_end: 1923
 language: "الفرنسية"
+author: "ألفريد بينيه"
+publication_year: 1903
+original_language: "الفرنسية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الفروق الفردية", target_type: "مدرسة"
-- rel: "authored_by", target: "ألفريد بينيه", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب يُعدّ ثمرة مجلدين سابقين (*La Psychologie du Raisonnement*, 1906 و*L'Année Psychologique*) — حدود الترابط بينها لم تُراجع بدقة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Binet في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # دراسة تجريبية للذكاء

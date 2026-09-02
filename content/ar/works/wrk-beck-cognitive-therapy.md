@@ -9,11 +9,15 @@ crumb: "العلاج المعرفي ← الأعمال ← العلاج المع
 dates: "1976 · آرون بيك"
 language: "الإنجليزية"
 active_start: 1976
-active_end: 1976
+active_end: 2021
 part: "psychology"
+author: "آرون تيموثي بيك"
+author_slug: "thk-beck"
+publication_year: 1976
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "آرون بيك", target_type: "مفكر"
+- rel: "authored_by", target: "thk-beck", target_type: "مفكر"
 related:
 - id: "rel-stoicism-cbt", title: "الرواقية والعلاج المعرفي السلوكي: من إبكتيتوس إلى بيك", type: "علاقة بين مدرستين"
 - id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ", type: "علاقة بين مدرستين"

@@ -10,16 +10,18 @@ en: "The Happiness Project"
 crumb: "علم النفس الشعبي وعلم نفس السعادة ← الأعمال ← مشروع السعادة"
 dates: "2009 · غريتشين روبين"
 language: "الإنجليزية"
+author: "غريتشين روبين"
+author_slug: "thk-gretchen-rubin"
+publication_year: 2009
+original_language: "الإنجليزية"
 active_start: 2009
 active_end: 2009
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وعلم نفس السعادة", target_type: "مدرسة"
 - rel: "written_by", target: "thk-gretchen-rubin", target_type: "مفكر"
 related:
 - id: "thk-gretchen-rubin", title: "غريتشين روبين", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مشروع السعادة
@@ -33,7 +35,3 @@ gaps:
 ## القواعد الذهبية للسعادة اليومية
 
 التركيز على العادات الصغيرة وتخفيف الفوضى المنزلية والاعتراف بطبيعة الذات الفريدة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

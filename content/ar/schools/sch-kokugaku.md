@@ -9,12 +9,12 @@ en: "Kokugaku (National Studies)"
 crumb: "الفلسفة ← اليابان ← كوكوغاكو"
 dates: "اليابان · من القرن 18 إلى القرن 19 م تقريباً"
 country: "اليابان"
+cultural_origin: "east-asian"
 language: "اليابانية الكلاسيكية"
 active_start: 1728
 active_end: 1868
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "الدراسات الوطنية (مظلة)", target_type: "مظلة"
 - rel: "split_into", target: "sch-mitogaku", target_type: "مدرسة"
 related:
 - id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
@@ -55,3 +55,10 @@ gaps:
 - تبنّى النظام الميجي بعض رموز كوكوغاكو (خاصة «كوكوتاي» و«ماكي-نو-أوماتسو» كطقس مؤسسي)، لكن بشحنٍ قومي أبعد ما يكون عن نبرة موتو-أوري الحسّاسة.
 - في القرن 20، أعيد اكتشاف كوكوغاكو أكاديمياً في أعمال **ساكاموتو كَريومَ (Sakamoto Koremaru)** و**تَكِئيا مَتسُوبَ (Takaya Kōtarō)** و**نَكامُرا يوجيرو (Nakamura Yukihiko)**.
 - في التسعينات، أعادت «نظرية الأمة المُتخيَّلة» لبِنِديكت أندرسون الاعتراف بكوكوغاكو بوصفها رافعةً معرفية للقومية الحديثة.
+
+## المصادر
+
+- Nosco, Peter (ed.). *Confucianism and Tokugawa Culture*. Princeton University Press, 1984.
+- Burns, Susan L. *Before the Nation: Kokugaku and the Imagining of Community in Early Modern Japan*. Duke University Press, 2003.
+- Anderson, Benedict. *Imagined Communities: Reflections on the Origin and Spread of Nationalism*. Verso, 1983.
+- Harootunian, Harry D. *Things Seen and Unseen: Discourse and Ideology in Tokugawa Nativism*. University of Chicago Press, 1988.

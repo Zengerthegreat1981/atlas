@@ -16,18 +16,18 @@ register: "clinical"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "developed", target: "العلاج الأسري البنيوي (Structural Family Therapy)", target_type: "تيار"
+- rel: "developed", target: "br-structural-family", target_type: "تيار"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
-- id: "br-structural-family", title: "العلاج الأسري البنيوي", type: "تيار"
+- id: "br-structural-family", title: "العلاج الأسري البنيوي (Structural Family Therapy)", type: "تيار"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 - id: "thk-cwhitaker", title: "كارل ويتاكر", type: "مفكر"
 - id: "con-family-structure", title: "البنية الأسرية (Family Structure)", type: "مفهوم"
-- id: "con-subsystems", title: "الأنظمة الفرعية الأسرية", type: "مفهوم"
-- id: "con-boundaries-psychological", title: "الحدود الأسرية", type: "مفهوم"
-- id: "con-enmeshment-disengagement", title: "الانغماس الأسري", type: "مفهوم"
+- id: "con-subsystems", title: "الأنظمة الفرعية الأسرية (Family Subsystems)", type: "مفهوم"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
+- id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري (Enmeshment & Disengagement)", type: "مفهوم"
 - id: "con-joining", title: "الانضمام العلاجي (Joining)", type: "مفهوم"
 - id: "thk-bmontalvo", title: "براوليو مونتالفو", type: "مفكر"
 - id: "thk-haponte", title: "هاري أبونت", type: "مفكر"
@@ -52,6 +52,7 @@ gaps:
   - "توثيق عمله في 'العيادة الأسيرة' Philadelphia Child Guidance Clinic (1970s-1980s) متاح جزئياً، يحتاج توسعة."
   - "نقد اليسوعية المتأخر لممارسته (Therapy as Craft) — تفاصيل الاستجابة من المؤسسات الأكاديمية موثّقة بشكل جزئي فقط."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيريل فيربيرن (thk-cherylfairbairn)."
+  - "اقتباسان مباشران كانا في الملف السابق (عن تعريف البنية، وعن الانضمام العلاجي) حُذفا لعدم القدرة على تعيين مصدرهما ورقم صفحتهما بدقة."
 ---
 
 # سلفادور مينوشين
@@ -83,8 +84,8 @@ gaps:
 - **العلاج كمهنة (Healing as Craft, 1998)** — عمله المتأخر الأكثر تأملاً.
 - **التحقق من العلاج الأسري (Confirming Family Therapy, 1998)** — دفاعه عن العلاج الأسري في مواجهة محاولات "الإصلاح" القائمة على الأدلة.
 
-## اقتباسات مختارة
+## المصادر
 
-«العائلة ليست ما هي عليه. العائلة ما تفعله. البنية ليست ما هي عليه الأسرة. البنية ما تفعله الأسرة.»
-
-«المعالج ينضم إلى العائلة، لا العكس. المعالج يذهب إلى عالمهم.»
+- Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
+- Minuchin, S., Rosman, B. L., & Baker, L. (1978). *Psychosomatic Families: Anorexia Nervosa in Context*. Harvard University Press.
+- Wikipedia, "Salvador Minuchin": https://en.wikipedia.org/wiki/Salvador_Minuchin

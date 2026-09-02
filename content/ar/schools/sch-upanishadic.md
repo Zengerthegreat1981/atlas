@@ -9,6 +9,7 @@ en: "Upanishadic Philosophy"
 crumb: "الفلسفة ← الهند ← الفلسفة الأوبانيشادية"
 dates: "الهند · من القرن 8 ق.م إلى القرن 3 ق.م"
 country: "شبه القارة الهندية"
+cultural_origin: "indian"
 language: "السنسكريتية"
 active_start: -800
 active_end: -300
@@ -61,3 +62,10 @@ gaps:
 - مهّدت لجميع المدارس الفلسفية الهندية اللاحقة.
 - أثّرت في البوذية والجاينية (كردّ فعل عليها).
 - أصبحت نواة الفيدانتا (الفلسفة الختامية للفيدا).
+
+## المصادر
+
+- Olivelle, Patrick, trans. *The Early Upanishads: Annotated Text and Translation*. Oxford University Press, 1998.
+- Radhakrishnan, Sarvepalli. *The Principal Upanishads*. Harper Collins, 1953.
+- Deussen, Paul. *The Philosophy of the Upanishads*. T&T Clark, 1906.
+- King, Richard. *Indian Philosophy: An Introduction to Hindu and Buddhist Thought*. Edinburgh University Press, 1999.

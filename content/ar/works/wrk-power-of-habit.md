@@ -14,7 +14,6 @@ active_end: 2012
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "تشارلز دويغ", target_type: "مفكر"
 related:
 - id: "thk-charles-duhigg", title: "تشارلز دوهيغ", type: "مفكر"
 - id: "wrk-men-are-from-mars", title: "الرجال من المريخ والنساء من الزهرة", type: "عمل / كتاب"

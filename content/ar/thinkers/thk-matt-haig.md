@@ -13,12 +13,11 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2015
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والصحافة العلمية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-comfort-book", title: "كتاب العزاء: مجموعة تأملات في الأمل", type: "عمل / كتاب"
-- id: "tec-hope-therapy", title: "العلاج بالأمل", type: "تقنية/تدخل علاجي"
-- id: "stu-werner-kauai-resilience", title: "دراسة إيمي فيرنر الطولية للمرونة النفسية في كاواي", type: "دراسة وبحث"
+- id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
+- id: "stu-werner-kauai-resilience", title: "دراسة كاواي الطولية لإيمي فيرنر حول المرونة والصلابة النفسية", type: "دراسة وبحث"
 - id: "thk-johann-hari", title: "يوهان هاري", type: "مفكر"
 gaps:
   - "التقاطع بين الأدب الروائي ومذكرات التعافي النفسي عند هيغ يحتاج تحليلاً ظاهراتياً مقارناً."
@@ -48,3 +47,9 @@ gaps:
 - *Notes on a Nervous Planet* (2018)
 - *The Midnight Library* [رواية فلسفية حول الندم والاختيارات] (2020)
 - *The Comfort Book* (2021)
+
+## المصادر
+
+- Matt Haig, *Reasons to Stay Alive*, Canongate, 2015.
+- Matt Haig, *Notes on a Nervous Planet*, Canongate, 2018.
+- Matt Haig, *The Comfort Book*, Canongate, 2021.

@@ -12,16 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-beck", title: "أرون بيك", type: "مفكر"
-- id: "crt-feminist-critique-cbt", title: "نقد نسوي", type: "نقد خارجي موثَّق"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "crt-feminist-critique-cbt", title: "النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-psychodynamic-therapy", title: "نقد الْعِلَاج النَّفْسَحَرَكِيّ: لِمَاذَا الْاِسْتِبْصَار لَيْسَ كَافِيًا؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد سلوكي (crt-behaviorist-critique)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Longmore & Worrell, 2007; Guidi & Fava, 2021)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين هذا النقد والنقد المعرفي (Teasdale) يحتاج فصلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Longmore & Worrell, 2007; Guidi & Fava, 2021)."
+  - "الفرق بين هذا النقد والنقد المعرفي (Teasdale) يحتاج فصلاً."
 ---
 # نقد CBT: «اِفْتِقَار إِلَى نَظَرِيَّة شَامِلَة» أَمْ «اِسْتِفَادَة مِن سُلُوكِيَّة سُلَطَوِيَّة»؟
 

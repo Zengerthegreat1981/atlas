@@ -13,13 +13,12 @@ edges:
 - rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
-- id: "crt-foucault-critique-of-asylum", title: "نقد فوكو للملجأ", type: "نقد خارجي موثَّق"
-- id: "crt-feminist-critique-behaviorism", title: "نقد نسوي للسلوكية", type: "نقد خارجي موثَّق"
+- id: "crt-foucault-critique-of-asylum", title: "نقد فوكو للمصحة النفسية والطبنة السيكياترية", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-couples-therapy-effectiveness", title: "نقد فَعَّالِيَّة الْعِلَاج الزَّوْجِيّ: «مَشَاكِل الْأَزْوَاج» هَل تُحُلّ؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-emotionally-focused", title: "نقد الْعِلَاج بِالْمَشَاعِر (EFT) لِلْأَزْوَاج: «اِرْتِبَاط» أَمْ «اِعْتِمَادِيَّة»؟", type: "نقد خارجي موثَّق"
 gaps:
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Doherty, 2003). لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+- "لم تُراجع من نسخة أصلية مباشرة بعد (Doherty, 2003; Kvale & Nielsen, 2003)."
 ---
 # نقد الْعِلَاج الزَّوْجِيّ: «الزَّوَاج كَـعِلَاج» كَـ«سُلْطَة طَبِّيَّة»
 

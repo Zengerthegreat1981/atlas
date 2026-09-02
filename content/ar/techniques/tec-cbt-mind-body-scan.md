@@ -14,44 +14,23 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-jkabat-zinn", target_type: "مفكر"
+evidence_level: "probably-efficacious"
 related:
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الجذور (Vipassana, MBSR, Kabat-Zinn) تستحق توثيقاً أعمق."
+  - "لا اقتباس مباشر من دليل Kabat-Zinn الأصلي (1990, Full Catastrophe Living) يوثّق وصف الجلسة بالضبط كما هنا — الوصف الإجرائي مبني على البروتوكول المتداول لا على نص منقول."
+  - "لا يوجد ملف دراسة (stu-) مخصّص في الأطلس يوثّق تجارب MBSR المُحكَّمة (Kabat-Zinn 1982؛ Grossman وآخرون 2004) بأرقامها، فربط النتيجة بدراسة بعينها غير متاح حالياً."
+  - "الأدلة المتاحة تخص برنامج MBSR كحزمة متكاملة (مسح جسد + يوغا واعية + تأمل جالس)؛ لا توجد دراسة تفكيكية تعزل أثر مسح الجسد وحده، ولهذا صُنِّف تحفظياً 'probably-efficacious' لا 'well-established'."
 ---
 
 # مسح الجسد
@@ -60,7 +39,7 @@ gaps:
 
 ## ماهية التقنية
 
-مسح الجسد (Body Scan) ممارسة منتظمة في تقاليد التأمل (خصوصاً تأمل Vipassana البوذي)، أُدمجت في العلاج النفسي الغربي عبر Jon Kabat-Zinn وبروتوكول MBSR. الفكرة الجوهرية: الجسد يحمل «سجلاً» لانفعالاتنا، وكثير من التوتر المزمن يبقى في مناطق معينة (الكتفين، الفك، البطن) دون وعي. التعمُّد في توجيه الانتباه لكل جزء من الجسد، وملاحظة ما يحدث فيه، يكشف هذا السجل، ويتيح للفرد التعامل معه.
+مسح الجسد (Body Scan) ممارسة منتظمة في تقاليد التأمل (خصوصاً تأمل Vipassana البوذي)، أدمجها **جون كابات-زين** رسمياً في العلاج النفسي الغربي عام 1979 عبر بروتوكول MBSR الذي أسّسه بجامعة ماساتشوستس. الفكرة الجوهرية: الجسد يحمل «سجلاً» لانفعالاتنا، وكثير من التوتر المزمن يبقى في مناطق معينة (الكتفين، الفك، البطن) دون وعي. التعمُّد في توجيه الانتباه لكل جزء من الجسد، وملاحظة ما يحدث فيه، يكشف هذا السجل، ويتيح للفرد التعامل معه.
 
 ## الآلية والتطبيق العملي
 
@@ -76,11 +55,11 @@ gaps:
 
 ## الاستخدامات الإكلينيكية
 
-تُستخدم في علاج الألم المزمن، والقلق، والأرق، واضطرابات الأكل، واضطرابات ما بعد الصدمة، وفي علاج الاضطرابات النفس-جسدية. تُعدُّ عنصراً محورياً في MBSR، وMBCT، وفي علاج اضطرابات الأكل.
+تُستخدم في علاج الألم المزمن، والقلق، والأرق (باعتباره أحد بروتوكولات MBSR الموثقة لعلاج اضطراب الأرق)، واضطرابات الأكل، واضطرابات ما بعد الصدمة، وفي علاج الاضطرابات النفس-جسدية (مثل اضطراب الأعراض الجسدية، حيث تُستخدم لإعادة تعلُّم الانتباه للإحساس الجسدي دون تفسير كارثي). تُعدُّ عنصراً محورياً في MBSR، وMBCT، وفي علاج اضطرابات الأكل.
 
 ## موقعها من حزمة المدرسة
 
-تتقاطع مع الإرخاء العضلي التدريجي (في العمل الجسدي)، ومع تأمل اليقظة الذهنية (كإجراء فرعي)، ومع تدريب الوعي بالإحساس الداخلي (كأداة رصد). وتُستخدم في كثير من بروتوكولات الموجة الثالثة من CBT.
+تتقاطع مع الإرخاء العضلي التدريجي (في العمل الجسدي، وإن اختلفت آليته إذ يعتمد على شدّ وإرخاء العضلات فعلياً بدل الملاحظة السلبية)، ومع تأمل اليقظة الذهنية (كإجراء فرعي)، ومع تدريب الوعي بالإحساس الداخلي (كأداة رصد). وهي أحد المكوّنين الأساسيين — مع التأمل الجالس واليوغا الواعية — في برنامج MBSR نفسه الذي وضعه كابات-زين.
 
 ## حدود ومخاطر
 

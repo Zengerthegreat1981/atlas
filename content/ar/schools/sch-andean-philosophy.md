@@ -10,15 +10,15 @@ crumb: "الفلسفة ← أفريقيا وأمريكا الأصلية ← ال
 dates: "جبال الأنديز · من القرن 11 إلى اليوم"
 country: "بيرو، بوليفيا، إكوادور، كولومبيا، تشيلي، الأرجنتين"
 language: "الكيتشوا، الأيمارا، الإسبانية"
+cultural_origin: "indigenous"
 active_start: 1000
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-nahua-aztec", title: "فلسفة الناهوا/الأزتك (مفهوم تيوتل)", type: "مدرسة"
 - id: "sch-maya-philosophy", title: "الفلسفة الماياوية", type: "مدرسة"
-- id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
+- id: "sch-bowen-ferrer-vivir", title: "فلسفة بوين فيفير / سومَك كاوساي (المعاصرة)", type: "مدرسة"
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
 gaps:
   - "النصوص الكيتشوا والأيمارا الأصلية تحتاج مراجعة من المصدر الأولي."
@@ -55,3 +55,8 @@ gaps:
 
 - ترجمة المفاهيم الكيتشوا والأيمارا إلى الإسبانية صعبة.
 - ضغوط التبشير الكاثوليكي في الفترة الاستعمارية.
+
+## المصادر
+
+- Josef Estermann, *Filosofía Andina: Sabiduría Indígena para un Mundo Nuevo* (2006).
+- Javier Medina, *Suma Qamaña: Para una Comprensión de lo Bueno* (2001).

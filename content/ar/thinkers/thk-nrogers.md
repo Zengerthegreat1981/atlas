@@ -13,12 +13,11 @@ active_start: 1975
 active_end: 2015
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "تيار"
 related:
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Person-Centered Expressive Therapy Institute لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ناتالي روجرز
@@ -44,3 +43,8 @@ gaps:
 
 ## القيد
 - **صلة ناتالي بأبيها كارل** ألقت بظلال على استقلاليتها الفكرة، وتستحق إعادة قراءة نقدية.
+
+## المصادر
+
+- Rogers, N. (1993). *The Creative Connection: Expressive Arts as Healing*. Science and Behavior Books.
+- Rogers, N. (2011). *The Creative Connection for Groups: Person-Centered Expressive Arts for Healing and Social Change*. Science and Behavior Books.

@@ -11,13 +11,11 @@ language: "إنجليزية"
 active_start: 1960
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
 - id: "thk-mharris", title: "ماكسين هاريس", type: "مفكر"
 - id: "thk-gbond", title: "غاري بوند", type: "مفكر"
 - id: "thk-gshepherd", title: "جيفري شيبرد", type: "مفكر"
-- id: "thk-rdrake", title: "روبرت دريك", type: "مفكر"
+- id: "thk-rdrake", title: "روبرت إي. دريك", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
   - "الفرق بين 'broker case management' و'clinical case management' و'strengths-based CM' يستحق توثيقاً."

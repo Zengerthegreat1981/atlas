@@ -13,13 +13,13 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
 - id: "con-focal-practices", title: "الممارسات المحورية", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "كتاب بورغمان 'Technology and the Character of Contemporary Life' (1984) يحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابطا هايدجر ودريفوس أُزيلا من related لأن المتن لا يذكرهما بالاسم؛ صلتهما بنموذج الجهاز تحتاج توثيقاً نصياً قبل إعادة إضافتهما."
+  - "رابط sch-existential-therapy أُزيل من related لأن المتن لا يذكر المدرسة بالاسم ولا بتاريخ؛ التصنيف تحت هذه المدرسة موجود في belongs_to فقط بانتظار توثيق نصي."
 ---
 
 # نموذج الجهاز

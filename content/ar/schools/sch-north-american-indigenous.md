@@ -9,12 +9,11 @@ en: "North American Indigenous Philosophies (Lakota, Navajo, Ojibwe… Umbrella)
 crumb: "الفلسفة ← أفريقيا وأمريكا الأصلية ← فلسفات أمريكا الشمالية الأصلية"
 dates: "أمريكا الشمالية · من الألفية الأولى إلى اليوم"
 country: "الولايات المتحدة، كندا"
+cultural_origin: "indigenous"
 language: "لاكوتا، نافاهو، أوجيبوي، إنكتيتي، إلخ"
 active_start: -1000
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقليد أمريكي أصلي", target_type: "مظلة"
 related:
 - id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني", type: "مدرسة"
 - id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
@@ -55,3 +54,10 @@ gaps:
 
 - مظلة واسعة، كل تقليد له خصوصيته.
 - ترجمة المفاهيم إلى الإنجليزية صعبة.
+
+## المصادر
+
+- Black Elk (as told to John G. Neihardt). *Black Elk Speaks*. University of Nebraska Press, 1932.
+- Deloria, Vine Jr. *God Is Red: A Native View of Religion*. Fulcrum Publishing, 1973.
+- Lame Deer, John (Fire) & Erdoes, Richard. *Lame Deer, Seeker of Visions*. Simon & Schuster, 1972.
+- Little Bear, Leroy. "Jagged Worldviews Colliding." In *Reclaiming Indigenous Voice and Vision*, edited by Marie Battiste. UBC Press, 2000.

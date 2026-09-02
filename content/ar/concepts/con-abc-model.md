@@ -14,17 +14,17 @@ edges:
 - rel: "belongs_to", target: "tec-rebt", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-ellis", target_type: "مفكر"
 related:
-- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
+- id: "sch-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "مدرسة"
+- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
+- id: "wrk-reason-emotion-psychotherapy-ellis", title: "العقل والانفعال في العلاج النفسي", type: "عمل"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-stoics", title: "الرواقيون (سينيكا وإبيكتيتوس)", type: "مفكر"
-- id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
-- id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
-- id: "sch-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لمراحل تطور النموذج من ABC الأصلي إلى ABCDE ثم ABCDEF لم تُراجع بعد."
   - "التمييز بين استخدام إليس للحرف (D) بمعنى 'Disputation' مقابل استخدامه بمعنى 'Debate' لم يُوثَّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من إليس بالعربية يصف النموذج."
+  - "أُزيل رابطا con-cognitive-dissonance وtec-cognitive-reappraisal لعدم وجود ما يبررهما في متن الملف؛ لو أُريد ربطهما لاحقاً فلا بد من إضافة فقرة تشرح الصلة الفعلية بنموذج ABC."
 ---
 # نموذج ABC (REBT)
 

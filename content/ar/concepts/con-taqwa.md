@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-islamic-psychology", title: "علم النفس الإسلامي", type: "مدرسة"
 - id: "con-tawakkul", title: "التوكل", type: "مفهوم"
-- id: "que-nature-vs-nurture", title: "الفطرة", type: "سؤال توليدي"
+- id: "que-nature-vs-nurture", title: "ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟", type: "سؤال توليدي"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التزكية (con-tazkiyah)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الصبر (con-sabr)"

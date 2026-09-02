@@ -6,6 +6,10 @@ part: "philosophy"
 level: "متقدم"
 title: "كتاب الكلمات والأشياء لميشيل فوكو (1966)"
 en: "The Order of Things: An Archaeology of the Human Sciences by Michel Foucault"
+author: "ميشيل فوكو"
+author_slug: "thk-foucault"
+publication_year: 1966
+original_language: "الفرنسية"
 crumb: "البنيوية والأركيولوجيا المعرفية ← أمهات الأعمال ← الكلمات والأشياء"
 active_start: null
 active_end: "مستمر"

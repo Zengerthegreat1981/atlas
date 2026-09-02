@@ -6,14 +6,14 @@ level: "متقدم"
 title: "هنري ت. ستاين"
 en: "Henry T. Stein"
 crumb: "علم النفس الفردي ← الناس ← الكلاسيكي المعاصر ← هنري ستاين"
-dates: "أمريكا · مواليد 1932"
+dates: "أمريكا · 1932–2024"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
-active_end: "مستمر"
+active_end: 2024
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-sicher", title: "ليديا سيشر", type: "مفكر"

@@ -15,8 +15,7 @@ active_end: -339
 edges:
 - rel: "belongs_to", target: "sch-academy-platonic", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "أعماله (في اللذّة، في الفلسفة، في الآلهة) مفقودة إلا شذرات؛ لا يوجد نص كامل يمكن الاقتباس منه مباشرة."
 ---
 
 # سبيوسيبوس الأثيني
@@ -41,6 +40,8 @@ gaps:
 - *Homoia* (التشابهات) — عمله التصنيفي، شذرات.
 - *الأعداد الفيثاغورية* — شذرات.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Dillon, J. (2003). *The Heirs of Plato: A Study of the Old Academy (347–274 BC)*. Oxford University Press.
+- Tarán, L. (1981). *Speusippus of Athens: A Critical Study with a Collection of the Related Texts and Commentary*. Leiden: Brill.
+- أرسطو، *الميتافيزيقا* و*الأخلاق النيقوماخية* — المصدر القديم الأساسي لأطروحاته (نقلاً ونقداً).

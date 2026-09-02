@@ -10,6 +10,10 @@ en: "The Lucifer Effect: Understanding How Good People Turn Evil"
 crumb: "علم النفس الاجتماعي التجريبي ← الأعمال ← تأثير لوسيفر"
 dates: "2007 · فيليب زيمباردو"
 language: "الإنجليزية"
+author: "فيليب زيمباردو"
+author_slug: "thk-philip-zimbardo"
+publication_year: 2007
+original_language: "الإنجليزية"
 active_start: 2007
 active_end: 2007
 edges:
@@ -20,7 +24,6 @@ related:
 - id: "con-lucifer-effect", title: "تأثير لوسيفر وسيكولوجيا الشر المؤسسي (The Lucifer Effect)", type: "مفهوم"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تأثير لوسيفر: كيف يتحول الأخيار إلى أشرار
@@ -34,7 +37,3 @@ gaps:
 ## تنشئة البطولة اليومية (Everyday Heroism)
 
 تدريب الأفراد والشباب على الشجاعة الأخلاقية ومقاومة الضغط الجمعي والانصياع الأعمى للسلطة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

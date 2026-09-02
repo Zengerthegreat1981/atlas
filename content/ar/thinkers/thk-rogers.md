@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "rel-humanistic", title: "الإنساني — القرابة الملتبسة", type: "علاقة بين مدرستين"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
@@ -41,8 +41,7 @@ related:
 - id: "crt-critique-of-humanistic-therapy", title: "نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟", type: "نقد خارجي موثَّق"
 - id: "thk-campbell-purton", title: "كامبيل پيرتون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المناظرة الشهيرة بين روجرز ومارتن بوبر (1957) حول طبيعة اللقاء الحواري تستحق التوثيق في الجدالات (dbt-)."
+  - "المناظرة الشهيرة بين روجرز ومارتن بُبَر (1957) حول طبيعة اللقاء الحواري تستحق ملف جدل (dbt-) مستقل موثَّق بالمصدر الأولي."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كامبيل پيرتون (thk-campbell-purton)."
 ---
 
@@ -68,3 +67,9 @@ gaps:
 ## اقتباسات مختارة
 
 «المفارقة الغريبة هي أنني حين أتقبّل ذاتي كما أنا تماماً، عندئذٍ أستطيع أن أتغيّر» — عن الصيرورة إنساناً (On Becoming a Person)، 1961
+
+## المصادر
+
+- Rogers, C. *Client-Centered Therapy: Its Current Practice, Implications, and Theory* (1951).
+- Rogers, C. *On Becoming a Person: A Therapist's View of Psychotherapy* (1961).
+- Kirschenbaum, H. *The Life and Work of Carl Rogers* (2007).

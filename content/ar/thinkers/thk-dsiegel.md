@@ -13,7 +13,7 @@ active_start: 1999
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التكامل العصبي البيني الشخصي (Interpersonal Neurobiology)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:
 - id: "thk-bbadenoch", title: "بوني بادنوك", type: "مفكر"
 - id: "thk-lcozolino", title: "لويس كوتزولينو", type: "مفكر"

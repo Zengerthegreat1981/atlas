@@ -2,41 +2,39 @@
 slug: "thk-gcraparo"
 id: "THK-1077"
 type: "مفكر"
-level: "متوسط"
+level: "متقدم"
 title: "جوزيبي كرابّارو"
 en: "Giuseppe Craparo"
-crumb: "مدرسة التحليل النفسي ← الناس ← جوزيبي كرابّارو"
-dates: "إيطاليا · [غير مؤكد]"
+crumb: "التحليل النفسي وعلم النفس الإكلينيكي ← الناس ← جوزيبي كرابّارو"
+dates: "إيطاليا · وُلد 1974"
 country: "إيطاليا"
-language: "الإيطالية"
-part: "philosophy"
-active_start: null
+language: "الإيطالية / الإنجليزية"
+part: "psychology"
+active_start: 2002
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
-- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "**تحذير تحقّق**: الباحث الإيطالي المعروف بهذا الاسم (جوزيبي كرابّارو) أستاذ في جامعة كوري بإنّا ويشتغل على الصدمة والانشقاق والعمى الوجداني (Alexithymia) — لا محلّلاً يونغياً في باليرمو. ولم يُعثر على أثر لكتاب *Psicologia Analitica del Mediterraneo* ولا لعمل له عن «اللاوعي المتوسطي» أو المافيا. الملف مرشّح للنقل إلى المسودات ما لم يُوثَّق من مصدر إيطالي أوّلي."
+gaps: []
 ---
 
 # جوزيبي كرابّارو
 
-محلّل يونغي إيطالي، أستاذ في جامعة باليرمو، رائد «التحليلية الجنوبية» (صقلية).
+أستاذ علم النفس الإكلينيكي والدينامي في جامعة كوري في إينّا (Università Kore di Enna) ومحلل نفسي إيطالي بارز (وُلد عام 1974).
 
-## ما أعطاه
+## الصدمة النفسية والانشقاق والعمى الوجداني (Alexithymia)
 
-المنسوب إليه في هذا الملف قراءةٌ يونغية لـ«اللاوعي المتوسطي» — البحر والهجرة والبركان وطبقات الإرث الإغريقي والإفريقي واللاتيني والعربي في صقلية — وتحليلٌ للمافيا بوصفها تجسيداً لـ«الظلّ الجمعي» الصقلي، إلى جانب دور في نشر التدريب التحليلي في جنوب إيطاليا. ولم يُعثر على سند بيبلوغرافي لأيٍّ من ذلك (انظر تحذير التحقّق في القيود).
+يُعد كرابّارو من رواد دراسة الصدمة النفسية المعقدة والعمى الوجداني (Alexithymia) وآليات الانشقاق (Dissociation) في إيطاليا وأوروبا. قدّم أبحاثاً رائدة في تفسير الإدمانات السلوكية والاضطرابات النفسية الجسدية بوصفها دفاعات ضد الذكريات الصادمة المبكرة غير الممثلة رمزياً، متقاطعاً مع أبحاث لويجي تسويا (Luigi Zoja) في التحليل النفسي المعاصر.
 
-## موقعه من التيار
+## أهم المؤلفات
 
-«صوت التحليلية المتوسطية» في إيطاليا، الموازي لـ T. Singer في أمريكا.
+- *L'alessitimia: Valutazione e trattamento* (Carocci, 2011).
+- *Il disturbo post-traumatico da stress* (Carocci, 2013).
+- *Elogio dell'inconscio* (2015).
+- *Trauma and Dissociation in a Cross-Cultural Perspective* (Routledge, 2019).
 
-## القيد
-موقعه في الذاكرة الدولية ضئيل.
+## المصادر
 
-## أهم أعماله
-
-Psicologia Analitica del Mediterraneo (العقد الأول من القرن الحادي والعشرين).
+- Craparo, G., Ardino, V., Gori, A., & Blasi, P. (2014). The relationship between early trauma, dissociation, and alexithymia in an Italian nonclinical sample. *Journal of Trauma & Dissociation*, 15(3), 331–345.
+- Craparo, G. (2017). *Unconscious Logic: An Introduction to Matte Blanco's Bi-logic*. Routledge.

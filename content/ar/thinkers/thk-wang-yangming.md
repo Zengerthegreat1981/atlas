@@ -21,7 +21,6 @@ related:
 - id: "thk-lu-jiuyuan", title: "لو جيو يوان", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لـ'تجربة التحوّل' (頓悟) في Longchang لم تُراجع من طبعة محقّقة هنا."
-  - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
 ---
 
 # وانغ يانغ مينغ (وانغ شو رن)
@@ -54,3 +53,9 @@ gaps:
 
 - *Chuan Xi Lu* (传习录، «سِجِلّ المُمارَسة»، تسجيل أقواله).
 - *Wang Yangming Quanshu* (王阳明全书، «أعمال وانغ يانغ مينغ الكاملة»).
+
+## المصادر
+
+- Wang Yangming, *Instructions for Practical Living* (trans. Wing-tsit Chan, 1963). Columbia University Press.
+- Ivanhoe, P. J. (2002). *Ethics in the Confucian Tradition: The Thought of Mengzi and Wang Yangming*. Hackett.
+- Tu, W. (1976). *Neo-Confucian Thought in Action: Wang Yang-ming's Youth*. University of California Press.

@@ -15,8 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 gaps:
-  - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "استبيان JAREL المذكور في مصادر ثانوية بحاجة لتأكيد الاسم الرسمي الدقيق للأداة ونسخها المتعاقبة."
 ---
 
 # سيدني جورارد
@@ -39,6 +38,8 @@ gaps:
 - *The Transparent Self* (1971).
 - *Healthy Personality: An Approach from the Viewpoint of Humanistic Psychology* (1974).
 
-## اقتباسات مختارة
+## المصادر
 
-«النفس السليمة هي التي تستطيع أن تُظهر ماهيتها.» — صياغة من كتاباته
+- Jourard, S.M. (1971). *The Transparent Self* (rev. ed.). Van Nostrand Reinhold.
+- Jourard, S.M. (1974). *Healthy Personality: An Approach from the Viewpoint of Humanistic Psychology*. Macmillan.
+- Jourard, S.M. & Lasakow, P. (1958). "Some factors in self-disclosure." *Journal of Abnormal and Social Psychology*, 56(1).

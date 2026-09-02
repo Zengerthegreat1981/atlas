@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1974
 active_end: 2021
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "إعادة الولادة", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-connie-rae-anderson", title: "كوني ري أندرسون", type: "مفكر"

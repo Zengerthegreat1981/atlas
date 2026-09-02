@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم التأمل التعاقدي (العلوم التأملية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"

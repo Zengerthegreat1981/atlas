@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 2014
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج مرتكبي العنف الجنسي (SOTP)", target_type: "تيار"
+- rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
 - id: "thk-gabel", title: "جين أبيل", type: "مفكر"
 - id: "thk-fberlin", title: "فريد برلين", type: "مفكر"
@@ -21,7 +21,6 @@ related:
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً."
   - "تفاصيل عمله في Rockwood Psychological Services وQueen's University تستحق مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ويليام مارشال
@@ -49,3 +48,8 @@ gaps:
 
 - تقنيات مثل التكييف بالتثبيط الجنسي تم انتقادها كشكل من أشكال «العلاج القسري».
 - في بعض السياقات، تطبَّق هذه البرامج قسرياً على المدانين، وهو ما يثير أسئلة أخلاقية حول الموافقة.
+
+## المصادر
+
+- W.L. Marshall & H.E. Barbaree, "An integrated theory of the etiology of sexual offending", in *Handbook of Sexual Assault*, 1990.
+- W.L. Marshall & D.R. Laws, "A brief history of behavioral and cognitive behavioral approaches to sexual offenders", *Sexual Abuse*, 2003.

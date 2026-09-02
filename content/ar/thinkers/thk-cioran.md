@@ -8,7 +8,7 @@ en: "Emil Cioran"
 crumb: "المدرسة الوجودية ← الناس ← إميل سيوران"
 dates: "رومانيا / فرنسا · 1911–1995"
 active_start: 1934
-active_end: 1973
+active_end: 1987
 country: "رومانيا / فرنسا"
 language: "الفرنسية / الرومانية"
 part: "philosophy"
@@ -46,7 +46,7 @@ gaps:
 
 ## أهم أعماله
 
-على مرتفعات اليأس (Pe culmile disperării, 1934) · ملخص التفكك (Précis de décomposition, 1949) · عن عائق الولادة / مثالب الولادة (De l'inconvénient d'être né, 1973) · تاريخ ويوتوبيا (Histoire et utopie, 1960).
+على مرتفعات اليأس (Pe culmile disperării, 1934) · ملخص التفكك (Précis de décomposition, 1949) · عن عائق الولادة / مثالب الولادة (De l'inconvénient d'être né, 1973) · تاريخ ويوتوبيا (Histoire et utopie, 1960) · اعترافات ولعنات (Aveux et anathèmes, 1987 — آخر كتبه المنشورة).
 
 ## اقتباسات مختارة
 

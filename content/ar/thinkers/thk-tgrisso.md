@@ -13,13 +13,12 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
+- rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
 - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
 - id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في UMass لم تُراجع مباشرة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
 ---
 
@@ -45,3 +44,9 @@ gaps:
 
 ## القيد
 - **بعض أدواته** (مثل MacCAT-T) تتطلب إجادة اللغة والثقافة، واستخدامها في سياقات غير غربية يحتاج تكييفاً.
+
+## المصادر
+
+- Grisso, T. (1988). *Competency to Stand Trial Evaluations: A Manual for Practice*. Professional Resource Exchange.
+- Grisso, T., & Appelbaum, P. S. (1998). *Assessing Competence to Consent to Treatment: A Guide for Physicians and Other Health Professionals*. Oxford University Press.
+- University of Massachusetts Medical School — صفحة السيرة الأكاديمية الرسمية (National Center for Mental Health and Juvenile Justice).

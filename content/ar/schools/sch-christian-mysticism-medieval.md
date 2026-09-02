@@ -12,6 +12,7 @@ country: "إسبانيا، فرنسا، ألمانيا، إيطاليا، هول
 language: "اللاتينية، الألمانية، الإيطالية، الإسبانية، الفرنسية، الإنجليزية الوسطى"
 active_start: 1100
 active_end: 1600
+cultural_origin: "european"
 edges:
 - rel: "evolved_from", target: "sch-apophatic", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
@@ -24,7 +25,7 @@ related:
 - id: "con-gelassenheit", title: "التسليم (Gelassenheit) — التخلي عن الإرادة", type: "مفهوم"
 gaps:
   - "نصوص ميستر إيكهارت بالألمانية الوسطى تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Liber Divinorum Operum' لهيلغارد أو 'Theologia Germanica'."
+  - "اقتباسات 'Liber Divinorum Operum' لهيلغارد و'Theologia Germanica' تحتاج تحقق من المصدر الأولي قبل الاستشهاد المباشر."
   - "التمييز بين 'التصوّف' و'اللاهوت' معقّد، ومحلّ خلاف تاريخي."
 ---
 
@@ -157,3 +158,10 @@ gaps:
 - **التوتّر مع المؤسّسة**: النساء في التصوّف (خاصة **هيلغارد**، **تيريزا**) تحدّين **السلطة الذكورية** (Auctoritas Masculina).
 - **الانزلاق في «**الذاتية**» (Subiectivitas)**: التصوّف قد يَنزلق إلى «**تجربة شخصية**» (Experientia Personalis) دون معيار موضوعي. ردّ **الكنيسة**: «**التمييز**» (Discretio Spirituum).
 - **التوتّر مع الحداثة**: التصوّف قُوبل بالرفض في **الوضعية المنطقية** و**التجريبية**، لكنّه عاد في **القرن 20-21 م** في «**ما بعد الحداثة**».
+
+## المصادر
+
+- Bernard McGinn, *The Presence of God: A History of Western Christian Mysticism* (multi-volume, Crossroad, 1991-2017).
+- Evelyn Underhill, *Mysticism: A Study in the Nature and Development of Man's Spiritual Consciousness* (1911).
+- Meister Eckhart, *Sermons and Treatises* (trans. M. O'C. Walshe, Element Books, 1979-1987).
+- Teresa of Ávila, *The Interior Castle* (Las Moradas, trans. E. Allison Peers, 1946).

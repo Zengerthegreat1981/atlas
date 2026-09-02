@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1989
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "thk-jbaylin", title: "جون بايلين", type: "مفكر"

@@ -9,17 +9,19 @@ en: "Ataraxia"
 crumb: "الفلسفة الهيلينستية ← المفاهيم الأساسية ← الأتاراكسيا"
 active_start: -300
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفة الهيلينستية واليونانية المتأخرة", target_type: "مدرسة"
 related:
-- id: "ctx-hellenistic-tradition", title: "سياق الفلسفة الهيلينستية والرومانية", type: "سياق/تقليد"
+- id: "ctx-hellenistic-tradition", title: "السياق الهيلينستي والروماني في فلسفة الحياة والنفس", type: "سياق/تقليد"
 - id: "sch-pyrrhonism", title: "الشك البيروني (Pyrrhonian Skepticism)", type: "مدرسة"
 - id: "sch-epicureanism", title: "الأبيقورية (Epicureanism)", type: "مدرسة"
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
-- id: "con-tawakkul-psychology", title: "التوكل واليقين والسكينة النفسية", type: "مفهوم"
+- id: "thk-pyrrho", title: "بيرون الإليسي", type: "مفكر"
+- id: "thk-sextus-empiricus", title: "سكستوس إمبيريكوس", type: "مفكر"
+- id: "thk-epictetus", title: "إبكتيتوس", type: "مفكر"
 gaps:
+  - "رابط con-tawakkul-psychology كان موجوداً سابقاً دون أن يشرح المتن أي صلة نصية بين الأتاراكسيا الهيلينستية ومفهوم التوكل الإسلامي؛ حُذف لغياب التبرير، والمقارنة بينهما تبقى بحاجة لفقرة مستقلة."
   - "المقارنة الفينومينولوجية بين الأتاراكسيا الهيلينستية ومفهوم 'النيرفانا' و'الأوباتشا' في البوذية تحتاج دراسة مقارنة."
   - "التطبيقات المعاصرة لتعليق الحكم (Epoché) في تقليل القلق المعرفي تتطلب فصلاً مستقلاً."
+  - "edges.belongs_to كان يشير لنص حر ('الفلسفة الهيلينستية واليونانية المتأخرة') وليس لـslug مدرسة حقيقية — حُذف بدل اختراع slug؛ لا توجد مدرسة موثقة بهذا الاسم في الأطلس حتى الآن (أقرب موجود ctx-hellenistic-tradition وهو سياق لا مدرسة)."
 ---
 
 # الأتاراكسيا والسكينة النفسية

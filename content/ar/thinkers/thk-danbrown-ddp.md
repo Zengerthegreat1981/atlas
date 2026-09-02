@@ -6,9 +6,9 @@ level: "متقدم"
 title: "دانيال ب. براون"
 en: "Daniel P. Brown"
 crumb: "العلاج المرتكز على التعلق والصدمة النمائية ← الناس ← دانيال ب. براون"
-dates: "الولايات المتحدة الأمريكية · معاصر"
-active_start: 1990
-active_end: "مستمر"
+dates: "الولايات المتحدة · 1948–2022"
+active_start: 1985
+active_end: 2022
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"

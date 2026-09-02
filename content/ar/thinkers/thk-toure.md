@@ -17,11 +17,11 @@ edges:
 related:
 - id: "thk-nkrumah", title: "كوامي نكروما", type: "مفكر"
 - id: "thk-sankara", title: "توماس سانكارا", type: "مفكر"
-- id: "thk-senghor", title: "ليوبولد سنغور", type: "مفكر"
+- id: "thk-senghor", title: "ليوبولد سيدار سنغور", type: "مفكر"
 - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
 - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
 - id: "sch-marxism", title: "الماركسية", type: "مدرسة"
-- id: "con-ubuntu-african-humanism", title: "أوبونتو (الإنسانية الأفريقية)", type: "مفهوم"
+- id: "con-ubuntu-african-humanism", title: "أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)", type: "مفهوم"
 gaps:
   - "مقارنة سياسات توري الاقتصاديّة بنموذج تانزانيا (Nyerere) لم تُحلَّل أكاديمياً."
   - "لا توجد ترجمة عربية لكتاباته حول 'L'Unité africaine'."
@@ -57,7 +57,8 @@ gaps:
 - *Le combat des femmes* (1983).
 - خطب وبيانات "مؤتمر لانسانه كوني" (Lansanne, السبعينيات من القرن العشرين).
 
-## اقتباسات مختارة
+## المصادر
 
-> "إنّ إفريقيا لن تتحرّر إلّا إذا تحرّرت من قُواها الذاتية: الطبقية، القبليّة، والنيو-كولونياليّة."
-> *(La révolution guinéenne et le progrès، السبعينيات من القرن العشرين، ترجمة تقريبية)*
+- Ladipo Adamolekun, *Sékou Touré's Guinea: An Experiment in Nation Building* (Methuen, 1976).
+- Elizabeth Schmidt, *Cold War and Decolonization in Guinea, 1946–1958* (Ohio University Press, 2007).
+- Ahmed Sékou Touré, *Expérience guinéenne et unité africaine* (Présence Africaine, 1959).

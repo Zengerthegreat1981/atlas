@@ -19,7 +19,6 @@ related:
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
 gaps:
   - "هوية المؤلف الحقيقية (مجهولة تماماً) — أحد التخمينات: بيتر إيفروت (Peter the Fuller) أو مدرس سوري من القرن 5-6 م."
-  - "لا يوجد اقتباس مباشر موثوق من 'اللاهوت الغامض' متاح."
 ---
 
 # ديونيسيوس المجهول (المُنتحل / الإله الزائف)
@@ -47,3 +46,8 @@ gaps:
 - De Coelesti Hierarchia (الهرمية السماوية)
 - De Ecclesiastica Hierarchia (الهرمية الكنسية)
 - Epistulae (10 رسائل)
+
+## المصادر
+
+- Pseudo-Dionysius the Areopagite, *The Complete Works*, trans. Colm Luibheid, Paulist Press, 1987.
+- Paul Rorem, *Pseudo-Dionysius: A Commentary on the Texts and an Introduction to Their Influence*, Oxford University Press, 1993.

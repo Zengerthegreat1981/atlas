@@ -11,6 +11,10 @@ dates: "1947 · سيمون دي بوفوار"
 active_start: 1947
 active_end: 1947
 part: "philosophy"
+author: "سيمون دي بوفوار"
+author_slug: "thk-beauvoir"
+publication_year: 1947
+original_language: "الفرنسية"
 edges:
 - rel: "written_by", target: "thk-beauvoir", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
@@ -18,7 +22,7 @@ related:
 - id: "wrk-fromm-escape-freedom", title: "الهروب من الحرية (Escape from Freedom)", type: "عمل / كتاب"
 - id: "wrk-fear-of-freedom-1941", title: "الخوف من الحرية (1941)", type: "عمل / كتاب"
 - id: "thk-beauvoir", title: "بوفوار", type: "مفكر"
-- id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
+- id: "dbt-individualism", title: "الفردانية والعمى عن السلطة", type: "جدل"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

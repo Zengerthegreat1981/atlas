@@ -13,7 +13,7 @@ country: "الولايات المتحدة (أصلاً من النمسا)"
 language: "الإنجليزية/الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 - id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
@@ -22,8 +22,6 @@ related:
 - id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
 gaps:
   - "تفاصيل عمله في معهد يونغ في زيورخ (قبل انتقاله لعلم النفس السريري الأمريكي) لم تُراجع من مصدر أولي."
-  - "لم يُراجع هذا الملف من مصدر أولي مباشر؛ الاعتماد على مصادر ثانوية موثوقة (Wikipedia) فقط."
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد."
 ---
 
 # بول واتزلاويك
@@ -38,6 +36,8 @@ gaps:
 
 نشر "براغماتية الاتصال البشري" (Pragmatics of Human Communication، 1967) مع بيفلاس وجاكسون، وهو من الأعمال المؤسِّسة لنظرية الاتصال العلاجي. كما نشر "الواقع المُختَرَع" (The Invented Reality) و"التغيير: مبادئ حل المشكلات والتشكيل العلاجي" (Change، 1974) مع وِكلاند وفيش.
 
-## مرجع
+## المصادر
 
-- Wikipedia: [Paul Watzlawick](https://en.wikipedia.org/wiki/Paul_Watzlawick)
+- Watzlawick, P., Beavin, J. H., & Jackson, D. D. (1967). *Pragmatics of Human Communication: A Study of Interactional Patterns, Pathologies, and Paradoxes*. W. W. Norton.
+- Watzlawick, P., Weakland, J., & Fisch, R. (1974). *Change: Principles of Problem Formation and Problem Resolution*. W. W. Norton.
+- Watzlawick, P. (1976). *How Real Is Real? Confusion, Disinformation, Communication*. Random House.

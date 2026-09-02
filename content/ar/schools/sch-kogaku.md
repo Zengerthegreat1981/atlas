@@ -10,15 +10,16 @@ crumb: "الفلسفة ← اليابان ← كوغاكو"
 dates: "اليابان · من القرن 17 إلى القرن 19 م تقريباً"
 country: "اليابان"
 language: "اليابانية + الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: 1662
 active_end: 1868
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "النيوكونفوشية اليابانية (مظلة)", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
 - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
 - id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
-- id: "sch-shingaku", title: "شينغاكو", type: "مدرسة"
+- id: "sch-shingaku", title: "شينغاكو (تعلم القلب الياباني)", type: "مدرسة"
 gaps:
   - "الفاصل بين 'كوغاكو' و'إيتو جينساي' الفرعي و'أوغَتا تَتسُو' الفرعي و'كَماتَ مَتسُتَ' غير واضح بين المراجع."
   - "لا اقتباس مباشر موثوق من 'رُو' أو 'يِ مِه دِيكسيه' متاح في هذه المسودة."
@@ -53,3 +54,10 @@ gaps:
 - تأثر بها بعمق **مَئي زيَكَو (Kaibara Ekiken، 1630–1714)** في الأخلاقيات العملية، و**يَانَجِيه سُوكِه** (Yoshida Shōin) في تشكيل المناهج التعليمية للساموراي.
 - في القرن 20-21، أُعيد تقييم كوغاكو بوصفها مقدمةً لقراءة فلسفية «صينية الأصل» غير صينية التأطير (إنتاج ڤيتغنشتاين المقارن) في أعمال **نِتشيَا تَكَو** (Nishikawa Shōju).
 - تُعدّ كوغاكو من أكثر التيارات الكونفوشية اليابانية تأثيراً على تشينغي (Chen) (清) الذي سيشمل القرن 17-18 في الصين، رغم انعدام الاتصال المباشر.
+
+## المصادر
+
+- Tucker, John Allen (trans.). *Itō Jinsai's Gomō Jigi and the Philosophical Definition of Early Modern Japan*. Brill, 1998.
+- Tucker, John Allen (trans.). *Ogyū Sorai's Philosophical Masterworks: The Bendō and Benmei*. University of Hawai'i Press, 2006.
+- Maruyama Masao. *Studies in the Intellectual History of Tokugawa Japan*, trans. Mikiso Hane. Princeton University Press, 1974.
+- Yamashita, Samuel Hideo. "Nature and Artifice in the Writings of Ogyū Sorai." In *Confucianism and Tokugawa Culture*, ed. Peter Nosco. Princeton University Press, 1984.

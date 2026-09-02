@@ -10,17 +10,20 @@ en: "Learned Optimism: How to Change Your Mind and Your Life"
 crumb: "علم النفس الإيجابي ← الأعمال ← التفاؤل المكتسب"
 dates: "1991 · مارتن سيليجمان"
 language: "الإنجليزية"
+author: "مارتن سيليجمان"
+author_slug: "thk-mseligman"
+publication_year: 1991
+original_language: "الإنجليزية"
 active_start: 1991
 active_end: 1991
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
-- rel: "written_by", target: "مارتن سيليجمان", target_type: "مفكر"
+- rel: "written_by", target: "thk-mseligman", target_type: "مفكر"
 related:
 - id: "con-optimism", title: "التفاؤل", type: "مفهوم"
-- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التفاؤل المكتسب: كيف تغير عقلك وحياتك
@@ -34,7 +37,3 @@ gaps:
 ## نموذج ABCDE لدحض الأفكار التشاؤمية
 
 تطبيق تقنيات العلاج المعرفي لتفنيد المعتقدات الكارثية واكتساب المرونة النفسية.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

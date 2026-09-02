@@ -9,6 +9,7 @@ en: "Existential Psychotherapy"
 crumb: "علم النفس ← المدارس الإنسانية-الوجودية ← الوجودية العلاجية"
 dates: "أوروبا والولايات المتحدة · من 1930s إلى اليوم"
 country: "سويسرا، النرويج، المملكة المتحدة، الولايات المتحدة، هولندا"
+cultural_origin: "european"
 language: "الألمانية، الإنجليزية، الفرنسية، الهولندية"
 active_start: 1930
 active_end: "مستمر"
@@ -22,17 +23,17 @@ related:
 - id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 - id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
-- id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "thk-jaspers", title: "كارل ياسبرس", type: "مفكر"
+- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-- id: "thk-laing", title: "رونالد لانغ", type: "مفكر"
-- id: "thk-bergson", title: "هنري بيرغسون", type: "مفكر"
-- id: "thk-marcel", title: "غابرييل مارسيل", type: "مفكر"
-- id: "thk-dilthey", title: "فيلهلم ديلتاي", type: "مفكر"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
+- id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
 - id: "dia-lacan-heidegger-anxiety-seminar", title: "سيمينار لاكان العاشر حول القلق: حوار خفي مع هايدجر", type: "حوار مع مدرسة مجاورة"
 - id: "thk-stirner", title: "ماكس شتيرنر (يوهان كاسبار شميت)", type: "مفكر"
 - id: "exp-may-sanatorium-anxiety", title: "سرد رولو ماي الذاتي لخبرة العزلة والقلق الوجودي في مصحة السل", type: "خبرة معيشة"
@@ -41,11 +42,10 @@ related:
 - id: "wrk-sickness-death", title: "المرض حتى الموت", type: "عمل / كتاب"
 - id: "wrk-rorty-philosophy-and-mirror-of-nature", title: "الفلسفة ومرآة الطبيعة", type: "عمل / كتاب"
 - id: "axm-nadaista-manifesto", title: "بيان النادائية (Nadaísmo) — العدمية الكولومبية", type: "بديهية/مبدأ تأسيسي"
-- id: "br-existential-humanistic-american", title: "الإنسانية-الوجودية الأمريكية", type: "تيار"
+- id: "br-existential-humanistic-american", title: "الإنساني-الوجودي الأمريكي (شنايدر، كريك)", type: "تيار"
 gaps:
   - "التوثيق الأكاديمي الدقيق لتاريخ 'تطبيق' الوجودية على العلاج النفسي (بين Binswanger 1922 وBoss 1960) يحتاج مراجعة من كتب تاريخ العلاج النفسي."
   - "التمييز بين 'التحليل الوجودي' (Längle) و'تحليل الدازاين' (Boss) في الأطلس الحالي يعتمد على المراجعات الحديثة، لا النصوص التأسيسية."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات ديغان (thk-patdeegan)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت إيميري (thk-robert-emery)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: آسين علادين (thk-aalladin)."
@@ -127,7 +127,7 @@ gaps:
 - **التطبيق يتطلب معالجاً ناضجاً**: لا تصلح للتدريب المبتدئ.
 - **سوء فهم شعبي**: تُختزل أحياناً في «تأملات فلسفية» أو «لا أعرف ماذا أفعل»، وهي في الحقيقة تدريب على المواجهة المسؤولة.
 
-## المرجع الموصى
+## المصادر
 
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books. — المرجع التدريسي الأساسي.
 - May, R. (1969). *Existential Psychology* (2nd ed.). Random House.

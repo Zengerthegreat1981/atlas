@@ -8,7 +8,7 @@ en: "Maurice Blondel"
 crumb: "المدرسة الوجودية ← الناس ← موريس بلونديل"
 dates: "فرنسا · 1861–1949"
 active_start: 1893
-active_end: 1935
+active_end: 1949
 country: "فرنسا"
 language: "الفرنسية"
 part: "philosophy"

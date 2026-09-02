@@ -13,11 +13,12 @@ language: "الصينية الكلاسيكية والكورية"
 active_start: 1531
 active_end: 1570
 edges:
-- rel: "belongs_to", target: "الكونفوشية الكورية / النيوكونفوشية الكورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-korean-neoconfucian", target_type: "مدرسة"
 related:
+- id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
+- id: "thk-yi-i-yulgok", title: "يي إي (يولغوك)", type: "مفكر"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا تتوفر ترجمة عربية نقدية لـSeonghak sipdo أو لرسائل مناظرة الأربعة-السبعة مع كي ديسنغ."
 ---
 
 # يي هوانغ (تيجاي)
@@ -42,6 +43,8 @@ gaps:
 - رسائل مناظرة الأربعة-السبعة مع كي ديسنغ.
 - *Jaseongnok* (سجل التأمّل الذاتي).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Yi Hwang, *Seonghak sipdo* [Ten Diagrams on Sage Learning] (1568).
+- Kalton, M. C. (trans., 1988). *To Become a Sage: The Ten Diagrams on Sage Learning by Yi T'oegye*. Columbia University Press.
+- Kalton, M. C. et al. (trans., 1994). *The Four-Seven Debate*. State University of New York Press.

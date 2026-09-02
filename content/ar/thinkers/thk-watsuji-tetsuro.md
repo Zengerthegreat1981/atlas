@@ -12,11 +12,12 @@ country: "هيميجي / طوكيو"
 language: "اليابانية"
 active_start: 1919
 active_end: 1960
-edges:
-- rel: "belongs_to", target: "الفلسفة اليابانية (التقليدية والحديثة)", target_type: "مدرسة"
+edges: []
+related:
+- id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المتن يوضّح أن واتسوجي قريب من مدرسة كيوتو دون أن يُعدّ من صميمها؛ لذا لم يُدرَج رابط belongs_to صريح بها، واكتُفي بذكرها في related كسياق."
+  - "ترجمات كاملة موثوقة لـFūdo وRinrigaku للعربية محدودة؛ أغلب المتاح مقتطفات ودراسات ثانوية بالإنجليزية."
 ---
 
 # واتسوجي تيتسورو
@@ -42,6 +43,8 @@ gaps:
 - *Nihon seishinshi kenkyū* (دراسات في تاريخ الروح اليابانية).
 - *Koji junrei* (حجّ إلى المعابد القديمة، 1919).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Watsuji, T. (تر. Bownas, G., 1961). *A Climate: A Philosophical Study* (Fūdo). Tokyo: Ministry of Education (طبعة إنجليزية).
+- Watsuji, T. (تر. Yamamoto & Carter, 1996). *Watsuji Tetsurō's Rinrigaku: Ethics in Japan*. State University of New York Press.
+- Carter, R. E. & McCarthy, E. "Watsuji Tetsurō". *Stanford Encyclopedia of Philosophy*.

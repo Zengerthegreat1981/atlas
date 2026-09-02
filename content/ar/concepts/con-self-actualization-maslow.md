@@ -21,6 +21,8 @@ related:
 - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
 - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
 - id: "wrk-maslow-motivation-and-personality", title: "كتاب الدافعية والشخصية لأبراهام ماسلو (1954)", type: "عمل / كتاب"
+- id: "con-flow", title: "التدفق (Flow)", type: "مفهوم"
+- id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 gaps:
   - "التمييز بين تحقيق الذات كـ'حالة' (State) و'مسار' (Process) في كتابات ماسلو المتأخرة يحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من Maslow (1962, *Toward a Psychology of Being*) بعد."

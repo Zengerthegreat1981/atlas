@@ -9,6 +9,10 @@ en: "Man's Search for Meaning by Viktor E. Frankl"
 crumb: "العلاج بالمعنى والوجودية ← أمهات الأعمال ← الإنسان يبحث عن المعنى"
 active_start: null
 active_end: "مستمر"
+author: "فيكتور فرانكل"
+author_slug: "thk-frankl"
+publication_year: 1946
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:

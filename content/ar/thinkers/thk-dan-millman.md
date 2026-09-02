@@ -14,12 +14,12 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا الأداء والوعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-way-of-the-peaceful-warrior", title: "طريق المحارب السلمي", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـدان ميلمان في الأدبيات المتاحة."
 ---
 
 # دان ميلمان

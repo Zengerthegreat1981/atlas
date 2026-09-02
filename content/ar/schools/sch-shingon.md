@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← شينغون"
 dates: "اليابان · من القرن 9 م إلى اليوم"
 country: "اليابان"
 language: "اليابانية، الصينية الكلاسيكية، السنسكريتية"
+cultural_origin: "east-asian"
 active_start: 816
 active_end: "مستمر"
 edges:
@@ -18,8 +19,8 @@ edges:
 related:
 - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
 - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "نصوص Kūkai (Jūjūshinron، Benkenmitsu nikyō ron، Sangō shīki) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Shingon الرئيسية وTōmitsu (Tōji-ha) و Buzan-ha يستحق بحثاً مستقلاً."
@@ -83,3 +84,10 @@ gaps:
 - **Goryō شيجي (Taimitsu، Tendai)**: Shingon في Tendai تختلف عن Kūkai، ولا تتفق مع Kōyasan في كل شيء.
 - **Kakuban vs Kūkai**: Kakuban عُرف بميوله لجونگ‌Kyo المزجوية، وأحدث انشقاقات.
 - **الإصلاح Meiji 1872**: Kūkai بوصفه فيلسوفاً قُيِّم لاحقاً، لا في عصره.
+
+## المصادر
+
+- Kiyota, Minoru. *Shingon Buddhism: Theory and Practice*. Buddhist Books International, 1978.
+- Hakeda, Yoshito S. *Kūkai: Major Works*. Columbia University Press, 1972.
+- Abé, Ryūichi. *The Weaving of Mantra: Kūkai and the Construction of Esoteric Buddhist Discourse*. Columbia University Press, 1999.
+- Yamasaki, Taikō. *Shingon: Japanese Esoteric Buddhism*. Shambhala, 1988.

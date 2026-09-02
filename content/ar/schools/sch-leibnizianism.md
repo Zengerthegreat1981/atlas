@@ -7,11 +7,12 @@ level: "متقدم"
 title: "اللايبنتزية"
 en: "Leibnizianism"
 crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبية ← اللايبنتزية"
-dates: "ألمانيا (لايبزغ، هانوفر، برلين)، فرنسا، هولندا، إنجلترا · من القرن 17 م إلى القرن 18 م"
+dates: "ألمانيا (لايبزغ، هانوفر، برلين)، فرنسا، هولندا، إنجلترا · من القرن 17 م إلى أوائل القرن 19 م"
 country: "ألمانيا، فرنسا، هولندا، إنجلترا"
 language: "الفرنسية، اللاتينية، الألمانية"
+cultural_origin: "european"
 active_start: 1680
-active_end: 1780
+active_end: 1831
 edges:
 - rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
@@ -19,12 +20,12 @@ edges:
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
 - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
-- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
-- id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية (كمظلة)", type: "مدرسة"
+- id: "sch-occasionalism", title: "الأوكازيونيالية (Occasionalism)", type: "مدرسة"
 - id: "con-monad", title: "المونادات (Monades)", type: "مفهوم"
 gaps:
   - "نصوص لايبنتز بالفرنسية واللاتينية والألمانية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Monadologie' أو 'Théodicée'."
+  - "نص 'Monadologie' (1714) و'Théodicée' (1710) لم يُقتبس منهما نصياً في هذه المسودة."
   - "التمييز بين 'اللايبنتزية' (Leibnizianism) و'الفلوفية' (Wolffianism) محلّ خلاف تاريخي."
 ---
 
@@ -133,7 +134,7 @@ gaps:
 - **في اللاهوت**: «**اللاهوت العقلاني**» (Theologia Rationalis) لـ«**لايبنتز**» (Leibniz) «**أَثَّرَ**» (Influit) في «**شلايرماخر**» (Schleiermacher) و«**بارث**» (Barth) و«**تيليتش**» (Tillich) و«**مولتمان**» (Moltmann).
 - **في المنطق**: «**المنطق الرمزي**» (Logica Symbolica) لـ«**لايبنتز**» (Leibniz) «**سَبقَ**» (Praecessit) «**المنطق**» (Logica) «**الحديث**» (Moderna) عند **فريجه** (Frege) و«**راسل**» (Russell).
 - **في السياسة**: «**التوليفة المسبقة**» (Harmonia Praestabilita) «**استلهمها**» (Inspiravit) «**هابس**» (Hobbes) في «**Leviathan**» (1651) و«**كانط**» (Kant) في «**السلام الأبدي**» (Pax Perpetua، 1795).
-- **في الفلسفة المعاصرة**: «**دلوز**» (Deleuze) في «**Le Pli: Leibniz et le Baroque**» (1988) أعاد «**قراءة**» (Lectionem) لايبنتز.
+- **في الفلسفة المعاصرة**: «**دلوز**» (Deleuze) في «**Le Pli: Leibniz et le Baroque**» (بعد وفاته عام 1988) أعاد «**قراءة**» (Lectionem) لايبنتز.
 
 ## المأزق الفلسفي
 
@@ -143,3 +144,9 @@ gaps:
 - **التوتّر مع الحداثة**: «**أفضل العوالم**» (Optimus Mundus) «**وَهْم**» (Illusio) لـ«**فولتير**» (Voltaire) بعد «**زلزال لشبونة**» (1755). «**كانط**» (Kant) «**رَفَضَ**» (Renuit) «**مبدأ**» (Principium) «**السبب الكافي**» (Ratio Sufficiens) في «**نقد**» (Critica) 1781.
 - **التوتّر مع الفيزياء الحديثة**: «**الموناد**» (Monades) «**لا**» (Non) «**تُمَثِّل**» (Repraesentant) «**الذرات**» (Atomi) أو «**الجسيمات**» (Particulae) «**الفيزيائية**» (Physicae). «**الكمّ**» (Quantum) و«**النسبية**» (Relativitas) «**أَدَّتْ**» (Duxit) إلى «**نَسَف**» (Subversio) «**الموناد**».
 - **الإرث المعاصر**: «**اللايبنتزية**» (Leibnizianism) «**مازالت**» (Adhuc) «**نَموذجاً**» (Exemplar) لـ«**الفلسفة**» (Philosophia) «**التحليلية**» (Analytica) (المنطق) و«**المعلوماتية**» (Informatica) («**الحوسبة**» Computatio) و«**علوم الإدراك**» (Scientiae Cognitionis).
+
+## المصادر
+
+- Nicholas Jolley (ed.)، *The Cambridge Companion to Leibniz*، Cambridge University Press، 1995.
+- Anthony Savile، *Leibniz and the Monadology*، Routledge، 2000.
+- Stanford Encyclopedia of Philosophy، مدخل "Gottfried Wilhelm Leibniz".

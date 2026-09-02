@@ -12,8 +12,7 @@ active_end: 2012
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "دراسات الموت والاحتضار (Thanatology)", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-death", title: "الموت", type: "مفهوم"
 - id: "con-time", title: "الزمن", type: "مفهوم"

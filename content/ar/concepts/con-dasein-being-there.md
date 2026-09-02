@@ -12,18 +12,17 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-- id: "con-thrownness", title: "الانغلاف (Geworfenheit)", type: "مفهوم"
-- id: "con-being-toward-death", title: "الوجود نحو الموت", type: "مفهوم"
+- id: "con-dasein-being-in-the-world", title: "الدازاين والوجود-في-العالم (Dasein)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التحليل الدازايني (sch-daseinsanalysis)"
 - "الترجمات العربية للدازاين (الوجود هنا، الكينونة، هناك-الوجود) تحتاج توحيداً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "التطبيق في التحليل الدازايني (Boss، Condrau) يحتاج فصلاً إكلينيكياً."
 - "علاقة الدازاين بـ«الزمنية» (Temporality) عند هايدغر تحتاج ربطاً مع con-time-consciousness."
+- "ملاحظة تكرار محتمل: هذا الملف (con-dasein-being-there) وcon-dasein-being-in-the-world يبدوان معالجة متشابهة لنفس مفهوم الدازاين؛ يحتاجان تمييزاً واضحاً بينهما (لم يُدمجا هنا)."
+- "روابط الأصالة (con-authenticity)، الانغلاف (con-thrownness)، والوجود نحو الموت (con-being-toward-death) أُزيلت من related لأن متن الملف الحالي لا يشرح صلتها بالدازاين؛ تحتاج فقرة تبرير قبل إعادة الربط."
 ---
 
 # الدازاين (Dasein): الكائن الذي أسئلته عن وجوده

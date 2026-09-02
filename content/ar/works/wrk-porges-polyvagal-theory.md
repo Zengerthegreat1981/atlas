@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
-- id: "thk-stephen-porges", title: "ستيفن بورغس", type: "مفكر"
+- id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
 - id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

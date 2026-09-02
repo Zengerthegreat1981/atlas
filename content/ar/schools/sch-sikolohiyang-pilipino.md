@@ -10,16 +10,16 @@ crumb: "الفلسفة ← جنوب شرق آسيا ← سيكولوهيانغ �
 dates: "الفلبين · من السبعينيات إلى القرن 21"
 country: "الفلبين"
 language: "الفلبينية (Tagalog) + الإنجليزية"
+cultural_origin: "southeast-asian"
 active_start: 1975
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "الفلسفة الفلبينية (مظلة)", target_type: "مظلة"
 related:
-- id: "sch-pancasila", title: "بانتشاسيلا", type: "مدرسة"
+- id: "sch-pancasila", title: "بانتشاسيلا (الفلسفة السياسية الإندونيسية)", type: "مدرسة"
 gaps:
   - "الفصل بين 'Sikolohiyang Pilipino' كحركة علم نفس وحركة فلسفية (Filipino Philosophy proper) غير محسوم."
   - "لا اقتباس مباشر موثوق من Virgilio Enriquez متاح في هذه المسودة."
+  - "رابط belongs_to إلى 'الفلسفة الفلبينية' (مظلة) أُزيل مؤقتاً لعدم وجود ملف مدرسة لها بعد — سُجّلت في agents_specs/missing-schools.md."
 ---
 
 # سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)
@@ -80,3 +80,10 @@ gaps:
 - في 2000-2020، انتشرت صياغة **「Filipino Philosophy proper」** كمجال فلسفي مستقل في الجامعات الأمريكية (مؤتمر Pacific APA، San Francisco State).
 - استلهم منها **Leonardo Mercado (1930-2017)** في أعماله عن فلسفة الأنجلو-فلبينية (Filipino Anglophone Philosophy).
 - تُعدّ اليوم من أهمّ المساهمات الفلسفية لما بعد الاستعمار في جنوب شرق آسيا.
+
+## المصادر
+
+- Enriquez, Virgilio G. *From Colonial to Liberation Psychology: The Philippine Experience*. Quezon City: University of the Philippines Press, 1992.
+- Pe-Pua, Rogelia & Protacio-Marcelino, Elizabeth A. "Sikolohiyang Pilipino (Filipino Psychology): A Legacy of Virgilio G. Enriquez." *Asian Journal of Social Psychology* 3, no. 1 (2000).
+- Enriquez, Virgilio G. "Kapwa: A Core Concept in Filipino Social Psychology." In *Philippine World-View*. Singapore: ISEAS, 1978.
+- Mercado, Leonardo N. *Elements of Filipino Philosophy*. Tacloban City: Divine Word University Publications, 1976.

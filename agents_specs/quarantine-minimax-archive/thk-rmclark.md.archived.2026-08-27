@@ -1,0 +1,59 @@
+---
+slug: "thk-rmclark"
+id: "THK-2752"
+type: "مفكر"
+level: "مبتدئ"
+title: "روبرت كلارك"
+en: "Robert M. Clark"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← روبرت كلارك"
+edges:
+- rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
+related:
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "thk-lcozolino", title: "لويس كوتزولينو", type: "مفكر"
+- id: "thk-msolomon", title: "ماريون سولومون", type: "مفكر"
+- id: "thk-sbadcoe", type: "مفكر", title: "سارة بدكيو"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Robert M. Clark' في حقل IPNB."
+  - "مؤتمر IPNB السنوي: لا توجد جلسات باسمه."
+  - "كتابته المشار إليها في الـfrontmatter (نموذج IPNB السريري، برامج تدريب، أبحاث تطبيقية) غير موثّقة."
+  - "سنة الميلاد: مجهولة."
+  - "الاحتمال: خُلط مع 'Robert Coles' (أخصائي علم نفس الطفل في Harvard) أو 'Robert Carkhuff' (مؤسس تدريب المهارات الإكلينيكية)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح اسم، أو دمج في ملف IPNB عام."
+---
+
+# روبرت كلارك
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في حقل IPNB]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Robert M. Clark.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IPNB Conferences (2010+))**: لا توجد جلسات باسمه.
+  - **Norton Series on Interpersonal Neurobiology**: لا فصول.
+  - **PsycINFO**: لا مقالة عن «IPNB + Clark».
+  - **Google Scholar**: لا مقالات عن IPNB.
+- **احتمالات الخطأ المعرفي**:
+  - **Robert Coles** (عالم نفس الطفل في Harvard): معروف جداً في «تطوير الأخلاق».
+  - **Robert Carkhuff** (TRC Inc.): صاحب «Carkhuff Skills Training» في الإرشاد النفسي.
+  - **Dan Siegel** نفسه (في أحيان كثيرة يُنسب الفضل إلى اسمه في IPNB).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تحديد هوية صحيحة.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Siegel, D. J. (2012). *The Developing Mind*. Guilford.
+  - Cozolino, L. (2006). *The Neuroscience of Human Relationships*. Norton.
+  - Solomon, M. & Siegel, D. (eds.) (2003). *Healing Trauma*. Norton.

@@ -12,15 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "thk-duckworth", title: "أنجيلا داكوورث", type: "مفكر"
-- id: "crt-critique-of-positive-psychology", title: "نقد علم النفس الإيجابي", type: "نقد خارجي موثَّق"
+- id: "thk-duckworth", title: "أنجيلا دَكوورث", type: "مفكر"
+- id: "crt-critique-of-positive-psychology", title: "نقد عِلْم النَّفْس الْإِيجَابِيّ مِن مَنْظُور السِّيَاسَة الاجْتِمَاعِيَّة", type: "نقد خارجي موثَّق"
 - id: "dbt-positivity-mandate-critique", title: "جِدَل الْإِيجَابِيّة كَوَاجِب: عِلْم النَّفْس الْإِيجَابِيّ ضِد نَقْد الْوَاجِب", type: "جدل"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Kohn, 2018; Lerner, 2019)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "اقتباس Kohn 2018 المباشر لم يُتحقق من نصه الأصلي بعد."
 ---
 # نقد «Grit»: مَدْح الْاِسْتِمْرَار يَسْتَهْدِف مَن يَفْتَقِرُون إِلَى الْحُظّ
 

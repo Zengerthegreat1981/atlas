@@ -12,12 +12,13 @@ country: "الصين (جبل تيانتاي)"
 language: "الصينية الكلاسيكية"
 active_start: 580
 active_end: "مستمر"
+cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-buddhism-early", target_type: "مدرسة"
-- rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-huayan", title: "هوايان (الصينية)", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
@@ -85,3 +86,9 @@ gaps:
 - نظرية العشر دوائر معقدة (shih-chieh) جداً — يصعب تلخيصها بدقة.
 - التفسير المعاصر يختلف بين الباحثين (Swanson، Stone) — لا توافق تام.
 - مفهوم «الفراغ» عند Zhìyi يختلف عن Zhuangzi (الطاوية) — التباس تاريخي.
+
+## المصادر
+
+- Swanson, P. L. (1989). *Foundations of T'ien-T'ai Philosophy*. Asian Humanities Press.
+- Ziporyn, B. (2000). *Evil and/or/as the Good: Omnicentrism, Intersubjectivity, and Value Paradox in Tiantai Buddhist Thought*. Harvard University Asia Center.
+- Donner, N. & Stevenson, D. (1993). *The Great Calming and Contemplation: A Study and Annotated Translation of the First Chapter of Chih-i's Mo-ho chih-kuan*. University of Hawaii Press.

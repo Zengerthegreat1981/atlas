@@ -11,6 +11,9 @@ dates: "2021 · كيت كراوفورد"
 language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
+author: "كيت كراوفورد"
+publication_year: 2021
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-ai-ethics", target_type: "مدرسة"
 related:

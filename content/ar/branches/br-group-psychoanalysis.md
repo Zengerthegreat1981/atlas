@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-bion", target_type: "مفكر"
 related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-- id: "thk-rkaes", title: "رينيه كاييس", type: "مفكر"
+- id: "thk-rkaes", title: "رينيه كايه", type: "مفكر"
 - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:

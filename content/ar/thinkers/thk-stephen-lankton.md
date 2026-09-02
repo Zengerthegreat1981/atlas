@@ -13,13 +13,13 @@ active_start: 1975
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
 - id: "thk-jeffrey-zeig", title: "جيفري زايغ", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى لانكتون بمصدر وسنة."
 ---
 
 # ستيفن لانكتون
@@ -42,6 +42,8 @@ gaps:
 - *The Answer Within: A Clinical Framework of Ericksonian Hypnotherapy* (1983).
 - *A Manual of Ericksonian Hypnotherapy* (مع لانكتون-كوهين، 1988).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Lankton, Stephen R., & Lankton, Carol H. *The Answer Within: A Clinical Framework of Ericksonian Hypnotherapy*. Brunner/Mazel, 1983.
+- Lankton, Stephen R., & Lankton, Carol H. *A Manual of Ericksonian Hypnotherapy*. Brunner/Mazel, 1988.
+- *American Journal of Clinical Hypnosis* — سجل هيئة التحرير، لانكتون رئيساً للتحرير.

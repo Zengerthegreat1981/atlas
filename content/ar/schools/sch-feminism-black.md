@@ -10,14 +10,15 @@ crumb: "الفلسفة ← النسوية ← السوداء"
 dates: "أمريكا، الكاريبي، إفريقيا · من 1970s إلى اليوم"
 country: "الولايات المتحدة، الكاريبي، بريطانيا"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
-- rel: "evolved_from", target: "الفلسفة الأفريقية الما بعد الكولونيالية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-- id: "sch-afrofeminism", title: "النسوية الأفريقية", type: "مدرسة"
+- id: "sch-afrofeminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"
 - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "con-standpoint-epistemology", title: "إبستمولوجيا الموقع (الموقف)", type: "مفهوم"
@@ -59,3 +60,11 @@ gaps:
 
 - تواجه صعوبة في التعميم بسبب تنوع السياقات.
 - تواجه انتقادات من النسويات الأخريات.
+
+## المصادر
+
+- Combahee River Collective. (1977). *The Combahee River Collective Statement*.
+- Hill Collins, P. (1990). *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*. Unwin Hyman.
+- hooks, b. (1981). *Ain't I a Woman: Black Women and Feminism*. South End Press.
+- Lorde, A. (1984). *Sister Outsider: Essays and Speeches*. Crossing Press.
+- Crenshaw, K. (1989). "Demarginalizing the Intersection of Race and Sex." *University of Chicago Legal Forum*, 1989(1), 139-167.

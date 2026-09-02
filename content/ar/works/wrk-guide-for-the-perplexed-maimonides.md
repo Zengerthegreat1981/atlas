@@ -9,15 +9,18 @@ en: "The Guide for the Perplexed (Dalalat al-Ha'irin)"
 crumb: "الفلسفة اليهودية الوسيطة ← أمهات الأعمال ← دلالة الحائرين"
 dates: "الفسطاط (القاهرة) · 1190 م"
 language: "العربية (اليهودية-العربية)"
+author: "موسى بن ميمون (رمبام)"
+author_slug: "thk-maimonides"
+publication_year: 1190
+original_language: "العربية"
 active_start: 1190
 active_end: 1190
 edges:
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
-- id: "thk-maimonides", title: "ابن ميمون", type: "مفكر"
+- id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
 gaps:
   - "ترجمات صموئيل بن تيبون العبرية المعاصرة للمؤلف وتأثيرها على فلاسفة عصر النهضة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # دلالة الحائرين لموسى بن ميمون

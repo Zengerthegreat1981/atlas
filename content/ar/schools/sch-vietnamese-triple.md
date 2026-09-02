@@ -13,8 +13,8 @@ language: "الفيتنامية (chữ Nôm و chữ Hán كلغات تراثي�
 active_start: 200
 active_end: "مستمر"
 active_source: "lifespan"
+cultural_origin: "southeast-asian"
 edges:
-- rel: "belongs_to", target: "الفلسفة الفيتنامية (مظلة)", target_type: "مظلة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
@@ -80,3 +80,10 @@ gaps:
   2. **التوليفة التعايشية (Đồng Tồn)**: Bùi Kỷ (بوي كي) وTrần Hữu Cung، ترى أن التقاليد الثلاثة أصناف مختلفة من ممارسة روحية واحدة.
 - في 1920s-1940s، تبنّى **Phan Bội Châu (فان بوي تشاو)** قراءة نقدية: التوليفة الثلاثية «**جعلتنا قابلين للتعبئة في ظل أي نظام سياسي**» — فبدأ حركة **Duy Tân** (التحديث) بنقد ضمني.
 - في 2010s، أعاد الأكاديميون قراءة التوليفة الثلاثية في إطار «ما بعد الحداثة المحلية» (Local Postmodernism) في أعمال **Trần Hậu** و**Hồ Trọng Hiếu**.
+
+## المصادر
+
+- Taylor, K. W. (2013). *A History of the Vietnamese*. Cambridge University Press.
+- Nguyen, T. T. (2008). *Confucianism in Vietnam: A New Approach*. Vietnam National University Press.
+- Cadière, L. (1958). *Croyances et pratiques religieuses des Việt-namiens*. École Française d'Extrême-Orient.
+- Woodside, A. (1971). *Vietnam and the Chinese Model*. Harvard University Press.

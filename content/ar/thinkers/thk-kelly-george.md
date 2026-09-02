@@ -13,7 +13,7 @@ active_start: 1931
 active_end: 1966
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "سيكولوجيا الأطر الشخصية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-personal-construct-psychology", target_type: "تيار"
 related:
 - id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية", type: "تيار"
 - id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"

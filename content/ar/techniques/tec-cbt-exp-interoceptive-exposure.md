@@ -12,16 +12,17 @@ active_start: 1984
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-flooding", title: "الإغراق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "نسبة التقنية إلى David Barlow وبروتوكول الهلع تستحق توثيقاً."
+  - "لا يوجد في المتن رقم أو مرجع محدد (سنة نشر، حجم عينة) لدراسة أثبتت فعالية التقنية داخل بروتوكول PCT لبارلو — الإشارة إليه في المتن اسمية فقط، فسقط قسم المصادر."
 ---
 
 # التعرض للإحساس الداخلي

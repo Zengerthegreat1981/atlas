@@ -12,8 +12,7 @@ country: "المكسيك، بيرو، غواتيمالا"
 language: "الإسبانية"
 active_start: 1920
 active_end: 1970
-edges:
-- rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
+cultural_origin: "latin-american"
 related:
 - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
 - id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
@@ -53,3 +52,9 @@ gaps:
 
 - تُهمل أحياناً التعددية داخل الهنود أنفسهم.
 - تواجه انتقادات بسبب التعميم.
+
+## المصادر
+
+- José Carlos Mariátegui, *7 Ensayos de Interpretación de la Realidad Peruana* (Lima, 1928).
+- Manuel Gamio, *Forjando Patria* (Mexico City, 1916).
+- José Vasconcelos, *La Raza Cósmica* (Mexico City, 1925).

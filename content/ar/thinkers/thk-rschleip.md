@@ -12,13 +12,12 @@ language: "ألمانية وإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Ulm وMFI لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة/تيار مستقل لـ'الرولفينغ والتكامل الهيكلي' (Rolfing / Structural Integration) في الأطلس؛ سُجّلت المدرسة الغائبة في agents_specs/missing-schools.md بدلاً من ربط اسم حر."
 ---
 
 # روبرت شليب
@@ -44,3 +43,8 @@ gaps:
 
 ## القيد
 - **أبحاث اللفافة** لا تزال في مراحلها المبكرة، وكثير من النتائج تحتاج تكراراً مضبوطاً.
+
+## المصادر
+
+- Schleip, R., Findley, T. W., Chaitow, L., & Huijing, P. A. (Eds.) (2012). *Fascia: The Tensional Network of the Human Body*. Churchill Livingstone/Elsevier.
+- Schleip, R., & Müller, D. G. (2013). "Training Principles for Fascial Connective Tissues: Scientific Foundation and Suggested Practical Applications." *Journal of Bodywork and Movement Therapies*, 17(1), 103–115.

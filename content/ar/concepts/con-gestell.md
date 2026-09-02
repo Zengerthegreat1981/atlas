@@ -13,7 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-philosophy-of-technology", target_type: "مدرسة"
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
-- id: "thk-heidegger-technology", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-heidegger-technology", title: "مارتن هايدجر (كفيلسوف للتكنولوجيا)", type: "مفكر"
+- id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (Die Frage nach der Technik)", type: "عمل"
+- id: "con-alienation-entfremdung-marx", title: "الاغتراب والعمل المستلب (Alienation / Entfremdung)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Vorträge und Aufsätze (1954)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -21,7 +23,7 @@ gaps:
 
 # الإطار (Gestell)
 
-مفهومٌ محوري في فلسفة هايدجر للتكنولوجيا: «الإطار» أو «التأطير» (Enframing) هو **الطريقة** التي تَكشف بها التكنولوجيا الحديثة العالم.
+مفهومٌ محوري في فلسفة هايدجر للتكنولوجيا: «الإطار» أو «التأطير» (Enframing) هو **الطريقة** التي تَكشف بها التكنولوجيا الحديثة العالم. صاغه مارتن هايدجر (`thk-heidegger-technology`) في محاضرته «السؤال حول التقنية» (Die Frage nach der Technik، 1953، منشورة 1954) — ومنها الرابط المباشر بالعمل `wrk-question-concerning-technology` وبمدرسة `sch-philosophy-of-technology` التي أسّس هايدجر تياراً رئيسياً فيها.
 
 ## التمييز النظري
 
@@ -33,4 +35,4 @@ gaps:
 
 - **يَختلف عن «الآلة»** بالمعنى العادي: Gestell طريقة أنطولوجية، لا شيء مادي.
 - **يَختلف عن مفهوم الأداة** (Tool): الأداة تُستعمل لغاية محددة، Gestell يُعيد تَشكيل العالم كله.
-- **يَتقاطع مع «الاستلاب»** (Entfremdung) عند ماركس: كلاهما يَتَحدث عن تَشوّه العلاقة بين الإنسان وعالمه.
+- **يَتقاطع مع «الاستلاب»** (Entfremdung) عند ماركس (`con-alienation-entfremdung-marx`): كلاهما يَصف تَحويل العالم والإنسان إلى مادة قابلة للاستغلال — عند ماركس عبر علاقات الإنتاج الرأسمالية، وعند هايدجر عبر بنية الكشف التقني ذاتها؛ الفرق أن Gestell أنطولوجي (طريقة كشف) بينما الاستلاب عند ماركس اقتصادي-اجتماعي.

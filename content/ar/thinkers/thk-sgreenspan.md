@@ -13,7 +13,7 @@ active_start: 1972
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-dir-floortime", target_type: "مدرسة"
 related:
 - id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
 - id: "thk-fvolkmar", title: "فريد فولكمار", type: "مفكر"
@@ -22,8 +22,7 @@ related:
 - id: "thk-mbauman", title: "مارغريت باومان", type: "مفكر"
 - id: "thk-swieder", title: "سيرينا ويدِر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "sch-dir-floortime ما زال في content/ar/drafts/minimax/schools/ ولم يُرقَّ بعد للمحتوى المعتمد؛ الرابط سيعمل فور الترقية."
 ---
 
 # ستانلي غرينسبان
@@ -49,6 +48,8 @@ gaps:
 - *The Child with Special Needs* (1998، مع ويدر).
 - *Engaging Autism* (2006، مع ويدر).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Greenspan, S.I., Wieder, S. *Engaging Autism: Using the Floortime Approach to Help Children Relate, Communicate, and Think*. Da Capo Press, 2006.
+- Greenspan, S.I. *The Development of the Ego: Implications for Personality Theory, Psychopathology, and the Psychotherapeutic Process*. International Universities Press, 1989.
+- "Stanley Greenspan." Wikipedia (en.wikipedia.org/wiki/Stanley_Greenspan).

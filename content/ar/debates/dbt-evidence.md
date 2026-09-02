@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "occurs_within", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "dbt-school-or-attitude", title: "مدرسة أم موقف", type: "جدل"
-- id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+- id: "dbt-school-or-attitude", title: "مدرسة أم موقف؟", type: "جدل"
+- id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
 - id: "stu-breitbart-mcp-rct", title: "تجربة معشاة لفعالية العلاج المرتكز على المعنى", type: "دراسة وبحث"
 - id: "crt-postmodern-critique", title: "نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي", type: "نقد خارجي موثَّق"
 - id: "crt-research-ethics-historical", title: "نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس", type: "نقد خارجي موثَّق"
@@ -23,8 +23,8 @@ related:
 - id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"
 gaps:
-  - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
-  - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
+  - "اسم التحليل البعدي المشار إليه في فقرة \"الواقعة التي تحسم شيئاً\" غير محدَّد بمؤلف وسنة — يحتاج توثيقاً دقيقاً قبل نشره كواقعة مؤكدة."
+  - "تداخل زاوية محتمل مع dbt-evidence-based-vs-practice-based-evidence ودbt-evidence-based-practice-clinical-decision-making: هذا الملف زاويته مضيَّقة على المدرسة الوجودية تحديداً (بقاء المدرسة داخل الأنظمة الصحية)، لا EBP كمفهوم عام — يحتاج مراجعة بشرية للتأكد من كفاية الفرق."
 ---
 # هل نطلب أدلة تجريبية؟
 

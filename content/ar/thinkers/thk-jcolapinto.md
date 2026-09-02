@@ -13,7 +13,8 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج الأسري البنيوي ← الجيل الثاني ← خورخي كولابينتو"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري البنيوي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-structural-family", target_type: "تيار"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:

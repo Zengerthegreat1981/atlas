@@ -49,3 +49,9 @@ gaps:
 - ديوان (Divan)
 - سفرنامه (Safarnama)
 - خوش نامه / سعد و نامه / دل و دشنامه
+
+## المصادر
+
+- Nasir-i Khusraw. *Safarnama*، ترجمة إنجليزية: W. M. Thackston (2001)، *Naser-e Khosraw's Book of Travels*. Bibliotheca Persica.
+- Hunsberger, A. C. (2000). *Nasir Khusraw, the Ruby of Badakhshan*. I.B. Tauris.
+- Encyclopaedia Iranica، مدخل "Nasir-i Khosrow" (iranicaonline.org).

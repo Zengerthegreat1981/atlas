@@ -7,6 +7,10 @@ level: "متقدم"
 title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)"
 en: "Phenomenology of Spirit (Phänomenologie des Geistes) by G.W.F. Hegel"
 crumb: "الفلسفة المثالية الألمانية ← أمهات الأعمال ← فينومينولوجيا الروح"
+author: "جورج فيلهلم فريدريش هيغل"
+author_slug: "thk-hegel"
+publication_year: 1807
+original_language: "الألمانية"
 active_start: null
 active_end: "مستمر"
 edges:

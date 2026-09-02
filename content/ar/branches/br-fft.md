@@ -12,7 +12,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"

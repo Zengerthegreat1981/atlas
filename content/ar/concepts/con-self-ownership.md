@@ -12,12 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-libertarianism", target_type: "مدرسة"
 related:
-- id: "wrk-fear-of-freedom-1941", title: "الخوف من الحرية (1941)", type: "عمل / كتاب"
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 - id: "sch-libertarianism", title: "الليبرتارية", type: "مدرسة"
 gaps:
   - "النص التأسيسي Anarchy, State, and Utopia (1974) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "اقتباس مباشر من نوزيك أو روتبارد (بنص إنجليزي موثّق بالصفحة) لم يُدرج بعد."
 ---
 
 # الحق الذاتي (ملكية الذات)

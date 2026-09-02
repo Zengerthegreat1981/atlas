@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي / الفجيعة والانتحار", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-johnmcintosh", title: "جون ماكنتوش", type: "مفكر"
 gaps:

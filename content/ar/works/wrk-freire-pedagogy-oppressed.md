@@ -8,8 +8,12 @@ en: "Pedagogy of the Oppressed (Paulo Freire, 1968/1970)"
 crumb: "أطر غير غربية ← الأعمال ← تعليم المضطهدين"
 dates: "1968 (برتغالية) / 1970 (إنجليزية) · باولو فريري"
 language: "البرتغالية (الأصلية)"
+author: "باولو فريري"
+author_slug: "thk-pfreire"
+publication_year: 1968
+original_language: "البرتغالية"
 active_start: 1968
-active_end: 1968
+active_end: 1970
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
@@ -18,7 +22,6 @@ related:
 - id: "con-conscientization-paulo-freire", title: "الوعي النقدي", type: "مفهوم"
 gaps:
   - "ترجمات الكتاب (إنجليزية، إسبانية، عربية) لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تعليم المضطهدين (Pedagogy of the Oppressed)

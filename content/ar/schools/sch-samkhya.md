@@ -12,10 +12,9 @@ country: "شبه القارة الهندية"
 language: "السنسكريتية"
 active_start: -400
 active_end: 1800
-edges:
-- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
+cultural_origin: "indian"
 related:
-- id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
+- id: "sch-yoga", title: "يوغا الفلسفية (باتانجالي)", type: "مدرسة"
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
 - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
 - id: "thk-ishvarakrishna", title: "إشفاراكريشنا", type: "مفكر"
@@ -67,3 +66,9 @@ gaps:
 ## القيد
 
 - خلوّ من الإله الشخصي يجعلها «لاهوتية» (atheistic)، لكن في تقاليد هندوسية، إذ البراهمة يدّرجونها تحت آستيكا.
+
+## المصادر
+
+- Gerald James Larson, *Classical Sāṃkhya: An Interpretation of Its History and Meaning*, Motilal Banarsidass, 1979.
+- Surendranath Dasgupta, *A History of Indian Philosophy*, Vol. 1, Cambridge University Press, 1922.
+- Mircea Eliade, *Yoga: Immortality and Freedom*, Princeton University Press, 1958.

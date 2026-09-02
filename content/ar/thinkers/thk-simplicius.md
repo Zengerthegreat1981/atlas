@@ -15,8 +15,8 @@ active_end: 560
 edges:
 - rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تاريخ ولادته الدقيق (490 م تقريباً) ومكانها غير مؤكدين بدقة في المصادر — قيليقية مرجّحة لا مؤكدة قطعياً."
+  - "لم يُدرَج اقتباس نصّي مباشر لعدم توفر ترجمة عربية موثوقة لمقتطف من شروحه يمكن إسناده بدقة للصفحة والسطر."
 ---
 
 # سمبليكيوس القيليقي
@@ -41,6 +41,9 @@ gaps:
 - شروح على *الطبيعة* و*في السماء* و*المقولات* و*في النفس* (يُشكّ في نسبة الأخير).
 - *شرح مختصر إبكتيتوس*.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Simplicius, *On Aristotle's Physics*, trans. various, Ancient Commentators on Aristotle series, ed. Richard Sorabji, Bloomsbury.
+- Hadot, I., *Le problème du néoplatonisme alexandrin: Hiéroclès et Simplicius* (1978), CNRS.
+- Baltussen, H., *Philosophy and Exegesis in Simplicius: The Methodology of a Commentator* (2008), Duckworth.
+- Simplicius, *Commentary on Epictetus' Handbook*, trans. Charles Brittain & Tad Brennan (2002), Cornell University Press.

@@ -2,41 +2,37 @@
 slug: "thk-saberg-abramovitz"
 id: "THK-1895"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "أَسْترِيد بِرغ وكارول أبراموفيتش"
-en: "D. Abramovitz / A. Berg (SAAJA founders)"
-crumb: "مدرسة التحليل النفسي ← الناس ← أَسْترِيد بِرغ / كارول أبراموفيتش (SAAJA)"
-dates: "جنوب أفريقيا · [غير مؤكد]"
+en: "Astrid Berg / Carol Abramovitz (SAAJA founders)"
+dates: "جنوب أفريقيا"
 country: "جنوب أفريقيا"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+active_start: 1992
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
-- id: "thk-jdavid", title: "جوردان ديفيد", type: "مفكر"
+part: "philosophy"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "حُجر 2026-08-27: لا توجد سيرة ذاتية منشورة لـ'Astrid Berg' أو 'Carol Abramovitz' في IAAP أو SAAJA أو JAP أو PsycINFO حتى آب 2026؛ احتمال خلط مع أشخاص آخرين بنفس الاسم. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 9)."
 ---
 
-# أَسْترِيد بِرغ وكارول أبراموفيتش
+# حُجر
 
-محلّلتان يونغيتان جنوب أفريقيتان، من الجيل المؤسِّس لـ SAAJA (1992) في ديربان.
+**هذا الملف في الحجر.** لا يمكن توثيقه من مصادر أكاديمية رصينة (تم التحقق آب 2026).
 
-## ما أعطاه
+**السبب:** الاسمان المسجَّلان (Astrid Berg / Carol Abramovitz) لا يطابقان شخصيتين أكاديميتين موثّقتين في IAAP أو SAAJA أو JAP أو PsycINFO؛ الملف نفسه كان يعترف بذلك صراحة قبل الحجر ويقترح احتمال لبس مع أشخاص آخرين.
 
-انضمّتا إلى SAAJA بعد زيارة توماس كيرش (1992) — كأوائل الـ13 محللاً قُبلوا في IAAP. أَسْترِيد بِرغ (ديربان) أجرت «تحليلية للهوية الأفريقية» في عيادتها؛ كارول أبراموفيتش (ديربان) أجرت «تحليلية للنساء الزنوج» (Black women) في KwaZulu-Natal. كذلك أشرفتا على تدريب محلّلين أفارقة.
+**النسخة الأصلية** (ما قبل الحجر، 2026-08-27) محفوظة في:
+`agents_specs/quarantine-minimax-archive/thk-saberg-abramovitz.md.archived.2026-08-27`
 
-## موقعه من التيار
+انظر `agents_specs/quarantine-minimax.md` (القسم 9) للتفاصيل.
 
-«مؤسِّسات SAAJA في ديربان»، مع J. David (Cape Town)، J. Anderson، V. Bührmann.
+## للمتابعة
 
-## القيد
-موقعهما في الذاكرة الدولية ضعيف.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## أهم أعماله
+## المصادر
 
-(مقالات في SAAJA، أرشيف).
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 9)
+- طلبات البحث: `agents_specs/requests-minimax.md`

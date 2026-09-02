@@ -10,16 +10,13 @@ crumb: "علم النفس الاجتماعي المعرفي ← البديهيا
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم النفس الاجتماعي المعرفي", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-abandura", target_type: "مفكر"
 related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "axm-observational-learning", title: "التعلم بالملاحظة", type: "بديهية/مبدأ تأسيسي"
-- id: "con-self-efficacy", title: "الفعالية الذاتية", type: "مفهوم"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
+- id: "axm-observational-learning", title: "التعلم بالملاحظة (التعلم الاجتماعي)", type: "بديهية/مبدأ تأسيسي"
+- id: "con-self-efficacy", title: "الكفاءة الذاتية (الذاتية المدركة)", type: "مفهوم"
 gaps:
-  - "التفريق بين الحتمية المتبادلة ونظرية الأنظمة (Bronfenbrenner 1979) اللاحقة يحتاج تحليلاً معمارياً."
+  - "التفريق بين الحتمية المتبادلة ونظرية الأنظمة الإيكولوجية لبرونفنبرينر (1979) اللاحقة يحتاج تحليلاً معمارياً."
   - "تطبيقات المبدأ في التصميم المؤسسي (Organizational Design) لم تُمثَّل بعمق."
 ---
 
@@ -76,3 +73,9 @@ gaps:
 - **صعوبة الفصل** بين تأثير العوامل الثلاثة تجريبياً.
 - **إشكالية الوكالة**: هل الفرد فعلاً "وكيل" أم محدَّد ببيئته؟
 - **التطبيق المُحدود**: النظرية تصف ولا تتنبأ بدقة بسلوكيات محددة.
+
+## المصادر
+
+- Bandura, A. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Prentice-Hall.
+- Bandura, A. (1977). "Self-efficacy: Toward a Unifying Theory of Behavioral Change." *Psychological Review*, 84(2), 191–215.
+- Bandura, A. (1978). "The Self System in Reciprocal Determinism." *American Psychologist*, 33(4), 344–358.

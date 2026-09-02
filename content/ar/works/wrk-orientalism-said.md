@@ -10,7 +10,7 @@ crumb: "الفلسفة ← العابرة ← ما بعد الاستعمار ←
 dates: "1978 · إدوارد سعيد"
 language: "الإنجليزية"
 active_start: 1978
-active_end: 1978
+active_end: 1990
 edges:
 - rel: "belongs_to", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:

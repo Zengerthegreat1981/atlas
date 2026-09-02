@@ -12,30 +12,28 @@ active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "المهام المتدرجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-assertiveness-training", title: "تدريب الحزم", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-abc-please", title: "ABC PLEASE", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-mind-mindfulness-of-current-emotion", title: "التيقّظ للانفعال الحالي", type: "تقنية/تدخل علاجي"
-- id: "tec-mbsr", title: "الحد من الإجهاد باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-mind-mindfulness-of-current-emotion", title: "اليقظة تجاه الانفعال الحالي", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
 - id: "syn-alice-in-wonderland", title: "متلازمة أليس في بلاد العجائب (تشوه إدراك حجم الجسد والمكان)", type: "متلازمة"
 - id: "syn-bebes-enchilados", title: "متلازمة الأطفال الملسوعين في الطب الشعبي المكسيكي", type: "متلازمة"
@@ -62,12 +60,20 @@ related:
 gaps:
   - "الحدود الدقيقة بين اضطراب الأعراض الجسدية والأمراض الطبية الحقيقية تحتاج فحوصات طبية دقيقة."
   - "الجدل حول توسيع التشخيص (لدرجة أن الفرد العادي يمكن أن يستوفي المعايير) لم يُراجع من مصدر أولي مباشر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُدرَج بعد اقتباس نصي مباشر من DSM-5-TR أو ICD-11 لتعريف الاضطراب بلغته الرسمية."
 ---
 
 # اضطراب الأعراض الجسدية
 
 اضطراب يتميّز بأعراض جسدية حقيقية أو مُدرَكة (ألم، إجهاد، خلل وظيفي) مصحوبة بأفكار ومشاعر وسلوكيات مفرطة وغير متناسبة تتعلق بهذه الأعراض، تستمر عادة لأكثر من 6 أشهر.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الأعراض الجسدية كفئة تشخيصية رسمية وبين مفهوم 'الجسد المعيش' (con-lived-body، التفريق الفينومينولوجي بين Leib وKörper) الذي يصف كيف يُختبر الجسد من الداخل بمعزل عن أي حكم مرضي — الأخير مفهوم فلسفي/فينومينولوجي عن بنية الخبرة الجسدية بحد ذاتها، لا فئة تشخيصية؛ اختبار الجسد بكثافة أو انشغال ذاتي به لا يعني بالضرورة استيفاء معايير الاضطراب.
 
 ## ملاحظات على المعايير التشخيصية
 

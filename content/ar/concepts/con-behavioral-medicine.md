@@ -14,8 +14,9 @@ edges:
 related:
 - id: "tec-behavioral-medicine", title: "الطب السلوكي/الصحة السلوكية (تدخل)", type: "تقنية/تدخل علاجي"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
+- id: "con-self-efficacy", title: "الكفاءة الذاتية (الذاتية المدركة)", type: "مفهوم"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التمييز بين «Behavioral Medicine» و «Health Psychology» و «Psychosomatic Medicine» — موضع بحث."
 ---
 

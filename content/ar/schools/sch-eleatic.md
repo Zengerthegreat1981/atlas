@@ -12,8 +12,8 @@ country: "يونان (مستعمرة إيليا، Magna Graecia)"
 language: "اليونانية"
 active_start: -540
 active_end: -440
+cultural_origin: "greek"
 edges:
-- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-academic-skepticism", target_type: "مدرسة"
 related:
@@ -67,3 +67,10 @@ gaps:
 - الانتماء «المدرسي» ليس واضحاً بنفس الدرجة الذي يكون عند الأفلاطونية أو الرواقية: لا تنظيم رسمي معروف.
 - قصيدة بارمنيدس وصلتنا في شذرات يصعب إعادة بناء نسقها الكامل.
 - تصنيف ميليسوس ضمن الإيلية موضع خلاف.
+
+## المصادر
+
+- Diels, H., & Kranz, W. (1951). *Die Fragmente der Vorsokratiker* (6th ed.). Weidmann.
+- Kirk, G. S., Raven, J. E., & Schofield, M. (1983). *The Presocratic Philosophers* (2nd ed.). Cambridge University Press.
+- Barnes, J. (1982). *The Presocratic Philosophers* (Revised ed.). Routledge.
+- Palmer, J. (2009). *Parmenides and Presocratic Philosophy*. Oxford University Press.

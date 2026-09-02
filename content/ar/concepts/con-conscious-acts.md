@@ -14,8 +14,14 @@ edges:
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "con-intentionality-brentano", title: "القصدية عند برنتانو", type: "مفهوم"
-- id: "con-phenomenology", title: "الظاهراتية", type: "مفهوم"
+- id: "thk-john-searle", title: "جون روجرز سيرل", type: "مفكر"
+- id: "thk-jerry-fodor", title: "جيري فودور", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-aryle", title: "جيلبرت ريل", type: "مفكر"
+- id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "con-intentionality-brentano", title: "القصدية (Intentionalität) عند برنتانو", type: "مفهوم"
+- id: "con-phenomenology", title: "الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى", type: "مفهوم"
 gaps:
   - "التمييز بين الأفعال الواعية والظواهر الفيزيولوجية يحتاج أمثلة سريرية."
   - "نسبت الفكرة إلى تراث المدرس الاسمي (Occam) غير مغطاة هنا."

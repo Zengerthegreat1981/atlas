@@ -8,7 +8,7 @@ en: "Henri Ey"
 crumb: "المدرسة الوجودية ← الناس ← هنري إي"
 dates: "فرنسا · 1900–1977"
 active_start: 1948
-active_end: 1973
+active_end: 1977
 country: "فرنسا"
 language: "الفرنسية"
 part: "philosophy"

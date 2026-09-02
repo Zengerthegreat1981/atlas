@@ -15,11 +15,12 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
 related:
-- id: "thk-kcooper", title: "كينيث كوبر", type: "مفكر"
+- id: "thk-kcooper", title: "غلين كوبر", type: "مفكر"
 - id: "thk-rmarvin", title: "روبرت مارفن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الرابط thk-kcooper كان معنوَناً خطأً «كينيث كوبر»؛ الملف المستهدَف عنوانه الفعلي «غلين كوبر» (Glen Cooper)، أحد مؤسِّسي Circle of Security."
 ---
 
 # ليندا كون

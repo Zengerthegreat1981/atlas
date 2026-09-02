@@ -12,15 +12,14 @@ language: "اليابانية"
 active_start: 1919
 active_end: 1938
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "Constructive Living", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-knakamura", title: "كويتشي ناكامورا", type: "مفكر"
 - id: "thk-dreynolds", title: "ديفيد ك. رينولدز", type: "مفكر"
-- id: "thk-tisoma", title: "تاكيشي إيسومه", type: "مفكر"
 gaps:
   - "تفاصيل السيرة الكاملة لم تُراجع من مصادر يابانية أولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "edges.belongs_to أُفرغ: لا يوجد slug مدرسة معتمد لـ'Constructive Living' في شجرة المحتوى."
+  - "رابط thk-tisoma أُزيل من related لأن الملف مُحجَر، تحتاج هويته البديلة المحتملة توثيقاً إضافياً."
 ---
 
 # ماساتاكي موريتا

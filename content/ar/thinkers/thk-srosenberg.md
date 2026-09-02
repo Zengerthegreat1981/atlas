@@ -13,13 +13,13 @@ active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
+- id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا مصدر أولي متاح يحدد سنة ميلاده بدقة."
+  - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
 ---
 
 # ستانلي روزنبرغ
@@ -44,3 +44,7 @@ gaps:
 
 ## القيد
 - **بعض ادعاءاته** بشأن فعالية تمارينه في علاج التوحد (Autism) أثارت جدلاً واسعاً في الحقل، ولم تُدعم بأبحاث مضبوطة كافية.
+
+## المصادر
+- Rosenberg, S. (2017). *Accessing the Healing Power of the Vagus Nerve: Self-Help Exercises for Anxiety, Depression, Trauma, and Autism*. North Atlantic Books.
+- Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. Norton. (النظرية التي بنى عليها روزنبرغ تمارينه.)

@@ -4,7 +4,7 @@ id: "THK-0358"
 type: "مفكر"
 level: "متقدم"
 title: "إدواردو كرابف"
-en: "Eduardo Eduardo Krapf"
+en: "Eduardo Krapf"
 crumb: "المدرسة الوجودية ← الناس ← إدواردو كرابف"
 dates: "الأرجنتين / ألمانيا · 1901–1963"
 active_start: 1935
@@ -12,8 +12,7 @@ active_end: 1963
 country: "الأرجنتين / ألمانيا"
 language: "الألمانية / الإسبانية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الطب النفسي والصحة النفسية العامة", target_type: "مدرسة"
+edges: []
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"

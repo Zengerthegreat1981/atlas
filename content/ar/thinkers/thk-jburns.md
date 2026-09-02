@@ -13,16 +13,15 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "العلاج المعرفي ← التعميم الجماهيري ← ديفيد بيرنز"
 edges:
-- rel: "belongs_to", target: "العلاج المعرفي الكلاسيكي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-jbeck", title: "جوديث بِك", type: "مفكر"
 - id: "wrk-feeling-good", title: "الشعور بالرضا: العلاج الجديد للمزاج", type: "عمل / كتاب"
-- id: "thk-dgreenberger", title: "دِنيز د. ديفيد", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دِنيز د. ديفيد (thk-dgreenberger)."
+  - "رابط أُزيل: كان معنوَناً خطأً 'دِنيز د. ديفيد' بينما thk-dgreenberger يوثّق فعلياً دينيس غرينبرغر (Dennis Greenberger)؛ أُزيل الرابط حتى تُوثَّق الصلة بالاسم الصحيح."
 ---
 
 # ديفيد بيرنز

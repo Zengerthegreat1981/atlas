@@ -9,35 +9,39 @@ crumb: "مدرسة التحليل النفسي ← الناس ← تاتيانا
 dates: "روسيا · [غير مؤكد]"
 country: "روسيا"
 language: "الروسية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-jwiener", title: "جان وينر", type: "مفكر"
-- id: "thk-ccrowther", title: "كاثرين كروثر", type: "مفكر"
-- id: "thk-reshetnikov", title: "ميخائيل ريشيتنيكوف", type: "مفكر"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "السيرة الكاملة (تواريخ الميلاد والوفاة) — موضع بحث."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 1 — عاجل)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-trudakova.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # تاتيانا روداكوفا
 
-محلّلة نفسية روسية، «تدريب-تحليلي» أوّل في National Federation of Psychoanalysis of Russia، ومديرة المشروع الروسي للتحليلية من الجانب الروسي (1998–2010).
+(Tatyana Rudakova)
 
-## ما أعطته
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-trudakova.md.archived.2026-08-26`
 
-أشرفت من «East European Institute of Psychoanalysis» (VEIP) على الجانب الروسي من «Russian Revival Project»، مع وينر وكروثر من الجانب البريطاني. أسّست «المعيار التدريبي» المعترف به من IAAP لروسيا (8 سنوات من التدريب النظري + 200 ساعة ليكن analysis + 150 ساعة supervision + أطروحة). كذلك مثّلت «Russian Society of Analytical Psychology» (RSAP) بعد تأسيسها (2007).
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل وأسباب الحجر.
 
-## موقعها من التيار
+## ملخص
 
-«الجسر الروسي» — أعطت المشروع شكله المؤسسي والداخلي، ضمانة لـ«تكييف» لا «نقل» جامد للتحليلية.
+الاسم في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، ولا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه، رغم أن المتن الأصلي كان يصفها بثقة كمحلِّلة نفسية روسية مرتبطة بمؤسسات دولية (IAAP، VEIP) — وهو نمط التناقض بين ثقة الشكل وشك المحتوى الذي تقتضي القاعدة 11 حسمه بحجر لا بنشر.
 
-## القيد
-موقعها في الأطلس الرسمية أقلّ من أهمية إسهامها الفعلي.
+## للمتابعة
 
-## أهم أعمالها
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-trudakova.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-(مقالات في Russian Psychoanalytic Bulletin, Moscow).
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-trudakova.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

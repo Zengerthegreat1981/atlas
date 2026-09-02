@@ -12,10 +12,9 @@ country: "روما (إيطاليا)، الإسكندرية (مصر)، أثينا
 language: "اليونانية، اللاتينية"
 active_start: -80
 active_end: 250
+cultural_origin: "greek"
 edges:
-- rel: "belongs_to", target: "فلسفة هلنستية-رومانية", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
-- rel: "evolved_into", target: "المسيحية المبكرة", target_type: "مظلة"
 related:
 - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
@@ -92,3 +91,9 @@ gaps:
 - تعرّضت لنقد منطقي: «إذا كنتَ تأخذ من كل مدرسة، فأنت لا تنتمي لأيّ منها، و»موقفك» مجرّد مجموعة مختارة من مواقف لا تربطها رابطة.
 - في المصادر القديمة، «الانتقائي» كان يُقال أحياناً بشكل مهين (المُدلّل الذي لا يلتزم).
 - التمييز بين «الانتقائية» و«المرونة الفلسفية» (philosophical eclecticism) ليس دائماً واضحاً.
+
+## المصادر
+
+- A.A. Long & D.N. Sedley, *The Hellenistic Philosophers* (Cambridge University Press, 1987).
+- John Dillon, *The Middle Platonists, 80 B.C. to A.D. 220* (Cornell University Press, 1977).
+- Cicero, *Academica*؛ *De Finibus*؛ *Tusculan Disputations* (نصوص أصلية).

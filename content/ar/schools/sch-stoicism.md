@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← الرواقية"
 dates: "أثينا (السوق الرخامي) · من نحو 300 ق.م إلى القرن 3 م"
 country: "يونان (أثينا)، روما، الإسكندرية، صور"
 language: "اليونانية، اللاتينية"
+cultural_origin: "greek"
 active_start: -300
 active_end: 250
 edges:
-- rel: "belongs_to", target: "فلسفة هلنستية", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-aristotelianism", target_type: "مدرسة"
 - rel: "absorbed_by", target: "sch-existentialism-religious", target_type: "مظلة"
 related:
@@ -106,3 +106,10 @@ gaps:
 - الخلط بين «الرواق» و«التشاؤم الفلسفي» شائع في الثقافة الشعبية — الرواقيون ليسوا «جاحدين» بل «متقبّلين».
 - «اللامبالاة» (ἀπάθεια) تُقرأ خطأ كـ«عَدَم الإحساس»، في حين المعنى «الحرية من الاضطراب».
 - لمحة «إكستريم» في الرواقية (مثالية لا يمكن تحقيقها) موضع نقاش.
+
+## المصادر
+
+- Diogenes Laërtius, *Lives of Eminent Philosophers*, Book VII (on the Stoics).
+- Marcus Aurelius, *Meditations*; Epictetus, *Discourses* (نصوص أولية).
+- A. A. Long, *Hellenistic Philosophy: Stoics, Epicureans, Sceptics*, University of California Press, 1974.
+- Pierre Hadot, *The Inner Citadel: The Meditations of Marcus Aurelius*, Harvard University Press, 1998.

@@ -14,12 +14,12 @@ language: "الإنجليزية / الألمانية"
 active_start: 1997
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي واليقظة الروحية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-power-of-now", title: "قوة الآن", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـإيكهارت تول في الأدبيات المتاحة."
 ---
 
 # إيكهارت تول
@@ -51,6 +51,3 @@ gaps:
 - *A New Earth: Awakening to Your Life's Purpose* (2005).
 - *Practicing the Power of Now* (2001).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

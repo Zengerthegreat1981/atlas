@@ -16,15 +16,14 @@ edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية (المراهقين والإدمان واضطرابات الأكل)", type: "تقنية/تدخل علاجي"
 - id: "con-biosocial-dbt", title: "النظرية البيولوجية-الاجتماعية في DBT", type: "مفهوم"
 - id: "con-dbt-validation", title: "استراتيجيات الصلاحية (Validation) في DBT", type: "مفهوم"
 - id: "con-dialectical-abstinence", title: "الامتناع الجدلي", type: "مفهوم"
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 - id: "evt-dbt-founding-1990s", title: "تأسيس العلاج الجدلي السلوكي (DBT) في التسعينيات", type: "حدث تاريخي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "سيرة لينهان الشخصية وإعلانها عام 2020 عن تجربتها المعاشة مع اضطراب الشخصية الحدية تستحقان توثيقاً خاصاً — لم يُراجعا بعد من مصدر أولي."
+  - "سيرة لينهان الشخصية وإعلانها عام 2011 عن تجربتها المعاشة مع اضطراب شديد في التنظيم الانفعالي في شبابها تستحقان توثيقاً خاصاً — لم يُراجعا بعد من مصدر أولي محدَّد."
 ---
 # مارشا لينهان
 
@@ -46,3 +45,9 @@ gaps:
 
 - «العلاج المعرفي السلوكي لاضطراب الشخصية الحدية» (Cognitive-Behavioral Treatment of Borderline Personality Disorder, 1993).
 - «مهارات التدريب في العلاج الجدلي السلوكي: التدريب على الوحدات» (DBT Skills Training Handouts and Worksheets, 2015) — وهو المنهج المرجعي لمهارات DBT الأربع.
+
+## المصادر
+
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Linehan, M. M. (2015). *DBT Skills Training Manual* (الطبعة الثانية). Guilford Press.
+- Carey, B. (23 يونيو 2011). "Expert on Mental Illness Reveals Her Own Fight". *The New York Times*.

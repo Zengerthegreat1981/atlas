@@ -13,11 +13,12 @@ active_start: 1980
 active_end: 2015
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج مرتكبي العنف الجنسي (SOTP)", target_type: "تيار"
+- rel: "belongs_to", target: "br-sotp", target_type: "تيار"
 related:
 - id: "br-sotp", title: "علاج مرتكبي العنف الجنسي (SOTP)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
+  - "edges.belongs_to كان نصاً حراً بدل slug حقيقي؛ صُحِّح إلى br-sotp."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 

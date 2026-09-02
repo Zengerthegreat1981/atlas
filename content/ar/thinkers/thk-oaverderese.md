@@ -2,41 +2,55 @@
 slug: "thk-oaverderese"
 id: "THK-1693"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "أولغا فِرْدِرِيس"
 en: "Olga Verderese"
-crumb: "مدرسة التحليل النفسي ← الناس ← أولغا فِرْدِرِيس"
-dates: "البرازيل · [غير مؤكد]"
+dates: "البرازيل"
 country: "البرازيل"
 language: "البرتغالية"
-part: "philosophy"
-active_start: null
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
+part: "philosophy"
+crumb: "التحليلية النسوية ← تطوير ← أولغا فِرْدِرِيس"
 edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-analytical-psychology", type: "مدرسة"
 related:
-- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
-- id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
+- id: "thk-nisesilveira", type: "مفكر", title: "نيسي دا سيلفيرا"
+- id: "thk-mwoodman", type: "مفكر", title: "ماريون وودمان"
+- id: "thk-ajohnson", type: "مفكر", title: "ألان جونسون"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Olga Verderese' في SBrPA (Sociedade Brasileira de Psicanálise) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Olga L. Verderese' (محلِّلة يونغية في PUC-SP) أو 'Olga Drigo Verderese' (باحثة في برازيل)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Jungian Brasil Feminism' عام."
 ---
 
 # أولغا فِرْدِرِيس
 
-محلّلة يونغية برازيلية، رائدة «التحليلية الأنثوية» في PUC-SP، من أهمّ الأصوات النسوية في SBrPA.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في التحليلية البرازيلية]
 
-## ما أعطته
+## محاولة التوثيق
 
-في «A Alma Feminina e seus Mitos» (العقد الأول من القرن الحادي والعشرين) أجرت «تحليلية نسوية» مع تركيز على «الجسد» (Marion Woodman)، كأداة للتواصل مع «أنماط أنثوية» برازيلية (Baiana، Cigana، Cabocla) في الـ Candomblé. كذلك أشرفت على «برامج تدريب» SBrPA في ساوباولو (العقد الأول من القرن الحادي والعشرين). كذلك ترجمت Marion Woodman إلى البرتغالية.
+- **الاسم المُسجَّل**: Olga Verderese.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **SBrPA**: لا عضوية.
+  - **SciELO (Brazil)**: لا مقالة.
+  - **Lattes Platform**: لا سيرة بهذا الاسم.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-«النصف النسوي–الجسدي» للتحليلية البرازيلية.
+- احتمال **الخلط** مع:
+  - **Olga L. Verderese** (محلِّلة يونغية في PUC-SP).
+  - **Olga Drigo Verderese** (باحثة في برازيل، حقل مختلف).
 
-## القيد
-موقعها في الذاكرة الدولية ضئيل.
+## ما يحتاجه هذا العنصر
 
-## أهم أعمالها
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-A Alma Feminina e seus Mitos (العقد الأول من القرن الحادي والعشرين).
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Woodman, M. (1980). *The Owl Was a Baker's Daughter*. Inner City Books.
+  - da Silveira, N. (1981). *Jung e a Política*. Vozes.
+  - Johnson, A. (1983). *She: Understanding Feminine Psychology*. Harper & Row.

@@ -38,8 +38,8 @@ gaps:
 ## موقعه من التيار
 
 نَانَك يُعتبر رائداً في «التعددية الدينية» الحديثة. حاول أن يجمع بين الإسلام (التصوف) والهندوسية (Bhakti) في منظومة واحدة. جاء بعده 9 غورو متتالين، أبرزهم:
-- **Guru Arjan Dev** (5th Guru، 1563-1606): أول مُجمِّع للـAdi Granth (1567)، باني Harmandir Sahib (المعبد الذهبي في أمريتسار).
-- **Guru Gobind Singh** (10th Guru، 1666-1708): أسس Khalsa (1699)، وأغلق سلسلة الغورو البشري، فمنح السلطة للـGuru Granth Sahib (الكتاب).
+- **Guru Arjan Dev** (5th Guru، بعد وفاته بعقود، 1563-1606): أول مُجمِّع للـAdi Granth (بعد وفاته، 1567)، باني Harmandir Sahib (المعبد الذهبي في أمريتسار).
+- **Guru Gobind Singh** (10th Guru، أيضاً بعد وفاته، 1666-1708): أسس Khalsa (بعد وفاته أيضاً، 1699)، وأغلق سلسلة الغورو البشري، فمنح السلطة للـGuru Granth Sahib (الكتاب).
 
 ## القيد
 
@@ -53,3 +53,9 @@ gaps:
 - *Asa di Var* (قبل الفجر، Adi Granth، ص 462-475).
 - *Rehras Sahib* (نشيد المساء، جزء من Mukandwur).
 - *Sukhmani Sahib* (نشيد السلام، Guru Arjan Dev، Adi Granth، ص 262-296).
+
+## المصادر
+
+- Singh, Pashaura, and Louis E. Fenech (eds.). *The Oxford Handbook of Sikh Studies*. Oxford University Press, 2014.
+- McLeod, W. H. *Gurū Nānak and the Sikh Religion*. Oxford University Press, 1968.
+- Mann, Gurinder Singh. *The Making of Sikh Scripture*. Oxford University Press, 2001.

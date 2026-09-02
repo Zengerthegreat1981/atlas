@@ -13,12 +13,11 @@ language: "الفرنسية واللاتينية"
 active_start: 1622
 active_end: 1655
 edges:
-- rel: "belongs_to", target: "الفلسفة الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epicureanism", target_type: "مدرسة"
 related:
 - id: "dia-descartes-gassendi-objections", title: "اعتراضات غاسندي على تأملات ديكارت: صراع المادة والعقل", type: "حوار مع مدرسة مجاورة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد ترجمة عربية لـSyntagma Philosophicum (1658)، نسقه الفلسفي الكامل."
 ---
 
 # بيير غاسندي
@@ -42,8 +41,11 @@ gaps:
 - *Exercitationes paradoxicae adversus Aristoteleos* (1624).
 - *Disquisitio Metaphysica* (1644) — الاعتراضات على ديكارت وردوده.
 - *Animadversiones in decimum librum Diogenis Laertii* (1649) — شرح أبيقور.
-- *Syntagma Philosophicum* (1658، بعد وفاته) — نسقه الكامل.
+- *Syntagma Philosophicum* (نُشر بعد وفاته سنة 1658) — نسقه الكامل.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Gassendi, P., *Disquisitio Metaphysica* (الاعتراضات الخامسة على «تأملات» ديكارت وردوده).
+- Descartes, R., *Meditationes de Prima Philosophia* (يتضمن اعتراضات غاسندي وردود ديكارت عليها).
+- LoLordo, A. (2007). *Pierre Gassendi and the Birth of Early Modern Philosophy*. Cambridge University Press.
+- Osler, M. J. (1994). *Divine Will and the Mechanical Philosophy: Gassendi and Descartes on Contingency and Necessity in the Created World*. Cambridge University Press.

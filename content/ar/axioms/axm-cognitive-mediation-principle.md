@@ -12,12 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "نموذج (A-B-C) عند إليس لم يُشرح بمكوناته الثلاثة تفصيلياً هنا."
 ---
 
 # مبدأ الوساطة المعرفية (تحديد الأفكار للانفعالات)
@@ -35,3 +34,9 @@ gaps:
 ## التطبيقات العلاجية في CBT
 
 يمثل المبدأ الأساس التشغيلي لكل تقنيات إعادة الهيكلة المعرفية، ومراقبة الذات، وتفنيد الأفكار اللاتكيفية، واختبار الأدلة والبدائل العقلانية.
+
+## المصادر
+
+- Ellis, A. (1962). *Reason and Emotion in Psychotherapy*. Lyle Stuart.
+- Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press.
+- Epictetus. *Enchiridion* (القرن الأول الميلادي)، الفقرة الافتتاحية.

@@ -8,15 +8,15 @@ en: "The Diederik Stapel Data Fabrication Scandal and Levelt Committee Report"
 crumb: "المدرسة الوجودية ← الأحداث التاريخية ← فضيحة تزوير دايدريك ستابل 2011"
 active_start: 2011
 active_end: 2012
+event_date: "2011-09"
+event_place: "تيلبورغ، هولندا"
 country: "هولندا"
 part: "psychology"
 related:
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
-- id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
-- id: "evt-founding-of-kyoto-school-1911", title: "صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م)", type: "حدث تاريخي"
 gaps:
   - "دور الباحثين الشباب وطلاب الدكتوراه الذين بلغوا عن التزوير (Whistleblowers) يتطلب توثيقاً"
-  - "التدقيق الإحصائي في مصفوفات البيانات المصطنعة بواسطة ماريل فيتشيرت (Jelte Wicherts) يحتاج مراجعة"
+  - "التدقيق الإحصائي في مصفوفات البيانات المصطنعة بواسطة الباحث الهولندي يلته فيتشيرت (Jelte Wicherts) يحتاج مراجعة"
 ---
 
 # فضيحة تزوير البيانات الأكاديمية لدايدريك ستابل وتقرير لجنة ليفيلت
@@ -33,4 +33,10 @@ gaps:
 
 ## الأثر المؤسسي والتاريخي على الحقل
 
-دقت الفضيحة ناقوس الخطر حول غياب الرقابة على البيانات الخام وتواطؤ دور النشر الساعية وراء الإثارة الإعلامية، وشكلت الشرارة المباشرة لفرض إلزامية إيداع البيانات المفتوحة (Open Data) في كبرى مجلات علم النفس العالمية.
+دقت الفضيحة ناقوس الخطر حول غياب الرقابة على البيانات الخام في علم النفس الاجتماعي التجريبي، وشكلت واحدة من الشرارات المباشرة لحركة إلزامية إيداع البيانات المفتوحة (Open Data) والتسجيل المسبق للدراسات في كبرى مجلات علم النفس العالمية خلال العقد التالي.
+
+## المصادر
+
+- Levelt Committee, Noort Committee, Drenth Committee. *Flawed Science: The Fraudulent Research Practices of Social Psychologist Diederik Stapel*. Joint final report, نوفمبر 2012.
+- Stapel, Diederik. *Ontsporing* (بالهولندية، "الانحراف عن المسار")، مذكرات ستابل، 2012.
+- Bhattacharjee, Yudhijit. "The Mind of a Con Man." *The New York Times Magazine*, 26 أبريل 2013.

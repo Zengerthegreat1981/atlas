@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: 2023
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 - id: "thk-egendlin", title: "يوجين جيندلين", type: "مفكر"
@@ -41,7 +40,3 @@ gaps:
 ## أهم أعمالها
 
 - *The Listening Hand: Self-Healing Through the Rubenfeld Synergy Method of Talk and Touch* (2000).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

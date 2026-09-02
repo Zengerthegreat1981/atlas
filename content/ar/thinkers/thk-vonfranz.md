@@ -20,7 +20,6 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "br-archetypal", title: "علم النفس الأركيتايبي", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "دراساتها في التفسير السيكولوجي للحكايات الخرافية (Fairy Tales) والتزامن والزمن تستحق توثيقاً."
 ---
 
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 تفسير الحكايات الخرافية (The Interpretation of Fairy Tales, 1970) · مشكلة البوير إيترنوس: الطفل الأبدي (The Problem of the Puer Aeternus, 1970) · الأعداد والزمان (Number and Time, 1974) · الخيمياء: مقدمة في الرمزية (Alchemy, 1980).
+
+## المصادر
+
+- von Franz, M.-L. (1970). *An Introduction to the Interpretation of Fairy Tales*. Spring Publications.
+- von Franz, M.-L. (1974). *Number and Time: Reflections Leading Toward a Unification of Depth Psychology and Physics*. Northwestern University Press.
+- von Franz, M.-L. (1980). *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books.

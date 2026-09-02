@@ -8,14 +8,14 @@ en: "Bert Powell"
 crumb: "دائرة الأمان (Circle of Security) ← مؤسس مشارك ← برت باول"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
-language: "إنجليزية"
+language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "دائرة الأمان (Circle of Security)", target_type: "مدرسة"
 related:
-- id: "thk-kcooper", title: "كينيث كوبر", type: "مفكر"
+- id: "thk-kcooper", title: "غلين كوبر", type: "مفكر"
 - id: "thk-rmarvin", title: "روبرت مارفن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثّقة."

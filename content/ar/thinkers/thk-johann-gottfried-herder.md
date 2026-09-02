@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1774
 active_end: 1803
 edges:
-- rel: "belongs_to", target: "الفلسفة الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-romanticism", target_type: "مدرسة"
 related:
 gaps:
   - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."

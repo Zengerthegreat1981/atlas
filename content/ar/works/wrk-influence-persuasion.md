@@ -12,6 +12,10 @@ dates: "1984 · روبرت تشالديني"
 language: "الإنجليزية"
 active_start: 1984
 active_end: 1984
+author: "روبرت تشالديني"
+author_slug: "thk-cialdini"
+publication_year: 1984
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 - rel: "written_by", target: "thk-cialdini", target_type: "مفكر"
@@ -23,7 +27,6 @@ related:
 - id: "stu-langer-mindlessness-copy-machine", title: "دراسة إلين لانغر لآلة النسخ وقوة التبرير الشكلي (1978)", type: "دراسة وبحث"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التأثير: علم نفس الإقناع
@@ -37,7 +40,3 @@ gaps:
 ## الأساس التجريبي وآليات الدفاع
 
 يجمع الكتاب بين التجارب الاجتماعية المحكمة والتطبيقات الميدانية، موضحاً كيف يتعرف الفرد على فخاخ الامتثال النفسي ويتجنبها.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

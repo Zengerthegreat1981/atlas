@@ -12,13 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
-- id: "thk-imartinbaro", title: "إغناثيو مارتين-بارو", type: "مفكر"
-- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
-- id: "con-decolonizing-pedagogy", title: "البيداغوجيا اللااستعمارية", type: "مفهوم"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Martín-Baró, 1986)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "التطبيق في سياقات ما بعد الاستعمار يحتاج فصلاً."
+  - "التطبيق في سياقات ما بعد الاستعمار خارج أمريكا اللاتينية يحتاج فصلاً منفصلاً."
 ---
 
 # الْمِحْوَر الْعَرَضِيّ (Eje Transversal): تَحْوِيل الظُّلْم مَحَوْر مُسْتَمِر

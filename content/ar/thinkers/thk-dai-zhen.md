@@ -14,7 +14,7 @@ active_start: 1750
 active_end: 1777
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "التعلّم الإثباتي (كاوتشنغ)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kaozheng", target_type: "مدرسة"
 related:
 - id: "sch-kaozheng", title: "التعلّم الإثباتي (كاوتشنغ)", type: "مدرسة"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"

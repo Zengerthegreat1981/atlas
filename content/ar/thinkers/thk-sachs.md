@@ -20,7 +20,7 @@ related:
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 gaps:
   - "الفصل الدقيق بين كتابات زاكس المبكرة (تحليل أحلام) وكتاباته المتأخرة (إبداع وثقافة) لم يُوثّق في هذه المسودة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى زاكس بمصدر وسنة."
 ---
 
 # هانس زاكس
@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 اللاوعي المبدع (The Creative Unconscious, 1942).
+
+## المصادر
+
+- Sachs, Hanns. *The Creative Unconscious: Studies in the Psychoanalysis of Art*. Sci-Art Publishers, 1942.
+- Sachs, Hanns. *Freud: Master and Friend*. Harvard University Press, 1944.
+- "Hanns Sachs." موسوعة السيَر — عضوية اللجنة السرية وتأسيس معهد برلين التحليلي (1920).

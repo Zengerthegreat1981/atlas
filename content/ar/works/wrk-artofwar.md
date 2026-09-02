@@ -9,6 +9,10 @@ en: "The Art of War (Sunzi Bingfa)"
 crumb: "الفلسفة ← الصين ← المدرسة العسكرية الصينية ← فن الحرب"
 dates: "الصين · نحو 500 ق.م إلى 400 ق.م (التأليف)"
 language: "الصينية الكلاسيكية"
+author: "سون تزو"
+author_slug: "thk-sunzi"
+publication_year: -500
+original_language: "الصينية الكلاسيكية"
 active_start: -500
 active_end: -400
 active_source: "lifespan"

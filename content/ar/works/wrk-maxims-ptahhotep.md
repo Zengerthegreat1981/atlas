@@ -11,6 +11,10 @@ dates: "مصر القديمة · ق. 2400 ق.م"
 language: "المصرية القديمة"
 active_start: -2400
 active_end: -2400
+author: "بتاح حتب"
+author_slug: "thk-ptahhotep"
+publication_year: -2400
+original_language: "المصرية القديمة"
 edges:
 - rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "con-maat-ethics", title: "ماعت", type: "مفهوم"
 gaps:
   - "تحليل الفروق بين النسخ البردية المحفوظة في العصرين الإقطاعي والدولة الوسطى."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # حكم وتعاليم بتاح حتب

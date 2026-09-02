@@ -13,13 +13,11 @@ edges:
 - rel: "relates_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "con-metatherapeutic-processing-aedp", title: "المعالجة الفوقية في AEDP", type: "مفهوم"
-- id: "con-aedp-emotion", title: "العاطفة في AEDP", type: "مفهوم"
-- id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية/تدخل علاجي"
-- id: "tec-aedp-relational-reflectiveness", title: "الانعكاسية العلائقية (Relational Reflectiveness) في AEDP", type: "تقنية/تدخل علاجي"
+- id: "sch-aedp", title: "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)", type: "مدرسة"
+- id: "con-aedp-emotion", title: "الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ", type: "مفهوم"
+- id: "con-metatherapeutic-processing-aedp", title: "معالجة ما وراء التجربة التحويلية وحالة اللب في AEDP", type: "مفهوم"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Fosha, 2002, 2008)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين transformance وtransformation في التحليل النفسي الكلاسيكي يحتاج فصلاً."
 ---
 
@@ -33,7 +31,7 @@ gaps:
 
 ## فِي الْعِلَاج
 
-(1) **الْفَاز** (Phase) **1: الِاتِّصَال** (Defensive Avoidance): تَجَاوُز «**الْمُقَاوَمة**» (Resistance) — بِنَاء «**اِتِّصَال آمِن**» (Safe Connection). (2) **الْفَاز 2: الِانْخِرَاط** (Engagement): تَجْرِيب «**عَوَاطف تَكَيُّفِيَّة**» (Adaptive Emotions) — مَثَلاً، «**غَضَب صَحِيّ**» (Healthy Anger) لَو حُقّ مَظْلُوم، «**حُزْن صَحِيّ**» (Healthy Grief) لِـ**«**فَقْد**». (3) **الْفَاز 3: التَّحَوُّلية** (Transformance): تَحَوُّل الْهَوِيَّة مِن «**مَرِيض**» (Sick Self) إِلَى «**ذَات صَحِيَّة**» (Healthy Self). (4) **الْفَاز 4: التَّرْسِيخ** (Solidification): تَرْسِيخ التَّحَوُّل.
+(1) **الْفَاز** (Phase) **1: الِاتِّصَال** (Defensive Avoidance): تَجَاوُز «**الْمُقَاوَمة**» (Resistance) — بِنَاء «**اِتِّصَال آمِن**» (Safe Connection). (2) **الْفَاز 2: الِانْخِرَاط** (Engagement): تَجْرِيب «**عَوَاطف تَكَيُّفِيَّة**» (Adaptive Emotions) — مَثَلاً، «**غَضَب صَحِيّ**» (Healthy Anger) لَو حُقّ مَظْلُوم، «**حُزْن صَحِيّ**» (Healthy Grief) لِـ**«**فَقْد**». (3) **الْفَاز 3: التَّحَوُّلية** (Transformance): تَحَوُّل الْهَوِيَّة مِن «**مَرِيض**» (Sick Self) إِلَى «**ذَات صَحِيَّة**» (Healthy Self). (4) **الْفَاز 4: التَّرْسِيخ** (Solidification): تَرْسِيخ التَّحَوُّل عَبْر «**مُعَالَجَة مَا وَرَاء التَّجْرِبَة**» (Metatherapeutic Processing) وَالْوُصُول لِـ«**حَالَة اللُّبّ**» (Core State).
 
 ## نَقْد
 

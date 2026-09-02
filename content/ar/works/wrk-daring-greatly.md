@@ -12,6 +12,10 @@ language: "الإنجليزية"
 active_start: 2012
 active_end: 2012
 part: "psychology"
+author: "برينيه براون"
+author_slug: "thk-brene-brown"
+publication_year: 2012
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-brene-brown", target_type: "مفكر"

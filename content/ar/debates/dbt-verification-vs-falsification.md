@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 related:
 - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
-- id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
+- id: "sch-phil-science", title: "فلسفة العلم (كمظلة)", type: "مدرسة"
 - id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
   - "المواقف التفصيلية لأعضاء حلقة فيينا من كتاب بوبر 1934 لم تُراجع من رسائلهم."
@@ -66,3 +66,10 @@ gaps:
 ## القيد
 
 الخلط بين موقف بوبر من «معيار التمييز» (Demarcation) وموقفه من «منهج العلم» (Method) شائع في المراجع الثانوية ويستحق تدقيقاً.
+
+## المصادر
+
+- Karl Popper, *Logik der Forschung*, 1934 (ترجمة إنجليزية: *The Logic of Scientific Discovery*, 1959).
+- Rudolf Carnap, "Testability and Meaning", *Philosophy of Science*, 1936–1937.
+- Thomas Kuhn, *The Structure of Scientific Revolutions*, University of Chicago Press, 1962.
+- Imre Lakatos, "Falsification and the Methodology of Scientific Research Programmes", 1970.

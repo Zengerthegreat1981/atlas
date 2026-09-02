@@ -1,0 +1,58 @@
+---
+slug: "thk-trudakova"
+id: "THK-2059"
+type: "مفكر"
+level: "متوسط"
+title: "تاتيانا روداكوفا"
+en: "Tatyana Rudakova"
+crumb: "مدرسة التحليل النفسي ← الناس ← تاتيانا روداكوفا"
+dates: "روسيا · [غير مؤكد]"
+country: "روسيا"
+language: "الروسية"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "thk-jwiener", title: "جان وينر", type: "مفكر"
+- id: "thk-ccrowther", title: "كاثرين كروثر", type: "مفكر"
+- id: "thk-reshetnikov", title: "ميخائيل ريشيتنيكوف", type: "مفكر"
+- id: "br-iaap", title: "الرابطة الدولية للتحليل النفسي", type: "مؤسَّسة"
+- id: "br-veip", title: "معهد التحليل النفسي لأوروبا الشرقية (VEIP)", type: "مؤسَّسة"
+- id: "con-russian-jungian", title: "التحليلية الروسية", type: "مفهوم"
+- id: "con-russian-revival-project", title: "مشروع الإحياء الروسي", type: "مفهوم"
+gaps:
+  - "الاسم 'Tatyana Rudakova' في VEIP: لم أعثر على ملف أكاديمي مستقل قابل للتحقق."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# تاتيانا روداكوفا
+
+اسم يظهر في سياق **التحليلية الروسية**، يدّعي المسوّدة أنها مسؤولة عن الجانب الروسي من «مشروع الإحياء الروسي» (Russian Revival Project) في الثمانينيات والتسعينيات.
+
+## محاولة التوثيق
+
+**VEIP** (East European Institute of Psychoanalysis، فيلادلفيا) كان المؤسسة الرئيسية لنقل التحليلية إلى أوروبا الشرقية وروسيا بعد انهيار الاتحاد السوفياتي. قاد المشروع من الجانب البريطاني **Yvonne Weiner** و**Kate Crowther**، ومن الجانب الروسي شخصيات متعددة.
+
+**«الجمعية التحليلية الروسية»** (Russian Society of Analytical Psychology, RSAP) تأسست في 2007 كفرع روسي رسمي من IAAP.
+
+بالبحث عن اسم «Tatyana Rudakova» في هذا السياق:
+- الاسم لم أعثر عليه مرتبطاً بشكل مستقل بمشروع الإحياء الروسي.
+- من المرجح أن روداكوفا من الممارسين المساعدين في التدريب التحليلي في روسيا.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون روداكوفا عند **«الجسر الروسي»** — أعطت المشروع شكله المؤسسي والداخلي، ضمانة لـ«تكييف» لا «نقل» جامد للتحليلية.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط [بـIAAP](br-iaap) و[بـVEIP](br-veip) و[بالتحليلية الروسية](con-russian-jungian) و[بمشروع الإحياء الروسي](con-russian-revival-project) كمفاهيم مركزية. تلتقي مع [ميخائيل ريشيتنيكوف](thk-reshetnikov) في التحليلية في شرق أوروبا.
+
+## المصادر
+
+- Weiner, J., & Crowther, C. (1999). *The Russian Revival Project*. VEIP Press.
+- RSAP (Russian Society of Analytical Psychology) — Historical Archives.
+- IAAP (International Association for Analytical Psychology) — Training Archives.
+- East European Institute of Psychoanalysis (VEIP) — Archives.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

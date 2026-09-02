@@ -15,8 +15,7 @@ active_end: 1274
 edges:
 - rel: "belongs_to", target: "sch-akbari", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد ترجمة عربية حديثة محقّقة لمجمل مراسلاته مع نصير الدين الطوسي في نسخة واحدة."
 ---
 
 # صدر الدين محمد بن إسحاق القونوي
@@ -42,6 +41,8 @@ gaps:
 - *النصوص* و*الفكوك*.
 - *المراسلات* مع نصير الدين الطوسي.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- القونوي، صدر الدين. *مفتاح الغيب*، تحقيق محمد خواجوي.
+- Chittick, W. C. (1981). "The Last Will and Testament of Ibn 'Arabi's Foremost Disciple, Sadr al-Din al-Qunawi." *Sophia Perennis*, 6.
+- Todd, R. (2014). *The Sufi Doctrine of Man: Ṣadr al-Dīn al-Qūnawī's Metaphysical Anthropology*. Brill.

@@ -13,7 +13,7 @@ language: "الإنجليزية"
 register: "academic"
 evidence_level: "well-established"
 active_start: 1975
-active_end: 2000
+active_end: 2004
 edges:
 - rel: "belongs_to", target: "sch-eft", target_type: "مدرسة"
 related:

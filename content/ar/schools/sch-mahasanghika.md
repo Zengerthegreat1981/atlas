@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← الماهاسامغيكا"
 dates: "الهند · من القرن 3 ق.م إلى القرن 4 م"
 country: "الهند (ماغادا)"
 language: "السنسكريتية"
+cultural_origin: "indian"
 active_start: -200
 active_end: 400
 edges:
@@ -56,3 +57,9 @@ gaps:
 ## القيد
 
 - النصوص الأصلية مفقودة، والتوصيف يعتمد على نقد الخصوم.
+
+## المصادر
+
+- Warder, A. K. *Indian Buddhism* (1970).
+- Bareau, André. *Les sectes bouddhiques du Petit Véhicule* (1955).
+- Nattier, Jan and Prebish, Charles S. "Mahāsāṃghika Origins: The Beginnings of Buddhist Sectarianism", *History of Religions* (1977).

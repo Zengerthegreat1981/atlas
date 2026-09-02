@@ -12,8 +12,7 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: 1985
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وتطوير القيادة", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
 gaps:

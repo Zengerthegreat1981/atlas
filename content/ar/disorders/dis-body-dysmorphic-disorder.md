@@ -12,14 +12,11 @@ active_start: 1987
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-exp-in-vivo-exposure-with-response-prevention", title: "التعرض الحي مع منع الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
@@ -29,17 +26,17 @@ related:
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبّل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "syn-obsessive-thoughts", title: "الأفكار الوسواسية", type: "متلازمة"
 - id: "syn-biid", title: "متلازمة اضطراب سلامة الهوية الجسدية (Xenomelia / BIID)", type: "متلازمة"
 - id: "syn-quasimodo", title: "متلازمة كواسيمودو التاريخية لتشوه الجسد", type: "متلازمة"
-- id: "syn-taijin-kyofusho", title: "متلازمة تايجين كيوفوشو (رهاب إحراج الآخرين وإزعاجهم في الثقافة اليابانية)", type: "متلازمة"
+- id: "dis-taijin-kyofusho", title: "تاي جين كيو فوشو (Taijin Kyofusho)", type: "متلازمة"
+- id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تعريف BDD لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "معدّلات الانتشار الحقيقية في السياقات العربية منخفضة التشخيص."
   - "فعالية التدخلات الجراحية التجميلية كعلاج مساعد لـBDD مثيرة للجدل، تحتاج مراجعة معمّقة."
 ---
@@ -61,6 +58,14 @@ ICD-11 يصنّف BDD تحت 6B21، مع تأكيد على الانشغال ال
 - **التجنّب**: تجنّب المرايا، الصور، الأماكن العامة، اللقاءات الاجتماعية.
 - **البحث عن العلاجات التجميلية**: محاولات متكررة للجراحة التجميلية، علاجات جلدية، وغيرها — غالباً بنتائج غير مُرضية.
 - **الضائقة الوظيفية**: عزلة اجتماعية، اكتئاب، تدنّي جودة الحياة، ارتفاع خطر الانتحار.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية'، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. ما ورد أعلاه من مراحل معالجة وأدوية هو خلاصة أدبيات عامة، لا بديل عن تقييم إكلينيكي مباشر من مختص.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين BDD كفئة تشخيصية وبين 'الجسد المعيش' (con-lived-body) كما تناوله هوسرل ومرلو-بونتي — التمييز الفينومينولوجي بين Leib (الجسد كما يُعاش ويُختبَر من الداخل) وKörper (الجسد كموضوع فيزيائي يُنظر إليه من الخارج). BDD اضطراب سريري ينشأ من انشغال قهري بعيب مُتخيَّل أو مبالغ فيه في الجسد-كموضوع (Körper) يسبب ضائقة وظيفية موثّقة بمعايير تشخيصية، بينما 'الجسد المعيش' مفهوم فلسفي وصفي عن بنية التجربة الإنسانية للجسد لا يحمل أي حكم مرضي، وليس أداة لتفسير أو تشخيص BDD.
 
 ## المعالجة الإكلينيكية التدريجية
 

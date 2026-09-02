@@ -9,12 +9,16 @@ en: "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"
 crumb: "علم النفس المعرفي ← الأعمال ← الجسم يحتفظ بالندم"
 dates: "2014 · بيسيل فان دير كولك"
 language: "الإنجليزية"
+author: "بيسيل فان دير كولك"
+author_slug: "thk-besselvanderkolk"
+publication_year: 2014
+original_language: "الإنجليزية"
 active_start: 2014
 active_end: 2014
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "بيسيل فان دير كولك", target_type: "مفكر"
+- rel: "authored_by", target: "thk-besselvanderkolk", target_type: "مفكر"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:

@@ -15,7 +15,7 @@ related:
 - id: "thk-helmholtz", title: "هرمان فون هلمهولتز", type: "مفكر"
 - id: "thk-fechner", title: "غوستاف فيخنر", type: "مفكر"
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
-- id: "con-embodied-perception-merleau-ponty", title: "الإدراك المتجسد عند ميرلوبونتي", type: "مفهوم"
+- id: "con-embodied-perception-merleau-ponty", title: "الإدراك المتجسد والجسد المعاش (Embodied Perception)", type: "مفهوم"
 gaps:
   - "التفاصيل التقنية للتجارب المعاصرة على الاستدلال اللاواعي محدودة التوثيق هنا."
   - "نسبت الفكرة إلى الإغريق (أبقراط، أفلاطون) مذكورة بإيجاز فقط."

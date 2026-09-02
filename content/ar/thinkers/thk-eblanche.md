@@ -13,7 +13,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التكامل الحسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
 - id: "con-sensory-integration", title: "التكامل الحسي (نظرية عيرز)", type: "مفهوم"
 - id: "br-sensory-integration", title: "التكامل الحسي", type: "تيار"

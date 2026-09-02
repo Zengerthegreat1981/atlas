@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
 related:
 - id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"

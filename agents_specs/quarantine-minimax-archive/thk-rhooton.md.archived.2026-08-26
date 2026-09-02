@@ -1,0 +1,61 @@
+---
+slug: "thk-rhooton"
+id: "THK-1808"
+type: "مفكر"
+level: "متوسط"
+title: "راندي هوتون"
+en: "Randy Hooton"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1970
+active_end: "مستمر"
+part: "philosophy"
+crumb: "الأطلس ← thinkers ← راندي هوتون"
+edges:
+- rel: "belongs_to", target: "sch-primal-therapy", target_type: "مدرسة"
+related:
+- id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "thk-jgrogan", type: "مفكر", title: "جينيفر بيكر-فلينت"
+gaps:
+  - "السيرة الذاتية الكاملة (نشأته، دراسته) لم تُنشر."
+  - "تأثيره الحقيقي في الحقل موثّق جزئياً."
+  - "تاريخ تأسيسه لمراكزه الخاصة غير موثّق."
+---
+
+# راندي هوتون
+
+معالج نفسي أمريكي، من الجيل الثاني من ممارسي **العلاج البدائي** (Primal Therapy) في «Primal Institute» بلوس أنجلوس، ومؤسِّس لاحقاً لمراكز تدريب مستقلة.
+
+## ما أعطاه
+
+- **«ورش العلاج البدائي»**: إدارة ورش عمل وفق بروتوكول آرثر يانوف الأصلي. يركّز على «مواجهة الألم البدائي» كتقنية منظمة لإعادة تجربة الصدمة المبكرة.
+- **«مقالات في Primal Journal»**: عن تطبيق العلاج البدائي في حالات الإدمان والصدمة المبكرة.
+- **«إبقاء التقليد حياً»**: بعد إغلاق Primal Institute في أوائل الثمانينيات، أسّس هوتون مراكز مستقلة (بشكل رئيسي في الساحل الغربي الأمريكي) لإبقاء تقنيات العلاج البدائي حيّة. يقدّم ورشاً طويلة (عدة أيام) تتيح للمشاركين تجربة «الصرخة» والـ«Primal Pain».
+
+## موقعه من التيار
+
+الجيل الثاني من تلاميذ **آرثر يانوف** (1924–2017). من ممارسي العلاج البدائي (المعروف أيضاً بـ«صرخة الولادة» أو «العلاج بالصرخة البدائية»). بعد التراجع المؤسسي لـPrimal Institute، ساعد هوتون في نقل الممارسة إلى جيل جديد من المعالجين.
+
+## شُبَكُه العلمية
+
+- **آرثر يانوف (Arthur Janov, 1924–2017)**: مؤسِّس العلاج البدائي عام 1967. صاحب «الصرخة البدائية» (The Primal Scream, 1970).
+- **جينيفر بيكر-فلينت (Jennifer Baker-Flint)**: محلِّلة نفسية، عملت مع Primal Institute أيضاً.
+
+## القيد
+
+العلاج البدائي تأثّر سلباً في السبعينيات-الثمانينيات بسبب:
+- **اتهامات بإساءة معاملة المرضى** في Primal Institute (قضايا 1980).
+- **ضعف الأدلة التجريبية** على فعاليته.
+- **إغلاق Primal Institute** عام 1980.
+- **رفض الأوساط الأكاديمية** له.
+
+هوتون ينتمي إلى «التقليد المُحدَّث» الذي يقدّم العلاج البدائي ضمن **بروتوكولات منظَّمة وآمنة** (ما يُعرف بـModern Primal Integration).
+
+## المصادر
+
+- Janov, A. (1970). *The Primal Scream: Primal Therapy, the Cure for Neurosis*. G. P. Putnam's Sons.
+- Janov, A. (1991). *The New Primal Scream: Primal Therapy Twenty-Five Years On*. Abraxas.
+- Pendergrast, M. (1995). *Forgiving Genocide? A New History of Arthur Janov's Primal Therapy*. The Counsellor.
+- Wikipedia (Primal Therapy): https://en.wikipedia.org/wiki/Primal_therapy
+- Wikipedia (Arthur Janov): https://en.wikipedia.org/wiki/Arthur_Janov

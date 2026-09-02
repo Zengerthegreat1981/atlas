@@ -11,22 +11,25 @@ dates: "1970 · ويلفريد بيون"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1970
-active_end: 1970
+active_end: 1994
+author: "ويلفريد بيون"
+author_slug: "thk-bion"
+publication_year: 1970
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-- id: "thk-fairbairn", title: "رونالد فايربيرن", type: "مفكر"
+- id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-- id: "thk-lacan", title: "جاك لكان", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "con-transference", title: "التحويل المقابل", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعرّف الإسقاطي (con-projective-identification)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: السماع العلاجي (con-listening)"
   - "الترجمة العربية لكتاب «Attention and Interpretation» لم تُنشر في طبعة عربية رسمية موثّقة؛ هذا الملف يعتمد على المصطلحات العربية المنتشرة في الأدبيات الأكاديمية المتخصصة."
   - "التمييز بين مفهومَي «السماع» (Hearing) و«الاستماع» (Listening) في إطار بيون يحتاج ضبطاً منهجياً خاصاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)
 

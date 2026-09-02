@@ -13,13 +13,12 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفة النفسية ونقد الإنتاجية السامة", target_type: "مدرسة"
+edges: []
 related:
-- id: "wrk-four-thousand-weeks", title: "أربعة آلاف أسبوع", type: "عمل / كتاب"
+- id: "wrk-four-thousand-weeks", title: "أربعة آلاف أسبوع: إدارة الوقت للفانين", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد في الأطلس حالياً مدرسة موثّقة باسم «الفلسفة النفسية ونقد الإنتاجية السامة» ليُربَط بها؛ سُجِّلت كمدرسة غائبة محتملة في agents_specs/missing-schools.md بدل اختراع slug لها."
+  - "بيانات السيرة الذاتية الكاملة (تاريخ العمل بالغارديان بالتحديد، وتفاصيل مسيرته الصحفية قبل 2010) تحتاج مراجعة بيبلوغرافية إضافية."
 ---
 
 # أوليفر بوركمان
@@ -45,6 +44,8 @@ gaps:
 - *Meditations for Mortals* (2024).
 - عمود *This Column Will Change Your Life* في الغارديان.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Burkeman, O. (2021). *Four Thousand Weeks: Time Management for Mortals*. Farrar, Straus and Giroux.
+- Burkeman, O. (2012). *The Antidote: Happiness for People Who Can't Stand Positive Thinking*. Faber & Faber.
+- عمود "This Column Will Change Your Life" — صحيفة *The Guardian*.

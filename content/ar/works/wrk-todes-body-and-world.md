@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-todes", title: "صموئيل توديس", type: "مفكر"
-- id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-dreyfus", title: "هوبيرت دريفوس", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«الجسد» (con-body) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

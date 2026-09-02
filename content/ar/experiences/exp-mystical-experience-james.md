@@ -16,19 +16,15 @@ related:
 - id: "exp-numinous-otto", title: "التجربة العددية (Numinous) عند رودولف أوتو: المَهيب المُتَعالي", type: "خبرة معيشة"
 - id: "exp-conversion-experience", title: "التجربة التَّحَوُّلية (Conversion Experience): تَحوُّل داخلي مفاجئ", type: "خبرة معيشة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "wrk-varieties-of-religious-experience-james", title: "تنوعات الخبرة الدينية لويليام جيمس", type: "عمل"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: والتير ستايس (thk-stace)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الوعي (con-consciousness)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: التجربة الدينية (con-religious-experience)"
-- "الفرق بين التجربة الصوفية (Mystical) والتجربة الدينية (Religious) عند جيمس يحتاج توثيقاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفصل في 'The Varieties of Religious Experience' (1902) بين التجربة الفورية والمؤسسية يحتاج دراسة مستفيضة."
-- "التطبيقات في علم النفس عبر الثقافي (Hood، Spilka) وفي الطب النفسي الصوفي تحتاج فصلاً."
+  - "لا يوجد مدخل مستقل لوالتر ستايس (Walter Stace) في الأطلس بعد؛ تصنيفه Introvertive/Extrovertive (Mysticism and Philosophy، 1960) مذكور هنا استطراداً فقط."
+  - "محاضرات جيفورد (Gifford Lectures) التي أُلقيت فيها مادة الكتاب بجامعة إدنبرة بين 1901-1902 تحتاج توثيقاً منفصلاً كحدث."
 ---
 
 # التجربة الصوفية عند وليم جيمس: خصائصها الأربع
 
-في *The Varieties of Religious Experience* (1902)، اقترح وليم جيمس أن التجارب «الصوفية» (Mystical) — على تَنوعها — تَتشارك في **أربع خصائص** أساسية. هذا الوصف مَهم لأنه أَزال «**معيار الحقيقة**» من تَقييم التجربة الدينية، مَركِزاً على «**الواقع المُعاش**» (Lived Reality) فقط.
+في محاضرات جيفورد (Gifford Lectures) التي ألقاها في جامعة إدنبرة بين 1901 و1902، ثم نشرها في كتاب *The Varieties of Religious Experience* (1902)، اقترح وليم جيمس أن التجارب «الصوفية» (Mystical) — على تَنوعها — تَتشارك في **أربع خصائص** أساسية، عرضها في المحاضرتين السادسة عشرة والسابعة عشرة من الكتاب. هذا الوصف مَهم لأنه أَزال «**معيار الحقيقة**» من تَقييم التجربة الدينية، مَركِزاً على «**الواقع المُعاش**» (Lived Reality) فقط، وهو ما يوثقه مدخل *تنوعات الخبرة الدينية لويليام جيمس* (wrk-varieties-of-religious-experience-james) بتفصيل أوسع لبنية الكتاب.
 
 ## الخصائص الأربع
 
@@ -37,6 +33,12 @@ gaps:
 ## العلاقة بعلم النفس المعاصر
 
 جيمس أرسى تَقليداً كاملاً في علم النفس الديني (Psychology of Religion) — تَابعه ستانلي هول، جوردون أَلْبورت، وأنطوني فيدلر. والتر ستايس (Walter Stace) أضاف تصنيفاً أكثر دقة: التجربة الصوفية قد تكون **داخلية** (Introvertive، اتِّحاد مع مَبدأ داخلي) أو **خارجية** (Extrovertive، اتِّحاد مع العالم عبر الحواس). دراسات رالف هود (Ralph Hood) لَمَّحت إلى أن 30-40% من البالغين في أمريكا الشمالية يَختبرون نوعاً من التجربة الصوفية مرة على الأقل في حياتهم.
+
+## المصادر
+
+- James, William. *The Varieties of Religious Experience: A Study in Human Nature*. Longmans, Green & Co., 1902.
+- Stace, Walter T. *Mysticism and Philosophy*. Macmillan, 1960.
+- Hood, Ralph W. Jr. "The Construction and Preliminary Validation of a Measure of Reported Mystical Experience." *Journal for the Scientific Study of Religion*, 1975.
 
 ## الأثر في الطب النفسي
 

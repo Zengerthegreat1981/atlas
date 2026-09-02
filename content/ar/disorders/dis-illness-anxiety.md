@@ -12,10 +12,8 @@ active_start: 2013
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
@@ -23,24 +21,23 @@ related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحيّرات المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-graded-task-assignment", title: "المهام المتدرجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "تهدئة الذات بالحواس الخمس", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-check-the-facts", title: "تحقّق من الحقائق", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-mind-willing-hands", title: "الأيدي المستعدة", type: "تقنية/تدخل علاجي"
-- id: "tec-mbsr", title: "الحد من الإجهاد باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-mind-willing-hands", title: "اليدين المتقبّلتين", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
   - "التمييز بين قلق المرض واضطراب الأعراض الجسدية قد يكون غير واضح في الأدبيات."
   - "معدّل الانتشار الحقيقي قلق عليه جدل واسع (التشخيص المفرط وارد)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # قلق المرض
@@ -173,6 +170,14 @@ ICD-11 يصنّف قلق المرض تحت 6C20.2 ضمن اضطرابات الأ
 - الإفراط في التشخيص وارد — يجب التحقق من المعايير بدقة.
 - في بعض الحالات، يكون قلق المريض استجابة واقعية لمشكلة صحية فعلية أُغفلت.
 - التحوّل من "قلق المرض" إلى "اضطراب الأعراض الجسدية" ممكن إذا ظهرت أعراض جسدية.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'اضطراب/حالة إكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية (DSM-5-TR / ICD-11) معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. الفحص الطبي الشامل قبل أي تصنيف نفسي مسؤولية الطبيب المعالج لا هذا النص.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين قلق المرض كاضطراب سريري وبين التمييز الفينومينولوجي بين Körper وLeib (`con-lived-body`) كما طرحه هوسرل وطوّره مرلو-بونتي: قلق المرض انشغال قهري مفرط بالجسد بوصفه Körper — موضوعاً طبياً يُفحص ويُقاس ويُخشى أن يحمل مرضاً خفياً — بينما Leib عند هؤلاء المفكرين هو الجسد المعيش من الداخل، خبرة أوّلية سابقة على أي فحص طبي. المفهوم الفلسفي يوصّف بنية الخبرة الجسدية بعامة، ولا يفسّر لماذا يتحول انشغال بعض الأفراد بجسدهم إلى قلق مرضي مزمن يستدعي علاجاً.
 
 ## مرجع
 

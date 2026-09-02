@@ -8,18 +8,21 @@ en: "Studie über die Minderwertigkeit von Organen"
 crumb: "علم النفس الفردي ← الأعمال ← دراسة في قصور الأعضاء"
 dates: "1907 · ألفريد أدلر"
 active_start: 1907
-active_end: 1907
+active_end: 1920
 language: "الألمانية"
 part: "psychology"
+author: "ألفريد أدلر"
+author_slug: "thk-adler"
+publication_year: 1907
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
-- rel: "authored_by", target: "ألفريد أدلر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-adler", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب كان أوّل عمل مستقل لأدلر، قبل انفصاله الرسمي عن فرويد في 1911 — التحقق من تطوّر المفاهيم بين هذه النسخة والإصدارات اللاحقة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Adler في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # دراسة في قصور الأعضاء

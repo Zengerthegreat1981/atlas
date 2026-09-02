@@ -17,8 +17,7 @@ edges:
 related:
 - id: "con-bodhicitta", title: "البُوذِيتَسَّا (Bodhicitta): ذِهْن الْيَقَظَة", type: "مفهوم"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تفاصيل سيرته الشخصية (نسبه الدقيق، ظروف رهبنته في نالاندا) شبه أسطورية ولا يمكن التحقق منها تاريخياً بدقة."
 ---
 
 # شانتيديفا
@@ -45,3 +44,9 @@ gaps:
 ## اقتباسات مختارة
 
 «أين لي بجلدٍ يغطّي الأرض كلها؟ يكفي جلدُ نعلي — فتُغطّى الأرض كلها.» (الدخول في سلوك البوديساتفا، 5)
+
+## المصادر
+
+- Shantideva, *Bodhicaryāvatāra* (trans. Kate Crosby & Andrew Skilton, 1995). Oxford University Press.
+- Williams, P. (1998). *Altruism and Reality: Studies in the Philosophy of the Bodhicaryāvatāra*. Curzon Press.
+- Goodman, C. (2009). *Consequences of Compassion*. Oxford University Press.

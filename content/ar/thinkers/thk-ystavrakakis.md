@@ -20,7 +20,6 @@ related:
 - id: "thk-sljizek", title: "سلافوي جيجك", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # يانيس ستافراكاكيس
@@ -29,7 +28,7 @@ gaps:
 
 ## ما أعطاه
 
-كتب «اليسار اللاكاني: التحليل النفسي، النظرية، السياسة» (The Lacanian Left: Psychoanalysis, Theory, Politics, 2007)، وهو الكتاب الذي حدّد «حقل» اليسار اللاكاني لأول مرة: وهي تيارات فكرية تستخدم Lacan في السياسة، مثل Žižek (Lacanian Marxism)، Badiou (Lacanian Ethics)، Laclau و Mouffe (Lacanian Discourse Analysis). كتابه «عودة اللذّة» (The Return of the People, 2021) يطبّق Lacan على صعود الشعبوية (Populism) في القرن الحادي والعشرين.
+كتب «اليسار اللاكاني: التحليل النفسي، النظرية، السياسة» (The Lacanian Left: Psychoanalysis, Theory, Politics, 2007)، وهو الكتاب الذي حدّد «حقل» اليسار اللاكاني لأول مرة: وهي تيارات فكرية تستخدم Lacan في السياسة، مثل Žižek (Lacanian Marxism)، Badiou (Lacanian Ethics)، Laclau و Mouffe (Lacanian Discourse Analysis). كتابه «عودة الشعب» (The Return of the People: Populism and Anti-Populism, 2021) يطبّق مفاهيم لاكانية على صعود الشعبوية (Populism) في القرن الحادي والعشرين.
 
 ## موقعه من التيار
 
@@ -40,4 +39,10 @@ gaps:
 
 ## أهم أعماله
 
-«اليسار اللاكاني» (The Lacanian Left, 2007) · «عودة الناس» (The Return of the People, 2021) · «حدود الهيمنة» (The Lacanian Left: Essays on Psychoanalysis and Politics, 2007).
+«اليسار اللاكاني» (The Lacanian Left, 2007) · «عودة الشعب» (The Return of the People, 2021).
+
+## المصادر
+
+- Stavrakakis, Yannis. *The Lacanian Left: Psychoanalysis, Theory, Politics*. Edinburgh University Press / State University of New York Press, 2007.
+- Stavrakakis, Yannis. *The Return of the People: Populism and Anti-Populism*. Edinburgh University Press, 2021.
+- Aristotle University of Thessaloniki, School of Political Sciences، صفحة السيرة الأكاديمية الرسمية ليانيس ستافراكاكيس.

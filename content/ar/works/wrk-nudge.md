@@ -10,16 +10,18 @@ en: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
 crumb: "الاقتصاد السلوكي والسياسات العامة ← الأعمال ← سقزة"
 dates: "2008 · ريتشارد ثالر وكاس سنستين"
 language: "الإنجليزية"
+author: "ريتشارد ثالر وكاس سنستين"
+author_slug: "thk-rkthaler"
+publication_year: 2008
+original_language: "الإنجليزية"
 active_start: 2008
 active_end: 2008
 edges:
-- rel: "belongs_to", target: "الاقتصاد السلوكي والسياسات العامة", target_type: "مدرسة"
 - rel: "written_by", target: "thk-rkthaler", target_type: "مفكر"
 related:
 - id: "thk-rkthaler", title: "ريتشارد هـ. ثالر", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # سقزة: تحسين القرارات المتعلقة بالصحة والثروة والسعادة
@@ -33,7 +35,3 @@ gaps:
 ## تأسيس وحدات السلوك الحكومية (Nudge Units)
 
 إنشاء فرق تطبيقية في بريطانيا والولايات المتحدة لإصلاح الخدمات العامة اعتماداً على علم النفس السلوكي.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

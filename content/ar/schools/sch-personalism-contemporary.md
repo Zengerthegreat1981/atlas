@@ -12,15 +12,15 @@ country: "فرنسا، إيطاليا، الولايات المتحدة"
 language: "الفرنسية، الإيطالية، الإنجليزية"
 active_start: 1937
 active_end: "مستمر"
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
-- rel: "evolved_from", target: "الشخصانية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-personalism", target_type: "مدرسة"
 related:
 - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
 - id: "sch-personalism", title: "الفلسفة الشخصية (الشخصانية المبكرة)", type: "مدرسة"
 gaps:
   - "حدود 'الشخصانية المعاصرة' (مقابل الشخصانية السابقة) لم تُحصر بدقة في المراجع الفلسفية."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع الفلسفة الحوارية (Buber، Levinas، Rosenzweig) تحتاج ربطًا منفصلاً."
 ---
 
@@ -98,3 +98,10 @@ gaps:
 - **اتهام «**الإيمانوية**»**: التمييز بين «الشخص» و«الفرد» يبدو **لاهوتيًا** أكثر من **فلسفي**.
 - **اتهام «**تغييب البُنى**»**: تحليل الشخصية **يهمل** الصراع الطبقي، الهيمنة، الاستعمار.
 - **مشكلة الأنا**: ما هي **الشخص** في عصر «**التفكّك الذاتي**» (ما بعد الحداثة)؟
+
+## المصادر
+
+- Emmanuel Mounier, *Le Personnalisme*, Presses Universitaires de France, 1949.
+- Emmanuel Levinas, *Totalité et Infini*, Martinus Nijhoff, 1961.
+- Martin Buber, *Ich und Du*, Insel Verlag, 1923.
+- Nicolas Berdyaev, *Le destin de l'homme*, 1931.

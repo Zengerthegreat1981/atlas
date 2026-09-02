@@ -10,15 +10,16 @@ crumb: "علم النفس ← المدارس العلاجية المعاصرة �
 dates: "الولايات المتحدة · من 1990s إلى اليوم"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1990
 active_end: "مستمر"
 register: "clinical"
 evidence_level: "probably-efficacious"
 edges:
-- rel: "belongs_to", target: "sch-trauma-focused", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "developed_by", target: "richard-schwartz", target_type: "مفكر"
+- rel: "developed_by", target: "thk-richard-schwartz", target_type: "مفكر"
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز (IFS)", type: "مفكر"
 - id: "wrk-internal-family-systems-1995", title: "أنظمة الأسرة الداخلية (1995)", type: "عمل / كتاب"
@@ -107,7 +108,7 @@ gaps:
 - **القلق والاكتئاب**.
 - **النمو الشخصي والعلاقات**.
 
-## المرجع الأساسي
+## المصادر
 
 - Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford Press.
 - Schwartz, R. C. (2001). *Introduction to the Internal Family Systems Model*. IFS Institute.

@@ -12,8 +12,11 @@ dates: "2011 · كريستين نيف"
 language: "الإنجليزية"
 active_start: 2011
 active_end: 2011
+author: "كريستين نيف"
+author_slug: "thk-kristin-neff"
+publication_year: 2011
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الإنمائي والمعرفي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-kristin-neff", target_type: "مفكر"
 related:
 - id: "ins-self-compassion-scale", title: "مقياس التعاطف مع الذات لـ نيف (SCS)", type: "أداة قياس"
@@ -21,7 +24,6 @@ related:
 - id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التعاطف مع الذات: القوة المثبتة لمعاملة نفسك بلطف
@@ -35,7 +37,3 @@ gaps:
 ## التمييز عن تدليل الذات والنرجسية
 
 إثبات أن معاملة النفس برأفة تزيد من تحمل المسؤولية والمرونة النفسية والدافعية للتعلم من الأخطاء.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

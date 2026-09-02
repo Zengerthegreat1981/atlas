@@ -15,9 +15,8 @@ related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-- id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 gaps:
-  - "هذا ملف رفيع (thin entry) — يحتاج توسعة لإضافة ثغرات معرفية موثّقة."
   - "لا توجد مراجعة شاملة من المصدر الأولي بعد."
 ---
 

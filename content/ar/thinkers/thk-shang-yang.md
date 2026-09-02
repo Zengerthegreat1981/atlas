@@ -49,3 +49,8 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Shang Jun Shu* (商君书، «كتاب أمير شانغ»، 26 فصلاً، يُنسَب جزئياً لشانغ يانغ وجزئياً لتلاميذه).
+
+## المصادر
+
+- Duyvendak, J. J. L. (ترجمة، 1928). *The Book of Lord Shang: A Classic of the Chinese School of Law*. Arthur Probsthain.
+- Pines, Y. (ترجمة، 2017). *The Book of Lord Shang: Apologetics of State Power in Early China*. Columbia University Press.

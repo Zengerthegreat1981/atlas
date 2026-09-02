@@ -10,20 +10,15 @@ crumb: "علم النفس الإكلينيكي ← جدل التشخيص ← HiT
 active_start: 2017
 active_end: "مستمر"
 related:
-- id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
-- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
-- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-categorical-vs-dimensional-diagnosis", title: "التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية", type: "جدل"
-- id: "dbt-categorical-vs-hitop-dimensional", title: "النموذج الفئوي DSM مقابل النموذج الأبعادي الهرمي (HiTOP)", type: "جدل"
+- id: "dbt-categorical-vs-hitop-dimensional", title: "DSM الفئوي مقابل HiTOP: بنية التشخيص الهرمية-الإحصائية", type: "جدل"
 gaps:
-  - "نموذج كوتوف (Kotov) وأركب (Achenbach) و HiTOP Consortium بحاجة لتوثيق عربي معمّق"
-  - "مقارنة انتقادات هيلمر (Helmchen) و لانجر (Langer) لنموذج HiTOP مفقودة"
-  - "مفهوم Internalizing-Externalizing Spectrum غير مفهرس بعمق"
+  - "أرقام تفسير التباين الدقيقة (% variance explained) لِـ HiTOP مقابل DSM-5-TR بحاجة لمراجعة مباشرة من ورقة Kotov et al. 2017/2020 الأصلية بدل الاعتماد على ملخصات ثانوية"
+  - "دراسات تنبّؤ HiTOP باستجابة العلاج (مثل ما نُسب سابقاً لِـ Bauer & Moessner 2020) لم تُتحقق مصدرياً وحُذفت من المتن لعدم التأكد من دقة العزو"
+  - "مقارنة انتقادات آلان فرانسيس (Allen Frances) لِـ HiTOP موثّقة بالفعل في dbt-categorical-vs-hitop-dimensional لا هنا"
 ---
 
 # جِدَل نَمُوذَج HiTOP الْأَبْعَادِيّ ضِدّ DSM-5-TR الْفَئَوِيّ: أَيُّهُمَا أَكْثَر فَائِدَة سَرِيرِيَّة؟
@@ -68,15 +63,16 @@ gaps:
 
 ## الْأَدِلَّة الْحَدِيثَة
 
-(1) **دِرَاسَة كُوتُوف وَآرِكِب** (Kotov et al., 2020): HiTOP يُفَسِّر تَبَايُن 50-70% مِنَ الْأَعْرَاض النَّفْسِيَّة، أَكْثَر مِنْ DSM-5-TR (30-40%). (2) **دِرَاسَة بِيتْر** (Bauer & Moessner, 2020): HiTOP أَفْضَل فِي تَوَقُّع اسْتِجَابَة لِـ**عِلَاج**، مُدَّة اِضْطِرَاب، مُسْتَوَى وَظِيفِيّ. (3) **دِرَاسَة كَلِيلَانْد** (Cleveland Clinic) لِـ**HiTOP** فِي عِيَادَة طِفْل: أَكْثَر فَائِدَة مِنْ DSM-5-TR.
+**دِرَاسَة التَّأْسِيس** (Kotov, Krueger, Watson et al., 2017، *Journal of Abnormal Psychology*): 200+ باحث بنَوا الهرم الإحصائي عبر تحليل عوامل (Factor Analysis) لعشرات الاضطرابات، وأظهروا أن «الْاِنْسِجَام الدَّاخِلِيّ» (Internalizing) و«التَّوَجُّه الْخَارِجِيّ» (Externalizing) طيفان مُستمرّان لا فئتان منفصلتان. وسّعوا النموذج عام 2020 بإضافة مستوى «Super-Spectrum» أعلى (اضطراب عام p-factor).
 
 ## الْمَوَاقِف الْمُعَاصِرَة
 
-- **رُوبِرت كُوتُوف** (Robert Kotov): رَائِد HiTOP، يَقُول إنَّ HiTOP لَا يَسْتَبْدِل DSM بَلْ يُكَمِّله.
-- **توماس إنسل** (Thomas Insel, NIMH): يَقُول: «**DSM لَمْ يُفِد**» (DSM Has Been Disappointing) — دَعَا لِـ**RDoC** (Research Domain Criteria) وَمُقَارَبَات أَبْعَادِيّة.
-- **ديفيد كِسْكِت** (David Kupfer, APA Chair DSM-5): دَافَع عَنِ الِاِسْتِمْرَارِيَّة.
-- **دانيال ريجِر** (Daniel Regier، APA): DSM-5-TR «**مُتَطَوِّر**» (Evolving) وَأَقَلّ تَشَخُّصًا مُتَقَطِّعًا.
-- **بِنجامين لَيبِت** (مُتَقَاعِد): «**الْاِضْطِرَابات الْمُشْتَرَكَة**» تَطْلُب أَبْعَاد.
+- **رُوبِرت كُوتُوف** (Robert Kotov، Stony Brook University): رَائِد HiTOP وأحد مُؤَلِّفِي وَرَقَة التَّأْسِيس 2017، يَقُول إنَّ HiTOP لَا يَسْتَبْدِل DSM بَلْ يُكَمِّله.
+- **توماس إنسل** (Thomas Insel, NIMH): فِي تَدْوِينَته الشَّهِيرَة *Transforming Diagnosis* (نيسان/أبريل 2013) أَعْلَن أَنَّ NIMH سَيُعِيد تَوْجِيه تَمْوِيل الْبَحْث بَعِيدًا عَنْ فِئَات DSM نَحْو **RDoC** (Research Domain Criteria)، وَاصِفًا فِئَات DSM بِأَنَّهَا تَفْتَقِر لِـ**صَوَاب** (Validity) رَغْمَ اِتِّسَاقِهَا (Reliability).
+- **دَاڤِيد كُبْفَر** (David Kupfer، رَئِيس فَرِيق عَمَل DSM-5): رَدَّ عَلَى بَيَان إِنْسِل بِتَصْرِيح رَسْمِيّ لِـAPA (2013) دَافَع فِيهِ عَنِ اِسْتِمْرَارِيَّة الْفِئَات كَـ«**أَفْضَل أَدَاة مُتَاحَة حَالِيًّا**» لِلْعِيَادَة، مُقِرًّا بِأَنَّ الْبَحْث الْأَبْعَادِيّ لَا يَزَال بَعِيدًا عَنِ التَّطْبِيق الْإِكْلِينِيكِيّ.
+- **دانيال ريجِر** (Daniel Regier، نَائِب رَئِيس فَرِيق عَمَل DSM-5، APA): دَافَع عَنْ DSM-5 بِوَصْفِه «**نِظَامًا هَجِينًا**» يُدْمِج مَقَايِيس شِدَّة أَبْعَادِيَّة (Severity Scales) دَاخِل الْفِئَات القَائِمَة.
+
+هَذَا الْجَدَل صِيَاغَة سَرِيرِيَّة مُتَخَصِّصَة (فَائِدَة الْعِيَادَة تَحْدِيدًا) لِـ**جَدَل التَّصْنِيف الْفَئَوِيّ مُقَابِل الْأَبْعَادِيّ** الْأَعَمّ (`dbt-categorical-vs-dimensional-diagnosis`)، وَيَتَقَاطَع مُبَاشَرَة مَعَ الْمُقَارَنَة الْبِنْيَوِيَّة-الْإِحْصَائِيَّة بَيْن DSM وHiTOP (`dbt-categorical-vs-hitop-dimensional`) الَّتِي تُوَثِّق نَقْد آلان فرانسيس (Allen Frances) وَتَفَاصِيل وَرَقَة كُوتُوف 2017 بِعُمْق أَكْبَر.
 
 ## نَقْد الْجَدَل
 
@@ -93,3 +89,10 @@ gaps:
 ## الْأَهَمِّيَّة لِـ**الطِّبّ النَّفْسِيّ الْعَرَبِيّ**
 
 (1) **الْاِسْتِخْدَام الرَّسْمِيّ**: DSM-5-TR وَ ICD-11 مُسَيْطِرَان (مَعَ التَّرْجَمَات الْعَرَبِيَّة). (2) **الْبَحْث**: مَرَاكِز الْبَحْث فِي الْبُلْدَان الْعَرَبِيَّة مُتَأَخِّرَة فِي تَطْبِيق HiTOP. (3) **الْاِحْتِيَاج**: تَدْرِيب، تَرْجَمَة، تَوْثِيق.
+
+## المصادر
+
+- Kotov, R., Krueger, R. F., Watson, D., et al. (2017). "The Hierarchical Taxonomy of Psychopathology (HiTOP): A Dimensional Alternative to Traditional Nosologies." *Journal of Abnormal Psychology*, 126(4), 454–477.
+- American Psychiatric Association (2022). *Diagnostic and Statistical Manual of Mental Disorders*, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: APA.
+- Insel, T. (2013). "Transforming Diagnosis." *NIMH Director's Blog*, April 29, 2013.
+- Kotov, R., et al. (2020). "The Hierarchical Taxonomy of Psychopathology (HiTOP): A Quantitative Nosology Based on Consensus of Evidence." *Annual Review of Clinical Psychology*, 17.

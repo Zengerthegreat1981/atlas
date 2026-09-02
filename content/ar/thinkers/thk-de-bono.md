@@ -13,13 +13,16 @@ part: "psychology"
 active_start: 1967
 active_end: 2021
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتفكير الجانبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
-- id: "thk-csikszentmihalyi", title: "ميهالي تشيكسنتميهالي", type: "مفكر"
+- id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "con-creative-block", title: "الانسداد الإبداعي", type: "مفهوم"
+- id: "wrk-six-thinking-hats", title: "قبعات التفكير الست", type: "عمل / كتاب"
+- id: "con-six-thinking-hats", title: "قبعات التفكير الست", type: "مفهوم"
+- id: "stu-duncker-candle-problem", title: "تجربة كارل دونكر لمشكلة الشمعة والجمود الوظيفي (1945)", type: "دراسة وبحث"
 gaps:
   - "كتبه 'The Mechanism of Mind' (1969) لم تُترجم كاملة إلى العربية."
   - "علاقته بـ'Edward Thorndike' وعلم النفس التعليمي في الستينيّات لم تُوثَّق."
@@ -58,6 +61,10 @@ gaps:
 - *Water Logic* (1993).
 - *The CoRT Thinking Program* (4 vols., الثمانينيات من القرن العشرين).
 - *Edward de Bono's Textbook of Wisdom* (1996).
+
+## القيد
+
+حظي دي بونو بانتشار عالمي واسع في التدريب المؤسسي والمدرسي (قبعات التفكير الست وCoRT)، لكن أدواته لم تخضع لبرنامج تحقّق تجريبي منهجي يوازي انتشارها، وظلّت الأدلة على أثرها في نواتج التفكير محدودة ومتفرّقة.
 
 ## اقتباسات مختارة
 

@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاج القصير كعائلة مستقلة", target_type: "مدرسة"
 related:
 - id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"
 - id: "thk-wdryden", title: "ويندي دريدن", type: "مفكر"

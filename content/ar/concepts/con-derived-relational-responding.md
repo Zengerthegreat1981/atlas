@@ -13,10 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "con-relational-frame-theory", title: "نظرية إطار العلاقات (RFT)", type: "مفهوم"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "النقاش الفلسفي حول «القدرة اللغوية الفريدة البشرية» مقابل «الاستمرارية مع الرئيسات» — موضع بحث."
+  - "لا يوجد ملف مفكر لسيدمان وتيلبي (Sidman & Tailby، 1982) رغم أن تجربتهما التأسيسية مذكورة في المتن."
 ---
 
 # الاستجابة العلائقية المشتقة

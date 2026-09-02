@@ -12,13 +12,13 @@ language: "إنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "PREP (برنامج تعزيز العلاقة والوقاية)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا مصدر أولي متاح يحدد سنة ميلادها بدقة."
+  - "لا اقتباس مباشر منسوب لها بمصدر ورقم صفحة تم التحقق منه."
+  - "مدرسة PREP (Prevention and Relationship Enhancement Program) لا يوجد لها ملف `sch-` في الأطلس بعد — سُجّلت في agents_specs/missing-schools.md."
 ---
 
 # غايلينا رودس
@@ -44,3 +44,6 @@ gaps:
 
 ## القيد
 - **"Cohabitation Effect"** تعرض لانتقادات منهجية في الأدبيات الحديثة، مع تعقيد الصورة الأولية.
+
+## المصادر
+- Stanley, S. M., Rhoades, G. K., & Markman, H. J. (2006). "Sliding versus deciding: Inertia and the premarital cohabitation effect." *Family Relations*, 55(4), 499–509.

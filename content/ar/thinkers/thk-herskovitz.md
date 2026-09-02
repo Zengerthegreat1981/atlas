@@ -9,8 +9,8 @@ crumb: "مدرسة التحليل النفسي ← الناس ← مورتن ه�
 dates: "أمريكا · 1918–2014"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1950
 active_end: 2014
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"

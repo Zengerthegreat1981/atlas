@@ -13,12 +13,11 @@ active_start: 1952
 active_end: 1985
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "مدرسة"
 related:
 - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Yale لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ثيودور ليدز
@@ -44,3 +43,9 @@ gaps:
 
 ## القيد
 - **مفهوم Schism/Skew** أُعيد تقييمه في الأدبيات اللاحقة، وأصبح يُقرأ كوصف لا كسبب.
+
+## المصادر
+
+- Lidz, T., & Fleck, S., & Cornelison, A. R. (1965). *Schizophrenia and the Family*. New York: International Universities Press.
+- Lidz, T. (1980). *The Origin and Treatment of Schizophrenic Disorders*. New York: Basic Books.
+- Lidz, T., Cornelison, A., Fleck, S., & Terry, D. (1957). The intrafamilial environment of schizophrenic patients: Marital schism and marital skew. *American Journal of Psychiatry*, 114(3), 241–248.

@@ -13,14 +13,18 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "ستولورو، أتوود، أورانج", target_type: "مفكر"
 related:
 - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
 - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"
-- id: "thk-dorange", title: "دومينيك أَورَنج", type: "مفكر"
+- id: "thk-dorange", title: "دونا م. أورانج", type: "مفكر"
+- id: "br-intersubjective-psychoanalysis", title: "النظرية البين-ذاتية في التحليل النفسي", type: "تيار"
+- id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
+- id: "br-self-psychology", title: "علم نفس الذات", type: "تيار"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 gaps:
   - "تأثير الفلسفة الظاهراتية (Husserl, Heidegger) على Stolorow و Atwood يحتاج عرضاً أكاديمياً دقيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر منسوب لستولورو وأتوود وأورانج يمكن توثيقه بدقة."
 ---
 
 # البين-ذاتية (Intersubjectivity)
@@ -39,7 +43,7 @@ gaps:
 
 ## موقعه من المدرسة
 
-مفهوم مؤسِّس للنظرية البين-ذاتية، حلقة وصل بين Kohut (Self Psychology) والفلسفة الظاهراتية (Husserl, Heidegger, Merleau-Ponty). أسّس Stolorow «المدرسة البين-ذاتية» عام 1983، ثم توسّع مع Atwood و Orange.
+مفهوم مؤسِّس للنظرية البين-ذاتية في التحليل النفسي، حلقة وصل بين علم نفس الذات عند Kohut والفلسفة الظاهراتية (Husserl, Heidegger, Merleau-Ponty). أسّس Stolorow «المدرسة البين-ذاتية» عام 1983، ثم توسّع مع Atwood و Orange.
 
 ## القيد
 مفهوم «البين-ذاتية» غامض أحياناً، ويُستخدم بشكل فضفاض في الأدبيات. الإدراج هنا للنسخة «الضيّقة» التحليلية-الظاهراتية، لا للاستخدام اليومي.

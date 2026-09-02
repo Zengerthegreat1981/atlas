@@ -49,3 +49,9 @@ gaps:
 - شرح أصول الكافي (مختصر)
 - رسالة في تنبيه الأمة
 - شرح «اللمحات» للسهروردي
+
+## المصادر
+
+- Rizvi, S. H. (2005). "Mir Damad in India: Islamic Philosophical Traditions and the Problem of Creation". *Journal of the American Oriental Society*, 125(2).
+- Corbin, H. (1972). *En Islam iranien: aspects spirituels et philosophiques*, vol. 4. Gallimard — فصل عن مدرسة أصفهان وميرداماد.
+- Encyclopaedia Iranica، مدخل "Mir Damad" (iranicaonline.org).

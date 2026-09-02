@@ -9,6 +9,7 @@ en: "Professional/Academic African Philosophy"
 crumb: "الفلسفة ← الأفريقية ← المهنية/الأكاديمية"
 dates: "أفريقيا · من 1970s إلى اليوم"
 country: "أفريقيا (نيجيريا، غانا، كينيا، السنغال)"
+cultural_origin: "african"
 language: "الإنجليزية، الفرنسية"
 active_start: 1970
 active_end: "مستمر"
@@ -58,3 +59,10 @@ gaps:
 
 - تواجه انتقادات من قبل الإثنوفلسفة (تُمجَّع).
 - تواجه انتقادات من الما بعد الكولونياليين (مستمرة في المنطق الغربي).
+
+## المصادر
+
+- Hountondji, Paulin J. *African Philosophy: Myth and Reality*. Trans. Henri Evans. Bloomington: Indiana University Press, 1983 (الأصل الفرنسي 1976).
+- Wiredu, Kwasi. *Philosophy and an African Culture*. Cambridge: Cambridge University Press, 1980.
+- Bodunrin, Peter O. "The Question of African Philosophy." *Philosophy*, vol. 56, no. 216, 1981, pp. 161-179.
+- Hallen, Barry, and J. Olubi Sodipo. *Knowledge, Belief, and Witchcraft: Analytic Experiments in African Philosophy*. London: Ethnographica, 1986.

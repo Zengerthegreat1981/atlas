@@ -23,7 +23,7 @@ related:
 - id: "con-phenomenology", title: "الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى", type: "مفهوم"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-roman-ingarden", title: "رومان إنغاردن (ظاهراتي الأدب والجمال)", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "ترجمة أعماله إلى العربية متأخرة جداً (مترجمة في العقد 2010s)."
   - "مفهوم 'الخبرة الجمالية الكاملة' عنده (Plein épanouissement) موضع خلاف بين النقاد."
@@ -78,3 +78,9 @@ gaps:
 - *Art et politique* (الفن والسياسة، 1974، معاصر للحرب الجزائرية).
 - *Esthétique et philosophie* (جماليات وفلسفة، 3 مجلدات، 1967-1981، مختارات).
 - *Lettres à un jeune ami* (رسائل إلى صديق شاب، الثمانينيات من القرن العشرين، سيرة فلسفية).
+
+## المصادر
+
+- Dufrenne, M. (1953). *Phénoménologie de l'expérience esthétique* (مجلدان). Presses Universitaires de France.
+- Dufrenne, M. (1959). *La notion d'a priori*. Presses Universitaires de France.
+- Dufrenne, M. (1965). *L'Homme et la nature*. Librairie Hachette.

@@ -2,48 +2,44 @@
 slug: "thk-ttshishiku"
 id: "THK-2069"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "تِمُوتي تشيشيكو"
 en: "T.G. Tshishiku"
-crumb: "علم نفس الأوبونتو (Ubuntu) ← علم النفس المسيحي الإفريقي ← تي. جي. تشيشيكو"
-dates: "الكونغو الديمقراطية · القرن العشرين–"
+crumb: "الأطلس ← thinkers ← تِمُوتي تشيشيكو"
+dates: "الكونغو الديمقراطية · [غير مؤكد]"
 country: "الكونغو الديمقراطية"
 language: "الفرنسية/اللينغالا"
-active_start: 1990
-active_end: 2010
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم نفس الأوبونتو", target_type: "مدرسة"
-related:
-- id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"
-- id: "thk-amncube", title: "ألبرت مْنكوبِي", type: "مفكر"
-- id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
-- id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
-- id: "thk-mtutufurth", title: "مافو توتو فان فورث", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "التفاصيل الشخصية لم تُوثّق بشكل مستقل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مافو توتو فان فورث (thk-mtutufurth)."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم T.G. Tshishiku في جامعة كينشاسا أو Psychopathologie africaine أو PsycINFO. احتمال خلط مع Tshisungu wa Tshibangu أو Tshikala B. Tshikala. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-ttshishiku.md.archived.2026-08-27"
 ---
 
 # تِمُوتي تشيشيكو
 
-عالم نفس كنغولي، يُعدّ من أهم من طوّر علم النفس في السياق الفرنكوفوني الإفريقي. عمل في جامعة كينشاسا، واشتُهر بدمج علم النفس التحليلي بالتقاليد الإفريقية.
+(T.G. Tshishiku)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-ttshishiku.md.archived.2026-08-27`
 
-- **"علم النفس في إفريقيا الفرنكوفونية"**: إطار لتطبيق علم النفس في السياق الكنغولي.
-- **"العلاج الجماعي في إفريقيا"**: تقنيات علاجية جماعية مستوحاة من الأوبونتو.
-- **"النفس والجماعة"**: دراسات عن المفاهيم الإفريقية للنفس في علاقتها بالجماعة.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-يقف تشيشيكو عند تقاطع علم النفس الأوروبي والموروث الإفريقي، وهو ما يُضيف بُعداً فرنكوفونياً لعلم نفس الأوبونتو.
+لم يُعثر على أي أثر مستقل لشخص بهذا الاسم في سجلات جامعة كينشاسا أو مجلة Psychopathologie africaine أو PsycINFO. المحتوى الأصلي كان يعترف صراحة في متنه بعدم وجود توثيق، مع اقتراح احتمال خلط مع شخصين آخرين — وهو النمط الذي تقتضي القاعدة 11 حسمه بحجر لا بنشر سيرة واثقة الشكل.
 
-## أهم أعماله
+## للمتابعة
 
-- مقالات في *Psychopathologie africaine*.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-ttshishiku.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-ttshishiku.md.archived.2026-08-27`

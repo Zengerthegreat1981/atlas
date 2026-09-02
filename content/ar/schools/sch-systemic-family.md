@@ -12,24 +12,18 @@ country: "الولايات المتحدة (واشنطن، شيكاغو، ماد�
 language: "الإنجليزية، الإيطالية"
 active_start: 1952
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
-- rel: "evolved_from", target: "النظرية العامة للأنظمة (Bertalanffy)", target_type: "مدرسة"
-- rel: "evolved_from", target: "السايبرنتيكا (Wiener، Bateson)", target_type: "تيار"
 - rel: "split_into", target: "tec-structural-family-therapy", target_type: "تيار"
 - rel: "split_into", target: "tec-strategic-family-therapy", target_type: "تيار"
 - rel: "split_into", target: "br-bowen-systems", target_type: "تيار"
-- rel: "split_into", target: "النموذج التجريبي (Whitaker)", target_type: "تيار"
-- rel: "split_into", target: "النموذج الاستراتيجي لميلان", target_type: "تيار"
-- rel: "split_into", target: "العلاج المتمركز حول الأسرة (Satir)", target_type: "تيار"
-- rel: "split_into", target: "العلاج بعلاج الزوجي المرتكز على الانفعال (EFT)", target_type: "تيار"
-- rel: "split_into", target: "العلاج بالأنساق الأسرية الداخلية (IFS)", target_type: "تيار"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 - id: "thk-cwhitaker", title: "كارل ويتاكر", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "thk-jseikkula", title: "جااككو سيكولا", type: "مفكر"
+- id: "thk-jseikkula", title: "ياكو سيكولا", type: "مفكر"
 - id: "con-differentiation-self", title: "التمايز عن الذات", type: "مفهوم"
 - id: "con-triangulation", title: "التثليث", type: "مفهوم"
 - id: "con-double-bind", title: "الرباط المزدوج", type: "مفهوم"
@@ -58,7 +52,6 @@ related:
 gaps:
   - "التمييز الدقيق بين 'العلاج الأسري' و'العلاج الزوجي' و'العلاج النظامي' ليس موحّداً في الأدبيات — أحياناً تترادف، وأحياناً تتفرّق."
   - "المساهمة الإيطالية (مدرسة ميلانو بالاتزولي-سيلفيني-تشيكّو) موثّقة في الأدبيات الأوروبية أكثر من الإنجليزية، تحتاج ترجمة موسّعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 # العلاج الأسري والنظامي (Systemic/Family Therapy)
 
@@ -103,7 +96,7 @@ gaps:
 - **جاي هالي** (1923-2007): العلاج الاستراتيجي، المغالطات (Paradoxical Interventions).
 - **سو جونسون** (1947-): EFT (العلاج الزوجي المرتكز على الانفعال).
 - **ريتشارد شوارتز** (1950-): IFS (الأنساق الأسرية الداخلية).
-- **جااككو سيكولا** (1946-): الحوار المفتوح (فنلندا).
+- **ياكو سيكولا** (1946-): الحوار المفتوح (فنلندا).
 - **سيلفيني بالاتزولي** (Boscolo & Cecchin): مدرسة ميلانو.
 
 ## التيارات الفرعية الكبرى
@@ -146,7 +139,7 @@ gaps:
 - **نقص الأدلة التجريبية (نسبياً)**: CBT الفردي لا يزال أكثر دعماً بالأدلة.
 - **خطر فرض نظرة غربية على الأسرة**: في سياقات ثقافية أخرى (الأسرة الممتدة، الأمومة الجماعية) قد يكون مفهوم «الحدود» نفسه غير مناسب.
 
-## المرجع الموصى
+## المصادر
 
 - Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.

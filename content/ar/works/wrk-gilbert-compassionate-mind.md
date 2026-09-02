@@ -7,13 +7,17 @@ level: "متوسط"
 title: "كتاب العقل العطوف: نهج جديد لتحديات الحياة لبول غيلبرت (2009)"
 en: "The Compassionate Mind: A New Approach to Life's Challenges by Paul Gilbert"
 crumb: "كتب العلاج النفسي القائم على الشفقة ← أمهات الأعمال ← العقل العطوف"
+author: "بول جيلبرت"
+author_slug: "thk-pgilbert"
+publication_year: 2009
+original_language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cft", target_type: "مدرسة"
 related:
 - id: "met-cft-three-circles", title: "الدوائر الثلاث في CFT: استعارة توازن أنظمة التهديد والقيادة والتهدئة", type: "استعارة/مجاز مؤسِّس"
-- id: "thk-pgilbert", title: "بول غيلبرت", type: "مفكر"
+- id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

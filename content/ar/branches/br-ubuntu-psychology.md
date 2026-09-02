@@ -13,19 +13,18 @@ active_end: "مستمر"
 language: "الإنجليزية/الخوسا/الزولو"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "أطر غير غربية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ubuntu", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-dtutu", target_type: "مفكر"
 - rel: "developed_by", target: "thk-mtutufurth", target_type: "مفكر"
 related:
+- id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
 - id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
 - id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
 - id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
 - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
-- id: "con-ubuntu", title: "أوبونتو", type: "مفهوم"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 gaps:
   - "الامتداد العلاجي لـUbuntu (Ubuntu Therapy, Mpho Tutu) لم يُوثّق بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مافو توتو فان فورث (thk-mtutufurth)."
 ---
 
 # علم نفس الأوبونتو

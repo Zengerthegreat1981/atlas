@@ -12,15 +12,17 @@ dates: "1990 · جون برادشو"
 language: "الإنجليزية"
 active_start: 1990
 active_end: 1990
+author: "جون برادشو"
+author_slug: "thk-john-bradshaw"
+publication_year: 1990
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وعلاج صدمات الأسرة", target_type: "مدرسة"
 - rel: "written_by", target: "thk-john-bradshaw", target_type: "مفكر"
 related:
 - id: "con-inner-child-popular", title: "الطفل الداخلي في علم النفس الشعبي والعلاجي", type: "مفهوم"
 - id: "thk-john-bradshaw", title: "جون برادشو", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # العودة إلى الوطن: استعادة طفلك الداخلي وحمايته
@@ -34,7 +36,3 @@ gaps:
 ## الأثر في الثقافة العلاجية
 
 تحول مصطلح 'الطفل الداخلي' إلى جزء أساسي من الثقافة النفسية الشعبية ومجموعات الدعم.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

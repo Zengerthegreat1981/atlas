@@ -14,13 +14,13 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: 1996
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والإرشاد الأسري", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-peter-pan-syndrome", title: "متلازمة بيتر بان", type: "عمل / كتاب"
-- id: "con-peter-pan-complex", title: "متلازمة / عقدة بيتر بان", type: "مفهوم"
+- id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان (عدم النضج والهروب من المسؤولية)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـدان كايلي في الأدبيات المتاحة."
 ---
 
 # دان كايلي
@@ -54,6 +54,3 @@ gaps:
 - *The Wendy Dilemma* (1984).
 - *Living Together, Feeling Alone* (1989).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

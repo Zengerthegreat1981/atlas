@@ -13,11 +13,12 @@ language: "الصينية الكلاسيكية"
 active_start: 1649
 active_end: 1692
 edges:
-- rel: "belongs_to", target: "الفلسفة الصينية الكلاسيكية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 related:
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"
+- id: "thk-zhang-zai", title: "تشانغ تساي", type: "مفكر"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "أعماله لم تُنشر إلا في القرن التاسع عشر، وقراءة الماركسية الصينية له بوصفه 'مادّياً' انتقائية تُغفل عمقه الكونفوشي — درجة أصالته الفلسفية الحقيقية مقابل هذه القراءات اللاحقة موضع جدل."
 ---
 
 # وانغ فو تشي
@@ -43,6 +44,8 @@ gaps:
 - *Song lun* (في سلالة سونغ).
 - *Zhouyi waizhuan* (الشرح الخارجي لكتاب التغيّرات).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Wang Fuzhi, *Zhouyi waizhuan* [Outer Commentary on the Book of Changes].
+- Black, A. H. (1989). *Man and Nature in the Philosophical Thought of Wang Fu-chih*. University of Washington Press.
+- Chan, W. (trans., 1963). *A Source Book in Chinese Philosophy* — يتضمن مختارات من كتاباته.

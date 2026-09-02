@@ -10,14 +10,13 @@ active_start: 1973
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-affirmative-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "br-lgbtq-counseling", target_type: "تيار"
 related:
 - id: "br-lgbtq-counseling", title: "الإرشاد الخاص بالأقليات الجنسية والجندرية (LGBTQ+ Counseling)", type: "تيار"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 gaps:
   - "التمييز بين 'Gay-Affirmative' (الأقدم، من السبعينيات) و'LGBTQ+ Affirmative' (الأوسع حالياً) يستحق مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل بيرلمان (thk-mperelman)."
+  - "رابط con-autonomy-homonomy أُزيل من related: لا صلة موثقة في متن هذا الملف بمفهوم الاستقلالية والهومونومي عند أنجيال."
 ---
 
 # العلاج التأكيدي (Affirmative Therapy)
@@ -36,6 +35,8 @@ gaps:
 - أقدم جذور في «Gay-Affirmative Therapy» (1973، بعد شطب APA لل同性恋ة من DSM عام 1973).
 - توسع في التسعينيات ليشمل bisexual, transgender, queer.
 - تبنته APA رسمياً في 2000s.
+
+يشكّل العلاج التأكيدي الأساس النظري لتيار الإرشاد الخاص بالأقليات الجنسية والجندرية (LGBTQ+ Counseling)، الذي يطبّق مبادئه في بيئات الإرشاد الجامعي والأسري.
 
 ## الاستخدام
 

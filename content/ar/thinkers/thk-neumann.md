@@ -16,10 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-great-mother", title: "الأم الكبرى (الأركيتيب)", type: "مفهوم"
+- id: "con-great-mother", title: "أركيتيب الأم الكبرى", type: "مفهوم"
 - id: "con-ego-self", title: "محور الأنا–الذات", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "حجم إسهامه الأصلي (هل طوّر مفاهيمه مستقلاً عن يونغ أم وسّعها منه؟) موضع نقاش في مدرسة تل أبيب المعاصرة."
 ---
 
@@ -41,3 +40,8 @@ gaps:
 ## أهم أعماله
 
 أصول وتاريخ الوعي (Ursprungsgeschichte des Bewusstseins, 1949) · الأم الكبرى (Die große Mutter, 1955) · الحبّ والنفس (Amor and Psyche, 1956) · الفنّ واللاوعي المبدع (Art and the Creative Unconscious, 1959).
+
+## المصادر
+
+- Neumann, Erich. *Ursprungsgeschichte des Bewusstseins* [The Origins and History of Consciousness]. Rascher Verlag, 1949؛ ترجمة إنجليزية R.F.C. Hull، Princeton University Press, 1954.
+- Neumann, Erich. *Die große Mutter* [The Great Mother: An Analysis of the Archetype]. Rascher Verlag, 1955؛ ترجمة إنجليزية Ralph Manheim، Princeton University Press, 1955.

@@ -13,7 +13,7 @@ active_start: 1983
 active_end: 2016
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "thk-jzinker", title: "جوزيف زِنكِر", type: "مفكر"
 - id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"

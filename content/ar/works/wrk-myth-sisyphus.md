@@ -10,8 +10,12 @@ crumb: "الفلسفة ← القارية ← العبثية ← أسطورة س
 dates: "1942 · كامو"
 country: "فرنسا (الجزائر تحت الاحتلال الفرنسي)"
 language: "الفرنسية"
+author: "ألبير كامو"
+author_slug: "thk-camus"
+publication_year: 1942
+original_language: "الفرنسية"
 active_start: 1942
-active_end: 1942
+active_end: 1951
 edges:
 - rel: "belongs_to", target: "sch-absurdism", target_type: "مدرسة"
 related:

@@ -12,10 +12,9 @@ country: "متعددة"
 language: "متعددة"
 active_start: 1982
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
+cultural_origin: "european"
 related:
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 - id: "con-agonism", title: "العداوة الديمقراطية (الأغونية)", type: "مفهوم"
@@ -55,3 +54,10 @@ gaps:
 ## القيد
 
 - أحياناً تُبهم «الصراع» وتُشجع على استقطاب.
+
+## المصادر
+
+- Ernesto Laclau & Chantal Mouffe, *Hegemony and Socialist Strategy: Towards a Radical Democratic Politics*, Verso, 1985.
+- Chantal Mouffe, *The Democratic Paradox*, Verso, 2000.
+- Jacques Rancière, *Disagreement: Politics and Philosophy*, University of Minnesota Press, 1995 (ترجمة إنجليزية 1999).
+- Michael Hardt & Antonio Negri, *Empire*, Harvard University Press, 2000.

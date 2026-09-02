@@ -1,0 +1,59 @@
+---
+slug: "thk-marisaberkouwer"
+id: "THK-2703"
+type: "مفكر"
+level: "متوسط"
+title: "ماريسا بيركوور"
+en: "Marisa Berkouwer"
+crumb: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy) ← تطوير ← ماريسا بيركوور"
+dates: "هولندا/كندا · [DRAFT-UNKNOWN]"
+country: "كندا"
+language: "الإنجليزية"
+active_start: 2010
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
+related:
+- id: "thk-kelleycolleen", title: "كولين كيلي", type: "مفكر"
+- id: "thk-minopaulin", title: "مينو بولين", type: "مفكر"
+- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
+- id: "thk-jfisher", title: "جون فِشر", type: "مفكر"
+- id: "con-sensorimotor-psychotherapy", title: "العلاج الحسي-الحركي", type: "مفهوم"
+- id: "con-child-trauma", title: "صدمة الطفولة", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Marisa Berkouwer' في سياق Sensorimotor Psychotherapy يظهر في بعض المنشورات لكنه لا يوجد ملف أكاديمي مستقل."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# ماريسا بيركوور
+
+معالجة نفسية هولندية-كندية، من الباحثين المتخصّصين في **العلاج الحسي-الحركي** (Sensorimotor Psychotherapy) وتطبيقاته على الأطفال والمراهقين.
+
+## محاولة التوثيق
+
+العلاج الحسي-الحركي (Sensorimotor Psychotherapy) نموذج علاجي طوّرته [بات أوغدن](thk-pogden) و[كولين كيلي](thk-kelleycolleen) و[جون فِشر](thk-jfisher) منذ التسعينيات من القرن العشرين. يدمج النموذج بين العلاج النفسي المعرفي-الجسدي (Somatic Psychology) وعلم أعصاب الصدمة.
+
+بالبحث عن اسم «Marisa Berkouwer» في Sensorimotor Psychotherapy:
+- الاسم يظهر في بعض منشورات Sensorimotor Psychotherapy Institute.
+- لا يوجد ملف أكاديمي مستقل قابل للتحقق.
+- من المرجح أن بيركوور من ممارسي Sensorimotor المعتمدين في كندا، ظهروا في فصول كتب عن تطبيقات النموذج مع الأطفال.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون بيركوور عند **تلاقي Sensorimotor مع علم نفس النموّ** (Developmental Psychology)، وهو ما يجعل النموذج قابلاً للتطبيق في مراحل عمرية مبكرة.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط [بالعلاج الحسي-الحركي](con-sensorimotor-psychotherapy) و[صدمة الطفولة](con-child-trauma) كمفاهيم مركزية. تلتقي مع [بات أوغدن](thk-pogden) و[كولين كيلي](thk-kelleycolleen) و[مينو بولين](thk-minopaulin) في تطبيقات النموذج.
+
+## المصادر
+
+- Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. W. W. Norton.
+- Fisher, J. (2017). *Healing the Fragmented Selves of Trauma Survivors*. Routledge.
+- Sensorimotor Psychotherapy Institute — Faculty and Senior Training List.
+- *Sensorimotor Psychotherapy Journal* — أرشيفات.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

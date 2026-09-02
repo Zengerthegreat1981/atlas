@@ -9,6 +9,10 @@ crumb: "المدرسة الوجودية ← الأعمال ← أخلاق وجو
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
+author: "هازل بارنز"
+author_slug: "thk-barnes"
+publication_year: 1967
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:

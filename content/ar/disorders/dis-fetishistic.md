@@ -12,15 +12,13 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-commodity-fetishism", title: "صنمية السلعة والتشيؤ (Commodity Fetishism)", type: "مفهوم"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "tec-relapse-prevention", title: "منع الانتكاسة", type: "تقنية/تدخل علاجي"
+- id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "dis-pedophilic-disorder", title: "اضطراب البيدوفيليا (Pedophilic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-frotteuristic-disorder", title: "اضطراب الفروتيوريزم (Frotteuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
@@ -32,11 +30,18 @@ gaps:
   - "Transvestic Disorder كاضطراب مرتبط في DSM (302.3) غير مشمول في هذه القائمة."
   - "المقاربة الإيجابية للـ kink في BDSM contexts: متى لا يحتاج الشخص علاجاً؟"
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # اضطراب الفيتشية (Fetishistic Disorder)
 
 اضطراب من اضطرابات الانحراف (Paraphilia) يتميز بإثارة جنسية متكررة ومكثفة من أشياء غير حيّة (أحذية، ملابس، أقمشة) أو تركيز شديد على جزء من الجسم (أقدام، شعر) أو كليهما، تستمر 6+ أشهر. **يُشخَّص فقط عندما تُسبّب ضائقة كبيرة أو ضعف في الأداء**.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل مداخل نوع 'اضطراب/حالة إكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR و ICD-11، دون تقديم أي تقييم تشخيصي مباشر لحالة أي قارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين 'اضطراب الفيتشية' هنا (إثارة جنسية من أشياء غير حية تسبب ضائقة أو خللاً وظيفياً) وبين 'صنمية السلعة' (con-commodity-fetishism) كما طرحها ماركس — رغم اشتراك الكلمة، الأخير مفهوم فلسفي-اقتصادي عن إسقاط قوى سحرية على السلع في علاقات السوق، ولا صلة له بالإثارة الجنسية أو بأي فئة تشخيصية فردية.
 
 ## ملاحظات على المعايير التشخيصية
 

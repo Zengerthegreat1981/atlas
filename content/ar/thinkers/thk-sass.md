@@ -21,7 +21,6 @@ related:
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مقياس EASE لفحص الخبرة الشاذة للذات يتطلب إدراجاً في أدوات القياس (ins-)."
 ---
 
@@ -43,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 الجنون والحداثة: الفصام في ضوء الفن والأدب والفكر الحديث (Madness and Modernity, 1992) · مفارقات الوهم: فحص فينومينولوجي لكتابات شريبر (The Paradoxes of Delusion, 1994).
+
+## المصادر
+
+- Sass, L. A. (1992). *Madness and Modernity: Insanity in the Light of Modern Art, Literature, and Thought*. Harvard University Press.
+- Sass, L. A., & Parnas, J. (2003). "Schizophrenia, Consciousness, and the Self." *Schizophrenia Bulletin*, 29(3), 427–444.
+- Parnas, J., Møller, P., Kircher, T., et al. (2005). "EASE: Examination of Anomalous Self-Experience." *Psychopathology*, 38(5), 236–258 (تطوير مشترك مع ساس).

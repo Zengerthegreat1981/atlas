@@ -12,27 +12,24 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-socratic-questioning", title: "السؤال السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التحيّرات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المرتكز على العاطفة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المرتكز على الانفعال", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-prioritization-time-management", title: "ترتيب الأولويات وإدارة الوقت", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-smart-goal-setting", title: "تحديد أهداف SMART", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-crisis-survival-planning", title: "تخطيط البقاء في الأزمات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-crisis-survival-planning", title: "خطة النجاة من الأزمات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة توضيح القيم", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبّل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-pros-and-cons", title: "الإيجابيات والسلبيات", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-cope-ahead", title: "المواجهة المسبقة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-abc-please", title: "ABC PLEASE", type: "تقنية/تدخل علاجي"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
@@ -46,7 +43,6 @@ related:
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تعريف اضطرابات التكيّف (لا سيما التصنيف الفرعي) لم تُراجع من المصدرين الأوليين."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "معايير التشخيص الدقيقة لاضطرابات التكيّف عند الأطفال والمراهقين تحتاج مراجعة معمّقة."
   - "التمييز بين اضطرابات التكيّف والحزن الطبيعي عند البالغين يحتاج أدوات تقييم موحّدة."
 ---
@@ -54,6 +50,14 @@ gaps:
 # اضطرابات التكيّف
 
 اضطرابات تظهر كردّ فعل نفسي لمُحدِّد (مُسبِّب) واضح ومرتبط بتغيير حياة مهم (طلاق، فقدان عمل، مرض، انتقال، انتهاء علاقة)، خلال 3 أشهر من المُحدِّد. تستمر الأعراض عادة أقل من 6 أشهر بعد انتهاء المُحدِّد أو نهايته. تتميز بمشاعر قلق، اكتئاب، قلق مختلط، سلوك إشكالي، أو خلل عاطفي/سلوكي لا يتناسب مع شدّة المُحدِّد.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطرابات التكيّف كفئة تشخيصية إكلينيكية وبين 'التكيُّف' (العنصر con-adaptation الموجود مسبقاً في هذا الأطلس) كمفهوم عام عن قدرة الكائن الحي أو النفس على إعادة التوازن أمام تغيّر البيئة أو الظرف. الأخير عملية طبيعية مستمرة يمر بها كل إنسان دون أن تكون مرضية بذاتها، بينما اضطرابات التكيّف فئة مرضية محددة زمنياً (خلال 3 أشهر من المُحدِّد) تصف فشل هذه العملية بشكل يسبب ضائقة أو خللاً وظيفياً غير متناسب مع شدة المُحدِّد.
 
 ## ملاحظات على المعايير التشخيصية
 

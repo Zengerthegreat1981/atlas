@@ -9,6 +9,7 @@ en: "Marxist / Socialist Feminism"
 crumb: "الفلسفة ← النسوية ← الماركسية/الاشتراكية"
 dates: "أوروبا، أمريكا · من 1880s إلى اليوم"
 country: "متعددة"
+cultural_origin: "european"
 language: "متعددة"
 active_start: 1884
 active_end: "مستمر"
@@ -56,3 +57,11 @@ gaps:
 ## القيد
 
 - واجهت صعوبة في التوفيق بين الماركسية (طبقية) والنسوية (نوع).
+
+## المصادر
+
+- Kollontai, Alexandra. *The Social Basis of the Woman Question*. 1909 (trans. in *Selected Writings of Alexandra Kollontai*, Allison & Busby, 1977).
+- James, Selma & Dalla Costa, Mariarosa. *The Power of Women and the Subversion of the Community*. Falling Wall Press, 1972.
+- Vogel, Lise. *Marxism and the Oppression of Women: Toward a Unitary Theory*. Rutgers University Press, 1983.
+- Federici, Silvia. *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Autonomedia, 2004.
+- Fraser, Nancy. *Unruly Practices: Power, Discourse, and Gender in Contemporary Social Theory*. University of Minnesota Press, 1989.

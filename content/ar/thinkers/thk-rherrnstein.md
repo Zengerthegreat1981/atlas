@@ -15,11 +15,11 @@ active_end: 1994
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-acatania", title: "أ. تشارلز كاتانيا", type: "مفكر"
 - id: "con-matching-law", title: "قانون التطابق", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى سيرنشتاين بمصدر وسنة."
   - "مواقفه من الذكاء والعرق (Bell Curve، 1994) — موضع جدل كبير."
 ---
 
@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 قانون التطابق (1961) · (مقالات J. Exp. Anal. Behav.) · منحنى الجرس (1994، مع C. Murray).
+
+## المصادر
+
+- Herrnstein, Richard J. "Relative and Absolute Strength of Response as a Function of Frequency of Reinforcement." *Journal of the Experimental Analysis of Behavior*, 4(3), 1961.
+- Herrnstein, Richard J., & Murray, Charles. *The Bell Curve: Intelligence and Class Structure in American Life*. Free Press, 1994.
+- "Richard Herrnstein." قسم علم النفس، جامعة هارفارد — سجل السيرة الأكاديمية.

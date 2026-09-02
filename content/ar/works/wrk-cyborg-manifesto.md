@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← ما بعد الإنسانية ←
 dates: "1985 · دونا هاراواي"
 language: "الإنجليزية"
 active_start: 1985
-active_end: 1985
+active_end: 2013
+author: "دونا هاراواي"
+author_slug: "thk-haraway"
+publication_year: 1985
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-posthumanism", target_type: "مدرسة"
 related:

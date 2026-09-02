@@ -12,16 +12,20 @@ language: "الإنجليزية"
 active_start: 1995
 active_end: 1995
 country: "الولايات المتحدة"
+author: "ريتشارد شوارتز"
+author_slug: "thk-richard-schwartz"
+publication_year: 1995
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-richard-schwartz", target_type: "مفكر"
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
-- id: "con-dissociation", title: "التفكك (Dissociation)", type: "مفهوم"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية", type: "مفهوم"
-- id: "con-false-self-vs-true-self", title: "الذات الزائفة مقابل الذات الحقيقية", type: "مفهوم"
+- id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
 - id: "con-primary-self", title: "الذات الأولية", type: "مفهوم"
-- id: "con-ego-self", title: "الأنا والذات", type: "مفهوم"
+- id: "con-ego-self", title: "محور الأنا–الذات", type: "مفهوم"
 gaps:
   - "الفصل الدقيق بين 'الأجزاء' (Parts) و'الذات' (Self) في فصول الكتاب لم يُراجع من الطبعة الأولى (Guilford Press, 1995) مباشرة."
   - "لا يوجد اقتباس مباشر موثوق من النص الأصلي في هذه المسودة."

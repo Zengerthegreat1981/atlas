@@ -8,6 +8,8 @@ en: "Founding of the International Psychoanalytical Association at Nuremberg Con
 crumb: "المدرسة الوجودية ← الأحداث التاريخية ← تأسيس الجمعية الدولية للتحليل النفسي IPA"
 active_start: 1910
 active_end: "مستمر"
+event_date: "1910-03-30"
+event_place: "نورمبرغ، ألمانيا"
 country: "ألمانيا"
 part: "philosophy"
 related:

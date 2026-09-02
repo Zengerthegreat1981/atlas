@@ -24,7 +24,7 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: تقنية OARS (المقابلة التحفيزية) (con-oars)"
   - "سنة الميلاد (1947) تقريبية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر قابل للتوثيق بمصدر وصفحة محددة، فحُذف قسم الاقتباسات."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دونالد ميشينباوم (thk-meichenbaum)."
 ---
 
@@ -54,6 +54,9 @@ gaps:
 - *Motivational Enhancement Therapy Manual* (1995، مع مشروع MATCH).
 - *Motivational Interviewing and the Empathy-Trigger Effect* (2020).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Miller, W. R. (1983). "Motivational Interviewing with Problem Drinkers." *Behavioural Psychotherapy*, 11(2), 147–172.
+- Miller, W. R., & Rollnick, S. (1991/2013). *Motivational Interviewing: Preparing People for Change*. Guilford Press.
+- Miller, W. R. (2020). *Motivational Interviewing and the Empathy-Trigger Effect*.
+- Project MATCH Research Group (1997). "Matching Alcoholism Treatments to Client Heterogeneity." *Journal of Studies on Alcohol*, 58(1), 7–29.

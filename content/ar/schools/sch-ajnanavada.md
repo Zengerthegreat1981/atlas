@@ -12,12 +12,13 @@ country: "شبه القارة الهندية"
 language: "السنسكريتية، البالي"
 active_start: -500
 active_end: 400
+cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
 - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-- id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
+- id: "sch-pyrrhonism", title: "الشك البيروني (Pyrrhonian Skepticism)", type: "مدرسة"
 gaps:
   - "نصوص سَنجَيا بِلاتْها بوتا (Sañjaya Belaṭṭhaputta) مفقودة — معرفتنا من نقد بوذا له في Sutta Pitaka."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -47,3 +48,8 @@ gaps:
 ## القيد
 
 - النصوص الأصلية مفقودة، والمعلومات الوحيدة من نقد بوذا في Suttas.
+
+## المصادر
+
+- A. L. Basham, *History and Doctrines of the Ājīvikas: A Vanished Indian Religion* (London: Luzac & Company, 1951) — يتناول Ajñāna كتيار شرامني مرتبط بالآجيفيكا.
+- K. N. Jayatilleke, *Early Buddhist Theory of Knowledge* (London: George Allen & Unwin, 1963) — يتضمن دراسة لموقف سَنجَيا بِلاتْها بوتا كما ورد في السوتا بيتاكا.

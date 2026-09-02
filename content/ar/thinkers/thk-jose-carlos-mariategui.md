@@ -12,8 +12,7 @@ language: "الإسبانية"
 part: "philosophy"
 active_start: 1918
 active_end: 1930
-edges:
-- rel: "belongs_to", target: "فلسفة أمريكا اللاتينية (الفلسفة الإيبيرية-الأمريكية)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-leopoldo-zea", title: "ليوبولدو زيا", type: "مفكر"
 - id: "ctx-latin-american-coloniality", title: "السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير", type: "سياق/تقليد"

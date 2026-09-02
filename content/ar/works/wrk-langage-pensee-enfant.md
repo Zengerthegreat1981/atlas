@@ -8,18 +8,20 @@ en: "Le langage et la pensée chez l'enfant"
 crumb: "علم نفس النمو المعرفي ← الأعمال ← اللغة والفكر عند الطفل"
 dates: "1923 · جان بياجيه"
 active_start: 1923
-active_end: 1923
+active_end: 1975
 language: "الفرنسية"
+author: "جان بياجيه"
+author_slug: "thk-piaget"
+publication_year: 1923
+original_language: "الفرنسية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم نفس النمو المعرفي", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-piaget", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الترجمة الإنجليزية الأولى (1926) أجراها Margaret Woo — التحقق من دقّتها للنصّ الفرنسي الأصلي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Piaget في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اللغة والفكر عند الطفل

@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 2016
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
 - id: "thk-gschwartz", title: "غاري شوارتز", type: "مفكر"
 - id: "thk-tbickmore", title: "تيموثي بيكمور", type: "مفكر"

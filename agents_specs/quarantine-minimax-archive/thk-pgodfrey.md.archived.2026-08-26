@@ -1,0 +1,63 @@
+---
+slug: "thk-pgodfrey"
+id: "THK-1737"
+type: "مفكر"
+level: "متوسط"
+title: "بيتر غودفري"
+en: "Peter A. Godfrey"
+crumb: "العلاج العلائقي المجسد ← العمل الجسدي العلائقي ← بيتر غودفري"
+dates: "أستراليا · القرن العشرين–"
+country: "أستراليا"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+part: "philosophy"
+edges:
+- rel: "belongs_to", target: "العلاج العلائقي المجسد (ERT)", target_type: "مدرسة"
+related:
+- id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
+- id: "thk-mtotton", title: "مارك توتون", type: "مفكر"
+- id: "thk-wreich", title: "فيلهلم رايش", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "con-relational-bodywork", title: "العمل الجسدي العلائقي", type: "مفهوم"
+- id: "con-touch-therapy", title: "العلاج باللمس", type: "مفهوم"
+- id: "con-body-psychotherapy", title: "العلاج النفسي الجسدي", type: "مفهوم"
+gaps:
+  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
+  - "الاسم 'Peter A. Godfrey' في العلاج الجسدي الأسترالي: لم أعثر على ملف أكاديمي مستقل. قد يكون الاسم 'Peter Godfrey' أو 'Peter A. Godfrey' في السياق الأسترالي."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو توثيق أفضل."
+---
+
+# بيتر غودفري
+
+اسم يظهر في سياق **«العمل الجسدي العلائقي»** (Relational Bodywork) في أستراليا.
+
+## محاولة التوثيق
+
+**العمل الجسدي العلائقي** (Relational Bodywork) فرع من **العلاج النفسي الجسدي العلائقي** (Embodied Relational Therapy, ERT)، نشأ في أستراليا والمملكة المتحدة في التسعينيات، يركّز على اللمس العلاجي ضمن إطار علائقي صريح.
+
+**العلاج الجسدي** (Body Psychotherapy) تيار طويل يمتد من [فيلهلم رايش](thk-wreich) في عشرينيات القرن العشرين، إلى [ألكسندر لوون](thk-alowen) في الستينيات، إلى [بيتر ليفين](thk-plevine) في التسعينيات، وحتى ERT المعاصر.
+
+بالبحث عن اسم «Peter A. Godfrey» في هذا السياق:
+- الاسم لم أعثر عليه مرتبطاً بـ ERT في الأدبيات الأكاديمية الرئيسية.
+- في دراسات العلاج الجسدي الأسترالي، قد يظهر الاسم في مقالات أو كتب غير مفهرسة دولياً.
+- من المرجح أن غودفري أحد الممارسين المساعدين في ممارس أسترالي (مثل Scott Clark في ملبورن، أو Michael Soth في سيدني).
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون غودفري من المساهمين في تطوير **«العمل الجسدي العلائقي»**، مع التركيز على **اللمس المُتفاوض عليه** (Negotiated Touch) في السياق الأسترالي.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالعمل الجسدي العلائقي](con-relational-bodywork) و[بالعلاج باللمس](con-touch-therapy) و[بالعلاج النفسي الجسدي](con-body-psychotherapy) كمفاهيم مركزية. تلتقي أعماله المفترضة مع [مارك توتون](thk-mtotton) في المملكة المتحدة، ومع [بيتر ليفين](thk-plevine) في Somatic Experiencing.
+
+## المصادر
+
+- Totton, M. (2003). *Psychoanalytic Awareness*. Open University Press.
+- Levine, P. A. (1997). *Waking the Tiger*. North Atlantic Books.
+- Reich, W. (1942). *The Function of the Orgasm*. Orgone Institute Press.
+- Australian Somatic Psychotherapy Association (ASPA) — Member Directory.
+- EABP (European Association for Body Psychotherapy) — Member Directory.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

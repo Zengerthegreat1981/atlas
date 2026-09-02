@@ -20,8 +20,8 @@ related:
 - id: "que-is-scientific-progress-cumulative", title: "هل المعرفة العلمية تراكم خطي للحقائق أم قفزات ثورية في البارادايم؟", type: "سؤال توليدي"
 - id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
 gaps:
-  - "مفهوم البارادايم (النموذج الإرشادي) والعلم القياسي وثورات التحول المعرفي في كتابه 1962."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا مصدر موثّق لاقتباس منسوب لكوهن حرفياً بالعربية، لذلك حُذف قسم الاقتباسات."
+  - "**ملاحظة إحالة (حُلّت 2026-08-27، طلب R-002):** الملف thk-pkuhn كان نسخة مكرّرة لنفس الشخص تحت slug غير مطابق للاسم؛ حُجر وحُوِّل إلى إحالة دائمة على هذا الملف (thk-thomas-kuhn) بوصفه المعتمد نهائياً."
 ---
 
 # توماس صامويل كوهن
@@ -46,8 +46,10 @@ gaps:
 - *The Copernican Revolution* (1957).
 - *The Structure of Scientific Revolutions* (1962، وطبعة 1970 بملحق «تذييل»).
 - *The Essential Tension* (1977).
-- *The Road Since Structure* (2000، بعد وفاته).
+- *The Road Since Structure* (نُشر بعد وفاته سنة 2000).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+- Bird, A. (2018). "Thomas Kuhn." *Stanford Encyclopedia of Philosophy*.
+- Fuller, S. (2000). *Thomas Kuhn: A Philosophical History for Our Times*. University of Chicago Press.

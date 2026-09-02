@@ -7,6 +7,10 @@ level: "متقدم"
 title: "كتاب تأملات في الفلسفة الأولى لرينيه ديكارت (1641)"
 en: "Meditations on First Philosophy by René Descartes"
 crumb: "الفلسفة العقلانية الحديثة ← أمهات الأعمال ← تأملات ديكارت"
+author: "رينيه ديكارت"
+author_slug: "thk-descartes"
+publication_year: 1641
+original_language: "اللاتينية"
 active_start: null
 active_end: "مستمر"
 edges:

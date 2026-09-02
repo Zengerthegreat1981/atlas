@@ -9,6 +9,7 @@ en: "Waḥdat al-Shuhūd (Witnessing Monism)"
 crumb: "الفلسفة ← الإسلام ← تصوف فلسفي ← وحدة الشهود"
 dates: "الهند المغولية · من القرن 17 م إلى القرن 19 م"
 country: "إمبراطورية مغول الهند، ثم السيخية، ثم الاستعمار البريطاني"
+cultural_origin: "islamic-arabic"
 language: "الفارسية، الأردو، العربية"
 active_start: 1610
 active_end: 1850
@@ -22,7 +23,6 @@ related:
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 gaps:
   - "العلاقة بين وحدة الشهود ووحدة الوجود: هل هي تيار مختلف تاريخياً أم تيار واحد اختلف تعبيره؟"
-  - "لا يوجد اقتباس مباشر موثوق متاح من «الحجة البالغة» لشاه ولي الله الدهلوي."
 ---
 
 # وحدة الشهود
@@ -75,3 +75,10 @@ gaps:
 - أثّرت في شاه ولي الله ومنهجه في الفقه والحديث.
 - أثّرت في خريطة «الحركة السلفية» الهندية المعاصرة (الديوبندية تأثرت بها جزئياً).
 - في العصر الحديث: دافع عنها محمد إقبال ومنظّرو «الإسلام الثقافي».
+
+## المصادر
+
+- ter Haar, J. G. J. *Follower and Heir of the Prophet: Shaykh Ahmad Sirhindi (1564–1624) as Mystic*. Research School CNWS, 1992.
+- Friedmann, Yohanan. *Shaykh Ahmad Sirhindi: An Outline of His Thought and a Study of His Image in the Eyes of Posterity*. McGill-Queen's University Press, 2000.
+- Rizvi, Sajjad H. *A History of Sufism in India*, Vol. II. Munshiram Manoharlal, 1983.
+- Hermansen, Marcia K. (trans.). *The Conclusive Argument from God: Shāh Walī Allāh of Delhi's Ḥujjat Allāh al-Bāligha*. Brill, 1996.

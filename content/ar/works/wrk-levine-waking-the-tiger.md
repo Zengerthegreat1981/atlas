@@ -9,6 +9,10 @@ en: "Waking the Tiger: Healing Trauma by Peter A. Levine"
 crumb: "كتب العلاج الجسدي للصدمات ← أمهات الأعمال ← إيقاظ النمر"
 active_start: null
 active_end: "مستمر"
+author: "بيتر ليفين"
+author_slug: "thk-plevine"
+publication_year: 1997
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:

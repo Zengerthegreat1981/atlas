@@ -11,13 +11,16 @@ dates: "روما · ق. 270 م"
 language: "الإغريقية القديمة"
 active_start: 270
 active_end: 270
+author: "أفلوطين"
+author_slug: "thk-plotinus"
+publication_year: 270
+original_language: "الإغريقية القديمة"
 edges:
 - rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 gaps:
   - "تأثير التاسوعات المباشر على فلسفة القديس أوغسطينوس والفلسفة الإسلامية المشائية والإشراقية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التاسوعات لأفلوطين

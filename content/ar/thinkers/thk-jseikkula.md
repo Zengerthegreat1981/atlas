@@ -13,16 +13,16 @@ active_start: 1984
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الحوار المفتوح (Open Dialogue)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-tandersen", title: "توم أندرسن", type: "مفكر"
 - id: "thk-balakare", title: "بيرجيتّا ألاكارِ", type: "مفكر"
 - id: "rel-daoism-systemic", title: "الطاوية الفلسفية والعلاج الأسري/النظامي: من وُو-وِي إلى الدائرية", type: "علاقة بين مدرستين"
 - id: "thk-maryolson", title: "ماري أولسون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "اقتباس مباشر من سيكولا لم يُعثر عليه بعد بمصدر وسنة محددين."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماري أولسون (thk-maryolson)."
+  - "edges.belongs_to.target كان نصاً حراً 'الحوار المفتوح (Open Dialogue)' بدل slug معتمد — استُبدل بـ sch-systemic-family، المدرسة التي يستند إليها المتن صراحةً (باختين، فيغوتسكي، بيتسون، والتقليد النَّسَقي)."
 ---
 
 # ياكو سيكولا

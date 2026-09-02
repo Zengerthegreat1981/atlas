@@ -8,18 +8,20 @@ en: "Beiträge zur Theorie der Sinneswahrnehmung"
 crumb: "علم النفس التجريبي المبكر ← الأعمال ← أبحاث في نظرية الإدراك الحسي"
 dates: "1862 · فيلهلم فونت"
 active_start: 1862
-active_end: 1862
+active_end: 1900
 language: "الألمانية"
+author: "فيلهلم فونت"
+author_slug: "thk-wundt"
+publication_year: 1862
+original_language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-wundt", target_type: "مفكر"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 gaps:
   - "بعض نتائج الكتاب أُعيد اختبارها في القرن العشرين بأدوات إحصائية أحدث — التحقق التفصيلي من نتائج إعادة الاختبار لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Wundt في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أبحاث في نظرية الإدراك الحسي

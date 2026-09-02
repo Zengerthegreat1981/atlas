@@ -13,7 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:
 - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
-- id: "thk-hu-shi", title: "هو شي", type: "مفكر"
+- id: "thk-hu-shi", title: "هو شي (Hu Shih)", type: "مفكر"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
+- id: "sch-pyrrhonism", title: "الشك البيروني (Pyrrhonian Skepticism)", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ كتابات هو شي في *New Youth* (新青年)، المجلدات 4–7."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

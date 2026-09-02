@@ -9,8 +9,8 @@ crumb: "العلاقات بين المدارس ← العلاج بالقبول �
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "العلاج بالقبول والالتزام (ACT)", target_type: "مدرسة"
-- rel: "connects", target: "العلاج المعرفي السلوكي", target_type: "مدرسة"
+- rel: "connects", target: "sch-act", target_type: "مدرسة"
+- rel: "connects", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "rel-positive-humanistic", title: "علم النفس الإيجابي والإنسانية: من Maslow إلى Seligman", type: "علاقة بين مدرستين"

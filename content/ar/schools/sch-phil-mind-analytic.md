@@ -9,15 +9,13 @@ en: "Analytic Philosophy of Mind (umbrella)"
 crumb: "الفلسفة ← التحليلية ← فلسفة العقل التحليلية (مظلة)"
 dates: "من 1950 إلى الآن"
 country: "متعددة (الولايات المتحدة، المملكة المتحدة)"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1950
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "split_into", target: "sch-functionalism", target_type: "مدرسة"
-- rel: "split_into", target: "السلوكية المنطقية", target_type: "مدرسة"
-- rel: "split_into", target: "نظرية الهوية", target_type: "مدرسة"
-- rel: "split_into", target: "المادية الإقصائية", target_type: "مدرسة"
 related:
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
 - id: "thk-wsellars", title: "ويلفريد سيلارز", type: "مفكر"
@@ -46,7 +44,7 @@ gaps:
   - "رابط مقترح لـ«دانيال دينيت» (thk-dennett) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«دونالد ديفيدسون» (thk-davidson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق الدقيق بين 'السلوكية المنطقية' و'الوظيفية' لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'المادية الإقصائية' عند فيليبا فوتا في صياغتها المتأخرة (1980s)."
+  - "النص الأصلي لموقف المادية الإقصائية عند باتريشيا تشيرتشلاند في صياغته المتأخرة (1980s) لم يُراجع مباشرة."
   - "علاقة مظلة فلسفة العقل بـ'علم النفس الفلسفي' (Philosophical Psychology) كحقل أكاديمي مستقل لم تُراجع."
 ---
 # فلسفة العقل التحليلية (كمظلة)
@@ -77,3 +75,11 @@ gaps:
 
 - الفصل بين المدارس الفرعية يحتاج تدقيقاً مستقلاً لكل منها.
 - علاقة مظلة «فلسفة العقل» بالظواهرية (Phenomenology) لم تُحلّل بدقة كافية.
+
+## المصادر
+
+- Nagel, Thomas. "What Is It Like to Be a Bat?" *The Philosophical Review* 83, no. 4 (1974): 435–450.
+- Searle, John R. *Intentionality: An Essay in the Philosophy of Mind*. Cambridge: Cambridge University Press, 1983.
+- Chalmers, David J. *The Conscious Mind: In Search of a Fundamental Theory*. New York: Oxford University Press, 1996.
+- Dennett, Daniel C. *Consciousness Explained*. Boston: Little, Brown and Co., 1991.
+- Ryle, Gilbert. *The Concept of Mind*. London: Hutchinson, 1949.

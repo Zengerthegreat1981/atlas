@@ -13,11 +13,11 @@ active_start: 2008
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الديناميكي البيني القصير (DIT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-dit", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
+- id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
 - id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
-- id: "thk-fonagy", title: "بيتر فونيغي", type: "مفكر"
+- id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-gillian-abbott", title: "جيليان أبوت", type: "مفكر"
 - id: "thk-hershman", title: "دينا هيرشمان", type: "مفكر"
 - id: "thk-jenny-christensen", title: "جيني كريستنسن", type: "مفكر"

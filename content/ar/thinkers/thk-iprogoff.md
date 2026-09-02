@@ -12,18 +12,17 @@ active_start: 1959
 active_end: 1998
 part: "philosophy"
 crumb: "العلاج بالكتابة ← اليوميات المكثّفة ← إيرا بروغوف"
-edges:
-- rel: "belongs_to", target: "العلاج بالكتابة/الكتابة التعبيرية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
 - id: "thk-jcameron", title: "جوليا كاميرون", type: "مفكر"
 - id: "thk-ldesalvo", title: "لويز دي سالفو", type: "مفكر"
 - id: "thk-ngoldberg", title: "ناتالي غولدبرغ", type: "مفكر"
-- id: "thk-jbrowne", title: "كاثلين براون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثلين براون (thk-jbrowne)."
+  - "edges.belongs_to كان نصاً حراً \"العلاج بالكتابة/الكتابة التعبيرية\" بدل slug حقيقي — لا يوجد sch-/br- معتمد لهذه المدرسة في content/ar/schools أو content/ar/branches. أُفرغت edges."
 ---
 
 # إيرا بروغوف

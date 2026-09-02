@@ -12,13 +12,17 @@ dates: "2021 · مات هيغ"
 language: "الإنجليزية"
 active_start: 2021
 active_end: 2021
+author: "مات هيغ"
+author_slug: "thk-matt-haig"
+publication_year: 2021
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 - rel: "written_by", target: "thk-matt-haig", target_type: "مفكر"
 related:
 - id: "thk-matt-haig", title: "مات هيغ", type: "مفكر"
-- id: "tec-hope-therapy", title: "العلاج بالأمل", type: "تقنية/تدخل علاجي"
-- id: "stu-werner-kauai-resilience", title: "دراسة إيمي فيرنر الطولية للمرونة النفسية في كاواي", type: "دراسة وبحث"
+- id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
+- id: "stu-werner-kauai-resilience", title: "دراسة كاواي الطولية لإيمي فيرنر حول المرونة والصلابة النفسية", type: "دراسة وبحث"
 gaps:
   - "الموضع بين 'نص العافية الذاتية' و'الأدب التحفيزي' يحتاج تحليلاً نقدياً أدبياً."
   - "الجذور الفكرية للمؤلف (علم نفس إنساني، فلسفة وجودية، بوذية) لم تُربط بنظرية بعينها."

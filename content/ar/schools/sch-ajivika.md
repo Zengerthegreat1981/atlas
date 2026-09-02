@@ -12,13 +12,14 @@ country: "شبه القارة الهندية"
 language: "السنسكريتية، البالي"
 active_start: -500
 active_end: 1400
+cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
 - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
-- id: "sch-charvaka", title: "شارفاكا", type: "مدرسة"
+- id: "sch-charvaka", title: "شارفاكا / لوكاياتا (المادية الهندية)", type: "مدرسة"
 gaps:
   - "نصوص آجيفيكا الأصلية مفقودة — معرفتنا مستمدة من نقد البوذية والجاينية والميليندا (Milindapañha)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -55,3 +56,8 @@ gaps:
 
 - النصوص الأصلية مفقودة، والمعلومات الوحيدة من نقد الخصوم.
 - الإلحاد النابع من القدرية قد يبدو متناقضاً: مَن خلق Niyati؟
+
+## المصادر
+
+- A. L. Basham, *History and Doctrines of the Ājīvikas: A Vanished Indian Religion* (London: Luzac & Company, 1951).
+- Benimadhab Barua, *The Ajivikas* (Calcutta: University of Calcutta, 1920).

@@ -16,16 +16,17 @@ edges:
 - rel: "belongs_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
 - id: "thk-democritus", title: "ديموقريطس", type: "مفكر"
-- id: "thk-leucippus", title: "ليوقيبس", type: "مفكر"
-- id: "thk-nausiphanes", title: "ناوسيفانيس", type: "مفكر"
+- id: "thk-leucippus", title: "لوقيبوس الميليسي", type: "مفكر"
+- id: "thk-nausiphanes", title: "نوسيفانس الطيبي (Nausiphanes of Teos)", type: "مفكر"
 - id: "thk-epicur", title: "أبيقور", type: "مفكر"
 - id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
-- id: "con-atom-void", title: "الذرة والخلاء", type: "مفهوم"
+- id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"
 - id: "con-jawhar-fard-atomic-monad", title: "الجوهر الفرد", type: "مفهوم"
 gaps:
   - "كتاباته مفقودة بالكامل، وخلاصة آرائنا مستمدة من Ploutarkhos وTheophrastos."
   - "تاريخ ولادته ووفاته غير محدّد بدقة (نحو 440–370 ق.م كتقدير معاصر)."
   - "لا توجد ترجمة عربية حديثة لمقارنة Ploutarkhos بين ميترودوروس الخيوي وأبيقور."
+  - "لا يوجد اقتباس حرفي منسوب إليه بثقة تُميّزه عن الصياغات المشتركة مع بروتاغوراس؛ لذلك أُزيل قسم الاقتباسات من هذه المسودة."
 ---
 
 # ميترودوروس الخيوي
@@ -53,10 +54,8 @@ gaps:
 - شذرات منقولة عبر Plutarch (*Against Colotes*) وTheophrastos (*De sensibus*).
 - رسائل إلى Hippocrates (شذرات في *Epistolographi Graeci*).
 
-## اقتباسات مختارة
+## المصادر
 
-> "إنّ الإنسان هو المقياس في كلّ شيء: أنّ الأشياء موجودة وأنّها ليست موجودة."
-> *(نسبة منقولة عبر Sextus Empiricus، Adv. Math. VII 138، مع تنبيه أنّ الصياغة مشتركة مع بروتاغوراس)*
-
-> "إنّ ظنّنا بأنّ الإله يوجد، هو مجرّد وهم بشريّ."
-> *(شذرة في Clemens Alexandrinus، Protrepticus، II 24.2)*
+- Hermann Diels & Walther Kranz, *Die Fragmente der Vorsokratiker*, الفقرات 70 A–B (الطبعة السادسة، 1951–1952) — المرجع القياسي لشذرات ميترودوروس.
+- Diogenes Laertius, *Lives of Eminent Philosophers*, Book IX (يذكر ميترودوروس ضمن سلسلة تلاميذ ديموقريطس).
+- Jaap Mansfeld & David Runia, *Aëtiana: The Method and Intellectual Context of a Doxographer* (Brill, 1997) — يناقش الشذرات المنسوبة إليه عبر أَيتيوس.

@@ -18,7 +18,7 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـإيلين سيرلين."
   - "تطبيقها للعلاج بالحركة والرقص في الصدمات من منظور وجودي-إنساني يستحق إدراجاً في التقنيات."
 ---
 
@@ -40,3 +40,9 @@ gaps:
 ## أهم أعمالها
 
 علم النفس الإنساني كحركة للشفاء (Whole Person Healthcare, 2007) · العلاج بالحركة والرقص الوجودي (Dance Movement Therapy and Trauma, 2010).
+
+## المصادر
+
+- Serlin, I. A. (Ed.) (2007). *Whole Person Healthcare* (3 vols.). Praeger.
+- Serlin, I. A. (1996). Kinaesthetic imagining. *Journal of Humanistic Psychology*, 36(2).
+- APA Division 32 (Society for Humanistic Psychology) — سجل الرؤساء السابقين، يذكر سيرلين ضمنهم.

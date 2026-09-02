@@ -8,12 +8,16 @@ en: "The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way Yo
 crumb: "علم النفس المعرفي ← الأعمال ← الحياة العاطفية لدماغك"
 dates: "2012 · ريتشارد ديفيدسون"
 language: "الإنجليزية"
+author: "ريتشارد ديفيدسون"
+author_slug: "thk-richard-davidson"
+publication_year: 2012
+original_language: "الإنجليزية"
 active_start: 2012
 active_end: 2012
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "ريتشارد ديفيدسون", target_type: "مفكر"
+- rel: "authored_by", target: "thk-richard-davidson", target_type: "مفكر"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 gaps:

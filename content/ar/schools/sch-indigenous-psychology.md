@@ -27,9 +27,9 @@ related:
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"
 - id: "thk-mbraveheart", title: "ماريا يلوهورس بريف هارت", type: "مفكر"
-- id: "thk-jgone", title: "جوزيف غون", type: "مفكر"
+- id: "thk-jgone", title: "جوزيف ب. غون", type: "مفكر"
 - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
-- id: "thk-elifellows", title: "جوزيف أ. وايت جونيور", type: "مفكر"
+- id: "thk-elifellows", title: "جوزيف ل. وايت جونيور", type: "مفكر"
 - id: "thk-lsaari", title: "لوسيان ليفي-برول", type: "مفكر"
 - id: "con-emic-etic", title: "الإيميتيك والإتيك", type: "مفهوم"
 - id: "con-two-eyed-seeing", title: "الرؤية بعينين", type: "مفهوم"
@@ -85,3 +85,11 @@ gaps:
 ## اقتباسات مختارة
 
 «الرؤية بعينين: المعرفة على كل عينيها، وأنت تعرف عينيك في كل منظور. لا تخلط العينين معاً، اجعلهما معاً.» — Albert Marshall، *Mi'kmaq Elder* (2004، في Bartlett et al. 2012) — مُعاد صياغته من الإنجليزية بترجمة موثقة من أقواله في المؤتمرات.
+
+## المصادر
+
+- Kim, U., & Berry, J. W. (Eds.). (1993). *Indigenous Psychologies: Research and Experience in Cultural Context*. Sage Publications.
+- Gone, J. P. (2013). Redressing First Nations historical trauma: Theorizing mechanisms for indigenous culture as mental health treatment. *American Psychologist / Transcultural Psychiatry*.
+- Kimmerer, R. W. (2013). *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants*. Milkweed Editions.
+- Bartlett, C., Marshall, M., & Marshall, A. (2012). Two-Eyed Seeing and other lessons learned within a co-learning journey of bringing together indigenous and mainstream knowledges and ways of knowing. *Journal of Environmental Studies and Sciences*, 2(4).
+- Brave Heart, M. Y. H. (1998). The return to the sacred path: Healing the historical trauma and historical unresolved grief response among the Lakota. *Smith College Studies in Social Work*, 68(3).

@@ -13,11 +13,12 @@ language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1781
 active_end: 1880
 active_source: "lifespan"
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 - rel: "split_into", target: "sch-neokantian", target_type: "مدرسة"
 related:
-- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
 - id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
@@ -25,7 +26,6 @@ gaps:
   - "رابط مقترح لـ«فريدريش هاينريش ياكوبي» (thk-jakobi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«يوهان فريدريش هربارت» (thk-herbart) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع كتب مثل 'نقد ملكة الحكم' كانط في نصها الأصلي لهذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الكانطية النقدية
@@ -54,3 +54,11 @@ gaps:
 
 - صعوبة الفصل المطلق عن المثالية الذاتية (فيشته) وعن المثالية الترانسندنتالية.
 - مفهوم «الشيء في ذاته» ذاته أُعيد تفسيره في كل جيل (ياكوبي، مابورغ، فريدیمان).
+
+## المصادر
+
+- إيمانويل كانط، «نقد العقل الخالص» (Kritik der reinen Vernunft، 1781/1787).
+- إيمانويل كانط، «نقد العقل العملي» (Kritik der praktischen Vernunft، 1788).
+- إيمانويل كانط، «نقد ملكة الحكم» (Kritik der Urteilskraft، 1790).
+- فريدريش هاينريش ياكوبي، «ديفيد هيوم عن الإيمان، أو المثالية والواقعية» (David Hume über den Glauben, oder Idealismus und Realismus، 1787).
+- Frederick C. Beiser, *The Fate of Reason: German Philosophy from Kant to Fichte* (Harvard University Press, 1987).

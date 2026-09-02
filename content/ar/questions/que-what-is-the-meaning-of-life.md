@@ -16,10 +16,9 @@ related:
 - id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-- id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:
-- "المصادر الأولية (Tolstoy، Frankl، Camus، Yalom) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "المصادر الأولية (Tolstoy، Frankl، Camus، Yalom) تحتاج مراجعة بأرقام صفحات دقيقة."
 - "الفرق بين 'المعنى' في العلاج الوجودي و'المعنى' في علم النفس الإيجابي يحتاج فصلاً."
 - "العلاقة بالدين (Religious Meaning) والروحانية (Spirituality) تحتاج توثيقاً."
 ---

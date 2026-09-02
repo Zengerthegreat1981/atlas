@@ -13,11 +13,12 @@ language: "الصينية الكلاسيكية والكورية"
 active_start: 1566
 active_end: 1584
 edges:
-- rel: "belongs_to", target: "الكونفوشية الكورية / النيوكونفوشية الكورية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-korean-neoconfucian", target_type: "مدرسة"
 related:
+- id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
+- id: "thk-yi-hwang-toegye", title: "يي هوانغ (تيجاي)", type: "مفكر"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا تتوفر ترجمة عربية نقدية لـSeonghak jibyo أو لرسائل مناظرة الأربعة-السبعة."
 ---
 
 # يي إي (يولغوك)
@@ -42,6 +43,8 @@ gaps:
 - *Seonghak jibyo* (خلاصة التعلّم الأسمى) — مرفوع إلى الملك سونجو.
 - رسائل مناظرة الأربعة-السبعة مع سونغ هون.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Yi I, *Seonghak jibyo* [Essentials of the Sagely Learning] (1575).
+- Kalton, M. C. et al. (trans., 1994). *The Four-Seven Debate: An Annotated Translation of the Most Famous Controversy in Korean Neo-Confucian Thought*. State University of New York Press.
+- Ro, Y. (1989). *The Korean Neo-Confucianism of Yi Yulgok*. State University of New York Press.

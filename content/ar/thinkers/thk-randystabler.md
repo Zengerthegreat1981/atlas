@@ -2,47 +2,41 @@
 slug: "thk-randystabler"
 id: "THK-2748"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "راندي ستابلر"
 en: "Randy Stabler"
-crumb: "العلاج متعدد الأنظمة (MST) (العلاج المتعدد الأنظمة) ← تطوير ← راندي ستابلر"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
-country: "الولايات المتحدة"
-language: "الإنجليزية"
-active_start: 2010
-active_end: "مستمر"
-part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
-related:
-- id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
-- id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
-- id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"
+part: "psychology"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-randystabler.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
+  - "**تصحيح T3.4 (2026-08-27):** الـfrontmatter الأصلي لهذا الملف كان يحتوي بالخطأ على كتلتي YAML متتاليتين (frontmatter مكسور) أبقت edges وrelated القديمة غير المحجورة نشطة آلياً رغم أن جسم الملف يعلن الحجر بوضوح؛ أُعيدت كتابة الـfrontmatter ككتلة واحدة نظيفة متسقة مع حالة الحجر الفعلية."
 ---
 
 # راندي ستابلر
 
-ممارس وباحث في **العلاج المتعدد الأنظمة** (MST)، من المساهمين في **تطوير نماذج تكاملية** تجمع MST مع خدمات الصحة النفسية الأخرى.
+(Randy Stabler)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-randystabler.md.archived.2026-08-26`
 
-- مساهمات في **تطوير «MST-Integrated»** الذي يدمج خدمات الصحة النفسية في خدمات MST.
-- فصول في كتب عن **«MST والصحة النفسية المتكاملة»**.
-- مساهمات في **تدريب فرق عمل** متعددة التخصصات.
-- أبحاث عن **«نماذج التعاون بين الأنظمة»**.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-يتميّز ستابلر بتركيزه على **التكامل** بين MST والأنظمة الأخرى (الصحية، التعليمية، العدلية)، وهو ما يُنتج مقاربة أكثر تنظيماً للتعامل مع الحالات المعقّدة.
+هذا المفكر ورد في مسار MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## أهم أعماله
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-- أبحاث منشورة في *Journal of Behavioral Health Services & Research*.
+## للمتابعة
 
-## اقتباسات مختارة
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-randystabler.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-randystabler.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

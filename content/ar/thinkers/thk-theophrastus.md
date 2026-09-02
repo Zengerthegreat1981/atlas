@@ -15,8 +15,8 @@ active_end: -287
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نسبة كتاب 'آراء الطبيعيين' (Physikōn Doxai) إليه كاملاً محل نقاش أكاديمي — بعض شذراته قد تعود لتلخيصات لاحقة لا لنصّه الأصلي."
+  - "لم يُدرَج اقتباس نصّي مباشر لأن الشذرات المتاحة تصل عبر نقل ديوجانيس اللائرتي وغيره لا بإسناد يوناني أصلي مباشر يمكن توثيقه بدقة."
 ---
 
 # ثاوفرسطس الإريسي
@@ -43,6 +43,9 @@ gaps:
 - *الميتافيزيقا* (رسالة قصيرة).
 - *في الأحجار*، *آراء الطبيعيين* (مفقود، مصدر الدوكسوغرافيا كلها).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Diogenes Laertius, *Lives of the Eminent Philosophers*, Book V (السيرة الأقدم لثاوفرسطس وقائمة مؤلفاته).
+- Fortenbaugh, W. W. (ed.), *Theophrastus of Eresus: Sources for His Life, Writings, Thought and Influence* (1992), Brill.
+- Theophrastus, *Characters*, trans. J. Rusten, Loeb Classical Library (2003).
+- Sharples, R. W., *Theophrastus of Eresus: Commentary Volume 5 — Sources on Biology* (1995), Brill.

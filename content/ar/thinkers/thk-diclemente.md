@@ -3,17 +3,15 @@ slug: "thk-diclemente"
 id: "THK-2604"
 type: "مفكر"
 level: "مبتدئ"
-title: "كارل دي كليمنتي"
+title: "كارلو دي كليمنتي"
 en: "Carlo C. DiClemente"
-crumb: "التكاملية/الانتقائية ← الناس ← النموذج العابر للنظريات ← كارل دي كليمنتي"
+crumb: "التكاملية/الانتقائية ← الناس ← النموذج العابر للنظريات ← كارلو دي كليمنتي"
 dates: "الولايات المتحدة · 1942–[DRAFT-UNKNOWN]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
 related:
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
@@ -22,9 +20,11 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الاسم صُحِّح من «كارل» إلى «كارلو» ليطابق الحقل en (Carlo C. DiClemente)."
+  - "لا يوجد slug مدرسة/فرع معتمد للنموذج العابر للنظريات (Transtheoretical Model)؛ حُذف رابط edges.belongs_to بدل ربطه خطأً بمدرسة فلسفية هلنستية-رومانية لا صلة لها."
 ---
 
-# كارل دي كليمنتي
+# كارلو دي كليمنتي
 
 عالم نفس سريري وأستاذ أمريكي، شارك جيمس بروتشاسكا في تأسيس «النموذج العابر للنظريات» (TTM) و«مراحل التغيير»، وهو المؤسس المشارك لأداة «URICA» (University of Rhode Island Change Assessment).
 

@@ -17,11 +17,10 @@ edges:
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل / كتاب"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "أثر ترجمتها لـ«الوجود والعدم» في تشكّل المفردات الوجودية الإنجليزية يستحق دراسة مستقلة."
 ---
 

@@ -14,14 +14,13 @@ active_start: 1910
 active_end: 1935
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
-- rel: "related_to", target: "علم النفس الأفريقي", target_type: "مدرسة"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"
-- id: "thk-amadiume", title: "إفان أميضوم", type: "مفكر"
-- id: "thk-senghor", title: "ليوبولد سار سنغور", type: "مفكر"
-- id: "thk-biko", title: "ستيفن بيكو", type: "مفكر"
+- id: "thk-amadiume", title: "إيفي أماديومي", type: "مفكر"
+- id: "thk-senghor", title: "ليوبولد سيدار سنغور", type: "مفكر"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: كارل يونغ (thk-ajung)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: كلود ليفي-ستروس (thk-levis-strauss)"

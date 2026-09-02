@@ -10,21 +10,21 @@ crumb: "Solution-Focused Therapy ← المفاهيم ← حديث الحل"
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-solution-focused", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
-- id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
-- id: "thk-chris-iveson", title: "كريس إيفسون", type: "مفكر"
-- id: "con-solution-focused-miracle-q", title: "السؤال المعجزة", type: "مفهوم"
+- id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
+- id: "thk-chris-iveson", title: "كريس إيفسون (Chris Iveson)", type: "مفكر"
+- id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل (SFBT)", type: "مدرسة"
+- id: "con-solution-focused-miracle-q", title: "سؤال المعجزة (Miracle Question) في العلاج المختصر القائم على الحل", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: إيجاد الاستثناء (con-exception-finding)"
   - "لم تُراجع من نسخة أصلية مباشرة بعد (de Shazer et al., 1986, 2007)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين Solution Talk و Positive Reframing يحتاج فصلاً."
 ---
 
 # حَدِيث الْحَلّ (Solution Talk) في SFT
 
-فِي الْعِلَاج الْمُرْكَز عَلَى الْحَلّ (Solution-Focused Therapy)، «**حَدِيث الْحَلّ**» (Solution Talk) هُوَ «**لُغَة**» (Language) الَّتِي تَتَحَدَّث عَن «**الْحُلول**» (Solutions) و«**الْاِسْتِثْنَاءَات**» (Exceptions) و«**الْمُسْتَقْبَل**» (Future) — بَدَل «**حَدِيث الْمَشْكِلَة**» (Problem Talk) الَّتِي تَتَحَدَّث عَن «**الْمَشَاكِل**» (Problems) وَ«**الْمَاضِي**» (Past). SFT يَقُول: «**مَا تَتَحَدَّث عَنْه يَكْبُر**» (What You Talk About Grows) — تَكْلِيم الْحُلول يُنَمِّي الْحُلول.
+فِي الْعِلَاج الْمُرْكَز عَلَى الْحَلّ (Solution-Focused Therapy)، «**حَدِيث الْحَلّ**» (Solution Talk) هُوَ «**لُغَة**» (Language) الَّتِي تَتَحَدَّث عَن «**الْحُلول**» (Solutions) و«**الْاِسْتِثْنَاءَات**» (Exceptions) و«**الْمُسْتَقْبَل**» (Future) — بَدَل «**حَدِيث الْمَشْكِلَة**» (Problem Talk) الَّتِي تَتَحَدَّث عَن «**الْمَشَاكِل**» (Problems) وَ«**الْمَاضِي**» (Past). SFT يَقُول: «**مَا تَتَحَدَّث عَنْه يَكْبُر**» (What You Talk About Grows) — تَكْلِيم الْحُلول يُنَمِّي الْحُلول. صَاغَ هَذَا التَّمْيِيز سْتِيف دِي شِيزَر (Steve de Shazer) فِي مَرْكَز الْعِلَاج الْأُسَرِي الْمُخْتَصَر بِمِيلْوُوكِي، وَطَوَّرَه لَاحِقاً كْرِيس إِيفْسُون (Chris Iveson) فِي مَعْهَد BRIEF بِلَنْدَن ضِمْن أَدَوَات الْعِلَاج الْمُرْكَز عَلَى الْحَلّ (sch-solution-focused).
 
 ## الْأَنْوَاع
 

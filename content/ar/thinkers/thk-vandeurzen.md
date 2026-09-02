@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-- id: "dbt-british-yalom", title: "الخصومة", type: "جدل"
-- id: "dbt-structures", title: "خصومة البنى", type: "جدل"
+- id: "dbt-british-yalom", title: "البريطانيون ضد التيار الأمريكي", type: "جدل"
+- id: "dbt-structures", title: "هل توجد بنى وجودية ثابتة؟", type: "جدل"
 - id: "thk-cohn", title: "هانز كون", type: "مفكر"
 - id: "thk-duplock", title: "سايمون دو بلوك", type: "مفكر"
 - id: "thk-tantam", title: "ديغبي تانتام", type: "مفكر"
@@ -59,3 +59,9 @@ gaps:
 ## اقتباسات مختارة
 
 «الحياة الجيدة ليست حياة خالية من الصعوبات، بل حياة نتعامل فيها مع الصعوبات جيداً.» — ألغاز يومية، 1997<br>«القلق ليس عدواً يجب التخلص منه، بل إشارة إلى أن هناك شيئاً يستحق الانتباه إليه.» — المفارقة والشغف في العلاج النفسي، 1998
+
+## المصادر
+
+- van Deurzen, E. *Existential Counselling and Psychotherapy in Practice* (1988).
+- van Deurzen, E. *Everyday Mysteries: Existential Dimensions of Psychotherapy* (1997).
+- New School of Psychotherapy and Counselling, لندن — السجل المؤسسي لتأسيسها.

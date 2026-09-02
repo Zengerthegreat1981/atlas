@@ -11,15 +11,19 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: null
 active_end: "مستمر"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-hdavanloo", target_type: "مفكر"
 related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
+- id: "tec-stpp", title: "التحليل النفسي الديناميكي قصير المدى (STPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-istdp-head-on-collision", title: "تقنية المواجهة الصريحة مع المقاومة في ISTDP", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "ملف study مستقل لدراسة Luborsky وCrits-Christoph (PENN) المذكورة في المتن: غير موجود في الأطلس، فلا يمكن ربطها كـrelated."
+  - "الفروق النوعية بين ISTDP وTFP لم تُدعم بمصدر أولي منشور."
 ---
 
 # العلاج الديناميكي المكثف قصير المدى (ISTDP)
@@ -43,10 +47,10 @@ ISTDP (Intensive Short-Term Dynamic Psychotherapy) تقنية علاجية قص�
 
 ## موقعه من المدرسة
 
-تقنية «مُثبتة علمياً» (Evidence-Based) في علاج الاكتئاب والأمراض النفسجسمية. أبحاث «PENN» (Luborsky، Crits-Christoph) أظهرت فعاليتها.
+تقنية «مُثبتة علمياً» (Evidence-Based) بدرجة «ربما فعّالة» (probably-efficacious) في علاج اضطراب الاكتئاب الجسيم (MDD) والأمراض النفسجسمية. أبحاث «PENN» (Luborsky، Crits-Christoph) أظهرت فعاليتها.
 
 ## القيد
-تقنية «مُكثَّفة» تحتاج معالجاً مُدرَّباً على «مواجهة الدفاع».
+تقنية «مُكثَّفة» تحتاج معالجاً مُدرَّباً على «مواجهة الدفاع». من أشهر تكتيكاتها التنفيذية «تقنية المواجهة الصريحة مع المقاومة» التي تُستخدم في اللحظات المتقدمة من الجلسة بعد بناء التحالف العلاجي الواعي.
 
 ## أهم المراجع
 

@@ -12,13 +12,12 @@ language: "إنجليزية"
 active_start: 1998
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الرولفينغ والتكامل الهيكلي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-irolf", title: "إيدا رولف", type: "مفكر"
 gaps:
-  - "السيرة الذاتية الكاملة في Kinesis Inc لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا ملف مدرسة مستقل للرولفينغ/التكامل الهيكلي بعد؛ سُجِّل توماس مايرز ضمن أعضائها اليتامى في agents_specs/missing-schools.md (مع thk-rschleip)."
+  - "سيرته التفصيلية في موقع Kinesis Inc (المعهد الذي أسّسه) لم تُراجع بعد لتوثيق تواريخ دقيقة إضافية."
 ---
 
 # توماس مايرز
@@ -44,3 +43,9 @@ gaps:
 
 ## القيد
 - **"Anatomy Trains"** خضع لاختبار تجريبي محدود، وكثير من خطوطه تبقى في مقام "فرضيات" منهجية.
+
+## المصادر
+
+- Myers, T.W. (2014). *Anatomy Trains: Myofascial Meridians for Manual and Movement Therapists* (3rd ed.). Churchill Livingstone/Elsevier.
+- Schleip, R. & Myers, T.W. (eds.) (2021). *Fascial Fitness*. Lotus Publishing.
+- موقع Kinesis Inc (السيرة المهنية الرسمية والدورات التدريبية): kinesisinstitute.co.uk

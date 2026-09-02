@@ -19,7 +19,10 @@ related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
 - id: "con-maladaptive-emotion", title: "الانفعالات المُحوَّلة", type: "مفهوم"
+- id: "con-primary-adaptive-maladaptive-emotions", title: "الانفعالات الأولية والثانوية في العلاج الموجه بالانفعال (EFT)", type: "مفهوم"
 - id: "tec-stair-nt", title: "تنظيم الانفعالات", type: "تقنية/تدخل علاجي"
+- id: "tec-two-chair-dialogue-eft", title: "تقنية حوار الكرسيين لتجاوز النقد الذاتي في EFT", type: "تقنية/تدخل علاجي"
+- id: "tec-empty-chair-dialogue-eft", title: "تقنية الكرسي الفارغ لحسم الأعمال غير المكتملة في EFT", type: "تقنية/تدخل علاجي"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: كارول ماغاي وجنيفر هان (thk-carol-magai)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الانفعالات الثانوية (con-secondary-emotion)"
@@ -47,6 +50,8 @@ gaps:
 - **الرغبة** استجابة لإمكانية → يُعِدُّ للسعي.
 
 ## الفرق عن الانفعالات الثانوية
+
+(هذا التمييز جزء من التصنيف الرباعي الأشمل الذي يفصّله مدخل "الانفعالات الأولية والثانوية في العلاج الموجه بالانفعال (EFT)".)
 
 | الانفعالات الأولية | الانفعالات الثانوية |
 |---|---|
@@ -99,9 +104,3 @@ gaps:
 - Greenberg, L. S., & Paivio, S. C. (1997). *Working with Emotions in Psychotherapy*. Guilford Press.
 - Greenberg, L. S. (2011). *Emotion-Focused Therapy: A Clinical Synthesis*. APA.
 - Tomkins, S. (1991). *Affect Imagery Consciousness*. Springer.
-
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-eft** كمفهوم نظري مؤسِّس.
-- مرتبط بـ**con-secondary-emotion** (الانفعالات الثانوية) و**con-maladaptive-emotion** (الانفعالات المُحوَّلة) كمكمِّلات.
-- مرتبط بـ**con-emotion-regulation** (تنظيم الانفعالات) كإطار علاجي أوسع.

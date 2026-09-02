@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "rel-act", target_type: "مدرسة"
-- rel: "developed_by", target: "ستيفن هايز", target_type: "مفكر"
+- rel: "developed_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
 - id: "dia-existential-act-encounter", title: "لحظة تقاطع: العلاج الوجودي والقبول والالتزام (ACT)", type: "حوار مع مدرسة مجاورة"

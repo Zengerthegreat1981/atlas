@@ -14,19 +14,14 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "co-developed", target: "المقابلة التحفيزية (Motivational Interviewing)", target_type: "تيار"
+- rel: "co-developed", target: "tec-motivational-interviewing", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
-- id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
-- id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
-- id: "thk-dabrowski", title: "كازيمير دابروفسكي", type: "مفكر"
-- id: "thk-farrelly", title: "فرانك فاريلي", type: "مفكر"
-- id: "thk-lieberman", title: "ألسي ليبرمان (باتريسيا)", type: "مفكر"
 - id: "con-motivational-spirit", title: "روح المقابلة التحفيزية (MI Spirit)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ الميلاد الدقيق (1950) تقريبي ولم يُراجع من مصدر أولي."
   - "لا يوجد عنصر thk-wmiller في الفهرس (ويليام ميلر المؤسس المشارك) — يحتاج إنشاء في معالجة لاحقة."
+  - "روابط `br-psychodynamic-humanistic`، `thk-assagioli`، `thk-dabrowski`، `thk-farrelly`، `thk-lieberman` أُزيلت — لا جملة في المتن تبرر صلتهم برولنيك أو بالمقابلة التحفيزية."
 ---
 
 # ستيفن رولنيك
@@ -54,3 +49,8 @@ gaps:
 
 ## القيد
 موقعه الجغرافي في ويلز (وليس أمريكا) حدّ من حضوره في الأدبيات الأمريكية المبكرة رغم التأثير العالمي. أيضاً، يخلط كثير من الممارسين بينه وبين «ويليام ريتشارد ميلر» الأصلي (وليس W.R. Miller من جامعة نيو مكسيكو)، فيحدث التباس في الاستشهاد.
+
+## المصادر
+
+- Miller, W. R., & Rollnick, S. (1991). *Motivational Interviewing: Preparing People to Change Addictive Behavior*. Guilford Press.
+- Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care*. Guilford Press.

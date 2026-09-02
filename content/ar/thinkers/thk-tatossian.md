@@ -21,8 +21,7 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه الأساسي في الفينومينولوجيا النفسية المرضية يحتاج إلى مراجعة مقارنة بين نسخته الأصلية وترجماته."
+  - "لم يُعثر على اقتباس منسوب مباشرة لتاتوسيان أثناء البحث المتاح."
 ---
 
 # أرتور تاتوسيان
@@ -42,4 +41,11 @@ gaps:
 
 ## أهم أعماله
 
-فينومينولوجيا الذهانات (La Phénoménologie des psychoses, 1979) · علم النفس المرضي الفينومينولوجي (Psychiatrie phénoménologique, 1997).
+فينومينولوجيا الذهانات (La Phénoménologie des psychoses, 1979) · علم النفس المرضي الفينومينولوجي (Psychiatrie phénoménologique، جُمع ونُشر بعد وفاته عام 1997).
+
+## المصادر
+
+- BnF Catalogue général, "Tatossian, Arthur (1929-1995)": https://catalogue.bnf.fr/ark:/12148/cb120407962
+- IdRef, "Tatossian, Arthur (1929-1995 ; neuropsychiatre)": https://www.idref.fr/028606280
+- Tatossian, A. (1979). *La Phénoménologie des psychoses*. Masson.
+- Tatossian, A. (1997، نُشر بعد وفاته). *Psychiatrie phénoménologique*. L'Art du Comprendre.

@@ -11,15 +11,15 @@ active_start: 1852
 active_end: 1852
 language: "الألمانية"
 part: "psychology"
+author: "رودلف هرمان لوتسه"
+publication_year: 1852
+original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
-- rel: "authored_by", target: "رودلف هرمان لوتسه", target_type: "مفكر"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 gaps:
   - "الكتاب لم يُترجم للإنجليزية كاملة — تحقق من أي ترجمات جزئية متاحة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Lotze في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # علم النفس الطبي

@@ -12,6 +12,10 @@ country: "الإمبراطورية الرومانية (شمال أفريقيا)"
 language: "اللاتينية"
 active_start: null
 active_end: "مستمر"
+author: "أوغسطينوس"
+author_slug: "thk-augustine"
+publication_year: 426
+original_language: "اللاتينية"
 edges:
 - rel: "belongs_to", target: "sch-augustinianism", target_type: "مدرسة"
 related:
@@ -19,7 +23,6 @@ related:
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
 gaps:
   - "الترجمات العربية 'القرن 20' تحتاج توثيقاً دقيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مدينة الله (De Civitate Dei)

@@ -11,7 +11,7 @@ dates: "1979 · رورتي"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1979
-active_end: 1979
+active_end: 1998
 edges:
 - rel: "belongs_to", target: "sch-neopragmatism", target_type: "مدرسة"
 related:

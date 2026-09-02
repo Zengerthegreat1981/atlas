@@ -3,6 +3,7 @@ slug: "sch-lixue"
 id: "SCH-0184"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "east-asian"
 level: "متوسط"
 title: "مدرسة المبدأ (Lixue / Cheng-Zhu)"
 en: "School of Principle (Lixue / Cheng-Zhu School)"
@@ -19,13 +20,12 @@ related:
 - id: "thk-cheng-yi", title: "تشنغ يي", type: "مفكر"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 - id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
-- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«البوذية الصينية» (sch-buddhism-chinese) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Cheng Yi وZhu Xi الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التوتر الداخلي بين 'مدرسة تشنغ' و'مدرسة تشو' (Cheng Yi vs. Cheng Hao) لم يُحلّ في هذه المسودة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # مدرسة المبدأ (Lixue / Cheng-Zhu)
@@ -53,3 +53,10 @@ gaps:
 - في القرن 16-17، أصبحت موضع نقد وانغ يانغ مينغ (وانظر sch-xinxue): «المبدأ يَسكُن في القلب، لا في الكتب».
 - في القرن 18، هاجمت مدرسة «Kaozheng» (التعلّم الإثباتي) طابعها «المُسبق الافتراضي»، فدعت إلى «البحث في الأدلة» (Kaozheng) بدل تأمّل «المبادئ الفارغة».
 - في القرن 20، استُنبط من تعاليمها «أخلاق المبدأ الواحد» (Kant، Hegel) في قراءات الفيلسوف الجديد مو تسي.
+
+## المصادر
+
+- Chan, Wing-tsit. (1963). *A Source Book in Chinese Philosophy*. Princeton University Press.
+- Zhu Xi, & Lü Zuqian. (1967). *Reflections on Things at Hand* (W. T. Chan, Trans.). Columbia University Press.
+- Bol, Peter K. (2008). *Neo-Confucianism in History*. Harvard University Asia Center.
+- Angle, Stephen C., & Tiwald, Justin. (2017). *Neo-Confucianism: A Philosophical Introduction*. Polity Press.

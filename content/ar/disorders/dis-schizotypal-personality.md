@@ -12,9 +12,6 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
@@ -26,34 +23,41 @@ related:
 - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة المُمتعة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-worry-exposure", title: "التعرض للقلق", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "تبنّي المنظور", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-observe", title: "الملاحظة", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-- id: "syn-hypervigilance", title: "اليقظة المُفرطة", type: "متلازمة"
+- id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 gaps:
   - "التفاصيل الدقيقة للنموذج البُعدي لـ ICD-11 في StPD (سمة Detachment مع Anankastia) لم تُراجع من المصدر الأولي."
   - "التمييز بين StPD و prodrome للاضطرابات الفصامية في الأدبيات الحديثة لم يُوثَّق بدقة."
   - "الفاعلية المحدودة للعلاجات النفسية في StPD (مقارنة باضطرابات الشخصية الأخرى) لم تُقارَن من مصدر أولي."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الشخصية شبه الفصامية
 
 اضطراب شخصية يتميز بنمط منتشر من الانزعاج الاجتماعي، تشوهات إدراكية ومعرفية، وسلوك غريب الأطوار. يقع تحت Cluster A (الغريب/شبه الذهاني) في DSM-5-TR. يمثل StPD الجسر بين الشخصية السوية والاضطرابات الطيف الفصامي — كثير من المرضى تظهر عليهم أعراض ذهانية خفيفة دون بلوغ مستوى الفصام الكامل.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل بقية عناصر نوع 'الاضطراب/الحالة الإكلينيكية'، يلتزم بوصف فئة StPD التشخيصية معرفياً كما تنص عليها معايير DSM-5-TR وICD-11 المذكورة أعلاه، دون تقديم أي تقييم تشخيصي مباشر لحالة فردية أو توجيه علاجي شخصي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الشخصية شبه الفصامية كفئة تشخيصية إكلينيكية (معايير A في DSM-5-TR، سمة Detachment/Anankastia في ICD-11) وبين مفهوم 'التحليل الفصامي وآلات الرغبة' (Schizoanalysis) عند دولوز وغتاري (con-schizoanalysis-desiring-machines، 1972) — الأخير توظيف فلسفي-سياسي لصورة 'الفصامي' كذات مُحرَّرة من بنى القمع البرجوازي، وليس فئة مرضية ولا يصف أي معيار تشخيصي إكلينيكي فعلي.
 
 ## ملاحظات على المعايير التشخيصية
 

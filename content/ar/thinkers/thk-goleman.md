@@ -14,13 +14,13 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والصحافة العلمية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
 - id: "wrk-emotional-intelligence", title: "الذكاء العاطفي", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـدانيال غولمان في الأدبيات المتاحة."
 ---
 
 # دانيال غولمان
@@ -55,6 +55,3 @@ gaps:
 - *Social Intelligence* (2006).
 - *Focus* (2013)، *Altered Traits* (2017، مع ريتشارد ديفيدسون).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

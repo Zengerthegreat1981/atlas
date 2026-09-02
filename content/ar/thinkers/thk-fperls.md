@@ -15,7 +15,7 @@ active_end: 1970
 edges:
 - rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
-- id: "thk-lperls", title: "لورنس بيرلز (لوريتا بيدرمان لاحقاً)", type: "مفكر"
+- id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
 - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
 - id: "thk-jzinker", title: "جوزيف زِنكِر", type: "مفكر"
 - id: "thk-epolster", title: "إرفينغ بولستر", type: "مفكر"
@@ -55,7 +55,7 @@ gaps:
 ## أهم أعماله
 
 - *Ego, Hunger and Aggression: A Revision of Freud's Theory and Method* (1942) — عمله المبكر في جنوب أفريقيا.
-- *Gestalt Therapy: Excitement and Growth in the Human Personality* (1951) — مع بول غودمان ولورنس بيرلز.
+- *Gestalt Therapy: Excitement and Growth in the Human Personality* (1951) — مع بول غودمان ولورا بيرلز.
 - *Gestalt Therapy Verbatim* (1969) — مُحرَّر من تسجيلات جلسات في معاهد مختلفة.
 - *In and Out the Garbage Pail* (1969) — سيرته الذاتية.
 - *The Gestalt Approach & Eye Witness to Therapy* (1973) — منشور بعد وفاته.

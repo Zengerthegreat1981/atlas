@@ -26,8 +26,6 @@ related:
 - id: "con-hermeneutics", title: "الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم", type: "مفهوم"
 - id: "con-phenomenology", title: "الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "ثلاثية 'الزمان والسرد' (Temps et Récit) ومفهوم 'الهوية السردية' والذات كآخر تستحق إدراجاً في الأعمال."
   - "هوية الملف: الـslug `thk-ricoeur` يشير إلى Paul Ricœur. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
 ---
 
@@ -52,4 +50,11 @@ gaps:
 
 ## اقتباسات مختارة
 
-«الرمز يُثير الفكر» — الغائية والذنب (Finitude et culpabilité)، 1960
+«الرمز يُثير الفكر» (Le symbole donne à penser) — من الجزء الثاني «رمزية الشر» (La Symbolique du mal)، ضمن مشروع «الغائية والذنب» (Finitude et culpabilité)، 1960
+
+## المصادر
+
+- Ricœur, Paul. *Time and Narrative* (3 vols., ترجمة McLaughlin & Pellauer). University of Chicago Press, 1984–1988.
+- Ricœur, Paul. *Oneself as Another* (ترجمة Kathleen Blamey). University of Chicago Press, 1992.
+- Ricœur, Paul. *Freud and Philosophy: An Essay on Interpretation* (ترجمة Denis Savage). Yale University Press, 1970.
+- Stanford Encyclopedia of Philosophy, "Paul Ricœur".

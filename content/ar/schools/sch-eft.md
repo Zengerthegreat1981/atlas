@@ -13,6 +13,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 evidence_level: "well-established"
+cultural_origin: "anglo-canadian"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-greenberg-lisa", target_type: "مفكر"
@@ -113,4 +114,11 @@ gaps:
 
 - Greenberg, L. S. (2015). *Emotion-Focused Therapy: Revised and Updated*. APA.
 - Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-Focused Therapy for Complex Trauma*. APA.
+- Elliott, R., Watson, J., Goldman, R. N., & Greenberg, L. S. (2004). *Learning Emotion-Focused Therapy*. APA.
+
+## المصادر
+
+- Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change: The Moment-by-Moment Process*. Guilford Press.
+- Greenberg, L. S., & Paivio, S. C. (1997). *Working with Emotions in Psychotherapy*. Guilford Press.
+- Greenberg, L. S. (2002). *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings*. APA.
 - Elliott, R., Watson, J., Goldman, R. N., & Greenberg, L. S. (2004). *Learning Emotion-Focused Therapy*. APA.

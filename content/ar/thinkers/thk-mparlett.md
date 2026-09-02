@@ -12,14 +12,13 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الجشطالت الجسدي (Naranjo)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"
 - id: "thk-jzinker", title: "جوزيف زِنكِر", type: "مفكر"
 gaps:
   - "لا توجد مراجعة معمّقة لأعماله في التسعينيات."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـمالكولم بارلِت."
 ---
 
 # مالكولم بارلِت
@@ -40,7 +39,3 @@ gaps:
 
 - *The Dolphin Reader* (co-ed., 1980).
 - مقالات عدة في *British Gestalt Journal*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

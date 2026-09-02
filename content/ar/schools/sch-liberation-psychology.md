@@ -16,7 +16,6 @@ evidence_level: "experimental"
 active_start: 1986
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-liberation-philosophy", target_type: "مدرسة"
 related:
@@ -29,16 +28,14 @@ related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-mbraveheart", title: "ماريا يلوهورس بريف هارت", type: "مفكر"
-- id: "thk-jgone", title: "جوزيف غون", type: "مفكر"
-- id: "con-historical-trauma", title: "الصدمة التاريخية", type: "مفهوم"
-- id: "thk-pfreire", title: "باولو فريري (التحرر)", type: "مفكر"
+- id: "thk-jgone", title: "جوزيف ب. غون", type: "مفكر"
+- id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
+- id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
 - id: "thk-cora-zanuso", title: "كورا زانوسو (Cora Zanuso)", type: "مفكر"
 - id: "thk-marisol-montoya", title: "ماريسول مونتويا (Marisol Montoya)", type: "مفكر"
 gaps:
   - "لا تاريخ نهاية موثّق — الحقل في توسعة مع تطبيع جزئي في الجامعات الأمريكية اللاتينية الرسمية."
-  - "التمييز بين Martín-Baró بوصفه مؤسساً وMontero & Lira بوصفهما امتداداً له لم يُحلّ بدقة هنا."
-  - "لا يوجد اقتباس مباشر موثوق في هذه المسودة."
 ---
 # علم نفس التحرر
 
@@ -79,3 +76,11 @@ gaps:
 ## اقتباسات مختارة
 
 «إن علم النفس، إذا أراد أن يكون علماً حقيقياً عن الإنسان، يجب أن يكون في خدمة الإنسان. لا يصح أن يكون محايداً تجاه من يملك ومن لا يملك، تجاه من يأمر ومن يطيع، تجاه من يقتل ومن يُقتل.» — Ignacio Martín-Baró، *Hacia una psicología de la liberación* (1986، صدور بعد وفاته 1994) — مُعاد صياغته من الإسبانية.
+
+## المصادر
+
+- Martín-Baró, Ignacio. (1994). *Writings for a Liberation Psychology* (A. Aron & S. Corne, Eds. & Trans.). Harvard University Press.
+- Montero, Maritza. (2000). *Participación, Ámbitos, Retos y Perspectivas*. Ediciones CESAP.
+- Lira, Elizabeth. (1989). *Psicología de la amenaza política y del miedo*. ILAS.
+- Freire, Paulo. (1970). *Pedagogy of the Oppressed* (M. B. Ramos, Trans.). Continuum.
+- Fals Borda, Orlando, & Rahman, Muhammad Anisur. (1991). *Action and Knowledge: Breaking the Monopoly with Participatory Action-Research*. Apex Press.

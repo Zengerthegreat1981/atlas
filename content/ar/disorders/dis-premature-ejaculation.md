@@ -12,19 +12,17 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-pleasure", title: "اللذة", type: "مفهوم"
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
 - id: "tec-stop-start-technique", title: "تقنية التوقف والبدء (Stop-Start)", type: "تقنية/تدخل علاجي"
-- id: "tec-squeeze-technique", title: "تقنية الضغط (Squeeze)", type: "تقنية/تدخل علاجي"
+- id: "tec-squeeze-technique", title: "تقنية الضغط (Squeeze Technique)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (intravaginal ejaculatory latency time) لم تُراجع من المصدر الأولي."
   - "الفاعلية المقارنة بين تقنيات Stop-Squeeze و Stop-Start و Dapoxetine غير موثقة بدقة."
@@ -32,12 +30,19 @@ gaps:
   - "تقنية Stop-Squeeze و Stop-Start كتقنيات مستقلة غير مغطاة في الأطلس."
   - "الفرق بين الـ lifelong و acquired variant غير مشروح بدقة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # سرعة القذف (القذف المبكر)
 
 اضطراب جنسي عند الذكور يتميز بقذف يحدث قبل أو بعد الإيلاج بفترة قصيرة جداً، وبشكل لا يمكن التحكم فيه، مما يُسبّب ضائقة كبيرة للمريض و/أو شريكته. يُعتبر من أكثر الاضطرابات الجنسية شيوعاً عند الذكور.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين سرعة القذف كفئة تشخيصية رسمية (نمط قذف متكرر ضمن عتبة زمنية ومدة محددتين يسبب ضائقة) وبين 'اللذة' (con-pleasure) كمفهوم فلسفي وتحليلي-نفسي عن المبدأ اللذائذي وموقع اللذة في الحياة النفسية — الأول اضطراب وظيفي جنسي بمعايير قياس موضوعية (IELT) وتأثير ضائقة، بينما الثاني مفهوم نظري عن طبيعة اللذة وعلاقتها بالدافع النفسي، لا وصفاً لخلل وظيفي أو معياراً لأداء جنسي.
 
 ## ملاحظات على المعايير التشخيصية
 

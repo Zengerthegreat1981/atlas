@@ -16,15 +16,14 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-- id: "dbt-structures", title: "خصومة البنى", type: "جدل"
+- id: "dbt-structures", title: "هل توجد بنى وجودية ثابتة؟", type: "جدل"
 - id: "thk-cohn", title: "هانز كون", type: "مفكر"
 - id: "thk-mojastrasser", title: "لوتشيا مويا-شتراسر", type: "مفكر"
 - id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
 - id: "br-relational", title: "الصيغة العلائقية — الموجودي-الظاهراتي البريطاني (سبينيللي)", type: "تيار"
 - id: "br-spinelli-phenomenological", title: "العلاج الظاهراتي (سبينيلّي)", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر — أقل حضوراً في الأدبيات الشائعة المقتبَسة من الفلاسفة والروائيين الكبار، ويحتاج بحثاً مباشراً في مصدر أولي بدل الاستنتاج من معرفة عامة."
-  - "بيانات أعماله — تحتاج تثبيتاً"
+  - "سنة ميلاده وتفاصيل تكوينه الأكاديمي الأول غير موثّقة في هذا الملف."
 ---
 
 # إرنستو سبينيللي
@@ -50,3 +49,9 @@ gaps:
 ## أهم أعماله
 
 العالَم المُؤَوَّل: مدخل إلى علم النفس الظاهراتي (The Interpreted World, 1989) · نزع الغموض عن العلاج (Demystifying Therapy, 1994) · حكايات اللامعرفة: لقاءات علاجية من منظور وجودي (Tales of Un-knowing, 1997) · ممارسة العلاج الوجودي: العالَم العلائقي (Practising Existential Therapy, 2007)
+
+## المصادر
+
+- Ernesto Spinelli, *The Interpreted World: An Introduction to Phenomenological Psychology* (London: Sage, 1989).
+- Ernesto Spinelli, *Demystifying Therapy* (London: Constable, 1994).
+- Ernesto Spinelli, *Practising Existential Therapy: The Relational World* (London: Sage, 2007).

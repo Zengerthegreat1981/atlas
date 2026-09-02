@@ -2,7 +2,7 @@
 slug: "thk-galileo-galilei"
 id: "THK-2804"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "غاليليو غاليلي"
 en: "Galileo Galilei"

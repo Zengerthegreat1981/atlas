@@ -7,12 +7,16 @@ title: "أفيون المثقفين"
 en: "The Opium of the Intellectuals (Aron, 1955)"
 crumb: "المدرسة الوجودية ← الأعمال ← أفيون المثقفين (ريمون آرون)"
 part: "philosophy"
+author: "ريمون آرون"
+author_slug: "thk-aron"
+publication_year: 1955
+original_language: "الفرنسية"
 active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-elaine-aron", title: "ريمون آرون", type: "مفكر"
+- id: "thk-aron", title: "ريمون آرون", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"

@@ -1,0 +1,57 @@
+---
+slug: "thk-sdouglas"
+id: "THK-1920"
+type: "مفكر"
+level: "مبتدئ"
+title: "سو دوغلاس"
+en: "Sue Douglas"
+dates: "المملكة المتحدة"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 2005
+active_end: "مستمر"
+part: "philosophy"
+crumb: "العلاج النفسي النمائي الثنائي (DDP) ← تطوير ← سو دوغلاس"
+edges:
+- rel: "belongs_to", target: "br-ddp", target_type: "تيار"
+related:
+- id: "thk-kgolding", title: "كيم غولدنغ", type: "مفكر"
+- id: "thk-apert", type: "مفكر", title: "أنا أريتي"
+gaps:
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Sue Douglas' في DDP Society أو Research (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'Sue Douglas' (باحثة جامعية في الإعلام، جامعة Loughborough) أو 'Sue McHale' (ممارسة DDP في NHS)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'DDP UK' عام."
+---
+
+# سو دوغلاس
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في DDP]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Sue Douglas.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **DDP Society**: لا سيرة.
+  - **DDP Network UK**: لا نتائج.
+  - **PubMed**: لا مقالة.
+  - **Amazon**: لا كتاب منشور.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Sue Douglas** (أستاذة الإعلام في Loughborough University، متخصصة في الصحافة).
+  - **Sue McHale** (ممارسة DDP بارزة في NHS).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Hughes, D. A. (2009). *Attachment-Focused Parenting*. Norton.
+  - Golding, K. (2014). *Bridges to Recovery*. Routledge.
+  - DDP Network: https://ddpnetwork.org/

@@ -13,8 +13,8 @@ active_end: 1200
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
-- id: "thk-ibn-tufayl", title: "ابن طفيل", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
+- id: "thk-ibn-tufayl", title: "أبو بكر محمد بن عبد الملك بن طفيل", type: "مفكر"
 gaps:
   - "تطهير أرسطو من تأويلات ابن سينا والفيضية النيوأفلاطونية والعودة إلى المشائية الخالصة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

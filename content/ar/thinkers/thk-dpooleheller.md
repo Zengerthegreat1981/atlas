@@ -13,7 +13,7 @@ active_start: 1999
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 gaps:

@@ -13,8 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والقيادة الظرفية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-one-minute-manager", title: "مدير الدقيقة الواحدة", type: "عمل / كتاب"
 gaps:

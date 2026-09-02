@@ -15,12 +15,12 @@ edges:
 - rel: "formulated_by", target: "thk-hhendrix", target_type: "مفكر"
 - rel: "co_formulated_by", target: "thk-hlkelly", target_type: "مفكر"
 related:
-- id: "thk-hhendrix", title: "هارفي هندرِكس", type: "مفكر"
-- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
-- id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
+- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-hlkelly", title: "هيلين لاكيلي هانت", type: "مفكر"
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "الجذور الفلسفية الدقيقة لاستعارة هندريكس لكلمة 'Imago' من علم الأحياء ومن التحليل النفسي (Anima/Animus ليونغ) لم تُراجع من نصوصه الأكاديمية بعد."
   - "لا يوجد اقتباس مباشر موثوق من هندريكس بالعربية يعرّف المفهوم بدقة."

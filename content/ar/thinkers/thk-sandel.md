@@ -19,8 +19,8 @@ related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
 - id: "dbt-liberalism-vs-communitarianism", title: "جدل الليبرالية مقابل الجماعاتية", type: "جدل"
 gaps:
-  - "نص Liberalism and the Limits of Justice (1982) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الطبعة المحددة (الأولى 1982 أو الثانية المنقّحة 1998) التي بُني عليها هذا الملخص لم تُثبَّت."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
 ---
 
 # مايكل ساندل
@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 الليبرالية وحدود العدالة (Liberalism and the Limits of Justice, 1982) · الديمقراطية في أمريكا (Democracy's Discontent, 1996) · ما الذي لا يجوز بيعه في السوق (What Money Can't Buy, 2012) · التواضع الطاغية (The Tyranny of Merit, 2020).
+
+## المصادر
+
+- Sandel, M. *Liberalism and the Limits of Justice* (1982).
+- Sandel, M. *Justice: What's the Right Thing to Do?* (2009).
+- جامعة هارفارد — منهج مقرر Justice (HarvardX).

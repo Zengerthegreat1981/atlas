@@ -1,0 +1,73 @@
+---
+slug: "thk-mdombeck"
+id: "THK-2704"
+type: "مفكر"
+part: "philosophy"
+level: "مبتدئ"
+title: "مارك دومبيك"
+en: "Mark R. Dombeck"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1990
+active_end: "مستمر"
+part: "psychology"
+crumb: "PCIT (العلاج التفاعلي بين الوالد والطفل) ← تطوير ← مارك دومبيك"
+edges:
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
+related:
+- id: "thk-seyberg", title: "شيلي أيبرغ", type: "مفكر"
+- id: "thk-kbus", title: "كريستين باس", type: "مفكر"
+gaps:
+  - "الـslug (thk-mark-santross) يشير إلى اسم، لكن المحتوى عن Mark R. Dombeck."
+  - "الانفصال بين الـslug والمحتوى يحتاج تصحيحاً كاملاً."
+  - "سنة الميلاد غير منشورة."
+  - "Mark R. Dombeck شخصية حقيقية (معالج نفسي إكلينيكي) — انظر: https://www.psychologytoday.com/us/contributors/mark-dombeck-phd"
+  - "الاحتمال: خطأ في الاسم عند تسجيل الـslug."
+---
+
+# مارك دومبيك
+
+[هذا العنصر يحتاج مراجعة — الـslug يشير إلى "Mark Santross" بينما المحتوى يصف "Mark R. Dombeck"]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل (slug)**: thk-mark-santross.
+- **الاسم في المحتوى**: Mark R. Dombeck.
+- **التحقق من Mark R. Dombeck**:
+  - **Mark R. Dombeck, Ph.D., L.P.** (مُعالِج نفسي إكلينيكي): شخصية حقيقية. ممارس في Ohio.
+  - شخصية عامة على Psychology Today ومساهم في Mental Help Net.
+
+## اسم ملف من المفترض
+
+بناءً على المحتوى، الاسم الصحيح هو **Mark R. Dombeck**.
+
+## ما أعطاه (Mark R. Dombeck، بحسب المحتوى)
+
+- مساهمات في **تطوير PCIT** كمشروع أكاديمي.
+- تطوير **مناهج PCIT** في الجامعات الأمريكية، خصوصاً في برامج التدريب على علم نفس الأطفال.
+- فصول في كتب عن **«تدريب الأخصائيين النفسيين على PCIT»**.
+- مساهمات في **«أبحاث PCIT في اضطرابات السلوك عند الأطفال»**.
+- أبحاث عن **«العلاقة بين PCIT واضطرابات التعلّم»**.
+
+## موقعه من التيار
+
+سانتروس (أو دومبيك) من أهم **الأكاديميين** في تدريب PCIT، وهو من الجيل الذي أعطى النموذج **قاعدة بحثية صلبة** في الجامعات الأمريكية.
+
+## شُبَكُه العلمية
+
+- **شيلي أيبرغ (Sheila M. Eyberg, 1944–)**: رائدة PCIT مع **إيونا بَس**.
+- **كريستين باس (Kristin M. Buss)**: رائدة PCIT مع **أيبرغ**.
+
+## القيد
+
+- الملف يَستخدم الـslug «mark-santross» بينما الاسم الصحيح في المحتوى هو «Mark Dombeck». هذه مفارقة في تسجيل البيانات.
+
+## المصادر
+
+- لا توجد مصادر موثّقة لهذا الاسم في PCIT.
+- للتحقق:
+  - Eyberg, S. M. (1988). «PCIT: Integration of Traditional and Behavioral Concerns», *Child & Family Behavior Therapy* 10(1): 33–46.
+  - Eyberg, S. M. & Pincus, D. B. (1999). *Eyberg Child Behavior Inventory and Sutter-Eyberg Student Behavior Inventory-Revised*. Psychological Assessment Resources.
+  - PCIT.org: https://www.pcit.org/
+  - Dombeck, M. R. «Mental Help Net» (موقع معروف): https://www.mentalhelp.net/

@@ -19,8 +19,8 @@ related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "br-french-psychoanalysis", title: "مدرسة التحليل النفسي الفرنسية", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم أعثر على اقتباس مباشر منسوب له بالنص الأصلي الفرنسي مع مصدر وصفحة محددة."
+  - "تفاصيل انفصاله عن École Freudienne de Paris ودوره الدقيق في نشأة APF (1964) تحتاج توثيقاً من مصدر أولي فرنسي."
 ---
 
 # جان-بيرتران بونتالي
@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 «معجم التحليل النفسي» (Vocabulaire de la Psychanalyse, 1967، مع Laplanche) · «بين النوم واليقظة» (Entre le rêve et la douleur, 1977) · «زمن وتوقف» (Le Temps de passe, 1994).
+
+## المصادر
+
+- Laplanche, J. & Pontalis, J.-B., *Vocabulaire de la psychanalyse*, Paris: Presses Universitaires de France, 1967.
+- de Mijolla, A. (ed.), *International Dictionary of Psychoanalysis*, Detroit: Macmillan Reference USA, 2005 (مدخل Pontalis).
+- Roudinesco, É., *Histoire de la psychanalyse en France*, Paris: Fayard, 1986 (فصل عن انشقاقات ما بعد لاكان وتأسيس APF).

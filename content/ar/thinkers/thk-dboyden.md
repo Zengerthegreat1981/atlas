@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← ديان بوييدن"
 edges:
-- rel: "belongs_to", target: "PBSP (Pesso Boyden System Psychomotor)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-pbsp", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"

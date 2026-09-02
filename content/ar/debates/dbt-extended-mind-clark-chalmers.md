@@ -14,10 +14,9 @@ edges:
 related:
 - id: "thk-david-chalmers", title: "ديفيد تشالمرز", type: "مفكر"
 - id: "thk-andy-clark", title: "آندي كلارك", type: "مفكر"
-- id: "dbt-abrupt-vs-gradual-enlightenment-chan", title: "الاستنارة المفاجئة لزين الجنوبي مقابل الاستنارة التدريجية للشمالي", type: "جدل"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "رد كلارك وتشالمرز التفصيلي على أدامز وأيزاوا (2001) لم يُراجع من مصدر أولي منفصل؛ اكتُفي بموقفهما العام في مقالات لاحقة."
+  - "موقف روبرت رولاند و«العقل الممتد نشطاً» (Active Externalism) عند مفكرين لاحقين غير موثّق هنا."
 ---
 
 # فرضية العقل الممتد وتخطي حدود الجمجمة (Clark & Chalmers)
@@ -35,3 +34,9 @@ gaps:
 ## التبعات في عصر الذكاء الاصطناعي
 
 تعيد الفرضية تعريف الهوية الإنسانية في ظل الاندماج المستمر مع الهواتف الذكية والخوارزميات التوليدية.
+
+## المصادر
+
+- Andy Clark & David Chalmers, "The Extended Mind", *Analysis*, vol. 58, no. 1, 1998.
+- Fred Adams & Kenneth Aizawa, *The Bounds of Cognition*, Blackwell, 2008 (نقد مبكر منشور 2001 في *Philosophical Psychology*).
+- Andy Clark, *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*, Oxford University Press, 2008.

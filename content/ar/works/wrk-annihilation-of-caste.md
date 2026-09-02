@@ -9,15 +9,19 @@ en: "Annihilation of Caste"
 crumb: "الفلسفة ← الآسيوية الحديثة ← الأمبيدكارية ← إبادة الطبقية"
 dates: "1936 (محاضرة غير مُلقاة) · أمبيدكار"
 language: "الإنجليزية"
+author: "بيماراو رامجي أمبيدكار"
+author_slug: "thk-ambedkar"
+publication_year: 1936
+original_language: "الإنجليزية"
 active_start: 1936
-active_end: 1936
+active_end: 1996
 edges:
 - rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
 - id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
 gaps:
-  - "لم تُراجع بعدُ طبعة *Annihilation of Caste* الأصلية (1936، Mulk Raj Mehta، لاهور) ولا طبعات لاحقة موثّقة."
+  - "أرقام صفحات وتفاصيل توزيع الطبعة الأصلية (1936، Mulk Raj Mehta، لاهور) غير متاحة."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
 ---
 

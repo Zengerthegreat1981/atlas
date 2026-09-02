@@ -11,12 +11,11 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "العلاج الديناميكي البيني القصير (DIT)", target_type: "مدرسة"
 related:
 - id: "thk-alemma", title: "أليساندرا لِمّا", type: "مفكر"
-- id: "thk-jenny-odell", title: "thk-jenny-odell", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

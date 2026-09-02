@@ -13,14 +13,17 @@ edges:
 - rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
-- id: "axm-intentionality", title: "القصدية", type: "بديهية/مبدأ تأسيسي"
-- id: "con-lifeworld", title: "عالم الحياة", type: "مفهوم"
+- id: "thk-pyrrho", title: "بيرون الإليسي", type: "مفكر"
+- id: "thk-sextus-empiricus", title: "سكستوس إمبيريكوس", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-schutz", title: "ألفريد شوتز", type: "مفكر"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
+- id: "con-cartesian-doubt-method", title: "الشك المنهجي الديكارتي (Methodic Doubt)", type: "مفهوم"
 gaps:
-- "التمييز بين إيبوخي هوسرل (المنهجي) والإيبوخي عند السكّيتية Pyrrhonian يحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "التطبيقات في البحث النفسي النوعي (Giorgi, IPA) تحتاج توثيقاً."
+- "الفارق الدقيق بين إيبوخي هوسرل المنهجي وإيبوخي السكّيتية اليونانية (بيرون، سكستوس إمبيريكوس) يحتاج شرحاً أوسع من مجرد الإشارة التاريخية."
+- "تطبيقات منهج IPA لـJonathan Smith في البحث النفسي النوعي مذكورة بالاسم دون ملف مخصص له في الأطلس؛ التوثيق ناقص."
+- "الملف يتشابه مضموناً مع con-epoche-suspension.md (وربما نسخة أخرى بعنوان con-epoche-phenomenological-reduction.md في دفعة مختلفة)؛ لم يُدمَج الملفان بناءً على تعليمات المهمة، لكن التكرار يحتاج مراجعة تحريرية لاحقاً."
 ---
 # الإيبوخي (Epoché): التعليق المنهجي للحكم
 

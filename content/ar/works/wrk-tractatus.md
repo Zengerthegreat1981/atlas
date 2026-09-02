@@ -11,7 +11,7 @@ dates: "1921 · فيتغنشتاين"
 country: "النمسا (نشر في ألمانيا)"
 language: "الألمانية"
 active_start: 1921
-active_end: 1921
+active_end: 1953
 edges:
 - rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
 related:

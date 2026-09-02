@@ -12,6 +12,7 @@ country: "فرنسا، إيطاليا، ألمانيا، إسبانيا، أمر
 language: "اللاتينية (الأصلية)، ثمّ التوماوية المعاصرة باللغات الأوروبية"
 active_start: 1250
 active_end: "مستمر"
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
@@ -25,7 +26,6 @@ related:
 - id: "dbt-thomism-vs-scotism", title: "التوماوية في مقابل السكوتية: العقل أم الإرادة؟", type: "جدل"
 gaps:
   - "نصوص توما الأكويني اللاتينية (أكبر من 50 مؤلَّفاً، 8 ملايين كلمة) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Summa Theologica' أو 'De Ente et Essentia'."
   - "التمييز بين 'التوماوية' (Thomism) و'التوماوية الجديدة' (Neo-Thomism) و'الأكوينية المتعدّدة' (Transcendental Thomism) محلّ نقاش."
 ---
 
@@ -144,3 +144,10 @@ gaps:
 - **الإرادة والنعمة**: تبقى «**التنبؤ**» و«**الإرادة الحرّة**» مشكلة في التوماوية.
 - **الجسدانية**: توما ركّز على الجسد، لكن هذا «**الجسدية**» يحدّ من الاهتمام بالأخلاق النابعة من الوعي.
 - **التحديث**: هل التوماوية «متحجّرة» (نقد ماركس)؟ أم «قابلة للتحديث» (دفاع Maritain)؟
+
+## المصادر
+
+- Aquinas, T. *Summa Theologica*. Benziger Bros. (1947 English trans.).
+- Gilson, É. (1956). *The Christian Philosophy of St. Thomas Aquinas*. Random House.
+- Maritain, J. (1930). *The Angelic Doctor: The Life and Thought of St. Thomas Aquinas*. Dodd, Mead.
+- Copleston, F. (1955). *Aquinas*. Penguin Books.

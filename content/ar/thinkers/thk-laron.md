@@ -14,7 +14,7 @@ active_end: "مستمر"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "belongs_to", target: "العلائقية", target_type: "تيار"
+- rel: "belongs_to", target: "br-relational-psychoanalysis", target_type: "تيار"
 related:
 - id: "thk-dstern", title: "دونَل ب. سترن", type: "مفكر"
 - id: "thk-jgreenberg", title: "جاي ر. غرينبرغ", type: "مفكر"
@@ -44,4 +44,4 @@ gaps:
 
 ## أهم أعماله
 
-لقاء العقول (A Meeting of Minds, 1996) · العلائقي المعاصر (العقد الأول من القرن الحادي والعشرين) · نحو العلائقي الإسلامي (العقد الأول من القرن الحادي والعشرين).
+لقاء العقول (A Meeting of Minds, 1996) · العلائقي المعاصر (العقد الأول من القرن الحادي والعشرين).

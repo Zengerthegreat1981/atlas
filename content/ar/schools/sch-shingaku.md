@@ -11,11 +11,10 @@ dates: "اليابان · من القرن 17 إلى القرن 19 م تقريب�
 country: "اليابان"
 language: "اليابانية"
 active_start: 1694
-active_end: 1885
+active_end: 1890
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "الفلسفة الأخلاقية اليابانية (مظلة)", target_type: "مظلة"
-- rel: "evolved_into", target: "حركة الإصلاح الشعبية (مظلة)", target_type: "مظلة"
+cultural_origin: "east-asian"
+edges: []
 related:
 - id: "sch-kogaku", title: "كوغاكو", type: "مدرسة"
 - id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
@@ -60,3 +59,8 @@ gaps:
 - تُعدّ شينغاكو من أوائل الفلسفات الأخلاقية «الشعبية» (Popular Philosophy) في تاريخ الفكر العالمي قبل فلاسفة التنوير الأوروبي بتقنيات مشابهة (مثل كتابات إيمانويل كانت الموجّهة للعامة).
 - أعيد اكتشافها في القرن 20 عبر **كَزَو يوشِيرُو (Yoshikawa Kōjirō)** و**كَناَكَ (Kasza)** و**فُكُوِ (Fukuzawa) سونوبو** و**مَيوياكَشي (Miyachi Masato)** كظاهرة «فلسفة القرن 18» ما قبل الحداثية.
 - تَقَصّياً (Trace-back)، يُعدّ إيشِدا بَئيجَان من أندر المفكرين الكوزموبوليتانيين المنتمين لطبقة تجارية بحتة، بمنظومة تأثير (impact) طويلة الأمد.
+
+## المصادر
+
+- Robert N. Bellah, *Tokugawa Religion: The Cultural Roots of Modern Japan* (Free Press, 1957).
+- Janine Anderson Sawada, *Confucian Values and Popular Zen: Sekimon Shingaku in Eighteenth-Century Japan* (University of Hawaii Press, 1993).

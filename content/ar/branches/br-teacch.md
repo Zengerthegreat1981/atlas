@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1972
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
 related:
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
 - id: "thk-ereichelt", title: "روبرت جاي رايشلر", type: "مفكر"

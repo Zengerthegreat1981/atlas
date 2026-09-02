@@ -54,3 +54,8 @@ gaps:
 - *Upadesha Sahasri* (الألف تعليم، ربما لأحد تلاميذه).
 - *Vivekachudamani* (تاج التمييز، ربما لأحد تلاميذه).
 - *Atma Bodha* (معرفة النفس).
+
+## المصادر
+
+- Deutsch, E. (1969). *Advaita Vedanta: A Philosophical Reconstruction*. University of Hawaii Press.
+- Potter, K. H. (Ed.) (1981). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedanta up to Śaṃkara and His Pupils*. Princeton University Press.

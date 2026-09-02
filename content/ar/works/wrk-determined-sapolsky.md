@@ -12,13 +12,16 @@ dates: "2023 · روبرت سابولسكي"
 language: "الإنجليزية"
 active_start: 2023
 active_end: 2023
+author: "روبرت سابولسكي"
+author_slug: "thk-robert-sapolsky"
+publication_year: 2023
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس العصبي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-robert-sapolsky", target_type: "مفكر"
 related:
 - id: "thk-robert-sapolsky", title: "روبرت سابولسكي", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
-- id: "wrk-behave-sapolsky", title: "تصرّف (Behave)", type: "عمل / كتاب"
+- id: "wrk-behave-sapolsky", title: "تصرّف: بيولوجيا الإنسان في أفضل حالاته وأسوأها", type: "عمل / كتاب"
 gaps:
   - "النقاش الفلسفي المُعاصر (دانيال دينيت 2003) لم يُمثَّل بالعمق الكافي."
   - "تأثير رفض الإرادة الحرة على الفلسفة القانونية والمساءلة الجنائية يحتاج دراسة منفصلة."

@@ -50,3 +50,8 @@ gaps:
 - *Bhashya on Bhagavad Gita* (تعليق على غيتا).
 - *Bhashya on Upanishads* (تعليقات على 9 أوبانيشاد).
 - *Gadyatrayam* (ثلاث نثرات: Saranagati Gadya, Sriraṅga Gadya, Vairagya Gadya).
+
+## المصادر
+
+- Carman, J. B. (1974). *The Theology of Rāmānuja: An Essay in Interreligious Understanding*. Yale University Press.
+- Lipner, J. J. (1986). *The Face of Truth: A Study of Meaning and Metaphysics in the Vedāntic Theology of Rāmānuja*. State University of New York Press.

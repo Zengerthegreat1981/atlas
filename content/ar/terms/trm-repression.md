@@ -13,14 +13,13 @@ edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-breuer", title: "جوزيف برِوير", type: "مفكر"
+- id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
 - id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
-- id: "dis-ptsd", title: "اضطراب ما بعد الصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
-- "الفرق بين الكبت (Repression) في فرويد والنسيان (Suppression) في علم النفس المعرفي يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "التمييز العصبي (Anderson، 2004) بين كبت متعمد (Suppression) وكبت لاإرادي (Repression) يحتاج فصلاً."
-- "العلاقة بالصدمة النفسية (Trauma) والـ PTSD في DSM-5 تحتاج توثيقاً."
+- "الفرق بين الكبت (Repression) في فرويد والكبت المتعمَّد الواعي (Suppression) في علم النفس المعرفي يحتاج فصلاً بمصدر أولي مستقل."
+- "دراسة Anderson وGreen (2001) عن الكبت الفعّال تجريبياً (Motivated Forgetting) عبر بروتوكول Think/No-Think لم تُراجَع من نصها الأصلي بعد."
+- "لا يوجد اقتباس مباشر من نص Studies on Hysteria (1895) بترجمة عربية موثقة متاح للتحقق منه هنا."
 ---
 # الكَبْت (Repression): طَرْد المُؤلم مِن الوَعْي
 
@@ -41,3 +40,10 @@ gaps:
 ## النَّقْد
 
 (1) **نَقْد عِلمي** (Erdelyi، 1990): «**الكَبْت**» لَيْس «**خَاصِّيَّة**» (Unique) بِـ**العَقْل** (Mind)، «**تَجَاهُل**» (Inattentional Blindness) و«**تَثْبيط**» (Inhibition) «**مَعْرَفِيّ**» (Cognitive) «**عَامّ**». (2) **نَقْد تَجْريبي** (Holmes، 1990): «**ذِكْرَيات**» «**صَدْمَة**» «**مُخَزَّنَة**» فِي «**الذَّاكرة الضَّمنيَّة**» (Implicit Memory)، «**لَا مَكبوتة**» مِن «**الوَعْي**». (3) **نَقْد نَسوي** (Herman، 1992): «**كَبْت**» «**صَدْمَات الإِيذاء**» «**إِسْتِرَاتِيجِيَّة**» (Strategy) «**نَجَاة**» (Survival)، لَيْس «**مَرَض**».
+
+## المصادر
+
+- Freud, S. & Breuer, J. (1895). *Studies on Hysteria*.
+- Erdelyi, M. H. (1990). "Repression, Reconstruction, and Defense: History and Integration of the Psychoanalytic and Experimental Frameworks." In J. L. Singer (Ed.), *Repression and Dissociation*.
+- Holmes, D. S. (1990). "The Evidence for Repression: An Examination of Sixty Years of Research." In J. L. Singer (Ed.), *Repression and Dissociation*.
+- Herman, J. L. (1992). *Trauma and Recovery: The Aftermath of Violence—from Domestic Abuse to Political Terror*.

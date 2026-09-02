@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "أويغن فينك"
 en: "Eugen Fink"
-crumb: "المدرسة الوجودية ← الناس ← أويغن فينك"
+crumb: "الظاهراتية الألمانية ← دائرة هوسرل ← أويغن فينك"
 dates: "ألمانيا · 1905–1975"
 active_start: 1933
 active_end: 1975
@@ -13,13 +13,12 @@ country: "ألمانيا"
 language: "الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "con-death", title: "الموت", type: "مفهوم"
-- id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "الظاهراتية الكونية ومفهوم 'اللعب كرمز للعالم' وسيميناره المشترك مع هايدجر حول هيراكليتوس تحتاج توثيقاً."

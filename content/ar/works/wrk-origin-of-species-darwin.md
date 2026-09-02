@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "thk-darwin", title: "تشارلز داروين", type: "مفكر"
-- id: "ctx-victorian-britain-morality-crisis", title: "العصر الفيكتوري وأزمة الإيمان", type: "سياق/تقليد"
+- id: "ctx-victorian-britain-morality-crisis", title: "العصر الفيكتوري البريطاني وأزمة الإيمان بعد نظرية التطور", type: "سياق/تقليد"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

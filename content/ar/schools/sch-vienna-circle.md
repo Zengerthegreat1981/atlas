@@ -12,6 +12,7 @@ country: "النمسا (فيينا) ثم الولايات المتحدة وال�
 language: "الألمانية ثم الإنجليزية"
 active_start: 1924
 active_end: 1936
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-quinean-naturalism", target_type: "مدرسة"
@@ -26,7 +27,7 @@ gaps:
   - "رابط مقترح لـ«فريدريش فايسمان» (thk-waismann) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هانز هان» (thk-hahn) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "علاقة شليك المباشرة بماخ وأفنباخس وتأثير الفيزيائية المعيارية على البرنامج الوضعي لم تُراجع من نص 'المعرفة العامة' (Allgemeine Erkenntnislehre, 1918)."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'بيان حلقة فيينا' (1929)."
+  - "اقتباس 'بيان حلقة فيينا' (1929) يحتاج مراجعة من المصدر الأولي."
   - "الفارق الدقيق بين 'الوضعية المنطقية' و'التجريبية المنطقية' لم يُحلّل في المصادر الأولية."
 ---
 
@@ -56,3 +57,11 @@ gaps:
 
 - يستحق التشتت المبكر وعلاقته بهجرة العلماء الألمان إلى أمريكا مراجعة موثّقة.
 - انقسام «الوضعية المنطقية» عن «التجريبية المنطقية» (Reichenbach، هان) يستحق تمييزاً دقيقاً.
+
+## المصادر
+
+- Carnap, R. (1928). *Der logische Aufbau der Welt*. Weltkreis-Verlag.
+- Ayer, A. J. (1936). *Language, Truth and Logic*. Gollancz.
+- Quine, W. V. O. (1951). "Two Dogmas of Empiricism". *The Philosophical Review*, 60(1).
+- Popper, K. (1934). *Logik der Forschung*. Julius Springer.
+- Uebel, T. (2020). "Vienna Circle". *Stanford Encyclopedia of Philosophy*.

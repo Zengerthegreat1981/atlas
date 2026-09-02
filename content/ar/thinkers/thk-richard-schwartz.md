@@ -15,16 +15,13 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 related:
-- id: "wrk-no-bad-parts", title: "لا توجد أجزاء سيئة", type: "عمل / كتاب"
-- id: "con-internal-family-systems-popular", title: "أنظمة الأسرة الداخلية", type: "مفهوم"
+- id: "wrk-no-bad-parts", title: "لا توجد أجزاء سيئة: شفاء الصدمات واستعادة التكامل عبر أنظمة الأسرة الداخلية", type: "عمل / كتاب"
+- id: "con-internal-family-systems-popular", title: "أنظمة الأسرة الداخلية (تعددية النفس والذات الشافية IFS)", type: "مفهوم"
 - id: "crt-critique-of-ifs-internal-family-systems", title: "نقد نِظَام الْعَائِلَة الدَّاخِلِيَّة (IFS): نَظَرِيَّة سَرْدِيَّة لَا مَنْهَج عِلَاجِيّ مُوَثَّق", type: "نقد خارجي موثَّق"
 - id: "thk-frankanderson", title: "فرانك أندرسون", type: "مفكر"
 - id: "thk-jayearly", title: "جاي إيرلي", type: "مفكر"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فرانك أندرسون (thk-frankanderson)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جاي إيرلي (thk-jayearly)."
 ---
 
 # ريتشارد شوارتز
@@ -60,6 +57,8 @@ gaps:
 - *No Bad Parts* (2021).
 - *Introduction to the Internal Family Systems Model* (2001).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford Press.
+- Schwartz, R. C., & Sweezy, M. (2019). *Internal Family Systems Therapy* (2nd ed.). Guilford Press.
+- Schwartz, R. C. (2021). *No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model*. Sounds True.

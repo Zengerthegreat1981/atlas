@@ -8,12 +8,16 @@ en: "Separation: Anxiety and Anger"
 crumb: "التحليل النفسي ← الأعمال ← الانفصال: القلق والغضب"
 dates: "1973 · جون باولبي"
 language: "الإنجليزية"
+author: "جون بولبي"
+author_slug: "thk-bowlby"
+publication_year: 1973
+original_language: "الإنجليزية"
 active_start: 1973
-active_end: 1973
+active_end: 2000
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "authored_by", target: "جون باولبي", target_type: "مفكر"
+- rel: "authored_by", target: "thk-bowlby", target_type: "مفكر"
 related:
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "wrk-attachment-loss-volume1", title: "التعلق (المجلد الأول، 1969)", type: "عمل / كتاب"

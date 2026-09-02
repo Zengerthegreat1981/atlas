@@ -10,13 +10,13 @@ crumb: "علم النفس ← مصطلحات العلاج ← تسمية الع�
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-affective-science", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "tec-stair-nt", title: "التنظيم الانفعالي", type: "تقنية/تدخل علاجي"
+- id: "tec-stair-nt", title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات للصدمة (STAIR-NT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جيمس غروس (thk-james-gross)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأليكسيثيميا (صعوبة تحديد المشاعر) (con-alexithymia)"
-  - "الدراسات العصبية الحديثة (Lieberman, 2007) موثّقة لكن غير مفصّلة في المصادر العربية."
+  - "الآلية العصبية الدقيقة لعلاقة RVPFC بتثبيط اللوزة الدماغية (المسار العصبي، لا مجرد الارتباط الإحصائي) تحتاج فقرة مستقلة من Lieberman et al. (2007) بدل الملخص الحالي."
 ---
 # تسمية العاطفة (Affect Labeling)
 
@@ -94,7 +94,7 @@ gaps:
 - **Torre & Lieberman (2018)**: مرجع شامل للدراسات.
 - **دراسات** على **الأليكسيثيميا** و**التسمية**.
 
-## المؤلفات
+## المصادر
 
 - Gross, J. (2015). *Emotion Regulation: Conceptual and Practical Issues*.
 - Lieberman, M. (2007). *Putting Feelings into Words*.

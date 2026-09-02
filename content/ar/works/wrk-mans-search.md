@@ -7,17 +7,21 @@ level: ""
 title: "الإنسان يبحث عن المعنى"
 en: "…trotzdem Ja zum Leben sagen · Man's Search for Meaning"
 language: "الألمانية"
+author: "فيكتور فرانكل"
+author_slug: "thk-frankl"
+publication_year: 1946
+original_language: "الألمانية"
 crumb: "المدرسة الوجودية ← الأعمال ← الإنسان يبحث عن المعنى"
 dates: "1946 · فرانكل"
 active_start: 1946
 active_end: 1946
 part: "philosophy"
 edges:
-- rel: "written_by", target: "فرانكل", target_type: "مفكر"
+- rel: "written_by", target: "thk-frankl", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-- id: "dbt-meaning-found", title: "هل المعنى يُكتشَف؟", type: "جدل"
+- id: "dbt-meaning-found", title: "هل المعنى يُكتشَف أم يُصنَع؟", type: "جدل"
 - id: "evt-frankl-camps", title: "تجربة فرانكل في معسكرات الاعتقال النازية", type: "حدث تاريخي"
 - id: "exp-frankl-lived-experience", title: "وصف فرانكل الذاتي لخبرة المعنى داخل المعسكر", type: "خبرة معيشة"
 - id: "syn-sunday-neurosis", title: "متلازمة عصاب يوم الأحد وكآبة الفراغ (Sunday Neurosis)", type: "متلازمة"

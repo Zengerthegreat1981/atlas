@@ -3,6 +3,7 @@ slug: "sch-lockeanism"
 id: "SCH-0185"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "anglo-american"
 level: "متوسط"
 title: "اللوكية (اللوكية التجريبية)"
 en: "Lockeanism (Empirical Lockeanism)"
@@ -25,7 +26,6 @@ related:
 
 gaps:
   - "نصوص لوك بالإنجليزية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'An Essay Concerning Human Understanding'."
   - "التمييز بين 'اللوكية' (Lockeanism) و'اللوكية الجديدة' (Neo-Lockeanism) معقّد."
 ---
 # اللوكية (اللوكية التجريبية)
@@ -146,3 +146,11 @@ gaps:
 - **التوتّر مع «**الإلحاد**» (Atheismus)**: «**لوك**» (Locke) «**مسيحيّ**» (Christianus)، لكن «**نظرية**» (Theoria) «**الصفات**» (Proprietatum) «**فَتَحَتْ**» (Aperuit) «**الباب**» (Portam) لـ«**الشكّ**» (Dubitatio) «**الدينيّ**» (Religiosus) و«**الإلحاد**» (Atheismus).
 - **التوتّر مع «**الذات**» (Ego)**: «**لوك**» (Locke) «**اِعْتَبَرَ**» (Habuit) «**الذات**» (Ego) = «**وعي**» (Conscientia) «**استمراريّ**» (Continuus). «**هيوم**» (Hume) «**رَفَضَ**» (Renuit) «**الذات**» (Ego) «**كجوهر**» (Ut Substantia) — «**مجرد**» (Simplex) «**حزمة**» (Fasciculus) «**إحساسات**» (Perceptionum).
 - **الإرث المعاصر**: «**اللوكية**» (Lockeanismus) «**مازالتْ**» (Adhuc) «**التيار**» (Fluxus) «**الأقوى**» (Fortissimus) في «**الفلسفة**» (Philosophia) «**التحليلية**» (Analytica) و«**الليبرالية**» (Liberalismus) «**السياسية**» (Politica) «**المعاصرة**» (Contemporanea).
+
+## المصادر
+
+- Locke, John. (1689). *An Essay Concerning Human Understanding*. Thomas Basset.
+- Locke, John. (1689). *Two Treatises of Government*. Awnsham Churchill.
+- Locke, John. (1689). *A Letter Concerning Toleration*. Awnsham Churchill.
+- Woolhouse, Roger. (2007). *Locke: A Biography*. Cambridge University Press.
+- Ayers, Michael. (1991). *Locke: Epistemology and Ontology*. Routledge.

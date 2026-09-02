@@ -12,18 +12,22 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
 related:
+- id: "rel-phenomenology-existential-therapy", title: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", type: "علاقة بين مدرستين"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-- id: "con-lived-body", title: "الجسد المعيش", type: "مفهوم"
-- id: "con-embodied-cognition", title: "الإدراك المتجسد", type: "مفهوم"
 - id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "thk-vramachandran", title: "ف. س. راماشاندران", type: "مفكر"
+- id: "dis-body-dysmorphic-disorder", title: "اضطراب خلل التشكّل الجسدي", type: "اضطراب"
+- id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: هنري هيد (thk-head)"
+  - "رابط مقترح لم يتحقق بعد في الأطلس: هنري هيد (thk-head) — المصطلح صِيغ على يده لكن لا يوجد ملف مفكر خاص به بعد."
   - "رابط مقترح لم يتحقق بعد في الأطلس: جاك بايار (thk-paillard)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: اضطراب تشوّه صورة الجسم (dis-body-dysmorphic)"
-- "التمييز بين مخطط الجسد (Body Schema) وصورة الجسد (Body Image) يحتاج فصلاً مفاهيمياً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "التطبيقات في علاج السكتة الدماغية (Stroke Rehabilitation) وفي علاج البتر الوهمي (Phantom Limb) عند Ramachandran تحتاج توثيقاً إكلينيكياً."
-- "الفرق بين مخطط الجسد في علم الأعصاب (Neuroscience) ومخطط الجسد في الفلسفة يحتاج فصلاً."
+  - "رابط الإدراك المتجسد (con-embodied-cognition) حُذف من related لعدم ورود المصطلح في متن المقالة."
+  - "عمل ريكور Soi-même comme un autre (1990) المذكور في المتن لا يوجد له ملف wrk- في الأطلس بعد؛ لم يُضَف رابط."
+  - "راماشاندران وبوتفينيك وكوهين مذكورون في المتن بصفتهم مطوّري تقنيات المرايا العلاجية، لكن لا يوجد ملف tec- خاص بتقنية المرايا (Mirror Therapy) بعد."
+  - "التمييز بين مخطط الجسد (Body Schema) وصورة الجسد (Body Image) يحتاج فصلاً مفاهيمياً."
+  - "التطبيقات في علاج السكتة الدماغية (Stroke Rehabilitation) وفي علاج البتر الوهمي (Phantom Limb) عند Ramachandran تحتاج توثيقاً إكلينيكياً."
+  - "الفرق بين مخطط الجسد في علم الأعصاب (Neuroscience) ومخطط الجسد في الفلسفة يحتاج فصلاً."
 ---
 
 # مخطط الجسد (Body Schema): النظام اللاواعي للحركة

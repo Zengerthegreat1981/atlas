@@ -13,17 +13,18 @@ language: "الصينية الكلاسيكية"
 active_start: 1600
 active_end: 1900
 active_source: "lifespan"
+cultural_origin: "east-asian"
 edges:
 - rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-- id: "sch-lixue", title: "مدرسة المبدأ (Lixue)", type: "مدرسة"
-- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue)", type: "مدرسة"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"
+- id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "thk-dai-zhen", title: "داي تشن", type: "مفكر"
 gaps:
   - "نصوص Gu Yanwu وDai Zhen الأصلية بُحثت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين 'Han Learning' (Hanxue) و'Kaozheng' و'Song Learning' (Songxue) في الأدبيات الحديثة ليس حاسماً."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
+  - "اقتباس مباشر موثّق بالصفحة من 'Rizhi Lu' لغُو يان وو أو من أعمال داي تشن لم يُدرَج بعد في هذه المسودة."
 ---
 
 # التعلم الإثباتي (Kaozheng / Evidential Learning)
@@ -52,3 +53,10 @@ gaps:
 - اعتبرها بعض المؤرخين «أقدم حركة علمية» في الصين الحديثة، تمهيداً لاستقبال المنهجيات الغربية في القرن 19-20.
 - تأثر بها كُن يانغ مينغ (Kang Youwei) و ليانغ تشيتشاو (Liang Qichao) و هو شي (Hu Shi) في إصلاحات القرن 20.
 - معارك «الأخلاق» (Lunli) و «الإثبات» (Kaozheng) لا تزال حيّة في الفلسفة الصينية الأكاديمية المعاصرة.
+
+## المصادر
+
+- Benjamin A. Elman, *From Philosophy to Philology: Intellectual and Social Aspects of Change in Late Imperial China* (Harvard University Press, 1984).
+- Benjamin A. Elman, *Classicism, Politics, and Kinship: The Ch'ang-chou School of New Text Confucianism in Late Imperial China* (UCLA Press, 1990).
+- Chin-Shing Huang, *Philosophy, Philology, and Politics in Eighteenth-Century China: Li Fu and the Lu-Wang School* (Cambridge University Press, 1995).
+- William Theodore de Bary and Irene Bloom (eds.), *Sources of Chinese Tradition, Vol. 2* (Columbia University Press, 1999).

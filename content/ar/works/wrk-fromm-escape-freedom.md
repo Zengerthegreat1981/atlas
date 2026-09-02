@@ -8,8 +8,12 @@ en: "Escape from Freedom"
 crumb: "التحليل النفسي ← الأعمال ← الهروب من الحرية"
 dates: "1941 · إريك فروم"
 language: "الإنجليزية"
+author: "إريك فروم"
+author_slug: "thk-fromm"
+publication_year: 1941
+original_language: "الإنجليزية"
 active_start: 1941
-active_end: 1941
+active_end: 1990
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"

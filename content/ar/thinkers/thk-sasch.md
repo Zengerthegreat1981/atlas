@@ -9,7 +9,7 @@ en: "Solomon E. Asch"
 crumb: "علم النفس الاجتماعي التجريبي ← الناس ← سولومون آش"
 dates: "الولايات المتحدة (من أصل أوكراني) · 1907–1996"
 active_start: 1940
-active_end: 1990
+active_end: 1996
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 register: "academic"
@@ -23,10 +23,9 @@ related:
 - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
 - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
 - id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
-- id: "stu-lewin-leadership-climates", title: "دراسة ليفين لأنماط القيادة", type: "دراسة وبحث"
+- id: "stu-lewin-leadership-climates", title: "دراسة كيرت ليفين للمناخات والأنماط القيادية الثلاثة (1939)", type: "دراسة وبحث"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تاريخ الميلاد بالتحديد (سبتمبر 1907) لم يُراجع من مصدر أولي موقّع، وارد فقط من مصادر ثانوية أكاديمية."
 ---
 
 # سولومون آش
@@ -63,9 +62,11 @@ gaps:
 - **الاستقلال الإدراكي (Independence of Judgment).**
 - **الإدراك الاجتماعي (Social Perception).**
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Asch, S. E. (1955). "Opinions and Social Pressure." *Scientific American*, 193(5), 31–35.
+- Asch, S. E. (1956). "Studies of Independence and Conformity: A Minority of One Against a Unanimous Majority." *Psychological Monographs*, 70(9).
+- Asch, S. E. (1952). *Social Psychology*. Prentice-Hall.
 
 ## القيد
 آش ليس فيلسوفاً ولا كاتباً أدبياً؛ إدراجه هنا لمساهمته التجريبية الصرفة في تأسيس علم النفس الاجتماعي التجريبي. لا علاقة مباشرة له بالتيار الوجودي في العلاج النفسي.

@@ -12,16 +12,15 @@ language: "الإنجليزية"
 active_start: 1917
 active_end: 1974
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-adamblatner", title: "آدم بلاتنر", type: "مفكر"
 - id: "thk-marciamarx", title: "مارسيا ماركس", type: "مفكر"
 - id: "thk-paulholmes", title: "بول هولمز", type: "مفكر"
 - id: "thk-peterkellermann", title: "بيتر كيلرمان", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
+  - "مدرسة السيكودراما والسوسيومتري التي أسسها غير موجودة كملف slug مستقل في الأطلس — تحتاج تسجيلاً في missing-schools.md."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بيتر كيلرمان (thk-peterkellermann)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارسيا ماركس (thk-marciamarx)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بول هولمز (thk-paulholmes)."
@@ -52,8 +51,10 @@ gaps:
 - *Das Stegreiftheater* (1923).
 - *Who Shall Survive?* (1934) — تأسيس السوسيومتري.
 - *Psychodrama* (1946، 1959).
-- *The Autobiography of J. L. Moreno* (1985).
+- *The Autobiography of J. L. Moreno* (نُشرت بعد وفاته، 1985).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Moreno, J.L. *Who Shall Survive? A New Approach to the Problem of Human Interrelations* (1934).
+- Moreno, J.L. *Psychodrama, First Volume* (1946).
+- International Association of Group Psychotherapy and Psychodrama (IAGP) — أرشيف سيرة مورينو المؤسسي.

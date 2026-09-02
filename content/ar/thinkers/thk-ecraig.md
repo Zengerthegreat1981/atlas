@@ -41,4 +41,4 @@ gaps:
 
 ## أهم أعماله
 
-التحليل الوجودي والأحلام (Daseinsanalysis and the Phenomenological Approach to Dreams, 1988) · أبحاث في الفلسفة والعلاج الوجودي.
+تحرير العدد الخاص «Psychotherapy for Freedom: The Daseinsanalytic Way in Psychology and Psychoanalysis» (The Humanistic Psychologist, 1988).

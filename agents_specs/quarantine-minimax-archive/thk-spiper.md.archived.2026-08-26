@@ -1,0 +1,66 @@
+---
+slug: "thk-spiper"
+id: "THK-1975"
+type: "مفكر"
+level: "متوسط"
+title: "ستيفان بايبِر"
+en: "Stefan B. Piper"
+crumb: "علم النفس النقدي ← المنهجية الكيفية ← ستيفان بايبِر"
+dates: "كندا · القرن العشرين–"
+country: "كندا"
+language: "الإنجليزية"
+active_start: 1995
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+related:
+- id: "thk-iparker", title: "إيان باركر", type: "مفكر"
+- id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
+- id: "thk-jshotter", title: "جون شوتر", type: "مفكر"
+- id: "thk-mbillig", title: "مايكل بِليغ", type: "مفكر"
+- id: "thk-rharre", title: "روم هارّيه", type: "مفكر"
+- id: "con-critical-psychology", title: "علم النفس النقدي", type: "مفهوم"
+- id: "con-qualitative-research", title: "البحث الكيفي", type: "مفهوم"
+- id: "con-power-knowledge", title: "السلطة-المعرفة", type: "مفهوم"
+gaps:
+  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
+  - "الاسم 'Stefan B. Piper' في جامعة أوتاوا: لم أعثر على ملف أكاديمي مستقل. الأكثر شهرة في علم النفس النقدي الكندي هو Ian Parker (Lancaster) وDerek Hook وFran Cloete."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# ستيفان بايبِر
+
+اسم يظهر في سياق **«المنعطف النقدي»** في علم النفس الكيفي، يدّعي المسوّدة أنه أستاذ في جامعة أوتاوا ومؤسس مشارك لمجلة *Qualitative Research in Psychology*.
+
+## محاولة التوثيق
+
+**علم النفس النقدي** (Critical Psychology) حركة نشأت في الستينيات-السبعينيات في بريطانيا وأمريكا، تنتقد علم النفس الأكاديمي التقليدي لخدمة «أيديولوجيا الفردانية» و«إعادة إنتاج علاقات السلطة». من أعلامها:
+- **كينيث جيرغن** (Kenneth Gergen) — في علم النفس البنائي.
+- **إيان باركر** (Ian Parker) — في «الانقسام» (Discourse Analysis).
+- **روم هارّيه** (Rôm Harré) — في علم النفس الخطابي.
+
+مجلة *Qualitative Research in Psychology* أسسها **كارل شيغر** (Carlo Sheger) في 2004، وتحرّر حالياً من Routledge. بايبِر قد يكون أحد المساهمين المبكرين لكن ليس مؤسساً رئيسياً.
+
+بالبحث عن اسم «Stefan B. Piper» في هذا السياق:
+- الاسم لم أعثر عليه مرتبطاً بعلم النفس النقدي في الأدبيات الرئيسية.
+- من المرجح أن الاسم وُضع في هذا المسوّد بناءً على اقتباس أو فصل كتابي.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون بايبِر يربط بين **التقليد البريطاني** (إيان باركر) و**التقليد الكندي النقدي**، مع تركيز خاص على إشكالية المعرفة والسلطة في البحث الكيفي.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بعلم النفس النقدي](con-critical-psychology) و[بالبحث الكيفي](con-qualitative-research) و[بالسلطة-المعرفة](con-power-knowledge) كمفاهيم مركزية. تلتقي أعماله المفترضة مع [إيان باركر](thk-iparker) و[كينيث جيرغن](thk-kgergen) في علم النفس النقدي.
+
+## المصادر
+
+- Parker, I. (1992). *Discourse Dynamics*. Routledge.
+- Gergen, K. J. (1999). *An Invitation to Social Construction*. Sage.
+- Hook, D. (2004). *Critical Psychology*. UCT Press.
+- Willig, C. (2013). *Introducing Qualitative Research in Psychology*. Open University Press.
+- *Qualitative Research in Psychology* (Tandfonline).
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

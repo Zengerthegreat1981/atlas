@@ -12,8 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
-- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
+- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", type: "مدرسة"
 - id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
+- id: "wrk-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "عمل"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة Maharashtra Government الأصلية لـ Writings and Speeches."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
@@ -21,7 +25,7 @@ gaps:
 
 # إبادة الطبقية (Annihilation of Caste)
 
-مفهوم محوري في فلسفة أمبيدكار: الطبقية (Caste) نظام قمع مؤسَّس دينياً واجتماعياً واقتصادياً، ولا تَكفي إصلاحاته التدريجية بل تَلزم **إبادته** جذرياً.
+مفهوم محوري في فلسفة أمبيدكار، صاغه في خطابه/مقالته «Annihilation of Caste» (1936) التي مُنع من إلقائها فنشرها بنفسه: الطبقية (Caste) نظام قمع مؤسَّس دينياً واجتماعياً واقتصادياً، ولا تَكفي إصلاحاته التدريجية بل تَلزم **إبادته** جذرياً.
 
 ## التمييز النظري
 

@@ -5,14 +5,19 @@ type: "حدث تاريخي"
 level: "متقدم"
 title: "تأسيس معهد فيينا للتحليل النفسي والعيادة الإسعافية المجانية"
 en: "Founding of the Vienna Psychoanalytic Institute and Ambulatorium"
-crumb: "المدرسة الوجودية ← الأحداث التاريخية ← تأسيس معهد فيينا للتحليل النفسي"
+crumb: "التحليل النفسي ← تاريخ الحركة ← تأسيس معهد فيينا للتحليل النفسي"
 active_start: 1922
 active_end: 1938
+event_date: "1925"
+event_place: "فيينا"
 country: "النمسا"
-part: "philosophy"
+part: "psychology"
 related:
-- id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
-- id: "evt-founding-of-kyoto-school-1911", title: "صدور كتاب 'بحث في الخير' لنيشيدا وتأسيس مدرسة كيوتو (1911 م)", type: "حدث تاريخي"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-deutsch", title: "هيلين دويتش", type: "مفكر"
+- id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
+- id: "thk-meitingon", title: "ماكس إيتِنغون", type: "مفكر"
+- id: "evt-vienna-psychoanalytic-society-1908", title: "تأسيس جمعية فيينا للتحليل النفسي رسمياً 1908", type: "حدث تاريخي"
 gaps:
   - "تاريخ إغلاق المعهد ومصادرة ممتلكاته على يد الغستابو النازي عام 1938 يتطلب توثيقاً أرشيفياً"
   - "دور آنا فرويد وهيلينا دويتش في تدريب المحللين الجدد بالمعهد يحتاج استعراضاً"

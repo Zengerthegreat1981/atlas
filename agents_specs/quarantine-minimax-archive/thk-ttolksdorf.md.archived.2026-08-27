@@ -1,0 +1,63 @@
+---
+slug: "thk-ttolksdorf"
+id: "THK-2068"
+type: "مفكر"
+level: "مبتدئ"
+title: "تيودور تولكسدورف"
+en: "Theodor Tolksdorf"
+dates: "ألمانيا"
+country: "ألمانيا"
+language: "الألمانية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "مدرسة التحليل النفسي ← الناس ← تيودور تولكسدورف"
+edges:
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
+related:
+- id: "thk-wmuller", title: "فِرنَر مولَر", type: "مفكر"
+- id: "thk-hdieckmann", title: "هانس ديكمان", type: "مفكر"
+- id: "thk-cgj", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-dkalff", title: "دورا كالف", type: "مفكر"
+- id: "thk-mhartmann", title: "ناتالي هارتمان", type: "مفكر"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Theodor Tolksdorf' في IAAP أو DGAP (Deutsche Gesellschaft für Analytische Psychologie)."
+  - "لا كتاب منشور في DNB أو GVK بهذا الاسم."
+  - "احتمال الاسم: Tolksdorf / Tolsdorf / Toldksdorf / Tolkshorf."
+  - "الاحتمال الأقوى: خطأ إملائي في 'Detlef Tolksdorf' (German psychotherapist, graduated from Stuttgart, C.G. Jung Institut) أو 'Hans-Dieter Tolksdorf' (لاعب كرة قدم سابق)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'DGAP' عام."
+---
+
+# تيودور تولكسدورف
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في حقل التحليلية الألمانية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Theodor Tolksdorf.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IAAP**: لا عضوية.
+  - **DGAP**: لا عضوية.
+  - **DNB**: لا سيرة ذاتية.
+  - **JAP (Journal of Analytical Psychology)**: لا مقالة.
+  - **مؤتمر DGAP السنوي في فيسبادن**: لا جلسات بهذا الاسم.
+  - **Sandplay Society of Europe (ISST)**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Detlef Tolksdorf** (معالج نفسي في شتوتغارت، C.G. Jung Institut).
+  - **Hans-Dieter Tolksdorf** (لاعب كرة قدم سابق، مواليد 1955).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم.
+- للتحقق:
+  - DGAP: https://www.dgap.de/
+  - IAAP: https://iaap.org/
+  - Kalff, D. (1966). *Sandspiel: Seine therapeutische Wirkung auf die Psyche*. Ernst Klett.

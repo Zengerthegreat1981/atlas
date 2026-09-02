@@ -14,12 +14,12 @@ language: "الإنجليزية"
 active_start: 1912
 active_end: 1955
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وتطوير الذات", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-how-to-win-friends", title: "كيف تكسب الأصدقاء وتؤثر في الناس", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـديل كارنيجي في الأدبيات المتاحة."
 ---
 
 # ديل كارنيجي
@@ -51,6 +51,3 @@ gaps:
 - *How to Stop Worrying and Start Living* (1948).
 - *Public Speaking and Influencing Men in Business* (1926).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

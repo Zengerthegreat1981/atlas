@@ -9,6 +9,10 @@ crumb: "المدرسة الوجودية ← الأعمال ← خطاب في ا�
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
+author: "إيمي سيزير"
+author_slug: "thk-cesaire"
+publication_year: 1950
+original_language: "الفرنسية"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
@@ -19,7 +23,7 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري/العابر للثقافات", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
 gaps:
   - "النص الأصلي الفرنسي 'Discours sur le colonialisme' (1950) يحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

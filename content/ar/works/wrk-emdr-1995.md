@@ -10,18 +10,22 @@ crumb: "علاجات الصدمة ← مدرسة EMDR ← الكتاب التأ�
 dates: "1995 · فرانسين شابيرو"
 language: "الإنجليزية"
 active_start: 1995
-active_end: 1995
+active_end: 2018
 country: "الولايات المتحدة"
+author: "فرانسين شابيرو"
+author_slug: "thk-francine-shapiro"
+publication_year: 1995
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-emdr", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-francine-shapiro", target_type: "مفكر"
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب ما بعد الصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-trauma", title: "الصدمة النفسية", type: "مفهوم"
-- id: "con-complex-ptsd", title: "اضطراب ما بعد الصدمة المركّب (C-PTSD)", type: "مفهوم"
-- id: "con-dissociation", title: "التفكك (Dissociation)", type: "مفهوم"
-- id: "con-neuroplasticity-trauma", title: "المرونة العصبية وعلاقتها بالصدمة", type: "مفهوم"
+- id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
+- id: "con-neuroplasticity-trauma", title: "المرونة العصبية في سياق الصدمة", type: "مفهوم"
 gaps:
   - "لم يُراجع النص الأصلي من الطبعة الأولى (Guilford Press, 1995) مباشرة؛ المعلومات مستندة إلى مراجع ثانوية."
   - "لا يوجد اقتباس مباشر موثوق من الكتاب نفسه في هذه المسودة."

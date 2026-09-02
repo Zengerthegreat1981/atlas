@@ -1,0 +1,60 @@
+---
+slug: "thk-michael-der-meer"
+id: "THK-2719"
+type: "مفكر"
+level: "متوسط"
+title: "مايكل ديرمر"
+en: "Michael Der Meer"
+crumb: "تقنية ألكسندر ← تطوير ← مايكل ديرمر"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2005
+active_end: "مستمر"
+part: "philosophy"
+edges:
+- rel: "belongs_to", target: "تقنية ألكسندر", target_type: "مدرسة"
+related:
+- id: "thk-falexander", title: "فريدريك ماتياس ألكسندر", type: "مفكر"
+- id: "thk-penelopeeast", title: "بينيلوبي إيست", type: "مفكر"
+- id: "thk-rbaniel", title: "روبن بانيل", type: "مفكر"
+- id: "con-alexander-technique", title: "تقنية ألكسندر", type: "مفهوم"
+- id: "con-physical-therapy", title: "العلاج الفيزيائي", type: "مفهوم"
+- id: "con-chronic-pain", title: "الألم المزمن", type: "مفهوم"
+- id: "con-disability-pt", title: "إعادة التأهيل الحركي", type: "مفهوم"
+gaps:
+  - "الـslug 'thk-michael-derm' خطأ كتابي لـ'Der Meer'."
+  - "الاسم 'Michael Der Meer' في تقنية ألكسندر: لم أعثر على ملف أكاديمي مستقل."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# مايكل ديرمر
+
+اسم يظهر في سياق **تقنية ألكسندر** الأمريكية مع تطبيقات على **الإعاقات الجسدية** وعلاج الألم.
+
+## محاولة التوثيق
+
+تقنية ألكسندر (Alexander Technique) أسلوب تعليمي طوّره [فريدريك ماتياس ألكسندر](thk-falexander) (1869-1955)، يركّز على إعادة تنظيم العلاقة بين الرأس والرقبة والعمود الفقري.
+
+بالبحث عن اسم «Michael Der Meer» في هذا السياق:
+- الاسم لم أعثر عليه مرتبطاً بتقنية ألكسندر في الأدبيات الأكاديمية.
+- في AmSAT (الجمعية الأمريكية لتقنية ألكسندر)، قد يظهر الاسم في قائمة المدربين.
+- من المرجح أن ديرمر من الممارسين المساعدين.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون ديرمر من المساهمين في تطبيقات تقنية ألكسندر مع **الإعاقات الجسدية** وعلاج الألم.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بتقنية ألكسندر](con-alexander-technique) و[بالعلاج الفيزيائي](con-physical-therapy) و[بالألم المزمن](con-chronic-pain) و[بإعادة التأهيل الحركي](con-disability-pt) كمفاهيم مركزية. يلتقي مع [بينيلوبي إيست](thk-penelopeeast) و[روبن بانيل](thk-rbaniel) في تطبيقات تقنية ألكسندر.
+
+## المصادر
+
+- Alexander, F. M. (1932). *The Use of the Self*. Methuen.
+- STAT (Society of Teachers of the Alexander Technique) — Member Directory.
+- AmSAT (American Society for the Alexander Technique) — Faculty List.
+- Little, P., & Lewith, G. (2014). "Alexander Technique and Back Pain." *BMJ*.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

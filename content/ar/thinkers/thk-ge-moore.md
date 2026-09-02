@@ -12,8 +12,7 @@ country: "كامبريدج (المملكة المتحدة)"
 language: "الإنجليزية"
 active_start: 1903
 active_end: 1958
-edges:
-- rel: "belongs_to", target: "الوضعية المنطقية وحلقة فيينا — الفلسفة التحليلية", target_type: "مدرسة"
+edges: []
 related:
 - id: "trm-is-ought-problem-hume", title: "مغالطة الكائن والواجب (Is-Ought Problem / Hume's Guillotine)", type: "مصطلح لغوي متنازع عليه"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"

@@ -13,14 +13,13 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا القوة", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-48-laws-of-power", title: "48 قانوناً للقوة", type: "عمل / كتاب"
 - id: "wrk-laws-of-human-nature", title: "قوانين الطبيعة البشرية", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة (sch-) مستقل في الأطلس لـ«علم النفس الشعبي وسيكولوجيا القوة»، فحُذف رابط belongs_to وسُجِّلت المدرسة الغائبة في missing-schools.md."
+  - "تفاصيل دراسته للكلاسيكيات وتكوينه الأكاديمي قبل 1998 لم تُراجع من مصدر أولي."
 ---
 
 # روبرت غرين
@@ -53,6 +52,8 @@ gaps:
 - *Mastery* (2012).
 - *The Laws of Human Nature* (2018).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Greene, R. (1998). *The 48 Laws of Power*. Viking Press.
+- Greene, R. (2012). *Mastery*. Viking Press.
+- Greene, R. (2018). *The Laws of Human Nature*. Viking Press.

@@ -9,17 +9,20 @@ en: "AEDP Emotion-to-Emotion Processing"
 crumb: "علم النفس ← مدارس العلاج ← AEDP ← المعالجة من عاطفة إلى عاطفة"
 active_start: 2000
 active_end: "مستمر"
+evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "con-aedp-emotion", title: "العاطفة في AEDP", type: "مفهوم"
-- id: "con-aedp-transformance", title: "التحوّل في AEDP", type: "مفهوم"
+- id: "con-aedp-emotion", title: "الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ", type: "مفهوم"
+- id: "con-aedp-transformance", title: "الْتَحَوُّلية في AEDP: التَّحَوُّل مِن عَاطِفَة تَكَيُّفِيَّة", type: "مفهوم"
 - id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية/تدخل علاجي"
 - id: "br-aedp-applied", title: "AEDP التطبيقي: علاج الصدمات المعقدة في العيادات", type: "تيار"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الإجرائية للجلستين 2-3 من العلاج غير مفصّلة هنا."
   - "نسب المساهمات إلى Fosha مقابل Greenberg في تطوير هذا الأسلوب غير واضحة."
+  - "لا توجد تجربة عشوائية محكّمة (RCT) موثقة لهذه التقنية بمفردها؛ الدليل المتاح (Iwakabe et al., 2020) دراسة فعالية طبيعية بلا مجموعة ضابطة على AEDP ككل، لا على هذه التقنية الفرعية تحديداً."
 ---
 # المعالجة من عاطفة إلى عاطفة (Emotion-to-Emotion Processing)
 
@@ -97,12 +100,7 @@ gaps:
 
 ## الدراسات السريرية
 
-أظهرت دراسات متعددة فعالية AEDP في:
-- **تقليل الأعراض** (SCL-90) بعد 12-16 جلسة.
-- **زيادة التنظيم الانفعالي** (alexithymia scale).
-- **تحسين الإجهاد المُتصوَّر** (Perceived Stress).
-- **تحسين نوعية الحياة** (QOL).
-- **تأثيرات طويلة الأمد** (3 سنوات متابعة).
+دراسة **إيواكابي وزملاؤه (Iwakabe et al., 2020)** — "The Effectiveness of Accelerated Experiential Dynamic Psychotherapy (AEDP) in Private Practice Settings" في مجلة *Psychotherapy* — تابعت 62 بالغاً عولجوا بصيغة AEDP من 16 جلسة في عيادات خاصة (الولايات المتحدة، كندا، إسرائيل، اليابان، السويد)، ووجدت تحسناً ذا دلالة إحصائية في الاكتئاب واضطراب التنظيم الانفعالي وتجنّب التجربة والمشكلات العلائقية، بأحجام أثر تجاوزت 1.00 لدى المجموعة الإكلينيكية. الدراسة **طبيعية بلا مجموعة ضابطة** وتقيس AEDP ككل، لا تقنية المعالجة من عاطفة إلى عاطفة بمفردها — فلا يصح عدّها دليلاً محكماً (RCT) على هذه التقنية الفرعية تحديداً.
 
 ## الموقع في AEDP
 

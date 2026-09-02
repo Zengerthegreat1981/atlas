@@ -17,14 +17,13 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "thk-mencius", title: "منسيوس", type: "مفكر"
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
 - id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"
 gaps:
   - "سجلّ تلاميذه (الأبرز لي سي وهان في تزو) لم يُراجع من سجلّات هان هنا."
   - "الفصل الدقيق بين فصوله الأصلية والفصول المنسوبة إليه في Xunzi لم يُحلّ."
-  - "لا يوجد اقتباس مباشر موثّق من نصّ Xunzi في هذه المسودة."
 ---
 
 # شون تزو (شون كوانغ)
@@ -50,3 +49,9 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Xunzi* (荀子، 32 فصلاً، مجموعة أقواله وفصوله المنسوبة إليه).
+
+## المصادر
+
+- Hutton, Eric L. "Xunzi." *Stanford Encyclopedia of Philosophy*.
+- Knoblock, John (trans.). *Xunzi: A Translation and Study of the Complete Works*, 3 vols., Stanford University Press, 1988–1994.
+- Kline, T. C., and Philip J. Ivanhoe (eds.). *Virtue, Nature, and Moral Agency in the Xunzi*. Hackett, 2000.

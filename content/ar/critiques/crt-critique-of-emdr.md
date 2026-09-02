@@ -13,13 +13,12 @@ edges:
 - rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب ما بعد الصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
-- id: "crt-neuroscience-critique-classic-theories", title: "نقد علم الأعصاب", type: "نقد خارجي موثَّق"
+- id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
 - id: "dbt-emdr-vs-cbt", title: "جِدَل EMDR ضِد CBT لِـ**PTSD**", type: "جدل"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (McNally, 1999; Lilienfeld, 2001; Herbert et al., 2013)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "النقاشات الحديثة (2018-2024) حول فعالية EMDR تحتاج فصلاً مستقلاً."
 ---
 # نقد الْآلِيَّة الْعِلْمِيَّة لِـ EMDR: هَل حَرَكَة الْعَيْن هِيَ الْأَسَاس؟

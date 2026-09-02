@@ -14,13 +14,9 @@ edges:
 - rel: "formulated_by", target: "thk-ipavlov", target_type: "مفكر"
 related:
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-- id: "stu-pavlov-classical-conditioning", title: "تجارب بافلوف للتكييف الكلاسيكي", type: "دراسة وبحث"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
-- id: "axi-verification-criterion", title: "مبدأ التحقق الوضعي (Verification Criterion)", type: "بديهية/مبدأ تأسيسي"
+- id: "stu-pavlov-classical-conditioning", title: "تجارب بافلوف الأصلية في الإشراط الكلاسيكي والمنعكس الشرطي", type: "دراسة وبحث"
 gaps:
-  - "الفرق بين 'التعلم الإشراطي' و'التعلم المعرفي' في علم النفس المعرفي اللاحق يحتاج تحليلاً."
-  - "نظرية الإشراط المحتمل (Rescorla-Wagner 1972) كصياغة رياضية لم تُمثَّل."
+  - "نظرية الإشراط المحتمل (Rescorla-Wagner 1972) كصياغة رياضية للتعلم الإشراطي لم تُمثَّل هنا."
 ---
 
 # الإشراط الكلاسيكي (بافلوف)
@@ -66,3 +62,8 @@ gaps:
 - **الاختزالية**: اختزالت السلوك في استجابات انعكاسية.
 - **عدم مراعاة العمليات الداخلية**: لا تفسير للأفكار والمشاعر.
 - **التعميم المُفرط**: كل السلوك البشري لا يمكن تفسيره بالإشراط.
+
+## المصادر
+
+- Pavlov, I. P. (1927). *Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex*. Oxford University Press.
+- Watson, J. B., & Rayner, R. (1920). "Conditioned Emotional Reactions." *Journal of Experimental Psychology*, 3(1), 1–14.

@@ -11,9 +11,9 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "PREP (برنامج تعزيز العلاقة والوقاية)", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري والمعرفي الوقائي (PREP)", target_type: "مدرسة"
 gaps:
   - "سنة الميلاد غير موثّقة."
   - "لا يوجد اقتباس مباشر موثوق متاح."

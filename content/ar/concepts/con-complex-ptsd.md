@@ -14,15 +14,15 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 related:
-- id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-depersonalization-derealization", title: "اضطراب تبدّد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-stair-nt", title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات (STAIR-NT)", type: "تقنية/تدخل علاجي"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
+- id: "tec-stair-nt", title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات للصدمة (STAIR-NT)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ptsd", title: "العلاج الجدلي السلوكي للصدمة (DBT-PTSD)", type: "تقنية/تدخل علاجي"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الصياغة الأصلية تعود إلى جوديث هرمان (Judith Herman) في كتابها «الصدمة والتعافي» (1992)."
   - "إدراج C-PTSD رسمياً في ICD-11 (2018) — اضطراب منفصل عن PTSD."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الكرب التالي للصدمة المعقد (C-PTSD)

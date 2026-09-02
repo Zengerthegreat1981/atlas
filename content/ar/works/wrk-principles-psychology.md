@@ -8,18 +8,20 @@ en: "The Principles of Psychology"
 crumb: "علم النفس الوظيفي ← الأعمال ← مبادئ علم النفس"
 dates: "1890 · وليم جيمس"
 active_start: 1890
-active_end: 1890
+active_end: 1912
 language: "الإنجليزية"
 part: "psychology"
+author: "وليم جيمس"
+author_slug: "thk-james"
+publication_year: 1890
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الوظيفي", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-james", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 gaps:
   - "الطبعات المختصرة (1892 و1912) أعادت تشكيل بعض الفصول — حدود الفروقات الجوهرية بينها لم تُراجع بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مبادئ علم النفس

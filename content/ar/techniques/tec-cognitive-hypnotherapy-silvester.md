@@ -9,14 +9,18 @@ crumb: "التنويم وNLP ← التقنيات ← التنويم المعر�
 active_start: 2000
 active_end: "مستمر"
 part: "psychology"
+evidence_level: "experimental"
 edges:
-- rel: "belongs_to", target: "tec-cognitive-hypnotherapy-silvester", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 - rel: "developed_by", target: "thk-tsilvester", target_type: "مفكر"
 related:
 - id: "thk-tsilvester", title: "تريفور سيلفستر", type: "مفكر"
+- id: "br-clinical-hypnotherapy", title: "التنويم العلاجي السريري", type: "تيار"
+- id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"
+- id: "tec-cognitive-hypnotherapy", title: "التنويم الإيحائي المعرفي", type: "تقنية/تدخل علاجي"
 gaps:
-  - "البروتوكول الكامل (MIND model) لم يُوثّق بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "البروتوكول الكامل (MIND model) موصوف هنا من مصادر ثانوية ترويجية لسيلفستر نفسه، ولا يوجد نص أكاديمي محكّم يوثّق خطواته بدقة."
+  - "دراسة 2011 المذكورة في المتن (نسبة 92٪) غير منشورة في مجلة محكّمة ولا يُعرف مصمموها أو حجم عينتها أو منهجها، فلا يمكن اعتبارها دليلاً على الفعالية."
 ---
 
 # التنويم المعرفي (Cognitive Hypnotherapy — سيلفستر)
@@ -44,8 +48,9 @@ gaps:
 - **"جولة في الذاكرة"** (Memory Walk): استرجاع الحدث.
 - **"اختبار الجسد"** (Body Test): اختبار عضلي لتحديد الموقع الأكثر شحناً.
 
-## الموضع
+## الموضع والتقنية المنافسة
 
 - **موجه علمياً** (Logic-Based Therapy): سيلفستر يقول إنه "CBT + Erickson" لا "CBT في التنويم".
 - **القاعدة**: "Only use suggestion if it's true."
-- **الدراسات**: 92% نجاح في دراسة (2011، غير منشورة في مجلة محكّمة).
+- **الدراسات**: نسبة 92٪ نجاح ذُكرت في دراسة داخلية غير منشورة (2011)، لم تُنشر في مجلة محكّمة ولا تتوفر تفاصيل منهجها أو عينتها — لذا لا تُحتسب دليلاً كافياً على الفعالية (`evidence_level: experimental`).
+- يندرج ضمن التيار الأوسع للتنويم العلاجي السريري (`br-clinical-hypnotherapy`)، ويتمايز عن التنويم الإيحائي الإريكسوني الصرف (`tec-ericksonian-hypnotherapy`) بدمجه المباشر لتقنيات CBT، وعن التنويم الإيحائي المعرفي العام (`tec-cognitive-hypnotherapy`) بكونه نموذجاً مسمّى ومملوكاً تجارياً (MIND model) لسيلفستر تحديداً.

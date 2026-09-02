@@ -8,6 +8,11 @@ en: "Scoville & Milner Patient H.M. Case Study on Hippocampus and Memory"
 crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← دراسة سكوفيل وميلنر للمريض H.M."
 active_start: 1957
 active_end: 1968
+study_year: 1957
+design: "دراسة حالة فردية طولية (N=1)"
+sample_size: "مريض واحد (H.M. / هنري مولياسون)"
+main_finding: "استئصال الحصين ثنائياً يسبب فقداناً تاماً للذاكرة التقريرية/الصريحة الجديدة مع بقاء الذاكرة الإجرائية/الضمنية سليمة."
+replication_status: "replicated"
 part: "psychology"
 related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"

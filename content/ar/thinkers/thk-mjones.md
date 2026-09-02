@@ -14,15 +14,14 @@ language: "الإنجليزية"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed", target: "العلاج البيئي المؤسسي", target_type: "تيار"
+- rel: "developed", target: "tec-milieu-therapy", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "tec-milieu-therapy", title: "العلاج البيئي المؤسسي", type: "تقنية/تدخل علاجي"
-- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "tec-milieu-therapy", title: "العلاج بالبيئة والمجتمع العلاجي", type: "تقنية/تدخل علاجي"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "ctx-therapeutic-community", title: "تقليد المجتمع العلاجي والديمقراطية المؤسسية", type: "سياق/تقليد"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "تاريخ النهاية الإنتاجية (1985) تقريبي."
+  - "رابط `thk-rogers` أُزيل — لا جملة في المتن تربط روجرز مباشرة بعمل جونز (تشابه الروح الإنسانية العامة وحده لا يكفي سبباً)."
   - "التفاصيل الكاملة لإسهاماته في إصلاح مستشفيات الأمراض النفسية البريطانية (1948-1968) تحتاج تحقق."
 ---
 
@@ -53,6 +52,11 @@ gaps:
 - *Social Psychiatry in Practice* (1968) — عرض شامل لرؤيته.
 - *Beyond the Therapeutic Community* (1968) — توسعات وتعديلات على النموذج الأصلي.
 - *Can two-handed therapy exist?* (1982) — مراجعة شخصية لثلاثين عاماً من الممارسة.
+
+## المصادر
+
+- Jones, M. (1953). *The Therapeutic Community: A New Treatment Method in Psychiatry*. Basic Books.
+- Jones, M. (1968). *Social Psychiatry in Practice: The Idea of the Therapeutic Community*. Penguin.
 
 ## القيد
 النموذج مكلف مؤسساتياً، وصعب التطبيق في السياقات ذات الموارد المحدودة. كما أن بعض انتقاداته (خاصة حول «الاحتراق المؤسسي» بين الممارسين) ظهرت في التسعينيات ولم تُعالج كافية.

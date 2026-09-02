@@ -13,11 +13,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية / الفرنسية"
 active_start: 2000
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعلاج الزواجي", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-mating-in-captivity", title: "التزاوج في الأسر", type: "عمل / كتاب"
-- id: "con-madonna-whore-complex", title: "عقدة مادونا–العاهرة (انشطار الرغبة والاحترام في العلاقات)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق متاح."

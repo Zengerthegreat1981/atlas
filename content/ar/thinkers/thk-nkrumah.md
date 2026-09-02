@@ -19,8 +19,7 @@ related:
 - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
 - id: "thk-cabral", title: "أميليكار كابرال", type: "مفكر"
 gaps:
-  - "نصوص Nkrumah (Consciencism, Neo-Colonialism) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نصوص نكروما (Consciencism, Neo-Colonialism) تحتاج مراجعة من طبعاتها الأصلية بدل الاعتماد على ملخصات ثانوية."
 ---
 
 # كوامي نكروما
@@ -44,3 +43,9 @@ gaps:
 ## أهم أعماله
 
 الاستقلال الأفريقي (Towards Colonial Freedom, 1962) · الوعي (Consciencism, 1964) · الاستعمار الجديد (Neo-Colonialism, 1965) · المعركة اليدوية (The Battle of Arms, 1968).
+
+## المصادر
+
+- Nkrumah, K. (1965). *Neo-Colonialism: The Last Stage of Imperialism*. Thomas Nelson & Sons.
+- Nkrumah, K. (1964). *Consciencism: Philosophy and Ideology for De-Colonization*. Monthly Review Press.
+- Birmingham, D. (1998). *Kwame Nkrumah: The Father of African Nationalism*. Ohio University Press.

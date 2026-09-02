@@ -9,18 +9,20 @@ en: "African Cross-Cultural Philosophy"
 crumb: "الفلسفة ← الأفريقية ← بين-الثقافية"
 dates: "أفريقيا، عالمية · من 1990s إلى اليوم"
 country: "متعددة"
+cultural_origin: "african"
 language: "متعددة"
 active_start: 1990
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
 related:
-- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 gaps:
   - "نصوص Bertin, Azenabor, Röschenthaler تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم يُضَف قسم ## المصادر لأن لا يوجد مصدر أكاديمي موثَّق بثقة كافية يوثّق تحديداً 'الفلسفة الأفريقية بين-الثقافية' كمدرسة قائمة بذاتها بهذا الاسم؛ الفلاسفة المذكورين في المتن (خاصة Fré Hérin وJacqueline-Bethel Tchouta) لم يتسنَّ التحقق من وجودهم كمصدر أولي، فتُرك القسم فارغاً تفادياً لاختلاق مرجع."
 ---
 
 # الفلسفة الأفريقية بين-الثقافية

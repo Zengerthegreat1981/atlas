@@ -1,0 +1,57 @@
+---
+slug: "thk-rick-levy"
+id: "THK-2750"
+type: "مفكر"
+part: "psychology"
+level: "مبتدئ"
+title: "ريك أ. ليفي"
+en: "Rick A. Levy"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2015
+active_end: "مستمر"
+part: "psychology"
+crumb: "PCIT (العلاج التفاعلي بين الوالد والطفل) ← تطوير ← ريك ليفي"
+edges:
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
+related:
+- id: "thk-seyberg", title: "شيلي أيبرغ", type: "مفكر"
+- id: "thk-kbus", type: "مفكر", title: "كريستين باس"
+gaps:
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Rick A. Levy' في PCIT International (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'R. Levy' (معالج نفسي في السجون) أو 'Rick Levy' (MBA، إدارة رعاية صحية، حقل مختلف)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'PCIT Health Equity' عام."
+---
+
+# ريك أ. ليفي
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في PCIT]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Rick A. Levy.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **PCIT.org**: لا سيرة.
+  - **PubMed**: لا مقالة في PCIT + Rick Levy.
+  - **American Academy of Pediatrics**: لا نتائج.
+  - **WorldCat**: لا كتاب منشور.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Rick A. Levy** (باحث في الرعاية الصحية، Oregon).
+  - **R. Levy** (معالج نفسي، حقل مختلف).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Eyberg, S. M. & Pincus, D. B. (1999). *Eyberg Child Behavior Inventory*. Psychological Assessment Resources.
+  - PCIT International: https://www.pcit.org/

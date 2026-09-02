@@ -2,39 +2,45 @@
 slug: "thk-steven-haber"
 id: "THK-2837"
 type: "مفكر"
-part: "psychology"
 level: "متقدم"
-title: "ستيفن هابر (Steven Haber)"
-en: "Steven Haber: AEDP Practitioner and Theorist"
+title: "ستيفن هابر"
+en: "Steven Haber"
 crumb: "AEDP ← مؤسِّسون ← ستيفن هابر"
 dates: "الولايات المتحدة · 20th-21st century"
-active_start: 2005
-active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
-related:
-- id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "con-metatherapeutic-processing-aedp", title: "المعالجة الفوقية في AEDP", type: "مفهوم"
-- id: "con-aedp-transformance", title: "التحوُّل في AEDP", type: "مفهوم"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "لم تُراجع من نسخة أصلية مباشرة بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "مساهماته في تطبيق AEDP في علاج الإدمان والصدمات تحتاج فصلاً."
-  - "هوية الملف: الـslug `thk-steven-haber` يشير إلى Steven Haber: AEDP Practitioner and Theorist. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
+  - "**حُجر 2026-08-27:** لا توجد سيرة ذاتية كاملة منشورة لـSteven Haber في الأدبيات العامة (لا كتاب موقّع باسمه، ولا فصل في كتاب جماعي بمصدر مستقل مؤكد)؛ المحتوى الأصلي كان يعتمد فقط على شهادة AEDP Institute وأرشيف مؤتمرات AAMFT. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-steven-haber.md.archived.2026-08-27"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
-# ستيفن هابر (Steven Haber)
+# ستيفن هابر
 
-ممارس ومنظر في ال AEDP، ممارس معتمد من AEDP Institute، أستاذ في عدة برامج تدريبية. يساهم في تطوير نماذج تطبيقية ل AEDP في سياقات متنوعة (الإدمان، الصدمة المعقدة، الشريكات).
+(Steven Haber)
 
-## الإسهام
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-steven-haber.md.archived.2026-08-27`
 
-- **تطبيق AEDP في علاج الإدمان**: تطوير نماذج تكاملية تجمع AEDP مع علاج الإدمان، مع التركيز على «experience-near» treatment للعلاقة العلاجية.
-- **AEDP في علاج الصدمة المعقدة**: تطوير نماذج عملية تستخدم «experiencing» و«adaptive action» في علاج الصدمات المعقدة.
-- **الفيلم العلاجي العلاجي (Film-Therapy) في AEDP**: استخدام الأفلام ك**مصدر** (Source) ل**تنشيط** (Activation) «adaptive emotions» (العواطف التكيفية).
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## الأهمية
+## ملخص
 
-هابر من الممارسين المؤثرين في AEDP، خاصة في تطبيق النظرية في سياقات عسيرة.
+الملف الأصلي وصف "ستيفن هابر" بثقة كمن رسّخ AEDP كخيار علاجي للإدمان والصدمة المعقدة، لكن الـgaps في الملف نفسه كانت تعترف صراحة: "لا توجد سيرة ذاتية كاملة منشورة في الأدبيات العامة... يعتمد على شهادة AEDP Institute ومنشورات AAMFT" ولا كتب مستقلة باسمه. هذا التناقض بين ثقة المتن الشكلية وشك الـgaps هو تحديداً النمط الذي تقتضي القاعدة 11 حسمه بحجر لا بنشر.
+
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-steven-haber.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-steven-haber.md.archived.2026-08-27`

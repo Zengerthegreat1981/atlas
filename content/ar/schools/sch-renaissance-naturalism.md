@@ -9,6 +9,7 @@ en: "Renaissance Naturalism"
 crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبية ← الطبيعيانية النهضوية"
 dates: "إيطاليا، شمال أوروبا، فرنسا · من القرن 15 م إلى القرن 17 م"
 country: "إيطاليا (البادوفا، نابولي)، فرنسا، هولندا، إنجلترا"
+cultural_origin: "european"
 language: "اللاتينية، الإيطالية، الفرنسية"
 active_start: 1450
 active_end: 1650
@@ -20,9 +21,9 @@ related:
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«الهوبزية» (sch-hobbesianism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "نصوص تيليزيو وباتريتس بالإيطالية واللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'De Rerum Natura' لبيرنون."
-  - "التمييز بين 'الطبيعانية' و'الطبيعانية المحدثة' (Materialism) معقّد."
+  - "لا توجد نسخة عربية موثّقة من 'Nova de Universis Philosophia' (1591) لباتريتس تتيح مقابلة النصوص المقتبسة عنه."
+  - "لا توجد نسخة عربية موثّقة من 'De Rerum Natura Iuxta Propria Principia' لتيليزيو تتيح استخراج اقتباس منسوب بدقة."
+  - "الحد الفاصل بين 'الطبيعانية النهضوية' (تيليزيو، باتريتس) و'المادية الآلية' اللاحقة عند هوبز ولا متري لم يُحدَّد بمعيار نصي واضح في هذا الملف."
 ---
 
 # الطبيعانية النهضوية
@@ -41,11 +42,11 @@ gaps:
 - **جاكوب بومه** (Jacob Böhme، 1575-1624): «**Aurora**» (1612).
 - **جوردانو برونو** (Giordano Bruno، 1548-1600): «**De la Causa, Principio et Uno**» (1584).
 - **سيباستيانو بيو** (Sebastiano Biondo، 1580-1646).
-- **بيير جاسندي** (Pierre Gassendi، 1592-1655): «**Syntagma Philosophicum**» (1658).
+- **بيير جاسندي** (Pierre Gassendi، وُلد 1592، توفي بعد وفاتها عام 1655): «**Syntagma Philosophicum**» نُشر بعد وفاته عام 1658.
 - **مارينو مركّيني** (Marino Mersenne، 1588-1648): ضدّ **الطبيعانية**.
 - **روجر بيكون** (Roger Bacon، 1214-1294): مَهَّد (قبل النهضة).
 - **فرانسيس بيكون** (Francis Bacon، 1561-1626): «**Novum Organum**» (1620).
-- **توماس هوبز** (Thomas Hobbes، 1588-1679): «**De Cive**» (1642)، «**Leviathan**» (1651).
+- **توماس هوبز** (Thomas Hobbes، وُلد 1588، توفي بعد وفاتها عام 1679): «**De Cive**» (1642)، «**Leviathan**» نُشر بعد وفاتها عام 1651.
 - **رنيه ديكارت** (René Descartes، 1596-1650): ضدّ **الطبيعانية** الأرسطية.
 - **لورنزو فاّلا** (Lorenzo Valla، 1407-1457): نَقَد «**هبة قسطنطين**» (Donatio Constantini).
 - **بيير دي لارام** (Pierre de la Ramée / Petrus Ramus، 1515-1572): «**Dialectique**» (1555).
@@ -86,7 +87,7 @@ gaps:
 
 ### 9. المادّية المنهجية (Materialismus Methodologicus)
 
-**هوبز** (Hobbes) في «**Leviathan**» (1651): «**الإنسان**» (Homo) «**آلة**» (Machina) «**طبيعية**» (Naturalis)، «**جسدية**» (Corporalis). «**النفس**» (Anima) «**وهم**» (Falsa Imago) «**دينيّ**» (Religiosus). «**الفكر**» (Cogitatio) «**حركة**» (Motus) «**مادّية**» (Materialis).
+**هوبز** (Hobbes) في «**Leviathan**» نُشر بعد وفاتها عام 1651: «**الإنسان**» (Homo) «**آلة**» (Machina) «**طبيعية**» (Naturalis)، «**جسدية**» (Corporalis). «**النفس**» (Anima) «**وهم**» (Falsa Imago) «**دينيّ**» (Religiosus). «**الفكر**» (Cogitatio) «**حركة**» (Motus) «**مادّية**» (Materialis).
 
 ## المؤلفات المرجعية
 
@@ -133,3 +134,10 @@ gaps:
 - **المأزق الأنطولوجي (Ontologicus)**: «**الطبيعة**» (Natura) «**مصدر**» (Fons) «**مستقلّ**» (Independens) — لكن «**مستقلّ عن ماذا؟**» (Independens A Quo؟) عن **الله** (Deus)؟ عن **العقل** (Ratio)؟ «**الطبيعانية**» (Naturalismus) «**لم تَحلّ**» (Non Solvit) هذا السؤال.
 - **التوتّر مع «**النسبية**»**: «**الطبيعانية**» (Naturalismus) «**مادّية**» (Materialis) في «**الأنطولوجيا**» (Ontologia)، لكنّها «**نسبية**» (Relativa) في «**الأخلاق**» (Ethica). **القرن 19-20 م** (مثلاً **نيتشه** Nietzsche و«**فويرباخ**» Feuerbach) واجه هذا.
 - **الإرث في الحداثة**: «**الطبيعانية**» (Naturalismus) «**أَسَّست**» (Fundavit) «**العلم**» (Scientia) الحديث، لكنّها «**قَلَّلَت**» (Minuit) من **القيم** (Valores) و«**المعنى**» (Sensus) في الحياة. ردّ **الوجودية** (Existentialismus) و«**فينومينولوجيا**» (Phänomenologia).
+
+## المصادر
+
+- Copenhaver, Brian P. & Schmitt, Charles B. *Renaissance Philosophy*. Oxford University Press, 1992.
+- Kristeller, Paul Oskar. *Eight Philosophers of the Italian Renaissance*. Stanford University Press, 1964.
+- Blackwell, Constance & Kusukawa, Sachiko (eds). *Philosophy in the Sixteenth and Seventeenth Centuries: Conversations with Aristotle*. Ashgate, 1999.
+- Bonansea, Bernardino M. *Tommaso Campanella: Renaissance Pioneer of Modern Thought*. Catholic University of America Press, 1969.

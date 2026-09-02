@@ -13,12 +13,10 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
-- id: "thk-noam-chomsky", title: "thk-noam-chomsky", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

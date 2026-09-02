@@ -2,40 +2,59 @@
 slug: "thk-rpla"
 id: "THK-1865"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "روبرتو خ. بلاث"
 en: "Roberto J. Plá"
-crumb: "مدرسة التحليل النفسي ← الناس ← روبرتو خ. بلاث"
-dates: "الأرجنتين · [غير مؤكد]"
+dates: "الأرجنتين"
 country: "الأرجنتين"
 language: "الإسبانية"
-part: "philosophy"
-active_start: null
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
+part: "philosophy"
+crumb: "التحليلية للشعرية ← تطوير ← روبرتو بلاث"
 edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-analytical-psychology", type: "تيار"
 related:
-- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-zoja", type: "مفكر", title: "لويجي تسويا"
+- id: "thk-jborges", type: "مفكر", title: "خورخي لويس بورخيس"
+- id: "thk-jcortazar", type: "مفكر", title: "خوليو كورتاثار"
+- id: "thk-jhillman", type: "مفكر", title: "جيمس هيلمان"
+- id: "thk-cgj", type: "مفكر", title: "كارل غوستاف يونغ"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "سنة الميلاد غير موثقة في هذا المسوّد."
+  - "الكتاب المشار إليه ('Borges y la Escritura del Inconsciente') لا يظهر في WorldCat (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'Roberto J. Plá' (أستاذ الأدب الأرجنتيني في Universidad del Salvador، حقل مختلف)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Jungian Argentina' عام."
 ---
 
 # روبرتو خ. بلاث
 
-محلّل يونغي أرجنتيني، أستاذ في Universidad del Salvador (بوينس آيرس)، رائد «التحليلية للشعرية الأرجنتينية».
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في التحليلية الأرجنتينية]
 
-## ما أعطاه
+## محاولة التوثيق
 
-في «Borges y la Escritura del Inconsciente» (التسعينيات من القرن العشرين) أجرى «تحليلية» لكتابات خ. ل. بورخيس (1899–1986) — كيف تنشأ «القصص القصيرة» (الـ «ficciones») كأشكال «خيال أركيتيبي» (Hillman) في «المتاهة» (labyrinth archetype). كذلك أجرى «تحليلية» لأعمال «Julio Cortázar» (Rayuela، 1963) كأركيتيب «اللعب» (Puer/Senex).
+- **الاسم المُسجَّل**: Roberto J. Plá.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **WorldCat**: لا كتاب منشور.
+  - **SciELO Argentina**: لا مقالة.
+  - **APA PsycINFO**: لا مقالة.
 
-## موقعه من التيار
+## السبب المحتمل للإدراج
 
-«صوت التحليلية للشعرية الأرجنتينية»، الموازي لـ A. P. Fernández.
+- احتمال **الخلط** مع:
+  - **Roberto J. Plá** (أستاذ الأدب في Universidad del Salvador).
+  - **Roberto Plá** (كاتب في جريدة La Nación الأرجنتينية).
 
-## القيد
-موقعه في الذاكرة الدولية ضعيف.
+## ما يحتاجه هذا العنصر
 
-## أهم أعماله
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-Borges y la Escritura del Inconsciente (التسعينيات من القرن العشرين).
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Jung, C. G. (1953). *Two Essays on Analytical Psychology*. Princeton UP.
+  - Borges, J. L. (1944). *Ficciones*. Editorial Sur.
+  - Cortázar, J. (1963). *Rayuela*. Editorial Sudamericana.
+  - Zoja, L. (2003). *Drugs, Addiction, and Initiation*. Daimon.

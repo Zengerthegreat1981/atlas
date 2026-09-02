@@ -15,15 +15,14 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
-- id: "br-bowen-systems", title: "العلاج الأسري بالأنساق (Bowen)", type: "تيار"
+- id: "br-bowen-systems", title: "العلاج الأسري بالأنساق (Bowen Family Systems)", type: "تيار"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
-- id: "con-emotional-cutoff", title: "القطع العاطفي", type: "مفهوم"
+- id: "con-emotional-cutoff", title: "القطع العاطفي (Emotional Cutoff)", type: "مفهوم"
 - id: "con-triangulation", title: "التثليث (Triangulation)", type: "مفهوم"
-- id: "thk-mkerr", title: "مايكل كير", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الاندماج العاطفي (con-fusion)"
   - "القياس الإكلينيكي للتمايز (DIFS — Differentiation in the Family System scale) موثّق جزئياً."
-  - "الجدل بين بوين وكير حول تعريف 'التمايز' في مراحل لاحقة موثّق بأجزاء."
+  - "مايكل كير (thk-mkerr) لم يُذكر في متن هذا الملف — أُزيل من related لعدم وجود تبرير نصي؛ إن وُجد جدله مع بوين حول تعريف التمايز يُوثَّق أولاً في المتن."
 ---
 
 # التمايز عن الذات (Differentiation of Self)

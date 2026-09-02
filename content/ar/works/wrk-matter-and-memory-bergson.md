@@ -9,6 +9,10 @@ en: "Matter and Memory - Henri Bergson"
 crumb: "الجسر (فلسفة ↔ علم نفس) ← الأعمال ← المادة والذاكرة"
 active_start: 1896
 active_end: "مستمر"
+author: "هنري برغسون"
+author_slug: "thk-bergson"
+publication_year: 1896
+original_language: "الفرنسية"
 edges:
 - rel: "relates_to", target: "sch-bergsonism", target_type: "مدرسة"
 related:
@@ -20,7 +24,6 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المدة (con-duration)"
 - "لم تُراجع بعد من نسخة أصلية مباشرة (1896)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "الفرق بين الطبعة الأولى (1896) والثانية (1911) يحتاج فصلاً."
 - "العلاقة بـ'الذاكرة الفيلسوفية' عند أفلاطون (Anamnesis) تحتاج توثيقاً."
 ---

@@ -12,6 +12,7 @@ country: "فرنسا (شارتر، باريس)"
 language: "اللاتينية (مع بعض اليونانية)"
 active_start: 1000
 active_end: 1230
+cultural_origin: "french"
 edges:
 - rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
@@ -22,7 +23,7 @@ related:
 - id: "thk-bernardo-chartres", title: "برنارد من شارتر", type: "مفكر"
 gaps:
   - "نصوص تييري من شارتر وبرنارد من شارتر باللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Heptateuchon' أو 'De Mundi Universitate'."
+  - "اقتباسات مباشرة من 'Heptateuchon' أو 'De Mundi Universitate' تحتاج مراجعة إضافية من الطبعات النقدية."
   - "العلاقة بين تييري ويليم الأوفيرني (القرن 13) معقّدة (هل استلهمه أم لا؟)."
 ---
 
@@ -131,3 +132,9 @@ gaps:
 - **نقد الحداثة**: شارتر تأخّرت في تبنّي أرسطو، فاضمحلّت مع صعود السكولاستية الأرسطية في القرن 13. لكنّها أسّست **التقاليد الإنسانية** (Traditio Humanitatis) في الجامعات.
 - **مشكلة المنهج**: شارتر لم تُطوّر «**منهجاً**» (Methodus) صارماً كما فعلت السكولاستية اللاحقة. لكنّ «**الكلاسيكية**» (Classicism) لتييري و**برنارد** مهّدت لـ**النهضة** (Renaissance).
 - **نقد أفلاطون**: في القرن 13 م، مع ترجمة أرسطو الكاملة، فُقد الاهتمام بأفلاطون، واعتُبر «**اللاهوت الطبيعي**» (Theologia Naturalis) «**بسيطاً**». لكن في القرن 15-16 م (مع Plethon وFlorentine Academy)، عاد الاهتمام بأفلاطون.
+
+## المصادر
+
+- Southern, R. W. (1979). *Platonism, Scholastic Method, and the School of Chartres*. University of Reading.
+- Jeauneau, Édouard. (2009). *Rethinking the School of Chartres*. University of Toronto Press.
+- Häring, Nikolaus M. (Ed.). (1971). *Commentaries on Boethius by Thierry of Chartres and His School*. Pontifical Institute of Mediaeval Studies.

@@ -21,7 +21,6 @@ related:
 - id: "dbt-cosmopolitanism-vs-nationalism", title: "جدل الكوزموبوليتية مقابل القومية", type: "جدل"
 gaps:
   - "نص Frontiers of Justice (2006) وCreating Capabilities (2011) يحتاجان مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مارثا نوسباوم
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 هشاشة الخير (The Fragility of Goodness, 1986) · الدفاع عن قيمة مركزية (The Quality of Life, 1993) · حدود العدالة (Frontiers of Justice, 2006) · إنشاء القدرات (Creating Capabilities, 2011).
+
+## المصادر
+
+- Nussbaum, M. C. (2006). *Frontiers of Justice: Disability, Nationality, Species Membership*. Harvard University Press.
+- Nussbaum, M. C. (2011). *Creating Capabilities: The Human Development Approach*. Harvard University Press.
+- صفحة نوسباوم الرسمية في كلية الحقوق بجامعة شيكاغو (law.uchicago.edu).

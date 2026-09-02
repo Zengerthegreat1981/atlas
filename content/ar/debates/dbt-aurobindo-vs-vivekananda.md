@@ -12,10 +12,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:
-- id: "sch-aurobindo", title: "فلسفة أوروبندو", type: "مدرسة"
-- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "sch-aurobindo", title: "فلسفة أوروبندو (اليوغا التكاملية)", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
 - id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
-- id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا (نيو-فيدانتا)", type: "مفكر"
 gaps:
   - "الجدل مُستقرأ من المقارنة بين *Life Divine* و*Jnana Yoga*، لكن لم تُراجع بعدُ المراسلات المباشرة (قليلة موثّقة)."
   - "لا اقتباس مباشر موثّق في هذا الملف."
@@ -41,3 +41,8 @@ gaps:
 
 - يَطرح السؤال: **هل الفلسفة الهندية الحديثة «هندية-غربية» تَصالحية، أم منظومة مستقلة**؟ سؤال أعيد فتحه في التسعينيات مع حركات اليمين الهندوسي.
 - يُظهر أن **النيو-فيدانتا ليست وحدة متجانسة** بل طيف من المشاريع المتنافسة.
+
+## المصادر
+
+- Vivekananda, Swami. *Jnana Yoga*. New York: Vedanta Society, 1899 (محاضرات ألقاها في نيويورك 1895–1896).
+- Aurobindo, Sri. *The Life Divine*. Serialized in *Arya*, 1914–1919; النسخة المنقّحة الكاملة: Sri Aurobindo Ashram, 1939–1940.

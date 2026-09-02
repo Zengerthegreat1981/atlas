@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الأفريقية ← الزنوجة"
 dates: "السنغال، الكاريبي، فرنسا · من 1930s إلى 1980s"
 country: "السنغال، الكاريبي، فرنسا"
 language: "الفرنسية"
+cultural_origin: "french"
 active_start: 1932
 active_end: 1980
 edges:
@@ -57,3 +58,10 @@ gaps:
 - انتُقدت بسبب جوهرية (essentialism) وتجاهل التنوع الأفريقي.
 - انتُقدت من قبل Nkrumah (لا «ماضوية» لرجعية).
 - لاحقاً طوّرها Senghor نفسه بانفتاح لاهوتي.
+
+## المصادر
+
+- Aimé Césaire, *Discours sur le colonialisme* (1950).
+- Léopold Sédar Senghor, *Liberté I: Négritude et humanisme* (1964).
+- Léon-Gontran Damas, *Pigments* (1937).
+- Présence Africaine (مجلة، تأسست 1947، بإشراف Alioune Diop).

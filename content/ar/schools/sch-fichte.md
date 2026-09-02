@@ -10,6 +10,7 @@ crumb: "الفلسفة ← القرن 19 ← المثالية الألمانية
 dates: "ألمانيا · من 1794 إلى 1814"
 country: "ألمانيا"
 language: "الألمانية"
+cultural_origin: "european"
 active_start: 1794
 active_end: 1814
 active_source: "lifespan"
@@ -18,13 +19,13 @@ edges:
 - rel: "superseded_by", target: "sch-schelling", target_type: "مدرسة"
 related:
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
-- id: "thk-schelling", title: "فريدريش فلهلم يوزف شيلنغ", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 gaps:
   - "نظريات فيشتي السياسية (مثل 'الدولة التجارية المغلقة') لم تُراجع بعد من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "يحتاج البحث عن نص اقتباس مباشر لفيشتي والتحقق من مصدره الأولي."
 ---
 
 # الفيختية
@@ -52,3 +53,11 @@ gaps:
 
 - لا توجد «مؤسسة فيختية» بالمعنى الحزبي؛ الفيختية كانت مدرسة قراءة وتأثير.
 - صعوبة تصنيف المذهب: بين المثالية الذاتية والمثالية المطلقة لدى المؤرخين.
+
+## المصادر
+
+- Fichte, J. G. (1794/1982). *The Science of Knowledge* (P. Heath & J. Lachs, Trans.). Cambridge University Press.
+- Fichte, J. G. (1801). *Darstellung des Verhältnisses des Fichteschen Systems zu dem Hegel'schen*.
+- Breazeale, D. (2013). *Thinking Through the Wissenschaftslehre: Themes from Fichte's Early Philosophy*. Oxford University Press.
+- Neuhouser, F. (1990). *Fichte's Theory of Subjectivity*. Cambridge University Press.
+- Zöller, G. (1998). *Fichte's Transcendental Philosophy: The Original Duplicity of Intelligence and Will*. Cambridge University Press.

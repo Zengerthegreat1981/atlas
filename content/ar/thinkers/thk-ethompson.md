@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "مقاربات الإدراك المتجسد ← الفلسفة ← إيفان تومسون"
 edges:
-- rel: "belongs_to", target: "مقاربات الإدراك المتجسد", target_type: "تيار"
+- rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
 related:
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
 - id: "br-embodied-cognition-therapy", title: "مقاربات الإدراك المتجسد", type: "تيار"

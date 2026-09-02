@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متقدم"
 title: "جورج لوكاش"
 en: "Georg Lukács"
-crumb: "المدرسة الوجودية ← الناس ← جورج لوكاش"
+crumb: "الفلسفة ← القارية ← الماركسية الغربية ← جورج لوكاش"
 dates: "المجر · 1885–1971"
 active_start: 1916
-active_end: 1948
+active_end: 1971
 country: "المجر"
 language: "المجرية / الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-western-marxism", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"

@@ -11,8 +11,6 @@ language: "متعدد اللغات"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"

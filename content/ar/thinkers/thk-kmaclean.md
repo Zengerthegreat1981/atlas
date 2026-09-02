@@ -13,7 +13,7 @@ active_start: 2010
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة psilocybin", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."

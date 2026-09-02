@@ -11,6 +11,10 @@ dates: "كونيغسبرغ · 1781 / 1787 م"
 language: "الألمانية"
 active_start: 1781
 active_end: 1781
+author: "إيمانويل كانط"
+author_slug: "thk-kant"
+publication_year: 1781
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 gaps:
   - "المتناقضات العقلية الأربع (Antinomies of Pure Reason) واستحالة البرهان العقلي الخالص على مسائل الميتافيزيقا التقليدية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # نقد العقل الخالص لإيمانويل كانط

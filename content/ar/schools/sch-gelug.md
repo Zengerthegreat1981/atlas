@@ -3,6 +3,7 @@ slug: "sch-gelug"
 id: "SCH-0121"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "south-asian"
 level: "متوسط"
 title: "غيلوغ (البوذية التبتية)"
 en: "Gelug (Way of Virtue School)"
@@ -22,10 +23,9 @@ related:
 - id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
 - id: "sch-nyingma", title: "نينغما", type: "مدرسة"
 - id: "sch-jonang", title: "جونانغ", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "نصوص Tsongkhapa (Lam-rim Chen-mo، sNgags-rim Chen-mo) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح حالياً."
 ---
 
 # غيلوغ (البوذية التبتية)
@@ -79,3 +79,10 @@ gaps:
 - **التمييز الكهنوتي**: دارما الاستحالة للأراخنت، لا بد من سعي لخلاص Bodhisattva مسبق.
 - الانقسام السياسي بين رهبنة Gelug ودَرامسالا (14th Dalai Lama) ومجموعات متمردة.
 - التوتر بين Prāsaṅgika (Tsongkhapa) وShentong (Jonang) لم يُحسم في التراث التبت.
+
+## المصادر
+
+- Thurman, R. A. F. (2008). *The Central Philosophy of Tibet: A Study and Translation of Jey Tsong Khapa's Essence of True Eloquence*. Motilal Banarsidass.
+- Dalai Lama (Tenzin Gyatso). (1995). *The World of Tibetan Buddhism: An Overview of Its Philosophy and Practice*. Wisdom Publications.
+- Powers, J. (2007). *Introduction to Tibetan Buddhism*. Snow Lion Publications.
+- Newland, G. (1999). *Appearance and Reality: The Two Truths in the Four Buddhist Tenet Systems*. Snow Lion Publications.

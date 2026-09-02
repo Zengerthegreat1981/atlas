@@ -11,8 +11,13 @@ dates: "1959–1969 · هايدجر وبوس"
 active_start: 1959
 active_end: 1969
 part: "philosophy"
+author: "مارتن هايدجر وميدارد بوس"
+author_slug: "thk-heidegger"
+publication_year: 1987
+original_language: "الألمانية"
 edges:
-- rel: "written_by", target: "هايدجر وبوس", target_type: "مفكر"
+- rel: "written_by", target: "thk-heidegger", target_type: "مفكر"
+- rel: "written_by", target: "thk-boss", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-boss", title: "بوس", type: "مفكر"

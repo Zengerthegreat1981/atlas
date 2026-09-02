@@ -6,11 +6,11 @@ level: "متوسط"
 title: "تشارلز تارت"
 en: "Charles T. Tart"
 crumb: "علم نفس الوعي/عبر الشخصي ← مؤسس ← تشارلز تارت"
-dates: "الولايات المتحدة · وُلد 1937"
+dates: "الولايات المتحدة · 1937–2025"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1969
-active_end: "مستمر"
+active_end: 2020
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"

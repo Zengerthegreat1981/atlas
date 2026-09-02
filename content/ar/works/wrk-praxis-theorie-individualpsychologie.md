@@ -8,18 +8,20 @@ en: "Praxis und Theorie der Individualpsychologie"
 crumb: "علم النفس الفردي ← الأعمال ← الممارسة والنظرية في علم النفس الفردي"
 dates: "1920 · ألفريد أدلر"
 active_start: 1920
-active_end: 1920
+active_end: 1930
 language: "الألمانية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
-- rel: "authored_by", target: "ألفريد أدلر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-adler", target_type: "مفكر"
+author: "ألفريد أدلر"
+author_slug: "thk-adler"
+publication_year: 1920
+original_language: "الألمانية"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الترجمة الإنجليزية (1929) أجراها Paul Stein — التحقق من دقّتها للنسخة الألمانية الأصلية لم يُنجز بعد."
-  - "لا يوجد ملفّ مفكر (thk-) لـ Adler في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الممارسة والنظرية في علم النفس الفردي

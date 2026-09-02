@@ -13,12 +13,7 @@ active_start: 1960
 active_end: 1988
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التكامل الحسي", target_type: "مدرسة"
-related:
-- id: "thk-rcermak", title: "شارون سيرماك", type: "مفكر"
-- id: "thk-tchampagne", title: "تينا شامبانيا", type: "مفكر"
-- id: "thk-zmailloux", title: "زوي مايو", type: "مفكر"
-- id: "thk-wdunn", title: "ويني دون", type: "مفكر"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

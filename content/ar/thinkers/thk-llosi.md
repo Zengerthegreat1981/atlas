@@ -11,7 +11,7 @@ country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1995
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "العلاج الأسري الميلاني (Milan Systemic)", target_type: "مدرسة"
 related:

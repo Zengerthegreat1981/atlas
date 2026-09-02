@@ -12,13 +12,14 @@ country: "فيتنام، أمريكا، أوروبا"
 language: "الإنجليزية، الفيتنامية، الفرنسية"
 active_start: 1963
 active_end: "مستمر"
+cultural_origin: "southeast-asian"
 edges:
 - rel: "evolved_from", target: "sch-buddhist-modernism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-truc-lam", target_type: "مدرسة"
 related:
 - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
 - id: "sch-truc-lam", title: "تروك لام (البوذية الفيتنامية)", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
 gaps:
@@ -88,3 +89,10 @@ gaps:
 - **Daniel Berrigan (Catholic activist)**: Thích Nhất Hạnh تأثّر بالكاثوليك.
 - **انتقادات اليسار**: كثير من Engaged Buddhism، عند فحصه، بيوغراطي.
 - **بيركلي versus البوذيين**: تداخل سياسي، لا تمييز ذاتي عن «يسار البوذية».
+
+## المصادر
+
+- Nhất Hạnh, T. (1987). *Being Peace*. Parallax Press.
+- Nhất Hạnh, T. (1998). *The Heart of the Buddha's Teaching*. Broadway Books.
+- Queen, C. S., & King, S. B. (Eds.) (1996). *Engaged Buddhism: Buddhist Liberation Movements in Asia*. State University of New York Press.
+- Kraft, K. (Ed.) (1992). *Inner Peace, World Peace: Essays on Buddhism and Nonviolence*. State University of New York Press.

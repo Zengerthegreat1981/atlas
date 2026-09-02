@@ -13,23 +13,23 @@ active_start: 1989
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-critical-psychology", target_type: "مدرسة"
 related:
-- id: "thk-dhook", title: "ديريك هوك", type: "مفكر"
+- id: "thk-dhook", title: "دِنيس فوكس", type: "مفكر"
 - id: "thk-fhaug", title: "فريغا هاوُغ", type: "مفكر"
 - id: "thk-kholzkamp", title: "كلاوس هولتسكامب", type: "مفكر"
 - id: "thk-mgergen", title: "ماري جيرغِن", type: "مفكر"
-- id: "thk-spiper", title: "ستيفان بايبِر", type: "مفكر"
 - id: "thk-tteo", title: "توماس تِئو", type: "مفكر"
 - id: "rel-postmodern-systemic", title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة", type: "علاقة بين مدرستين"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا تتوفر مصادر توثّق اقتباساً مباشراً منسوباً له بنص وسنة محدَّدين."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "رابط أُزيل: ستيفان بايبِر (thk-spiper) — مُحجَّر في agents_specs/quarantine-minimax.md بسبب عدم التحقق من وجوده."
 ---
 
 # إيان باركر
 
-عالم نفس بريطاني، أستاذ في جامعة مانشستر متروبوليتان، أحد أهم منظري **علم النفس النقدي** (Critical Psychology) ومنسقي الحركة الدولية له. من مؤسسي مجلة *Annual Review of Critical Psychology*.
+عالم نفس بريطاني، أحد أهم منظري **علم النفس النقدي** (Critical Psychology) ومنسقي الحركة الدولية له. من مؤسسي مجلة *Annual Review of Critical Psychology*. عمل أستاذاً لعلم النفس في جامعة مانشستر متروبوليتان من عام 2000 حتى استقالته منها عام 2013، ثم انتقل ليشغل منصب أستاذ الإدارة في جامعة ليستر — **تصحيح**: لم يعد حالياً في مانشستر متروبوليتان كما كان مذكوراً.
 
 ## ما أعطاه
 
@@ -49,7 +49,3 @@ gaps:
 - *Discourse Analytic Research* (1992).
 - *Critical Psychology: Critical Concepts in Psychology* (2011، تحرير، أربعة مجلدات).
 - *Lacanian Psychoanalysis: Revolutions in Subjectivity* (2011) — وجهه الآخر: قراءة لاكان أداةً نقدية لا مذهباً علاجياً.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

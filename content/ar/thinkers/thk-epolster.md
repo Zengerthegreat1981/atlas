@@ -6,11 +6,11 @@ level: "متوسط"
 title: "إرفينغ بولستر"
 en: "Erving Polster"
 crumb: "علاج الجشطالت ← تطوير سريري ← إرفينغ بولستر"
-dates: "الولايات المتحدة · 1928–2019"
+dates: "الولايات المتحدة · 1922–2024"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1965
-active_end: 2019
+active_end: 2024
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"

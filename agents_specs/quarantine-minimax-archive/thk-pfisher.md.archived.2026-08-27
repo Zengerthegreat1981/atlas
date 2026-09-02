@@ -1,0 +1,59 @@
+---
+slug: "thk-pfisher"
+id: "THK-1732"
+type: "مفكر"
+level: "مبتدئ"
+title: "بيتر فيشر"
+en: "Peter Fisher"
+dates: "الولايات المتحدة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2000
+active_end: "مستمر"
+part: "philosophy"
+crumb: "العلاج متعدد الأنظمة (MST) ← تطوير ← بيتر فيشر"
+edges:
+- rel: "belongs_to", target: "br-mst", target_type: "تيار"
+related:
+- id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
+- id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
+- id: "thk-sschoenwald", title: "سونيا ك. شونوالد", type: "مفكر"
+- id: "thk-mrowland", title: "ميليسا رولاند", type: "مفكر"
+- id: "thk-cglisson", type: "مفكر", title: "تشارلز غليسون"
+gaps:
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Peter Fisher' في MST Services (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'Peter Fisher' (طبيب الملكة في بريطانيا، 2014–2019) أو 'Peter C. Fisher' (كاتب في الصحة العامة)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'MST International' عام."
+---
+
+# بيتر فيشر
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في MST]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Peter Fisher.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **MST Services**: لا سيرة.
+  - **PubMed**: لا مقالة في MST.
+  - **Journal of Emotional and Behavioral Disorders**: لا مقالة.
+  - **Springer MST Publications**: لا كتاب.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Peter Fisher** (طبيب الملكة في بريطانيا، رئيس الكلية الملكية للأطباء، 2014–2019).
+  - **Peter C. Fisher** (كاتب في الصحة العامة).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة في MST.
+- للتحقق:
+  - Henggeler, S. W. et al. (2009). *Multisystemic Therapy for Antisocial Behavior in Children and Adolescents*. Guilford.
+  - MST Services: https://www.mstservices.com/

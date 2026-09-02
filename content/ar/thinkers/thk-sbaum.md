@@ -20,7 +20,6 @@ related:
 - id: "thk-rlewis", title: "روبرت أ. لويس", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # سكوت بوم
@@ -40,4 +39,10 @@ gaps:
 
 ## أهم أعماله
 
-«الصدمة الإنسانية» (Human Trauma, مقالات في IIBA Journal) · «العيش على رمال متحركة» (Living on Shifting Sands, مشاركة مع Robert Lewis).
+«الصدمة الإنسانية» (Human Trauma, مقالات في IIBA Journal) · «العيش على رمال متحركة: التأريض واضطراب الشخصية الحدّي» (Living on Shifting Sands: Grounding and Borderline Personality Organization، في Handbook of Bioenergetic Analysis).
+
+## المصادر
+
+- Baum, S. "Living on Shifting Sands: Grounding and Borderline Personality Organization." في *Handbook of Bioenergetic Analysis* (IIBA).
+- Baum, S. "Womb Envy: A Bioenergetic Perspective." *Bioenergetic Analysis: The Clinical Journal of the IIBA*.
+- International Institute for Bioenergetic Analysis (IIBA) — السجل المهني: رئيس سابق لـIIBA، عضو هيئتها التدريسية، محلّل نفسي إكلينيكي (ABPP) في نيويورك.

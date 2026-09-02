@@ -9,16 +9,19 @@ en: "Gender Trouble: Feminism and the Subversion of Identity"
 crumb: "النسوية الفلسفية ← النسوية الفرنسية (ما بعد بنيوية) ← إشكالية النوع (بتلر)"
 dates: "1990 · جوديث بتلر"
 language: "الإنجليزية"
+author: "جوديث بتلر"
+author_slug: "thk-butler"
+publication_year: 1990
+original_language: "الإنجليزية"
 active_start: 1990
-active_end: 1990
+active_end: 1995
 edges:
 - rel: "belongs_to", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد البنيوية)", type: "مدرسة"
+- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 gaps:
   - "النص الأصلي Gender Trouble (1990) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # إشكالية النوع (Gender Trouble, 1990)

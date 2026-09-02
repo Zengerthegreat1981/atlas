@@ -11,13 +11,16 @@ dates: "باريس · 1942 م"
 language: "الفرنسية"
 active_start: 1942
 active_end: 1942
+author: "ألبير كامو"
+author_slug: "thk-camus"
+publication_year: 1942
+original_language: "الفرنسية"
 edges:
 - rel: "belongs_to", target: "sch-absurdism", target_type: "مدرسة"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 gaps:
   - "العبارة الافتتاحية: 'هناك مشكلة فلسفية واحدة حقيقية وجادة حقاً: إنها الانتحار'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أسطورة سيزيف لألبير كامو

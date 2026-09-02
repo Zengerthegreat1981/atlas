@@ -8,16 +8,20 @@ en: "Existential Psychotherapy"
 language: "الإنجليزية"
 crumb: "المدرسة الوجودية ← الأعمال ← العلاج النفسي الوجودي"
 dates: "1980 · يالوم"
+author: "إيرفين يالوم"
+author_slug: "thk-yalom"
+publication_year: 1980
+original_language: "الإنجليزية"
 active_start: 1980
 active_end: 1980
 part: "philosophy"
 edges:
-- rel: "written_by", target: "يالوم", target_type: "مفكر"
+- rel: "written_by", target: "thk-yalom", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-yalom", title: "يالوم", type: "مفكر"
-- id: "dbt-british-yalom", title: "الخصومة البريطانية", type: "جدل"
-- id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+- id: "dbt-british-yalom", title: "البريطانيون ضد التيار الأمريكي", type: "جدل"
+- id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"

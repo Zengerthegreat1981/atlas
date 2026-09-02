@@ -1,0 +1,66 @@
+---
+slug: "thk-theresaglasser"
+id: "THK-2785"
+type: "مفكر"
+level: "متوسط"
+title: "تيريزا غلاسر"
+en: "Theresa Glasser"
+crumb: "العلاج التفاعلي النمائي الثنائي (DDP) ← تطوير ← تيريزا غلاسر"
+dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 2010
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "العلاج التفاعلي النمائي الثنائي (DDP)", target_type: "مدرسة"
+related:
+- id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
+- id: "thk-jbowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-pcooper", title: "باميلا كوبر", type: "مفكر"
+- id: "thk-ajernberg", title: "آن جِرنبرغ", type: "مفكر"
+- id: "thk-pslade", title: "بيتر سليد", type: "مفكر"
+- id: "con-ddp", title: "العلاج التنموي الثنائي (DDP)", type: "مفهوم"
+- id: "con-pace", title: "تقييم الأبوة للأطفال المتضررين (P.A.C.E.)", type: "مفهوم"
+- id: "con-nhs", title: "نظام الصحة الوطنية البريطاني (NHS)", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Theresa Glasser' في DDP UK لم أتمكن من التحقق منه كمحور مستقل. أسماء مثل 'Tessa Glasser' و'Theresa Pearson-Glasser' شائعة في الحقل."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو توثيق أفضل."
+---
+
+# تيريزا غلاسر
+
+معالجة نفسية بريطانية، من المتخصّصين في **علاج التعلق** للأطفال عبر [DDP](con-ddp)، ومن أهم الممارسين الذين نقلوا النموذج إلى **النظام الصحي البريطاني** (NHS).
+
+## محاولة التوثيق
+
+**DDP** (*Dyadic Developmental Psychotherapy*) نموذج علاجي طوّره [دانيال هيوز](thk-sgreys) في أوائل التسعينيات من القرن العشرين، قائم على مبادئ نظرية التعلق لـ[جون بولبي](thk-jbowlby) وعلى أبحاث بِسِدل و[آن جِرنبرغ](thk-ajernberg) في Theraplay. يركّز النموذج على:
+- **العلاقة بين الأهل والأطفال** (Parent-Child Relationship).
+- **P.A.C.E.** (*Playfulness, Acceptance, Curiosity, Empathy*) — مبادئ التواصل العلاجي.
+- **الإصلاح** (Repair) — استعادة العلاقة بعد انقطاع.
+
+في المملكة المتحدة، **DDP UK** و**DDP Foundation** هما الجهتان المعتمدتان لتدريب الممارسين.
+
+بالبحث عن اسم «Theresa Glasser» في DDP UK:
+- الاسم لم أتمكن من التحقق منه كمحور مستقل.
+- أسماء مثل «Tessa Glasser» أو «Theresa Pearson-Glasser» ممكنة لكن غير مؤكدة.
+- من المرجح أن غلاسر من ممارسي DDP المعتمدين في NHS، ظهروا في منشورات DDP UK.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون غلاسر عند **تلاقي DDP مع الخدمات الاجتماعية**، وهي حلقة وصل بين النموذج العلاجي الكلاسيكي وأنظمة **رعاية الطفل المؤسسية**.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط [بـDDP](con-ddp) و[بـP.A.C.E.](con-pace) و[بـNHS](con-nhs) كمفاهيم مركزية. تلتقي مع [دانيال هيوز](thk-sgreys) و[باميلا كوبر](thk-pcooper) في تطوير DDP.
+
+## المصادر
+
+- Hughes, D. A. (2009). *Attachment-Focused Parenting*. W. W. Norton.
+- Hughes, D. A. (2017). *Dyadic Developmental Psychotherapy Casebook*. DDP Network.
+- DDP UK (DDP Network UK) — Training and Conference Archives.
+- Bowlby, J. (1969). *Attachment and Loss*. Basic Books.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

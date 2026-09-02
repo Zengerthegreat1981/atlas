@@ -2,38 +2,47 @@
 slug: "thk-paula-penda"
 id: "THK-2829"
 type: "مفكر"
-part: "psychology"
-level: "متقدم"
+level: "مبتدئ"
 title: "بولا بيندا (Paula Penda)"
 en: "Paula Penda: Imago Educator and Author"
-crumb: "Imago ← مؤسِّسون ← بولا بيندا"
-dates: "الولايات المتحدة"
-active_start: 1990
-active_end: "مستمر"
+crumb: "الأطلس ← thinkers ← بولا بيندا"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
-related:
-- id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
-- id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
-- id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
+part: "psychology"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "لم تُراجع من نسخة أصلية مباشرة بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "إسهاماتها في Imago Education و Imago للعلاقات خارج الزواج تحتاج فصلاً."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-paula-penda.md.archived.2026-08-26"
 ---
 
 # بولا بيندا (Paula Penda)
 
-معالجة نفسية متخصصة في Imago Therapy، ومؤلفة كتب تعليمية حول Imago. من أهم أصوات Imago خارج هاريل هندريكس.
+(Paula Penda: Imago Educator and Author)
 
-## الإسهام
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-paula-penda.md.archived.2026-08-26`
 
-- **Imago Education**: تطوير برامج تعليمية ل«أزواج» فهم Imago وتطبيقه.
-- **Imago لغير الأزواج** (Beyond Couples): تطبيق Imago في علاقات أخرى (أسر، أصدقاء، زملاء عمل).
-- Imago Education كوسيلة ل«اتصال عاطفي»: مساعدة الأزواج على تحويل العلاقة.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## الأهمية
+## ملخص
 
-بيندا من أهم المعالجين الذين نشروا Imago Therapy في المجتمع خارج الإطار الأكاديمي.
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
+
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
+
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-paula-penda.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-paula-penda.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

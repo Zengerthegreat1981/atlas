@@ -22,8 +22,6 @@ related:
 - id: "thk-natanson", title: "موريس ناتانسون", type: "مفكر"
 - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "كتابه 'البناء ذو المعنى للعالم الاجتماعي' (1932) وفينومينولوجيا عالم الحياة اليومية يستحقان إدراجاً في الأعمال."
   - "دُمج معه الملف المكرَّر thk-aschutz (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -44,4 +42,10 @@ gaps:
 
 ## أهم أعماله
 
-البناء ذو المعنى للعالم الاجتماعي (Der sinnhafte Aufbau der sozialen Welt, 1932) · دراسات في النظرية الفينومينولوجية (Collected Papers في 3 مجلدات، 1962–1966) · بنى عالم الحياة (The Structures of the Life-World مع توماس لوكمان).
+البناء ذو المعنى للعالم الاجتماعي (Der sinnhafte Aufbau der sozialen Welt, 1932) · ومجلداته الثلاثة الصادرة بعد وفاته بين 1962 و1966، دراسات في النظرية الفينومينولوجية (Collected Papers) · بنى عالم الحياة (The Structures of the Life-World مع توماس لوكمان).
+
+## المصادر
+
+- Schutz, Alfred. *Der sinnhafte Aufbau der sozialen Welt*. Springer, 1932؛ ترجمة إنجليزية: *The Phenomenology of the Social World*. Northwestern University Press, 1967.
+- Schutz, Alfred, and Thomas Luckmann. *The Structures of the Life-World*. Northwestern University Press, 1973.
+- Wagner, Helmut R. *Alfred Schutz: An Intellectual Biography*. University of Chicago Press, 1983.

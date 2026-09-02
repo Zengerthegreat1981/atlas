@@ -21,9 +21,9 @@ related:
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "wrk-existential-psychotherapy", title: "العلاج النفسي الوجودي", type: "عمل / كتاب"
-- id: "rel-phenomenology-existential-therapy", title: "الظاهراتية الفلسفية والعلاج النفسي الوجودي", type: "علاقة بين مدرستين"
-- id: "rel-somatic-existential", title: "الجسدية/الجسمانية والوجودية", type: "علاقة بين مدرستين"
-- id: "rel-szasz-existential-freedom-guilt", title: "ساس والحرية الوجودية", type: "علاقة بين مدرستين"
+- id: "rel-phenomenology-existential-therapy", title: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", type: "علاقة بين مدرستين"
+- id: "rel-somatic-existential", title: "الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي", type: "علاقة بين مدرستين"
+- id: "rel-szasz-existential-freedom-guilt", title: "سازس والوجودية: الحرية والمسؤولية الأخلاقية", type: "علاقة بين مدرستين"
 gaps:
   - "التفاصيل الدقيقة لأول لقاء بين رولو ماي ومارتن هايدغر (1958) — مصدرها ذكريات ماي الشخصية، لم تُحقَّق أكاديمياً."
   - "ما إذا كان فرانكل قارئاً مباشراً لنيتشه أم تأثر به عبر ياسبرز — الأدلة متضاربة."

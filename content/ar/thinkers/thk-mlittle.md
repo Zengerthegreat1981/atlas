@@ -19,7 +19,6 @@ related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مارجريت ليتل
@@ -40,3 +39,9 @@ gaps:
 ## أهم أعمالها
 
 «عصاب التحويل وذُهان التحويل» (Transference Neurosis and Transference Psychosis, 1958) · مقالات في *International Journal of Psycho-Analysis*.
+
+## المصادر
+
+- Little, M. (1958). On delusional transference (transference psychosis). *International Journal of Psycho-Analysis*, 39, 134–138.
+- Little, M. (1981). *Transference Neurosis and Transference Psychosis: Toward Basic Unity*. New York: Jason Aronson.
+- Little, M. (1990). *Psychotic Anxieties and Containment: A Personal Record of an Analysis with Winnicott*. Northvale, NJ: Jason Aronson.

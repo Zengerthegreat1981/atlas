@@ -1,0 +1,93 @@
+# التقرير الختامي لتصحيح الدفعة 1 (1.1 → 1.10) — Spark
+الحالة: مكتمل بانتظار مراجعة رئيس التحرير
+المسار: spark | العملية: تصحيح شامل للهويات والتوثيق والـ slugs وحجر غير المؤكدين
+
+---
+
+## 1. ملخص الأرقام والإحصاءات
+- **إجمالي المسودات المعتمدة بعد التصحيح:** 189 ملفاً موثقاً في `content/ar/drafts/spark/thinkers/`.
+- **إجمالي الملفات المحالة للحجر الصحي (`quarantine-spark.md`):** 61 ملفاً وشخصية غير مؤكدة أو مفتقرة للتوثيق الذاتي المستقل.
+- **إجمالي الـ slugs الجديدة / المعاد تعيينها:** 4 مسودات بـ slugs جديدة صحيحة (`thk-jlwood`, `thk-craig-henderson`, `thk-abraham-kawai`, `thk-dina-wardi`) + مسودة إحالة (`thk-kmithoefer` → `thk-amithoefer`) + إعادة كتابة كلية لـ `thk-ebosnak` عن روبرت بوسناك.
+- **جمل القائمة السوداء:** 0 في كافة المسودات المتبقية.
+- **علامات السقالات:** 0 في كافة المسودات المتبقية.
+- **توفر قسم `## المصادر` الذاتية:** 189 / 189 مسودة.
+- **فهرس الـ Slugs:** تم تحديثه وإعادة بنائه بالكامل عبر `python3 scripts/build_slug_index.py`.
+
+---
+
+## 2. تفصيل الإجراءات المنفذة بحسب الأوامر
+
+### أمر 1 — معالجة تدوير الـ slugs (8 ملفات)
+- **التحويل للحجر وإخلاء الـ slugs:** حُذفت مسودات "مارغريت بِي" (`thk-jjoyce`)، و"جون مارش" (`thk-cwhitaker-pt`)، و"جيمس ليبشيتز" (`thk-jgould`)، وأُحيلت للحجر وسُجلت الـ slugs شاغرة لأصحابها الأصليين في `requests-spark.md`.
+- **نقل الشخصيات الحقيقية لـ slugs صحيحة:**
+  - ج. لوك وود (J. Luke Wood) → `thk-jlwood.md`
+  - كريغ هندرسون (Craig E. Henderson) → `thk-craig-henderson.md`
+  - أبراهام كاوانيوآ (Abraham Kawai'ae'a) → `thk-abraham-kawai.md`
+  - دينا فاردي (Dina Wardi) → `thk-dina-wardi.md`
+- **إعادة كتابة `thk-ebosnak.md`:** كُتبت السيرة بالكامل عن المحلل اليونغي الهولندي **روبرت بوسناك (Robert Bosnak)** ومبتكر التخيل المتجسد ومؤلفاته الأصلية.
+- التقرير الفرعي: [batch1-fix-1.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-1.md).
+
+### أمر 2 — التوثيق الذاتي الحصري والحجر الصحي (58 ملفاً)
+- **إثبات وتعميق الشخصيات الموثقة ذاتياً (3 ملفات):**
+  - كولين البيجاني (`thk-cel-bejjani`): محررة وباحثة في كتاب روتليدج عن فولفغانغ غيغيريتش (2023).
+  - بيريكليس كاسترينيديس (`thk-kastrinidis`): مؤلف أبحاث الدازاينسأناليز في *The Humanistic Psychologist*.
+  - نكازيلو نكوبي (`thk-amncube`): رائدة العلاج السردي ومبتكرة "شجرة الحياة" (*IJNT* 2006).
+- **الحجر الصحي (55 ملفاً):** حُذفت كافة الملفات التي لا يملك أصحابها مؤلفات أو أبحاثاً منشورة مستقلة وسُجلت في `quarantine-spark.md`.
+- التقرير الفرعي: [batch1-fix-2.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-2.md).
+
+### أمر 3 — تصحيح أخطاء الهوية والنسبة (6 ملفات)
+- `thk-calbright`: تصحيح الهوية إلى **آن كوبر ألبريت (Ann Cooper Albright)** أستاذة الرقص بكلية أوبرلين.
+- `thk-dhanna`: تصحيح الهوية إلى **مايكل ج. غولدشتاين (Michael J. Goldstein)** رائد بحوث Expressed Emotion في UCLA.
+- `thk-gunnel-cederblad`: تصحيح الهوية إلى **ماريان سيدِربلاد (Marianne Cederblad)** أستاذة الطب النفسي بجامعة لوند ورائدة أبحاث المرونة في دراسة لوندبي.
+- `thk-jacqueline-astington`: مطابقة الاسم العربي مع الاسم الإنجليزي **جانيت وايلد أستنغتون (Janet Wilde Astington)**.
+- `thk-lonan`: تصحيح الهوية والجنس إلى **لويجي أونيس (Luigi Onnis)** (مذكر) أستاذ الطب النفسي والعلاج الأسري بروما.
+- `thk-kaarlokeranen`: تصحيح صفة **كارلو كيرانن (Kaarlo Keränen)** كمدير إكلينيكي في مستشفى كيروبوداس، وتوثيق مصادر دراسات الحوار المفتوح المعتمدة.
+- التقرير الفرعي: [batch1-fix-3.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-3.md).
+
+### أمر 4 — تصحيح وتبرير الروابط (6 ملفات)
+- حجر `thk-apert` لعدم التوثيق وتضارب الرابط.
+- تصحيح وحذف الرابط غير المتطابق في `thk-dgray`.
+- تصحيح النقل الصوتي لـ **بروس أوغيلفي (Bruce Ogilvie)** في `thk-jacqueline-varner`.
+- تبرير الروابط صراحة في المتن في `thk-jmitchell` (جين فلاكس)، و`thk-gadamoli` (أكسيل كابريليس)، و`thk-lovaas` (دونالد باير).
+- التقرير الفرعي: [batch1-fix-4.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-4.md).
+
+### أمر 5 — تنظيف منهجي لحقل `gaps` (كافة المسودات)
+- إزالة تكرار التواريخ والمعلومات الواردة في الـ frontmatter أو المتن.
+- حذف عبارات تبرير الـ slugs التاريخية التزاماً بالقاعدة 6.
+- نقل الإنجازات والألقاب للمتن (مثل وسام الاستحقاق في `thk-cherylfairbairn`).
+- استبدال القوالب العامة بتسمية محددة للنقص الفعلي.
+- التقرير الفرعي: [batch1-fix-5.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-5.md).
+
+### أمر 6 — معالجة المشاكل الفردية الإضافية (12 ملفاً)
+- `thk-jmertz`: إعادة كتابتها عن المحلل اليونغي الإيطالي الفردي **ماريو تريفي (Mario Trevi)**.
+- `thk-fkfu`: توحيد الاسم إلى **فرانك هـ. فو (Frank H. Fu)**.
+- `thk-bala-jaison`: توحيد عنوان كتاب بالا جايسون (*Integrating Experiential Focusing*).
+- `thk-kmithoefer`: تحويلها لقيد إحالي للملف الرئيسي المعتمد **آن ميثوفير (`thk-amithoefer`)**.
+- `thk-david-erceg`: استكمال الاسم إلى **ديفيد إرسغ-هيرن (David Erceg-Hurn)**.
+- `thk-donaldatkinson`: توحيد تاريخ نهاية النشاط (`active_end: 2006`).
+- `thk-ahill`: ضبط التسلسل التاريخي بين ريادة أدريان هيل والأجيال اللاحقة.
+- `thk-kurbatov`: ضبط تصنيف فالنتين كورباتوف كناقد أدبي ومفكر وجودي روسي.
+- `thk-isap`: توثيق مؤلفات بول بروتشه وأورسولا فيرتز (*Trauma and Beyond*).
+- `thk-aboller`: تعزيز قسم «ما قدمه» لأرماند فولكاس بوقائع وتواريخ محددة (1989, 1993, 2009).
+- حجر `thk-amy-morgan` و`thk-dpierrakos` لافتقارهما لمؤلفات مستقلة.
+- التقرير الفرعي: [batch1-fix-6.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-6.md).
+
+---
+
+## 3. الوثائق المحدثة والمخرجات
+1. **سجل الحجر الصحي:** [quarantine-spark.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/quarantine-spark.md) (61 قيداً مفصلاً).
+2. **سجل الطلبات والـ slugs:** [requests-spark.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/requests-spark.md) (11 قيداً).
+3. **التقارير الفرعية:**
+   - [batch1-fix-1.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-1.md)
+   - [batch1-fix-2.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-2.md)
+   - [batch1-fix-3.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-3.md)
+   - [batch1-fix-4.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-4.md)
+   - [batch1-fix-5.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-5.md)
+   - [batch1-fix-6.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-6.md)
+4. **فهرس الـ Slugs:** [EXISTING_SLUGS.md](file:///Users/minamoheb/Desktop/Atlas/content/ar/drafts/EXISTING_SLUGS.md).
+
+---
+
+## 4. الموقف الحالي والوقفة الإلزامية
+- تم إنجاز وتدقيق كافة أوامر التصحيح من 0 إلى 6.
+- تم تجميد الترقية إلى المعتمد والتوقف التام عن بدء أي مهام جديدة التزاماً بأمر التوقف الإلزامي لانتظار المراجعة والاعتماد البشري من رئيس التحرير (كلود).

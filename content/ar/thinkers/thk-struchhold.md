@@ -2,7 +2,7 @@
 slug: "thk-struchhold"
 id: "THK-0548"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "هوبيرتوس شتروخهولد"
 en: "Hubertus Struchhold"
 crumb: "المدرسة الوجودية ← الناس ← هوبيرتوس شتروخهولد"
@@ -12,31 +12,35 @@ language: "الألمانية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
-related:
-- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "تطبيقاته الإكلينيكية للعلاج الوجودي والجسدي تحتاج توثيقاً."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Hubertus Struchhold في قواعد بيانات العلاج الوجودي الأوروبية (GVK وDNB وECP وExistential Analysis Society وIGD وDAH). النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-struchhold.md.archived.2026-08-27"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # هوبيرتوس شتروخهولد
 
-معالج نفسي وجودي وباحث ألماني معاصر، ناشط في التدريب الإكلينيكي وتطوير أدلة الممارسة للعلاج النفسي الوجودي والعمل اليدوي والتجريبي في ألمانيا.
+(Hubertus Struchhold)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-struchhold.md.archived.2026-08-27`
 
-ساهم في تقديم أدلة وممارسات علاجية تدمج بين الوعي الوجودي والعمل الإكلينيكي المباشر، مساهماً في إثراء التدريب المهني للمعالجين الوجوديين في ألمانيا.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-عضو في شبكات ومجتمعات العلاج الوجودي في ألمانيا والاتحاد الأوروبي للعلاج الوجودي.
+الملف الأصلي كان بصيغة "محاولة توثيق" تعترف صراحة بعدم وجود أي أثر لهذا الاسم في ست قواعد بيانات ألمانية وأوروبية متخصصة في العلاج الوجودي (GVK، DNB، ECP، Existential Analysis Society، IGD، DAH)، مع احتمال خطأ إملائي أو خلط مع شخص آخر. هذا نمط الاعتراف الصريح بعدم التوثيق المستقل الذي تقتضي القاعدة 11 حسمه بحجر لا ببقائه منشوراً كـ"عنصر يحتاج مراجعة" مرتبط بشبكة روابط واثقة (كيركغارد، هايدغر، سارتر، فرويد، يالوم).
 
-## القيد
-طابع عمله تدريبي وعيادي تطبيقي.
+## للمتابعة
 
-## أهم أعماله
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-struchhold.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-أوراق تدريبية ومقالات في الممارسة الإكلينيكية للعلاج الوجودي بألمانيا.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-struchhold.md.archived.2026-08-27`

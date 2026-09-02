@@ -8,6 +8,8 @@ en: "Founding of the First Department of Experimental Psychology at Calcutta Uni
 crumb: "المدرسة الوجودية ← الأحداث التاريخية ← أول قسم لعلم النفس في جامعة كلكتا 1916"
 active_start: 1916
 active_end: "مستمر"
+event_date: "1916"
+event_place: "كلكتا، الهند"
 country: "الهند"
 part: "psychology"
 gaps:

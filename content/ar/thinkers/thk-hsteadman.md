@@ -6,14 +6,14 @@ level: "متوسط"
 title: "هنري ستيدمان"
 en: "Henry J. Steadman"
 crumb: "تقييم المخاطر العلاجي ← الأبحاث التجريبية ← هنري ستيدمان"
-dates: "الولايات المتحدة · 1942–"
+dates: "الولايات المتحدة · مواليد غير مؤكدة، دكتوراه 1971"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-active_start: 1973
-active_end: 2010
+active_start: 1971
+active_end: 2017
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "تقييم المخاطر العلاجي", target_type: "تيار"
+- rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
 - id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
 - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
@@ -26,7 +26,7 @@ gaps:
 
 # هنري ستيدمان
 
-عالم اجتماع وعالم نفس أمريكي، شارك جون موناهان في تأسيس دراسات MacArthur الشهيرة حول العلاقة بين الاضطرابات النفسية والعنف. أسهم في وضع أُسس تقييم الخطر المبنية على الأدلة.
+عالم اجتماع أمريكي، شارك جون موناهان في تأسيس دراسات MacArthur الشهيرة حول العلاقة بين الاضطرابات النفسية والعنف. أسهم في وضع أُسس تقييم الخطر المبنية على الأدلة.
 
 ## ما أعطاه
 

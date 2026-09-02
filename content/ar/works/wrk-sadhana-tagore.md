@@ -11,8 +11,13 @@ dates: "1913 · طاغور"
 language: "الإنجليزية"
 active_start: 1913
 active_end: 1913
+author: "رابندراناث طاغور"
+author_slug: "thk-tagore"
+publication_year: 1913
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-tagore-philosophy", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-tagore", target_type: "مفكر"
 related:
 - id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
 - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"

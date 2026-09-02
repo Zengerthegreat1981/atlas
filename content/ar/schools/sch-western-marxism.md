@@ -9,6 +9,7 @@ en: "Western Marxism"
 crumb: "الفلسفة ← القارية ← الماركسية الغربية"
 dates: "أوروبا، العالم · من 1923 إلى الوقت الحاضر"
 country: "أوروبا، العالم"
+cultural_origin: "european"
 language: "الألمانية، الفرنسية، الإيطالية، الإنجليزية"
 active_start: 1923
 active_end: "مستمر"
@@ -23,7 +24,6 @@ related:
 - id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
 gaps:
   - "مصطلح 'الماركسية الغربية' يشير في الأصل إلى كتاب Perry Anderson (*Considerations on Western Marxism*, 1976)، ومجاله غير محصور بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع الماركسية-اللينينية (الثورة المضادة) تحتاج ربطًا أدق."
 ---
 
@@ -94,3 +94,10 @@ gaps:
 - **اتهام «**الأكاديمية المُغلقة**»**: أندرسون نفسه يصف الماركسية الغربية بأنها «**فقدت الاتصال بالطبقة العاملة**» (A Point of Reference, 1976).
 - **مشكلة الثورة**: إذا كان التغيير في «**الثقافة**» وليس في «**الاقتصاد**»، فهل تتخلّى عن مفهوم الثورة؟ (نقد ڤلاديمير لينين، روزا لوكسمبورگ).
 - **مشكلة الدولة**: المنظّرون المختلفون (لوكاتش، ألتوسِّر، ماركوز) قدّموا إجابات مختلفة حول دور **الدولة** (أداة برجوازية، استقلال نسبي، أو موقع مقاومة).
+
+## المصادر
+
+- Anderson, Perry. *Considerations on Western Marxism*. New Left Books, 1976.
+- Jay, Martin. *Marxism and Totality: The Adventures of a Concept from Lukács to Habermas*. University of California Press, 1984.
+- Lukács, Georg. *History and Class Consciousness: Studies in Marxist Dialectics*. MIT Press, 1971.
+- Gramsci, Antonio. *Selections from the Prison Notebooks*. International Publishers, 1971.

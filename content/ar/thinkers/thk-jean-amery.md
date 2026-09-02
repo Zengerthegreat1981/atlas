@@ -9,7 +9,7 @@ en: "Jean Améry"
 dates: "النمسا / بلجيكا · 1912–1978"
 country: "النمسا / بلجيكا"
 crumb: "فلسفة الصدمة والوجودية النقدية ← مفكرون ← جان أميري"
-active_start: null
+active_start: 1966
 active_end: 1978
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"

@@ -15,12 +15,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "thk-ortega", title: "خوسيه أورتيغا إي غاسيت", type: "مفكر"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "thk-gaos", title: "خوسيه غاوس", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـكارلوس ألبيرتو سانشيز."
   - "كتابه 'سيكولوجيا العرق الوجودية والوجود المكسيكي' يستحق إدراجاً في السياقات الفكرية."
 ---
 

@@ -10,10 +10,9 @@ crumb: "الفلسفة ← النسوية ← الراديكالية"
 dates: "أمريكا، بريطانيا · من 1960s إلى اليوم"
 country: "الولايات المتحدة، بريطانيا"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1967
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
 - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
 - id: "sch-feminism-marxist", title: "النسوية الماركسية", type: "مدرسة"
@@ -60,3 +59,11 @@ gaps:
 
 - تُتهم بتعميم التجربة الأنثوية و«إلغاء» النساء اللواتي اخترن أدواراً تقليدية.
 - تواجه انتقادات من النسوية السوداء والما بعد الكولونيالية.
+
+## المصادر
+
+- Firestone, S. (1970). *The Dialectic of Sex: The Case for Feminist Revolution*. William Morrow.
+- Dworkin, A. (1987). *Intercourse*. Free Press.
+- MacKinnon, C. A. (1989). *Toward a Feminist Theory of the State*. Harvard University Press.
+- Rich, A. (1976). *Of Woman Born: Motherhood as Experience and Institution*. W. W. Norton.
+- Daly, M. (1978). *Gyn/Ecology: The Metaethics of Radical Feminism*. Beacon Press.

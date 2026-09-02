@@ -12,16 +12,10 @@ active_start: 1981
 active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← جوديث هِرمان"
-edges:
-- rel: "belongs_to", target: "علاج الصدمة العصبي", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-mpbargreen", title: "ماري بيندر غرين", type: "مفكر"
-- id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
-- id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
 - id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
 - id: "thk-bperry", title: "بروس د. بيري", type: "مفكر"
-- id: "crt-feminist-critique-cbt", title: "النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة", type: "نقد خارجي موثَّق"
-- id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

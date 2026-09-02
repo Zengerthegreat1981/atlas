@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-pepper", title: "ستيفن بِبِر", type: "مفكر"
+- id: "thk-pepper", title: "ستيفن كول بِبِر", type: "مفكر"
 - id: "thk-cassirer", title: "إرنست كاسيرر", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:

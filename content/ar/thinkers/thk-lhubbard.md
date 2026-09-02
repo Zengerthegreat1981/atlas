@@ -12,13 +12,13 @@ language: "الإنجليزية"
 active_start: 1950
 active_end: 1986
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الديانيتكس / السيانتولوجيا", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-benthall", title: "مايكل بينثال", type: "مفكر"
 - id: "thk-robertduvall", title: "روبرت دوفال", type: "مفكر"
 - id: "thk-rosemaryalara", title: "روزماري أَلارا", type: "مفكر"
 gaps:
+  - "لا يوجد slug معتمد لمدرسة/حركة الديانيتكس-السيانتولوجيا (لا sch-x ولا br-x) — أُفرغ edges.belongs_to بدل استهداف نص حر."
   - "الادعاءات العلمية لـDianetics لم تخضع لمراجعة أقران مستقلة موثوقة."
   - "وضعه القانوني الحالي في عدة دول (تصنيف كحركة طائفية) غير محسوم في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق متاح."

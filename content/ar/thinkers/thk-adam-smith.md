@@ -2,7 +2,7 @@
 slug: "thk-adam-smith"
 id: "THK-2798"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "آدم سميث"
 en: "Adam Smith"
@@ -13,9 +13,9 @@ language: "الإنجليزية"
 active_start: 1759
 active_end: 1790
 edges:
-- rel: "belongs_to", target: "sch-scottish-enlightenment", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-scottish-common-sense", target_type: "مدرسة"
 related:
-- id: "ctx-edinburgh-scottish-enlightenment", title: "التنوير الاسكتلندي في إدنبرة", type: "سياق/تقليد"
+- id: "ctx-edinburgh-scottish-enlightenment", title: "التنوير الاسكتلندي وفلسفة الأخلاق والحس المشترك", type: "سياق/تقليد"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

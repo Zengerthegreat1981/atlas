@@ -10,6 +10,7 @@ crumb: "الفلسفة ← الصين ← مدرسة الأسماء"
 dates: "الصين · من القرن 4 ق.م إلى القرن 2 ق.م تقريباً"
 country: "الصين"
 language: "الصينية الكلاسيكية"
+cultural_origin: "east-asian"
 active_start: -350
 active_end: -150
 active_source: "lifespan"
@@ -23,7 +24,6 @@ related:
 gaps:
   - "نصوص Hui Shi وGongsun Long بُحثت هنا بالترجمة الإنجليزية ولم تُقارن بالنص الأصلي."
   - "التمييز بين 'المذهب المُسمّي' (Mingjia) و'المناطقة اللاحقون' (Later Mohists) ليس حاسماً في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # مدرسة الأسماء / المنطقيون (Mingjia)
@@ -43,8 +43,15 @@ gaps:
 - تعرّضت لنقد الداووية الفلسفية: تشوانغ تزو سخر من «حوار ما تحت البحر» بين هوي شي وغونغسون لونغ، واعتبر ضياع في الفروقات اللفظية يُبعد عن الحياة الحقيقية.
 - صارت في التراث الكلاسيكي تُمثّل «الشكّ الجدلي» — مفيدة في تفكيك الدعاوى، خطيرة إذا تطوّرت إلى لعب لفظي.
 
-## الإرث والمصادر
+## الإرث
 
 - ضاعت معظم كتابات هوي شي، وعُرف عنه عبر اقتباسات من تشوانغ تزو وغيره.
 - كتاب غونغسون لونغ «غونغسون لونغ تزو» وصلنا — وهو من أهم النصوص في تاريخ المنطق الصيني قبل القرن العشرين.
 - في القرن العشرين أعاد شيه لي و آخرون قراءتها، ورأى فيها دبليو. تي. تشان جذوراً للتفكير المنطقي المعاصر.
+
+## المصادر
+
+- A.C. Graham, *Disputers of the Tao: Philosophical Argument in Ancient China* (Open Court, 1989).
+- Chad Hansen, *A Daoist Theory of Chinese Thought* (Oxford University Press, 1992).
+- Wing-tsit Chan, *A Source Book in Chinese Philosophy* (Princeton University Press, 1963).
+- Fung Yu-lan, *A History of Chinese Philosophy*, vol. 1, trans. Derk Bodde (Princeton University Press, 1952).

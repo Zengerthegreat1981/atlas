@@ -12,8 +12,8 @@ country: "العباسيون (العراق، خراسان)"
 language: "العربية"
 active_start: 720
 active_end: 1000
+cultural_origin: "islamic-arabic"
 edges:
-- rel: "belongs_to", target: "علم الكلام الإسلامي", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
@@ -23,7 +23,6 @@ related:
 gaps:
   - "تاريخ التأسيس الدقيق (حوالي 720م مع واصل بن عطاء) يحتاج توثيقاً من مصدر أولي."
   - "كثير من مؤلفاتهم الكبرى فقد ولم يبق منها إلا مقتطفات في كتب الطبري وابن النديم."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # المعتزلة
@@ -60,3 +59,11 @@ gaps:
 ## الأفول
 
 تراجعت السيادة الرسمية للمعتزلة مع تولي المتوكل العباسي (234 هـ) وتبنّي الموقف الأشعري، ثم استمر وجودها كتيار فكري هامشي عند الزيدية وبعض الإباضية، ولم تَعُد إلى موقع المركزية قط.
+
+## المصادر
+
+- عبد الجبار الهمذاني، *المغني في أبواب التوحيد والعدل*، تحقيق طه حسين وآخرين، القاهرة، 1960-1965 (طبعة وزارة الثقافة المصرية).
+- الشهرستاني، *الملل والنحل*، تحقيق محمد سيد كيلاني، دار المعرفة، بيروت.
+- Watt, W. Montgomery, *The Formative Period of Islamic Thought*, Edinburgh University Press, 1973.
+- Hourani, George F., *Islamic Rationalism: The Ethics of ʿAbd al-Jabbār*, Oxford University Press, 1971.
+- van Ess, Josef, *Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra*, De Gruyter, 1991-1997.

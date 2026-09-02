@@ -7,6 +7,10 @@ level: "متقدم"
 title: "كتاب خوف ورعدة لسورين كيركغارد (1843)"
 en: "Fear and Trembling by Søren Kierkegaard (Johannes de Silentio)"
 crumb: "الفلسفة الوجودية الدينية ← أمهات الأعمال ← خوف ورعدة"
+author: "سورين كيركغارد"
+author_slug: "thk-kierkegaard"
+publication_year: 1843
+original_language: "الدنماركية"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -14,7 +18,7 @@ edges:
 related:
 - id: "met-kierkegaard-leap-of-faith", title: "قفزة الإيمان لكيركغارد: استعارة الانتقال الوجودي فوق سبعين ألف قامة", type: "استعارة/مجاز مؤسِّس"
 - id: "que-teleological-suspension-of-ethical", title: "هل يجوز تعليق الواجب الأخلاقي استجابة لنداء روحي أو غاية عليا؟", type: "سؤال توليدي"
-- id: "thk-kierkegaard", title: "سورين كيركغارد", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

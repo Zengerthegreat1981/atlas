@@ -12,6 +12,7 @@ country: "الإمبراطورية البيزنطية، في إطار أوسع (
 language: "اليونانية (القديمة والمتوسّطة)"
 active_start: 500
 active_end: 1453
+cultural_origin: "greek"
 edges:
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
@@ -23,7 +24,7 @@ related:
 - id: "thk-maximus-confessor", title: "مكسيموس المعترف", type: "مفكر"
 gaps:
   - "نصوص بليثم وكارل ستيوارت باليونانية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Erotemata' لإزيشيوس أو 'Paraphrase of the Categories'."
+  - "اقتباسات 'Erotemata' لإزيشيوس أو 'Paraphrase of the Categories' تحتاج تحققاً إضافياً من مصدر أولي موثوق."
   - "العلاقة بين البيزنطية والإسلام الوسيط (خاصة في الفلسفة، ابن سينا، الغزالي) محلّ جدل مستمرّ."
 ---
 
@@ -126,3 +127,10 @@ gaps:
 - **النزاع الإيشيازمي**: الصراع بين المتأمّلين (Hesychasts) والإنسانيين (Humanists) كان مريراً.
 
 رغم ذلك، يُعتبر الإرث البيزنطي أساسياً في **تراث الفلسفة واللاهوت الأوروبي** بأكمله.
+
+## المصادر
+
+- Kaldellis, Anthony. *Hellenism in Byzantium: The Transformations of Greek Identity and the Reception of the Classical Tradition*. Cambridge University Press, 2007.
+- Ierodiakonou, Katerina (ed.). *Byzantine Philosophy and Its Ancient Sources*. Oxford University Press, 2002.
+- Meyendorff, John. *A Study of Gregory Palamas*. St Vladimir's Seminary Press, 1964.
+- Woodhouse, C. M. *George Gemistos Plethon: The Last of the Hellenes*. Clarendon Press, 1986.

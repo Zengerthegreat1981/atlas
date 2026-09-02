@@ -9,16 +9,17 @@ en: "AEDP Metatherapeutic Processing"
 crumb: "علم النفس ← مدارس العلاج ← AEDP ← المعالجة فوق-العلاجية"
 active_start: 2000
 active_end: "مستمر"
+evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "con-aedp-emotion", title: "العاطفة في AEDP", type: "مفهوم"
-- id: "con-aedp-transformance", title: "التحوّل في AEDP", type: "مفهوم"
-- id: "tec-aedp-emotion-to-emotion-processing", title: "المعالجة من عاطفة إلى عاطفة", type: "تقنية/تدخل علاجي"
+- id: "con-aedp-emotion", title: "الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ", type: "مفهوم"
+- id: "con-aedp-transformance", title: "الْتَحَوُّلية في AEDP: التَّحَوُّل مِن عَاطِفَة تَكَيُّفِيَّة", type: "مفهوم"
+- id: "tec-aedp-emotion-to-emotion-processing", title: "المعالجة من عاطفة إلى عاطفة (Emotion-to-Emotion Processing)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الفرق الدقيق بين Metatherapeutic وMetacognitive في الأبحاث غير محدد بالكامل."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا توجد دراسة ضبطت أثر هذا المستوى من المعالجة بمفرده؛ الدليل المتاح على AEDP ككل (Iwakabe et al., 2020) دراسة فعالية طبيعية بلا مجموعة ضابطة، لا يغطي هذه التقنية الفرعية تحديداً."
 ---
 # المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP
 

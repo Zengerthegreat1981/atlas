@@ -17,11 +17,11 @@ edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
 - id: "thk-mbraveheart", title: "ماريا يلوهورس بريف هارت", type: "مفكر"
-- id: "thk-jgone", title: "جوزيف غون", type: "مفكر"
-- id: "con-historical-trauma", title: "الصدمة التاريخية", type: "مفهوم"
+- id: "thk-jgone", title: "جوزيف ب. غون", type: "مفكر"
+- id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: العلاج البيئي (con-ecotherapy)"
   - "المفهوم لا يزال في طور التحديد الأكاديمي؛ الأدبيات وصفية وسردية أكثر منها تجريبية."
@@ -126,8 +126,10 @@ gaps:
 - Chandler, M. J., & Lalonde, C. (1998). «Cultural continuity as a hedge against suicide in Canada’s First Nations». *Transcultural Psychiatry*, 35(2), 191-219.
 - Walters, K. L., et al. (2011). «”The price of tickets”». *American Indian Quarterly*, 35(4).
 
-## ملاحظة معمارية
+## الروابط والسياق
 
 - ينتمي إلى **sch-indigenous-psychology** (علم نفس الشعوب الأصلية) و**sch-indigenous-philosophy-contemporary** (فلسفات السكان الأصليين المعاصرة).
-- مرتبط بـ**con-ecotherapy** (العلاج البيئي) و**con-historical-trauma** (الصدمة التاريخية) كإطار أوسع.
+- مرتبط بـ**con-historical-trauma** (الصدمة التاريخية) بوصفه الجرح الذي يسعى هذا الشفاء لمعالجته.
 - مرتبط بـ**thk-kimmerer** (روبن وال كيميرير) كصوت فلسفي مؤسِّس.
+- مرتبط بـ**thk-mbraveheart** (ماريا يلوهورس بريف هارت) التي صاغت مفهوم «الجروح الروحية» المرتبط مباشرة بهذا الشفاء.
+- مرتبط بـ**thk-jgone** (جوزيف ب. غون) الذي بحث في دمج المعرفة العلاجية الأصلية بالممارسة السريرية.

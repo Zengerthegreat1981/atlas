@@ -2,45 +2,34 @@
 slug: "thk-michael-guthrie"
 id: "THK-2720"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "مايكل غوثري"
 en: "Michael Guthrie"
-crumb: "العلاج الديناميكي البيني القصير (DIT) ← تطوير ← مايكل غوثري"
-dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← مايكل غوثري"
+dates: "المملكة المتحدة · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-active_start: 2012
-active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاج الديناميكي البيني القصير (DIT)", target_type: "مدرسة"
-related:
-- id: "thk-alemma", title: "أليساندرا لِمّا", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Michael Guthrie في حقل العلاج الديناميكي البيني القصير (DIT) — لا مقالة في PubMed أو APA PsycINFO، ولا نتائج في British Psychotherapy Foundation أو DIT Society (UK) حتى آب 2026. الاحتمال الأقوى خلط مع Michael Guthrie (أستاذ إدارة في Wharton) أو Michael R. Guthrie (مؤلِّف فلسفي). النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-michael-guthrie.md.archived.2026-08-27"
 ---
 
 # مايكل غوثري
 
-معالج نفسي بريطاني، من المساهمين في **تطوير DIT** وتدريب المعالجين المبتدئين في **العقود القصيرة**.
+(Michael Guthrie)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-michael-guthrie.md.archived.2026-08-27`
 
-- مساهمات في **بروتوكولات DIT** للعلاج في 16-20 جلسة.
-- فصول في كتب عن **«العلاج النفسي في الأطر الزمنية المحدودة»**.
-- تطوير **مواد تدريبية** للتدريب المكثّف في DIT.
-- مساهمات في **الإشراف السريري** على المعالجين المبتدئين.
+لم يُعثر على توثيق مستقل لوجود هذا الشخص في حقل العلاج الديناميكي البيني القصير (DIT). راجع `agents_specs/quarantine-minimax.md` للتفاصيل.
 
-## موقعه من التيار
+## المصادر
 
-يقف غوثري عند **تلاقي DIT مع العلاج النفسي العام قصير الأجل**، وهو ما يُنتج تطبيقات عملية للنموذج في **الإطارات الزمنية الصارمة** لخدمات الصحة العامة.
-
-## أهم أعماله
-
-- مساهمات في كتب DIT والإشراف السريري.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-michael-guthrie.md.archived.2026-08-27`

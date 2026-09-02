@@ -10,15 +10,14 @@ crumb: "الفلسفة ← التحليلية ← فلسفة العقل ← ال
 dates: "الولايات المتحدة · من 1960 إلى الآن"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1960
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مظلة"
-- rel: "split_into", target: "الوظيفية النفسية الآلية", target_type: "مدرسة"
-- rel: "split_into", target: "الوظيفية المؤقتة", target_type: "مدرسة"
 related:
 - id: "rel-pragmatism-functional-psychology", title: "العلاقة بين البراغماتية الفلسفية والمدرسة الوظيفية في علم النفس", type: "علاقة بين مدرستين"
-- id: "thk-hputnam", title: "هيلاري putnam", type: "مفكر"
+- id: "thk-hputnam", title: "هيلاري بوتنام", type: "مفكر"
 - id: "con-functionalism-mind", title: "الوظيفية في فلسفة العقل", type: "مفهوم"
 - id: "con-functional-contextualism", title: "السياقية الوظيفية", type: "مفهوم"
 - id: "con-body-without-organs", title: "الجسد بلا أعضاء وتدفق الرغبة (Body without Organs)", type: "مفهوم"
@@ -30,7 +29,6 @@ gaps:
   - "رابط مقترح لـ«دانيال دينيت» (thk-dennett) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«دونالد ديفيدسون» (thk-davidson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «الوظيفية النفسية الآلية» (Machine-State Functionalism) و«الوظيفية المؤقتة» (Token Functionalism) لم يُحلّل بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من فودور 'لغة الفكر' (The Language of Thought, 1975) في الصياغة الأصلية."
   - "نقد 'الإثبات الزائد' عند ليفين (1983) وعلاقته بالوظيفية لم يُراجع من نص 'المادة الزرقاء' (Purple Haze, 2001)."
 ---
 
@@ -67,3 +65,11 @@ gaps:
 
 - يستحق التمييز بين «الوظيفية» و«السلوكية» كحقلين متكاملين تدقيقاً مستقلاً.
 - الفارق بين «الوظيفية الكلاسيكية» و«الوظيفية المعاصرة» في الذكاء الاصطناعي غير موثّق هنا.
+
+## المصادر
+
+- Putnam, Hilary. "Psychological Predicates" (later retitled "The Nature of Mental States"). In *Art, Mind, and Religion*, University of Pittsburgh Press, 1967.
+- Fodor, Jerry A. *The Language of Thought*. Harvard University Press, 1975.
+- Block, Ned. "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 1978.
+- Searle, John. "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 1980.
+- Levine, Joseph. "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 1983.

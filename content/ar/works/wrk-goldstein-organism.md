@@ -9,8 +9,12 @@ crumb: "علم النفس الإنساني ← الأعمال ← الكائن �
 dates: "1934 (ألمانية) / 1939 (إنجليزية) · كورت غولدشتاين"
 language: "الألمانية (الأصلية)"
 active_start: 1934
-active_end: 1939
+active_end: 1965
 part: "psychology"
+author: "كورت غولدشتاين"
+author_slug: "thk-goldstein"
+publication_year: 1934
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-goldstein", target_type: "مفكر"

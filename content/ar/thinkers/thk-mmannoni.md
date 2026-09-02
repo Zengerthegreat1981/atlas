@@ -14,14 +14,13 @@ active_end: 2016
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "belongs_to", target: "اللاكانية", target_type: "تيار"
 related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-fdolto", title: "فرانسواز دولتو", type: "مفكر"
 gaps:
   - "دورها في نقد العقلانية المؤسسية في فرنسا في الستينيات والسبعينيات ملخّص، ولم تُراجع مصادر أولية بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـمود مانوني."
 ---
 
 # مود مانوني

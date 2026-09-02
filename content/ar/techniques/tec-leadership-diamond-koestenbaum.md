@@ -9,28 +9,18 @@ crumb: "المدرسة الوجودية ← التقنيات ← الألماس�
 part: "psychology"
 active_start: null
 active_end: "مستمر"
+evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-koestenbaum", title: "بيتر كوستنباوم", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
-
 gaps:
   - "كتاب كوستنباوم 'Leadership: The Inner Side of Greatness' (1991/2002) يحتاج مراجعة من المصدر الأولي."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا يوجد ملف دراسة (study) في الأطلس يفحص فعالية نموذج الألماسة القيادية تجريبياً، ولا تقنية قيادية منافسة موثّقة في الأطلس بنفس الإطار الوجودي للمقارنة."
 ---
 
 # الألماسة القيادية الوجودية (The Leadership Diamond)
@@ -47,9 +37,9 @@ gaps:
 ## المنطق الفلسفي
 
 يستند كوستنباوم إلى:
-- **هايدجر**: القلق كحقيقة وجودية تسمح بالمواجهة.
+- **هايدجر**: القلق كحقيقة وجودية تسمح بالمواجهة، وحرية القائد (Freedom) في تحمّل مسؤولية اختياره رغم اللايقين — وهو ما يجعل قطب «الشجاعة» تمريناً على الحرية الوجودية لا مجرد جرأة إدارية.
 - **سارتر**: المسؤولية المطلقة عن الاختيارات.
-- **يايوم**: القرارات الحاسمة كأرضية للعيش الأصيل.
+- **يالوم**: القرارات الحاسمة كأرضية للعيش الأصيل.
 
 ## التطبيق
 

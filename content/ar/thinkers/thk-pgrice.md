@@ -17,8 +17,7 @@ edges:
 related:
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 gaps:
-  - "التفاصيل الدقيقة لتحول غرايس من فلسفة اللغة العادية إلى البراغماتية اللغوية لم تُحلّل بعد."
-  - "لا يوجد اقتباس مباشر موثوق من محاضرات 'وليام جيمس' (1967)."
+  - "لم أعثر على اقتباس مباشر منسوب بصفحة محددة من محاضرات وليام جيمس (1967)."
 ---
 
 # هربرت باول غرايس
@@ -30,14 +29,21 @@ gaps:
 - **«مبدأ التعاون» (Cooperative Principle, 1967)**: في محاضرات وليام جيمس، افترض أن المتكلمين يتبعون أربعة مبادئ: الكمية (كم المعلومات)، الجودة (الصحة)، العلاقة (الأهمية)، الطريقة (الوضوح).
 - **«المعنى المتضمن» (Implicature)**: التمييز بين ما تقوله الجملة حرفياً وما يستلزمه المتكلم من سياقاتها.
 - **«المنطق والمحادثة» (Logic and Conversation, 1975)**: تحليل الأفعال الكلامية في إطار «الاستدلال العمدي» (Intention-based).
-- **«دراسات في طريق الكلمات» (Studies in the Way of Words, 1989)**.
+- **«دراسات في طريق الكلمات» (Studies in the Way of Words، نُشر بعد وفاته في 1989)**.
 
 ## أهم أعماله
 
-- *Studies in the Way of Words* (1989، نشرت بعد وفاته).
-- «Logic and Conversation» (1975).
+- *Studies in the Way of Words* (مجموعة مقالاته، نُشرت بعد وفاته، 1989).
+- «Logic and Conversation» (محاضرات وليام جيمس، هارفارد، 1967 — نُشرت 1975).
 - «Meaning» (1957).
 
 ## الأثر
 
-أثّر غرايس على دانيال سبيربر (Sperber) ودايان ويلسون (Wilson) في «نظرية الملاءمة» (Relevance Theory)، وعلى نيتشل ساول (Neale) ومقاربات البراغماتية الحديثة.
+أثّر غرايس على دانيال سبيربر (Sperber) ودايردرا ويلسون (Wilson) في «نظرية الملاءمة» (Relevance Theory)، وعلى ستيفن نيل (Neale) ومقاربات البراغماتية الحديثة.
+
+## المصادر
+
+- Grice, H. P., *Studies in the Way of Words*, Cambridge, MA: Harvard University Press, 1989.
+- Grice, H. P., "Logic and Conversation," in *Syntax and Semantics 3: Speech Acts*, eds. P. Cole & J. Morgan, New York: Academic Press, 1975.
+- Chapman, S., *Paul Grice, Philosopher and Linguist*, Basingstoke: Palgrave Macmillan, 2005.
+- Neale, S., "Paul Grice and the Philosophy of Language," *Linguistics and Philosophy* 15(5), 1992.

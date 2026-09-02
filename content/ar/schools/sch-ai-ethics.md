@@ -9,6 +9,7 @@ en: "AI Ethics (Contemporary Philosophy)"
 crumb: "الفلسفة ← المقارنة والعابرة ← أخلاقيات الذكاء الاصطناعي"
 dates: "عالمية · من 2010s إلى اليوم"
 country: "متعددة"
+cultural_origin: "anglo-american"
 language: "متعددة"
 active_start: 2014
 active_end: "مستمر"
@@ -17,7 +18,7 @@ edges:
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
-- id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
+- id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
 - id: "con-algorithmic-bias", title: "التحيز الخوارزمي (Algorithmic Bias)", type: "مفهوم"
 - id: "wrk-atlas-of-ai-crawford", title: "أطلس الذكاء الاصطناعي (Atlas of AI)", type: "عمل / كتاب"
 gaps:
@@ -58,3 +59,11 @@ gaps:
 
 - تواجه انتقادات بسبب التقنية المعيارية.
 - تواجه انتقادات بسبب إهمال التأثيرات على الفئات المهمّشة.
+
+## المصادر
+
+- Luciano Floridi, *The Ethics of Information* (Oxford University Press, 2013).
+- Nick Bostrom, *Superintelligence: Paths, Dangers, Strategies* (Oxford University Press, 2014).
+- Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (Yale University Press, 2021).
+- Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", *FAccT '21* (2021).
+- Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (NYU Press, 2018).

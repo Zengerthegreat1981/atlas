@@ -12,8 +12,7 @@ active_start: 1968
 active_end: "مستمر"
 part: "psychology"
 crumb: "العلاج باللعب ← العلاج باللعب المتمركز حول الطفل ← غاري لاندريث"
-edges:
-- rel: "belongs_to", target: "العلاج البنوي والعائلي باللعب", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
 - id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"

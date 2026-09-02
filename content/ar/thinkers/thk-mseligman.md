@@ -16,16 +16,14 @@ register: "academic"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
-- rel: "developed", target: "علم النفس الإيجابي (Positive Psychology)", target_type: "تيار"
+- rel: "developed", target: "br-positive-psychology", target_type: "تيار"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"
-- id: "thk-bfredrickson", title: "باربرا فريدريكسون", type: "مفكر"
-- id: "thk-bloch", title: "إرنست بلوخ", type: "مفكر"
-- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "con-learned-helplessness", title: "العجز المتعلم", type: "مفهوم"
-- id: "tec-strengths-based-therapy", title: "نقاط القوة في الشخصية", type: "تقنية/تدخل علاجي"
+- id: "tec-strengths-based-therapy", title: "العلاج المرتكز على مواطن القوة", type: "تقنية/تدخل علاجي"
 - id: "con-flow", title: "التدفق (Flow)", type: "مفهوم"
 - id: "wrk-authentic-happiness", title: "السعادة الحقيقية", type: "عمل / كتاب"
 - id: "con-hedonic-treadmill", title: "جهاز المشي اللذائذي والتكيف مع السعادة (Hedonic Treadmill)", type: "مفهوم"
@@ -34,7 +32,6 @@ related:
 - id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
 - id: "dbt-positivity-mandate-critique", title: "جِدَل الْإِيجَابِيّة كَوَاجِب: عِلْم النَّفْس الْإِيجَابِيّ ضِد نَقْد الْوَاجِب", type: "جدل"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: أبراهام ماسلو (thk-awang)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نموذج بيرما (PERMA) (con-perma)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: النمو ما بعد الصدمة (con-post-traumatic-growth)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الانفعالات الإيجابية (con-positive-emotions)"
@@ -102,10 +99,9 @@ gaps:
 - **"النمو ما بعد الصدمة" (Posttraumatic Growth, 2012)** — مع لورنس كالدويل.
 - **"الأمل المتفائل" (The Hope Circuit, 2018)** — الأمل كنظام عصبي.
 
-## اقتباسات مختارة
+## المصادر
 
-«علم النفس ليس دراسة المرض. هو دراسة الحياة.»
-
-«ما يجعل الحياة تستحق العيش ليس فقط تجنب المعاناة، بل بناء الازدهار.»
-
-«التفاؤل ليس سحراً. هو مهارة.»
+- Seligman, M. E. P. (1991). *Learned Optimism: How to Change Your Mind and Your Life*. Knopf.
+- Seligman, M. E. P., & Csikszentmihalyi, M. (2000). "Positive Psychology: An Introduction." *American Psychologist*, 55(1), 5–14.
+- Seligman, M. E. P. (2011). *Flourish: A Visionary New Understanding of Happiness and Well-being*. Free Press.
+- Seligman, M. E. P., & Maier, S. F. (1967). "Failure to Escape Traumatic Shock." *Journal of Experimental Psychology*, 74(1), 1–9.

@@ -10,17 +10,18 @@ crumb: "علم النفس ← مدارس العلاج ← نظرية التعل�
 active_start: 1969
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-attachment-theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-attachment-theory", target_type: "تيار"
 related:
-- id: "syn-codependency", title: "الاعتمادية المرضية (Codependency)", type: "متلازمة"
-- id: "thk-marymain", title: "ماري مين", type: "مفكر"
-- id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"
+- id: "thk-cindy-hazan", title: "سيندي هازان (Cindy Hazan)", type: "مفكر"
+- id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "con-secure-attachment", title: "التعلق الآمن (Secure Attachment)", type: "مفهوم"
+- id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "فرع"
 
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: نظرية التعلق (con-attachment-theory)"
+  - "التصنيف الأبعادي لبارثولوميو وهورويتز (1991) مذكور في المتن لكن لا يوجد ملف مفكر منشور له (Kim Bartholomew) أو لـ Leonard Horowitz في content/ar/ حالياً."
+  - "صفحة سنان شيفر (Phillip Shaver) موجودة كمسودة فقط (content/ar/drafts/thinkers/thk-shaver.md) وليست منشورة، فلم تُدرج كرابط."
   - "الجدل حول التصنيف الرباعي مقابل البُعدي مستمر في الأبحاث المعاصرة."
 ---
 

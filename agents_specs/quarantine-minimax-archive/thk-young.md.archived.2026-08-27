@@ -1,0 +1,63 @@
+---
+slug: "thk-young"
+id: "THK-0571"
+type: "مفكر"
+part: "philosophy"
+level: "مبتدئ"
+title: "سارة يونغ"
+en: "Sarah Young"
+dates: "بريطانيا · معاصرة"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "المدرسة الوجودية ← الناس ← سارة يونغ"
+edges:
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+related:
+- id: "thk-ryloma", title: "رولف لومو", type: "مفكر"
+- id: "thk-emspira", title: "إميل سبيرا", type: "مفكر"
+- id: "thk-jbspinelli", type: "مفكر", title: "جوستن سبينلي"
+- id: "thk-rdlaing", type: "مفكر", title: "ر. د. لاينغ"
+- id: "trm-schemata", type: "مصطلح", title: "الْمَخْطَطَات (Schemata)"
+- id: "br-british", type: "تيار", title: "الوجودي-الظاهراتي البريطاني"
+- id: "con-authenticity", type: "مفهوم", title: "الأصالة"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Sarah Young' في حقل العلاج الوجودي البريطاني في SEA (Society of Existential Analysis) حتى آب 2026."
+  - "الاحتمال: خلط مع Sarah Young (كاتبة 'Jesus Calling'، 2004+) — شخصية مختلفة تماماً."
+  - "لا كتاب منشور بهذا الاسم في WorldCat."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'SEA' عام."
+---
+
+# سارة يونغ
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في العلاج الوجودي البريطاني]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Sarah Young.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **SEA (Society of Existential Analysis)**: لا عضوية.
+  - **Existential Analysis (Journal)**: لا مقالة.
+  - **BACP (British Association for Counselling and Psychotherapy)**: لا نتائج.
+  - **Sage Pub (Journal of Phenomenological Psychology)**: لا مقالة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Sarah Young** (كاتبة «Jesus Calling» — 12 مليون نسخة، شخصية دينية أمريكية مختلفة تماماً).
+  - **Sara Young** (ممارسة CBT، مختلفة).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة في العلاج الوجودي.
+- للتحقق:
+  - Yalom, I. (1980). *Existential Psychotherapy*. Basic Books.
+  - van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice*. Sage.
+  - Spinelli, E. (2007). *Practising Existential Psychotherapy*. Sage.

@@ -10,13 +10,14 @@ crumb: "الفلسفة ← أمريكا اللاتينية ← الديكولو�
 dates: "أمريكا اللاتينية · من 1990s إلى اليوم"
 country: "متعددة"
 language: "الإسبانية، الإنجليزية"
+cultural_origin: "latin-american"
 active_start: 1998
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مظلة"
 related:
-- id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
-- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
+- id: "sch-mestizaje", title: "فلسفة الهجنة / المِستيساخي", type: "مدرسة"
+- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "sch-caribbean-philosophy", title: "فلسفة الكاريبي (الهوية والكريولية)", type: "مدرسة"
@@ -56,3 +57,10 @@ gaps:
 
 - تواجه انتقادات بسبب «تجنيسها» للمعرفة.
 - تواجه انتقادات من قبل الما بعد الكولونياليين.
+
+## المصادر
+
+- Quijano, Aníbal. "Coloniality of Power, Eurocentrism, and Latin America." *Nepantla: Views from South* 1(3), 2000.
+- Mignolo, Walter. *The Darker Side of Western Modernity: Global Futures, Decolonial Options*. Duke University Press, 2011.
+- Maldonado-Torres, Nelson. *Against War: Views from the Underside of Modernity*. Duke University Press, 2008.
+- Walsh, Catherine. *Interculturalidad crítica y educación intercultural*. 2009.

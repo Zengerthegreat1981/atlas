@@ -9,8 +9,12 @@ crumb: "الإنسانية ← الأعمال ← العلاج المتمركز 
 dates: "1951 · كارل روجرز"
 language: "الإنجليزية"
 active_start: 1951
-active_end: 1951
+active_end: 1969
 part: "psychology"
+author: "كارل روجرز"
+author_slug: "thk-rogers"
+publication_year: 1951
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-rogers", target_type: "مفكر"

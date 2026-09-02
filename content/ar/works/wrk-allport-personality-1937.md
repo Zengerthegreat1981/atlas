@@ -9,11 +9,9 @@ crumb: "علم نفس الشخصية ← الأعمال ← الشخصية: تف
 dates: "1937 · غوردون ألبورت"
 language: "الإنجليزية"
 active_start: 1937
-active_end: 1937
+active_end: 1967
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم نفس الشخصية", target_type: "مدرسة"
-- rel: "authored_by", target: "غوردون ألبورت", target_type: "مفكر"
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"

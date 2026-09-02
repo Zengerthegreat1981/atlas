@@ -13,13 +13,15 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
-- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-nishitani", title: "كيجي نيشيتاني", type: "مفكر"
 - id: "thk-kimura", title: "بين كيمورا", type: "مفكر"
+- id: "con-absolute-nothingness-zettai-mu", title: "العدم المطلق الإيجابي في مدرسة كيوتو (Zettai Mu)", type: "مفهوم"
 gaps:
   - "النص الأصلي 'Logic of Place' (1945) لنيشيدا يحتاج مراجعة من المصدر الأولي."
-  - "العلاقة الدقيقة بين Basho و'Da' (البين) عند هايدجر تستحق توثيقاً مستقلاً."
+  - "المتن يذكر هوسرل ضمنياً عبر مفهوم الوعي القصدي لكن دون اسمه صراحة، وعليه أُسقط رابط thk-husserl لعدم وجود جملة تسمّيه في المتن."
+  - "المتن يذكر 'تاناكي' (على الأرجح هاجيمي تانابه Hajime Tanabe) دون أن يوجد له slug موثّق في الأطلس — لا يمكن بناء رابط related له."
+  - "قد يكون هذا الملف مكرراً موضوعياً مع con-basho-logic-of-place (نفس المفهوم: منطق المكان عند نيشيدا) — يحتاج مراجعة بشرية للدمج، لم يُدمج هنا."
 ---
 
 # منطق المكان (Basho)

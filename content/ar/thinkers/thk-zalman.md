@@ -15,13 +15,13 @@ active_end: 1812
 edges:
 - rel: "belongs_to", target: "sch-hasidic", target_type: "مدرسة"
 related:
-- id: "thk-baal-shem-tov", title: "بَعَل شِم طوف", type: "مفكر"
+- id: "thk-baal-shem-tov", title: "إسرائيل بن إليعزر (بعل شيم طوف)", type: "مفكر"
 - id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"
 - id: "thk-isaac-luria", title: "إسحاق لوريا", type: "مفكر"
 - id: "sch-hasidic", title: "الحسيدية", type: "مدرسة"
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
 - id: "sch-haskalah", title: "هَسْكَلاة", type: "مدرسة"
-- id: "con-tzimtzum", title: "צמצום (الانسحاب الإلهي)", type: "مفهوم"
+- id: "con-tzimtzum", title: "القبض الإلهي (تيمتسوم)", type: "مفهوم"
 gaps:
   - "Tanya (1796) لم تُترجم كاملة إلى العربية."
   - "علاقته بمعلّمه Maggid of Mezeritch تحتاج تحقيقاً أكاديمياً."
@@ -39,7 +39,7 @@ gaps:
 - **"الحسيدية المتعالية" (Habad)**: تأسيس مدرسة فكرية، تُعرَّف بـ"חכמה، בינה، דעת" (حكمة، فهم، معرفة) — وهي السيفيروت الأعلى. مقابل "الحسيدية الوجدانية" (Hesed/Gevurah) في ساتمار وهاباد.
 - **"نظرية 'العمل الصوفي' (Avodah)": تقسيم لِلعمل الإلهي إلى (1) العمل بالحبّ، (2) العمل بالخوف، (3) العمل بالنقاش العقلي.
 - **"نقد الصوفية الزائفة"**: تحذير من "الـ'Mitnagdim'" (المعاندون) الذين عارضوا الحسيدية، وهو نقد ذاتي.
-- **"القانون في الحسيدية" (Shulchan Aruch HaRav, 1814)**: إعادة صياغة لـShulchan Aruch Joseph Karo بتعليق حسيدي.
+- **"القانون في الحسيدية" (Shulchan Aruch HaRav، نُشر بعد وفاته سنة 1814)**: إعادة صياغة لـShulchan Aruch Joseph Karo بتعليق حسيدي.
 - **"مفهوم 'هبوط الذرات الإلهية' (Nitzozot)": شرح لـ"جسيمات من نور إلهي" موجودة في كلّ المادّيات.
 
 ## موقعه من التيار
@@ -51,7 +51,7 @@ gaps:
 - *Tanya* (תניא، 1796، طبعة منقّحة 1800، وطبعات لاحقة).
 - *Torah Or* (توراة أور، دراسات حسيدية).
 - *Likutei Amarim* (الأقوال المختارة، جزء من الـTanya).
-- *Shulchan Aruch HaRav* (شلحان عورخ هَ-رَف، قانون حسيدي، 1814).
+- *Shulchan Aruch HaRav* (شلحان عورخ هَ-رَف، قانون حسيدي، نُشر بعد وفاته سنة 1814).
 - *Kuntres Acharon* (كرّاس أخير، مقالات متأخّرة).
 - *Hemshech Sameach* (سلسلة تأمّلات).
 - رسائل متبادلة مع تلاميذه.
@@ -60,3 +60,9 @@ gaps:
 
 > "اعرف عقلَكَ كما تعرفُ عقلَ صديقك."
 > *(Iggeret HaKodesh، من Tanya، الفصل 13، ترجمة تقريبية)*
+
+## المصادر
+
+- Schneur Zalman of Liadi, *Tanya* (bilingual ed., trans. Nissan Mindel et al.). Kehot Publication Society.
+- Elior, R. (1993). *The Paradoxical Ascent to God: The Kabbalistic Theosophy of Habad Hasidism*. State University of New York Press.
+- Foxbrunner, R. A. (1992). *Habad: The Hasidism of R. Shneur Zalman of Lyady*. University of Alabama Press.

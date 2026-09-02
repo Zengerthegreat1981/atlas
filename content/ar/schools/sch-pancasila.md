@@ -10,11 +10,10 @@ crumb: "الفلسفة ← جنوب شرق آسيا ← بانتشاسيلا"
 dates: "إندونيسيا · من عام 1945 إلى الوقت الحاضر"
 country: "إندونيسيا"
 language: "الإندونيسية (Bahasa Indonesia) + الجاوية (لغة مسقط)"
+cultural_origin: "southeast-asian"
 active_start: 1945
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "الفلسفة السياسية لجنوب شرق آسيا (مظلة)", target_type: "مظلة"
 related:
 - id: "sch-adat", title: "أدات", type: "مدرسة"
 - id: "sch-sikolohiyang-pilipino", title: "سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)", type: "مدرسة"
@@ -72,3 +71,10 @@ gaps:
 - استلهمت منها نظريات فلسفية في **الكونفوشيوسية الماليزية** (Cina Peranakan) و**المسيحية الإندونيسية** (GKPI، KPSI).
 - في 2000-2020، تبنّت جامعات مثل جامعة غاجاه مادا (UGM) وUNIVERSITAS INDONESIA (UI) تخصصات «Pancasila Studies» كحقل أكاديمي مستقل.
 - تُعتبر اليوم من أقدم «دساتير الفلسفة السياسية» في جنوب شرق آسيا، وأنجحها.
+
+## المصادر
+
+- Soekarno. *Lahirnya Pancasila* (خطبة 1 يونيو 1945 أمام BPUPKI).
+- دستور جمهورية إندونيسيا 1945، Pembukaan UUD 1945 (الديباجة).
+- Madjid, Nurcholish & Azra, Azyumardi. أعمال حول إعادة تأطير بانتشاسيلا كـ«توافق لا أيديولوجيا»، أواخر التسعينيات.
+- Notonagoro. أعمال حول «بانتشاسيلا النقية» (Pancasila Murni) كصياغة فلسفية.

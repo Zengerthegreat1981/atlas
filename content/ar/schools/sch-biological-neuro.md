@@ -12,27 +12,26 @@ country: "متعدد"
 language: "متعدد"
 active_start: 1879
 active_end: "مستمر"
+cultural_origin: "european"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "evolved_from", target: "علم وظائف الأعضاء (Neurophysiology)", target_type: "مدرسة"
-- rel: "evolved_from", target: "علم النفس الفيزيولوجي (Wundt)", target_type: "تيار"
 - rel: "evolved_from", target: "sch-developmental", target_type: "مدرسة"
 - rel: "split_into", target: "br-affective-neuroscience-informed", target_type: "تيار"
 - rel: "split_into", target: "br-behavioral-neurology", target_type: "تيار"
-- rel: "split_into", target: "br-cognitive-neuroscience", target_type: "تيار"
+- rel: "split_into", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
 - rel: "split_into", target: "br-clinical-neuropsychology", target_type: "تيار"
 - rel: "split_into", target: "br-psychopharmacology", target_type: "تيار"
 related:
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 - id: "thk-jledoux", title: "جوزيف لودو", type: "مفكر"
-- id: "thk-panksepp", title: "جاakob بانكسيب", type: "مفكر"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "thk-robert-sapolsky", title: "روبرت سابولسكي", type: "مفكر"
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "con-neuroplasticity", title: "اللدونة العصبية", type: "مفهوم"
 - id: "con-somatic-marker", title: "العلامة الجسدية", type: "مفهوم"
-- id: "dbt-categorical-vs-hitop-dimensional", title: "النموذج الفئوي DSM مقابل النموذج الأبعادي الهرمي (HiTOP)", type: "جدل"
+- id: "dbt-categorical-vs-hitop-dimensional", title: "DSM الفئوي مقابل HiTOP: بنية التشخيص الهرمية-الإحصائية", type: "جدل"
 - id: "dbt-chemical-imbalance-myth-neuroplasticity", title: "أسطورة الاختلال الكيميائي مقابل فرضية المرونة العصبية", type: "جدل"
 - id: "dbt-general-factor-psychopathology-p", title: "هل يفسر العامل العام للاعتلال النفسي (P-Factor) تداخل الاضطرابات؟", type: "جدل"
 - id: "dbt-memory-reconsolidation-vs-extinction", title: "إعادة توطيد ومحو الذاكرة الصادمة مقابل الإخماد والتثبيط السلوكي", type: "جدل"
@@ -45,7 +44,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس التطوري (sch-evolutionary-psychology)"
   - "العلاقة بين علم النفس البيولوجي وعلم النفس التطوري غير موحَّدة، كليهما يتعامل مع الجسد والتطور لكن بمناهج مختلفة."
   - "التقسيمات الفرعية (Behavioral Neurology، Cognitive Neuroscience، Affective Neuroscience) تحتاج فصولاً مستقلة في `br-`."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "رابطا evolved_from لـ«علم وظائف الأعضاء» و«علم النفس الفيزيولوجي (Wundt)» أُزيلا — لا يوجد slug معتمد يطابقهما في الأطلس حالياً."
 ---
 # علم النفس البيولوجي والعصبي (Biological & Neuropsychology)
 
@@ -118,10 +117,9 @@ gaps:
 - **الإهمال التاريخي للجانب النفسي-اجتماعي**: DSM-5 يتجه نحو البعد البيولوجي (Research Domain Criteria - RDoC) على حساب البعد السياقي.
 - **التطبيق المحدود**: معظم نتائج التصوير العصبي لم تُترجم بعد إلى علاجات فعالة.
 
-## المرجع الأساسي
+## المصادر
 
 - Bear, M. F., Connors, B. W., & Paradiso, M. A. (2020). *Neuroscience: Exploring the Brain*. Wolters Kluwer.
 - Kandel, E. R. (2013). *Principles of Neural Science*. McGraw-Hill.
 - Kolb, B., & Whishaw, I. Q. (2013). *Fundamentals of Human Neuropsychology*. Worth Publishers.
 - Panksepp, J. (1998). *Affective Neuroscience*. Oxford University Press.
-- Sapolsky, R. (2004). *Why Zebras Don't Get Ulcers*. Holt.

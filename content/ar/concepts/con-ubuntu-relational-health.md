@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
-- id: "thk-wade-nobles", title: "وايد نوبلز", type: "مفكر"
-- id: "thk-wdowling", title: "نعيم أكبر", type: "مفكر"
+- id: "thk-wade-nobles", title: "وايد دبليو. نوبلز (نانا كواكو بيركو الأول)", type: "مفكر"
+- id: "thk-nakbar", title: "ناعيم أكبر", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

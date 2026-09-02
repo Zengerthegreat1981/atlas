@@ -16,8 +16,9 @@ edges:
 - rel: "evolved_from", target: "sch-marxism", target_type: "مدرسة"
 related:
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
-- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
+- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
+cultural_origin: "latin-american"
 gaps:
   - "نصوص Prebisch, Furtado, Cardoso & Faletto, Andre Gunder Frank, Samir Amin need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -55,3 +56,11 @@ gaps:
 
 - تواجه انتقادات بسبب الاقتصادوية (إهمال العرق، الجنس).
 - انتُقدت بسبب التعميم (تباين أمريكا اللاتينية).
+
+## المصادر
+
+- Prebisch, R. (1950). *The Economic Development of Latin America and Its Principal Problems*. UN ECLA.
+- Frank, A. G. (1966). "The Development of Underdevelopment". *Monthly Review*, 18(4).
+- Cardoso, F. H., & Faletto, E. (1979). *Dependency and Development in Latin America*. University of California Press.
+- dos Santos, T. (1970). "The Structure of Dependence". *American Economic Review*, 60(2).
+- Amin, S. (1976). *Unequal Development*. Monthly Review Press.

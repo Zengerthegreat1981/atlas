@@ -15,8 +15,7 @@ active_end: 1073
 edges:
 - rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد ترجمة عربية معتمدة لنصّي Taijitu shuo وTongshu بالكامل."
 ---
 
 # تشو دون يي
@@ -40,6 +39,8 @@ gaps:
 - *Taijitu shuo* (شرح مخطّط القطب الأسمى).
 - *Tongshu* (كتاب النفاذ) — شرحه على «كتاب التغيّرات».
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Chan, Wing-tsit (trans.). *A Source Book in Chinese Philosophy*. Princeton University Press, 1963 (ترجمة Taijitu shuo وTongshu).
+- Fung Yu-lan. *A History of Chinese Philosophy, Vol. II: The Period of Classical Learning*. Princeton University Press, 1953.
+- Chan, Wing-tsit (ed.). *Chu Hsi and Neo-Confucianism*. University of Hawaii Press, 1986.

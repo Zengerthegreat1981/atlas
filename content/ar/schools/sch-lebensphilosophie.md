@@ -12,6 +12,7 @@ country: "ألمانيا، فرنسا"
 language: "الألمانية، الفرنسية"
 active_start: 1870
 active_end: 1920
+cultural_origin: "european"
 edges:
 - rel: "evolved_into", target: "sch-phenomenology", target_type: "مظلة"
 - rel: "belongs_to", target: "sch-romanticism", target_type: "مظلة"
@@ -23,7 +24,7 @@ related:
 gaps:
   - "رابط مقترح لـ«جورج زيمل» (thk-simmel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتب دلتاي عن 'أنواع فلسفة العالم' (1911) لم تُقارن مع برغسون في 'التفكير والمتحرك' (1934)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد نسخة نصية مباشرة من 'Weltanschauungslehre' (1911) لدلتاي متاحة للاقتباس الحرفي في هذه المسودة."
 ---
 
 # فلسفة الحياة (Lebensphilosophie)
@@ -55,3 +56,9 @@ gaps:
 
 - ليست «مدرسة» موحدة، بل تلاقي بين فلاسفة مختلفين.
 - إشكالية التحويل بين الألمانية (Lebensphilosophie) والفرنسية (philosophie de la vie) والإنجليزية.
+
+## المصادر
+
+- Wilhelm Dilthey, *Die Typen der Weltanschauung* (1911), in *Gesammelte Schriften*, Bd. VIII.
+- Henri Bergson, *Essai sur les données immédiates de la conscience* (Paris: Félix Alcan, 1889).
+- Henri Bergson, *L'Évolution créatrice* (Paris: Félix Alcan, 1907).

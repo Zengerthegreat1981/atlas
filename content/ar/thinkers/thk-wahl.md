@@ -20,7 +20,7 @@ related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي بعد."
   - "كتابه 'دراسات كيركيغاردية' (1938) ومحاضرته التاريخية 'نحو المنتهي' تستحق توثيقاً."
 ---
 
@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 دراسات كيركيغاردية (Études kierkegaardiennes, 1938) · شقاء الوعي في فلسفة هيغل (Le Malheur de la conscience dans la philosophie de Hegel, 1929) · معاهدة الميتافيزيقا (Traité de métaphysique, 1953).
+
+## المصادر
+
+- Wahl, J. (1929). *Le Malheur de la conscience dans la philosophie de Hegel*. Rieder.
+- Wahl, J. (1938). *Études kierkegaardiennes*. Aubier.
+- Wahl, J. (1953). *Traité de métaphysique*. Payot.
+- Stanford Encyclopedia of Philosophy / Encyclopædia Universalis — مدخل "Jean Wahl".

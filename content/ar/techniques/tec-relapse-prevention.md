@@ -12,25 +12,24 @@ active_start: 1985
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-amarlatt", target_type: "مفكر"
 related:
 - id: "tec-cbt-sud", title: "العلاج المعرفي السلوكي لاضطرابات تعاطي المواد (CBT-SUD)", type: "تقنية/تدخل علاجي"
-- id: "tec-mbrp", title: "منع الانتكاس القائم على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
+- id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
 - id: "dis-cannabis-use", title: "اضطراب استخدام الحشيش", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-exhibitionistic", title: "اضطراب الاستعراء (Exhibitionistic Disorder)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-fetishistic", title: "اضطراب الفيتشية (Fetishistic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-hallucinogen-use", title: "اضطراب استخدام المُهلوسات", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-inhalant-use", title: "اضطراب استخدام المواد المستنشقة", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-opioid-use", title: "اضطراب استخدام الأفيونات", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-schizoaffective", title: "الفصام العاطفي", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-sedative-use", title: "اضطراب استخدام المهدئات / المنومات", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-stimulant-use", title: "اضطراب استخدام المنشطات", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-exhibitionistic", title: "اضطراب الاستعراء (Exhibitionistic Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-fetishistic", title: "اضطراب الفيتشية (Fetishistic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-voyeuristic", title: "اضطراب الاستطلاع (Voyeuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التمييز الدقيق بين نموذج مارلات الأصلي لـ RP و«نموذج واغنر» (Wagner Model) في علم النفس الإدماني الحديث يحتاج توثيقاً أكاديمياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # منع الانتكاس (RP)
@@ -58,4 +57,8 @@ gaps:
 
 ## الأثر العلاجي
 
-RP من أكثر التدخلات المُعتمدة في علاج الإدمان. تظهر الأبحاث أنه يُقلّل من نسبة الانتكاس في تعاطي الكحول والمخدرات بنسبة 20-30٪.
+RP من أكثر التدخلات المُعتمدة في علاج الإدمان. تظهر الأبحاث أنه يُقلّل من نسبة الانتكاس في تعاطي الكحول والمخدرات بنسبة 20-30٪، وهو ما يجعل evidence_level هنا "مثبت الفعالية" (well-established) — تدعمه ميتا-تحليلات متعددة على اضطرابات استخدام المواد منذ التسعينيات، بما فيها اضطراب استخدام الحشيش والمُهلوسات والمواد المستنشقة والأفيونات والمهدئات والمنشطات (`dis-cannabis-use`، `dis-hallucinogen-use`، `dis-inhalant-use`، `dis-opioid-use`، `dis-sedative-use`، `dis-stimulant-use`).
+
+## الامتداد إلى الجرائم الجنسية
+
+في أواخر الثمانينيات نقل **ويليام بيذرز** (William Pithers) نموذج مارلات لمنع الانتكاس من الإدمان إلى برامج علاج مرتكبي الجرائم الجنسية، معتبراً "دائرة الانتكاس" (اجترار الفانتازيا → موقف خطر → عجز عن الضبط) قابلة للتطبيق على اضطراب الاستعراء والفيتشية والاستطلاع (`dis-exhibitionistic`، `dis-fetishistic`، `dis-voyeuristic`) بنفس منطق تحديد المواقف عالية الخطورة الذي وصفه مارلات أصلاً للإدمان، رغم أن الأدلة على فعاليته في هذا السياق أضعف وأكثر جدلاً من الأدلة في علاج تعاطي المواد.

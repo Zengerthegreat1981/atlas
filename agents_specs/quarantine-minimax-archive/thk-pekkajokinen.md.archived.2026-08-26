@@ -1,0 +1,59 @@
+---
+slug: "thk-pekkajokinen"
+id: "THK-2740"
+type: "مفكر"
+level: "متقدم"
+title: "بيكا يوكينن"
+en: "Pekka Jokinen"
+crumb: "الحوار المفتوح ← تطوير ← بيكا يوكينن"
+dates: "فنلندا · [DRAFT-UNKNOWN]"
+country: "فنلندا"
+language: "الفنلندية"
+active_start: 1990
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "الحوار المفتوح", target_type: "مدرسة"
+related:
+- id: "thk-jaseikkula", title: "يارمو سيكولا", type: "مفكر"
+- id: "thk-tlalev", title: "توماس لالِف", type: "مفكر"
+- id: "thk-rlewis", title: "راندي لويس", type: "مفكر"
+- id: "con-open-dialogue", title: "الحوار المفتوح", type: "مفهوم"
+- id: "con-network-meeting", title: "الاجتماع الشبكي", type: "مفهوم"
+- id: "dis-psychosis", title: "الذهان", type: "اضطراب/حالة إكلينيكية"
+gaps:
+  - "سنة الميلاد غير موثقة في هذا المسوّد."
+  - "الاسم 'Pekka Jokinen' في الحوار المفتوح: الاسم الأكثر شهرة هو Jaakko Seikkula (يارمو سيكولا) في تأسيس Open Dialogue في توركو. يوكينن قد يكون أحد الممارسين المساعدين في الفريق الفنلندي."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو توثيق أفضل."
+---
+
+# بيكا يوكينن
+
+معالج نفسي فنلندي، يدّعي المسوّدة أنه ساهم في تطوير **منهج الحوار المفتوح** وتطبيقه في سياقات متنوعة.
+
+## محاولة التوثيق
+
+**الحوار المفتوح** (Open Dialogue) نهج علاجي نشأ في **مستشفى توركو الجامعي** (Keroputaa / Tornio) في الثمانينيات من القرن العشرين، بقيادة [يارمو سيكولا](thk-jaseikkula) و[توماس لالِف](thk-tlalev). يتمحور حول **الاجتماعات الشبكية** (Network Meetings) حيث يجتمع المعالجون والمريض والأسرة والأصدقاء المهمون حول طاولة مستديرة، ويستجيب المعالج لما يُطرح فوراً.
+
+بالبحث عن اسم «Pekka Jokinen» في هذا السياق:
+- الاسم شائع في فنلندا.
+- لا يوجد ملف تعريفي مستقل لـ«Pekka Jokinen» في Open Dialogue في الأدبيات الإنجليزية.
+- الأشهر في الفريق الفنلندي هو Jaakko Seikkula (يارمو سيكولا) و Tom Erik Arnkil (توم إيريك أرنكيل) وRandy Lewis (راندي لويس) في أونتاريو.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون يوكينن من **الجيل الثاني** من ممارسي الحوار المفتوح، ويمثّل توسعة تطبيق النموذج خارج الإطار الأصلي للبالغين في طوارئ الذهان، نحو فئات عمرية وإكلينيكية أوسع.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالحوار المفتوح](con-open-dialogue) و[الاجتماع الشبكي](con-network-meeting) و[الذهان](dis-psychosis) كمفاهيم مركزية.
+
+## المصادر
+
+- Seikkula, J., & Arnkil, T. E. (2006). *Dialogical Meetings in Social Networks*. Karnac.
+- Seikkula, J., et al. (2003). "Five-year experience of first-episode nonaffective psychosis in open-dialogue approach." *Psychotherapy Research*, 13(2), 137–151.
+- Lakeman, R. (2014). "The Finnish Open Dialogue Approach to Mental Health Care." *Journal of Psychosocial Nursing*, 52(11), 20–27.
+- Open Dialogue UK — Training and Conference Archives.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

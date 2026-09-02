@@ -13,13 +13,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2012
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والشخصية", target_type: "مدرسة"
+edges: []
 related:
-- id: "wrk-quiet-2012", title: "الهدوء: قوة الانطوائيين", type: "عمل / كتاب"
+- id: "wrk-quiet-2012", title: "هادئ: قوة الانطوائيين في عالم لا يتوقف عن الكلام", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة (sch-) مستقل في الأطلس لـ«علم النفس الشعبي والشخصية»، فحُذف رابط belongs_to وسُجِّلت المدرسة الغائبة في missing-schools.md."
+  - "تفاصيل مسيرتها كمحامية قبل التحوّل إلى الكتابة (قبل 2012) لم تُراجع من مصدر أولي."
 ---
 
 # سوزان كين
@@ -51,6 +50,7 @@ gaps:
 - *Quiet Power: The Secret Strengths of Introverts* (2016).
 - *Bittersweet: How Sorrow and Longing Make Us Whole* (2022).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Cain, S. (2012). *Quiet: The Power of Introverts in a World That Can't Stop Talking*. Crown Publishing.
+- Cain, S. (2016). *Quiet Power: The Secret Strengths of Introverts*. Dial Books.

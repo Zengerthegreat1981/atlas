@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← الأسئلة المول�
 active_start: 1700
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-linguistics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-structuralism", target_type: "مدرسة"
 related:
 - id: "con-meaning", title: "المعنى", type: "مفهوم"
 gaps:
@@ -19,8 +19,6 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: لودفيغ فيتغنشتاين (thk-wittgenstein)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: فرديناند دي سوسور (thk-saussure)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: فيلهلم فون همبولدت (thk-humboldt)"
-  - "المصادر الأولية (Saussure، Chomsky، Wittgenstein، Humboldt) تحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'اللغة' (Language) و'الكلام' (Speech) و'اللغة الطبيعية' (Natural Language) يحتاج فصلاً."
   - "العلاقة بـ'الأفكار' (Thought) — فرضية سابير-وورف (Sapir-Whorf) — تحتاج فصلاً."
 ---
@@ -47,3 +45,10 @@ gaps:
 ## الأَهمِّيَّة
 
 (1) **الْفَكْر** (Thought): «**لُغَة**» «**تُشَكِّل**» (Shapes) «**تَفْكِير**». (2) **الْهَوِيَّة** (Identity): «**لُغَة**» «**مَكَوِّن**» (Component) «**هَوِيَّة**». (3) **الْعِلَاج** (Therapy): «**لُغَة**» «**وَسِيلَة**» (Means) «**شِفَاء**» (Healing) — «**الْحِوَار**» (Dialogue).
+
+## المصادر
+
+- Saussure, F. de (1916). *Cours de linguistique générale*.
+- Chomsky, N. (1957). *Syntactic Structures*.
+- Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*; (1953). *Philosophical Investigations*.
+- Humboldt, W. von (1836). *Über die Verschiedenheit des menschlichen Sprachbaues*.

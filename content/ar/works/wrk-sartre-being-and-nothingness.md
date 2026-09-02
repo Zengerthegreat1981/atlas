@@ -9,12 +9,18 @@ en: "Being and Nothingness (L'Être et le Néant) by Jean-Paul Sartre"
 crumb: "الفلسفة الوجودية الفرنسية ← أمهات الأعمال ← الوجود والعدم لسارتر"
 active_start: null
 active_end: "مستمر"
+author: "جان بول سارتر"
+author_slug: "thk-sartre"
+publication_year: 1943
+original_language: "الفرنسية"
 edges:
 - rel: "belongs_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
 - id: "met-sartre-cafe-waiter-bad-faith", title: "نادل المقهى لسارتر: استعارة سوء النية والتمثيل المسرحي للدور", type: "استعارة/مجاز مؤسِّس"
 - id: "met-sartre-paperknife-essence", title: "سكين الورق لسارتر: استعارة أسبقية الوجود على الماهية", type: "استعارة/مجاز مؤسِّس"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+- id: "con-freedom", title: "الحرية", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

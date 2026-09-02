@@ -9,6 +9,10 @@ en: "Han Feizi (Book of Master Han Fei)"
 crumb: "الفلسفة ← الصين ← القانونية ← كتاب هان في تزو"
 dates: "الصين · نحو 240 ق.م إلى 200 ق.م (التجميع)"
 language: "الصينية الكلاسيكية"
+author: "هان في تزو"
+author_slug: "thk-hanfeizi"
+publication_year: -240
+original_language: "الصينية الكلاسيكية"
 active_start: -240
 active_end: -200
 active_source: "lifespan"

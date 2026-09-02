@@ -22,6 +22,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تحقّق: 'Re-Authoring Lives' (1995) من تأليف مايكل وايت وحده (Dulwich Centre Publications)، وليس عملاً مشتركاً مع إبستون — مؤكَّد من قوائم النشر (Amazon/Oxford Encyclopedia of Social Work)."
 ---
 
 # ديفيد إبستون

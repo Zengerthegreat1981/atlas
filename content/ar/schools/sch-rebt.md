@@ -12,10 +12,9 @@ country: "الولايات المتحدة الأمريكية (نيويورك)"
 language: "الإنجليزية"
 active_start: 1955
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "الموجة الأولى من الموجات المعرفية-السلوكية", target_type: "تيار"
 - rel: "founded_by", target: "thk-ellis", target_type: "مفكر"
-- rel: "co_founded_by", target: "روبرت هاربر", target_type: "مفكر"
 related:
 - id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
@@ -63,7 +62,7 @@ gaps:
 
 امتد تأثير REBT إلى ما وراء العلاج النفسي السريري ليشمل مجالات التربية، التدريب الإداري، الاستشارة الزوجية، والعلاج الذاتي عبر أدبيات "المساعدة الذاتية" العقلانية. كتاب "دليل العقلاني للحياة" (A New Guide to Rational Living, 1961/1975) الذي اشترك في تأليفه إليس وهاربر، لا يزال من أكثر الكتب مبيعاً في مجاله، وأحدث صياغة شعبية لهذا التقليد.
 
-## أهم المرجعيات الأكاديمية
+## المصادر
 
 - Ellis, A. (1962). *Reason and Emotion in Psychotherapy*. Lyle Stuart.
 - Ellis, A., & Harper, R. A. (1961/1975). *A New Guide to Rational Living*. Prentice-Hall / Wilshire Book Company.

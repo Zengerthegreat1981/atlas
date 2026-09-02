@@ -12,15 +12,13 @@ language: "الإنجليزية، العربية"
 part: "psychology"
 active_start: 1995
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "TRE (تمارين إطلاق الصدمة)", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
-- id: "thk-besselvanderkolk", title: "بسل فان دير كولك", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "exp-pat-ogden-body-movement-sensorimotor", title: "بات أوغدن", type: "خبرة معيشة"
-- id: "sch-somatic-experiencing", title: "الخبرة الجسدية", type: "مدرسة"
-- id: "sch-emdr", title: "إعادة المعالجة بحركة العين (EMDR)", type: "مدرسة"
-- id: "sch-ifs", title: "نظام الأسرة الداخلية", type: "مدرسة"
+- id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
+- id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 gaps:
   - "لا توجد تجارب سريرية عشوائية (RCT) لـTRE في مجلة أكاديمية محكّمة كبيرة."
   - "مفهوم 'neurogenic tremors' يفتقر إلى تفسير عصبي مُجمَّع."

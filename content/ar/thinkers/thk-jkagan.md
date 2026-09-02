@@ -13,11 +13,8 @@ active_end: 2021
 part: "psychology"
 crumb: "علم نفس النمو ← المزاج والتثبيط السلوكي ← جيروم كاغان"
 edges:
-- rel: "belongs_to", target: "علم نفس الطفل", target_type: "مدرسة"
-related:
-- id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"
-- id: "thk-dbaumrind", title: "ديانا باومرند", type: "مفكر"
-- id: "thk-tbrazelton", title: "تي. بيري برازيلتون", type: "مفكر"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
+related: []
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

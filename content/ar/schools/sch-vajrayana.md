@@ -9,14 +9,15 @@ en: "Vajrayāna / Tantric Buddhism (Diamond Vehicle)"
 crumb: "الفلسفة ← البوذية ← فاجرايانا / البوذية التانترية"
 dates: "الهند، التبت، شرق آسيا · من القرن 3 م إلى اليوم"
 country: "الهند، نيبال، التبت، منغوليا، اليابان (جزئياً)"
+cultural_origin: "south-asian"
 language: "السنسكريتية، التبتية"
 active_start: 300
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 - id: "sch-nyingma", title: "نينغما", type: "مدرسة"
 - id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
@@ -76,3 +77,10 @@ gaps:
 - الطقوس التانترية تتضمن رموزاً قد تبدو للوهلة الأولى «شركية» (كالممارسة الجنسية التأملية)، لكنها تفسرها بوصفها تمثيلات للوحدة التجريبية للـprajñā وupāya.
 - اختلاف التفسير بين التقليد (Sakya) و (Gelug) — هل الطريق يمضي عبر المعرفة (gnosis) أو عبر التعاطف (karuṇā)؟
 - لا يوجد نص تأسيسي موحّد للـVajrayāna، بل تجمع ضخم من التانترات يصعب حصره.
+
+## المصادر
+
+- Snellgrove, David L. *Indo-Tibetan Buddhism: Indian Buddhists and Their Tibetan Successors*. Shambhala, 1987.
+- Samuel, Geoffrey. *Civilized Shamans: Buddhism in Tibetan Societies*. Smithsonian Institution Press, 1993.
+- Wayman, Alex. *The Buddhist Tantras: Light on Indo-Tibetan Esotericism*. Samuel Weiser, 1973.
+- Dalton, Jacob P. *The Taming of the Demons: Violence and Liberation in Tibetan Buddhism*. Yale University Press, 2011.

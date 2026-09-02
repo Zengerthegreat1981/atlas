@@ -7,6 +7,10 @@ level: "متقدم"
 title: "ما وراء مبدأ اللذة"
 en: "Beyond the Pleasure Principle by Sigmund Freud"
 crumb: "التحليل النفسي ونظرية الغرائز ← أمهات الكتب ← ما وراء مبدأ اللذة"
+author: "سيغموند فرويد"
+author_slug: "thk-freud"
+publication_year: 1920
+original_language: "الألمانية"
 active_start: null
 active_end: "مستمر"
 edges:

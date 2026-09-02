@@ -10,19 +10,22 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "Kaupapa Māori Psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kaupapa-maori", target_type: "مدرسة"
 related:
+- id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
 - id: "thk-angusmacfarlane", title: "أنغوس ماكفارلن", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-gsmith", title: "غراهام سميث", type: "مفكر"
+- id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث", type: "مفكر"
+- id: "con-te-whare-tapa-wha", title: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", type: "مفهوم"
+- id: "con-decolonizing-pedagogy", title: "الْبِيدَاغُوجْيَا اللَّااسْتِعْمَارِيَّة: تَحْرِير الذَّات الْمُسْتَعْمَرَة", type: "مفهوم"
 gaps:
   - "العلاقة بين Kaupapa Māori والمناهج النسوية-ماورية (Feminist Kaupapa) لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: غراهام سميث (thk-gsmith)."
+  - "لم يُعثر بعد على اقتباس منسوب موثّق للمفهوم."
 ---
 
 # كاوبابا ماوري (Kaupapa Māori)
 
-مفهوم محوري في علم النفس الماوروري، يعني "المقاربة الماورورية" أو "الفلسفة الماورورية"، ويشير إلى **منهج أصلي للتفكير والممارسة** يقوم على القيم الماورورية التقليدية.
+مفهوم محوري في علم النفس الماوروري، يعني "المقاربة الماورورية" أو "الفلسفة الماورورية"، ويشير إلى **منهج أصلي للتفكير والممارسة** يقوم على القيم الماورورية التقليدية، وهو ركيزة مدرسة Kaupapa Māori (sch-kaupapa-maori) التي يشترك في تأسيسها وتطويرها أنغوس ماكفارلن (thk-angusmacfarlane) وغراهام سميث (thk-gsmith)، وترتبط بها انتقادات ليندا توهيواي سميث (thk-lindatuhiwai) لنموذج "الثقافة المُنقّبة".
 
 ## التعريف
 
@@ -44,11 +47,11 @@ gaps:
 
 ## في الصحة النفسية
 
-- **Te Whare Tapa Whā** (نموذج دوري): الإطار الصحي الماوروري رباعي الأبعاد.
+- **Te Whare Tapa Whā** (نموذج دوري) (con-te-whare-tapa-wha): الإطار الصحي الماوروري رباعي الأبعاد.
 - **Whānau Ora**: مقاربة لصحة الأسرة الممتدة.
 - **Mana Tāne / Mana Wāhine**: قوى الذكورة والأنوثة.
 
 ## الجدل
 
-- **نقد "الثقافة المُنقّبة" (Salvage Paradigm)**: منظّرون معاصرون (Tuhiwai Smith في *Decolonizing Methodologies*) ينتقدون المقاربات التي تختزل الماوروري في "تراث منقرض يجب إنقاذه"، ويطالبون بسيادة كاملة.
+- **نقد "الثقافة المُنقّبة" (Salvage Paradigm)**: منظّرون معاصرون (Tuhiwai Smith في *Decolonizing Methodologies*) ينتقدون المقاربات التي تختزل الماوروري في "تراث منقرض يجب إنقاذه"، ويطالبون بسيادة كاملة، وهو نقد يلتقي مع بيداغوجيا نزع الاستعمار (con-decolonizing-pedagogy).
 - **"Critical Kaupapa Māori"**: جيل أحدث (G. Smith، M. Webber) يطرح مقاربة نقدية تربط التحرر الماوروري بحركات تحرر أخرى.

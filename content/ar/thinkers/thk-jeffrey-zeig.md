@@ -13,21 +13,21 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التنويم الإريكسوني", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ericksonian-hypnosis", target_type: "مدرسة"
 related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "con-utilization-principle", title: "مبدأ الاستفادة", type: "مفهوم"
 - id: "thk-erickson-erl", title: "إرنست لورنس روسي", type: "مفكر"
-- id: "thk-michael-yapko-jr", title: "دانيال بيت", type: "مفكر"
+- id: "thk-michael-yapko-jr", title: "مايكل يابكو", type: "مفكر"
 - id: "thk-stephen-lankton", title: "ستيفن لانكتون", type: "مفكر"
-- id: "thk-william-hudson", title: "وليام هدسون", type: "مفكر"
+- id: "thk-bill-ohanlon", title: "وليام هدسون أوهانلون", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست لورنس روسي (thk-erickson-erl)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال بيت (thk-michael-yapko-jr)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن لانكتون (thk-stephen-lankton)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وليام هدسون (thk-william-hudson)."
+  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وليام هدسون (thk-bill-ohanlon)."
 ---
 
 # جيفري زايغ

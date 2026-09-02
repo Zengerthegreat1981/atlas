@@ -9,8 +9,12 @@ crumb: "التحليل النفسي ← الأعمال ← طفولة وجماع
 dates: "1950 · إريك إريكسون"
 language: "الإنجليزية"
 active_start: 1950
-active_end: 1950
+active_end: 1994
 part: "psychology"
+author: "إريك إريكسون"
+author_slug: "thk-erikson"
+publication_year: 1950
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-erikson", target_type: "مفكر"

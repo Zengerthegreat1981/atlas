@@ -12,6 +12,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2009
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-speculative-realism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-speculative-realism", target_type: "مدرسة"
@@ -25,7 +26,7 @@ related:
 - id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
 gaps:
   - "OOO ليست 'مدرسة' بمعنى صارم، بل 'إطار' أنطولوجي مرتبط بشكل أساسي بـ گراهام هارمان."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "اقتباس عربي مباشر محقّق من 'The Quadruple Object' (2011) أو 'Immaterialism' (2016) غير متوفر للمراجعة هنا."
   - "العلاقة مع 'المادية الجديدة' (Karen Barad، Jane Bennett) و'الواقعية' (Ian Bogost) لم تُحلّل بدقة."
 ---
 
@@ -91,3 +92,10 @@ OOO ظهرت في **2009** مع كتاب گراهام هارمان *Prince of Ne
 - **مشكلة اللغة**: إذا كانت **الأشياء** مستقلة عن **اللغة**، فكيف نتحدّث عنها دون **اللغة** (نقد DeLanda، Bogost).
 - **صعوبة التطبيق العملي**: OOO «**تأمّلية**» أكثر من «**عملية**»، تُعاني في **السياق** التطبيقي (الطب، السياسة، التربية).
 - **اتهاك «**الإهمال البنيوي**»**: هل العلاقات **مجرّد** «**أشياء**» أم **أكثر** من ذلك؟
+
+## المصادر
+
+- Harman, Graham. *The Quadruple Object*. Zero Books, 2011.
+- Harman, Graham. *Object-Oriented Ontology: A New Theory of Everything*. Pelican Books, 2018.
+- Bryant, Levi, Nick Srnicek, and Graham Harman (eds.). *The Speculative Turn: Continental Materialism and Realism*. re.press, 2011.
+- Sparrow, Tom. *The End of Phenomenology: Metaphysics and the New Realism*. Edinburgh University Press, 2014.

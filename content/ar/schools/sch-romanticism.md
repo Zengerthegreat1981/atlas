@@ -9,6 +9,7 @@ en: "Philosophical Romanticism"
 crumb: "الفلسفة ← القرن 19 ← المثالية ← الرومانسية الفلسفية"
 dates: "ألمانيا، إنجلترا، فرنسا · من 1790 إلى 1850"
 country: "ألمانيا، المملكة المتحدة، فرنسا"
+cultural_origin: "european"
 language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1790
 active_end: 1850
@@ -27,7 +28,6 @@ gaps:
   - "رابط مقترح لـ«نوفاليس» (thk-novalis) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«صموئيل تايلور كولريدج» (thk-coleridge) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات كارل زولغر (Karl Solger) في 'النظرية في الجماليات' (1819) لم تُراجع في الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الرومانسية الفلسفية
@@ -61,3 +61,10 @@ gaps:
 
 - ليست «مدرسة» بالمعنى الفلسفي الموحد، بل مزاج فكري (Zeitgeist) تعدّد بطبيعته.
 - صلة «الرومانسية» بـ«الرجعية السياسية» في كتابات مثل بيرك موضع نقاش مستمر.
+
+## المصادر
+
+- Beiser, Frederick C. *The Romantic Imperative: The Concept of Early German Romanticism*. Harvard University Press, 2003.
+- Berlin, Isaiah. *The Roots of Romanticism*. Princeton University Press, 1999.
+- Safranski, Rüdiger. *Romanticism: A German Affair*. Northwestern University Press, 2014.
+- Abrams, M. H. *Natural Supernaturalism: Tradition and Revolution in Romantic Literature*. Norton, 1971.

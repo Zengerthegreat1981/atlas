@@ -9,10 +9,13 @@ en: "An Outline of a Theory of Civilization"
 crumb: "الفلسفة ← الآسيوية الحديثة ← الليبرالية اليابانية الحديثة ← مخطط نظرية الحضارة"
 dates: "1875 · فوكوزاوا يوكيتشي"
 language: "اليابانية"
+author: "فوكوزاوا يوكيتشي"
+author_slug: "thk-fukuzawa"
+publication_year: 1875
+original_language: "اليابانية"
 active_start: 1875
 active_end: 1875
 edges:
-- rel: "belongs_to", target: "الليبرالية اليابانية الحديثة (فترة ميجي)", target_type: "مدرسة"
 related:
 - id: "thk-fukuzawa", title: "فوكوزاوا يوكيتشي", type: "مفكر"
 gaps:

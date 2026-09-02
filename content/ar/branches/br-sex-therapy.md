@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1970
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
 related:
 - id: "thk-vjohnson", title: "فرجينيا جونسون", type: "مفكر"
 - id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"

@@ -28,7 +28,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: اللاذات (Anatta) (con-no-self)"
   - "سنة الميلاد غير مؤكدة من مصدر أولي متاح بعد (تقدَّر في الخمسينيات أو الستينيات)."
   - "أعماله الأكاديمية (NTU Singapore، HELP University Malaysia) تحتاج توثيقاً من موقع رسمي."
-  - "لا يوجد اقتباس مباشر موثوق في هذه المسودة."
+  - "لا مصدر موثّق لاقتباس منسوب له حرفياً، لذلك لم يُدرج قسم اقتباسات."
 ---
 
 # ميشيل كوي (م. ج. ت. كوي)
@@ -72,9 +72,3 @@ gaps:
 - Kwee, M. G. T., & Gergen, K. J. (Eds.). (2006). *Therapy as Social Construction*. SAGE.
 - Kwee, M. G. T. (2010). «Buddhism and the Positive Psychology of Martin Seligman». In *Constructing the Self in a Meditated World*. SAGE.
 - Kwee, M. G. T. (2012). «Where Buddhism and Positive Psychology Meet». In *The Oxford Handbook of Psychology and Spirituality*. Oxford.
-
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-buddhist-psychology** كمؤسِّس.
-- مرتبط بـ**sch-mindfulness-traditions** كإطار أوسع.
-- مرتبط بـ**thk-jkabat-zinn** (كابات-زين) و**thk-rmrkornfield** (جاك كورنفيلد) كحلقة وصل بين البوذية وعلم النفس.

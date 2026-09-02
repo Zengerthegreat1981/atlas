@@ -12,8 +12,8 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
-- rel: "evolved_from", target: "النسوية", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
@@ -61,3 +61,10 @@ gaps:
 
 - تواجه انتقادات بسبب التعميم النوعي.
 - تواجه انتقادات بسبب إهمال البُعد العرقي.
+
+## المصادر
+
+- Gilligan, Carol. *In a Different Voice: Psychological Theory and Women's Development*. Harvard University Press, 1982.
+- Noddings, Nel. *Caring: A Feminine Approach to Ethics and Moral Education*. University of California Press, 1984.
+- Held, Virginia. *The Ethics of Care: Personal, Political, and Global*. Oxford University Press, 2006.
+- Kittay, Eva Feder. *Love's Labor: Essays on Women, Equality, and Dependency*. Routledge, 1999.

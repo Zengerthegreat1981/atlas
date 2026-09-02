@@ -16,7 +16,7 @@ related:
 - id: "thk-bartlett", title: "فريدريك بارتليت", type: "مفكر"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
 - id: "con-schema", title: "المخطط المعرفي", type: "مفهوم"
-- id: "stu-bartlett-war-of-ghosts", title: "تجربة بارتليت لحرب الأشباح", type: "دراسة وبحث"
+- id: "stu-bartlett-war-of-ghosts", title: "تجارب بارتليت حول تذكر قصة 'حرب الأشباح' والذاكرة التخطيطية", type: "دراسة وبحث"
 gaps:
   - "التمييز بين المخططات (Schemata) والنماذج الذهنية (Mental Models, Johnson-Laird) يحتاج تحليلاً."
   - "تطبيقات نظرية المخططات في الذكاء الاصطناعي (Rumelhart 1980) لم تُمثَّل بعمق."
@@ -71,3 +71,10 @@ gaps:
 
 - **صعوبة التعريف الدقيق**: مفهوم "المخطط" مرن جداً.
 - **التفسير اللاحق**: يُفسِّر كل شيء بأثر رجعي، لكن قابلية الاختبار محدودة.
+
+## المصادر
+
+- Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
+- Piaget, J. (1936). *La Naissance de l'intelligence chez l'enfant*. Delachaux et Niestlé.
+- Neisser, U. (1967). *Cognitive Psychology*. Appleton-Century-Crofts.
+- Young, J.E., Klosko, J.S., & Weishaar, M.E. (2003). *Schema Therapy: A Practitioner's Guide*. Guilford Press.

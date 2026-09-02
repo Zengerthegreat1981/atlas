@@ -16,14 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-sikolohiyang-pilipino", target_type: "مدرسة"
 related:
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
-- id: "thk-alicorazon", title: "ألي كورازون", type: "مفكر"
-- id: "thk-eleanor-crisostomo", title: "إيلينور كريزوستومو", type: "مفكر"
-- id: "thk-jose-arsenio", title: "خوسيه أرسينيو", type: "مفكر"
-- id: "thk-ma-rosario-alfelor", title: "ماريا روساريو ألفيلور", type: "مفكر"
-- id: "thk-roland-tolentino", title: "رولاند تولنتينو", type: "مفكر"
 gaps:
   - "التفاصيل الكاملة لمسيرته في جامعة الفلبين لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ألي كورازون (thk-alicorazon)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيلينور كريزوستومو (thk-eleanor-crisostomo)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: خوسيه أرسينيو (thk-jose-arsenio)."
@@ -66,3 +60,8 @@ gaps:
 - *Indigenous Psychology and National Development* (1989) — مقال مؤسّس.
 - *Filipino Psychology: Theory, Method, and Application* (1994) — كتابه الرئيسي.
 - تأسيس سلسلة *Panlipunang-Sikolohiya* (علم النفس الاجتماعي الفلبيني).
+
+## المصادر
+
+- Enriquez, V. G. (1978). *Sikolohiyang Pilipino: Teorya, Metodolohiya, at Aplikasyon*. Philippine Psychology Research House.
+- Pe-Pua, R., & Protacio-Marcelino, E. (2000). Sikolohiyang Pilipino (Filipino Psychology): A legacy of Virgilio G. Enriquez. *Asian Journal of Social Psychology*, 3(1), 49–71.

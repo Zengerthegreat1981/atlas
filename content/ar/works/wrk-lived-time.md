@@ -11,13 +11,17 @@ dates: "1933 · مينكوفسكي"
 active_start: 1933
 active_end: 1933
 part: "philosophy"
+author: "مينكوفسكي"
+author_slug: "thk-minkowski"
+publication_year: 1933
+original_language: "الفرنسية"
 edges:
-- rel: "written_by", target: "مينكوفسكي", target_type: "مفكر"
+- rel: "written_by", target: "thk-minkowski", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
-- id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

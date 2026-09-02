@@ -9,6 +9,10 @@ en: "Cognitive Therapy of Depression by Aaron T. Beck et al."
 crumb: "العلاج المعرفي السلوكي ← أمهات الأعمال ← العلاج المعرفي للاكتئاب"
 active_start: null
 active_end: "مستمر"
+author: "آرون تيموثي بيك"
+author_slug: "thk-beck"
+publication_year: 1979
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:

@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "السيبرنتيكا النفسية (Psycho-Cybernetics)", target_type: "مدرسة"
+edges: []
 related:
 - id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
 - id: "br-sport-psychology", title: "علم نفس الرياضة", type: "تيار"

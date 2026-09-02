@@ -12,14 +12,11 @@ language: "إنجليزية"
 active_start: 1970
 active_end: 2018
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "البحث الظاهراتي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
-- id: "thk-dmercieca", title: "إيفا ميرسيكا", type: "مفكر"
 - id: "thk-dwchen", title: "دونغ-وي تشن", type: "مفكر"
 - id: "thk-fherzog", title: "ف. هرتسوغ", type: "مفكر"
-- id: "thk-mcieslak", title: "ماريك تشيسلاك", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Rice وBaylor لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق متاح."

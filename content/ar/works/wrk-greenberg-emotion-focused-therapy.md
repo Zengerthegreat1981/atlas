@@ -9,6 +9,10 @@ en: "Emotion-Focused Therapy: Coaching Clients to Work Through Feelings by Lesli
 crumb: "كتب العلاج النفسي الموجه بالانفعال ← أمهات الأعمال ← العلاج الموجه بالانفعال"
 active_start: null
 active_end: "مستمر"
+author: "ليزلي غرينبرغ"
+author_slug: "thk-lgreenberg"
+publication_year: 2002
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-eft", target_type: "مدرسة"
 related:

@@ -24,10 +24,9 @@ related:
 - id: "thk-klima", title: "لاديسلاف كليما", type: "مفكر"
 - id: "sch-pessimism", title: "التشاؤمية الفلسفية", type: "مدرسة"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
-- id: "thk-mikel-dufrenne", title: "ميكائيل دوفرين", type: "مفكر"
+- id: "thk-mikel-dufrenne", title: "ميكائيل دوفرين (ظاهراتي الخبرة الجمالية)", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "تأثير مفهوم 'إرادة الحياة العمياء' على اللاشعور الفرويدي والقلق الوجودي يستحق إدراجاً مفاهيمياً."
+  - "تأثير مفهوم 'إرادة الحياة العمياء' على اللاشعور الفرويدي والقلق الوجودي يستحق إدراجاً مفاهيمياً منفصلاً."
 ---
 
 # أرتور شوبنهاور
@@ -52,3 +51,9 @@ gaps:
 ## اقتباسات مختارة
 
 «الحياة تتأرجح كالبندول بين الألم والملل» — باريرغا وباراليبومينا (Parerga und Paralipomena)، 1851
+
+## المصادر
+
+- Schopenhauer, A. (1818/1844). *Die Welt als Wille und Vorstellung* [The World as Will and Representation]. F.A. Brockhaus.
+- Schopenhauer, A. (1851). *Parerga und Paralipomena*. A.W. Hayn.
+- Cartwright, D.E. (2010). *Schopenhauer: A Biography*. Cambridge University Press.

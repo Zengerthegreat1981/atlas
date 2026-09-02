@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "فرنسا، هولندا، ألمانيا · من القرن 17 م إلى القرن 18 م"
 country: "فرنسا، هولندا، ألمانيا"
 language: "الفرنسية، اللاتينية، الهولندية، الألمانية"
+cultural_origin: "european"
 active_start: 1630
 active_end: 1780
 edges:
@@ -23,7 +24,7 @@ related:
 gaps:
   - "التمييز بين 'العقلانية القارية' كتيار تاريخي وكتصنيف أكاديمي حديث (أنشأه هيغل ثم أكده راسل) محلّ جدل."
   - "نصوص ديكارت وسبينوزا ولايبنتز بالفرنسية واللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Éthique' لسبينوزا."
+  - "الاقتباسات المباشرة من 'Éthique' لسبينوزا تحتاج مراجعة إضافية من نسخة موثوقة."
 ---
 
 # العقلانية القارية (كمظلة)
@@ -125,6 +126,14 @@ gaps:
 - **في اللاهوت**: «**لاهوت التحرير**» (Theologia Liberationis) و«**لاهوت العملية**» (Process Theology) استلهمت «**العقلانية**» (Rationalismus).
 - **في القرن 20 م**: «**البنيوية**» (Structuralismus) و«**ما بعد البنيوية**» (Post-Structuralismus) و«**التفكيكية**» (Derrida) **ردّوا** على «**العقلانية**» (Rationalismus) لكن «**حَفِظوا**» (Conservaverunt) «**المنهج**» (Methodus).
 - **في الفلسفة التحليلية**: «**المنطق**» (Logica) و«**الرياضيات**» (Mathematica) «**نموذج**» (Exemplar) «**تحليلي**» (Analyticus). **فريجه** (Frege) و«**راسل**» (Russell) «**مستلهمان**» (Inspirati) من «**العقلانية**» (Rationalismus).
+
+## المصادر
+
+- Descartes, René. *Discours de la Méthode*. 1637.
+- Descartes, René. *Meditationes de Prima Philosophia*. 1641.
+- Spinoza, Baruch. *Ethica*. 1677 (posthumous).
+- Leibniz, Gottfried Wilhelm. *Monadologie*. 1714 (posthumous).
+- Cottingham, John. *The Rationalists*. Oxford University Press, 1988.
 
 ## المأزق الفلسفي
 

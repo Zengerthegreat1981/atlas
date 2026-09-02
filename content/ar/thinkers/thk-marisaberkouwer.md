@@ -2,45 +2,47 @@
 slug: "thk-marisaberkouwer"
 id: "THK-2703"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "ماريسا بيركوور"
 en: "Marisa Berkouwer"
-crumb: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy) ← تطوير ← ماريسا بيركوور"
-dates: "هولندا/كندا · [DRAFT-UNKNOWN]"
+crumb: "الأطلس ← thinkers ← ماريسا بيركوور"
+dates: "هولندا/كندا · [غير مؤكد]"
 country: "كندا"
 language: "الإنجليزية"
-active_start: 2010
-active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy)", target_type: "مدرسة"
-related:
-- id: "thk-kelleycolleen", title: "كولين كيلي", type: "مفكر"
-- id: "thk-minopaulin", title: "مينو بولين", type: "مفكر"
+active_start: null
+active_end: "مستمر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-marisaberkouwer.md.archived.2026-08-26"
 ---
 
 # ماريسا بيركوور
 
-معالجة نفسية هولندية-كندية، من الباحثين المتخصّصين في **العلاج الحسي-الحركي** وتطبيقاته على الأطفال والمراهقين.
+(Marisa Berkouwer)
 
-## ما أعطته
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-marisaberkouwer.md.archived.2026-08-26`
 
-- مساهمات في **تكييف العلاج الحسي-الحركي** مع الفئات العمرية الصغيرة، مع مراعاة طبيعة النمو الجسدي والمعرفي للطفل.
-- فصول في كتب عن **«الجسد في علاج صدمة الطفولة»** وأثر التعرّض المبكّر على الجهاز العصبي.
-- مساهمات في **التدريب المهني** للعلاج الحسي-الحركي في كندا وأوروبا.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## موقعها من التيار
+## ملخص
 
-تقف بيركوور عند **تلاقي Sensorimotor** مع **علم نفس النموّ** (Developmental Psychology)، وهو ما يجعل النموذج قابلاً للتطبيق في مراحل عمرية مبكرة.
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## أهم أعمالها
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-- فصول في كتب جماعية عن Sensorimotor Psychotherapy وعلاج صدمة الطفولة.
+## للمتابعة
 
-## اقتباسات مختارة
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-marisaberkouwer.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-marisaberkouwer.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

@@ -12,8 +12,9 @@ country: "الهند (ماهاراشترا)"
 language: "الهندية، المراثية، الإنجليزية"
 active_start: 1916
 active_end: 1956
+cultural_origin: "indian"
 edges:
-- rel: "evolved_from", target: "البوذية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
@@ -42,7 +43,7 @@ gaps:
 - **بي. ر. أمبيدكار (1891-1956)**: من الداليت (الطبقة غير القابلة للمس).
 - **ناندامور تيلوك (Nandamur Tilokchand)**: منظِّر ملهم.
 - **يوسف مهتر (Yashwant Ambedkar)**: ابنه، معلق.
-- **Kancha Ilaiah (كانشا إيلاياه، 1956-)**: «Why I Am Not a Hindu» (1996).
+- **Kancha Ilaiah (كانشا إيلاياه، وُلد 1956)**: صاحب الإرث الفكري اللاحق «Why I Am Not a Hindu».
 - **Gail Omvedt (غيل أومفيد)**: فيلسوفة وناشطة.
 
 ## الأثر
@@ -55,3 +56,10 @@ gaps:
 
 - تواجه انتقادات بسبب التركيز على الطبقية فقط.
 - تواجه انتقادات بسبب التحول إلى البوذية.
+
+## المصادر
+
+- B.R. Ambedkar, *Annihilation of Caste* (1936).
+- B.R. Ambedkar, *The Buddha and His Dhamma* (1957).
+- Gail Omvedt, *Ambedkar: Towards an Enlightened India* (Penguin, 2004).
+- Christophe Jaffrelot, *Dr Ambedkar and Untouchability: Analysing and Fighting Caste* (Columbia University Press, 2005).

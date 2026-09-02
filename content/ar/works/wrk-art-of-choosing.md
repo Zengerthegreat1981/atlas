@@ -10,16 +10,18 @@ en: "The Art of Choosing"
 crumb: "علم النفس الاجتماعي واتخاذ القرار ← الأعمال ← فن الاختيار"
 dates: "2010 · شينا إينغار"
 language: "الإنجليزية"
+author: "شينا إينغار"
+author_slug: "thk-sheena-iyengar"
+publication_year: 2010
+original_language: "الإنجليزية"
 active_start: 2010
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي واتخاذ القرار", target_type: "مدرسة"
 - rel: "written_by", target: "thk-sheena-iyengar", target_type: "مفكر"
 related:
 - id: "thk-sheena-iyengar", title: "شينا إينغار", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # فن الاختيار: سيكولوجيا القرارات اليومية والمصيرية
@@ -33,7 +35,3 @@ gaps:
 ## تطوير مهارات التصفية والاختيار الحكيم
 
 استراتيجيات الحد من عبء القرار وتصنيف الأولويات.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

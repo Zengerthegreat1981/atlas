@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي (لوين)", type: "تيار"
 - id: "tec-focusing-oriented", title: "العلاج الموجه بالتركيز والإحساس المعيش", type: "تقنية/تدخل علاجي"
 - id: "thk-mtotton", title: "مارك توتون", type: "مفكر"
 - id: "thk-pgodfrey", title: "بيتر غودفري", type: "مفكر"

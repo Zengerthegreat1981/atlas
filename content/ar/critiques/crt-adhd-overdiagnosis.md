@@ -13,12 +13,12 @@ edges:
 - rel: "relates_to", target: "br-antipsychiatry", target_type: "تيار"
 related:
 - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة (ADHD)", type: "اضطراب/حالة إكلينيكية"
-- id: "dbt-adhd-overdiagnosis-overmedication", title: "جدل الإفراط في تشخيص وعلاج ADHD دوائياً", type: "جدل"
+- id: "dbt-adhd-overdiagnosis-overmedication", title: "جدل الإفراط في تشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه دوائياً", type: "جدل"
 - id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي", type: "نقد خارجي موثَّق"
-- id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لصناعة العافية", type: "نقد خارجي موثَّق"
+- id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
 - id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي", type: "نقد خارجي موثَّق"
 - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
-- id: "dbt-categorical-vs-dimensional-diagnosis", title: "جدل التصنيف الفئوي مقابل الأبعادي", type: "جدل"
+- id: "dbt-categorical-vs-dimensional-diagnosis", title: "التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية", type: "جدل"
 - id: "dbt-medication-children", title: "جِدَل دَوَاء الاضْطِرَابات النَّفْسِيّة لِلْأَطْفَال", type: "جدل"
 gaps:
   - "Frances (2013) *Saving Normal*، Timimi (2005) *Naughty Boys*، Conrad & Bergey (2014)، Polanczyk et al. (2014) — لم تُراجع من المصدر الأولي في هذه المسودة."

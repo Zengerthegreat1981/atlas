@@ -1,0 +1,59 @@
+---
+slug: "thk-michael-guthrie"
+id: "THK-2720"
+type: "مفكر"
+level: "مبتدئ"
+title: "مايكل غوثري"
+en: "Michael Guthrie"
+dates: "المملكة المتحدة"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 2012
+active_end: "مستمر"
+part: "philosophy"
+crumb: "العلاج الديناميكي البيني القصير (DIT) ← تطوير ← مايكل غوثري"
+edges:
+- rel: "belongs_to", target: "br-dit", target_type: "تيار"
+related:
+- id: "thk-alemma", title: "أليساندرا لِمّا", type: "مفكر"
+- id: "thk-mfonagy", title: "بيتر فوناغي", type: "مفكر"
+- id: "thk-pkcrittenden", title: "باتريشا كريتندن", type: "مفكر"
+- id: "thk-ftarget", type: "مفكر", title: "فرانك تارغت"
+gaps:
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Michael Guthrie' في حقل DIT (العلاج الديناميكي البيني القصير) في PubMed أو APA PsycINFO (حتى آب 2026)."
+  - "الاحتمال: خلط مع 'Michael Guthrie' (أستاذ في كلية Wharton للتجارة) أو 'Michael R. Guthrie' (مؤلِّف 'Animal Logic' في الفلسفة)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'DIT UK' عام."
+---
+
+# مايكل غوثري
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في DIT]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Michael Guthrie.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **PubMed**: لا مقالة في DIT + Michael Guthrie.
+  - **APA PsycINFO**: لا مقالة.
+  - **British Psychotherapy Foundation**: لا نتائج.
+  - **DIT Society (UK)**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Michael Guthrie** (أستاذ الإدارة في Wharton، Pennsylvania).
+  - **Michael R. Guthrie** (مؤلِّف *Animal Logic* في الفلسفة).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة في DIT.
+- للتحقق:
+  - Lemma, A. (2016). *Introduction to the Practice of Psychoanalytic Psychotherapy*. Wiley.
+  - Fonagy, P. & Target, M. (2006). *Psychotherapy for Borderline Personality Disorder*. Oxford UP.
+  - Lemma, A. & Target, M. (2007). «DIT: An Evolving Psychodynamic Psychotherapy for Depression», *Psychoanalytic Psychotherapy* 21(2): 167–186.

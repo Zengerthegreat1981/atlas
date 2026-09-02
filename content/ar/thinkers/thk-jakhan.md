@@ -13,16 +13,16 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "علم النفس المتمركز حول أفريقيا ← المؤسسون ← ويد نوبلز"
 edges:
-- rel: "belongs_to", target: "علم النفس المتمركز حول أفريقيا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
 - id: "thk-kkambon", title: "كوبِي كامبون", type: "مفكر"
 - id: "thk-lmyers", title: "ليندا جيمس مايرز", type: "مفكر"
-- id: "thk-rwilliams", title: "روبرت ويليامز", type: "مفكر"
-- id: "thk-wdowling", title: "نعيم أكبر", type: "مفكر"
+- id: "thk-rlwilliams", title: "روبرت لي ويليامز الثاني", type: "مفكر"
+- id: "thk-nakbar", title: "ناعيم أكبر", type: "مفكر"
 gaps:
   - "سنة الميلاد لم تُراجع من مصدر أولي."
   - "كان هذا الملف يحمل اسم «نوبلز إيفانز-هيل / Nobles Evans-Hill» — وهو تحريف لاسم **ويد نوبلز**، مؤسّس المنحى الأفريقي المتمركز وصاحب النصّ المذكور فيه (1972). صُحِّح الاسم، ويبقى تعديل الـslug (thk-jakhan) قراراً تحريرياً لأنه يكسر الروابط."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "استُبدل رابط 'روبرت ويليامز' الخاطئ (كان يشير خطأً لـthk-rwilliams، ملف يوثّق شخصاً مختلفاً تماماً) بالرابط الصحيح thk-rlwilliams (روبرت لي ويليامز الثاني)."
 ---
 
 # ويد نوبلز
@@ -46,6 +46,8 @@ gaps:
 - *Africanity and the Black Family: The Development of a Theoretical Model* (1985).
 - *Seeking the Sakhu: Foundational Writings for an African Psychology* (2006).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Nobles, W. W. (1972). "African Philosophy: Foundations for Black Psychology." In R. L. Jones (Ed.), *Black Psychology*. Harper & Row.
+- Nobles, W. W. (1985). *Africanity and the Black Family: The Development of a Theoretical Model*. Black Family Institute.
+- Nobles, W. W. (2006). *Seeking the Sakhu: Foundational Writings for an African Psychology*. Third World Press.

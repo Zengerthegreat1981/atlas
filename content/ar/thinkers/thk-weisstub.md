@@ -13,13 +13,13 @@ active_start: 1990
 active_end: 2015
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس التحليلي اليونغي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-shalit", title: "إيريل شاليت", type: "مفكر"
 - id: "thk-abramovitch", title: "هنري أبراموفيتش", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق لم يُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لإيلي وايستوب."
 ---
 
 # إيلي وايستوب
@@ -42,6 +42,8 @@ gaps:
 - "Self as the Feminine Principle", *Journal of Analytical Psychology* (1997).
 - "Questions to Jung on 'Answer to Job'", *Journal of Analytical Psychology* (1993).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Journal of Analytical Psychology، أرشيف مقالات إيلي وايستوب.
+- Israel Society of Analytical Psychology (ISAP)، سجل الرؤساء السابقين.
+- International Association for Analytical Psychology (IAAP)، سجل نواب الرئيس.

@@ -14,10 +14,9 @@ edges:
 related:
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-- id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
+- id: "con-operant-conditioning", title: "الإشتراط الإجرائي (الإشراط السكينري)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التفاصيل الدقيقة للأنواع الفرعية: إشتراط من الدرجة الثانية، إشتراط متأخر، إشتراط مسبق (Higher-Order, Trace, Delay Conditioning) — موضع بحث."
   - "الترجمة العربية المتعددة لمصطلح Conditioning (إشراط، إشتراط، تكييف) تحتاج توحيداً."
 ---

@@ -8,7 +8,7 @@ en: "Franz Brentano"
 crumb: "المدرسة الوجودية ← الناس ← فرانتس برنتانو"
 dates: "ألمانيا/النمسا · 1838–1917"
 active_start: 1874
-active_end: 1874
+active_end: 1917
 country: "ألمانيا/النمسا"
 language: "الألمانية"
 part: "psychology"
@@ -16,20 +16,15 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "wrk-beitrage-sinneswahrnehmung", title: "أبحاث في نظرية الإدراك الحسي", type: "عمل / كتاب"
-- id: "wrk-elemente-psychophysik", title: "عناصر السيكوفيزياء", type: "عمل / كتاب"
-- id: "wrk-grundzuge-physiologische-psychologie", title: "خطوط علم النفس الفسيولوجي", type: "عمل / كتاب"
-- id: "wrk-handbuch-physiologische-optik", title: "كتاب الفسيولوجيا البصرية", type: "عمل / كتاب"
-- id: "wrk-medicinische-psychologie", title: "علم النفس الطبي", type: "عمل / كتاب"
 - id: "wrk-psychologie-empirischen-standpunkt", title: "علم النفس من المنظور التجريبي", type: "عمل / كتاب"
 - id: "con-conscious-acts", title: "الأفعال الواعية عند برنتانو", type: "مفهوم"
-- id: "con-unconscious-inference", title: "الاستدلال اللاواعي (Unconscious Inference) عند هلمهولتز", type: "مفهوم"
 - id: "axm-intentionality", title: "القصدية (Intentionalität)", type: "بديهية/مبدأ تأسيسي"
 - id: "con-intentionality", title: "القصدية (Intentionalität)", type: "مفهوم"
 gaps:
   - "لم يُراجع بعد من نسخة أصلية مباشرة (علم النفس من منظور تجريبي، 1874)."
   - "أُضيف بعد ملاحظة المستخدم إن اسمه مذكور في «خط تطوّر المدرسة» من غير رابط فعلي."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد."
+  - "active_start صُحِّح من 1874/1874 (قيمة متطابقة بلا معنى) إلى 1874–1917 (من نشر عمله الرئيسي حتى وفاته). كما أُزيلت روابط related كانت تشير خطأً إلى أعمال فيشنر وفونت وهلمهولتز ولوتسه (Beiträge zur Sinneswahrnehmung، Elemente der Psychophysik، Grundzüge der physiologischen Psychologie، Handbuch der physiologischen Optik، medicinische Psychologie) وهي لا صلة لها ببرنتانو."
 ---
 
 # فرانتس برنتانو
@@ -38,7 +33,7 @@ gaps:
 
 ## ما أعطاه
 
-أعاد إحياء مفهوم القصدية من الفلسفة المدرسية: كل فعل نفسي (تفكير، إدراك، رغبة) موجَّه دائماً نحو موضوع ما — «الوعي هو دائماً وعي بشيء». هذا المبدأ البسيط ظاهرياً هو النقطة التي انطلقت منها الفينومينولوجيا الهوسرلية بالكامل، وعبرها كل خط الفينومينولوجيا الوجودية اللاحق.
+أعاد إحياء مفهوم القصدية من الفلسفة المدرسية: كل فعل نفسي (تفكير، إدراك، رغبة) موجَّه دائماً نحو موضوع ما — «الوعي هو دائماً وعي بشيء». هذا المبدأ البسيط ظاهرياً هو النقطة التي انطلقت منها الفينومينولوجيا الهوسرلية بالكامل، وعبرها كل خط الفينومينولوجيا الوجودية اللاحق. صاغ هذا الطرح في عمله الرئيسي *علم النفس من المنظور التجريبي* (Psychologie vom empirischen Standpunkte, 1874).
 
 ## موقعه من التيار
 

@@ -13,12 +13,11 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "تيار"
 related:
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على سنة ميلاد ستيفن ك. ليفين في مصدر أولي أو ثانوي متاح."
 ---
 
 # ستيفن ك. ليفين
@@ -44,3 +43,9 @@ gaps:
 
 ## القيد
 - **مفهوم "Poiesis"** يبقى فلسفياً أكثر منه علاجياً، ويحتاج ترجمة إلى بروتوكولات سريرية.
+
+## المصادر
+
+- Levine, S.K. & Levine, E.G. (eds.) (1999). *Foundations of Expressive Arts Therapy: Theoretical and Clinical Perspectives*. Jessica Kingsley.
+- Knill, P.J., Levine, E.G. & Levine, S.K. (2005). *Principles and Practice of Expressive Arts Therapy: Toward a Therapeutic Aesthetics*. Jessica Kingsley.
+- European Graduate School (EGS) — السجل الأكاديمي لبرنامج الفنون التعبيرية الذي شارك في تأسيسه.

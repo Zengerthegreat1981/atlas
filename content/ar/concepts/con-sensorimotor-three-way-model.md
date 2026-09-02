@@ -25,6 +25,7 @@ related:
 - id: "con-three-way-model-sensorimotor", title: "النَّمُوذَج الثُّلاثِيّ لِـ Sensorimotor: اِنْتِبَاه، تَأْثِير، فِكْر", type: "مفهوم"
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 - id: "br-sensorimotor-trauma-applications", title: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", type: "تيار"
+- id: "wrk-ogden-trauma-and-the-body", title: "كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006)", type: "عمل"
 gaps:
   - "النموذج الثلاثي صاغته Ogden في *Trauma and the Body* (2006)؛ التطويرات اللاحقة في *Sensorimotor Psychotherapy* (2015) موثَّقة لكن تحتاج مراجعة."
   - "الأساس التجريبي للنموذج في طور البناء (RCTs محدودة)."
@@ -114,8 +115,3 @@ gaps:
 - Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. Norton.
 - Ogden, P., & Fisher, J. (2015). *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment*. Norton.
 
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-sensorimotor-psychotherapy** كنموذج مؤسِّس.
-- مرتبط بـ**sch-somatic-experiencing** (SE) كحقل أب.
-- مرتبط بـ**thk-pogden** (بات أوغدن) كمؤسِّسة.

@@ -13,7 +13,7 @@ language: "الإنجليزية واللاتينية"
 active_start: 1618
 active_end: 1679
 edges:
-- rel: "belongs_to", target: "الفلسفة الحديثة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-contract", target_type: "مدرسة"
 related:
 - id: "thk-machiavelli", title: "نيكولو مكيافيلي", type: "مفكر"
 - id: "met-mind-as-machine-clock", title: "العقل كَآلَة: استعارة الفَلْسَفة المَيكانيكيَّة", type: "استعارة/مجاز مؤسِّس"
@@ -21,8 +21,7 @@ related:
 - id: "exp-hobbes-english-civil-war-fear", title: "ولادة هوبز مع الخوف وهروبه من الحرب الأهلية وتأليف ليفياثان", type: "خبرة معيشة"
 - id: "que-is-altruism-genuinely-possible", title: "هل الإيثار الخالص ممكن في الطبيعة البشرية أم كل تضحية تخفي مصلحة ذاتية؟", type: "سؤال توليدي"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجع بعد الترجمات العربية النقدية المعتمدة لأعماله (اللفياثان، في المواطن) بأسماء مترجميها وسنوات صدورها."
 ---
 
 # توماس هوبز

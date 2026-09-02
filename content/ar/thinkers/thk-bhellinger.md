@@ -12,16 +12,14 @@ language: "الألمانية"
 active_start: 1980
 active_end: 2019
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "تشكيلات الأسرة (Family Constellations)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-hbeaumont", title: "هانتر بومون", type: "مفكر"
 - id: "thk-jschneider", title: "ياكوب شنايدر", type: "مفكر"
-- id: "thk-jjoyce", title: "مارغريت بِي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بِي (thk-jjoyce)."
+  - "رابط 'مارغريت بِي' (thk-jjoyce) أُزيل نهائياً من هذا الملف — الشخصية محجورة في quarantine-spark.md بوصفها غير موثقة وslug-ها مخصص أصلاً لجيمس جويس."
 ---
 
 # بيرت هلنغر

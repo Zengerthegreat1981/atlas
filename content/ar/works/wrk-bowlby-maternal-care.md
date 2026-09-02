@@ -8,12 +8,16 @@ en: "Maternal Care and Mental Health"
 crumb: "التحليل النفسي ← الأعمال ← الرعاية الأمومية والصحة النفسية"
 dates: "1951 · جون باولبي"
 language: "الإنجليزية"
+author: "جون بولبي"
+author_slug: "thk-bowlby"
+publication_year: 1951
+original_language: "الإنجليزية"
 active_start: 1951
-active_end: 1951
+active_end: 1990
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "authored_by", target: "جون باولبي", target_type: "مفكر"
+- rel: "authored_by", target: "thk-bowlby", target_type: "مفكر"
 related:
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "wrk-attachment-loss-volume1", title: "التعلق (المجلد الأول، 1969)", type: "عمل / كتاب"

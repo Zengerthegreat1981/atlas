@@ -12,8 +12,7 @@ country: "اليونان القديمة / صقلية"
 language: "الإغريقية القديمة"
 active_start: -455
 active_end: -434
-edges:
-- rel: "belongs_to", target: "sch-eleatic", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-parmenides", title: "بارمنيدس", type: "مفكر"
 gaps:

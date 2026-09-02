@@ -1,0 +1,62 @@
+---
+slug: "thk-rlina"
+id: "THK-1827"
+type: "مفكر"
+level: "مبتدئ"
+title: "ريك لينا"
+en: "Rik Lina"
+dates: "هولندا"
+country: "هولندا"
+language: "الهولندية/الإنجليزية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "مدرسة التحليل النفسي ← الناس ← ريك لينا"
+edges:
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
+related:
+- id: "thk-wgiegerich", title: "وولفغانغ غيغيريش", type: "مفكر"
+- id: "thk-cgj", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-pdesmit", type: "مفكر", title: "P. de Smit (لاهاي)"
+- id: "thk-jjuhan", type: "مفكر", title: "جون جوهان"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Rik Lina' في IAAP (International Association for Analytical Psychology)."
+  - "لا مقالة منشورة في *Journal of Analytical Psychology* (JAP) بهذا الاسم."
+  - "لا مقالة في *Spring Journal* بهذا الاسم."
+  - "الاسم قد يكون مقلوباً (Lina Rik؟) أو ناتجاً عن خطأ إملائي."
+  - "سيرة في زيورخ وأمستردام: مجهولة في المصادر المتاحة."
+  - "الاحتمال: خُلط مع معالج يونغي آخر في هولندا (مثل Henk Vugteveen أو Tomi Gomperts)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'هولندا اليونغية' عام."
+---
+
+# ريك لينا
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في فهرس IAAP أو مجلة JAP]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Rik Lina.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IAAP** (الرابطة الدولية للتحليل النفسي): لا توجد سيرة بهذا الاسم في سجلها.
+  - **JAP** (*Journal of Analytical Psychology*): لا مقالة منشورة بهذا الاسم.
+  - **Spring Journal** (أهم مجلة يونغية مستقلة): لا مقالة منشورة.
+  - **Google Scholar**: لا نتائج في التحليل النفسي.
+  - **PsycINFO**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **خطأ إملائي** في الاسم.
+- احتمال **الخلط** مع «P. de Smit» أو «Jan Juhan» أو «Wolfgang Giegerich» نفسه.
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تحديد هوية صحيحة.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم في التحليل النفسي.
+- للتحقق:
+  - Giegerich, W. (1998). *Soul Violence*. Routledge.
+  - JAP: https://onlinelibrary.wiley.com/journal/17455112
+  - IAAP: https://iaap.org/

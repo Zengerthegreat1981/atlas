@@ -4,20 +4,20 @@ id: "THK-2687"
 type: "مفكر"
 level: "متوسط"
 title: "لاري نيمز"
-en: "Larry Nims"
+en: "Larry P. Nims"
 crumb: "تقنيات الحرية الانفعالية (EFT) ← تطوير ← لاري نيمز"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · 1934–2024"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
-active_end: "مستمر"
+active_end: 2024
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "تقنيات الحرية الانفعالية (EFT)", target_type: "مدرسة"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تحقّق: لاري نيمز (Larry Phillip Nims) وُلد 11 سبتمبر 1934 وتُوفي 20 ديسمبر 2024 عن عمر 90 عاماً (مصدر: صفحة تأبين رسمية، virtualmemorialgatherings.com)، فعُدِّلت الحقول dates وactive_end بناءً عليه."
 ---
 
 # لاري نيمز

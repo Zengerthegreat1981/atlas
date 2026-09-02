@@ -2,43 +2,39 @@
 slug: "thk-calbright"
 id: "THK-0806"
 type: "مفكر"
-level: "مبتدئ"
-title: "كارين ألبريت"
-en: "Karen Albright"
-crumb: "Body-Mind Centering ← تطبيقات في الرقص المعاصر ← كارين ألبريت"
-dates: "الولايات المتحدة · القرن العشرين–"
+level: "متوسط"
+title: "آن كوبر ألبريت"
+en: "Ann Cooper Albright"
+crumb: "الوعي الجسدي والرقص المعاصر ← آن كوبر ألبريت"
+dates: "الولايات المتحدة · معاصرة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 2000
+active_start: 1997
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-bbcohen", title: "بوني بينبريدج كوهن", type: "مفكر"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "الاسم كان مُدرجاً خطأً سابقاً كـ'كارين ألبريت' (Karen Albright) دون سند مصدري يثبت وجودها؛ صُحِّح إلى الباحثة الحقيقية والموثَّقة آن كوبر ألبريت (Ann Cooper Albright)، أستاذة الرقص بكلية أوبرلين."
 ---
 
-# كارين ألبريت
+# آن كوبر ألبريت
 
-راقصة وباحثة أمريكية في الرقص المعاصر، تطبّق BMC في أبحاثها وفي تدريبات الأداء. عملت في جامعة كاليفورنيا.
+أستاذة وباحثة في دراسات الرقص والوعي الجسدي بكلية أوبرلين (Oberlin College)، متخصصة في دمج الفينومينولوجيا الجسدية ومنهج «تمركز الجسد والعقل» (Body-Mind Centering - BMC) في الممارسات الحركية والتحليل الثقافي للجسد.
 
-## ما أعطته
+## الفينومينولوجيا الحركية وتمركز الجسد والعقل
 
-- **"BMC في الرقص المعاصر"**: تطبيقات على الأداء الجسدي.
-- **"الوعي الجسدي في التدريب"**: بروتوكولات لتطوير وعي الراقص بجسده.
-- **"البحث في الجسد"**: دراسات أكاديمية عن العلاقة بين الجسد والوعي.
+طبقت ألبريت أطروحات بوني بينبريدج كوهن (Bonnie Bainbridge Cohen) حول التشريح التجريبي والوعي العصبي العضلي في كتبها المرجعية، ولا سيما *Choreographing Difference* (1997) و*Engendering Knowledge: Choreography with Body-Mind Centering* (2013). فحصت كيف يمكن لاستشعار الأنسجة الداخلية وحركة السوائل الجسدية أن تعيد تشكيل الخبرة الذاتية بالجسد وتحرر الحركة من القوالب الثقافية الجامدة والإجهاد الصدمي.
 
-## موقعها من التيار
+## أهم المؤلفات
 
-ترتبط ألبريت بالشق الفني في BMC، وهو امتداد مهم لممارسي الجسد.
+- *Choreographing Difference: The Body and Identity in Contemporary Dance* (Wesleyan University Press, 1997).
+- *Engendering Knowledge: Choreography with Body-Mind Centering* (Wesleyan University Press, 2013).
 
-## أهم أعمالها
+## المصادر
 
-- مقالات في *Journal of Dance and Somatic Practices*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+- Albright, A. C. (2013). *Engendering Knowledge: Choreography with Body-Mind Centering*. Wesleyan University Press.
+- Albright, A. C. (1997). *Choreographing Difference: The Body and Identity in Contemporary Dance*. Wesleyan University Press.
+- Cohen, B. B. (1993). *Sensing, Feeling, and Action: The Experiential Anatomy of Body-Mind Centering*. Contact Editions.

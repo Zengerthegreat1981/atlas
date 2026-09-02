@@ -12,6 +12,7 @@ country: "شبه القارة الهندية (البنغال)"
 language: "السنسكريتية"
 active_start: 1300
 active_end: 1800
+cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-nyaya", target_type: "مدرسة"
 related:
@@ -55,3 +56,10 @@ gaps:
 ## القيد
 
 - المنطق الصوري دون فلسفة ميتافيزيقا — انفصل عن النيايا الأصلية بدرجة ما.
+
+## المصادر
+
+- Matilal, B.K. (1968). *The Navya-Nyāya Doctrine of Negation*. Harvard University Press.
+- Ingalls, D.H.H. (1951). *Materials for the Study of Navya-Nyāya Logic*. Harvard University Press.
+- Potter, K.H. (Ed.). (1970). *Encyclopedia of Indian Philosophies: The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*. Princeton University Press.
+- Ganeri, J. (2001). *Philosophy in Classical India*. Routledge.

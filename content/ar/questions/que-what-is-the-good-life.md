@@ -10,7 +10,7 @@ crumb: "الأخلاق والفلسفة السياسية ← الأسئلة ال
 active_start: 1700
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-eudaimonism", target_type: "مدرسة"
+- rel: "relates_to", target: "con-eudaimonia-wellbeing", target_type: "مفهوم"
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
@@ -18,8 +18,7 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: السعادة (con-eudaimonia)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: اللذة (con-hedonism)"
-  - "المصادر الأولية (Aristotle، Mill، Nietzsche) تحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "المصادر الأولية (Aristotle، Mill، Nietzsche) تحتاج مراجعة بأرقام صفحات دقيقة."
   - "الفرق بين 'الحياة الجيدة' (Good Life) في الفلسفة اليونانية و'الحياة المزهرة' (Flourishing) في علم النفس الإيجابي يحتاج فصلاً."
   - "العلاقة بـ'الفضائل' (Virtues) في علم النفس الأخلاقي المعاصر تحتاج توثيقاً."
 ---

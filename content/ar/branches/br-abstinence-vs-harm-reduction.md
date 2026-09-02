@@ -11,8 +11,6 @@ language: "متعدد"
 active_start: 1935
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
 - id: "con-addiction", title: "الإدمان", type: "مفهوم"
 - id: "con-rat-park", title: "تجربة Rat Park", type: "مفهوم"

@@ -1,0 +1,61 @@
+---
+slug: "thk-rbauer"
+id: "THK-1783"
+type: "مفكر"
+level: "مبتدئ"
+title: "روبرت باور"
+en: "Robert Bauer"
+dates: "ألمانيا"
+country: "ألمانيا"
+language: "الألمانية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "السيكودراما والسوسيومتري ← الممارسة الأوروبية ← روبرت باور"
+edges:
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
+related:
+- id: "thk-jlmoreno", title: "جاك ل. مورينو", type: "مفكر"
+- id: "thk-zt-moreno", title: "زيركا مورينو", type: "مفكر"
+- id: "thk-jfox", title: "جوناثان فوكس", type: "مفكر"
+- id: "con-catharsis-integration", type: "مفهوم", title: "التطهير الاندماجي (مورينو)"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Robert Bauer' في حقل السيكودراما الألمانية في PubMed أو PsycINFO (حتى آب 2026)."
+  - "الكتاب المشار إليه ('Psychodrama', 2000، مع ساودهك) غير موثَّق في المكتبة الوطنية الألمانية (DNB)."
+  - "الاحتمال: خلط مع 'Robert Bauer' (معالج نفسي ألماني في Marburg) أو 'Robert Bauer' (معالج أسري في Munich)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'DGSP' عام."
+---
+
+# روبرت باور
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في السيكودراما الأوروبية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Robert Bauer.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **DNB (Deutsche Nationalbibliothek)**: لا كتاب منشور في علم النفس/السيكودراما.
+  - **PubMed**: لا مقالة في السيكودراما.
+  - **DGS (Deutsche Gesellschaft für Soziale Psychiatrie)**: لا نتائج.
+  - **DGSP (Deutsche Gesellschaft für Psychodrama)**: لا نتائج.
+  - **JGPPS (Journal of Group Psychotherapy, Psychodrama & Sociometry)**: لا مقالة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Robert Bauer** (معالج نفسي، Marburg).
+  - **Robert Bauer** (معالج أسري، Munich).
+  - **Sauodhek** (مؤلِّف محتمل للكتاب المشار إليه، غير مفهرس).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Moreno, J. L. (1946). *Psychodrama*. Beacon House.
+  - von Ameln, F. & Kramer, J. (2014). *Psychodrama*. Springer.
+  - DGSP: https://www.psychodrama.de/

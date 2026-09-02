@@ -16,9 +16,10 @@ edges:
 - rel: "developed_by", target: "thk-anzieu", target_type: "مفكر"
 related:
 - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
-- id: "thk-winnicott", title: "دونالد ونيكوت", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
@@ -52,3 +53,7 @@ gaps:
 ## أهم المراجع
 
 «الأنا-جلد» (Le Moi-Peau, Anzieu, 1985) · «الأنا-جلد: البحث والعمل» (Le Moi-Peau: Recherche et clinique, Anzieu, 1995) · «الأنا-جلد وعلم النفس» (Moi-Peau, topique et théorie de la connaissance, مقالات).
+
+## الروابط والسياق
+
+صاغ ديدييه أنزيو (Didier Anzieu) مفهوم الأنا-جلد ضمن تقليد التحليل النفسي الفرنسي (Psychoanalysis) المعاصر. يتقاطع المفهوم نقدياً مع مفهوم الإمساك (Holding) عند دونالد وينيكوت (Donald Winnicott)، حيث ينقل أنزيو فكرة الاحتواء الجسدي-النفسي عند وينيكوت إلى بنية رمزية متكاملة للأنا. كما يتصل المفهوم بالحدود النفسية والعاطفية (Psychological Boundaries) بوصفه الأساس الرمزي المبكر لتشكّل الفصل بين الذات والآخر.

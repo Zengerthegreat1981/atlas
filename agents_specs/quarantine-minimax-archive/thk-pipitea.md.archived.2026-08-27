@@ -1,0 +1,53 @@
+---
+slug: "thk-pipitea"
+id: "THK-2745"
+type: "مفكر"
+level: "مبتدئ"
+title: "مايكل بيبيتي"
+en: "Michael Pīpīte"
+dates: "نيوزيلندا"
+country: "نيوزيلندا"
+language: "الإنجليزية (مع الماورية)"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "philosophy"
+crumb: "Te Whare Tapa Whā (نموذج) ← تطوير ← مايكل بيبيتي"
+edges:
+- rel: "belongs_to", target: "br-te-whare-tapa-wha", type: "تيار"
+related:
+- id: "thk-trore", title: "ماسون دوري", type: "مفكر"
+- id: "thk-spdurie", title: "سيمون دوراي", type: "مفكر"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Michael Pīpīte' في Te Pou (المركز الوطني لصحة النفس في نيوزيلندا) حتى آب 2026."
+  - "الاحتمال: الاسم مُدخل من بيانات الممارسين الماوريين في خدمات الصحة."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Māori Mental Health Workforce' عام."
+---
+
+# مايكل بيبيتي
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في Te Whare Tapa Whā]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Michael Pīpīte.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **Te Pou (NZ Mental Health Workforce)**: لا نتائج.
+  - **Māori Health Workforce**: لا نتائج.
+  - **PsycINFO**: لا مقالة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **خلط** مع **Michael Pīpīte** (ممارس ماوري محتمل، حقل مختلف).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Durie, M. (1994). *Whaiora: Māori Health Development*. Oxford UP.
+  - Pitama, S. et al. (2007). «An Integrated Approach to Māori Health and Illness», *Journal of Bioethical Inquiry* 4(1): 1–7.
+  - Te Pou: https://www.tepou.co.nz/

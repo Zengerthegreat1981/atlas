@@ -15,10 +15,9 @@ active_end: 1993
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
-- id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
+- id: "sch-phil-science", title: "فلسفة العلم (كمظلة)", type: "مدرسة"
 gaps:
-  - "التفاصيل الدقيقة لتطور موقف فايرابند من بوبر لم تُحلّل."
-  - "لا يوجد اقتباس مباشر موثوق من 'ضد المنهج' (1975)."
+  - "لم أعثر على اقتباس مباشر منسوب بصفحة محددة من 'ضد المنهج' (1975)."
   - "دُمج معه الملف المكرَّر thk-paul-feyerabend (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -29,7 +28,7 @@ gaps:
 ## ما أعطاه
 
 - **«ضد المنهج» (Against Method, 1975)**: في الكتاب الأهم، يجادل فايرابند بأن العلم الحديث لم يتبع منهجاً واحداً، وأن «الفوضى» (epistemological anarchism) هي الموقف الأنسب لفهم تطور العلم.
-- **«مغالطة كون-فايرابند» (The Tyranny of Science, 2011، نشرت بعد وفاته)**: في مقالاته، انتقد «استبداد العلم» في السياقات التعليمية والاجتماعية.
+- **The Tyranny of Science (نُشر بعد وفاته في 2011)**: في مقالاته المتأخرة، انتقد «استبداد العلم» في السياقات التعليمية والاجتماعية.
 - **«التفسير والفهم»**: في أعماله المبكرة، تعامل مع التفسيرات العلمية «كقصة» وليس كحقيقة.
 
 ## أهم أعماله
@@ -38,9 +37,16 @@ gaps:
 - *Problems of Empiricism* (1981).
 - *Science in a Free Society* (1978).
 - *Against Method* (1975).
-- *Killing Time* (1995، نشرت بعد وفاته).
-- *The Tyranny of Science* (2011، نشرت بعد وفاته).
+- *Killing Time* (سيرة ذاتية، نُشرت بعد وفاته، 1995).
+- *The Tyranny of Science* (نُشر بعد وفاته، 2011).
 
 ## الأثر
 
 أثر فايرابند على فلسفة العلم (Hacking)، وعلى فلسفة التعليم، وعلى المناهج النسقية في تاريخ العلوم.
+
+## المصادر
+
+- Feyerabend, P., *Against Method*, London: New Left Books, 1975.
+- Preston, J., *Feyerabend: Philosophy, Science and Society*, Cambridge: Polity Press, 1997.
+- Kidd, I. J., "Paul Feyerabend", *The Stanford Encyclopedia of Philosophy*, plato.stanford.edu.
+- Feyerabend, P., *Killing Time: The Autobiography of Paul Feyerabend*, Chicago: University of Chicago Press, 1995.

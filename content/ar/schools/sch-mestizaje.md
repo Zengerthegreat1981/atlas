@@ -10,10 +10,9 @@ crumb: "الفلسفة ← أمريكا اللاتينية ← الهجنة"
 dates: "أمريكا اللاتينية، الكاريبي · من 1940s إلى اليوم"
 country: "متعددة"
 language: "الإسبانية، الفرنسية، الإنجليزية"
+cultural_origin: "latin-american"
 active_start: 1940
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
 related:
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
 - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
@@ -55,3 +54,10 @@ gaps:
 ## القيد
 
 - تواجه انتقادات بسبب تغافل الهرمية (الاختلاط ليس دائماً متساوياً).
+
+## المصادر
+
+- Ortiz, Fernando. *Cuban Counterpoint: Tobacco and Sugar*. Duke University Press, 1995 (orig. 1940).
+- García Canclini, Néstor. *Hybrid Cultures: Strategies for Entering and Leaving Modernity*. University of Minnesota Press, 1995.
+- Glissant, Édouard. *Caribbean Discourse: Selected Essays*. University Press of Virginia, 1989.
+- Mignolo, Walter. *The Darker Side of Western Modernity*. Duke University Press, 2011.

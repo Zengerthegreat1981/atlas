@@ -10,13 +10,12 @@ crumb: "الفلسفة السياسية والأخلاقية الوجودية �
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "مقتطفات الرسائل بالألمانية الأصلية غير مراجَعة هنا مباشرة؛ الاعتماد على الترجمة الإنجليزية المنشورة (Kohler & Saner, 1992) لا على أصل المخطوطات في مكتبة جامعة مارباخ."
 ---
 
 # مراسلات آرندت وياسبرز: المسؤولية الأخلاقية والذنب وتفاهة الشر
@@ -34,3 +33,9 @@ gaps:
 ## الأثر في الفلسفة القانونية والأخلاقية
 
 شكلت المراسلات حجر الأساس لنظريات العدالة الانتقالية والمسؤولية المدنية ومناهضة التوتاليتارية.
+
+## المصادر
+
+- Hannah Arendt & Karl Jaspers, *Correspondence, 1926–1969*, ed. Lotte Köhler & Hans Saner, trans. Robert & Rita Kimber, Harcourt Brace, 1992.
+- Karl Jaspers, *Die Schuldfrage* (مسألة الذنب الألماني)، هايدلبرغ، 1946.
+- Hannah Arendt, *Eichmann in Jerusalem: A Report on the Banality of Evil*, Viking Press, 1963.

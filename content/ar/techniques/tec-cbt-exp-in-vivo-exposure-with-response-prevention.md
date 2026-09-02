@@ -12,17 +12,16 @@ active_start: 1966
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "tec-erp", title: "العلاج بالتعرض ومنع الاستجابة (ERP)", type: "تقنية/تدخل علاجي"
+- id: "tec-erp", title: "التعرض ومنع الاستجابة (ERP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-flooding", title: "الإغراق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
-- id: "dis-selective-mutism", title: "ال صمت الانتقائي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "نسبة التقنية إلى Meyer (1966) تستحق توثيقاً أعمق."
+  - "مبتكر البروتوكول فيكتور ماير (Victor Meyer، 1966) — لا يوجد ملف مفكر مكافئ في content/ar/thinkers/ ولا في EXISTING_SLUGS.md؛ لا يمكن ربطه كمبتكر بدون اختراع slug (مسجَّل في agents_specs/requests-spark.md)."
 ---
 
 # التعرض الحي مع منع الاستجابة

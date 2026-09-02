@@ -2,47 +2,41 @@
 slug: "thk-rmosak"
 id: "THK-1834"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "روبرت موشارك"
 en: "Robert Mosak"
-dates: "الولايات المتحدة"
-country: "الولايات المتحدة"
-language: "الإنجليزية"
-active_start: 1970
-active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← روبرت موشارك"
-edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
-related:
-- id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
-- id: "br-teacch", title: "TEACCH", type: "تيار"
-- id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
 gaps:
-  - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rmosak.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
+  - "**تصحيح T3.4 (2026-08-27):** الـfrontmatter الأصلي لهذا الملف كان يحتوي بالخطأ على كتلتي YAML متتاليتين (frontmatter مكسور) أبقت edges وrelated القديمة غير المحجورة نشطة آلياً رغم أن جسم الملف يعلن الحجر بوضوح؛ أُعيدت كتابة الـfrontmatter ككتلة واحدة نظيفة متسقة مع حالة الحجر الفعلية."
 ---
 
 # روبرت موشارك
 
-معالج نفسي أمريكي، متخصص في تطوير برامج TEACCH وبرامج التدخل المبكر للأطفال ذوي اضطراب طيف التوحد.
+(Robert Mosak)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rmosak.md.archived.2026-08-26`
 
-- **برامج "الانتقال"** (Transitional Programs): تطوير مناهج الانتقال من المدرسة إلى العمل والحياة المستقلة.
-- **"البرامج الفردية"** (Individualized Programs): مبدأ تكييف TEACCH لاحتياجات كل طفل.
-- **"التعليم المتمايز"**: تطوير أنماط تدريس تستجيب لأنماط تعلم مختلفة.
-- **أبحاث الفعالية**: دراسات تجريبية على أثر برامج TEACCH على نمو الأطفال.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-تلميذ وزميل لشوبلر. أسهم في تطوير الجانب التطبيقي والمجتمعي لـ TEACCH.
+هذا المفكر ورد في مسار MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## أهم أعماله
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-- *TEACCH Program Implementation Manual* (مساهم، 1995).
-- *Transition Issues in Autism* (مساهم، 2000).
+## للمتابعة
 
-## اقتباسات مختارة
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rmosak.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rmosak.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

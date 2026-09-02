@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-reich", target_type: "مفكر"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي (لوين)", type: "تيار"
 - id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 gaps:
   - "كتاب فيلهلم رايخ التأسيسي 'تحليل الشخصية' (Character Analysis, 1933) ومستويات الدروع السبعة في الجسم."

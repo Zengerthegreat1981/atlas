@@ -16,7 +16,7 @@ related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (تيار)", type: "تيار"
+- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
 - id: "rel-family-systems-bowen", title: "العلاج الأسري ونظرية Bowen: منظوماتية الأجيال", type: "علاقة بين مدرستين"
 gaps:
   - "Wilber (1977، 1995) يستلهم من Vedānta لكن لا يقبلها كما هي. يدمج مع سلسلته \"الطيف\" (Spectrum) وتأويلات يقرأ Vygotsky، Piaget، Habermas. التوثيق الأكاديمي للتلفيق والابتعاد في آن واحد."

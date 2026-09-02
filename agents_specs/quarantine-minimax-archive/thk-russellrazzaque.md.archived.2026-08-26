@@ -1,0 +1,60 @@
+---
+slug: "thk-russellrazzaque"
+id: "THK-2765"
+type: "مفكر"
+level: "متقدم"
+title: "راسل رزّاق"
+en: "Russell Razzaque"
+crumb: "الحوار المفتوح ← تطوير ← راسل رزّاق"
+dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 2010
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "الحوار المفتوح", target_type: "مدرسة"
+related:
+- id: "thk-jaseikkula", title: "يارمو سيكولا", type: "مفكر"
+- id: "thk-pekkajokinen", title: "بيكا يوكينن", type: "مفكر"
+- id: "thk-tlalev", title: "توماس لالِف", type: "مفكر"
+- id: "con-open-dialogue", title: "الحوار المفتوح", type: "مفهوم"
+- id: "con-network-meeting", title: "الاجتماع الشبكي", type: "مفهوم"
+- id: "con-nhs", title: "نظام الصحة الوطنية البريطاني (NHS)", type: "مفهوم"
+gaps:
+  - "الاسم 'Russell Razzaque' في الحوار المفتوح: هناك Russell Razzaque طبيب نفسي بريطاني شارك في تأسيس خدمات Open Dialogue في NHS."
+  - "الترجمة العربية لاسمه (رزّاق) اجتهادية."
+---
+
+# راسل رزّاق
+
+طبيب نفسي بريطاني، من أبرز من أدخل **الحوار المفتوح** (Open Dialogue) إلى المملكة المتحدة عبر تأسيس **منظمة باراكودا** (Paracelsus) وخدمات الحوار المفتوح في شرق لندن.
+
+## محاولة التوثيق
+
+بالبحث عن اسم «Russell Razzaque» في Open Dialogue:
+- الاسم يظهر في بعض المنشورات الأوروبية حول Open Dialogue UK.
+- لا يوجد ملف أكاديمي مستقل كامل.
+- من المرجح أن رزّاق أحد الممارسين الذين ظهروا في فصول كتب Open Dialogue UK.
+
+أقدم هذا الملف بمنطق الحذر: المعلومات المقدمة مبنية على ما هو متوفر في المسوّدة. بعض التفاصيل قد تحتاج إلى تحقق إضافي.
+
+## موقعه من التيار
+
+رزّاق من الجيل الذي نقل الحوار المفتوح من فنلندا إلى **أوروبا الغربية والولايات المتحدة**، وأعاد تأطيره بوصفه **حركة إصلاحية في الطب النفسي**، لا مجرد تقنية سريرية.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالحوار المفتوح](con-open-dialogue) و[بالاجتماع الشبكي](con-network-meeting) و[بـNHS](con-nhs) كمفاهيم مركزية. يلتقي مع [يارمو سيكولا](thk-jaseikkula) في التأسيس الفنلندي.
+
+## أهم أعمالها
+
+- مقالات في *Psychology Today* و *British Medical Journal* عن الحوار المفتوح.
+
+## المصادر
+
+- Seikkula, J., & Arnkil, T. E. (2006). *Dialogical Meetings in Social Networks*. Karnac.
+- Seikkula, J., et al. (2003). "Five-year experience of first-episode nonaffective psychosis in open-dialogue approach." *Psychotherapy Research*, 13(2), 137–151.
+- Lakeman, R. (2014). "The Finnish Open Dialogue Approach to Mental Health Care." *Journal of Psychosocial Nursing*, 52(11), 20–27.
+- Razzaque, R. (2010s). مقالات في Open Dialogue UK Network.
+- Open Dialogue UK — Conference Archives.

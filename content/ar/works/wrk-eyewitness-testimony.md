@@ -12,15 +12,17 @@ dates: "1979 · إليزابيث لوفتوس"
 language: "الإنجليزية"
 active_start: 1979
 active_end: 1979
+author: "إليزابيث لوفتوس"
+author_slug: "thk-elizabeth-loftus"
+publication_year: 1979
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس المعرفي وسيكولوجيا الذاكرة الجنائية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-elizabeth-loftus", target_type: "مفكر"
 related:
 - id: "con-misinformation-effect-loftus", title: "تأثير التضليل وقابلية الذاكرة للتعديل (Misinformation Effect)", type: "مفهوم"
 - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # شهادة شهود العيان وسيكولوجيا الذاكرة الزائفة
@@ -34,7 +36,3 @@ gaps:
 ## الإصلاحات في التحقيق الجنائي
 
 وضع بروتوكولات صارمة لاستجواب الشهود وعرض المشتبه بهم لمنع إدانة الأبرياء.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

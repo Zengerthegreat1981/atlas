@@ -12,13 +12,11 @@ country: "الولايات المتحدة"
 language: "الإنجليزية / العبرية"
 active_start: 1997
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الاقتصاد السلوكي والدافعية التجريبية", target_type: "مدرسة"
-related:
-- id: "wrk-predictably-irrational", title: "اللامنطقية المتوقعة", type: "عمل / كتاب"
+edges: []
+related: []
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة مستقل لـ'الاقتصاد السلوكي والدافعية التجريبية' في الأطلس؛ رابط belongs_to السابق كان نصاً حراً بدل slug فحُذف (سُجّل في missing-schools.md)."
+  - "الرابط السابق إلى wrk-predictably-irrational (كتاب دان أريلي) حُذف: لا صلة موثقة بينه وبين غنيزي مذكورة في المتن، ولا هو مؤلف مشارك فيه."
 ---
 
 # أوري غنيزي
@@ -43,7 +41,3 @@ gaps:
 - *Pay Enough or Don't Pay at All* (2000).
 - *The Why Axis: Hidden Motives and the Undiscovered Economics of Everyday Life* (2013، مع جون ليست).
 - *Mixed Signals: How Incentives Really Work* (2023).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

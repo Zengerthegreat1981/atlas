@@ -12,8 +12,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية / العبرية"
 active_start: 1998
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الاقتصاد السلوكي وعلم النفس المعرفي", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-predictably-irrational", title: "اللامنطقية المتوقعة", type: "عمل / كتاب"
 gaps:

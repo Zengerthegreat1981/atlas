@@ -8,9 +8,13 @@ en: "Das Ich und das Es"
 crumb: "التحليل النفسي ← الأعمال ← الأنا والهو"
 dates: "1923 · سيغموند فرويد"
 active_start: 1923
-active_end: 1923
+active_end: 1985
 language: "الألمانية"
 part: "philosophy"
+author: "سيغموند فرويد"
+author_slug: "thk-freud"
+publication_year: 1923
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-freud", target_type: "مفكر"
@@ -19,7 +23,6 @@ related:
 gaps:
   - "الترجمة الإنجليزية المعتمدة (1961) أجراها James Strachey ضمن Standard Edition — التحقق من دقّتها للنصّ الأصلي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Freud في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الأنا والهو

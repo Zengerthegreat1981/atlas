@@ -9,20 +9,16 @@ en: "Philosophy of Science (umbrella)"
 crumb: "الفلسفة ← التحليلية ← فلسفة العلم (مظلة)"
 dates: "من 1920 إلى الآن"
 country: "متعددة (ألمانيا، المملكة المتحدة، الولايات المتحدة)"
+cultural_origin: "anglo-american"
 language: "متعددة (الألمانية، الإنجليزية)"
 active_start: 1920
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
-- rel: "split_into", target: "البوبرية", target_type: "تيار"
-- rel: "split_into", target: "الكوهنية", target_type: "تيار"
-- rel: "split_into", target: "اللاكاتوشية", target_type: "تيار"
-- rel: "split_into", target: "الفاير آباندية", target_type: "تيار"
 - rel: "split_into", target: "sch-scientific-realism", target_type: "مدرسة"
 related:
-- id: "thk-kuhn", title: "توماس كون", type: "مفكر"
 - id: "thk-pfeyerabend", title: "بول فايرابند", type: "مفكر"
-- id: "thk-pkuhn", title: "توماس كون", type: "مفكر"
+- id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 - id: "dbt-verification-vs-falsification", title: "التحقق أم التفنيد: أيهما معيار العلمية؟", type: "جدل"
 - id: "dbt-qualitative-vs-quantitative-psychology", title: "البحث الكيفي الظاهراتي مقابل القياس الكمي الإحصائي في علم النفس", type: "جدل"
 - id: "dia-einstein-tagore-1930", title: "حوار أينشتاين وطاغور 1930: حقيقة الكون المستقلة والوعي الإنساني", type: "حوار مع مدرسة مجاورة"
@@ -48,7 +44,7 @@ gaps:
   - "رابط مقترح لـ«كارل همبل» (thk-hempel) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«كارل بوبر» (thk-popper) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين 'البوبرية' و'اللاكاتوشية' في تفسير 'البرنامج البحثي' لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من لاكاتوش 'إدانة ونمو برامج بحثية' في صياغته المنقحة (1978)."
+  - "النص الأصلي لكتاب لاكاتوش 'إدانة ونمو برامج بحثية' في صياغته المنقحة (1978) لم يُراجع مباشرة."
   - "علاقة فلسفة العلم بـ'تاريخ العلم' (History of Science) كحقل مستقل لم تُراجع."
 ---
 # فلسفة العلم (كمظلة)
@@ -102,3 +98,11 @@ gaps:
 
 - يستحق التمييز بين فلسفة العلم و«تاريخ العلم» (History of Science) فصلاً مستقلاً.
 - علاقة مظلة فلسفة العلم بـ«العلوم المعرفية» (Cognitive Science) تستحق توسعاً موثّقاً.
+
+## المصادر
+
+- Popper, Karl. *The Logic of Scientific Discovery*. London: Hutchinson, 1959 (ترجمة إنجليزية لـ*Logik der Forschung*, 1934).
+- Kuhn, Thomas S. *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press, 1962.
+- Lakatos, Imre. "Falsification and the Methodology of Scientific Research Programmes." In *Criticism and the Growth of Knowledge*, edited by Lakatos and Musgrave, 91–196. Cambridge: Cambridge University Press, 1970.
+- Feyerabend, Paul. *Against Method*. London: New Left Books, 1975.
+- Hempel, Carl G. *Philosophy of Natural Science*. Englewood Cliffs, NJ: Prentice-Hall, 1966.

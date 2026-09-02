@@ -15,8 +15,8 @@ active_end: 1873
 edges:
 - rel: "belongs_to", target: "sch-arab-renaissance", target_type: "مدرسة"
 related:
-- id: "ctx-arabic-nahda", title: "سياق عصر النهضة الفكرية والإصلاح العربي", type: "سياق/تقليد"
-- id: "sch-arab-renaissance", title: "النهضة العربية", type: "مدرسة"
+- id: "ctx-arabic-nahda", title: "سياق عصر النهضة الفكرية والنفسية العربية وتحديث الفكر", type: "سياق/تقليد"
+- id: "sch-arab-renaissance", title: "النهضة العربية (كتيار فلسفي-إصلاحي)", type: "مدرسة"
 - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
 - id: "thk-muhammad-abduh", title: "محمد عبده (الإمام)", type: "مفكر"
 gaps:
@@ -49,3 +49,8 @@ gaps:
 - *مناهج الألباب المصرية في مباهج الآداب العصرية* (1869)
 - *المرشد الأمين للبنات والبنين* (1872)
 - *أنوار توفيق الجليل في أخبار مصر وتوثيق بني إسماعيل* (1868)
+
+## المصادر
+
+- الطهطاوي، رفاعة رافع. *تخليص الإبريز في تلخيص باريز*. القاهرة، 1834.
+- Newman, D. L. (2004). *An Imam in Paris: Al-Tahtawi's Visit to France (1826–1831)*. Saqi Books.

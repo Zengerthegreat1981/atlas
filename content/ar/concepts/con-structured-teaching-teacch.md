@@ -16,7 +16,6 @@ related:
 - id: "br-teacch", title: "TEACCH", type: "تيار"
 gaps:
   - "التمييز الدقيق بين TEACCH كنظام خدمات وStructured Teaching كأسلوب يستحق مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # التدريس المنظم (Structured Teaching)
 
@@ -46,3 +45,8 @@ gaps:
 
 - بعض الأطفال ذوي التوحد لا يفضلون البنية المفرطة، وقد تكون مقيدة.
 - قد يُستخدم في سياقات مؤسسية قاسية (كمدارس داخلية قديمة) بطرق غير مرنة.
+
+## المصادر
+
+- Eric Schopler, Robert Reichler, Margaret Lansing, *Individualized Assessment and Treatment for Autistic and Developmentally Disabled Children* (1980), والذي أرسى مكوّنات TEACCH الأربعة.
+- Gary Mesibov, Victoria Shea, Eric Schopler, *The TEACCH Approach to Autism Spectrum Disorders* (2004).

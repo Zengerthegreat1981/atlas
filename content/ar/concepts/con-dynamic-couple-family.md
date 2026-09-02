@@ -12,14 +12,19 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "مدرسة"
 related:
-- id: "thk-mselvini", title: "ماريون سيلفيني بالاتزولي", type: "مفكر"
-- id: "thk-bcwhite", title: "برنارد وايت", type: "مفكر"
-- id: "thk-eimber", title: "إيفان إمبير-بلاك", type: "مفكر"
-- id: "thk-nackerman", title: "ناثان أكرمان", type: "مفكر"
-- id: "thk-osilver", title: "أولغا سيلفرشتاين", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
+- id: "thk-ottofenichel", title: "أوتو فينيشل", type: "مفكر"
+- id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
+- id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
+- id: "thk-mselvini", title: "مارا سيلفيني-بالازولي", type: "مفكر"
+- id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
 gaps:
-  - "أعمال جيلبرت كلاركين الكاملة لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "'جيلبرت كلاركين' و'دان شوالتز' مذكوران في المتن (خطوط كلاركين/كيرنبرج، وشوالتز) لكن لا يوجد ملف thk- مطابق لأي منهما، فلم يُدرجا في related."
+  - "الروابط السابقة إلى thk-bcwhite (برنارد وايت) وthk-osilver (أولغا سيلفرشتاين) كانت تشير إلى ملفات غير موجودة أصلاً في content/ar/، وthk-eimber وthk-nackerman غير مذكورين في متن الملف؛ حُذفت جميعها."
 ---
 
 # العلاج الديناميكي للأزواج والأسرة
@@ -44,6 +49,3 @@ gaps:
 
 يقع بين "التحليل النفسي" و"العلاج الأسري"، مع تقاطع مع "علاج الأزواج المرتكز على الانفعال".
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

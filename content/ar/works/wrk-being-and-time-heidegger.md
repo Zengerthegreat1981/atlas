@@ -11,14 +11,17 @@ dates: "فرايبورغ / هاله · 1927 م"
 language: "الألمانية"
 active_start: 1927
 active_end: 1927
+author: "مارتن هايدغر"
+author_slug: "thk-heidegger"
+publication_year: 1927
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
 - id: "met-heidegger-hammer-ready-to-hand", title: "المطرقة في اليد لهايدجر: استعارة الحضور العملي السابق على النظرية", type: "استعارة/مجاز مؤسِّس"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "تأسيس التحليل الوجودي الإكلينيكي (Daseinsanalysis) عند بينسفانغر وبوس استناداً إلى هذا العمل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الكينونة والزمان لمارتن هايدغر

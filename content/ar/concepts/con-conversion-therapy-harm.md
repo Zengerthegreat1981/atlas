@@ -12,12 +12,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-conversion-therapy", target_type: "مدرسة"
 related:
-- id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل: مفيد أم ضار؟", type: "جدل"
 - id: "br-conversion-therapy", title: "العلاج بالتحويل (Reparative Therapy)", type: "تيار"
-- id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
+- id: "con-affirmative-therapy", title: "العلاج التأكيدي (Affirmative Therapy)", type: "مفهوم"
 gaps:
   - "الآليات النفسية العصبية المحددة للضرر (مثل العلاقة بين الندم الجنسي والاكتئاب) لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف يوثّق أعلام بعينهم (مثل مؤسسي العلاج بالتحويل) بارتباط مباشر بهذا الملف؛ الاسم الوحيد المرشح (جوزيف نيكولوسي) غير مذكور في متن الملف فحُذف من related."
 ---
 
 # ضرر العلاج بالتحويل

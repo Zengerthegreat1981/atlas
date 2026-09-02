@@ -20,8 +20,8 @@ related:
 - id: "dbt-liberalism-vs-communitarianism", title: "جدل الليبرالية مقابل الجماعاتية", type: "جدل"
 - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
 gaps:
-  - "نص After Virtue (1981) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التمييز بين طبعتي After Virtue (1981 و1984 المنقّحة) لم يُثبَّت في هذا الملخص."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
   - "دُمج معه الملف المكرَّر thk-amacintyre (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -43,3 +43,8 @@ gaps:
 ## أهم أعماله
 
 بعد الفضيلة (After Virtue, 1981) · من أجل الاعتراف (Is There a Politics of Recognition?, 1998) · ثلاث نسخ راديكالية للعدالة (Three Rival Versions of Moral Enquiry, 1990) · في مواجهة الاعتراف (Against Recognition, 2008).
+
+## المصادر
+
+- MacIntyre, A. *After Virtue: A Study in Moral Theory* (University of Notre Dame Press, 1981).
+- MacIntyre, A. *Whose Justice? Which Rationality?* (1988).

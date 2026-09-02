@@ -12,15 +12,16 @@ active_start: 1995
 active_end: "مستمر"
 language: "الإنجليزية / عدة لغات"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-insomnia", title: "العلاج المعرفي السلوكي للأرق (CBT-I)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "مارك فان أوفورد (Mark van Ommeren) وتيموثي آندرسن (Timothy Anderson) وتطبيقات FearFighter وBeating the Blues وSilverCloud."
-  - "تجارب عشوائية ضخمة في NHS البريطانية أثبتت تكافؤ cCBT مع العلاج وجهاً لوجه لاضطرابات القلق والاكتئاب الخفيف إلى المتوسط."
-  - "الفجوة الرقمية وعوائق الوصول للمجموعات السكانية المختلفة."
+  - "لا يوجد في الأطلس ملف مستقل لإسحق ماركس (Isaac Marks) رغم كونه المطوّر الرئيسي لـFearFighter — لا slug متاح له، فلم يُربط."
+  - "أرقام محددة من تجارب معشّاة (مثل برنامج IAPT في NHS البريطانية) تثبت تكافؤ cCBT مع العلاج وجهاً لوجه غير متاحة هنا كمصدر يمكن الاستشهاد به بدقة، فحُذف أي رقم غير موثق بدلاً من اختلاقه."
+  - "الفجوة الرقمية وعوائق الوصول للمجموعات السكانية المختلفة لم تُحلَّل هنا."
 ---
 
 # العلاج المعرفي السلوكي المحوسب (cCBT)
@@ -36,7 +37,7 @@ gaps:
 
 ## البرامج الكلاسيكية
 
-- **FearFighter** (Roth & Pilling) لرهاب الأفعى والعنكبوت والقلق الاجتماعي.
-- **Beating the Blues** (Proudfoot) للاكتئاب.
-- **SilverCloud Health** (Marks) — برنامج تجاري واسع الانتشار.
+- **FearFighter** (إسحق ماركس Isaac Marks وزملاؤه) لرهاب الأفعى والعنكبوت والقلق الاجتماعي.
+- **Beating the Blues** (جودي براودفوت Judy Proudfoot) للاكتئاب.
+- **SilverCloud Health** — برنامج تجاري واسع الانتشار طوّرته مجموعة بحثية في كلية ترينيتي دبلن.
 - **Deprexis، MoodGYM، ThisWayUp** الأسترالية.

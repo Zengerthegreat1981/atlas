@@ -3,7 +3,7 @@ slug: "thk-rmritchie"
 id: "THK-1835"
 type: "مفكر"
 level: "مبتدئ"
-title: "رالف ميتزner"
+title: "رالف ميتزنر"
 en: "Ralph Metzner"
 dates: "الولايات المتحدة/المانيا · 1936–2019"
 country: "الولايات المتحدة"
@@ -11,9 +11,9 @@ language: "الإنجليزية، الألمانية"
 active_start: 1964
 active_end: 2019
 part: "psychology"
-crumb: "الأطلس ← thinkers ← رالف ميتزner"
+crumb: "الأطلس ← thinkers ← رالف ميتزنر"
 edges:
-- rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-transpersonal-psychology", target_type: "مدرسة"
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
@@ -21,11 +21,11 @@ related:
 - id: "thk-jlilly", title: "جون لِلي", type: "مفكر"
 - id: "thk-wrichards", title: "وليام ريتشاردز", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـرالف ميتزنر."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
-# رالف ميتزner
+# رالف ميتزنر
 
 عالم نفس أمريكي-ألماني، شارك ليري وغروف في أبحاث النفسانيات المبكرة في هارفارد.
 
@@ -45,7 +45,3 @@ gaps:
 - *The Psychedelic Experience* (مع ليري وغروف، 1964).
 - *Maps of Consciousness* (1971).
 - *The Well of Remembrance* (1994).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

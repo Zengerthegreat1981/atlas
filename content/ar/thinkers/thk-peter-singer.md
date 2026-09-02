@@ -49,3 +49,9 @@ gaps:
 - أثّر في **قوانين معاملة الحيوانات** (Switzerland, 1978, UK, 1986).
 - أثّر في **حركة النباتية** المعاصرة (The Vegan Society).
 - أثار جدلاً واسعاً بِتأييد **الموت الرحيم** ومَواقفه من الإعاقة.
+
+## المصادر
+
+- Singer, P. *Animal Liberation* (New York Review of Books, 1975).
+- Singer, P. *Practical Ethics* (Cambridge University Press, 1979).
+- Princeton University — صفحة سينغر المؤسسية في كلية الشؤون العامة والدولية.

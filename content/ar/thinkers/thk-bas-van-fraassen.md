@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-scientific-realism", target_type: "مدرسة"
 related:
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
-- id: "thk-kuhn", title: "رولاند كون", type: "مفكر"
+- id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 - id: "sch-scientific-realism", title: "الواقعية العلمية / اللاواقعية العلمية", type: "مدرسة"
 - id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (كون)", type: "عمل / كتاب"
 - id: "wrk-popper-open-society", title: "المجتمع المفتوح وأعداؤه (بوبر)", type: "عمل / كتاب"

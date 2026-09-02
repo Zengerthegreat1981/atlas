@@ -10,19 +10,19 @@ crumb: "الفلسفة ← أمريكا اللاتينية ← فلسفة الت
 dates: "أمريكا اللاتينية · من 1970s إلى 1990s"
 country: "الأرجنتين، المكسيك، بيرو"
 language: "الإسبانية، البرتغالية"
+cultural_origin: "latin-american"
 active_start: 1968
 active_end: 2000
 edges:
 - rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-marxism-humanist", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-- id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
-- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
-- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
+- id: "sch-marxism-humanist", title: "الماركسية الإنسانية (Humanist Marxism / Marxisme humaniste)", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية الأمريكية", type: "مدرسة"
 gaps:
   - "نصوص Enrique Dussel, Rodolfo Kusch, Augusto Salazar Bondy, Juan Antonio Aliaga need review."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
 # فلسفة التحرير اللاتينية الأمريكية
@@ -56,3 +56,9 @@ gaps:
 
 - تواجه انتقادات بسبب التعميم (التباين داخل أمريكا اللاتينية).
 - تواجه انتقادات من قبل الما بعد الكولونياليين.
+
+## المصادر
+
+- Enrique Dussel، *Philosophy of Liberation*، ترجمة Aquilina Martinez و Christine Morkovsky، Orbis Books، 1985.
+- Eduardo Mendieta (ed.)، *Latin American Philosophy: Currents, Issues, Debates*، Indiana University Press، 2003.
+- Stanford Encyclopedia of Philosophy، مدخل "Latin American Philosophy".

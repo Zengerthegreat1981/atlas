@@ -14,12 +14,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
-- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
-- id: "con-schema", title: "المخطط المعرفي (Schema)", type: "مفهوم"
-- id: "stu-piaget-conservation", title: "الحفاظ (Conservation)", type: "دراسة وبحث"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
-- id: "con-piaget-schema", title: "المخطط (Schema)", type: "مفهوم"
+- id: "con-piaget-schema", title: "المخطط (Schema) عند بياجيه", type: "مفهوم"
+- id: "stu-piaget-conservation", title: "تجارب بياجيه على حفظ الكمية والكتلة والحجم", type: "دراسة وبحث"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الاستيعاب (Assimilation) (con-assimilation)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: المواءمة (Accommodation) (con-accommodation)"
@@ -54,7 +52,7 @@ gaps:
 - **العمر**: من 7 إلى 11 سنة.
 - **التفكير**: العمليات المنطقية على الأشياء الملموسة.
 - **الخصائص الجوهرية**:
-  - **الحفاظ (Conservation)**: فهم أن الكمية لا تتغير بتغير الشكل.
+  - **الحفاظ (Conservation)**: فهم أن الكمية لا تتغير بتغير الشكل (وثّقته تجارب بياجيه على حفظ الكمية والكتلة والحجم).
   - **التصنيف (Classification)**: تجميع الأشياء حسب خصائصها.
   - **الترتيب (Seriation)**: ترتيب الأشياء حسب سلم.
   - **الانعكاسية (Reversibility)**: فهم أن العملية يمكن عكسها.

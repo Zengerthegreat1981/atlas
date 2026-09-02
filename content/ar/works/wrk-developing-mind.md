@@ -11,9 +11,12 @@ language: "الإنجليزية"
 active_start: 1999
 active_end: 1999
 part: "psychology"
+author: "دانيال سيغل"
+author_slug: "thk-dsiegel"
+publication_year: 1999
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي النمائي/التطوري", target_type: "مدرسة"
-- rel: "authored_by", target: "دانيال سيغل", target_type: "مفكر"
+- rel: "authored_by", target: "thk-dsiegel", target_type: "مفكر"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:

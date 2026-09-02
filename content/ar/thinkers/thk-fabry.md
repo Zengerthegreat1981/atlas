@@ -8,7 +8,7 @@ en: "Joseph B. Fabry"
 crumb: "المدرسة الوجودية ← الناس ← جوزيف فابري"
 dates: "النمسا / أمريكا · 1909–1999"
 active_start: 1968
-active_end: 1995
+active_end: 1999
 country: "النمسا / أمريكا"
 language: "الإنجليزية / الألمانية"
 part: "philosophy"

@@ -16,7 +16,7 @@ register: "academic"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
-- rel: "developed", target: "نظرية التعلق (Attachment Theory)", target_type: "تيار"
+- rel: "developed", target: "br-attachment-theory", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
@@ -31,7 +31,7 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق غير المنظَّم (con-disorganized-attachment)"
   - "تفاصيل الفترة المبكرة من حياتها الأكاديمية في السبعينيات (UC Berkeley وما قبلها) غير موثّقة في ملف ثانوي موثوق بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لماري مين."
   - "التمييز بين 'التعلق المُنحلّ' (disorganized) و'التعلق المُنحلّ-غير الآمن' (disorganized/disoriented) في إصدارات لاحقة من التصنيف يستحق توثيقاً."
 ---
 
@@ -105,6 +105,8 @@ gaps:
 - **أدخلت مقاييس صارمة لعلم نفس التعلق**: قبل AAI كانت أبحاث التعلق أقرب إلى "الملاحظة السريرية الكثيفة" لبولبي وإينسورث. مين أتت بمنهجية **مُرَمَّزة** (coded) مع تقييم الاتساق بين المحكِّمين (inter-rater reliability) — وهي أتاحت لتجارب عشوائية أن تتعامل مع "التعلق" كمتغير قابل للقياس.
 - **مهدت للعلاج القائم على التعلق**: من دون AAI، لم يكن ممكناً تصوّر علاج يستهدف "حالة التعلق" كهدف. بروتوكولات MBT لفوناغي وبيتمان تستند ضمنياً إلى AAI.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح في هذا الملف.
+- Main, M., & Solomon, J. (1986). Discovery of an insecure-disorganized/disoriented attachment pattern. In *Affective Development in Infancy*.
+- Main, M., & Hesse, E. (1990). Parents' unresolved traumatic experiences are related to infant disorganized attachment status.
+- Main, M., & Goldwyn, R. (1991). *Adult Attachment Scoring and Classification System*.

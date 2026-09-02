@@ -12,14 +12,13 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
 - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
 gaps:
+  - "لا يوجد ملف مدرسة مستقل لـ DIR/Floortime (Developmental, Individual-differences, Relationship-based) في الأطلس حالياً — سُجِّل الطلب في agents_specs/missing-schools.md."
   - "سنة التخرّج الأولى من الكلية لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لهذا المفكر."
 ---
 
 # مارغريت باومان
@@ -41,6 +40,8 @@ gaps:
 - Bauman, M. L., & Kemper, T. L. (eds.), *The Neurobiology of Autism* (1994).
 - Bauman, M. L., "Brief Report: Neuroanatomic Observations of the Brain in Pervasive Developmental Disorders" (1995).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Bauman, M. L., & Kemper, T. L. (eds.). *The Neurobiology of Autism*. Johns Hopkins University Press, 1994.
+- Bauman, M. L. & Kemper, T. L. "Neuroanatomic observations of the brain in autism: a review and future directions." *International Journal of Developmental Neuroscience* 23, no. 2–3 (2005): 183–187.
+- Massachusetts General Hospital، صفحة قسم طب أعصاب الأطفال — مارغريت باومان.

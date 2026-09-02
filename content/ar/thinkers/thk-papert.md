@@ -5,15 +5,14 @@ type: "مفكر"
 level: "متوسط"
 title: "سيمور بابِرت"
 en: "Seymour Papert"
-crumb: "الصحافة العلمية وسيكولوجيا التعلم ← رائد ← سيمور بابِرت"
+crumb: "أعلام علم النفس النمائي وعلوم التعلم ← سيمور بابِرت"
 dates: "جنوب أفريقيا / الولايات المتحدة · 1928–2016"
 country: "جنوب أفريقيا، الولايات المتحدة"
 language: "الإنجليزية، الأفريقانية"
 part: "psychology"
 active_start: 1958
 active_end: 2016
-edges:
-- rel: "belongs_to", target: "الصحافة العلمية وسيكولوجيا التعلم", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
@@ -54,7 +53,8 @@ gaps:
 - *OOP as a Mindset for Learning* (مقالات، التسعينيات من القرن العشرين–العقد الأول من القرن الحادي والعشرين).
 - *One Laptop per Child* (مشاريع ودراسات، 2005–العقد الثاني من القرن الحادي والعشرين).
 
-## اقتباسات مختارة
+## المصادر
 
-> "الطفل لا يكتسب المعرفة، بل يكتشفها عبر تجاربه مع الأشياء والأفكار."
-> *(Mindstorms, الفصل 1، 1980، ترجمة تقريبية)*
+- Seymour Papert, *Mindstorms: Children, Computers, and Powerful Ideas* (Basic Books, 1980).
+- Seymour Papert, *The Children's Machine: Rethinking School in the Age of the Computer* (Basic Books, 1993).
+- Mitchel Resnick & Idit Harel (eds.), *Constructionism in Practice: Designing, Thinking, and Learning in a Digital World* (Lawrence Erlbaum, 1996).

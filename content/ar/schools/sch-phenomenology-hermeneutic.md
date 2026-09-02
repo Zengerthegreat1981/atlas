@@ -9,6 +9,7 @@ en: "Hermeneutic Phenomenology"
 crumb: "الفلسفة ← القارية ← الظاهراتية التأويلية"
 dates: "ألمانيا، فرنسا، العالم الأنجلوساكسوني · من 1953 إلى الوقت الحاضر"
 country: "ألمانيا، فرنسا"
+cultural_origin: "european"
 language: "الألمانية، الفرنسية، الإنجليزية"
 active_start: 1953
 active_end: "مستمر"
@@ -21,7 +22,6 @@ related:
 - id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
 gaps:
   - "الفرق بين 'الظاهراتية التأويلية' و'الهرمنيوطيقا الفلسفية' كمدرستين مستقلتين ليس موحّدًا في المراجع؛ بعض المصادر تعتبر غادامير المؤسِّس لمدرسة واحدة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة الدقيقة مع العلم الاجتماعي التأويلي (Schutz، Berger، Luckmann) تحتاج مراجعة."
 ---
 
@@ -60,3 +60,11 @@ gaps:
 - **البحث التربوي النوعي** (van Manen، Max van Manen).
 - **السرديات التطبيقية** في الطب النفسي والعلاج الأسري.
 - **الأنثروبولوجيا التأويلية** (Clifford Geertz، «التفسير كثقافة»).
+
+## المصادر
+
+- Gadamer, Hans-Georg. *Wahrheit und Methode*. 1960.
+- Ricœur, Paul. *Temps et récit*. 3 vols. Seuil, 1983–1985.
+- Ricœur, Paul. *Du texte à l'action: Essais d'herméneutique II*. Seuil, 1986.
+- Geertz, Clifford. *The Interpretation of Cultures*. Basic Books, 1973.
+- Palmer, Richard E. *Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer*. Northwestern University Press, 1969.

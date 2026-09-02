@@ -9,12 +9,11 @@ en: "Post-Kyoto School"
 crumb: "الفلسفة ← اليابان ← ما بعد مدرسة كيوتو"
 dates: "اليابان · من أواخر القرن 20 إلى القرن 21"
 country: "اليابان"
+cultural_origin: "east-asian"
 language: "اليابانية + الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "الفلسفة اليابانية المعاصرة (مظلة)", target_type: "مظلة"
 related:
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
 gaps:
@@ -22,6 +21,7 @@ gaps:
   - "الحد الفاصل بين 'مدرسة كيوتو المتأخرة' و'ما بعد مدرسة كيوتو' غير متّفق عليه."
   - "لا اقتباس مباشر موثوق من 'العدم' و'الربوبية بعد الحداثية' متاح في هذه المسودة."
   - "العلاقة بالظاهراتية الفرنسية (ڤاتيمو، نانسي) و'الإله الضعيف' (Van Buren) تحتاج تفصيلاً أكبر."
+  - "عدد من الأسماء والمراجع في المسودة (مثل Taniguchi Tetsuzō، Sasaki Katsunori، Makishima Tadashi، Rorlax، Larrimore، Coggins، Oakes) لم يتسنَّ التحقق من وجودها كمصادر أولية حقيقية — تحتاج مراجعة أو حذفاً لاحقاً."
 ---
 
 # ما بعد مدرسة كيوتو
@@ -65,3 +65,10 @@ gaps:
 - ما بعد كيوتو تُعدّ اليوم من المرجعيات الأساسية في فلسفة الدين المقارنة ودراسات ما بعد الحداثة في الفضاء الناطق بالإنجليزية.
 - رغم أنها تيار صغير نسبياً (مقارنة بمدرسة كيوتو الأم)، تأثيرها على الفلاسفة الإنگلوسكسونيين القارّين عميق.
 - في 2010-2020، أعيدت قراءتها عبر عدسة **الفلسفة العمومية (Public Philosophy)** في أعمال **تَسُجِيو تَشَجِيم** و**كِئُيتَ أوتَ (Kōjin Okumura)**.
+
+## المصادر
+
+- Nishitani, Keiji (trans. Jan Van Bragt). *Religion and Nothingness*. University of California Press, 1982.
+- Heisig, James W. *Philosophers of Nothingness: An Essay on the Kyoto School*. University of Hawai'i Press, 2001.
+- Kasulis, Thomas P. *Intimacy or Integrity: Philosophy and Cultural Difference*. University of Hawai'i Press, 2002.
+- Ueda, Shizuteru (trans. various, in Heisig & Maraldo eds.). *Rude Awakenings: Zen, the Kyoto School, and the Question of Nationalism*. University of Hawai'i Press, 1994.

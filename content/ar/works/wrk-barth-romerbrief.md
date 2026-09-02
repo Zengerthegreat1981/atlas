@@ -9,6 +9,10 @@ crumb: "المدرسة الوجودية ← الأعمال ← الرسالة إ
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
+author: "كارل بارث"
+author_slug: "thk-barth"
+publication_year: 1919
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:

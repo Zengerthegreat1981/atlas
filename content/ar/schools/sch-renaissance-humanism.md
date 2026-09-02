@@ -9,6 +9,7 @@ en: "Renaissance Humanism"
 crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبية ← الإنسانية النهضوية"
 dates: "فلورنسا، روما، البندقية، البادوفا، فيرارا، شمال أوروبا · من القرن 14 م إلى القرن 16 م"
 country: "إيطاليا (فلورنسا، روما، البندقية، البادوفا، فيرارا، ميلانو)، هولندا، ألمانيا، إنجلترا، فرنسا"
+cultural_origin: "european"
 language: "اللاتينية، الإيطالية (الفولغاري)"
 active_start: 1350
 active_end: 1600
@@ -21,11 +22,11 @@ related:
 - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
 - id: "thk-erasmus", title: "دسيديريوس إراسموس", type: "مفكر"
 - id: "thk-petrarca", title: "فرانشيسكو بترارك", type: "مفكر"
-- id: "thk-pico", title: "جيوفاني بيكو della ميراندولا", type: "مفكر"
+- id: "thk-pico", title: "جيوفاني بيكو ديلا ميراندولا", type: "مفكر"
 gaps:
-  - "نصوص بترارك وبوكاتشيو بالإيطالية واللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'De Proprietatibus Rerum' لبارثولوميو الإنجليزي أو 'De Oratore' لـبروتو."
-  - "التمييز بين 'الإنسانية المدنية' و'الإنسانية الدينية' معقّد تاريخياً."
+  - "لا توجد نسخة عربية محقَّقة من 'Secretum' و'Canzoniere' لبترارك أو 'Decameron' لبوكاتشيو لمقابلة الاقتباسات المنسوبة إليهما."
+  - "'De Proprietatibus Rerum' لبارثولوميو الإنجليزي و'De Oratore' لبروتو غير مرصودين بترجمة عربية موثّقة تتيح استخراج اقتباس منسوب بدقة."
+  - "معايير التمييز التاريخي بين نصوص 'الإنسانية المدنية' (سالوتاتي، بروني) و'الإنسانية الدينية' (إراسموس، مور) لم تُحسم بعد في هذا الملف."
 ---
 
 # الإنسانية النهضوية
@@ -51,11 +52,11 @@ gaps:
 - **ديسيديريوس إِراسموس** (Desiderius Erasmus، 1466-1536): «**Adagia**»، «**Novum Instrumentum**» (1516).
 - **يوهانس رويخلين** (Johann Reuchlin، 1455-1522): «**De Rudimentis Hebraicis**» (1506).
 - **بيتر مور** (Thomas More، 1478-1535): «**Utopia**» (1516).
-- **جوزيف جوستوس سكال يغر** (Joseph Justus Scaliger، 1540-1609): مؤسّس النقد التاريخي.
-- **إسحاق كازوبون** (Isaac Casaubon، 1559-1614): ناقد مسيحي.
+- **جوزيف جوستوس سكال يغر** (Joseph Justus Scaliger، وُلد 1540، توفي بعد وفاتها بتسع سنوات عام 1609): مؤسّس النقد التاريخي.
+- **إسحاق كازوبون** (Isaac Casaubon، وُلد 1559، توفي بعد وفاتها عام 1614): ناقد مسيحي.
 - **فرانسوا رابليه** (François Rabelais، 1494-1553): «**Gargantua et Pantagruel**».
 - **ميشيل دي مونتين** (Michel de Montaigne، 1533-1592): «**Essais**» (1580).
-- **وليام شكسبير** (William Shakespeare، 1564-1616): «**الإنسان**» (Homo) في مسرحياته.
+- **وليام شكسبير** (William Shakespeare، وُلد 1564، توفي بعد وفاتها عام 1616): «**الإنسان**» (Homo) في مسرحياته.
 
 ## المفاهيم المركزية
 
@@ -136,3 +137,10 @@ gaps:
 - **الإرث في الحداثة**: «**الإنسانية الحديثة**» (Humanismus Modernus) — في **الليبرالية** و«**حقوق الإنسان**» — استمدت من **الإنسانية النهضوية**، لكنّها **أخْرَجَت** البُعد **الديني**.
 - **التوتّر مع العلم**: الإنسانيون «**أحبّوا الكلاسيكيات**»، فقَلَّلوا من **العلوم** (Scientiae) «**التجريبية**» (Empiricae). **بيكون** و**غاليليو** انتقدوا هذا **الحنين** (Nostalgia).
 - **التوتّر مع «**الإنسانوية**» المعاصرة**: في القرن 20 م، «**الإنسانوية**» (Humanismus) في علم النفس و«**التحرّرية**» (Liberalismus) تَستلهم **الإنسانية النهضوية**، لكنّها **تَنحرف** نحو «**الفردانية المطلقة**».
+
+## المصادر
+
+- Kristeller, Paul Oskar. *Renaissance Thought and Its Sources*. Columbia University Press, 1979.
+- Nauert, Charles G. *Humanism and the Culture of Renaissance Europe*. Cambridge University Press, 2006.
+- Grafton, Anthony & Jardine, Lisa. *From Humanism to the Humanities: Education and the Liberal Arts in Fifteenth- and Sixteenth-Century Europe*. Harvard University Press, 1986.
+- Rummel, Erika. *The Humanist–Scholastic Debate in the Renaissance and Reformation*. Harvard University Press, 1995.

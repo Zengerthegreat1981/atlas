@@ -8,18 +8,20 @@ en: "The Nature of Intelligence and the Principles of Cognition"
 crumb: "علم النفس الترابطي ← الأعمال ← طبيعة الذكاء ومبادئ الإدراك"
 dates: "1923 · تشارلز سبيرمان"
 active_start: 1923
-active_end: 1923
+active_end: 1998
 language: "الإنجليزية"
 part: "psychology"
+author: "تشارلز سبيرمان"
+author_slug: "thk-spearman"
+publication_year: 1923
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الترابطي", target_type: "مدرسة"
-- rel: "authored_by", target: "تشارلز سبيرمان", target_type: "مفكر"
+- rel: "authored_by", target: "thk-spearman", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "كتاب Spearman السابق (1904, «General Intelligence») وكتاب اللاحق (1927, *The Abilities of Man*) يعيدان بعض المفاهيم — التحقق من تطوّرها عبر الكتب الثلاثة لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Spearman في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # طبيعة الذكاء ومبادئ الإدراك

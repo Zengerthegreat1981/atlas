@@ -12,12 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-feminism-black", target_type: "مدرسة"
 related:
-- id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
-- id: "thk-mohanty", title: "شاندرا موهانتي", type: "مفكر"
+- id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
+- id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
+- id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
 gaps:
-  - "النصوص التأسيسية (Harding 1986, Collins 1990, Smith 1974) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد مراجعة من نسخة أصلية لنصوص Dorothy Smith (1974) وSandra Harding (1986)؛ الاعتماد على وصف ثانوي لهما فقط."
 ---
 
 # إبستمولوجيا الموقع (الموقف)

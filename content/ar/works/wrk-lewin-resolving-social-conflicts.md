@@ -9,13 +9,17 @@ crumb: "علم النفس الاجتماعي ← الأعمال ← حلّ ال�
 dates: "1948 · كورت لوين"
 language: "الإنجليزية"
 active_start: 1948
-active_end: 1948
+active_end: 1981
 part: "psychology"
+author: "كورت لوين"
+author_slug: "thk-klew"
+publication_year: 1948
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-klew", target_type: "مفكر"
 related:
-- id: "br-radical-behaviorism", title: "السلوكية الإجرائية (سكينر)", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 gaps:
   - "تجارب لوين في تغيير السلوك الغذائي (رفع استهلاك الحليب والكبد في الأحياء الأمريكية) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب بعد."

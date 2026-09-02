@@ -19,7 +19,6 @@ related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "التمييز بين 'المعادل الرمزي' (Symbolic Equation) والرمز الحقيقي في الفصام والإبداع الفني يستحق توثيقاً."
 ---
 
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعمالها
 
 مقدمة في عمل ميلاني كلاين (Introduction to the Work of Melanie Klein, 1964) · عمل حنا سيغال (The Work of Hanna Segal, 1981) · الحلم والخيال والفن (Dream, Phantasy and Art, 1991).
+
+## المصادر
+
+- Segal, H. (1957). "Notes on Symbol Formation." *International Journal of Psycho-Analysis*, 38, 391–397.
+- Segal, H. (1964). *Introduction to the Work of Melanie Klein*. Heinemann.
+- Segal, H. (1991). *Dream, Phantasy and Art*. Routledge.

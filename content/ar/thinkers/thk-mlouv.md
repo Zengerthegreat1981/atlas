@@ -12,19 +12,16 @@ language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج البيئي/الطبيعي", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-arne-naess", title: "أرنه نيس", type: "مفكر"
+- id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "thk-dabram", title: "ديفيد أبرام", type: "مفكر"
 - id: "thk-jmacy", title: "جوانا مايسي", type: "مفكر"
 - id: "thk-rcarson", title: "راشيل كارسون", type: "مفكر"
 - id: "con-nature-deficit", title: "متلازمة عجز الطبيعة", type: "مفهوم"
-- id: "thk-lroszak", title: "ثيرون روزاك", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـريتشارد لوف."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ثيرون روزاك (thk-lroszak)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ثيرون روزاك (thk-lroszak)."
 ---
 

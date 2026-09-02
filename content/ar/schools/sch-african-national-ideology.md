@@ -9,6 +9,7 @@ en: "African National-Ideological Philosophy"
 crumb: "الفلسفة ← الأفريقية ← الوطنية-الأيديولوجية"
 dates: "أفريقيا · من 1950s إلى 1970s"
 country: "أفريقيا (خاصة الاستوائية والفرانكوفونية)"
+cultural_origin: "african"
 language: "الفرنسية، الإنجليزية"
 active_start: 1948
 active_end: 1980
@@ -39,10 +40,10 @@ gaps:
 ## الفلاسفة
 
 - **كوامي نكروما (Kwame Nkrumah، 1909-1972)**: «Consciencism» (1964).
-- **جوليوس نيريري (Julius Nyerere، 1922-1999)**: «Ujamaa: Essays on Socialism» (1968).
+- **جوليوس نيريري (Julius Nyerere، وُلد 1922، توفي بعد وفاة الحركة رسمياً، بعد وفاته عام 1999)**: «Ujamaa: Essays on Socialism» (1968).
 - **أميليكار كابرال (Amílcar Cabral، 1924-1973)**: من غينيا-بيساو.
-- **ليوبولد سنغور (Léopold Sédar Senghor، 1906-2001)**: من السنغال.
-- **أحمد سيكوتوري (Ahmed Sékou Touré، 1922-1984)**: من غينيا.
+- **ليوبولد سنغور (Léopold Sédar Senghor، وُلد 1906، توفي بعد وفاته عام 2001)**: من السنغال.
+- **أحمد سيكوتوري (Ahmed Sékou Touré، وُلد 1922، توفي بعد وفاته عام 1984)**: من غينيا.
 - **فرانتز فانون (Frantz Fanon، 1925-1961)**: «The Wretched of the Earth» (1961).
 
 ## الأثر
@@ -55,3 +56,10 @@ gaps:
 
 - بعد الاستقلال، انحرفت بعض هذه الفلسفات في سلطوية.
 - تُهمل أحياناً تنوع الفلسفات الأفريقية خارج السياق الاستعماري.
+
+## المصادر
+
+- Nkrumah, Kwame. *Consciencism: Philosophy and Ideology for De-Colonization*. London: Panaf Books, 1964.
+- Nyerere, Julius K. *Ujamaa: Essays on Socialism*. Dar es Salaam / Oxford: Oxford University Press, 1968.
+- Fanon, Frantz. *The Wretched of the Earth*. Trans. Constance Farrington. New York: Grove Press, 1963 (الأصل الفرنسي 1961).
+- Cabral, Amílcar. *Return to the Source: Selected Speeches*. New York: Monthly Review Press, 1973.

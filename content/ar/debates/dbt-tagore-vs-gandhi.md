@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-tagore-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-tagore-philosophy", title: "الفلسفة الطاغورية", type: "مدرسة"
-- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 gaps:

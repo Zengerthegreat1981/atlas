@@ -9,16 +9,12 @@ en: "Social Psychology"
 crumb: "علم النفس ← علم النفس الاجتماعي"
 dates: "ألمانيا، الولايات المتحدة، المملكة المتحدة · من 1908 إلى اليوم"
 country: "ألمانيا، الولايات المتحدة، المملكة المتحدة"
+cultural_origin: "anglo-american"
 language: "الألمانية، الإنجليزية"
 active_start: 1908
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "علم نفس الجشطلت (Wertheimer، Köhler)", target_type: "مدرسة"
-- rel: "evolved_from", target: "علم نفس الجشطلت التطبيقي (Lewin)", target_type: "تيار"
 - rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
-- rel: "split_into", target: "التعلم الاجتماعي (Bandura)", target_type: "تيار"
-- rel: "split_into", target: "علم النفس الاجتماعي التمييزي", target_type: "تيار"
-- rel: "split_into", target: "علم النفس الاجتماعي العابر للثقافات", target_type: "تيار"
 related:
 - id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
@@ -41,7 +37,7 @@ related:
 gaps:
   - "التمييز بين 'علم النفس الاجتماعي' (social psychology) و'علم النفس المجتمعي' (community psychology) و'السوسيولوجيا' ليس موحّداً في المراجع العربية."
   - "تاريخ موجة 'الأزمة' (Crisis in Social Psychology، 1970s) التي هاجمت المنهجية التجريبية موثّقة لكن تفاصيل تأثيرها على الانقسام بين علم النفس الاجتماعي النفسي والسوسيولوجيا غير مفصّلة."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم يُدرَج اقتباس مباشر من مصدر أولي في هذه المسودة."
 ---
 # علم النفس الاجتماعي (Social Psychology)
 
@@ -136,7 +132,7 @@ gaps:
 - **الانحياز المعملي**: المواقف المخبرية قد لا تتطابق مع الحياة الحقيقية.
 - **الخلط بين الفهم والتغيير**: إنتاج نظريات دون تطبيقات.
 
-## المرجع الموصى
+## المصادر
 
 - Lewin, K. (1947). Frontiers in group dynamics. *Human Relations*, 1(1), 5-41.
 - Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments. In H. Guetzkow (Ed.), *Groups, Leadership and Men*. Carnegie Press.

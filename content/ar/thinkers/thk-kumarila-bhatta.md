@@ -13,7 +13,7 @@ language: "السنسكريتية"
 active_start: 730
 active_end: 750
 edges:
-- rel: "belongs_to", target: "ميمامسا (بورفا ميمامسا) — بفرعيها بهاتا وبرابهاكرا", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-mimamsa", target_type: "مدرسة"
 related:
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."

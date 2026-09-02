@@ -10,18 +10,19 @@ dates: "الهند · 1888-1975"
 country: "الهند"
 language: "الإنجليزية، التاميلية، السنسكريتية"
 active_start: 1918
-active_end: 1961
+active_end: 1975
 active_source: "lifespan"
 crumb: "الأطلس ← thinkers ← سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)"
 edges:
 - rel: "belongs_to", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:
 - id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
-- id: "thk-vivekananda", title: "سوامي فيفيكاناندا", type: "مفكر"
+- id: "thk-vivekananda", title: "سوامي فيفيكاناندا (نيو-فيدانتا)", type: "مفكر"
 - id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
 gaps:
   - "التفاصيل الكاملة لتأثيره على ديكنز، راسل، إيروين (مدرسته) تحتاج مراجعة."
   - "لا ترجمة عربية موحدة لـ«Indian Philosophy» و«An Idealist View of Life»."
+  - "صُحِّح active_end من 1961 إلى 1975 (سنة وفاته) لأن المتن يذكر رئاسته للهند حتى 1967 ومؤلَّفاته حتى منتصف السبعينيات."
 ---
 
 # سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)
@@ -38,7 +39,7 @@ gaps:
 
 ## موقعه من التيار
 
-رادهاكريشنان يُعتبر «صوت» الهند في المحافل الدولية الفلسفية. ساعد في وضع Vedānta في «مكتبة الفلسفة العالمية»، بعد أن كانت مهمّشة في المؤتمرات الدولية. تأثيره على Paul Tillich، Sarvepalli، B. K. Matilal، Daya Krishna، إلخ.
+امتداداً لتيار «نيو-فيدانتا» الذي أسّسه سوامي فيفيكاناندا (تلميذ راماكريشنا) في أواخر القرن 19 كصياغة إصلاحية عالمية لفيدانتا، رادهاكريشنان يُعتبر «صوت» الهند في المحافل الدولية الفلسفية. ساعد في وضع Vedānta في «مكتبة الفلسفة العالمية»، بعد أن كانت مهمّشة في المؤتمرات الدولية. تأثيره على Paul Tillich، Sarvepalli، B. K. Matilal، Daya Krishna، إلخ.
 
 ## القيد
 
@@ -55,3 +56,8 @@ gaps:
 - *Recovery of Faith* (1955).
 - *Religion, Science and Culture* (1967).
 - *A Source Book in Indian Philosophy* (1957، مع Moore).
+
+## المصادر
+
+- Radhakrishnan, S. (1923-1927). *Indian Philosophy* (مجلدان). George Allen & Unwin.
+- Gopal, S. (1989). *Radhakrishnan: A Biography*. Unwin Hyman.

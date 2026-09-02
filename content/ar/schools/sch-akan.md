@@ -13,10 +13,10 @@ language: "الأكانية، التووية، الإنجليزية"
 active_start: 1200
 active_end: "مستمر"
 active_source: "lifespan"
+cultural_origin: "african"
 edges:
-- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
-- id: "sch-ifa", title: "تقاليد اليوروبا (Ifá)", type: "مدرسة"
+- id: "sch-ifa", title: "تقاليد اليوروبا الفلسفية (Ifá)", type: "مدرسة"
 - id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
 - id: "con-sankofa", title: "سانكوفا (Sankofa) — العودة إلى الجذور", type: "مفهوم"
 - id: "sch-dogon", title: "فلسفة الدوجون (مالي)", type: "مدرسة"
@@ -53,3 +53,9 @@ gaps:
 
 - طبيعية شفهية، نصوص قليلة.
 - تُهمل أحياناً التعددية داخل الأكان.
+
+## المصادر
+
+- Kwame Gyekye, *An Essay on African Philosophical Thought: The Akan Conceptual Scheme* (Cambridge: Cambridge University Press, 1987).
+- Kwasi Wiredu, *Cultural Universals and Particulars: An African Perspective* (Bloomington: Indiana University Press, 1996).
+- J. B. Danquah, *The Akan Doctrine of God: A Fragment of Gold Coast Ethics and Religion* (London: Lutterworth Press, 1944).

@@ -10,6 +10,7 @@ crumb: "الفلسفة ← المسيحية الوسيطة ← الأوغسطي�
 dates: "شمال إفريقيا (هيبو)، روما، ميلانو · من القرن 4 م إلى القرن 5 م (الذروة)"
 country: "الإمبراطورية الرومانية (الإفريقية وروما وميلانو)"
 language: "اللاتينية"
+cultural_origin: "european"
 active_start: 354
 active_end: 430
 edges:
@@ -25,7 +26,7 @@ related:
 - id: "wrk-city-of-god", title: "مدينة الله (De Civitate Dei)", type: "عمل / كتاب"
 gaps:
   - "نصوص أوغسطينوس اللاتينية الـ 100+ تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'De Trinitate' أو 'De Civitate Dei'."
+  - "لا اقتباس مباشر مُدرَج في هذا الملف من 'De Trinitate' أو 'De Civitate Dei' — يحتاج مراجعة من الترجمة العربية أو النص اللاتيني الأصلي."
   - "التمييز بين أوغسطينوس المبكّر (الفلسفي) والمتأخّر (اللاهوتي) محلّ نقاش مستمرّ."
 ---
 
@@ -119,3 +120,11 @@ gaps:
 2. **التنافر بين الإرادة والنعمة**: إذا كان الله اختار بعضاً للخلاص، فهل العدل الإلهي منقوص؟
 3. **التفسير الحَرْفي**: أوغسطينوس في البداية رفض تفسيراً حرفياً للكتاب، لكن في بعض أعماله المتأخّرة عاد إلى الحرفيّة.
 4. **تسييس اللاهوت**: «مدينة الله» أعطت ذريعة للحروب الصليبية وحروب الإصلاح.
+
+## المصادر
+
+- Augustine. *Confessions*. Translated by Henry Chadwick. Oxford University Press, 1991.
+- Augustine. *The City of God against the Pagans*. Translated by R. W. Dyson. Cambridge University Press, 1998.
+- Brown, Peter. *Augustine of Hippo: A Biography*. University of California Press, 1967 (New Edition 2000).
+- Kirwan, Christopher. *Augustine*. Routledge, 1989.
+- Stump, Eleonore, & Kretzmann, Norman (Eds.). *The Cambridge Companion to Augustine*. Cambridge University Press, 2001.

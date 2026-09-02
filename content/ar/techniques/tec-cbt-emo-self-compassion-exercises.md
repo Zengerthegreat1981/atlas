@@ -12,16 +12,16 @@ active_start: 2003
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "thk-kristin-neff", title: "كريستين نيف", type: "مفكر"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات (ACT)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "نسبة التقنية إلى Kristin Neff يستحق توثيقاً أعمق."
+  - "لا توجد دراسة أو ميتا-تحليل معين بأرقام (عيّنة/تصميم/حجم أثر) موثَّق هنا لإثبات فاعلية هذه الحزمة التمرينية تحديداً؛ أدبيات الرأفة بالذات لدى نيف موجودة كتيار بحثي عام دون استشهاد محدد يمكن التحقق منه هنا."
 ---
 
 # تمارين الرأفة بالذات

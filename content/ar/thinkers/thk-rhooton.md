@@ -13,18 +13,42 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← راندي هوتون"
 edges:
-- rel: "belongs_to", target: "العلاج البدائي / صرخة الولادة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "تيار"
 related:
 - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
+- id: "thk-jgrogan", type: "مفكر", title: "جينيفر بيكر-فلينت"
+---
+
 gaps:
-  - "السيرة الكاملة لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rhooton.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # راندي هوتون
 
-معالج نفسي أمريكي، من الجيل الثاني لممارسي العلاج البدائي في «Primal Institute» بلوس أنجلوس ومؤسِّس مراكز مستقلة للتدريب البدائي.
+(Randy Hooton)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rhooton.md.archived.2026-08-26`
 
-أدار هوتون ورش عمل علاج بدائي وفق بروتوكول يانوف الأصلي، وشارك في تأطير «مواجهة الألم البدائي» كتقنية منظمة. نشر مقالات في *Primal Journal* عن تطبيق العلاج البدائي في حالات الإدمان والصدمة المبكرة. أسهم في إبقاء التقليد حياً بعد إغلاق Primal Institute في الثمانينيات.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
+
+## ملخص
+
+هذا المفكر مذكور في دفعات 1.1–1.14 من المسار التأسيسي لـ MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
+
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
+
+## للمتابعة
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rhooton.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rhooton.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

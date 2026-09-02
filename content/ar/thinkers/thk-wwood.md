@@ -13,12 +13,12 @@ active_start: 1985
 active_end: 2010
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "البرمجة اللغوية العصبية (NLP)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:
-- id: "thk-trobbins", title: "توني روبنز", type: "مفكر"
+- id: "br-nlp-systemic", title: "البرمجة اللغوية العصبية (NLP)", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "علاقته المباشرة بشخصيات أخرى في حقل NLP (مثل توني روبنز) غير موثّقة بمصدر أولي."
 ---
 
 # وايات وودسمول
@@ -33,13 +33,13 @@ gaps:
 
 ## موقعه من التيار
 
-يتميّز وودسمول بنقله NLP من السياق العلاجي إلى السياق القيادي، وهو امتداد مهم لمجالها الأصلي.
+يتميّز وودسمول بنقله [البرمجة اللغوية العصبية (NLP)](br-nlp-systemic) من السياق العلاجي إلى السياق القيادي، وهو امتداد مهم لمجالها الأصلي.
 
 ## أهم أعماله
 
-- *Time Line Therapy and the Basis of Personality* (مع جيمس، 1988).
+- *Time Line Therapy and the Basis of Personality* (مع تاد جيمس، 1988).
 - مقالات في *NLP World* journal.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- James, T., & Woodsmall, W. (1988). *Time Line Therapy and the Basis of Personality*. Meta Publications.

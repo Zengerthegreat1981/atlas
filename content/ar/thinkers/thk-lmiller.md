@@ -10,8 +10,8 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
-crumb: "الأطلس ← thinkers ← لوسي جين ميلر"
+part: "psychology"
+crumb: "التكامل الحسي والاضطرابات النمائية ← لوسي جين ميلر"
 edges:
 - rel: "belongs_to", target: "التكامل الحسي", target_type: "مدرسة"
 related:

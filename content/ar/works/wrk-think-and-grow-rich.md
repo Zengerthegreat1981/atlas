@@ -12,14 +12,16 @@ dates: "1937 · نابليون هيل"
 language: "الإنجليزية"
 active_start: 1937
 active_end: 1937
+author: "نابليون هيل"
+author_slug: "thk-napoleon-hill"
+publication_year: 1937
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وسيكولوجيا النجاح", target_type: "مدرسة"
 - rel: "written_by", target: "thk-napoleon-hill", target_type: "مفكر"
 related:
 - id: "thk-napoleon-hill", title: "نابليون هيل", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # فكر وازدد ثراءً: فلسفة الإنجاز الكلاسيكية
@@ -34,6 +36,3 @@ gaps:
 
 شكل الإطار المرجعي لكافة برامج التدريب والتحفيز وتطوير الأداء الشخصي في القرن العشرين.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

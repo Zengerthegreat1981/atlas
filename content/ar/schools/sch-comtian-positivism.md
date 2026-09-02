@@ -12,6 +12,7 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1830
 active_end: 1900
+cultural_origin: "french"
 edges:
 - rel: "evolved_into", target: "sch-vienna-circle", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-utilitarianism", target_type: "مدرسة"
@@ -27,7 +28,7 @@ gaps:
   - "رابط مقترح لـ«جون ستيوارت مل» (thk-jstuartmill) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«كلود هنري دو سان سيمون» (thk-saint-simon) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص 'دروس في الفلسفة الوضعية' (1830–1842) لـكونت لم تُراجع في النص الأصلي لهذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "اقتباسات مباشرة موثّقة من نص كونت الأصلي تحتاج مراجعة إضافية."
 ---
 
 # الوضعية / الكومتية
@@ -53,3 +54,10 @@ gaps:
 - فكرة «الدين الوضعي» (Positivist Church) أثارت سخرية معاصريه.
 - تهمة «التسطيح العلمي» للمعرفة والحياة الروحية تستحق مراجعة مع كل من ليتر ودوركهايم (مؤسس علم الاجتماع الحديث).
 - تهمة «الوصاية على الإرث» (في كتابات لوقا «الدين الوضعي» و«الجمهورية الوضعية») تستحق أيضاً مراجعة.
+
+## المصادر
+
+- Comte, Auguste. (1830–1842). *Cours de philosophie positive*.
+- Comte, Auguste. (1851–1854). *Système de politique positive*.
+- Pickering, Mary. (1993). *Auguste Comte: An Intellectual Biography*. Cambridge University Press.
+- Wright, T. R. (1986). *The Religion of Humanity: The Impact of Comtean Positivism on Victorian Britain*. Cambridge University Press.

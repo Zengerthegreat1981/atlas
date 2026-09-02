@@ -10,11 +10,10 @@ crumb: "الفلسفة ← أفريقيا وأمريكا الأصلية ← تق
 dates: "غرب أفريقيا · من القرن 7 إلى اليوم"
 country: "نيجيريا، بنين، توغو"
 language: "اليوروبا، البرتغالية"
+cultural_origin: "african"
 active_start: 600
 active_end: "مستمر"
 active_source: "lifespan"
-edges:
-- rel: "belongs_to", target: "تقاليد الحكمة الأفريقية", target_type: "مظلة"
 related:
 - id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
 - id: "sch-akan", title: "فلسفة الأكان (غانا)", type: "مدرسة"
@@ -55,3 +54,10 @@ gaps:
 
 - شفهي، لا توثيق مكتوب في الأصل.
 - انتُقدت من قبل الإثنوفلسفة «الموحدة».
+
+## المصادر
+
+- Abimbola, Wande. *Ifá: An Exposition of Ifá Literary Corpus*. Ibadan: Oxford University Press Nigeria, 1976.
+- Idowu, E. Bolaji. *Olodumare: God in Yoruba Belief*. London: Longmans, 1962.
+- Idowu, E. Bolaji. *African Traditional Religion: A Definition*. London: SCM Press, 1973.
+- Abiodun, Rowland. *Yoruba Art and Language: Seeking the African in African Art*. Cambridge: Cambridge University Press, 2014.

@@ -24,7 +24,7 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "ctx-kyoto-school-zen-modernity", title: "مدرسة كيوتو وتلاقي الزن البوذي مع الفلسفة القارية", type: "سياق/تقليد"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى نيشيتاني بمصدر وسنة."
   - "كتابه العمدة 'الدين والعدم' (Religion and Nothingness, 1961/1982) وتحليله للعدمية الغربية وتجاوزها بالفراغ (Sunyata) يستحق إدراجاً في الأعمال."
 ---
 
@@ -46,3 +46,9 @@ gaps:
 ## أهم أعماله
 
 الدين والعدم (Religion and Nothingness, 1961/1982) · عن العدمية (The Self-Overcoming of Nihilism, 1949) · دراسات في أرسطو وهايدجر (1951).
+
+## المصادر
+
+- Nishitani, Keiji. *Religion and Nothingness*. Trans. Jan Van Bragt. University of California Press, 1982.
+- Nishitani, Keiji. *The Self-Overcoming of Nihilism*. Trans. Graham Parkes & Setsuko Aihara. SUNY Press, 1990.
+- "Keiji Nishitani." موسوعة ستانفورد للفلسفة — مدخل مدرسة كيوتو.

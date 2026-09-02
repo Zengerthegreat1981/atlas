@@ -9,6 +9,7 @@ en: "Social Ecology"
 crumb: "الفلسفة ← المقارنة والعابرة ← الإيكولوجيا الاجتماعية"
 dates: "أمريكا · من 1962 إلى اليوم"
 country: "الولايات المتحدة"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1962
 active_end: "مستمر"
@@ -20,9 +21,9 @@ related:
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 - id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"
 - id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية (The Ecology of Freedom)", type: "عمل / كتاب"
+- id: "thk-bookchin", title: "موراي بووكين", type: "مفكر"
 gaps:
-  - "رابط مقترح لـ«Murray Bookchin» (sch-bookchin) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "نصوص Murray Bookchin (The Ecology of Freedom, 1982) need review."
+  - "نصوص موراي بووكين (The Ecology of Freedom, 1982) بالإنجليزية الأصلية لم تُراجع من المصدر الأولي هنا."
 ---
 
 # الإيكولوجيا الاجتماعية
@@ -53,3 +54,9 @@ gaps:
 
 - تواجه انتقادات بسبب طوباوية الكوميونالية.
 - تواجه انتقادات بسبب الاستناد إلى كتابات هيجل غير الموثّقة أحياناً.
+
+## المصادر
+
+- Bookchin, M. (1982). *The Ecology of Freedom: The Emergence and Dissolution of Hierarchy*. Cheshire Books.
+- Bookchin, M. (1971). *Post-Scarcity Anarchism*. Ramparts Press.
+- Bookchin, M., & Biehl, J. (1997). *The Murray Bookchin Reader*. Cassell.

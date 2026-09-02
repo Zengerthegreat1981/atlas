@@ -9,15 +9,17 @@ crumb: "المفاهيم ← مدارس تحليلية ← التحليل الن
 active_start: 1970
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "con-cultural-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "con-cross-cultural-psychoanalysis", title: "التحليل النفسي العابر للثقافات", type: "مفهوم"
-- id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
-- id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-erikson", title: "إريك إريكسون", type: "مفكر"
+- id: "thk-khorney", title: "كارين هُورْني", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
+  - "حُذف رابط belongs_to الأصلي لأنه كان يشير إلى الملف نفسه (con-cultural-psychoanalysis) بدل معرّف مدرسة فعلي؛ لم يُحدَّد بديل موثَّق في المتن."
   - "التفاصيل التفصيلية لأعمال ويليام كوهن لم تُراجع بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد ملفات مفكرين (thk-) لهاري سلوتشاور أو نورمان هولاند أو سلافوي جيجك أو بيتر ويلر المذكورين في المتن؛ يتعذر ربطهم دون ملفات فعلية."
 ---
 
 # التحليل النفسي الثقافي
@@ -41,6 +43,3 @@ gaps:
 
 يقع في قلب "الدراسات الثقافية" (Cultural Studies) و"السرديات" المعاصرة.
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

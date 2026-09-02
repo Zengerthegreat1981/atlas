@@ -19,26 +19,25 @@ related:
 - id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 - id: "tec-somatic-trauma", title: "العلاج الجسدي للصدمة (Somatic Trauma Therapy)", type: "تقنية/تدخل علاجي"
 - id: "thk-tgillingham", title: "تيري غيلنغهام", type: "مفكر"
-- id: "thk-hweiss", title: "هارييت وايس", type: "مفكر"
+- id: "thk-hweiss", title: "هالكو ڤايس", type: "مفكر"
 - id: "thk-gjohanson", title: "غريغوري جوهانسون", type: "مفكر"
 - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
-- id: "thk-dsiegel", title: "دانيال ج. سيغل", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
 - id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة", type: "مفهوم"
-- id: "con-three-way-model-sensorimotor", title: "النَّمُوذَج الثُّلاثِيّ لِـ Sensorimotor: اِنْتِبَاه، تَأْثِير، فِكْر", type: "مفهوم"
+- id: "con-three-way-model-sensorimotor", title: "النموذج الثلاثي لـ Sensorimotor: انتباه، تأثير، فكر", type: "مفهوم"
 - id: "thk-kelleycolleen", title: "كولين كيلي", type: "مفكر"
-- id: "thk-minopaulin", title: "مينو بولين", type: "مفكر"
 - id: "thk-rothschild", title: "بابي روتشيلد", type: "مفكر"
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 - id: "br-sensorimotor-trauma-applications", title: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", type: "تيار"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
   - "سنة التأسيس الدقيقة لمعهد SPI وموقعه الحالي يحتاجان تحققاً من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم يُعثر على اقتباس مباشر من نصوص أوغدن قابل للتوثيق بمصدر وصفحة، فحُذف قسم الاقتباسات."
 ---
 # بات أوغدن
 
@@ -78,6 +77,8 @@ gaps:
 - التدريب طويل ومكلف، ما يحدّ من توفّر المعالجين المدربين.
 - كثير من الإسنادات السردية لسيرتها الذاتية (بما فيها سنة الميلاد 1949 الواردة في بعض المراجع الثانوية) تحتاج مراجعة من مصدر أولي.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح في هذا الملف. يلزم التحقق من نصوص أوغدن الأصلية قبل اعتماد أي اقتباس.
+- Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body: A Sensorimotor Approach to Psychotherapy*. Norton.
+- Ogden, P., & Fisher, J. (2015). *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment*. Norton.
+- Sensorimotor Psychotherapy Institute — سيرة مؤسِّسة المعهد ووصف البرنامج التدريبي (sensorimotorpsychotherapy.org).

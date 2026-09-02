@@ -10,16 +10,12 @@ crumb: "علم النفس الفسيولوجي ← البديهيات التأس
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم النفس الفسيولوجي", target_type: "مدرسة"
-- rel: "formulated_by", target: "والتر كانون", target_type: "مفكر"
+- rel: "relates_to", target: "con-homeostasis", target_type: "مفهوم"
 related:
-- id: "thk-cannon", title: "والتر كانون", type: "مفكر"
 - id: "con-homeostasis", title: "الاستتباب", type: "مفهوم"
 - id: "con-drive-reduction", title: "نظرية خفض الدافع", type: "مفهوم"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
-  - "الفرق بين الاستتباب (الثبات) والاستتباب المُوسَّع (Allostasis، Sterling 2011) يحتاج تحليلاً."
+  - "لا يوجد ملف مفكر (thk-) لوالتر كانون في الأطلس رغم كونه صائغ المبدأ بالاسم — طُلب slug جديد (thk-walter-cannon) في agents_specs/requests-minimax.md؛ الموجود حالياً (thk-cannon) شخص مختلف تماماً (بيتي كانون، معالجة وجودية معاصرة)."
   - "تطبيقات المبدأ على الإدمان (الانحراف المُعَلَّم allostatic load) في علم النفس الإكلينيكي لم تُمثَّل بعمق."
 ---
 
@@ -56,7 +52,7 @@ gaps:
 
 ## التوسيع المُعاصر: الاستتباب المُوسَّع (Allostasis)
 
-صاغها بيتر ستيرلنغ (Peter Sterling) في 2011:
+صاغها بيتر ستيرلنغ وجوزيف آير (Peter Sterling & Joseph Eyer) في *Allostasis: A New Paradigm to Explain Arousal Pathology* (1988)، ووسّعها ستيرلنغ لاحقاً في *Allostasis: A Model of Predictive Regulation* (2012):
 - **الاستتباب** يحافظ على الثبات، لكن **الاستتباب الموسع** يتنبأ بالتحديات ويُكيِّف نفسه مسبقاً.
 - **الحمل الاستتبابي** (Allostatic Load): التآكل التراكمي الناتج عن التكيف المُفرط مع الضغوط.
 - يُفسِّر **أمراض الإجهاد المزمن** (ارتفاع ضغط الدم، السكري من النوع 2، الاكتئاب المُتكرِّر).
@@ -66,3 +62,10 @@ gaps:
 - **التركيز على الفسيولوجيا**: يُقلِّل من أهمية العوامل النفسية-اجتماعية.
 - **التوسع في Allostasis** ضبابي تعريفياً ويصعب قياسه.
 - **لا يفسر** الإدمان المُزمن أو السلوك الاندفاعي (الذي يُعَطِّل آليات الاستتباب).
+
+## المصادر
+
+- Cannon, W. B. (1932). *The Wisdom of the Body*. W. W. Norton & Company.
+- Cannon, W. B. (1929). "Organization for Physiological Homeostasis." *Physiological Reviews*, 9(3), 399–431.
+- Sterling, P., & Eyer, J. (1988). "Allostasis: A New Paradigm to Explain Arousal Pathology." In S. Fisher & J. Reason (Eds.), *Handbook of Life Stress, Cognition and Health*. John Wiley & Sons.
+- Sterling, P. (2012). "Allostasis: A Model of Predictive Regulation." *Physiology & Behavior*, 106(1), 5–15.

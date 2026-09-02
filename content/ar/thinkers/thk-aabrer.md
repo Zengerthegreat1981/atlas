@@ -9,7 +9,7 @@ crumb: "مدرسة التحليل النفسي ← الناس ← كارل أب�
 dates: "ألمانيا · 1877–1925"
 country: "ألمانيا"
 language: "الألمانية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: 1925
 edges:

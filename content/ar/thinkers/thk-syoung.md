@@ -13,25 +13,25 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي التأملي (جامعة ناروبا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
 - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
 - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس مباشر موثَّق بمصدر وسنة محددين لهذا المفكر في هذا الملف."
+  - "تفاصيل تأسيس نظام «اليقظة الموحَّدة» (السنة الدقيقة، الأطر المؤسسية الأولى) لم تُراجع من مصدر أولي."
 ---
 
 # شِنزِن يانغ
 
-معلّم تأمّل وعلم أعصاب أمريكي، من أوائل من دمج علم الأعصاب بدراسة التأمّل. اشتُهر بتطوير نظام "MAP" (Mind, Awareness, Pain) لتطبيق التأمّل في علاج الألم المزمن.
+معلّم تأمّل أمريكي (مواليد 1949)، درس في اليابان وبورما ضمن تقاليد الزِن والفيباسّانا قبل أن يطوّر نظامه الخاص **"اليقظة الموحَّدة"** (Unified Mindfulness)، ويتعاون مع مختبرات علم الأعصاب في دراسة التأمّل تجريبياً.
 
 ## ما أعطاه
 
-- **نظام "MAP"**: إطار لتطبيق التأمّل في علاج الألم المزمن.
-- **"التأمّل والألم"**: دراسات عن كيف يخفّف التأمّل من المعاناة الجسدية.
-- **"اليقظة في العلم"**: مقاربة علمية للتأمّل دون فقدان البُعد الروحي.
+- **"اليقظة الموحَّدة"** (Unified Mindfulness): إطار لتقسيم تجربة التأمّل إلى مكوّنات (رؤية، سمع، إحساس جسدي) قابلة للتدريب والقياس.
+- **Break Through Pain** (2004): برنامج تأمّل تدريجي لعلاج الألم المزمن والحاد.
+- تعاون بحثي مع مختبرات تصوير الدماغ (مثل جامعة كارنيغي ميلون) لدراسة أثر التأمّل عصبياً.
 
 ## موقعه من التيار
 
@@ -39,9 +39,11 @@ gaps:
 
 ## أهم أعماله
 
-- *The Science of Enlightenment* (1997).
-- مقالات في *Mindfulness* journal.
+- *Break Through Pain: A Step-by-Step Mindfulness Meditation Program for Transforming Chronic and Acute Pain* (2004).
+- *The Science of Enlightenment: How Meditation Works* (2016).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Young, S. (2004). *Break Through Pain: A Step-by-Step Mindfulness Meditation Program for Transforming Chronic and Acute Pain*. Sounds True.
+- Young, S. (2016). *The Science of Enlightenment: How Meditation Works*. Sounds True.
+- Shinzen Young — الموقع الرسمي: https://www.shinzen.org/

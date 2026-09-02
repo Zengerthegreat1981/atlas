@@ -10,10 +10,9 @@ country: "الولايات المتحدة (مولود في زيورخ)"
 language: "الإنجليزية"
 active_start: 1956
 active_end: 2023
-part: "philosophy"
+part: "psychology"
 crumb: "علم النفس التنظيمي ← ثقافة المنظمة ← إدغار شين"
-edges:
-- rel: "belongs_to", target: "الحقل الظاهراتي (Lewin)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
 gaps:

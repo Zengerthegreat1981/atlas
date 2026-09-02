@@ -13,18 +13,16 @@ active_start: 1920
 active_end: 1953
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "مدرسة شولتز-هينكه الألمانية (Neo-Kraepelinian)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-schultz-hencke", target_type: "تيار"
 related:
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 - id: "thk-hhuber", title: "هيلموت هوبر", type: "مفكر"
 - id: "thk-kleonhard", title: "كارل ليونهارد", type: "مفكر"
 - id: "thk-rrudolf", title: "غرد رودولف", type: "مفكر"
 - id: "thk-wjanzarik", title: "فيرنر يانتساريك", type: "مفكر"
-- id: "thk-jlueger", title: "جون لوغر", type: "مفكر"
 gaps:
-  - "السيرة الكاملة وتفاصيل الفترة النازية لم تُراجع بشكل منفصل."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون لوغر (thk-jlueger)."
+  - "السيرة الكاملة وتفاصيل دوره في معهد غورينغ (1936) خلال الفترة النازية تحتاج مراجعة أدق من مصدر أولي."
+  - "رابط سابق لشخص باسم جون لوغر (thk-jlueger) أُزيل — لا صلة موثّقة بشولتز-هينكه في المصادر المتاحة."
 ---
 
 # هارالد شولتز-هِنكه
@@ -48,6 +46,8 @@ gaps:
 - *Lehrbuch der Traumdeutung* (1931).
 - *Einführung in die Psychoanalyse* (1927).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Cocks, G. (1985). *Psychotherapy in the Third Reich: The Göring Institute*. Oxford University Press — يوثّق دور شولتز-هينكه في معهد غورينغ.
+- Encyclopedia.com, "Schultz-Hencke, Harald Julius Alfred Carl-Ludwig (1892–1953)" (مرجع سيرة ذاتية قياسي).
+- exploringyourmind.com, "Harald Schultz-Hencke: A Dissident Psychoanalyst".

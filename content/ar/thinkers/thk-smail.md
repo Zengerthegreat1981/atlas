@@ -20,7 +20,6 @@ related:
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مفهومه في 'المادية السحرية' ونقد الإرادوية الوجودية المفرطة يحتاج فحصاً في قسم الجدالات."
 ---
 
@@ -41,4 +40,11 @@ gaps:
 
 ## أهم أعماله
 
-التحليل النفسي ومكانه في العلاج الوجودي (Taking Care: An Alternative to Therapy, 1987) · طبيعة التعاسة (The Nature of Unhappiness, 1993) · القوة والاهتمام والمعنى (Power, Interest and Psychology, 2005).
+الوهم والواقع (Illusion and Reality: A Study of the Meanings of Anxiety, 1984) · العناية البديلة (Taking Care: An Alternative to Therapy, 1987) · أصول التعاسة (The Origins of Unhappiness: A New Understanding of Personal Distress, 1993) · القوة والاهتمام وعلم النفس (Power, Interest and Psychology: Elements of a Social Materialist Understanding of Distress, 2005).
+
+## المصادر
+
+- Wikipedia (David Smail): https://en.wikipedia.org/wiki/David_Smail
+- Smail, D. (1993). *The Origins of Unhappiness: A New Understanding of Personal Distress*. HarperCollins.
+- Smail, D. (2005). *Power, Interest and Psychology: Elements of a Social Materialist Understanding of Distress*. PCCS Books.
+- Smail, D. (1987). *Taking Care: An Alternative to Therapy*. J.M. Dent.

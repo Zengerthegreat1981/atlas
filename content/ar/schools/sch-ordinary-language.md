@@ -12,6 +12,7 @@ country: "المملكة المتحدة (أكسفورد، كامبريدج)"
 language: "الإنجليزية"
 active_start: 1930
 active_end: 1970
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-logical-atomism", target_type: "مدرسة"
@@ -28,7 +29,7 @@ gaps:
   - "رابط مقترح لـ«بيتر فريدريك ستراوسن» (thk-strawson) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هربرت بول غرايس» (thk-grice) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «فلسفة اللغة العادية» عند أوستن وفلسفة اللغة العادية عند فيتغنشتاين المتأخر لم يُحلّل بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من محاضرات أوستن حول «أفعال الكلام» (1955)."
+  - "نص عربي محقّق مباشر من محاضرات أوستن حول «أفعال الكلام» (William James Lectures، 1955) غير متوفر للمراجعة هنا."
   - "علاقة ستراوسن بـ«الوصفية» (Descriptivism) في فلسفة اللغة المعاصرة لم تُراجع."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيلبرت رايل (thk-ryle)."
 ---
@@ -60,3 +61,11 @@ gaps:
 
 - يستحق التمييز بين «فلسفة اللغة العادية» و«اللغة العادية في الفلسفة» مراجعة.
 - الفارق بين رايل وستراوسن في «الوصفية» يحتاج فصلاً مستقلاً.
+
+## المصادر
+
+- Austin, J.L. *How to Do Things with Words*. Oxford University Press, 1962.
+- Ryle, Gilbert. *The Concept of Mind*. University of Chicago Press, 1949.
+- Wittgenstein, Ludwig. *Philosophical Investigations*. Blackwell, 1953.
+- Strawson, P.F. *Individuals: An Essay in Descriptive Metaphysics*. Methuen, 1959.
+- Hacker, P.M.S. *Wittgenstein's Place in Twentieth-Century Analytic Philosophy*. Blackwell, 1996.

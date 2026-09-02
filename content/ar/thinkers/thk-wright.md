@@ -23,8 +23,8 @@ related:
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "رواية 'اللامنتمي/الغريب' (The Outsider, 1953) وتأثره المباشر بسارتر وبوفوار في باريس تستحق توثيقاً."
+  - "لا يوجد اقتباس مباشر منسوب بمصدر وسنة."
+  - "طبيعة تصنيفه هنا كـ'مفكر وجودي' علاجي (لا فقط أدبي) تحتاج مراجعة مقابل تصنيف الأطلس للمدارس؛ رايت روائي متأثر بالوجودية لا معالج أو منظّر إكلينيكي."
 ---
 
 # ريتشارد رايت
@@ -44,4 +44,10 @@ gaps:
 
 ## أهم أعماله
 
-ابن البلد (Native Son, 1940) · ولد أسود (Black Boy, 1945) · اللامنتمي (The Outsider, 1953) · الرجل الذي عاش تحت الأرض (The Man Who Lived Underground, 1942/2021).
+ابن البلد (Native Son, 1940) · ولد أسود (Black Boy, 1945) · اللامنتمي (The Outsider, 1953) · الرجل الذي عاش تحت الأرض (The Man Who Lived Underground, كُتبت 1941–1942 في حياته، ونُشرت كاملة بعد وفاته سنة 2021).
+
+## المصادر
+
+- Wright, R. *The Outsider*. Harper & Brothers, 1953.
+- Fabre, M. *The Unfinished Quest of Richard Wright*. William Morrow, 1973.
+- Rowley, H. *Richard Wright: The Life and Times*. Henry Holt, 2001.

@@ -11,6 +11,10 @@ dates: "1989 · أرنه نايس"
 language: "الإنجليزية"
 active_start: 1989
 active_end: 1989
+author: "أرنه نايس"
+author_slug: "thk-arne-naess"
+publication_year: 1989
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"
 related:

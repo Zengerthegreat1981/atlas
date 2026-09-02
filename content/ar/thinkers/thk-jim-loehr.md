@@ -13,7 +13,7 @@ active_start: 1975
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم نفس الأداء", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
 related:
 - id: "br-performance-psychology", title: "علم نفس الأداء", type: "تيار"
 - id: "br-sport-psychology", title: "علم نفس الرياضة", type: "تيار"

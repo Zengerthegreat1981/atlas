@@ -8,18 +8,23 @@ title: "مختبر لايبزيغ 1879: تأسيس علم النفس التجر�
 en: "The Leipzig Lab 1879: Founding of Experimental Psychology"
 crumb: "تاريخ علم النفس ← الدراسات المؤسِّسة ← مختبر لايبزيغ 1879"
 active_start: 1879
-active_end: 1880
+active_end: 1920
+study_year: 1879
+design: "حدث تأسيسي (تأسيس مختبر) لا تجربة بعينة"
+sample_size: null
+main_finding: "تأسيس أول مختبر رسمي مخصص للبحث التجريبي في علم النفس، فصل الحقل عن الفلسفة وعلم الأعصاب كعلم مستقل."
+replication_status: "untested"
 edges:
-- rel: "relates_to", target: "sch-experimental-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-structuralism-wundt-titchener", target_type: "مدرسة"
 related:
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: إدوارد تيتشنر (thk-titchener)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التأمل الذاتي (con-introspection)"
-- "لم تُراجع من نسخة أصلية مباشرة بعد (Boring, 1950)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "عدد الطلاب والباحثين الأوائل في المختبر يحتاج فصلاً مستقلاً."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد (Boring, 1950)."
+  - "عدد الطلاب والباحثين الأوائل في المختبر يحتاج فصلاً مستقلاً."
+  - "sample_size: لا ينطبق — حدث تأسيسي، ليس تجربة بعيّنة مشاركين."
 ---
 
 # مختبر لايبزيغ 1879: تأسيس علم النفس التجريبي

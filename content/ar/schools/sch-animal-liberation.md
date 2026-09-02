@@ -10,12 +10,13 @@ crumb: "الفلسفة ← المقارنة والعابرة ← أخلاقيا�
 dates: "بريطانيا، أمريكا، عالمية · من 1970s إلى اليوم"
 country: "المملكة المتحدة، الولايات المتحدة"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "con-speciesism", title: "تخصيص النوع (Speciesism)", type: "مفهوم"
@@ -57,3 +58,11 @@ gaps:
 
 - تواجه انتقادات بسبب «الأنثروبومورفية».
 - تواجه انتقادات بسبب إهمال النظم البيئية لصالح الفرد.
+
+## المصادر
+
+- Peter Singer, *Animal Liberation* (1975).
+- Tom Regan, *The Case for Animal Rights* (1983).
+- Martha Nussbaum, *Frontiers of Justice: Disability, Nationality, Species Membership* (2006).
+- Carol J. Adams, *The Sexual Politics of Meat* (1990).
+- Jacques Derrida, *The Animal That Therefore I Am* (2006).

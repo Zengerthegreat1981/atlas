@@ -12,14 +12,14 @@ language: "الألمانية"
 active_start: 1972
 active_end: 1995
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم النفس النقدي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-iparker", title: "إيان باركر", type: "مفكر"
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "بعض تفاصيل عمله المبكر لم تُراجع من مصدر أوّلي."
   - "كان الملف يذكر شريكه باسم **«أوسكار نيغت»** وباسم **«أوستروجا»** — وشريكته في تأسيس علم النفس النقدي وتطويره هي **أوته أوسترْكامب** (Ute Osterkamp)؛ أما أوسكار نيغت فعالم اجتماع من مدرسة فرانكفورت لا صلة له بالمشروع."
+  - "edges.belongs_to أُفرغ: لا يوجد حتى الآن slug معتمد لمدرسة 'علم النفس النقدي' (sch-critical-psychology موجودة كمسودة MiniMax غير معتمدة فقط)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 

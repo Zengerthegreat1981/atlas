@@ -10,8 +10,8 @@ active_start: 1947
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "الإنسانية-الوجودية", target_type: "مدرسة"
-- rel: "relates_to", target: "الجشطالتية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"

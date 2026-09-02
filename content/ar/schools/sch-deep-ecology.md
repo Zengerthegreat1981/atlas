@@ -9,6 +9,7 @@ en: "Deep Ecology"
 crumb: "الفلسفة ← المقارنة والعابرة ← الإيكولوجيا العميقة"
 dates: "النرويج، عالمية · من 1973 إلى اليوم"
 country: "النرويج، أمريكا"
+cultural_origin: "european"
 language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
@@ -58,3 +59,11 @@ gaps:
 - تواجه انتقادات بسبب «الجوهرية» البيئية.
 - تواجه انتقادات بسبب إهمال البُعد الاجتماعي.
 - تواجه انتقادات بسبب «الرومانسية».
+
+## المصادر
+
+- Næss, Arne. "The Shallow and the Deep, Long-Range Ecology Movement." *Inquiry*, 1973.
+- Devall, Bill & Sessions, George. *Deep Ecology: Living As If Nature Mattered*. Gibbs Smith, 1985.
+- Naess, Arne. *Ecology, Community and Lifestyle*. Cambridge University Press, 1989.
+- Sessions, George (ed.). *Deep Ecology for the Twenty-First Century*. Shambhala, 1995.
+- Katz, Eric, Light, Andrew & Rothenberg, David (eds.). *Beneath the Surface: Critical Essays in the Philosophy of Deep Ecology*. MIT Press, 2000.

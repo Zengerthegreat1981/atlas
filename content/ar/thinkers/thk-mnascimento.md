@@ -21,7 +21,6 @@ related:
 - id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ماي ناسيمينتو
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 تحرير IIBA Journal (2019–) · مقالات في *Bioenergetic Analysis* Journal · مساهمات في تأسيس ABRAPAB.
+
+## المصادر
+
+- Schroeter, V., Nascimento, M., & Koemeda-Lutz, M. (eds.) (2008). *Bioenergetic Analysis*, Vol. 18. Gießen: Psychosozial-Verlag.
+- Koemeda-Lutz, M., Nascimento, M., & Schroeter, V. (eds.) (2020). *Bioenergetic Analysis*, Vol. 30. Gießen: Psychosozial-Verlag.
+- Nascimento, M. (2024). Editorial note. *IIBA Journal*, 34.

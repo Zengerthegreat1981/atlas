@@ -3,6 +3,7 @@ slug: "sch-interculturalidad"
 id: "SCH-0148"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "latin-american"
 level: "متوسط"
 title: "فلسفة العبور الثقافي (Interculturalidad)"
 en: "Interculturalidad Philosophy"
@@ -12,12 +13,11 @@ country: "الإكوادور، بوليفيا، بيرو"
 language: "الإسبانية، الكيتشوا، الأيمارا"
 active_start: 1984
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفات اللاتينية", target_type: "مظلة"
+edges: []
 related:
-- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية الأمريكية", type: "مدرسة"
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
-- id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
+- id: "sch-mestizaje", title: "فلسفة الهجنة / المِستيساخي", type: "مدرسة"
 gaps:
   - "نصوص Catherine Walsh, Raúl Fornet-Betancourt need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -51,3 +51,10 @@ gaps:
 ## القيد
 
 - تواجه انتقادات بسبب صعوبة التمييز عن «التعددية الثقافية» العادية.
+
+## المصادر
+
+- Walsh, C. (2009). *Interculturalidad, Estado, Sociedad: Luchas (de)coloniales de nuestra época*. Universidad Andina Simón Bolívar / Abya-Yala.
+- Fornet-Betancourt, R. (2001). *Transformación intercultural de la filosofía*. Desclée de Brouwer.
+- Santos, B. de S. (2014). *Epistemologies of the South: Justice Against Epistemicide*. Paradigm Publishers.
+- Walsh, C. (2010). Development as Buen Vivir: Institutional arrangements and (de)colonial entanglements. *Development*, 53(1).

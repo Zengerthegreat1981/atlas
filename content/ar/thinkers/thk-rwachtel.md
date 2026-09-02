@@ -13,18 +13,13 @@ active_start: 1973
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل النفسي الدوري (Cyclical Psychodynamics)", target_type: "مدرسة"
-- rel: "belongs_to", target: "العلاج التكاملي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "تيار"
 related:
 - id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
-- id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
-- id: "thk-hstrupp", title: "هانس ستروب", type: "مفكر"
-- id: "thk-jnorcross", title: "جون نوركروس", type: "مفكر"
-- id: "thk-lluborsky", title: "ليستر لوبورسكي", type: "مفكر"
-- id: "thk-tlidz", title: "ثيودور ليدز", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة والإسهامات اللاحقة بعد 2010 لم تُراجع من مصدر أولي مباشر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "رابط belongs_to الثاني (\"العلاج التكاملي\" العام) حُذف لأنه كان نصاً حراً لا slug — لا توجد مدرسة `sch-` أو تيار `br-` للتكامل العلاجي العام (غير النفسي الدوري تحديداً) في الأطلس؛ سُجّل في agents_specs/missing-schools.md."
+  - "روابط `thk-lowen`، `thk-hstrupp`، `thk-jnorcross`، `thk-lluborsky`، `thk-tlidz` أُزيلت لعدم وجود جملة في المتن تبرر الصلة."
 ---
 
 # بول ل. واتشتِل
@@ -51,6 +46,7 @@ gaps:
 - *Cycling and Psychoanalysis* (2003) — تبلور النموذج الدوري.
 - *Relational Theory and the Practice of Psychotherapy* (2008) — امتداد للعلائقية.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Wachtel, P. L. (1977). *Psychoanalysis and Behavior Therapy: Toward an Integration*. Basic Books.
+- Wachtel, P. L. (2011). *Inside the Session: What Really Happens in Psychotherapy*. American Psychological Association.

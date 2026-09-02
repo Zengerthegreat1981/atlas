@@ -8,18 +8,20 @@ en: "Gestalt Psychology"
 crumb: "علم نفس الـ Gestalt ← الأعمال ← علم نفس الـ Gestalt"
 dates: "1929 · ولفغانغ كوهلر"
 active_start: 1929
-active_end: 1929
+active_end: 1945
 language: "الألمانية"
+author: "فولفغانغ كولَر"
+author_slug: "thk-wkohler"
+publication_year: 1929
+original_language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "wrk-gestalt-psychology-kohler", target_type: "مدرسة"
-- rel: "authored_by", target: "ولفغانغ كوهلر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-wkohler", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الترجمة الإنجليزية (1929، Ellis) صدرت في نفس العام تقريباً — التحقق من دقّتها للنصّ الألماني الأصلي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Köhler في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # علم نفس الـ Gestalt

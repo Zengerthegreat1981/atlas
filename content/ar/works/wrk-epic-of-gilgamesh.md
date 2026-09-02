@@ -11,6 +11,10 @@ dates: "بلاد الرافدين · الألفية الثالثة ق.م (نوا
 language: "الأكدية، السومرية"
 active_start: -2100
 active_end: -1200
+author: "مجهول (منسوب تقليدياً إلى سين-ليقي-أوننوي)"
+author_slug: "thk-gilgamesh"
+publication_year: -1200
+original_language: "الأكدية"
 edges:
 - rel: "belongs_to", target: "sch-mesopotamian-wisdom", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-gilgamesh", target_type: "مفكر"

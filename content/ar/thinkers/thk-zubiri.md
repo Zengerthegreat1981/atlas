@@ -17,16 +17,14 @@ edges:
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
-- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+- id: "thk-ortega", title: "خوسيه أورتيغا إي غاسيت", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "ثلاثيته الفلسفية 'الذكاء الواعي والواقعية الفينومينولوجية' (Inteligencia sentiente) تستحق توثيقاً."
+  - "لم يُعثر على اقتباس منسوب مباشرة لثوبيري أثناء البحث المتاح."
 ---
 
 # خافيير ثوبيري
 
-فيلسوف وظاهراتي وأنطولوجي إسباني كبير، تلميذ خوسيه أورتيجا إي جاسيت وإدموند هوسرل ومارتن هايدجر في فرايبورغ، رائد «فلسفة الواقعية الحية والذكاء الشاعر».
+فيلسوف وظاهراتي وأنطولوجي إسباني كبير، تلميذ خوسيه أورتيغا إي غاسيت وإدموند هوسرل ومارتن هايدجر في فرايبورغ، رائد «فلسفة الواقعية الحية والذكاء الشاعر».
 
 ## ما أعطاه
 
@@ -41,4 +39,10 @@ gaps:
 
 ## أهم أعماله
 
-عن الجوهر (Sobre la esencia, 1962) · الذكاء الشاعر (Inteligencia sentiente في 3 أجزاء، 1980–1983) · البنية الأنطولوجية للإنسان (Estructura dinámica de la realidad, 1989).
+عن الجوهر (Sobre la esencia, 1962) · الذكاء الشاعر (Inteligencia sentiente في 3 أجزاء: Inteligencia y realidad 1980، Inteligencia y logos 1982، Inteligencia y razón 1983) · البنية الأنطولوجية للإنسان (نُشر بعد وفاته عام 1989، Estructura dinámica de la realidad).
+
+## المصادر
+
+- Encyclopaedia Herder — Xavier Zubiri: https://encyclopaedia.herdereditorial.com/wiki/Autor:Zubiri,_Xavier
+- Zubiri, X. (1980–1983). *Inteligencia sentiente* (3 vols: *Inteligencia y realidad*, *Inteligencia y logos*, *Inteligencia y razón*). Alianza Editorial.
+- Zubiri, X. (1962). *Sobre la esencia*. Sociedad de Estudios y Publicaciones.

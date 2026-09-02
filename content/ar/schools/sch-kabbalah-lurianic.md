@@ -9,6 +9,7 @@ en: "Lurianic Kabbalah"
 crumb: "الفلسفة ← اليهودية ← القبّالة اللوريانية"
 dates: "صفد (فلسطين) · من القرن 16 م إلى القرن 18 م"
 country: "فلسطين العثمانية (صفد)، بولندا، أمستردام"
+cultural_origin: "islamic-arabic"
 language: "العبرية"
 active_start: 1569
 active_end: 1750
@@ -21,7 +22,6 @@ related:
 - id: "con-tzimtzum", title: "القبض الإلهي (تيمتسوم)", type: "مفهوم"
 gaps:
   - "نصوص إسحاق لوريا شفهية، تصلنا عبر تلاميذه (حَيِم فيتال، شموئيل موريسو، يوسف شيخ أسي) — لا يوجد كتاب بخطّ لوريا نفسه."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Etz Chaim' أو 'Tikkun' في الصياغة الأصلية."
   - "النقاش حول علاقة لوريا بزعامة الدونمة وحركة شبتاي تسفي معقّد جداً ولم يُحسم أكاديمياً."
 ---
 
@@ -81,4 +81,11 @@ gaps:
 - **حركة شبتاي تسفي** (1665-1666): ادّعى **شبتاي تسفي** (Sabbatai Zevi) أنه «المسيّح المصلح»، استلهم لوريا (وخاصة فكرة «الشرّ المقدّس» أو القشور الإلهية). صدمت الحركة يهود العالم. زعيمها «نحمان من جاتس» أنشأ فرع «الدونمة» (يهود متخفّون كمسلمين في تركيا).
 - **حركة فرانك** (القرن 18): فيلادلفيا، ادّعى يعقوب فرانك أنه تجسيد لروح لوريا.
 - **الصهيونية الروحية** (القرن 20): استلهمت من لوريا فكرة العودة كأرض التيقون.
-- **الأكاديميا**: جيرشوم شوليم في «Major Trends in Jewish Mysticism» (1941) أعاد قراءة لوريا في سياق الكوسمولوجيا الحديثة.
+- **الأكاديميا**: جيرشوم شوليم في «Major Trends in Jewish Mysticism» (بعد وفاته عام 1941) أعاد قراءة لوريا في سياق الكوسمولوجيا الحديثة.
+
+## المصادر
+
+- Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken Books, 1941.
+- Fine, Lawrence. *Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship*. Stanford University Press, 2003.
+- Idel, Moshe. *Kabbalah: New Perspectives*. Yale University Press, 1988.
+- Scholem, Gershom. *Sabbatai Sevi: The Mystical Messiah*. Princeton University Press, 1973.

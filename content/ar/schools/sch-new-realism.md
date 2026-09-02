@@ -10,6 +10,7 @@ crumb: "الفلسفة ← التحليلية ← الواقعية الجديد�
 dates: "المملكة المتحدة والولايات المتحدة · من 1910 تقريباً إلى 1930"
 country: "المملكة المتحدة والولايات المتحدة"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1910
 active_end: 1930
 edges:
@@ -25,7 +26,7 @@ gaps:
   - "رابط مقترح لـ«جورج سانتيانا» (thk-santayana) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«جورج إدوارد مور» (thk-moore) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق الدقيق بين 'الواقعية الجديدة' بمعناها الأمريكي (مجلد 1912) ومثيلتها البريطانية عند مور وراسل لم يُقارن بشكل منهجي في المصادر الأولية بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح من بيان 1910."
+  - "الاقتباسات المباشرة من بيان 1910 المتاحة حالياً غير مؤكدة المصدر وتحتاج مراجعة من النسخة الأصلية."
   - "علاقة الحركة بمثالية برادلي المباشرة لم تُراجع بعد."
 ---
 
@@ -56,3 +57,10 @@ gaps:
 
 - الواجهة مع «الواقعية النقدية» (1916–1920) تستحق فصلاً مستقلاً، أُدرجت هنا كحلقة داخل التطور، لكنّها معرَّفة كـ`sch-critical-realism` مستقل في الأطلس.
 - تمييز «الواقعية الجديدة» عن «الواقعية المباشرة» (Direct Realism) عند مور يستحق تدقيقاً إضافياً.
+
+## المصادر
+
+- Holt, E. B., Marvin, W. T., Montague, W. P., Perry, R. B., Pitkin, W. B., & Spaulding, E. G. (1912). *The New Realism: Cooperative Studies in Philosophy*. Macmillan.
+- Perry, R. B. (1912). *Present Philosophical Tendencies*. Longmans, Green.
+- Drake, D., Lovejoy, A. O., Pratt, J. B., Rogers, A. K., Santayana, G., Sellars, R. W., & Strong, C. A. (1920). *Essays in Critical Realism*. Macmillan.
+- Moore, G. E. (1925). A Defence of Common Sense. In J. H. Muirhead (Ed.), *Contemporary British Philosophy* (2nd series). Allen & Unwin.

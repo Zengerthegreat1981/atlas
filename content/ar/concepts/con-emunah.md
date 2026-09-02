@@ -15,10 +15,14 @@ edges:
 - rel: "belongs_to", target: "sch-hasidic", target_type: "مدرسة"
 related:
 - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-saadia-gaon", title: "سعديا بن يوسف الفيومي (رأس جاؤون)", type: "مفكر"
+- id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-tillich", title: "بول تيليش", type: "مفكر"
 gaps:
   - "الفرق بين 'الإيمان البسيط' و'الإيمان العميق' (Emunah pashutah vs Emunah Ima'ah) يحتاج بحثاً."
-  - "لا يوجد اقتباس مباشر موثوق من 'شبحتا' متاح."
+  - "إسناد إعادة التفسير الظاهراتي للإيمان إلى 'لويس فايس (Judah ibn Tibbon)' غامض ومتضارب (Judah ibn Tibbon مترجم أندلسي من القرن 12، لا مفكراً حديثاً)؛ الاسم والمرجع بحاجة تحقق أو حذف."
+  - "مصدر مقولة 'شبحتا' غير موثق بإسناد ببليوغرافي دقيق (لا عنوان كتاب ولا سنة نشر) في هذا الملف."
 ---
 
 # الإيمان (إيمونا) كحالة وجودية

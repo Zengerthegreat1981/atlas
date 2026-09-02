@@ -20,7 +20,7 @@ related:
 - id: "tec-somatic-trauma", title: "العلاج الجسدي للصدمة (Somatic Trauma Therapy)", type: "تقنية/تدخل علاجي"
 - id: "wrk-waking-the-tiger", title: "إيقاظ النمر", type: "عمل / كتاب"
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
-- id: "thk-dsiegel", title: "دانيال ج. سيغل", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
@@ -29,17 +29,14 @@ related:
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 - id: "tec-somatic-experiencing-tracking", title: "تتبع الإحساس الجسدي (Sensation Tracking) في SE", type: "تقنية/تدخل علاجي"
 - id: "br-sensorimotor-trauma-applications", title: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", type: "تيار"
-- id: "thk-bvdkolk", title: "بسل فان دير كولك", type: "مفكر"
-- id: "con-titration-pendulation", title: "التقطير والتأرجح", type: "مفهوم"
-- id: "con-somatic-experiencing", title: "تجربة الجسد", type: "مفهوم"
+- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "con-titration-pendulation", title: "التقطير والبندلة في العلاج الجسدي للصدمات", type: "مفهوم"
+- id: "con-somatic-experiencing", title: "التَّجْرِبَة الْجِسَدِيَّة (Somatic Experiencing): مَنَهَج لِـ**شِفَاء الصَّدْمَة**", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
+  - "رابط مقترح غير موجود بعد في الأطلس كملف مستقل: ستيفن بورجِس (نظرية بولي فاغال، مذكور في المتن دون slug)."
   - "السيرة الذاتية المبكرة (التدريب في الفيزياء الحيوية مع هيبر وطبيعة عمله مع ناس) موثّقة في سيرته الذاتية لكنها تحتاج تحققاً إضافياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد غراند (thk-dgrand)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بابي روتشيلد (thk-rothschild)."
   - "دُمج معه الملف المكرَّر thk-peter-levine-counseling (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "الملف المكرَّر thk-peter-levine (نفس الشخص، اتُّخذ قرار الازدواج لصالح هذا الملف لأنه الأكثر ربطاً بالشبكة — راجع تقرير Task 2.49) حُوِّل إلى إحالة صريحة."
 ---
 # بيتر ليفين
 
@@ -80,6 +77,8 @@ gaps:
 - هناك جدل داخلي بين تلامذته حول بعض تفاصيل البروتوكول، كما هو شائع في أي مدرسة حية.
 - كثير من المراجع الشائعة إلى ليفين تعتمد على اقتباسات من كتبه نفسها دون تحقق من سياقها الأصلي، فينبغي الحذر.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح في هذا الملف. يلزم التحقق من نصوص ليفين الأصلية قبل اعتماد أي اقتباس.
+- Levine, P. A. (1997). *Waking the Tiger: Healing Trauma*. North Atlantic Books.
+- Levine, P. A. (2010). *In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness*. North Atlantic Books.
+- Levine, P. A., & Frederick, A. (2005). *Healing Trauma: A Pioneering Program for Restoring the Wisdom of Your Body*. Sounds True.

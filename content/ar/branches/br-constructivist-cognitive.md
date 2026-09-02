@@ -18,7 +18,7 @@ related:
 - id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ", type: "علاقة بين مدرستين"
 - id: "thk-kelly-george", title: "جورج ألكسندر كيلي", type: "مفكر"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
-- id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية", type: "تيار"
+- id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية (جورج كيلي)", type: "تيار"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
   - "أعمال مايكل ماهوني (Michael Mahoney) وفيتوريو غيدانو (Vittorio Guidano) في المعرفية التطورية وما بعد العقلانية."

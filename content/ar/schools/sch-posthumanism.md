@@ -12,12 +12,13 @@ country: "الولايات المتحدة، أوروبا"
 language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-- id: "sch-animal-liberation", title: "أخلاقيات الحيوان", type: "مدرسة"
+- id: "sch-animal-liberation", title: "أخلاقيات الحيوان / فلسفة تحرير الحيوان", type: "مدرسة"
 - id: "wrk-cyborg-manifesto", title: "بيان الكائن الهجين (A Cyborg Manifesto)", type: "عمل / كتاب"
 gaps:
   - "نصوص Donna Haraway, Cary Wolfe, Rosi Braidotti need review."
@@ -54,3 +55,10 @@ gaps:
 
 - تواجه انتقادات بسبب تجاوزها القيم الإنسانية.
 - تواجه انتقادات بسبب «استعمارية» جيوسياسية.
+
+## المصادر
+
+- Haraway, Donna. *A Cyborg Manifesto* (1985).
+- Wolfe, Cary. *What Is Posthumanism?* (University of Minnesota Press, 2010).
+- Braidotti, Rosi. *The Posthuman* (Polity Press, 2013).
+- Hayles, N. Katherine. *How We Became Posthuman* (University of Chicago Press, 1999).

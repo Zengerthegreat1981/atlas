@@ -15,14 +15,26 @@ edges:
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
+- id: "wrk-the-gay-science-nietzsche", title: "العلم الجذل لفريدريش نيتشه (Die fröhliche Wissenschaft)", type: "عمل"
+- id: "wrk-thus-spoke-zarathustra-nietzsche", title: "هكذا تكلم زرادشت لفريدريش نيتشه", type: "عمل"
+- id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 gaps:
   - "التمييز بين 'العودة الأبدية' و'الدورة الأبدية' (Ewiger Kreislauf) عند الرواقيين وعند نيتشه لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Also sprach Zarathustra' بعد."
+  - "المتن يذكر أن كانط 'انتقد' نيتشه في 'نقد العقل العملي'، وهذا تسلسل زمني مستحيل (كانط توفي 1804 قبل صياغة نيتشه للفكرة عام 1882)؛ يحتاج تصحيح أو توثيق للمصدر الفعلي لهذا النقد."
+  - "يوجد ملف عمل مكرر آخر بعنوان قريب (wrk-nietzsche-thus-spoke-zarathustra) لنفس كتاب 'هكذا تكلم زرادشت'؛ لم يُربط به تفادياً للازدواج، ويحتاج توحيد الملفين."
+  - "هذا الملف يكاد يكون نسخة مكررة من con-eternal-recurrence-nietzsche.md (نفس تاريخ النشاط 1882 ونفس الفكرة) لكن بمتن مختصر جداً وبلا محتوى فعلي هناك؛ لم يُدمج الملفان بناءً على التوجيه."
 ---
 
 # العودة الأبدية (Ewige Wiederkehr)
 
-مفهوم في فلسفة فريدريش نيتشه (Friedrich Nietzsche)، بالألمانية Ewige Wiederkehr des Gleichen، يعني أن كل ما يحدث سيعود إلى الأبد، في تسلسل دائري (Kreislauf) لا نهائي.
+مفهوم مركزي في النيتشوية (Nietzscheanism)، فلسفة فريدريش نيتشه (Friedrich Nietzsche)، بالألمانية Ewige Wiederkehr des Gleichen، يعني أن كل ما يحدث سيعود إلى الأبد، في تسلسل دائري (Kreislauf) لا نهائي.
 
 ## التعريف
 

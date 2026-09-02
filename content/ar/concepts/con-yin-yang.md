@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-yinyang", target_type: "مدرسة"
 related:
-- id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)", type: "مدرسة"
 - id: "thk-zou-yan", title: "زو يان", type: "مفكر"
-- id: "con-wuxing", title: "الدورات الخمس (五行)", type: "مفهوم"
+- id: "con-wuxing", title: "الدورات الخمس (五行 wǔxíng)", type: "مفهوم"
 gaps:
   - "التمييز بين 'الين-يانغ' في 'Zhou Yi' (كتاب التحولات) وفي 'Liji' وفي مدرسة الين-يانغ لم يُحلّ."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

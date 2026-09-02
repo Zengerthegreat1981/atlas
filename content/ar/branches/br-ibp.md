@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي", type: "تيار"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي (لوين)", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:

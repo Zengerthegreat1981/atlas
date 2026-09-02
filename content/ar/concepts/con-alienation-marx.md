@@ -13,12 +13,20 @@ edges:
 - rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-marx", target_type: "مفكر"
 related:
-- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-feuerbach", title: "لودفيغ أندرياس فيورباخ", type: "مفكر"
+- id: "thk-fromm", title: "إريك فروم", type: "مفكر"
+- id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
+- id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-axel-honneth", title: "أكسل هونيث", type: "مفكر"
+- id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
 gaps:
-  - "رابط مقترح لـ«لودفيغ فيورباخ» (thk-feuerbach) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "التمييز بين 'الاغتراب' (Entfremdung) و'الموضوعية' (Vergegenständlichung) في 'المخطوطات 1844' لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Entfremdete Arbeit' بعد."
 ---
@@ -72,6 +80,7 @@ gaps:
 ## الإرث المعاصر
 
 - **علم النفس الاجتماعي**: **إرنست بيكر** (Ernest Becker) في «**إنكار الموت**» (1973) أعاد قراءة **الاغتراب** كـ **«إنكار**» (Denial).
+- **إريك فروم** (Erich Fromm): في «**المجتمع السليم**» (The Sane Society, 1955)، أعاد صياغة **الاغتراب** الماركسي كمفهوم نفسي-اجتماعي، حيث يفقد الإنسان في المجتمع الرأسمالي شعوره بذاته كفاعل ويتحول إلى «سلعة» تُقيّم بمعايير السوق.
 - **علم النفس الوجودي**: **إرفين يالوم** (Irvin Yalom) في «**القلق**» (Existential Psychotherapy, 1980).
 - **الفلسفة المعاصرة**: **هانيبرتر يارغن** (Han-Peter Müller) و**أكسيل هونيث** (Axel Honneth) في «**الصراع والاعتراف**» (Kampf um Anerkennung, 1992) أعادوا **الاغتراب** في إطار **«الاعتراف**».
 - **الأنساق النقدية** (Critical Theory): **هابرماس** (Habermas) أعاد **الاغتراب** في إطار **«العقل التواصلي**» (Kommunikatives Handeln).

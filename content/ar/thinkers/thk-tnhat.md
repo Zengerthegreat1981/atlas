@@ -13,19 +13,19 @@ active_start: 1960
 active_end: 2022
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي التأملي (جامعة ناروبا)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-engaged-buddhism", target_type: "مدرسة"
 related:
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
 - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
+  - "تفاصيل مساره من فيتنام إلى فرنسا (منفاه بعد 1966) وتأسيس Plum Village عام 1982 بالضبط تحتاج توثيقاً أدق."
 ---
 
 # تِك نات هان
 
-لاما بوذي فيتنامي، مؤسس **"بلم مونك"** (Plum Village) أكبر دير بوذي في الغرب، وأحد أهم من نشر البوذية في أمريكا وأوروبا. اشتهر بتطبيق "اليقظة الذهنية" على الحياة اليومية.
+راهب بوذي فيتنامي من تقليد الزِن (تِيان)، مؤسس **"قرية الخوخ"** (Plum Village) أكبر دير بوذي في الغرب، وأحد أهم من نشر البوذية في أمريكا وأوروبا. اشتهر بتطبيق "اليقظة الذهنية" على الحياة اليومية.
 
 ## ما أعطاه
 
@@ -46,6 +46,7 @@ gaps:
 - *Anger* (2001).
 - *The Art of Living* (2017).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+- Nhat Hanh, T. (1975). *The Miracle of Mindfulness*. Beacon Press.
+- Nhat Hanh, T. (1998). *The Heart of the Buddha's Teaching*. Broadway Books.
+- Nhat Hanh, T. (2001). *Anger: Wisdom for Cooling the Flames*. Riverhead Books.

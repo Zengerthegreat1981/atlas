@@ -10,10 +10,13 @@ en: "Deep Work: Rules for Focused Success in a Distracted World"
 crumb: "علم النفس المعرفي والإنتاجية الرقمية ← الأعمال ← العمل العميق"
 dates: "2016 · كال نيوبورت"
 language: "الإنجليزية"
+author: "كال نيوبورت"
+author_slug: "thk-cal-newport"
+publication_year: 2016
+original_language: "الإنجليزية"
 active_start: 2016
 active_end: 2016
 edges:
-- rel: "belongs_to", target: "علم النفس المعرفي والإنتاجية الرقمية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-cal-newport", target_type: "مفكر"
 related:
 - id: "wrk-slow-productivity", title: "الإنتاجية البطيئة: الفقدان الطبيعي للإبداع والإنجاز البشري", type: "عمل / كتاب"
@@ -22,7 +25,6 @@ related:
 - id: "con-parkinsons-law", title: "قانون باركنسون (تمدد العمل ليملأ كامل الوقت المتاح)", type: "مفهوم"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # العمل العميق: قواعد للنجاح المركز في عالم مشتت
@@ -36,7 +38,3 @@ gaps:
 ## القواعد الأربع
 
 1. اعمل بعمق. 2. احتضن الملل (لا تلجأ للهاتف مع أول لحظة فراغ). 3. غادر وسائل التواصل الاجتماعي. 4. صفي الأعمال الضحلة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

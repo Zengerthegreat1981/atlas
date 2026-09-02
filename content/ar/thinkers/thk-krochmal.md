@@ -16,16 +16,15 @@ edges:
 - rel: "belongs_to", target: "sch-haskalah", target_type: "مدرسة"
 related:
 - id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"
-- id: "thk-abraham-geiger", title: "أبراهام غايغر", type: "مفكر"
-- id: "thk-solomon", title: "سليمون ميمون", type: "مفكر"
+- id: "thk-abraham-geiger", title: "أبراهام جيغر", type: "مفكر"
 - id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
 - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-- id: "sch-hegelianism", title: "الهغيلية", type: "مدرسة"
-- id: "con-guide-for-perplexed-hermeneutics", title: "دليل الحيارى (هرمنيوطيقا)", type: "مفهوم"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
 gaps:
   - "كتاب Moreh Nevukhei ha-Zeman (دليل الحيارى في الزمن) لم يُنشر في حياة كروخمَل بل بعد وفاته في 1851."
   - "لا توجد طبعة نقدية حديثة موحَّدة تجمع شظايا كتاباته اليديشية."
   - "علاقته بالـ'Young Hegelians' (David Strauss، Bruno Bauer) تحتاج توثيقاً."
+  - "رابطان في `related` كانا خاطئين وأُزيلا: `thk-solomon` يشير فعلياً إلى 'روبرت سولومون' (فيلسوف أمريكي معاصر) لا إلى سليمون ميمون كما كان مكتوباً — لا يوجد حالياً مدخل مستقل موثّق لسليمون ميمون في الأطلس؛ و`con-guide-for-perplexed-hermeneutics` عنوانه الحقيقي 'التأويل البرهاني للرموز النبوية عند ابن ميمون' وهو مفهوم مختلف تماماً عن كتاب كروخمَل (رغم تشابه الاسم بالعربية 'دليل الحيارى')."
 ---
 
 # ناحمن كروخمَل

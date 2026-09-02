@@ -12,6 +12,10 @@ language: "الصينية الكلاسيكية"
 active_start: -400
 active_end: -300
 active_source: "lifespan"
+author: "لاو تزو"
+author_slug: "thk-laozi"
+publication_year: -400
+original_language: "الصينية الكلاسيكية"
 edges:
 - rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-laozi", target_type: "مفكر"

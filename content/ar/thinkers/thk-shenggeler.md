@@ -13,17 +13,14 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج متعدد الأنظمة (MST)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-mst", target_type: "تيار"
 related:
 - id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
-- id: "thk-sschoenwald", title: "سونيا شونوالد", type: "مفكر"
-- id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
+- id: "thk-sschoenwald", title: "سونيا ك. شونوالد", type: "مفكر"
 - id: "thk-mrowland", title: "ميليسا رولاند", type: "مفكر"
 - id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز غليسون (thk-charles-glisson)."
+  - "تفاصيل تأسيسه لشركة MST Services (السنة الدقيقة وبنيتها المؤسسية) تحتاج توثيقاً من مصدر أولي."
 ---
 
 # سكوت هِنغلَر
@@ -48,6 +45,8 @@ gaps:
 - *Multisystemic Therapy* (2002، مع سوندل).
 - *Improving the Outcomes of Troubled Youth* (2009).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Henggeler, Scott W., et al. *Multisystemic Treatment of Antisocial Behavior in Children and Adolescents*. New York: Guilford Press, 1998.
+- Henggeler, Scott W., and Sonja K. Schoenwald. *Multisystemic Therapy*. Cambridge University Press, 2002.
+- Medical University of South Carolina — صفحة السيرة الأكاديمية الرسمية لسكوت هنغلر، مركز الأسرة الأبحاثية للأطفال.

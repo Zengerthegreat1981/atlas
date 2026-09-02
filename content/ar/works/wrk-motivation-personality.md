@@ -9,8 +9,12 @@ crumb: "الإنسانية ← الأعمال ← الدافعية والشخص�
 dates: "1954 · أبراهام ماسلو"
 language: "الإنجليزية"
 active_start: 1954
-active_end: 1954
+active_end: 2000
 part: "psychology"
+author: "أبراهام ماسلو"
+author_slug: "thk-maslow"
+publication_year: 1954
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-maslow", target_type: "مفكر"

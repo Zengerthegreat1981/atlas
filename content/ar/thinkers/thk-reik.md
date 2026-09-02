@@ -19,7 +19,6 @@ related:
 - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:
   - "مفهوم «المسمع الثالث» (third ear) وعلاقته بمفهوم «الحدس العلاجي» (clinical intuition) في أعمال رايك يحتاج مراجعة من نص تأسيسي."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # تيودور رايك
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 الاستماع بالمسمع الثالث (Listening with the Third Ear, 1948).
+
+## المصادر
+
+- Reik, Theodor. *Listening with the Third Ear: The Inner Experience of a Psychoanalyst*. Farrar, Straus, 1948.
+- Reik, Theodor. *Fragment of a Great Confession: A Psychoanalytic Autobiography*. Farrar, Straus and Young, 1949.
+- Natenberg, Maurice. *Theodor Reik: The Man and His Work*. Alliance Book Corp., 1955.

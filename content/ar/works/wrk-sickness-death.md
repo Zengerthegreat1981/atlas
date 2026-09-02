@@ -12,7 +12,7 @@ active_start: 1849
 active_end: 1849
 part: "philosophy"
 edges:
-- rel: "written_by", target: "كيركيغارد", target_type: "مفكر"
+- rel: "written_by", target: "thk-kierkegaard", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "كيركيغارد", type: "مفكر"

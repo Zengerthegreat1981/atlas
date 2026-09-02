@@ -13,12 +13,15 @@ edges:
 - rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
 - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
-- id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل", type: "مفهوم"
+- id: "con-brahman", title: "براهمان (المطلق / الحقيقة الكونية)", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "الفرق بين 'الداو' في 'Dao De Jing' و'Zhuangzi' و'Liji' لم يُحلّ في هذا الملف."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "رابط con-wuwei (الوو وي) حُذف لأن المتن لا يذكر المفهوم صراحةً، رغم صلته الاصطلاحية بالداووية."
+  - "هذا الملف يبدو نسخة مكررة/متشابهة إلى حد كبير مع content/ar/concepts/con-dao-the-way-concept.md؛ يحتاج قرار دمج أو تمايز واضح لاحقاً."
 ---
 
 # الداو (道) — المبدأ الكوني

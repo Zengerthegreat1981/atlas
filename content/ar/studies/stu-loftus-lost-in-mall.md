@@ -9,6 +9,11 @@ crumb: "المدرسة الوجودية ← الدراسات والأبحاث �
 active_start: 1995
 active_end: 1995
 part: "psychology"
+study_year: 1995
+design: "تجربة زرع ذاكرة شبه ميدانية (بالتعاون السري مع أفراد الأسرة، بلا مجموعة ضابطة تقليدية)"
+sample_size: 24
+main_finding: "أمكن زرع ذكرى طفولة مختلقة كاملة (الضياع في مركز تجاري) لدى 25% من المشاركين (6 من 24)، بتفاصيل عاطفية غنية لا تضمن صحتها التاريخية"
+replication_status: "replicated"
 related:
 - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"

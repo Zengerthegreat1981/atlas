@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-- id: "thk-yalom", title: "يالوم", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
 - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 - id: "thk-angel", title: "إرنست أنجل", type: "مفكر"
@@ -36,8 +36,7 @@ related:
 - id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
 - id: "crt-critique-of-existential-therapy", title: "نقد الْعِلَاج الْوُجُودِيّ: فَلْسَفَة لَا عِلَاج", type: "نقد خارجي موثَّق"
 gaps:
-  - "بيانات أعماله وتواريخها — تحتاج تثبيتاً"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "دوره الدقيق كمحرر مشارك لمجلد Existence (1958) مع إلينبرجر وأنجل يحتاج توثيقاً أدق لتوزيع الفصول."
 ---
 
 # رولو ماي
@@ -67,3 +66,9 @@ gaps:
 ## اقتباسات مختارة
 
 «نقيض الشجاعة في مجتمعنا ليس الجبن، بل المطابقة (الكونفورمية).» — شجاعة الخلق، 1975
+
+## المصادر
+
+- May, R., *The Meaning of Anxiety*, New York: Ronald Press, 1950.
+- May, R., Angel, E. & Ellenberger, H. F. (eds.), *Existence: A New Dimension in Psychiatry and Psychology*, New York: Basic Books, 1958.
+- Abzug, R. H., *Psyche and Soul in America: The Spiritual Odyssey of Rollo May*, New York: Oxford University Press, 2021.

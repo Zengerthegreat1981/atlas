@@ -16,22 +16,22 @@ register: "academic"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
-- rel: "developed", target: "العلاج المعرفي البنائي", target_type: "تيار"
+- rel: "developed", target: "br-constructivist-cognitive", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
-- id: "br-constructivist-cognitive", title: "البنائية المعرفية", type: "تيار"
+- id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
 - id: "thk-erikson", title: "إريك إريكسون", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
-- id: "con-zpd", title: "منطقة النمو القريب (ZPD)", type: "مفهوم"
-- id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي (Piaget)", type: "مفهوم"
+- id: "con-zpd", title: "منطقة النمو القريب (Zone of Proximal Development)", type: "مفهوم"
+- id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي الأربع (Piaget)", type: "مفهوم"
 - id: "con-piaget-schema", title: "المخطط (Schema)", type: "مفهوم"
 - id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة (Nature vs. Nurture): مَن يَصْنَع السُّلُوك؟", type: "جدل"
 gaps:
   - "تفاصيل أبحاثه المبكرة في علم الأحياء (malacology) قبل تحوّله إلى علم النفس غير موثّقة في ملف ثانوي موثوق بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لم يُعثر على اقتباس مباشر قابل للتوثيق بمصدر وصفحة محددة، فحُذف قسم الاقتباسات."
 ---
 
 # جان بياجيه
@@ -42,7 +42,7 @@ gaps:
 
 ### المنهج العيادي (La méthode clinique)
 
-قبل أن يصوغ نظريته، طوّر بياجيه منهجاً بحثياً فريداً في دراسة تفكير الأطفال: **المقابلة العيادية شبه السريرية** (méthode clinique، العشرينيات من القرن العشرين). لا يطرح على الطفل أسئلة بنعم/لا، بل يضع أمامه مواقف مفتوحة (مثلاً: "ما هذان السائلان؟ هل لهما نفس الكمية؟ وأيهما أكثر؟")، ويراقب كيف يفكّر، ويسجّل الحجج التي يستخدمها. هذا المنهج مكّنه من الوصول إلى بنية تفكير الطفل لا مجرد الإجابات الصحيحة أو الخاطئة. طوّر هذا المنهج تحت إشراف كارل يونغ وتيودور فلوغل في زيورخ، ثم طبّقه في مختبر ألفريد بينيه في باريس على أطفال المدارس الابتدائية.
+قبل أن يصوغ نظريته، طوّر بياجيه منهجاً بحثياً فريداً في دراسة تفكير الأطفال: **المقابلة العيادية شبه السريرية** (méthode clinique، العشرينيات من القرن العشرين). لا يطرح على الطفل أسئلة بنعم/لا، بل يضع أمامه مواقف مفتوحة (مثلاً: "ما هذان السائلان؟ هل لهما نفس الكمية؟ وأيهما أكثر؟")، ويراقب كيف يفكّر، ويسجّل الحجج التي يستخدمها. هذا المنهج مكّنه من الوصول إلى بنية تفكير الطفل لا مجرد الإجابات الصحيحة أو الخاطئة. عمل بياجيه فترة قصيرة في عيادة بلويلر النفسية (Burghölzli) بزيورخ، حيث تعرّف على أفكار كارل يونغ التحليلية، ثم انتقل إلى باريس وعمل مع تيودور سيمون (Théodore Simon، شريك ألفريد بينيه في تصميم مقياس بينيه-سيمون) على تقنين اختبارات المنطق عند الأطفال في مختبر بينيه.
 
 ### المراحل الأربع الكبرى للتطور المعرفي
 
@@ -91,6 +91,9 @@ gaps:
 - **علم النفس المعرفي** (*La Psychologie de l'Intelligence*, 1947) — عرض ناضج لنظريته.
 - **علم النفس عند الطفل** (*La Psychologie de l'Enfant*, 1969، مع باربل إنهلدر) — العرض المنهجي الأخير للمراحل الأربع.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح في هذا الملف.
+- Piaget, J. (1923). *Le Langage et la Pensée chez l'Enfant*. Delachaux et Niestlé.
+- Piaget, J. (1936). *La Naissance de l'Intelligence chez l'Enfant*. Delachaux et Niestlé.
+- Piaget, J. (1937). *La Construction du Réel chez l'Enfant*. Delachaux et Niestlé.
+- Piaget, J., & Inhelder, B. (1969). *The Psychology of the Child*. Basic Books.

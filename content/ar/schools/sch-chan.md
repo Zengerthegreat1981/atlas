@@ -12,12 +12,13 @@ country: "الصين"
 language: "الصينية الكلاسيكية"
 active_start: 600
 active_end: 1300
+cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-huayan", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
 - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
 - id: "sch-huayan", title: "هوايان (الصينية)", type: "مدرسة"
@@ -84,3 +85,9 @@ gaps:
 - **أسطورة Huineng**: شاب أمي في الحكاية التقليدية، يحتمل أن يكون أحرى من أحفاد أثرياء. الفحص النصّي للـPlatform Sutra يكشف عن تركيبات متعددة.
 - **التاريخ المضاد (Zhu Xi)**: النقد الكونفوشي الجديد لـ Chan: «لا دراسة، لا تعلّم، لا فهم» نقدٌ لفظي.
 - **الانقسام**: Linji (Rinzai) وCaodong (Sōtō) — تفسيرات مختلفة للـMumonkan (كتاب الزن).
+
+## المصادر
+
+- Dumoulin, Heinrich. (1988). *Zen Buddhism: A History, Volume 1: India and China*. Macmillan.
+- McRae, John R. (2003). *Seeing Through Zen: Encounter, Transformation, and Genealogy in Chinese Chan Buddhism*. University of California Press.
+- Yampolsky, Philip B. (trans.). (1967). *The Platform Sutra of the Sixth Patriarch*. Columbia University Press.

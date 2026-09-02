@@ -12,10 +12,8 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-memory", title: "الذاكرة", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
@@ -23,18 +21,18 @@ related:
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل ذات المراقب", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل الذات المُلاحِظة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "تهدئة الذات بالحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-observe", title: "لاحظة", type: "تقنية/تدخل علاجي"
-- id: "tec-emdr", title: "إعادة المعالجة عبر حركات العين (EMDR)", type: "تقنية/تدخل علاجي"
-- id: "tec-ifs", title: "العلاج بأنظمة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
-- id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحسي-الحركي", type: "تقنية/تدخل علاجي"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "tec-ifs", title: "علاج منظومة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
+- id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحركي الحسي", type: "تقنية/تدخل علاجي"
 - id: "tec-somatic-experiencing", title: "تجربة الجسد", type: "تقنية/تدخل علاجي"
 - id: "syn-ganser", title: "متلازمة غانسر (متلازمة الإجابات التقريبية وعته السجون)", type: "متلازمة"
 - id: "syn-grisi-siknis", title: "متلازمة غريسي سيكنيس (الهستيريا الجماعية لشعب الميسكيتو)", type: "متلازمة"
@@ -45,12 +43,19 @@ related:
 gaps:
   - "معدّل الانتشار الحقيقي لفقدان الذاكرة التفارقي محدود بسبب التحيّز في الإبلاغ والتمييز الصعب عن النسيان العادي."
   - "الحدود بين فقدان الذاكرة التفارقي والـC-PTSD والـDID تحتاج مراجعة دقيقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # فقدان الذاكرة التفارقي
 
 اضطراب يتميّز بفجوات في الذاكرة لا يمكن تفسيرها بالنسيان العادي، تتضمن عدم القدرة على استرجاع معلومات شخصية مهمة (عادة من النوع التفارقي الموضعي أو المنتشر أو المتعمّم)، لا تُفسَّر بحالة طبية عصبية أو تأثير مادة، وتسبب ضائقة ملحوظة أو خللاً وظيفياً.
+
+## السقف الإكلينيكي
+
+هذا المدخل يلتزم بوصف فقدان الذاكرة التفارقي معرفياً كفئة تشخيصية موثّقة في DSM-5-TR وICD-11، دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. تحديد ما إذا كانت فجوة ذاكرة بعينها تستوفي هذا التشخيص يتطلب تقييماً إكلينيكياً متخصصاً يستبعد الأسباب العضوية والمحاكاة.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين فقدان الذاكرة التفارقي كفئة تشخيصية سريرية محددة الحدود وبين الذاكرة (con-memory) كمفهوم فلسفي ومعرفي أوسع عن استمرارية الهوية والوعي عبر الزمن — كما تناوله برغسون في "المادة والذاكرة" (المُشار إليه ضمن con-memory)، حيث الذاكرة بناء وجودي مستمر للذات، لا مجرد آلية تخزين قابلة للعطب. اضطراب فقدان الذاكرة التفارقي هو انقطاع إكلينيكي محدد المعايير في هذه الوظيفة، وليس تأملاً فلسفياً في طبيعة الذاكرة ذاتها أو في علاقتها بالزمن والهوية.
 
 ## ملاحظات على المعايير التشخيصية
 

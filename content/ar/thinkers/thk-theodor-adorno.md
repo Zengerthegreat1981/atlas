@@ -19,8 +19,7 @@ related:
 - id: "thk-max-horkheimer", title: "ماكس هوركهايمر", type: "مفكر"
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 gaps:
-  - "مفهوم صناعة الثقافة (Culture Industry) والديالكتيك السلبي (Negative Dialectics)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تفاصيل منهجية دراسة «الشخصية التسلّطية» (حجم العيّنة الدقيق، صياغة بنود مقياس F الكاملة) تحتاج مراجعة من المصدر الأولي (Adorno et al., 1950) لا من ملخصات ثانوية."
 ---
 
 # تيودور أدورنو
@@ -46,8 +45,15 @@ gaps:
 - *Minima Moralia* (1951).
 - *The Authoritarian Personality* (1950، بالاشتراك).
 - *Negative Dialektik* (الجدل السلبي، 1966).
-- *Ästhetische Theorie* (نظرية جمالية، 1970، بعد وفاته).
+- *Ästhetische Theorie* (نظرية جمالية، صدرت بعد وفاته عام 1970).
 
 ## اقتباسات مختارة
 
 «لا حياة صحيحة في الحياة الخاطئة.» (Minima Moralia)
+
+## المصادر
+
+- Adorno, T. W., & Horkheimer, M. (1944). *Dialektik der Aufklärung*. (نُشر لاحقاً كـ*Dialectic of Enlightenment*).
+- Adorno, T. W. (1951). *Minima Moralia: Reflexionen aus dem beschädigten Leben*.
+- Adorno, T. W., Frenkel-Brunswik, E., Levinson, D. J., & Sanford, R. N. (1950). *The Authoritarian Personality*. Harper & Brothers.
+- Adorno, T. W. (1966). *Negative Dialektik*.

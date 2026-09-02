@@ -13,10 +13,12 @@ language: "الفرنسية"
 active_start: 1945
 active_end: 1980
 edges:
-- rel: "belongs_to", target: "السيميائيات وما بعد البنيوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
+related:
+- id: "sch-structuralism", title: "البنيوية (Structuralisme)", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # رولان بارت

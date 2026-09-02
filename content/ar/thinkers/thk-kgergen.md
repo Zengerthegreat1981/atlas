@@ -13,7 +13,7 @@ active_start: 1973
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "البنائية الاجتماعية (Social Constructionism)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-social-constructionism", target_type: "تيار"
 related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "thk-depston", title: "ديفيد إبستون", type: "مفكر"

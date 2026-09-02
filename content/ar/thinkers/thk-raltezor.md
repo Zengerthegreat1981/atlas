@@ -2,41 +2,45 @@
 slug: "thk-raltezor"
 id: "THK-1776"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "روبرتو آلتِزور"
 en: "Roberto Altezor"
-crumb: "مدرسة التحليل النفسي ← الناس ← روبرتو آلتِزور"
-dates: "أوروغواي · [غير مؤكد]"
-country: "أوروغواي"
-language: "الإسبانية"
 part: "philosophy"
-active_start: null
-active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-adelaserna", title: "أغوستين دي لا سيرنا", type: "مفكر"
-- id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "**حُجر 2026-08-27:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة — الملف نفسه اعترف بعدم العثور على سيرة مستقلة موثّقة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-raltezor.md.archived.2026-08-27"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
 ---
 
 # روبرتو آلتِزور
 
-محلّل يونغي وطبيب نفسي أوروغوياني، أستاذ في Universidad de la República (مونتفيديو).
+(Roberto Altezor)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-raltezor.md.archived.2026-08-27`
 
-في «Bion y Jung: Una Comparación Clínica» (العقد الأول من القرن الحادي والعشرين) أجرى «مقارنة» منهجية بين مدرسة بيون (Object Relations) ومدرسة يونغ، فأظهر التقاطعات في «اللغة الرمزية» و«التفكير بالأصل». كذلك درّب عدداً من المحلّلين في SUAPA مع دي لا سيرنا. كذلك شارك في مؤتمرات IAAP.
+انظر `agents_specs/quarantine-minimax.md` (القسم 2 — حجر روتيني) للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-«صوت التحليلية–العلائقية» في أوروغواي، جسر بيون–يونغ.
+هذا المفكر ورد في دفعة تدقيق قرائي T3 لـMiniMax، والملف نفسه — قبل الحجر — كان
+نصاً يعترف صراحةً بعدم العثور على سيرة أكاديمية مستقلة موثّقة لهذا الاسم في
+قواعد البيانات الأكاديمية ذات الصلة (حتى آب 2026)، رغم اقتراح عدة احتمالات لبس
+مع أشخاص آخرين. طبقاً للقاعدة 11 في MINIMAX.md، الشك المعترف به في المتن يحسم
+القرار: حجر، لا نشر سيرة واثقة الشكل.
 
-## القيد
-موقعه في الذاكرة الدولية ضعيف.
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة
+بشكل مستقل، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-## أهم أعماله
+## للمتابعة
 
-Bion y Jung (العقد الأول من القرن الحادي والعشرين).
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-raltezor.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 2)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-raltezor.md.archived.2026-08-27`
+- طلبات البحث: `agents_specs/requests-minimax.md`

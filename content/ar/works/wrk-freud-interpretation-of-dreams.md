@@ -7,6 +7,10 @@ level: "متقدم"
 title: "كتاب تفسير الأحلام لسيغموند فرويد (1899)"
 en: "The Interpretation of Dreams (Die Traumdeutung) by Sigmund Freud"
 crumb: "التحليل النفسي الكلاسيكي ← أمهات الأعمال ← تفسير الأحلام"
+author: "سيغموند فرويد"
+author_slug: "thk-freud"
+publication_year: 1899
+original_language: "الألمانية"
 active_start: null
 active_end: "مستمر"
 edges:

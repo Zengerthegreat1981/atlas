@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج التكاملي-النمائي (DIR/Floortime)", target_type: "مدرسة"
+edges: []
 related:
 - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"

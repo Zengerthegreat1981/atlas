@@ -7,17 +7,17 @@ level: "متوسط"
 title: "الشاكتية والتانترا الفلسفية"
 en: "Shākta Philosophy and Tantra"
 crumb: "الفلسفة ← الهند ← المدارس غير الأرثوذكسية ← الشاكتية والتانترا"
-dates: "الهند · من القرن 5 م إلى القرن 18 م"
+dates: "الهند · من القرن 5 م إلى اليوم"
 country: "شبه القارة الهندية"
 language: "السنسكريتية"
 active_start: 400
-active_end: 1800
-edges:
-- rel: "belongs_to", target: "التقاليد التانترية", target_type: "مظلة"
+active_end: "مستمر"
+cultural_origin: "indian"
+edges: []
 related:
 - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
 - id: "sch-kagyu", title: "كاغيو (البوذية التبتية)", type: "مدرسة"
-- id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية", type: "مدرسة"
+- id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية (ترِكا)", type: "مدرسة"
 - id: "sch-shaiva-siddhanta", title: "شايفا سيدهانتا", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«فاجرايانا» (sch-buddhism-vajrayana) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -61,3 +61,9 @@ gaps:
 
 - ارتباطها بممارسات جنسية غامضة يجعلها عرضة لسوء الفهم.
 - النصوص في بعضها متأخرة وقد لا تمثّل الأصل الفلسفي بدقة.
+
+## المصادر
+
+- David Gordon White, *Kiss of the Yogini: "Tantric Sex" in its South Asian Contexts* (University of Chicago Press, 2003).
+- Gavin Flood, *The Tantric Body: The Secret Tradition of Hindu Religion* (I.B. Tauris, 2006).
+- June McDaniel, *Offering Flowers, Feeding Skulls: Popular Goddess Worship in West Bengal* (Oxford University Press, 2004).

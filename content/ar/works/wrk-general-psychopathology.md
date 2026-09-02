@@ -8,15 +8,19 @@ en: "Allgemeine Psychopathologie"
 language: "الألمانية"
 crumb: "المدرسة الوجودية ← الأعمال ← علم النفس المرضي العام"
 dates: "1913 · ياسبرز"
+author: "كارل ياسبرز"
+author_slug: "thk-jaspers"
+publication_year: 1913
+original_language: "الألمانية"
 active_start: 1913
 active_end: 1913
 part: "psychology"
 edges:
-- rel: "written_by", target: "ياسبرز", target_type: "مفكر"
+- rel: "written_by", target: "thk-jaspers", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-jaspers", title: "ياسبرز", type: "مفكر"
-- id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة بين مدرستين"
+- id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

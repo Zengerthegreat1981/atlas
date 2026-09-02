@@ -19,9 +19,9 @@ related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
-- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل / كتاب"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـلويجي باريزون."
   - "نظرية 'الأنطولوجيا التأويلية للحرية ومأساة الوجود' تستحق إدراجاً مفاهيمياً."
 ---
 
@@ -42,4 +42,4 @@ gaps:
 
 ## أهم أعماله
 
-الوجودية وفلسفة الوجود (Studi sull'esistenzialismo, 1943) · التأويلية وفلسفة الحرية (Verità e interpretazione, 1971) · أنطولوجيا الحرية (Ontologia della libertà, 1995).
+الوجودية وفلسفة الوجود (Studi sull'esistenzialismo, 1943) · التأويلية وفلسفة الحرية (Verità e interpretazione, 1971) · وكتابه الأخير الصادر بعد وفاته سنة 1995، أنطولوجيا الحرية (Ontologia della libertà).

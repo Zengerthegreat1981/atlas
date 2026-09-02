@@ -12,6 +12,7 @@ country: "مصر، سوريا، القسطنطينية، روما، الأندل
 language: "اليونانية، السريانية، اللاتينية، العربية"
 active_start: 400
 active_end: 1400
+cultural_origin: "greek"
 edges:
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
@@ -23,7 +24,7 @@ related:
 - id: "con-negative-attributes", title: "الصفات السلبية (Via Negativa)", type: "مفهوم"
 gaps:
   - "نصوص 'الأسماء الإلهية' و'اللاهوت الغامض' المنسوبة للديونيسيوس (Pseudo-Dionysius) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Mystical Theology' أو 'Cloud of Unknowing'."
+  - "يفتقر الملف لاقتباس مباشر من نسخة أصلية محقَّقة لـ'Mystical Theology' أو 'Cloud of Unknowing'."
   - "التمييز بين اللاهوت السلبي و'العدمية' الفلسفية موضوع خلافي."
 ---
 
@@ -113,3 +114,10 @@ gaps:
 - **التحكّم**: هل هو طريقة هروب من المسؤولية اللاهوتية؟ الردّ: الأبوفاتي لا يُعفي من الصمت الأخلاقي، بل يضعه في إطار تكريم الله.
 - **الاستحالة العقلية**: هل يمكن أن يكون اللاهوت «السلبي» علماً؟ نعم، في المعنى الذي قدّمه ديونيسيوس وPalamas: هو **علم** للنفي المنظّم، لا علم للمجهول البحت.
 - **التمييز من الألوهية السُّنْية**: في اللاهوت الإسلامي، تختلف الأبوفاتي عن «**التشبيه**» (Tashbih) و«**التنزيه**» (Tanzih). اللاهوت السلبي المسيحي يقترب من التنزيه.
+
+## المصادر
+
+- Pseudo-Dionysius the Areopagite, *The Complete Works*, trans. Colm Luibheid, Paulist Press, 1987.
+- Vladimir Lossky, *The Mystical Theology of the Eastern Church*, James Clarke & Co., 1957.
+- Andrew Louth, *Denys the Areopagite*, Continuum, 1989.
+- Deirdre Carabine, *The Unknown God: Negative Theology in the Platonic Tradition*, Peeters, 1995.

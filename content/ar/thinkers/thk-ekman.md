@@ -12,13 +12,10 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: 1957
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الانفعالي ولغة الجسد", target_type: "مدرسة"
+edges: []
 related:
-- id: "sch-cft", title: "علاج التركيز على المشاعر", type: "مدرسة"
-- id: "sch-ifs", title: "نظام الأسرة الداخلية", type: "مدرسة"
-- id: "con-primary-emotion", title: "الانفعال الأوّلي", type: "مفهوم"
-- id: "con-emotional-intelligence", title: "الذكاء الانفعالي", type: "مفهوم"
+- id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
+- id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
 gaps:
   - "نظريته 'Neurocultural' في إدارة التعبيرات لم تُترجم كاملة إلى العربية."
   - "نقده لـLisa Feldman Barrett (نظرية البنية) لم يُجمَع في مرجع واحد."
@@ -35,9 +32,8 @@ gaps:
 - **"نظرية الانفعالات الأساسية" (Basic Emotions Theory, 1971–1992)**: تعرّف ستّ انفعالات "أساسية" عالمياً: السعادة، الحزن، الغضب، الخوف، الاشمئزاز، الدهشة. لكلّ انفعال "إشارة وجهية" عالمية (cross-cultural universal) راسخة بيولوجياً.
 - **"كشف الخداع" (Telling Lies, 1985، 4th ed. 2009)**: كتابه الأكثر شعبية الذي يحدّد "علامات الكذب" الميكرو-تعبيرية (Micro-expressions)، مع تطبيقات عملية للمحققين والمعالجين.
 - **"عبر-ثقافي / عبر-عرقي" (1971, مع Friesen)**: دراسة ميدانية شهيرة في فورو (Papua New Guinea) مع شعب الـFore، لإثبات أنّ تعابير الوجه "عالمية" لا "ثقافية".
-- **"إطار 'العاطفة المُلتقطة' (Appraisal Theory)": مع Richard Lazarus، تبنّى "نظرية التقييم" (Appraisal Theory) التي تقول إنّ الانفعال ينشأ من تقييمنا المعرفي للموقف.
 - **"النظرية العصبية الثقافية" (Neurocultural Theory, 1972)**: تفسيره لـ"قواعد العرض" (Display Rules) الثقافية التي تعدّل التعبير الفطري.
-- **"نظام FACS" للوجه الفردي**: تطويره لإصدار FACS 2.0 في 2002.
+- **"نظام FACS" للوجه الفردي**: تطويره لإصدار FACS 2002 (مع Friesen وHager).
 
 ## موقعه من التيار
 
@@ -54,7 +50,3 @@ gaps:
 - *Nonverbal Messages: Cracking the Code* (محرر مع Murphy، 2005).
 - *What the Face Reveals* (محرر مع Rosenberg، 2nd ed. 2005).
 
-## اقتباسات مختارة
-
-> "ليست كلّ انفعالاتنا سطحية، بعضها عميق بما يكفي ليُغيّر حياتنا."
-> *(Emotions Revealed, المقدّمة، 2003، ترجمة تقريبية)*

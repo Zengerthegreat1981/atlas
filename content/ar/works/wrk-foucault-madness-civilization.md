@@ -8,8 +8,12 @@ en: "Madness and Civilization: A History of Insanity in the Age of Reason"
 crumb: "فلسفة الطب النفسي ← الأعمال ← الجنون والحضارة"
 dates: "1961 · ميشيل فوكو"
 language: "الفرنسية (الأصلية)"
+author: "ميشيل فوكو"
+author_slug: "thk-foucault"
+publication_year: 1961
+original_language: "الفرنسية"
 active_start: 1961
-active_end: 1961
+active_end: 1990
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"

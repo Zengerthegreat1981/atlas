@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الإيجابي الإسلامي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-islamic-positive-psychology", target_type: "تيار"
 related:
 - id: "thk-mkhalifa", title: "محمد خليفة", type: "مفكر"
 - id: "thk-saathar", title: "شاهيد أثير", type: "مفكر"

@@ -10,6 +10,7 @@ crumb: "الفلسفة ← كوريا ← سيلهاك"
 dates: "كوريا (سلالة جوسون) · من القرن 17 إلى القرن 19 م"
 country: "كوريا"
 language: "الصينية الكلاسيكية (مخلوطة بالـ Hanja المبسّط)"
+cultural_origin: "east-asian"
 active_start: 1600
 active_end: 1894
 active_source: "lifespan"
@@ -18,7 +19,7 @@ edges:
 - rel: "split_into", target: "sch-donghak", target_type: "مدرسة"
 related:
 - id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
-- id: "sch-donghak", title: "دونغهاك", type: "مدرسة"
+- id: "sch-donghak", title: "دونغهاك / تشوندوغيو", type: "مدرسة"
 gaps:
   - "تفاصيل كتابات بي يَئونغ-إيل (Pak T'ae-wŏn) و(Chŏng Yag-yong) باللغات الكورية الأصلية لم تُراجع هنا."
   - "العلاقة الدقيقة بين سيلهاك وحركة 'الإصلاح' في نهاية جوسون (1880-1894) تحتاج تحقيقاً أعمق."
@@ -31,7 +32,7 @@ gaps:
 
 ## السياق
 
-- سلالة جوسون (1392-1910) في القرن 17 واجهت:
+- سلالة جوسون (1392، وانتهت رسمياً بعد وفاته عام 1910) في القرن 17 واجهت:
   - **الأزمة الاقتصادية**: تآكل قاعدة الضرائب، انهيار الفلاحين.
   - **الضغط الياباني والصيني**: منطقتي الحرب الحدودية (1636-1637) ثم السقوط المنغولي.
   - **التكلّس الفكري**: هيمنة النيوكونفوشية الصارمة في النخبة Yangban.
@@ -65,8 +66,15 @@ gaps:
 
 ## الإرث
 
-- مهدّت سيلهاك لثورة الإصلاح الكورية (Gwangmu, 1897-1907).
+- مهدّت سيلهاك، بعد وفاة مفكريها، لثورة الإصلاح الكورية (Gwangmu, بعد وفاتهم في 1897-1907).
 - أثّرت في **دونغهاك** (Donghak) (انظر `sch-donghak`).
-- شكّلت الخلفية الفلسفية للحركة الاستقلالية (1919) والحركة الديمقراطية (1980s).
+- شكّلت أفكارهم، بعد وفاتهم، الخلفية الفلسفية للحركة الاستقلالية (بعد وفاتهم في 1919) والحركة الديمقراطية (بعد وفاتهم في 1980s).
 - في القرن 20-21، أُعيد تقييم سيلهاك كـ«**فجر التحديث الكوري (Korean Enlightenment)**» في أعمال **Kim Kichan** و**Han Jung-ok** و**Yi Dong-yŏp**.
 - في الأدب المقارن، تربط بعض الدراسات بين سيلهاك و**الثقافة الكونفوشية الإنارة (Confucian Enlightenment)** في فيتنام (Nguyễn Trường Tộ).
+
+## المصادر
+
+- Palais, James B. *Confucian Statecraft and Korean Institutions: Yu Hyŏngwŏn and the Late Chosŏn Dynasty*. Seattle: University of Washington Press, 1996.
+- Setton, Mark. *Chŏng Yagyong: Korea's Challenge to Orthodox Neo-Confucianism*. Albany: SUNY Press, 1997.
+- Kalton, Michael C. "Chŏng Tasan's Philosophy of Man: A Radical Critique of Neo-Confucian Metaphysics." *Journal of Korean Studies* 3 (1981).
+- Lee, Peter H. & de Bary, Wm. Theodore (eds.). *Sources of Korean Tradition, Vol. 2*. New York: Columbia University Press, 2000.

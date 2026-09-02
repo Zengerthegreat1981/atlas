@@ -9,8 +9,13 @@ crumb: "المدرسة الوجودية ← الأعمال ← الفلسفة و
 part: "psychology"
 active_start: null
 active_end: "مستمر"
+author: "ريتشارد رورتي"
+author_slug: "thk-rorty"
+publication_year: 1979
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-rorty", target_type: "مفكر"
 related:
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"

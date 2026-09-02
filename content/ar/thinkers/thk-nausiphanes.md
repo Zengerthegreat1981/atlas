@@ -13,13 +13,13 @@ language: "اليونانية القديمة"
 active_start: -330
 active_end: -300
 edges:
-- rel: "belongs_to", target: "المدرسة الذرية القديمة", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
 - id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
 - id: "thk-leucippus", title: "لوقيبوس الميليسي", type: "مفكر"
 - id: "thk-epicur", title: "أبيقور الساموسي", type: "مفكر"
 - id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
-- id: "con-atom-void", title: "ذرة وفراغ (Atomos & Kenon)", type: "مفهوم"
+- id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"
 gaps:
   - "تاريخ الميلاد والوفاة غير محسوم (يُقدَّر نحو 360–300 ق.م)."
   - "آثاره الأصلية مفقودة، و يُعرف من خلال شهادة ديوجانس اللايرتيوس وأبيقور ذاته."
@@ -49,6 +49,12 @@ gaps:
 - *Peri Psyches (حول النفس)* — في طبيعة النفس من منظور الذرية.
 - *Peri Logou (حول اللوغوس)* — في المنطق الذري.
 - *Peri Anomoiou (حول التفاوت)* — في نقد المساواة الديمقراطية.
+
+## المصادر
+
+- Diogenes Laertius. *Lives of the Eminent Philosophers*, Book X (شهادة أبيقور عن معلمه نوسيفانس، المصدر القديم الرئيسي).
+- Sextus Empiricus. *Against the Mathematicians*, VII (شواهد متفرقة على منهجه في الإدراك).
+- Warren, J. (2002). *Epicurus and Democritean Ethics: An Archaeology of Ataraxia*. Cambridge University Press (فصل عن علاقة نوسيفانس بأبيقور وديموقريطس).
 
 ## خلاصة
 

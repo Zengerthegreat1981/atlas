@@ -15,14 +15,14 @@ active_end: 1342
 edges:
 - rel: "belongs_to", target: "sch-latin-averroism", target_type: "مدرسة"
 related:
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
-- id: "thk-siger-brabant", title: "سيجَر دي برابان", type: "مفكر"
-- id: "thk-boethius-dacia", title: "بوئيثيوس الداكي", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
+- id: "thk-siger-brabant", title: "سيجير دي برابانت", type: "مفكر"
+- id: "thk-boethius-dacia", title: "بوئيثيوس الدَّنماركي (Boethius of Dacia)", type: "مفكر"
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
-- id: "thk-augustine", title: "أوغسطين", type: "مفكر"
-- id: "thk-william-ockham", title: "وليام الأوكامي", type: "مفكر"
+- id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
+- id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "sch-latin-averroism", title: "الرشدية اللاتينية", type: "مدرسة"
-- id: "sch-scholasticism", title: "السكولائية", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
 gaps:
   - "علاقته بِWilliam of Ockham في بلاط لودفيغ الباباوي (ميونخ) لم تُوثَّق في رسائل."
@@ -56,7 +56,8 @@ gaps:
 - *Tractatus de jurisdictione imperatoris in causis matrimonialibus* (مفقود).
 - *De potestate Romani imperatoris* (مخطوط في جامعة Erlangen).
 
-## اقتباسات مختارة
+## المصادر
 
-> "السلطة التشريعية تعود إلى الشعب، أو إلى أغلب المواطنين، بحسب ما يُقرّره هو."
-> *(Defensor Pacis, الجزء الأوّل، الفصل 12، الآية 3، ترجمة: آن جيبونز)*
+- Marsilius of Padua, *Defensor Pacis*, trans. Alan Gewirth (Columbia University Press, 1956).
+- Alan Gewirth, *Marsilius of Padua: The Defender of Peace, Vol. I: Marsilius of Padua and Medieval Political Philosophy* (Columbia University Press, 1951).
+- Annabel Brett (trans. & ed.), Marsilius of Padua, *The Defender of the Peace* (Cambridge University Press, 2005).

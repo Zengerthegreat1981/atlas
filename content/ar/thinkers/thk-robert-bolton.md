@@ -13,13 +13,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: 2010
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي ومهارات التواصل", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-people-skills", title: "مهارات التعامل مع الناس", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا مدرسة (`sch-`) موثّقة في الأطلس بعنوان «علم النفس الشعبي ومهارات التواصل» — الرابط الأصلي كان نصاً حراً غير محوَّل لـslug، حُذف وسُجِّل طلب مدرسة في requests-minimax.md."
 ---
 
 # روبرت بولتون
@@ -52,7 +51,3 @@ gaps:
 - *People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts* (1979).
 - *Social Style/Management Style* (1984، مع دوروثي غروفر بولتون).
 - *People Styles at Work* (1996، معها).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

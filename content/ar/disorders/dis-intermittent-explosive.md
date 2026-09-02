@@ -12,30 +12,28 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-dichotomy-of-control", title: "ثنائية التحكم", type: "مفهوم"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-identifying-core-beliefs-schemas", title: "تحديد المعتقدات الجوهرية والمخططات المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوّهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي الجسدي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-role-playing", title: "لعب الأدوار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-role-playing", title: "تمثيل الأدوار", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-conflict-resolution-training", title: "تدريب حلّ النزاع", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-conflict-resolution-training", title: "تدريب حل النزاعات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "تدوين اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-crisis-survival-planning", title: "تخطيط البقاء في الأزمات", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-crisis-survival-planning", title: "خطة النجاة من الأزمات", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
@@ -53,12 +51,19 @@ gaps:
   - "الفاعلية النسبية لـ CBT مقابل DBT في IED لم تُقارَن بدقة من مصدر أولي."
   - "الفاعلية المحدودة لمثبطات استرداد السيروتونين والأدوية المُعدِّلة للمزاج في IED لم تُقارَن من مصدر أولي."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الانفجار المتقطع
 
 اضطراب في التحكم في الانفعالات يتميز بنوبات متكررة من السلوك العدواني المندفع الذي يتناسب طردياً مع المُحفِّز (أو لا يتناسب معه)، ويتجلى في اعتداء جسدي على أشخاص أو ممتلكات، أو اعتداء لفظي. النوبات ليست مُخطَّطة، تأتي بشكل اندفاعي، ويشعر الشخص بعدها عادةً بالندم أو الإرهاق.
+
+## السقف الإكلينيكي
+
+هذا العنصر يلتزم بوصف الفئة التشخيصية "اضطراب الانفجار المتقطع" معرفياً — معاييرها في DSM-5-TR (نوبات متكررة، تكرار وشدة محددة، استبعاد أسباب أخرى) وترميزها 6C73 في ICD-11 — دون تقديم أي تقييم تشخيصي مباشر للقارئ. الغضب العابر أو نوبة انفعال واحدة لا يستوفيان هذه الفئة؛ الوصف هنا للنمط المتكرر الموثَّق بمعايير مدة وتكرار محددة.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الانفجار المتقطع كفئة تشخيصية (فشل متكرر وموثَّق في تثبيط الدوافع العدوانية، بمعايير تكرار ومدة محددة في DSM-5-TR) وبين "ثنائية التحكم" (dichotomy of control) كما صاغها إبكتيتوس والرواقيون (العنصر con-dichotomy-of-control الموجود مسبقاً في هذا الأطلس) — الأخير مبدأ فلسفي أخلاقي عام عن التمييز بين ما يقع تحت إرادتنا وما لا يقع، ينطبق على كل البشر كموقف حكمة عملية، لا فئة مرضية تصف خللاً عصبياً/سلوكياً محدداً في تثبيط العدوان. برامج إدارة الغضب المُستخدمة فعلياً في علاج IED (كـ Anger Management Therapy) تستعير من هذا المبدأ الرواقي دون أن يعني ذلك تطابق الفئتين.
 
 ## ملاحظات على المعايير التشخيصية
 

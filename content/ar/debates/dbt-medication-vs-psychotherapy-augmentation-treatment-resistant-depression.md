@@ -16,8 +16,8 @@ related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "dbt-medication-vs-psychotherapy-stard-sequencing", title: "جدل تسلسل علاج الاكتئاب", type: "جدل"
-- id: "dbt-antidepressants-efficacy-debate", title: "جدل الفاعلية البيولوجية لمضادات الاكتئاب", type: "جدل"
+- id: "dbt-medication-vs-psychotherapy-stard-sequencing", title: "جِدَل التَّسْلْسُل فِي عِلَاج الِاكْتِئَاب: دَوَاء أَوْ عِلَاج نَفْسِيّ أَوْ الْاِئْتِلَاف؟", type: "جدل"
+- id: "dbt-antidepressants-efficacy-debate", title: "جدل الفاعلية البيولوجية لمضادات الاكتئاب وفرضية السيروتونين", type: "جدل"
 gaps:
   - "بروتوكول Maudsley (Treatment-Resistant Depression) يحتاج توثيقاً معمقاً بالعربية"
   - "معدل استجابة ECT (العلاج بالصدمات الكهربائية) في الاكتئاب المقاوم مفقود"
@@ -32,9 +32,9 @@ gaps:
 
 ## الْمَوْقِف الْأَوَّل: الْإِضَافَة الدَّوَائِيَّة (Pharmacological Augmentation)
 
-يَدَّعِي أَنْصَار هَذَا الْمَوْقِف — **دِنِس شَارْكي** (Dennis Charney)، **مايك ثَاس** (Michael Thase)، **مادْهُكار ترِيفِيدي** (Madhukar Trivedi)، **ماثيو كِيلّوس** (Matthew Kialouche) — أَنَّ الْإِضَافَة أَفْضَل لِـ**سُرْعَة** (Speed) وَ**فَاعِلِيَّة** (Efficacy) فِي TRD.
+يَدَّعِي أَنْصَار هَذَا الْمَوْقِف — **دِنِس شَارْكي** (Dennis Charney، مِن دِرَاسَاته المُبَكِّرة عَلَى الكِيتَامِين فِي جَامِعَة يِيل مُنْتَصَف التِّسْعِينَات)، **مايك ثَاس** (Michael Thase)، **مادْهُكار ترِيفِيدي** (Madhukar Trivedi، الْبَاحِث الرَّئِيس لِـ**STAR\*D**) — أَنَّ الْإِضَافَة أَفْضَل لِـ**سُرْعَة** (Speed) وَ**فَاعِلِيَّة** (Efficacy) فِي TRD.
 
-(1) **مَشْرُوع STAR\*D** (Trivedi et al., 2006): الْمَرْحَلَة الثَّانِيَة (بَعْد فَشْل SSRI) — إِضَافَة بُوسْبِيرُون (Buspirone) أَوْ CBT. **CBT = مُمَاثِلَة لِـ**دَوَاء آخَر** فِي تِلْكَ الْمَرْحَلَة. لَكِنَّ الْإِضَافَة بِـ**لِيثْيُوم** (Lithium Augmentation) أَوْ ثْيُورِيدَازِين (Thyroid Augmentation) كَانَتْ خُطُوَة ثَالِثَة.
+(1) **مَشْرُوع STAR\*D** (Trivedi et al., 2006) — الْمَرْحَلَة الثَّالِثَة تحديداً (بَعْد فَشْل مَرْحَلَتَيْن سَابِقَتَيْن): إِضَافَة **لِيثْيُوم** (Lithium Augmentation) أَوْ هُرْمُون الْغُدَّة الدَّرَقِيَّة (Thyroid Augmentation، T3) — هُنَا يَبْدَأ نِزَاع الْإِضَافَة تحديداً، بَعْدَ أَنْ يَكُون خِيَار "التَّحْوِيل" البَسِيط قَدْ اُسْتُنْفِد.
 
 (2) **كِيتَامِين** (Ketamine) — مُتَغَيِّر جَدِيد. دِرَاسَات (Zarate et al., 2006; Murrough et al., 2013) تُظْهِر «**تَحَسُّن**» (Improvement) سَرِيع (سَاعَات) فِي TRD. **Esketamine** (Spravato) — مُسْتَحْضَر مَعْتَمَد مِنْ FDA. يَسْتَهْدِف مُسْتَقْلَبات NMDA — مُسَار جَدِيد بَعْد أَنْ «**فَشِل**» مُسَار السِّيرُوتُونِين.
 
@@ -46,7 +46,7 @@ gaps:
 
 ## الْمَوْقِف الثَّانِي: الْعِلَاج النَّفْسِيّ (Psychotherapy) — CBT، IPT، MBCT
 
-يَدَّعِي أَنْصَار هَذَا الْمَوْقِف — **آرُون بِيك** (Aaron Beck)، **ألْبِرت إِلِيس** (Albert Ellis)، **دِنِس كِلاوس** (D. A. Clarke)، **سْتِيفن هَايْز** (Steven Hayes) — أَنَّ الْعِلَاج النَّفْسِيّ:
+يَدَّعِي أَنْصَار هَذَا الْمَوْقِف — **آرُون بِيك** (Aaron Beck)، **دِيفِيد أ. كِلَارْك** (David A. Clark، تِلْمِيذ بِيك وَشَرِيكه فِي *Scientific Foundations of Cognitive Theory and Therapy of Depression*، 1999)، **سْتِيفن هَايْز** (Steven Hayes، مُؤَسِّس ACT) — أَنَّ الْعِلَاج النَّفْسِيّ:
 
 (1) **يُعَالِج الْأَسْبَاب** (Root Causes) — تَشَوُّهَات مَعْرِفِيَّة (Beck)، أَنْمَاط سُلُوكِيَّة (Ellis)، اِنْتِبَاه (Segal et al., MBCT). (2) **آثَارُه أَدْوَم** (Long-Lasting) — مُتَابَعَة طَوِيلَة تُظْهِر نِسَب اِنْتِكَاسَة (Relapse) أَقَلّ. (3) **لَا أَعْرَاض جَانِبِيَّة** (No Side Effects). (4) **CBT لِـ**TRD** (Wiles et al., 2013) — دَرَجَات اسْتِجَابَة مُشَابِهَة لِـ**إِضَافَة دَوَائِيَّة، لَكِنَّ الْمُتَابَعَة أَفْضَل. (5) **MBCT** (Mindfulness-Based Cognitive Therapy) — Segal et al., 2002 — يَقِلَّل نِسَب الِاِنْتِكَاسَة 50% فِيمَن لَدَيْهِم تَارِيخ مِن 3+ نَوْبَات.
 
@@ -77,11 +77,9 @@ gaps:
 ## الْمَوَاقِف الْمُعَاصِرَة
 
 - **مَايْكَل ثَاس** (Michael Thase): CBT كَخَطّ ثَانٍ أَوْ مُلْحَق بِـ**دَوَاء** — «**stepped care**». 
-- **دَايْك بِرّان** (David Brent): CBT لِـ**مُرَاهِقِين** بِـ**TRD** — تَفُوق.
+- **دَيفِد بِرِنْت** (David Brent): قَادَ دِرَاسَة **TORDIA** (Brent et al., 2008) — 334 مُرَاهِقًا مُقَاوِمًا لِـ**SSRI**؛ إِضَافَة CBT لِـ**التَّحْوِيل الدَّوَائِيّ** رَفَعَت الِاِسْتِجَابَة إِلَى 54.8% مُقَابِل 40.5% لِـ**التَّحْوِيل وَحْده**.
 - **مَارِك جُورج** (Mark George): TMS كَـ**خَطّ ثَانٍ قَبْل ECT**.
-- **روبرت كِيلّيك** (Robert Kellner): ECT لِـ**TRD** شَدِيد — «**مُنْقِذ**» (Life-Saving).
-- **إِسْتِيفن هَايْز** (Steven Hayes): ACT + دَوَاء — تَكَامُل.
-- **أَجَي كُورِيّ** (Ajeet Kur)： اسْتِخْدَام الكِيتَامِين مَعَ ACT.
+- **تْشَارْلْز كِيلْنِر** (Charles Kellner): مُدِير خِدْمَة ECT فِي مَاوْنْت سَايْنَاي — ECT لِـ**TRD** شَدِيد لَيْسَ «**مَلَاذًا أَخِيرًا**» بَلْ خِيَارًا مُبَكِّرًا مُمْكِنًا.
 - **الطَّبّ النَّفْسِيّ الدَّقِيق** (Precision Psychiatry): وَاسِمَات حَيَوِيّة (Biomarkers) — اخْتِبَار قَبْل وَصْف.
 
 ## نَقْد الْجَدَل
@@ -95,3 +93,10 @@ gaps:
 ## الْأَهَمِّيَّة لِـ**الطِّبّ النَّفْسِيّ الْعَرَبِيّ**
 
 (1) **الْكِيتَامِين**: مُتَاح فِي بَعْض الْبُلْدَان، اِسْتِخْدَام ضَعِيف. (2) **ECT**: وَجُود، لَكِنَّ وَصْمَة (Stigma) كَبِيرَة. (3) **TMS**: غَيْر مُتَاح بِـ**اِتِّسَاع**. (4) **CBT**: مُتَاح لَكِنَّ الْعَدَد غَيْر كَافٍ. **الْاِحْتِيَاج** لِـ**تَوَازُن**.
+
+## المصادر
+
+- Trivedi, M. H., et al. (2006). "Medication augmentation after the failure of SSRIs for depression." *New England Journal of Medicine*, 354(12), 1243–1252 (STAR\*D).
+- Wiles, N., et al. (2013). "Cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression (CoBalT)." *The Lancet*, 381(9864), 375–384.
+- Brent, D., et al. (2008). "Switching to another SSRI or venlafaxine with or without CBT for adolescents with SSRI-resistant depression (TORDIA)." *JAMA*, 299(8), 901–913.
+- Zarate, C. A., et al. (2006). "A randomized trial of an N-methyl-D-aspartate antagonist in treatment-resistant major depression." *Archives of General Psychiatry*, 63(8), 856–864.

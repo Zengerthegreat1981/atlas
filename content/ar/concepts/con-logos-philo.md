@@ -14,8 +14,15 @@ active_end: 50
 edges:
 - rel: "belongs_to", target: "sch-judaism-hellenistic", target_type: "مدرسة"
 related:
-- id: "thk-philo", title: "فيلو الإسكندري", type: "مفكر"
+- id: "thk-philo", title: "فيلو الإسكندري (فيلون)", type: "مفكر"
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
+- id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
+- id: "con-logos-heraclitus", title: "اللوغوس الكوني عند هيراقليطس (Heraclitean Logos)", type: "مفهوم"
+- id: "thk-chrysippus", title: "خريسيبوس السولي", type: "مفكر"
+- id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح"
+- id: "con-chokmah-hebrew", title: "حُخْمَة (الحكمة العبرية)", type: "مفهوم"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "con-active-intellect-nous-poietikos", title: "العقل الفعال والمفارق (Active Intellect / Nous Poietikos)", type: "مفهوم"
 gaps:
   - "النسب بين لاهوت اللوغوس الفيلوني و«الكلمة» في إنجيل يوحنا موضع خلاف."
   - "لا يوجد تعريف فلسفي حديث موحد للوغوس في الفلسفة العربية."

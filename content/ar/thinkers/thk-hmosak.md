@@ -13,19 +13,18 @@ active_start: 1960
 active_end: 2018
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
-- id: "thk-fkurtz", title: "رونالد كورتز", type: "مفكر"
-- id: "thk-gweishaar", title: "إريك وايشار", type: "مفكر"
 - id: "thk-rcorsini", title: "راي كورسيني", type: "مفكر"
-- id: "thk-rmanaster", title: "رايتشل ماناستر", type: "مفكر"
 - id: "thk-rwatts", title: "ريتشارد واتس", type: "مفكر"
 - id: "thk-tstone", title: "مارك ستون", type: "مفكر"
 gaps:
   - "تفاصيل الإرشاد الأدلري المنظّم (Life Style Assessment) ملخّصة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد سيرة ذاتية أو مقابلة موثّقة تحتوي اقتباساً مباشراً منسوباً لموساك بنص وسنة محددين."
+  - "رابط thk-gweishaar (إريك وايشار) حُذف من related: الشخص غير موثَّق باستقلال في الأدبيات الأدلرية."
+  - "رابط thk-rmanaster (رايتشل ماناستر) حُذف من related: الاسم غير موثّق؛ الشخصية الحقيقية القريبة (غاي ج. ماناستر) طُلب لها slug جديد منفصل ولا يجوز افتراض أنها نفس الرابط."
 ---
 
 # هارولد موساك

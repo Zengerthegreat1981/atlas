@@ -13,9 +13,9 @@ active_start: 1976
 active_end: 1992
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "هو-أوبونوبونو (Ho'oponopono)", target_type: "مدرسة"
+- rel: "belongs_to", target: "con-ho-oponopono", target_type: "مفهوم"
 related:
-- id: "thk-jramiro", title: "جي رامييرو", type: "مفكر"
+- id: "thk-jramiro", title: "جان-لوك رامارو", type: "مفكر"
 - id: "thk-lmorrnah", title: "إبراهام كاوانيوآ", type: "مفكر"
 - id: "thk-mking", title: "ميليسا كينغ", type: "مفكر"
 - id: "thk-niosepa", title: "نانا إيوسيبا", type: "مفكر"
@@ -23,7 +23,6 @@ related:
 - id: "con-ho-oponopono", title: "هو-أوبونوبونو (Ho'oponopono)", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة لمسيرتها كمعالجة Kahuna لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مورّنا سيميونّا
@@ -59,3 +58,7 @@ gaps:
 - *Self-Identity through Ho'oponopono* (1991، مع Curlypua Moe).
 - مساهمات في *Pacific Health Dialog* و *Journal of Transpersonal Psychology*.
 - تدريبات Ho'oponopono في Foundation of I".
+
+## المصادر
+
+- Joe Vitale & Ihaleakala Hew Len, *Zero Limits: The Secret Hawaiian System for Wealth, Health, Peace, and More*, Wiley, 2007 (يوثّق تعاليم مورنا سيميونا).

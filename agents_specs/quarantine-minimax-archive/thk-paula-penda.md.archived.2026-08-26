@@ -1,0 +1,63 @@
+---
+slug: "thk-paula-penda"
+id: "THK-2829"
+type: "مفكر"
+part: "psychology"
+level: "مبتدئ"
+title: "بولا بيندا (Paula Penda)"
+en: "Paula Penda: Imago Educator and Author"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+crumb: "Imago ← مؤسِّسون ← بولا بيندا"
+edges:
+- rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
+related:
+- id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
+- id: "thk-hlhunt", title: "هيلين لاكيلي هانت", type: "مفكر"
+- id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
+gaps:
+  - "لا وجود موثَّق لـ 'Paula Penda' كشخصية عامة في قواعد بيانات Imago Therapy (Harville Hendrix Institute, ITI)."
+  - "لا كتاب منشور لـ 'Paula Penda' في Amazon أو WorldCat أو PsycINFO حتى آب 2026."
+  - "لا علاقة تنظيمية معتمدة في Imago Educators registry."
+  - "الـslug thk-paula-penda موجود في EXISTING_SLUGS.md لكن لا يوجد ملف بيانات أو مرجع."
+  - "الاحتمال الأقوى: الاسم مُولَّد آلياً أو تالف إملائياً (مثل 'Paula J. Pedro'، 'Paula Pende'، أو اختلاط مع 'Patricia Pendry' الباحثة في علم النفس)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح اسم، أو دمج في ملف 'Imago Educators' عام."
+---
+
+# بولا بيندا (Paula Penda)
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في قواعد بيانات Imago Therapy]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Paula Penda — بدون اسم أوسط.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **ITI (Imago Relationships International)**: لا توجد معلِّمة معتمدة بهذا الاسم.
+  - **WorldCat / Library of Congress**: لا كتاب منشور لـ "Paula Penda" في أي موضوع.
+  - **Amazon**: لا كتاب منشور.
+  - **APA PsycINFO / PsycArticles**: لا مقالة منشورة.
+  - **Google Scholar**: لا نتائج ذات صلة.
+- **شخصيات مشابهة محتملة** (لم تتأكد):
+  - **Patricia Pendry**: باحثة في علم نفس الأطفال (أجريت دراسات عن العلاج بمساعدة الخيول)، تعمل في جامعة ولاية واشنطن.
+  - **Paula Pedro / Paula Pende / Paula Pando**: أسماء مشابهة لم تُتحقق في هذا السياق.
+
+## سبب إدراجه في الأطلس (المحتمل)
+
+- احتمال **خطأ إملائي** في حقل «title» أو «en».
+- احتمال **توليد آلي** من قاعدة بيانات (تصدير من قائمة Imago Educators مع خطأ في اللصق).
+- احتمال **الخلط مع هيلين لاكيلي هانت** (الشريكة المؤسسة لـImago).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تحديد هوية صحيحة ودمجها في ملف جديد.
+- **أو**: الحجر في `quarantine-minimax.md` مع توضيح سبب الحجر.
+
+## المصادر
+
+- لا توجد مصادر موثّقة لهذه الشخصية في حقل Imago Therapy.
+- للتحقق:
+  - ITI: https://imagorelationships.org/
+  - Hendrix, H. (1988). *Getting the Love You Want*. Harper.
+  - Hendrix, H. & Hunt, H. L. (2005). *Giving the Love That Heals*. Harper.

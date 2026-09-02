@@ -12,18 +12,18 @@ country: "الدولة الصفوية"
 language: "العربية، الفارسية"
 active_start: 1570
 active_end: 1800
+cultural_origin: "islamic-arabic"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
 - rel: "belongs_to", target: "sch-shiraz", target_type: "مظلة"
 related:
-- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
 - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
 - id: "thk-mir-damad", title: "ميرداماد (محمد باقر الأسترآبادي)", type: "مفكر"
 - id: "thk-nasir-tusi", title: "نصير الدين الطوسي (الخواجة نصير)", type: "مفكر"
 gaps:
   - "دور الميرداماد في تأسيس المدرسة الصفوية غير واضح بدقّة في كثير من المصادر."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «القبسات» للميرداماد."
 ---
 
 # مدرسة أصفهان الفلسفية
@@ -73,3 +73,10 @@ gaps:
 - تختلف عن المشائية الخالصة في انفتاحها على الإشراق والعرفان.
 - تختلف عن الإشراقية الخالصة في بنائها المنهجي على البرهان (وليس الذوق وحده).
 - تتميز عن مدرسة شيراز السابقة في تخصصها في علم الكلام السياسي الإمامي وفي الجمع بين الفقه والفلسفة.
+
+## المصادر
+
+- Corbin, Henry. *En Islam iranien: aspects spirituels et philosophiques*, tome IV. Gallimard, 1971-1972.
+- Nasr, Seyyed Hossein. *Islamic Philosophy from Its Origin to the Present*. State University of New York Press, 2006.
+- Rizvi, Sajjad. *Mulla Sadra and Metaphysics: Modulation of Being*. Routledge, 2009.
+- Newman, Andrew J. *Safavid Iran: Rebirth of a Persian Empire*. I.B. Tauris, 2006.

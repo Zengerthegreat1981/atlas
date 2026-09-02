@@ -12,6 +12,7 @@ country: "متعددة"
 language: "متعددة"
 active_start: 1974
 active_end: "مستمر"
+cultural_origin: "french"
 edges:
 - rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-environmental-ethics", target_type: "مدرسة"
@@ -56,3 +57,10 @@ gaps:
 
 - تواجه انتقادات بسبب «التعميم» (لا كل النساء ضد الطبيعة).
 - تواجه انتقادات من النسويات الماركسيات لتغافلها عن البنية الطبقية.
+
+## المصادر
+
+- Françoise d'Eaubonne, *Le Féminisme ou la Mort* (Pierre Horay, 1974).
+- Carolyn Merchant, *The Death of Nature: Women, Ecology, and the Scientific Revolution* (Harper & Row, 1980).
+- Vandana Shiva, *Staying Alive: Women, Ecology and Survival in India* (Zed Books, 1988).
+- Val Plumwood, *Feminism and the Mastery of Nature* (Routledge, 1993).

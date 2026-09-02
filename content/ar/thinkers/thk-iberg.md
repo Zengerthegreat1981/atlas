@@ -13,7 +13,7 @@ active_start: 1978
 active_end: 2007
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج القصير المرتكز على الحل (SFBT)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
 - id: "thk-sdeshacer", title: "ستيف دي شيزَر", type: "مفكر"
 - id: "thk-tpichot", title: "تيري بيشو", type: "مفكر"

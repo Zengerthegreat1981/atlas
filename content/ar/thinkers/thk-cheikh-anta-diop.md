@@ -6,7 +6,7 @@ part: "philosophy"
 level: "متقدم"
 title: "شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم)"
 en: "Cheikh Anta Diop (Scientific Founder of Afrocentrism)"
-dates: "السنغال (الزهر الأخضر) · 1923-1986"
+dates: "السنغال · 1923-1986"
 country: "السنغال"
 language: "الفرنسية، الوولوف، العربية"
 active_start: 1948
@@ -63,4 +63,3 @@ gaps:
 - *Antériorité des civilisations nègres* (أقدمية الحضارات الأفريقية، 1967).
 - *Parenté génétique de l'égyptien pharaonique et des langues négro-africaines* (القرابة الجينية بين المصرية الفرعونية ولغات أفريقيا جنوب الصحراء، 1977، مع Théophile Obenga).
 - *Civilisation ou Barbarie* (حضارة أم بربرية، 1981، أهم أعماله الناضجة).
-- *Tehi-Ben-Amen* (تحي-بن-آمن، عن الحاكم الأفريقي، مسرحية، 1972).

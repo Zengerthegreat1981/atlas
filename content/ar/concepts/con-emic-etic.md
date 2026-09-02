@@ -20,13 +20,16 @@ edges:
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"
-- id: "con-two-eyed-seeing", title: "الرؤية بعينين", type: "مفهوم"
+- id: "con-two-eyed-seeing", title: "الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)", type: "مفهوم"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس العابر-الثقافي (sch-cross-cultural-psychology)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: جون دبليو. بيري (thk-jwberry)"
+  - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس العابر-الثقافي (sch-cross-cultural-psychology)، رغم ذكره صراحةً كمدرسة انتماء في المتن."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: جون دبليو. بيري (thk-jwberry) — لا يوجد ملف مفكر مطابق؛ الملف thk-pberry الموجود هو لشخصية أخرى (باتريشيا بيري) ولا يصلح رابطاً هنا."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: كينيث بايك (thk-pike)، صائغ المصطلح 1967."
+  - "رابط مقترح لم يتحقق بعد في الأطلس: تشارلز فريك (thk-frake)."
   - "رابط مقترح لم يتحقق بعد في الأطلس: صنع المعنى الثقافي-السياقي (con-cultural-meaning-making)"
   - "التمييز بين 'الإيميتيك' و'الإتيك' في الأدبيات النفسية المعاصرة أكثر تعقيداً مما تصفه هذه المسودة؛ كثير من الباحثين يستخدمون 'إيتيك مُقيَّد' (derived etic) أو 'إيتيك مُقارن' (imposed etic)."
-  - "نقد 'الثنائية الإيميتكية/الإتيكية' نفسها (Kraut 2017 في الأنثروبولوجيا الفلسفية) يحتاج مراجعة."
+  - "نقد 'الثنائية الإيميتكية/الإتيكية' نفسها (Kraut 2017 في الأنثروبولوجيا الفلسفية) يحتاج مراجعة؛ لا يوجد ملف مفكر مطابق لريتشارد كرات في الأطلس."
 ---
 
 # الإيميتيك والإتيك (Emic vs. Etic)
@@ -123,9 +126,3 @@ gaps:
 - Berry, J. W. (1989). «Imposed etics, derived etics, and the comparative study of cultures». *Journal of Cross-Cultural Psychology*, 20(1), 91-99.
 - Kim, U. (2001). «Indoctrination to Indigenous Psychologies». In *International Encyclopedia of the Social and Behavioral Sciences*. Elsevier.
 - Helfrich, H. (1999). *Abendländische Kultur und Han-Chinesische Kultur*. Waxmann. (نقد نسبي للثنائية).
-
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-indigenous-psychology** و**sch-cross-cultural-psychology** كتمييز مؤسِّس.
-- مرتبط بـ**con-cultural-meaning-making** (صنع المعنى) و**con-two-eyed-seeing** (الرؤية بعينين) كإطار أوسع.
-- يستحق عناصر `thk-ukim` و`thk-jwberry` كمؤسِّسين.

@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← Post-Bionian ← توما
 dates: "أمريكا · مواليد 1946"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1979
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,25 +19,34 @@ related:
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم يُعثر على اقتباس منسوب له بنص أصلي وسنة، فحُذف قسم الاقتباسات."
+  - "قائمة أعماله الأدبية (رواياته) لم تُراجَع هنا؛ اقتصر الملف على مساهماته التحليلية النفسية."
 ---
 
 # توماس أوغدن
 
-محلّل نفسي أمريكي، من أبرز «Post-Bionian» المعاصرين، ومؤسِّس مشارك لـ Center for the Advanced Studies of the Psychoses في San Francisco.
+محلّل نفسي وكاتب أمريكي (مواليد 1946)، درس في كلية أمهرست ثم حصل على الطب من جامعة ييل، وتدرّب سنة في عيادة تافيستوك بلندن قبل أن يكمل تدريبه التحليلي في معهد سان فرانسيسكو للتحليل النفسي، حيث لا يزال على هيئة التدريس.
 
 ## ما أعطاه
 
-كتب «مواضيع التحليل» (Subjects of Analysis, 1994)، وهو الكتاب الذي قدّم فيه «التحليلي الثالث» (The Analytic Third) — أي «المكان التحليلي» المشترك بين المحلّل والمريض، كـ«موضوع» مستقل ثالث يتشكّل في عملية التحليل. طوّر «الديالكتيك التحليلي» بين الذاتية (Subjectivity) والبين-ذاتية (Intersubjectivity)، وأعاد تأطير مفهوم «الحوار التحليلي» كعمليّة بين-شخصية معقّدة. كتب أيضاً «الإبداع والمرض» (Creative Readings, 2004) وروايات أدبية، مُقدّماً نفسه كناقد أدبي ومحلل نفسي في آن.
+في «مواضيع التحليل» (Subjects of Analysis, 1994) قدّم مفهوم «التحليلي الثالث» (The Analytic Third) — الحيّز البين-ذاتي المشترك الذي يتشكّل بين المحلِّل والمريض أثناء الجلسة، بوصفه كياناً ثالثاً لا يُختزل إلى ذاتية أي منهما وحده. طوّر أيضاً قراءة لـ«الحلم كتفكير» (dreaming as a form of thinking)، ووسّع نظرية بيون عن الاحتواء (Containment) في سياق علاقاتي معاصر يجمع بين كلاين (موقف الاكتئاب) ووينيكوت (اللعب والحيّز الانتقالي).
 
 ## موقعه من التيار
 
-من «Post-Bionian» في أمريكا، حلقة وصل بين Bion (لندن)، Klein (موقف الاكتئاب)، وWinnicott (اللعب). أثر في علاج الفُصام (Schizophrenia) عبر مفهوم «التحليلي الثالث» كـ«حقل» يتحوّل فيه المريض.
+من أبرز «Post-Bionian» في أمريكا، وحلقة وصل بين مدرسة العلاقات الموضوعية البريطانية والتحليل النفسي العلائقي الأمريكي. نال جائزة أفضل مقال في المجلة الدولية للتحليل النفسي سنة 2004.
 
 ## القيد
-مُدرج هنا كأهم «Post-Bionian» في أمريكا حالياً، مع إقرار بأن إسهامه لا يزال قيد التطوّر.
+
+مفهوم «التحليلي الثالث» يظل صعب التحقق التجريبي، وينتقده بعض المحللين الكلاسيكيين بوصفه صياغة أدبية أقرب إلى الاستعارة منها إلى نظرية إكلينيكية قابلة للاختبار.
 
 ## أهم أعماله
 
-«مواضيع التحليل» (Subjects of Analysis, 1994) · «هذا الفن من التحليل النفسي» (This Art of Psychoanalysis, 2013) · «مرايا للظلال» (Reveries and Hallucinations, 2019) · ثلاث روايات.
+- *Subjects of Analysis* (1994).
+- *This Art of Psychoanalysis: Dreaming Undreamt Dreams and Interrupted Cries* (2005).
+- *Reclaiming Unlived Life: Experiences in Psychoanalysis* (2016).
+
+## المصادر
+
+- Wikipedia (en), "Thomas Ogden".
+- Ogden, Thomas. "The Analytic Third: Implications for Psychoanalytic Theory and Technique." *International Journal of Psychoanalysis*, 1994.
+- PeoplePill, "Thomas H. Ogden — American psychiatrist, psychoanalyst & novelist".

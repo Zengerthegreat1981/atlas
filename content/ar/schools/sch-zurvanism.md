@@ -12,6 +12,7 @@ country: "إيران"
 language: "الفارسية الوسطى (البهلوية)"
 active_start: -400
 active_end: 700
+cultural_origin: "islamic-arabic"
 edges:
 - rel: "evolved_from", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 related:
@@ -44,3 +45,9 @@ gaps:
 
 - إيرانية القديمة: مجهولو الأسماء (نصوص Zand وPazend).
 - مژدك وأتباعه (امتداد لاحق).
+
+## المصادر
+
+- Zaehner, R. C. *Zurvan: A Zoroastrian Dilemma*. Oxford University Press, 1955.
+- Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 1979.
+- "Zurvan", *Encyclopædia Iranica*.

@@ -15,8 +15,7 @@ active_end: 1715
 edges:
 - rel: "belongs_to", target: "sch-occasionalism", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تفاصيل مناظرته المباشرة مع أرنو (Arnauld) حول نظرية الأفكار — التواريخ الدقيقة لتبادل الردود بينهما غير موثقة في هذا الملف."
 ---
 
 # نيكولا مالبرانش
@@ -41,7 +40,3 @@ gaps:
 - *Traité de la nature et de la grâce* (1680).
 - *Entretiens sur la métaphysique et sur la religion* (1688).
 - *Traité de morale* (1684).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

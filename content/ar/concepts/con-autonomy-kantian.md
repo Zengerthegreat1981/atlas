@@ -13,11 +13,13 @@ language: "الألمانية/الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-kantian-ethics-contemporary", target_type: "مدرسة"
 related:
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
 - id: "thk-ckorsgaard", title: "كريستين كورسغارد", type: "مفكر"
 gaps:
   - "الفرق الدقيق بين 'الاستقلالية' الكانطية و'الحرية' الوجودية لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'الأسس' (1785)."
+  - "أونوران/أولنغ (O'Neill) وهيرمان (Herman) الواردتان في قسم 'الجدل المعاصر' ليس لهما ملف thk- موثّق منفصل عن جوديث هيرمان (thk-jherman، مؤلفة مختلفة تماماً)، لذا لم تُدرجا في related تجنباً لخلط الهوية."
 ---
 
 # الاستقلالية (Autonomy) في الكانطية الأخلاقية

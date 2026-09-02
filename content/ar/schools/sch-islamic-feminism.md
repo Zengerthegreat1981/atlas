@@ -3,6 +3,7 @@ slug: "sch-islamic-feminism"
 id: "SCH-0153"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "islamic-arabic"
 level: "متوسط"
 title: "النسوية الإسلامية"
 en: "Islamic Feminism"
@@ -13,11 +14,10 @@ language: "العربية، الفارسية، التركية، الإنجليز
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "النسوية الفلسفية", target_type: "مظلة"
 related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
-- id: "sch-wahdat-alwujud", title: "وحدة الوجود", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
 - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
 gaps:
   - "نصوص مرفت التلاوي، فاطمة المرنيسي، أمينة ودود، أصيلة جلال، أسما بيلهيل need review."
@@ -59,3 +59,11 @@ gaps:
 - تواجه انتقادات من النسويات العلمانيات (تستخدم اللغة الدينية).
 - تواجه انتقيدات من التقليديين (تجديدات غير مشروعة).
 - تواجه تحدي الانقسام بين الإسلاموية والنسوية.
+
+## المصادر
+
+- Mernissi, F. (1991). *The Veil and the Male Elite: A Feminist Interpretation of Women's Rights in Islam*. Addison-Wesley.
+- Wadud, A. (1999). *Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective*. Oxford University Press.
+- Barlas, A. (2002). *Believing Women in Islam: Unreading Patriarchal Interpretations of the Qur'an*. University of Texas Press.
+- Mir-Hosseini, Z. (1999). *Islam and Gender: The Religious Debate in Contemporary Iran*. I.B. Tauris.
+- Ali, K. (2010). *Marriage and Slavery in Early Islam*. Harvard University Press.

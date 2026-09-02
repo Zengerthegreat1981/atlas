@@ -9,6 +9,7 @@ en: "Pātañjala Yoga (Classical Yoga Philosophy)"
 crumb: "الفلسفة ← الهند ← المدارس الأرثوذكسية ← يوغا الفلسفية"
 dates: "الهند · من القرن 2 ق.م إلى القرن 5 م"
 country: "شبه القارة الهندية"
+cultural_origin: "indian"
 language: "السنسكريتية"
 active_start: -200
 active_end: 400
@@ -16,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-samkhya", target_type: "مدرسة"
 related:
 - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "thk-patanjali", title: "باتانجالي (مؤسس اليوغا الكلاسيكية)", type: "مفكر"
 - id: "con-cross-cultural-meditation", title: "التأمل العلاجي عبر-الثقافي", type: "مفهوم"
@@ -72,3 +73,9 @@ gaps:
 ## القيد
 
 - التأكيد العملي جعل الجانب الفلسفي البحت أقل وضوحاً من سامخيا.
+
+## المصادر
+
+- Patañjali. *Yoga Sūtra*, trans. Edwin F. Bryant, *The Yoga Sutras of Patañjali*. North Point Press, 2009.
+- Whicher, Ian. *The Integrity of the Yoga Darśana: A Reconsideration of Classical Yoga*. State University of New York Press, 1998.
+- Larson, Gerald James, and Ram Shankar Bhattacharya, eds. *Yoga: India's Philosophy of Meditation*. Encyclopedia of Indian Philosophies, vol. 12. Motilal Banarsidass, 2008.

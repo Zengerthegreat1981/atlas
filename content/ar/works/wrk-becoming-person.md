@@ -11,6 +11,10 @@ language: "الإنجليزية"
 active_start: 1961
 active_end: 1961
 part: "psychology"
+author: "كارل روجرز"
+author_slug: "thk-rogers"
+publication_year: 1961
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-rogers", target_type: "مفكر"

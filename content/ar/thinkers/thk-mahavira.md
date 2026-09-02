@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-jainism", target_type: "مدرسة"
 related:
 - id: "con-ahimsa", title: "أحيمسا (مبدأ اللاإيذاء)", type: "مفهوم"
-- id: "sch-jainism", title: "الجاينية الفلسفية (بفرعيها ديغامبرا وشفيتامبرا)", type: "مدرسة"
+- id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
 gaps:
   - "لا يوجد نص من ماهاڤيرا نفسه، التقليد الجايني ينسب إليه تأسيس الأوامر الـ5، لكن ما قبله پَارَشْوا (Parshva) أيضاً."
   - "ترجمة عربية معتمدة لـAcharanga Sutra غير متاحة."
@@ -51,3 +51,9 @@ gaps:
 - لا نصوص موثقة باقية.
 - المماراسات والأوامر الخمسة في *Ācāranga Sūtra* (القرن 5 م، الديجامبرا).
 - *Sūtrakṛtāṅga Sūtra* (نقد المذاهب الأخرى، الجاينية).
+
+## المصادر
+
+- Paul Dundas, *The Jains* (Routledge, 2nd ed. 2002).
+- K. C. Jain, *Lord Mahāvīra and His Times* (Motilal Banarsidass, 1974).
+- Padmanabh S. Jaini, *The Jaina Path of Purification* (University of California Press, 1979).

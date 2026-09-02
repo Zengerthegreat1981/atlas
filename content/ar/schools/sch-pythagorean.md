@@ -12,8 +12,8 @@ country: "يونان (مستعمرة كروتون، جنوب إيطاليا - Ma
 language: "اليونانية الدورية"
 active_start: -530
 active_end: -350
+cultural_origin: "greek"
 edges:
-- rel: "belongs_to", target: "تقاليد ما قبل سقراط", target_type: "مظلة"
 - rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
@@ -73,3 +73,10 @@ gaps:
 - لا فرق واضح عند كثير من المصادر القديمة بين «ما قاله فيثاغورس» و«ما قالته الجماعة باسمه». بوصفه مؤسس حركة دينية سرية، فإن التفريق بين الأسطورة والتاريخ صعب جداً.
 - «كل شيء عدد» لا يعني أن فيثاغورس كان يفهم العدد بالطريقة الحديثة — عدده أقرب إلى مبدأ شكلي/رمزي منه إلى عدد مجرّد.
 - ليس كل فيلسوف يوناني لاحق تأثر بالفيثاغورية تأثراً مباشراً — التأثر أصبح مرئياً بشكل قوي عند أفلاطون وما بعده.
+
+## المصادر
+
+- Aristotle, *Metaphysics*, Book A (فصل عن الفيثاغوريين).
+- Diogenes Laertius, *Lives of Eminent Philosophers*, Book VIII.
+- G. S. Kirk, J. E. Raven & M. Schofield, *The Presocratic Philosophers*, Cambridge University Press, 2nd ed. 1983.
+- Walter Burkert, *Lore and Science in Ancient Pythagoreanism*, Harvard University Press, 1972.

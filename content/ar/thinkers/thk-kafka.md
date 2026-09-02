@@ -13,13 +13,14 @@ language: "الألمانية"
 country: "النمسا-المجر"
 part: "philosophy"
 edges:
-- rel: "influenced", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "influenced", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
   - "لم تُراجع بعد نصوص أصلية (المحاكمة، المسخ) — الوصف هنا عام من تاريخ الفكر."
   - "كاتب روائي لا فيلسوف، وإدراجه هنا بصفة **مؤثِّر** في مفردات التيّار الوجودي لا **منتمٍ** إليه؛ عُدِّلت صفة الرابط من `belongs_to` إلى `influenced`."
+  - "edges.influenced.target كان نصاً حراً «الوجودية العلاجية (Existential Therapy)» — صُحِّح إلى slug حقيقي مطابق: sch-existential-therapy."
 ---
 
 # فرانز كافكا
@@ -41,7 +42,7 @@ gaps:
 
 ## أهم أعماله
 
-المسخ (Die Verwandlung, 1915) · المحاكمة (Der Prozess, كُتبت 1914–1915، نُشرت 1925) · القلعة (Das Schloss, كُتبت 1922، نُشرت 1926)
+المسخ (Die Verwandlung, 1915) · المحاكمة (Der Prozess, كُتبت 1914–1915، نُشرت بعد وفاته 1925 بواسطة ماكس برود) · القلعة (Das Schloss, كُتبت 1922، نُشرت بعد وفاته 1926 بواسطة ماكس برود)
 
 ## اقتباسات مختارة
 

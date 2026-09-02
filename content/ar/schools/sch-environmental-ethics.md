@@ -10,6 +10,7 @@ crumb: "الفلسفة ← المقارنة والعابرة ← فلسفة ال
 dates: "أمريكا، أوروبا، عالمية · من 1960s إلى اليوم"
 country: "متعددة"
 language: "متعددة"
+cultural_origin: "anglo-american"
 active_start: 1962
 active_end: "مستمر"
 edges:
@@ -58,3 +59,11 @@ gaps:
 
 - تواجه انتقادات بسبب المركزية الأنثروبوسنتية في بعض المقاربات.
 - تواجه انتقادات بسبب تهميش الفقر العالمي.
+
+## المصادر
+
+- Leopold, Aldo. *A Sand County Almanac*. Oxford University Press, 1949.
+- Carson, Rachel. *Silent Spring*. Houghton Mifflin, 1962.
+- Næss, Arne. "The Shallow and the Deep, Long-Range Ecology Movement." *Inquiry*, 1973.
+- Rolston, Holmes III. *Environmental Ethics: Duties to and Values in the Natural World*. Temple University Press, 1988.
+- Attfield, Robin. *Environmental Philosophy: Principles and Prospects*. Avebury, 1994.

@@ -12,15 +12,14 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: 2010
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج بالتحويل (Reparative Therapy)", target_type: "مدرسة"
+edges: []
 related:
 - id: "dis-gender-dysphoria", title: "اضطراب الهوية الجنسية (Gender Dysphoria)", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 gaps:
   - "تفاصيل الفترة المبكرة في الممارسة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـناثانئيل لِرمان."
 ---
 
 # ناثانئيل لِرمان
@@ -41,7 +40,3 @@ gaps:
 
 - مقالات متعددة في *Psychiatric News* و*American Journal of Psychotherapy*.
 - مراسلاته مع مسؤولي APA في السبعينيات (محفوظة في أرشيف APA).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

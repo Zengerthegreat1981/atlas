@@ -8,18 +8,19 @@ en: "Behaviorism"
 crumb: "السلوكية المبكرة ← الأعمال ← السلوكية"
 dates: "1924 · جون ب. واطسون"
 active_start: 1924
-active_end: 1924
+active_end: 1930
 language: "الإنجليزية"
 part: "psychology"
+author: "جون ب. واطسون"
+author_slug: "thk-jwatson"
+publication_year: 1924
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "السلوكية المبكرة", target_type: "مدرسة"
-- rel: "authored_by", target: "جون ب. واطسون", target_type: "مفكر"
+- rel: "authored_by", target: "thk-jwatson", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الطبعة المنقّحة 1930 أضافت فصلاً عن اللغة — التحقق من دقّة الفروقات بينها وبين طبعة 1924 لم يُنجز بعد."
-  - "لا يوجد ملفّ مفكر (thk-) لـ Watson في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # السلوكية

@@ -10,17 +10,15 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الطاوية المعرفية (Taoist Cognitive Therapy)", target_type: "مدرسة"
-- rel: "developed_by", target: "تشانغ يا-لين", target_type: "مفكر"
+- rel: "developed_by", target: "thk-zhangyalin", target_type: "مفكر"
 related:
+- id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
 - id: "thk-zhangyongqiang", title: "تشانغ يونغ تشيانغ", type: "مفكر"
 - id: "thk-yihuazhu", title: "تشو يي-هوا", type: "مفكر"
-- id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
-- id: "thk-wzhang", title: "تشانغ يا-لين", type: "مفكر"
 - id: "thk-jingqiyong", title: "يانغ ديشن", type: "مفكر"
 gaps:
-  - "البروتوكول (Taiji Principle) لم يُوثّق بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "البروتوكول (Taiji Principle) لم يُوثّق بدقة كافية من مصدر أولي."
+  - "لا يوجد مصدر أولي مؤكد بعد لدراسة Zhang & Wang 1995 المذكورة في المتن؛ العنوان الكامل والدورية غير موثقين."
 ---
 
 # العلاج المعرفي الطاوي (Taoist Cognitive Therapy)

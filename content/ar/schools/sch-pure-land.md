@@ -10,14 +10,15 @@ crumb: "الفلسفة ← البوذية ← الأرض الطاهرة (جين�
 dates: "الهند، الصين، اليابان، كوريا · من القرن 2 م إلى اليوم"
 country: "الهند، الصين، اليابان، كوريا"
 language: "السنسسكريتية، الصينية الكلاسيكية، اليابانية"
+cultural_origin: "east-asian"
 active_start: 150
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "مادهيامaka", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
-- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
 - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
 - id: "sch-jodo-shinshu", title: "جودو شينشو", type: "مدرسة"
 gaps:
@@ -76,3 +77,9 @@ gaps:
 - **الصراع بين Hōnen و Tendai**: Hōnen طُرد من Mount Hiei لممارسته.
 - **انقسام Jōdo إلى فروع**: Jōdo-shū، Jōdo Shinshū، Ji-shū.
 - **مسائل لاهوتية**: هل «القَسَم» (Tariki) يحلّ محل الجهد الذاتي (Jiriki)؟
+
+## المصادر
+
+- Gómez, Luis O. (1996). *The Land of Bliss: The Paradise of the Buddha of Measureless Light*. University of Hawai'i Press.
+- Bloom, Alfred (1965). *Shinran's Gospel of Pure Grace*. University of Arizona Press.
+- Payne, Richard K., & Tanaka, Kenneth K. (eds.) (2004). *Approaching the Land of Bliss: Religious Praxis in the Cult of Amitābha*. University of Hawai'i Press.

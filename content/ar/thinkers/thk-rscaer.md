@@ -13,7 +13,7 @@ active_start: 1992
 active_end: 2018
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المستنير عصبيًا/بولفاغال", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-dpooleheller", title: "ديان بويل هيلر", type: "مفكر"
@@ -21,8 +21,7 @@ related:
 - id: "thk-srosenberg", title: "ستانلي روزنبرغ", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
-  - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم نعثر على سنة ميلاده أو وفاته في مصدر منشور يمكن الاستشهاد به؛ الملف يستخدم 'القرن العشرين' كتقريب فقط."
 ---
 
 # روبرت سكاير
@@ -34,7 +33,7 @@ gaps:
 - **مفهوم "Somatic Reenactment"**: استعادة الصدمة الجسدية في الزمن الحاضر عبر أعراض عضوية مزمنة.
 - **مفهوم "Incomplete Mobilization"**: الحجز العصبي للطاقة الحركية والاستعدادية التي لم تُستخدم في وقت الصدمة، كسبب لأعراض مزمنة.
 - **دمج نظرية بورجز مع Somatic Experiencing**: تركيب صريح بين العصبيولوجيا الفجالية وبين إطار بيتر ليفين العلاجي.
-- **كتب مرجعية**: *The Body Bears the Burden* (2001، مع R. Scaer)، *The Trauma Spectrum* (2005)، *Healing the Traumatized Self* (2014).
+- **كتب مرجعية**: *The Body Bears the Burden* (2001)، *The Trauma Spectrum* (2005)، *Healing the Traumatized Self* (2014).
 
 ## موقعه من التيار
 
@@ -46,6 +45,12 @@ gaps:
 - *The Trauma Spectrum: Hidden Wounds and Human Resiliency* (2005).
 - *Healing the Traumatized Self: Consciousness, Neuroscience, Treatment* (2014).
 - مقالات متعددة في *Traumatology* وسواها.
+
+## المصادر
+
+- Scaer, R. (2001). *The Body Bears the Burden: Trauma, Dissociation, and Disease*. Haworth Press.
+- Scaer, R. (2005). *The Trauma Spectrum: Hidden Wounds and Human Resiliency*. W. W. Norton.
+- Scaer, R. (2014). *Healing the Traumatized Self: Consciousness, Neuroscience, Treatment*. W. W. Norton.
 
 ## القيد
 - **لا تُعدّ كتبه صدى أكاديمياً واسعاً** ككتب فان دير كولك، لكنها أكثر تقنية.

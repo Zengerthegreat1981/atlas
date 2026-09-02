@@ -13,14 +13,13 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس النمائي والشخصية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
-- id: "wrk-mindset", title: "طريقة التفكير / العقلية", type: "عمل / كتاب"
+- id: "wrk-mindset", title: "العقلية: علم النفس الجديد للنجاح", type: "عمل / كتاب"
 - id: "stu-dweck-growth-mindset-praise", title: "دراسة مولر ودويك حول أثر الثناء على الذكاء مقابل الجهد وعقلية النمو", type: "دراسة وبحث"
 - id: "con-pygmalion-golem-effect", title: "تأثير بيغماليون وتأثير غوليم (النبوءة المحققة لذاتها للتوقعات)", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس منسوب مباشرة لدويك بمصدر منشور وسنة تحديد."
 ---
 
 # كارول دويك
@@ -53,7 +52,3 @@ gaps:
 - *Self-theories: Their Role in Motivation, Personality, and Development* (1999).
 - *Mindset: The New Psychology of Success* (2006).
 - *Praise for Intelligence Can Undermine Children's Motivation and Performance* (1998، مع كلوديا مولر).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

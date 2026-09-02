@@ -10,18 +10,14 @@ crumb: "علم النفس التنموي ← البديهيات التأسيسي
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم النفس التنموي", target_type: "مدرسة"
-- rel: "formulated_by", target: "والتر ميشيل", target_type: "مفكر"
+- rel: "relates_to", target: "sch-developmental", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-wmischel", target_type: "مفكر"
 related:
 - id: "thk-wmischel", title: "والتَر ميشيل", type: "مفكر"
-- id: "stu-mischel-marshmallow-test", title: "تجربة الخطمي لميشيل", type: "دراسة وبحث"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
-- id: "axi-verification-criterion", title: "مبدأ التحقق الوضعي (Verification Criterion)", type: "بديهية/مبدأ تأسيسي"
+- id: "stu-mischel-marshmallow-test", title: "تجربة المارشميلو وتأجيل الإشباع لوالتر ميشيل", type: "دراسة وبحث"
 gaps:
   - "نتائج المتابعة الطولية (Mischel et al. 2011) ربطت تأجيل الإشباع بالنجاح في الحياة، لكن دراسات تكرارية أحدثة (Watts, Duncan & Quan 2018) قللت من قوة التنبؤ."
   - "الفرق بين 'ضبط النفس' و'الإرادة' كبنائين نفسيين يحتاج تفصيلاً."
-  - "ضبط النفس والتحكم بالذات كبناء سيكولوجي مستقل مسجل كفجوة في هذا الملف."
 ---
 
 # بديهية تأجيل الإشباع
@@ -79,3 +75,9 @@ gaps:
 - **التبسيط المفرط**: التجربة لا تُلخَّص بـ"إرادة الطفل".
 - **العوامل المُربكة**: الأطفال من بيئات مُستقرة قد يكون لديهم مهارات الانتظار المُتعلَّمة.
 - **عدم التكرار الدقيق**: النتائج الطولية الأصلية لم تتكرر بنفس القوة.
+
+## المصادر
+
+- Mischel, W., & Ebbesen, E.B. (1970). "Attention in Delay of Gratification." *Journal of Personality and Social Psychology*, 16(2), 329-337.
+- Mischel, W., Shoda, Y., & Rodriguez, M.L. (1989). "Delay of Gratification in Children." *Science*, 244(4907), 933-938.
+- Watts, T.W., Duncan, G.J., & Quan, H. (2018). "Revisiting the Marshmallow Test." *Psychological Science*, 29(7), 1159-1177.

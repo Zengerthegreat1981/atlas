@@ -20,8 +20,7 @@ related:
 - id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
 - id: "sch-afropessimism", title: "الأفروبيسيميزم", type: "مدرسة"
 gaps:
-  - "نصوص Mbembe (On the Postcolony, Necropolitics) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نصوص مبيمبي (On the Postcolony, Necropolitics) تحتاج مراجعة من طبعاتها الأصلية بدل الاعتماد على ملخصات ثانوية."
 ---
 
 # أشيل مبيمبي
@@ -45,3 +44,9 @@ gaps:
 ## أهم أعماله
 
 في ما بعد المستعمرة (De la postcolonie, 2000) · السياسة النكروبوليتيكية (Necropolitics, 2003) · سياسة الصداقة (Politiques de l'inimitié, 2016) · أفارقة في العالم (Afriques indociles, 2016).
+
+## المصادر
+
+- Mbembe, A. (2001). *On the Postcolony*. University of California Press (ترجمة De la postcolonie).
+- Mbembe, A. (2019). *Necropolitics*. Duke University Press (ترجمة موسّعة لمقال 2003).
+- صفحة مبيمبي الأكاديمية في Wits Institute for Social and Economic Research (WISER)، جامعة ويتواترسراند.

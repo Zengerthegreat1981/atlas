@@ -19,7 +19,7 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
-- id: "thk-sferenczi", title: "ساندور فيرينتزي", type: "مفكر"
+- id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
 - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 - id: "rel-integrative-psychoanalysis-common-factors", title: "التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-behaviorism", title: "التحليل النفسي والسلوكية: الخصومة التأسيسية الكبرى", type: "علاقة بين مدرستين"

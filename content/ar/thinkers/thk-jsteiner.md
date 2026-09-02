@@ -6,25 +6,23 @@ level: "متقدم"
 title: "جون شتاينر"
 en: "John Steiner"
 crumb: "التحليل النفسي ← الناس ← Kleinian (متأخر) ← جون شتاينر"
-dates: "بريطانيا · [غير مؤكد]"
+dates: "بريطانيا · 1934–"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: 1975
+active_start: 1972
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
-gaps:
-  - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+gaps: []
 ---
 
 # جون شتاينر
 
-محلّل نفسي بريطاني، من أبرز أعضاء المدرسة الكلاينية المعاصرين، ومطوّر مفهوم «التحصينات النفسية» (Psychic Retreats) في التحليل النفسي.
+محلّل نفسي بريطاني (وُلد 1934)، من أبرز أعضاء المدرسة الكلاينية المعاصرين، ومطوّر مفهوم «التحصينات النفسية» (Psychic Retreats) في التحليل النفسي. عمل استشارياً في قسم الكبار بعيادة تافيستوك (Tavistock Clinic) بلندن بين 1972 و1997، وهو عضو في الجمعية البريطانية للتحليل النفسي.
 
 ## ما أعطاه
 
@@ -50,3 +48,9 @@ gaps:
 ## أهم أعماله
 
 *Psychic Retreats: Pathological Organisations in Psychotic, Neurotic and Borderline Patients* (1993) · *Seeing and Being Seen: Emerging from a Psychic Retreat* (2011) · *Illusion, Disillusion, and Irony in Psychoanalysis* (2020) · "Turning a Blind Eye: The Cover Up for Oedipus" (1985)، *International Review of Psycho-Analysis*.
+
+## المصادر
+
+- Steiner, J. (1993). *Psychic Retreats: Pathological Organisations in Psychotic, Neurotic and Borderline Patients*. Routledge.
+- British Psychoanalytical Society — صفحة السيرة الرسمية لجون شتاينر (psychoanalysis.org.uk/john-steiner).
+- Tavistock and Portman NHS Foundation Trust — "John Steiner"، ضمن سلسلة "100 Years of the Tavistock and Portman".

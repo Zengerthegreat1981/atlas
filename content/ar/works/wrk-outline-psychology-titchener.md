@@ -8,18 +8,15 @@ en: "An Outline of Psychology"
 crumb: "البنيوية في علم النفس ← الأعمال ← مخطّط في علم النفس"
 dates: "1896 · إدوارد تيتشنر"
 active_start: 1896
-active_end: 1896
+active_end: 1920
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "البنيوية في علم النفس", target_type: "مدرسة"
-- rel: "authored_by", target: "إدوارد تيتشنر", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الكتاب صدر 1896، أي قبل تأسيس Titchener لمختبره في كورنيل (1898) — حدود تأثيره على تأسيس البنيوية الفعلية لم تُراجع بدقة بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Titchener في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مخطّط في علم النفس

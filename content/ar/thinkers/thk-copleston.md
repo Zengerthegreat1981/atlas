@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "فريدريك كوبلستون"
 en: "Frederick Copleston"
-crumb: "المدرسة الوجودية ← الناس ← فريدريك كوبلستون"
+crumb: "الوجودية ← مؤرخو الفلسفة ← فريدريك كوبلستون"
 dates: "بريطانيا · 1907–1994"
 active_start: 1946
 active_end: 1979
@@ -13,7 +13,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"

@@ -10,18 +10,19 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-aba-advanced", target_type: "تيار"
+- rel: "belongs_to", target: "br-advanced-aba-prt-vb", target_type: "تيار"
 related:
-- id: "thk-lovaas", title: "أويفار لوفاس", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
+- id: "br-advanced-aba-prt-vb", title: "ABA المتقدم (PRT و Verbal Behavior)", type: "تيار"
+- id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "نسبة الإطار إلى Koegel وKoegel تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "نسبة الإطار إلى Robert وLynn Koegel تستحق ملف thk- مستقل (لا يوجد حالياً في الأطلس)."
 ---
 
 # علاج المحاور (PRT)
 
-نموذج علاجي طوّره Robert و Lynn Koegel في الثمانينيات في جامعة كاليفورنيا (Santa Barbara)، كتطوير أقل صرامة من بروتوكول لوفاس. يركّز على «محاور» سلوكية، أي مهارات مفتاحية إذا تعلّمها الطفل تتفتح مهارات أخرى.
+نموذج علاجي طوّره Robert و Lynn Koegel في الثمانينيات في جامعة كاليفورنيا (Santa Barbara)، كتطوير أقل صرامة من بروتوكول لوفاس ضمن تحليل السلوك التطبيقي (ABA) لعلاج اضطراب طيف التوحد. يركّز على «محاور» سلوكية، أي مهارات مفتاحية إذا تعلّمها الطفل تتفتح مهارات أخرى.
 
 ## المحاور الأربعة
 

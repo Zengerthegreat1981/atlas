@@ -47,3 +47,8 @@ gaps:
 - كتاب التعزية الإلهية (Buch der göttlichen Tröstung)
 - Das Buch der Bildreden (كتاب الأمثال)
 - المراسلات (Correspondance)
+
+## المصادر
+
+- Eckhart, M. *Meister Eckhart: The Essential Sermons, Commentaries, Treatises, and Defense* (ترجمة: Colledge, E. & McGinn, B., 1981). Paulist Press.
+- McGinn, B. (2001). *The Mystical Thought of Meister Eckhart: The Man from Whom God Hid Nothing*. Crossroad.

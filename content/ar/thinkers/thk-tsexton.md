@@ -5,43 +5,40 @@ type: "مفكر"
 level: "متوسط"
 title: "توني سيكستون"
 en: "Toni L. Sexton"
-crumb: "PCIT ← التطبيق والتدريب ← توني سيكستون"
+crumb: "PCIT ← التطبيق والتدريب ← توني سيكستون (محجوز)"
 dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "PCIT", target_type: "مدرسة"
-related:
-- id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+edges: []
+related: []
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرلي إِيبِرغ (thk-ieyberg)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرلي إِيبِرغ (thk-ieyberg)."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي دليل مستقل على وجود باحثة باسم Toni L. Sexton مرتبطة بـPCIT. رواد PCIT الموثّقون هم شيلا إيبرغ (المؤسِّسة)، Cheryl McNeil، Toni Hembree-Kigin، Anthony Urquiza، Robin Gurwitch، Beverly Funderburk. لا يستبعد وجود التباس مع Toni Hembree-Kigin."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-tsexton.md.archived.2026-08-27"
 ---
 
 # توني سيكستون
 
-عالمة نفس أطفال، ساهمت في توسيع PCIT إلى فئات سكانية متنوعة، بما في ذلك الأمهات ذوات تاريخ الإساءة، الأسر في خطر الإهمال، والعائلات في الرعاية البديلة. عملت على التدريب والتطبيق على نطاق واسع.
+(Toni L. Sexton)
 
-## ما أعطته
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-tsexton.md.archived.2026-08-27`
 
-- **تكييف PCIT للعائلات في خطر الإهمال**: في الأبحاث حول فاعلية العلاج في الأسر منخفضة الدخل.
-- **كتب مرجعية**: *Treating Parent-Infant Relationship Problems: Strategies for Intervention* (2008، مع A. J. Sameroff).
-- **بحوث حول Transfer of Training**: كيف ينقل الوالدان المهارات المكتسبة في العلاج إلى بيئاتهم اليومية.
-- **مقالات محورية** في *Journal of Clinical Child and Adolescent Psychology*.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعها من التيار
+## ملخص
 
-تقف سيكستون عند ملتقى علم النفس السريري للأطفال، التدخل المبكر، والعدالة في الصحة النفسية. أثرت في جعل PCIT في متناول فئات مهمّشة تاريخياً في الحقل السريري.
+**لا يمكن توثيق وجود هذه الشخصية من مصادر أكاديمية مستقلة.** بحث في الأدبيات المتعلقة بـParent-Child Interaction Therapy (PCIT) لم يُظهر أي باحثة أو ممارِسة بهذا الاسم؛ الأسماء الموثّقة في تاريخ PCIT هي شيلا إيبرغ (المؤسِّسة)، وCheryl McNeil، وToni Hembree-Kigin، وAnthony Urquiza، وRobin Gurwitch، وBeverly Funderburk — من المحتمل أن يكون اسم "توني سيكستون" التباساً مع "Toni Hembree-Kigin".
 
-## أهم أعمالها
+## للمتابعة
 
-- *Treating Parent-Infant Relationship Problems: Strategies for Intervention* (2008، مع A. J. Sameroff).
-- مقالات في *Journal of Clinical Child and Adolescent Psychology* عن فعالية PCIT في سياقات متنوعة.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-tsexton.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## القيد
-- **تكييفات PCIT للسكان المختلفين** (PCIT-ASD، PCIT-HV، etc.) تحتاج توثيقاً دقيقاً لاختلافات البروتوكول.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`

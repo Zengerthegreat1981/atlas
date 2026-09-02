@@ -12,21 +12,20 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-kierkegaard", title: "سورين كيركغارد", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
-- id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
-- id: "con-dasein-being-there", title: "الدازاين", type: "مفهوم"
-- id: "con-being-toward-death", title: "الوجود نحو الموت", type: "مفهوم"
-- id: "dis-gad", title: "اضطراب القلق المعمم", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "con-dasein-being-there", title: "الدازاين (Dasein): الكائن الذي أسئلته عن وجوده", type: "مفهوم"
+- id: "con-being-toward-death", title: "الكينونة-نحو-الموت", type: "مفهوم"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التمييز بين Angst (القلق الوجودي) عند كيركغارد/هايدغر وAngst (القلق النفسي) في علم النفس الإكلينيكي يحتاج فصلاً مستقلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين القلق الوجودي والخوف (Fear) عند سارتر (Fear vs. Angst) يحتاج توثيقاً."
   - "العلاقة باضطرابات القلق الإكلينيكية (GAD، Panic، Social Anxiety) تحتاج فصلاً علاجياً."
 ---
 # القلق الوجودي (Angst): مواجهة اللا-محدود في الذات
 
-عند كيركغارد في *The Concept of Anxiety* (1844)، القلق (Angst، بالدنماركية/Angest) حالة ذهنية خاصة تَختلف عن الخوف: الخوف له موضوع محدد (أخاف من العقرب)، القلق **بلا موضوع** — هو «دوار الحرية» (Schwindel der Freiheit)، الإحساس بالإمكانات اللا-محدودة أمام الذات. هايدغر أعاد صوغه في *Sein und Zeit* (1927) كحالة مزاجية أساسية تَكشف عن «اللا-شيء» (das Nichts) في الوجود.
+عند كيركغارد في *The Concept of Anxiety* (1844)، القلق (Angst، بالدنماركية/Angest) حالة ذهنية خاصة تَختلف عن الخوف: الخوف له موضوع محدد (أخاف من العقرب)، القلق **بلا موضوع** — هو «دوار الحرية» (Schwindel der Freiheit)، الإحساس بالإمكانات اللا-محدودة أمام الذات. هايدغر أعاد صوغه في *Sein und Zeit* (1927) كحالة مزاجية أساسية تَكشف عن «اللا-شيء» (das Nichts) في الوجود، وتضع الدازاين (Dasein) وجهاً لوجه مع كينونته-نحو-الموت (Sein-zum-Tode) كإمكانه الأخير الذي لا يمكن تجاوزه.
 
 ## المعنى الفلسفي
 

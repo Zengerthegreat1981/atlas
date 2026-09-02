@@ -19,7 +19,6 @@ related:
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # بول ه. أورنشتاين
@@ -40,3 +39,9 @@ gaps:
 ## أهم أعماله
 
 «البحث عن الذات» (The Search for the Self, تحرير) · «الأشكال البدائية للذات» (Primal Forms of the Self, مقالات) · تحرير *Psychoanalytic Inquiry* (محرر مشارك).
+
+## المصادر
+
+- Ornstein, P.H. (ed.) (1978). *The Search for the Self: Selected Writings of Heinz Kohut, 1950-1978* (4 vols.). International Universities Press.
+- Ornstein, P.H. & Ornstein, A. (2011). "Speaking the unspeakable: Reflections on Self Psychology." *Psychoanalytic Inquiry*.
+- Wolf, E.S. (1988). *Treating the Self: Elements of Clinical Self Psychology*. Guilford — يوثّق سياق زمالته مع Ornstein.

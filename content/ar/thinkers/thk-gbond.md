@@ -13,16 +13,16 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "إدارة الحالات ← التوظيف المدعوم (IPS) ← غاري بوند"
 edges:
-- rel: "belongs_to", target: "إدارة الحالات", target_type: "تيار"
+- rel: "belongs_to", target: "br-case-management", target_type: "تيار"
 related:
-- id: "thk-rdrake", title: "روبرت دريك", type: "مفكر"
+- id: "thk-rdrake", title: "روبرت إي. دريك", type: "مفكر"
 - id: "br-case-management", title: "إدارة الحالات", type: "تيار"
 - id: "thk-mharris", title: "ماكسين هاريس", type: "مفكر"
 - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."
+  - "edges.belongs_to صُحِّح من نص حرّ 'إدارة الحالات' إلى slug موجود فعلياً (br-case-management)."
 ---
 
 # غاري بوند

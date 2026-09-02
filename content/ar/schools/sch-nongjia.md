@@ -9,6 +9,7 @@ en: "Agriculturalism (Nongjia)"
 crumb: "الفلسفة ← الصين ← المدرسة الزراعية"
 dates: "الصين · من القرن 5 ق.م إلى القرن 1 ق.م تقريباً"
 country: "الصين"
+cultural_origin: "east-asian"
 language: "الصينية الكلاسيكية"
 active_start: -400
 active_end: -100
@@ -21,7 +22,6 @@ related:
 gaps:
   - "نصوص Xu Xing الأصلية لم تصلنا، وما نعرفه عبر اقتباسات مَنشيوس والكنفوشيّين."
   - "نسبة 'كتاب الزراعة' (農書 Nong Shu) و'الطقوس الفلاحية' إلى المدرسة يحتاج تحققاً إضافياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذه المسودة."
 ---
 
 # المدرسة الزراعية (Nongjia)
@@ -47,3 +47,9 @@ gaps:
 
 - المَوروث الزراعي الصيني (Nongshu) الضخم في عهد أسرة مينغ (السابع عشر) ينحدر من هذه الروحانية الفلاحية: العلم العملي في خدمة الأرض لا في خدمة البلاط.
 - في القرن العشرين، أعاد المثقفون القرويون والشيوعيون الأوائل (قبل لين ون) قراءة Nongjia كمصدر «اشتراكية صينية أصلية» — وإن كان هذا التأويل متحمساً أكثر من اللازم.
+
+## المصادر
+
+- Graham, A. C. *Disputers of the Tao: Philosophical Argument in Ancient China*. Open Court, 1989.
+- Needham, Joseph. *Science and Civilisation in China*, Vol. 2: *History of Scientific Thought*. Cambridge University Press, 1956.
+- Mengzi (Mencius) (trans. D. C. Lau). *Mencius*. Penguin Classics, 2003 (يتضمن مناظرة مَنشيوس مع أتباع شو شينغ في الفصل 3A/4).

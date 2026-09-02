@@ -9,36 +9,30 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رودريغو
 dates: "كولومبيا · [غير مؤكد]"
 country: "كولومبيا"
 language: "الإسبانية"
-part: "philosophy"
-active_start: null
-active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-cavasco", title: "كارلوس ألبيرتو فاسكو", type: "مفكر"
-- id: "thk-mmejia", title: "مارغريتا ميخيا", type: "مفكر"
-- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
-- id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
+part: "psychology"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "حُجر 2026-08-26: هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
 ---
 
-# رودريغو ريستريبو
+# حُجر
 
-محلّل يونغي كولومبي، رئيس مؤسِّس لـ Sociedad Colombiana de Analistas Junguianos (SCAJ) في العقد الأول من القرن الحادي والعشرين.
+**هذا الملف في الحجر.** لا يمكن توثيقه من مصادر أكاديمية رصينة (تم التحقق آب 2026).
 
-## ما أعطاه
+**السبب:** الاسم في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-بعد تحلّله عند L. Zoja (ميلانو)، عاد إلى بوغوتا وأدخل «التحليلية الثقافية» (T. Singer) في السياق الكولومبي. أسّس SCAJ (2002) مع مجموعة من المحللين. كذلك أجرى «تحليلية» لظاهرة «فارك» (FARC) والحرب الأهلية (50 سنة) في ضوء «المركّب الثقافي» و«الظِلّ الجمعي». كذلك كتب عن «Gabriel García Márquez وLo real maravilloso» (العقد الأول من القرن الحادي والعشرين) — ربط بين الواقعية السحرية والأركيتيب «الأمّ الكولومبية».
+**النسخة الأصلية** (ما قبل الحجر، 2026-08-26) محفوظة في:
+`agents_specs/quarantine-minimax-archive/thk-rrestrepo.md.archived.2026-08-26`
 
-## موقعه من التيار
+انظر `agents_specs/quarantine-minimax.md` (القسم 1 — عاجل) للتفاصيل.
 
-«المؤسِّس الإداري» للتحليلية الكولومبية، مع C. A. Vasco (الفيلسوف) وMejía (النسوية).
+## للمتابعة
 
-## القيد
-موقعه في الأطلس الدولية ضئيل.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rrestrepo.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-## أهم أعماله
+## المصادر
 
-(مقالات في Cuadernos de SCAJ).
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md` (القسم 1)
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rrestrepo.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

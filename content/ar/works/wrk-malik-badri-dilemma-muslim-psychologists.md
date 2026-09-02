@@ -6,6 +6,10 @@ part: "psychology"
 level: "متوسط"
 title: "كتاب أزمة علماء النفس المسلمين لمالك بدري (1979)"
 en: "The Dilemma of Muslim Psychologists by Malik Badri"
+author: "مالك بدري"
+author_slug: "thk-mbadri"
+publication_year: 1979
+original_language: "الإنجليزية"
 crumb: "كتب علم النفس الإسلامي ← أمهات الأعمال ← أزمة علماء النفس المسلمين"
 active_start: null
 active_end: "مستمر"

@@ -10,7 +10,7 @@ crumb: "الفلسفة ← العابرة ← الإنسانية العابرة 
 dates: "2014 · نيك بوستروم"
 language: "الإنجليزية"
 active_start: 2014
-active_end: 2014
+active_end: 2023
 edges:
 - rel: "belongs_to", target: "sch-transhumanism", target_type: "مدرسة"
 related:

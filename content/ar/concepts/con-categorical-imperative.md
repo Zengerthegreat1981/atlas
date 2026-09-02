@@ -14,10 +14,22 @@ edges:
 - rel: "formulated_by", target: "thk-kant", target_type: "مفكر"
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
-- id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
+- id: "thk-rawls", title: "جون رولز", type: "مفكر"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
+- id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
+- id: "thk-jean-francois-lyotard", title: "جان فرانسوا ليوتار", type: "مفكر"
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 gaps:
   - "التمييز بين الصياغات الأربع للأمر المطلق (Groundwork, 1785) يحتاج مراجعة بيبلوغرافية."
   - "لا يوجد اقتباس مباشر موثوق من Grundlegung بعد."
+  - "المتن يذكر ناقدين لهما دور في «الأثر»/«نقد الأمر المطلق» — F. H. Bradley وT. H. Green — لكن لا يوجد slug مطابق لهما في الفهرس؛ طُلب slug لكل منهما في requests-minimax.md ولم يُدرجا في related (Task 9)."
+  - "sch-kant-critical (المدرسة، مرتبطة عبر edges/belongs_to) لم تُدرج في related لأن اسمها الحرفي غير مذكور في المتن؛ الوارد فيه هو «الكانطية الجديدة» (Neo-Kantianism, Marburg/Baden) وهي مدرسة لاحقة مختلفة."
+  - "هذا الملف يبدو نسخة موازية لملف con-categorical-imperative-kant.md بنفس العنوان الإنجليزي (Categorical Imperative) — ملاحظة تسجيل فقط، لم يُدمَجا (خارج نطاق هذه المهمة)."
 ---
 
 # الأمر المطلق (Categorical Imperative)

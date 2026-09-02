@@ -13,12 +13,11 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التأهيل النفسي-الاجتماعي", target_type: "تيار"
+- rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
 - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جون هـ. مَكغْرِي
@@ -39,7 +38,3 @@ gaps:
 
 - McGrew, J. H., & Bond, G. R., "Critical ingredients of assertive community treatment: Judgments of the experts" (1995).
 - McGrew, J. H., Bond, G. R., et al., "Measuring the fidelity of implementation of a mental health program model" (1994) — الورقة المرجعية في قياس الالتزام بالنماذج العلاجية.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

@@ -10,15 +10,14 @@ dates: "الولايات المتحدة · القرن العشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1981
-active_end: 2010
+active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "PREP (برنامج تعزيز العلاقة والوقاية)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:
-  - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على سنة ميلاد سوزان بلومبرغ في مصدر أولي أو ثانوي متاح."
+  - "لا ملف مدرسة مستقل لبرنامج PREP بعد؛ سُجِّلت سوزان بلومبرغ ضمن أعضائه اليتامى في agents_specs/missing-schools.md (مع thk-hmarkman)."
 ---
 
 # سوزان بلومبرغ
@@ -44,3 +43,8 @@ gaps:
 
 ## القيد
 - **فعالية PREP على المدى الطويل** ظلت موضع نقاش، خاصة في حالات الإجهاد الشديد.
+
+## المصادر
+
+- Markman, H.J., Stanley, S.M. & Blumberg, S.L. (1994/2018). *Fighting for Your Marriage*. Jossey-Bass.
+- Markman, H.J. & Blumberg, S.L. et al. — دراسات "Prevention and Relationship Enhancement Program" في مركز Center for Marital and Family Studies، University of Denver.

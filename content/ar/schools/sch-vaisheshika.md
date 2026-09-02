@@ -9,11 +9,10 @@ en: "Vaiśeṣika"
 crumb: "الفلسفة ← الهند ← المدارس الأرثوذكسية ← فايشيشيكا"
 dates: "الهند · من القرن 2 ق.م إلى القرن 14 م"
 country: "شبه القارة الهندية"
+cultural_origin: "indian"
 language: "السنسكريتية"
 active_start: -200
 active_end: 1400
-edges:
-- rel: "belongs_to", target: "المدارس الأرثوذكسية الست (آستيكا)", target_type: "مظلة"
 related:
 - id: "sch-nyaya", title: "نيايا", type: "مدرسة"
 - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
@@ -54,3 +53,9 @@ gaps:
 
 - اندمجت تدريجياً مع نيايا في مدرسة موحدة Nyāya-Vaiśeṣika.
 - الذرية الهندية أقل مادية من الذرية اليونانية.
+
+## المصادر
+
+- Potter, Karl H. (ed.). *Encyclopedia of Indian Philosophies, Vol. 2: Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeṣika*. Princeton University Press, 1977.
+- Matilal, Bimal Krishna. *The Nyāya-Vaiśeṣika* (A History of Indian Literature). Otto Harrassowitz, 1977.
+- Halbfass, Wilhelm. *On Being and What There Is: Classical Vaiśeṣika and the History of Indian Ontology*. State University of New York Press, 1992.

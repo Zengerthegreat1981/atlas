@@ -19,7 +19,7 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي بعد."
   - "مفاهيم 'قلق الشهر الثامن' و'الاكتئاب الانفعالي' (Anaclitic Depression) وداء المؤسسات (Hospitalism) تستحق إدراجاً."
 ---
 
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 السنة الأولى من الحياة (The First Year of Life, 1965) · داء المؤسسات والاكتئاب الانفعالي (Hospitalism, 1945) · حوار الرضاعة (No and Yes, 1957).
+
+## المصادر
+
+- Spitz, R. A. (1945). Hospitalism: An inquiry into the genesis of psychiatric conditions in early childhood. *Psychoanalytic Study of the Child*, 1(1).
+- Spitz, R. A. (1957). *No and Yes: On the Genesis of Human Communication*. International Universities Press.
+- Spitz, R. A. (1965). *The First Year of Life: A Psychoanalytic Study of Normal and Deviant Development of Object Relations*. International Universities Press.
+- International Dictionary of Psychoanalysis — مدخل "René Spitz".

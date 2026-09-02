@@ -12,16 +12,15 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-developmental", target_type: "مدرسة"
 related:
-- id: "crt-popper-critique-of-historicism", title: "نقد بوبر للتاريخانية", type: "نقد خارجي موثَّق"
-- id: "crt-feminist-critique-psychoanalysis", title: "نقد نسوي للتحليل النفسي", type: "نقد خارجي موثَّق"
+- id: "crt-popper-critique-of-historicism", title: "نقد بوبر للنزعة التاريخية والشمولية في الفلسفة", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-psychoanalysis", title: "النقد النسوي للتحليل النفسي: الذكورية البنيوية والازدواجية المعيارية", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: جوزيف توبي (thk-tooby)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: ليدا كوسميدس (thk-cosmides)"
+- "رابط مقترح لم يتحقق بعد في الأطلس: جوزيف توبي (thk-tooby)"
+- "رابط مقترح لم يتحقق بعد في الأطلس: ليدا كوسميدس (thk-cosmides)"
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Gould, 1997; Rose & Rose, 2000)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
 - "الفرق بين هذا النقد والنقد التطوري (De Waal) يحتاج فصلاً."
 ---
 # نقد عِلْم النَّفْس التَّطَوُّرِيّ: «قِصَص فَوْق تَطَوُّرِيَّة» غَيْر قَابِلَة لِلتَّفْنِيد
@@ -41,3 +40,8 @@ gaps:
 ## أَهمِّيَّة
 
 النَّقْد «**مُهِمّ**» (Important) لِـ**«**اِنْتِقَاد**» (Critique) عِلْم «**لَا**» (Not) قَابِل لِلتَّفْنِيد، لَكِنَّ «**تَفْنِيد**» (Rejection) الْكُلِّي لِـ**التَّطَوُّر** «**لَا**» (Not) مُبَرِّر.
+
+## المصادر
+
+- Gould, S. J. (1997). *Evolutionary Psychology: An Exchange*. The New York Review of Books.
+- Rose, H. & Rose, S. (Eds.) (2000). *Alas, Poor Darwin: Arguments Against Evolutionary Psychology*. Jonathan Cape.

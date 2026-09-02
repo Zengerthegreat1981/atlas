@@ -10,10 +10,9 @@ crumb: "الفلسفة ← السياسية المعاصرة ← الكوزمو�
 dates: "يونان قديمة ← عالمية · من القرن 4 ق.م إلى اليوم"
 country: "متعددة"
 language: "متعددة"
+cultural_origin: "greek"
 active_start: -400
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
 - id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
 - id: "sch-cynicism", title: "الكلبية", type: "مدرسة"
@@ -58,3 +57,10 @@ gaps:
 ## القيد
 
 - تواجه انتقادات من القوميين، ومن الما بعد الكولونياليين (تشوبري) بتهمة «الكونية الكاذبة».
+
+## المصادر
+
+- Kant, Immanuel. *Zum ewigen Frieden (Perpetual Peace)*. 1795.
+- Nussbaum, Martha. *For Love of Country?*. Beacon Press, 1996 (2002 revised edition).
+- Appiah, Kwame Anthony. *Cosmopolitanism: Ethics in a World of Strangers*. W. W. Norton, 2006.
+- Beck, Ulrich. *The Cosmopolitan Vision*. Polity Press, 2006.

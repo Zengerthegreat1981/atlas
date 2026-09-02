@@ -10,7 +10,11 @@ crumb: "النسوية الفلسفية ← النسوية ما بعد الاس�
 dates: "1988 · غاياتري سبيفاك"
 language: "الإنجليزية"
 active_start: 1988
-active_end: 1988
+active_end: 1999
+author: "غاياتري سبيفاك"
+author_slug: "thk-spivak"
+publication_year: 1988
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-feminism-postcolonial", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 gaps:
   - "النص الأصلي Can the Subaltern Speak? (1988) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988)

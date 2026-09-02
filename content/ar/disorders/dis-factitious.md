@@ -12,18 +12,16 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-supportive-psychotherapy", title: "العلاج النفسي الداعم", type: "تقنية/تدخل علاجي"
+- id: "tec-supportive-psychotherapy", title: "العلاج النفسي الديناميكي الداعم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "syn-ganser", title: "متلازمة غانسر (متلازمة الإجابات التقريبية وعته السجون)", type: "متلازمة"
 - id: "syn-munchausen-by-internet", title: "متلازمة مونخهاوزن عبر الإنترنت (افتعال الأمراض الرقمي)", type: "متلازمة"
+- id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (3 specifiers: self, on another, self + another) لم تُراجع من المصدر الأولي."
   - "تفاصيل ICD-11 (6D50) لم تُراجع تفصيلياً."
@@ -34,7 +32,6 @@ gaps:
   - "الجدل الأخلاقي حول الإبلاغ الإلزامي (mandatory reporting) في حالات Munchausen by Proxy."
   - "التداخل مع اضطرابات الشخصية (Borderline, Antisocial) في المعالجة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب مفتعل (Factitious Disorder)
@@ -97,6 +94,14 @@ Factitious Disorder **من أصعب الاضطرابات في العلاج** ل�
 
 - **برامج متخصصة لـ Factitious Disorder** غير مغطاة.
 - **إدارة حالات Munchausen by Proxy** (بروتوكولات حماية الطفل) غير مغطاة.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين الاضطراب المفتعل كفئة تشخيصية إكلينيكية وبين ثنائية «الذات المزيفة مقابل الذات الحقيقية» كما طرحها توماس ميرتون ودونالد وينيكوت (con-false-self-vs-true-self) — الأخيرة مفهوم عن انشقاق داخلي عام في بنية الذات يمر به كثير من البشر دون مرض، بينما الاضطراب المفتعل فئة سلوكية محددة بمعيار تصنيعٍ متعمد لأعراض جسدية أو نفسية بدافع تبنّي دور المريض، لا مجرد إحساس بالانفصال عن الذات "الحقيقية".
 
 ## الحدود والمخاطر
 

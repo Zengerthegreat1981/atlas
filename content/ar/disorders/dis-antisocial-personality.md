@@ -12,34 +12,32 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-guilt", title: "الذنب", type: "مفهوم"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-identifying-core-beliefs-schemas", title: "تحديد المعتقدات الجوهرية والمخططات المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة الموازنة القرارية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-delayed-response-strategy", title: "استراتيجية تأخير الاستجابة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-conflict-resolution-training", title: "تدريب حلّ النزاع", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-conflict-resolution-training", title: "تدريب حل النزاعات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-smart-goal-setting", title: "وضع أهداف SMART", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-prob-crisis-survival-planning", title: "تخطيط البقاء في الأزمات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-prob-crisis-survival-planning", title: "خطة النجاة من الأزمات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-beh-role-playing", title: "لعب الأدوار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-role-playing", title: "تمثيل الأدوار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "تبنّي المنظور", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-dear-man", title: "دير مان (DEAR MAN)", type: "تقنية/تدخل علاجي"
 - id: "syn-anger", title: "نوبة الغضب", type: "متلازمة"
 - id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
@@ -51,12 +49,20 @@ gaps:
   - "الفاعلية النسبية للعلاجات النفسية المحددة لـ ASPD في البالغين (الأدلة محدودة) لم تُقارَن بدقة من مصدر أولي."
   - "التداخل بين Conduct Disorder في الطفولة و ASPD في البلوغ (الاستمرارية مقابل الانقطاع) لم يُوثَّق بدقة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على اقتباس أولي موثَّق منسوب مباشرة لهذا الاضطراب في مصادر التصنيف المرجعية."
 ---
 
 # اضطراب الشخصية المعادية للمجتمع
 
 اضطراب شخصية يتميز بنمط منتشر من التجاهل لحقوق الآخرين وانتهاكها، يبدأ في سن الـ15 ويتضمن سلوكيات إجرامية، خداع، اندفاعية، عدوانية، إهمال للأمان، وعدم مسؤولية مستمرة. يقع تحت Cluster B (الدرامي/العاطفي/غير المنتظم) في DSM-5-TR.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع "اضطراب/حالة إكلينيكية" في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً — معاييرها الرسمية، تطورها في أدلة التصنيف، وتقنيات التدخل الموثقة عنها — دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي. الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين "نقص الندم" كمعيار تشخيصي في اضطراب الشخصية المعادية للمجتمع وبين con-guilt ("الذنب") كمفهوم وجودي/فلسفي يتناول الذنب كخبرة إنسانية مرتبطة بالحرية والمسؤولية عن الاختيار (كما عند كيركيغارد أو في العلاج الوجودي). الأول وصف إكلينيكي لسمة سلوكية مستمرة ضمن معايير تشخيصية محددة، بينما الثاني تحليل فلسفي لمعنى الذنب في الوجود الإنساني عموماً؛ غياب الذنب سريرياً عند فرد بعينه لا يُفسَّر أو يُقاس بأدوات هذا المفهوم الفلسفي.
 
 ## ملاحظات على المعايير التشخيصية
 

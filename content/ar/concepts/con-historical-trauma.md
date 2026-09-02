@@ -18,15 +18,15 @@ edges:
 - rel: "developed_by", target: "thk-mbraveheart", target_type: "مفكر"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
-- id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
 - id: "thk-mbraveheart", title: "ماريا يلوهورس بريف هارت", type: "مفكر"
-- id: "thk-jgone", title: "جوزيف غون", type: "مفكر"
-- id: "con-grief", title: "الحزن التاريخي غير المُعالَج", type: "مفهوم"
+- id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
+- id: "con-intergenerational-historical-trauma", title: "الصدمة التاريخية متعددة الأجيال لدى الشعوب الأصلية", type: "مفهوم"
+- id: "con-land-based-healing", title: "الشفاء القائم على الأرض (Land-Based Healing)", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: كاري ولتيرز (thk-mwalters)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الصدمة العابرة للأجيال (con-intergenerational-trauma)"
-  - "التمييز بين 'الصدمة التاريخية' (Historical) و'الصدمة الجماعية' (Collective) و'الصدمة العابرة للأجيال' (Intergenerational) و'الصدمة المؤسسية' (Institutional) ليس موحَّداً في الأدبيات. Brave Heart (2003) حاولت الفصل، لكن الاستعمال لا يزال متداخلاً."
-  - "الأساس العصبي-البيولوجي لانتقال الصدمة عبر الأجيال (نظرية 'التخلُّف الجيني' عبر Epigenetics) في طور البحث؛ Ehrenreich & Pollack (2001) ونظرية Yehuda (نقل PTSD عبر الأجيال عند الناجين من الهولوكوست) تحتاج تكاملاً."
+  - "لا يوجد ملف موثّق باسم 'كاري ولتيرز' (كارين ولترز، شريكة بريف هارت في أبحاث الصدمة التاريخية) في الأطلس تحت أي slug — رابط مقترح غير قابل للتحقق حالياً."
+  - "'جوزيف ب. غون' (thk-jgone) موجود فقط كمسودة غير معتمدة في drafts/spark/thinkers/ وليس كملف منشور تحت thinkers/؛ لا يُربط هنا حتى يُرقّى."
+  - "مفهوم 'الحزن التاريخي غير المُعالَج' (Historical Unresolved Grief) الذي صاغته بريف هارت (1995) لا يملك ملف con- مستقل في الأطلس؛ con-grief الموجود مفهوم يونغي مختلف تماماً (الحزن كمسار للتفريد) ولا يصح ربطه هنا."
+  - "التمييز بين 'الصدمة التاريخية' و'الصدمة الجماعية' و'الصدمة المؤسسية' ليس موحَّداً في الأدبيات؛ Brave Heart (2003) حاولت الفصل لكن الاستعمال لا يزال متداخلاً."
 ---
 
 # الصدمة التاريخية (Historical Trauma)
@@ -125,8 +125,3 @@ gaps:
 - Brave Heart, M. Y. H., & DeBruyn, L. M. (1998). «The American Indian Holocaust». *American Indian and Alaska Native Mental Health Research*, 8(2).
 - Yehuda, R. (2002). «Post-traumatic stress disorder». *New England Journal of Medicine*, 346(2). (نظرية انتقال PTSD عبر الأجيال).
 
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-indigenous-psychology** و**sch-liberation-psychology** كمفهوم مؤسِّس.
-- مرتبط بـ**con-historical-unresolved-grief** (الحزن التاريخي) و**con-intergenerational-trauma** (الصدمة العابرة للأجيال) كمكمِّلات.
-- يستحق عناصر `thk-mbraveheart` و`thk-jgone` و`thk-mwalters` كمؤسِّسين ونقاد.

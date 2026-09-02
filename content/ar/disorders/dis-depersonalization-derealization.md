@@ -12,33 +12,31 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
+- id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "syn-panic", title: "نوبة الهلع", type: "متلازمة"
 - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-interoceptive-awareness-training", title: "التدريب على الوعي الداخلي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل ذات المراقب", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-anchoring-in-the-five-senses", title: "الارتكاز على الحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل الذات المُلاحِظة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-anchoring-in-the-five-senses", title: "الرسو في الحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "تهدئة الذات بالحواس الخمس", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-mind-mindfulness-of-current-emotion", title: "التيقّظ للانفعال الحالي", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-mind-mindfulness-of-current-emotion", title: "اليقظة تجاه الانفعال الحالي", type: "تقنية/تدخل علاجي"
 - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
-- id: "tec-mbsr", title: "الحد من الإجهاد باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
 - id: "syn-alice-in-wonderland", title: "متلازمة أليس في بلاد العجائب (تشوه إدراك حجم الجسد والمكان)", type: "متلازمة"
 - id: "syn-asomatognosia", title: "متلازمة فقد حس الجسد (عمه إدراك أجزاء الجسد)", type: "متلازمة"
 - id: "syn-stendhal", title: "متلازمة ستندال (متلازمة فلورنسا / الانهيار النفسي الجسدي أمام الفن)", type: "متلازمة"
@@ -46,12 +44,19 @@ related:
 gaps:
   - "آليات الدماغ وراء تبدّد الشخصية/الواقع لم تُراجع من مصدر أولي عصبي مباشر."
   - "الحدود بين تبدّد الشخصية العرضي والمرضي تحتاج توضيحاً أكثر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب تبدّد الشخصية/الواقع
 
 اضطراب يتميّز بتجارب مستمرة أو متكررة من تبدّد الشخصية (الشعور بالانفصال عن الذات، كأن المرء يراقب نفسه من الخارج) أو تبدّد الواقع (الشعور بأن البيئة المحيطة غير واقعية أو ضبابية أو مبتعدة)، مع إدراك الشخص أن هذه التجارب ليست حقيقية.
+
+## السقف الإكلينيكي
+
+هذا المدخل يصف الفئة التشخيصية معرفياً وفق معايير DSM-5-TR وICD-11 (6B64)، مع مسارها العلاجي التدريجي الموثّق، دون تقديم أي تقييم تشخيصي مباشر لفرد بعينه أو توجيه علاجي شخصي؛ الشعور العابر بالغرابة تجاه الذات يختلف عن الفئة المرضية، والتمييز بينهما يتطلب تقييماً إكلينيكياً متخصصاً.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب تبدّد الشخصية/الواقع كفئة سريرية وبين مفهوم **الجسد المعيش (Leib مقابل Körper)** كما طرحه هوسرل ثم مرلو-بونتي (con-lived-body) — هذا المفهوم الفينومينولوجي يصف بنية معرفية عامة: أن كل إنسان يختبر جسده من الداخل كمركز إدراكي حيّ (Leib) وليس فقط كموضوع مادي (Körper) يُلاحَظ من الخارج، وهو وصف بنيوي لكل خبرة إنسانية سوية. أما DPDR فحالة إكلينيكية تصف انهياراً مستمراً ومتكرراً في هذا الإحساس الطبيعي، بحيث يشعر الشخص فعلياً بمراقبة ذاته من الخارج كأنه ليس صاحب جسده، مع ضائقة أو خلل وظيفي موثق يستوفي معايير DSM-5-TR — أي عطل عرضي في بنية الخبرة، لا وصفاً فلسفياً عاماً لها.
 
 ## ملاحظات على المعايير التشخيصية
 

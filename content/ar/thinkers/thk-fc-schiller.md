@@ -13,15 +13,12 @@ active_end: 1937
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "thk-vaihinger", title: "هانز فايغر", type: "مفكر"
-- id: "thk-bachelard", title: "غاستون باشلار", type: "مفكر"
-- id: "thk-cassirer", title: "إرنست كاسيرر", type: "مفكر"
-- id: "thk-pepper", title: "ستيفن كول بِبِر", type: "مفكر"
 gaps:
   - "موقعه الدقيق ضمن البراغماتية مقابل بيرس وجيمس يحتاج توثيقاً أكاديمياً أعمق."
   - "مصادره العربية شحيحة جداً."
@@ -33,11 +30,11 @@ gaps:
 
 ## المؤلفات المحورية
 
-- *الأحكام الصائبة: محاولة لتوطيد منطق الحقيقة* (Studies in Humanism, 1902) — عمله الأول.
+- *دراسات في الإنسانية* (Studies in Humanism, 1907) — عمله المحوري في صياغة «الإنسانية» الفلسفية.
 - *الإنسانية: مقالات فلسفية* (Humanism, 1903).
 - *المنطق للاستخدام* (Logic for Use, 1929).
 - *مشكلات البراغماتية* (Problems of Belief, 1924).
-- *دراستي في أوروبية 1949* (Our Human Truths, 1939).
+- *حقائقنا الإنسانية* (Our Human Truths) — نُشر بعد وفاته سنة 1939.
 
 ## المساهمات الرئيسية
 

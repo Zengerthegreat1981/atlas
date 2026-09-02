@@ -10,12 +10,13 @@ crumb: "علم النفس ← المدارس السلوكية والمعرفية
 dates: "الولايات المتحدة، المملكة المتحدة، روسيا/الاتحاد السوفيتي · من 1913 إلى اليوم"
 country: "الولايات المتحدة، المملكة المتحدة، روسيا"
 language: "الإنجليزية، الروسية"
+cultural_origin: "anglo-american"
 active_start: 1913
 active_end: "مستمر"
 edges:
 - rel: "split_into", target: "br-classical-behaviorism", target_type: "تيار"
-- rel: "split_into", target: "السلوكية الراديكالية (Skinner)", target_type: "تيار"
-- rel: "split_into", target: "علم النفس الغائي (Tolman)", target_type: "تيار"
+- rel: "split_into", target: "br-radical-behaviorism", target_type: "تيار"
+- rel: "split_into", target: "br-purposive-behaviorism", target_type: "تيار"
 - rel: "split_into", target: "br-neobehaviorism", target_type: "تيار"
 - rel: "evolved_into", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-act", target_type: "مدرسة"
@@ -23,14 +24,14 @@ edges:
 - rel: "evolved_into", target: "con-applied-behavior-analysis", target_type: "تيار"
 related:
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-- id: "thk-jwatson", title: "جون برودس واطسون", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية", type: "تيار"
-- id: "br-purposive-behaviorism", title: "السلوكية الغائية (تولمان)", type: "تيار"
-- id: "br-hullian-behaviorism", title: "Hullian Behaviorism", type: "تيار"
-- id: "br-neobehaviorism", title: "السلوكية الجديدة (Neobehaviorism)", type: "تيار"
+- id: "br-purposive-behaviorism", title: "السلوكية الغائية والمعرفية المبكرة (تولمان)", type: "تيار"
+- id: "br-hullian-behaviorism", title: "السلوكية الهالية ونظرية خفض الدافع", type: "تيار"
+- id: "br-neobehaviorism", title: "السلوكية الجديدة (النيوسلوكية)", type: "تيار"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-bjhopkins", title: "بيل ل. هوپكنز", type: "مفكر"
@@ -38,7 +39,7 @@ related:
 gaps:
   - "التواريخ الدقيقة للتطورات المبكرة (واطسون 1913، سكينر 1938، بافلوف 1897/1903) موثّقة لكن لم تُقارن في هذا الملف."
   - "علاقة 'الثورة المعرفية' (1956، Miller-Galanter-Pribram، 1960 Chomsky) بإعادة تقويم السلوكية لم تُحلّل في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
+  - "لا اقتباس مباشر مُدرَج في هذا الملف من واطسون أو سكينر أو بافلوف — يحتاج مراجعة من النص الأصلي."
 ---
 
 # السلوكية (Behaviorism)
@@ -103,9 +104,11 @@ gaps:
 - **التطبيق على الإنسان المعقد**: تتطلب تعديلات مكثفة.
 - **تاريخياً**: برنامج «S-R» الفاشل، تجارب واطسون على «ألبرت الصغير» (Little Albert، 1920) إشكالية أخلاقياً.
 
-## المرجع الموصى
+## المصادر
 
 - Watson, J. B. (1913). Psychology as the Behaviorist Views It. *Psychological Review*, 20(2), 158-177.
+- Pavlov, I. P. (1927). *Conditioned Reflexes* (G. V. Anrep, Trans.). Oxford University Press.
+- Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. Macmillan.
 - Skinner, B. F. (1938). *The Behavior of Organisms*. Appleton-Century-Crofts.
 - Skinner, B. F. (1953). *Science and Human Behavior*. Macmillan.
 - Bandura, A. (1977). *Social Learning Theory*. Prentice Hall.

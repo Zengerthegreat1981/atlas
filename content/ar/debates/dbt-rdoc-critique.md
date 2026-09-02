@@ -13,17 +13,13 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 evidence_level: "متوسط"
 edges:
-- rel: "belongs_to", target: "علم النفس الإمراضي التجريبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
-- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "dbt-categorical-vs-dimensional-diagnosis", title: "التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية", type: "جدل"
 - id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي", type: "جدل"
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "تقييم تجربة RDoC الميدانية بعد 2017 (إصدار RDoC 2.0) في تطبيقها على العلاج النفسي يحتاج استعراضاً مستقلاً."
 ---
 
@@ -37,7 +33,7 @@ gaps:
 
 ## الموقف الثاني: RDoC غير قابل للتطبيق الإكليني ويُفقد الطبيب النفسي أدواته
 
-قدّم ستوارت كلاي (Lee Anna Clark) وآخرون (Clark, 2014) النقد الأقوى. حجة كلاي: RDoC أداة **بحثية** ممتازة، لكنها غير صالحة كبديل تشخيصي إكلينيكي للأسباب التالية:
+قدّمت لي آنا كلارك (Lee Anna Clark) وآخرون (Clark, 2014) النقد الأقوى. حجة كلارك: RDoC أداة **بحثية** ممتازة، لكنها غير صالحة كبديل تشخيصي إكلينيكي للأسباب التالية:
 1) **لا تقدم تشخيصاً قابلاً للاستخدام**: الطبيب النفسي يحتاج إجابة على سؤال "هل هذا مريض اكتئاب يحتاج دواءً الآن؟". RDoC لا يعطي هذا الجواب؛ يقول إن المريض "عنده خلل في نظام المكافأة" — وهو ما لا يميّز الاكتئاب عن الإدمان عن الفصام العاطفي.
 2) **تتجاهل الخبرة الظاهرية والمعاناة الذاتية**: التركيز على البُعد البيولوجي يُسقط المعاناة الإنسانية والعلاقة العلاجية من الصورة، ويعيد الطب النفسي إلى النموذج الحيوي الاختزالي (Biological Reductionism) الذي سعى ما وراءه لسنوات.
 3) **لا تخدم القرارات العلاجية الحالية**: البروتوكولات العلاجية الفعّالة (CBT، الأدوية) طُورت بناءً على التشخيصات الفئوية لـ DSM. RDoC لم يُنتج بعدُ بروتوكولات علاجية مربوطة بأبعاده.
@@ -48,7 +44,7 @@ gaps:
 
 ## الأدلة على كل جانب
 
-على جانب RDoC: الإنجازات الفعلية في الأبحاث كثيرة (مثل تمييز أنماط خلل في نظام التهديد في القلق مقابل PTSD)، واكتشاف المؤشرات الحيوية لبعض الأبعاد (مثل السُّماك في انفصام الشخصية)، وكسر فكرة "اضطراب" ككتلة متجانسة. على الجانب الناقد: غياب الإرشادات التشخيصية الملموسة، والتكلفة الهائلة لأدوات التصوير العصبي (الـFMRI، EEG الكمّي) التي لا تتوفر إلا في مراكز بحثية، وصعوبة تطبيق الأبعاد على المرضى الفعليين (الأنظمة الخمسة لـ RDoC تتداخل في كل مريض). كلاي (2014) وثيقة "أزمة شرعية الطب النفسي" تشير إلى أن RDoC قد يُفاقم أزمة الشرعية بإلغائه التشخيصات المألوفة.
+على جانب RDoC: الإنجازات الفعلية في الأبحاث كثيرة (مثل تمييز أنماط خلل في نظام التهديد في القلق مقابل PTSD)، واكتشاف المؤشرات الحيوية لبعض الأبعاد (مثل السُّماك في انفصام الشخصية)، وكسر فكرة "اضطراب" ككتلة متجانسة. على الجانب الناقد: غياب الإرشادات التشخيصية الملموسة، والتكلفة الهائلة لأدوات التصوير العصبي (الـFMRI، EEG الكمّي) التي لا تتوفر إلا في مراكز بحثية، وصعوبة تطبيق الأبعاد على المرضى الفعليين (الأنظمة الخمسة لـ RDoC تتداخل في كل مريض). كلارك (2014) في ورقتها عن "أزمة شرعية الطب النفسي" (Clark, Cuthbert, Lewis-Fernández, Narrow & Reed, "Three Approaches to Understanding and Classifying Mental Disorder", *Psychological Science in the Public Interest*, 2017) تشير إلى أن RDoC قد يُفاقم أزمة الشرعية بإلغائه التشخيصات المألوفة.
 
 ## لماذا يهمّ هذا الجدل؟
 
@@ -57,3 +53,10 @@ gaps:
 ## الحالة الراهنة والاتجاهات المستقبلية
 
 اليوم RDoC يُطبَّق كأداة بحثية تكاملية لا كبديل كامل. DSM-5 (2013) و DSM-5-TR (2022) أكدا التزامهما بالنموذج الفئوي مع فتح أبواب للتداخل مع RDoC. التوجهات المستقبلية تتجه نحو: (1) تصنيفات "هجينة" تجمع الأبعاد العصبية والظواهر، (2) التصوير العصبي الفردي (Precision Psychiatry)، (3) نماذج "الأبعاد العابرة للتشخيص" (Transdiagnostic Dimensions). RDoC سيبقى مرجعاً بحثياً مؤثراً، لكن مسار استبداله الكامل لـ DSM غير متوقع في الأمد المنظور، خاصةً مع مقاومة الإكلينيين واقتصاديات الصحة العقلية الواقعية.
+
+## المصادر
+
+- Insel, T. et al. "Research Domain Criteria (RDoC): Toward a New Classification Framework for Research on Mental Disorders." *American Journal of Psychiatry*, 167(7), 2010.
+- Cuthbert, B.N. "The RDoC Framework: Facilitating Transition from ICD/DSM to Dimensional Approaches that Integrate Neuroscience and Psychopathology." *World Psychiatry*, 14(1), 2015.
+- Clark, L.A., Cuthbert, B., Lewis-Fernández, R., Narrow, W.E. & Reed, G.M. "Three Approaches to Understanding and Classifying Mental Disorder: ICD-11, DSM-5, and the National Institute of Mental Health's Research Domain Criteria (RDoC)." *Psychological Science in the Public Interest*, 18(2), 2017.
+- Kotov, R. et al. "The Hierarchical Taxonomy of Psychopathology (HiTOP): A Dimensional Alternative to Traditional Nosologies." *Journal of Abnormal Psychology*, 126(4), 2017.

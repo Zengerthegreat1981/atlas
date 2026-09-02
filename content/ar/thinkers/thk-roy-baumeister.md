@@ -13,14 +13,13 @@ language: "الإنجليزية"
 active_start: 1978
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي والتنظيم الذاتي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "axm-self-regulation", title: "بديهية التنظيم الذاتي", type: "بديهية/مبدأ تأسيسي"
 - id: "con-ego-depletion", title: "استنزاف الأنا ونفاذ طاقة قوة الإرادة (Ego Depletion)", type: "مفهوم"
-- id: "wrk-willpower-baumeister", title: "قوة الإرادة", type: "عمل / كتاب"
+- id: "wrk-willpower-baumeister", title: "قوة الإرادة: إعادة اكتشاف أعظم طاقة بشرية", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب مباشرة إليه بنصّه الأصلي (لا ترجمة عربية موثّقة) قابل للإيراد هنا."
 ---
 
 # روي باوميستر
@@ -48,6 +47,8 @@ gaps:
 - *Willpower: Rediscovering the Greatest Human Strength* (2011، مع جون تيرني).
 - *The Cultural Animal* (2005)، *Meanings of Life* (1991).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Roy F. Baumeister & John Tierney, *Willpower: Rediscovering the Greatest Human Strength* (Penguin Press, 2011).
+- Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven & Dianne M. Tice, "Ego Depletion: Is the Active Self a Limited Resource?", *Journal of Personality and Social Psychology*, 1998.
+- M. S. Hagger et al., "A Multilab Preregistered Replication of the Ego-Depletion Effect," *Perspectives on Psychological Science*, 2016.

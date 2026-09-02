@@ -12,14 +12,14 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "axm-homeostasis", title: "بديهية الاستتباب", type: "بديهية/مبدأ تأسيسي"
-- id: "thk-cannon", title: "والتر كانون", type: "مفكر"
+- id: "axm-homeostasis", title: "مبدأ الاستتباب (Homeostasis)", type: "بديهية/مبدأ تأسيسي"
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "con-drive-reduction", title: "نظرية خفض الدافع", type: "مفهوم"
 - id: "con-adaptation", title: "التكيُّف", type: "مفهوم"
-- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
 gaps:
   - "التحول النظري من مفهوم الاستتباب (Homeostasis) إلى الاستقرار عبر التغيير (Allostasis) يحتاج توثيقاً موسعاً."
   - "النماذج النظامية الأسرية التي استعارت مفهوم الاستتباب العائلي تتطلب فصلاً مقارناً."
+  - "لا يوجد ملف thk- لوالتر كانون (Walter Cannon)، صائغ المصطلح 1926 والمذكور بالاسم في المتن؛ slug 'thk-cannon' الموجود يخص شخصاً مختلفاً تماماً (بيتي كانون، مفكرة وجودية معاصرة) ولا يصح استخدامه هنا — طُلب slug جديد في requests-minimax.md."
 ---
 
 # الاستتباب

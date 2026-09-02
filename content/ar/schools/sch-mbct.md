@@ -10,13 +10,13 @@ crumb: "علم النفس ← المدارس العلاجية المعاصرة �
 dates: "بريطانيا، كندا · من 2002 إلى اليوم"
 country: "المملكة المتحدة (أكسفورد، كامبريدج، تورنتو)"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 2002
 active_end: "مستمر"
 register: "clinical"
 evidence_level: "well-established"
 edges:
 - rel: "evolved_from", target: "sch-cbt", target_type: "مدرسة"
-- rel: "evolved_from", target: "البرنامج التأملي للتخفيف من التوتر (MBSR)", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-zsegal", target_type: "مفكر"
 - rel: "developed_by", target: "thk-mwilliams", target_type: "مفكر"
 - rel: "developed_by", target: "thk-jteasdale", target_type: "مفكر"
@@ -35,7 +35,6 @@ related:
 gaps:
   - "النموذج الآلي (كيف تقلل MBCT خطر الانتكاسة) ما يزال مُتنازَعاً عليه تجريبياً."
   - "العلاقة بين MBCT وبحوث MBSR الأصلية (Kabat-Zinn 1990) موثّقة جزئياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
 ---
 
 # العلاج المعرفي القائم على اليقظة الذهنية (MBCT)
@@ -88,7 +87,7 @@ gaps:
 - **NICE (2009، 2022)**: أوصت بـ MBCT كخيار من الدرجة الأولى لمنع انتكاسة الاكتئاب.
 - **دراسات حديثة**: تطبيق MBCT في طيف أوسع — اضطرابات القلق، الاكتئاب الجسيم الحاد (كعلاج مُكمِّل)، اضطرابات الأكل، والاضطرابات الناجمة عن الإجهاد.
 
-## المطبوعات التأسيسية الرئيسية
+## المصادر
 
 - Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-Based Cognitive Therapy for Depression: A New Approach to Preventing Relapse*. Guilford Press.
 - Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013). *Mindfulness-Based Cognitive Therapy for Depression* (2nd ed.). Guilford Press.

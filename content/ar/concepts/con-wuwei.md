@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "con-dao", title: "الداو (道) — المبدأ الكوني", type: "مفهوم"
-- id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
 gaps:
   - "الفرق بين 'وو وي' في 'Dao De Jing' و'وو وي' في 'Zhuangzi' (النسبية) لم يُحلّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

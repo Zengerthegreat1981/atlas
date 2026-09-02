@@ -15,19 +15,13 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "con-behavioral-medicine", title: "الطب السلوكي (مفهوم)", type: "مفهوم"
+- id: "con-behavioral-medicine", title: "الطب السلوكي والصحة السلوكية", type: "مفهوم"
 - id: "con-stimulus-control", title: "التحكم بالمنبّهات", type: "مفهوم"
-- id: "dis-delayed-ejaculation", title: "تأخر القذف", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-erectile-disorder", title: "اضطراب الانتصاب", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-female-orgasmic", title: "اضطراب النشوة الأنثوية", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-female-sexual-interest-arousal", title: "اضطراب الاهتمام/الإثارة الجنسية الأنثوية", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-genito-pelvic-pain", title: "اضطراب الألم التناسلي الحوضي / الاختراق", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-pica", title: "اضطراب أكل المواد غير الغذائية (Pica)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-rumination", title: "اضطراب الاجترار (Rumination Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
+evidence_level: "well-established"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "برامج إعادة التأهيل القلبي (Cardiac Rehabilitation) وبروتوكولات إدارة الألم المزمن — موضع تفصيل سريري."
-  - "فعالية تدخلات الطب السلوكي في الأمراض المُعدية المزمنة (HIV، السل) — موضع بحث."
+  - "الاقتباس المباشر المنسوب لـSchwartz & Weiss 1978 غير مؤكد الصياغة الحرفية؛ الأرقام النسبية (20-30% لإعادة التأهيل القلبي، 70-80% لـCBT-I، 0.5-1.5% لـHbA1c) غير مُسندة لدراسة أو تحليل تلوي بعينه بالاسم والسنة."
+  - "فعالية تدخلات الطب السلوكي في الأمراض المُعدية المزمنة (HIV، السل) — موضع بحث لم يُفصَّل هنا."
 ---
 
 # الطب السلوكي/الصحة السلوكية (تدخل)

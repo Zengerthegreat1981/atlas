@@ -12,12 +12,10 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: 1978
 active_end: 2018
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتأكيدات الإيجابية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-louise-hay", title: "لويز هاي", type: "مفكر"
 - id: "thk-napoleon-hill", title: "نابليون هيل", type: "مفكر"
-- id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS)", type: "مدرسة"
 gaps:
   - "لا توجد دراسات سريرية محكّمة على فعالية منهج التأكيدات الإبداعية في مجلة طب نفسية محكّمة."
   - "كتاب Creative Visualization (1978) لم يُراجَع أكاديمياً."
@@ -35,7 +33,7 @@ gaps:
 - **"التأكيد الإبداعي" (Creative Visualization Workbook, 1995)**: دفتر تمارين عملي يرافق الكتاب الأساسي.
 - **"التأكيدات: أدوات للتحوّل" (Creating True Prosperity, 1997)**: كتاب قصير عن الازدهار (Prosperity) يجمع بين التصوّر والقصص التأمّلية.
 - **"قانون التجاذب"**: تطوير شعبي لمفهوم "ما تبعثه تستقبله" (what you put out comes back) دون الجذور الفلسفية العميقة لقانون الجذب، لكن بصياغة قابلة للتطبيق.
-- **"مجموعة New World Library"**: تأسيس دار نشر مع صديقتها Anne Singer، ساهمت في نشر أدب "الروحانية العملية" (Practical Spirituality) لعقدين من الزمن.
+- **"دار New World Library"**: أسّستها عام 1977 مع Marc Allen، وساهمت الدار في نشر أدب "الروحانية العملية" (Practical Spirituality) لعقود.
 
 ## موقعها من التيار
 
@@ -50,6 +48,8 @@ gaps:
 - *The Four Levels of Healing: A Guide to Balancing the Spiritual, Mental, Emotional, and Physical Aspects of Life* (1998).
 - *Meditations: Visualizations for Creative Self-Healing* (أشرطة صوتية).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثّق في هذا الملف.
+- Shakti Gawain, *Creative Visualization* (Whatever Publishing, 1978؛ طبعة منقّحة New World Library, 2002).
+- Shakti Gawain, *Living in the Light: Follow Your Inner Guidance to Create a New Life* (New World Library, 1986).
+- نعي وفاتها في *Los Angeles Times*، نوفمبر 2018، يوثّق تأسيسها دار New World Library مع Marc Allen.

@@ -12,6 +12,7 @@ country: "شبه القارة الهندية"
 language: "السنسكريتية"
 active_start: -600
 active_end: 1200
+cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
 related:
@@ -58,3 +59,9 @@ gaps:
 
 - النصوص الأصلية مفقودة، والتعميم قائم على إشارات معادية.
 - الانطباع بأنها «شهوانية» مبالغ فيه في كثير من المصادر.
+
+## المصادر
+
+- Mādhava Vidyāraṇya, *Sarvadarśanasaṅgraha* (trans. E. B. Cowell & A. E. Gough, *The Sarva-Darsana-Samgraha*, 1882).
+- Debiprasad Chattopadhyaya, *Lokayata: A Study in Ancient Indian Materialism* (People's Publishing House, 1959).
+- Radhakrishnan & Moore (eds.), *A Source Book in Indian Philosophy* (Princeton University Press, 1957).

@@ -11,7 +11,7 @@ crumb: "علم الأعصاب الاجتماعي ← المفاهيم ← الأ
 active_start: 2003
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم الأعصاب الاجتماعي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "axm-hedonic-principle", title: "المبدأ الهيدوني (مبدأ اللذة-الألم)", type: "بديهية/مبدأ تأسيسي"
 - id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
@@ -19,7 +19,6 @@ related:
 - id: "thk-john-cacioppo", title: "جون كاسيوبو", type: "مفكر"
 gaps:
   - "تجارب Cyberball ومسح الدماغ بالرنين المغناطيسي لنعومي أيزنبرغر وماثيو ليبرمان (2003)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الألم الاجتماعي وتطابق دوائر الألم الجسدي في الدماغ
@@ -34,6 +33,8 @@ gaps:
 
 تأكيد أن الجروح العاطفية ليست مجازاً شاعرياً بل معاناة فسيولوجية حقيقية تتطلب رعاية وعلاجاً.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Eisenberger, N. I., Lieberman, M. D., & Williams, K. D. (2003). "Does Rejection Hurt? An fMRI Study of Social Exclusion." *Science*, 302(5643), 290-292.
+- Eisenberger, N. I., & Lieberman, M. D. (2004). "Why Rejection Hurts: A Common Neural Alarm System for Physical and Social Pain." *Trends in Cognitive Sciences*, 8(7), 294-300.
+- Cacioppo, J. T., & Patrick, W. (2008). *Loneliness: Human Nature and the Need for Social Connection*. W. W. Norton.

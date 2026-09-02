@@ -15,9 +15,8 @@ related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-major-depressive", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-- id: "dbt-medication-children", title: "جِدَل دَوَاء الاضْطِرَابات النَّفْسِيّة لِلْأَطْفَال", type: "جدل"
-- id: "dbt-antidepressants-efficacy-debate", title: "جدل الفاعلية البيولوجية لمضادات الاكتئاب", type: "جدل"
+- id: "dbt-medication-vs-psychotherapy-augmentation-treatment-resistant-depression", title: "جِدَل الِاِكْتِئَاب الْمُقَاوِم لِلْعِلَاج: إِضَافَة دَوَاء ثَانٍ أَمْ تَحْوِيل إِلَى عِلَاج نَفْسِيّ؟", type: "جدل"
+- id: "dbt-antidepressants-efficacy-debate", title: "جدل الفاعلية البيولوجية لمضادات الاكتئاب وفرضية السيروتونين", type: "جدل"
 gaps:
   - "مشروع STAR*D (Sequenced Treatment Alternatives to Relieve Depression) توثيقه في العربية محدود"
   - "مقارنة نتائج دراسة NIMH (Treatment of Depression Collaborative Research Program) غير متاحة بالعربية"
@@ -53,7 +52,7 @@ gaps:
 - **الْمَرْحَلَة 3**: **إِضَافَة لِيثْيُوم** (Lithium Augmentation) أَوْ **تَحْوِيل** إِلَى **إِفِيكْسُور** (Venlafaxine).
 - **الْمَرْحَلَة 4**: **Tranylcypromine** (MAOI) أَوْ **ECT** (Electroconvulsive Therapy) لِـ**حَالَات مُسْتَعْصِيَة**.
 
-**الِاِسْتِنْتَاج الرَّئِيس**: الْاِئْتِلَاف (CBT + دَوَاء) أَفْضَل فِي الْاِسْتِجَابَة السَّرِيعَة، لَكِنَّ CBT وَحْده يُسَاوِي الدَّوَاء عَلَى الْمُدَى الطَّوِيل فِي حَالَات مُعْتَدِلَة.
+**الِاِسْتِنْتَاج الرَّئِيس**: الْاِئْتِلَاف (CBT + دَوَاء) أَفْضَل فِي الْاِسْتِجَابَة السَّرِيعَة، لَكِنَّ CBT وَحْده يُسَاوِي الدَّوَاء عَلَى الْمُدَى الطَّوِيل فِي حَالَات مُعْتَدِلَة. هَذَا الْجَدَل يَتَنَاوَل **مَسَار STAR\*D الْكَامِل مِن الْبِدَايَة** (اِخْتِيَار الْخَطّ الْأَوَّل)؛ نِزَاع الْمَرْحَلَة الثَّالِثَة تَحْدِيدًا (إِضَافَة لِيثْيُوم بَعْد فَشْل عِلَاجَيْن) مَبْحُوث بِـ**تَفْصِيل** أَوْسَع فِي جَدَل الِاِكْتِئَاب الْمُقَاوِم لِلْعِلَاج (2010–).
 
 ## الْحُجَج الْمُتَبَادَلَة
 
@@ -70,11 +69,10 @@ gaps:
 
 ## الْمَوَاقِف الْمُعَاصِرَة
 
-- **نِكُولَاس دِيبُولِيس** (Nicolas DePaulo)، **مَايْكَل ثَاس** (Michael Thase)، **مَادْهُكار ترِيفِيدي** (Madhukar Trivedi): الدَّوَاء + CBT فِي الْاِئْتِلَاف.
-- **دَانِيل بُور** (Daniel Buer)، **دَافِيد بَارنِس** (David Burns): CBT أَوَّلًا لِـ**اِكْتِئَاب** مُعْتَدِل.
-- **سْتِيفن هِيلف** (Steven Hyman)، **تِوماس إِنْسِل** (Thomas Insel): الْاِخْتِلَال «**دِمَاغِيّ**» (Brain-Based) — الدَّوَاء أَسَاس.
-- **إِرِك خَالِفِين** (Edward Khantzian): نَمُوذَج «**مُسَكِّن الذَّات**» (Self-Medication) — الْمَوَاد تَدْخُل لِـ**تَعْوِيض** نَقْص نَفْسِيّ.
-- **لُورَانس فَرِيدْمَان** (Lawrence Friedman): تَفْضِيل الْمَرِيض مَحْوَرِيّ.
+- **ج. رِيْمُوند دِيبُولِيُو** (J. Raymond DePaulo، مُدِير قِسْم الطِّبّ النَّفْسِيّ بِـ**جُونْز هُوبْكِنْز**)، **مَايْكَل ثَاس** (Michael Thase)، **مَادْهُكار ترِيفِيدي** (Madhukar Trivedi): الدَّوَاء + CBT فِي الْاِئْتِلَاف.
+- **دَافِيد بَارنِس** (David Burns، مُؤَلِّف *Feeling Good* وَتِلْمِيذ بِيك): CBT أَوَّلًا لِـ**اِكْتِئَاب** مُعْتَدِل.
+- **سْتِيفن هِيلْمَان** (Steven Hyman)، **تِوماس إِنْسِل** (Thomas Insel، مُدِيرَا NIMH سَابِقًا): الْاِخْتِلَال «**دِمَاغِيّ**» (Brain-Based) — الدَّوَاء أَسَاس.
+- دِرَاسَة **PReDICT** (Dunlop et al., 2017، جَامِعَة إِيمُورِي): تَفْضِيل الْمَرِيض لِـ**عِلَاجه** رَفَعَ نَتَائِج HAM-D بِـ+2.9 نُقْطَة لِـ**الدَّوَاء** وَ+8.0 نُقْطَة لِـ**CBT** مُقَارَنَة بِتَلَقِّي عِلَاج غَيْر مُفَضَّل.
 
 ## نَقْد الْجَدَل
 
@@ -83,3 +81,10 @@ gaps:
 ## الْأَهَمِّيَّة الْإِكْلِينِيكِيَّة الْمُعَاصِرَة
 
 (1) **الطِّبّ النَّفْسِيّ الدَّقِيق** (Precision Psychiatry): اِسْتِخْدَام الْوَاسِمَات الْحَيَوِيَّة (Biomarkers) لِتَوْجِيه الِاِخْتِيَار. (2) **اِتِّجَاه الْخِدْمَات** (Stepped Care): بِدْء بِـ**خَطّ** أَبْسَط، تَصْعِيد حَسَب الِاِسْتِجَابَة. (3) **النَّمَاذِج التَّشَارُكِيَّة** (Collaborative Care) — IMPACT: اِئْتِلَاف مَعَ مُشَارَكَة طَبِيب أَسْرَة + عَامِل صِحَّة نَفْسِيّة. (4) **الْعِلَاج عَن بُعْد** (Teletherapy) وَ**الْأَدْوِيَة الرَّقْمِيَّة** (Digital Therapeutics) — تُغَيِّر مَعَادِلَة الْإِمْكَانِيَّة.
+
+## المصادر
+
+- Elkin, I., et al. (1989). "National Institute of Mental Health Treatment of Depression Collaborative Research Program: general effectiveness of treatments." *Archives of General Psychiatry*, 46(11), 971–982 (NIMH TDCRP).
+- Rush, A. J., et al. (2006). "Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps: a STAR\*D report." *American Journal of Psychiatry*, 163(11), 1905–1917.
+- Kirsch, I., et al. (2008). "Initial severity and antidepressant benefits: a meta-analysis of data submitted to the FDA." *PLoS Medicine*, 5(2), e45.
+- Dunlop, B. W., et al. (2017). "Effects of patient preferences on outcomes in the Predictors of Remission in Depression to Individual and Combined Treatments (PReDICT) study." *American Journal of Psychiatry*, 174(6), 546–556.

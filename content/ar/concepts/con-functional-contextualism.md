@@ -12,16 +12,17 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
-- id: "con-relational-frame-theory", title: "نظرية إطار العلاقات", type: "مفهوم"
+- id: "con-relational-frame-theory", title: "نظرية إطار العلاقات (RFT)", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "التمييز الفلسفي الدقيق بين Functional Contextualism و Radical Behaviorism و Pragmatism الكلاسيكي — موضع فلسفي معمَّق."
 ---
 
 # السياقية الوظيفية
 
-الفلسفة العلمية التأسيسية لمدرسة القبول والالتزام (ACT) والموجة الثالثة في العلاج السلوكي، صاغها ستيفن هايز في الثمانينيات كمحاولة لتجديد السلوكية مع الحفاظ على صرامتها التجريبية.
+الفلسفة العلمية التأسيسية لمدرسة القبول والالتزام (ACT) والموجة الثالثة في العلاج السلوكي، صاغها **ستيفن سي. هايز** (Steven C. Hayes) في أواخر الثمانينيات (أبرزها ورقته وزملائه سنة 1988 وكتاب *Acceptance and Commitment Therapy* 1999) كمحاولة لتجديد السلوكية الراديكالية لسكينر مع الحفاظ على صرامتها التجريبية، ولذلك تُربط هنا بهايز (`thk-lstevenhayes`) وبمدرسة العلاج المعرفي السلوكي (`sch-cognitive-behavioral`) التي تُعد ACT امتداداً نقدياً لها ("الموجة الثالثة"). نظرية إطار العلاقات (`con-relational-frame-theory`) هي الأساس السلوكي-اللغوي الذي بُنيت عليه هذه الفلسفة، والتيار `br-functional-contextualism-rft` يوثّق التزاوج بين الاثنين.
 
 ## التعريف
 

@@ -45,3 +45,9 @@ gaps:
 ## الأثر
 
 أثّر سَكَنلون على فلسفة الأخلاق (Kumar, Sobel)، وعلى فلسفة سياسية (Miller)، وعلى فلسفة القانون (Hart).
+
+## المصادر
+
+- Wikipedia (T. M. Scanlon): https://en.wikipedia.org/wiki/Thomas_M._Scanlon
+- Scanlon, T. M. (1998). *What We Owe to Each Other*. Belknap Press of Harvard University Press.
+- Scanlon, T. M. (2014). *Being Realistic about Reasons*. Oxford University Press.

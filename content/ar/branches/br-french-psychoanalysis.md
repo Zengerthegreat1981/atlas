@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-laplanche", title: "جان لابلانش", type: "مفكر"
 - id: "thk-anzieu", title: "ديدييه أنزيو", type: "مفكر"
-- id: "thk-pontalis", title: "جان-باتيست بونتاليس", type: "مفكر"
+- id: "thk-pontalis", title: "جان-بيرتران بونتالي", type: "مفكر"
 - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
-- id: "thk-aulagnier", title: "بيرا أولانييه", type: "مفكر"
+- id: "thk-aulagnier", title: "بيارا أولانييه", type: "مفكر"
 - id: "thk-fain", title: "ميشيل فان", type: "مفكر"
 gaps:
   - "التمييز بين تيار رابطة التحليل النفسي الفرنسية (APF) وجمعية باريس للتحليل النفسي (SPP) والتيار اللاكاني."

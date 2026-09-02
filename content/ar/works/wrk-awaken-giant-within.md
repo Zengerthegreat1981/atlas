@@ -12,14 +12,16 @@ dates: "1991 · توني روبنز"
 language: "الإنجليزية"
 active_start: 1991
 active_end: 1991
+author: "توني روبنز"
+author_slug: "thk-trobbins"
+publication_year: 1991
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والتكيف العصبي الترابطي", target_type: "مدرسة"
 - rel: "written_by", target: "thk-trobbins", target_type: "مفكر"
 related:
 - id: "thk-trobbins", title: "توني روبنز", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أيقظ العملاق الذي بداخلك
@@ -33,7 +35,3 @@ gaps:
 ## الأثر الجماهيري
 
 رسخ الكتاب حضور روبنز كأشهر مدرب حياة ومتحدث تحفيزي عالمي.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

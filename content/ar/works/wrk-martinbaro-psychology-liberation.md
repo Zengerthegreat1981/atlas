@@ -8,8 +8,12 @@ en: "Psychology for Liberation (Martín-Baró, 1986)"
 crumb: "أطر غير غربية ← الأعمال ← علم النفس للتحرير"
 dates: "1986 · إغناثيو مارتن-بارو"
 language: "الإسبانية"
+author: "إغناثيو مارتن-بارو"
+author_slug: "thk-imartinbaro"
+publication_year: 1986
+original_language: "الإسبانية"
 active_start: 1986
-active_end: 1986
+active_end: 2000
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
@@ -20,7 +24,6 @@ related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 gaps:
   - "النسخة المنقحة (1990) بعد اغتيال المؤلف لم تُوثّق بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # علم النفس للتحرير (Psicología de la liberación)

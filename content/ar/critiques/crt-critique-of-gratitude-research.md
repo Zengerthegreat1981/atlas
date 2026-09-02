@@ -13,14 +13,14 @@ edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-emmons", title: "روبرت إيمونز", type: "مفكر"
-- id: "crt-critique-of-positive-psychology", title: "نقد علم النفس الإيجابي", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-positive-psychology", title: "نقد عِلْم النَّفْس الْإِيجَابِيّ مِن مَنْظُور السِّيَاسَة الاجْتِمَاعِيَّة", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Ehrenreich, 2009)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "اقتباس Ehrenreich 2009 المباشر لم يُتحقق من نصه الأصلي بعد."
 - "الفرق بين هذا النقد ونقد علم النفس الإيجابي العام يحتاج فصلاً."
 ---
 # نقد بحوث الامتنان: هل «اكتب ثلاثة أشياء تشكر عليها» يغيّر شيئاً؟

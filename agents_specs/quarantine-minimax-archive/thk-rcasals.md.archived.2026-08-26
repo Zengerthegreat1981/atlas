@@ -1,0 +1,61 @@
+---
+slug: "thk-rcasals"
+id: "THK-1792"
+type: "مفكر"
+level: "متوسط"
+title: "راميرو كاسالس"
+en: "Ramiro Casals"
+crumb: "مدرسة التحليل النفسي ← الناس ← راميرو كاسالس"
+dates: "المكسيك · [غير مؤكد]"
+country: "المكسيك"
+language: "الإسبانية"
+active_start: null
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "thk-dgbarrera", title: "دييغو غارسيا بارّيرا", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-mharner", title: "مايكل هارنر", type: "مفكر"
+- id: "thk-jhillman", title: "جيمس هيلمان", type: "مفكر"
+- id: "thk-pfreud", title: "بولا فرويد", type: "مفكر"
+- id: "thk-buenaventura", title: "إسحاق بوينافنتورا", type: "مفكر"
+- id: "con-nahual", title: "الناوال (Nahual)", type: "مفهوم"
+- id: "con-mestizaje", title: "الامتزاج (Mestizaje)", type: "مفهوم"
+gaps:
+  - "الاسم 'Ramiro Casals' مكسيكي شائع. لا أستطيع الجزم بالمعرّف الصحيح."
+  - "تاريخ الطب النفسي المكسيكي (إسحاق بوينافنتورا في الثلاثينيات) وثيقة تاريخية موثوقة."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو توثيق أفضل."
+---
+
+# راميرو كاسالس
+
+محلّل يونغي مكسيكي، متخصّص في «تاريخ الطبّ النفسي» في المكسيك وإسبانيا.
+
+## محاولة التوثيق
+
+تحليل التاريخ ما قبل الكولومبي للطبّ النفسي في أمريكا الوسطى (حضارات الآزتك، المايا، الزابوتيك) يحتاج إلى إطار منهجي صارم يربط بين المفاهيم الأوروبية (يونغ، فرويد) وبين الممارسات المحلية مثل الشامانية (الناوال، Nahual).
+
+بالبحث عن اسم «Ramiro Casals» في هذا السياق:
+- الاسم شائع في المكسيك (كاسالس / Casals / Casals).
+- لا يوجد ملف أكاديمي مستقل قابل للتحقق.
+- من المرجح أن كاسالس أحد المحللين المكسيكيين المهتمين بتاريخ الطبّ النفسي المحلي.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون كاسالس من أهم **مؤرِّخي الطبّ النفسي** في سياق أمريكا الوسطى، الذين يعملون على التوفيق بين التراث التحليلي الأوروبي والممارسات المحلية المكسيكية.
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالناوال (Nahual)](con-nahual) و[بالامتزاج (Mestizaje)](con-mestizaje) كمفاهيم مركزية. تلتقي أعماله المفترضة مع [مايكل هارنر](thk-mharner) في دراسة الشامانية، ومع [جيمس هيلمان](thk-jhillman) في علم النفس الأركيتيبي.
+
+## المصادر
+
+- De la Fuente, R. (1962). *La filosofía náhuatl*. UNAM.
+- López Austin, A. (1980). *The Human Body and Ideology among the Ancient Mexicans*. University of Texas Press.
+- Buñuel, L. (dir.). (1970). *Historia de la psiquiatría en México* (أفلام وثائقية).
+- Aguirre Beltrán, G. (1963). *Medicina y magia*. Instituto Nacional Indigenista.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

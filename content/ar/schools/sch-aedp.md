@@ -9,17 +9,16 @@ en: "Accelerated Experiential Dynamic Psychotherapy (AEDP)"
 crumb: "علم النفس ← المدارس الديناميكية-التجريبية ← العلاج النفساني التعزيزي المتسارع (AEDP)"
 dates: "الولايات المتحدة · من أواخر التسعينيات إلى اليوم"
 country: "الولايات المتحدة"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1997
 active_end: "مستمر"
 register: "academic"
 evidence_level: "فعّال على الأرجح (Probably Efficacious) وفق تصنيف الدليل العلاجي لقسم 12 من APA"
 edges:
-- rel: "belongs_to", target: "العلاج النفسي الديناميكي (Psychodynamic Psychotherapy)", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-gestalt-therapy", target_type: "مدرسة"
-- rel: "evolved_from", target: "العلاج المعرفي التجريبي (Experiential Therapy)", target_type: "تيار"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "founded_by", target: "لي ماكولوغ (Leigh McCullough)", target_type: "مفكر"
+- rel: "founded_by", target: "thk-leighmccullers", target_type: "مفكر"
 - rel: "developed_by", target: "thk-fosha", target_type: "مفكر"
 related:
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت", type: "مدرسة"
@@ -27,10 +26,10 @@ related:
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-emotional-cutoff", title: "القطع العاطفي", type: "مفهوم"
-- id: "thk-fosha", title: "دينا فوشا (AEDP)", type: "مفكر"
-- id: "thk-leighmccullers", title: "لي ماكوليرز (AEDP)", type: "مفكر"
+- id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
+- id: "thk-leighmccullers", title: "لي ماكوليرز", type: "مفكر"
 - id: "thk-jenny-osborn", title: "جيني أوزبورن (Jenny Osborn)", type: "مفكر"
-- id: "thk-steven-haber", title: "ستيفن هابر (Steven Haber)", type: "مفكر"
+- id: "thk-steven-haber", title: "ستيفن هابر", type: "مفكر"
 - id: "wrk-fosha-transforming-power-affect", title: "كتاب القوة التحويلية للانفعال لديانا فوشا (2000)", type: "عمل / كتاب"
 - id: "tec-aedp-transformational-affects", title: "استحضار المشاعر التحويلية وتذوق الشفاء في AEDP", type: "تقنية/تدخل علاجي"
 - id: "tec-aedp-undoing-aloneness", title: "تقنية كسر العزلة الوجدانية وتثبيت الحضور الآمن في AEDP", type: "تقنية/تدخل علاجي"
@@ -96,3 +95,10 @@ gaps:
 - Fosha, D. (2000). *The Transforming Power of Affect*. Basic Books.
 - Fosha, D. (2021). *Transforming the Living Legacy of Trauma*. Routledge.
 - McCullough et al. (2003). *Treating Affect Phobia*. Guilford Press.
+
+## المصادر
+
+- Fosha, D. (2000). *The Transforming Power of Affect: A Model for Accelerated Change*. Basic Books.
+- McCullough, L., Kuhn, N., Andrews, S., Kaplan, A., Wolf, J., & Hurley, C. L. (2003). *Treating Affect Phobia: Using Metacognitive and Interoceptive Strategies to Treat Phobias of Emotional Experiencing*. Guilford Press.
+- Fosha, D., Siegel, D. J., & Solomon, M. F. (Eds.). (2009). *The Healing Power of Emotion: Affective Neuroscience, Development, and Clinical Practice*. W. W. Norton & Company.
+- Fosha, D. (2021). *Transforming the Living Legacy of Trauma: An Integrative Model for Transforming the Intergenerational Transmission of Trauma*. Routledge.

@@ -10,7 +10,11 @@ crumb: "الفلسفة السياسية المعاصرة ← الديمقراط�
 dates: "1992 · يورغن هابرماس"
 language: "الألمانية"
 active_start: 1992
-active_end: 1992
+active_end: 2000
+author: "يورغن هابرماس"
+author_slug: "thk-habermas"
+publication_year: 1992
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-deliberative-democracy", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "sch-deliberative-democracy", title: "الديمقراطية التداولية", type: "مدرسة"
 gaps:
   - "النص الأصلي Faktizität und Geltung (1992) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الواقعية والحقيقة (Faktizität und Geltung, 1992)

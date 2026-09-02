@@ -9,6 +9,10 @@ en: "The Dialectic of Sex: The Case for Feminist Revolution"
 crumb: "النسوية الفلسفية ← النسوية الراديكالية ← جدلية الجنس (فيرستون)"
 dates: "1970 · شولاميث فيرستون"
 language: "الإنجليزية"
+author: "شولاميث فيرستون"
+author_slug: "thk-firestone"
+publication_year: 1970
+original_language: "الإنجليزية"
 active_start: 1970
 active_end: 1970
 edges:
@@ -18,7 +22,6 @@ related:
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
 gaps:
   - "النص الأصلي The Dialectic of Sex (1970) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جدلية الجنس (The Dialectic of Sex, 1970)

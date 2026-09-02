@@ -12,18 +12,16 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: 2003
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الشعبي وعلاج صدمات الأسرة", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-john-bradshaw", title: "جون برادشو", type: "مفكر"
 - id: "ctx-transgenerational-epigenetics-trauma", title: "ثورة علم الوراثة اللاجينية وإثبات انتقال الصدمات عبر الأجيال", type: "سياق/تقليد"
-- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
-- id: "con-family-projection-process", title: "عملية الإسقاط الأسري", type: "مفهوم"
-- id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري", type: "مفهوم"
+- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
+- id: "con-family-projection-process", title: "عملية الإسقاط الأسري (Family Projection Process)", type: "مفهوم"
+- id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري (Enmeshment & Disengagement)", type: "مفهوم"
 gaps:
   - "أعماله لم تُقيَّم بعدُ تجريبياً بمقاييس إكلينيكية صارمة في دراسات معشّاة."
   - "نظريته عن «لغة الجسد العائلية» (Core Language) تمزج بين التحليل النفسي والعلاج العائلي دون أساس تجريبي واضح."
-  - "لا يوجد اقتباس مباشر موثوق من كتبه بالعربية."
 ---
 
 # مارك وولين
@@ -44,7 +42,3 @@ gaps:
 ## أهم أعماله
 
 - *It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle* (2016) — لم تبدأ معك.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح بالعربية.

@@ -12,12 +12,12 @@ country: "الهند (تاميل نادو)"
 language: "التاميلية، السنسكريتية"
 active_start: 500
 active_end: 1400
-edges:
-- rel: "belongs_to", target: "التقاليد الشايفية", target_type: "مظلة"
+cultural_origin: "indian"
+edges: []
 related:
 - id: "sch-shakta-tantra", title: "الشاكتية والتانترا الفلسفية", type: "مدرسة"
-- id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية", type: "مدرسة"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-kashmir-shaivism", title: "الشايفية الكشميرية (ترِكا)", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«التانترا الفلسفية» (sch-tantra) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Tirumular's Tirumantiram وMeykandar's Sivajñāna-bhōsham تحتاج مراجعة من المصدر الأولي."
@@ -59,3 +59,9 @@ gaps:
 ## القيد
 
 - تخصصه في Shiva قد يحدّ من اتساعه للمقارنة مع الأدفانا اللاهوتية.
+
+## المصادر
+
+- Richard H. Davis, *Ritual in an Oscillating Universe: Worshiping Śiva in Medieval India* (Princeton University Press, 1991).
+- K. Sivaraman, *Śaivism in Philosophical Perspective* (Motilal Banarsidass, 1973).
+- Surendranath Dasgupta, *A History of Indian Philosophy*, Vol. 5 (Cambridge University Press, 1955).

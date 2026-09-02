@@ -4,50 +4,50 @@ id: "DBT-0443"
 type: "جدل"
 part: "psychology"
 level: "متقدم"
-title: "جِدَل EMDR ضِد CBT لِـ**PTSD**"
-en: "EMDR vs. CBT for PTSD: The Debate"
-crumb: "علاج الصدمة ← جَدالات عِلَاجِيّة ← EMDR ضِد CBT"
-active_start: 2000
+title: "جدل EMDR ضد CBT المركز على الصدمة لاضطراب ما بعد الصدمة"
+en: "EMDR vs. Trauma-Focused CBT for PTSD: The Debate"
+crumb: "علاج الصدمة ← جدالات علاجية ← EMDR ضد CBT"
+active_start: 1989
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-emdr", target_type: "مدرسة"
 related:
 - id: "thk-resick", title: "باتريشيا أ. ريسك", type: "مفكر"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-- id: "crt-critique-of-emdr", title: "نقد EMDR", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-emdr", title: "نقد الْآلِيَّة الْعِلْمِيَّة لِـ EMDR: هَل حَرَكَة الْعَيْن هِيَ الْأَسَاس؟", type: "نقد خارجي موثَّق"
 gaps:
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باميلا ريسيك (thk-resick)."
-  - "لم تُراجع من نسخة أصلية مباشرة بعد (Resick et al., 2002; Power et al., 2002)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُراجَع بعد من نسخة أصلية مباشرة لتجربة Power et al. (2002) في The British Journal of Psychiatry."
 ---
-# جِدَل EMDR ضِد CBT لِـ**PTSD**
 
-## وصف الجَدَل
+# جدل EMDR ضد CBT المركز على الصدمة لاضطراب ما بعد الصدمة
 
-جَدَل حَوْل: أَيّ عِلَاج أَفْضَل لِـ**PTSD** — (1) EMDR (Shapiro، 1989) — «**حَرَكَة عَيْن**» (Eye Movement) + «**مُعَالَجَة مَعْلُومَاتِيّة**» (Information Processing) (2) CPT (Resick، 2002) — «**CBT مُرَكَّز عَلَى صَدْمَة**» (Trauma-Focused CBT) — «**مُعَالَجَة**» (Processing) أَفْكَار وَمُعْتَقَدَات
+## وصف الجدل
 
-## أَطْرَاف الجَدَل
+أي علاج أنسب لاضطراب ما بعد الصدمة (PTSD): "إعادة المعالجة عبر حركات العين وتخفيف الأعراض" (EMDR) التي طرحتها فرانسين شابيرو سنة 1989 استناداً إلى حركة العين الثنائية الجانب مقروناً باستدعاء الذكرى المؤلمة، أم "العلاج المعرفي لمعالجة الصدمة" (Cognitive Processing Therapy، CPT) الذي طوّرته باتريشيا ريسك وزملاؤها ونشرته في *Cognitive Processing Therapy for Rape Victims* (1993) ثم في تجربة عشوائية محكّمة سنة 2002، والذي يركّز على تفكيك المعتقدات المشوّهة حول الحدث الصادم بأدوات معرفية سلوكية كلاسيكية دون حركة العين.
 
-### مَوْقِف «CBT»
+## موقف CPT (ريسك)
 
-(1) CPT فَعَّال لِـ**PTSD. (2) Resick (2002) — فَعَّال. (3) أَدِلَّة «**كَبِيرَة**» (Large).
+ريسك وزملاؤها (2002) قارنوا CPT بالعلاج بالتعرّض الممتد (Prolonged Exposure) في تجربة عشوائية محكّمة على ناجيات من الاغتصاب، ووجدوا فعالية متكافئة قوية للأداتين المعرفيتين السلوكيتين، بلا حاجة لحركة العين، وهو ما استُخدم لاحقاً حجةً على أن حركة العين عنصر زائد لا ضروري في نجاح EMDR.
 
-### مَوْقِف «EMDR»
+## موقف EMDR (شابيرو)
 
-(1) Shapiro (1989) — فَعَّال. (2) Power et al. (2002) — فَعَّال كَـ**CBT. (3) «**سُرْعَة**» (Speed) أَكْبَر.
+شابيرو (1989) نشرت أول دراسة ميدانية عن الأسلوب في *Journal of Traumatic Stress*، مدّعيةً أن حركة العين الثنائية تُحاكي معالجة المعلومات أثناء نوم حركة العين السريعة (REM) وتُسرّع تفكيك الذكرى الصادمة. لاحقاً أظهرت تجربة باور وزملائه (Power et al., 2002) في اسكتلندا فعالية EMDR مكافئة لـCBT مع جلسات أقل، وهي الحجة الأساسية لأنصار EMDR على كفاءته الزمنية.
 
-### مَوْقِف «مُتَسَاوِيَان»
+## موقف الهيئات المهنية
 
-(1) APA (2017) — «**مُتَسَاوِيَان**» (Equal) لِـ**PTSD. (2) WHO (2013) — مُتَسَاوِيَان.
+جمعية علم النفس الأمريكية (APA, 2017) في دليلها الإكلينيكي لعلاج PTSD صنّفت كلاً من EMDR وCBT المركز على الصدمة (بما فيه CPT) ضمن العلاجات الموصى بها بأدلة قوية، دون تفضيل أحدهما، وهو ما تبنّته منظمة الصحة العالمية (WHO, 2013) أيضاً في إرشاداتها لعلاج الصدمة.
 
-## أَدِلَّة
+## الأهمية العملية
 
-(1) Resick (2002) — CPT. (2) Power (2002) — EMDR vs CBT. (3) APA (2017).
+القرار له أثر مباشر على سياسات تغطية شركات التأمين للعلاج، وعلى مناهج تكوين المعالجين المتخصصين في الصدمة، إذ يتطلب كل مسار تدريباً واعتماداً منفصلاً.
 
-## أَهمِّيَّة
+## نقد
 
-(1) سِيَاسَة تَأْمِين. (2) تَكَوِين مُعَالِج.
+الناقدون الأبرز — ريتشارد ماكناللي وزملاؤه في مراجعات منهجية عدة (أشهرها McNally, 1999) — يجادلون أن الآلية المفترضة لحركة العين لم تُثبت تجريبياً، وأن التجارب التي تعزل حركة العين عن بقية بروتوكول EMDR (كالتعرض التدريجي واستدعاء الذكرى) تُظهر أن الفعالية تعود لعناصر التعرّض المعرفي المشتركة مع CBT لا لحركة العين نفسها؛ تفصيل هذا النقد موثّق في `crt-critique-of-emdr`.
 
-## نَقْد
+## المصادر
 
-(1) EMDR لَه «**آلِيّة**» (Mechanism) «**مُسَاء**» (Poorly) فَهْم. (2) CBT «**تَجَارِب**» (Trials) «**أَكْبَر**» (Larger). (3) «**مَالِيّ**» (Cost) مُرْتَفِع لِـ**EMDR.
+- Shapiro, F. (1989). *Efficacy of the Eye Movement Desensitization Procedure in the Treatment of Traumatic Memories*. Journal of Traumatic Stress.
+- Resick, P. A., Nishith, P., Weaver, T. L., Astin, M. C., & Feuer, C. A. (2002). *A Comparison of Cognitive-Processing Therapy with Prolonged Exposure and a Waiting Condition for the Treatment of Chronic PTSD in Female Rape Victims*. Journal of Consulting and Clinical Psychology.
+- Power, K. G. et al. (2002). *A Controlled Comparison of Eye Movement Desensitization and Reprocessing versus Exposure Plus Cognitive Restructuring versus Waiting List in the Treatment of Post-Traumatic Stress Disorder*. Clinical Psychology & Psychotherapy.
+- American Psychological Association (2017). *Clinical Practice Guideline for the Treatment of PTSD*.

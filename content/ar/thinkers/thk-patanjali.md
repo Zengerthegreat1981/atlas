@@ -55,3 +55,8 @@ gaps:
 ## أهم أعماله
 
 - *Yoga Sutras of Patanjali* (195 سوترا، 4 كتب: Samadhi Pada, Sadhana Pada, Vibhuti Pada, Kaivalya Pada).
+
+## المصادر
+
+- Bryant, E. F. (2009). *The Yoga Sutras of Patañjali: A New Edition, Translation, and Commentary*. North Point Press.
+- Whicher, I. (1998). *The Integrity of the Yoga Darśana: A Reconsideration of Classical Yoga*. State University of New York Press.

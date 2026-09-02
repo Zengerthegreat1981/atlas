@@ -13,11 +13,12 @@ language: "العربية"
 active_start: 1247
 active_end: 1270
 edges:
-- rel: "belongs_to", target: "العرفان النظري / التصوف الفلسفي (وحدة الوجود)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "edges.belongs_to كان نصاً حراً بدل slug حقيقي؛ صُحِّح إلى sch-wahdat-alwujud."
 ---
 
 # عبد الحق بن إبراهيم بن سبعين المرسي

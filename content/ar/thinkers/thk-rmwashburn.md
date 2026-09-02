@@ -18,12 +18,11 @@ related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-ctart", title: "تشارلز تارت", type: "مفكر"
-- id: "thk-eugenetaylor", title: "يوجين تايلور", type: "مفكر"
-- id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
+- id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
   - "المسار المهني قبل كتابه المؤثر (1988) لم يُوثَّق بالتفصيل في هذا الملف."
   - "نقده اللاحق لمفهوم الـSpectrum عند ويلبر لم يُراجع من مصدر أولي مباشر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # مايكل واشبورن
@@ -59,3 +58,8 @@ gaps:
 ## موقعه النقدي من فلسفة الدين
 
 واشبورن لم يكتفِ بتطوير علم النفس عبر الشخصي، بل امتدّ إلى فلسفة الدين. في كتابه *Embodied Spirituality in a Sacred World* (2011) يطرح أن التجربة الروحية في العالم المعاصر لا تتطلب هروباً من الجسد أو من العالم، بل يمكن أن تتحقق عبر انخراط ملتزم فيهما. العالم المادي نفسه، في قراءته، يحمل بُعداً مقدّساً قابلاً للإدراك من دون حاجة لخلاص منفصل عنه. هذا الموقف ميّزه عن النزعات اللاهوتية السائدة في بعض دوائر الحقل عبر الشخصي، وقربه من تيارات الإصلاح في الفكر اللاهوتي المعاصر.
+
+## المصادر
+
+- Washburn, M. (1988). *The Ego and the Dynamic Ground: A Transpersonal Theory of Human Development*. State University of New York Press.
+- Washburn, M. (2003). *Transpersonal Psychology in Postmodern Perspective*. State University of New York Press.

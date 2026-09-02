@@ -3,15 +3,15 @@ slug: "thk-greenwald"
 id: "THK-2628"
 type: "مفكر"
 level: "متقدم"
-title: "راي غرينوالد"
+title: "ريكي غرينوالد"
 en: "Ricky Greenwald"
-crumb: "العلاج المتمركز حول الصدمة ← الناس ← العد التصاعدي ← راي غرينوالد"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+crumb: "العلاج المتمركز حول الصدمة ← الناس ← العد التصاعدي ← ريكي غرينوالد"
+dates: "الولايات المتحدة · معاصر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", target_type: "مدرسة"
 related:
@@ -22,9 +22,10 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تم التحقق عبر ويكيبيديا (Ricky Greenwald) وموقع Trauma Institute & Child Trauma Institute من أن الاسم الصحيح هو 'ريكي غرينوالد' (وليس 'راي')، وأنه عالم نفس إكلينيكي (part: psychology) مؤسِّس ومدير معهد الصدمات (Trauma Institute & Child Trauma Institute)."
 ---
 
-# راي غرينوالد
+# ريكي غرينوالد
 
 عالم نفس إكلينيكي أمريكي ومؤسِّس «العد التصاعدي» (Progressive Counting, PC) في 2005، وهو بروتوكول لتعديل الانفعال الصادم يجمع بين عناصر من EMDR والتعرض المطوّل.
 

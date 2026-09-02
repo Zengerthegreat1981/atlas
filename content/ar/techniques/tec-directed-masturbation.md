@@ -14,9 +14,12 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
+- rel: "developed_by", target: "thk-hkaplan", target_type: "مفكر"
+evidence_level: "well-established"
 related:
+- id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (نظرة عامة)", type: "تقنية/تدخل علاجي"
+- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
@@ -27,7 +30,7 @@ gaps:
 ---
 # التدريب الموجّه على الاستمناء (Directed Masturbation)
 
-تقنية علاجية طوّرتها Helen Kaplan و Lonnie Barbach في السبعينيات، لعلاج اضطرابات النشوة الأنثوية (anorgasmia)، خاصةً الأنواع الأولية (primary) حيث لم تختبر المرأة النشوة أبداً. تتكون من مراحل متدرّجة تُعلّم المرأة التعرّف على جسدها، استكشاف المناطق الحساسة، بلوغ الإثارة، ثم النشوة، بشكل موجّه من المعالج.
+تقنية علاجية طوّرتها هيلين سنغر كابلان (Helen Singer Kaplan)، مؤسسة عيادة العلاج الجنسي والزوجي بجامعة كورنيل، ضمن نموذجها العلاجي الذي نشرته في كتابها *The New Sex Therapy* (1974)، بالتوازي مع عمل لوني باربخ (Lonnie Barbach) التي طبّقت بروتوكولاً جماعياً مشابهاً في كتابها *For Yourself: The Fulfillment of Female Sexuality* (1975). تُستخدم التقنية لعلاج اضطرابات النشوة الأنثوية (anorgasmia)، خاصةً الأنواع الأولية (primary) حيث لم تختبر المرأة النشوة أبداً. تتكون من مراحل متدرّجة تُعلّم المرأة التعرّف على جسدها، استكشاف المناطق الحساسة، بلوغ الإثارة، ثم النشوة، بشكل موجّه من المعالج.
 
 ## المراحل
 
@@ -71,3 +74,12 @@ gaps:
 - تتطلب معالجاً مدرباً بشكل خاص على هذه التقنية.
 - قد تتناقض مع المعتقدات الدينية أو الثقافية في بعض السياقات.
 - تركز على النشوة الفردية أكثر من اللذّة المشتركة، مما قد يخلق توقعات غير واقعية.
+
+## التقنية المنافسة
+
+تتقاطع مع **التركيز الحسي (Sensate Focus)** الذي طوّره ماسترز وجونسون، لكنها تختلف عنه في التركيز: التركيز الحسي يبدأ من اللمس غير الموجّه للنشوة بين الشريكين، بينما التدريب الموجّه على الاستمناء يبدأ من الاستكشاف الفردي المُوجّه صراحة نحو بلوغ النشوة، ثم يُنقل لاحقاً إلى العلاقة الثنائية.
+
+## المصادر
+
+- Kaplan, H.S. (1974). *The New Sex Therapy: Active Treatment of Sexual Dysfunctions*. New York: Brunner/Mazel.
+- Barbach, L.G. (1975). *For Yourself: The Fulfillment of Female Sexuality*. New York: Doubleday.

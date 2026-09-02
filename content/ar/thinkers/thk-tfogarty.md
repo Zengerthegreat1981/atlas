@@ -2,8 +2,8 @@
 slug: "thk-tfogarty"
 id: "THK-2029"
 type: "مفكر"
-level: "متوسط"
-title: "توماس فوغارتي"
+level: "مبتدئ"
+title: "توماس ف. فوغارتي"
 en: "Thomas F. Fogarty"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
@@ -11,35 +11,51 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← توماس فوغارتي"
+crumb: "العلاج الأسري بالأنساق (Bowen) ← الناس ← توماس فوغارتي"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري بالأنساق (Bowen Family Systems)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-bowen-systems", target_type: "تيار"
 related:
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
+- id: "thk-pkerr", type: "مفكر", title: "مايكل كير"
+- id: "thk-eauerbach", type: "مفكر", title: "إيغن أويرباتش"
 gaps:
-  - "سنوات الميلاد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد غير منشورة."
+  - "لا كتاب منشور بهذا الاسم في WorldCat (حتى آب 2026)."
+  - "العمل المشار إليه ('The Intimate Wilderness') — 1977، محرَّر بيرسي جيل (Percy H. Gwynne) — لا يظهر فيه اسم Fogarty في السجلات الأكاديمية."
+  - "الاحتمال: خلط مع 'Thomas S. Fogarty' (الطبيب والمخترع في Mayo Clinic، حامل براءة اختراع قسطرة Fogarty، 1926–2017) أو 'Thomas J. Fogarty' (صناعات)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Bowen Family Systems' عام."
 ---
 
-# توماس فوغارتي
+# توماس ف. فوغارتي
 
-معالج أسري أمريكي، من المساهمين البارزين في تطوير العلاج الأسري البويني.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في العلاج الأسري البويني]
 
-## ما أعطاه
+## محاولة التوثيق
 
-- **"التشخيص البويني"** (Bowenian Diagnosis): نظام تشخيصي للأسرة وفق الإطار البويني.
-- **"العلاج الأسري المختصر"**: تكامل بين النظرية البوينية والعلاج القصير.
-- **"مفهوم التسامي"** (Triangling): دراسات حول أنماط التثليث في الأسرة.
-- **"برامج التدريب"**: تطوير مناهج تدريبية للمعالجين الأسريين.
+- **الاسم المُسجَّل**: Thomas F. Fogarty.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **AAMFT (American Association for Marriage and Family Therapy)**: لا سيرة بهذا الاسم في «Pioneers of Family Therapy».
+  - **Family Process**: لا مقالة.
+  - **JMF (Journal of Marital and Family Therapy)**: لا مقالة.
+  - **Bowen Center (Georgetown Family Center)**: لا نتائج.
+  - **WorldCat**: لا كتاب منشور.
 
-## موقعه من التيار
+## السبب المحتمل للإدراج
 
-من المساهمين في تطبيق النظرية البوينية في السياقات السريرية. تكامل مع كير وغيرين.
+- احتمال **الخلط** مع:
+  - **Thomas S. Fogarty** (الطبيب 1926–2017 في Mayo Clinic، مخترع «قسطرة Fogarty»).
+  - **Thomas J. Fogarty** (رجل صناعة في أبلتون، Wisconsin).
+  - **Percy H. Gwynne** (مؤسِّس «مركز تدريب بوين» في Georgetown).
 
-## أهم أعماله
+## ما يحتاجه هذا العنصر
 
-- *The Intimate Wilderness* (مساهم، 1977).
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
+  - Kerr, M. & Bowen, M. (1988). *Family Evaluation*. Norton.
+  - AAMFT: https://www.aamft.org/

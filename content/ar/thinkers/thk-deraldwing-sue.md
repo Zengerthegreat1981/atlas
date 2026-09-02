@@ -13,7 +13,7 @@ active_start: 1972
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الاستشارات متعددة الثقافات", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-multicultural-counseling", target_type: "مدرسة"
 related:
 - id: "thk-donaldatkinson", title: "دونالد أتكينسون", type: "مفكر"
 - id: "thk-frederickleong", title: "فريديريك ليونغ", type: "مفكر"

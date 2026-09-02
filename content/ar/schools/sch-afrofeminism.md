@@ -9,6 +9,7 @@ en: "African Feminist Philosophy"
 crumb: "الفلسفة ← الأفريقية ← النسوية"
 dates: "أفريقيا، الـDiaspora · من 1980s إلى اليوم"
 country: "أفريقيا، أمريكا"
+cultural_origin: "african"
 language: "الإنجليزية، الفرنسية"
 active_start: 1980
 active_end: "مستمر"
@@ -19,7 +20,6 @@ related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
 - id: "thk-amadiume", title: "إيفي أماديومي", type: "مفكر"
-- id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 gaps:
   - "نصوص Ama Ata Aidoo, Tsitsi Dangarembga, Nawal El Saadawi, Yvonne Vera, Mariama Bâ, Chimamanda Adichie need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -56,3 +56,9 @@ gaps:
 
 - تواجه انتقادات من النسويات الما بعد الكولونياليات (التعميم).
 - تواجه انتقادات من قبل التراثيين.
+
+## المصادر
+
+- Obioma Nnaemeka, "Nego-Feminism: Theorizing, Practicing, and Pruning Africa's Way", *Signs*, Vol. 29, No. 2 (2004).
+- Sylvia Tamale, *Decolonization and Afro-Feminism* (Daraja Press, 2020).
+- Oyèrónkẹ́ Oyěwùmí, *The Invention of Women: Making an African Sense of Western Gender Discourses* (University of Minnesota Press, 1997).

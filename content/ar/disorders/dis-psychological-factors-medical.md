@@ -12,36 +12,33 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
-- id: "tec-cbt-beh-graded-task-assignment", title: "المهام المتدرجة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الاسترخاء التدريجي للعضلات", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-active-listening-skills", title: "مهارات الاستماع الفعّال", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-abc-please", title: "ABC PLEASE", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-mind-willing-hands", title: "الأيدي المستعدة", type: "تقنية/تدخل علاجي"
-- id: "tec-mbsr", title: "الحد من الإجهاد باليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-mind-willing-hands", title: "اليدين المتقبّلتين", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
-- id: "tec-motivational-interviewing", title: "المقابلة التحفيزية", type: "تقنية/تدخل علاجي"
+- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الآليات الدقيقة للعلاقة بين العوامل النفسية والأمراض الطبية (المناعية، الالتهابية) تحتاج مراجعة علمية عصبية مباشرة."
   - "التمييز بين PFAOMC و اضطراب الأعراض الجسدية غير واضح في الأدبيات."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # العوامل النفسية المؤثرة في حالات طبية أخرى
@@ -187,6 +184,14 @@ ICD-11 يصنّف هذا تحت 6E40 مع التركيز على العوامل �
 - في بعض الحالات، التركيز المفرط على "العوامل النفسية" يؤخّر التشخيص الطبي المناسب.
 - يحتاج الفريق العلاجي تدريباً متخصصاً في الطب النفسي السريري.
 - التعاون مع الطبيب المعالج ضروري لتجنّب التضارب.
+
+## السقف الإكلينيكي
+
+هذا العنصر، مثل كل عناصر هذا النوع، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11، دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين هذا التشخيص الإكلينيكي (وجود عوامل نفسية سلوكية موثّقة تؤثر على مسار مرض عضوي فعلي، كما يشترط DSM-5-TR) وبين مشكلة العقل والجسد (con-mind-body) كسؤال فلسفي عن طبيعة العلاقة بين الذهني والمادي منذ ثنائية ديكارت — الأول تشخيص إكلينيكي إجرائي محدود بآلية سببية ملحوظة على حالة طبية بعينها، بينما الثاني سؤال ميتافيزيقي عام لا يفترض مرضاً ولا آلية سببية محددة.
 
 ## مرجع
 

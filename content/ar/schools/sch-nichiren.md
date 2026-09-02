@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← نيتشيرن"
 dates: "اليابان · من القرن 13 م إلى اليوم"
 country: "اليابان"
 language: "اليابانية"
+cultural_origin: "east-asian"
 active_start: 1253
 active_end: "مستمر"
 edges:
@@ -17,7 +18,7 @@ edges:
 related:
 - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
 - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-- id: "sch-pure-land", title: "الأرض الطاهرة (جينگتو / جودو)", type: "مدرسة"
+- id: "sch-pure-land", title: "الأرض الطاهرة (جينغتو / جودو)", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 gaps:
   - "نصوص Nichiren (Kaimoku shō، Senji shō، Kanjin no honzon shō) تحتاج مراجعة من المصدر الأولي."
@@ -78,3 +79,10 @@ gaps:
 - **Sōka Gakkai مقابل Nichiren Shōshū**: الانشقاق في 1991.
 - **تأويل صارم**: بعض العلماء يعتبرون تفسيرات Nichiren في كتب SGI حديثة جداً.
 - **التهمة بـ** «Fascism in Japan (Shōwa)»: Sōka Gakkai أُدينت من قبل تحت الحكومة في 1943-1945.
+
+## المصادر
+
+- Stone, J. I. (1999). *Original Enlightenment and the Transformation of Medieval Japanese Buddhism*. University of Hawai'i Press.
+- Anesaki, M. (1916). *Nichiren, the Buddhist Prophet*. Harvard University Press.
+- Metraux, D. A. (1994). *The History and Theology of Soka Gakkai: A Japanese New Religion*. Edwin Mellen Press.
+- Stone, J. I. (2003). Nichiren's Activist Heirs: Sōka Gakkai, Risshō Kōseikai, Nipponzan Myōhōji. In C. S. Queen & S. B. King (Eds.), *Engaged Buddhism*. State University of New York Press.

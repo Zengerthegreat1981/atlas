@@ -12,13 +12,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
+- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
 - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
 - id: "dbt-cognitive-deficit-vs-distortion", title: "جِدَل الِاِنْحِرَاف الْمَعْرِفِيّ ضِد التَّشَوُّه الْمَعْرِفِيّ", type: "جدل"
-- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
@@ -42,4 +41,4 @@ gaps:
 
 ## الأهمية العلاجية
 
-التشوهات المعرفية هي الهدف الرئيسي لإعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT، حيث يتعلم المريض رصدها ومناقشتها واختبارها تجريبياً.
+التشوهات المعرفية هي الهدف الرئيسي لإعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT، امتداداً للعلاج المعرفي الكلاسيكي الذي طوّره آرون بيك، حيث يتعلم المريض رصد **الأفكار التلقائية** الحاملة لهذه التشوهات ومناقشتها واختبارها تجريبياً. ويميّز جدلٌ منهجي هذه التشوهات، بوصفها انحرافاً وظيفياً قابلاً للتصحيح، عن فكرة القصور المعرفي البنيوي الثابت.

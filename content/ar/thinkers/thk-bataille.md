@@ -8,7 +8,7 @@ en: "Georges Bataille"
 crumb: "المدرسة الوجودية ← الناس ← جورج باتاي"
 dates: "فرنسا · 1897–1962"
 active_start: 1943
-active_end: 1957
+active_end: 1962
 country: "فرنسا"
 language: "الفرنسية"
 part: "philosophy"

@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
   - "مرجعه 'الوجودية: مقدمة قصيرة جداً' (Oxford) ودراسته عن الخيال السياسي عند سارتر يستحقان توثيقاً."
+  - "تصنيف belongs_to صُحِّح من «sch-existential-therapy» (مدرسة علاج نفسي إكلينيكي) إلى «sch-existentialism» (المدرسة الفلسفية) — فلين مؤرّخ فلسفة متخصص في سارتر وفوكو، وليس معالجاً نفسياً."
 ---
 
 # توماس فلين

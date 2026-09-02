@@ -14,13 +14,13 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: 2010
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والدراسات النسوية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-cinderella-complex", title: "عقدة سندريلا", type: "عمل / كتاب"
 - id: "con-cinderella-complex", title: "عقدة سندريلا", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـكوليت داولينغ في الأدبيات المتاحة."
 ---
 
 # كوليت داولينغ
@@ -53,6 +53,3 @@ gaps:
 - *You Mean I Don't Have to Feel This Way?* (1991).
 - *The Frailty Myth* (2000).
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

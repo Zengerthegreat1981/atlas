@@ -12,10 +12,8 @@ active_end: 2020
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التنويم الإكلينيكي (تقليد إريكسون)", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-delman", title: "ديف إلمان", type: "مفكر"
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 gaps:
   - "لا صلة موثقة تربطه تحديداً بأسلوب ديف إلمان في التنويم كما ورد في التصنيف الأصلي؛ هو معروف بتقليد إريكسون التنويمي وليس أسلوب إلمان."

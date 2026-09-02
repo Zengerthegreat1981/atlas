@@ -9,15 +9,15 @@ en: "Deliberative Democracy"
 crumb: "الفلسفة ← السياسية المعاصرة ← الديمقراطية التداولية"
 dates: "أمريكا، ألمانيا · من 1980s إلى اليوم"
 country: "الولايات المتحدة، ألمانيا"
+cultural_origin: "anglo-american"
 language: "الإنجليزية، الألمانية"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الفلسفة السياسية المعاصرة", target_type: "مظلة"
 related:
-- id: "sch-civic-republicanism", title: "الجمهورية المدنية الجديدة", type: "مدرسة"
-- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
-- id: "sch-frankfurt-school", title: "نظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
 - id: "wrk-factizitaet-geltung", title: "الواقعية والحقيقة (Faktizität und Geltung, 1992)", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لـ«هابرماس» (sch-habermas) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -53,3 +53,11 @@ gaps:
 ## القيد
 
 - شروط المناقشة العميقة (المساواة الفعلية، الوقت، المعرفة) يصعب ضمانها.
+
+## المصادر
+
+- Habermas, Jürgen. *Faktizität und Geltung* (Between Facts and Norms). Suhrkamp, 1992.
+- Gutmann, Amy & Thompson, Dennis. *Democracy and Disagreement*. Harvard University Press, 1996.
+- Bohman, James. *Public Deliberation: Pluralism, Complexity, and Democracy*. MIT Press, 1996.
+- Dryzek, John S. *Deliberative Democracy and Beyond: Liberals, Critics, Contestations*. Oxford University Press, 2000.
+- Benhabib, Seyla. *Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics*. Routledge, 1992.

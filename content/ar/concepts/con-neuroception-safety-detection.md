@@ -13,16 +13,16 @@ edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-stephen-porges", target_type: "مفكر"
 related:
-- id: "thk-stephen-porges", title: "ستيفن بورغس", type: "مفكر"
-- id: "thk-dsiegel", title: "دانيال سيغل", type: "مفكر"
-- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "thk-clarkson", title: "بيتروسكا كلاركسون", type: "مفكر"
-- id: "con-neuroception-polyvagal", title: "الإدراك العصبي اللاواعي في النظرية المتعددة", type: "مفهوم"
-- id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة", type: "مفهوم"
-- id: "con-polyvagal-states", title: "حالات الجهاز العصبي المتعدّد", type: "مفهوم"
-- id: "con-trauma", title: "الصدمة", type: "مفهوم"
-- id: "con-attachment-styles", title: "أنماط التعلّق", type: "مفهوم"
-- id: "con-window-of-tolerance", title: "نافذة التحمل", type: "مفهوم"
+- id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
+- id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
+- id: "thk-dana", title: "ديب دانا", type: "مفكر"
+- id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
+- id: "con-neuroception-polyvagal", title: "النيوروسبشن (Neuroception) والحالات العصبية المبهمية", type: "مفهوم"
+- id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
+- id: "con-polyvagal-states", title: "حالات الجهاز العصبي المتعدّد (Polyvagal States)", type: "مفهوم"
+- id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
+- id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من Porges (2004, *Polyvagal Theory*) بعد."
   - "التمييز بين 'الإدراك العصبي' و'التقييم اللاواعي' في الأدبيات الحديثة يحتاج فصلاً أدقّ."
@@ -31,7 +31,7 @@ gaps:
 
 # الإدراك العصبي اللاواعي للأمان (Neuroception of Safety)
 
-مفهوم محوري في **النظرية العصبية المبهمية المتعددة** (Polyvagal Theory) لـ **ستيفن بورغس**، يصف **الاكتشاف اللاواعي** الذي يقوم به الجهاز العصبي اللاإرادي لتقييم ما إذا كان الموقف آمناً أو خطراً أو مهدِّداً للحياة. يختلف الإدراك العصبي عن **الإدراك الواعي** (Conscious Perception) في أنه **أسرع** ولا يخضع للمعالجة السردية أو اللغة.
+مفهوم محوري في **النظرية العصبية المبهمية المتعددة** (Polyvagal Theory) لـ **ستيفن بورغس**، يصف **الاكتشاف اللاواعي** الذي يقوم به الجهاز العصبي اللاإرادي لتقييم ما إذا كان الموقف آمناً أو خطراً أو مهدِّداً للحياة. يختلف الإدراك العصبي عن **الإدراك الواعي** (Conscious Perception) في أنه **أسرع** ولا يخضع للمعالجة السردية أو اللغة. يتقاطع هذا الملف مع ملف **النيوروسبشن (Neuroception) والحالات العصبية المبهمية** الذي يعرض نفس الآلية العصبية ضمن **العلاج المستنير بنظرية البوليفاجال**؛ نقلت **ديب دانا** المفهوم إلى بروتوكولات علاجية سريرية مباشرة (Polyvagal Theory in Therapy)، بينما ربط **دان سيغل** بين قراءة الإدراك العصبي للأمان واتساع أو ضيق **نافذة التحمل** لدى الفرد.
 
 ## التعريف
 

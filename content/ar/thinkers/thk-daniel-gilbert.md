@@ -12,8 +12,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-spotlight-effect", title: "تأثير بقعة الضوء (المبالغة في تقدير انتباه الآخرين لأخطائنا)", type: "مفهوم"
 - id: "wrk-stumbling-on-happiness", title: "العثار في طريق السعادة", type: "عمل / كتاب"

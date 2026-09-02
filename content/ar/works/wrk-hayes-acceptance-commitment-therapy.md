@@ -9,6 +9,10 @@ en: "Acceptance and Commitment Therapy: An Experiential Approach to Behavior Cha
 crumb: "الموجة الثالثة للعلاج المعرفي السلوكي ← أمهات الأعمال ← العلاج بالقبول والالتزام"
 active_start: null
 active_end: "مستمر"
+author: "ستيفن سي. هايز"
+author_slug: "thk-lstevenhayes"
+publication_year: 1999
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:

@@ -9,10 +9,14 @@ en: "The Decisive Treatise (Fasl al-Maqal) by Ibn Rushd (Averroes)"
 crumb: "الفلسفة الإسلامية والأندلس ← أمهات الأعمال ← فصل المقال لابن رشد"
 active_start: null
 active_end: "مستمر"
+author: "ابن رشد"
+author_slug: "thk-ibn-rushd"
+publication_year: 1179
+original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

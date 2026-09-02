@@ -10,12 +10,11 @@ crumb: "الفلسفة ← اليونان وروما ← الأفلاطونية 
 dates: "روما، الإسكندرية، أثينا · من نحو 250 م إلى 529 م"
 country: "روما (إيطاليا)، الإسكندرية (مصر)، أثينا (يونان)"
 language: "اليونانية، اللاتينية"
+cultural_origin: "greek"
 active_start: 245
 active_end: 529
 edges:
-- rel: "belongs_to", target: "أفلاطونية", target_type: "مظلة"
 - rel: "absorbed_by", target: "sch-existentialism-religious", target_type: "مظلة"
-- rel: "absorbed_by", target: "الإسلام", target_type: "مظلة"
 related:
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
 - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
@@ -107,3 +106,11 @@ gaps:
 - التمييز بين «الأفلاطونية الوسطى» و«المحدثة» (إلغاء الأكاديمية 529) في المصادر القديمة ليس واضحاً.
 - الأفلاطونيون المحدثون لم يكونوا «مدرسة موحّدة» — أفلوطين (الإثني عشري/اللاهوت النظري)، يامبليخوس (الإحيائي)، بروقلس (المنهجي) يختلفون جذرياً.
 - «الفلسفة الإحيائية» (theurgy) عند يامبليخوس مختلفة عن «الفلسفة النظرية» عند أفلوطين — تياران متمايزان داخل تيار أوسع.
+
+## المصادر
+
+- Plotinus. *Enneads* (trans. A. H. Armstrong, Loeb Classical Library, 1966–1988).
+- Porphyry. *Life of Plotinus* (in Armstrong's Loeb edition of the *Enneads*, vol. 1).
+- Dodds, E. R. (1933/1963). *Proclus: The Elements of Theology*. Oxford: Clarendon Press.
+- Wallis, R. T. (1972). *Neoplatonism*. London: Duckworth.
+- Gerson, Lloyd P. (ed.) (2010). *The Cambridge History of Philosophy in Late Antiquity*. Cambridge University Press.

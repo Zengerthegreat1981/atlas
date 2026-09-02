@@ -11,16 +11,13 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-social-psychology", target_type: "مدرسة"
-- rel: "formulated_by", target: "ليون فستنجر", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-lfestinger", target_type: "مفكر"
 related:
 - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
-- id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر للتنافر المعرفي", type: "دراسة وبحث"
+- id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي", type: "دراسة وبحث"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "الفرق بين نظريات الاستواء (Festinger، Heider، Newcomb، Osgood) لم يُمثَّل بعمق."
-  - "نقد نظرية الاتساق لكونها غير قابلة للتكذيب يحتاج تحليلاً منهجياً."
 ---
 
 # بديهية الاستواء المعرفي
@@ -64,3 +61,9 @@ gaps:
 - **غير قابلة للتكذيب** (Falsifiability): كل سلوك يمكن تفسيره كتقليل للتنافر.
 - **مُفرطة في المرونة**: تفسير بأثر رجعي لكل ظاهرة.
 - **لا تتنبأ بوضوح**: متى وكيف سيُقلِّل الفرد التنافر؟
+
+## المصادر
+
+- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
+- Festinger, L., & Carlsmith, J. M. (1959). "Cognitive Consequences of Forced Compliance." *Journal of Abnormal and Social Psychology*, 58(2), 203–210.
+- Heider, F. (1958). *The Psychology of Interpersonal Relations*. John Wiley & Sons.

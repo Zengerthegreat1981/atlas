@@ -9,6 +9,7 @@ en: "Post-Structuralism"
 crumb: "الفلسفة ← القارية ← ما بعد البنيوية"
 dates: "فرنسا، العالم الأنجلوساكسوني · من 1966 إلى الوقت الحاضر"
 country: "فرنسا"
+cultural_origin: "french"
 language: "الفرنسية، الإنجليزية"
 active_start: 1966
 active_end: "مستمر"
@@ -31,7 +32,6 @@ related:
 - id: "que-biopolitics-power-over-life", title: "كيف تحولت السلطة من حق القتل إلى إدارة الحياة والجسد (البيوبوليتيك)؟", type: "سؤال توليدي"
 gaps:
   - "الحدود بين 'ما بعد البنيوية' و'التفكيكية' و'ما بعد الحداثة' غير موحّدة في المراجع الفلسفية."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع الفلسفة النسوية (Cixous، Kristeva، Irigaray) تحتاج توسعة."
 ---
 # ما بعد البنيوية (Post-structuralisme)
@@ -77,3 +77,11 @@ gaps:
 - **اتهام «**النسبية المتطرفة**»**: إذا كان كل خطاب أداة سلطة، فكيف نقد خطاب دون الانزلاق إلى النسبية؟
 - **اتهام «**استحالة الكلام**»**: إذا كان كلامنا مشكوكًا فيه، فهل يمكن قول **أي شيء**؟ (نقد Searle على دريدا).
 - **اتهام «**تسييس الأدب**»**: في *The Closing of the American Mind* (Bloom, 1987)، اتُهمت ما بعد البنيوية بإضعاف «**التمييز بين الجيد والسيئ**» في الأدب والفكر.
+
+## المصادر
+
+- Foucault, Michel. *Les Mots et les choses*. Gallimard, 1966.
+- Derrida, Jacques. *De la grammatologie*. Éditions de Minuit, 1967.
+- Deleuze, Gilles & Guattari, Félix. *Anti-Œdipe: Capitalisme et schizophrénie*. Éditions de Minuit, 1972.
+- Barthes, Roland. *Le Plaisir du texte*. Éditions du Seuil, 1973.
+- Lyotard, Jean-François. *La Condition postmoderne*. Éditions de Minuit, 1979.

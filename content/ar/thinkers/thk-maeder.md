@@ -10,7 +10,7 @@ dates: "سويسرا · 1882–1971"
 country: "سويسرا"
 language: "الألمانية / الفرنسية"
 part: "psychology"
-active_start: null
+active_start: 1906
 active_end: 1971
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,9 +19,8 @@ related:
 - id: "thk-bleuler", title: "أوجين بلويلَر", type: "مفكر"
 - id: "thk-bleuler-jung-assoc", title: "فرانتس ريكلين", type: "مفكر"
 gaps:
-  - "معلومات السيرة الذاتية (سوى الفترة المبكرة) قليلة في المصادر الإنجليزية."
-  - "الفصل بين «حلم الرغبة» عند فرويد و«الحلم التطلّعي» عند مايدر يحتاج مراجعة نصية دقيقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "معلومات السيرة الذاتية بعد مغادرته العمل الإكلينيكي المباشر (بعد 1918 تقريباً) قليلة في المصادر الإنجليزية المتاحة."
+  - "لا يوجد اقتباس مباشر منسوب بمصدر وسنة."
 ---
 
 # ألفونس مايدر
@@ -41,4 +40,10 @@ gaps:
 
 ## أهم أعماله
 
-«مشكلة الحلم» (Über das Traumproblem, 1912) · «الاتجاه الجديد في علم النفس التحليلي» (1912) · «العلاج النفسي وتعديل السلوك» (1925).
+«حول تكوّن الرمزية في الحلم» (Zur Entstehung der Symbolik im Traum, 1910) · «وظيفة الحلم» (Über die Funktion des Traumes, 1912).
+
+## المصادر
+
+- "Alphonse Maeder." Wikipedia (en.wikipedia.org/wiki/Alphonse_Maeder).
+- "Maeder, Alphonse E. (1882–1971)." Encyclopedia.com (encyclopedia.com/psychology).
+- Wikidata: Alphonse Maeder (wikidata.org/wiki/Q2839897).

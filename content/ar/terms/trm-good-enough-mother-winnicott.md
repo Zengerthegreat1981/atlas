@@ -14,8 +14,8 @@ edges:
 related:
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 gaps:
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "لا يوجد رابط wrk- في الأطلس لعمل وينيكوت الأصلي (Playing and Reality، 1971) الذي يرد فيه المفهوم بالتفصيل — يحتاج طلب slug جديد."
+  - "مصطلح 'Optimal Frustration' (الإحباط الأمثل) المستخدم هنا يُنسب في الأدبيات غالباً لهاينز كوهوت (Heinz Kohut) لا لوينيكوت مباشرة؛ التمييز الدقيق بين الفكرتين يحتاج فصلاً تحريرياً منفصلاً."
 ---
 # الأم الجيدة بما يكفي (Good-Enough Mother): التوازن بين الإشباع والإحباط
 
@@ -32,3 +32,9 @@ gaps:
 ## الأثر في الإرشاد الأسري والعلاجي
 
 تشجيع الوالدين على قبول أخطائهم الطبيعية واستثمارها كفرص لتعليم الأبناء مهارات الصمود والتكيف.
+
+## المصادر
+
+- Winnicott, D.W. (1953). "Transitional Objects and Transitional Phenomena." *International Journal of Psycho-Analysis*, 34: 89–97.
+- Winnicott, D.W. (1965). *The Maturational Processes and the Facilitating Environment*. London: Hogarth Press.
+- Winnicott, D.W. (1971). *Playing and Reality*. London: Tavistock Publications.

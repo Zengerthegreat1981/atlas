@@ -12,16 +12,17 @@ country: "إنجلترا، فرنسا، ألمانيا"
 language: "اللاتينية"
 active_start: 1280
 active_end: 1450
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
 related:
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
 - id: "dbt-thomism-vs-scotism", title: "التوماوية في مقابل السكوتية: العقل أم الإرادة؟", type: "جدل"
 gaps:
   - "نصوص دنز سكوتوس اللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Ordinatio' أو 'Opus Oxoniense'."
+  - "لم يُوثّق اقتباس مباشر بسند من 'Ordinatio' أو 'Opus Oxoniense'."
   - "التمييز بين 'السكوتية' و'مدرسة سكوتوس' (Scotist School) معقّد (سلسلة من الفلاسفة استلهموه)."
 ---
 
@@ -120,3 +121,9 @@ gaps:
 - **الواقعية المفرطة**: «**Haecceitas**» قد تكون منطقياً «**لا شيء**»، لأنّها لا تحدّد أيّ شيء إيجابياً.
 - **الحرية الإنسانية**: هل الإرادة الحرّة مهدّدة من الله (Omnipotens)؟ سكوتوس رأى أنّ الإرادة الإلهية «**تكمّل**» الحرية الإنسانية، لا «**تنسفها**».
 - **التأثير المحدود**: السكوتّية خسرت في القرن 16-17 لصالح التوماوية (خاصة في اللاهوت اليسوعي الإسباني)، لكنّها استمرّت في الجامعات الأنجلوسكسونية.
+
+## المصادر
+
+- Williams, Thomas. "John Duns Scotus." *Stanford Encyclopedia of Philosophy*, 2016.
+- Cross, Richard. *Duns Scotus*. Oxford University Press, 1999.
+- Ingham, Mary Beth & Dreyer, Mechthild. *The Philosophical Vision of John Duns Scotus: An Introduction*. Catholic University of America Press, 2004.

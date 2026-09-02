@@ -13,7 +13,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "CBCT (العلاج الزوجي المعرفي-السلوكي)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-nbepstein", title: "نورمان إبستين", type: "مفكر"
 - id: "thk-ahalford", title: "و. كيم هالفورد", type: "مفكر"
@@ -42,7 +42,7 @@ gaps:
 
 ## أهم أعماله
 
-- *Cognition in Marriage* (مع إبستين، 1990).
+- *Cognitive-Behavioral Marital Therapy* (مع إبستين، 1990).
 - *Cognitive-Behavioral Couple Therapy* (مع إبستين وآخرين، 2015).
 
 ## اقتباسات مختارة

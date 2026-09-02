@@ -10,12 +10,12 @@ crumb: "الفلسفة ← التحليلية ← البراغماتية الج�
 dates: "الولايات المتحدة · من 1960 إلى الآن"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1960
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
 - rel: "evolved_from", target: "sch-pragmatism-classical", target_type: "مدرسة"
-- rel: "evolved_from", target: "الطبيعة التحليلية (الكواينية)", target_type: "مدرسة"
 related:
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
 - id: "thk-rbrandom", title: "روبرت براندوم", type: "مفكر"
@@ -28,7 +28,7 @@ gaps:
   - "رابط مقترح لـ«ريتشارد برنشتاين» (thk-bernstein) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«سوزان هاك» (thk-haack) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق الدقيق بين «البراغماتية الجديدة» عند رورتي و«البراغماتية» عند هاك وكيتشر لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من رورتي 'الفلسفة ومرآة الطبيعة' (Philosophy and the Mirror of Nature, 1979) في صياغته المنقحة."
+  - "اقتباس رورتي المنقّح من 'الفلسفة ومرآة الطبيعة' (Philosophy and the Mirror of Nature, 1979) لم يُراجَع بعد من نصّه الأصلي."
   - "الفرق بين البراغماتية الجديدة و'براغماتية القانون الدولي' لم يُراجع."
 ---
 
@@ -66,3 +66,11 @@ gaps:
 
 - يستحق التمييز بين «البراغماتية الجديدة» و«ما بعد الحداثة» فصلاً مستقلاً.
 - علاقة رورتي بفلسفة هابرماس (نظرية الفعل التواصلي) تستحق تدقيقاً موثّقاً.
+
+## المصادر
+
+- Rorty, Richard (1979). *Philosophy and the Mirror of Nature*. Princeton University Press.
+- Rorty, Richard (1989). *Contingency, Irony, and Solidarity*. Cambridge University Press.
+- Haack, Susan (2002). *Pragmatism, Old and New*. Prometheus Books.
+- Dreyfus, Hubert (1972). *What Computers Can't Do*. MIT Press.
+- Bernstein, Richard J. (1983). *Beyond Objectivism and Relativism*. University of Pennsylvania Press.

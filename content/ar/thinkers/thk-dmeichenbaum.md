@@ -3,9 +3,9 @@ slug: "thk-dmeichenbaum"
 id: "THK-0937"
 type: "مفكر"
 level: "متقدم"
-title: "د. هـ. مايكنباوم"
-en: "D. H. Meichenbaum"
-crumb: "المعرفية السلوكية ← الناس ← د. هـ. مايكنباوم"
+title: "دونالد مايكنباوم"
+en: "Donald H. Meichenbaum"
+crumb: "المعرفية السلوكية ← الناس ← دونالد مايكنباوم"
 dates: "كندا / أمريكا · 1940–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
@@ -25,7 +25,7 @@ gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
-# د. هـ. مايكنباوم
+# دونالد مايكنباوم
 
 عالم نفس كندي–أمريكي في University of Waterloo، رائد «تدريب التلقيح ضدّ الضغط» (Stress Inoculation Training، SIT).
 

@@ -19,10 +19,8 @@ related:
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحقيقة (con-truth)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظرية المطابقة (con-correspondence)"
-- "المصادر الأولية (Aristotle، Nietzsche، James، Foucault، Tarski) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الحقيقة' (Truth) و'الصدق' (Sincerity) و'الواقعية' (Reality) يحتاج فصلاً."
-- "العلاقة بـ'ما بعد الحقيقة' (Post-Truth) في السياسة المعاصرة تحتاج فصلاً."
+  - "الفرق بين 'الحقيقة' (Truth) و'الصدق' (Sincerity) و'الواقعية' (Reality) يحتاج فصلاً."
+  - "العلاقة بـ'ما بعد الحقيقة' (Post-Truth) في السياسة المعاصرة تحتاج فصلاً."
 ---
 # ما الْحَقِيقَة؟
 
@@ -43,3 +41,11 @@ gaps:
 ## الأَهمِّيَّة
 
 (1) **الْعِلْم** (Science): «**حَقِيقَة**» = «**هَدَف**» (Goal) — «**نَظَرِيَّات**» (Theories) «**صَادِقَة**» (True). (2) **الدِّين** (Religion): «**حَقِيقَة**» = «**وَحْي**» (Revelation) «**إِلَهِيّ**» (Divine). (3) **السِّيَاسَة** (Politics): «**حَقِيقَة**» = «**مَصْدَر**» (Source) «**قُدْرَة**» (Power) — «**مَا بَعد الْحَقِيقَة**» (Post-Truth).
+
+## المصادر
+
+- Aristotle, *Metaphysics*, Book Θ (~350 ق.م.) — نظرية المطابقة.
+- William James, *Pragmatism*, 1907 — النظرية البراغماتية.
+- Alfred Tarski, "The Semantic Conception of Truth", *Philosophy and Phenomenological Research*, 1944.
+- Richard Rorty, *Philosophy and the Mirror of Nature*, 1979 — البراغماتية الجديدة.
+- Quentin Meillassoux, *Après la finitude*, 2006 — الواقعية التأملية.

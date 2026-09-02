@@ -17,8 +17,7 @@ edges:
 related:
 - id: "thk-theodor-adorno", title: "تيودور أدورنو", type: "مفكر"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد اقتباس منسوب مباشرة إليه بنصّه الأصلي (لا ترجمة عربية موثّقة) قابل للإيراد هنا."
 ---
 
 # ماكس هوركهايمر
@@ -44,6 +43,8 @@ gaps:
 - *Eclipse of Reason* (أفول العقل، 1947).
 - *Studien über Autorität und Familie* (1936، محرّراً).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Rolf Wiggershaus, *The Frankfurt School: Its History, Theories, and Political Significance*, trans. Michael Robertson (MIT Press, 1994).
+- Max Horkheimer, *Eclipse of Reason* (Oxford University Press, 1947).
+- SEP، مدخل "Critical Theory" و"The Frankfurt School".

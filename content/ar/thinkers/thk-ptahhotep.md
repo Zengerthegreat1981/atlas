@@ -48,3 +48,8 @@ gaps:
 ## أهم أعماله
 
 - *The Maxims of Ptahhotep* (Prisse Papyrus، 2000 ق.م تقريباً).
+
+## المصادر
+
+- Lichtheim, Miriam. *Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms*. Berkeley: University of California Press, 1973.
+- Parkinson, R. B. *The Tale of Sinuhe and Other Ancient Egyptian Poems, 1940–1640 BC*. Oxford: Oxford University Press, 1997 (يتضمن ترجمة لتعاليم بتاح حتب).

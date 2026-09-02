@@ -13,17 +13,16 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "العلاج بالواقع الافتراضي", target_type: "تيار"
+- rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "br-vr-therapy", title: "العلاج بالواقع الافتراضي", type: "تيار"
 - id: "thk-bwiederhold", title: "بريندا فيدرهولد", type: "مفكر"
 - id: "thk-hghoffman", title: "هنتر هوفمان", type: "مفكر"
-- id: "thk-jdifede", title: "جوان ديفيد", type: "مفكر"
+- id: "thk-jdifede", title: "جوان ديفيدي", type: "مفكر"
 - id: "thk-sbouchard", title: "ستيفان بوشار", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة وتاريخها المهني الكامل لم يُراجعان من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة ميلاده الدقيقة (العقد السبعيني من القرن 20) غير موثّقة بمصدر أولي منشور."
 ---
 
 # ألبرت «سكيب» ريزو
@@ -38,13 +37,18 @@ gaps:
 
 ## موقعه من التيار
 
-يُعتبر ريزو حلقة وصل بين الأبحاث الأكاديمية (USC) والتطبيق العسكري (وزارة الدفاع الأمريكية وVA Veterans Affairs) والصناعة (Motion堂). عمله أوسع من مجرد تطبيق تقني، إذ يُسهم في تأسيس **clinical VR** كحقل متخصص له جمعياته ومجلاته (مثل Frontiers in Virtual Reality).
+يُعتبر ريزو حلقة وصل بين الأبحاث الأكاديمية (USC) والتطبيق العسكري (وزارة الدفاع الأمريكية وVA Veterans Affairs) والصناعة. عمله أوسع من مجرد تطبيق تقني، إذ يُسهم في تأسيس **clinical VR** كحقل متخصص له جمعياته ومجلاته (مثل Frontiers in Virtual Reality).
 
 ## أهم أعماله
 
-- «Virtual Iraq» (2005-2010) — مشروع بحثي DHAMMAD.
+- «Virtual Iraq/Virtual Afghanistan» (منتصف العقد الأول من القرن 21) — نظام التعرض الافتراضي الذي تطوّر إلى Bravemind.
 - «Bravemind Clinical Manual» (متعدد الإصدارات).
 - «Clinical Virtual Reality: An Overview» (في مجلات علم النفس الإكلينيكي، أوائل العقد الثاني من القرن الحادي والعشرين).
 
 ## القيد
 لا يُعدّ ريزو مفكراً نظرياً بمعنى المدارس الكبرى (فرويد، بيك، روجرز)، إسهامه تقنية سريرية أكثر منه نظرياً. لا توجد مدرسة علاجية تحمل اسمه.
+
+## المصادر
+
+- Rizzo, A. & Shilling, R. (2017). "Clinical Virtual Reality tools to advance the prevention, assessment, and treatment of PTSD." *European Journal of Psychotraumatology*, 8(sup5).
+- Rothbaum, B. O., Hodges, L., Ready, D., Graap, K., & Alarcon, R. D. (2001). "Virtual reality exposure therapy for Vietnam veterans with posttraumatic stress disorder." *Journal of Clinical Psychiatry*, 62(8) (دراسة مبكرة استُخدم فيها نظام Rizzo لاحقاً في تطويره).

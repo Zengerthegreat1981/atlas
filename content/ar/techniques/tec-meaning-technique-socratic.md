@@ -7,19 +7,21 @@ title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)"
 en: "Dereflection (Logotherapy)"
 crumb: "الإنسانية ← التقنيات ← تقنية المنعطف الوجودي"
 part: "psychology"
-active_start: null
+active_start: 1955
 active_end: "مستمر"
+evidence_level: "traditional"
 edges:
-- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-frankl", target_type: "مفكر"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "br-logotherapy", title: "العلاج بالمعنى والتحليل الوجودي", type: "تيار"
-- id: "con-will-to-meaning", title: "الإرادة في المعنى", type: "مفهوم"
+- id: "con-will-to-meaning", title: "الإرادة في المعنى (Will to Meaning)", type: "مفهوم"
 - id: "tec-paradoxical-intention", title: "النية المتناقضة", type: "تقنية/تدخل علاجي"
+- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من فرانكل بعد."
-  - "التمييز الدقيق بين 'إزالة التوجيه الذاتي' (Dereflection) و'النية المتناقضة' (Paradoxical Intention) يحتاج تحقق."
+  - "لا يوجد اقتباس مباشر من فرانكل موثّق بترقيم صفحة من The Doctor and the Soul بعد — العرض الحالي إعادة صياغة لا اقتباس حرفي."
+  - "لا توجد دراسة معشاة (RCT) موثقة في الأطلس اختبرت Dereflection تحديداً بمعزل عن النية المتناقضة — أغلب الأدلة على العلاج بالمعنى ككل تخص Meaning-Centered Psychotherapy (tec-meaning-centered-psychotherapy) لا هذه التقنية بعينها."
 ---
 
 # تقنية المنعطف الوجودي (Logotherapy's Dereflection)

@@ -11,13 +11,11 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
-- rel: "formulated_by", target: "بوريس فريدريك سكينر", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-fskinner", target_type: "مفكر"
 related:
-- id: "thk-fskinner", title: "بوريس فريدريك سكينر", type: "مفكر"
-- id: "stu-skinner-operant-conditioning", title: "تجارب سكينر للإشراط الفعال", type: "دراسة وبحث"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
+- id: "stu-skinner-operant-conditioning", title: "تجارب سكينر في الإشراط الإجرائي وجداول التعزيز", type: "دراسة وبحث"
 - id: "axm-reinforcement", title: "مبدأ التعزيز", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
-- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "الفرق بين نظرية سكينر الإجرائية ونظرية ادوارد ثورندايك (قانون الأثر) في الدقة الرياضية يحتاج تحليلاً."
   - "الفصل بين 'التعزيز' و'المكافأة' في الممارسة العلاجية الحديثة لم يُمثَّل."
@@ -79,3 +77,10 @@ gaps:
 - **تجاهل الأفكار والمشاعر**: السلوك البشري لا يُفسَّر كله بالعواقب.
 - **الإرادة الحرة**: رفض سكينر لها فلسفياً موضع جدل.
 - **العدمية الأخلاقية**: إذا كان كل شيء تكيُّفاً، فهل المسؤولية الأخلاقية موجودة؟
+
+## المصادر
+
+- Skinner, B. F. (1938). *The Behavior of Organisms: An Experimental Analysis*. Appleton-Century.
+- Skinner, B. F. (1953). *Science and Human Behavior*. Macmillan.
+- Skinner, B. F. (1971). *Beyond Freedom and Dignity*. Knopf.
+- Ferster, C. B., & Skinner, B. F. (1957). *Schedules of Reinforcement*. Appleton-Century-Crofts.

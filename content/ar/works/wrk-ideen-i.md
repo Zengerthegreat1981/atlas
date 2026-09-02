@@ -10,6 +10,10 @@ crumb: "الفلسفة ← القارية ← الظاهراتية ← أفكا�
 dates: "1913 · هوسرل"
 country: "ألمانيا"
 language: "الألمانية"
+author: "إدموند هوسرل"
+author_slug: "thk-husserl"
+publication_year: 1913
+original_language: "الألمانية"
 active_start: 1913
 active_end: 1913
 edges:

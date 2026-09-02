@@ -1,0 +1,62 @@
+---
+slug: "thk-wood"
+id: "THK-0376"
+type: "مفكر"
+part: "philosophy"
+level: "مبتدئ"
+title: "جون-ماينارد وود"
+en: "John-Maynard Wood"
+dates: "بريطانيا · القرن العشرين"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 1970
+active_end: 2010
+part: "psychology"
+crumb: "المدرسة الوجودية ← الناس ← جون-ماينارد وود"
+edges:
+- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+related:
+- id: "thk-rdlaing", title: "ر. د. لاينغ", type: "مفكر"
+- id: "thk-emv", type: "مفكر", title: "إيريك فروم"
+- id: "thk-icanetti", type: "مفكر", title: "إيليا كانيتي"
+- id: "thk-asmith", type: "مفكر", title: "آدم سميث (الفلسفي)"
+- id: "thk-essinger", type: "مفكر", title: "إيريك فروم"
+- id: "br-british", type: "تيار", title: "الوجودي-الظاهراتي البريطاني"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'John-Maynard Wood' في SEA أو British Psychological Society حتى آب 2026."
+  - "الاسم يبدو مركَّباً (John-Maynard) بطريقة غير معتادة في المصادر البريطانية."
+  - "الاحتمال الأقوى: خلط مع 'John Wood' (أستاذ فلسفة في جامعة كورنيل) أو 'John Maynard Keynes' (اقتصادي)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'British Existential Therapy' عام."
+---
+
+# جون-ماينارد وود
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في العلاج الوجودي البريطاني]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: John-Maynard Wood.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **SEA (Society of Existential Analysis)**: لا عضوية.
+  - **BPS (British Psychological Society)**: لا نتائج.
+  - **Sage Pub (Journal of Phenomenological Psychology)**: لا مقالة.
+  - **Existential Analysis (Journal)**: لا مقالة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **John Wood** (أستاذ فلسفة في جامعة كورنيل).
+  - **John Maynard Keynes** (اقتصادي، 1883–1946) — الاسم الأكثر شيوعاً في اللغة الإنجليزية.
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة في العلاج الوجودي.
+- للتحقق:
+  - Laing, R. D. (1960). *The Divided Self*. Penguin.
+  - van Deurzen, E. & Adams, M. (2016). *Skills in Existential Counselling & Psychotherapy*. Sage.
+  - Yalom, I. (1980). *Existential Psychotherapy*. Basic Books.

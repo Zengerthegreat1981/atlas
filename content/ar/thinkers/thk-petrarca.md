@@ -14,7 +14,7 @@ active_start: 1330
 active_end: 1374
 edges:
 - rel: "belongs_to", target: "sch-renaissance-humanism", target_type: "مدرسة"
-- rel: "founded", target: "الإنسانية النهضوية", target_type: "مدرسة"
+- rel: "founded", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
 - id: "ctx-italian-renaissance-humanism", title: "الإنسانوية في عصر النهضة الإيطالية وإحياء التراث الكلاسيكي", type: "سياق/تقليد"
@@ -49,3 +49,8 @@ gaps:
 - **Africa** (1339-1341): ملحمة شعرية عن سكيبيو.
 - **De Viris Illustribus** (1330s-1340s): سير مشاهير الرومان.
 - **Epistolae Familiares** (1325-1366): رسائل إلى الأصدقاء.
+
+## المصادر
+
+- Petrarch, F. *Secretum* (ترجمة إنجليزية: Carozza, D. & Shey, H. J., 1989). Peter Lang.
+- Kirkham, V., & Maggi, A. (Eds.) (2009). *Petrarch: A Critical Guide to the Complete Works*. University of Chicago Press.

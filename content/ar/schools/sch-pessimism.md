@@ -10,6 +10,7 @@ crumb: "الفلسفة ← القرن 19 ← المثالية ← التشاؤم
 dates: "ألمانيا، أوروبأ · من 1818 إلى 1900"
 country: "ألمانيا"
 language: "الألمانية"
+cultural_origin: "european"
 active_start: 1818
 active_end: 1900
 edges:
@@ -17,15 +18,14 @@ edges:
 - rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
 related:
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
-- id: "thk-hartmann", title: "إدوارد فون هارتمان", type: "مفكر"
-- id: "thk-zapffe", title: "بيتر ويلف زابف", type: "مفكر"
+- id: "thk-zapffe", title: "بيتر فيسيل زابفه", type: "مفكر"
 - id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«فيليب ماينلاندر» (thk-mainlander) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
+  - "رابط مقترح لـ«إدوارد فون هارتمان» أُزيل — الملف الوحيد بالـslug القريب `thk-hartmann` هو عن نيكولاي هارتمان (شخص مختلف تماماً)؛ يحتاج طلب slug جديد صحيح قبل إعادة الربط."
   - "كتابات إدوارد فون هارتمان 'فلسفة اللاواعي' (1869) لم تُراجع بشكل كامل في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # التشاؤمية الفلسفية
@@ -42,10 +42,10 @@ gaps:
 ## الشخصيات
 
 - **أرتور شوبنهاور (1788–1860)**: المؤسس، «العالم إرادةً وتمثلاً» (1818).
-- **إدوارد فون هارتمان (1842–1906)**: في «فلسفة اللاواعي» (1869) و«الأخلاق» (1879).
+- **إدوارد فون هارتمان (وُلد 1842، توفي بعد وفاته عام 1906)**: في «فلسفة اللاواعي» (1869) و«الأخلاق» (1879).
 - **فيليب ماينلاندر (1841–1876)**: في «فلسفة الخلاص» (1876).
 - **جوليان لوب (Julius Bahnsen, 1830–1881)**: في «التناقض في المعرفة» (Das Paradoxie des Wissens, 1882).
-- **إميل سيوران (Emil Cioran)**: في «ذروة اليأس» (Précis de décomposition, 1949) — امتداد القرن 20.
+- **إميل سيوران (Emil Cioran)**: في «ذروة اليأس»، نُشرت بعد وفاته -أي شوبنهاور- عام 1949 (Précis de décomposition) — امتداد القرن 20.
 
 ## الإرث
 
@@ -57,3 +57,10 @@ gaps:
 
 - تصنيف «التشاؤمية» يحمل مسحة تقييمية قد لا يتفق معها كل الممثلين.
 - الصلة بين شوبنهاور وفلسفة بوذا (Upanishads) اكتشفها المتأخرون لا شوبنهاور نفسه.
+
+## المصادر
+
+- Schopenhauer, Arthur. *Die Welt als Wille und Vorstellung*. 1818/1859.
+- Cioran, Emil. *Précis de décomposition*. Gallimard, 1949.
+- Beiser, Frederick C. *Weltschmerz: Pessimism in German Philosophy, 1860-1900*. Oxford University Press, 2016.
+- Dienstag, Joshua Foa. *Pessimism: Philosophy, Ethic, Spirit*. Princeton University Press, 2006.

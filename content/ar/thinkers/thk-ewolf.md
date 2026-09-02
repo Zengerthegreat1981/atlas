@@ -6,12 +6,12 @@ level: "متوسط"
 title: "إرنست س. وولف"
 en: "Ernest S. Wolf"
 crumb: "التحليل النفسي ← الناس ← Self Psychology ← إرنست وولف"
-dates: "ألمانيا / الولايات المتحدة · 1921–2016"
+dates: "ألمانيا / الولايات المتحدة · 1921–2018"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
-active_end: 2016
+active_end: 2018
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:

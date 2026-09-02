@@ -12,10 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-decolonial-latin", target_type: "مدرسة"
 related:
-- id: "thk-enrique-dussel", title: "إنريكي دوسيل", type: "مفكر"
+- id: "thk-anibal-quijano", title: "أنيبال كويخانو", type: "مفكر"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية الأمريكية", type: "مدرسة"
+- id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"
 gaps:
   - "التمييز بين 'الاستعمار' كإدارة عسكرية سياسية انتهت، و'الاستعمارية' كبنية تصنيف عرقي واقتصادي ومعرفي مستمرة حتى اليوم."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "ملف con-coloniality-of-power-concept يغطي نفس المفهوم (استعمارية السلطة عند كويخانو) بشكل مستقل — ازدواج محتمل يحتاج قرار دمج من رئيس التحرير."
 ---
 
 # استعمارية السلطة والمعرفة (Coloniality of Power)

@@ -9,37 +9,65 @@ crumb: "السلوكية (Behaviorism) ← الناس ← نَثَان هـ. أ�
 dates: "أمريكا · 1930–2013"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "psychology"
 active_start: null
 active_end: 2013
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-rfoxx", title: "ريتشارد فُكْس", type: "مفكر"
-- id: "tec-cra", title: "نهج التعزيز المجتمعي (CRA)", type: "تقنية/تدخل علاجي"
+- id: "thk-sbijou", title: "سيدني و. بيجو", type: "مفكر"
+- id: "tec-token-economy", title: "اقتصاد الرموز", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "الـslug 'thk-nazrin' خطأ كتابي لـ'Azrin'."
+  - "كتاب 'Token Economy' (1966، مع Holz) من أهم كتب العلاج السلوكي الجماعي."
+  - "روابط thk-tholz (ت. هولز) وthk-vburr (فيرن بَرّ) وcon-cra وcon-toilet-training حُذفت — لا ملفات مستقلة لها في الأطلس بعد رغم ذكرها في المتن."
 ---
 
 # نَثَان هـ. أزّرين
 
-عالم نفس أمريكي، رائد «اقتصاد الرموز» (Token Economy) والتدريب السلوكي في الصناعة.
+عالم نفس أمريكي بارز (1930-2013)، رائد **«اقتصاد الرموز»** (Token Economy) و**«التدريب السلوكي في الصناعة»** و**«التدريب السريع على قعادة»** للأطفال ذوي الإعاقة.
 
 ## ما أعطاه
 
-مع Holz (1966)، صاغ «اقتصاد الرموز» (Token Economy) — نظام علاجي جماعي يَستخدم رموز (بطاقات، نقاط) كتعزيزات ثانوية تُمَكِّن الوصول إلى التعزيزات الأساسيّة. طبَّق هذا النظام في مؤسسات مختلفة: مستشفيات الأمراض النفسيّة، سجون، فصول دراسيّة، مُجتمعات. كذلك طوَّر «التدريب داخل الصناعة» (Training Within Industry، TWI) — تطبيق Skinner EAB على مكان العمل.
+- **«اقتصاد الرموز»** (Token Economy, 1966، مع ت. هولز (T. Holz)): نظام علاجي جماعي يستخدم **رموز** (بطاقات، نقاط) كتعزيزات ثانوية تُمَكِّن الوصول إلى التعزيزات الأساسية (وجبات، أنشطة). طبَّق هذا النظام في:
+  - مستشفيات الأمراض النفسية (Anna State Hospital في إلينوي).
+  - السجون.
+  - الفصول الدراسية.
+  - المجتمعات المحلية.
 
-مع R. Foxx (1974)، طوَّر «تدريب قعادة سريع» للأطفال المتوحديّين/الإعاقة الذهنية في أقلّ من يوم.
+- **«التدريب داخل الصناعة»** (Training Within Industry, TWI): تطبيق [سكينر](thk-fskinner) EAB على مكان العمل، مع تطوير «تدريب العمل» (Job Instruction) و«تدريب العلاقات» (Job Relations).
+
+- **«تدريب قعادة سريع»** (Rapid Toilet Training, 1974، مع [ريتشارد فُكْس](thk-rfoxx)): تقنيات مكثفة لتدريب الأطفال المتوحديين وذوي الإعاقة الذهنية على استخدام الحمام في **أقلّ من يوم**، مع نتائج مذهلة (نجاح 80-90% في يوم واحد). هذه الطريقة أثّرت بشكل دائم في برامج ABA المبكرة.
+
+- **«نهج التعزيز المجتمعي»** (Community Reinforcement Approach, CRA، مع في. بَرّ): برنامج علاجي شامل لإدمان الكحول والمخدرات، يركّز على تعزيز السلوكيات «البرانية» (Prosocial) بدل التركيز على الحذف المباشر للمخدرات.
 
 ## موقعه من التيار
 
-«المُترجم العلاجي» لـ Skinner — الذي بنى الأدوات السريرية والاقتصادية.
+**«المُترجم العلاجي»** لـ [سكينر](thk-fskinner) — الذي بنى الأدوات السريرية والاقتصادية. تلتقي أعماله مع [سيدني بيجو](thk-sbijou) في تطوير ABA للأطفال.
 
 ## القيد
-تُوفِّي 2013.
+
+تُوفّي عام 2013. «تدريب القعادة السريع» الذي اشتُهر به أثار جدلاً أخلاقياً في مرحلة لاحقة (انتقادات من بعض مناصري حقوق الإعاقة بسبب كثافته).
+
+## علاقته بالمفاهيم والمدارس
+
+يرتبط [باقتصاد الرموز](tec-token-economy) وبنهج التعزيز المجتمعي (CRA) وبتدريب القعادة (لا ملفات مستقلة لهما بعد في الأطلس) كمفاهيم مركزية. تلتقي أعماله مع [سكينر](thk-fskinner) في السلوكية الإجرائية.
 
 ## أهم أعماله
 
-اقتصاد الرموز (Token Economy، 1966) · تدريب قعادة سريع (1974، مع Foxx).
+- *Token Economy: A Motivational System for Therapy and Rehabilitation* (1966، مع Holz وHake).
+- *Toilet Training in Less Than a Day* (1974، مع Foxx).
+- *How to Use Reinforcement in Social Service and Business* (1976، مع عدد من المحررين).
+- *Drug Abuse: A New-Behavioral Approach* (1976، مع Bigelow وKnox).
+- *The Community-Reinforcement Approach* (مع Hunt, Ogborne, & De Wild, 1995).
+
+## المصادر
+
+- Azrin, N. H., & Holz, W. C. (1966). "Punishment." In *Operant Behavior: Areas of Research and Application*. Appleton-Century.
+- Azrin, N. H., & Foxx, R. M. (1974). *Toilet Training in Less Than a Day*. Simon & Schuster.
+- Azrin, N. H., et al. (1976). "An Evaluation of a Behavioral Approach in the Treatment of Alcoholism." *Journal of Studies on Alcohol*, 37(11), 1604–1611.
+- Skinner, B. F. (1953). *Science and Human Behavior*. Macmillan.
+- Baer, D. M., & Wolf, M. M. (1970). "The Entry into Natural Communities of Reinforcement." *APA Proceedings*.
+- Nova Southeastern University, Center for Psychological Studies — Historical Archives.

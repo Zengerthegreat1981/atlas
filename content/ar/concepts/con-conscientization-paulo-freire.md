@@ -14,10 +14,11 @@ edges:
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
-- id: "wrk-freire-pedagogy-oppressed", title: "تعليم المضطهدين (Pedagogy of the Oppressed)", type: "عمل / كتاب"
+- id: "thk-eduardo-duran", title: "إدواردو دوران", type: "مفكر"
 gaps:
   - "العلاقة بين الوعي النقدي والمناهج النسوية اللاحقة (Bell Hooks) لم تُوثّق بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "وُجد ذكر صريح لـ«Bonnie Duran» بجانب إدواردو دوران في المتن (فقرة «في علم النفس المناهض للاستعمار»)، لكن لا يوجد ملف thk- مطابق لها في الأطلس — طُلب slug جديد في requests-minimax.md."
+  - "wrk-freire-pedagogy-oppressed كان مربوطاً سابقاً رغم أن عنوان العمل («تعليم المضطهدين») غير مذكور حرفياً في متن هذا الملف — أُزيل الرابط لعدم التبرير النصي، رغم كونه العمل المحوري لفريري."
 ---
 
 # الوعي النقدي (Conscientização)

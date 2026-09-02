@@ -21,7 +21,6 @@ related:
 - id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # ماريت كويمِدا-لوتز
@@ -42,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 تحرير IIBA Journal (2006-2014) · مقالات في *Bioenergetic Analysis* Journal حول الأبحاث الكمية في Bioenergetics.
+
+## المصادر
+
+- Koemeda-Lutz, M. et al. (2012). "دراسة متعددة المراكز حول فعالية العلاج الجسدي النفسي في العيادات الخارجية." *Psychotherapie, Psychosomatik, Medizinische Psychologie*.
+- Koemeda-Lutz, M., Crameri, A., Tschuschke, V. & von Wyl, A. (2016). دراسة متابعة في *International Body Psychotherapy Journal*.
+- Koemeda-Lutz, M., Resneck-Sannes, H. & Nascimento, M. (eds.). *Bioenergetic Analysis: The Clinical Journal of the IIBA*.

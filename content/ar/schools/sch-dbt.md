@@ -10,20 +10,16 @@ crumb: "علم النفس ← المدارس المعرفية-السلوكية �
 dates: "الولايات المتحدة · من 1980s إلى اليوم"
 country: "الولايات المتحدة الأمريكية (سياتل، واشنطن)"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1983
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "الموجة الثالثة (Third Wave)", target_type: "تيار"
 - rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "evolved_from", target: "النظرية البيولوجية-الاجتماعية (Biosocial Theory)", target_type: "تيار"
-- rel: "founded_by", target: "مارشا لينيهان", target_type: "مفكر"
-- rel: "belongs_to", target: "الموجة الثالثة من الموجات المعرفية-السلوكية (Third Wave)", target_type: "تيار"
-- rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "evolved_from", target: "النظرية البيولوجية-الاجتماعية (Biosocial Theory)", target_type: "تيار"
-- rel: "founded_by", target: "مارشا إم. لينيهان", target_type: "مفكر"
+- rel: "evolved_from", target: "con-biosocial-dbt", target_type: "مفهوم"
+- rel: "founded_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
-- id: "rel-act", title: "القبول والالتزام — الجار المُحرِج", type: "علاقة بين مدرستين"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدي (BPD)", type: "اضطراب/حالة إكلينيكية"
+- id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "tec-dbt-daily-daily-mindfulness-check-in", title: "تسجيل يقظة يومي", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-alternate-rebellion-adaptive-denial", title: "التمرد البديل والإنكار التكيّفي", type: "تقنية/تدخل علاجي"
@@ -43,11 +39,8 @@ related:
 - id: "thk-shari-manning", title: "شاري مانينغ", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-martin-bohus", title: "مارتن بوهوس", type: "مفكر"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الشخصية لتشخيص لينيهان الذاتي لم تُراجع من مذكراتها *Building a Life Worth Living*."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
   - "التطبيقات الحديثة لـ DBT في اضطرابات ما بعد الصدمة (DBT-PE) لم تُوثَّق بعمق هنا."
 ---
 # العلاج الجدلي السلوكي (DBT)
@@ -113,14 +106,6 @@ DBT هو العلاج الأول والأكثر دراسةً لـ **اضطراب
 - اضطرابات السلوك عند المراهقين (DBT for adolescents).
 - المحاولات الانتحارية المتكررة والإيذاء الذاتي.
 
-## المطبوعات التأسيسية الرئيسية
-
-- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press. — الكتاب التأسيسي.
-- Linehan, M. M. (1993). *Skills Training Manual for Treating Borderline Personality Disorder*. Guilford Press. — دليل المهارات.
-- Linehan, M. M. (2015). *DBT Skills Training Handouts and Worksheets* (2nd ed.). Guilford Press. — الإصدار الثاني المحدَّث.
-- Linehan, M. M. (2021). *Building a Life Worth Living*. Random House. — مذكرات شخصية.
-- McKay, M., Wood, J., & Brantley, J. (2019). *The Dialectical Behavior Therapy Skills Workbook* (2nd ed.). New Harbinger. — كتاب تدريبي شعبي.
-
 ## العلاقى بالمدارس المجاورة
 
 - **CBT الكلاسيكية**: DBT امتداد مباشر لـ CBT، لكنه يُعدِّل بروتوكولاتها الكلاسيكية بدمج القبول واليقظة. يُعتبر من الموجة الثالثة (Third Wave).
@@ -166,9 +151,10 @@ DBT أعاد تعريف ما يمكن أن يفعله العلاج النفسي 
 - **أفريقيا وأمريكا اللاتينية**: تطبيقات محدودة مع تحديات البنية التحتية.
 - **العالم العربي**: برامج محدودة (لبنان، مصر، الأردن) مع تزايد بطيء.
 
-## المرجع الموصى للقراءة المُعمَّقة
+## المصادر
 
-- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
-- Linehan, M. M. (2015). *DBT Skills Training Handouts and Worksheets* (2nd ed.). Guilford Press. — للبدء.
-- McKay, M., Wood, J., & Brantley, J. (2019). *The Dialectical Behavior Therapy Skills Workbook* (2nd ed.). New Harbinger.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press. — الكتاب التأسيسي.
+- Linehan, M. M. (1993). *Skills Training Manual for Treating Borderline Personality Disorder*. Guilford Press. — دليل المهارات.
+- Linehan, M. M. (2015). *DBT Skills Training Handouts and Worksheets* (2nd ed.). Guilford Press. — الإصدار الثاني المحدَّث.
 - Linehan, M. M. (2021). *Building a Life Worth Living*. Random House. — مذكرات شخصية.
+- McKay, M., Wood, J., & Brantley, J. (2019). *The Dialectical Behavior Therapy Skills Workbook* (2nd ed.). New Harbinger. — كتاب تدريبي شعبي.

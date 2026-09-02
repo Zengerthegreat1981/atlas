@@ -22,7 +22,7 @@ related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا مصدر ثانوي مستقل (غير IIBA Journal) يوثّق تفاصيل مسيرته الإكلينيكية بدقة أكبر."
 ---
 
 # روبرت أ. لويس
@@ -43,3 +43,8 @@ gaps:
 ## أهم أعماله
 
 «الأساس النفسجسدي للتطور المبكر للأنا» (The Psychosomatic Basis of Premature Ego Development, 1976) · «العيش على الرمال المتحركة» (Living on Shifting Sands) · مقالات في IIBA Journal.
+
+## المصادر
+
+- Lewis, R. A. (1976). "The Psychosomatic Basis of Premature Ego Development." *Bioenergetic Analysis*.
+- International Institute for Bioenergetic Analysis (IIBA) — أرشيف IIBA Journal، سجل المحللين المدربين.

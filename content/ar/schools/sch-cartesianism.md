@@ -12,6 +12,7 @@ country: "فرنسا (باريس)، هولندا (لايدن، أمستردام)
 language: "الفرنسية، اللاتينية"
 active_start: 1637
 active_end: 1780
+cultural_origin: "french"
 edges:
 - rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مظلة"
 related:
@@ -21,7 +22,7 @@ related:
 - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
 gaps:
   - "نصوص ديكارت بالفرنسية واللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Meditationes' أو 'Principia Philosophiae'."
+  - "اقتباسات 'Meditationes' أو 'Principia Philosophiae' تحتاج تحققاً إضافياً من مصدر أولي موثوق."
   - "التمييز بين 'الديكارتية' (كفلسفة ديكارت) و'ديكارتية القرن 18' (كتيار جامعي) معقّد."
 ---
 
@@ -136,3 +137,10 @@ gaps:
 - **التوتّر مع العلم**: «**الفيزياء**» (Physica) «**الديكارتية**» (Cartesiana) «**دُحضت**» (Refutata) بـ«**نيوتن**» (Newton) في «**Principia**» (1687). «**الجاذبية**» (Gravitas) «**قوّة**» (Vis) «**غير مادّية**» (Non Materialis)، «**تَتناقض**» (Opponitur) مع «**الميكانيكا**» (Mechanica) «**الديكارتية**» (Cartesiana).
 - **التوتّر مع الحداثة**: «**ديكارت**» (Descartes) «**مَهَّدَ**» (Praeparavit) لـ«**العلمنة**» (Laicitas) و«**الفردية**» (Individualitas)، لكنّه «**حَفِظَ**» (Conservavit) «**الله**» (Deus) كـ«**ضمان**» (Garantia). **ماركس** (Marx) و«**نيتشه**» (Nietzsche) «**نَقَدا**» (Censuerunt) هذا «**التناقض**» (Contradictio).
 - **الإرث المعاصر**: «**مشكلة**» (Problema) «**العقل والجسد**» (Mens et Corpus) «**ما زالت**» (Adhuc) «**مفتوحة**» (Aperta). «**الديكارتية**» (Cartesianismus) «**مازالت**» (Adhuc) «**النموذج**» (Exemplar) لـ«**التفكير**» (Cogitatio) في «**الذكاء الاصطناعي**» (Intelligentia Artificialis) و«**علوم الإدراك**» (Cognitiones).
+
+## المصادر
+
+- Descartes, René. *Meditationes de Prima Philosophia*. 1641.
+- Descartes, René. *Discours de la Méthode*. 1637.
+- Cottingham, John. *Descartes*. Blackwell, 1986.
+- Watson, Richard A. *The Downfall of Cartesianism, 1673-1712*. Martinus Nijhoff, 1966.

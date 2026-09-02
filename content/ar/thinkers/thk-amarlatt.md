@@ -18,8 +18,6 @@ related:
 - id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
 - id: "thk-kwitkiewitz", title: "كايتي ويتكيفيتش", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-- id: "thk-esaebel", title: "إليزابيث سايبل", type: "مفكر"
-- id: "thk-jrathus", title: "جيل راثوس", type: "مفكر"
 gaps:
   - "مفهوم مارلات لـ«تأثير انتهاك الامتناع» (Abstinence Violation Effect, AVE) في 1973 وتأثيره على نظرية الانتكاس في الإدمان يستحق توثيقاً خاصاً."
   - "لا يوجد اقتباس مباشر موثوق متاح."

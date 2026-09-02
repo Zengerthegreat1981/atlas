@@ -11,6 +11,10 @@ dates: "الصين · نحو 320 م"
 language: "الصينية الكلاسيكية"
 active_start: 320
 active_end: 320
+author: "غي هونغ"
+author_slug: "thk-ge-hong"
+publication_year: 320
+original_language: "الصينية الكلاسيكية"
 edges:
 - rel: "belongs_to", target: "sch-daoism-religious", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-ge-hong", target_type: "مفكر"

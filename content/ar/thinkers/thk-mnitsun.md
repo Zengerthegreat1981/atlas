@@ -19,7 +19,7 @@ related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـموريس نيتسون."
 ---
 
 # موريس نيتسون
@@ -40,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 «ما وراء الجماعة المضادة» (Beyond the Anti-Group, 1996) · «الجماعة كموضوع للرغبة» (The Group as Object of Desire, 2006).
+
+## المصادر
+
+- Nitsun, M. (1996). *The Anti-Group: Destructive Forces in the Group and their Creative Potential*. Routledge.
+- Nitsun, M. (2006). *The Group as an Object of Desire: Exploring Sexuality in Group Therapy*. Routledge.
+- Group Analytic Society International — سجل أعضاء وكتّاب المدرسة اللندنية لتحليل الجماعات (يذكر نيتسون كأحد كتّاب الجيل التالي لفولكس).

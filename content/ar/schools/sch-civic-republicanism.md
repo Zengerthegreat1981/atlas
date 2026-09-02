@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "فلورنسا، البندقية، هولندا، إنجلترا، أمريكا · من القرن 14 م إلى القرن 19 م"
 country: "إيطاليا (فلورنسا، البندقية، روما)، هولندا، إنجلترا، أمريكا، فرنسا"
 language: "الإيطالية، اللاتينية، الإنجليزية، الفرنسية"
+cultural_origin: "european"
 active_start: 1400
 active_end: 1900
 edges:
@@ -24,7 +25,7 @@ related:
 - id: "sch-conservatism-philosophical", title: "المحافظية الفلسفية", type: "مدرسة"
 gaps:
   - "نصوص ماكيافيلي وبيكون وهارنغتون بالإيطالية والإنجليزية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Il Principe' لماكيافيلي."
+  - "الاقتباسات من 'Il Principe' لماكيافيلي تحتاج مراجعة إضافية من المصدر الإيطالي الأصلي."
   - "التمييز بين 'الجمهورية المدنية' و'الجمهورية المدنية الجديدة' معقّد (انظر sch-civic-republicanism)."
 ---
 
@@ -137,3 +138,10 @@ gaps:
 - **التوتّر مع التعددية**: «**الْإِرَادَة**» (Voluntas) «**الْعَامَّة**» (Generalis) (مِنْ «**روسّو**» (Rousseau)، اَلَّتِي «**الْجُمْهُورِيَّة**» (Res Publica) «**الْمَدَنِيَّة**» (Civilis) «**تَشْتَرِكُ**» (Convenit) «**مَعَهَا**» (Cum Ea)) «**اِفْتَرَضَتْ**» (Posuit) «**وَحْدَة**» (Unitatem) «**الْإِرَادَة**» (Voluntatis) — هَلْ هَذَا يَتَنَاقَضُ مَعَ «**التَّعَدُّدِيَّة**» (Pluralitate) «**الثَّقَافِيَّة**» (Culturali) وَ«**الْأَقَلِّيَّات**» (Minoritates)؟
 - **التوتّر مع الليبرالية الاقتصادية**: «**آدم سميث**» (Adam Smith) وَ«**الليبراليون**» (Liberales) «**الِاقْتِصَادِيُّون**» (Oeconomici) «**اِعْتَبَرُوا**» (Habuerunt) «**الْجُمْهُورِيَّة**» (Republicanam) «**الْمَدَنِيَّة**» (Civilem) «**عَقَبَة**» (Obicem) أَمَام «**السُّوق**» (Mercatus) «**الْحُرّ**» (Liber). «**مَاكْيَافِيلِّي**» (Machiavelli) «**لَمْ**» (Non) يَتَحَدَّثْ «**عَنِ**» (De) «**الِاقْتِصَاد**» (Oeconomia) «**الْحُرّ**» (Libero).
 - **الإرث المعاصر**: «**الْجُمْهُورِيَّة**» (Res Publica) «**الْمَدَنِيَّة**» (Civilis) «**اِسْتَعَادَتْ**» (Recuperavit) «**حَيَوِيَّة**» (Vigor) فِي «**الْقَرْن**» (Saeculo) «**20-21 م**» (XX-XXI) مَعَ «**Pocock**» وَ«**Skinner**» وَ«**Sandel**» وَ«**Pettit**» وَ«**Honig**». «**هَذِهِ**» (Haec) «**اِسْتِعَادَة**» (Recuperatio) «**تُقَدِّمُ**» (Praebet) «**بَدِيلًا**» (Alternativam) «**لِلْفَرْدَانِيَّة**» (Individualismo) «**الْمُفْرِطَة**» (Nimiae) فِي «**الدِّيمُقْرَاطِيَّات**» (Democratiae) «**الْمُعَاصِرَة**» (Contemporaneae) — «**لَكِنَّ**» (Sed) «**الْحَرَكَات**» (Motiones) «**الْمُعَاصِرَة**» (Contemporaneae) («**#MeToo**»، «**حياة سوداء مهمة**» (Black Lives Matter)، «**الْمَنَاخ**» (Clima)) «**لَا**» (Non) «**تَسْتَخْدِمُ**» (Usurpant) «**مَفْهُوم**» (Conceptum) «**الْجُمْهُورِيَّة**» (Republicanae) «**الْمَدَنِيَّة**» (Civilis) بَلْ «**مَفَاهِيم**» (Concepta) «**أُخْرَى**» (Alia) («**الْحُقّ**» (Ius)، «**الْوَاجِب**» (Officium)، «**الرَّعَايَة**» (Cura)).
+
+## المصادر
+
+- Pocock, J.G.A. *The Machiavellian Moment: Florentine Political Thought and the Atlantic Republican Tradition*. Princeton University Press, 1975.
+- Skinner, Quentin. *The Foundations of Modern Political Thought*. Cambridge University Press, 1978.
+- Pettit, Philip. *Republicanism: A Theory of Freedom and Government*. Oxford University Press, 1997.
+- Sandel, Michael. *Democracy's Discontent: America in Search of a Public Philosophy*. Harvard University Press/Belknap Press, 1996.

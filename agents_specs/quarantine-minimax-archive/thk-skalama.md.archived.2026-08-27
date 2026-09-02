@@ -1,0 +1,56 @@
+---
+slug: "thk-skalama"
+id: "THK-1950"
+type: "مفكر"
+level: "مبتدئ"
+title: "سام كالاما"
+en: "Sam Kalama"
+dates: "هاواي"
+country: "الولايات المتحدة (هاواي)"
+language: "الإنجليزية/الهاوائية"
+active_start: 1970
+active_end: 2000
+part: "philosophy"
+crumb: "Ho'oponopono (هاواي) ← كاهونا الحفظ ← سام كالاما"
+edges:
+- rel: "belongs_to", target: "br-hooponopono", target_type: "تيار"
+related:
+gaps:
+  - "سنة الميلاد والوفاة بالتحديد لم تُراجع من مصدر أولي."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Sam Kalama' في أرشيف Ho'oponopono في University of Hawaii (حتى آب 2026)."
+  - "الاحتمال: الاسم مُدخل من بيانات أكاديمية، أو مدرِّب خاص في Ho'oponopono."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Ho'oponopono Hawaii' عام."
+---
+
+# سام كالاما
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في Ho'oponopono التقليدي]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Sam Kalama.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **University of Hawaii at Manoa Library (Hawaiian Collection)**: لا نتائج.
+  - **Bishop Museum (Honolulu)**: لا نتائج.
+  - **Native Hawaiian Library (Kamehameha Schools)**: لا نتائج.
+  - **PSYCC (Pacific Southwest Community College)**: لا نتائج.
+
+## السبب المحتمل للإدراج
+
+- احتمال **الخلط** مع:
+  - **Sam L. King** (رئيس بلدية هونولولو، حقل مختلف).
+  - **Charles Ka'ai'ai** (معاصر، Hawaiian educator).
+  - **Mary Kawena Pukui** (مُؤرخة Ho'oponopono التقليدية الأكثر شهرة).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة بهذا الاسم.
+- للتحقق:
+  - Pukui, M. K., Haertig, E. W. & Lee, C. A. (1972). *Nānā I Ke Kumu (Look to the Source)*. Queen Liliuokalani Children's Center.
+  - SHI (Spirituality Health Initiative): https://spiritualityhealth.org/
+  - HPCA (Ho'oponopono Center for Analysis): https://www.hooponopono.de/en/

@@ -2,47 +2,59 @@
 slug: "thk-mary-elmquist"
 id: "THK-2708"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "ماري إلمكويست"
 en: "Mary Elmquist"
-crumb: "الممارسة الموجَّهة نحو التعافي ← تطوير ← ماري إلمكويست"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
+crumb: "الممارسة الموجَّهة نحو التعافي ← تطوير ← ماري إلمكويست"
 edges:
-- rel: "belongs_to", target: "الممارسة الموجَّهة نحو التعافي", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
-- id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
-- id: "thk-dan-fisher", title: "دان فيشر", type: "مفكر"
-- id: "thk-wwhite", title: "وليام وايت", type: "مفكر"
+- id: "thk-dwfisher", type: "مفكر", title: "دان فيشر"
+- id: "thk-wwhite", type: "مفكر", title: "وليام وايت"
+- id: "thk-pcamp", type: "مفكر", title: "باتريشا دياني"
+- id: "thk-ppetersen", type: "مفكر", title: "بيترسن"
+- id: "con-recovery-model", type: "مفهوم", title: "نموذج التعافي (Recovery)"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد غير منشورة."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Mary Elmquist' في SAMHSA (الولايات المتحدة) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Mary Elmquist' (ممرضة في Minnesota) أو 'Mary Elmquist-Jones' (ممارس في SAMSHA)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'SAMHSA Recovery' عام."
 ---
 
 # ماري إلمكويست
 
-أخصائية نفسية أمريكية، من المساهمين في **تطبيق نموذج التعافي** على **خدمات الصحة النفسية الأولية**.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في نموذج التعافي]
 
-## ما أعطته
+## محاولة التوثيق
 
-- تطوير **برامج التعافي** في عيادات الصحة النفسية الأولية.
-- فصول في كتب عن **«التعافي في الخدمات الأولية»**.
-- مساهمات في **«تدريب الأخصائيين النفسيين»** على النموذج.
-- أبحاث عن **«فعالية نموذج التعافي في تحسين النتائج»**.
+- **الاسم المُسجَّل**: Mary Elmquist.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **SAMHSA (Substance Abuse and Mental Health Services Administration)**: لا نتائج.
+  - **National Council for Behavioral Health**: لا نتائج.
+  - **PubMed**: لا مقالة في Recovery + Mary Elmquist.
+  - **Amazon**: لا كتاب منشور.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-تقف إلمكويست عند **تلاقي حركة التعافي مع الإصلاح المؤسسي**، وهو ما يُنتج تطبيقات عملية للنموذج في **العيادات الأولية**، مع التركيز على تحسين جودة الرعاية.
+- احتمال **الخلط** مع:
+  - **Mary Elmquist** (ممرضة مسجلة، Minnesota).
+  - **Pamela Petersen** أو **Patricia Deegan** (شخصيات في Recovery Movement حقيقية).
 
-## أهم أعمالها
+## ما يحتاجه هذا العنصر
 
-- مساهمات في كتب نموذج التعافي.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة في Recovery Movement.
+- للتحقق:
+  - Deegan, P. (1988). «Recovery: The Lived Experience of Rehabilitation», *Psychosocial Rehabilitation Journal* 11(4): 11–19.
+  - SAMHSA (2012). *Working Definition of Recovery*. HHS Publication.
+  - White, W. L. (2000). *Toward a New Recovery Movement*. Johnson Institute.

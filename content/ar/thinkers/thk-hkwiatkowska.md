@@ -12,8 +12,7 @@ active_start: 1956
 active_end: 1980
 part: "philosophy"
 crumb: "العلاج بالفن ← العلاج بالفن الأسري ← هانا كفياتكوفسكا"
-edges:
-- rel: "belongs_to", target: "العلاج بالفن", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-ekramer", title: "إديث كرامر", type: "مفكر"
 - id: "thk-vaxline", title: "فيرجينيا أَكسلاين", type: "مفكر"

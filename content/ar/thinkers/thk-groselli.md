@@ -3,30 +3,37 @@ slug: "thk-groselli"
 id: "THK-1116"
 type: "مفكر"
 level: "متوسط"
-title: "غيلي روزيليني"
+title: "غيل روزيليني"
 en: "Gayle Rosellini"
-crumb: "علاج إيماغو العلائقي ← مطوّرة مشرفة ← غيلي روزيليني"
-dates: "الولايات المتحدة"
+crumb: "علاج الإدمان والتعافي ← غيل روزيليني"
+dates: "الولايات المتحدة · معاصرة"
 country: "الولايات المتحدة"
-language: "إنجليزية"
-active_start: 1990
+language: "الإنجليزية"
+active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج إيماغو العلائقي (Imago)", target_type: "مدرسة"
-related:
-- id: "sch-imago", title: "علاج إيماغو العلائقي (Imago)", type: "مدرسة"
+- rel: "belongs_to", target: "العلاج المعرفي والتأهيل من الإدمان", target_type: "مدرسة"
+related: []
 gaps:
-  - "**تحذير تحقّق**: الكاتبة المعروفة بهذا الاسم (غيل روزيليني) اشتُهرت بكتابات في التعافي من الإدمان والغضب لدى دار Hazelden، ولم يُعثر على ما يربطها بعلاج إيماغو ولا على مجلة باسم *Imago Relationship International*. وكانت خمس مدارس لا صلة لها بها مدرجةً في روابط هذا الملف فأُسقطت. الملف مرشّح للنقل إلى المسودات ما لم يُوثَّق من مصدر أوّلي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "تاريخ الميلاد الدقيق غير منشور في بطاقات تعريف مؤسسة Hazelden Publishing."
 ---
 
-# غيلي روزيليني
+# غيل روزيليني
 
-معالجة نفسية أمريكية، من أهم مدرّبي و**مشرفي علاج إيماغو**، والمحرّرة المشاركة في مجلة Imago Relationship International.
+مستشارة إكلينيكية وكاتبة أمريكية متخصصة في التأهيل من الإدمان والاضطرابات الانفعالية وإعادة تأهيل أسر مدمني الكحول، نشرت أعمالها البارزة عبر مؤسسة هازلدن (Hazelden Foundation).
 
-## ما أعطته
+## إدارة الغضب والتعافي الأسري
 
-- **«Word From the Heart: Writing as a Spiritual Path for the Heartbroken»** (2000).
-- **«الكتابة كأداة علاجية إيماغوية»**: استخدام الرسائل للأزواج.
-- **تدريب معالجين إيماغو** على مستوى عالمي.
+ألّفت روزيليني بالشراكة مع مارك واردن (Mark Worden) سلسلة من الأدلة العلاجية الميدانية في الثمانينيات والتسعينيات. من أشهرها كتاب *Of Course You're Angry* (1985) الذي قعّد خطوات التعامل الواعي مع الغضب واستبدال السلوك العدواني السلبي، وكتاب *Taming Your Turbulent Past* (1987) الموجه للبالغين الذين نشأوا في أسر مضطربة، مقدماً تمارين معرفية وسلوكية لكسر دورة الصدمة الأسرية.
+
+## أهم المؤلفات
+
+- *Of Course You're Angry: A Guide to Dealing with the Most Troublesome Emotion* (1985).
+- *Taming Your Turbulent Past: A Self-Help Guide for Adult Children of Alcoholics* (1987).
+- *Living with the Alcoholic: A Recovery Guide for Families* (1989).
+
+## المصادر
+
+- Rosellini, G., & Worden, M. (1985). *Of Course You're Angry: A Guide to Dealing with the Most Troublesome Emotion*. Hazelden.
+- Rosellini, G., & Worden, M. (1987). *Taming Your Turbulent Past: A Self-Help Guide for Adult Children of Alcoholics*. Health Communications.

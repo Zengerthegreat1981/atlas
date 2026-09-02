@@ -5,6 +5,10 @@ type: "عمل / كتاب"
 part: "psychology"
 level: "متقدم"
 title: "العقل والانفعال في العلاج النفسي"
+author: "ألبرت إليس"
+author_slug: "thk-ellis"
+publication_year: 1962
+original_language: "الإنجليزية"
 en: "Reason and Emotion in Psychotherapy by Albert Ellis"
 crumb: "العلاج العقلاني الانفعالي (REBT) ← أمهات الكتب ← العقل والانفعال في العلاج النفسي"
 active_start: null
@@ -13,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-rebt", target_type: "مدرسة"
 related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "exp-albert-ellis-bronx-botanical-exposure", title: "تجربة ألبرت إليس والتعريض", type: "خبرة معيشة"
+- id: "exp-albert-ellis-bronx-botanical-exposure", title: "تجربة ألبرت إليس بالتعريض في حديقة برونكس والتغلب على الخجل", type: "خبرة معيشة"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

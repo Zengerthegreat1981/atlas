@@ -9,6 +9,10 @@ en: "On Liberty by John Stuart Mill"
 crumb: "الفلسفة السياسية ← أمهات الأعمال ← عن الحرية"
 dates: "لندن · 1859 م"
 language: "الإنجليزية"
+author: "جون ستيوارت ميل"
+author_slug: "thk-mill"
+publication_year: 1859
+original_language: "الإنجليزية"
 active_start: 1859
 active_end: 1859
 edges:
@@ -17,7 +21,6 @@ related:
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 gaps:
   - "دفاعه عن حرية التعبير المطلقة حتى للآراء الخاطئة وسيلة لكشف الحقيقة وصقلها."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # عن الحرية لجون ستيوارت ميل

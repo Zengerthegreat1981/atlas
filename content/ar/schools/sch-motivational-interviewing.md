@@ -13,10 +13,11 @@ language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
 evidence_level: "well-established"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "developed_by", target: "william-miller", target_type: "مفكر"
-- rel: "developed_by", target: "stephen-rollnick", target_type: "مفكر"
+- rel: "developed_by", target: "thk-wmiller", target_type: "مفكر"
+- rel: "developed_by", target: "thk-rollnick", target_type: "مفكر"
 related:
 - id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
@@ -112,7 +113,7 @@ gaps:
 - **العلاج قصير المدى**: تتألّق في الإعدادات قصيرة (1-4 جلسات)، مثل غرف الطوارئ ووحدات الإدمان.
 - **التطبيقات الرقمية**: MI مُستخدمة في تطبيقات الصحة الرقمية (خاصة في الدول الإسكندنافية) بنتائج واعدة.
 
-## المطبوعات التأسيسية والمرجعيات
+## المصادر
 
 - Miller, W. R. (1983). "Motivational Interviewing with Problem Drinkers." *Behavioural Psychotherapy*.
 - Miller, W. R., & Rollnick, S. (1991). *Motivational Interviewing: Preparing People to Change Addictive Behavior*. Guilford Press.
@@ -122,6 +123,8 @@ gaps:
 - Moyers, T. B., Manuel, J. K., & Ernst, D. (2014). *Motivational Interviewing Treatment Integrity Code (MITI 4.1)*. UNM.
 - Hettema, J., Steele, J., & Miller, W. R. (2005). "Motivational Interviewing." *Annual Review of Clinical Psychology*.
 - Lundahl, B., & Burke, B. L. (2009). "The Effectiveness and Applicability of Motivational Interviewing: A Practice-Friendly Review of Four Meta-Analyses." *Research on Social Work Practice*.
+- Rosengren, D. B. (2017). *Building Motivational Interviewing Skills* (2nd ed.). Guilford Press.
+- Naar, S., & Safren, S. A. (2017). *Motivational Interviewing and CBT: Combining Strategies for Maximum Effectiveness*. Guilford Press.
 
 ## العلاقى بالمدارس المجاورة
 
@@ -141,10 +144,3 @@ gaps:
 ## الإرث والتأثير
 
 أثرت المقابلة التحفيزية في: (1) **التحوّل في علاج الإدمان** من النموذج المواجهي (Minnesota Model، Hazelden) إلى النموذج التعاوني؛ (2) تأسيس **MINT** (Motivational Interviewing Network of Trainers)، أكبر شبكة تدريب في العلاج النفسي؛ (3) تبنّي واسع في **الرعاية الأولية** (طب الأسرة) والطب النفسي؛ (4) تطبيقات في **الصحة العامة** (الإقلاع عن التدخين، النشاط البدني)؛ (5) **إدارة السلوك** في السياقات التنظيمية والتعليمية؛ (6) حركة **"الحوار التحفيزي"** خارج العيادة (إدارة الموارد البشرية، العلاقات الزوجية).
-
-## مرجعيات للقراءة المُعمَّقة
-
-- Miller, W. R., & Rollnick, S. (2013). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press.
-- Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care*. Guilford Press.
-- Rosengren, D. B. (2017). *Building Motivational Interviewing Skills* (2nd ed.). Guilford Press.
-- Naar, S., & Safren, S. A. (2017). *Motivational Interviewing and CBT: Combining Strategies for Maximum Effectiveness*. Guilford Press.

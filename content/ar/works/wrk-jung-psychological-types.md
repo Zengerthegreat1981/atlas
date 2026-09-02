@@ -9,6 +9,10 @@ en: "Psychological Types (Psychologische Typen) by C.G. Jung"
 crumb: "علم النفس التحليلي ونظرية الشخصية ← أمهات الأعمال ← الأنماط النفسية"
 active_start: null
 active_end: "مستمر"
+author: "كارل غوستاف يونغ"
+author_slug: "thk-jung"
+publication_year: 1921
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
 related:

@@ -1,0 +1,59 @@
+---
+slug: "thk-rkerbauy"
+id: "THK-1818"
+type: "مفكر"
+level: "مبتدئ"
+title: "راثيل كربّوي"
+en: "Rachel Rodrigues Kerbauy"
+dates: "البرازيل"
+country: "البرازيل"
+language: "البرتغالية"
+active_start: "[DRAFT-UNKNOWN]"
+active_end: "مستمر"
+part: "psychology"
+crumb: "السلوكية (Behaviorism) ← الناس ← راثيل كربّوي"
+edges:
+- rel: "belongs_to", target: "sch-radical-behaviorism", target_type: "مدرسة"
+related:
+- id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
+- id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"
+- id: "thk-bfskinner", title: "ب. ف. سكينر", type: "مفكر"
+gaps:
+  - "لا توجد سيرة ذاتية منشورة لـ 'Rachel Rodrigues Kerbauy' في قواعد بيانات ABA اللاتينية."
+  - "لا أطروحة منشورة في BVS أو SciELO بهذا الاسم في موضوع ABA البرازيلية."
+  - "اسم كيلّر يشير إلى فريد كيلّر من USP Ribeirão Preto، لكن العلاقة الشخصية والتاريخية غير موثّقة."
+  - "سنة الميلاد والنشاط التفصيلي: مجهولان."
+  - "الاحتمال: الاسم مُدخل من جدول أكاديمي في أطروحة أو تصنيف لم يُحدَّث."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح اسم، أو دمج في ملف 'ABA Brasileira' عام."
+---
+
+# راثيل كربّوي
+
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل لا يظهر في قواعد بيانات علم النفس البرازيلية]
+
+## محاولة التوثيق
+
+- **الاسم المُسجَّل**: Rachel Rodrigues Kerbauy.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **SciELO (البرازيل)**: لا مقالة بهذا الاسم في علم النفس السلوكي.
+  - **BVS (Biblioteca Virtual em Saúde)**: لا نتائج في ABA.
+  - **Lattes Platform** (سيرة العلماء البرازيليين): لا تظهر.
+  - **APA PsycINFO**: لا مقالة منشورة.
+
+## السبب المحتمل للإدراج
+
+- احتمال **خطأ إملائي** في أحد المفاتيح.
+- احتمال **الخلط مع عالم آخر** في نفس المجال (مثل: Maria Elisa Caputo Ferreira, Myrian Evans, E. A. S. Abib في USP Ribeirão Preto).
+
+## ما يحتاجه هذا العنصر
+
+- **إما**: تحديد هوية صحيحة (مع اسم أوسط، الجامعة، والمنشورات).
+- **أو**: الحجر في `quarantine-minimax.md`.
+
+## المصادر
+
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Keller, F. S. (1975). *The Definition of Psychology*. Appleton-Century-Crofts.
+  - Skinner, B. F. (1953). *Science and Human Behavior*. Free Press.
+  - Guilhardi, H. J. et al. (مساهمات في J-JBA).

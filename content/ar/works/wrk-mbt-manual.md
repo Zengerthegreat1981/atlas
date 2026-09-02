@@ -11,21 +11,24 @@ dates: "2002 · 2013 · ساغال، ويليامز، وتيسديل"
 country: "بريطانيا / كندا"
 language: "الإنجليزية (الأصل)"
 active_start: 2002
-active_end: 2013
+active_end: 2022
+author: "زيندل سيغال، مارك ويليامز، جون تيزديل"
+author_slug: "thk-zsegal"
+publication_year: 2002
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "tec-mbct", target_type: "مدرسة"
 related:
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
-- id: "thk-zsegal", title: "زين سيغال", type: "مفكر"
+- id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
-- id: "thk-jteasdale", title: "جون تيسديل", type: "مفكر"
+- id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 - id: "con-cognitive-decentering", title: "اللامركزية المعرفية", type: "مفهوم"
 - id: "dis-mdd", title: "الاكتئاب", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الترجمة العربية للكتاب متوفرة في طبعات مختلفة، لكن تباينات في المصطلحات بين الطبعات تجعل ضبط المرجع صعباً."
   - "النسخة الثانية (2013) أضافت فصلاً عن «اليقظة الذهنية في اضطرابات القلق» يحتاج فحصاً مستقلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 # دليل العلاج المعرفي القائم على اليقظة الذهنية للاكتئاب (MBCT)
 

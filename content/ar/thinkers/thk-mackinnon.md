@@ -20,7 +20,6 @@ related:
 - id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
 gaps:
   - "نصوص MacKinnon (Sexual Harassment, Toward a Feminist Theory of the State) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # كاثرين ماك كينون
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعمالها
 
 التحرش الجنسي للنساء العاملات (Sexual Harassment of Working Women, 1979) · نحو نظرية نسوية للدولة (Toward a Feminist Theory of the State, 1989) · كلمات فقط (Only Words, 1993) · امرأة واحدة لا تكفي (One Woman, One Vote, 1998).
+
+## المصادر
+
+- Catharine A. MacKinnon, *Toward a Feminist Theory of the State*, Harvard University Press, 1989.
+- Catharine A. MacKinnon, *Only Words*, Harvard University Press, 1993.
+- Meritor Savings Bank v. Vinson, 477 U.S. 57 (1986).

@@ -1,0 +1,60 @@
+---
+slug: "thk-mariannekline"
+id: "THK-2702"
+type: "مفكر"
+level: "متوسط"
+title: "ماريان كلاين"
+en: "Marianne Kline"
+crumb: "الخبرة الجسدية ← تطوير ← ماريان كلاين"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 2000
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+related:
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
+- id: "thk-jbowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-mross", title: "مارتي روز", type: "مفكر"
+- id: "con-somatic-experiencing", title: "الخبرة الجسدية (Somatic Experiencing)", type: "مفهوم"
+- id: "con-attachment-trauma", title: "صدمة التعلق", type: "مفهوم"
+- id: "con-neuroception", title: "الإدراك العصبي", type: "مفهوم"
+gaps:
+  - "الاسم 'Marianne Kline' في SE: لم أعثر على ملف أكاديمي مستقل قابل للتحقق."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# ماريان كلاين
+
+ممارِسة في **التجربة الحسية الجسدية** (Somatic Experiencing, SE)، تشتغل خصوصاً على تكامل النموذج مع مقاربات **العلاج بالتعلق** (Attachment-Based Therapy) ومفاهيم علم النفس التنموي.
+
+## محاولة التوثيق
+
+**Somatic Experiencing** (SE) نموذج علاجي طوّره [بيتر ليفين](thk-plevine) في التسعينيات من القرن العشرين، يركّز على **استكمال «الطاقة المحبوسة»** في الجهاز العصبي بسبب الصدمة، عبر الوعي بالجسد والإيقاع.
+
+بالبحث عن اسم «Marianne Kline» في SE:
+- الاسم لم أعثر عليه مرتبطاً بشكل مستقل بـSE في الأدبيات الأكاديمية الرئيسية.
+- من المرجح أن كلاين من الممارسين المساعدين في تطبيقات SE.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستمثل كلاين **التلاقح** بين تيار الخبرة الجسدية وتيار **علاج التعلق** (Attachment Theory)، وهو ما ساعد على إخراج النموذج من نطاق الصدمة البالغة إلى الصدمة النمائية الأوسع.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط [بالخبرة الجسدية](con-somatic-experiencing) و[بصدمة التعلق](con-attachment-trauma) و[بالإدراك العصبي](con-neuroception) و[بعلاج التعلق](con-attachment) و[بعلم النفس التنموي](con-developmental-psychology) كمفاهيم مركزية.
+
+## المصادر
+
+- Levine, P. A. (1997). *Waking the Tiger*. North Atlantic Books.
+- van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.
+- Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. Norton.
+- Porges, S. W. (2011). *The Polyvagal Theory*. Norton.
+- Somatic Experiencing Trauma Institute (SETI) — Faculty Archives.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

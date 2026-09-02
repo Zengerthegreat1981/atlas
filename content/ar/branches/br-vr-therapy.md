@@ -11,15 +11,12 @@ language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التكنولوجيا والعلاج الرقمي", target_type: "مدرسة"
 related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-vr-exposure-ptsd", title: "التعرض بالواقع الافتراضي لـPTSD", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا تاريخ نهاية موثّق — المجال في توسّع مستمر مع تحسّن تكنولوجيا الـhead-mounted displays."
-  - "لم يُراجع من مصدر أولي مباشر بعد."
 ---
 
 # العلاج بالواقع الافتراضي

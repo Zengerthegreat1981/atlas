@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
 - id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 - id: "wrk-al-ghazali-munqidh", title: "كتاب المنقذ من الضلال لأبي حامد الغزالي (1100)", type: "عمل / كتاب"
 gaps:

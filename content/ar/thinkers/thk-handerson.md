@@ -12,8 +12,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "الأنظمة اللغوية التعاونية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
 - id: "thk-cdello", title: "كارمن دِل أورو", type: "مفكر"

@@ -19,7 +19,6 @@ related:
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"
 gaps:
   - "الكثير من أعماله ضاعت، ولا نعرفها إلا في الترجمة اللاتينية لروبنوس (Rufinus of Aquileia)."
-  - "لا يوجد اقتباس مباشر موثوق من 'الباديغيا' متاح."
   - "دُمج معه الملف المكرَّر thk-origen (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -50,3 +49,8 @@ gaps:
 - Exhortation to Martyrdom
 - Hexapla (الإصدار السداسي للكتاب المقدس — ضاع)
 - تعليق على إنجيل يوحنا
+
+## المصادر
+
+- Origen, *De Principiis* (Peri Archon).
+- Henri Crouzel, *Origen*, Harper & Row, 1989.

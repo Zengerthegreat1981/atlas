@@ -12,17 +12,16 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-imago", target_type: "مدرسة"
 related:
-- id: "thk-hhendrix", title: "هاريل هندريكس", type: "مفكر"
-- id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
-- id: "tec-imago-dialogue-protocol", title: "بروتوكول الحوار Imago", type: "تقنية/تدخل علاجي"
+- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
+- id: "tec-imago-dialogue-protocol", title: "بروتوكول حوار الإيماغو الثلاثي: المرآة، التصديق، والتعاطف", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Hendrix, 1988, 2001)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين الحوار في Imago و الحوار في Gindler/Gestalt يحتاج فصلاً."
 ---
 # عَمَلِيَّة الْحِوَار Imago: إِعَادَة اتِّصَال عَاطِفِيّ
 
-فِي Imago Therapy، «**عَمَلِيَّة الْحِوَار**» (Dialogue Process) أَدَاة رَئِيسِيَّة لِـ**«**إِعَادَة اتِّصَال عَاطِفِيّ**» (Restoring Emotional Connection) بَيْن الْأَزْوَاج. تَتَكَوَّن مِن ثَلَاث مَرَاحِل: (1) **الْمُرْسِل** (Sender): «**أُحِبّ**» (I Love)، «**أَسْمَع**» (I Hear)، «**أَنْصُر**» (I Support). (2) **الْمُسْتَقْبِل** (Receiver): «**فَهِمْت**» (I Understood)، «**تَأَكَّدْت**» (I Confirmed)، «**تَشَارَكْت**» (I Shared). (3) **الِاِسْتِجَابَة** (Response): «**أَشْكُر**» (I Thank)، «**أَسْتَجِيب**» (I Respond)، «**أَشْطُب**» (I Cross Out).
+فِي Imago Therapy الَّتِي صَاغَهَا **هارفيل هندريكس**، «**عَمَلِيَّة الْحِوَار**» (Dialogue Process) أَدَاة رَئِيسِيَّة لِـ**«**إِعَادَة اتِّصَال عَاطِفِيّ**» (Restoring Emotional Connection) بَيْن الْأَزْوَاج، وَيَتَرْجِمُهَا إِجْرَائِيًّا «**بروتوكول حوار الإيماغو الثلاثي**» (Mirroring, Validation, Empathy). تَتَكَوَّن مِن ثَلَاث مَرَاحِل: (1) **الْمُرْسِل** (Sender): «**أُحِبّ**» (I Love)، «**أَسْمَع**» (I Hear)، «**أَنْصُر**» (I Support). (2) **الْمُسْتَقْبِل** (Receiver): «**فَهِمْت**» (I Understood)، «**تَأَكَّدْت**» (I Confirmed)، «**تَشَارَكْت**» (I Shared). (3) **الِاِسْتِجَابَة** (Response): «**أَشْكُر**» (I Thank)، «**أَسْتَجِيب**» (I Respond)، «**أَشْطُب**» (I Cross Out).
 
 ## الْمَرَاحِل
 

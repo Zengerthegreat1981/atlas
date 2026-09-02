@@ -11,8 +11,6 @@ language: "إنجليزية"
 active_start: 1975
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "علم النفس الشرعي/الجنائي", target_type: "مدرسة"
 related:
 - id: "thk-jcgibbs", title: "جون سي. غيبز", type: "مفكر"
 - id: "thk-araine", title: "أدريان راين", type: "مفكر"

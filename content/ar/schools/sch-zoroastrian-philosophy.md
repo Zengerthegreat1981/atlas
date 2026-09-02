@@ -12,8 +12,7 @@ country: "إيران (القديمة)، الجاليات البارثية وال
 language: "الفارسية القديمة (الأفستية)، البهلوية (الفارسية الوسطى)"
 active_start: -600
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "تقاليد الحكمة الإيرانية", target_type: "مظلة"
+cultural_origin: "islamic-arabic"
 related:
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
 - id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
@@ -53,3 +52,10 @@ gaps:
 - زرادشت (مؤسس، القرن 6-7 ق.م، تاريخه محل نقاش).
 - مژدك (مصلح القرن 5-6 م، المزدكية).
 - مانوي (مؤسس المانوية، القرن 3 م).
+
+## المصادر
+
+- Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 1979.
+- Insler, Stanley. *The Gathas of Zarathustra*. Brill, 1975.
+- Nigosian, S. A. *The Zoroastrian Faith: Tradition and Modern Research*. McGill-Queen's University Press, 1993.
+- "Zoroastrianism", *Encyclopædia Iranica*.

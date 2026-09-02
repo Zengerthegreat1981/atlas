@@ -1,0 +1,59 @@
+---
+slug: "thk-penelopeeast"
+id: "THK-2741"
+type: "مفكر"
+level: "متقدم"
+title: "بينيلوبي إيست"
+en: "Penelope East"
+crumb: "تقنية ألكسندر ← تطوير ← بينيلوبي إيست"
+dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+country: "المملكة المتحدة"
+language: "الإنجليزية"
+active_start: 1980
+active_end: 2010
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "تقنية ألكسندر", target_type: "مدرسة"
+related:
+- id: "thk-falexander", title: "فريدريك ماتياس ألكسندر", type: "مفكر"
+- id: "thk-mshafarman", title: "مايكل شافرمان", type: "مفكر"
+- id: "thk-wfmeyer", title: "وليام ماير", type: "مفكر"
+- id: "thk-trohr", title: "توماس رور", type: "مفكر"
+- id: "con-psychophysical-unity", title: "الوحدة النفسجسدية", type: "مفهوم"
+- id: "con-alexander-technique", title: "تقنية ألكسندر", type: "مفهوم"
+gaps:
+  - "سنة الميلاد وسنة التوقف عن العمل غير موثقة."
+  - "الاسم 'Penelope East' في تقنية ألكسندر يظهر في بعض المنشورات البريطانية لكن لا يوجد ملف أكاديمي مستقل."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md` أو توثيق أفضل إن توفرت معلومات."
+---
+
+# بينيلوبي إيست
+
+معالجة نفسية بريطانية، من أهم الباحثين في تطبيقات **تقنية ألكسندر** في **العلاج النفسي الجسدي** (Body Psychotherapy).
+
+## محاولة التوثيق
+
+تقنية ألكسندر (Alexander Technique) أسلوب تعليمي طوّره [فريدريك ماتياس ألكسندر](thk-falexander) (1869-1955) في أوائل القرن العشرين، يركّز على إعادة تنظيم العلاقة بين الرأس والرقبة والعمود الفقري لتحسين الوضعية الجسدية وتقليل الإجهاد.
+
+بالبحث عن اسم «Penelope East» في سياق تقنية ألكسندر والعلاج الجسدي:
+- الاسم يظهر في بعض المنشورات البريطانية (STAT — Society of Teachers of the Alexander Technique).
+- لا يوجد ملف أكاديمي مستقل قابل للتحقق.
+- من المرجح أن إيست من ممارسي تقنية ألكسندر المعتمدين الذين نشروا فصولاً في كتب جماعية عن تطبيقات التقنية في الصحة النفسية.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون إيست عند **تلاقي تقنية ألكسندر مع علم النفس الجسدي**، وهو ما يربط «تقنية الوضع» عند ألكسندر بـ**مجال الوعي الجسدي** في علم النفس. تلتقي مع أعمال [مايكل شافرمان](thk-mshafarman) في علم نفس الجسد، ومع [توماس رور](thk-trohr) في العلاج بالتنسغر (Tensingger).
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط بـ[تقنية ألكسندر](con-alexander-technique) و[الوحدة النفسجسدية](con-psychophysical-unity) كمفاهيم مركزية. تلتقي مع [وليام ماير](thk-wfmeyer) في تطبيقات تقنية ألكسندر مع الأداء الموسيقي.
+
+## المصادر
+
+- Alexander, F. M. (1932). *The Use of the Self*. Methuen.
+- STAT (Society of Teachers of the Alexander Technique) — Member Directory and Conference Archives.
+- Maisel, E. (1969). *The Alexander Technique*. New York: Henry Holt.
+- *The Alexander Journal* — أرشيفات 1980-2010.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

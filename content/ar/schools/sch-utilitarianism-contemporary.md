@@ -9,24 +9,24 @@ en: "Contemporary Utilitarianism"
 crumb: "الفلسفة ← التحليلية ← الأخلاق ← النفعية المعاصرة"
 dates: "من 1950 إلى الآن"
 country: "متعددة (المملكة المتحدة، أستراليا، الولايات المتحدة)"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1950
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مظلة"
-- rel: "evolved_from", target: "النفعية الكلاسيكية (مل، بنتام)", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-classical-utilitarianism-bentham-mill", target_type: "تيار"
 - rel: "superseded_by", target: "sch-contractualism", target_type: "مدرسة"
 related:
-- id: "thk-singer", title: "بيتر سينغر", type: "مفكر"
-- id: "thk-mill", title: "جون ستيوارت مل", type: "مفكر"
+- id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 - id: "thk-dparfit", title: "ديريك بارفيت", type: "مفكر"
-- id: "thk-peter-singer", title: "بيتر سنغر", type: "مفكر"
+- id: "thk-peter-singer", title: "بيتر سينغر", type: "مفكر"
 - id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«ج. ج. س. سمارت» (thk-smart) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«هنري سيدجويك» (thk-sidgwick) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "الفارق بين «النفعية المؤهَّلة» (Qualified Utilitarianism) عند سمارت (1956) و«النفعية المباشرة» لم يُحلّل بدقة في المصادر الأولية."
-  - "لا يوجد اقتباس مباشر موثوق متاح من سينغر 'تحرير الحيوان' (1975) في صياغته الأصلية."
+  - "اقتباسات سينغر من 'تحرير الحيوان' (1975) في هذا الملف تحتاج مراجعة مقابل النص الأصلي."
   - "نقد 'الأمثال غير القابلة للقياس' (Incommensurable Values) في النفعية المعاصرة لم يُراجع."
 ---
 
@@ -67,3 +67,11 @@ gaps:
 
 - يستحق التمييز بين «نفعية الفعل» و«نفعية القاعدة» فصلاً مستقلاً.
 - العلاقة بين «النفعية المعاصرة» و«أخلاقيات الفضيلة الجديدة» تستحق فصلاً مفصلاً.
+
+## المصادر
+
+- Singer, Peter. *Animal Liberation*. HarperCollins, 1975.
+- Parfit, Derek. *Reasons and Persons*. Oxford University Press, 1984.
+- Smart, J. J. C., and Bernard Williams. *Utilitarianism: For and Against*. Cambridge University Press, 1973.
+- Hare, R. M. *Moral Thinking: Its Levels, Method, and Point*. Oxford University Press, 1981.
+- Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.

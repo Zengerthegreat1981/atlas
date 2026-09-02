@@ -11,9 +11,11 @@ language: "الإنجليزية"
 active_start: 2002
 active_end: 2002
 part: "psychology"
+author: "جيفري شوارتز"
+publication_year: 2002
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "جيفري شوارتز", target_type: "مفكر"
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 gaps:

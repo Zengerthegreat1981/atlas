@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "TEACCH ← القيادة والتطبيق ← غاري ميسيبوف"
 edges:
-- rel: "belongs_to", target: "TEACCH", target_type: "تيار"
+- rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
 - id: "br-teacch", title: "TEACCH", type: "تيار"

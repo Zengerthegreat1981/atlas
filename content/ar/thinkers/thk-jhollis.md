@@ -15,7 +15,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-ebosnak", title: "[مؤسِّسو رابطة ساندبلاي في أمريكا]", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "con-midlife", title: "مرحلة منتصف العمر", type: "مفهوم"
 gaps:

@@ -12,14 +12,13 @@ language: "الألمانية / الإنجليزية"
 part: "psychology"
 active_start: null
 active_end: 1957
-edges:
-- rel: "belongs_to", target: "علم النفس الفردي الأدلري", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-furtmuller", title: "كارل فورتمولر", type: "مفكر"
 gaps:
-  - "تفاصيل حياته في أمريكا (نيو أورليانز) شحيحة في المصادر الإنجليزية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "مدرسة 'علم النفس الفردي الأدلري' ليس لها بعد ملف مدرسة (sch-) مستقل في الأطلس؛ لذا لا يوجد رابط belongs_to صالح — سُجّل الطلب في agents_specs/missing-schools.md."
+  - "تفاصيل حياته المهنية في نيو أورليانز (1938–1957) شحيحة في المصادر الإنجليزية المتاحة."
 ---
 
 # إيروين ويكسبرغ
@@ -28,7 +27,7 @@ gaps:
 
 ## ما أعطاه
 
-كتب «علم النفس الفردي» (Individual Psychology, 1929، بالألمانية)، وهو أحد أوائل الكتب «المنهجية» التي عرضت أفكار أدلر بترتيب منطقي. هاجر إلى أمريكا عام 1938 بعد أن ضاقت به النازية (من أصل يهودي)، وواصل ممارسته في نيو أورليانز حتى وفاته. كتب بالعربية، كذا! — لا، لم يكتب بالعربية، لكن كتابه يُعدّ مرجعاً للترجمة العربية.
+كتب «علم النفس الفردي» (Individualpsychologie, 1928، بالألمانية)، وهو أحد أوائل الكتب «المنهجية» التي عرضت أفكار أدلر بترتيب منطقي. هاجر إلى الولايات المتحدة عام 1938 هرباً من ضم ألمانيا النازية للنمسا (Anschluss)، وواصل ممارسته الطبية في نيو أورليانز حتى وفاته 1957.
 
 ## موقعه من التيار
 
@@ -39,4 +38,10 @@ gaps:
 
 ## أهم أعماله
 
-«علم النفس الفردي» (Individualpsychologie, 1929) · «علم النفس الفردي للبالغين» (Individual Psychology of the Adult, 1931) · مساهمات في تأسيس *Journal of Individual Psychology*.
+«علم النفس الفردي» (Individualpsychologie, 1928) · «علم النفس الفردي للبالغين» (Individual Psychology of the Adult, 1931) · مساهمات في تأسيس *Journal of Individual Psychology*.
+
+## المصادر
+
+- Ansbacher, H. L. & Ansbacher, R. R. (eds.), *The Individual Psychology of Alfred Adler*, New York: Basic Books, 1956 (يوثّق دور فورتمولر وويكسبرغ بين تلامذة أدلر الأوائل).
+- Wexberg, E., *Individual Psychology of the Adult*, London: George Allen & Unwin, 1931 (ترجمة إنجليزية).
+- *Journal of Individual Psychology* — سجلات المجلة التي شارك ويكسبرغ في تأسيسها ونشر بها.

@@ -13,15 +13,13 @@ edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: آنا فرويد (thk-anna-freud)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: جورج فايّان (thk-vaillant)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأَنا (con-ego)"
   - "التصنيفات المتنافسة (Freud الأصلية، Anna Freud، Vaillant) تحتاج فصلاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "الفرق بين آليات الدفاع (ناضجة) و(غير ناضجة) عند Vaillant يحتاج فصلاً."
-  - "العلاقة بـ'الاستراتيجيات التأقلم' (Coping Strategies) في علم النفس الإيجابي تحتاج توثيقاً."
+  - "الفرق بين آليات الدفاع (ناضجة) و(غير ناضجة) عند Vaillant يحتاج فصلاً تفصيلياً بالأمثلة السريرية."
+  - "العلاقة بـ'استراتيجيات التأقلم' (Coping Strategies) في علم النفس الإيجابي لم تُوثَّق بعد."
 ---
 # آليَّة الدِّفاع (Defense Mechanism)
 
@@ -36,3 +34,10 @@ gaps:
 ## في العِلاج
 
 (1) **التَّحْليل النَّفْسي** (Psychoanalysis): «**تَفسير**» (Interpretation) «**آليات الدِّفاع**» يَزيد «**الوَعْي**» وَيُقلل «**الإفراط**». (2) **الـ CBT** (Beck، 2011): «**الإسقاط**» يَتحول لـ«**تَشْوِيه مَعْرَفي**» (Cognitive Distortion). (3) **الـ DBT** (Linehan، 1993): «**الإسْقَاط**» و«**الإنكار**» «**أَعْراض**» (Symptoms) «**اضْطِراب الشَّخْصِيَّة الحَدِّيَّة**» (BPD).
+
+## المصادر
+
+- Freud, S. & Breuer, J. (1895). *Studies on Hysteria*.
+- Freud, A. (1936). *The Ego and the Mechanisms of Defense*.
+- Vaillant, G. E. (1977). *Adaptation to Life*. Little, Brown.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.

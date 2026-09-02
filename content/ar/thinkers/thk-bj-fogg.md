@@ -12,8 +12,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "تصميم السلوك والتقنية الإقناعية", target_type: "مدرسة"
+edges: []
 related:
 - id: "wrk-tiny-habits", title: "العادات الصغيرة", type: "عمل / كتاب"
 - id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"

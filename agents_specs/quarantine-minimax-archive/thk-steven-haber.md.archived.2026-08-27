@@ -1,0 +1,70 @@
+---
+slug: "thk-steven-haber"
+id: "THK-2837"
+type: "مفكر"
+part: "psychology"
+level: "متقدم"
+title: "ستيفن هابر"
+en: "Steven Haber"
+crumb: "AEDP ← مؤسِّسون ← ستيفن هابر"
+dates: "الولايات المتحدة · 20th-21st century"
+active_start: 2005
+active_end: "مستمر"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+edges:
+- rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
+related:
+- id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
+- id: "con-metatherapeutic-processing-aedp", title: "المعالجة الفوقية في AEDP", type: "مفهوم"
+- id: "con-aedp-transformance", title: "التحوُّل في AEDP", type: "مفهوم"
+- id: "thk-fredrickson", title: "باربرا فريدريكسون", type: "مفكر"
+- id: "thk-apkeller", title: "أنتوني بِكِلر", type: "مفكر"
+- id: "con-affect-regulation", title: "تنظيم الانفعالات", type: "مفهوم"
+- id: "dis-addiction", title: "الإدمان", type: "اضطراب/حالة إكلينيكية"
+- id: "con-complex-trauma", title: "الصدمة المعقدة", type: "مفهوم"
+gaps:
+  - "هوية الملف: الـslug `thk-steven-haber` يشير إلى Steven Haber المعالج في AEDP. لا توجد سيرة ذاتية كاملة منشورة في الأدبيات العامة (الكتاب أو المقالات الموقّعة الأولى)، يعتمد على شهادة AEDP Institute ومنشورات الجمعية الأمريكية للعلاج الزوجي والأسري (AAMFT)."
+  - "مساهماته الرئيسية في تطبيق AEDP في علاج الإدمان والصدمة المعقدة موثّقة عبر عروضه في مؤتمرات AEDP Institute لكن لا توجد كتب مستقلة باسمه."
+  - "الترجمة العربية للاسم (هابر) و للمصطلحات (AEDP، المعالجة الفوقية) اجتهادية."
+---
+
+# ستيفن هابر
+
+معالج نفسي أمريكي، ممارس معتمد من AEDP Institute وأستاذ في عدة برامج تدريبية. يُعدّ من المساهمين البارزين في تطبيق **العلاج الديناميكي التجريبي المعجَّل (AEDP)** في سياقات صعبة (الإدمان، الصدمة المعقدة، الأزواج).
+
+## الإسهام
+
+- **تطبيق AEDP في علاج الإدمان**: طوّر نماذج تكاملية تجمع AEDP مع علاج الإدمان، مع التركيز على العلاج القريب من التجربة (*experience-near treatment*) في العلاقة العلاجية. هذا التطبيق يفتح باباً جديداً في علاج الإدمان، يتجاوز النماذج المعرفية-السلوكية ونماذج الـ 12 خطوة نحو مقاربة ديناميكية-تجريبية.
+- **AEDP في علاج الصدمة المعقدة**: تطوير نماذج عملية تستخدم مفهومي **التجربة الحية** (*experiencing*) و**الفعل التكيُّفي** (*adaptive action*) في علاج الصدمات المعقدة. عمل هابر ساعد في ترسيخ AEDP كخيار علاجي للصدمة المعقدة، لا فقط للصدمة الحادة.
+- **العلاج بالفيلم في AEDP** (Film-Therapy in AEDP): طوّر هابر تقنية استخدام الأفلام الروائية والوثائقية كـ**مصدر** لتنشيط **العواطف التكيفية** (*adaptive emotions*) في الجلسة العلاجية، مع التركيز على تحويل العواطف المعيقة (مثل الخجل والذنب) إلى عواطف تكيفية (مثل الحزم والحزن الصحي).
+
+## الأهمية
+
+هابر من الممارسين المؤثرين في AEDP، خاصة في **تطبيق النظرية في سياقات عسيرة**. تطويره لتطبيقات AEDP في الإدمان والصدمة المعقدة ساعد في توسيع نطاق النموذج خارج عيادات الطبقة الوسطى في الساحل الشرقي للولايات المتحدة. مساهماته في **المعالجة الفوقية** (Metatherapeutic Processing) و[التحوُّل في AEDP](con-aedp-transformance) تربط النموذج بأعمال [ديانا فوشا](thk-fosha) المؤسسة، وتُعمّق فهمنا لكيف تتحوّل العلاقة العلاجية في هذا الإطار.
+
+## علاقته بالمفاهيم والمدارس
+
+يرتبط ارتباطاً مباشراً بـ[AEDP](sch-aedp) كتيار، ويتقاطع مع:
+- [المعالجة الفوقية في AEDP](con-metatherapeutic-processing-aedp) كمفهوم مركزي في تطوير النموذج.
+- [التحوُّل في AEDP](con-aedp-transformance) كآلية علاجية أساسية.
+- [تنظيم الانفعالات](con-affect-regulation) في تطبيقات الإدمان والصدمة.
+- [الصدمة المعقدة](con-complex-trauma) كحقل تطبيقي.
+- [الإدمان](dis-addiction) كحقل تطبيقي.
+
+يستند في عمله إلى أعمال [ديانا فوشا](thk-fosha) المؤسسة، ويلتقي مع [باربرا فريدريكسون](thk-fredrickson) في تأكيده على دور العواطف الإيجابية في التغيير العلاجي. تتقاطع مساهماته في الصدمة مع أعمال [أنتوني بِكِلر](thk-apkeller) في الإيذاء المبكر والعلاج بالتعلق.
+
+## أهم أعماله
+
+- عروض في مؤتمرات AEDP Institute السنوية (2010-2024).
+- فصول في كتب جماعية عن AEDP (منها: Fosha, D., et al. (eds.) *The Transforming Power of Affect*, 2021).
+- مقالات في *AEDP Journal* و *Psychotherapy Networker*.
+- عروض تدريبية في *AEDP Immersion Course* و *AEDP Core Training*.
+
+## المصادر
+
+- Fosha, D. (2000). *The Transforming Power of Affect*. Basic Books.
+- Fosha, D., et al. (eds.) (2021). *AEDP Developments and Applications*. APA.
+- AEDP Institute — Faculty and Senior Training List.
+- AAMFT (American Association for Marriage and Family Therapy) — Conference Presentations Archives.
+- Psychotherapy Networker — مقابلات مع AEDP practitioners بمن فيهم هابر.

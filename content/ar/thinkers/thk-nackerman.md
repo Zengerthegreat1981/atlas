@@ -13,14 +13,12 @@ active_start: 1940
 active_end: 1971
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الديناميكي للأزواج والأسرة", target_type: "تيار"
+- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
 - id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
 - id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:
-  - "سنة الميلاد والوفاة تقريبية، تستحق توثيقاً."
-  - "عمله في Family Mental Health Clinic بمستشفى Mount Sinai يستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "التاريخ الدقيق لتأسيس Family Mental Health Clinic بمستشفى Mount Sinai (السنة بالتحديد) لم يُراجع من مصدر أولي مباشر."
 ---
 
 # ناثان أكرمان
@@ -45,6 +43,12 @@ gaps:
 - *The Psychodynamics of Family Life* (1958).
 - *Treating the Troubled Family* (1966).
 - *Family Process* (مجلة، أحد مؤسسيها عام 1962).
+
+## المصادر
+
+- Ackerman, N. W. (1958). *The Psychodynamics of Family Life: Diagnosis and Treatment of Family Relationships*. Basic Books.
+- Ackerman, N. W. (1966). *Treating the Troubled Family*. Basic Books.
+- Guerin, K. J. (ed., 1976). *Family Therapy: Theory and Practice*. Gardner Press (فصول عن إسهام أكرمان التأسيسي).
 
 ## نقد
 

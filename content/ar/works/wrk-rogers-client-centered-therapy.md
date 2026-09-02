@@ -9,8 +9,13 @@ en: "Client-Centered Therapy: Its Current Practice, Implications, and Theory by 
 crumb: "علم النفس الإنساني والعلاج النفسي ← أمهات الأعمال ← العلاج المتمحور حول العميل"
 active_start: null
 active_end: "مستمر"
+author: "كارل روجرز"
+author_slug: "thk-rogers"
+publication_year: 1951
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "authored_by", target: "thk-rogers", target_type: "مفكر"
 related:
 - id: "met-rogers-growing-plant", title: "نبتة البطاطس في القبو لروجرز: استعارة الدافع الفطري لتحقيق الذات", type: "استعارة/مجاز مؤسِّس"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"

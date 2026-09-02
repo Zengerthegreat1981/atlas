@@ -10,17 +10,19 @@ en: "Adult Children of Emotionally Immature Parents"
 crumb: "علم النفس الإكلينيكي وعلاج الصدمات التطورية ← الأعمال ← أبناء الآباء غير الناضجين عاطفياً"
 dates: "2015 · ليندسي جيبسون"
 language: "الإنجليزية"
+author: "ليندسي جيبسون"
+author_slug: "thk-lindsay-gibson"
+publication_year: 2015
+original_language: "الإنجليزية"
 active_start: 2015
 active_end: 2015
 edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي وعلاج الصدمات التطورية", target_type: "مدرسة"
 - rel: "written_by", target: "thk-lindsay-gibson", target_type: "مفكر"
 related:
 - id: "con-emotional-immaturity-parents", title: "اللاتنضج العاطفي الوالدي والإهمال غير المرئي", type: "مفهوم"
 - id: "thk-lindsay-gibson", title: "ليندسي جيبسون", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أبناء الآباء غير الناضجين عاطفياً: كيف تشفي جروح طفولتك وتستعيد استقلالك
@@ -34,7 +36,3 @@ gaps:
 ## أسلوب الشفاء عبر الوعي الموضوعي
 
 التوقف عن محاولة تغيير الوالدين والتحول إلى أسلوب 'التعامل القائم على النضج المعرفي' وحماية الذات العاطفية.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

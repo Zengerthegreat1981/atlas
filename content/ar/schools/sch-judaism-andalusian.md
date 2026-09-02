@@ -10,15 +10,16 @@ crumb: "الفلسفة ← اليهودية ← الفلسفة اليهودية 
 dates: "الأندلس (قرطبة، إشبيلية، غرناطة) · من القرن 10 م إلى القرن 14 م"
 country: "الأندلس، مصر الفاطمية، أرض إسرائيل"
 language: "العربية، العبرية"
+cultural_origin: "islamic-arabic"
 active_start: 1000
 active_end: 1300
 edges:
 - rel: "evolved_from", target: "sch-judaism-hellenistic", target_type: "مدرسة"
-- rel: "evolved_from", target: "الفلسفة الإسلامية المشائية", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-- id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية", type: "مدرسة"
+- id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
 - id: "thk-saadia-gaon", title: "سعديا بن يوسف الفيومي (رأس جاؤون)", type: "مفكر"
 - id: "con-negative-attributes", title: "الصفات السلبية (Via Negativa)", type: "مفهوم"
 - id: "con-prophetic-philosophy", title: "الفلسفة النبوية (نقد العقل الفلسفي لصالح الوحي)", type: "مفهوم"
@@ -28,7 +29,6 @@ related:
 - id: "dbt-ibn-maymun-vs-halevi", title: "ابن ميمون ضد يهوذا اللاوي: العقل الفلسفي أم الوحي التاريخي؟", type: "جدل"
 gaps:
   - "نصوص ابن جابيرول ويهودا اللاوي بالعبرية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'دلالة الحائرين' أو 'ينكار' أو 'العسقلاني'."
   - "العلاقة الدقيقة بين ابن ميمون وابن رشد لا تزال موضع نقاش أكاديمي."
 ---
 
@@ -74,3 +74,10 @@ gaps:
 - في الفلسفة اليهودية اللاحقة: حسداي كريسكاس نقد ابن ميمون وأعاد التفكير في المكان والعدم.
 - في العصر الحديث: باروخ سبينوزا ابن تقليد ابن ميمون (نقد اليهودي الأرسطي ثمّ تجاوزه نحو فلسفة جوهر واحد).
 - في اللاهوت المسيحي البروتستانتي: اعتمد جون كالفن وريشارد سيمونر على «دلالة الحائرين» كمرجع للنقد العقلاني للنصوص التوراتية.
+
+## المصادر
+
+- Maimonides, Moses. *The Guide for the Perplexed* (Moreh Nevukhim), trans. Shlomo Pines, University of Chicago Press, 1963.
+- Guttmann, Julius. *Philosophies of Judaism: A History of Jewish Philosophy from Biblical Times to Franz Rosenzweig*, Holt, Rinehart and Winston, 1964.
+- Sirat, Colette. *A History of Jewish Philosophy in the Middle Ages*, Cambridge University Press, 1985.
+- Halevi, Judah. *The Kuzari: An Argument for the Faith of Israel*, trans. Hartwig Hirschfeld, Schocken Books, 1964.

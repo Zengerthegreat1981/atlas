@@ -8,7 +8,7 @@ en: "Betty Cannon"
 crumb: "المدرسة الوجودية ← الناس ← بيتي كانون"
 dates: "أمريكا · معاصرة"
 active_start: 1991
-active_end: 1991
+active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
@@ -16,11 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل / كتاب"
 - id: "con-bad-faith", title: "سوء الإيمان", type: "مفهوم"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تطبيقها لمفاهيم 'الوجود والعدم' (المشروع الأصلي، سوء النية، نظرة الآخر) في الممارسة الإكلينيكية المباشرة يحتاج توثيقاً موسعاً."
 ---
 

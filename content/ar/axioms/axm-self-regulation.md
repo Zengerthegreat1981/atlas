@@ -15,14 +15,12 @@ edges:
 - rel: "formulated_by", target: "thk-abandura", target_type: "مفكر"
 related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "thk-roy-baumeister", title: "روي بوميستر", type: "مفكر"
-- id: "wrk-willpower-baumeister", title: "قوة الإرادة: إعادة اكتشاف أعظم قوة بشرية", type: "عمل / كتاب"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "thk-roy-baumeister", title: "روي باوميستر", type: "مفكر"
+- id: "wrk-willpower-baumeister", title: "قوة الإرادة: إعادة اكتشاف أعظم طاقة بشرية", type: "عمل / كتاب"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
-  - "الفرق بين نظرية بوميستر 'العضل الإرادي' (1998) ونظرية 'الاستنزاف' (Ego Depletion) اللاحقة المنقوصة يحتاج تحليلاً."
-  - "النماذج المُعاصرة (Tempest in a Teapot, Inzlicht 2015) التي تنقض 'الاستنزاف' لم تُمثَّل."
-  - "التنظيم الذاتي كبناء إجرائي مستقل يعالج من خلال أبحاث باندورا وبوميستر."
+  - "النموذج البديل لإنزلخت (Inzlicht & Schmeichel 2012) الذي يفسر نتائج استنزاف الأنا بتحول الانتباه والدافعية بدل استنزاف مورد فعلي لم يُفصَّل بنموذجه الرياضي/التجريبي الكامل هنا."
 ---
 
 # بديهية التنظيم الذاتي
@@ -46,11 +44,11 @@ gaps:
 - **كانفرمان وآخرون** (Kanfer & Karoly 1972): التنظيم الذاتي كمنظومة تحكم.
 - **كارفر وشاير** (Carver & Scheier 1982): التنظيم الذاتي كحلقات تحكم.
 - **ألبرت باندورا** (1991): **الفعالية الذاتية** كآلية محورية.
-- **روي بوميستر** (Baumeister 1998): **العضل الإرادي** (Willpower as a Limited Resource).
+- **روي باوميستر** (Baumeister 1998): **العضل الإرادي** (Willpower as a Limited Resource).
 
 ## نظرية الاستنزاف (Ego Depletion)
 
-اقترح بوميستر وآخرون (1998):
+اقترح باوميستر وآخرون (1998):
 - الإرادة **مورد محدود** يُستنزف بالاستخدام.
 - الدراسات الكلاسيكية: قمع الأفكار اللاإرادية يُضعف الأداء اللاحق.
 - **التكرار**: فشلت دراسات إعادة الإنتاج في تأكيد الظاهرة (Inzlicht & Schmeichel 2012، Hagger et al. 2016).
@@ -75,3 +73,11 @@ gaps:
 - **التأرجح بين النموذجين**: عضلي مقابل معرفي.
 - **صعوبة القياس**: التقييم الذاتي للموارد الإرادية.
 - **الفشل في التكـرار**: تهدد مصداقية نظرية الاستنزاف.
+
+## المصادر
+
+- Bandura, A., "Social Cognitive Theory of Self-Regulation", *Organizational Behavior and Human Decision Processes*, 50(2), 1991.
+- Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M., "Ego Depletion: Is the Active Self a Limited Resource?", *Journal of Personality and Social Psychology*, 74(5), 1998.
+- Carver, C. S., & Scheier, M. F., "Control Theory: A Useful Conceptual Framework for Personality-Social, Clinical, and Health Psychology", *Psychological Bulletin*, 92(1), 1982.
+- Inzlicht, M., & Schmeichel, B. J., "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control", *Perspectives on Psychological Science*, 7(5), 2012.
+- Mischel, W., Ebbesen, E. B., & Zeiss, A. R., "Cognitive and Attentional Mechanisms in Delay of Gratification", *Journal of Personality and Social Psychology*, 21(2), 1972.

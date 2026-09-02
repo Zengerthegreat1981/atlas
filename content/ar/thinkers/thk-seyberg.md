@@ -3,46 +3,44 @@ slug: "thk-seyberg"
 id: "THK-1924"
 type: "مفكر"
 level: "متوسط"
-title: "ستيفن إيبِرغ"
-en: "Steven M. Eyberg"
-crumb: "PCIT ← المؤسس المشارك ← ستيفن إيبِرغ"
-dates: "الولايات المتحدة · القرن العشرين"
+title: "شيلا إيبِرغ"
+en: "Sheila M. Eyberg"
+crumb: "PCIT ← المؤسِّسة ← شيلا إيبِرغ"
+dates: "الولايات المتحدة · القرن العشرين–الواحد والعشرين"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-active_start: 1981
-active_end: 2016
+active_start: 1974
+active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "PCIT", target_type: "مدرسة"
-related:
-- id: "thk-ieyberg", title: "شيرلي إِيبِرغ", type: "مفكر"
+- rel: "belongs_to", target: "br-pcit", target_type: "تيار"
+related: []
 gaps:
-  - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرلي إِيبِرغ (thk-ieyberg)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرلي إِيبِرغ (thk-ieyberg)."
+  - "تصحيح هوية: النسخة السابقة من هذا الملف نسبت تأسيس PCIT إلى شخص ذكر باسم 'Steven M. Eyberg' متزوج من 'Shirley Eyberg' مطوِّرة ECBI. البحث لم يجد دليلاً على وجود هذين الشخصين؛ المؤسِّسة الموثّقة الوحيدة لـPCIT ولأداة ECBI هي **شيلا إم. إيبِرغ** (Sheila M. Eyberg)، عالمة نفس إكلينيكي للأطفال، عملت في Oregon Health Sciences University (1974–1985) ثم جامعة فلوريدا (منذ 1985)، ورأست PCIT International."
+  - "سنة الميلاد الدقيقة لإيبِرغ غير موثّقة في المصادر المتاحة."
 ---
 
-# ستيفن إيبِرغ
+# شيلا إيبِرغ
 
-عالم نفس أطفال أمريكي، شارك زوجته شيرلي إيبِرغ في تأسيس PCIT (العلاج التفاعلي بين الوالد والطفل). اشتُهر بأبحاثه في تقييم سلوك الوالدين وأداة ECBI (Eyberg Child Behavior Inventory) التي طوّرها مع زوجته.
+عالمة نفس إكلينيكي للأطفال أمريكية، مطوِّرة **العلاج التفاعلي بين الوالد والطفل** (Parent-Child Interaction Therapy, PCIT) في السبعينيات، وصاحبة أداة **ECBI** (Eyberg Child Behavior Inventory) لقياس سلوك الأطفال المضطرب.
 
-## ما أعطاه
+## ما أعطته
 
-- **PCIT (Parent-Child Interaction Therapy)**: علاج منظّم ذو مرحلتين (PILI، CDI) يركّز على تطوير العلاقة بين الوالد والطفل قبل التعامل مع الانضباط.
-- **أداة ECBI (Eyberg Child Behavior Inventory)**: من أكثر أدوات قياس سلوك الأطفال شيوعاً في البحث والعيادة.
-- **تأطير "Disruptive Behavior Disorders"**: مساهم في تعريف الاضطرابات الانفعالية-السلوكية في الطفولة.
-- **كتب مرجعية**: *Psychosocial Treatments for Child and Adolescent Disorders: Empirically Based Strategies for Clinical Practice* (مع D. K. Bagner، 2003، تحرير).
+- **PCIT**: علاج منظّم ذو مرحلتين — التفاعل الموجَّه بالطفل (Child-Directed Interaction) ثم التفاعل الموجَّه بالوالد (Parent-Directed Interaction) — يهدف لتقوية العلاقة بين الوالد والطفل قبل معالجة الانضباط، مستنداً إلى نظرية التعلق ونظرية التعلم الاجتماعي.
+- **أداة ECBI**: مقياس من 36 بنداً يقيّم سلوك الطفل المضطرب من منظور الوالد، من أكثر أدوات القياس استخداماً في بحث وعيادة اضطرابات السلوك التخريبي.
+- **نظام Dyadic Parent-Child Interaction Coding System (DPICS)**: نظام ترميز لتقييم تفاعل الوالد والطفل عبر مواقف لعب موجَّهة بدرجات متفاوتة من ضبط الوالد.
 
-## موقعه من التيار
+## موقعها من التيار
 
-يقف ستيفن إيبِرغ عند ملتقى علم النفس السريري للأطفال، العلاج الأسري، والعلاج السلوكي. أسهم مع زوجته في جعل PCIT أحد أكثر علاجات اضطرابات السلوك في الطفولة دعماً تجريبياً.
+عملت إيبِرغ في Oregon Health Sciences University (1974–1985) ثم في جامعة فلوريدا منذ 1985، حيث طوّرت PCIT وقادت أبحاثه التجريبية. ترأست لاحقاً منظمة PCIT International كرئيسة تنفيذية منذ 2009، ما جعل PCIT أحد أكثر التدخلات المدعومة تجريبياً لاضطرابات السلوك في الطفولة المبكرة.
 
-## أهم أعماله
+## أهم أعمالها
 
-- *Psychosocial Treatments for Child and Adolescent Disorders: Empirically Based Strategies* (2003، مع D. K. Bagner، تحرير).
-- ECBI (1978، أداة)، تحديثات لاحقة.
-- *Eyberg Child Behavior Inventory and Sutter-Eyberg Student Behavior Inventory: Professional Manual* (مع S. W. Eyberg).
+- Eyberg, S. M., & Pincus, D. (1999). *Eyberg Child Behavior Inventory and Sutter-Eyberg Student Behavior Inventory: Professional Manual*. Psychological Assessment Resources.
+- Funderburk, B. W., & Eyberg, S. (2011). "Parent-Child Interaction Therapy". في *History of Psychotherapy: Continuity and Change* (تحرير Norcross et al.).
 
-## القيد
-- **تعريف PCIT** يتفاوت في تطبيقاته المعاصرة، وبعض "التطبيقات المحلية" تبعد عن الإجراء الأصلي.
+## المصادر
+
+- Journal of Clinical Child and Adolescent Psychology (2026). "Leaders in the History of Clinical Child and Adolescent Psychology — Past Presidents Series: Sheila Eyberg (1987)".
+- PCIT and PC-CARE, جامعة كاليفورنيا دايفيس، "About PCIT" (pcit.ucdavis.edu/about-pcit).
+- Manhattan Psychology Group، "History of PCIT" لـFunderburk وEyberg.

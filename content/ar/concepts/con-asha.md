@@ -14,12 +14,16 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 related:
-- id: "wrk-gathas", title: "الأناشيد الغاثية (Gathas)", type: "عمل / كتاب"
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-- id: "thk-zarathushtra", title: "زرادشت", type: "مفكر"
+- id: "thk-zoroaster", title: "زرادشت", type: "مفكر"
+- id: "con-asha-druj", title: "آشا ودروج — ثنائية الحق والخداع الزرادشتية", type: "مفهوم"
+- id: "con-maat", title: "ماعت (التناغم الكوني)", type: "مفهوم"
+- id: "con-logos-heraclitus", title: "اللوغوس الكوني عند هيراقليطس (Heraclitean Logos)", type: "مفهوم"
 gaps:
   - "مقارنة أشا بال-«ماعت» المصرية غير مفصّلة في الأدب العربي."
   - "لا يوجد تعريف فلسفي حديث موحَّد للأشا في الفلسفة المقارنة."
+  - "لا يوجد ملف مفهوم مستقل لـ«ريتا» (Rta) الفيدية في المحتوى الحالي رغم ذكرها في المتن."
+  - "لا يوجد رابط مباشر لعمل «الأناشيد الغاثية» (wrk-gathas) لأن المتن لا يذكره صراحة."
 ---
 
 # أشا (الحقيقة-النظام)

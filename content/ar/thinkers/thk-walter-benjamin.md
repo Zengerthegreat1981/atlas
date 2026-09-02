@@ -15,8 +15,7 @@ active_end: 1940
 edges:
 - rel: "belongs_to", target: "sch-frankfurt-school", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "مصير مخطوطة «مشروع الممرّات» أثناء فراره من فرنسا (1940) وتفاصيل الحقيبة التي حملها إلى الحدود الإسبانية غير موثقة هنا بدقة."
 ---
 
 # فالتر بنيامين
@@ -42,10 +41,16 @@ gaps:
 - *Die Aufgabe des Übersetzers* (1923) — مهمّة المترجم.
 - *Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit* (1935).
 - *Über den Begriff der Geschichte* (1940) — أطروحات في فلسفة التاريخ.
-- *Das Passagen-Werk* (غير مكتمل، نُشر 1982).
+- *Das Passagen-Werk* (غير مكتمل، نُشر بعد وفاته سنة 1982).
 
 ## اقتباسات مختارة
 
 «لا وثيقة حضارة إلا وهي في الوقت نفسه وثيقة بربرية.» (أطروحات في فلسفة التاريخ، 7)
 
 «هذه العاصفة هي ما نسمّيه التقدّم.» (أطروحات في فلسفة التاريخ، 9)
+
+## المصادر
+
+- Benjamin, W. (1968). *Illuminations* (H. Arendt, Ed.; H. Zohn, Trans.). Schocken Books.
+- Benjamin, W. (1999). *The Arcades Project* (H. Eiland & K. McLaughlin, Trans.). Belknap Press.
+- Stanford Encyclopedia of Philosophy, "Walter Benjamin": https://plato.stanford.edu/entries/benjamin/

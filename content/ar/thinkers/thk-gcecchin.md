@@ -12,15 +12,14 @@ active_start: 1967
 active_end: 2004
 part: "philosophy"
 crumb: "العلاج الأسري الميلاني ← الفضول واللاتوقير ← جيانفرانكو تشيكين"
-edges:
-- rel: "belongs_to", target: "العلاج الأسري الميلاني", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-mselvini", title: "مارا سيلفيني-بالازولي", type: "مفكر"
+- id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: لويجي بوسكولو (thk-boscolo)."
 ---
 
 # جيانفرانكو تشيكين

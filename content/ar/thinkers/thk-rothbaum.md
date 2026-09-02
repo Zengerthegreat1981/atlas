@@ -21,9 +21,9 @@ related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
-  - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
-  - "تفاصيل تجربتها الرائدة في Emory University حول الواقع الافتراضي في علاج الخوف من المرتفعات تستحق توثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة ميلادها الدقيقة لم تُثبَّت في المصادر المتاحة لنا."
+  - "تفاصيل زمنية دقيقة (شهر/سنة) لبداية تجربتها الرائدة في Emory University حول الواقع الافتراضي في علاج رهاب المرتفعات غير متاحة لنا."
+  - "لم يُعثر على نص اقتباس مباشر منسوب لها بعبارتها الحرفية في المصادر المتاحة لنا."
 ---
 
 # باربارا أولسبي روثباوم
@@ -43,3 +43,8 @@ gaps:
 - علاج اضطراب الكرب التالي للصدمة: التعرض والعلاج الدوائي (PTSD: From Concept to Clinical Practice, 2014) مع ميرا سوزوكي.
 - التعرض بالواقع الافتراضي: دليل إكلينيكي (Virtual Reality Exposure Therapy, 2010) مع ألكسندر سيغير.
 - دراسات بارزة في JAMA Psychiatry وAmerican Journal of Psychiatry.
+
+## المصادر
+
+- Rothbaum, B.O. et al. "Virtual Reality Exposure Therapy for Vietnam Veterans with PTSD." *Journal of Clinical Psychiatry*, 2001.
+- Emory University Veterans Program (Bravemind) — الصفحة المؤسسية.

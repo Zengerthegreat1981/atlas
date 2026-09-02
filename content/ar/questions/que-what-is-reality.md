@@ -14,15 +14,14 @@ edges:
 related:
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
-- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جان بودريار (thk-baudrillard)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأنطولوجيا (con-ontology)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظرية المعرفة (con-epistemology)"
-- "المصادر الأولية (Plato، Descartes، Kant، Baudrillard) تحتاج مراجعة."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "الفرق بين 'الواقعية' (Realism) و'المثالية' (Idealism) في الفلسفة الحديثة يحتاج فصلاً."
-- "العلاقة بـ'الواقعية الافتراضية' (Virtual Reality) و'الواقع المعزز' (Augmented Reality) في الفلسفة المعاصرة تحتاج توثيقاً."
+  - "المصادر الأولية (Plato، Descartes، Kant، Baudrillard) تحتاج مراجعة إضافية للاقتباسات المباشرة."
+  - "الفرق بين 'الواقعية' (Realism) و'المثالية' (Idealism) في الفلسفة الحديثة يحتاج فصلاً."
+  - "العلاقة بـ'الواقعية الافتراضية' (Virtual Reality) و'الواقع المعزز' (Augmented Reality) في الفلسفة المعاصرة تحتاج توثيقاً."
 ---
 # ما الْوَاقِع؟
 
@@ -43,3 +42,11 @@ gaps:
 ## الأَهمِّيَّة
 
 (1) **الْعِلْم** (Science): «**وَاقِع**» (Reality) «**مَوْضُوع**» (Subject) «**دِرَاسَة**» (Study). (2) **الدِّين** (Religion): «**وَاقِع**» (Reality) «**شَامِل**» (Comprehensive) — «**مَادِّيّ**» + «**رُوحِيّ**» (Spiritual). (3) **الْوَاقِع الِافْتِرَاضِيّ** (Virtual Reality): «**وَاقِع**» «**يَتَحَوَّل**» (Transforms) مَعَ «**تِكْنُولُوجْيَا**» (Technology).
+
+## المصادر
+
+- Plato. *Politeia* (الجمهورية)، كتاب X (تشبيه الكهف).
+- Descartes, R. *Meditationes de Prima Philosophia* (1641).
+- Kant, I. *Kritik der reinen Vernunft* (1781).
+- Berkeley, G. *A Treatise Concerning the Principles of Human Knowledge* (1710).
+- Baudrillard, J. *Simulacres et Simulation* (1981).

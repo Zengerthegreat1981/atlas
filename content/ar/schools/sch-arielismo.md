@@ -12,6 +12,7 @@ country: "أوروغواي، الأرجنتين"
 language: "الإسبانية"
 active_start: 1900
 active_end: 1960
+cultural_origin: "latin-american"
 edges:
 - rel: "evolved_from", target: "sch-romanticism", target_type: "مدرسة"
 related:
@@ -54,3 +55,9 @@ gaps:
 
 - انتُقدت بسبب جوهرية (essentialism) «الروحانية اللاتينية».
 - انتُقدت بسبب تجاهل التعددية (الهنود الحمر، الأفارقة في الكاريبي).
+
+## المصادر
+
+- José Enrique Rodó, *Ariel*, 1900.
+- Martin S. Stabb, *In Quest of Identity: Patterns in the Spanish American Essay of Ideas, 1890–1960*, University of North Carolina Press, 1967.
+- Leopoldo Zea, *El pensamiento latinoamericano*, Editorial Ariel, 1965.

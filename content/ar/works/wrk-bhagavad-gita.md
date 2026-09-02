@@ -11,6 +11,9 @@ dates: "الهند · القرن 2 ق.م (التأليف)"
 language: "السنسكريتية"
 active_start: -200
 active_end: -100
+author: "فياسا (فيدا فياسا) — نسبة تقليدية"
+publication_year: -200
+original_language: "السنسكريتية"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
@@ -18,7 +21,6 @@ related:
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "thk-shankara", title: "شانكارا", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بنص سنسكريتي معتمد مع ترجمة عربية."
   - "تأريخ الغيتا بين القرن 5 ق.م والقرن 2 م موضع خلاف."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رامشاران شارما (thk-rsharma)."
 ---

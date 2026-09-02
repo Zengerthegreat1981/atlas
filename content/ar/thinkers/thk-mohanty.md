@@ -22,8 +22,8 @@ related:
 - id: "thk-sahmed", title: "سارة أحمد", type: "مفكر"
 - id: "dbt-feminist-universalism-vs-particularism", title: "جدل الكونية مقابل الخصوصية في النسوية", type: "جدل"
 gaps:
-  - "نصوص Mohanty (Under Western Eyes, Feminism Without Borders) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "أرقام صفحات محددة من Under Western Eyes وFeminism Without Borders لم تُثبَّت في هذا الملخص."
+  - "لم يُعثر على نص اقتباس مباشر منسوب لها بعبارتها الحرفية في المصادر المتاحة لنا."
   - "دُمج معه الملف المكرَّر thk-cmohanty (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 
@@ -33,7 +33,7 @@ gaps:
 
 ## ما أعطته
 
-في «تحت العيون الغربية» (Under Western Eyes: Feminist Scholarship and Colonial Discourses, 1984) — المقال المرجعي في الحقل — نقدت موهانتي «تعميم النساء في العالم الثالث» (Third World Women as Monolith) في الكتابات النسوية الغربية اللاتينية. النسوية الغربية (Mohanty cites 1984 Western texts) «أنتجت» صورة «المرأة في العالم الثالث» كضحية دائمة تنتظر إنقاذ أختها الغربية. «تحليلها» كان يقوم على «تجهيل» (Hegemonic Representation) لا على «فهم» (Understanding).
+في «تحت العيون الغربية» (Under Western Eyes: Feminist Scholarship and Colonial Discourses, 1984) — المقال المرجعي في الحقل — نقدت موهانتي «تعميم النساء في الجنوب العالمي» (Third World Women as Monolith) في الكتابات النسوية الغربية اللاتينية. النسوية الغربية (Mohanty cites 1984 Western texts) «أنتجت» صورة «المرأة في الجنوب العالمي» كضحية دائمة تنتظر إنقاذ أختها الغربية. «تحليلها» كان يقوم على «تجهيل» (Hegemonic Representation) لا على «فهم» (Understanding).
 
 ## موقعها من التيار
 
@@ -45,3 +45,8 @@ gaps:
 ## أهم أعمالها
 
 نسوية بلا حدود: نزع الاستعمار من الممارسة (Feminism Without Borders, 2003) · تحت العيون الغربية (Under Western Eyes, 1984) · نساء ودراسات التحرر (Third World Women and the Politics of Feminism, 1991، مع Russo وTorres).
+
+## المصادر
+
+- Mohanty, C.T. "Under Western Eyes: Feminist Scholarship and Colonial Discourses." *Boundary 2*, 1984.
+- Mohanty, C.T. *Feminism Without Borders: Decolonizing Theory, Practicing Solidarity* (Duke University Press, 2003).

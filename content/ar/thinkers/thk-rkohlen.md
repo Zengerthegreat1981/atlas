@@ -16,13 +16,11 @@ edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
 - id: "thk-mtsai", title: "مافيس تساي", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "tec-fap", title: "العلاج النفسي التحليلي الوظيفي (FAP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد."
   - "سيرته المهنية الكاملة وأدواره في جامعة واشنطن — موضع بحث."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مافيس تساي (thk-mtsai)."
 ---
 
 # روبرت ج. كولنبرغ
@@ -43,3 +41,8 @@ gaps:
 ## أهم أعماله
 
 «العلاج النفسي التحليلي الوظيفي» (Functional Analytic Psychotherapy, 1991، مع Tsai) · «تعزيز العلاج المعرفي السلوكي» (Enhancing Therapeutic Effectiveness, 1998، مع Hayes) · «العلاج التحليلي الوظيفي للشخصية» (Functional Analytic Psychotherapy for Personality Disorders, 2014).
+
+## المصادر
+
+- Kohlenberg, R. J., & Tsai, M. (1991). *Functional Analytic Psychotherapy: Creating Intense and Curative Therapeutic Relationships*. Plenum Press.
+- Kohlenberg, R. J., & Tsai, M. (Eds.) (2014). *Functional Analytic Psychotherapy for Personality Disorders*. Context Press.

@@ -9,6 +9,8 @@ crumb: "علم النفس التحليلي ← تاريخ الحركة ← تأ�
 active_start: "1955-08-28"
 active_end: "مستمر"
 country: "سويسرا"
+event_date: "1955-08-28"
+event_place: "كوسناخت، سويسرا"
 part: "psychology"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"

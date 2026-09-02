@@ -10,10 +10,10 @@ crumb: "الفلسفة ← اليونان وروما ← الأبيقورية"
 dates: "أثينا (الحديقة) · من 306 ق.م إلى نحو 250 م"
 country: "يونان (أثينا)"
 language: "اليونانية (ثم اللاتينية في روما)"
+cultural_origin: "greek"
 active_start: -306
 active_end: 250
 edges:
-- rel: "belongs_to", target: "فلسفة هلنستية", target_type: "مظلة"
 - rel: "superseded_by", target: "sch-existentialism-religious", target_type: "مظلة"
 related:
 - id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
@@ -24,7 +24,6 @@ related:
 gaps:
   - "أعمال إبيقور نفسها (نحو 40 عملاً) فُقدت. وصلتنا 3 رسائل (هيرودوتوس، بيثوقلس، مينوسيوس) +'الأقوال الرئيسية' (Κύριαι Δόξαι)."
   - "بومباي (P. Herc. 1005) أعاد اكتشاف برديات في هركولانوم (1800s) فيها بقايا كتب إبيقور — لكن الترميم جارٍ."
-  - "كلمة 'أبيقوري' في العربية والإنجليزية تعني 'المُترف المُنهمك في اللذات'، وهو تحريف لمذهب إبيقور الفعلي."
 ---
 # الأبيقورية (Epicureanism)
 
@@ -89,3 +88,11 @@ gaps:
 - «الأبيقورية» في الأدبيات المتأخرة (العربية والإنجليزية) مرادفة «المُنهمك في اللذات»، وهو ما أنتجه «التاريخ المعادي» من أفلاطون ورواقيين ومسيحيين.
 - إبيقور نفسه كتب القليل جداً، و**فقدت كتبه الرئيسية** (ما عدا الرسائل الثلاث و«الأقوال الرئيسية»).
 - بعض تراثه (خاصة الرسائل الثلاث) لا يزال موضع نقاش علمي.
+
+## المصادر
+
+- Diogenes Laertius. *Lives of Eminent Philosophers*, Book X (on Epicurus).
+- Lucretius. *De Rerum Natura* (On the Nature of Things), 1st century BCE.
+- Long, A. A. & Sedley, D. N. *The Hellenistic Philosophers*. Cambridge University Press, 1987.
+- Konstan, David. "Epicurus." *Stanford Encyclopedia of Philosophy*, 2018.
+- Warren, James (ed.). *The Cambridge Companion to Epicureanism*. Cambridge University Press, 2009.

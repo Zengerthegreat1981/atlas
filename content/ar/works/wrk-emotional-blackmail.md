@@ -12,15 +12,17 @@ dates: "1997 · سوزان فوروارد ودونا فريزر"
 language: "الإنجليزية"
 active_start: 1997
 active_end: 1997
+author: "سوزان فوروارد ودونا فريزر"
+author_slug: "thk-susan-forward"
+publication_year: 1997
+original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "علم النفس الشعبي والعلاقات", target_type: "مدرسة"
 - rel: "written_by", target: "thk-susan-forward", target_type: "مفكر"
 related:
 - id: "con-emotional-blackmail", title: "الابتزاز العاطفي وثالوث الضباب (FOG: الخوف والالتزام والذنب)", type: "مفهوم"
 - id: "thk-susan-forward", title: "سوزان فوروارد", type: "مفكر"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات الدقيقة تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الابتزاز العاطفي: عندما يستغل المحبون الخوف والالتزام والشعور بالذنب للسيطرة عليك
@@ -34,7 +36,3 @@ gaps:
 ## استراتيجية SOS للمواجهة
 
 التوقف (Stop)، الملاحظة والمراقبة (Observe)، ووضع الاستراتيجية المناسبة (Strategize).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

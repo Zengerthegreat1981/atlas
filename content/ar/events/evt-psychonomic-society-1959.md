@@ -8,6 +8,8 @@ en: "Founding of the Psychonomic Society, 1959"
 crumb: "علم النفس التجريبي ← تاريخ التنظيم ← تأسيس جمعية سايكونومك"
 active_start: "1959-09-01"
 active_end: "مستمر"
+event_date: "1959-09-01"
+event_place: "سينسيناتي، أوهايو، الولايات المتحدة"
 country: "الولايات المتحدة"
 part: "psychology"
 related:

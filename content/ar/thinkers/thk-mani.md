@@ -17,7 +17,7 @@ edges:
 related:
 - id: "wrk-kephalaia", title: "الرؤوس (كِفَالا - Kephalaia)", type: "عمل / كتاب"
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
-- id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
+- id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
 gaps:
   - "النصوص المانوية الأصلية وصلتنا بشكل مجزّأ (Codex Manichaicus Coloniensis, Medinet Madi, Turfan fragments)."
   - "لا توجد ترجمة عربية معتمدة لـ«الإنجيل الحي» (Evangelium Vivum) أو «الكنز الحياة» (Thesaurus) لماني."
@@ -50,3 +50,8 @@ gaps:
 - *The Pragmateia* (الرسالة، بالإغريقية).
 - *Arzhang* (أرژنگ، كتاب الرسوم).
 - *Kephalaia* (الرؤوس، بالقبطية، اكتشاف مديني ماضي 1929-1930).
+
+## المصادر
+
+- Lieu, S. N. C. (1992). *Manichaeism in the Later Roman Empire and Medieval China* (الطبعة الثانية). J.C.B. Mohr.
+- BeDuhn, J. D. (2000). *The Manichaean Body: In Discipline and Ritual*. Johns Hopkins University Press.

@@ -10,12 +10,13 @@ crumb: "المنهجية العلمية ← البديهيات التأسيسي�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "المنهجية العلمية", target_type: "مدرسة"
+- rel: "formulated_by", target: "thk-jwatson", target_type: "مفكر"
+- rel: "relates_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
 related:
 - id: "axm-reductionism", title: "بديهية الاختزالية", type: "بديهية/مبدأ تأسيسي"
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "نقد ما بعد الوضعية (Feyerabend 1975) للموضوعية العلمية كقيمتها لم يُمثَّل بعمق."
@@ -26,6 +27,10 @@ gaps:
 # بديهية الموضوعية العلمية
 
 البديهية المؤسِّسة للمنهج العلمي في علم النفس: المعرفة العلمية تستلزم **ملاحظة مستقلة عن تحيزات الملاحِظ**، ويمكن التحقق منها من قبل باحثين آخرين. البحث العلمي لا يهدف لتأكيد الذات بل للوصول إلى **حقائق موضوعية**.
+
+## من صاغها لعلم النفس تحديداً
+
+المطالبة الصريحة بموضوعية علم النفس كعلم — لا كاستبطان ذاتي — صاغها **جون ب. واتسون** في مقالته التأسيسية *Psychology as the Behaviorist Views It* (1913): طالب باستبعاد الوعي والاستبطان (Introspection) من موضوع علم النفس، واعتبار هدفه النظري «التنبؤ بالسلوك والتحكم فيه» عبر ملاحظات يمكن لأي باحث آخر تكرارها بغض النظر عن تفسيره الذاتي. هذا هو أصل اشتراط الموضوعية بوصفه شرطاً منهجياً لا مجرد فضيلة أخلاقية للباحث. لاحقاً، أعطى **كارل بوبر** في *The Logic of Scientific Discovery* (النسخة الإنجليزية 1959، عن الألمانية *Logik der Forschung*، 1934) الموضوعيةَ صياغتها المنطقية الأدق عبر شرط قابلية التكذيب (Falsifiability).
 
 ## التعريف
 
@@ -66,3 +71,11 @@ gaps:
 - **أدوات مُقنَّنة**: تقليل الذاتية في التقييم.
 - **البروتوكولات العلاجية الموحدة** (Manuals): CBT، DBT لها أدلة مفصّلة.
 - **قياس النتائج الموضوعي**: مؤشرات مُعتمدة (Recovery rates، Effect sizes).
+
+## المصادر
+
+- Watson, J. B., "Psychology as the Behaviorist Views It", *Psychological Review*, 20(2), 1913.
+- Popper, K., *The Logic of Scientific Discovery*, Hutchinson, 1959 (ترجمة إنجليزية لـ*Logik der Forschung*، 1934).
+- Kuhn, T., *The Structure of Scientific Revolutions*, University of Chicago Press, 1962.
+- Feyerabend, P., *Against Method*, New Left Books, 1975.
+- Open Science Collaboration, "Estimating the Reproducibility of Psychological Science", *Science*, 349(6251), 2015.

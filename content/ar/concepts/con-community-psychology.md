@@ -12,11 +12,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "con-community-psychology", target_type: "مدرسة"
 related:
-- id: "thk-imartinbaro", title: "إغناثيو مارتين-بارو", type: "مفكر"
-- id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
+- id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
+- id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير (Psicología de la liberación)", type: "عمل / كتاب"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # علم النفس المجتمعي التحرري
@@ -37,10 +38,9 @@ gaps:
 - **خط أمريكي-أوروبي**: Seymour Sarason، Julian Rappaport، Ed Trickett.
 - **خط كندي-أوروبي**: Louise Cohen, Kenneth Maton.
 
+يندرج هذا التيار تحت مظلة **"علم نفس التحرر"** (Liberation Psychology) الأوسع، وأول صياغة مكتملة له وردت في كتاب مارتن-بارو **"علم النفس للتحرير"** (Psicología de la liberación)، بينما يمثّل باولو فريري الرافد التربوي الموازي لهذا الخط عبر منهجه في "التوعية" (Conscientização).
+
 ## موقعه
 
 يقع في قلب "علم النفس النقدي" (Critical Psychology) ويتقاطع مع "الصحة النفسية العامة" (Public Mental Health) و"العمل الاجتماعي".
 
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

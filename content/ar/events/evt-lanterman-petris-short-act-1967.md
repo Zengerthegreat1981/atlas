@@ -8,6 +8,8 @@ en: "California Lanterman-Petris-Short Act of 1967"
 crumb: "الصحة النفسية ← السياسات ← قانون LPS 1967 في كاليفورنيا"
 active_start: "1967-07-01"
 active_end: "مستمر (مع تعديلات لاحقة)"
+event_date: "1967-07-01"
+event_place: "ساكرامنتو، كاليفورنيا، الولايات المتحدة"
 country: "الولايات المتحدة"
 part: "psychology"
 related:

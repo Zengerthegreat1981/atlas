@@ -12,10 +12,8 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
+- id: "con-narrative-identity-ricoeur", title: "الهوية السردية والذات كآخر (Narrative Identity)", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
@@ -25,29 +23,36 @@ related:
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "الكتابة التأملية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل ذات المراقب", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-the-observer-self-meditation", title: "تأمل الذات المُلاحِظة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "تهدئة الذات بالحواس الخمس", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-self-soothe-with-the-five-senses", title: "التهدئة الذاتية بالحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-observe", title: "لاحظة", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-myths-about-emotions", title: "خرافات حول المشاعر", type: "تقنية/تدخل علاجي"
-- id: "tec-emdr", title: "إعادة المعالجة عبر حركات العين (EMDR)", type: "تقنية/تدخل علاجي"
-- id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحسي-الحركي", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-myths-about-emotions", title: "خرافات المشاعر والتعامل معها", type: "تقنية/تدخل علاجي"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "tec-sensorimotor-psychotherapy", title: "العلاج النفسي الحركي الحسي", type: "تقنية/تدخل علاجي"
 - id: "tec-somatic-experiencing", title: "تجربة الجسد", type: "تقنية/تدخل علاجي"
-- id: "tec-ifs", title: "العلاج بأنظمة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
+- id: "tec-ifs", title: "علاج منظومة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
 - id: "syn-ahfa-arabian", title: "متلازمة الأحفاء والصرع الروحي في البادية العربية", type: "متلازمة"
 gaps:
   - "نسبة الانتشار في عامة السكان تحتاج مراجعة من مسح وبائي حديث."
   - "الجدل التاريخي حول ما إذا كان DID ناتجاً عن الصدمة المبكرة أم عن عوامل أخرى (الاقتراحات، الثقافة) يحتاج مراجعة متعمّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الهوية التفارقي
 
 اضطراب نفسي مزمن ينشأ عن تجارب طفولة مؤلمة بشكل استثنائي (إساءة متكررة، إهمال شديد، صدمات تطورية) ويتميّز بتفارق الهوية — وجود حالتين أو أكثر من حالات الشخصية المتميزة (alterations) التي تتبادل السيطرة على السلوك، مع فجوات في الذاكرة لا يمكن تفسيرها بالنسيان العادي.
+
+## السقف الإكلينيكي
+
+هذا المدخل يلتزم بوصف اضطراب الهوية التفارقي معرفياً كفئة تشخيصية موثّقة في DSM-5-TR وICD-11، دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. الفصل بين حالات شخصية متمايزة سريرياً وبين تعدّد أدوار أو حالات مزاجية طبيعي هو تمييز إكلينيكي دقيق يتطلب تقييماً متخصصاً، لا يقدَّم هنا.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الهوية التفارقي كفئة تشخيصية سريرية (تعدّد حالات شخصية ناتج عن صدمة، مع فجوات ذاكرة لا إرادية) وبين الهوية السردية (con-narrative-identity-ricoeur) كما طرحها بول ريكور — وهي مفهوم فلسفي عن كون الذات وحدة مؤقتة تُبنى عبر رواية متماسكة عن الذات عبر الزمن، لا كياناً جوهرياً ثابتاً. الهوية السردية عند ريكور تصف شرطاً إنسانياً عاماً في تشكّل الهوية عبر القصّ الذاتي، بينما اضطراب الهوية التفارقي حالة إكلينيكية محدّدة الأعراض ينشأ عن كسر قسري لهذه الوحدة السردية نتيجة صدمة، لا عن تعدّد الروايات الطبيعي عن الذات الذي يعرفه كل إنسان.
 
 ## ملاحظات على المعايير التشخيصية
 

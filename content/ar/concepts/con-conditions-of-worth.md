@@ -14,8 +14,8 @@ edges:
 - rel: "formulated_by", target: "thk-rogers", target_type: "مفكر"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
-- id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
+- id: "con-unconditional-positive-regard", title: "التقبل الإيجابي غير المشروط (Unconditional Positive Regard)", type: "مفهوم"
+- id: "wrk-rogers-client-centered-therapy", title: "كتاب العلاج المتمحور حول العميل لكارل روجرز (1951)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."
   - "التمييز الدقيق بين 'شروط القبول' و'القيم المشروطة' (Conditional Positive Regard) يحتاج تحقق."

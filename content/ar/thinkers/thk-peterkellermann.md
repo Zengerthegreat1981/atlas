@@ -13,13 +13,13 @@ active_start: 1979
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "السيكودراما والسوسيومتري", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
 related:
 - id: "thk-moreno", title: "يعقوب ليفي مورينو", type: "مفكر"
 - id: "thk-adamblatner", title: "آدم بلاتنر", type: "مفكر"
 gaps:
   - "سنة الميلاد تم تقديرها تقريبياً من سياقات السيرة، يرجى التحقق من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـبيتر كيلرمان."
 ---
 
 # بيتر كيلرمان
@@ -42,7 +42,3 @@ gaps:
 - *Focus on Psychodrama* (1992).
 - *Moreno and the Psychodramatic Method* (مع بلاتنر، 2009).
 - أبحاث منشورة في *International Journal of Group Psychotherapy*.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح.

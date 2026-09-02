@@ -10,6 +10,7 @@ crumb: "الفلسفة ← البوذية ← مادهياماكا"
 dates: "الهند، التبت · من القرن 2 م إلى اليوم"
 country: "الهند، نيبال، التبت"
 language: "السنسكريتية، التبتية"
+cultural_origin: "indian"
 active_start: 150
 active_end: "مستمر"
 edges:
@@ -59,3 +60,10 @@ gaps:
 ## القيد
 
 - صعوبة التعبير عن «الفراغ» بدون تناقض (reductio).
+
+## المصادر
+
+- Nāgārjuna. *Mūlamadhyamakakārikā* (القرن 2-3 م).
+- Candrakīrti. *Prasannapadā* (شرح على Mūlamadhyamakakārikā).
+- Garfield, Jay L. *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā* (1995).
+- Ruegg, David Seyfort. *The Literature of the Madhyamaka School of Philosophy in India* (1981).

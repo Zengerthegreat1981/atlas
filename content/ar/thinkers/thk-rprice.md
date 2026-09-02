@@ -2,43 +2,58 @@
 slug: "thk-rprice"
 id: "THK-1866"
 type: "مفكر"
-level: "متوسط"
-title: "راشِل بَرايس"
-en: "Rachel Brice Price"
-crumb: "Body-Mind Centering ← البحوث الأكاديمية ← راشيل برايس"
-dates: "الولايات المتحدة · القرن العشرين–"
+level: "مبتدئ"
+title: "راشيل بَرايس"
+en: "Rachel Price"
+dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
 part: "psychology"
+crumb: "تركيز الجسد والعقل (Body-Mind Centering, BMC) ← البحوث الأكاديمية ← راشيل برايس"
 edges:
-- rel: "belongs_to", target: "تركيز الجسد والعقل (Body-Mind Centering, BMC)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-body-mind-centering", target_type: "تيار"
 related:
 - id: "thk-bbcohen", title: "بوني بينبريدج كوهن", type: "مفكر"
+- id: "thk-sharper", title: "سوزان هاربر", type: "مفكر"
+- id: "thk-tstrickler", type: "مفكر", title: "توماس ستريكلر"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد غير منشورة."
+  - "النسبة إلى جامعة ميتشيغان غير موثّقة في أي موقع أكاديمي."
+  - "لا كتاب منشور بهذا الاسم في BMC."
+  - "الاحتمال: خلط مع 'Rachel B. Price' (فيلسوفة أكسفورد) أو 'Rachel Price' (محلِّلة نفسية في Primal Therapy) أو 'Tina Price' (باحثة BMC في جامعة كاليفورنيا)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'BMC Academia' عام."
 ---
 
-# راشِل بَرايس
+# راشيل بَرايس
 
-عالمة نفس وأستاذة في جامعة ميتشيغان. اشتُهرت بأبحاثها في علم النفس الجسداني مع التركيز على BMC ودراسة العلاقة بين الجسد والوعي.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في BMC]
 
-## ما أعطته
+## محاولة التوثيق
 
-- **"الوعي الجسدي والتأمل"**: دراسات عن الكيفية التي يتشكّل بها الوعي من الجسد.
-- **"البحث في BMC"**: أبحاث أكاديمية عن فعالية BMC في سياقات علاجية.
-- **"الجسدانية والتدريس"**: تطبيقات BMC في التعليم العالي.
+- **الاسم المُسجَّل**: Rachel Price.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **BMC Association**: لا عضوية.
+  - **U-Michigan Faculty**: لا توجد أستاذة بهذا الاسم في قسم علم النفس.
+  - **PsycINFO**: لا مقالة عن "Body-Mind Centering" و"Rachel Price".
+  - **JBMMT (Journal of Bodywork and Movement Therapies)**: لا مقالة.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-تُقدّم بَرايس BMC كموضوع أكاديمي للبحث العلمي، وهو ما يربطها بالتيارات النفسية السائدة.
+- احتمال **الخلط** مع:
+  - **Rachel B. Price** (أستاذة فلسفة في Oxford Brookes).
+  - **Tina Price** (باحثة في BMC، University of California San Diego).
 
-## أهم أعمالها
+## ما يحتاجه هذا العنصر
 
-- مقالات في *Consciousness and Cognition*.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Cohen, B. B. (1993). *Sensing, Feeling, and Action*. Northampton: Contact Editions.
+  - BMC Association: https://www.bodymindcentering.com/
+  - Hartley, L. (2004). *Wisdom of the Body Moving*. North Atlantic Books.

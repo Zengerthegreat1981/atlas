@@ -10,7 +10,11 @@ crumb: "الفلسفة ← العابرة ← الديكولونيالية ← �
 dates: "2000 · أنيبال كيخانو"
 language: "الإنجليزية (ترجمة) / الإسبانية (أصلية)"
 active_start: 2000
-active_end: 2000
+active_end: 2018
+author: "أنيبال كيخانو"
+author_slug: "thk-anibal-quijano"
+publication_year: 2000
+original_language: "الإسبانية"
 edges:
 - rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مدرسة"
 related:

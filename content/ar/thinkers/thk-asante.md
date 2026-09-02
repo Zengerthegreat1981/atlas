@@ -15,13 +15,13 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-afrocentrism", target_type: "مدرسة"
 related:
-- id: "thk-twolofor", title: "تويين فالولا", type: "مفكر"
-- id: "thk-rcabrera", title: "أكينسولا أكيووو", type: "مفكر"
 - id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
+- id: "thk-tfalola", title: "تويين فالولا", type: "مفكر"
 gaps:
+  - "رابط لـ'أكينسولا أكيووو' لا يزال مؤجلاً — الـslug الأصلي (thk-rcabrera) تحت الحجر لعدم مطابقة اسمه (انظر quarantine-minimax.md وطلب R-008)، حتى يُنشأ slug صحيح خارج نطاق حروف MiniMax."
   - "رابط مقترح لـ«ثيوفيل أوبينغا» (thk-obenga) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Asante (The Afrocentric Idea, Afrocentricity) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر قابل للتوثيق بمصدر وصفحة محددة."
 ---
 
 # موليفي أسانتي

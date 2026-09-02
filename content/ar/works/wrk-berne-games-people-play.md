@@ -9,17 +9,20 @@ en: "Games People Play: The Psychology of Human Relationships"
 crumb: "التحليل التبادلي ← الأعمال ← ألعاب الناس"
 dates: "1964 · إيريك بيرن"
 language: "الإنجليزية"
+author: "إيريك بيرن"
+author_slug: "thk-eburne"
+publication_year: 1964
+original_language: "الإنجليزية"
 active_start: 1964
-active_end: 1964
+active_end: 1970
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التحليل التبادلي", target_type: "مدرسة"
-- rel: "authored_by", target: "إيريك بيرن", target_type: "مفكر"
+- rel: "authored_by", target: "thk-eburne", target_type: "مفكر"
 related:
-- id: "thk-eburne", title: "إريك برن", type: "مفكر"
+- id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
 - id: "thk-thomas-harris", title: "توماس أ. هاريس", type: "مفكر"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
-- id: "tec-ego-state", title: "حالة الأنا", type: "تقنية/تدخل علاجي"
+- id: "tec-ego-state", title: "علاج حالات الأنا (Ego State Therapy)", type: "تقنية/تدخل علاجي"
 - id: "thk-furtmuller", title: "كارل فورتمولر", type: "مفكر"
 - id: "thk-eckartsberg", title: "رولف فون إكارتسبيرغ", type: "مفكر"
 gaps:

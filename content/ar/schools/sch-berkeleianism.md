@@ -10,6 +10,7 @@ crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبي
 dates: "أيرلندا، إنجلترا، أمريكا الشمالية، إيطاليا (الرحلة الإيطالية) · من القرن 18 م إلى القرن 18 م"
 country: "أيرلندا (دبلن)، إنجلترا (أكسفورد، لندن)، أمريكا الشمالية (Rhode Island، Bermuda)"
 language: "الإنجليزية، اللاتينية، الإيطالية"
+cultural_origin: "anglo-american"
 active_start: 1709
 active_end: 1780
 edges:
@@ -21,7 +22,7 @@ related:
 - id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 gaps:
   - "نصوص بيركلي بالإنجليزية واللاتينية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'A Treatise Concerning the Principles of Human Knowledge'."
+  - "لا اقتباس مباشر مُدرَج في هذا الملف من 'A Treatise Concerning the Principles of Human Knowledge' — يحتاج مراجعة من النص الإنجليزي الأصلي."
   - "التمييز بين 'المثالية البركلية' (Berkeleian Idealism) و'المثالية الذاتية' (Subjective Idealism) معقّد."
 ---
 # المثالية الذاتية البركلية
@@ -129,3 +130,11 @@ gaps:
 - **التوتّر مع «**العقل**» (Ratio)**: «**كانط**» (Kant) «**رَدَّ**» (Respondit) بـ«**الظواهر**» (Phaenomenis) ضدّ «**الأشياء في ذاتها**» (Noumenis) — «**الفيزياء**» (Physica) «**مُوَضَّحة**» (Explicata)، «**الميتافيزيقا**» (Metaphysica) «**مَحْدُودَة**» (Limitata).
 - **التوتّر مع «**العقلانية القارية**» (Rationalismus)**: «**البركليّة**» (Berkeleiana) «**ضدّ**» (Contra) «**ديكارت**» (Descartes) و«**لايبنتز**» (Leibniz) في «**مسألة**» (Quaestio) «**الجوهر**» (Substantiae) و«**الصفات**» (Proprietatum).
 - **الإرث المعاصر**: «**البركليّة**» (Berkeleiana) «**مازالتْ**» (Adhuc) «**نَموذجاً**» (Exemplar) لـ«**نَقْد**» (Critica) «**الواقعية**» (Realismus) في «**فلسفة**» (Philosophia) «**العقل**» (Menti) «**المعاصرة**» (Contemporanea) — «**مَشكلة**» (Problema) «**الوعي**» (Conscientiae) «**الصلب**» (Dura) لـ«**تشالمرز**» (Chalmers).
+
+## المصادر
+
+- Berkeley, George. *A Treatise Concerning the Principles of Human Knowledge*. Jacob Tonson, 1710.
+- Berkeley, George. *Three Dialogues between Hylas and Philonous*. Henry Clements, 1713.
+- Winkler, Kenneth P. *Berkeley: An Interpretation*. Oxford University Press, 1989.
+- Pitcher, George. *Berkeley*. Routledge & Kegan Paul, 1977.
+- Downing, Lisa. "George Berkeley." In *The Stanford Encyclopedia of Philosophy* (E. N. Zalta, Ed.), 2013 (revised 2021).

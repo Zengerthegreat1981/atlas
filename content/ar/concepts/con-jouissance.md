@@ -15,10 +15,13 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "wrk-ecrits", target_type: "مفكر"
 related:
-- id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لوكان", type: "عمل"
+- id: "con-pleasure", title: "اللذة", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُدرَج اقتباس أولي موثّق في هذه المسودة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

@@ -20,7 +20,6 @@ related:
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "دوره في Clark University / جامعة Clark — موضع بحث."
 ---
 
@@ -42,3 +41,8 @@ gaps:
 ## أهم أعماله
 
 «التنشيط السلوكي للاكتئاب» (Behavioral Activation for Depression, 2001، مع Martell & Jacobson) · «التغلب على الاكتئاب خطوة بخطوة» (Overcoming Depression One Step at a Time, 2004، مع Martell) · «الصحة النفسية الإيجابية للرجال» (Men's Mental Health, مختارات).
+
+## المصادر
+
+- Christopher R. Martell, Michael E. Addis, Neil S. Jacobson, *Depression in Context: Strategies for Guided Action*, Norton, 2001.
+- Michael E. Addis & Christopher R. Martell, *Overcoming Depression One Step at a Time*, New Harbinger, 2004.

@@ -13,7 +13,7 @@ country: "التشيك"
 language: "التشيكية"
 part: "philosophy"
 edges:
-- rel: "influenced", target: "الوجودية العلاجية (Existential Therapy)", target_type: "مدرسة"
+- rel: "influenced", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"

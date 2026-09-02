@@ -7,8 +7,8 @@ title: "أوجينيو فيزوتي"
 en: "Eugenio Fizzotti"
 crumb: "المدرسة الوجودية ← الناس ← أوجينيو فيزوتي"
 dates: "إيطاليا · 1946–2018"
-active_start: 1998
-active_end: 2002
+active_start: 1974
+active_end: 2018
 country: "إيطاليا"
 language: "الإيطالية"
 part: "philosophy"

@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 1995
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الجنسي (Sex Therapy)", target_type: "تيار"
+- rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
 - id: "thk-wmasters", title: "وليام ماسترز", type: "مفكر"
 - id: "thk-vjohnson", title: "فرجينيا جونسون", type: "مفكر"
@@ -23,7 +23,7 @@ related:
 gaps:
   - "سيرتها المبكّرة — وُلدت في ڤيينا وفرّت مع أسرتها من النازية إلى الولايات المتحدة — تستحق مراجعة من مصدر أوّلي؛ وكان الملف يذكر هولندا ومدينة لا وجود لها."
   - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل بِرِلمان (thk-mperelman)."
+  - "ملاحظة تصحيح: gap سابق زعم أن رابط thk-mperelman (مايكل بِرِلمان) أُزيل من related — هذا غير صحيح؛ الرابط سليم ومُبقًى عليه."
 ---
 
 # هيلين سنغر كابلان

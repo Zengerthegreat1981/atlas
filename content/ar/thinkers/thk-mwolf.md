@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "thk-trisley", title: "تود ر. ريسلي", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
+  - "لم يُعثر بعد على نص اقتباس مسنَد مباشرة إلى وولف بمصدر وسنة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 
@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 بُعد الحالية في التحليل التطبيقي للسلوك (1968) · Good Behavior Game (1969) · Teaching-Family Model · Social Validity.
+
+## المصادر
+
+- Barrish, Harriet H., Saunders, Muriel, & Wolf, Montrose M. "Good Behavior Game: Effects of Individual Contingencies for Group Consequences on Disruptive Behavior in a Classroom." *Journal of Applied Behavior Analysis*, 2(2), 1969.
+- Wolf, Montrose M., Risley, Todd, & Mees, Hayden. "Application of Operant Conditioning Procedures to the Behaviour Problems of an Autistic Child." *Behaviour Research and Therapy*, 1(2), 1964.
+- Risley, Todd R. "Montrose M. Wolf (1935–2004)." *Journal of Applied Behavior Analysis*, 38(2), 2005.

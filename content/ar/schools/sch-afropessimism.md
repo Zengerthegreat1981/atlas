@@ -9,6 +9,7 @@ en: "Afropessimism"
 crumb: "الفلسفة ← الأفريقية ← الأفروبيسيميزم"
 dates: "الولايات المتحدة · من 2010s إلى اليوم"
 country: "الولايات المتحدة"
+cultural_origin: "african"
 language: "الإنجليزية"
 active_start: 2013
 active_end: "مستمر"
@@ -55,3 +56,10 @@ gaps:
 - تواجه انتقادات بسبب «العدمية السياسية» (Wesley).
 - تواجه انتقادات بسبب التعميم العنصري.
 - تواجه انتقادات من قبل النشطاء الإصلاحيين.
+
+## المصادر
+
+- Frank B. Wilderson III, *Red, White & Black: Cinema and the Structure of U.S. Antagonisms* (Duke University Press, 2010).
+- Frank B. Wilderson III, *Afropessimism* (Liveright, 2020).
+- Saidiya Hartman, *Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-Century America* (Oxford University Press, 1997).
+- Jared Sexton, *Amalgamation Schemes: Antiblackness and the Critique of Multiracialism* (University of Minnesota Press, 2008).

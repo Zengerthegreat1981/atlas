@@ -11,6 +11,10 @@ dates: "1939–1947 (نشر على دفعات) · شري أوروبندو"
 language: "الإنجليزية"
 active_start: 1939
 active_end: 1947
+author: "شري أوروبندو غوش"
+author_slug: "thk-sri-aurobindo"
+publication_year: 1939
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:

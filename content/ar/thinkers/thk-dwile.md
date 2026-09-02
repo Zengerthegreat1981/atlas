@@ -12,13 +12,10 @@ language: "الإنجليزية"
 active_start: 1981
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "العلاج الزوجي التعاوني (Collaborative Couple Therapy)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-batkinson", title: "برنت أتكينسون", type: "مفكر"
 - id: "thk-bohanlon", title: "بيل أوهَنلون", type: "مفكر"
-- id: "thk-ecolle", title: "إيما كول", type: "مفكر"
-- id: "thk-jrivett", title: "جوردان ريد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

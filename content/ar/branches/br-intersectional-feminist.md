@@ -12,7 +12,7 @@ active_start: 1989
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العدالة والمجتمع", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-intersectionality", target_type: "مدرسة"
 related:
 - id: "thk-kcrenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
 - id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"

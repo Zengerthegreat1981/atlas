@@ -36,3 +36,10 @@ gaps:
 - **يَختلف عن «النموذج الطبي»** (Medical Model): النموذج الطبي يَعتبر الإعاقة **مرضاً** يُعالَج، النموذج الاجتماعي يَعتبرها **استبعاداً** يُسَوَّى.
 - **يَختلف عن «النموذج الترفيهي»** (Charity Model): النموذج الترفيهي يَتعامل مع الإعاقة كَـ«شفقة»، النموذج الاجتماعي كَـ«حقوق».
 - **يَتقاطع مع النسوية** (الإعاقة تجربة اجتماعية-جسدية مُتشابكة).
+
+## المصادر
+
+- UPIAS (Union of the Physically Impaired Against Segregation). (1976). *Fundamental Principles of Disability*. London.
+- Oliver, M. (1990). *The Politics of Disablement*. Macmillan.
+- Oliver, M. (1996). *Understanding Disability: From Theory to Practice*. Macmillan.
+- Shakespeare, T. (2006). *Disability Rights and Wrongs*. Routledge.

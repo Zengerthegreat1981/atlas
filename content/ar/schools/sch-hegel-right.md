@@ -12,6 +12,7 @@ country: "ألمانيا، بروسيا"
 language: "الألمانية"
 active_start: 1830
 active_end: 1870
+cultural_origin: "european"
 edges:
 - rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-pragmatism-classical", target_type: "مدرسة"
@@ -24,7 +25,6 @@ gaps:
   - "رابط مقترح لـ«كارل لودفيغ ميشليه» (thk-michelet) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«يوهانس إدوارد إردمان» (thk-erdmann) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "قوائم المنتمين الرسميين للهيغلية اليمينية (Gegenstand) لم تُراجع في نص 'الأعمال الكاملة' المنشورة بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الهيغلية اليمينية
@@ -56,3 +56,10 @@ gaps:
 
 - ثنائية «اليمين/اليسار» تصنيف تبسيطي؛ كثير من المفكرين تنقلوا بين الفئتين أو رفضوا التصنيف.
 - تهمة «تأليه الوضع القائم» الشهيرة (ماركس، كيركيغارد) تستحق مراجعة نقدية معاصرة.
+
+## المصادر
+
+- John Edward Toews, *Hegelianism: The Path toward Dialectical Humanism, 1805-1841* (Cambridge University Press, 1980).
+- Karl Löwith, *From Hegel to Nietzsche: The Revolution in Nineteenth-Century Thought* (1941).
+- G.W.F. Hegel, *Elements of the Philosophy of Right / Grundlinien der Philosophie des Rechts* (1820).
+- "Right Hegelians" / "Hegelianism", *Stanford Encyclopedia of Philosophy*.

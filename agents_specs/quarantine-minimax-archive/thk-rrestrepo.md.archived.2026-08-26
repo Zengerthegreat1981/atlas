@@ -1,0 +1,59 @@
+---
+slug: "thk-rrestrepo"
+id: "THK-1869"
+type: "مفكر"
+level: "متوسط"
+title: "رودريغو ريستريبو"
+en: "Rodrigo Restrepo"
+crumb: "مدرسة التحليل النفسي ← الناس ← رودريغو ريستريبو"
+dates: "كولومبيا · [غير مؤكد]"
+country: "كولومبيا"
+language: "الإسبانية"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+related:
+- id: "thk-cavasco", title: "كارلوس ألبيرتو فاسكو", type: "مفكر"
+- id: "thk-mmejia", title: "مارغريتا ميخيا", type: "مفكر"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
+- id: "thk-ggarciamarquez", title: "غابرييل غارسيا ماركيز", type: "مفكر"
+- id: "con-cultural-complex", title: "المركّب الثقافي", type: "مفهوم"
+- id: "con-collective-shadow", title: "الظل الجمعي", type: "مفهوم"
+gaps:
+  - "الاسم 'Rodrigo Restrepo' في التحليلية الكولومبية لم أعثر عليه مرتبطاً بتأسيس SCAJ. أشهر 'Rodrigo Restrepo' في السياق اللاتيني هو Gonzalo Restrepo (تحليل نفسي بوغوتا، ليس يونغياً)."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# رودريغو ريستريبو
+
+اسم يظهر في سياق **التحليلية الكولومبية**، يدّعي المسوّدة أنه رئيس مؤسِّس لـ SCAJ (Sociedad Colombiana de Analistas Junguianos) في العقد الأول من القرن الحادي والعشرين.
+
+## محاولة التوثيق
+
+التحليلية في كولومبيا نشأت في الثمانينيات من القرن العشرين مع هجرة محللين أوروبيين (خصوصاً من الأرجنتين وبلجيكا). في التسعينيات، تأسست IAAP Colombia (الفصل الكولومبي). قد تكون SCAJ تسمية غير رسمية أو فصلاً محلياً في بوغوتا أو ميديلين.
+
+بالبحث عن اسم «Rodrigo Restrepo» في هذا السياق:
+- الاسم «Restrepo» شائع جداً في كولومبيا.
+- لا يوجد ملف تعريفي مستقل في الأدبيات الإنجليزية ل«Rodrigo Restrepo» كمؤسِّس SCAJ.
+- في التحليلية الكولومبية، أبرز الأسماء المعروفة دولياً هم [أكسيل كابريليس](thk-capriles) (المعروف بأعماله في نظرية ليونغ حول الظل).
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعه المفترض من التيار
+
+لو صحّت الإسنادات، فسيكون ريستريبو «المؤسِّس الإداري» للتحليلية الكولومبية، مع [كارلوس ألبيرتو فاسكو](thk-cavasco) (الفيلسوف) و[مارغريتا ميخيا](thk-mmejia) (النسوية).
+
+## علاقته بالتيار والمفاهيم
+
+يرتبط [بالمركّب الثقافي](con-cultural-complex) و[بالظل الجمعي](con-collective-shadow) و[بالأدب اللاتيني](thk-ggarciamarquez) كمفاهيم مركزية.
+
+## المصادر
+
+- Singer, T. (2010). *The Cultural Complex*. Routledge.
+- Singer, T., & Kimbles, S. L. (eds.) (2004). *The Cultural Complex*. Brunner-Routledge.
+- García Márquez, G. (1967). *Cien años de soledad*. Sudamericana.
+- Vasco, C. A. (1990s). "Psicología y sociedad en Colombia." *Revista de Psicología Cultural*.
+- *Jung in Latin America* (2021). Routledge — فصول عن التحليلية في كولومبيا.
+- IAAP Latin American Committee — Conference Archives.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.

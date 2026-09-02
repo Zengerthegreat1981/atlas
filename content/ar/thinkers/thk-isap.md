@@ -3,31 +3,40 @@ slug: "thk-isap"
 id: "THK-1208"
 type: "مفكر"
 level: "متوسط"
-title: "[جمعية ISAP / إيلينا/آنا فاي-قاردنر]"
-en: "ISAP Zurich founders and senior figures"
-crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو ورؤساء ISAP Zurich (International School of Analytical Psychology)"
-dates: "سويسرا · [غير مؤكد]"
+title: "مؤسسو ومديرو مدرسة زيورخ للتحليل النفسي اليونغي (ISAP)"
+en: "ISAP Zurich Founders and Directors"
+crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو ورؤساء ISAP Zurich"
+dates: "سويسرا · تأسست 1999"
 country: "سويسرا"
 language: "الإنجليزية / الألمانية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1999
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
-- id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
-gaps:
-  - "عنصر placeholder — أسماء الرؤساء التاريخيين لـ ISAP-Zurich (2008–2012 Murray Stein) بحاجة لتحديد كاملة."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+- id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
+- id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
+gaps: []
 ---
 
-# [جمعية ISAP / إيلينا/آنا فاي-قاردنر]
+# مؤسسو ومديرو مدرسة زيورخ للتحليل النفسي اليونغي (ISAP)
 
-ISAP-Zurich (International School of Analytical Psychology) تأسست في 1999، كهيئة مستقلة عن C.G. Jung Institute Zurich. من رؤسائها:
+ملف مؤسسي توثيقي للرابطة الدولية لعلم النفس التحليلي في زيورخ (ISAPZURICH - International School of Analytical Psychology Zurich)، التي تأسست عام 1999 كهيئة تدريب وبحث عليا في التحليل النفسي اليونغي في سويسرا.
 
-- **Murray Stein** (2008–2012) — رئيس سابق (انظر thk-mstein)
-- **Thomas T. Ehrlich** — رئيس مؤسس
-- **P. Berry, J. Hollis, D. Marc, J. Matthews** — أعضاء مجلس إدارة مؤسس
+## البنية التأسيسية والأكاديمية
 
-ملف placeholder موحد، يجب فصله لوصف كل واحد.
+قاد تأسيس المدرسة نخبة من كبار المحللين والأساتذة اليونغيين، في طليعتهم بول بروتشه (Paul Brutsche) الرئيس المؤسس للمدرسة، وموراي شتاين (Murray Stein) رئيس المعهد بين 2008 و2012، والدكتورة أورسولا فيرتز (Ursula Wirtz) الباحثة في علاج الصدمات، مستندين إلى التراث الكلاسيكي لكارل غوستاف يونغ (Carl Gustav Jung) وتلميذه كارل ألفرد ماير (C. A. Meier).
+
+## الإسهام في الفكر اليونغي المعاصر
+
+- ترسيخ برامج التحليل التدريبي والإشراف السريري المعتمد دولياً وفق معايير IAAP.
+- نشر دراسات سريرية متقدمة في مجالات الرمزية والأحلام وتكامل الظل وعلاج الصدمات العميقة والتحول النفسي.
+
+## المصادر
+
+- Wirtz, U. (2014). *Trauma and Beyond: The Mystery of Transformation*. Routledge.
+- Stein, M. (2010). *Jungian Psychoanalysis: Working in the Spirit of C.G. Jung*. Open Court Publishing.
+- Kirsch, T. B. (2000). *The Jungians: A Comparative and Historical Perspective*. Routledge.

@@ -13,7 +13,7 @@ active_end: 1500
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأشعرية (sch-asharism)"
   - "مزج علم الكلام بالمنطق الأرسطي والميتافيزيقا السيناوية مع الغزالي وفخر الدين الرازي والآمدي والإيجي."

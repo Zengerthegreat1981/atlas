@@ -23,7 +23,6 @@ related:
 gaps:
   - "رابط مقترح لـ«مارسيليو فيتشينو» (thk-ficino) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النص الكامل لـ'900 أطروحة' يحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق من 'Oratio de Hominis Dignitate' بعد."
 ---
 # جيوفاني بيكو ديلا ميراندولا
 
@@ -50,3 +49,8 @@ gaps:
 - **Heptaplus** (1489): تفسير سباعي لسفر التكوين.
 - **De Ente et Uno** (1492): في الوجود والواحد.
 - **Disquisitiones adversus Astrologiam Divinatricem** (1494): ضد علم التنجيم.
+
+## المصادر
+
+- Giovanni Pico della Mirandola, *Oratio de Hominis Dignitate*, 1486.
+- Giovanni Pico della Mirandola, *Conclusiones DCCCC*, 1486.

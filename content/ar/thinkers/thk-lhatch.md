@@ -11,9 +11,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
 - id: "con-sensory-integration", title: "التكامل الحسي (نظرية عيرز)", type: "مفهوم"
 - id: "br-sensory-integration", title: "التكامل الحسي", type: "تيار"

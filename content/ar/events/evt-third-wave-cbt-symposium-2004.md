@@ -8,6 +8,8 @@ en: "Symposium on the Third Wave of Behavioral and Cognitive Therapies"
 crumb: "المدرسة الوجودية ← الأحداث التاريخية ← إعلان الموجة الثالثة للعلاج السلوكي المعرفي 2004"
 active_start: 2004
 active_end: "مستمر"
+event_date: "2004"
+event_place: "الولايات المتحدة (نشر المقال في مجلة Behavior Therapy)"
 country: "الولايات المتحدة"
 part: "psychology"
 related:
@@ -17,6 +19,7 @@ related:
 gaps:
   - "الردود النقدية العنيفة لستيفان هوفمان وآرون بيك المدافعة عن مركزية الموجة المعرفية التقليدية تتطلب توثيقاً"
   - "تأسيس جمعية العلوم السلوكية السياقية (ACBS) عام 2005 كانعكاس مؤسسي للموجة يحتاج استعراضاً"
+  - "التاريخ الدقيق ليوم النشر والمدينة التي عُقد فيها المؤتمر السنوي لـABCT عام 2004 غير مؤكدين بدقة"
 ---
 # ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي وتكامل القبول واليقظة الذهنية
 
@@ -33,3 +36,8 @@ gaps:
 ## الأثر المؤسسي والتاريخي على الحقل
 
 أعادت الموجة الثالثة جسر الهوة بين العلاج السلوكي التجريبي والمفاهيم الوجودية والروحية، وأصبحت البروتوكول الأسرع نمواً في علاج الاضطرابات المعقدة والمزمنة حول العالم.
+
+## المصادر
+
+- Hayes, S. C. (2004). "Acceptance and Commitment Therapy, Relational Frame Theory, and the Third Wave of Behavioral and Cognitive Therapies." *Behavior Therapy*, 35(4), 639–665.
+- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999/2012). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press.

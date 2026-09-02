@@ -9,6 +9,10 @@ en: "Thus Spoke Zarathustra by Friedrich Nietzsche"
 crumb: "الفلسفة النيتشوية ← أمهات الأعمال ← هكذا تكلم زرادشت"
 active_start: null
 active_end: "مستمر"
+author: "فريدريش نيتشه"
+author_slug: "thk-nietzsche"
+publication_year: 1883
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:

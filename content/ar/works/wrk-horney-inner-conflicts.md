@@ -9,11 +9,15 @@ crumb: "التحليل النفسي ← الأعمال ← صراعاتنا ال
 dates: "1945 · كارين هورناي"
 language: "الإنجليزية"
 active_start: 1945
-active_end: 1945
+active_end: 2010
 part: "psychology"
+author: "كارين هورناي"
+author_slug: "thk-khorney"
+publication_year: 1945
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "authored_by", target: "كارين هورناي", target_type: "مفكر"
+- rel: "authored_by", target: "thk-khorney", target_type: "مفكر"
 related:
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 gaps:

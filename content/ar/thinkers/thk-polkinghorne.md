@@ -20,8 +20,7 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "نظريته في المعرفة السردية وإعادة صياغة قصة الحياة في العلاج تستحق توثيقاً."
+  - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
 ---
 
 # دونالد بولكينغهورن
@@ -41,4 +40,10 @@ gaps:
 
 ## أهم أعماله
 
-المعرفة السردية والعلوم الإنسانية (Narrative Knowing and the Human Sciences, 1988) · الممارسة الإكلينيكية والخبرة الإنسانية (Practice and the Human Sciences, 2004) · المنهجية للعلوم الإنسانية (Methodology for the Human Sciences, 1983).
+المعرفة السردية والعلوم الإنسانية (Narrative Knowing and the Human Sciences, 1988) · الممارسة والعلوم الإنسانية (Practice and the Human Sciences, 2004) · المنهجية للعلوم الإنسانية (Methodology for the Human Sciences, 1983).
+
+## المصادر
+
+- Donald E. Polkinghorne, *Narrative Knowing and the Human Sciences*, State University of New York Press, 1988.
+- Donald E. Polkinghorne, *Methodology for the Human Sciences: Systems of Inquiry*, State University of New York Press, 1983.
+- Donald E. Polkinghorne, *Practice and the Human Sciences: The Case for a Judgment-Based Practice of Care*, State University of New York Press, 2004.

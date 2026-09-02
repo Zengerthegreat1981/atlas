@@ -22,7 +22,6 @@ related:
 - id: "dbt-rawls-nozick-justice", title: "جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق", type: "جدل"
 gaps:
   - "نص A Theory of Justice (1971) وPolitical Liberalism (1993) يحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # جون رولز
@@ -43,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 نظرية العدالة (A Theory of Justice, 1971) · الليبرالية السياسية (Political Liberalism, 1993) · العدالة كإنصاف: ليس ميتافيزيقا (Justice as Fairness: A Restatement, 2001) · قوانين الشعوب (The Law of Peoples, 1999).
+
+## المصادر
+
+- Rawls, J. (1971). *A Theory of Justice*. Harvard University Press.
+- Rawls, J. (1993). *Political Liberalism*. Columbia University Press.
+- Stanford Encyclopedia of Philosophy، مدخل "John Rawls" (plato.stanford.edu/entries/rawls).

@@ -11,6 +11,10 @@ dates: "أمستردام · 1677 م"
 language: "اللاتينية"
 active_start: 1677
 active_end: 1677
+author: "باروخ سبينوزا"
+author_slug: "thk-spinoza"
+publication_year: 1677
+original_language: "اللاتينية"
 edges:
 - rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "thk-spinoza", title: "سبينوزا", type: "مفكر"
 gaps:
   - "بنية الأجزاء الخمسة: الله، طبيعة النفس، أصل الانفعالات، عبودية الإنسان، وحرية الإنسان."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # علم الأخلاق لباروخ سبينوزا

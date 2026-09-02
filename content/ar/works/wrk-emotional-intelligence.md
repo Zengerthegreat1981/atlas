@@ -9,13 +9,17 @@ crumb: "المعرفية السلوكية ← الأعمال ← الذكاء ا
 dates: "1995 · دانيال غولمان"
 language: "الإنجليزية"
 active_start: 1995
-active_end: 1995
+active_end: 2005
 part: "psychology"
+author: "دانيال غولمان"
+author_slug: "thk-goleman"
+publication_year: 1995
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-goleman", target_type: "مفكر"
 related:
-- id: "thk-jacqueline-astington", title: "جاكلين أستنغتون", type: "مفكر"
+- id: "thk-jacqueline-astington", title: "جانيت وايلد أستنغتون", type: "مفكر"
 - id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 gaps:

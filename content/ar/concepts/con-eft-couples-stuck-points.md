@@ -11,19 +11,20 @@ active_start: 2004
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-eft-couples", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-sjohnson", target_type: "مفكر"
 related:
+- id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)", type: "مدرسة"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "con-eft-couples-bond-cycle", title: "دورة الترابط", type: "مفهوم"
-- id: "con-eft-couples-emotion-focused", title: "النهج المتمحور حول المشاعر", type: "مفهوم"
+- id: "con-eft-couples-bond-cycle", title: "دورة الترابط (The Bond Cycle) في العلاج الزوجي المتمحور حول المشاعر", type: "مفهوم"
+- id: "con-eft-couples-emotion-focused", title: "النَّهْج الْمُتَمَحْوَر حَوْل الْمَشَاعِر فِي EFT", type: "مفهوم"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Johnson, 2004)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين Stuck Points في EFT و'حالات الانتهاء' (Deadlock) في Imago Therapy يحتاج فصلاً."
 ---
 
 # نِقَاط الِانْحِراف فِي EFT: تَثْبِيت 'الْمَشَاعِر الْخَاطِئَة'
 
-فِي EFT، «**نِقَاط الِانْحِراف**» (Stuck Points) هِيَ لَحَظَات فِي الْعِلَاج يَحْتَبِس فِيهَا الْأَزْوَاج عَلَى «**مَشَاعِر ثَانَوِيَّة**» (Secondary Emotions) — «**غَضَب**» (Anger)، «**اِنْزِعَاج**» (Frustration)، «**اِتِّهَام**» (Accusation) — بَدَل «**مَشَاعِر أَسَاسِيَّة**» (Primary Emotions) — «**حُزْن**»، «**خَوْف**»، «**خَجَل**». هَذِهِ النِّقَاط «**تَحْجُب**» (Block) «**الِارْتِبَاط**» (Attachment).
+وصفت **سو جونسون** (Sue Johnson) هذه اللحظات ضمن **العلاج الزوجي المتمحور حول المشاعر** (2004). فِي EFT، «**نِقَاط الِانْحِراف**» (Stuck Points) هِيَ لَحَظَات فِي الْعِلَاج يَحْتَبِس فِيهَا الْأَزْوَاج عَلَى «**مَشَاعِر ثَانَوِيَّة**» (Secondary Emotions) — «**غَضَب**» (Anger)، «**اِنْزِعَاج**» (Frustration)، «**اِتِّهَام**» (Accusation) — بَدَل «**مَشَاعِر أَسَاسِيَّة**» (Primary Emotions) — «**حُزْن**»، «**خَوْف**»، «**خَجَل**». هَذِهِ النِّقَاط «**تَحْجُب**» (Block) «**الِارْتِبَاط**» (Attachment).
 
 ## أَنْوَاع نِقَاط الِانْحِراف
 

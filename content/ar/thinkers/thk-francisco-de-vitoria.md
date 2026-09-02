@@ -7,10 +7,10 @@ level: "متقدم"
 title: "فرانسيسكو دي فيتوريا"
 en: "Francisco de Vitoria"
 crumb: "أعلام الفلسفة والفكر ← فرانسيسكو دي فيتوريا"
-dates: "سلامنكا (إسبانيا) · 1483–1546 م"
-country: "سلامنكا (إسبانيا)"
+dates: "برغش (إسبانيا) · وُلد نحو 1483 وتوفي في سلامنكا 1546 م"
+country: "إسبانيا"
 language: "اللاتينية"
-active_start: 1513
+active_start: 1526
 active_end: 1546
 edges:
 - rel: "belongs_to", target: "sch-second-scholasticism", target_type: "مدرسة"

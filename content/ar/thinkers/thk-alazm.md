@@ -13,7 +13,7 @@ country: "سوريا"
 language: "العربية / الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"

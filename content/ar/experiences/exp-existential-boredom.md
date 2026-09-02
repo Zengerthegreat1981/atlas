@@ -12,17 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
-- id: "thk-yalom", title: "إرفين يالوم", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "con-dasein-being-there", title: "الدازاين", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: لارس سفيندسن (thk-svendsen)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: الوجود (con-being)"
-- "التمييز بين الملل الوجودي (Existential Boredom) والملل الإكلينيكي (Chronic Boredom) يحتاج فصلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
-- "دراسة سفيندسن (Svendsen) في *A Philosophy of Boredom* (2005) تحتاج مراجعة كاملة."
-- "العلاقة باضطرابات الاكتئاب (Depressive Anhedonia) تحتاج توثيقاً."
+  - "تصنيف سفيندسن الرباعي (situational/torpor/existential/anhedonic) منقول من ترجمة إنجليزية لعمله الدنماركي الأصلي *Kjedsomhetens filosofi* (1999)؛ يحتاج تأكيداً على المصطلحات الدنماركية الأصلية قبل اعتماد نهائي."
 ---
 
 # الملل الوجودي: تجربة اللا-مَعنى المُستمر
@@ -40,3 +36,10 @@ gaps:
 ## الأَثر العِلاجي
 
 في العِلاج الوُجودي (Yalom، 1980)، المَلَل الوُجودي ليس «**مَرضاً**» يُعالَج بِالتَّسْلِيَة، بل «**دَعْوَة**» (Calling) لِـ**إعادة اكتشاف المعنى** (Meaning-Rediscovering). يَستفيد المَريض من: (1) تَحَدّي «**النَّمط**» (Pattern-Breaking) في حياتهم، (2) الانخراط في «**مشاريع مَعناها مَوجود**» (Engagement in Meaningful Projects)، (3) مُواجَهة «**الموت**» (Death-Contemplation) لتَخفيف «**تَفاهة الكُل**».
+
+## المصادر
+
+- Martin Heidegger, *Sein und Zeit*, 1927 (القسم عن الملل العميق نُشر لاحقاً بتفصيل أوسع في محاضرات 1929-30، *Die Grundbegriffe der Metaphysik*).
+- Lars Svendsen, *A Philosophy of Boredom*, ترجمة John Irons، Reaktion Books، 2005 (الأصل الدنماركي *Kjedsomhetens filosofi*، 1999).
+- Albert Camus, *L'Étranger*، Gallimard، 1942.
+- Irvin D. Yalom, *Existential Psychotherapy*، Basic Books، 1980.

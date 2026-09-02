@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"
 - id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
 - id: "crt-feminist-critique-cbt", title: "النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة", type: "نقد خارجي موثَّق"

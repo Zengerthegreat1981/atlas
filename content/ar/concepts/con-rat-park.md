@@ -14,6 +14,7 @@ edges:
 related:
 - id: "thk-falexander", title: "بروس ألكسندر", type: "مفكر"
 - id: "br-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "تيار"
+- id: "con-harm-reduction", title: "الحد من الضرر (Harm Reduction)", type: "مفهوم"
 gaps:
   - "تفاصيل تجربة Rat Park (1977-1981) تستحق توثيقاً منهجياً (مُنشورة في Pharmacology Biochemistry and Behavior 1978، ثم أعيد تفسيرها في 2010)."
   - "لا يوجد اقتباس مباشر موثوق متاح."
@@ -37,7 +38,7 @@ gaps:
 ## الأثر
 
 - أعادت إحياء النقاش حول «النموذج الاجتماعي» للإدمان (Social Model).
-- ألهمت حركات «Harm Reduction» الحديثة في الثمانينيات والتسعينيات.
+- ألهمت حركات **الحد من الضرر (Harm Reduction)** الحديثة في الثمانينيات والتسعينيات.
 - انتشرت ثقافياً (فيلم *Rat Park*، مقالات في *The Atlantic*).
 
 ## نقد

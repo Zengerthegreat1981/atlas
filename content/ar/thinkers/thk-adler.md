@@ -10,7 +10,7 @@ dates: "النمسا / أمريكا · 1870–1937"
 country: "النمسا / أمريكا"
 language: "الألمانية / الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1902
 active_end: 1937
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"

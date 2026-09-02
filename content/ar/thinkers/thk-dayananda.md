@@ -8,13 +8,13 @@ title: "سوامي دياناندا ساراسواتي"
 en: "Swami Dayananda Saraswati"
 crumb: "آريا ساماج ← المؤسس ← دياناندا"
 dates: "الهند (غوجارات) · 1824–1883"
-country: "الهند (البنغال، بومباي)"
+country: "الهند (غوجارات، بومباي)"
 language: "الهندية، السنسكريتية"
 active_start: 1863
 active_end: 1883
 edges:
 - rel: "belongs_to", target: "sch-arya-samaj", target_type: "مدرسة"
-- rel: "founded", target: "آريا ساماج", target_type: "مدرسة"
+- rel: "founded", target: "sch-arya-samaj", target_type: "مدرسة"
 related:
 - id: "sch-neohinduism", title: "الهندوسية الجديدة (إصلاح القرن 19)", type: "مدرسة"
 - id: "sch-arya-samaj", title: "آريا ساماج", type: "مدرسة"

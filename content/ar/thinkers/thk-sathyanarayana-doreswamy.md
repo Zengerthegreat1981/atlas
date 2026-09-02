@@ -2,46 +2,58 @@
 slug: "thk-sathyanarayana-doreswamy"
 id: "THK-2768"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "ساتيانارايانا دورِسوامي"
 en: "Sathyanarayana Doreswamy"
-crumb: "علم النفس الفيدي (المستند إلى الفيد) ← تطوير ← ساتيانارايانا دورسوامي"
-dates: "الهند · [DRAFT-UNKNOWN]"
+dates: "الهند"
 country: "الهند"
 language: "الإنجليزية/الكانادية"
-active_start: 1970
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
+crumb: "علم النفس الفيدي ← تطوير ← ساتيانارايانا دورسوامي"
 edges:
-- rel: "belongs_to", target: "علم النفس الفيدي (المستند إلى الفيد)", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-vedic-psychology", type: "تيار"
 related:
-- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-- id: "thk-svami-akhilananda", title: "سوامي أخيلاناندا", type: "مفكر"
+- id: "thk-svami-akhilananda", type: "مفكر", title: "سوامي أخيلاناندا"
+- id: "thk-amncube", type: "مفكر", title: "ألبرت مْنكوبِي"
+- id: "thk-ymohamed", type: "مفكر", title: "ياسين محمد"
+- id: "thk-pshanker", type: "مفكر", title: "بي. ن. سَنكر (B.N. Shanker)"
+- id: "br-vedic-psychology", type: "تيار", title: "علم النفس الفيدي"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Sathyanarayana Doreswamy' في MHRD India أو Shodhganga حتى آب 2026."
+  - "الاحتمال: خلط مع 'Sathyanarayana Doreswamy' (أكاديمي هندي، حقل مختلف) أو 'C.D. Doreswamy' (عالم نفس فيدي آخر)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Vedic Psychology India' عام."
 ---
 
 # ساتيانارايانا دورِسوامي
 
-أكاديمي هندي، من المساهمين في **تطوير علم النفس الفيدي** ضمن **مناهج الجامعات الهندية**.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في علم النفس الفيدي]
 
-## ما أعطاه
+## محاولة التوثيق
 
-- تطوير **مناهج جامعية** تجمع بين علم النفس الغربي والفلسفة الفيدية.
-- مساهمات في **تأطير علم النفس الإيجابي** من منظور فيدي.
-- فصول في كتب عن **«الفيدانتا والصحة النفسية»** في السياق الهندي.
-- مساهمات في **«أبحاث التأمل»** المعتمدة على التصوير العصبي.
+- **الاسم المُسجَّل**: Sathyanarayana Doreswamy.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **Shodhganga (Indian theses database)**: لا نتائج.
+  - **MHRD India (Ministry of Human Resource Development)**: لا نتائج.
+  - **PubMed**: لا مقالة في Vedic Psychology.
 
-## موقعه من التيار
+## السبب المحتمل للإدراج
 
-يقف دورسوامي عند **تلاقي علم النفس الفيدي مع علم النفس الأكاديمي الهندي**، وهو ما يُنتج مقاربة **مؤسسية** لتأصيل الفلسفة الفيدية في **الجامعات الهندية المعاصرة**.
+- احتمال **الخلط** مع:
+  - **L.N. Doreswamy** (أكاديمي هندي في علم النفس).
+  - **M.S. Doreswamy** (أكاديمي في علم نفس فيدي).
 
-## أهم أعماله
+## ما يحتاجه هذا العنصر
 
-- مساهمات في كتب علم النفس الهندي والفيدي.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Akhilananda, S. (1952). *Mental Health and Hindu Psychology*. Routledge.
+  - Rao, K. R. & Paranjpe, A. C. (eds.) (2016). *Psychology in the Indian Tradition*. Springer.
+  - Mncube, A. (2007). «The Role of Ubuntu in Inclusive Education in South Africa», *International Journal of Special Education* 22(2).

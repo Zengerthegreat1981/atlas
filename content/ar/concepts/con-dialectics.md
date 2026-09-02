@@ -14,11 +14,30 @@ edges:
 - rel: "formulated_by", target: "thk-hegel", target_type: "مفكر"
 related:
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
+- id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
+- id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"
+- id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
+- id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
+- id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
+- id: "thk-jean-francois-lyotard", title: "جان فرانسوا ليوتار", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
+- id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 gaps:
-  - "مراحل الجدلية من أفلاطون إلى هيغل إلى ماركس لم تُوثّق بدقة كافية."
-  - "لا يوجد اقتباس مباشر موثوق من 'Phänomenologie' بعد."
+  - "لا يوجد اقتباس مباشر موثوق من 'Phänomenologie des Geistes' لهيغل بعد."
+  - "المفكرون المذكورون في المتن بوصفهم نقاداً أو مطورين للجدلية (كارل بوبر، أنطونيو غرامشي، روزا لكسمبورغ، نيكلاس لومان) لا توجد لهم ملفات في الأطلس بعد، فلم يُربطوا."
 ---
 
 # الجدلية (Dialektik)

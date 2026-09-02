@@ -88,3 +88,9 @@ gaps:
 - أثّر في **النقاش العام** حول الموت الرحيم (Dignified Death).
 - ألهم **جيلاً من الصحفيين** لتناول العلوم النفسية.
 - **أيقونة معاصرة** في نقاش العقلانية الروحية.
+
+## المصادر
+
+- Pollan, M. (2018). *How to Change Your Mind*. Penguin Press.
+- Pollan, M. (2021). *This Is Your Mind on Plants*. Penguin Press.
+- Griffiths, R. R. et al. (2016). "Psilocybin produces substantial and sustained decreases in depression and anxiety." *Journal of Psychopharmacology*, 30(12) — الأبحاث التي استند إليها بولان في هوبكنز.

@@ -2,48 +2,57 @@
 slug: "thk-nancy-harness"
 id: "THK-2732"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "نانسي هارنِس"
 en: "Nancy Harness"
-crumb: "العدالة التصالحية (العدالة التصالحية) ← تطوير ← نانسي هارنيس"
-dates: "كندا · [DRAFT-UNKNOWN]"
+dates: "كندا"
 country: "كندا"
 language: "الإنجليزية"
-active_start: 1995
+active_start: "[DRAFT-UNKNOWN]"
 active_end: "مستمر"
 part: "psychology"
+crumb: "العدالة التصالحية ← تطوير ← نانسي هارنيس"
 edges:
-- rel: "belongs_to", target: "العدالة التصالحية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-restorative-justice", type: "تيار"
 related:
-- id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
-- id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
-- id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
-- id: "thk-zehr", title: "هوارد زير", type: "مفكر"
+- id: "thk-jbraithwaite", type: "مفكر", title: "جون برايثوايت"
+- id: "thk-hzehr", type: "مفكر", title: "هوارد زير"
+- id: "con-restorative-justice", type: "مفهوم", title: "العدالة التصالحية"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد سيرة ذاتية منشورة لـ 'Nancy Harness' في RJOI (Restorative Justice Organization of Indonesia) أو IIRP (International Institute for Restorative Practices) حتى آب 2026."
+  - "الاحتمال: خلط مع 'Nancy Reeni Harness' (ممارسة RJ في كندا، حقل مختلف) أو 'Nancy Harness' (خبيرة في الوساطة الكندية)."
+  - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'RJ Canada' عام."
 ---
 
 # نانسي هارنِس
 
-أكاديمية كندية، من أهم المساهمين في **تطبيق العدالة التصالحية** في **سياقات الشباب والجامعات**.
+[هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في العدالة التصالحية الكندية]
 
-## ما أعطته
+## محاولة التوثيق
 
-- تطوير **برامج العدالة التصالحية** في الجامعات الكندية.
-- فصول في كتب عن **«العدالة التصالحية في التعليم العالي»**.
-- مساهمات في **«حل النزاعات الطلابية»** عبر مقاربات تصالحية.
-- أبحاث عن **«فعالية العدالة التصالحية في الجامعات»**.
+- **الاسم المُسجَّل**: Nancy Harness.
+- **البحث في قواعد البيانات (حتى آب 2026)**:
+  - **IIRP (International Institute for Restorative Practices)**: لا نتائج.
+  - **RJCanada**: لا نتائج.
+  - **PubMed**: لا مقالة في RJ + Nancy Harness.
+  - **WorldCat**: لا كتاب منشور.
 
-## موقعها من التيار
+## السبب المحتمل للإدراج
 
-تقف هارنيس عند **تلاقي العدالة التصالحية مع علم النفس التربوي**، وهو ما يُنتج تطبيقات جديدة للنموذج في **السياقات الجامعية**، مع التركيز على **إعادة بناء العلاقات**.
+- احتمال **الخلط** مع:
+  - **Nancy Reeni Harness** (ممارسة RJ في كندا، حقل مختلف).
+  - **Nancy Hughes** (أكاديمية كندية، RJ).
 
-## أهم أعمالها
+## ما يحتاجه هذا العنصر
 
-- مساهمات في كتب العدالة التصالحية في الجامعات.
+- **إما**: تصحيح الاسم.
+- **أو**: الحجر في `quarantine-minimax.md`.
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- لا توجد مصادر موثّقة.
+- للتحقق:
+  - Zehr, H. (2002). *The Little Book of Restorative Justice*. Good Books.
+  - Braithwaite, J. (1989). *Crime, Shame and Reintegration*. Cambridge UP.
+  - IIRP: https://www.iirp.edu/

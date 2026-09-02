@@ -10,6 +10,10 @@ crumb: "الفلسفة ← اليهودية ← الأندلسية ← ينبو�
 dates: "نحو 1050 م · الأندلس"
 country: "الأندلس"
 language: "العربية (الأصل المفقود) / اللاتينية (المترجم)"
+author: "سليمان بن يحيى ابن جابيرول (أفيسبريم)"
+author_slug: "thk-ibn-gabirol"
+publication_year: 1050
+original_language: "العربية"
 active_start: null
 active_end: "مستمر"
 edges:

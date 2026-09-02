@@ -12,18 +12,15 @@ active_start: 1994
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-challenging-cognitive-distortions", title: "تحدّي التشوهات المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-cog-decisional-balance-sheet", title: "ورقة ميزان القرار", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
@@ -32,24 +29,24 @@ related:
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-bullseye-exercise", title: "تمرين نقطة الهدف", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "تِيب (TIPP)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-bullseye-exercise", title: "تمرين لوحة الهدف (Bullseye)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-improve-the-moment", title: "تحسين اللحظة (IMPROVE)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-please", title: "PLEASE", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-wise-mind", title: "العقل الحكيم", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-spec-cope-ahead-for-trauma-triggers", title: "الاستعداد المسبق لمحفزات الانتكاس", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-spec-cope-ahead-for-trauma-triggers", title: "الاستعداد المسبق لمحفزات الصدمة", type: "تقنية/تدخل علاجي"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "syn-insomnia", title: "الأرق", type: "متلازمة"
 - id: "syn-schumann-syndrome", title: "متلازمة شومان وتقلبات العبقرية الإبداعية الثنائية القطب", type: "متلازمة"
+- id: "con-sadness", title: "الحزن", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتمييز Hypomania في DSM-5-TR عن 'المزاج الجيد' الطبيعي وعن حالات أخرى (تعاطي مواد، ADHD) لم تُراجع بالتفصيل من المصدر الأولي."
   - "نسب الانتشار الدقيقة لـ BD-II في المنطقة العربية وفي سياقات غير غربية لم تُوثَّق بشكل منهجي."
   - "الخلاف حول ما إذا كان BD-II حالة مستقلة أم طيف من BD-I لم يُحسم في الأدبيات."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب ثنائي القطب من النوع الثاني
@@ -79,6 +76,14 @@ ICD-11 يصنّف BD-II تحت 6A61، ويتطلب نوبة هوس خفيف ون
 
 - نوبات اكتئاب كبرى متكررة، تستمر أسابيع، مع جميع الأعراض المعروفة (مزاج مكتئب، فقدان الاهتمام، اضطراب النوم، الشهية، التركيز، الأفكار الانتحارية).
 - عادةً ما تكون نوبات الاكتئاب في BD-II أطول وأكثر تكراراً من الهوس الخفيف.
+
+## السقف الإكلينيكي
+
+هذا المدخل، مثل كل عناصر نوع 'الاضطراب/الحالة الإكلينيكية'، يلتزم بوصف الفئة التشخيصية معرفياً دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. ما ورد أعلاه من مراحل معالجة وأدوية هو خلاصة أدبيات عامة، لا بديل عن تقييم إكلينيكي مباشر من مختص.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين نوبة الاكتئاب الكبرى في BD-II كفئة تشخيصية وبين 'الحزن' (con-sadness) كشعور إنساني عابر مرتبط باستجابة لفقد أو خسارة مدركة. الحزن العادي محدود بحدث واقعي ولا يستمر أسابيع بمعايير شدة ووظيفة محددة كما في نوبة الاكتئاب الكبرى، كما أن الهوس الخفيف (Hypomania) نفسه — وهو ما يميّز BD-II عن الاكتئاب أحادي القطب — لا مقابل فلسفي مباشر له في هذا الأطلس حتى الآن؛ فهو أقرب لارتفاع مزاج وظيفي محدود المدة منه لأي مفهوم فلسفي عن الفرح أو الازدهار (Eudaimonia).
 
 ## المعالجة الإكلينيكية التدريجية
 

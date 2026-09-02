@@ -2,42 +2,44 @@
 slug: "thk-werner"
 id: "THK-0562"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "هيلموت فيرنر"
 en: "Helmut Werner"
-crumb: "المدرسة الوجودية ← الناس ← هيلموت فيرنر"
-dates: "ألمانيا · معاصر"
+crumb: "الأطلس ← thinkers ← هيلموت فيرنر"
+dates: "ألمانيا · [غير مؤكد]"
 country: "ألمانيا"
 language: "الألمانية"
-part: "psychology"
+part: "philosophy"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
-related:
-- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
-- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "امتداداته لأطروحات التحليل الدازايني في علم النفس الألماني تحتاج توثيقاً."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Helmut Werner في IGD أو DGAP أو GVK أو DNB. احتمال خلط مع Helmut Werner Heisenberg (فيزيائي) أو مؤرخ فن بجامعة هومبولت أو لاعب كرة قدم بنفس الاسم. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-werner.md.archived.2026-08-27"
 ---
 
 # هيلموت فيرنر
 
-عالم نفس ومعالج وجودي ألماني معاصر، من المساهمين في تطوير وتوسيع تطبيقات «التحليل الوجودي والدازاين» (Daseinsanalysis) في علم النفس الإكلينيكي في ألمانيا.
+(Helmut Werner)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-werner.md.archived.2026-08-27`
 
-ساهم في صياغة امتدادات معاصرة للمنهج الدازايني، والتركيز على كيفية مساعدة المسترشد على فهم انفتاح كينونته في العالم وتجاوز الأنماط التضييقية للخبرة اليومية.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-ينتمي إلى مجتمع التحليل الوجودي الدازايني في ألمانيا وسويسرا.
+لم يُعثر على أي أثر مستقل لشخص بهذا الاسم في سجلات IGD أو DGAP أو GVK أو DNB أو مجلات Daseinsanalyse. المحتوى الأصلي كان يعترف صراحة في متنه بعدم وجود توثيق، مع اقتراح احتمال خلط مع ثلاثة أشخاص آخرين مختلفين تماماً بنفس الاسم — وهو النمط الذي تقتضي القاعدة 11 حسمه بحجر لا بنشر سيرة واثقة الشكل.
 
-## القيد
-طابع مساهمته يركز على التطبيقات الإكلينيكية والتدريبية.
+## للمتابعة
 
-## أهم أعماله
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-werner.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-دراسات وأبحاث في التحليل الوجودي الدازايني في ألمانيا.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-werner.md.archived.2026-08-27`

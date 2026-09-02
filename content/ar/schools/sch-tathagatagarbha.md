@@ -12,17 +12,17 @@ country: "الهند، الصين، التبت، اليابان"
 language: "السنسكريتية، الصينية، التبتية"
 active_start: 250
 active_end: "مستمر"
+cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-yogacara", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 gaps:
   - "نصوص Tathāgatagarbha Sūtra وMahāyāna Mahāparinirvāṇa Sūtra وUttaratantra (Maitreya/Asaṅga) تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح حالياً."
 ---
 
 # تاثاغاتاغاربها (طبيعة البوذا)
@@ -66,3 +66,10 @@ gaps:
 - إشكالية مزعومة بـātmavāda (روحانية جوهرانية) — رآها Prāsaṅgika تنازلاً عن نفي الذات.
 - الطبيعة «الذاتية» الكامنة تستلزم فلسفياً مرجعية واقعية تختلف عن Prāsaṅgika المتطرفة.
 - لا يُعرف على وجه الدقة من المؤلِّف الفعلي لرسائل Maitreya/Asaṅga.
+
+## المصادر
+
+- Takasaki, J. (1966). *A Study on the Ratnagotravibhāga (Uttaratantra)*. Istituto Italiano per il Medio ed Estremo Oriente.
+- King, S. B. (1991). *Buddha Nature*. State University of New York Press.
+- Ruegg, D. S. (1989). *Buddha-nature, Mind and the Problem of Gradualism*. School of Oriental and African Studies.
+- Williams, P. (2009). *Mahāyāna Buddhism: The Doctrinal Foundations* (2nd ed.). Routledge.

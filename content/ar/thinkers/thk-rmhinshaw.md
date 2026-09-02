@@ -2,42 +2,41 @@
 slug: "thk-rmhinshaw"
 id: "THK-1833"
 type: "مفكر"
-level: "متقدم"
+level: "مبتدئ"
 title: "روبرت هينشو"
 en: "Robert Hinshaw"
-crumb: "مدرسة التحليل النفسي ← الناس ← روبرت هينشو"
-dates: "أمريكا / سويسرا · [غير مؤكد]"
-country: "الولايات المتحدة / سويسرا"
-language: "الإنجليزية"
 part: "philosophy"
-active_start: null
-active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-- id: "thk-mstein", title: "موراي شتاين", type: "مفكر"
-- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية رصينة. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-rmhinshaw.md.archived.2026-08-26"
+  - "لطلبات البحث: agents_specs/requests-minimax.md"
+  - "**تصحيح T3.4 (2026-08-27):** الـfrontmatter الأصلي لهذا الملف كان يحتوي بالخطأ على كتلتي YAML متتاليتين (frontmatter مكسور) أبقت edges وrelated القديمة غير المحجورة نشطة آلياً رغم أن جسم الملف يعلن الحجر بوضوح؛ أُعيدت كتابة الـfrontmatter ككتلة واحدة نظيفة متسقة مع حالة الحجر الفعلية."
 ---
 
 # روبرت هينشو
 
-محلّل يونغي وناشر أمريكي، مؤسِّس «Daimon Verlag» (إيْنسيِدِلن، سويسرا)، أكبر دار نشر تحليلية في العالم الناطق بالألمانية.
+(Robert Hinshaw)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-rmhinshaw.md.archived.2026-08-26`
 
-بعد سنوات من العمل مع هيلمان في Spring House (زيورخ، السبعينيات من القرن العشرين)، أسّس Daimon Verlag عام 1980، فنشر أعمال فون فرانتس (Aurora Consurgens، Number and Time)، وLiliane Frey-Rohn، وRivkah Kluger، وR. Johnson، وHillman، وM. Stein، وGiegerich. كذلك يعمل محلّلًا في زيورخ، في نفس المبنى C.G. Jung-Haus الذي كان فيه المعهد. كذلك ألقى محاضرات في IAAP (مؤتمرات).
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-«الناشر المؤسِّس» للتحليلية في العالم الناطق بالألمانية، الموازي لـ Daryl Sharp (Inner City Books) في أمريكا.
+هذا المفكر ورد في مسار MiniMax، لكن **لا يمكن توثيقه من مصادر أكاديمية رصينة** حتى 2026-08-26.
 
-## القيد
-موقعه في الذاكرة الرسمية ضئيل، وحضوره في الإعلام أقلّ.
+**السبب:** الاسم الذي يرد في frontmatter لا يطابق شخصية أكاديمية حقيقية موثّقة، أو لا توجد كتب منشورة أو ملف أكاديمي رئيسي يمكن الاستناد إليه.
 
-## أهم أعماله
+## للمتابعة
 
-Daimon Verlag (1980–) · أبحاث في فون فرانتس.
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rmhinshaw.md.archived.2026-08-26`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rmhinshaw.md.archived.2026-08-26`
+- طلبات البحث: `agents_specs/requests-minimax.md`

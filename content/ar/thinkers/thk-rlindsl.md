@@ -6,7 +6,7 @@ level: "متقدم"
 title: "أورغن ر. ليندزلي"
 en: "Ogden R. Lindsley"
 crumb: "المعرفية السلوكية ← الناس ← أورغن ر. ليندزلي"
-dates: "الولايات المتحدة · 1922–[غير مؤكد]"
+dates: "الولايات المتحدة · 1922–2004"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1955
@@ -15,13 +15,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
 gaps:
-  - "تاريخ الميلاد والوفاة الدقيقان غير متاحين في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "تفاصيل مشروع «Human Operant Lab» في Kansas — موضع بحث."
+  - "تفاصيل مشروع «Human Operant Lab» في Kansas (تواريخ محددة للتجارب والمشاركين) — موضع بحث."
 ---
 
 # أورغن ر. ليندزلي
@@ -30,7 +28,7 @@ gaps:
 
 ## ما أعطاه
 
-طوَّر «تسجيل السلوك الدقيق» (Precise Behavioral Recording) كبديل لأساليب التقدير الإكلينيكي الذاتي: السلوك يُقاس بأحداث متكررة (Event Recording) بدقة زمنية، ويُمثَّل بيانياً (Cumulative Records) — أي اختراع تكنولوجيا أساسية لـ ABA. أسَّس «مختبر السلوك البشري الإجرائي» (Human Operant Lab) في جامعة كانساس (University of Kansas) في الخمسينيات-الستينيات، حيث درس الاكتئاب والأفكار الانتحارية كسلوك قابل للتسجيل، ونشر سلسلة «سجلات اكتئاب» (Depression Records) المؤثرة. كذلك ساهم في تطوير «مناهج التعلم المعتمدة على الدقة» (Precision Teaching) مع Ogden Lindsley نفسه (1964).
+طوَّر «تسجيل السلوك الدقيق» (Precise Behavioral Recording) كبديل لأساليب التقدير الإكلينيكي الذاتي: السلوك يُقاس بأحداث متكررة (Event Recording) بدقة زمنية، ويُمثَّل بيانياً (Cumulative Records) — أي اختراع تكنولوجيا أساسية لـ ABA. أسَّس «مختبر السلوك البشري الإجرائي» (Human Operant Lab) في جامعة كانساس (University of Kansas) في الخمسينيات-الستينيات، حيث درس الاكتئاب والأفكار الانتحارية كسلوك قابل للتسجيل، ونشر سلسلة «سجلات اكتئاب» (Depression Records) المؤثرة. كذلك طوّر بنفسه «مناهج التعلم المعتمدة على الدقة» (Precision Teaching, 1964).
 
 ## موقعه من التيار
 
@@ -42,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 «منحنى الانعكاس لسلوك النقر في الجرذان» (1956) · «مستودع السلوك البشري» (Human Operant Repository) · «التدريس الدقيق» (Precision Teaching, 1964) · «تسجيل الاكتئاب كسلوك إجرائي» (Depression Records, الستينيات من القرن العشرين).
+
+## المصادر
+
+- Lindsley, O. R. (1964). "Direct measurement and prosthesis of retarded behavior." *Journal of Education*, 147(1).
+- Lindsley, O. R. (1990). "Precision teaching: By teachers for children." *Teaching Exceptional Children*, 22(3).
+- Cooper, J. O., Heron, T. E., & Heward, W. L. (2007). *Applied Behavior Analysis* (2nd ed.). Pearson (فصل عن إسهام ليندزلي التأسيسي في القياس الدقيق للسلوك).

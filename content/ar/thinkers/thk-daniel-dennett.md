@@ -10,7 +10,7 @@ crumb: "أعلام الفلسفة والفكر ← دانيال دينيت"
 dates: "ماساتشوستس (الولايات المتحدة) · 1942–2024 م"
 country: "ماساتشوستس (الولايات المتحدة)"
 language: "الإنجليزية"
-active_start: 1972
+active_start: 1969
 active_end: 2024
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"

@@ -9,6 +9,7 @@ en: "Zen: Rinzai (臨済)"
 crumb: "الفلسفة ← البوذية ← زن: رينزاي"
 dates: "اليابان، الصين، الغرب · من القرن 12 م إلى اليوم"
 country: "اليابان"
+cultural_origin: "east-asian"
 language: "اليابانية، الصينية الكلاسيكية"
 active_start: 1168
 active_end: "مستمر"
@@ -18,7 +19,7 @@ related:
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهيامaka", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "نصوص Hakuin Ekaku (Wild Ivy، Yasen Kanna)، وأطروحات Eisai، وDōgen (Shōbōgenzō) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Rinzai و Sōtō في السياق الياباني يستحق بحثاً نقدياً."
@@ -81,3 +82,9 @@ gaps:
 - **التوتر مع Tódai-Ji**: Rinzai في الأصل تنافس Tendai، ثم انفصلت كلياً.
 - **السياسات في الساموراي**: ارتباط Zen بفئة الساموراي في Edo، لا سيما Hakuin في التنظيم.
 - **الزواج**: بعد الإصلاح Meiji (1872)، صار الكهنة متزوجين.
+
+## المصادر
+
+- Dumoulin, Heinrich. *Zen Buddhism: A History, Volume 2: Japan*, trans. James W. Heisig and Paul Knitter. World Wisdom, 2005.
+- Hakuin Ekaku. *Wild Ivy: The Spiritual Autobiography of Zen Master Hakuin*, trans. Norman Waddell. Shambhala, 1999.
+- Suzuki, D. T. *Zen and Japanese Culture*. Princeton University Press, 1959.

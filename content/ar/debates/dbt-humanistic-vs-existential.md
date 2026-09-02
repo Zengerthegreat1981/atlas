@@ -21,10 +21,8 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
-- id: "rel-psychoanalysis-humanistic", title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي", type: "علاقة بين مدرستين"
 gaps:
-  - "المواقف التفصيلية لماسلو من سارتر في عام 1962 تحتاج تحقق."
-  - "لا يوجد اقتباس مباشر موثوق من نص الجدل بعد."
+  - "نص مناظرة مباشرة موثقة بين ماسلو وسارتر أو مراسلات بينهما لم يُعثر عليها."
 ---
 # الإنسانية في مقابل الوجودية: تكامل أم تعارض؟
 
@@ -93,3 +91,11 @@ gaps:
 - الوجودية: «العميل يواجه حقائق قاسية يجب الاعتراف بها».
 
 كلا الموقفين يمكن الدفاع عنه، والتكامل أكثر فائدة من الانحياز.
+
+## المصادر
+
+- Rollo May, Ernest Angel & Henri Ellenberger (eds.), *Existence: A New Dimension in Psychiatry and Psychology*, Basic Books, 1958.
+- Abraham Maslow, *Toward a Psychology of Being*, Van Nostrand, 1962.
+- Carl Rogers, *A Way of Being*, Houghton Mifflin, 1980.
+- Irvin Yalom, *Existential Psychotherapy*, Basic Books, 1980.
+- Emmy van Deurzen, *Existential Counselling in Practice*, Sage, 1988.

@@ -11,6 +11,10 @@ dates: "أثينا · ق. 340 ق.م"
 language: "الإغريقية القديمة"
 active_start: -340
 active_end: -340
+author: "أرسطو"
+author_slug: "thk-aristotle"
+publication_year: -340
+original_language: "الإغريقية القديمة"
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
@@ -18,7 +22,6 @@ related:
 - id: "con-virtue-ethics", title: "أخلاق الفضيلة", type: "مفهوم"
 gaps:
   - "الجدل حول تسمية الكتاب نسبة إلى نيقوماخوس والد أرسطو أم ابنه."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الأخلاق النيقوماخية لأرسطو

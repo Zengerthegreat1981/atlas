@@ -13,7 +13,7 @@ active_end: 1962
 country: "فرنسا"
 language: "الفرنسية"
 edges:
-- rel: "belongs_to", target: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"

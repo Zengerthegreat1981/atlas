@@ -13,14 +13,13 @@ active_start: 1985
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج بجلسة واحدة", target_type: "تيار"
+- rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
 - id: "thk-mhoyt", title: "مايكل ف. هويت", type: "مفكر"
 - id: "br-single-session-therapy", title: "العلاج بجلسة واحدة", type: "تيار"
 - id: "thk-wdryden", title: "ويندي دريدن", type: "مفكر"
 gaps:
-  - "سنة الميلاد/الوفاة الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على سنة ميلاد موشيه تالمون في مصدر أولي أو ثانوي متاح."
 ---
 
 # موشيه تالمون
@@ -46,3 +45,9 @@ gaps:
 
 ## القيد
 - **أبحاث SST** في جزء منها قائمة على "العيادات المُتاحة" (Walk-in)، وقد لا تعكس مرضى العلاج المنتظم.
+
+## المصادر
+
+- Talmon, M. (1990). *Single-Session Therapy: Maximizing the Effect of the First (and Often Only) Therapeutic Encounter*. Jossey-Bass.
+- Talmon, M., Hoyt, M.F. & Rosenbaum, R. (1990). "Effective single-session therapy." In Hoyt, M.F. (ed.), *Handbook of Brief Psychotherapy*.
+- Hoyt, M.F. & Talmon, M. (eds.) (2014). *Capturing the Moment: Single Session Therapy and Walk-In Services*. Crown House Publishing.

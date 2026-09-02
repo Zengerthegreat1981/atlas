@@ -3,6 +3,7 @@ slug: "sch-intercultural-philosophy"
 id: "SCH-0147"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "european"
 level: "متوسط"
 title: "الفلسفة بين-الثقافية"
 en: "Intercultural Philosophy"
@@ -17,7 +18,7 @@ edges:
 related:
 - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
 - id: "con-interculturality", title: "البين-ثقافية (Interkulturalität)", type: "مفهوم"
 - id: "wrk-intercultural-philosophy-wimmer", title: "الفلسفة البين-ثقافية (Interkulturelle Philosophie)", type: "عمل / كتاب"
 gaps:
@@ -56,3 +57,10 @@ gaps:
 
 - تواجه انتقادات بسبب غياب معايير صارمة للمقارنة.
 - تواجه انتقادات بسبب الاستخدام «الليبرالي» للثقافات.
+
+## المصادر
+
+- Wimmer, F. M. (2004). *Interkulturelle Philosophie: Eine Einführung*. WUV Universitätsverlag.
+- Fornet-Betancourt, R. (2001). *Transformación intercultural de la filosofía*. Desclée de Brouwer.
+- Mall, R. A. (2000). *Intercultural Philosophy*. Rowman & Littlefield.
+- Kimmerle, H. (2002). *Interkulturelle Philosophie zur Einführung*. Junius Verlag.

@@ -12,10 +12,8 @@ active_start: 1500
 active_end: "مستمر"
 language: "الإسبانية"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "أطر غير غربية", target_type: "مدرسة"
 related:
-- id: "con-soul", title: "الروح (Anima)", type: "مفهوم"
+- id: "con-soul", title: "النفس وصنع النفس", type: "مفهوم"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:

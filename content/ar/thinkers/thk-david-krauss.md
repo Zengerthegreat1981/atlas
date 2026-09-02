@@ -12,8 +12,9 @@ active_end: 2010
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاج بالتصوير الضوئي (PhotoTherapy)", target_type: "مدرسة"
+edges: []
+related:
+- id: "thk-judy-weiser", title: "جودي وايزر", type: "مفكر"
 gaps:
   - "لا تتوفر معلومات مؤكدة عن تاريخ الميلاد أو المسار الأكاديمي الكامل لكراوس."
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."

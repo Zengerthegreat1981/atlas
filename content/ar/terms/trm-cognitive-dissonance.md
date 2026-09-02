@@ -12,14 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "thk-lfestinger", title: "ليون فستنغر", type: "مفكر"
+- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "wrk-festinger-cognitive-dissonance", title: "نظرية التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
+- id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي", type: "دراسة وبحث"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الْمَوْقِف (con-attitude)"
-  - "رابط مقترح لم يتحقق بعد في الأطلس: التَّنَاقُض (con-dissonance)"
-  - "المصادر الأولية (Festinger 1957) تحتاج مراجعة وتوثيقاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "العلاقة بالاستقطاب السياسي (Political Polarization) المعاصر تحتاج فصلاً."
-  - "الفرق بين التناقض المعرفي والازدواجية المعرفية (Cognitive Duality) يحتاج توثيقاً."
+  - "العلاقة بالاستقطاب السياسي (Political Polarization) المعاصر لم تُغطَّ — تحتاج فصلاً مستقلاً بمصادر حديثة (بعد 2000)."
+  - "الفرق بين التناقض المعرفي (Festinger) والتنافر عند إليوت أرونسون (Aronson, 1969 — نموذج اتساق الذات Self-Consistency) غير موثّق هنا."
 ---
 # التَّنَاقُض المعرفي (Cognitive Dissonance)
 
@@ -31,8 +30,14 @@ gaps:
 
 ## التَّطبيقات
 
-(1) **الِاسْتِهْلاك** (Consumer Behavior): تَغيير «**مَوَاقِف**» (Attitudes) لـ«**تَبْرير**» الشِّراء. (2) **التَّغيير** (Change): تَغيير «**سُلوك**» أَسْهل مِن «**مُعْتَقَد**» في بَعْض السِّياقات. (3) **الإِقْناع** (Persuasion): «**تَغيير مُعْتَقَد**» أَسْهل مِن «**سُلوك**» — «**اتِّخاذ القرار المُسْبَق**» (Pre-decision) يَزيد «**تَفَهُّم**» المُعْتَقَد. (4) **العِلاج المعرفي** (CBT، Festinger، 1964): تَغيير «**أَفْكار تَلقائيَّة**» (Automatic Thoughts) المُتَنَاقِضَة.
+(1) **الِاسْتِهْلاك** (Consumer Behavior): تَغيير «**مَوَاقِف**» (Attitudes) لـ«**تَبْرير**» الشِّراء — أَظْهَرَتْ تَجْرِبَة فِسْتِنْغَر وكَارْلْسْمِيث (Festinger & Carlsmith, 1959) أَنَّ مَنْ حَصَلَ عَلَى دولار واحد فَقَط لِلْكَذِب بِأَنَّ مُهِمَّة مُمِلَّة «مُمْتِعَة» قَيَّمَها فِعْلِيّاً أَكْثَر مُتْعَةً مِمَّن حَصَل عَلَى عِشْرِين دولاراً، لِأَنَّ التَّبْرِير الخارِجي الضَّئيل يَفْرِض تَبْرِيراً داخِليّاً (تَغْيِير المُعْتَقَد). (2) **الِاخْتِيَار** (Post-Decision Dissonance): بَعْدَ اتِّخَاذ قَرَار يَنْتَقِي الفَرد مَعْلومات تُؤَكِّد اخْتِيارَه وَيَتَجَنَّب مَا يُنَاقِضُه (Selective Exposure)؛ وَسَّعَ فِسْتِنْغَر هَذَا فِي كِتَابِه الثَّانِي *Conflict, Decision, and Dissonance* (1964).
 
 ## الفَرق عن «التَّوَتُّر المعرفي»
 
 (1) **التَّنَاقُض المعرفي** (Dissonance): تَضَارُب «**مُعْتَقَد-مُعْتَقَد**» أَو «**مُعْتَقَد-سُلوك**». (2) **التَّوَتُّر المعرفي** (Cognitive Tension): «**إحْساس عام**» بِالانْزِعاج لَدَى عَدَم تَوَافُق مَعَ مَصْدَر. (3) **التَّنَاقُض** (Contradiction): تَضَارُب «**مَنْطقي**» (Logical).
+
+## المصادر
+
+- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
+- Festinger, L., & Carlsmith, J. M. (1959). "Cognitive Consequences of Forced Compliance." *Journal of Abnormal and Social Psychology*, 58(2), 203–210.
+- Festinger, L. (1964). *Conflict, Decision, and Dissonance*. Stanford University Press.

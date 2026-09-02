@@ -11,13 +11,17 @@ dates: "1927 · هايدجر"
 active_start: 1927
 active_end: 1927
 part: "philosophy"
+author: "هايدجر"
+author_slug: "thk-heidegger"
+publication_year: 1927
+original_language: "الألمانية"
 edges:
-- rel: "written_by", target: "هايدجر", target_type: "مفكر"
+- rel: "written_by", target: "thk-heidegger", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
 - id: "wrk-zollikon", title: "ندوات تسوليكون", type: "عمل / كتاب"
-- id: "dbt-boss-binswanger", title: "خصومة قراءته", type: "جدل"
+- id: "dbt-boss-binswanger", title: "بينسوانغر أم بوس؟", type: "جدل"
 gaps:
   - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
   - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"

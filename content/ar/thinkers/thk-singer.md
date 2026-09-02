@@ -19,8 +19,7 @@ related:
 - id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
 - id: "con-cultural-complex", title: "المركّب الثقافي", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
 ---
 
 # توماس سينغر
@@ -41,3 +40,8 @@ gaps:
 ## أهم أعماله
 
 المركّبات الثقافية (Cultural Complexes and the Soul of America, 2019) · الآلهة الجرحى (The Wounded Gods, 2013) · المجتمع المحاصَر (A Nation Betrayed, 2003 مع Eli Einbinder).
+
+## المصادر
+
+- Singer, T. & Kimbles, S. (eds.) *The Cultural Complex: Contemporary Jungian Perspectives on Psyche and Society* (2004).
+- Singer, T. *Cultural Complexes and the Soul of America* (2019).

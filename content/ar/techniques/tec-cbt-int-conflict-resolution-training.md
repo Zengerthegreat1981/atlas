@@ -12,16 +12,17 @@ active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "traditional"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
+- id: "tec-gottman-method", title: "طريقة غوتمان في العلاج الزوجي", type: "تقنية/تدخل علاجي"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "التمييز بين تدريب حل النزاعات (Deutsch) ونموذج Gottman يستحق توثيقاً."
+  - "منظّر النزاع البنّاء الأساسي في الأدبيات هو مورتون دويتش (Morton Deutsch)، ولا يوجد له ملف مفكر في الأطلس؛ thk-deutsch يشير لهيلين دويتش (محللة نفسية مختلفة تماماً) ولا يصح استخدامه هنا."
+  - "لا توجد في الأطلس دراسة مسندة (stu-) تقيس فعالية هذا البرنامج بالتحديد بأرقام أو تصميم بحثي؛ التوثيق الحالي وصفي إجرائي فقط."
 ---
 
 # تدريب حل النزاعات

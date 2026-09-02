@@ -6,56 +6,52 @@ level: "متوسط"
 title: "دانيال هيوز"
 en: "Daniel A. Hughes"
 crumb: "العلاج التفاعلي النمائي الثنائي (DDP) ← مؤسس ← دانيال هيوز"
-dates: "الولايات المتحدة · وُلد 1953"
+dates: "الولايات المتحدة · [غير موثّق تحت هذا الـslug]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: 1990
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "العلاج التفاعلي النمائي الثنائي (DDP)", target_type: "مدرسة"
-related:
-- id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
-- id: "thk-jbaylin", title: "جون بايلين", type: "مفكر"
-- id: "thk-sdouglas", title: "سو دوغلاس", type: "مفكر"
-- id: "thk-arthurbeckerweidman", title: "آرثر بيكر-ويدمان", type: "مفكر"
-- id: "thk-brianhug", title: "بريان هيوز", type: "مفكر"
-- id: "thk-jonathanbaylin", title: "جوناثان بايلن", type: "مفكر"
-- id: "thk-theresaglasser", title: "تيريزا غلاسر", type: "مفكر"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: آرثر بيكر-ويدمان (thk-arthurbeckerweidman)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بريان هيوز (thk-brianhug)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوناثان بايلن (thk-jonathanbaylin)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تيريزا غلاسر (thk-theresaglasser)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بروس بيركنز (thk-bruceperkins)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كولين كيلي (thk-kelleycolleen)."
+  - "**حُجر 2026-08-27 (Task 2.25):** الشخص الموصوف — دانيال أ. هيوز (Daniel A. Hughes)، مؤسس العلاج
+    التفاعلي النمائي الثنائي (DDP) — موثّق أكاديمياً بالكامل ومحتوى الملف الأصلي صحيح جوهرياً، لكن
+    الـslug 'thk-sgreys' لا يمتّ لاسمه بصلة إطلاقاً (لا بالعربية ولا بالإنجليزية) — علامة التحذير
+    المذكورة صراحة في القاعدة رقم 6 (إعادة تدوير slug لسيرة شخص مختلف تماماً تحته)."
+  - "النسخة الأصلية محفوظة في archive."
+  - "طلب slug جديد صحيح (`thk-dhughes`) مسجَّل في agents_specs/requests-minimax.md — يبدأ بحرف
+    'd'، خارج نطاق حروف MiniMax (m→z)، يحتاج مساراً منفصلاً."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
 ---
 
 # دانيال هيوز
 
-معالج نفسي أمريكي، أخصائي في علاج الأطفال والمراهقين المتبنين والمُهمَّلين، مؤسس **العلاج التفاعلي النمائي الثنائي** (Dyadic Developmental Psychotherapy - DDP). طوّر نموذجه لدمج علم نفس النمو مع ممارسات تبني الأطفال.
+(Daniel A. Hughes)
 
-## ما أعطاه
+**هذا الملف في الحجر بسبب تعارض slug، لا بسبب عدم وجود الشخص.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-sgreys.md.archived.2026-08-27`
 
-- **DDP كنموذج علاجي** قائم على "التجارب التصحيحية" (Corrective Experiences) في علاقة آمنة بين الوالد والطفل.
-- **"P.A.C.E."** (Playfulness, Acceptance, Curiosity, Empathy): 4 أساليب أساسية يجب أن يمتلكها الوالد/المعالج.
-- **مفهوم "الذاكرة الضمنية"** (Implicit Memory): كيف تُخزَّن تجارب الإهمال المبكر.
-- **"اللعب مع الأذى"** (Theraplay-influenced) لتفكيك دفاعات الطفل.
-- **"التواصل من القلب"** (Heart-based Parenting).
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-هيوز من أهم منظّري **علاج إدماج الأطفال بالتبني**، مع تكامل بين Bowlby، Schore، وBruce Perry. نموذج DDP له تطبيقات واسعة في أمريكا وأوروبا.
+هذا الـslug كان يحمل سيرة صحيحة جوهرياً لدانيال أ. هيوز (Daniel A. Hughes)، معالج نفسي أمريكي
+ومؤسس العلاج التفاعلي النمائي الثنائي (DDP) — شخص حقيقي وموثّق أكاديمياً. المشكلة ليست في وجوده بل
+في أن سلسلة الأحرف "sgreys" لا تطابق اسمه بأي صيغة (لا "Daniel" ولا "Hughes"). نشر الملف تحت هذا
+الـslug يخالف القاعدة رقم 6 صراحة (إعادة تدوير slug شخص لسيرة شخص آخر تماماً)، فتم حجزه ريثما يُتاح
+slug صحيح.
 
-## أهم أعماله
+**السبب:** تعارض/عدم مطابقة slug — لا تعارض هوية في المحتوى نفسه.
 
-- *Facilitating Developmental Attachment* (1997).
-- *Building the Bonds of Attachment* (1998، 2002 — كتابان).
-- *Attachment-Focused Parenting* (2009).
-- *The Neurobiology of Attachment-focused Therapy* (2017).
+## للمتابعة
 
-## اقتباسات مختارة
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-sgreys.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md` (طلب `thk-dhughes`)
 
-لا يوجد اقتباس مباشر موثوق متاح.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-sgreys.md.archived.2026-08-27`
+- طلبات البحث: `agents_specs/requests-minimax.md`

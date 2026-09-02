@@ -9,8 +9,8 @@ crumb: "مدرسة التحليل النفسي ← الناس ← كاثرين �
 dates: "بريطانيا · معاصرة"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1985
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -20,12 +20,12 @@ related:
 - id: "thk-tkirsch", title: "توماس ب. كيرش", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "تأكَّد عبر البحث أنها محلّلة يونغية بريطانية، عضو في الجمعية البريطانية للتحليل النفسي التحليلي (SAP) والرابطة الدولية لعلم النفس التحليلي (IAAP)، وشاركت مع جان وينر في نشر أعمال حول التحليل النفسي عبر الثقافات (منها فصل مشترك في *Jungian Analysts working across Cultures*, Routledge 2021/Spring Journal 2015) — يدعم روايتها كمدرِّبة في مشروع روسيا لا كـ'أستاذة فخرية بجامعة East London'."
 ---
 
 # كاثرين كروثر
 
-محلّلة يونغية بريطانية، شريكة جان وينر في «Russian Revival Project»، وأستاذة فخرية في جامعة East London.
+محلّلة نفسية يونغية بريطانية، عضو الجمعية البريطانية لعلم النفس التحليلي (SAP) والرابطة الدولية لعلم النفس التحليلي (IAAP)، شريكة جان وينر في تدريب التحليل اليونغي في روسيا.
 
 ## ما أعطته
 
@@ -40,4 +40,5 @@ gaps:
 
 ## أهم أعمالها
 
-ممارسة الساندبلاي (Sandplay Practice, 2011، مع برادواي).
+- Wiener, J., & Crowther, C. (المحرران)، *Jungian Analysts Working Across Cultures: From Tradition to Innovation*, Routledge/Spring Journal، (2015/2021).
+- ممارسة الساندبلاي (Sandplay Practice, 2011، مع برادواي).

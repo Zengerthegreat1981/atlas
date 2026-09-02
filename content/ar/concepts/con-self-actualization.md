@@ -14,12 +14,12 @@ edges:
 - rel: "formulated_by", target: "thk-maslow", target_type: "مفكر"
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
-- id: "con-peak-experience", title: "خبرة الذروة", type: "مفهوم"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي (Actualizing Tendency)", type: "مفهوم"
+- id: "con-peak-experience", title: "خبرة الذروة (Peak Experience)", type: "مفهوم"
 - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
 gaps:
   - "التمييز بين تحقيق الذات كحالة (State) وكعملية (Process) يحتاج تحقق."
-  - "لا يوجد اقتباس مباشر موثوق من ماسلو بعد."
+  - "اقتباس مباشر من ماسلو نفسه (بنص عربي أو إنجليزي موثّق بالصفحة) لم يُدرج بعد في هذا الملف."
 ---
 
 # تحقيق الذات (Self-Actualization)
@@ -48,6 +48,10 @@ gaps:
 - الشعور بالامتنان (Wonder) والقداسة.
 - الخبرة الصوفية المتكررة (Plateau Experience).
 - إيثار المساهمة في قضية أعمق من الذات.
+
+## علاقته بمفاهيم أخرى
+
+يتقاطع تحقيق الذات عند ماسلو مع «نزعة التحقق الذاتي» (Actualizing Tendency) التي صاغها كارل روجرز في كتابه *On Becoming a Person* (1961): روجرز يفترض أن هذه النزعة قوة فطرية مستمرة في كل كائن حي، بينما ماسلو يجعل تحقيق الذات قمة هرمية لا تُبلغ إلا بعد إشباع الاحتياجات الأدنى. الفرع المتخصص «علم نفس تحقيق الذات والدافعية الإنسانية» يجمع أعمال ماسلو اللاحقة عن هذا المفهوم تحديداً، بما فيها *Farther Reaches of Human Nature* (1971).
 
 ## في مقابل الدوافع الأدنى
 

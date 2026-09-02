@@ -8,12 +8,12 @@ en: "Wilhelmus Luijpen"
 crumb: "المدرسة الوجودية ← الناس ← فيلهلموس لايتبن"
 dates: "هولندا · 1922–1980"
 active_start: 1960
-active_end: 1969
+active_end: 1980
 country: "هولندا"
 language: "الهولندية / الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -26,7 +26,7 @@ gaps:
 
 # فيلهلموس لايتبن
 
-فيلسوف وظاهراتي هولندي، أستاذ الفلسفة في جامعة ليدن، صاحب الكتاب المرجعي العالمي «الفينومينولوجيا الوجودية» (Existential Phenomenology).
+فيلسوف وظاهراتي هولندي، كان من الهيئة الأكاديمية في جامعة تيلبورغ وجامعة دلفت التقنية بهولندا، صاحب الكتاب المرجعي العالمي «الفينومينولوجيا الوجودية» (Existential Phenomenology).
 
 ## ما أعطاه
 

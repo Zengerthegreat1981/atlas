@@ -12,8 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
+- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)", type: "مفهوم"
+- id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
+- id: "dbt-anthropocentrism-vs-biocentrism-ethics", title: "المركزية البشرية مقابل المركزية الحيوية البيئية", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press الأصلية (1949)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -35,5 +38,9 @@ gaps:
 ## الفرق عن مفاهيم مشابهة
 
 - **تختلف عن حقوق الحيوان** (Singer، Regan): تَشمل الكائنات غير-الحية (الماء، التربة، النظم البيئية).
-- **تختلف عن الإيكولوجيا العميقة** (Næss): تَركّز على المجتمع البيئي، لا على القيمة الذاتية لكل كائن.
+- **تختلف عن الإيكولوجيا العميقة** (Næss، **con-deep-ecology-naess** و**sch-deep-ecology**): تَركّز على المجتمع البيئي، لا على القيمة الذاتية لكل كائن.
 - **تَتقاطع مع الـHolism**: تَرى الكلّ أكبر من مجموع أجزائه.
+
+## روابط ذات صلة
+
+ينتمي هذا المفهوم إلى **sch-environmental-ethics** بوصفها المدرسة التي احتضنت مشروع ليوبولد، وقد صاغه **thk-leopold** نفسه في كتابه *A Sand County Almanac*. يتقاطع الجدل حول أخلاق الأرض مباشرة مع **dbt-anthropocentrism-vs-biocentrism-ethics** بوصفه سؤالاً عن موقع الإنسان من المجتمع البيئي.

@@ -14,6 +14,8 @@ edges:
 related:
 - id: "thk-obecker", title: "أوسكار بيكر", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"
+- id: "wrk-being-and-time-heidegger", title: "الكينونة والزمان لمارتن هايدغر", type: "عمل"
 - id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«الجماليات» (con-aesthetics) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -36,3 +38,5 @@ gaps:
 ## الأثر
 
 أثّر على التفكير في الفلسفة الموسيقية الألمانية (إريك زورنسن، كارل دالهاوس) وعلى الظواهرية الفرنسية في القرن العشرين.
+
+طوّر أوسكار بيكر (thk-obecker)، تلميذ مارتن هايدجر (thk-heidegger)، هذا النقد انطلاقاً من تحليل الدازاين في كتاب الكينونة والزمان (wrk-being-and-time-heidegger)، ويندرج المفهومان معاً ضمن تقليد الظاهراتية الوجودية (sch-phenomenology-existential) الذي ينتمي إليه بيكر كأحد امتداداته النقدية. يظل المفهوم في جوهره قراءة بديلة لمفهوم الوجود (con-existence-existentialism) ذاته الذي بنى عليه هايدجر تحليله الأنطولوجي.

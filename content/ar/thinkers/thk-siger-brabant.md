@@ -19,7 +19,6 @@ related:
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 gaps:
   - "لا يزال هناك جدل حول نهاية حياته (هل قُتل أم فرّ إلى إيطاليا؟)."
-  - "لا يوجد اقتباس مباشر موثوق من 'De Anima Intellectiva'."
 ---
 
 # سيجير دي برابانت
@@ -46,3 +45,9 @@ gaps:
 - De Aeternitate Mundi
 - Quaestiones on the Physics (مع Boethius of Dacia)
 - De Sophisticis Elenchis (تعليق)
+
+## المصادر
+
+- Van Steenberghen, F. (1977). *Maître Siger de Brabant*. Publications Universitaires de Louvain.
+- Putallaz, F. & Imbach, R. (1997). *Profession philosophe: Siger de Brabant*. Cerf.
+- Dales, R. C. (1984). *The Problem of the Rational Soul in the Thirteenth Century*. Brill (فصل عن سيجير وتعليم وحدة العقل).

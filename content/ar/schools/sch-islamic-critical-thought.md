@@ -12,15 +12,14 @@ country: "مصر، المغرب، تونس، العراق، المهجر (فرن
 language: "العربية، الفرنسية، الإنجليزية"
 active_start: 1950
 active_end: "مستمر"
+cultural_origin: "islamic-arabic"
 edges:
-- rel: "belongs_to", target: "الفكر الإسلامي الحديث", target_type: "مظلة"
 related:
-- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
+- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
 - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
 - id: "sch-political-islam", title: "الإسلام السياسي (كتيار فكري)", type: "مدرسة"
 gaps:
   - "التفريق بين «النقد التراثي» (الجابري) و«النقد الحداثي» (أركون) و«النقد السياسي» (عبد الوهاب المسيري) يحتاج تجميعاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من «التراث والحداثة» لمحمد أركون."
 ---
 
 # الفكر الإسلامي النقدي المعاصر
@@ -104,3 +103,10 @@ gaps:
 - **الفقهية التجديدية**: محمد شحرور، طلال أسد: يركزون على الفقه.
 - **السياسية**: عبد الوهاب المسيري: نقد الإسلاموية.
 - **الفلسفية الحداثية**: طه عبد الرحمن: إعادة بناء فلسفة إسلامية.
+
+## المصادر
+
+- Arkoun, Mohammed. *Rethinking Islam: Common Questions, Uncommon Answers*. Westview Press, 1994.
+- al-Jabri, Mohammed Abed. *Naqd al-'Aql al-'Arabi* (نقد العقل العربي)، 4 مجلدات. مركز دراسات الوحدة العربية، 1984-2001.
+- Kurzman, Charles (ed.). *Liberal Islam: A Sourcebook*. Oxford University Press, 1998.
+- Kersten, Carool. *Cosmopolitans and Heretics: New Muslim Intellectuals and the Study of Islam*. Columbia University Press, 2011.

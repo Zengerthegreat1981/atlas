@@ -13,10 +13,9 @@ part: "psychology"
 active_start: 1965
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم الأعصاب الإدراكي وتدريب الانتباه", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "exp-antonin-artaud-rodez-asylum", title: "أنطونيو داماسيو", type: "خبرة معيشة"
-- id: "sch-biological-neuro", title: "علم النفس البيولوجي والأعصاب", type: "مدرسة"
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 gaps:
   - "تصحيح نقحرة (2026-08-25): كان الاسم مكتوباً «مايكل بوشنر»، والصواب «مايكل بوزنر» (Posner)."
@@ -33,24 +32,26 @@ gaps:
 
 - **"نموذج شبكات الانتباه" (Attentional Networks, 1990)**: تمييز بوزنر بين ثلاث شبكات عصبية مستقلة: شبكة التنبيه (Alerting) المنبثقة من قشرة الفص الجداري الأيمن، شبكة التوجيه (Orienting) المرتبطة بالفص الجداري العلوي، وشبكة التحكم التنفيذي (Executive Control) المرتبطة بقشرة الفص الجبهي الأمامي والـACC.
 - **"مهمة التصويب" (Attention Network Test, ANT, 2002)**: اختبار تجريبي قياسي يقيس فاعلية كل شبكة من الثلاث بشكل كمّي، استخدمته مئات الدراسات اللاحقة.
-- **"الإدراك البصري والانتباه" (Cognition: An Introduction, 1973، مع M. J. Bochnak)**: كتاب أكاديمي في الإدراك البصري صار مرجعاً معيارياً.
+- **"الإدراك البصري والانتباه" (Cognition: An Introduction, 1973)**: كتاب أكاديمي في الإدراك البصري صار مرجعاً معيارياً.
 - **"الانتباه والخبرات" (Attention and Performance, 1967-2010)**: تحرير سلسلة المؤتمرات الـ14 لـ"Attention and Performance" التي أسّست لعلم النفس المعرفي التجريبي.
 - **"التطبيق التربوي للتدريب الذهني" (Mindfulness and Education, العقد الثاني من القرن الحادي والعشرين)**: بحوث لاحقة في تطبيق تمارين الانتباه (AT – Attention Training) على الأطفال في المدارس.
 - **"نظرية النموّ التراكمي للانتباه"**: تفسير تطوّر قدرات الانتباه من الطفولة إلى البلوغ، تربط بين النضج العصبي والممارسة.
 
 ## موقعه من التيار
 
-يقع بوزنر على رأس "علم الأعصاب الإدراكي التجريبي" (Experimental Cognitive Neuroscience)، وهو امتداد مباشر لـ"ثورة الإدراك" (Cognitive Revolution) في خمسينيات القرن العشرين. تأثّر بـDonald Broadbent (نظرية المرشّح المبكرة) وUlric Neisser (مؤسّس علم النفس المعرفي)، وامتدّ تأثيره إلى David Eagleman وAntonio Damasio. يتقاطع مع "تدريب الانتباه الذهني" (Mindfulness Training) في الممارسة التطبيقية، لكنه يبقى أكاديمياً بحتاً في التأصيل النظري. ولا ينبغي الخلط بينه وبين عالم النفس الاجتماعي *Michael E. Posner* (نفس الاسم) أو الفيلسوف الأخلاقي *Michael L. Posner* في جامعة شيكاغو.
+يقع بوزنر على رأس "علم الأعصاب الإدراكي التجريبي" (Experimental Cognitive Neuroscience)، وهو امتداد مباشر لـ"ثورة الإدراك" (Cognitive Revolution) في خمسينيات القرن العشرين. تأثّر بـDonald Broadbent (نظرية المرشّح المبكرة) وUlric Neisser (مؤسّس علم النفس المعرفي)، وتعاون مباشرة مع Marcus Raichle في تصوير الدماغ الوظيفي. يتقاطع مع "تدريب الانتباه الذهني" (Mindfulness Training) في الممارسة التطبيقية، لكنه يبقى أكاديمياً بحتاً في التأصيل النظري.
 
 ## أهم أعماله
 
-- *Cognition: An Introduction* (1973، مع Bochnak).
+- *Cognition: An Introduction* (1973).
 - *Attention and Performance* (محرّر، سلسلة من 14 مجلّداً، 1967–2010).
 - *Images of Mind* (1994، مع Raichle).
 - *Attention: The Mechanisms of Consciousness* (1996، محرّر مع صدر العدد).
 - *The Attentive Brain* (محرر، 1996، مع صدر Daniels وParasuraman).
 - "Attention as an Organ System" (مقال مؤسِّس، 2007، مع Petersen).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثّق في هذا الملف.
+- Posner, M. I., & Petersen, S. E. (1990). "The Attention System of the Human Brain." *Annual Review of Neuroscience*, 13.
+- Fan, J., McCandliss, B. D., Sommer, T., Raz, A., & Posner, M. I. (2002). "Testing the Efficiency and Independence of Attentional Networks." *Journal of Cognitive Neuroscience*, 14(3).
+- Posner, M. I., & Raichle, M. E. (1994). *Images of Mind*. Scientific American Library.

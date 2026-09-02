@@ -28,7 +28,7 @@ gaps:
 
 ## ما أعطاه
 
-قدّم «النظرية البيئية للعقل» (Towards an Ecological Theory of Mind, 2026)، وهي محاولة لتحويل مفهوم الأركيتيب من «صورة ذهنية ثابتة» إلى «وظيفة بينية» (function-between) ديناميكية بين الكائن والبيئة، مستلهمةً من James Gibson في الإدراك الحسي. ثمرة هذا التحوّل: كتاب «السُّلَّم اللانهائي: مقاربة يونغية تطورية» (The Infinite Ladder, 2025).
+عمله المرجعي هو مشروع «السُّلَّم اللانهائي» (The Infinite Ladder)، الصادر عن دار Routledge سنة 2025 في مجلَّدين: الأول *From Biology to Psychology in Jungian and Evolutionary Theory* والثاني *A Jungian and Evolutionary Approach to Psychology and Culture*. يعيد فيه كارطا وضع إرث يونغ — الذات، اللاوعي الجمعي، ونظرية الأركيتيب — في سياق المعرفة المعاصرة بعلم الأعصاب والانفعال ونمو الرضيع والأنثروبولوجيا.
 
 ## موقعه من التيار
 
@@ -39,4 +39,4 @@ gaps:
 
 ## أهم أعماله
 
-«السُّلَّم اللانهائي: مقاربة يونغية تطورية» (The Infinite Ladder: A Jungian and Evolutionary Approach, 2025) · «علم النفس التحليلي اليوم» (مقابلات ومقالات متعددة) · تحرير «موسوعة أنظمة دعم الحياة» لـ UNESCO (مدخل علم النفس).
+*From Biology to Psychology in Jungian and Evolutionary Theory: The Infinite Ladder* (2025) · *A Jungian and Evolutionary Approach to Psychology and Culture: The Infinite Ladder* (2025).

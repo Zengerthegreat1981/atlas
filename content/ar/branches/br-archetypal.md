@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-hillman", target_type: "مفكر"
 related:
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 - id: "con-care-for-soul", title: "رعاية النفس", type: "مفهوم"
 gaps:

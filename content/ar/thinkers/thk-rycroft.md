@@ -18,8 +18,8 @@ related:
 - id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
+  - "تفاصيل تدريبه التحليلي الدقيقة في British Psychoanalytical Society (سنوات الإشراف، أسماء لجان التدريب) غير موثّقة هنا."
 ---
 
 # تشارلز ريكروفت
@@ -40,3 +40,8 @@ gaps:
 ## أهم أعماله
 
 «القاموس النقدي للتحليل النفسي» (A Critical Dictionary of Psychoanalysis, 1968) · «براءة الأحلام» (The Innocence of Dreams, 1979) · «التحليل النفسي وما بعده» (Psychoanalysis and Beyond, 1985).
+
+## المصادر
+- Rycroft, C. (1968). *A Critical Dictionary of Psychoanalysis*. Thomas Nelson.
+- Rycroft, C. (1979). *The Innocence of Dreams*. Hogarth Press.
+- Rycroft, C. (1985). *Psychoanalysis and Beyond*. Chatto & Windus.

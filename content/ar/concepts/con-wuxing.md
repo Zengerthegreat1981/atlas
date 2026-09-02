@@ -12,12 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-yinyang", target_type: "مدرسة"
 related:
-- id: "sch-yinyang", title: "مدرسة الين-يانغ (الطبيعيون)", type: "مدرسة"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)", type: "مدرسة"
 - id: "thk-zou-yan", title: "زو يان", type: "مفكر"
 - id: "con-yin-yang", title: "الين-يانغ (陰陽) — التقابل الكوني", type: "مفهوم"
 gaps:
   - "التمييز بين 'Wuxing' في 'Shang Shu' (كتاب التواريخ) وفي 'Zou Yan' وفي 'Baihu Tong' لم يُحلّ في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."
+  - "لا يوجد ربط موثّق بملف مفهوم مخصّص لكونفوشيوسية هان أو للطب الصيني التقليدي في هذا الأطلس؛ الإشارة إليهما في المتن سياقية فقط."
 ---
 
 # الدورات الخمس (五行 wǔxíng)
@@ -46,3 +46,10 @@ gaps:
 - الطب الصيني التقليدي: تتحكّم الدورات الخمس في الأعضاء والأعشاب الطبية.
 - فنغ شوي (القرن الثامن الميلادي): تحدد الدورات الخمس اتجاهات المباني وألوانها.
 - القرنان العشرون والحادي والعشرون: استُخدمت في الطب الصيني التقليدي (TCM) وعلم البيئة والنقد الحداثي.
+
+## المصادر
+
+- Lüshi Chunqiu (呂氏春秋)، القرن الثالث ق.م، الفصول الكوسمولوجية عن الدورات الأربع والخمس.
+- Sima Qian, *Shiji* (史記)، القرن الثاني ق.م، ترجمة زو يان في «مِنغ زي شيون تشينغ لييه تشوان».
+- A. C. Graham, *Disputers of the Tao: Philosophical Argument in Ancient China*, Open Court, 1989.
+- Nathan Sivin, "State, Cosmos, and Body in the Last Three Centuries B.C.", *Harvard Journal of Asiatic Studies* 55, no. 1 (1995).

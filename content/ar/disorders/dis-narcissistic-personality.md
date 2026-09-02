@@ -12,9 +12,6 @@ active_start: 1980
 active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
-edges:
-- rel: "classified_in", target: "classification-dsm-5-tr", target_type: "نظام تصنيف"
-- rel: "classified_in", target: "classification-icd-11", target_type: "نظام تصنيف"
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
@@ -23,17 +20,17 @@ related:
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-giving-and-receiving-feedback", title: "إعطاء وتلقّي التغذية الراجعة", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-giving-and-receiving-feedback", title: "إعطاء وتلقّي الملاحظات", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-mind-journaling-for-self-reflection", title: "تدوين اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "تبنّي المنظور", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-life-compass", title: "بوصلة الحياة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-labeling-emotions", title: "تسمية المشاعر", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
@@ -52,7 +49,6 @@ gaps:
   - "التمييز بين Narcissistic Grandiosity و Narcissistic Vulnerability (التنظيم الفرعي في الأدبيات الحديثة) لم يُوثَّق بدقة."
   - "الفاعلية النسبية لـ Schema Therapy مقابل Transference-Focused Psychotherapy في NPD لم تُقارَن من مصدر أولي."
   - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # اضطراب الشخصية النرجسية
@@ -184,6 +180,14 @@ gaps:
 - استخدام مواد مُفرط كتعويض.
 - صعوبات قانونية أو مالية بسبب الاستغلال.
 - طلب العلاج من الشريك/الأسرة (حافز خارجي).
+
+## السقف الإكلينيكي
+
+هذا المدخل، كسائر مداخل نوع 'الاضطراب/الحالة الإكلينيكية' في هذا الأطلس، يلتزم بوصف الفئة التشخيصية معرفياً كما وردت في DSM-5-TR وICD-11 دون تقديم أي تقييم تشخيصي مباشر للقارئ أو توجيه علاجي فردي — الوصف لا التشخيص ولا العلاج. تمييز NPD عن "النرجسية الصحية" أو عن السمات القيادية/الكاريزمية يتطلب تقييماً إكلينيكياً متخصصاً لا يوفره هذا المدخل.
+
+## العلاقة بالمفهوم الفلسفي المقابل
+
+يجب عدم الخلط بين اضطراب الشخصية النرجسية كفئة تشخيصية رسمية (معايير Cluster B في DSM-5-TR، أو نمط سمة Detachment/Dissociality في ICD-11) وبين 'عقدة الإله' (con-god-complex) كما وثّقها إرنست جونز أصلاً عام 1913 — الأخيرة مفهوم وصفي شعبي/تحليلي غير تشخيصي عن نمط استعلاء وشعور بالعصمة قد يظهر لدى أفراد لا يستوفون معايير NPD الإكلينيكية إطلاقاً (كبار الجراحين أو القادة مثلاً)، بينما NPD فئة سريرية تتطلب استيفاء 5 معايير من 9 وتسبب خللاً وظيفياً موثقاً.
 
 ## الحدود والمخاطر
 

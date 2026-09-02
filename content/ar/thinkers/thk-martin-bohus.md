@@ -73,3 +73,9 @@ gaps:
 - أكثر من **15,000 ممارس DBT** تخرّج من برامجه في أوروبا.
 - تأسيس **مجلة Borderline Personality Disorder and Emotion Dysregulation** كمنبر للبحث.
 - تدريب **جيل جديد** من باحثي DBT في هايدلبرغ (Felix Wucherpfennig، Nikolaus Kleindienst، Christiane Otto-Meyer).
+
+## المصادر
+
+- Martin Bohus & Martina Wolf-Arehult, *Interaktives Skillstraining für Borderline-Patienten* (Schattauer, 2009).
+- Martin Bohus, Nikolaus Kleindienst, et al., "A Randomized Controlled Trial of DBT-PTSD for Complex PTSD after Childhood Abuse", *Psychotherapy and Psychosomatics*, vol. 82 (2013).
+- صفحة السيرة الذاتية الرسمية لمارتن بوهوس، المعهد المركزي للصحة النفسية (Zentralinstitut für Seelische Gesundheit)، فرع مانهايم التابع لجامعة هايدلبرغ.

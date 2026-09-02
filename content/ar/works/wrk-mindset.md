@@ -9,8 +9,12 @@ en: "Mindset: The New Psychology of Success"
 crumb: "المعرفية السلوكية ← الأعمال ← العقلية"
 dates: "2006 · كارول دويك"
 language: "الإنجليزية"
+author: "كارول دويك"
+author_slug: "thk-dweck"
+publication_year: 2006
+original_language: "الإنجليزية"
 active_start: 2006
-active_end: 2006
+active_end: 2019
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"

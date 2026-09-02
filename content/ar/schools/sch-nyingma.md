@@ -9,6 +9,7 @@ en: "Nyingma (Old School of Tibetan Buddhism)"
 crumb: "الفلسفة ← البوذية ← البوذية التبتية ← نينغما"
 dates: "التبت · من القرن 8 م إلى اليوم"
 country: "التبت، بوتان، نيبال"
+cultural_origin: "south-asian"
 language: "التبتية"
 active_start: 750
 active_end: "مستمر"
@@ -70,3 +71,10 @@ gaps:
 - ادعاء Terma (الكنوز المخفية) تاريخياً، سؤال نقدي: هل «اكتشافها» كتابة لاحقة مغطاة بطابع ميثولوجي، أم نقل فعلي؟ الجدل لم يُحسم.
 - Dzogchen قد يبدو قريباً من Prāsaṅgika (نفي الجوهر) لكنه يعتمد فلسفياً على Shentong (الجوهر الإيجابي).
 - لا يوجد «مؤسس موحِّد»، بل تبلور عبر قرون.
+
+## المصادر
+
+- Dudjom Rinpoche, Jikdrel Yeshe Dorje (trans. Gyurme Dorje & Matthew Kapstein). *The Nyingma School of Tibetan Buddhism: Its Fundamentals and History*. Wisdom Publications, 1991.
+- Germano, David. "Architecture and Absence in the Secret Tantric History of the Great Perfection (rDzogs Chen)." *Journal of the International Association of Buddhist Studies*, 17(2), 1994.
+- Longchenpa (trans. Herbert V. Guenther). *Kindly Bent to Ease Us*. Dharma Publishing, 1975–1976.
+- Gyatso, Janet. *Apparitions of the Self: The Secret Autobiographies of a Tibetan Visionary* (on Jigme Lingpa). Princeton University Press, 1998.

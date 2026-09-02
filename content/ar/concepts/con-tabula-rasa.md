@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
 gaps:
   - "سابقة أرسطية في 'De Anima' (τύπος) لم تُراجع بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Essay II.i.2' بعد."
@@ -54,3 +54,9 @@ gaps:
 - **«Genetic Knowledge»** (المعرفة الجينية) — علم النفس التطوري، بينكر.
 - **«Cultural Programming»** (البرمجة الثقافية) — في علم النفس الثقافي.
 - **«Empty Organism»** (الكائن الفارغ) — علم النفس السلوكي (Watson, Skinner).
+
+## المصادر
+
+- Locke, J. (1689). *An Essay Concerning Human Understanding*, Book I–II.
+- Aristotle, *De Anima*, Book III, Chapter 4.
+- Pinker, S. (2002). *The Blank Slate: The Modern Denial of Human Nature*. Viking.

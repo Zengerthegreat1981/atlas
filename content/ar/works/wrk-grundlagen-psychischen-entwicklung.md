@@ -8,9 +8,13 @@ en: "Die Grundlagen der psychischen Entwicklung: Eine Einführung in die Kinderp
 crumb: "علم نفس الـ Gestalt ← الأعمال ← أساسيات النمو الذهني"
 dates: "1921 · كورت كوفكا"
 active_start: 1921
-active_end: 1921
+active_end: 1950
 language: "الألمانية"
 part: "psychology"
+author: "كورت كوفكا"
+author_slug: "thk-kkoffka"
+publication_year: 1921
+original_language: "الألمانية"
 edges:
 - rel: "belongs_to", target: "wrk-gestalt-psychology-kohler", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-kkoffka", target_type: "مفكر"
@@ -19,7 +23,6 @@ related:
 gaps:
   - "الترجمة الإنجليزية (1928، Ogden) بعنوان *The Growth of the Mind* هي الأكثر قراءة أكاديمياً — التحقق من دقّتها للنصّ الأصلي لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Koffka في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # أساسيات النمو الذهني

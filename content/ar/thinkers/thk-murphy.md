@@ -18,8 +18,7 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "نظريته في القنوات الحيوية وتأثير الحقل الإنساني في الشخصية تحتاج مراجعة توثيقية."
+  - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
 ---
 
 # غاردنر ميرفي
@@ -39,4 +38,10 @@ gaps:
 
 ## أهم أعماله
 
-الشخصية: مقاربة حيوية-اجتماعية للنشأة والبنية (Personality, 1947) · الإمكانات الإنسانية (Human Potentialities, 1958).
+الشخصية: مقاربة حيوية-اجتماعية للنشأة والبنية (Personality: A Biosocial Approach to Origins and Structure, 1947) · الإمكانات الإنسانية (Human Potentialities, 1958) · تاريخ علم النفس الحديث (An Historical Introduction to Modern Psychology, 1929).
+
+## المصادر
+
+- Gardner Murphy, *Personality: A Biosocial Approach to Origins and Structure*, Harper & Brothers, 1947.
+- Gardner Murphy, *Human Potentialities*, Basic Books, 1958.
+- American Psychological Association — سجل رؤساء الجمعية (Murphy رئيساً عام 1944).

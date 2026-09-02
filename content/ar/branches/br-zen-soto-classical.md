@@ -13,7 +13,7 @@ active_end: 1700
 edges:
 - rel: "belongs_to", target: "sch-zen-soto", target_type: "مدرسة"
 related:
-- id: "thk-dogen", title: "دوغن", type: "مفكر"
+- id: "thk-dogen", title: "دوغن زينجي", type: "مفكر"
 gaps:
   - "ممارسة الشيكانتازا (فقط الجلوس) ونفي الغائية النفعية من التأمل في نصوص إيهي دوغن."
   - "لا يوجد اقتباس مباشر موثوق متاح."

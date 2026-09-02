@@ -10,9 +10,10 @@ crumb: "علم النفس ← المنهج والفلسفة ← جدل المن�
 active_start: 1895
 active_end: "مستمر"
 related:
-- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
-- id: "thk-dewey", title: "جون ديوي", type: "مفكر"
+- id: "thk-gallport", title: "جوردون ألبورت", type: "مفكر"
+- id: "thk-heysenck", title: "هَانز آيسنك", type: "مفكر"
+- id: "thk-wmischel", title: "والتَر ميشيل", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
@@ -28,7 +29,7 @@ gaps:
 
 ## وَصْف الْجَدَل
 
-جِدَل مَنْهَجِيّ قَدِيم جِدًّا فِي عِلْم النَّفْس، يَدُور حَوْل سُؤَال «**مَا الَّذِي نَقُوم بِدِرَاسَته فِعْلًا**» (What Do We Study): هَلْ نَقُوم بِدِرَاسَة «**الْفَرْد**» (Individual) فِي «**تَفَرُّدِه**» (Uniqueness) وَ«**سِيَاقِه الذَّاتِيّ**» (Personal Context) — أَيْ «**مَنْهَج آحَادِيّ**» (Idiographic)؟ أَمْ نَقُوم بِدِرَاسَة «**الْقَوَانِين**» (Laws) الْعَامَّة الَّتِي تَحْكُم «**الْفِئَات**» (Groups) وَ«**الْمُتَوَسِّطَات**» (Averages) — أَيْ «**مَنْهَج قَانُونِيّ**» (Nomothetic)؟ أَصْل الْمُصْطَلَحَين مِنَ الْفَلْسَفَة الْأَلْمَانِيَّة، حَيْثُ اسْتَخْدَمَهُمَا **وِلْهَلْم فُونت** (Wilhelm Windelband) عَام 1894 لِـ**الْفَرْق** بَيْن «**الْعُلُوم التَّارِيخِيَّة**» (Idiographic) وَ«**الْعُلُوم الطَّبِيعِيَّة**» (Nomothetic) قَبْل أَنْ يَنْقُلهمَا **جُوردُون آلْبُورت** (Gordon Allport) إِلَى عِلْم النَّفْس.
+جِدَل مَنْهَجِيّ قَدِيم جِدًّا فِي عِلْم النَّفْس، يَدُور حَوْل سُؤَال «**مَا الَّذِي نَقُوم بِدِرَاسَته فِعْلًا**» (What Do We Study): هَلْ نَقُوم بِدِرَاسَة «**الْفَرْد**» (Individual) فِي «**تَفَرُّدِه**» (Uniqueness) وَ«**سِيَاقِه الذَّاتِيّ**» (Personal Context) — أَيْ «**مَنْهَج آحَادِيّ**» (Idiographic)؟ أَمْ نَقُوم بِدِرَاسَة «**الْقَوَانِين**» (Laws) الْعَامَّة الَّتِي تَحْكُم «**الْفِئَات**» (Groups) وَ«**الْمُتَوَسِّطَات**» (Averages) — أَيْ «**مَنْهَج قَانُونِيّ**» (Nomothetic)؟ أَصْل الْمُصْطَلَحَين مِنَ الْفَلْسَفَة الْأَلْمَانِيَّة، حَيْثُ اسْتَخْدَمَهُمَا الْفَيْلَسُوف **فِلْهِلْم فِنْدِلْبَانْد** (Wilhelm Windelband) فِي خِطَابه الرِّئَاسِيّ بِـ**سْتْرَاسْبُورغ** عَام 1894 لِـ**الْفَرْق** بَيْن «**الْعُلُوم التَّارِيخِيَّة**» (Idiographic) وَ«**الْعُلُوم الطَّبِيعِيَّة**» (Nomothetic) قَبْل أَنْ يَنْقُلهمَا **جُوردُون آلْبُورت** (Gordon Allport) إِلَى عِلْم النَّفْس عَام 1937 فِي كِتَابِه *Personality: A Psychological Interpretation*.
 
 ## الْمَوْقِف الْأَوَّل: الْمَنْهَج الْآحَادِيّ (Idiographic Approach)
 
@@ -108,3 +109,11 @@ gaps:
 - **إِيزِينْك** (Eysenck): مَنْ يَقُول «**آحَادِيّ**» لَا يُسَاهِم فِي «**الْعِلْم**».
 - **مِيشَل** (Walter Mischel, *Personality and Assessment*, 1968): «**الْمَوْقِف**» (Situation) أَقْوَى مِنَ «**السِّمَة**» — تَوَازُن.
 - **شُبِغْلْبِرْغ** (Herbert Spiegelberg): «**الظَّاهِرَاتِيَّة**» كَمَنْهَج ثَالِث.
+
+## المصادر
+
+- Windelband, W. (1894). *Geschichte und Naturwissenschaft* (Rectorial Address, Strasbourg).
+- Allport, G. W. (1937). *Personality: A Psychological Interpretation*. Henry Holt.
+- Allport, G. W. (1961). *Pattern and Growth in Personality*. Holt, Rinehart & Winston.
+- Eysenck, H. J. (1952). "The Effects of Psychotherapy: An Evaluation." *Journal of Consulting Psychology*, 16(5).
+- Mischel, W. (1968). *Personality and Assessment*. Wiley.

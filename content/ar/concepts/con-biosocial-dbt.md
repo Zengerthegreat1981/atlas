@@ -12,11 +12,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "con-dbt-validation", title: "استراتيجيات الصلاحية (Validation) في DBT", type: "مفهوم"
 gaps:
   - "تطبيق النظرية البيولوجية-الاجتماعية في سياقات ثقافية غير غربية يحتاج توسعاً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # النظرية البيولوجية-الاجتماعية في DBT

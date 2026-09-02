@@ -11,13 +11,16 @@ dates: "مراغة · ق. 1260 م"
 language: "العربية"
 active_start: 1260
 active_end: 1260
+author: "نصير الدين الطوسي"
+author_slug: "thk-nasir-tusi"
+publication_year: 1260
+original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-imami-kalam", target_type: "مدرسة"
 related:
 - id: "thk-nasir-tusi", title: "نصير الدين الطوسي", type: "مفكر"
 gaps:
   - "الشروح والتعليقات الكلامية الواسعة من متكلمي السنة والشيعة (شرح العلامة الحلي والقوشجي)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # تجريد الاعتقاد لنصير الدين الطوسي

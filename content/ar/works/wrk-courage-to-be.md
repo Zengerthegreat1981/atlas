@@ -11,8 +11,12 @@ dates: "1952 · تيليش"
 active_start: 1952
 active_end: 1952
 part: "philosophy"
+author: "بول تيليش"
+author_slug: "thk-tillich"
+publication_year: 1952
+original_language: "الإنجليزية"
 edges:
-- rel: "written_by", target: "تيليش", target_type: "مفكر"
+- rel: "written_by", target: "thk-tillich", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"

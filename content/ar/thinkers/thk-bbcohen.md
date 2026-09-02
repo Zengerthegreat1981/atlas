@@ -12,17 +12,7 @@ language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
-related:
-- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
-- id: "thk-calbright", title: "كارين ألبريت", type: "مفكر"
-- id: "thk-econrad", title: "إيميلي كونراد", type: "مفكر"
-- id: "thk-idmarshall", title: "توماس هانا", type: "مفكر"
-- id: "thk-lhatch", title: "ليندا هاتش", type: "مفكر"
-- id: "thk-phackney", title: "بي. كيت هَكْني", type: "مفكر"
-- id: "thk-rprice", title: "راشِل بَرايس", type: "مفكر"
-- id: "thk-sharper", title: "سوزان هاربر", type: "مفكر"
+edges: []
 gaps:
   - "لا يوجد اقتباس مباشر موثوق متاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

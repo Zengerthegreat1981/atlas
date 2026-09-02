@@ -9,6 +9,10 @@ en: "Instructions of Ptahhotep"
 crumb: "الفلسفة ← مصر القديمة ← تعاليم بتاح حتب"
 dates: "مصر · حوالي 2450 ق.م"
 language: "المصرية القديمة (الهيروغليفية)"
+author: "بتاح حتب"
+author_slug: "thk-ptahhotep"
+publication_year: -2450
+original_language: "المصرية القديمة (الهيروغليفية)"
 active_start: -2450
 active_end: -2450
 edges:
@@ -20,7 +24,6 @@ related:
 - id: "con-maat", title: "ماعت", type: "مفهوم"
 gaps:
   - "تفاصيل تأريخ النسخة البردية (Prisse Papyrus) وعلاقتها بالأصل المنسوب لبتاح حتب تحتاج مراجعة بيبلوغرافية متخصصة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من نص بعينه في النسخة المعتمدة عربياً."
 ---
 
 # تعاليم بتاح حتب

@@ -22,8 +22,8 @@ related:
 - id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"
 - id: "thk-marymain", title: "ماري مين", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
-- id: "con-attachment-styles", title: "أنماط التعلق", type: "مفهوم"
-- id: "con-mentalization", title: "الذهنية (Mentalization)", type: "مفهوم"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
+- id: "con-mentalization", title: "الانعكاس الذهني (Mentalization)", type: "مفهوم"
 - id: "con-secure-attachment", title: "التعلق الآمن", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: هاري هارلو (thk-harlow)"

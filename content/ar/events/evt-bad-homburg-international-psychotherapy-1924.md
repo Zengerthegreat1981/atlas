@@ -10,6 +10,8 @@ active_start: "1924-04-22"
 active_end: "1924-04-23"
 country: "ألمانيا"
 part: "psychology"
+event_date: "1924-04-22"
+event_place: "فندق الكورهاوس (Kurhaus)، باد هومبورغ، ألمانيا"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

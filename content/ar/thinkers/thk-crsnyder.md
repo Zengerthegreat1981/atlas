@@ -13,7 +13,7 @@ active_start: 1991
 active_end: 2006
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج القائم على الأمل (Snyder)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
 - id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"

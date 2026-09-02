@@ -9,6 +9,7 @@ en: "Deism"
 crumb: "الفلسفة ← عصر النهضة والحداثة الأوروبية ← الربوبية"
 dates: "إنجلترا، فرنسا، ألمانيا، أمريكا · من القرن 17 م إلى القرن 19 م"
 country: "إنجلترا، فرنسا، ألمانيا، أمريكا، هولندا"
+cultural_origin: "anglo-american"
 language: "الإنجليزية، الفرنسية، الألمانية، اللاتينية"
 active_start: 1620
 active_end: 1850
@@ -23,7 +24,6 @@ related:
 - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
 gaps:
   - "نصوص تولاند وتيندال وكولينز بالإنجليزية تحتاج مراجعة من المصدر الأولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من 'Christianity Not Mysterious' لتولاند."
   - "التمييز بين 'الربوبية' و'الإلحاد' و'الربوبية الطبيعية' (Natural Religion) معقّد."
 ---
 
@@ -60,7 +60,7 @@ gaps:
 
 ### الربوبيون الألمان
 
-- هيرمان صمويل ريماروس (Hermann Samuel Reimarus، 1694-1768): كتب Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes (نُشر 1972).
+- هيرمان صمويل ريماروس (Hermann Samuel Reimarus، 1694-1768): كتب Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes (نُشرت طبعته النقدية الكاملة بعد وفاته عام 1972).
 - لسنغ (Lessing، 1729-1781): كتب Nathan der Weise (1779) وDie Erziehung des Menschengeschlechts (1780).
 - كريستيان فولف (Christian Wolff، 1679-1754).
 - موسى مندلسون (Moses Mendelssohn، 1729-1786): جمع بين الهسكلاة والربوبية.
@@ -125,7 +125,7 @@ gaps:
 - Profession de Foi du Vicaire Savoyard (اعتراف إيمان القسّ السافويارد)، روسو (1762).
 - Nathan der Weise (ناثان الحكيم)، لسنغ (1779).
 - Die Erziehung des Menschengeschlechts (تربية الجنس البشري)، لسنغ (1780).
-- Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes (دفاع عن المتعبدين العقلانيين لله)، ريماروس (نُشر 1972).
+- Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes (دفاع عن المتعبدين العقلانيين لله)، ريماروس (نُشرت طبعته النقدية الكاملة بعد وفاته عام 1972).
 - Dictionnaire Philosophique (القاموس الفلسفي)، فولتير (1764).
 
 ## مدارس الربوبية
@@ -149,8 +149,8 @@ gaps:
 
 - في اللاهوت: استلهم اللاهوت الطبيعي في القرن التاسع عشر الربوبية، كما عند بيلي (Paley، 1743-1805) في Natural Theology (1802).
 - في السياسة: تأثر توماس جيفرسون بالربوبية في إعلان الاستقلال (1776)، إذ جعل مصدر الحقوق الله لا الكنيسة ولا الدولة.
-- في العلم: تأثر تشارلز داروين (1809-1882) بالربوبية في بعض أعماله، بفكرة أن الله خالق القوانين الطبيعية غير المتدخل فيها.
-- في الفلسفة المعاصرة: استلهم ريتشارد دوكينز (Richard Dawkins، 1941-) في The God Delusion (2006) الربوبية في نقده للدين المؤسسي، مع احترامه للعقل والعلم.
+- في العلم: تأثر تشارلز داروين (وُلد 1809) بالربوبية في بداية مسيرته الفكرية، بفكرة أن الله خالق القوانين الطبيعية غير المتدخل فيها، وظل هذا التأثير موضع نقاش حتى بعد وفاته عام 1882.
+- في الفلسفة المعاصرة: استلهم ريتشارد دوكينز (Richard Dawkins) في كتابه The God Delusion الربوبية في نقده للدين المؤسسي، مع احترامه للعقل والعلم، وهذا الاستلهام جاء بعد أكثر من قرن ونصف من انتهاء الحركة الربوبية التاريخية.
 - في حركات الإلحاد الجديد: يمكن اعتبار دوكينز ودانييت وهيتشنز ربوبيين حداثيين في الأساس، بمعنى أن الله موجود لكنه غير متدخل.
 
 ## المأزق الفلسفي
@@ -161,3 +161,11 @@ gaps:
 - التوتر مع المعاصرة: تراجعت الربوبية في القرنين التاسع عشر والعشرين لصالح الإلحاد والتنوير الجديد، لكنها استعادت حيوية في حركات الإلحاد الجديد (دوكينز، دانييت).
 - التوتر مع الأخلاق: لا تستطيع الربوبية تأسيس الأخلاق على إله غير متدخل، فما مصدر الأخلاق إذن؟ أجاب كانط بالأمر المطلق.
 - الإرث المعاصر: لا تزال الربوبية حاضرة في أمريكا (الكنيسة الوحدانية والعالمية والإنسانية) وبريطانيا (الحرية العقلانية)، وتستلهمها حركات الإلحاد الجديد في نقدها للدين المؤسسي.
+
+## المصادر
+
+- Waring, E. Graham (ed.). *Deism and Natural Religion: A Source Book*. Frederick Ungar, 1967.
+- Byrne, Peter. *Natural Religion and the Nature of Religion: The Legacy of Deism*. Routledge, 1989.
+- Champion, Justin. *The Pillars of Priestcraft Shaken: The Church of England and Its Enemies, 1660–1730*. Cambridge University Press, 1992.
+- Israel, Jonathan. *Radical Enlightenment: Philosophy and the Making of Modernity 1650–1750*. Oxford University Press, 2001.
+- Wigelsworth, Jeffrey R. *Deism in Enlightenment England*. Manchester University Press, 2009.

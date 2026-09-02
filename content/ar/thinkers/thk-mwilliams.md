@@ -20,8 +20,7 @@ related:
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "ctx-mindfulness-mbsr-medical-integration", title: "دمج اليقظة الذهنية في الطب المعاصر مع جون كابات زين", type: "سياق/تقليد"
 gaps:
-  - "سنة الميلاد الدقيقة ومسيرته في جامعة أكسفورد لم تُراجعا من مصدر أولي بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة الميلاد الدقيقة (1952 مذكورة في بعض التراجم الأكاديمية دون تأكيد من سيرة ذاتية رسمية) تحتاج تحققاً."
 ---
 # مارك ويليامز
 
@@ -40,3 +39,9 @@ gaps:
 - «العلاج المعرفي القائم على اليقظة الذهنية لمنع الانتكاس في الاكتئاب» (MBCT for Preventing Relapse, 2002) — مع سيغال وتيزديل.
 - «يقظة: طريق الصحة النفسية» (Mindfulness: A Practical Guide to Finding Peace in a Frantic World, 2011) — مع دانييل بينمان، كتاب للأعمّ الجمهور.
 - «برنامج .b: اليقظة الذهنية في المدارس» (.b, 2014).
+
+## المصادر
+
+- Segal, Zindel V., J. Mark G. Williams, and John D. Teasdale. *Mindfulness-Based Cognitive Therapy for Depression*. New York: Guilford Press, 2002.
+- Williams, J. Mark G., and Danny Penman. *Mindfulness: A Practical Guide to Finding Peace in a Frantic World*. London: Piatkus, 2011.
+- Oxford Mindfulness Centre, University of Oxford — صفحة السيرة المهنية الرسمية لـ J. Mark G. Williams.

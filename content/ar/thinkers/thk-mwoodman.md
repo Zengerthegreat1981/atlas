@@ -19,7 +19,6 @@ related:
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 - id: "con-feminine-principle", title: "المبدأ الأنثوي", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
   - "تفاصيل علاجها الشخصي من anorexia وkidney collapse — موثّقة في كتبها لكن تحتاج قراءة معمّقة."
 ---
 
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعمالها
 
 إدمان الكمال (Addiction to Perfection, 1982) · العروس المُدمَّاة (The Ravaged Bridegroom, 1990) · البكر الحُبلى (The Pregnant Virgin, 1985) · العظم: الموت في الحياة (Bone: Dying into Life, 2000).
+
+## المصادر
+
+- Woodman, Marion. *Addiction to Perfection: The Still Unravished Bride*. Inner City Books, 1982.
+- Woodman, Marion. *The Pregnant Virgin: A Process of Psychological Transformation*. Inner City Books, 1985.
+- Woodman, Marion. *The Ravaged Bridegroom: Masculinity in Women*. Inner City Books, 1990.

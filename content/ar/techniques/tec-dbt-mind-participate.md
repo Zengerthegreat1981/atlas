@@ -10,15 +10,18 @@ active_start: 1993
 active_end: "مستمر"
 language: "English"
 part: "psychology"
+evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
 - id: "tec-dbt-mind-observe", title: "الملاحظة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-one-mindfully", title: "التركيز على شيء واحد", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا توجد دراسة معزولة تختبر المشاركة (Participate) وحدها بمعزل عن حزمة مهارات اليقظة الذهنية الثلاثية (Observe-Describe-Participate) الكاملة في DBT؛ evidence_level (experimental) مبني على غياب تجربة مستقلة لهذه المهارة تحديداً، رغم أن حزمة DBT الكلية مصنّفة well-established لعلاج اضطراب الشخصية الحدية."
 ---
 
 # المشاركة
@@ -48,9 +51,10 @@ gaps:
 
 ## موقعها من حزمة المدرسة
 
-هي الحلقة الثالثة في سلسلة «Observe → Describe → Participate»، وتكامل مع «One-Mindfully» التي تخص فعل شيء واحد بكامل الانتباه. الفارق الدقيق: «One-Mindfully» تخص **توجيه** الانتباه، «Participate» تخص **إسقاط** المراقبة لصالح الاندماج.
+هي الحلقة الثالثة في سلسلة «Observe → Describe → Participate»، وتكامل مع «One-Mindfully» (tec-dbt-mind-one-mindfully) التي تخص فعل شيء واحد بكامل الانتباه. الفارق الدقيق: «One-Mindfully» تخص **توجيه** الانتباه، «Participate» تخص **إسقاط** المراقبة لصالح الاندماج. المهارة صاغتها مارشا لينهان (thk-mlinehan) ضمن دليل DBT سنة 1993، وتنتمي لمدرسة العلاج الجدلي السلوكي (sch-dbt) التي طُوّرت أصلاً لعلاج اضطراب الشخصية الحدية (dis-borderline-personality).
 
 ## حدود ومخاطر
 
 - قد تدفع بعض المرضى إلى تسرّع الفعل وفقدان التعقل، خاصة في حالات الاندفاع.
-- يجب أن تسبقها ممارسة «العقل الحكيم» لمنع التصرفات المتسرعة باسم المشاركة.
+- يجب أن تسبقها ممارسة «العقل الحكيم» (tec-dbt-mind-wise-mind) لمنع التصرفات المتسرعة باسم المشاركة.
+- التقنية المنافسة الأقرب: «الملاحظة» (tec-dbt-mind-observe) نفسها، التي تمثل الموقف المعاكس المتعمَّد — مراقبة الخبرة من الخارج بدل الانخراط فيها — وتُستخدم حين يكون الانخراط الكامل غير آمن (كحالات الاندفاع أو إيذاء الذات).

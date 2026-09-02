@@ -5,15 +5,14 @@ type: "مفكر"
 level: "متوسط"
 title: "جين غيبسر"
 en: "Jean Gebser"
-dates: "ألمانيا · 1905–1973"
-country: "ألمانيا"
+dates: "ألمانيا/سويسرا · 1905–1973"
+country: "ألمانيا/سويسرا"
 language: "الألمانية"
 active_start: 1949
 active_end: 1973
 part: "psychology"
 crumb: "الأطلس ← thinkers ← جين غيبسر"
-edges:
-- rel: "belongs_to", target: "علم النفس التكاملي (Integral)", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 gaps:

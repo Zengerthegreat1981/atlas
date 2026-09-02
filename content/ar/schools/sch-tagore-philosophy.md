@@ -12,6 +12,7 @@ country: "الهند (البنغال)"
 language: "البنغالية، الإنجليزية"
 active_start: 1890
 active_end: 1941
+cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-neo-vedanta", target_type: "مظلة"
 related:
@@ -55,3 +56,10 @@ gaps:
 ## القيد
 
 - تهمل أحياناً الأبعاد السياسية للتحرر.
+
+## المصادر
+
+- Tagore, R. (1913). *Sadhana: The Realisation of Life*. Macmillan.
+- Tagore, R. (1912). *Gitanjali*. Macmillan.
+- Tagore, R. (1917). *Nationalism*. Macmillan.
+- Dutta, K., & Robinson, A. (1995). *Rabindranath Tagore: The Myriad-Minded Man*. St. Martin's Press.

@@ -8,6 +8,8 @@ en: "First International Congress of Psychology, Paris 1889"
 crumb: "علم النفس ← تاريخ علم النفس ← المؤتمر الدولي الأول لعلم النفس"
 active_start: "1889-08-05"
 active_end: "1889-08-10"
+event_date: "1889-08-05"
+event_place: "باريس، فرنسا"
 country: "فرنسا"
 part: "psychology"
 related:

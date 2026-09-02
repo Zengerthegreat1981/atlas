@@ -9,6 +9,7 @@ en: "Philosophical Hermeneutics"
 crumb: "الفلسفة ← القارية ← الهرمنيوطيقا الفلسفية"
 dates: "ألمانيا، فرنسا، العالم · من 1960 إلى الوقت الحاضر"
 country: "ألمانيا، فرنسا"
+cultural_origin: "european"
 language: "الألمانية، الفرنسية، الإنجليزية"
 active_start: 1960
 active_end: "مستمر"
@@ -28,7 +29,6 @@ related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "موقعية الهرمنيوطيقا بين المنهج والمواقف (هل هي منهج علمي أم فلسفة وجودية؟) محلّ خلاف مستمر."
-  - "لا يوجد اقتباس مباشر موثوق متاح في هذا الملف."
   - "العلاقة مع علم التأويل (exegesis) في اللاهوت البروتستانتي تحتاج ربطًا أدق."
 ---
 
@@ -75,3 +75,10 @@ gaps:
 - **الطب**: قراءة التاريخ المرضي.
 - **الأدب**: منهج النقد الأدبي الجديد.
 - **العلوم الإنسانية**: علم الاجتماع، الأنثروبولوجيا (Geertz)، علم النفس (Giorgi، Colaizzi).
+
+## المصادر
+
+- Gadamer, Hans-Georg. *Wahrheit und Methode*. J.C.B. Mohr, 1960.
+- Ricœur, Paul. *The Conflict of Interpretations*. Northwestern University Press, 1974.
+- Habermas, Jürgen. *Zur Logik der Sozialwissenschaften*. Suhrkamp, 1967.
+- Dilthey, Wilhelm. *Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften*. 1910.

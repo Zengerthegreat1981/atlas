@@ -3,6 +3,7 @@ slug: "sch-libertarianism"
 id: "SCH-0183"
 type: "مدرسة"
 part: "philosophy"
+cultural_origin: "anglo-american"
 level: "متوسط"
 title: "الليبرتارية"
 en: "Libertarianism"
@@ -62,3 +63,11 @@ gaps:
 
 - تُهمل أحياناً الفجوة العرقية والطبقية، وتُبسّط «الفاعل العقلاني» بشكل مفرط.
 - نقدها من الماركسية (Bourdieu) والنسوية (Federici) ونظرية الإعادة التوزيع (Rawls).
+
+## المصادر
+
+- Nozick, Robert. (1974). *Anarchy, State, and Utopia*. Basic Books.
+- Hayek, Friedrich A. (1944). *The Road to Serfdom*. Routledge.
+- Rothbard, Murray N. (1982). *The Ethics of Liberty*. Humanities Press.
+- Mises, Ludwig von. (1949). *Human Action: A Treatise on Economics*. Yale University Press.
+- Rawls, John. (1971). *A Theory of Justice*. Harvard University Press.

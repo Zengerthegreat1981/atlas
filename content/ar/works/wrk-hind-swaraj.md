@@ -11,6 +11,10 @@ dates: "1909 · غاندي"
 language: "الإنجليزية"
 active_start: 1909
 active_end: 1909
+author: "موهانداس كرمشاند غاندي"
+author_slug: "thk-gandhi"
+publication_year: 1909
+original_language: "الغوجاراتية"
 edges:
 - rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
 related:

@@ -12,9 +12,13 @@ language: "الإنجليزية"
 active_start: 2016
 active_end: 2016
 part: "psychology"
+author: "أنجيلا دَكوورث"
+author_slug: "thk-duckworth"
+publication_year: 2016
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
-- rel: "authored_by", target: "أنجيلا داكوورث", target_type: "مفكر"
+- rel: "authored_by", target: "thk-duckworth", target_type: "مفكر"
 related:
 - id: "thk-duckworth", title: "أنجيلا دَكوورث", type: "مفكر"
 gaps:

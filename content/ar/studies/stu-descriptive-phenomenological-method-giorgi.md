@@ -9,6 +9,11 @@ crumb: "المدرسة الوجودية ← الدراسات والبحوث ← 
 part: "psychology"
 active_start: null
 active_end: "مستمر"
+study_year: 1985
+design: "منهجية بحث نوعي (لا تجربة تجريبية بعينة)"
+sample_size: null
+main_finding: "خطوات إجرائية خمس تحوّل التحليل الفينومينولوجي الهوسرلي إلى منهج بحث نوعي قابل للتكرار في علم النفس."
+replication_status: "untested"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
@@ -19,6 +24,7 @@ related:
 gaps:
   - "رابط مقترح لـ«الظواهرية» (con-phenomenology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "كتاب جيورجي 'The Descriptive Phenomenological Method in Psychology' (2009) يستحق مراجعة من المصدر الأولي للخطوات الخمس."
+  - "sample_size غير منطبق: هذا منهج بحثي (methodology) لا دراسة تجريبية بعينة محددة — replication_status وُضع 'untested' لأن المنهج إجراء تحليلي وليس ادعاءً تجريبياً قابلاً للتكرار الإحصائي؛ التقييم الأدق له هو مدى تبنّيه في أدبيات البحث النوعي، وهذا يحتاج مسحاً ببليومترياً غير متوفر هنا."
 ---
 
 # المنهج الفينومينولوجي الوصفي (جيورجي)

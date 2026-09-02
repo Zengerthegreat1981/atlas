@@ -2,41 +2,44 @@
 slug: "thk-ormijares"
 id: "THK-1698"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "أوسكار رودريغيث ميجاريس"
 en: "Oscar Rodríguez Mijares"
-crumb: "مدرسة التحليل النفسي ← الناس ← أوسكار رودريغيث ميجاريس"
+crumb: "الأطلس ← thinkers ← أوسكار رودريغيث ميجاريس"
 dates: "فنزويلا · [غير مؤكد]"
 country: "فنزويلا"
 language: "الإسبانية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
-- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Oscar Rodríguez Mijares في IAAP أو SVAP (Sociedad Venezolana de Análisis Jungiano) أو UCV أو SciELO Venezuela. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-ormijares.md.archived.2026-08-27"
 ---
 
 # أوسكار رودريغيث ميجاريس
 
-محلّل يونغي فنزويلي، أستاذ في UCV (Universidad Central de Venezuela)، رائد «التوفيق بين التحليلية والفرويدية» في كراكاس.
+(Oscar Rodríguez Mijares)
 
-## ما أعطاه
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-ormijares.md.archived.2026-08-27`
 
-في «Freud, Jung: Un Diálogo Necesario» (التسعينيات من القرن العشرين) أجرى «مقارنة نقدية» منهجية بين فرويد ويونغ، كأداة لتدريب التحليلية الفنزويلية. كذلك شارك في «Maestría en Psicoterapia Jungiana» في UCAB. كذلك أشرف على تدريب SVAJ.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعه من التيار
+## ملخص
 
-«جسر الفرويدية–اليونغية» في فنزويلا، مع A. T. de Tobar وLópez-Pedraza.
+الملف الأصلي وصف "أوسكار رودريغيث ميجاريس" كمحلل يونغي فنزويلي. الملف نفسه سبق أن أقرّ في متنه الظاهر وفي `gaps` بعدم وجود أي توثيق مستقل (لا عضوية IAAP، لا نتائج SVAP، لا سيرة في UCV، لا مقالة في SciELO)، واقترح احتمال الخلط مع شخصيات حقيقية أخرى (رافائيل لوبيث-بيدراثا، ألبرتو ت. دي توبار، أوسكار ميخاريس الطبيب). هذا التناقض بين الثقة الشكلية للعنوان ومحتوى الشك الصريح هو تحديداً النمط الذي تقتضي القاعدة 11 حسمه بحجر لا بنشر.
 
-## القيد
-موقعه في الذاكرة الدولية ضعيف.
+## للمتابعة
 
-## أهم أعماله
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-ormijares.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-Freud, Jung: Un Diálogo Necesario (التسعينيات من القرن العشرين).
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-ormijares.md.archived.2026-08-27`

@@ -2,41 +2,44 @@
 slug: "thk-pcarducci"
 id: "THK-1718"
 type: "مفكر"
-level: "متوسط"
+level: "مبتدئ"
 title: "باولا كاردوتشي"
 en: "Paola Carducci"
-crumb: "مدرسة التحليل النفسي ← الناس ← باولا كاردوتشي"
+crumb: "الأطلس ← thinkers ← باولا كاردوتشي"
 dates: "إيطاليا · [غير مؤكد]"
 country: "إيطاليا"
 language: "الإيطالية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-kalff", title: "دورا كالف", type: "مفكر"
-- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
+edges: []
+related: []
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "**حُجر 2026-08-27:** لم يُعثر على أي عضوية أو كتاب منشور لـ Paola Carducci في ISST (International Society for Sandplay Therapy) ولا SBN الإيطالية ولا AIPA. النسخة الأصلية محفوظة في archive."
+  - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-pcarducci.md.archived.2026-08-27"
 ---
 
 # باولا كاردوتشي
 
-محلّلة يونغية إيطالية، تلميذة دورا كالف (زيورخ)، ومؤسِّسة مشارك لـ ISST (International Society for Sandplay Therapy، 1985).
+(Paola Carducci)
 
-## ما أعطته
+**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
+`agents_specs/quarantine-minimax-archive/thk-pcarducci.md.archived.2026-08-27`
 
-ضمن الـ14 مؤسِّساً لـ ISST (1985) — مع كالف (سويسرا)، J. Menuhin (إنجلترا)، Bradway، Weinrib، Larsen، Burney (أمريكا)، Kawai (اليابان) — أدخلت علاج Sandplay إلى إيطاليا. كذلك أسّست «Centro di Ricerca sul Gioco della Sabbia» في روما. كذلك ترجمت أعمال كالف إلى الإيطالية.
+انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
 
-## موقعها من التيار
+## ملخص
 
-«النصف الإيطالي» لـ ISST، مع K. Bradway (الأمريكي) وKawai (الياباني).
+الملف الأصلي وصف "باولا كاردوتشي" كممارسة إيطالية في العلاج بالرمل (Sandplay)، لكنه أقرّ صراحة في متنه وفي `gaps` بعدم وجود عضوية ISST أو كتاب منشور أو مركز بحث موثّق بهذا الاسم، واقترح احتمال الخلط مع شخصيات أخرى (Paola Cardella، Paola Cardona، Roberta Cardaci). هذا التناقض بين الثقة الشكلية والاعتراف الصريح بعدم التوثيق هو النمط الذي تقتضي القاعدة 11 حسمه بحجر.
 
-## القيد
-موقعها في الذاكرة الدولية ضعيف.
+## للمتابعة
 
-## أهم أعمالها
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-pcarducci.md.archived.2026-08-27`
+- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
 
-ترجمات كالف للإيطالية · أبحاث ISST.
+## المصادر
+
+- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
+- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-pcarducci.md.archived.2026-08-27`

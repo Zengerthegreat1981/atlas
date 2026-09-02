@@ -12,12 +12,14 @@ active_end: "مستمر"
 edges:
 - rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "wrk-being-and-time-heidegger", title: "الكينونة والزمان لمارتن هايدغر", type: "عمل / كتاب"
 - id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "con-isolation", title: "العزلة", type: "مفهوم"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:
   - "لم يُراجَع نص هايدجر الألماني الأصلي مباشرة — الاعتماد على ترجمات وشروح ثانوية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # الملل الوجودي

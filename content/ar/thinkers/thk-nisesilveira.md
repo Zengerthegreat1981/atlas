@@ -19,8 +19,7 @@ related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "con-psychiatric-reform", title: "الإصلاح النفسي", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذه المفكرة."
-  - "تأثيرها على قانون الإصلاح النفسي البرازيلي 2001 (Lei 10.216) — موثّق في الأدبيات الصحية العمومية لكن يستحق ملفاً مستقلاً في الأطلس."
+  - "العلاقة السببية الدقيقة بين إرثها الفكري وصياغة قانون الإصلاح النفسي البرازيلي الصادر بعد وفاتها عام 2001 (Lei 10.216) تحتاج مصدراً أولياً محدداً يربط النصّين."
 ---
 
 # نيسي دا سيلفيرا
@@ -41,3 +40,9 @@ gaps:
 ## أهم أعمالها
 
 صور اللاوعي (Imagens do Inconsciente، 1968) · أبحاث في الخربشات (Esculturas de psicopatas، 1971).
+
+## المصادر
+
+- Silveira, Nise da. *Imagens do Inconsciente*. Rio de Janeiro: Alhambra, 1981.
+- Museu de Imagens do Inconsciente — الأرشيف الرسمي للمتحف الذي أسّسته نيسي دا سيلفيرا في ريو دي جانيرو (1952).
+- Machado, Anna Cristina. *Nise da Silveira: A Alma da Loucura*. Rio de Janeiro: Fiocruz, 2011.

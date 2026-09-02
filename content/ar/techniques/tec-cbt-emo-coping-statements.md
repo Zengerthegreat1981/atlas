@@ -12,19 +12,20 @@ active_start: 1977
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
+- id: "thk-meichenbaum", title: "دونالد ميشينباوم", type: "مفكر"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
-- id: "dis-exhibitionistic", title: "اضطراب الاستعراء (Exhibitionistic Disorder)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-fetishistic", title: "اضطراب الفيتشية (Fetishistic Disorder)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-voyeuristic", title: "اضطراب الاستطلاع (Voyeuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "لم يُراجع من مصدر أولي مباشر بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "السنة الدقيقة لظهور المصطلح في أدبيات CBT تستحق تحققاً."
+  - "لا يوجد ملف دراسة (stu-) في الأطلس لأي تجربة عشوائية محكَّمة تختبر عبارات التأقلم منفردة عن حزمة التلقيح ضد الضغط (SIT)، لذلك لم يُدرَج قسم مصادر بحثية كمياً."
+  - "السنة الدقيقة لأول ظهور مصطلح Coping Statements ككيان منفصل عن SIT في أدبيات ميشينباوم غير محسومة من الملف الحالي."
 ---
 
 # عبارات التأقلم

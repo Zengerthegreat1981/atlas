@@ -3,38 +3,28 @@ slug: "thk-timothy-verduin"
 id: "THK-2839"
 type: "مفكر"
 part: "psychology"
-level: "متقدم"
+level: "مبتدئ"
 title: "تيموثي فيردوين (Timothy Verduin)"
-en: "Timothy Verduin: Emotionally Focused Couple Therapy"
-crumb: "EFT للزوجات ← مؤسِّسون ← تيموثي فيردوين"
-dates: "الولايات المتحدة"
-active_start: 1990
-active_end: "مستمر"
+en: "Timothy Verduin"
+crumb: "EFT للأزواج ← مساهمون ← تيموثي فيردوين"
+dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+active_start: null
+active_end: "غير محدد"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
-related:
-- id: "thk-katie-laperriere", title: "كايتي لابيريير (Katie LaPerriere)", type: "مفكر"
-- id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "con-eft-couples-bond-cycle", title: "دورة الترابط", type: "مفهوم"
+related: []
 gaps:
-  - "لم تُراجع من نسخة أصلية مباشرة بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "إسهاماته في تطبيق EFT مع الأزواج المثليين تحتاج فصلاً."
-  - "هوية الملف: الـslug `thk-timothy-verduin` يشير إلى Timothy Verduin: Emotionally Focused Couple Therapy. المراجعة الموثَّقة في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
+  - "لم يُعثر على مصدر مستقل يوثّق شخصاً بهذا الاسم كمساهم في تطوير العلاج بالمشاعر للأزواج (EFT) مع سو جونسون، لا في تطبيقه على الأزواج المثليين ولا في غيره. حقل `en` في نسخة سابقة من هذا الملف كان عنوان ورقة بحثية مفترضة ('Timothy Verduin: Emotionally Focused Couple Therapy') لا اسم شخص موثق بمصدر — وهذا مؤشر التباس هوية موثّق في `agents_specs/slug-identity-conflicts-2026-08-24.md`."
+  - "الأبحاث المنسوبة إليه سابقاً (Johnson & Verduin 2001، 2002) لم يُعثر عليها في المصادر الأكاديمية المتاحة، وحُذفت من هذا الملف."
+  - "الروابط لـthk-katie-laperriere وthk-sjohnson ولمفهوم دورة الترابط حُذفت لعدم وجود سبب موثّق في المتن يربطها بشخص غير مؤكد الوجود."
 ---
 
 # تيموثي فيردوين (Timothy Verduin)
 
-من المؤسسين المبكرين ل**العلاج بالمشاعر للأزواج** (Emotionally Focused Couple Therapy, EFT) مع سو جونسون (Sue Johnson)، ولديه إسهامات رئيسية في تطوير ال EFT ل**الأزواج المثليين** (Same-Sex Couples).
+هوية هذا الاسم في سياق العلاج بالمشاعر للأزواج (Emotionally Focused Couple Therapy) **غير مؤكدة**. لم يُعثر على مصدر أولي أو ثانوي مستقل يثبت وجود شخص بهذا الاسم مرتبطاً بسو جونسون أو بتطوير النموذج.
 
-## الإسهام
+## القيد
 
-- **EFT للأزواج المثليين**: تطبيق EFT مع أزواج مثليين، مع تكييف «cycle» و«attachment» ل**سياق** (Context) اجتماعي مختلف. (Johnson & Verduin, 2001، 2002).
-- **التدريب العالمي لEFT**: تدريب ممارسي EFT في أمريكا الشمالية، أوروبا، وآسيا.
-- **البحث في فعالية EFT**: مساهمات في أدلة فعالية EFT مع أزواج مثليين.
-
-## الأهمية
-
-فيردوين أحد أهم أصوات ال EFT المساعدة في توسيع النموذج ل«استيعاب» اجتماعي.
+هذا الملف يُبقي على الاسم كإشارة مسودة فقط، دون سيرة أو أعمال منسوبة، إلى حين توفر مصدر أولي.

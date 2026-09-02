@@ -10,7 +10,7 @@ crumb: "الفلسفة ← الآسيوية الحديثة ← الليبرال�
 dates: "1919 · هو شي"
 language: "الصينية (المندرين)"
 active_start: 1919
-active_end: 1919
+active_end: 1990
 edges:
 - rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:

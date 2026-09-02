@@ -13,16 +13,13 @@ active_start: 1998
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الدعم النظير", target_type: "تيار"
+- rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
 - id: "br-peer-support", title: "الدعم النظير", type: "تيار"
 - id: "thk-ldavidson", title: "لاري ديفيدسون", type: "مفكر"
 - id: "thk-dfisher", title: "دانيال فيشر", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال فيشر (thk-dfisher)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال فيشر (thk-dfisher)."
+  - "سنة ميلادها غير مذكورة في المصادر المتاحة."
 ---
 
 # شيري ميد
@@ -48,3 +45,9 @@ gaps:
 
 ## القيد
 - **الدراسات المضبوطة حول فعالية IPS** لا تزال في مراحلها الأولى.
+
+## المصادر
+
+- Intentional Peer Support, "Shery Mead" (سيرة ذاتية): https://intentionalpeersupport.org/shery-mead
+- NARPA (National Association for Rights Protection and Advocacy), "Shery Mead": https://www.narpa.org/bios/mead
+- Psychology Today, "Shery Mead on Intentional Peer Support" (2016): https://www.psychologytoday.com/us/blog/rethinking-mental-health/201604/shery-mead-intentional-peer-support

@@ -10,6 +10,7 @@ crumb: "الفلسفة ← النسوية ← الظاهراتية"
 dates: "أمريكا، أوروبا · من 1970s إلى اليوم"
 country: "الولايات المتحدة، أوروبا"
 language: "الإنجليزية"
+cultural_origin: "anglo-american"
 active_start: 1970
 active_end: "مستمر"
 edges:
@@ -59,3 +60,11 @@ gaps:
 
 - تواجه انتقادات بسبب التعميم الأنثوي.
 - علاقة معقدة مع النسوية الما بعد الكولونيالية.
+
+## المصادر
+
+- de Beauvoir, S. (1949). *Le Deuxième Sexe*. Gallimard.
+- Young, I. M. (1980). Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility, and Spatiality. *Human Studies*, 3(1), 137-156.
+- Bartky, S. L. (1990). *Femininity and Domination: Studies in the Phenomenology of Oppression*. Routledge.
+- Ahmed, S. (2006). *Queer Phenomenology: Orientations, Objects, Others*. Duke University Press.
+- Weiss, G. (1999). *Body Images: Embodiment as Intercorporeality*. Routledge.

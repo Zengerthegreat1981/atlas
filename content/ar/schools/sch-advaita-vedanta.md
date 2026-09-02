@@ -12,13 +12,14 @@ country: "شبه القارة الهندية"
 language: "السنسكريتية"
 active_start: 700
 active_end: "مستمر"
+cultural_origin: "indian"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
 related:
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
-- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا (التثنية)", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 - id: "con-atman", title: "آتْمان (النفس الفردية / الذات الحقيقية)", type: "مفهوم"
 - id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
@@ -66,3 +67,11 @@ gaps:
 ## القيد
 
 - قراءة «الوهم» (māyā) قد تبرر اللامبالاة الأخلاقية.
+
+## المصادر
+
+- Deutsch, Eliot. *Advaita Vedanta: A Philosophical Reconstruction*. University of Hawaii Press, 1969.
+- Potter, Karl H. (ed.). *Encyclopedia of Indian Philosophies, Vol. III: Advaita Vedānta up to Śaṃkara and His Pupils*. Motilal Banarsidass, 1981.
+- Sharma, Chandradhar. *A Critical Survey of Indian Philosophy*. Motilal Banarsidass, 1960 (باب أدفايتا فيدانتا وشانكارا).
+- Radhakrishnan, Sarvepalli. *Indian Philosophy, Vol. II*. George Allen & Unwin, 1927 (فصل عن شانكارا وأدفايتا).
+- Comans, Michael. *The Method of Early Advaita Vedānta: A Study of Gauḍapāda, Śaṅkara, Sureśvara, and Padmapāda*. Motilal Banarsidass, 2000.

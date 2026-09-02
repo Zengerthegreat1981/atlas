@@ -8,7 +8,7 @@ title: "السيد محمد حسين الطباطبائي"
 en: "Allameh Tabataba'i"
 crumb: "أعلام الفلسفة والفكر ← السيد محمد حسين الطباطبائي"
 dates: "تبريز / قم · 1904–1981 م"
-country: "تبريز / قم"
+country: "إيران"
 language: "العربية والفارسية"
 active_start: 1934
 active_end: 1981

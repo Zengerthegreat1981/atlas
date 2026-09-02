@@ -13,18 +13,19 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 evidence_level: "probably-efficacious"
+cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-modernism", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-psychodynamic-humanistic", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodynamic-humanistic", target_type: "تيار"
 - rel: "developed_by", target: "paul-gilbert", target_type: "مفكر"
 related:
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "con-three-circles-emotion", title: "أنظمة تنظيم الانفعال الثلاثة", type: "مفهوم"
 - id: "con-shame-self-criticism", title: "الخزي ونقد الذات", type: "مفهوم"
 - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
-- id: "wrk-self-compassion-neff", title: "التعاطف مع الذات — نيف", type: "عمل / كتاب"
-- id: "ins-self-compassion-scale", title: "مقياس التعاطف مع الذات (SCS)", type: "أداة قياس"
-- id: "sch-buddhist-modernism", title: "البوذية المُعاصرة", type: "مدرسة"
+- id: "wrk-self-compassion-neff", title: "التعاطف مع الذات: القوة المثبتة لمعاملة نفسك بلطف", type: "عمل / كتاب"
+- id: "ins-self-compassion-scale", title: "مقياس التعاطف مع الذات لـ نيف (SCS)", type: "أداة قياس"
+- id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
 - id: "syn-compassion-fatigue", title: "إجهاد الشفقة", type: "متلازمة"
 - id: "con-cft-self-compassion", title: "التعاطف مع الذات (Self-Compassion, CFT)", type: "مفهوم"
 - id: "con-cft-soothing-system", title: "نظام التهدئة والدوائر الانفعالية الثلاث في العلاج بالشفقة (CFT)", type: "مفهوم"
@@ -129,3 +130,10 @@ gaps:
 - Gilbert, P. (2010). *Compassion Focused Therapy: Distinctive Features*. Routledge.
 - Neff, K. D., & Germer, C. K. (2013). "A Pilot Study and Randomized Controlled Trial of the Mindful Self-Compassion Program." *Journal of Clinical Psychology*.
 - Petrocchi, N., & Compson, J. (Eds.). (2021). *The Complexities of Self-Compassion*. Routledge.
+
+## المصادر
+
+- Gilbert, P. (2010). *Compassion Focused Therapy: Distinctive Features*. Routledge.
+- Gilbert, P. (2009). *The Compassionate Mind: A New Approach to Life's Challenges*. Constable / New Harbinger.
+- Gilbert, P. (2014). *The Origins of Compassion*. Routledge.
+- Neff, K. D., & Germer, C. K. (2013). "A Pilot Study and Randomized Controlled Trial of the Mindful Self-Compassion Program." *Journal of Clinical Psychology*.

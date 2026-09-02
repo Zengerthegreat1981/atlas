@@ -6,7 +6,7 @@ level: "متقدم"
 title: "روبرت ستولورو"
 en: "Robert Stolorow"
 crumb: "مدرسة التحليل النفسي ← الناس ← روبرت ستولورو"
-dates: "أمريكا · 1947–"
+dates: "أمريكا · 1942–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
@@ -22,8 +22,7 @@ related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "br-self-psychology", title: "علم نفس الذات", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح بعد لهذا المفكر."
-  - "المنظومة البين-ذاتية (Intersubjective Systems Theory) وكتاب 'الصدمة والوجود الإنساني' يستحقان توثيقاً."
+  - "كتاب 'وجوه في سحابة' (Faces in a Cloud, 1979 مع Atwood) — أول صياغة كاملة لنظرية الأنظمة البين-ذاتية — لم يُدرج ضمن أهم أعماله بعد ويحتاج مراجعة نص أولي."
 ---
 
 # روبرت ستولورو
@@ -44,3 +43,9 @@ gaps:
 ## أهم أعماله
 
 سياقات الكينونة: الأسس البين-ذاتية للحياة النفسية (Contexts of Being, 1992 مع Atwood) · الصدمة والوجود الإنساني: فينومينولوجيا سياقية (Trauma and Human Existence, 2007) · الوجودية الفينومينولوجية في التحليل النفسي (World, Affectivity, Trauma, 2011).
+
+## المصادر
+
+- Stolorow, Robert D., and Atwood, George E. *Contexts of Being: The Intersubjective Foundations of Psychological Life*. The Analytic Press, 1992.
+- Stolorow, Robert D. *Trauma and Human Existence: Autobiographical, Psychoanalytic, and Philosophical Reflections*. The Analytic Press, 2007.
+- Stolorow, Robert D. *World, Affectivity, Trauma: Heidegger and Post-Cartesian Psychoanalysis*. Routledge, 2011.

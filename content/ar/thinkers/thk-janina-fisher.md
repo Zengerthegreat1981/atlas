@@ -6,24 +6,25 @@ level: "متقدم"
 title: "جانينا فيشر"
 en: "Janina Fisher"
 crumb: "علم النفس الإكلينيكي ← علاج الصدمات التطورية ← جانينا فيشر"
-dates: "الولايات المتحدة (ماساتشوستس) · 1943–"
+dates: "الولايات المتحدة (ماساتشوستس)"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: 1985
+active_start: 1980
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "علم النفس الإكلينيكي وعلاج الصدمات التطورية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-lindsay-gibson", title: "ليندسي جيبسون", type: "مفكر"
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
-- id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
-- id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS)", type: "مدرسة"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
+- id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", type: "مدرسة"
 - id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 gaps:
+  - "سنة ميلادها غير موثّقة في أي مصدر عام متاح — حُذفت من حقل dates بعد أن تعذّر تأكيد '1943' في أي سيرة رسمية أو ثانوية."
+  - "active_start عُدِّل من 1985 إلى 1980 وفق سيرتها الرسمية (janinafisher.com) التي تذكر أنها تعالج الأفراد والأزواج والأسر منذ 1980."
   - "نموذج 'التحوّل العلاجي' (Transforming the Living Legacy of Trauma) لم يُختبر تجريبياً بشكل مستقلّ في دراسات كبيرة."
-  - "لا يوجد اقتباس مباشر موثوق من كتبها بالعربية."
+  - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لجانينا فيشر مترجم للعربية."
   - "علاقتها بنظرية التعلق (Bowlby) أوضح من علاقتها بالنظرية العصبية (van der Kolk) في الأدبيات المتوفرة، لكنها لم تُحلَّل في كتبها."
 ---
 
@@ -47,7 +48,3 @@ gaps:
 - *Healing the Fragmented Selves of Trauma Survivors: Overcoming Internal Self-Alienation* (2017) — شفاء الذوات المجزّأة.
 - *Transforming the Living Legacy of Trauma: A Workbook for Survivors and Therapists* (2021) — تحويل الميراث الحيّ للصدمة.
 - *The Living Legacy of Trauma (Video Series, 2019)* — سلسلة محاضرات مسجّلة.
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثوق متاح بالعربية.

@@ -10,16 +10,13 @@ dates: "الولايات المتحدة · 1936–[DRAFT-UNKNOWN]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
-active_end: 2018
+active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "التكاملية/الانتقائية", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-prochaska", title: "جيمس بروتشاسكا", type: "مفكر"
 - id: "thk-stricker", title: "جورج ستريكر", type: "مفكر"
-- id: "thk-gold", title: "جوزيف غولد", type: "مفكر"
 gaps:
   - "سنة الميلاد والوفاة الدقيقتان لم تُراجعا من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق متاح."

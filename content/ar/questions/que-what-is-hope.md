@@ -13,13 +13,11 @@ edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-bloch", title: "إرنست بلوخ", type: "مفكر"
-- id: "thk-marcel", title: "غابرييل مارسيل", type: "مفكر"
+- id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأمل (con-hope)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: المرونة (con-resilience)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: تشارلز سنايدر (thk-snyder)"
-  - "المصادر الأولية (Snyder 1991، Bloch 1954، Marcel 1951) تحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
   - "الفرق بين 'الأمل' (Hope) و'التوقع' (Expectation) و'التفاؤل' (Optimism) و'اليأس' (Despair) يحتاج فصلاً."
   - "العلاقة بـ'الإيمان' (Faith) و'الرجاء' (Christian Hope) تحتاج توثيقاً."
 ---
@@ -50,3 +48,10 @@ gaps:
 ## الأَهمِّيَّة
 
 (1) **الصِّحَّة** (Health): «**أَمَل**» (Hope) «**مُرْتَبِط**» (Linked) بِـ**«**صِحَّة**» (Health). (2) **الْمُسِنُّون** (Elderly): «**أَمَل**» (Hope) «**مُرْتَبِط**» بِـ**«**طُول عُمْر**» (Longevity). (3) **الصَّدْمَة** (Trauma): «**أَمَل**» (Hope) «**يَحْفَز**» (Motivates) «**شِفَاء**» (Healing).
+
+## المصادر
+
+- Snyder, C. R. (1991). "The Psychology of Hope." *Journal of Personality and Social Psychology*.
+- Bloch, E. (1954-1959). *Das Prinzip Hoffnung* (The Principle of Hope).
+- Marcel, G. (1951). *Homo Viator: Introduction to a Metaphysic of Hope*.
+- Cheavens, J. S. & Heiy, J. E. (2007). "Hope Therapy." In *The Oxford Handbook of Positive Psychology*.

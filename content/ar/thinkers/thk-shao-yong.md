@@ -15,8 +15,7 @@ active_end: 1077
 edges:
 - rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "صحة نسبة طريقة 'حساب الحوادث' (Meihua Yishu) إليه مختلف فيها بين الدارسين."
 ---
 
 # شاو يونغ
@@ -41,6 +40,8 @@ gaps:
 - *Guan wu pian* (في مشاهدة الأشياء).
 - *Yichuan jirang ji* (مجموعة أشعار جي رانغ).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Shao Yong, *Huangji jingshi shu* [Supreme Principles Governing the World].
+- Birdwhistell, A. D. (1989). *Transition to Neo-Confucianism: Shao Yung on Knowledge and Symbols of Reality*. Stanford University Press.
+- Wyatt, D. J. (1996). *The Recluse of Loyang: Shao Yong and the Moral Evolution of Early Sung Thought*. University of Hawaii Press.

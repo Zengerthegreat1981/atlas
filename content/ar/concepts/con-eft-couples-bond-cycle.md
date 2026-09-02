@@ -16,21 +16,21 @@ edges:
 - rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-sjohnson", target_type: "مفكر"
 related:
-- id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر (EFT للأزواج)", type: "مدرسة"
+- id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)", type: "مدرسة"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
-- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات", type: "مفهوم"
-- id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
+- id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
+- id: "con-eft-couples-emotion-focused", title: "النَّهْج الْمُتَمَحْوَر حَوْل الْمَشَاعِر فِي EFT", type: "مفهوم"
 - id: "con-eft-couples-stuck-points", title: "نِقَاط الِانْحِراف فِي EFT: تَثْبِيت 'الْمَشَاعِر الْخَاطِئَة'", type: "مفهوم"
 gaps:
   - "الصياغة الأولى لـJohnson في *Emotionally Focused Couple Therapy* (1996)؛ الصياغة اللاحقة الأكثر تنظيماً في *Hold Me Tight* (2008) موثَّقة."
-  - "الأساس التجريبي للـBond Cycle في تجارب Johnson & Greenberg (1988) وما بعدها موثَّق في دراسات متعددة."
+  - "رابط أنماط التعلق الشائعة (con-attachment-styles-popular) أُزيل لأن المتن لا يشرح صلته المباشرة بدورة الترابط؛ العلاقة تحتاج فقرة صريحة قبل إعادته."
 ---
 
 # دورة الترابط (The Bond Cycle) في العلاج الزوجي المتمحور حول المشاعر
 
-مفهوم محوري في **العلاج الزوجي المتمحور حول المشاعر** (EFT for Couples) طوّرته **سو جونسون** (Sue Johnson). يصف **الدورة التكرارية** التي يقع فيها الأزواج عند انقطاع الترابط العاطفي، والعلاج يهدف إلى «إعادة» الدورة إلى **ترابط آمن**.
+مفهوم محوري في **العلاج الزوجي المتمحور حول المشاعر** (EFT for Couples) طوّرته **سو جونسون** (Sue Johnson) استناداً إلى **نظرية التعلق** لـ**جون بولبي** (John Bowlby)، التي تفترض أن الحاجة للترابط الآمن حاجة بيولوجية أساسية لا تقتصر على الطفولة بل تمتد للعلاقات الزوجية البالغة. يصف المفهوم **الدورة التكرارية** التي يقع فيها الأزواج عند انقطاع الترابط العاطفي، والعلاج يهدف إلى «إعادة» الدورة إلى **ترابط آمن**. الأساس التجريبي للمفهوم يعود إلى دراسة جونسون المشتركة مع **ليزلي غرينبرغ** (Johnson & Greenberg, 1988) التي ربطت عملية الجلسات العلاجية بنتائجها.
 
 ## مكوِّنات الدورة
 
@@ -95,6 +95,7 @@ gaps:
 - مساعدة الشريك على **التعبير المباشر** عن احتياجاته.
 - مثال: المُطارِد يتعلم: «أنا خائف، أحتاجك»، بدل: «أنت لا تهتم بي».
 - مثال: المُجنِّب يتعلم: «أنا منزعج لأنني أخاف من الرفض»، بدل: «اتركني وشأني».
+- هذا الانتقال من التعبير عن **المشاعر الثانوية** (الغضب، النقد) إلى **المشاعر الأساسية** (الخوف، الحزن) هو صلب **النهج المتمحور حول المشاعر** في EFT، وهو نفسه ما يُحلَّل عند تعثّره باسم **نِقَاط الِانْحِراف**.
 
 ### المرحلة 4: «إعادة البناء» (Consolidation)
 - تعزيز **الاستجابات الجديدة** المُتعاطفة.
@@ -124,9 +125,3 @@ gaps:
 - Johnson, S. M. (2004). «The practice of emotionally focused couple therapy: Creating connection». Brunner/Mazel.
 - Johnson, S. M. (2008). *Hold Me Tight: Seven Conversations for a Lifetime of Love*. Routledge.
 - Johnson, S. M., & Greenberg, L. S. (1988). «Relating process to outcome in marital therapy». *Journal of Marital and Family Therapy*, 14(2), 175-183.
-
-## ملاحظة معمارية
-
-- ينتمي إلى **sch-eft-couples** كمفهوم مؤسِّس.
-- مرتبط بـ**thk-sjohnson** (سو جونسون) كمؤسِّسة.
-- مرتبط بـ**thk-bowlby** (نظرية التعلق) و**con-attachment-styles-popular** (أنماط التعلق) كإطار نظري أوسع.

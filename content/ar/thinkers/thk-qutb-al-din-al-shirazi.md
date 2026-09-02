@@ -15,8 +15,7 @@ active_end: 1311
 edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "قنوات الانتقال المحتملة من نماذج مدرسة مراغة الفلكية إلى كوبرنيكوس لا تزال موضع بحث مفتوح في تاريخ العلم، ولا يوجد إجماع على أنها كانت مباشرة."
 ---
 
 # قطب الدين محمود بن مسعود الشيرازي
@@ -43,6 +42,8 @@ gaps:
 - *شرح حكمة الإشراق*.
 - *التحفة السعدية* (شرح كلّيات القانون لابن سينا).
 
-## اقتباسات مختارة
+## المصادر
 
-لا يوجد اقتباس مباشر موثوق متاح.
+- Saliba, G. (2007). *Islamic Science and the Making of the European Renaissance*. MIT Press — عن مدرسة مراغة ونماذجها الرياضية.
+- Walbridge, J. (1992). *The Science of Mystic Lights: Quṭb al-Dīn Shīrāzī and the Illuminationist Tradition in Islamic Philosophy*. Harvard University Press.
+- Ragep, F. J. — دراسات مدرسة مراغة الفلكية وعلاقتها بكوبرنيكوس.

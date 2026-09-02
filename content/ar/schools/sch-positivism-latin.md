@@ -9,13 +9,14 @@ en: "Latin American Positivism"
 crumb: "الفلسفة ← أمريكا اللاتينية ← الوضعية"
 dates: "أمريكا اللاتينية · من 1850s إلى 1930s"
 country: "البرازيل، المكسيك، الأرجنتين"
+cultural_origin: "latin-american"
 language: "الإسبانية، البرتغالية"
 active_start: 1850
 active_end: 1930
 edges:
 - rel: "evolved_from", target: "sch-comtian-positivism", target_type: "مدرسة"
 related:
-- id: "sch-comtian-positivism", title: "الوضعية (الكومتية)", type: "مدرسة"
+- id: "sch-comtian-positivism", title: "الوضعية / الكومتية", type: "مدرسة"
 - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية", type: "مدرسة"
 - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 gaps:
@@ -59,3 +60,11 @@ gaps:
 - ارتبطت بالاستبداد (Científicos يديرون باسم العلم).
 - تهمل التعددية الاجتماعية.
 - أثّرت سلباً في تطوير فلسفة لاتينية أصيلة.
+
+## المصادر
+
+- Zea, Leopoldo. *El positivismo en México: nacimiento, apogeo y decadencia*. Fondo de Cultura Económica, 1943.
+- Ingenieros, José. *El hombre mediocre*. Talleres Gráficos Argentinos, 1913.
+- Cruz Costa, João. *A History of Ideas in Brazil: The Development of Philosophy in Brazil and the Evolution of National History*. University of California Press, 1964.
+- Comte, Auguste. *Cours de philosophie positive*. Bachelier, 1830–1842.
+- Hale, Charles A. *The Transformation of Liberalism in Late Nineteenth-Century Mexico*. Princeton University Press, 1989.

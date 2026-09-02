@@ -9,11 +9,15 @@ crumb: "علم النفس الاجتماعي ← الأعمال ← نظرية �
 dates: "1957 · ليون فيستنغر"
 language: "الإنجليزية"
 active_start: 1957
-active_end: 1957
+active_end: 2017
 part: "psychology"
+author: "ليون فِستِنغر"
+author_slug: "thk-lfestinger"
+publication_year: 1957
+original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
-- rel: "authored_by", target: "ليون فيستنغر", target_type: "مفكر"
+- rel: "authored_by", target: "thk-lfestinger", target_type: "مفكر"
 related:
 - id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"

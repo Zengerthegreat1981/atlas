@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "co-developed", target: "النظرية العلائقية الثقافية", target_type: "تيار"
+- rel: "co-developed", target: "br-relational-cultural", target_type: "تيار"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "con-mutual-empathy", title: "التمكين والتعاطف المتبادل (Mutual Empathy)", type: "مفهوم"

@@ -14,11 +14,13 @@ edges:
 related:
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "syn-loneliness-isolation", title: "متلازمة الوحدة والعزلة", type: "متلازمة"
-- id: "wrk-loneliness-cacioppo", title: "عمل كاتشيوبو عن الوحدة", type: "عمل / كتاب"
+- id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
+- id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية والحاجة للترابط الاجتماعي", type: "عمل / كتاب"
+- id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
   - "لم تُراجَع نصوص وينيكوت عن 'القدرة على الوحدة' مباشرة — الاعتماد على شروح ثانوية."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على اقتباس مباشر موثّق من مصدر أولي لهذا المفهوم."
 ---
 
 # الوحدة القسرية مقابل العزلة الاختيارية

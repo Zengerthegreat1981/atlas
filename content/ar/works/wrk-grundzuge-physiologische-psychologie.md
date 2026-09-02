@@ -8,11 +8,14 @@ en: "Grundzüge der physiologischen Psychologie"
 crumb: "علم النفس التجريبي المبكر ← الأعمال ← خطوط علم النفس الفسيولوجي"
 dates: "1873–1874 · فيلهلم فونت"
 active_start: 1873
-active_end: 1874
+active_end: 1920
 language: "الألمانية"
 part: "psychology"
+author: "فيلهلم فونت"
+author_slug: "thk-wundt"
+publication_year: 1873
+original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "علم النفس التجريبي المبكر", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-wundt", target_type: "مفكر"
 related:
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
@@ -21,7 +24,6 @@ related:
 gaps:
   - "الكتاب طُبعت منه ست طبعات بين 1874 و1908 — التحقق من أي اختلافات جوهرية بين الطبعات لم يُنجز بعد."
   - "لا يوجد ملفّ مفكر (thk-) لـ Wundt في الفهرس بعد — مُدرج في 'أفكار روابط لم تُتحقق'."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
 ---
 
 # خطوط علم النفس الفسيولوجي

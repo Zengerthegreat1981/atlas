@@ -13,12 +13,11 @@ active_start: 1999
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "التكامل الحسي", target_type: "تيار"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير موثّقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "سنة ميلادها الدقيقة لم تُحدَّد في السير الأكاديمية العامة المتاحة."
 ---
 
 # ويني دون
@@ -45,3 +44,9 @@ gaps:
 
 ## القيد
 - **استخدام "Sensory Profile"** كأداة بحثية أثار تساؤلات سيكومترية في العقدين الأخيرين، خاصة في تفسيره بين الثقافات.
+
+## المصادر
+
+- Dunn, Winnie. "The Sensations of Everyday Life: Empirical, Theoretical, and Pragmatic Considerations." *American Journal of Occupational Therapy* 55, no. 6 (2001): 608–620.
+- Dunn, Winnie. *Living Sensationally: Understanding Your Senses*. London: Jessica Kingsley Publishers, 2008.
+- University of Missouri — صفحة السيرة الأكاديمية الرسمية لويني دون، قسم العلاج المهني.

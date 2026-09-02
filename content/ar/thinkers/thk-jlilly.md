@@ -13,7 +13,7 @@ active_end: 2001
 part: "philosophy"
 crumb: "دراسات الوعي ← الحرمان الحسي وخزّان العزل ← جون لِلي"
 edges:
-- rel: "belongs_to", target: "التنفس الهولوتروبي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-rmritchie", title: "رالف ميتزنر", type: "مفكر"

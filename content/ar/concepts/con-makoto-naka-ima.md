@@ -9,15 +9,15 @@ crumb: "أطر غير غربية ← المفاهيم ← ماكوتو/ناكا-
 active_start: 1972
 active_end: "مستمر"
 part: "philosophy"
-edges:
-- rel: "belongs_to", target: "Constructive Living (اليابان/كندا)", target_type: "مدرسة"
 related:
 - id: "tec-morita-therapy", title: "علاج موريتا", type: "تقنية/تدخل علاجي"
+- id: "thk-dreynolds", title: "ديفيد ك. رينولدز", type: "مفكر"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
 - id: "con-tabula-rasa", title: "اللوح الفارغ (Tabula Rasa)", type: "مفهوم"
+- id: "dia-morita-cbt-engagement", title: "علاج موريتا والعلاج المعرفي السلوكي: تقاطع حيّ", type: "حوار مع مدرسة مجاورة"
 gaps:
-  - "مؤسس الحركة الرئيسي (David K Reynolds) لم يُكتب له ملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف مدرسة مستقل لـConstructive Living في الأطلس؛ حُذف رابط edges غير الصالح (كان نصاً حراً وليس slug)."
+  - "يحتاج قسم الاقتباسات مراجعة بشرية لإيجاد نص أولي محقَّق من David K. Reynolds."
 ---
 
 # ماكوتو / ناكا-إيما
@@ -41,3 +41,7 @@ gaps:
 
 - **David K. Reynolds**: أسس مركز Pacific Mentor في كولومبيا البريطانية.
 - **كتب مرجعية**: *Constructive Living* (1984)، *A Handbook for Constructive Living* (2002).
+
+## الصلات
+
+يستند المفهوم مباشرة إلى **tec-morita-therapy** الذي يشكّل جذره الياباني، وقد صاغه ونقله إلى الغرب **thk-dreynolds** بوصفه المؤسس المباشر لحركة Constructive Living. يتقاطع مع **con-autonomy-homonomy** في التوتر بين الاستقلال الفردي والانصياع لمقتضى اللحظة، ومع **con-tabula-rasa** بوصفه نقيضاً — إذ لا يفترض الوعي صفحة بيضاء بل واقعاً يجب قبوله كما هو لا محوه. كما يتقاطع مع الجدل **dia-morita-cbt-engagement** الذي يقارن منطق موريتا/ناكا-إيما بمنطق العلاج المعرفي السلوكي الغربي.

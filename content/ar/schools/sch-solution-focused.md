@@ -9,24 +9,21 @@ en: "Solution-Focused Brief Therapy (SFBT)"
 crumb: "علم النفس ← المدارس النظامية-المختصرة ← العلاج المختصر القائم على الحل (SFBT)"
 dates: "الولايات المتحدة · من 1982 إلى اليوم"
 country: "الولايات المتحدة الأمريكية (ميلووكي، ويسكونسن)"
+cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
 register: "academic"
 evidence_level: "راسخ لحالات معيّنة (Well-Established for Specific Problems) وفق تقييم الدليل العلاجي"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري المختصر (Brief Family Therapy)", target_type: "تيار"
-- rel: "evolved_from", target: "علاج ميلووكي المختصر (Brief Family Therapy Center, BFTC)", target_type: "سياق"
-- rel: "evolved_from", target: "علاج الاستراتيجي القائم على حل المشكلات (Brief Strategic Family Therapy)", target_type: "تيار"
-- rel: "founded_by", target: "ستيف دي شايزر (Steve de Shazer)", target_type: "مفكر"
 - rel: "founded_by", target: "thk-iberg", target_type: "مفكر"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "sch-dbt", title: "علاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "thk-beck", title: "آرون بيك", type: "مفكر"
-- id: "thk-sdeshacer", title: "ستيف دي شايزر (Solution-Focused)", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 - id: "con-solution-focused-miracle", title: "سؤال المعجزة (Miracle Question, SFBT)", type: "مفهوم"
 - id: "con-solution-focused-miracle-q", title: "سؤال المعجزة (Miracle Question) في العلاج المختصر القائم على الحل", type: "مفهوم"
 - id: "thk-alasdair-macleod", title: "ألاسدير ماكليود (Alasdair MacLeod)", type: "مفكر"
@@ -137,7 +134,7 @@ gaps:
 
 ترك دي شايزر وبيرغ إرثاً عميقاً في تطبيع فكرة "العلاج القصير" كنهج أصيل لا كحل اقتصادي. أنشأت بيرغ معهد BRIEF (Brief Therapy Institute) في ميلووكي، وانتشر SFBT في أكثر من ثلاثين بلداً. اليوم يرتبط اسم SFBT بمجتمع Solution-Focused Therapy Association (SFTA).
 
-## المرجع الموصى للقراءة المعمَّقة
+## المصادر
 
 - de Shazer, S. (1985). *Keys to Solution in Brief Therapy*. Norton.
 - de Shazer, S. (1988). *Clues: Investigating Solutions in Brief Therapy*. Norton.

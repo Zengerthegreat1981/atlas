@@ -1,0 +1,62 @@
+---
+slug: "thk-ma-rosario-alfelor"
+id: "THK-2695"
+type: "مفكر"
+level: "متوسط"
+title: "ماريا روساريو ألفيلور"
+en: "Ma. Rosario Alfelor"
+crumb: "Sikolohiyang Pilipino (Filipino Psychology) ← تطوير ← ماريا روساريو ألفيلور"
+dates: "الفلبين · [DRAFT-UNKNOWN]"
+country: "الفلبين"
+language: "الفلبينية/الإنجليزية"
+active_start: 2005
+active_end: "مستمر"
+part: "psychology"
+edges:
+- rel: "belongs_to", target: "sch-sikolohiyang-pilipino", target_type: "مدرسة"
+related:
+- id: "thk-venriquez", title: "فيرجوليو إنريكيز", type: "مفكر"
+- id: "thk-aaguiling", title: "أرنولد أغيلينغ", type: "مفكر"
+- id: "thk-jmcleod", title: "جون ماكليود", type: "مفكر"
+- id: "br-sikolohiyang-pilipino", title: "Sikolohiyang Pilipino (علم النفس الفلبيني)", type: "تيار"
+- id: "con-filipino-self", title: "الذات الفلبينية", type: "مفهوم"
+- id: "con-kapwa", title: "الكاپوا (Kapwa)", type: "مفهوم"
+- id: "con-bayanihan", title: "البايانِهان (Bayanihan)", type: "مفهوم"
+gaps:
+  - "سنة الميلاد غير موثقة."
+  - "الاسم 'Ma. Rosario Alfelor' في سياق Sikolohiyang Pilipino: لم أعثر على ملف أكاديمي مستقل."
+  - "توصية الحجر في `agents_specs/quarantine-minimax.md`."
+---
+
+# ماريا روساريو ألفيلور
+
+أكاديمية فلبينية، يدّعي المسوّدة أنها من المساهمين في **تطبيقات Sikolohiyang Pilipino** على **الإرشاد النفسي في المدارس** والجامعات الفلبينية.
+
+## محاولة التوثيق
+
+**Sikolohiyang Pilipino** (*Filipino Psychology*) حركة علم النفس الفلبينية التي أسّسها [فيرجوليو إنريكيز](thk-venriquez) في السبعينيات، ردّاً على «الاستعمار النفسي» (Psychological Colonialism) في علم النفس المهيمن أمريكياً. ترتكز على:
+- **الكاپوا** (Kapwa): مفهوم الذات المشتركة (Shared Self)، مقابل الذات الفردية.
+- **البايانِهان** (Bayanihan): روح الجماعة والتعاون.
+- **الذات الفلبينية** (*Filipino Self*): تصور للذات بوصفها علائقية-مشتركة، لا مستقلة.
+
+بالبحث عن اسم «Ma. Rosario Alfelor» في هذا السياق:
+- لم أعثر على ملف أكاديمي مستقل.
+- من المرجح أن الاسم وُضع في هذا المسوّد بناءً على مساهمات في ندوات أو كتب جماعية عن الإرشاد النفسي الفلبيني.
+
+أقدم هذا الملف بمنطق الاحتفاظ بالمسوّدة مع توثيق الفجوة (Rule 5 من MINIMAX): لا أكتب سيرة ذاتية مختلقة، لكن أحتفظ بالعنوان في الفهرس مع كل التفاصيل عن سبب عدم التحقق.
+
+## موقعها المفترض من التيار
+
+لو صحّت الإسنادات، فستكون ألفيلور عند **تلاقي Sikolohiyang Pilipino مع الإرشاد النفسي المدرسي**، وهو ما يُنتج تطبيقات عملية للنموذج في **البيئة التعليمية الفلبينية**.
+
+## علاقتها بالتيار والمفاهيم
+
+ترتبط [بـSikolohiyang Pilipino](br-sikolohiyang-pilipino) و[بالذات الفلبينية](con-filipino-self) و[بالكاپوا](con-kapwa) و[بالبايانِهان](con-bayanihan) كمفاهيم مركزية. تلتقي مع [فيرجوليو إنريكيز](thk-venriquez) في البُعد التأسيسي، ومع [أرنولد أغيلينغ](thk-aaguiling) في تطوير تطبيقات الإرشاد.
+
+## المصادر
+
+- Enriquez, V. G. (1992). *From Colonial to Liberation Psychology*. De La Salle University Press.
+- Enriquez, V. G. (1978). *Kapwa: A Core Concept in Filipino Social Psychology*. Philippine Social Science Center.
+- Macaraya, B. (2007). *Sikolohiyang Pilipino: Its History, Theories, and Methods*. De La Salle University Press.
+- Pe-Pua, R., & Protacio-Marcelino, E. A. (2000). *Sikolohiyang Pilipino (Filipino Psychology): A Legacy of Virgilio G. Enriquez*. Philippine Journal of Psychology.
+- توصية الحجر في `agents_specs/quarantine-minimax.md` بسبب عدم كفاية الأدلة على الإنتاج الفردي القابل للاقتباس.
