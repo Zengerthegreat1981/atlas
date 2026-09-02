@@ -7,6 +7,8 @@
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
+⚠️ **22 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-cmadanes, thk-kimkwansung, thk-bobbeck, thk-kaarlokeranen, thk-jdelozier, thk-louise-guerney, thk-cyamanaka, thk-caruso-amedeo, thk-edward-de-bono, thk-kfeeney, thk-john-friedman, thk-jabra, thk-jchales, thk-jcawley, thk-akelman, thk-johann-hari, thk-dwchen, thk-jgone, thk-kunzli, thk-lwalker, thk-deng-yuanhai, thk-alasdair-macleod
+
 ## مفكر (2508)
 
 - `thk-aabdelkhalek` — أحمد محمد عبد الخالق — ✅ معتمد
