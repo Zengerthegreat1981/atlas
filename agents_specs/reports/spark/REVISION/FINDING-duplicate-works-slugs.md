@@ -1,6 +1,6 @@
 # ازدواج في `works/`: انعكاس ترتيب الكلمات في الـslug
 
-**التاريخ:** 2026-09-02 · **الحالة: ⛔ يحتاج قراراً — لم يُدمج شيء** · **18 مجموعة، 37 ملفاً — منها 16 مفتوحة فعلاً**
+**التاريخ:** 2026-09-02 · **الحالة: ⛔ يحتاج قراراً — لم يُدمج شيء** · **26 مجموعة مفتوحة** (29 مؤكَّدة، 3 منها محلولة أصلاً)
 
 ## كيف ظهر
 
@@ -117,6 +117,70 @@ redirect_to: wrk-sartre-being-and-nothingness
 
 لم أفحص حقل `redirect_to` قبل أن أعلن ثماني عشرة حالة مفتوحة. نفس النمط: **قياس بلا فحص ما هو
 موجود أصلاً في البيانات.** والفحص كان سطراً واحداً.
+
+## تصحيح ثانٍ للعدد: 18 → **26 مفتوحة** — وكيف ضُبِط
+
+أبلغ وكيل في 6.3 عن زوج لكوهن لم يظهر في فحصي: `wrk-kuhn-structure-revolutions` و
+`wrk-the-structure-of-scientific-revolutions-kuhn`. والسبب أن **اسم المؤلِّف مُلحَق في أحد
+الشكلين، في `en` و`title` معاً** — فالمطابقة بالتساوي التامّ تفشل:
+
+```
+"The Structure of Scientific Revolutions"       → structurescientificrevolutions
+"The Structure Of Scientific Revolutions Kuhn"  → structurescientificrevolutionskuhn
+```
+
+فأعدتُ الفحص **بالاحتواء** بدل التساوي: 32 مجموعة.
+
+### لكن الاحتواء يُنتج إيجابيات كاذبة — وضُبِطت
+
+| المجموعة الكاذبة | لماذا |
+|---|---|
+| `wrk-metaphysics-aristotle` / `wrk-physics-aristotle` | **«الطبيعة» جزء من «ما بعد الطبيعة» حرفياً** — وهما كتابان مختلفان لأرسطو |
+| `wrk-metaphysics-of-morals-kant` (1797) / `wrk-groundwork-metaphysics-morals-kant` (1785) | *تأسيس ميتافيزيقا الأخلاق* غير *ميتافيزيقا الأخلاق* — **والسنتان تفضحانه** |
+| `wrk-no-bad-parts` (2021) مع ملفَّي IFS (1995) | كتاب لاحق للمؤلِّف نفسه، لا نسخة أخرى |
+
+**والمرشِّح هو `publication_year`**: الازدواج الحقيقي يحمل **نفس السنة** (كانط 1781، كيركغور
+1843، فوكو 1966، الغزالي 1108، ابن رشد 1179، ماركوس أوريليوس 180، ابن ميمون 1190، ملغرام 1974،
+فرانكل 1946، روجرز 1951، كريبكي 1980، سبينوزا 1677). واختلاف السنة يكشف عملَين مختلفَين.
+وحالة أرسطو وحدها احتاجت رفضاً يدوياً لأن أحد ملفَّيها بلا سنة.
+
+### الحصيلة المضبوطة
+
+| | العدد |
+|---|---|
+| مجموعات بالاحتواء | 32 |
+| مرفوضة (سنة مختلفة أو رفض يدوي) | 3 |
+| **مؤكَّدة** | **29** |
+| منها محلولة بكعب `redirect_to` | 3 |
+| **مفتوحة فعلاً** | **26** |
+
+### وممّا أضافه هذا التصحيح
+
+مجموعات لم تكن في الثمانية عشر أصلاً، ومنها مهمّة:
+
+- **Tractatus Logico-Philosophicus by Ludwig Wit** — `wrk-tractatus-logico-philosophicus-wittgenstein` (؟، 1073ح، 3ر) · `wrk-tractatus` (1921، 4800ح، 3ر)
+- **Motivation and Personality by Abraham H. Mas** — `wrk-maslow-motivation-and-personality` (1954، 1628ح، 5ر) · `wrk-motivation-personality` (1954، 5272ح، 2ر)
+- **Ethics, Demonstrated in Geometrical Order by** — `wrk-spinoza-ethics` (1677، 4725ح، 5ر) · `wrk-ethics-spinoza` (1677، 1112ح، 2ر)
+- **Ideas Pertaining To Pure Phenomenology Husse** — `wrk-ideas-pertaining-to-pure-phenomenology-husserl` (1913، 806ح، 3ر) · `wrk-ideen-i` (1913، 4245ح، 2ر)
+- **Naming And Necessity Kripke** — `wrk-naming-and-necessity-kripke` (1980، 771ح، 3ر) · `wrk-naming-necessity` (1980، 1935ح، 3ر)
+- **Summa Theologiae by Thomas Aquinas** — `wrk-summa-theologiae-aquinas` (؟، 869ح، 7ر) · `wrk-summa-theologiae` (؟، 2195ح، 3ر)
+- **Waking the Tiger: Healing Trauma** — `wrk-waking-the-tiger` (؟، 1268ح، 5ر) · `wrk-levine-waking-the-tiger` (1997، 1655ح، 3ر)
+- **…trotzdem Ja zum Leben sagen · Man's Search ** — `wrk-mans-search` (1946، 1874ح، 3ر) · `wrk-frankl-mans-search-for-meaning` (1946، 1669ح، 3ر)
+- **Client-Centered Therapy: Its Current Practic** — `wrk-rogers-client-centered-1951` (1951، 3902ح، 4ر) · `wrk-rogers-client-centered-therapy` (1951، 1617ح، 3ر)
+- **An Inquiry Into The Good Nishida** — `wrk-an-inquiry-into-the-good-nishida` (؟، 644ح، 5ر) · `wrk-inquiry-into-good` (1911، 1765ح، 2ر)
+- **Anarchy, State, and Utopia** — `wrk-anarchy-state-utopia` (1974، 2332ح، 3ر) · `wrk-anarchy-state-and-utopia-nozick` (1974، 731ح، 2ر)
+
+## ⚠️ ونمط ظهر مرّتين: الملفّ الأقلّ ارتباطاً يحمل ما يفتقده الباقي
+
+فحص وكيلان نصفَي زوجَين بالحقول، فظهر الشيء نفسه في كليهما:
+
+- **سارتر**: الملف الباقي `wrk-sartre-being-and-nothingness` (13 رابطاً) **لا يحمل حدّ
+  `written_by` إلى سارتر إطلاقاً**، ويربطه عبر `related` فقط — والكعب المُحال يحمل الحدّ الصحيح.
+- **سبينوزا**: الملف الأقلّ ارتباطاً (رابط واحد) يحمل `author` و`author_slug` و`publication_year`
+  و`original_language`، **وكلها غائبة عن الملف ذي الرابطَين**.
+
+**فقاعدة «يبقى الأكثر ارتباطاً» غير كافية وحدها.** كل دمج يحتاج **جرد حقول** قبله، وإلا ضاع
+بيان بنيوي موجود في الطرف المُحال. وهذا ما ينبغي أن يسبق أي تنفيذ للستّة والعشرين.
 
 ## ما لم يُفحَص بعد
 
