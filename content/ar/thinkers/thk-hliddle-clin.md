@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 - *Adolescent Substance Abuse Treatment* (مساهم، 2010).
+
+## المصادر
+
+- Sam Houston State University / Academia.edu, صفحة أبحاث Craig E. Henderson: https://shsu.academia.edu/CraigEHenderson
+- van der Pol, T. M., Henderson, C. E., Hendriks, V., Schaub, M. P., & Rigter, H., "Multidimensional Family Therapy Reduces Self-Reported Criminality Among Adolescents With a Cannabis Use Disorder", *International Journal of Offender Therapy and Comparative Criminology*, 2018.
+- مقالات إضافية بمشاركة هندرسون حول فعالية MDFT (تجارب عشوائية محكَّمة)، منها دراسة في *Journal of Behavioral Health Services & Research* (2023) ودراسة في PMC (2016) حول المراهقين الأشد شدة في تعاطي المواد.

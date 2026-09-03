@@ -51,3 +51,8 @@ gaps:
 - *A Teaching Seminar with Milton H. Erickson* (1980، تحرير وتعليق) — نسخة حرفية لأسبوع تدريب مع إريكسون مع شرح لما يفعله في كل لحظة، وهي أقرب ما وصلنا إلى إريكسون وهو يعمل.
 - *The Induction of Hypnosis: An Ericksonian Elicitation Approach* (2014).
 - *Ericksonian Methods: The Essence of the Story* (1994، تحرير).
+
+## المصادر
+
+- Jeffrey K. Zeig, Wikipedia (en.wikipedia.org/wiki/Jeffrey_K._Zeig).
+- The Milton H. Erickson Foundation، صفحة "About" وصفحة كتاب *The Evolution of Psychotherapy* — تأسيس المؤسسة 1979، والمؤتمر الأول 1985 (26 من قادة مدارس العلاج النفسي المختلفة).

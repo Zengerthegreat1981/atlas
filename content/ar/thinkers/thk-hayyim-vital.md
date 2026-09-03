@@ -49,3 +49,10 @@ gaps:
 - أبواب القداسة (Sha'arei Kedusha)
 - شرح على الزبور
 - (طبعت أعماله التفسيرية على أسفار موسى الخمسة في إصدارات لاحقة)
+
+## المصادر
+
+- Wikipedia, "Hayyim ben Joseph Vital": https://en.wikipedia.org/wiki/Hayyim_ben_Joseph_Vital
+- Chabad.org, "Rabbi Chayim Vital": https://www.chabad.org/library/article_cdo/aid/112069/jewish/Rabbi-Chayim-Vital.htm
+- Sefaria Library, "Kabbalah, Arizal and Chaim Vital": https://www.sefaria.org/texts/Kabbalah/Arizal%20and%20Chaim%20Vital
+- The National Library of Israel, entry on *Sha'arei Kedusha* (trans. Yaron Ever Hadani).

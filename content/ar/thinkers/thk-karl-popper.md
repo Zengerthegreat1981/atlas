@@ -16,10 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
-- id: "thk-thomas-kuhn", title: "توماس كوهن", type: "مفكر"
+- id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 - id: "ctx-post-truth-polarization-social-media", title: "عصر «ما بعد الحقيقة» وخوارزميات الاستقطاب وغرف الصدى الرقمية", type: "سياق/تقليد"
-gaps:
-  - "معيار التكذيبية (Falsifiability) ونقده للتحليل النفسي والماركسية كعلوم زائفة ونقده للنزعة التاريخية في المجتمع المفتوح."
+gaps: []
 ---
 # سير كارل بوبر
 
@@ -49,3 +48,11 @@ gaps:
 ## اقتباسات مختارة
 
 «ليس هناك ما يمكن أن يُسمّى منهجاً استقرائياً.» (منطق البحث العلمي)
+
+## المصادر
+
+- Popper, K. (1934/1959). *The Logic of Scientific Discovery*.
+- Popper, K. (1945). *The Open Society and Its Enemies*.
+- Popper, K. (1963). *Conjectures and Refutations*.
+- Popper, K. (1972). *Objective Knowledge: An Evolutionary Approach*.
+- Internet Encyclopedia of Philosophy, "Popper, Karl: Philosophy of Science".

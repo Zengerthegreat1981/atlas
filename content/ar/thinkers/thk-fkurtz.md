@@ -4,7 +4,7 @@ id: "THK-2182"
 type: "مفكر"
 level: "متوسط"
 title: "رونالد كورتز"
-en: "Ronald F. Kurtz"
+en: "Ronald S. Kurtz"
 crumb: "علم النفس الجسدي ← هاكومي ← رون كورتز"
 dates: "الولايات المتحدة · 1934–2011"
 country: "الولايات المتحدة"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "تفصيل فكرة الجسد بوصفه معالجاً (Body as Healer) لم يُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق من *Body-Centered Psychotherapy: The Hakomi Method* (1990) بترجمة عربية معتمدة."
+  - "تصحيح: كان الاسم الإنجليزي مدرجاً خطأً «Ronald F. Kurtz»؛ الاسم الصحيح الموثَّق في مصادر متعددة (منها مجلة Body, Movement and Dance in Psychotherapy، وموقع Hakomi Institute) هو Ronald S. Kurtz."
 ---
 
 # رونالد كورتز
@@ -46,3 +47,11 @@ gaps:
 ## أهم أعماله
 
 العلاج النفسي المتمركز حول الجسد: منهج هاكومي (Body-Centered Psychotherapy: The Hakomi Method, 1990) · الجسد يكشف (The Body Reveals, 1976، مع هيكتور برنتيس) · النعمة المتكشّفة: العلاج النفسي في روح «التاو-تي-تشينغ» (Grace Unfolding, 1991، مع غريغ يوهانسون).
+
+## المصادر
+
+- Kurtz, R. (1990). *Body-Centered Psychotherapy: The Hakomi Method*. LifeRhythm.
+- Kurtz, R., & Prestera, H. (1976). *The Body Reveals*. Harper & Row.
+- Johanson, G., & Kurtz, R. (1991). *Grace Unfolding: Psychotherapy in the Spirit of the Tao-te ching*. Bell Tower.
+- Johanson, G. "Ronald S. Kurtz (1934-2011): A Remembrance." gregjohanson.com.
+- Hakomi Institute — "Ron Kurtz" (سيرة رسمية)، hakomiinstitute.com.

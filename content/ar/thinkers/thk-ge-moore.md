@@ -49,3 +49,11 @@ gaps:
 ## اقتباسات مختارة
 
 «ها هي يدٌ، وها هي أخرى.» (برهان على العالم الخارجي، 1939)
+
+## المصادر
+
+- Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+- Moore, G. E. (1903). "The Refutation of Idealism." *Mind*, 12(48).
+- Moore, G. E. (1925). "A Defence of Common Sense." في *Contemporary British Philosophy* (Second Series), ed. J. H. Muirhead.
+- Moore, G. E. (1939). "Proof of an External World." *Proceedings of the British Academy*, 25.
+- Baldwin, T. "George Edward Moore." *Stanford Encyclopedia of Philosophy*, plato.stanford.edu/entries/moore/.

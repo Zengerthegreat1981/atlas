@@ -43,3 +43,9 @@ gaps:
 ## أهم أعماله
 
 الأخلاق (Ethik, 1926) · مشكلة الوجود الروحي (Das Problem des geistigen Seins, 1932) · تأسيس الأنطولوجيا (Zur Grundlegung der Ontologie, 1935) · الإمكان والفعل (Möglichkeit und Wirklichkeit, 1938) · سبل جديدة في الأنطولوجيا (Neue Wege der Ontologie, 1949) · الجماليات (Ästhetik، صدر بعد وفاته عام 1953).
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Nicolai Hartmann": https://plato.stanford.edu/entries/nicolai-hartmann/
+- Wikipedia, "Nicolai Hartmann": https://en.wikipedia.org/wiki/Nicolai_Hartmann
+- Poli, R., "An Introduction to Nicolai Hartmann's Critical Ontology", *Axiomathes/Global Philosophy* (Springer).

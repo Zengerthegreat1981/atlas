@@ -51,3 +51,10 @@ gaps:
 بين الإنسان والإنسان (人と人との間، 1972) — كتاب «آيدا» الأصلي · الزمن والذات (時間と自己، 1982) — أوسع كتبه انتشاراً في اليابان · وقد نُقلت أعماله إلى الفرنسية والألمانية في التسعينيات والألفية (*L'Entre*، 2000؛ *Écrits de psychopathologie phénoménologique*، 1992)، وعبرها عرفه الحقل الأوروبي.
 
 > **ملاحظة:** التواريخ التي كانت مثبتة في هذا الملف هي تواريخ **الترجمات الفرنسية**، لا الأصول اليابانية.
+
+## المصادر
+
+- Kimura, B. (1972). 人と人との間 (بين الإنسان والإنسان).
+- Kimura, B. (1982). 時間と自己 (الزمن والذات).
+- Fukao, T. (2023). "Life philosophy of Bin Kimura", *Psychiatry and Clinical Neurosciences Reports*.
+- Noma, S. (2023). "The anthropological method for diagnosing mental diseases: On the theory of time structure of Bin Kimura", *Psychiatry and Clinical Neurosciences Reports*.

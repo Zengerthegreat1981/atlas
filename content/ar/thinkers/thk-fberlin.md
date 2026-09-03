@@ -43,4 +43,10 @@ gaps:
 ## أهم أعماله
 
 - Berlin, F. S., & Malin, H. M., "Media distortion of the public's perception of recidivism and psychiatric rehabilitation", *American Journal of Psychiatry* (1991).
-- تأسيس Johns Hopkins Sexual Behavior Consultation Service.
+- تأسيس Johns Hopkins Sexual Behavior Consultation Service (وعيادة الاضطرابات الجنسية Sexual Disorders Clinic، أسّسها وأدارها 1980–1992)، ولاحقاً National Institute for the Study, Prevention and Treatment of Sexual Trauma (1992).
+
+## المصادر
+
+- Berlin, F. S., & Malin, H. M. (1991). "Media Distortion of the Public's Perception of Recidivism and Psychiatric Rehabilitation." *American Journal of Psychiatry*, 148(11).
+- Johns Hopkins Medicine — "Frederick Saul Berlin, MD, PhD" (ملف طبي رسمي)، profiles.hopkinsmedicine.org.
+- US News Health — "Dr. Fred S. Berlin, MD" (سيرة مهنية)، health.usnews.com.

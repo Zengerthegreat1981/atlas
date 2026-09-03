@@ -16,7 +16,7 @@ edges:
 - rel: "influenced", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
@@ -49,3 +49,11 @@ gaps:
 ## أهم أعماله
 
 نيتشه: فيلسوفاً وعالمَ نفسٍ وضدّاً للمسيح (Nietzsche: Philosopher, Psychologist, Antichrist، 1950) · الوجودية من دوستويفسكي إلى سارتر (1956، تحرير وترجمة) · نقد الدين والفلسفة (Critique of Religion and Philosophy، 1958) · إيمان زنديق (The Faith of a Heretic، 1959) · بلا ذنب ولا عدالة: من العار إلى الاستقلال الذاتي (Without Guilt and Justice، 1973) · ترجماته: أعمال نيتشه الأساسية، و«أنا وأنت» لمارتن بوبر (1970)، و«فاوست» لغوته، ومقاطع من هيغل.
+
+## المصادر
+
+- Kaufmann, W. (1950). *Nietzsche: Philosopher, Psychologist, Antichrist*.
+- Kaufmann, W. (1956, ed.). *Existentialism from Dostoevsky to Sartre*.
+- Kaufmann, W. (1973). *Without Guilt and Justice*.
+- Princeton University Department of Philosophy, "Walter A. Kaufmann" (صفحة تذكارية).
+- Encyclopedia.com, "Kaufmann, Walter Arnold (1921–1980)".
