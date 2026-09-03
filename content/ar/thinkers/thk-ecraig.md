@@ -8,7 +8,7 @@ en: "Erik Craig"
 crumb: "المدرسة الوجودية ← الناس ← إريك كريك"
 dates: "أمريكا · معاصر"
 active_start: 1988
-active_end: 1988
+active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
@@ -22,11 +22,13 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Psychotherapy for Freedom: The Daseinsanalytic Way in Psychology and Psychoanalysis* (1988) بترجمة عربية معتمدة."
   - "أعماله في فينومينولوجيا الأحلام الهايدجرية والتحليل الوجودي الأمريكي تحتاج توثيقاً إضافياً."
+  - "لم يتأكّد من مصادر مستقلة أنه شغل تحديداً رئاسة APA Division 32؛ المؤكّد أنه نال جائزة رولو ماي التذكارية من هذا القسم عام 2015 وأنه ترأّس جمعيات نفسية أخرى على مستويات ولائية ووطنية ودولية."
+  - "لا تتوفر سنة دقيقة لبدء نشاطه المهني؛ 'active_start' في هذا الملف تقريبية استناداً إلى تاريخ نشر عمله الأول الموثّق (1988)."
 ---
 
 # إريك كريك
 
-عالم نفس إكلينيكي وظاهراتي أمريكي معاصر، رئيس سابق لجمعية علم النفس الإنساني (APA Division 32) ومحرر دوريات التحليل الوجودي والفينومينولوجيا، وأحد أبرز مطبقي التحليل الدازايني للأحلام في الولايات المتحدة.
+عالم نفس إكلينيكي وظاهراتي أمريكي معاصر (دكتوراه من جامعة بوسطن)، عمل عقوداً في نيو إنجلاند قبل أن يستقرّ في سانتا في بولاية نيومكسيكو؛ شغل رئاسة عدد من الجمعيات النفسية على المستوى الولائي والوطني والدولي، ونال عام 2015 جائزة "رولو ماي" التذكارية من قسم علم النفس الإنساني بالجمعية الأمريكية لعلم النفس (APA Division 32) تقديراً لمسيرته. حرّر عددين محوريين لمجلة *The Humanistic Psychologist*، وأحد أبرز مطبقي التحليل الدازايني للأحلام في الولايات المتحدة، وتتلمذ على يد ميدارد بوس في زيورخ وعلى بول شتيرن (Paul Stern) في كامبريدج.
 
 ## ما أعطاه
 
@@ -41,4 +43,11 @@ gaps:
 
 ## أهم أعماله
 
-تحرير العدد الخاص «Psychotherapy for Freedom: The Daseinsanalytic Way in Psychology and Psychoanalysis» (The Humanistic Psychologist, 1988).
+- تحرير العدد الخاص «Psychotherapy for Freedom: The Daseinsanalytic Way in Psychology and Psychoanalysis» (The Humanistic Psychologist, 1988).
+- تحرير العدد الخاص «Depth, Death and Dialogue: New Inquiries in Existential Depth Psychotherapy» (The Humanistic Psychologist, 2008).
+
+## المصادر
+
+- Erik Craig — الصفحة التعريفية، 4th World Congress of Existential Therapy (wcet4.com/erik_craig/).
+- Erik Craig — ملف الباحث على Academia.edu وResearchGate.
+- Project MUSE — "About the Authors" (muse.jhu.edu/article/611994)، إشارة إلى جائزة رولو ماي التذكارية (APA Division 32، 2015) وتقدير Journal of Phenomenological Psychology (2021).

@@ -19,7 +19,7 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 - id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
-- id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
+- id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: مقاربة علمية للاستبصار في التحليل النفسي والجماعات (بيون)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Psycho-Analysis of Children* (1932) بترجمة عربية معتمدة."
   - "الموقع الفصامي-البارانويدي والموقع الاكتئابي والإسقاط التعارفي تستحق إدراجاً كمفاهيم مستقلة."
@@ -57,3 +57,11 @@ gaps:
 ## أهم أعمالها
 
 التحليل النفسي للأطفال (The Psycho-Analysis of Children، 1932) · **إسهام في التكوّن النفسي لحالات الهوس والاكتئاب** (1935) · ملاحظات في بعض الآليات الفُصامية (Notes on Some Schizoid Mechanisms، 1946) — الورقة التي عُرض فيها الموقع الفُصامي-الزوري والتماهي الإسقاطي · الحسد والامتنان (Envy and Gratitude، 1957) · سرد تحليل طفل (Narrative of a Child Analysis، نُشر بعد وفاتها عام 1961).
+
+## المصادر
+
+- Melanie Klein — Wikipedia (بيانات الميلاد 30 مارس 1882 فيينا، والوفاة 22 سبتمبر 1960 لندن) — https://en.wikipedia.org/wiki/Melanie_Klein
+- Melitta Schmideberg — Wikipedia (خلاف الابنة مع كلاين) — https://en.wikipedia.org/wiki/Melitta_Schmideberg
+- Klein, M. (1957). *Envy and Gratitude*. Tavistock Publications.
+- Klein, M. (1946). "Notes on Some Schizoid Mechanisms". *International Journal of Psycho-Analysis*.
+- King, P. & Steiner, R. (eds.) (1991). *The Freud-Klein Controversies 1941–45*. Routledge.

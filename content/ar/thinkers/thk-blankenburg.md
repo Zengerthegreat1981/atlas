@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 فقدان البداهة الطبيعية: إسهام في فينومينولوجيا الفصام قليل الأعراض (Der Verlust der natürlichen Selbstverständlichkeit, 1971).
+
+## المصادر
+
+- Wolfgang Blankenburg – Wikipedia (بالألمانية): https://de.wikipedia.org/wiki/Wolfgang_Blankenburg
+- "Wolfgang Blankenburg (1928 bis 2002)", Der Nervenarzt, Springer: https://link.springer.com/article/10.1007/s00115-003-1613-3
+- Blankenburg, Wolfgang — BIAPSY (Biographisches Archiv der Psychiatrie): https://biapsy.de/en/blankenburg-wolfgang-2/
+- "Wolfgang Blankenburg", The Oxford Handbook of Phenomenological Psychopathology, Oxford Academic: https://oxfordhandbooks.com/view/10.1093/oxfordhb/9780198803157.001.0001/oxfordhb-9780198803157-e-20

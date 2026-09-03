@@ -17,7 +17,7 @@ edges: []
 related:
 - id: "wrk-why-has-nobody-told-me", title: "لماذا لم يخبرني أحد بهذا من قبل؟", type: "عمل / كتاب"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية في العلاج المعرفي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 gaps:
   - "التأثير الكمي لحملات التثقيف النفسي عبر منصات التواصل (تيك توك وإنستغرام) يحتاج دراسة مسحية موثقة."
   - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـجولي سميث في الأدبيات المتاحة."
@@ -52,3 +52,9 @@ gaps:
 
 - *Why Has Nobody Told Me This Before?* (2022).
 - *Open When: A Companion for Life's Twists and Turns* (2024).
+
+## المصادر
+
+- Julie Smith, Wikipedia (EN): https://en.wikipedia.org/wiki/Julie_Smith
+- Dr Julie Smith — السيرة الرسمية والمؤهلات (D.Clin.Psych، جامعة ساوثهامبتون): https://drjulie.co.uk/
+- Hampshire and Surrey Psychology — صفحة السيرة المهنية: https://www.hampshirepsychology.co.uk/meet-our-teams-2-2/dr-julie-smith/

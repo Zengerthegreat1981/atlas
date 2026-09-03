@@ -43,3 +43,9 @@ gaps:
 
 ## القيد
 مقياس POI الذي بنى عليه شهرته تعرّض لنقد سيكومتري متواصل: بنيته العاملية لم تُثبَت بشكل متّسق، وسهولة تزييف الاستجابة فيه عالية، ومقياس «تحقيق الذات» نفسه يفترض تعريفاً قيمياً للصحة النفسية لا تعريفاً وصفياً — وهو النقد الذي لاحق أدوات علم النفس الإنساني كلّها.
+
+## المصادر
+- [Everett L. Shostrom — Wikipedia](https://en.wikipedia.org/wiki/Everett_L._Shostrom)
+- [Everett Leo Shostrom (1921–1992) — Find a Grave](https://www.findagrave.com/memorial/42084854/everett-leo-shostrom)
+- [Man, the Manipulator — Internet Archive (نسخة كاملة من الكتاب)](https://archive.org/details/manmanipulatorin0000shos)
+- [Everett L. Shostrom (1921–1992) — ProQuest / American Psychologist obituary](https://www.proquest.com/docview/614356723)

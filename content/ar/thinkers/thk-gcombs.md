@@ -42,3 +42,13 @@ gaps:
 
 - *Narrative Therapy: The Social Construction of Preferred Realities* (1996، مع جيل فريدمان) — المرجع التمهيدي الأوسع انتشاراً في الحقل.
 - *Narrative Therapy with Couples… and a Whole Lot More!* (2002، مع جيل فريدمان).
+- *Symbol, Story, and Ceremony: Using Metaphor in Individual and Family Therapy* (1990، مع جيل فريدمان).
+
+نال مع جيل فريدمان جائزة الأكاديمية الأمريكية للعلاج الأسري (AFTA) للإسهام الابتكاري في العلاج الأسري لعام 2009.
+
+## المصادر
+
+- Gene Combs, MD — The Taos Institute: https://www.taosinstitute.net/about-us/people/honorary-associates/gene-combs
+- Gene Combs, MD — Motivo Learning: https://learn.motivohealth.com/panelists/gene-combs
+- Jill Freedman & Gene Combs — Evanston Family Therapy Center: https://www.narrativetherapychicago.com/jill-freedman-and-gene-combs
+- Narrative Therapy — W. W. Norton & Company: https://wwnorton.com/books/9780393702071

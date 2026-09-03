@@ -52,3 +52,9 @@ gaps:
 - الاقتصاد في الاعتقاد (Al-Iqtisad fi al-I'tiqad)
 - كيمياء السعادة
 - إلجام العوام عن علم الكلام
+
+## المصادر
+
+- "al-Ghazali", Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/al-ghazali/
+- "Ghazali, Al- (c. 1059-1111)", Encyclopedia.com: https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ghazali-al-c-1059-1111
+- "Al-Nizamiyya of Baghdad", Wikipedia: https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad

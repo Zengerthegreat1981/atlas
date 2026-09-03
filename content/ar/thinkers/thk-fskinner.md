@@ -18,7 +18,7 @@ related:
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
 - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
-- id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
+- id: "con-operant-conditioning", title: "الإشتراط الإجرائي (الإشراط السكينري)", type: "مفهوم"
 - id: "evt-aabt-abct-founding-1966", title: "تأسيس جمعية النهوض بالعلاج السلوكي وتدشين عصر العلاج المعرفي السلوكي", type: "حدث تاريخي"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
 - id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
@@ -50,3 +50,10 @@ gaps:
 ## أهم أعماله
 
 سلوك الكائنات الحية (The Behavior of Organisms, 1938) · والدن الثاني (Walden Two, 1948) · العلم والسلوك الإنساني (Science and Human Behavior, 1953) · جداول التعزيز (Schedules of Reinforcement, 1957، مع تشارلز فيرستر) · السلوك اللفظي (Verbal Behavior, 1957) · ما وراء الحرية والكرامة (Beyond Freedom and Dignity, 1971) · سيرته الذاتية في ثلاثة أجزاء (1976–1983).
+
+## المصادر
+
+- B. F. Skinner, Wikipedia: https://en.wikipedia.org/wiki/B._F._Skinner
+- Snopes — "B.F. Skinner Raised His Daughter in a Skinner Box?": https://www.snopes.com/fact-check/one-man-and-a-baby-box/
+- Association for Psychological Science — "Skinner Air Crib": https://www.psychologicalscience.org/observer/skinner-air-crib
+- Noam Chomsky, review of *Verbal Behavior*, *Language* 35(1), 1959.

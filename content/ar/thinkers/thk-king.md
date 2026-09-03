@@ -6,12 +6,12 @@ level: "متقدم"
 title: "بيرل كينغ"
 en: "Pearl King"
 crumb: "مدرسة التحليل النفسي ← الناس ← بيرل كينغ"
-dates: "بريطانيا · 1912–2006"
+dates: "بريطانيا · 1918–2015"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: 1950
-active_end: 2006
+active_end: 2015
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -45,3 +45,9 @@ gaps:
 ## أهم أعمالها
 
 **المناقشات الخلافية بين آنا فرويد وميلاني كلاين 1941–1945** (The Freud-Klein Controversies، 1991، مع ريكاردو شتاينر) · "Notes on the psychoanalysis of older patients" (1980)، *Journal of Analytical Psychology* · *Time Present and Time Past: Selected Papers of Pearl King* (2005).
+
+## المصادر
+
+- Pearl King, Wikipedia: https://en.wikipedia.org/wiki/Pearl_King
+- The Sigourney Award — Pearl H. M. King, 1992 (1918–2015): https://www.sigourneyaward.org/recipient-list/pearl-king-1992
+- Karnac Books — The Freud-Klein Controversies 1941-45 by Pearl King: https://www.karnacbooks.com/product/the-freud-klein-controversies-1941-45/2549/

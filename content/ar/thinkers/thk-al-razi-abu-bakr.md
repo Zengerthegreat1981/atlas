@@ -14,9 +14,9 @@ active_start: 890
 active_end: 925
 edges: []
 related:
-- id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
-- id: "thk-al-kindi", title: "الكندي", type: "مفكر"
-- id: "ctx-classical-islamic-golden-age", title: "العصر الذهبي الإسلامي", type: "سياق/تقليد"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
+- id: "ctx-classical-islamic-golden-age", title: "سياق الفلسفة والطب النفسي في العصر الذهبي الإسلامي", type: "سياق/تقليد"
 gaps:
   - "بيانات بيبلوغرافية إضافية حول تواريخ المخطوطات والترجمات."
   - "لا يوجد اقتباس منسوب من «الطبّ الروحاني» بطبعة وصفحة."
@@ -46,3 +46,9 @@ gaps:
 - *المنصوري في الطبّ*.
 - *السيرة الفلسفية* (The Philosophical Life) — دفاعه عن نمط حياته.
 - *الجدري والحصبة*.
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy — "Abu Bakr al-Razi".
+- ويكيبيديا العربية — "أبو بكر الرازي".
+- PMC (Annals of Saudi Medicine) — "Abu Bakr Muhammad Ibn Zakariya Al Razi (Rhazes): Philosopher, Physician and Alchemist".

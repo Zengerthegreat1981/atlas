@@ -13,20 +13,15 @@ country: "المملكة المتحدة"
 language: "الإنجليزية، اللاتينية"
 active_start: 1704
 active_end: 1732
-edges:
-- rel: "belongs_to", target: "sch-berkeleianism", target_type: "مدرسة"
-- rel: "developed", target: "sch-berkeleianism", target_type: "مدرسة"
-related:
-- id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
-- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-- id: "con-esse-est-percipi", title: "الوجود أن يُدرَك (Esse est percipi)", type: "مفهوم"
-- id: "con-categorical-imperative", title: "الأمر المطلق (كانط)", type: "مفهوم"
+edges: [{ rel: "belongs_to", target: "sch-berkeleianism", target_type: "مدرسة" }, { rel: "developed", target: "sch-berkeleianism", target_type: "مدرسة" }]
+related: [{ id: "thk-berkeley", title: "جورج باركلي", type: "مفكر" }, { id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة" }, { id: "con-esse-est-percipi", title: "الوجود هو الإدراك الحسي (Esse Est Percipi)", type: "مفهوم" }]
 gaps:
-  - "تفاصيل طفولته في لانجريد (Wiltshire) قبل التحاقه بكلية «باليول» (Balliol) أكسفورد موثّقة جزئياً."
-  - "علاقته بالفيلسوف «Nicholas Malebranche» (الذي قرأه بالفرنسية) في صياغة «Clavis Universalis» موثّقة جزئياً."
+  - "تصحيح: اسم رعيّته ومسقط رأسه هو Steeple Langford (ستيبل لانجفورد)، ويلتشير — وليس «لانجريد/Langridge» كما ورد سابقاً؛ عائلته توارثت رئاسة كهنوت هذه الرعية لأربعة أجيال قبله (مؤكَّد من British History Online وDNB)."
+  - "أُزيل رابط con-categorical-imperative (الأمر المطلق عند كانط): لا صلة مباشرة موثّقة بين فلسفة كوليار وكانط في المصادر الإنجليزية المتاحة؛ تأثيره المزعوم على كانط أو لايبنتز غير موثَّق ولا يظهر في المصادر القياسية (Britannica، Encyclopedia.com، SEP)، وقد يكون خلطاً مع النقاش العام حول أسبقية المثالية الذاتية في القرن 18."
+  - "العنوان الدقيق لعمل 1732: يُشار إليه أحياناً باسم مختصر «The Logos» وأحياناً بعنوانه الكامل الأقرب لمحتواه اللاهوتي حول إنجيل يوحنا؛ العنوان الكامل الموثّق بدقة من كل المصادر لم يُحسم هنا — يحتاج مراجعة نسخة أصلية من الكتاب."
+  - "علاقته بمالبرانش (الذي قرأه بالفرنسية) وبجاره الفيلسوف جون نوريس (John Norris) في صياغة «Clavis Universalis» موثّقة في Britannica وEncyclopedia.com؛ لا إشارة موثّقة إلى قراءته لجون لوك."
   - "ترجمة أعماله إلى العربية معدومة، باستثناء مقتطفات في كتب الفلسفة الحديثة."
-  - "تأثيره في الفلاسفة الألمان اللاحقين (لايبنتز، كانط) موثّق جزئياً في الأبحاث الإنجليزية."
-  - "مقارنة فلسفته بباركلي نفسه: هل هما متّفقان فعلاً، أم أنّ «بانيادة» كوليار تختلف عن «بانيادة» باركلي؟ هذا الجدل مستمرّ."
+  - "مقارنة فلسفته بباركلي نفسه: هل هما متّفقان فعلاً، أم أنّ «ثنائية» كوليار تختلف عن ثنائية باركلي؟ هذا الجدل مستمرّ في الأدبيات الأكاديمية."
 ---
 
 # آرثر كوليار (مؤسِّس المثالية الذاتية الإنجليزية)
@@ -37,9 +32,9 @@ gaps:
 
 ### المرحلة الأولى — التكوين اللاهوتي (1698–1704)
 
-وُلِد كوليار في لانجريد (Langridge، ويلتشير) في عائلة كنسية. درس في **كلية باليول (Balliol)، أكسفورد**، وتخصّص في اللاهوت. تخرّج في 1700 تقريباً. تعمّق في **«الآباء» (Patristics)**، و**«مالبرانش»** (Malebranche) بالفرنسية.
+وُلِد كوليار في 12 أكتوبر 1680 في مقرّ رعيّة **ستيبل لانجفورد (Steeple Langford)**، ويلتشير، حيث توارث أجداده (جدّه هنري ووالده أرثر الأب) رئاسة الكهنوت لعدّة أجيال. التحق أولاً بكلية بمبروك (Pembroke) أكسفورد عام 1697 ثم انتقل إلى **كلية باليول (Balliol)** عام 1698، وتخصّص في اللاهوت. تأثّر خصوصاً بديكارت ومالبرانش (Malebranche، قرأه بالفرنسية) وبجاره الفيلسوف **جون نوريس** (John Norris)؛ ولم يترك أي إشارة إلى معرفته بأعمال جون لوك.
 
-في 1704، أصبح **قسّيساً (Rector)** لكنيسة لانجريد، وهو المنصب الذي شغله حتى وفاته 1732.
+في 1704، خلَف والده في منصب **قسّيس (Rector)** رعية ستيبل لانجفورد، وهو المنصب الذي شغله حتى وفاته سنة 1732، ودُفن هناك في 9 سبتمبر من تلك السنة.
 
 ### المرحلة الثانية — «Clavis Universalis» (1713)
 
@@ -96,3 +91,13 @@ gaps:
 ## اقتباس مختار
 
 > «الأشياء لا تَوجد في اللاّشيء. في كلّ حالة، حيث يَكون هناك عقل مُدرك، تكون الأشياء موجودة. العالم المادّي ليس استثناءً.»
+
+*(تنبيه: هذه صياغة تلخيصية لفكرة كوليار المركزية في «Clavis Universalis»، وليست ترجمة حرفية موثّقة من نص أصلي — لا توجد ترجمة عربية معتمدة للعمل، والاقتباس الإنجليزي الدقيق يحتاج مراجعة من النسخة الأصلية المتاحة على أرشيف الإنترنت.)*
+
+## المصادر
+
+- Arthur Collier, *Wikipedia*: https://en.wikipedia.org/wiki/Arthur_Collier
+- "Arthur Collier", *Encyclopedia.com*: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/collier-arthur-1680-1732
+- "Arthur Collier", *Encyclopædia Britannica*: https://www.britannica.com/biography/Arthur-Collier
+- *Dictionary of National Biography, 1885-1900*, "Collier, Arthur": https://en.wikisource.org/wiki/Collier,_Arthur_(DNB00)
+- Arthur Collier, *Clavis Universalis* (1713), نسخة رقمية: https://archive.org/details/clavisuniversali00colliala

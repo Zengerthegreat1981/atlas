@@ -22,7 +22,7 @@ gaps:
 
 # توماس هانا
 
-فيلسوف وعالم وظائف أعضاء أمريكي، مؤسس "التربية الجسدية الحَسيّة" (Hanna Somatic Education) ومؤسس مجلة *Somatics* (1976). تأثر بفلسفة هوسرل، الفينومينولوجيا الجسدية، وأعمال ف. م. ألكسندر.
+فيلسوف وعالم وظائف أعضاء أمريكي (توماس لويس هانا، Thomas Louis Hanna)، مؤسس "التربية الجسدية الحَسيّة" (Hanna Somatic Education) ومؤسس مجلة *Somatics* (1976). حصل على دكتوراه في الفلسفة واللاهوت من جامعة شيكاغو (1958)، وترأّس قسم الفلسفة في جامعة فلوريدا (1965). تأثر بفلسفة هوسرل، الفينومينولوجيا الجسدية، وأعمال ف. م. ألكسندر.
 
 ## ما أعطاه
 
@@ -33,7 +33,7 @@ gaps:
 
 ## موقعه من التيار
 
-أهم ما يوصله بغيره أنه كان مدير أول برنامج تدريب أمريكي لطريقة **موشيه فيلدنكرايس** (سان فرانسيسكو، 1975)، ومن عمله على فيلدنكرايس اشتقّ طريقته الخاصة. وهو أيضاً من نحت مصطلح **«السوماتيكس»** (Somatics) وأسّس المجلة التي حملت الاسم، فصار المصطلح يجمع تحته حقلاً كاملاً — من ألكسندر وفيلدنكرايس إلى الأجيال اللاحقة.
+أهم ما يوصله بغيره أنه كان مديراً (بصفته رئيس معهد سيبروك/معهد علم النفس الإنساني آنذاك) لأول برنامج تدريب أمريكي لطريقة **موشيه فيلدنكرايس**، أُقيم في كلية Lone Mountain بسان فرانسيسكو بين 1975 و1977، ومن عمله على فيلدنكرايس اشتقّ طريقته الخاصة. وفي 1975 أسّس مع زوجته إليانور كريزوِل هانا (Eleanor Criswell Hanna) معهد نوفاتو للبحث الجسدي (Novato Institute of Somatic Research). وهو أيضاً من نحت مصطلح **«السوماتيكس»** (Somatics) وأسّس المجلة التي حملت الاسم، فصار المصطلح يجمع تحته حقلاً كاملاً — من ألكسندر وفيلدنكرايس إلى الأجيال اللاحقة.
 
 ## القيد
 
@@ -44,3 +44,11 @@ gaps:
 - *The Body of Life* (1979).
 - *Bodies in Revolt* (1970).
 - *Somatics: Reawakening the Mind's Control of Movement* (1988).
+
+## المصادر
+
+- "Thomas Louis Hanna", *Wikipedia*: https://en.wikipedia.org/wiki/Thomas_Louis_Hanna
+- "Thomas Hanna | Educating Somas": http://www.shropshiresomatics.uk/thomas-hanna
+- "The History of Somatics - How Hanna Somatics was developed", *Somatic Movement Center*: https://somaticmovementcenter.com/history-of-somatics/
+- "Learn More", *Association For Hanna Somatic Education*: https://www.associationforhannasomaticeducation.com/learn-more
+- "Who is Thomas Hanna in the world of Somatics?", *Essential Somatics*: https://essentialsomatics.com/thomas-hanna-somatics/

@@ -40,3 +40,9 @@ gaps:
 
 - *Families of the Slums* (1967).
 - *The Magic of Family Therapy* (مساهم، 1998).
+
+## المصادر
+- [Braulio Montalvo, 80, therapist — Philadelphia Inquirer, obituary (2014/04/06)](https://www.inquirer.com/philly/obituaries/20140406_Braulio_Mantalvo__80__therapist.html)
+- [Braulio Montalvo Obituary — French Funerals & Cremations (2014/03/31)](https://www.frenchfunerals.com/obituaries/braulio-montalvo)
+- [Braulio Montalvo — European Family Therapy Association (EFTA)](https://europeanfamilytherapy.eu/braulio-montalvo/)
+- [Structural family therapy — Wikipedia (خلفية عن تعاونه مع مينوشين في Wiltwyck وClinic فيلادلفيا)](https://en.wikipedia.org/wiki/Structural_family_therapy)

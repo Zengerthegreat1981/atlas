@@ -12,15 +12,11 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 1830
 active_end: 1857
-edges:
-- rel: "belongs_to", target: "sch-comtian-positivism", target_type: "مدرسة"
-- rel: "founded", target: "sch-comtian-positivism", target_type: "مدرسة"
-related:
-- id: "sch-comtian-positivism", title: "الوضعية / الكومتية", type: "مدرسة"
-- id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
+edges: [{ rel: "belongs_to", target: "sch-comtian-positivism", target_type: "مدرسة" }, { rel: "founded", target: "sch-comtian-positivism", target_type: "مدرسة" }]
+related: [{ id: "sch-comtian-positivism", title: "الوضعية / الكومتية", type: "مدرسة" }, { id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر" }]
 gaps:
-  - "رابط مقترح لـ«كلود هنري دي سان-سيمون» (thk-saint-simon) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
-  - "دور كلوتيلد دي فوكس في حياة كونت الشخصية لم يُراجع."
+  - "رابط مقترح لـ«كلود هنري دي سان-سيمون» (thk-saint-simon) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط. ملاحظة مُهمّة: كونت عمل مساعداً لسان-سيمون بدءاً من 1817 وتأثّر بشدّة بأفكاره قبل أن تنشأ بينهما قطيعة عام 1824."
+  - "دور كلوتيلد دي فوكس (Clotilde de Vaux) في حياة كونت موثَّق جيداً من مصادر مستقلة: التقيا 1844، توفيت بالسل 1846 بعد علاقة أفلاطونية قصيرة، وقد ألّهها كونت لاحقاً بوصفها أول «قديسة» في دينه الوضعي، وأصبحت رمزاً لـ«الكائن الأكبر الجديد» (Nouveau Grand-Être Suprême)."
   - "لا يوجد اقتباس مباشر موثوق من 'Cours de philosophie positive' بعد."
   - "دُمج معه الملف المكرَّر thk-auguste-comte (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
@@ -47,6 +43,8 @@ gaps:
 
 في المرحلة الذاتية، طَوّر كونت **عقيدة دينية علمانية** تَعبد **الكائن الأكبر** (Grand Être) — الإنسانية. وقد تركت هذه الفكرة أثراً في سوسيولوجيا **إميل دوركهايم** لاحقاً، وفي التيارات الوضعية في أمريكا اللاتينية.
 
+خلفية هذا التحوّل شخصية: التقى كونت عام 1844 بـ**كلوتيلد دي فوكس** (Clotilde de Vaux)، وعاش معها علاقة حبّ أفلاطونية قصيرة أنهاها موتها بالسل عام 1846. بعد وفاتها، ألّهها كونت وجعلها أول «قدّيسة» في ديانته الوضعية، ورمزاً لـ«الكائن الأكبر الجديد» (Nouveau Grand-Être Suprême)، وظلّ يزور قبرها ويحتفظ بغرفتها كضريح حتى وفاته.
+
 ## الأثر
 
 - **إميل دوركهايم**: أعاد تأسيس علم الاجتماع الوضعي، لكنه **نبذ** الدين الوضعي.
@@ -60,3 +58,11 @@ gaps:
 - **Système de politique positive** (1851-1854): نسق السياسة الوضعية.
 - **Catéchisme positiviste** (1852): التعليم الوضعي (محاورات في الدين الوضعي).
 - **Synthèse subjective** (1856): التركيب الذاتي.
+
+## المصادر
+
+- "Auguste Comte", *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/comte/
+- "Auguste Comte", *Wikipedia*: https://en.wikipedia.org/wiki/Auguste_Comte
+- "Auguste Comte - Positivism, Sociology, Philosophy", *Encyclopædia Britannica*: https://www.britannica.com/biography/Auguste-Comte/Thought
+- "Religion of Humanity", *Wikipedia*: https://en.wikipedia.org/wiki/Religion_of_Humanity
+- "Clotilde de Vaux", *Wikipedia*: https://en.wikipedia.org/wiki/Clotilde_de_Vaux

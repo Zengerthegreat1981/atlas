@@ -15,7 +15,7 @@ active_end: 1956
 edges:
 - rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
-- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
+- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", type: "مدرسة"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 - id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"
 gaps:
@@ -45,3 +45,9 @@ gaps:
 - ألهم فكرُه **حركة «فهود الداليت»** (Dalit Panthers) التي تأسّست بعد وفاته عام 1972 ونهلت من مشروعه.
 - أثّر في **الفلاسفة الأفارقة-الأمريكيين** (Angela Davis، bell hooks).
 - صاغ **دستور الهند 1950** الذي يَضمن المساواة الرسمية ويُلغي «عدم قابلية اللمس» (Untouchability).
+
+## المصادر
+- [B. R. Ambedkar — Constitution of India (رئيس لجنة الصياغة)](https://www.constitutionofindia.net/members/b-r-ambedkar/)
+- [14th October 1956: B.R. Ambedkar converts to Buddhism along with 365,000 followers — Maps of India](https://www.mapsofindia.com/on-this-day/14th-october-1956-b-r-ambedkar-converts-to-buddhism-along-with-365000-followers)
+- [Decoding Dr BR Ambedkar's Conversion to Buddhism — The Quint](https://www.thequint.com/news/india/br-ambedkar-conversion-to-buddhism)
+- [Bhimrao Ramji Ambedkar — Philopedia](https://philopedia.org/thinkers/bhimrao-ramji-ambedkar/)

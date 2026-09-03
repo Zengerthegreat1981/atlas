@@ -50,3 +50,10 @@ gaps:
 ## أهم أعماله
 
 الفينومينولوجيا والطب النفسي الإكلينيكي (Phenomenological and Anthropological Psychiatry, 1991) · دراسات في الشخصية السوداوية والاكتئاب (Beiträge zur Phänomenologie der Melancholie).
+
+## المصادر
+
+- Kraus, A. (1977). *Sozialverhalten und Psychose Manisch-Depressiver*. Enke — إضافة معياري السلطوية المفرطة/التبعية للآخر (Hyper/Heteronomia) وعدم تحمّل الغموض إلى نمط تيلنباخ السوداوي.
+- Tellenbach, H. (1961). *Melancholie*. Springer — المصدر الأصلي لمفهوم Typus Melancholicus الذي بنى عليه كراوس.
+- "Typus melancholicus from Tellenbach up to the present day: A review about the premorbid personality vulnerable to melancholia" — مراجعة تذكر إسهام كراوس (1977)، ResearchGate/PubMed.
+- Deutsche Wikipedia — Alfred Kraus (Psychiater): وُلد 4 يوليو 1934 في مولدورف آم إن، توفي 11 مارس 2022 في هايدلبرغ، رئيس فخري للجمعية الألمانية للأنثروبولوجيا والطب النفسي والعلاج النفسي الظاهراتي (DGAP).

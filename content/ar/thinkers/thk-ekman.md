@@ -15,11 +15,12 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
-- id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
+- id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
 gaps:
   - "نظريته 'Neurocultural' في إدارة التعبيرات لم تُترجم كاملة إلى العربية."
   - "نقده لـLisa Feldman Barrett (نظرية البنية) لم يُجمَع في مرجع واحد."
   - "تعريفه 'Duchenne Smile' ما زال يستحقّ مراجعة في ضوء دراسات التصوير الحديثة (fMRI)."
+  - "الاستخدام الأمني لكشف الكذب عبر التعبيرات الدقيقة (برنامج SPOT التابع لـTSA) تعرّض لنقد علمي واسع (تقرير GAO الأمريكي 2013) بشأن غياب أدلة كافية على دقّته وموثوقيته؛ وهذا خلاف أكاديمي قائم لم يُحسم، وليس إجماعاً على صحة المنهج."
 ---
 
 # بول إيكمان
@@ -49,4 +50,11 @@ gaps:
 - *Emotions Revealed* (2003).
 - *Nonverbal Messages: Cracking the Code* (محرر مع Murphy، 2005).
 - *What the Face Reveals* (محرر مع Rosenberg، 2nd ed. 2005).
+
+## المصادر
+
+- Ekman, P. — "About Paul Ekman" (paulekman.com/about/paul-ekman/).
+- Ekman, P. — "The History of the Facial Action Coding System (FACS)" (paulekman.com/blog/history-of-facs-facial-action-coding-system/).
+- Wikipedia — "Facial Action Coding System".
+- U.S. Government Accountability Office (GAO-14-159, 2013) — تقييم برنامج TSA "SPOT" القائم على كشف السلوك، ونقد غياب أدلة كافية على فعاليته.
 
