@@ -40,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 مبادئ علم الأعصاب (Principles of Neural Science، تحرير مشترك، خمس طبعات منذ 1981) — المرجع التعليمي المعياري في الحقل · «في البحث عن الذاكرة» (In Search of Memory, 2006) · «عصر البصيرة» (The Age of Insight, 2012) · مقالة «علم الأحياء ومستقبل التحليل النفسي» (1998).
+
+## المصادر
+
+- The Nobel Prize in Physiology or Medicine 2000 — NobelPrize.org: https://www.nobelprize.org/prizes/medicine/2000/press-release/ (الجائزة مُناصَفة بين كانديل وآرفيد كارلسون وبول غرينغارد لاكتشافاتهم في نقل الإشارة العصبية).
+- Eric Kandel | Biography, Nobel Prize, & Facts — Encyclopaedia Britannica: https://www.britannica.com/biography/Eric-Kandel
+- Eric R. Kandel, *The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, from Vienna 1900 to the Present* (Random House, 2012).

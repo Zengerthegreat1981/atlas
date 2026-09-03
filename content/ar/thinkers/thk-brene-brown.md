@@ -16,10 +16,10 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "wrk-daring-greatly", title: "الجرأة على الإقدام: كيف تحول الضعف والشجاعة والعراء طريقة عيشنا وحبنا وأبوتنا وقيادتنا", type: "عمل / كتاب"
-- id: "wrk-gifts-of-imperfection", title: "هبات النقص", type: "عمل / كتاب"
+- id: "wrk-gifts-of-imperfection", title: "هبات النقص: دعك مما تظن أنك عليه وكن ما أنت عليه", type: "عمل / كتاب"
 - id: "con-pratfall-effect", title: "تأثير الهفوة / السقوط الرشيق (الجاذبية الإنسانية لارتكاب الأخطاء)", type: "مفهوم"
 gaps:
-  - "تاريخ الميلاد الدقيق (يوم وشهر) ومكان الميلاد لبريني براون لم يُعثر لهما على مصدر أولي."
+  - "وُلدت برينيه براون في 18 نوفمبر 1965 وفق مصادر ثانوية متعدّدة (لا يوجد مصدر أوّلي رسمي كسجلّ ميلاد)؛ مكان الميلاد المتداول هو سان أنطونيو، تكساس، لكنه غير مؤكَّد بمصدر أولي."
 ---
 
 # برينيه براون
@@ -51,4 +51,10 @@ gaps:
 - *Daring Greatly* (2012).
 - *Rising Strong* (2015)، *Braving the Wilderness* (2017).
 - *Dare to Lead* (2018)، *Atlas of the Heart* (2021).
+
+## المصادر
+
+- Brené Brown — Wikipedia: https://en.wikipedia.org/wiki/Bren%C3%A9_Brown
+- Brené Brown — TED Speaker profile: https://www.ted.com/speakers/brene_brown
+- University of Houston, Graduate College of Social Work (Huffington Foundation – Brené Brown Endowed Chair): https://www.uh.edu/socialwork/
 

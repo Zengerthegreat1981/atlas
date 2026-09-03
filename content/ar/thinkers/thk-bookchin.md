@@ -45,4 +45,12 @@ gaps:
 
 - أسّس **معهد الإيكولوجيا الاجتماعية** (Institute for Social Ecology) عام 1974 في فيرمونت.
 - أثّر في **حركة خضر** (Die Grünen) في ألمانيا و**حركة البلدية** في الولايات المتحدة.
-- أثّر في **Janet Biehl** (شريكة حياته، كاتبة *The Politics of Social Ecology*, 1998).
+- أثّر في **Janet Biehl** (شريكة حياته وباحثته، كاتبة *The Politics of Social Ecology: Libertarian Municipalism*, 1998).
+
+## المصادر
+
+- Bookchin, Murray (as Lewis Herber). *Our Synthetic Environment*. Knopf, 1962; إعادة نشر باسمه الحقيقي 1974.
+- Bookchin, Murray. *The Ecology of Freedom: The Emergence and Dissolution of Hierarchy*. Cheshire Books, 1982.
+- Biehl, Janet. *The Politics of Social Ecology: Libertarian Municipalism*. Black Rose Books, 1998.
+- "Institute for Social Ecology", history page, social-ecology.org (تأسّس 1974 في بلينفيلد، فيرمونت، بمشاركة Dan Chodorkoff).
+- "Murray Bookchin", Wikipedia (للتحقق من التواريخ العامة 1921–2006).

@@ -57,3 +57,9 @@ TEACCH يُعتبر أحد الأعمدة الثلاثة الرئيسية لتد
 
 - TEACCH أقل صرامة تجريبية من برامج ABA الحديثة.
 - يرى بعض المنتقدين أنه «يتكيف مع التوحد» أكثر من «يغير السلوك»، وهو ما قد لا يلبي توقعات الأسر التي تريد نتائج دراماتيكية.
+
+## المصادر
+
+- Wikipedia, "Eric Schopler" — https://en.wikipedia.org/wiki/Eric_Schopler
+- Furman University Scholar Exchange, "Eric Schopler Digital Exhibit" — https://scholarexchange.furman.edu/schopler/
+- Pearson Clinical Assessments, "Eric Schopler, PhD" — https://www.pearsonassessments.com/professional-assessments/products/authors/schopler-eric.html

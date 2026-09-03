@@ -18,7 +18,7 @@ related:
 - id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة وطبيعة عملها في جامعة نيو مكسيكو لم تُراجعا من مصدر أولي بعد."
+  - "سنة الميلاد الدقيقة (1975) لم تُؤكَّد من مصدر أولي؛ المؤكَّد أنها أستاذة متميّزة (Distinguished Professor) ومديرة مركز CASAA بجامعة نيو مكسيكو، وحصلت على الدكتوراه في علم النفس الإكلينيكي من جامعة واشنطن عام 2005 بإشراف ألان مارلات."
   - "لا يوجد اقتباس مباشر موثوق من *Mindfulness-Based Relapse Prevention for Addictive Behaviors* (2011) بترجمة عربية معتمدة."
 ---
 
@@ -40,6 +40,12 @@ gaps:
 
 - *Mindfulness-Based Relapse Prevention for Addictive Behaviors: A Clinician's Guide* (2011، مع سارة بوين وألان مارلات).
 - أوراقها في *JAMA Psychiatry* و*Addiction* عن مستويات خطر الشرب بوصفها مخرجاً سريرياً.
+
+## المصادر
+
+- [Katie Witkiewitz — Wikipedia](https://en.wikipedia.org/wiki/Katie_Witkiewitz)
+- [Witkiewitz — Center on Alcohol, Substance use, And Addictions (CASAA), University of New Mexico](https://casaa.unm.edu/people/administration/witkiewitz.html)
+- [Dr. Katie Witkiewitz — Society of Addiction Psychology](https://addictionpsychology.org/education-training/the-addiction-psychologist/dr-katie-witkiewitz-mindfulness-based-relapse-0)
 
 ## القيد
 أدلّة **MBRP** نفسها متواضعة ومحدَّدة: تُظهر التجارب أنه **مكافئ** لبرامج الوقاية من الانتكاس المعتادة ولبرامج الاثنتي عشرة خطوة في المخرجات القريبة، ويتفوّق عليها في **المتابعة الطويلة** (بعد ستّة أشهر إلى سنة) وفي خفض **أيام الشرب الثقيل** لا في معدّلات الامتناع. أي أن قيمته في **تخفيف حدّة الانتكاس حين يقع** لا في منعه — وهذا متّسق مع منطقه: أن يُلاحَظ الاشتهاء ويُحتمَل بدل مقاومته، فلا تتحوّل الزلّة الواحدة إلى انهيار كامل (وهو ما سمّاه مارلات **«أثر انتهاك الامتناع»**).

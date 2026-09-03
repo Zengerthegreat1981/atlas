@@ -39,3 +39,9 @@ gaps:
 
 - *Chunqiu fanlu* (وفرة الندى في حوليات الربيع والخريف).
 - المذكّرات الثلاث المرفوعة إلى الإمبراطور وو، محفوظة في «كتاب هان».
+
+## المصادر
+
+- [Dong Zhongshu — Encyclopaedia Britannica](https://www.britannica.com/biography/Dong-Zhongshu)
+- [Tung Chung-shu — Wikipedia](https://en.wikipedia.org/wiki/Tung_Chung-shu)
+- [Dong Zhongshu 董仲舒 — chinaknowledge.de](http://www.chinaknowledge.de/History/Han/personsdongzhongshu.html)

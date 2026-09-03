@@ -56,4 +56,11 @@ gaps:
 - *Restorative Justice and Responsive Regulation* (2002).
 - *Responsive Regulation: Transcending the Deregulation Debate* (1992، مع إيان أيرز).
 - *Not Just Deserts: A Republican Theory of Criminal Justice* (1990، مع فيليب بيتيت).
-- *Restorative Justice and Responsive Regulation* (2002).
+
+## المصادر
+
+- John Braithwaite (criminologist) — Wikipedia: https://en.wikipedia.org/wiki/John_Braithwaite_(criminologist)
+- الصفحة الرسمية: About | John Braithwaite — http://johnbraithwaite.com/about/
+- ANU Research Portal — John Braithwaite: https://researchportalplus.anu.edu.au/en/persons/john-braithwaite/
+- Ayres, I. & Braithwaite, J., *Responsive Regulation: Transcending the Deregulation Debate*, Oxford University Press, 1992 — صفحة الناشر: https://global.oup.com/academic/product/responsive-regulation-9780195093766
+- Braithwaite, J., *Crime, Shame and Reintegration*, Cambridge University Press, 1989 — النص الكامل منشور على الموقع الرسمي: https://johnbraithwaite.com/wp-content/uploads/2016/06/Crime-Shame-and-Reintegration.pdf

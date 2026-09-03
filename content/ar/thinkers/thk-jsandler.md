@@ -49,3 +49,10 @@ gaps:
 ## أهم أعماله
 
 "The Background of Safety" (1960) · "The Concept of the Representational World" (1962، مع برنارد روزنبلات) · **"Countertransference and Role-Responsiveness" (1976)** — ورقته الأشهر · *The Patient and the Analyst* (1973، مع كريستوفر ديير وألكس هولدر) — «المريض والمحلّل» · *From Safety to Superego: Selected Papers* (1987) · *Internal Objects Revisited* (1998، مع آنّ-ماري ساندلر).
+
+## المصادر
+
+- Joseph J. Sandler — Wikipedia: https://en.wikipedia.org/wiki/Joseph_J._Sandler
+- British Psychoanalytical Society, "Joseph Sandler": https://psychoanalysis.org.uk/joseph-sandler
+- Encyclopedia.com, "Sandler, Joseph (1927-1998)": https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/sandler-joseph-1927-1998
+- The International Journal of Psychoanalysis, obituary/appreciation, Vol 82, No 4 (2001): https://www.tandfonline.com/doi/abs/10.1516/WLAV-JMPL-XLXW-2WJE

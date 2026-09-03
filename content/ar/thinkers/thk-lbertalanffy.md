@@ -46,4 +46,10 @@ gaps:
 
 - *Theoretische Biologie* (1932).
 - *An Outline of General Systems Theory* (1950).
-- *General System Theory* (1968).
+- *General System Theory: Foundations, Development, Applications* (1968).
+
+## المصادر
+
+- Ludwig von Bertalanffy — Wikipedia: https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy
+- Bertalanffy, Ludwig von (1901–1972) — Encyclopedia.com: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/bertalanffy-ludwig-von-1901-1972
+- Ludwig von Bertalanffy — Monoskop: https://monoskop.org/Ludwig_von_Bertalanffy

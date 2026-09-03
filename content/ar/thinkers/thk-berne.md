@@ -20,27 +20,28 @@ related:
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
-- id: "sch-ipt", title: "العلاج النفسي بين الأشخاص (IPT)", type: "مدرسة"
+- id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
 gaps:
   - "مفهوم 'الألعاب النفسية' (Games People Play) يحتاج مراجعة منهجية في ضوء علم النفس المعاصر."
   - "علاقته بـPaul Federn وErik Erikson لم تُوثَّق في رسائل شخصية."
   - "لا توجد ترجمة عربية لـTransactional Analysis in Psychotherapy (1961)."
+  - "تصحيح (تحقّق ويب 2026-09-03): كان بيرن مقيماً نفسياً (resident) في Yale لا مُدرِّساً؛ صُحِّح المتن. تأسيس ITAA كان عام 1964 لا 1958. صيغة الألعاب النفسية الموثَّقة هي 'Formula G' (Con+Gimmick=Response-Switch-Crossup-Payoff) لا 'AHT' كما ورد سابقاً — حُذف المصطلح المُلفَّق. The Happy Valley (1968) كتاب حكائي رمزي لا مذكرات شخصية."
 ---
 
 # إريك بيرن
 
-طبيب نفسي أمريكي-كندي يُعدّ مؤسِّس "التحليل التفاعلي" (Transactional Analysis, TA) ونظرية "الألعاب النفسية" (Games People Play). درّس الطبّ النفسي في Yale ثم عمل لاحقاً في Mount Zion Hospital بسان فرانسيسكو. طوّر منهج "التحليل التفاعلي" بوصفه أداةً للعلاج النفسي تخرج عن "الغرفة المغلقة" إلى "الجمهور العام" — وهو ما جعله "أب التحليل التفاعلي" ومؤسِّس "علم النفس الشعبي للعلاقات".
+طبيب نفسي أمريكي-كندي (وُلد باسم Eric Lennard Bernstein في مونتريال) يُعدّ مؤسِّس "التحليل التفاعلي" (Transactional Analysis, TA) ونظرية "الألعاب النفسية" (Games People Play). حصل على درجة الطبّ من جامعة McGill عام 1935، وأتمّ إقامته النفسية في عيادة الطبّ النفسي بجامعة Yale (1936–1938)، ثم عمل لاحقاً في Mount Zion Hospital بسان فرانسيسكو. طوّر منهج "التحليل التفاعلي" بوصفه أداةً للعلاج النفسي تخرج عن "الغرفة المغلقة" إلى "الجمهور العام" — وهو ما جعله "أب التحليل التفاعلي" ومؤسِّس "علم النفس الشعبي للعلاقات".
 
 ## ما أعطاه
 
 - **"التحليل التفاعلي في العلاج النفسي" (Transactional Analysis in Psychotherapy, 1961)**: كتابه الأبرز الذي حدّد فيه النموذج الكلاسيكي: (1) "الوُلد" (Child) بثلاث حالات (الطبيعي، المتحرّر، المتكيّف)، (2) "الوالد" (Parent) بـ"المُسيطِر" و"المُغذّي"، (3) "الراشد" (Adult) بوصفه "مُعالجاً للواقع". "المعاملة" (Transaction) هي وحدة التفاعل بين شخصين.
-- **"الألعاب الناس يلعبونها" (Games People Play, 1964)**: كتابه الأكثر شعبية، يصف "الألعاب النفسية" (Psychological Games) بوصفها "حركات سُلوكية متكرّرة ذات نهاية مُفاجئة" (AHT – Awful Hidden Trap). صاغ فيها ألعاباً مثل "Rapo" (Now I've Got You, You Son of a Bitch)، "NIGYYSOB" (Now I Got You, You Son of a Bitch) و"Why Don't You, Yes But" (لمَ لا، نعم، لكن).
-- **"الحياة في المصارعة" (What Do You Say After You Say Hello?، نُشر بعد وفاته عام 1972)**: الكتاب الذي يُكمل فيه نموذج "الـ' Scripts'" (المخطوطات الحياتية) — وهي "قصة غير واعية" تحدّد مسار حياة الفرد.
+- **"الألعاب الناس يلعبونها" (Games People Play, 1964)**: كتابه الأكثر شعبية والأطول بقاءً على قائمة الأكثر مبيعاً في نيويورك تايمز (أكثر من عامين). يصف "الألعاب النفسية" (Psychological Games) عبر "صيغة اللعبة" (Formula G): "الطُّعم + نقطة الضعف = استجابة ← تحوُّل ← ارتباك ← مَكسَب" (Con + Gimmick = Response → Switch → Crossup → Payoff). صاغ فيها ألعاباً مثل "Rapo" (لعبة إغواء ثم رفض)، "NIGYYSOB" (Now I've Got You, You Son of a Bitch) و"Why Don't You, Yes But" (لمَ لا، نعم، لكن).
+- **"ماذا تقول بعد أن تقول مرحباً؟" (What Do You Say After You Say Hello?، نُشر بعد وفاته عام 1972)**: الكتاب الذي يُكمل فيه نموذج "الـ'Scripts'" (المخطوطات الحياتية) — وهي "قصة غير واعية" تحدّد مسار حياة الفرد.
 - **"حالات الـ'Ego'": تبنّى "حالات الأنا" الثلاث (الوالد/الراشد/الوُلد) بوصفها "حالات ظاهرية" (Phenomenological) لا "مُتعارَض عليها" في علم النفس.
 - **"التصويت (Strokes)": مفهوم "التربيتة" (Stroke) بوصفها الوحدة الأساسية للتواصل البشري. صاغ "The Five Hunger" (الجوع الخمسة): (1) الاعتراف (Recognition)، (2) التحفيز (Stimulation)، (3) الهيكل (Structure)، (4) التضمين (Inclusion)، (5) الحبّ (Love).
 - **"تقنية OK Corral": "الجدار الذي يَحكم" كلّ علاقة: "أنا موافق، أنت موافق" (I'm OK, You're OK)، وهو عنوان كتابه اللاحق.
 - **"المعاملة المتبادلة" (Transaction): تمييز بين "معاملة مُكمِّلة" (Complementary)، "مُتقاطعة" (Crossed)، و"ضمنية" (Ulterior).
-- **"الجمعية الدولية للتحليل التفاعلي" (ITAA): تأسيسها عام 1958، وهي منظمة لا تزال نشطة.
+- **"الجمعية الدولية للتحليل التفاعلي" (ITAA): تأسّست عام 1964 على يد بيرن وزملائه في ندوات سان فرانسيسكو للطبّ النفسي الاجتماعي، وهي منظمة لا تزال نشطة.
 
 ## موقعه من التيار
 
@@ -51,9 +52,17 @@ gaps:
 - *The Mind in Action* (1947).
 - *Transactional Analysis in Psychotherapy* (1961).
 - *Games People Play: The Psychology of Human Relationships* (1964).
-- *The Happy Valley* (مذكرات، 1965).
+- *The Happy Valley* (كتاب حكائي/أُقصوصة رمزية غير سريرية، 1968).
 - *Principles of Group Treatment* (1966).
 - *A Layman's Guide to Psychiatry and Psychoanalysis* (محرر مع Holt، 1967).
 - *Sex in Human Loving* (1970).
 - *What Do You Say After You Say Hello?* (نُشر بعد وفاته عام 1972).
 - *Beyond Games and Scripts* (محرر مع Steiner، صدر بعد وفاته عام 1972).
+
+## المصادر
+
+- Eric Berne, official biography — ericberne.com/eric_berne_biography
+- "Eric Berne", Wikipedia (en.wikipedia.org/wiki/Eric_Berne)
+- International Transactional Analysis Association (ITAA) — About ITAA, itaaworld.com/about-itaa
+- "Games People Play (book)", Wikipedia (en.wikipedia.org/wiki/Games_People_Play_(book))
+- The Happy Valley — ericberne.com/the-happy-valley

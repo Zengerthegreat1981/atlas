@@ -13,11 +13,11 @@ language: "الروسية"
 country: "روسيا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "exp-dostoevsky-mock-execution-siberia", title: "وقوف دوستويفسكي أمام فرقة الإعدام (1849) وتجربة اللحظة الأخيرة", type: "خبرة معيشة"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-- id: "thk-nietzsche", title: "نيتشه", type: "مفكر"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-mahfouz", title: "نجيب محفوظ", type: "مفكر"
 - id: "thk-ellison", title: "رالف إليسون", type: "مفكر"
 - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
@@ -43,4 +43,10 @@ gaps:
 
 ## اقتباسات مختارة
 
-«سرّ الوجود الإنساني ليس في أن تظل حياً فقط، بل في أن تجد ما تحيا من أجله.» — الإخوة كارامازوف، 1880
+«سرّ الوجود الإنساني ليس في أن تظل حياً فقط، بل في أن تجد ما تحيا من أجله.» — الإخوة كارامازوف، 1880 (مقطع "المفتش الكبير"؛ في ترجمة كونستانس غارنيت الصادرة بعد وفاته، 1912: "the secret of man's being is not only to live but to have something to live for")
+
+## المصادر
+
+- Dostoevsky, Fyodor. *The Brothers Karamazov* (1880), ترجمة Constance Garnett، 1912 — للتحقق من الاقتباس.
+- "Quote Origin: The Mystery of Human Existence Lies Not In Just Staying Alive...", Quote Investigator، 2019 — لتأكيد صحة نسبة الاقتباس (وليس ملفَّقاً كما يشيع في اقتباسات أخرى منسوبة زوراً لدوستويفسكي).
+- "The Brothers Karamazov", Wikipedia.

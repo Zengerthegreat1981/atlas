@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "con-ayurveda-psychology", target_type: "مفهوم"
 related:
 - id: "thk-ggurdjieff", title: "غي. آي. غورجييف", type: "مفكر"
-- id: "thk-sheena-iyengar", title: "بي. كيه. إس. آيَنغَر", type: "مفكر"
 - id: "thk-krishnamurti", title: "جيدو كريشنامورتي", type: "مفكر"
 - id: "thk-maharishi", title: "مهارشي ماهيش يوغي", type: "مفكر"
 - id: "thk-yogananda", title: "باراماهانزا يوغاناندا", type: "مفكر"
@@ -26,11 +25,12 @@ related:
 gaps:
   - "ادعاءات شوبرا الطبية-العلمية موضع خلاف كبير."
   - "لا يوجد اقتباس مباشر موثوق من *Quantum Healing* (1989) بترجمة عربية معتمدة."
+  - "تصحيح (تحقّق ويب 2026-09-03): أُضيفت تفاصيل مؤكَّدة عن تعليمه الطبي (AIIMS) وتدريسه في Tufts/Boston University/Harvard. صُحِّح اسم واحد من عنصرين متطابقين خطأً في 'related' (كان 'thk-sheena-iyengar' يحمل عنوان بي.كيه.إس. آينغَر، بينما شينا إينغار شخصية مختلفة تماماً — أستاذة في كولومبيا مختصة بعلم نفس الاختيار، لا علاقة مباشرة موثَّقة بشوبرا؛ حُذف العنصر المكرّر وأُبقي على 'thk-iyengar' فقط). سنة تأسيس Chopra Center تتفاوت بين المصادر (1993-1996)؛ صُحِّحت من '1995' الجازمة إلى صياغة تعكس هذا التفاوت، وأُضيف اسم الشريك المؤسِّس David Simon."
 ---
 
 # ديباك شوبرا
 
-طبيب غدد صمّاء هندي-أمريكي (1946–) ومؤلف كتب في الطب الأيورفيدي والروحانيات، أحد أكثر الشخصيات تأثيراً في نشر الأيورفيدا في الغرب منذ أواخر الثمانينيات. تتلمذ في التأمل التجاوزي على ماهاريشي ماهيش يوغي، ثم انفصل عنه وأسّس «مركز شوبرا» في كاليفورنيا عام 1995.
+طبيب غدد صمّاء هندي-أمريكي (وُلد في 22 أكتوبر 1946 في نيودلهي)، تخرّج من معهد عموم الهند للعلوم الطبية (AIIMS)، ومارس الطبّ الباطني والغدد الصمّاء ودرّس في كليات طب تابعة لجامعات Tufts وBoston وHarvard قبل أن يتفرّغ لكتابة الأيورفيدا والروحانيات، وهو أحد أكثر الشخصيات تأثيراً في نشرها في الغرب منذ أواخر الثمانينيات. تتلمذ في التأمل التجاوزي على ماهاريشي ماهيش يوغي، ثم انفصل عنه وأسّس مع الطبيب ديفيد سايمون (David Simon) «مركز شوبرا للعافية» (Chopra Center for Wellbeing) في لاهويا بكاليفورنيا، وتتفاوت المصادر حول سنة التأسيس بين 1993 و1996.
 
 ## ما أعطاه
 
@@ -68,3 +68,10 @@ gaps:
 - *Ageless Body, Timeless Mind* (1993).
 - *The Seven Spiritual Laws of Success* (1994).
 - *You Are the Universe* (2017، مع ميناس كافاتوس).
+
+## المصادر
+
+- "Deepak Chopra", Wikipedia (en.wikipedia.org/wiki/Deepak_Chopra)
+- "Deepak Chopra, M.D.", World Business Academy (worldbusiness.org/fellows/deepak-chopra-m-d)
+- "Soul On Fire: The roots of The Chopra Center", The Coast News Group
+- "You Are the Universe (book)", Wikipedia

@@ -6,11 +6,11 @@ level: "متوسط"
 title: "دانيال وايل"
 en: "Daniel B. Wile"
 crumb: "Collaborative Couple Therapy (العلاج الزوجي التعاوني) ← المؤسس ← دانيال وايل"
-dates: "الولايات المتحدة · وُلد 1938"
+dates: "الولايات المتحدة · 1938–2020"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1981
-active_end: "مستمر"
+active_end: 2020
 part: "psychology"
 edges: []
 related:
@@ -25,7 +25,7 @@ gaps:
 
 # دانيال وايل
 
-معالج زوجي وعالم نفس إكلينيكي أمريكي، مؤسس **العلاج الزوجي التعاوني** (Collaborative Couple Therapy) في مطلع الثمانينيات. طوّر منهجية تختلف عن العلاج الزوجي المعرفي التقليدي بتركيزها على "ما بعد التعاون" (After Collaboration).
+معالج زوجي وعالم نفس إكلينيكي أمريكي (1938–2020)، حاصل على الدكتوراه من جامعة كاليفورنيا في بيركلي (1966)، ومؤسس **العلاج الزوجي التعاوني** (Collaborative Couple Therapy) في مطلع الثمانينيات. طوّر منهجية تختلف عن العلاج الزوجي المعرفي التقليدي بتركيزها على "ما بعد التعاون" (After Collaboration). توفي في منزله في أوكلاند، كاليفورنيا، في 18 مارس 2020.
 
 ## ما أعطاه
 
@@ -44,3 +44,9 @@ gaps:
 - *Couple Therapy: A Nontraditional Approach* (1981).
 - *After the Honeymoon* (1988).
 - *After the Fight: Using Your Disagreements to Build a Stronger Relationship* (1993).
+
+## المصادر
+
+- Daniel B. Wile — In Memoriam, University of California Academic Senate: https://senate.universityofcalifornia.edu/in-memoriam/files/daniel-wile.html
+- Dan Wile Obituary (1938–2020) — Legacy.com / San Francisco Chronicle: https://www.legacy.com/us/obituaries/sfgate/name/dan-wile-obituary?id=2037852
+- COLLABORATIVE COUPLE THERAPY — الموقع الرسمي: https://danwile.com/
