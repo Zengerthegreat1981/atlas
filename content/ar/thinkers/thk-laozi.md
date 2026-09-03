@@ -50,3 +50,10 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Dao De Jing* (道德經، «كتاب الطريق والفضيلة»، 81 فصلاً قصيراً، نحو 5000 حرف صيني).
+
+## المصادر
+- Stanford Encyclopedia of Philosophy — مدخل "Laozi": نقاش الجدل الأكاديمي حول وجوده التاريخي وتاريخ تأليف DDJ: https://plato.stanford.edu/entries/laozi/
+- A. C. Graham، *Disputers of the Tao: Philosophical Argument in Ancient China* (1989) — الموقف الشكّي من وجود لاو تزو التاريخي شخصاً واحداً.
+- Chad Hansen، *A Daoist Theory of Chinese Thought* (1992) — موقف مقابل يقبل تقليداً تاريخياً أقدم.
+- Isabelle Robinet، *Taoism: Growth of a Religion* (ترجمة إنجليزية 1997) — تأريخ نصّ DDJ وتطوّر التقليد الداووي.
+- **ملاحظة منهجية**: العناوين أعلاه مراجع أكاديمية قياسية في دراسات الداووية المبكرة يُشار إليها عادة في هذا النقاش (كما ورد اسما Graham وHansen وRobinet في متن الملف)؛ لم يُتحقّق هنا من أرقام صفحات أو اقتباسات حرفية منها، ولا تُنسب لهذه المسودة أي جملة منقولة حرفياً عن أيٍّ منها.

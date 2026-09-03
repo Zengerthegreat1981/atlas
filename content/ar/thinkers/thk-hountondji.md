@@ -45,3 +45,9 @@ gaps:
 ## أهم أعماله
 
 حول الفلسفة الأفريقية: نقد الإثنوفلسفة (Sur la philosophie africaine, 1976) · المعارف المحلّية: مسارات بحث (Les savoirs endogènes: pistes pour une recherche, 1994، تحرير) · النضال من أجل المعنى (The Struggle for Meaning, 2002).
+
+## المصادر
+
+- Hountondji, Paulin J. *African Philosophy: Myth and Reality* (ترجمة إنجليزية لـ *Sur la philosophie africaine*), trans. Henri Evans, Indiana University Press, 1983/1996.
+- Hountondji, Paulin J. *The Struggle for Meaning: Reflections on Philosophy, Culture, and Democracy in Africa*. Ohio University Press, 2002.
+- نصوص Hountondji الأصلية (طبعاتها الفرنسية الكاملة، وتفاصيل حواراته مع Kagame وMagesa وBodunrin) تحتاج مراجعة إضافية من المصدر الأولي، كما هو مسجَّل في `gaps`.

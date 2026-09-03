@@ -6,12 +6,12 @@ level: "متقدم"
 title: "فرانك لاشمان"
 en: "Frank Lachmann"
 crumb: "مدرسة التحليل النفسي ← الناس ← فرانك لاشمان"
-dates: "أمريكا · 1932–2019"
+dates: "أمريكا (وُلد في ألمانيا) · 1929–؟"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: 1960
-active_end: 2019
+active_end: 2024
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -21,11 +21,13 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Transforming Aggression* (2000) بترجمة عربية معتمدة."
   - "كتابه 'التحويل في علم نفس الذات' ونماذج التنظيم المشترك للذات يستحقان توثيقاً."
+  - "**تصحيح مُهمّ (تحقّق 2026-09-03)**: كانت البطاقة تحمل سابقاً تاريخ وفاة 2019 وسنة ميلاد 1932 — كلاهما خاطئ وغير مسنَد. مصادر أولية (Prabook، IAPSP) تفيد أنه وُلد في 9 ديسمبر 1929 في برسلاو (سيليزيا، ألمانيا آنذاك)، وأن تقاعده أُعلن رسمياً في يونيو 2024 بعد أكثر من أربعة عقود من العمل الإكلينيكي — أي أنه كان لا يزال على قيد الحياة في تلك التاريخ. سنة الوفاة (إن وُجدت) غير مؤكدة في المصادر المتاحة؛ لا يُجزَم بها هنا."
+  - "التأسيس الدقيق لـ«معهد التحليل النفسي للذات والتعلم في نيويورك» ودور لاشمان فيه (عضو هيئة تأسيسية لا مؤسس منفرد بالضرورة) يحتاج توثيقاً أدق؛ المصدر المتاح يصفه بأنه من «الهيئة التأسيسية» لمعهد دراسة الذاتية النفسية-تحليلية (Institute for the Psychoanalytic Study of Subjectivity, IPSS) في نيويورك."
 ---
 
 # فرانك لاشمان
 
-محلل نفسي وعالم نفس إكلينيكي أمريكي بارز، أحد مؤسسي معهد التحليل النفسي للذات والتعلم في نيويورك، والشريك النظري لبياتريس بيبي وجوزيف ليشتنبرغ.
+محلل نفسي وعالم نفس إكلينيكي أمريكي (وُلد في ألمانيا)، عضو الهيئة التأسيسية لمعهد دراسة الذاتية النفسية-تحليلية (Institute for the Psychoanalytic Study of Subjectivity) في نيويورك، والشريك النظري لبياتريس بيبي وجوزيف ليشتنبرغ. أعلن تقاعده في يونيو 2024 بعد أكثر من أربعة عقود من العمل الإكلينيكي والنظري.
 
 ## ما أعطاه
 
@@ -44,4 +46,11 @@ gaps:
 
 ## أهم أعماله
 
-الذات في مرحلة التحول (The Self in Transition, 1990) · الأنظمة الدافعية والتحليل النفسي الإكلينيكي (Self and Motivational Systems, 1992 مع Lichtenberg & Fosshage) · تحويل العدوانية (Transforming Aggression, 2000).
+الذات في مرحلة التحول (The Self in Transition, 1990) · الأنظمة الدافعية والتحليل النفسي الإكلينيكي (Self and Motivational Systems, 1992 مع Lichtenberg & Fosshage) · تحويل العدوانية (Transforming Aggression, 2000) · أبحاث الرضّع والعلاج عند الكبار (Infant Research and Adult Treatment: Co-Constructing Interactions, مع Beatrice Beebe، 2002) · أصول التعلّق (The Origins of Attachment: Infant Research and Adult Treatment، مع Beatrice Beebe، 2013).
+
+## المصادر
+- Confer Online — نبذة سيرة فرانك لاشمان: https://www.confer.uk.com/biogs/biog_lachmann.html
+- IssueWire (2024-06-13) — إعلان تقاعد فرانك م. لاشمان بعد أكثر من أربعة عقود من العمل الإكلينيكي: https://www.issuewire.com/frank-m-lachmann-phd-renowned-clinical-psychologist-retires-1801779212810487
+- Prabook — Frank Michael Lachmann، World Biographical Encyclopedia (تاريخ ومكان الميلاد): https://prabook.com/web/frank_michael.lachmann/1698161
+- Routledge — صفحة الكتاب *Infant Research and Adult Treatment: Co-constructing Interactions* (Beebe & Lachmann): https://www.routledge.com/Infant-Research-and-Adult-Treatment-Co-constructing-Interactions/Beebe-Lachmann/p/book/9780881634471
+- Springer — مراجعة *The Origins of Attachment: Infant Research and Adult Treatment*، American Journal of Psychoanalysis: https://link.springer.com/article/10.1057/ajp.2015.48

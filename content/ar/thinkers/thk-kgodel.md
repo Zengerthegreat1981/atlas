@@ -45,6 +45,15 @@ gaps:
 - *Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory* (1940).
 - *Collected Works* (صدرت بعد وفاته، 1986–2003، في 4 مجلدات).
 
+## المصادر
+
+- Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173–198.
+- Gödel, K. (1940). *The Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory*. Princeton University Press.
+- Gödel, K. (1986–2003). *Collected Works* (4 vols., ed. S. Feferman et al.). Oxford University Press.
+- Dawson, J. W. (1997). *Logical Dilemmas: The Life and Work of Kurt Gödel*. A K Peters.
+- Feferman, S. (2006). "Gödel, Nagel, minds, and machines." *Journal of Philosophy*.
+- Putnam, H. (1960). "Minds and machines," in *Dimensions of Mind* (نقد حجّة لوكاس-بنروز).
+
 ## الأثر
 
 أثّر غودل في فلسفة الرياضيات (بول بناسيراف، وبينيلوبي مادي)، وفي نظرية الحوسبة — إذ إن مبرهنته سابقة مباشرة لنتيجة **آلان تورينغ** في مسألة التوقّف (1936)، والاثنتان وجهان لأمر واحد. أما **هيلبرت وبرنايز** فهما **سابقان** عليه لا متأثّران به؛ وبرنامجهما هو ما نقضته المبرهنة.

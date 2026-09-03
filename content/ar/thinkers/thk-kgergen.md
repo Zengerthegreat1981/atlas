@@ -57,3 +57,12 @@ gaps:
 - *Relational Being: Beyond Self and Community* (2009).
 - "Social Psychology as History" (1973)، *Journal of Personality and Social Psychology*.
 
+## المصادر
+
+- Gergen, K. J. (1973). "Social Psychology as History." *Journal of Personality and Social Psychology*, 26(2), 309–320.
+- Gergen, K. J. (1991). *The Saturated Self: Dilemmas of Identity in Contemporary Life*. Basic Books.
+- Gergen, K. J. (1994). *Realities and Relationships: Soundings in Social Construction*. Harvard University Press.
+- Gergen, K. J. (1999). *An Invitation to Social Construction*. Sage.
+- Gergen, K. J. (2009). *Relational Being: Beyond Self and Community*. Oxford University Press.
+- Taos Institute (سيرة ذاتية ونشرات كينيث جيرغن)، taosinstitute.net.
+

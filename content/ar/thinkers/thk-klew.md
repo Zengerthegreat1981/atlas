@@ -60,3 +60,13 @@ gaps:
 - *Field Theory in Social Science* (نُشر بعد وفاته عام 1951).
 - *Resolving Social Conflicts* (نُشر بعد وفاته عام 1948).
 - "Patterns of aggressive behavior in experimentally created social climates" (1939، مع ليبيت ووايت)، *Journal of Social Psychology*.
+
+## المصادر
+
+- Lewin, K. (1935). *A Dynamic Theory of Personality*. McGraw-Hill.
+- Lewin, K. (1936). *Principles of Topological Psychology*. McGraw-Hill.
+- Lewin, K. (1951). *Field Theory in Social Science* (ed. D. Cartwright). Harper & Row.
+- Lewin, K. (1948). *Resolving Social Conflicts* (ed. G. W. Lewin). Harper & Row.
+- Lewin, K., Lippitt, R., & White, R. K. (1939). "Patterns of aggressive behavior in experimentally created social climates." *Journal of Social Psychology*, 10(2), 271–299.
+- Zeigarnik, B. (1927). "Das Behalten erledigter und unerledigter Handlungen." *Psychologische Forschung*, 9, 1–85.
+- Lieberman, M. A., Yalom, I. D., & Miles, M. B. (1973). *Encounter Groups: First Facts*. Basic Books.

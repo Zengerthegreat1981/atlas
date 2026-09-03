@@ -22,7 +22,9 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Phenomenology for Therapists* (2011) بترجمة عربية معتمدة."
   - "منهجيتها في 'الفينومينولوجيا العلائقية والانعكاسية الجسدية' (Relational Reflexivity) تستحق إدراجاً في أدوات البحث الإكلينيكي."
-  - "active_end صُحّح إلى 'مستمر': موقعها الشخصي يؤكد نشاطها التدريبي والتأليفي مستمر حتى 2023–2026 (محاضرة رئيسية 2023، كتب منشورة 2025 و2026)، رغم إشارتها إلى شبه تقاعد من الاستقبال المباشر للعملاء."
+  - "active_end صُحّح إلى 'مستمر': موقعها الشخصي (lindafinlay.co.uk) يسرد نشراً مستمراً حتى 2025 على الأقل (Relational Counselling and Psychotherapy، Sage 2025)."
+  - "سنة نشر *Relational Integrative Psychotherapy*: مصادر تجارية (أمازون/وايلي) تتفاوت بين طبعة 2015 وأخرى 2016؛ موقعها الشخصي يثبّتها 2016 وهو ما اعتُمد هنا."
+  - "عنوان 'Practical Phenomenological Research (2021)' المذكور في نسخة سابقة من هذا الملف لم يُعثر له على أثر مستقل في فهرس مؤلفاتها الرسمي (lindafinlay.co.uk/publications) ولا في أي كتالوج ناشر؛ حُذف ولم يُستبدل. العنوانان الموثَّقان الأقرب زمنياً من موقعها هما *Practical Ethics in Counselling and Psychotherapy* (Sage, 2019) و*The Therapeutic Use of Self in Counselling & Psychotherapy* (Sage, 2022)."
 ---
 
 # ليندا فينلاي
@@ -31,7 +33,7 @@ gaps:
 
 ## ما أعطته
 
-طوّرت منهجية رائدة في الفينومينولوجيا الإكلينيكية ترتكز على «الانعكاسية العلائقية والجسدية» (Embodied Reflexivity)، محللة كيف يتفاعل جسد المعالج مع جسد المسترشد في اللقاء العلاجي، وقدّمت مراجع أساسية في الممارسة الفينومينولوجية الإكلينيكية والبحث النوعي للخبرة المعيشة.
+طوّرت منهجية رائدة في الفينومينولوجيا الإكلينيكية ترتكز على «الانعكاسية العلائقية والجسدية» (Embodied Reflexivity)، محللة كيف يتفاعل جسد المعالجين مع جسد المسترشد في اللقاء العلاجي، وقدّمت مراجع أساسية في الممارسة الفينومينولوجية الإكلينيكية والبحث النوعي للخبرة المعيشة.
 
 ## موقعها من التيار
 
@@ -40,6 +42,21 @@ gaps:
 ## القيد
 توزيع إنتاجها بين العلاج المهني، العلاج النفسي، والمناهج النوعية العامة.
 
+## السياق والاستقبال
+
+عملت فينلاي معالِجة مسجَّلة لدى الهيئة البريطانية للعلاج التكاملي (UKCP) وأستاذة زائرة/محاضِرة في الجامعة المفتوحة، إلى جانب ممارستها الخاصة في يورك. تُدرَّس كتبها (لا سيما *Phenomenology for Therapists*) على نطاق واسع في برامج تدريب المعالجين والباحثين النوعيين في بريطانيا، وتُستشهد أطروحتها عن «الانعكاسية» (Reflexivity) — ضرورة أن يفحص الباحثين/المعالجين أثر ذاتهم وجسده في عملية البحث أو العلاج نفسها لا أن يدّعي حياداً مستحيلاً — بوصفها من أوضح الصياغات المنهجية لهذا المطلب في الأدب الفينومينولوجي التطبيقي.
+
 ## أهم أعمالها
 
-الممارسة الفينومينولوجية الإكلينيكية (Phenomenology for Therapists, 2011) · البحث العلائقي في العلوم الإنسانية (Relational Integrative Psychotherapy, 2015) · المنهج النوعي العملي (Practical Phenomenological Research, 2021).
+- *Phenomenology for Therapists: Researching the Lived World* (Wiley-Blackwell, 2011).
+- *Relational-centred Research for Psychotherapists* (بالاشتراك مع Ken Evans، Wiley-Blackwell، 2009).
+- *Relational Integrative Psychotherapy: Process and Theory in Practice* (Wiley، 2016 بحسب موقعها الرسمي).
+- *Practical Ethics in Counselling and Psychotherapy: A Relational Approach* (Sage، 2019).
+- *The Therapeutic Use of Self in Counselling & Psychotherapy* (Sage، 2022).
+- *Relational Counselling and Psychotherapy* (Sage، 2025).
+
+## المصادر
+
+- Finlay, Linda. *Phenomenology for Therapists: Researching the Lived World*. Wiley-Blackwell, 2011.
+- Finlay, Linda. *Relational Integrative Psychotherapy: Engaging Process and Theory in Practice*. Wiley, 2016.
+- الموقع الرسمي للمؤلفة: lindafinlay.co.uk (صفحات Biography وPublications وPhenomenology).

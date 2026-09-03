@@ -31,7 +31,6 @@ related:
 - id: "ctx-psychoanalytic-tradition", title: "التقليد التحليلي النفسي", type: "سياق/تقليد"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "كتابه 'الأنماط النفسية' (Psychological Types, 1921) و'الكتاب الأحمر' ونظرية التفريد واللاوعي الجمعي تستحق إدراجاً في الأعمال."
 ---
 
 # كارل غوستاف يونغ
@@ -65,3 +64,10 @@ gaps:
 ## أهم أعماله
 
 دراسات في تداعي الكلمات (Diagnostische Assoziationsstudien، 1906) · سيكولوجيا الخرف المبكّر (1907) · رموز التحوّل (Wandlungen und Symbole der Libido، 1912) — الكتاب الذي أنهى صلته بفرويد · الأنماط النفسية (Psychologische Typen، 1921) · العلاقات بين الأنا واللاوعي (1928) · سيكولوجيا الخيمياء (Psychologie und Alchemie، 1944) · أيون: بحوث في رمزية الذات (Aion، 1951) · جواب أيّوب (Antwort auf Hiob، 1952) · ذكريات وأحلام وتأمّلات (1961، مع أنييلا يافيه) · الكتاب الأحمر (Liber Novus، كُتب 1913–1930 ونُشر بعد وفاته عام 2009).
+
+## المصادر
+
+- "Carl Jung," Encyclopædia Britannica: https://www.britannica.com/biography/Carl-Jung
+- "Jung, Carl Gustav (1875–1961)," Routledge Encyclopedia of Philosophy: https://www.rep.routledge.com/articles/biographical/jung-carl-gustav-1875-1961/v-1
+- Heinz Gess, "C.G. Jung und die faschistische 'Weltanschauung'" (على تصريحاته التحريرية في Zentralblatt für Psychotherapie 1933–1934): https://d-nb.info/1065672047/34
+- Zentralblatt für Psychotherapie, Bd. 7 (1934) — النص الأصلي لافتتاحية يونغ التحريرية، أرشيف الإنترنت: https://archive.org/details/ZfP_VII_1934_1-2
