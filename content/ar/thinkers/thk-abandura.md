@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-jrotter", title: "جوليان ب. روتّر", type: "مفكر"
 - id: "thk-wmischel", title: "والتَر ميشيل", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "con-self-efficacy", title: "الكفاءة الذاتية", type: "مفهوم"
 - id: "con-social-learning", title: "نظرية التعلم الاجتماعي", type: "مفهوم"
 - id: "dbt-violent-media-child-aggression", title: "جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال", type: "جدل"
@@ -47,4 +47,10 @@ gaps:
 
 ## أهم أعماله
 
-«العدوان في المراهقة» (Adolescent Aggression, 1959, مع Walters) · تجارب دمية بوبو (1961، 1963) · «مبادئ تعديل السلوك» (1969) · «النظرية المعرفية الاجتماعية» (1986) · «Self-Efficacy: The Exercise of Control» (1997).
+«العدوان في المراهقة» (Adolescent Aggression, 1959, مع Walters) · تجارب دمية بوبو (1961، 1963، وامتداد 1965) · «مبادئ تعديل السلوك» (1969) · «النظرية المعرفية الاجتماعية» (1986) · «Self-Efficacy: The Exercise of Control» (1997).
+
+## المصادر
+
+- [Bobo doll experiment — Wikipedia](https://en.wikipedia.org/wiki/Bobo_doll_experiment)
+- [Bobo Doll Experiment — Britannica](https://www.britannica.com/event/Bobo-doll-experiment)
+- [Bandura's Bobo Doll Experiment on Social Learning — Simply Psychology](https://www.simplypsychology.org/bobo-doll.html)

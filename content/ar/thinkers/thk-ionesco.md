@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 المغنية الصلعاء (La Cantatrice chauve, 1950) · الدرس (La Leçon, 1951) · الكراسي (Les Chaises, 1952) · الكركدن (Rhinocéros, 1959) · الملك يموت (Le Roi se meurt, 1962).
+
+## المصادر
+
+- Encyclopaedia Britannica, "Eugène Ionesco": https://www.britannica.com/biography/Eugene-Ionesco
+- Wikipedia, "Eugène Ionesco": https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco
+- New World Encyclopedia, "Eugène Ionesco": https://www.newworldencyclopedia.org/entry/Eug%C3%A8ne_Ionesco
+- SparkNotes, "Rhinoceros: Eugène Ionesco and Rhinoceros Background": https://www.sparknotes.com/drama/rhinoceros/context/

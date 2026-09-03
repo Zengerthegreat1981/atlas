@@ -46,3 +46,10 @@ gaps:
 ## اقتباسات مختارة
 
 «شكٌّ عظيم: يقظةٌ عظيمة. شكٌّ صغير: يقظةٌ صغيرة. لا شكّ: لا يقظة.»
+
+## المصادر
+
+- [Hakuin Ekaku — Wikipedia](https://en.wikipedia.org/wiki/Hakuin_Ekaku)
+- [Meditation Sickness: Buddhism's Biggest Open Secret — Tricycle](https://tricycle.org/magazine/meditation-sickness/)
+- [Hakuin Ekaku and his role in the revitalization of Rinzai Zen](https://www.fabriziomusacchio.com/weekend_stories/told/2025/2025-08-16-hakuin/)
+- [Zen Sickness, by Zen Master Hakuin — Buddhism Now](https://buddhismnow.com/2015/09/12/zen-sickness-by-zen-master-hakuin/)

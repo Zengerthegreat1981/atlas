@@ -28,3 +28,11 @@ gaps:
 ## القيد
 
 الملف بحاجة إلى قرار تحريري بشأن ملاءمته لأطلس علم النفس أصلاً، بما أن إسهامه الموثَّق في العلاقات الدولية والتنمية المستدامة والسياسات العامة، لا في علم النفس.
+
+**مرشَّح للحجر (quarantine)**: لم يُعثر على أي صلة موثَّقة بين عادل نجّام وعلم النفس أو "علم النفس الإسلامي" أو أي جمعية دولية بهذا الاسم؛ اختصاصه الموثَّق بالكامل هو العلاقات الدولية والسياسات البيئية/التنمية المستدامة. يُنصح بمراجعة رئيس التحرير لتقرير نقل الملف خارج قسم علم النفس أو حجره.
+
+## المصادر
+
+- [Adil Najam — Wikipedia](https://en.wikipedia.org/wiki/Adil_Najam)
+- [Adil Najam named as new President of WWF International — BU Pardee School](https://www.bu.edu/pardeeschool/2023/04/03/adil-najam-named-as-new-president-of-wwf-international/)
+- [Professor Adil Najam named as new President of WWF International — BU](https://www.bu.edu/earth/2023/04/05/professor-adil-najam-named-as-new-president-of-the-world-wildlife-fund-wwf-international)

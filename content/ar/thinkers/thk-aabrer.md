@@ -44,3 +44,10 @@ gaps:
 ## أهم أعماله
 
 الحلم والأسطورة (Traum und Mythus، 1909)؛ محاولة في تاريخ تطور الليبيدو (Versuch einer Entwicklungsgeschichte der Libido, 1924).
+
+## المصادر
+
+- [Karl Abraham — Wikipedia](https://en.wikipedia.org/wiki/Karl_Abraham)
+- [Berlin Psychoanalytic Institute — Wikipedia](https://en.wikipedia.org/wiki/Berlin_Psychoanalytic_Institute)
+- [Karl Abraham: Life and Work, a Biography — Freud Museum London](https://www.freud.org.uk/2016/02/18/karl-abraham-life-work-biography/)
+- [Karl Abraham — Encyclopedia.com](https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/karl-abraham)

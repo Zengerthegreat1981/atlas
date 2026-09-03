@@ -46,3 +46,10 @@ gaps:
 - *On the Stigma of Mental Illness: Practical Strategies for Research and Social Change* (2005، تحرير).
 - *The Stigma Effect: Unintended Consequences of Mental Health Campaigns* (2018).
 - *Principles and Practice of Psychiatric Rehabilitation* (2008، مع مويزر وبوند).
+
+## المصادر
+
+- [Patrick Corrigan — Illinois Institute of Technology](https://www.iit.edu/community-affairs/community-engaged-research-coalition-cerc/patrick-corrigan)
+- [Patrick CORRIGAN — ResearchGate profile](https://www.researchgate.net/profile/Patrick-Corrigan-3)
+- [On the stigma of mental illness: Practical strategies for research and social change — ResearchGate](https://www.researchgate.net/publication/232519658_On_the_stigma_of_mental_illness_Practical_strategies_for_research_and_social_change)
+- [Fighting the stigma of mental illness, with Patrick Corrigan, PsyD — APA podcast](https://www.apa.org/news/podcasts/speaking-of-psychology/mental-illness-stigma)

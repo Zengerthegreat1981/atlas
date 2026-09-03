@@ -54,3 +54,11 @@ gaps:
 - **Grundlage des Naturrechts** (1796-1797): أسس فلسفة الحق الطبيعي.
 - **System der Sittenlehre** (1798): نظام الأخلاق.
 - **Reden an die deutsche Nation** (1808): خطب إلى الأمة الألمانية.
+
+## المصادر
+
+- [Johann Gottlieb Fichte — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/johann-fichte/)
+- [Foundations of Natural Right — Wikipedia](https://en.wikipedia.org/wiki/Foundations_of_Natural_Right)
+- [Johann Gottlieb Fichte — Wikipedia](https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte)
+- [Karl Christian Friedrich Krause — Britannica](https://www.britannica.com/biography/Karl-Christian-Friedrich-Krause)
+- [Krausism — overview of Krausismo in Spain](https://grokipedia.com/page/Krausism)

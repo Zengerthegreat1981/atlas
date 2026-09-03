@@ -25,6 +25,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوناثان بينثال (thk-benthall)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت دوفال (thk-robertduvall)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روزماري أَلارا (thk-rosemaryalara)."
+  - "تحقّق موسّع (2026-09): تواريخ الميلاد والوفاة (13 مارس 1911 – 24 يناير 1986) مطابقة لمصادر مستقلة (ويكيبيديا، بريتانيكا)؛ لم يُعثر على خطأ واقعي في نص الملف الحالي."
 ---
 
 # ل. رون هوبارد
@@ -57,3 +58,9 @@ gaps:
 - *Science of Survival* (1951).
 - *Scientology: The Fundamentals of Thought* (1956).
 - *Mission into Time* (1968).
+
+## المصادر
+
+- [L. Ron Hubbard — Wikipedia](https://en.wikipedia.org/wiki/L._Ron_Hubbard)
+- [L. Ron Hubbard — Biography & Facts, Britannica](https://www.britannica.com/biography/L-Ron-Hubbard)
+- [L. Ron Hubbard publishes "Dianetics" — History.com](https://www.history.com/this-day-in-history/may-9/l-ron-hubbard-publishes-dianetics)

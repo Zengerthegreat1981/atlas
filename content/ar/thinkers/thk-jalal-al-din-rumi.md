@@ -50,3 +50,10 @@ gaps:
 - فيه ما فيه (Fihi ma Fihi)
 - مجالس سبعة
 - رسائل (Maktubat)
+
+## المصادر
+
+- [Rumi — Wikipedia](https://en.wikipedia.org/wiki/Rumi)
+- [About Jalal al-Din Rumi — Academy of American Poets](https://poets.org/poet/jalal-al-din-rumi)
+- [Jalal al-Din Rumi — The Poetry Foundation](https://www.poetryfoundation.org/poets/jalal-al-din-rumi)
+- [The Story of Shams al-Tabrīzī and Rumi — Biruni University](https://www.biruni.edu.tr/en/news/news/the-story-of-shams-al-tabrizi-and-rumi)

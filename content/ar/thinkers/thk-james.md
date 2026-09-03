@@ -56,3 +56,9 @@ gaps:
 ## أهم أعماله
 
 مبادئ علم النفس (The Principles of Psychology, 1890) · تنوّع الخبرة الدينية (The Varieties of Religious Experience, 1902) · البراغماتية (Pragmatism, 1907).
+
+## المصادر
+
+- [William James — Wikipedia](https://en.wikipedia.org/wiki/William_James)
+- [William James Contribution To Psychology — Simply Psychology](https://www.simplypsychology.org/william-james.html)
+- [From Emotions to Consciousness — A Neuro-Phenomenal and Neuro-Relational Approach — PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3431612/)

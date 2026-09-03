@@ -28,7 +28,9 @@ gaps:
 
 # هاينز كوهوت
 
-طبيب ومحلل نفسي نمساوي-أمريكي عظيم، رئيس الجمعية الأمريكية للتحليل النفسي ومعهد شيكاغو للتحليل النفسي، الأب المؤسس لـ «علم نفس الذات» (Self Psychology).
+طبيب ومحلل نفسي نمساوي-أمريكي، رئيس الجمعية الأمريكية للتحليل النفسي (1964–1965) ونائب رئيس الجمعية الدولية للتحليل النفسي (1965)، وقد كان محلّلاً مدرِّباً ومشرفاً في معهد شيكاغو للتحليل النفسي منذ 1953 وأثّر في إعادة تشكيله — لا رئيساً رسمياً له كما ورد سابقاً في هذا الملف. هو الأب المؤسس لـ «علم نفس الذات» (Self Psychology).
+
+> **تصحيح:** كان هذا الملف يصفه بأنه «رئيس معهد شيكاغو للتحليل النفسي» — ولا مصدر موثوق يؤكد أنه شغل رئاسة المعهد رسمياً؛ الموثَّق أنه كان محلّلاً مدرِّباً ومشرفاً فيه وصاحب نفوذ كبير في تطويره بعد تراجع نفوذ فرانتس ألكسندر.
 
 ## ما أعطاه
 
@@ -61,3 +63,11 @@ gaps:
 ## أهم أعماله
 
 "Introspection, Empathy, and Psychoanalysis" (1959) · تحليل الذات (The Analysis of the Self، 1971) · "Thoughts on Narcissism and Narcissistic Rage" (1972) · ترميم الذات (The Restoration of the Self، 1977) · "The Two Analyses of Mr Z" (1979) · كيف يشفي التحليل؟ (How Does Analysis Cure?، نُشر بعد وفاته عام 1984).
+
+## المصادر
+
+- Kohut, H. (1971). *The Analysis of the Self*. International Universities Press.
+- Kohut, H. (1977). *The Restoration of the Self*. International Universities Press.
+- Strozier, C. B. (2001). *Heinz Kohut: The Making of a Psychoanalyst*. Farrar, Straus and Giroux.
+- "Heinz Kohut" — Wikipedia (en.wikipedia.org/wiki/Heinz_Kohut).
+- Encyclopedia.com — "Heinz Kohut" (سيرة موجزة، بيانات الرئاسة والوفاة).

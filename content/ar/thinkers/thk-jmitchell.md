@@ -23,6 +23,7 @@ gaps:
   - "الاسم كان مُدرجاً خطأً كـ'جوليا ميتشِل' (Julia Mitchell) وجنسيتها أمريكية؛ صُحِّح إلى الاسم الحقيقي للمؤلفة الفعلية لكتاب Psychoanalysis and Feminism (1974) و The Selected Melanie Klein (1986): جوليت ميتشل (Juliet Mitchell)، البريطانية."
   - "التفاصيل السيرية لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Psychoanalysis and Feminism* (1974) بترجمة عربية معتمدة."
+  - "تحقّق إضافي (2026-09-04): هوية جوليت ميتشل كمحللة نفسية ونسوية بريطانية، وبيانات كتابيها (1974 و1986)، مؤكَّدة عبر ويكيبيديا وPEP-Web وVerso Books؛ لم يُعثر على خطأ إضافي في المتن الحالي."
 ---
 
 # جوليت ميتشل
@@ -43,3 +44,9 @@ gaps:
 
 - *Psychoanalysis and Feminism* (1974).
 - *The Selected Melanie Klein* (1986، تحرير).
+
+## المصادر
+
+- [Juliet Mitchell — Wikipedia](https://en.wikipedia.org/wiki/Juliet_Mitchell)
+- [Psychoanalysis and Feminism — Verso Books](https://www.versobooks.com/products/3390-psychoanalysis-and-feminism)
+- [Psychoanalysis and Feminism, New York: Pantheon Books, 1974 — PEP-Web](https://pep-web.org/search/document/PSAR.062.0193A)

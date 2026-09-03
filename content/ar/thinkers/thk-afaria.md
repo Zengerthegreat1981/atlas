@@ -39,4 +39,10 @@ gaps:
 
 ## أهم أعماله
 
-- *De la cause du sommeil lucide* (1819).
+- *De la cause du sommeil lucide* (1819) — نُشر في اليوم نفسه الذي توفي فيه فاريا (20 سبتمبر 1819).
+
+## المصادر
+
+- [Abbé Faria (1756-1819): From Lucid Sleep to Hypnosis — American Journal of Psychiatry](https://psychiatryonline.org/doi/10.1176/appi.ajp.2016.16010035)
+- [The Abbé Faria: A Neglected Figure in the History of Hypnosis — Springer](https://link.springer.com/chapter/10.1007/978-1-4613-2859-9_3)
+- [De la cause du sommeil lucide — Internet Archive](https://archive.org/details/b29336077)
