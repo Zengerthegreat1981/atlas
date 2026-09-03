@@ -16,11 +16,11 @@ edges: []
 related:
 - id: "thk-bhellinger", title: "بيرت هلنغر", type: "مفكر"
 - id: "thk-gweber", title: "غونتهارد فيبر", type: "مفكر"
-- id: "thk-jjoyce", title: "مارغريت بِي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Toward a Spiritual Psychotherapy: Soul as a Dimension of Experience* (2012) بترجمة عربية معتمدة."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بِي (thk-jjoyce)."
+  - "أُزيل الرابط إلى thk-jjoyce (مارغريت بِي) بتاريخ 2026-09-03: ذلك المدخل موثَّق كقرار حجر (agents_specs/quarantine-spark.md، 2026-08-26) بوصفه شخصية غير موثَّقة، ولم يعد صالحاً كـrelated."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«تشكيلات الأسرة (Family Constellations)» في content/ar/schools أو branches."
+  - "تاريخ الوفاة 2020 لم يُعثر له على تأكيد مباشر في مصادر البحث المتاحة؛ يحتاج تحققاً إضافياً من مصدر مستقل (نعوة/سجل مهني)."
 ---
 
 # هانتر بومون
@@ -45,3 +45,9 @@ gaps:
 
 - *Love's Hidden Symmetry: What Makes Love Work in Relationships* (1998، مع بيرت هلنغر وغونتهارد فيبر).
 - *Toward a Spiritual Psychotherapy: Soul as a Dimension of Experience* (2012).
+
+## المصادر
+
+- REAL Academy — Hunter Beaumont profile: https://realacademy.net/hunter-beaumont/
+- LinkedIn — Hunter Beaumont, Psychotherapist/Supervisor: https://www.linkedin.com/in/hunter-beaumont-05247246/
+- Amazon (Kindle listing) — *Toward a Spiritual Psychotherapy*, Hunter Beaumont Ph.D.: https://www.amazon.de/-/en/Hunter-Beaumont-Ph-D-ebook/dp/B005C5RXIK

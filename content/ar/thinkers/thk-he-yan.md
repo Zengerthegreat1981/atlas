@@ -48,6 +48,13 @@ gaps:
 - *Dao De Jing Zhu* (道德经注، "تعليق على Dao De Jing")، تفسيره لكتاب داو دي جينغ (مع تعليق وانغ بي).
 - *Wuming Lun* (无名论، "نظرية بلا اسم")، مقال فلسفي.
 
+## المصادر
+
+- He Yan, Wikipedia: <https://en.wikipedia.org/wiki/He_Yan> (تواريخ نحو 195 – 9 فبراير 249م، وفاته في «حادثة مقابر غاوبينغ»، تأسيسه Xuanxue مع وانغ بي، زواجه من الأميرة جين شيانغ ابنة تساو تساو، وأمّه التي صارت من جواري تساو تساو).
+- Cao Shuang, Wikipedia: <https://en.wikipedia.org/wiki/Cao_Shuang> (تفاصيل الانقلاب وإعدام حزب تساو شوانغ عام 249م).
+- Stanford Encyclopedia of Philosophy، "Neo-Taoism": <https://plato.stanford.edu/archives/win2010/entries/neo-taoism/> (موقع هي يان ووانغ بي في تأسيس أطروحة أن الأشياء أصلها العدم/wú، وخلافهما مع غوو شيانغ لاحقاً).
+- chinaknowledge.de، "He Yan": <http://www.chinaknowledge.de/History/Division/personsheyan.html>.
+
 ## اقتراحات ربط (ملاحظة تحريرية)
 
 - **وانغ بي** (مفكر) — شريكه في تأسيس «التعلّم الغامض».

@@ -11,12 +11,12 @@ dates: "المملكة المتحدة · 1900–1976"
 country: "المملكة المتحدة (أكسفورد)"
 language: "الإنجليزية"
 active_start: 1930
-active_end: 1970
+active_end: 1976
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "wrk-sense-and-sensibilia", title: "الإحساس والبيانات الحسية (Sense and Sensibilia)", type: "عمل / كتاب"
-- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية", type: "مدرسة"
+- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 gaps:
   - "الفرق بين 'السلوكانية المنطقية' عند ريل و'السلوكانية المعرفية' في التحليل النفسي لم يُحلّل."
@@ -42,3 +42,13 @@ gaps:
 ## الأثر
 
 أثر ريل على دنّت (Dennett) وعلى ويلفريد سيلارز، وعلى التحليل النفسي الوجودي اللاحق (اتّكأ بوس وبلانكنبورغ على فلسفة ريل).
+
+## سيرة موجزة
+
+وُلد ريل في برايتون سنة 1900، ودرس في كلية كوينز بأكسفورد (تخرّج بامتياز في الكلاسيكيات والفلسفة عام 1924)، وعُيّن محاضراً في الفلسفة بكلية كرايست تشيرش. خدم في حرس ويلز خلال الحرب العالمية الثانية (1939–1945) في الاستخبارات العسكرية، ثم عاد إلى أكسفورد ليشغل كرسي «واينفليت للفلسفة الميتافيزيقية» (1945–1968)، وهو أرفع كرسي فلسفي في أكسفورد، كما تولّى رئاسة تحرير مجلة *Mind* (1948–1971). توفي عام 1976.
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Gilbert Ryle": https://plato.stanford.edu/entries/ryle/
+- Encyclopaedia Britannica, "Gilbert Ryle": https://www.britannica.com/biography/Gilbert-Ryle
+- Routledge Encyclopedia of Philosophy, "Ryle, Gilbert (1900–76)": https://www.rep.routledge.com/articles/biographical/ryle-gilbert-1900-76/v-1

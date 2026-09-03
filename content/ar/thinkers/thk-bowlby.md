@@ -19,13 +19,13 @@ edges:
 - rel: "developed", target: "br-attachment-theory", target_type: "تيار"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
-- id: "br-attachment-theory", title: "نظرية التعلق", type: "تيار"
+- id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "تيار"
 - id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-spitz", title: "رينيه شبيتز", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "stu-bowlby-forty-four-thieves", title: "الحرمان الأمومي", type: "دراسة وبحث"
-- id: "con-attachment-styles", title: "أنماط التعلق", type: "مفهوم"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 - id: "con-secure-attachment", title: "التعلق الآمن", type: "مفهوم"
 - id: "wrk-attachment-loss-volume1", title: "التعلق (المجلد الأول، 1969)", type: "عمل / كتاب"
 - id: "evt-tavistock-institute-1947", title: "تأسيس معهد تافستوك للعلاقات الإنسانية في لندن", type: "حدث تاريخي"
@@ -98,4 +98,12 @@ gaps:
 - **"الانفصال: القلق والغضب" (1973)** — المجلد الثاني.
 - **"الفقدان: الحزن والاكتئاب" (1980)** — المجلد الثالث.
 - **"قاعدة آمنة" (1988)** — أبحاثه الإكلينيكية المتأخرة.
+
+## المصادر
+
+- John Bowlby, *Britannica*: https://www.britannica.com/biography/John-Bowlby
+- John Bowlby, Wikipedia: https://en.wikipedia.org/wiki/John_Bowlby
+- Bowlby, J. (1951). *Maternal Care and Mental Health*, WHO: https://iris.who.int/handle/10665/40724
+- Bowlby, J. (1958). "The Nature of the Child's Tie to His Mother", *International Journal of Psychoanalysis*, 39, 350-373: https://pep-web.org/search/document/IJP.039.0350A
+- van Dijken, S., van der Veer, R., van IJzendoorn, M., & Kuipers, H. (1998). "Bowlby before Bowlby", *The Origins of Attachment Theory*: http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf
 

@@ -40,3 +40,10 @@ gaps:
 ## الأثر
 
 أثّر نوب على فلسفة الفعل، وعلى فلسفة الأخلاق التجريبية (Joshua May, Fiery Cushman)، وعلى العلاقة بين علم النفس المعرفي والفلسفة.
+
+## المصادر
+
+- Knobe, J. (2003). "Intentional Action and Side Effects in Ordinary Language." *Analysis*, 63(3), 190–194.
+- Wikipedia — Joshua Knobe: https://en.wikipedia.org/wiki/Joshua_Knobe
+- Yale Philosophy — Joshua Knobe profile: https://philosophy.yale.edu/profile/joshua-knobe
+- Knobe, J. & Nichols, S. (eds.) (2008). *Experimental Philosophy*. Oxford University Press.

@@ -55,3 +55,9 @@ gaps:
 - *Social Intelligence* (2006).
 - *Focus* (2013)، *Altered Traits* (2017، مع ريتشارد ديفيدسون).
 
+## المصادر
+
+- Wikipedia, "Daniel Goleman" — https://en.wikipedia.org/wiki/Daniel_Goleman
+- EBSCO Research Starters, "Daniel Goleman" — https://www.ebsco.com/research-starters/biography/daniel-goleman
+- الموقع الرسمي لدانيال غولمان — https://www.danielgoleman.info/
+

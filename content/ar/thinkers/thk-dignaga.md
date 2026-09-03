@@ -40,3 +40,11 @@ gaps:
 - *Pramāṇasamuccaya* (مجمل مصادر المعرفة) — عمله الناضج الجامع.
 - *Hetucakra* (عجلة الأسباب).
 - *Ālambanaparīkṣā* (فحص موضوع الإدراك).
+
+## المصادر
+
+- Britannica, "Dignaga | Indian Philosopher, Buddhist Scholar" — https://www.britannica.com/biography/Dignaga
+- Wikipedia, "Dignāga" — https://en.wikipedia.org/wiki/Dign%C4%81ga
+- Wikipedia, "Apoha" — https://en.wikipedia.org/wiki/Apoha
+- Wikipedia, "Pramāṇa-samuccaya" — https://en.wikipedia.org/wiki/Pram%C4%81%E1%B9%87a-samuccaya
+- Wikipedia, "Hetucakra" — https://en.wikipedia.org/wiki/Hetucakra

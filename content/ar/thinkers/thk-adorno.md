@@ -23,7 +23,7 @@ related:
 - id: "ctx-frankfurt-school-weimar-exile", title: "مدرسة فرانكفورت وصدمة الفاشية وتأسيس النظرية النقدية", type: "سياق/تقليد"
 - id: "ctx-nazi-totalitarianism-shoah", title: "الشمولية النازية والمحرقة والانهيار الأخلاقي للحضارة الغربية", type: "سياق/تقليد"
 gaps:
-  - "كتابه 'رطانة الأصالة' (Jargon der Eigentlichkeit, 1964) ونقده للهايدجرية يستحق إدراجاً في النقد الخارجي (crt-)."
+  - "لا يوجد اقتباس عربي أو إنجليزي موثَّق برقم صفحة محدد من 'رطانة الأصالة' (Jargon der Eigentlichkeit, 1964)؛ الاقتباس الوحيد المُدرَج مأخوذ من الأخلاق الدنيا (Minima Moralia)."
 ---
 # ثيودور أدورنو
 
@@ -47,3 +47,11 @@ gaps:
 ## اقتباسات مختارة
 
 «لا توجد حياة صحيحة تُعاش داخل حياة خاطئة» — الأخلاق الدنيا (Minima Moralia)، 1951
+
+## المصادر
+
+- Theodor W. Adorno, Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/adorno/
+- Theodor Wiesengrund Adorno, Encyclopædia Britannica: https://www.britannica.com/biography/Theodor-Wiesengrund-Adorno
+- Theodor W. Adorno, Wikipedia: https://en.wikipedia.org/wiki/Theodor_W._Adorno
+- Negative Dialectics (Wikipedia, لتأكيد سنة النشر الألمانية 1966 والترجمة الإنجليزية 1973): https://en.wikipedia.org/wiki/Negative_Dialectics
+- Minima Moralia (Wikipedia): https://en.wikipedia.org/wiki/Minima_Moralia

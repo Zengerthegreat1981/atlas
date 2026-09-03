@@ -25,7 +25,7 @@ gaps:
 
 # أنسيلم من كانتربري
 
-أبو السكولاستية، أسقف كانتربري (إنجلترا). راهب بنديكتي، تتلمذ على يد لانفرانك (Lanfranc) في بيك. اشتُهر بـ«البرهان الأنطولوجي» على وجود الله.
+أبو السكولاستية، رئيس أساقفة كانتربري (إنجلترا) منذ 1093. راهب بنديكتي، تتلمذ على يد لانفرانك (Lanfranc) في دير بيك (Bec) بنورماندي، وخلفه فيه رئيساً للدير قبل أن يُستدعى لاحقاً إلى كانتربري. اشتُهر بـ«البرهان الأنطولوجي» على وجود الله.
 
 ## ما أعطاه
 
@@ -47,3 +47,9 @@ gaps:
 - Cur Deus Homo (1094-1098)
 - De Veritate
 - Epistola de Incarnatione Verbi
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Anselm of Canterbury" — https://plato.stanford.edu/entries/anselm/
+- Internet Encyclopedia of Philosophy, "Anselm: Ontological Argument for God's Existence" — https://iep.utm.edu/anselm-ontological-argument/
+- Philosophy Now, "Anselm (1033-1109)", Issue 164 — https://philosophynow.org/issues/164/Anselm_1033-1109

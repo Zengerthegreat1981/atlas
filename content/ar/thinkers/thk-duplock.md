@@ -40,4 +40,10 @@ gaps:
 
 ## أهم أعماله
 
-أوراق بحثية ومراجع في الإشراف الإكلينيكي والعلاج الوجودي للإدمان.
+أوراق بحثية ومراجع في الإشراف الإكلينيكي والعلاج الوجودي للإدمان؛ محرر مشارك لدورية Existential Analysis منذ 1993، ومحرر مشارك لـ The Wiley World Handbook of Existential Therapy (2019).
+
+## المصادر
+
+- Metanoia Institute — Prof Simon du Plock (MIrep profile): https://mirep.metanoia.ac.uk/profile/8
+- ResearchGate — Simon Du Plock, Middlesex University / Metanoia Institute: https://www.researchgate.net/profile/Simon-Du-Plock
+- PCCS Books — Author profile: https://www.pccs-books.co.uk/authors/simon-du-plock

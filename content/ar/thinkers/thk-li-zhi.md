@@ -13,19 +13,21 @@ part: "philosophy"
 active_start: 1555
 active_end: 1602
 edges:
-- rel: "belongs_to", target: "الفلسفة الصينية الكلاسيكية (كمظلة)", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 related:
-- id: "thk-wang-yangming", title: "وانغ يانغمِنغ", type: "مفكر"
-- id: "thk-zhu-xi", title: "تشو شي", type: "مفكر"
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
-- id: "thk-xunzi", title: "شيون تسي", type: "مفكر"
-- id: "sch-confucian-early", title: "الكونفوشيوسية المبكرة", type: "مدرسة"
-- id: "sch-mohism", title: "الموهية", type: "مدرسة"
-- id: "sch-legalism", title: "الشرعوية (Legalism)", type: "مدرسة"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ (وانغ شو رن)", type: "مفكر"
+- id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو (شون كوانغ)", type: "مفكر"
+- id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
 gaps:
   - "كتاب 'A Book to Burn' (焚书) صدر في طبعة حديثة محدودة، والنسخ الأصلية نادرة."
   - "لا توجد ترجمة عربية موثّقة لـA Book to Burn أو A Book to Hide."
   - "علاقته بـ'حركة Donglin' (Donglin) قبل انتحاره لم تُحلَّل أكاديمياً."
+  - "تم التحقق (بحث ويب، أيلول 2026): لا يوجد مصدر يُثبت أن ديرك بود (Derk Bodde) ترجم مقالة '童心说'؛ الترجمات الإنجليزية المعتمدة أكاديمياً هي لـ Rivi Handler-Spitz وPauline C. Lee وHaun Saussy (A Book to Burn and A Book to Keep (Hidden): Selected Writings, Columbia University Press, 2016)، وترجمة أقدم لـ Stephen Owen بعنوان 'On the Child-Mind' (1996). صُحّح إسناد الاقتباس أدناه بناءً على ذلك."
+  - "لم يُعثر على تعليل أكاديمي محدد يربط لي تشي مباشرة بالشرعوية (Legalism)/Han Feizi بوصفه تأثيراً موثقاً؛ العلاقة المذكورة في 'موقعه من التيار' وصفية عامة وليست مسندة لمصدر واحد."
 ---
 
 # لي تشي (لي تشِه)
@@ -57,4 +59,10 @@ gaps:
 ## اقتباسات مختارة
 
 > "القلب الطفل (童心) هو العقل الحقيقي. إن لم يكن القلب طفلاً، فلا كلام ولا فكر في الصواب."
-> *(焚书， مجلّد 3، '童心说'، ترجمة: ديرك بود)*
+> *(焚书، مجلّد 3، '童心说' "شرح القلب الطفل"؛ راجع الترجمة الإنجليزية لـ Rivi Handler-Spitz وPauline C. Lee وHaun Saussy، في A Book to Burn and A Book to Keep (Hidden): Selected Writings, Columbia University Press، صدرت بعد وفاته بقرون، 2016)*
+
+## المصادر
+
+- Li Zhi (philosopher) — Wikipedia: https://en.wikipedia.org/wiki/Li_Zhi_(philosopher)
+- A Book to Burn — Wikipedia: https://en.wikipedia.org/wiki/A_Book_to_Burn
+- Handler-Spitz, R., Lee, P. C., & Saussy, H. (eds. & trans.), *A Book to Burn and a Book to Keep (Hidden): Selected Writings*, Columbia University Press, 2016.

@@ -43,3 +43,9 @@ gaps:
 - *Meetings with Remarkable Men* — نُشر بعد وفاته 1963.
 - *The Fourth Way* — تدوين لمحاضرات تلميذه بيوتر أوسبنسكي، نُشر بعد وفاته 1957، لا من تأليف غورجييف.
 - *Life Is Real Only Then, When 'I Am'* — نُشر بعد وفاته 1975.
+
+## المصادر
+
+- Wikipedia, "G. I. Gurdjieff" — https://en.wikipedia.org/wiki/G._I._Gurdjieff
+- Fourth Way Legacy, "When Was Gurdjieff Born? 1866, 1872, 1877?" — https://gurdjiefflegacy.org/40articles/whengurdjieffwasborn.htm
+- Wikipedia, "Fourth Way" — https://en.wikipedia.org/wiki/Fourth_Way

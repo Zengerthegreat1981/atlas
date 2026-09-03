@@ -15,13 +15,12 @@ crumb: "علم الأعصاب الوجداني ← دوائر البقاء ال�
 edges:
 - rel: "belongs_to", target: "br-affective-neuroscience-informed", target_type: "تيار"
 related:
-- id: "thk-panksepp", title: "جاك بانكسيب", type: "مفكر"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
-- id: "con-neuroplasticity", title: "اللدونة العصبية", type: "مفهوم"
-- id: "thk-bvdkolk", title: "بسل فان دير كولك", type: "مفكر"
-- id: "con-somatic-memory", title: "الذاكرة الجسدية", type: "مفهوم"
+- id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
+- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "con-somatic-memory", title: "الذَّاكِرَة الْجِسَدِيَّة (Somatic Memory)", type: "مفهوم"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Anxious: Using the Brain to Understand and Treat Fear and Anxiety* (2015) بترجمة عربية معتمدة."
   - "دُمج معه الملف المكرَّر thk-emotional-brain-j-ledoux (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
@@ -47,3 +46,11 @@ gaps:
 - *Anxious: Using the Brain to Understand and Treat Fear and Anxiety* (2015) — وفيه أوضح صياغة لتصحيحه المتأخّر.
 - *The Deep History of Ourselves* (2019).
 - *The Four Realms of Existence* (2023).
+
+## المصادر
+
+- Joseph E. LeDoux, NYU Faculty Profile: https://as.nyu.edu/faculty/joseph-e-ledoux.html
+- Wikipedia, "Joseph E. LeDoux": https://en.wikipedia.org/wiki/Joseph_E._LeDoux
+- Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval." *Nature*, 406, 722–726.
+- LeDoux, J. (2015). *Anxious: Using the Brain to Understand and Treat Fear and Anxiety*. Viking. (فاز بجائزة APA William James Book Award)
+- الموقع الرسمي: https://www.joseph-ledoux.com/

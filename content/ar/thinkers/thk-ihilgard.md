@@ -45,3 +45,10 @@ gaps:
 - *Divided Consciousness: Multiple Controls in Human Thought and Action* (1977) — تأليف منفرد، **تصحيح**: لا يوجد مؤلف مشارك بعنوان "جوزيف هيلغارد"؛ زوجته جوزفين ر. هيلغارد لم تشارك في تأليف هذا الكتاب تحديداً.
 - *Hypnotic Susceptibility* (1965).
 - *The Experience of Hypnosis* (1968) — مع **جوزفين ر. هيلغارد** (زوجته، وليس "أندرو مورغان" كما كان مكتوباً سابقاً — خطأ نسبة).
+
+## المصادر
+
+- Hilgard, E. R. (1977). "The Problem of Divided Consciousness: A Neodissociation Interpretation." *Annals of the New York Academy of Sciences*, 296:48-59 — https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1977.tb38160.x
+- Weitzenhoffer, A. M. & Hilgard, E. R. (1959). *Stanford Hypnotic Susceptibility Scale, Forms A and B* — أصل مقياس ستانفورد الفردي، انظر "Hypnotic susceptibility", Wikipedia — https://en.wikipedia.org/wiki/Hypnotic_susceptibility
+- Shor, R. E. & Orne, E. C. (1962). *Harvard Group Scale of Hypnotic Susceptibility, Form A* — النسخة الجماعية المشتقة عن مقياس هيلغارد-فايتزنهوفر، وليست من تأليفه.
+- Internet Archive, "The Experience of Hypnosis" (1968) — https://archive.org/details/experienceofhypn0000hilg

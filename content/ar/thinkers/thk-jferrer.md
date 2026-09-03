@@ -18,6 +18,7 @@ related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Revisioning Transpersonal Theory* (2002) بترجمة عربية معتمدة."
+  - "عنوان/تفاصيل نشر *Love and Freedom* (2021) لم تُراجع من مصدر أوّلي (ناشر، عنوان فرعي دقيق)."
 ---
 
 # خورخي فيرير
@@ -42,3 +43,10 @@ gaps:
 - *Revisioning Transpersonal Theory: A Participatory Vision of Human Spirituality* (2002).
 - *The Participatory Turn: Spirituality, Mysticism, Religious Studies* (2008، تحرير مع جيكوب شيرمان).
 - *Participation and the Mystery: Transpersonal Essays in Psychology, Education, and Religion* (2017).
+- *Love and Freedom* (2021) — عمل لاحق لم تُراجع تفاصيله (الناشر/العنوان الفرعي الدقيق) في هذه المسودة.
+
+## المصادر
+
+- Jorge Ferrer, Wikipedia: <https://en.wikipedia.org/wiki/Jorge_Ferrer> (تاريخ الميلاد 30 أكتوبر 1968، منصبه في CIIS كأستاذ سابق ورئيس سابق لقسم علم نفس الشرق-الغرب).
+- Jorge N. Ferrer، الموقع الرسمي: <https://jorgenferrer.com/> و<https://www.jorgenferrer.com/about>.
+- SUNY Press، صفحة المؤلف: <https://sunypress.edu/Contributors/F/Ferrer-Jorge-N> (قائمة أعماله المنشورة).

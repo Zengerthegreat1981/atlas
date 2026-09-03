@@ -25,6 +25,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Discourse and Cognition* (1997) بترجمة عربية معتمدة."
   - "طبعات إدواردز ومقالاته المنشورة بعد 2000 لم تُراجع من مصدر أولي."
+  - "سنة ميلاده (1957) شائعة في السير لكن لم تُؤكَّد من مصدر أولي مستقل."
 ---
 
 # ديرِك إدواردز
@@ -47,3 +48,10 @@ gaps:
 
 - *Discourse and Cognition* (1997).
 - *Discursive Psychology* (1992، مع جوناثان بوتر).
+- *Common Knowledge* (1987، مع نيل ميرسر).
+
+## المصادر
+
+- Loughborough University, صفحة ديرِك إدواردز (أستاذ فخري) — https://www.lboro.ac.uk/subjects/communication-media/staff/honorary/derek-edwards/
+- SAGE Publications, "Discourse and Cognition" — https://uk.sagepub.com/en-gb/eur/discourse-and-cognition/book204266
+- SAGE Publications, "Discursive Psychology" — https://uk.sagepub.com/en-gb/eur/discursive-psychology/book203291

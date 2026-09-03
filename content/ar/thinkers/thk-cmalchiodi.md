@@ -19,7 +19,6 @@ related:
 - id: "thk-mnaumburg", title: "مارغريت نومبورغ", type: "مفكر"
 - id: "thk-ahill", title: "أدريان هيل", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من «الصدمة والعلاج بالفنون التعبيرية» (Trauma and Expressive Arts Therapy, 2015) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
@@ -43,3 +42,10 @@ gaps:
 
 - *Trauma and Expressive Arts Therapy* (2015).
 - *Art Therapy and Health Care* (2012).
+
+## المصادر
+
+- Wikipedia, "Cathy Malchiodi": https://en.wikipedia.org/wiki/Cathy_Malchiodi
+- الموقع الرسمي: https://cathymalchiodi.com/
+- Psychology Today, ملف كاثي مالكيودي: https://www.psychologytoday.com/us/contributors/cathy-malchiodi-phd-lpcc-lpat-atr-bc-reat
+- Encyclopedia.com, "Malchíodi, Cathy Ann 1953–": https://www.encyclopedia.com/arts/educational-magazines/malchiodi-cathy-ann-1953

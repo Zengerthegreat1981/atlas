@@ -28,7 +28,9 @@ gaps:
 
 # بروس د. بيري
 
-طبيب نفسي أطفال ومراهقين أمريكي وأستاذ في جامعة نورث وسترن، مؤسس مشارك لـ"أكاديمية ChildTrauma" (مركز خبرات الصدمة في مرحلة الطفولة). من أهم منظّري علم أعصاب الصدمة في الأطفال.
+طبيب نفسي أطفال ومراهقين أمريكي وأستاذ مساعد (adjunct) في كلية فاينبرغ للطب بجامعة نورث وسترن، وزميل أول في "أكاديمية ChildTrauma" (ChildTrauma Academy) بهيوستن التي شارك في تأسيسها. من أهم منظّري علم أعصاب الصدمة في الأطفال.
+
+> **تصحيح:** الملف السابق وصفه بـ"أستاذ" في نورث وسترن دون تحديد؛ الأدق أنه أستاذ مساعد (adjunct) في الطب النفسي وعلوم السلوك، بينما تخصّصه المتقدَّم فيه هو "جامعة نورث وسترن" بدرجتَي الطب والدكتوراه.
 
 ## ما أعطاه
 
@@ -47,3 +49,10 @@ gaps:
 - *The Boy Who Was Raised as a Dog* (2007، مع مايا سزالافيتز).
 - *Born for Love* (2009، مع مايا سزالافيتز).
 - *What Happened to You?* (2021، مع أوبرا وينفري).
+
+## المصادر
+
+- Bruce D. Perry, Wikipedia: <https://en.wikipedia.org/wiki/Bruce_D._Perry> (وُلد 1955 في بيسمارك، داكوتا الشمالية؛ أمريكي؛ زميل أول في ChildTrauma Academy بهيوستن؛ أستاذ مساعد في كلية Feinberg للطب بجامعة نورث وسترن؛ درس الطب والدكتوراه في نورث وسترن).
+- Prevent Child Abuse America، سيرة بروس بيري: <https://preventchildabuse.org/team/bruce-perry/>.
+- The Neurosequential Model Network، فريق العمل: <https://www.neurosequential.com/ourteam>.
+- مقال عن عمله مع أطفال حصار واكو وتطوّر النموذج العصبي التتابعي: <https://gettherapybirmingham.com/bruce-perry-from-branch-davidian-waco-to-what-happened-to-you-three-decades-translating-neuroscience-into-healing-for-maltreated-children/>.

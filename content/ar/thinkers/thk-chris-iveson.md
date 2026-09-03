@@ -18,27 +18,34 @@ related:
 - id: "thk-alasdair-macleod", title: "ألاسدير ماكليود (Alasdair MacLeod)", type: "مفكر"
 - id: "con-solution-talk", title: "حَدِيث الْحَلّ (Solution Talk) في SFT", type: "مفهوم"
 - id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل (SFBT)", type: "مدرسة"
-- id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
-- id: "con-solution-focused-miracle-q", title: "السؤال المعجزة", type: "مفهوم"
+- id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
+- id: "con-solution-focused-miracle-q", title: "سؤال المعجزة (Miracle Question) في العلاج المختصر القائم على الحل", type: "مفهوم"
 gaps:
-  - "رابط مقترح لم يتحقق بعد في الأطلس: جورج إيفسون (thk-george-eveson)"
-  - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "لم تُراجع من نسخة أصلية مباشرة بعد؛ التفاصيل الشخصية (سنة الميلاد الدقيقة، المسار المهني قبل BRIEF) غير مؤكَّدة من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "الفرق بينه و بين Sde Shazer و Eve يحتاج فصلاً."
-  - "الفرق بين SFT و NLP يحتاج فصلاً."
+  - "تفاصيل دوره الدقيق في تطوير كل من التطبيقات المدرسية والأسرية لـ SFT تحتاج مصادر أولية إضافية."
 ---
 
 # كريس إيفسون (Chris Iveson)
 
-معالج نفسي بريطاني، مع ستيف دي شازر (Steve de Shazer) و إيف (Eve)، أحد «مؤسسي» العلاج المركز على الحل (Solution-Focused Brief Therapy، SFBT). من أهم أصوات SFT في بريطانيا.
+معالج نفسي بريطاني، أحد الأعضاء المؤسِّسين الثلاثة لـ«BRIEF» (Brief Therapy Practice) في لندن — إلى جانب إيفان جورج (Evan George) وهارفي راتنر (Harvey Ratner) — وهي أكبر جهة تدريب على العلاج المركز على الحل (Solution-Focused Brief Therapy، SFBT) في أوروبا. يمارس SFT منذ أواخر الثمانينيات، ومن أهم أصوات هذه المدرسة في بريطانيا.
 
 ## الإسهام
 
-- **SFT في بريطانيا** (SFT in UK): نقل SFT إلى العلاج النفسي البريطاني مع BRIEF Therapy Practice (لندن).
-- «السؤال المعجزة»: تطوير «السؤال المعجزة» مع Sde Shazer — «هل تستطيع» «أن تتصور» «معجزة» يحدث بين الليلة والصباح.
-- **SFT في الأسر** (SFT in Families): تطبيق SFT مع أسر و**أزواج** — «استثناء» في العلاقات.
-- **SFT في المدارس** (SFT in Schools): تطبيق SFT مع «طلاب» و**مدرسين** (Teachers) ل«مشاكل» سلوكية.
+- **نقل SFT إلى بريطانيا**: أسّس مع إيفان جورج وهارفي راتنر عيادة BRIEF في لندن بعد أن اطّلعوا، أثناء عملهم في عيادة تابعة لهيئة الصحة الوطنية (NHS)، على تجربة مركز العلاج الأسري المختصر (Brief Family Therapy Center) في ميلووكي الذي أسّسه ستيف دي شيزر (Steve de Shazer) وإنسو كيم بيرغ (Insoo Kim Berg)؛ فطوّروا هذا النموذج ضمن السياق البريطاني بدءاً من أواخر الثمانينيات.
+- **تعميم «سؤال المعجزة»**: «سؤال المعجزة» (Miracle Question) ابتكره أصلاً دي شيزر وبيرغ في ميلووكي أوائل الثمانينيات؛ ساهم إيفسون مع زملائه في BRIEF في تطوير صياغاته وتطبيقاته العملية ونشرها في السياق البريطاني، لا في اختراعه الأصلي.
+- **SFT في الأسر والأزواج**: تطبيق مقاربة SFT في العمل مع الأسر والأزواج، بالتركيز على «الاستثناءات» (اللحظات التي غابت فيها المشكلة) كمدخل للتغيير.
+- **SFT في المدارس**: نشر تطبيقات SFT في التعامل مع مشكلات سلوكية للطلاب، بالعمل مع الطلاب والمدرّسين معاً.
+- من مؤلفاته المشتركة مع إيفان جورج وهارفي راتنر: *Brief Coaching: A Solution Focused Approach* و*Solution Focused Brief Therapy: 100 Key Points and Techniques*.
 
 ## الأهمية
 
-إيفسون أحد أهم أصوات SFT في المملكة المتحدة، يساعد على «توطيد» SFT في الخدمات النفسية البريطانية.
+إيفسون أحد أهم أصوات SFT في المملكة المتحدة، وساهم عبر BRIEF في تدريب آلاف المعالجين والمهنيين على هذه المقاربة، مما رسّخها في الخدمات النفسية والاجتماعية البريطانية.
+
+## المصادر
+
+- BRIEF — About Us: https://www.brief.org.uk/about-us
+- Iveson, C., George, E., Ratner, H. — *Brief Coaching: A Solution Focused Approach* (Routledge)
+- Iveson, C., George, E., Ratner, H. — *Solution Focused Brief Therapy: 100 Key Points and Techniques* (Routledge, 2012)
+- de Shazer, S. — "A Brief, Informal History of SFBT" (UNLV Journal of Solution-Focused Practices)
+- Insoo Kim Berg — Wikipedia: https://en.wikipedia.org/wiki/Insoo_Kim_Berg
