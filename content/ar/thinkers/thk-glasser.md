@@ -21,7 +21,7 @@ related:
 - id: "con-quality-world", title: "العالم النوعي (Quality World)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Reality Therapy* (1965) بترجمة عربية معتمدة."
-  - "السيرة الذاتية التفصيلية في سنوات ما بعد تأسيس معهد ويليام غلاسر لم تُراجع من مصدر أولي."
+  - "تاريخا الميلاد والوفاة (11 مايو 1925 – 23 أغسطس 2013) ومسيرته المهنية (مدينة كليفلاند، جامعة كيس ويسترن ريزيرف، شهادة الطب 1953، تأسيس معهد علاج الواقع 1967) روجعت عبر مصادر مستقلة (Wikipedia، EBSCO Research Starters، GoodTherapy) بتاريخ 2026-09-03."
 ---
 
 # ويليام غلاسر
@@ -49,6 +49,12 @@ gaps:
 
 ## القيد
 موقف غلاسر من المرض النفسي قاسٍ ومثير للجدل، إذ رفض صراحةً تصنيف الاكتئاب والفصام كاضطرابات بيولوجية، وهو ما حدّ من قبوله في الأوساط الأكاديمية التقليدية رغم شعبيته السريرية.
+
+## المصادر
+
+- William Glasser — Wikipedia: https://en.wikipedia.org/wiki/William_Glasser
+- William Glasser (psychiatrist) — EBSCO Research Starters: https://www.ebsco.com/research-starters/biography/william-glasser-psychiatrist/
+- William Glasser Biography — GoodTherapy: https://www.goodtherapy.org/famous-psychologists/william-glasser.html
 
 ## اقتراحات ربط (ملاحظة تحريرية)
 

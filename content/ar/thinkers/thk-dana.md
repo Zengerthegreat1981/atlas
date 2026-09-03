@@ -15,8 +15,8 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
-- id: "wrk-polyvagal-theory-therapy", title: "النظرية العصبية المبهمة في العلاج", type: "عمل / كتاب"
-- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم", type: "مفهوم"
+- id: "wrk-polyvagal-theory-therapy", title: "النظرية العصبية المبهمة في العلاج: إشراك إيقاع التنظيم الذاتي", type: "عمل / كتاب"
+- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder)", type: "مفهوم"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورغيس (thk-sporges)"
@@ -49,3 +49,9 @@ gaps:
 ## القيد
 - **مفهوم Neuroception عند بورغيس** استُخدم أصلاً للإشارة إلى استجابة لاإرادية خارج الوعي، فيما تميل دانا إلى استخدامه عملياً كأداة مراقبة واعية. الفرق دقيق لكنه جوهري.
 - **بعض الممارسين** يدمجون النموذج مع مناهج أخرى (EMDR، Somatic Experiencing) مما يُضعف نقاء تعريفه.
+
+## المصادر
+- "About Deb", Polyvagal Institute: https://www.polyvagalinstitute.org/about-deb
+- "Deb Dana", Rhythm of Regulation: https://www.rhythmofregulation.com/about
+- "Deb Dana | Kripalu": https://kripalu.org/people/deb-dana
+- W.W. Norton، صفحات الكتب: *The Polyvagal Theory in Therapy* (2018)، *Polyvagal Exercises for Safety and Connection* (2020)، *The Polyvagal Flip Chart* (2020).

@@ -23,7 +23,7 @@ related:
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "thk-dewaelhens", title: "ألفونس دي فالهنز", type: "مفكر"
 - id: "wrk-foucault-madness-civilization", title: "الجنون والحضارة (Madness and Civilization)", type: "عمل / كتاب"
-- id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: في علم السماع والعلاقة السماعية (بيون)", type: "عمل / كتاب"
+- id: "wrk-listening-projective-identification", title: "الانتباه والتأويل: مقاربة علمية للاستبصار في التحليل النفسي والجماعات (بيون)", type: "عمل / كتاب"
 - id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "ctx-psychoanalytic-tradition", title: "التقليد التحليلي النفسي", type: "سياق/تقليد"
 gaps:
@@ -66,4 +66,12 @@ gaps:
 
 ## أهم أعماله
 
-أطروحته للدكتوراه: **الذهان الزوري في علاقته بالشخصية** (De la psychose paranoïaque dans ses rapports avec la personnalité، 1932) · **كتابات** (Écrits، 1966) · **السيمينار** (خمسة وعشرون كتاباً، 1953–1980، وأشهرها: الكتاب الأول *كتابات فرويد التقنية*، والثالث *الذهانات*، والسابع *أخلاقيات التحليل النفسي*، والعاشر *القلق*، والحادي عشر *المفاهيم الأساسية الأربعة للتحليل النفسي*، والسابع عشر *الوجه الآخر للتحليل النفسي* وفيه الخطابات الأربعة، والعشرون *مرّةً أخرى*).
+أطروحته للدكتوراه: **الذهان الزوري في علاقته بالشخصية** (De la psychose paranoïaque dans ses rapports avec la personnalité، 1932) · **كتابات** (Écrits، 1966) · **السيمينار** (سبعة وعشرون كتاباً، 1953–1980، وأشهرها: الكتاب الأول *كتابات فرويد التقنية*، والثالث *الذهانات*، والسابع *أخلاقيات التحليل النفسي*، والعاشر *القلق*، والحادي عشر *المفاهيم الأساسية الأربعة للتحليل النفسي*، والسابع عشر *الوجه الآخر للتحليل النفسي* وفيه الخطابات الأربعة، والعشرون *مرّةً أخرى*).
+
+## المصادر
+
+- Roudinescu, Élisabeth. *Jacques Lacan: An Outline of a Life and History of a System of Thought*. Columbia University Press, 1997.
+- "Seminars of Jacques Lacan," Wikipedia, https://en.wikipedia.org/wiki/Seminars_of_Jacques_Lacan (توثيق لعدد السيمينارات: 27 كتاباً من 1953 إلى 1980).
+- "Société Française de Psychanalyse" و"École Freudienne de Paris," Wikipedia (على أزمة 1963–1964 مع الجمعية الدولية للتحليل النفسي وحذف لاكان من قائمة محلّلي التدريب، وتأسيس مدرسة باريس الفرويدية 1964 وحلّها 1980).
+- Sokal, Alan & Bricmont, Jean. *Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science*. Picador, 1998 (النسخة الفرنسية *Impostures intellectuelles*، 1997).
+- Internet Encyclopedia of Philosophy, "Lacan, Jacques," https://iep.utm.edu/lacweb/

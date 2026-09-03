@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
-- id: "con-archetype", title: "الأركيتيب", type: "مفهوم"
+- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *الآلهات في كلّ امرأة* (1984) بترجمة عربية معتمدة."
   - "تأثرها بحركة النساء في السبعينيات (Second Wave) — موثّق ذاتياً لكن يحتاج مقاربة نقدية."
@@ -41,3 +41,8 @@ gaps:
 ## أهم أعمالها
 
 الآلهات في كلّ امرأة (Goddesses in Everywoman, 1984) · آلهة كلّ رجل (Gods in Everyman, 1989) · طاوية علم النفس (The Tao of Psychology, 1979) · قريبون من العظم (Close to the Bone, 1996).
+
+## المصادر
+- "Bolen, Jean Shinoda 1936-", Encyclopedia.com: https://www.encyclopedia.com/arts/educational-magazines/bolen-jean-shinoda-1936
+- "Goddesses in Everywoman", C.G. Jung Institute of Chicago (صفحة الكتاب): https://jungchicago.org/product/bolen-goddesses-in-everywoman/
+- "GODDESSES IN EVERYWOMAN with JEAN SHINODA BOLEN, M.D.", Intuition Network: http://www.intuitionnetwork.org/txt/bolen.htm

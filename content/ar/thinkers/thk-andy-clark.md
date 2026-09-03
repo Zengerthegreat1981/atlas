@@ -15,7 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "que-extended-mind-boundary", title: "أين ينتهي عقل الإنسان وأين يبدأ العالم الخارجي؟", type: "سؤال توليدي"
-- id: "dbt-extended-mind-clark-chalmers", title: "جدل العقل الممتد", type: "جدل"
+- id: "dbt-extended-mind-clark-chalmers", title: "فرضية العقل الممتد وتخطي حدود الجمجمة (Clark & Chalmers)", type: "جدل"
 - id: "ctx-dot-com-bubble-internet-revolution", title: "ثورة الإنترنت وفقاعة الدوت كوم وميلاد المجتمع الشبكي الرقمي", type: "سياق/تقليد"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -36,3 +36,11 @@ gaps:
 ## الأثر في الذكاء الاصطناعي المعاصر
 
 أحدثت أطروحاته تحولاً جذرياً في فلسفة الإدراك وتصميم الأنظمة الذاتية التكيفية.
+
+## المصادر
+
+- Clark, A. & Chalmers, D. (1998). "The Extended Mind." *Analysis*, 58(1), 7–19.
+- Clark, A. (2003). *Natural-Born Cyborgs*. Oxford University Press.
+- Clark, A. (2015). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
+- Wikipedia: [Andy Clark](https://en.wikipedia.org/wiki/Andy_Clark)
+- PhilPapers: [Clark & Chalmers, "The Extended Mind"](https://philpapers.org/rec/CLATEM)

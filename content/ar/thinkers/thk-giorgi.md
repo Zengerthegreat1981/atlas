@@ -26,7 +26,7 @@ gaps:
 
 # أميديو جيورجي
 
-عالم نفس وظاهراتي أمريكي، أبرز منظّري «مدرسة دوكين» لعلم النفس الفينومينولوجي — التي أسّسها أدريان ڤان كام في مطلع الستينيات والتحق بها جيورجي عام 1965 فصار واضع منهجها — ومبتكر «المنهج الفينومينولوجي الوصفي في علم النفس» (Descriptive Phenomenological Method).
+عالم نفس وظاهراتي أمريكي، أبرز منظّري «مدرسة دوكين» لعلم النفس الفينومينولوجي — التي أسّسها أدريان ڤان كام في مطلع الستينيات والتحق بها جيورجي عام 1962 فصار واضع منهجها — ومبتكر «المنهج الفينومينولوجي الوصفي في علم النفس» (Descriptive Phenomenological Method).
 
 ## ما أعطاه
 
@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 علم النفس كعلم إنساني (Psychology as a Human Science, 1970) · المنهج الفينومينولوجي الوصفي في علم النفس (The Descriptive Phenomenological Method in Psychology, 2009).
+
+## المصادر
+
+- "Amedeo Giorgi", Wikipedia: https://en.wikipedia.org/wiki/Amedeo_Giorgi
+- "Amedeo Giorgi: A Research Guide", Duquesne University Library: https://guides.library.duq.edu/giorgialcove
+- "Collection: Amedeo P. Giorgi Archive", Duquesne University ArchivesSpace: https://archives.library.duq.edu/repositories/4/resources/66
+- "Amedeo Giorgi and Psychology as a Human Science": https://www.researchgate.net/publication/270552698_Amedeo_Giorgi_and_Psychology_as_a_Human_Science

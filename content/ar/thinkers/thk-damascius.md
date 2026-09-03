@@ -41,3 +41,11 @@ gaps:
 - *شرح بارمنيدس*.
 - *حياة إيزيدوروس* (التاريخ الفلسفي) — شذرات عند فوتيوس وسُوذا.
 - شروح على *فيدون* و*فيليبس*.
+
+## المصادر
+
+- Britannica, *Damascius* — https://www.britannica.com/biography/Damascius
+- Wikipedia, *Damascius* (c. 462 – after 538) — https://en.wikipedia.org/wiki/Damascius
+- Encyclopedia.com, *Damascius (c. 462–c. 538)* — https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/damascius-c-462-c-538
+- Polymnia Athanassiadi (trans.), *Damascius: The Philosophical History*.
+- Sara Ahbel-Rappe (trans.), *Damascius' Problems and Solutions Concerning First Principles*.

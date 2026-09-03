@@ -51,3 +51,9 @@ gaps:
 ## أهم أعماله
 
 عن الشخصية (O lichnosti, 1929) · قصيدة عن الموت (Poema o smerti, 1931).
+
+## المصادر
+
+- "Lev Karsavin," Wikipedia, https://en.wikipedia.org/wiki/Lev_Karsavin (تواريخ الميلاد والوفاة، الطرد من روسيا 1922، التدريس في جامعتَي كاوناس وفيلنيوس، الاعتقال 1949 والوفاة في معتقل أبيز 1952).
+- "Karsavin, Lev Platonovich (1882–1952)," Routledge Encyclopedia of Philosophy, https://www.rep.routledge.com/articles/biographical/karsavin-lev-platonovich-1882-1952/v-1
+- Encyclopedia.com, "Karsavin, Lev Platonovich (1882–1952)," https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/karsavin-lev-platonovich-1882-1952

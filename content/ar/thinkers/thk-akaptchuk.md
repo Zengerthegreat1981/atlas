@@ -18,10 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-newconfucianism-modern", target_type: "مدرسة"
 related:
 - id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
-- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة", type: "مدرسة"
+- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
 - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
-- id: "thk-ttu", title: "توي وي-مينغ", type: "مفكر"
-- id: "thk-knakamura", title: "كوجي ناكامورا", type: "مفكر"
+- id: "thk-ttu", title: "توي وي-مينغ (دو وي-مينغ)", type: "مفكر"
+- id: "thk-knakamura", title: "كويتشي ناكامورا", type: "مفكر"
 gaps:
   - "الـslug thk-akaptchuk يبدو وكأنه يشير إلى «A. Kaptchuk» لكن الشخصية المقصودة في الموجز هي تيد (Theodore J.) كابتْشُك. إعادة تسمية الـslug إلى thk-tkaptchuk موصى بها في مسار المراجعة."
   - "كابتْشُك ممارس للطب الصيني وأستاذ في الطب، لا فيلسوف أو عالم نفس بالمعنى المهني؛ إدراجه هنا بسبب تأثيره في الفلسفة الكونفوشية لطبيعة الجسد وعلاقته بالذهن."
@@ -65,3 +65,11 @@ gaps:
 ## لماذا يُذكر هنا
 
 في كل مرة يستعمل باحث في علم النفس الكونفوشي مفهوم «الرن العلاجي» أو «الطّقس بوصفه تنظيماً انفعالياً»، فإن أحد المراجع الخفية هو كابتْشُك. ليس فيلسوفاً محضاً ولا عالم نفس سريرياً، لكنه «الوسيط المؤسسي» الذي نقل المفاهيم الكونفوشية من كتب الفلسفة إلى مختبرات الطب السريري ودراسات علم النفس.
+
+## المصادر
+
+- Ted Kaptchuk — Wikipedia: https://en.wikipedia.org/wiki/Ted_Kaptchuk
+- "Ted J. Kaptchuk | Biography" (السيرة الرسمية): http://tedkaptchuk.com/biography
+- "Ted J. Kaptchuk" — Traditional Chinese and Western Medicine Symposium, Harvard Medical School: https://tcmsymposium.hms.harvard.edu/people/ted-j-kaptchuk
+- "A Conversation with Professor Ted Kaptchuk, a Key Architect of Modern TCM in the West": https://journals.lww.com/cmc/fulltext/2024/03000/a_conversation_with_professor_ted_kaptchuk,_a_key.2.aspx
+- "Ted Kaptchuk of Harvard Medical School studies placebos" — Harvard Magazine: https://www.harvardmagazine.com/2012/12/the-placebo-phenomenon

@@ -42,8 +42,14 @@ gaps:
 
 ## أهم أعماله
 
-الاعترافات (Confessiones, 397–400 م) · مدينة الله (De Civitate Dei, 426 م) · عن الثالوث (De Trinitate).
+الاعترافات (Confessiones, 397–400 م) · مدينة الله (De Civitate Dei, 413–426 م) · عن الثالوث (De Trinitate, نحو 400–420 م).
 
 ## اقتباسات مختارة
 
 «متأخراً أحببتُك، أيها الجمال القديم الجديد، متأخراً أحببتُك» — الاعترافات، نحو 400 م
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy: [Augustine of Hippo](https://plato.stanford.edu/entries/augustine/)
+- Wikipedia: [Confessions (Augustine)](https://en.wikipedia.org/wiki/Confessions_(Augustine)) · [The City of God](https://en.wikipedia.org/wiki/The_City_of_God) · [On the Trinity](https://en.wikipedia.org/wiki/On_the_Trinity)
+- Heidegger, M. (1921), محاضرات "فينومينولوجيا الحياة الدينية" (Phänomenologie des religiösen Lebens)، القسم الخاص بأوغسطينوس والأفلاطونية المحدثة.

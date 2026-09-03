@@ -6,11 +6,11 @@ level: "متوسط"
 title: "دينيس ويتلي"
 en: "Denis Waitley"
 crumb: "السيبرنتيكا النفسية ← تطوير ← دينيس ويتلي"
-dates: "الولايات المتحدة · 1933–"
+dates: "الولايات المتحدة · 1933–2025"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
-active_end: "مستمر"
+active_end: 2025
 part: "philosophy"
 edges: []
 related:
@@ -27,7 +27,7 @@ gaps:
 
 # دينيس ويتلي
 
-محاضر وكاتب أمريكي، عمل مع رواد برنامج الفضاء الأمريكي (ناسا)، واشتهر بتطبيق أفكار **السيبرنتيكا النفسية** على **علم نفس الأداء** وعلم نفس الذروة (Peak Performance).
+محاضر وكاتب أمريكي (1933–2025)، تخرّج من الأكاديمية البحرية الأمريكية سنة 1955 وعمل طياراً مقاتلاً في البحرية، ثم عمل مع برنامج تدريب رواد الفضاء التابع لناسا على الإعداد الذهني لأطقم المكوك، واشتهر بتطبيق أفكار **السيبرنتيكا النفسية** على **علم نفس الأداء** وعلم نفس الذروة (Peak Performance). توفي في سان دييغو في 7 يونيو 2025 عن عمر 92 عاماً.
 
 ## ما أعطاه
 
@@ -44,3 +44,10 @@ gaps:
 - *The Psychology of Winning* (1979).
 - *Seeds of Greatness* (1983).
 - *The Joy of Working* (1985).
+
+## المصادر
+
+- Wikipedia, *Denis Waitley* — https://en.wikipedia.org/wiki/Denis_Waitley
+- Legacy.com, *Denis Waitley Obituary (1933–2025)* — https://www.legacy.com/us/obituaries/legacyremembers/denis-waitley-obituary?id=59207435
+- Robert B. Tucker, *'Psychology Of Winning' Pioneer Denis Waitley Dead At 92*, Forbes, 19 يونيو 2025 — https://www.forbes.com/sites/robertbtucker/2025/06/19/psychology-of-winning-pioneer-denis-waitley-dead-at-92/
+- Nightingale-Conant, *Denis Waitley* — https://www.nightingale.com/pages/denis-waitley

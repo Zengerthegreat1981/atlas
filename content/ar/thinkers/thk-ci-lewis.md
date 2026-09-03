@@ -21,7 +21,7 @@ related:
 - id: "sch-neopragmatism", title: "البراغماتية الجديدة", type: "مدرسة"
 - id: "con-pragmatic-encroachment", title: "التداخل البراغماتي في المعرفة (Pragmatic Encroachment)", type: "مفهوم"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
 gaps:
@@ -72,3 +72,9 @@ gaps:
 - *The Ground and Nature of the Right* (أرضية القيم وطبيعتها، 1955).
 - *Values and Imperatives* (القيم والأوامر، الستينيات من القرن العشرين، محرَّر من محاضرات).
 - *Collected Papers* (أوراقه المجمَّعة، السبعينيات من القرن العشرين، حرّرها J. D. Goheen وJ. L. Mothershead).
+
+## المصادر
+
+- "Clarence Irving Lewis", *Stanford Encyclopedia of Philosophy* (plato.stanford.edu/entries/lewis-ci/).
+- "C. I. Lewis", Wikipedia (en.wikipedia.org/wiki/C._I._Lewis).
+- Murray G. Murphey, *C. I. Lewis: The Last Great Pragmatist*, SUNY Press.

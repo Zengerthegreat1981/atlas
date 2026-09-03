@@ -24,7 +24,7 @@ related:
 - id: "dbt-psychotherapy-vs-pharmacotherapy-depression", title: "جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم", type: "جدل"
 - id: "dbt-rdoc-critique", title: "نموذج RDoC كبديل عن DSM: نقد", type: "جدل"
 - id: "crt-feminist-critique-cbt", title: "النقد النسوي للعلاج المعرفي-السلوكي: 'التشوهات المعرفية' بين الحياد والحيازة", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: تصدير بروتوكول فردي كعلاج عالمي", type: "نقد خارجي موثَّق"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
 - id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"
@@ -33,7 +33,7 @@ related:
 - id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
 - id: "evt-cbt-founding-1950s-60s", title: "تأسيس العلاج المعرفي السلوكي (CBT) في الخمسينيات والستينيات", type: "حدث تاريخي"
 gaps:
-  - "سنة الميلاد والوفاة الدقيقة (1921–2021) موثّقة، لكن لم تُراجع من مصدر أولي بعد."
+  - "تاريخا الميلاد والوفاة (18 يوليو 1921 – 1 نوفمبر 2021) وموقع الميلاد (بروفيدنس، رود آيلاند) روجعا عبر مصادر مستقلة (Wikipedia، Beck Institute، Psychiatrist.com) بتاريخ 2026-09-03."
   - "التفاصيل الكاملة لمساهماته في مجال القلق الاجتماعي واضطرابات الشخصية تستحق توثيقاً أعمق."
   - "لا يوجد اقتباس مباشر موثوق من *العلاج المعرفي للاكتئاب* (1979) بترجمة عربية معتمدة."
 ---
@@ -54,7 +54,14 @@ gaps:
 - الاكتئاب: جوانب إكلينيكية وتجريبية ونظرية (Depression: Clinical, Experimental, and Theoretical Aspects, 1967) — الكتاب التأسيسي، أُعيد إصداره عام 1972 بعنوان «Depression: Causes and Treatment».
 - العلاج المعرفي للاكتئاب (Cognitive Therapy of Depression, 1979) — مع راش وشو وإيمري.
 - اضطرابات القلق والرُّهاب: منظور معرفي (Anxiety Disorders and Phobias, 1985) — مع غاري إيمري.
-- العلاج المعرفي لاضطرابات الشخصية (Cognitive Therapy of Personality Disorders, 1990).
+- العلاج المعرفي لاضطرابات الشخصية (Cognitive Therapy of Personality Disorders, 1990) — مع آرثر فريمان وزملاء.
 
 ## القيد
 رغم اتساع إسهامه ليشمل اضطرابات الشخصية والقلق والذهان، يبقى عمله المؤسس مرتبطاً بالاكتئاب. ويُخلط أحياناً بين نموذجه وبين «العلاج البيني-الشخصي» (IPT) الذي طوّره جيرالد كليرمان وميرنا وايسمان، وهو مسار مستقل عن العلاج المعرفي.
+
+## المصادر
+
+- Aaron Beck — Wikipedia: https://en.wikipedia.org/wiki/Aaron_Beck
+- Beck Institute for Cognitive Behavior Therapy — About/History: https://beckinstitute.org/about/history-of-beck-institute/
+- In Memoriam: Aaron T. Beck, MD, 1921–2021, *The Journal of Clinical Psychiatry*: https://www.psychiatrist.com/jcp/in-memoriam-aaron-t-beck/
+- Beck, A. T., Freeman, A., & Associates (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press — تفاصيل النشر والمؤلفين: https://www.amazon.com/Cognitive-Therapy-Personality-Disorders-Aaron/dp/0898624347

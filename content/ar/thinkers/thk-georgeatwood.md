@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "br-intersubjective-psychoanalysis", target_type: "تيار"
 related:
 - id: "thk-lorange", title: "دونا أورانج", type: "مفكر"
-- id: "wrk-contexts-of-being", title: "سياقات الوجود: المعنى البين-ذاتي للتجربة", type: "عمل / كتاب"
+- id: "wrk-contexts-of-being", title: "سياقات الوجود: الأسس البين-ذاتية للحياة النفسية", type: "عمل / كتاب"
 - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 gaps:
@@ -45,3 +45,10 @@ gaps:
 ## أهم أعماله
 
 وجوه في سحابة (Faces in a Cloud, 1979، مع ستولورو) · بنى الذاتية (Structures of Subjectivity, 1984، مع ستولورو) · سياقات الوجود (Contexts of Being, 1992، مع ستولورو) · العمل من داخل: البين-ذاتية في العلاج (Working Intersubjectively, 1997، مع أورانج وستولورو) · هاوية الجنون (The Abyss of Madness, 2011).
+
+## المصادر
+
+- "George E. Atwood", Wikipedia: https://en.wikipedia.org/wiki/George_E._Atwood
+- "Robert Stolorow", Wikipedia: https://en.wikipedia.org/wiki/Robert_Stolorow
+- "Intersubjective psychoanalysis", Wikipedia: https://en.wikipedia.org/wiki/Intersubjective_psychoanalysis
+- "The Abyss of Madness", Routledge: https://www.routledge.com/The-Abyss-of-Madness/Atwood/p/book/9780415897105

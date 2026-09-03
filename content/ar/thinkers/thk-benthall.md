@@ -38,3 +38,9 @@ gaps:
 
 - "Scientology's winning streak", افتتاحية في *Anthropology Today* 30.1 (فبراير 2014).
 - فصول في كتب عن التكنولوجيا والروحانية.
+
+## المصادر
+
+- Jonathan Benthall، صفحته الرسمية في the Royal Anthropological Institute (therai.org.uk/about/honorary-staff/jonathan-benthall/).
+- صفحته في UCL Anthropology (ucl.ac.uk/anthropology/people/honorary-staff/jonathan-benthall).
+- Benthall, J. (2014) "Scientology's winning streak", *Anthropology Today* 30(1), Wiley Online Library (rai.onlinelibrary.wiley.com/doi/10.1111/1467-8322.12082).

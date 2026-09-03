@@ -42,3 +42,11 @@ gaps:
 ## أهم أعماله
 
 مجال الوعي (Théorie du champ de la conscience, 1957؛ بالإنجليزية The Field of Consciousness, 1964) · دراسات في الفينومينولوجيا وعلم النفس (Studies in Phenomenology and Psychology, 1966) · الفينومينولوجيا ونظرية العلم (Phenomenology and the Theory of Science، صدر بعد وفاته عام 1974).
+
+## المصادر
+
+- Aron Gurwitsch — Wikipedia: https://en.wikipedia.org/wiki/Aron_Gurwitsch
+- "Gurwitsch, Aron (1901–73)" — Routledge Encyclopedia of Philosophy: https://www.rep.routledge.com/articles/biographical/gurwitsch-aron-1901-73/v-1
+- "Gurwitsch, Aron (1901–1973)" — Encyclopedia.com: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/gurwitsch-aron-1901-1973
+- The Collected Works of Aron Gurwitsch (1901–1973), Vol. II: Studies in Phenomenology and Psychology — Springer: https://link.springer.com/book/10.1007/978-90-481-2942-3
+- على لقاءاته وتأثيره في مرلو-بونتي عبر محاضرات السوربون (1933–1934): "A Compilation of Bibliographical References on Aron Gurwitsch..." — Phenomenological Reviews: https://reviews.ophen.org/2024/06/26/a-compilation-of-bibliographical-references-on-aron-gurwitsch-for-the-50th-anniversary-of-his-passing-1973-2023/

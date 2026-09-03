@@ -6,7 +6,7 @@ level: "متقدم"
 title: "أرنولد غولدبرغ"
 en: "Arnold Goldberg"
 crumb: "مدرسة التحليل النفسي ← الناس ← أرنولد غولدبرغ"
-dates: "أمريكا · 1928–2020"
+dates: "أمريكا · 1929–2020"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «كتاب دراسات الحالة في علم نفس الذات» (1978)."
   - "كتاب 'دراسات حالة في علم نفس الذات' (1978) ونظرية الانقسام العمودي في الذات يستحقان توثيقاً."
+  - "تصحيح (تحقّق ويب 2026-09-03): تاريخ الميلاد الصحيح هو 21 مايو 1929 (لا 1928 كما ورد سابقاً)، والوفاة 24 سبتمبر 2020 عن عمر 91 عاماً؛ صُحِّح في الحقل `dates`."
 ---
 
 # أرنولد غولدبرغ
@@ -41,3 +42,11 @@ gaps:
 ## أهم أعماله
 
 سيكولوجية الذات: كتاب حالات (The Psychology of the Self: A Casebook, 1978، تحرير) · مشكلة الانحراف: من منظور علم نفس الذات (The Problem of Perversion, 1995) · التسلّل الأخلاقي: كيف يتسرّب «السلوك الصحيح» إلى الممارسة العلاجية (Moral Stealth, 2007).
+
+## المصادر
+
+- Arnold Goldberg — Wikipedia: https://en.wikipedia.org/wiki/Arnold_Goldberg
+- "Arnold Goldberg, 1929-2020" — Rush University Medical Center: https://www.rush.edu/news/arnold-goldberg-1929-2020
+- Arnold Goldberg Obituary (1929–2020), Chicago Tribune / Legacy.com: https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=arnold-i-goldberg&pid=196869091
+- "The Psychology of the Self: A Casebook" (New York: International Universities Press, 1978), Written with the Collaboration of Heinz Kohut, Edited by Arnold Goldberg — سجل PEP-Web: https://pep-web.org/search/document/MPSA.004.0114A
+- "Moral Stealth: How 'Correct Behavior' Insinuates Itself into Psychotherapeutic Practice" (University of Chicago Press, 2007) — https://press.uchicago.edu/ucp/books/book/chicago/M/bo4154685.html

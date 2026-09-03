@@ -6,11 +6,11 @@ level: "متوسط"
 title: "برنارد غيرني"
 en: "Bernard Guerney"
 crumb: "Filial Therapy (العلاج العلائقي الوالد-الطفل) ← المؤسس ← برنارد غيرني"
-dates: "الولايات المتحدة · 1926–2015"
+dates: "الولايات المتحدة · 1930–2019"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1964
-active_end: 2015
+active_end: 2019
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "tec-filial-therapy", target_type: "تقنية"
@@ -46,3 +46,11 @@ gaps:
 
 - *Filial Therapy: Description and Rationale* (1964).
 - *Filial Therapy: Strengthening Parent-Child Relationships Through Play* لريز فان فليت (Risë VanFleet, 1994)، العمل المرجعي اللاحق الذي بنى على منهج غيرني ووسّعه.
+
+## المصادر
+
+- "Bernard Guilbert Guerney Jr. (1930-2019)", PubMed/obituary notice: https://pubmed.ncbi.nlm.nih.gov/31697136/
+- "In Memoriam: Bernard G. Guerney, Jr.", National Council on Family Relations (NCFR): https://www.ncfr.org/news/memoriam-bernard-g-guerney-jr
+- "Bernard and Louise Guerney: Who they are and their contribution", GoodTherapy: https://www.goodtherapy.org/famous-psychologists/bernard-and-louise-guerney.html
+- "Bernard Guerney, 89, Giant of Psychotherapy", Fatherhood Channel (2019): https://fatherhoodchannel.com/2019/03/22/bernard-guerney-89-giant-of-psychotherapy/
+- National Institute of Relationship Enhancement (NIRE) — صفحة المؤسسين: https://nire.org/nires-staff/

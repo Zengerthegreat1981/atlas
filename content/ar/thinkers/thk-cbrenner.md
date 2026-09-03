@@ -23,7 +23,7 @@ gaps:
 
 # تشارلز برينر
 
-محلّل نفسي أمريكي، وأستاذ في Cornell Medical College، والرئيس الأسبق لـ American Psychoanalytic Association، وأحد أهمّ «المراجِعين» (Revisionists) في التحليل النفسي المعاصر.
+محلّل نفسي أمريكي، حصل على شهادتَي البكالوريوس والطب من جامعة هارفارد، وعمل لاحقاً في كلية الأطباء والجرّاحين بجامعة كولومبيا (Columbia University College of Physicians and Surgeons)، ومحلّلاً مُدرِّباً ومُشرِفاً في معهد نيويورك للتحليل النفسي (New York Psychoanalytic Institute). تولّى رئاسة جمعية نيويورك للتحليل النفسي (New York Psychoanalytic Society) ثم رئاسة الجمعية الأمريكية للتحليل النفسي (American Psychoanalytic Association)، وهو أحد أهمّ «المراجِعين» (Revisionists) في التحليل النفسي المعاصر.
 
 ## ما أعطاه
 
@@ -39,3 +39,9 @@ gaps:
 ## أهم أعماله
 
 «كتاب أوّلي في التحليل النفسي» (An Elementary Textbook of Psychoanalysis, 1955) · «العقل في الصراع» (The Mind in Conflict, 1982).
+
+## المصادر
+
+- Charles Brenner (psychiatrist), Wikipedia — https://en.wikipedia.org/wiki/Charles_Brenner_(psychiatrist)
+- Benedict Carey, "Charles Brenner, Psychoanalyst, Dies at 94", The New York Times, May 22, 2008.
+- "Charles Brenner (1913–2008)", PsycNET/American Psychologist obituary — https://psycnet.apa.org/record/2008-15380-001

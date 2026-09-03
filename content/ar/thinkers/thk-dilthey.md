@@ -46,3 +46,10 @@ gaps:
 ## أهم أعماله
 
 مقدمة إلى العلوم الإنسانية (Einleitung in die Geisteswissenschaften, 1883) · بناء العالم التاريخي في العلوم الإنسانية (Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften, 1910).
+
+## المصادر
+
+- Wikipedia: [Wilhelm Dilthey](https://en.wikipedia.org/wiki/Wilhelm_Dilthey)
+- Encyclopedia.com: [Wilhelm Dilthey](https://www.encyclopedia.com/people/philosophy-and-religion/philosophy-biographies/wilhelm-dilthey)
+- Internet Archive: [Einleitung in die Geisteswissenschaften (1883)](https://archive.org/details/einleitungindieg00dilt)
+- Jaspers, K. (1913), *Allgemeine Psychopathologie* — استعارة تمييز Verstehen/Erklären من دلتاي.
