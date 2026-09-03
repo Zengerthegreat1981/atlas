@@ -47,3 +47,10 @@ gaps:
 
 - *De Planetarum Influxu in Corpus Humanum* (1766) — أطروحة دكتوراه.
 - *Mémoire sur la découverte du magnétisme animal* (1779).
+
+## المصادر
+
+- Franz Mesmer — Wikipedia: https://en.wikipedia.org/wiki/Franz_Mesmer
+- Wood Library-Museum of Anesthesiology, "Mesmer FA. Dissertatio physico-medica de planetarum influxu, 1766": https://www.woodlibrarymuseum.org/rare-book/mesmer-fa-dissertatio-physico-medica-de-planetarum-influxu-1766/
+- Stanford University, "Franz Anton Mesmer (1734-1815)," The Super-Enlightenment exhibit: https://exhibits.stanford.edu/super-e/feature/franz-anton-mesmer-1734-1815
+- "Mesmerism," PMC (NCBI): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9235642/

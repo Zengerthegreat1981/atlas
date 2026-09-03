@@ -19,8 +19,9 @@ related:
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "wrk-zollikon", title: "ندوات تسوليكون", type: "عمل / كتاب"
 gaps:
-  - "لا يوجد اقتباس مباشر من *Psychoanalyse und Daseinsanalytik* (1963) بترجمة عربية معتمدة."
-  - "أعماله الشاملة في التحليل الوجودي المنشورة بالألمانية والإنجليزية لم تُترجم للعربية بعد."
+  - "أعماله الشاملة في التحليل الوجودي المنشورة بالألمانية والإنجليزية لم تُترجم للعربية بعد؛ لا يوجد اقتباس مباشر منها بترجمة عربية معتمدة."
+  - "كان الملف ينسب كتاب *Psychoanalyse und Daseinsanalytik* (طبعة ألمانية 1957، ترجمة إنجليزية 1963) إلى كوندراو؛ هذا خطأ — الكتاب لميدارد بوس نفسه. صُحِّح أدناه بإدراج عناوين كوندراو الفعلية."
+  - "تاريخ 1990 (بدل 1998) هو الأدق لتسلّم كوندراو قيادة التيار عملياً بعد وفاة بوس؛ active_end=1998 غير موثّق بدقة ويحتاج تثبيتاً إضافياً."
 ---
 
 # غيون كوندراو
@@ -29,7 +30,7 @@ gaps:
 
 ## ما أعطاه
 
-قام بمأسسة وتطوير التحليل الوجودي الدازايني عالمياً، ونقل المبادئ الهايدجرية الإكلينيكية التي وضعها ميدارد بوس إلى برامج تدريب ومعايير علاجية دولية. ألّف مراجع شاملة في علم النفس المرضي الوجودي والعلاج النفسي الدازايني.
+قام بمأسسة وتطوير التحليل الوجودي الدازايني عالمياً: شارك بوس عام 1970 في تأسيس الجمعية السويسرية للتحليل الوجودي، وأسّس معه عام 1971 "المعهد الدازايني للعلاج النفسي والطب النفسي الجسدي" في زيورخ وترأّسه، ثم أسّس عام 1990 الاتحاد الدولي للتحليل الوجودي (IFDA) وترأّسه. حضر ندوات تسوليكون التي عقدها هايدجر بين 1959 و1969، ونقل المبادئ الهايدجرية الإكلينيكية التي وضعها بوس إلى برامج تدريب ومعايير علاجية دولية، وطوّر نظرية دازاينية في العصاب والأمراض النفسجسدية.
 
 ## موقعه من التيار
 
@@ -40,4 +41,12 @@ gaps:
 
 ## أهم أعماله
 
-التحليل الوجودي: علم النفس المرضي والعلاج النفسي (Daseinsanalysis, 1998) · التحليل النفسي والتحليل الوجودي (Psychoanalyse und Daseinsanalytik, 1963) · مارتن هايدجر في التحليل النفسي والطب النفسي (Martin Heidegger's Impact on Psychotherapy, 1992).
+سيغموند فرويد ومارتن هايدجر: نظرية العصاب والعلاج النفسي الدازايني (Sigmund Freud und Martin Heidegger: Daseinsanalytische Neurosenlehre und Psychotherapie, 1992) · من التحليل النفسي إلى التحليل الوجودي: أثر مارتن هايدجر في العلاج النفسي (From Psychoanalysis to Daseinsanalysis: Martin Heidegger's Impact on Psychotherapy, 1998) · التحليل الوجودي: الأسس الفلسفية-الأنثروبولوجية (Daseinsanalyse: Philosophisch-anthropologische Grundlagen, 1989/1992).
+
+## المصادر
+
+- Anthony Stadlen, "Gion Condrau (1919–2006): His Life and Work", Inner Circle Seminar 156 (2010) — anthonystadlen.blogspot.com
+- Anthony Stadlen, "Gion Condrau. Obituary" (2007) — anthonystadlen.blogspot.com
+- International Federation of Daseinsanalysis (IFDA), صفحة "What about" و"Gion Condrau" — i-f-da.org, ifdasblog.wordpress.com
+- German Wikipedia, "Gion Condrau" — de.wikipedia.org/wiki/Gion_Condrau
+- PEP-Web، مراجعة *From Psychoanalysis to Daseinsanalysis* (Vienna: Edition Mosaic, 1998)

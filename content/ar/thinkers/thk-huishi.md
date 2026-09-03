@@ -50,6 +50,13 @@ gaps:
 
 - تذكر المصادر القديمة أن كتبه «ملأت خمس عربات» — وضاعت كلّها؛ ولم يبقَ إلا ما نقله عنه *تشوانغ تسو* و*شون تسو* و*هان في تسو*.
 
+## المصادر
+
+- "Hui Shi," Stanford Encyclopedia of Philosophy — School of Names entry: https://plato.stanford.edu/entries/school-names/life-hui-shi.html
+- "Hui Shi," Wikipedia: https://en.wikipedia.org/wiki/Hui_Shi
+- "Hui Shi," Encyclopaedia Britannica: https://www.britannica.com/biography/Hui-Shi
+- "Hui Shi (c. 390–317 BCE)," Encyclopedia of Chinese Philosophy, Springer: https://link.springer.com/rwe/10.1007/978-981-99-5009-6_10071
+
 ## اقتراحات ربط (ملاحظة تحريرية)
 
 - **غونغسون لونغ** (مفكر) — قطب «مدرسة الأسماء» الآخر.

@@ -20,15 +20,16 @@ related:
 - id: "thk-sschoenwald", title: "سونيا ك. شونوالد", type: "مفكر"
 - id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
 gaps:
-  - "سنة الميلاد تم تقديرها تقريبياً من سياقات السيرة، يرجى التحقق من مصدر أولي."
+  - "سنة الميلاد (1947) لم تُتحقّق من مصدر أولي مباشر؛ لم يُعثر عليها في الصفحات المؤسسية أو الأكاديمية المتاحة."
   - "لم يُعثر على اقتباس منسوب لغليسون نفسه بمصدر وسنة محدَّدين يمكن توثيقه به."
   - "الرابط السابق لـ`thk-pfisher` (بيتر فيشر) أُزيل — لا سبب موثّق في المتن يربطه بغليسون أو بـMST تحديداً."
   - "edges.belongs_to كان يشير سابقاً إلى نص حر «العلاج متعدد الأنظمة (MST)» بدل الـslug الفعلي — صُحّح إلى `br-mst`."
+  - "الوصف الأصلي كان يصفه بـ«عالم نفس اجتماعي»؛ صُحّح إلى باحث في الخدمة الاجتماعية والعلوم التنظيمية (PhD من جامعة واشنطن في سانت لويس)، وهو أدق لتخصصه الفعلي وانتمائه المؤسسي (كلية الخدمة الاجتماعية، جامعة تينيسي)."
 ---
 
 # تشارلز غليسون
 
-عالم نفس اجتماعي أمريكي متخصص في الخدمات الاجتماعية والصحة النفسية المجتمعية، أستاذ في **جامعة تينيسي**. اشتهر أساساً بأبحاثه على **الثقافة والمناخ التنظيمي** في مؤسسات رعاية الأطفال، وطوّر بنفسه استراتيجية تدخّل تنظيمي مستقلة تُعرف باسم **ARC** (Availability–Responsiveness–Continuity: التوفّر والاستجابة والاستمرارية)، وشارك في أبحاث تقييم تُعنى بربط هذا النموذج التنظيمي بتطبيق **العلاج المتعدد الأنظمة** (MST) في بيئات فقيرة وريفية.
+باحث أمريكي في الخدمة الاجتماعية والعلوم التنظيمية، أستاذ متميّز فخري (Distinguished University Professor Emeritus) في **جامعة تينيسي بنوكسفيل**، ومؤسِّس ومدير سابق لمركز أبحاث خدمات الصحة النفسية للأطفال فيها (تأسّس 1988). اشتهر أساساً بأبحاثه على **الثقافة والمناخ التنظيمي** في مؤسسات رعاية الأطفال، وطوّر بنفسه استراتيجية تدخّل تنظيمي مستقلة تُعرف باسم **ARC** (Availability–Responsiveness–Continuity: التوفّر والاستجابة والاستمرارية)، وشارك في أبحاث تقييم تُعنى بربط هذا النموذج التنظيمي بتطبيق **العلاج المتعدد الأنظمة** (MST) في بيئات فقيرة وريفية.
 
 ## ما أعطاه
 
@@ -44,3 +45,10 @@ gaps:
 
 - أبحاث منشورة في *Journal of Child and Family Studies* و*Administration and Policy in Mental Health*.
 - أبحاث تجريبية على نموذج ARC في أنظمة رعاية الأطفال والصحة النفسية المجتمعية.
+
+## المصادر
+
+- American Academy of Social Work and Social Welfare — Charles Glisson, PhD, Emeritus (Fellow profile): https://aaswsw.org/fellows/detail/charles-glisson-phd-emeritus/
+- University of Tennessee, College of Social Work — About the College: https://csw.utk.edu/about-the-college/about-the-college-2
+- PubMed — "The ARC Organizational and Community Intervention Strategy for Implementing Evidence-Based Children's Mental Health Treatments": https://pubmed.ncbi.nlm.nih.gov/16320107/
+- William T. Grant Foundation — Charles Glisson (profile): https://wtgrantfoundation.org/people/glisson-charles

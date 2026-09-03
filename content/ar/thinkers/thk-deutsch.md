@@ -41,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 نفسية المرأة (The Psychology of Women, 1944–1945) · مواجهات مع نفسي (Confrontations with Myself, 1973 — سيرة ذاتية).
+
+## المصادر
+
+- Helene Deutsch, Wikipedia: https://en.wikipedia.org/wiki/Helene_Deutsch
+- Jewish Women's Archive, "Helene Deutsch": https://jwa.org/encyclopedia/article/deutsch-helene
+- Boston Psychoanalytic Society & Institute, "Deutsch, Helene (1884-1982)": https://bpsi.org/library/archives/collections/deutsch-helene-1884-1982/

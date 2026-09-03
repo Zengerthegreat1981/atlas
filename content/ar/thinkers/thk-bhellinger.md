@@ -19,6 +19,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Ordnungen der Liebe* (1994) بترجمة عربية معتمدة."
   - "رابط 'مارغريت بِي' (thk-jjoyce) أُزيل نهائياً من هذا الملف — الشخصية محجورة في quarantine-spark.md بوصفها غير موثقة وslug-ها مخصص أصلاً لجيمس جويس."
+  - "العنوان الكامل لكتاب *Die Mitte fühlt sich leicht an* كان ناقص كلمة 'an'؛ صُحِّح. سنة الطبعة الأولى غير مؤكَّدة بدقة (الطبعات الموثّقة المتاحة من 1996–1999)؛ أُبقي التاريخ عاماً (\"منتصف التسعينيات\") بدل تثبيت 1995."
 ---
 
 # بيرت هلنغر
@@ -42,6 +43,14 @@ gaps:
 
 ## أهم أعماله
 
-- *Die Mitte fühlt sich leicht* (1995).
-- *Ordnungen der Liebe* (1994).
-- *Love's Hidden Symmetry* (1998، إنجليزي).
+- *Ordnungen der Liebe* (Carl-Auer-Systeme, 1994).
+- *Die Mitte fühlt sich leicht an* (منتصف التسعينيات، كوسيل).
+- *Love's Hidden Symmetry* (1998، إنجليزي، بالاشتراك مع Gunthard Weber وHunter Beaumont).
+
+## المصادر
+
+- Simple English Wikipedia, "Bert Hellinger" — simple.wikipedia.org/wiki/Bert_Hellinger
+- Wikipedia (EN), "Family Constellations" — en.wikipedia.org/wiki/Family_Constellations
+- hellinger.com، الصفحة الرسمية لأرشيف بيرت هلنغر — "Family Constellation"، "Literatur"
+- The CSC, "Bert Hellinger & Hunter Beaumont: Transgenerational Dynamics & Mental Illness" — thecsc.net
+- موقع ياكوب روبرت شنايدر الشخصي — j-r-schneider.de

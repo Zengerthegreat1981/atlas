@@ -42,4 +42,10 @@ gaps:
 
 ## أهم أعمالها
 
-الذات وعالم الموضوع (The Self and the Object World, 1964) · الاكتئاب: دراسات مقارنة في الحالات العصابية والذهانية (Depression, 1971).
+الذات وعالم الموضوع (The Self and the Object World, 1964) · الاكتئاب: دراسات مقارنة في الحالات العصابية والذهانية (Depression: Comparative Studies of Normal, Neurotic, and Psychotic Conditions, 1971).
+
+## المصادر
+
+- Edith Jacobson — Wikipedia: https://en.wikipedia.org/wiki/Edith_Jacobson
+- Edith Jacobson Papers, Library of Congress: https://findingaids.loc.gov/repositories/19/resources/3093
+- "The Black Notebook. Edith Jacobson's prison notes 1935/1936", *International Journal of Psychoanalysis*, vol. 102, no. 6 (2021): https://pubmed.ncbi.nlm.nih.gov/34187321/

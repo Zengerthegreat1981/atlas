@@ -21,11 +21,12 @@ gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Family Psychoeducation Workbook* (2003) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا كاولي (thk-jcawley)."
+  - "الملف كان ينسب ميوزر إلى جامعة Rutgers، وهو خطأ: مسيرته الأكاديمية الأساسية في Dartmouth (لعقود، وما زال أستاذاً مساعداً فيها) ثم منذ 2011 في جامعة Boston University حيث يشغل حالياً منصب المدير التنفيذي لمركز إعادة التأهيل النفسي (Center for Psychiatric Rehabilitation)."
 ---
 
 # كيم ميوزر
 
-عالم نفس أمريكي، أستاذ في جامعة Rutgers، من أهم الباحثين في التثقيف النفسي لأسر الأشخاص ذوي الاضطرابات النفسية الشديدة.
+عالم نفس أمريكي (بكالوريوس من جامعة كولومبيا 1978، ماجستير ودكتوراه من جامعة إلينوي 1981/1984)، أستاذ في جامعة Boston University ومدير تنفيذي لمركز إعادة التأهيل النفسي فيها، وأستاذ مساعد في الطب النفسي بكلية Geisel الطبية في Dartmouth حيث أمضى جزءاً كبيراً من مسيرته البحثية السابقة. من أهم الباحثين في التثقيف النفسي لأسر الأشخاص ذوي الاضطرابات النفسية الشديدة.
 
 ## ما أعطاه
 
@@ -41,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 - *Family Psychoeducation Workbook* (مساهم، 2003).
+
+## المصادر
+
+- Boston University Center for Psychiatric Rehabilitation, "Kim T. Mueser, Ph.D." — https://cpr.bu.edu/bio/kim-t-mueser-ph-d/
+- Geisel School of Medicine at Dartmouth, Faculty Expertise Database — https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=1400
+- Guilford Press, صفحة المؤلف Kim T. Mueser — https://www.guilford.com/author/Kim-T-Mueser

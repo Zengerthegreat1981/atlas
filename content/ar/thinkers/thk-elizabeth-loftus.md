@@ -15,8 +15,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-eyewitness-testimony", title: "شهادة شهود العيان", type: "عمل / كتاب"
-- id: "con-misinformation-effect-loftus", title: "تأثير التضليل والذاكرة الزائفة", type: "مفهوم"
+- id: "wrk-eyewitness-testimony", title: "شهادة شهود العيان وسيكولوجيا الذاكرة الزائفة", type: "عمل / كتاب"
+- id: "con-misinformation-effect-loftus", title: "تأثير التضليل وقابلية الذاكرة للتعديل (Misinformation Effect)", type: "مفهوم"
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
 - id: "stu-bartlett-war-of-ghosts", title: "تجارب بارتليت حول تذكر قصة 'حرب الأشباح' والذاكرة التخطيطية", type: "دراسة وبحث"
 gaps:
@@ -38,6 +38,12 @@ gaps:
 
 ## أهم أعمالها
 
-- *Eyewitness Testimony* (1979) — الفائز بجائزة الجمعية الأمريكية لعلم النفس للكتاب.
-- *The Myth of Repressed Memory* (1994، مع كاثرين كيتشام).
+- *Eyewitness Testimony* (1979) — الفائز بـ«جائزة الإعلام الوطنية» (National Media Award) من المؤسسة الأمريكية لعلم النفس (American Psychological Foundation).
 - *Witness for the Defense* (1991، مع كاثرين كيتشام).
+- *The Myth of Repressed Memory* (1994، مع كاثرين كيتشام).
+
+## المصادر
+
+- Elizabeth Loftus — Wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Loftus
+- Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction. *Journal of Verbal Learning and Verbal Behavior*.
+- Loftus, E. F., & Pickrell, J. E. (1995). The formation of false memories. *Psychiatric Annals* ("Lost in the Mall").

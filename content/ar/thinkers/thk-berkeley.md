@@ -53,3 +53,8 @@ gaps:
 - **Three Dialogues between Hylas and Philonous** (1713): ثلاثة حوارات.
 - **Alciphron** (1732): ضد المفكرين الأحرار (Free Thinkers).
 - **Siris** (1744): أطروحة في «ماء القطران» (tar-water) وفي «سلسلة الكائنات» (Chain of Being).
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "George Berkeley": https://plato.stanford.edu/entries/berkeley/
+- Internet Encyclopedia of Philosophy, "George Berkeley": https://iep.utm.edu/george-berkeley-british-empiricist/

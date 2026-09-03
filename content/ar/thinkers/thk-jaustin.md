@@ -24,7 +24,7 @@ gaps:
 
 # جون لانغشو أوستن
 
-فيلسوف لغة بريطاني من أكسفورد، مؤسّس فرع «فلسفة اللغة العادية» مع فيتغنشتاين المتأخر. عُيّن أستاذ كرسي «White's Professor of Moral Philosophy» في أكسفورد عام 1953.
+فيلسوف لغة بريطاني من أكسفورد، مؤسّس فرع «فلسفة اللغة العادية» مع فيتغنشتاين المتأخر. عُيّن أستاذ كرسي «White's Professor of Moral Philosophy» في أكسفورد عام 1952.
 
 ## ما أعطاه
 
@@ -42,3 +42,9 @@ gaps:
 ## الأثر
 
 أسّس تقليد «فلسفة اللغة العادية» في أكسفورد، ومنه خرج جون سيرل الذي نظّم أفعال الكلام في نسق، وهربرت پول غرايس صاحب «قواعد التخاطب»، وامتدّ أثره إلى روبرت براندوم في الفلسفة المعاصرة — كما تجاوز الفلسفة إلى النظرية النقدية عبر قراءة جوديث بتلر لـ«الأداء» (Performativity).
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "John Langshaw Austin" — https://plato.stanford.edu/entries/austin-jl/
+- "Sekyra and White's Professorship of Moral Philosophy", Wikipedia — https://en.wikipedia.org/wiki/White%27s_Professor_of_Moral_Philosophy
+- Internet Encyclopedia of Philosophy, "Austin, John Langshaw" — https://iep.utm.edu/john-austin/

@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "thk-mkwee", title: "ميشيل كوي", type: "مفكر"
-- id: "thk-dogen", title: "دوغيِن", type: "مفكر"
+- id: "thk-dogen", title: "دوغن زينجي", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الزن (Zen) (con-zen)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأخلاق البوذية (con-ethics-buddhist)"

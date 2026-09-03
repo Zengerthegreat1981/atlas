@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-brian-victoria", title: "براين فيكتوريا (Brian Victoria)", type: "مفكر"
 - id: "br-zen-soto-classical", title: "زن سوتو الكلاسيكي — البوذية اليابانية", type: "تيار"
-- id: "sch-zen-soto", title: "زن سوتو", type: "مدرسة"
+- id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
 gaps:
   - "فلسفة الزمان والوجود (Uji) في كتاب الشوبوجينزو ومفهوم شيكانتازا (فقط الجلوس)."
@@ -50,3 +50,10 @@ gaps:
 ## اقتباسات مختارة
 
 «أن تدرس طريق بوذا هو أن تدرس نفسك؛ وأن تدرس نفسك هو أن تنسى نفسك.» (شوبوجينزو، غينجوكوان)
+
+## المصادر
+
+- Lion's Roar — "Who Was Eihei Dogen?": https://www.lionsroar.com/buddhism/dogen/
+- SotoZen.com — "Shakyamuni Buddha & Two Founders: Dogen Zenji": https://www.sotozen.com/eng/about/Buddha_founders/dogen_zenji.html
+- LearnReligions — "A Brief Biography of Eihei Dogen, the Founder of Japanese Soto Zen": https://www.learnreligions.com/eihei-dogen-450198
+- Wikipedia — "Dōgen": https://en.wikipedia.org/wiki/D%C5%8Dgen

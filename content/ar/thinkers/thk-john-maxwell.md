@@ -49,3 +49,8 @@ gaps:
 ## اقتباسات مختارة
 
 لا يوجد اقتباس مباشر موثّق في هذا الملف.
+
+## المصادر
+
+- John C. Maxwell, Wikipedia — https://en.wikipedia.org/wiki/John_C._Maxwell
+- Encyclopedia.com, "Maxwell, John C." — https://www.encyclopedia.com/arts/culture-magazines/maxwell-john-c

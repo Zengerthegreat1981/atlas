@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-feminist-therapy", target_type: "تيار"
 related:
-- id: "thk-gilligan", title: "كارول جيليجان", type: "مفكر"
+- id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
 - id: "thk-mpbargreen", title: "ماري بيندر غرين", type: "مفكر"
 - id: "thk-sbem", title: "ساندرا بيم", type: "مفكر"
 gaps:
@@ -45,3 +45,11 @@ gaps:
 - *Toward a New Psychology of Women* (1976).
 - *Women's Growth in Connection* (1991، مع جوردان وكابلان وستيفر وسُرِي).
 - *The Healing Connection* (1997، مع إيرين ستيفر).
+
+## المصادر
+
+- Wellesley Centers for Women, "Jean Baker Miller, M.D.": https://www.wcwonline.org/Inactive-Researchers/jean-baker-miller-md
+- Wellesley Centers for Women, "Jean Baker Miller, noted feminist, psychoanalyst, social activist; 1927-2006": https://www.wcwonline.org/2006/14
+- Harvard Square Library, biography of Jean Baker Miller: https://www.harvardsquarelibrary.org/biographies/jean-baker-miller/
+- Wikipedia — Jean Baker Miller: https://en.wikipedia.org/wiki/Jean_Baker_Miller
+- Wellesley Centers for Women, "The Development of Relational-Cultural Theory": https://www.wcwonline.org/JBMTI-Site/the-development-of-relational-cultural-theory

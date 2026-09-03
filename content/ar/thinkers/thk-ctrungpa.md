@@ -26,11 +26,12 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر من *Cutting Through Spiritual Materialism* (1973) بترجمة عربية معتمدة."
   - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "الجدل حول سلوكه الشخصي (إدمان الكحول، علاقات جنسية مع طلاب/طالبات، واتهامات بالعنف) موثَّق في مصادر مستقلة متعددة (منها مذكرات زوجته ديانا موكبو)، لكن جامعة نارُوبا نفسها أفادت بأن الادعاءات لم تخضع لتحقيق قانوني رسمي؛ يُذكر هذا هنا للتوازن الأكاديمي لا كحكم قطعي."
 ---
 
 # تشوغيام ترونغبا
 
-لاما بوذي تبتي، مؤسس جامعة ناروبا (Naropa University) عام 1974، أول جامعة بوذية في أمريكا الشمالية. يُعدّ من أهم من نقل البوذية التبتيّة إلى العالم الغربي بأسلوب صادم وغير تقليدي.
+لاما بوذي تبتي (5 مارس 1939 – 4 أبريل 1987)، الحادي عشر في سلسلة تولكو (المعلمين المتجسدين) "ترونغبا تولكو" ضمن مدرستي الكاغيو والنينغما للبوذية التبتية. غادر التبت عام 1959 إثر الغزو الصيني، واستقرّ لاحقاً في بريطانيا ثم الولايات المتحدة، حيث أسّس منظمة "فاجرادهاتو" (لاحقاً "شامبَهلا الدولية") عام 1973، وجامعة ناروبا (Naropa Institute، لاحقاً Naropa University) عام 1974 في بولدر بكولورادو -من أوائل الجامعات التي تدمج الدراسات التأملية البوذية بالتعليم الأكاديمي الغربي. يُعدّ من أهم من نقل البوذية التبتيّة إلى العالم الغربي بأسلوب صادم وغير تقليدي، وهو أيضاً شخصية مثيرة للجدل: وثّقت مصادر عدة اتهامات بإدمان الكحول وإقامة علاقات جنسية مع طلابه (بينهم زوجته ديانا موكبو، التي تزوّجها عام 1970 وهي في السادسة عشرة من عمرها) وحوادث عنف، وهو جانب من سيرته يُذكر هنا لضرورة التوازن الأكاديمي لا للحكم عليه.
 
 ## ما أعطاه
 
@@ -49,3 +50,11 @@ gaps:
 - *Cutting Through Spiritual Materialism* (1973).
 - *Shambhala: The Sacred Path of the Warrior* (1984).
 - *The Myth of Freedom* (1976).
+
+## المصادر
+
+- Encyclopaedia Britannica. "Chögyam Trungpa". https://www.britannica.com/biography/Chogyam-Trungpa
+- Shambhala Publications. "Biography — Chögyam Trungpa". https://www.shambhala.com/learn-more/chogyam-trungpa/biography/
+- Naropa University. "Chögyam Trungpa: Then and Now". https://www.naropa.edu/then-and-now/chogyam-trungpa/
+- Mukpo, D. J., & Gimian, C. (2006). *Dragon Thunder: My Life with Chögyam Trungpa*. Shambhala Publications.
+- تغطية صحفية حول جدل ناروبا: "As 50-year anniversary nears, students grapple with Naropa's past" (Yahoo News/AP).

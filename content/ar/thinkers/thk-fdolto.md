@@ -30,7 +30,7 @@ gaps:
 
 ## ما أعطته
 
-- **التحليل النفسي والتربية** (Psychanalyse et Pédagogie، 1971): جعلت الرغبة (Désir) عند الطفل محور التربية، لا التكيّف.
+- **التحليل النفسي وطب الأطفال** (Psychanalyse et pédiatrie، أطروحتها للدكتوراه 1939، نُشرت 1971): جعلت الرغبة (Désir) عند الطفل محور التربية، لا التكيّف.
 - **صورة الجسد اللاواعية** (L'image inconsciente du corps، 1984): الجسد واقع رمزي يُبنى في اللاوعي منذ الأشهر الأولى من العمر.
 - **حالة دومينيك** (Le Cas Dominique، 1971): نشرها الكامل لعلاج مراهق ذُهانيّ، ومن أشهر النصوص السريرية في تحليل الأطفال بالفرنسية.
 - **«البيت الأخضر»** (La Maison Verte، 1979): مكان مفتوح يأتي إليه الأهل بأطفالهم دون موعد ولا ملفّ ولا تشخيص، لتيسير انفصال الطفل الأول عن الأم في وسط ثالث. أكثر إرثها ملموسيةً، وتكرّر النموذج في عشرات المدن.
@@ -45,4 +45,12 @@ gaps:
 
 ## أهم أعمالها
 
-التحليل النفسي والتربية (Psychanalyse et pédagogie، 1971) · حالة دومينيك (Le Cas Dominique، 1971) · صورة الجسد اللاواعية (L'image inconsciente du corps، 1984) · قضية الأطفال (La cause des enfants، 1985) · المراحل الكبرى للطفولة (Les étapes majeures de l'enfance، صدر بعد وفاتها عام 1994).
+التحليل النفسي وطب الأطفال (Psychanalyse et pédiatrie، أطروحة 1939، نُشرت 1971) · حالة دومينيك (Le Cas Dominique، 1971) · صورة الجسد اللاواعية (L'image inconsciente du corps، 1984) · قضية الأطفال (La cause des enfants، 1985) · المراحل الكبرى للطفولة (Les étapes majeures de l'enfance، صدر بعد وفاتها عام 1994).
+
+## المصادر
+
+- Encyclopédie Universalis, "Françoise Dolto (1908-1988): Psychanalyste des enfants" — universalis.fr
+- "Françoise Dolto et l'image inconsciente du corps" — شهير.2 "Psychanalyse et pédiatrie (1939)" — shs.cairn.info
+- Wikipédia (FR), "Psychanalyse et pédiatrie" — fr.wikipedia.org/wiki/Psychanalyse_et_pédiatrie
+- Persée، مراجعة *Psychanalyse et Pédiatrie* و*Le cas Dominique* (Seuil، 1971) — persee.fr
+- Wikipédia (FR), "Image inconsciente du corps" — fr.wikipedia.org/wiki/Image_inconsciente_du_corps

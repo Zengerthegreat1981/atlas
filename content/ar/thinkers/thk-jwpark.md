@@ -29,3 +29,9 @@ gaps:
 ## القيد
 
 هذا المدخل بكامله مشكوك في وجود صاحبه. لا تُنسب إليه أعمال ولا صلات حتى يُتحقق من هويته من مصدر أوّلي مستقل، أو يُقرَّر تحريرياً حذفه أو استبداله بمدخل عن **بو-يونغ لي** — الشخصية الموثَّقة فعلياً في هذا الموقع.
+
+## المصادر
+
+- IAAP, "Korea: KAJA" (سجل الجمعية الكورية للمحللين اليونغيين): https://iaap.org/group-members-societies/korea-kaja/
+- "Jung Across Cultural Borders" — سيرة بو-يونغ لي: https://www.tip.org.tw/tw-jung/speakerbiography.html
+- Cairn.info, "C. G. Jung et l'étude de la psychologie analytique en Corée du sud": https://cairn.info/revue-cahiers-jungiens-de-psychanalyse-2017-2-page-177.htm

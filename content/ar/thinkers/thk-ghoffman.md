@@ -25,7 +25,7 @@ gaps:
 
 # كِنت هوفمان
 
-معالج نفسي أمريكي، أحد المؤسسين الثلاثة لـ**دائرة الأمان** (Circle of Security / COS) إلى جانب غلين كوبر وبيرت باول، وبالتعاون مع الباحث روبرت مارفن. نشأ النموذج من عملهم مع أمّهات في سجن ومع أسر شديدة الهشاشة في سبوكان بواشنطن، لا من مختبر جامعي.
+معالج نفسي أمريكي، أحد المؤسسين الثلاثة لـ**دائرة الأمان** (Circle of Security / COS) إلى جانب غلين كوبر وبيرت باول، وبالتعاون مع الباحث روبرت مارفن. حصل على الدكتوراه عام 1975 من Claremont Graduate School of Theology، حول تقاطع الأزمة النفسية بصراعات العلاقة الشخصية، وهو معالج نفسي منذ 1972. عمل بعد تخرّجه مع مرضى نفسيين في السجن، ومرضى في المراحل الأخيرة من السرطان، وناجين من الاعتداء الجنسي، ومشرّدين في شوارع لوس أنجلوس. منذ 1985 وهو في عيادة خاصة في معهد Marycliff بمدينة سبوكان بواشنطن — حيث نشأ نموذج COS من عمله مع أمّهات في سجن ومع أسر شديدة الهشاشة، لا من مختبر جامعي — وحصل عام 1991 على شهادة في العلاج النفسي التحليلي من معهد Masterson في نيويورك. يُدرّس أيضاً علم النفس في جامعة Gonzaga.
 
 ## ما أعطاه
 
@@ -44,3 +44,9 @@ gaps:
 
 - *Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore* (2017، مع غلين كوبر وبيرت باول).
 - *The Circle of Security Intervention: Enhancing Attachment in Early Parent–Child Relationships* (2013، مع باول وكوبر ومارفن).
+
+## المصادر
+
+- Circle of Security International, "The Co-originators" — https://www.circleofsecurityinternational.com/pages/the-co-originators
+- LinkedIn, Kent Hoffman (Co-Founder, Circle of Security International) — https://www.linkedin.com/in/kent-hoffman-b328267/
+- Guilford Press, صفحة *Raising a Secure Child* — https://www.guilford.com/books/Raising-a-Secure-Child/Hoffman-Cooper-Powell/9781462527632/authors

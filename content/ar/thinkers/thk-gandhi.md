@@ -15,7 +15,7 @@ active_end: 1948
 edges:
 - rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
 related:
-- id: "exp-gandhi-pietermaritzburg-train-ejection", title: "طرد غاندي من قطار جنوب أفريقيا وميلاد فلسفة الساتياغراها", type: "خبرة معيشة"
+- id: "exp-gandhi-pietermaritzburg-train-ejection", title: "طرد غاندي من قطار بيترماريتزبرغ (1893) وميلاد فلسفة الساتياغراها", type: "خبرة معيشة"
 - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
 - id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"
@@ -53,3 +53,9 @@ gaps:
 - *Young India* (مجلة أسبوعية، 1919–1932).
 - *The Story of My Experiments with Truth* (سيرة ذاتية، 1927–1929).
 - *Harijan* (مجلة، 1933–1948).
+
+## المصادر
+
+- Poona Pact, Wikipedia — https://en.wikipedia.org/wiki/Poona_Pact
+- Constitution of India Net, "Poona Pact 1932 (B.R. Ambedkar and M.K. Gandhi)" — https://www.constitutionofindia.net/historical-constitution/poona-pact-1932-b-r-ambedkar-and-m-k-gandhi/
+- Mahatma Gandhi, *Hind Swaraj* (1909).

@@ -25,7 +25,7 @@ gaps:
 
 # هاري غانترب
 
-محلل نفسي ولاهوتي وفيلسوف بريطاني، أستاذ في جامعة ليدز وعيادة تافيستوك، المنظّر الأبرز لـ «الظواهر الفصامية والذات التراجعية».
+محلل نفسي ولاهوتي وفيلسوف بريطاني، عمل قسّاً كونغريغاليّاً في ليدز قبل أن يتحول إلى العلاج النفسي، ثم محاضراً ومعالجاً نفسياً في قسم الطب النفسي بجامعة ليدز، وزميلاً في الجمعية البريطانية لعلم النفس؛ المنظّر الأبرز لـ «الظواهر الفصامية والذات التراجعية».
 
 ## ما أعطاه
 
@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 بنية الشخصية والتفاعل الإنساني (Personality Structure and Human Interaction, 1961) · الظواهر الفصامية وعلاقات الموضوع والذات (Schizoid Phenomena, Object Relations and the Self, 1969) · نظرية التحليل النفسي والعلاج والذات (Psychoanalytic Theory, Therapy, and the Self, 1971) · «تجربتي في التحليل مع فيربيرن ووينيكوت» (1975).
+
+## المصادر
+
+- Harry Guntrip — Wikipedia: https://en.wikipedia.org/wiki/Harry_Guntrip
+- History of Harry Guntrip & The Trust, Psychotherapy in Yorkshire: https://harryguntriptrust.co.uk/history/
+- Guntrip, H. (1975). "My Experience of Analysis with Fairbairn and Winnicott." *International Review of Psycho-Analysis*.

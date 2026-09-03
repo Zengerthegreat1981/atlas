@@ -18,8 +18,8 @@ related:
 - id: "thk-mbalint", title: "مايكل بالِنت", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
-  - "سنة الميلاد والوفاة الدقيقتان غير مؤكدتين."
-  - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "تاريخا الميلاد والوفاة (16 يونيو 1898 – 19 أغسطس 1939، مانشستر) مؤكدان من مصادر مستقلة؛ سبب الوفاة الموثّق هو تمزّق أم دم أبهرية."
+  - "لا يوجد اقتباس مباشر مترجم رسمياً من مقالها «حب الأم وحب الأمومة» (1939)."
 ---
 
 # أليس بالينت
@@ -28,7 +28,7 @@ gaps:
 
 ## ما أعطته
 
-ساهمت في «نقل» التحليل النفسي الكلاسيكي (Anna Freudian) إلى السياق المجري، وأشرفت على عيادة للأطفال في بودابست. كتبت عن «المراحل المبكرة للتعلق» (Early Attachment) و«معنى الأم» (Meaning of Mother) من منظور تحليلي. أثّرت بشكل غير مباشر في Michael Balint في تطوير «الصدع الأساسي» (Basic Fault) و«الحب الأوّلي» (Primary Love، كتابه الصادر بعد وفاتها عام 1952).
+عملت محلّلة نفسية للأطفال في العيادة النفسية-التحليلية ببودابست (Budapest Psychoanalytic Polyclinic)، وكتبت كتابها المعروف عن نفسية الطفولة المبكرة «A Gyermekszoba pszichológiája» (بالمجرية، تُرجم لاحقاً بعنوان قريب من «سيكولوجيا حجرة الطفل/سنوات الحياة الأولى»)، كما نشرت مقالها الأشهر «حب الأم وحب الأمومة» (Love for the Mother and Mother-Love)، الذي ظهر بالألمانية عام 1939 عشية وفاتها ثم تُرجم إلى الإنجليزية في المجلة الدولية للتحليل النفسي. أثّرت بشكل مباشر في زوجها مايكل بالِنت، الذي جمع، في كتابه الصادر بعد وفاتها عام 1952 «الحب الأوّلي والتقنية التحليلية النفسية» (Primary Love and Psycho-Analytic Technique)، عدداً من أبحاثهما المشتركة والمنفردة، والذي مهّد لاحقاً لمفهومه عن «الصدع الأساسي» (Basic Fault).
 
 ## موقعها من التيار
 
@@ -39,4 +39,11 @@ gaps:
 
 ## أهم أعمالها
 
-مقالات في علاج الأطفال في المجر · مساهمات في تأسيس مدرسة Balint في بودابست.
+A Gyermekszoba pszichológiája (كتابها عن سيكولوجيا الطفولة المبكرة) · حب الأم وحب الأمومة (Love for the Mother and Mother-Love, 1939) · مقالات مشتركة مع مايكل بالِنت جُمعت في «الحب الأوّلي والتقنية التحليلية النفسية»، الصادر بعد وفاتها (1952).
+
+## المصادر
+
+- Alice Balint, Wikipedia: https://en.wikipedia.org/wiki/Alice_Balint
+- Encyclopedia.com, "Balint-Székely-Kovács, Alice (1898-1939)": https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/balint-szekely-kovacs-alice-1898-1939
+- PEP-Web, "Love for the Mother and Mother-Love": https://pep-web.org/search/document/IJP.030.0251A
+- PEP-Web, Michael Balint, "Primary Love and Psychoanalytic Technique" (1952): https://pep-web.org/search/document/PAQ.024.0438A

@@ -34,3 +34,9 @@ gaps:
 
 - *The Magic of Thinking Big (1959)*
 - *The Magic of Getting What You Want (1983)*
+
+## المصادر
+
+- David J. Schwartz (motivational writer) — Wikipedia: https://en.m.wikipedia.org/wiki/David_J._Schwartz_(motivational_writer)
+- The Magic of Thinking Big — Wikipedia: https://en.wikipedia.org/wiki/The_Magic_of_Thinking_Big
+- The Magic of Getting What You Want, Internet Archive: https://archive.org/details/magicofgettingwh00schw
