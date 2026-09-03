@@ -46,3 +46,10 @@ gaps:
 
 - تكلفة ACT مرتفعة نسبياً (فريق متعدد التخصصات لكل 100 عميل)، وهو ما يحد من انتشاره — وهذا نقد موجَّه للنموذج الذي روّج له راب لا للنموذج الذي ابتكره هو نفسه.
 - يتطلب بنية تحتية للخدمات المجتمعية قد لا تتوفر في بعض السياقات.
+
+## المصادر
+
+- Rapp & Goscha, *The Strengths Model: Case Management with People with Psychiatric Disabilities*, 2nd ed., Oxford University Press, 2006.
+- University of Kansas School of Social Welfare, "History of the Strengths Perspective": https://socwel.ku.edu/history-strengths-perspective
+- University of Kansas School of Social Welfare, "Retired and Emeritus Faculty and Staff": https://socwel.ku.edu/retired-faculty-staff
+- Psychiatric Services (APA), review of *The Strengths Model*: https://psychiatryonline.org/doi/10.1176/ps.50.11.1502

@@ -47,3 +47,9 @@ gaps:
 - *The Extended Mind* (1998، مع أندي كلارك).
 - *Constructing the World* (2012).
 - *Reality+: Virtual Worlds and the Problems of Philosophy* (2022).
+
+## المصادر
+
+- Wikipedia, "David Chalmers": https://en.wikipedia.org/wiki/David_Chalmers
+- John Horgan, "How Dave Chalmers Invented the 'Hard Problem'": https://johnhorgan.org/cross-check/how-dave-chalmers-invented-the-hard-problem
+- Internet Encyclopedia of Philosophy, "Hard Problem of Consciousness": https://iep.utm.edu/hard-problem-of-conciousness/

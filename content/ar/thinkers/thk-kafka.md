@@ -46,4 +46,12 @@ gaps:
 
 ## اقتباسات مختارة
 
-«ينبغي للكتاب أن يكون الفأس التي تكسر البحر المتجمّد فينا.» — رسالة إلى أوسكار پولاك، 1904
+«ينبغي للكتاب أن يكون الفأس التي تكسر البحر المتجمّد فينا.» — رسالة إلى أوسكار پولاك، 27 يناير 1904
+
+## المصادر
+
+- Camus, A. (1942/1955). *The Myth of Sisyphus*, appendix "Hope and the Absurd in the Work of Franz Kafka".
+- Brod, M. (1937/1960). *Franz Kafka: A Biography*.
+- Kafka, F. Letter to Oskar Pollak, January 27, 1904 (tr. R. & C. Winston, *Letters to Friends, Family, and Editors*, 1977).
+- Kafka, F. *Letter to His Father* (Brief an den Vater), written 1919, first published posthumously 1952.
+- "Franz Kafka." *Encyclopaedia Britannica* / *Wikipedia*.

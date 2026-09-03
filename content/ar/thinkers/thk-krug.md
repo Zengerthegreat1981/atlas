@@ -7,7 +7,7 @@ title: "أورا كروغ"
 en: "Orah Krug"
 crumb: "المدرسة الوجودية ← الناس ← أورا كروغ"
 dates: "أمريكا · معاصرة"
-active_start: 2000
+active_start: 1997
 active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
@@ -26,7 +26,7 @@ gaps:
 
 # أورا كروغ
 
-عالمة نفس إكلينيكية ومعالجة وجودية-إنسانية أمريكية، المديرة الأكاديمية لمعهد التدريب الوجودي-الإنساني (EHI) في سان فرانسيسكو، ومؤلفة مشاركة مع كيرك شنايدر في العلاج الوجودي التكاملي.
+عالمة نفس إكلينيكية ومعالجة وجودية-إنسانية أمريكية، من مؤسسي معهد التدريب الوجودي-الإنساني (Existential-Humanistic Institute, EHI) في سان فرانسيسكو ومديرة التدريب والتعليم الإكلينيكي فيه منذ تأسيسه عام 1997، ومؤلفة مشاركة مع كيرك شنايدر في العلاج الوجودي-الإنساني. نالت الدكتوراه من كلية سايبروك للدراسات العليا (Saybrook)، وكان مرشداها الرئيسيان جيمس بوجنتال وإرفن يالوم.
 
 ## ما أعطته
 
@@ -41,4 +41,11 @@ gaps:
 
 ## أهم أعمالها
 
-العلاج الوجودي-الإنساني في الممارسة العملية (Existential-Humanistic Therapy, 2010 مع كيرك شنايدر) · فصول ومقالات في التدريب الإكلينيكي الوجودي.
+العلاج الوجودي-الإنساني في الممارسة العملية (Existential-Humanistic Therapy, 2010/2017 مع كيرك شنايدر) · أساسيات الإشراف في العلاج الوجودي-الإنساني (Supervision Essentials for Existential-Humanistic Therapy, 2016 مع كيرك شنايدر) · فصول ومقالات في التدريب الإكلينيكي الوجودي.
+
+## المصادر
+
+- APA Books, "Existential–Humanistic Therapy" (editions overview): apa.org/pubs/books/existential-humanistic-therapy-third-edition
+- APA Books, "Supervision Essentials for Existential–Humanistic Therapy": apa.org/pubs/books/4317423
+- Saybrook University, صفحة السيرة الأكاديمية لأورا كروغ: saybrook.edu/faculty/byname/Orah_Krug
+- Existential-Humanistic Institute (ehinstitute.org), صفحات فريق العمل والسيرة

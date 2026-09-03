@@ -52,3 +52,10 @@ gaps:
 «حياة الإنسان [في حالة الطبيعة] منعزلة، فقيرة، كريهة، وحشية، وقصيرة.» (اللفياثان، ب13)
 
 «الميل العام للبشرية كافّةً: رغبة دائمة لا تهدأ في القوة تلو القوة، لا تنقطع إلا بالموت.» (اللفياثان، ب11)
+
+## المصادر
+
+- Thomas Hobbes, *Leviathan* (1651), Chapter 11 & 13 — نص الاقتباسين مطابق حرفياً للأصل الإنجليزي.
+- "Thomas Hobbes", *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/hobbes-moral/
+- "De Cive", *Wikipedia* (1642): https://en.wikipedia.org/wiki/De_Cive
+- "De Corpore", *Wikipedia* (1655): https://en.wikipedia.org/wiki/De_Corpore

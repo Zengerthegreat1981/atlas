@@ -15,7 +15,7 @@ active_end: 1970
 edges:
 - rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
 related:
-- id: "thk-lwittgenstein", title: "فيتغنشتاين", type: "مفكر"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
 - id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
 - id: "ctx-manhattan-project-atomic-age", title: "مشروع مانهاتن وميلاد العصر النووي ومأزق مسؤولية العلماء", type: "سياق/تقليد"
@@ -46,4 +46,12 @@ gaps:
 
 ## الأثر
 
-أثّر راسل مباشرة في فيتغنشتاين (الذي جاءه بتوصية من فريغه)، وعلى الوضعية المنطقية، وعلى فلسفة اللغة التحليلية. حصل على جائزة نوبل في الآداب عام 1950. في 1955 وقّع مع أينشتاين «بيان راسل-أينشتاين» محذّراً من خطر الأسلحة النووية، وظل ناشطاً في الحملة ضد التسلح النووي والقضايا العامة حتى أواخر الستينيات، أي حتى قرب وفاته عام 1970.
+أثّر راسل مباشرة في فيتغنشتاين (الذي جاءه بتوصية من فريغه)، وعلى الوضعية المنطقية، وعلى فلسفة اللغة التحليلية. حصل على جائزة نوبل في الآداب عام 1950 "تقديراً لكتاباته المتنوعة والمهمة التي يدافع فيها عن المثل الإنسانية وحرية الفكر". في 1955 وقّع مع أينشتاين «بيان راسل-أينشتاين» محذّراً من خطر الأسلحة النووية، وظل ناشطاً في الحملة ضد التسلح النووي والقضايا العامة حتى أواخر الستينيات، أي حتى قرب وفاته عام 1970.
+
+## المصادر
+
+- "Bertrand Russell – Biographical" — النوبل: https://www.nobelprize.org/prizes/literature/1950/russell/biographical/
+- "Bertrand Russell" — MacTutor History of Mathematics: https://mathshistory.st-andrews.ac.uk/Biographies/Russell/
+- "Bertrand Russell" — Encyclopædia Britannica: https://www.britannica.com/biography/Bertrand-Russell
+- Russell, B. (1905). "On Denoting". *Mind*, 14(56).
+- Whitehead, A.N. & Russell, B. (1910–1913). *Principia Mathematica*.

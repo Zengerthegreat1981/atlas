@@ -20,6 +20,7 @@ related:
 - id: "thk-tbrazelton", title: "تي. بيري برازيلتون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Psychology of Moral Development* (1984) بترجمة عربية معتمدة."
+  - "الملف لا يذكر ظروف وفاته (انتحار غرقاً في ميناء بوسطن في يناير 1987، بعد صراع طويل مع الاكتئاب وآلام ناجمة عن طفيليّ استوائي أصابه في بليز عام 1971) — يمكن إضافتها إن أُريد توسيع السيرة."
 ---
 
 # لورنس كولبرغ
@@ -42,3 +43,10 @@ gaps:
 - *The Philosophy of Moral Development* (1981).
 - *The Psychology of Moral Development* (1984).
 - *Moral Education* (مساهم، 1970).
+
+## المصادر
+
+- "Lawrence Kohlberg's stages of moral development", *Wikipedia* (en) — https://en.wikipedia.org/wiki/Lawrence_Kohlberg%27s_stages_of_moral_development
+- "Lawrence Kohlberg", *Wikipedia* (en) — https://en.wikipedia.org/wiki/Lawrence_Kohlberg
+- "Lawrence Kohlberg's Stages of Moral Development", Britannica — https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development
+- "Missing Prof's Body Found In Harbor", *The Harvard Crimson*, 9 Apr 1987 — https://www.thecrimson.com/article/1987/4/9/missing-profs-body-found-in-harbor/

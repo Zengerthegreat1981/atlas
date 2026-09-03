@@ -17,13 +17,12 @@ edges:
 related:
 - id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:
-  - "كتابها عن الطقوس العلاجية (Rituals for Our Times، مع جانين روبرتس) يستحق إدراجاً في الأعمال."
-  - "تفاصيل عملها كمحرِّرة لمجلة Family Process (2004–2011) لم تُدرَج في المتن بعد."
+  - "التفاصيل الكاملة لتدريسها في جامعة ماساتشوستس أمهرست وجامعة كالغاري قبل أينشتاين لم تُدرَج في المتن."
 ---
 
 # إيفان إمبير-بلاك
 
-معالِجة أسرية أمريكية (1944–2024)، أستاذة في كلية ألبرت أينشتاين للطب حيث أسّست معهد Urban Institute for Families and Family Therapy Training، وأستاذة سابقة في معهد أكرمان للأسرة (Ackerman Institute) حيث أسّست مركز الأسر والصحة، ومحرّرة سابقة لمجلة *Family Process*. اشتُهرت بكتاباتها عن «الأسرار الأسرية» ودورها في تشكيل الهوية والاضطراب، وهي من الأصوات المركزية في العلاج الأسري النسقي وامتداده السردي. توفيت في مايو 2024.
+معالِجة أسرية أمريكية (19 مايو 1944 – 29 مايو 2024)، أستاذة في قسم الطب النفسي بكلية ألبرت أينشتاين للطب حيث أسّست وأدارت **Urban Institute for Families and Family Therapy** — معهدٌ «بلا جدران» يقدّم إشرافاً حيّاً في عيادات ومستشفيات حي البرونكس لتدريب العاملين في الصحة النفسية على العمل مع الأسر في أصعب الحالات. وكانت أستاذة سابقة وعضوة هيئة تدريس أساسية في معهد أكرمان للأسرة (Ackerman Institute for the Family) بنيويورك، حيث أسّست وأدارت مركز الأسر والصحة (Center for Families and Health)، ومحرّرة مجلة *Family Process* بين 2004 و2011. حصلت على الدكتوراه من جامعة بيتسبرغ ودرّست أيضاً في جامعة ماساتشوستس أمهرست وجامعة كالغاري. اشتُهرت بكتاباتها عن «الأسرار الأسرية» ودورها في تشكيل الهوية والاضطراب، وهي من الأصوات المركزية في العلاج الأسري النسقي وامتداده السردي والطقوسي. توفيت في كونيتيكت في 29 مايو 2024.
 
 ## ما أعطته
 
@@ -37,5 +36,14 @@ gaps:
 
 ## أهم أعمالها
 
-- *Secrets in Families and Family Therapy* (1993).
+- *Secrets in Families and Family Therapy* (محرِّرة، 1993).
+- *Rituals in Families and Family Therapy* (مع جانين روبرتس، 1988).
 - *The Secret Life of Families* (1998).
+- *Rituals for Our Times* (مع جانين روبرتس).
+
+## المصادر
+
+- "In Memory of Evan Imber-Black" — Ackerman Institute for the Family: https://www.ackerman.org/in-memoriam/in-memory-of-evan-imber-black/
+- "Evan Imber-Black Obituary (1944–2024)" — Legacy.com.
+- "Memorial: Evan Imber-Black, Ph.D., May 19, 1944–May 29, 2024" — Journal of Systemic Therapies (Guilford Press).
+- "The Ackerman Institute: a journey of culture and diversity over six decades. A conversation with Evan Imber-Black" — Australian and New Zealand Journal of Family Therapy (2024), Wiley Online Library.

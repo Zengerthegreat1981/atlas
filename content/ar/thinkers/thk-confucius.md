@@ -17,8 +17,8 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "thk-mencius", title: "منسيوس", type: "مفكر"
-- id: "thk-xunzi", title: "شون تزو", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو (شون كوانغ)", type: "مفكر"
 - id: "con-confucian-self", title: "الذات الكونفوشيوسية", type: "مفهوم"
 - id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"
 - id: "ctx-warring-states-china-hundred-schools", title: "عصر الممالك المتحاربة في الصين وازدهار «مائة مدرسة فكرية»", type: "سياق/تقليد"
@@ -54,3 +54,9 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Lunyu* (論語، «المحاورات»، مجموعة من أقواله جمعها تلاميذه، نحو القرن 5–4 ق.م).
+
+## المصادر
+- Stanford Encyclopedia of Philosophy, "Confucius" — https://plato.stanford.edu/entries/confucius/
+- Nivison, David S., "Confucius", *Encyclopaedia Britannica* — https://www.britannica.com/biography/Confucius
+- Slingerland, Edward (trans.), *Confucius: Analects, with Selections from Traditional Commentaries*, Hackett, 2003.
+- Sima Qian (司馬遷), *Shiji* (史記), «سيرة كونفوشيوس» (المصدر السردي القديم الأساسي، طابعه شبه أسطوري بجزء منه).

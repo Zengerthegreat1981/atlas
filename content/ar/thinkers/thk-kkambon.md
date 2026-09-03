@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "كوبِي كامبون"
 en: "Kobi K. Kambon"
-dates: "الولايات المتحدة"
+dates: "الولايات المتحدة · 1943–2018"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
@@ -17,12 +17,12 @@ edges:
 related:
 - id: "thk-jakhan", title: "ويد نوبلز", type: "مفكر"
 gaps:
-  - "سنوات الميلاد لم تُراجع من مصدر أولي."
+  - "الاسم عند الميلاد: جوزيف أ. بالدوين (Joseph A. Baldwin)؛ غيّره لاحقاً إلى كوبي كازيمبي كامبون. الاسمان يشيران إلى الشخص نفسه — وهذا ما صحّح خطأً في الملف كان يُقدّم بالدوين كباحث مشارك مستقل."
 ---
 
 # كوبِي كامبون
 
-عالم نفس أمريكي إفريقي، أستاذ في **جامعة فلوريدا أ. آند م.** (وهي من الجامعات التاريخية للسود)، ومن أبرز من نقل علم النفس المتمركز حول أفريقيا من مستوى النقد النظري إلى مستوى **القياس المقنَّن** — وهذا ما يميّزه في هذا التيّار.
+عالم نفس أمريكي إفريقي (1943–2018)، وُلد باسم **جوزيف أ. بالدوين** ثم غيّره إلى **كوبي كازيمبي كامبون**، أستاذ ورئيس قسم علم النفس في **جامعة فلوريدا الزراعية والميكانيكية (FAMU)** (وهي من الجامعات التاريخية للسود) لثلاثين عاماً، ورئيس سابق لرابطة علماء النفس السود (Association of Black Psychologists، 1982)، ومن أبرز من نقل علم النفس المتمركز حول أفريقيا من مستوى النقد النظري إلى مستوى **القياس المقنَّن** — وهذا ما يميّزه في هذا التيّار.
 
 ## ما أعطاه
 
@@ -49,4 +49,11 @@ gaps:
 - *The African Personality in America: An African-Centered Framework* (1992).
 - *African/Black Psychology in the American Context: An African-Centered Approach* (1998).
 - *Cultural Misorientation: The Greatest Threat to the Survival of the Black Race in the 21st Century* (2003).
-- "The African Self-Consciousness Scale" (1985، مع جوزيف بالدوين)، *Journal of Black Psychology*.
+- "The African Self-Consciousness Scale: An Africentric Personality Questionnaire" (1985، باسم جوزيف أ. بالدوين، مع إيفون بيل)، *The Western Journal of Black Studies*, 9, 61–68.
+
+## المصادر
+
+- Jamison, D. F. (2016). "Kobi K. K. Kambon (Joseph A. Baldwin): Portrait of an African-Centered Psychologist." *Journal of Black Psychology*.
+- Baldwin, J. A., & Bell, Y. (1985). "The African Self-Consciousness Scale: An Africentric Personality Questionnaire." *The Western Journal of Black Studies*, 9, 61–68.
+- Kambon, K. K. K. (2003). *Cultural Misorientation: The Greatest Threat to the Survival of the Black Race in the 21st Century*. Nubian Nation Publications.
+- historyofblackpsychology.com — سيرة كامبون/بالدوين.

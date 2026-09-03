@@ -49,11 +49,16 @@ gaps:
 
 ## أهم الأعمال
 
-- *Maktubat Khwaja Baqi Billah (رسائل خواجة باقى بِله)* — مجموعة رسائل، نشرت في كراتشي.
-- *Tarjuma al-Wujud wa al-Shuhud (ترجمة الوجود والشهود)* — تفسير لمقولة السرهندي.
-- *Rashahat al-Qulub (رَشَحات القلوب / قطرات القلوب)* — مجموع شروحات.
-- *Maqamat al-Mureed (مقامات المريد)* — في مراحل التربية النقشبندية.
-- *Sharh-i Salat al-Naqshband (شرح صلاة النقشبند)*.
+- *Maktubat Khwaja Baqi Billah (رسائل خواجة باقى بِله)* — مجموعة رسائل ومقالات قصيرة إلى مريديه، وتُعرف مجموعتها أيضاً باسم *Kulliyat-i Baqi Billah*؛ تضم نحو سبع وثمانين رسالة (Ruqa'at) هي المصدر الأساسي لتعاليمه.
+- ملاحظة تصحيحية: كتاب *Rashahat 'Ayn al-Hayat* ("رَشَحات عين الحياة") مؤلَّفه هو علي بن حسين الصفي (تلميذ جامي، توفي أوائل القرن العاشر الهجري)، ويؤرّخ لمشايخ الخواجگان في آسيا الوسطى قبل باقى بِله بزمن طويل؛ نسبته إلى باقى بِله في نسخة سابقة من هذا الملف كانت خطأً وقد حُذفت. كذلك حُذفت عناوين أخرى (*Tarjuma al-Wujud wa al-Shuhud*, *Maqamat al-Mureed*, *Sharh-i Salat al-Naqshband*) لعدم توثيقها في مصادر مستقلة موثوقة.
+
+## المصادر
+
+- Khwaja Baqi Billah, Wikipedia (en): https://en.wikipedia.org/wiki/Khwaja_Baqi_Billah
+- "Hazrat Baqi Billah – founder of Naqshbandi silsila in India", Rana Safvi: https://ranasafvi.com/hazrat-baqi-billah-founder-of-naqshbandi-silsila-in-india/
+- Maktubat Khwaja Baqi Billah (Mohammed Abdul Hafeez), Internet Archive: https://archive.org/details/maktubatkhwajabaqibillah21
+- Ahmad Sirhindi, Wikipedia (en): https://en.wikipedia.org/wiki/Ahmad_Sirhindi
+- Rashahat 'Ayn al-Hayat (المؤلف: علي بن حسين الصفي)، إشارة توثيقية لتصحيح خطأ النسبة: https://www.islamicbookstore.com/b7021.html
 
 ## خلاصة
 

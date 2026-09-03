@@ -19,8 +19,7 @@ related:
 - id: "thk-lmazza", title: "نيكولاس مازا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Wishes, Lies, and Dreams: Teaching Children to Write Poetry* (1970) بترجمة عربية معتمدة."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: نيكولاس مازا (thk-lmazza)."
-  - "أُسقطت أربعة روابط لمدارس لا صلة له بأيٍّ منها — وهو نمط ربط مطبوع آلياً يتكرّر في مئات الملفات."
+  - "لا تعاون أو التقاء موثَّق بين كوخ ونيكولاس مازا (thk-lmazza)؛ الرابط بينهما في هذا الملف اصطلاحي فقط (كلاهما مرجع في أدبيات الشعر العلاجي)، لا تاريخي."
 ---
 
 # كينيث كوخ
@@ -38,7 +37,7 @@ gaps:
 
 ## موقعه من التيار
 
-إرث كوخ يربط بين الشعر كشكل أدبي والشعر كأداة علاجية. تكامل مع مازا في تطوير "الشعر كأداة إكلينيكية". تأثيره على تعليم الأطفال في الفصول الدراسية كبير.
+إرث كوخ يربط بين الشعر كشكل أدبي وتوظيفه لاحقاً في سياقات علاجية وتربوية على يد آخرين — لا تعاون مباشر ولا التقاء موثَّق بينه وبين نيكولاس مازا أو غيره من روّاد الشعر العلاجي. تأثيره على تعليم كتابة الشعر في الفصول الدراسية الأمريكية كبير وموثَّق.
 
 ## أهم أعماله
 
@@ -46,4 +45,11 @@ gaps:
 - *Rose, Where Did You Get That Red? Teaching Great Poetry to Children* (1973).
 - *I Never Told Anybody: Teaching Poetry Writing in a Nursing Home* (1977).
 - ودواوينه الشعرية، ومنها *Thank You and Other Poems* (1962) و*One Train* (1994).
+
+## المصادر
+
+- "Kenneth Koch", *Encyclopædia Britannica* — https://www.britannica.com/biography/Kenneth-Koch
+- "Kenneth Koch", *Wikipedia* (en) — https://en.wikipedia.org/wiki/Kenneth_Koch
+- "Fifty Years of Wishes, Lies, and Dreams", *Teachers & Writers Magazine* — https://teachersandwritersmagazine.org/kenneth-kochs-wishes-lies-and-dreams/
+- "At Play with Words", *American Educator* (AFT), Fall 2000 — https://www.aft.org/ae/fall2000/koch
 

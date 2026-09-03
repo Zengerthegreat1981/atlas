@@ -14,7 +14,7 @@ active_end: 1727
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
-- id: "dia-leibniz-clarke-correspondence", title: "مراسلات لايبنتز وكلارك", type: "حوار مع مدرسة مجاورة"
+- id: "dia-leibniz-clarke-correspondence", title: "مراسلات لايبنتز وكلارك 1715 حول الزمان والمكان والعناية", type: "حوار مع مدرسة مجاورة"
 - id: "ctx-scientific-revolution-17th", title: "الثورة العلمية في القرن السابع عشر والميكانيكية الجديدة", type: "سياق/تقليد"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
@@ -45,3 +45,9 @@ gaps:
 - *المبادئ الرياضية للفلسفة الطبيعية* (Philosophiæ Naturalis Principia Mathematica, 1687).
 - *البصريات* (Opticks, 1704).
 - *الحساب بالتدفّقات* — صياغته للتفاضل والتكامل، ومصدر نزاعه الطويل مع لايبنتز على الأسبقية.
+
+## المصادر
+
+- John Maynard Keynes, "Newton, the Man" (محاضرة 1942، نُشرت بعد وفاته 1946)، مذكورة في: NEH Humanities, "Newton, The Last Magician": https://www.neh.gov/humanities/2011/januaryfebruary/feature/newton-the-last-magician
+- "The last of the magicians", Lapham's Quarterly: https://www.laphamsquarterly.org/magic-shows/miscellany/last-magicians
+- "Newton and Alchemy I: John Maynard Keynes and the Myth of Newton the Magician": https://letstalkaboutbooks.blog/2020/10/21/newton-and-alchemy-i-john-maynard-keynes-and-the-myth-of-newton-the-magician/

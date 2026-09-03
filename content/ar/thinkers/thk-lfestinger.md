@@ -18,12 +18,12 @@ edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
-- id: "wrk-festinger-cognitive-dissonance", title: "نظرية التنافر المعرفي", type: "عمل / كتاب"
+- id: "wrk-festinger-cognitive-dissonance", title: "نظرية التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
-- id: "stu-schachter-singer-two-factor-emotion", title: "تجربة شاختر وسينغر", type: "دراسة وبحث"
+- id: "stu-schachter-singer-two-factor-emotion", title: "تجربة شاختر وسينغر لنظرية العاملين للانفعال وحقن الأدرينالين (1962)", type: "دراسة وبحث"
 - id: "thk-sasch", title: "سولومون آش", type: "مفكر"
-- id: "stu-ross-fundamental-attribution-error", title: "دراسة روس عن خطأ الإسناد", type: "دراسة وبحث"
+- id: "stu-ross-fundamental-attribution-error", title: "دراسة روس عن خطأ الإسناد الأساسي في لعبة المسابقات", type: "دراسة وبحث"
 gaps:
   - "التفاصيل الدقيقة لمسيرته البحثية بعد انتقاله لدراسة علم النفس البصري وتاريخ العلم في الستينيات غير مفصّلة هنا."
   - "لا يوجد اقتباس مباشر موثوق من *A Theory of Cognitive Dissonance* (1957) بترجمة عربية معتمدة."
@@ -31,7 +31,7 @@ gaps:
 
 # ليون فِستِنغر
 
-عالم نفس اجتماعي أمريكي، وُلد في 8 مايو 1919 في بروكلين، نيويورك، وتُوفّي في 11 فبراير 1989 في نيو هيفن. يُعدّ من أكثر علماء النفس الاجتماعي تأثيراً في القرن العشرين، إذ طوّر نظريتين رئيسيتين شكّلتا وعي الباحثين في مجالات التعلّم الاجتماعي، والإقناع، والإدمان، واتخاذ القرار: نظرية التنافر المعرفي (1957) ونظرية المقارنة الاجتماعية (1954).
+عالم نفس اجتماعي أمريكي، وُلد في 8 مايو 1919 في بروكلين، نيويورك، وتُوفّي في 11 فبراير 1989 في مدينة نيويورك (بمرض سرطان الكبد). يُعدّ من أكثر علماء النفس الاجتماعي تأثيراً في القرن العشرين، إذ طوّر نظريتين رئيسيتين شكّلتا وعي الباحثين في مجالات التعلّم الاجتماعي، والإقناع، والإدمان، واتخاذ القرار: نظرية التنافر المعرفي (1957) ونظرية المقارنة الاجتماعية (1954).
 
 ## ما أعطاه
 
@@ -61,3 +61,10 @@ gaps:
 - **المقارنة الاجتماعية (Social Comparison).**
 - **التوتّر ما بعد الالتزام (Post-Commitment Tension).**
 - **الاختزال الإدراكي (Cognitive Reduction) للتنافر.**
+
+## المصادر
+
+- Leon Festinger, *Encyclopædia Britannica* — https://www.britannica.com/biography/Leon-Festinger
+- "Leon Festinger", *Wikipedia* (en) — https://en.wikipedia.org/wiki/Leon_Festinger
+- "Psychologist Leon Festinger Dies", *The Washington Post*, 13 Feb 1989 — https://www.washingtonpost.com/archive/local/1989/02/13/psychologist-leon-festinger-dies/a8dca308-3aa4-4916-928c-98b78984b148/
+- New World Encyclopedia, "Leon Festinger" — https://www.newworldencyclopedia.org/entry/Leon_Festinger

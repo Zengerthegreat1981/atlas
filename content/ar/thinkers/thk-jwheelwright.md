@@ -29,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-تحلّل ويلرايت وزوجته **جين ويلرايت** على يونغ وماري-لويز فون فرانز وتوني وولف في زيورخ في الثلاثينيات، ثم عادا إلى كاليفورنيا فأسّسا مع **جوزيف هندرسون** نادي علم النفس التحليلي بسان فرانسيسكو (1939)، ومنه نشأ لاحقاً **معهد يونغ في سان فرانسيسكو** (1964) — وصار مركز التحليل اليونغي في الساحل الغربي الأمريكي. ودرّس الطبّ النفسي في مركز جامعة كاليفورنيا الطبّي في سان فرانسيسكو أكثر من ثلاثين سنة.
+تحلّل ويلرايت وزوجته **جين ويلرايت** على يونغ وماري-لويز فون فرانز وتوني وولف في زيورخ في الثلاثينيات، ثم عادا إلى كاليفورنيا فأسّسا مع **جوزيف هندرسون** نادي علم النفس التحليلي بسان فرانسيسكو (1939)، ومنه نشأ لاحقاً **معهد يونغ في سان فرانسيسكو** (1943) — وصار مركز التحليل اليونغي في الساحل الغربي الأمريكي. ودرّس الطبّ النفسي في مركز جامعة كاليفورنيا الطبّي في سان فرانسيسكو أكثر من ثلاثين سنة.
 
 وأسهم في تطوير **مقياس غراي-ويلرايت** (Gray-Wheelwright Type Indicator)، وهو من أوائل أدوات قياس الأنماط اليونغية وسابق على مؤشّر مايرز-بريغز، وقد استعمله في محاولةٍ لإخضاع تصنيف يونغ للفحص الكمّي.
 
@@ -50,5 +50,7 @@ gaps:
 
 ## المصادر
 
-- Wheelwright, J.B. (1982). *St. George and the Dandelion: Forty Years of Practice as a Jungian Analyst*. San Francisco: C.G. Jung Institute of San Francisco.
-- "Jane Hollister and Joseph Wheelwright Papers" — Online Archive of California (OAC), finding aid.
+- Wheelwright, J.B. (1982). *St. George and the Dandelion: Forty Years of Practice as a Jungian Analyst* (preface by Erik H. Erikson, foreword by Gregory Bateson). San Francisco: C.G. Jung Institute of San Francisco.
+- "Jane Hollister and Joseph Wheelwright Papers" — Online Archive of California (OAC), finding aid: https://oac.cdlib.org/findaid/ark:/13030/c86q232h/
+- "About" — C.G. Jung Institute of San Francisco (history, founding 1943): https://sfjung.org/about/
+- "Joseph L. Henderson" — Wikipedia (co-founding of the San Francisco analytic community).

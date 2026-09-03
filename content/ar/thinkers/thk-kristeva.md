@@ -57,3 +57,10 @@ gaps:
 **والثاني — موقعها من النسوية.** ترفض كريستيفا أن تُصنَّف نسوية، وانتقدت النسوية المطالِبة بالسلطة بوصفها إعادة إنتاج للمنطق نفسه؛ وأخذ عليها نقّاد أن ربطها **السيميائي** بالأمومي وبالجسد الأنثوي يعيد — رغم قصدها — تثبيت المرأة في موقع ما قبل الرمزي، أي خارج اللغة والقانون. وهو الاعتراض نفسه الذي وُجّه إلى إريغاراي.
 
 **والثالث — ملف 2018.** نشرت لجنة الأرشيف البلغارية وثائق تفيد بأنها كانت مسجَّلة عميلةً لجهاز أمن الدولة الشيوعي باسم حركي («سابينا») منذ أواخر الستينيات. وقد **نفت كريستيفا** ذلك نفياً قاطعاً ووصفت الوثائق بأنها ملفّقة أو منسوبة إليها دون علمها، وشكّك باحثون في قيمة أرشيفات من هذا النوع لأنها كثيراً ما تسجّل «مصادر» لم توافق على شيء. والمسألة **غير محسومة**، وتُذكر هنا لأنها صارت جزءاً من النقاش حول عملها.
+
+## المصادر
+
+- The Sofia Globe, "Dossier Commission: Julia Kristeva worked for Bulgaria's communist-era secret service State Security" (27 March 2018): https://sofiaglobe.com/2018/03/27/dossier-commission-julia-kristeva-worked-for-bulgarias-communist-era-secret-service-state-security/
+- Balkan Insight, "Julia Kristeva Denies Being Bulgarian Security Agent" (29 March 2018): https://balkaninsight.com/2018/03/29/julia-kristeva-denies-being-communist-state-security-spy-03-29-2018/
+- Eurozine, "Agent Sabina: On the abjection of Julia Kristeva": https://www.eurozine.com/agent-sabina-abjection-julia-kristeva/
+- Wikipedia (English), "Julia Kristeva": https://en.wikipedia.org/wiki/Julia_Kristeva

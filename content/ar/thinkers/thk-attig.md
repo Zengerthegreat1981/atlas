@@ -8,7 +8,7 @@ en: "Thomas Attig"
 crumb: "المدرسة الوجودية ← الناس ← توماس آتيغ"
 dates: "أمريكا · مواليد 1945"
 active_start: 1996
-active_end: 2000
+active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
@@ -42,3 +42,11 @@ gaps:
 ## أهم أعماله
 
 كيف نحزن: إعادة تعلم العالم (How We Grieve: Relearning the World, 1996) · قلب الحزن: مواجهة الموت كتحول وجودي (The Heart of Grief, 2000).
+
+حاز جائزة ADEC لمربي الموت المتميز (ADEC Death Educator Award) عام 2015، وشغل سابقاً رئاسة جمعية تعليم ودراسات الموت (Association for Death Education and Counseling).
+
+## المصادر
+
+- Oxford University Press, صفحة كتاب "How We Grieve: Relearning the World": global.oup.com/academic/product/how-we-grieve-9780195397697
+- Association for Death Education and Counseling (ADEC), قائمة الرؤساء السابقين: adec.org/page/Past_Presidents
+- AfterTalk / Open to Hope، صفحات مؤلف توماس آتيغ (سيرة ونشاط مستمر بعد 2019)

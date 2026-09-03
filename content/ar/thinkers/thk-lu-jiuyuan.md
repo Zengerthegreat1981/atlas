@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 related:
 - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
-- id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ (وانغ شو رن)", type: "مفكر"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 gaps:
   - "ملف مكرر مع thk-lu-xiangshan: نفس الشخص (لو جيو يوان المعروف بلقب لو شيانغ شان)، بنفس التواريخ (1139-1193) ونفس مدرسة Xinxue. يحتاج قرار دمج + إحالة من رئيس التحرير."
@@ -49,3 +49,10 @@ gaps:
 
 - *Xiangshan Xiansheng Quanji* (象山先生全集، "أعمال سيد شيانغ شان الكاملة").
 - *Xiangshan Yulu* (象山语录، "سِجِلّ أقوال شيانغ شان").
+
+## المصادر
+
+- Lu Xiangshan, Encyclopedia.com: https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/lu-xiangshan
+- Lu Jiuyuan, Encyclopedia.com: https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/benelux-political-geography/lu-jiuyuan
+- "Lu Xiangshan's Ethical Philosophy", Springer Nature Link: https://link.springer.com/chapter/10.1007/978-90-481-2930-0_12
+- Goose Lake Debate (鹅湖之会), Baidu Baike (en): https://baike.baidu.com/en/item/Goose%20Lake%20Debate/1445248

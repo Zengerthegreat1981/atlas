@@ -18,7 +18,7 @@ related:
 - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Vanderbilt لم تُراجع."
-  - "لا يوجد اقتباس مباشر موثوق من *Time-Limited Dynamic Psychotherapy* (1984) بترجمة عربية معتمدة."
+  - "لا يوجد اقتباس مباشر موثوق من *Psychotherapy in a New Key* (1984) بترجمة عربية معتمدة."
 ---
 
 # هانس ستروب
@@ -39,9 +39,18 @@ gaps:
 
 ## أهم أعماله
 
-- *Time-Limited Dynamic Psychotherapy* (مع J. L. Binder، 1984).
+- *Psychotherapy in a New Key: A Guide to Time-Limited Dynamic Psychotherapy* (مع Jeffrey L. Binder، Basic Books، 1984).
 - "Vanderbilt I and Vanderbilt II" (دراسات).
 - *Psychotherapy: Clinical, Research, and Theoretical Issues* (محرر).
 
 ## القيد
 موقع ستروب في تاريخ الحقل مفارق: قضى عمره في بناء نموذج ديناميكي مقنَّن قابل للتدريس، ثم أنتجت أبحاثه هو أقوى الأدلّة على أن التقنية ليست هي الفاعل الأول، وأن تدريب المعالجين عليها قد يضرّ. وهذا ما جعله مرجعاً للطرفين معاً في جدل «العوامل المشتركة» مقابل «التدخّلات النوعية».
+
+## المصادر
+- "Psychotherapy research pioneer Hans Strupp dies", Vanderbilt University News, 2006: https://news.vanderbilt.edu/2006/10/06/psychotherapy-research-pioneer-hans-strupp-dies-58867/
+- "Hans H. Strupp (1921–2006)", *American Psychologist*, 62(3), 2007: https://www.ovid.com/journals/ampsy/pdf/10.1037/0003-066x.62.3.249~hans-h-strupp-19212006
+- "Hans Hermann Strupp" — Wikipedia: https://en.wikipedia.org/wiki/Hans_Herrman_Strupp
+- Strupp, H. H., & Hadley, S. W. (1979). "Specific vs nonspecific factors in psychotherapy: A controlled study of outcome." *Archives of General Psychiatry*, 36(10), 1125–1136.
+- "The Vanderbilt I Study Revisited", *Psychotherapy Research*, 8(1), 1998: https://www.tandfonline.com/doi/abs/10.1080/10503309812331332167
+- "The Vanderbilt Psychotherapy Studies: Synopsis" — ResearchGate: https://www.researchgate.net/publication/14873343_The_Vanderbilt_Psychotherapy_Studies_Synopsis
+- Strupp, H. H., & Binder, J. L. (1984). *Psychotherapy in a New Key: A Guide to Time-Limited Dynamic Psychotherapy*. Basic Books.

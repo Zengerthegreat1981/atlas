@@ -13,7 +13,7 @@ country: "مصر"
 language: "العربية / الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 في الثقافة المصرية (1955 مع عبد العظيم أنيس) · معارك فكرية (1970) · الوعي والوعي الزائف في الفكر العربي المعاصر (1986).
+
+## المصادر
+
+- ويكيبيديا العربية، "محمود أمين العالم": https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A3%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85
+- Ibn Rushd Fund, "نبذة عن حياة محمود أمين العالم": https://ibn-rushd.org/wp/ar/2001/12/08/cv-mahmoud-amin-el-alem-ar/
+- جريدة الدستور، "من الدرب الأحمر إلى باريس.. رحلة التكوين الفكري لـ محمود أمين العالم": https://www.dostor.org/5375199

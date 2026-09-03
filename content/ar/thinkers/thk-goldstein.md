@@ -46,3 +46,9 @@ gaps:
 ## اقتباسات مختارة
 
 العبارة التي كانت مدرجة سابقاً هنا («الكائن الحي تحكمه غريزة واحدة») حُذفت لأنها صياغة تلخيصية تخالف موقف غولدشتاين نفسه، إذ كان يرفض لغة «الغرائز» صراحةً ويتكلّم عن **ميل** (Tendenz) لا عن غريزة. ولم يُعثر بعد على اقتباس بديل مسند لمصدر وسنة محددين.
+
+## المصادر
+
+- Wikipedia, "Kurt Goldstein": en.wikipedia.org/wiki/Kurt_Goldstein
+- Kurt Goldstein, *The Organism: A Holistic Approach to Biology Derived from Pathological Data in Man* (Zone Books, 1995 reprint, مقدمة أوليفر ساكس)
+- Encyclopedia.com, مدخل "Goldstein, Kurt"

@@ -17,13 +17,13 @@ evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
-- id: "thk-jledoux", title: "جوزيف ليدو", type: "مفكر"
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
+- id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
 - id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "con-somatic-marker", title: "العلامة الجسدية (Somatic Marker)", type: "مفهوم"
-- id: "wrk-descartes-error", title: "خطأ ديكارت", type: "عمل / كتاب"
+- id: "wrk-descartes-error", title: "خطأ ديكارت: العاطفة والعقل والدماغ البشري", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الشعور (Feeling) عند داماسيو (con-feelings)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الذات المتجسِّدة (con-embodied-self)"
@@ -86,3 +86,10 @@ gaps:
 - **"الشعور بما يحدث" (The Feeling of What Happens, 1999)** — نظرية الوعي.
 - **"الذات تأتي إلى الذهن" (Self Comes to Mind, 2010)** — نظرية الذات المتجسِّدة.
 - **"الترتيب الغريب للأشياء" (The Strange Order of Things, 2018)** — نظرية الانفعالات/الثقافة/الوعي.
+
+## المصادر
+
+- Antonio Damasio, *Descartes' Error: Emotion, Reason, and the Human Brain* (1994).
+- "Somatic marker hypothesis", *Wikipedia*: https://en.wikipedia.org/wiki/Somatic_marker_hypothesis
+- Damasio, A. & Damasio, H. (1996), "The somatic marker hypothesis and the possible functions of the prefrontal cortex", *Phil. Trans. R. Soc. Lond. B*: https://pubmed.ncbi.nlm.nih.gov/8941953/
+- "Descartes' Error", *Wikipedia*: https://en.wikipedia.org/wiki/Descartes'_Error

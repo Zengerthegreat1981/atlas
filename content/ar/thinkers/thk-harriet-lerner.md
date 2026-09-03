@@ -6,7 +6,7 @@ level: "متوسط"
 title: "هارييت ليرنر"
 en: "Harriet Lerner"
 crumb: "علم النفس الشعبي ← العلاج الأسري ← هارييت ليرنر"
-dates: "الولايات المتحدة (كولورادو) · 1944–"
+dates: "الولايات المتحدة (بروكلين، نيويورك) · 1944–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
@@ -15,8 +15,8 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-susan-forward", title: "سوزان فوروارد", type: "مفكر"
-- id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري", type: "مفهوم"
-- id: "con-family-projection-process", title: "عملية الإسقاط الأسري", type: "مفهوم"
+- id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري (Enmeshment & Disengagement)", type: "مفهوم"
+- id: "con-family-projection-process", title: "عملية الإسقاط الأسري (Family Projection Process)", type: "مفهوم"
 - id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 gaps:
   - "edges.belongs_to أُفرغ: لا يوجد slug حقيقي في الأطلس لـ«علم النفس الشعبي والعلاج الأسري»."
@@ -27,7 +27,7 @@ gaps:
 
 # هارييت ليرنر
 
-عالمة نفس أمريكية عملت أخصائية نفسية ومعالِجة في **عيادة مينينغر** (Menninger Clinic) في توبيكا، كنساس، أكثر من ثلاثة عقود، وأشرفت على متدرّبين في مدرسة كارل مينينغر للطب النفسي. من أكثر المؤلّفات النسوية المؤثّرات في مجال العلاج الأسري، اشتُهرت بـ«رقصة الغضب» التي غيّرت طريقة فهم المرأة لذاتها داخل الأسرة. عملها يلتقي مع **النسوية العلاجية** (Feminist Family Therapy) ومع **نظرية الأنظمة الأسرية** في آن، ويجعل من صراحة المرأة «محرّكاً للتغيير» لا «مشكلةً داخل الأسرة».
+عالمة نفس أمريكية وُلدت في بروكلين، نيويورك (30 نوفمبر 1944)، حصلت على البكالوريوس من جامعة ويسكونسن-ماديسون (1966)، والماجستير من جامعة كولومبيا (1967)، والدكتوراه في علم النفس الإكلينيكي من جامعة مدينة نيويورك (CUNY، 1972). انتقلت إلى توبيكا، كنساس، عام 1972 والتحقت بـ**عيادة مينينغر** (Menninger Clinic) أخصائيةً نفسية ومعالِجة حتى عام 2001 (نحو ثلاثة عقود)، وأشرفت على متدرّبين في مدرسة كارل مينينغر للطب النفسي. تقيم حالياً في لورانس، كنساس. من أكثر المؤلّفات النسوية المؤثّرات في مجال العلاج الأسري، اشتُهرت بـ«رقصة الغضب» التي غيّرت طريقة فهم المرأة لذاتها داخل الأسرة. عملها يلتقي مع **النسوية العلاجية** (Feminist Family Therapy) ومع **نظرية الأنظمة الأسرية** في آن، ويجعل من صراحة المرأة «محرّكاً للتغيير» لا «مشكلةً داخل الأسرة».
 
 ## ما أعطته
 
@@ -51,3 +51,10 @@ gaps:
 ## اقتباسات مختارة
 
 لم يُعثر على اقتباس مباشر موثَّق من أعمالها بالعربية أو الإنجليزية يمكن نسبته بدقّة إلى صفحة ومصدر محدَّدين؛ تُرك هذا القسم فارغاً بدل تأليف اقتباس.
+
+## المصادر
+
+- Harriet Lerner — Wikipedia: https://en.wikipedia.org/wiki/Harriet_Lerner
+- Encyclopedia.com, "Lerner, Harriet 1944-": https://www.encyclopedia.com/arts/educational-magazines/lerner-harriet-1944
+- Forbes, "What Selling 3 Million Copies Of 'The Dance Of Anger' Has Taught Renowned Psychologist Harriet Lerner" (2014): https://www.forbes.com/sites/kathycaprino/2014/04/23/what-selling-3-million-copies-of-the-dance-of-anger-has-taught-renowned-psychologist-harriet-lerner/
+- Washburn University, "Harriet Lerner, Kansas author": https://www.washburn.edu/reference/cks/mapping/lernerh/index.html
